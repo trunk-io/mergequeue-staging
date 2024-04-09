@@ -16001,7 +16001,6 @@ antiquarianize
 antiquarianly
 antiquarians
 ablepharous
-antiquaries
 antiquarism
 antiquarium
 antiquartan
@@ -25352,6 +25351,7 @@ azotized
 azotizes
 azotizing
 azotobacterieae
+antiquaries
 azotoluene
 azotometer
 azotorrhea
