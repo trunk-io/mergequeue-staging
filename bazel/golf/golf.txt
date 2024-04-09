@@ -4372,7 +4372,6 @@ gynarchies
 gyne
 glibbest
 gyneccia
-gynecia
 gynecic
 gynecicgynecidal
 gynecide
@@ -5315,6 +5314,7 @@ gleaming
 gleamingly
 gleamless
 gleams
+gynecia
 glean
 gleanable
 gleaned
