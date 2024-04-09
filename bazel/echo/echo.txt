@@ -3909,7 +3909,6 @@ eavesdrip
 emigrants
 emigrate
 emigrates
-emigrating
 emigration
 emigrational
 emigrationist
@@ -13435,6 +13434,7 @@ exquisitively
 exquisitiveness
 exradio
 exradius
+emigrating
 exrupeal
 exrx
 exsanguinate
