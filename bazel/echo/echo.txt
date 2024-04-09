@@ -4788,7 +4788,6 @@ encloud
 encoach
 encode
 encoded
-encoder
 encoders
 encoding
 encodings
@@ -11090,6 +11089,7 @@ euploidy
 euploidies
 euploids
 euplotid
+encoder
 eupnea
 eupneas
 eupnoea
