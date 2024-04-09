@@ -5384,7 +5384,6 @@ begut
 behale
 behalf
 behallow
-behalves
 behammer
 behang
 behap
@@ -7139,6 +7138,7 @@ bespit
 besplash
 besplatter
 besplit
+behalves
 bespoke
 bespoken
 bespot
