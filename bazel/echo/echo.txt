@@ -7761,7 +7761,6 @@ epidermal
 enthelmintha
 epidermatic
 epidermatoid
-epidermatous
 extracanonical
 effront
 epidermic
@@ -12273,6 +12272,7 @@ excuseful
 excusefully
 excuseless
 excuser
+epidermatous
 excusers
 excuses
 excusing
