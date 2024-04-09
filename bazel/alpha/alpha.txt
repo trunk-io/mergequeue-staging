@@ -6987,7 +6987,6 @@ airt
 airted
 airthed
 among
-airthing
 airths
 airtight
 airtightness
@@ -13212,6 +13211,7 @@ animatism
 animatist
 animatistic
 animative
+airthing
 animato
 animatograph
 animator
