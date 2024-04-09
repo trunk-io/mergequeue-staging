@@ -7790,7 +7790,6 @@ grama
 gemmae
 gramary
 gramarye
-gramaries
 gramaryes
 gramas
 grame
@@ -10701,6 +10700,7 @@ guergal
 gustativeness
 gustatory
 gustatorial
+gramaries
 gustatorially
 gustavus
 gusted
