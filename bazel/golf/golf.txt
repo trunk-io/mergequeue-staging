@@ -6433,7 +6433,6 @@ gobbed
 gobber
 gobbet
 gobby
-gobbin
 gobbing
 gobble
 gobbled
@@ -8383,6 +8382,7 @@ gratulating
 gratulation
 gratulatory
 gratulatorily
+gobbin
 graunt
 graupel
 grudgers
