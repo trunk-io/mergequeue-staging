@@ -5877,7 +5877,6 @@ depredatory
 deontic
 depredicate
 deprehend
-deprehensible
 depress
 diploptera
 depressanth
@@ -16727,6 +16726,7 @@ drate
 drats
 dratted
 dratting
+deprehensible
 draught
 draughtboard
 draughted
