@@ -1491,6 +1491,7 @@ garrison
 garrisoned
 garrisonian
 garrisoning
+grubstaker
 garrisonism
 garrisons
 garrnishable
@@ -9602,7 +9603,6 @@ grubroot
 grubs
 grubstake
 grubstaked
-grubstaker
 grubstakes
 grubstaking
 grubstreet
