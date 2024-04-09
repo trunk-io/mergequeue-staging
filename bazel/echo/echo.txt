@@ -3132,7 +3132,6 @@ elon
 epicentra
 elong
 elongate
-elongates
 elongating
 elongation
 elongations
@@ -5127,6 +5126,7 @@ endocoeliac
 endocolitis
 endocolpitis
 excitative
+elongates
 endocone
 endoconidia
 endoconidium
