@@ -10490,7 +10490,6 @@ chilenite
 chiles
 chyles
 chili
-chiliad
 chiliadal
 chiliadic
 chiliadron
@@ -26247,6 +26246,7 @@ costoclavicular
 costocolic
 costocoracoid
 costodiaphragmatic
+chiliad
 costogenic
 costoinferior
 costophrenic
