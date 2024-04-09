@@ -5465,6 +5465,7 @@ catalogia
 catalogic
 catalogical
 cataloging
+chirpy
 catalogist
 catalogistic
 catalogize
@@ -10981,7 +10982,6 @@ chirp
 chirped
 chirper
 chirpers
-chirpy
 chirpier
 chirpiest
 chirpily

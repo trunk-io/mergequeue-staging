@@ -7233,7 +7233,6 @@ footmenfootpad
 footnote
 footnoted
 footnotes
-footpace
 footpaces
 forefather
 footpad
@@ -8867,6 +8866,7 @@ fossilizing
 fossillike
 fossilogy
 fossilology
+footpace
 fossilological
 fossils
 fosslfying
