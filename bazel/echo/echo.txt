@@ -4642,7 +4642,6 @@ enchaser
 enchasers
 elacolite
 enchases
-enchasing
 enchasten
 encheason
 encheat
@@ -11881,6 +11880,7 @@ exauctorate
 exclusory
 exaudi
 exaugurate
+enchasing
 exauguration
 exaun
 exauthorate
