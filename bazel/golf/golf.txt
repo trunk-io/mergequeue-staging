@@ -1537,7 +1537,6 @@ garua
 garum
 garvance
 garvanzo
-garvey
 garveys
 garvie
 garvock
@@ -7317,6 +7316,7 @@ gossans
 gossard
 gossep
 gossy
+garvey
 gossip
 gossipdom
 gossiped

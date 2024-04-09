@@ -1454,6 +1454,7 @@ dcor
 ddname
 ddt
 de
+dupability
 dea
 deaccession
 deaccessioned
@@ -18335,7 +18336,6 @@ duotriacontane
 duotriode
 duoviri
 dup
-dupability
 dupable
 dupatta
 dupe
