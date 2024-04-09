@@ -11641,7 +11641,6 @@ anaglyphs
 anaglypta
 anaglyptic
 anaglyptical
-anaglyptics
 anaglyptography
 anaglyptographic
 anaglypton
@@ -19532,6 +19531,7 @@ argyrol
 argyroneta
 argyropelecus
 argyrose
+anaglyptics
 argyrosis
 argyrosomus
 argive
