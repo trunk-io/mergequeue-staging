@@ -7899,7 +7899,6 @@ forepurpose
 frontways
 forequarter
 forequarters
-fleet
 forerake
 foreran
 forerank
@@ -9583,6 +9582,7 @@ freath
 forfear
 freck
 frecked
+fleet
 frecken
 freckened
 frecket
