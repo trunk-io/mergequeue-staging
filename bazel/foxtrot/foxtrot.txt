@@ -2968,7 +2968,6 @@ fratority
 feverweed
 feverwort
 few
-fewer
 fewest
 fewmand
 fewmets
@@ -4984,6 +4983,7 @@ flannelmouths
 flannels
 flanning
 flanque
+fewer
 flans
 flapcake
 freeloader
