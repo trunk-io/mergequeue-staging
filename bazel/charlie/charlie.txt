@@ -5785,7 +5785,6 @@ catfoot
 catfooted
 catgut
 catguts
-cath
 catha
 convolutionary
 cathay
@@ -26527,6 +26526,7 @@ couching
 couchings
 couchmaker
 couchmaking
+cath
 couchmate
 coud
 coude
