@@ -15814,7 +15814,6 @@ cleanout
 cleansable
 cleanse
 cleanser
-cleansers
 cleanses
 cleansing
 cleanskin
@@ -16758,6 +16757,7 @@ clouts
 clove
 cytological
 cloven
+cleansers
 clovene
 clover
 clovered
