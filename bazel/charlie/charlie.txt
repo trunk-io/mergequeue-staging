@@ -12531,7 +12531,6 @@ chromoptometer
 chromoptometrical
 chromos
 chromosantonin
-chromoscope
 chromoscopy
 chromoscopic
 chromosomal
@@ -26024,6 +26023,7 @@ cosignificative
 cosigning
 cosignitary
 cosigns
+chromoscope
 cosily
 cosymmedian
 cosin
