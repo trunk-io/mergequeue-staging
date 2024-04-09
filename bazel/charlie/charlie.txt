@@ -3851,7 +3851,6 @@ carcinological
 carcinologist
 carcinoma
 carcinomas
-carcinomata
 carcinomatoid
 carcinomatosis
 carcinomatous
@@ -23624,6 +23623,7 @@ contracting
 contraction
 contractional
 contractionist
+carcinomata
 contractions
 contractive
 contractiveness

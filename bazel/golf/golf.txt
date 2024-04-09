@@ -4150,6 +4150,7 @@ gillnets
 gillnetted
 gillnetting
 gillotage
+grattage
 gillotype
 gills
 gillstoup
@@ -8362,7 +8363,6 @@ gratiosolin
 gratis
 glycolipide
 gratitude
-grattage
 gratten
 gratters
 grattoir
