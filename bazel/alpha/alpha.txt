@@ -716,6 +716,7 @@ aborning
 aborsement
 aborsive
 abort
+affiant
 aborted
 aborter
 aborters
@@ -5310,7 +5311,6 @@ affy
 affiance
 affianced
 affiancing
-affiant
 affiants
 affich
 affiche

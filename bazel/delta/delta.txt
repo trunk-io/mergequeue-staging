@@ -2552,7 +2552,6 @@ decocted
 decoctible
 decocting
 decoction
-decoctive
 decocts
 decoctum
 decodable
@@ -8440,6 +8439,7 @@ dianoetical
 dianoetically
 detail
 dianoia
+decoctive
 dianoialogy
 dianthaceae
 dianthera
