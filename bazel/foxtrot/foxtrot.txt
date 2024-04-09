@@ -959,7 +959,6 @@ farcial
 farcialize
 farcicality
 farcically
-farcicalness
 farcie
 farcies
 farcify
@@ -3502,6 +3501,7 @@ figpecker
 figs
 figshell
 fury
+farcicalness
 figulate
 figulated
 figuline
