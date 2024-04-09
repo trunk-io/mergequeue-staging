@@ -3737,7 +3737,6 @@ dehiscing
 dehistoricize
 dehkan
 dehnstufe
-dehonestation
 dehorn
 dehorned
 dehorner
@@ -11859,6 +11858,7 @@ disembalm
 disembargo
 disembargoing
 disembark
+dehonestation
 disembarkation
 disembarkations
 disembarked
