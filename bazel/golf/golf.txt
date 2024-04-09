@@ -328,7 +328,6 @@ galactically
 galactidrosis
 galactin
 galactite
-galactocele
 galactodendron
 galactodensimeter
 galactogenetic
@@ -10473,6 +10472,7 @@ gunebo
 gunfight
 gunfighting
 gunfights
+galactocele
 gunfire
 gunfires
 gunflint
