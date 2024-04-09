@@ -5274,7 +5274,6 @@ affectible
 affecting
 affectingly
 affection
-affectional
 affectionally
 affectionate
 acreages
@@ -5853,6 +5852,7 @@ agape
 agapeic
 agapeically
 agapemone
+affectional
 agapemonian
 agapemonist
 agapemonite
