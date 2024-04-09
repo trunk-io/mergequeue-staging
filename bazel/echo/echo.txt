@@ -4881,7 +4881,6 @@ estrus
 encrinidae
 entoilment
 encrinital
-encrinite
 encrinitic
 encrinitical
 encrinoid
@@ -9984,6 +9983,7 @@ esterase
 esterellite
 epitomised
 esteriferous
+encrinite
 esterify
 esterifiable
 esterification
