@@ -4897,7 +4897,6 @@ flamencos
 flamens
 flamenship
 forehood
-flameout
 flameouts
 flameproof
 flameproofer
@@ -7012,6 +7011,7 @@ follying
 follily
 follyproof
 follis
+flameout
 follow
 followable
 followed

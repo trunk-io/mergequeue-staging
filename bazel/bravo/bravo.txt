@@ -15659,6 +15659,7 @@ borrovian
 broadsides
 broadsiding
 broadspread
+buttstrap
 broadsword
 broadswords
 broadtail
@@ -18339,7 +18340,6 @@ buttressing
 buttressless
 buttresslike
 butts
-buttstrap
 buttstrapped
 buttstrapping
 braw
