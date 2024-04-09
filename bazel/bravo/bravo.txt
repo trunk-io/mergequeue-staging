@@ -8952,7 +8952,6 @@ biochore
 biocycle
 biocycles
 botan
-biocidal
 biocide
 biocides
 bioclimatic
@@ -15075,6 +15074,7 @@ breviloquent
 breviped
 brevipen
 brevipennate
+biocidal
 breviradiate
 brevirostral
 brevirostrate
