@@ -9271,7 +9271,6 @@ erodability
 erode
 eroded
 erodent
-erodes
 erodibility
 eroding
 erodium
@@ -12075,6 +12074,7 @@ excitomotor
 excitomotory
 exciton
 excitonic
+erodes
 excitons
 espier
 excitonutrient
