@@ -2804,6 +2804,7 @@ bespangled
 baronages
 baronduki
 baroness
+boidae
 baronesses
 baronet
 baronetage
@@ -11970,7 +11971,6 @@ boycottism
 boycotts
 boid
 boyd
-boidae
 boydekyn
 boydom
 boyer
