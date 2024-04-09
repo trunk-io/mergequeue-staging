@@ -3494,7 +3494,6 @@ defrayer
 defrayers
 defraying
 defrayment
-defrays
 defraudation
 deraigns
 defrauded
@@ -6952,6 +6951,7 @@ desquamative
 desquamatory
 desray
 debilities
+defrays
 dess
 dessert
 desserts
