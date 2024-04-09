@@ -1381,7 +1381,6 @@ dak
 davit
 davits
 daw
-dawcock
 dawdy
 dawdle
 dawdled
@@ -9540,6 +9539,7 @@ digraphs
 digredience
 digrediency
 diffidently
+dawcock
 digredient
 digressed
 digresser
