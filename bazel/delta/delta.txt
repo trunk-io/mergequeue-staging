@@ -268,6 +268,7 @@ dagged
 dagger
 daggerboard
 daggerbush
+denote
 daggered
 daggering
 daggerlike
@@ -5208,7 +5209,6 @@ denotatively
 denotativeness
 demideify
 denotatum
-denote
 denoted
 denotement
 denotes
