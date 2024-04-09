@@ -5696,7 +5696,6 @@ globigerina
 globigerinae
 globigerinas
 globigerinidae
-globing
 globins
 gorses
 globiocephalus
@@ -5940,6 +5939,7 @@ glossophytia
 glossophobia
 glossophora
 glossophorous
+globing
 grinder
 glossoplasty
 glossoplegia
