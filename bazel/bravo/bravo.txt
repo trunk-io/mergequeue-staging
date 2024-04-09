@@ -7789,7 +7789,6 @@ biacuminate
 biacuru
 biajaiba
 bialate
-biali
 bialy
 brio
 bialis
@@ -10821,6 +10820,7 @@ blind
 blindage
 blindball
 bindable
+biali
 blindcat
 blinded
 blindedly
