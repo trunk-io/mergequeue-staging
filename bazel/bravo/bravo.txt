@@ -6292,7 +6292,6 @@ benni
 benny
 bennies
 benniseed
-benomyl
 benomyls
 benorth
 benote
@@ -8719,6 +8718,7 @@ biloculate
 biloculina
 biloculine
 bilophodont
+benomyl
 biloquist
 bilos
 biloxi
