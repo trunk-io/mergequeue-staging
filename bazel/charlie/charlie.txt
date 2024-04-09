@@ -5534,6 +5534,7 @@ cataplane
 cataplasia
 cataplasis
 cataplasm
+clearances
 cataplastic
 catapleiite
 cataplexy
@@ -15823,7 +15824,6 @@ clear
 clearable
 clearage
 clearance
-clearances
 clearcole
 cleared
 clearedness
