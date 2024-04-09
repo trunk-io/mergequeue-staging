@@ -591,6 +591,7 @@ galleta
 galletas
 galleting
 gallfly
+geodesics
 gallflies
 galli
 gally
@@ -3011,7 +3012,6 @@ geodes
 geodesy
 geodesia
 geodesical
-geodesics
 geodesies
 geodesist
 gentilhomme
