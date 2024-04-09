@@ -11352,7 +11352,6 @@ chlorophyllase
 chlorophyllian
 chlorophyllide
 chlorophylliferous
-chlorophylligenous
 chlorophylligerous
 communional
 chlorophyllin
@@ -18602,6 +18601,7 @@ coys
 coislander
 coisns
 coistrel
+chlorophylligenous
 coystrel
 coistrels
 coistril
