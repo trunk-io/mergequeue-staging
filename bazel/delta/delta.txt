@@ -6474,6 +6474,7 @@ describe
 described
 describent
 describers
+disinheriting
 describes
 describing
 descried
@@ -12427,7 +12428,6 @@ disinheritable
 disinheritance
 disinheritances
 disinherited
-disinheriting
 disinherits
 disinhibition
 disinhume
