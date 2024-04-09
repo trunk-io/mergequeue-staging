@@ -5266,6 +5266,7 @@ endoplastule
 endopleura
 endopleural
 endopleurite
+epiblemata
 electrometry
 endopleuritic
 endopodite
@@ -7583,7 +7584,6 @@ epiblast
 epiblastema
 epiblastic
 epiblasts
-epiblemata
 epibole
 epiboly
 epibolic

@@ -8728,7 +8728,6 @@ bilsh
 bilskirnir
 bilsted
 bilsteds
-biltong
 biltongs
 biltongue
 bim
@@ -16652,6 +16651,7 @@ buckras
 bucks
 bucksaw
 bucksaws
+biltong
 buckshee
 buckshees
 buckshot
