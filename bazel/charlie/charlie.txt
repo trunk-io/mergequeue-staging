@@ -7045,7 +7045,6 @@ centimolar
 centimos
 centinel
 centinody
-centinormal
 centipedal
 centipede
 centipedes
@@ -12319,6 +12318,7 @@ christlike
 christlikeness
 christliness
 christmas
+centinormal
 christmasberry
 christmases
 christmasy
