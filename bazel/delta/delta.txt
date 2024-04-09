@@ -10973,7 +10973,6 @@ disalliege
 disallow
 disallowable
 disallowableness
-disallowance
 disallowances
 disallowed
 dramatised
@@ -12602,6 +12601,7 @@ dislocatory
 dislock
 dislodgeable
 dislodged
+disallowance
 dislodgement
 dislodges
 dislodging
