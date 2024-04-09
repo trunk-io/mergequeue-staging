@@ -4608,6 +4608,7 @@ fivefold
 fiveling
 fivepence
 fivepenny
+furoin
 fivepins
 frosteds
 fiver
@@ -11448,7 +11449,6 @@ furodiazole
 furoic
 foraminated
 furoid
-furoin
 furole
 furomethyl
 furomonazole
