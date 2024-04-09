@@ -1209,7 +1209,6 @@ endbrain
 educe
 educed
 entozoic
-educement
 educes
 educible
 educive
@@ -3699,6 +3698,7 @@ embryotrophy
 embryotrophic
 embryous
 embrittle
+educement
 embrittled
 embrittlement
 embrittling

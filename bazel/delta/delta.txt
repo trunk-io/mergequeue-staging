@@ -5830,7 +5830,6 @@ depravedness
 depravement
 depraver
 depraves
-depraving
 depravingly
 depravity
 depravities
@@ -16621,6 +16620,7 @@ drayhorse
 draying
 drail
 drailed
+depraving
 drailing
 drails
 drayman
