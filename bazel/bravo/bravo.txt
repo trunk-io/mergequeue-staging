@@ -1190,6 +1190,7 @@ bakeapple
 bakeboard
 baked
 bakehead
+benn
 bakehouse
 bakehouses
 bakelite
@@ -6275,7 +6276,6 @@ benjy
 benjoin
 benkulen
 benmost
-benn
 benne
 bennel
 bennes

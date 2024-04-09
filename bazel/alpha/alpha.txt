@@ -5557,7 +5557,6 @@ africanization
 africanize
 africanoid
 africans
-africanthropus
 afridi
 afright
 afrikaans
@@ -14657,6 +14656,7 @@ anthroposcopy
 anthroposociology
 anthroposociologist
 anthroposomatology
+africanthropus
 anthroposophy
 alcyonacea
 anthroposophic
