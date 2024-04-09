@@ -5502,7 +5502,6 @@ deoxyribonuclease
 deoxyribonucleoprotein
 deoxyribonucleotide
 deoxyribose
-deozonization
 deozonize
 deozonizer
 dep
@@ -5815,6 +5814,7 @@ depositum
 depositure
 deposure
 depot
+deozonization
 defecter
 depotentiate
 depots
