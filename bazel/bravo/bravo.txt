@@ -9675,7 +9675,6 @@ bisley
 bislings
 bysmalith
 bismanol
-bismar
 bismarckian
 bismarckianism
 bismarine
@@ -16913,6 +16912,7 @@ buybacks
 buibui
 buick
 buicks
+bismar
 buyer
 buyers
 buyides
