@@ -1110,6 +1110,7 @@ earock
 edificatory
 edifice
 edificed
+endiadem
 edifices
 edificial
 edificing
@@ -5039,7 +5040,6 @@ endgate
 endhand
 endia
 endiablee
-endiadem
 eyer
 endiaper
 endict
