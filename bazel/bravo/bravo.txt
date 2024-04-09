@@ -1913,6 +1913,7 @@ banderols
 banders
 bandersnatch
 bandfile
+basilicae
 bandfiled
 bandfiling
 bandfish
@@ -3251,7 +3252,6 @@ basileus
 basilian
 basilic
 basilica
-basilicae
 basilical
 basilicalike
 basilican
