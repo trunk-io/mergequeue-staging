@@ -1784,7 +1784,6 @@ gastroenterological
 gwen
 gastroenterologically
 gastroenterostomy
-gastroenterostomies
 gastroepiploic
 guebre
 gastroesophageal
@@ -2671,6 +2670,7 @@ generalize
 generalizeable
 generalized
 generalizer
+gastroenterostomies
 generalizers
 generalizing
 gene
