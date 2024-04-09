@@ -8140,6 +8140,7 @@ foretopmen
 foretops
 foretrace
 foretriangle
+frsikets
 foretrysail
 foreturn
 foreuse
@@ -10586,7 +10587,6 @@ frozenly
 frozenness
 frs
 frsiket
-frsikets
 frt
 feuar
 frubbish
