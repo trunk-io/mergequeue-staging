@@ -4134,7 +4134,6 @@ empididae
 empidonax
 empiecement
 euthanasia
-empyema
 empyemas
 empyemata
 empyemic
@@ -11676,6 +11675,7 @@ evolutionism
 evolutionist
 evolutionistic
 evolutionistically
+empyema
 evolutionists
 evolutionize
 evolutions
