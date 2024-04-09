@@ -6641,6 +6641,7 @@ designees
 designer
 designers
 designful
+duotone
 designfully
 designfulness
 designing
@@ -18329,7 +18330,6 @@ duos
 duosecant
 duotype
 diospyros
-duotone
 duotoned
 duotones
 duotriacontane
