@@ -3383,7 +3383,6 @@ fieldish
 fieldleft
 fieldman
 fieldmen
-fieldmice
 fieldmouse
 fieldpieces
 funebre
@@ -6193,6 +6192,7 @@ frisk
 flouter
 flouters
 flouting
+fieldmice
 floutingly
 flouts
 fetoplacental
