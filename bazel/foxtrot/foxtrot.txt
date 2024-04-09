@@ -4971,7 +4971,6 @@ flannelbush
 flanneled
 flannelet
 flannelette
-flannelflower
 flanneling
 flannelleaf
 flannelleaves
@@ -9314,6 +9313,7 @@ fraises
 fraist
 frontispieced
 frakfurt
+flannelflower
 fraktur
 frakturs
 fasciolet
