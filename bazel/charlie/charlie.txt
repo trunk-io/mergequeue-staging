@@ -11410,7 +11410,6 @@ choanoflagellida
 choanoflagellidae
 choanoid
 choanophorous
-choanosomal
 choanosome
 choate
 choaty
@@ -20976,6 +20975,7 @@ compulsatorily
 compulse
 compulsed
 cushlamochree
+choanosomal
 compulsion
 compulsions
 compulsitor
