@@ -6827,7 +6827,6 @@ gongs
 gony
 goniac
 gonial
-gonyalgia
 goniaster
 goniatite
 goniatites
@@ -9180,6 +9179,7 @@ gristmill
 grasper
 gristmiller
 gristmilling
+gonyalgia
 grists
 grit
 grith
