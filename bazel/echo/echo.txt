@@ -1952,7 +1952,6 @@ eject
 ejecta
 ejectable
 etrogs
-ejectamenta
 ejected
 endomyces
 entailers
@@ -5341,6 +5340,7 @@ endosmotic
 endosmotically
 endosome
 endosomes
+ejectamenta
 endosperm
 endospermic
 endospermous

@@ -11902,7 +11902,6 @@ disemplaned
 disemploy
 disemployed
 disemploying
-dorados
 disemployment
 dirking
 disemploys
@@ -14062,6 +14061,7 @@ disweapon
 diswench
 diswere
 diswit
+dorados
 diswont
 diswood
 disworkmanship
