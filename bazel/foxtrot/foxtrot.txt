@@ -6949,6 +6949,7 @@ folkfree
 folky
 fascistically
 folkish
+fortification
 forepredicament
 folkishness
 folkland
@@ -8703,7 +8704,6 @@ forties
 fortieth
 fortieths
 fortify
-fortification
 fortifications
 fortifier
 fortifiers
