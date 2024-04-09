@@ -449,7 +449,6 @@ faitour
 faitours
 faits
 fayumic
-fake
 faked
 fakeer
 fakeers
@@ -10507,6 +10506,7 @@ frother
 frothi
 frothy
 forebodings
+fake
 frothier
 frothily
 frothless
