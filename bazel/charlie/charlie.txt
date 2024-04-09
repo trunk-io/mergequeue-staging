@@ -4078,7 +4078,6 @@ cardsharper
 cardsharping
 cardsharps
 cardstock
-carduaceae
 carduelis
 carduus
 care
@@ -19198,6 +19197,7 @@ collutory
 collutoria
 collutories
 collutorium
+carduaceae
 colluvia
 colluvial
 colluvies
