@@ -1152,7 +1152,6 @@ editorialized
 endomitotic
 eidology
 editorializer
-editorializers
 editorializes
 editorially
 editors
@@ -7900,6 +7899,7 @@ epigraphical
 epigraphically
 epigraphist
 epigraphs
+editorializers
 epiguanine
 epihyal
 electromagnetize
