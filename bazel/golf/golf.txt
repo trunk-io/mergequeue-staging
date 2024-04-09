@@ -274,6 +274,7 @@ gainsayers
 gainsaying
 gainsays
 gainset
+geode
 gainsome
 gainspeaker
 gainspeaking
@@ -9905,7 +9906,6 @@ guarantine
 guarantor
 guarantors
 guarantorship
-geode
 guarapo
 guarapucu
 guarauno
