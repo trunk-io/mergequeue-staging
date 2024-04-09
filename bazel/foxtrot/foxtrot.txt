@@ -2713,7 +2713,6 @@ fervidness
 fervor
 fervorlessness
 fervorous
-fervors
 folkway
 fervours
 fescennine
@@ -4530,6 +4529,7 @@ fistulatome
 fistule
 fistulina
 fistulization
+fervors
 fistulized
 fernland
 fistulose
