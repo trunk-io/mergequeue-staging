@@ -6441,7 +6441,6 @@ agreement
 agreements
 agreer
 agreers
-agrees
 agregation
 agrege
 agreges
@@ -11005,6 +11004,7 @@ amperemeter
 amperes
 ampery
 amperian
+agrees
 amperometer
 amperometric
 abstinent
