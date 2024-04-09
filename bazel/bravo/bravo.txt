@@ -6401,6 +6401,7 @@ benzidins
 benzil
 benzyl
 benzylamine
+bs
 benzilic
 benzylic
 benzylidene
@@ -16456,7 +16457,6 @@ brutter
 brutus
 bruxism
 bruzz
-bs
 bsf
 bsh
 bskt

@@ -808,7 +808,6 @@ galvanometric
 geometries
 galvanometrical
 galvanoplasty
-galvanoplastic
 galvanoplastical
 galvanoplastically
 galvanoplastics
@@ -9413,6 +9412,7 @@ grouchingly
 geographized
 groucho
 grouf
+galvanoplastic
 grough
 ground
 groundable
