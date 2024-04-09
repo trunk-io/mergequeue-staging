@@ -6426,7 +6426,6 @@ fluobromide
 fille
 fluocarbonate
 fluocerine
-fluocerite
 fluochloride
 ferous
 fluohydric
@@ -11676,6 +11675,7 @@ futilitarian
 futilitarianism
 futility
 futilities
+fluocerite
 flameholder
 futilous
 futtah
