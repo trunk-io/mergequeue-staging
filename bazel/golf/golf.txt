@@ -3353,7 +3353,6 @@ gery
 geriatric
 geriatrician
 geriatrics
-geriatrist
 gerygone
 gerim
 geryon
@@ -4488,6 +4487,7 @@ greengrocer
 ginglymostomoid
 ginglymus
 ginglyni
+geriatrist
 ginglmi
 gingras
 ginhound
