@@ -11851,7 +11851,6 @@ bogan
 bogans
 bogard
 bogart
-bogatyr
 bogbean
 bogbeans
 bogberry
@@ -13293,6 +13292,7 @@ boterol
 botete
 botflies
 both
+bogatyr
 bother
 bothered
 botherer
