@@ -1638,6 +1638,7 @@ deanathematize
 deaned
 deanery
 deaneries
+discursative
 deanimalize
 deaning
 deans
@@ -11776,7 +11777,6 @@ discumber
 discure
 discurre
 discurrent
-discursative
 discursativeness
 discursify
 disavow
