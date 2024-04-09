@@ -1913,6 +1913,7 @@ gasworker
 gasworks
 gat
 gata
+groove
 gatch
 gate
 gateado
@@ -9312,7 +9313,6 @@ groop
 grooper
 groose
 groot
-groove
 grooved
 groovelike
 groover
