@@ -5301,7 +5301,6 @@ endere
 endorser
 endorsers
 electrodialyzer
-endorses
 endorsing
 endorsingly
 endorsors
@@ -13167,6 +13166,7 @@ explanatively
 explanator
 explanatory
 explanatorily
+endorses
 explanatoriness
 explanitory
 explant
