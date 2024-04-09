@@ -8742,7 +8742,6 @@ chaparajos
 chaparejos
 chaparral
 chaparrals
-chaparraz
 chaparro
 chapati
 chapaties
@@ -25799,6 +25798,7 @@ corruptedness
 corrupter
 corruptest
 corruptful
+chaparraz
 corruptibility
 corruptibilities
 corruptible
