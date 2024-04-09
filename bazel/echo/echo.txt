@@ -2267,7 +2267,6 @@ electrepeter
 electress
 electret
 electrets
-electric
 electrical
 electricalize
 electrically
@@ -13268,6 +13267,7 @@ exponentially
 exponentials
 exponentiate
 exponentiated
+electric
 ectocyst
 exponentiates
 exponentiating

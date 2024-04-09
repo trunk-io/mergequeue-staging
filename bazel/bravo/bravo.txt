@@ -2153,7 +2153,6 @@ bannerfish
 bannerless
 bannerlike
 bannerline
-bannerman
 bannermen
 bannerole
 bannerols
@@ -7115,6 +7114,7 @@ bushing
 bespeakable
 bespeaking
 bespeaks
+bannerman
 bespecked
 bespeckle
 bespeckled
