@@ -1560,7 +1560,6 @@ eggment
 eggnog
 eggnogs
 exhibiting
-eggplant
 eggplants
 embrasures
 eggroll
@@ -3959,6 +3958,7 @@ emittent
 emitter
 emitting
 emlen
+eggplant
 emm
 emma
 emmanuel

@@ -4836,6 +4836,7 @@ bedsores
 boopic
 bedspread
 bedspreads
+bootikins
 bedspring
 bedsprings
 bedstaff
@@ -12838,7 +12839,6 @@ bootie
 bootied
 booties
 bootikin
-bootikins
 blowsiest
 bootyless
 booting
