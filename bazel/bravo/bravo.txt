@@ -4114,6 +4114,7 @@ beanos
 beanpole
 beanpoles
 beans
+beffroy
 beansetter
 beanshooter
 beanstalk
@@ -5073,7 +5074,6 @@ befetter
 biocatalyst
 befezzed
 bannerol
-beffroy
 befiddle
 beggaries
 befilch
