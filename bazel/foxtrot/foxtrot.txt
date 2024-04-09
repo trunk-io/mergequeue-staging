@@ -9035,6 +9035,7 @@ flabellarium
 fourpounder
 fourquine
 fourragere
+flagmaking
 fourrageres
 fourre
 fourrier
@@ -10824,7 +10825,6 @@ fuddler
 fuddles
 fuddling
 fuder
-flagmaking
 fudged
 fudger
 fudgy

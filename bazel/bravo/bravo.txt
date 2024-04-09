@@ -2399,7 +2399,6 @@ barbets
 barbette
 barbettes
 bispore
-barbican
 barbicanage
 barbicans
 barbicel
@@ -17427,6 +17426,7 @@ bungstarter
 bungtown
 bungwall
 bunya
+barbican
 bunyah
 bunyan
 bunyas
