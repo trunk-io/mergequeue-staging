@@ -5657,7 +5657,6 @@ glittersome
 gloam
 gloaming
 gloamings
-gloams
 gloat
 gypsumed
 gloated
@@ -5675,6 +5674,7 @@ guidances
 globality
 globalization
 globalize
+gloams
 globalized
 globalizing
 globally
