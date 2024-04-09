@@ -618,7 +618,6 @@ falsifiers
 falsifies
 falsifying
 falunian
-falsism
 falsiteit
 falsity
 falsities
@@ -10948,6 +10947,7 @@ fulmen
 fulmicotton
 fulmina
 fulminancy
+falsism
 fulminant
 fulminate
 fulminated
