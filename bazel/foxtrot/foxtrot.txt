@@ -2651,7 +2651,6 @@ ferrumination
 ferrums
 fibrinolytic
 fersmite
-ferter
 ferther
 ferthumlungur
 fertil
@@ -4806,6 +4805,7 @@ flagrante
 flagrantly
 flagrantness
 flagrate
+ferter
 flagroot
 flags
 flagship
