@@ -5910,7 +5910,6 @@ glossograph
 glossographer
 getid
 glossography
-glossographical
 glossohyal
 glossokinesthetic
 geulah
@@ -9088,6 +9087,7 @@ gryphite
 gryphon
 gryphons
 gryphosaurus
+glossographical
 griphus
 gripy
 gripier
