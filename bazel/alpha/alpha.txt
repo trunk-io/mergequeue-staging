@@ -8745,7 +8745,6 @@ alliterationist
 alliterations
 alliterative
 alliteratively
-alliterativeness
 alliterator
 allituric
 allium
@@ -24614,6 +24613,7 @@ avenant
 avenary
 avener
 avenery
+alliterativeness
 avenge
 avenged
 avengeful
