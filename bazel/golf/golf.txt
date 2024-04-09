@@ -8008,7 +8008,6 @@ granita
 granite
 granitelike
 granites
-graniteware
 granitic
 granitical
 graniticoline
@@ -10041,6 +10040,7 @@ glick
 guerdons
 guereba
 guidecraft
+graniteware
 guereza
 guerickian
 gueridon
