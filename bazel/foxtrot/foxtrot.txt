@@ -4306,7 +4306,6 @@ firmisternia
 firmisternial
 firmisternous
 firmity
-firmitude
 firmland
 firmly
 firmness
@@ -5984,6 +5983,7 @@ floorwise
 floosy
 floosies
 floozy
+firmitude
 floozie
 flop
 floperoo

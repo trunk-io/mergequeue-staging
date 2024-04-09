@@ -5310,7 +5310,6 @@ dentes
 dentex
 denty
 daraf
-dentical
 denticate
 denticete
 denticeti
@@ -14234,6 +14233,7 @@ divelling
 diver
 diverb
 downstage
+dentical
 diverberate
 diverge
 diverged
