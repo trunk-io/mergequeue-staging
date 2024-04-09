@@ -8816,7 +8816,6 @@ allodiality
 allodially
 allodian
 allodiary
-allodiaries
 allodies
 allodification
 allodium
@@ -16737,6 +16736,7 @@ aperea
 aperient
 aperients
 aperies
+allodiaries
 aperiodic
 aperiodically
 aperiodicity
