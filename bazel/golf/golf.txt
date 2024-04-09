@@ -4771,7 +4771,6 @@ goodwills
 guildsman
 gyrochrome
 gyrocompass
-golliwogg
 gyrocompasses
 gyrodactylidae
 gyrodactylus
@@ -6585,6 +6584,7 @@ goldarnedest
 goldarns
 goldbeater
 goldbeating
+golliwogg
 goldbird
 goldbrick
 goldbricker
