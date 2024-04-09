@@ -566,7 +566,6 @@ dam
 dama
 damage
 damageability
-damageable
 damageableness
 damageably
 damaged
@@ -1589,6 +1588,7 @@ dealbate
 decumana
 dealbation
 dinginess
+damageable
 dealbuminize
 dealcoholist
 dealcoholization
