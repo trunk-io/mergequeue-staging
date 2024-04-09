@@ -1381,7 +1381,6 @@ efficaciousness
 efficacity
 efficience
 efficiency
-efficient
 efficiently
 exhortation
 effie
@@ -8354,6 +8353,7 @@ epithecicia
 epistolizable
 epithecium
 epithelia
+efficient
 epithelialize
 ejectives
 epithelioceptor
