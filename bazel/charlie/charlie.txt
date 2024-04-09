@@ -575,7 +575,6 @@ caecocolic
 caecostomy
 caecotomy
 caecum
-caedmonian
 caedmonic
 caelian
 caelometer
@@ -25190,6 +25189,7 @@ coryphaei
 coryphaena
 coryphaenid
 coryphaenidae
+caedmonian
 coryphaenoid
 coryphaenoididae
 coryphaeus
