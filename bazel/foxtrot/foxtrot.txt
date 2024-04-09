@@ -2688,7 +2688,6 @@ fertilizing
 feru
 ferula
 ferulaceous
-ferulae
 ferulaic
 ferular
 ferulas
@@ -3426,6 +3425,7 @@ fiercely
 fiercen
 fiercened
 fierceness
+ferulae
 flashlamps
 fiercer
 fiercest
