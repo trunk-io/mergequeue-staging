@@ -7257,7 +7257,6 @@ bestreak
 bestream
 blackhander
 bestrew
-bestrewed
 bestrewing
 bestrewment
 bestrewn
@@ -9578,6 +9577,7 @@ biscacha
 biscayan
 biscayanism
 barbal
+bestrewed
 biscayen
 biscayner
 biscanism
