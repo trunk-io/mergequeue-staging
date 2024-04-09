@@ -3496,7 +3496,6 @@ adderspit
 adderwort
 addy
 addibility
-addible
 addice
 addicent
 addict
@@ -7053,6 +7052,7 @@ ayurvedas
 aiver
 aivers
 aivr
+addible
 aiwain
 aiwan
 aywhere

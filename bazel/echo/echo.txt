@@ -2153,7 +2153,6 @@ elates
 elatha
 elatinaceae
 elatinaceous
-elatine
 elating
 elation
 elations
@@ -3580,6 +3579,7 @@ embouchures
 embound
 embourgeoisement
 embow
+elatine
 embowed
 embowel
 emboweler
