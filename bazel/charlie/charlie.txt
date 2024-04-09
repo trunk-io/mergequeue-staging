@@ -3178,6 +3178,7 @@ caponized
 caponizer
 caponizes
 caponizing
+crafty
 caponniere
 capons
 caporal
@@ -27928,7 +27929,6 @@ cradling
 craft
 crafted
 crafter
-crafty
 craftier
 craftiest
 craftily
