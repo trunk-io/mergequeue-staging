@@ -5340,7 +5340,6 @@ begriming
 begrimmed
 begrimming
 begrims
-begripe
 begroan
 begroaned
 begroans
@@ -12551,6 +12550,7 @@ bonsai
 bonsela
 brigantine
 bonser
+begripe
 bestad
 bonsoir
 bonspell
