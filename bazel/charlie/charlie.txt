@@ -298,7 +298,6 @@ cacking
 cackle
 cackled
 cackler
-cacklers
 cackles
 cackling
 cacks
@@ -29451,6 +29450,7 @@ crystallogeny
 courtrooms
 crystallogenical
 crystallogy
+cacklers
 crystallogram
 crystallograph
 crystallographer
