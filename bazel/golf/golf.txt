@@ -5474,7 +5474,6 @@ glycogenetic
 glycogeny
 glycogenic
 glycogenize
-glycogenolysis
 glycogenolytic
 glycogenosis
 glycogenous
@@ -7166,6 +7165,7 @@ gorebill
 gutturalization
 gored
 gorefish
+glycogenolysis
 gogos
 gresil
 gorer
