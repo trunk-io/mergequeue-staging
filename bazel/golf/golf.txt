@@ -2847,6 +2847,7 @@ gph
 genos
 genospecies
 genotype
+geropiga
 genotypes
 genotypic
 genotypical
@@ -3492,7 +3493,6 @@ gerontophilia
 gerontotherapy
 gorgedly
 gerontotherapies
-geropiga
 grandsirs
 gerousia
 gerres
