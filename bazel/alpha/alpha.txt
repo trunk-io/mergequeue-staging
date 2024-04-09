@@ -763,7 +763,6 @@ abovestairs
 abow
 abox
 abracadabra
-abrachia
 abrachias
 abradable
 abradant
@@ -9950,6 +9949,7 @@ ambidexterity
 ambidexterities
 ambidexterous
 ambidextral
+abrachia
 ambidextrous
 ambidextrously
 ambience
