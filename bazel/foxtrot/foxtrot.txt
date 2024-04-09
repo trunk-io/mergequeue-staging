@@ -1476,7 +1476,6 @@ faultfinders
 faultfinding
 faultful
 fimble
-faultfully
 faulty
 faultier
 faultiest
@@ -7676,6 +7675,7 @@ forefield
 forefigure
 forefin
 forefinger
+faultfully
 forefingers
 forefit
 foreflank
