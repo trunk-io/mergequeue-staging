@@ -6368,7 +6368,6 @@ ensembles
 ensepulcher
 ensepulchered
 ensepulchering
-ensepulchre
 enseraph
 enserf
 enserfed
@@ -12629,6 +12628,7 @@ exiting
 exition
 exitious
 exits
+ensepulchre
 exiture
 exitus
 exla
