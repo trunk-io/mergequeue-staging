@@ -7243,7 +7243,6 @@ cephalalgy
 cephalalgia
 cephalanthium
 cephalanthous
-cephalanthus
 cephalaspis
 cephalata
 cephalate
@@ -25269,6 +25268,7 @@ corncob
 corncobs
 corncockle
 corncracker
+cephalanthus
 corncrake
 corncrib
 corncribs
