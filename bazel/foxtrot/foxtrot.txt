@@ -2995,7 +2995,6 @@ ffa
 fgrid
 fy
 fiacre
-fiacres
 fiador
 fiancailles
 fiance
@@ -3935,6 +3934,7 @@ fine
 fineable
 fineableness
 finebent
+fiacres
 franchisal
 finecomb
 flatbread

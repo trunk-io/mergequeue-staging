@@ -3341,7 +3341,6 @@ definitize
 definitized
 definitizing
 definitor
-dimissorial
 defis
 defix
 deflagrable
@@ -7648,6 +7647,7 @@ devisees
 deviser
 devisers
 devising
+dimissorial
 devisings
 devisor
 devisors
