@@ -1300,6 +1300,7 @@ daughterkin
 daughterless
 daughterly
 daughterlike
+deviation
 daughterliness
 daughterling
 daughters
@@ -7572,7 +7573,6 @@ deviated
 deviately
 deviates
 deviating
-deviation
 deviational
 deviationism
 deviationist
