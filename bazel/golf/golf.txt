@@ -501,7 +501,6 @@ galyacs
 galyak
 galyaks
 galianes
-galibi
 galician
 galictis
 galidia
@@ -10221,6 +10220,7 @@ guilt
 guiltful
 gaspergous
 guiltier
+galibi
 gardencraft
 guiltiest
 guiltily
