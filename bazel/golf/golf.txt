@@ -4998,7 +4998,6 @@ gyrostatics
 glaciologists
 ganisters
 glaciomarine
-glaciometer
 glacionatant
 glacious
 glacises
@@ -10351,6 +10350,7 @@ gullygut
 gullying
 gulling
 gullish
+glaciometer
 gulliver
 gulllike
 gulls
