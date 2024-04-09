@@ -14417,6 +14417,7 @@ anthologist
 anthologists
 anthologize
 anthologized
+apocopating
 anthologizer
 anthologizes
 anthologizing
@@ -17137,7 +17138,6 @@ apocynum
 apocyte
 apocopate
 apocopated
-apocopating
 apocopation
 apocope
 apocopes
