@@ -7922,7 +7922,6 @@ ceticide
 cetid
 cetyl
 cetylic
-cetin
 cetiosaurian
 cetiosaurus
 cetology
@@ -17091,6 +17090,7 @@ coaggregation
 coagitate
 coagitator
 coagment
+cetin
 coagmentation
 coagonize
 coagriculturist
