@@ -5328,6 +5328,7 @@ gleary
 growl
 gleave
 gleba
+grs
 glebae
 glebal
 glebe
@@ -9584,7 +9585,6 @@ grozart
 grozer
 grozet
 grr
-grs
 grub
 grubbed
 grubbery
