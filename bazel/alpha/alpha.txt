@@ -2174,7 +2174,6 @@ achaean
 achaemenian
 achaemenidae
 achaemenidian
-achaenocarp
 achaenodon
 achaeta
 achaetous
@@ -8585,6 +8584,7 @@ allegiancy
 allegiant
 allegiantly
 allegiare
+achaenocarp
 alleging
 allegory
 allegoric
