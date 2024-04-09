@@ -932,6 +932,7 @@ ectozoa
 ectozoan
 ectozoans
 ectozoon
+enframement
 ectrodactyly
 ectrodactylia
 eleaticism
@@ -5650,7 +5651,6 @@ enfoulder
 enfrai
 enframe
 enframed
-enframement
 enframes
 enframing
 enfranch
