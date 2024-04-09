@@ -4756,7 +4756,6 @@ carrousel
 carrousels
 carrow
 carrozza
-carrs
 carrus
 cars
 carse
@@ -18213,6 +18212,7 @@ coffinmaker
 coffinmaking
 coffins
 coffle
+carrs
 coffled
 coffles
 coffling

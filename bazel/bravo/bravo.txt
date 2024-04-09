@@ -271,7 +271,6 @@ bacillariophyta
 bacillemia
 bacilli
 bacillian
-bacillicidal
 bacillicide
 bacillicidic
 bacilliculture
@@ -11553,6 +11552,7 @@ boarspear
 boarstaff
 boart
 boarts
+bacillicidal
 boarwood
 boas
 boast
