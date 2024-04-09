@@ -1643,6 +1643,7 @@ ballota
 ballotade
 ballotage
 balloted
+byways
 balloter
 balloters
 balloting
@@ -9971,7 +9972,6 @@ bivouacs
 bivvy
 biwa
 byway
-byways
 bywalk
 bywalking
 byward
