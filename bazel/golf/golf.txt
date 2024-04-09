@@ -2108,7 +2108,6 @@ gaviae
 gavial
 gavialis
 gnateater
-gavialoid
 gavials
 greetings
 gaviiformes
@@ -3975,6 +3974,7 @@ gigabytes
 gigabits
 glacon
 gigacycle
+gavialoid
 gigadoid
 gigahertz
 gigahertzes
