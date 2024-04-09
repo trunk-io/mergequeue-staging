@@ -2060,7 +2060,6 @@ gunbright
 gauric
 gaurie
 goosish
-gaurs
 gaus
 gauss
 gaussage
@@ -4090,6 +4089,7 @@ gamene
 gild
 gildable
 gilded
+gaurs
 gildedness
 gilden
 gilder
