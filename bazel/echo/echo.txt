@@ -6548,7 +6548,6 @@ entangledness
 endotrachelitis
 entanglement
 entanglements
-entangler
 entanglers
 entangles
 entangling
@@ -7951,6 +7950,7 @@ excipula
 epilobe
 epilobium
 epilog
+entangler
 epilogate
 epilogation
 epilogic
