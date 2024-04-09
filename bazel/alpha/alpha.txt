@@ -14117,7 +14117,6 @@ antecourt
 antecoxal
 antecubital
 antecurvature
-anted
 antedate
 antedated
 antedates
@@ -17894,6 +17893,7 @@ appositions
 appositive
 appositively
 apppetible
+anted
 appraisable
 appraisal
 appraisals
