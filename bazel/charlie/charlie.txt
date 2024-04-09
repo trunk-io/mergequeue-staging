@@ -27302,7 +27302,6 @@ coupleteer
 couplings
 coupon
 couponed
-couponless
 coupons
 coups
 centrifugal
@@ -29520,6 +29519,7 @@ criticisable
 criticise
 criticised
 criticiser
+couponless
 criticising
 criticisingly
 criticism
