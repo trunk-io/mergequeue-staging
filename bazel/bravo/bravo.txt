@@ -881,7 +881,6 @@ bagdi
 bagel
 bagels
 bagful
-bagfuls
 baggage
 baggageman
 baggagemaster
@@ -18174,6 +18173,7 @@ birsle
 butylates
 butylating
 butylene
+bagfuls
 butylenes
 butylic
 butyls
