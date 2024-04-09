@@ -2590,6 +2590,7 @@ acoasm
 acoasma
 acocanthera
 avile
+archimagus
 acocantherin
 acockbill
 acocotl
@@ -18952,7 +18953,6 @@ archils
 archilute
 archimage
 archimago
-archimagus
 archimandrite
 archimandrites
 archimedean

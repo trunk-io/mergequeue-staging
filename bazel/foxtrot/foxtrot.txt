@@ -10372,7 +10372,6 @@ frondeur
 factored
 frondeurs
 frondiferous
-frondiform
 frondigerous
 frondless
 frondlet
@@ -11656,6 +11655,7 @@ fusuma
 fusure
 fusus
 fut
+frondiform
 founte
 futchel
 futchell
