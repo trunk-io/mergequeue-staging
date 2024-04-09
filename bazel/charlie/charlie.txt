@@ -14100,7 +14100,6 @@ cyprinoid
 cyprinoidea
 cyprinoidean
 cyprinus
-cypriot
 cypriote
 cypriotes
 cypriots
@@ -30957,6 +30956,7 @@ cumly
 cummer
 cummerbund
 cummerbunds
+cypriot
 cummers
 cummin
 cummingtonite
