@@ -2473,7 +2473,6 @@ flexity
 fermions
 fermis
 fermium
-fermiums
 fermorite
 fern
 fernandinite
@@ -7004,6 +7003,7 @@ folliculina
 folliculitis
 footlicker
 folliculose
+fermiums
 folliculous
 follied
 follyer

@@ -5665,6 +5665,7 @@ enfranchises
 enfree
 enfrenzy
 enfroward
+evidentness
 enfuddle
 enfume
 endangers
@@ -11595,7 +11596,6 @@ evidential
 evidentially
 evidentiary
 evidently
-evidentness
 evigilation
 evil
 evildoer
