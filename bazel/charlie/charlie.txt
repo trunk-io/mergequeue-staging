@@ -5392,7 +5392,6 @@ catacromyodian
 catacrotic
 catacrotism
 catacumba
-catacumbal
 catadicrotic
 catadicrotism
 catadioptric
@@ -8556,6 +8555,7 @@ chancellors
 chaffier
 chancellorship
 chancellorships
+catacumbal
 chancelor
 chancelry
 chancels
