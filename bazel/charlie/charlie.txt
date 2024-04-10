@@ -6303,7 +6303,6 @@ cavaliere
 cavaliered
 cavalieres
 cavalieri
-cavaliering
 cavalierish
 cavalierishness
 cavalierism
@@ -21313,6 +21312,7 @@ conchobor
 conchoid
 conchoidal
 conchoidally
+cavaliering
 conchoids
 communicableness
 conchol
