@@ -10558,7 +10558,6 @@ buist
 bleakness
 bleaks
 bleared
-blearedness
 bleareye
 bleareyed
 belt
@@ -18271,6 +18270,7 @@ butterjags
 butterless
 buttermaker
 buttermaking
+blearedness
 butterman
 buttermilk
 buttermonger
