@@ -2113,7 +2113,6 @@ decarburise
 decarburised
 decarburising
 decarburize
-decarburized
 decarburizing
 decarchy
 decardinalize
@@ -9374,6 +9373,7 @@ diffusional
 diffusionism
 diffusionist
 diffusions
+decarburized
 diffusive
 diffusively
 diffusivity
