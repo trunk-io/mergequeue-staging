@@ -9526,6 +9526,7 @@ checkroll
 checkroom
 checkrooms
 checkrope
+chloridize
 checkrow
 checkrowed
 checkrower
@@ -11233,7 +11234,6 @@ chloridellidae
 chlorider
 chlorides
 chloridic
-chloridize
 chloridized
 chlorids
 compaternity
