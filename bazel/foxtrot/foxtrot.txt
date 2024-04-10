@@ -3472,7 +3472,6 @@ fiftypenny
 figary
 figaro
 figbird
-figboy
 figeater
 figent
 frag
@@ -11067,6 +11066,7 @@ floricultural
 fumitories
 fummel
 fummle
+figboy
 fumose
 fumosity
 fumous
