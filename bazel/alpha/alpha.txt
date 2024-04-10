@@ -3711,7 +3711,6 @@ adenomyoma
 adenomyxoma
 adenomyxosarcoma
 adenoncus
-adenoneural
 adenoneure
 adenopathy
 adenopharyngeal
@@ -19703,6 +19702,7 @@ ariocarpus
 arioi
 arioian
 ariolate
+adenoneural
 ariole
 arion
 ariose
