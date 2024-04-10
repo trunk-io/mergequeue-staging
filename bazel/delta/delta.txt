@@ -571,6 +571,7 @@ damageable
 damageableness
 damageably
 damaged
+drearness
 damagement
 damageous
 dao
@@ -16913,7 +16914,6 @@ dreariness
 drearing
 drearisome
 drearly
-drearness
 dreche
 dreck
 drecks
