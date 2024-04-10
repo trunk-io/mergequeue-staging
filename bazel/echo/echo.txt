@@ -447,7 +447,6 @@ ecchymoma
 ecchymose
 ecchymosed
 ecchymosis
-ecchymotic
 ecchondroma
 esthacyte
 ecchondrosis
@@ -5765,6 +5764,7 @@ englishable
 englisher
 endoplasmic
 englishes
+ecchymotic
 englishhood
 englishism
 englishize
