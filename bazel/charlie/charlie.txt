@@ -5225,6 +5225,7 @@ castellany
 castellanies
 castellano
 castellans
+condistillation
 castellanship
 castellar
 castellate
@@ -21650,7 +21651,6 @@ condimental
 condimentary
 condiments
 condisciple
-condistillation
 condite
 condition
 conditionable
