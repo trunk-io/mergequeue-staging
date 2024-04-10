@@ -1608,7 +1608,6 @@ calotermitidae
 calothrix
 calotin
 calotype
-calotypic
 calotypist
 calotte
 calottes
@@ -12844,6 +12843,7 @@ churchless
 churchlet
 churchly
 churchlier
+calotypic
 churchliest
 churchlike
 churchliness
