@@ -13596,7 +13596,6 @@ bourg
 bourgade
 bourgeois
 bourgeoise
-bourgeoises
 bourgeoisie
 brashness
 bourgeoisitic
@@ -13915,6 +13914,7 @@ braccio
 brace
 braced
 bracelet
+bourgeoises
 braceleted
 basophile
 bracelets
