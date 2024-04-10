@@ -1490,6 +1490,7 @@ entification
 efreet
 efs
 eft
+endergonic
 efts
 eftsoon
 eftsoons
@@ -5015,7 +5016,6 @@ endenize
 endenizen
 eviscerate
 ender
-endergonic
 endermatic
 endermic
 endogastric

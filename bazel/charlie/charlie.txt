@@ -4439,7 +4439,6 @@ carnose
 carnosin
 carnosine
 carnosity
-carnosities
 carnous
 carns
 caro
@@ -14671,6 +14670,7 @@ cystoepithelioma
 cystofibroma
 cystoflagellata
 cystoflagellate
+carnosities
 cystogenesis
 cystogenous
 cystogram
