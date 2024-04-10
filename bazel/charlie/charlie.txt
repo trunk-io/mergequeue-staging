@@ -15994,7 +15994,6 @@ clerkage
 clerkdom
 clerkdoms
 clerked
-clerkery
 clerkess
 clerkhood
 clerking
@@ -19477,6 +19476,7 @@ colpeurysis
 colpheg
 colpindach
 colpitis
+clerkery
 colpitises
 colpocele
 colpocystocele
