@@ -5614,7 +5614,6 @@ aftereffects
 aftereye
 afterfall
 afterfame
-afterfeed
 afterfermentation
 afterform
 afterfriend
@@ -13144,6 +13143,7 @@ animadverter
 animadverting
 animadverts
 animal
+afterfeed
 animala
 animalcula
 animalculae
