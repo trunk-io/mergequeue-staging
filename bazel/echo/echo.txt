@@ -3939,6 +3939,7 @@ emissaryship
 emissarium
 emissi
 emissile
+evilly
 eudialyte
 emission
 emissions
@@ -11607,7 +11608,6 @@ evilest
 exoergic
 eviller
 evillest
-evilly
 evilmouthed
 evilness
 evilnesses

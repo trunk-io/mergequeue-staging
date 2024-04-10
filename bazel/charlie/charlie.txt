@@ -5581,7 +5581,6 @@ catatonias
 catatonic
 catatonics
 catawampous
-catawampously
 catawamptious
 catawamptiously
 catawampus
@@ -8781,6 +8780,7 @@ chaperone
 chaperoned
 chaperonless
 chaperons
+catawampously
 chapes
 chapfallen
 chapfallenly
