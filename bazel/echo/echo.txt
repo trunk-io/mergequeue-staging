@@ -2626,6 +2626,7 @@ electrostatical
 electrostatics
 electrosteel
 electrostenolysis
+empaestic
 electrostenolytic
 electrostriction
 elinvar
@@ -4033,7 +4034,6 @@ emove
 exorability
 eponymize
 emp
-empaestic
 empaistic
 empale
 empalement
