@@ -742,7 +742,6 @@ fanciest
 fancify
 fanciful
 fancifully
-fancifulness
 fancying
 fanciless
 fancily
@@ -7201,6 +7200,7 @@ foothold
 footholds
 foothot
 flippantness
+fancifulness
 footy
 footie
 footier
