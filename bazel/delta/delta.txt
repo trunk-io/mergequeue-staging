@@ -8219,6 +8219,7 @@ diagraphics
 diagraphs
 diagredium
 diagrydium
+dimethyldiketone
 diaguitas
 diaguite
 diaheliotropic
@@ -9861,7 +9862,6 @@ dimethylamino
 dimethylanthranilate
 dimethylbenzene
 dimethylcarbinol
-dimethyldiketone
 dimethylhydrazine
 dimethylketol
 dimethylketone
