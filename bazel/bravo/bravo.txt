@@ -1993,7 +1993,6 @@ bands
 bandsaw
 bandsawed
 bandsawing
-bandsawn
 bandsman
 bandsmen
 bandspreading
@@ -15541,6 +15540,7 @@ bristliest
 bristliness
 bristling
 bristol
+bandsawn
 bristols
 brisure
 brit

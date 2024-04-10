@@ -22116,7 +22116,6 @@ confrontations
 confronte
 crucifixions
 confronted
-confronter
 confronters
 confronting
 confrontment
@@ -27463,6 +27462,7 @@ covado
 covalence
 covalences
 covalency
+confronter
 covalent
 covalently
 carnaubic
