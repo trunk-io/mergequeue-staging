@@ -1415,6 +1415,7 @@ fatstock
 fatstocks
 fatted
 fatten
+flocculently
 fattenable
 fattened
 forbearances
@@ -5860,7 +5861,6 @@ floccule
 flocculence
 flocculency
 flocculent
-flocculently
 floccules
 flocculi
 frigidoreceptor

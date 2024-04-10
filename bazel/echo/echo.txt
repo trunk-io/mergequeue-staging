@@ -1647,6 +1647,7 @@ egotize
 egotized
 egracias
 egre
+execrates
 egregious
 egregiously
 egregiousness
@@ -10332,7 +10333,6 @@ ethic
 ethical
 exteriorization
 ethicalism
-execrates
 ethicality
 ethicalities
 ethically
