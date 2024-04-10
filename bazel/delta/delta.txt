@@ -3803,7 +3803,6 @@ deiform
 deiformity
 deign
 deigned
-deigning
 deignous
 deigns
 deyhouse
@@ -9989,6 +9988,7 @@ dynamism
 dynamist
 dynamistic
 dynamists
+deigning
 diverticular
 dynamitard
 dynamite
