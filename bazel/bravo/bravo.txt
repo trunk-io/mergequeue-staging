@@ -7658,6 +7658,7 @@ bewray
 bewrayed
 bewrayer
 bewrayers
+bugout
 bewraying
 biacetylene
 bewrayingly
@@ -16885,7 +16886,6 @@ buglosses
 bugology
 bugologist
 bugong
-bugout
 bugre
 bugs
 bugseed
