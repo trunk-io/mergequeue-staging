@@ -3530,7 +3530,6 @@ figurations
 figurative
 figuratively
 figurato
-figure
 figured
 figuredly
 figureheadless
@@ -4057,6 +4056,7 @@ finings
 finis
 finish
 finishable
+figure
 finished
 finisher
 finishers
