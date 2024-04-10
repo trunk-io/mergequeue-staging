@@ -2792,6 +2792,7 @@ fetal
 fetalism
 fetalization
 fetas
+foresheets
 fetation
 fetations
 fetched
@@ -7971,7 +7972,6 @@ foreshaft
 foreshank
 foreshape
 foresheet
-foresheets
 foreshift
 foreship
 foreshock
