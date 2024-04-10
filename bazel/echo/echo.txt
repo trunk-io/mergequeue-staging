@@ -2339,6 +2339,7 @@ electrochronograph
 electrochronographic
 electrochronometer
 electrochronometric
+eyebolt
 electrocystoscope
 electrocoagulation
 erythrophore
@@ -5184,7 +5185,6 @@ endogenesis
 endogenetic
 endogeny
 endogenic
-eyebolt
 endogenicity
 endogenies
 endogenous
