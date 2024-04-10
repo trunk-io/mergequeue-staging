@@ -1445,6 +1445,7 @@ dbrn
 dc
 dca
 deceived
+describable
 dcb
 dcbname
 dclass
@@ -6469,7 +6470,6 @@ descort
 descry
 descrial
 describability
-describable
 describably
 describe
 described

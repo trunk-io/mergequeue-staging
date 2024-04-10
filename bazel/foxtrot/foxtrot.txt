@@ -2299,7 +2299,6 @@ fendable
 fended
 following
 fender
-fendered
 fraischeur
 fendering
 fenderless
@@ -8031,6 +8030,7 @@ forespoken
 freeloving
 forest
 forestaff
+fendered
 forestaffs
 forestage
 forestay
