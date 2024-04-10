@@ -3024,6 +3024,7 @@ fiaunt
 fib
 fibbed
 fibber
+forereach
 fibbery
 fibbers
 fibbing
@@ -7906,7 +7907,6 @@ forerake
 foreran
 forerank
 foreranks
-forereach
 fatbrained
 forereaching
 foreread
