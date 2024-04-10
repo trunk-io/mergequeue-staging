@@ -393,7 +393,6 @@ ebulliate
 ebullience
 ebulliency
 ebulliently
-ebulliometer
 ebulliometry
 ebullioscope
 ebullioscopy
@@ -7999,6 +7998,7 @@ epimerize
 epimerized
 epimerizing
 epimeron
+ebulliometer
 epimers
 epimerum
 enchains
