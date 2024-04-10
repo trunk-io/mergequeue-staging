@@ -6441,7 +6441,6 @@ enslavers
 enslaves
 espave
 enslaving
-enslumber
 ensmall
 ensnare
 ensnared
@@ -11401,6 +11400,7 @@ evap
 evaporability
 evaporable
 evaporate
+enslumber
 evaporated
 evaporates
 evaporating

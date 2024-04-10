@@ -6671,7 +6671,6 @@ foalfoot
 foalfoots
 foalhood
 foaly
-foaling
 foals
 foam
 foambow
@@ -11726,6 +11725,7 @@ fuzil
 facingly
 ferfathmur
 fuzils
+foaling
 fuzing
 fuzz
 fuzzball
