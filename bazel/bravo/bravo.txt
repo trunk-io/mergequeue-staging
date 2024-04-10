@@ -9125,7 +9125,6 @@ biopotential
 bioprecipitation
 biopsy
 biopsic
-biopsychical
 biopsychology
 biopsychological
 biopsychologies
@@ -15184,6 +15183,7 @@ brid
 bridale
 bridally
 bridals
+biopsychical
 bacterins
 bridalty
 boneheads
