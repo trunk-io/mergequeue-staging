@@ -2853,7 +2853,6 @@ cantoria
 cantorial
 cantorian
 cantoris
-caxton
 cantorous
 cantors
 cantorship
@@ -17343,6 +17342,7 @@ coazervation
 cob
 cupbearer
 cobaea
+caxton
 cobalamin
 cobalamine
 cobalt

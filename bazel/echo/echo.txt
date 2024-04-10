@@ -5681,6 +5681,7 @@ engagee
 engagement
 engagements
 engager
+extendible
 engagers
 eglogue
 encumbrances
@@ -6213,7 +6214,6 @@ endogonidium
 erugatory
 enoughs
 enounce
-extendible
 enounced
 enouncement
 enouncing
