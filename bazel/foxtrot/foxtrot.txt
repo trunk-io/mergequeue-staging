@@ -5835,6 +5835,7 @@ floaters
 floaty
 floatier
 fitter
+forgeries
 floatiest
 floatiness
 floatingly
@@ -8242,7 +8243,6 @@ forged
 forgeful
 forger
 forgery
-forgeries
 forgers
 forges
 furiosity
