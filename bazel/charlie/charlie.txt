@@ -10637,7 +10637,6 @@ chimeral
 chimeras
 chimere
 chimeres
-chimeric
 chimerical
 chimerically
 clinostat
@@ -15770,6 +15769,7 @@ clawed
 clawer
 clawers
 clawhammer
+chimeric
 clawing
 currawong
 clawk
