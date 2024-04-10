@@ -10519,7 +10519,6 @@ blazoned
 blazoner
 blazoners
 blazoning
-blazonment
 blazonry
 blazonries
 blazons
@@ -11377,6 +11376,7 @@ bluffer
 bluffers
 bluffest
 bluffy
+blazonment
 bluffing
 bluffly
 bluffness
