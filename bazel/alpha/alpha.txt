@@ -8494,6 +8494,7 @@ alkyne
 alkynes
 alkitran
 alkool
+aucuba
 alkoran
 alkoranic
 alkoxy
@@ -23233,7 +23234,6 @@ auctor
 auctorial
 auctorizate
 auctors
-aucuba
 aucubas
 aucupate
 audace
