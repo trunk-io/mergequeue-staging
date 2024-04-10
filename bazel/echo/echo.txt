@@ -577,7 +577,6 @@ echinorhynchus
 echinorhinidae
 echinorhinus
 echinospermum
-echinosphaeritidae
 echinostoma
 echinostomatidae
 echinostome
@@ -10886,6 +10885,7 @@ eulogious
 eulogise
 eulogises
 eulogising
+echinosphaeritidae
 eulogism
 eulogist
 eulogistic
