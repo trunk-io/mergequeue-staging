@@ -10202,7 +10202,6 @@ amenability
 amenable
 amenableness
 amenably
-amenage
 amenance
 amend
 amendableness
@@ -18241,6 +18240,7 @@ aqueousness
 aquerne
 aberuncator
 aquiclude
+amenage
 aquicolous
 aquicultural
 aquiculture
