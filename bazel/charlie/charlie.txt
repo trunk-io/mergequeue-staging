@@ -5162,7 +5162,6 @@ cassinese
 cassinette
 cassinian
 cassino
-cassinoid
 cassinos
 cassioberry
 cassiope
@@ -12490,6 +12489,7 @@ chromone
 chromonema
 chromonemal
 chromonemata
+cassinoid
 chromonematal
 chromonematic
 chromonemic
