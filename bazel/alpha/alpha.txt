@@ -1875,7 +1875,6 @@ aceconitic
 aced
 acedy
 acedia
-acediamin
 acediamine
 acedias
 acediast
@@ -23977,6 +23976,7 @@ autocrats
 autocratship
 autocross
 autocue
+acediamin
 autodecomposition
 autodecrement
 autodecremented
