@@ -7950,7 +7950,6 @@ epilithic
 echards
 epyllia
 excipula
-epilobe
 epilobium
 epilog
 epilogate
@@ -12756,6 +12755,7 @@ exoneural
 exonian
 exonym
 exonuclease
+epilobe
 exopathic
 exophagy
 exophasia

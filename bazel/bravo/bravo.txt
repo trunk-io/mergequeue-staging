@@ -7597,7 +7597,6 @@ bewhig
 bewhisker
 bewhiskered
 bewhisper
-bewhistle
 bewhite
 bellmen
 bewhiten
@@ -10163,6 +10162,7 @@ blackshirt
 blackshirted
 blacksmith
 blacksmithing
+bewhistle
 blacksmiths
 blacksnake
 blackstick
