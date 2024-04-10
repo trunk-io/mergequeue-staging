@@ -6755,6 +6755,7 @@ enthalpy
 elotillo
 enthalpies
 entheal
+eurythmic
 enthean
 entheasm
 entheate
@@ -11190,7 +11191,6 @@ eurythermic
 eurithermophile
 eurithermophilic
 eurythermous
-eurythmic
 eurythmical
 eurythmics
 eurythmies

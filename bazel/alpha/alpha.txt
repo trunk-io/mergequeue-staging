@@ -6505,7 +6505,6 @@ agrology
 agrologic
 agrological
 agrologically
-agrologies
 agrologist
 adsorbate
 agrom
@@ -14323,6 +14322,7 @@ anthelions
 anthelix
 anthelminthic
 anthem
+agrologies
 anthemas
 anthemata
 anthemed
