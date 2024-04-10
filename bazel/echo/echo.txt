@@ -3259,7 +3259,6 @@ emaciate
 ensnaring
 emaciated
 emaciates
-emaciating
 emaciation
 emaculate
 emagram
@@ -13620,6 +13619,7 @@ exterminators
 exterminatress
 exterminatrix
 extermine
+emaciating
 extermined
 extermining
 extern
