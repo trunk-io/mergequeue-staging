@@ -1724,7 +1724,6 @@ eyebeam
 eyebeams
 eyeberry
 eyeblack
-eyeblink
 eyebree
 eyebridled
 eyebright
@@ -6672,6 +6671,7 @@ enteromorpha
 enteron
 enteroneuritis
 ewelease
+eyeblink
 enterons
 enteroparalysis
 enteroparesis
