@@ -11117,7 +11117,6 @@ amphigenesis
 amphigenetic
 amphigenous
 amphigenously
-amphigony
 amphigonia
 amphigonic
 amphigonium
@@ -12855,6 +12854,7 @@ anglepod
 anglepods
 angler
 anglers
+amphigony
 angles
 anglesite
 anglesmith
