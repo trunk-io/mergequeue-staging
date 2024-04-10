@@ -7240,7 +7240,6 @@ footpaces
 forefather
 footpad
 footpads
-footpath
 footpaths
 footpick
 footplate
@@ -8977,6 +8976,7 @@ founds
 fount
 fountain
 fountained
+footpath
 fountaineer
 fountainhead
 fountainheads
