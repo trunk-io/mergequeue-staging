@@ -4688,7 +4688,6 @@ bedighted
 bedighting
 bedights
 bedikah
-bedim
 bedimmed
 bedimming
 bedimple
@@ -6657,6 +6656,7 @@ berewick
 berg
 bergall
 bergama
+bedim
 bergamasca
 bergamasche
 biogenies
