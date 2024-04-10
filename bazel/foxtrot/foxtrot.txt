@@ -4797,7 +4797,6 @@ flagon
 flagonless
 flagons
 fasciolaria
-frontspiece
 flagpole
 flagpoles
 flagrance
@@ -6271,6 +6270,7 @@ fluctuosity
 fluctuous
 flued
 fluegelhorn
+frontspiece
 fluey
 flueless
 fluellen
