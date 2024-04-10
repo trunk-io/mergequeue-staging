@@ -1385,7 +1385,6 @@ fatigued
 formicina
 fatigueless
 fatiguesome
-fatiguing
 fatiguingly
 fatiha
 fatihah
@@ -7932,6 +7931,7 @@ fores
 foresaddle
 foresay
 foresail
+fatiguing
 foresails
 foresays
 foresaw
