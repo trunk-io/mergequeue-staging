@@ -8737,7 +8737,6 @@ equipollent
 equipollently
 euphemizing
 equipollentness
-equiponderance
 equiponderancy
 equiponderant
 equiponderate
@@ -11580,6 +11579,7 @@ evict
 evicted
 evictee
 evictees
+equiponderance
 evicting
 eviction
 evictions
