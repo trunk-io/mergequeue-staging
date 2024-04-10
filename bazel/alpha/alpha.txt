@@ -5471,6 +5471,7 @@ affrontment
 affronts
 afft
 affuse
+arctitude
 affusedaffusing
 affusion
 affusions
@@ -19211,7 +19212,6 @@ arcticwards
 arctiid
 arctiidae
 arctisca
-arctitude
 arctium
 arctocephalus
 arctogaea
