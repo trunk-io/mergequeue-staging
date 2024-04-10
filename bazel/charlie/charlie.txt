@@ -102,7 +102,6 @@ cabinda
 cabined
 cabinet
 cabineted
-cabineting
 cabinetmake
 cabinetmaker
 cabinetmakers
@@ -12696,6 +12695,7 @@ chuckstone
 chuckwalla
 cogovernment
 chud
+cabineting
 chuddah
 chuddahs
 chuddar
