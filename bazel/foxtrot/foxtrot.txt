@@ -4536,7 +4536,6 @@ fernland
 fistulose
 fistulous
 fistwise
-fit
 fitch
 fitche
 fitched
@@ -7304,6 +7303,7 @@ foozled
 foozler
 foozlers
 foozles
+fit
 foozling
 fop
 fopdoodle

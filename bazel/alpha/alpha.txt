@@ -15868,7 +15868,6 @@ antiphrasis
 antiphrastic
 antiphrastically
 antiphthisic
-antiphthisical
 antipyic
 antipyics
 antipill
@@ -20918,6 +20917,7 @@ ascensive
 ascensor
 ascent
 ascertain
+antiphthisical
 ascertainability
 ascertainably
 ascertained
