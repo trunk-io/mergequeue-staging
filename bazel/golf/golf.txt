@@ -4016,7 +4016,6 @@ gigaton
 gigatons
 gigavolt
 gigawatt
-gigawatts
 gigback
 gigelira
 gigeria
@@ -4288,6 +4287,7 @@ gymnoplast
 genealogy
 gymnorhinal
 gymnosoph
+gigawatts
 gymnosophy
 gymnosophical
 gymnosophist
