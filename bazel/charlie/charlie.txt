@@ -2106,6 +2106,7 @@ campsheeting
 campshot
 campsite
 campsites
+colature
 campstool
 campstools
 camptodrome
@@ -3102,7 +3103,6 @@ capitellate
 capitelliform
 capitellum
 capitle
-colature
 capito
 capitol
 capitolian
