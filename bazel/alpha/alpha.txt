@@ -8941,7 +8941,6 @@ allothigenic
 allothigenous
 allothimorph
 allothimorphic
-allothogenic
 allothogenous
 allotype
 allotypes
@@ -17556,6 +17555,7 @@ appanages
 appanaging
 audiogenic
 appanagist
+allothogenic
 appar
 apparail
 apparance
