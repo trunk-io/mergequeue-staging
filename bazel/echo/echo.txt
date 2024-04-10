@@ -6570,7 +6570,6 @@ entellus
 entelluses
 entelodon
 entelodont
-entempest
 entemple
 entender
 entendre
@@ -12536,6 +12535,7 @@ exhorted
 exhorter
 exhorters
 exhorting
+entempest
 exhortingly
 exhorts
 exhumate

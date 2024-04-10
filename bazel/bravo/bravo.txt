@@ -7578,7 +7578,6 @@ bewake
 bewall
 beware
 bewared
-bewares
 bewary
 bewaring
 bewash
@@ -8035,6 +8034,7 @@ bichy
 berhyming
 bichir
 bichloride
+bewares
 bichlorides
 bichord
 bichos
