@@ -67,7 +67,6 @@ dacryoadenalgia
 dacryoadenitis
 dacryoblenorrhea
 dacryocele
-dacryocyst
 doray
 dacryocystitis
 digestively
@@ -5379,6 +5378,7 @@ dents
 dentulous
 dentural
 disturbative
+dacryocyst
 denture
 dentures
 denuclearization
