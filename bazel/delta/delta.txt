@@ -15772,6 +15772,7 @@ dorsally
 dorsalmost
 dorsals
 dorsalward
+drivewell
 dorsalwards
 dorse
 dorsel
@@ -17212,7 +17213,6 @@ dredgings
 drivescrew
 driveway
 driveways
-drivewell
 driving
 drivingly
 drywall
