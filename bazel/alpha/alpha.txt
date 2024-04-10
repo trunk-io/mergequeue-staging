@@ -5931,7 +5931,6 @@ agedly
 agedness
 agednesses
 alloantibody
-agee
 ageing
 ageings
 ageism
@@ -12496,6 +12495,7 @@ anemochoric
 anemochorous
 anemoclastic
 anemogram
+agee
 anemograph
 anemography
 anemographic
