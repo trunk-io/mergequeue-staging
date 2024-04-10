@@ -675,6 +675,7 @@ eclipsises
 ecliptic
 ecliptical
 ecliptically
+excitron
 ecliptics
 eclogic
 eclogite
@@ -12082,7 +12083,6 @@ excitory
 excitors
 excitosecretory
 excitovascular
-excitron
 excl
 exclaimed
 exclaimer
