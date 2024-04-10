@@ -5459,7 +5459,6 @@ deoperculate
 deoppilant
 deoppilate
 deoppilation
-deordination
 deorganization
 deorganize
 deorientalize
@@ -15226,6 +15225,7 @@ dolorimeter
 dolorimetry
 dolorimetric
 dolorimetrically
+deordination
 dolorogenic
 doloroso
 dolorous
