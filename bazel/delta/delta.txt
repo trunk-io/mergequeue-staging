@@ -3881,7 +3881,6 @@ dejectedly
 dejectedness
 dejectile
 dejecting
-dejection
 dejections
 dejectly
 dejectory
@@ -17016,6 +17015,7 @@ dressoirs
 drest
 dretch
 drevel
+dejection
 drew
 drewite
 dry
