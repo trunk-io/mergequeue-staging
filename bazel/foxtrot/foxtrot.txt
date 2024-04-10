@@ -3811,7 +3811,6 @@ filopodium
 filosa
 filoselle
 filosofe
-filosus
 fils
 fishpond
 filt
@@ -10351,6 +10350,7 @@ from
 fossarian
 fromages
 fromenty
+filosus
 fromenties
 fromward
 fromwards

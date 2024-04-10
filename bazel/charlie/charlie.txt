@@ -24786,6 +24786,7 @@ compare
 coquillage
 coquille
 coquilles
+corrupted
 coquimbite
 coquina
 coquinas
@@ -25788,7 +25789,6 @@ corrumpable
 corrup
 corrupable
 corrupt
-corrupted
 corruptedly
 corruptedness
 corrupter
