@@ -2315,6 +2315,7 @@ fenestellidae
 fenester
 fenestra
 fenestrae
+fwd
 fenestral
 fenestrate
 fenestrated
@@ -11741,6 +11742,5 @@ fuzzle
 fuzztail
 fv
 fw
-fwd
 fwelling
 fz
