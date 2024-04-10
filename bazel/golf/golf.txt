@@ -1191,6 +1191,7 @@ ganodont
 ganodonta
 ganodus
 ganof
+genus
 ganofs
 ganoid
 ganoidal
@@ -6133,7 +6134,6 @@ glumness
 glumnesses
 guarders
 gyrovagi
-genus
 glumose
 gores
 glumosity
