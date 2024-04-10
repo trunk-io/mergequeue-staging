@@ -1917,7 +1917,6 @@ fedoras
 feds
 fee
 feeable
-flavin
 feeb
 fadelessly
 feeble
@@ -7545,6 +7544,7 @@ forebodies
 foreboding
 forebodingness
 foreboom
+flavin
 forebooms
 forebowels
 forebowline
