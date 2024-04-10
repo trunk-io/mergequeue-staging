@@ -11143,6 +11143,7 @@ disbar
 dysbarism
 disbark
 disbarment
+doorframe
 disbarments
 disbarred
 disbarring
@@ -15556,7 +15557,6 @@ doorbrand
 doorcase
 doorcheek
 doored
-doorframe
 doorhawk
 doorhead
 dooryard
