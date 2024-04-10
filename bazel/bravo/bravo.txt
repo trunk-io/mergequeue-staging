@@ -5093,7 +5093,6 @@ befittingly
 blooming
 befittingness
 beflag
-beflagged
 benumbedness
 beflagging
 beflags
@@ -17403,6 +17402,7 @@ bungey
 bunger
 bungerly
 bungfull
+beflagged
 bunghole
 bungholes
 biathlons
