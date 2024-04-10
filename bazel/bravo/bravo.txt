@@ -4611,7 +4611,6 @@ bedcord
 byplays
 bedcover
 bedcovers
-beddable
 bedded
 bedder
 bedders
@@ -12768,6 +12767,7 @@ boonies
 boonk
 bourignonist
 boonless
+beddable
 boons
 boophilus
 boopis
