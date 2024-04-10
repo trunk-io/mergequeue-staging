@@ -19540,7 +19540,6 @@ columbella
 columbia
 columbiad
 columbian
-columbid
 columbidae
 columbier
 columbiferous
@@ -28655,6 +28654,7 @@ crenelet
 creneling
 crenellated
 crenellating
+columbid
 crenellation
 crenelle
 crenelled
