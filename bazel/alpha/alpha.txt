@@ -11431,6 +11431,7 @@ amvis
 amzel
 an
 ana
+anew
 anabaenas
 anabantid
 anabantidae
@@ -20817,7 +20818,6 @@ arx
 arzan
 arzava
 arzawa
-anew
 arzun
 as
 asa
