@@ -1037,6 +1037,7 @@ farmed
 farmer
 farmeress
 farmery
+floorshow
 farmeries
 farmerish
 farmerly
@@ -5975,7 +5976,6 @@ floors
 folkways
 floorshift
 floorshifts
-floorshow
 floorthrough
 floorway
 floorwalker
