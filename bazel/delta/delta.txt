@@ -13314,7 +13314,6 @@ disquisitorial
 disquixote
 disraeli
 disray
-disrange
 disrank
 dysraphia
 disrated
@@ -14800,6 +14799,7 @@ dodecasyllabic
 dodecasyllable
 dodecastylar
 dodecastyle
+disrange
 dodecastylos
 dodecatemory
 demonising
