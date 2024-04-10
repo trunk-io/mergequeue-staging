@@ -9635,7 +9635,6 @@ bisharin
 bishydroxycoumarin
 bishop
 bishopbird
-bishopdom
 bishoped
 bishopful
 bishophood
@@ -17781,6 +17780,7 @@ bloodstain
 burnettize
 burnettized
 burnettizing
+bishopdom
 burnewin
 butcherliness
 burnfire
