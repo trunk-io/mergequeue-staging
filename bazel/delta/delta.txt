@@ -330,7 +330,6 @@ dahs
 depravers
 day
 dayabhaga
-dayak
 disincrustant
 dayakker
 dayal
@@ -12476,6 +12475,7 @@ disinterested
 disinterestedly
 disinterestedness
 disintermediation
+dayak
 disinterment
 disinterred
 disinterring
