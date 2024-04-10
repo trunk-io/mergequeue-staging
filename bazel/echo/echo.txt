@@ -6838,6 +6838,7 @@ entitatively
 entities
 emetin
 entitle
+epitomizing
 entitled
 entitledness
 enriched
@@ -8429,7 +8430,6 @@ epitomization
 epitomize
 epitomized
 epitomizes
-epitomizing
 epitonic
 epitonion
 epitonium
