@@ -3607,7 +3607,6 @@ bathmat
 bathmats
 bathmic
 bathmism
-bathmotropism
 bathochromatic
 bathochromatism
 bathochrome
@@ -17832,6 +17831,7 @@ burping
 burps
 burr
 burrah
+bathmotropism
 burratine
 burrawang
 burrbark
