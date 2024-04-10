@@ -8487,6 +8487,7 @@ bilamellated
 bilaminar
 bilaminate
 bilaminated
+bromous
 biland
 byland
 bilander
@@ -15904,7 +15905,6 @@ bromoprotein
 bromos
 bromothymol
 bromouracil
-bromous
 bromphenol
 brompicrin
 bromthymol
