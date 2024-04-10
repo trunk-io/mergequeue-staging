@@ -12211,6 +12211,7 @@ boltmaking
 boltonia
 boltonias
 boltonite
+bowyer
 boltrope
 boltropes
 bolts
@@ -13759,7 +13760,6 @@ bowyang
 bowyangs
 bowie
 blamableness
-bowyer
 bowyers
 bowing
 bowingly
