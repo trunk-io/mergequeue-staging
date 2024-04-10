@@ -938,6 +938,7 @@ absenteeship
 absenter
 absenters
 absentia
+anthocerote
 absenting
 absently
 absentment
@@ -14380,7 +14381,6 @@ anthocarp
 anthocarpous
 anthoceros
 anthocerotaceae
-anthocerote
 anthochlor
 anthochlorine
 anthocyan
