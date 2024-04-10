@@ -3026,6 +3026,7 @@ elkhound
 elkhounds
 economizing
 elkoshite
+entries
 electrophoretic
 elkslip
 elkuma
@@ -7075,7 +7076,6 @@ endocardial
 entrez
 entry
 entria
-entries
 entrike
 entryman
 enteroid
