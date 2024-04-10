@@ -4947,7 +4947,6 @@ endanger
 endangered
 endangerer
 endangering
-endangerment
 endangerments
 endangitis
 endangium
@@ -7924,6 +7923,7 @@ epilate
 epilated
 epilating
 epilation
+endangerment
 epilator
 epilemma
 epilemmal

@@ -2830,7 +2830,6 @@ clairschach
 cantinier
 cantino
 cantion
-cantish
 cantle
 cantles
 cantlet
@@ -25827,6 +25826,7 @@ corselet
 corseleted
 corseleting
 corselets
+cantish
 corsepresent
 corseque
 corser
