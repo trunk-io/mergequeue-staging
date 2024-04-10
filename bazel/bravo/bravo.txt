@@ -2001,6 +2001,7 @@ bandstand
 bandstands
 bandster
 bandstop
+bridgeward
 bandstring
 bandura
 bandurria
@@ -15251,7 +15252,6 @@ bridgetin
 bridgetree
 bridgeway
 bridgewall
-bridgeward
 bridgewards
 bridgewater
 bridgework
