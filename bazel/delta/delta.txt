@@ -698,7 +698,6 @@ dampens
 damper
 dampers
 dampy
-damping
 dampish
 dampishly
 dampishness
@@ -2615,6 +2614,7 @@ decolouration
 decolouring
 decolourisation
 decolourised
+damping
 decolouriser
 decolourising
 decolourization

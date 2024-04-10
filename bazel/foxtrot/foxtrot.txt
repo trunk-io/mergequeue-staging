@@ -2499,7 +2499,6 @@ ferns
 fernseed
 faucalize
 fernshaw
-forlorner
 fernsick
 ferntickled
 fernticle
@@ -9961,6 +9960,7 @@ fricatrice
 forleft
 frickle
 fricti
+forlorner
 friction
 frictionable
 frictional
