@@ -5962,6 +5962,7 @@ floorcloth
 fala
 floorcloths
 floored
+fours
 floorer
 floorhead
 flooring
@@ -9038,7 +9039,6 @@ fourragere
 fourrageres
 fourre
 fourrier
-fours
 flagellates
 fourscore
 fourscorth
