@@ -10466,7 +10466,6 @@ blateration
 bilo
 blateroon
 blather
-blathered
 blatherer
 blathery
 blathers
@@ -15138,6 +15137,7 @@ bribes
 bribetaker
 bribetaking
 bribeworthy
+blathered
 bribing
 bribri
 bryce
