@@ -10090,7 +10090,6 @@ dingbat
 dingbats
 dingdong
 dingdonged
-dingdonging
 dingdongs
 dinge
 depletes
@@ -11101,6 +11100,7 @@ disassembly
 disassembling
 disassent
 disassiduity
+dingdonging
 disassimilate
 disassimilated
 disassimilation
