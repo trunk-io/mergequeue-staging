@@ -7550,6 +7550,7 @@ ephod
 ephods
 ephoi
 ephor
+evanesces
 ephoral
 essayical
 ephoralty
@@ -11337,7 +11338,6 @@ evanescency
 evanescenrly
 evanescent
 evanescently
-evanesces
 evanescible
 evanescing
 evang
