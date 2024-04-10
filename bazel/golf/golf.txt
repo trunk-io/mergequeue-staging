@@ -3257,7 +3257,6 @@ geostatic
 geostationary
 gluttonism
 geostrategy
-geostrategist
 geostrophic
 geostrophically
 geotactic
@@ -5414,6 +5413,7 @@ goozle
 glyceral
 glyceraldehyde
 glycerate
+geostrategist
 glyceria
 glyceric
 glyceride
