@@ -1404,7 +1404,6 @@ callaloo
 callaloos
 callan
 callans
-callant
 callants
 callas
 callat
@@ -29140,6 +29139,7 @@ cryohydric
 cryolite
 cryolites
 criolla
+callant
 criollas
 criollo
 criollos
