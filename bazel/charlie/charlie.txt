@@ -16666,7 +16666,6 @@ clothesmonger
 clothespin
 clothespins
 clothespress
-clothespresses
 clothy
 clothier
 clothiers
@@ -25478,6 +25477,7 @@ coronary
 coronaries
 coronas
 coronate
+clothespresses
 coronated
 coronation
 corrosible
