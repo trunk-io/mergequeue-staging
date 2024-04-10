@@ -2102,7 +2102,6 @@ acetochloral
 acetocinnamene
 acetoin
 acetol
-acetolysis
 acetolytic
 acetometer
 acetometry
@@ -11132,6 +11131,7 @@ amphigory
 amphigories
 amphigouri
 amphigouris
+acetolysis
 amphikaryon
 amphikaryotic
 amphilogy
