@@ -2580,6 +2580,7 @@ fault
 ferriprussiate
 ferriprussic
 ferris
+forweep
 fribblery
 ferrites
 ferritic
@@ -8798,7 +8799,6 @@ forweary
 forwearied
 forwearying
 forweend
-forweep
 forwelk
 forwent
 forwhy
