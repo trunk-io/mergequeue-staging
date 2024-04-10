@@ -838,7 +838,6 @@ fant
 fantad
 fantaddish
 fantail
-fantailed
 fantails
 fantaisie
 fantasy
@@ -1596,6 +1595,7 @@ favositoid
 favour
 favourable
 fossilisation
+fantailed
 favourableness
 favoured
 favouredly
