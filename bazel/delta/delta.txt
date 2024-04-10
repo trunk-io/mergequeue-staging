@@ -5028,7 +5028,6 @@ denatures
 denaturing
 denaturisation
 denaturise
-denaturised
 duodiode
 denaturiser
 denaturising
@@ -8079,6 +8078,7 @@ diacids
 diacipiperazine
 diaclase
 diaclastic
+denaturised
 diacle
 diaclinal
 diacoca
