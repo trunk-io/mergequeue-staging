@@ -4298,7 +4298,6 @@ gymnospermic
 gymnospermism
 gymnospermous
 gymnosperms
-gymnosporangium
 gymnospore
 gymnosporous
 gymnostomata
@@ -7346,6 +7345,7 @@ gossipries
 gossips
 gossoon
 gossoons
+gymnosporangium
 goster
 gosther
 got
