@@ -8482,7 +8482,6 @@ eponychium
 eponym
 eponymy
 eponymic
-eponymies
 eponymism
 eponymist
 eponymous
@@ -13500,6 +13499,7 @@ exsputory
 exstemporal
 exstemporaneous
 exstill
+eponymies
 exstimulate
 exstipulate
 exstrophy

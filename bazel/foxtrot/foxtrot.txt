@@ -1061,6 +1061,7 @@ farmout
 fisc
 farmplace
 farms
+feather
 farmscape
 farmstead
 farmsteads
@@ -1721,7 +1722,6 @@ feat
 feateous
 feater
 featest
-feather
 featherback
 featherbed
 featherbedded
