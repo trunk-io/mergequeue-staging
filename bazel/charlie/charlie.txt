@@ -5741,7 +5741,6 @@ cacozyme
 cater
 cateran
 chemung
-coronagraph
 caterans
 caterbrawl
 catercap
@@ -9463,6 +9462,7 @@ chechehet
 chechem
 chechen
 chechia
+coronagraph
 check
 checkable
 checkage
