@@ -3679,6 +3679,7 @@ adenographer
 adenography
 adenographic
 adenographical
+anticreeper
 adenohypersthenia
 adenohypophyseal
 adenohypophysial
@@ -15055,7 +15056,6 @@ anticreativeness
 anticreativity
 anticreator
 anticreep
-anticreeper
 anticreeping
 anticrepuscular
 anticrepuscule
