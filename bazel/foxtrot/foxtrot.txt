@@ -6350,7 +6350,6 @@ fluidizes
 fluidly
 fluidmeter
 fluidness
-fluidounce
 fluidrachm
 fluidram
 fluidrams
@@ -10590,6 +10589,7 @@ frubbish
 folkish
 fruchtschiefer
 fructescence
+fluidounce
 fructescent
 fructiculose
 fructicultural
