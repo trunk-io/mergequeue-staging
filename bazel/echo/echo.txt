@@ -2212,7 +2212,6 @@ eldress
 eldrich
 eldritch
 elds
-elean
 eleanor
 eleazar
 elec
@@ -11545,6 +11544,7 @@ everywhither
 everywoman
 everlasting
 everlastingly
+elean
 everlastingness
 everly
 everliving
