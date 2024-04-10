@@ -4632,7 +4632,6 @@ glowworm
 gypsine
 gipsiologist
 gypsiologist
-gipsire
 gypsyry
 gypsite
 gipsyweed
@@ -8944,6 +8943,7 @@ griffonne
 griffons
 grift
 grifted
+gipsire
 grifter
 grifters
 gluttonised
