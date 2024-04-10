@@ -13392,7 +13392,6 @@ bottles
 bottlesful
 bottlestone
 bottling
-borstall
 bottomchrome
 bottomed
 bottomer
@@ -13824,6 +13823,7 @@ bowstaff
 brokenhearted
 bowstave
 bowstring
+borstall
 bowstringed
 bowstringing
 bowstrings
