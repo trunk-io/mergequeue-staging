@@ -284,7 +284,6 @@ abducentes
 abduces
 abducing
 aw
-articulate
 abduct
 abducted
 abducting
@@ -6179,6 +6178,7 @@ agists
 agit
 agitability
 agitable
+articulate
 agitant
 agitate
 agitated
