@@ -10414,7 +10414,6 @@ chignoned
 chignons
 chigoe
 chigoes
-chih
 conquered
 chihfu
 chihuahua
@@ -25479,6 +25478,7 @@ coronation
 corrosible
 coronations
 coronatorial
+chih
 coronel
 coronels
 coronene
