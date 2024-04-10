@@ -10359,7 +10359,6 @@ amyatonic
 amic
 amicability
 amicabilities
-amicable
 amicableness
 amicably
 amical
@@ -20846,6 +20845,7 @@ asarh
 asarin
 asarite
 asaron
+amicable
 asarone
 asarota
 asarotum
