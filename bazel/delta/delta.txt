@@ -8157,7 +8157,6 @@ diaetetae
 diag
 diagenesis
 diagenetic
-diagenetically
 diageotropy
 diageotropic
 diageotropism
@@ -14652,6 +14651,7 @@ docker
 dockers
 docket
 docketed
+diagenetically
 docketing
 dockets
 dockhand
