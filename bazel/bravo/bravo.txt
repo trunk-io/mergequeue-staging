@@ -3204,7 +3204,6 @@ basichromatin
 basichromatinic
 babai
 basichromiole
-basicity
 basicities
 basicranial
 basics
@@ -17223,6 +17222,7 @@ bullwhipping
 bullwhips
 bullwork
 bullwort
+basicity
 bulnbuln
 bulreedy
 bulrush
