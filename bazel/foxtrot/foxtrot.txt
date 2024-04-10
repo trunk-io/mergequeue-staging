@@ -5766,7 +5766,6 @@ flytier
 flytiers
 fertilizes
 flytime
-formagenic
 faire
 fliting
 flyting
@@ -9826,6 +9825,7 @@ frequentage
 frequentation
 frequentative
 frequented
+formagenic
 frequenter
 frequenters
 frequentest
