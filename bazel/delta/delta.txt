@@ -5520,7 +5520,6 @@ depair
 depayse
 depaysee
 depancreatization
-depancreatize
 depardieu
 depark
 deparliament
@@ -11010,6 +11009,7 @@ disangularize
 disanimal
 disanimated
 disanimation
+depancreatize
 disanney
 disannex
 disannexation
