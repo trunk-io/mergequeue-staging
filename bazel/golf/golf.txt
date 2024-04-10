@@ -6926,7 +6926,6 @@ gonocoele
 gonoecium
 gonof
 gonofs
-gonogenesis
 gonomere
 gonomery
 gonophore
@@ -9036,6 +9035,7 @@ grind
 grindable
 grindal
 grinded
+gonogenesis
 grindelia
 grindery
 grinderman
