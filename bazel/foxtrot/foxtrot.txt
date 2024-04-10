@@ -2109,7 +2109,6 @@ felled
 feller
 fellers
 fellest
-fellfare
 felly
 felliducous
 fellies
@@ -6766,6 +6765,7 @@ fifers
 foetiparous
 foetor
 foetors
+fellfare
 foppishly
 foetus
 foetuses

@@ -6838,7 +6838,6 @@ cemented
 cementer
 cementers
 cementification
-cementin
 cementing
 cementite
 cementitious
@@ -25625,6 +25624,7 @@ correal
 correality
 correct
 correctable
+cementin
 correctant
 corrected
 correctedness
