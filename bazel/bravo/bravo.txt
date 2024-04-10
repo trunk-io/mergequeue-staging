@@ -1535,6 +1535,7 @@ ballastage
 ballasted
 bouton
 ballaster
+biclinia
 ballastic
 ballasting
 ballasts
@@ -8074,7 +8075,6 @@ bickerers
 bickering
 bickers
 bickiron
-biclinia
 breathiest
 biclinium
 bycoket
