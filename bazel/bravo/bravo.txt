@@ -1417,7 +1417,6 @@ balducta
 balductum
 baldwin
 bale
-baleare
 balearian
 balearic
 balearica
@@ -7572,6 +7571,7 @@ bewailer
 bewailers
 bewailing
 bewailingly
+baleare
 bewailment
 bewails
 bewake
