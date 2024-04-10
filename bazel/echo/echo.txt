@@ -3561,7 +3561,6 @@ embossed
 eunuch
 exponentiations
 embossers
-embossing
 embossman
 embossment
 embossments
@@ -8541,6 +8540,7 @@ epulosis
 epulotic
 epupillate
 epural
+embossing
 epuration
 eq
 eqpt
