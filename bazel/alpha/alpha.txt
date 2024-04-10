@@ -4965,7 +4965,6 @@ aeroelastics
 aeroembolism
 aeroenterectasia
 aerofoil
-aerofoils
 aerogel
 aerogels
 aerogen
@@ -8383,6 +8382,7 @@ alkalic
 alkalies
 alkaliferous
 alkalify
+aerofoils
 alkalifiable
 alkalified
 alkalifying
