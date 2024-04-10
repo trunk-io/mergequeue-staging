@@ -5863,6 +5863,7 @@ agaricaceae
 agaricaceous
 agaricales
 agaricic
+arcform
 agariciform
 agaricin
 agaricine
@@ -18633,7 +18634,6 @@ arccosine
 arced
 arces
 arceuthobium
-arcform
 arch
 archabomination
 archae
