@@ -20818,7 +20818,6 @@ composite
 composited
 compositely
 compositeness
-composites
 compositing
 composition
 compositional
@@ -29122,6 +29121,7 @@ crioboly
 criobolium
 cryocautery
 criocephalus
+composites
 crioceras
 circulate
 crioceratite
