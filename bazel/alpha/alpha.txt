@@ -1834,6 +1834,7 @@ accusal
 accusals
 accusant
 accusants
+alemonger
 accusation
 accusations
 accusatival
@@ -18040,7 +18041,6 @@ appulse
 appulses
 appulsion
 appulsive
-alemonger
 appulsively
 appurtenance
 appurtenances
