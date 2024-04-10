@@ -4328,7 +4328,6 @@ gynaecia
 gynaecian
 gynaecic
 gynaecium
-gynaecocoenic
 gynaecocracy
 gynaecocrat
 gynaecocratic
@@ -6485,6 +6484,7 @@ gobleted
 gastriloquous
 gastronomist
 goblets
+gynaecocoenic
 goblin
 glycocholate
 gettable
