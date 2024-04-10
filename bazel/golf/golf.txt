@@ -3336,7 +3336,6 @@ gerate
 gerundially
 gerated
 gerately
-geratic
 geratology
 geratologous
 gerb
@@ -4558,6 +4557,7 @@ gynosporangium
 gynospore
 gynostegia
 gynostegium
+geratic
 gynostemia
 gynostemium
 gynostemiumia
