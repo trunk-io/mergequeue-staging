@@ -5759,7 +5759,6 @@ glochidium
 glochids
 glochines
 glochis
-glockenspiel
 glockenspiels
 gloea
 gloeal
@@ -10554,6 +10553,7 @@ gunrooms
 gunrunner
 gunrunning
 guns
+glockenspiel
 gunsel
 gunsels
 gilly
