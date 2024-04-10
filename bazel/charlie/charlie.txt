@@ -6160,7 +6160,6 @@ caulopteris
 caulosarc
 caulotaxy
 caulotaxis
-caulote
 cauls
 caum
 cauma
@@ -21450,6 +21449,7 @@ concordal
 concordance
 concordancer
 concordances
+caulote
 concordancy
 concordant
 concordantial
