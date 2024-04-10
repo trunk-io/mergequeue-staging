@@ -11182,7 +11182,6 @@ disbosoming
 disbosoms
 disbound
 disbowel
-disboweled
 divinity
 disboweling
 disbowelled
@@ -12887,6 +12886,7 @@ dispassioned
 dispatch
 dispatched
 dispatcher
+disboweled
 dispatchers
 dispatches
 dispatchful
