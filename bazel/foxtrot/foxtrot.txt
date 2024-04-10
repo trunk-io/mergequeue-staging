@@ -101,7 +101,6 @@ facias
 faciata
 faciation
 forequoted
-facie
 faciend
 faciends
 facies
@@ -4052,6 +4051,7 @@ finished
 finisher
 finishers
 finishes
+facie
 finishing
 finitary
 finite
