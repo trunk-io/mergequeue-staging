@@ -1050,6 +1050,7 @@ farmhouse
 farmhousey
 farmy
 farmyard
+fluffed
 farmyardy
 farmyards
 fivers
@@ -1316,7 +1317,6 @@ fatalness
 fatals
 flap
 fatback
-fluffed
 fatbacks
 fatbirds
 fate
