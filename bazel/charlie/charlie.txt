@@ -5740,6 +5740,7 @@ cacozyme
 cater
 cateran
 chemung
+coronagraph
 caterans
 caterbrawl
 catercap
@@ -25463,7 +25464,6 @@ coronadite
 coronado
 coronados
 coronae
-coronagraph
 coronagraphic
 coronal
 coronale
