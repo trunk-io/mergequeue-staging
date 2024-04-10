@@ -2363,7 +2363,6 @@ electrocutioner
 electrocutions
 emplaces
 electrode
-electrodeless
 electrodentistry
 electrodeposit
 electrodepositable
@@ -7086,6 +7085,7 @@ enteroid
 entrymen
 entryway
 entryways
+electrodeless
 entrochite
 entrochus
 entropy
