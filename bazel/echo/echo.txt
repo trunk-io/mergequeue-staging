@@ -13040,7 +13040,6 @@ expenditrix
 elegits
 expenditure
 enfonced
-expenditures
 expends
 expense
 expensed
@@ -13574,6 +13573,7 @@ extensive
 extensively
 extensiveness
 empathizing
+expenditures
 extensivity
 extensometer
 extensor
