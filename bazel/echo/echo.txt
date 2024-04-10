@@ -4210,7 +4210,6 @@ electroviscous
 employments
 employs
 ensured
-epopt
 emplore
 emplume
 emplunge
@@ -6205,6 +6204,7 @@ enorn
 enos
 enosis
 endopod
+epopt
 enosises
 enosist
 enostosis
