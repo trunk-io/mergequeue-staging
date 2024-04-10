@@ -4344,7 +4344,6 @@ gynaecomastia
 gynaecomorphous
 gynaeconitis
 gynaeocracy
-gynaeolater
 gynaeolatry
 gynander
 grenadiership
@@ -10361,6 +10360,7 @@ gulonic
 gulose
 gulosity
 gulosities
+gynaeolater
 gossiping
 gulp
 gulper
