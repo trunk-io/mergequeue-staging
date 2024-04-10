@@ -47,7 +47,6 @@ eardropper
 eardrum
 eardrums
 eisell
-eared
 earflap
 earflaps
 equiprobabilism
@@ -985,6 +984,7 @@ eczematoid
 eidolology
 endodontic
 eczematosis
+eared
 eczematous
 ed
 edacious
