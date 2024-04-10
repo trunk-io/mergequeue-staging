@@ -28161,7 +28161,6 @@ cranking
 crankish
 crankism
 crankle
-crankled
 crankles
 crankless
 contiguities
@@ -30519,6 +30518,7 @@ cubmaster
 cubocalcaneal
 cuboctahedron
 cubocube
+crankled
 cubocuneiform
 cubododecahedral
 cuboid
