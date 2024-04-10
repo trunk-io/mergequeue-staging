@@ -4488,7 +4488,6 @@ gravic
 ginglymoidal
 ginglymostoma
 greengrocer
-ginglymostomoid
 ginglymus
 ginglyni
 ginglmi
@@ -8560,6 +8559,7 @@ geostatics
 guardful
 greathead
 greathearted
+ginglymostomoid
 greatheartedly
 greatheartedness
 greatly
