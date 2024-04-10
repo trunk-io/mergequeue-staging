@@ -6732,7 +6732,6 @@ desmachyme
 desman
 desmans
 desmanthus
-desmarestiaceae
 desmarestiaceous
 desmatippus
 desmectasia
@@ -9421,6 +9420,7 @@ digesters
 digestibility
 digestible
 digestibleness
+desmarestiaceae
 digestibly
 digestif
 digesting
