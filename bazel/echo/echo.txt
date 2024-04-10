@@ -2357,7 +2357,6 @@ electrocuted
 electrocutes
 electrocuting
 epopees
-electrocution
 electrocutional
 eimer
 electrocutioner
@@ -13827,6 +13826,7 @@ extradites
 extraditing
 extradition
 extradomestic
+electrocution
 extrados
 extradosed
 extradoses
