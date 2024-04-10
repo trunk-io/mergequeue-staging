@@ -2182,7 +2182,6 @@ gazeless
 gazella
 gazelle
 gazellelike
-gazelles
 gazelline
 gazement
 groupings
@@ -5946,6 +5945,7 @@ glossophobia
 glossophora
 glossophorous
 globing
+gazelles
 grinder
 glossoplasty
 glossoplegia
