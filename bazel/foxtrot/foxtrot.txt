@@ -4319,7 +4319,6 @@ firoloida
 firry
 furrier
 flammability
-first
 firstborn
 firstcomer
 forbearer
@@ -5692,6 +5691,7 @@ flypast
 flypasts
 flipe
 flype
+first
 freezers
 flipflop
 fliping
