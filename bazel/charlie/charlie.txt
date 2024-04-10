@@ -3399,6 +3399,7 @@ captured
 capturer
 capturers
 captures
+clinoprism
 capturing
 capuan
 cadging
@@ -16262,7 +16263,6 @@ clinopinacoidal
 clinopyramid
 clinopyroxene
 clinopodium
-clinoprism
 clinorhombic
 clinospore
 clinquant
