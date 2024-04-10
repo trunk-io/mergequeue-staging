@@ -8144,7 +8144,6 @@ epipubis
 epirhizous
 epirogenetic
 epirogeny
-epirogenic
 epirote
 epirotic
 epirrhema
@@ -10563,6 +10562,7 @@ etymologicon
 etymologies
 etymologisable
 etymologise
+epirogenic
 etymologised
 extraessentially
 etymologising
