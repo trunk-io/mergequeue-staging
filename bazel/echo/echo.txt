@@ -2914,7 +2914,6 @@ eliciting
 elicitor
 elicitory
 elicitors
-elicits
 elide
 enameloma
 elided
@@ -13344,6 +13343,7 @@ expressed
 expresser
 expresses
 expressibility
+elicits
 expressible
 expressibly
 expressio
