@@ -10817,7 +10817,6 @@ bine
 blindfold
 blindfolded
 blindfoldedly
-blindfoldedness
 blindfolder
 blindfolding
 blindfoldly
@@ -17759,6 +17758,7 @@ burliest
 burlily
 burliness
 bimetallists
+blindfoldedness
 burling
 burlington
 burma
