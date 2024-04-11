@@ -5671,7 +5671,6 @@ flintlock
 flints
 flintstone
 flintwood
-flintworker
 flyoff
 flioma
 flyover
@@ -9264,6 +9263,7 @@ fragmenting
 fragmentisation
 fragmentise
 fragmentised
+flintworker
 fragmentising
 fakes
 fragmentist
