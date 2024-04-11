@@ -3523,6 +3523,7 @@ defs
 deft
 defter
 defterdar
+dizain
 deftly
 daybook
 deftness
@@ -14494,7 +14495,6 @@ dixieland
 dixies
 dixit
 dixits
-dizain
 dizaine
 desilverize
 dizdar
