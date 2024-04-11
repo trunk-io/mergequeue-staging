@@ -12714,7 +12714,6 @@ angiasthenia
 angico
 angie
 angiectasis
-angiectopia
 angiemphraxis
 angiitis
 angild
@@ -22258,6 +22257,7 @@ astrognosy
 astrogony
 astrogonic
 astrograph
+angiectopia
 astrographer
 astrography
 astrohatch
