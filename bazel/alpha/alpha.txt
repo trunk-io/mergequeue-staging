@@ -7253,6 +7253,7 @@ alameda
 alamedas
 alamiqui
 alamire
+autocamper
 alamo
 alamodality
 alamode
@@ -23890,7 +23891,6 @@ autocade
 autocades
 autocall
 autocamp
-autocamper
 autocamping
 autocar
 autocarist
