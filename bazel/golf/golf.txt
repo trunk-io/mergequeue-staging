@@ -7277,7 +7277,6 @@ gortonian
 gortonite
 gos
 goschen
-gosh
 goshawk
 goshawks
 goshdarn
@@ -9894,6 +9893,7 @@ guaranteers
 guarantees
 guaranteeship
 guaranteing
+gosh
 guaranty
 guarantied
 guaranties
