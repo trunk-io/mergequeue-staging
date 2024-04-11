@@ -8732,7 +8732,6 @@ alliterating
 alliteration
 alliterational
 alliterationist
-alliterations
 alliterative
 alliteratively
 alliterativeness
@@ -17305,6 +17304,7 @@ aponeuroses
 aponeurosis
 aponeurositis
 aponeurotic
+alliterations
 aponeurotome
 antivirus
 aponeurotomy
