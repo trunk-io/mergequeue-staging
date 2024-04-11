@@ -944,7 +944,6 @@ epipolism
 ectromelia
 exculpatory
 ectromelic
-ectromelus
 ectropion
 ectropionization
 ectropionize
@@ -10212,6 +10211,7 @@ eternality
 eternalization
 eternalize
 eternalized
+ectromelus
 eternalizing
 evolutionarily
 eternally
