@@ -1903,7 +1903,6 @@ eir
 eyra
 ectad
 eirack
-eyrant
 eyrar
 eyras
 eire
@@ -3620,6 +3619,7 @@ entitles
 embraid
 episperm
 embrail
+eyrant
 embrake
 embranchment
 el
