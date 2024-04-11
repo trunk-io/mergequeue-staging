@@ -8410,7 +8410,6 @@ diamonding
 detrains
 dayment
 diamondize
-diamondized
 diamondizing
 diamondlike
 dunites
@@ -16145,6 +16144,7 @@ doveflower
 dovefoot
 decadarch
 dovehouse
+diamondized
 dovekey
 dovekeys
 dovekie

@@ -4782,7 +4782,6 @@ aegophony
 aegopodium
 aegritude
 aegrotant
-archiving
 aegrotat
 aeipathy
 aelodicon
@@ -6634,6 +6633,7 @@ ahriman
 ahrimanian
 ahs
 autophyllogeny
+archiving
 ahsan
 aht
 ahtena
