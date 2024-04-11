@@ -7805,6 +7805,7 @@ alefs
 aleft
 alefzero
 alegar
+awaredom
 aleger
 alehouse
 autostage
@@ -24950,7 +24951,6 @@ awarding
 awardment
 awards
 aware
-awaredom
 airborne
 awareness
 awarn
