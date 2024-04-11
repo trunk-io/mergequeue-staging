@@ -2559,7 +2559,6 @@ electrophore
 electrophorese
 electrophoreses
 electrophoresing
-electrophoresis
 electrophoretically
 electrophoretogram
 eave
@@ -3192,6 +3191,7 @@ eluctation
 elucubrate
 elucubration
 elude
+electrophoresis
 eluded
 eluder
 eludes
