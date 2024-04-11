@@ -6483,6 +6483,7 @@ benzopyran
 benzopyranyl
 benzopyrazolone
 benzopyrene
+booleans
 benzopyrylium
 benzoquinoline
 benzoquinone
@@ -12712,7 +12713,6 @@ bookworms
 bookwright
 bool
 boolean
-booleans
 booley
 booleys
 booly

@@ -10746,6 +10746,7 @@ eucritic
 entamebic
 euctical
 euda
+exosculation
 eudaemon
 eudaemony
 eudaemonic
@@ -12824,7 +12825,6 @@ exorhason
 exornate
 exornation
 exortion
-exosculation
 exosepsis
 exoskeletal
 exoskeleton
