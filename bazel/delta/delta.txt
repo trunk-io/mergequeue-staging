@@ -2490,7 +2490,6 @@ declaredness
 declarer
 declarers
 declares
-declaring
 declass
 declasse
 declassed
@@ -9995,6 +9994,7 @@ dynamist
 dynamistic
 dynamists
 diverticular
+declaring
 dynamitard
 dynamite
 dynamited
