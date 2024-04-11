@@ -425,7 +425,6 @@ faisan
 faisceau
 fait
 faitery
-faith
 faithbreach
 faithbreaker
 formatted
@@ -1471,6 +1470,7 @@ faultfinder
 fouquieriaceous
 faultfinders
 faultfinding
+faith
 faultful
 fimble
 faultfully
