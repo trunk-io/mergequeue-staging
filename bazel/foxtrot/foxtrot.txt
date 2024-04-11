@@ -3778,6 +3778,7 @@ filmmaking
 filmogen
 filmography
 filmographies
+fossilise
 films
 filmset
 filmsets
@@ -4138,7 +4139,6 @@ fireblende
 fireboard
 fireboat
 fireboats
-fossilise
 firebolted
 firebomb
 firebombed
