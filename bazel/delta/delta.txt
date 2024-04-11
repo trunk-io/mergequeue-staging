@@ -2638,7 +2638,6 @@ decompensations
 decompensatory
 decompile
 decompiler
-decomplex
 decomponent
 decomponible
 decomposability
@@ -12217,6 +12216,7 @@ disguisedness
 disguiseless
 disguisement
 disguisements
+decomplex
 disguiser
 disguises
 djinn
