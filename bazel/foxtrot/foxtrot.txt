@@ -899,7 +899,6 @@ fanzine
 fanzines
 faon
 fapesmo
-faq
 faqir
 faquir
 faquirs
@@ -6244,6 +6243,7 @@ fluavile
 flub
 flubbed
 flubbing
+faq
 flubdub
 flubdubbery
 flubdubberies
