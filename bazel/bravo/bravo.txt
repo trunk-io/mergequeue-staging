@@ -5445,7 +5445,6 @@ behypocrite
 behither
 behn
 behold
-beholdable
 beholden
 beholders
 beholdingness
@@ -14293,6 +14292,7 @@ braincap
 braincase
 brainchild
 brainchildren
+beholdable
 braincraft
 befan
 brainer
