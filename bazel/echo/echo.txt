@@ -13002,6 +13002,7 @@ expeditating
 expeditation
 expedited
 expeditely
+explicitly
 expediter
 expediters
 expedites
@@ -13206,7 +13207,6 @@ explicator
 explicatory
 explicators
 explicit
-explicitly
 explicitness
 explicits
 explida
