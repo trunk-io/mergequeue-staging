@@ -13861,7 +13861,6 @@ cinerarias
 cinerarium
 cineration
 cinerator
-cinerea
 cinereal
 cinereous
 cinerin
@@ -27138,6 +27137,7 @@ counterstain
 counterstamp
 counterstand
 counterstatant
+cinerea
 counterstatement
 counterstatute
 counterstep

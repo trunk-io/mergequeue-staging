@@ -2959,6 +2959,7 @@ barrelling
 barrelmaker
 barrelmaking
 barrels
+besputter
 barrelsful
 barrelwise
 barren
@@ -7174,7 +7175,6 @@ besprinkles
 besprizorni
 bespurred
 bespurt
-besputter
 besqueeze
 besquib
 besquirt
