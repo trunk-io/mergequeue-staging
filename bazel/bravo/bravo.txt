@@ -387,7 +387,6 @@ backgammon
 backgeared
 background
 backgrounds
-backhand
 backhanded
 backhandedly
 brogueneer
@@ -18377,6 +18376,7 @@ buzzards
 buzzbomb
 buzzed
 buzzer
+backhand
 buzzerphone
 buzzers
 buzzes
