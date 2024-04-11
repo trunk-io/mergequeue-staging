@@ -13303,7 +13303,6 @@ anisogametic
 anisogamy
 anisogamic
 anisogamous
-anisogeny
 anisogenous
 antiparliamenteer
 antimonopolism
@@ -20738,6 +20737,7 @@ artiste
 artistes
 artistess
 artistic
+anisogeny
 artistical
 artistically
 artistry
