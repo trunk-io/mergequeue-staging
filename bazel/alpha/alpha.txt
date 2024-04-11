@@ -2446,7 +2446,6 @@ acidulates
 alaunian
 acidulating
 acidulation
-acidulent
 acidulous
 acidulously
 acidulousness
@@ -23989,6 +23988,7 @@ autodetector
 autodiagnosis
 autodiagnostic
 autodiagrammatic
+acidulent
 autodial
 adobe
 autodialed
