@@ -11852,7 +11852,6 @@ boggy
 boggier
 boggiest
 boggin
-bogginess
 bogging
 boggish
 boggle
@@ -15076,6 +15075,7 @@ brevity
 brevities
 backboneless
 brew
+bogginess
 brewage
 brewages
 brewed

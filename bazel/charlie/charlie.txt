@@ -7812,6 +7812,7 @@ cervicorn
 cervicoscapular
 cervicothoracic
 cervicovesical
+coeffects
 cervid
 cervidae
 cervinae
@@ -17851,7 +17852,6 @@ coeducationally
 coef
 coeff
 coeffect
-coeffects
 coefficacy
 coefficiently
 coefficients
