@@ -3891,6 +3891,7 @@ cardholders
 cardia
 cardiac
 cardiacal
+choice
 cardiacea
 cardiacean
 cardiacle
@@ -11447,7 +11448,6 @@ chogset
 choy
 choya
 choiak
-choice
 choiceful
 choiceless
 choicelessness

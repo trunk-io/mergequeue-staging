@@ -3015,6 +3015,7 @@ geochronometry
 geochronometric
 geocyclic
 geocline
+grantsmen
 geococcyx
 geocoronium
 geocratic
@@ -8073,7 +8074,6 @@ grantor
 grantors
 grants
 grantsman
-grantsmen
 granula
 granular
 gomontia
