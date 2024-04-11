@@ -3429,7 +3429,6 @@ embers
 embetter
 epees
 embezzle
-embezzled
 embezzlement
 echeloning
 embezzlements
@@ -7837,6 +7836,7 @@ epigene
 epigenesist
 elegiacally
 epigenetic
+embezzled
 epigenetically
 epigenic
 epigenist
