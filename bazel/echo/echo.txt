@@ -682,7 +682,6 @@ eclogues
 entomoid
 eclosion
 eclosions
-ecmnesia
 eco
 engaging
 ecocidal
@@ -1143,6 +1142,7 @@ editor
 editorial
 editorialization
 editorializations
+ecmnesia
 editorialize
 editorialized
 endomitotic
