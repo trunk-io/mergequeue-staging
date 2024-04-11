@@ -6143,6 +6143,7 @@ furnisher
 flotsam
 flotsams
 freighter
+freightliner
 film
 flotsan
 flotsen
@@ -9749,7 +9750,6 @@ freighted
 freighters
 freightyard
 freightless
-freightliner
 freightment
 foreorlop
 freights
