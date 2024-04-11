@@ -2301,7 +2301,6 @@ cancrisocial
 cancrivorous
 cancrizans
 cancroid
-cancroids
 cancrophagous
 cancrum
 cancrums
@@ -29091,6 +29090,7 @@ crinivorous
 crink
 crinkle
 crinkled
+cancroids
 crinkleroot
 crinkles
 crinkly
