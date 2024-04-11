@@ -2116,7 +2116,6 @@ elasticizer
 elasticizes
 elasticizing
 elasticness
-elasticum
 elastin
 encompassed
 elastins
@@ -7917,6 +7916,7 @@ epihippus
 epikeia
 epiky
 epikia
+elasticum
 epikleses
 epiklesis
 epikouros
