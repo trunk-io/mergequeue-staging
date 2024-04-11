@@ -178,7 +178,6 @@ gaffle
 gaffs
 gaffsman
 gag
-gaga
 greyhen
 gagaku
 gagate
@@ -8214,6 +8213,7 @@ graphospasm
 gulpin
 graphostatic
 graphostatical
+gaga
 guggles
 garo
 gibberellin
