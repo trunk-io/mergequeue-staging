@@ -422,6 +422,7 @@ ecarte
 ecartes
 ecaudata
 ecaudate
+electrodepositable
 ecb
 ecballium
 ecbasis
@@ -2360,7 +2361,6 @@ emplaces
 electrode
 electrodentistry
 electrodeposit
-electrodepositable
 electrodeposition
 electrodepositor
 electrodes
