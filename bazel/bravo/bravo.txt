@@ -7727,6 +7727,7 @@ bg
 bhabar
 bhadon
 bhagat
+blackball
 bhagavat
 bhagavata
 bhaiachara
@@ -10045,7 +10046,6 @@ blackacre
 blackamoor
 blackamoors
 blackarm
-blackball
 blackballed
 blackballing
 bitterhead
