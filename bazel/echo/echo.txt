@@ -7591,7 +7591,6 @@ epiblastema
 epiblastic
 epiblasts
 epibole
-epiboly
 epibolic
 epibolies
 epibolism
@@ -8319,6 +8318,7 @@ epitaphs
 epitases
 expurgative
 epitasis
+epiboly
 epitaxy
 epitaxial
 epitaxially
