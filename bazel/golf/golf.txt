@@ -5291,7 +5291,6 @@ glaucousness
 glaucus
 glauke
 glaum
-glaumrie
 glaur
 glaury
 glaux
@@ -6652,6 +6651,7 @@ goldilocks
 goldylocks
 guacin
 goldin
+glaumrie
 golding
 goldish
 goldless
