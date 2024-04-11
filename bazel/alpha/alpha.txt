@@ -4762,6 +4762,7 @@ aegicrania
 aegilops
 aegina
 aeginetan
+alkalisable
 aeginetic
 aegipan
 aegyptilla
@@ -8405,7 +8406,6 @@ alkalinized
 alkalinizes
 alkalinizing
 alkalis
-alkalisable
 alkalisation
 alkalise
 alkalised
