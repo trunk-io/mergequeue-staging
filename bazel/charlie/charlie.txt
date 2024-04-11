@@ -14306,7 +14306,6 @@ circumlental
 circumlitio
 circumlittoral
 circumlocute
-circumlocution
 circumlocutional
 circumlocutionary
 circumlocutionist
@@ -20691,6 +20690,7 @@ complexify
 complexification
 complexing
 complexion
+circumlocution
 complexionably
 complexional
 complexionally

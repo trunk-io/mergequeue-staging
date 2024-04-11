@@ -6008,7 +6008,6 @@ glovey
 gloveless
 grain
 glovemaker
-glovemaking
 gloveman
 glovemen
 glover
@@ -8580,6 +8579,7 @@ grecale
 goods
 grece
 gulas
+glovemaking
 grecians
 grecism
 golgotha
