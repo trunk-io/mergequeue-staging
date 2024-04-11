@@ -6441,6 +6441,7 @@ glycemic
 gobbed
 gobber
 gobbet
+growlers
 gobby
 gobbing
 gobble
@@ -9546,7 +9547,6 @@ growingupness
 growler
 growlery
 growleries
-growlers
 growly
 germinally
 growlier
