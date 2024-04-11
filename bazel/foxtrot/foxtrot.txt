@@ -2656,7 +2656,6 @@ fertil
 fertile
 fertilely
 fertileness
-fertilisability
 fertilisable
 figurehead
 fertilisational
@@ -6092,6 +6091,7 @@ florivorous
 florizine
 floroon
 floroscope
+fertilisability
 floroun
 floruit
 ferruginated
