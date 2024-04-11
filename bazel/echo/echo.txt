@@ -3528,6 +3528,7 @@ embolismic
 embolisms
 embolismus
 embolite
+endogamous
 embolium
 embolization
 embolize
@@ -5177,7 +5178,6 @@ endofaradism
 endogalvanism
 endogamy
 endogamic
-endogamous
 endogastrically
 endogastritis
 endogen
