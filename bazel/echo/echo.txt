@@ -3943,6 +3943,7 @@ eels
 emirship
 emys
 emissary
+essential
 exorganic
 emissaria
 emissaries
@@ -8848,7 +8849,6 @@ epicerebral
 eradiating
 eradiation
 ends
-essential
 eradicable
 eradicably
 eradicant
