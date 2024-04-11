@@ -3910,7 +3910,6 @@ finched
 finchery
 finches
 find
-findability
 findable
 findal
 finders
@@ -4136,6 +4135,7 @@ fire
 fireable
 firearm
 firearms
+findability
 fireback
 favourably
 fireball
