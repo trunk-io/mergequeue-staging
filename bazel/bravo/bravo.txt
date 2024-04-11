@@ -7383,7 +7383,6 @@ bethorning
 bethorns
 bethought
 bethrall
-bethreaten
 bethroot
 beths
 bethuel
@@ -13815,6 +13814,7 @@ bowser
 bowses
 bowshot
 bowshots
+bethreaten
 bowsie
 bowsing
 bowsman
