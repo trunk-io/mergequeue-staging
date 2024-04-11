@@ -3163,7 +3163,6 @@ geometroidea
 geomyid
 geomyidae
 geomys
-geomoroi
 geomorphy
 geomorphic
 geomorphist
@@ -4310,6 +4309,7 @@ gymnotid
 gymnotidae
 gymnotoka
 gymnotokous
+geomoroi
 grotesquery
 gymnotus
 gymnura

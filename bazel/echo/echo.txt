@@ -6436,7 +6436,6 @@ ensisternum
 ensky
 enskied
 enskyed
-enskies
 enskying
 enslave
 enslaved
@@ -12559,6 +12558,7 @@ exigeante
 elocutionists
 exigences
 exigency
+enskies
 exigencies
 exigent
 escortment
