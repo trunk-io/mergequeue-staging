@@ -796,6 +796,7 @@ badges
 badging
 badgir
 badhan
+bechic
 badiaga
 badian
 badigeon
@@ -4424,7 +4425,6 @@ becheck
 becher
 binaurally
 bechern
-bechic
 bechignoned
 bechirp
 ballcarrier
