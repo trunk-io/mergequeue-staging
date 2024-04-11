@@ -16272,7 +16272,6 @@ clio
 cliona
 clip
 clipboard
-clipboards
 clype
 clypeal
 clypeaster
@@ -16637,6 +16636,7 @@ clostridia
 clostridial
 clostridian
 clostridium
+clipboards
 closure
 closured
 closures
