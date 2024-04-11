@@ -111,6 +111,7 @@ facileness
 facily
 facilitate
 facilitated
+feebly
 facilitates
 frail
 facilitating
@@ -1930,7 +1931,6 @@ feebleness
 feebler
 feebless
 feeblest
-feebly
 frolicks
 feebling
 feeblish
