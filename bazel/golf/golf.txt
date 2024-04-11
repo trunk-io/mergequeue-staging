@@ -2587,7 +2587,6 @@ gemsboks
 gemsbuck
 gemsbucks
 gemse
-gemstone
 gemuetlich
 gemul
 gemuti
@@ -9355,6 +9354,7 @@ grossed
 grossen
 grandmotherism
 grosser
+gemstone
 grossers
 grosses
 grossest

@@ -3702,7 +3702,6 @@ embryotrophe
 embryotrophy
 embryotrophic
 embryous
-embrittle
 embrittled
 embrittlement
 embrittling
@@ -4921,6 +4920,7 @@ encumber
 encumbered
 encumberer
 encumberingly
+embrittle
 encumberment
 encumbers
 encumbrance
