@@ -426,7 +426,6 @@ galbraithian
 gamy
 galbula
 galbulae
-galbulidae
 galbulinae
 galbulus
 galcha
@@ -5750,6 +5749,7 @@ globulinuria
 globulysis
 globulite
 globulose
+galbulidae
 globulous
 globulousness
 globus
