@@ -6186,7 +6186,6 @@ dermatogen
 dermatoglyphic
 dermatoglyphics
 dermatograph
-dermatography
 dermatographia
 denucleate
 devoured
@@ -8193,6 +8192,7 @@ diagonals
 diagonalwise
 dedans
 dicatalexis
+dermatography
 diagonial
 diagonic
 diagram
