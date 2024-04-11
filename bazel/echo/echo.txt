@@ -740,7 +740,6 @@ economizes
 ecophene
 ecophysiology
 ecophysiological
-ecorch
 epiphanize
 ecorche
 ecosystem
@@ -838,6 +837,7 @@ ectochondral
 ectocinerea
 ectocinereal
 ectocoelic
+ecorch
 ectocommensal
 ectocondylar
 ectocondyle
