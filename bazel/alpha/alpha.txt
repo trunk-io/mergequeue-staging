@@ -3801,6 +3801,7 @@ adherer
 adherers
 adheres
 adherescence
+apoapsis
 adherescent
 adhering
 adhesion
@@ -17093,7 +17094,6 @@ apnoeas
 apnoeic
 apoaconitine
 apoapsides
-apoapsis
 apoatropine
 apobiotic
 apoblast
