@@ -6862,7 +6862,6 @@ gonidium
 gonifs
 gonimic
 gonimium
-gonimoblast
 gonimolobe
 gonimous
 goninidia
@@ -10779,6 +10778,7 @@ gisarmes
 gelatinously
 guttifer
 guttiferae
+gonimoblast
 guttiferal
 guttiferales
 guttiferous

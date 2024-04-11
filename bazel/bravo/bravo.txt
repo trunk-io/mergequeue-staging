@@ -9907,7 +9907,6 @@ bituminization
 bituminize
 bituminized
 bituminizing
-bituminoid
 bikes
 bituminosis
 bituminous
@@ -17297,6 +17296,7 @@ bummler
 bummock
 bump
 bumped
+bituminoid
 bumpee
 bumpered
 bumperette
