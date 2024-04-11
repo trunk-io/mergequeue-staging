@@ -1033,7 +1033,6 @@ darkling
 darklings
 darkmans
 darkness
-darknesses
 darkroom
 darkrooms
 darks
@@ -6261,6 +6260,7 @@ dermatropic
 dermenchysis
 dermestes
 dermestid
+darknesses
 dermestidae
 dermestoid
 dermic
