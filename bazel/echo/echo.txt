@@ -5176,6 +5176,7 @@ erbiums
 endoenzyme
 endoergic
 endoesophagitis
+examination
 endofaradism
 endogalvanism
 endogamy
@@ -11805,7 +11806,6 @@ examinability
 examinable
 examinant
 examinate
-examination
 examinational
 examinationism
 examinationist
