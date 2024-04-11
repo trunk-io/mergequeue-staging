@@ -11287,6 +11287,7 @@ chlorococcaceae
 chlorococcales
 chlorococcum
 chlorococcus
+corymbiated
 chlorocresol
 chlorocruorin
 chlorodyne
@@ -25137,7 +25138,6 @@ corylus
 corymb
 corymbed
 corymbiate
-corymbiated
 corymbiferous
 cassiduloidea
 corymbiform

@@ -4809,7 +4809,6 @@ bedrizzle
 bedrock
 bedrocks
 bedroll
-bedrolls
 bedroom
 bedrooms
 bisymmetrically
@@ -12368,6 +12367,7 @@ batis
 bondager
 bondages
 benchwork
+bedrolls
 bondar
 bonded
 bondelswarts
