@@ -262,7 +262,6 @@ gaining
 gainings
 gainlessness
 gainly
-gainlier
 gainliest
 gainliness
 gainor
@@ -5124,6 +5123,7 @@ glamoured
 glamoury
 glamourie
 glamouring
+gainlier
 glamourization
 glamourize
 glamourizer
