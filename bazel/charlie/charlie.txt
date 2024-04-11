@@ -12391,7 +12391,6 @@ chromatopsia
 chromatoptometer
 chromatoptometry
 chromatoscope
-chromatoscopy
 chromatosis
 chromatosphere
 chromatospheric
@@ -17086,6 +17085,7 @@ coagment
 cetin
 coagmentation
 coagonize
+chromatoscopy
 coagriculturist
 coagula
 coagulability

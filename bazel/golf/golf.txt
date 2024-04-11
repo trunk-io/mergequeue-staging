@@ -938,6 +938,7 @@ gamenesses
 games
 gamesman
 guruship
+gimmicking
 gamesmanship
 gamesome
 gamesomely
@@ -7173,7 +7174,6 @@ gorefish
 gogos
 gresil
 gorer
-gimmicking
 gorfly
 gorge
 gorgeable
