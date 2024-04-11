@@ -13320,7 +13320,6 @@ archangels
 anisoleucocytosis
 anisomeles
 anisomelia
-anisomelus
 anisomeric
 anisomerous
 anisometric
@@ -21379,6 +21378,7 @@ aspergillaceae
 aspergillales
 aspergilli
 antimark
+anisomelus
 aspergilliform
 aspergillin
 aspergilloses
