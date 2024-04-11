@@ -9301,7 +9301,6 @@ bipinnaria
 bipinnariae
 bipinnarias
 bipinnate
-bipinnated
 bipinnatifid
 bipinnatipartite
 bipinnatisect
@@ -13982,6 +13981,7 @@ brachydodrome
 brachydodromous
 brachydomal
 brachydomatic
+bipinnated
 bulgarian
 brachydome
 brachydont
