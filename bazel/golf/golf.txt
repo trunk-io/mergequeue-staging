@@ -1457,7 +1457,6 @@ garnishable
 garnished
 garnishee
 garnisheed
-garnisheeing
 garnishees
 garnisheing
 garnishes
@@ -3120,6 +3119,7 @@ geologized
 geologizing
 geom
 geomagnetic
+garnisheeing
 geomagnetically
 geomagnetics
 guestless
