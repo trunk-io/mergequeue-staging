@@ -7596,7 +7596,6 @@ epibolic
 epibolies
 epibolism
 epiboulangerite
-epibranchial
 epical
 epicalyces
 epicalyx
@@ -10752,6 +10751,7 @@ eudaemony
 eudaemonic
 eudaemonical
 etiologic
+epibranchial
 eudaemonics
 eudaemonism
 embrangle
