@@ -4790,6 +4790,7 @@ bedravel
 bedread
 bedrel
 bedrench
+bulkage
 bedrenched
 bedrenches
 bedress
@@ -17020,7 +17021,6 @@ bulimus
 belief
 bulk
 bishoping
-bulkage
 bulkages
 bulked
 bulkhead
