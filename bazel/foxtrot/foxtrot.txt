@@ -3817,7 +3817,6 @@ filterableness
 filtered
 filterers
 filtering
-filterman
 filtermen
 francs
 floundering
@@ -5887,6 +5886,7 @@ frangent
 flockwise
 flocoon
 flocs
+filterman
 flodge
 floeberg
 floey
