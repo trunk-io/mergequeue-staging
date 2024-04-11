@@ -8340,7 +8340,6 @@ forklift
 forklifts
 forklike
 forkman
-forkmen
 forks
 forksful
 forksmith
@@ -8713,6 +8712,7 @@ fortifyingly
 fortifys
 fortyfives
 fortyfold
+forkmen
 fortilage
 fortin
 fortiori
