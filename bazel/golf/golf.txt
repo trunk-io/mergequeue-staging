@@ -4561,7 +4561,6 @@ gynostegium
 geratic
 gynostemia
 gynostemium
-gynostemiumia
 gins
 ginseng
 gargarize
@@ -6039,6 +6038,7 @@ glozes
 guck
 glozing
 glozingly
+gynostemiumia
 glt
 glub
 glucaemia
