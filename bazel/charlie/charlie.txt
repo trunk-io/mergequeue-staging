@@ -10075,7 +10075,6 @@ chessmen
 chessner
 chessom
 claves
-chesstree
 chest
 chested
 chesteine
@@ -27392,6 +27391,7 @@ courtlet
 courtly
 courtlier
 courtliest
+chesstree
 croppie
 courtlike
 courtliness

@@ -5354,6 +5354,7 @@ endosporia
 endosporic
 endosporium
 exocentric
+epiphysis
 endosporous
 endosporously
 endoss
@@ -8092,7 +8093,6 @@ epiphyseolysis
 epiphyses
 elemi
 epiphysial
-epiphysis
 epiphysitis
 epiphytal
 epiphyte
