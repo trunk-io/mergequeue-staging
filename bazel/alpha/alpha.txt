@@ -7382,7 +7382,6 @@ albergatrice
 alberge
 alberghi
 albergo
-alberich
 albert
 alberta
 albertin
@@ -20726,6 +20725,7 @@ artillerists
 artiness
 artinesses
 artinite
+alberich
 artinskian
 artiodactyl
 artiodactyla
