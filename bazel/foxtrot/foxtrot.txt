@@ -3665,7 +3665,6 @@ filicites
 filicoid
 filicoids
 filicology
-flanched
 filicornia
 filiety
 filiferous
@@ -11621,6 +11620,7 @@ fusspot
 fusspots
 fustanella
 fustanelle
+flanched
 fustee
 fuster
 fusteric
