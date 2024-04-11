@@ -3379,7 +3379,6 @@ embarrel
 embarricado
 embarring
 embars
-embase
 embassade
 embassador
 embassadress
@@ -9977,6 +9976,7 @@ esteemer
 escobita
 esteeming
 esteems
+embase
 envine
 estella
 estensible
