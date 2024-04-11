@@ -5494,7 +5494,6 @@ enemas
 enemata
 emball
 enemy
-enemied
 enemies
 estancieros
 eburnification
@@ -11332,6 +11331,7 @@ evaluations
 evaluative
 evaluator
 electrocardiography
+enemied
 evalue
 evan
 evanesce
