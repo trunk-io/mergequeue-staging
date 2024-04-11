@@ -13406,7 +13406,6 @@ cyclostomatous
 cyclostome
 cyclostomes
 cyclostomi
-cyclostomidae
 cyclostomous
 cyclotella
 cyclothem
@@ -15416,6 +15415,7 @@ clapotis
 clappe
 clapped
 clapper
+cyclostomidae
 clapperboard
 clapperclaw
 clapperclawer
