@@ -3431,7 +3431,6 @@ gossipry
 germen
 germens
 germfree
-germy
 germicidal
 germicides
 germiculture
@@ -4992,6 +4991,7 @@ gabelles
 glaciered
 glacieret
 glacierist
+germy
 glaciers
 glacify
 glacification
