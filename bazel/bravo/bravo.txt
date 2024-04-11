@@ -3194,7 +3194,6 @@ basiarachnoiditis
 basiate
 basiated
 basiating
-basibracteolate
 basibranchial
 basibranchiate
 basibregmatic
@@ -11301,6 +11300,7 @@ bluecup
 bluecurls
 blued
 bluefin
+basibracteolate
 ballist
 bluefins
 bluefish
