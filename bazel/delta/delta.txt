@@ -1218,6 +1218,7 @@ datatypes
 datcha
 datchas
 dialyzers
+dragomanish
 date
 dateable
 dateableness
@@ -16578,7 +16579,6 @@ drago
 dragoman
 dragomanate
 dragomanic
-dragomanish
 dragomans
 dragomen
 dragon

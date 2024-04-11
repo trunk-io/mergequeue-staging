@@ -1153,6 +1153,7 @@ editorializers
 editorializes
 editorially
 editors
+encycl
 editorship
 editorships
 editress
@@ -4691,7 +4692,6 @@ ency
 encia
 enantiomeride
 encyc
-encycl
 encyclic
 encyclical
 encyclicals
