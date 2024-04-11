@@ -10177,6 +10177,7 @@ ameliorant
 alyssum
 ameliorate
 ameliorated
+analyse
 ameliorates
 ameliorating
 apocenter
@@ -11715,7 +11716,6 @@ analysability
 analysable
 analysands
 analysation
-analyse
 analysed
 analyser
 analysers
