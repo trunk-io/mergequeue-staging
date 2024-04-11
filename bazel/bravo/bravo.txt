@@ -5256,7 +5256,6 @@ beggars
 beggarweed
 beggarwise
 beggarwoman
-begger
 beggiatoa
 beggiatoaceae
 beggiatoaceous
@@ -5511,6 +5510,7 @@ beyonds
 beira
 beyrichite
 beys
+begger
 beisa
 beisance
 beyship
