@@ -5566,7 +5566,6 @@ flichters
 flick
 flicked
 formication
-flicker
 flickered
 flickering
 flickeringly
@@ -8494,6 +8493,7 @@ formin
 fourbagger
 forminate
 forming
+flicker
 formism
 formity
 formless
