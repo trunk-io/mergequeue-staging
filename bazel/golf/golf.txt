@@ -8343,7 +8343,6 @@ gratifications
 gratified
 gratifiedly
 gratifier
-gratifies
 gratifying
 gratifyingly
 gratility
@@ -9253,6 +9252,7 @@ grogger
 groggery
 groggeries
 groggy
+gratifies
 groggier
 gatling
 groggily
