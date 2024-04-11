@@ -2969,7 +2969,6 @@ genuflect
 genuflected
 genuflecting
 genuflection
-genuflections
 genuflector
 genuflectory
 genuflects
@@ -5122,6 +5121,7 @@ glamorousness
 glamors
 glamour
 glamoured
+genuflections
 glamoury
 glamourie
 glamouring
