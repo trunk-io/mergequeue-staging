@@ -1046,7 +1046,6 @@ calcimined
 calciminer
 calcimines
 calcimining
-calcinable
 choppin
 calcinate
 calcination
@@ -4974,6 +4973,7 @@ casebook
 casebooks
 casebound
 casebox
+calcinable
 caseconv
 cased
 casefy
