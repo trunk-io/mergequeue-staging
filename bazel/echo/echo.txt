@@ -3423,7 +3423,6 @@ emberizinae
 emberizine
 embers
 embetter
-epees
 embezzle
 embezzled
 embezzlement
@@ -6985,6 +6984,7 @@ entosterna
 entosternal
 entosternum
 entosthoblast
+epees
 entothorax
 entotic
 entotympanic
