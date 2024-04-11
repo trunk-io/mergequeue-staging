@@ -2580,6 +2580,7 @@ equimomental
 electropism
 enthrall
 ethnogeographical
+esp
 electroplate
 electroplater
 electroplates
@@ -9765,7 +9766,6 @@ esoterize
 esothyropexy
 esotropia
 esotropic
-esp
 espace
 espacement
 espada
