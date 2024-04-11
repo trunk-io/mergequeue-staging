@@ -9750,7 +9750,6 @@ freighted
 freighters
 freightyard
 freightless
-freightment
 foreorlop
 freights
 freyja
@@ -10965,6 +10964,7 @@ fulmines
 fulminurate
 fulminuric
 fulness
+freightment
 fulsamic
 fulsome
 fulsomely
