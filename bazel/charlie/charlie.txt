@@ -11938,7 +11938,6 @@ chorines
 choring
 chorio
 chorioadenoma
-chorioallantoic
 chorioallantoid
 chorioallantois
 choriocapillary
@@ -14971,6 +14970,7 @@ cytostromatic
 cytotactic
 carpologically
 cytotaxis
+chorioallantoic
 cytotaxonomy
 cytotaxonomic
 cytotaxonomically
