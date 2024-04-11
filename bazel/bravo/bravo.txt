@@ -752,7 +752,6 @@ bacury
 bad
 badaga
 badan
-badarian
 badarrah
 blackback
 badass
@@ -5931,6 +5930,7 @@ belting
 beltings
 beltir
 biparous
+badarian
 beltless
 beltlines
 beltmaker
