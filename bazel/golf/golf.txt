@@ -5025,6 +5025,7 @@ gladen
 glades
 gladful
 gladfulness
+groundspeed
 gladhearted
 glady
 gladiate
@@ -9457,7 +9458,6 @@ groundsill
 groundskeep
 galactolytic
 groundskeeping
-groundspeed
 groundswell
 groundswells
 groundwall
