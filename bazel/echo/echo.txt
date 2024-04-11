@@ -7056,7 +7056,6 @@ epiglottides
 entrees
 excisor
 entrefer
-entrelac
 entremess
 entremets
 entrenches
@@ -12625,6 +12624,7 @@ existlessness
 exists
 epistemological
 exit
+entrelac
 exitance
 exite
 exited

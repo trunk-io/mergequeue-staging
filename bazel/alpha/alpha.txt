@@ -3485,7 +3485,6 @@ addendum
 addendums
 adder
 adderbolt
-adderfish
 adders
 adderspit
 adderwort
@@ -11483,6 +11482,7 @@ anacanthini
 anacanthous
 anacara
 anacard
+adderfish
 anacardiaceae
 anacardiaceous
 anacardic
