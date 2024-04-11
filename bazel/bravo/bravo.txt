@@ -7123,7 +7123,6 @@ bespectacled
 besped
 bespeech
 bespeed
-bespell
 bespelled
 bespend
 bespete
@@ -16529,6 +16528,7 @@ buccaneers
 buccaning
 buccanned
 buccanning
+bespell
 buccaro
 buccellarius
 bucchero
