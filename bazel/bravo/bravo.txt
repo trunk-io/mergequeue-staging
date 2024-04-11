@@ -2402,7 +2402,6 @@ barbes
 barbet
 barbets
 barbette
-barite
 barbettes
 bispore
 barbican
@@ -17125,6 +17124,7 @@ bullfoot
 bullfrog
 bullfrogs
 bullgine
+barite
 bullhead
 beggar
 bullheaded

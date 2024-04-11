@@ -14635,7 +14635,6 @@ cystiferous
 cystiform
 cystigerous
 cystignathidae
-cystignathine
 cystin
 cystine
 cystines
@@ -20335,6 +20334,7 @@ commutatively
 commutativity
 commutator
 commutators
+cystignathine
 commute
 commuted
 commuter
