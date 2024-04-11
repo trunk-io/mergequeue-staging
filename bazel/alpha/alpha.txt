@@ -4820,7 +4820,6 @@ aeolotropy
 aeolotropic
 aeolotropism
 aeolsklavier
-alpheus
 aeolus
 aeon
 aeonian
@@ -24719,6 +24718,7 @@ aviaries
 aviarist
 anomorhomboidal
 anhedonia
+alpheus
 aviarists
 ashamedly
 aviate
