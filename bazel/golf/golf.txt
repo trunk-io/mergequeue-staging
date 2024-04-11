@@ -1981,6 +1981,7 @@ gaucie
 gaud
 gaudeamus
 gaudeamuses
+greekess
 gaudery
 gauderies
 gaudy
@@ -8614,7 +8615,6 @@ greeing
 greek
 greekdom
 greekery
-greekess
 greekish
 greekism
 greekist
