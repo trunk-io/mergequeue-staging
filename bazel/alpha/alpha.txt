@@ -17666,7 +17666,6 @@ appendaged
 appendages
 appendalgia
 appendance
-appendancy
 appendant
 appendectomy
 appendectomies
@@ -22579,6 +22578,7 @@ athing
 athink
 athyreosis
 athyria
+appendancy
 athyrid
 athyris
 athyrium
