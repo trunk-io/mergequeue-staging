@@ -2345,7 +2345,6 @@ guatemalans
 geyserite
 geisha
 geishas
-geisothermal
 geissoloma
 geissolomataceae
 geissolomataceous
@@ -6317,6 +6316,7 @@ gnetaceae
 gnetaceous
 gnetales
 gnetum
+geisothermal
 gnetums
 gneu
 gnide
