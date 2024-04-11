@@ -8099,6 +8099,7 @@ granuloadipose
 granuloblast
 granuloblastic
 granulocyte
+gurt
 granulocytic
 granulocytopoiesis
 granuloma
@@ -10651,7 +10652,6 @@ gurry
 gurries
 gursh
 gurshes
-gurt
 gurts
 guru
 glideless
