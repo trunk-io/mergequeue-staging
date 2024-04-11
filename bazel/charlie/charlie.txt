@@ -25008,7 +25008,6 @@ cordwainer
 cordwains
 cordwood
 cordwoods
-core
 corebel
 coreceiver
 corecipient
@@ -31403,6 +31402,7 @@ curmurging
 curmurring
 curn
 curney
+core
 curneys
 curnie
 curnies
