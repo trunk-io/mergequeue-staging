@@ -2027,7 +2027,6 @@ dogmatise
 decametric
 decamp
 decamped
-decamping
 decampment
 decan
 decanal
@@ -6122,6 +6121,7 @@ derivable
 derivably
 derival
 duellers
+decamping
 docetically
 disenamour
 derivant
