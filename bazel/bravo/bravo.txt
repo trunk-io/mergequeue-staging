@@ -1969,6 +1969,7 @@ bandlimited
 bandlimiting
 bandlimits
 bandman
+batfowler
 bandmaster
 bandmasters
 bando
@@ -3543,7 +3544,6 @@ batfish
 batfishes
 batfowl
 batfowled
-batfowler
 biers
 batfowling
 batfowls
