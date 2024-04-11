@@ -1647,6 +1647,7 @@ brassy
 ballot
 ballota
 ballotade
+becurtained
 ballotage
 balloted
 balloter
@@ -4563,7 +4564,6 @@ becursed
 becurses
 becursing
 becurst
-becurtained
 becushioned
 becut
 bed
