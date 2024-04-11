@@ -2347,7 +2347,6 @@ feodary
 feodaries
 feodatory
 fehmic
-feodum
 feoff
 feoffed
 feoffee
@@ -3376,6 +3375,7 @@ fieldleft
 fieldman
 fieldmen
 fieldmice
+feodum
 fieldmouse
 fieldpieces
 funebre
