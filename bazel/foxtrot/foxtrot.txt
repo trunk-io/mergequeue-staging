@@ -5544,7 +5544,6 @@ flagellator
 flybys
 fluctisonous
 flyblow
-flyblowing
 flyblown
 flyblows
 flyboat
@@ -11350,6 +11349,7 @@ faulkland
 furcule
 furculum
 furdel
+flyblowing
 furdle
 furfooz
 furfur
