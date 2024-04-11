@@ -4401,7 +4401,6 @@ adsbud
 adscendent
 adscititious
 adscript
-adscripted
 adscription
 adscriptitious
 adscriptitius
@@ -14236,6 +14235,7 @@ antepyretic
 azoimide
 antepirrhema
 antepone
+adscripted
 anteporch
 anteportico
 anteporticoes
