@@ -15160,7 +15160,6 @@ dollar
 dollarbird
 dollardee
 dollardom
-dollarfish
 dollarfishes
 dollarleaf
 dollars
@@ -16460,6 +16459,7 @@ drabbling
 drabler
 dandifies
 drably
+dollarfish
 drabness
 drabnesses
 drabs
