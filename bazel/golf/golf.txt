@@ -1242,7 +1242,6 @@ gaolerness
 gaolers
 gaoling
 gaoloring
-gaols
 gaon
 gaonate
 gap
@@ -4125,6 +4124,7 @@ gilgul
 gilgulim
 gilia
 giliak
+gaols
 gilim
 gill
 gillar
