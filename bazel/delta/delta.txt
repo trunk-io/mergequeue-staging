@@ -3910,6 +3910,7 @@ dekare
 dekares
 dekastere
 deke
+diagnostic
 deked
 dekes
 deking
@@ -8172,7 +8173,6 @@ diagnoseable
 diagnosed
 diagnoses
 diagnosis
-diagnostic
 diagnostical
 diagnostically
 diagnosticate
