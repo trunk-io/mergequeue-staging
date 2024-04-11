@@ -118,7 +118,6 @@ ebauche
 earnings
 earns
 earphone
-earphones
 earpick
 earpiece
 earplug
@@ -6061,6 +6060,7 @@ enlinkment
 enlist
 enlisted
 enlistee
+earphones
 enlistees
 enlister
 enlisting
