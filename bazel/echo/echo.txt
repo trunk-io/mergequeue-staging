@@ -7349,7 +7349,6 @@ eopalaeozoic
 eopaleozoic
 eophyte
 eophytic
-eophyton
 eorhyolite
 eos
 eosate
@@ -9740,6 +9739,7 @@ esophagopathy
 esophagoplasty
 esophagoplegia
 esophagoplication
+eophyton
 esophagoptosis
 esophagorrhagia
 esophagoscope

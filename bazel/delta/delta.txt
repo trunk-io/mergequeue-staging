@@ -2052,6 +2052,7 @@ decanonization
 decanonize
 decanormal
 disselboom
+drumlike
 decant
 decantate
 decantation
@@ -17558,7 +17559,6 @@ drumly
 dinosaurs
 drumlier
 drumliest
-drumlike
 drumlin
 drumline
 drumlinoid
