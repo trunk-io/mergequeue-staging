@@ -330,7 +330,6 @@ failsafe
 failsoft
 failure
 failures
-fain
 fainaigue
 fainaigued
 fainaiguer
@@ -5303,6 +5302,7 @@ fleabite
 fleabites
 fleabug
 fleabugs
+fain
 fleahopper
 fleay
 fleak
