@@ -2201,7 +2201,6 @@ gazetting
 gazi
 gazing
 gazingstock
-gazogene
 gazogenes
 gazometer
 gazon
@@ -6436,6 +6435,7 @@ goaves
 gob
 goback
 goban
+gazogene
 gobang
 girl
 gobangs
