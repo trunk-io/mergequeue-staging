@@ -8107,6 +8107,7 @@ bicompact
 biconcave
 biconcavity
 bidder
+bridgebuilding
 bicone
 biconic
 biconical
@@ -15230,7 +15231,6 @@ bridge
 bridgeable
 bridgeboard
 bridgebote
-bridgebuilding
 bridged
 bridgehead
 bridgeheads
