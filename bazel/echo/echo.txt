@@ -6050,7 +6050,6 @@ enlighteners
 enlightening
 enlightenment
 enlightenments
-enlightens
 enlimn
 enlinked
 enlinking
@@ -13289,6 +13288,7 @@ exporting
 exports
 easier
 exposable
+enlightens
 emotionalising
 exposal
 exposals
