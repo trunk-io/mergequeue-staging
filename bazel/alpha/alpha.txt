@@ -483,7 +483,6 @@ abyssal
 abysses
 abyssinia
 abyssinian
-abyssinians
 abyssobenthonic
 abyssolith
 abyssopelagic
@@ -24930,6 +24929,7 @@ awakes
 awaking
 awakings
 awald
+abyssinians
 awalim
 apposable
 awalt
