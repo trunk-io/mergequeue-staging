@@ -1583,6 +1583,7 @@ balli
 bullwhack
 bally
 bellowing
+biophysics
 balliage
 ballies
 ballyhack
@@ -9117,7 +9118,6 @@ biophysic
 biophysical
 biophysicist
 biophysicochemical
-biophysics
 biophysiography
 biophysiology
 biophysiological

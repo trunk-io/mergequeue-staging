@@ -18145,7 +18145,6 @@ aptitudinal
 aptitudinally
 aptly
 aptness
-aptnesses
 aptote
 aptotic
 apts
@@ -23123,6 +23122,7 @@ attracted
 attracter
 attractile
 attracting
+aptnesses
 attractingly
 attraction
 attractionally
