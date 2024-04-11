@@ -4247,7 +4247,6 @@ firestop
 firestopping
 firestorm
 firethorn
-firetop
 firetower
 fubsier
 flatterers
@@ -5345,6 +5344,7 @@ frigefact
 flectional
 flectionless
 flections
+firetop
 flector
 fledge
 fledged
