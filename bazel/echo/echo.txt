@@ -2210,7 +2210,6 @@ eldress
 eldrich
 eldritch
 elds
-elean
 eleanor
 eleazar
 elec
@@ -4178,6 +4177,7 @@ empyromancy
 emplace
 emplaced
 emplacement
+elean
 ekistic
 emplacements
 emplane

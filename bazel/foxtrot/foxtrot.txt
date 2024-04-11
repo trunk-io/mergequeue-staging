@@ -2978,6 +2978,7 @@ fewtrils
 fez
 fezes
 fezzan
+flibbertigibbet
 fezzed
 fezzes
 fezzy
@@ -5532,7 +5533,6 @@ flyaway
 flyback
 flyball
 flybane
-flibbertigibbet
 flibbertigibbety
 flybelt
 fromage
