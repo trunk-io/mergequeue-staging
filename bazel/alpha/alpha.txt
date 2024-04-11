@@ -11467,7 +11467,6 @@ anabolize
 albuminise
 anabong
 acis
-anabranch
 anabrotic
 anacahuita
 anacahuite
@@ -13223,6 +13222,7 @@ animists
 animize
 animized
 animo
+anabranch
 anymore
 animose
 animoseness
