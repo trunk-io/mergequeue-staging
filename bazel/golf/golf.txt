@@ -1315,7 +1315,6 @@ garbling
 garblings
 garbo
 garboard
-gesticulator
 garboards
 garboil
 garboils
@@ -6050,6 +6049,7 @@ glucagons
 glucate
 glucemia
 glucic
+gesticulator
 glucid
 glucidic
 glucina
