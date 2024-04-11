@@ -12862,6 +12862,7 @@ angletouch
 angletwitch
 anglewing
 anglewise
+autocarpous
 angleworm
 angleworms
 angliae
@@ -23896,7 +23897,6 @@ autocarist
 autocarp
 autocarpian
 autocarpic
-autocarpous
 anatherum
 autocatalepsy
 autocatalyses
