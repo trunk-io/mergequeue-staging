@@ -11377,7 +11377,6 @@ discircumspection
 discission
 discitis
 disclaim
-disclaimed
 disclaimer
 disclaimers
 disclaiming
@@ -16775,6 +16774,7 @@ drawbar
 drawbars
 drawbeam
 drawbench
+disclaimed
 drawboard
 drawboy
 drawbolt
