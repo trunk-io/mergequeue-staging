@@ -4607,7 +4607,6 @@ externize
 encephalothlipsis
 encephalotome
 encephalotomy
-encephalotomies
 exothermicity
 earths
 encephalous
@@ -13467,6 +13466,7 @@ exsecants
 exsect
 exsected
 exsectile
+encephalotomies
 exsecting
 exsector
 exsects
