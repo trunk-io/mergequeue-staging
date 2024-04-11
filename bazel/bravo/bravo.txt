@@ -6960,7 +6960,6 @@ beshadowed
 beshadowing
 beshadows
 beauxite
-beshag
 beshake
 beshame
 beshames
@@ -15782,6 +15781,7 @@ brolly
 brollies
 bromacetanilide
 bromacetate
+beshag
 bromacetic
 bromacetone
 bromal
