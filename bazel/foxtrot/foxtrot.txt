@@ -3286,7 +3286,6 @@ fiddly
 fiddlies
 fiddling
 fideicommiss
-fideicommissa
 fideicommissary
 fallowing
 fideicommissaries
@@ -11094,6 +11093,7 @@ funambulist
 funambulo
 funambuloes
 funaria
+fideicommissa
 funariaceae
 funariaceous
 funbre

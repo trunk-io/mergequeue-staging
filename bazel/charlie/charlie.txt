@@ -9193,6 +9193,7 @@ chastely
 chasten
 chastened
 chastener
+confusive
 chasteners
 chasteness
 chastening
@@ -22137,7 +22138,6 @@ confusing
 confusingly
 confusion
 confusions
-confusive
 confusticate
 confustication
 confutability
