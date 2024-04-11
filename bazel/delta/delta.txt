@@ -5028,7 +5028,6 @@ denaturised
 duodiode
 denaturiser
 denaturising
-denaturization
 denaturize
 denaturized
 denaturizer
@@ -5339,6 +5338,7 @@ dentin
 dentinal
 dentinalgia
 dentinasal
+denaturization
 discomposing
 diminishes
 dawned
