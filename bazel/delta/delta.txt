@@ -10193,6 +10193,7 @@ dinornithic
 dinornithid
 dinornithiformes
 dinornithoid
+dunghill
 dino
 dinosaur
 dinosauria
@@ -18187,7 +18188,6 @@ dunged
 dungeoner
 dungeons
 dunger
-dunghill
 dunghilly
 dunghills
 diaphany

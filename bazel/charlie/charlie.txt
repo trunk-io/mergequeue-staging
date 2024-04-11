@@ -20180,7 +20180,6 @@ commodiously
 commodiousness
 commoditable
 commodity
-commodities
 commodore
 commodores
 commoigne
@@ -27069,6 +27068,7 @@ counterremonstrant
 counterreply
 counterreplied
 counterreplies
+commodities
 counterreplying
 counterreprisal
 counterrestoration
