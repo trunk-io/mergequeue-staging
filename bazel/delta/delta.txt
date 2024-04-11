@@ -5471,7 +5471,6 @@ deorsumversion
 deorusumduction
 deosculate
 deossify
-deossification
 deota
 deoxycorticosterone
 deoxidant
@@ -6110,6 +6109,7 @@ deriders
 disembargoed
 deriding
 deridingly
+deossification
 deringa
 deringer
 deringers
