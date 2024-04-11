@@ -1154,6 +1154,7 @@ caleche
 caleches
 caledonia
 caledonian
+countercarte
 caledonite
 calef
 calefacient
@@ -26716,7 +26717,6 @@ counterbreastwork
 counterbuff
 counterbuilding
 countercampaign
-countercarte
 countercathexis
 countercause
 counterchange
