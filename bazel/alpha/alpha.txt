@@ -6211,6 +6211,7 @@ aglethead
 aglets
 agly
 acacine
+aorists
 aglycon
 aglycone
 aglycones
@@ -16584,7 +16585,6 @@ aor
 aorist
 aoristic
 aoristically
-aorists
 aorta
 aortae
 aortal

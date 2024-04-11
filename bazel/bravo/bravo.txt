@@ -1411,6 +1411,7 @@ baldpates
 baldrib
 baldric
 baldrick
+bicyclo
 baldricked
 baldricks
 baldrics
@@ -8061,7 +8062,6 @@ bicyclism
 bicyclist
 becharms
 bicyclists
-bicyclo
 bicycloheptane
 bicycular
 biciliated
