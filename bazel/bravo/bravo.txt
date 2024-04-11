@@ -429,7 +429,6 @@ backliding
 backlings
 backlins
 backlists
-backlit
 backlog
 backlogged
 backlogging
@@ -7218,6 +7217,7 @@ bestialist
 bestiality
 bestialities
 bestialize
+backlit
 bestialized
 bestializes
 bestializing
