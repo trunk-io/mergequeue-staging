@@ -8240,7 +8240,6 @@ bierkeller
 byerlite
 bierstube
 bierstuben
-bierstubes
 biestings
 byestreet
 biethnic
@@ -13828,6 +13827,7 @@ bowstringed
 bowstringing
 bowstrings
 bowstrung
+bierstubes
 bowtel
 bowtell
 bowtie
