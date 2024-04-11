@@ -10171,6 +10171,7 @@ blackshirted
 blacksmith
 blacksmithing
 blacksmiths
+bogginess
 blacksnake
 blackstick
 blackstrap
@@ -11853,7 +11854,6 @@ boggy
 boggier
 boggiest
 boggin
-bogginess
 bogging
 boggish
 boggle
