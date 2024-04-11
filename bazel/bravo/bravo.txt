@@ -6708,7 +6708,6 @@ berhymed
 berhymes
 beri
 beribanded
-beribbon
 beribboned
 beriber
 bellworts
@@ -11749,6 +11748,7 @@ bodiced
 bodicemaker
 bodicemaking
 bodices
+beribbon
 bodycheck
 bodied
 bodier

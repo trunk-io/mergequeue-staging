@@ -25628,7 +25628,6 @@ corrals
 corrasion
 corrasive
 correa
-correal
 correality
 correct
 correctable
@@ -28893,6 +28892,7 @@ crib
 crybaby
 conductility
 crybabies
+correal
 cribbage
 cribbages
 cribbed
