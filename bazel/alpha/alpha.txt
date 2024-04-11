@@ -8095,7 +8095,6 @@ algologies
 algologist
 algoman
 algometer
-algometry
 algometric
 algometrical
 algometrically
@@ -12367,6 +12366,7 @@ androeccia
 androecia
 androecial
 androecium
+algometry
 androgametophore
 androgamone
 androgen
