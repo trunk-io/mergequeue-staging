@@ -13435,6 +13435,7 @@ cicone
 ciconia
 ciconiae
 ciconian
+coequating
 ciconiform
 ciconiid
 ciconiidae
@@ -21090,7 +21091,6 @@ concatenate
 concatenated
 concatenates
 concatenating
-coequating
 concatenation
 concatenations
 concatenator
