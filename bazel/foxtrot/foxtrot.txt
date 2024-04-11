@@ -6867,6 +6867,7 @@ foldboat
 foldboater
 farmings
 foldboating
+fremd
 foldboats
 foldcourse
 familic
@@ -9763,7 +9764,6 @@ freyr
 freit
 freith
 freity
-fremd
 fremdly
 fremdness
 fremescence
