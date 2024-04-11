@@ -1486,7 +1486,6 @@ empedoclean
 efph
 efractory
 erringly
-entification
 efreet
 explicable
 efs
@@ -8149,6 +8148,7 @@ epipubes
 epipubis
 epirhizous
 epirogenetic
+entification
 epirogeny
 epirote
 epirotic
