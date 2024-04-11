@@ -1543,7 +1543,6 @@ eggeater
 egged
 egger
 eggers
-envapour
 eggfish
 eggfruit
 egghead
@@ -3726,6 +3725,7 @@ embrocations
 embroche
 embroglio
 embroglios
+envapour
 embroider
 embroidered
 embroiderer

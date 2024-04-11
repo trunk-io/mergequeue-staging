@@ -1581,7 +1581,6 @@ favorers
 favoress
 favoring
 favoringly
-favorites
 favorless
 favors
 favosely
@@ -5665,6 +5664,7 @@ flintifying
 flintily
 flintiness
 flintless
+favorites
 flintlike
 flintlock
 flints
