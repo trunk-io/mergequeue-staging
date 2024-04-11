@@ -3203,6 +3203,7 @@ defend
 defendable
 defendant
 defendants
+dinking
 defended
 defender
 defenders
@@ -10157,7 +10158,6 @@ dinky
 dinkier
 dinkies
 dinkiest
-dinking
 dinkly
 dinks
 dinkum

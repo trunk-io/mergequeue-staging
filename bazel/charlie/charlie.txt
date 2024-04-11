@@ -9232,7 +9232,6 @@ chateau
 chateaugray
 chateaus
 chateaux
-chatelain
 chatelaine
 chatelaines
 chatelainry
@@ -9857,6 +9856,7 @@ chemolysis
 chemolytic
 chemolyze
 chemonite
+chatelain
 chemopallidectomy
 chemopallidectomies
 chemopause
