@@ -2296,7 +2296,6 @@ baratte
 barauna
 baraza
 barb
-barba
 barbacan
 barbacoa
 barbacoan
@@ -6683,6 +6682,7 @@ bergh
 berghaan
 bergy
 bergylt
+barba
 berginization
 berginize
 berglet
