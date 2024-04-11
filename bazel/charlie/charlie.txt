@@ -4747,6 +4747,7 @@ congregants
 carrotins
 clarions
 carrots
+cubiti
 carrottop
 carrotweed
 carrotwood
@@ -30502,7 +30503,6 @@ cubital
 cubitale
 cubitalia
 cubited
-cubiti
 cubitiere
 cubito
 cubitocarpal
