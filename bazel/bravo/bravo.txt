@@ -11440,6 +11440,7 @@ blur
 blurb
 blurbist
 blurbs
+bunsenite
 blurping
 bushbeater
 blurred
@@ -17474,7 +17475,6 @@ bunraku
 bunrakus
 buns
 bunsen
-bunsenite
 bunt
 buntal
 bunted
