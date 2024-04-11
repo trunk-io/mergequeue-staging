@@ -617,6 +617,7 @@ echoizing
 echolalic
 echoless
 echolocate
+enteric
 echolocation
 echometer
 echopractic
@@ -6611,7 +6612,6 @@ enterers
 enterfeat
 entergogenic
 enteria
-enteric
 enteritidis
 entermete
 exolemma
