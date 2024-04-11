@@ -8126,7 +8126,6 @@ bicrofarad
 bicron
 bicrons
 bicrural
-bicuculline
 bicultural
 biculturalism
 bicursal
@@ -8644,6 +8643,7 @@ billfishes
 billfolds
 billhead
 billheading
+bicuculline
 billheads
 billholder
 billhook
