@@ -1795,7 +1795,6 @@ balustered
 balusters
 balustrade
 balustraded
-balustrades
 balustrading
 balwarra
 balza
@@ -3516,6 +3515,7 @@ batch
 bumbass
 batched
 batcher
+balustrades
 batchers
 batches
 batching
