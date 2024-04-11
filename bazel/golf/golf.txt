@@ -490,7 +490,6 @@ gales
 galesaur
 galesaurus
 galet
-galette
 galeus
 galewort
 galga
@@ -7203,6 +7202,7 @@ gorgonaceous
 gorgoneia
 gorgoneion
 garau
+galette
 gorgonesque
 gorgoneum
 gorgonia
