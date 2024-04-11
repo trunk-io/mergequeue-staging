@@ -270,7 +270,6 @@ fadging
 figura
 fady
 fadingly
-fadingness
 fadings
 fadlike
 fadme
@@ -4350,6 +4349,7 @@ fishbolt
 fishbolts
 fishbone
 fishbones
+fadingness
 fishbowl
 falchions
 fishbowls
