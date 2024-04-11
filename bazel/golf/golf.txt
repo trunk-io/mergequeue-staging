@@ -6322,7 +6322,6 @@ gneu
 gnide
 gnocchetti
 gnome
-gnomed
 gnomes
 gnomesque
 gnomic
@@ -10204,6 +10203,7 @@ guiling
 guillem
 guillemet
 gynecophore
+gnomed
 guillemot
 guillermo
 guillevat

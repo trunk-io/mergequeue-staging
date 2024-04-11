@@ -10129,6 +10129,7 @@ ambushes
 ambushlike
 ambushment
 ambustion
+anatomies
 amchoor
 amdahl
 amdt
@@ -12063,7 +12064,6 @@ anatomicophysiologic
 ambidextral
 anatomicophysiological
 anatomicosurgical
-anatomies
 anatomiless
 anatomisation
 anatomise
