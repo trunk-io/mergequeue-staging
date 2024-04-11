@@ -205,7 +205,6 @@ elaterist
 earthwall
 earthward
 earthwards
-earthwork
 earthworks
 earthworm
 ecdysones
@@ -12103,6 +12102,7 @@ exclamatorily
 exclaustration
 exclave
 exclaves
+earthwork
 exclosure
 excludability
 excludable
