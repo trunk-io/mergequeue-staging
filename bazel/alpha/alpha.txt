@@ -10418,7 +10418,6 @@ amidoplast
 amidoplastid
 amidosuccinamic
 amidosulphonal
-amidoxy
 amidoxyl
 amidoxime
 analogist
@@ -23482,6 +23481,7 @@ aura
 arsines
 aurae
 aural
+amidoxy
 aurally
 auramin
 auramine
