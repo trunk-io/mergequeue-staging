@@ -4155,7 +4155,6 @@ gillion
 gilliver
 gillnets
 gillnetted
-gillnetting
 gillotage
 gillotype
 gills
@@ -5725,6 +5724,7 @@ globous
 globously
 globousness
 globs
+gillnetting
 globular
 gconvert
 globularia
