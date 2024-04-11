@@ -2193,7 +2193,6 @@ canalises
 canalising
 canalization
 canalizations
-canalize
 canalizes
 canalizing
 canalla
@@ -25364,6 +25363,7 @@ corniest
 corniferous
 cornify
 cornific
+canalize
 cornification
 cornified
 corniform
