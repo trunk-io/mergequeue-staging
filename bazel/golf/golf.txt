@@ -3891,7 +3891,6 @@ gibelite
 gibeonite
 giber
 gibers
-gibes
 glastonbury
 guttle
 gybes
@@ -4285,6 +4284,7 @@ gymnophobia
 gymnoplast
 genealogy
 gymnorhinal
+gibes
 gymnosoph
 gymnosophy
 gymnosophical
