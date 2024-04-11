@@ -1249,7 +1249,6 @@ gaped
 gaper
 gruis
 golf
-gapeseed
 gapeseeds
 gapeworm
 gapeworms
@@ -8743,6 +8742,7 @@ greffe
 gonostyle
 greffier
 greffotome
+gapeseed
 greg
 gregale
 gregaloid
