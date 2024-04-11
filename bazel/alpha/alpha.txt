@@ -12082,7 +12082,6 @@ anatomopathologic
 anatopism
 anatosaurus
 antiaristocratical
-anatox
 anatoxin
 anatoxins
 anatreptic
@@ -23547,6 +23546,7 @@ auricularis
 auricularly
 auriculars
 auriculas
+anatox
 auriculate
 auriculated
 auriculately
