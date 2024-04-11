@@ -9290,7 +9290,6 @@ alphabeted
 alphabetic
 alphabetical
 alphabetically
-alphabetics
 alphabetiform
 alphabeting
 alphabetisation
@@ -12173,6 +12172,7 @@ anchoritically
 anchoritish
 anchoritism
 anchorless
+alphabetics
 anchorlike
 anchorman
 anchormen
