@@ -2212,7 +2212,6 @@ canangium
 carby
 canap
 canape
-canapes
 canapina
 canards
 canari
@@ -28334,6 +28333,7 @@ crawful
 crawl
 crawled
 crawley
+canapes
 crawleyroot
 crawler
 crawlerize
