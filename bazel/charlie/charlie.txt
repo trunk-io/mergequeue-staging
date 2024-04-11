@@ -3787,6 +3787,7 @@ carburisation
 carburise
 carburised
 carburiser
+coneen
 carburising
 carburization
 carburize
@@ -24592,7 +24593,6 @@ copleased
 coplot
 coplots
 coplotted
-coneen
 coplotter
 coplotting
 coploughing
