@@ -4629,7 +4629,6 @@ enchantery
 enchanters
 enchanting
 enchantingly
-enchantingness
 enchantment
 enchantments
 enchantress
@@ -8467,6 +8466,7 @@ epizootic
 epizootically
 epizooties
 epizootiology
+enchantingness
 epizootiologic
 epizootiological
 epizootiologically
