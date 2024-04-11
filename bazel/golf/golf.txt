@@ -2683,6 +2683,7 @@ generalization
 generalizations
 generalize
 generalizeable
+gryphite
 generalized
 generalizer
 generalizers
@@ -9084,7 +9085,6 @@ griphe
 griphite
 genyoplasty
 goniale
-gryphite
 gryphon
 gryphons
 gryphosaurus
