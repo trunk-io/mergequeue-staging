@@ -8754,6 +8754,7 @@ allocable
 allocaffeine
 allocatable
 allocate
+apollo
 allocated
 allocatee
 allocates
@@ -17241,7 +17242,6 @@ apollinarianism
 apolline
 apollinian
 apollyon
-apollo
 apollonia
 apollonian
 apollonic
