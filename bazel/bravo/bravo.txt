@@ -5983,7 +5983,6 @@ bemajesty
 beman
 bemangle
 bemantle
-bemar
 bemas
 bemask
 bemaster
@@ -9563,6 +9562,7 @@ bys
 bisabol
 bysacki
 bisacromial
+bemar
 bisagre
 bisayan
 beryllonite
