@@ -2596,7 +2596,6 @@ electropuncturation
 electropuncture
 electropuncturing
 electroreceptive
-electroreduction
 electrorefine
 electrorefining
 electroresection
@@ -2952,6 +2951,7 @@ elymus
 elinguate
 elinguated
 elinguating
+electroreduction
 electrotypic
 elinguation
 elingued
