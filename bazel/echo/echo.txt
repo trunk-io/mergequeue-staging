@@ -212,7 +212,6 @@ ecdysones
 earthworms
 earwax
 encephalography
-earwaxes
 earwig
 earwigged
 earwiggy
@@ -4708,6 +4707,7 @@ encyclopaedically
 encyclopaedism
 encyclopaedist
 encyclopedia
+earwaxes
 encyclopediac
 encyclopediacal
 encyclopedial
