@@ -10238,6 +10238,7 @@ blains
 blair
 blairmorite
 blakeberyed
+boatlike
 blakeite
 blam
 blamable
@@ -11574,7 +11575,6 @@ boation
 boatkeeper
 boatless
 beclamoring
-boatlike
 boatlip
 boatload
 boatloader
