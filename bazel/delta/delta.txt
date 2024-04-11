@@ -1527,6 +1527,7 @@ deading
 dunnaged
 deadish
 deadishly
+deviates
 deadishness
 deadlatch
 deadly
@@ -7573,7 +7574,6 @@ deviascope
 deviate
 deviated
 deviately
-deviates
 deviating
 deviation
 deviational
