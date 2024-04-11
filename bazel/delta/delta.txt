@@ -833,7 +833,6 @@ dangerousness
 dangers
 dangersome
 dangle
-dangleberry
 dangled
 danglement
 dangler
@@ -9263,6 +9262,7 @@ dietitian
 dietitians
 dietotherapeutics
 dietotherapy
+dangleberry
 dietotoxic
 dietotoxicity
 dietrichite
