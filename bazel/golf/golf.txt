@@ -4425,6 +4425,7 @@ gynethusia
 gynetype
 ging
 gingal
+granulet
 gingall
 gingalls
 gingals
@@ -8088,7 +8089,6 @@ granulator
 granulators
 granule
 granules
-granulet
 granuliform
 granulite
 granulitis
