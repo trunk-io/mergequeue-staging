@@ -7003,7 +7003,6 @@ entozoon
 entr
 entracte
 entrada
-entradas
 entrail
 entrain
 entrained
@@ -7163,6 +7162,7 @@ enures
 enureses
 enuresis
 enuresises
+entradas
 equiform
 enuring
 enurny
