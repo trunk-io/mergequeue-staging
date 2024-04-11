@@ -10958,7 +10958,6 @@ euomphalus
 euonym
 euonymy
 euonymin
-euonymous
 euonymus
 euornithes
 euornithic
@@ -11563,6 +11562,7 @@ exuberancy
 evertor
 evertors
 everts
+euonymous
 everwhich
 everwho
 escurialize
