@@ -2435,7 +2435,6 @@ fermentability
 furzechat
 fermentable
 fermental
-fermentarian
 ferrocyanic
 forlie
 fermentate
@@ -5585,6 +5584,7 @@ flyers
 flies
 fliest
 fliffus
+fermentarian
 flyflap
 flyflapper
 flyflower

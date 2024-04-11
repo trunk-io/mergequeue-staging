@@ -11486,7 +11486,6 @@ eventail
 eventful
 eventfully
 eventfulness
-eventide
 exuvia
 eventides
 eschscholtzia
@@ -14108,6 +14107,7 @@ entrails
 extruders
 extrudes
 extruding
+eventide
 extrusible
 enriching
 extrusile
