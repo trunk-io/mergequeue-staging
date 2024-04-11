@@ -942,6 +942,7 @@ bagpipe
 bagpiped
 bagpiper
 bagpipers
+breviradiate
 bagpipes
 bagpiping
 bagplant
@@ -15066,7 +15067,6 @@ breviloquent
 breviped
 brevipen
 brevipennate
-breviradiate
 brevirostral
 brevirostrate
 brevirostrines
