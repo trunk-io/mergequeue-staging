@@ -2361,6 +2361,7 @@ electrocutioner
 electrocutions
 emplaces
 electrode
+etruscan
 electrodentistry
 electrodeposit
 electrodepositable
@@ -10617,7 +10618,6 @@ etrog
 etrogim
 etruria
 etrurian
-etruscan
 etruscans
 etruscology
 etta

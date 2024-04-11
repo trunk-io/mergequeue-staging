@@ -640,7 +640,6 @@ bacteremia
 bacteremic
 bacteria
 bacteriaceae
-bacteriaceous
 bacteriaemia
 beshouted
 biblist
@@ -2256,6 +2255,7 @@ baptistic
 baptistry
 baptists
 baptizable
+bacteriaceous
 baptizee
 baptizement
 baptizer
