@@ -11170,7 +11170,6 @@ amphipnous
 amphipod
 amphipoda
 amphipodal
-amphipodan
 amphipodiform
 amphipodous
 amphipods
@@ -22844,6 +22843,7 @@ atriplex
 atrypoid
 assimilation
 atrium
+amphipodan
 atriums
 atroce
 atroceruleous
