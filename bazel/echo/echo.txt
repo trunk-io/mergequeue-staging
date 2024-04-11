@@ -6904,7 +6904,6 @@ entomical
 entomion
 entomofauna
 entomogenous
-entomol
 entomolegist
 entomolite
 entomology
@@ -8571,6 +8570,7 @@ equalizer
 equalizers
 equalizes
 equaller
+entomol
 equally
 equalling
 equalness
