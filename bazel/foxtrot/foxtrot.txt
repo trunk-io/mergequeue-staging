@@ -1792,7 +1792,6 @@ featurette
 featuring
 featurish
 feaze
-feazed
 feazes
 feazing
 feazings
@@ -10395,6 +10394,7 @@ frontally
 footgeld
 filagree
 fellinic
+feazed
 frontals
 frontbencher
 frontcourt
