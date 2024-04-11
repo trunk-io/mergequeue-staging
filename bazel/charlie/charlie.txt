@@ -4937,7 +4937,6 @@ casbah
 casbahs
 cascabel
 cascabels
-cascable
 cascables
 cascadable
 cascade
@@ -17946,6 +17945,7 @@ coeminency
 coemperor
 coemploy
 coemployed
+cascable
 coemployee
 coemploying
 coemployment
