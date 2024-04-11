@@ -4039,7 +4039,6 @@ cardiosphygmograph
 cardiotherapy
 cataloger
 cardiotherapies
-cardiotomy
 cardiotonic
 cardiotoxic
 cardiotrophia
@@ -7285,6 +7284,7 @@ cephalodynia
 cephalodiscid
 cephalodiscida
 cephalodiscus
+cardiotomy
 cephalodium
 cephalofacial
 cephalogenesis
