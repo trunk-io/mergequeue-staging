@@ -8160,7 +8160,6 @@ chairman
 chairmaned
 chairmaning
 chairmanned
-chairmanning
 chairmans
 chairmanship
 chairmanships
@@ -29231,6 +29230,7 @@ cryptoanalytic
 cryptoanalytically
 cryptoanalytics
 cryptobatholithic
+chairmanning
 cryptobranch
 cryptobranchia
 cryptobranchiata
