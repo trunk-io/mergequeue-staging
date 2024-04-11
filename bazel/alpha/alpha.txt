@@ -3727,7 +3727,6 @@ adenoses
 adenosine
 adenostemonous
 adenostoma
-adenotyphoid
 adenotyphus
 adenotome
 adenotomy
@@ -10427,6 +10426,7 @@ amidships
 amidst
 amidstream
 accoy
+adenotyphoid
 amidulin
 amidward
 amie
