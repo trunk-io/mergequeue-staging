@@ -389,6 +389,7 @@ daylights
 daylily
 daylilies
 dailiness
+devolves
 daylit
 daylong
 dayman
@@ -7702,7 +7703,6 @@ devolve
 devolved
 devolvement
 devolvements
-devolves
 devolving
 devon
 dismasts
