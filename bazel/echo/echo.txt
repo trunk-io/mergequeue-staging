@@ -3378,7 +3378,6 @@ embarricado
 embarring
 embars
 embase
-embassade
 embassador
 embassadress
 embassage
@@ -7951,6 +7950,7 @@ entomeric
 epilimnetic
 epilimnia
 epilimnial
+embassade
 epilimnion
 eretrian
 epilimnionia
