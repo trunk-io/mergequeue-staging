@@ -4885,6 +4885,7 @@ gist
 gists
 git
 gitalin
+gunite
 gitana
 genioplasty
 glucolysis
@@ -10482,7 +10483,6 @@ gunge
 gunhouse
 gunyah
 gunyeh
-gunite
 guniter
 gunj
 gunja

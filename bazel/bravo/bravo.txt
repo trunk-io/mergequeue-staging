@@ -2177,7 +2177,6 @@ bannockburn
 bannocks
 banns
 bannut
-banovina
 banque
 banquet
 banqueted
@@ -18183,6 +18182,7 @@ bimasty
 butyne
 butyr
 butyral
+banovina
 butyraldehyde
 butyrals
 butyrate
