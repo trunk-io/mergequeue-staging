@@ -6191,7 +6191,6 @@ beneficently
 benefices
 brairo
 beneficiaire
-beneficial
 beneficially
 beneficialness
 beneficiary
@@ -8131,6 +8130,7 @@ bicornute
 bicorporal
 bicorporate
 bicorporeal
+beneficial
 bicostate
 bicrenate
 bicrofarad
