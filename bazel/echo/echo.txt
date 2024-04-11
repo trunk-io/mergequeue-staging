@@ -2577,7 +2577,6 @@ eventuates
 electrophotomicrography
 electrophototherapy
 electrophrenic
-electropyrometer
 equimomental
 electropism
 enthrall
@@ -11918,6 +11917,7 @@ excavatorial
 excavators
 excave
 excecate
+electropyrometer
 excecation
 excedent
 exceed
