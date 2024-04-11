@@ -11080,7 +11080,6 @@ disarmers
 disarming
 disarmingly
 disarms
-disarray
 disarrayed
 disarraying
 disarrays
@@ -18014,6 +18013,7 @@ dully
 dullify
 dullification
 dulling
+disarray
 dullish
 dullishly
 dullity
