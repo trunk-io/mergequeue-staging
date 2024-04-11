@@ -7919,6 +7919,7 @@ forerigging
 foreright
 foredates
 foreroyal
+forwardly
 forerun
 forerunner
 forerunners
@@ -8790,7 +8791,6 @@ forwarder
 forwarders
 forwardest
 forwarding
-forwardly
 forwardness
 forwards
 forwardsearch
