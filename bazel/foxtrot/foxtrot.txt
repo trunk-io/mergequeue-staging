@@ -5318,7 +5318,6 @@ fulgurator
 fleaweed
 fealties
 fleawort
-fleaworts
 flebile
 flebotomy
 fleche
@@ -11223,6 +11222,7 @@ fungoes
 fungoid
 fungoidal
 florissant
+fleaworts
 fungoids
 fungology
 fungological
