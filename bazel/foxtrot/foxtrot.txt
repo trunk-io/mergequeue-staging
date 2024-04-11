@@ -2286,7 +2286,6 @@ fenchyl
 fencible
 flection
 fencibles
-fencing
 formyl
 fencings
 fend
@@ -5709,6 +5708,7 @@ flirtable
 flirtation
 flirtational
 flirtationless
+fencing
 flirtations
 flirtatiously
 flirtatiousness
