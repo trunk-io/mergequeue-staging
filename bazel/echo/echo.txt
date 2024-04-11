@@ -1059,7 +1059,6 @@ edgeboned
 edged
 edgeless
 edgeling
-edgemaker
 edgemaking
 edgeman
 edger
@@ -1616,6 +1615,7 @@ egoistry
 egoists
 egoity
 egoizer
+edgemaker
 excommunicates
 euchologion
 egol
