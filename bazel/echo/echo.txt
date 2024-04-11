@@ -3741,6 +3741,7 @@ embroidering
 erythrophilous
 embroiders
 embroil
+equidist
 embroiled
 embroiler
 embroiling
@@ -8638,7 +8639,6 @@ equid
 equidiagonal
 equidifferent
 equidimensional
-equidist
 equidistance
 embranglement
 equidistant
