@@ -3402,6 +3402,7 @@ clinoprism
 capturing
 capuan
 cadging
+castellans
 capuche
 capuched
 capuches
@@ -5223,7 +5224,6 @@ castellan
 castellany
 castellanies
 castellano
-castellans
 castellanship
 castellar
 castellate
