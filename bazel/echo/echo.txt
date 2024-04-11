@@ -3795,6 +3795,7 @@ emeline
 emend
 emendable
 emendandum
+emplace
 emendate
 emendated
 ekerite
@@ -4175,7 +4176,6 @@ epitoniidae
 euthymy
 empiristic
 empyromancy
-emplace
 emplaced
 emplacement
 ekistic
