@@ -4292,7 +4292,6 @@ elementariness
 emu
 emulable
 emulant
-emulates
 emulation
 emulations
 emulative
@@ -11024,6 +11023,7 @@ empair
 euphonetic
 euphonetics
 euphony
+emulates
 euphonia
 euphoniad
 euphonic

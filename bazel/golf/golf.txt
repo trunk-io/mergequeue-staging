@@ -9559,6 +9559,7 @@ gastornis
 growling
 growlingly
 growls
+guillochee
 grown
 grownup
 grownups
@@ -10209,7 +10210,6 @@ guillemot
 guillermo
 guillevat
 guilloche
-guillochee
 guillotine
 guillotined
 guillotines
