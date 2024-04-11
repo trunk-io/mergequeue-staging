@@ -13273,7 +13273,6 @@ cyclists
 cyclitic
 cyclitol
 cyclitols
-cyclization
 cyclize
 cyclized
 cyclizes
@@ -18767,6 +18766,7 @@ colical
 colichemarde
 colicin
 colicine
+cyclization
 colicines
 colicins
 colicystitis
