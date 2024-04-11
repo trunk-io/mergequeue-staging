@@ -7208,7 +7208,6 @@ determinably
 determinacy
 determinant
 determinantal
-determinants
 decidual
 determinate
 determinated
@@ -13940,6 +13939,7 @@ distributable
 distributary
 distributaries
 distribute
+determinants
 distributedly
 distributee
 distributer

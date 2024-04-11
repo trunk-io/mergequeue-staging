@@ -10511,7 +10511,6 @@ erysibe
 ethnology
 ethnologic
 ethnological
-ethnologically
 ethnologist
 ethnologists
 ethnomaniac
@@ -11366,6 +11365,7 @@ evangelicity
 evangeline
 evangelion
 evangelisation
+ethnologically
 evangelise
 evangelised
 evangeliser
