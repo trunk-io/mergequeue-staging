@@ -4267,7 +4267,6 @@ goatling
 gymnogen
 gymnogene
 graphorrhea
-gymnogenous
 gymnogynous
 gymnogyps
 gymnoglossa
@@ -8024,6 +8023,7 @@ granitite
 granitization
 granitize
 granitized
+gymnogenous
 granitizing
 granitoid
 granivore
