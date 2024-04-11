@@ -1108,7 +1108,6 @@ farseeing
 farseeingness
 farseer
 farset
-farsi
 farsight
 farsighted
 farsightedness
@@ -6032,6 +6031,7 @@ floret
 floreta
 floreted
 florets
+farsi
 floretty
 fling
 floretum
