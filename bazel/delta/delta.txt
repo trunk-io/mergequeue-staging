@@ -8640,6 +8640,7 @@ diastrophism
 diatessaron
 diathermacy
 diathermal
+dissection
 diathermance
 diathermancy
 diathermaneity
@@ -13444,7 +13445,6 @@ disseats
 dissect
 dissected
 dissectible
-dissection
 dissections
 dissector
 dissectors
