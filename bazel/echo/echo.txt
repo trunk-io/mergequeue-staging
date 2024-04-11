@@ -2238,7 +2238,6 @@ electioneering
 electioneers
 elections
 elective
-electively
 ephemerons
 electives
 electivism
@@ -13100,6 +13099,7 @@ experrection
 expert
 experted
 experting
+electively
 endotracheitis
 expertised
 excretion
