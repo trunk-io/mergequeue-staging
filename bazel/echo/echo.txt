@@ -1199,7 +1199,6 @@ educationary
 educationese
 educationist
 efflorescing
-educations
 educator
 educatory
 educators
@@ -3807,6 +3806,7 @@ emendator
 emendatory
 emended
 emender
+educations
 emenders
 emendicate
 embowl
