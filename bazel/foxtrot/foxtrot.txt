@@ -7106,7 +7106,6 @@ foodstuffs
 foofaraw
 foofaraws
 fooyoung
-ferrous
 fooyung
 fool
 flamandization
@@ -10150,6 +10149,7 @@ frisca
 friscal
 frisch
 frisco
+ferrous
 frise
 frises
 frisesomorum
