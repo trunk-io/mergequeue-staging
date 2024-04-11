@@ -20,6 +20,7 @@ baaskaap
 baaskaaps
 bevels
 baaskap
+berthierite
 baba
 babacoote
 babaylan
@@ -6854,7 +6855,6 @@ berthas
 berthed
 berther
 beds
-berthierite
 berthing
 bilirubinemia
 berthold
