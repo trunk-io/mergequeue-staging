@@ -2671,7 +2671,6 @@ electrothermostatic
 electrothermotic
 electrotype
 electrotyped
-electrotyper
 electrotypes
 electrotypy
 electrotyping
@@ -3541,6 +3540,7 @@ embolon
 emboltement
 embolum
 embolus
+electrotyper
 emborder
 embordered
 embordering
