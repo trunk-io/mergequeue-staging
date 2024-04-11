@@ -2341,6 +2341,7 @@ candidness
 candidnesses
 candids
 candied
+confricamentum
 countermands
 candier
 candies
@@ -22105,7 +22106,6 @@ confreres
 confrerie
 confriar
 confricamenta
-confricamentum
 confrication
 confront
 confrontal
