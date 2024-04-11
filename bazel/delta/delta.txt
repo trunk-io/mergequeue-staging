@@ -7300,7 +7300,6 @@ detours
 detoxicant
 detoxicate
 detoxicated
-detoxicating
 detoxication
 detoxicator
 detoxify
@@ -14058,6 +14057,7 @@ disused
 disuses
 disusing
 disutility
+detoxicating
 disutilize
 disvaluation
 disvalue
