@@ -2987,6 +2987,7 @@ fezziwig
 ffa
 fgrid
 fy
+fireplugs
 fiacre
 fiacres
 fiador
@@ -4225,7 +4226,6 @@ fireplough
 fireplow
 fleeceable
 fireplug
-fireplugs
 firepot
 fireproofed
 fireproofing
