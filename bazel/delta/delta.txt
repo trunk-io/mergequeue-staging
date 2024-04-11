@@ -4049,7 +4049,6 @@ deliberandum
 deliberant
 deliberate
 deliberated
-deliberately
 deliberateness
 deliberates
 deliberating
@@ -12319,6 +12318,7 @@ dishmaker
 dishmonger
 dishmop
 dishome
+deliberately
 dishonest
 dishonesty
 dishonesties
