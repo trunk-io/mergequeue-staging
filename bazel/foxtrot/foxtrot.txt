@@ -3261,7 +3261,6 @@ ferroinclave
 fidding
 fiddle
 fiddleback
-fiddlebow
 fiddlebrained
 fiddlecome
 fiddled
@@ -11166,6 +11165,7 @@ fundungi
 foederal
 funebrious
 falsifications
+fiddlebow
 funeral
 funeralize
 funerally
