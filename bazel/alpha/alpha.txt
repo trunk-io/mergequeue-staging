@@ -5006,6 +5006,7 @@ aerological
 aerologies
 aerologist
 aerologists
+angiorrhaphy
 antieducationist
 aeromaechanic
 aeromancer
@@ -12803,7 +12804,6 @@ angioplerosis
 angiopoietic
 angiopressure
 angiorrhagia
-angiorrhaphy
 angiorrhea
 angiorrhexis
 angiosarcoma
