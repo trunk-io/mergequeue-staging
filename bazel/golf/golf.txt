@@ -3484,6 +3484,7 @@ gerodontic
 gerodontics
 gerodontology
 geromorphism
+glossator
 geronomite
 gerontal
 gerontes
@@ -5880,7 +5881,6 @@ glossarize
 gifture
 glossas
 glossata
-glossator
 glossatorial
 glossectomy
 glossed

@@ -5593,7 +5593,6 @@ enfevers
 eyeline
 enfief
 enfield
-enfierce
 enfigure
 enfilade
 enfiladed
@@ -11795,6 +11794,7 @@ exalters
 exalting
 exaltment
 exalts
+enfierce
 exam
 examen
 evacuate
