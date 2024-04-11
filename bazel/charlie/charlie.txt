@@ -1653,6 +1653,7 @@ calumniator
 calumniatory
 calumniators
 calumnious
+closeable
 calumniously
 chlordiazepoxide
 calumniousness
@@ -16595,7 +16596,6 @@ cloriodid
 clos
 closable
 close
-closeable
 closecross
 closed
 closedown

@@ -2214,7 +2214,6 @@ eleazar
 elec
 elecampane
 elechi
-elecive
 enterprises
 elecives
 elect
@@ -10751,6 +10750,7 @@ euda
 eudaemon
 eudaemony
 eudaemonic
+elecive
 eudaemonical
 etiologic
 eudaemonics
