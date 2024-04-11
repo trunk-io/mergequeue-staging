@@ -2749,6 +2749,7 @@ cantatrice
 cantatrices
 chestily
 cantatrici
+crookbacked
 cantboard
 cantdog
 cantdogs
@@ -29711,7 +29712,6 @@ croodle
 crooisite
 crook
 crookback
-crookbacked
 crookbill
 castral
 crooked
