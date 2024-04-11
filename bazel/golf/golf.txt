@@ -3326,7 +3326,6 @@ gerara
 gormandizer
 gerard
 gerardia
-gerardias
 gundalow
 gerasene
 gerate
@@ -5522,6 +5521,7 @@ glycoproteid
 glycosaemia
 glycose
 glycosemia
+gerardias
 glycosidase
 glycoside
 glycosides

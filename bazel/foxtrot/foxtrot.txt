@@ -1631,7 +1631,6 @@ fawnskin
 fax
 faxed
 faxes
-faxing
 faze
 fazed
 fazenda
@@ -6813,6 +6812,7 @@ fogrum
 fogscoffer
 fogus
 foh
+faxing
 fohat
 fohn
 fohns
