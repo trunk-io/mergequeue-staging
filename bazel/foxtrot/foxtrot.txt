@@ -573,7 +573,6 @@ fallowness
 franklinism
 fleshpots
 fallows
-falls
 falltime
 fallway
 falsary
@@ -2176,6 +2175,7 @@ felstones
 framers
 felt
 felted
+falls
 felter
 felty
 feltyfare
