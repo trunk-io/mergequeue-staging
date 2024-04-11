@@ -7597,7 +7597,6 @@ fers
 forecovert
 foreday
 foredays
-fivefoldness
 fleabiting
 foredate
 foredated
@@ -8468,6 +8467,7 @@ formicaroid
 formicate
 formicated
 franchiser
+fivefoldness
 formicating
 formicicide
 formicidae
