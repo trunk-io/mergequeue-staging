@@ -6456,7 +6456,6 @@ agriculture
 agriculturer
 agricultures
 agriculturist
-agriculturists
 agrief
 agrilus
 agrimony
@@ -9135,6 +9134,7 @@ almsgiver
 almsgiving
 almshouse
 almshouses
+agriculturists
 almsman
 almsmen
 almsmoney
