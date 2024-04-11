@@ -12495,7 +12495,6 @@ exhbn
 exhedrae
 exheredate
 exheredation
-exhibit
 exhibitable
 exhibited
 exhibiter
@@ -13663,6 +13662,7 @@ exterrestrial
 exterritorial
 erythrocytic
 exterritoriality
+exhibit
 exterritorialize
 extersive
 extg
