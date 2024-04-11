@@ -4485,7 +4485,6 @@ encamp
 encamped
 encamping
 encampment
-encampments
 encamps
 endoparasite
 encanker
@@ -14017,6 +14016,7 @@ extravagantness
 extravaganza
 extravaganzas
 extravagate
+encampments
 extravagated
 extravagating
 extravagation
