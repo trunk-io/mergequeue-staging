@@ -10633,7 +10633,6 @@ etua
 economizer
 etui
 etuis
-etuve
 etuvee
 etwas
 etwee
@@ -11012,6 +11011,7 @@ euphemistical
 euphemistically
 euphemization
 euphemize
+etuve
 earcap
 euphemized
 euphemizer
