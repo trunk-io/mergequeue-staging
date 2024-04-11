@@ -1962,6 +1962,7 @@ bandlessly
 bandlessness
 bandlet
 bandlimit
+beniseed
 bandlimited
 bandlimiting
 bandlimits
@@ -6267,7 +6268,6 @@ benignness
 benim
 benin
 benincasa
-beniseed
 benison
 benisons
 benitier

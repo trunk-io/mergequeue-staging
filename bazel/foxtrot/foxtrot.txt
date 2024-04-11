@@ -5879,6 +5879,7 @@ flockmaster
 florigraphy
 flockowner
 flocks
+footlers
 frangent
 flockwise
 flocoon
@@ -7200,7 +7201,6 @@ footle
 footled
 footler
 fabes
-footlers
 footles
 footless
 footlessly
