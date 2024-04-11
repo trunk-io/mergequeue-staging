@@ -5901,6 +5901,7 @@ belonidae
 belonite
 belonoid
 belonosphaerite
+bioavailability
 belook
 belord
 belorussian
@@ -8924,7 +8925,6 @@ bioassaying
 bioassays
 bioastronautical
 bioastronautics
-bioavailability
 biobibliographer
 biobibliography
 biobibliographic
