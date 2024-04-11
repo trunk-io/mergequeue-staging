@@ -4218,6 +4218,7 @@ beaters
 beath
 beati
 beatify
+bepress
 beatific
 beatifical
 beatifically
@@ -6557,7 +6558,6 @@ bepraiser
 beprank
 bepranked
 bepreach
-bepress
 bepretty
 bepride
 beprose
