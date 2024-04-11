@@ -5220,7 +5220,6 @@ denoting
 denotive
 denouement
 denouements
-degermed
 denounce
 denounced
 denouncement
@@ -9690,6 +9689,7 @@ depressant
 dilatometry
 dilatometric
 dilatometrically
+degermed
 dilator
 dilatory
 dilatorily
