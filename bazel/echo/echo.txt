@@ -2706,7 +2706,6 @@ eleemosinar
 eleemosynar
 eleemosynary
 enrolles
-expels
 eleemosynarily
 eleemosynariness
 elegance
@@ -5335,6 +5334,7 @@ endosmic
 endosmometer
 endosmometric
 eyr
+expels
 endosmos
 evaders
 endosmose

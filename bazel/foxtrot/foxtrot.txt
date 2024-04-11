@@ -6551,7 +6551,6 @@ flushers
 flushes
 flushest
 flushgate
-flushy
 flushing
 flushingly
 flushness
@@ -8842,6 +8841,7 @@ fossette
 fossettes
 fossick
 fossicked
+flushy
 fictitiousness
 fossicker
 fossicking
