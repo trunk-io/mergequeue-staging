@@ -1025,7 +1025,6 @@ gamone
 gamont
 gamopetalous
 gamophagia
-gamophyllous
 gamori
 gamostele
 gamostely
@@ -8016,6 +8015,7 @@ granilla
 granita
 granite
 granitelike
+gamophyllous
 granites
 granitic
 granitical

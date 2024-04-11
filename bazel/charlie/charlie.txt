@@ -7802,7 +7802,6 @@ cervicobuccal
 cervicodynia
 cervicodorsal
 cervicofacial
-cervicohumeral
 cervicolabial
 cervicolingual
 cervicolumbar
@@ -30011,6 +30010,7 @@ crouse
 counteracquittance
 crousely
 croustade
+cervicohumeral
 crout
 croute
 crouth
