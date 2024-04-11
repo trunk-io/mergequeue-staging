@@ -11980,7 +11980,6 @@ chorist
 choristate
 chorister
 choristers
-choristership
 choristic
 choristoblastoma
 choristoma
@@ -30855,6 +30854,7 @@ cultivator
 cultivators
 cultive
 cultrate
+choristership
 cultrated
 cultriform
 cultrirostral
