@@ -592,7 +592,6 @@ damascenes
 damascening
 damascus
 damask
-damasked
 damaskeen
 demophobe
 damaskeening
@@ -9478,6 +9477,7 @@ digitigrada
 digitigrade
 digitigradism
 digitinervate
+damasked
 digitinerved
 digitipinnate
 digitisation
