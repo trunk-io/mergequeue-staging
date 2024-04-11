@@ -4725,7 +4725,6 @@ bedlamised
 bedlamising
 bedlamism
 bedlamite
-bedlamitish
 bedlamize
 bedlamized
 bedlamizing
@@ -14922,6 +14921,7 @@ breck
 brecken
 bred
 bredbergite
+bedlamitish
 brede
 bredes
 bredestitch
