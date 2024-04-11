@@ -7825,6 +7825,7 @@ biarticulated
 bias
 bemata
 biasedly
+bowstring
 biases
 biasing
 biasness
@@ -13824,7 +13825,6 @@ bowstaff
 brokenhearted
 bowstave
 buzane
-bowstring
 bowstringed
 bowstringing
 bowstrings
