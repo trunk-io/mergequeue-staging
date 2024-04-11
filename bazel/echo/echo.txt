@@ -3911,6 +3911,7 @@ emigrant
 eavesdrip
 emigrants
 emigrate
+enemied
 emigrates
 emigrating
 emigration
@@ -5492,7 +5493,6 @@ enemas
 enemata
 emball
 enemy
-enemied
 enemies
 estancieros
 eburnification
