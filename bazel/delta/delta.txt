@@ -13486,7 +13486,6 @@ dissent
 dissentaneous
 deceivingly
 dissentaneousness
-dissented
 dissenter
 dissenters
 dissentiate
@@ -15718,6 +15717,7 @@ dormered
 dormers
 dormette
 dormeuse
+dissented
 dormy
 dormice
 dogvane
