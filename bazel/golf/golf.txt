@@ -4927,6 +4927,7 @@ give
 goaltending
 gyve
 giveable
+granulations
 giveaway
 giveaways
 givey
@@ -8082,7 +8083,6 @@ granulater
 granulates
 granulating
 granulation
-granulations
 granulative
 granulator
 granulators
