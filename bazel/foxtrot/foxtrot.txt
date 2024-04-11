@@ -8408,6 +8408,7 @@ formalizing
 formally
 formalness
 fesswise
+friendlier
 formals
 formamide
 formamidine
@@ -9988,7 +9989,6 @@ friending
 friendless
 friendlessness
 friendly
-friendlier
 filter
 friendliest
 friendlike
