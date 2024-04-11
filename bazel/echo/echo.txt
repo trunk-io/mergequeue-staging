@@ -5613,7 +5613,6 @@ enfold
 enfolded
 extemporizer
 enfolden
-enfolder
 enfolders
 enfolding
 enfoldings
@@ -9138,6 +9137,7 @@ erythematous
 erythemic
 euboic
 erythorbate
+enfolder
 eutheria
 erythraea
 erythraean

@@ -15231,7 +15231,6 @@ claylike
 claimable
 clayman
 claimant
-claimants
 clepe
 claimed
 claimer
@@ -26734,6 +26733,7 @@ countercheck
 countercheer
 counterclaim
 counterclaimant
+claimants
 counterclaimed
 counterclaiming
 counterclaims
