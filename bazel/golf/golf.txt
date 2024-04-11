@@ -854,7 +854,6 @@ gambado
 gambadoes
 gambados
 gambang
-gousty
 gambe
 gambeer
 gambeered
@@ -3029,6 +3028,7 @@ geodesy
 geodesia
 geodesical
 geodesies
+gousty
 geodesist
 gimcrack
 gentilhomme
