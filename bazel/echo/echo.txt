@@ -1666,6 +1666,7 @@ egrets
 egretta
 egrid
 egrimony
+ense
 egritude
 egromancy
 egualmente
@@ -6351,7 +6352,6 @@ enscrolled
 enscrolling
 enscrolls
 ensculpture
-ense
 enseal
 ensealed
 ensealing
