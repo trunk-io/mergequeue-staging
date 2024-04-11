@@ -9893,7 +9893,6 @@ chemosorptive
 chemosphere
 chemospheric
 chemostat
-chemosterilant
 chemosterilants
 chemosurgery
 chemosurgical
@@ -24133,6 +24132,7 @@ convicts
 convince
 convinced
 convincedly
+chemosterilant
 convincedness
 craneman
 convincement

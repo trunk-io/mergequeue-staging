@@ -3588,7 +3588,6 @@ empyrosis
 emboweller
 embowelling
 embowelment
-embowels
 embower
 embowered
 embowering
@@ -10913,6 +10912,7 @@ eumelanin
 ergocalciferol
 eumemorrhea
 eumenes
+embowels
 eumenid
 eumenidae
 eumenidean
