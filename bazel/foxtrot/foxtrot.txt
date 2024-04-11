@@ -8084,7 +8084,6 @@ foreswear
 foreswearing
 foresweat
 foreswore
-fumacious
 foret
 foretack
 foretackle
@@ -9031,6 +9030,7 @@ fourierite
 fourling
 fourneau
 fourness
+fumacious
 fourniture
 fourpence
 fourpenny
