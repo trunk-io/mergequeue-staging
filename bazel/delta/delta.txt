@@ -11025,7 +11025,6 @@ disannuller
 degree
 disannulling
 disannulment
-disincarcerate
 disannuls
 disanoint
 disanswerable
@@ -16074,6 +16073,7 @@ doughfeet
 doughfoot
 doughfoots
 dakhma
+disincarcerate
 doughhead
 doughy
 doughier
