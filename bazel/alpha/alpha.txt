@@ -16601,7 +16601,6 @@ aortomalaxis
 aortopathy
 aortoptosia
 aortoptosis
-aortorrhaphy
 aortosclerosis
 aortostenosis
 aortotomy
@@ -17643,6 +17642,7 @@ appellancy
 appellant
 appellants
 appellate
+aortorrhaphy
 appellation
 appellational
 appendiculated
