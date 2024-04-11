@@ -6235,7 +6235,6 @@ gnarls
 gnarr
 gnarred
 gnarring
-gnarrs
 gnars
 gnash
 gnashed
@@ -7294,6 +7293,7 @@ gospelize
 gospeller
 gospelly
 gospellike
+gnarrs
 genys
 gospelmonger
 gospels
