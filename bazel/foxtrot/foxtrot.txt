@@ -8737,6 +8737,7 @@ fortravail
 frightenable
 fortread
 fortress
+frails
 fortresses
 fortressing
 filed
@@ -9422,7 +9423,6 @@ franklandite
 frankly
 franklin
 franklinian
-frails
 frankliniana
 franklinic
 fraser

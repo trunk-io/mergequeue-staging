@@ -19966,7 +19966,6 @@ commence
 commenceable
 commenced
 commencement
-commencements
 commencer
 commences
 commencing
@@ -20011,6 +20010,7 @@ commentable
 commentary
 commentarial
 commentarialism
+commencements
 commentaries
 commentate
 commentated
