@@ -3572,6 +3572,7 @@ bathycolpic
 bathyesthesia
 bathygraphic
 belatticed
+biocide
 bathyhyperesthesia
 bathyhypesthesia
 bathyl
@@ -8949,7 +8950,6 @@ biocycle
 biocycles
 botan
 biocidal
-biocide
 biocides
 bioclimatic
 bioclimatician

@@ -5737,6 +5737,7 @@ feastless
 flyspecked
 flyspecking
 flyspecks
+flowerpots
 flyswat
 flyswatter
 flit
@@ -6223,7 +6224,6 @@ flowerlessness
 flowerlike
 flowerpecker
 flowerpot
-flowerpots
 flowers
 flowerwork
 flowing
