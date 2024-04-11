@@ -10527,6 +10527,7 @@ amylophosphoric
 amyloplast
 amyloplastic
 amyloplastid
+anchovy
 amylopsase
 amylopsin
 amylose
@@ -12183,7 +12184,6 @@ asseverates
 anchors
 anchorwise
 anchoveta
-anchovy
 anchovies
 anchtherium
 anchusa
