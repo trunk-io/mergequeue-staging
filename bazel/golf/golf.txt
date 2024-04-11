@@ -56,7 +56,6 @@ gruels
 girosols
 gabionage
 gabioned
-grammes
 gabions
 gormandized
 gablatores
@@ -1657,6 +1656,7 @@ gasps
 gassed
 gassendist
 gasser
+grammes
 gasserian
 gassers
 gasses
