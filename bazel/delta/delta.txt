@@ -1081,7 +1081,6 @@ dartars
 darted
 darter
 darters
-dartingly
 dartingness
 dartle
 dartled
@@ -8718,6 +8717,7 @@ diazole
 diazoma
 diazomethane
 diazonium
+dartingly
 diazotate
 diazotic
 debasing
