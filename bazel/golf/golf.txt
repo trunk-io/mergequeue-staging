@@ -787,7 +787,6 @@ galvanizes
 galvanizing
 galvanocautery
 galvanocauteries
-galvanocauterization
 galvanocontractility
 galvanofaradization
 galvanoglyph
@@ -3730,6 +3729,7 @@ ghettoization
 gummiferous
 ghettoize
 ghettoized
+galvanocauterization
 glossolalist
 ghettoizing
 ghettos
