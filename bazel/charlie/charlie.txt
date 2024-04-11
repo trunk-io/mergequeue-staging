@@ -4794,7 +4794,6 @@ carters
 cartes
 cartesian
 cartesianism
-cartful
 carthaginian
 carthame
 carthamic
@@ -20421,6 +20420,7 @@ companioning
 companionize
 corrugators
 companionized
+cartful
 companionizing
 companions
 companionship
