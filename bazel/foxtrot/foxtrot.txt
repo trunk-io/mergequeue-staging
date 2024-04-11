@@ -1944,7 +1944,6 @@ feeded
 feeder
 feeders
 feedhead
-feedy
 feeding
 feedings
 feedingstuff
@@ -9636,6 +9635,7 @@ facete
 freedmen
 freedom
 freedoms
+feedy
 freedoot
 freedstool
 friableness
