@@ -7790,7 +7790,6 @@ epidialogue
 epidiascope
 estivated
 epidiascopic
-epidictic
 epididymal
 epididymides
 epididymis
@@ -13930,6 +13929,7 @@ extrapolated
 extrapolates
 extrapolating
 extrapolation
+epidictic
 extrapolations
 extrapolative
 extrapolator
