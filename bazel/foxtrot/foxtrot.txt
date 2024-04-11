@@ -8315,7 +8315,6 @@ forisfamiliation
 forjaskit
 forjesket
 forjudge
-folliculosis
 forjudged
 forjudger
 forjudges
@@ -9692,6 +9691,7 @@ freesheet
 freesias
 fraenulum
 freesilverism
+folliculosis
 freesilverite
 freespace
 freest
