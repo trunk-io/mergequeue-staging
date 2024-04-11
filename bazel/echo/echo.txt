@@ -11257,7 +11257,6 @@ eutectics
 eutectoid
 epithetician
 eutelegenic
-endomixis
 euterpean
 eutexia
 euthamia
@@ -12740,6 +12739,7 @@ exomphalous
 exomphalus
 expandibility
 exon
+endomixis
 exonarthex
 exoner
 exonerate
