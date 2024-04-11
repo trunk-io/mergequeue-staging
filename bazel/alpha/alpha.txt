@@ -6877,6 +6877,7 @@ airfoil
 airfoils
 airframe
 airframes
+articulant
 airfreight
 airfreighter
 airglow
@@ -20663,7 +20664,6 @@ articling
 articulability
 articulable
 articulacy
-articulant
 articular
 articulare
 articulary
