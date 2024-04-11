@@ -2806,7 +2806,6 @@ genyophrynidae
 gearboxes
 gynophore
 greyly
-genip
 genipa
 grizzle
 genipap
@@ -9730,6 +9729,7 @@ grunted
 grunter
 grunters
 grunth
+genip
 grunting
 gruntle
 gruntled
