@@ -11085,7 +11085,6 @@ chitterling
 chitterlings
 chitters
 chitty
-chitties
 chitting
 caballeros
 chiule
@@ -24107,6 +24106,7 @@ converts
 conveth
 convex
 convexed
+chitties
 convexedly
 convexedness
 convexes
