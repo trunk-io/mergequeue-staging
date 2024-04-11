@@ -8134,7 +8134,6 @@ epiplopexy
 epipodial
 epipodiale
 epipodialia
-epipodite
 epipoditic
 extracorporeal
 epipodium
@@ -9111,6 +9110,7 @@ eryopid
 eryops
 eryopsid
 eriosoma
+epipodite
 ephemera
 eriphyle
 eris
