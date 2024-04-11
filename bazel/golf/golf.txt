@@ -2849,7 +2849,6 @@ genny
 genoa
 genoas
 genoblast
-genoblastic
 glossological
 genocidal
 galvaniser
@@ -7234,6 +7233,7 @@ gorillaship
 gramash
 gorillian
 gorilline
+genoblastic
 gorilloid
 goriness
 goring
