@@ -4565,6 +4565,7 @@ fittage
 fytte
 fitted
 fittedness
+fibrine
 fitten
 fitters
 fyttes
@@ -6779,7 +6780,6 @@ fogger
 foggers
 fruited
 foggy
-fibrine
 foggier
 foggiest
 fogginess
