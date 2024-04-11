@@ -11466,7 +11466,6 @@ emboldening
 evenglow
 ethnarch
 evenhand
-evenhanded
 evenhandedly
 evenhandedness
 evenhead
@@ -11596,6 +11595,7 @@ evidentially
 evidentiary
 evidently
 evidentness
+evenhanded
 evigilation
 evil
 evildoer
