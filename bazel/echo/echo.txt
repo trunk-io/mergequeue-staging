@@ -5394,7 +5394,6 @@ endothelioid
 endotheliolytic
 endothelioma
 endotheliomas
-endotheliomata
 endotheliomyoma
 endotheliomyxoma
 endotheliotoxin
@@ -10157,6 +10156,7 @@ esuriency
 esurient
 esuriently
 esurine
+endotheliomata
 et
 eta
 etaballi
