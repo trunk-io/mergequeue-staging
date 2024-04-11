@@ -1462,7 +1462,6 @@ garnishees
 garnisheing
 garnishes
 garnishment
-garnishments
 garnison
 garniture
 garon
@@ -5640,6 +5639,7 @@ glisky
 glissader
 glissades
 glissandi
+garnishments
 glissando
 gybe
 gompholobium
