@@ -13140,7 +13140,6 @@ expirations
 expirator
 expiratory
 expire
-exhaustable
 expired
 expiree
 expirer
@@ -13575,6 +13574,7 @@ endorsements
 extensive
 extensively
 extensiveness
+exhaustable
 empathizing
 extensivity
 extensometer
