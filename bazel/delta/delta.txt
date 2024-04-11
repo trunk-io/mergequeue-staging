@@ -263,7 +263,6 @@ dagesh
 dagestan
 dagga
 daggar
-dagged
 dagger
 daggerboard
 daggerbush
@@ -366,6 +365,7 @@ dayfly
 dayflies
 dayflower
 dayflowers
+dagged
 dayglow
 dayglows
 daygoing
