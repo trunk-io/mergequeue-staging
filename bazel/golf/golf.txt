@@ -2922,6 +2922,7 @@ gentle
 gentled
 gentlefolk
 gentlefolks
+glebeless
 gentleheartedly
 gradated
 gentleheartedness
@@ -5336,7 +5337,6 @@ gleba
 glebae
 glebal
 glebe
-glebeless
 glebes
 gleby
 gnosticizer
