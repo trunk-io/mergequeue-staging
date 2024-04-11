@@ -8397,7 +8397,6 @@ alkalin
 alkaline
 alkalinisation
 alkalinise
-alkalinised
 alkalinising
 alkalinity
 alkalinities
@@ -10549,6 +10548,7 @@ amination
 aminded
 amines
 amini
+alkalinised
 aminish
 aminity
 aminities
