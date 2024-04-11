@@ -4655,6 +4655,7 @@ boud
 bedemen
 beden
 bedesman
+bridgebuilder
 bedesmen
 bedeswoman
 bedeswomen
@@ -15232,7 +15233,6 @@ bridge
 bridgeable
 bridgeboard
 bridgebote
-bridgebuilder
 bridgebuilding
 bridged
 bridgehead
