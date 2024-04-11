@@ -4247,7 +4247,6 @@ empresse
 empressements
 empresses
 empressment
-emprime
 emprint
 emprise
 ennoblingly
@@ -9755,6 +9754,7 @@ esotery
 esoteric
 esoterica
 esoterical
+emprime
 esoterically
 esotericism
 esotericist
