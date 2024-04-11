@@ -67,7 +67,6 @@ facelift
 facelifts
 formlessly
 facellite
-facemaker
 facemaking
 faceman
 facemark
@@ -4648,6 +4647,7 @@ fixtureless
 farming
 fixtures
 fixup
+facemaker
 fixups
 fixure
 fixures

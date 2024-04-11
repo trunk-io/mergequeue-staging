@@ -4680,7 +4680,6 @@ advocatress
 advocatrice
 advocatrix
 advoyer
-advoke
 advolution
 advoteresse
 advowee
@@ -16856,6 +16855,7 @@ aloofe
 autoplasties
 archbishop
 aphyllies
+advoke
 aphyllose
 aphyllous
 aphyric
