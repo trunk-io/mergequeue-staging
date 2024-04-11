@@ -7352,7 +7352,6 @@ betel
 betelgeuse
 batitinan
 betell
-betelnut
 betelnuts
 betels
 beterschap
@@ -12513,6 +12512,7 @@ bonnetless
 bonnetlike
 bonnetman
 bonnets
+betelnut
 bonny
 bonnibel
 bonnyclabber
