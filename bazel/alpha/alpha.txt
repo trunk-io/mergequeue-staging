@@ -16730,7 +16730,6 @@ aperch
 apercu
 arean
 apercus
-aperea
 aperient
 aperients
 aperies
@@ -21548,6 +21547,7 @@ assagais
 assahy
 attenuate
 assay
+aperea
 assayable
 assayed
 assayer
