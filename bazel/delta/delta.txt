@@ -13528,7 +13528,6 @@ disservices
 disserving
 dissettle
 dissettlement
-dissever
 disseverance
 disseveration
 dissevered
@@ -17191,6 +17190,7 @@ drivel
 driveled
 driveler
 drivelers
+dissever
 driveline
 driveling
 drivelingly
