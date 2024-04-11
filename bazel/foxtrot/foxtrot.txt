@@ -1114,7 +1114,6 @@ farsight
 farsighted
 farsightedness
 fart
-farted
 flatteringly
 farth
 farther
@@ -5478,6 +5477,7 @@ fletches
 fletchings
 fletton
 fleur
+farted
 fleuret
 fleurette
 fleurettee
