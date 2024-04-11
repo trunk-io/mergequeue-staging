@@ -4991,6 +4991,7 @@ aerographies
 aerogun
 aerohydrodynamic
 accustomized
+amylase
 aerohydropathy
 aerohydroplane
 aerohydrotherapy
@@ -10480,7 +10481,6 @@ amyl
 amylaceous
 amylamine
 amylan
-amylase
 amylases
 amylate
 amildar
