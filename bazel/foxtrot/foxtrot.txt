@@ -1349,7 +1349,6 @@ fatherlike
 fathers
 fathership
 fathmur
-forswore
 fathom
 flautist
 foresaying
@@ -8477,6 +8476,7 @@ formicine
 formicivora
 formicivorous
 formicoidea
+forswore
 formidability
 formidable
 formidableness
