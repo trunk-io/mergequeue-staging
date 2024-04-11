@@ -3569,7 +3569,6 @@ enterozoa
 exembryonate
 embosture
 embottle
-embouchement
 embouchment
 embouchure
 embouchures
@@ -4088,6 +4087,7 @@ empennages
 empeo
 empeople
 empeopled
+embouchement
 empeoplement
 emperess
 empery
