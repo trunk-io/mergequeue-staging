@@ -8802,7 +8802,6 @@ chapmen
 chapon
 chapote
 chapourn
-chapournet
 chapournetted
 chappal
 chappaul
@@ -18050,6 +18049,7 @@ coenzymatic
 coenzymatically
 coenzymes
 coequal
+chapournet
 coequality
 coequalize
 coequally
