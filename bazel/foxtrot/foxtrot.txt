@@ -3025,7 +3025,6 @@ fendillate
 fiberglass
 fiberization
 fiberize
-fiberized
 fiberizer
 fiberizes
 fiberizing
@@ -6728,6 +6727,7 @@ foehn
 foehnlike
 foehns
 foeish
+fiberized
 foeless
 foelike
 forenotice
