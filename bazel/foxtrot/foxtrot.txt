@@ -8432,7 +8432,6 @@ flappering
 formazan
 formazyl
 formboard
-forme
 formed
 formedon
 formee
@@ -10455,6 +10454,7 @@ frontspieces
 frontstall
 fronture
 frontward
+forme
 frontwards
 frontwise
 froom
