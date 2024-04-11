@@ -6189,7 +6189,6 @@ glutinative
 gustatorily
 glutinize
 glutinose
-glutinosity
 glutinous
 glutinously
 glutinousness
@@ -9718,6 +9717,7 @@ grundlov
 grundsil
 grunerite
 gruneritization
+glutinosity
 grungy
 grungier
 grungiest

@@ -9865,7 +9865,6 @@ dimethylanthranilate
 dimethylbenzene
 dimethylcarbinol
 dimethyldiketone
-dimethylhydrazine
 dimethylketol
 dimethylketone
 dimethylmethane
@@ -14228,6 +14227,7 @@ divagates
 divagation
 diphthongal
 divagational
+dimethylhydrazine
 divagationally
 divagations
 divagatory
