@@ -5209,7 +5209,6 @@ gyrencephalate
 glassblower
 glassblowers
 glassblowing
-gambet
 glassed
 glasseye
 glassen
@@ -5923,6 +5922,7 @@ grizzlies
 glossoepiglottic
 glossoepiglottidean
 glossograph
+gambet
 glossographer
 getid
 glossography

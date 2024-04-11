@@ -2510,6 +2510,7 @@ ferox
 ferr
 ferrament
 ferrandin
+fireball
 ferrara
 flockier
 ferrarese
@@ -4133,7 +4134,6 @@ firearm
 firearms
 fireback
 favourably
-fireball
 fireballs
 firebase
 flanky
