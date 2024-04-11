@@ -400,6 +400,7 @@ daimen
 daymen
 doupion
 dormmice
+dispand
 daimiate
 daimiel
 daimio
@@ -12870,7 +12871,6 @@ disp
 dispace
 dispaint
 dispair
-dispand
 dispansive
 dispapalize
 duvetyns
