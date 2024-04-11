@@ -4343,7 +4343,6 @@ falbalas
 fiscalizing
 fixatif
 fischerite
-fiscus
 fise
 forb
 fisetin
@@ -5706,6 +5705,7 @@ flippest
 faveoli
 flipping
 flyproof
+fiscus
 flips
 flirt
 flirtable
