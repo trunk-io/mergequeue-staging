@@ -16,7 +16,6 @@ fibriform
 fabled
 fabledom
 fableland
-fablemaker
 fablemonger
 fablemongering
 fabler
@@ -11291,6 +11290,7 @@ funning
 funori
 funs
 funster
+fablemaker
 funt
 funtumia
 fur

@@ -2393,7 +2393,6 @@ decimated
 decimates
 decimating
 decimation
-decimator
 decime
 decimestrial
 decimeter
@@ -15163,6 +15162,7 @@ dollardom
 dollarfish
 dollarfishes
 dollarleaf
+decimator
 dollars
 dollarwise
 dollbeer
