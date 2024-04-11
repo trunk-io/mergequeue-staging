@@ -12211,7 +12211,6 @@ chrisomloosing
 chrysomonad
 chrysomonadales
 chrysomonadina
-chrysomonadine
 corpuscles
 chrisoms
 chrysopa
@@ -24703,6 +24702,7 @@ coproduct
 coproduction
 coproite
 coprojector
+chrysomonadine
 coprolagnia
 coprolagnist
 coprolaliac
