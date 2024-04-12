@@ -1701,7 +1701,6 @@ eider
 existential
 eiderdown
 eiders
-eidetic
 eidetically
 eidograph
 eidolic
@@ -10396,6 +10395,7 @@ ethynes
 ethinyl
 ethynyl
 ethynylation
+eidetic
 ethinyls
 ethynyls
 ethiodide
