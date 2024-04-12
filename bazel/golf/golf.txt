@@ -775,6 +775,7 @@ galvanically
 galvanisation
 galvanise
 galvanised
+geodesy
 galvanising
 galvanism
 galvanist
@@ -3024,7 +3025,6 @@ geodaesia
 geodal
 gnoff
 geodes
-geodesy
 geodesia
 geodesical
 geodesies

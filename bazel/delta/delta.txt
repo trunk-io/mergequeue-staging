@@ -2250,6 +2250,7 @@ decennial
 decennials
 decennium
 decenniums
+declare
 decennoval
 decent
 decenter
@@ -2484,7 +2485,6 @@ declarator
 declaratory
 declaratorily
 declarators
-declare
 declaredly
 declaredness
 declarer
