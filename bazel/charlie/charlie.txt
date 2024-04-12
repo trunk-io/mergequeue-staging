@@ -11867,6 +11867,7 @@ chordal
 chordamesoderm
 chordamesodermal
 chordamesodermic
+collyweston
 chordata
 chordate
 chordates
@@ -19084,7 +19085,6 @@ collision
 collisional
 collisive
 collywest
-collyweston
 collywobbles
 colloblast
 collobrierite
