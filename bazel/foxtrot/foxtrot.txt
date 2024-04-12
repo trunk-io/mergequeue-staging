@@ -4331,6 +4331,7 @@ firstness
 firsts
 firth
 firths
+forewarn
 fiscal
 fiscalify
 fiscalism
@@ -8165,7 +8166,6 @@ forevow
 foreward
 forewarm
 forewarmer
-forewarn
 forewarned
 forewarner
 forewarning
