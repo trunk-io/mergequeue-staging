@@ -2221,7 +2221,6 @@ elec
 epitra
 elecampane
 elechi
-elecive
 enterprises
 elecives
 elect
@@ -7176,6 +7175,7 @@ envault
 enveigle
 enveil
 envelop
+elecive
 envelope
 enveloped
 enveloper
