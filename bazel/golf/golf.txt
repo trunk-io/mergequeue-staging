@@ -2501,7 +2501,6 @@ granting
 gemeinschaft
 gemeinschaften
 gemel
-gemeled
 gemelled
 gemellion
 gemellione
@@ -3237,6 +3236,7 @@ georgian
 georgiana
 gazetteer
 georgians
+gemeled
 georgic
 galaxies
 gangetic
