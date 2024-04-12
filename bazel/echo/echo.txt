@@ -3154,7 +3154,6 @@ elritch
 epineolithic
 elroquite
 els
-elsa
 else
 estus
 endemic
@@ -13177,6 +13176,7 @@ explantation
 explanted
 explanting
 explat
+elsa
 explement
 explemental
 explementary
