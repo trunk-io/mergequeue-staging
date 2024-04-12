@@ -6375,7 +6375,6 @@ goading
 goadlike
 goads
 goadsman
-goaf
 gumphion
 goajiro
 goal
@@ -7170,6 +7169,7 @@ gore
 gorebill
 gutturalization
 gored
+goaf
 gorefish
 gogos
 gresil
