@@ -5076,7 +5076,6 @@ endlichite
 endlong
 endmost
 endnote
-endnotes
 endoabdominal
 endoangiitis
 exemplum
@@ -10288,6 +10287,7 @@ etherealizing
 ethereally
 etherealness
 escherichia
+endnotes
 etherean
 ethered
 etherene
