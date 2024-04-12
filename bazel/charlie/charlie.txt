@@ -14293,7 +14293,6 @@ circumhorizontal
 circumincession
 circuminsession
 circuminsular
-circumintestinal
 circumitineration
 circumjacence
 circumjacency
@@ -21696,6 +21695,7 @@ condominiia
 condominiiums
 condominium
 condominiums
+circumintestinal
 condoms
 condonable
 condonance
