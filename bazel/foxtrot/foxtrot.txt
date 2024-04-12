@@ -4647,7 +4647,6 @@ fixture
 fumigators
 fixtureless
 farming
-fixtures
 fixup
 fixups
 fixure
@@ -9955,6 +9954,7 @@ fricace
 fricandeau
 fricandeaux
 fricandel
+fixtures
 fricandelle
 fricando
 fricassee
