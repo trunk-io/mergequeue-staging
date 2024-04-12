@@ -8287,7 +8287,6 @@ chalybes
 chalybite
 chalice
 chaliced
-chalices
 chalicosis
 chalicothere
 chalicotheriid
@@ -25214,6 +25213,7 @@ corkier
 corkiest
 corkiness
 corking
+chalices
 corkir
 corkish
 corkite
