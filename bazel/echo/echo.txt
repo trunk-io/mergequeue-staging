@@ -2207,6 +2207,7 @@ elderwort
 eldfather
 eldin
 eldmother
+emulsibility
 eldorado
 eldred
 eventuate
@@ -4316,7 +4317,6 @@ emulously
 escambio
 emulousness
 emuls
-emulsibility
 emulsic
 emulsify
 emulsifiability
