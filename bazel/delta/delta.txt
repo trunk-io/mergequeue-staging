@@ -3603,7 +3603,6 @@ deglamorize
 deglamorized
 deglamorizing
 deglaze
-deglazed
 deglazes
 deglazing
 deglycerin
@@ -13609,6 +13608,7 @@ dyssynergy
 dyssynergia
 dissinew
 dissipate
+deglazed
 dissipated
 ding
 dissipatedly
