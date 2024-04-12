@@ -12371,7 +12371,6 @@ disilicide
 disyllabic
 disyllabism
 disyllabize
-disyllabized
 decarch
 disillude
 disilluded
@@ -15605,6 +15604,7 @@ doorsteps
 doorstop
 deaconize
 doorstops
+disyllabized
 doorway
 doorways
 doorward
