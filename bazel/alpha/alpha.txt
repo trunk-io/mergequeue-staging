@@ -6709,6 +6709,7 @@ aiglets
 aiglette
 aigre
 aigremore
+antennata
 alkaligen
 aigret
 aigrets
@@ -14189,7 +14190,6 @@ antennariid
 antennariidae
 antennarius
 antennas
-antennata
 antennate
 antennifer
 antenniferous
