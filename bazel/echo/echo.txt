@@ -6406,7 +6406,6 @@ enshrinements
 enshrines
 enshroud
 enshrouded
-enshrouding
 enshrouds
 ensient
 ensiferi
@@ -13430,6 +13429,7 @@ exquisite
 exquisitely
 exquisitism
 exquisitive
+enshrouding
 exquisitiveness
 exradio
 exradius
