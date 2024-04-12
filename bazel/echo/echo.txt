@@ -2198,7 +2198,6 @@ encephalosis
 enrichment
 eldership
 eldersisterly
-elderwoman
 elderwomen
 elderwood
 elderwort
@@ -7569,6 +7568,7 @@ ephorate
 ephorates
 ephori
 ephoric
+elderwoman
 ephors
 ephorship
 ephphatha
