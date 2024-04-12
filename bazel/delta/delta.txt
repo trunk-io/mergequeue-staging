@@ -3881,7 +3881,6 @@ dejectedly
 dejectedness
 dejectile
 dejecting
-dejection
 dejections
 dejectly
 dejectory
@@ -8062,6 +8061,7 @@ diacetamide
 diacetate
 diacetic
 diacetyl
+dejection
 dipsetic
 diacetylene
 diacetylmorphine
