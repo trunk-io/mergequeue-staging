@@ -921,7 +921,6 @@ archegoniate
 absconding
 absconds
 absconsa
-abscoulomb
 abscound
 absee
 absey
@@ -13569,6 +13568,7 @@ anno
 annodated
 anticipation
 annoy
+abscoulomb
 annoyance
 annoyancer
 attributal
