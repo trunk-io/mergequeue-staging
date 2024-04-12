@@ -155,7 +155,6 @@ gael
 gaeldom
 generalizes
 gaelic
-gaelicist
 gaelicization
 gaelicize
 gaels
@@ -450,6 +449,7 @@ galegine
 galei
 gumshoes
 galey
+gaelicist
 galeid
 galeidae
 galeiform
