@@ -13639,7 +13639,6 @@ annularly
 annulate
 annulated
 annulately
-annulation
 amidated
 annulations
 annule
@@ -14279,6 +14278,7 @@ anteroinferior
 anterointerior
 anterointernal
 anterolateral
+annulation
 anterolaterally
 anteromedial
 anteromedian
