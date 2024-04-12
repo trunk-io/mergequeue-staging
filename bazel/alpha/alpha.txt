@@ -6464,6 +6464,7 @@ agriculturalist
 agriculturalists
 agriculturally
 agriculture
+appraised
 agriculturer
 agricultures
 agriculturist
@@ -17893,7 +17894,6 @@ appraisable
 appraisal
 appraisals
 appraise
-appraised
 appraisement
 appraiser
 appraisers
