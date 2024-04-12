@@ -9491,7 +9491,6 @@ frater
 fratery
 frateries
 fraternal
-fraternalism
 fraternalist
 fraternality
 filose
@@ -11408,6 +11407,7 @@ furler
 furless
 furling
 furlong
+fraternalism
 filago
 furlongs
 fluoroscope

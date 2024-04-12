@@ -5601,7 +5601,6 @@ afterchrome
 afterchurch
 afterclap
 afterclause
-aftercome
 aftercomer
 aftercoming
 aftercooler
@@ -21769,6 +21768,7 @@ assimilating
 aerophobia
 assimilationist
 assimilative
+aftercome
 assimilativeness
 assimilator
 assimilatory
