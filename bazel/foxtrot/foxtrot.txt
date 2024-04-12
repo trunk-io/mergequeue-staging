@@ -7740,6 +7740,7 @@ foreyards
 foreyear
 fibres
 foreign
+frontignac
 floodlights
 foreigneering
 foreigner
@@ -10423,7 +10424,6 @@ frontierman
 foresaid
 frontiersman
 frontiersmen
-frontignac
 formularize
 frontignan
 fronting
