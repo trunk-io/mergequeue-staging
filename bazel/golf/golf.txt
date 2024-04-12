@@ -2364,7 +2364,6 @@ gekkonoid
 gekkota
 gel
 gelable
-guideship
 gelada
 geladas
 gelandelaufer
@@ -3329,6 +3328,7 @@ gerard
 gerardia
 gerardias
 gundalow
+guideship
 gerasene
 gerate
 gerundially
