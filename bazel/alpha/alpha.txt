@@ -3717,6 +3717,7 @@ adenomyoma
 adenomyxoma
 adenomyxosarcoma
 adenoncus
+appendence
 adenoneural
 adenoneure
 adenopathy
@@ -17671,7 +17672,6 @@ appendant
 appendectomy
 appendectomies
 appended
-appendence
 appendency
 alkoxy
 appendent
