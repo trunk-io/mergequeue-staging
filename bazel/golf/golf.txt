@@ -5219,7 +5219,6 @@ glasshouse
 glasshouses
 glassy
 glassie
-gateaux
 glassies
 glassiest
 glassily
@@ -7359,6 +7358,7 @@ goth
 gotham
 gothamite
 gothic
+gateaux
 gothically
 gothicist
 gothicity

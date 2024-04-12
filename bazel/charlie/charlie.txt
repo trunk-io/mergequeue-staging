@@ -18214,7 +18214,6 @@ cofinal
 coforeknown
 coformulator
 cofound
-cofounded
 cofounder
 cofounding
 cofoundress
@@ -19956,6 +19955,7 @@ commemoratory
 concupiscent
 commemorators
 commemorize
+cofounded
 commemorized
 commemorizing
 commence
