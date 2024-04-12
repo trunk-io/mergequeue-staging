@@ -3171,6 +3171,7 @@ actinophorous
 actinophryan
 actinophrys
 actinopod
+alumstone
 actinopoda
 actinopraxis
 actinopteran
@@ -12568,7 +12569,6 @@ amishgo
 anesthesimeter
 anesthesiology
 anesthesiologies
-alumstone
 anesthesiologist
 anesthesiologists
 anesthesiometer
