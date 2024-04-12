@@ -3821,7 +3821,6 @@ deindividualize
 deindividuate
 dicarboxylate
 deindustrialize
-deink
 deino
 deinocephalia
 deinoceras
@@ -9621,6 +9620,7 @@ diiodotyrosine
 diipenates
 diipolia
 diisatogen
+deink
 dijudicant
 dijudicated
 dijudicating
