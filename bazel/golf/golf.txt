@@ -3196,7 +3196,6 @@ geophysicist
 geophysicists
 geophysics
 geophytic
-gobbin
 guardlike
 geophone
 geophones
@@ -3752,6 +3751,7 @@ ghole
 ghoom
 ghorkhar
 ghost
+gobbin
 ghostdom
 ghosted
 ghostess
