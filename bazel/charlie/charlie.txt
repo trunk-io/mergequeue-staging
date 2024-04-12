@@ -3594,7 +3594,6 @@ carbanilide
 carbaryl
 camden
 carbaryls
-carbarn
 carbarns
 carbasus
 carbazic
@@ -8923,6 +8922,7 @@ charca
 charcia
 crenelating
 charco
+carbarn
 charcoal
 charcoaled
 charcoaly
