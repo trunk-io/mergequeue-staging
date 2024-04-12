@@ -1488,7 +1488,6 @@ deaconries
 deacons
 deaconship
 deactivate
-deactivated
 deactivates
 discontinuing
 deactivating
@@ -10912,6 +10911,7 @@ dysadaptation
 disadjust
 disadorn
 disadvance
+deactivated
 disadvanced
 disadvancing
 disadvantage
