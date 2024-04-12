@@ -11403,7 +11403,6 @@ discoast
 discoblastic
 deriv
 discoblastula
-discoboli
 discobolos
 discobolus
 discocarp
@@ -17505,6 +17504,7 @@ drugged
 drugger
 dislodge
 duplon
+discoboli
 deliverability
 druggery
 druggeries

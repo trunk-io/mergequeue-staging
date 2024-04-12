@@ -5385,6 +5385,7 @@ endothecal
 euchite
 endothecia
 endothecial
+eryngium
 empoisoner
 endothecium
 elaps
@@ -9082,7 +9083,6 @@ erin
 erinaceidae
 erinaceus
 erineum
-eryngium
 eringo
 eryngo
 eleutheri
