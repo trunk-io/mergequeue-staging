@@ -7832,7 +7832,6 @@ grumousness
 grammars
 grammatic
 grammatical
-grammaticality
 gateau
 glossate
 grammatically
@@ -8877,6 +8876,7 @@ grf
 gribane
 gribble
 gribbles
+grammaticality
 grice
 grid
 gridded
