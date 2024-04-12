@@ -6285,7 +6285,6 @@ benim
 benin
 benincasa
 beniseed
-benison
 benisons
 benitier
 benitoite
@@ -9086,6 +9085,7 @@ biomes
 biometeorology
 biometer
 biometry
+benison
 biometric
 bushwhacked
 biometrical
