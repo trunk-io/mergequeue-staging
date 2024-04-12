@@ -1862,6 +1862,7 @@ gastrophilus
 gastrophrenic
 gastrophthisis
 gastroplasty
+gnarring
 gastropleuritis
 gastroplication
 gastropneumatic
@@ -6241,7 +6242,6 @@ gnarling
 gnarls
 gnarr
 gnarred
-gnarring
 gnars
 gnash
 gnashed
