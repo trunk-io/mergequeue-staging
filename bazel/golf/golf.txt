@@ -661,7 +661,6 @@ gallinula
 gallinule
 gallinulelike
 gallinulinae
-gallinuline
 galliot
 galliots
 gallipot
@@ -9625,6 +9624,7 @@ grudgingness
 guaraunan
 grue
 gruel
+gallinuline
 grueled
 gelosin
 gisla
