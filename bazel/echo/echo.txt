@@ -9525,7 +9525,6 @@ eurhythmical
 etherical
 escapeful
 escapeless
-escapement
 escaper
 escapers
 escapes
@@ -13371,6 +13370,7 @@ expresso
 expressor
 expressure
 expressway
+escapement
 expressways
 exprimable
 exprobrate
