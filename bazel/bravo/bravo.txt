@@ -3949,7 +3949,6 @@ bazzite
 bb
 bbl
 bbs
-bcd
 bcf
 bch
 bchs
@@ -11548,6 +11547,7 @@ boas
 boast
 boasted
 boaster
+bcd
 boasters
 boastful
 boastfully
