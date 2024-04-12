@@ -6584,7 +6584,6 @@ flustrum
 forbar
 flute
 flutebird
-fluted
 filagreeing
 flutey
 flutelike
@@ -11352,6 +11351,7 @@ furcula
 furculae
 faulkland
 furcule
+fluted
 furculum
 furdel
 flyblowing

@@ -5446,6 +5446,7 @@ endows
 endozoa
 endozoic
 endpaper
+evenlong
 endpapers
 endpiece
 extranidal
@@ -11476,7 +11477,6 @@ evenhead
 evening
 evenly
 evenlight
-evenlong
 evenmete
 evenminded
 evenmindedness
