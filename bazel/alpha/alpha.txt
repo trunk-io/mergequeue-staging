@@ -8742,7 +8742,6 @@ alliterated
 alliterates
 alliterating
 alliteration
-alliterational
 alliterationist
 alliterative
 alliteratively
@@ -11316,6 +11315,7 @@ amplificator
 amplificatory
 amplified
 amplifier
+alliterational
 amplifiers
 amplifies
 amplifying
