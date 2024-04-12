@@ -2749,7 +2749,6 @@ acquittance
 acquitted
 acquitter
 acquitting
-acquophonia
 acrab
 acracy
 acraein
@@ -15132,6 +15131,7 @@ antidogmatist
 antidomestic
 alogian
 antidomestically
+acquophonia
 antidominican
 antidora
 antidoron
