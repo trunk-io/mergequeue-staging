@@ -8434,7 +8434,6 @@ chametz
 chamfer
 chamfered
 chamferer
-chamfering
 chamfers
 chamfrain
 cradock
@@ -19336,6 +19335,7 @@ colorado
 coloradoite
 colorant
 colorants
+chamfering
 colorate
 coloration
 colorational
