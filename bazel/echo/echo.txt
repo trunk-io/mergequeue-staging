@@ -3799,7 +3799,6 @@ epupillate
 emeership
 emeline
 emend
-emendable
 emendandum
 emendate
 emendated
@@ -9929,6 +9928,7 @@ establishable
 established
 establisher
 establishes
+emendable
 establishing
 establishment
 establishmentarian
