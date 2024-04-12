@@ -3104,7 +3104,6 @@ actinobranchia
 actinocarpic
 actinocarpous
 actinochemical
-actinochemistry
 actinocrinid
 actinocrinidae
 actinocrinite
@@ -13951,6 +13950,7 @@ ansate
 ansated
 anschauung
 anschluss
+actinochemistry
 anseis
 anselm
 anser
