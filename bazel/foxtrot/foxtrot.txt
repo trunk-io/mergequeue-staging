@@ -163,7 +163,6 @@ fielded
 factionate
 factioneer
 factionism
-faradopalpation
 factionist
 factionistism
 factions
@@ -11744,4 +11743,5 @@ fw
 fwd
 fwelling
 fz
+faradopalpation
 fish
