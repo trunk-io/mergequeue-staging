@@ -3625,7 +3625,6 @@ geta
 getable
 getae
 getah
-glycolide
 getas
 getatable
 giansar
@@ -5340,6 +5339,7 @@ glebal
 glebe
 glebeless
 glebes
+glycolide
 gleby
 gnosticizer
 glebous
