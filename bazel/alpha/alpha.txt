@@ -4577,7 +4577,6 @@ adventurer
 adventurers
 adventures
 adventureship
-adventuresome
 adventuresomely
 adventuresomeness
 adventuresomes
@@ -5188,6 +5187,7 @@ aethalia
 aethalioid
 abstriction
 aethalium
+adventuresome
 aetheling
 aetheogam
 aetheogamic

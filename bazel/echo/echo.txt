@@ -6402,7 +6402,6 @@ enshrinement
 enshrinements
 enshrines
 enshroud
-enshrouded
 enshrouding
 enshrouds
 ensient
@@ -8411,6 +8410,7 @@ equivocating
 epitomatory
 epitome
 epitomes
+enshrouded
 epitomic
 epitomical
 epitomically
