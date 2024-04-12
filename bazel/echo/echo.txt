@@ -12220,6 +12220,7 @@ excud
 excudate
 excuderunt
 excudit
+extrusory
 exulcerated
 exculpable
 exculpate
@@ -14112,7 +14113,6 @@ extrusile
 extrusion
 extrusions
 extrusive
-extrusory
 extubate
 extubation
 extuberance
