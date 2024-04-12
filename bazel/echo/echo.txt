@@ -4800,7 +4800,6 @@ encode
 encoded
 encoder
 encoders
-encoding
 encodings
 encoffin
 exuviation
@@ -13774,6 +13773,7 @@ extracivically
 extraclassroom
 extraclaustral
 extracloacal
+encoding
 extracollegiate
 extracolumella
 extracondensed
