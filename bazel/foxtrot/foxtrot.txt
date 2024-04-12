@@ -6511,7 +6511,6 @@ fluorometer
 folklore
 fluorometry
 fluorophosphate
-fluoroscoped
 fluoroscopes
 fico
 fluoroscopy
@@ -9692,6 +9691,7 @@ freemartin
 freemason
 freemasonic
 freemasonical
+fluoroscoped
 freemasonism
 freemasons
 freen
