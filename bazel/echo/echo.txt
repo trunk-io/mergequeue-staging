@@ -3552,7 +3552,6 @@ emboscata
 embosk
 embosked
 educables
-embosking
 embosks
 embosom
 embosomed
@@ -10167,6 +10166,7 @@ eta
 etaballi
 etabelli
 etacism
+embosking
 etacist
 etaerio
 etageres
