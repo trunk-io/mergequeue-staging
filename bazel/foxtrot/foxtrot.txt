@@ -2581,7 +2581,6 @@ ferris
 forweep
 fribblery
 ferrites
-ferritic
 ferritins
 ferritization
 ferritungstite
@@ -4292,6 +4291,7 @@ firmarius
 firmation
 firmed
 firmer
+ferritic
 firmers
 firmest
 firmhearted
