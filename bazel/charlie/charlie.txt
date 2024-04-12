@@ -24025,7 +24025,6 @@ convents
 conventual
 conventually
 converge
-coexchangeable
 converged
 convergement
 convergence
@@ -25846,6 +25845,7 @@ corsets
 corsy
 corsican
 circumscribes
+coexchangeable
 corsie
 corsite
 corslet
