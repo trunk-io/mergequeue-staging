@@ -8402,6 +8402,7 @@ chamberfellow
 chambering
 caterership
 chamberlain
+coresort
 chamberlainry
 chamberlains
 chamberlainship
@@ -25084,7 +25085,6 @@ coresidence
 coresidual
 coresign
 coresonant
-coresort
 corespect
 corespondent
 corespondents
