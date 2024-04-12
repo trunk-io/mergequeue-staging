@@ -7390,6 +7390,7 @@ forbidals
 forbiddal
 forbiddance
 forbidden
+ftnerr
 forbiddenly
 fissidens
 forbiddenness
@@ -10784,7 +10785,6 @@ fth
 fthm
 forwardation
 ftncmd
-ftnerr
 frenetic
 fu
 fuage
