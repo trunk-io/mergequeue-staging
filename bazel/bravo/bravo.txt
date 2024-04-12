@@ -5246,7 +5246,6 @@ begaze
 begazes
 begazing
 begem
-begemmed
 begemming
 beget
 begettal
@@ -15293,6 +15292,7 @@ bleeds
 briefs
 brier
 brierberry
+begemmed
 briered
 briery
 brierroot
