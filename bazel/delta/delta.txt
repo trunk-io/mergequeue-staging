@@ -4505,6 +4505,7 @@ demibob
 dossel
 demibrassart
 demibrigade
+disbursements
 demibrute
 demibuckram
 demicadence
@@ -11231,7 +11232,6 @@ disbursal
 disbursals
 disburse
 disbursed
-disbursements
 disburser
 disburses
 disbursing
