@@ -7173,7 +7173,6 @@ detenu
 detenue
 detenues
 deter
-deterge
 deterged
 detergence
 detergency
@@ -10287,6 +10286,7 @@ dyophysitic
 dyophysitical
 dyophysitism
 dyophone
+deterge
 diopsidae
 diopside
 diopsides
