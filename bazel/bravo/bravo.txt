@@ -6543,6 +6543,7 @@ beperiwigged
 bepewed
 bephilter
 bephrase
+betray
 bepicture
 bepiece
 bepierce
@@ -10423,7 +10424,6 @@ blastogenesis
 blastogenetic
 blastogeny
 blastogenic
-betray
 blastogranitic
 blastoid
 blastoma
