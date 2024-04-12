@@ -4355,7 +4355,6 @@ adrenal
 adrenalcortical
 adrenalectomy
 adrenalectomies
-antidorcas
 adrenalectomize
 adrenalectomized
 adrenalectomizing
@@ -7107,6 +7106,7 @@ akanekunik
 akania
 akaniaceae
 akaroa
+antidorcas
 akasa
 akasha
 akawai
