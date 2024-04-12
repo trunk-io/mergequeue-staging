@@ -8134,6 +8134,7 @@ foretokening
 foretokens
 fretless
 foretold
+fungibility
 foretooth
 flinches
 foretop
@@ -11199,7 +11200,6 @@ funge
 fungi
 fungia
 fungian
-fungibility
 fungible
 fungibles
 fungic
