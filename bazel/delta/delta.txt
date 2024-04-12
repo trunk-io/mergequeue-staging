@@ -5268,7 +5268,6 @@ dentale
 damoclean
 dentalgia
 dentalia
-dentalised
 dentalising
 dentalism
 dentality
@@ -17644,6 +17643,7 @@ dsnames
 dsp
 dsr
 dsri
+dentalised
 dt
 dtd
 dtente
