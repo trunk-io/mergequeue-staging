@@ -4601,6 +4601,7 @@ enwiden
 encephalopsychesis
 encephalorrhagia
 encephalos
+endogenesis
 encephalosclerosis
 encephaloscope
 encephaloscopy
@@ -5186,7 +5187,6 @@ endogastrically
 endogastritis
 endogen
 endogenae
-endogenesis
 endogenetic
 endogeny
 endogenic
