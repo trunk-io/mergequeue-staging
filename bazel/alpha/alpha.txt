@@ -14285,7 +14285,6 @@ anteroparietal
 anteropygal
 anteroposterior
 anteroposteriorly
-anterospinal
 anterosuperior
 anteroventral
 antes
@@ -22408,6 +22407,7 @@ academial
 atatschite
 ataunt
 ataunto
+anterospinal
 antelopian
 atavi
 atavic

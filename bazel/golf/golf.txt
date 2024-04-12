@@ -3681,7 +3681,6 @@ gharnao
 gastronomy
 gharries
 gigas
-gharris
 ghassanid
 ghast
 ghastful
@@ -10404,6 +10403,7 @@ gumma
 gummage
 gummaker
 grasswards
+gharris
 gummaking
 gummas
 gummata
