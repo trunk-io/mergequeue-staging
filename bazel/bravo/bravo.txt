@@ -5796,7 +5796,6 @@ boxers
 bellflower
 bellhanging
 bellhop
-bellhops
 bellhouse
 belli
 belly
@@ -14739,6 +14738,7 @@ breach
 breached
 breacher
 breachers
+bellhops
 breaches
 breachful
 breachy
