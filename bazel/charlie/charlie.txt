@@ -19724,6 +19724,7 @@ combusted
 combustibility
 combustibilities
 combustible
+cornhusk
 combustibleness
 combustibles
 combustibly
@@ -25343,7 +25344,6 @@ cornflowers
 corngrower
 cornhole
 cornhouse
-cornhusk
 cornhusker
 cornhusking
 cornhusks
