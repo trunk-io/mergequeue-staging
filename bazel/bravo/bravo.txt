@@ -12227,6 +12227,7 @@ bom
 boma
 bomarea
 bomb
+bonce
 bombable
 bombacaceae
 bombace
@@ -12361,7 +12362,6 @@ betsimisaraka
 bonbonniere
 bonbonnieres
 bonbons
-bonce
 bonchief
 bond
 berberins
