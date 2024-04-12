@@ -3062,6 +3062,7 @@ ellipsometry
 ellipsone
 ellipsonic
 elliptic
+everett
 elliptical
 elliptically
 ellipticalness
@@ -5077,7 +5078,6 @@ endoappendicitis
 endoarteritis
 endoauscultation
 endobatholithic
-everett
 endobiotic
 endoblast
 endoblastic
