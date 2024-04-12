@@ -5229,6 +5229,7 @@ denouncer
 denouncers
 denounces
 denouncing
+detuning
 dens
 densate
 densation
@@ -7374,7 +7375,6 @@ detumescence
 detumescent
 detune
 detuned
-detuning
 detur
 deturb
 deturn
