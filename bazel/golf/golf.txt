@@ -882,7 +882,6 @@ gristles
 gambirs
 gambist
 gambits
-gamble
 gambler
 gamblers
 gambles
@@ -6195,6 +6194,7 @@ glutinosity
 glutinous
 glutinously
 glutinousness
+gamble
 glutoid
 glutose
 gluts
