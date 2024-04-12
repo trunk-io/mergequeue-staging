@@ -1910,7 +1910,6 @@ acephalite
 acephalocyst
 alveloz
 acephalous
-anticipatory
 akoasma
 acephalus
 acepots
@@ -6759,6 +6758,7 @@ ailed
 aileen
 aileron
 ailerons
+anticipatory
 aylesbury
 aporetical
 ayless
