@@ -7611,7 +7611,6 @@ epicanthic
 epicanthus
 epicardia
 epicardium
-epicarid
 epicaridan
 epicaridea
 epicarides
@@ -10536,6 +10535,7 @@ ethnozoological
 ethography
 etholide
 ethology
+epicarid
 ethologic
 ethological
 ethologically
