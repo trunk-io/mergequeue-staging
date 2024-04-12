@@ -446,7 +446,6 @@ eccentricities
 eccentrics
 eccentring
 ecch
-ecchymoma
 ecchymose
 ecchymosed
 ecchymosis
@@ -10194,6 +10193,7 @@ esmeraldite
 etchant
 etched
 etcher
+ecchymoma
 etchers
 etches
 etchimin
