@@ -7415,7 +7415,6 @@ ceratobatrachinae
 ceratoblast
 chebulinic
 ceratobranchial
-ceratocystis
 ceratocricoid
 ceratodidae
 ceratodontidae
@@ -7564,6 +7563,7 @@ cerebromalacia
 cerebromedullary
 cerebromeningeal
 cerebromeningitis
+ceratocystis
 cerebrometer
 cassumuniar
 cerebron
