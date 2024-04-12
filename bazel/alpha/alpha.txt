@@ -3185,6 +3185,7 @@ actinosphaerium
 actinost
 actinostereoscopy
 actinostomal
+aspic
 actinostome
 actinotherapeutic
 actinotherapeutics
@@ -21462,7 +21463,6 @@ asphodel
 asphodelaceae
 asphodelus
 aspy
-aspic
 aspics
 aspiculate
 aspidate

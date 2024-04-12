@@ -1102,7 +1102,6 @@ farrierlike
 farriers
 farris
 farrisite
-farrow
 farrowing
 farrows
 farruca
@@ -8447,6 +8446,7 @@ formazyl
 formboard
 forme
 formed
+farrow
 formedon
 formee
 formel
