@@ -4242,7 +4242,6 @@ firesider
 firesideship
 firespout
 firestone
-firestop
 firestopping
 firestorm
 firethorn
@@ -6654,6 +6653,7 @@ fluxionist
 fluxions
 fluxive
 fluxmeter
+firestop
 fluxroot
 fluxure
 fn

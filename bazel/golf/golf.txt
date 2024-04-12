@@ -7595,7 +7595,6 @@ gracefully
 graceless
 gracelessly
 gamophagy
-gracelessness
 gracelike
 gracer
 graces
@@ -8622,6 +8621,7 @@ greekism
 greekist
 greekize
 greekless
+gracelessness
 goldfinnies
 greekling
 geranials
