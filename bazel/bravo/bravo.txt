@@ -4774,6 +4774,7 @@ bedouse
 bedown
 bedpad
 bradding
+biomes
 bedpan
 besmirching
 bedpans
@@ -9082,7 +9083,6 @@ biomechanical
 biomechanics
 biomedical
 biomedicine
-biomes
 biometeorology
 biometer
 biometry
