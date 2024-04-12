@@ -1547,6 +1547,7 @@ eggcups
 eggeater
 egged
 egger
+epistemic
 eggers
 envapour
 eggfish
@@ -8250,7 +8251,6 @@ electrophotometer
 epistatic
 epistaxis
 episteme
-epistemic
 epistemically
 epistemolog
 epistemologically
