@@ -2334,7 +2334,6 @@ deciare
 deciares
 deciatine
 decibar
-decibel
 decibels
 deciceronize
 decidability
@@ -4720,6 +4719,7 @@ demivolts
 demivotary
 dihydronicotine
 demiwivern
+decibel
 demiwolf
 demiworld
 demnition
