@@ -44,6 +44,7 @@ fabrique
 fabronia
 fabroniaceae
 fabula
+fermatas
 fabular
 foreshowing
 fabulate
@@ -2432,7 +2433,6 @@ fermage
 fermail
 fermal
 fermata
-fermatas
 fermate
 fleshed
 fermatian
