@@ -2056,7 +2056,6 @@ acetylenyl
 acetylenogen
 acetylfluoride
 acetylglycin
-acetylglycine
 acetylhydrazine
 acetylic
 acetylid
@@ -14692,6 +14691,7 @@ antiadiaphorist
 antiaditis
 antiadministration
 antiae
+acetylglycine
 antiager
 antiagglutinant
 antiagglutinating
