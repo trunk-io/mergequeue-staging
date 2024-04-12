@@ -11366,7 +11366,6 @@ bluestockings
 bluestoner
 bluet
 blueth
-bluethroat
 bluetick
 bluetit
 bluetongue
@@ -12098,6 +12097,7 @@ boletes
 boleti
 byrled
 boletus
+bluethroat
 boletuses
 boleweed
 bolewort
