@@ -14212,6 +14212,7 @@ antenumber
 antenuptial
 amphibious
 anteoccupation
+assentive
 anteocular
 anteopercle
 anteoperculum
@@ -21650,7 +21651,6 @@ assenters
 assentient
 assenting
 assentingly
-assentive
 assentiveness
 alphyn
 assentor
