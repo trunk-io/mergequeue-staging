@@ -15392,6 +15392,7 @@ clannishly
 clannishness
 clans
 clansfolk
+cursoria
 clanship
 clansman
 clansmanship
@@ -31495,7 +31496,6 @@ cursor
 cursorary
 cursores
 cursory
-cursoria
 cursorial
 cursoriidae
 cursorily
