@@ -7200,7 +7200,6 @@ envy
 enviable
 enviableness
 enviably
-envied
 enviers
 explants
 envigor
@@ -10255,6 +10254,7 @@ ethanim
 ethanoyl
 ethanol
 ethanolamine
+envied
 ethanolysis
 ethchlorvynol
 epipolize
