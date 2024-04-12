@@ -2578,7 +2578,6 @@ forweep
 fribblery
 ferrites
 ferritic
-ferritin
 ferritins
 ferritization
 ferritungstite
@@ -9368,6 +9367,7 @@ francize
 franco
 francois
 francolin
+ferritin
 fontainea
 francolite
 francomania
