@@ -2461,7 +2461,6 @@ electrolysis
 electrolyte
 electrolithotrity
 electrolytic
-electrolytical
 electrolytically
 electrolyzability
 electrolyzation
@@ -6488,6 +6487,7 @@ ensouling
 ensouls
 enspangle
 ensphere
+electrolytical
 ensphered
 enspheres
 ensphering
