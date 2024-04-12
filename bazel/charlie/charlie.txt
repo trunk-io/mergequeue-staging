@@ -11944,6 +11944,7 @@ chorioadenoma
 chorioallantoic
 chorioallantoid
 chorioallantois
+contermine
 choriocapillary
 choriocapillaris
 choriocarcinoma
@@ -23430,7 +23431,6 @@ callorhynchus
 conterminal
 conterminant
 conterminate
-contermine
 conterminous
 conterminously
 conterminousness

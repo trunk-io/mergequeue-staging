@@ -2795,7 +2795,6 @@ fetched
 frontosquamosal
 filanders
 fetcher
-fetchers
 fetches
 fetching
 fetchingly
@@ -7592,6 +7591,7 @@ foreconceive
 foreconclude
 foreconscious
 foreconsent
+fetchers
 foreconsider
 forecontrive
 fazendas
