@@ -15601,7 +15601,6 @@ classmanship
 chillo
 classmate
 classroom
-classrooms
 classwise
 coccidioidomycosis
 classwork
@@ -25947,6 +25946,7 @@ corvinas
 corvine
 corviser
 corvisor
+classrooms
 corvktte
 corvo
 corvoid
