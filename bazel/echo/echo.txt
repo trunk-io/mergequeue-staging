@@ -2919,7 +2919,6 @@ elide
 enameloma
 elided
 enameler
-elides
 elidible
 eliding
 elydoric
@@ -2985,6 +2984,7 @@ espousal
 epopee
 elitists
 elytra
+elides
 elytral
 elytriferous
 elytriform
