@@ -8483,7 +8483,6 @@ alkylarylsulfonate
 alkylate
 alkylated
 alkylates
-alkylating
 alkylation
 alkylbenzenesulfonate
 alkylbenzenesulfonates
@@ -17873,6 +17872,7 @@ apportionments
 apportions
 apposability
 appose
+alkylating
 apposed
 apposer
 apposers
