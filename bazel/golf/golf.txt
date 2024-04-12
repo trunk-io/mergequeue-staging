@@ -1130,7 +1130,6 @@ ganglionate
 grayness
 ganglionated
 ganglionectomy
-ganglionectomies
 ganglioneural
 ganglioneure
 goschens
@@ -9929,6 +9928,7 @@ guardians
 guardianship
 guardianships
 guarding
+ganglionectomies
 guardless
 guardo
 guardrail
