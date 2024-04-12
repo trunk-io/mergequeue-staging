@@ -6402,6 +6402,7 @@ decadenza
 desalinizing
 desalt
 desalted
+downface
 desalter
 desalters
 desalting
@@ -16257,7 +16258,6 @@ downdraught
 downed
 downer
 downers
-downface
 downfall
 downfallen
 downfeed
