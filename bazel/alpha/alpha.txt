@@ -7295,7 +7295,6 @@ alans
 alant
 alantic
 alantin
-alantol
 alantolactone
 alantolic
 alants
@@ -13604,6 +13603,7 @@ annotations
 annotative
 annotatively
 annotativeness
+alantol
 annotator
 annotatory
 annotators
