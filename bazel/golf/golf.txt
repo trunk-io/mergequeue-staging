@@ -2211,7 +2211,6 @@ gazophylacium
 gazpacho
 gazpachos
 germiparity
-gazump
 graders
 gazzetta
 gcd
@@ -7367,6 +7366,7 @@ gothicness
 gothics
 gothish
 gothism
+gazump
 gothite
 gothites
 gothlander
