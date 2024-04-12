@@ -5266,7 +5266,6 @@ affectationist
 affectations
 affected
 affectedly
-anthropogeny
 affectedness
 affecter
 affecters
@@ -23019,6 +23018,7 @@ adfix
 attenuators
 atter
 attercop
+anthropogeny
 attercrop
 attery
 atterminal

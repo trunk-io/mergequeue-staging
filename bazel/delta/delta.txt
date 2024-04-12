@@ -5495,7 +5495,6 @@ deoxygenated
 deoxygenating
 deoxygenation
 deprecate
-delphinium
 deoxygenization
 deoxygenize
 deoxygenized
@@ -11406,6 +11405,7 @@ discoboli
 discobolos
 discobolus
 discocarp
+delphinium
 discocarpium
 discocarpous
 discocephalous
