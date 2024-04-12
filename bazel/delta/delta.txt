@@ -455,6 +455,7 @@ dairymen
 dairywoman
 dairywomen
 dayroom
+disinherit
 dayrooms
 dairous
 dairt
@@ -12447,7 +12448,6 @@ diversipedate
 disingenuousness
 disinhabit
 disinherison
-disinherit
 disinheritable
 disinheritance
 disinheritances
