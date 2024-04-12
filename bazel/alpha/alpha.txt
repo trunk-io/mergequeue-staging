@@ -855,7 +855,6 @@ abroad
 abrocome
 abrogable
 abrogate
-abrogated
 abrogates
 abrogating
 abrogation
@@ -6533,6 +6532,7 @@ agronomial
 agronomic
 agronomical
 agronomically
+abrogated
 agronomies
 agronomist
 agronomists
