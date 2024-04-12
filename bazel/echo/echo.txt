@@ -982,6 +982,7 @@ ecurie
 ecus
 eczema
 eczemas
+elatedness
 eczematization
 eczematoid
 eidolology
@@ -2133,7 +2134,6 @@ engarde
 elatcha
 elate
 elated
-elatedness
 elater
 elatery
 elaterid
