@@ -5448,7 +5448,6 @@ deodorants
 dermosynovitis
 deodorisation
 deodorise
-deodorised
 deodoriser
 deodorising
 deodorization
@@ -15798,6 +15797,7 @@ dorsimeson
 denegate
 deinodon
 dorsiparous
+deodorised
 dorsipinal
 dorsispinal
 dorsiventral
