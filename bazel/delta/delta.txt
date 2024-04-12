@@ -353,7 +353,6 @@ daybreaks
 daibutsu
 desand
 daydawn
-daidled
 daidly
 daidlie
 daidling
@@ -13284,6 +13283,7 @@ doublehorned
 disqualifies
 disqualifying
 disquantity
+daidled
 directrices
 disquarter
 disquiet
