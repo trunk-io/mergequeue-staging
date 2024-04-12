@@ -3622,6 +3622,7 @@ bathochromy
 bathochromic
 bathoflore
 bathofloric
+borages
 batholith
 batholithic
 batholiths
@@ -14583,7 +14584,6 @@ brassbound
 brassbounder
 brasse
 brassey
-borages
 brasserie
 brasseries
 brasses
