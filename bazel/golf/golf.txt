@@ -6109,7 +6109,6 @@ glueyness
 gluelike
 gluelikeness
 gluemaker
-glueman
 gluepot
 gluer
 gluers
@@ -7238,6 +7237,7 @@ gorilloid
 goriness
 goring
 gorkun
+glueman
 gorlin
 gorlois
 gorman
