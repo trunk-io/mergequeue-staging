@@ -2875,7 +2875,6 @@ barotrauma
 barotraumas
 barotraumata
 bostons
-barotropic
 barouche
 barouches
 barouchet
@@ -3691,6 +3690,7 @@ batrachidae
 batrachite
 batrachium
 batrachoid
+barotropic
 batrachoididae
 batrachophagous
 batrachophidia
