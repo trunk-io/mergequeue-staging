@@ -21103,7 +21103,6 @@ asg
 asgard
 asgmt
 asha
-ashake
 ashame
 ashamed
 ashamedness
@@ -23441,6 +23440,7 @@ aum
 aumaga
 aumail
 aumakua
+ashake
 aumbry
 aumbries
 aumery
