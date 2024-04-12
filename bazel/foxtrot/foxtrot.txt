@@ -4514,7 +4514,6 @@ fistle
 fistlike
 fistmele
 fistnote
-forecounsel
 fistnotes
 fibre
 fishhold
@@ -4781,6 +4780,7 @@ flagitation
 fraudful
 flagitiously
 foppishness
+forecounsel
 flagitiousness
 flagleaf
 flagless
