@@ -2128,6 +2128,7 @@ discriminations
 decart
 decartelization
 decartelize
+detainal
 decartelized
 decartelizing
 decasemic
@@ -7125,7 +7126,6 @@ detailist
 details
 detain
 detainable
-detainal
 detained
 detainee
 detainees

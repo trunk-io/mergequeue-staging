@@ -7217,6 +7217,7 @@ gorgonizing
 gorgonlike
 gorgons
 gorgonzola
+graphitizable
 gorgosaurus
 gorhen
 gorhens
@@ -8174,7 +8175,6 @@ graphiter
 graphites
 graphitic
 gleeked
-graphitizable
 galaxian
 graphitization
 graphitize
