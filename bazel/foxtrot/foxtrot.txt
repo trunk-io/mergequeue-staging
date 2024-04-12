@@ -2514,7 +2514,6 @@ ferocity
 ferocities
 feroher
 forehorse
-feronia
 ferox
 ferr
 ferrament
@@ -9444,6 +9443,7 @@ franklinic
 fraser
 franklinite
 franklinization
+feronia
 franklins
 frankmarriage
 frankness

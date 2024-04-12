@@ -9555,7 +9555,6 @@ altun
 alture
 altus
 aluco
-aluconidae
 aluconinae
 aludel
 aludels
@@ -23865,6 +23864,7 @@ autobasidiomycetes
 autobasidiomycetous
 autobasidium
 autobasisii
+aluconidae
 autobiographal
 autobiographer
 autobiographers
