@@ -4920,6 +4920,7 @@ aerobiologic
 aerobiological
 aerobiologically
 aerobiologist
+analyzing
 aerobiont
 aerobioscope
 aerobiosis
@@ -11742,7 +11743,6 @@ analyzed
 analyzer
 analyzers
 analyzes
-analyzing
 analkalinity
 anallagmatic
 anallagmatis
