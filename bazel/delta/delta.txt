@@ -9569,7 +9569,6 @@ digue
 dihalid
 dihalide
 dihalo
-dihalogen
 dihdroxycholecalciferol
 dihedral
 dihedrals
@@ -10926,6 +10925,7 @@ disadventure
 disadventurous
 disadvise
 disadvised
+dihalogen
 disadvising
 dysaesthesia
 dysaesthetic

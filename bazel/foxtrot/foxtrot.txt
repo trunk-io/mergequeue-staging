@@ -5411,7 +5411,6 @@ fley
 fleyed
 fleyedly
 foolscap
-fleyedness
 fleying
 fleyland
 fleing
@@ -5518,6 +5517,7 @@ flexive
 flexo
 flexography
 flexographic
+fleyedness
 flexographically
 flexor
 flexors
