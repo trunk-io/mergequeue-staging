@@ -12959,7 +12959,6 @@ bordering
 borderings
 borderland
 borderlander
-borderlands
 borderless
 borderlight
 borderline
@@ -18238,6 +18237,7 @@ butterbump
 butterbur
 butterbush
 buttercup
+borderlands
 buttercups
 buttered
 butterer
