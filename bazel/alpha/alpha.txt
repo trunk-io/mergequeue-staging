@@ -17061,7 +17061,6 @@ aplites
 aplitic
 aplobasalt
 aplodiorite
-aplodontia
 aplodontiidae
 aplomb
 aplombs
@@ -22781,6 +22780,7 @@ atopy
 atopic
 atopies
 atopite
+aplodontia
 atorai
 atossa
 atour
