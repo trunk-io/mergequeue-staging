@@ -138,6 +138,7 @@ epistolean
 earsplitting
 earspool
 earstone
+exactness
 earstones
 eartab
 eartag
@@ -11750,7 +11751,6 @@ endopolyploid
 exactly
 electrolysation
 exactment
-exactness
 exactor
 exactors
 exactress
