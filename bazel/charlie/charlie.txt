@@ -3930,7 +3930,6 @@ cardiidae
 cameoing
 cardin
 cardinal
-cardinalate
 cardinalated
 cardinalates
 cardinalfish
@@ -15064,6 +15063,7 @@ comintern
 civic
 civical
 civically
+cardinalate
 civicism
 civicisms
 civics

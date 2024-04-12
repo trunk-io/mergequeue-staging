@@ -5771,7 +5771,6 @@ bellbind
 buckjump
 bellbinder
 bellbine
-bellbird
 bellbirds
 bellboy
 backwoodsman
@@ -9683,6 +9682,7 @@ boulangerite
 bisks
 bisley
 bislings
+bellbird
 bysmalith
 bismanol
 bismar
