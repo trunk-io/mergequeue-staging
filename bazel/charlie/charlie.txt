@@ -21998,7 +21998,6 @@ confirms
 confiscable
 confiscatable
 confiscate
-confiscated
 confiscates
 confiscating
 confiscation
@@ -28015,6 +28014,7 @@ crambidae
 crambinae
 cramble
 crambly
+confiscated
 crambo
 cramboes
 crambos
