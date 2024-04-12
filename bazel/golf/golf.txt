@@ -1051,6 +1051,7 @@ ganancias
 ganapati
 ganch
 ganched
+guile
 gean
 ganda
 gander
@@ -10190,7 +10191,6 @@ guildry
 guilds
 guildship
 guildsmen
-guile
 guiled
 guileful
 guilefully
