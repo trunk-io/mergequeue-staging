@@ -2924,7 +2924,6 @@ feuillage
 feuillants
 feuille
 feuillemorte
-feuillet
 feuilleton
 feuilletonism
 feuilletonist
@@ -6234,6 +6233,7 @@ flowerwork
 flowing
 flowingly
 flowingness
+feuillet
 flowk
 flowmeter
 framework
