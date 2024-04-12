@@ -18865,7 +18865,6 @@ archeunuch
 archeus
 archexorcist
 archfelon
-archfiend
 archfiends
 archfire
 archflamen
@@ -25023,6 +25022,7 @@ awls
 apocyneous
 aluminizing
 awlwort
+archfiend
 accessorii
 awlworts
 awm
