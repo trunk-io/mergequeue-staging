@@ -7519,7 +7519,6 @@ cerebellopontile
 cerebellopontine
 cerebellorubral
 cerebellospinal
-cerebellum
 cerebellums
 cerebra
 cerebral
@@ -26656,6 +26655,7 @@ counteraddress
 counteradvance
 counteradvantage
 counteradvice
+cerebellum
 catagories
 counteraffirm
 counteraffirmation
