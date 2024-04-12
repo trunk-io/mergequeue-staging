@@ -4900,6 +4900,7 @@ carver
 carvers
 carvership
 carves
+complexly
 carvestrene
 carvy
 carvyl
@@ -20705,7 +20706,6 @@ complexity
 complexities
 complexive
 complexively
-complexly
 complexness
 complexometry
 complexometric
