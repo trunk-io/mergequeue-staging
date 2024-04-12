@@ -3369,6 +3369,7 @@ embarras
 embarrased
 embarrass
 embarrassed
+esodic
 embarrassedly
 embarrasses
 embarrassing
@@ -9703,7 +9704,6 @@ esocyclic
 esocidae
 educationalism
 esociform
-esodic
 esoenteritis
 expressing
 esoethmoiditis
