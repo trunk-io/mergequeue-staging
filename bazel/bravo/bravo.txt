@@ -8660,7 +8660,6 @@ billetty
 broadband
 billetwood
 billfish
-billfishes
 billfolds
 billhead
 billheading
@@ -8733,6 +8732,7 @@ bilocular
 biloculate
 biloculina
 biloculine
+billfishes
 bilophodont
 biloquist
 biloxi

@@ -3533,6 +3533,7 @@ afforce
 additivity
 additory
 additum
+argillocalcareous
 additur
 addle
 addlebrain
@@ -19491,7 +19492,6 @@ argillite
 arbtrn
 argillitic
 argilloarenaceous
-argillocalcareous
 argillocalcite
 argilloferruginous
 argilloid
