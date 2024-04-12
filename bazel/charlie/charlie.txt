@@ -8522,7 +8522,6 @@ champlain
 champlainic
 champlev
 champleve
-champs
 chams
 chamsin
 chan
@@ -10132,6 +10131,7 @@ chevener
 cheventayn
 cheverel
 cheveret
+champs
 cheveril
 cheveron
 celioncus
