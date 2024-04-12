@@ -5514,6 +5514,7 @@ afoam
 afocal
 afoot
 afore
+arrisways
 aforegoing
 aforehand
 aforementioned
@@ -20258,7 +20259,6 @@ arryish
 arrimby
 arrises
 arrish
-arrisways
 arriswise
 accoutred
 arrythmia
