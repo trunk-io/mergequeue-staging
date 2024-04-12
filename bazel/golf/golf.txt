@@ -2074,7 +2074,6 @@ gaussage
 garrets
 gaussbergite
 gluconate
-gausses
 gaussian
 gaussmeter
 gauster
@@ -4203,6 +4202,7 @@ gimel
 gymel
 gimels
 gimirrai
+gausses
 gymkhana
 gymkhanas
 gimlet
