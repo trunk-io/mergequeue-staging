@@ -8295,7 +8295,6 @@ epistolization
 epistolize
 epistolized
 epistolizer
-epistolizing
 epistolography
 epistolographic
 epistolographist
@@ -10972,6 +10971,7 @@ euonymus
 euornithes
 euornithic
 echinid
+epistolizing
 euripos
 epepophysis
 euosmite
