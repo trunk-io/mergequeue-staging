@@ -1284,6 +1284,7 @@ fastigiated
 fastigiately
 fastigious
 fastigium
+foreswore
 fastigiums
 fastiia
 fasting
@@ -8095,7 +8096,6 @@ foresummon
 foreswear
 foreswearing
 foresweat
-foreswore
 fumacious
 foret
 funkier
