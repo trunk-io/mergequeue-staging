@@ -9583,7 +9583,6 @@ cheepier
 cheepiest
 cheepily
 cheepiness
-cheeping
 cheeps
 cheer
 cheered
@@ -19737,6 +19736,7 @@ combwise
 catapulting
 combwright
 comd
+cheeping
 comdg
 comdia
 comdr
