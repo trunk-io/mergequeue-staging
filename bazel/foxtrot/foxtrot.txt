@@ -2687,7 +2687,6 @@ ferulaceous
 ferulae
 ferulaic
 ferular
-ferulas
 ferule
 feruled
 ferules
@@ -7001,6 +7000,7 @@ follicular
 folliculate
 folliculated
 folliculin
+ferulas
 folliculina
 folliculitis
 footlicker
