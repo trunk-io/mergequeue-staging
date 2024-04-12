@@ -4262,7 +4262,6 @@ delsartean
 delsartian
 delta
 deltafication
-deltahedra
 deltahedron
 deltaic
 deltaite
@@ -11893,6 +11892,7 @@ disembarrassment
 disembattle
 disembed
 disembellish
+deltahedra
 disembitter
 disembocation
 disembody
