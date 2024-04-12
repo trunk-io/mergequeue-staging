@@ -926,6 +926,7 @@ ectotheca
 evoke
 expelled
 ectotherm
+euphonym
 ectothermic
 ectotoxin
 ectotrophi
@@ -7282,7 +7283,6 @@ enwreathing
 enwrite
 enwrought
 enwwove
-euphonym
 enwwoven
 enzygotic
 enzym

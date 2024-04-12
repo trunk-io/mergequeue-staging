@@ -5895,6 +5895,7 @@ glosses
 glossic
 glossier
 glossies
+grantees
 glossiest
 glossily
 glossina
@@ -8059,7 +8060,6 @@ grantable
 granted
 grantedly
 grantee
-grantees
 gravidas
 granter
 granters
