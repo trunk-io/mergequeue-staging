@@ -6708,7 +6708,6 @@ cartograph
 cellarous
 cellars
 cellarwoman
-cellated
 cellblock
 cellblocks
 celled
@@ -11943,6 +11942,7 @@ chorioallantoic
 chorioallantoid
 chorioallantois
 choriocapillary
+cellated
 choriocapillaris
 choriocarcinoma
 choriocarcinomas

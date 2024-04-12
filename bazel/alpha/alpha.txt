@@ -2391,7 +2391,6 @@ aciculated
 aciculum
 aciculums
 acid
-acidaemia
 acidanthera
 acidaspis
 acidemia
@@ -7231,6 +7230,7 @@ alacrify
 alacrious
 alacriously
 alacrity
+acidaemia
 alacrities
 alacritous
 alactaga
