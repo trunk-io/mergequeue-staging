@@ -2459,7 +2459,6 @@ electrolysis
 electrolyte
 electrolithotrity
 electrolytic
-electrolytical
 electrolytically
 electrolyzability
 electrolyzation
@@ -4897,6 +4896,7 @@ encrinitic
 encrinitical
 encrinoid
 encrinoidea
+electrolytical
 encrypt
 encrypted
 encrypting

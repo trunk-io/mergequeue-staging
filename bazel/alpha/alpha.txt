@@ -1278,7 +1278,6 @@ acanthin
 acanthine
 acanthion
 acanthite
-allophytoid
 acanthocarpous
 acanthocephala
 acanthocephalan
@@ -22492,6 +22491,7 @@ athamantid
 athamantin
 athamaunte
 athanasy
+allophytoid
 athanasia
 athanasian
 athanasianism
