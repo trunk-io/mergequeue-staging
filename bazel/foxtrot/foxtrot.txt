@@ -5848,7 +5848,6 @@ flocci
 floccilation
 floccillation
 floccing
-floccipend
 floccose
 floccosely
 flocculable
@@ -8653,6 +8652,7 @@ forspoke
 forspoken
 forspread
 fowk
+floccipend
 fellatory
 fillebeg
 forstall
