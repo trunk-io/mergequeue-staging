@@ -5571,6 +5571,7 @@ enfeeblements
 enfeebler
 espiritual
 enfeebles
+everly
 enfeebling
 enfeeblish
 enfelon
@@ -11539,7 +11540,6 @@ everywhither
 everywoman
 everlasting
 everlastingly
-everly
 everliving
 evermore
 evernia
