@@ -2397,7 +2397,6 @@ electroencephalograph
 electroencephalographical
 electroendosmose
 episcope
-electroendosmosis
 electroendosmotic
 electroengrave
 electroengraving
@@ -9374,6 +9373,7 @@ erratics
 erratum
 erratums
 erratuta
+electroendosmosis
 equitant
 erred
 errhine

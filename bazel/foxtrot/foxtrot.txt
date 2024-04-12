@@ -9505,7 +9505,6 @@ fraternising
 fraternism
 fraternity
 fraternities
-fraternization
 fraternize
 fraternized
 fraternizer
@@ -11001,6 +11000,7 @@ fumarase
 flagellar
 finally
 fumarases
+fraternization
 fumarate
 fumarates
 fumaria
