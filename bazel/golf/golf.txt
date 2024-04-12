@@ -5033,7 +5033,6 @@ glady
 gladiate
 gladiator
 gladiatory
-gladiatorial
 gladiatorism
 gladiators
 ginhound
@@ -9520,6 +9519,7 @@ grouze
 gymnocerata
 grove
 groved
+gladiatorial
 grovel
 groveled
 groveler
