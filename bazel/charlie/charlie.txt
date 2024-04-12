@@ -2077,7 +2077,6 @@ campion
 campions
 campit
 calcaneus
-cample
 chaetopoda
 campman
 campmaster
@@ -26859,6 +26858,7 @@ catjang
 countergauge
 countergauger
 countergift
+cample
 countergirded
 counterglow
 counterguard
