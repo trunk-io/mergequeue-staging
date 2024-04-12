@@ -6490,6 +6490,7 @@ descriptionless
 descriptions
 descriptive
 descriptively
+digammate
 descriptiveness
 descriptives
 descriptivism
@@ -9401,7 +9402,6 @@ digamist
 digamists
 digamma
 digammas
-digammate
 digammated
 digammic
 digamous
