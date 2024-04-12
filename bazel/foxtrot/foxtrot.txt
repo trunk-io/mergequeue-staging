@@ -3057,7 +3057,6 @@ fibrillar
 furfurals
 fibrillary
 fibrillate
-fibrillated
 fibrillating
 fibrillation
 fibrillations
@@ -10634,6 +10633,7 @@ flatnesses
 frugality
 frugalities
 frugally
+fibrillated
 frugalness
 fruggan
 frugged
