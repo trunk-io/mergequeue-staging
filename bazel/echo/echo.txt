@@ -9036,7 +9036,6 @@ ergotism
 ergotisms
 ergotist
 ergotization
-ergotize
 ergotized
 ergotizing
 ergotoxin
@@ -11123,6 +11122,7 @@ eurafric
 eurafrican
 euraquilo
 eurasian
+ergotize
 eurasianism
 eurasiatic
 eure
