@@ -4072,7 +4072,6 @@ finlander
 finlandization
 finless
 finlet
-finlike
 finmark
 finmarks
 finn
@@ -9124,6 +9123,7 @@ foxfeet
 forecomingness
 foxfire
 foxfires
+finlike
 foxfish
 foxfishes
 foxglove

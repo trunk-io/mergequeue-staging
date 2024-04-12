@@ -4108,7 +4108,6 @@ carey
 careys
 careless
 carelessly
-carelessness
 careme
 carene
 carer
@@ -9131,6 +9130,7 @@ chartlet
 chartographer
 chartography
 chartographic
+carelessness
 chartographical
 chartographically
 chartographist
