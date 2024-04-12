@@ -6498,7 +6498,6 @@ ensteep
 enstool
 enstore
 enstranged
-enstrengthen
 epitomizer
 ensuable
 ensuance
@@ -12350,6 +12349,7 @@ exegetes
 exegetic
 exegetical
 exegetically
+enstrengthen
 exegetics
 exegetist
 exemplar
