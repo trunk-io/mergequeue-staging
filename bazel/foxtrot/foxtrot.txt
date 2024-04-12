@@ -426,6 +426,7 @@ faisceau
 fait
 faitery
 faith
+fortify
 faithbreach
 faithbreaker
 formatted
@@ -8715,7 +8716,6 @@ fortier
 forties
 fortieth
 fortieths
-fortify
 fortification
 fortifications
 fortifier
