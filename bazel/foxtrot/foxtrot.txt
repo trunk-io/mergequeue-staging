@@ -3459,7 +3459,6 @@ fifties
 friborgh
 fiftieth
 fiftieths
-fiftyfold
 forebow
 fiftypenny
 figary
@@ -6621,6 +6620,7 @@ flutterless
 flutterment
 firs
 fluttersome
+fiftyfold
 fluvanna
 fluvial
 fluviatic

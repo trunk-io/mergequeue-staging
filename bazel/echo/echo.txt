@@ -11430,6 +11430,7 @@ evaporometer
 evapotranspiration
 evase
 evasible
+exotericism
 evasion
 evasional
 evasions
@@ -12861,7 +12862,6 @@ exoteric
 exoterica
 exoterical
 exoterically
-exotericism
 embossmen
 exoterics
 exotheca
