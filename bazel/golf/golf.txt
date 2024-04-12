@@ -6277,7 +6277,6 @@ gnathopodous
 gnathostegite
 gnathostoma
 gnathostomata
-gnathostome
 gnathostomi
 gnathotheca
 gillot
@@ -6965,6 +6964,7 @@ goodbyes
 goodbys
 goodenia
 goodeniaceous
+gnathostome
 goodenoviaceae
 gooder
 gooders
