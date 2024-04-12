@@ -431,7 +431,6 @@ galbulinae
 galbulus
 galcha
 galchic
-gravata
 gale
 galea
 galeae
@@ -9327,6 +9326,7 @@ groover
 grooverhead
 groovers
 grooves
+gravata
 groovy
 garnishry
 groovier

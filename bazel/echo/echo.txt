@@ -8059,7 +8059,6 @@ epipedometry
 epipelagic
 epipetalous
 epiphany
-epiphanic
 epiphanies
 epiphanise
 epiphanised
@@ -10120,6 +10119,7 @@ estreated
 estreating
 estreats
 estrepement
+epiphanic
 estriate
 extraviolet
 estrich
