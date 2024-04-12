@@ -11368,7 +11368,6 @@ dummied
 disciplines
 discipling
 disciplining
-discipular
 discircumspection
 discission
 discitis
@@ -13818,6 +13817,7 @@ distilleries
 distillers
 distilling
 distillment
+discipular
 distillmint
 distilment
 distils

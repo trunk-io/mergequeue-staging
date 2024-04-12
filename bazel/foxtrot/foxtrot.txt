@@ -183,6 +183,7 @@ facto
 factor
 factorable
 factordom
+foiling
 factoress
 factory
 factorial
@@ -6831,7 +6832,6 @@ foyer
 foyers
 foil
 foiled
-foiling
 foils
 foilsmen
 foin
