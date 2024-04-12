@@ -14320,6 +14320,7 @@ divertible
 diverticle
 diverticula
 diverticulate
+drawcut
 diverticulitis
 diverticulosis
 diverticulum
@@ -16782,7 +16783,6 @@ drawbridge
 drawbridges
 drawcansir
 drawcard
-drawcut
 drawdown
 drawdowns
 drawee
