@@ -1984,7 +1984,6 @@ ekasilicon
 ekatantalum
 eke
 ekebergite
-eked
 ekename
 emphysematous
 eker
@@ -3216,6 +3215,7 @@ elute
 eluted
 eluting
 elution
+eked
 elutions
 elutor
 epirotulian
