@@ -6429,7 +6429,6 @@ donas
 descartes
 descend
 descendability
-descendable
 descendance
 descendant
 descendants
@@ -16996,6 +16995,7 @@ dressages
 dressed
 dresser
 doorlike
+descendable
 dressers
 dressership
 dresses
