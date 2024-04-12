@@ -16345,7 +16345,6 @@ antitypous
 antityrosinase
 acutilinguae
 antitobacco
-antitobacconal
 antitobacconist
 antitonic
 antitorpedo
@@ -16408,6 +16407,7 @@ antivenereal
 antivenin
 antivenine
 antivenins
+antitobacconal
 antivenom
 antivenomous
 antivermicular
