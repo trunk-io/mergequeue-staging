@@ -2598,6 +2598,7 @@ gemul
 gemuti
 gemutlich
 gemutlichkeit
+growths
 gemwork
 gen
 gena
@@ -9577,7 +9578,6 @@ growthful
 gorevan
 growthiness
 growthless
-growths
 guacico
 growze
 grozart
