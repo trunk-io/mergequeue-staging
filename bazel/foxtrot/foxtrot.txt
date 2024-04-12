@@ -9950,7 +9950,6 @@ fricace
 fricandeau
 fricandeaux
 fricandel
-fricandelle
 fricando
 fricassee
 fricasseed
@@ -10510,6 +10509,7 @@ frothier
 frothily
 frothless
 froths
+fricandelle
 frothsome
 frottage
 frottages
