@@ -7859,7 +7859,6 @@ biaxial
 biaxiality
 biaxially
 biaxillary
-buprestidae
 bib
 bibacious
 bungler
@@ -14106,6 +14105,7 @@ braconidae
 braconids
 braconniere
 bracozzo
+buprestidae
 bract
 bracteal
 bracteate
