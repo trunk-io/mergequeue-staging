@@ -8232,7 +8232,6 @@ grappa
 grappas
 gryllotalpa
 gasproof
-grapple
 grappled
 grapplement
 grappler
@@ -10500,6 +10499,7 @@ gunlayer
 geraty
 gunlaying
 gunless
+grapple
 gunline
 gunlock
 glossagra
