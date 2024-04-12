@@ -1452,7 +1452,6 @@ dc
 dca
 deceived
 dcb
-dcbname
 dclass
 dcollet
 dcolletage
@@ -16886,6 +16885,7 @@ dreamlessly
 dreamlet
 dreamlike
 dreamlikeness
+dcbname
 dreamlore
 dreams
 dreamscape
