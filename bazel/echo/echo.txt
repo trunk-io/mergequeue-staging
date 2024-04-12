@@ -7358,7 +7358,6 @@ eosin
 eosinate
 entreaty
 eosine
-eosines
 eosinic
 eosinlike
 eosinoblast
@@ -9503,6 +9502,7 @@ escalop
 escalope
 escaloping
 escalops
+eosines
 escambron
 escamotage
 escamoteur
