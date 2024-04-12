@@ -9035,7 +9035,6 @@ ergotizing
 ergotoxin
 ergotoxine
 ergots
-ergs
 ergusia
 eria
 egestive
@@ -11661,6 +11660,7 @@ eleut
 evoker
 evokers
 evokes
+ergs
 evoking
 evolate
 evolute
