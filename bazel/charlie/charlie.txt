@@ -5091,7 +5091,6 @@ casked
 casket
 casketed
 casketing
-casketlike
 caskets
 casky
 casking
@@ -9955,6 +9954,7 @@ cheongsam
 cheoplastic
 chepster
 cheque
+casketlike
 chequebook
 chequeen
 chequer
