@@ -4044,7 +4044,6 @@ emotivity
 emove
 exorability
 eponymize
-emp
 empaestic
 empaistic
 empale
@@ -5548,6 +5547,7 @@ eneugh
 enew
 enface
 enfaced
+emp
 enfacement
 enfaces
 enfacing
