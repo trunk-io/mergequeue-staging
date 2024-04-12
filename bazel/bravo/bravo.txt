@@ -7291,7 +7291,6 @@ bestrowed
 bestrowing
 bestrown
 bestrows
-bestrut
 bests
 bestseller
 bestsellerdom
@@ -9398,6 +9397,7 @@ birdeye
 birder
 birdfarm
 birdfarms
+bestrut
 birdglue
 birdhood
 birdhouse
