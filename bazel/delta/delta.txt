@@ -10622,7 +10622,6 @@ defiler
 diploses
 diplosis
 diplosome
-diplosphene
 diplospondyli
 doradilla
 diplospondylic
@@ -12681,6 +12680,7 @@ dismantler
 dismantles
 dismarble
 dismarch
+diplosphene
 dismark
 dismarket
 dismarketed
