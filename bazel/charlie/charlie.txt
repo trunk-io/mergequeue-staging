@@ -6944,7 +6944,6 @@ centaurdom
 centaurea
 centauress
 centauri
-centaury
 centaurial
 centauric
 centaurid
@@ -8542,6 +8541,7 @@ chancelleries
 chancellor
 chancellorate
 chancelloress
+centaury
 chancellory
 chancellorism
 chancellors
