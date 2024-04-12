@@ -3200,7 +3200,6 @@ basibranchiate
 basibregmatic
 basic
 browner
-basically
 basicerite
 basichromatic
 basichromatin
@@ -17140,6 +17139,7 @@ bullhorn
 bullhorns
 bully
 bullyable
+basically
 bullyboy
 bullyboys
 bullidae

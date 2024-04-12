@@ -3041,7 +3041,6 @@ flagonet
 fiberous
 fibers
 fiberscope
-fiberware
 fibra
 fibration
 fibreboard
@@ -5941,6 +5940,7 @@ floodmark
 floodplain
 floodproof
 floods
+fiberware
 fortifiable
 floodway
 feute
