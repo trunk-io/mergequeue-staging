@@ -3907,7 +3907,6 @@ adipyl
 adipinic
 adipocele
 adipocellulose
-adipocere
 anthropological
 adipoceriform
 adipocerite
@@ -11689,6 +11688,7 @@ analcimic
 analcimite
 analcite
 analcites
+adipocere
 analcitite
 analecta
 analects
