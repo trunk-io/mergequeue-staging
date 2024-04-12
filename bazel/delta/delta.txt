@@ -84,7 +84,6 @@ dacryolin
 dacryolith
 dacryolithiasis
 dacryoma
-dacryon
 dacryopyosis
 dizygotic
 dacryops
@@ -8230,6 +8229,7 @@ diaheliotropism
 dyak
 diaka
 diakineses
+dacryon
 diakinesis
 diakinetic
 dyakisdodecahedron
