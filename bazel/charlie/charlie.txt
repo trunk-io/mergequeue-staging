@@ -3577,7 +3577,6 @@ caraways
 carbachol
 carbacidometer
 carbamate
-carbamic
 carbamide
 carbamidine
 carbamido
@@ -10305,6 +10304,7 @@ chickenwort
 chicker
 chickery
 chickhood
+carbamic
 chickies
 chickling
 chickory
