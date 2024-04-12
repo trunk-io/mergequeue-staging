@@ -9129,6 +9129,7 @@ almoner
 almoners
 almonership
 almoning
+annullate
 almonry
 almonries
 almoravid
@@ -13653,7 +13654,6 @@ assassins
 annuli
 annulism
 annullable
-annullate
 annullation
 annulled
 annuller
