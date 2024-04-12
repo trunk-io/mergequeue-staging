@@ -2559,6 +2559,7 @@ ferric
 familistery
 ferricyanate
 ferricyanic
+farina
 ferricyanide
 ferried
 ferrier
@@ -3402,7 +3403,6 @@ fiendhead
 fiendish
 fiendishly
 formicid
-farina
 fiendishness
 fiendism
 fiendlier
