@@ -2410,6 +2410,7 @@ grumpily
 galactoside
 genom
 gelatinity
+grapple
 gelatinizability
 gelatinizable
 gelatinization
@@ -8232,7 +8233,6 @@ grappa
 grappas
 gryllotalpa
 gasproof
-grapple
 grappled
 grapplement
 grappler
