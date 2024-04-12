@@ -6510,7 +6510,6 @@ agrology
 agrologic
 agrological
 agrologically
-agrologies
 agrologist
 adsorbate
 agrom
@@ -17119,6 +17118,7 @@ apocathartic
 apocentre
 apocentric
 apocentricity
+agrologies
 apocha
 apochae
 apocholic
