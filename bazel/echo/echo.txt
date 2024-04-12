@@ -758,7 +758,6 @@ ecostate
 ecotype
 ecotypes
 enfurrow
-ecotypic
 ecotipically
 ecotypically
 ecotonal
@@ -14051,6 +14050,7 @@ extremer
 extremes
 ectoprocta
 extremis
+ecotypic
 extremism
 extremistic
 extremists
