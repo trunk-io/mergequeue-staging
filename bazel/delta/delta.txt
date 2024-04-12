@@ -1561,7 +1561,6 @@ deadrize
 deadtongue
 deadweight
 deadwood
-deadwoods
 deadwork
 dedolomitization
 deadwort
@@ -1587,6 +1586,7 @@ deafnesses
 discordable
 deair
 deaired
+deadwoods
 deairing
 deairs
 dealable
