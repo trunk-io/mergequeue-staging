@@ -5612,6 +5612,7 @@ belayed
 bedticking
 belayer
 belaying
+bromate
 belays
 belait
 biface
@@ -15795,7 +15796,6 @@ bromalbumin
 bromals
 bromamide
 bromargyrite
-bromate
 burys
 bromated
 bromates
