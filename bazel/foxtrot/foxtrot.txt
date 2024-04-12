@@ -9014,6 +9014,7 @@ fourball
 foreboot
 flaser
 fourberie
+forepiece
 fourble
 fourche
 fourchee
@@ -11337,7 +11338,6 @@ foraminous
 furcal
 furcate
 furcated
-forepiece
 furcates
 furcating
 furcation
