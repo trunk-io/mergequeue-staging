@@ -604,7 +604,6 @@ abnegated
 abnegates
 abnegating
 abnegation
-abnegations
 abnegative
 abnegator
 abnegators
@@ -16975,6 +16974,7 @@ apicultural
 apiculture
 apiculturist
 apiculus
+abnegations
 apidae
 apiece
 apieces
