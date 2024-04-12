@@ -902,7 +902,6 @@ gambolled
 gamboller
 gambolling
 gambols
-gambone
 gambreled
 gambrels
 gambroon
@@ -10570,6 +10569,7 @@ gunsmith
 grandiloquence
 glossotherium
 gunsmithery
+gambone
 gunsmithing
 gloomiest
 gunsmiths

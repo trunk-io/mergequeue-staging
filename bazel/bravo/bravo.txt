@@ -3800,7 +3800,6 @@ battological
 battologise
 battologised
 battologising
-battologist
 battologize
 battologized
 battologizing
@@ -15502,6 +15501,7 @@ brisant
 brisbane
 briscola
 brise
+battologist
 briseis
 brisement
 brises
