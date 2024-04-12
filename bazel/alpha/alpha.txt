@@ -6036,6 +6036,7 @@ agglutinations
 agglutinative
 agglutinatively
 agglutinator
+apogonid
 agglutinin
 agglutinins
 agglutinize
@@ -17205,7 +17206,6 @@ apogeotropic
 apogeotropically
 apogeotropism
 apogon
-apogonid
 apogonidae
 apograph
 apographal
