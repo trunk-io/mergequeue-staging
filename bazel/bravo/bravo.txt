@@ -4521,7 +4521,6 @@ becoresh
 becost
 becousined
 becovet
-becowarded
 becowarding
 becowards
 becquerelite
@@ -5881,6 +5880,7 @@ bellpulls
 bellrags
 bells
 belltail
+becowarded
 belltopper
 belltopperdom
 belluine
