@@ -2778,6 +2778,7 @@ festooning
 festoons
 fastigate
 festschrift
+forwaste
 festschriften
 flots
 festschrifts
@@ -8806,7 +8807,6 @@ forwardness
 forwards
 forwardsearch
 forwarn
-forwaste
 forwean
 forwear
 forweary
