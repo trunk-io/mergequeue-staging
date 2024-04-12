@@ -2306,6 +2306,7 @@ fizzes
 fenestella
 fenestellae
 fenestellid
+frostbiting
 fenestellidae
 fenester
 fenestra
@@ -10471,7 +10472,6 @@ flyblew
 frostbite
 frostbiter
 frostbites
-frostbiting
 frostbitten
 frostbound
 frostbow
