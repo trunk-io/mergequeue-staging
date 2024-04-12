@@ -2271,7 +2271,6 @@ geckoid
 geckotid
 geckotidae
 gecks
-ged
 genarchship
 gedackt
 gedact
@@ -8013,6 +8012,7 @@ grangerizer
 grangerizing
 gold
 grangers
+ged
 granges
 grangousier
 granilla
