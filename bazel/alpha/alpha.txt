@@ -15672,7 +15672,6 @@ antineutralism
 arachne
 antineutrality
 antineutrally
-antineutrino
 antineutrinos
 antineutron
 antineutrons
@@ -22199,6 +22198,7 @@ astrictiveness
 astricts
 antal
 astrid
+antineutrino
 astride
 astrier
 astriferous
