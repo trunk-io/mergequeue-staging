@@ -3244,6 +3244,7 @@ basigenous
 basigynium
 basiglandular
 basihyal
+betokener
 basihyoid
 basyl
 bitume
@@ -7421,7 +7422,6 @@ betoil
 betoken
 bagworm
 betokened
-betokener
 betokening
 betokenment
 betokens
