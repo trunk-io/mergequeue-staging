@@ -830,6 +830,7 @@ badmouthing
 badmouths
 badness
 badnesses
+bharti
 badon
 badrans
 bads
@@ -7755,7 +7756,6 @@ bhara
 bharal
 barege
 bharata
-bharti
 bhat
 bindable
 bhava
