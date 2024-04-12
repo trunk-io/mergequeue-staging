@@ -3412,6 +3412,7 @@ bassine
 bassinet
 bassinets
 bassirilievi
+bedclothing
 bassist
 bassists
 bassly
@@ -4624,7 +4625,6 @@ bedchair
 bedchairs
 bedchamber
 bratstva
-bedclothing
 bedcord
 byplays
 bedcover
