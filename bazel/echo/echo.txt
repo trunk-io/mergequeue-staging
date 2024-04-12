@@ -9410,7 +9410,6 @@ eruca
 eruciform
 erucin
 erucivorous
-eruct
 eructance
 eructate
 eructated
@@ -12236,6 +12235,7 @@ excursed
 excursing
 excursional
 excursionary
+eruct
 excursioner
 excursionism
 eutectic

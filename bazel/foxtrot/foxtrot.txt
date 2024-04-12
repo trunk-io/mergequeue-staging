@@ -1692,7 +1692,6 @@ fearnought
 fears
 fearsome
 fearsomely
-fearsomeness
 fixgig
 feasances
 feased
@@ -2071,6 +2070,7 @@ felicitously
 felicitousness
 felid
 felidae
+fearsomeness
 felids
 feliform
 felinae
