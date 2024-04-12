@@ -2583,7 +2583,6 @@ decollating
 decollator
 dominican
 decolletage
-decollete
 decollimate
 decolonisation
 decolonise
@@ -14759,6 +14758,7 @@ dod
 dodd
 doddard
 doddart
+decollete
 dodded
 dodder
 doddered
