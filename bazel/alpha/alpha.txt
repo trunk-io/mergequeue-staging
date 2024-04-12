@@ -3849,7 +3849,6 @@ adiaphora
 adiaphoral
 adiaphoresis
 adiaphoretic
-adiaphory
 adiaphorism
 adiaphorist
 adiaphoristic
@@ -8321,6 +8320,7 @@ alish
 alisier
 alisma
 antechoir
+adiaphory
 alismaceae
 alismaceous
 alismad
