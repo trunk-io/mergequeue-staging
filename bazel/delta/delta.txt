@@ -332,6 +332,7 @@ dahs
 depravers
 day
 dayabhaga
+dopant
 dayak
 disincrustant
 dayakker
@@ -12825,7 +12826,6 @@ disordained
 disordeine
 disordered
 disorderedness
-dopant
 disorderer
 disordering
 disorderly
