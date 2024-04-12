@@ -4200,7 +4200,6 @@ ferroelectrically
 fireflirt
 fireflower
 frizzlers
-firehall
 firehalls
 firehouse
 fluff
@@ -6203,6 +6202,7 @@ foredoor
 flowable
 flowage
 flowages
+firehall
 flowchart
 flowcharted
 flowcharting

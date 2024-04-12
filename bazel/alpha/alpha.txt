@@ -8130,6 +8130,7 @@ algorithm
 algorithmic
 algorithmically
 algorithms
+athetosic
 algors
 algosis
 algous
@@ -23781,7 +23782,6 @@ authentication
 authentications
 authenticator
 arrtez
-athetosic
 authenticators
 authenticity
 authenticities
