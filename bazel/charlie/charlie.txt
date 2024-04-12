@@ -21547,6 +21547,7 @@ concussion
 concussional
 concussions
 concussive
+crossbanded
 concussively
 concutient
 cond
@@ -29801,7 +29802,6 @@ crossable
 crossarm
 crossarms
 crossband
-crossbanded
 crossbanding
 crossbar
 crossbarred
