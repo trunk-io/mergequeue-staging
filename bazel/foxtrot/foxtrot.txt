@@ -837,7 +837,6 @@ fantailed
 fantails
 fantaisie
 fantasy
-fantasia
 fantasias
 fantasie
 frieze
@@ -6438,6 +6437,7 @@ fluoranthene
 fluorapatite
 favorite
 fluorated
+fantasia
 fluorbenzene
 fluorboric
 fluorene

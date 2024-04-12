@@ -4182,7 +4182,6 @@ admonishments
 admonition
 admonitioner
 admonitionist
-admonitions
 admonitive
 admonitively
 admonitor
@@ -16506,6 +16505,7 @@ antrotomy
 antroversion
 antrovert
 antrum
+admonitions
 antrustion
 antrustionship
 ants
