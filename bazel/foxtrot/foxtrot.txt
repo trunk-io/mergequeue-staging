@@ -916,7 +916,6 @@ faradised
 faradiser
 faradises
 faradism
-faradisms
 faradization
 foray
 faradized
@@ -5608,6 +5607,7 @@ flightiness
 flightless
 forepassed
 flights
+faradisms
 flightshot
 flightworthy
 flying

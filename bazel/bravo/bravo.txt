@@ -1354,6 +1354,7 @@ balate
 balatong
 balatron
 balatronic
+bugfish
 balatte
 balau
 balausta
@@ -16851,7 +16852,6 @@ bugdom
 bugeye
 bugeyed
 bugeyes
-bugfish
 buggane
 bugged
 bugger
