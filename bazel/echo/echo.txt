@@ -9220,7 +9220,6 @@ erythropoietin
 erythropsia
 erythropsin
 exploding
-erythrorrhexis
 erythroscope
 erythrose
 erythrosiderite
@@ -9711,6 +9710,7 @@ esociform
 esodic
 esoenteritis
 expressing
+erythrorrhexis
 esoethmoiditis
 esonarthex
 esoneural
