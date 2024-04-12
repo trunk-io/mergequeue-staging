@@ -4206,7 +4206,6 @@ forfar
 firelike
 firelit
 firelock
-firelocks
 fetterless
 foraminulous
 firemanship
@@ -9434,6 +9433,7 @@ franklinic
 fraser
 franklinite
 franklinization
+firelocks
 franklins
 frankmarriage
 frankness
