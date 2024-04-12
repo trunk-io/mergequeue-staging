@@ -20802,6 +20802,7 @@ arupa
 arusa
 arusha
 aruspex
+authenticating
 aruspice
 aruspices
 aruspicy
@@ -23776,7 +23777,6 @@ authenticalness
 authenticate
 authenticated
 authenticates
-authenticating
 authentication
 authentications
 authenticator
