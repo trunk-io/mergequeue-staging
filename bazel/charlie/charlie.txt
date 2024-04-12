@@ -3943,7 +3943,6 @@ cardinalism
 closehearted
 cardinality
 cardiomegalia
-cardinalitial
 cardinalitian
 cardinalities
 cardinally
@@ -31590,6 +31589,7 @@ curves
 curvesome
 curvesomeness
 curvet
+cardinalitial
 curveted
 curveting
 curvets
