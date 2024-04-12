@@ -14848,6 +14848,7 @@ cytoblastematous
 cytoblastemic
 cytoblastemous
 cytocentrum
+countercheck
 cytochalasin
 cytochemical
 cytochemistry
@@ -26727,7 +26728,6 @@ countercharge
 countercharged
 countercharging
 countercharm
-countercheck
 countercheer
 counterclaim
 counterclaimant
