@@ -884,6 +884,7 @@ calalu
 calamagrostis
 calamanco
 calamancoes
+cordate
 calamancos
 calamander
 calamansi
@@ -24934,7 +24935,6 @@ cordaitales
 cordaites
 cordal
 cordant
-cordate
 cordately
 crumbcloth
 cordax
