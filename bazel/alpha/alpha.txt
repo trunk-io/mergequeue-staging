@@ -4948,7 +4948,6 @@ aerocyst
 aerocolpos
 aerocraft
 aerocurve
-aerodermectasia
 aerodynamic
 aerodynamical
 aerodynamically
@@ -22179,6 +22178,7 @@ astral
 astrally
 astrals
 astrand
+aerodermectasia
 astrantia
 astraphobia
 astrapophobia

@@ -5183,7 +5183,6 @@ gumshoing
 glareolidae
 glareous
 glareproof
-geswarp
 glares
 glareworm
 glary
@@ -8254,6 +8253,7 @@ grasp
 graspable
 graspers
 grasping
+geswarp
 graspingly
 gleets
 graspingness
