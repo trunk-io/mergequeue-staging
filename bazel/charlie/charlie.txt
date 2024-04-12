@@ -8219,7 +8219,6 @@ cranely
 chalaziferous
 chalazion
 chalazium
-chalazogam
 chalazogamic
 chalazoidite
 chalazoin
@@ -17536,6 +17535,7 @@ coccolith
 coccolithophorid
 coccolithophoridae
 coccoloba
+chalazogam
 coccolobis
 coccomyces
 counterresolution

@@ -5583,7 +5583,6 @@ glyn
 glink
 glynn
 glinse
-gregory
 glint
 glinting
 gliocyte
@@ -10221,6 +10220,7 @@ guilt
 guiltful
 gaspergous
 geodist
+gregory
 guiltier
 gardencraft
 guiltily
