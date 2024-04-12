@@ -799,7 +799,6 @@ fango
 fangotherapy
 fangs
 faniente
-fanion
 footlike
 fanioned
 fanions
@@ -4202,6 +4201,7 @@ fireflower
 frizzlers
 firehall
 firehalls
+fanion
 firehouse
 fluff
 firehouses
