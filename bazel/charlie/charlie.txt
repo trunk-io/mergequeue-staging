@@ -5669,7 +5669,6 @@ catechistic
 catechistical
 catechistically
 catechists
-catechizable
 catechization
 catechize
 catechized
@@ -29386,6 +29385,7 @@ crispate
 crispated
 crispation
 crispature
+catechizable
 crispbread
 crispen
 crispened
