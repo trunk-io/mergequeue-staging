@@ -5794,7 +5794,6 @@ eternalism
 englishwoman
 englishwomen
 englobe
-englobed
 englobement
 exophagous
 englobing
@@ -9158,6 +9157,7 @@ erythrinidae
 erythrinus
 erythrism
 edriophthalma
+englobed
 erythristic
 erythrite
 erythritol

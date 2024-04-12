@@ -2000,7 +2000,6 @@ gaufer
 genesee
 galvanizations
 gauffer
-gauffered
 gaufferer
 gauffering
 gauffers
@@ -7247,6 +7246,7 @@ gormandism
 gormandize
 gormandizers
 gormandizes
+gauffered
 gormandizing
 gormands
 gangsa
