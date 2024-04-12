@@ -1974,7 +1974,6 @@ gatter
 gatteridge
 gattine
 gau
-gaub
 gauche
 gauchely
 gaucher
@@ -9780,6 +9779,7 @@ guacos
 guadagnini
 guadalcazarite
 guadua
+gaub
 guageable
 guaguanche
 guahiban
