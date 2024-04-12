@@ -486,6 +486,7 @@ backsides
 backsight
 blolly
 backsite
+bowsing
 backslap
 boll
 backslapped
@@ -13820,7 +13821,6 @@ bowses
 bowshot
 bowshots
 bowsie
-bowsing
 bowsman
 bowsprit
 bowsprits
