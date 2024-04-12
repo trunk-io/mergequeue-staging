@@ -106,6 +106,7 @@ dactylics
 dactylioglyph
 dactylioglyphy
 dactylioglyphic
+densimetrically
 dactylioglyphist
 dactyliographer
 dactyliography
@@ -5255,7 +5256,6 @@ densimeter
 densimetry
 densimetric
 disclaims
-densimetrically
 density
 densities
 densitometer
