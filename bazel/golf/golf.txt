@@ -3243,7 +3243,6 @@ gangetic
 glutaeous
 georgics
 georgie
-georgium
 geoscience
 geoscientist
 geoscientists
@@ -5384,6 +5383,7 @@ gley
 gleir
 gleys
 gleit
+georgium
 gleization
 glen
 glendover
