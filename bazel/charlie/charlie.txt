@@ -17830,7 +17830,6 @@ codworm
 coe
 coecal
 coecum
-coed
 coedit
 coedited
 coediting
@@ -22641,6 +22640,7 @@ conoidic
 conoidical
 cardiocentesis
 conoidically
+coed
 camphanyl
 conoids
 conolophus
