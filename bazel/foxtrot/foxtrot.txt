@@ -2225,7 +2225,6 @@ feminineness
 freshmanhood
 femininism
 femininity
-feminisation
 feminise
 feminises
 feminising
@@ -5437,6 +5436,7 @@ flensed
 flenser
 flensers
 flenses
+feminisation
 flensing
 flentes
 flerry

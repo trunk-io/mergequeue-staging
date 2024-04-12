@@ -4696,7 +4696,6 @@ bediademed
 bediamonded
 bediaper
 bediapered
-bediapering
 bediapers
 bedye
 bedizening
@@ -8142,6 +8141,7 @@ bicorporate
 bicorporeal
 bicostate
 bicrenate
+bediapering
 bicrofarad
 bicron
 bicrons
