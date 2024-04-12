@@ -11517,7 +11517,6 @@ discompliance
 discompose
 discomposed
 discomposedly
-discomposedness
 durrie
 discomposes
 discomposingly
@@ -17823,6 +17822,7 @@ ducula
 duculinae
 dud
 dudaim
+discomposedness
 dudder
 duddery
 dentile
