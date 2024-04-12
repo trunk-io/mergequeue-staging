@@ -5348,6 +5348,7 @@ aggerate
 affinity
 affinities
 affinition
+assignation
 affinitive
 affirmable
 affirmably
@@ -21743,7 +21744,6 @@ assignability
 assignable
 assignably
 assignat
-assignation
 assignations
 assignats
 assigned
