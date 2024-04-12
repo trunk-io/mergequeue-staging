@@ -3462,7 +3462,6 @@ fiftieths
 fiftyfold
 forebow
 fiftypenny
-figary
 figaro
 figbird
 figent
@@ -4899,6 +4898,7 @@ flameout
 flameouts
 flameproof
 flameproofer
+figary
 flamer
 flames
 ferneries
