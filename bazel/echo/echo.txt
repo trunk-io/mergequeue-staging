@@ -869,7 +869,6 @@ ectogenic
 ectogenous
 ectoglia
 ectognatha
-ectolecithal
 ectomere
 ectomeres
 ectomeric
@@ -6499,6 +6498,7 @@ ediya
 enstate
 enstatite
 enstatolite
+ectolecithal
 ensteel
 ensteep
 enstool
