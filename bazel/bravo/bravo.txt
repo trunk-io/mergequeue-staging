@@ -8263,7 +8263,6 @@ byerlite
 bierstube
 bierstuben
 byestreet
-biethnic
 bietle
 byeworker
 byeworkman
@@ -18349,6 +18348,7 @@ buttwood
 butut
 bututs
 buvette
+biethnic
 buxaceae
 bldr
 buxaceous
