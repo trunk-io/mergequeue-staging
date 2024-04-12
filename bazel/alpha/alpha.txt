@@ -16339,7 +16339,6 @@ antitypy
 antitypic
 antitypical
 antitypically
-antitypous
 antityrosinase
 acutilinguae
 antitobacco
@@ -20594,6 +20593,7 @@ arthropathy
 arthropathic
 arthropathology
 arthrophyma
+antitypous
 arthrophlogosis
 arthropyosis
 arthroplasty
