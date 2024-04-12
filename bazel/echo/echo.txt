@@ -7178,7 +7178,6 @@ enveigle
 enveil
 envelop
 envelope
-enveloped
 enveloper
 envelopers
 enveloping
@@ -8595,6 +8594,7 @@ equationist
 equations
 essentia
 equative
+enveloped
 equator
 etherial
 equatoreal
