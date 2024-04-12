@@ -2170,7 +2170,6 @@ gazaboes
 gazabos
 gazangabin
 gazania
-gaze
 gazebo
 gazeboes
 gazebos
@@ -4774,6 +4773,7 @@ gyroceran
 goodwills
 guildsman
 gyrochrome
+gaze
 gyrocompass
 golliwogg
 gyrocompasses
