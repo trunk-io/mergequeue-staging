@@ -6366,6 +6366,7 @@ go
 goa
 grammar
 gorilla
+gryllidae
 goad
 goaded
 grammaticize
@@ -8982,7 +8983,6 @@ grilles
 grillework
 grilly
 grylli
-gryllidae
 gerontoxon
 gryllos
 grillroom
