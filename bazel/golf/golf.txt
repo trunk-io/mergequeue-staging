@@ -5942,7 +5942,6 @@ glossopalatinus
 glossopathy
 glossopetra
 glossophaga
-glossophagine
 glossopharyngeal
 glossopharyngeus
 glossophytia
@@ -6843,6 +6842,7 @@ gonyaulax
 gadling
 gonycampsis
 gonid
+glossophagine
 gonidangium
 gonydeal
 gonidial
