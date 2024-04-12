@@ -5274,6 +5274,7 @@ dentality
 dentalium
 dentaliums
 dentalization
+disboweled
 dentalize
 dentalized
 dentally
@@ -12907,7 +12908,6 @@ dispassioned
 dispatch
 dispatched
 dispatcher
-disboweled
 dispatchers
 dispatches
 dispatchful
