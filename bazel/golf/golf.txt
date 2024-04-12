@@ -89,7 +89,6 @@ gadarene
 gadaria
 gadbee
 gadbush
-gridirons
 gaddang
 geheimrat
 gadded
@@ -5066,6 +5065,7 @@ gladsomeness
 gladsomer
 gladsomest
 gladstonian
+gridirons
 gladwin
 grivois
 glaga
