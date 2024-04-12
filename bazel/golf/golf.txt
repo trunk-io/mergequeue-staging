@@ -1331,6 +1331,7 @@ gardbrace
 garde
 gardebras
 garden
+glumness
 gardened
 gardener
 gardeners
@@ -6136,7 +6137,6 @@ glumly
 glummer
 glummest
 glummy
-glumness
 glumnesses
 guarders
 gyrovagi
