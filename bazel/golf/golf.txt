@@ -2980,7 +2980,6 @@ genuflexion
 genuflexuous
 genuine
 growan
-genuinely
 genuineness
 genupectoral
 genuses
@@ -5881,6 +5880,7 @@ glossator
 glossatorial
 glossectomy
 glossed
+genuinely
 glossem
 glossematic
 glossematics
