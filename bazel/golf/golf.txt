@@ -2569,7 +2569,6 @@ gemmologist
 gemmologists
 gemmulation
 gemmule
-gemmules
 gemmuliferous
 graniferous
 gemological
@@ -8229,6 +8228,7 @@ graplines
 graplins
 grappa
 grappas
+gemmules
 gryllotalpa
 gasproof
 grapple
