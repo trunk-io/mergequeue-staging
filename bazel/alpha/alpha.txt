@@ -18580,7 +18580,6 @@ arboured
 arbours
 arbovirus
 arbs
-arbtrn
 arbuscle
 arbuscles
 arbuscula
@@ -19487,6 +19486,7 @@ argillaceous
 argillic
 argilliferous
 argillite
+arbtrn
 argillitic
 argilloarenaceous
 argillocalcareous
