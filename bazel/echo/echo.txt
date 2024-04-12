@@ -2611,7 +2611,6 @@ electroscope
 electroscopes
 electroscopic
 electrosensitive
-electrosherardizing
 electroshock
 electroshocks
 electrosynthesis
@@ -6281,6 +6280,7 @@ enregiment
 enregister
 enregistered
 epicyte
+electrosherardizing
 enregistering
 enregistration
 enregistry
