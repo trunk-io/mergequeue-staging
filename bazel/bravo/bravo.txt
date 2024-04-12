@@ -5191,7 +5191,6 @@ belinurus
 befrilled
 befringe
 befringed
-befringes
 befringing
 befrocked
 befrogged
@@ -13523,6 +13522,7 @@ boulterer
 boun
 bounce
 bounceable
+befringes
 bounceably
 bounceback
 bounced
