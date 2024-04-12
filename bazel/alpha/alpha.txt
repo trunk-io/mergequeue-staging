@@ -84,7 +84,6 @@ abamp
 abamperes
 abamps
 aband
-abandon
 abandonable
 abandoned
 abandonedly
@@ -12783,6 +12782,7 @@ angiomalacia
 angiomas
 angiomata
 angiomatosis
+abandon
 angiomatous
 angiomegaly
 angiometer
