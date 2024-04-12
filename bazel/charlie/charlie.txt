@@ -22544,7 +22544,6 @@ connecter
 connecters
 connectibility
 connectible
-connectibly
 connecticut
 connecting
 connection
@@ -29386,6 +29385,7 @@ crispation
 crispature
 catechizable
 crispbread
+connectibly
 crispen
 crispened
 crispening
