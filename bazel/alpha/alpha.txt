@@ -5012,7 +5012,6 @@ aeroliths
 aerolitic
 aerolitics
 aerology
-aerologic
 aerological
 aerologies
 aerologist
@@ -6279,6 +6278,7 @@ alternations
 agnification
 agnition
 agnize
+aerologic
 agnized
 agnizes
 agnoetae

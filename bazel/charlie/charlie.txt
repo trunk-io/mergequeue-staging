@@ -4071,7 +4071,6 @@ cardplaying
 cardroom
 cards
 clearwing
-cardshark
 cardsharp
 cardsharper
 cardsharping
@@ -25313,6 +25312,7 @@ cornetcies
 cornetfish
 cornetfishes
 cornetist
+cardshark
 cornetists
 cornets
 cornett
