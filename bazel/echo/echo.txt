@@ -3914,6 +3914,7 @@ emigrates
 emigrating
 emigration
 emigrational
+excl
 emigrationist
 emigrations
 emigrative
@@ -12081,7 +12082,6 @@ excitory
 excitors
 excitosecretory
 excitovascular
-excl
 exclaimed
 erucic
 exclaimer
