@@ -710,7 +710,6 @@ enspell
 economese
 econometer
 econometric
-econometrical
 econometrically
 econometrician
 econometrics
@@ -3464,6 +3463,7 @@ emblazer
 emblazers
 emblazes
 emblazing
+econometrical
 emblazon
 emblazoned
 emblazoner

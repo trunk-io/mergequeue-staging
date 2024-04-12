@@ -4793,7 +4793,6 @@ gyroidal
 gyrolite
 gyrolith
 gyroma
-gyromagnetic
 geologise
 gowkit
 gyromancy
@@ -6507,6 +6506,7 @@ gobmouthed
 gobo
 goboes
 gobonated
+gyromagnetic
 gobonee
 gobony
 gobs
