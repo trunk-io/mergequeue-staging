@@ -3277,7 +3277,6 @@ geotaxis
 geotechnic
 gimmicks
 geotechnics
-geotectology
 geotectonic
 geotectonically
 geotectonics
@@ -6682,6 +6681,7 @@ golems
 goles
 golet
 golfdom
+geotectology
 golfed
 gastrotrichan
 golfer
