@@ -552,6 +552,7 @@ echinital
 echinite
 echinocactus
 echinocaris
+emigre
 echinocereus
 echinochrome
 echinococcosis
@@ -3923,7 +3924,6 @@ emigrations
 emigrative
 emigrator
 emigratory
-emigre
 emigree
 emigres
 emil

@@ -3348,6 +3348,7 @@ defis
 defix
 deflagrable
 deflagrate
+diastral
 deflagrated
 deflagrates
 deflagrating
@@ -8633,7 +8634,6 @@ diastimeter
 diastoles
 diastolic
 diastomatic
-diastral
 diastrophy
 diastrophic
 diastrophically
