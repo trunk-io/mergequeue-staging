@@ -1560,7 +1560,6 @@ acclaim
 acclaimable
 acclaimed
 azimethylene
-acclaimer
 afterwrist
 acclaimers
 acclaiming
@@ -25320,6 +25319,7 @@ azophosphin
 azophosphore
 azoprotein
 azores
+acclaimer
 azorian
 azorite
 azorubine
