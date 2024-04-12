@@ -10869,7 +10869,6 @@ chiquest
 chiquitan
 chiquito
 chiragra
-chiragrical
 chirayta
 chiral
 chiralgia
@@ -18638,6 +18637,7 @@ colage
 colalgia
 colament
 colan
+chiragrical
 colander
 colanders
 consists

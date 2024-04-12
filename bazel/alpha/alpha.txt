@@ -554,7 +554,6 @@ ablatives
 ablator
 ablaut
 ablauts
-ablaze
 able
 ableeze
 ablegate
@@ -9526,6 +9525,7 @@ altitude
 altitudes
 altitudinarian
 abrastol
+ablaze
 altitudinous
 alto
 altocumulus
