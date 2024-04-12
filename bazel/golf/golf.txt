@@ -1558,7 +1558,6 @@ geometricians
 gasboat
 gascheck
 gascoign
-gascoigny
 gascoyne
 gasconade
 gasconader
@@ -10088,6 +10087,7 @@ guestchamber
 guested
 guesten
 guester
+gascoigny
 guesthouse
 guesthouses
 guestimate
