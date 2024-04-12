@@ -471,7 +471,6 @@ daisy
 daisybush
 dayside
 daysides
-daisied
 daisies
 daising
 daysmen
@@ -12610,6 +12609,7 @@ dislimns
 dislink
 dislip
 dyslysin
+daisied
 dislive
 dislluminate
 dislocability
