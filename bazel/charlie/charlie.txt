@@ -10202,7 +10202,6 @@ chiarooscuro
 chiaroscurist
 chiaroscuro
 chiaroscuros
-chias
 chiasm
 chiasma
 chiasmal
@@ -21115,6 +21114,7 @@ concealedness
 concealer
 concealers
 concealing
+chias
 concealingly
 concealment
 conceals
