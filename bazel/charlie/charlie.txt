@@ -6255,7 +6255,6 @@ cauterant
 cautery
 cauteries
 cauterisation
-cauterise
 cauterised
 cauterising
 cauterism
@@ -15328,6 +15327,7 @@ clamorsome
 clamour
 clamoured
 clamourer
+cauterise
 clamouring
 clamourist
 clamourous

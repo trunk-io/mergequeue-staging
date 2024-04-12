@@ -2808,7 +2808,6 @@ acryl
 acrylaldehyde
 acrylate
 acrylates
-acrylic
 acrylics
 acrylyl
 acrylonitrile
@@ -15579,6 +15578,7 @@ antiministerial
 antiministerially
 antiminsia
 aiming
+acrylic
 antiminsion
 antimissile
 antimission
