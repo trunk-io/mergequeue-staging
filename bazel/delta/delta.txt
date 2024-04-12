@@ -1328,6 +1328,7 @@ daunomycin
 daunt
 daunted
 daunters
+depender
 demissive
 daunting
 dauntingly
@@ -5587,7 +5588,6 @@ dependency
 dependencies
 dependently
 dependents
-depender
 depending
 dependingly
 depends
