@@ -11755,7 +11755,6 @@ chondrophore
 chondroplast
 chondroplasty
 chondroplastic
-chondroprotein
 cult
 chondropterygian
 chondropterygii
@@ -22151,6 +22150,7 @@ confuter
 confuters
 confutes
 confuting
+chondroprotein
 cong
 conga
 congaed
