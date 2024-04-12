@@ -3171,7 +3171,6 @@ actinophrys
 actinopod
 actinopoda
 actinopraxis
-actinopteran
 actinopteri
 actinopterygian
 actinopterygii
@@ -12831,6 +12830,7 @@ angiotelectasia
 angiotenosis
 angiotensin
 angiotensinase
+actinopteran
 angiothlipsis
 angiotome
 angiotomy
