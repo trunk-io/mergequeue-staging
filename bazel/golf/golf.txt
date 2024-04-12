@@ -1197,6 +1197,7 @@ genus
 ganofs
 ganoid
 ganoidal
+gryphon
 ganoidei
 griphosaurus
 ganoidian
@@ -9089,7 +9090,6 @@ griphite
 genyoplasty
 goniale
 gryphite
-gryphon
 gryphons
 gryphosaurus
 griphus
