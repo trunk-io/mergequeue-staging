@@ -3601,6 +3601,7 @@ bathyscaphes
 bathyseism
 bathysmal
 bathysophic
+belonger
 bathysophical
 bathysphere
 bathyspheres
@@ -5906,7 +5907,6 @@ belonephobia
 belonesite
 belong
 belonged
-belonger
 belonging
 belongings
 belongs

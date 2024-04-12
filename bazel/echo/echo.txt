@@ -3364,7 +3364,6 @@ embarking
 embarkment
 embarks
 embarment
-embarque
 embarras
 embarrased
 embarrass
@@ -5451,6 +5450,7 @@ endpiece
 extranidal
 endplate
 endplates
+embarque
 endpleasure
 endpoints
 endrin
