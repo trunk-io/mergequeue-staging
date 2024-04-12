@@ -18041,7 +18041,6 @@ coenotype
 coenotypic
 coenotrope
 coenthrone
-coenunuri
 coenure
 coenures
 coenuri
@@ -20316,6 +20315,7 @@ community
 communities
 communitive
 communitywide
+coenunuri
 communitorium
 communization
 communize
