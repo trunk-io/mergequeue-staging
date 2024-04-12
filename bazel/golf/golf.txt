@@ -4729,7 +4729,6 @@ grinter
 girgasite
 gyri
 gyric
-gyring
 gyrinid
 geoponical
 gyrinidae
@@ -8478,6 +8477,7 @@ gravimeters
 gravimetry
 greesagh
 gravimetric
+gyring
 gravimetrical
 gravimetrically
 graving

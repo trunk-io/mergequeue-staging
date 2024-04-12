@@ -17137,7 +17137,6 @@ apocopated
 apocopating
 apocopation
 apocope
-apocopes
 apocopic
 apocrenic
 apocrine
@@ -17480,6 +17479,7 @@ apothecary
 apothecaries
 apothecaryship
 apothece
+apocopes
 apotheces
 apothecia
 apothecial
