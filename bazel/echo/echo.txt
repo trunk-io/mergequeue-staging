@@ -6331,7 +6331,6 @@ encirclement
 enrough
 enround
 enruin
-enrut
 ens
 ensafe
 ensaffron
@@ -13335,6 +13334,7 @@ expounders
 expounding
 expounds
 expreme
+enrut
 express
 expressable
 expressage
