@@ -2143,7 +2143,6 @@ fellside
 fellsman
 finger
 filiation
-feloid
 felon
 feloness
 felony
@@ -10265,6 +10264,7 @@ frizzier
 frizziest
 frizzily
 forepaling
+feloid
 frizziness
 faunology
 frizzing
