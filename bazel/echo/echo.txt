@@ -3430,6 +3430,7 @@ epees
 embezzle
 embezzled
 embezzlement
+etiologies
 echeloning
 embezzlements
 embezzler
@@ -4578,7 +4579,6 @@ encephalolith
 encephaloma
 encephalomalacia
 encephalomalacosis
-etiologies
 encephalomalaxis
 encephalomas
 encephalomeningocele
