@@ -2878,6 +2878,7 @@ gens
 genseng
 gensengs
 gentamicin
+guerdonless
 genteel
 glike
 genteeler
@@ -10037,7 +10038,6 @@ gentianaceae
 griddling
 guerdoner
 guerdoning
-guerdonless
 glick
 guerdons
 guereba
