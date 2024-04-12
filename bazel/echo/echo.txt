@@ -4862,6 +4862,7 @@ encouragement
 extremist
 encouragements
 ephydriad
+encastage
 expertise
 encouragers
 encourages
@@ -12300,7 +12301,6 @@ executable
 executant
 execute
 executed
-encastage
 executes
 executing
 execution

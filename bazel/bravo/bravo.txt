@@ -8721,7 +8721,6 @@ billsticker
 billtong
 bilobate
 bilobated
-bilobe
 bilobed
 bilobiate
 bilobular
@@ -17643,6 +17642,7 @@ burghers
 burghership
 burghmaster
 burghmoot
+bilobe
 burghs
 burglar
 borides
