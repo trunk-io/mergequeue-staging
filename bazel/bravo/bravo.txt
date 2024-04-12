@@ -111,7 +111,6 @@ babylonism
 bioelectrogenetically
 backtrace
 babylonite
-babylonize
 babine
 babingtonite
 bacteriotrypsin
@@ -11039,6 +11038,7 @@ bloodflower
 bloodguilt
 bloodguiltiness
 bloodguiltless
+babylonize
 bloodhounds
 bloody
 bloodybones
