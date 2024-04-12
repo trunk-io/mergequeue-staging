@@ -5851,7 +5851,6 @@ engrapple
 engrasp
 engraulis
 engrave
-engraved
 engravement
 engraven
 engraver
@@ -8168,6 +8167,7 @@ episcopalian
 econ
 episcopalianism
 episcopalianize
+engraved
 episcopalians
 episcopalism
 episcopality
