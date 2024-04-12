@@ -20497,6 +20497,7 @@ compatible
 compatibleness
 compatibles
 compatience
+coppy
 compatient
 compatriot
 compatriotic
@@ -24651,7 +24652,6 @@ copperware
 copperwing
 copperworks
 coppet
-coppy
 coppiced
 caryatic
 coppices

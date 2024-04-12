@@ -6647,7 +6647,6 @@ enterocolitis
 enterocolostomy
 embeggar
 enterodelous
-enterodynia
 enteroepiplocele
 enterogastritis
 enterogastrone
@@ -12136,6 +12135,7 @@ excogitative
 excogitator
 excommenge
 excommune
+enterodynia
 excommunicable
 excommunicant
 extempory
