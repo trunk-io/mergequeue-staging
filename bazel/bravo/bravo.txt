@@ -8502,7 +8502,6 @@ bilaciniate
 bilayer
 bookmen
 bilalo
-bilamellar
 bilamellate
 bilamellated
 bilaminar
@@ -17929,6 +17928,7 @@ burut
 burweed
 burweeds
 bus
+bilamellar
 busaos
 busbar
 busbars
