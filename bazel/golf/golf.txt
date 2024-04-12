@@ -7955,7 +7955,6 @@ grandmaster
 grandmontine
 grandmother
 glossopode
-gallus
 grandmotherhood
 grandmotherly
 grandmotherliness
@@ -8743,6 +8742,7 @@ greets
 greeve
 greffe
 gonostyle
+gallus
 greffier
 greffotome
 greg
