@@ -10846,6 +10846,7 @@ chippable
 chippage
 chipped
 chippendale
+coannex
 chipper
 chippered
 chippering
@@ -26039,7 +26040,6 @@ cosmetic
 cosmetical
 cosmetically
 cosmetician
-coannex
 cosmeticize
 cyclonical
 curricular

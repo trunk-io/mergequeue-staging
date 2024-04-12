@@ -10184,7 +10184,6 @@ guilder
 guilders
 graduating
 guildhall
-guildic
 guildite
 guildry
 guilds
@@ -10718,6 +10717,7 @@ gustoes
 gustoish
 gustoso
 gusts
+guildic
 gustus
 gut
 gutbucket
