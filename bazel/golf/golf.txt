@@ -2822,7 +2822,6 @@ galliformes
 genit
 genital
 genitalia
-genitalial
 genitalic
 genitally
 genitals
@@ -10501,6 +10500,7 @@ geraty
 gunlaying
 gunless
 gunline
+genitalial
 gunlock
 glossagra
 gunlocks
