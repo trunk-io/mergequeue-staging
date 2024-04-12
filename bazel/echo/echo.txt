@@ -6653,7 +6653,6 @@ embeggar
 enterodelous
 enterodynia
 enteroepiplocele
-enterogastritis
 enterogastrone
 enterogenous
 enterogram
@@ -9261,6 +9260,7 @@ ermines
 exemplupla
 erminette
 ermining
+enterogastritis
 erminites
 erminois
 ermitophobia
