@@ -2943,7 +2943,6 @@ capacitativly
 capacitator
 capacity
 capacities
-capacitive
 capacitively
 capacitor
 capacitors
@@ -6384,6 +6383,7 @@ cavilingness
 cavillation
 cavillatory
 cavilled
+capacitive
 caviller
 cavillers
 cavilling
