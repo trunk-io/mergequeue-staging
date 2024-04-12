@@ -308,7 +308,6 @@ fag
 fagaceae
 fagaceous
 fagald
-fayal
 foraminifera
 fayalites
 fayence
@@ -9716,6 +9715,7 @@ freestone
 freestones
 freet
 freethink
+fayal
 forbidal
 freethinker
 freethinkers
