@@ -4413,7 +4413,6 @@ gynecomorphous
 germanite
 gyneconitis
 gynecopathy
-gynecopathic
 gynecophoric
 gynecophorous
 gynecratic
@@ -5803,6 +5802,7 @@ gloms
 glomus
 glonoin
 glonoine
+gynecopathic
 glood
 gloomed
 gloomful
