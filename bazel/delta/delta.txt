@@ -12726,7 +12726,6 @@ dysmetria
 dismettled
 disminion
 dismiss
-dismissable
 dismissal
 dismissals
 dismissed
@@ -13461,6 +13460,7 @@ disseizes
 disseizor
 desolations
 disseizoress
+dismissable
 disseizure
 dissemblance
 dissemble
