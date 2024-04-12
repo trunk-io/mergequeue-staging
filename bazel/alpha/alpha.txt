@@ -6622,7 +6622,6 @@ ahet
 ahi
 ahimsa
 ahimsas
-ahind
 ahint
 ahir
 ahistoric
@@ -19487,6 +19486,7 @@ arghool
 arghoul
 argid
 argify
+ahind
 argil
 argyle
 argyles

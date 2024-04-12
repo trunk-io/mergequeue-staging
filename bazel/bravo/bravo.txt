@@ -8113,6 +8113,7 @@ bicolligate
 bicolor
 bicolored
 bicolorous
+bowboy
 bicolors
 bicolour
 bicoloured
@@ -13705,7 +13706,6 @@ bowable
 bowback
 bowbells
 bowbent
-bowboy
 bowden
 bowdichia
 bowditch
