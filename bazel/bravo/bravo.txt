@@ -15863,6 +15863,7 @@ bromoacetone
 bromoaurate
 bromoaurates
 bromoauric
+burettes
 bromobenzene
 bromobenzyl
 bromochloromethane
@@ -17595,7 +17596,6 @@ burelly
 buret
 burets
 burette
-burettes
 burez
 burfish
 burg
