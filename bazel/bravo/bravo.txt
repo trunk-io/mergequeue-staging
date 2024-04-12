@@ -3433,7 +3433,6 @@ bast
 basta
 bastaard
 bastant
-bastard
 bastarda
 bastardy
 bastardice
@@ -13752,6 +13751,7 @@ bowet
 bowfin
 bowfins
 bowfront
+bastard
 bowgrace
 bowhead
 borrowed
