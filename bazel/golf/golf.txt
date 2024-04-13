@@ -4965,7 +4965,6 @@ gjetost
 gjetosts
 gl
 glabbella
-glabella
 glabellae
 glabellar
 gelatinousness
@@ -8272,6 +8271,7 @@ grassbird
 grasschat
 grasscut
 grasscutter
+glabella
 grassed
 grasseye
 glod
