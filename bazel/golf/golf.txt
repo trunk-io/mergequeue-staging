@@ -3587,7 +3587,6 @@ gestations
 gestative
 gestatory
 gestatorial
-geste
 gested
 gesten
 gastroxynsis
@@ -9992,6 +9991,7 @@ gubernatrix
 gucki
 gucks
 gud
+geste
 gudame
 guddle
 guddled
