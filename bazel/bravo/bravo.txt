@@ -4401,6 +4401,7 @@ becapping
 becaps
 becard
 becarpet
+bluebutton
 bigamist
 becarpeted
 becarpeting
@@ -11299,7 +11300,6 @@ bluebooks
 bluebottles
 bluebreast
 bluebush
-bluebutton
 bluecap
 bluecaps
 bluecoat
