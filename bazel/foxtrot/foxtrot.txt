@@ -784,7 +784,6 @@ freemasonry
 fibula
 fanfold
 fanfolds
-fanfoot
 fang
 financing
 fanga
@@ -4621,6 +4620,7 @@ fivesome
 fivestones
 fivish
 fix
+fanfoot
 flourisher
 fixable
 fixage

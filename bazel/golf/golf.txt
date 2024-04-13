@@ -1051,7 +1051,6 @@ gan
 ganam
 gananciales
 gadgety
-ganancias
 ganapati
 ganch
 ganched
@@ -5922,6 +5921,7 @@ glossitic
 glossitis
 glossless
 glossmeter
+ganancias
 geod
 glossocarcinoma
 glossocele
