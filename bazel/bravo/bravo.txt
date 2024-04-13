@@ -647,6 +647,7 @@ bacteriaceous
 bacteriaemia
 beshouted
 biblist
+blypes
 bacterial
 bacterially
 bacterian
@@ -10875,7 +10876,6 @@ blintze
 blintzes
 blip
 blype
-blypes
 blipped
 blippers
 blipping

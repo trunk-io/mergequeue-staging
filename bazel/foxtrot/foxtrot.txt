@@ -5392,7 +5392,6 @@ fleecy
 fluffier
 fleecier
 fleeciest
-fleecily
 fleeciness
 fleecing
 fleeing
@@ -7939,6 +7938,7 @@ forerunner
 forerunners
 forerunning
 forerunnings
+fleecily
 foreruns
 fores
 foresaddle
