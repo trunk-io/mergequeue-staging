@@ -556,7 +556,6 @@ backstops
 bethlehemite
 backstrap
 backstrapped
-backstreet
 backstretch
 backstretches
 butomaceous
@@ -15112,6 +15111,7 @@ bryanism
 bryanite
 bryanthus
 briar
+backstreet
 briarberry
 briard
 briards
