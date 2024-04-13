@@ -2703,6 +2703,7 @@ generated
 generater
 generates
 generational
+gurglets
 generationism
 generations
 generative
@@ -10618,7 +10619,6 @@ gurgitation
 gurgled
 gurgles
 gurglet
-gurglets
 gurgling
 guardee
 gurgoyl
