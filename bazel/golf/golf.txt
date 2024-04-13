@@ -6587,7 +6587,6 @@ gola
 golach
 goladar
 golandaas
-golandause
 golaseccan
 golconda
 golcondas
@@ -7811,6 +7810,7 @@ grame
 gramercy
 gramercies
 gramy
+golandause
 gramicidin
 graminaceae
 gramineae
