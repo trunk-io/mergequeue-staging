@@ -5644,6 +5644,7 @@ beld
 beldam
 beldame
 beldames
+botanical
 beldams
 beldamship
 britten
@@ -13232,7 +13233,6 @@ bota
 botany
 botanic
 botanica
-botanical
 bivaulted
 botanically
 botanicas
