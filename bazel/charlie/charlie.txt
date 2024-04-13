@@ -11514,7 +11514,6 @@ cholane
 cholangiography
 cholangioitis
 cholangitis
-cholanic
 cholanthrene
 cholate
 cholates
@@ -18194,6 +18193,7 @@ cofferer
 cofferfish
 coffering
 cofferlike
+cholanic
 coffers
 cofferwork
 coffin
