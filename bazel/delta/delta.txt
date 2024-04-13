@@ -7869,7 +7869,6 @@ dextrins
 dextro
 dextroamphetamine
 dextroaural
-datiscetin
 dextrocardia
 dextrocardial
 dextrocerebral
@@ -13633,6 +13632,7 @@ dissociable
 dissociably
 dissocial
 dissociality
+datiscetin
 dissociant
 dissociate
 dissociated
