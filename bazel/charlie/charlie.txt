@@ -14864,7 +14864,6 @@ cytoclasis
 cytoclastic
 cytococci
 cytococcus
-cytode
 cytoderm
 cytodiagnosis
 cytodieresis
@@ -16536,6 +16535,7 @@ cloisterlike
 cloisterliness
 cloisters
 cloisterwise
+cytode
 cloistral
 cloistress
 cloit
