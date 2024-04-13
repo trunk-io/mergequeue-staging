@@ -5653,6 +5653,7 @@ depictions
 depictive
 depictment
 depictor
+dismutation
 depictors
 depicts
 depicture
@@ -12748,7 +12749,6 @@ dismountable
 dismounted
 dismounting
 dismounts
-dismutation
 disna
 dryope
 disnatural
