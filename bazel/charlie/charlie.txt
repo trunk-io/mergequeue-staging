@@ -21773,6 +21773,7 @@ cone
 coned
 coneflower
 conehead
+confirmand
 coneine
 coneys
 conelike
@@ -21972,7 +21973,6 @@ confirm
 confirmability
 chivying
 confirmable
-confirmand
 confirmation
 confirmational
 confirmations
