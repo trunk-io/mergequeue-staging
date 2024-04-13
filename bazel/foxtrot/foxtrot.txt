@@ -5774,7 +5774,6 @@ fliting
 flyting
 flytings
 futharks
-fleuronee
 flytrap
 flytraps
 flits
@@ -8772,6 +8771,7 @@ fortuned
 fortunel
 fades
 formated
+fleuronee
 fortuneless
 firebreak
 fortunella

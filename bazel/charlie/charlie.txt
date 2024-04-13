@@ -4441,7 +4441,6 @@ carnosine
 carnosity
 carnosities
 carnous
-carns
 caro
 caroa
 caroach
@@ -31499,6 +31498,7 @@ cursory
 cursorial
 cursoriidae
 cursorily
+carns
 cursoriness
 cursorious
 cursorius
