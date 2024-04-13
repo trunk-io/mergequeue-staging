@@ -4406,7 +4406,6 @@ gynecologist
 gremmie
 getspace
 gynecomania
-gynecomaniac
 gynecomaniacal
 gynecomasty
 garabato
@@ -5723,6 +5722,7 @@ globoid
 galacturia
 globose
 globosely
+gynecomaniac
 globoseness
 globosite
 globosity

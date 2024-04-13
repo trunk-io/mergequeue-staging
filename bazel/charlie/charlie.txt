@@ -5717,7 +5717,6 @@ categorizing
 cateye
 catel
 catelectrode
-catelectrotonic
 catelectrotonus
 catella
 catena
@@ -8252,6 +8251,7 @@ chalcograph
 chalcographer
 chalcography
 chalcographic
+catelectrotonic
 chalcographical
 chalcographist
 chalcolite
