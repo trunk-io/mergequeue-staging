@@ -5327,7 +5327,6 @@ endoscopically
 endoscopies
 endoscopist
 endosecretory
-endosymbiosis
 endosiphon
 endosiphonal
 endosiphonate
@@ -13534,6 +13533,7 @@ extemporariness
 extempore
 extemporisation
 extemporise
+endosymbiosis
 extemporised
 eigh
 extemporiser

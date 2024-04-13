@@ -3540,7 +3540,6 @@ figureheadship
 figworts
 falconer
 fiji
-fijian
 fike
 fyke
 fiked
@@ -7202,6 +7201,7 @@ footgrip
 foothalt
 filths
 foothill
+fijian
 flatcap
 foothold
 footholds
