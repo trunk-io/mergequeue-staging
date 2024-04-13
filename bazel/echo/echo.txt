@@ -4807,7 +4807,6 @@ encoffin
 exuviation
 encoffinment
 esox
-encoil
 encolden
 encollar
 encolour
@@ -12142,6 +12141,7 @@ excommunicant
 extempory
 excommunicated
 excommunicating
+encoil
 excommunication
 excommunications
 excommunicative
