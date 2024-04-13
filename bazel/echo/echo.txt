@@ -4445,7 +4445,6 @@ enantiomorphous
 enantiomorphously
 enantiopathy
 enantiopathia
-enantiopathic
 engaging
 enantioses
 enantiosis
@@ -7317,6 +7316,7 @@ enrheum
 eobionts
 eocarboniferous
 eocene
+enantiopathic
 eodevonian
 eof
 eogaean
