@@ -4051,7 +4051,6 @@ exorability
 eponymize
 emp
 empaestic
-empaistic
 empale
 empalement
 empaler
@@ -12454,6 +12453,7 @@ exfoliative
 exfoliatory
 exgorgitation
 ethnocentrically
+empaistic
 exhalable
 exhalants
 exhalation
