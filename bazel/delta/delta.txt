@@ -15885,7 +15885,6 @@ dosserets
 dossers
 dosses
 dossety
-dosshouse
 dossy
 dossier
 dossiere
@@ -18233,6 +18232,7 @@ dunnages
 dunnaging
 dunnakin
 dunne
+dosshouse
 dunner
 dunness
 dunnesses
