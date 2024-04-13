@@ -2447,7 +2447,6 @@ electroindustrial
 electroing
 electroionic
 electroirrigation
-electrojet
 eposes
 electrokinematics
 electrokinetic
@@ -12107,6 +12106,7 @@ excludability
 excludable
 envelopes
 exclude
+electrojet
 excludes
 excludible
 endpoint
