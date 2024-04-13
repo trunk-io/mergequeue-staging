@@ -6524,6 +6524,7 @@ beothukan
 bepaid
 barbermonger
 bepaint
+blackband
 bepainted
 belady
 bepaper
@@ -10054,7 +10055,6 @@ blackballed
 blackballing
 bitterhead
 blackballs
-blackband
 breeding
 blackbeard
 blackbelly

@@ -10379,7 +10379,6 @@ chieftainship
 chieftainships
 chieftess
 chiefty
-chiel
 chield
 chields
 chien
@@ -22565,6 +22564,7 @@ connectors
 connects
 conned
 connellite
+chiel
 criminogenic
 conner
 conners
