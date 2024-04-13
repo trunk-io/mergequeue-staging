@@ -2081,7 +2081,6 @@ acetylsalol
 acetylthymol
 acetyltropeine
 acetylurea
-acetimeter
 acetimetry
 acetimetric
 acetin
@@ -15130,6 +15129,7 @@ antidomestic
 alogian
 antidomestically
 acquophonia
+acetimeter
 antidominican
 antidora
 antidoron
