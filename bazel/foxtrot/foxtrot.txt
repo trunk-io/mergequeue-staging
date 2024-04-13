@@ -8440,6 +8440,7 @@ formativeness
 flingdust
 formats
 formatter
+frostation
 formatters
 formatting
 formature
@@ -10482,7 +10483,6 @@ frory
 frosh
 frost
 foregoer
-frostation
 flyblew
 frostbite
 frostbiter
