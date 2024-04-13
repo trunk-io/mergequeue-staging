@@ -3226,7 +3226,6 @@ elutriating
 elutriation
 elutriator
 eluvia
-excursory
 eluvial
 eluviate
 eluviated
@@ -9448,6 +9447,7 @@ erupt
 erupted
 eruptible
 erupting
+excursory
 eruption
 eruptional
 estruate
