@@ -13511,7 +13511,6 @@ cilantros
 cilectomy
 cornichon
 cilery
-cilia
 ciliary
 ciliata
 ciliate
@@ -30389,6 +30388,7 @@ ctenidium
 cteniform
 creat
 cteninidia
+cilia
 ctenizid
 ctenocephalus
 copelate
