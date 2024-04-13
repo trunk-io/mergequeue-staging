@@ -772,6 +772,7 @@ ecphonema
 ecphorable
 emersed
 ecphore
+evaporativity
 ecphory
 ecphoria
 ecphoriae
@@ -11415,7 +11416,6 @@ evaporation
 evaporations
 evaporatively
 enzymatically
-evaporativity
 exercises
 evaporator
 evaporators
