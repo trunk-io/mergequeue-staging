@@ -2615,7 +2615,6 @@ buzylene
 barhopped
 barhopping
 barhops
-bari
 baria
 brandies
 bariatrician
@@ -13710,6 +13709,7 @@ bowbells
 bowbent
 bowden
 bowdichia
+bari
 bowditch
 blathering
 bowdlerisation
