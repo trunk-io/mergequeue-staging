@@ -9248,7 +9248,6 @@ frae
 fraela
 fraena
 fraenula
-fraenular
 fraenum
 fragaria
 fragged
@@ -10831,6 +10830,7 @@ fuddles
 fuddling
 fuder
 fudged
+fraenular
 fudger
 fudgy
 fudging
