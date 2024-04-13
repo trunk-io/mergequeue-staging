@@ -1569,7 +1569,6 @@ gaselier
 gaseous
 gaseously
 gaseousness
-gases
 gasfiring
 gash
 giraffe
@@ -7682,6 +7681,7 @@ glucase
 graduates
 graduateship
 graduatical
+gases
 graduation
 graduations
 graduator
