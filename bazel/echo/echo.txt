@@ -6620,6 +6620,7 @@ enterobacterial
 enterobiasis
 enterobiliary
 enterocele
+erythrochroism
 enterocentesis
 enteroceptor
 enterochirurgia
@@ -9163,7 +9164,6 @@ erythrocatalysis
 eurygnathism
 enthusiasticalness
 erythrochroic
-erythrochroism
 erythrocyte
 erythrocytes
 erythrocytoblast
