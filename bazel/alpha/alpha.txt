@@ -1278,7 +1278,6 @@ acanthin
 acanthine
 acanthion
 acanthite
-allophytoid
 acanthocarpous
 acanthocephala
 acanthocephalan
@@ -15704,6 +15703,7 @@ antinomist
 antinoness
 antinormal
 antinormality
+allophytoid
 antinormalness
 antinosarian
 antinous

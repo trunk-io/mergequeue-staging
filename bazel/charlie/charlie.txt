@@ -6221,7 +6221,6 @@ causon
 causse
 causson
 caustic
-caustical
 caustically
 causticism
 causticity
@@ -12910,6 +12909,7 @@ chuser
 chusite
 critism
 chut
+caustical
 chute
 chuted
 chuter
