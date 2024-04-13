@@ -2907,6 +2907,7 @@ barrabora
 barracan
 barrace
 barrack
+breakpoint
 barracked
 barracker
 barracking
@@ -14830,7 +14831,6 @@ breakout
 breakouts
 bicuspids
 breakover
-breakpoint
 breakpoints
 breaks
 breakshugh
