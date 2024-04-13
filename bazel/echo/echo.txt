@@ -1149,6 +1149,7 @@ editorialization
 editorializations
 editorialize
 editorialized
+ephoric
 endomitotic
 eidology
 editorializer
@@ -7569,7 +7570,6 @@ ephoralty
 ephorate
 ephorates
 ephori
-ephoric
 ephors
 ephorship
 ephphatha
