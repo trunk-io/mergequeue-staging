@@ -21192,7 +21192,6 @@ conceptible
 conception
 conceptional
 conceptionist
-conceptism
 conceptive
 conceptiveness
 conceptual
@@ -23652,6 +23651,7 @@ contradictory
 contradictories
 contradictorily
 contradictoriness
+conceptism
 contradicts
 contradiscriminate
 contradistinct
