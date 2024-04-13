@@ -5669,6 +5669,7 @@ beleed
 beleft
 belemnid
 belemnite
+bolstering
 belemnites
 belemnitic
 belemnitidae
@@ -12188,7 +12189,6 @@ bolsons
 bolstered
 bolsterer
 bolsterers
-bolstering
 bolsters
 brake
 bolsterwork
