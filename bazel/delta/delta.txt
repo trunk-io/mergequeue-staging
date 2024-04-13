@@ -7809,7 +7809,6 @@ dewer
 dewfall
 dewfalls
 dewflower
-dewy
 dewier
 dewiest
 dewiness
@@ -8934,6 +8933,7 @@ dicyemidae
 dicier
 diciest
 dicing
+dewy
 dicynodont
 dicynodontia
 dicynodontidae
