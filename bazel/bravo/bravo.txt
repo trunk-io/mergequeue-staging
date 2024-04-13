@@ -9284,7 +9284,6 @@ bypath
 bypaths
 bipectinate
 bullishly
-bipectinated
 biped
 bipedal
 bipedality
@@ -16406,6 +16405,7 @@ benames
 brusque
 brusquely
 brusqueness
+bipectinated
 brusquer
 brusquerie
 brusquest
