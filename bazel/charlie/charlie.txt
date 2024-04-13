@@ -15519,7 +15519,6 @@ clarseach
 clarsech
 censused
 clarseth
-clarshech
 clart
 commensality
 clarty
@@ -30680,6 +30679,7 @@ cuinfo
 cuing
 cuir
 cuirassed
+clarshech
 cuirasses
 cuirassier
 cuirassing
