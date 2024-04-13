@@ -2278,7 +2278,6 @@ electricalize
 electrically
 electricalness
 electrican
-electricans
 electrician
 electricians
 electricity
@@ -12268,6 +12267,7 @@ excusatory
 excuse
 excused
 excuseful
+electricans
 excusefully
 excuseless
 excuser
