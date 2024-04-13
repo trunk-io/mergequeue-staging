@@ -1280,6 +1280,7 @@ dauber
 dauberies
 draying
 daubes
+dielike
 dauby
 daubier
 daubiest
@@ -2298,7 +2299,6 @@ decerned
 decerns
 decerp
 decertation
-dielike
 databases
 decertify
 decertification

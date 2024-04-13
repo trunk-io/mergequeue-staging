@@ -6230,7 +6230,6 @@ geonoma
 gnaeus
 gnamma
 gnaphalioid
-gingles
 gnaphalium
 gnapweed
 gnar
@@ -8688,6 +8687,7 @@ greenkeeper
 greenkeeping
 gapers
 greenland
+gingles
 gangion
 greenlander
 greenlandish
