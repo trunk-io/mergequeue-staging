@@ -1476,7 +1476,6 @@ effuses
 effusiometer
 espiegle
 effusion
-effusions
 effusive
 effusively
 effusiveness
@@ -5700,6 +5699,7 @@ engastrimyth
 engastrimythic
 engaud
 engaze
+effusions
 engelmann
 extreat
 engelmanni
