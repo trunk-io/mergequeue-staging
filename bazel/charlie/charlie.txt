@@ -2804,7 +2804,6 @@ cantilated
 cantilating
 cantilena
 cantilene
-cantilenes
 cantilever
 cantilevered
 cantilevering
@@ -25125,6 +25124,7 @@ corycavine
 corycia
 corydalin
 corydaline
+cantilenes
 corydalis
 corydon
 corydora
