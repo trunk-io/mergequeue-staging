@@ -2162,6 +2162,7 @@ bannack
 bannat
 banned
 banner
+bissextile
 bannerer
 banneret
 bannerets
@@ -9730,7 +9731,6 @@ bissabol
 byssaceous
 byssal
 bissellia
-bissextile
 bissextus
 byssi
 byssiferous
