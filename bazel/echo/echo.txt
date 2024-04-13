@@ -4546,7 +4546,6 @@ empark
 excluder
 encasserole
 encastered
-entoderm
 encastre
 encastrement
 encauma
@@ -11804,6 +11803,7 @@ exameter
 examinability
 examinable
 examinant
+entoderm
 examinate
 examination
 examinational
