@@ -2399,6 +2399,7 @@ candlewright
 candling
 candock
 cirl
+constableship
 candollea
 candolleaceae
 candolleaceous
@@ -23040,7 +23041,6 @@ constable
 constablery
 cowgate
 constables
-constableship
 constabless
 constablewick
 constabular
