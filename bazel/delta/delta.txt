@@ -4481,6 +4481,7 @@ demethylate
 demethylation
 demethylchlortetracycline
 demetrian
+distn
 demetricize
 demi
 deceits
@@ -13853,7 +13854,6 @@ distinguishingly
 distinguishment
 distintion
 distitle
-distn
 dystocia
 dystocial
 dystocias
