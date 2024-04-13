@@ -7636,7 +7636,6 @@ gradationately
 gradatively
 gradatory
 graddan
-grade
 graded
 gradeless
 gradely
@@ -9474,6 +9473,7 @@ group
 groupable
 groupage
 groupageness
+grade
 grouped
 grouper
 groupers
