@@ -1474,6 +1474,7 @@ garote
 garoter
 garotes
 garoting
+globs
 gasts
 garotte
 garotted
@@ -5732,7 +5733,6 @@ globosities
 globous
 globously
 globousness
-globs
 globular
 gconvert
 globularia
