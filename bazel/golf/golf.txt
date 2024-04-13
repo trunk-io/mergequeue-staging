@@ -1836,7 +1836,6 @@ gastromancy
 gastromelus
 gastromenia
 gastromyces
-gastromycosis
 gastromyxorrhea
 gastronephritis
 gastronome
@@ -3586,6 +3585,7 @@ gestation
 gestational
 gestations
 gestative
+gastromycosis
 gestatory
 gestatorial
 geste
