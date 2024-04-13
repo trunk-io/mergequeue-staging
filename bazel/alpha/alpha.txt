@@ -3387,7 +3387,6 @@ adamancy
 adamancies
 adamant
 adamantean
-antitheological
 adamantine
 adamantinoma
 adamantly
@@ -12142,6 +12141,7 @@ ancha
 anchat
 anchietin
 anchietine
+antitheological
 anchylose
 anchylosing
 anchylosis
