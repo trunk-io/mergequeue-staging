@@ -5815,7 +5815,6 @@ fll
 finder
 flnerie
 flneur
-flneuse
 flench
 fload
 float
@@ -7621,6 +7620,7 @@ foredefeated
 filthified
 foredefine
 foredenounce
+flneuse
 foredescribe
 foredeserved
 foredesign
