@@ -2123,7 +2123,6 @@ elasticness
 elasticum
 elastin
 encompassed
-elastins
 elastivity
 elastomer
 elastomeric
@@ -3819,6 +3818,7 @@ embowl
 expansometer
 ensandal
 emending
+elastins
 emer
 emerald
 emeraldine

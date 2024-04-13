@@ -7588,6 +7588,7 @@ foreclosed
 foreclosing
 foreclosure
 foreclosures
+frontage
 forebearing
 forecome
 fumer
@@ -10402,7 +10403,6 @@ frondous
 frons
 front
 frontad
-frontage
 floe
 feldspars
 frontager
