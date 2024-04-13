@@ -14629,7 +14629,6 @@ bratling
 bratstvo
 brattach
 bratty
-brattice
 bratticer
 brattices
 bratticing
@@ -17155,6 +17154,7 @@ bullier
 bullies
 bulliform
 bullyhuff
+brattice
 builder
 bullying
 bullyingly
