@@ -4770,7 +4770,6 @@ encitadel
 encl
 enclaret
 enclasp
-enclasped
 enclasping
 enclasps
 eidola
@@ -14031,6 +14030,7 @@ extravenate
 extraventricular
 extraversion
 extraversive
+enclasped
 effable
 extraversively
 extravert
