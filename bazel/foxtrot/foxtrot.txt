@@ -2074,7 +2074,6 @@ felicity
 felicities
 felicitous
 felicitously
-felicitousness
 felid
 felidae
 felids
@@ -3448,6 +3447,7 @@ fiestas
 fieulamort
 fifed
 fifer
+felicitousness
 fifes
 finks
 fifie
