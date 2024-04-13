@@ -9120,7 +9120,6 @@ fowlery
 fowlerite
 fowlers
 fowlfoot
-fowling
 fowlings
 fowlpox
 fowlpoxes
@@ -9261,6 +9260,7 @@ foundationless
 foreorder
 fragging
 fraggings
+fowling
 fragilaria
 fragilariaceae
 flaunts
