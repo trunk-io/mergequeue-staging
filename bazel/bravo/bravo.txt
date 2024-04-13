@@ -6400,6 +6400,7 @@ benzdioxdiazine
 benzdioxtriazine
 benzedrine
 benzein
+biolith
 benzene
 benzeneazobenzene
 benzenediazonium
@@ -9050,7 +9051,6 @@ biolyses
 bludgeoneer
 biolysis
 biolite
-biolith
 biolytic
 biologese
 biologic
