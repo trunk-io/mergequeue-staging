@@ -5430,7 +5430,6 @@ beheader
 beheading
 beheads
 behear
-behears
 behearse
 behedge
 beheira
@@ -14239,6 +14238,7 @@ brahma
 brahmachari
 brahmahood
 brahmaic
+behears
 brahman
 brahmana
 brahmanaspati

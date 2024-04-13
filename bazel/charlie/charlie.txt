@@ -6207,7 +6207,6 @@ causelessness
 causerie
 causers
 causes
-causeur
 causeuse
 causeuses
 causeway
@@ -10033,6 +10032,7 @@ cherubical
 cherubically
 cherubim
 cherubimic
+causeur
 cherubimical
 cherubin
 cherublike
