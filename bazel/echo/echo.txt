@@ -7039,7 +7039,6 @@ entreasured
 entreasuring
 entreat
 entreatable
-entreated
 entreater
 entreatful
 entreaties
@@ -8598,6 +8597,7 @@ ecalcavate
 equators
 equatorward
 equatorwards
+entreated
 equerry
 equerries
 equerryship
