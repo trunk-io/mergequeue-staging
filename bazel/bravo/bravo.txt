@@ -3995,6 +3995,7 @@ beaches
 beachfront
 beachhead
 beachheads
+beudantite
 beachy
 beachie
 beachier
@@ -7533,7 +7534,6 @@ betwixen
 betwixt
 booteries
 beudanite
-beudantite
 beulah
 beuncled
 beurre

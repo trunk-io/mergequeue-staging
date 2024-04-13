@@ -5323,7 +5323,6 @@ exostema
 endoscopes
 endoscopy
 endoscopic
-endoscopically
 endoscopies
 endoscopist
 endosecretory
@@ -12862,6 +12861,7 @@ exoterical
 exoterically
 exotericism
 embossmen
+endoscopically
 exoterics
 exotheca
 exothecal
