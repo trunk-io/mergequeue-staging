@@ -9256,7 +9256,6 @@ bipacks
 bipaleolate
 bipalium
 bipalmate
-biparental
 biparentally
 biparietal
 biparted
@@ -15129,6 +15128,7 @@ bribe
 bribeability
 bulblet
 bribeable
+biparental
 bribed
 bribee
 bribees
