@@ -3543,6 +3543,7 @@ embolomycotic
 embolon
 emboltement
 embolum
+extraprofessional
 embolus
 emborder
 embordered
@@ -13934,7 +13935,6 @@ extrapolator
 extrapolatory
 extrapopular
 extraposition
-extraprofessional
 extraprostatic
 extraprovincial
 extrapulmonary
