@@ -4381,7 +4381,6 @@ fragmentate
 fisherfolk
 fishery
 fisheries
-fisherman
 fishermen
 fisherpeople
 flammably
@@ -9751,6 +9750,7 @@ freezable
 freeze
 freezed
 faiths
+fisherman
 flumerin
 freezer
 freezes
