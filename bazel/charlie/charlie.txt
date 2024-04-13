@@ -14928,6 +14928,7 @@ cytomorphological
 cytomorphosis
 cyton
 cytone
+cytovirin
 cytons
 cytopahgous
 cytoparaplastin
@@ -14995,7 +14996,6 @@ cytotrophoblast
 cytotrophoblastic
 cytotropic
 cytotropism
-cytovirin
 chude
 cytozymase
 cytozyme
