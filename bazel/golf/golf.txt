@@ -3892,6 +3892,7 @@ girderless
 gibbsite
 griph
 gibbsites
+generalizable
 gibbus
 gibe
 geophyte
@@ -6565,7 +6566,6 @@ gadolinite
 goyetian
 goyim
 goyin
-generalizable
 goyish
 goyle
 going
