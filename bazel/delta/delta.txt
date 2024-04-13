@@ -7135,7 +7135,6 @@ detained
 detainee
 detainees
 detainer
-dyings
 detainers
 drawled
 detaining
@@ -17735,6 +17734,7 @@ ducats
 ducatus
 ducdame
 duce
+dyings
 duces
 duchan
 duchery
