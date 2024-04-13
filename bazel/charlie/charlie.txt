@@ -10730,7 +10730,6 @@ chinchiness
 chinching
 chinchona
 chincloth
-chincof
 cwm
 chincona
 chindee
@@ -18079,6 +18078,7 @@ coercible
 coercibleness
 coercibly
 coercion
+chincof
 coercionary
 coercionist
 coercions
