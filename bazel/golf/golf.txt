@@ -4014,7 +4014,6 @@ gigantological
 gigantomachy
 gigantopithecus
 gigantosaurus
-gigantostraca
 gigantostracous
 gigartina
 gigartinaceae
@@ -10447,6 +10446,7 @@ gumweed
 gumweeds
 goys
 gumwoods
+gigantostraca
 glitter
 gramenite
 gun
