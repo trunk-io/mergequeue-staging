@@ -2864,6 +2864,7 @@ decurrences
 decurrency
 decurrencies
 decurrent
+dustiness
 decurring
 defeminising
 decursive
@@ -18560,7 +18561,6 @@ dustyfoot
 dustily
 deblock
 dustin
-dustiness
 dusting
 dustless
 dispope
