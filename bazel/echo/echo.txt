@@ -2671,6 +2671,7 @@ electrothermic
 electrothermics
 enschedule
 electrothermometer
+estuant
 electrothermostat
 electrothermostatic
 electrothermotic
@@ -10142,7 +10143,6 @@ elk
 estrum
 estrums
 estruses
-estuant
 erythrodextrin
 estuary
 estuarial

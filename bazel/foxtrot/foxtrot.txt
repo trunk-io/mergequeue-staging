@@ -869,7 +869,6 @@ fantasticate
 fantastication
 fantasticism
 fantasticly
-fantasticness
 fantastico
 fantastry
 fantasts
@@ -4725,6 +4724,7 @@ fishman
 flaffer
 flag
 flagarie
+fantasticness
 flagboat
 flagella
 flagellant
