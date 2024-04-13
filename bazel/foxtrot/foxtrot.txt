@@ -4640,6 +4640,7 @@ fixers
 fixes
 fixidity
 fixing
+frugality
 forborn
 fixings
 fixion
@@ -10641,7 +10642,6 @@ frugalism
 frugalist
 favorableness
 flatnesses
-frugality
 frugalities
 frugally
 frugalness
