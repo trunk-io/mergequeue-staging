@@ -5041,7 +5041,6 @@ endermically
 enderon
 enderonic
 enders
-endevil
 endew
 endexines
 endgame
@@ -10371,6 +10370,7 @@ ethylated
 ethylates
 ethylating
 ethylation
+endevil
 ethylbenzene
 ethyldichloroarsine
 ethylenation
