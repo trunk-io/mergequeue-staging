@@ -1036,6 +1036,7 @@ darkmans
 darkness
 darkroom
 darkrooms
+drunkensome
 darks
 darkskin
 darksomeness
@@ -17594,7 +17595,6 @@ drunken
 drunkeness
 drunkenly
 drunkenness
-drunkensome
 drunkenwise
 drunker
 drunkeries
