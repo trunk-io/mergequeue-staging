@@ -23076,7 +23076,6 @@ constipate
 constipated
 constipates
 constipating
-constipation
 constituency
 constituencies
 constituent
@@ -31819,6 +31818,7 @@ cutins
 cutireaction
 cutis
 cutisector
+constipation
 cutises
 cutiterebra
 cutitis

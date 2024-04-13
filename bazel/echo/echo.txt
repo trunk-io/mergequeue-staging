@@ -4705,7 +4705,6 @@ encycl
 encyclic
 encyclical
 encyclicals
-encyclics
 encyclopaediac
 epinephrin
 encyclopaedial
@@ -6482,6 +6481,7 @@ ensoul
 ensouled
 eanlings
 enterohepatitis
+encyclics
 equivocality
 ensouling
 ensouls
