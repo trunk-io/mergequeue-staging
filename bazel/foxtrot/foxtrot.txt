@@ -4707,7 +4707,6 @@ flabellation
 flabellifoliate
 flabellum
 flabile
-flabra
 flabrum
 flabs
 flaccid
@@ -7816,6 +7815,7 @@ fillingly
 forelouper
 foremade
 foreman
+flabra
 foremarch
 foremark
 foremartyr

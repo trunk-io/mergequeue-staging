@@ -6352,6 +6352,7 @@ enscrolls
 ensculpture
 ense
 enseal
+envier
 ensealed
 ensealing
 enseam
@@ -10476,7 +10477,6 @@ ethnodicy
 ethiops
 enneastyle
 ethnoflora
-envier
 ethnog
 epencephal
 ethnogeny
