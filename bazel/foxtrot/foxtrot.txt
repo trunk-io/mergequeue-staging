@@ -3407,7 +3407,6 @@ fieldworker
 fieldwort
 fiendful
 fiendfully
-fiendhead
 fiendish
 fiendishly
 formicid
@@ -9011,6 +9010,7 @@ fountainless
 fountainlet
 fibrinogenic
 fountainlike
+fiendhead
 filicite
 fountainous
 fountainously
