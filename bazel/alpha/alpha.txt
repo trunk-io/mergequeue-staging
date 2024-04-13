@@ -855,7 +855,6 @@ abrine
 abris
 abristle
 abroach
-abroad
 abrocome
 abrogable
 abrogate
@@ -24842,6 +24841,7 @@ avoirdupois
 avoke
 avolate
 avolation
+abroad
 avolitional
 avondbloem
 avos
