@@ -1691,6 +1691,7 @@ accordionists
 accordions
 accords
 accorporate
+arithmetically
 accorporation
 accost
 accostable
@@ -19800,7 +19801,6 @@ arytenoidal
 arith
 arithmancy
 arithmetic
-arithmetically
 aoudads
 arithmetician
 arithmeticians

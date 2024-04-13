@@ -3638,7 +3638,6 @@ degrades
 degrading
 degradingly
 degradingness
-degraduate
 degraduation
 degrain
 degranulation
@@ -16600,6 +16599,7 @@ dragonhead
 dragonhood
 dragonish
 dragonize
+degraduate
 dragonkind
 dragonlike
 dragonnade
