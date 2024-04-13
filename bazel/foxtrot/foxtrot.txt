@@ -2657,7 +2657,6 @@ fibrinolytic
 fersmite
 ferther
 ferthumlungur
-fertil
 fertile
 fertilely
 fertileness
@@ -8002,6 +8001,7 @@ foreshortens
 fibrolipoma
 foreshot
 foreshots
+fertil
 foreshow
 foreshowed
 foreshower
