@@ -6312,7 +6312,6 @@ cavallies
 cavalry
 cavalries
 cavalryman
-cavalrymen
 cavascope
 cavate
 cavated
@@ -8216,6 +8215,7 @@ chalazia
 chalazian
 cranely
 chalaziferous
+cavalrymen
 chalazion
 chalazogamic
 chalazoidite

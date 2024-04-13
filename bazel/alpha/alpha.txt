@@ -5746,6 +5746,7 @@ apastron
 aftertrial
 afterturn
 aftervision
+awhape
 afterwale
 afterwar
 afterward
@@ -24989,7 +24990,6 @@ awfuller
 awfullest
 awfully
 awfulness
-awhape
 awheel
 awheft
 anthroic
