@@ -1652,6 +1652,7 @@ fb
 fbi
 fc
 fchar
+fretum
 fipenny
 fcomp
 fconv
@@ -9933,7 +9934,6 @@ frettier
 frettiest
 fretting
 frettingly
-fretum
 fretways
 fretwise
 fretwork
