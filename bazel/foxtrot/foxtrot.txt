@@ -250,7 +250,6 @@ flamboyant
 filaria
 filibuster
 firm
-faddism
 faddisms
 faddist
 faddists
@@ -10271,6 +10270,7 @@ frizing
 frizz
 frizzante
 frizzed
+faddism
 frizzen
 frizzer
 formerness

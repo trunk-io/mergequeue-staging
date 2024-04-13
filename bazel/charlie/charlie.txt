@@ -979,7 +979,6 @@ calcanei
 calcaneoastragalar
 calcaneoastragaloid
 calcaneocuboid
-calcaneonavicular
 calcaneoplantar
 countersale
 calcaneoscaphoid
@@ -17316,6 +17315,7 @@ coattested
 coattesting
 coattests
 coaudience
+calcaneonavicular
 coauditor
 cobitidae
 coaugment
