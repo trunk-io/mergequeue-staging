@@ -6675,7 +6675,6 @@ berettas
 berewick
 berg
 bergall
-bergama
 bergamasca
 bergamasche
 biogenies
@@ -11720,6 +11719,7 @@ bod
 bodach
 bodacious
 bodaciously
+bergama
 boddagh
 boddhisattva
 boddle
