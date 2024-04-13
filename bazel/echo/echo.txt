@@ -123,7 +123,6 @@ earpick
 earpiece
 earplug
 earplugs
-earreach
 earring
 earringed
 earrings
@@ -4671,6 +4670,7 @@ enchest
 enchilada
 enchiladas
 enchylema
+earreach
 enchylematous
 enchyma
 eloquently
