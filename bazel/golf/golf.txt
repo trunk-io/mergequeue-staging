@@ -1203,7 +1203,6 @@ goniunia
 ganoids
 ganoin
 ganoine
-ganomalite
 ganophyllite
 ganoses
 ganosis
@@ -3536,6 +3535,7 @@ gervas
 gervase
 ges
 gunslinger
+ganomalite
 gesan
 gesellschaft
 geshurites
