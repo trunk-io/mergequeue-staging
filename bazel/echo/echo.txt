@@ -4461,6 +4461,7 @@ enarm
 enarme
 enarration
 enarthrodia
+enchytrae
 enarthrodial
 enarthrosis
 evacuates
@@ -4681,7 +4682,6 @@ enchiridia
 enchiridion
 enchiridions
 enchiriridia
-enchytrae
 enchytraeid
 enchytraeus
 enchodontid
