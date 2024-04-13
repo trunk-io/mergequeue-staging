@@ -2465,7 +2465,6 @@ betatter
 barcaroles
 barcarolle
 barcas
-barcella
 bumblebees
 barcelona
 boxwork
@@ -6262,6 +6261,7 @@ benightedness
 benighten
 benighter
 benighting
+barcella
 benightmare
 benightment
 benign
