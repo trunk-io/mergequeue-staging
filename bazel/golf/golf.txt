@@ -1497,6 +1497,7 @@ garrison
 garrisoned
 garrisonian
 garrisoning
+glutelins
 garrisonism
 garrisons
 garrnishable
@@ -6181,7 +6182,6 @@ glutathione
 glutch
 glutei
 glutelin
-glutelins
 glutenin
 glutenous
 glutens
