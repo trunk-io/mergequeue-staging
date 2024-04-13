@@ -2599,7 +2599,6 @@ flukeless
 ferroelectricity
 ferroglass
 ferrogoslarite
-ferrohydrocyanic
 framesmith
 ferromagnesian
 ferromagnet
@@ -2691,6 +2690,7 @@ ferule
 funariaceae
 feruled
 ferules
+ferrohydrocyanic
 ferulic
 feruling
 ferv
