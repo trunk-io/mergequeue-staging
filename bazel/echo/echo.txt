@@ -935,6 +935,7 @@ ectotropic
 ectozoa
 ectozoan
 ectozoans
+endamoebas
 ectozoon
 ectrodactyly
 ectrodactylia
@@ -4957,7 +4958,6 @@ endamoeba
 ephemerality
 essang
 endamoebae
-endamoebas
 endamoebiasis
 endamoebic
 endamoebidae
