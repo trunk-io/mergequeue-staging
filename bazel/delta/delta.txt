@@ -1331,7 +1331,6 @@ dauntingly
 dauntingness
 dauntless
 dauntlessly
-dauntlessness
 daunton
 daunts
 dauphin
@@ -18635,6 +18634,7 @@ dwalm
 dwamish
 dwang
 dwarf
+dauntlessness
 dwarfed
 dwarfer
 dwarfest
