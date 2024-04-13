@@ -6327,7 +6327,6 @@ geisothermal
 gnetums
 gneu
 gnide
-gnocchetti
 gnome
 gnomed
 gnomes
@@ -9592,6 +9591,7 @@ grozer
 grozet
 grr
 grs
+gnocchetti
 grubbed
 grubbery
 grintern

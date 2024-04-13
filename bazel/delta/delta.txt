@@ -3907,7 +3907,6 @@ dekare
 dekares
 dekastere
 deke
-deked
 dekes
 deking
 dekko
@@ -5288,6 +5287,7 @@ dentaphone
 dentary
 dentaria
 dentaries
+deked
 dentata
 dentate
 dentated
