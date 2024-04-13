@@ -970,6 +970,7 @@ freesia
 farde
 farded
 frequence
+ferling
 fardel
 fiver
 fardelet
@@ -2425,7 +2426,6 @@ ferlied
 frangulinic
 ferlies
 ferlying
-ferling
 fermacy
 fermage
 fermail
