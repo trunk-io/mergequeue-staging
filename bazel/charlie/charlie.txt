@@ -17906,7 +17906,6 @@ coeligenous
 coelin
 cantharellus
 coeline
-coeliomyalgia
 coeliorrhea
 coeliorrhoea
 coelioscopy
@@ -19292,6 +19291,7 @@ colonitis
 colonizability
 colonizable
 colonization
+coeliomyalgia
 cascarilla
 colonizationist
 colonizations

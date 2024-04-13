@@ -2609,7 +2609,6 @@ decolorizer
 decolorizing
 decolors
 decolour
-decolouration
 decolouring
 decolourisation
 decolourised
@@ -12869,6 +12868,7 @@ disozonize
 disp
 dispace
 dispaint
+decolouration
 dispair
 dispand
 dispansive
