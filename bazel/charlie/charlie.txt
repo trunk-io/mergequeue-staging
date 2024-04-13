@@ -7627,6 +7627,7 @@ cerias
 ceric
 ceride
 ceriferous
+correspondent
 cerigerous
 ceryl
 cerilla
@@ -25691,7 +25692,6 @@ correspondence
 correspondences
 correspondency
 correspondencies
-correspondent
 correspondential
 correspondently
 correspondentship
