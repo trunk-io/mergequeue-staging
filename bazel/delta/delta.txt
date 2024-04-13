@@ -12623,6 +12623,7 @@ dislocations
 dislocator
 dislocatory
 dislock
+drinkables
 dislodgeable
 dislodged
 dislodgement
@@ -17126,7 +17127,6 @@ drink
 drinkability
 drinkable
 drinkableness
-drinkables
 drinkably
 drinker
 drinkery
