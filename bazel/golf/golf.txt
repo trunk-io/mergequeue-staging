@@ -1686,6 +1686,7 @@ gasterosteiform
 gasterosteoid
 gasterosteus
 gasterotheca
+gunating
 gasterothecal
 gasterotrichan
 gastful
@@ -10455,7 +10456,6 @@ guna
 gunarchy
 gunate
 gunated
-gunating
 gunation
 gunbarrel
 gunboats
