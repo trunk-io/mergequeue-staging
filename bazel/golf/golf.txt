@@ -7443,6 +7443,7 @@ gourdlike
 gourds
 granuliferous
 gourdworm
+grippelike
 girasols
 geminal
 goury
@@ -9107,7 +9108,6 @@ gryposis
 grypotherium
 grippe
 gripped
-grippelike
 gridlock
 grippers
 grippy
