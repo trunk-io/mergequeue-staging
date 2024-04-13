@@ -9145,7 +9145,6 @@ biopsychological
 biopsychologies
 biopsychologist
 bioptic
-bioral
 biorbital
 byordinar
 byordinary
@@ -11442,6 +11441,7 @@ bluntie
 blunting
 bluntish
 bluntishness
+bioral
 bluntly
 bluntness
 blunts
