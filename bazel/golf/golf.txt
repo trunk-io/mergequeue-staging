@@ -1864,7 +1864,6 @@ gastroplasty
 gastropleuritis
 gastroplication
 gastropneumatic
-gastropneumonic
 gastropod
 gastropodan
 gastropore
@@ -4465,6 +4464,7 @@ gingerwort
 gingham
 ginghams
 gingili
+gastropneumonic
 gingilis
 gingiva
 gingivae
