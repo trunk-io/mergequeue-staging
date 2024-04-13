@@ -4402,7 +4402,6 @@ geognosis
 grapy
 gynecolatry
 gynecology
-gynecologic
 gynecological
 gynecologies
 gynecologist
@@ -7310,6 +7309,7 @@ gospodar
 graminaceous
 gospodin
 gospodipoda
+gynecologic
 gosport
 gosports
 goss
