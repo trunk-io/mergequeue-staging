@@ -1304,7 +1304,6 @@ gonochorismus
 garb
 garbage
 gastrulated
-garbages
 garbanzo
 garbed
 garbell
@@ -5861,6 +5860,7 @@ gloryful
 glorying
 gloryless
 gloriole
+garbages
 germania
 glorioles
 gloriosity

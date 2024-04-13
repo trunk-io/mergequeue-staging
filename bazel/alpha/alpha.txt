@@ -5603,7 +5603,6 @@ afterchurch
 afterclap
 afterclause
 aftercome
-aftercomer
 aftercoming
 aftercooler
 aftercourse
@@ -21338,6 +21337,7 @@ aspalathus
 autoclastic
 aspalax
 asparagic
+aftercomer
 asparagyl
 asparagin
 arachnactis
