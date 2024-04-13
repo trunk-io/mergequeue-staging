@@ -16271,7 +16271,6 @@ clintonia
 clintonite
 cashing
 clints
-clio
 cliona
 clip
 clipboard
@@ -16652,6 +16651,7 @@ clothed
 clothes
 clothesbag
 clothesbasket
+clio
 clothesbrush
 clotheshorses
 clothesyard
