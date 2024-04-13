@@ -6534,7 +6534,6 @@ entada
 entail
 entailable
 entailed
-enteroptosis
 entailer
 evangelized
 entailment
@@ -6925,6 +6924,7 @@ entomophytous
 entomophobia
 entomophthora
 epic
+enteroptosis
 entomophthoraceae
 entomophthoraceous
 eschalot
