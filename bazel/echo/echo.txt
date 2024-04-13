@@ -9208,7 +9208,6 @@ erythrophyll
 erythrophyllin
 erythrophleine
 erythrophobia
-erythropia
 erythroplastid
 erythropoiesis
 erythropoietic
@@ -13872,6 +13871,7 @@ extrametrical
 extrametropolitan
 exudative
 extramission
+erythropia
 extramodal
 extramolecular
 extramorainal
