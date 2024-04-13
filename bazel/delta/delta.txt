@@ -4948,7 +4948,6 @@ demounting
 demounts
 disgage
 dempne
-dempster
 dempsters
 demulce
 demulceate
@@ -15726,6 +15725,7 @@ dormie
 dormient
 dormilona
 dormin
+dempster
 dormins
 dormitary
 dormition
