@@ -10117,7 +10117,6 @@ estrangle
 estre
 estreat
 estreated
-estreating
 estreats
 estrepement
 estriate
@@ -13837,6 +13836,7 @@ extraembryonic
 extraenteric
 extraequilibrium
 extraessential
+estreating
 extrafascicular
 extrafine
 extrafloral
