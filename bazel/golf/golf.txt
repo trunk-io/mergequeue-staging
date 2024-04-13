@@ -707,7 +707,6 @@ gallophobe
 galloping
 gallops
 galloptious
-gallotannate
 gallotannic
 gallotannin
 gallous
@@ -3852,6 +3851,7 @@ gibberish
 gibberose
 gibberosity
 grouching
+gallotannate
 gibbert
 gibbet
 gibbeted
