@@ -8241,7 +8241,6 @@ dialectal
 dialectalize
 dialectally
 deuteroplasm
-dialectic
 darkishness
 dialectical
 dialectician
@@ -17587,6 +17586,7 @@ drunk
 drunkard
 desaturate
 drunkards
+dialectic
 drunkelew
 drunken
 drunkeness

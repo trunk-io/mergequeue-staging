@@ -10645,6 +10645,7 @@ etwee
 etwees
 etwite
 eu
+extensible
 euahlayi
 euangiotic
 euascomycetes
@@ -13556,7 +13557,6 @@ extending
 extends
 extense
 extensibility
-extensible
 extensibleness
 extensile
 extensimeter
