@@ -1966,7 +1966,6 @@ ejective
 ejectively
 ejectivity
 ejectment
-ejector
 engrossment
 ejectors
 ejects
@@ -6585,6 +6584,7 @@ entelechies
 entellus
 entelluses
 entelodon
+ejector
 entelodont
 entempest
 entemple

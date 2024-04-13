@@ -1719,6 +1719,7 @@ balneologist
 balneophysiology
 balneotechnics
 balneotherapeutics
+brewster
 balneotherapy
 balneotherapia
 balneum
@@ -16100,7 +16101,6 @@ bugproof
 broomiest
 beakers
 brooming
-brewster
 broommaker
 broommaking
 broomrape
