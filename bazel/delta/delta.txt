@@ -5022,7 +5022,6 @@ denaturant
 denaturants
 denaturate
 denaturation
-denaturational
 denature
 denatured
 denatures
@@ -17038,6 +17037,7 @@ dribble
 dribbled
 dribblement
 dribbler
+denaturational
 dribblers
 dribblet
 dribblets
