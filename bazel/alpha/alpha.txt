@@ -15864,7 +15864,6 @@ antiphony
 asepsis
 antiphonic
 antiphonical
-antiphonically
 antiphonies
 antiphonon
 aborigine
@@ -23515,6 +23514,7 @@ aurichalcite
 aurichalcum
 aurichloride
 aurichlorohydric
+antiphonically
 auricyanhydric
 auricyanic
 atpoints
