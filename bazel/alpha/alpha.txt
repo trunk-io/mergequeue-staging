@@ -1253,7 +1253,6 @@ acalephs
 acalycal
 acalycine
 acalycinous
-assn
 acalyculate
 acalypha
 acalypterae
@@ -10998,6 +10997,7 @@ ampelosicyos
 arline
 ampelotherapy
 amper
+assn
 amperages
 ampere
 amperemeter
