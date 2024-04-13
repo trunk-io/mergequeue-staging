@@ -4015,7 +4015,6 @@ deles
 delesseria
 delesseriaceae
 delesseriaceous
-delete
 deleted
 deleter
 deletery
@@ -13392,6 +13391,7 @@ disruly
 disrump
 disruptability
 disrupter
+delete
 disrupting
 disruption
 disruptionist
