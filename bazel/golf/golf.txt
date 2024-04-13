@@ -6337,7 +6337,6 @@ gnomists
 gabert
 gnomologic
 gnomological
-gnomologist
 gnomonia
 gnomoniaceae
 gnomonic
@@ -8384,6 +8383,7 @@ gratuitousness
 gratulant
 gratulate
 glauconitization
+gnomologist
 gratulated
 gratulating
 gratulation
