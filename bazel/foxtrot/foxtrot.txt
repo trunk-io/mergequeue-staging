@@ -5746,7 +5746,6 @@ fliskier
 fliskiest
 fetologist
 feastless
-flyspecked
 flyspecking
 floppy
 flyspecks
@@ -7622,6 +7621,7 @@ foredeclare
 foredeem
 fallotomy
 foredeep
+flyspecked
 foredefeated
 filthified
 foredefine
