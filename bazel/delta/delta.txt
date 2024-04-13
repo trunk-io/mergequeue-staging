@@ -2489,7 +2489,6 @@ declarator
 declaratory
 declaratorily
 declarators
-declare
 declaredly
 declaredness
 declarer
@@ -13752,6 +13751,7 @@ distemperment
 distemperoid
 diplasiasmus
 distemperure
+declare
 distenant
 distend
 distended
