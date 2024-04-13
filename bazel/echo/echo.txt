@@ -1998,7 +1998,6 @@ ekhimi
 excamb
 ekistics
 ekka
-ekphore
 ekphory
 ekphoria
 ekphorias
@@ -4489,6 +4488,7 @@ encage
 electrobioscopy
 encaged
 encages
+ekphore
 encaging
 encake
 encalendar
