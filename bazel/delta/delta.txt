@@ -6166,7 +6166,6 @@ dermaptera
 dermapteran
 dermapterous
 dermas
-downlinked
 dermaskeleton
 dermasurgery
 dermatagra
@@ -11298,6 +11297,7 @@ discerptible
 discerptibleness
 discerption
 divisibleness
+downlinked
 discerptive
 discession
 dogmatism
