@@ -3031,7 +3031,6 @@ barrowman
 backscatters
 barrows
 barrulee
-barrulet
 barrulety
 barruly
 bars
@@ -13966,6 +13965,7 @@ brachycephalic
 brachycephalies
 brachycephalism
 brachycephalization
+barrulet
 brachycephalize
 brachycephalous
 banate

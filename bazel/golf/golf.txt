@@ -6217,7 +6217,6 @@ gluttonize
 gluttonized
 gluttonizing
 gluttonous
-gluttonously
 gluttons
 gm
 gmelina
@@ -7791,6 +7790,7 @@ gayly
 graith
 graithly
 graywether
+gluttonously
 grakle
 grallae
 grallatores
