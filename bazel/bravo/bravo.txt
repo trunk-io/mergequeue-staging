@@ -673,7 +673,6 @@ bacteriofluorescin
 bara
 bacteriogenic
 bacteriogenous
-bacteriohemolysin
 bacterioid
 bacterioidal
 bacteriolysin
@@ -6029,6 +6028,7 @@ bemiring
 bemirror
 bemirrorment
 bemist
+bacteriohemolysin
 barmen
 bukshi
 bemisted
