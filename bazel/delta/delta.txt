@@ -6939,6 +6939,7 @@ despotisms
 despotist
 despotize
 despouse
+dismissed
 despraise
 despumate
 despumated
@@ -12727,7 +12728,6 @@ disminion
 dismiss
 dismissal
 dismissals
-dismissed
 dismisser
 dismissers
 dismisses
