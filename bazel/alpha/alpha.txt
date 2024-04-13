@@ -7847,7 +7847,6 @@ alembroth
 alemite
 alemmal
 alen
-alencon
 alencons
 arrayers
 alenge
@@ -14281,6 +14280,7 @@ annulation
 anterolaterally
 anteromedial
 anteromedian
+alencon
 anteroom
 anterooms
 anteroparietal
