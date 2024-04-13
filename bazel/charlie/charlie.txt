@@ -892,7 +892,6 @@ calamary
 calamariaceae
 calamariaceous
 calamariales
-calamarian
 calamaries
 calamarioid
 calamarmar
@@ -16899,6 +16898,7 @@ cluster
 clusterberry
 clustered
 clusterfist
+calamarian
 clustery
 clustering
 clusteringly
