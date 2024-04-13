@@ -1892,6 +1892,7 @@ camisia
 camisias
 camisole
 camisoles
+crocker
 camister
 camize
 cosmolabe
@@ -29610,7 +29611,6 @@ crocine
 crock
 crockard
 crocked
-crocker
 crockery
 crockeries
 crockeryware
