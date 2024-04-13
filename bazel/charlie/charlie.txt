@@ -9906,7 +9906,6 @@ chemotaxonomic
 chemotaxonomically
 chemotaxonomist
 comma
-carices
 chemotherapeutic
 chemotherapeutical
 chemotherapeutically
@@ -22721,6 +22720,7 @@ conscient
 conscientious
 conscientiously
 conscientiousness
+carices
 conscionable
 conscionableness
 cinquefoils
