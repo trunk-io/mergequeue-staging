@@ -18660,7 +18660,6 @@ archaecraniate
 archaeoceti
 archaeocyathidae
 archaeocyathus
-archaeogeology
 archaeographic
 archaeographical
 archaeohippus
@@ -19368,6 +19367,7 @@ arenulous
 areocentric
 areographer
 areography
+archaeogeology
 areographical
 areographically
 areola
