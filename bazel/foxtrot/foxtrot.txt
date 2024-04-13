@@ -1452,6 +1452,7 @@ fatuus
 fatwa
 fairtime
 fatwood
+flavid
 forwhy
 faubourg
 faubourgs
@@ -5222,7 +5223,6 @@ flavia
 flavian
 flavic
 flavicant
-flavid
 flavine
 flavines
 fireproof
