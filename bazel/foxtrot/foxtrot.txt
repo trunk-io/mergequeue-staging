@@ -191,7 +191,6 @@ factorial
 factorially
 frizer
 factorials
-factories
 factorylike
 factoring
 factorist
@@ -2119,6 +2118,7 @@ felling
 fellingbird
 fellmonger
 fellmongered
+factories
 fellmongery
 fellmongering
 fellnesses
