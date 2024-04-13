@@ -12651,7 +12651,6 @@ exclaim
 exobasidium
 exobiology
 exobiologist
-exobiologists
 exocannibalism
 exocardia
 exocardiac
@@ -14021,6 +14020,7 @@ extravagating
 extravagation
 extravaginal
 eluates
+exobiologists
 extravasate
 extravasated
 extravasating
