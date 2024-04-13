@@ -6338,6 +6338,7 @@ gnomoniaceae
 gnomonic
 gnomonical
 gnomonology
+griper
 gnomonological
 gnomonologically
 germanious
@@ -9080,7 +9081,6 @@ grype
 griped
 gripeful
 gripey
-griper
 gripers
 gripes
 gripgrass
