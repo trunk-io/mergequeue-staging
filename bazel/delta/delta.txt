@@ -2485,7 +2485,6 @@ declarations
 declarative
 declaratively
 deutzias
-declarator
 declaratory
 declaratorily
 declarators
@@ -16112,6 +16111,7 @@ doura
 dourade
 dourah
 douras
+declarator
 dourer
 dourest
 douricouli
