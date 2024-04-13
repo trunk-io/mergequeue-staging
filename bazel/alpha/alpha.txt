@@ -7617,7 +7617,6 @@ alchemizing
 alchera
 alcheringa
 alchimy
-alchymy
 alchymies
 alchitran
 alchochoden
@@ -22755,6 +22754,7 @@ atonalistic
 atonality
 atonally
 atone
+alchymy
 atoneable
 atoned
 atonement
