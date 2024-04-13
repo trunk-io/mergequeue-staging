@@ -6691,7 +6691,6 @@ foaminess
 foaming
 foamingly
 foutre
-foamless
 foamlike
 feods
 foams
@@ -11507,6 +11506,7 @@ furthers
 furthersome
 faradonervous
 furthest
+foamless
 furtive
 furtively
 furtum
