@@ -7098,6 +7098,7 @@ electrodeless
 entrochite
 entrochus
 entropy
+excitable
 entropies
 entropion
 entropionize
@@ -12042,7 +12043,6 @@ excysted
 excystment
 excitability
 excitabilities
-excitable
 excitableness
 excitably
 excitancy
