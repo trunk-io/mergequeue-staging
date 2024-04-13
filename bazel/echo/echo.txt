@@ -6261,6 +6261,7 @@ enrange
 enrapt
 enrapted
 enrapting
+execrator
 enrapts
 encoignure
 enraptured
@@ -12295,7 +12296,6 @@ execration
 execrations
 execrative
 execratively
-execrator
 execrators
 execs
 exect
