@@ -1878,7 +1878,6 @@ eightieths
 eightyfold
 electropotential
 eightling
-eightpenny
 eights
 eightscore
 eightsman
@@ -6390,6 +6389,7 @@ enshawl
 ensheath
 ensheathe
 ensheathed
+eightpenny
 ensheathes
 ensheathing
 ensheaths
