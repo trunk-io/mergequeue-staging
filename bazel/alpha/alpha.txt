@@ -1322,7 +1322,6 @@ acanthuridae
 acanthurus
 acanthuses
 acanthuthi
-acapnia
 acapnial
 appraisingly
 acapnias
@@ -6659,6 +6658,7 @@ ahura
 ahurewa
 ahush
 ahuula
+acapnia
 ahwal
 ai
 ay
