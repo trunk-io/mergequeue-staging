@@ -3271,7 +3271,6 @@ email
 emailed
 emajagua
 emplacing
-emamelware
 emanant
 euphyllopoda
 emanate
@@ -13471,6 +13470,7 @@ exsector
 exsects
 exsequatur
 exsert
+emamelware
 exserted
 embolomeri
 exsertile
