@@ -2276,7 +2276,6 @@ achkan
 achlamydate
 achlamydeae
 achlamydeous
-achlorhydria
 achlorhydric
 achloropsia
 actors
@@ -11966,6 +11965,7 @@ anarthrosis
 anarthrous
 anarthrously
 anarthrousness
+achlorhydria
 anartismos
 anas
 anasa
