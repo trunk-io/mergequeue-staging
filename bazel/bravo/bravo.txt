@@ -6099,7 +6099,6 @@ benben
 bench
 benchboard
 benched
-bencher
 benchers
 benchership
 benches
@@ -7181,6 +7180,7 @@ besprizorni
 bespurred
 bespurt
 besputter
+bencher
 besqueeze
 besquib
 besquirt
