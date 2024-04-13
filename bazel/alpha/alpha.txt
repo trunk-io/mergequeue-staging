@@ -2898,7 +2898,6 @@ acrodromous
 acrodus
 acroesthesia
 acrogamy
-acrogamous
 acrogen
 acrogenic
 acrogenous
@@ -12393,6 +12392,7 @@ androginous
 adaptively
 androgynous
 androgynus
+acrogamous
 androgone
 androgonial
 androgonidium
