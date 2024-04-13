@@ -1878,7 +1878,6 @@ feddan
 feddans
 fedellini
 federal
-federalese
 federalisation
 federalise
 flattery
@@ -7216,6 +7215,7 @@ footler
 fabes
 footlers
 footles
+federalese
 footless
 footlessly
 footlessness

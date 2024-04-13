@@ -9842,6 +9842,7 @@ chemisorption
 chemist
 chemistry
 chemistries
+courtlike
 chemists
 chemitype
 chemitypy
@@ -27399,7 +27400,6 @@ courtly
 courtlier
 courtliest
 croppie
-courtlike
 courtliness
 courtman
 courtney
