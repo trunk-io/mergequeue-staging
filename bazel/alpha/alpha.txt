@@ -3736,7 +3736,6 @@ adenophore
 adenophoreus
 adenophthalmia
 adenopodous
-adenosarcoma
 adenosarcomas
 adenosarcomata
 adenosclerosis
@@ -24044,6 +24043,7 @@ autogamies
 autogamous
 autogauge
 autogeneal
+adenosarcoma
 autogeneses
 autogenesis
 autogenetic

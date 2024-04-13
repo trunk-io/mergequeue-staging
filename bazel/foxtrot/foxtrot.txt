@@ -3197,7 +3197,6 @@ fice
 fyce
 ficelle
 fices
-fichat
 fiche
 fiches
 fichtean
@@ -10939,6 +10938,7 @@ fullmouth
 fullmouthed
 fullness
 fullnesses
+fichat
 fullom
 fripperies
 fulgoroidea
