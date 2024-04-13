@@ -3237,6 +3237,7 @@ georgiadesite
 georgian
 georgiana
 gazetteer
+gourmand
 georgians
 georgic
 galaxies
@@ -7448,7 +7449,6 @@ gourdworm
 girasols
 geminal
 goury
-gourmand
 gourmander
 gourmanderie
 gourmandise
