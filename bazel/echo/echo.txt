@@ -2015,7 +2015,6 @@ elaborately
 epilatory
 elaborateness
 elaborates
-elaborating
 elaboration
 elaborations
 elaborative
@@ -3834,6 +3833,7 @@ emerged
 emergence
 emergences
 emergencies
+elaborating
 emergent
 emergently
 emergentness
