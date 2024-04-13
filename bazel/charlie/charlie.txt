@@ -12875,7 +12875,6 @@ churl
 chainplate
 churly
 churlier
-corrugations
 churliest
 churlish
 churlishly
@@ -26741,6 +26740,7 @@ counterclassifications
 counterclockwise
 circumpolar
 countercolored
+corrugations
 countercommand
 countercompany
 countercompetition
