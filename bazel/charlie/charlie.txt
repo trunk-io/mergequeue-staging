@@ -14718,7 +14718,6 @@ cystoscopy
 cystoscopic
 cystoscopies
 cystose
-cystosyrinx
 cystospasm
 cystospastic
 cystospore
@@ -18697,6 +18696,7 @@ coldslaw
 coldturkey
 coleader
 colecannon
+cystosyrinx
 colectomy
 colectomies
 coleen
