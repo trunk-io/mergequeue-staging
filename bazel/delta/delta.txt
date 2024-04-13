@@ -2854,6 +2854,7 @@ decuples
 decuplet
 decupling
 draper
+disembarked
 decury
 decuria
 decurion
@@ -11881,7 +11882,6 @@ disembargoing
 disembark
 disembarkation
 disembarkations
-disembarked
 disembarking
 disembarkment
 disembarks
