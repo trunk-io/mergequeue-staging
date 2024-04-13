@@ -5640,6 +5640,7 @@ dephosphorize
 depickle
 depict
 depicted
+deuce
 depicter
 denuclearize
 dulcifies
@@ -7383,7 +7384,6 @@ deturpate
 disprofit
 deucalion
 doggier
-deuce
 deuced
 deuces
 deucing
