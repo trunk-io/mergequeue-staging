@@ -6490,7 +6490,6 @@ ensporia
 enstar
 ediya
 enstate
-enstatite
 enstatolite
 ensteel
 ensteep
@@ -7332,6 +7331,7 @@ eolipile
 eolipiles
 eolith
 eolithic
+enstatite
 eolopile
 eolopiles
 ecumenicist

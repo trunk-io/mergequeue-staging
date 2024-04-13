@@ -1912,7 +1912,6 @@ acephalite
 acephalocyst
 alveloz
 acephalous
-anticipatory
 akoasma
 acephalus
 acepots
@@ -24873,6 +24872,7 @@ avowed
 avowedly
 avowedness
 avower
+anticipatory
 avowers
 avowing
 avowry
