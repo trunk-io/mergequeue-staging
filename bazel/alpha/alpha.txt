@@ -219,7 +219,6 @@ abbott
 abbozzo
 abbr
 abbrev
-abbreviatable
 abbreviate
 abbreviated
 abbreviately
@@ -19333,6 +19332,7 @@ areg
 aregenerative
 aregeneratory
 areic
+abbreviatable
 areito
 aren
 arena
