@@ -1677,7 +1677,6 @@ ballpoint
 ballpoints
 ballproof
 ballrooms
-balls
 ballsy
 blandiloquious
 ballsier
@@ -2906,6 +2905,7 @@ barrace
 barrack
 breakpoint
 barracked
+balls
 barracker
 barracking
 barracks
