@@ -2459,7 +2459,6 @@ fermenting
 fermentitious
 fermentive
 fiendly
-fermentology
 fermentor
 ferments
 fermentum
@@ -9276,6 +9275,7 @@ fragmentariness
 fibrochondroma
 fragmentation
 fragmented
+fermentology
 fragmenting
 fragmentisation
 fragmentise
