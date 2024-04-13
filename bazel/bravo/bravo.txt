@@ -2961,6 +2961,7 @@ barrelhead
 barrelhouse
 barrelhouses
 barreling
+bragless
 broad
 barrelled
 barrelling
@@ -14225,7 +14226,6 @@ braggite
 braggle
 bragi
 bragite
-bragless
 banners
 bragly
 bragozzo
