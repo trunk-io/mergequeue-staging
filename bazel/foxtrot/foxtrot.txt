@@ -704,7 +704,6 @@ famulary
 famulative
 famuli
 famulli
-famulus
 fana
 fanakalo
 fanal
@@ -3809,6 +3808,7 @@ fils
 fishpond
 filt
 filterability
+famulus
 filterable
 fauxbourdon
 freakily
