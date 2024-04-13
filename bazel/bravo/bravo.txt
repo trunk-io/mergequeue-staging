@@ -2065,7 +2065,6 @@ bangos
 bangs
 bangtail
 bangtailed
-bangtails
 bangup
 bangwaketsi
 bani
@@ -12249,6 +12248,7 @@ blottesquely
 bombardiers
 bombarding
 bombardman
+bangtails
 boughless
 bombardmen
 bombardment
