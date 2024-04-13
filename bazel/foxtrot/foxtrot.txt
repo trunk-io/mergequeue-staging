@@ -3944,6 +3944,7 @@ fineish
 fineleaf
 fineless
 finely
+flurry
 finement
 fineness
 finer
@@ -6581,7 +6582,6 @@ facades
 flusters
 flustra
 flustrate
-flurry
 flustrated
 flustrating
 flustration
