@@ -9574,6 +9574,7 @@ dihalo
 dihalogen
 dihdroxycholecalciferol
 dihedral
+dunniewassel
 dihedrals
 dihedron
 dihely
@@ -18236,7 +18237,6 @@ dunness
 dunnesses
 dunnest
 dunny
-dunniewassel
 dunning
 dunnish
 dunnite
