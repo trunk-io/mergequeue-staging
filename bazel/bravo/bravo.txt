@@ -5440,7 +5440,6 @@ beheld
 behelp
 behemoth
 behemothic
-behemoths
 behen
 behenate
 behenic
@@ -13712,6 +13711,7 @@ bowdichia
 bowditch
 blathering
 bowdlerisation
+behemoths
 bowdlerise
 bowdlerised
 bowdlerising
