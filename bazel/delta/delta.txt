@@ -2898,7 +2898,6 @@ dedecorous
 dedenda
 dedendum
 dedentition
-dedicant
 dedicate
 dedicated
 dedicatedly
@@ -7024,6 +7023,7 @@ destroyer
 destroyers
 destroying
 destroys
+dedicant
 destruct
 destructibility
 destructible

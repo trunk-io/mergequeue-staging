@@ -6892,7 +6892,6 @@ cenotaph
 cenotaphy
 cenotaphies
 cenotaphs
-cenote
 cenotes
 cenozoic
 cenozoology
@@ -15902,6 +15901,7 @@ cleistocarpous
 cleistogamy
 cleistogamic
 cleistogamically
+cenote
 cleistogamous
 cleistogamously
 cleistogene
