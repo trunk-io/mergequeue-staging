@@ -7638,7 +7638,6 @@ gradational
 gradationally
 gradationately
 gradatively
-gradatory
 graddan
 grade
 graded
@@ -8256,6 +8255,7 @@ graptolithina
 graptolitoidea
 graptoloidea
 grasni
+gradatory
 grasp
 graspable
 graspers
