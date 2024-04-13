@@ -13063,7 +13063,6 @@ abstrusion
 airlifted
 anhidrotic
 algraphic
-anhydrotic
 anhydrous
 anhydrously
 anhydroxime
@@ -15342,6 +15341,7 @@ antihectic
 antihelices
 antihelix
 antihelixes
+anhydrotic
 antihelminthic
 antihemagglutinin
 agrostology
