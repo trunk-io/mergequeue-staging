@@ -13382,7 +13382,6 @@ anyway
 anywhen
 anywhence
 anywhere
-anywhereness
 anywheres
 arkosic
 anywise
@@ -21412,6 +21411,7 @@ assedation
 aspern
 asperness
 asperous
+anywhereness
 asperously
 aspers
 aspersed
