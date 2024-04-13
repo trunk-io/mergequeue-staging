@@ -5543,6 +5543,7 @@ afresh
 afret
 afrete
 africa
+atalan
 african
 africana
 africanism
@@ -22384,7 +22385,6 @@ ataiyal
 atake
 atalaya
 atalayas
-atalan
 atalanta
 atalantis
 ataman
