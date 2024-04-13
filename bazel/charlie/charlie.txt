@@ -9854,6 +9854,7 @@ chemokinesis
 chemokinetic
 chemolysis
 chemolytic
+curlycue
 chemolyze
 chemonite
 chemopallidectomy
@@ -31377,7 +31378,6 @@ correlation
 curlews
 curly
 curlicue
-curlycue
 curlicued
 curlicues
 curlycues
