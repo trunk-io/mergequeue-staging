@@ -5854,7 +5854,6 @@ floccillation
 floccing
 floccose
 freestyle
-floccosely
 flocculable
 fangas
 fiercly
@@ -8121,6 +8120,7 @@ foreteller
 foretellers
 foretelling
 foretells
+floccosely
 forethink
 forethinker
 forethinking
