@@ -11565,7 +11565,6 @@ disconsolately
 disconsolateness
 disconsolation
 dunkle
-disconsonancy
 disconsonant
 discontented
 discontentedly
@@ -12315,6 +12314,7 @@ dishmop
 dishome
 dishonest
 dishonesty
+disconsonancy
 dishonesties
 dishonestly
 dishonor

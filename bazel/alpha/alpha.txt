@@ -11582,7 +11582,6 @@ anaerobian
 anaerobic
 anaerobically
 anaerobies
-anaerobion
 anaerobiont
 anaerobiosis
 aretinian
@@ -13743,6 +13742,7 @@ anolis
 anolyte
 anolytes
 anomal
+anaerobion
 anomala
 anomaly
 anomalies
