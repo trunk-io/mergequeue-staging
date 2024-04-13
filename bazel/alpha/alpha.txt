@@ -4003,7 +4003,6 @@ adjudicates
 adjudication
 adjudications
 adjudicative
-adjudicator
 adjudicatory
 adjudicators
 adjudicature
@@ -16622,6 +16621,7 @@ apa
 apabhramsa
 apace
 apache
+adjudicator
 apaches
 apachette
 apachite
