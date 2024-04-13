@@ -5346,7 +5346,6 @@ endosmoses
 endosmosic
 endosmosis
 endosmotic
-endosmotically
 endosome
 endosomes
 endosperm
@@ -8607,6 +8606,7 @@ equerryship
 eques
 equestrial
 epimysium
+endosmotically
 equestrian
 equestrianism
 equestrianize
