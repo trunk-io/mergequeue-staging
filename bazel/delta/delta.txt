@@ -1173,6 +1173,7 @@ dasyures
 dasyurid
 dystonias
 desexing
+dipleurula
 dasyuridae
 dasyurine
 dextral
@@ -10511,7 +10512,6 @@ dipleuric
 dipleurogenesis
 dipleurogenetic
 devot
-dipleurula
 dipleurulas
 dipleurule
 diplex
