@@ -11626,6 +11626,7 @@ avoure
 anagennesis
 anagep
 anagignoskomena
+authenticating
 anagyrine
 anagyris
 anaglyph
@@ -20809,7 +20810,6 @@ arupa
 arusa
 arusha
 aruspex
-authenticating
 aruspice
 aruspices
 aruspicy
