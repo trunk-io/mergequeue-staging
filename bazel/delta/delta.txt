@@ -4554,7 +4554,6 @@ demigorge
 demigrate
 demigriffin
 demigroat
-demihag
 demihagbut
 demihague
 demihake
@@ -11902,6 +11901,7 @@ disemboguing
 disembosom
 disembowel
 disemboweled
+demihag
 disemboweling
 disembowelled
 disembowelling
