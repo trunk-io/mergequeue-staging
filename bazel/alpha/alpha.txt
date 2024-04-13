@@ -4001,7 +4001,6 @@ adjudger
 adjudges
 aleyrodidae
 adjudging
-adjudgment
 adjudicata
 adjudicate
 adjudicated
@@ -20899,6 +20898,7 @@ ascaridae
 ascarides
 ascaridia
 ascaridiasis
+adjudgment
 ascaridol
 ascaridole
 ascarids
