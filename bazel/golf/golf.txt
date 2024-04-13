@@ -3134,7 +3134,6 @@ giraffoid
 geomancies
 geomant
 geomantic
-geomantical
 gasolineless
 geomantically
 geomechanics
@@ -10804,6 +10803,7 @@ guttur
 guttural
 gutturalise
 gutturalised
+geomantical
 gutturalism
 gutturality
 gutturalize
