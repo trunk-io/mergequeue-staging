@@ -7844,7 +7844,6 @@ dexiotropic
 dexiotropism
 dexter
 dexterity
-dexterous
 dexterously
 dexterousness
 dextorsal
@@ -9858,6 +9857,7 @@ dimes
 dimetallic
 dimeter
 dimeters
+dexterous
 dimethyl
 dimethylamino
 dimethylanthranilate
