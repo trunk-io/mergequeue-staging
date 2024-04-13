@@ -6070,7 +6070,6 @@ glucinum
 glucinums
 gluck
 glucocorticoid
-glucofrangulin
 glucogene
 glucogenesis
 glucokinase
@@ -7283,6 +7282,7 @@ goshawks
 goshdarn
 goshen
 goshenite
+glucofrangulin
 goslarite
 goslet
 goslings
