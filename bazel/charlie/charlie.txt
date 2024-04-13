@@ -8153,7 +8153,6 @@ chairlady
 chairladies
 chairless
 chairlift
-chairmaker
 chairmaking
 chairman
 chairmaned
@@ -11623,6 +11622,7 @@ cholesterosis
 choletelin
 choletherapy
 choleuria
+chairmaker
 choliamb
 choliambist
 cholic
