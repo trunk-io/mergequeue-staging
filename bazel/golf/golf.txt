@@ -700,7 +700,6 @@ galloons
 galloot
 galloots
 gallop
-gallopade
 galloped
 galloper
 galloperdix
@@ -4339,6 +4338,7 @@ gynaecic
 gynaecium
 glander
 gynaecocracy
+gallopade
 gynaecocrat
 gynaecocratic
 gynaecoid
