@@ -11155,6 +11155,7 @@ disbandments
 disbands
 disbar
 dysbarism
+dishonoured
 disbark
 disbarment
 doorframe
@@ -12328,7 +12329,6 @@ dishonour
 dishonourable
 dishonourableness
 dishonourably
-dishonoured
 dishonourer
 dishonouring
 dishorn

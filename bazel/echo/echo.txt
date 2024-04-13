@@ -11582,7 +11582,6 @@ evictee
 evictees
 evicting
 eviction
-evictions
 evictor
 evictors
 evicts
@@ -12236,6 +12235,7 @@ excurse
 excursed
 excursing
 excursional
+evictions
 excursionary
 excursioner
 excursionism
