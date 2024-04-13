@@ -562,6 +562,7 @@ gardenias
 gallbush
 galleass
 galleasses
+gastness
 galled
 galley
 gnomonics
@@ -1696,7 +1697,6 @@ gastight
 gastightness
 gasting
 gastly
-gastness
 gastnesses
 gastornithidae
 gastradenitis
