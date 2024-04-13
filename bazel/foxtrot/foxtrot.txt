@@ -4938,6 +4938,7 @@ flammed
 flammeous
 flamming
 flammulated
+floative
 flammulation
 footers
 flammule
@@ -5841,7 +5842,6 @@ forgeries
 floatiest
 floatiness
 floatingly
-floative
 floatless
 floatmaker
 floatman

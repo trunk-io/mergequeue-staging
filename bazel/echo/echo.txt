@@ -5378,7 +5378,6 @@ endostomata
 endostome
 endostosis
 endostraca
-endostracum
 endosulfan
 endotheca
 endothecal
@@ -12723,6 +12722,7 @@ exograph
 exolete
 exolution
 exolve
+endostracum
 exometritis
 exomis
 exomologesis
