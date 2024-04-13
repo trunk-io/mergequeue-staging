@@ -3139,7 +3139,6 @@ defeated
 defeatee
 defeater
 dissimulated
-defeatism
 defeats
 defeature
 defecant
@@ -11424,6 +11423,7 @@ dekaliter
 discographies
 discohexaster
 discoid
+defeatism
 discoidal
 discoidea
 discoideae
