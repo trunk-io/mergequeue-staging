@@ -14788,7 +14788,6 @@ antibilious
 antibiont
 antibiosis
 aglow
-antibiotic
 antibiotically
 antibiotics
 antibishop
@@ -17696,6 +17695,7 @@ appendicular
 appendicularia
 appendicularian
 appendiculariidae
+antibiotic
 appendiculata
 appendiculate
 appending

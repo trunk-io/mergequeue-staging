@@ -5453,6 +5453,7 @@ endplate
 endplates
 endpleasure
 endpoints
+evilnesses
 endrin
 endrins
 endromididae
@@ -11609,7 +11610,6 @@ exoergic
 eviller
 evilly
 evilness
-evilnesses
 evilproof
 evils
 estrapade
