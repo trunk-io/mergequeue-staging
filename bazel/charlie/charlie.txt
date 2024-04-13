@@ -17779,7 +17779,6 @@ codical
 codices
 codicil
 codicilic
-codicillary
 codicils
 codicology
 codictatorship
@@ -19146,6 +19145,7 @@ colloque
 colloquy
 colloquial
 colloquialism
+codicillary
 colloquialisms
 colloquialist
 colloquiality
