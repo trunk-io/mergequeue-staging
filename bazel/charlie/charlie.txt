@@ -14745,6 +14745,7 @@ cit
 citable
 citadel
 citadels
+conjecturality
 cital
 cytase
 conchate
@@ -22419,7 +22420,6 @@ conjecturableness
 conjecturably
 conjectural
 conjecturalist
-conjecturality
 conjecturally
 conjecture
 conjectured
