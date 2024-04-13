@@ -10509,7 +10509,6 @@ ethnolinguistics
 ethnologer
 erysibe
 ethnology
-ethnologic
 ethnological
 ethnologically
 ethnologist
@@ -10874,6 +10873,7 @@ eulysite
 eulytin
 eulytine
 eulytite
+ethnologic
 eulogy
 eardrops
 endmatcher
