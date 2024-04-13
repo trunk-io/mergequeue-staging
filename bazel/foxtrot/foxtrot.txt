@@ -1747,7 +1747,6 @@ featherers
 featherfew
 featherfoil
 featherhead
-featherheaded
 feathery
 featherier
 featheriest
@@ -4001,6 +4000,7 @@ fingermark
 fingernail
 firmly
 facadal
+featherheaded
 fingernails
 fingerparted
 fingerpost

@@ -1458,6 +1458,7 @@ garnierite
 garnish
 garnishable
 garnished
+gunslinging
 garnishee
 garnisheed
 garnishees
@@ -10568,7 +10569,6 @@ gunshot
 gunshots
 gunsling
 gunslingers
-gunslinging
 gunsman
 gunsmith
 grandiloquence
