@@ -7928,7 +7928,6 @@ epilachna
 epilachnides
 epilamellar
 epilaryngeal
-epilate
 epilated
 epilating
 epilation
@@ -13500,6 +13499,7 @@ exstemporal
 exstemporaneous
 exstill
 exstimulate
+epilate
 exstipulate
 exstrophy
 exstruct

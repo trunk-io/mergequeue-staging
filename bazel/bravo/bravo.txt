@@ -4140,7 +4140,6 @@ bearable
 bearableness
 bearably
 bearance
-bearbaiter
 bearbane
 bearberry
 bearberries
@@ -8895,6 +8894,7 @@ binomenclature
 binomy
 binomialism
 binomially
+bearbaiter
 binomials
 binominal
 bunchbacked
