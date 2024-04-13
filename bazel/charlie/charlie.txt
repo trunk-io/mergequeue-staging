@@ -5310,7 +5310,6 @@ castro
 castrum
 casts
 castuli
-casualism
 casualist
 casuality
 casually
@@ -13343,6 +13342,7 @@ cyclonist
 cyclonite
 cyclonology
 cyclonologist
+casualism
 cyclonometer
 cycloolefin
 cycloolefine

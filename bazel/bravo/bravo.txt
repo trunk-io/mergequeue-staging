@@ -6603,7 +6603,6 @@ ber
 beray
 berain
 berairou
-berakah
 berake
 bookstack
 beraked
@@ -7316,6 +7315,7 @@ biblus
 besuit
 besully
 beswarm
+berakah
 beswarmed
 beswarming
 beswarms
