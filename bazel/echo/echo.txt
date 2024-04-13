@@ -6786,7 +6786,6 @@ enthrals
 enthrill
 epalpebrate
 enthrone
-enthroned
 enthronement
 enthronements
 enthrong
@@ -10783,6 +10782,7 @@ eudemonistic
 eudemonistical
 eudemonistically
 eudemons
+enthroned
 eudendrium
 eudesmol
 eudemonics
