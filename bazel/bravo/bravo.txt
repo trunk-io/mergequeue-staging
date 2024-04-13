@@ -2895,7 +2895,6 @@ barques
 barquest
 bedust
 barquette
-barr
 besprinkling
 barra
 barrabkie
@@ -6713,6 +6712,7 @@ berhyme
 berhymed
 berhymes
 beri
+barr
 beribanded
 beribbon
 beriber
