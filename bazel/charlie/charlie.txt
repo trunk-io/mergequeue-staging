@@ -12825,7 +12825,6 @@ churchcraft
 churchdom
 churched
 churches
-churchful
 churchgo
 cantative
 churchgoer
@@ -29026,6 +29025,7 @@ criminousness
 crimison
 crimmer
 crimmy
+churchful
 crymoanesthesia
 crymodynia
 crimogenic
