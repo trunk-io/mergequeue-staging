@@ -9866,7 +9866,6 @@ essayers
 essaying
 essayism
 essayist
-essayistic
 essayistical
 essayists
 essaylet
@@ -10305,6 +10304,7 @@ etherializing
 etherially
 eroticization
 etheric
+essayistic
 editorializing
 etherify
 etherification
