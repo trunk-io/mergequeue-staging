@@ -5627,6 +5627,7 @@ glyptographic
 glyptolith
 glyptology
 glyptological
+granum
 glyptologist
 glyptotheca
 glyptotherium
@@ -8118,7 +8119,6 @@ granulose
 granulosis
 geneticist
 granulous
-granum
 granville
 granza
 granzita
