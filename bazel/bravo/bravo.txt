@@ -2945,7 +2945,6 @@ barratrous
 barratrously
 barre
 barred
-barrel
 barrelage
 barreled
 barreleyes
@@ -6242,6 +6241,7 @@ benevolences
 benevolentness
 busies
 benevolist
+barrel
 beng
 bengal
 bengalese
