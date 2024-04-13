@@ -3267,6 +3267,7 @@ geostrategy
 geostrophic
 geostrophically
 geotactic
+goons
 geotactically
 geotaxes
 geotaxy
@@ -7065,7 +7066,6 @@ grandpappy
 goonie
 goonies
 grubber
-goons
 goop
 goopy
 goops
