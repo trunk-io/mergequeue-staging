@@ -11020,6 +11020,7 @@ disannulled
 disannuller
 degree
 disannulling
+dormers
 disannulment
 disannuls
 disanoint
@@ -15721,7 +15722,6 @@ dormantly
 discomfortableness
 dormer
 dormered
-dormers
 dormette
 dormeuse
 dormy
