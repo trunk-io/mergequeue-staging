@@ -5038,7 +5038,6 @@ endermatic
 endermic
 endogastric
 endermically
-enderon
 enderonic
 enders
 endevil
@@ -13898,6 +13897,7 @@ extraoral
 extraorbital
 extraorbitally
 extraordinary
+enderon
 extraordinaries
 extraordinarily
 extraordinariness
