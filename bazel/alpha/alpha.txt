@@ -3405,7 +3405,6 @@ adamhood
 adamic
 adamical
 adamically
-adamine
 adamite
 adamitic
 adamitical
@@ -23644,6 +23643,7 @@ auslaut
 auslaute
 ausones
 ausonian
+adamine
 auspex
 auspicate
 auspicated
