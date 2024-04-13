@@ -1060,6 +1060,7 @@ calcining
 calcinize
 calcino
 calcinosis
+chronogenesis
 calciobiotite
 calciocarnotite
 calcioferrite
@@ -12590,7 +12591,6 @@ chronocinematography
 chronocrator
 chronodeik
 chronogeneous
-chronogenesis
 chronogram
 chronogrammatic
 chronogrammatical
