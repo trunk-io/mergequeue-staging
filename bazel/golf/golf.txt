@@ -4789,6 +4789,7 @@ gyrofrequency
 gyrofrequencies
 gyrogonite
 gyrograph
+gulix
 gushingness
 gyrohorizon
 guato
@@ -10712,7 +10713,6 @@ gustavus
 gusted
 gustful
 gustfully
-gulix
 gustfulness
 gusty
 gustier

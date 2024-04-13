@@ -4805,7 +4805,6 @@ encodings
 encoffin
 exuviation
 encoffinment
-esox
 encoil
 encolden
 encollar
@@ -6015,6 +6014,7 @@ enlay
 exterritorially
 exiguities
 enlarge
+esox
 enlargeable
 enlargeableness
 enlarged
