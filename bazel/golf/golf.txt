@@ -1791,7 +1791,6 @@ gwen
 gastroenterologically
 gastroenterostomy
 gastroenterostomies
-gastroepiploic
 guebre
 gastroesophageal
 gastrogastrotomy
@@ -7031,6 +7030,7 @@ grumpy
 goofy
 goofier
 goofiest
+gastroepiploic
 goofily
 goofiness
 goofing
