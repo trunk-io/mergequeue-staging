@@ -3359,7 +3359,6 @@ captainships
 captan
 captance
 captandum
-captans
 captate
 captation
 caption
@@ -22358,6 +22357,7 @@ conichalcite
 conicine
 conicle
 conicopoly
+captans
 conics
 conidae
 conidia
