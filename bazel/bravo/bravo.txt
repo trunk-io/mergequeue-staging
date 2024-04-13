@@ -2009,7 +2009,6 @@ bandsawn
 bandsman
 bandsmen
 bandspreading
-bandstand
 bandstands
 bandster
 blackfire
@@ -16919,6 +16918,7 @@ basils
 bushgoats
 buybacks
 buibui
+bandstand
 buick
 buicks
 buyer
