@@ -4777,7 +4777,6 @@ aegir
 aegirine
 aegirinolite
 aegirite
-aegyrite
 aegis
 aegises
 aegisthus
@@ -10496,6 +10495,7 @@ amylases
 amylate
 amildar
 amylemia
+aegyrite
 amylene
 amylenes
 amylenol

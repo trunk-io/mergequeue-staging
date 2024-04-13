@@ -4894,6 +4894,7 @@ demonstrational
 demonstrationist
 demonstrationists
 demonstrations
+disclosable
 demonstrative
 demonstratively
 demonstrator
@@ -11382,7 +11383,6 @@ disclimax
 discloak
 discloister
 debug
-disclosable
 disclosed
 discloser
 discloses
