@@ -1078,7 +1078,6 @@ dewbeam
 dovey
 dartagnan
 dartars
-darted
 darter
 darters
 dartingly
@@ -8895,6 +8894,7 @@ dichromatic
 dichromaticism
 dichromatism
 debonairty
+darted
 dichromic
 dichromism
 dichronous
