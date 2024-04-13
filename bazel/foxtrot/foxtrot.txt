@@ -7720,6 +7720,7 @@ forehands
 freeman
 forehatch
 fenouillette
+foreverness
 forehatchway
 forehead
 foreheaded
@@ -8157,7 +8158,6 @@ forevalue
 fittable
 forever
 forevermore
-foreverness
 forevers
 foreview
 forevision
