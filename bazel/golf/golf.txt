@@ -2037,7 +2037,6 @@ gaultherine
 gavelmen
 gaumed
 gaumy
-gauming
 gaumish
 gaumless
 gaumlike
@@ -4604,6 +4603,7 @@ gippo
 gyppo
 gips
 gyps
+gauming
 gipseian
 gypseian
 gypseous
