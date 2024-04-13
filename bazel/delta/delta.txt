@@ -8071,7 +8071,6 @@ diaceturia
 diachaenium
 diachylon
 dromiacea
-diarch
 diachylum
 diachyma
 diachoretic
@@ -18133,6 +18132,7 @@ dumsola
 dun
 dingling
 discreated
+diarch
 dunair
 dunal
 dunamis
