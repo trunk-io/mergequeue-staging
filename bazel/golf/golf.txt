@@ -301,7 +301,6 @@ gaiter
 gaiterless
 gloom
 gaiting
-gaits
 gaitt
 gaius
 gayway
@@ -9535,6 +9534,7 @@ grovelled
 groveller
 grovelling
 groundwork
+gaits
 grovellingly
 grovellings
 grovels
