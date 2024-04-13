@@ -1081,7 +1081,6 @@ bailiary
 bailiaries
 beauclerk
 bailie
-bailiery
 bailieries
 bailies
 bailieship
@@ -10771,6 +10770,7 @@ blethe
 blether
 bletheration
 blethered
+bailiery
 blethering
 bletia
 bletilla

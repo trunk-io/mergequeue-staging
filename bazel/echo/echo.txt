@@ -5396,7 +5396,6 @@ endotheliocyte
 endothelioid
 endotheliolytic
 endothelioma
-endotheliomas
 endotheliomata
 endotheliomyoma
 endotheliomyxoma
@@ -10697,6 +10696,7 @@ evermo
 euchorda
 euchre
 euchred
+endotheliomas
 euchres
 epifauna
 erotomania
