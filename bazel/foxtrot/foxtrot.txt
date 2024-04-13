@@ -5539,7 +5539,6 @@ flexura
 flexural
 flexure
 flexured
-franca
 flexures
 fly
 flyable
@@ -7693,6 +7692,7 @@ forefronts
 foregahger
 foregallery
 foreganger
+franca
 frederick
 foregate
 foregift
