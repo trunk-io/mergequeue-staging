@@ -2708,6 +2708,7 @@ acquiescement
 acquiescence
 acquiescency
 acquiescent
+angiomata
 acquiescently
 acquiescer
 acquiesces
@@ -12789,7 +12790,6 @@ angiology
 angioma
 angiomalacia
 angiomas
-angiomata
 angiomatosis
 angiomatous
 angiomegaly

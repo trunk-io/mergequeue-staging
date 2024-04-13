@@ -15094,7 +15094,6 @@ civilisatory
 civilise
 civilised
 civiliser
-civilises
 civilising
 civilist
 civilite
@@ -25639,6 +25638,7 @@ correctify
 correcting
 cubicly
 correctingly
+civilises
 correction
 correctional
 correctionalist
