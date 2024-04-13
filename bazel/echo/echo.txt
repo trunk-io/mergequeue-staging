@@ -2287,7 +2287,6 @@ electriferous
 electrifiable
 electrification
 electrified
-electrifier
 esthetophore
 electrifiers
 electrifies
@@ -11370,6 +11369,7 @@ evangelion
 evangelisation
 evangelise
 evangelised
+electrifier
 evangeliser
 evangelism
 evangelist
