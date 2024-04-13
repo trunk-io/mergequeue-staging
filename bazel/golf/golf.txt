@@ -3006,7 +3006,6 @@ geochemist
 geochemists
 geochrony
 geochronology
-geochronologic
 geochronological
 geochronologically
 geochronologist
@@ -3260,6 +3259,7 @@ geosphere
 glamourousness
 geospiza
 geostatic
+geochronologic
 geostationary
 gadroons
 gluttonism
