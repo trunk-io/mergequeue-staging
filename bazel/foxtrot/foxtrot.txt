@@ -3401,7 +3401,6 @@ fieldwork
 fieldworker
 fieldwort
 fiendful
-fiendfully
 fiendhead
 fiendish
 fiendishly
@@ -11405,6 +11404,7 @@ furlana
 furlane
 furler
 furless
+fiendfully
 furling
 fiscality
 furlong

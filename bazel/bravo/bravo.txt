@@ -7321,7 +7321,6 @@ beswink
 beswitch
 bet
 beta
-betacaine
 betacism
 betacismus
 betag
@@ -8737,6 +8736,7 @@ bilsted
 bilsteds
 biltongs
 biltongue
+betacaine
 bim
 bima
 bimaculate
