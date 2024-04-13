@@ -2885,7 +2885,6 @@ elevenths
 elevons
 elf
 elfenfolk
-elfhood
 epinard
 elfic
 educative
@@ -6331,6 +6330,7 @@ enroots
 encirclement
 enrough
 enround
+elfhood
 enruin
 ens
 ensafe
