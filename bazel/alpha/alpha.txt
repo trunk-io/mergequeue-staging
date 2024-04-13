@@ -7737,6 +7737,7 @@ aldermanries
 aldermanship
 aldermen
 aldern
+armaria
 alderney
 alders
 alderwomen
@@ -19873,7 +19874,6 @@ armamentaria
 armamentarium
 armangite
 armary
-armaria
 aminovaleric
 armarian
 armaries

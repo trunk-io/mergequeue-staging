@@ -1702,6 +1702,7 @@ fixgig
 firer
 feasances
 feased
+forstraught
 feases
 feasibility
 feasibilities
@@ -9910,7 +9911,6 @@ fresno
 fress
 fresser
 fret
-forstraught
 fontally
 fretfully
 fallibleness
