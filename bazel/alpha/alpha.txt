@@ -9142,6 +9142,7 @@ almous
 alms
 almsdeed
 almsfolk
+aversions
 almsful
 almsgiver
 almsgiving
@@ -24680,7 +24681,6 @@ averse
 aversely
 averseness
 aversion
-aversions
 aversive
 avert
 adults

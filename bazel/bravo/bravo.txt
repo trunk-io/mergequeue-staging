@@ -6273,7 +6273,6 @@ benignancy
 benignancies
 benignant
 benignity
-boletic
 benignities
 benignly
 becharm
@@ -8209,6 +8208,7 @@ bidree
 bidry
 bids
 bidstand
+boletic
 biduous
 bye
 bieberite
