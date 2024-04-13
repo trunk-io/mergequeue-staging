@@ -6217,7 +6217,6 @@ gluttonize
 gluttonized
 gluttonizing
 gluttonous
-gluttonously
 gluttons
 gm
 gmelina
@@ -9766,6 +9765,7 @@ gtt
 gu
 guaba
 guacacoa
+gluttonously
 guacamole
 guachamaca
 grindings
