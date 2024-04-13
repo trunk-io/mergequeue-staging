@@ -6647,7 +6647,6 @@ enterpriseless
 enterocoelic
 enterocoelous
 enterocolitis
-enterocolostomy
 embeggar
 enterodelous
 enterodynia
@@ -12825,6 +12824,7 @@ exosepsis
 exoskeletal
 exoskeleton
 exosmic
+enterocolostomy
 exosmose
 exosmosis
 empty
