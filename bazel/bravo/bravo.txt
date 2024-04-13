@@ -6097,7 +6097,6 @@ benamidar
 benasty
 benben
 bench
-benchboard
 benched
 bencher
 benchers
@@ -16112,6 +16111,7 @@ broomshank
 broomstick
 broomsticks
 broomstraw
+benchboard
 broomtail
 broomweed
 broomwood

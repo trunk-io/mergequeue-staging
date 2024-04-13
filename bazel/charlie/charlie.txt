@@ -541,7 +541,6 @@ caducecei
 caducei
 caduceus
 caduciary
-caduciaries
 caducibranch
 caducibranchiata
 caducibranchiate
@@ -17680,6 +17679,7 @@ curvifoliate
 cocreating
 cocreator
 cocreatorship
+caduciaries
 cocreditor
 cocrucify
 coct
