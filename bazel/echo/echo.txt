@@ -10436,7 +10436,6 @@ ethmopalatine
 ethmophysal
 ethmopresphenoidal
 ethmose
-ethmosphenoid
 ethmosphenoidal
 ethmoturbinal
 ethmovomer
@@ -11683,6 +11682,7 @@ evolutoid
 encephalomere
 evolvable
 evolve
+ethmosphenoid
 evolved
 evolvement
 electroretinogram
