@@ -5412,7 +5412,6 @@ endotheloid
 endotherm
 endothermal
 endothermy
-endothermic
 endothermism
 endothermous
 endothia
@@ -7092,6 +7091,7 @@ entrez
 entry
 entria
 entries
+endothermic
 entrike
 entryman
 enteroid
