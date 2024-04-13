@@ -5844,7 +5844,6 @@ deprecates
 deprecating
 deprecatingly
 deprecation
-deprecations
 disconcert
 deprecative
 deprecatively
@@ -12164,6 +12163,7 @@ disgood
 disgorge
 dual
 disgorged
+deprecations
 disgorgement
 disgorger
 disgorges
