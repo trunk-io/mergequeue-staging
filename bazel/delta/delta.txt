@@ -3183,7 +3183,6 @@ defeit
 defeminisation
 defeminise
 defeminised
-defeminization
 defeminize
 dismarshall
 defeminized
@@ -5351,6 +5350,7 @@ denaturization
 discomposing
 diminishes
 dawned
+defeminization
 dentine
 dentines
 denting
