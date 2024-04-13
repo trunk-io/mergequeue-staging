@@ -6995,7 +6995,6 @@ centermost
 centerpiece
 centerpieces
 centerpunch
-centervelic
 centerward
 centerwise
 centeses
@@ -20770,6 +20769,7 @@ complotted
 complotter
 complotting
 complutensian
+centervelic
 coeducate
 compluvia
 compluvium

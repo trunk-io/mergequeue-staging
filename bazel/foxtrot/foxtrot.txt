@@ -7443,6 +7443,7 @@ forceput
 forcer
 forcers
 forces
+frondescence
 forcet
 forchase
 forches
@@ -11575,7 +11576,6 @@ fusile
 fusileer
 fatalistic
 fusileers
-frondescence
 fusilier
 fusiliers
 feu
