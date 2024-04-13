@@ -5122,7 +5122,6 @@ deny
 deniability
 deniable
 deniably
-denial
 dentinoid
 dullest
 denials
@@ -7909,6 +7908,7 @@ delundung
 dezincify
 dezincification
 dezincified
+denial
 dezincifying
 dezincing
 dezincked
