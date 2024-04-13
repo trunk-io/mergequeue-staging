@@ -1309,7 +1309,6 @@ garbanzo
 garbed
 garbell
 garbill
-garbing
 garble
 garbleable
 garbled
@@ -10419,6 +10418,7 @@ gummier
 gummiest
 gastrocoloptosis
 gumming
+garbing
 gummose
 gummoses
 gummosis
