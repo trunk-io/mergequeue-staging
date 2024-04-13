@@ -1127,6 +1127,7 @@ farthermost
 farthest
 farthing
 fleabitten
+fords
 farthingale
 farads
 farthingales
@@ -7490,7 +7491,6 @@ fordo
 fordoes
 fordoing
 fordrive
-fords
 fordull
 fumattoria
 fibreware
