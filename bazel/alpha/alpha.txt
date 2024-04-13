@@ -4453,7 +4453,6 @@ adularia
 adularias
 athetesis
 adulate
-adulated
 adulating
 adulation
 adulator
@@ -9044,6 +9043,7 @@ anemometric
 alluvions
 alluvious
 alluvium
+adulated
 alluviums
 alluvivia
 alluviviums
