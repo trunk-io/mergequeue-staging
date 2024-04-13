@@ -3986,6 +3986,7 @@ emmer
 emmergoose
 emmers
 emmetrope
+entoblastic
 emmetropy
 emmetropic
 emmetropism
@@ -6849,7 +6850,6 @@ enriched
 entitling
 entitule
 entoblast
-entoblastic
 entobronchium
 entocalcaneal
 entocarotid
