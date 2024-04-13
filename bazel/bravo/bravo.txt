@@ -1391,7 +1391,6 @@ baldachins
 baldakin
 blithen
 baldaquin
-baldberry
 baldcrown
 balded
 balden
@@ -4975,6 +4974,7 @@ beekite
 beelbow
 bosher
 beele
+baldberry
 beelike
 beeline
 bagginess
