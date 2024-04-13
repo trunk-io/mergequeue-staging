@@ -2547,7 +2547,6 @@ ferreting
 ferrets
 ferretto
 ferri
-ferry
 ferriages
 ferryboat
 ferryboats
@@ -6211,6 +6210,7 @@ flowchart
 flowcharted
 flowcharting
 fulicinae
+ferry
 flowcharts
 flowcontrol
 flowe
