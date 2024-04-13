@@ -1154,6 +1154,7 @@ bais
 baisemain
 boardable
 baysmelt
+bombastry
 baister
 bait
 baited
@@ -12271,7 +12272,6 @@ bleaker
 bombastically
 bioclean
 bombasticness
-bombastry
 blockades
 bombasts
 bombax

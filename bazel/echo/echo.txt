@@ -5217,6 +5217,7 @@ etiotropic
 endolymphic
 endolysin
 endolithic
+epidermis
 endolumbar
 endomastoiditis
 endome
@@ -7776,7 +7777,6 @@ extracanonical
 effront
 epidermically
 epidermidalization
-epidermis
 epidermization
 epidermoid
 epidermoidal
