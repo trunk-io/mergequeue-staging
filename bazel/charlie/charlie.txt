@@ -8825,6 +8825,7 @@ chaptalization
 chaptalize
 chaptalized
 chaptalizing
+cleistogeny
 chapter
 chapteral
 chaptered
@@ -15905,7 +15906,6 @@ cleistogamically
 cleistogamous
 cleistogamously
 cleistogene
-cleistogeny
 cleistogenous
 cleistotcia
 cleistothecia
