@@ -2871,7 +2871,6 @@ decurtate
 decurvation
 decurvature
 decurve
-decurves
 decurving
 destinist
 decus
@@ -16672,6 +16671,7 @@ deflocculated
 dramaticism
 dramaticle
 dramatics
+decurves
 dramatis
 dramatisable
 dramatiser
