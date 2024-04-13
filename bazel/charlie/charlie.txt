@@ -3874,7 +3874,6 @@ cardcase
 cardcases
 cardecu
 carded
-cardel
 carder
 carders
 cardholder
@@ -16428,6 +16427,7 @@ clobber
 clobbered
 clobberer
 clobbering
+cardel
 clobbers
 clochard
 cloche
