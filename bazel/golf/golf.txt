@@ -3619,7 +3619,6 @@ gallimaufries
 gangwaymen
 gesture
 gestured
-gestureless
 gesturer
 gesturers
 gesturing
@@ -5928,6 +5927,7 @@ glossoepiglottic
 glossograph
 glossographer
 getid
+gestureless
 glossography
 glossographical
 glossohyal

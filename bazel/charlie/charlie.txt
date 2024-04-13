@@ -149,7 +149,6 @@ caboched
 cabochon
 cabochons
 cabocle
-caboclo
 caboclos
 cabomba
 cabombaceae
@@ -25313,6 +25312,7 @@ cornetfish
 cornetfishes
 cornetist
 cornetists
+caboclo
 cornets
 cornett
 cornette
