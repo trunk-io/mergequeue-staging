@@ -9636,7 +9636,6 @@ escrol
 escrow
 escrowed
 escrowee
-escrowing
 escuage
 escudero
 escudo
@@ -11229,6 +11228,7 @@ euskara
 euskarian
 euskaric
 eurytus
+escrowing
 eusol
 euspongia
 eusporangiate
