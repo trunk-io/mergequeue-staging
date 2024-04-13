@@ -7633,6 +7633,7 @@ cerigerous
 ceryl
 cerilla
 cerillo
+choledochoenterostomy
 ceriman
 cerimans
 cerin
@@ -11559,7 +11560,6 @@ choledochal
 choledochectomy
 choledochitis
 choledochoduodenostomy
-choledochoenterostomy
 choledocholithiasis
 choledocholithotomy
 choledocholithotripsy

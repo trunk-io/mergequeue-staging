@@ -13598,7 +13598,6 @@ annotated
 annotater
 annotates
 annotating
-annotation
 annotations
 annotative
 annotatively
@@ -15180,6 +15179,7 @@ antiempiric
 antiempirical
 antiempirically
 antiempiricism
+annotation
 antiempiricist
 antiendotoxin
 antiendowment
