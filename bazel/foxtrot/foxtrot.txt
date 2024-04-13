@@ -8211,7 +8211,6 @@ featherdom
 forfeitableness
 forfeited
 forfeiter
-forfeiting
 forfeits
 forfeiture
 forfeitures
@@ -9691,6 +9690,7 @@ freeloaders
 freelovism
 freemanship
 freemartin
+forfeiting
 freemason
 freemasonic
 freemasonical
