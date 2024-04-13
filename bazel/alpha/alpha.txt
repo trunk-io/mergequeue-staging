@@ -747,7 +747,6 @@ aboulias
 aboulic
 abound
 abounded
-abounder
 abounding
 aboundingly
 abounds
@@ -15081,6 +15080,7 @@ anticularia
 anticum
 anticus
 antidactyl
+abounder
 antidancing
 antidecalogue
 arcella
