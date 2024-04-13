@@ -3541,6 +3541,7 @@ gervase
 ges
 gunslinger
 ganomalite
+guilds
 gesan
 gesellschaft
 geshurites
@@ -10190,7 +10191,6 @@ guildhall
 guildic
 guildite
 guildry
-guilds
 guildship
 guildsmen
 guile
