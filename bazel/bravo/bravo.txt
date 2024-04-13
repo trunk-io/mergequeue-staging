@@ -3216,7 +3216,6 @@ basichromiole
 basicity
 basicities
 basicranial
-basics
 basidia
 basidial
 basidigital
@@ -11837,6 +11836,7 @@ bog
 boga
 bogach
 bogan
+basics
 bogans
 bogard
 bogart
