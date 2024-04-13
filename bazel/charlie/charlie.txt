@@ -5476,7 +5476,6 @@ catalonian
 cataloon
 catalos
 catalowne
-catalpa
 catalpas
 catalufa
 catalufas
@@ -25105,6 +25104,7 @@ coriamyrtin
 corianders
 coriandrum
 coriaria
+catalpa
 coriariaceae
 coriariaceous
 coriaus

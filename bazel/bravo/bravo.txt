@@ -3020,7 +3020,6 @@ barristerial
 barristers
 barristership
 barristress
-barroom
 barrooms
 barrow
 barrowcoat
@@ -6179,6 +6178,7 @@ benefactors
 benefactorship
 benefactress
 benefactresses
+barroom
 benefactrices
 bardesanism
 benefactrix
