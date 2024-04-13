@@ -197,6 +197,7 @@ baccara
 bdrm
 baccaras
 biased
+betrim
 baccarat
 baccarats
 baccare
@@ -7454,7 +7455,6 @@ betrap
 betravel
 betread
 betrend
-betrim
 betrinket
 betroth
 betrothal
