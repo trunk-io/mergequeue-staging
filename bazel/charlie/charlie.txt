@@ -15402,7 +15402,6 @@ clannish
 clannishly
 clannishness
 clans
-clansfolk
 cursoria
 clanship
 clansman
@@ -26022,6 +26021,7 @@ cosymmedian
 cosin
 compurgator
 cosinage
+clansfolk
 cosine
 cosines
 cosiness
