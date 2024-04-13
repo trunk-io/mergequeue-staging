@@ -4625,6 +4625,7 @@ adversus
 adverted
 advertence
 advertency
+afoot
 advertent
 advertently
 adverting
@@ -5513,7 +5514,6 @@ aflush
 aflutter
 afoam
 afocal
-afoot
 afore
 arrisways
 aforegoing
