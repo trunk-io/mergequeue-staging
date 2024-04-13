@@ -1413,6 +1413,7 @@ fatly
 fatlike
 fatling
 fatlings
+furbishing
 fatness
 fatnesses
 furcular
@@ -6682,7 +6683,6 @@ foals
 foam
 foambow
 foamed
-furbishing
 foamer
 foamflower
 foamy
