@@ -6435,7 +6435,6 @@ benzobis
 benzocaine
 benzocoumaran
 benzodiazine
-benzodiazole
 benzofluorene
 benzofulvene
 bollen
@@ -13069,6 +13068,7 @@ borosalicylate
 borosalicylic
 borosilicate
 borosilicic
+benzodiazole
 borotungstate
 borotungstic
 borough
