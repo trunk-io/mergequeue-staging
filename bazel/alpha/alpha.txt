@@ -9707,7 +9707,6 @@ amakebe
 amakosa
 amal
 amala
-amalaita
 aparai
 amalaka
 amalekite
@@ -20130,6 +20129,7 @@ arpenteur
 arpents
 agas
 arquated
+amalaita
 arquebus
 arquebuses
 arquerite
