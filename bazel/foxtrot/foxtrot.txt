@@ -3721,7 +3721,6 @@ fillemot
 frownless
 filler
 fillercap
-fractionator
 fillers
 filles
 fillet
@@ -11517,6 +11516,7 @@ furunculoid
 furunculus
 furze
 furzed
+fractionator
 flapperhood
 furzeling
 furzetop

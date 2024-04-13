@@ -1110,7 +1110,6 @@ ganglia
 gargoyled
 ganglial
 gybed
-gangliasthenia
 gangliate
 gangliectomy
 ganglier
@@ -6176,6 +6175,7 @@ glutaric
 glutathione
 glutch
 glutei
+gangliasthenia
 glutelin
 glutelins
 glutenin
