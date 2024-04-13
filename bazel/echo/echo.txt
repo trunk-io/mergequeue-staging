@@ -3116,7 +3116,6 @@ eloigned
 eloigner
 eloigners
 eloigning
-epistasis
 eloignment
 eloigns
 eloin
@@ -7847,6 +7846,7 @@ epigenous
 executancy
 epigeous
 epigeum
+epistasis
 epigyne
 epigyny
 epigynies
