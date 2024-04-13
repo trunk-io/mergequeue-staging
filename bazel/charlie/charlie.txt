@@ -11201,7 +11201,6 @@ chlordan
 chlordane
 chlordans
 chlore
-chlored
 chlorella
 chlorellaceae
 chlorellaceous
@@ -25054,6 +25053,7 @@ corelated
 corelates
 corelating
 corelation
+chlored
 corelational
 corelative
 corelatively
