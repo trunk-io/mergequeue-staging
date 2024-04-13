@@ -6226,7 +6226,6 @@ flowerful
 flowery
 floweriest
 flowerily
-floweriness
 flowering
 flowerist
 flowerless
@@ -11413,6 +11412,7 @@ furlongs
 fluoroscope
 furlough
 furloughed
+floweriness
 furloughing
 furloughs
 furls
