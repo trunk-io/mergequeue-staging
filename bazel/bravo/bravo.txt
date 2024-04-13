@@ -9017,7 +9017,6 @@ biogen
 biogenase
 biogenesis
 biogenesist
-biogenetic
 biogenetically
 biogenetics
 backspace
@@ -13246,6 +13245,7 @@ botanies
 botanise
 botanised
 botaniser
+biogenetic
 botanises
 botanist
 botanize
