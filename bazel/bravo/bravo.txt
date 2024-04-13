@@ -3462,7 +3462,6 @@ bastian
 bastide
 bastile
 bastiles
-bastille
 bastilles
 bastillion
 biggah
@@ -18253,6 +18252,7 @@ butterflies
 butterflyfishes
 butterflying
 butterflylike
+bastille
 butterflower
 butterhead
 butterier

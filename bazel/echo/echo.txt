@@ -260,7 +260,6 @@ easing
 eassel
 east
 eastabout
-eastbound
 easted
 easter
 eastering
@@ -8069,6 +8068,7 @@ encumbering
 epipharynx
 epiphegus
 epiphenomena
+eastbound
 epiphenomenal
 epiphenomenalism
 epiphenomenalist
