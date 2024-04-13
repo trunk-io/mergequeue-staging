@@ -6436,6 +6436,7 @@ ccid
 ccitt
 cubage
 cckw
+collocated
 ccm
 ccoya
 ccw
@@ -19096,7 +19097,6 @@ collobrierite
 collocal
 collocalia
 collocate
-collocated
 collocates
 collocating
 collocation

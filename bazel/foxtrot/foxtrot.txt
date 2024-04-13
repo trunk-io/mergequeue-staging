@@ -7284,6 +7284,7 @@ footsores
 friller
 fatties
 footstall
+foutra
 footstep
 footsteps
 footstick
@@ -9088,7 +9089,6 @@ foute
 fouter
 fouth
 fouty
-foutra
 fovea
 fanflower
 foveae
