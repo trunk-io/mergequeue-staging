@@ -15193,7 +15193,6 @@ cladogenous
 cladonia
 cladoniaceae
 cladoniaceous
-cladonioid
 cladophyllum
 cladophora
 cladophoraceous
@@ -22870,6 +22869,7 @@ consign
 consignable
 consignatary
 consignataries
+cladonioid
 consignation
 consignatory
 consigne
