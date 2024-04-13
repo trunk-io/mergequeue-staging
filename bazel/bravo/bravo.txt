@@ -2131,6 +2131,7 @@ banknotes
 bankrider
 bankroll
 bankrolled
+begetting
 bankroller
 bankrolling
 bankrolls
@@ -5245,7 +5246,6 @@ beget
 begettal
 begetter
 begetters
-begetting
 beggable
 beggardom
 beggared

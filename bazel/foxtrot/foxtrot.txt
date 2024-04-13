@@ -2050,7 +2050,6 @@ funebrial
 feldsparphyre
 feldspath
 feldspathic
-feldspathization
 feldspathoid
 feldspathoidal
 feldspathose
@@ -9328,6 +9327,7 @@ fraised
 fraiser
 formule
 fraises
+feldspathization
 fraist
 frontispieced
 frakfurt
