@@ -7093,7 +7093,6 @@ centranthus
 centrarchid
 costful
 centrarchidae
-centrarchoid
 centration
 centraxonia
 centraxonial
@@ -25490,6 +25489,7 @@ coronership
 coronet
 coroneted
 coronetlike
+centrarchoid
 coronets
 coronetted
 coronettee
