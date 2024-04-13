@@ -27954,7 +27954,6 @@ craftspeople
 craftsperson
 craftswoman
 craftwork
-craftworker
 crag
 craggan
 cragged
@@ -28163,6 +28162,7 @@ crankiest
 crankily
 crankiness
 cranking
+craftworker
 crankish
 crankism
 crankle
