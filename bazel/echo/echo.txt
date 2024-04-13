@@ -867,7 +867,6 @@ epexegeses
 eddic
 ectogenesis
 ectogenetic
-ectogenic
 ectogenous
 ectoglia
 ectognatha
@@ -10542,6 +10541,7 @@ ethological
 ethologically
 ethologies
 ethologist
+ectogenic
 explains
 eugene
 ethologists
