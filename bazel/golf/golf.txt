@@ -6603,7 +6603,6 @@ goldarns
 goldbeater
 goldbeating
 goldbird
-goldbrick
 goldbricker
 goldbrickers
 goldbricks
@@ -7683,6 +7682,7 @@ graduands
 graduate
 graduated
 glucase
+goldbrick
 graduates
 graduateship
 graduatical
