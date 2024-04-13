@@ -1204,7 +1204,6 @@ griphosaurus
 ganoidian
 goniunia
 ganoids
-ganoin
 ganoine
 ganophyllite
 ganoses
@@ -4555,6 +4554,7 @@ gynogenetic
 gynomonecious
 gynomonoecious
 gynomonoeciously
+ganoin
 gynomonoecism
 gynophoric
 ginorite
