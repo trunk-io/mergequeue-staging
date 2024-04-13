@@ -6780,7 +6780,6 @@ berley
 berlin
 berlina
 berline
-berliner
 berliners
 berlines
 berlinite
@@ -8649,6 +8648,7 @@ billeters
 billethead
 billety
 billeting
+berliner
 billets
 billette
 billetty
