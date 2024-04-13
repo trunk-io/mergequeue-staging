@@ -6402,7 +6402,6 @@ benzdioxtriazine
 benzedrine
 benzein
 benzene
-benzeneazobenzene
 benzenediazonium
 benzenes
 benzenyl
@@ -14118,6 +14117,7 @@ bracted
 bracteiform
 bracteole
 bracteose
+benzeneazobenzene
 bractless
 bractlet
 bractlets
