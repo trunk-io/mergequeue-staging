@@ -1825,7 +1825,6 @@ debite
 debited
 debiteuse
 debiting
-debitor
 debitrix
 dineric
 debits
@@ -8971,6 +8970,7 @@ diverter
 dicrotal
 dicrotic
 dicrotism
+debitor
 dicrotous
 dicruridae
 dyable
