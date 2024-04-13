@@ -6755,7 +6755,6 @@ epilogs
 entertake
 entertissue
 entete
-entfaoilff
 enthalpy
 elotillo
 enthalpies
@@ -14189,6 +14188,7 @@ exuviates
 exuviating
 exuvium
 exxon
+entfaoilff
 exzodiacal
 ensand
 ezba
