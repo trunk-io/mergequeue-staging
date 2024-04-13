@@ -726,7 +726,6 @@ gallowsmaker
 gallowsness
 gallowsward
 galls
-gallstone
 gallstones
 galluot
 goosey
@@ -7897,6 +7896,7 @@ grandad
 gnomically
 grandada
 grandads
+gallstone
 grandam
 grandame
 grandames
