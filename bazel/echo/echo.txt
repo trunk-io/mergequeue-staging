@@ -119,7 +119,6 @@ earnings
 earns
 earphone
 earpick
-earpiece
 earplug
 earplugs
 earreach
@@ -4551,6 +4550,7 @@ encastrement
 encauma
 encaustic
 encaustically
+earpiece
 encave
 encefalon
 enceinte
