@@ -2072,6 +2072,7 @@ campings
 campion
 campions
 campit
+conclusively
 calcaneus
 cample
 chaetopoda
@@ -21409,7 +21410,6 @@ conclusional
 conclusionally
 conclusions
 conclusive
-conclusively
 conclusiveness
 conclusory
 conclusum
