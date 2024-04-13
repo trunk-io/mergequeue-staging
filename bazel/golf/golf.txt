@@ -2871,6 +2871,7 @@ genotypic
 genotypical
 genotypically
 genotypicity
+geoblast
 genovino
 glomi
 genre
@@ -2990,7 +2991,6 @@ geoagronomic
 geobiologic
 geobiont
 geobios
-geoblast
 geobotany
 geobotanic
 geobotanically
