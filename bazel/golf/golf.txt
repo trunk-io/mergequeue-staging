@@ -7410,6 +7410,7 @@ gridding
 goujay
 goujat
 gestaltist
+gyration
 gametic
 goujon
 goujons
@@ -8885,7 +8886,6 @@ grid
 gadge
 gridded
 gridder
-gyration
 griddle
 griddlecake
 giddiness
