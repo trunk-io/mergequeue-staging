@@ -18499,6 +18499,7 @@ coimplore
 coin
 coyn
 coinable
+countersurprise
 coinage
 coinages
 coincide
@@ -27155,7 +27156,6 @@ countersubject
 countersuit
 countersun
 countersunken
-countersurprise
 countersway
 counterswing
 countersworn
