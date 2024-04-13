@@ -6348,6 +6348,7 @@ germanious
 gnomons
 gnoses
 gnosiology
+guidership
 gnosiological
 gnosis
 gnostic
@@ -10151,7 +10152,6 @@ guidepost
 guideposts
 gibli
 guiders
-guidership
 genial
 guides
 guideway
