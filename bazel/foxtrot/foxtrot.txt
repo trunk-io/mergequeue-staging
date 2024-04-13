@@ -3720,6 +3720,7 @@ filix
 fylker
 filla
 foreleech
+friesish
 fillable
 fillagreed
 filled
@@ -10036,7 +10037,6 @@ fries
 friese
 friesian
 friesic
-friesish
 friezed
 fleshhook
 friezer
