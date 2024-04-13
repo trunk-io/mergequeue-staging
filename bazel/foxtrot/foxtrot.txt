@@ -406,7 +406,6 @@ fairish
 fairyship
 fairishly
 fairishness
-fairkeeper
 fairlead
 fairleader
 firetrap
@@ -5014,6 +5013,7 @@ framableness
 flapperism
 flappers
 flappet
+fairkeeper
 flappy
 flappiest
 flapping
