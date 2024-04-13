@@ -9052,7 +9052,6 @@ erica
 ericaceae
 ericaceous
 ericad
-erical
 ericales
 ericas
 ericetal
@@ -12189,6 +12188,7 @@ excresence
 excreta
 enflowered
 excretal
+erical
 excrete
 excreted
 excreter
