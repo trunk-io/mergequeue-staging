@@ -4466,7 +4466,6 @@ beclamor
 biopsies
 beclamored
 beclamors
-beclamour
 beclang
 beclap
 beclart
@@ -8451,6 +8450,7 @@ biham
 balladwise
 bihamate
 byhand
+beclamour
 bihari
 biharmonic
 bihydrazine
