@@ -6836,7 +6836,6 @@ foyaitic
 foible
 foibles
 foiblesse
-foyboat
 foyer
 foyers
 foil
@@ -7329,6 +7328,7 @@ fopship
 for
 fora
 forage
+foyboat
 foraged
 foragement
 forager

@@ -9205,7 +9205,6 @@ biotas
 baryes
 biotaxy
 biotech
-barotropy
 biotechnics
 biotechnology
 biotechnological
@@ -13779,6 +13778,7 @@ bowla
 bowlder
 bearbaiting
 bowlderhead
+barotropy
 bowldery
 bowldering
 bowlders
