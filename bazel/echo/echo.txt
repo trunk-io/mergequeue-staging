@@ -1911,7 +1911,6 @@ eyra
 ectad
 eirack
 eyrar
-eyras
 eire
 eyre
 eyren
@@ -13004,6 +13003,7 @@ expeditions
 expeditious
 expeditiously
 expeditiousness
+eyras
 expeditive
 expeditor
 expel
