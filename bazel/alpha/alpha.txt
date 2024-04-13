@@ -2042,6 +2042,7 @@ aphetism
 acetylcarbazole
 acetylcellulose
 acetylcholine
+alchemising
 acetylcholinesterase
 acetylcholinic
 acetylcyanide
@@ -7604,7 +7605,6 @@ alchemically
 alchemies
 alchemised
 actinozoal
-alchemising
 alchemister
 alchemistic
 alchemistical

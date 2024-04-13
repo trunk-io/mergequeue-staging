@@ -1449,6 +1449,7 @@ dbridement
 dbrn
 dc
 dca
+detd
 deceived
 dcb
 dcbname
@@ -7146,7 +7147,6 @@ detar
 detassel
 detat
 detax
-detd
 detect
 detectability
 daishiki
