@@ -6479,6 +6479,7 @@ benzophenazine
 benzophenol
 benzophenone
 benzophenothiazine
+brios
 benzophenoxazine
 benzophloroglucinol
 benzophosphinic
@@ -15482,7 +15483,6 @@ bryophyta
 bryophyte
 bryophytes
 bryophytic
-brios
 bryozoa
 bryozoan
 bryozoans
