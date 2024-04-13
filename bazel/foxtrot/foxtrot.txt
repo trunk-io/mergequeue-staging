@@ -828,7 +828,6 @@ fanon
 fanons
 fellon
 fanos
-fanout
 fans
 fant
 fantad
@@ -2058,6 +2057,7 @@ felicify
 felicific
 felicitated
 felicitates
+fanout
 felicitating
 felicitation
 felicitations
