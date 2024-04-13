@@ -9727,7 +9727,6 @@ chelation
 chelator
 chelators
 chelem
-chelerythrin
 chelerythrine
 chelicer
 chelicera
@@ -19575,6 +19574,7 @@ columnar
 columnarian
 columnarity
 columnarized
+chelerythrin
 columnate
 columnated
 columnates

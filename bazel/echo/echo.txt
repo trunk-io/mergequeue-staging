@@ -3171,6 +3171,7 @@ elsewise
 elshin
 elsholtzia
 elsin
+eodiscid
 elt
 eltrot
 eluant
@@ -9545,7 +9546,6 @@ escarp
 escarping
 escarpment
 escarpments
-eodiscid
 escarps
 escars
 escarteled
