@@ -3031,7 +3031,6 @@ elkhounds
 economizing
 elkoshite
 electrophoretic
-elkslip
 elkuma
 elkwood
 ell
@@ -13232,6 +13231,7 @@ explorator
 exploratory
 explore
 explored
+elkslip
 explorement
 explorer
 explorers

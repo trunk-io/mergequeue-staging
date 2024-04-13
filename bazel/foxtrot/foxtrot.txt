@@ -7533,7 +7533,6 @@ forebemoaned
 forebespeak
 forebye
 flaucht
-forebitten
 forebitter
 fizzing
 forebless
@@ -10340,6 +10339,7 @@ froglets
 froglike
 frogling
 frogman
+forebitten
 frogmarch
 frogmen
 frogmouth
