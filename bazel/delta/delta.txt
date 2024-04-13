@@ -8188,7 +8188,6 @@ diagometer
 diagonal
 diagonalizable
 diagonalization
-diagonalize
 disinteresting
 diagnosing
 diagonally
@@ -10162,6 +10161,7 @@ dinks
 dinkum
 dinman
 dinned
+diagonalize
 dinner
 dispersoidology
 dinnery
