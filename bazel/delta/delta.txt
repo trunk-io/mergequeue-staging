@@ -2075,7 +2075,6 @@ decapitation
 decapitations
 decapitator
 decapoda
-dyaus
 decapodal
 decapodan
 decapodiform
@@ -7636,6 +7635,7 @@ devinct
 devious
 deftest
 deviously
+dyaus
 deviousness
 dekabrist
 devirginate
