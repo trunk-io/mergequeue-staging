@@ -7210,6 +7210,7 @@ bestand
 bestar
 bestare
 bestarve
+biggins
 bestatued
 boba
 bestead
@@ -8387,7 +8388,6 @@ biggin
 bigging
 biggings
 brasseys
-biggins
 biggish
 biggishness
 biggity
