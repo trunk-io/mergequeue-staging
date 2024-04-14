@@ -1621,7 +1621,6 @@ gasogene
 galeenies
 gasogenic
 gasohol
-gasolene
 gasolenes
 gasolier
 gasoliery
@@ -3194,6 +3193,7 @@ geophagist
 geophagous
 geophila
 geophilid
+gasolene
 geophilidae
 gonif
 geophilous
