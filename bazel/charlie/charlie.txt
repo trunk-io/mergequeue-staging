@@ -4224,7 +4224,6 @@ carillons
 carina
 carinae
 carinal
-carinaria
 carinas
 carinatae
 carinate
@@ -7631,6 +7630,7 @@ cerillo
 ceriman
 cerimans
 cerin
+carinaria
 cerine
 cerynean
 clueless
