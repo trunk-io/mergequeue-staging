@@ -2297,7 +2297,6 @@ cancrinite
 cancrisocial
 cancrivorous
 cancrizans
-cancroid
 cancrophagous
 cancrum
 communalising
@@ -10519,6 +10518,7 @@ chilion
 chilipepper
 chilitis
 chilkat
+cancroid
 chill
 chilla
 chillagite

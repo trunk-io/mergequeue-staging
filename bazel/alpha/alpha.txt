@@ -4656,7 +4656,6 @@ advertizing
 adverts
 advice
 adviceful
-advices
 advisability
 advisable
 advisableness
@@ -15434,6 +15433,7 @@ antilethargic
 antileukemic
 antileveling
 antilevelling
+advices
 antilia
 antiliberal
 antiliberalist
