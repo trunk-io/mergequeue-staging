@@ -790,7 +790,6 @@ ecrevisse
 ecroulement
 ecru
 extramedullary
-ecrus
 ecrustaceous
 ecstasy
 ecstasies
@@ -12859,6 +12858,7 @@ exoterica
 exoterical
 exoterically
 exotericism
+ecrus
 embossmen
 exoterics
 exotheca
