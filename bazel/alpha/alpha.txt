@@ -6686,7 +6686,6 @@ aiawong
 aiblins
 aichmophobia
 aid
-aidable
 aidance
 aidant
 aide
@@ -8142,6 +8141,7 @@ algorithmically
 algorithms
 algors
 algosis
+aidable
 algous
 algovite
 algraphy

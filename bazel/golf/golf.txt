@@ -3107,6 +3107,7 @@ geologers
 gramashes
 geologian
 geologic
+gletscher
 geological
 geologically
 geologician
@@ -9829,7 +9830,6 @@ guamuchil
 garbanzos
 guan
 guana
-gletscher
 guanabana
 guanabano
 guanacos
