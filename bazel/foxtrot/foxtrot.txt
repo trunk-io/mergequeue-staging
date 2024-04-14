@@ -350,7 +350,6 @@ fainer
 fainest
 fainly
 faint
-fainted
 fainter
 fainters
 faintest
@@ -10077,6 +10076,7 @@ frigidaire
 frigidaria
 frigidarium
 frigiddaria
+fainted
 frigidity
 frigidities
 frigidly
