@@ -9140,7 +9140,6 @@ eutheria
 erythraea
 erythraean
 erythraeidae
-erythraemia
 erythrasma
 erythrean
 erythremia
@@ -12694,6 +12693,7 @@ exodist
 exodium
 exodoi
 exodontia
+erythraemia
 exodontic
 exodontics
 empover

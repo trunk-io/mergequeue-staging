@@ -12228,7 +12228,6 @@ boluses
 bom
 boma
 bomarea
-bomb
 bonce
 bombable
 bombacaceae
@@ -17596,6 +17595,7 @@ burelle
 boltholes
 burelly
 buret
+bomb
 burets
 burette
 burettes
