@@ -5491,6 +5491,7 @@ catamites
 catamiting
 catamnesis
 cordaitean
+coderived
 catamnestic
 catamount
 catamountain
@@ -17740,7 +17741,6 @@ codens
 codeposit
 coder
 coderive
-coderived
 coderives
 coderiving
 coders
