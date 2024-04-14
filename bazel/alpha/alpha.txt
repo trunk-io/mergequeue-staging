@@ -22042,7 +22042,6 @@ asternal
 asternata
 asternia
 asterochiton
-asteroid
 asteroidal
 asteroidea
 asteroids
@@ -22092,6 +22091,7 @@ asthmogenic
 asthore
 asthorin
 astian
+asteroid
 angulateness
 astyanax
 astichous
