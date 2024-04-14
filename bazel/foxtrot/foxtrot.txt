@@ -775,7 +775,6 @@ feudalizable
 fanfare
 fanfares
 fellowlike
-flightiest
 fanfaronade
 footwear
 fanfaronading
@@ -8715,6 +8714,7 @@ forthtell
 forthteller
 flanging
 forthwith
+flightiest
 forty
 furcellaria
 fortier
