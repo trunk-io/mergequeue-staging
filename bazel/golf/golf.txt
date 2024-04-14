@@ -1361,7 +1361,6 @@ gardeviance
 gardevin
 gardevisure
 gardy
-gardyloo
 gardnap
 gardon
 gare
@@ -10429,6 +10428,7 @@ greenbacker
 gummosity
 gummous
 gump
+gardyloo
 gumpheon
 gumption
 gumptionless
