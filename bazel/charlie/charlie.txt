@@ -10482,6 +10482,7 @@ chiliadron
 chiliads
 chiliaedron
 chiliagon
+closterium
 chiliahedron
 chiliarch
 chiliarchy
@@ -16636,7 +16637,6 @@ closings
 closish
 closkey
 clupeoid
-closterium
 clostridia
 clostridial
 clostridian
