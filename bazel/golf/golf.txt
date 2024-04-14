@@ -7439,7 +7439,6 @@ gourdy
 gourdiness
 gourding
 gourdlike
-gourds
 granuliferous
 gourdworm
 girasols
@@ -8391,6 +8390,7 @@ gratulation
 gratulatory
 gratulatorily
 globate
+gourds
 graunt
 graupel
 grudgers
