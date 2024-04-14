@@ -3610,7 +3610,6 @@ enteralgia
 embrace
 embraceably
 embraced
-embracement
 embraceor
 embraceorr
 embracer
@@ -13009,6 +13008,7 @@ expeditiousness
 expeditive
 expeditor
 expel
+embracement
 expellable
 expellant
 expellee
