@@ -2450,7 +2450,6 @@ gunfight
 gelinotte
 gonopod
 gell
-gutturalisation
 gellants
 gonoblastidium
 gellert
@@ -6331,6 +6330,7 @@ gnome
 gnomed
 gnomes
 gnomesque
+gutturalisation
 gnomic
 gnomical
 gnomide
