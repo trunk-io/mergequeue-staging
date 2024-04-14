@@ -1121,7 +1121,6 @@ exopt
 edifiers
 edifies
 edifying
-edifyingly
 edifyingness
 exigence
 edile
@@ -11012,6 +11011,7 @@ euphemistical
 euphemistically
 euphemization
 euphemize
+edifyingly
 earcap
 euphemized
 euphemizer
