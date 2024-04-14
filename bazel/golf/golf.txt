@@ -3294,7 +3294,6 @@ geotonus
 geordie
 geotropy
 geotropic
-geotropically
 geotropism
 gepeoo
 gephyrea
@@ -6209,6 +6208,7 @@ glutting
 gluttingly
 glutton
 gluttoness
+geotropically
 gluttony
 gluttonies
 gluttonise

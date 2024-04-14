@@ -6441,6 +6441,7 @@ enskies
 enskying
 enslave
 enslaved
+explodes
 emulate
 enslavedness
 enslavements
@@ -13211,7 +13212,6 @@ explode
 exploded
 explodent
 exploders
-explodes
 exploit
 exploitable
 exploitage
