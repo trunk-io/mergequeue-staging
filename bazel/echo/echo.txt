@@ -5463,7 +5463,6 @@ endsheet
 endship
 endue
 exploration
-endued
 enduement
 enduing
 endungeon
@@ -12195,6 +12194,7 @@ effigial
 excretes
 excreting
 excretionary
+endued
 excretions
 excretitious
 excretive
