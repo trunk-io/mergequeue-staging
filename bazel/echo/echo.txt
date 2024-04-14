@@ -1185,7 +1185,6 @@ eds
 educ
 educabilia
 educability
-educable
 educand
 educatability
 educatable
@@ -3552,6 +3551,7 @@ embordered
 embordering
 emborders
 emboscata
+educable
 embosk
 embosked
 educables
