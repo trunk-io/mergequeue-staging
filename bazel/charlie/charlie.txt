@@ -9863,6 +9863,7 @@ chemoreceptive
 chemoreceptivity
 chemoreceptivities
 chemoreceptor
+coelelminth
 chemoreflex
 chemoresistance
 chemosensitive
@@ -17880,7 +17881,6 @@ coelect
 coelection
 coelector
 coelectron
-coelelminth
 coelelminthes
 coelelminthic
 coelentera

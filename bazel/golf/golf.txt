@@ -3019,7 +3019,6 @@ goal
 geocline
 geococcyx
 geocoronium
-geocratic
 geraniols
 grummest
 geocronite
@@ -4477,6 +4476,7 @@ gingivalgia
 gingivectomy
 gingivitis
 gingivoglossitis
+geocratic
 gingivolabial
 gingko
 gingkoes
