@@ -5125,7 +5125,6 @@ dullest
 denials
 denicotine
 denicotinize
-denicotinized
 denicotinizes
 denicotinizing
 denied
@@ -10843,6 +10842,7 @@ dirigo
 dirigomotor
 dirity
 dirked
+denicotinized
 dirks
 dirl
 dirled
