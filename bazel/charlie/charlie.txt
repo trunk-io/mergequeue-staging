@@ -5793,7 +5793,6 @@ catharize
 catharized
 catharizing
 catharpin
-catharping
 cathars
 catharses
 catharsis
@@ -24193,6 +24192,7 @@ convolvulaceae
 convolvulaceous
 convolvulad
 convolvuli
+catharping
 convolvulic
 convolvulin
 convolvulinic
