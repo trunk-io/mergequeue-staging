@@ -1949,7 +1949,6 @@ gatewaymen
 gateways
 gateward
 gatewards
-guariba
 gatewise
 gatewoman
 gateworks
@@ -5013,6 +5012,7 @@ gyrostatics
 glaciologists
 ganisters
 glaciomarine
+guariba
 glaciometer
 glacionatant
 glacious
