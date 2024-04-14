@@ -5780,7 +5780,6 @@ flytraps
 flits
 flitted
 flitter
-flitterbat
 flittered
 flittering
 flittermice
@@ -6850,6 +6849,7 @@ foys
 foysen
 foism
 foison
+flitterbat
 foisonless
 foisons
 foist
