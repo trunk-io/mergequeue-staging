@@ -3418,7 +3418,6 @@ germanomania
 germanomaniac
 germanophile
 germanophilist
-germanophobia
 germanophobic
 germanophobist
 grids
@@ -9002,6 +9001,7 @@ grimacier
 glasser
 grimacing
 grimacingly
+germanophobia
 grimalkin
 grime
 grimed

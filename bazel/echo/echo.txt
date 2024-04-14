@@ -2313,7 +2313,6 @@ electroanesthesia
 electroballistically
 electroballistician
 electroballistics
-electrobath
 electrobiological
 electrobiologically
 electrobiologist
@@ -3217,6 +3216,7 @@ elute
 eluted
 eluting
 elution
+electrobath
 elutions
 elutor
 epirotulian
