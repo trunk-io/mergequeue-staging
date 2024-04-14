@@ -5427,7 +5427,6 @@ denunciate
 denunciated
 denunciating
 denunciation
-denunciations
 dundreary
 denunciative
 denunciatively
@@ -13314,6 +13313,7 @@ disquisition
 disquisitional
 disquisitionary
 disquisitions
+denunciations
 disquisitive
 disquisitively
 disquisitor
