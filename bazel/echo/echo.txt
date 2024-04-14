@@ -4319,7 +4319,6 @@ emulatress
 electrotonus
 emule
 embouchures
-emulgence
 emulgent
 emulous
 emulously
@@ -8630,6 +8629,7 @@ equiconvex
 equicostate
 equicrural
 equicurve
+emulgence
 equid
 equidiagonal
 equidifferent
