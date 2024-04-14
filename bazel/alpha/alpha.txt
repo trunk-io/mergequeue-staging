@@ -6898,7 +6898,6 @@ airfoils
 airframe
 airframes
 airfreight
-airfreighter
 airglow
 airglows
 acondylous
@@ -17835,6 +17834,7 @@ applyment
 appling
 applique
 appliqued
+airfreighter
 appliqueing
 appliques
 allianced
