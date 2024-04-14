@@ -1364,7 +1364,6 @@ calyptras
 calyptrata
 calyptratae
 calyptrate
-calyptriform
 calyptrimorphous
 calyptro
 calyptrogyne
@@ -23179,6 +23178,7 @@ consuetude
 consuetudinal
 consuetudinary
 consul
+calyptriform
 consulage
 consulary
 consularity
