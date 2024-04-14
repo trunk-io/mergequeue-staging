@@ -4400,6 +4400,7 @@ becaps
 becard
 becarpet
 bigamist
+bullboat
 becarpeted
 becarpeting
 becarpets
@@ -17069,7 +17070,6 @@ bullbats
 bullbeggar
 bullberry
 bullbird
-bullboat
 bullcart
 bullcomber
 bulldog
