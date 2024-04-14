@@ -5317,6 +5317,7 @@ affere
 afferent
 affettuoso
 affettuosos
+arche
 affy
 affiance
 affianced
@@ -18795,7 +18796,6 @@ archduke
 archdukedom
 archdukes
 archduxe
-arche
 archeal
 archean
 archearl

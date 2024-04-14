@@ -7432,7 +7432,6 @@ epauleted
 epaulets
 epaulette
 epauletted
-epauliere
 epaxial
 epaxially
 epedaphic
@@ -13362,6 +13361,7 @@ expressiveness
 expressivism
 expressivity
 expressless
+epauliere
 expressly
 expressmen
 expressness
