@@ -4659,7 +4659,6 @@ adverts
 advice
 adviceful
 advices
-advisability
 advisable
 advisableness
 advisably
@@ -11777,6 +11776,7 @@ analogic
 analogical
 analogically
 analogicalness
+advisability
 analogice
 analogies
 analogion
