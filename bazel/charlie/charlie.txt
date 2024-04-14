@@ -11968,7 +11968,6 @@ chorioretinal
 chorioretinitis
 choryos
 choripetalae
-choripetalous
 choriphyllous
 chorisepalous
 chorisis
@@ -13643,6 +13642,7 @@ cimbrian
 cimbric
 cimcumvention
 cyme
+choripetalous
 cymelet
 cimelia
 cimeliarch
