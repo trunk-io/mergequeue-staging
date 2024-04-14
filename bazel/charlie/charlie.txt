@@ -7486,6 +7486,7 @@ cercopidae
 cercopithecid
 cercopithecidae
 cercopithecoid
+crannoger
 cercopithecus
 cimbri
 cercopod
@@ -28186,7 +28187,6 @@ crannying
 compiler
 crannock
 crannoge
-crannoger
 crannogs
 cranreuch
 cransier

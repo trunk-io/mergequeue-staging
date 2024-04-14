@@ -3255,7 +3255,6 @@ fistularioid
 fictive
 fictively
 ficula
-ficus
 fid
 fidac
 fidalgo
@@ -10608,6 +10607,7 @@ frt
 frubbish
 folkish
 fruchtschiefer
+ficus
 fructescence
 fructescent
 fructiculose
