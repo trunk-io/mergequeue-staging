@@ -524,6 +524,7 @@ falerian
 fondon
 falern
 falernian
+fth
 falerno
 faliscan
 falisci
@@ -10784,7 +10785,6 @@ formular
 fs
 fstore
 ft
-fth
 fthm
 forwardation
 ftncmd
