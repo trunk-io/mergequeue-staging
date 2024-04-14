@@ -1944,7 +1944,6 @@ gates
 gatetender
 gateway
 gatewaying
-giarra
 gatewaymen
 gateways
 gateward
@@ -3140,6 +3139,7 @@ gasolineless
 geomantically
 geomechanics
 geomedical
+giarra
 geometer
 grainier
 geometers
