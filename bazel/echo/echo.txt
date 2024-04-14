@@ -273,7 +273,6 @@ eastwards
 eastermost
 eastern
 easterners
-easternism
 easternized
 easternizing
 easternly
@@ -10163,6 +10162,7 @@ etageres
 etalage
 etalon
 etamin
+easternism
 ever
 etamine
 etamines
