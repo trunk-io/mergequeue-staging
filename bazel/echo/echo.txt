@@ -3789,6 +3789,7 @@ emcees
 emceing
 emcumbering
 exhalate
+extents
 emda
 emden
 eme
@@ -13581,7 +13582,6 @@ extensors
 extensure
 extent
 extentions
-extents
 extenuate
 extenuated
 extenuates
