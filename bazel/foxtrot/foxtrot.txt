@@ -1430,6 +1430,7 @@ fatstocks
 fatted
 fatten
 fattenable
+foreby
 fattened
 forbearances
 fattener
@@ -4169,7 +4170,6 @@ firebote
 firebox
 frogflower
 fluavil
-foreby
 fireboxes
 firebrand
 firebrands
