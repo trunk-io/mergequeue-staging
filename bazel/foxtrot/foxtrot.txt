@@ -9241,7 +9241,6 @@ fractuosity
 fractur
 fracturable
 fractural
-fractured
 fractureproof
 fractures
 fracturing
@@ -11337,6 +11336,7 @@ furcal
 furcate
 furcated
 forepiece
+fractured
 furcates
 furcating
 furcation
