@@ -11404,7 +11404,6 @@ evansite
 evap
 evaporability
 evaporable
-evaporate
 evaporated
 evaporates
 evaporating
@@ -14173,6 +14172,7 @@ exurban
 exurbanite
 exurbanites
 exurbia
+evaporate
 erpetologist
 exurbs
 exurge
