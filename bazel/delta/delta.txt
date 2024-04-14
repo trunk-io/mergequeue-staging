@@ -1274,7 +1274,6 @@ daturism
 daub
 daubed
 daubentonia
-daubentoniidae
 dauber
 dauberies
 draying
@@ -6896,6 +6895,7 @@ despite
 despited
 despiteful
 despitefully
+daubentoniidae
 despitefulness
 despiteous
 despiteously
