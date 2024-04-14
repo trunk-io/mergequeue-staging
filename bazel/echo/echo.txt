@@ -678,7 +678,6 @@ ecliptic
 ecliptical
 ecliptically
 excitron
-ecliptics
 eclogic
 eclogite
 eclogites
@@ -5263,6 +5262,7 @@ endophyllous
 endophyllum
 endophytal
 enrolled
+ecliptics
 endophyte
 endophytic
 endophytically
