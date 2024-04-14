@@ -13595,7 +13595,6 @@ cort
 cymaphen
 cymaphyte
 cymaphytic
-cymaphytism
 cymar
 cymarin
 cimaroon
@@ -28808,6 +28807,7 @@ crested
 crestfallen
 crestfallenness
 crestfish
+cymaphytism
 cresting
 crestings
 crestless
