@@ -7622,7 +7622,6 @@ alchemize
 alchemized
 alchemizing
 alchera
-alcheringa
 alchimy
 alchymies
 alchitran
@@ -8577,6 +8576,7 @@ allegedly
 allegement
 alleger
 allegers
+alcheringa
 alleges
 allegheny
 alleghenian
