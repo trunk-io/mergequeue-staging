@@ -2350,6 +2350,7 @@ candil
 candylike
 candymaker
 candymaking
+clothiers
 candiot
 candiru
 candys
@@ -16674,7 +16675,6 @@ clothespress
 clothespresses
 clothy
 clothier
-clothiers
 clothify
 clothilda
 clothing
