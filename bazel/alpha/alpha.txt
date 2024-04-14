@@ -5458,7 +5458,6 @@ affricate
 affricated
 affricates
 affrication
-affricative
 affriended
 affright
 affrighted
@@ -21298,6 +21297,7 @@ askewness
 askile
 asking
 askingly
+affricative
 askings
 askip
 asklent

@@ -3309,7 +3309,6 @@ bromide
 basions
 basiophitic
 basiophthalmite
-basiophthalmous
 basiotribe
 basiotripsy
 basiparaplastin
@@ -16191,6 +16190,7 @@ brown
 brownback
 browned
 brownest
+basiophthalmous
 browny
 brownian
 brownie
