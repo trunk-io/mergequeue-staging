@@ -5285,7 +5285,6 @@ endopodite
 endopoditic
 endopods
 endoproct
-endoprocta
 endoproctous
 endopsychic
 endopterygota
@@ -13629,6 +13628,7 @@ externalisation
 externalise
 externalised
 externalising
+endoprocta
 externalism
 externalist
 externalistic
