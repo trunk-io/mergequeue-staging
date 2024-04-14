@@ -467,7 +467,6 @@ ecclesiastes
 ecclesiastic
 ecclesiastical
 ecclesiasticalism
-ecclesiastically
 ecclesiasticism
 ecclesiasticize
 ecclesiastics
@@ -7719,6 +7718,7 @@ epicrises
 epicrisis
 epicrystalline
 epicritic
+ecclesiastically
 engagingly
 epics
 epictetian
