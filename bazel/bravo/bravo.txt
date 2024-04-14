@@ -3109,7 +3109,6 @@ basanite
 basaree
 basat
 bascinet
-bascology
 basculation
 bascule
 bascules
@@ -11818,6 +11817,7 @@ boerdom
 boerhavia
 boethian
 boethusian
+bascology
 boettner
 boff
 boffin
