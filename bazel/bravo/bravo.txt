@@ -4105,7 +4105,6 @@ beamsman
 beamster
 beamwork
 bean
-beanbag
 beanbags
 beanball
 beanballs
@@ -12203,6 +12202,7 @@ bolted
 boltel
 bolter
 bolters
+beanbag
 bolthead
 boltheader
 bagge
