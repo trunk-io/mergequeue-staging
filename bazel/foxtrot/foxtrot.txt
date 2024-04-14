@@ -10318,7 +10318,6 @@ frogeyes
 frogfish
 frogfishes
 flubs
-frogfoot
 forboded
 frogger
 froggy
@@ -10829,6 +10828,7 @@ fuddle
 fuddlebrained
 feverfews
 fuddled
+frogfoot
 fuddlement
 fuddler
 fuddles
