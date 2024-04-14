@@ -1159,7 +1159,6 @@ dasypaedes
 dasypaedic
 dasypeltis
 dasyphyllous
-dasiphora
 dasypygal
 dasypod
 dasypodidae
@@ -17322,6 +17321,7 @@ dronte
 droob
 drooled
 drooly
+dasiphora
 droolier
 drooliest
 drooling
