@@ -1140,7 +1140,6 @@ ganglioneure
 goschens
 ganglioneuron
 ganglionic
-ganglionitis
 ganglionless
 ganglions
 ganglioplexus
@@ -7092,6 +7091,7 @@ goosegrass
 gooseherd
 goosehouse
 giottesque
+ganglionitis
 gercrow
 gooselike
 gooseliver
