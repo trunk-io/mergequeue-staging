@@ -1251,6 +1251,7 @@ biohazard
 bakula
 bakunda
 bakuninist
+batterable
 bakutu
 bakwiri
 bal
@@ -3742,7 +3743,6 @@ batteners
 battening
 battens
 batter
-batterable
 battercake
 batterdock
 battered
