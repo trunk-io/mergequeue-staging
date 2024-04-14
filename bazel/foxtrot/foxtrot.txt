@@ -700,7 +700,6 @@ famishes
 famishing
 famishment
 famose
-famous
 famously
 famousness
 famp
@@ -8343,6 +8342,7 @@ forkbeard
 forked
 forkedly
 forkedness
+famous
 forker
 forkers
 forkful
