@@ -19613,6 +19613,7 @@ comake
 comaker
 comaking
 comal
+constate
 comals
 comamie
 coman
@@ -23055,7 +23056,6 @@ constantness
 constat
 constatation
 constatations
-constate
 constatory
 constellate
 constellated
