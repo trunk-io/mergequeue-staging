@@ -2474,6 +2474,7 @@ barche
 barcolongo
 barcone
 barcoo
+bespeaks
 bard
 bardane
 bardash
@@ -7121,7 +7122,6 @@ biremes
 bushing
 bespeakable
 bespeaking
-bespeaks
 bespecked
 bespeckle
 bespeckled

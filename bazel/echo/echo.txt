@@ -6624,6 +6624,7 @@ enterobiasis
 enterobiliary
 enterocele
 enterocentesis
+etherizing
 enteroceptor
 enterochirurgia
 enterochlorophyll
@@ -10320,7 +10321,6 @@ etherize
 etherized
 etherizer
 etherizes
-etherizing
 etherlike
 ethernet
 etherol
