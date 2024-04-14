@@ -1570,6 +1570,7 @@ caloricity
 calorics
 caloriduct
 calorie
+connotate
 calories
 calorifacient
 calorify
@@ -22601,7 +22602,6 @@ connochaetes
 connoissance
 connoisseur
 connoisseurs
-connotate
 connotation
 connotational
 connotations
