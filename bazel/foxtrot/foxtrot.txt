@@ -1418,6 +1418,7 @@ fatlings
 furbishing
 fatness
 fatnesses
+fidate
 furcular
 fats
 fatshedera
@@ -3259,7 +3260,6 @@ ficus
 fid
 fidac
 fidalgo
-fidate
 functorial
 fidawi
 fidded
