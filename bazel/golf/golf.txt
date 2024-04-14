@@ -8411,6 +8411,7 @@ grave
 graveclod
 galenite
 gravecloth
+gunnysack
 graveclothes
 gravedigger
 gravediggers
@@ -10534,7 +10535,6 @@ gunny
 gunnies
 gunning
 gunnings
-gunnysack
 gluemaking
 gunocracy
 gunong
