@@ -4074,7 +4074,6 @@ bealtine
 beam
 beamage
 beambird
-beamer
 beamers
 beamfilling
 beamful
@@ -15504,6 +15503,7 @@ briscola
 brise
 battologist
 briseis
+beamer
 brisement
 brises
 brisk
