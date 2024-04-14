@@ -5875,7 +5875,6 @@ depredate
 depredated
 depredating
 depredation
-depredationist
 depredations
 depredator
 depredatory
@@ -6935,6 +6934,7 @@ despotes
 despotic
 downcut
 despotical
+depredationist
 despotically
 despoticalness
 despoticly
