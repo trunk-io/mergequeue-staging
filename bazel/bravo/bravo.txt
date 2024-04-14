@@ -6885,6 +6885,7 @@ besagne
 besague
 besaiel
 besaile
+bounded
 besayle
 besaint
 besan
@@ -13543,7 +13544,6 @@ boundable
 boundary
 bountith
 bannerline
-bounded
 boundedly
 boundedness
 bounden
