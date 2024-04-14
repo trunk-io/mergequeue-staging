@@ -2045,7 +2045,6 @@ gaums
 gaunch
 gaunt
 gaunted
-gaunter
 gauntest
 gaunty
 gauntlet
@@ -5656,6 +5655,7 @@ glist
 glisten
 groundedness
 glistened
+gaunter
 gonidia
 gorki
 glisteningly
