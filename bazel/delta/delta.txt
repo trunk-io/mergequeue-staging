@@ -6930,7 +6930,6 @@ dau
 desponsate
 desponsories
 despose
-despot
 despotat
 despotes
 despotic
@@ -8460,6 +8459,7 @@ diapalma
 diapase
 diapasm
 diapasonal
+despot
 diapasons
 diapause
 diapauses

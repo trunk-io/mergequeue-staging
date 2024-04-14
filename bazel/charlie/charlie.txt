@@ -10944,6 +10944,7 @@ chironomus
 chiropatagium
 chiroplasty
 chiropod
+countersignature
 chiropody
 chiropodial
 chiropodic
@@ -27112,7 +27113,6 @@ counterside
 countersiege
 countersign
 countersignal
-countersignature
 countersignatures
 countersigned
 countersigning
