@@ -1748,7 +1748,6 @@ eyedropperful
 eyeflap
 eyefuls
 eyeglance
-eyeglass
 eyeglasses
 etudes
 elegant
@@ -13179,6 +13178,7 @@ explementary
 explete
 expletive
 expletively
+eyeglass
 expletiveness
 expletives
 expletory
