@@ -8209,7 +8209,6 @@ forfairn
 forfalt
 fielding
 flintlocks
-forfare
 forfars
 forfault
 forfaulture
@@ -10861,6 +10860,7 @@ furtherances
 fulfillers
 fulfilling
 fulfillment
+forfare
 fulfillments
 fulfills
 fulfilment
