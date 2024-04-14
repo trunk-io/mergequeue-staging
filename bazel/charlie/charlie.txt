@@ -25451,7 +25451,6 @@ corolline
 corollitic
 coromandel
 coromell
-corometer
 corona
 coronach
 coronachs
@@ -30977,6 +30976,7 @@ cumulates
 cumulating
 cumulation
 cumulatist
+corometer
 cumulative
 cumulatively
 cumulativeness
