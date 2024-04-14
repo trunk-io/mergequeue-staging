@@ -669,7 +669,6 @@ bacteriocin
 bacteriocyte
 bacteriodiagnosis
 bacteriofluorescin
-bara
 bacteriogenic
 bacteriogenous
 bacteriohemolysin
@@ -5529,6 +5528,7 @@ bejan
 bejant
 bejape
 bejaundice
+bara
 bejel
 bejeled
 bejelled

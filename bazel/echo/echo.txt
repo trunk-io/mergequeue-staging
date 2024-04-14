@@ -4786,7 +4786,6 @@ eclipsis
 encloister
 enclosable
 enclose
-etymologize
 experimentalists
 enclosed
 encloser
@@ -6755,6 +6754,7 @@ entertains
 epilogs
 entertake
 entertissue
+etymologize
 entete
 entfaoilff
 enthalpy
