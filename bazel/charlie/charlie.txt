@@ -3015,7 +3015,6 @@ caphtor
 caphtorim
 cocorico
 capias
-capiases
 capiatur
 capibara
 capybara
@@ -18782,6 +18781,7 @@ colies
 coliform
 coliforms
 coliidae
+capiases
 coliiformes
 colilysin
 colima

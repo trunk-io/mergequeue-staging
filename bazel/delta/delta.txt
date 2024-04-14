@@ -5361,7 +5361,6 @@ dentinoblast
 dentinocemental
 dentinoma
 dentins
-dentiparous
 dentiphone
 dentiroster
 dentirostral
@@ -6105,6 +6104,7 @@ derestrict
 derf
 derfly
 derfness
+dentiparous
 derham
 deric
 deride
