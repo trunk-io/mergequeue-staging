@@ -19190,6 +19190,7 @@ collut
 collution
 collutory
 collutoria
+conservatorium
 collutories
 collutorium
 colluvia
@@ -22823,7 +22824,6 @@ conservator
 conservatory
 conservatorial
 conservatories
-conservatorium
 conservators
 conservatorship
 coordinator
