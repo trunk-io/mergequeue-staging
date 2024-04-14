@@ -6381,7 +6381,6 @@ benzamido
 benzamine
 benzaminic
 benzamino
-benzanalgen
 benzanilide
 benzanthracene
 benzanthrone
@@ -7353,6 +7352,7 @@ betaxed
 blandishes
 bete
 beteach
+benzanalgen
 braula
 betear
 beteela
