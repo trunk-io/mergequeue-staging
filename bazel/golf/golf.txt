@@ -3583,6 +3583,7 @@ gestates
 gestating
 gestation
 gestational
+gravelliness
 gestations
 gestative
 gestatory
@@ -8429,7 +8430,6 @@ graveling
 gravelish
 gravelled
 gravelly
-gravelliness
 gravelling
 gyroceras
 gravelous
