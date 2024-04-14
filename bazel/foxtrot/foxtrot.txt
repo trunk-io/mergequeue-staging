@@ -2956,7 +2956,6 @@ fevering
 feverish
 feverishness
 fixity
-feverless
 feverlike
 feverous
 feverously
@@ -8964,6 +8963,7 @@ foulmouthedly
 ferrihemoglobin
 foulmouthedness
 foulness
+feverless
 foulsome
 foumart
 foun
