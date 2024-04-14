@@ -3897,6 +3897,7 @@ dekaliters
 dekalitre
 dekameter
 dekameters
+diazin
 dekametre
 dekaparsec
 dekapode
@@ -8707,7 +8708,6 @@ diazeutic
 diazeuxis
 diazid
 diazide
-diazin
 diazines
 diazins
 diazo
