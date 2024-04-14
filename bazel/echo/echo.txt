@@ -7137,7 +7137,6 @@ enumerated
 enumerates
 earthfast
 enumerating
-enumeration
 enumerations
 enumerative
 enumerator
@@ -13251,6 +13250,7 @@ epithecate
 explosions
 explosive
 explosively
+enumeration
 explosiveness
 explosives
 expo

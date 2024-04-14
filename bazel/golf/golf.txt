@@ -2433,7 +2433,6 @@ gelder
 gelders
 geldesprung
 gaseosity
-gelding
 geldings
 gelds
 gelechia
@@ -6437,6 +6436,7 @@ gaum
 goatweed
 goave
 goaves
+gelding
 gob
 goback
 goban
