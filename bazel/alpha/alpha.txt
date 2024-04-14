@@ -10129,7 +10129,6 @@ ambuscaded
 ambuscader
 ambuscades
 ambuscading
-ambuscado
 ambuscadoed
 ambuscados
 ambushed
@@ -24456,6 +24455,7 @@ autotrepanation
 autotriploid
 autotriploidy
 autotroph
+ambuscado
 autotrophy
 autotrophic
 autotrophically

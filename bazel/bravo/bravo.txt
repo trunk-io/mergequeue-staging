@@ -6534,7 +6534,6 @@ bepart
 bepaste
 bepastured
 bepat
-bepatched
 bepaw
 bepearl
 bepelt
@@ -7885,6 +7884,7 @@ bibiri
 bibiru
 bibitory
 bibl
+bepatched
 bible
 bibles
 bibless
