@@ -3246,7 +3246,6 @@ georgie
 georgium
 geoscience
 geoscientist
-geoscientists
 geoscopy
 geoscopic
 geoselenic
@@ -6027,6 +6026,7 @@ girnel
 glowbard
 glowbird
 glowed
+geoscientists
 glower
 glowered
 glowerer
