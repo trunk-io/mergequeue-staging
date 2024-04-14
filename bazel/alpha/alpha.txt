@@ -6313,6 +6313,7 @@ agnosia
 agnosias
 agnosis
 agnostic
+antiexpressiveness
 agnostical
 agnostically
 agnosticism
@@ -15227,7 +15228,6 @@ antiexpressionist
 antiexpressionistic
 antiexpressive
 antiexpressively
-antiexpressiveness
 antiextreme
 antiface
 antifaction
