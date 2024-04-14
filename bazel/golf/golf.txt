@@ -5343,7 +5343,6 @@ growl
 gleave
 gleba
 glebae
-glebal
 glebe
 glebeless
 glebes
@@ -7827,6 +7826,7 @@ graminology
 graminological
 graminous
 grammalogue
+glebal
 grammarian
 grammarianism
 grammarians
