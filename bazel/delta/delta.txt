@@ -9380,6 +9380,7 @@ diffusible
 diffusibleness
 diffusibly
 dikamalli
+dacryocystalgia
 diffusimeter
 diffusing
 diffusiometer
@@ -13663,7 +13664,6 @@ dissolvableness
 dissolve
 darnings
 dissolveability
-dacryocystalgia
 dissolved
 dissolves
 dissolver
