@@ -7248,7 +7248,6 @@ footpaths
 footpick
 footplate
 footpound
-fogs
 footpounds
 flanderkin
 footprint
@@ -7342,6 +7341,7 @@ foramen
 filtrable
 foramens
 foramina
+fogs
 furiosa
 foraminal
 foraminate
