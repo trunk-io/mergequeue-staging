@@ -17161,6 +17161,7 @@ coalitionist
 coalitions
 coalize
 coalized
+corporealize
 coalizer
 coalizing
 coalless
@@ -25563,7 +25564,6 @@ corporeal
 corporealist
 corporeality
 corporealization
-corporealize
 corporeally
 corporealness
 corporeals
