@@ -9849,7 +9849,6 @@ dimercurion
 dimeric
 dimeride
 dimerism
-dimerisms
 dimerization
 dimerize
 dimerized
@@ -13470,6 +13469,7 @@ dissembler
 diagraphic
 dissemblers
 dissembles
+dimerisms
 dissembly
 dissemblies
 distally
