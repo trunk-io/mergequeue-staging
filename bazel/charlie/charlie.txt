@@ -27628,7 +27628,6 @@ cowherds
 calamints
 cowhide
 cowhided
-cowhides
 cowhiding
 cowhorn
 cowhouse
@@ -30589,6 +30588,7 @@ cucumaria
 cucumariidae
 cucumber
 cyathoid
+cowhides
 cucumbers
 cucumiform
 cucumis
