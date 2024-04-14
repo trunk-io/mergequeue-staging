@@ -7153,6 +7153,7 @@ detax
 detd
 detect
 detectability
+drooled
 daishiki
 detectable
 detectaphone
@@ -17322,7 +17323,6 @@ dronkelew
 dronkgrass
 dronte
 droob
-drooled
 drooly
 droolier
 drooliest
