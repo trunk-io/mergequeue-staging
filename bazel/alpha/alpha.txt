@@ -4310,7 +4310,6 @@ adoration
 adoratory
 adore
 adored
-assizement
 adorer
 adorers
 adores
@@ -22668,6 +22667,7 @@ atmas
 atmiatry
 atmiatrics
 atmid
+assizement
 atmidalbumin
 atmidometer
 atmidometry
