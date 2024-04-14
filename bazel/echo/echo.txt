@@ -1152,7 +1152,6 @@ editorialized
 endomitotic
 eidology
 editorializer
-editorializers
 editorializes
 editorially
 editors
@@ -7184,6 +7183,7 @@ envelopments
 entailing
 envelops
 envenom
+editorializers
 envenomation
 envenomed
 envenoming
