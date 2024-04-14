@@ -7544,7 +7544,6 @@ ephesine
 ephestia
 ephestian
 ephetae
-ephetic
 ephialtes
 ephydra
 ephydridae
@@ -12677,6 +12676,7 @@ exocrine
 endokaryogamy
 exasperating
 exocrines
+ephetic
 ellagitannin
 exocrinology
 exocrinologies
