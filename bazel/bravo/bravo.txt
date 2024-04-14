@@ -4094,6 +4094,7 @@ beaming
 beamingly
 beamish
 beamishly
+bulletining
 beamless
 beamlet
 beamman
@@ -17107,7 +17108,6 @@ bullety
 bulletin
 bulletined
 bulleting
-bulletining
 bulletins
 bulletless
 bulletlike

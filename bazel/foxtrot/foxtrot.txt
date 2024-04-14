@@ -3306,7 +3306,6 @@ fideicommissaries
 fideicommission
 fideicommissioner
 fideicommissor
-fideicommissum
 fideicommissumissa
 fideism
 fideisms
@@ -5610,6 +5609,7 @@ flightful
 flighthead
 flighty
 flightier
+fideicommissum
 flightily
 flightiness
 flightless
