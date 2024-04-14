@@ -4840,6 +4840,7 @@ flails
 flain
 forearm
 fasher
+fullterm
 flairs
 firnification
 flays
@@ -10946,7 +10947,6 @@ foilable
 fullonian
 fulls
 friskest
-fullterm
 fulltime
 foothook
 fullwords
