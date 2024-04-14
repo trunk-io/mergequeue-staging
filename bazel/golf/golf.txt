@@ -245,6 +245,7 @@ gainage
 gainbirth
 gaincall
 gaincome
+gigmanity
 gaine
 generating
 gainer
@@ -4067,7 +4068,6 @@ gigmania
 gigmanic
 gigmanically
 gigmanism
-gigmanity
 gignate
 gignitive
 gastraeal

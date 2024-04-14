@@ -2607,7 +2607,6 @@ decolorized
 decolorizer
 decolorizing
 decolors
-decolour
 decolouration
 decolouring
 decolourisation
@@ -12370,6 +12369,7 @@ disilicide
 disyllabic
 disyllabism
 disyllabize
+decolour
 disyllabized
 decarch
 disillude
