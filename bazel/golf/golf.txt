@@ -5245,6 +5245,7 @@ glassteel
 gitaligenin
 glassware
 gnathic
+gloat
 glasswork
 guider
 glassworker
@@ -5678,7 +5679,6 @@ gloam
 gloaming
 gloamings
 gloams
-gloat
 gypsumed
 gloated
 gloater
