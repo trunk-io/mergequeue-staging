@@ -7020,7 +7020,6 @@ follow
 followable
 followed
 follower
-followers
 followeth
 followingly
 followings
@@ -8577,6 +8576,7 @@ formwork
 fornacic
 fornax
 fornaxid
+followers
 forncast
 fornenst
 fornent
