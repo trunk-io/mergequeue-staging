@@ -193,7 +193,6 @@ earthquave
 earthrise
 earthset
 electroplated
-earthsets
 earthshaker
 earthshaking
 earthshakingly
@@ -10385,6 +10384,7 @@ ethylic
 ethylidene
 ethylidyne
 ethylin
+earthsets
 ethylmorphine
 ethyls
 ethylsulphuric
