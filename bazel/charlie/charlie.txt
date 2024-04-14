@@ -18367,7 +18367,6 @@ cohabited
 cohabiter
 collational
 cohabiting
-cohabits
 cohanim
 cohanims
 coharmonious
@@ -22196,6 +22195,7 @@ congeon
 conger
 congeree
 congery
+cohabits
 congerie
 congeries
 coloratura
