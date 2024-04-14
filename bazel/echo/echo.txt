@@ -961,7 +961,6 @@ ecttypal
 ecu
 ecuador
 ecuadoran
-ecuadorian
 ecuelle
 ecuelling
 ecumenacy
@@ -6101,6 +6100,7 @@ estated
 enmew
 enmity
 enmities
+ecuadorian
 enmove
 enmuffle
 enneacontahedral
