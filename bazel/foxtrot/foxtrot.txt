@@ -7791,7 +7791,6 @@ foreknows
 forel
 forelady
 foreladies
-forelay
 forelaying
 foreland
 forelands
@@ -10631,6 +10630,7 @@ fructoses
 fructoside
 fructuary
 fructuarius
+forelay
 floralia
 fructuate
 fructuose
