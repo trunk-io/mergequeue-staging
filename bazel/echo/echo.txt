@@ -3960,7 +3960,6 @@ emissaryship
 emissarium
 emissi
 emissile
-eudialyte
 emission
 emissions
 epitheliliums
@@ -12264,6 +12263,7 @@ excuse
 excused
 excuseful
 excusefully
+eudialyte
 excuseless
 excuser
 excusers
