@@ -5107,7 +5107,6 @@ glairs
 glaister
 glaistig
 glaived
-glaives
 glaked
 glaky
 geochemistry
@@ -8845,6 +8844,7 @@ grenadines
 grenat
 grenatite
 gleeted
+glaives
 grene
 gloriosa
 grenelle
