@@ -19665,6 +19665,7 @@ comber
 combers
 combes
 combfish
+coastways
 combfishes
 combflower
 comby
@@ -30281,7 +30282,6 @@ crusaders
 crusades
 crusading
 crusado
-coastways
 crusadoes
 crusados
 crusca
