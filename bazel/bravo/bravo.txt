@@ -2148,7 +2148,6 @@ banksia
 basilissa
 banksian
 banksias
-bankside
 banksides
 banksman
 banksmen
@@ -5120,6 +5119,7 @@ beflannel
 beflap
 beflatter
 beflea
+bankside
 befleaing
 befleas
 befleck

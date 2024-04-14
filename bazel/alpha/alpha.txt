@@ -12002,7 +12002,6 @@ anastatic
 anastatus
 anastigmat
 anastigmatic
-anastomos
 anastomose
 aspis
 anastomoses
@@ -23503,6 +23502,7 @@ aureoled
 aureoles
 acylate
 aureolin
+anastomos
 aureoline
 aureoling
 aureomycin
