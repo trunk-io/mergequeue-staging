@@ -5510,7 +5510,6 @@ glycolipid
 glycolipin
 glycolipine
 glycolysis
-glycolytic
 glycolytically
 glycollate
 guigne
@@ -6707,6 +6706,7 @@ goliaths
 golilla
 goldfield
 goll
+glycolytic
 glaikitness
 golland
 gollar
