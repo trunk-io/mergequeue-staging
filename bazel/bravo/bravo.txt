@@ -7262,6 +7262,7 @@ bestower
 bestowing
 bestowment
 bestows
+bedusk
 bestraddle
 bestraddled
 bestraddling
@@ -13000,7 +13001,6 @@ borel
 borele
 betrample
 borers
-bedusk
 bores
 belfry
 boresight

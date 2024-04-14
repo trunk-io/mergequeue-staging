@@ -24911,6 +24911,7 @@ corbleu
 corblimey
 corblimy
 corbovinum
+cryptoporticus
 corbula
 corcass
 corchat
@@ -29334,7 +29335,6 @@ cryptopyic
 cryptopin
 cryptopine
 cryptopyrrole
-cryptoporticus
 cryptoprocta
 cryptoproselyte
 cryptoproselytism
