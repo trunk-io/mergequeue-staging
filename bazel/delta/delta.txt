@@ -2335,7 +2335,6 @@ deciatine
 decibar
 decibels
 deciceronize
-decidability
 decidedly
 decidement
 decidence
@@ -16932,6 +16931,7 @@ dreegh
 dreeing
 dreep
 dreepy
+decidability
 dhauri
 dreepiness
 drees

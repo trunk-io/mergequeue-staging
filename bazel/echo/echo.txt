@@ -699,7 +699,6 @@ ecodeme
 ecoid
 ecol
 ecole
-ecoles
 ecology
 ecologic
 ecological
@@ -8062,6 +8061,7 @@ epiphany
 epiphanic
 epiphanies
 epiphanise
+ecoles
 epiphanised
 epiphanising
 epiphanized
