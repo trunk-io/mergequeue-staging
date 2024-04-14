@@ -2126,6 +2126,7 @@ fellifluous
 felling
 fellingbird
 fellmonger
+forsung
 fellmongered
 fellmongery
 fellmongering
@@ -8668,7 +8669,6 @@ forstand
 forsteal
 feverishly
 forsterite
-forsung
 forswat
 forswear
 forswearer
