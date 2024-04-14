@@ -12225,7 +12225,6 @@ ancille
 ancyloceras
 ancylocladus
 apathist
-ancylodactyla
 ancylopod
 ancylopoda
 ancylose
@@ -25339,6 +25338,7 @@ azotetrazole
 azoth
 azothionium
 azoths
+ancylodactyla
 azotic
 azotin
 azotine
