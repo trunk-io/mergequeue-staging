@@ -10017,6 +10017,7 @@ esthesiology
 esthesiometer
 esthesiometry
 esthesiometric
+exospherical
 esthesioneurosis
 esthesiophysiology
 esthesis
@@ -12837,7 +12838,6 @@ exosperm
 exosphere
 exospheres
 exospheric
-exospherical
 exosporal
 exospore
 exosporium
