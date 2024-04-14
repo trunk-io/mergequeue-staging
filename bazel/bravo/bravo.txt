@@ -10417,7 +10417,6 @@ blastocoelic
 blastocolla
 blastoderm
 blastodermatic
-blastodermic
 balcone
 blastodisc
 blastodisk
@@ -17391,6 +17390,7 @@ bundocks
 bundook
 bunds
 bundt
+blastodermic
 bundts
 bundu
 bundweed
