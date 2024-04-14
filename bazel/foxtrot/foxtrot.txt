@@ -4326,7 +4326,6 @@ firstborn
 firstcomer
 forbearer
 firster
-firstfruits
 furmety
 firsthand
 firstly
@@ -5237,6 +5236,7 @@ flavo
 flavone
 flavonoid
 flavonol
+firstfruits
 flavonols
 frailest
 flavoprotein
