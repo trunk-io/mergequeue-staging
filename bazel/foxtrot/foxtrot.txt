@@ -4560,7 +4560,6 @@ fairylike
 fitches
 fitchet
 fitchets
-fruitgrowing
 fitchew
 fitchews
 fieldwards
@@ -7125,6 +7124,7 @@ fooldom
 fooler
 foolery
 fooleries
+fruitgrowing
 foolfish
 foolfishes
 foolhardy

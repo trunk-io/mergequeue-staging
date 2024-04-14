@@ -5049,6 +5049,7 @@ aerometry
 aerometric
 aeromotor
 aeron
+awork
 aeronat
 aeronaut
 aeronautic
@@ -25039,7 +25040,6 @@ awoken
 awol
 awols
 awonder
-awork
 aworry
 aworth
 awreak
