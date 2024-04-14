@@ -6590,7 +6590,6 @@ golandause
 golaseccan
 golconda
 golcondas
-goldang
 goldanged
 goldarn
 goldarned
@@ -9602,6 +9601,7 @@ grubbing
 goetical
 grubble
 grubhood
+goldang
 grubless
 grubroot
 grubs
