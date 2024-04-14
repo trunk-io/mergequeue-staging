@@ -8112,6 +8112,7 @@ diacritically
 diacritics
 diacromyodi
 diacromyodian
+dolmas
 diact
 diactin
 diactinal
@@ -15207,7 +15208,6 @@ dolls
 dollship
 dolman
 dolmans
-dolmas
 dolmen
 dolmenic
 dolmens
