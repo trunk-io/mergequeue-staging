@@ -1066,7 +1066,6 @@ farmland
 farmlands
 farmost
 farmout
-fisc
 farmplace
 farms
 farmscape
@@ -8140,6 +8139,7 @@ foretokening
 foretokens
 fretless
 foretold
+fisc
 foretooth
 flinches
 foretop
