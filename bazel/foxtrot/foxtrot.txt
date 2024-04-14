@@ -3983,7 +3983,6 @@ forehill
 fingerer
 fingerers
 fingerfish
-fingerhold
 fingerhook
 fingering
 fingerings
@@ -4452,6 +4451,7 @@ fissilingual
 fissilinguia
 fissility
 fission
+fingerhold
 flunkydom
 fissionable
 fissioned
