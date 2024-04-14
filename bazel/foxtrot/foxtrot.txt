@@ -643,6 +643,7 @@ falutin
 falx
 fam
 fama
+fuchsite
 famacide
 famatinite
 famble
@@ -10815,7 +10816,6 @@ fuchsines
 fuchsinophil
 fuchsinophilous
 fuchsins
-fuchsite
 fuchsone
 fuci
 fucinita

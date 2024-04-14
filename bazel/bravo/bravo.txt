@@ -9866,7 +9866,6 @@ bittering
 bitterish
 bitterishness
 bitterless
-bitterly
 bitterling
 bittern
 bitterness
@@ -11793,6 +11792,7 @@ bodle
 bodo
 bodock
 bodoni
+bitterly
 bodonid
 bewrite
 bodrag
