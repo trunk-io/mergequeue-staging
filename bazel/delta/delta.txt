@@ -2070,6 +2070,7 @@ decapitate
 decapitated
 decapitates
 decapitation
+doctorfishes
 decapitations
 decapitator
 decapoda
@@ -14699,7 +14700,6 @@ doctorates
 doctorbird
 doctored
 doctoress
-doctorfishes
 doctorhood
 doctorial
 doctorially
