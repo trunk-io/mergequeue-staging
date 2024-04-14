@@ -1904,6 +1904,7 @@ eyn
 eyne
 einkanter
 einkorn
+equiponderance
 einsteinian
 einsteinium
 eyot
@@ -8739,7 +8740,6 @@ equipollent
 equipollently
 euphemizing
 equipollentness
-equiponderance
 equiponderancy
 equiponderant
 equiponderate
