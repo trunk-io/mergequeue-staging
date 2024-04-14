@@ -1262,7 +1262,6 @@ gapeseed
 gapeseeds
 gapeworm
 gapeworms
-gorgonized
 gapingly
 gapingstock
 gapless
@@ -5296,6 +5295,7 @@ gregorianizer
 glaucousness
 glaucus
 glauke
+gorgonized
 glaum
 glaumrie
 glaur
