@@ -117,6 +117,7 @@ gadhelic
 gadi
 gadid
 gadidae
+grunth
 gadinic
 gadis
 gaditan
@@ -9732,7 +9733,6 @@ grunt
 grunted
 grunter
 grunters
-grunth
 genip
 grunting
 gruntle
