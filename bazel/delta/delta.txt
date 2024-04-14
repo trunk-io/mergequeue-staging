@@ -10556,7 +10556,6 @@ diplogenetic
 diplogenic
 diploglossata
 diplograph
-diplography
 diplographic
 diplographical
 diplohedral
@@ -16189,6 +16188,7 @@ dowager
 daddock
 dowagerism
 dowagers
+diplography
 dowcote
 dowd
 dowdy
