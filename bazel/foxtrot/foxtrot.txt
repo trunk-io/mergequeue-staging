@@ -3198,7 +3198,6 @@ fyce
 ficelle
 fices
 fichat
-fiche
 fiches
 fichtean
 fichteanism
@@ -8516,6 +8515,7 @@ flicker
 formism
 formity
 formless
+fiche
 formlessness
 formly
 flutework
