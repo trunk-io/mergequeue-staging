@@ -2422,6 +2422,7 @@ gelation
 greaves
 gablewindowed
 gelations
+grandeval
 gelatose
 geld
 geldability
@@ -7922,7 +7923,6 @@ graywacke
 grandesque
 grandest
 grandeurs
-grandeval
 grandeza
 grandezza
 garnisheement
