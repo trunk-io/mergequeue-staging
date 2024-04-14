@@ -6908,7 +6908,6 @@ bescorching
 bescorn
 bescoundrel
 bescour
-bescoured
 bescourge
 bescouring
 bescours
@@ -10134,6 +10133,7 @@ blackies
 blackings
 blackish
 blackishly
+bescoured
 blackishness
 blackjack
 blackjacked
