@@ -8429,7 +8429,6 @@ epitonic
 epitonion
 epitonium
 epitrachelia
-epitrachelion
 epitria
 epitrichial
 epitrite
@@ -13416,6 +13415,7 @@ expunging
 earmarking
 expurgate
 expurgated
+epitrachelion
 expurgating
 expurgation
 expurgational

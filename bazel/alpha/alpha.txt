@@ -3648,6 +3648,7 @@ aden
 adenalgy
 adenanthera
 adenase
+anguidae
 adenasthenia
 adendric
 alod
@@ -12951,7 +12952,6 @@ angstrom
 angstroms
 angsts
 anguid
-anguidae
 anguiform
 anguillaria
 abey
