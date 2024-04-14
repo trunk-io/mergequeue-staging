@@ -4838,7 +4838,6 @@ gyrostatically
 gyrostats
 gastroplenic
 gyrotheca
-girouette
 girouettes
 girouettism
 gyrous
@@ -5000,6 +4999,7 @@ glacieret
 glacierist
 glaciers
 glacify
+girouette
 glacification
 glacioaqueous
 glaciolacustrine
