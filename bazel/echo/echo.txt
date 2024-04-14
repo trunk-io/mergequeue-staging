@@ -35,7 +35,6 @@ ean
 eaning
 eanling
 eriglossate
-ear
 earable
 earache
 earaches
@@ -2482,6 +2481,7 @@ electroluminescence
 elbowbush
 electromagnet
 electromagnetic
+ear
 esoterism
 entering
 electromagnetical
