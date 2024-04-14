@@ -4416,7 +4416,6 @@ fishlines
 fishling
 fishmeal
 fishmeals
-fishmonger
 fishnet
 fishnets
 fishplate
@@ -11540,6 +11539,7 @@ frabous
 fuscin
 fuscohyaline
 fuscous
+fishmonger
 fuse
 fuseau
 fuseboard
