@@ -16140,7 +16140,6 @@ climatologist
 climatologists
 climatometer
 climatotherapeutics
-climatotherapy
 climature
 climax
 climaxed
@@ -25245,6 +25244,7 @@ cornada
 cornage
 contrivance
 cornamute
+climatotherapy
 cornball
 cornballs
 cornbell

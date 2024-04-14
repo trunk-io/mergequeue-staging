@@ -1877,7 +1877,6 @@ debridement
 debriding
 debrief
 debriefed
-debriefing
 debriefings
 debris
 debrominate
@@ -8913,6 +8912,7 @@ dichroous
 dichroscope
 dichroscopic
 dicht
+debriefing
 dichter
 dicyandiamide
 deprisure
