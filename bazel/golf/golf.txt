@@ -1766,7 +1766,6 @@ gastrodermal
 gastrodermis
 gastrodialysis
 gastrodiaphanoscopy
-gastrodidymus
 gastrodynia
 gastrodisc
 gastrodisk
@@ -2395,6 +2394,7 @@ gelatiniferous
 gharial
 gerastian
 gelatinify
+gastrodidymus
 gelatiniform
 gelatinigerous
 gelatinisation
