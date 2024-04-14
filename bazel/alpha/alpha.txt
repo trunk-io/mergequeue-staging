@@ -1301,7 +1301,6 @@ acanthoid
 acantholimon
 acantholysis
 acanthology
-acanthological
 acanthoma
 acanthomas
 acanthon
@@ -19999,6 +19998,7 @@ armors
 armorwise
 armouchiquois
 armour
+acanthological
 armourbearer
 armoured
 armourer

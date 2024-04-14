@@ -1195,6 +1195,7 @@ educatedness
 educates
 educating
 education
+equidensity
 educationable
 educational
 educationalist
@@ -7754,7 +7755,6 @@ epidemiologic
 epidemiological
 epidemiologically
 epidemiologies
-equidensity
 epidemiologist
 epidendral
 epidendric
