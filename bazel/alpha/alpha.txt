@@ -2057,7 +2057,6 @@ acetylene
 acetylenediurein
 acetylenyl
 acetylenogen
-acetylfluoride
 acetylglycin
 acetylglycine
 acetylhydrazine
@@ -19377,6 +19376,7 @@ areolar
 areolas
 areolate
 areolated
+acetylfluoride
 areolation
 areole
 areoles

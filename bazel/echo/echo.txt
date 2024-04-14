@@ -1273,7 +1273,6 @@ eelshop
 eelskin
 eelware
 eelworm
-eelworms
 een
 eyepieces
 eequinoctium
@@ -13965,6 +13964,7 @@ extrasyllogistic
 extrasyphilitic
 extrasystole
 extrasocial
+eelworms
 ectophyte
 extrasolar
 extrasomatic
