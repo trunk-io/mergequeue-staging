@@ -2692,6 +2692,7 @@ decontaminators
 discerners
 decontrol
 dustoor
+deflagrations
 dvornik
 depasture
 decontrolled
@@ -3350,7 +3351,6 @@ deflagrated
 deflagrates
 deflagrating
 deflagration
-deflagrations
 deflagrator
 deflate
 deflated
