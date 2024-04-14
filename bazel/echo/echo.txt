@@ -5919,6 +5919,7 @@ enhelm
 enhemospore
 enherit
 enheritage
+erinaceus
 enheritance
 enhydra
 enhydrinae
@@ -9074,7 +9075,6 @@ erikite
 erymanthian
 erin
 erinaceidae
-erinaceus
 eryngium
 eringo
 eryngo
