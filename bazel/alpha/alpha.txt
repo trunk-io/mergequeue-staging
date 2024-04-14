@@ -9627,7 +9627,6 @@ alumnus
 alumohydrocalcite
 alumroot
 alumroots
-alundum
 aluniferous
 alunite
 alunites
@@ -19229,6 +19228,7 @@ arcticologist
 arctics
 arcticward
 arcticwards
+alundum
 arctiid
 arctiidae
 arctisca
