@@ -8989,7 +8989,6 @@ allovers
 allow
 allowable
 allowableness
-allowably
 allowance
 allowanced
 allowances
@@ -10413,6 +10412,7 @@ amidofluorid
 amidofluoride
 amidogen
 amidogens
+allowably
 amidoguaiacol
 abusing
 amidohexose
