@@ -1461,7 +1461,6 @@ garnishable
 garnished
 garnishee
 garnisheed
-garnishees
 garnisheing
 garnishes
 garnishment
@@ -8331,6 +8330,7 @@ gratefullest
 gratefully
 gratefulness
 groupie
+garnishees
 genealogically
 gratelike
 grateman
