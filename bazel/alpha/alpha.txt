@@ -1471,7 +1471,6 @@ acceptation
 acceptavit
 accepted
 acceptee
-acceptees
 accepter
 acceptilate
 acceptilated
@@ -11692,6 +11691,7 @@ analagous
 analav
 analcime
 analcimes
+acceptees
 adenophyllous
 analcimic
 analcimite
