@@ -3533,7 +3533,6 @@ defunctness
 defuse
 defused
 defuses
-defusing
 defusion
 defuze
 dims
@@ -15927,6 +15926,7 @@ doth
 dipterist
 dother
 detonator
+defusing
 dothideacea
 dothideaceous
 dothideales
