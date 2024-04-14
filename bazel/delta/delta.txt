@@ -1614,6 +1614,7 @@ daunter
 deallocates
 deallocating
 deallocation
+downshare
 deallocations
 deals
 dealt
@@ -16327,7 +16328,6 @@ downrightness
 downrush
 downrushing
 downset
-downshare
 downshift
 downshifted
 degradability
