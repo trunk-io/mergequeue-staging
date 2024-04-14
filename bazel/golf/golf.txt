@@ -2226,7 +2226,6 @@ griffithite
 geadephaga
 geadephagous
 geal
-geanticlinal
 geanticline
 gurish
 gravigrade
@@ -6713,6 +6712,7 @@ gollar
 goller
 golly
 gollywobbler
+geanticlinal
 golliwog
 gobbets
 gollop
