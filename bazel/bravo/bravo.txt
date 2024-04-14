@@ -2247,7 +2247,6 @@ baphometic
 bilboa
 bapistery
 bapt
-baptanodon
 baptise
 baptised
 baptises
@@ -7038,6 +7037,7 @@ besmearing
 besmears
 besmell
 besmile
+baptanodon
 besmiled
 besmiles
 besmiling
