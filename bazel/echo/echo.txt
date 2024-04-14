@@ -4353,7 +4353,6 @@ emusified
 emusifies
 emusifying
 emusive
-en
 enable
 expertising
 enabled
@@ -4905,6 +4904,7 @@ encrypted
 encrypting
 encryption
 encrypts
+en
 encrisp
 encroach
 encroached
