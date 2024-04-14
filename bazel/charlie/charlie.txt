@@ -9941,6 +9941,7 @@ cheniller
 chenilles
 chenopod
 chenopodiaceae
+crews
 chenopodiaceous
 chenopodiales
 chenopodium
@@ -28879,7 +28880,6 @@ crewman
 crewmanship
 crewmen
 crewneck
-crews
 crex
 cry
 cryable
