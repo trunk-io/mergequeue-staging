@@ -15974,7 +15974,6 @@ antiprogressive
 antiprohibition
 antiprophet
 antiprostate
-antiprostatic
 antiprotease
 antiproteolysis
 antiproton
@@ -21257,6 +21256,7 @@ analectic
 asyndetically
 asyndeton
 asyndetons
+antiprostatic
 asinego
 asinegoes
 asynergy
