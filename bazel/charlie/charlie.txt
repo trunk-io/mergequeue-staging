@@ -3540,7 +3540,6 @@ coachable
 carapidae
 carapine
 carapo
-carapus
 carara
 carassow
 carassows
@@ -12258,6 +12257,7 @@ christcross
 christdom
 christed
 christen
+carapus
 christendie
 christendom
 christened

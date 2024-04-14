@@ -5510,6 +5510,7 @@ flexanimous
 flexed
 flexes
 flexibilities
+fortuned
 flexibilty
 flexible
 flexibleness
@@ -8771,7 +8772,6 @@ fortunately
 fortunateness
 fortunation
 fortune
-fortuned
 fortunel
 fades
 formated
