@@ -10642,6 +10642,7 @@ eu
 euahlayi
 euangiotic
 euascomycetes
+exits
 euaster
 eubacteria
 eubacteriales
@@ -12632,7 +12633,6 @@ exitial
 exiting
 exition
 exitious
-exits
 exiture
 exitus
 exla
