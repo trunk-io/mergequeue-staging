@@ -6879,7 +6879,6 @@ cenogenesis
 cenogenetic
 cenogenetically
 cenogonous
-cenomanian
 cenosite
 cenospecies
 custodiam
@@ -13305,6 +13304,7 @@ cyclohexadienyl
 cyclohexane
 cyclohexanol
 cyclohexanone
+cenomanian
 cyclohexatriene
 cyclohexene
 cyclohexyl
