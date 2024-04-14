@@ -6507,6 +6507,7 @@ benzotoluide
 believableness
 benzotriazine
 benzotriazole
+bethorned
 benzotrichloride
 benzotrifluoride
 benzotrifuran
@@ -7382,7 +7383,6 @@ barquentine
 bethinks
 bethlehem
 bethorn
-bethorned
 burthenman
 bethorning
 bethorns
