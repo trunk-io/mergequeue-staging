@@ -2464,7 +2464,6 @@ declaimant
 declaimed
 declaimer
 declaimers
-declaiming
 declamando
 declamation
 disillusionize
@@ -8310,6 +8309,7 @@ dialyze
 dialyzed
 dialyzer
 dialyzes
+declaiming
 dialyzing
 dialkyl
 dialkylamine
