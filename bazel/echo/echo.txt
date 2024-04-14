@@ -11848,7 +11848,6 @@ emberiza
 exanthine
 exantlate
 exantlation
-exappendiculate
 exarate
 exaration
 exarch
@@ -14076,6 +14075,7 @@ emulge
 extendedness
 extrinsically
 extrinsicalness
+exappendiculate
 extrinsicate
 extrinsication
 extroitive
