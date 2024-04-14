@@ -3547,6 +3547,7 @@ emboltement
 embolum
 embolus
 emborder
+expeller
 embordered
 embordering
 emborders
@@ -13014,7 +13015,6 @@ expellant
 expellee
 expellees
 expellent
-expeller
 expellers
 efficacious
 expelling
