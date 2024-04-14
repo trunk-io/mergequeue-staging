@@ -1223,7 +1223,6 @@ calibogus
 colunar
 calibrate
 crosslap
-calibrated
 calibrater
 calibrates
 calibrating
@@ -27687,6 +27686,7 @@ cowpuncher
 cowpunchers
 cowquake
 cowry
+calibrated
 cowrie
 cowries
 cowroid
