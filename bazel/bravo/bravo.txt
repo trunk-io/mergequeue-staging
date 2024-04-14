@@ -9281,7 +9281,6 @@ bipectinated
 biped
 bipedal
 bipedality
-bipedism
 bipeds
 bipeltate
 blepharophthalmia
@@ -16020,6 +16019,7 @@ bacillophobia
 brontosaur
 brontosaurs
 brontosaurus
+bipedism
 brontosauruses
 brontoscopy
 brontothere
