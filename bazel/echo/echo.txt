@@ -9109,7 +9109,6 @@ eryopsid
 eriosoma
 epipodite
 ephemera
-eriphyle
 eris
 europhium
 erysimum
@@ -11803,6 +11802,7 @@ exameter
 examinability
 examinable
 examinant
+eriphyle
 examinate
 examination
 examinational
