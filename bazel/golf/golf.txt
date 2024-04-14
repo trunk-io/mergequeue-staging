@@ -5581,7 +5581,6 @@ glimmerings
 glimmerous
 glimmers
 glimpsed
-glimpser
 glimpsers
 glimpses
 glims
@@ -5966,6 +5965,7 @@ grinder
 glossoplasty
 glossoplegia
 glossopodium
+glimpser
 glossopteris
 glossoptosis
 glossorrhaphy
