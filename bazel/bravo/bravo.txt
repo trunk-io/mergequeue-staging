@@ -8517,7 +8517,6 @@ bilaterally
 bilateralness
 bilati
 bylaw
-bylawman
 bylaws
 bilberry
 bilberries
@@ -17271,6 +17270,7 @@ bumbler
 bumblers
 bumbles
 bumbling
+bylawman
 bumblingly
 bumblingness
 bumblings
