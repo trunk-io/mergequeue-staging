@@ -4483,7 +4483,6 @@ caroming
 caroms
 carone
 caronic
-caroome
 caroon
 carosella
 carosse
@@ -8887,6 +8886,7 @@ characterlessness
 characterology
 characterological
 characterologically
+caroome
 characterologist
 characters
 characterstring
