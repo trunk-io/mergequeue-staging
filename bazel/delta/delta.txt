@@ -482,7 +482,6 @@ daytime
 daytimes
 dayton
 daiva
-dayward
 daywork
 dayworker
 daywrit
@@ -9004,6 +9003,7 @@ dictatory
 dictatorial
 dictatorialism
 dictatorially
+dayward
 dictatorialness
 dictators
 dictatorship
