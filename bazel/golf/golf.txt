@@ -8242,7 +8242,6 @@ gryllotalpa
 gasproof
 grapple
 grappled
-grapplement
 grappler
 grapplers
 grapples
@@ -9153,6 +9152,7 @@ grisled
 gebur
 glaucomas
 grisliest
+grapplement
 grisliness
 grison
 grisons
