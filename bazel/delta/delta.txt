@@ -6068,7 +6068,6 @@ derecho
 dereference
 dereferenced
 dereferencing
-deregister
 deregulate
 deregulated
 deregulates
@@ -10858,6 +10857,7 @@ dirtfarmer
 dirty
 dirtied
 dirtier
+deregister
 dirtying
 dirtily
 dirtplate
