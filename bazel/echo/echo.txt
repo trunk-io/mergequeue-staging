@@ -3061,6 +3061,7 @@ epenla
 ellipses
 ellipsis
 ellipsograph
+escharoid
 ellipsoid
 ellipsoidal
 ellipsoids
@@ -9553,7 +9554,6 @@ elvish
 eschar
 eschara
 escharine
-escharoid
 escharotic
 eschars
 eschatocol
