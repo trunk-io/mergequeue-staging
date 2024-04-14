@@ -4991,7 +4991,6 @@ glaciaria
 glaciarium
 glaciate
 glaciated
-glaciates
 glaciating
 glaciation
 glacier
@@ -5259,6 +5258,7 @@ glathsheimr
 glauber
 glauberite
 glaucescent
+glaciates
 glaucidium
 grapnels
 glaucin
