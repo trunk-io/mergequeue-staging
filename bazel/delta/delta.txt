@@ -3897,7 +3897,6 @@ dekaliters
 dekalitre
 dekameter
 dekameters
-dekametre
 dekaparsec
 dekapode
 dekarch
@@ -10008,6 +10007,7 @@ dynamited
 dynamiters
 doghearted
 dynamites
+dekametre
 dynamitic
 dynamitical
 dynamitically

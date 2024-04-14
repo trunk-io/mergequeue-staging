@@ -4536,6 +4536,7 @@ carpellum
 carpels
 cytinaceous
 carpent
+cytokinin
 carpenter
 carpentered
 carpenteria
@@ -14892,7 +14893,6 @@ citoyenne
 citoyens
 cytokinesis
 cytokinetic
-cytokinin
 cytol
 citola
 citolas
