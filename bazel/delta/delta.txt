@@ -8989,7 +8989,6 @@ dictamen
 dictamina
 dictamnus
 dictaphone
-dictaphones
 dictate
 dictates
 dictating
@@ -9057,6 +9056,7 @@ didactical
 didacticality
 didactically
 didactician
+dictaphones
 didacticism
 didacticity
 didactyl
