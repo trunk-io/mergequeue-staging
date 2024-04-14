@@ -11156,6 +11156,7 @@ blotching
 blote
 blotless
 blotlessness
+breather
 blots
 blotted
 blotter
@@ -14895,7 +14896,6 @@ boaters
 breathe
 breatheableness
 breathed
-breather
 breathes
 breathful
 breathy
