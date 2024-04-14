@@ -6685,7 +6685,6 @@ bergander
 bergaptene
 bedevil
 bergere
-bergeret
 bergerette
 bergfall
 berggylt
@@ -13734,6 +13733,7 @@ bowelled
 bowelless
 bowellike
 bowelling
+bergeret
 bowels
 bowenite
 bower
