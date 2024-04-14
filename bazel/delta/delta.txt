@@ -3437,6 +3437,7 @@ defogs
 defoil
 dawish
 defoliage
+dishabituate
 defoliant
 dorsobranchiata
 defoliants
@@ -12243,7 +12244,6 @@ dishabilitation
 dishabille
 dishabit
 dishabited
-dishabituate
 dishabituated
 dishabituating
 dishable
