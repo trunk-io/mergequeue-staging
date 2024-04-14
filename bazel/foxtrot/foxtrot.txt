@@ -10380,7 +10380,6 @@ fromward
 fromwards
 frondage
 frondation
-fronde
 frondent
 foredoing
 frondesce
@@ -10787,6 +10786,7 @@ ft
 fth
 fthm
 forwardation
+fronde
 ftncmd
 ftnerr
 frenetic
