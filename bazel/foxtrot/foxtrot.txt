@@ -2607,7 +2607,6 @@ ferrohydrocyanic
 framesmith
 ferromagnesian
 ferromagnet
-ferromagnetic
 ferromagneticism
 ferromagnetism
 ferromanganese
@@ -5904,6 +5903,7 @@ flog
 floggable
 flogged
 flogger
+ferromagnetic
 floggers
 flogging
 facilely

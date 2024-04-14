@@ -8881,7 +8881,6 @@ allopalladium
 allopath
 allopathetic
 allopathetically
-allopathy
 allopathic
 allopathically
 allopathies
@@ -12407,6 +12406,7 @@ andrographolide
 android
 androidal
 androides
+allopathy
 androids
 androkinin
 androl
