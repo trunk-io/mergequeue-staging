@@ -2568,7 +2568,6 @@ ferries
 ferriferous
 ferrihydrocyanic
 ferryhouse
-ferrying
 ferrimagnet
 ferrimagnetic
 ferrimagnetically
@@ -6946,6 +6945,7 @@ foliose
 foliosity
 flowmanostat
 foliot
+ferrying
 folious
 foliously
 foliums

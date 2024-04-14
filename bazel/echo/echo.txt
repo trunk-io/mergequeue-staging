@@ -7868,7 +7868,6 @@ epigone
 epimerise
 epigones
 epigoni
-epigonic
 egriot
 epigonichthys
 epigonism
@@ -11407,6 +11406,7 @@ evaporable
 evaporate
 evaporated
 evaporates
+epigonic
 evaporating
 evaporation
 evaporations
