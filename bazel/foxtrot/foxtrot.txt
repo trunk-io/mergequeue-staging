@@ -1056,7 +1056,6 @@ farmhouse
 farmhousey
 farmy
 farmyard
-fluffed
 farmyardy
 farmyards
 fivers
@@ -9827,6 +9826,7 @@ frenetical
 frenetically
 frenetics
 frenghi
+fluffed
 frenne
 frenula
 frenular
