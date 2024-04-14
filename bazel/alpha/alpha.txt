@@ -2431,6 +2431,7 @@ acidizing
 acidly
 acidness
 acidnesses
+appetiser
 acidogenic
 acidoid
 acidolysis
@@ -17746,7 +17747,6 @@ appetibility
 appetible
 appetibleness
 anthophore
-appetiser
 appetising
 appetit
 accumulates
