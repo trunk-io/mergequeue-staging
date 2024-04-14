@@ -4856,7 +4856,6 @@ encounterable
 encountered
 encounterer
 erector
-entitlement
 encounterers
 encountering
 encounters
@@ -13321,6 +13320,7 @@ expostulation
 expostulations
 expostulative
 expostulatively
+entitlement
 expostulator
 expostulatory
 erythroderma
