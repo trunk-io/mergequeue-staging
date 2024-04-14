@@ -689,6 +689,7 @@ bacteriologists
 bacteriopathology
 bacteriophage
 becalm
+bovinity
 bacteriophages
 bacteriophagy
 bacteriophagia
@@ -13694,7 +13695,6 @@ boviform
 bovine
 bovinely
 bovines
-bovinity
 bovinities
 bovista
 bovld

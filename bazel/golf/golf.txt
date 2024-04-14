@@ -2732,7 +2732,6 @@ genesiacal
 grazingly
 genesial
 genesic
-genesiology
 genesitic
 genet
 genethliacal
@@ -6809,6 +6808,7 @@ goneness
 gonenesses
 goneoclinic
 gonepoietic
+genesiology
 genapper
 goneril
 goners
