@@ -6451,7 +6451,6 @@ descender
 descenders
 descendibility
 descendible
-descending
 descendingly
 descends
 descension
@@ -18041,6 +18040,7 @@ duma
 dumaist
 dumas
 dumb
+descending
 dumba
 dumbbell
 dumbbeller
