@@ -15539,7 +15539,6 @@ clasped
 clasper
 claspers
 clasping
-clasps
 claspt
 class
 classable
@@ -28119,6 +28118,7 @@ craniometrical
 craniometrically
 craniometrist
 craniopagus
+clasps
 craniopathy
 craniopathic
 craniopharyngeal

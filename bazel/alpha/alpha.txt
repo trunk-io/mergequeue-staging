@@ -2094,7 +2094,6 @@ acetize
 acetla
 acetmethylanilide
 acetnaphthalide
-acetoacetanilide
 acetoacetate
 acetoacetic
 acetoamidophenol
@@ -22490,6 +22489,7 @@ athamantin
 athamaunte
 athanasy
 athanasia
+acetoacetanilide
 athanasian
 athanasianism
 athanasianist
