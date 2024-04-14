@@ -16097,7 +16097,6 @@ antirestoration
 antireticular
 antirevisionist
 antirevolution
-antirevolutionary
 antirevolutionaries
 antirevolutionist
 antirheumatic
@@ -20380,6 +20379,7 @@ arsenobenzene
 arsenobenzol
 arsenobismite
 arsenofuran
+antirevolutionary
 arsenohemol
 arsenolite
 arsenophagy
