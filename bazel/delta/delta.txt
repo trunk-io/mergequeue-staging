@@ -4777,7 +4777,6 @@ dingiest
 demodulations
 demodulator
 demogenic
-demographer
 demographers
 demography
 demographic
@@ -15781,6 +15780,7 @@ dorsalward
 dorsalwards
 dorse
 dorsel
+demographer
 dorser
 dorsers
 dorsi

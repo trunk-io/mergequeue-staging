@@ -6150,6 +6150,7 @@ flotilla
 fittest
 flotillas
 flibbertigibbets
+fusuma
 furnisher
 flotsam
 flotsams
@@ -11657,7 +11658,6 @@ fustoc
 fusula
 fusulae
 fusulas
-fusuma
 fusure
 fusus
 fut
