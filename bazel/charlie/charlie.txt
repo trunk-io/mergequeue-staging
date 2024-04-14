@@ -18866,7 +18866,6 @@ collapsing
 collar
 collarband
 collarbird
-collarbone
 collarbones
 collard
 collards
@@ -22872,6 +22871,7 @@ consigne
 consigned
 consignee
 consignees
+collarbone
 consigneeship
 consignify
 consignificant
