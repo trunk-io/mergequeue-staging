@@ -2941,7 +2941,6 @@ capacitativly
 capacitator
 capacity
 capacities
-capacitively
 capacitor
 capacitors
 capanna
@@ -10982,6 +10981,7 @@ chirps
 chirr
 chirre
 chirred
+capacitively
 chirring
 chirrs
 coscoroba

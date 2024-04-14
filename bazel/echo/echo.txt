@@ -4786,7 +4786,6 @@ eclipsis
 encloister
 enclosable
 enclose
-etymologize
 experimentalists
 enclosed
 encloser
@@ -7772,6 +7771,7 @@ epidermatoid
 epidermatous
 extracanonical
 effront
+etymologize
 epidermically
 epidermidalization
 epidermis
