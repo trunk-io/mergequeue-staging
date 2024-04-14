@@ -3585,6 +3585,7 @@ gestation
 gestational
 gestations
 gestative
+guardee
 gestatory
 gestatorial
 geste
@@ -10620,7 +10621,6 @@ gurgles
 gurglet
 gurglets
 gurgling
-guardee
 gurgoyl
 gurgoyle
 gurgulation

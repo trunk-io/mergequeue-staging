@@ -5748,7 +5748,6 @@ depolarizing
 depolymerization
 depolymerize
 depolymerized
-depolymerizing
 depolish
 dragomanate
 depolished
@@ -11229,6 +11228,7 @@ disburses
 disbursing
 disburthen
 disbutton
+depolymerizing
 dibromid
 disc
 discabinet
