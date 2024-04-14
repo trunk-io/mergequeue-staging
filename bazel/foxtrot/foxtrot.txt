@@ -2443,7 +2443,6 @@ fermatian
 ferme
 forespeed
 ferment
-fermentability
 furzechat
 fermentable
 fermental
@@ -7082,6 +7081,7 @@ franks
 fons
 feetfirst
 fontal
+fermentability
 fontanel
 frothing
 fontanelle
