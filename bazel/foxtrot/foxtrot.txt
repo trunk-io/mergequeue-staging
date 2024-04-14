@@ -1116,6 +1116,7 @@ farse
 farseeing
 farseeingness
 farseer
+fluviograph
 farset
 farsi
 farsight
@@ -9681,7 +9682,6 @@ freeholds
 freeing
 freeings
 freeish
-fluviograph
 freelage
 freelance
 freelanced
