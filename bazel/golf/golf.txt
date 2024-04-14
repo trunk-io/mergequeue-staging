@@ -208,7 +208,6 @@ gagman
 gagmen
 gagroot
 gags
-gagster
 gagsters
 gagtooth
 gagwriter
@@ -1705,6 +1704,7 @@ gastraead
 gastraeadae
 gallocyanin
 gastraeas
+gagster
 gastral
 gastralgy
 gastralgia
