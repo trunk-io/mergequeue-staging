@@ -9463,7 +9463,6 @@ digynian
 digynous
 digit
 digital
-digitalic
 digitaliform
 digitalin
 desiccates
@@ -15082,6 +15081,7 @@ dolabrate
 dolabriform
 dolcan
 dolcemente
+digitalic
 dolci
 dolcian
 dolciano
