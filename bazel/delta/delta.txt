@@ -4142,7 +4142,6 @@ delineation
 discretively
 dromedarist
 delineative
-delineator
 delineature
 delineavit
 delinition
@@ -6654,6 +6653,7 @@ designless
 designlessly
 designment
 desyl
+delineator
 desilicate
 desilicated
 desilicating
