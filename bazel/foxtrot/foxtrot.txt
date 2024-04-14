@@ -3431,7 +3431,6 @@ fierce
 fiercehearted
 fiercely
 fiercen
-fiercened
 fierceness
 flashlamps
 fiercer
@@ -8578,6 +8577,7 @@ fornacic
 fornax
 fornaxid
 forncast
+fiercened
 fornenst
 fornent
 fornical
