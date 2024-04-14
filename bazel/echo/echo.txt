@@ -7405,7 +7405,6 @@ epanaleptic
 escruage
 epanaphora
 epanastrophe
-epanisognathism
 epanisognathous
 epanody
 epanodos
@@ -8087,6 +8086,7 @@ epiphyseolysis
 epiphyses
 elemi
 epiphysial
+epanisognathism
 epiphysis
 epiphysitis
 epiphytal
