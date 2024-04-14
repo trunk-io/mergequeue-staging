@@ -2757,7 +2757,6 @@ acquitted
 acquitter
 acquitting
 acrab
-acracy
 acraein
 acraeinae
 acraldehyde
@@ -8242,6 +8241,7 @@ aliform
 alifs
 aligerous
 alight
+acracy
 alighted
 alighting
 alightment
