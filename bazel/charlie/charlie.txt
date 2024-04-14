@@ -5378,6 +5378,7 @@ cataclysmically
 cataclysmist
 cataclysms
 catacomb
+choosableness
 catacombic
 catacombs
 catacorner
@@ -11791,7 +11792,6 @@ choop
 choora
 choosable
 concausal
-choosableness
 cycloidal
 choose
 chooseable
