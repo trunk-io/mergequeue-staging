@@ -1746,7 +1746,6 @@ gastroatonia
 gastroatrophia
 gastroblennorrhea
 gastrocatarrhal
-gastrocele
 gastrocentrous
 gastrochaena
 gastrochaenidae
@@ -2864,6 +2863,7 @@ genoms
 genonema
 genophobia
 gph
+gastrocele
 genospecies
 genotype
 genotypes
