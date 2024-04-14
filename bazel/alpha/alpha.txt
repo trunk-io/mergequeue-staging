@@ -2109,6 +2109,7 @@ acetoin
 acetol
 acetolysis
 acetolytic
+archicleistogamy
 acetometer
 acetometry
 acetometric
@@ -18924,7 +18925,6 @@ archichlamydeae
 archichlamydeous
 archicyte
 archicytula
-archicleistogamy
 archicleistogamous
 antecedal
 archicoele
