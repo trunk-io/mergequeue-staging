@@ -12218,7 +12218,6 @@ ancients
 ancile
 ancilla
 ancillae
-ancillary
 ancillaries
 ancillas
 ancille
@@ -19778,6 +19777,7 @@ aristolochiaceae
 aristolochiaceous
 aristolochiales
 aristolochin
+ancillary
 aristolochine
 aristology
 aristological

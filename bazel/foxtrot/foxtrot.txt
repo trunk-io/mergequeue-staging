@@ -210,7 +210,6 @@ factotums
 fiorded
 factrix
 facts
-factual
 factualism
 factualistic
 factuality
@@ -11531,6 +11530,7 @@ forwaked
 fusariose
 fusariosis
 fusarium
+factual
 fusarole
 fusate
 fusc
