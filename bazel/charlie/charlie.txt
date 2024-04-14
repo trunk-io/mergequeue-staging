@@ -16682,7 +16682,6 @@ clottage
 clotted
 clottedness
 clotter
-clotty
 clotting
 cloture
 clotured
@@ -21727,6 +21726,7 @@ conducing
 conducingly
 conducive
 conduciveness
+clotty
 conduct
 conductance
 conducted
