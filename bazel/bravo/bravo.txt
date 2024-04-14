@@ -2179,7 +2179,6 @@ bannister
 bannisters
 bannition
 bannock
-bannockburn
 bannocks
 banns
 bannut
@@ -10872,6 +10871,7 @@ blintzes
 blip
 blype
 blypes
+bannockburn
 blipped
 blippers
 blipping
