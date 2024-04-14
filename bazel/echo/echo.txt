@@ -6102,6 +6102,7 @@ enmeshments
 estated
 enmew
 enmity
+exocoele
 enmities
 enmove
 enmuffle
@@ -12666,7 +12667,6 @@ exocytosis
 exoclinal
 exocline
 exocoelar
-exocoele
 exocoelic
 exocoelom
 exocoelum
