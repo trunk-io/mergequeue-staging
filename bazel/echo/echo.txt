@@ -11892,7 +11892,6 @@ exauthorizeexc
 excalate
 excalation
 excalcarate
-excalceate
 excalceation
 excalfaction
 excalibur
@@ -13901,6 +13900,7 @@ extraorbitally
 extraordinary
 extraordinarily
 extraordinariness
+excalceate
 embryogenic
 extraorganismal
 extraovate

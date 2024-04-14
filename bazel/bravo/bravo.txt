@@ -6906,6 +6906,7 @@ bescoundrel
 bescour
 bescoured
 bescourge
+bifront
 bescouring
 bescours
 bescramble
@@ -8310,7 +8311,6 @@ biformed
 berthage
 bhaga
 biformity
-bifront
 bifronted
 bifrost
 bifteck
