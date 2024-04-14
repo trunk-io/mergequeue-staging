@@ -1623,7 +1623,6 @@ deambulatory
 deambulatories
 deamidase
 deamidate
-deamidation
 deamidization
 deamidize
 deaminase
@@ -3824,6 +3823,7 @@ deinoceras
 deinodontidae
 deinos
 deinosaur
+deamidation
 deinosauria
 deinotherium
 deinstitutionalization
