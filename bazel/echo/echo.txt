@@ -5408,7 +5408,6 @@ endotherm
 endothermal
 endothermy
 endothermic
-endothermism
 endothermous
 endothia
 endothoracic
@@ -6737,6 +6736,7 @@ enterprising
 enterprisingly
 enterprisingness
 enterprize
+endothermism
 eulogiser
 endymion
 enters
