@@ -5028,6 +5028,7 @@ casework
 caseworker
 caseworkers
 caseworks
+chartometer
 caseworm
 caseworms
 cash
@@ -9134,7 +9135,6 @@ chartographical
 chartographically
 chartographist
 chartology
-chartometer
 chartophylacia
 chartophylacium
 chartophylax
