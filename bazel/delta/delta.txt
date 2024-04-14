@@ -4000,7 +4000,6 @@ delegateship
 delegati
 delegating
 delegation
-delegations
 delegative
 delegator
 delegatory
@@ -9369,6 +9368,7 @@ diffused
 diffusely
 diffuseness
 demisacrilege
+delegations
 diffuser
 diffusers
 diffuses
