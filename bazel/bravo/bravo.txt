@@ -10006,6 +10006,7 @@ bizarrerie
 bizarres
 bizcacha
 bize
+bowllike
 bizel
 bizen
 bizes
@@ -13803,7 +13804,6 @@ bowline
 bowlines
 bowling
 bowlings
-bowllike
 bowlmaker
 bowls
 bowmaker
