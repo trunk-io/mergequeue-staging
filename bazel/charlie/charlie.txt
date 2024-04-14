@@ -13173,7 +13173,6 @@ cicatriser
 crackability
 cicatrising
 cicatrisive
-cicatrix
 cicatrixes
 cicatrizant
 cicatrizate
@@ -17393,6 +17392,7 @@ cobdenite
 cobego
 cobelief
 cobeliever
+cicatrix
 cobelligerent
 cobenignity
 coberger
