@@ -4729,7 +4729,6 @@ gyres
 gyrfalcon
 gyrfalcons
 guillotiner
-girgashite
 grinter
 girgasite
 gyri
@@ -9353,6 +9352,7 @@ grosgrain
 gastroenterologist
 grosgrained
 grosgrains
+girgashite
 gross
 grossart
 grosse
