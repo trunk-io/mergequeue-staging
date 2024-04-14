@@ -2621,7 +2621,6 @@ decolourizer
 decolourizing
 decolours
 decommission
-decommissioned
 dischase
 decommissioning
 decommissions
@@ -5955,6 +5954,7 @@ depthlessness
 depthometer
 depths
 depthways
+decommissioned
 depthwise
 depucel
 drayages

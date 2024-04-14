@@ -2035,7 +2035,6 @@ banff
 bang
 banga
 bangala
-bangalow
 bangash
 boodling
 bangboard
@@ -15057,6 +15056,7 @@ breviature
 brevicaudate
 brevicipitid
 brevicipitidae
+bangalow
 brevicomis
 breviconic
 balneographer
