@@ -1801,6 +1801,7 @@ eyes
 eyesalve
 eyeseed
 eyeservant
+executioner
 enfranchisement
 eyeserver
 eyeservice
@@ -12308,7 +12309,6 @@ executes
 executing
 execution
 executioneering
-executioner
 executioneress
 executioners
 executions

@@ -7037,7 +7037,6 @@ fomes
 fomites
 fon
 fonctionnaire
-fond
 flavorlessness
 fondaco
 fondant
@@ -10819,6 +10818,7 @@ fuchsite
 fuchsone
 fuci
 fucinita
+fond
 fucivorous
 fucus
 fucused
