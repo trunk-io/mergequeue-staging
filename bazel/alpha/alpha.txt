@@ -5475,6 +5475,7 @@ affrights
 affront
 affronte
 affronted
+autograft
 affrontedly
 affrontedness
 affrontee
@@ -24063,7 +24064,6 @@ autogyros
 autognosis
 ambulators
 autognostic
-autograft
 autografting
 autogram
 autographal

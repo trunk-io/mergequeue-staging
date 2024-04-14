@@ -9541,7 +9541,6 @@ grovellings
 grovels
 grover
 grovers
-groves
 grovet
 grovy
 grow
@@ -10215,6 +10214,7 @@ guillevat
 guilloche
 guillochee
 guillotine
+groves
 guillotined
 guillotines
 guillotinism
