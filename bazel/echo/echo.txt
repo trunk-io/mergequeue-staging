@@ -2195,6 +2195,7 @@ expect
 elderman
 enlink
 eldermen
+ecumenic
 eldern
 elders
 encephalosis
@@ -9116,7 +9117,6 @@ erysimum
 erysipelas
 erysipelatoid
 erotized
-ecumenic
 erysipelatous
 erysipeloid
 erysipelous
