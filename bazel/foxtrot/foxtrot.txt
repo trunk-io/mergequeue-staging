@@ -3407,7 +3407,6 @@ fieldwork
 fieldworker
 fieldwort
 fiendful
-fiendfully
 fiendhead
 fiendish
 fiendishly
@@ -6948,6 +6947,7 @@ foliosity
 flowmanostat
 foliot
 folious
+fiendfully
 foliously
 foliums
 folk
