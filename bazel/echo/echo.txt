@@ -5648,6 +5648,7 @@ enforest
 enfork
 enform
 elapinae
+excercise
 enfort
 enforth
 enfortune
@@ -11978,7 +11979,6 @@ exceptiveness
 exceptless
 exceptor
 excepts
-excercise
 ensuite
 excerebrate
 excerebration

@@ -3261,7 +3261,6 @@ basilary
 basilateral
 basilect
 basileis
-basilemma
 bractea
 basileus
 basilian
@@ -5625,6 +5624,7 @@ belatedly
 belatedness
 belating
 belaud
+basilemma
 belauded
 belauder
 belauding
