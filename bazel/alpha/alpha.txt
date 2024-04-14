@@ -145,7 +145,6 @@ abatable
 amoebid
 abatage
 abate
-abated
 abatement
 abatements
 abater
@@ -20446,6 +20445,7 @@ artels
 artemas
 artemia
 artemis
+abated
 artemisia
 apiolin
 artemisic
