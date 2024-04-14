@@ -189,7 +189,6 @@ factorable
 factordom
 factoress
 factory
-factorial
 factorially
 frizer
 factorials
@@ -8656,6 +8655,7 @@ forspent
 farstepped
 ferally
 footing
+factorial
 forspoke
 forspoken
 forspread
