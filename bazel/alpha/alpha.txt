@@ -14254,7 +14254,6 @@ anteposthumous
 anteprandial
 antepredicament
 antepretonic
-anteprohibition
 anteprostate
 anteprostatic
 antequalm
@@ -21194,6 +21193,7 @@ asialia
 asian
 asianic
 asianism
+anteprohibition
 asians
 asiarch
 asiarchate
