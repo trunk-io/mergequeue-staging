@@ -6061,7 +6061,6 @@ derby
 derbies
 derbylite
 derbyshire
-derbukka
 dere
 derealization
 derecho
@@ -8151,6 +8150,7 @@ diadochokinesia
 diadochokinesis
 diadokokinesis
 diadoumenos
+derbukka
 diadrom
 diadrome
 diadromous
