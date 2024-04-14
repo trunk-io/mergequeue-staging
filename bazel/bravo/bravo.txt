@@ -5708,7 +5708,6 @@ belick
 bunchberry
 belicoseness
 belie
-belied
 beliefful
 belieffulness
 beliefless
@@ -10472,6 +10471,7 @@ blat
 blatancy
 blatancies
 blatant
+belied
 blatantly
 blatch
 blatchang

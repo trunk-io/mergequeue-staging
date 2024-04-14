@@ -2794,7 +2794,6 @@ genio
 genioglossal
 globoids
 genioglossi
-genioglossus
 geniohyoglossal
 geniohyoglossus
 geniohyoid
@@ -6689,6 +6688,7 @@ golfers
 golfing
 golfings
 golfs
+genioglossus
 golgi
 gayal
 garrick
