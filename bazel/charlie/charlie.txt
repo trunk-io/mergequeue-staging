@@ -1879,7 +1879,6 @@ camions
 camis
 camisade
 camisado
-camisadoes
 camisados
 camisard
 camisas
@@ -28772,6 +28771,7 @@ cresylene
 cresylic
 cresylite
 cresyls
+camisadoes
 cheerers
 cresive
 cresol
