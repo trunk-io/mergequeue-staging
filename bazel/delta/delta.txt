@@ -6011,7 +6011,6 @@ dropshots
 der
 derabbinize
 deracialize
-deracinate
 deracinating
 deracination
 deracine
@@ -17136,6 +17135,7 @@ drinker
 drinkery
 drinkers
 drinky
+deracinate
 drinking
 drinkless
 drinkproof
