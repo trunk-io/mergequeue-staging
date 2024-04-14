@@ -2868,7 +2868,6 @@ barosma
 barosmin
 barostat
 bruta
-baroswitch
 barotactic
 barotaxy
 barotaxis
@@ -12644,6 +12643,7 @@ bagleaves
 bookish
 bookishly
 batiste
+baroswitch
 bookishness
 blobbed
 bulchin
