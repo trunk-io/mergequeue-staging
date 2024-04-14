@@ -1911,7 +1911,6 @@ gastrozooid
 gastrulae
 gastrular
 gastrulate
-gastrulating
 gadoidea
 gastrulation
 gastruran
@@ -3391,6 +3390,7 @@ glassier
 germanic
 germanical
 germanically
+gastrulating
 germanics
 germanify
 groundwards

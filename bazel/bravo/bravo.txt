@@ -5605,7 +5605,6 @@ belaying
 belays
 belait
 biface
-belaites
 belam
 belamcanda
 bladderweed
@@ -12424,6 +12423,7 @@ bonedog
 bonedry
 boneen
 bonefish
+belaites
 bonefishes
 boneflower
 bonehead
