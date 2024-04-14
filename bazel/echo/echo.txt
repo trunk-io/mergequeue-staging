@@ -4163,7 +4163,6 @@ elodeaceae
 empyreumata
 empyreumatic
 empyreumatical
-empyreumatize
 empiry
 empiric
 empirical
@@ -12571,6 +12570,7 @@ excogitated
 excambion
 exiled
 excursion
+empyreumatize
 exiledom
 exilement
 exiles
