@@ -7265,7 +7265,6 @@ cephalocercal
 cephalocereus
 cephalochord
 cephalochorda
-cephalochordal
 cephalochordata
 cephalochordate
 cephalocyst
@@ -14223,6 +14222,7 @@ circumambulates
 circumambulation
 circumambulations
 circumambulator
+cephalochordal
 circumambulatory
 circumanal
 circumantarctic

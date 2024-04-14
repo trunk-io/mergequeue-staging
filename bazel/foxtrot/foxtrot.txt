@@ -5188,6 +5188,7 @@ flaught
 flaughtbred
 fiot
 flaughter
+franchisement
 flaughts
 flaunch
 flaunche
@@ -9366,7 +9367,6 @@ franchise
 franchised
 franchisee
 franchisees
-franchisement
 franchisers
 franchises
 fireworms
