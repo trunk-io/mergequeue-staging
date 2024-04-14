@@ -7,6 +7,7 @@ aahing
 aahs
 aal
 aalii
+affirmable
 aaliis
 aals
 aam
@@ -5359,7 +5360,6 @@ affinities
 affinition
 assignation
 affinitive
-affirmable
 affirmably
 affirmance
 affirmant
