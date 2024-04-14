@@ -913,7 +913,6 @@ baggings
 boardwalk
 baggyrinkle
 basseted
-baggit
 baggywrinkle
 bagh
 bistratal
@@ -8768,6 +8767,7 @@ bimesters
 bimestrial
 bimetal
 bimetalism
+baggit
 bimetallic
 bimetallism
 bimetallist
