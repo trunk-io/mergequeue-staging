@@ -6129,7 +6129,6 @@ aggrievance
 aggrieve
 aggrieved
 aggrievedly
-aggrievedness
 aggrievement
 aggrieving
 aggro
@@ -22255,6 +22254,7 @@ astroglia
 astrognosy
 astrogony
 astrogonic
+aggrievedness
 astrograph
 astrographer
 astrography
