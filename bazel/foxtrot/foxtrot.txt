@@ -2593,7 +2593,6 @@ ferroaluminum
 ferrocalcite
 ferrocene
 ferrocerium
-ferrochrome
 ferrochromium
 ferrocyanate
 ferrocyanhydric
@@ -11132,6 +11131,7 @@ functionating
 functionation
 functioned
 functioning
+ferrochrome
 functionize
 functionless
 functionlessness
