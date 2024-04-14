@@ -285,6 +285,7 @@ eastings
 eastlake
 eastlander
 eastlin
+endocardia
 eastling
 eastlings
 eastlins
@@ -5097,7 +5098,6 @@ endobronchially
 empaled
 endobronchitis
 endocannibalism
-endocardia
 exemptible
 endocarditic
 endocardium
