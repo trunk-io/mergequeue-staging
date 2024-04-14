@@ -7899,6 +7899,7 @@ foreprise
 foreprize
 foreproduct
 foreproffer
+fovent
 forepromise
 forepromised
 foreprovided
@@ -9093,7 +9094,6 @@ foveate
 fingallian
 foveation
 foveiform
-fovent
 foveolae
 foveolar
 fibrinose
