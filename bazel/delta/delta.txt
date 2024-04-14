@@ -3904,6 +3904,7 @@ dekarch
 dekare
 dekares
 dekastere
+detonable
 deke
 dekes
 deking
@@ -7287,7 +7288,6 @@ detinues
 detinuit
 detn
 detonability
-detonable
 detonatability
 detonatable
 depersonalised
