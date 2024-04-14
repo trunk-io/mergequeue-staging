@@ -5039,6 +5039,7 @@ aeromaechanic
 aeromancer
 aeromancy
 aeromarine
+agitprops
 aeromechanic
 aeromechanical
 aeromechanics
@@ -6215,7 +6216,6 @@ agitatrix
 accelerations
 agitprop
 agitpropist
-agitprops
 agitpunkt
 agkistrodon
 agla
