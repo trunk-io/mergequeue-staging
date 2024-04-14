@@ -2739,7 +2739,6 @@ barman
 barmaster
 barmbrack
 barmcloth
-barmecidal
 barmecide
 barmfel
 becoward
@@ -10471,6 +10470,7 @@ blat
 blatancy
 blatancies
 blatant
+barmecidal
 blatantly
 blatch
 blatchang

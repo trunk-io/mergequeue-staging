@@ -1003,6 +1003,7 @@ absolve
 absolved
 absolvent
 absolver
+axunge
 absolvers
 absolves
 absolving
@@ -23008,7 +23009,6 @@ attenuable
 attenuant
 adusk
 attenuated
-axunge
 attenuates
 attenuating
 attenuation
