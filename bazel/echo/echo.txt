@@ -116,6 +116,7 @@ earnful
 earnie
 earning
 ebauche
+env
 earnings
 earns
 earphone
@@ -7164,7 +7165,6 @@ enuresises
 equiform
 enuring
 enurny
-env
 envaye
 envapor
 envassal
