@@ -5026,7 +5026,6 @@ endemics
 endemiology
 examiner
 endemiological
-endemism
 endemisms
 eurystheus
 endenization
@@ -5658,6 +5657,7 @@ enframed
 enframement
 enframes
 enframing
+endemism
 enfranch
 enfranchised
 enfranchisements
