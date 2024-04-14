@@ -3763,6 +3763,7 @@ foreshoulder
 filmdom
 filmdoms
 firebases
+flings
 filmed
 filmer
 forepost
@@ -5664,7 +5665,6 @@ flingers
 flingy
 flinging
 floppily
-flings
 flinkite
 fator
 flint

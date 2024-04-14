@@ -1122,7 +1122,6 @@ ganglioblast
 gangliocyte
 ganglioform
 galavant
-glochideous
 ganglioid
 ganglioma
 gangliomas
@@ -9561,6 +9560,7 @@ germinally
 gymnical
 growlier
 growliest
+glochideous
 growliness
 gemses
 gastornis
