@@ -3696,6 +3696,7 @@ ghastfulness
 grudgekin
 ghastly
 ghastlier
+gleek
 ghastliest
 ghastlily
 ghastliness
@@ -5373,7 +5374,6 @@ groupings
 goodhearted
 gleefully
 gleefulness
-gleek
 glaucomatous
 gleeking
 gleeks

@@ -3641,7 +3641,6 @@ adelphian
 adelphic
 adelphogamy
 adelphoi
-adelphophagy
 adelphous
 ademonist
 adempt
@@ -12700,6 +12699,7 @@ angelolater
 angelolatry
 angelology
 angelologic
+adelphophagy
 angelological
 angelomachy
 aflight
