@@ -13545,7 +13545,6 @@ atrophic
 annexitis
 annexive
 annexment
-annexure
 anni
 annicut
 annidalin
@@ -19200,6 +19199,7 @@ arcking
 arclength
 arclike
 arco
+annexure
 arcocentrous
 arcocentrum
 arcograph

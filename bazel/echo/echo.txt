@@ -825,7 +825,6 @@ encinder
 ectypal
 ectype
 ectypes
-ectypography
 ectiris
 ectoblast
 episodal
@@ -8633,6 +8632,7 @@ equicurve
 equid
 equidiagonal
 equidifferent
+ectypography
 equidimensional
 equidist
 equidistance
