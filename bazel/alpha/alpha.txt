@@ -2094,7 +2094,6 @@ acetite
 acetize
 acetla
 acetmethylanilide
-acetnaphthalide
 acetoacetanilide
 acetoacetate
 acetoacetic
@@ -2311,6 +2310,7 @@ achordata
 achordate
 achorion
 achras
+acetnaphthalide
 achree
 achroacyte
 achroanthes

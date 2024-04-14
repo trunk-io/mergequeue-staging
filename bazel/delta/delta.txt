@@ -823,6 +823,7 @@ danger
 dangerful
 dangerfully
 deodara
+dibranch
 dangerless
 dangerous
 dangerously
@@ -8768,7 +8769,6 @@ diblastula
 diborate
 dibothriocephalus
 dibrach
-dibranch
 dibranchia
 dibranchiata
 dibranchiate
