@@ -28,6 +28,7 @@ fabric
 fabricable
 fabricant
 fabricated
+fp
 fruticous
 fabricates
 fabricating
@@ -9176,7 +9177,6 @@ foziest
 foziness
 fozinesses
 femorocele
-fp
 fplot
 fpm
 fps
