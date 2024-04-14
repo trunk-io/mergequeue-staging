@@ -3381,7 +3381,6 @@ captive
 captived
 calvarias
 captives
-captiving
 captivity
 captivities
 captor
@@ -14143,6 +14142,7 @@ circline
 circling
 circocele
 circovarian
+captiving
 circue
 circuit
 circuitable
