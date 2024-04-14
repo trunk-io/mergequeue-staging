@@ -8824,7 +8824,6 @@ equivocates
 equivocatingly
 equivocation
 equivocations
-equivocator
 equivocatory
 equivocators
 equivoke
@@ -13635,6 +13634,7 @@ externalistic
 externality
 externalities
 externalization
+equivocator
 externalize
 externalized
 epiglottitis
