@@ -4474,7 +4474,6 @@ adulatress
 adulce
 adullam
 adullamite
-adult
 adulter
 adulterant
 adulterate
@@ -5263,6 +5262,7 @@ affabrous
 affair
 affaire
 affaires
+adult
 affairs
 affaite
 affamish
