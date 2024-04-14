@@ -9570,6 +9570,7 @@ digressions
 digressive
 digressively
 digressory
+docmac
 digs
 diguanide
 digue
@@ -14677,7 +14678,6 @@ docks
 dockside
 docksides
 dockworker
-docmac
 docoglossa
 docoglossan
 docoglossate

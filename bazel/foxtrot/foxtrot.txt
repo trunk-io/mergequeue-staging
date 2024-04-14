@@ -1699,6 +1699,7 @@ fearnaught
 fearnought
 fears
 fearsome
+frustrate
 fearsomely
 fearsomeness
 fixgig
@@ -10741,7 +10742,6 @@ fecche
 frusta
 frustrable
 frustraneous
-frustrate
 frustrately
 frustrater
 frustrates
