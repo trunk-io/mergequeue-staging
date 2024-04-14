@@ -3126,6 +3126,7 @@ fibrocrystalline
 fibroelastic
 fibroenchondroma
 fibroferrite
+foredesk
 fibroglioma
 fibrohemorrhagic
 farfet
@@ -7626,7 +7627,6 @@ foredescribe
 foredeserved
 foredesign
 foredesignment
-foredesk
 foredestine
 foredestined
 foredestiny
