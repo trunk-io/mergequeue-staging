@@ -7795,7 +7795,6 @@ dewaxes
 dewaxing
 dewberry
 dewberries
-dewcap
 dewclaw
 dewclawed
 dewclaws
@@ -15549,6 +15548,7 @@ dooli
 dooly
 doolie
 doolies
+dewcap
 doom
 doomage
 doombook
