@@ -881,6 +881,7 @@ fantee
 fanteeg
 fanterie
 fanti
+flintwood
 fantigue
 fantoccini
 fantocine
@@ -5684,7 +5685,6 @@ flintlike
 flintlock
 flints
 flintstone
-flintwood
 flyoff
 flioma
 flyover
