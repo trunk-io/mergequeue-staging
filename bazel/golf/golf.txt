@@ -4236,7 +4236,6 @@ gymnanthous
 gymnarchidae
 globin
 gymnasia
-gymnasial
 gymnasiarch
 gymnasiast
 gymnasic
@@ -6032,6 +6031,7 @@ glowered
 glowerer
 glowering
 gloweringly
+gymnasial
 glowers
 glowfly
 glowflies
