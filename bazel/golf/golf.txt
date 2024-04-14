@@ -1513,6 +1513,7 @@ garbardine
 garroter
 garroters
 garrotes
+gulper
 garroting
 gn
 garrotte
@@ -10366,7 +10367,6 @@ gulosity
 gulosities
 gossiping
 gulp
-gulper
 gulpers
 gulph
 gulpy

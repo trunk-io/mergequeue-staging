@@ -3278,6 +3278,7 @@ dragoons
 defibrillatory
 defibrinate
 defibrination
+depletion
 defibrinize
 deficiency
 deficiencies
@@ -5698,7 +5699,6 @@ depleteable
 depleted
 deplethoric
 depleting
-depletion
 ducting
 depletions
 depletive
