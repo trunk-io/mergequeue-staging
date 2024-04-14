@@ -2419,7 +2419,6 @@ electrofusion
 electrogalvanic
 electrogalvanization
 electrogasdynamics
-endosternite
 electrogenesis
 electrogenetic
 electrogenic
@@ -7055,6 +7054,7 @@ equidense
 entrechat
 entrechats
 entrecote
+endosternite
 entrecotes
 entredeux
 entree

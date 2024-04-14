@@ -3190,6 +3190,7 @@ defenceable
 defenceless
 defencelessly
 defences
+donates
 defencive
 defend
 defendable
@@ -15410,7 +15411,6 @@ donataries
 donate
 donated
 donatee
-donates
 druidology
 donatiaceae
 donatio
