@@ -2289,7 +2289,6 @@ electrification
 electrified
 esthetophore
 electrifiers
-electrifies
 electrifying
 electrine
 erythrolein
@@ -7871,6 +7870,7 @@ epigoni
 epigonic
 egriot
 epigonichthys
+electrifies
 epigonism
 epigonium
 epigonos
