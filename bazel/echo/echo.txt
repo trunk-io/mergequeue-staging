@@ -2660,7 +2660,6 @@ electrotherapeutical
 electrotherapeutist
 edaphodont
 electrotherapy
-electrotherapist
 electrotheraputic
 electrotheraputical
 electrotheraputically
@@ -13188,6 +13187,7 @@ explicably
 explicanda
 explicandum
 explicantia
+electrotherapist
 explicate
 explicated
 explicates

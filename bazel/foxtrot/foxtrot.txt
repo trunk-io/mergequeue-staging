@@ -360,7 +360,6 @@ fainthearted
 faintheartedly
 faintheartedness
 fainty
-fainting
 faintingly
 faintise
 faintish
@@ -2309,6 +2308,7 @@ fendering
 fenderless
 fenders
 fendillation
+fainting
 fending
 fends
 fenerate
