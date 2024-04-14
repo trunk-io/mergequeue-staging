@@ -3674,7 +3674,6 @@ batistes
 batlan
 batlet
 batlike
-batling
 batlon
 batman
 batmen
@@ -8699,6 +8698,7 @@ bosun
 basigenic
 billmen
 billon
+batling
 billons
 billot
 billow
