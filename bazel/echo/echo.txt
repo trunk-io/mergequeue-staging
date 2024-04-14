@@ -8801,6 +8801,7 @@ equivalency
 equivalencies
 equivalencing
 equivalent
+ethernet
 equivalently
 equivalents
 equivaliant
@@ -10323,7 +10324,6 @@ etherizer
 etherizes
 etherizing
 etherlike
-ethernet
 etherol
 etherolate
 excruciation
