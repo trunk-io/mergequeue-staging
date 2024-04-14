@@ -4142,7 +4142,6 @@ delineation
 discretively
 dromedarist
 delineative
-delineator
 delineature
 delineavit
 delinition
@@ -15429,6 +15428,7 @@ donatory
 donatories
 donators
 donatress
+delineator
 donax
 doncella
 doncy
