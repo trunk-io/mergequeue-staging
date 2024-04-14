@@ -3062,7 +3062,6 @@ epenla
 ellipses
 ellipsis
 ellipsograph
-ellipsoid
 ellipsoidal
 ellipsoids
 ellipsometry
@@ -5302,6 +5301,7 @@ endorhinitis
 endorphin
 endorsable
 endorsation
+ellipsoid
 endorse
 endorsee
 endorsees
