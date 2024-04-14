@@ -919,7 +919,6 @@ eggcupful
 ectosomal
 ectosome
 ectosphenoid
-ectosphenotic
 ehatisaht
 ectosphere
 ectosteal
@@ -2632,6 +2631,7 @@ electrostenolysis
 electrostenolytic
 electrostriction
 elinvar
+ectosphenotic
 electrosurgery
 electrosurgeries
 electrosurgical
