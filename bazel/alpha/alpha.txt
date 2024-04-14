@@ -6062,7 +6062,6 @@ aggraded
 aggrades
 aggrading
 aggrammatism
-aggrandise
 approachability
 aggrandised
 aggrandisement
@@ -20912,6 +20911,7 @@ ascelli
 ascellus
 ascence
 ascend
+aggrandise
 ascendable
 ascendance
 ascendancy

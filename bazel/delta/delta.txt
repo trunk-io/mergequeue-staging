@@ -7825,6 +7825,7 @@ detrital
 dewlap
 dewlapped
 dewless
+diggers
 dewlight
 dewlike
 dewool
@@ -9449,7 +9450,6 @@ digesture
 diggable
 digged
 digger
-diggers
 digging
 diggings
 dight
