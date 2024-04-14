@@ -7088,7 +7088,6 @@ desulfurs
 desulphur
 desulphurate
 desulphurated
-desulphurating
 desulphuration
 desulphuret
 desulphurising
@@ -8996,6 +8995,7 @@ dictating
 dictatingly
 dictation
 dictational
+desulphurating
 destructionism
 dictations
 dispraise
