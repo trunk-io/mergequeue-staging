@@ -2445,7 +2445,6 @@ electrohorticulture
 electroimpulse
 electroindustrial
 electroing
-electroionic
 electroirrigation
 electrojet
 eposes
@@ -9371,6 +9370,7 @@ errhine
 elapses
 embodiments
 errhines
+electroionic
 erring
 erron
 erroneously
