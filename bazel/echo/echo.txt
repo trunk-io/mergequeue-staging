@@ -953,7 +953,6 @@ ectromelus
 ectropion
 ectropionization
 ectropionize
-ectropionized
 ectropium
 ectropometer
 ectrosyndactyly
@@ -6503,6 +6502,7 @@ enstool
 enstore
 enstranged
 enstrengthen
+ectropionized
 epitomizer
 ensuable
 ensuance
