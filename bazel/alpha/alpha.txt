@@ -1423,7 +1423,6 @@ accelerable
 accelerando
 accelerant
 accelerated
-analysand
 acceleratedly
 accelerates
 accelerating
@@ -6818,6 +6817,7 @@ ainoi
 ains
 ainsell
 ainsells
+analysand
 aint
 ainu
 ainus
