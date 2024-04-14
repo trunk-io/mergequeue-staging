@@ -7351,7 +7351,6 @@ eopalaeozoic
 eopaleozoic
 eophyte
 eophytic
-eophyton
 eorhyolite
 eos
 eosate
@@ -12887,6 +12886,7 @@ exotropism
 exp
 expalpate
 expand
+eophyton
 expandable
 expanded
 escropulo
