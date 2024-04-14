@@ -6087,7 +6087,6 @@ caudillos
 caudle
 caudles
 caudocephalad
-caudodorsal
 caudofemoral
 caudolateral
 caudotibial
@@ -15679,6 +15678,7 @@ clausulae
 clausular
 clausule
 clausum
+caudodorsal
 clausure
 claut
 clava
