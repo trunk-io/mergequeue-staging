@@ -5878,7 +5878,6 @@ flocculus
 floccus
 flock
 flockbed
-flocker
 flocky
 flockiest
 flocking
@@ -8914,6 +8913,7 @@ fosterer
 fosterers
 fosterhood
 fostering
+flocker
 fosteringly
 fosterite
 fosterland
