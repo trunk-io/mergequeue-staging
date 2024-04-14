@@ -3104,7 +3104,6 @@ fibroadipose
 foamily
 fibroangioma
 fibroareolar
-fibroblast
 fibroblastic
 fibrocalcareous
 fibrocarcinoma
@@ -8171,6 +8170,7 @@ foreward
 forewarm
 forewarmer
 forewarn
+fibroblast
 forewarned
 forewarner
 forewarning
