@@ -3395,7 +3395,6 @@ damascenine
 deflexible
 deflexing
 deflexion
-deflexionize
 deflexure
 deflocculant
 debasement
@@ -11911,6 +11910,7 @@ disembattle
 disembed
 disembellish
 disembitter
+deflexionize
 disembocation
 disembody
 disembodied
