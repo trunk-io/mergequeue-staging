@@ -4941,7 +4941,6 @@ flammation
 flammed
 flammeous
 flamming
-flammulated
 flammulation
 footers
 flams
@@ -7406,6 +7405,7 @@ forbiddingness
 forbids
 forbye
 forbysen
+flammulated
 forbysening
 forbit
 forbite
