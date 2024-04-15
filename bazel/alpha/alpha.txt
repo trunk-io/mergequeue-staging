@@ -6858,6 +6858,7 @@ aircraftman
 aircraftmen
 aircrafts
 aircraftsman
+assessee
 aircraftsmen
 aircraftswoman
 aircraftswomen
@@ -21704,7 +21705,6 @@ assessable
 assessably
 archplagiary
 assessed
-assessee
 assesses
 assessing
 assession
