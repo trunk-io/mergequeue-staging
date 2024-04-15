@@ -318,7 +318,6 @@ eating
 eatings
 eats
 eagerly
-entrench
 eaved
 eavedrop
 eavedropper
@@ -6664,6 +6663,7 @@ enterography
 enterohelcosis
 encompasser
 enterohemorrhage
+entrench
 enterohydrocele
 enterointestinal
 escarped
