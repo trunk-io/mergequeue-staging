@@ -10518,7 +10518,6 @@ blatting
 blattodea
 blattoid
 balneal
-blattoidea
 blaubok
 blauboks
 blaugas
@@ -13175,6 +13174,7 @@ bosoming
 bosoms
 boson
 bosonic
+blattoidea
 bosons
 bosporan
 bosporanic
