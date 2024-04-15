@@ -12091,7 +12091,6 @@ exclamatorily
 exclaustration
 exclave
 exclaves
-exclosure
 excludability
 excludable
 envelopes
@@ -13622,6 +13621,7 @@ extern
 externa
 external
 externalisation
+exclosure
 externalise
 externalised
 externalising
