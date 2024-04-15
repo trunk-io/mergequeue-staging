@@ -2749,7 +2749,6 @@ element
 elemental
 esdras
 elementalism
-elementalist
 elementalistic
 elementalistically
 elementality
@@ -9422,6 +9421,7 @@ esotrope
 eruditeness
 eruditical
 erudition
+elementalist
 eruditional
 eruditionist
 erugate
