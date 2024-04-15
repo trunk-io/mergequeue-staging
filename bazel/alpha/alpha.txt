@@ -13832,7 +13832,6 @@ anopheline
 anophyte
 anophoria
 anophthalmia
-anophthalmos
 anophthalmus
 anopia
 anopias
@@ -22962,6 +22961,7 @@ attemperance
 attemperate
 attemperately
 attemperation
+anophthalmos
 attempered
 attempering
 attempers
