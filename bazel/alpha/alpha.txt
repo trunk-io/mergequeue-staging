@@ -10641,6 +10641,7 @@ alternize
 amyotaxia
 amyotonia
 amyotrophy
+anthracin
 amyotrophia
 amyotrophic
 amyous
@@ -14477,7 +14478,6 @@ anthracic
 archaeography
 anthraciferous
 anthracyl
-anthracin
 anthracite
 alkoxyl
 anthracitic

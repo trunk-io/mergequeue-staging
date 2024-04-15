@@ -1164,6 +1164,7 @@ baiting
 baits
 baittle
 baywood
+buxbaumia
 baywoods
 bayz
 baiza
@@ -18351,7 +18352,6 @@ biethnic
 buxaceae
 bldr
 buxaceous
-buxbaumia
 buxbaumiaceae
 buxeous
 buxerry
