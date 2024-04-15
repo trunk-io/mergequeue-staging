@@ -7740,7 +7740,6 @@ graycoat
 grayed
 grayest
 grayfish
-grayfishes
 grayfly
 grated
 grayhair
@@ -9470,6 +9469,7 @@ groundskeeping
 groundspeed
 groundswell
 groundswells
+grayfishes
 groundwall
 groundward
 groundwater
