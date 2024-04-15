@@ -6002,6 +6002,7 @@ deputyship
 deputising
 dungeonlike
 deputization
+diabology
 deputize
 deputized
 deputizes
@@ -8540,7 +8541,6 @@ diaplases
 diaplasis
 disillusions
 diaplasma
-diabology
 diaplex
 dusks
 diaplexal
