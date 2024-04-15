@@ -9167,6 +9167,7 @@ erythrochroism
 erythrocyte
 erythrocytes
 erythrocytoblast
+eupepsy
 erythrocytolysin
 erythrocytolysis
 erythrocytolytic
@@ -10979,7 +10980,6 @@ eupatrid
 eupatridae
 eupatrids
 electrocatalytic
-eupepsy
 eupepsia
 eupepsies
 eupeptic
