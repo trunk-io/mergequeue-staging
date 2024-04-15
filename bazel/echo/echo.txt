@@ -8837,6 +8837,7 @@ equuleus
 equus
 er
 era
+evolve
 erade
 eradiate
 eradiated
@@ -11675,7 +11676,6 @@ evolutive
 evolutoid
 encephalomere
 evolvable
-evolve
 evolved
 evolvement
 electroretinogram
