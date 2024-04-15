@@ -5032,7 +5032,6 @@ denaturisation
 denaturise
 denaturised
 duodiode
-denaturiser
 denaturising
 denaturize
 denaturized
@@ -7120,6 +7119,7 @@ det
 dirgy
 detach
 detachable
+denaturiser
 detachableness
 detachably
 detache
