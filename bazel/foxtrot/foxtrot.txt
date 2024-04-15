@@ -7098,7 +7098,6 @@ fontinalaceae
 fontinalaceous
 fontinalis
 fontinas
-fontlet
 fratercula
 fonts
 foo
@@ -10478,6 +10477,7 @@ frontwards
 frontwise
 froom
 froppish
+fontlet
 frore
 froren
 frory
