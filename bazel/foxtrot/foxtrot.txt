@@ -2410,7 +2410,6 @@ feria
 feriae
 ferial
 ferias
-feriation
 fantods
 feridgi
 feridjee
@@ -6356,6 +6355,7 @@ fluids
 fluigram
 fluigramme
 frankincensed
+feriation
 fluing
 fluyt
 foulage
