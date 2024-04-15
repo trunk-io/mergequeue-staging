@@ -3288,7 +3288,6 @@ fiddlery
 flirtish
 fiddlers
 fiddles
-foreknowable
 fiddlestick
 fiddlesticks
 fiddlewood
@@ -3767,6 +3766,7 @@ firebases
 filmed
 filmer
 forepost
+foreknowable
 filmet
 filmgoers
 filmgoing
