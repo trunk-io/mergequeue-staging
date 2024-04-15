@@ -9785,7 +9785,6 @@ bisulphate
 bisulphide
 bisulphite
 bit
-bitable
 bitake
 bytalk
 bytalks
@@ -10157,6 +10156,7 @@ blacklisting
 blackmail
 blackmailed
 butcher
+bitable
 blackmailer
 blackmailers
 blackmailing
