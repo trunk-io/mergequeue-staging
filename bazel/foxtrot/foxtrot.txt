@@ -1741,7 +1741,6 @@ featherback
 featherbed
 funebrous
 featherbedded
-featherbedding
 featherbird
 featherbone
 featherbrain
@@ -11633,6 +11632,7 @@ fustianish
 fustianist
 fustianize
 fustians
+featherbedding
 fustic
 fustics
 fustie
