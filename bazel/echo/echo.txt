@@ -1480,7 +1480,6 @@ effusiometer
 espiegle
 effusion
 effusions
-effusive
 effusively
 effusiveness
 effuso
@@ -12157,6 +12156,7 @@ excremental
 excrementally
 excrementary
 excrementitial
+effusive
 excrementitious
 excrementitiously
 evzone
