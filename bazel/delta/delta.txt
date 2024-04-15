@@ -1809,6 +1809,7 @@ debile
 debilissima
 debilitant
 debilitate
+disliker
 debilitated
 debilitates
 debilitation
@@ -12610,7 +12611,6 @@ disliked
 dislikeful
 disliken
 dislikeness
-disliker
 dislikers
 dislikes
 disliking
