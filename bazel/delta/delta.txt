@@ -9422,7 +9422,6 @@ digamist
 digamists
 digamma
 digammas
-digammate
 digammated
 digammic
 digamous
@@ -11479,6 +11478,7 @@ discomfiting
 discomfits
 discomfiture
 discomfort
+digammate
 discomfortable
 discomforted
 disload
