@@ -9485,7 +9485,6 @@ alternipetalous
 alternipinnate
 alternisepalous
 alternity
-alternize
 alterocentric
 alters
 alterum
@@ -10636,6 +10635,7 @@ amintor
 amioidei
 amyosthenia
 amyosthenic
+alternize
 amyotaxia
 amyotonia
 amyotrophy
