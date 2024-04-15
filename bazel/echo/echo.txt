@@ -2805,6 +2805,7 @@ escargatoire
 efficiencies
 eleotrid
 elepaio
+endpoint
 elephancy
 elephant
 electroluminescent
@@ -12098,7 +12099,6 @@ envelopes
 exclude
 excludes
 excludible
-endpoint
 excludingly
 exclusion
 exclusionary
