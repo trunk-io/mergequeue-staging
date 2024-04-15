@@ -7423,7 +7423,6 @@ forbs
 formalised
 forecited
 forcarve
-forcat
 force
 forceable
 forced
@@ -10492,6 +10491,7 @@ frostbiter
 frostbitten
 frostbound
 frostbow
+forcat
 frosted
 frostfish
 frostflower
