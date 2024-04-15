@@ -10216,7 +10216,6 @@ chiasmatype
 chiasmatypy
 chiasmi
 chiasmic
-chiasmodon
 chiasmodontid
 chiasmodontidae
 chiasms
@@ -25872,6 +25871,7 @@ corticate
 corticated
 corticating
 cortication
+chiasmodon
 corticiform
 corticifugal
 corticifugally
