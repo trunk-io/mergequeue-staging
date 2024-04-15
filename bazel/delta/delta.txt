@@ -1322,6 +1322,7 @@ dauner
 daunomycin
 daunt
 daunted
+diallage
 daunters
 demissive
 daunting
@@ -8325,7 +8326,6 @@ dialyzing
 dialkyl
 dialkylamine
 dialkylic
-diallage
 diallages
 diallagic
 diallagite
