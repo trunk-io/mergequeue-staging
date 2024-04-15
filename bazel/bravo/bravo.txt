@@ -12722,7 +12722,6 @@ bookwise
 bookwork
 bookworm
 bookworms
-bookwright
 bool
 boolean
 booleans
@@ -14342,6 +14341,7 @@ brainstorming
 brainstorms
 brainteaser
 brainteasers
+bookwright
 brainward
 brainwash
 brainwashed
