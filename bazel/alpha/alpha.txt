@@ -10336,7 +10336,6 @@ ametrous
 amex
 amgarn
 amhar
-afterbirths
 amharic
 amherstite
 amhran
@@ -22290,6 +22289,7 @@ astromantic
 algogenic
 astrometeorological
 astrometeorologist
+afterbirths
 astrometer
 astrometry
 astrometrical

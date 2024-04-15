@@ -5887,6 +5887,7 @@ belluine
 bellum
 becobweb
 bellwaver
+buckleless
 bellweather
 bellweed
 bellwether
@@ -16641,7 +16642,6 @@ bucklandite
 buckle
 buckled
 buckleya
-buckleless
 buckler
 bucklered
 bucklering
