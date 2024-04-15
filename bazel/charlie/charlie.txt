@@ -17494,7 +17494,6 @@ coccidia
 coccidial
 coccidian
 coccidiidea
-coccydynia
 coccidioidal
 coccidioides
 coccidiomorpha
@@ -22376,6 +22375,7 @@ coniferae
 coniferin
 coniferophyte
 coniferous
+coccydynia
 conifers
 conification
 coniform
