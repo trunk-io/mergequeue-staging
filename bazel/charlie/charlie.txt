@@ -13548,7 +13548,6 @@ cylindrelloid
 cylindrenchema
 cylindrenchyma
 cylindric
-cylindricality
 cylindrically
 cylindricalness
 cylindricity
@@ -19723,6 +19722,7 @@ combre
 combretaceae
 combretaceous
 combs
+cylindricality
 combure
 comburendo
 comburent
