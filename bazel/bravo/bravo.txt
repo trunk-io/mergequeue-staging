@@ -13114,7 +13114,6 @@ bortsch
 bortz
 bortzes
 britannica
-boruca
 borussian
 borwort
 bumper
@@ -16603,6 +16602,7 @@ buckbush
 bucked
 buckeen
 buckeens
+boruca
 buckeye
 buckeyed
 buckeyes
