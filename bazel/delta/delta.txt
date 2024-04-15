@@ -4354,7 +4354,6 @@ demandable
 demandant
 demandative
 demanded
-demander
 demanders
 dichondraceae
 dux
@@ -7610,6 +7609,7 @@ devilfishes
 devilhood
 devily
 deviling
+demander
 devilishly
 devilishness
 devilism
