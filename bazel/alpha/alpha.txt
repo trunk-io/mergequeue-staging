@@ -2702,7 +2702,6 @@ acquaintancy
 acquaintant
 acquainted
 acquaintedness
-acquainting
 acquent
 acquereur
 acquest
@@ -23778,6 +23777,7 @@ authenticate
 authenticated
 authenticates
 authentication
+acquainting
 authentications
 authenticator
 arrtez
