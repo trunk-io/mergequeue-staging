@@ -10355,6 +10355,7 @@ expoliate
 ethidene
 ethyl
 ethylamide
+exanimation
 ethylamime
 ethylamin
 ethylamine
@@ -11827,7 +11828,6 @@ exampless
 exampling
 exams
 exanguin
-exanimation
 exannulate
 exanthem
 exanthema
