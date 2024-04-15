@@ -3464,6 +3464,7 @@ deforester
 deforesting
 deforests
 deform
+downstreet
 deformability
 deformable
 deformalize
@@ -16363,7 +16364,6 @@ downstair
 downstairs
 downstate
 downsteepy
-downstreet
 downstroke
 downswing
 downswings
