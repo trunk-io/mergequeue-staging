@@ -209,7 +209,6 @@ daekon
 defilable
 daemon
 daemonelix
-daemones
 daemony
 daemonian
 daemonies
@@ -2945,6 +2944,7 @@ deductibles
 deductile
 deducting
 deductio
+daemones
 deduction
 deductions
 deductive
