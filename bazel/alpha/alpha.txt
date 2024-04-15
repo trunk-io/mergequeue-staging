@@ -1581,7 +1581,6 @@ acclimatisation
 acclimatise
 acclimatised
 acclimatiser
-acclimatising
 acclimatizable
 acclimatization
 apokreos
@@ -12585,6 +12584,7 @@ anesthetics
 anesthetist
 anesthetists
 anesthetization
+acclimatising
 anesthetize
 anesthetized
 anaeretic

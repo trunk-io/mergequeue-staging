@@ -7029,6 +7029,7 @@ destroyable
 destroyed
 destroyer
 destroyers
+dyslexic
 destroying
 destroys
 domesticable
@@ -12591,7 +12592,6 @@ deckhouses
 dislevelment
 dyslexia
 dyslexias
-dyslexic
 dyslexics
 disli
 dislicense
