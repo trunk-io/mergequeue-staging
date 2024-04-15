@@ -11163,7 +11163,6 @@ eurypterida
 eurypteroid
 eurygaean
 eurypteroidea
-eurypterus
 euripupi
 elytrigerous
 euryscope
@@ -13572,6 +13571,7 @@ extensiveness
 empathizing
 extensivity
 extensometer
+eurypterus
 extensor
 extensory
 extensors

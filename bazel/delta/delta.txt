@@ -5445,7 +5445,6 @@ dissociableness
 deoccidentalize
 deoculate
 deodand
-deodands
 deodar
 deodaras
 deodars
@@ -5914,6 +5913,7 @@ deprest
 depreter
 deprevation
 depriment
+deodands
 deprint
 depriorize
 deprivable
