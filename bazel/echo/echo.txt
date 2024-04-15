@@ -206,6 +206,7 @@ earthsmoke
 earthtongue
 elaterist
 earthwall
+expressed
 earthward
 earthwards
 earthwork
@@ -13338,7 +13339,6 @@ embrittlement
 express
 expressable
 expressage
-expressed
 expresser
 expresses
 expressibility
