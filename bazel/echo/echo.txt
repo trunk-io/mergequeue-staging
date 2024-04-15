@@ -49,7 +49,6 @@ eardrum
 eardrums
 eisell
 eared
-earflap
 earflaps
 equiprobabilism
 earflower
@@ -13960,6 +13959,7 @@ extrasensory
 extrasensorial
 extrasensuous
 extraserous
+earflap
 extrasyllabic
 extrasyllogistic
 extrasyphilitic
