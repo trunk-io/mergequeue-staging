@@ -4627,7 +4627,6 @@ bedcase
 bedchair
 bedchairs
 bedchamber
-bratstva
 bedclothing
 bedcord
 byplays
@@ -15404,6 +15403,7 @@ brimmingly
 brims
 brimse
 brimstone
+bratstva
 brimstonewort
 brin
 beshrouded
