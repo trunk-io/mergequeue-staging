@@ -1451,7 +1451,6 @@ garnett
 garnetter
 garnetwork
 garni
-garniec
 garnierite
 garnish
 garnishable
@@ -9024,6 +9023,7 @@ griming
 grimly
 grimm
 grimme
+garniec
 grimmer
 grimmest
 grimmia
