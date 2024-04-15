@@ -5306,7 +5306,6 @@ fldxt
 filii
 flea
 fusible
-fleabags
 fleabane
 fleabanes
 fleabite
@@ -11487,6 +11486,7 @@ furrowing
 furrowless
 furrowlike
 furrows
+fleabags
 furrure
 furs
 fursemide
