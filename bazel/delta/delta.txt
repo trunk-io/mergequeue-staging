@@ -1605,7 +1605,6 @@ dealfish
 dealfishes
 dealing
 dealings
-dealkalize
 dealkylate
 dealkylation
 deallocate
@@ -9605,6 +9604,7 @@ dihelium
 dihexagonal
 dihexahedral
 dihexahedron
+dealkalize
 dihybrid
 dihybridism
 dihybrids
