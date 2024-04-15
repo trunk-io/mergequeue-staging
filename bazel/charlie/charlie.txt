@@ -8054,7 +8054,6 @@ chafe
 chafed
 chafer
 chafery
-chaferies
 chafers
 chafes
 chafewax
@@ -9624,6 +9623,7 @@ cheeseburger
 cheeseburgers
 cheesecake
 cheesecakes
+chaferies
 cheesecloth
 cheesecloths
 cheesecurd
