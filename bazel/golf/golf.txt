@@ -141,7 +141,6 @@ gadso
 gadswoons
 grimliness
 gaduin
-gadus
 gadwall
 gadwalls
 gadwell
@@ -2893,6 +2892,7 @@ gentiana
 gentianales
 gentianella
 gentianic
+gadus
 gentianose
 gentians
 gentianwort
