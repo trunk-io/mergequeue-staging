@@ -5136,7 +5136,6 @@ flatlong
 flatman
 flatmen
 flatness
-flats
 flatted
 flattened
 flattener
@@ -11384,6 +11383,7 @@ furicane
 furied
 furies
 furify
+flats
 furil
 finagled
 furyl
