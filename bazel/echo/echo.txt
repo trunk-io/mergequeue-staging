@@ -5477,6 +5477,7 @@ endura
 exotisms
 eparchate
 endurability
+exertive
 endurable
 endurably
 endurance
@@ -12421,7 +12422,6 @@ exerting
 exertion
 exertionless
 exertions
-exertive
 exerts
 exes
 exesion
