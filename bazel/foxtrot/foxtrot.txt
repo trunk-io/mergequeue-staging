@@ -1784,6 +1784,7 @@ featy
 fluxweed
 featishly
 featishness
+fore
 featless
 featly
 featliest
@@ -7488,7 +7489,6 @@ fordull
 fumattoria
 fibreware
 fordwine
-fore
 foreacquaint
 foreact
 foreadmonish
