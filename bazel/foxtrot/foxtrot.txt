@@ -2206,7 +2206,6 @@ feltmaker
 feltmaking
 feltman
 foulard
-feltmonger
 feltness
 felts
 feltwort
@@ -5867,6 +5866,7 @@ fiercly
 flocculated
 flocculating
 flocculation
+feltmonger
 freshman
 flatnose
 flocculator
