@@ -7164,6 +7164,7 @@ detd
 detect
 detectability
 daishiki
+dogshore
 detectable
 detectaphone
 detected
@@ -15034,7 +15035,6 @@ dogs
 dogsbody
 dogsbodies
 dogship
-dogshore
 dogskin
 dogsleds
 disconformable
