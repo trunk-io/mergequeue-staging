@@ -4420,6 +4420,7 @@ enamines
 enamorado
 enamorate
 enamorato
+enforces
 enamored
 enamoredness
 enamoring
@@ -5641,7 +5642,6 @@ enforcer
 enlisters
 excommunicate
 enforcers
-enforces
 enforcibility
 enforcible
 enforcing
