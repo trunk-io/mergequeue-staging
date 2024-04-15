@@ -667,7 +667,6 @@ gallipot
 gallipots
 gallirallus
 gallish
-gallisin
 gallium
 galliums
 gallivant
@@ -8909,6 +8908,7 @@ grief
 griefful
 grieffully
 griefless
+gallisin
 griefs
 griege
 grivoise

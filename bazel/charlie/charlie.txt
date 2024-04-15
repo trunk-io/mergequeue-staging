@@ -3209,6 +3209,7 @@ caprelline
 capreol
 capreolar
 capreolary
+correctingly
 capreolate
 capreoline
 capreolus
@@ -25641,7 +25642,6 @@ correctible
 correctify
 correcting
 cubicly
-correctingly
 correction
 correctional
 correctionalist
