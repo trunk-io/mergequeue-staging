@@ -11192,7 +11192,6 @@ chloranil
 chloranthaceae
 chloranthaceous
 chloranthy
-chloranthus
 chlorastrolite
 chlorate
 chlorates
@@ -28666,6 +28665,7 @@ crenellating
 columbid
 crenellation
 crenelle
+chloranthus
 crenelled
 crenelles
 crenels

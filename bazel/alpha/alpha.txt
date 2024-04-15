@@ -8419,7 +8419,6 @@ alkalinization
 alkalinize
 alkalinized
 alkalinizes
-alkalinizing
 alkalis
 alkalisable
 alkalisation
@@ -20592,6 +20591,7 @@ arthrogenous
 antarala
 arthrography
 arthrogryposis
+alkalinizing
 arthrolite
 arthrolith
 arthrolithiasis
