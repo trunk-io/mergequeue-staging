@@ -6235,6 +6235,7 @@ aglet
 aglethead
 aglets
 agly
+avowter
 acacine
 aglycon
 aglycone
@@ -24877,7 +24878,6 @@ avowry
 avowries
 astronavigation
 avows
-avowter
 avshar
 avulse
 avulsed
