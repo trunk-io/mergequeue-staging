@@ -8947,7 +8947,6 @@ biocellate
 biocenology
 biocenosis
 biocenotic
-biocentric
 biochemy
 biochemic
 biochemical
@@ -14865,6 +14864,7 @@ balneologic
 breasted
 breaster
 breastfast
+biocentric
 breastfeeding
 breastful
 breastheight
