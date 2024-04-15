@@ -5446,6 +5446,7 @@ affrayers
 affraying
 affrays
 affranchise
+airmonger
 affranchised
 affranchisement
 affranchising
@@ -6946,7 +6947,6 @@ atomizes
 airmarker
 airmen
 airmobile
-airmonger
 airn
 airns
 airohydrogen
