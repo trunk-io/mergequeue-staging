@@ -4803,6 +4803,7 @@ enclosable
 enclose
 etymologize
 experimentalists
+excoriates
 enclosed
 encloser
 enclosers
@@ -12150,7 +12151,6 @@ excommunion
 exconjugant
 excoriate
 excoriated
-excoriates
 excoriating
 excoriation
 excoriations
