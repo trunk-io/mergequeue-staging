@@ -2775,7 +2775,6 @@ flowerer
 feston
 festoon
 festooned
-festoonery
 festooneries
 festoony
 fakirs
@@ -3977,6 +3976,7 @@ finfoot
 finfoots
 fingal
 fingall
+festoonery
 fingan
 fingent
 fingerable
