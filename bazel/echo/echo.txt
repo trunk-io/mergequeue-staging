@@ -5171,6 +5171,7 @@ endocritic
 endoderm
 endodermal
 endodermic
+evocators
 endodermis
 endoderms
 endodynamomorphic
@@ -11652,7 +11653,6 @@ evocativeness
 energy
 evocator
 evocatory
-evocators
 evodia
 evoe
 eleut
