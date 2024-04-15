@@ -3373,6 +3373,7 @@ fiefdom
 fiefs
 forfeitable
 fiel
+frowstily
 field
 fieldball
 fieldbird
@@ -10583,7 +10584,6 @@ frowsty
 frowstier
 flatuous
 frowstiest
-frowstily
 frowstiness
 frowze
 falderol
