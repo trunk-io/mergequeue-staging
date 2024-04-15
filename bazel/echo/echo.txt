@@ -6237,6 +6237,7 @@ enplanement
 extraphysiological
 enplanes
 enplaning
+enwreathe
 enquarter
 enqueue
 enqueued
@@ -7280,7 +7281,6 @@ enwraps
 enwrapt
 enwreath
 enneasyllabic
-enwreathe
 enwreathed
 enwreathing
 enwrite
