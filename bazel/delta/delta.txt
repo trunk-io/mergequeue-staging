@@ -406,6 +406,7 @@ daimio
 daimyo
 daimioate
 daimios
+depthing
 daimyos
 daimiote
 daimon
@@ -5951,7 +5952,6 @@ depsides
 dept
 depth
 depthen
-depthing
 depthless
 depthlessness
 depthometer
