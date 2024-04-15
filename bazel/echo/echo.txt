@@ -10734,7 +10734,6 @@ eucre
 eucryphia
 eucryphiaceae
 eucryphiaceous
-eucryptite
 eucrystalline
 eucrite
 essency
@@ -13969,6 +13968,7 @@ extrasolar
 extrasomatic
 extraspectral
 extraspherical
+eucryptite
 extraspinal
 extrastapedial
 extrastate
