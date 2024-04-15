@@ -5886,7 +5886,6 @@ depredating
 depredation
 depredationist
 depredations
-depredator
 depredatory
 deontic
 depredicate
@@ -7452,6 +7451,7 @@ deuteronomy
 deuteronomic
 deuteronomical
 deuteronomist
+depredator
 deuteronomistic
 deuterons
 deuteropathy
