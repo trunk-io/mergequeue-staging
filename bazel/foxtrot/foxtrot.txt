@@ -3559,7 +3559,6 @@ filagrees
 filagreing
 filament
 filamentar
-filamentary
 filamented
 filamentiferous
 filamentoid
@@ -11615,6 +11614,7 @@ fussy
 fussier
 fussification
 fussiness
+filamentary
 fussing
 fatigues
 fussle
