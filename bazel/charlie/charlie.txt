@@ -13625,6 +13625,7 @@ cymbalists
 cymballed
 cymballike
 cymballing
+costogenic
 cymbalo
 cimbalom
 cymbalom
@@ -26246,7 +26247,6 @@ costoclavicular
 costocolic
 costocoracoid
 costodiaphragmatic
-costogenic
 costoinferior
 costophrenic
 costopleural
