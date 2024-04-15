@@ -1855,7 +1855,6 @@ banal
 banality
 banalities
 banally
-banalness
 banana
 bananaland
 bananalander
@@ -9553,6 +9552,7 @@ birthmark
 birthmarks
 birthmate
 birthnight
+banalness
 birthplace
 birthplaces
 birthrate
