@@ -3487,7 +3487,6 @@ bastings
 bastion
 bastionary
 bastionet
-bastions
 bastite
 bastnaesite
 bastnasite
@@ -13750,6 +13749,7 @@ bower
 bowerbird
 bowered
 bowery
+bastions
 boweries
 boweryish
 bowering
