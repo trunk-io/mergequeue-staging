@@ -9117,6 +9117,7 @@ bionomies
 biont
 biontic
 bionts
+booms
 biophagy
 biophagism
 biophagous
@@ -12761,7 +12762,6 @@ boomkins
 boomless
 boomlet
 boomlets
-booms
 boomslang
 boomslange
 birkies

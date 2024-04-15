@@ -9515,7 +9515,6 @@ checkpoints
 checkrack
 checkrail
 checkrein
-checkroll
 checkroom
 checkrooms
 checkrope
@@ -15483,6 +15482,7 @@ clarifying
 clarigate
 clarigation
 clarigold
+checkroll
 clarina
 clarinda
 clarine
