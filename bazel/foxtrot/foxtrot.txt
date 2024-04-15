@@ -839,7 +839,6 @@ fant
 fantad
 fantaddish
 fantail
-fantailed
 fantails
 fantaisie
 fantasy
@@ -8936,6 +8935,7 @@ fothering
 fotive
 fotmal
 fotui
+fantailed
 fou
 foud
 foudroyant
