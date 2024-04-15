@@ -1138,7 +1138,6 @@ goschens
 ganglioneuron
 ganglionic
 ganglionitis
-ganglionless
 ganglions
 ganglioplexus
 ganglioside
@@ -5602,6 +5601,7 @@ glyphic
 glyphograph
 glyphographer
 glyphography
+ganglionless
 gynaeocracy
 glyphographic
 glyphs
