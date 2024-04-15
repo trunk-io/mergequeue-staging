@@ -12662,7 +12662,6 @@ chub
 chubasco
 chubascos
 chubb
-chubbed
 chubbedness
 chubby
 chubbier
@@ -15146,6 +15145,7 @@ cl
 clabber
 compellation
 clabbered
+chubbed
 clabbery
 clabbering
 clabbers

@@ -10309,7 +10309,6 @@ agast
 amerindic
 amerinds
 amerism
-ailuromania
 ameristic
 amerveil
 amesace
@@ -18574,6 +18573,7 @@ armpit
 arboricole
 arboricoline
 arboricolous
+ailuromania
 arboricultural
 arboriculture
 arboriform
