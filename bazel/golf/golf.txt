@@ -7667,7 +7667,6 @@ gradino
 gradins
 guilefulness
 gradiometer
-gradiometric
 gradometer
 goosishness
 grads
@@ -8703,6 +8702,7 @@ greenockite
 greenovite
 greenroom
 greenrooms
+gradiometric
 goiter
 greens
 greensand
