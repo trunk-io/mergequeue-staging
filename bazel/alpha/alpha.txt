@@ -6110,7 +6110,6 @@ aggregator
 apostlehood
 antiroll
 aggregatory
-aggrege
 aggress
 aggressed
 ancilia
@@ -8633,6 +8632,7 @@ allelomorphism
 allelopathy
 allelotropy
 allelotropic
+aggrege
 allelotropism
 alleluia
 anadicrotic
