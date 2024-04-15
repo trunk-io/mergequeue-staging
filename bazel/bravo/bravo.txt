@@ -5414,6 +5414,7 @@ behavers
 behaves
 behaving
 behavior
+butcherbird
 behaviorally
 behaviored
 behaviorist
@@ -18137,7 +18138,6 @@ butanone
 butanones
 butch
 butcha
-butcherbird
 butcherbroom
 butcherdom
 butchered

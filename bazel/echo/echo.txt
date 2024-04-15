@@ -10912,7 +10912,6 @@ ergocalciferol
 eumemorrhea
 eumenes
 eumenid
-eumenidae
 eumenidean
 eumenides
 ethicized
@@ -12964,6 +12963,7 @@ expectorated
 expectorates
 expectorating
 expectoration
+eumenidae
 expectorations
 expectorative
 examining
