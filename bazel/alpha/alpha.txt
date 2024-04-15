@@ -4583,6 +4583,7 @@ adventively
 adventry
 advents
 assassination
+attacks
 adventual
 adventure
 adventured
@@ -12835,7 +12836,6 @@ angiosis
 angiospastic
 angiosperm
 angiospermae
-attacks
 angiospermal
 angiospermic
 angiospermous
