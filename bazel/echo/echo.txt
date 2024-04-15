@@ -11352,7 +11352,6 @@ evangelic
 evangelical
 evangelicality
 evangelically
-exploder
 evangelicalness
 evangelicals
 evangelican
@@ -13764,6 +13763,7 @@ extracalicular
 extracardial
 extracarpal
 extracathedral
+exploder
 extracellular
 extracellularly
 extracerebral
