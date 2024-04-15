@@ -7182,6 +7182,7 @@ footed
 footeite
 footer
 footfall
+fructification
 ferruling
 footfalls
 footfarer
@@ -10616,7 +10617,6 @@ fructidor
 fructiferous
 fructiferously
 fructify
-fructification
 fructificative
 fructified
 fructifier
