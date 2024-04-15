@@ -658,6 +658,7 @@ famelic
 fames
 fameworthy
 family
+fructoses
 familia
 familial
 familiary
@@ -10625,7 +10626,6 @@ fructivorous
 fructokinase
 fructosan
 fructose
-fructoses
 fructoside
 fructuary
 fructuarius
