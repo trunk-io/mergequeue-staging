@@ -203,7 +203,6 @@ gaggling
 gaging
 gagman
 gagmen
-gagroot
 gags
 gagster
 gagsters
@@ -10296,6 +10295,7 @@ gulae
 gulaman
 ghent
 gulancha
+gagroot
 guland
 glimmerite
 gulanganes
