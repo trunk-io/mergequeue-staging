@@ -3150,7 +3150,6 @@ elops
 explait
 eloquent
 eloquential
-elpasolite
 elrage
 elritch
 epineolithic
@@ -5125,6 +5124,7 @@ endoceratite
 endoceratitic
 endocervical
 endocervicitis
+elpasolite
 endochylous
 endochorion
 endochorionic

@@ -7442,7 +7442,6 @@ forceput
 forcer
 forcers
 forces
-forcet
 forchase
 forches
 forcy
@@ -10510,6 +10509,7 @@ frostproofing
 frostroot
 frostwork
 footbridges
+forcet
 favose
 frostwort
 frot
