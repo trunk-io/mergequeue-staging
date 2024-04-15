@@ -18307,7 +18307,6 @@ cognisably
 cognisance
 cognisant
 cognise
-cognised
 cogniser
 cognises
 cognising
@@ -29268,6 +29267,7 @@ cryptocurrency
 cryptodeist
 cryptodynamic
 cryptodira
+cognised
 cryptodiran
 cryptodire
 cryptodirous
