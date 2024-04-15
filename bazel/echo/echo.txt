@@ -2901,6 +2901,7 @@ elflock
 elflocks
 elfship
 elfwife
+emotionalize
 elfwort
 elhi
 eli
@@ -4037,7 +4038,6 @@ emotionalism
 emotionalist
 emotionalistic
 emotionality
-emotionalize
 emotionalized
 emotionalizing
 emotionally
