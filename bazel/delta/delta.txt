@@ -13442,6 +13442,7 @@ dissaved
 dissaves
 dissaving
 dissavs
+duologues
 disscepter
 demonic
 dissceptered
@@ -18317,7 +18318,6 @@ duoliteral
 duolog
 duologs
 duologue
-duologues
 duomachy
 duomi
 duomos
