@@ -12953,7 +12953,6 @@ dispend
 dispended
 dispender
 dinotheres
-dispending
 dispendious
 dimin
 dispendiously
@@ -14685,6 +14684,7 @@ dockize
 dockland
 dobras
 docklands
+dispending
 dockmackie
 dockman
 dockmaster
