@@ -3002,6 +3002,7 @@ barricoes
 barrier
 barriers
 barriguda
+baseness
 barrigudo
 barrigudos
 broadaxe
@@ -3156,7 +3157,6 @@ basementward
 bloodshot
 basename
 behove
-baseness
 basenesses
 basenji
 basenjis
