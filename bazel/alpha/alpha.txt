@@ -5282,6 +5282,7 @@ affectationist
 affectations
 affected
 affectedly
+astigmia
 anthropogeny
 affectedness
 affecter
@@ -22105,7 +22106,6 @@ astigmatometry
 astigmatoscope
 astigmatoscopy
 astigmatoscopies
-astigmia
 astigmias
 astigmic
 astigmism

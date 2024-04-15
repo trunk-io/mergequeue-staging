@@ -1646,6 +1646,7 @@ fawning
 fawningly
 fawningness
 fawnlike
+fieldward
 fawns
 fawnskin
 fax
@@ -3407,7 +3408,6 @@ fieldsman
 fieldsmen
 fieldstone
 fieldstrip
-fieldward
 fairleads
 fieldwork
 fieldworker
