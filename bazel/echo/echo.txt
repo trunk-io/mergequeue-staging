@@ -8358,7 +8358,6 @@ epithamia
 epitheca
 epithecal
 epithecia
-epithecial
 epithecicia
 epistolizable
 epithecium
@@ -10769,6 +10768,7 @@ eudaimonist
 eurasia
 eudemian
 eudemon
+epithecial
 eudemony
 eudemonia
 eudemonic

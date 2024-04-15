@@ -15806,7 +15806,6 @@ brachiferous
 bromatology
 bromaurate
 bromauric
-brombenzamide
 brombenzene
 brombenzyl
 bromcamphor
@@ -17665,6 +17664,7 @@ burglarizing
 burglarproof
 burglarproofed
 berat
+brombenzamide
 burglarproofing
 burglarproofs
 burglars
