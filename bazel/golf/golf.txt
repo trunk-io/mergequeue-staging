@@ -3562,6 +3562,7 @@ gesso
 gessoes
 gest
 gestae
+growler
 gestalt
 galactostasis
 gunfighters
@@ -9554,7 +9555,6 @@ growers
 growing
 growingly
 growingupness
-growler
 growlery
 growleries
 growlers
