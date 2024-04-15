@@ -12827,7 +12827,6 @@ boothes
 boothian
 boothite
 bootholder
-boothose
 booths
 booty
 bootid
@@ -14130,6 +14129,7 @@ bracts
 bradawl
 busticate
 bradawls
+boothose
 bradbury
 bradburya
 bladish

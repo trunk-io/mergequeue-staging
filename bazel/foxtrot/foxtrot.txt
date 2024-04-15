@@ -10244,6 +10244,7 @@ frivolities
 frivolize
 frivolized
 frivolizing
+functions
 frivolled
 frivoller
 frivolling
@@ -11132,7 +11133,6 @@ functionize
 functionless
 functionlessness
 functionnaire
-functions
 functor
 functors
 functus
