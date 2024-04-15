@@ -5031,7 +5031,6 @@ aeroliths
 aerolitic
 aerolitics
 aerology
-aerologic
 aerological
 aerologies
 aerologist
@@ -16056,6 +16055,7 @@ antirationalistic
 antirationality
 antirationally
 antirattler
+aerologic
 antireacting
 antireaction
 antireactionary
