@@ -12835,7 +12835,6 @@ angiosperm
 angiospermae
 angiospermal
 angiospermic
-angiospermous
 angiosperms
 angiosporous
 angiostegnosis
@@ -20494,6 +20493,7 @@ arteriography
 arteriographic
 albert
 arteriolar
+angiospermous
 arteriole
 arterioles
 arteriolith
