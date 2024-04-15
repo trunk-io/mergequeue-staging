@@ -4903,6 +4903,7 @@ encrinitic
 encrinitical
 encrinoid
 encrinoidea
+esthesiometric
 encrypt
 encrypted
 encrypting
@@ -10010,7 +10011,6 @@ esthesiography
 esthesiology
 esthesiometer
 esthesiometry
-esthesiometric
 esthesioneurosis
 esthesiophysiology
 esthesis
