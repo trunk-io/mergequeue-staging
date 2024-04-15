@@ -2261,6 +2261,7 @@ baptism
 baptismal
 baptismally
 baptisms
+beresite
 baptist
 baptistery
 baptistic
@@ -6669,7 +6670,6 @@ berengena
 berenice
 browed
 bereshith
-beresite
 beret
 berets
 beretta
