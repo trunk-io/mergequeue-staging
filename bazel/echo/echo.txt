@@ -9684,6 +9684,7 @@ eslisor
 esloign
 existentially
 esmayle
+evacuants
 esmeralda
 esmeraldan
 esne
@@ -11288,7 +11289,6 @@ eigne
 euxine
 eva
 evacuant
-evacuants
 evacuated
 evacuating
 evacuation
