@@ -8422,7 +8422,6 @@ formalizing
 formally
 formalness
 fesswise
-friendlier
 formals
 formamide
 formamido
@@ -10992,6 +10991,7 @@ fum
 fumade
 fumado
 fumados
+friendlier
 feltwork
 fumagine
 frighted
