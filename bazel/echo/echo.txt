@@ -9922,7 +9922,6 @@ establish
 establishable
 established
 establisher
-establishes
 emendable
 establishing
 establishment
@@ -10432,6 +10431,7 @@ ethmopalatine
 ethmophysal
 ethmopresphenoidal
 ethmose
+establishes
 ethmosphenoid
 ethmosphenoidal
 ethmoturbinal
