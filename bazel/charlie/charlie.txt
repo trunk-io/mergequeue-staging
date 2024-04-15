@@ -5629,7 +5629,6 @@ catchpenny
 catchpennies
 catchphrase
 catchplate
-catchpole
 catchpoled
 catchpolery
 catchpoleship
@@ -21281,6 +21280,7 @@ concessionary
 concessioner
 concessionist
 concessions
+catchpole
 concessit
 concessive
 concessively
