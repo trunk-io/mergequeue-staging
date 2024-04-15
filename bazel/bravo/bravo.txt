@@ -1657,7 +1657,6 @@ ballotade
 ballotage
 balloted
 balloter
-balloters
 balloting
 bradyseismal
 ballotist
@@ -15182,6 +15181,7 @@ bricklike
 bricklining
 brickmaker
 brickmaking
+balloters
 brickmason
 brickred
 bricksetter

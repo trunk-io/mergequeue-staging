@@ -9292,6 +9292,7 @@ chattily
 chattiness
 chattingly
 chatwood
+compartmentalized
 chaucer
 chaucerian
 chauceriana
@@ -20467,7 +20468,6 @@ compartition
 compartment
 conelet
 compartmentalization
-compartmentalized
 compartmentalizes
 compartmentalizing
 compartmentally
