@@ -7758,6 +7758,7 @@ epidemiology
 epidemiologic
 epidemiological
 epidemiologically
+esophagoplasty
 epidemiologies
 equidensity
 epidemiologist
@@ -9726,7 +9727,6 @@ endfile
 esophagometer
 esophagomycosis
 esophagopathy
-esophagoplasty
 esophagoplegia
 esophagoplication
 esophagoptosis
