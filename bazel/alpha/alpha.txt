@@ -85,6 +85,7 @@ abamp
 abamperes
 abamps
 aband
+alkahestic
 abandon
 abandonable
 abandoned
@@ -8384,7 +8385,6 @@ aljoba
 aljofaina
 alk
 alkahest
-alkahestic
 alkahestica
 alkahestical
 alkahests
