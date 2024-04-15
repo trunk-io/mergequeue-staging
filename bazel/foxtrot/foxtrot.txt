@@ -2676,7 +2676,6 @@ fertilities
 fertilizability
 fertilizable
 ferroprussiate
-fertilization
 fertilizational
 forewaters
 fertilizations
@@ -4826,6 +4825,7 @@ flagstick
 flagstones
 flagworm
 flay
+fertilization
 flayed
 flayer
 flayers
