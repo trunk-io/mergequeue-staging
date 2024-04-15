@@ -3361,6 +3361,7 @@ captioning
 captionless
 captions
 captious
+casted
 captiously
 captiousness
 captivance
@@ -5214,7 +5215,6 @@ castanospermum
 castaway
 castaways
 caste
-casted
 casteism
 casteisms
 casteless
