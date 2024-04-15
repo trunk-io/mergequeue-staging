@@ -7646,7 +7646,6 @@ devilward
 devilwise
 devinct
 devious
-deftest
 deviously
 deviousness
 dekabrist
@@ -13841,6 +13840,7 @@ distinctional
 distinctionless
 distinctions
 distinctity
+deftest
 dispiritingly
 distinctive
 distinctively
