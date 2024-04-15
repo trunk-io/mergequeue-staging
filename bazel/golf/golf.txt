@@ -7805,7 +7805,6 @@ gralloch
 gram
 grama
 gemmae
-gramary
 gramarye
 gramaries
 gramaryes
@@ -9134,6 +9133,7 @@ griquaite
 griqualander
 gonk
 guiba
+gramary
 grisaille
 grisailles
 grisard
