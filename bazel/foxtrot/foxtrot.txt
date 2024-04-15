@@ -143,6 +143,7 @@ faconne
 facsim
 facsimile
 facsimiled
+fraternize
 facsimileing
 facsimiles
 facsimiling
@@ -9508,7 +9509,6 @@ fraternism
 fraternity
 fraternities
 fraternization
-fraternize
 fraternizer
 fraternizes
 fraternizing
