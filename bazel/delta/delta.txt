@@ -7661,6 +7661,7 @@ devisal
 deviscerate
 devise
 devised
+dressership
 devisee
 devisees
 deviser
@@ -17010,7 +17011,6 @@ dressed
 dresser
 doorlike
 dressers
-dressership
 dresses
 dressy
 dressier
