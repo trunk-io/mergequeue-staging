@@ -4590,7 +4590,6 @@ encephalomalacosis
 encephalomalaxis
 encephalomas
 encephalomeningocele
-encephalomeric
 encephalometer
 endocardiac
 encephalometric
@@ -11239,6 +11238,7 @@ eustyle
 eustomatous
 eusuchian
 eutaenia
+encephalomeric
 eutannin
 eutaxy
 eutaxic
