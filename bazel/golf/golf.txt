@@ -6607,7 +6607,6 @@ goldbugs
 goldcrest
 goldeye
 goldeyes
-golden
 goldenback
 goldeney
 goldeneye
@@ -7824,6 +7823,7 @@ graminology
 graminological
 graminous
 grammalogue
+golden
 grammarian
 grammarianism
 grammarians
