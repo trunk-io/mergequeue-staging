@@ -7952,7 +7952,6 @@ cevine
 cevitamic
 cezannesque
 cf
-cfd
 cfh
 cfi
 cfm
@@ -18667,6 +18666,7 @@ colate
 catalyzing
 colation
 colatitude
+cfd
 colatorium
 colauxe
 colazione
