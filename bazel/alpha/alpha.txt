@@ -4324,7 +4324,6 @@ adoringly
 adorn
 adornation
 adorned
-adorner
 adorners
 adorning
 adorningly
@@ -18829,6 +18828,7 @@ archelon
 archemastry
 archencephala
 archencephalic
+adorner
 archenemy
 archenemies
 archenia
