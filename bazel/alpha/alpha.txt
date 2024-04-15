@@ -6867,7 +6867,6 @@ aircrew
 aircrewman
 aircrewmen
 aircrews
-aleikum
 airdate
 airdates
 airdock
@@ -18685,6 +18684,7 @@ archaeomagnetism
 archaeopithecus
 archaeopterygiformes
 archaeopteris
+aleikum
 archaeopteryx
 archaeornis
 archaeornithes
