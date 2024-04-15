@@ -3649,6 +3649,7 @@ embreastment
 embreathe
 embreathement
 embrectomy
+extractible
 embrica
 embryectomy
 embryectomies
@@ -13793,7 +13794,6 @@ extractable
 extractant
 extracted
 extractibility
-extractible
 extractiform
 extracting
 extraction
