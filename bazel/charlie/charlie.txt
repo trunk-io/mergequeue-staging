@@ -852,7 +852,6 @@ cakile
 caking
 collagist
 cakra
-cakravartin
 cal
 calaba
 calabar
@@ -25078,6 +25077,7 @@ corepressor
 corequisite
 corer
 corers
+cakravartin
 cores
 coresidence
 coresidual

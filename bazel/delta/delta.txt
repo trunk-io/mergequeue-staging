@@ -3468,7 +3468,6 @@ deformalize
 deformation
 deformational
 deformations
-deformative
 deformed
 deformedly
 deformedness
@@ -3803,6 +3802,7 @@ deign
 deigned
 deigning
 drouths
+deformative
 deignous
 deigns
 deyhouse
