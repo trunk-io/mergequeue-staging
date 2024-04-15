@@ -6530,6 +6530,7 @@ bepaid
 barbermonger
 bepaint
 bepainted
+blindstitch
 belady
 bepaper
 beparch
@@ -10850,7 +10851,6 @@ boilery
 blindman
 blindness
 burnooses
-blindstitch
 blindstorey
 blindstory
 bubblingly
