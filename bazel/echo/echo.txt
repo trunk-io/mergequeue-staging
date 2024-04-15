@@ -351,6 +351,7 @@ ebcasc
 ebcd
 ebcdic
 ebdomade
+elasmosaurus
 eben
 ebenaceae
 ebenaceous
@@ -2106,7 +2107,6 @@ elargement
 elasmobranch
 elasmobranchiate
 elasmobranchii
-elasmosaurus
 elasmothere
 epigrammatist
 elastance
