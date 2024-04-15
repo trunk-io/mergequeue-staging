@@ -2296,7 +2296,6 @@ geelbeck
 geelbek
 geeldikkop
 geelhout
-geepound
 geepounds
 geer
 geerah
@@ -5949,6 +5948,7 @@ glossoncus
 glossopalatine
 glossopalatinus
 glossopathy
+geepound
 glossopetra
 glossophaga
 glossophagine
