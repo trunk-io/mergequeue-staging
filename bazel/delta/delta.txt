@@ -6679,7 +6679,6 @@ desilvers
 desynapsis
 desynaptic
 desynchronize
-desynchronizing
 desinence
 desinent
 dallying
@@ -13532,6 +13531,7 @@ dissertations
 dissertative
 dissertator
 disserted
+desynchronizing
 disserting
 disserts
 disserve
