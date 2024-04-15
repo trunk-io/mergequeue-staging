@@ -1962,7 +1962,6 @@ gatherers
 gatherings
 gathers
 gatherum
-gathic
 gating
 gats
 gesning
@@ -8282,6 +8281,7 @@ gregarianism
 grassers
 grasses
 grasset
+gathic
 grassfinch
 grassfire
 grassflat
