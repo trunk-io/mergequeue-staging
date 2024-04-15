@@ -955,7 +955,6 @@ abshenry
 absi
 absinth
 absinthes
-absinthial
 absinthiate
 absinthiated
 absinthiating
@@ -13071,6 +13070,7 @@ anhydridize
 anhydrization
 anhydroglocose
 anhydromyelia
+absinthial
 anhidrosis
 abstrusion
 airlifted
