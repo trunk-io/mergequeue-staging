@@ -9167,6 +9167,7 @@ chasing
 chasings
 chasm
 chasma
+clewgarnet
 chasmal
 chasmed
 chasmic
@@ -16044,7 +16045,6 @@ claosaurus
 clevises
 clew
 clewed
-clewgarnet
 clewing
 clews
 cli

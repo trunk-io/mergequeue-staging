@@ -1510,7 +1510,6 @@ faultlessness
 faults
 faultsman
 faulx
-faun
 fauna
 faunae
 faunal
@@ -1914,6 +1913,7 @@ federarie
 federate
 federated
 federates
+faun
 fullback
 federating
 federational
