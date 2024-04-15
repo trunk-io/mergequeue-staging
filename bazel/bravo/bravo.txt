@@ -12689,6 +12689,7 @@ bookmobile
 bookmobiles
 bookmonger
 bookplate
+buffered
 bookplates
 bookpress
 bookrack
@@ -16797,7 +16798,6 @@ buffcoat
 buffe
 buffed
 buffer
-buffered
 buffering
 bohemians
 bufferrer

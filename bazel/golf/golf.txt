@@ -918,6 +918,7 @@ gauby
 gamecock
 gamecocks
 gamecraft
+gastromancy
 gamed
 gameful
 gamey
@@ -1830,7 +1831,6 @@ gaultheria
 gubernia
 genuclast
 gastromalacia
-gastromancy
 gastromelus
 gastromenia
 gastromyces
