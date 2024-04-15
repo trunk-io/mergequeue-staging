@@ -7094,7 +7094,6 @@ endocardial
 entrez
 entry
 entria
-entries
 entrike
 entryman
 enteroid
@@ -12704,6 +12703,7 @@ exogastrically
 exogen
 exogenae
 exogenetic
+entries
 ekaha
 exogeny
 exogenic

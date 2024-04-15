@@ -2373,7 +2373,6 @@ candlelit
 candlemaker
 candlemaking
 candlemas
-candlenut
 candlepin
 candlepins
 candlepower
@@ -18594,6 +18593,7 @@ coyos
 coyote
 coyotero
 coyotes
+candlenut
 cryptographers
 coyotillo
 coyotillos
