@@ -16898,7 +16898,6 @@ aphorismos
 aphorisms
 aphoristic
 aphoristical
-aphoristically
 aphorists
 aphorize
 aphorized
@@ -21866,6 +21865,7 @@ associator
 associatory
 associators
 associe
+aphoristically
 assoil
 assoiled
 aryanization
