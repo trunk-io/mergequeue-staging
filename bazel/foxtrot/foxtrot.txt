@@ -1285,7 +1285,6 @@ fastidium
 fastigia
 filialness
 fumigate
-fastigiate
 fastigiated
 fastigiately
 fastigious
@@ -5457,6 +5456,7 @@ fibrillose
 fleshes
 fleshful
 fleshhood
+fastigiate
 funfairs
 firstship
 fleshy
