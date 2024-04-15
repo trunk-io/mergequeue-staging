@@ -1257,7 +1257,6 @@ gaper
 gruis
 golf
 gapeseed
-gapeseeds
 gapeworm
 gapeworms
 gapingly
@@ -8829,6 +8828,7 @@ gremlin
 gremlins
 gremmy
 gremmies
+gapeseeds
 grenada
 grenade
 grenades
