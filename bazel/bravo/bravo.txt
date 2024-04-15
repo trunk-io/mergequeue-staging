@@ -2369,7 +2369,6 @@ barbecuer
 barbecues
 barbecuing
 barbed
-barbedness
 barbeyaceae
 barbeiro
 barbel
@@ -10991,6 +10990,7 @@ blockhouse
 blockhouses
 beveto
 blackbreast
+barbedness
 blocky
 blockier
 blockiest
