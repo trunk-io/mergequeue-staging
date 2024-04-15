@@ -476,7 +476,6 @@ attingence
 abirritative
 abys
 abysm
-abysmal
 abysmally
 abysms
 abyss
@@ -5914,6 +5913,7 @@ agathis
 agathism
 agathist
 agathodaemon
+abysmal
 agathodaemonic
 agathodemon
 agathokakological
