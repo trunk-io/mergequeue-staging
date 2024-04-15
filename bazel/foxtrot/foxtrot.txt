@@ -392,7 +392,6 @@ fairies
 fairyfloss
 fairyhood
 fairyish
-fairyism
 fairyisms
 fairyland
 fairylands
@@ -3717,6 +3716,7 @@ filix
 fylker
 filla
 foreleech
+fairyism
 friesish
 fillable
 fillagreed
