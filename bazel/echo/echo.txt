@@ -5194,7 +5194,6 @@ endoesophagitis
 endofaradism
 endogalvanism
 endogamy
-endogamic
 endogamous
 endogastrically
 endogastritis
@@ -10985,6 +10984,7 @@ eupepticism
 euphausia
 epitheliulia
 euphausiacea
+endogamic
 euphausid
 euphausiid
 erraticness
