@@ -1003,7 +1003,6 @@ dariole
 darioles
 darius
 dark
-darked
 darkey
 darkeys
 darken
@@ -18590,6 +18589,7 @@ dustwoman
 dusun
 dutch
 dutched
+darked
 dutcher
 dutchess
 dutchy

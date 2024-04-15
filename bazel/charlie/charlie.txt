@@ -14980,7 +14980,6 @@ cytostome
 cytostroma
 cytostromatic
 cytotactic
-carpologically
 cytotaxis
 cytotaxonomy
 cytotaxonomic
@@ -21086,6 +21085,7 @@ conaxial
 conbinas
 creativeness
 conc
+carpologically
 concactenated
 concamerate
 concamerated
