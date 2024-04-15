@@ -6907,7 +6907,6 @@ entomere
 entomic
 entomical
 entomion
-entomofauna
 entomogenous
 entomol
 entomolegist
@@ -11619,6 +11618,7 @@ evirate
 eviration
 evirtuate
 eviscerated
+entomofauna
 eviscerates
 eviscerating
 evisceration
