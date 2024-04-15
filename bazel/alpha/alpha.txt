@@ -2645,7 +2645,6 @@ aconitum
 aconitums
 acontia
 acontias
-acontium
 ancestorial
 acontius
 aconuresis
@@ -10215,6 +10214,7 @@ amend
 amendableness
 amici
 amendatory
+acontium
 amende
 amended
 amender
