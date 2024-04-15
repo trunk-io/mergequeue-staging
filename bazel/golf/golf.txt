@@ -2405,7 +2405,6 @@ gelatinizable
 gelatinization
 gelatinize
 gruppetto
-gelatinized
 gelatinizer
 gelatinizing
 gallanting
@@ -2693,6 +2692,7 @@ generalships
 generalty
 generant
 glances
+gelatinized
 generate
 generated
 generater
