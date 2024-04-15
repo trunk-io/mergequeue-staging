@@ -3987,7 +3987,6 @@ giga
 gigabit
 gigabyte
 gigabytes
-gigabits
 glacon
 gigacycle
 gigadoid
@@ -10642,6 +10641,7 @@ gurly
 gurmukhi
 gheraoing
 gurnard
+gigabits
 gurnards
 gurney
 gurneyite
