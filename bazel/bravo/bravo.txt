@@ -5812,7 +5812,6 @@ bemba
 bellies
 belliferous
 basilicon
-bellyfish
 bellyflaught
 bellyful
 bellyfulls
@@ -15660,6 +15659,7 @@ broadsider
 borrovian
 broadsides
 broadspread
+bellyfish
 broadsword
 bluesman
 broadswords
