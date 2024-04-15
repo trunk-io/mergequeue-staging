@@ -3351,7 +3351,6 @@ deflagrated
 deflagrates
 deflagrating
 deflagration
-deflagrations
 deflagrator
 deflate
 deflated
@@ -16116,6 +16115,7 @@ douma
 doumaist
 dispositor
 doumas
+deflagrations
 doundake
 doup
 douper
