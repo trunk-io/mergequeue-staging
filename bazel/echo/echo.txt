@@ -2329,7 +2329,6 @@ electrocardiographic
 electrocardiographically
 electrocardiographs
 electrocatalysis
-electrocatalytic
 electrocataphoresis
 electrocataphoretic
 electrocautery
@@ -10978,6 +10977,7 @@ enoint
 eupatrid
 eupatridae
 eupatrids
+electrocatalytic
 eupepsy
 eupepsia
 eupepsies
