@@ -1680,7 +1680,6 @@ gasteromycetes
 gasteromycetous
 gypsoplast
 geomorphologist
-gasteropoda
 gasterosteidae
 grissen
 gasterosteiform
@@ -8563,6 +8562,7 @@ greatening
 greatens
 greater
 greatest
+gasteropoda
 guardful
 greathead
 greathearted
