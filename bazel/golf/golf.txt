@@ -2972,7 +2972,6 @@ genuflected
 genuflecting
 genuflection
 genuflector
-genuflects
 genuflex
 grouters
 genuflexion
@@ -6699,6 +6698,7 @@ garrick
 golgothas
 goli
 goliard
+genuflects
 goliardeys
 goliardery
 goliardic
