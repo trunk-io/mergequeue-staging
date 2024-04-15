@@ -4171,6 +4171,7 @@ firebox
 frogflower
 fluavil
 foreby
+flippance
 fireboxes
 firebrand
 firebrands
@@ -5698,7 +5699,6 @@ freezers
 flipflop
 fliping
 flipjack
-flippance
 flippancies
 flippant
 flippantly
