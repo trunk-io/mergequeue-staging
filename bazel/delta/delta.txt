@@ -4503,7 +4503,6 @@ dossel
 demibrassart
 demibrigade
 demibrute
-demibuckram
 demicadence
 demicannon
 demicanon
@@ -12766,6 +12765,7 @@ dryope
 disnatural
 disnature
 disnaturalization
+demibuckram
 disnaturalize
 disnatured
 disnaturing
