@@ -5293,7 +5293,6 @@ affectionate
 acreages
 affectionately
 affectionateness
-affectioned
 affectionless
 affections
 affectious
@@ -13026,6 +13025,7 @@ anacanth
 abacate
 angustifoliate
 angustifolious
+affectioned
 angustirostrate
 angustisellate
 angustiseptal
