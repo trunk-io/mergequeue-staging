@@ -3838,7 +3838,6 @@ emergencies
 elaborating
 emergent
 emergently
-emergentness
 emergents
 emergers
 emerges
@@ -6420,6 +6419,7 @@ ensigned
 ensignhood
 ensignry
 ensigns
+emergentness
 extradited
 ensilability
 ensilaged
