@@ -5064,6 +5064,7 @@ dendrobe
 dendrobium
 dendrocalamus
 dendroceratina
+dentification
 dendroceratine
 dendrochirota
 dendrochronology
@@ -5332,7 +5333,6 @@ denticulated
 durability
 denticule
 dentiferous
-dentification
 dentiform
 dentifrice
 dentigerous

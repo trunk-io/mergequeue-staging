@@ -2590,6 +2590,7 @@ bargello
 bargellos
 bargeload
 bargeman
+bivariate
 bargemaster
 bargepole
 booklice
@@ -9948,7 +9949,6 @@ bivalvous
 bivalvular
 bivane
 bivariant
-bivariate
 bivascular
 bivector
 biventer
