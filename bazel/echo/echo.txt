@@ -1538,7 +1538,6 @@ egest
 egesta
 enfranchising
 egesting
-egestion
 egestions
 egests
 egg
@@ -14036,6 +14035,7 @@ extraversively
 extravert
 extraverted
 extravertish
+egestion
 extravertive
 extravertively
 extravillar
