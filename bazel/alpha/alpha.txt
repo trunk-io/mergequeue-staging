@@ -1884,7 +1884,6 @@ acedia
 acediamin
 acediamine
 acedias
-acediast
 aceite
 aceituna
 aceldama
@@ -20993,6 +20992,7 @@ ascill
 ascyphous
 ascyrum
 ascitan
+acediast
 ascitb
 ascite
 ascites
