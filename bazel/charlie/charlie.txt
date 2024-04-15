@@ -7432,7 +7432,6 @@ ceratophyllaceous
 ceratophyllum
 ceratophyta
 ceratophyte
-ceratophrys
 crozier
 ceratopsia
 ceratopsian
@@ -7823,6 +7822,7 @@ cervulus
 cervus
 cesar
 cesare
+ceratophrys
 cesarean
 cesareans
 cesarevitch

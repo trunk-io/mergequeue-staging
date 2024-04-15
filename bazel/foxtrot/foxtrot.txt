@@ -4400,7 +4400,6 @@ fingerflower
 fishyard
 fishyback
 fishier
-fishify
 fishified
 fishifying
 fishily
@@ -6972,6 +6971,7 @@ folkmote
 folkmoter
 folkmotes
 folkmots
+fishify
 folkright
 freekirker
 folks
