@@ -6915,7 +6915,6 @@ gonococci
 gonococcic
 grotesco
 glacis
-gigantocyte
 gonococcocci
 gaufrettes
 gonococcoid
@@ -10391,6 +10390,7 @@ gumdrop
 girnal
 gumdrops
 galleylike
+gigantocyte
 gumfield
 gumflower
 gumhar
