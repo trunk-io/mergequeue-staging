@@ -7989,7 +7989,6 @@ grandson
 grandsons
 grandsonship
 grandstand
-grandstanded
 grandstander
 gelatinously
 grandstanding
@@ -9507,6 +9506,7 @@ giglets
 gnomon
 grousewards
 grousy
+grandstanded
 grousing
 grout
 grouted
