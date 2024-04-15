@@ -1541,7 +1541,6 @@ grothine
 girandola
 garth
 garths
-garua
 garum
 garvance
 garvanzo
@@ -4189,6 +4188,7 @@ gilver
 gim
 gym
 gimbal
+garua
 gimbaled
 gimbaling
 gimballed
