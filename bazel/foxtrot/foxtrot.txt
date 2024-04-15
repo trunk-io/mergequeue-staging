@@ -3558,7 +3558,6 @@ filagreed
 filagrees
 filagreing
 filament
-filamentar
 filamentary
 filamented
 filamentiferous
@@ -11681,6 +11680,7 @@ futilitarian
 futilitarianism
 futility
 futilities
+filamentar
 flameholder
 futilous
 futtah
