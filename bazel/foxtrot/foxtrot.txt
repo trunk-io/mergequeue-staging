@@ -2804,7 +2804,6 @@ fetchers
 fetches
 fetching
 fetchingly
-fete
 feteless
 feterita
 feteritas
@@ -5093,6 +5092,7 @@ faecal
 flasklet
 flasks
 flasque
+fete
 flat
 flatbed
 faciobrachial
