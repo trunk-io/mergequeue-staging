@@ -4457,7 +4457,6 @@ enantiotropic
 enantobiosis
 enapt
 enarbor
-enarbour
 enarch
 enarched
 enargite
@@ -12318,6 +12317,7 @@ effervescible
 excur
 elopes
 eyeleteer
+enarbour
 erodable
 executorial
 executors

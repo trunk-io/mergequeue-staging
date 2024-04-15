@@ -3861,7 +3861,6 @@ baulea
 bauleah
 baulk
 baulked
-baulky
 baulkier
 baulkiest
 baulking
@@ -5076,6 +5075,7 @@ befalls
 befame
 bloodthirst
 befamilied
+baulky
 befamine
 befancy
 befanned
