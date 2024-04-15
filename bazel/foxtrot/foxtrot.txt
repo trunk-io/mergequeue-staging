@@ -1349,6 +1349,7 @@ fathering
 fatherkin
 fatherland
 frogged
+folkmoot
 fatherlandish
 flookan
 fatherlands
@@ -6965,7 +6966,6 @@ folklorism
 folkloristic
 folklorists
 footman
-folkmoot
 flatmate
 folkmooter
 foreignization
