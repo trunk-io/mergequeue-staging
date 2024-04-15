@@ -18122,7 +18122,6 @@ coetaneousness
 coeternal
 coeternally
 coeternity
-coeval
 coevality
 colossian
 coevally
@@ -30694,6 +30693,7 @@ cuisse
 cuissen
 cuisses
 cuisten
+coeval
 cuit
 cuitlateco
 cuitle
