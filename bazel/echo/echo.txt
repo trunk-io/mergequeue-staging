@@ -2877,7 +2877,6 @@ escalators
 eleven
 elevenfold
 elevens
-elevenses
 eleventeenth
 eleventh
 entobranchiate
@@ -3629,6 +3628,7 @@ embracingness
 embracive
 embraciveg
 entitles
+elevenses
 embraid
 episperm
 embrail
