@@ -1219,6 +1219,7 @@ datasetname
 datasets
 datatype
 datatypes
+dialyzable
 datcha
 datchas
 dialyzers
@@ -11712,7 +11713,6 @@ dyscrasic
 demissness
 dyscrasing
 dyscrasite
-dialyzable
 daglock
 dyscratic
 discreate

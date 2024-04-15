@@ -1909,7 +1909,6 @@ genos
 gastrozooid
 gastrulae
 gastrular
-gastrulate
 gastrulating
 gadoidea
 gastrulation
@@ -10152,6 +10151,7 @@ giallolino
 guidelines
 guidepost
 guideposts
+gastrulate
 gibli
 guiders
 guidership
