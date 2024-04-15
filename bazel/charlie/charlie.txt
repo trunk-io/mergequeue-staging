@@ -2186,7 +2186,6 @@ canalization
 canalizations
 canalize
 canalizes
-canalizing
 canalla
 canalled
 canaller
@@ -13832,6 +13831,7 @@ cinematograph
 cinematographer
 cinematographers
 cinematography
+canalizing
 cinematographic
 caving
 cinematographical
