@@ -1955,6 +1955,7 @@ decadic
 decadist
 decadrachma
 decadrachmae
+diceman
 dimorphic
 decaedron
 decaesarize
@@ -8830,7 +8831,6 @@ dicecup
 diced
 dicey
 dicellate
-diceman
 dicentra
 dicentras
 dicentrin
