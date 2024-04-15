@@ -4104,7 +4104,6 @@ careless
 carelessly
 carelessness
 careme
-carene
 carer
 carers
 cares
@@ -14875,6 +14874,7 @@ cytococcus
 cytoderm
 cytodiagnosis
 cytodieresis
+carene
 cytodieretic
 cytodifferentiation
 cytoecology
