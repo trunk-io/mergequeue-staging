@@ -5681,7 +5681,6 @@ catechizing
 catechol
 catecholamine
 catecholamines
-catechu
 catechumen
 catechumenal
 catechumenate
@@ -29764,6 +29763,7 @@ cropless
 cropman
 croppa
 cropped
+catechu
 cropper
 croppers
 croppy
