@@ -10628,7 +10628,6 @@ chimblies
 chimbs
 chime
 chyme
-chimed
 chimer
 chimera
 chimeral
@@ -11959,6 +11958,7 @@ chorioid
 chorioiditis
 chorioidocyclitis
 chorioidoiritis
+chimed
 chorioidoretinitis
 chorioids
 chorioma
