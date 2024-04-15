@@ -4557,6 +4557,7 @@ advantageous
 advantageously
 advantageousness
 advantages
+aspiringness
 advantaging
 advect
 advected
@@ -21515,7 +21516,6 @@ aspirin
 aspiring
 aspiringly
 anacoluthically
-aspiringness
 aspirins
 aspises
 aspish

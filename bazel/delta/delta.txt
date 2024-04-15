@@ -8352,7 +8352,6 @@ dialogged
 dialogging
 dialogic
 dialogical
-dialogically
 dialogised
 dactylitic
 dialogising
@@ -10629,6 +10628,7 @@ diplophonic
 diplopy
 diplopia
 doghole
+dialogically
 diplopiaphobia
 diplopias
 diplopic
