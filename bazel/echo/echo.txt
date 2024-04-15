@@ -5948,6 +5948,7 @@ enhungered
 enhusk
 eniac
 enicuridae
+equate
 enid
 effetely
 enif
@@ -8579,7 +8580,6 @@ equanimousness
 equant
 equatability
 equatable
-equate
 equated
 equates
 equating
