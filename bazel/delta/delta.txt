@@ -5833,7 +5833,6 @@ depot
 defecter
 depotentiate
 depots
-depr
 depravate
 depravation
 deprave
@@ -13480,6 +13479,7 @@ dissemblance
 dissemble
 danda
 drawloom
+depr
 dissembled
 dissembler
 diagraphic
