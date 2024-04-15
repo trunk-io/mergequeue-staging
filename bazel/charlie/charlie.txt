@@ -2452,6 +2452,7 @@ canewise
 canework
 canezou
 canfield
+correlatable
 canfieldite
 canfields
 canful
@@ -25668,7 +25669,6 @@ corregimiento
 coordinates
 corregimientos
 correl
-correlatable
 correlate
 correlated
 correlates
