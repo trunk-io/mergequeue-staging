@@ -8439,7 +8439,6 @@ bigotedness
 bigotish
 bigots
 bigotty
-bigram
 bigroot
 bigthatch
 biguanide
@@ -10324,6 +10323,7 @@ blankard
 blankbook
 blanked
 blankeel
+bigram
 biopoesis
 blanker
 balmacaan
