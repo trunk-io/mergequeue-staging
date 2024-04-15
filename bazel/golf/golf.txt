@@ -7895,6 +7895,7 @@ granatum
 granch
 grand
 grandad
+guessable
 gnomically
 grandada
 grandads
@@ -10067,7 +10068,6 @@ guesdism
 guid
 guesdist
 guess
-guessable
 gamodeme
 guessed
 gunnysacks
