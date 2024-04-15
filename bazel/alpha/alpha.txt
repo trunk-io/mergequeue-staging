@@ -3725,7 +3725,6 @@ adenoma
 adenomas
 adenomata
 adenomatome
-adenomatous
 adenometritis
 adenomycosis
 adenomyofibroma
@@ -4107,6 +4106,7 @@ admensuration
 admerveylle
 admetus
 admi
+adenomatous
 admin
 adminicle
 aarrgh
