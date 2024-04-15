@@ -4968,7 +4968,6 @@ endamoebae
 endamoebas
 endamoebiasis
 endamoebic
-endamoebidae
 endangeitis
 endanger
 endangered
@@ -11359,6 +11358,7 @@ evangelion
 evangelisation
 evangelise
 evangelised
+endamoebidae
 electrifier
 evangeliser
 evangelism

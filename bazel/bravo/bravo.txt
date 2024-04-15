@@ -9961,7 +9961,6 @@ biverbal
 bivial
 bivinyl
 bivinyls
-bivious
 bivittate
 bivocal
 bivocalized
@@ -10453,6 +10452,7 @@ blastomycetes
 blastomycetic
 bergamots
 blastomycetous
+bivious
 blastomycin
 blastomycotic
 blastoneuropore
