@@ -2926,7 +2926,6 @@ feuding
 feudists
 feudovassalism
 feuds
-feudum
 feued
 feuillage
 feuillants
@@ -3996,6 +3995,7 @@ fingerlike
 fingerling
 fuliguline
 fingerlings
+feudum
 fingermark
 fingernail
 firmly
