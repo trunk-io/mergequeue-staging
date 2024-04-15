@@ -1199,7 +1199,6 @@ datable
 dogtrot
 datableness
 datably
-datacell
 datafile
 dataflow
 datagram
@@ -16983,6 +16982,7 @@ drenched
 drencher
 drenchers
 drenches
+datacell
 drenching
 deboistness
 drenchingly
