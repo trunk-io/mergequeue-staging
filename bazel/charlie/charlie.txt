@@ -27517,6 +27517,7 @@ coverer
 coverers
 covering
 coverings
+cribber
 coverless
 coverlet
 coverlets
@@ -28898,7 +28899,6 @@ crybabies
 cribbage
 cribbages
 cribbed
-cribber
 cribbers
 cribbing
 cribbings
