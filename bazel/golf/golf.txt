@@ -4036,7 +4036,6 @@ gigging
 giggish
 glossoscopia
 giggit
-giggle
 giggled
 giggledom
 gigglement
@@ -8451,6 +8450,7 @@ gravery
 graverobber
 graverobbing
 gravers
+giggle
 gyroidally
 graves
 graveship
