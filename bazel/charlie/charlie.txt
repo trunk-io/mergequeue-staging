@@ -8762,6 +8762,7 @@ chapelgoing
 chapeling
 chapelize
 chapellage
+clavers
 chapellany
 chapelled
 chapelling
@@ -15709,7 +15710,6 @@ convertable
 claver
 clavered
 clavering
-clavers
 clavi
 chirres
 clavy

@@ -63,7 +63,6 @@ babbools
 babcock
 babe
 babehood
-babel
 babeldom
 babelet
 babelike
@@ -9806,6 +9805,7 @@ bitanhol
 bitartrate
 bitbrace
 bite
+babel
 biteable
 blockbuster
 biteche
