@@ -14258,7 +14258,6 @@ anteposition
 anteposthumous
 anteprandial
 antepredicament
-antepretonic
 anteprohibition
 anteprostate
 anteprostatic
@@ -18788,6 +18787,7 @@ archdiplomatist
 archdissembler
 archdisturber
 archdivine
+antepretonic
 archdogmatist
 archdolt
 archdruid
