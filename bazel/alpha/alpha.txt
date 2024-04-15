@@ -12587,6 +12587,7 @@ anesthetists
 anesthetization
 anesthetize
 anesthetized
+atmans
 anaeretic
 anesthetizer
 anesthetizes
@@ -22663,7 +22664,6 @@ atloidoaxoid
 atm
 atma
 atman
-atmans
 atmas
 atmiatry
 atmiatrics
