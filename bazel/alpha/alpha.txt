@@ -6196,7 +6196,6 @@ agistment
 agists
 agit
 agitability
-agitable
 articulate
 agitant
 agitate
@@ -17531,6 +17530,7 @@ apozema
 apozemical
 apozymase
 app
+agitable
 appay
 appair
 appal
