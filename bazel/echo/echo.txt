@@ -6352,7 +6352,6 @@ enscene
 ensconced
 ensconces
 ensconcing
-enscroll
 enscrolled
 enscrolling
 enscrolls
@@ -7349,6 +7348,7 @@ eom
 eomecon
 eon
 eonian
+enscroll
 eonism
 eonisms
 eons
