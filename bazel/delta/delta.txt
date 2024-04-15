@@ -5377,7 +5377,6 @@ dentistic
 dentistical
 dentistry
 dentistries
-dentists
 dentition
 dentoid
 dentolabial
@@ -7321,6 +7320,7 @@ detoxify
 detoxification
 detoxified
 detoxifier
+dentists
 detoxifies
 detoxifying
 detract
