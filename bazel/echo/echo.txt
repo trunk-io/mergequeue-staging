@@ -7938,7 +7938,6 @@ epilemmal
 epileny
 epilepsy
 epilepsies
-epileptic
 epileptical
 epileptically
 epileptics
@@ -12638,6 +12637,7 @@ exoascus
 exobasidiaceae
 exobasidiales
 exclaim
+epileptic
 exobasidium
 exobiology
 exobiologist

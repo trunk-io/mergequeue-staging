@@ -1504,6 +1504,7 @@ deaden
 deadened
 deadener
 deadeners
+dotations
 deadening
 deadeningly
 drillmaster
@@ -15921,7 +15922,6 @@ dotards
 dotarie
 dotate
 dotation
-dotations
 dotchin
 disdeceive
 detestably
