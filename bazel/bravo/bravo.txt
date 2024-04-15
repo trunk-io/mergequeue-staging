@@ -8081,6 +8081,7 @@ bicyclo
 bicycloheptane
 bicycular
 biciliated
+bisulcated
 bakerdom
 bicylindrical
 bicipital
@@ -9778,7 +9779,6 @@ bisubstituted
 bisubstitution
 bisulc
 bisulcate
-bisulcated
 bisulfate
 bisulfid
 bisulfide

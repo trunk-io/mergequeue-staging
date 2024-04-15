@@ -2121,7 +2121,6 @@ elasticity
 elasticize
 elasticized
 elasticizer
-elasticizes
 elasticizing
 elasticness
 elasticum
@@ -7116,6 +7115,7 @@ entrusted
 emote
 entrusting
 entrustment
+elasticizes
 entrusts
 entte
 entune
