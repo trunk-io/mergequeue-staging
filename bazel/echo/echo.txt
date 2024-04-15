@@ -6697,6 +6697,7 @@ enterons
 enteroparalysis
 enteroparesis
 enteropathy
+extratensive
 enteropathogenic
 enteropexy
 enteropexia
@@ -13981,7 +13982,6 @@ extratabular
 extratarsal
 extratelluric
 extratemporal
-extratensive
 extraterrene
 extraterrestrial
 extraterrestrially
