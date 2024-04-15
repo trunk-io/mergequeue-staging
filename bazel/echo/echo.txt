@@ -5137,6 +5137,7 @@ endoclinal
 endocline
 endocoelar
 endocoele
+excommunicators
 endocoeliac
 endocolitis
 endocolpitis
@@ -6322,7 +6323,6 @@ enroll
 enrolle
 enrollee
 exhalant
-excommunicators
 enrollees
 enroller
 enrollers
