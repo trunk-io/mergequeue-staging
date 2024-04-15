@@ -3218,6 +3218,7 @@ capri
 capric
 capriccetto
 capriccettos
+cocreate
 capricci
 capriccio
 capriccios
@@ -17677,7 +17678,6 @@ cocovenantor
 cocowood
 cocowort
 cocozelle
-cocreate
 cocreated
 cocreates
 curvifoliate

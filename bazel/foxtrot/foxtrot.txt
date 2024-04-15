@@ -642,6 +642,7 @@ falutin
 falx
 fam
 fama
+flexography
 famacide
 famatinite
 famble
@@ -5526,7 +5527,6 @@ flexitime
 ferdiad
 flexive
 flexo
-flexography
 flexographic
 flexographically
 flexor
