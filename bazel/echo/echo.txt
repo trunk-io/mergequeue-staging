@@ -2578,7 +2578,6 @@ electrophorus
 electrophotographic
 eras
 endure
-exempla
 electrophotometry
 eventuates
 electrophotomicrography
@@ -6724,6 +6723,7 @@ enterovirus
 ensemble
 enterozoan
 erepsins
+exempla
 equilibriria
 enterozoic
 enterozoon
