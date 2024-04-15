@@ -6899,6 +6899,7 @@ besanctify
 besand
 besant
 besauce
+bugbear
 bescab
 bescarf
 belout
@@ -16856,7 +16857,6 @@ bugan
 bugara
 bugbane
 bugbanes
-bugbear
 bugbeardom
 bugbearish
 bugbite
