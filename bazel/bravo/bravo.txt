@@ -6386,7 +6386,6 @@ benzazimide
 benzazine
 benzazole
 buhrstone
-benzdiazine
 bipolarize
 benzdifuran
 benzdioxazine
@@ -12382,6 +12381,7 @@ bondages
 bondar
 bonded
 bondelswarts
+benzdiazine
 bonder
 bonderize
 bonderman

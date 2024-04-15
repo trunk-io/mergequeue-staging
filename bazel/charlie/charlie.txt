@@ -2103,7 +2103,6 @@ camptodrome
 camptonite
 camptosorus
 campulitropal
-campulitropous
 campus
 campuses
 campusses
@@ -26806,6 +26805,7 @@ counterestablishment
 counterevidence
 counterexaggeration
 counterexample
+campulitropous
 counterexamples
 counterexcitement
 counterexcommunication
