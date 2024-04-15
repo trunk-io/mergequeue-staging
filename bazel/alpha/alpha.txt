@@ -6038,6 +6038,7 @@ agglutinable
 agglutinant
 apical
 agglutinate
+asceses
 agglutinated
 agglutinates
 alehoof
@@ -20951,7 +20952,6 @@ ascertaining
 ascertains
 ascescency
 ascescent
-asceses
 ascesis
 ascetic
 ascetical

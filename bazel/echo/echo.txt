@@ -6585,7 +6585,6 @@ entelam
 entelechial
 entelechies
 entellus
-entelluses
 entelodon
 entelodont
 entempest
@@ -12426,6 +12425,7 @@ exerts
 exes
 exesion
 exestuate
+entelluses
 exeunt
 exfetation
 exfiguration
