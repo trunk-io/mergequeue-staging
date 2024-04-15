@@ -4817,7 +4817,6 @@ bedrite
 bedrivel
 bedriveling
 bedrivelled
-bedrivels
 bedrizzle
 bedrock
 bedrocks
@@ -10072,6 +10071,7 @@ blackberrylike
 blackbird
 blackbirder
 blackbirding
+bedrivels
 blackbirds
 blackboard
 blackboards
