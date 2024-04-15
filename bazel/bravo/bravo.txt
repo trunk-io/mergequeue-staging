@@ -3935,7 +3935,6 @@ bawra
 bawrel
 bawsint
 bawsunt
-bawty
 bawtie
 bawties
 baxter
@@ -6440,6 +6439,7 @@ benzoazurine
 benzobis
 benzocaine
 benzocoumaran
+bawty
 benzodiazine
 benzodiazole
 benzofluorene
