@@ -4030,6 +4030,7 @@ adjuration
 adjurations
 adjuratory
 adjure
+aeroscopic
 adjured
 adjurer
 adjurers
@@ -5106,7 +5107,6 @@ aeropulse
 aerosat
 aeroscope
 aeroscopy
-aeroscopic
 aeroscopically
 aerose
 aerosiderite
