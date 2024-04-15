@@ -5622,7 +5622,6 @@ aftercrop
 antisine
 aftercure
 afterdays
-afterdamp
 afterdate
 afterdated
 afterdeal
@@ -23207,6 +23206,7 @@ aubusson
 auca
 aucan
 aucaner
+afterdamp
 aucanian
 auchenia
 auchenium

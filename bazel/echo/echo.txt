@@ -10499,7 +10499,6 @@ ethnographically
 ethnohistory
 ethnohistorian
 ethnohistoric
-ethnohistorical
 ethnohistorically
 entwisted
 ethnol
@@ -12392,6 +12391,7 @@ exendospermous
 exenterate
 exenterated
 exenterating
+ethnohistorical
 exenteration
 exenteritis
 exequatur
