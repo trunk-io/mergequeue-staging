@@ -3862,7 +3862,6 @@ emerited
 emeriti
 emeritus
 emerituti
-emerized
 emerizing
 emerod
 emerods
@@ -11639,6 +11638,7 @@ evittate
 evocable
 evocated
 evocating
+emerized
 evocation
 evocations
 evocative
