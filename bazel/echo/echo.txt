@@ -9627,6 +9627,7 @@ escrow
 escrowed
 escrowee
 escrowing
+exclamation
 escuage
 escudero
 escudo
@@ -12085,7 +12086,6 @@ exclaimers
 exclaiming
 exclaims
 exclam
-exclamation
 earthmaking
 exclamational
 exclamations
