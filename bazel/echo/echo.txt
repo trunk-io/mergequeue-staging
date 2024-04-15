@@ -983,7 +983,6 @@ ecurie
 ecus
 eczema
 eczemas
-elatedness
 eczematization
 epiclidal
 eczematoid
@@ -13044,6 +13043,7 @@ expenses
 expensing
 expensively
 expensiveness
+elatedness
 expergefacient
 expergefaction
 experience
