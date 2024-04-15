@@ -9137,6 +9137,7 @@ guiba
 grisaille
 grisailles
 grisard
+guttiness
 grisbet
 gurgly
 grise
@@ -10785,7 +10786,6 @@ gusla
 guttiferales
 guttiferous
 guttiform
-guttiness
 gutting
 guttled
 guttler
