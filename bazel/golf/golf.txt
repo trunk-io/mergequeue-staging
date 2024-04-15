@@ -5871,7 +5871,6 @@ gollywog
 genipapada
 gloss
 glossa
-glossae
 glossal
 glossalgy
 glossalgia
@@ -6939,6 +6938,7 @@ gonopodial
 gonopodpodia
 gonopoietic
 gonopore
+glossae
 glaciological
 gonopores
 gonorrhea
