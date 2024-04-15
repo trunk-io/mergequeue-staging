@@ -13242,7 +13242,6 @@ cyclanthaceous
 cyclanthales
 cyclanthus
 cyclar
-cyclarthrodial
 cyclarthrosis
 cyclarthrsis
 cyclas
@@ -25756,6 +25755,7 @@ corroboreeing
 corroborees
 corrodant
 corrode
+cyclarthrodial
 corrodent
 corrodentia
 corroder

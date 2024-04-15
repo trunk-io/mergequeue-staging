@@ -5661,7 +5661,6 @@ beleaguers
 beleap
 beleaping
 beleaps
-beleapt
 beleave
 belection
 belecture
@@ -6239,6 +6238,7 @@ beneurous
 beneventan
 benevolences
 benevolentness
+beleapt
 busies
 benevolist
 beng
