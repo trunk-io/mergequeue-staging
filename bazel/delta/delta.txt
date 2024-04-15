@@ -7177,7 +7177,6 @@ detections
 detective
 detectives
 detectivism
-detector
 detectors
 detects
 detenant
@@ -18028,6 +18027,7 @@ debatably
 dullpate
 dulls
 dullsome
+detector
 dullsville
 dulness
 dulnesses
