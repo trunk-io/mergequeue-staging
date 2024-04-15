@@ -5170,7 +5170,6 @@ befreight
 befret
 befretted
 befretting
-befriend
 befriended
 befriending
 befriendment
@@ -15248,6 +15247,7 @@ bridgeport
 bridgepot
 bridger
 bridget
+befriend
 balled
 bridgetin
 bridgetree
