@@ -2207,7 +2207,6 @@ elderwomen
 elderwood
 elderwort
 eldfather
-eldin
 eldmother
 emulsibility
 engelmannia
@@ -9779,6 +9778,7 @@ emanates
 espartos
 espavel
 espec
+eldin
 especial
 especially
 especialness

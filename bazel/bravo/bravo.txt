@@ -8956,7 +8956,6 @@ biochemically
 biochemics
 biochemist
 biochemistry
-bifanged
 biochemistries
 biochemists
 bandoras
@@ -13389,6 +13388,7 @@ bottleful
 bottlefuls
 broadsiding
 bottlehead
+bifanged
 bottleholder
 bottlelike
 bottommost
