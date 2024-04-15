@@ -1657,6 +1657,7 @@ fazes
 fazing
 fb
 fbi
+freijo
 fc
 fchar
 fipenny
@@ -9779,7 +9780,6 @@ freightment
 foreorlop
 freights
 freyja
-freijo
 freinage
 forehandsel
 freir
