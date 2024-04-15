@@ -2005,7 +2005,6 @@ fees
 feest
 feet
 feetless
-feeze
 feezed
 feezes
 feezing
@@ -9727,6 +9726,7 @@ freestones
 freet
 freethink
 forbidal
+feeze
 freethinker
 freethinkers
 freethinking
