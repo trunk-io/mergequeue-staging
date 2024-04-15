@@ -4262,7 +4262,6 @@ gymnocarpic
 gymnocarpous
 gymnoceratous
 gymnocidium
-gymnocladus
 gymnoconia
 gershom
 gymnoderinae
@@ -7587,6 +7586,7 @@ grabhook
 gimp
 grabman
 grabouche
+gymnocladus
 grabs
 grace
 graced
