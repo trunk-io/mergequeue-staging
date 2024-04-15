@@ -4312,6 +4312,7 @@ emulant
 emulates
 emulation
 emulations
+etymological
 emulative
 emulatively
 erythric
@@ -10559,7 +10560,6 @@ etymologer
 etymology
 etymologic
 egueiite
-etymological
 ensaint
 etymologically
 etymologicon
