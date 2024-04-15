@@ -124,7 +124,6 @@ abasers
 abases
 abasgi
 abashed
-abashedly
 abashedness
 abashes
 abashing
@@ -14851,6 +14850,7 @@ anticatalyst
 anticatalytic
 anticatalytically
 accessorial
+abashedly
 anticatalyzer
 anticatarrhal
 anticathexis
