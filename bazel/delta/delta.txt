@@ -7070,6 +7070,7 @@ desuetude
 desuetudes
 desugar
 desugared
+disseised
 desugaring
 desugarize
 desugars
@@ -13464,7 +13465,6 @@ dissector
 dissectors
 dissects
 disseise
-disseised
 disseisee
 disseises
 disseisoress
