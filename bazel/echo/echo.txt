@@ -3662,6 +3662,7 @@ elihu
 embryocardia
 embryoctony
 embryoctonic
+endodermis
 embryoferous
 embryogenesis
 embryogenetic
@@ -5179,7 +5180,6 @@ endocritic
 endoderm
 endodermal
 endodermic
-endodermis
 endoderms
 endodynamomorphic
 endodontia
