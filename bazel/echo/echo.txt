@@ -890,7 +890,6 @@ ectophytic
 ectophloic
 ectopy
 ectopia
-ectopias
 ectopic
 ectopistes
 ectoplacenta
@@ -11565,6 +11564,7 @@ endover
 eveweed
 evg
 evibrate
+ectopias
 evicke
 evict
 evicted
