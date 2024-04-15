@@ -3538,6 +3538,7 @@ coachable
 carapidae
 carapine
 carapo
+cestrum
 carapus
 carara
 carassow
@@ -7891,7 +7892,6 @@ cestraciontes
 cestraciontidae
 cestraction
 cestrian
-cestrum
 cestui
 cestuy
 cestus
