@@ -845,7 +845,6 @@ gam
 gelatiniser
 gamaliel
 gamari
-gamash
 gleam
 gamashes
 gamasid
@@ -6887,6 +6886,7 @@ goniopholidae
 goniostat
 goniotropous
 gonystylaceae
+gamash
 gonystylaceous
 gonystylus
 gaffsail
