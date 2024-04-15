@@ -505,7 +505,6 @@ dalai
 dalapon
 dalapons
 dalarnian
-dalasi
 dalasis
 dalbergia
 dale
@@ -11413,6 +11412,7 @@ disco
 discoactine
 documentation
 discoast
+dalasi
 discoblastic
 deriv
 discoblastula
