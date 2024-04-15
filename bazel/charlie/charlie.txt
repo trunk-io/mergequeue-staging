@@ -20456,7 +20456,6 @@ comparcioner
 compared
 comparer
 comparers
-comparing
 comparisons
 comparition
 comparograph
@@ -23051,6 +23050,7 @@ constances
 constancy
 constant
 constantan
+comparing
 constantine
 constantinian
 constantinople

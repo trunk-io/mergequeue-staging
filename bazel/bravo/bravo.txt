@@ -11111,7 +11111,6 @@ blab
 bloodwort
 bloodworthy
 blooey
-blooie
 bloom
 bloomage
 bloomed
@@ -15565,6 +15564,7 @@ brith
 burins
 brither
 brython
+blooie
 brythonic
 briticism
 blimy
