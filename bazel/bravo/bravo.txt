@@ -1333,7 +1333,6 @@ balanopsidaceae
 balanopsidales
 balanorrhagia
 balant
-balanta
 balante
 balantidial
 balantidiasis
@@ -16648,6 +16647,7 @@ bucklering
 buckles
 buckling
 bucklum
+balanta
 balloonation
 bucko
 buckoes
