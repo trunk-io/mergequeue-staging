@@ -7031,6 +7031,7 @@ destroyer
 destroyers
 destroying
 destroys
+domesticable
 destruct
 destructibility
 destructible
@@ -15288,7 +15289,6 @@ domes
 domesday
 domesdays
 domesticability
-domesticable
 domesticality
 domestically
 domesticate
