@@ -201,7 +201,6 @@ gaggler
 gaggles
 gaggling
 gaging
-gullishness
 gagman
 gagmen
 gagroot
@@ -5546,6 +5545,7 @@ glycuronid
 graph
 glidder
 gliddery
+gullishness
 glide
 glided
 glider
