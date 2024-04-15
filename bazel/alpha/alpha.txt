@@ -6133,6 +6133,7 @@ aggrievedly
 aggrievedness
 aggrievement
 aggrieving
+allegatum
 aggro
 aladdinize
 aggros
@@ -8571,7 +8572,6 @@ allegate
 allegation
 allegations
 allegator
-allegatum
 allegeable
 alleged
 astoundable
