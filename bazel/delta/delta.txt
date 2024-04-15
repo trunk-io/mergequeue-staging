@@ -1490,7 +1490,6 @@ deactivating
 deactivation
 deactivations
 deactivator
-deactivators
 deadbeat
 deadbeats
 defrosts
@@ -1712,6 +1711,7 @@ deathrates
 deathroot
 deaths
 deathshot
+deactivators
 deathsman
 deathsmen
 deathtime
