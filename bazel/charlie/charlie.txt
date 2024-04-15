@@ -13262,7 +13262,6 @@ crookbilled
 cyclic
 cyclical
 cyclicality
-cyclically
 cyclicalness
 cyclicism
 cyclicity
@@ -15612,6 +15611,7 @@ classroom
 classrooms
 classwise
 coccidioidomycosis
+cyclically
 classwork
 clast
 clastic
