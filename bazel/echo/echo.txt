@@ -6396,7 +6396,6 @@ ensheathe
 ensheathed
 ensheathes
 ensheathing
-ensheaths
 enshell
 enshelter
 enshield
@@ -6867,6 +6866,7 @@ entocele
 entocyemate
 entocyst
 enows
+ensheaths
 entocnemial
 entocoel
 entocoele
