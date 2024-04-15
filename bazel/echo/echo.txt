@@ -678,7 +678,6 @@ ecliptic
 ecliptical
 ecliptically
 excitron
-eclogic
 eclogite
 eclogites
 eclogue
@@ -6683,6 +6682,7 @@ enterolobium
 enterology
 enterologic
 enteromegaly
+eclogic
 enteromegalia
 enteromesenteric
 enteromycosis
