@@ -126,7 +126,6 @@ gadoid
 gadoids
 gyroscopically
 gadolinia
-gadolinic
 gadolinium
 gadroon
 gadroonage
@@ -3729,6 +3728,7 @@ gherkins
 gubernacula
 ghetchoo
 ghetto
+gadolinic
 ghettoed
 ghettoes
 ghettoization
