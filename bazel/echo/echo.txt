@@ -5350,6 +5350,7 @@ endosmometric
 eyr
 endosmos
 evaders
+exsect
 endosmose
 endosmoses
 endosmosis
@@ -13464,7 +13465,6 @@ exscutellate
 exsec
 exsecant
 exsecants
-exsect
 exsected
 exsectile
 encephalotomies
