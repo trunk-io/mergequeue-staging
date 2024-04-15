@@ -8675,6 +8675,7 @@ diathermotherapy
 diathermous
 diatheses
 diathesic
+diplographic
 diathesis
 diathetic
 diatom
@@ -10578,7 +10579,6 @@ diplogenic
 diploglossata
 diplograph
 diplography
-diplographic
 diplographical
 diplohedral
 diazoles
