@@ -814,6 +814,7 @@ fanjet
 fanjets
 fanleaf
 fanlight
+fringes
 fanlights
 fanmaking
 fanman
@@ -3785,7 +3786,6 @@ filmize
 filmized
 filmizing
 filmland
-fringes
 frostweed
 filmlands
 filmlike
