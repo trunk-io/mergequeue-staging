@@ -11647,6 +11647,7 @@ bobbles
 bobbling
 bobcat
 bobcats
+brambling
 bobcoat
 bobeche
 bobeches
@@ -14402,7 +14403,6 @@ bonanza
 brambly
 bramblier
 brambliest
-brambling
 brambrack
 brame
 bramia
