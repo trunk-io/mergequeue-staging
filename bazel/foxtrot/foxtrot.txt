@@ -1673,7 +1673,6 @@ fcp
 fdname
 fdnames
 fdtype
-fdub
 fdubs
 fe
 feaberry
@@ -10278,6 +10277,7 @@ frizzy
 frizzier
 frizziest
 frizzily
+fdub
 forepaling
 frizziness
 faunology
