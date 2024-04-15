@@ -11594,7 +11594,6 @@ cholera
 choleraic
 choleras
 choleric
-cholerically
 cholericly
 cholericness
 choleriform
@@ -20166,6 +20165,7 @@ commix
 commixed
 commixes
 commixing
+cholerically
 commixt
 commixtion
 commixture

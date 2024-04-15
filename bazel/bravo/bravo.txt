@@ -344,6 +344,7 @@ backchat
 backchats
 backcomb
 backcountry
+bucculae
 backcourt
 backcourtman
 backcross
@@ -16562,7 +16563,6 @@ bucconidae
 bucconinae
 buccopharyngeal
 buccula
-bucculae
 belvidere
 bucculatrix
 bucellas
