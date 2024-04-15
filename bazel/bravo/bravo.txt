@@ -3598,7 +3598,6 @@ bathymeter
 bathymetry
 bathymetric
 bathymetrical
-bathymetrically
 bathinette
 birthdom
 bathing
@@ -5293,6 +5292,7 @@ begirdle
 begirdled
 begirdling
 begirds
+bathymetrically
 begirt
 beglad
 begladding
