@@ -7471,6 +7471,7 @@ epentheses
 epenthesis
 epenthesize
 epenthetic
+epistolize
 epephragmal
 epepophysial
 epergne
@@ -8285,7 +8286,6 @@ epistolised
 epistolising
 epistolist
 epistolization
-epistolize
 epistolized
 epistolizer
 epistolizing

@@ -2068,7 +2068,6 @@ gauss
 gaussage
 garrets
 gaussbergite
-gluconate
 gausses
 gaussian
 gaussmeter
@@ -3293,6 +3292,7 @@ geotonic
 geotonus
 geordie
 geotropy
+gluconate
 geotropic
 geotropically
 geotropism
