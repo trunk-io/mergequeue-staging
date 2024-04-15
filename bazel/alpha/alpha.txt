@@ -3759,6 +3759,7 @@ adenostoma
 adenotyphoid
 adenotyphus
 adenotome
+awaking
 adenotomy
 adenotomic
 adenous
@@ -24921,7 +24922,6 @@ awakenings
 awakenment
 awakens
 awakes
-awaking
 awakings
 awald
 awalim
