@@ -12387,7 +12387,6 @@ androgenesis
 androgenetic
 androgenic
 androgenous
-androgens
 androgyn
 androgynal
 androgynary
@@ -22596,6 +22595,7 @@ athlothetes
 athodyd
 athodyds
 athogen
+androgens
 athold
 athonite
 athort
