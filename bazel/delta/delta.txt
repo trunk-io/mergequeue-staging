@@ -5945,7 +5945,6 @@ deprogrammed
 deprogrammer
 deprogrammers
 deprogramming
-deprogrammings
 deprograms
 deprome
 deprostrate
@@ -7894,6 +7893,7 @@ dextrocerebral
 dextrocular
 dextrocularity
 dextrogyrate
+deprogrammings
 deadish
 dextrogyration
 dextrogyratory
