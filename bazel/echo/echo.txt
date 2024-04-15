@@ -1400,7 +1400,6 @@ effigies
 eductive
 effigurate
 effiguration
-efflagitate
 efflate
 efflation
 effleurage
@@ -10233,6 +10232,7 @@ ethambutol
 ethan
 ethanal
 ethanamide
+efflagitate
 ethanedial
 ethanediol
 expurgatorial
