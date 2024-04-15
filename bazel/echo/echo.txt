@@ -4745,7 +4745,6 @@ encinillo
 extroverted
 ethnobotanical
 encipher
-ease
 enciphered
 encipherer
 enciphering
@@ -12561,6 +12560,7 @@ exilarch
 exilarchate
 exile
 excogitated
+ease
 excambion
 exiled
 excursion

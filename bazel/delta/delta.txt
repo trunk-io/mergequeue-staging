@@ -14657,6 +14657,7 @@ docity
 dock
 dockage
 dockages
+dooms
 docked
 docken
 docker
@@ -15562,7 +15563,6 @@ doomfully
 doomfulness
 dooming
 doomlike
-dooms
 doomsayer
 doomsday
 doomsdays
