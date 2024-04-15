@@ -3583,7 +3583,6 @@ bathychrome
 bathycolpian
 bathycolpic
 bathyesthesia
-bathygraphic
 belatticed
 bathyhyperesthesia
 bathyhypesthesia
@@ -6211,6 +6210,7 @@ beneficience
 beneficient
 beneficing
 beneficium
+bathygraphic
 benefit
 benefited
 benefiter
