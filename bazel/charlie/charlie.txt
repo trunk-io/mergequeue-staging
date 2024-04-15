@@ -3409,6 +3409,7 @@ caputium
 caque
 caquet
 caqueterie
+chiasmata
 caqueteuse
 caqueteuses
 caquetio
@@ -10211,7 +10212,6 @@ chiasm
 chiasma
 chiasmal
 chiasmas
-chiasmata
 chiasmatic
 chiasmatype
 chiasmatypy
