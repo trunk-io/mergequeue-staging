@@ -7651,6 +7651,7 @@ alcoate
 alcogel
 alcogene
 alcohate
+alphabetology
 alcohol
 alcoholate
 alcoholature
@@ -9317,7 +9318,6 @@ alphabetizer
 alphabetizers
 alphabetizes
 alphabetizing
-alphabetology
 alphabets
 alphameric
 alphamerically
