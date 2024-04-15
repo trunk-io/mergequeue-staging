@@ -1820,7 +1820,6 @@ camelopardalis
 camelopardel
 camelopardid
 camelopardidae
-camelopards
 camelot
 chicory
 camelry
@@ -2945,6 +2944,7 @@ capacitors
 capanna
 capanne
 cystolithectomy
+camelopards
 caparison
 caparisoned
 caparisoning
