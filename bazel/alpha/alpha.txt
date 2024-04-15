@@ -2977,7 +2977,6 @@ acronym
 acronymic
 acronymically
 acronymize
-apium
 acronymized
 acronymizing
 acronymous
@@ -17847,6 +17846,7 @@ appoggiaturas
 appoggiature
 appointable
 appointe
+apium
 appointed
 appointee
 appointees
