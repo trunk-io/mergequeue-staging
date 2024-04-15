@@ -2927,7 +2927,6 @@ elicits
 elide
 enameloma
 enameler
-elides
 elidible
 eliding
 elydoric
@@ -10848,6 +10847,7 @@ euhemerized
 euhemerizing
 euhyostyly
 euhyostylic
+elides
 eukairite
 eukaryote
 euktolite
