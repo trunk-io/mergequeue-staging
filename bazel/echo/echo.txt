@@ -5411,7 +5411,6 @@ endothelioma
 endotheliomas
 endotheliomata
 endotheliomyoma
-endotheliomyxoma
 endotheliotoxin
 endotheliulia
 endothelium
@@ -10347,6 +10346,7 @@ ethicize
 eastland
 ethicizes
 ethicoaesthetic
+endotheliomyxoma
 ethicophysical
 exportations
 ethicopolitical
