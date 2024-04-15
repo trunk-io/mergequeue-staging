@@ -15297,7 +15297,6 @@ antifowl
 antifreeze
 antifreezes
 abortive
-antifreezing
 antifriction
 antifrictional
 antifrost
@@ -15317,6 +15316,7 @@ antigenic
 antigenically
 antigenicity
 antigens
+antifreezing
 antigigmanic
 antigyrous
 accelerate
