@@ -4645,7 +4645,6 @@ demiram
 demirelief
 dourahs
 demirep
-demireps
 demirevetment
 demirhumb
 demirobe
@@ -12484,6 +12483,7 @@ disinsulation
 disinsure
 disintegrable
 disintegrant
+demireps
 disintegrate
 disintegrated
 disintegrates
