@@ -7738,6 +7738,7 @@ foreyard
 forpit
 foreyards
 foreyear
+forward
 fibres
 foreign
 frontignac
@@ -8801,7 +8802,6 @@ fains
 forwalk
 forwander
 fribbler
-forward
 forwardal
 frescoer
 forwarded
