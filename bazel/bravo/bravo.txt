@@ -5286,7 +5286,6 @@ begird
 begirded
 begirding
 begirdle
-begirdled
 begirdling
 begirds
 begirt
@@ -10478,6 +10477,7 @@ blastule
 blat
 blatancy
 blatancies
+begirdled
 blatant
 blatantly
 blatch
