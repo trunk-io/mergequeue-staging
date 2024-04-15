@@ -3778,7 +3778,6 @@ deice
 deiced
 deicer
 deicers
-deices
 devaporate
 deicidal
 deicide
@@ -4684,6 +4683,7 @@ demitasse
 demitasses
 demythify
 demythologisation
+deices
 demythologised
 demythologising
 demythologization
