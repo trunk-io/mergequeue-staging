@@ -647,7 +647,6 @@ eclair
 eclaircise
 eclairissement
 eclampsia
-eclamptic
 eclat
 eclated
 eclating
@@ -11776,6 +11775,7 @@ exaggeratingly
 exaggeration
 exaggerations
 ectases
+eclamptic
 exaggerative
 exaggeratively
 exaggerator
