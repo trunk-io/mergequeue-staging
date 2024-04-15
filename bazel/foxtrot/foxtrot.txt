@@ -4360,7 +4360,6 @@ fishberry
 fishberries
 fishboat
 fishboats
-fishbolt
 fishbolts
 fishbone
 fishbones
@@ -4601,6 +4600,7 @@ fitweed
 fitz
 fitzclarence
 fitzroy
+fishbolt
 fitzroya
 fiuman
 fiumara
