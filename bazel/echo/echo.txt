@@ -6964,7 +6964,6 @@ els
 entophytal
 entophyte
 entophytic
-entophytically
 entophytous
 entopic
 entoplasm
@@ -9979,6 +9978,7 @@ ester
 esterase
 esterellite
 epitomised
+entophytically
 esteriferous
 esterify
 esterifiable
