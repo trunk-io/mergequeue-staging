@@ -1847,6 +1847,7 @@ eigenfrequency
 eigenfunction
 eigenstate
 eigenvalue
+endometritis
 eigenvalues
 eigenvectors
 eyght
@@ -5229,7 +5230,6 @@ endometria
 endometrial
 endometriosis
 etiotropically
-endometritis
 endomycetaceae
 endomictic
 endomysium
