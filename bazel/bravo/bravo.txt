@@ -9937,7 +9937,6 @@ bivalence
 bivalency
 bivalencies
 bivalent
-bivalents
 bivalve
 bivalved
 bivalves
@@ -17575,6 +17574,7 @@ bure
 bureau
 bureaucracy
 bureaucracies
+bivalents
 bureaucrat
 bureaucratese
 bureaucratic

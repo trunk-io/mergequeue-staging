@@ -16726,7 +16726,6 @@ drape
 drapeability
 draped
 draperess
-drapery
 draperied
 disregards
 draperies
@@ -17567,6 +17566,7 @@ drumlike
 drumlin
 drumline
 drumlinoid
+drapery
 drumlins
 drumloid
 drumloidal
