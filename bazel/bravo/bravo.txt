@@ -1741,6 +1741,7 @@ balow
 balr
 blending
 bals
+batching
 balsa
 balsam
 balsamaceous
@@ -3524,7 +3525,6 @@ batched
 batcher
 batchers
 batches
-batching
 bate
 bargemen
 batea

@@ -701,6 +701,7 @@ famishment
 famose
 famous
 famously
+foredate
 famousness
 famp
 famular
@@ -7606,7 +7607,6 @@ foreday
 foredays
 fivefoldness
 fleabiting
-foredate
 foredated
 folliful
 foredating
