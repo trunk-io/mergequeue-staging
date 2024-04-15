@@ -6161,6 +6161,7 @@ glusid
 gluside
 glut
 glutamate
+grin
 glutamates
 glutamic
 gallegan
@@ -9037,7 +9038,6 @@ griping
 grimoire
 grimsir
 grimsire
-grin
 grinch
 grincome
 grind
