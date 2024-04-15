@@ -12599,7 +12599,6 @@ dyslexics
 disli
 dislicense
 dislikable
-dislike
 dislikeable
 disliked
 dislikeful
@@ -15923,6 +15922,7 @@ dotation
 dotations
 dotchin
 disdeceive
+dislike
 detestably
 dote
 doted
