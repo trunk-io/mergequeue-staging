@@ -4361,7 +4361,6 @@ fishberries
 fishboat
 fishboats
 fishbolt
-fishbolts
 fishbone
 fishbones
 fadingness
@@ -7975,6 +7974,7 @@ foreshadow
 fondak
 foreshadowed
 foreshadower
+fishbolts
 foreshadowing
 fingery
 foreshadows
