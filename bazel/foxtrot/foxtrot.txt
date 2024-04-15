@@ -7799,7 +7799,6 @@ foreleg
 forelegs
 forelimbs
 forelive
-forelock
 forelocks
 florilege
 forelook
@@ -8723,6 +8722,7 @@ furcellaria
 fortier
 forties
 fortieth
+forelock
 fortieths
 fortify
 fortification
