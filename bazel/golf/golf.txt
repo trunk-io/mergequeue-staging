@@ -968,6 +968,7 @@ gametoid
 gynerium
 gametophagia
 gametophyll
+graphitization
 gonopodium
 gametophyte
 gametophytic
@@ -8183,7 +8184,6 @@ graphitic
 gleeked
 graphitizable
 galaxian
-graphitization
 graphitize
 graphitized
 gallophobia
