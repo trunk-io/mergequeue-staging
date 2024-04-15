@@ -596,7 +596,6 @@ galleting
 gallfly
 geodesics
 gallflies
-galli
 gally
 galliambic
 galliambus
@@ -3923,6 +3922,7 @@ gnathostomatous
 gibsons
 gibstaff
 gibus
+galli
 gibuses
 gid
 giddap
