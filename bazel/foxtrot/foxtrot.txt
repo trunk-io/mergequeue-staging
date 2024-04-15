@@ -7147,7 +7147,6 @@ foolishly
 fibrinate
 fleapit
 foolmonger
-foolocracy
 foolproofness
 fools
 fatherling
@@ -10926,6 +10925,7 @@ fullfaces
 fullfil
 fictile
 fullgrownness
+foolocracy
 ferrosilicon
 fullhearted
 falcer
