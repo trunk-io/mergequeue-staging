@@ -5892,7 +5892,6 @@ bellwethers
 bellwind
 bellwine
 bellwood
-bellwort
 beloam
 belock
 beloeilite
@@ -6388,6 +6387,7 @@ benzanthracene
 benzanthrone
 bocklogged
 benzantialdoxime
+bellwort
 benzazimide
 benzazine
 benzazole
