@@ -6832,7 +6832,6 @@ berry
 berrybush
 bromophenol
 berrichon
-berrichonne
 berrier
 berries
 berrigan
@@ -9031,6 +9030,7 @@ biogeochemistry
 biogeographers
 biogeography
 biogeographic
+berrichonne
 buckplate
 biogeographical
 biogeographically
