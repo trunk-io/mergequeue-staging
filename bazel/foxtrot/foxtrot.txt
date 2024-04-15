@@ -6314,7 +6314,6 @@ fluffs
 flugel
 flugelhorn
 flugelman
-flugelmen
 fluible
 forslake
 fluid
@@ -10803,6 +10802,7 @@ ferntickle
 fucate
 fucation
 fuchi
+flugelmen
 fuchsia
 flacked
 fuchsian
