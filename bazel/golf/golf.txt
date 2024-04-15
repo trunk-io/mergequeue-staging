@@ -4242,7 +4242,6 @@ gymnasic
 gymnasisia
 gymnasisiums
 gymnasium
-gymnasiums
 gymnast
 gymnastic
 gymnastically
@@ -7098,6 +7097,7 @@ gercrow
 gooselike
 gooseliver
 goosemouth
+gymnasiums
 grailing
 gooseneck
 goosenecked
