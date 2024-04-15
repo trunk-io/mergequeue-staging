@@ -8636,7 +8636,6 @@ billbeetle
 billboard
 billboards
 billbroking
-billbug
 billed
 biller
 billers
@@ -16766,6 +16765,7 @@ budmash
 budorcas
 buds
 biorythmic
+billbug
 budtime
 buduma
 budwood
