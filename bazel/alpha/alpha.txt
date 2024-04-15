@@ -1967,6 +1967,7 @@ acervulus
 aces
 acescence
 acescency
+allograph
 acescent
 acescents
 aceship
@@ -8842,7 +8843,6 @@ allogeneous
 allogenic
 allogenically
 allograft
-allograph
 allographic
 alloy
 alloyage
