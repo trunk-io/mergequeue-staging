@@ -5003,7 +5003,6 @@ denarius
 denaro
 denasalize
 denasalized
-denasalizing
 denat
 denationalisation
 denationalise
@@ -5518,6 +5517,7 @@ deoxyribonucleotide
 deoxyribose
 deozonization
 deozonize
+denasalizing
 deozonizer
 dep
 depa
