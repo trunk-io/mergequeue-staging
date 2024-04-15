@@ -10003,7 +10003,6 @@ friedcake
 friedelite
 friedman
 friedrichsdor
-friend
 friended
 friending
 friendless
@@ -11608,6 +11607,7 @@ fussbudgety
 fussbudgets
 farcers
 fussed
+friend
 fusser
 fussers
 fusses
