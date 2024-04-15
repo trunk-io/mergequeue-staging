@@ -4773,6 +4773,7 @@ aedoeagus
 aedoeology
 aefald
 aefaldy
+ampholytic
 aefaldness
 aefauld
 aegagri
@@ -11281,7 +11282,6 @@ amphogeny
 amphogenic
 amphogenous
 ampholyte
-ampholytic
 amphophil
 amphophile
 amphophilic
