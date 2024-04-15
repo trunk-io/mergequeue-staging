@@ -5653,6 +5653,7 @@ enforest
 enfork
 enform
 elapinae
+escheat
 enfort
 enforth
 enfortune
@@ -9556,7 +9557,6 @@ eschaufe
 epistemology
 eschaunge
 exploitations
-escheat
 escheatable
 escheatage
 escheated

@@ -17421,6 +17421,7 @@ cobleskill
 cobless
 cobloaf
 cobnut
+culturize
 cobnuts
 cobol
 cobola
@@ -30873,7 +30874,6 @@ cultures
 culturing
 culturist
 culturization
-culturize
 culturology
 culturological
 culturologically
