@@ -17024,7 +17024,6 @@ coadequate
 coadjacence
 coadjacency
 coadjacent
-coadjacently
 coadjudicator
 coadjument
 coadjust
@@ -24906,6 +24905,7 @@ corbelled
 corbelling
 corbels
 corbet
+coadjacently
 corby
 corbicula
 corbiculae
