@@ -492,7 +492,6 @@ falconbill
 falconers
 falcones
 fiscally
-falconet
 falconets
 falconidae
 falconiform
@@ -5238,6 +5237,7 @@ flavone
 flavonoid
 flavonol
 flavonols
+falconet
 frailest
 flavoprotein
 flagships
