@@ -602,6 +602,7 @@ falsie
 foredetermination
 falsies
 falsify
+foo
 falsifiability
 falsifiable
 falsificate
@@ -7099,7 +7100,6 @@ fontinalis
 fontinas
 fratercula
 fonts
-foo
 foochow
 foochowese
 food
