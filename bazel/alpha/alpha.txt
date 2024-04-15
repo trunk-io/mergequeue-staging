@@ -6849,6 +6849,7 @@ aorist
 airbrick
 airbrush
 airbrushed
+appeasement
 airbrushing
 airburst
 airbursts
@@ -17631,7 +17632,6 @@ appeasableness
 appeasably
 appease
 appeased
-appeasement
 appeasements
 appeaser
 archigaster
