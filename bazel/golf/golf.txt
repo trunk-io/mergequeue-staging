@@ -3031,6 +3031,7 @@ geodetic
 gemstones
 geodetical
 gendarmerie
+graying
 geodetically
 geodetician
 geodetics
@@ -7742,7 +7743,6 @@ grated
 grayhair
 grayhead
 grayhound
-graying
 grayish
 gaycat
 grail
