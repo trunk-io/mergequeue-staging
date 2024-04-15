@@ -1193,6 +1193,7 @@ abuzz
 abv
 abvolt
 abvolts
+anim
 abwab
 abwatt
 abwatts
@@ -13137,7 +13138,6 @@ anilla
 anilopyrin
 anilopyrine
 anils
-anim
 anima
 animability
 animable
