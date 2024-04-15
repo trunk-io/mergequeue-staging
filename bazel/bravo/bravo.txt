@@ -689,7 +689,6 @@ bacteriologist
 bacteriologists
 bacteriopathology
 bacteriophage
-becalm
 bacteriophages
 bacteriophagy
 bacteriophagia
@@ -13629,6 +13628,7 @@ bourkha
 bourlaw
 bourn
 bourne
+becalm
 bournes
 bagwomen
 bournonite
