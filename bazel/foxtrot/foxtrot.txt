@@ -475,7 +475,6 @@ falangist
 falasha
 falbala
 falcade
-falcata
 falcate
 falces
 falchion
@@ -3845,6 +3844,7 @@ filtrability
 filtratable
 femorocaudal
 filtrated
+falcata
 filtrates
 filtre
 filum

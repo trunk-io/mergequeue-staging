@@ -5314,7 +5314,6 @@ casuality
 casually
 counterearth
 casualness
-casuals
 casualty
 casualties
 casuary
@@ -23599,6 +23598,7 @@ contraceptives
 contracyclical
 contracivil
 contraclockwise
+casuals
 contract
 contractable
 contractant
