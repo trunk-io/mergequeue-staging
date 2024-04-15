@@ -1452,6 +1452,7 @@ accents
 accentuable
 accentual
 accentually
+arerola
 accentuated
 accentuates
 accentuator
@@ -19401,7 +19402,6 @@ androgametangium
 areostyle
 areotectonics
 arere
-arerola
 areroscope
 arest
 aret
