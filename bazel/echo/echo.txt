@@ -2234,7 +2234,6 @@ electable
 electant
 electary
 elected
-enthraldom
 electees
 electic
 electicism
@@ -6641,6 +6640,7 @@ enterocleisis
 excluding
 enteroclisis
 enteroclysis
+enthraldom
 eliminability
 enterococcal
 enterococcus
