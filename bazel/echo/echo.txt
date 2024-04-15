@@ -2867,6 +2867,7 @@ equiprobability
 elevation
 elevational
 eucalypt
+enjoyer
 elevations
 elevato
 elevator
@@ -5982,7 +5983,6 @@ enjoyable
 enjoyably
 enjoyed
 exocarp
-enjoyer
 enjoyers
 enjoying
 enjoyingly
