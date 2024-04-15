@@ -10103,7 +10103,6 @@ dindling
 dindon
 dine
 dyne
-dined
 dynel
 diner
 dinergate
@@ -15809,6 +15808,7 @@ dorsiflex
 dorsiflexion
 dorsigerous
 dorsigrade
+dined
 dorsilateral
 dorsimeson
 denegate
