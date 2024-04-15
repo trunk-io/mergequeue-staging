@@ -7775,6 +7775,7 @@ aldose
 aldoses
 aldoside
 aldosterone
+arsenization
 aldosteronism
 aldrin
 aldrins
@@ -20376,7 +20377,6 @@ arsenium
 arseniuret
 arseniureted
 arseniuretted
-arsenization
 arseno
 arsenobenzene
 arsenobenzol
