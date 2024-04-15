@@ -5904,7 +5904,6 @@ belonephobia
 belonesite
 belong
 belonged
-belonger
 belonging
 belongings
 belongs
@@ -17865,6 +17864,7 @@ burrowers
 burrowing
 burrows
 burrowstown
+belonger
 benevolent
 burrs
 burrstone
