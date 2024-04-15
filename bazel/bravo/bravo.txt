@@ -2305,7 +2305,6 @@ barathra
 barathron
 barathrum
 barato
-bugbears
 baratte
 barauna
 baraza
@@ -13918,6 +13917,7 @@ brabbled
 brabblement
 brabbler
 brabblers
+bugbears
 brabbling
 brabblingly
 brabejum
