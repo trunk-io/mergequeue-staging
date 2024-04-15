@@ -26877,7 +26877,6 @@ counterindented
 counterindicate
 counterindication
 counterindoctrinate
-counterindoctrination
 counterinfluence
 counterinsult
 counterinsurgency
@@ -31690,6 +31689,7 @@ cuspidors
 cuspids
 cusping
 cuspis
+counterindoctrination
 cusps
 cuspule
 cussed

@@ -134,6 +134,7 @@ babysitter
 babysitting
 babism
 babist
+benzimidazole
 babka
 babkas
 bablah
@@ -6415,7 +6416,6 @@ benzylic
 benzylidene
 benzylpenicillin
 benzyls
-benzimidazole
 benziminazole
 benzin
 benzinduline
