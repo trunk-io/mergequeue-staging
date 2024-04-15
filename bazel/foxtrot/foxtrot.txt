@@ -1939,6 +1939,7 @@ feds
 fee
 feeable
 flavin
+findable
 feeb
 fadelessly
 feeble
@@ -3925,7 +3926,6 @@ finchery
 finches
 find
 findability
-findable
 findal
 finders
 findfault
