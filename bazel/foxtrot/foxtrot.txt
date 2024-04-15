@@ -1092,6 +1092,7 @@ fordone
 farragos
 farrand
 flyaways
+fractureproof
 farrant
 farreachingly
 farreate
@@ -9240,7 +9241,6 @@ fractur
 fracturable
 fractural
 fractured
-fractureproof
 fractures
 fracturing
 fracturs
