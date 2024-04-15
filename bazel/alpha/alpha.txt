@@ -2406,7 +2406,6 @@ acidhead
 acidheads
 acidy
 acidic
-acidiferous
 acidify
 acidifiable
 acidifiant
@@ -11503,6 +11502,7 @@ anacatadidymus
 anacatharsis
 anacathartic
 anacephalaeosis
+acidiferous
 anacephalize
 anaces
 anacharis
