@@ -8742,7 +8742,6 @@ equipollent
 equipollently
 euphemizing
 equipollentness
-equiponderance
 equiponderancy
 equiponderant
 equiponderate
@@ -9181,6 +9180,7 @@ erythrodegenerative
 ephebeum
 erythrodermia
 erythrogen
+equiponderance
 etuve
 erythrogenesis
 erythrogenic
