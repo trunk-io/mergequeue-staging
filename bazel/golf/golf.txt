@@ -2565,7 +2565,6 @@ gemmologist
 gemmologists
 gemmulation
 gemmule
-gemmuliferous
 graniferous
 gemological
 gemologies
@@ -9231,6 +9230,7 @@ groans
 gammer
 groats
 groatsworth
+gemmuliferous
 gunsmithery
 grobian
 grobianism
