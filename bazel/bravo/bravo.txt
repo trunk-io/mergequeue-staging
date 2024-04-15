@@ -5376,7 +5376,6 @@ begster
 beguard
 beguess
 beguile
-beguileful
 beguilement
 beguilements
 beguiler
@@ -7181,6 +7180,7 @@ besprizorni
 bespurred
 bespurt
 besputter
+beguileful
 bencher
 besqueeze
 besquib
