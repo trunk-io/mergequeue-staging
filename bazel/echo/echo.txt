@@ -2155,7 +2155,6 @@ elatinaceous
 elatine
 elating
 elation
-elations
 elative
 elatives
 elator
@@ -12065,6 +12064,7 @@ excitomotor
 excitomotory
 exciton
 excitonic
+elations
 excitons
 espier
 excitonutrient
