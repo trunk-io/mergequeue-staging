@@ -5008,7 +5008,6 @@ glacioaqueous
 glaciolacustrine
 glaciology
 glaciologic
-glaciological
 glaciologist
 gyrostatics
 glaciologists
@@ -6940,6 +6939,7 @@ gonopodial
 gonopodpodia
 gonopoietic
 gonopore
+glaciological
 gonopores
 gonorrhea
 gonorrhoea
