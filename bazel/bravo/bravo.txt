@@ -2171,7 +2171,6 @@ bannermen
 berried
 bannerole
 bannerols
-bannerwise
 bannet
 bannets
 bannimus
@@ -4868,6 +4867,7 @@ beduins
 beduke
 bedull
 bedumb
+bannerwise
 becripple
 bedumbed
 bedumbing
