@@ -2562,6 +2562,7 @@ electrophysiology
 electrophysiological
 electrophysiologically
 electrophysiologist
+equivaliant
 electrophobia
 electrophone
 electrophonically
@@ -8803,7 +8804,6 @@ equivalencing
 equivalent
 equivalently
 equivalents
-equivaliant
 equivalue
 equivaluer
 equivalve
