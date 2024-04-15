@@ -9403,6 +9403,7 @@ foreteeth
 foreaccustom
 frangulic
 frangulin
+franticness
 franion
 frank
 frankability
@@ -9454,7 +9455,6 @@ frantic
 frantically
 franticly
 freeloading
-franticness
 flybook
 franz
 franzy
