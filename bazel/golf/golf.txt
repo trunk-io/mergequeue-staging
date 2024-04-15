@@ -3648,7 +3648,6 @@ getspa
 getsul
 gnawingly
 guidons
-gettableness
 gettering
 getting
 gettings
@@ -7878,6 +7877,7 @@ gaddish
 grampuses
 grams
 grana
+gettableness
 granada
 granadilla
 granadillo

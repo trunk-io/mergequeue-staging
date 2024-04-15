@@ -10012,7 +10012,6 @@ esthesiology
 esthesiometer
 esthesiometry
 esthesiometric
-esthesioneurosis
 esthesiophysiology
 esthesis
 esthete
@@ -14101,6 +14100,7 @@ extruct
 extrudability
 extrudable
 excussion
+esthesioneurosis
 extrude
 extruded
 extruder
