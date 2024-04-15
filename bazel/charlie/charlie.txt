@@ -16831,7 +16831,6 @@ clubmobile
 clubmonger
 clubridden
 clubroom
-clubrooms
 clubroot
 clubroots
 clubs
@@ -30853,6 +30852,7 @@ cultivative
 cultivator
 cultivators
 cultive
+clubrooms
 cultrate
 cultrated
 cultriform
