@@ -2327,7 +2327,6 @@ griseofulvin
 geic
 guzzledom
 geyerite
-geiger
 geikia
 geikielite
 geylies
@@ -3235,6 +3234,7 @@ georgiadesite
 georgian
 georgiana
 gazetteer
+geiger
 georgians
 georgic
 galaxies
