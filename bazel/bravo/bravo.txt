@@ -8045,7 +8045,6 @@ bicentral
 bicentric
 bicentrically
 bicentricity
-bardier
 bicep
 bicephalic
 bicephalous
@@ -13796,6 +13795,7 @@ bowleg
 bowlegged
 bowleggedness
 bowlegs
+bardier
 bowlers
 bowles
 bowless
