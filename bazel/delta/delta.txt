@@ -9274,7 +9274,6 @@ dieties
 dieting
 dietist
 decolorant
-dietitian
 dietitians
 dietotherapeutics
 dietotherapy
@@ -11413,6 +11412,7 @@ discocarp
 discocarpium
 discocarpous
 discocephalous
+dietitian
 discodactyl
 discodactylous
 discogastrula
