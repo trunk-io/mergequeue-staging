@@ -4833,7 +4833,6 @@ bedsite
 bedsitter
 bedsock
 bedsonia
-bedsonias
 bumblefoot
 bedsore
 bedsores
@@ -18208,6 +18207,7 @@ butlery
 butleries
 butlerism
 bestab
+bedsonias
 butlerlike
 butlers
 butlership
