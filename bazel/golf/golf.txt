@@ -7651,6 +7651,7 @@ gradely
 grademark
 grader
 grades
+gubernacular
 gradgrind
 gradgrindian
 gradgrindish
@@ -9984,7 +9985,6 @@ gubbings
 gubbins
 gubbo
 guberla
-gubernacular
 gubernaculum
 grayer
 gubernance
