@@ -1234,7 +1234,6 @@ ganza
 ganzie
 gynostemia
 gaol
-gaolage
 gaoled
 gaoler
 gaolering
@@ -3789,6 +3788,7 @@ ghostlikeness
 ghostlily
 ghostliness
 ghostmonger
+gaolage
 ghostology
 grassation
 gol
