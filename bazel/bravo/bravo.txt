@@ -1222,7 +1222,6 @@ beslaver
 bakersfield
 bakership
 bakes
-bakeshop
 bakeshops
 bakestone
 bakhtiari
@@ -6569,6 +6568,7 @@ bepuzzle
 bepuzzlement
 bequalm
 bequeath
+bakeshop
 bequeathable
 bequeathal
 bequeathed
