@@ -491,6 +491,7 @@ eccritic
 ecdemic
 ecderon
 ecderonic
+excerptible
 ecdyses
 ecdysial
 ecdysiast
@@ -2379,7 +2380,6 @@ electrodiagnosis
 electrodiagnostic
 electrodiagnostically
 electrodialyses
-excerptible
 electrodialysis
 electrodialitic
 electrodialytic
