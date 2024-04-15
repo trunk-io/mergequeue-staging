@@ -2129,7 +2129,6 @@ banknotes
 bankrider
 bankroll
 bankrolled
-bankroller
 bankrolling
 bankrolls
 bankrupcy
@@ -16308,6 +16307,7 @@ brulyies
 brulot
 brulots
 brulzie
+bankroller
 brulzies
 brum
 brumaire
