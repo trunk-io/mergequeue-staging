@@ -2926,7 +2926,6 @@ elicitors
 elicits
 elide
 enameloma
-elided
 enameler
 elides
 elidible
@@ -5057,6 +5056,7 @@ eyer
 endiaper
 endict
 endyma
+elided
 endymal
 endimanche
 epiparodos
