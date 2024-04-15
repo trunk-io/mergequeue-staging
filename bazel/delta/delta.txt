@@ -2692,7 +2692,6 @@ discerners
 decontrol
 dustoor
 dvornik
-depasture
 decontrolled
 dermahemia
 decontrols
@@ -13466,6 +13465,7 @@ dissector
 dissectors
 dissects
 disseise
+depasture
 disseisee
 disseises
 disseisoress

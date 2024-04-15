@@ -4643,6 +4643,7 @@ gypsiologist
 gipsire
 gypsyry
 gypsite
+gliomas
 gipsyweed
 gypsyweed
 gypsywise
@@ -5587,7 +5588,6 @@ glint
 glinting
 gliocyte
 glioma
-gliomas
 gliomatous
 gliosa
 glyoxal
