@@ -7558,7 +7558,6 @@ gapes
 gpcd
 gpd
 gpm
-gps
 gr
 gra
 glucogenic
@@ -7654,6 +7653,7 @@ gradgrindian
 gradgrindish
 grigs
 gradgrindism
+gps
 gradient
 gradientia
 gamopetalae
