@@ -5976,7 +5976,6 @@ glost
 glosts
 glottal
 glottalite
-glottalization
 glottalize
 gymnurinae
 glottalized
@@ -10484,6 +10483,7 @@ gunfought
 gearless
 gung
 gunge
+glottalization
 gunhouse
 gunyah
 gunyeh
