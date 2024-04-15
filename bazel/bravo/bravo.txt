@@ -14780,6 +14780,7 @@ breadnuts
 breadroot
 breads
 breadseller
+brusque
 breadstitch
 breadstuff
 burnet
@@ -16405,7 +16406,6 @@ bruskest
 bruskly
 bruskness
 benames
-brusque
 brusquely
 brusqueness
 brusquer
