@@ -7534,7 +7534,6 @@ cerebrasthenic
 cerebrate
 cerebrated
 cerebrates
-cerebrating
 cerebration
 cerebrational
 cerebrations
@@ -21387,6 +21386,7 @@ concitation
 concite
 concitizen
 conclamant
+cerebrating
 conclamation
 conclave
 conclaves
