@@ -7,7 +7,6 @@ gabarit
 geogonical
 gabback
 gabbai
-gabbard
 goutier
 geckos
 gabbards
@@ -6087,6 +6086,7 @@ gluconeogenic
 gluconokinase
 glucoprotein
 glucosaemia
+gabbard
 glucosamine
 glucosan
 glucosane
