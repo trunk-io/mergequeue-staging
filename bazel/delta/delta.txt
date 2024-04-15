@@ -1059,7 +1059,6 @@ darnex
 darning
 darns
 daroga
-darogah
 darogha
 daroo
 darr
@@ -3014,6 +3013,7 @@ deepness
 deepnesses
 deeps
 deepsome
+darogah
 deepwater
 deepwaterman
 deepwatermen
