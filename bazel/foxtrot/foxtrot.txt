@@ -3807,7 +3807,6 @@ filmsetting
 filmslide
 filmstrip
 filmstrips
-filo
 filoplumaceous
 filoplume
 filopodia
@@ -7972,6 +7971,7 @@ foresense
 foremanship
 foresentence
 foreset
+filo
 foresettled
 foreshadow
 fondak
