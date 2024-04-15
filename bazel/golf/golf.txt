@@ -70,7 +70,6 @@ gablewise
 gabling
 gablock
 gabon
-gaboon
 greaten
 gaboons
 gabriel
@@ -5416,6 +5415,7 @@ gliadins
 glaucophane
 glib
 glibber
+gaboon
 glibbery
 glibly
 glibness
