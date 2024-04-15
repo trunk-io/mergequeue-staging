@@ -6073,7 +6073,6 @@ bemusement
 bemuses
 bemusk
 bemuslined
-bemuzzle
 bemuzzled
 bol
 bemuzzles
@@ -9318,6 +9317,7 @@ bagman
 biplane
 backlands
 bobolink
+bemuzzle
 biplanes
 biplicate
 biplicity
