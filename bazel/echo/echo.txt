@@ -4227,6 +4227,7 @@ ensured
 epopt
 emplore
 emplume
+eyeline
 emplunge
 empocket
 empodia
@@ -5593,7 +5594,6 @@ enfever
 enfevered
 enfevering
 enfevers
-eyeline
 enfief
 enfield
 enfierce
