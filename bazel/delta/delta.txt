@@ -1165,7 +1165,6 @@ dasypod
 dasypodidae
 dasypodoid
 dasyproctidae
-dasystephana
 dasyure
 dasyures
 dasyurid
@@ -5402,6 +5401,7 @@ denudate
 denudated
 denudates
 denudating
+dasystephana
 denudation
 dehusk
 denudational

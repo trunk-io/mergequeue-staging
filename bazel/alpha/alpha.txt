@@ -1640,6 +1640,7 @@ accomodate
 accompanable
 accompany
 arrivage
+antihypophora
 accompanied
 accompanier
 australorp
@@ -15384,7 +15385,6 @@ antihypertensives
 antihypnotic
 antihypnotically
 antihypochondriac
-antihypophora
 antihistamine
 antihistamines
 antihistaminic
