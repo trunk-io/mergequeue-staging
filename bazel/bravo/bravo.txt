@@ -2255,7 +2255,6 @@ baptise
 baptised
 baptises
 baptisia
-baptisias
 baptisin
 baptising
 baptism
@@ -13270,6 +13269,7 @@ botargo
 botargos
 botas
 botaurinae
+baptisias
 botaurus
 botch
 botched
