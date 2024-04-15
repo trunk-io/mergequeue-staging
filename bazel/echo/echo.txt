@@ -337,6 +337,7 @@ eavesing
 ebauchoir
 ebb
 ebbed
+electrophysiological
 ebbet
 ebbets
 embody
@@ -2556,7 +2557,6 @@ electrophilic
 electrophysicist
 electrophysics
 electrophysiology
-electrophysiological
 electrophysiologically
 electrophysiologist
 equivaliant
