@@ -921,7 +921,6 @@ gamey
 gamekeeper
 gamekeepers
 gamekeeping
-gamelan
 gamelang
 gamelans
 gameless
@@ -10797,6 +10796,7 @@ guttulae
 guttulate
 guttule
 gulpier
+gamelan
 gateman
 guttulous
 guttur
