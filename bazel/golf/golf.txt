@@ -5772,7 +5772,6 @@ glochidian
 glochidiate
 glochidium
 glochids
-glochines
 glochis
 glockenspiel
 glockenspiels
@@ -7550,6 +7549,7 @@ gowpen
 gowpin
 gox
 gozill
+glochines
 gp
 gpad
 groupoids
