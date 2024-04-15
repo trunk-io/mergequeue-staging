@@ -577,7 +577,6 @@ echinorhinidae
 echinorhinus
 echinospermum
 echinosphaeritidae
-echinostoma
 echinostomatidae
 echinostome
 echinostomiasis
@@ -9049,6 +9048,7 @@ eric
 erica
 ericaceae
 ericaceous
+echinostoma
 ericad
 ericales
 ericas
