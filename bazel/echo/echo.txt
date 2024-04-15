@@ -1319,6 +1319,7 @@ effective
 entomologists
 effectively
 effectiveness
+evolved
 effectivity
 effector
 effectors
@@ -11676,7 +11677,6 @@ evolutoid
 encephalomere
 evolvable
 evolve
-evolved
 evolvement
 electroretinogram
 evolvent

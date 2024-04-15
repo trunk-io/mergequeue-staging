@@ -16434,7 +16434,6 @@ antiwar
 antiwarlike
 antiwaste
 ameiurus
-antiwear
 antiwedge
 antiweed
 antiwhite
@@ -23060,6 +23059,7 @@ atticize
 atticized
 aeromantic
 atticizing
+antiwear
 atticomastoid
 attics
 attid
