@@ -1865,7 +1865,6 @@ banande
 bananist
 bananivorous
 banat
-banatite
 banausic
 banba
 banbury
@@ -16545,6 +16544,7 @@ buccaro
 buccellarius
 bucchero
 buccheros
+banatite
 buccin
 buccina
 buccinae
