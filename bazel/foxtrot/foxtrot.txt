@@ -5652,7 +5652,6 @@ flimsies
 flimsiest
 flimsily
 florist
-fellowshiped
 flimsilyst
 flimsiness
 flinch
@@ -7760,6 +7759,7 @@ fleetness
 firnismalerei
 faring
 foreimpression
+fellowshiped
 foreinclined
 foreinstruct
 foreintend
