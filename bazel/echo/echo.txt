@@ -4815,7 +4815,6 @@ encodings
 encoffin
 exuviation
 encoffinment
-encoil
 encolden
 encollar
 encolour
@@ -11045,6 +11044,7 @@ euphonous
 euphorbia
 euphorbiaceous
 euphorbial
+encoil
 euphorbine
 euphorbium
 euphory
