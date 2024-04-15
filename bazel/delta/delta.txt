@@ -8189,7 +8189,6 @@ diagnoseable
 diagnosed
 diagnoses
 diagnosis
-diagnostic
 diagnostical
 diagnostically
 diagnosticate
@@ -15302,6 +15301,7 @@ domesticated
 domesticates
 domesticating
 domesticative
+diagnostic
 domesticator
 domesticity
 disenactment
