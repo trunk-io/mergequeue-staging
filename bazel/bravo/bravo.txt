@@ -17186,7 +17186,6 @@ bullition
 bulllike
 bullnecked
 bullnecks
-bullnose
 bullnoses
 bullnut
 bullock
@@ -17423,6 +17422,7 @@ bunglers
 bungles
 bungling
 bunglingly
+bullnose
 bunglings
 bungmaker
 bungo
