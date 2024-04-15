@@ -2890,7 +2890,6 @@ fettucini
 feture
 fetus
 fetuses
-fetwa
 ferrichloride
 feuars
 feucht
@@ -11336,6 +11335,7 @@ furcate
 furcated
 forepiece
 furcates
+fetwa
 furcating
 furcation
 fellen
