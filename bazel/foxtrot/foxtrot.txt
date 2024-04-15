@@ -5422,7 +5422,6 @@ flegm
 fley
 fleyed
 fleyedly
-foolscap
 fleyedness
 fleying
 fleyland
@@ -11244,6 +11243,7 @@ funicles
 funiculars
 flamy
 friborg
+foolscap
 funiculate
 funiculitis
 funiculus
