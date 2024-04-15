@@ -3249,6 +3249,7 @@ anchisaurus
 acton
 actor
 actory
+atactic
 actorish
 actorship
 actos
@@ -17107,7 +17108,6 @@ apocalypses
 apocalypst
 apocalypt
 apocalyptic
-atactic
 apocalyptical
 apocalyptically
 apocalypticism
