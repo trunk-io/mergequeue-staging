@@ -6239,7 +6239,6 @@ aglycon
 aglycone
 aglycones
 aglycons
-aglycosuric
 aglimmer
 aglint
 aglipayan
@@ -21018,6 +21017,7 @@ ascochyta
 anyways
 asparaguses
 ascogenous
+aglycosuric
 ascogone
 ascogonia
 ascogonial
