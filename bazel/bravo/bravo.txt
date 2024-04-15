@@ -11339,7 +11339,6 @@ bluejacks
 bluejays
 bluejoint
 blueleg
-bluelegs
 bluely
 blueline
 bluelines
@@ -17630,6 +17629,7 @@ burgers
 burgess
 brigands
 burgessdom
+bluelegs
 burgesses
 burggrave
 burgh
