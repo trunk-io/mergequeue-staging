@@ -261,7 +261,6 @@ fadedness
 fadednyess
 fadeless
 faden
-fleadock
 fadeout
 fader
 faders
@@ -4810,6 +4809,7 @@ flagonless
 flagons
 fasciolaria
 frontspiece
+fleadock
 flagpole
 flagpoles
 flagrance
