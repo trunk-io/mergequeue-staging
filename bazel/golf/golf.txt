@@ -437,7 +437,6 @@ galeage
 galeas
 galeass
 galeate
-galeated
 galeche
 galee
 gardenable
@@ -1117,6 +1116,7 @@ ganglier
 gangliest
 gleemen
 gangliglions
+galeated
 gangling
 ganglioblast
 gangliocyte
