@@ -6358,7 +6358,6 @@ fluigramme
 frankincensed
 feriation
 fluing
-fluyt
 foulage
 fluitant
 fluyts
@@ -11722,6 +11721,7 @@ fibdom
 fuze
 fuzed
 fuzee
+fluyt
 fuzees
 fuzes
 fuzil
