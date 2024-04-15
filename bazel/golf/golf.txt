@@ -3050,7 +3050,6 @@ geodynamical
 geodynamicist
 geodynamics
 gymnite
-geoduck
 geoducks
 geoemtry
 geoff
@@ -7194,6 +7193,7 @@ gorgio
 gorglin
 gorgon
 gorgonacea
+geoduck
 gorgonacean
 gorgonaceous
 gorgoneia
