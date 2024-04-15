@@ -6636,6 +6636,7 @@ berberry
 berbers
 berceau
 berceaunette
+brothelry
 bercelet
 berceuse
 berceuses
@@ -16141,7 +16142,6 @@ brothe
 brothel
 brotheler
 brothellike
-brothelry
 brothels
 borrowing
 brother
