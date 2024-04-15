@@ -4733,7 +4733,6 @@ dismaying
 demobbed
 demobbing
 demobilisation
-demobilise
 demobilised
 demobilising
 demobilizations
@@ -14727,6 +14726,7 @@ developement
 doctrinaire
 doctrinairism
 delime
+demobilise
 doctrinal
 doctrinalism
 doctrinalist
