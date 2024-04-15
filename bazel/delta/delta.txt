@@ -1502,6 +1502,7 @@ deadcenter
 dilemmas
 deadeye
 deadeyes
+dermatoplasm
 deaden
 deadened
 deadener
@@ -6238,7 +6239,6 @@ dermatophobia
 dermatophone
 dermatophony
 discounted
-dermatoplasm
 dermatoplast
 dermatoplastic
 dermatopnagic
