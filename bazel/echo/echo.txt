@@ -2233,7 +2233,6 @@ electable
 electant
 electary
 elected
-electee
 enthraldom
 electees
 electic
@@ -3438,6 +3437,7 @@ embezzled
 embezzlement
 etiologies
 echeloning
+electee
 embezzlements
 embezzler
 embezzlers
