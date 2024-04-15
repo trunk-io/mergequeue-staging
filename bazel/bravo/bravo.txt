@@ -1404,7 +1404,6 @@ baldie
 baldish
 baldling
 baldmoney
-baldmoneys
 baldness
 baldnesses
 baldoquin
@@ -2061,6 +2060,7 @@ bangles
 bangling
 bangos
 bangs
+baldmoneys
 bangtail
 bangtailed
 bangtails
