@@ -8284,7 +8284,6 @@ faroff
 forgiveably
 flauntier
 forgiveless
-forgiven
 fimetic
 forgiveness
 forgivenesses
@@ -8574,6 +8573,7 @@ formulizer
 formulizing
 formwork
 fornacic
+forgiven
 fornax
 fornaxid
 forncast

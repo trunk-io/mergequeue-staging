@@ -4401,7 +4401,6 @@ enamelist
 enamellar
 eau
 equiped
-enfamish
 euskera
 enamelled
 enameller
@@ -8993,6 +8992,7 @@ ergatomorphism
 ergo
 ergodic
 ergodicity
+enfamish
 ergograph
 ergoism
 ergology
