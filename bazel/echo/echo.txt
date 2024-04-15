@@ -10591,7 +10591,6 @@ etymons
 etiogenic
 etiolate
 etiolated
-etiolates
 etiolating
 etiolation
 etiolize
@@ -11903,6 +11902,7 @@ excalfaction
 excalibur
 excamber
 excandescence
+etiolates
 enlighteningly
 ernesse
 excandescency
