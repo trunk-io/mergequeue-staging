@@ -1097,7 +1097,6 @@ calcographic
 calcrete
 calcsinter
 calcspar
-calcspars
 cotwal
 calctufa
 calctufas
@@ -16479,6 +16478,7 @@ cloddishly
 cydon
 cloddishness
 clodhead
+calcspars
 clodhopper
 clodhoppers
 clodhopping
