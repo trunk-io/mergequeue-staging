@@ -4417,6 +4417,7 @@ enamelwork
 enami
 enamine
 enamines
+epistolist
 enamorado
 enamorate
 enamorato
@@ -8285,7 +8286,6 @@ epistolical
 epistolise
 epistolised
 epistolising
-epistolist
 epistolization
 epistolize
 epistolized
