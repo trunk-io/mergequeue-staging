@@ -849,7 +849,6 @@ gamasid
 gordonia
 gamasidae
 gamasoidea
-gamb
 gamba
 gambade
 gambades
@@ -2197,6 +2196,7 @@ gazetteership
 gazettes
 gazetting
 gazi
+gamb
 gazing
 gazingstock
 gazogene
