@@ -4688,7 +4688,6 @@ advising
 advisive
 advisiveness
 adviso
-advisor
 advisory
 advisories
 advisors
@@ -10026,6 +10025,7 @@ amblychromatic
 amblydactyla
 amblygeusia
 amblygon
+advisor
 amblygonal
 amblygonite
 ambling

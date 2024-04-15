@@ -6342,7 +6342,6 @@ gnomoniaceae
 gnomonic
 gnomonical
 gnomonology
-gnomonologically
 germanious
 gnomons
 gnoses
@@ -8248,6 +8247,7 @@ grapples
 grappling
 grapsidae
 grapsoid
+gnomonologically
 graptolitoidea
 grapsus
 grapta
