@@ -6480,7 +6480,6 @@ epochal
 ensorcels
 ensorcerize
 ensorrow
-ensoul
 ensouled
 eanlings
 enterohepatitis
@@ -6547,6 +6546,7 @@ entailment
 entailments
 entails
 eggshells
+ensoul
 ental
 entalent
 eisegeses
