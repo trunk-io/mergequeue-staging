@@ -7835,6 +7835,7 @@ flushermen
 foremother
 forename
 forenamed
+fumigated
 forenent
 forenews
 forenight
@@ -11057,7 +11058,6 @@ fumiduct
 fumier
 fumiest
 fumify
-fumigated
 fumigating
 fourteenfold
 fumigations
