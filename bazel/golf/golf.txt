@@ -3120,6 +3120,7 @@ geomagnetics
 guestless
 geomagnetism
 geomagnetist
+gurdwara
 geomaly
 geomalic
 geomalism
@@ -10604,7 +10605,6 @@ guptavidya
 gur
 guran
 gurdle
-gurdwara
 gurge
 gurged
 gurgeon
