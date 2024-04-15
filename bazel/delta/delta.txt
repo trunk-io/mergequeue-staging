@@ -11457,7 +11457,6 @@ discolorated
 decarburization
 discoloration
 discolorations
-discolored
 discoloredness
 discoloring
 doest
@@ -18196,6 +18195,7 @@ dunger
 dunghilly
 dunghills
 diaphany
+discolored
 dungy
 dungyard
 dungier
