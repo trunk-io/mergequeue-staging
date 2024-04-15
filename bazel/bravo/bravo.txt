@@ -6155,7 +6155,6 @@ benedictional
 benedictionale
 benedictionary
 benedictions
-benedictive
 benedictively
 benedictory
 benedicts
@@ -10585,6 +10584,7 @@ bleareyed
 belt
 bromating
 bleary
+benedictive
 blearyeyedness
 blearier
 bleariest
