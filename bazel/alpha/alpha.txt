@@ -5147,7 +5147,6 @@ aeschylean
 aeschylus
 astronauts
 aeschynanthus
-aeschynite
 aeschynomene
 aeschynomenous
 aesculaceae
@@ -8090,6 +8089,7 @@ alginuresis
 algiomuscular
 algist
 algivorous
+aeschynite
 algocyan
 algodon
 algodoncillo
