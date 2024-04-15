@@ -3462,7 +3462,6 @@ deforestation
 deforested
 deforester
 deforesting
-deforests
 deform
 deformability
 deformable
@@ -6630,6 +6629,7 @@ desiderta
 desidiose
 desidious
 desight
+deforests
 desightment
 design
 designable
