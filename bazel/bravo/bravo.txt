@@ -459,6 +459,7 @@ backplate
 backpointer
 backrest
 backrope
+bigas
 brimstony
 backropes
 backrun
@@ -11179,7 +11180,6 @@ bracer
 blouse
 bloused
 blouselike
-bigas
 blouses
 blousy
 blousier
