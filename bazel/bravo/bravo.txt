@@ -11356,7 +11356,6 @@ bluer
 blues
 bluesy
 bluesides
-bluesman
 bluesmen
 bluestem
 bluestems
@@ -15664,6 +15663,7 @@ borrovian
 broadsides
 broadspread
 broadsword
+bluesman
 broadswords
 basenet
 boolies
