@@ -457,7 +457,6 @@ backplane
 backplanes
 backplate
 backpointer
-backpointers
 backrest
 backrope
 brimstony
@@ -1391,6 +1390,7 @@ baldaquin
 baldberry
 baldcrown
 balded
+backpointers
 balden
 balder
 balderdash
