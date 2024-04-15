@@ -4936,6 +4936,7 @@ demospongiae
 demosthenean
 demot
 demote
+droplike
 demoted
 demotes
 demothball
@@ -17366,7 +17367,6 @@ dropkicks
 droplet
 droplets
 droplight
-droplike
 dropline
 dropling
 dropman
