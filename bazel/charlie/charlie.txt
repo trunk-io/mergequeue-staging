@@ -18270,7 +18270,6 @@ cogitable
 cogitabund
 cogitabundity
 cogitabundly
-chainstitch
 cogitabundous
 cogitant
 cogitantly
@@ -30616,6 +30615,7 @@ cuddies
 cuddyhole
 cuddle
 cuddleable
+chainstitch
 cuddled
 cuddles
 cuddlesome
