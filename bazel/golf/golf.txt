@@ -562,7 +562,6 @@ galleasses
 gastness
 galled
 galley
-gnomonics
 galleyman
 gallein
 galipoidin
@@ -7367,6 +7366,7 @@ gothicity
 gunflints
 gothicize
 gothicizer
+gnomonics
 gothicness
 gothics
 gothish
