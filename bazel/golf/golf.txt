@@ -1284,7 +1284,6 @@ garad
 garage
 garaged
 gyved
-gowk
 glandless
 garageman
 garages
@@ -3574,6 +3573,7 @@ glykopectic
 gestalts
 gestant
 gastrohysterorrhaphy
+gowk
 gestapo
 grilly
 gestapos
