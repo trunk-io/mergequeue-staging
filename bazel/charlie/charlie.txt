@@ -8963,7 +8963,6 @@ charger
 chargers
 charges
 chargeship
-chargfaires
 chary
 charybdian
 charybdis
@@ -28943,6 +28942,7 @@ cricketed
 cricketer
 cricketers
 cicindelid
+chargfaires
 crickety
 cricketing
 cricketings
