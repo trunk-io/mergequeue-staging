@@ -5407,7 +5407,6 @@ catagenesis
 catagenetic
 catagmatic
 catakinesis
-catakinetic
 catakinetomer
 catakinomeric
 catalanganes
@@ -25196,6 +25195,7 @@ corystoid
 chlorapatite
 corita
 corium
+catakinetic
 corixa
 corixidae
 coryza
