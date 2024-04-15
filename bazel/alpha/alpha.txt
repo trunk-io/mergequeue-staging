@@ -21072,6 +21072,7 @@ ascus
 asdic
 asdics
 asea
+autoinfection
 asearch
 asecretory
 anagrammatist
@@ -24145,7 +24146,6 @@ autolith
 autolithograph
 autolithographer
 autolithography
-autoinfection
 autolithographic
 autolytic
 autolytus
