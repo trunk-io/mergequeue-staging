@@ -5927,7 +5927,6 @@ enhedge
 enhelm
 enhemospore
 enherit
-enheritage
 erinaceus
 enheritance
 enhydra
@@ -14094,6 +14093,7 @@ extroversive
 extroversively
 extrovert
 exhibitant
+enheritage
 extrovertish
 extrovertive
 extrovertively
