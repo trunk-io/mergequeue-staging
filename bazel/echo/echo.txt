@@ -916,7 +916,6 @@ ectosarcous
 ectoskeleton
 eggcupful
 ectosomal
-ectosome
 ectosphenoid
 ectosphenotic
 ehatisaht
@@ -7685,6 +7684,7 @@ epicoeliac
 epicoelian
 epicoeloma
 epicoelous
+ectosome
 epicolic
 elevatory
 epicondylar

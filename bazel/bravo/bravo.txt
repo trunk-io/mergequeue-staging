@@ -325,7 +325,6 @@ backbiters
 backbites
 backbiting
 boroglyceride
-backbitingly
 backbitten
 bucklers
 backblocks
@@ -15500,6 +15499,7 @@ briquet
 briquets
 briquette
 brisa
+backbitingly
 brisance
 bilbos
 basilar
