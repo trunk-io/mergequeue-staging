@@ -690,6 +690,7 @@ damped
 dampen
 dampened
 dampener
+disencumbrance
 dampeners
 dampening
 dampens
@@ -11980,7 +11981,6 @@ disencumbered
 disencumbering
 disencumberment
 disencumbers
-disencumbrance
 disendow
 disendower
 disendowing
