@@ -582,7 +582,6 @@ caenogaean
 cresson
 caenogenesis
 caenogenetic
-caenogenetically
 caenolestes
 caenostyly
 caenostylic
@@ -1600,6 +1599,7 @@ calotermes
 calotermitid
 calotermitidae
 calothrix
+caenogenetically
 calotin
 calotype
 calotypic
