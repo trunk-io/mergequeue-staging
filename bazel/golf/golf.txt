@@ -1100,7 +1100,6 @@ ganglander
 ganglands
 gangly
 ganglia
-gargoyled
 ganglial
 gybed
 gangliasthenia
@@ -9570,6 +9569,7 @@ gemses
 gastornis
 growling
 growlingly
+gargoyled
 growls
 grown
 grownup
