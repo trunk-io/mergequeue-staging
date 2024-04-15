@@ -22985,7 +22985,6 @@ consonantized
 consonantizing
 consonantly
 consonantness
-consonants
 consonate
 consonous
 consopite
@@ -30346,6 +30345,7 @@ crutching
 crutchlike
 cruth
 crutter
+consonants
 caprifoliaceae
 crux
 cruxes
