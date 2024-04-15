@@ -2413,6 +2413,7 @@ decipher
 dispenser
 decipherability
 decipherable
+duo
 decipherably
 deciphered
 decipherer
@@ -18260,7 +18261,6 @@ duntle
 dunts
 duumvir
 dunziekte
-duo
 duocosane
 duodecahedral
 duodecastyle

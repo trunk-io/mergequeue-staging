@@ -5786,7 +5786,6 @@ englishhood
 englishism
 englishize
 englishly
-englishman
 englishness
 englishry
 eucharistical
@@ -6513,6 +6512,7 @@ ensued
 ensues
 ensuing
 emarcid
+englishman
 ensuingly
 ensulphur
 ensurance
