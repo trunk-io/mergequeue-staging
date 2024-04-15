@@ -6280,7 +6280,6 @@ gnathopodite
 glyoxylic
 gnathopodous
 gnathostegite
-gnathostoma
 gnathostomata
 gnathostome
 gnathostomi
@@ -7025,6 +7024,7 @@ goof
 goofah
 goofball
 goofballs
+gnathostoma
 goofed
 goofer
 grumpy
