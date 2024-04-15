@@ -4909,7 +4909,6 @@ encrinitic
 encrinitical
 encrinoid
 encrinoidea
-encrypt
 encrypted
 encrypting
 encryption
@@ -5360,6 +5359,7 @@ endospermic
 endospermous
 endospore
 entozoa
+encrypt
 endosporia
 endosporic
 endosporium

@@ -4830,6 +4830,7 @@ flagstones
 flagworm
 flay
 flayed
+fluidise
 flayer
 flayers
 flaying
@@ -6333,7 +6334,6 @@ fogramite
 fluidifying
 fluidimeter
 fluidisation
-fluidise
 fluidised
 fallal
 fluidises
