@@ -2840,7 +2840,6 @@ cheapo
 cantoning
 cantonize
 cantonment
-cantonments
 cuspated
 cantons
 cantoon
@@ -22053,6 +22052,7 @@ confluxible
 confluxibleness
 confocal
 confocally
+cantonments
 conform
 conformability
 conformable
