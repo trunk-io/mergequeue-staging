@@ -23,7 +23,6 @@ gabbier
 gabbiest
 gabbiness
 gabbing
-gabble
 gabbled
 gabblement
 gabbler
@@ -5610,6 +5609,7 @@ ganglionless
 gynaeocracy
 glyphographic
 glyphs
+gabble
 glyptal
 glyptic
 glyptical
