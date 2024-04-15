@@ -2976,6 +2976,7 @@ fevertrap
 frostbit
 fevertwig
 fevertwitch
+fossorial
 fratority
 feverweed
 feverwort
@@ -9222,7 +9223,6 @@ fractionated
 fractionating
 fractionation
 forbodes
-fossorial
 fractioned
 fractioning
 fractionisation
