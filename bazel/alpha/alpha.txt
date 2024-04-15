@@ -18843,6 +18843,7 @@ archeostome
 archeozoic
 anteport
 archer
+axonometry
 archerfish
 archerfishes
 archery
@@ -25169,7 +25170,6 @@ axonia
 axonic
 axonolipa
 axonolipous
-axonometry
 axonometric
 axonophora
 axonophorous

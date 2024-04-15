@@ -6441,6 +6441,7 @@ cd
 cdf
 cdg
 ce
+chemonite
 ceanothus
 cearin
 cease
@@ -9853,7 +9854,6 @@ chemolysis
 chemolytic
 curlycue
 chemolyze
-chemonite
 chemopallidectomy
 chemopallidectomies
 chemopause
