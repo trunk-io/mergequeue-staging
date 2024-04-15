@@ -2591,7 +2591,6 @@ ferritic
 ferritins
 ferritization
 ferritungstite
-ferrivorous
 ferryway
 ferroaluminum
 ferrocalcite
@@ -7343,6 +7342,7 @@ foramen
 filtrable
 foramens
 foramina
+ferrivorous
 furiosa
 foraminal
 foraminate
