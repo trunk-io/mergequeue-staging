@@ -4419,7 +4419,6 @@ enamelware
 enamelwork
 enami
 enamine
-enamines
 epistolist
 enamorado
 enamorate
@@ -12828,6 +12827,7 @@ exosmose
 exosmosis
 empty
 exosmotic
+enamines
 esquamate
 ecchymoses
 exosperm
