@@ -2408,7 +2408,6 @@ decimole
 decimosexto
 decimus
 decine
-decyne
 decinormal
 decipher
 dispenser
@@ -14161,6 +14160,7 @@ dithyrambus
 diting
 dition
 dytiscid
+decyne
 dytiscidae
 dytiscus
 dimyarian
