@@ -688,7 +688,6 @@ bacteriologic
 bacteriologically
 bacteriologies
 bacteriologist
-bacteriologists
 bacteriopathology
 bacteriophage
 becalm
@@ -15233,6 +15232,7 @@ bridewain
 brideman
 brideweed
 bridewell
+bacteriologists
 bridewort
 bridge
 bridgeable
