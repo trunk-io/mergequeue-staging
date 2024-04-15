@@ -1651,7 +1651,6 @@ balloons
 brassy
 ballot
 ballota
-ballotade
 ballotage
 balloted
 balloter
@@ -8771,6 +8770,7 @@ bimethyl
 bimethyls
 bimillenary
 bimillenium
+ballotade
 bimillennia
 bimillennium
 bimillionaire
