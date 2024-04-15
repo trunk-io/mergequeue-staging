@@ -13886,7 +13886,6 @@ cynghanedd
 cingle
 cingula
 cingular
-chronogenetic
 cingulate
 cingulated
 cingulectomy
@@ -18104,6 +18103,7 @@ coerciveness
 coercivity
 coerebidae
 coerect
+chronogenetic
 coerected
 coerecting
 coerects
