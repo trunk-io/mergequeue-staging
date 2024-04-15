@@ -1779,7 +1779,6 @@ featherweight
 featherweights
 fictioneering
 featherwing
-featherwise
 featherwood
 featherwork
 featherworker
@@ -5615,6 +5614,7 @@ flighter
 flightful
 flighthead
 flighty
+featherwise
 flightier
 fideicommissum
 flightily
