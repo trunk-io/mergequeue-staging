@@ -2801,7 +2801,6 @@ gymnoblastic
 geniohyoglossus
 geniohyoid
 geniolatry
-genion
 genyophrynidae
 gearboxes
 gynophore
@@ -6005,6 +6004,7 @@ glottological
 glottologies
 glottologist
 glotum
+genion
 gloucester
 glout
 glouted

@@ -23971,6 +23971,7 @@ convenances
 convene
 convened
 convener
+crossbearer
 convenery
 conveneries
 conveners
@@ -29813,7 +29814,6 @@ crossbeak
 chonicrite
 crossbeam
 crossbeams
-crossbearer
 crossbelt
 crossbench
 crossbencher
