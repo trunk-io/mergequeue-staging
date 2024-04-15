@@ -11337,7 +11337,6 @@ bluejacks
 bluejays
 bluejoint
 blueleg
-bluelegs
 bluely
 blueline
 bluelines
@@ -15537,6 +15536,7 @@ bristlebird
 bristlecone
 bristled
 bristleless
+bluelegs
 bristlelike
 bristlemouth
 bristlemouths
