@@ -10238,7 +10238,6 @@ frivol
 frivoled
 frivoler
 frivoling
-frivolism
 frivolist
 frivolity
 frivolities
@@ -11435,6 +11434,7 @@ furnish
 furnishable
 foregather
 furnished
+frivolism
 furnishes
 furnishing
 furnishings
