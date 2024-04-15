@@ -10486,6 +10486,7 @@ diphthongization
 diphthongize
 diphthongized
 deaner
+display
 diphthongizing
 diphthongous
 diversifoliate
@@ -13083,7 +13084,6 @@ displacements
 displacency
 displaces
 displacing
-display
 displayable
 desiderating
 displayed
