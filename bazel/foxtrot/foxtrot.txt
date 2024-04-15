@@ -8278,7 +8278,6 @@ forging
 forgings
 forgivable
 forgivably
-forgive
 foundational
 forgiveable
 faroff
@@ -11683,6 +11682,7 @@ futilitarianism
 futility
 futilities
 flameholder
+forgive
 futilous
 futtah
 futter

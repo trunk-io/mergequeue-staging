@@ -1916,7 +1916,6 @@ gastruran
 gasworker
 gasworks
 gat
-gata
 gatch
 gate
 gateado
@@ -8974,6 +8973,7 @@ grihyasutra
 grike
 grill
 grillade
+gata
 grilladed
 grillades
 grillage
