@@ -4794,7 +4794,6 @@ bedraping
 bedravel
 bedread
 bedrel
-bedrench
 bedrenched
 bedrenches
 bedress
@@ -9996,6 +9995,7 @@ byzantinize
 byzantium
 brasser
 byzants
+bedrench
 bizardite
 bizarre
 bizarrely

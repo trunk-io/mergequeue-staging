@@ -8438,7 +8438,6 @@ epitria
 epitrichial
 epitrite
 epitrochlea
-epitrochlear
 epitrope
 epitrophy
 epitrophic
@@ -8662,6 +8661,7 @@ equilaterally
 equilibrant
 equilibrate
 equilibrated
+epitrochlear
 equilibrates
 equilibrating
 equilibration
