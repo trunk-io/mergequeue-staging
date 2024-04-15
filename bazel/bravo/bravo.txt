@@ -16117,6 +16117,7 @@ broomstraw
 broomtail
 broomweed
 broomwood
+brownly
 banning
 broomwort
 broos
@@ -16211,7 +16212,6 @@ brownism
 brownist
 brownistic
 brownistical
-brownly
 brownness
 brownnose
 brownnoser
