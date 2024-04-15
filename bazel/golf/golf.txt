@@ -1549,6 +1549,7 @@ garvey
 garveys
 garvie
 garvock
+gliadins
 gas
 gasalier
 gasaliers
@@ -5409,7 +5410,6 @@ glew
 gliadin
 gliadine
 gliadines
-gliadins
 glaucophane
 glib
 glibber
