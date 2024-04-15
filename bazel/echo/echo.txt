@@ -5269,7 +5269,6 @@ enrolled
 ecliptics
 endophyte
 endophytic
-endophytically
 entocuneiform
 exogenously
 epitoke
@@ -5842,6 +5841,7 @@ engrains
 engram
 engrammatic
 engramme
+endophytically
 engrammes
 engrammic
 ergographic
