@@ -10387,7 +10387,6 @@ amicous
 amicrobic
 amicron
 amicronucleate
-amyctic
 amictus
 amicus
 amid
@@ -22926,6 +22925,7 @@ attainability
 attainable
 attainableness
 ataxics
+amyctic
 attainder
 attainders
 attained
