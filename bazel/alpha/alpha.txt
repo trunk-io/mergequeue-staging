@@ -5431,7 +5431,6 @@ affords
 afforest
 afforestable
 afforestation
-afforestational
 afforested
 afforesting
 afforestment
@@ -17033,6 +17032,7 @@ apis
 apish
 apishamore
 apishly
+afforestational
 anoure
 apishness
 apism

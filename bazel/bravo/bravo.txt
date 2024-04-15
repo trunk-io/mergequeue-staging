@@ -3703,7 +3703,6 @@ batrachidae
 batrachite
 birostrated
 batrachium
-batrachoid
 barotropic
 batrachoididae
 batrachophagous
@@ -5211,6 +5210,7 @@ bicondylar
 beg
 begabled
 begad
+batrachoid
 begay
 begall
 begalled
