@@ -7225,7 +7225,6 @@ footlocker
 footlockers
 footlog
 footloose
-footmaker
 footmanhood
 fascicle
 footmanry
@@ -9015,6 +9014,7 @@ fountainous
 fountainously
 fustle
 fountains
+footmaker
 fountainwise
 fountful
 founts
