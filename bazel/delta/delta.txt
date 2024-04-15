@@ -8044,7 +8044,6 @@ diabolise
 diabolised
 diabolising
 diabolism
-diabolist
 diabolization
 diabolize
 diabolized
@@ -16742,6 +16741,7 @@ drastically
 drat
 dratchell
 drate
+diabolist
 drats
 dratted
 dratting
