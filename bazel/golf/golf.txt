@@ -1404,7 +1404,6 @@ gastrins
 garibaldian
 garigue
 garishly
-garishness
 garland
 garlandage
 garlanded
@@ -10639,6 +10638,7 @@ gurglingly
 gurl
 gurle
 gurlet
+garishness
 gurly
 gurmukhi
 gheraoing
