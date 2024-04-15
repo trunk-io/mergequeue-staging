@@ -1566,7 +1566,6 @@ calorescent
 calory
 caloric
 calorically
-caloricity
 calorics
 caloriduct
 calorie
@@ -8627,6 +8626,7 @@ changeful
 cataphyllary
 changefully
 changefulness
+caloricity
 changeless
 cerebricity
 changelessly
