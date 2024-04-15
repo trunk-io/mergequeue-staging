@@ -6545,7 +6545,6 @@ bepepper
 beperiwigged
 bepewed
 bephilter
-bephrase
 betray
 bepicture
 bepiece
@@ -16625,6 +16624,7 @@ bucketman
 beneficence
 buckets
 basilisk
+bephrase
 bucketsful
 bucketshop
 buckhound
