@@ -9436,7 +9436,6 @@ erump
 erumpent
 erupt
 erupted
-eruptible
 erupting
 eruption
 eruptional
@@ -10129,6 +10128,7 @@ estrual
 estruation
 elk
 estrum
+eruptible
 estrums
 estruses
 erythrodextrin
