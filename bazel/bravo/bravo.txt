@@ -4335,7 +4335,6 @@ bebaste
 bebat
 buttonbur
 bebathe
-bebatter
 bebeast
 bebed
 bebeerin
@@ -14202,6 +14201,7 @@ brag
 bragas
 brager
 braggadocian
+bebatter
 braggadocianism
 braggadocio
 buteos
