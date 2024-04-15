@@ -5698,7 +5698,6 @@ engallant
 epistles
 engaol
 engarb
-engarble
 eremophyte
 engarland
 engarment
@@ -10861,6 +10860,7 @@ eulachans
 eumorphous
 eulachons
 eulalia
+engarble
 eulamellibranch
 eulamellibranchiata
 eulamellibranchiate
