@@ -2432,7 +2432,6 @@ geldesprung
 gaseosity
 gelding
 geldings
-gelds
 gelechia
 gelechiidae
 gelee
@@ -2961,6 +2960,7 @@ gentoo
 gentry
 gentrices
 gentries
+gelds
 gentrification
 gents
 genu

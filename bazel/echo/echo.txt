@@ -4070,6 +4070,7 @@ empanada
 empanel
 empaneled
 empaneling
+eunomy
 empanelled
 empanelling
 empanelment
@@ -10933,7 +10934,6 @@ eunectes
 eunice
 eunicid
 eunicidae
-eunomy
 exormia
 eunomia
 eunomian
