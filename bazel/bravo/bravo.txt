@@ -14299,6 +14299,7 @@ braying
 brail
 brailed
 brailled
+bulletproof
 brailler
 brailles
 braillewriter
@@ -17118,7 +17119,6 @@ bulletlike
 bulletmaker
 battalia
 bulletmaking
-bulletproof
 bulletproofed
 bulletproofing
 bodleian
