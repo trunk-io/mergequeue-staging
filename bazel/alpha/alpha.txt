@@ -17658,7 +17658,6 @@ appellatived
 appellatively
 appellativeness
 appellatory
-appellee
 appellees
 appellor
 appellors
@@ -24819,6 +24818,7 @@ avocets
 avodire
 avodires
 avogadrite
+appellee
 avogadro
 avogram
 avoy
