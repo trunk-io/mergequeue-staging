@@ -6992,7 +6992,6 @@ folksong
 folksongs
 folktale
 folktales
-folkvang
 folkvangr
 foll
 foller
@@ -7966,6 +7965,7 @@ foresees
 foresey
 foreseing
 foreseize
+folkvang
 foresend
 faience
 foresense

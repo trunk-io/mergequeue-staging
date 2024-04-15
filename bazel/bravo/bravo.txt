@@ -5803,6 +5803,7 @@ bellicism
 bellicist
 bellicose
 bellicosely
+briefers
 bellicoseness
 bellicosity
 bellicosities
@@ -15277,7 +15278,6 @@ briefcases
 breathers
 briefed
 briefer
-briefers
 brasset
 briefest
 briefing
