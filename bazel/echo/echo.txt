@@ -1138,7 +1138,6 @@ edital
 editchar
 edited
 edith
-editing
 epacts
 ectosarcs
 elephantine
@@ -2297,6 +2296,7 @@ electrizable
 electrization
 electrize
 everlastingness
+editing
 earthenware
 electrizer
 electrizing
