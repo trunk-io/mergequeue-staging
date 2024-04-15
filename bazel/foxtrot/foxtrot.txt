@@ -3689,7 +3689,6 @@ fridstool
 filigrain
 filigrained
 fanged
-filigrane
 fenlander
 furfuramide
 filigreed
@@ -4257,6 +4256,7 @@ fireside
 firesider
 firesideship
 firespout
+filigrane
 firestone
 firestop
 firestopping
