@@ -9438,7 +9438,6 @@ birdnest
 birdnester
 birds
 birdsall
-birdseed
 birdseeds
 birdseye
 birdseyes
@@ -17540,6 +17539,7 @@ burblers
 burbles
 burbly
 bacitracin
+birdseed
 burbliest
 burbling
 burbolt
