@@ -14946,7 +14946,6 @@ cytopathologic
 conservatorio
 cytopathological
 coenactor
-cytopathologically
 cytopenia
 cytophaga
 cytophagy
@@ -27052,6 +27051,7 @@ counterquip
 counterradiation
 counterraid
 counterraising
+cytopathologically
 counterrampant
 counterrate
 counterreaction
