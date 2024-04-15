@@ -1164,7 +1164,6 @@ dasypod
 dasypodidae
 dasypodoid
 dasyproctidae
-dasypus
 dasystephana
 dasyure
 dasyures
@@ -7192,6 +7191,7 @@ detergence
 detergency
 detergent
 detergents
+dasypus
 deterger
 detergers
 deterges
