@@ -12704,6 +12704,7 @@ dismarry
 dismask
 dismast
 dismasted
+duffs
 dismastment
 disme
 dismeasured
@@ -17907,7 +17908,6 @@ duffies
 duffing
 duffle
 duffles
-duffs
 deanthropomorphism
 dufoil
 dufrenoysite
