@@ -197,7 +197,6 @@ gaggers
 ganyie
 gagging
 gaggle
-gaggler
 gaggles
 gaggling
 gaging
@@ -7951,6 +7950,7 @@ grandity
 grandly
 grandma
 grandmamma
+gaggler
 grandmammy
 grandmas
 grandmaster
