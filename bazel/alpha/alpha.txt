@@ -6245,7 +6245,6 @@ aglint
 aglipayan
 aglipayano
 aglypha
-aglyphodont
 aglyphodonta
 aglyphodontia
 aglyphous
@@ -8068,6 +8067,7 @@ algerite
 algernon
 algesia
 algesic
+aglyphodont
 algesimeter
 algesiometer
 algesis
