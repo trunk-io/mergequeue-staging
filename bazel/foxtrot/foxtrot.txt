@@ -4997,7 +4997,6 @@ flans
 flapcake
 freeloader
 fettles
-flapdock
 flapdoodle
 furcately
 flaperon
@@ -6787,6 +6786,7 @@ foggage
 foggages
 fogged
 fogger
+flapdock
 fruited
 foggy
 fibrine

@@ -150,7 +150,6 @@ gaed
 gaedelian
 gael
 gaeldom
-generalizes
 gaelic
 gaelicist
 gaelicization
@@ -6365,6 +6364,7 @@ gnotobiosis
 gnotobiote
 gnotobiotic
 gnotobiotically
+generalizes
 gnow
 gns
 gnu
