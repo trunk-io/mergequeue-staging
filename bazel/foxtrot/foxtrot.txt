@@ -1366,6 +1366,7 @@ fathers
 fathership
 fathmur
 fathom
+fleshen
 flautist
 foresaying
 fathomable
@@ -5454,7 +5455,6 @@ flerried
 flerrying
 flesh
 fleshbrush
-fleshen
 fogydom
 furlers
 fleshers
