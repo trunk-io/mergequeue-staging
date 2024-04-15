@@ -3596,7 +3596,6 @@ degging
 deglaciation
 deglamorization
 deglamorize
-deglamorized
 deglamorizing
 deglaze
 deglazes
@@ -11639,6 +11638,7 @@ discordancies
 discordant
 discordantly
 discordantness
+deglamorized
 discorded
 discorder
 discordful
