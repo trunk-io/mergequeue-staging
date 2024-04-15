@@ -2722,6 +2722,7 @@ fescue
 fluotitanate
 fesels
 fess
+fishtailing
 fesse
 fessely
 fesses
@@ -4428,7 +4429,6 @@ fishspear
 fishtail
 fishtailed
 fitten
-fishtailing
 fishtails
 fishway
 fishways

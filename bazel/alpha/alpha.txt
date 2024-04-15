@@ -662,7 +662,6 @@ abolete
 abolish
 abolishable
 abolished
-abolisher
 abolishers
 abolishes
 abolishing
@@ -9047,6 +9046,7 @@ alluvial
 alluvials
 alluviate
 alluviation
+abolisher
 alluvio
 alluvion
 anemometric
