@@ -3653,7 +3653,6 @@ getsul
 gnawingly
 guidons
 gettableness
-getter
 gettering
 getting
 gettings
@@ -8033,6 +8032,7 @@ granites
 granitic
 granitical
 graniticoline
+getter
 granitiferous
 granitification
 granitite
