@@ -4064,6 +4064,7 @@ adjutator
 adjute
 adjutor
 adjutory
+astrolabical
 adjutorious
 adjutrice
 adjutrix
@@ -22266,7 +22267,6 @@ astroite
 astrol
 astrolabe
 astrolabes
-astrolabical
 astrolater
 astrolatry
 astrolithology
