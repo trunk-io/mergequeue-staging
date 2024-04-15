@@ -792,7 +792,6 @@ galvanocauteries
 galvanocontractility
 galvanofaradization
 galvanoglyph
-galvanoglyphy
 galvanograph
 galvanography
 galvanographic
@@ -3041,6 +3040,7 @@ geodynamics
 gymnite
 geoducks
 geoemtry
+galvanoglyphy
 geoff
 geoffrey
 geoffroyin
