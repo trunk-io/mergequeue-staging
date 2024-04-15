@@ -1304,7 +1304,6 @@ daughterkin
 daughterless
 daughterly
 daughterlike
-daughterliness
 daughterling
 daughters
 daughtership
@@ -3856,6 +3855,7 @@ deyship
 deisidaimonia
 deisin
 deism
+daughterliness
 deisms
 deist
 deistic
