@@ -2836,6 +2836,7 @@ fetichmonger
 fetichry
 feticidal
 feticide
+floats
 feticides
 fetid
 fetidity
@@ -5848,7 +5849,6 @@ floative
 floatless
 floatmaker
 floatman
-floats
 floatsman
 floatsmen
 floatstone
