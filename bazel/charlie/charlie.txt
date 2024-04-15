@@ -18792,7 +18792,6 @@ colicwort
 colies
 coliform
 coliforms
-coliidae
 coliiformes
 colilysin
 colima
@@ -21421,6 +21420,7 @@ conclusive
 conclusiveness
 conclusory
 conclusum
+coliidae
 concn
 concoagulate
 concoagulation

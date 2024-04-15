@@ -1704,7 +1704,6 @@ accouchements
 accoucheur
 areographic
 accoucheurs
-accoucheuse
 accoucheuses
 accounsel
 account
@@ -8897,6 +8896,7 @@ allopatric
 allopatrically
 allophanamid
 allophanamide
+accoucheuse
 allophanate
 allophanates
 allophane
