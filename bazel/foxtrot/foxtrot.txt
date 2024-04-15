@@ -4274,7 +4274,6 @@ flounderingly
 fireweed
 fireweeds
 firewood
-fishergirl
 firework
 fireworky
 fireworkless
@@ -6345,6 +6344,7 @@ followup
 fluidizer
 flotations
 fluidizes
+fishergirl
 fluidly
 fluidmeter
 fluidness
