@@ -17764,6 +17764,7 @@ appetitost
 aladfar
 appetize
 appetized
+atmiatry
 appetizement
 appetizer
 appetizers
@@ -22665,7 +22666,6 @@ atma
 atman
 atmans
 atmas
-atmiatry
 atmiatrics
 atmid
 atmidalbumin
