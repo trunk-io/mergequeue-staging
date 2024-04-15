@@ -6560,6 +6560,7 @@ ceilinged
 ceilings
 ceilingward
 ceilingwards
+containerships
 ceilometer
 ceylon
 ceylonese
@@ -23304,7 +23305,6 @@ containerizing
 cratons
 containerport
 containership
-containerships
 containing
 containment
 containments
