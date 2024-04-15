@@ -5473,6 +5473,7 @@ cataloguer
 catalogues
 cataloguing
 cataloguish
+cryptologist
 cataloguist
 cataloguize
 catalonian
@@ -29306,7 +29307,6 @@ cryptolith
 cryptology
 cryptologic
 cryptological
-cryptologist
 cryptolunatic
 cryptomere
 cryptomeria
