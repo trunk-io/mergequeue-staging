@@ -511,7 +511,6 @@ backslides
 backsliding
 backslidingness
 backspaced
-backspacefile
 backspacer
 backspaces
 backspacing
@@ -4401,6 +4400,7 @@ becard
 becarpet
 bigamist
 becarpeted
+backspacefile
 becarpeting
 becarpets
 becarve
