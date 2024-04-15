@@ -5540,7 +5540,6 @@ energism
 energist
 energize
 exploiters
-energized
 energizer
 estall
 energizers
@@ -9630,6 +9629,7 @@ escritoires
 escritorial
 escrod
 escrol
+energized
 escrow
 escrowed
 escrowee
