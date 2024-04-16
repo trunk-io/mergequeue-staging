@@ -934,6 +934,7 @@ bagong
 bagoong
 bagpipe
 bagpiped
+bijou
 bagpiper
 bagpipers
 breviradiate
@@ -8444,7 +8445,6 @@ bijections
 bree
 bijective
 bijectively
-bijou
 bijouterie
 bijoux
 bijugous
