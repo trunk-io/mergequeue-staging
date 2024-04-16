@@ -7645,7 +7645,6 @@ bewitchedness
 bewitcher
 bewitchery
 buchite
-bewitches
 bewitchful
 bewitching
 bewitchingly
@@ -9068,6 +9067,7 @@ biome
 biomechanical
 biomechanics
 biomedical
+bewitches
 biomedicine
 biomes
 biometeorology
