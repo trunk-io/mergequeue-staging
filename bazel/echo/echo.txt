@@ -6402,6 +6402,7 @@ ensheathes
 ensheathing
 enshell
 enshelter
+exploring
 enshield
 enshielded
 enshielding
@@ -13241,7 +13242,6 @@ explorement
 explorer
 explorers
 explores
-exploring
 exploringly
 explosibility
 explosible

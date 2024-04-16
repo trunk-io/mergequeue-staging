@@ -9844,7 +9844,6 @@ chemism
 chemisorb
 chemisorption
 chemist
-chemistry
 chemistries
 chemists
 chemitype
@@ -25764,6 +25763,7 @@ chrism
 corroboratory
 corroboratorily
 corroborators
+chemistry
 corroboree
 corroboreed
 corroboreeing
