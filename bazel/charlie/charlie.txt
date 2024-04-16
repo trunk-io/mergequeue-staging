@@ -12030,6 +12030,7 @@ chorten
 chorti
 chortle
 chortled
+cloverlay
 chortler
 chortlers
 chortles
@@ -16762,7 +16763,6 @@ clovene
 clover
 clovered
 clovery
-cloverlay
 cloverleaf
 cloverleafs
 cloverleaves
