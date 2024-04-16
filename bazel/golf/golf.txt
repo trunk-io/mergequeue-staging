@@ -3575,6 +3575,7 @@ grilly
 gestapos
 gestate
 gestated
+gymnocalycium
 gestates
 gestating
 gestation
@@ -4255,7 +4256,6 @@ gymnetrous
 gymnic
 gymnics
 gymnoblastea
-gymnocalycium
 gymnocarpic
 gymnocarpous
 gymnoceratous
