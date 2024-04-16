@@ -303,7 +303,6 @@ eat
 eatability
 eatable
 eatableness
-eatables
 eatanswill
 eatberry
 eatche
@@ -6794,6 +6793,7 @@ enthrallments
 enthralls
 enthralment
 enthrals
+eatables
 enthrill
 epalpebrate
 enthrone
