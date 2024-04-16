@@ -1767,6 +1767,7 @@ etude
 eyelashes
 eyelast
 eyeless
+entalent
 ethane
 eyelessness
 eyelet
@@ -6559,7 +6560,6 @@ entailments
 entails
 eggshells
 ental
-entalent
 eisegeses
 entally
 entameba
