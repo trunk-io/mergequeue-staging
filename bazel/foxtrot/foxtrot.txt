@@ -4957,7 +4957,6 @@ flammeous
 flamming
 flammulation
 footers
-flams
 flan
 flancard
 flanch
@@ -11338,6 +11337,7 @@ forepiece
 furcates
 fetwa
 furcation
+flams
 fellen
 furcellate
 furciferine
