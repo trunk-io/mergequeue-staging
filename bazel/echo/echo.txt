@@ -347,7 +347,6 @@ embody
 ebbman
 electrotechnologist
 ebbs
-ebcasc
 ebcd
 ebcdic
 ebdomade
@@ -2758,6 +2757,7 @@ elementalize
 elementally
 elementaloid
 escorting
+ebcasc
 elementals
 elementary
 elementarily
