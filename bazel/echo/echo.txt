@@ -2958,6 +2958,7 @@ eliminator
 eliminatory
 eliminators
 elymus
+eo
 elinguate
 elinguated
 elinguating
@@ -7315,7 +7316,6 @@ enzone
 enzooty
 enzootic
 enzootics
-eo
 extravascular
 eoan
 eoanthropus
