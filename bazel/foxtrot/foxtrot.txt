@@ -939,7 +939,6 @@ farand
 farandman
 farandmen
 farandola
-farandole
 farandoles
 faraon
 farasula
@@ -8888,6 +8887,7 @@ frameableness
 feuterer
 fossilising
 fossilism
+farandole
 fossilist
 fossilizable
 fossilization
