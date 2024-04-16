@@ -8477,7 +8477,6 @@ champagne
 champagned
 champagneless
 champagnes
-champagning
 champagnize
 colourlessly
 cypselae
@@ -16121,6 +16120,7 @@ climacium
 climacter
 climactery
 climacterial
+champagning
 climacteric
 climacterical
 climacterically
