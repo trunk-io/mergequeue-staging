@@ -3925,7 +3925,6 @@ adipescent
 adiphenine
 adipic
 adipyl
-adipinic
 adipocele
 adipocellulose
 anthropological
@@ -15599,6 +15598,7 @@ antimissile
 antimission
 antimissionary
 antimissioner
+adipinic
 antimystic
 antimystical
 antimystically
