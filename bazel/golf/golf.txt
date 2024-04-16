@@ -2874,7 +2874,6 @@ gentiana
 gentianales
 gentianella
 goaler
-gentianic
 gentianose
 gentians
 gentianwort
@@ -8310,6 +8309,7 @@ glutaminase
 grassless
 grasslike
 grassman
+gentianic
 grassmen
 grassnut
 grassplat
