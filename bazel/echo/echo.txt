@@ -6480,6 +6480,7 @@ emitters
 ensorcelize
 ensorcell
 ensorcellment
+estimate
 epochal
 ensorcels
 ensorcerize
@@ -8038,7 +8039,6 @@ epinette
 epineuneuria
 epineural
 epineuria
-estimate
 epineurial
 epineurium
 epingle
