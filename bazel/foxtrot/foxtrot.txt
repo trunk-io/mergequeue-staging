@@ -4151,6 +4151,7 @@ firbolg
 firca
 foregirth
 fyrd
+fortyfold
 fowage
 fyrdung
 faldistory
@@ -8746,7 +8747,6 @@ fortifying
 fortifyingly
 fortifys
 fortyfives
-fortyfold
 fortin
 fortiori
 frenchman
