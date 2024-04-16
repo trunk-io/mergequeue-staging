@@ -25655,6 +25655,7 @@ corrective
 correctively
 correctiveness
 correctives
+countermand
 correctly
 correctness
 corrector
@@ -26915,7 +26916,6 @@ countermachination
 countermaid
 counterman
 carles
-countermand
 countermandable
 countermanded
 countermanding
