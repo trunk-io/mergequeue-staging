@@ -1956,7 +1956,6 @@ feeblest
 feebly
 frolicks
 feebling
-feeblish
 feedback
 feedbag
 feedbags
@@ -7643,6 +7642,7 @@ foredoes
 foredone
 foredoom
 foredoomed
+feeblish
 foredoomer
 finlet
 fgn

@@ -2475,7 +2475,6 @@ gelts
 gem
 gemara
 gemaric
-gemarist
 gematria
 gematrical
 guaranin
@@ -4244,6 +4243,7 @@ gymnasisia
 gymnasisiums
 gymnasium
 gymnasiums
+gemarist
 gymnast
 gymnastic
 gymnastically
