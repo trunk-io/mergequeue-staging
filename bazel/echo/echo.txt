@@ -4157,7 +4157,6 @@ empiercement
 empyesis
 empyocele
 empire
-empyreal
 empyrean
 eutaxite
 empyreans
@@ -8603,6 +8602,7 @@ equerries
 equerryship
 eques
 equestrial
+empyreal
 epimysium
 equestrian
 equestrianism
