@@ -19144,6 +19144,7 @@ archregent
 archrepresentative
 archrobber
 archrogue
+aurums
 archruler
 archsacrificator
 archsacrificer
@@ -23617,7 +23618,6 @@ aurrescu
 aurulent
 asynaptic
 aurum
-aurums
 aurung
 aurure
 aus
