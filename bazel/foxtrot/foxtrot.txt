@@ -2083,7 +2083,6 @@ finetop
 felicitator
 felicitators
 felicity
-felicities
 felicitous
 felicitously
 felicitousness
@@ -6185,6 +6184,7 @@ flouriness
 flouring
 flourish
 flourishable
+felicities
 flashlike
 flourished
 flourishes
