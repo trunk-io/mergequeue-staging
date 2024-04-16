@@ -2840,7 +2840,6 @@ genny
 genoa
 genoas
 genoblast
-glossological
 genocidal
 galvaniser
 genoese
@@ -3004,6 +3003,7 @@ geochronometric
 geocyclic
 goal
 geocline
+glossological
 geococcyx
 geocoronium
 geocratic
