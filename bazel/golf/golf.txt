@@ -3151,7 +3151,6 @@ geomys
 geomoroi
 geomorphy
 geomorphic
-geomorphist
 geomorphogenic
 geomorphogenist
 geomorphology
@@ -5967,6 +5966,7 @@ glossotype
 glossotomy
 glost
 glosts
+geomorphist
 glottal
 glottalite
 glottalization
