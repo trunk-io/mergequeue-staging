@@ -1620,7 +1620,6 @@ gasolinic
 gasometer
 gasometry
 gasometric
-gasometrical
 gasometrically
 gasoscope
 gasp
@@ -5621,6 +5620,7 @@ glyptodontoid
 glyptograph
 glyptographer
 glyptography
+gasometrical
 gonake
 glyptographic
 glyptolith
