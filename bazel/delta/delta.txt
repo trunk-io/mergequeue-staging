@@ -8049,7 +8049,6 @@ diabolic
 dextroduction
 diabolical
 diabolically
-diabolicalness
 diabolify
 diabolification
 diabolisation
@@ -8209,6 +8208,7 @@ disinteresting
 diagnosing
 diagonally
 diagonals
+diabolicalness
 diagonalwise
 dedans
 dicatalexis
