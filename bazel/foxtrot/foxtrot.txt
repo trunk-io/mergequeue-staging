@@ -531,6 +531,7 @@ fallace
 fallacy
 fallacia
 fallacies
+forerunners
 fadlike
 feltlike
 fallacious
@@ -7937,7 +7938,6 @@ foredates
 foreroyal
 forerun
 forerunner
-forerunners
 forerunning
 forerunnings
 foreruns
