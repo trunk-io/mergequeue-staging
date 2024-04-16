@@ -5221,7 +5221,6 @@ denotation
 denotational
 denotationally
 denotative
-denotatively
 denotativeness
 demideify
 denotatum
@@ -13021,6 +13020,7 @@ dispermy
 dispermic
 dispermous
 disperple
+denotatively
 dispersal
 dendrodus
 dispersals
