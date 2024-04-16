@@ -5748,7 +5748,6 @@ bellatrix
 bellbind
 buckjump
 bellbinder
-bellbine
 bellbird
 bellbirds
 bellboy
@@ -8459,6 +8458,7 @@ bikers
 buoyed
 bikeway
 bikeways
+bellbine
 bikh
 bikhaconitine
 bikie
