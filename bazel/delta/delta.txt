@@ -2667,7 +2667,6 @@ deconcentrating
 deconcentration
 deconcentrator
 decondition
-decongest
 decongestant
 decongestants
 decongested
@@ -16621,6 +16620,7 @@ dragonlike
 dragonnade
 dragonroot
 dragons
+decongest
 dragontail
 dragonwort
 dragoon
