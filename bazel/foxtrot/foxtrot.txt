@@ -10456,7 +10456,6 @@ fatimid
 frontogenesis
 frontolysis
 frontomalar
-frontomallar
 frontomaxillary
 frontomental
 foveole
@@ -10874,6 +10873,7 @@ fulfullment
 fistulariidae
 fishpool
 fulgence
+frontomallar
 fulgency
 fulgent
 fulgently
