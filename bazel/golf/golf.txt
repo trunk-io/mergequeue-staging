@@ -5626,7 +5626,6 @@ glyptology
 glyptological
 granum
 glyptologist
-glyptotheca
 glyptotherium
 globeholder
 glires
@@ -6009,6 +6008,7 @@ grain
 glovemaker
 glovemaking
 gloveman
+glyptotheca
 glovemen
 glover
 gaylussacia
