@@ -4212,6 +4212,7 @@ beatee
 beaten
 beaterman
 beaters
+brooching
 beath
 beati
 beatify
@@ -16054,7 +16055,6 @@ broo
 brooch
 brooched
 brooches
-brooching
 brood
 brooded
 brooder
