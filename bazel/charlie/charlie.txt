@@ -2407,7 +2407,6 @@ candors
 candour
 catalan
 candours
-candroy
 candroys
 canduc
 cane
@@ -19795,6 +19794,7 @@ comelier
 comeliest
 comelily
 comeliness
+candroy
 comeling
 comendite
 comephorous
