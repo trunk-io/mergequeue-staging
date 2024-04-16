@@ -3257,7 +3257,6 @@ fictionistic
 fictionization
 fictionize
 fictionized
-fictionizing
 fictionmonger
 fictions
 fictious
@@ -10635,6 +10634,7 @@ fructuose
 fructuosity
 fructuous
 fructuously
+fictionizing
 fructure
 familiarities
 fructus
