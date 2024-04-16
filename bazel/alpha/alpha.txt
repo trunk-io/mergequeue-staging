@@ -3505,7 +3505,6 @@ addenda
 addends
 addendum
 addendums
-adder
 adderbolt
 adderfish
 adders
@@ -15211,6 +15210,7 @@ antienvironmentalism
 antienvironmentalist
 antienvironmentalists
 antienzymatic
+adder
 antienzyme
 aspermic
 antienzymic
