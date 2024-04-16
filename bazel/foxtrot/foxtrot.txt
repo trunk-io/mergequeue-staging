@@ -7036,6 +7036,7 @@ followingly
 followings
 follows
 fomalhaut
+frontager
 foment
 fomentation
 fomentations
@@ -10403,7 +10404,6 @@ frontad
 frontage
 floe
 feldspars
-frontager
 fertilised
 frontages
 frontal
