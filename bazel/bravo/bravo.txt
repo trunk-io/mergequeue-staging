@@ -970,7 +970,6 @@ bagwoman
 bagwork
 bagworms
 bah
-bahada
 bahadur
 bahadurs
 bahai
@@ -6364,6 +6363,7 @@ benzalethylamine
 benzalhydrazine
 benzalphenylhydrazone
 benzalphthalide
+bahada
 benzamide
 benzamido
 benzamine
