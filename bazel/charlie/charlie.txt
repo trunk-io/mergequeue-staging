@@ -7324,7 +7324,6 @@ cephalopod
 cephalopoda
 cephalopodan
 cephalopodic
-cephalopodous
 cephalopterus
 cephalorachidian
 cephalorhachidian
@@ -13465,6 +13464,7 @@ cid
 cidarid
 cidaridae
 cidaris
+cephalopodous
 cidaroida
 cassida
 cider
