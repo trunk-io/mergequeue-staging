@@ -8484,6 +8484,7 @@ diapasm
 diapasonal
 despot
 diapasons
+disnaturing
 diapause
 diapauses
 diapausing
@@ -12777,7 +12778,6 @@ disnaturalization
 demibuckram
 disnaturalize
 disnatured
-disnaturing
 disneyland
 disnest
 dysneuria
