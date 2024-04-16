@@ -3577,6 +3577,7 @@ bathyhypesthesia
 bathyl
 bathylimnetic
 bathylite
+beltwise
 bathylith
 bathylithic
 bathylitic
@@ -5940,7 +5941,6 @@ beltmen
 belton
 beltway
 beltways
-beltwise
 beluchi
 belucki
 belue

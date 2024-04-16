@@ -2865,7 +2865,6 @@ acroatic
 acrobacy
 acrobacies
 acrobat
-acrobates
 acrobatholithic
 acrobatic
 acrobatical
@@ -3749,6 +3748,7 @@ adenopharyngitis
 adenophyma
 adenophlegmon
 adenophora
+acrobates
 archaize
 adenophore
 adenophoreus
