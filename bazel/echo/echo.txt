@@ -6500,7 +6500,6 @@ enspirit
 ensporia
 enstar
 ediya
-enstate
 enstatite
 enstatolite
 ensteel
@@ -6848,6 +6847,7 @@ entirely
 electrodiagnoses
 entireness
 entires
+enstate
 entirety
 entiris
 entirities
