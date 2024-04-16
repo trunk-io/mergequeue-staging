@@ -1090,7 +1090,6 @@ edgingly
 edgrow
 edh
 edhs
-edibile
 equipper
 edibility
 edible
@@ -4185,6 +4184,7 @@ empiricalness
 empiricism
 eurypelma
 engorgement
+edibile
 empiricists
 empirics
 empiriocritcism
