@@ -1902,7 +1902,6 @@ debted
 debtee
 debtful
 debtless
-debtor
 diegueno
 debtors
 debtorship
@@ -7797,6 +7796,7 @@ devow
 devs
 devulcanization
 dalcassian
+debtor
 devulcanize
 devulgarize
 devvel
