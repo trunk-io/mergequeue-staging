@@ -8179,7 +8179,6 @@ bidi
 bidiagonal
 bidialectal
 bidialectalism
-bidigitate
 bidimensional
 biding
 bidirectional
@@ -11127,6 +11126,7 @@ bloomless
 blooms
 bloomsbury
 bloop
+bidigitate
 blooped
 baronethood
 byes
