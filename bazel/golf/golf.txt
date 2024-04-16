@@ -5337,7 +5337,6 @@ gleaning
 gleanings
 growl
 gleave
-gleba
 glebae
 glebal
 glebe
@@ -8412,6 +8411,7 @@ galenite
 gravecloth
 graveclothes
 gravedigger
+gleba
 gravediggers
 grudgment
 gravedo
