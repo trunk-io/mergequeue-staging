@@ -10603,7 +10603,6 @@ bleats
 bleaunt
 bleb
 blebby
-blebs
 blechnoid
 blechnum
 bleck
@@ -10967,6 +10966,7 @@ blockaders
 blockading
 blockage
 blockboard
+blebs
 blockbusters
 blockbusting
 blocked
