@@ -4897,7 +4897,6 @@ gayety
 gazehound
 gitanemuck
 gitanemuk
-gitano
 gitanos
 gite
 gyte
@@ -8091,6 +8090,7 @@ granulations
 granulative
 granulator
 granulators
+gitano
 granule
 granules
 granulet

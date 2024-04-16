@@ -13218,7 +13218,6 @@ animateness
 animater
 animaters
 animates
-animating
 animatingly
 animation
 animations
@@ -20389,6 +20388,7 @@ arsenophenylglycin
 arsenophenol
 arsenopyrite
 arsenostyracol
+animating
 arsenotherapy
 arsenotungstates
 arsenotungstic
