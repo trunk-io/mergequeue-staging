@@ -11810,6 +11810,7 @@ chooser
 choosers
 chooses
 choosy
+conics
 choosier
 choosiness
 choosing
@@ -22374,7 +22375,6 @@ conicine
 colluders
 conicle
 conicopoly
-conics
 conidae
 conidia
 conidial
