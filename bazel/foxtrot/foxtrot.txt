@@ -1069,6 +1069,7 @@ farmyards
 fivers
 foremastman
 farmland
+fluorosis
 farmlands
 farmost
 farmout
@@ -6535,7 +6536,6 @@ fluoroscopies
 fluoroscoping
 fluoroscopist
 fluoroscopists
-fluorosis
 fluorotic
 fluorotype
 fluorouracil
