@@ -581,6 +581,7 @@ caelum
 caelus
 caenogaea
 caenogaean
+chesteine
 cresson
 caenogenesis
 caenogenetic
@@ -10081,7 +10082,6 @@ claves
 chesstree
 chest
 chested
-chesteine
 chester
 chesterbed
 chesterfield
