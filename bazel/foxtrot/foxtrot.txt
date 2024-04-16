@@ -1620,6 +1620,7 @@ favourer
 favourers
 favouress
 fallalery
+function
 favouring
 favouringly
 favourite
@@ -11106,7 +11107,6 @@ funaria
 funariaceous
 funbre
 floyd
-function
 functional
 functionalism
 functionalist
