@@ -516,7 +516,6 @@ echappe
 echappee
 echar
 echard
-eche
 echea
 eched
 echelette
@@ -8175,6 +8174,7 @@ ennedra
 episcopalian
 econ
 episcopalianism
+eche
 episcopalianize
 episcopalians
 electroencephalographic
