@@ -2369,7 +2369,6 @@ candleholder
 candlelight
 candlelighted
 candlelighter
-candlelighting
 candlelit
 candlemaker
 candlemaking
@@ -18589,6 +18588,7 @@ cointensity
 cointer
 cointerest
 cointerred
+candlelighting
 cointerring
 cointers
 cointersecting
