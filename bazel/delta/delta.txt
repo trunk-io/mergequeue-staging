@@ -3561,7 +3561,6 @@ degarnish
 degas
 degases
 debacles
-degasify
 demipriest
 degasification
 degasifier
@@ -10230,6 +10229,7 @@ dinosauria
 dinosauric
 dinothere
 dinotherian
+degasify
 dinotherium
 dins
 dinsome
