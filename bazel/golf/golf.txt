@@ -1542,7 +1542,6 @@ garvock
 gliadins
 gas
 gasalier
-gasaliers
 gasan
 gasbags
 geometricians
@@ -3602,6 +3601,7 @@ gesticulations
 gesticulatively
 gesticulatory
 gestio
+gasaliers
 gestion
 gestning
 gestonie
