@@ -5520,7 +5520,6 @@ deoxygenization
 deoxygenize
 deoxygenized
 deoxygenizing
-deoxyribonuclease
 deoxyribonucleoprotein
 deoxyribonucleotide
 deoxyribose
@@ -6140,6 +6139,7 @@ derivable
 derivably
 derival
 duellers
+deoxyribonuclease
 docetically
 disenamour
 derivant
