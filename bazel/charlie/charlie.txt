@@ -20037,7 +20037,6 @@ commentaries
 commentate
 commentated
 commentating
-commentation
 commentative
 commentator
 commentatorial
@@ -31006,6 +31005,7 @@ cunctative
 cunctator
 cunctatory
 cunctatorship
+commentation
 cunctatury
 cunctipotent
 cund
