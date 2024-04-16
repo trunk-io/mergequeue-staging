@@ -6313,6 +6313,7 @@ cavallies
 cavalry
 cavalries
 cavalryman
+closehanded
 cavalrymen
 cavascope
 cavate
@@ -16618,7 +16619,6 @@ closedown
 closefistedly
 closefistedness
 closefitting
-closehanded
 closehauled
 closely
 closelipped

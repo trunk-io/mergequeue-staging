@@ -2135,7 +2135,6 @@ acetonization
 aortographies
 acetonize
 acetonuria
-acetonurometer
 acetophenetide
 acetophenetidin
 acetophenetidine
@@ -8396,6 +8395,7 @@ aljoba
 aljofaina
 alk
 alkahest
+acetonurometer
 alkahestic
 alkahestica
 alkahestical
