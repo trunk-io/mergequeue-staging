@@ -5130,7 +5130,6 @@ dengue
 dengues
 deny
 disboscation
-deniability
 deniable
 deniably
 denial
@@ -9385,6 +9384,7 @@ diffracting
 diffraction
 diffractional
 diffractions
+deniability
 diffractive
 diffractively
 diffractiveness
