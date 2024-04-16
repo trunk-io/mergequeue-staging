@@ -256,7 +256,6 @@ divorcee
 dietted
 daftness
 daftnesses
-dag
 dagaba
 dagame
 dagassa
@@ -5658,6 +5657,7 @@ dephosphorization
 dephosphorize
 depickle
 depict
+dag
 depicted
 depicter
 denuclearize
