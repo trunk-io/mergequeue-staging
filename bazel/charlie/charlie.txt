@@ -8156,6 +8156,7 @@ chairer
 chairing
 chairlady
 chairladies
+collectivum
 chairless
 chairlift
 chairmaking
@@ -18969,7 +18970,6 @@ collectivize
 collectivized
 collectivizes
 collectivizing
-collectivum
 collectorate
 collectors
 collectorship
