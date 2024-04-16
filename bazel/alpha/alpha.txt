@@ -15723,6 +15723,7 @@ antinovelist
 antinovels
 antinucleon
 antinucleons
+archmachine
 antinuke
 antiochene
 antiochian
@@ -19053,7 +19054,6 @@ archlexicographer
 archly
 archliar
 archlute
-archmachine
 archmagician
 archmagirist
 archmarshal
