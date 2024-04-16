@@ -32,7 +32,6 @@ dabsters
 dace
 dacelo
 daceloninae
-dacelonine
 daces
 deformers
 dacha
@@ -8646,6 +8645,7 @@ drawhead
 diastataxic
 diastatic
 diastatically
+dacelonine
 diastem
 diastema
 diastemata
