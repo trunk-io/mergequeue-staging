@@ -917,7 +917,6 @@ bagle
 baglike
 bagmaker
 bagmaking
-bagmen
 bagne
 bagnes
 bagnet
@@ -3954,6 +3953,7 @@ bdelloid
 bdelloida
 bdellometer
 bdellostoma
+bagmen
 bdellostomatidae
 bdellostomidae
 bdellotomy
