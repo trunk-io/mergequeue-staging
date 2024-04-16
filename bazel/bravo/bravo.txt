@@ -280,7 +280,6 @@ bacilliculture
 bacilliform
 bacilligenic
 bacilliparous
-bacillite
 bacillogenic
 bacillogenous
 bacillosis
@@ -14134,6 +14133,7 @@ bradded
 bradenhead
 bradyacousia
 bradyauxesis
+bacillite
 bradyauxetic
 bradyauxetically
 bradycardia
