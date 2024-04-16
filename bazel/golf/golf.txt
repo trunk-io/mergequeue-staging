@@ -3666,6 +3666,7 @@ gez
 gezerah
 ggr
 ghaffir
+glosses
 ghafir
 ghalva
 ghan
@@ -5894,7 +5895,6 @@ glossemes
 glossemic
 glosser
 glossers
-glosses
 glossic
 glossier
 glossies
