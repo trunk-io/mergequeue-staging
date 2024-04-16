@@ -6152,7 +6152,6 @@ favorability
 filibusterer
 flotas
 flote
-floter
 fittest
 flotillas
 flibbertigibbets
@@ -8063,6 +8062,7 @@ forestalls
 forestalment
 forestate
 forestation
+floter
 fm
 flexional
 forestaves
