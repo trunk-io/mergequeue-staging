@@ -5254,7 +5254,6 @@ beggiatoaceae
 beggiatoaceous
 begging
 beggingly
-beggingwise
 beghard
 begift
 begiggle
@@ -16453,6 +16452,7 @@ brutified
 burners
 brutifies
 brutifying
+beggingwise
 bruting
 brutish
 bowwort
