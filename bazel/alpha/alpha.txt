@@ -7574,7 +7574,6 @@ alcade
 alcades
 alcahest
 alcahests
-alcaic
 alcaiceria
 alcaics
 alcaid
@@ -14634,6 +14633,7 @@ anthropomorphized
 anthropomorphizing
 anthropomorphology
 anthropomorphological
+alcaic
 anthropomorphologically
 anthropomorphosis
 anthropomorphotheist
