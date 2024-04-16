@@ -6761,6 +6761,7 @@ foes
 foeship
 foetal
 foetalism
+frey
 frankable
 foetalization
 foetation
@@ -9758,7 +9759,6 @@ fregata
 fortitude
 fregatidae
 fregit
-frey
 freya
 freyalite
 freibergite
