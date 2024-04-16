@@ -984,6 +984,7 @@ dolesomeness
 doeling
 darer
 darers
+disobeys
 dares
 daresay
 darg
@@ -12797,7 +12798,6 @@ disobeyed
 disobeyer
 disobeyers
 disobeying
-disobeys
 disobligation
 disobligatory
 disoblige

@@ -3162,7 +3162,6 @@ basepoint
 baser
 baserunning
 bases
-basest
 bash
 bashalick
 bashara
@@ -9301,6 +9300,7 @@ bipinnarias
 bipinnate
 bipinnatifid
 bipinnatipartite
+basest
 bipinnatisect
 bipinnatisected
 bipyramid
