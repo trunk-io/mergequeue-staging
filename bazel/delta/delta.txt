@@ -15920,7 +15920,6 @@ dotage
 dotages
 doubleword
 dotal
-dotant
 dotard
 dotardism
 dotardly
@@ -16092,6 +16091,7 @@ doughfoots
 dakhma
 disincarcerate
 doughhead
+dotant
 doughy
 doughier
 doughiest
