@@ -21291,6 +21291,7 @@ askaris
 asked
 asker
 askers
+axhead
 askeses
 ampelite
 askesis
@@ -25068,7 +25069,6 @@ axes
 axfetch
 axhammer
 axhammered
-axhead
 axial
 axiality
 axialities
