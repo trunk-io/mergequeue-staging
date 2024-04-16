@@ -13224,7 +13224,6 @@ cichloid
 cichoriaceae
 cichoriaceous
 cichorium
-cicindela
 consigne
 cicindelidae
 cicisbei
@@ -23948,6 +23947,7 @@ convalescents
 convalescing
 cottier
 convallamarin
+cicindela
 convallaria
 convallariaceae
 convallariaceous

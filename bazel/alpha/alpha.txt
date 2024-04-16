@@ -3348,7 +3348,6 @@ apprehensions
 acupress
 acupressure
 acupunctuation
-acupuncturation
 acupuncturator
 acupuncture
 acupunctured
@@ -8871,6 +8870,7 @@ alloisomeric
 alloisomerism
 allokinetic
 allokurtic
+acupuncturation
 allolalia
 allomerism
 allomerize
