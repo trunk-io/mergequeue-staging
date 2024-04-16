@@ -2347,7 +2347,6 @@ electrochronometer
 electrochronometric
 eyebolt
 electrocystoscope
-electrocoagulation
 erythrophore
 electrocoating
 electrocolloidal
@@ -13947,6 +13946,7 @@ extraregarding
 extraregular
 extraregularly
 extrarenal
+electrocoagulation
 echinosphaerites
 extraretinal
 extrarhythmical
