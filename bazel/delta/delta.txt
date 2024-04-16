@@ -1706,7 +1706,6 @@ deathiness
 deathless
 deathlessly
 deathlessness
-deathly
 deathlike
 deathlikeness
 deathliness
@@ -11069,6 +11068,7 @@ disappoint
 disappointed
 disappointedly
 disappointer
+deathly
 disappointing
 disappointingly
 disappointingness
