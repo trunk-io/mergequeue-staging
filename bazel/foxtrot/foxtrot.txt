@@ -3951,6 +3951,7 @@ finecomb
 flatbread
 fined
 finedrawing
+foggier
 fineer
 fineish
 fineleaf
@@ -6796,7 +6797,6 @@ flapdock
 fruited
 foggy
 fibrine
-foggier
 foggiest
 fogginess
 fogging
