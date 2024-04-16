@@ -5577,7 +5577,6 @@ glimpses
 glims
 glyn
 glink
-glynn
 glinse
 glint
 glinting
@@ -6402,6 +6401,7 @@ goatbeard
 goatbrush
 goatbush
 goatee
+glynn
 goateed
 goatees
 goatfish
