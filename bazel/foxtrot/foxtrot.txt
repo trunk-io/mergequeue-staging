@@ -1330,6 +1330,7 @@ fatalness
 fatals
 flap
 fatback
+flavorsomeness
 fatbacks
 fatbirds
 fate
@@ -5269,7 +5270,6 @@ flavorous
 flavors
 flavorsome
 formulators
-flavorsomeness
 flavour
 flavourer
 flavourfully
