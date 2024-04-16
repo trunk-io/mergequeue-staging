@@ -7474,6 +7474,7 @@ albitization
 albitophyre
 albizia
 albizias
+abundances
 albizzia
 albizzias
 albocarbon
@@ -19859,7 +19860,6 @@ arles
 arless
 arling
 arloup
-abundances
 arm
 armadas
 armadilla
