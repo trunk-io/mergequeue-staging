@@ -3520,7 +3520,6 @@ gerundial
 gastropyloric
 gerundival
 gerundive
-gimps
 gerunds
 gervais
 gervao
@@ -9808,6 +9807,7 @@ guaiacs
 guaiacum
 guaiacums
 guayaqui
+gimps
 guaiaretic
 guaiasanol
 guaycuru
