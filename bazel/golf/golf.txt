@@ -1400,7 +1400,6 @@ garle
 garlic
 garlicky
 garliclike
-garlicmonger
 garlics
 galloner
 gibier
@@ -7917,6 +7916,7 @@ grandesque
 grandest
 grandeurs
 grandeza
+garlicmonger
 grandezza
 garnisheement
 grandfather
