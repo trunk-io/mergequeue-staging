@@ -8653,7 +8653,6 @@ forset
 forshape
 forsythia
 forsythias
-forslack
 forsloth
 forslow
 forsook
@@ -11139,6 +11138,7 @@ functors
 functus
 fund
 fundal
+forslack
 fundamental
 fundamentalism
 fundamentalist
