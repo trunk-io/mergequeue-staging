@@ -1825,6 +1825,7 @@ dais
 disanimating
 debit
 debitable
+diplacuses
 debite
 debited
 debiteuse
@@ -10515,7 +10516,6 @@ dipyridyl
 dipl
 diplacanthidae
 diplacanthus
-diplacuses
 diplacusis
 dipladenia
 diplanar
