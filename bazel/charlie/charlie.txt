@@ -16970,7 +16970,6 @@ cnidophore
 cnidophorous
 cupmate
 cnidopod
-cnidosac
 confoundable
 cnidoscolus
 co
@@ -20132,6 +20131,7 @@ ceratopteridaceous
 commissariats
 commissaries
 commissaryship
+cnidosac
 commissars
 commission
 commissional
