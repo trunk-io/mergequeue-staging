@@ -2166,7 +2166,6 @@ elatrometer
 exclusively
 elb
 elbert
-elboic
 elbow
 elbowchair
 elbowed
@@ -13351,6 +13350,7 @@ expressibility
 expressible
 expressibly
 expressio
+elboic
 expression
 expressionable
 expressional
