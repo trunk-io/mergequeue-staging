@@ -2622,7 +2622,6 @@ expensive
 electroscopes
 electroscopic
 electrosensitive
-electroshock
 electroshocks
 electrosynthetic
 electrosynthetically
@@ -3914,6 +3913,7 @@ emication
 emiction
 emictory
 emyde
+electroshock
 emydea
 emydes
 emydian
