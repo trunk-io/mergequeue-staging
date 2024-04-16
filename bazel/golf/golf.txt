@@ -918,6 +918,7 @@ gamelans
 gameless
 gamely
 gamelike
+gonfalonier
 gamelin
 gamelion
 gamelote
@@ -6807,7 +6808,6 @@ goners
 gonesome
 gonfalcon
 gonfalon
-gonfalonier
 gammaridae
 gonfalonierate
 gonfaloniership
