@@ -331,7 +331,6 @@ dahs
 depravers
 day
 dayabhaga
-dayak
 disincrustant
 dayakker
 dayal
@@ -15538,6 +15537,7 @@ doodlebug
 doodled
 doodler
 doodlers
+dayak
 doodles
 doodlesack
 doodling
