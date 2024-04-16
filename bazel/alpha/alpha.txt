@@ -20437,7 +20437,6 @@ artaba
 artabe
 artar
 arrojadite
-artarin
 artarine
 artcraft
 arte
@@ -22039,6 +22038,7 @@ asterisking
 asteriskless
 asteriskos
 asterisks
+artarin
 asterism
 asterismal
 asterisms
