@@ -2252,7 +2252,6 @@ baptisms
 beresite
 baptist
 baptistery
-baptistic
 baptistry
 baptists
 baptizable
@@ -9879,6 +9878,7 @@ bitterroot
 bittersweet
 bittersweetly
 bittersweetness
+baptistic
 bittersweets
 bitterweed
 bitterworm
