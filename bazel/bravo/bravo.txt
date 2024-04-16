@@ -2118,7 +2118,6 @@ bankings
 bankman
 bankmen
 banknote
-banknotes
 bankrider
 bankroll
 bankrolled
@@ -13675,6 +13674,7 @@ barehanded
 boutonniere
 boutonnieres
 boutons
+banknotes
 bouts
 bouvardia
 bouvier

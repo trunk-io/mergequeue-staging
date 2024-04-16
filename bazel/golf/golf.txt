@@ -1686,7 +1686,6 @@ gastornithidae
 gastradenitis
 gastraea
 gastraead
-gallocyanin
 gastraeas
 gastral
 gastralgy
@@ -5705,6 +5704,7 @@ globelet
 globelike
 globes
 globetrotters
+gallocyanin
 globetrotting
 globy
 globicephala
