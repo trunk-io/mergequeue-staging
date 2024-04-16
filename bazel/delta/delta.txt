@@ -9435,7 +9435,6 @@ digamies
 digamist
 digamists
 digamma
-digammas
 digammate
 digammated
 digammic
@@ -10367,6 +10366,7 @@ dioscuri
 dioscurian
 diose
 diosgenin
+digammas
 diosma
 diosmin
 diosmose
