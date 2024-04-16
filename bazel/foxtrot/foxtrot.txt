@@ -5079,7 +5079,6 @@ flashlights
 forellenstein
 flashness
 flashover
-feint
 flashtester
 flashtube
 flashtubes
@@ -7811,6 +7810,7 @@ flavobacterium
 francisco
 foreloop
 forelooper
+feint
 foulnesses
 foreloper
 fillingly
