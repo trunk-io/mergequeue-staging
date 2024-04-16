@@ -2582,6 +2582,7 @@ acmesthesia
 acmic
 acmispon
 acmite
+awatch
 acne
 acned
 acneiform
@@ -24953,7 +24954,6 @@ awaruite
 awash
 awaste
 awat
-awatch
 awater
 awave
 awber
