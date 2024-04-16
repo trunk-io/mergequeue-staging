@@ -6018,6 +6018,7 @@ deputizes
 deputizing
 dequantitate
 dequeen
+distend
 dequeue
 dequeued
 dequeues
@@ -13774,7 +13775,6 @@ distemperoid
 diplasiasmus
 distemperure
 distenant
-distend
 distended
 distendedly
 distendedness
