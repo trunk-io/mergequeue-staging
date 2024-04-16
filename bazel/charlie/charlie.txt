@@ -1419,7 +1419,6 @@ callianassidae
 calliandra
 callicarpa
 callid
-callidity
 callidness
 calligram
 calligraph
@@ -31419,6 +31418,7 @@ currachs
 currack
 curragh
 curraghs
+callidity
 currajong
 curran
 currance
