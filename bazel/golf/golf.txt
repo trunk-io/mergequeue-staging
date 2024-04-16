@@ -3067,7 +3067,6 @@ geographer
 gramaphone
 geographers
 geography
-geographic
 geographical
 geographically
 geographies
@@ -4426,6 +4425,7 @@ gyneocracy
 gyneolater
 gyneolatry
 ginep
+geographic
 gynephobia
 ginete
 gynethusia
