@@ -10717,7 +10717,6 @@ diprimary
 diprismatic
 dipropargyl
 dipropellant
-dipropyl
 dragnet
 diprotodan
 diprotodon
@@ -15703,6 +15702,7 @@ dori
 dandies
 dory
 doria
+dipropyl
 dorian
 doryanthes
 dorical
