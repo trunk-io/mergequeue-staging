@@ -5447,7 +5447,6 @@ glycerogel
 glycerol
 glycerolate
 glycerole
-glycerolyses
 glycerolysis
 glycerols
 glycerophosphate
@@ -9135,6 +9134,7 @@ grisaille
 grisailles
 grisard
 grisbet
+glycerolyses
 gurgly
 grise
 griselda
