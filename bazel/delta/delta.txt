@@ -1507,6 +1507,7 @@ deadener
 deadeners
 dotations
 deadening
+didymis
 deadeningly
 drillmaster
 deadest
@@ -9138,7 +9139,6 @@ didym
 didymate
 dackers
 didymia
-didymis
 didymitis
 distressingly
 didymium
