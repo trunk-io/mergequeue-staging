@@ -2103,7 +2103,6 @@ decarbonylation
 decarbonisation
 decarbonise
 decarbonised
-decarboniser
 decarbonising
 decarbonization
 decarbonize
@@ -12492,6 +12491,7 @@ disintegrated
 disintegrates
 disintegrating
 dipterological
+decarboniser
 disintegration
 disintegrationist
 disintegrations
