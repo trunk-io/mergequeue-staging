@@ -6641,6 +6641,7 @@ enterochirurgia
 enterochlorophyll
 expandability
 endorsement
+epilate
 enterochromaffin
 enterocinesia
 enterocinetic
@@ -7940,7 +7941,6 @@ epilabrum
 epilachnides
 epilamellar
 epilaryngeal
-epilate
 epilated
 epilating
 epilation
