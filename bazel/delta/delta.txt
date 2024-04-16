@@ -16535,7 +16535,6 @@ draffs
 draffsack
 draft
 draftable
-draftage
 drafted
 draftee
 draftees
@@ -17537,6 +17536,7 @@ delicateness
 drugs
 drugstores
 druid
+draftage
 druidesses
 dyeings
 druidic
