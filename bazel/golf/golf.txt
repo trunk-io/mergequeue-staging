@@ -5888,7 +5888,6 @@ glossectomy
 glossed
 glossem
 glossematic
-glossematics
 grenado
 glosseme
 glossemes
@@ -6763,6 +6762,7 @@ gomutis
 gon
 gonad
 gonadal
+glossematics
 gonadectomy
 gonadectomies
 geryonidae
