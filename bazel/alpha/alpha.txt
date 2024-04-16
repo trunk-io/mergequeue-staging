@@ -20454,7 +20454,6 @@ artemon
 anchoretical
 autoptical
 arter
-artery
 arteria
 arteriac
 arteriae
@@ -21013,6 +21012,7 @@ asclepidoid
 asclepieion
 asclepin
 abscision
+artery
 asclepius
 ascocarp
 ascocarpous

@@ -3145,7 +3145,6 @@ fibroglioma
 frying
 fibrohemorrhagic
 farfet
-fibroid
 fibroids
 fibroin
 fibroins
@@ -3775,6 +3774,7 @@ filmcards
 foreshoulder
 filmdom
 filmdoms
+fibroid
 firebases
 filmed
 filmer
