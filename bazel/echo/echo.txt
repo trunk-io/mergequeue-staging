@@ -10799,7 +10799,6 @@ eudiometric
 eudiometrical
 eudiometrically
 eudipleural
-eudist
 eudora
 eudorina
 eudoxian
@@ -13298,6 +13297,7 @@ exposed
 exposedness
 ethonomic
 exposer
+eudist
 exposers
 exposes
 exposing
