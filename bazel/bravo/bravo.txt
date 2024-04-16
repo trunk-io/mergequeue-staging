@@ -3111,6 +3111,7 @@ baseband
 baseboard
 boodledom
 baseboards
+birthstool
 baseborn
 basebred
 baseburner
@@ -9556,7 +9557,6 @@ birthroot
 births
 birthstone
 birthstones
-birthstool
 birthwort
 bis
 bys

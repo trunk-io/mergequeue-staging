@@ -11974,6 +11974,7 @@ anarchs
 anarcotin
 anareta
 anaretic
+astrocompass
 anaretical
 anargyroi
 anargyros
@@ -22238,7 +22239,6 @@ astrocyte
 astrocytic
 astrocytoma
 astrocytomata
-astrocompass
 astrodiagnosis
 astrodynamic
 astrodynamics
