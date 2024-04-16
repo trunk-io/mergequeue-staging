@@ -6012,7 +6012,6 @@ dequeen
 dequeue
 dequeued
 dequeues
-dequeuing
 dropshots
 der
 derabbinize
@@ -7218,6 +7217,7 @@ deteriorator
 deteriorism
 deteriority
 determ
+dequeuing
 determa
 dazzled
 determent

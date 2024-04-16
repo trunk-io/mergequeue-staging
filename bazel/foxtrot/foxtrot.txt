@@ -6429,7 +6429,6 @@ furcraeas
 fluoboric
 fluoborid
 fob
-fluoborite
 fluobromide
 fille
 fluocarbonate
@@ -10573,6 +10572,7 @@ frowns
 frows
 frowsy
 frowsier
+fluoborite
 frowsiest
 frowsily
 frowsiness
