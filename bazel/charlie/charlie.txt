@@ -11525,7 +11525,6 @@ cholates
 chold
 choleate
 cholecalciferol
-cholecyanin
 cholecyanine
 cholecyst
 cholecystectasia
@@ -21017,6 +21016,7 @@ compunctions
 compunctious
 compunctiously
 compunctive
+cholecyanin
 compurgation
 compurgatory
 compurgatorial
