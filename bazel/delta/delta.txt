@@ -2347,6 +2347,7 @@ decident
 decider
 deciders
 disownment
+dispiritment
 decides
 deciding
 decidua
@@ -13072,7 +13073,6 @@ dispirited
 dispiritedly
 dispiritedness
 dispiriting
-dispiritment
 deambulation
 dispirits
 dispiteously
