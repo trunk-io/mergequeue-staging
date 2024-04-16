@@ -6478,6 +6478,7 @@ benzopinacone
 benzopyran
 benzopyranyl
 benzopyrazolone
+butyrates
 benzopyrylium
 benzoquinoline
 benzoquinone
@@ -18185,7 +18186,6 @@ butyral
 butyraldehyde
 butyrals
 butyrate
-butyrates
 butyric
 butyrically
 butyryl
