@@ -7866,6 +7866,7 @@ epiglottal
 evolutility
 epiglottic
 epiglottidean
+exosmosis
 epiglottiditis
 epiglottis
 epiglottises
@@ -12826,7 +12827,6 @@ exoskeleton
 exosmic
 enterocolostomy
 exosmose
-exosmosis
 empty
 exosmotic
 enamines
