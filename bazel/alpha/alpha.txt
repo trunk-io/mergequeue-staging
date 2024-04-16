@@ -8840,7 +8840,6 @@ allodies
 allodification
 allodium
 allods
-alloeosis
 alloeostropha
 arteriophlebotomy
 anguimorpha
@@ -8998,6 +8997,7 @@ allotropies
 allotropism
 allotropize
 allotropous
+alloeosis
 allots
 allottable
 allottee
