@@ -9211,7 +9211,6 @@ diehards
 dyehouse
 dieyerie
 dyeing
-dyeings
 dieldrin
 dieldrins
 dyeleaves
@@ -17539,6 +17538,7 @@ drugs
 drugstores
 druid
 druidesses
+dyeings
 druidic
 despots
 druidisms
