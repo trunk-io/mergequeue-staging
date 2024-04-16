@@ -3354,6 +3354,7 @@ captandum
 captans
 captate
 captation
+corroboration
 caption
 captioned
 captioning
@@ -25753,7 +25754,6 @@ corroborated
 cages
 corroborates
 corroborating
-corroboration
 cancellated
 corroborations
 caddish
