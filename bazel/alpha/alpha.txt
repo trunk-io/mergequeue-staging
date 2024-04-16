@@ -19965,7 +19965,6 @@ armloads
 armlock
 armlocks
 armoire
-armoires
 armomancy
 armoniac
 armonica
@@ -22293,6 +22292,7 @@ astrometeorologist
 astrometer
 astrometry
 astrometrical
+armoires
 astron
 astronaut
 astronautic

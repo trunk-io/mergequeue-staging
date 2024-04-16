@@ -6118,7 +6118,6 @@ florulae
 flinder
 florulent
 floscular
-floscularia
 floscularian
 flosculariidae
 floscule
@@ -6950,6 +6949,7 @@ foliose
 foliosity
 flowmanostat
 foliot
+floscularia
 folious
 foliously
 foliums
