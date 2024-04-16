@@ -2722,7 +2722,6 @@ decorator
 decoratory
 decorators
 decapsulation
-decore
 decorement
 decorist
 decorous
@@ -9623,6 +9622,7 @@ dihydride
 dihydrite
 dihydrocupreine
 dihydrocuprin
+decore
 dollyman
 dihydroergotamine
 dihydrogen
