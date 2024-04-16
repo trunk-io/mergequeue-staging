@@ -596,7 +596,6 @@ fortuitousness
 falser
 falsest
 falsettist
-falsetto
 falsettos
 falsework
 falsie
@@ -6189,6 +6188,7 @@ flashlike
 flourished
 flourishes
 flourishy
+falsetto
 foobar
 flourishingly
 flourless
