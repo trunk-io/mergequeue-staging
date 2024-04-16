@@ -8721,7 +8721,6 @@ chaogenous
 chaology
 chaori
 chaos
-chaotic
 chaotical
 chaotically
 chaoticness
@@ -30287,6 +30286,7 @@ cruse
 cruses
 cruset
 crusets
+chaotic
 crush
 crushability
 crushable
