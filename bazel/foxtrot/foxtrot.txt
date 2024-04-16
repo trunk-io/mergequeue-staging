@@ -5562,7 +5562,6 @@ flybelt
 fromage
 flybelts
 flyby
-flagellator
 flybys
 fluctisonous
 flyblow
@@ -7763,6 +7762,7 @@ foreigns
 foreimagination
 fogeys
 foreimagine
+flagellator
 fruticant
 foreimpressed
 fleetness
