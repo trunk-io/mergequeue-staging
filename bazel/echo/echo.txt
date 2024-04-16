@@ -2439,7 +2439,6 @@ electroharmonic
 electrohemostasis
 eveners
 electrohydraulic
-exacinate
 electrohydraulically
 electrohomeopathy
 electrohorticulture
@@ -9722,6 +9721,7 @@ eurythmy
 esophagocele
 esophagodynia
 esophagogastroscopy
+exacinate
 epigonichthyidae
 esophagogastrostomy
 esophagomalacia
