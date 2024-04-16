@@ -2571,7 +2571,6 @@ ferretto
 ferri
 ferry
 ferriages
-ferryboat
 ferryboats
 ferric
 familistery
@@ -4347,6 +4346,7 @@ fiscalism
 fiscalization
 fiscalize
 fiscalized
+ferryboat
 falbalas
 fixatif
 fischerite
