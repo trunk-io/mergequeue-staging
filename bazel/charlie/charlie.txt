@@ -11851,7 +11851,6 @@ choragus
 choraguses
 chorai
 choral
-choralcelo
 chorale
 choraleon
 chorales
@@ -28113,6 +28112,7 @@ craniol
 craniology
 craniological
 craniologically
+choralcelo
 craniologist
 craniom
 craniomalacia
