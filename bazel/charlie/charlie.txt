@@ -2139,7 +2139,6 @@ canabae
 canacee
 canada
 canadian
-canadianisms
 canadianization
 coagulase
 canadianize
@@ -4706,6 +4705,7 @@ carrions
 carryons
 carryout
 carryouts
+canadianisms
 carryover
 carryovers
 carrys
