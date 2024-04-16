@@ -1682,6 +1682,7 @@ accordatura
 amphiphloic
 accordaturas
 accordature
+aeroperitonia
 accorded
 accorder
 accorders
@@ -5079,7 +5080,6 @@ aeropause
 antilapse
 aerope
 aeroperitoneum
-aeroperitonia
 aerophagy
 aerophagia
 aerophagist

@@ -572,7 +572,6 @@ gamodemes
 galleyworm
 galleon
 galleons
-galler
 gallera
 gallery
 galleria
@@ -8061,6 +8060,7 @@ granophyric
 granose
 grantable
 granted
+galler
 grantedly
 grantee
 grantees
