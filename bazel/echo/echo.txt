@@ -2219,7 +2219,6 @@ eldress
 eldrich
 eldritch
 elds
-elean
 eleanor
 eleazar
 elec
@@ -3490,6 +3489,7 @@ emblem
 emblematic
 escandalize
 emblematical
+elean
 emblematically
 emblematicalness
 emblematise
