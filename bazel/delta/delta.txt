@@ -1462,7 +1462,6 @@ ddname
 ddt
 dea
 deaccession
-deaccessioned
 deaccessioning
 deaccessions
 deacetylated
@@ -1504,6 +1503,7 @@ dilemmas
 deadeye
 deadeyes
 deaden
+deaccessioned
 deadened
 deadener
 deadeners
