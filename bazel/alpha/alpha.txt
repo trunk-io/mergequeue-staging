@@ -1485,7 +1485,6 @@ acception
 acceptor
 acceptors
 acceptress
-accepts
 accerse
 accersition
 accersitor
@@ -2370,6 +2369,7 @@ achromobacter
 achromobacterieae
 achromoderma
 achromophilous
+accepts
 achromotrichia
 achromous
 achronical
