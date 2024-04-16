@@ -2671,6 +2671,7 @@ generalness
 generals
 generalships
 generalty
+gooroo
 generant
 glances
 gilt
@@ -7061,7 +7062,6 @@ goops
 gooral
 goorals
 gooranut
-gooroo
 goos
 goosander
 goose
