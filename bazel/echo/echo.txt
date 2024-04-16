@@ -1211,7 +1211,6 @@ efflorescing
 educations
 educator
 educatory
-educators
 educatress
 endbrain
 educe
@@ -6433,6 +6432,7 @@ ensilability
 ensilaged
 ensilages
 ensilaging
+educators
 ensilate
 ensilation
 ensile
