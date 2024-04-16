@@ -6517,6 +6517,7 @@ bepat
 bepatched
 bepaw
 bepearl
+breakwater
 bepelt
 bepen
 bepepper
@@ -14841,7 +14842,6 @@ breakthroughs
 boussingaultia
 breakup
 breakups
-breakwater
 breakweather
 breakwind
 bream
