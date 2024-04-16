@@ -7275,7 +7275,6 @@ enwinding
 enwinds
 enwing
 enwingly
-enwoman
 enwomb
 enwombed
 enwombs
@@ -7713,6 +7712,7 @@ epicondylitis
 epicontinental
 epicoracohumeral
 epicoracoid
+enwoman
 epicoracoidal
 everduring
 epicormic
