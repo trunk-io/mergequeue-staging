@@ -2403,7 +2403,6 @@ decime
 decimestrial
 decimeter
 decimeters
-decimetre
 decimolar
 daysman
 dangering
@@ -11290,6 +11289,7 @@ discases
 discasing
 discatter
 disced
+decimetre
 discede
 dalan
 defining

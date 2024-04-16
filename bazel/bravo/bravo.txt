@@ -2374,6 +2374,7 @@ barbel
 barbeled
 barbellate
 barbells
+billets
 barbellula
 barbellulae
 barbellulate
@@ -8638,7 +8639,6 @@ billethead
 billety
 billeting
 berliner
-billets
 billette
 billetty
 broadband
