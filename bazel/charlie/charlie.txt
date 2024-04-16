@@ -12922,6 +12922,7 @@ critism
 chut
 chute
 chuted
+cloverleafs
 chuter
 chutes
 chuting
@@ -16765,7 +16766,6 @@ clover
 clovered
 clovery
 cloverleaf
-cloverleafs
 cloverleaves
 cloverley
 cloveroot
