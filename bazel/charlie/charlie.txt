@@ -16580,7 +16580,6 @@ cloner
 cloners
 clones
 clong
-clonic
 clonicity
 clonicotonic
 cloning
@@ -25562,6 +25561,7 @@ corporality
 corporalities
 corporally
 corporals
+clonic
 corporalship
 corporas
 corporate
