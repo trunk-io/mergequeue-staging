@@ -108,7 +108,6 @@ dactylioglyphic
 dactylioglyphist
 dactyliographer
 dactyliography
-dactyliographic
 decremented
 debilitating
 dactyliology
@@ -12211,6 +12210,7 @@ disgracing
 disgracious
 dwarfness
 disgracive
+dactyliographic
 disgradation
 dazzlement
 disgrade
