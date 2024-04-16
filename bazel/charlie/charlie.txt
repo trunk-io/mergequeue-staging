@@ -22396,7 +22396,6 @@ charases
 coning
 conynge
 coninidia
-conins
 coniogramme
 coniology
 coniomycetes
@@ -31857,6 +31856,7 @@ cutset
 cuttable
 cuttage
 cuttages
+conins
 cuttail
 cutted
 cutter
