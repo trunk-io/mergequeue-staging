@@ -20419,6 +20419,7 @@ compagnie
 compagnies
 cresols
 companable
+constellation
 companage
 companator
 compander
@@ -23076,7 +23077,6 @@ constatory
 constellate
 constellated
 constellating
-constellation
 constellations
 conster
 consternate
