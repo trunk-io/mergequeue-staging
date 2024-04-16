@@ -4020,7 +4020,6 @@ gigartina
 gigartinaceae
 gigartinaceous
 gigartinales
-gigasecond
 gigaton
 gigatons
 gigavolt
@@ -9432,6 +9431,7 @@ groundenell
 grounder
 grounders
 groundflower
+gigasecond
 groundhog
 groundy
 grounding
