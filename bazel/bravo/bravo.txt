@@ -1339,6 +1339,7 @@ backstroked
 bearlike
 balao
 balaos
+bevel
 balaphon
 balarama
 balarao
@@ -7535,7 +7536,6 @@ bevaring
 bevatron
 bevatrons
 beveil
-bevel
 beveled
 beveler
 bevelers

@@ -4665,7 +4665,6 @@ advertized
 advertizement
 advertizer
 advertizes
-advertizing
 adverts
 advice
 adviceful
@@ -19047,6 +19046,7 @@ archivolt
 archizoic
 archjockey
 archking
+advertizing
 archknave
 archlet
 archleveler
