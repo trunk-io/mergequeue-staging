@@ -2498,6 +2498,7 @@ bardo
 bardocucullus
 bardolater
 bardolatry
+blindman
 bardolph
 bardolphian
 bards
@@ -10845,7 +10846,6 @@ blindless
 blindly
 blindling
 boilery
-blindman
 blindness
 burnooses
 blindstitch
