@@ -6148,7 +6148,6 @@ fretty
 flossing
 flot
 flota
-flotage
 flotages
 flotant
 favorability
@@ -8570,6 +8569,7 @@ formulator
 formulatory
 frostbird
 formulisation
+flotage
 formulised
 formuliser
 fan
