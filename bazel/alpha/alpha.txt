@@ -3359,7 +3359,6 @@ acusection
 acusector
 atresy
 acushla
-acustom
 acutance
 acutances
 acutangular
@@ -14743,6 +14742,7 @@ antiannexationist
 antianopheline
 antianthrax
 antianthropomorphism
+acustom
 antiantibody
 antiantidote
 antiantienzyme
