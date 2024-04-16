@@ -2629,7 +2629,6 @@ decempeda
 decolourized
 decolourizer
 decolourizing
-decolours
 decommission
 decommissioned
 dischase
@@ -12170,6 +12169,7 @@ disgavel
 disgaveled
 disgaveling
 dicers
+decolours
 disgavelled
 disgavelling
 disgeneric
