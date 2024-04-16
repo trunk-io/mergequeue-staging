@@ -9064,7 +9064,6 @@ fourling
 fourneau
 fourness
 fourniture
-fourpence
 fourpenny
 fourposter
 fourposters
@@ -9591,6 +9590,7 @@ freakier
 facetious
 freakiest
 freakiness
+fourpence
 freaking
 freakish
 freakishly
