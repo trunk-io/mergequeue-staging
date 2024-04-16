@@ -1165,7 +1165,6 @@ editorships
 editress
 editresses
 edits
-edituate
 euthermic
 edmond
 edmund
@@ -13795,6 +13794,7 @@ extract
 extractability
 extractable
 extractant
+edituate
 extracted
 extractibility
 extractible
