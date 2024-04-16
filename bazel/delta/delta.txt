@@ -3837,6 +3837,7 @@ deionization
 deionizations
 deionize
 deionized
+desecate
 deionizer
 deionizes
 deionizing
@@ -6513,7 +6514,6 @@ desdemona
 deseam
 dished
 deseasonalize
-desecate
 desecrate
 desecrated
 desecrater
