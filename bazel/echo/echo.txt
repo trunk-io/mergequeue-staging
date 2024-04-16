@@ -1386,7 +1386,6 @@ efficaciously
 efficaciousness
 efficacity
 efficience
-efficiency
 efficient
 efficiently
 exhortation
@@ -4413,6 +4412,7 @@ equiped
 euskera
 enamelled
 enameller
+efficiency
 enamellers
 enamelless
 enamelling
