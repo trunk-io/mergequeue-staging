@@ -11799,7 +11799,6 @@ analogies
 analogion
 analogions
 analogise
-analogised
 analogising
 analogism
 analogize
@@ -14548,6 +14547,7 @@ anthrax
 anthraxylon
 anthraxolite
 anthrenus
+analogised
 anthribid
 anthribidae
 anthryl
