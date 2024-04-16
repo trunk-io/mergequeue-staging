@@ -11842,7 +11842,6 @@ exampleship
 extracapsular
 exampless
 exampling
-exams
 exanguin
 exanimation
 exannulate
@@ -13834,6 +13833,7 @@ extradoses
 extraduction
 extradural
 extraembryonal
+exams
 eltime
 extraembryonic
 extraenteric
