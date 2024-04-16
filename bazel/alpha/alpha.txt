@@ -2490,7 +2490,6 @@ acilius
 acylogen
 acyloin
 acyloins
-acyloxy
 acyloxymethane
 acyls
 acinaceous
@@ -12107,6 +12106,7 @@ anatomopathologic
 anatopism
 anatosaurus
 antiaristocratical
+acyloxy
 anatoxin
 anatoxins
 anatreptic
