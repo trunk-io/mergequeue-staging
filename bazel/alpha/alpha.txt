@@ -3223,6 +3223,7 @@ activate
 activated
 activates
 activating
+antifreezing
 activations
 activator
 activators
@@ -15317,7 +15318,6 @@ antigenic
 antigenically
 antigenicity
 antigens
-antifreezing
 antigigmanic
 antigyrous
 accelerate
