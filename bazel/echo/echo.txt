@@ -9631,7 +9631,6 @@ escrow
 escrowed
 escrowee
 escrowing
-exclamation
 escuage
 escudero
 escudo
@@ -11051,6 +11050,7 @@ euphonized
 empowered
 euphonizing
 enlarger
+exclamation
 euphonon
 euphonous
 euphorbia
