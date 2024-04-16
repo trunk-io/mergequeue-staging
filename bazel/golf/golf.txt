@@ -2681,6 +2681,7 @@ generalships
 generalty
 generant
 glances
+gilt
 gelatinized
 generate
 generated
@@ -4174,7 +4175,6 @@ gilravager
 gils
 gilse
 gilsonite
-gilt
 gilten
 gestening
 gilty
