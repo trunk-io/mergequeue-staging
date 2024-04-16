@@ -2275,7 +2275,6 @@ achingly
 achiote
 achiotes
 achira
-achyranthes
 achirite
 achyrodes
 achitophel
@@ -24887,6 +24886,7 @@ avulsion
 adeption
 avulsions
 avuncular
+achyranthes
 avunculate
 avunculize
 awa
