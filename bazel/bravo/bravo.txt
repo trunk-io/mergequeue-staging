@@ -12059,6 +12059,7 @@ boldfacedness
 boldfacing
 batodendron
 boldhearted
+belibeling
 boldheartedly
 boldheartedness
 boldin
@@ -17201,7 +17202,6 @@ bullous
 bullpen
 bullpens
 bullpoll
-belibeling
 bullpout
 bullpup
 bullragged
