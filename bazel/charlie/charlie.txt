@@ -8710,6 +8710,7 @@ chanting
 chantingly
 chantlate
 chantment
+cornflag
 chantor
 chantors
 chantress
@@ -25340,7 +25341,6 @@ cornfactor
 cornfed
 cornfield
 cornfields
-cornflag
 cornflakes
 cornfloor
 cornflour
