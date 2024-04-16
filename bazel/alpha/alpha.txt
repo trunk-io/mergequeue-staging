@@ -2600,6 +2600,7 @@ acnode
 acnodes
 acoasm
 acoasma
+antioptimistic
 acocanthera
 avile
 acocantherin
@@ -15745,7 +15746,6 @@ antiophthalmic
 antiopium
 antiopiumist
 antioptimism
-antioptimistic
 antioptimistical
 antioptimistically
 antipharisaic
