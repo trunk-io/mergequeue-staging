@@ -17290,7 +17290,6 @@ apometabolism
 apometabolous
 apomict
 apomictic
-apomictical
 apomictically
 apomicts
 apomixes
@@ -18929,6 +18928,7 @@ archicleistogamous
 antecedal
 archicoele
 archicontinent
+apomictical
 archidamus
 archidiaceae
 archidiaconal
