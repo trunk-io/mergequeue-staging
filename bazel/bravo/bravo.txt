@@ -2403,7 +2403,6 @@ barite
 barbettes
 bispore
 barbican
-barbicanage
 barbicans
 barbicel
 barbicels
@@ -13817,6 +13816,7 @@ bowmen
 bown
 bowne
 bowpin
+barbicanage
 bart
 bowpot
 bowpots
