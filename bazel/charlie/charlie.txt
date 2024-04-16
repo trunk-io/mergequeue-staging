@@ -2273,7 +2273,6 @@ cancerousness
 chasubled
 curare
 cancerroot
-cancers
 cancerweed
 cancerwort
 canch
@@ -25333,6 +25332,7 @@ cornfields
 cornflag
 cornflakes
 cornfloor
+cancers
 cornflour
 cornflower
 cornflowers
