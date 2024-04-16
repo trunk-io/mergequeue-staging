@@ -11672,7 +11672,6 @@ evocators
 evodia
 evoe
 eleut
-evoker
 evokers
 evokes
 ergs
@@ -12116,6 +12115,7 @@ exclude
 excludes
 excludible
 excludingly
+evoker
 exclusion
 exclusionary
 eigenspace
