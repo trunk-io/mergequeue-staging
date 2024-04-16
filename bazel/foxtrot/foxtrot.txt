@@ -5282,7 +5282,6 @@ flavours
 flavoursome
 frothiest
 flawed
-flawedness
 flawflower
 flawful
 flawy
@@ -10888,6 +10887,7 @@ fulgorous
 fulgourous
 floccular
 fulgurant
+flawedness
 fulgurata
 fulgurate
 fulgurated
