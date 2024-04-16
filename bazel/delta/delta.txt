@@ -1127,7 +1127,6 @@ dashboard
 dashboards
 dashed
 dashedly
-dashee
 dasheen
 dasheens
 dashel
@@ -14934,6 +14933,7 @@ dogeys
 dogeless
 doges
 dogeship
+dashee
 dogeships
 dogface
 dogfall
