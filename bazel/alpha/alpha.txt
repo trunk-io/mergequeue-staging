@@ -5167,6 +5167,7 @@ ambaries
 aesculetin
 aesculin
 aesculus
+appendicitis
 aesir
 aesop
 aesopian
@@ -17690,7 +17691,6 @@ appendicectomy
 appendicectomies
 appendices
 appendicial
-appendicitis
 appendicle
 appendicocaecostomy
 appendicostomy
