@@ -7239,6 +7239,7 @@ footnotes
 footpace
 footpaces
 forefather
+forehall
 footpad
 footpads
 footpath
@@ -7706,7 +7707,6 @@ foregut
 ferine
 foreguts
 forehalf
-forehall
 forehammer
 forehand
 forehanded

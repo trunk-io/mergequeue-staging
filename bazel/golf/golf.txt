@@ -1580,7 +1580,6 @@ gasifiable
 gasification
 gasified
 gasifier
-gasifiers
 gasifies
 gasifying
 gasiform
@@ -7530,6 +7529,7 @@ gowkedness
 grunch
 gorinesses
 gasthauses
+gasifiers
 gowks
 gowl
 gowlan
