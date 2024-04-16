@@ -3096,7 +3096,6 @@ defalcator
 defalk
 defamation
 defamations
-defamatory
 defame
 defamed
 defamer
@@ -9989,6 +9988,7 @@ dimorphous
 dimorphs
 dimout
 dimouts
+defamatory
 dimple
 dimpled
 dimplement
