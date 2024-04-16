@@ -22723,7 +22723,6 @@ atomy
 atomic
 atomical
 atomically
-atomician
 atomicism
 atomicity
 atomies
@@ -25087,6 +25086,7 @@ axilemmata
 axilla
 axillae
 axillant
+atomician
 axillar
 axillary
 axillaries

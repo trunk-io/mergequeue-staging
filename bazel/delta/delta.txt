@@ -2693,6 +2693,7 @@ decontaminated
 decontaminates
 decontaminating
 decontaminations
+duodenopancreatectomy
 decontaminative
 decontaminator
 decontaminators
@@ -18304,7 +18305,6 @@ duodenogram
 duodenojejunal
 duodenojejunostomy
 duodenojejunostomies
-duodenopancreatectomy
 duodenoscopy
 duodenostomy
 difda
