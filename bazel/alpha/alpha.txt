@@ -11520,7 +11520,6 @@ anaces
 anacharis
 anachoret
 anachorism
-anachromasis
 anachronic
 anachronical
 anachronically
@@ -14311,6 +14310,7 @@ anteroventral
 antes
 antescript
 antesignani
+anachromasis
 antesignanus
 antespring
 antestature
