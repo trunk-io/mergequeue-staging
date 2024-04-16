@@ -11008,6 +11008,7 @@ blockmaking
 blockman
 blockpate
 blocks
+bosc
 blockship
 blocs
 blodite
@@ -13118,7 +13119,6 @@ borzicactus
 borzoi
 borzois
 bos
-bosc
 boscage
 boscages
 bosch
