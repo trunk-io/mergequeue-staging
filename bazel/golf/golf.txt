@@ -7417,7 +7417,6 @@ gour
 goura
 granulomatous
 gourami
-gouramis
 gourd
 gourde
 gourded
@@ -10817,6 +10816,7 @@ griffado
 gregorianist
 gutturine
 gutturonasal
+gouramis
 gutturopalatal
 gutturopalatine
 gutturotetany
