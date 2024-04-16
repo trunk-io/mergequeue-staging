@@ -4863,7 +4863,6 @@ girted
 girth
 girthed
 girthing
-girthline
 girths
 gamosepalous
 girting
@@ -7194,6 +7193,7 @@ gorgonacea
 geoduck
 gorgonacean
 gorgonaceous
+girthline
 gorgoneia
 gorgoneion
 gorgonesque
