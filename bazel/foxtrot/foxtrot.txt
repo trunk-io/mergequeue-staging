@@ -1082,7 +1082,6 @@ farnesols
 farness
 farnesses
 faro
-faroelite
 foremast
 faroese
 farolito
@@ -7050,6 +7049,7 @@ fonded
 furziest
 fonder
 fondest
+faroelite
 fonding
 fondle
 flocculose
