@@ -2393,6 +2393,7 @@ decimalizes
 decimalizing
 decimally
 decimals
+differentiant
 decimate
 decimated
 decimates
@@ -9341,7 +9342,6 @@ differentiae
 differential
 differentialize
 differentials
-differentiant
 differentiate
 differentiates
 differentiating
