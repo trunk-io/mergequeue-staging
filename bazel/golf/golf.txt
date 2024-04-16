@@ -5852,7 +5852,6 @@ glorifications
 glorified
 glorifier
 glorifiers
-glorifies
 glorifying
 gloryful
 glorying
@@ -9865,6 +9864,7 @@ gnatty
 guanize
 guano
 geodesic
+glorifies
 glideness
 guanophore
 guanos
