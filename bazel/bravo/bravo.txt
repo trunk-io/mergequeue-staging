@@ -10992,7 +10992,6 @@ barbedness
 blocky
 blockier
 blockiest
-blockiness
 blocking
 blockish
 blockishly
@@ -14707,6 +14706,7 @@ brazas
 braze
 brazed
 brazee
+blockiness
 brazen
 brazened
 brazenface
