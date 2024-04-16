@@ -6255,7 +6255,6 @@ aglipayan
 aglipayano
 aglypha
 aglyphodonta
-aglyphodontia
 aglyphous
 aglisten
 aglitter
@@ -8601,6 +8600,7 @@ allegiare
 acanthomeridae
 alleging
 allegory
+aglyphodontia
 allegoric
 allegorical
 allegorically
