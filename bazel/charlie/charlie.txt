@@ -3313,7 +3313,6 @@ capsulate
 capsulated
 capsulation
 capsule
-cisgangetic
 collegatary
 capsulectomy
 capsuled
@@ -9489,6 +9488,7 @@ checkerspot
 checkerwise
 checkerwork
 checkhook
+cisgangetic
 checky
 checklaton
 checkle
