@@ -921,7 +921,6 @@ ectosarcous
 ectoskeleton
 eggcupful
 ectosomal
-ectosphenoid
 ectosphenotic
 ehatisaht
 ectosphere
@@ -9262,6 +9261,7 @@ erminites
 erminois
 ern
 erne
+ectosphenoid
 ernes
 ernest
 ernestine
