@@ -13922,6 +13922,7 @@ anosmias
 anosmic
 anosognosia
 anosphrasia
+apterial
 anosphresia
 anospinal
 avidya
@@ -18122,7 +18123,6 @@ aptera
 apteral
 apteran
 apteria
-apterial
 apteryges
 apterygial
 apterygidae
