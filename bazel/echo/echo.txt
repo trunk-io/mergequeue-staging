@@ -4068,6 +4068,7 @@ empalers
 evert
 empaling
 empall
+enteradenological
 empanada
 empanel
 empaneled
@@ -6614,7 +6615,6 @@ enteraden
 enteradenography
 enteradenographic
 enteradenology
-enteradenological
 enteral
 enterally
 enterate
