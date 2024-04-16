@@ -3747,7 +3747,6 @@ battery
 batterie
 batteried
 batteries
-batteryman
 battering
 batterman
 batters
@@ -13547,6 +13546,7 @@ bouncingly
 bound
 blurring
 boundable
+batteryman
 boundary
 bountith
 bannerline

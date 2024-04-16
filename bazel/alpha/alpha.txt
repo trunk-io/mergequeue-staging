@@ -5783,7 +5783,6 @@ aftosa
 aftosas
 aftward
 aftwards
-afunction
 afunctional
 afwillite
 afzelia
@@ -20695,6 +20694,7 @@ articulationes
 articulationist
 articulations
 articulative
+afunction
 anteroventrally
 articulator
 articulatorily
