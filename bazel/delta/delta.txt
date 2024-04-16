@@ -7305,7 +7305,6 @@ detinuit
 detn
 detonability
 detonable
-detonatability
 detonatable
 depersonalised
 detonate
@@ -17545,6 +17544,7 @@ druidry
 druids
 druith
 drukpa
+detonatability
 drum
 drumbeat
 drumbeating
