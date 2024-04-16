@@ -11714,6 +11714,7 @@ chondrocoracoid
 chondrocostal
 chondrocranial
 chondrocranium
+crossopt
 chondrodynia
 chondrodystrophy
 chondrodystrophia
@@ -29887,7 +29888,6 @@ carbosilicate
 crossline
 crosslink
 crossness
-crossopt
 crossopterygian
 crossopterygii
 crossosoma

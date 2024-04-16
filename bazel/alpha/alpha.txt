@@ -8985,6 +8985,7 @@ allotrophic
 allotropy
 allotropic
 allotropical
+autosoterism
 allotropically
 allotropicity
 allotropies
@@ -24392,7 +24393,6 @@ autosomatognostic
 autosome
 autosomes
 autosoteric
-autosoterism
 autospore
 autosporic
 autospray
