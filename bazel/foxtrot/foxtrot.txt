@@ -4396,6 +4396,7 @@ fishgrass
 fishhood
 fishhook
 fishhooks
+frolicful
 fingerflower
 fishyard
 fishyback
@@ -10354,7 +10355,6 @@ fletch
 frolic
 flicks
 fibrinoplastic
-frolicful
 frolicker
 frolickers
 frolicky
