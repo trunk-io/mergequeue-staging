@@ -3880,7 +3880,6 @@ deixis
 deja
 deject
 decamps
-dejecta
 dejectedly
 dejectedness
 dejectile
@@ -8554,6 +8553,7 @@ diapirs
 diaplases
 diaplasis
 disillusions
+dejecta
 diaplasma
 diaplex
 dusks
