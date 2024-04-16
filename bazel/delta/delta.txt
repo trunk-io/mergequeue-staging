@@ -6190,7 +6190,6 @@ dermaskeleton
 dermasurgery
 dermatagra
 dermatalgia
-dermataneuria
 dermatatrophia
 darii
 dermatauxe
@@ -13029,6 +13028,7 @@ disperse
 dispersed
 dispersedelement
 dispersedye
+dermataneuria
 dispersedness
 dinosaurian
 dispersement
