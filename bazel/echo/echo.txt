@@ -2908,6 +2908,7 @@ emotionalize
 elfwort
 elhi
 eli
+evaluable
 elia
 electroanalysis
 elian
@@ -8239,7 +8240,6 @@ epispadiac
 epispadias
 epispastic
 epitrochoid
-evaluable
 epispermic
 epispinal
 episplenitis

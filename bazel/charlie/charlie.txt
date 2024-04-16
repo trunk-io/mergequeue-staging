@@ -16675,7 +16675,6 @@ clotheshorses
 clothesyard
 clothesless
 clothesline
-clotheslines
 clothesman
 clothesmen
 clothesmonger
@@ -24379,6 +24378,7 @@ cooperation
 cooperationist
 cooperations
 cooperative
+clotheslines
 cooperatively
 cooperativeness
 cooperatives
