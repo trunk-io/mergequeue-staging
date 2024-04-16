@@ -25313,6 +25313,7 @@ corner
 cornerback
 cornerbind
 cornercap
+cushion
 cornered
 cornerer
 cornering
@@ -31651,7 +31652,6 @@ cushiest
 cushily
 cushiness
 cushing
-cushion
 cushioncraft
 cushioned
 cushionet
