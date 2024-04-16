@@ -1006,7 +1006,6 @@ edaphic
 edaphically
 enerve
 edaphon
-edaphosauria
 edaphosaurid
 edaphosaurus
 edda
@@ -4959,6 +4958,7 @@ endamask
 endamebae
 endamebas
 endamebiasis
+edaphosauria
 episcopizing
 extradictable
 endamebic
