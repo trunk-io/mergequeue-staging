@@ -16886,7 +16886,6 @@ aphony
 aphonia
 aphonias
 aphonic
-aphonics
 aphonous
 aphorise
 aristarch
@@ -17807,6 +17806,7 @@ appliable
 appliableness
 appliance
 appliances
+aphonics
 appliant
 applicability
 applicabilities
