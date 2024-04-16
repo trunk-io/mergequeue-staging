@@ -1284,6 +1284,7 @@ balayeuse
 balak
 balaklava
 benzothiazole
+beartongue
 balalaika
 balalaikas
 balan
@@ -4185,7 +4186,6 @@ bears
 bearship
 bearskin
 bearskins
-beartongue
 bearward
 bearwood
 bearwoods
