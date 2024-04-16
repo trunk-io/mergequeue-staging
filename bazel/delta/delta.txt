@@ -5838,6 +5838,7 @@ depositors
 depositum
 depositure
 deposure
+derailleur
 depot
 defecter
 depotentiate
@@ -6042,7 +6043,6 @@ deraignment
 derail
 derailed
 derailing
-derailleur
 derailleurs
 derailment
 derailments
