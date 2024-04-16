@@ -397,7 +397,6 @@ backhaul
 backhauls
 backheel
 backhoe
-backhoes
 backhooker
 backhouse
 backhouses
@@ -734,6 +733,7 @@ baculi
 baculiform
 baculine
 baculite
+backhoes
 baculites
 baculitic
 baculiticone
