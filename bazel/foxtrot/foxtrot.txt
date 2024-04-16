@@ -6902,6 +6902,7 @@ foldy
 folding
 foldless
 foldout
+frowzy
 foldouts
 folds
 foldskirt
@@ -10588,7 +10589,6 @@ frowstiest
 frowstiness
 frowze
 falderol
-frowzy
 frowziest
 frowzily
 frowzled
