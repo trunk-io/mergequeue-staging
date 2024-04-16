@@ -3702,7 +3702,6 @@ carbonimeter
 carbonimide
 carbonisable
 carbonisation
-carbonise
 carbonised
 canister
 carboniser
@@ -19695,6 +19694,7 @@ combinant
 combinantive
 combinate
 combination
+carbonise
 combinational
 combinations
 combinative
