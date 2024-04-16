@@ -4325,7 +4325,6 @@ emulatress
 electrotonus
 emule
 embouchures
-emulgent
 emulous
 emulously
 escambio
@@ -10112,6 +10111,7 @@ estranger
 estranges
 estranging
 estrangle
+emulgent
 estre
 estreat
 estreated
