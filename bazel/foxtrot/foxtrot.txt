@@ -791,7 +791,6 @@ fanfold
 fanfolds
 fanfoot
 fang
-financing
 fanga
 fanger
 fangy
@@ -6348,6 +6347,7 @@ fluidized
 followup
 fluidizer
 flotations
+financing
 fluidizes
 fluidly
 fluidmeter
