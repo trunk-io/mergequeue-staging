@@ -3297,6 +3297,7 @@ fiddlers
 fiddles
 fiddlestick
 fiddlesticks
+foreallot
 fiddlewood
 fubbery
 flimflamming
@@ -7503,7 +7504,6 @@ foreadvertise
 foreadvice
 foreadvise
 foreallege
-foreallot
 foreannounce
 flatuses
 foreannouncement
