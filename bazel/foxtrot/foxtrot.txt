@@ -1071,6 +1071,7 @@ farmland
 farmlands
 farmost
 farmout
+francisca
 fisc
 farmplace
 farms
@@ -9383,7 +9384,6 @@ franchisor
 francia
 francic
 francisc
-francisca
 franciscan
 franciscans
 francium
