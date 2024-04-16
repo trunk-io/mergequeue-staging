@@ -4160,7 +4160,6 @@ delinquency
 delinquencies
 delinquently
 delinquents
-delint
 delinter
 deliquate
 deliquesce
@@ -15458,6 +15457,7 @@ donees
 doney
 doneness
 donenesses
+delint
 donet
 dong
 donga

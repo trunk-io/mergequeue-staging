@@ -1223,7 +1223,6 @@ gantries
 gantryman
 gantsl
 ganza
-ganzie
 gynostemia
 gaol
 gaoled
@@ -3209,6 +3208,7 @@ geopolitik
 geometrise
 geopolitist
 geopony
+ganzie
 geoponics
 girlhoods
 geopositive
