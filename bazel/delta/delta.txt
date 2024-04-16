@@ -2894,7 +2894,6 @@ decussorium
 decwriter
 dedal
 dedan
-dedanim
 dedanite
 demigoddessship
 dedd
@@ -15370,6 +15369,7 @@ dominial
 decalomania
 dominic
 dominica
+dedanim
 dominical
 dominicale
 dominicans
