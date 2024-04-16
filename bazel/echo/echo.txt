@@ -10968,7 +10968,6 @@ euonymy
 euonymin
 euonymous
 euonymus
-euornithes
 euornithic
 echinid
 euripos
@@ -13658,6 +13657,7 @@ externum
 exteroceptist
 exteroceptive
 exteroceptor
+euornithes
 exterraneous
 exterrestrial
 exterritorial
