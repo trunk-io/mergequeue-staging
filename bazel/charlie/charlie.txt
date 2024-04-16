@@ -3459,7 +3459,6 @@ caracoller
 caracolling
 caracols
 caracora
-caracore
 caract
 caractacus
 caracter
@@ -11777,6 +11776,7 @@ chondrostei
 chondrosteoma
 chondrosteous
 chondrosternal
+caracore
 chondrotome
 chondrotomy
 chondroxiphoid
