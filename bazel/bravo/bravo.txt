@@ -6040,7 +6040,6 @@ bemocks
 bemoil
 bemoisten
 bemol
-bemole
 bemolt
 bort
 bemonster
@@ -7725,6 +7724,7 @@ bezzo
 bf
 bg
 bhabar
+bemole
 bhadon
 bhagat
 blackball
