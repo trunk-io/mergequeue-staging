@@ -2398,7 +2398,6 @@ decimalizes
 decimalizing
 decimally
 decimals
-differentiant
 decimate
 decimated
 decimates
@@ -2942,6 +2941,7 @@ dedolomitized
 deduce
 defoam
 deduced
+differentiant
 deducement
 deducer
 deduces
