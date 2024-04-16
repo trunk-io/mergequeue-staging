@@ -2686,6 +2686,7 @@ generatively
 generativeness
 generator
 generators
+glossiest
 generatrices
 generic
 generical
@@ -5895,7 +5896,6 @@ glossers
 glossic
 glossier
 glossies
-glossiest
 glossily
 glossina
 glossinas

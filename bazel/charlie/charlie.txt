@@ -5166,7 +5166,6 @@ cassioberry
 cassiope
 cassiopeia
 cassiopeian
-cassiopeid
 cassiopeium
 cassique
 cassis
@@ -7600,6 +7599,7 @@ ceremonial
 ceremonialism
 ceremonialist
 ceremonialists
+cassiopeid
 ceremonialize
 ceremonially
 ceremonialness
