@@ -2398,7 +2398,6 @@ electroencephalograms
 electroencephalograph
 electroencephalographical
 electroendosmose
-episcope
 electroendosmosis
 electroendosmotic
 electroengrave
@@ -7145,6 +7144,7 @@ enucleated
 enucleation
 enucleator
 enumerability
+episcope
 epris
 exanthemata
 exanthalose
