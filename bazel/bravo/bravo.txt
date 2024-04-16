@@ -2504,6 +2504,7 @@ barebone
 barrener
 bareboned
 barebones
+boldfacedness
 bareca
 bared
 barefaced
@@ -12054,7 +12055,6 @@ boldface
 bostrychoid
 boldfaced
 boldfacedly
-boldfacedness
 boldfacing
 batodendron
 boldhearted
