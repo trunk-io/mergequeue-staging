@@ -5858,7 +5858,6 @@ cathetometric
 cathetus
 cathetusti
 cathexes
-cathexion
 cathexis
 cathy
 cathin
@@ -20127,6 +20126,7 @@ commissaryship
 commissars
 commission
 commissional
+cathexion
 commissionate
 commissionated
 commissionating
