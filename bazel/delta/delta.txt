@@ -7092,7 +7092,6 @@ desulfuration
 desulfuring
 desulfurisation
 desulfurise
-desulfurised
 desulfuriser
 desulfurising
 desulfurization
@@ -13371,6 +13370,7 @@ disregular
 detachability
 dinornithidae
 dryrot
+desulfurised
 disrelate
 disrelation
 disrelish
