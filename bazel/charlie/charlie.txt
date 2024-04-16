@@ -7732,7 +7732,6 @@ certifier
 certifiers
 certifies
 certifying
-certiorari
 certiorate
 certiorating
 certioration
@@ -9549,6 +9548,7 @@ cheddaring
 cheddars
 cheddite
 cadillac
+certiorari
 cheddites
 cheder
 cheders
