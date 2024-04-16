@@ -1222,7 +1222,6 @@ educes
 educible
 educive
 educt
-eduction
 eductions
 eductor
 eductors
@@ -7347,6 +7346,7 @@ eole
 eolian
 eolipile
 eolipiles
+eduction
 eolith
 eolithic
 eolopile
