@@ -10046,7 +10046,6 @@ dynamization
 dynamize
 dynamo
 dynamoelectric
-dynamoelectrical
 dynamogeneses
 dynamogenesis
 dumous
@@ -12677,6 +12676,7 @@ dislustred
 dislustring
 dismay
 dismayable
+dynamoelectrical
 dismayed
 dismayedness
 dismayful
