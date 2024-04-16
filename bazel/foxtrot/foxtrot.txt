@@ -5268,7 +5268,6 @@ formulators
 flavorsomeness
 flavour
 flavourer
-flavourful
 flavourfully
 flavoury
 festive
@@ -11105,6 +11104,7 @@ funambulist
 funambulo
 funambuloes
 funaria
+flavourful
 funariaceous
 funbre
 floyd
