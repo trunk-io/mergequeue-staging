@@ -9150,7 +9150,6 @@ chartophylaxes
 chartreux
 chartroom
 charts
-chartula
 chartulae
 chartulary
 chartularies
@@ -20279,6 +20278,7 @@ communalize
 communalized
 communalizer
 communalizing
+chartula
 communally
 communard
 chorographies
