@@ -4030,7 +4030,6 @@ beadlet
 beadman
 beadmen
 beadroll
-beadrolls
 blepharophimosis
 beads
 beadsmen
@@ -8263,6 +8262,7 @@ bifaces
 bifacial
 bifara
 bifarious
+beadrolls
 bifariously
 bifer
 biferous
