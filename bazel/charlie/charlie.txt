@@ -12601,7 +12601,6 @@ chronogrammatic
 chronogrammatical
 chronogrammatically
 chronogrammatist
-chronogrammic
 chronograph
 chronographer
 chronography
@@ -17905,6 +17904,7 @@ coelenterate
 coelenterates
 coelenteric
 coelenteron
+chronogrammic
 coelestial
 coelestine
 coelevate
