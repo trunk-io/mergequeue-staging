@@ -666,7 +666,6 @@ gallium
 galliums
 gallivant
 gallivanted
-gallivanter
 gallivanters
 gallivanting
 gallivants
@@ -2344,6 +2343,7 @@ gekkones
 gekkonid
 gekkonidae
 gekkonoid
+gallivanter
 gekkota
 gel
 gelable
