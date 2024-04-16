@@ -2150,6 +2150,7 @@ canadite
 canadol
 canafistola
 complanar
+craftsmanly
 canafistolo
 canafistula
 canafistulo
@@ -27937,7 +27938,6 @@ craftly
 craftmanship
 crafts
 craftsman
-craftsmanly
 charactonym
 craftsmanlike
 craftsmanship
