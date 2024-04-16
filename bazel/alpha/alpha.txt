@@ -12756,7 +12756,6 @@ anginal
 angrily
 anginas
 anginiform
-anginoid
 anginophobia
 anginose
 anginous
@@ -24503,6 +24502,7 @@ auxiliar
 auxiliary
 auxiliaries
 auxiliarly
+anginoid
 auxiliate
 auxiliation
 accoutering
