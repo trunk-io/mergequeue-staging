@@ -12447,6 +12447,7 @@ bonesetting
 bern
 boneshaker
 boneshaw
+burred
 bonetail
 bonete
 bonetta
@@ -15617,7 +15618,6 @@ broadax
 broadaxes
 broadbill
 broadbrim
-burred
 broadcast
 broadcasted
 broadcaster
