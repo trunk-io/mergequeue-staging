@@ -6926,7 +6926,6 @@ folial
 foliary
 foliate
 foliated
-foliating
 foliation
 foliator
 foliature
@@ -11485,6 +11484,7 @@ furrowing
 furrowless
 furrowlike
 furrows
+foliating
 fleabags
 furrure
 furs
