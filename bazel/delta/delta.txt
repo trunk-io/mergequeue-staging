@@ -345,6 +345,7 @@ dayberry
 daybill
 dayblush
 dayboy
+dustrag
 daybooks
 daybreak
 daybreaks
@@ -18576,7 +18577,6 @@ deusan
 dustpan
 dustpans
 dustpoint
-dustrag
 dustrags
 dissentient
 dusts
