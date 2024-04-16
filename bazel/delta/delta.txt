@@ -6262,6 +6262,7 @@ desirously
 dermatorrhagia
 dermatorrhea
 dermatorrhoea
+discommon
 dermatosclerosis
 dermatoscopy
 dermatoses
@@ -11512,7 +11513,6 @@ discommodiousness
 discommodity
 denary
 discommodities
-discommon
 declaratives
 discommoned
 discommoning
