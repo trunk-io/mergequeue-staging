@@ -4215,7 +4215,6 @@ employability
 eucephalous
 effund
 enteromere
-employable
 employe
 employed
 employee
@@ -9423,6 +9422,7 @@ eructating
 eructation
 eructative
 eructed
+employable
 eructing
 eruction
 exaggerated
