@@ -297,7 +297,6 @@ gaiterless
 gloom
 gaiting
 gaits
-gaitt
 gaius
 gayway
 gaywings
@@ -7939,6 +7938,7 @@ grandiflora
 grandiloquent
 grandiloquently
 grandiloquous
+gaitt
 grandiose
 grandioseness
 grandiosity
