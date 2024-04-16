@@ -5522,7 +5522,6 @@ deozonization
 deozonize
 denasalizing
 deozonizer
-dep
 depa
 depaganize
 depaint
@@ -9047,6 +9046,7 @@ diction
 disparage
 dictionary
 dictionarian
+dep
 dictionaries
 dictyonema
 dictyonina
