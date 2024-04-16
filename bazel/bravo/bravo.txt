@@ -3661,7 +3661,6 @@ blowziest
 batistes
 batlan
 batlet
-batlike
 batling
 batlon
 batman
@@ -3799,6 +3798,7 @@ batts
 bottom
 battu
 battue
+batlike
 battues
 batture
 battuta
