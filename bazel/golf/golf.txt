@@ -2077,7 +2077,6 @@ gaveled
 gaveler
 gavelet
 gavelkinder
-gavelled
 gopherwood
 gaveller
 grees
@@ -7962,6 +7961,7 @@ grandnephews
 grandness
 grandniece
 gonolobus
+gavelled
 grandnieces
 grandpa
 grandpap
