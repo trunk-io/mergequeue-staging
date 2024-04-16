@@ -761,7 +761,6 @@ galusha
 galut
 gerenuk
 galuth
-galvayne
 galvayned
 galvayning
 galvanic
@@ -3080,6 +3079,7 @@ geoids
 geoisotherm
 geol
 geolatry
+galvayne
 geolinguistics
 geologer
 geologers
