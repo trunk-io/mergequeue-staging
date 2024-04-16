@@ -11680,7 +11680,6 @@ bocage
 bocal
 bocardo
 bocasin
-bocasine
 bocca
 boccaccio
 boccale
@@ -11952,6 +11951,7 @@ boycott
 boycottage
 boycotted
 boycotting
+bocasine
 boycottism
 boycotts
 boid
