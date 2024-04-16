@@ -21838,7 +21838,6 @@ assmannshauser
 assmanship
 assobre
 associability
-associable
 associableness
 associated
 applaud
@@ -22262,6 +22261,7 @@ astroid
 astroite
 astrol
 astrolabe
+associable
 astrolabes
 astrolabical
 astrolater
