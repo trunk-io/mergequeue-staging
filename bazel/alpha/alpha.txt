@@ -9304,7 +9304,6 @@ alpargata
 alpax
 alpeen
 alpen
-alpenglow
 alpenhorns
 alpenstock
 alpenstocker
@@ -15088,6 +15087,7 @@ ascertainable
 anticryptic
 anticryptically
 anticrisis
+alpenglow
 anticritic
 anticritical
 anticritically
