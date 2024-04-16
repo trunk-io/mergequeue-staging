@@ -2675,6 +2675,7 @@ gooroo
 generant
 glances
 gilt
+goto
 gelatinized
 generate
 generated
@@ -7368,7 +7369,6 @@ gramma
 gothonic
 goths
 gotiglacial
-goto
 gotos
 gangliitis
 gonia
