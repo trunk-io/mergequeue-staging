@@ -471,7 +471,6 @@ galeorchis
 goner
 galeorhinidae
 galeorhinus
-galeproof
 garcons
 galera
 galere
@@ -3176,6 +3175,7 @@ geophagist
 geophagous
 greasily
 geophilid
+galeproof
 gasolene
 geophilidae
 gonif

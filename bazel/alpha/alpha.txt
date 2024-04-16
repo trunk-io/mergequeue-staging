@@ -5038,7 +5038,6 @@ aeroides
 anodine
 aerolite
 aerolites
-aerolith
 aerolithology
 aeroliths
 aerolitic
@@ -6102,6 +6101,7 @@ aggravating
 antismog
 aggravatingly
 aggravations
+aerolith
 aggravative
 aggravator
 acclamation
