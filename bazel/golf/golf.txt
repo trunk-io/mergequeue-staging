@@ -7602,7 +7602,6 @@ gracy
 gracilaria
 gracilariid
 gracilariidae
-gracileness
 graciles
 gracilescent
 gracilis
@@ -10142,6 +10141,7 @@ guideboard
 guidebooky
 guidebookish
 guidebooks
+gracileness
 guided
 guideless
 guideline

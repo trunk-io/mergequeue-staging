@@ -8541,7 +8541,6 @@ formulae
 formulaic
 formulaically
 formulary
-formularies
 formularisation
 formularise
 formularised
@@ -10103,6 +10102,7 @@ foxiest
 facks
 frijole
 frijoles
+formularies
 frijolillo
 frijolito
 frike
