@@ -1152,7 +1152,6 @@ fasces
 fascet
 fascia
 fasciae
-fascial
 fascias
 fasciate
 fasciated
@@ -5947,6 +5946,7 @@ floodlighted
 fearlessly
 floodlike
 floodlilit
+fascial
 floodlit
 floodmark
 floodplain
