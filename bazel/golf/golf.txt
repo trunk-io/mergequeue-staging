@@ -2566,7 +2566,6 @@ gained
 genouillere
 gemsbok
 gemsboks
-gemsbuck
 gemsbucks
 gemse
 gemstone
@@ -6767,6 +6766,7 @@ gonadotrope
 gonadotrophic
 gonadotrophin
 gonadotropic
+gemsbuck
 gonadotropin
 gonads
 gonaduct

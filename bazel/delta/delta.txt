@@ -12249,7 +12249,6 @@ disguising
 disgulf
 disgust
 disgusted
-disgustedly
 decametre
 disgustedness
 disguster
@@ -16987,6 +16986,7 @@ drench
 drenched
 drencher
 drenchers
+disgustedly
 drenches
 datacell
 drenching
