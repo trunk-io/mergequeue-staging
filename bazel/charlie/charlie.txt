@@ -4676,7 +4676,6 @@ carrell
 carrells
 carrels
 carreta
-carretela
 carretera
 carreton
 carretta
@@ -18214,6 +18213,7 @@ chaetophorales
 cofferer
 cofferfish
 coffering
+carretela
 cofferlike
 coffers
 cofferwork
