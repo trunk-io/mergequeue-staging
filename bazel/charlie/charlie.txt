@@ -1964,7 +1964,6 @@ campanist
 campanistic
 campanologer
 campanology
-campanological
 campanologically
 campanologist
 campanologists
@@ -21723,6 +21722,7 @@ condoning
 condor
 condores
 condors
+campanological
 condos
 condottiere
 condottieri
