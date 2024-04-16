@@ -14679,7 +14679,6 @@ dockets
 dockhand
 dockhands
 dockhouse
-dockyard
 debouched
 dockyardman
 dockyards
@@ -17136,6 +17135,7 @@ drylots
 drilvis
 drimys
 drynaria
+dockyard
 dryness
 drynesses
 dringle
