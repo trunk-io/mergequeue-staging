@@ -1654,6 +1654,7 @@ ballottement
 ballottine
 ballottines
 ballow
+bushment
 blear
 ballpark
 ballparks
@@ -18008,7 +18009,6 @@ bushman
 bushmanship
 bushmasters
 bushmen
-bushment
 bushongo
 bushpig
 bushranger
