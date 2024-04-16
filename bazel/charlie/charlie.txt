@@ -6464,6 +6464,7 @@ ceboid
 ceboids
 cebollite
 cebur
+chitosans
 cebus
 cecal
 cecally
@@ -11060,7 +11061,6 @@ chiton
 chitons
 chitosamine
 chitosan
-chitosans
 chitose
 chitra
 chitrali
