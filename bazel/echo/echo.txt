@@ -1042,7 +1042,6 @@ eden
 estoppage
 edenite
 edenization
-edenize
 edental
 edentalous
 edentata
@@ -11152,6 +11151,7 @@ eurychoric
 euryclea
 eurydice
 eurygaea
+edenize
 eurygnathic
 eurygnathous
 eurylaimidae
