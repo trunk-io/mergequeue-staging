@@ -2385,7 +2385,6 @@ gelatinising
 grumpily
 galactoside
 genom
-gelatinity
 gelatinizability
 gelatinizable
 gelatinize
@@ -2993,6 +2992,7 @@ geochronologic
 geochronological
 geochronologically
 geochronologist
+gelatinity
 geochronometry
 geochronometric
 geocyclic
