@@ -1986,6 +1986,7 @@ decagrams
 decahedra
 decahedral
 decahedrodra
+depencil
 decahedron
 decahedrons
 decahydrate
@@ -5598,7 +5599,6 @@ depectible
 depeculate
 depeinct
 depel
-depencil
 depend
 dependability
 dependabilities
