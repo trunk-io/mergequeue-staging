@@ -1600,6 +1600,7 @@ acclivity
 acclivities
 acclivitous
 acclivous
+arecolidin
 accloy
 archengineer
 accoast
@@ -19324,7 +19325,6 @@ arecaine
 arecales
 arecas
 areche
-arecolidin
 atmolyzer
 arecolidine
 arecoline
