@@ -14309,7 +14309,6 @@ circumhorizontal
 circumincession
 circuminsession
 circuminsular
-circumitineration
 circumjacence
 circumjacency
 circumjacencies
@@ -16875,6 +16874,7 @@ clumps
 clumpst
 clumse
 clumsy
+circumitineration
 clifflet
 clumsier
 clumsily
