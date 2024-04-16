@@ -4490,6 +4490,7 @@ enc
 encadre
 encaenia
 encage
+everywhither
 electrobioscopy
 encaged
 encages
@@ -11549,7 +11550,6 @@ everywhen
 everywhence
 everywhereness
 everywheres
-everywhither
 everywoman
 everlasting
 epistemonic
