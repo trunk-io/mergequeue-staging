@@ -382,7 +382,6 @@ dayless
 daily
 dailies
 daylight
-daylighted
 dogey
 daylighting
 dribbles
@@ -4851,6 +4850,7 @@ definitude
 demonism
 demonisms
 demonist
+daylighted
 demonists
 demonize
 demonized
