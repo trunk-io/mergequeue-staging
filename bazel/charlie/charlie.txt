@@ -17759,7 +17759,6 @@ coderives
 coderiving
 coders
 codes
-codescendant
 codesign
 cosiest
 codesigning
@@ -30783,6 +30782,7 @@ culminal
 culminant
 culminate
 culminates
+codescendant
 culminating
 culmination
 culminations
