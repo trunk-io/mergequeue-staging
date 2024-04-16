@@ -2770,7 +2770,6 @@ grunzie
 geniculation
 genies
 genii
-gunmetal
 genin
 gestures
 genio
@@ -5531,6 +5530,7 @@ glycoside
 glycosides
 grant
 glycosidic
+gunmetal
 gains
 glycosyl
 glycosyls

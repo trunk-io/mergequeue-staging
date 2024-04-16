@@ -9505,7 +9505,6 @@ fraternalist
 fraternality
 filose
 fraternally
-fraternate
 fraternation
 fraternisation
 frizzle
@@ -11676,6 +11675,7 @@ futhorks
 futile
 futiley
 futilely
+fraternate
 futilitarian
 futilitarianism
 futility
