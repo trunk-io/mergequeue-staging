@@ -1551,7 +1551,6 @@ caloyer
 caloyers
 calomba
 calombo
-calomel
 calomels
 calomorphic
 calonectria
@@ -11806,6 +11805,7 @@ chooser
 choosers
 chooses
 choosy
+calomel
 conics
 choosier
 choosiness
