@@ -3261,7 +3261,6 @@ basilica
 basilicae
 basilical
 basilicalike
-basilican
 basilicas
 basilicate
 basilicock
@@ -15513,6 +15512,7 @@ briskened
 burghemot
 briskening
 brisker
+basilican
 briskest
 brisket
 briskets
