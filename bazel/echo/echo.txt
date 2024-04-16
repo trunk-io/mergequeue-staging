@@ -4668,7 +4668,6 @@ enchasers
 elacolite
 enchases
 enchasing
-enchasten
 encheason
 encheat
 encheck
@@ -10104,6 +10103,7 @@ estral
 estramazone
 estrange
 estranged
+enchasten
 estrangedness
 estrangelo
 estrangements
