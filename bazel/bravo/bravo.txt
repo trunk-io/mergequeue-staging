@@ -2442,7 +2442,6 @@ barbute
 barbuts
 belts
 barbwire
-barbwires
 barcan
 barcarole
 betatter
@@ -3977,6 +3976,7 @@ basiation
 beacher
 beaches
 beachfront
+barbwires
 beachhead
 beachheads
 beachy
