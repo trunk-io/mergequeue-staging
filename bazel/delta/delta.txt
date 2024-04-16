@@ -4946,7 +4946,6 @@ demotes
 demothball
 demotic
 demoting
-demotion
 demotions
 demotist
 demotists
@@ -6114,6 +6113,7 @@ derepression
 derequisition
 derere
 deresinate
+demotion
 deresinize
 derestrict
 derf
