@@ -2938,7 +2938,6 @@ acromial
 acromicria
 acromimia
 acromioclavicular
-acromiocoracoid
 acromiodeltoid
 acromyodi
 acromyodian
@@ -13655,6 +13654,7 @@ annularity
 annularly
 annulate
 annulated
+acromiocoracoid
 annulately
 amidated
 annulations
