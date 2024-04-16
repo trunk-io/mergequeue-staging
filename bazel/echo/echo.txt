@@ -6933,7 +6933,6 @@ entomologise
 entomologised
 entomologist
 entomologize
-entomologized
 extinguishes
 entomologizing
 entomophaga
@@ -13770,6 +13769,7 @@ extracerebral
 extrachromosomal
 extracystic
 extracivic
+entomologized
 extracivically
 extraclassroom
 extraclaustral
