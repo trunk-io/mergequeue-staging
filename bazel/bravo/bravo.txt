@@ -6825,7 +6825,6 @@ berrugate
 bersagliere
 bersaglieri
 berseem
-berseems
 berserk
 berserker
 berserks
@@ -12915,6 +12914,7 @@ borak
 bedamn
 boral
 boran
+berseems
 borana
 borane
 boranes
