@@ -6363,7 +6363,6 @@ ensanguining
 ensate
 enscale
 enscene
-ensconced
 ensconces
 ensconcing
 enscrolled
@@ -8825,6 +8824,7 @@ equivocacy
 exhortatively
 equivocacies
 equivocal
+ensconced
 equivocalities
 equivocally
 equivocalness

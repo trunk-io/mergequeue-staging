@@ -3430,6 +3430,7 @@ fiendism
 fiendlier
 fiendliest
 fiendlike
+fip
 fiends
 fykes
 fiendship
@@ -4686,7 +4687,6 @@ fizzers
 fizzy
 fizzier
 fizziest
-fip
 fizzled
 fizzles
 fizzling
