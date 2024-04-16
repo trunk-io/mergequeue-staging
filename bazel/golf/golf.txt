@@ -9902,7 +9902,6 @@ guaranteeship
 guaranteing
 guaranty
 guarantied
-guaranties
 guarantying
 guarantine
 guarantor
@@ -10011,6 +10010,7 @@ gudgeon
 gudgeoned
 gudgeoning
 gudgeons
+guaranties
 gudget
 gudok
 grypanian
