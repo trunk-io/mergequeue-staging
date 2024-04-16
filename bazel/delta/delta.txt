@@ -5934,7 +5934,6 @@ deprivable
 deprival
 deprivals
 deprivate
-deprivation
 deprivations
 deprivative
 deprive
@@ -10070,6 +10069,7 @@ dynamoscope
 dynamostatic
 diancecht
 dinanderie
+deprivation
 dinantian
 dinaphthyl
 dynapolis

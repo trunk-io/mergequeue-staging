@@ -3831,6 +3831,7 @@ filopodium
 filosa
 filoselle
 filosofe
+foreview
 filosus
 fils
 fishpond
@@ -8175,7 +8176,6 @@ forever
 forevermore
 foreverness
 forevers
-foreview
 forevision
 foursome
 forevouch
