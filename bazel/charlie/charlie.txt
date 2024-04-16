@@ -7901,6 +7901,7 @@ cesura
 cesural
 cesuras
 cesure
+crummable
 cetacea
 cetaceans
 cetaceous
@@ -30211,7 +30212,6 @@ crumen
 crumena
 crumenal
 crumhorn
-crummable
 crummed
 crummer
 crummy
