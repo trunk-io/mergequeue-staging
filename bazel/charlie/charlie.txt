@@ -4770,6 +4770,7 @@ cartage
 cartages
 cartboot
 cartbote
+countryfied
 carte
 carted
 cartel
@@ -27264,7 +27265,6 @@ countries
 countrify
 countrification
 countrified
-countryfied
 countrifiedness
 countryfiedness
 countryfolk
