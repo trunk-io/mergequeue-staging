@@ -6712,6 +6712,7 @@ aiders
 aides
 aidful
 aiding
+aswing
 aidless
 aidman
 aidmanmen
@@ -22360,7 +22361,6 @@ asweat
 aswell
 asweve
 aswim
-aswing
 aswirl
 aswithe
 aswooned
