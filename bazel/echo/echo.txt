@@ -2462,6 +2462,7 @@ extensum
 electrolyse
 everydeal
 electrolysed
+egocentric
 electrolyser
 electrolyses
 electrolysing
@@ -11156,7 +11157,6 @@ eurylaimoid
 eurylaimus
 eurymus
 eurindic
-egocentric
 expede
 euryphage
 euryphagous

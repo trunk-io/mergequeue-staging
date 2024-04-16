@@ -1223,7 +1223,6 @@ gantline
 gantlines
 gantlope
 gantlopes
-ganton
 gynandromorphic
 gantry
 gantries
@@ -2488,6 +2487,7 @@ gemeinschaft
 gemeinschaften
 gemel
 gemeled
+ganton
 gemelled
 gemellion
 gemellione
