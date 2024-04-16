@@ -7624,6 +7624,7 @@ flyspecked
 foredefeated
 filthified
 foredefine
+forewing
 foredenounce
 foredescribe
 foredeserved
@@ -8188,7 +8189,6 @@ foreweep
 foreweigh
 forewent
 forewind
-forewing
 forewings
 forewinning
 forewisdom
