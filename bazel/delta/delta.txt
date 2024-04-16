@@ -1329,6 +1329,7 @@ daunters
 demissive
 daunting
 dauntingly
+distastes
 dauntingness
 dauntless
 dauntlessly
@@ -13744,7 +13745,6 @@ distasteful
 distastefully
 defoliated
 distastefulness
-distastes
 distasting
 distater
 distaves
