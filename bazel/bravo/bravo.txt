@@ -6550,7 +6550,6 @@ bepreach
 bepretty
 bepride
 beprose
-bepuddle
 bepuffed
 bepun
 bepurple
@@ -16605,6 +16604,7 @@ buckbrush
 buckbush
 bucked
 buckeen
+bepuddle
 buckeens
 buckeye
 buckeyed
