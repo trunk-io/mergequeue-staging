@@ -6090,7 +6090,6 @@ glucosazone
 gliss
 glucose
 glucosemia
-glucoses
 glucosic
 glucosid
 glucosidal
@@ -9333,6 +9332,7 @@ groovier
 grooviest
 grooviness
 grooving
+glucoses
 groow
 grope
 groped
