@@ -2001,7 +2001,6 @@ gauk
 gaul
 gainless
 gaulding
-gauleiter
 gaulic
 gaulin
 gaulish
@@ -4961,6 +4960,7 @@ gizzard
 gussy
 gizzen
 gizzened
+gauleiter
 gizzern
 gjedost
 gjetost
