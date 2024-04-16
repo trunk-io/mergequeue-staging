@@ -1927,6 +1927,7 @@ debut
 downligging
 debutant
 debutante
+dooryard
 downcastly
 debutantes
 dragbar
@@ -15592,7 +15593,6 @@ doorcase
 doorcheek
 doored
 doorhawk
-dooryard
 dooryards
 dooring
 doorjamb
