@@ -1433,7 +1433,6 @@ baleen
 baleens
 bossism
 balefire
-balefires
 baleful
 bronchopneumonia
 balefully
@@ -2878,6 +2877,7 @@ barotrauma
 barotraumas
 barotraumata
 bostons
+balefires
 barouche
 barouches
 barouchet
