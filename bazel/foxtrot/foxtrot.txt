@@ -6843,7 +6843,6 @@ foible
 foibles
 foiblesse
 foyboat
-foyer
 foyers
 foil
 foiled
@@ -11427,6 +11426,7 @@ furnace
 furnacemen
 febrifuges
 furnaces
+foyer
 furnacing
 furnage
 furnariidae

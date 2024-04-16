@@ -6487,6 +6487,7 @@ believableness
 benzotriazine
 benzotriazole
 benzotrichloride
+betatron
 benzotrifluoride
 benzotrifuran
 benzoxate
@@ -7326,7 +7327,6 @@ barotaxy
 betask
 beadrow
 betassel
-betatron
 betatrons
 betattered
 betattering
