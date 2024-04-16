@@ -2102,6 +2102,7 @@ banjuke
 banjulele
 bank
 bankable
+becurl
 bankalachi
 bankbook
 bankbooks
@@ -4558,7 +4559,6 @@ becuffed
 becuiba
 becumber
 becuna
-becurl
 becurry
 becurse
 becursed
