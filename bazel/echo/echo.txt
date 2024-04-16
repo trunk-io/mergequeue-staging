@@ -3562,6 +3562,7 @@ emborders
 emboscata
 embosk
 embosked
+encroached
 educables
 embosking
 embosks
@@ -4916,7 +4917,6 @@ encryption
 encrypts
 encrisp
 encroach
-encroached
 encroacher
 encroaches
 encroaching

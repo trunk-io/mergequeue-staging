@@ -1225,7 +1225,6 @@ academicianship
 academicism
 academics
 academie
-academies
 academise
 academising
 academism
@@ -3479,6 +3478,7 @@ adc
 adcon
 afforded
 adcons
+academies
 admires
 adcraft
 add
