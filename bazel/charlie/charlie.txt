@@ -15572,7 +15572,6 @@ classicalities
 classicalize
 classically
 classicalness
-classicise
 classicised
 classicising
 classicism
@@ -26370,6 +26369,7 @@ cothurni
 cervicovaginal
 cothurnian
 cothurnni
+classicise
 cothurns
 cothurnus
 cotice
