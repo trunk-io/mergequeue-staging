@@ -9911,6 +9911,7 @@ comma
 carices
 chemotherapeutic
 chemotherapeutical
+corporealist
 chemotherapeutically
 chemotherapeutics
 chemotherapy
@@ -25582,7 +25583,6 @@ corporator
 corporature
 corpore
 corporeal
-corporealist
 corporeality
 corporealization
 corporealize
