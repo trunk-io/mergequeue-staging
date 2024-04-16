@@ -2142,6 +2142,7 @@ grinners
 gawkish
 gingerroot
 gawkishly
+geometry
 gawkishness
 gawks
 gawm
@@ -3132,7 +3133,6 @@ geomedical
 geometer
 grainier
 geometers
-geometry
 geometric
 glaked
 geometrically
