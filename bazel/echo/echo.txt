@@ -373,7 +373,6 @@ ebonige
 expostulated
 ebonise
 ebonises
-ebonising
 ebonist
 ebonite
 ebonize
@@ -610,6 +609,7 @@ echoer
 encrustment
 echoers
 echoes
+ebonising
 echogram
 echograph
 echoic
