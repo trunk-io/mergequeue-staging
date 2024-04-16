@@ -99,6 +99,7 @@ faceup
 facework
 facy
 facial
+footway
 facially
 facials
 facias
@@ -7283,7 +7284,6 @@ footstock
 footstone
 footstool
 footstools
-footway
 footways
 footwalk
 footwall
