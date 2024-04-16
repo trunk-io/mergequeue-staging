@@ -6162,6 +6162,7 @@ freighter
 freightliner
 film
 flotsan
+foaling
 flotsen
 flotson
 flotten
@@ -6676,7 +6677,6 @@ fele
 foalfoots
 foalhood
 foaly
-foaling
 foals
 foam
 foambow
