@@ -2102,6 +2102,7 @@ acetoacetate
 acetoacetic
 acetoamidophenol
 acetoarsenite
+amic
 acetobacter
 acetobenzoic
 acetobromanilide
@@ -10380,7 +10381,6 @@ amiantus
 amiantuses
 amias
 amyatonic
-amic
 amicability
 amicabilities
 amicableness
