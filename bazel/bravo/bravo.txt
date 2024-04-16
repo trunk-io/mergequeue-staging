@@ -3217,7 +3217,6 @@ basidia
 basidial
 basidigital
 basidigitale
-basidigitalia
 basidiocarp
 basidiogenetic
 basidiolichen
@@ -7810,6 +7809,7 @@ bialis
 bialys
 biallyl
 bialveolar
+basidigitalia
 bianca
 bianco
 biangular
