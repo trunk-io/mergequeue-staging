@@ -3041,7 +3041,6 @@ deeryards
 deerlet
 deerlike
 deermeat
-deers
 deerskin
 deerstalker
 deerstalkers
@@ -5368,6 +5367,7 @@ dawned
 dentine
 dentines
 denting
+deers
 dentinitis
 delineatory
 dentinoblast
