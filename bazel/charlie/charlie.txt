@@ -22780,7 +22780,6 @@ consecutives
 consence
 consenescence
 consenescency
-consension
 consensual
 consensually
 catnapped
@@ -27504,6 +27503,7 @@ covenanting
 covenantor
 covenants
 covent
+consension
 coventrate
 coventry
 coventrize
