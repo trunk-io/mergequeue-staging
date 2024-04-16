@@ -6273,7 +6273,6 @@ cautioners
 cautiones
 cautioning
 cautionings
-cautionry
 cautions
 cautious
 cautiously
@@ -13350,6 +13349,7 @@ cyclonist
 cyclonite
 cyclonology
 cyclonologist
+cautionry
 cyclonometer
 cycloolefin
 cycloolefine
