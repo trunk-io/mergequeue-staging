@@ -8037,7 +8037,6 @@ forespeaking
 forespecified
 forespeech
 forespencer
-forespent
 forespoke
 forespoken
 freeloving
@@ -8478,6 +8477,7 @@ formicariae
 formicarian
 formicaries
 formicarioid
+forespent
 formicaroid
 formicate
 formicated
