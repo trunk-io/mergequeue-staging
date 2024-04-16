@@ -5727,7 +5727,6 @@ belinda
 belinuridae
 belion
 beliquor
-beliquored
 beliquors
 belis
 belite
@@ -9839,6 +9838,7 @@ bitrochanteric
 bits
 bitser
 bitsy
+beliquored
 bitstock
 bitstocks
 bitstone
