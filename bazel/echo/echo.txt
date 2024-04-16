@@ -953,7 +953,6 @@ ectromelia
 exculpatory
 ectromelic
 ectromelus
-ectropion
 ectropionization
 ectropionize
 ectropionized
@@ -8806,6 +8805,7 @@ equivalency
 equivalencies
 equivalencing
 equivalent
+ectropion
 equivalently
 equivalents
 equivalue

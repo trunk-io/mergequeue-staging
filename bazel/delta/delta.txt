@@ -14694,7 +14694,6 @@ docks
 dockside
 docksides
 dockworker
-docmac
 docoglossa
 docoglossan
 docoglossate
@@ -17355,6 +17354,7 @@ drop
 dropax
 dropberry
 dropcloth
+docmac
 dropflower
 dropforge
 dropforger
