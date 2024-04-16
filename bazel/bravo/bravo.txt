@@ -2889,6 +2889,7 @@ barques
 barquest
 bedust
 barquette
+bridebowl
 barr
 besprinkling
 barra
@@ -15188,7 +15189,6 @@ bridalty
 boneheads
 bride
 bridebed
-bridebowl
 bridecake
 bridechamber
 bridecup
