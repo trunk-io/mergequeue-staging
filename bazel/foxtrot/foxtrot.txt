@@ -8050,7 +8050,6 @@ freeloving
 forestaff
 forestaffs
 forestage
-forestay
 forestair
 forestays
 forestaysail
@@ -10707,6 +10706,7 @@ frument
 frumentaceous
 frumentarious
 frumentation
+forestay
 frumenty
 frumenties
 frumentum
