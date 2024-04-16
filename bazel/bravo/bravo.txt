@@ -4472,7 +4472,6 @@ beclose
 beclothe
 beclothed
 beclothes
-beclothing
 becloud
 beclouded
 beclouding
@@ -8076,6 +8075,7 @@ bicirrose
 boatsmanship
 bick
 bicker
+beclothing
 bickered
 bickerer
 bickerers

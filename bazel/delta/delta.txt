@@ -6201,7 +6201,6 @@ dermatherm
 dermatic
 dermatine
 dermatitis
-dermatitises
 dermatocele
 dermatocellulitis
 dermatoconiosis
@@ -12862,6 +12861,7 @@ disorganiser
 disorganization
 disorganize
 disorganized
+dermatitises
 disorganizer
 disorganizers
 detorsion
