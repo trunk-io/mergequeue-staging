@@ -6085,7 +6085,6 @@ glucosazone
 gliss
 glucose
 glucosemia
-glucosic
 glucosid
 glucosidal
 glucosidase
@@ -10199,6 +10198,7 @@ guileful
 guilefully
 guilelessly
 guilelessness
+glucosic
 guiler
 guilery
 guiles
