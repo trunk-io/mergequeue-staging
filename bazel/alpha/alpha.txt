@@ -4105,7 +4105,6 @@ admeasured
 admeasurement
 admeasurer
 adumbrant
-admeasuring
 admedial
 admedian
 afforced
@@ -20488,6 +20487,7 @@ arteriograph
 arteriography
 arteriographic
 albert
+admeasuring
 arteriolar
 arteriole
 arterioles
