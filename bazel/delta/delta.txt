@@ -568,6 +568,7 @@ damageability
 damageable
 damageableness
 damageably
+dolichosauria
 damaged
 drearness
 damagement
@@ -15160,7 +15161,6 @@ dolichoprosopic
 dolichopsyllidae
 dolichos
 dolichosauri
-dolichosauria
 dolichosaurus
 dolichosoma
 dolichotmema
