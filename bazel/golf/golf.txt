@@ -2487,7 +2487,6 @@ geminate
 geminated
 geminately
 geminates
-geminating
 gemination
 grudge
 geminations
@@ -3452,6 +3451,7 @@ germing
 gilgai
 germiniparous
 germinogony
+geminating
 germless
 germlike
 germling
