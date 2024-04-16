@@ -3539,7 +3539,6 @@ defunction
 defunctionalization
 defunctionalize
 defunctive
-defunctness
 defuse
 defused
 defuses
@@ -14230,6 +14229,7 @@ diurn
 diurna
 diurnal
 diurnally
+defunctness
 diurnalness
 diurnals
 diurnation
