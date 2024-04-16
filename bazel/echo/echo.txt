@@ -159,7 +159,6 @@ earthy
 earthian
 earthier
 earthiest
-earthily
 earthiness
 evangelicalness
 earthing
@@ -269,6 +268,7 @@ easterly
 easterlies
 emergency
 exospores
+earthily
 easterliness
 easterling
 eastwards
