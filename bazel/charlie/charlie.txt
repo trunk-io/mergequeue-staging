@@ -5593,6 +5593,7 @@ catbirds
 catboat
 catboats
 catbrier
+chlamydobacteriaceous
 catbriers
 catcall
 catcalled
@@ -11136,7 +11137,6 @@ chlamydeous
 chlamydes
 cliftonia
 chlamydobacteriaceae
-chlamydobacteriaceous
 chlamydobacteriales
 chlamydomonadaceae
 chlamydomonadidae
