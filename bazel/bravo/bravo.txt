@@ -2976,7 +2976,6 @@ bellhanger
 barretors
 barretry
 barrets
-barrett
 barrette
 boundaries
 barretter
@@ -9205,6 +9204,7 @@ biotech
 barotropy
 biotechnics
 biotechnology
+barrett
 biotechnological
 biotechnologicaly
 biotechnologically
