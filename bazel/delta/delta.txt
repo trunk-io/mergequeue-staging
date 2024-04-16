@@ -458,7 +458,6 @@ dayroom
 dayrooms
 dairous
 dairt
-dais
 days
 daised
 daisee
@@ -1821,6 +1820,7 @@ debilitations
 debilitative
 debility
 debind
+dais
 disanimating
 debit
 debitable
