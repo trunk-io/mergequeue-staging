@@ -6428,6 +6428,7 @@ goatsbeard
 goatsfoot
 goatskin
 goatskins
+graptomancy
 goatstone
 granulitic
 goatsucker
@@ -9246,7 +9247,6 @@ grocerly
 grocers
 gedanken
 guernsey
-graptomancy
 grockle
 groenendael
 groenlandicus
