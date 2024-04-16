@@ -2988,7 +2988,6 @@ geochemically
 geochemist
 geochemists
 geochrony
-geochronology
 geochronologic
 geochronological
 geochronologically
@@ -9474,6 +9473,7 @@ grayfishes
 groundwall
 groundward
 groundwater
+geochronology
 groundwave
 group
 groupable
