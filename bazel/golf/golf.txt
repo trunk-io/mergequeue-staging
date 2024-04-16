@@ -3093,7 +3093,6 @@ geologies
 geologised
 gambusia
 geologising
-gossan
 geologist
 grailing
 geologists
@@ -5056,6 +5055,7 @@ gladioli
 gladioluses
 gladys
 gladite
+gossan
 gladius
 gladly
 gibbets
