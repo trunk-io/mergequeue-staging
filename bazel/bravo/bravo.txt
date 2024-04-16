@@ -1543,6 +1543,7 @@ ballastage
 ballasted
 bouton
 ballaster
+beal
 ballastic
 ballasting
 ballasts
@@ -4057,7 +4058,6 @@ beakiron
 beakless
 beaklike
 beaks
-beal
 beala
 bealach
 bealing
