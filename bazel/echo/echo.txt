@@ -3994,7 +3994,6 @@ emmental
 emmer
 emmergoose
 emmers
-emmetrope
 emmetropy
 emmetropic
 emmetropism
@@ -10371,6 +10370,7 @@ ethylate
 ethylated
 ethylates
 ethylating
+emmetrope
 ethylation
 ethylbenzene
 ethyldichloroarsine
