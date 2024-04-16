@@ -11273,7 +11273,6 @@ eutexia
 euthamia
 euthanasy
 euthanasic
-euthanatize
 euthenasia
 euthenic
 euthenics
@@ -12791,6 +12790,7 @@ exorcisation
 exorcise
 exorcised
 exorcisement
+euthanatize
 endoplasm
 exorcisers
 exorcises

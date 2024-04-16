@@ -4628,7 +4628,6 @@ demiox
 demipagan
 demiparallel
 demipauldron
-demipectinate
 doblones
 demipesade
 demipike
@@ -14723,6 +14722,7 @@ doctorization
 doctorize
 doctorless
 doctorlike
+demipectinate
 doctors
 doctorship
 disfranchise
