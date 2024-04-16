@@ -11469,6 +11469,7 @@ choiring
 choirlike
 choirman
 choirmaster
+convects
 choirmasters
 choyroot
 choirwise
@@ -23948,7 +23949,6 @@ convectional
 convective
 convectively
 convector
-convects
 convey
 conveyability
 conveyable
