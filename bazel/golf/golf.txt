@@ -1445,6 +1445,7 @@ garnishable
 garnished
 garnishee
 garnisheed
+gelatinization
 garnishees
 garnisheing
 garnishes
@@ -2388,7 +2389,6 @@ genom
 gelatinity
 gelatinizability
 gelatinizable
-gelatinization
 gelatinize
 gruppetto
 gelatinizer
