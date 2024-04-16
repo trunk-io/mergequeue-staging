@@ -330,6 +330,7 @@ failure
 failures
 fain
 fainaigue
+fishmen
 fainaigued
 fainaiguer
 faucial
@@ -1524,7 +1525,6 @@ faunal
 faunally
 faunated
 faunch
-fishmen
 faunish
 faunist
 fragmentized
