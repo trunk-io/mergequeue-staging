@@ -1216,7 +1216,6 @@ academian
 academias
 academic
 academical
-academically
 academicals
 academician
 academicians
@@ -21600,6 +21599,7 @@ assassinist
 assate
 assation
 assaugement
+academically
 assault
 assaultable
 assaulted
