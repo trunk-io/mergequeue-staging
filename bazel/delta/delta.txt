@@ -2853,7 +2853,6 @@ decumbently
 decumbiture
 decuple
 decupled
-decrementless
 decuples
 decuplet
 decupling
@@ -3473,6 +3472,7 @@ deforests
 deform
 deformability
 deformable
+decrementless
 deformalize
 deformation
 deformational
