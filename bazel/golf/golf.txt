@@ -2248,6 +2248,7 @@ gecarcinus
 gaedown
 graywall
 geck
+graddan
 gecked
 guardfish
 gecking
@@ -7634,7 +7635,6 @@ gradational
 gradationally
 gradationately
 gradatively
-graddan
 grade
 graded
 gradeless

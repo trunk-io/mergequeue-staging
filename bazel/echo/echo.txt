@@ -1546,7 +1546,6 @@ egg
 eggars
 eggbeater
 eggbeaters
-eggberry
 eggcrate
 eggcup
 eggcups
@@ -8689,6 +8688,7 @@ equilibriums
 equilin
 envious
 equiliria
+eggberry
 equilobate
 erinaceous
 equilobed
