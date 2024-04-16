@@ -12003,7 +12003,6 @@ boiling
 boilingly
 boilinglike
 bladdernose
-boiloff
 boiloffs
 boilover
 boils
@@ -12785,6 +12784,7 @@ boophilus
 boopis
 boor
 boordly
+boiloff
 boorga
 bacciform
 boorish
