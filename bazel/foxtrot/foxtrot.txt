@@ -7583,7 +7583,6 @@ foreclose
 foreclosed
 foreclosing
 foreclosure
-foreclosures
 forebearing
 forecome
 fumer
@@ -8236,6 +8235,7 @@ fiercening
 forficula
 forficulate
 forficulidae
+foreclosures
 forfit
 friendlies
 forfouchten
