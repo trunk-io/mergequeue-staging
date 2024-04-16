@@ -1323,7 +1323,6 @@ effectress
 effects
 effectual
 effectuality
-effectualize
 effectually
 effectualness
 effectuate
@@ -4378,6 +4377,7 @@ enacting
 enaction
 epithelioglandular
 enactive
+effectualize
 enactment
 enactments
 enactor
