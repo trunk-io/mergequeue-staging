@@ -3242,6 +3242,7 @@ georgium
 geoscience
 geoscientist
 geoscientists
+gyrostats
 geoscopy
 geoscopic
 geoselenic
@@ -4835,7 +4836,6 @@ gyrostachys
 gyrostat
 gyrostatic
 gyrostatically
-gyrostats
 gastroplenic
 gyrotheca
 girouette
