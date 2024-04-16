@@ -4385,6 +4385,7 @@ carne
 carneau
 carnegie
 carnegiea
+contraposit
 carney
 carneyed
 carneys
@@ -23709,7 +23710,6 @@ contraposaune
 contrapose
 contraposed
 contraposing
-contraposit
 contraposita
 contraposition
 contrapositive
