@@ -4251,7 +4251,6 @@ empory
 emporial
 emporiria
 empoririums
-emporiums
 emporte
 emportment
 empoverish
@@ -12037,6 +12036,7 @@ excipulum
 excircle
 excisable
 esker
+emporiums
 excise
 exciseman
 emetatrophia
