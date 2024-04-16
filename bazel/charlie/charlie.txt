@@ -17657,6 +17657,7 @@ cocobolo
 cocodette
 cocoyam
 cocomat
+creat
 cocomats
 cocona
 coconino
@@ -30380,7 +30381,6 @@ ctenidia
 ctenidial
 ctenidium
 cteniform
-creat
 ctenizid
 ctenocephalus
 copelate
