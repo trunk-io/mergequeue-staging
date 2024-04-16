@@ -274,7 +274,6 @@ gainspeaking
 gainst
 gainstand
 gombroons
-gainstrive
 gainturn
 gonoph
 gobiesocidae
@@ -10557,6 +10556,7 @@ gunreach
 gunrooms
 gunrunner
 gunrunning
+gainstrive
 guns
 gunsel
 gunsels

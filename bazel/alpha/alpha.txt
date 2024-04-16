@@ -11033,7 +11033,6 @@ amphetamine
 amphetamines
 amphi
 amphiarthrodial
-amphiarthroses
 amphiarthrosis
 amphiaster
 amphib
@@ -15558,6 +15557,7 @@ acroamatic
 antimensia
 antimension
 antimensium
+amphiarthroses
 antimephitic
 antimere
 antimeres
