@@ -14869,7 +14869,6 @@ breastpin
 breastplate
 beneventana
 breastplates
-brisks
 breastplough
 breastplow
 breastrail
@@ -17582,6 +17581,7 @@ bureau
 bureaucracy
 bureaucracies
 bivalents
+brisks
 bureaucrat
 bureaucratese
 bureaucratic

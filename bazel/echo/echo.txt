@@ -1989,7 +1989,6 @@ ekacaesium
 ekamanganese
 ekasilicon
 ekatantalum
-eke
 ekebergite
 eked
 ekename
@@ -9761,6 +9760,7 @@ esoterist
 esoterize
 esothyropexy
 esotropia
+eke
 esotropic
 esp
 espace
