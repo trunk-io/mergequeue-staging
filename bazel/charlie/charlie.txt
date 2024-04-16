@@ -5242,7 +5242,6 @@ casters
 castes
 casteth
 castice
-castigable
 castigate
 coincidency
 castigated
@@ -14900,6 +14899,7 @@ cytoglobulin
 cytohyaloplasm
 cytoid
 citoyen
+castigable
 citoyenne
 citoyens
 cytokinesis
