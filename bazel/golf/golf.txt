@@ -566,7 +566,6 @@ galleys
 gundogs
 gamodemes
 galleyworm
-galleon
 galleons
 gallera
 gallery
@@ -7997,6 +7996,7 @@ granet
 globus
 ghess
 grange
+galleon
 granger
 grangerisation
 grangerise
