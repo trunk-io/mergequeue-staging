@@ -704,7 +704,6 @@ ecoid
 ecol
 ecole
 ecoles
-ecology
 ecologic
 ecological
 ecologically
@@ -8520,6 +8519,7 @@ epoxying
 eppy
 eppie
 exogastric
+ecology
 eprise
 eproboscidea
 eprosy
