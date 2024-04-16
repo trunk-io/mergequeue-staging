@@ -9863,6 +9863,7 @@ essay
 essayed
 essayer
 essayers
+exhaustively
 essaying
 essayism
 essayist
@@ -12484,7 +12485,6 @@ exhausting
 exhaustingly
 exhaustion
 exhaustive
-exhaustively
 exhaustiveness
 exhaustivity
 exhaustless
