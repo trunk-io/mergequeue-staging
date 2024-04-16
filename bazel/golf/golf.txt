@@ -2430,7 +2430,6 @@ gelidness
 gelignite
 gunfight
 gelinotte
-gonopod
 gell
 gutturalisation
 gellants
@@ -3237,6 +3236,7 @@ geoscientists
 gyrostats
 geoscopy
 geoscopic
+gonopod
 geoselenic
 geosid
 geoside
