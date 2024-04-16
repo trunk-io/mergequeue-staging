@@ -6556,6 +6556,7 @@ ceiling
 ceilinged
 ceilings
 ceilingward
+chlorapatite
 ceilingwards
 ceilometer
 ceylon
@@ -25205,7 +25206,6 @@ coryphylly
 coryphodon
 coryphodont
 corystoid
-chlorapatite
 corita
 corium
 catakinetic
