@@ -2267,6 +2267,7 @@ electrepeter
 electress
 electret
 electrets
+exostosis
 electric
 electrical
 exosmoses
@@ -12846,7 +12847,6 @@ embrew
 exostosed
 exostoses
 enhydris
-exostosis
 exostotic
 exostra
 exostracism
