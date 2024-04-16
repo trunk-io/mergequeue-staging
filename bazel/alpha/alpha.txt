@@ -2311,7 +2311,6 @@ achordata
 achordate
 achorion
 achras
-achree
 achroacyte
 achroanthes
 achrodextrin
@@ -24650,6 +24649,7 @@ averaging
 averah
 avery
 averia
+achree
 averil
 averin
 averish
