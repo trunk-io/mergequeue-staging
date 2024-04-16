@@ -1349,6 +1349,7 @@ acarida
 acaridae
 armoracia
 acaridan
+analyze
 acaridans
 acaridea
 acaridean
@@ -11770,7 +11771,6 @@ analytique
 analyzability
 analyzable
 analyzation
-analyze
 analyzed
 analyzer
 analyzers
