@@ -1421,6 +1421,7 @@ glycollide
 garmenture
 garmentworker
 garn
+gentlewomen
 garnel
 garnerage
 galvanotropic
@@ -2935,7 +2936,6 @@ gentlewomanly
 glossoid
 gentlewomanlike
 gentlewomanliness
-gentlewomen
 gently
 gentling
 gentman
