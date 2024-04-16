@@ -10620,7 +10620,6 @@ curtelace
 chimb
 chimbe
 chimble
-chimbley
 chimbleys
 chimbly
 chimblies
@@ -24574,6 +24573,7 @@ copilot
 copilots
 copyman
 coping
+chimbley
 copings
 copingstone
 copintank
