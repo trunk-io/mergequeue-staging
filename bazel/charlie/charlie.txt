@@ -7490,6 +7490,7 @@ cercomonadidae
 cercomonas
 cercopid
 continent
+circumoesophagal
 cercopidae
 cercopithecid
 cercopithecidae
@@ -14362,7 +14363,6 @@ circumnutated
 circumnutating
 circumnutation
 circumocular
-circumoesophagal
 circumorbital
 circumpacific
 circumpallial

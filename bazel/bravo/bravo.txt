@@ -2864,7 +2864,6 @@ barostat
 bruta
 baroswitch
 barotactic
-barotaxy
 barotaxis
 barothermogram
 bitis
@@ -7329,6 +7328,7 @@ blowby
 betanglement
 betas
 balisier
+barotaxy
 betask
 beadrow
 betassel
