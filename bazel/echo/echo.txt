@@ -1257,7 +1257,6 @@ eelboat
 eelbobber
 eelcake
 eelcatcher
-eeler
 eelery
 eelfare
 eelfish
@@ -6761,6 +6760,7 @@ entertaining
 entertainingly
 entertainingness
 entertainment
+eeler
 entertainments
 entertains
 epilogs
