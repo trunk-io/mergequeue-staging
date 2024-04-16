@@ -3393,6 +3393,7 @@ germanium
 germaniums
 gashest
 germanization
+graphotype
 germanize
 germanized
 gnocchi
@@ -8218,7 +8219,6 @@ guggles
 greaser
 garo
 graphostatics
-graphotype
 graphotypic
 graphs
 grapier
