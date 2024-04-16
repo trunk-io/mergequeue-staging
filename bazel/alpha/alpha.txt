@@ -6892,6 +6892,7 @@ airdrome
 airdromes
 airdrop
 airdropped
+atmosphereless
 airdropping
 airdrops
 aire
@@ -22694,7 +22695,6 @@ atmos
 atmosphere
 atmosphered
 atmosphereful
-atmosphereless
 atmospheres
 atmospheric
 atmospherical
