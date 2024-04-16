@@ -6646,7 +6646,6 @@ enterocystoma
 enterocleisis
 excluding
 enteroclisis
-enteroclysis
 eliminability
 enterococcal
 enterococcus
@@ -11444,6 +11443,7 @@ evechurr
 eveck
 evectant
 evected
+enteroclysis
 evectic
 evection
 evectional
