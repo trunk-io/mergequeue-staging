@@ -20439,7 +20439,6 @@ companies
 companying
 companion
 companionability
-companionable
 companionableness
 companionably
 companionage
@@ -24575,6 +24574,7 @@ copilot
 copilots
 copyman
 coping
+companionable
 chimbley
 copings
 copingstone
