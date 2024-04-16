@@ -68,7 +68,6 @@ gables
 gablet
 gablewise
 gabling
-gablock
 gabon
 gaboon
 greaten
@@ -5971,6 +5970,7 @@ glosts
 glottal
 glottalite
 glottalization
+gablock
 glottalize
 gymnurinae
 glottalized
