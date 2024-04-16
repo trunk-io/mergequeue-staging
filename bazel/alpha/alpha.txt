@@ -16018,7 +16018,6 @@ antiquartan
 antiquated
 antiquates
 antiquation
-antique
 antiqued
 antiquely
 antiqueness
@@ -18625,6 +18624,7 @@ arcadia
 arcadian
 arcadianism
 arcadianly
+antique
 arcadians
 arcadias
 aulos
