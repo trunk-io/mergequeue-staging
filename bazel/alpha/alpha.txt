@@ -14956,7 +14956,6 @@ anticking
 anticks
 antickt
 anticlactic
-anticlassical
 anticlassicalist
 anticlassically
 anticlassicalness
@@ -21856,6 +21855,7 @@ associationalist
 associationism
 associationist
 associationistic
+anticlassical
 associations
 associative
 associatively
