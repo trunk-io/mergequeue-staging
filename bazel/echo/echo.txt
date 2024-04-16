@@ -38,7 +38,6 @@ earable
 earache
 earaches
 earbash
-earbob
 earclip
 earcockle
 eardrop
@@ -5673,6 +5672,7 @@ enframe
 enframed
 enframement
 enframes
+earbob
 enframing
 enfranch
 enfranchised
