@@ -4272,7 +4272,6 @@ deltaic
 deltaite
 deltal
 deltalike
-deltarium
 deleerit
 deltas
 deltation
@@ -14069,6 +14068,7 @@ disunity
 disunities
 disuniting
 dysury
+deltarium
 dysuria
 dysurias
 dysuric
