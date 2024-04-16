@@ -14003,6 +14003,7 @@ distrust
 distruster
 distrustful
 distrusting
+dominule
 distrustingly
 distrusts
 disturb
@@ -15393,7 +15394,6 @@ druidess
 dominoes
 dewanship
 dominos
-dominule
 dominus
 domitable
 domite

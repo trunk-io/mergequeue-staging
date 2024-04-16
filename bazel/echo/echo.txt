@@ -4065,7 +4065,6 @@ eponymize
 emp
 empaestic
 empaistic
-empale
 empalement
 empaler
 empalers
@@ -8304,6 +8303,7 @@ epistolizing
 epistolography
 epistolographic
 epistolographist
+empale
 epistoma
 epistomal
 epistomata
