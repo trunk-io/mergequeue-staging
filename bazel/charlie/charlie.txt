@@ -3059,7 +3059,6 @@ capitaliser
 capitalising
 capitalist
 capitalistic
-capitalistically
 capitalists
 capitalizable
 capitalization
@@ -10450,6 +10449,7 @@ childing
 caph
 childish
 childishly
+capitalistically
 childishness
 childkind
 childless

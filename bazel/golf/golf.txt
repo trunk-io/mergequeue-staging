@@ -2198,7 +2198,6 @@ germiparity
 gazump
 graders
 gazzetta
-gcd
 gconv
 gd
 gdinfo
@@ -8105,6 +8104,7 @@ granuloadipose
 granuloblast
 granuloblastic
 granulocyte
+gcd
 granulocytic
 granulocytopoiesis
 granuloma
