@@ -1011,6 +1011,7 @@ bahutu
 bahuvrihi
 bahuvrihis
 bai
+bestorm
 bay
 baya
 bayadeer
@@ -7242,7 +7243,6 @@ bestirs
 bloodroots
 bestock
 bestore
-bestorm
 bestove
 bestow
 bestowable
