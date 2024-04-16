@@ -4525,6 +4525,7 @@ demicircular
 demicivilized
 demicolumn
 demicoronal
+disallowed
 demicritic
 demicuirass
 dingle
@@ -11016,7 +11017,6 @@ disallowable
 disallowableness
 disallowance
 disallowances
-disallowed
 dramatised
 disallows
 disaltern
