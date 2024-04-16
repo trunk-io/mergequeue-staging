@@ -4196,6 +4196,7 @@ empiristic
 empyromancy
 emplace
 emplaced
+exacum
 emplacement
 ekistic
 emplacements
@@ -11766,7 +11767,6 @@ exacts
 exactus
 exacuate
 exhance
-exacum
 exadverso
 exadversum
 exaestuate
