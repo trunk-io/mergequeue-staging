@@ -477,7 +477,6 @@ backseat
 backset
 backsets
 backsetting
-backsettler
 backsheesh
 backshift
 backshish
@@ -1332,6 +1331,7 @@ balante
 balantidial
 balantidiasis
 balantidic
+backsettler
 balantidiosis
 balantidium
 balanus
