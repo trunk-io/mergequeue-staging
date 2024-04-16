@@ -2790,7 +2790,6 @@ baroco
 barodynamic
 barodynamics
 barognosis
-barogram
 barograms
 barograph
 barographic
@@ -11993,6 +11992,7 @@ boilermaker
 bradypnoea
 boilermakers
 boilerman
+barogram
 boilerplate
 boilers
 boilersmith
