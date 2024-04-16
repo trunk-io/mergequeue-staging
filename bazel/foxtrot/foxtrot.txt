@@ -273,7 +273,6 @@ fadging
 fady
 fadingly
 fadings
-fadlike
 fadme
 fogbows
 fadmonger
@@ -533,6 +532,7 @@ fallace
 fallacy
 fallacia
 fallacies
+fadlike
 feltlike
 fallacious
 fallaciously
