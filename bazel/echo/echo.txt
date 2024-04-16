@@ -2015,6 +2015,7 @@ elaborated
 elaborately
 epilatory
 elaborateness
+eliminates
 elaborates
 elaboration
 elaborations
@@ -2945,7 +2946,6 @@ eliminant
 eliminate
 entoplastic
 eliminated
-eliminates
 eliminating
 elimination
 eliminations
