@@ -3160,7 +3160,6 @@ geomorphologic
 geomorphological
 gruffer
 geon
-geonavigation
 gabbart
 gangrels
 geonegative
@@ -8788,6 +8787,7 @@ greyback
 greybeard
 greycoat
 greyed
+geonavigation
 gehenna
 greyest
 greyfly
