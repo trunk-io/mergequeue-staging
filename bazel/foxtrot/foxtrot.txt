@@ -2040,7 +2040,6 @@ feijoa
 feil
 feyness
 feynesses
-feinschmecker
 filacer
 finlander
 feinschmeckers
@@ -8720,6 +8719,7 @@ forthought
 forthputting
 forthright
 forthrightly
+feinschmecker
 forthrightness
 forthset
 forthtell
