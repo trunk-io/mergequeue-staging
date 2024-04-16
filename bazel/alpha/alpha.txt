@@ -17370,7 +17370,6 @@ aporobranchia
 aporobranchian
 aporocactus
 aporosa
-aporose
 aporphin
 aporphine
 aporrhaidae
@@ -22164,6 +22163,7 @@ astraeid
 astraeidae
 astraeiform
 astragal
+aporose
 astragalar
 astragalectomy
 astragali
