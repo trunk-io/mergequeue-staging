@@ -1697,7 +1697,6 @@ eyases
 eyass
 eichbergite
 eichhornia
-eichwaldite
 eicosane
 eide
 eident
@@ -5077,6 +5076,7 @@ endite
 endited
 endites
 enditing
+eichwaldite
 endive
 endives
 evens
