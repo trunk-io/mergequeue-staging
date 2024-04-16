@@ -8738,7 +8738,6 @@ fortification
 fortifications
 fortifier
 fortifiers
-fortifies
 fortifying
 fortifyingly
 fortifys
@@ -9258,6 +9257,7 @@ fradicin
 frae
 fraela
 fraena
+fortifies
 fraenula
 fraenum
 fragaria
