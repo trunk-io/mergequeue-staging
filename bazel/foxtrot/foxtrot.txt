@@ -8667,6 +8667,7 @@ fillebeg
 forstall
 forstand
 forsteal
+feiseanna
 feverishly
 forsterite
 forsung
@@ -8766,7 +8767,6 @@ fortuity
 fortuitism
 fortuitist
 fortuitous
-feiseanna
 fortuitously
 fortuitus
 fortunate
