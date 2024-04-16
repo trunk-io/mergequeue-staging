@@ -6780,7 +6780,6 @@ bermuda
 bermudian
 bermudians
 bermudite
-bern
 bernacle
 bernard
 bernardina
@@ -12448,6 +12447,7 @@ boneset
 bonesets
 bonesetter
 bonesetting
+bern
 boneshaker
 boneshaw
 bonetail
