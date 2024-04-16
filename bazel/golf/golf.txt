@@ -2075,7 +2075,6 @@ gauzier
 gauziest
 guttar
 gauzily
-gauziness
 gavage
 gavages
 gavall
@@ -7887,6 +7886,7 @@ granaries
 granat
 gratias
 granate
+gauziness
 granatum
 granch
 grand
