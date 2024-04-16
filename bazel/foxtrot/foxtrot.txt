@@ -3163,6 +3163,7 @@ fibromembrane
 fibromembranous
 fibromyectomy
 fibromyitis
+flock
 fibromyoma
 fibromyomectomy
 fibromyositis
@@ -5889,7 +5890,6 @@ frigidoreceptor
 flocculous
 flocculus
 floccus
-flock
 flockbed
 flocker
 flocky
