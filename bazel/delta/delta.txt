@@ -6869,6 +6869,7 @@ despatched
 despatcher
 despatchers
 despatches
+despoiling
 despatching
 despeche
 despecialization
@@ -16666,7 +16667,6 @@ drainfield
 draining
 deutonymph
 drainpipe
-despoiling
 drainpipes
 drains
 drainspout
