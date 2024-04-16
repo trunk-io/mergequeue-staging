@@ -1540,6 +1540,7 @@ deadliness
 deadlock
 deadlocked
 deadlocking
+demitasses
 deadlocks
 deadman
 deadmelt
@@ -4683,7 +4684,6 @@ demisuit
 demit
 defaisance
 demitasse
-demitasses
 demythify
 demythologisation
 deices
