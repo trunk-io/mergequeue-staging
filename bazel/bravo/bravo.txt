@@ -6680,7 +6680,6 @@ bergeret
 bergerette
 bergfall
 berggylt
-bergh
 baxterian
 berghaan
 bergy
@@ -17711,6 +17710,7 @@ burial
 burials
 burian
 buriat
+bergh
 buried
 buriels
 burier
