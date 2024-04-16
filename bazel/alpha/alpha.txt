@@ -3301,6 +3301,7 @@ actuator
 actuators
 actuose
 acture
+alliterative
 ascents
 acturience
 actus
@@ -8765,7 +8766,6 @@ alliterating
 alliteration
 alliterational
 alliterationist
-alliterative
 alliteratively
 alliterativeness
 alliterator
