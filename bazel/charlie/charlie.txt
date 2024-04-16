@@ -20649,7 +20649,6 @@ complainingly
 complainingness
 complains
 complaint
-complaintful
 complaintive
 complaintiveness
 complaints
@@ -30321,6 +30320,7 @@ crustalogical
 crustalogist
 crustate
 crustated
+complaintful
 cripes
 crustation
 crusted
