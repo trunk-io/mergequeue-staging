@@ -4570,6 +4570,7 @@ advehent
 advena
 advenae
 advene
+allelotropy
 advenient
 advent
 advential
@@ -8643,7 +8644,6 @@ allelocatalytic
 allelomorphic
 allelomorphism
 allelopathy
-allelotropy
 allelotropic
 aggrege
 allelotropism
