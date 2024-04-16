@@ -8293,6 +8293,7 @@ chalicotheriidae
 cacoepist
 chalicotherioid
 chalicotherium
+coliform
 chalina
 chalinidae
 chalinine
@@ -18798,7 +18799,6 @@ colics
 colicweed
 colicwort
 colies
-coliform
 coliforms
 coliidae
 coliiformes
