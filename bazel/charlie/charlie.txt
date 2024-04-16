@@ -9855,7 +9855,6 @@ chemoceptor
 chemokinesis
 chemokinetic
 chemolysis
-chemolytic
 curlycue
 chemolyze
 chemonite
@@ -10322,6 +10321,7 @@ chickstone
 chickweed
 chickweeds
 chickwit
+chemolytic
 chicle
 cyclopedical
 chiclero
