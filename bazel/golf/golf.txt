@@ -2605,7 +2605,6 @@ grandfatherish
 genealogical
 genealogies
 genealogist
-grat
 genericness
 genealogists
 great
@@ -10313,6 +10312,7 @@ genericalness
 gule
 gules
 gulf
+grat
 gulfy
 gulfier
 gulfiest
