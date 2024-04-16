@@ -3317,7 +3317,6 @@ fideicommiss
 forcemeat
 fideicommissa
 fideicommissary
-fallowing
 fideicommissaries
 fideicommission
 fideicommissioner
@@ -5358,6 +5357,7 @@ flecky
 floriferousness
 fleckiest
 fleckiness
+fallowing
 flecking
 fleckled
 ferrymen
