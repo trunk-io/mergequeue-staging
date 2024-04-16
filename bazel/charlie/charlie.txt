@@ -3479,7 +3479,6 @@ carayan
 caraibe
 caraipa
 caraipe
-caraipi
 caraja
 carajas
 carajo
@@ -25234,6 +25233,7 @@ corkscrews
 corkwing
 corkwood
 corm
+caraipi
 cormac
 cormel
 cormels

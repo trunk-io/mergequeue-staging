@@ -9252,7 +9252,6 @@ diestock
 diestocks
 death
 diestrous
-diestrual
 diestrum
 diestrums
 diestruses
@@ -14834,6 +14833,7 @@ dromedarian
 dodecyl
 dodecylic
 distrustfulness
+diestrual
 dodecylphenol
 dodecuplet
 dodgasted
