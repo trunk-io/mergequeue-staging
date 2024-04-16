@@ -6119,7 +6119,6 @@ caulescent
 cauli
 caulicle
 caulicles
-caulicole
 caulicolous
 cauliculi
 cauliculus
@@ -11285,6 +11284,7 @@ chlorococcaceae
 chlorococcales
 chlorococcum
 chlorococcus
+caulicole
 chlorocresol
 chlorocruorin
 chlorodyne
