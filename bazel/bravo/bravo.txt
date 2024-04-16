@@ -1598,7 +1598,6 @@ ballistae
 bijous
 ballistician
 ballisticians
-beaune
 ballistics
 ballistocardiogram
 ballistocardiograph
@@ -10866,6 +10865,7 @@ blinker
 blinkered
 blinkering
 blinkers
+beaune
 blinky
 blinkingly
 blinks
