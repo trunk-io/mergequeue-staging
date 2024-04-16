@@ -2627,6 +2627,7 @@ electrosynthetic
 electrosynthetically
 electrosmosis
 electrostatic
+etymons
 electrostatical
 electrostatics
 electrosteel
@@ -10589,7 +10590,6 @@ enterpriser
 etymon
 equalities
 etymonic
-etymons
 etiogenic
 etiolate
 etiolated
