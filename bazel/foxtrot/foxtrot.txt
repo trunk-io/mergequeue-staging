@@ -1697,7 +1697,6 @@ fearers
 fearful
 fearfuller
 fearfullest
-fearfully
 fearfulness
 feelable
 fearing
@@ -9314,6 +9313,7 @@ frayedness
 fausant
 fraying
 frayings
+fearfully
 fraik
 fraile
 frailejon

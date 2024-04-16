@@ -2145,7 +2145,6 @@ banks
 bankshall
 banksia
 basilissa
-banksian
 banksias
 bankside
 banksides
@@ -12820,6 +12819,7 @@ boothage
 boothale
 bootheel
 boother
+banksian
 boothes
 boothian
 boothite
