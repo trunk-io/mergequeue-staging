@@ -2682,7 +2682,6 @@ acotyledonous
 acouasm
 acouchi
 acouchy
-acoumeter
 acoumetry
 acounter
 acouometer
@@ -9242,6 +9241,7 @@ alogical
 alogically
 alogism
 alogotrophy
+acoumeter
 aloha
 alohas
 alderwoman
