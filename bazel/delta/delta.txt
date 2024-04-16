@@ -7165,6 +7165,7 @@ detaining
 detainingly
 detainment
 detains
+disseats
 detar
 detassel
 detat
@@ -13462,7 +13463,6 @@ disseason
 disseat
 disseated
 disseating
-disseats
 dissected
 dissectible
 dissection

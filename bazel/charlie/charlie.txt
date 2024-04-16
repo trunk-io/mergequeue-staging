@@ -6341,6 +6341,7 @@ cavendish
 caver
 cavern
 cavernal
+cystein
 caverned
 cavernicolous
 caverning
@@ -14610,7 +14611,6 @@ cystectomy
 cystectomies
 cisted
 cysted
-cystein
 cysteine
 cysteines
 cysteinic
