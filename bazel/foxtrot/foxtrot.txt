@@ -580,7 +580,6 @@ florinda
 falls
 falltime
 fallway
-falsary
 false
 falsedad
 formby
@@ -1905,6 +1904,7 @@ federalisation
 federalise
 flattery
 fernshaw
+falsary
 federalising
 federalism
 forebrain
