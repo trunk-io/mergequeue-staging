@@ -6307,7 +6307,6 @@ enrib
 enrich
 enrichener
 eogaea
-enrichers
 enriches
 enrichingly
 enrichments
@@ -8504,6 +8503,7 @@ epopoeias
 epopoeist
 epoptist
 ensignship
+enrichers
 epornitic
 epos
 eutony
