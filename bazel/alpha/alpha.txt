@@ -2743,7 +2743,6 @@ acquirers
 acquires
 acquiring
 acquisible
-acquisita
 acousmas
 acquisite
 acquisited
@@ -25326,6 +25325,7 @@ azosulphonic
 azotaemia
 azotate
 azotea
+acquisita
 annist
 azoted
 atwo
