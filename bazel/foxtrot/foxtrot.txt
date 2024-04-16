@@ -1355,6 +1355,7 @@ fatherkin
 fatherland
 frogged
 folkmoot
+fumbulator
 fatherlandish
 flookan
 fatherlands
@@ -11029,7 +11030,6 @@ fumbling
 fumblingly
 famish
 fumblingness
-fumbulator
 fume
 flitches
 fumed
