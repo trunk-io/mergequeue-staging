@@ -1751,7 +1751,6 @@ eyefuls
 entwined
 eyeglance
 eyeglass
-eyeglasses
 etudes
 elegant
 eyeground
@@ -12084,6 +12083,7 @@ excitonic
 excitons
 espier
 excitonutrient
+eyeglasses
 excitor
 excitory
 excitors
