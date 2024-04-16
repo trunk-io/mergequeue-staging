@@ -2310,7 +2310,6 @@ fenchyl
 fencible
 flection
 fencibles
-fencing
 formyl
 fencings
 fend
@@ -9637,6 +9636,7 @@ freebie
 fleetful
 freebies
 freeboot
+fencing
 freebooted
 ferrometer
 freebooter
