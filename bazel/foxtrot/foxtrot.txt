@@ -3139,6 +3139,7 @@ fibroelastic
 fibroenchondroma
 fibroferrite
 fibroglioma
+frying
 fibrohemorrhagic
 farfet
 fibroid
@@ -10096,7 +10097,6 @@ frigorimeter
 frigostable
 frigotherapy
 frigs
-frying
 frija
 frijol
 foxiest
