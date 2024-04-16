@@ -253,7 +253,6 @@ bobache
 bachelorize
 bachelorly
 bachelorlike
-bachelors
 bachelorship
 bachelorwise
 bachelry
@@ -16447,6 +16446,7 @@ brutely
 brutelike
 bruteness
 brutify
+bachelors
 brutification
 brutified
 burners
