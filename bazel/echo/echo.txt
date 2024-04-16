@@ -5353,6 +5353,7 @@ eyr
 endosmos
 evaders
 exsect
+ervenholder
 endosmose
 endosmoses
 endosmosis
@@ -9458,7 +9459,6 @@ enterolithiasis
 eruptivity
 erupts
 erupturient
-ervenholder
 ervil
 ervils
 ervipiame

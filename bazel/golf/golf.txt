@@ -4735,6 +4735,7 @@ galv
 gyric
 gyrinid
 ganglioside
+gluside
 geoponical
 gyrinidae
 gyrinus
@@ -6156,7 +6157,6 @@ gluneamie
 guaniferous
 gluon
 glusid
-gluside
 glut
 geometricize
 glutamate
