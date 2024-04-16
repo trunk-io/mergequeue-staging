@@ -5741,6 +5741,7 @@ afterstrain
 afterstretch
 afterstudy
 aftersupper
+anatomicochirurgical
 antidynamic
 aftermarket
 autotherapeutic
@@ -12080,7 +12081,6 @@ anatomic
 anatomical
 anatomicals
 anatomicobiological
-anatomicochirurgical
 anatomicomedical
 anatomicopathologic
 anatomicopathological
