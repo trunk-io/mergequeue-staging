@@ -545,7 +545,6 @@ gallantly
 gallantry
 gallantries
 gallants
-gallate
 gallates
 gallature
 gallberry
@@ -3765,6 +3764,7 @@ ghostflower
 ghosthood
 ghosty
 ghostier
+gallate
 ghostiest
 ghostified
 ghostily
