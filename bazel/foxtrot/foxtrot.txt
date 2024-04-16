@@ -4498,7 +4498,6 @@ fissuration
 fissure
 fissured
 fissureless
-fissurella
 fissurellidae
 fissures
 fattish
@@ -8147,6 +8146,7 @@ foretoken
 foretokening
 foretokens
 fretless
+fissurella
 foretold
 foretooth
 flinches
