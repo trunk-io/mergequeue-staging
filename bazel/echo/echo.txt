@@ -8154,7 +8154,6 @@ epipubes
 epipubis
 epirhizous
 epirogenetic
-epirogeny
 epirote
 epirotic
 epirrhema
@@ -10737,6 +10736,7 @@ eucosmid
 eucosmidae
 eucrasy
 eucrasia
+epirogeny
 eucrasite
 eucre
 eucryphia

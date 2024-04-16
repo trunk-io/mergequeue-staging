@@ -903,7 +903,6 @@ baggers
 baggie
 baggier
 baggies
-baggiest
 baggily
 bagging
 baggings
@@ -10730,6 +10729,7 @@ blepharohematidrosis
 blepharolithiasis
 blepharomelasma
 blepharoncosis
+baggiest
 blepharoncus
 blepharophyma
 blepharophryplasty
