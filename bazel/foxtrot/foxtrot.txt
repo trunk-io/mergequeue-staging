@@ -3197,7 +3197,6 @@ firring
 fibs
 fibster
 fibulae
-fibular
 fomento
 fibulare
 fibulocalcaneal
@@ -7741,6 +7740,7 @@ forehoof
 forehoofs
 forehook
 forehooves
+fibular
 foreyard
 forpit
 foreyards
