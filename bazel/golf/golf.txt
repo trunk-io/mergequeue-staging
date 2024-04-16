@@ -1134,7 +1134,6 @@ ganglionic
 ganglionitis
 ganglions
 ganglioplexus
-ganglioside
 gangman
 gangmaster
 gangplank
@@ -4732,6 +4731,7 @@ girgasite
 gyri
 gyric
 gyrinid
+ganglioside
 geoponical
 gyrinidae
 gyrinus
