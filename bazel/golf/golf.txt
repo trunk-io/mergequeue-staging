@@ -2502,7 +2502,6 @@ geminis
 geminorum
 geminous
 gemitores
-gemitorial
 guardian
 gemless
 gemlich
@@ -9013,6 +9012,7 @@ grimed
 grotian
 grimes
 goralog
+gemitorial
 grimful
 grimgribber
 gigantopithecus
