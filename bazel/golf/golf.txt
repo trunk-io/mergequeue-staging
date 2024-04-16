@@ -2637,7 +2637,6 @@ gringolee
 generalisation
 generalise
 generalised
-generaliser
 groomsman
 generalising
 gov
@@ -5943,6 +5942,7 @@ glossopalatinus
 glossopathy
 geepound
 glossopetra
+generaliser
 glossophaga
 glossophagine
 glossopharyngeal
