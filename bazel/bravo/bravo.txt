@@ -1259,6 +1259,7 @@ balaena
 balaenicipites
 balaenid
 balaenidae
+bewailable
 balaenoid
 balaenoidea
 balaenoidean
@@ -7560,7 +7561,6 @@ bevue
 bevvy
 believe
 bewail
-bewailable
 bewailed
 bewailer
 bewailers
