@@ -14631,7 +14631,6 @@ anthropomorphist
 anthropomorphitic
 anthropomorphitical
 anthropomorphitism
-anthropomorphization
 anthropomorphize
 anthropomorphized
 anthropomorphizing
@@ -20780,6 +20779,7 @@ artotype
 artotypy
 artotyrite
 artou
+anthropomorphization
 arts
 artsy
 artsman
