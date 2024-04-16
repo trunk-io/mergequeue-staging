@@ -21174,6 +21174,7 @@ ashmolean
 ashochimi
 ashore
 ashot
+auxetic
 ashpit
 ashplant
 ashplants
@@ -24495,7 +24496,6 @@ auxanology
 auxanometer
 auxeses
 auxesis
-auxetic
 auxetically
 auxil
 antacids
