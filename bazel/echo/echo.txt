@@ -204,7 +204,6 @@ erythritic
 earthshine
 earthshock
 earthslide
-earthsmoke
 earthtongue
 elaterist
 earthwall
@@ -5146,6 +5145,7 @@ endocytic
 epistlar
 endocytosis
 endocytotic
+earthsmoke
 endoclinal
 endocline
 endocoelar
