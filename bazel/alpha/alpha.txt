@@ -17818,7 +17818,6 @@ applicate
 applications
 applicative
 applicatively
-applicator
 applicatory
 applicators
 applied
@@ -22756,6 +22755,7 @@ atonality
 atonally
 atone
 alchymy
+applicator
 atoneable
 atoned
 atonement
