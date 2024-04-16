@@ -5074,7 +5074,6 @@ flashlamp
 flashlight
 funambulator
 flashlights
-flashlike
 forellenstein
 flashness
 flashover
@@ -6184,6 +6183,7 @@ flouriness
 flouring
 flourish
 flourishable
+flashlike
 flourished
 flourishes
 flourishy
