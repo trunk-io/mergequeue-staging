@@ -4654,6 +4654,7 @@ demirep
 demirevetment
 demirhumb
 demirobe
+disaggregative
 demisability
 demisable
 demisang
@@ -10980,7 +10981,6 @@ disagglomeration
 disaggregate
 disaggregated
 disaggregation
-disaggregative
 disagio
 disagree
 disagreeability
