@@ -4173,6 +4173,7 @@ firebolted
 firebomb
 firebombed
 ferroalloy
+flimsiness
 firebombing
 firebombs
 fireboot
@@ -5659,7 +5660,6 @@ flimsiest
 flimsily
 florist
 fellowshiped
-flimsiness
 flinch
 flinched
 flincher
