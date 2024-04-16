@@ -21447,7 +21447,6 @@ asphaltic
 asphalting
 asphaltite
 asphaltlike
-asphalts
 amine
 asphaltus
 aspheric
@@ -24841,6 +24840,7 @@ avoir
 avoirdupois
 avoke
 avolate
+asphalts
 avolation
 avolitional
 avondbloem
