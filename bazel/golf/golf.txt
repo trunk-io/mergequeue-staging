@@ -952,7 +952,6 @@ gametogenic
 gametogenous
 gametogonium
 gametoid
-gynerium
 gametophagia
 gametophyll
 gonopodium
@@ -5980,6 +5979,7 @@ glottalized
 glottalizing
 glottic
 glottid
+gynerium
 glottidean
 glottides
 glottis
