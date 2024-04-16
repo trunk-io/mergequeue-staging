@@ -5496,6 +5496,7 @@ enduros
 endwise
 eneas
 enecate
+except
 eneclann
 ebullient
 ened
@@ -11960,7 +11961,6 @@ excentrical
 excentricity
 equaeval
 excepable
-except
 eppes
 exceptant
 excepted
