@@ -5487,7 +5487,6 @@ fleshless
 fleshlessness
 fleshlier
 fleshliest
-fleshlike
 fleshlily
 failingly
 fleshliness
@@ -7826,6 +7825,7 @@ foremark
 foremartyr
 foremasthand
 foremastmen
+fleshlike
 fluidify
 foremasts
 foremean
