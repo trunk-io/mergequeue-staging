@@ -6815,7 +6815,6 @@ foglietto
 fogman
 fogmen
 fogo
-fogon
 fogou
 fogproof
 fogramity
@@ -8235,6 +8234,7 @@ forfit
 friendlies
 forfouchten
 firking
+fogon
 forfoughen
 frivolers
 forfoughten
