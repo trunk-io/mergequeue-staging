@@ -3190,6 +3190,7 @@ fibrositis
 fibrospongiae
 formative
 fibrotuberculosis
+fusarial
 fracture
 fibrous
 fibrously
@@ -11527,7 +11528,6 @@ faunus
 farandine
 furzier
 fusains
-fusarial
 forwaked
 fusariose
 fusariosis
