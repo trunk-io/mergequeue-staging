@@ -1636,7 +1636,6 @@ egomania
 engrailing
 egomaniac
 egomaniacal
-egomaniacally
 egomanias
 egophony
 egophonic
@@ -9964,6 +9963,7 @@ estang
 estantion
 estate
 episkotister
+egomaniacally
 estately
 estates
 estatesman
