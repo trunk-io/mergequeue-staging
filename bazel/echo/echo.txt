@@ -4610,7 +4610,6 @@ encephalomyelitic
 encephalomyelitis
 entrepreneurial
 englyn
-encephalomyelopathy
 encephalomyocarditis
 encephalonarcosis
 encephalopathy
@@ -11018,6 +11017,7 @@ euphemistic
 euphemistical
 euphemistically
 euphemization
+encephalomyelopathy
 euphemize
 earcap
 euphemized
