@@ -141,7 +141,6 @@ cabling
 cablish
 cabman
 cabmen
-cabob
 cabobs
 caboceer
 caboche
@@ -7803,6 +7802,7 @@ cervicobuccal
 cervicodynia
 cervicodorsal
 cervicofacial
+cabob
 cervicohumeral
 cervicolabial
 cervicolingual
