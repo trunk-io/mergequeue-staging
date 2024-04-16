@@ -17166,7 +17166,6 @@ coalification
 coalified
 coalifies
 coalifying
-coaling
 coalite
 coalition
 coalitional
@@ -20634,6 +20633,7 @@ complacentially
 complacently
 complain
 complainable
+coaling
 complainant
 complainants
 complained
