@@ -3456,7 +3456,6 @@ germlike
 germling
 germon
 gelatigenous
-germproof
 germs
 germule
 gernative
@@ -10525,6 +10524,7 @@ glucosone
 gunnel
 gunnen
 gunner
+germproof
 gunnera
 gunneraceae
 gunnery

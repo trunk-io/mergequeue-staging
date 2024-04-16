@@ -72,7 +72,6 @@ formlessly
 facellite
 facemaker
 facemaking
-faceman
 facemark
 faceoff
 facepiece
@@ -9285,6 +9284,7 @@ fragmentation
 fragmented
 fermentology
 fragmenting
+faceman
 fragmentisation
 fragmentise
 fragmentised
