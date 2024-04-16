@@ -5908,6 +5908,7 @@ agastache
 agastreae
 albacore
 agastric
+aggregates
 adenyls
 agata
 agate
@@ -6108,7 +6109,6 @@ aggregate
 aggregated
 aggregately
 aggregateness
-aggregates
 aggregating
 aggregation
 aggregational
