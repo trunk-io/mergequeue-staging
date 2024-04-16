@@ -4654,7 +4654,6 @@ gipsyweed
 gypsyweed
 gypsywise
 gipsywort
-gypsywort
 gypsography
 gipsology
 gypsology
@@ -6243,6 +6242,7 @@ gnarred
 gnarring
 gnars
 gnash
+gypsywort
 gnashed
 gnashingly
 gnast
