@@ -4805,7 +4805,6 @@ flaglet
 flaglike
 flotation
 flagmaker
-flagman
 flagmen
 flagon
 flagonless
@@ -7421,6 +7420,7 @@ forblow
 forbode
 factionally
 forboding
+flagman
 forbore
 forborne
 forbow

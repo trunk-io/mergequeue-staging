@@ -5194,6 +5194,7 @@ cassoon
 cassoulet
 cassowary
 cassowaries
+cryohydric
 cassumunar
 cast
 castable
@@ -29138,7 +29139,6 @@ cryogenics
 cryogenies
 cryogens
 cryohydrate
-cryohydric
 cryolite
 cryolites
 criolla
