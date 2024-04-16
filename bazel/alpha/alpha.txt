@@ -19783,7 +19783,6 @@ aristologist
 aristomonarchy
 aristophanic
 aristorepublicanism
-aristos
 aristotelean
 aristotelian
 aristotelianism
@@ -19887,6 +19886,7 @@ armatoli
 armature
 armatured
 aerophysicist
+aristos
 aeroacoustic
 armatures
 armband

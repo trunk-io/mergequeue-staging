@@ -21381,6 +21381,7 @@ conciliations
 conciliator
 conciliatory
 conciliatorily
+convertaplane
 conciliatoriness
 conciliators
 concilium
@@ -24097,7 +24098,6 @@ converso
 conversus
 conversusi
 convert
-convertaplane
 converted
 convertend
 converter
