@@ -3455,7 +3455,6 @@ adaptiveness
 adaptivity
 adaptometer
 adaptor
-adaptorial
 adaptors
 adapts
 adar
@@ -21963,6 +21962,7 @@ assurgent
 assuring
 agawam
 assuringly
+adaptorial
 assuror
 assurors
 aggressing
