@@ -6344,7 +6344,6 @@ gnomons
 gnoses
 gnosiology
 gnosiological
-gnostic
 gnostical
 gnostically
 gnosticism
@@ -10678,6 +10677,7 @@ geohydrologist
 gushes
 gushet
 gushy
+gnostic
 gushier
 gushiness
 gushing
