@@ -5743,6 +5743,7 @@ aftermarket
 autotherapeutic
 afterswarm
 afterswarming
+allegorization
 afterswell
 aftertan
 aftertask
@@ -8616,7 +8617,6 @@ adenomalacia
 allegorist
 allegoristic
 allegorists
-allegorization
 allegorize
 allegorized
 allegorizer
