@@ -6997,7 +6997,6 @@ centerer
 centerfold
 centerfolds
 centering
-centerless
 centerline
 centermost
 centerpiece
@@ -13812,6 +13811,7 @@ cinders
 cindy
 cindie
 cine
+centerless
 cineangiocardiography
 cineangiocardiographic
 cineangiography
