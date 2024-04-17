@@ -2437,7 +2437,6 @@ ferias
 fantods
 feridgi
 feridjee
-fervidor
 freemasonic
 ferigee
 ferijee
@@ -4088,6 +4087,7 @@ finite
 finiteness
 finites
 finitesimal
+fervidor
 finity
 finitism
 finitude
