@@ -2200,7 +2200,6 @@ encephalosis
 enrichment
 eldership
 eldersisterly
-elderwoman
 elderwomen
 elderwood
 elderwort
@@ -2895,6 +2894,7 @@ elfishly
 elfishness
 elfkin
 elfland
+elderwoman
 elflike
 elflock
 elflocks

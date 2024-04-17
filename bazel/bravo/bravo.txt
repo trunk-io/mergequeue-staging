@@ -2272,6 +2272,7 @@ baragouin
 baragouinish
 baraita
 barajillo
+barging
 baralipton
 baramika
 baramin
@@ -2589,7 +2590,6 @@ bargham
 barghest
 barghests
 beslash
-barging
 bargir
 bassetite
 bargoose
