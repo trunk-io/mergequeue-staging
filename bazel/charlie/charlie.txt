@@ -12352,7 +12352,6 @@ chromas
 cystofibroma
 coffeeweed
 chromascope
-chromate
 chromates
 chromatic
 chromatical
@@ -15637,6 +15636,7 @@ clastic
 clastics
 clasts
 clat
+chromate
 clatch
 clathraceae
 clathraceous
