@@ -10096,7 +10096,6 @@ externation
 estrado
 estragol
 estragole
-estragon
 entity
 estray
 estrayed
@@ -12591,6 +12590,7 @@ exindusiate
 exine
 epidermical
 escaloped
+estragon
 exines
 energiatye
 exing
