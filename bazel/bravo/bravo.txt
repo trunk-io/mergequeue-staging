@@ -1566,6 +1566,7 @@ ballett
 ballfield
 ballflower
 ballgame
+breakfasts
 ballgames
 ballgown
 ballgowns
@@ -14819,7 +14820,6 @@ breakfaster
 breakfasters
 breakfasting
 breakfastless
-breakfasts
 breakfront
 breakfronts
 breaking
