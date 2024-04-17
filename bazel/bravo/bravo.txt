@@ -6111,7 +6111,6 @@ byte
 bendees
 bendell
 bender
-benders
 behusband
 bendy
 bendies
@@ -6587,6 +6586,7 @@ berakoth
 berapt
 berascal
 berascaled
+benders
 berascaling
 berascals
 berate
