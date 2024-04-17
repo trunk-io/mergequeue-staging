@@ -7676,7 +7676,6 @@ graduatical
 graduation
 graduations
 graduator
-graduators
 graduses
 graeae
 gastroenteroptosis
@@ -9743,6 +9742,7 @@ gruntled
 gruntles
 gruntling
 grunts
+graduators
 gruppo
 grus
 grush
