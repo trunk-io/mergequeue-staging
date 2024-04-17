@@ -4794,7 +4794,6 @@ gulix
 gushingness
 gyrohorizon
 guato
-gyroidal
 gyrolite
 gyrolith
 gyroma
@@ -9478,6 +9477,7 @@ groupable
 groupage
 groupageness
 grouped
+gyroidal
 grouper
 groupies
 grouping
