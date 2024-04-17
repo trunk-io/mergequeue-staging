@@ -7813,7 +7813,6 @@ dewaxed
 dewaxes
 dewaxing
 dewberry
-dewberries
 dewcap
 dewclaw
 dewclawed
@@ -14441,6 +14440,7 @@ diachronicness
 divisionary
 divisionistic
 divisions
+dewberries
 divisive
 divisively
 divisiveness
