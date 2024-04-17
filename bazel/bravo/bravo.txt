@@ -2076,7 +2076,6 @@ banishers
 banishing
 banishment
 banister
-banisterine
 banisters
 banyuls
 baniva
@@ -17723,6 +17722,7 @@ buries
 burin
 burinist
 burk
+banisterine
 burka
 burke
 burked
