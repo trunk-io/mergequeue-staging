@@ -730,7 +730,6 @@ gallweed
 greasehorn
 gallwort
 galoch
-galoot
 galoots
 galop
 galopades
@@ -10740,6 +10739,7 @@ gutser
 gutsy
 gutsier
 gutsiest
+galoot
 gutsily
 gutsiness
 gutt
