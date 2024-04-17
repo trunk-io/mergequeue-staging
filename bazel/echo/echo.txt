@@ -1805,7 +1805,6 @@ eyeshade
 eyeshades
 eyeshield
 eyeshine
-eyeshot
 eyeshots
 eyesight
 enculturating
@@ -4461,6 +4460,7 @@ enantiosis
 enantiotropy
 enantiotropic
 enantobiosis
+eyeshot
 enapt
 enarbor
 enarbour
