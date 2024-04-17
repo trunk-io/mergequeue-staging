@@ -6774,6 +6774,7 @@ entete
 entfaoilff
 enthalpy
 elotillo
+epilogate
 enthalpies
 entheal
 enthean
@@ -7967,7 +7968,6 @@ excipula
 epilobe
 epilobium
 epilog
-epilogate
 epilogation
 epilogic
 enstatitic

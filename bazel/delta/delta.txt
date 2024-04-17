@@ -3537,7 +3537,6 @@ deftnesses
 defunct
 defunction
 defunctionalization
-defunctionalize
 defunctive
 defuse
 defused
@@ -4985,6 +4984,7 @@ demurity
 demurrage
 demurrages
 demurral
+defunctionalize
 demurrals
 demurrant
 demurrer
