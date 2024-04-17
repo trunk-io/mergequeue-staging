@@ -5107,7 +5107,6 @@ dendrologists
 dendrologous
 dendromecon
 dendrometer
-dendron
 dendrons
 dendrophagous
 dendrophil
@@ -18581,6 +18580,7 @@ dustpans
 dustpoint
 dustrags
 dissentient
+dendron
 dusts
 dustsheet
 dynamitist
