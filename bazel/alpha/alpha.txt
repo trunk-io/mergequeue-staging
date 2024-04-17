@@ -6543,7 +6543,6 @@ arefact
 agromyzid
 agromyzidae
 agron
-agronome
 agronomy
 agronomial
 agronomic
@@ -11988,6 +11987,7 @@ anarthrosis
 anarthrous
 anarthrously
 anarthrousness
+agronome
 achlorhydria
 anartismos
 anas
