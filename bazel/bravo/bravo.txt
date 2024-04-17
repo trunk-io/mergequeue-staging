@@ -6241,7 +6241,6 @@ benightmare
 benightment
 benign
 benignancy
-benignancies
 benignant
 benignity
 boletic
@@ -13087,6 +13086,7 @@ borowolframic
 borracha
 borrasca
 borrel
+benignancies
 borrelia
 borrelomycetaceae
 borreria
