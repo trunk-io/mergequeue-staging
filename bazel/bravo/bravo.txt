@@ -705,6 +705,7 @@ bacteriotropic
 blepharedema
 bacteriotropin
 bacterious
+biolysis
 bacteririum
 bacteritic
 bacteriuria
@@ -9032,7 +9033,6 @@ biol
 biolinguistics
 biolyses
 bludgeoneer
-biolysis
 biolite
 biolytic
 biologese
