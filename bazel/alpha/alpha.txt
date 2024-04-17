@@ -17847,6 +17847,7 @@ applotment
 appmt
 appoggiatura
 appoggiaturas
+arboretum
 appoggiature
 appointable
 appointe
@@ -18566,7 +18567,6 @@ arborescently
 arboresque
 arboret
 arboreta
-arboretum
 arboretums
 arbory
 arborical
