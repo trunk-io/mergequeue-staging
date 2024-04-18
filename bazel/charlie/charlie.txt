@@ -24269,6 +24269,7 @@ cookable
 cookbook
 cookbooks
 classist
+cricket
 carucal
 cookdom
 cooked
@@ -28938,7 +28939,6 @@ crick
 cricke
 cricked
 crickey
-cricket
 cionocranial
 cricketed
 cricketer
