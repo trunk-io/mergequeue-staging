@@ -15702,7 +15702,6 @@ clausula
 clausulae
 clausular
 clausule
-clausum
 clausure
 claut
 clava
@@ -20167,6 +20166,7 @@ committed
 committedly
 committedness
 committeeism
+clausum
 committeeman
 committeemen
 committees
