@@ -618,7 +618,6 @@ gobletful
 gallicole
 gutturize
 gallicolous
-gallied
 gallies
 gallify
 gallification
@@ -5396,6 +5395,7 @@ glenwood
 glessite
 glew
 gliadin
+gallied
 gliadine
 gliadines
 glaucophane
