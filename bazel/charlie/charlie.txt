@@ -9868,7 +9868,6 @@ chemolyze
 chemonite
 chemopallidectomy
 chemopallidectomies
-chemopause
 chemophysiology
 chemophysiological
 chemoprophyalctic
@@ -12126,6 +12125,7 @@ chremsel
 chremzel
 chremzlach
 chreotechnics
+chemopause
 cubans
 chresard
 chresards
