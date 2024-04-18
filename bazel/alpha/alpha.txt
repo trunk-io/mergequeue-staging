@@ -4568,7 +4568,6 @@ advectitious
 advective
 advects
 advehent
-advena
 advenae
 advene
 allelotropy
@@ -23418,6 +23417,7 @@ aulete
 auletes
 auletic
 auletrides
+advena
 auletris
 aulic
 aulical

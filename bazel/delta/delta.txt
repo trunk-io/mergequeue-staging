@@ -791,7 +791,6 @@ dandler
 dandlers
 dandles
 dandling
-dandlingly
 dandriff
 dandriffy
 dandriffs
@@ -18233,6 +18232,7 @@ dunks
 dunlap
 dunlin
 dunlins
+dandlingly
 dunlop
 dunnage
 dartboard
