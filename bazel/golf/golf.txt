@@ -30,7 +30,6 @@ gabblers
 gabbles
 gabbling
 gabbro
-gabbroic
 globuloid
 gabbroid
 gabbroitic
@@ -5265,6 +5264,7 @@ glaucodote
 glaucolite
 glaucoma
 goldcup
+gabbroic
 greenslade
 galipots
 glaucomys
