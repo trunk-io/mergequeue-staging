@@ -19090,7 +19090,6 @@ collinses
 collinsia
 collinsite
 collinsonia
-colliquable
 colliquament
 colliquate
 colliquation
@@ -24504,6 +24503,7 @@ copelidine
 copellidine
 copeman
 copemate
+colliquable
 copemates
 copen
 copending
