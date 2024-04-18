@@ -266,7 +266,6 @@ abdominoanterior
 abdominocardiac
 abdominocentesis
 abdominocystic
-abdominogenital
 abdominohysterectomy
 abdominohysterotomy
 abdominoposterior
@@ -2415,6 +2414,7 @@ acidy
 acidic
 acidify
 acidifiable
+abdominogenital
 acidifiant
 acidific
 acidification
