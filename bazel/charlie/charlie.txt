@@ -20871,7 +20871,6 @@ compotes
 compotier
 compotiers
 compotor
-compound
 compoundable
 compounded
 clar
@@ -23754,6 +23753,7 @@ contrarieties
 contrarily
 contrariness
 contrarious
+compound
 contrariously
 contrariousness
 contrariwise
