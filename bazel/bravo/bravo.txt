@@ -4332,7 +4332,6 @@ bebat
 buttonbur
 bebathe
 bebatter
-bebeast
 bebed
 bebeerin
 bebeerine
@@ -13125,6 +13124,7 @@ bosch
 boschbok
 boschneger
 boschvark
+bebeast
 boschveld
 bose
 bosey
