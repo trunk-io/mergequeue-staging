@@ -5423,7 +5423,6 @@ denuder
 denuders
 denudes
 denuding
-denumberment
 denumerability
 denumerable
 denumerably
@@ -17731,6 +17730,7 @@ dubitatively
 dublin
 duboisia
 duboisin
+denumberment
 duboisine
 dubonnet
 dubonnets
