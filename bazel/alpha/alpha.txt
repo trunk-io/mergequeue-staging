@@ -6536,7 +6536,6 @@ adsorbate
 agrom
 agromania
 agromyza
-arefact
 agromyzid
 agromyzidae
 agron
@@ -18071,6 +18070,7 @@ aprendiz
 apres
 apricate
 aprication
+arefact
 aprickle
 agaroid
 apricot
