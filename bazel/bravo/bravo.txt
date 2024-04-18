@@ -2635,7 +2635,6 @@ barish
 barysilite
 barysphere
 barit
-baryta
 bloodlike
 barytas
 baryte
@@ -7666,6 +7665,7 @@ bewrays
 bewrap
 bewrapped
 bewrapping
+baryta
 briggsian
 bewraps
 bathycurrent
