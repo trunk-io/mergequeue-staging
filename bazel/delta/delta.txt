@@ -3463,7 +3463,6 @@ deforceor
 deforcer
 deforces
 deforciant
-deforest
 deforestation
 deforested
 deforester
@@ -9804,6 +9803,7 @@ defeatists
 dilutee
 dilutely
 diluteness
+deforest
 dilutent
 diluter
 diluters
