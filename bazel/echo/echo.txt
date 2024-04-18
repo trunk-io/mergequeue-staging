@@ -6596,6 +6596,7 @@ entelluses
 entelodon
 entelodont
 entempest
+exteriorisation
 entemple
 entender
 entendre
@@ -13599,7 +13600,6 @@ extenuatory
 exter
 exterior
 exterioration
-exteriorisation
 exteriorise
 epicyesis
 exteriorising
