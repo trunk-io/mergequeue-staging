@@ -3924,6 +3924,7 @@ delactation
 delay
 delayable
 delayage
+diploneural
 delayed
 demes
 delayer
@@ -10615,7 +10616,6 @@ diplomyelia
 diplonema
 detroit
 diplonephridia
-diploneural
 diplont
 diplontic
 diplonts
