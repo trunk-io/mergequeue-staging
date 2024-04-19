@@ -6447,7 +6447,6 @@ benzol
 benzolate
 benzole
 benzoles
-benzoline
 benzolize
 benzols
 benzonaphthol
@@ -16012,6 +16011,7 @@ bronteana
 bronteon
 brontephobia
 bronteum
+benzoline
 brontide
 brontides
 brontogram
