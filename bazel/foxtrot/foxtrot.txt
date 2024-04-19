@@ -6680,6 +6680,7 @@ fo
 foaled
 foalfoot
 fought
+forewinning
 fele
 foalfoots
 foalhood
@@ -8196,7 +8197,6 @@ foreweigh
 forewent
 forewind
 forewings
-forewinning
 forewisdom
 flabbiest
 forewish
