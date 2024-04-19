@@ -4873,7 +4873,6 @@ encounter
 encounterable
 encountered
 encounterer
-erector
 entitlement
 encounterers
 encountering
@@ -11567,6 +11566,7 @@ eversive
 eversporting
 evertebral
 evertebrata
+erector
 evertebrate
 everted
 enfoeffment
