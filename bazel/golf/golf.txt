@@ -1813,7 +1813,6 @@ gastromelus
 gastromenia
 gastromyces
 gastromycosis
-gastromyxorrhea
 gastronephritis
 gastronome
 gastronomer
@@ -5403,6 +5402,7 @@ glaucophane
 glib
 glibber
 glibbery
+gastromyxorrhea
 glibly
 glibness
 glibnesses
