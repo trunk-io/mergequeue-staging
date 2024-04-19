@@ -5891,7 +5891,6 @@ depredation
 depredationist
 depredations
 depredatory
-deontic
 depredicate
 deprehend
 deprehensible
@@ -11550,6 +11549,7 @@ disconfirmation
 disconfirmed
 disconform
 disconformably
+deontic
 disconformity
 degasser
 disconformities
