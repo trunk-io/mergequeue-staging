@@ -1610,6 +1610,7 @@ dealings
 dealkylate
 dealkylation
 deallocate
+drubbed
 deallocated
 deallocates
 deallocating
@@ -17487,7 +17488,6 @@ drowsing
 drowte
 drafters
 drub
-drubbed
 drubber
 drubbers
 drubbing
