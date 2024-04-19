@@ -13697,7 +13697,6 @@ annunciates
 annunciating
 annunciation
 annunciations
-annunciative
 annunciator
 annunciatory
 annunciators
@@ -23170,6 +23169,7 @@ atturn
 atua
 atule
 atumble
+annunciative
 atune
 anthelmintic
 atveen
