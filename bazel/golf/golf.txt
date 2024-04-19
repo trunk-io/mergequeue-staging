@@ -2854,7 +2854,6 @@ gensengs
 gentamicin
 genteel
 glike
-genteeler
 genteelest
 genteelism
 galactophthysis
@@ -3849,6 +3848,7 @@ gleed
 gibberose
 gibberosity
 grouching
+genteeler
 gallotannate
 gibbert
 gibbet

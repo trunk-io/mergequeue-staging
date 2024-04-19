@@ -13032,7 +13032,6 @@ cyanogenic
 cyanogens
 cyanoguanidine
 cyanohermidin
-cyanohydrin
 cyanol
 cyanole
 cyanomaclurin
@@ -31218,6 +31217,7 @@ curate
 curatel
 curates
 curateship
+cyanohydrin
 curatess
 curatial
 curatic
