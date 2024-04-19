@@ -5333,6 +5333,7 @@ begrim
 begrimed
 begrimer
 begrimes
+bronchostomy
 begriming
 begrimmed
 begrimming
@@ -15987,7 +15988,6 @@ bronchoscopically
 bronchoscopist
 bronchospasm
 bronchostenosis
-bronchostomy
 bronchostomies
 bronchotetany
 bronchotyphus
