@@ -9291,7 +9291,6 @@ erosible
 evillest
 erosion
 erosional
-erosionally
 erythrulose
 erosions
 erosive
@@ -12886,6 +12885,7 @@ exotoxic
 exotoxin
 exotoxins
 exotropia
+erosionally
 exotropic
 exotropism
 exp
