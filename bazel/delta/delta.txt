@@ -3052,7 +3052,6 @@ deertongue
 deervetch
 deerweed
 deerweeds
-disasinate
 deerwood
 deescalate
 deescalated
@@ -4648,6 +4647,7 @@ demirep
 demirevetment
 demirhumb
 demirobe
+disasinate
 disaggregative
 demisability
 demisable
