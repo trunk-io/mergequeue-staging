@@ -2667,7 +2667,6 @@ ferruginous
 fincas
 ferrugo
 futilize
-ferrule
 ferruled
 ferruler
 ferrules
@@ -3877,6 +3876,7 @@ fimbriating
 finises
 fimbriation
 fimbriatum
+ferrule
 fimbricate
 fimbricated
 fimbrilla
