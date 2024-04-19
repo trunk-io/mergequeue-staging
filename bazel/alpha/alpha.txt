@@ -18236,7 +18236,6 @@ aquatile
 aquatinta
 aquatinted
 aquatinter
-aquatinting
 aquatintist
 aquatints
 aquation
@@ -19656,6 +19655,7 @@ arias
 aryballi
 aryballoi
 aryballoid
+aquatinting
 aryballos
 aryballus
 arybballi
