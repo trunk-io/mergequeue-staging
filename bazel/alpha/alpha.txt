@@ -11825,6 +11825,7 @@ amperage
 anamite
 anammonid
 anammonide
+asarite
 anamneses
 anamnesis
 anamnestic
@@ -20864,7 +20865,6 @@ asarabacca
 asaraceae
 asarh
 asarin
-asarite
 asaron
 amicable
 asarone
