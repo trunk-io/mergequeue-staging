@@ -335,6 +335,7 @@ dayanim
 daybeacon
 daybeam
 daybed
+doddle
 daybeds
 dollfaced
 dayberry
@@ -14794,7 +14795,6 @@ doddies
 dextrorotation
 dodding
 doddypoll
-doddle
 dodecade
 dodecadrachm
 dodecafid

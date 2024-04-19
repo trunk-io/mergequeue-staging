@@ -5877,7 +5877,6 @@ engraven
 engraver
 engravers
 engraves
-engraving
 engravings
 engreaten
 engrege
@@ -7579,6 +7578,7 @@ ephoralty
 ephorate
 ephorates
 ephori
+engraving
 ephoric
 ephors
 ephorship
