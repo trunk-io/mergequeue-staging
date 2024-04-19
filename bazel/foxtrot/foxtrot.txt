@@ -3389,6 +3389,7 @@ fiducinales
 fied
 fiedlerite
 fief
+falchions
 fiefdom
 fiefs
 forfeitable
@@ -4393,7 +4394,6 @@ fishbone
 fishbones
 fadingness
 fishbowl
-falchions
 fisheater
 fisheye
 fisheyes
