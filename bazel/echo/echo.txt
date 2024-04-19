@@ -3591,6 +3591,7 @@ embouchure
 embound
 erasable
 embourgeoisement
+eliminability
 embow
 embowed
 embowel
@@ -6650,7 +6651,6 @@ enterocystoma
 enterocleisis
 excluding
 enteroclisis
-eliminability
 enterococcal
 enterococcus
 enterocoel
