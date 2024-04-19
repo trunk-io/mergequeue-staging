@@ -5913,7 +5913,6 @@ flockwise
 flocoon
 flocs
 filterman
-flodge
 floeberg
 floey
 floerkea
@@ -7235,6 +7234,7 @@ footling
 footlock
 footlocker
 footlockers
+flodge
 footlog
 footloose
 footmanhood
