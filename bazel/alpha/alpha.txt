@@ -8374,7 +8374,6 @@ alitrunk
 aliturgic
 aliturgical
 aliunde
-alive
 aliveness
 alives
 alivincular
@@ -16439,6 +16438,7 @@ antivolition
 antiwar
 antiwarlike
 antiwaste
+alive
 ameiurus
 antiwear
 antiwedge
