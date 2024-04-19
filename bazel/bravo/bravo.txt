@@ -7529,6 +7529,7 @@ beveled
 beveler
 bevelers
 blastophore
+bkpt
 beveling
 bevelled
 beveller
@@ -10024,7 +10025,6 @@ bkg
 bklr
 bkpr
 backsey
-bkpt
 bks
 bkt
 bl
