@@ -676,7 +676,6 @@ bacteriologists
 bacteriopathology
 bacteriophage
 bacteriophages
-bacteriophagy
 bacteriophagia
 bacteriophagic
 bacteriophagous
@@ -11441,6 +11440,7 @@ bioral
 bluntly
 bluntness
 blunts
+bacteriophagy
 blup
 brotulid
 blur
