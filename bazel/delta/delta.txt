@@ -12554,7 +12554,6 @@ disjoints
 disjointure
 disjudication
 disjunct
-disjunctions
 disjunctive
 disjunctively
 disjunctor
@@ -13050,6 +13049,7 @@ dispersonate
 dispersonify
 dismasting
 dispersonification
+disjunctions
 dulcely
 dispetal
 dysphagia
