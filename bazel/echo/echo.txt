@@ -6755,6 +6755,7 @@ eulogiser
 endymion
 enters
 entertainable
+epithecicia
 entertained
 enquires
 entertainer
@@ -8358,7 +8359,6 @@ epithamia
 epitheca
 epithecal
 epithecia
-epithecicia
 epistolizable
 epithecium
 epithelia
