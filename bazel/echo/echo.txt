@@ -575,7 +575,6 @@ echinologist
 echinomys
 erythrene
 echinopanax
-echinops
 echinopsine
 echinorhynchus
 echinorhinidae
@@ -7143,6 +7142,7 @@ enucleator
 enumerability
 episcope
 epris
+echinops
 exanthemata
 exanthalose
 enumerable
