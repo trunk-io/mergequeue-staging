@@ -954,7 +954,6 @@ darbyite
 darbs
 darbukka
 darci
-decolorate
 darcy
 dard
 dardan
@@ -12429,6 +12428,7 @@ disinclines
 disinclining
 dormitory
 disinclose
+decolorate
 disincorporated
 disincorporating
 disincorporation
