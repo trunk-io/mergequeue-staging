@@ -4845,7 +4845,6 @@ flagroot
 flags
 flagship
 firepower
-flagstaff
 flagstaffs
 fitchy
 flagstaves
@@ -11650,6 +11649,7 @@ fabricate
 fustilugs
 fustin
 fustinella
+flagstaff
 fustiness
 fustoc
 fusula
