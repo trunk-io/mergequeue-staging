@@ -6618,7 +6618,6 @@ desiccatory
 desiccators
 desiderable
 desiderant
-desiderata
 desiderate
 desiderated
 desideration
@@ -7873,6 +7872,7 @@ dextrad
 dextrality
 dextrally
 dextran
+desiderata
 dextranase
 dextrane
 dextrans
