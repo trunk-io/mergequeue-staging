@@ -3480,7 +3480,6 @@ baston
 bastonet
 bastonite
 basts
-basural
 basurale
 basuto
 barramundis
@@ -6292,6 +6291,7 @@ bensall
 bensel
 bensell
 bensh
+basural
 benshea
 benshee
 benshi
