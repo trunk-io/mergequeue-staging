@@ -938,6 +938,7 @@ ectozoa
 ectozoan
 ectozoans
 ectozoon
+earthfast
 ectrodactyly
 ectrodactylia
 eleaticism
@@ -7149,7 +7150,6 @@ enumerably
 enumerate
 enumerated
 enumerates
-earthfast
 enumerating
 enumeration
 enumerations
