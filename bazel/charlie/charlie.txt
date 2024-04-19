@@ -9837,6 +9837,7 @@ chemiotaxis
 chemiotropic
 chemiotropism
 chemiphotic
+convolutions
 chuhra
 copout
 chemis
@@ -24198,7 +24199,6 @@ convolutely
 convoluting
 convolution
 convolutional
-convolutions
 convolutive
 convolve
 convolved
