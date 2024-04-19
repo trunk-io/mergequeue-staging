@@ -6916,6 +6916,7 @@ foldskirt
 foldstool
 foldure
 foldwards
+freelage
 foreplanting
 fole
 foleye
@@ -9692,7 +9693,6 @@ freeing
 freeings
 freeish
 fluviograph
-freelage
 freelance
 freelanced
 freelancer
