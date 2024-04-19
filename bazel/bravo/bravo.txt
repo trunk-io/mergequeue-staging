@@ -8788,7 +8788,6 @@ binaphthyl
 binapthyl
 binary
 binaries
-binarium
 binate
 brindle
 binately
@@ -15336,6 +15335,7 @@ brightener
 brighteners
 brightening
 brightens
+binarium
 brighter
 brightest
 brightish
