@@ -5117,6 +5117,7 @@ empaled
 endobronchitis
 endocannibalism
 endocardia
+enriching
 exemptible
 endocarditic
 endocardium
@@ -14111,7 +14112,6 @@ extruders
 extrudes
 extruding
 extrusible
-enriching
 extrusile
 extrusion
 extrusions
