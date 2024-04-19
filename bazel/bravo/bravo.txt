@@ -4527,7 +4527,6 @@ becriming
 becrimson
 becrinolined
 becrippled
-becrippling
 becroak
 becross
 becrowd
@@ -7343,6 +7342,7 @@ beteela
 brooke
 beteem
 betel
+becrippling
 betelgeuse
 batitinan
 betell
