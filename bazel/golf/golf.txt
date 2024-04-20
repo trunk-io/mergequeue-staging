@@ -5614,7 +5614,6 @@ glyptodont
 glyptodontidae
 gletty
 glyptodontoid
-glyptograph
 glyptographer
 glyptography
 gasometrical
@@ -6974,6 +6973,7 @@ goodhumoredness
 goody
 goodie
 goodyear
+glyptograph
 gomarite
 goodyera
 goodies
