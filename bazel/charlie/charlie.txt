@@ -22943,7 +22943,6 @@ chiviatite
 consociative
 consocies
 consol
-consolable
 consolableness
 consolably
 consolamentum
@@ -25471,6 +25470,7 @@ corolliferous
 corollifloral
 corolliform
 corolline
+consolable
 corollitic
 coromandel
 coromell

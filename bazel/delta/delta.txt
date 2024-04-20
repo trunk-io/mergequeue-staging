@@ -5473,7 +5473,6 @@ deodorized
 deodorizer
 deodorizes
 deodorizing
-decolletage
 deontology
 deontological
 deontologist
@@ -14026,6 +14025,7 @@ disulfide
 disanimate
 disulfids
 disulfiram
+decolletage
 disulfonic
 disulfoton
 disulfoxid
