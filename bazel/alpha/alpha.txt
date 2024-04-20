@@ -8501,7 +8501,6 @@ alkyloxy
 alkyls
 alkin
 alkine
-alkyne
 alkynes
 alkitran
 alkool
@@ -21795,6 +21794,7 @@ assyriologue
 assyroid
 assis
 assisa
+alkyne
 assisan
 assise
 assish
