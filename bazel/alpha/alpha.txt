@@ -7625,7 +7625,6 @@ alchera
 alcheringa
 alchimy
 alchymies
-alchitran
 alchochoden
 alcibiadean
 alcibiades
@@ -15831,6 +15830,7 @@ antipeptone
 antiperiodic
 antiperistalsis
 antiperistaltic
+alchitran
 antiperistasis
 antiperistatic
 antiperistatical
