@@ -7623,6 +7623,7 @@ alchemister
 alchemistic
 alchemistical
 alchemistry
+autopositive
 alchemists
 alchemize
 alchemized
@@ -24304,7 +24305,6 @@ autopoloist
 autopore
 autoportrait
 autoportraiture
-autopositive
 autopotamic
 autopotent
 autoprogressive
