@@ -114,7 +114,6 @@ gadhelic
 gadi
 geek
 gadid
-gadidae
 gadinic
 gadis
 gaditan
@@ -5885,6 +5884,7 @@ glossas
 glossata
 glossator
 glossatorial
+gadidae
 glossectomy
 glossed
 glossem
