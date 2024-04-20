@@ -6720,7 +6720,6 @@ goluptious
 goma
 gomari
 gomarian
-gomarite
 gomart
 gomashta
 gomasta
@@ -6969,6 +6968,7 @@ goodhumoredness
 goody
 goodie
 goodyear
+gomarite
 goodyera
 goodies
 goodyish
