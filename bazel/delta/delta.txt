@@ -3341,6 +3341,7 @@ definitively
 definitiveness
 definitization
 definitize
+delactation
 definitized
 definitizing
 definitor
@@ -3916,7 +3917,6 @@ desperadoes
 delace
 delacerate
 delacrimation
-delactation
 delay
 delayable
 delayage
