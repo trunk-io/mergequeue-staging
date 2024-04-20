@@ -20774,7 +20774,6 @@ complimentarity
 complimentation
 complimentative
 complimented
-complimenter
 complimenters
 complimenting
 complimentingly
@@ -27426,6 +27425,7 @@ couteau
 couteaux
 coutel
 coutelle
+complimenter
 couter
 combativity
 couters

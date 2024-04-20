@@ -2513,7 +2513,6 @@ declension
 declensional
 declensionally
 declensions
-declericalize
 declimatize
 declinable
 declinal
@@ -18233,6 +18232,7 @@ dunlap
 dunlin
 dunlins
 dandlingly
+declericalize
 dunlop
 dunnage
 dartboard
