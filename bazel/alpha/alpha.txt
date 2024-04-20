@@ -8674,7 +8674,6 @@ alleviates
 alleviating
 alleviatingly
 alleviation
-alleviations
 alleviative
 alleviator
 alleviatory
@@ -11496,6 +11495,7 @@ anacahuite
 anacalypsis
 anacampsis
 anacamptic
+alleviations
 anacamptically
 anacamptics
 anacamptometer
