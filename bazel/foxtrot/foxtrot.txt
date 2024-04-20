@@ -5070,7 +5070,6 @@ flashbacks
 fellatee
 flashboard
 flashbulb
-flashbulbs
 flashcube
 flashcubes
 flashed
@@ -7299,6 +7298,7 @@ footstall
 footstep
 footsteps
 footstick
+flashbulbs
 footstock
 footstone
 footstool
