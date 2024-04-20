@@ -4770,6 +4770,7 @@ bedposts
 bedquilt
 bedquilts
 bedrabble
+bluffing
 bedrabbling
 bedraggle
 bedraggled
@@ -11382,7 +11383,6 @@ bluffer
 bluffers
 bluffest
 bluffy
-bluffing
 bluffly
 bluffness
 bluffs
