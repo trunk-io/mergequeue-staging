@@ -6083,7 +6083,6 @@ enlisted
 enlistee
 earphones
 enlistees
-enlister
 enlisting
 enlistment
 enlistments
@@ -6844,6 +6843,7 @@ enticingly
 enticingness
 entier
 enties
+enlister
 entify
 eternalness
 entifical
