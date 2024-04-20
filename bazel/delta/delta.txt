@@ -9770,6 +9770,7 @@ dillymen
 dilling
 dillis
 dillisk
+deacetylating
 dills
 dillseed
 dillue
@@ -14672,7 +14673,6 @@ docked
 docken
 docker
 dockers
-deacetylating
 docket
 docketed
 docketing
