@@ -7274,7 +7274,6 @@ gorsiest
 gorst
 grayware
 gortonite
-gos
 goschen
 gosh
 goshawk
@@ -9173,6 +9172,7 @@ gristbite
 grister
 gristy
 gristle
+gos
 gauge
 gasbag
 gristlier
