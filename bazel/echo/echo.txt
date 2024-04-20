@@ -6030,6 +6030,7 @@ enkraal
 enl
 enlace
 escroll
+enwrought
 enlacement
 enlacing
 enlay
@@ -7286,7 +7287,6 @@ enneasyllabic
 enwreathed
 enwreathing
 enwrite
-enwrought
 enwwove
 euphonym
 enwwoven
