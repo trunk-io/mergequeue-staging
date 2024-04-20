@@ -2656,7 +2656,6 @@ electrotherapeutical
 expressionful
 electrotherapeutist
 edaphodont
-electrotherapy
 electrotherapist
 electrotheraputic
 electrotheraputical
@@ -12488,6 +12487,7 @@ exhausts
 exhbn
 exhedrae
 exheredate
+electrotherapy
 exheredation
 exhibit
 exhibitable
