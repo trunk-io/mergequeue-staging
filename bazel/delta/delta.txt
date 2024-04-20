@@ -7857,7 +7857,6 @@ dexiotrope
 dexiotropic
 dexiotropism
 dexter
-dexterity
 dexterously
 dexterousness
 dextorsal
@@ -13901,6 +13900,7 @@ distortedness
 distorter
 distorters
 distorting
+dexterity
 distortion
 distortional
 distortionist
