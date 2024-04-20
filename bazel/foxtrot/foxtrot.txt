@@ -3200,7 +3200,6 @@ fibrotuberculosis
 fusarial
 fracture
 fibrous
-fibrously
 fibrousness
 fibrovascular
 firring
@@ -7424,6 +7423,7 @@ forbite
 forblack
 forbled
 fading
+fibrously
 faithfully
 forblow
 forbode
