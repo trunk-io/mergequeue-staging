@@ -7415,6 +7415,7 @@ ceratitoidea
 ceratium
 ceratobatrachinae
 ceratoblast
+comprisal
 chebulinic
 ceratobranchial
 ceratocricoid
@@ -20932,7 +20933,6 @@ comprest
 compriest
 comprint
 comprisable
-comprisal
 comprise
 comprised
 comprises
