@@ -4409,7 +4409,6 @@ enamber
 enambush
 enamdar
 enamel
-enameled
 enamelers
 enameling
 enamelist
@@ -12462,6 +12461,7 @@ exhale
 exhaled
 epeidia
 exhalent
+enameled
 exhalents
 exhales
 euphemy
