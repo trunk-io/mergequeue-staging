@@ -9685,7 +9685,6 @@ freedwoman
 freedwomen
 freefd
 freeform
-freehand
 freehanded
 freehandedly
 freehandedness
@@ -11698,6 +11697,7 @@ flocculate
 futurely
 futureness
 futures
+freehand
 futuric
 futurism
 flippancy
