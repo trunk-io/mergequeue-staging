@@ -1201,7 +1201,6 @@ fascio
 fasciodesis
 fasciola
 fasciolae
-fasciolar
 fasciolariidae
 fasciole
 freely
@@ -3737,6 +3736,7 @@ filix
 fylker
 filla
 foreleech
+fasciolar
 fairyism
 friesish
 fillable
