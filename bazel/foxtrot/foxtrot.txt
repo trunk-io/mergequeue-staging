@@ -2688,6 +2688,7 @@ fertiliser
 fertilising
 fertilitate
 fertility
+fructus
 fertilities
 fertilizability
 fertilizable
@@ -10643,7 +10644,6 @@ fructuous
 fructuously
 fructure
 familiarities
-fructus
 frug
 frugalism
 frugalist
