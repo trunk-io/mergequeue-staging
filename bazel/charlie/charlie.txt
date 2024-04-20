@@ -3390,7 +3390,6 @@ captress
 capturable
 capture
 captured
-capturer
 capturers
 captures
 clinoprism
@@ -27044,6 +27043,7 @@ counterprotest
 counterprove
 counterpull
 counterpunch
+capturer
 counterpuncture
 counterpush
 counterquartered
