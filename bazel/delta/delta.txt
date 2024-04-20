@@ -5327,7 +5327,6 @@ dentical
 denticate
 denticete
 denticeti
-denticle
 denticles
 denticular
 denticulate
@@ -13860,6 +13859,7 @@ distinguished
 distinguishedly
 distinguisher
 daydreamer
+denticle
 distinguishes
 distinguishing
 distinguishingly
