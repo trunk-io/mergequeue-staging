@@ -522,6 +522,7 @@ geographics
 gasterosteid
 galium
 galivant
+grues
 galivanted
 geognostic
 galivanting
@@ -9655,7 +9656,6 @@ gruelled
 grueller
 gruellers
 gruellings
-grues
 gruesome
 gruesomely
 gruesomeness

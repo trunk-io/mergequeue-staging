@@ -13322,7 +13322,6 @@ bothridium
 bothridiums
 bothriocephalus
 bothriocidaris
-bothriolepis
 bothrium
 bothriums
 bothrodendron
@@ -16136,6 +16135,7 @@ brotany
 brotchen
 brotel
 broth
+bothriolepis
 brothe
 brothel
 brotheler
