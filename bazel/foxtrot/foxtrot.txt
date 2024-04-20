@@ -2232,7 +2232,6 @@ females
 femalist
 femality
 femalize
-friezing
 femcee
 feme
 femereil
@@ -4385,6 +4384,7 @@ fisetin
 fish
 fishability
 fishable
+friezing
 fishback
 fishbed
 fishberry
