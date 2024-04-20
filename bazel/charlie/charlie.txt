@@ -8158,7 +8158,6 @@ collectivum
 chairless
 chairlift
 chairmaking
-chairman
 chairmaned
 chairmaning
 chairmanned
@@ -18125,6 +18124,7 @@ coevality
 calamining
 colossian
 coevally
+chairman
 coevalneity
 coevalness
 coevals
