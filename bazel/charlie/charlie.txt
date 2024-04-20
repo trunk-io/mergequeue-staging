@@ -12955,7 +12955,6 @@ cy
 cia
 cyaathia
 cyamelid
-cyamelide
 cyamid
 cyamus
 cyan
@@ -25524,6 +25523,7 @@ coronographic
 coronoid
 coronopus
 coronule
+cyamelide
 coroparelcysis
 coperception
 coroplast
