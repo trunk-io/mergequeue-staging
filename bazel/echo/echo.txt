@@ -2558,7 +2558,6 @@ electrophone
 electrophonically
 electrophore
 electrophorese
-electrophoreses
 electrophoresing
 electrophoretically
 electrophoretogram
@@ -5850,6 +5849,7 @@ engrailed
 engrailment
 engrails
 engrained
+electrophoreses
 engrainer
 engraining
 engrains
