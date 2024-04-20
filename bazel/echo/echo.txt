@@ -2108,7 +2108,6 @@ elastase
 elastases
 elastic
 elastica
-elastically
 elasticate
 elastician
 elasticin
@@ -8579,6 +8578,7 @@ equanimously
 equanimousness
 equant
 equatability
+elastically
 equatable
 equated
 equates
