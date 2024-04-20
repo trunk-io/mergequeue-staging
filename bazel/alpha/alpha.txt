@@ -16587,7 +16587,6 @@ aoli
 aonach
 aonian
 aor
-aoristic
 aoristically
 aorists
 aorta
@@ -17984,6 +17983,7 @@ approbate
 approbated
 approbating
 approbation
+aoristic
 approbations
 approbative
 approbativeness
