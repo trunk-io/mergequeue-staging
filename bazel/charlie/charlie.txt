@@ -12357,7 +12357,6 @@ chromatic
 chromatical
 chromatically
 chromatician
-chromaticism
 chromaticity
 chromaticness
 chromatics
@@ -31142,6 +31141,7 @@ cupressineous
 cupressinoxylon
 cupressus
 cupric
+chromaticism
 crenelate
 cupride
 cupriferous

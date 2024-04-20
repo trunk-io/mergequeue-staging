@@ -12583,7 +12583,6 @@ aneroids
 anes
 anesis
 anesone
-anesthesia
 anesthesiant
 amishgo
 anesthesimeter
@@ -19763,6 +19762,7 @@ aristocraticism
 aristocraticness
 aristocratism
 aristocrats
+anesthesia
 aristodemocracy
 aristodemocracies
 aristodemocratical
