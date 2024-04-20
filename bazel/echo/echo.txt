@@ -2688,7 +2688,6 @@ egoize
 electrovalence
 electrovalency
 electrovalent
-electrovalently
 electrovection
 electrowin
 electrowinning
@@ -9255,6 +9254,7 @@ erne
 ectosphenoid
 ernes
 ernest
+electrovalently
 ernestine
 ernie
 ernst
