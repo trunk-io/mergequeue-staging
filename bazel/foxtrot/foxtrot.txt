@@ -2829,7 +2829,6 @@ fetchingly
 fete
 feteless
 feterita
-feteritas
 fetial
 fetialis
 fetials
@@ -5113,6 +5112,7 @@ fanfish
 flaskets
 fleamy
 fozier
+feteritas
 flaskful
 faecal
 flasklet
