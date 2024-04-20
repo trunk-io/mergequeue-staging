@@ -5392,7 +5392,6 @@ estrangement
 endosteitis
 endosteomas
 endosteomata
-endosternum
 endosteum
 endostylar
 endostyle
@@ -6225,6 +6224,7 @@ enormous
 enormously
 enormousness
 enorn
+endosternum
 enos
 enosis
 endopod
