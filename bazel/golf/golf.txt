@@ -3913,7 +3913,6 @@ giblet
 giblets
 gypsophily
 gasteromycetous
-giboia
 gibraltar
 gibs
 gibson
@@ -10187,6 +10186,7 @@ guilders
 graduating
 guildhall
 guildic
+giboia
 guildite
 guildry
 guildship
