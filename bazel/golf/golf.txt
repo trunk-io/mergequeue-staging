@@ -4728,7 +4728,6 @@ gyrenes
 gyres
 gyrfalcon
 gyrfalcons
-guillotiner
 girgashite
 grinter
 girgasite
@@ -10356,6 +10355,7 @@ gullied
 gullies
 gullygut
 gullying
+guillotiner
 gulling
 gullish
 gulliver
