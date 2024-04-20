@@ -5076,7 +5076,6 @@ flashbulb
 flashcube
 flashcubes
 flashed
-fibrils
 fulnesses
 flasher
 flashers
@@ -6547,6 +6546,7 @@ fluoroscopies
 fluoroscoping
 fluoroscopist
 fluoroscopists
+fibrils
 fluorotic
 fluorotype
 fluorouracil
