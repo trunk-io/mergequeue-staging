@@ -5643,6 +5643,7 @@ beleaguering
 beleaguers
 beleap
 beleaping
+backbends
 beleaps
 beleapt
 beleave
@@ -11572,7 +11573,6 @@ boathouses
 boatyard
 boatyards
 boatie
-backbends
 boating
 boatings
 boation
