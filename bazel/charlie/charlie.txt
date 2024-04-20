@@ -5224,7 +5224,6 @@ casteisms
 casteless
 castellan
 cutlases
-castellany
 castellanies
 castellano
 castellans
@@ -16439,6 +16438,7 @@ cloakmaking
 cloakroom
 cloakrooms
 caterwaul
+castellany
 cloakwise
 cloam
 cloamen
