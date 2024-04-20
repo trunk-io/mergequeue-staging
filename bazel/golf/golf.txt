@@ -3951,7 +3951,6 @@ gidjee
 gids
 gie
 gye
-gieaway
 glazework
 gieaways
 gied
@@ -7634,6 +7633,7 @@ graddan
 grade
 graded
 gradeless
+gieaway
 gradely
 grademark
 grader
