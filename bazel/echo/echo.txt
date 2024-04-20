@@ -719,7 +719,6 @@ econometric
 econometrical
 econometrically
 econometrician
-econometrics
 econometrist
 enhydrous
 economy
@@ -10045,6 +10044,7 @@ estivate
 estivates
 estivating
 estivation
+econometrics
 exterminations
 estivator
 estive
