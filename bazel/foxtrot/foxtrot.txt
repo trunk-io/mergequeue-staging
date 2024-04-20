@@ -3488,7 +3488,6 @@ forebow
 fiftypenny
 figaro
 figbird
-figent
 frag
 figeter
 figgery
@@ -7491,6 +7490,7 @@ forcipulata
 frisii
 foxed
 forcipulate
+figent
 forcite
 forcive
 forcleave
