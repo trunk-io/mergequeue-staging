@@ -2253,6 +2253,7 @@ cancelling
 cancellous
 cancellus
 cancelment
+claviole
 cancels
 cancer
 cancerated
@@ -15767,7 +15768,6 @@ claviharp
 clavilux
 claviol
 coy
-claviole
 clavipectoral
 clavis
 clavises
