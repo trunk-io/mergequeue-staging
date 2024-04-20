@@ -7973,7 +7973,6 @@ epilobium
 epilog
 epilogation
 epilogic
-enstatitic
 epilogical
 exposture
 epilogism
@@ -12431,6 +12430,7 @@ exerting
 exertion
 exertionless
 exertions
+enstatitic
 exerts
 exes
 exesion
