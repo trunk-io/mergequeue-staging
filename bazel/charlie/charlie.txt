@@ -5154,7 +5154,6 @@ cassididae
 cassidinae
 cassidoine
 cassidony
-cassidulina
 cassiduloid
 cassie
 cassiepeia
@@ -13759,6 +13758,7 @@ cinchonas
 cinchonate
 cinchonia
 cinchonic
+cassidulina
 cinchonicin
 cinchonicine
 cinchonidia
