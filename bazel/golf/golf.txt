@@ -9766,6 +9766,7 @@ gs
 gt
 gtc
 gentlemanlike
+guipures
 gtd
 gte
 gteau
@@ -10254,7 +10255,6 @@ guyot
 guyots
 guipure
 glossolysis
-guipures
 guirlande
 guiro
 guys

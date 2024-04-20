@@ -3778,7 +3778,6 @@ beatus
 battler
 battlers
 battles
-battleship
 battleships
 battlesome
 battlestead
@@ -10405,6 +10404,7 @@ blastful
 blasthole
 blastid
 blastide
+battleship
 blastie
 blastier
 blasties
