@@ -2612,6 +2612,7 @@ electroscission
 electroscope
 expensive
 electroscopes
+estramazone
 electroscopic
 electrosensitive
 electroshocks
@@ -10094,7 +10095,6 @@ estrayed
 estraying
 estrays
 estral
-estramazone
 estrange
 estranged
 estrangedness
