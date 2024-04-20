@@ -11294,7 +11294,6 @@ evacuants
 evacuated
 evacuating
 evacuation
-evacuations
 evacuative
 evacuator
 evacuators
@@ -12003,6 +12002,7 @@ exchangeable
 epifauna
 exchanged
 epoptes
+evacuations
 emmeniopathy
 exchangee
 exchanger
