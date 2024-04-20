@@ -673,7 +673,6 @@ damnum
 damocles
 damoetas
 divined
-damoisel
 damolic
 damon
 damone
@@ -5973,6 +5972,7 @@ depulse
 depurate
 depurated
 depurating
+damoisel
 depuration
 depurative
 depurator
