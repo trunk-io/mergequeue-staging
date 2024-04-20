@@ -2238,6 +2238,7 @@ electionary
 electioneer
 electioneered
 electioneerer
+evenest
 electioneering
 electioneers
 elections
@@ -11453,7 +11454,6 @@ evendown
 evene
 evener
 errite
-evenest
 evenfall
 errands
 evenforth
