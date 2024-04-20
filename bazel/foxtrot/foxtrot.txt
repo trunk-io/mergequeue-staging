@@ -6787,7 +6787,6 @@ frankable
 foetalization
 foetation
 foeti
-foeticidal
 foetiparous
 foetor
 foetors
@@ -11242,6 +11241,7 @@ fungusy
 funguslike
 funic
 funicle
+foeticidal
 funicles
 funiculars
 flamy
