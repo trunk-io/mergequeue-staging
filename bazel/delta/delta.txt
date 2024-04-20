@@ -1222,7 +1222,6 @@ dialyzable
 datcha
 datchas
 dialyzers
-date
 dateable
 dateableness
 datebook
@@ -13007,6 +13006,7 @@ dispericraniate
 disperiwig
 disparish
 disclosures
+date
 dispermy
 dispermic
 dispermous
