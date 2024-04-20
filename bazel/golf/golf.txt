@@ -2821,7 +2821,6 @@ genitures
 genius
 geniuses
 genizah
-genizero
 genl
 genny
 genoa
@@ -6054,6 +6053,7 @@ glucemia
 glucic
 gesticulator
 glucid
+genizero
 glucidic
 glucina
 glucine
