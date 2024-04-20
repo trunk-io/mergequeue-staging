@@ -17936,7 +17936,6 @@ coelogyne
 coeloglossum
 coelom
 coeloma
-coelomata
 coelomate
 coelomatic
 coelomatous
@@ -26361,6 +26360,7 @@ cothish
 cerenkov
 cothon
 cothouse
+coelomata
 cothurn
 cothurnal
 cothurnate
