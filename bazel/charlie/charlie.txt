@@ -10225,7 +10225,6 @@ chiasmatypy
 chiasmi
 chiasmic
 chiasmodontid
-chiasmodontidae
 chiasms
 chiasmus
 chiastic
@@ -24673,6 +24672,7 @@ coppicing
 coppin
 canyons
 copping
+chiasmodontidae
 copple
 compartmentalize
 copplecrown
