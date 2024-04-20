@@ -1487,6 +1487,7 @@ deactivated
 deactivates
 discontinuing
 deactivating
+downbend
 deactivation
 deactivations
 deactivator
@@ -16254,7 +16255,6 @@ depurant
 downbeard
 downbeat
 downbeats
-downbend
 downbent
 downby
 downbye
