@@ -9599,7 +9599,6 @@ bisecting
 bisection
 bisectional
 bisectionally
-bisections
 bisector
 bisectors
 bisectrices
@@ -16714,6 +16713,7 @@ buddhahood
 buddhaship
 buddhi
 buddhic
+bisections
 buddhism
 bodywood
 buddhist
