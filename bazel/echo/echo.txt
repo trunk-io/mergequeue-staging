@@ -4944,6 +4944,7 @@ encrust
 encrustant
 encrustation
 encrusted
+etch
 encrusting
 encrusts
 enculturate
@@ -10175,7 +10176,6 @@ etatist
 etc
 etcetera
 etceteras
-etch
 esmeraldite
 extortions
 etchant
