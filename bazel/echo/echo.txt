@@ -4992,7 +4992,6 @@ endaortitis
 endarch
 endarchy
 endarchies
-endark
 endarterectomy
 endarterial
 endarteritis
@@ -8216,6 +8215,7 @@ esophagostenosis
 efflorescence
 exanimate
 episiostenosis
+endark
 episiotomy
 ethnomusicology
 episiotomies
