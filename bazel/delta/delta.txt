@@ -484,6 +484,7 @@ daywrit
 dakerhen
 dakerhens
 descartes
+dinanderie
 dakhini
 dakir
 dakoit
@@ -10060,7 +10061,6 @@ dynamos
 dynamoscope
 dynamostatic
 diancecht
-dinanderie
 deprivation
 dinantian
 dinaphthyl
