@@ -5485,7 +5485,6 @@ glycogenolytic
 glycogenosis
 glycogenous
 glycohaemia
-glycohemia
 glycol
 glycolaldehyde
 glycolate
@@ -8719,6 +8718,7 @@ greenshank
 greensick
 greensickness
 greenside
+glycohemia
 greenskeeper
 greenstick
 greenstone
