@@ -12093,7 +12093,6 @@ boleti
 byrled
 boletus
 boletuses
-boleweed
 bolewort
 bolyaian
 boliche
@@ -17396,6 +17395,7 @@ bundocks
 bundook
 bunds
 bundt
+boleweed
 bundts
 bundu
 bundweed
