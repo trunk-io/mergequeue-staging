@@ -5936,6 +5936,7 @@ beltmaker
 beltmaking
 beltman
 beltmen
+binervate
 belton
 beltway
 beltways
@@ -8822,7 +8823,6 @@ bindweb
 bindweed
 bindwith
 bindwood
-binervate
 bines
 bineweed
 binful
