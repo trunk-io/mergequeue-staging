@@ -4138,7 +4138,6 @@ embodiment
 emphasised
 emphasising
 emphasize
-emphasized
 emphasizes
 emphasizing
 emphatical
@@ -5188,6 +5187,7 @@ endoderm
 endodermal
 endodermic
 endodermis
+emphasized
 endoderms
 endodynamomorphic
 endodontia
