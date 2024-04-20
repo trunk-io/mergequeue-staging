@@ -2069,6 +2069,7 @@ brailing
 banisher
 banishers
 banishing
+bowsery
 banishment
 banister
 banisters
@@ -2551,7 +2552,6 @@ barfly
 barflies
 barfs
 barful
-bowsery
 bargain
 bargainable
 bargained
