@@ -1533,7 +1533,6 @@ gliadins
 gas
 gasalier
 gasan
-gasbags
 geometricians
 gasboat
 gascheck
@@ -3644,6 +3643,7 @@ gettableness
 gettering
 getting
 gettings
+gasbags
 getup
 graptolithida
 getups
