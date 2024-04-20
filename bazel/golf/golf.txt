@@ -2599,7 +2599,6 @@ great
 genealogize
 genealogizer
 genear
-genearch
 geneat
 geanticline
 genecology
@@ -5970,6 +5969,7 @@ glossoplegia
 glossopodium
 glimpser
 glossopteris
+genearch
 glossoptosis
 glossorrhaphy
 glossoscopy
