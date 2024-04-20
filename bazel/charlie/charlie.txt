@@ -11092,7 +11092,6 @@ chittak
 chittamwood
 chitted
 chitter
-chitterling
 chitterlings
 chitters
 chitty
@@ -22577,6 +22576,7 @@ connecting
 connection
 connectional
 connectionism
+chitterling
 connectionless
 connections
 connectival
