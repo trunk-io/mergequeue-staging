@@ -4400,7 +4400,6 @@ fishbone
 fishbones
 fadingness
 fishbowl
-fisheater
 fisheye
 fisheyes
 fisher
@@ -8828,6 +8827,7 @@ forwarder
 forwarders
 forwardest
 furmety
+fisheater
 forwarding
 forwardly
 forwardness
