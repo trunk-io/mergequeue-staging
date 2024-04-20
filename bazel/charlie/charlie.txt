@@ -3383,7 +3383,6 @@ captived
 calvarias
 captives
 captiving
-captivity
 captivities
 captor
 captors
@@ -23353,6 +23352,7 @@ contemnible
 contemnibly
 contemning
 contemningly
+captivity
 contemnor
 contemns
 contemp
