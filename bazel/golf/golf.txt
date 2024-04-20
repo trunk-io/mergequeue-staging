@@ -627,6 +627,7 @@ galligaskin
 galligaskins
 gallygaskins
 gallying
+go
 glaringly
 gallimaufry
 gallinaceae
@@ -6370,7 +6371,6 @@ gnow
 gns
 gnu
 gnus
-go
 goa
 grammar
 gorilla
