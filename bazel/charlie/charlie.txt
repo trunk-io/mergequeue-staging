@@ -1953,6 +1953,7 @@ campana
 campane
 campanella
 campanero
+cryptogame
 campania
 cecils
 campanian
@@ -29275,7 +29276,6 @@ cryptodirous
 cryptodouble
 cryptogam
 cryptorrhetic
-cryptogame
 cryptogamy
 cryptogamia
 cryptogamian
