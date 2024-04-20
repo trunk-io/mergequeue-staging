@@ -1494,6 +1494,7 @@ balladeers
 ballader
 ballades
 borstal
+boas
 biramose
 balladic
 balladical
@@ -11538,7 +11539,6 @@ boarspear
 boarstaff
 boarts
 boarwood
-boas
 boast
 boasted
 boaster
