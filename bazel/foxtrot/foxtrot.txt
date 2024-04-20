@@ -2345,6 +2345,7 @@ fenestellidae
 fenester
 fenestra
 fenestral
+facette
 fenestrate
 fenestrated
 fenestration
@@ -10188,7 +10189,6 @@ ferrous
 frises
 frisesomorum
 frisette
-facette
 frisettes
 friseur
 friseurs
