@@ -823,7 +823,6 @@ ecthymatous
 ecthlipses
 ecthlipsis
 encinder
-ectypal
 ectype
 ectypes
 ectypography
@@ -3745,6 +3744,7 @@ embrocations
 embroche
 embroglio
 embroglios
+ectypal
 embroider
 embroidered
 embroiderer
