@@ -3421,6 +3421,7 @@ fieldsmen
 fieldstone
 fieldstrip
 fieldwork
+frondiform
 fieldworker
 friarhood
 fieldwort
@@ -10395,7 +10396,6 @@ frondeur
 factored
 frondeurs
 frondiferous
-frondiform
 frondigerous
 frondless
 frondlet
