@@ -1325,7 +1325,6 @@ balantidium
 balanus
 backstroked
 bearlike
-balao
 balaos
 bevel
 balaphon
@@ -6603,6 +6602,7 @@ borickite
 berberi
 berbery
 berberia
+balao
 berberian
 berberid
 berberidaceae
