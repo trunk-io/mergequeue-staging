@@ -5048,6 +5048,7 @@ flapping
 feud
 flaps
 fellator
+forborne
 flare
 flareback
 flareboard
@@ -7451,7 +7452,6 @@ factionally
 forboding
 flagman
 forbore
-forborne
 forbow
 forbruise
 forbs
