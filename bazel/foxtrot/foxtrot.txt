@@ -2954,7 +2954,6 @@ feuillemorte
 feuillet
 feuilleton
 feuilletonism
-feuilletonist
 feuilletonistic
 feuilletons
 figurate
@@ -10329,6 +10328,7 @@ froggy
 froggier
 froggies
 froggiest
+feuilletonist
 fridge
 frogginess
 frogging
