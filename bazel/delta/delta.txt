@@ -3145,7 +3145,6 @@ defecate
 defecated
 defecates
 defecating
-defecation
 defecator
 defect
 defected
@@ -18406,6 +18405,7 @@ duplified
 duplifying
 duplone
 dupondidii
+defecation
 dupondii
 dupondius
 duppa
