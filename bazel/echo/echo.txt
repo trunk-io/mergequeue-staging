@@ -4563,7 +4563,6 @@ electrodynamometer
 encashable
 epicardiac
 endocrinologist
-encashed
 encashes
 encashing
 encashment
@@ -14161,6 +14160,7 @@ exultation
 elne
 exulted
 exultet
+encashed
 exultingly
 exults
 exululate
