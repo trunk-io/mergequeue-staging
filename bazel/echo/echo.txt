@@ -1782,7 +1782,6 @@ eyelight
 eyeliner
 eatage
 eyeliners
-eyemark
 eyen
 eyeopener
 eyepiece
@@ -13172,6 +13171,7 @@ explanatory
 explanatorily
 explanatoriness
 explanitory
+eyemark
 equippers
 explant
 explantation

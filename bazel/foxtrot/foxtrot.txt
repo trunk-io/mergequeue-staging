@@ -1058,6 +1058,7 @@ farmerish
 farmerly
 farmerlike
 farmers
+fyttes
 farmership
 farmhand
 farmhold
@@ -4613,7 +4614,6 @@ fytte
 fitted
 fittedness
 fitters
-fyttes
 fitty
 fittier
 fluorate
