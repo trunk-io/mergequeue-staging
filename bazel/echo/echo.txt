@@ -859,7 +859,6 @@ epizoites
 ectocranial
 ectocrine
 expendables
-ectocuneiform
 ectocuniform
 ectodactylism
 ectoderm
@@ -2358,6 +2357,7 @@ electrocute
 embrute
 electrocuted
 electrocutes
+ectocuneiform
 electrocuting
 epopees
 electrocution
