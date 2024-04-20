@@ -146,7 +146,6 @@ gaea
 gaed
 gaedelian
 gael
-gaeldom
 gaelic
 gaelicist
 gaelicization
@@ -696,6 +695,7 @@ ginzo
 galloper
 galloperdix
 gallopers
+gaeldom
 gallophile
 gallophobe
 galloping
