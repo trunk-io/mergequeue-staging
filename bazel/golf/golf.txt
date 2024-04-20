@@ -1892,7 +1892,6 @@ gasworker
 gasworks
 gat
 gata
-gatch
 gate
 gateado
 gateage
@@ -2510,6 +2509,7 @@ gemmates
 gemmating
 gemmation
 gemmative
+gatch
 gemmed
 gemmel
 gemmeous
