@@ -18340,7 +18340,6 @@ duotype
 diospyros
 duotoned
 duke
-duotones
 duotriacontane
 duotriode
 duoviri
@@ -18389,6 +18388,7 @@ duplicia
 duplicident
 duplicidentata
 disbrain
+duotones
 duplicidentate
 duplicious
 duplicipennate
