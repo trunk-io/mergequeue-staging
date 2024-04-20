@@ -7467,7 +7467,6 @@ explorative
 enrooting
 ependymal
 easternize
-ependymary
 ependyme
 ependymitis
 ependymoma
@@ -13052,6 +13051,7 @@ expergefacient
 expergefaction
 enwall
 experience
+ependymary
 experienceable
 experienced
 experienceless
