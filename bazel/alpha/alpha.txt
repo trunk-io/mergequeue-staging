@@ -7282,7 +7282,6 @@ alamodality
 alamode
 alamodes
 aneroid
-alamonti
 alamort
 alamosite
 alamoth
@@ -25103,6 +25102,7 @@ axiology
 axiological
 axiologically
 axiologist
+alamonti
 axiom
 axiomatic
 axiomatical

@@ -2109,7 +2109,6 @@ gawish
 gawk
 gawked
 gawker
-gawkers
 gawkhammer
 gawky
 gawkier
@@ -10357,6 +10356,7 @@ gullies
 gullygut
 gullying
 gulling
+gawkers
 gullish
 gulliver
 gulllike
