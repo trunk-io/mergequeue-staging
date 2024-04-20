@@ -5813,7 +5813,6 @@ filaze
 footrill
 flittermouse
 flittern
-flitters
 flitty
 flittiness
 flitting
@@ -6816,6 +6815,7 @@ fruited
 foggy
 fibrine
 foggier
+flitters
 foggiest
 fogginess
 fogging
