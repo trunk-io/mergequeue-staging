@@ -7743,6 +7743,7 @@ forehatch
 fenouillette
 forehatchway
 forehead
+featherbedding
 foreheaded
 foreheads
 forehear
@@ -11628,7 +11629,6 @@ fustianish
 fustianist
 fustianize
 fustians
-featherbedding
 fustic
 fustics
 fustie
