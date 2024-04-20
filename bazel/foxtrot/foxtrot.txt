@@ -2753,7 +2753,6 @@ fessways
 fest
 festae
 festal
-festally
 feste
 fester
 fourdrinier
@@ -4351,6 +4350,7 @@ firns
 firoloida
 firry
 furrier
+festally
 flammability
 firstborn
 firstcomer
