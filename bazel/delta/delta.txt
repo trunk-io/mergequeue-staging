@@ -11760,6 +11760,7 @@ discretionarily
 discretive
 digitalizing
 discretiveness
+drawknot
 discriminability
 discriminably
 discriminal
@@ -16818,7 +16819,6 @@ drawings
 drawknife
 disjointness
 drawknives
-drawknot
 drawl
 drawlatch
 drawler
