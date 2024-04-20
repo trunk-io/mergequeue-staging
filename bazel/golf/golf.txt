@@ -6392,6 +6392,7 @@ goalkeeper
 goalkeeping
 goalless
 goalmouth
+greeting
 goalpost
 goals
 goalposts
@@ -8745,7 +8746,6 @@ greet
 greeted
 greeter
 greeters
-greeting
 greetingly
 greets
 greeve
