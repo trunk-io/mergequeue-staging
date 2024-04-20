@@ -5014,7 +5014,6 @@ flannelleaf
 flannelleaves
 flannelled
 floc
-flannelly
 flannelling
 flannelmouth
 flannelmouthed
@@ -11405,6 +11404,7 @@ furlane
 furler
 furless
 furling
+flannelly
 fiscality
 furlong
 filago
