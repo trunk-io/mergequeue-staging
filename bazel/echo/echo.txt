@@ -6922,7 +6922,6 @@ entomolegist
 entomolite
 entomology
 entomologic
-entomological
 entomologically
 entomologies
 entomologise
@@ -7744,6 +7743,7 @@ entomotomist
 epideictic
 epideictical
 epideistic
+entomological
 epidemy
 epidemial
 epidemic
