@@ -5371,7 +5371,6 @@ dentins
 dentiparous
 dentiphone
 dentiroster
-dentirostral
 dentirostrate
 dentirostres
 dentiscalp
@@ -17791,6 +17790,7 @@ divelled
 ducks
 duckstone
 ducktail
+dentirostral
 dikdiks
 ducktails
 duckweed
