@@ -4325,7 +4325,6 @@ delvers
 delves
 dodecamerous
 dem
-demagnetisable
 dioptrometer
 demagnetisation
 demagnetised
@@ -12317,6 +12316,7 @@ dishevelling
 dishevelment
 dishevelments
 dishexecontahedroid
+demagnetisable
 dishful
 dishy
 dishier
