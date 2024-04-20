@@ -3745,6 +3745,7 @@ fillagreed
 filled
 fillemot
 frownless
+friezer
 filler
 fillercap
 fractionator
@@ -10045,7 +10046,6 @@ friese
 friesian
 friezed
 fleshhook
-friezer
 friezes
 friezy
 farcical

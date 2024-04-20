@@ -569,7 +569,6 @@ galleyworm
 galleons
 gallera
 gallery
-galleria
 gallerian
 geopolitic
 glazier
@@ -3341,6 +3340,7 @@ gerenda
 gerendum
 gerent
 gerenuks
+galleria
 gyral
 gerfalcon
 gerful
