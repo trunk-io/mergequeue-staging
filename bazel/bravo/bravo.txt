@@ -1330,7 +1330,6 @@ backstroked
 bearlike
 balao
 balaos
-bevel
 balaphon
 balarama
 balarao
@@ -6112,6 +6111,7 @@ bendell
 bender
 behusband
 bendy
+bevel
 bendies
 bending
 buskle
