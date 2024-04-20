@@ -523,7 +523,6 @@ faliscan
 falisci
 falk
 faut
-featlier
 falkland
 fall
 falla
@@ -1890,6 +1889,7 @@ fecundatory
 fecundify
 fourrag
 fecundity
+featlier
 forbear
 fecundities
 fecundize
