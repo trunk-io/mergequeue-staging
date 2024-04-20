@@ -2652,6 +2652,7 @@ electrotest
 electrothanasia
 electrothanatosis
 electrotherapeutical
+expressionful
 electrotherapeutist
 edaphodont
 electrotherapy
@@ -6908,7 +6909,6 @@ entoire
 entoloma
 entom
 effet
-expressionful
 entomb
 entombed
 entombing
