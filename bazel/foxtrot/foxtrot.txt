@@ -2670,7 +2670,6 @@ ferruginous
 fincas
 ferrugo
 futilize
-ferruled
 ferruler
 ferrules
 ferrum
@@ -4885,6 +4884,7 @@ flakage
 flake
 foal
 flakeboard
+ferruled
 foxier
 foghorns
 financiered
