@@ -24401,7 +24401,6 @@ cooptive
 coopts
 coordain
 coordinal
-coordinate
 coordinated
 coordinately
 coordinateness
@@ -30183,6 +30182,7 @@ crullers
 crumb
 crumbable
 crumbed
+coordinate
 crumber
 crumbers
 crumby
