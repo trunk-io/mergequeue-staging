@@ -11293,7 +11293,6 @@ chlorococcaceae
 chlorococcales
 chlorococcum
 caulicole
-chlorocresol
 chlorocruorin
 chlorodyne
 chlorodize
@@ -11544,6 +11543,7 @@ cozies
 cholecystnephrostomy
 cholecystocolostomy
 cholecystocolotomy
+chlorocresol
 cholecystoduodenostomy
 cholecystogastrostomy
 cholecystogram
