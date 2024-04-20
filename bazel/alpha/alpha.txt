@@ -145,7 +145,6 @@ abate
 abated
 abatement
 abatements
-abater
 abates
 abatic
 abating
@@ -24787,6 +24786,7 @@ avirulence
 avirulent
 avis
 aflare
+abater
 avys
 avision
 aviso
