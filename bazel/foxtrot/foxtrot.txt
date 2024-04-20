@@ -317,7 +317,6 @@ faikes
 fail
 failance
 failed
-fayles
 failing
 failingness
 failings
@@ -9164,6 +9163,7 @@ foxgloves
 foxhole
 foxholes
 foxhound
+fayles
 foxhounds
 foxy
 filterer
