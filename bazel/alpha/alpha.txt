@@ -9375,7 +9375,6 @@ alpinism
 alpinisms
 alpinist
 alpinists
-alpist
 alpiste
 alps
 alpujarra
@@ -23803,6 +23802,7 @@ authorial
 authorially
 authoring
 authorisable
+alpist
 authorisation
 authorise
 authorised
