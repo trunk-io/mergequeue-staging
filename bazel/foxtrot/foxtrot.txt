@@ -2043,7 +2043,6 @@ feigner
 feigners
 feigning
 feigningly
-feigns
 feijoa
 feil
 feyness
@@ -6627,6 +6626,7 @@ flutina
 fluting
 fairgoer
 flutings
+feigns
 flutist
 flutists
 flutter

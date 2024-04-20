@@ -23986,6 +23986,7 @@ autodestruction
 autodetector
 autodiagnosis
 autodiagnostic
+azorite
 autodiagrammatic
 autodial
 adobe
@@ -25318,7 +25319,6 @@ azoprotein
 azores
 acclaimer
 azorian
-azorite
 azorubine
 azosulphine
 azosulphonic
