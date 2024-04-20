@@ -7290,6 +7290,7 @@ footslog
 footslogged
 footslogger
 footslogging
+furnage
 footsoldier
 footsoldiers
 footsore
@@ -11429,7 +11430,6 @@ furnacemen
 febrifuges
 furnaces
 furnacing
-furnage
 furnariidae
 furnariides
 furnarius
