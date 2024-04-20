@@ -1293,7 +1293,6 @@ fastidium
 fastigia
 filialness
 fumigate
-fastigiated
 fastigiately
 fastigious
 fastigium
@@ -2402,6 +2401,7 @@ feoffment
 feoffor
 feoffors
 feoffs
+fastigiated
 feower
 fer
 feracious
