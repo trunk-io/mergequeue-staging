@@ -13276,7 +13276,6 @@ cyclic
 cyclical
 cyclicality
 cyclicalness
-cyclicism
 cyclicity
 cyclicly
 cyclide
@@ -18811,6 +18810,7 @@ colymbion
 colymbriformes
 colymbus
 colin
+cyclicism
 colinear
 colinearity
 colinephritis
