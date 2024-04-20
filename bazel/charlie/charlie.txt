@@ -11134,7 +11134,6 @@ chizz
 chizzel
 chkalik
 capretto
-chkfile
 cotys
 chladnite
 chondrite
@@ -26969,6 +26968,7 @@ counteropposite
 counterorator
 counterorder
 counterorganization
+chkfile
 counterpace
 counterpaled
 counterpaly
