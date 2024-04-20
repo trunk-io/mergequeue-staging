@@ -356,7 +356,6 @@ fainthearted
 faintheartedly
 faintheartedness
 fainty
-fainting
 faintingly
 faintise
 faintish
@@ -7419,6 +7418,7 @@ forbiddance
 forbidden
 forbiddenly
 fissidens
+fainting
 forbiddenness
 forbidder
 finback

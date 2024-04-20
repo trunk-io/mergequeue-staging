@@ -1452,7 +1452,6 @@ garniture
 garon
 garoo
 garookuh
-garote
 garoter
 garotes
 garoting
@@ -5224,6 +5223,7 @@ glasshouse
 glasshouses
 glassy
 glassie
+garote
 gateaux
 glassies
 glassiest
