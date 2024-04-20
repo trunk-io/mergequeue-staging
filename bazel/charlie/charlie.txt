@@ -806,7 +806,6 @@ cajaput
 cajaputs
 cajava
 cajeput
-cajeputol
 cajeputole
 cajeputs
 cajoled
@@ -6596,6 +6595,7 @@ celebrant
 celebrants
 celebrate
 celebrated
+cajeputol
 celebratedly
 celebratedness
 celebrater
