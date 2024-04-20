@@ -4715,6 +4715,7 @@ carryouts
 canadianisms
 carryover
 carryovers
+circumambient
 carrys
 carritch
 carritches
@@ -14234,7 +14235,6 @@ circumambages
 circumambagious
 circumambience
 circumambiency
-circumambient
 circumambiently
 circumambulate
 circumambulated
