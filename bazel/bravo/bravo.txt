@@ -13711,7 +13711,6 @@ bowback
 bowbells
 bowbent
 bowden
-bowdichia
 bowditch
 blathering
 bowdlerisation
@@ -13734,6 +13733,7 @@ bowe
 bowed
 bowel
 boweled
+bowdichia
 boweling
 bowelled
 bowelless
