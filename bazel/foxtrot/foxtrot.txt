@@ -8742,7 +8742,6 @@ fortify
 fortification
 fortifications
 fortifier
-fortifiers
 fortifying
 fortifyingly
 fortifys
@@ -9939,6 +9938,7 @@ fretting
 frettingly
 fretum
 fretways
+fortifiers
 fretwise
 fretwork
 fretworks
