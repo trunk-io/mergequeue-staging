@@ -4862,7 +4862,6 @@ aeonicaeonist
 aeonist
 aeons
 aepyceros
-aepyornis
 aepyornithidae
 aepyornithiformes
 aggrieves
@@ -4951,6 +4950,7 @@ aerobiologist
 aerobiont
 aerobioscope
 aerobiosis
+aepyornis
 aerobiotic
 aerobiotically
 aerobious

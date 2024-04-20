@@ -9828,6 +9828,7 @@ bitore
 bytownite
 bytownitite
 basilosaurus
+barbarized
 bitreadle
 bitripinnatifid
 bitriseptate
@@ -11265,7 +11266,6 @@ bludgeoner
 bludgeons
 bludger
 bludging
-barbarized
 blue
 blueback
 blueball
