@@ -3816,7 +3816,6 @@ deindustrialize
 deink
 deino
 deinocephalia
-deinoceras
 deinodontidae
 deinos
 deinosaur
@@ -15246,6 +15245,7 @@ dolorimeter
 dolorimetric
 dolorimetrically
 deordination
+deinoceras
 dolorogenic
 doloroso
 dolorous
