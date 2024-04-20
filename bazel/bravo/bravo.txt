@@ -5053,6 +5053,7 @@ beewinged
 beewise
 beezer
 beezers
+breeder
 bef
 befall
 befalling
@@ -14951,7 +14952,6 @@ breechloading
 breed
 breedable
 breedbate
-breeder
 breeders
 breedy
 breediness
