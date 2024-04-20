@@ -3158,7 +3158,6 @@ else
 estus
 endemic
 elsehow
-elses
 elseways
 elsewhat
 elsewhen
@@ -5932,6 +5931,7 @@ enhazard
 enhearse
 enheart
 enhearten
+elses
 enheaven
 enhedge
 enhelm
