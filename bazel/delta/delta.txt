@@ -1462,7 +1462,6 @@ deaccession
 deaccessioning
 deaccessions
 deacetylated
-deacetylating
 deacetylation
 deacidify
 deacidification
@@ -14673,6 +14672,7 @@ docked
 docken
 docker
 dockers
+deacetylating
 docket
 docketed
 docketing
