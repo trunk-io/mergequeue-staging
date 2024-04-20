@@ -2131,7 +2131,6 @@ geometry
 gawkishness
 gawks
 gawm
-gawn
 gawney
 gawp
 gawsie
@@ -10298,6 +10297,7 @@ ghent
 gulancha
 gagroot
 guland
+gawn
 glimmerite
 gulanganes
 goalies
