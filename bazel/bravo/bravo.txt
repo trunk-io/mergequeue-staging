@@ -796,7 +796,6 @@ badinaging
 badiner
 badinerie
 badineur
-boule
 badious
 badju
 badland
@@ -11391,6 +11390,7 @@ bluffs
 blufter
 bluggy
 brabbles
+boule
 bluing
 bluings
 bluish
