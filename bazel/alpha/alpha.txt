@@ -8306,7 +8306,6 @@ alinement
 aliner
 aliners
 alines
-alingual
 alining
 alinit
 alinota
@@ -14081,6 +14080,7 @@ antasthmatic
 antatrophic
 antbird
 antdom
+alingual
 ante
 anteact
 anteambulate
