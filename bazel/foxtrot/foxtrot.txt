@@ -2343,7 +2343,6 @@ frostbiting
 fenestellidae
 fenester
 fenestra
-fenestrae
 fenestral
 fenestrate
 fenestrated
@@ -10617,6 +10616,7 @@ fructiculose
 fructicultural
 fructiculture
 fructidor
+fenestrae
 fructiferous
 fructiferously
 fructify
