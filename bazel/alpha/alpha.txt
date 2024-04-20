@@ -20691,7 +20691,6 @@ articulated
 anthecology
 articulately
 articulateness
-articulates
 articulation
 articulationes
 articulationist
@@ -22020,6 +22019,7 @@ astereognosis
 asteria
 asterial
 asterias
+articulates
 asteriated
 asteriidae
 asterikos
