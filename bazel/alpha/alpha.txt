@@ -21670,6 +21670,7 @@ assertable
 assertative
 asserted
 assertedly
+axhead
 asserter
 asserters
 asserting
@@ -25063,7 +25064,6 @@ axes
 axfetch
 axhammer
 axhammered
-axhead
 axial
 axiality
 axialities
