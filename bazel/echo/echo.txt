@@ -3597,6 +3597,7 @@ eliminability
 embow
 embowed
 embowel
+extramolecular
 emboweler
 emboweling
 expensilation
@@ -13877,7 +13878,6 @@ extrametropolitan
 exudative
 extramission
 extramodal
-extramolecular
 extramorainal
 extramoral
 extramoralist
