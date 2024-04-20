@@ -3542,6 +3542,7 @@ batfowling
 batfowls
 batful
 bath
+bordeaux
 bathala
 bathe
 batheable
@@ -12937,7 +12938,6 @@ bordage
 bordar
 baggy
 bordarius
-bordeaux
 bordel
 bordelaise
 bordello
