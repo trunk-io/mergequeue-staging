@@ -7380,6 +7380,7 @@ detrudes
 detruding
 detruncate
 deficit
+didynamian
 detruncated
 detruncating
 detruncation
@@ -9135,7 +9136,6 @@ didymoid
 didymolite
 didynamy
 didynamia
-didynamian
 didynamic
 didynamous
 didine
