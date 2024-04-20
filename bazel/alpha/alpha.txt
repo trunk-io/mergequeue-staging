@@ -15777,7 +15777,6 @@ antipapistical
 antiparabema
 antiparabemata
 antiparagraphe
-antiparagraphic
 antiparalytic
 antiparalytical
 antiparallel
@@ -21110,6 +21109,7 @@ asepticized
 asepticizing
 aseptolin
 asexual
+antiparagraphic
 asexualisation
 asexualised
 asexualising
