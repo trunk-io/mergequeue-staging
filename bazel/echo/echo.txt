@@ -9873,7 +9873,6 @@ eisoptrophobia
 esselenian
 explodes
 essenced
-essences
 essencing
 essene
 essenian
@@ -12623,6 +12622,7 @@ exitance
 exite
 exited
 exitial
+essences
 exiting
 exition
 exitious
