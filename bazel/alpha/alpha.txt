@@ -14737,7 +14737,6 @@ antianopheline
 antianthrax
 antianthropomorphism
 acustom
-antiantibody
 antiantidote
 antiantienzyme
 antiantitoxin
@@ -23528,6 +23527,7 @@ auricomous
 auricula
 auriculae
 auricular
+antiantibody
 auriculare
 auriculares
 auricularia
