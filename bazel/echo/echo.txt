@@ -9216,6 +9216,7 @@ erythrosiderite
 erythrosin
 erythrosine
 erythrosinophile
+envelopes
 erythrosis
 erythroxylaceae
 erythroxylaceous
@@ -12100,7 +12101,6 @@ exclaves
 exclosure
 excludability
 excludable
-envelopes
 exclude
 excludes
 excludible
