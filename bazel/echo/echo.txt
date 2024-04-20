@@ -12230,7 +12230,6 @@ exulcerated
 exculpable
 exculpate
 exculpated
-exculpates
 exculpating
 exculpation
 exculpations
@@ -13957,6 +13956,7 @@ extrasacerdotal
 extrascholastic
 extraschool
 extrascientific
+exculpates
 extrascriptural
 extrascripturality
 extrasensible
