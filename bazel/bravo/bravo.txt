@@ -6101,6 +6101,7 @@ bend
 bendable
 benday
 broths
+benzoid
 bendaying
 bendays
 bended
@@ -6428,7 +6429,6 @@ balancewise
 benzohydrol
 benzoic
 basementless
-benzoid
 benzoylate
 benzoylated
 benzoylating
