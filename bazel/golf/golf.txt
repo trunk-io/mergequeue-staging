@@ -362,6 +362,7 @@ glairiest
 galactosemia
 galactosemic
 galactosidase
+glycogens
 galoped
 garfishes
 galactosyl
@@ -5483,7 +5484,6 @@ glycogenolysis
 glycogenolytic
 glycogenosis
 glycogenous
-glycogens
 glycohaemia
 glycohemia
 glycol
