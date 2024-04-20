@@ -8765,6 +8765,7 @@ dibble
 dibbled
 dibbler
 dibblers
+directionally
 dibbling
 dybbuk
 dibbukim
@@ -10791,7 +10792,6 @@ discarding
 drain
 directionality
 directionalize
-directionally
 directionless
 directions
 directitude
