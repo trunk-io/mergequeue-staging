@@ -683,6 +683,7 @@ damp
 dampcourse
 damped
 dampen
+diobely
 dampened
 dampener
 disencumbrance
@@ -10228,7 +10229,6 @@ dintless
 dints
 dinumeration
 dinus
-diobely
 diobol
 diobolon
 diobols
