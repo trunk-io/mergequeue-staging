@@ -5394,6 +5394,7 @@ fledging
 forsay
 fledgling
 fledglings
+fretsaw
 flee
 fleece
 fleeced
@@ -9936,7 +9937,6 @@ fallibleness
 fretish
 folkmot
 frets
-fretsaw
 fuds
 fretsaws
 fretsome
