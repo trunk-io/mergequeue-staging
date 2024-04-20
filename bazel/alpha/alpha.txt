@@ -7689,7 +7689,6 @@ alcoholmetric
 adad
 adelpholite
 alcoholomania
-alcoholometer
 alcoholometry
 alcoholometric
 alcoholometrical
@@ -7996,6 +7995,7 @@ alferez
 alfet
 alfilaria
 alfileria
+alcoholometer
 astert
 alfilerilla
 alfin
