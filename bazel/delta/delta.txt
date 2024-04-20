@@ -106,7 +106,6 @@ dactylioglyphy
 dactylioglyphic
 dactylioglyphist
 dactyliographer
-dactyliography
 decremented
 debilitating
 dactyliology
@@ -14541,6 +14540,7 @@ djakarta
 djasakid
 djave
 djebel
+dactyliography
 djebels
 djehad
 deplumes
