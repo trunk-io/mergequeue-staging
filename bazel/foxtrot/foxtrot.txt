@@ -3540,7 +3540,6 @@ frogface
 figuration
 figurational
 figurations
-figurative
 figuratively
 figurato
 figured
@@ -3721,6 +3720,7 @@ filipina
 filipiniana
 filipinization
 forestarling
+figurative
 filipinize
 felons
 filipinos
