@@ -776,7 +776,6 @@ galvanize
 galvanized
 galvanizer
 galvanizers
-galvanizes
 galvanizing
 galvanocautery
 galvanocauteries
@@ -5647,6 +5646,7 @@ gonidia
 gorki
 glisteningly
 glistens
+galvanizes
 glister
 glyster
 glistered
