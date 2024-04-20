@@ -1872,7 +1872,6 @@ gastrostomize
 gastrostomus
 gastrotaxis
 gastrotheca
-gastrothecal
 gastrotympanites
 gastrotome
 gastrotomy
@@ -7014,6 +7013,7 @@ goodwillies
 gunkhole
 goodwillit
 goodwives
+gastrothecal
 gooey
 goof
 goofah

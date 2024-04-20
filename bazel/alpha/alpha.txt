@@ -11742,7 +11742,6 @@ analgias
 analgic
 analgize
 analysability
-analysable
 analysands
 analysation
 analyse
@@ -22223,6 +22222,7 @@ astringer
 astringes
 astringing
 astrion
+analysable
 astrionics
 astrobiology
 astrobiological
