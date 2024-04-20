@@ -1911,7 +1911,6 @@ eyrar
 eyras
 eire
 eyre
-eyren
 eirenarch
 eirene
 excusive
@@ -2860,6 +2859,7 @@ elevation
 elevational
 eucalypt
 enjoyer
+eyren
 elevations
 elevato
 elevator

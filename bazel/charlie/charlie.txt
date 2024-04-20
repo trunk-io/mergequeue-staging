@@ -3868,6 +3868,7 @@ cardamoms
 cardamon
 cardamons
 cardamum
+cheeseparer
 cardamums
 cardanic
 cardanol
@@ -9652,7 +9653,6 @@ cheesemonger
 cheesemongery
 cheesemongering
 cheesemongerly
-cheeseparer
 cheeseparing
 cheeser
 cheeses
