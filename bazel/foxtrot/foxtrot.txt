@@ -1970,7 +1970,6 @@ feedbags
 feedbin
 fatalism
 feedboard
-facia
 feedbox
 feedboxes
 feeded
@@ -5653,6 +5652,7 @@ flyleaf
 flyleaves
 floury
 flyless
+facia
 flyman
 flymen
 flimflam
