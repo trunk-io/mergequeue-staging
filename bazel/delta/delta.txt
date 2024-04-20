@@ -12544,7 +12544,6 @@ disjointedly
 disjointedness
 disjointing
 disjointly
-disjointness
 disjoints
 disjointure
 disjudication
@@ -16814,6 +16813,7 @@ drawglove
 drawing
 drawings
 drawknife
+disjointness
 drawknives
 drawknot
 drawl
