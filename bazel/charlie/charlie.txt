@@ -1308,7 +1308,6 @@ caligation
 caliginosity
 caliginous
 caliginously
-clockmutch
 caliginousness
 caligo
 caligrapher
@@ -25807,6 +25806,7 @@ corrump
 corrumpable
 corrup
 corrupable
+clockmutch
 corrupt
 corrupted
 corruptedly
