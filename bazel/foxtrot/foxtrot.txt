@@ -2197,7 +2197,6 @@ fumistery
 felsites
 felsitic
 felsobanyite
-foretypified
 felsophyric
 felsosphaerite
 felspar
@@ -10417,6 +10416,7 @@ filagree
 fellinic
 frontals
 frontbencher
+foretypified
 frontcourt
 fronted
 frontenis
