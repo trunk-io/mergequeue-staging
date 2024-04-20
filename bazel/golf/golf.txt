@@ -1059,6 +1059,7 @@ gandoura
 gandul
 gandum
 gandurah
+goladar
 ganef
 ganefs
 ganev
@@ -6585,7 +6586,6 @@ gokuraku
 gola
 groundmass
 golach
-goladar
 golandaas
 golandause
 golaseccan

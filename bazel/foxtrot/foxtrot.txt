@@ -2158,6 +2158,7 @@ fellowcraft
 fellowess
 fellowheirship
 fellowing
+fusc
 fellowly
 fellowman
 fellowmen
@@ -11534,7 +11535,6 @@ fusariosis
 fusarium
 fusarole
 fusate
-fusc
 fuscescent
 fallings
 frabous
