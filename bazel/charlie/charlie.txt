@@ -3878,7 +3878,6 @@ cardecu
 carded
 cardel
 carder
-carders
 cardholder
 cardholders
 cardia
@@ -10158,6 +10157,7 @@ cheviot
 cheviots
 chevisance
 chevise
+carders
 chevon
 chevre
 chevres
