@@ -4202,6 +4202,7 @@ deliverance
 delivered
 dressmaker
 deliverer
+dipoles
 disincorporate
 deliverers
 deliveress
@@ -10690,7 +10691,6 @@ dipolar
 dipolarization
 dipolarize
 dipole
-dipoles
 dipolsphene
 dipotassic
 dipotassium
