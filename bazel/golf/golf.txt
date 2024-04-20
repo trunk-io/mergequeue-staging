@@ -7085,7 +7085,6 @@ goosegrass
 gooseherd
 goosehouse
 giottesque
-gercrow
 gooselike
 gooseliver
 goosemouth
@@ -9196,6 +9195,7 @@ gritty
 grapnel
 grittie
 grittier
+gercrow
 goldenness
 grittiest
 grittily

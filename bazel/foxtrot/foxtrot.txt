@@ -4834,7 +4834,6 @@ fasciolaria
 frontspiece
 fleadock
 flagpole
-flagpoles
 flagrance
 flagrant
 flagrante
@@ -7288,6 +7287,7 @@ footsoreness
 footsores
 friller
 fatties
+flagpoles
 footstall
 footstep
 footsteps
