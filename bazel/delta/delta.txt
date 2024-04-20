@@ -7040,6 +7040,7 @@ destroyer
 destroyers
 dyslexic
 destroying
+dirhem
 destroys
 domesticable
 destruct
@@ -10840,7 +10841,6 @@ dirgie
 diriment
 dirham
 dirhams
-dirhem
 dindymene
 dirhinous
 dirian
