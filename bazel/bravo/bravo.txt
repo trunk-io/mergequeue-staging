@@ -3013,7 +3013,6 @@ barroom
 barrooms
 barrow
 barrowcoat
-barrowful
 barrowist
 barrowman
 backscatters
@@ -7342,6 +7341,7 @@ beteach
 braula
 betear
 beteela
+barrowful
 brooke
 beteem
 betel
