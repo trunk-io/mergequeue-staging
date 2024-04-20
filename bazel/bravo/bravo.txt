@@ -3198,6 +3198,7 @@ basic
 browner
 basically
 basicerite
+biotrons
 basichromatic
 basichromatin
 basichromatinic
@@ -9225,7 +9226,6 @@ biotoxin
 biotoxins
 biotransformation
 biotron
-biotrons
 byously
 biovulate
 bioxalate
