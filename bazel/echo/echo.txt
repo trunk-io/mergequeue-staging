@@ -11578,7 +11578,6 @@ evicke
 evict
 evicted
 evictee
-evictees
 evicting
 eviction
 evictions
@@ -13564,6 +13563,7 @@ extensibleness
 extensile
 extensimeter
 extension
+evictees
 extensional
 extensionalism
 extensionality
