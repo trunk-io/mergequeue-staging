@@ -835,7 +835,6 @@ baff
 baffeta
 baffy
 baffies
-baffing
 baffle
 baffled
 bafflement
@@ -15231,6 +15230,7 @@ bridgeable
 bridgeboard
 bridgebote
 bridgebuilding
+baffing
 bridged
 bridgehead
 bridgeheads
