@@ -5396,6 +5396,7 @@ dentosurgical
 disrate
 dents
 dentulous
+doghead
 dentural
 disturbative
 denture
@@ -14987,7 +14988,6 @@ doggoning
 doggrel
 doggrelize
 doggrels
-doghead
 doghood
 doghouses
 dogy
