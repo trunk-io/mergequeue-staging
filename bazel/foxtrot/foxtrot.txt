@@ -690,7 +690,6 @@ familyish
 familism
 familist
 familistere
-familistic
 familistical
 famille
 famine
@@ -11647,6 +11646,7 @@ fabricate
 fustilugs
 fustin
 fustinella
+familistic
 flagstaff
 fustiness
 fustoc
