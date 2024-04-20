@@ -1175,7 +1175,6 @@ abusiveness
 abut
 abuta
 abutilon
-abutilons
 afterdrops
 abutment
 abutments
@@ -22328,6 +22327,7 @@ astrophotographer
 astrophotography
 astrophotographic
 astrophotometer
+abutilons
 astrophotometry
 astrophotometrical
 azolitmin
