@@ -961,7 +961,6 @@ calathian
 calathidia
 calathidium
 calathiform
-calathisci
 calathiscus
 calathos
 cher
@@ -19242,6 +19241,7 @@ colog
 cologarithm
 cologne
 cologned
+calathisci
 colognes
 cologs
 colola

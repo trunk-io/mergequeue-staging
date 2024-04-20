@@ -9031,7 +9031,6 @@ biolinguistics
 biolyses
 bludgeoneer
 biolite
-biolytic
 biologese
 biologic
 biological
@@ -16114,6 +16113,7 @@ broomsticks
 broomstraw
 broomtail
 broomweed
+biolytic
 broomwood
 banning
 broomwort
