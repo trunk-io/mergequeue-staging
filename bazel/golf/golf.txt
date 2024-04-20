@@ -6944,6 +6944,7 @@ gonotype
 gonotocont
 gonotokont
 gonotome
+greenwood
 gonozooid
 granddam
 gessamine
@@ -8732,7 +8733,6 @@ greenweed
 greenwich
 greenwing
 greenwithe
-greenwood
 greenwoods
 greenwort
 greese
