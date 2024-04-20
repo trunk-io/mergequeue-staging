@@ -4653,6 +4653,7 @@ adversus
 adverted
 advertence
 advertency
+alethopteis
 afoot
 advertent
 advertently
@@ -7901,7 +7902,6 @@ alethiology
 alethiologic
 alethiological
 alethiologist
-alethopteis
 alethopteroid
 alethoscope
 aletocyte
