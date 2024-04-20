@@ -2107,6 +2107,7 @@ felinae
 feline
 felinely
 felineness
+formature
 felines
 fesapo
 felinophile
@@ -8460,7 +8461,6 @@ formats
 formatter
 formatters
 formatting
-formature
 flappering
 formazan
 formazyl
