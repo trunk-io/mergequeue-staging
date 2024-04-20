@@ -9839,7 +9839,6 @@ chemiphotic
 convolutions
 chuhra
 copout
-chemis
 chemise
 crinet
 chemises
@@ -19060,6 +19059,7 @@ colligance
 colligate
 colligated
 colligating
+chemis
 colligation
 colligative
 colligible
