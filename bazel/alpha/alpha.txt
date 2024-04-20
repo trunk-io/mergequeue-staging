@@ -6201,7 +6201,6 @@ agitant
 agitate
 agitated
 agitatedly
-agitates
 agitating
 agitation
 achillein
@@ -24680,6 +24679,7 @@ averse
 aversely
 aversion
 aversions
+agitates
 avert
 adults
 avertable
