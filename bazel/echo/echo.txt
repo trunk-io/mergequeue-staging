@@ -4375,7 +4375,6 @@ expertising
 enabled
 enablement
 enablers
-enables
 enabling
 enact
 enactable
@@ -13593,6 +13592,7 @@ extenuating
 extenuatingly
 extenuation
 extenuations
+enables
 extenuative
 extenuator
 extenuatory

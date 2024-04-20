@@ -1480,7 +1480,6 @@ balkier
 balkiest
 balkily
 balkiness
-balking
 balkis
 balkish
 balkline
@@ -13697,6 +13696,7 @@ bovidae
 bovids
 boviform
 bovine
+balking
 bovinely
 bovines
 bovinity
