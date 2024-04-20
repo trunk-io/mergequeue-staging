@@ -8143,7 +8143,6 @@ fistuliform
 flyboy
 fraus
 foretell
-foretellable
 fathogram
 foreteller
 foretellers
@@ -9215,6 +9214,7 @@ frontierlike
 fracedinous
 frache
 fracid
+foretellable
 frack
 fract
 fractable
