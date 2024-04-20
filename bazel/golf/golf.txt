@@ -2867,7 +2867,6 @@ geysers
 genthite
 gentian
 gentiana
-gentianales
 gentianella
 goaler
 gentianose
@@ -10283,6 +10282,7 @@ guitguit
 gestatorium
 guytrash
 guittonian
+gentianales
 guywire
 girlhood
 gujar
