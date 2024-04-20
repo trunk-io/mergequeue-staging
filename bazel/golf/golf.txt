@@ -2544,7 +2544,6 @@ gemologists
 gemonies
 gemot
 gemote
-gemotes
 gemots
 gems
 gained
@@ -5769,6 +5768,7 @@ glochis
 glockenspiel
 glockenspiels
 gloea
+gemotes
 gloeal
 gloeocapsoid
 gloeosporiose

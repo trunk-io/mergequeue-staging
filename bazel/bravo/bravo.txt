@@ -5015,6 +5015,7 @@ bonytail
 beestride
 beeswax
 beeswaxes
+beloid
 beeswing
 beeswinged
 beeswings
@@ -5880,7 +5881,6 @@ bellwood
 beloam
 belock
 beloeilite
-beloid
 belomancy
 belone
 belonephobia
