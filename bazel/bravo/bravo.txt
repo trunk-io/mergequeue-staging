@@ -11851,7 +11851,6 @@ bogged
 boggy
 boggier
 boggiest
-boggin
 bogginess
 bogging
 boggish
@@ -13853,6 +13852,7 @@ box
 boxball
 boxberry
 boxberries
+boggin
 boxboard
 boxboards
 boxbush
