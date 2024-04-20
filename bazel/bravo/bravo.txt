@@ -10500,7 +10500,6 @@ blats
 blatta
 blattariae
 blatted
-blatter
 blattered
 blatterer
 blattering
@@ -12185,6 +12184,7 @@ boltant
 blendcorn
 boltcutter
 bolted
+blatter
 boltel
 bolter
 bolters
