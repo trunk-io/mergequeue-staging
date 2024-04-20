@@ -542,6 +542,7 @@ backstops
 bethlehemite
 backstrap
 backstrapped
+booklouse
 backstreet
 backstretch
 backstretches
@@ -12670,7 +12671,6 @@ bookling
 booklists
 booklore
 booklores
-booklouse
 booklover
 bookmaker
 bookmakers
