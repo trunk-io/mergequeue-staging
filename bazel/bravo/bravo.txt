@@ -12961,6 +12961,7 @@ borderless
 borderlight
 borderline
 bordermark
+backstitch
 borders
 borderside
 bordman
@@ -13516,7 +13517,6 @@ bouleversement
 boulework
 boulimia
 boulle
-backstitch
 boulles
 boullework
 boult
