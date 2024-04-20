@@ -2864,6 +2864,7 @@ cantref
 cantrip
 cantrips
 coveting
+clacking
 cantus
 cantut
 cantuta
@@ -15177,7 +15178,6 @@ clarin
 clackers
 clacket
 clackety
-clacking
 clacks
 clactonian
 clad
