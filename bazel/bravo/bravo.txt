@@ -5809,7 +5809,6 @@ bellyful
 bellyfulls
 bellyfuls
 belligerence
-brechan
 belligerency
 belligerencies
 belligerent
@@ -16431,6 +16430,7 @@ brutalist
 bichromatic
 brutalitarian
 brutality
+brechan
 brutalities
 benchwork
 bionomics
