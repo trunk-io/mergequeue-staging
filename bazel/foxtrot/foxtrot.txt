@@ -5651,6 +5651,7 @@ flightworthy
 flying
 flyings
 flyleaf
+frivolizing
 flyleaves
 floury
 flyless
@@ -10254,7 +10255,6 @@ frivolity
 frivolities
 frivolize
 frivolized
-frivolizing
 frivolled
 frivoller
 frivolling
