@@ -19346,7 +19346,6 @@ arenation
 arend
 arendalite
 arendator
-areng
 arenga
 arenicole
 arenicolite
@@ -24344,6 +24343,7 @@ autorhythmic
 autorhythmus
 autoriser
 autorotate
+areng
 amastia
 autorotation
 autorotational
