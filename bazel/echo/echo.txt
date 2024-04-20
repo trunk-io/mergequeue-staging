@@ -3697,7 +3697,6 @@ embryonal
 embryonally
 embryonary
 embryonated
-embryony
 embryonic
 embryoniferous
 embryoniform
@@ -9538,6 +9537,7 @@ escarping
 escarpment
 escarpments
 escarps
+embryony
 escars
 escarteled
 electrogalvanize
