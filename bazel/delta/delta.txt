@@ -4548,6 +4548,7 @@ demigoddess
 demigods
 demigorge
 doddy
+diagnoses
 demigrate
 demigriffin
 demigroat
@@ -8183,7 +8184,6 @@ diagnose
 dipus
 diagnoseable
 diagnosed
-diagnoses
 diagnosis
 diagnostical
 diagnostically
