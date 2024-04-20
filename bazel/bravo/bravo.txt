@@ -1922,7 +1922,6 @@ bandhava
 bandhook
 borer
 bandhor
-bandhu
 bandi
 bandy
 begulfing
@@ -5848,6 +5847,7 @@ bellota
 bellote
 bellovaci
 bellow
+bandhu
 bellowed
 bellowers
 bellows

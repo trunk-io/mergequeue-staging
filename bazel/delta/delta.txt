@@ -7384,6 +7384,7 @@ detrusion
 detrusive
 detrusor
 dette
+droving
 detubation
 detumescence
 detumescent
@@ -17455,7 +17456,6 @@ drover
 drovers
 droves
 drovy
-droving
 drow
 drown
 drownd
