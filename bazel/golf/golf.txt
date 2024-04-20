@@ -5524,6 +5524,7 @@ glycosemia
 glycosidase
 glycoside
 glycosides
+glutenous
 grant
 glycosidic
 gunmetal
@@ -6180,7 +6181,6 @@ glutei
 glutelin
 glutelins
 glutenin
-glutenous
 glutens
 gluteofemoral
 gluteoinguinal
