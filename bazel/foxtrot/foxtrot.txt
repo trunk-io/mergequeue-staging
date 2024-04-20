@@ -3516,6 +3516,7 @@ fravashi
 figo
 figpecker
 figs
+frangi
 figshell
 fury
 figulate
@@ -9427,7 +9428,6 @@ frogmouths
 francophobe
 francophone
 franger
-frangi
 frangibility
 frangible
 frangipane
