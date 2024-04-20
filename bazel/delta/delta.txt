@@ -4070,7 +4070,6 @@ delichon
 deliciae
 deliciate
 delicious
-dowcet
 deliciouses
 deliciousness
 delict
@@ -14772,6 +14771,7 @@ documented
 documenter
 documenters
 documenting
+dowcet
 documentize
 documentor
 documents
