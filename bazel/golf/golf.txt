@@ -237,7 +237,6 @@ gainage
 gainbirth
 gaincall
 gaincome
-gaine
 generating
 gainer
 glumal
@@ -3409,6 +3408,7 @@ grids
 germanous
 gelastocoridae
 germans
+gaine
 germantown
 goldwater
 gossipry
