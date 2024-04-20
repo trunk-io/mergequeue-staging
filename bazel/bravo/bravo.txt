@@ -2041,7 +2041,6 @@ bangkoks
 bangladesh
 bangle
 bangled
-bangles
 bangling
 bangos
 bangs
@@ -2934,6 +2933,7 @@ barratries
 barratrous
 barratrously
 barre
+bangles
 barred
 barrel
 barrelage

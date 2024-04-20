@@ -20690,7 +20690,6 @@ articulationes
 articulationist
 articulations
 articulative
-afunction
 anteroventrally
 articulator
 articulatorily
@@ -21972,6 +21971,7 @@ asta
 astable
 astacian
 astacidae
+afunction
 astacus
 astay
 astakiwi
