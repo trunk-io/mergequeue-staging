@@ -7752,7 +7752,6 @@ bheestie
 bheesties
 bhikhari
 bhikku
-bhikshu
 bhil
 bhili
 bhima
@@ -10960,6 +10959,7 @@ bigotry
 bloc
 blocage
 blockade
+bhikshu
 brunch
 blockaded
 blockader

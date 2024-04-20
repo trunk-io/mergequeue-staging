@@ -21061,7 +21061,6 @@ comrades
 comradeship
 comrado
 comrogue
-coms
 comsat
 comsomol
 comstock
@@ -21588,6 +21587,7 @@ condemner
 condemners
 condemning
 condemningly
+coms
 condemnor
 connaisseur
 condensability
