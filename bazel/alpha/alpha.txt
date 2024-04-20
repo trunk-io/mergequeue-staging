@@ -8139,7 +8139,6 @@ algorab
 algores
 acknowledgement
 algorism
-algorismic
 algorisms
 algorist
 algoristic
@@ -19172,6 +19171,7 @@ archurger
 archvagabond
 atomics
 archvampire
+algorismic
 archvestryman
 archvillain
 archvillainy
