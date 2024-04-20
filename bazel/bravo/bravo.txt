@@ -5050,7 +5050,6 @@ beetroots
 beets
 beeve
 beeves
-beevish
 beeway
 beeware
 beeweed
@@ -9833,6 +9832,7 @@ basilosaurus
 barbarized
 bitreadle
 bitripinnatifid
+beevish
 bitriseptate
 bitrochanteric
 bits
