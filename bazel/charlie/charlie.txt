@@ -15586,7 +15586,6 @@ classicism
 classicist
 classicistic
 classicists
-classicize
 classicized
 classicizing
 classico
@@ -25450,6 +25449,7 @@ corodiastole
 corodies
 corojo
 corol
+classicize
 condemns
 corolitic
 coroll
