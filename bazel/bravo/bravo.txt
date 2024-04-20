@@ -2725,6 +2725,7 @@ barman
 barmaster
 barmbrack
 barmcloth
+biggonet
 barmecidal
 barmecide
 barmfel
@@ -7068,7 +7069,6 @@ besomer
 besoms
 besonio
 besonnet
-biggonet
 besoot
 besoothe
 brawest
