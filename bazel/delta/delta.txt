@@ -490,7 +490,6 @@ dakir
 dakoit
 dakoity
 dakoits
-dakotan
 dakotans
 dakotas
 daks
@@ -3948,6 +3947,7 @@ delapsion
 delassation
 delassement
 delated
+dakotan
 delater
 delates
 delating
