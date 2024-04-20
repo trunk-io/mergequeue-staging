@@ -3511,7 +3511,6 @@ gerund
 gerundial
 gastropyloric
 gerundival
-gerundive
 gerunds
 gervais
 gervao
@@ -8290,6 +8289,7 @@ grumblers
 grasshopper
 grasshopperdom
 gry
+gerundive
 grasshopperish
 grasshoppers
 grasshouse
