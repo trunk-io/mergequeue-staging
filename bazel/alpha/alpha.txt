@@ -3860,7 +3860,6 @@ adiabatic
 adiabolist
 adiactinic
 adiadochokinesia
-adiadochokinesis
 adiadokokinesi
 adiadokokinesia
 adiagnostic
@@ -14831,6 +14830,7 @@ antic
 antica
 anticachectic
 antical
+adiadochokinesis
 anticalcimine
 anticalculous
 antically
