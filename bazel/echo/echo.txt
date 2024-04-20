@@ -13260,7 +13260,6 @@ expolish
 expone
 exponence
 exponency
-electrostereotype
 exponent
 exponential
 exponentially
@@ -13645,6 +13644,7 @@ elaterite
 externalness
 evolvements
 externals
+electrostereotype
 externat
 externate
 externe
