@@ -254,7 +254,6 @@ faddle
 fade
 fadeaways
 faded
-fadedly
 fadedness
 fadednyess
 fadeless
@@ -557,6 +556,7 @@ fallibilism
 fallibility
 fallible
 fractious
+fadedly
 fibrin
 fallibly
 falling
