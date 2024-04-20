@@ -9545,7 +9545,6 @@ banalness
 birthplace
 birthplaces
 birthrate
-birthrates
 birthright
 birthrights
 birthroot
@@ -15898,6 +15897,7 @@ bromol
 bromomania
 bromomenorrhea
 bromomethane
+birthrates
 bromometry
 bhumidar
 bromometric
