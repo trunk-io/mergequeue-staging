@@ -9678,7 +9678,6 @@ gruyere
 gruiform
 gruiformes
 gruine
-goldsmithing
 grum
 grumbled
 grumbler
@@ -10319,6 +10318,7 @@ gulfside
 gulfwards
 gulfweed
 gulfweeds
+goldsmithing
 gulgul
 gratillity
 gadrooned
