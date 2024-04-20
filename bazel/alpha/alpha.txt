@@ -20507,7 +20507,6 @@ arteriopathy
 arterioplania
 arterioplasty
 arteriopressor
-arteriorenal
 arteriorrhaphy
 arteriorrhexis
 arterioscleroses
@@ -24150,6 +24149,7 @@ autolithography
 autoinfection
 autolithographic
 autolytic
+arteriorenal
 autolytus
 autolyzate
 autolyze
