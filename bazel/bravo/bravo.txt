@@ -8485,7 +8485,6 @@ bilamellate
 bilamellated
 bilaminar
 bilaminate
-bilaminated
 biland
 byland
 bilander
@@ -16280,6 +16279,7 @@ bruiser
 bruises
 bruisewort
 bruising
+bilaminated
 bruisingly
 bruit
 bruited
