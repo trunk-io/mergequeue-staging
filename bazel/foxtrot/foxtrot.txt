@@ -5470,7 +5470,6 @@ flensed
 flenser
 fielder
 flensers
-flenses
 fumaroidal
 flensing
 flentes
@@ -6860,6 +6859,7 @@ foyaite
 foyaitic
 foible
 foibles
+flenses
 foiblesse
 foyboat
 foyer
