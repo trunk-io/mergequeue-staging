@@ -781,7 +781,6 @@ ecphory
 ecphoria
 ecphoriae
 ecphorias
-ecphorization
 ecphova
 ecphractic
 ecphrasis
@@ -5517,6 +5516,7 @@ emball
 enemy
 enemied
 enemies
+ecphorization
 estancieros
 eburnification
 enemying
