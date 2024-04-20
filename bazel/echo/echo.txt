@@ -722,7 +722,6 @@ econometrist
 enhydrous
 economy
 economic
-economical
 economically
 economics
 economies
@@ -10188,6 +10187,7 @@ etched
 etcher
 etchers
 etches
+economical
 etchimin
 etching
 etchings
