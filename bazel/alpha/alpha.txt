@@ -10999,7 +10999,6 @@ acher
 ampelidae
 aversive
 ampelideous
-ampelis
 ampelitic
 ampelography
 ampelographist
@@ -21849,6 +21848,7 @@ anientise
 associational
 associationalism
 associationalist
+ampelis
 associationism
 associationist
 associationistic
