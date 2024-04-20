@@ -13353,7 +13353,6 @@ anisomyodi
 anisomyodian
 anisomyodous
 anisopetalous
-anisophylly
 anisophyllous
 anisopia
 anisopleural
@@ -22973,6 +22972,7 @@ attempt
 attemptable
 attempted
 attempter
+anisophylly
 attempters
 attempting
 attemptive
