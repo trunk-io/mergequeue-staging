@@ -9533,7 +9533,6 @@ byrsonima
 birt
 birth
 birthbed
-birthday
 birthdays
 birthed
 birthy
@@ -10338,6 +10337,7 @@ blanketmaker
 boatwise
 blanketmaking
 blankets
+birthday
 blanketweed
 blanky
 backflash
