@@ -5300,7 +5300,6 @@ begloze
 begluc
 beelines
 breviers
-beglue
 begnaw
 begnawed
 begnawn
@@ -8666,6 +8665,7 @@ billion
 billionaire
 bartram
 billionaires
+beglue
 billionism
 billions
 billionth
