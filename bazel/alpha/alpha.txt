@@ -5670,7 +5670,6 @@ afterhend
 afterhope
 afterhours
 afteryears
-afterimage
 afterimages
 afterimpression
 afterings
@@ -17899,6 +17898,7 @@ appraisers
 appraises
 appraising
 appraisive
+afterimage
 apprecate
 appreciably
 appreciate
