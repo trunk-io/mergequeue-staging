@@ -936,6 +936,7 @@ absentees
 acanthopteri
 absenteeship
 absenter
+agynic
 absenters
 absentia
 absenting
@@ -6173,7 +6174,6 @@ agynary
 agynarious
 aging
 agings
-agynic
 aginner
 aginners
 agynous
