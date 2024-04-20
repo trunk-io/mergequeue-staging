@@ -7034,7 +7034,6 @@ entrancedly
 euryhaline
 entrancement
 entrancements
-entrancer
 entrances
 entranceway
 entrancing
@@ -13091,6 +13090,7 @@ experimenters
 experimenting
 ejectee
 eelback
+entrancer
 experimentist
 experimentize
 experimentor
