@@ -6625,7 +6625,6 @@ design
 designable
 designado
 designate
-designated
 designates
 drouks
 designating
@@ -14203,6 +14202,7 @@ ditto
 dittoed
 dittoes
 dittogram
+designated
 dittograph
 dittography
 dittographic
