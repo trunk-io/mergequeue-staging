@@ -2024,7 +2024,6 @@ gauntleted
 gauntleting
 gauntlets
 gauntly
-gauntness
 gauntry
 gaup
 gauping
@@ -3289,6 +3288,7 @@ gepidae
 greige
 gepoun
 ger
+gauntness
 geraera
 gerah
 gerahs
