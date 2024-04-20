@@ -9471,6 +9471,7 @@ byrl
 befallen
 bughead
 byrlady
+bismuthyl
 byrlakin
 byrlaw
 byrlawman
@@ -9696,7 +9697,6 @@ bismuthate
 bismuthic
 bismuthide
 bismuthiferous
-bismuthyl
 bismuthine
 bismuthinite
 bismuthous
