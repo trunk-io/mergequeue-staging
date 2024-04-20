@@ -11291,7 +11291,6 @@ chlorochrous
 chlorococcaceae
 chlorococcales
 chlorococcum
-chlorococcus
 caulicole
 chlorocresol
 chlorocruorin
@@ -19160,6 +19159,7 @@ collop
 collophane
 collophanite
 collophore
+chlorococcus
 collops
 colloq
 colloque
