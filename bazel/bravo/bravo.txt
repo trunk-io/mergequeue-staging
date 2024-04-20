@@ -3336,6 +3336,7 @@ basketfuls
 basketing
 basketmaker
 basketmaking
+bazars
 buyback
 basketry
 basketries
@@ -3927,7 +3928,6 @@ baxtone
 bazaar
 bazaars
 bazar
-bazars
 baze
 bazigar
 bazoo
