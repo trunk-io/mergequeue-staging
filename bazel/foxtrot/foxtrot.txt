@@ -2965,6 +2965,7 @@ feus
 feuter
 fever
 feverberry
+fjeld
 feverberries
 feverbush
 fidgetiness
@@ -4706,7 +4707,6 @@ fizzles
 fizzling
 fizzwater
 fjarding
-fjeld
 fjelds
 fjerding
 fadeaway
