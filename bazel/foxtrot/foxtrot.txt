@@ -2390,7 +2390,6 @@ feodality
 feodary
 feodaries
 feodatory
-fehmic
 feodum
 feoff
 feoffed
@@ -10965,6 +10964,7 @@ fulminated
 fulminates
 fulminating
 fulmination
+fehmic
 fiascoes
 fulminations
 fulminator
