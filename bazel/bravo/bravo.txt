@@ -2585,6 +2585,7 @@ barger
 barges
 bargestone
 brevets
+bezants
 bargh
 bargham
 barghest
@@ -7677,7 +7678,6 @@ bezant
 bezante
 bezantee
 bezanty
-bezants
 bezazz
 bezazzes
 bezel
