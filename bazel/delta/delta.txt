@@ -12235,7 +12235,6 @@ disguiseless
 disguisement
 disguisements
 disguiser
-disguises
 djinn
 disguising
 disgulf
@@ -12484,6 +12483,7 @@ disintegrated
 disintegrates
 disintegrating
 dipterological
+disguises
 decarboniser
 disintegration
 disintegrationist
