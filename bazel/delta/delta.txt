@@ -16158,7 +16158,6 @@ douzeper
 douzepers
 douzieme
 douziemes
-dove
 dovecot
 dovecote
 dovecotes
@@ -16834,6 +16833,7 @@ drawls
 drawn
 drawnet
 drawnly
+dove
 drawnness
 drawnwork
 drawoff

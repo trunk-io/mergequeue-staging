@@ -12038,6 +12038,7 @@ chortled
 cloverlay
 chortler
 chortlers
+conteur
 chortles
 chortling
 chortosterol
@@ -23465,7 +23466,6 @@ contesting
 contestingly
 contestless
 contests
-conteur
 contex
 context
 contextive
