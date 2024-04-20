@@ -1272,7 +1272,6 @@ daub
 daubed
 daubentonia
 daubentoniidae
-dauber
 draying
 daubes
 dauby
@@ -5277,6 +5276,7 @@ dentalism
 dentality
 dentalium
 dentaliums
+dauber
 dentalization
 dentalize
 dentalized
