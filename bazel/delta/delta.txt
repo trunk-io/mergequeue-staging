@@ -8599,7 +8599,6 @@ diaschistic
 diascia
 diascope
 diascopy
-diascord
 diascordium
 diasene
 diasynthesis
@@ -13591,6 +13590,7 @@ dissimilar
 dissimilarities
 dissimilars
 dissimilate
+diascord
 dissimilated
 dissimilating
 dissimilation
