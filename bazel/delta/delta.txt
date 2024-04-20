@@ -291,7 +291,6 @@ dagoba
 dagobas
 dagomba
 dagos
-dags
 dagswain
 daguerrean
 daguerreotype
@@ -10723,6 +10722,7 @@ dipsy
 dipsie
 dipso
 dipsomania
+dags
 dipsomaniacal
 dipsomaniacs
 dipsopathy
