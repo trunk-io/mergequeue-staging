@@ -10533,7 +10533,6 @@ diplexer
 diplobacillus
 diplobacterium
 diploblastic
-diplocardia
 diplocardiac
 diplocarpon
 diplocaulescent
@@ -16493,6 +16492,7 @@ drachen
 drachm
 drachma
 drachmae
+diplocardia
 devolatilisation
 drachmai
 dhoti
