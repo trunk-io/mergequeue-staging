@@ -9840,6 +9840,7 @@ bitser
 bitsy
 beliquored
 bitstock
+blaeberry
 bitstocks
 bitstone
 bitt
@@ -10229,7 +10230,6 @@ blady
 bladygrass
 blading
 blae
-blaeberry
 blaeberries
 blaeness
 blaewort
