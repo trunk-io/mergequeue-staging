@@ -13171,7 +13171,6 @@ cicalas
 cicale
 cycas
 cycases
-cycasin
 cycasins
 cicatrice
 cicatrices
@@ -29415,6 +29414,7 @@ crisset
 crissum
 cryst
 crista
+cycasin
 cristae
 crystaled
 crystaling
