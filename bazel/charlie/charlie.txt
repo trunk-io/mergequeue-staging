@@ -13183,7 +13183,6 @@ cicatricule
 cicatrisant
 cromorna
 cicatrisate
-cicatrisation
 cicatrised
 cicatriser
 crackability
@@ -21021,6 +21020,7 @@ compurgatorial
 compursion
 computability
 computable
+cicatrisation
 computably
 computate
 counterdash

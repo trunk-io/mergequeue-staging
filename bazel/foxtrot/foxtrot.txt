@@ -4309,7 +4309,6 @@ fireweed
 fireweeds
 firewood
 fishergirl
-firework
 fireworky
 fireworkless
 fireworks
@@ -10713,6 +10712,7 @@ frumentarious
 frumentation
 forestay
 frumenty
+firework
 frumenties
 frumentum
 frump
