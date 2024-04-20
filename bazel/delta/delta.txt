@@ -15419,7 +15419,6 @@ donary
 donaries
 daira
 donat
-donatary
 donataries
 donate
 donated
@@ -18675,6 +18674,7 @@ dx
 dz
 dzeren
 dziggetai
+donatary
 dzo
 dinucleotide
 dzungar
