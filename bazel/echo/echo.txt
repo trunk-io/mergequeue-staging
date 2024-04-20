@@ -1953,7 +1953,6 @@ ejecta
 ejectable
 etrogs
 ejectamenta
-ejected
 endomyces
 entailers
 ejecting
@@ -12649,6 +12648,7 @@ exobiologist
 exobiologists
 exocannibalism
 exocardia
+ejected
 exocardiac
 exocardial
 exocarps
