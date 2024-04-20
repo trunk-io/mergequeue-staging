@@ -1376,7 +1376,6 @@ estragons
 efficacies
 efficaciously
 efficaciousness
-efficacity
 efficience
 efficiency
 efficient
@@ -3115,6 +3114,7 @@ eloigned
 eloigner
 eloigners
 eloigning
+efficacity
 eloignment
 eloigns
 eloin
