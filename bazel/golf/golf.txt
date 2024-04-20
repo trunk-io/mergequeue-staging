@@ -1499,6 +1499,7 @@ gn
 garrotte
 garrotted
 garrotting
+goldenrods
 gastrocystis
 garrulinae
 garruline
@@ -5695,7 +5696,6 @@ globalized
 guarache
 globalizing
 globally
-goldenrods
 globated
 goffering
 globe
