@@ -2323,7 +2323,6 @@ candidating
 candidature
 candidatures
 candide
-candider
 churls
 codecree
 candidest
@@ -3008,6 +3007,7 @@ capeworks
 capful
 capfuls
 caphar
+candider
 capharnaism
 caphite
 caphs
