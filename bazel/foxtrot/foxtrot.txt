@@ -3216,7 +3216,6 @@ ficaries
 ficche
 forecasts
 fice
-fyce
 ficelle
 fices
 fichat
@@ -7559,6 +7558,7 @@ foretopsail
 forebows
 forebrace
 forebreast
+fyce
 forebridge
 forebroads
 foreburton
