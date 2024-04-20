@@ -5062,7 +5062,6 @@ enders
 endevil
 endew
 endexines
-endgame
 endgate
 endhand
 endia
@@ -11650,6 +11649,7 @@ evittate
 evocable
 evocated
 evocating
+endgame
 emerized
 evocation
 evocations
