@@ -6653,7 +6653,6 @@ designedly
 designedness
 designee
 designees
-designer
 designful
 duotone
 designfully
@@ -18377,6 +18376,7 @@ duplicando
 duplicated
 duplicately
 duplicates
+designer
 duplicating
 duplication
 duplications
