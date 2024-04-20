@@ -8985,7 +8985,6 @@ ergatandromorph
 ergatandromorphic
 ergatandrous
 ergate
-ergative
 ergatocracy
 ergatocrat
 ergatogyne
@@ -9207,6 +9206,7 @@ erythropenia
 erythrophage
 erythrophagous
 erythrophyll
+ergative
 erythrophyllin
 erythrophleine
 erythrophobia
