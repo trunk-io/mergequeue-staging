@@ -3552,6 +3552,7 @@ bathed
 barbulate
 bather
 barbered
+buy
 bathers
 bathes
 bathetic
@@ -16917,7 +16918,6 @@ buhlwork
 buhlworks
 buhrmill
 buhrs
-buy
 basketlike
 buyable
 basils
