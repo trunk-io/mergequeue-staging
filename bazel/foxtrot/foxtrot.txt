@@ -3892,7 +3892,6 @@ fimbrilliferous
 fimbrillose
 fimbriodentate
 fimbristylis
-fin
 finable
 finableness
 finagle
@@ -11047,6 +11046,7 @@ fumettes
 flongs
 fumeuse
 fumeuses
+fin
 fumewort
 fumy
 fumid
