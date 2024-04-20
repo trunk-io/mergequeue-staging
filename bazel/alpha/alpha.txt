@@ -22259,7 +22259,6 @@ astrognosy
 astrogony
 astrogonic
 astrograph
-astrographer
 astrography
 astrohatch
 astroid
@@ -24124,6 +24123,7 @@ autointoxicant
 autointoxication
 autoirrigation
 autoist
+astrographer
 autojigger
 autojuggernaut
 autokinesis
