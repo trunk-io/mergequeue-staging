@@ -507,7 +507,6 @@ galileo
 galimatias
 gastriloquist
 garterless
-galinaceous
 galingale
 galinsoga
 galiongee
@@ -4281,6 +4280,7 @@ gambas
 gymnolaemata
 germinability
 gymnonoti
+galinaceous
 gymnopaedes
 gymnopaedic
 gymnophiona
