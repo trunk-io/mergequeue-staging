@@ -1954,7 +1954,6 @@ bandlet
 bandlimit
 bandlimited
 bandlimiting
-bandlimits
 bandman
 bandmaster
 bandmasters
@@ -8696,6 +8695,7 @@ bilobe
 bilobed
 bilobiate
 bilobular
+bandlimits
 bilocation
 bilocellate
 bilocular
