@@ -7248,6 +7248,7 @@ gormandizes
 gauffered
 gormandizing
 gormands
+greedyguts
 gangsa
 gormaw
 gariba
@@ -8610,7 +8611,6 @@ greedy
 greedier
 greediest
 greedygut
-greedyguts
 greedily
 greediness
 greedless
