@@ -3269,7 +3269,6 @@ fictionization
 fictionize
 fictionized
 fictionmonger
-fictions
 fictious
 fictitiously
 fistularioid
@@ -10471,6 +10470,7 @@ frontoorbital
 funded
 frontosphenoidal
 frontotemporal
+fictions
 frontozygomatic
 frontrunner
 fronts
