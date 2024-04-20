@@ -4780,6 +4780,7 @@ gyroceran
 goodwills
 guildsman
 gyrochrome
+gonostyle
 gyrocompass
 golliwogg
 gyrocompasses
@@ -8749,7 +8750,6 @@ greetingly
 greets
 greeve
 greffe
-gonostyle
 greffier
 greg
 gregale
