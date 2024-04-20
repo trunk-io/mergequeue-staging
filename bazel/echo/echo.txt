@@ -7253,7 +7253,6 @@ envoyship
 envolume
 enteroanastomosis
 envolupen
-enwall
 enwallow
 enweave
 enweaved
@@ -13053,6 +13052,7 @@ expensiveness
 elatedness
 expergefacient
 expergefaction
+enwall
 experience
 experienceable
 experienced
