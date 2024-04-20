@@ -9306,7 +9306,6 @@ fragmentariness
 fragmentation
 fragmented
 fermentology
-fragmenting
 fragmentisation
 fragmentise
 fragmentised
@@ -10003,6 +10002,7 @@ friction
 frictionable
 frictional
 frictionally
+fragmenting
 frictionize
 frictionized
 frictionizing
