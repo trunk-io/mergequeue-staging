@@ -8202,7 +8202,6 @@ forewarns
 flaxseed
 foreween
 foreweep
-foreweigh
 forewent
 forewind
 forewings
@@ -10665,6 +10664,7 @@ fruitbearing
 fruitcake
 fruitcakey
 fruitcakes
+foreweigh
 fruiter
 fruitery
 fruiteries
