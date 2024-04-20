@@ -1257,7 +1257,6 @@ foothills
 fashiousness
 fasibitikite
 fasinite
-fasnacht
 fass
 fassaite
 felonwood
@@ -5117,6 +5116,7 @@ folky
 fanfish
 flaskets
 fleamy
+fasnacht
 fozier
 feteritas
 flaskful
