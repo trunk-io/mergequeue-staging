@@ -5228,7 +5228,6 @@ begemmed
 begemming
 beget
 begettal
-begetter
 begetters
 begetting
 beggable
@@ -13138,6 +13137,7 @@ bosjesman
 bosk
 boskage
 boskages
+begetter
 bottlebrush
 breunnerite
 bosker
