@@ -8119,7 +8119,6 @@ bicorporal
 beanbag
 bicorporate
 bicorporeal
-bicostate
 bicrenate
 bicrofarad
 bicron
@@ -16830,6 +16829,7 @@ blastoidea
 backhauled
 breakwind
 buffoon
+bicostate
 buffoonery
 buffooneries
 buffoonesque
