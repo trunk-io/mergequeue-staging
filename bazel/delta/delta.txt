@@ -6172,7 +6172,6 @@ dermalgia
 dermalith
 dermamycosis
 dactylopodite
-dermamyiasis
 dermanaplasty
 dermapostasis
 dermaptera
@@ -11774,6 +11773,7 @@ discriminantal
 discriminate
 discriminately
 discriminateness
+dermamyiasis
 discriminates
 dogie
 discriminating

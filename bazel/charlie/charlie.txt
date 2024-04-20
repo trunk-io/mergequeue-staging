@@ -1512,6 +1512,7 @@ calls
 clericalize
 callum
 calluna
+condoles
 callus
 callused
 calluses
@@ -21710,7 +21711,6 @@ condolence
 condolent
 condoler
 condolers
-condoles
 condoling
 condolingly
 condom
