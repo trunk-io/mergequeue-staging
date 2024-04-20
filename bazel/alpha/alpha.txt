@@ -15984,7 +15984,6 @@ antiprohibition
 antiprophet
 antiprostate
 antiprostatic
-antiprotease
 antiproteolysis
 antiproton
 antiprotons
@@ -18251,6 +18250,7 @@ aqueomercurial
 aqueous
 aqueously
 aqueousness
+antiprotease
 aquerne
 aquiclude
 amenage

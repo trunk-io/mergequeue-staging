@@ -1420,7 +1420,6 @@ galvanotropic
 garnered
 garnering
 grysbok
-gambesons
 garners
 garnetberry
 garneter
@@ -3108,6 +3107,7 @@ gurdwara
 geomaly
 geomalic
 geomalism
+gambesons
 geomancer
 geomancy
 giraffoid
