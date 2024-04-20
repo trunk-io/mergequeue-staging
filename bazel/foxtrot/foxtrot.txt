@@ -8402,7 +8402,6 @@ forlana
 forlanas
 forlane
 forleave
-forleaving
 forleit
 forlese
 forlet
@@ -10552,6 +10551,7 @@ froughy
 frounce
 frounced
 frounceless
+forleaving
 frounces
 frouncing
 frousy

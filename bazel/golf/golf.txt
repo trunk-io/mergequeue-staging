@@ -5218,7 +5218,6 @@ glassen
 glassfish
 glassful
 glassfuls
-glasshouse
 glasshouses
 glassy
 glassie
@@ -9411,6 +9410,7 @@ grouch
 grouches
 grouchy
 gearbox
+glasshouse
 grouchier
 grouchiest
 grundyist
