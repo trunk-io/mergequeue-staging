@@ -14840,7 +14840,6 @@ boussingaultia
 breakup
 breakups
 breakweather
-breakwind
 bream
 breamed
 breaming
@@ -16831,6 +16830,7 @@ branchiocardiac
 buffont
 blastoidea
 backhauled
+breakwind
 buffoon
 buffoonery
 buffooneries
