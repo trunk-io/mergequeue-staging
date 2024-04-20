@@ -2334,7 +2334,6 @@ electroceramic
 electrochemical
 electrochemically
 electrochemist
-electrochemistry
 electrochronograph
 electrochronometer
 electrochronometric
@@ -7635,6 +7634,7 @@ epicedium
 eduardo
 epicele
 epicene
+electrochemistry
 epicenes
 epicenism
 epicenity
