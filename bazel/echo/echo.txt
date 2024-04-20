@@ -6661,7 +6661,6 @@ enterocolitis
 embeggar
 enterodelous
 enterodynia
-enteroepiplocele
 enterogastritis
 enterogastrone
 enterogenous
@@ -10788,6 +10787,7 @@ eudemons
 enthroned
 eudendrium
 eudesmol
+enteroepiplocele
 eudemonics
 eudeve
 eudiagnostic
