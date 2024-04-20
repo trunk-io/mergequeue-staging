@@ -7364,7 +7364,6 @@ dibranch
 detrimental
 detrimentality
 detrimentally
-detriments
 detrited
 detrition
 detritivorous
@@ -9915,6 +9914,7 @@ dictyogenous
 dimidiation
 diminish
 diminishable
+detriments
 diminishableness
 diminisher
 diminishing
