@@ -6713,7 +6713,6 @@ enteroptotic
 enterorrhagia
 enterorrhaphy
 enterorrhexis
-enteroscope
 enteroscopy
 enterosepsis
 enterosyphilis
@@ -12209,6 +12208,7 @@ excruciatingness
 excruciator
 excubant
 excubitoria
+enteroscope
 excubitorium
 excud
 excudate
