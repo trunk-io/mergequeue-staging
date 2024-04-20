@@ -5545,7 +5545,6 @@ energise
 epirot
 energiser
 energises
-energising
 energism
 energist
 energize
@@ -8844,6 +8843,7 @@ equus
 era
 erade
 eradiate
+energising
 eradiated
 exhedra
 epicerebral
