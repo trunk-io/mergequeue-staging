@@ -5901,6 +5901,7 @@ enguard
 engulf
 engulfed
 engulfing
+exopodite
 engulfment
 enhaemospore
 enhallow
@@ -12760,7 +12761,6 @@ exophthalmos
 exophthalmus
 exoplasm
 exopod
-exopodite
 exopoditic
 exopterygota
 exopterygote
