@@ -2469,6 +2469,7 @@ electrolyzing
 electrology
 electrological
 electrologist
+enfollow
 electrologists
 electroluminescence
 elbowbush
@@ -5645,7 +5646,6 @@ enfolding
 enfoldings
 enfoldment
 enfolds
-enfollow
 enfonce
 ephemerae
 enforce
