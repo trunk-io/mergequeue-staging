@@ -128,6 +128,7 @@ earring
 earringed
 earrings
 ears
+eulima
 earscrew
 earsh
 earshell
@@ -10864,7 +10865,6 @@ eulamellibranchiata
 eulamellibranchiate
 euler
 eulerian
-eulima
 eulimidae
 eulysite
 eulytin
