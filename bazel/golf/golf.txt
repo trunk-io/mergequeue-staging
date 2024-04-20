@@ -4788,7 +4788,6 @@ golliwogg
 gyrocompasses
 gyrodactylidae
 gyrodactylus
-gyrodyne
 gastrocoele
 gyrofrequency
 gyrofrequencies
@@ -10072,6 +10071,7 @@ guesdist
 guess
 guessable
 gamodeme
+gyrodyne
 guessed
 gunnysacks
 guesser
