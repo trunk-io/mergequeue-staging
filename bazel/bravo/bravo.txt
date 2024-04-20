@@ -221,7 +221,6 @@ bacchiac
 boxiest
 bacchian
 bacchic
-bacchical
 bacchides
 bacchii
 bacchus
@@ -9359,6 +9358,7 @@ birchbark
 birched
 birchen
 bircher
+bacchical
 birchers
 birches
 birching
