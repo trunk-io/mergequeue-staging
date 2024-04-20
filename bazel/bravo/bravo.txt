@@ -825,6 +825,7 @@ baedeker
 baedekerian
 baedekers
 bael
+biosynthesis
 baeria
 baetyl
 baetylus
@@ -3638,7 +3639,6 @@ bathroom
 bathroomed
 bathrooms
 bathroot
-biosynthesis
 baron
 bathtub
 by
