@@ -2407,7 +2407,6 @@ acid
 acidaemia
 acidanthera
 acidaspis
-acidemia
 adjunctively
 acidemias
 acider
@@ -15338,6 +15337,7 @@ antigrammaticalness
 antigraph
 antigraphy
 antigravitate
+acidemia
 antigravitation
 antigravitational
 antigravitationally
