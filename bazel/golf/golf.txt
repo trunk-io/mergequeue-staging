@@ -644,7 +644,6 @@ gator
 germanity
 galliney
 gallingly
-gallingness
 gallinipper
 gallinula
 gallinule
@@ -2663,6 +2662,7 @@ generalty
 gooroo
 generant
 glances
+gallingness
 gilt
 goto
 gelatinized

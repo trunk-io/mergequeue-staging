@@ -3296,7 +3296,6 @@ actuating
 actuation
 antigraft
 actuator
-actuators
 actuose
 acture
 alliterative
@@ -20674,6 +20673,7 @@ articulable
 articulacy
 articulant
 articular
+actuators
 articulare
 articulary
 allelomorph
