@@ -21316,6 +21316,7 @@ conchfishes
 conchy
 conchie
 conchies
+confirmative
 conchifera
 conchiferous
 conchiform
@@ -21997,7 +21998,6 @@ confirmand
 confirmation
 confirmational
 confirmations
-confirmative
 confirmatively
 confirmatorily
 confirmed
