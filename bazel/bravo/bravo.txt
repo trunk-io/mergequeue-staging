@@ -8670,7 +8670,6 @@ benzo
 billjim
 billman
 bosun
-basigenic
 billmen
 billon
 billons
@@ -16447,6 +16446,7 @@ brutify
 bachelors
 brutification
 brutified
+basigenic
 burners
 brutifies
 brutifying
