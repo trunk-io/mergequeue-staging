@@ -773,7 +773,6 @@ dandyish
 dandyishy
 dandyishly
 dandyism
-dandyisms
 dandily
 dandyling
 dandilly
@@ -14716,6 +14715,7 @@ doctorates
 doctorbird
 doctored
 doctorfishes
+dandyisms
 doctorhood
 doctorial
 doctorially
