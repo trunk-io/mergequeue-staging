@@ -5989,7 +5989,6 @@ glottid
 gynerium
 glottidean
 glottides
-glottis
 glottiscope
 glottises
 glottitis
@@ -8791,6 +8790,7 @@ gregorianize
 greyback
 greybeard
 greycoat
+glottis
 greyed
 geonavigation
 gehenna
