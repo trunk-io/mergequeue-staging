@@ -5594,7 +5594,6 @@ catawbas
 catberry
 catbird
 catbirds
-catboat
 catboats
 catbrier
 chlamydobacteriaceous
@@ -9493,6 +9492,7 @@ checkerboarding
 checkerboards
 checkerbreast
 checkered
+catboat
 checkery
 checkering
 checkerist

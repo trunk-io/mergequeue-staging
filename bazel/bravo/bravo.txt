@@ -529,7 +529,6 @@ backstays
 backstamp
 backster
 backstick
-backstitch
 backstitched
 backstitches
 backstitching
@@ -13520,6 +13519,7 @@ bouleversement
 boulework
 boulimia
 boulle
+backstitch
 boulles
 boullework
 boult
