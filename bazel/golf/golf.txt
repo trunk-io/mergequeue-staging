@@ -1658,7 +1658,6 @@ gasteria
 gasterolichenes
 gasteromycete
 gasteromycetes
-gasteromycetous
 gypsoplast
 geomorphologist
 gasteropoda
@@ -3911,6 +3910,7 @@ gibleh
 giblet
 giblets
 gypsophily
+gasteromycetous
 giboia
 gibraltar
 gibs
