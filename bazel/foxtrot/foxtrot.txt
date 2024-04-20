@@ -4932,7 +4932,6 @@ flameless
 flamelike
 flamen
 factionary
-flamenco
 fooless
 flamencos
 flamens
@@ -9224,6 +9223,7 @@ fract
 fractable
 fractabling
 fouls
+flamenco
 fractal
 fractals
 fracticipita

@@ -4879,7 +4879,6 @@ demonopolize
 demonry
 divines
 demonship
-demonstrability
 demonstrable
 demonstrableness
 demonstrably
@@ -15863,6 +15862,7 @@ doruck
 dos
 dosa
 dosadh
+demonstrability
 dosage
 dosages
 dosain
