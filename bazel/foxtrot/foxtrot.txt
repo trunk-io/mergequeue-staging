@@ -1479,7 +1479,6 @@ faucals
 faucet
 faucets
 flirter
-fuchsine
 fauchard
 fauchards
 fen
@@ -7707,6 +7706,7 @@ forefigure
 forefin
 forefinger
 forefingers
+fuchsine
 forefit
 foreflank
 foreflap
