@@ -5859,7 +5859,6 @@ forgeries
 floatiest
 floatiness
 floatingly
-floative
 floatless
 floatmaker
 floatman
@@ -9022,6 +9021,7 @@ foundrous
 founds
 fount
 fountain
+floative
 fountained
 fountaineer
 fountainhead
