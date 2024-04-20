@@ -15025,7 +15025,6 @@ anticonformist
 anticonformity
 anticonformities
 anticonscience
-anticonscription
 anticonscriptive
 ancestrial
 anticonservatism
@@ -22741,6 +22740,7 @@ atomization
 atomize
 atomized
 atomizer
+anticonscription
 antiheterolysin
 atomizers
 atomizing
