@@ -5842,6 +5842,7 @@ flench
 fload
 float
 floatability
+fullage
 forethoughtless
 floatage
 floatages
@@ -10909,7 +10910,6 @@ fulimart
 fulk
 full
 flaxbird
-fullage
 fullam
 fullams
 fullbacks
