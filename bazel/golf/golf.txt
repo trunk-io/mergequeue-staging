@@ -8033,7 +8033,6 @@ granitization
 granitize
 granitized
 granitizing
-granitoid
 granivore
 granivorous
 granjeno
@@ -8587,6 +8586,7 @@ glenwood
 goods
 grece
 gulas
+granitoid
 grecians
 grecism
 golgotha
