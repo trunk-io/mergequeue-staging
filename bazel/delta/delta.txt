@@ -7226,7 +7226,6 @@ determents
 determinable
 determinableness
 diminished
-determinably
 determinacy
 determinant
 determinantal
@@ -16196,6 +16195,7 @@ dovish
 dunches
 dovishness
 dow
+determinably
 drubble
 dowable
 dowage
