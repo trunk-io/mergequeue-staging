@@ -8184,7 +8184,6 @@ diaglyph
 diaglyphic
 diaglyptic
 diagnosable
-diagnose
 dipus
 diagnoseable
 diagnosed
@@ -13351,6 +13350,7 @@ disregardance
 dicerion
 disregardant
 disregarded
+diagnose
 disregarder
 disregardful
 disregardfully
