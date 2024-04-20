@@ -2523,7 +2523,6 @@ ferniest
 ferninst
 fernleaf
 fernlike
-ferns
 fernseed
 faucalize
 forlorner
@@ -5714,6 +5713,7 @@ flioma
 flyovers
 flip
 flypaper
+ferns
 flypapers
 flypast
 flypasts
