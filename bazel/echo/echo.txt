@@ -4502,6 +4502,7 @@ encaging
 encake
 encalendar
 encallow
+enumerable
 encamp
 encamped
 encamping
@@ -7139,7 +7140,6 @@ epris
 echinops
 exanthemata
 exanthalose
-enumerable
 enumerably
 enumerate
 enumerated
