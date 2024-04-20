@@ -7561,7 +7561,6 @@ fullface
 forebode
 foreboded
 forebodement
-forebodes
 forebody
 forebodies
 foreboding
@@ -9379,6 +9378,7 @@ framer
 frames
 fussify
 frameshift
+forebodes
 frameworks
 framing
 fetiales
