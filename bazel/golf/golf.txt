@@ -477,7 +477,6 @@ galera
 galere
 galeres
 galericulate
-galerie
 galerite
 galerum
 galerus
@@ -8181,6 +8180,7 @@ graphitizable
 galaxian
 graphitization
 graphitize
+galerie
 graphitized
 gallophobia
 gynecotelic
