@@ -7632,7 +7632,6 @@ epicede
 epicedia
 epicedial
 epicedian
-epicedium
 eduardo
 epicele
 epicene
@@ -13109,6 +13108,7 @@ expertly
 electrooptics
 expertness
 enfeature
+epicedium
 expertship
 expetible
 expy

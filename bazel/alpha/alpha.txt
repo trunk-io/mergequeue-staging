@@ -10428,7 +10428,6 @@ amidols
 amidomyelin
 amidon
 amydon
-amidone
 amidophenol
 amidophosphoric
 amidoplast
@@ -13344,6 +13343,7 @@ anisometropic
 anisomyarian
 anisomyodi
 anisomyodian
+amidone
 anisomyodous
 anisopetalous
 anisophyllous
