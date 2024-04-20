@@ -13250,7 +13250,6 @@ anabranch
 anymore
 animose
 animoseness
-animosity
 animosities
 animoso
 animotheism
@@ -16889,6 +16888,7 @@ aphonic
 aphonics
 aphonous
 aphorise
+animosity
 aristarch
 aphorised
 aphorises
