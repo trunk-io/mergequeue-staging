@@ -7309,6 +7309,7 @@ betaines
 betake
 betaken
 betakes
+byzantine
 betaking
 betalk
 betallow
@@ -9987,7 +9988,6 @@ bixin
 biz
 byzant
 byzantian
-byzantine
 byzantinesque
 byzantinize
 byzantium
