@@ -4145,6 +4145,7 @@ beard
 bearded
 beardedness
 bearder
+brassidic
 beardfish
 beardfishes
 beardy
@@ -14606,7 +14607,6 @@ brassica
 brassicaceae
 brassicaceous
 brassicas
-brassidic
 blighter
 brassie
 brassier
