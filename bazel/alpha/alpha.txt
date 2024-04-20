@@ -5755,7 +5755,6 @@ afterthoughts
 afterthrift
 aftertime
 aftertimes
-aftertouch
 aftertreatment
 apastron
 aftertrial
@@ -11897,6 +11896,7 @@ anaphyte
 anaphora
 anaphoral
 anaphoras
+aftertouch
 anaphoria
 anaphorical
 anaphorically
