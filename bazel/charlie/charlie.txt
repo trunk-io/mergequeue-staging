@@ -6576,6 +6576,7 @@ ceyssatite
 ceyx
 ceja
 celadon
+copters
 celadonite
 celadons
 celaeno
@@ -24755,7 +24756,6 @@ copsing
 copsole
 copt
 copter
-copters
 coptic
 coptine
 coptis
