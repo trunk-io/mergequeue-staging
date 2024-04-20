@@ -11800,7 +11800,6 @@ exaltment
 exalts
 exam
 examen
-evacuate
 examens
 exameter
 examinability
@@ -13063,6 +13062,7 @@ experiencible
 experiencing
 experient
 experiential
+evacuate
 egressive
 embedding
 experientialism
