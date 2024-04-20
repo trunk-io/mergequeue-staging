@@ -9210,7 +9210,6 @@ erythrophyllin
 erythrophleine
 erythrophobia
 erythropia
-erythroplastid
 erythropoiesis
 erythropoietic
 entwining
@@ -13612,6 +13611,7 @@ exteriorly
 exteriorness
 exterminable
 exterminate
+erythroplastid
 exterminated
 exterminates
 exterminating
