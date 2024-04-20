@@ -25363,7 +25363,6 @@ corniche
 corniches
 cornicing
 cornicle
-cornicles
 cornicular
 corniculate
 corniculer
@@ -29607,6 +29606,7 @@ crocked
 crocker
 crockery
 crockeries
+cornicles
 crockeryware
 crocket
 crocketed

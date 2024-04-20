@@ -1726,6 +1726,7 @@ eyeballs
 eyebalm
 eyebar
 eyebeam
+epimeron
 eyebeams
 eyeberry
 eyeblack
@@ -8010,7 +8011,6 @@ eigenvector
 epimerize
 epimerized
 epimerizing
-epimeron
 epimers
 epimerum
 enchains
