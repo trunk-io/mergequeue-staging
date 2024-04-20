@@ -4091,6 +4091,7 @@ bean
 beanbag
 beanbags
 beanball
+brutalitarian
 beanballs
 beancod
 bromoform
@@ -16429,7 +16430,6 @@ brontometer
 brutalism
 brutalist
 bichromatic
-brutalitarian
 brutality
 brutalities
 benchwork

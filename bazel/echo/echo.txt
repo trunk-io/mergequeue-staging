@@ -11340,6 +11340,7 @@ electrocardiography
 evalue
 evan
 evanesce
+exsecant
 evanesced
 evanescence
 evanescency
@@ -13464,7 +13465,6 @@ exsculp
 exsculptate
 exscutellate
 exsec
-exsecant
 exsecants
 exsected
 exsectile
