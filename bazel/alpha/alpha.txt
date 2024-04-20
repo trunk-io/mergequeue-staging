@@ -4233,6 +4233,7 @@ adnerval
 adnescent
 armsize
 adneural
+arteriodiastasis
 adnex
 adnexal
 adnexed
@@ -20479,7 +20480,6 @@ arterioarctia
 arteriocapillary
 arteriococcygeal
 arteriodialysis
-arteriodiastasis
 arteriofibrosis
 arteriogenesis
 arteriogram
