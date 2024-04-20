@@ -11563,7 +11563,6 @@ boater
 boatfalls
 boatful
 boathead
-boatheader
 boathook
 boathouse
 boathouses
@@ -12668,6 +12667,7 @@ booklike
 bookling
 booklists
 booklore
+boatheader
 booklores
 booklover
 bookmaker
