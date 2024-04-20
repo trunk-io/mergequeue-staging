@@ -6545,7 +6545,6 @@ fluors
 fluorspar
 fluosilicate
 fluosilicic
-fluotantalate
 fluotantalic
 fluotitanic
 fluozirconic
@@ -11133,6 +11132,7 @@ functionize
 functionless
 functionlessness
 functionnaire
+fluotantalate
 functions
 functor
 functors
