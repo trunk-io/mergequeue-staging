@@ -2382,7 +2382,6 @@ gruppetto
 gelatinizer
 gelatinizing
 gallanting
-gelatinobromide
 gelatinoid
 gelatinous
 gelatins
@@ -10154,6 +10153,7 @@ guidelines
 guidepost
 guideposts
 gastrulate
+gelatinobromide
 gibli
 guiders
 guidership

@@ -21838,7 +21838,6 @@ asslike
 assman
 assmannshauser
 assmanship
-assobre
 associability
 associableness
 associated
@@ -23609,6 +23608,7 @@ auroras
 aurore
 aurorean
 aurorian
+assobre
 aurorium
 aurotellurite
 aurothiosulphate
