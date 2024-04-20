@@ -1181,7 +1181,6 @@ bakatan
 bake
 bakeboard
 baked
-bakehead
 bakehouse
 bakehouses
 bakelite
@@ -1860,6 +1859,7 @@ banchi
 banco
 bancos
 bancus
+bakehead
 band
 bandage
 bandaged

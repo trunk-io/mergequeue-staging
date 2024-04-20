@@ -14116,7 +14116,6 @@ antecell
 antecessor
 antechamber
 anelastic
-antechambers
 antechapel
 antechinomys
 antechoirs
@@ -24855,6 +24854,7 @@ avoue
 avour
 avourneen
 avouter
+antechambers
 avoutry
 avow
 avowable
