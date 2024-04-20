@@ -4044,6 +4044,7 @@ emoting
 emotiometabolic
 emotiomotor
 emotiomuscular
+enciente
 emotion
 emotionable
 emotional
@@ -4756,7 +4757,6 @@ encyclopedical
 encyclopedically
 encyclopedism
 encyclopedist
-enciente
 encina
 encinal
 encinas
