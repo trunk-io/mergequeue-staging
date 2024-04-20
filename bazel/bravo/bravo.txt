@@ -6873,7 +6873,6 @@ besaint
 besan
 besanctify
 besand
-besant
 besauce
 bescab
 bescarf
@@ -16422,6 +16421,7 @@ brutal
 brutalisation
 brutalise
 brutalised
+besant
 brutalising
 brontometer
 brutalism
