@@ -6353,7 +6353,6 @@ derog
 derogate
 derogated
 derogately
-derogates
 derogating
 derogation
 derogations
@@ -14702,6 +14701,7 @@ docoglossa
 docoglossan
 docoglossate
 disring
+derogates
 docosane
 discophorous
 docosanoic
