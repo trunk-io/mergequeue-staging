@@ -5750,7 +5750,6 @@ globuliform
 globulimeter
 globulin
 globulins
-globulinuria
 globulysis
 globulite
 globulose
@@ -9683,6 +9682,7 @@ goldsmithing
 grum
 grumbled
 grumbler
+globulinuria
 grumbles
 grumblesome
 grumbletonian
