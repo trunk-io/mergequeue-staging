@@ -4478,6 +4478,7 @@ beclothes
 becloud
 beclouded
 beclouding
+belook
 beclouds
 beclout
 beclown
@@ -5894,7 +5895,6 @@ belonite
 belonoid
 belonosphaerite
 bioavailability
-belook
 belord
 belorussian
 belostoma
