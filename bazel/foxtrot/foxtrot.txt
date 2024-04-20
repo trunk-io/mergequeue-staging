@@ -4021,7 +4021,6 @@ fingerlike
 fingerling
 fuliguline
 fingerlings
-fingermark
 fingernail
 firmly
 facadal
@@ -9632,6 +9631,7 @@ frecket
 fenagle
 forcaria
 freckled
+fingermark
 freckledness
 freckleproof
 freckles
