@@ -1380,7 +1380,6 @@ efficaciously
 efficaciousness
 efficience
 efficiency
-efficient
 efficiently
 exhortation
 effie
@@ -3655,6 +3654,7 @@ embrave
 embrawn
 embreach
 embread
+efficient
 embreastment
 embreathe
 embreathement
