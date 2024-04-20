@@ -22,6 +22,7 @@ eagless
 eaglestone
 eaglet
 eaglets
+emenders
 eaglewood
 eagling
 eagrass
@@ -3832,7 +3833,6 @@ emendator
 emendatory
 emended
 emender
-emenders
 emendicate
 embowl
 expansometer
