@@ -8280,7 +8280,6 @@ dialectologist
 dialector
 dialects
 dialed
-dialer
 dialycarpous
 dialin
 dialiness
@@ -14505,6 +14504,7 @@ dix
 digallate
 diastole
 dixain
+dialer
 dixenite
 disculpation
 dixy
