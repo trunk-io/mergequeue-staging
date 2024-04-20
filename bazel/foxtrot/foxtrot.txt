@@ -6925,7 +6925,6 @@ frowzy
 foldouts
 folds
 foldskirt
-foldstool
 foldure
 foldwards
 freelage
@@ -11272,6 +11271,7 @@ funmaker
 funmaking
 funned
 funnel
+foldstool
 funneled
 funnelform
 funneling
