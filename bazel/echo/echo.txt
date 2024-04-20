@@ -539,6 +539,7 @@ echevin
 echidna
 echidnae
 echidnas
+eggcrate
 echidnidae
 evocate
 echimys
@@ -1539,7 +1540,6 @@ eggars
 eggbeater
 eggbeaters
 eggberry
-eggcrate
 eggcup
 eggcups
 eggeater
