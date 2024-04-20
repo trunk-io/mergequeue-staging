@@ -8593,6 +8593,7 @@ allegory
 aglyphodontia
 allegoric
 allegorical
+aminovaleric
 allegorically
 allegoricalness
 allegories
@@ -19873,7 +19874,6 @@ armamentarium
 armangite
 armary
 armaria
-aminovaleric
 armarian
 armaries
 armariolum

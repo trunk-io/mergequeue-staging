@@ -4871,7 +4871,6 @@ demonomist
 demonophobia
 demonopolize
 demonry
-demons
 divines
 demonship
 demonstrability
@@ -11330,6 +11329,7 @@ dyschroa
 dyschroia
 dyschromatopsia
 dyschromatoptic
+demons
 dyschronous
 dischurch
 disci
