@@ -1246,7 +1246,6 @@ datiscin
 datiscosid
 datiscoside
 datisi
-datism
 dative
 datively
 datives
@@ -17883,6 +17882,7 @@ dueness
 duenesses
 duenna
 duennadom
+datism
 duennas
 duennaship
 duer
