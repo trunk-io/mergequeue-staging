@@ -5773,7 +5773,6 @@ catface
 catfaced
 catfacing
 catfall
-catfalls
 catfight
 creeled
 catfish
@@ -26995,6 +26994,7 @@ counterplea
 counterplead
 counterpleading
 counterplease
+catfalls
 counterplot
 counterplotted
 counterplotting
