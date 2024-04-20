@@ -1283,7 +1283,6 @@ garawi
 guidage
 gonochorismus
 garb
-garbage
 gastrulated
 garbages
 garbanzo
@@ -9590,6 +9589,7 @@ growthless
 growths
 guacico
 gospodipoda
+garbage
 growze
 grozart
 grozer

@@ -9693,6 +9693,7 @@ alveolotomy
 alveolus
 alveus
 alvia
+arenaria
 alviducous
 alvin
 alvina
@@ -19344,7 +19345,6 @@ aren
 arena
 arenaceous
 arenae
-arenaria
 arenariae
 arenas
 arenation
