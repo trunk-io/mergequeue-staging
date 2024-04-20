@@ -4763,7 +4763,6 @@ extroverted
 ethnobotanical
 encipher
 enciphered
-encipherer
 enciphering
 encipherment
 encipherments
@@ -8350,6 +8349,7 @@ eschynite
 epithalamic
 epithalamium
 epithalamiumia
+encipherer
 epithalamiums
 epithalamize
 eurhodine
