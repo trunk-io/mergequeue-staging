@@ -1881,7 +1881,6 @@ aceacenaphthene
 aceanthrene
 aceanthrenequinone
 acecaffin
-acecaffine
 aceconitic
 aced
 acedy
@@ -2021,6 +2020,7 @@ acetary
 acetarious
 acetars
 acetate
+acecaffine
 acetated
 acetates
 acetation
