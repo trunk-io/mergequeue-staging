@@ -6263,6 +6263,7 @@ enquarter
 enqueue
 enqueued
 enqueues
+exopterygota
 enquire
 eten
 enquired
@@ -12759,7 +12760,6 @@ exophthalmus
 exoplasm
 exopod
 exopoditic
-exopterygota
 exopterygote
 exopterygotism
 exopterygotous
