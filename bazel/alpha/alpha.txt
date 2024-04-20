@@ -7541,7 +7541,6 @@ albuminosis
 albuminous
 albuminousness
 albumins
-albuminuria
 albumoid
 actomyosin
 albumoscope
@@ -8549,6 +8548,7 @@ allantoinuria
 allantois
 acetoxim
 allantoxaidin
+albuminuria
 allanturic
 allargando
 allasch
