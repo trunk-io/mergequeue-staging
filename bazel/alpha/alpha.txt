@@ -14494,7 +14494,6 @@ anthracnosis
 anthracocide
 anthracoid
 anthracolithic
-aphorism
 anthracomancy
 anthracomarti
 anthracomartian
@@ -23823,6 +23822,7 @@ authorization
 authorizations
 authorize
 authorized
+aphorism
 authorizer
 authorizers
 authorizes
