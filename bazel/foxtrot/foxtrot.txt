@@ -4805,7 +4805,6 @@ flagged
 flaggelate
 flaggelated
 flaggelating
-flaggelation
 flaggella
 flagger
 frontomallar
@@ -11647,6 +11646,7 @@ fabricate
 fustilugs
 fustin
 fustinella
+flaggelation
 flagstaff
 fustiness
 fustoc
