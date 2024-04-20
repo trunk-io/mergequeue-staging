@@ -3978,6 +3978,7 @@ emissivity
 emissory
 emittance
 emitted
+entreaty
 emittent
 emitter
 emitting
@@ -7372,7 +7373,6 @@ eosaurus
 eoside
 eosin
 eosinate
-entreaty
 eosine
 eosines
 eosinic
