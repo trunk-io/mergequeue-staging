@@ -2011,6 +2011,7 @@ campground
 campgrounds
 camphane
 cephalomenia
+congenite
 camphanic
 camphanone
 camphene
@@ -22224,7 +22225,6 @@ congenital
 congenitally
 censuring
 congenitalness
-congenite
 congeon
 conger
 congeree
