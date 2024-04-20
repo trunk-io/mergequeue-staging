@@ -599,6 +599,7 @@ damasks
 damasse
 dolcinist
 damassin
+dup
 damboard
 dambonite
 dambonitol
@@ -18344,7 +18345,6 @@ duotones
 duotriacontane
 duotriode
 duoviri
-dup
 dupability
 dupable
 dupatta

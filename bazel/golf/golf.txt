@@ -1315,7 +1315,6 @@ garbure
 garish
 garce
 grallina
-garcinia
 garcon
 gardbrace
 garde
@@ -8521,6 +8520,7 @@ grazed
 grazer
 gradus
 grazers
+garcinia
 gimbaljawed
 grazes
 gallimatia
