@@ -3518,6 +3518,7 @@ carangids
 cooking
 carangin
 carangoid
+chondral
 carangus
 caranna
 caranx
@@ -11679,7 +11680,6 @@ chomps
 commissionary
 chon
 chonchina
-chondral
 chondralgia
 chondrarsenite
 chondre

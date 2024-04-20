@@ -1628,7 +1628,6 @@ deamidization
 deamidize
 deaminase
 deaminate
-deaminated
 decalescent
 deaminating
 durango
@@ -3828,6 +3827,7 @@ deinosauria
 deinotherium
 deinstitutionalization
 demagnetizable
+deaminated
 deinsularize
 deynt
 deintellectualization
