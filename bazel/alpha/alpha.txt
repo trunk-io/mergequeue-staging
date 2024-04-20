@@ -17598,6 +17598,7 @@ appartement
 appassionata
 appassionatamente
 appassionate
+assign
 appassionato
 appast
 appaume
@@ -21751,7 +21752,6 @@ assiento
 assiette
 assify
 apprehensiveness
-assign
 assignability
 assignable
 assignably
