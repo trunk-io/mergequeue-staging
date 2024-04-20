@@ -10793,7 +10793,6 @@ blickey
 blickeys
 blicky
 betone
-blickie
 blickies
 blier
 bliest
@@ -12798,6 +12797,7 @@ balcony
 boost
 booster
 boosters
+blickie
 boosting
 boosts
 brachigerous
