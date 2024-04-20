@@ -3153,7 +3153,6 @@ fibroglioma
 frying
 fibrohemorrhagic
 farfet
-fibroid
 fibroids
 fibroin
 fibroins
@@ -5882,6 +5881,7 @@ freestyle
 floccosely
 flocculable
 fangas
+fibroid
 fiercly
 flocculated
 flocculating
