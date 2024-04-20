@@ -2432,7 +2432,6 @@ acidimetrically
 acidite
 acidity
 acidities
-acidize
 acidized
 acidizing
 acidly
@@ -10319,6 +10318,7 @@ amerindian
 amerindians
 anatomisable
 agast
+acidize
 amerindic
 amerinds
 amerism
