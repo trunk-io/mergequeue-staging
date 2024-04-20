@@ -11275,7 +11275,6 @@ chloroacetate
 chloroacetic
 chloroacetone
 chloroacetophenone
-chloroamide
 chloroamine
 chloroanaemia
 chloroaurate
@@ -19524,6 +19523,7 @@ coltoria
 coltpixy
 coltpixie
 colts
+chloroamide
 coltsfoot
 coltsfoots
 coltskin

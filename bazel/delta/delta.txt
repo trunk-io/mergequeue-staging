@@ -3805,7 +3805,6 @@ deigned
 deigning
 drouths
 deignous
-deigns
 deyhouse
 dishling
 deil
@@ -8088,6 +8087,7 @@ diarch
 diachylum
 diachyma
 diachoretic
+deigns
 diachrony
 diachronic
 diachronically
