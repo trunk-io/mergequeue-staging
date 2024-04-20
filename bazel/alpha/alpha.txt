@@ -7863,7 +7863,6 @@ alemmal
 alen
 alencon
 alencons
-arrayers
 alenge
 alength
 alentours
@@ -23464,6 +23463,7 @@ auntly
 auntlier
 auntliest
 auntlike
+arrayers
 auntre
 auntrous
 aunts
