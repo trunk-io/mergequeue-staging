@@ -3742,7 +3742,6 @@ adenopathy
 avidous
 adenopharyngeal
 adenopharyngitis
-adenophyma
 adenophlegmon
 adenophora
 acrobates
@@ -19393,6 +19392,7 @@ areopagitic
 areopagitica
 areosystyle
 androgametangium
+adenophyma
 areostyle
 areotectonics
 arere

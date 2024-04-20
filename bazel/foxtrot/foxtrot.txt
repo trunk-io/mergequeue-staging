@@ -5478,7 +5478,6 @@ flerried
 flerrying
 flesh
 fleshbrush
-fleshen
 fogydom
 furlers
 fleshers
@@ -9865,6 +9864,7 @@ frequentage
 frequentation
 foresinger
 frequentative
+fleshen
 frequented
 frequenter
 fishy
