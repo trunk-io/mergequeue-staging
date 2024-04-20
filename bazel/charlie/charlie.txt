@@ -13497,7 +13497,6 @@ cierzos
 cyeses
 cyesiology
 cyesis
-cif
 cig
 cigale
 cigar
@@ -20410,6 +20409,7 @@ compadre
 compadres
 compage
 cinclidae
+cif
 compages
 compaginate
 compagination
