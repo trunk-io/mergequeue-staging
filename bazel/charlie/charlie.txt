@@ -13561,7 +13561,6 @@ cylindrically
 cylindricalness
 cylindricity
 cylindricule
-cylindriform
 cylindrite
 cylindrocellular
 cylindrocephalic
@@ -27008,6 +27007,7 @@ counterpointing
 counterpoints
 counterpoise
 counterpoised
+cylindriform
 counterpoises
 counterpoising
 counterpoison
