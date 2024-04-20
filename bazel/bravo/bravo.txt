@@ -4089,7 +4089,6 @@ beamsman
 beamster
 beamwork
 bean
-beanbag
 beanbags
 beanball
 brutalitarian
@@ -8119,6 +8118,7 @@ bicornuate
 bicornuous
 bicornute
 bicorporal
+beanbag
 bicorporate
 bicorporeal
 bicostate
