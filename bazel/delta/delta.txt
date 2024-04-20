@@ -7384,7 +7384,6 @@ detubation
 detumescence
 detumescent
 detune
-detuned
 detur
 deturb
 deturn
@@ -11874,6 +11873,7 @@ disedge
 disedify
 disedification
 diseducate
+detuned
 disegno
 diselectrify
 diselectrification
