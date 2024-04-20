@@ -5704,7 +5704,6 @@ disposit
 deplenish
 depletable
 deplete
-depleteable
 depleted
 deplethoric
 depleting
@@ -7176,6 +7175,7 @@ detectible
 detecting
 detection
 detections
+depleteable
 detective
 detectives
 detectivism
