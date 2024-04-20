@@ -2417,7 +2417,6 @@ electrogenetic
 electrogenic
 electrogild
 electrogilding
-electrogilt
 electrogram
 electrograph
 endosarc
@@ -10102,6 +10101,7 @@ equationism
 estranger
 estranges
 estranging
+electrogilt
 estrangle
 emulgent
 estre
