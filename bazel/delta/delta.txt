@@ -11847,7 +11847,6 @@ disdainful
 disdainfully
 disdainfulness
 disdaining
-disdainly
 didymus
 disdainous
 disdains
@@ -15954,6 +15953,7 @@ dotingness
 dotish
 dotishness
 dotkin
+disdainly
 drainman
 dotless
 drepanis
