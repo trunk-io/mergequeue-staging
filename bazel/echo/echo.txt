@@ -6741,6 +6741,7 @@ enterotoxin
 enteroviral
 emplastra
 enterovirus
+estates
 ensemble
 enterozoan
 erepsins
@@ -9958,7 +9959,6 @@ estantion
 estate
 episkotister
 estately
-estates
 estatesman
 estatesmen
 estating
