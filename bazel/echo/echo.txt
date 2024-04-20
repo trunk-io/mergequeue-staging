@@ -1323,6 +1323,7 @@ effects
 effectual
 effectuality
 effectually
+extracystic
 effectualness
 effectuate
 effectuated
@@ -13767,7 +13768,6 @@ extracellular
 extracellularly
 extracerebral
 extrachromosomal
-extracystic
 extracivic
 entomologized
 extracivically
