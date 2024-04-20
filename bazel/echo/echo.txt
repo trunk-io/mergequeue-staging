@@ -11611,7 +11611,6 @@ evilnesses
 evilproof
 evils
 estrapade
-evilsayer
 evilspeaker
 evilspeaking
 evilwishing
@@ -13609,6 +13608,7 @@ exteriorizing
 exteriorly
 exteriorness
 exterminable
+evilsayer
 exterminate
 erythroplastid
 exterminated
