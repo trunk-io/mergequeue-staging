@@ -13469,6 +13469,7 @@ disseises
 disseisoress
 disseized
 disseizee
+draggle
 disseizes
 disseizor
 desolations
@@ -16583,7 +16584,6 @@ draggiest
 draggily
 dragginess
 dragging
-draggle
 draggled
 draggles
 draggletail
