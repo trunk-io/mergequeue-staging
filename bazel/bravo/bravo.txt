@@ -819,7 +819,6 @@ badrans
 bads
 besteading
 baduhenna
-bestowage
 bae
 baedeker
 baedekerian
@@ -5511,6 +5510,7 @@ beyship
 beja
 bejabbers
 bejade
+bestowage
 bejan
 bejant
 bejape
