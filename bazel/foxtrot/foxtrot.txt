@@ -7042,7 +7042,6 @@ follows
 fomalhaut
 frontager
 foment
-fomentation
 fomentations
 fomenter
 fomenters
@@ -8863,6 +8862,7 @@ fossane
 fossate
 fosse
 fossed
+fomentation
 fosses
 frayn
 fibromyomatous
