@@ -7426,7 +7426,6 @@ betoss
 betowered
 betrayal
 betrayals
-betrayed
 bequeathment
 betrayer
 betrayers
@@ -14657,6 +14656,7 @@ blackfoot
 brauronian
 brava
 bravade
+betrayed
 bravadoed
 barkle
 bravadoes

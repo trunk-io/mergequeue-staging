@@ -1706,6 +1706,7 @@ deathlessness
 deathlike
 deathlikeness
 deathliness
+disappears
 deathrate
 deathrates
 deathroot
@@ -11044,7 +11045,6 @@ disappearer
 disarticulated
 disappearing
 deedy
-disappears
 disappendancy
 disappendant
 distileries
