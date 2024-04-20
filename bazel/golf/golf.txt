@@ -7791,7 +7791,6 @@ gemmae
 gramary
 gramarye
 gramaries
-gramaryes
 gramas
 grame
 gramercy
@@ -8690,6 +8689,7 @@ greenland
 gangion
 greenlander
 greenlandish
+gramaryes
 greenlandite
 greenlandman
 greenleaf
