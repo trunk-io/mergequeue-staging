@@ -198,7 +198,6 @@ factorist
 factorization
 factorizations
 fluviose
-factorize
 factorized
 factorizing
 factors
@@ -630,6 +629,7 @@ faltere
 filarial
 faltered
 falterer
+factorize
 falterers
 faltering
 foretrysail

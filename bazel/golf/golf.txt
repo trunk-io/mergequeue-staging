@@ -4960,7 +4960,6 @@ gjedost
 gjetost
 gjetosts
 gl
-glabbella
 glabella
 glabellae
 glabellar
@@ -8525,6 +8524,7 @@ grazie
 grazier
 gomuti
 grazierdom
+glabbella
 graziery
 graziers
 grazing
