@@ -2595,6 +2595,7 @@ ferriferous
 ferrihydrocyanic
 ferryhouse
 ferrimagnet
+forewing
 ferrimagnetic
 ferrimagnetically
 ferrimagnetism
@@ -7628,7 +7629,6 @@ flyspecked
 foredefeated
 filthified
 foredefine
-forewing
 foredenounce
 foredescribe
 foredeserved
