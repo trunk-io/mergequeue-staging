@@ -768,7 +768,6 @@ galvanic
 galvanical
 galvanically
 galvanisation
-galvanise
 galvanised
 galvanising
 galvanism
@@ -2172,6 +2171,7 @@ gazetteership
 gazettes
 gazetting
 gazi
+galvanise
 gamb
 gazing
 gazingstock
