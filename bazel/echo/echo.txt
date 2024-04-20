@@ -712,7 +712,6 @@ ecoles
 ecologic
 ecological
 ecologically
-ecologies
 ecologist
 ecologists
 ecomomist
@@ -5264,6 +5263,7 @@ endomorphy
 endomorphic
 endomorphism
 endoneurial
+ecologies
 endoneurium
 endonuclear
 endonuclease
