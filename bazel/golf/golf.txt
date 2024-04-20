@@ -2082,6 +2082,7 @@ gavial
 gavialis
 gnateater
 gavialoid
+goldless
 guanin
 gavials
 greetings
@@ -6645,7 +6646,6 @@ guacin
 goldin
 golding
 goldish
-goldless
 goldlike
 goldminer
 goldonian
