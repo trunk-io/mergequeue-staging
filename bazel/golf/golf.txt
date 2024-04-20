@@ -6588,7 +6588,6 @@ gola
 groundmass
 golach
 golandaas
-golandause
 golaseccan
 golconda
 golcondas
@@ -7273,6 +7272,7 @@ gorsy
 gorsiest
 gorst
 grayware
+golandause
 gortonite
 goschen
 gosh
