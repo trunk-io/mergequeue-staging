@@ -10237,7 +10237,6 @@ fraising
 fritt
 fritted
 fritter
-fritterer
 frittering
 fritters
 friulian
@@ -11744,4 +11743,5 @@ fw
 fwd
 fwelling
 fz
+fritterer
 fish

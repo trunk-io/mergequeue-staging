@@ -1193,7 +1193,6 @@ abv
 abvolt
 abvolts
 anim
-abwab
 abwatt
 abwatts
 ac
@@ -10737,6 +10736,7 @@ ammodytidae
 ammodytoid
 ammonal
 ammonals
+abwab
 ammonate
 ammonation
 ammonea
