@@ -793,7 +793,6 @@ gradations
 galvanomagnetic
 galvanomagnetism
 galvanometer
-galvanometers
 galvanometry
 galvanometric
 geometries
@@ -7088,6 +7087,7 @@ goosefoot
 goosefoots
 goosegirl
 goosegog
+galvanometers
 goosegrass
 gooseherd
 goosehouse

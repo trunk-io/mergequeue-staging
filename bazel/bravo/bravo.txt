@@ -5269,7 +5269,6 @@ begins
 begird
 begirded
 begirding
-begirdle
 begirdling
 begirds
 bathymetrically
@@ -15795,6 +15794,7 @@ bromacetate
 bromacetic
 bromacetone
 bromal
+begirdle
 bromalbumin
 bromals
 bromamide
