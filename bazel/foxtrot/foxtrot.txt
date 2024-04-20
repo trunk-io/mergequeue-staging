@@ -3840,6 +3840,7 @@ fils
 farmy
 fishpond
 filt
+frenatae
 filterability
 filterable
 fauxbourdon
@@ -9816,7 +9817,6 @@ fremt
 fren
 frena
 frenal
-frenatae
 frenate
 french
 frenched
