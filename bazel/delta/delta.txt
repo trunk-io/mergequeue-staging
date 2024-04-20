@@ -8701,7 +8701,6 @@ diatoric
 diatreme
 diatribe
 diatribes
-diatribist
 diatryma
 diatrymiformes
 diatropic
@@ -9170,6 +9169,7 @@ didunculidae
 didunculinae
 didunculus
 didus
+diatribist
 die
 dye
 dyeability
