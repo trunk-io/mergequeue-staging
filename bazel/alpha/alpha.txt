@@ -10853,6 +10853,7 @@ amoebalike
 amoeban
 amoebas
 amoebean
+avoset
 amoebeum
 amoebian
 amoebiasis
@@ -24841,7 +24842,6 @@ avolation
 avolitional
 avondbloem
 avos
-avoset
 avosets
 avouch
 avouchable
