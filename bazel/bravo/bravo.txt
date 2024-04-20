@@ -552,6 +552,7 @@ backstroke
 backstrokes
 backstroking
 backstromite
+belibeling
 backswept
 backswimmer
 backswing
@@ -12059,7 +12060,6 @@ boldfacedly
 boldfacing
 batodendron
 boldhearted
-belibeling
 boldheartedly
 boldheartedness
 boldin
