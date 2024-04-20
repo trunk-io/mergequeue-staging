@@ -3228,6 +3228,7 @@ geoscientists
 gyrostats
 geoscopy
 geoscopic
+guran
 gonopod
 geoselenic
 geosid
@@ -10597,7 +10598,6 @@ guppy
 guileless
 guppies
 guptavidya
-guran
 gurdle
 gurge
 gurged
