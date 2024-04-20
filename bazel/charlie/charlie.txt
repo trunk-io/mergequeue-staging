@@ -27002,7 +27002,6 @@ counterplease
 catfalls
 counterplot
 counterplotted
-counterplotting
 counterpoint
 counterpointe
 counterpointed
@@ -29712,6 +29711,7 @@ crood
 croodle
 crooisite
 crook
+counterplotting
 crookback
 crookbacked
 crookbill

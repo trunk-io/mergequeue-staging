@@ -20112,6 +20112,7 @@ arousal
 arousals
 arouse
 aroused
+adfix
 arousement
 araneiformia
 arouser
@@ -23015,7 +23016,6 @@ attenuation
 attenuations
 attenuative
 attenuator
-adfix
 attenuators
 atter
 attercop
