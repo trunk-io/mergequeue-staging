@@ -4045,7 +4045,6 @@ fingerspin
 fingerstall
 fingerstone
 fumes
-fingertip
 fingerwise
 fingerwork
 fistula
@@ -4769,6 +4768,7 @@ fishman
 flaffer
 flag
 flagarie
+fingertip
 fantasticness
 flagboat
 flagella
