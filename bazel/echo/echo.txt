@@ -8123,7 +8123,6 @@ epiplasm
 epiplasmic
 epiplastral
 epiplastron
-epiplectic
 epipleurae
 epipleural
 epiplexis
@@ -12141,6 +12140,7 @@ excommune
 excommunicable
 excommunicant
 extempory
+epiplectic
 excommunicated
 excommunicating
 excommunication
