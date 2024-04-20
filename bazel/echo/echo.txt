@@ -9280,7 +9280,6 @@ erogate
 erogeneity
 erogenesis
 erogenetic
-erogeny
 erogenic
 erogenous
 eromania
@@ -13478,6 +13477,7 @@ exsects
 exsequatur
 exsert
 exserted
+erogeny
 embolomeri
 exsertile
 exserting
