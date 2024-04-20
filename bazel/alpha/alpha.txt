@@ -3768,7 +3768,6 @@ adenotomic
 adenous
 adenoviral
 adenovirus
-adenoviruses
 adeodatus
 adeona
 adephaga
@@ -12327,6 +12326,7 @@ andine
 anding
 andira
 andirin
+adenoviruses
 andirine
 andiroba
 abashments
