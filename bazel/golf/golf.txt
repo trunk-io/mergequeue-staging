@@ -2197,7 +2197,6 @@ geadephaga
 geadephagous
 geal
 geanticlinal
-geanticline
 geophysicist
 gravigrade
 gear
@@ -2599,6 +2598,7 @@ genealogizer
 genear
 genearch
 geneat
+geanticline
 genecology
 genecologic
 gradienter
