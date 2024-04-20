@@ -5798,6 +5798,7 @@ bellicist
 bellicose
 bellicosely
 bellicoseness
+benchmar
 bellicosity
 bellicosities
 bellied
@@ -6089,7 +6090,6 @@ benchland
 benchless
 benchlet
 benchman
-benchmar
 benchmark
 burnout
 benchmarked

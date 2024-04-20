@@ -3422,6 +3422,7 @@ fieldstone
 fieldstrip
 fieldwork
 fieldworker
+friarhood
 fieldwort
 fiendful
 fiendfully
@@ -9962,7 +9963,6 @@ friable
 friand
 friandise
 friar
-friarhood
 francophobia
 friary
 friarly
