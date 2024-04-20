@@ -861,7 +861,6 @@ bitmap
 bagani
 bagass
 bagasse
-bagasses
 bagataway
 bagatelle
 bruxisms
@@ -5661,6 +5660,7 @@ belemnoid
 bowssen
 boer
 belemnoidea
+bagasses
 beleper
 beletter
 beleve
