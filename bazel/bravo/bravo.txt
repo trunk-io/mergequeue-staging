@@ -1931,7 +1931,6 @@ bandicoy
 bandicoot
 bandicoots
 bandido
-bandidos
 bandie
 bandied
 bandying
@@ -11153,6 +11152,7 @@ blotchily
 blotchiness
 blotching
 blote
+bandidos
 blotless
 blotlessness
 blots
