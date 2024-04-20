@@ -11738,7 +11738,6 @@ aborter
 analgias
 analgic
 analgize
-analysability
 analysands
 analysation
 analyse
@@ -18369,6 +18368,7 @@ arachnidan
 arachnidism
 arachnidium
 arachnids
+analysability
 arachnism
 auroch
 arachnites
