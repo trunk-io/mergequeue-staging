@@ -1440,7 +1440,6 @@ garnished
 garnishee
 garnisheed
 gelatinization
-garnishees
 garnisheing
 garnishes
 garnishment
@@ -8315,6 +8314,7 @@ grassless
 grasslike
 grassman
 gentianic
+garnishees
 grassmen
 grassnut
 grassplat

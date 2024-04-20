@@ -6243,7 +6243,6 @@ benightmare
 benightment
 benign
 benignancy
-benignant
 benignity
 boletic
 benignities
@@ -10229,6 +10228,7 @@ blae
 blaeberry
 blaeberries
 blaeness
+benignant
 blaewort
 blaff
 blaffert
