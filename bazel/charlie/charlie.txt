@@ -3161,7 +3161,6 @@ caponiers
 caponisation
 caponise
 caponised
-caponising
 caponization
 caponize
 caponized
@@ -18865,6 +18864,7 @@ collada
 colladas
 collage
 collagen
+caponising
 collagenase
 collagenic
 collagenous
