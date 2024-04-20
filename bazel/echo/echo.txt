@@ -2611,7 +2611,6 @@ ecophobia
 electroretinographic
 electros
 electroscission
-electroscope
 expensive
 electroscopes
 estramazone
@@ -10045,6 +10044,7 @@ estivate
 estivates
 estivating
 estivation
+electroscope
 exterminations
 estivator
 estive
