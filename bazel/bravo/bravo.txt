@@ -8552,7 +8552,6 @@ biliment
 bilin
 blunderful
 bylina
-byline
 bilinear
 bilineate
 bilineated
@@ -8971,6 +8970,7 @@ bioecologically
 bioecologies
 bioecologist
 bioelectric
+byline
 bioelectrical
 bioelectricity
 bioelectricities
