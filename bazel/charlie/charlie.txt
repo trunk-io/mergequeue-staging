@@ -20782,7 +20782,6 @@ complines
 complins
 complish
 complot
-complotment
 complots
 complotted
 complotter
@@ -29684,6 +29683,7 @@ cromlechs
 cromme
 crommel
 codesigned
+complotment
 cromorne
 cromster
 cromwellian
