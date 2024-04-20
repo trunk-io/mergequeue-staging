@@ -1409,7 +1409,6 @@ garmented
 gunyang
 garmenting
 garmentless
-garmentmaker
 garments
 glutael
 glycollide
@@ -2748,6 +2747,7 @@ genialize
 genially
 glassmaker
 genialness
+garmentmaker
 groves
 genyantrum
 genic
