@@ -2877,6 +2877,7 @@ forbears
 fetlocked
 fetlocks
 fetography
+fumigator
 fetology
 fetologies
 fetometry
@@ -11062,7 +11063,6 @@ fumify
 fumigating
 fourteenfold
 fumigations
-fumigator
 fumigatories
 furzery
 fumigatorium
