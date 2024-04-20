@@ -3385,6 +3385,7 @@ captives
 captiving
 captivities
 captor
+counterdeputation
 captors
 captress
 capturable
@@ -26773,7 +26774,6 @@ counterdemand
 counterdemonstrate
 counterdemonstration
 counterdemonstrator
-counterdeputation
 counterdesire
 counterdevelopment
 counterdifficulty
