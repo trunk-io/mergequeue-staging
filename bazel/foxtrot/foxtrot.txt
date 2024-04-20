@@ -6052,7 +6052,6 @@ florescence
 flutteration
 frontooccipital
 florescent
-floressence
 floret
 floreta
 floreted
@@ -7121,6 +7120,7 @@ food
 fooder
 foodful
 foody
+floressence
 foodless
 foodlessness
 foods
