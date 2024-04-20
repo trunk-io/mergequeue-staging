@@ -3358,7 +3358,6 @@ captandum
 captans
 captate
 captation
-corroboration
 caption
 captioned
 captioning
@@ -29732,6 +29731,7 @@ constellatory
 crookheaded
 crooking
 crookkneed
+corroboration
 crookle
 circule
 crooklegged
