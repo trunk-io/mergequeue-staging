@@ -16180,7 +16180,6 @@ antisepticized
 antisepticizing
 antiseptics
 antiseption
-autolysin
 antiseptize
 antisera
 antiserum
@@ -21064,6 +21063,7 @@ ascrive
 ascula
 asculae
 ascupart
+autolysin
 ascus
 asdic
 asdics
