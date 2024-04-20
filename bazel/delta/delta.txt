@@ -9609,7 +9609,6 @@ dihydrate
 dihydrated
 dihydrazone
 dihydric
-dihydride
 dihydrite
 dihydrocupreine
 dihydrocuprin
@@ -10489,6 +10488,7 @@ diphthongized
 deaner
 display
 diphthongizing
+dihydride
 diphthongous
 diversifoliate
 diphthongs
