@@ -2003,6 +2003,7 @@ acetamidine
 acetamido
 acetamids
 acetaminol
+antimonate
 acetaminophen
 acetanilid
 acetanilide
@@ -15628,7 +15629,6 @@ antimonarchist
 abdicates
 antimonarchistic
 antimonarchists
-antimonate
 antimony
 antimonial
 antimoniated

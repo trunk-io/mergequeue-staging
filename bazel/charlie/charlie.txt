@@ -12727,7 +12727,6 @@ coneighboring
 chuffier
 chuffiest
 chuffily
-chuffiness
 chuffing
 chuffs
 chug
@@ -18708,6 +18707,7 @@ coldly
 coldness
 coldnesses
 coldong
+chuffiness
 coldproof
 colds
 coldslaw
