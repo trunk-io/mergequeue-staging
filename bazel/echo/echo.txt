@@ -1746,7 +1746,6 @@ eyedrop
 eyedropper
 eyedropperful
 eyeflap
-eyefuls
 entwined
 eyeglance
 eyeglass
@@ -7538,6 +7537,7 @@ ephemerid
 ephemerida
 ephemeridae
 ephemerides
+eyefuls
 ephemeris
 elaterium
 ephemerist

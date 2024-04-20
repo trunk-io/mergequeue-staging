@@ -8250,7 +8250,6 @@ biffies
 balloonfish
 biffin
 biffs
-bifid
 bifidate
 bifidated
 bifidity
@@ -13355,6 +13354,7 @@ biquadratic
 botryomycosis
 botryomycotic
 botryopteriaceae
+bifid
 botryopterid
 botryopteris
 botryose
