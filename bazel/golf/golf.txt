@@ -1571,7 +1571,6 @@ gasification
 gasified
 gasifier
 gasifiers
-gasifies
 gasifying
 gasiform
 gasket
@@ -4419,6 +4418,7 @@ gynecopathy
 gynecopathic
 gynecophoric
 gynecophorous
+gasifies
 gyneocracy
 gyneolater
 gyneolatry
