@@ -11965,7 +11965,6 @@ anareta
 anaretic
 astrocompass
 anaretical
-anargyroi
 anargyros
 anarya
 anaryan
@@ -23666,6 +23665,7 @@ austenite
 austenitic
 austenitize
 austenitizing
+anargyroi
 auster
 austere
 austerely
