@@ -7711,7 +7711,6 @@ dated
 devolatilization
 devolatilize
 depeople
-devolatilized
 devolatilizing
 devolute
 devolution
@@ -15886,6 +15885,7 @@ dosiology
 dosis
 dositheans
 dosology
+devolatilized
 doss
 dossal
 degression
