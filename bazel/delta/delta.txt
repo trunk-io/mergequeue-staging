@@ -3701,7 +3701,6 @@ dehydrochlorinate
 dehydrochlorination
 dehydrocorydaline
 dehydrocorticosterone
-dehydroffroze
 dehydroffrozen
 dehydrofreeze
 dehydrofreezing
@@ -14249,6 +14248,7 @@ divagational
 divagationally
 divagations
 divagatory
+dehydroffroze
 divalence
 divalent
 divan
