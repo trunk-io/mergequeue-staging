@@ -6926,6 +6926,7 @@ freelage
 foreplanting
 fole
 foleye
+fructiparous
 folgerite
 folia
 foliaceous
@@ -9957,7 +9958,6 @@ freudist
 fry
 friable
 friand
-fructiparous
 friandise
 friar
 friarhood
