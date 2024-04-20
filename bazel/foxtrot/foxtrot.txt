@@ -779,6 +779,7 @@ fanegas
 fanes
 fanfarade
 feudalizable
+fleck
 fanfare
 fanfares
 fellowlike
@@ -5359,7 +5360,6 @@ fleche
 foreknew
 flechette
 flechettes
-fleck
 flecked
 flecken
 flecker
