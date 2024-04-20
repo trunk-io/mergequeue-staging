@@ -5398,7 +5398,6 @@ glenoid
 glenoidal
 glens
 glent
-glenwood
 glessite
 glew
 gliadin
@@ -8588,6 +8587,7 @@ grebes
 guisards
 grebo
 grecale
+glenwood
 goods
 grece
 gulas
