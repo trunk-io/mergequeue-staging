@@ -2717,6 +2717,7 @@ acquest
 acquests
 acquiesce
 acquiesced
+approximativeness
 acquiescement
 acquiescence
 acquiescency
@@ -18039,7 +18040,6 @@ application
 amucks
 approximative
 approximatively
-approximativeness
 approximator
 appt
 apptd
