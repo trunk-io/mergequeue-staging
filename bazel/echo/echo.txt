@@ -4512,7 +4512,6 @@ encamped
 encamping
 encampment
 encampments
-encamps
 endoparasite
 encanker
 encanthis
@@ -7161,6 +7160,7 @@ enunciations
 enchannel
 enunciative
 enunciatively
+encamps
 eradiates
 enunciator
 enunciatory
