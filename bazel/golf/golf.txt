@@ -2144,6 +2144,7 @@ gazania
 gaze
 gazebo
 gazeboes
+glimpse
 gazebos
 gazed
 gazee
@@ -3353,7 +3354,6 @@ geriatrist
 gerygone
 gerim
 geryon
-glimpse
 geryonia
 geryonid
 geryoniidae
