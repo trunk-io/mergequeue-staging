@@ -979,6 +979,7 @@ fardage
 freesia
 farde
 farded
+foldure
 frequence
 fardel
 fiver
@@ -6926,7 +6927,6 @@ foldouts
 folds
 foldskirt
 foldstool
-foldure
 foldwards
 freelage
 foreplanting
