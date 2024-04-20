@@ -899,7 +899,6 @@ gamdia
 gamebag
 gameball
 gauby
-gamecock
 gamecocks
 gamecraft
 gamed
@@ -8387,6 +8386,7 @@ gratuitous
 gibbously
 gratuitously
 gratuitousness
+gamecock
 gratulant
 gratulate
 glauconitization
