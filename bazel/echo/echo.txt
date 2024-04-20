@@ -2175,6 +2175,7 @@ elcaja
 elchee
 eld
 elder
+entomostraca
 elderberries
 enhancer
 emissitious
@@ -6946,7 +6947,6 @@ entomophthorales
 elixirs
 entomophthorous
 entomosporium
-entomostraca
 entomostracan
 entomostracous
 enravishing
