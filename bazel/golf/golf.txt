@@ -119,7 +119,6 @@ gadis
 gaditan
 gadite
 gadman
-gadoid
 gadoids
 gyroscopically
 gadolinia
@@ -3069,6 +3068,7 @@ geohydrologic
 geoid
 geoidal
 geoids
+gadoid
 geoisotherm
 geol
 geolatry
