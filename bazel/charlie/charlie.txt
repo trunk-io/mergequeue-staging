@@ -9060,7 +9060,6 @@ charmel
 charmer
 charmers
 charmeuse
-charmful
 charmfully
 charmfulness
 charming
@@ -19686,6 +19685,7 @@ combflower
 comby
 combinability
 combinable
+charmful
 combinableness
 collectability
 combinably

@@ -2151,7 +2151,6 @@ gallycrow
 gazel
 gazeless
 gazella
-gazelle
 gazellelike
 gazelles
 gazelline
@@ -5582,6 +5581,7 @@ gliomas
 gliomatous
 gliosa
 glyoxal
+gazelle
 glyoxalase
 glyoxalic
 gandharva
