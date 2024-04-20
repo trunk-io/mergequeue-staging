@@ -5972,7 +5972,6 @@ depulse
 depurate
 depurated
 depurating
-damoisel
 depuration
 depurative
 depurator
@@ -7799,6 +7798,7 @@ dewans
 dewar
 dewata
 dewatered
+damoisel
 dewaters
 desmocyte
 dewax
