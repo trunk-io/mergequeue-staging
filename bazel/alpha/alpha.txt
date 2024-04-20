@@ -4676,7 +4676,6 @@ advice
 adviceful
 advices
 advisability
-advisable
 advisableness
 advisably
 advisal
@@ -5764,6 +5763,7 @@ aftertimes
 aftertreatment
 apastron
 aftertrial
+advisable
 afterturn
 aftervision
 afterwale
