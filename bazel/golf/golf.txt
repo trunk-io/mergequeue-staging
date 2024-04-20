@@ -1556,6 +1556,7 @@ gasfiring
 gash
 giraffe
 gashed
+grasses
 gasher
 gashes
 gashy
@@ -8272,7 +8273,6 @@ grasser
 grasserie
 gregarianism
 grassers
-grasses
 grasset
 grassfinch
 grassfire
