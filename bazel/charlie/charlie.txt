@@ -10613,6 +10613,7 @@ chilver
 chimachima
 chimaera
 chimaeras
+cytoid
 chimaerid
 chimaeroid
 chimaeroidei
@@ -14903,7 +14904,6 @@ cytogenous
 cytoglobin
 cytoglobulin
 cytohyaloplasm
-cytoid
 citoyen
 castigable
 commiserate
