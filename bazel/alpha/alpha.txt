@@ -760,6 +760,7 @@ aboveproof
 aboves
 abovesaid
 abovestairs
+asinegoes
 abow
 abox
 abracadabra
@@ -21262,7 +21263,6 @@ asyndetically
 asyndeton
 asyndetons
 asinego
-asinegoes
 asynergy
 asynergia
 asyngamy
