@@ -12452,7 +12452,6 @@ bonfires
 bongar
 bonged
 bonging
-bongo
 bowedness
 bongoes
 bongoist
@@ -15811,6 +15810,7 @@ bromelia
 bromeliaceae
 bromeliaceous
 bromeliad
+bongo
 bromelin
 bromelins
 bromellite
