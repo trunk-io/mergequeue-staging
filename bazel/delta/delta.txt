@@ -6762,7 +6762,6 @@ desmids
 dampang
 desmine
 desmitis
-desmocytoma
 desmodactyli
 desmodynia
 desmodont
@@ -16343,6 +16342,7 @@ downrush
 downset
 downshare
 downshift
+desmocytoma
 downshifted
 degradability
 downshifting
