@@ -853,7 +853,6 @@ gambeering
 gambelli
 gyrectomy
 gambes
-gambeson
 gambetta
 gambette
 gambia
@@ -6133,6 +6132,7 @@ glues
 glug
 gravegarth
 gluhwein
+gambeson
 gluier
 gluily
 gluiness

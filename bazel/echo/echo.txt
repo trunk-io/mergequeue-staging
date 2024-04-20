@@ -503,7 +503,6 @@ ecdyses
 ecdysial
 ecdysiast
 ecdysis
-ecdyson
 ethnographies
 ecdysone
 empoisoning
@@ -1195,6 +1194,7 @@ educated
 educatedly
 educatedness
 educates
+ecdyson
 educating
 education
 educationable
