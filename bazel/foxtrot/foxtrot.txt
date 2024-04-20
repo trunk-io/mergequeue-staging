@@ -4146,6 +4146,7 @@ finochio
 finochios
 fins
 finspot
+fregatidae
 fintadores
 ferth
 fionnuala
@@ -9779,7 +9780,6 @@ freezing
 freezingly
 fregata
 fortitude
-fregatidae
 fregit
 freya
 freyalite
