@@ -7719,7 +7719,6 @@ aldehydase
 aldehyde
 aldehydes
 anchorage
-aldehydic
 aldehydine
 aldehydrol
 ameliorator
@@ -17382,6 +17381,7 @@ aposafranine
 aposaturn
 aposaturnium
 aposelene
+aldehydic
 aposematic
 aposematically
 admittee
