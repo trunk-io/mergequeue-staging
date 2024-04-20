@@ -9789,6 +9789,7 @@ dilo
 decantherous
 dilogarithm
 dilations
+dotages
 dilogical
 dilos
 dilucid
@@ -15917,7 +15918,6 @@ dost
 dostoevsky
 dot
 dotage
-dotages
 doubleword
 dotal
 dotard
