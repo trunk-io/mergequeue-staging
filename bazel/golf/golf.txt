@@ -2403,7 +2403,6 @@ gelding
 geldings
 gelds
 gelechia
-gelechiidae
 gelee
 geleem
 geophila
@@ -3696,6 +3695,7 @@ ghazal
 ghazel
 ghazi
 ghazis
+gelechiidae
 ghazism
 ghaznevid
 ghbor
