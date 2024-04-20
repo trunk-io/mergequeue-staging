@@ -8656,7 +8656,6 @@ allentiac
 allentiacan
 aller
 allergen
-allergenic
 allergenicity
 allergy
 allergia
@@ -23948,6 +23947,7 @@ autocoids
 autocollimate
 autocollimation
 autocollimator
+allergenic
 abscess
 autocollimators
 autocolony
