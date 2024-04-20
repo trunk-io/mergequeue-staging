@@ -8855,7 +8855,6 @@ binmen
 binna
 binnacle
 binnacles
-binned
 binny
 binnite
 binnogue
@@ -8873,6 +8872,7 @@ binodous
 binomen
 binomenclature
 binomy
+binned
 binomialism
 binomially
 binomials

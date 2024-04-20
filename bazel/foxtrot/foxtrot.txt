@@ -3646,7 +3646,6 @@ fileting
 filets
 fiercest
 fylfot
-fylfots
 fylgjur
 fili
 filial
@@ -10125,6 +10124,7 @@ finicality
 frilled
 fibrofatty
 frillers
+fylfots
 federalised
 frilly
 frilliest
