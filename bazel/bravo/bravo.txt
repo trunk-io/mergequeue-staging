@@ -618,7 +618,6 @@ bacony
 baconian
 baconianism
 baconic
-baconism
 baconist
 baconize
 bacons
@@ -4521,6 +4520,7 @@ becrawling
 becreep
 becry
 becrime
+baconism
 becrimed
 brasqued
 becrimes
