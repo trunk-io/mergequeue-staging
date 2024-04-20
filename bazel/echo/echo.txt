@@ -6918,7 +6918,6 @@ entombs
 entomere
 entomic
 entomical
-entomion
 entomogenous
 entomol
 entomolegist
@@ -13828,6 +13827,7 @@ extraditing
 extradition
 extradomestic
 evenfalls
+entomion
 extradosed
 extradoses
 extraduction
