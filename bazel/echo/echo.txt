@@ -4462,7 +4462,6 @@ enantiosis
 enantiotropy
 enantiotropic
 enantobiosis
-eyeshot
 enapt
 enarbor
 enarbour
@@ -6575,6 +6574,7 @@ entanglement
 entanglements
 entangler
 entanglers
+eyeshot
 entangles
 entangling
 entanglingly
