@@ -1544,7 +1544,6 @@ balldress
 baller
 ballerina
 ballerinas
-bibber
 ballerine
 ballers
 ballet
@@ -4369,6 +4368,7 @@ bebreech
 bebrine
 bebrother
 bebrush
+bibber
 bidactyle
 bebump
 bebusy
