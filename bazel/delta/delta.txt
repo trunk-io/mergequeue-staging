@@ -10789,6 +10789,7 @@ directexamination
 directing
 direction
 directional
+discarding
 drain
 directionality
 directionalize
@@ -11263,7 +11264,6 @@ discard
 discardable
 discarded
 drainageway
-discarding
 discardment
 discards
 dispensing
