@@ -2236,7 +2236,6 @@ electees
 electic
 electicism
 electing
-election
 electionary
 electioneer
 electioneered
@@ -11323,6 +11322,7 @@ evaginable
 evaginated
 evaginating
 evagination
+election
 eval
 evaluate
 evaluated
