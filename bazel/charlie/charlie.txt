@@ -1242,7 +1242,6 @@ calycanthin
 calycanthine
 calycanthus
 calicate
-calycate
 calyceal
 calyceraceae
 calyceraceous
@@ -18300,6 +18299,7 @@ cogmen
 chenevixite
 cognac
 centime
+calycate
 cognacs
 cognate
 cognately
