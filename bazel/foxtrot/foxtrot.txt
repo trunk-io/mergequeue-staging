@@ -1761,7 +1761,6 @@ feathercut
 feathered
 fundatorial
 featheredge
-featheredged
 featheredges
 featherer
 featherers
@@ -7132,6 +7131,7 @@ foodless
 foodlessness
 foods
 foodservices
+featheredged
 foodstuff
 foodstuffs
 foofaraw
