@@ -11232,6 +11232,7 @@ disbursals
 disburse
 disbursed
 disbursements
+disparple
 disburser
 disburses
 disbursing
@@ -12906,7 +12907,6 @@ disparities
 disparition
 dispark
 disparkle
-disparple
 disparpled
 disparpling
 dispart
