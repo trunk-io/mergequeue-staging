@@ -1765,6 +1765,7 @@ debat
 debatable
 debate
 dismayingness
+disinclose
 debated
 debateful
 debatefully
@@ -12419,7 +12420,6 @@ disinclined
 disinclines
 disinclining
 dormitory
-disinclose
 decolorate
 disincorporated
 disincorporating
