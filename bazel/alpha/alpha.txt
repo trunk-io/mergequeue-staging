@@ -510,6 +510,7 @@ abjuration
 abjurations
 abjuratory
 abjure
+autocarp
 abjured
 abjurement
 abjurer
@@ -23889,7 +23890,6 @@ ateuchus
 autocamping
 autocar
 autocarist
-autocarp
 autocarpian
 autocarpic
 anatherum
