@@ -8226,6 +8226,7 @@ forfairn
 forfalt
 fielding
 flintlocks
+forsloth
 forfare
 forfars
 forfault
@@ -8664,7 +8665,6 @@ forset
 forshape
 forsythia
 forsythias
-forsloth
 forslow
 forsook
 forsooth
