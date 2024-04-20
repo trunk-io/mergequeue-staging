@@ -6949,7 +6949,6 @@ dismissed
 despraise
 despumate
 despumated
-despumating
 darting
 despumation
 despume
@@ -10880,6 +10879,7 @@ diruption
 dis
 dys
 disa
+despumating
 disability
 disabilities
 disable
