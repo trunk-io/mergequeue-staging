@@ -2496,7 +2496,6 @@ electrometallurgical
 electrometallurgist
 electrometer
 enage
-electrometric
 electrometrical
 electrometrically
 electromyogram
@@ -13930,6 +13929,7 @@ extrapolar
 extrapolate
 extrapolated
 extrapolates
+electrometric
 extrapolating
 extrapolation
 extrapolations
