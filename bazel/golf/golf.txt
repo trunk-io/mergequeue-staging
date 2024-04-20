@@ -2805,7 +2805,6 @@ gnaw
 grapeshot
 genitival
 genitivally
-genitive
 gammick
 genitocrural
 golliwogs
@@ -3079,6 +3078,7 @@ galvayne
 geolinguistics
 guerillaism
 geologer
+genitive
 geologers
 gramashes
 geologian
