@@ -2539,7 +2539,6 @@ baresarks
 baresma
 barest
 baresthesia
-baret
 baretta
 barf
 barfed
@@ -2909,6 +2908,7 @@ barragan
 binomial
 barrage
 barraged
+baret
 barrages
 barraging
 barragon
