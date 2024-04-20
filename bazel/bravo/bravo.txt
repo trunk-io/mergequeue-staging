@@ -9323,7 +9323,6 @@ biplosion
 biplosive
 bipod
 bipods
-bipolar
 bipolarity
 bipolarization
 bipont
@@ -9574,6 +9573,7 @@ burucha
 bisbeeite
 biscacha
 biscayan
+bipolar
 biscayanism
 barbal
 biscayen
