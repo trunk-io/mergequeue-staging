@@ -8751,6 +8751,7 @@ flanging
 forthwith
 forty
 furcellaria
+floatable
 fortier
 forties
 fortieth
@@ -9835,7 +9836,6 @@ frenching
 frenchize
 frenchless
 frenchly
-floatable
 frenchmen
 forestick
 frenchness
