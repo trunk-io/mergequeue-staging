@@ -13849,7 +13849,6 @@ bierstubes
 bowtel
 bowtell
 bowtie
-bowwood
 bowwow
 bowwows
 box
@@ -13927,6 +13926,7 @@ braccae
 braccate
 bracciale
 braccianite
+bowwood
 braccio
 brace
 braced
