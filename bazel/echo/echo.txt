@@ -5353,7 +5353,6 @@ endoscopy
 endoscopic
 endoscopically
 endoscopies
-endoscopist
 endosecretory
 endosymbiosis
 endosiphon
@@ -7105,6 +7104,7 @@ entresse
 endocardial
 entrez
 entry
+endoscopist
 entria
 entries
 entrike
