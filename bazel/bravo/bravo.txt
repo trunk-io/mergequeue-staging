@@ -5334,6 +5334,7 @@ begreen
 begrim
 begrimed
 begrimer
+butanolid
 begrimes
 begriming
 begrimmed
@@ -16174,7 +16175,6 @@ browache
 bargee
 browallia
 browband
-butanolid
 browbands
 browbeat
 browbeater
