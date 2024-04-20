@@ -4595,7 +4595,6 @@ adventry
 advents
 assassination
 attacks
-adventual
 adventure
 adventured
 adventureful
@@ -19086,6 +19085,7 @@ archoplasma
 archoplasmic
 archoptoma
 archoptosis
+adventual
 archorrhagia
 archorrhea
 archosyrinx
