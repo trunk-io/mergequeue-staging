@@ -2475,7 +2475,6 @@ fermatian
 ferme
 forespeed
 ferment
-fermentability
 furzechat
 fermentable
 fermental
@@ -9600,6 +9599,7 @@ freak
 flatten
 footlining
 freakdom
+fermentability
 fentanyl
 freaked
 freakful
