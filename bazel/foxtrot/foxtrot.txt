@@ -4827,6 +4827,7 @@ flaglike
 flotation
 flagmaker
 flagmen
+frilling
 flagon
 flagonless
 flagons
@@ -10136,7 +10137,6 @@ fibromyxoma
 frillily
 frilliness
 frustrated
-frilling
 frillings
 frills
 frim
