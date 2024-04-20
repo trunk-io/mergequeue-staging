@@ -5820,7 +5820,6 @@ cathected
 cathectic
 cathecting
 cathection
-cathects
 cathedra
 cathedrae
 cathedral
@@ -5917,6 +5916,7 @@ cathop
 cathouse
 cathouses
 cathrin
+cathects
 cathryn
 cathro
 cathud
