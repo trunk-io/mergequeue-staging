@@ -2397,6 +2397,7 @@ decimate
 decimated
 decimates
 decimating
+decimal
 decimation
 decimator
 decime
@@ -18091,7 +18092,6 @@ dumfounderment
 dumfounding
 dumfounds
 duplicate
-decimal
 dumka
 dumky
 dummel
