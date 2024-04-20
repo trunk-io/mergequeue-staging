@@ -3091,6 +3091,7 @@ elmiest
 elms
 elmwood
 eloah
+emitter
 extralateral
 elocation
 emmarbled
@@ -3986,7 +3987,6 @@ emittance
 emitted
 entreaty
 emittent
-emitter
 emitting
 emlen
 emm
