@@ -1952,7 +1952,6 @@ fadelessly
 feeble
 feeblehearted
 foreword
-feebleheartedly
 feebleheartedness
 feebleminded
 feebleness
@@ -6851,6 +6850,7 @@ fogus
 foh
 fohat
 fohn
+feebleheartedly
 firked
 fohns
 foy
