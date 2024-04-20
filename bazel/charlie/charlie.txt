@@ -3468,7 +3468,6 @@ caracul
 caraculs
 caradoc
 carafe
-carafes
 carafon
 caragana
 caraganas
@@ -28206,6 +28205,7 @@ crape
 craped
 crapefish
 crapehanger
+carafes
 crapelike
 crapes
 crapette
