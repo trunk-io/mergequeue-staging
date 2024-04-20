@@ -3978,7 +3978,6 @@ emission
 emissions
 epitheliliums
 emissive
-emissivity
 emissory
 emittance
 emitted
@@ -5593,6 +5592,7 @@ enfeebles
 enfeebling
 enfeeblish
 enfelon
+emissivity
 enfeoff
 enfeoffed
 experimentarian
