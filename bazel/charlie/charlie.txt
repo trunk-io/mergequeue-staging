@@ -6180,7 +6180,6 @@ contestable
 causable
 chilectropion
 causal
-causalgia
 causality
 causalities
 causally
@@ -31669,6 +31668,7 @@ cusk
 cusks
 cusp
 cuspal
+causalgia
 cusparia
 cusparine
 cuspate
