@@ -3983,7 +3983,6 @@ capriole
 cardiolith
 cardiology
 chondroclast
-cardiologic
 cardiological
 cardiologies
 cardiologist
@@ -10867,6 +10866,7 @@ chippy
 chippie
 chippier
 chippies
+cardiologic
 chippiest
 chipping
 chippings
