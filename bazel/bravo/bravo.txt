@@ -5949,7 +5949,6 @@ belugas
 belugite
 belute
 belve
-belvedere
 belvedered
 belvederes
 belverdian
@@ -16186,6 +16185,7 @@ browden
 browet
 browis
 browless
+belvedere
 browman
 brown
 brownback
