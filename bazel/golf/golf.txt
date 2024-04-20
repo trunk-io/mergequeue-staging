@@ -1282,7 +1282,6 @@ garava
 garavance
 garawi
 guidage
-gonochorismus
 garb
 garbage
 gastrulated
@@ -8262,6 +8261,7 @@ gradatory
 grasp
 graspable
 graspers
+gonochorismus
 grasping
 graspingly
 gleets
