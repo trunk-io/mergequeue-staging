@@ -912,7 +912,6 @@ calaminaris
 calamine
 calamined
 calamines
-calamining
 calamint
 calamintha
 calamistral
@@ -18129,6 +18128,7 @@ coeternal
 coeternally
 coeternity
 coevality
+calamining
 colossian
 coevally
 coevalneity
