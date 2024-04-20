@@ -5168,6 +5168,7 @@ aesir
 aesop
 aesopian
 aesopic
+assertorily
 aestethic
 aesthesia
 aesthesis
@@ -21689,7 +21690,6 @@ asseveratingly
 assertoric
 assertorical
 assertorically
-assertorily
 assertress
 asserts
 assertum
