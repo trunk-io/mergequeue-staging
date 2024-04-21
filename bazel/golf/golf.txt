@@ -7504,7 +7504,6 @@ governments
 governor
 governorate
 governors
-governorship
 grammontine
 grubbiest
 governs
@@ -9959,6 +9958,7 @@ guatemalan
 guatemaltecan
 guatibero
 guativere
+governorship
 guatoan
 guatusan
 guatuso

@@ -3119,6 +3119,7 @@ fibrocalcareous
 fibrocarcinoma
 fibrocartilage
 fibrocartilaginous
+firmnesses
 fibrocaseose
 fulgur
 fibrocaseous
@@ -4331,7 +4332,6 @@ firmity
 firmitude
 firmland
 firmness
-firmnesses
 firms
 firmware
 firn
