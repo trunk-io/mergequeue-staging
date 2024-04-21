@@ -21740,7 +21740,6 @@ condores
 condors
 campanological
 condos
-condottiere
 condottieri
 conduce
 conduceability
@@ -28014,6 +28013,7 @@ crambidae
 crambinae
 cramble
 crambly
+condottiere
 crambo
 cramboes
 crambos
