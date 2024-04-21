@@ -3444,6 +3444,7 @@ defoliage
 defoliant
 dorsobranchiata
 defoliants
+desmology
 defoliate
 diallist
 defoliates
@@ -6764,7 +6765,6 @@ desmohemoblast
 desmoid
 desmoids
 desmolase
-desmology
 desmoma
 desmomyaria
 desmon
