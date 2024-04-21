@@ -1477,6 +1477,7 @@ fatwood
 flavid
 forwhy
 faubourg
+footpath
 faubourgs
 faucal
 faucals
@@ -7255,7 +7256,6 @@ footpace
 forefather
 footpad
 footpads
-footpath
 footpaths
 footpick
 footplate
