@@ -5226,7 +5226,6 @@ aetheric
 aethers
 aethionema
 aethogen
-aethon
 aethrioscope
 aethusa
 aetian
@@ -21131,6 +21130,7 @@ ashcan
 ashcans
 ashed
 ashen
+aethon
 asher
 asherah
 alectoriae
