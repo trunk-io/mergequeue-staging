@@ -11221,7 +11221,6 @@ chlorhydric
 chloriamb
 chloriambus
 chloric
-chlorid
 chloridate
 chloridated
 chloridation
@@ -19899,6 +19898,7 @@ cited
 comity
 comitia
 comitial
+chlorid
 comities
 comitium
 comitiva
