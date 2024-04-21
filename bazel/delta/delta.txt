@@ -10388,7 +10388,6 @@ dioxane
 dioxanes
 dioxy
 dioxid
-dioxide
 dioxides
 dioxids
 dextrorsely
@@ -12780,6 +12779,7 @@ disobeyed
 disobeyer
 disobeyers
 disobeying
+dioxide
 disobligation
 disobligatory
 disoblige

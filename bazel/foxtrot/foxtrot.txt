@@ -2628,7 +2628,6 @@ ferromagneticism
 ferromagnetism
 ferromanganese
 ferromolybdenum
-feminised
 ferronatrite
 ferronickel
 ferrophosphorus
@@ -3627,6 +3626,7 @@ fileting
 filets
 fiercest
 fylfot
+feminised
 fylfots
 fylgjur
 fili
