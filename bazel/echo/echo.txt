@@ -7574,6 +7574,7 @@ ephod
 ephods
 ephoi
 ephor
+especialness
 evanesces
 ephoral
 ephoralty
@@ -9784,7 +9785,6 @@ espec
 especial
 especially
 empair
-especialness
 espeire
 esperance
 esperantic
