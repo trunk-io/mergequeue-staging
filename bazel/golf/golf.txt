@@ -1562,6 +1562,7 @@ gasfiring
 gash
 giraffe
 gashed
+gypsyweed
 grasses
 gasher
 gashes
@@ -4637,7 +4638,6 @@ gipsire
 gypsyry
 gypsite
 gipsyweed
-gypsyweed
 gleamingly
 gypsywise
 gipsywort
