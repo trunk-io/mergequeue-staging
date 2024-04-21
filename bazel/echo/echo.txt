@@ -8370,6 +8370,7 @@ epithelia
 epithelialize
 ejectives
 epithelioceptor
+exacerbations
 epitheliogenetic
 epitheliolysin
 epitheliolysis
@@ -11726,7 +11727,6 @@ exacerbates
 exacerbating
 exacerbatingly
 exacerbation
-exacerbations
 exacerbescence
 exact
 electrolytes
