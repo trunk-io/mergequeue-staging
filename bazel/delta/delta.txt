@@ -2250,6 +2250,7 @@ decenyl
 decennal
 decennary
 decennaries
+drawbeam
 decennial
 decennials
 decennium
@@ -16792,7 +16793,6 @@ drawarm
 drawback
 drawbacks
 drawbar
-drawbeam
 drawbench
 drawboard
 drawboy
