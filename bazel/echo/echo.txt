@@ -1657,7 +1657,6 @@ egress
 egressed
 extraphenomenal
 egresses
-egressing
 estadal
 egression
 egressor
@@ -2259,6 +2258,7 @@ electra
 electragy
 electragist
 electral
+egressing
 electre
 electrepeter
 electress

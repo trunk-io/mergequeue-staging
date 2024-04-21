@@ -20920,7 +20920,6 @@ ascendency
 ascendent
 ascender
 ascenders
-ascendible
 ascending
 ascendingly
 ascends
@@ -24105,6 +24104,7 @@ autoimmunities
 autoimmunization
 autoimmunize
 autoimmunizing
+ascendible
 autoincrement
 autoincremented
 autoincrements
