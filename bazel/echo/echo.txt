@@ -3975,6 +3975,7 @@ emirate
 emirates
 emirs
 eels
+explodent
 emirship
 emys
 emissary
@@ -13212,7 +13213,6 @@ explida
 explodable
 explode
 exploded
-explodent
 exploders
 exploit
 exploitable
