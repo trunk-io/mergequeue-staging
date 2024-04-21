@@ -10662,7 +10662,6 @@ dipneusti
 dipnoan
 dipnoi
 dipnoid
-dypnone
 dipnoous
 deceptitious
 dipode
@@ -13824,6 +13823,7 @@ distilling
 distillment
 distillmint
 distilment
+dypnone
 distils
 distinct
 distincter
