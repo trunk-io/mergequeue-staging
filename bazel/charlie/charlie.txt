@@ -19394,7 +19394,6 @@ colory
 colorific
 colorifics
 colorimeter
-colorimetry
 colorimetric
 colorimetrical
 colorimetrically
@@ -29216,6 +29215,7 @@ cryptanalytic
 cryptanalytical
 cryptanalytically
 cryptanalytics
+colorimetry
 cryptanalyze
 cryptanalyzed
 cryptanalyzing
