@@ -6273,7 +6273,6 @@ cautiones
 cautioning
 cautionings
 cautions
-cautious
 cautiously
 cautiousness
 cautivo
@@ -31926,6 +31925,7 @@ czarish
 czarism
 czarisms
 czarist
+cautious
 czarists
 czaritza
 czaritzas
