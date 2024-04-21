@@ -6440,6 +6440,7 @@ benzoylation
 benzoylformic
 benzoylglycine
 bilge
+byssuses
 benzoyls
 benzoin
 benzoinated
@@ -9745,7 +9746,6 @@ byssolite
 bisson
 bissonata
 byssus
-byssuses
 bist
 bistable
 bystander
