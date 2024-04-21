@@ -9402,7 +9402,6 @@ franchise
 franchised
 franchisee
 franchisees
-franchisement
 franchisers
 franchises
 fireworms
@@ -10630,6 +10629,7 @@ fructifies
 fructiform
 fructivorous
 fructokinase
+franchisement
 fructosan
 fructose
 fructoside
