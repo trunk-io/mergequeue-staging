@@ -1632,7 +1632,6 @@ accommodates
 accommodating
 accommodatingly
 accommodatingness
-accommodation
 accommodationist
 accommodations
 accommodative
@@ -17790,6 +17789,7 @@ appliable
 appliableness
 appliance
 appliances
+accommodation
 appliant
 applicability
 applicabilities
