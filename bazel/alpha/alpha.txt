@@ -4676,7 +4676,6 @@ advertizer
 advertizes
 adverts
 advice
-adviceful
 advices
 advisability
 advisableness
@@ -9982,6 +9981,7 @@ ambigu
 ambiguity
 ambiguities
 ambiguous
+adviceful
 ambiguously
 ambiguousness
 ambilateral
