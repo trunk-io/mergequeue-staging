@@ -1742,7 +1742,6 @@ debarbarize
 debark
 debarkations
 debarked
-debarking
 debarkment
 debarks
 debarment
@@ -13418,6 +13417,7 @@ disturbor
 drused
 disrupts
 disrupture
+debarking
 diss
 dissait
 dissatisfaction

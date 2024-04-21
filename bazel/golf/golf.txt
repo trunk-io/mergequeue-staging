@@ -193,7 +193,6 @@ gaggers
 ganyie
 gagging
 gaggle
-gaggler
 gaggles
 gaggling
 gaging
@@ -3039,6 +3038,7 @@ geogeny
 geogenic
 goldney
 geogenous
+gaggler
 gallicanism
 geoglossaceae
 ginn
