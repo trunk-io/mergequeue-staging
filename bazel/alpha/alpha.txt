@@ -10145,7 +10145,6 @@ ambuscaded
 ambuscader
 ambuscades
 ambuscading
-ambuscado
 ambuscadoed
 ambuscados
 ambushed
@@ -20249,6 +20248,7 @@ arricciati
 arricciato
 arriccioci
 arriccios
+ambuscado
 arride
 arrided
 arridge
