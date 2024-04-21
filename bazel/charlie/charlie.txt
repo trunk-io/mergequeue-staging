@@ -2941,7 +2941,6 @@ capacities
 capacitively
 capacitor
 capacitors
-capanna
 capanne
 cystolithectomy
 camelopards
@@ -7653,6 +7652,7 @@ clueless
 cering
 cerinthe
 cerinthian
+capanna
 ceriomyces
 cerion
 cerionidae
