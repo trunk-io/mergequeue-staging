@@ -1949,7 +1949,6 @@ gau
 gaub
 gauche
 gauchely
-gaucher
 gaucherie
 gaucheries
 gaucho
@@ -9175,6 +9174,7 @@ gristle
 glimmerous
 gos
 gauge
+gaucher
 gasbag
 gristlier
 gristliest
