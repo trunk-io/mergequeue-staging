@@ -2640,7 +2640,6 @@ acologic
 acolous
 acoluthic
 adulterants
-acoma
 acomia
 acomous
 aconative
@@ -20558,6 +20557,7 @@ arthritism
 arthrobacterium
 arthrobranch
 arthrobranchia
+acoma
 arthrocarcinoma
 arthrocele
 arthrochondritis
