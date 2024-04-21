@@ -2653,6 +2653,7 @@ canonicity
 canonics
 canonisation
 canonise
+consumptiveness
 canonised
 canoniser
 canonises
@@ -31774,7 +31775,6 @@ cuteness
 cutenesses
 cuter
 cuterebra
-consumptiveness
 cutes
 cutesy
 cutesier
