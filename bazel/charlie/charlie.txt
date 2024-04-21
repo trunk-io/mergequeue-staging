@@ -1079,7 +1079,6 @@ calciprivic
 campshed
 calcisponge
 calcispongiae
-calcite
 calcites
 calcitestaceous
 calcitic
@@ -31418,6 +31417,7 @@ curragh
 curraghs
 callidity
 currajong
+calcite
 curran
 currance
 currane
