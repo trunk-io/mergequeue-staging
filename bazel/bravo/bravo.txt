@@ -557,6 +557,7 @@ backstromite
 belibeling
 backswept
 backswimmer
+bellyband
 backswing
 backsword
 backswording
@@ -5786,7 +5787,6 @@ bellyached
 bdl
 bellyacher
 bellyaching
-bellyband
 bellibone
 bellybutton
 bellybuttons
