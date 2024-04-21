@@ -4509,7 +4509,6 @@ encages
 encaging
 encake
 encalendar
-encallow
 enumerable
 encamp
 encamped
@@ -13685,6 +13684,7 @@ extincts
 extine
 extinguised
 ententophil
+encallow
 extinguish
 extinguishant
 extinguished
