@@ -3393,7 +3393,6 @@ fieldfare
 fieldfight
 filmdoms
 fieldy
-fieldie
 fieldish
 fieldleft
 fretfulness
@@ -10874,6 +10873,7 @@ fistulariidae
 fishpool
 fulgence
 fulgency
+fieldie
 fulgent
 fulgently
 fulgentness
