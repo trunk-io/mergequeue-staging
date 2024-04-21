@@ -1953,7 +1953,6 @@ acerber
 acerbest
 acerbic
 acerbically
-acerbity
 acerbityacerose
 acerbities
 acerbitude
@@ -6859,6 +6858,7 @@ airbrushing
 airburst
 airbursts
 airbus
+acerbity
 airbuses
 airbusses
 aircheck
