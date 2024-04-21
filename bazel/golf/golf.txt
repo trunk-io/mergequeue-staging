@@ -1452,7 +1452,6 @@ garnishees
 garnisheing
 garnishes
 garnishment
-garnishments
 garnison
 garniture
 garon
@@ -4191,6 +4190,7 @@ gimballing
 gimbals
 groining
 gimberjawed
+garnishments
 gimble
 gimblet
 gimbri

@@ -4648,7 +4648,6 @@ endoplasma
 enchafe
 enchain
 enchained
-enchainement
 enchainements
 enchaining
 enchainments
@@ -6201,6 +6200,7 @@ enolase
 enolases
 enolate
 enolic
+enchainement
 enolizable
 enolization
 encompass
