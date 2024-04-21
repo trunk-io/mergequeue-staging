@@ -13313,7 +13313,6 @@ anisocratic
 anisodactyl
 anisodactyla
 anisodactyle
-anisodactyli
 anisodactylic
 anisodactylous
 anisodont
@@ -13427,6 +13426,7 @@ ankylomerism
 ankylophobia
 ankylopodia
 ankylos
+anisodactyli
 ankylosaur
 ankylosaurus
 ankylose
