@@ -2036,7 +2036,6 @@ feigher
 feign
 feigned
 feignedly
-feignedness
 feigner
 feigners
 feigning
@@ -7560,6 +7559,7 @@ flaucht
 forebitten
 fizzing
 forebless
+feignedness
 fullface
 forebode
 foreboded
