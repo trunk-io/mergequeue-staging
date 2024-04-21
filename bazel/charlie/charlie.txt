@@ -5329,7 +5329,6 @@ camisades
 conductances
 casuistries
 casuists
-combattants
 casula
 casule
 casus
@@ -14707,6 +14706,7 @@ cystopyelitis
 centralest
 coannexed
 cystopyelography
+combattants
 cystopyelonephritis
 cystoplasty
 cystoplegia
