@@ -8520,7 +8520,6 @@ diaphototropism
 diaphragm
 diaphragmal
 diaphragmatic
-diaphragmatically
 diaphragmed
 diaphragming
 diaphragms
@@ -8771,6 +8770,7 @@ dybbukim
 dibbuks
 deltoidal
 dybbuks
+diaphragmatically
 dibenzyl
 dibenzoyl
 dibenzophenazine
