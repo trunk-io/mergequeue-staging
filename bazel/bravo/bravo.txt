@@ -17260,6 +17260,7 @@ barometz
 bumbaze
 bumbee
 bumbelo
+bundlerooted
 bumbershoot
 bumble
 bumblebee
@@ -17382,7 +17383,6 @@ bundle
 bundled
 bundler
 bona
-bundlerooted
 bundlers
 bundles
 bundlet
