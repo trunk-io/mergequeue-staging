@@ -2554,7 +2554,6 @@ gemsbucks
 gemse
 gemstone
 gemuetlich
-gemul
 gemuti
 gemutlich
 gemutlichkeit
@@ -3978,6 +3977,7 @@ giftling
 gifts
 genson
 giftware
+gemul
 giftwrap
 giftwrapping
 gig
