@@ -2685,7 +2685,6 @@ canopic
 canopid
 canopied
 canopies
-canopying
 canopus
 canorous
 canorously
@@ -14985,6 +14984,7 @@ cytostatic
 cytostatically
 cytostomal
 cytostome
+canopying
 cytostroma
 cytostromatic
 cytotactic
