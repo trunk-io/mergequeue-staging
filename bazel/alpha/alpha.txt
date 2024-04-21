@@ -8920,6 +8920,7 @@ allophite
 allophone
 allophones
 allophonic
+ambulacrum
 asklepios
 allophonically
 allophore
@@ -10109,7 +10110,6 @@ ambsace
 ambulacra
 ambulacral
 ambulacriform
-ambulacrum
 ambulance
 ambulanced
 ambulancer
