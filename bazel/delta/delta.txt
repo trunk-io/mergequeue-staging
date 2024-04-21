@@ -642,7 +642,6 @@ damnableness
 damnably
 damnation
 damnatory
-desterilizing
 damndest
 damndests
 damned
@@ -6840,6 +6839,7 @@ despairing
 despairingly
 despairs
 desparple
+desterilizing
 despatch
 draff
 despatched

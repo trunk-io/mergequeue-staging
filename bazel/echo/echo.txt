@@ -1404,7 +1404,6 @@ effleurage
 effloresce
 effloresced
 efflorescent
-effloresces
 eyewort
 efflower
 effluences
@@ -11179,6 +11178,7 @@ embarren
 eurystomatous
 eurite
 euryte
+effloresces
 emulsification
 eurytherm
 elevon
