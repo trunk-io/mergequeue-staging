@@ -3876,7 +3876,6 @@ adiaphonon
 adiaphora
 adiaphoral
 adiaphoresis
-adiaphoretic
 adiaphory
 adiaphorism
 adiaphorist
@@ -19704,6 +19703,7 @@ arimathaean
 ariocarpus
 arioian
 ariolate
+adiaphoretic
 ariole
 arion
 ariose
