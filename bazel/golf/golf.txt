@@ -1838,7 +1838,6 @@ gastropathic
 gastroperiodynia
 gastropexy
 gastrophile
-gastrophilism
 gastrophilist
 gastrophilus
 gastrophrenic
@@ -7543,6 +7542,7 @@ gox
 gozill
 glochines
 gp
+gastrophilism
 gpad
 groupoids
 gapes
