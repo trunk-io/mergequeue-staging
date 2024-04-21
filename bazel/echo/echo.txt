@@ -8619,6 +8619,7 @@ entoretina
 equianchorate
 equiangular
 equiangularity
+explat
 equiarticulate
 equiatomic
 equiaxe
@@ -13177,7 +13178,6 @@ explant
 explantation
 explanted
 explanting
-explat
 elsa
 explement
 explementary
