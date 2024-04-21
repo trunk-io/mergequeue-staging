@@ -5861,7 +5861,6 @@ engrained
 electrophoreses
 engrainer
 engraining
-engrains
 engram
 expressively
 engrammatic
@@ -6691,6 +6690,7 @@ enterolobium
 enterology
 enterologic
 enteromegaly
+engrains
 eclogic
 enteromegalia
 enteromesenteric
