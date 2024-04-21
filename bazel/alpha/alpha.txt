@@ -5393,7 +5393,6 @@ affirmingly
 affirms
 affix
 affixable
-anteoccupation
 affixation
 affixed
 affixer
@@ -13767,6 +13766,7 @@ anomala
 anomaly
 anomalies
 anomaliflorous
+anteoccupation
 anomaliped
 anomalipod
 anomalism
