@@ -7580,7 +7580,6 @@ deviancies
 deviant
 deviants
 deviate
-deviated
 deviately
 deviates
 deviating
@@ -9198,6 +9197,7 @@ dieldrin
 dieldrins
 dyeleaves
 decennia
+deviated
 dewlaps
 dielectric
 dielectrical
