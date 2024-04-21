@@ -1152,7 +1152,6 @@ dasyatidae
 dasyatis
 dasylirion
 dasymeter
-dasypaedal
 dasypaedes
 dasypaedic
 dasypeltis
@@ -11165,6 +11164,7 @@ disbandments
 disbands
 disbar
 dysbarism
+dasypaedal
 disbark
 disbarment
 doorframe
