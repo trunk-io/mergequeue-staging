@@ -6836,6 +6836,7 @@ goniatitidae
 gonyaulax
 gadling
 gonycampsis
+greenlet
 gonid
 gonidangium
 gonydeal
@@ -8700,7 +8701,6 @@ greenlandman
 greenleaf
 greenleek
 greenless
-greenlet
 greenlets
 greenly
 greenling
