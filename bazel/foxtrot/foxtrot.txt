@@ -4557,7 +4557,6 @@ fistulated
 fistulatome
 fistule
 fistulina
-fistulization
 fistulized
 fernland
 fistulose
@@ -11135,6 +11134,7 @@ functionnaire
 fluotantalate
 functions
 functor
+fistulization
 functors
 functus
 fund
