@@ -563,7 +563,6 @@ damageable
 damageableness
 damageably
 damaged
-drearness
 damagement
 damageous
 disyllabizing
@@ -9066,6 +9065,7 @@ dictronics
 dictum
 dictums
 did
+drearness
 didache
 didachist
 didact
