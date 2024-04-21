@@ -5146,7 +5146,6 @@ endocyclic
 endocyemate
 endocyst
 endocystitis
-endocytic
 epistlar
 endocytosis
 endocytotic
@@ -7829,6 +7828,7 @@ epifaunal
 epifaunas
 epifocal
 epifolliculitis
+endocytic
 epigaea
 epigaeous
 epigamic
