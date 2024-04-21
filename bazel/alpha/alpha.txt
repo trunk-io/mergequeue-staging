@@ -2263,6 +2263,7 @@ ardor
 achievements
 achiever
 achievers
+amplifier
 achieves
 achieving
 achigan
@@ -11335,7 +11336,6 @@ amplificative
 amplificator
 amplificatory
 amplified
-amplifier
 amplifiers
 amplifies
 amplifying
