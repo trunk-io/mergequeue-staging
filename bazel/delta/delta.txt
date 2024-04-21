@@ -3563,6 +3563,7 @@ debacles
 demipriest
 degasification
 degasifier
+dustbin
 degass
 degassed
 degassers
@@ -18538,7 +18539,6 @@ duskly
 duskness
 dust
 dustband
-dustbin
 dustbins
 dustblu
 dustbox
