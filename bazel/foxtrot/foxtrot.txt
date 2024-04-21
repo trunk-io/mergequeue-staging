@@ -1129,7 +1129,6 @@ farset
 farsi
 farsight
 farsighted
-farsightedness
 fart
 flatteringly
 farther
@@ -5018,6 +5017,7 @@ flanque
 flans
 flapcake
 freeloader
+farsightedness
 fettles
 flapdoodle
 furcately
