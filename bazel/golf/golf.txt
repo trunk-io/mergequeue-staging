@@ -4832,7 +4832,6 @@ gyrostabilizer
 gyrostachys
 gyrostat
 gyrostatic
-gyrostatically
 gastroplenic
 girouette
 girouettism
@@ -5016,6 +5015,7 @@ glacious
 glacises
 glack
 glad
+gyrostatically
 gladatorial
 gladded
 gladden
