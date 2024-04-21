@@ -4055,7 +4055,6 @@ bealach
 bealing
 beallach
 bealtared
-bealtine
 beam
 beamage
 beambird
@@ -9384,6 +9383,7 @@ birdcraft
 birddom
 birde
 birded
+bealtine
 birdeen
 birdeye
 birder
