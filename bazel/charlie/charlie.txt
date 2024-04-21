@@ -3246,6 +3246,7 @@ capriform
 caprigenous
 capryl
 caprylate
+cycadales
 caprylene
 caprylic
 caprylyl
@@ -13145,7 +13146,6 @@ cycad
 cicada
 cycadaceae
 cicadae
-cycadales
 cicadas
 cycadean
 cessions
