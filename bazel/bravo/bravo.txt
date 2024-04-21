@@ -6681,7 +6681,6 @@ bergh
 baxterian
 berghaan
 bergy
-bergylt
 berginization
 berginize
 berglet
@@ -13439,6 +13438,7 @@ bouch
 bouchaleen
 boucharde
 bouche
+bergylt
 bouchee
 bouchees
 boucher
