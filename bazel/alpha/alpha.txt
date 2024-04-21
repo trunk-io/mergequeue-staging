@@ -19300,6 +19300,7 @@ areach
 aread
 aready
 areae
+aspartic
 areal
 areality
 areally
@@ -21354,7 +21355,6 @@ asparagus
 asparamic
 aspartame
 aspartate
-aspartic
 aspartyl
 aspartokinase
 aspasia
