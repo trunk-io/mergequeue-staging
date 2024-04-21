@@ -10565,7 +10565,6 @@ fierily
 frowner
 frenchiness
 frownful
-formol
 frowny
 frowning
 frowningly
@@ -10685,6 +10684,7 @@ fruition
 fruitive
 fruitless
 fruitlessly
+formol
 fruitlessness
 fruitlet
 fruitlets
