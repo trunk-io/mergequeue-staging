@@ -8785,6 +8785,7 @@ allocations
 allocator
 allocators
 allocatur
+aoli
 allocheiria
 allochetia
 arrhizal
@@ -16574,7 +16575,6 @@ agalactia
 aob
 aogiri
 aoife
-aoli
 aonach
 aonian
 aor
