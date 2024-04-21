@@ -5055,6 +5055,7 @@ flash
 flashback
 flashbacks
 fellatee
+fluorotype
 flashboard
 flashbulb
 flashcube
@@ -6546,7 +6547,6 @@ fluoroscopist
 fluoroscopists
 fibrils
 fluorotic
-fluorotype
 fluorouracil
 fluors
 fluorspar

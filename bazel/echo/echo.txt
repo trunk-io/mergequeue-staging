@@ -4063,7 +4063,6 @@ emotionize
 emotionless
 emotionlessly
 emotionlessness
-emotions
 ebbing
 emotiovascular
 emotively
@@ -7334,6 +7333,7 @@ eodevonian
 eof
 eogaean
 eoghanacht
+emotions
 eohippus
 eohippuses
 eoith
