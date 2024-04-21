@@ -6161,6 +6161,7 @@ flotillas
 flibbertigibbets
 flotsam
 flotsams
+fortyfive
 freighter
 freightliner
 film
@@ -10292,7 +10293,6 @@ frizzlier
 frizzliest
 frizzling
 fro
-fortyfive
 ferryage
 fringillid
 frock
