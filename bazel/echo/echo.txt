@@ -5097,7 +5097,6 @@ electroplating
 endlichite
 endlong
 endmost
-endnote
 endoabdominal
 endoangiitis
 exemplum
@@ -7745,6 +7744,7 @@ epicurish
 epicurishly
 epicurize
 epicuticle
+endnote
 epicuticular
 entomotomist
 epideictic
