@@ -6302,7 +6302,6 @@ agneau
 agneaux
 agnel
 agnes
-alternations
 agnification
 agnition
 agnize
@@ -19856,6 +19855,7 @@ armadillos
 araucarian
 armado
 aldeia
+alternations
 armageddonist
 armagnacs
 armament
