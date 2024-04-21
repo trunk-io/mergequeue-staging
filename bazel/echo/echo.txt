@@ -1077,7 +1077,6 @@ edges
 edgeshot
 edgestone
 edgeway
-edgeways
 edgeweed
 edgewise
 edgy
@@ -7912,6 +7911,7 @@ epigrammatizing
 epigramme
 epigrams
 epigraph
+edgeways
 epigrapher
 eftest
 epigraphy
