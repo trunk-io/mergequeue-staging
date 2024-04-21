@@ -2597,7 +2597,6 @@ buzylene
 barhopped
 barhopping
 barhops
-bari
 baria
 brandies
 bariatrician
@@ -5164,6 +5163,7 @@ befreckle
 befreeze
 befreight
 befret
+bari
 befretted
 befretting
 befriended
