@@ -8091,7 +8091,6 @@ chafflike
 chaffman
 chaffron
 chaffs
-chaffseed
 carapace
 chaffwax
 chaffweed
@@ -11784,6 +11783,7 @@ chondrosteoma
 chondrosteous
 chondrosternal
 caracore
+chaffseed
 chondrotome
 chondrotomy
 chondroxiphoid
