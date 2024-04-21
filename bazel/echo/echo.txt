@@ -4734,6 +4734,7 @@ eloge
 encyclopaedian
 encyclopaedias
 encyclopaedic
+equivocator
 encyclopaedical
 encyclopaedically
 encyclopaedism
@@ -8834,7 +8835,6 @@ equivocates
 equivocatingly
 equivocation
 equivocations
-equivocator
 equivocatory
 equivocators
 equivoke
