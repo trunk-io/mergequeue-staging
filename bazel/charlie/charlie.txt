@@ -23254,7 +23254,6 @@ consummativeness
 consummator
 consummatory
 consumo
-consumpt
 consumpted
 consumptible
 consumption
@@ -31038,6 +31037,7 @@ cuniform
 cuniforms
 cunyie
 cunila
+consumpt
 cunili
 cunit
 chimopeelagic
