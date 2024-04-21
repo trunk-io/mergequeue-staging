@@ -11105,7 +11105,6 @@ chivalries
 chivalrous
 chivalrously
 chivaree
-chivareed
 chivareeing
 chivarees
 chivari
@@ -29811,6 +29810,7 @@ crossarms
 crossband
 carbonnieux
 crossbanded
+chivareed
 crossbanding
 crossbar
 crossbarring
