@@ -5865,7 +5865,6 @@ deprecatorily
 deprecatoriness
 deprecators
 depreciable
-depreciant
 depreciate
 depreciated
 depreciates
@@ -13727,6 +13726,7 @@ distal
 distale
 distalia
 distalwards
+depreciant
 distance
 distanced
 distanceless
