@@ -7264,6 +7264,7 @@ flanderkin
 footprint
 footprints
 footrace
+fricandeau
 footraces
 footrail
 footrests
@@ -9976,7 +9977,6 @@ fribbling
 flaglet
 fribblish
 fribourg
-fricandeau
 fricandeaux
 fricandel
 fixtures
