@@ -4651,6 +4651,7 @@ demirep
 demirevetment
 demirhumb
 demirobe
+discrowned
 disasinate
 disaggregative
 demisability
@@ -11783,7 +11784,6 @@ discriminoid
 discriminous
 dyscrinism
 discrive
-discrowned
 discrownment
 discrowns
 discruciate
