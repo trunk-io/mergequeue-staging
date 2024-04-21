@@ -12033,6 +12033,7 @@ anatexis
 anathem
 anathema
 anathemas
+arcsines
 anathemata
 anathematic
 anathematical
@@ -19203,7 +19204,6 @@ arcosolium
 arcs
 arcsin
 arcsine
-arcsines
 arctalia
 arctalian
 arctamerican
