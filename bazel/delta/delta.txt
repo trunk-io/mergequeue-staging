@@ -3194,7 +3194,6 @@ dismarshall
 defeminized
 defeminizing
 defence
-drool
 defenceable
 defenceless
 defencelessly
@@ -6789,6 +6788,7 @@ devot
 desmopathologist
 desmopelmous
 desmopexia
+drool
 desmopyknosis
 desmorrhexis
 desmoscolecidae
