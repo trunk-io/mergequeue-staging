@@ -3463,7 +3463,6 @@ deforestation
 deforested
 deforester
 deforesting
-deforests
 deform
 deformability
 deformable
@@ -12526,6 +12525,7 @@ disjection
 disjects
 disjoin
 disjoinable
+deforests
 disjoined
 disjoining
 dastard
