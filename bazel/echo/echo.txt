@@ -4723,7 +4723,6 @@ encia
 enantiomeride
 encyc
 encycl
-encyclic
 encyclical
 encyclicals
 encyclics
@@ -12024,6 +12023,7 @@ excipular
 excipule
 excipuliform
 excipulum
+encyclic
 excircle
 excisable
 esker
