@@ -10875,7 +10875,6 @@ fieldie
 fulgent
 fulgently
 fulgentness
-fulgid
 fulgide
 fulgidity
 fulgor
@@ -11649,6 +11648,7 @@ fustilugs
 fustin
 fustinella
 flagstaff
+fulgid
 fustiness
 fustoc
 fusula
