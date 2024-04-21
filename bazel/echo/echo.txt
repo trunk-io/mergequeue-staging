@@ -2121,7 +2121,6 @@ elastin
 encompassed
 elastins
 elastivity
-elastomer
 elastomeric
 elastomers
 exundation
@@ -10123,6 +10122,7 @@ estrogenic
 estrogenically
 estrogenicity
 estrogens
+elastomer
 estrone
 estrual
 estruation
