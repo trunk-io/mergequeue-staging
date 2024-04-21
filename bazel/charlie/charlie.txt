@@ -13299,7 +13299,6 @@ coulometric
 cycloacetylene
 cycloaddition
 cycloaliphatic
-cycloalkane
 cyclobothra
 cyclobutane
 cyclocephaly
@@ -28156,6 +28155,7 @@ crankbird
 crankcases
 crankdisk
 cranked
+cycloalkane
 cranker
 crankery
 cranky
