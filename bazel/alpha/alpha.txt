@@ -1733,6 +1733,7 @@ accountrement
 accounts
 accouple
 accouplement
+adipyl
 accourage
 accourt
 accouter
@@ -3927,7 +3928,6 @@ adipate
 adipescent
 adiphenine
 adipic
-adipyl
 adipocele
 adipocellulose
 anthropological

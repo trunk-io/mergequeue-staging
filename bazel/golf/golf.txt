@@ -538,7 +538,6 @@ gallanted
 gallantize
 gallantly
 gallantry
-gallantries
 gallants
 gallates
 gallature
@@ -8161,6 +8160,7 @@ graphemics
 graphy
 graphic
 graphical
+gallantries
 graphically
 graphicalness
 gratitude
