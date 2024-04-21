@@ -511,6 +511,7 @@ dales
 dalesfolk
 dalesman
 dalesmen
+demonist
 dalespeople
 daleswoman
 daleth
@@ -4835,7 +4836,6 @@ demonishness
 definitude
 demonism
 demonisms
-demonist
 demonists
 demonize
 demonized
