@@ -2139,7 +2139,6 @@ gawsie
 gatewaymen
 gaz
 gazabo
-gazaboes
 gazabos
 gazangabin
 gazania
@@ -9514,6 +9513,7 @@ geophytes
 grouter
 grouthead
 goondie
+gazaboes
 grawls
 geothlypis
 groutiest
