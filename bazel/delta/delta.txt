@@ -3764,7 +3764,6 @@ dehumidify
 dehumidified
 dehumidifier
 dehumidifiers
-dehumidifies
 dehumidifying
 dehwar
 dei
@@ -13748,6 +13747,7 @@ dystaxias
 dystectic
 dysteleology
 dysteleologist
+dehumidifies
 distemonous
 decipherment
 distemper
