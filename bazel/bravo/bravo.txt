@@ -3479,7 +3479,6 @@ bastion
 bastionary
 bastionet
 bastite
-bastnaesite
 bastnasite
 basto
 beworms
@@ -12467,6 +12466,7 @@ bonhomie
 bonhomies
 bonhomme
 bonhommie
+bastnaesite
 blacklists
 boeotarch
 bonhomously
