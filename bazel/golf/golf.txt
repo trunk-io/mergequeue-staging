@@ -1325,7 +1325,6 @@ gardbrace
 garde
 gardebras
 garden
-gardened
 gardener
 gardeners
 gatha
@@ -3345,6 +3344,7 @@ gerent
 gerenuks
 galleria
 gyral
+gardened
 gerfalcon
 gerful
 gerhardtite
