@@ -1899,7 +1899,6 @@ debtee
 debtful
 debtless
 diegueno
-debtors
 debtorship
 debts
 debugger
@@ -4029,6 +4028,7 @@ deletion
 deletions
 deletive
 delf
+debtors
 delfs
 delft
 dioecious
