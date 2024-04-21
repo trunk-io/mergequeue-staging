@@ -524,7 +524,6 @@ backstabbing
 backstaff
 backstage
 backstay
-backstair
 backstairs
 backstays
 backstamp
@@ -2354,6 +2353,7 @@ barbated
 barbatimao
 barbe
 barbeau
+backstair
 barbecue
 barbecued
 bellyfull
