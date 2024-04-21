@@ -4302,7 +4302,6 @@ firings
 freeport
 firk
 firker
-firkin
 firkins
 falconoid
 firlot
@@ -6636,6 +6635,7 @@ freshened
 flutteriness
 fluttering
 filarian
+firkin
 flutteringly
 flutterless
 flutterment
