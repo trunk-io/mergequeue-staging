@@ -2111,7 +2111,6 @@ elasticin
 elasticity
 elasticize
 elasticized
-elasticizer
 elasticizing
 elasticness
 elasticum
@@ -7512,6 +7511,7 @@ ephebes
 ephebeubea
 euphuistical
 ephebi
+elasticizer
 ephebic
 epheboi
 ephebos
