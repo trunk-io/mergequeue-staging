@@ -825,7 +825,6 @@ fringes
 fanlights
 fanmaking
 fanman
-functionalize
 fanned
 fannel
 fanneling
@@ -4021,6 +4020,7 @@ fingernails
 fingerpost
 fingerprint
 fingerprinted
+functionalize
 fingerprinting
 fingerprints
 fingerroot
