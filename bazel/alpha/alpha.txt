@@ -1394,6 +1394,7 @@ acategorical
 acater
 acatery
 acates
+alienating
 acatharsy
 acatharsia
 acatholic
@@ -8225,7 +8226,6 @@ alienages
 alienate
 alienated
 alienates
-alienating
 alienation
 alienator
 aliency
