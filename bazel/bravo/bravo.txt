@@ -6546,6 +6546,7 @@ bepray
 baculoid
 bepraise
 bepraisement
+bergall
 bepraiser
 beprank
 bepranked
@@ -6657,7 +6658,6 @@ beretta
 berettas
 berewick
 berg
-bergall
 bergamasca
 bergamasche
 biogenies
