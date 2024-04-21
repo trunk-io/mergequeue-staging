@@ -2582,6 +2582,7 @@ gendered
 genderer
 genderless
 genders
+glides
 geneal
 genteelize
 genealogic
@@ -5540,7 +5541,6 @@ glided
 glider
 gliders
 grando
-glides
 glidewort
 gliding
 glidingly
