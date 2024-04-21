@@ -8882,7 +8882,6 @@ cypruses
 characterisable
 coma
 characterisation
-characterise
 characterised
 characteriser
 characterising
@@ -11437,6 +11436,7 @@ chocolatey
 chocolates
 chocolaty
 chocolatier
+characterise
 chocolatiere
 communality
 calcomp

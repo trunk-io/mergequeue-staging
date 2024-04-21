@@ -5073,7 +5073,6 @@ gladstonian
 gladwin
 grivois
 glaga
-glagol
 glagolic
 gosain
 glaieul
@@ -6807,6 +6806,7 @@ gonfalcon
 gonfalon
 gammaridae
 gonfalonierate
+glagol
 gonfaloniership
 gonfalons
 gonfanon
