@@ -12201,7 +12201,6 @@ bolthead
 boltheader
 bagge
 boltheading
-boltheads
 bolthole
 bolti
 bolty
@@ -15698,6 +15697,7 @@ bulbiest
 brochidodromous
 brocho
 brochophony
+boltheads
 brocht
 brochure
 borofluoride
