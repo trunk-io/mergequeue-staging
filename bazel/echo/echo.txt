@@ -1190,6 +1190,7 @@ educabilia
 educability
 educable
 educand
+eluviate
 educatability
 educatable
 educate
@@ -3237,7 +3238,6 @@ elutriator
 eluvia
 excursory
 eluvial
-eluviate
 exsufflicate
 eluviated
 elongative
