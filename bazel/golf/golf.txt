@@ -7504,6 +7504,7 @@ governments
 governor
 governorate
 governors
+grype
 grammontine
 grubbiest
 governs
@@ -9079,7 +9080,6 @@ gripe
 gulled
 genie
 geomantical
-grype
 griped
 gripeful
 gripey
