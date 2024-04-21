@@ -6434,7 +6434,6 @@ agranuloplastic
 agrapha
 agraphia
 agraphias
-agraphic
 agraria
 agrarian
 agrarianize
@@ -7054,6 +7053,7 @@ aitchbone
 aitchless
 aitchpiece
 aith
+agraphic
 aythya
 aithochroi
 aitiology
