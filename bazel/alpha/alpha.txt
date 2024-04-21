@@ -846,6 +846,7 @@ abridges
 abridging
 abridgment
 abridgments
+antialien
 abrim
 abrin
 abrine
@@ -11244,7 +11245,6 @@ affiancer
 amphitheccia
 amphithecia
 amphithecial
-antialien
 amphithecium
 amphithect
 amphithere
