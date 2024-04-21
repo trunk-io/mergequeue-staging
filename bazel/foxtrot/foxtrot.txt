@@ -6783,7 +6783,6 @@ frankable
 foetalization
 foetation
 foeti
-foeticidal
 foetiparous
 foetor
 foetors
@@ -6920,6 +6919,7 @@ foldy
 folding
 foldless
 foldout
+foeticidal
 frowzy
 foldouts
 folds
