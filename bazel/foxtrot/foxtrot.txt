@@ -3275,7 +3275,6 @@ fidate
 functorial
 fidawi
 fidded
-ferroinclave
 fidding
 fiddle
 fiddleback
@@ -10429,6 +10428,7 @@ fronted
 frontenis
 fronter
 frontier
+ferroinclave
 frontierless
 fictor
 forgivableness

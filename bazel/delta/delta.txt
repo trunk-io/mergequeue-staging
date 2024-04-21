@@ -5987,7 +5987,6 @@ deputative
 deputatively
 deputator
 depute
-deputed
 deputes
 deputy
 deputies
@@ -10046,6 +10045,7 @@ dynamometric
 derm
 dynamometrical
 dynamomorphic
+deputed
 dynamoneure
 dynamophone
 dynamos
