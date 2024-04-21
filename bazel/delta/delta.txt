@@ -2445,6 +2445,7 @@ decke
 decked
 deckedout
 dauberies
+doubly
 deckel
 deckels
 decken
@@ -16027,7 +16028,6 @@ doubletone
 doublette
 doublewidth
 doublewords
-doubly
 doubling
 doubloon
 doubloons
