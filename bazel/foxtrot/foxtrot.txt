@@ -3118,7 +3118,6 @@ flourishment
 fibroadipose
 foamily
 fibroangioma
-fibroareolar
 fibroblastic
 fibrocalcareous
 fibrocarcinoma
@@ -11702,6 +11701,7 @@ futures
 freehand
 futuric
 futurism
+fibroareolar
 flippancy
 flashproof
 futurisms
