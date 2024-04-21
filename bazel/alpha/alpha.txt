@@ -8172,7 +8172,6 @@ alguacil
 alguazil
 alguifou
 algum
-algums
 alhacena
 alhagi
 alhambra
@@ -25021,6 +25020,7 @@ awn
 awned
 awner
 awny
+algums
 awning
 awninged
 awnings
