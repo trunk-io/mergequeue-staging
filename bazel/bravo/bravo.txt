@@ -4128,7 +4128,6 @@ bearberry
 bearberries
 bearbind
 beachboy
-bearbine
 bearbush
 bearcat
 bearcats
@@ -8901,6 +8900,7 @@ bioacoustics
 bioactivity
 bioactivities
 bioassay
+bearbine
 bioassayed
 bioassaying
 bioassays
