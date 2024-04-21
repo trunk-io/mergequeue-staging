@@ -2684,6 +2684,7 @@ deconsecrated
 deconsecrating
 deconsecration
 deconsider
+doffing
 deconsideration
 decontaminate
 decontaminated
@@ -14901,7 +14902,6 @@ doff
 doffed
 doffer
 doffers
-doffing
 doffs
 devolutionary
 doftberry
