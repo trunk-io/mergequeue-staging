@@ -2503,7 +2503,6 @@ backlands
 bare
 bareback
 barebacked
-bareboat
 bareboats
 barebone
 barrener
@@ -8629,6 +8628,7 @@ billeter
 billeters
 billethead
 billety
+bareboat
 billeting
 berliner
 billette
