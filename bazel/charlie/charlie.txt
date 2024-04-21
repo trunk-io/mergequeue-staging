@@ -24124,6 +24124,7 @@ convexly
 convexness
 convexo
 convexoconcave
+counterscale
 conviciate
 convicinity
 convict
@@ -27090,7 +27091,6 @@ counterruin
 counters
 countersalient
 countersank
-counterscale
 counterscalloped
 counterscarp
 counterscoff
