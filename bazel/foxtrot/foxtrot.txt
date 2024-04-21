@@ -197,7 +197,6 @@ factories
 factorylike
 factoring
 factorist
-factorization
 factorizations
 fluviose
 factorize
@@ -4012,6 +4011,7 @@ fingerlet
 fingerlike
 fingerling
 fuliguline
+factorization
 fingerlings
 fingernail
 firmly
