@@ -3993,7 +3993,6 @@ fingerable
 fingerberry
 fingerboard
 fingerboards
-fingerbreadth
 fingered
 forehill
 fingerer
@@ -9970,6 +9969,7 @@ frib
 fribble
 fribbled
 fribbleism
+fingerbreadth
 fribblers
 friskle
 fribbles
