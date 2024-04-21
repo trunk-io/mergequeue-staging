@@ -9016,7 +9016,6 @@ biognosis
 biographee
 biographer
 biographers
-biography
 biographical
 biographies
 bookkeeping
@@ -16501,6 +16500,7 @@ bubblement
 bubbler
 bubblers
 bubbles
+biography
 bubbletop
 bubbletops
 booboos
