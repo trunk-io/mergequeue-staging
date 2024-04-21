@@ -3450,7 +3450,6 @@ defoliate
 diallist
 defoliates
 defoliating
-defoliation
 defoliations
 defoliator
 defoliators
@@ -13256,6 +13255,7 @@ disproves
 disprovide
 disproving
 dumbledore
+defoliation
 dispulp
 dispunct
 dispunge

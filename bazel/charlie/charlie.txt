@@ -3058,7 +3058,6 @@ capitalisable
 capitalise
 capitalised
 capitaliser
-capitalising
 capitalist
 capitalistic
 capitalists
@@ -29590,6 +29589,7 @@ croceins
 croceous
 crocetin
 croceus
+capitalising
 croche
 crochet
 crocheted
