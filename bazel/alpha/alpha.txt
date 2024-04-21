@@ -9931,7 +9931,6 @@ ambassadors
 ambassadorship
 ambassadorships
 ambassadress
-ambassage
 ambassy
 almochoden
 ambatch
@@ -21930,6 +21929,7 @@ assumpt
 ash
 assumption
 assumptionist
+ambassage
 assumptions
 axiomatically
 assumptious
