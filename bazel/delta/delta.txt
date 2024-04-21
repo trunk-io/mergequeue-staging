@@ -12971,6 +12971,7 @@ dispensatrix
 dispense
 dispensed
 dispensers
+domestically
 dragonne
 dispenses
 dispensible
@@ -15303,7 +15304,6 @@ domesday
 domesdays
 domesticability
 domesticality
-domestically
 domesticate
 domesticated
 domesticates
