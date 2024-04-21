@@ -1279,7 +1279,6 @@ balancelle
 balancement
 balancer
 balancers
-balancing
 balander
 balandra
 balandrana
@@ -17509,6 +17508,7 @@ buoyances
 bipinnatiparted
 buoyant
 buoyantly
+balancing
 buoyantness
 brigandism
 buoying
