@@ -1877,7 +1877,6 @@ gastrotrich
 gastrotricha
 gastrotubotomy
 gastrovascular
-genos
 gastrozooid
 gastrulae
 gastrulating
@@ -2904,6 +2903,7 @@ gaetulan
 gentleman
 gentlemanism
 grasped
+genos
 gentlemanize
 gentlemanly
 gentlemanlikeness
