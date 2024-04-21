@@ -21062,7 +21062,6 @@ computing
 computist
 computus
 comr
-comrade
 comradely
 comradeliness
 comradery
@@ -24166,6 +24165,7 @@ convives
 convivial
 convivialist
 convivialize
+comrade
 convivially
 convivio
 convocant
