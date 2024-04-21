@@ -5174,7 +5174,6 @@ flattish
 flattops
 flatulence
 flatulences
-flatulency
 flatulencies
 freeheartedness
 flatulent
@@ -7918,6 +7917,7 @@ forepoint
 forepointer
 forepole
 forepoled
+flatulency
 fruitions
 forepoling
 foreporch
