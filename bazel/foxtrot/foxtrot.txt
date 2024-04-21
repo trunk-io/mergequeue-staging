@@ -4840,7 +4840,6 @@ flags
 flagship
 firepower
 flagstaffs
-fitchy
 flagstaves
 facioscapulohumeral
 flagstick
@@ -10576,6 +10575,7 @@ frowns
 frows
 frowsy
 frowsier
+fitchy
 fluoborite
 frowsiest
 frowsily

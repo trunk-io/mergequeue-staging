@@ -8444,7 +8444,6 @@ epitrochlea
 epitrope
 epitrophy
 epitrophic
-exobasidiaceae
 epituberculous
 epiural
 epivalve
@@ -11955,6 +11954,7 @@ excentrical
 excentricity
 equaeval
 excepable
+exobasidiaceae
 eppes
 exceptant
 excepted
