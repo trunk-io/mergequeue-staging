@@ -82,7 +82,6 @@ faceplate
 fessed
 facer
 facers
-fisticuffs
 faces
 facesaving
 facet
@@ -7585,6 +7584,7 @@ forecar
 forecarriage
 forecast
 forecaster
+fisticuffs
 forecasters
 forecasting
 faujdar
