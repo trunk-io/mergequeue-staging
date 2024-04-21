@@ -12527,7 +12527,6 @@ disject
 disjected
 disjection
 disjects
-disjeune
 disjoin
 disjoinable
 disjoined
@@ -13028,6 +13027,7 @@ dispersibility
 downlying
 dispersible
 dispersing
+disjeune
 dispersions
 dispersity
 dispersive
