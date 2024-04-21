@@ -6510,7 +6510,6 @@ benzpyrene
 benzthiophen
 benztrioxazine
 beothuk
-beothukan
 barbermonger
 bepaint
 bepainted
@@ -8341,6 +8340,7 @@ beccaficos
 butterflyfish
 byzantinism
 bigarreau
+beothukan
 bigate
 bigbloom
 bigbury
