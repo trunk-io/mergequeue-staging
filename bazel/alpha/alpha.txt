@@ -2218,7 +2218,6 @@ achatinidae
 anaesthesia
 act
 anthracene
-achatour
 ache
 acheat
 achech
@@ -16259,6 +16258,7 @@ antistadholder
 antistadholderian
 antistalling
 antistaphylococcic
+achatour
 antistat
 antistate
 antistater
