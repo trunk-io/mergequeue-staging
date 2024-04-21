@@ -4076,7 +4076,6 @@ carduelis
 carduus
 care
 carecloth
-cared
 careen
 careenage
 careener
@@ -31848,6 +31847,7 @@ cutose
 cutout
 cutover
 cutpurse
+cared
 cutpurses
 cuts
 cutset
