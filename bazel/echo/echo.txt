@@ -5553,7 +5553,6 @@ energises
 energism
 energist
 energize
-exploiters
 energized
 energizer
 estall
@@ -6438,6 +6437,7 @@ ensilability
 ensilaged
 ensilages
 ensilaging
+exploiters
 educators
 ensilate
 ensilation
