@@ -3890,7 +3890,6 @@ gibbsites
 generalizable
 gibbus
 gibe
-geophyte
 gnattier
 gibed
 gibel
@@ -4582,6 +4581,7 @@ gripers
 gype
 gipons
 gibbose
+geophyte
 gipped
 gypped
 gipper
