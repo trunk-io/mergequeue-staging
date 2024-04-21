@@ -4098,6 +4098,7 @@ emparl
 empasm
 empasma
 empassion
+extrinsical
 empathetic
 empathetically
 empathy
@@ -14072,7 +14073,6 @@ extrication
 electrobiology
 extrications
 extrinsic
-extrinsical
 elegantly
 emulge
 extendedness
