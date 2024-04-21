@@ -10036,7 +10036,6 @@ fleawood
 friendship
 fuciphagous
 friendships
-frier
 fryer
 friers
 fryers
@@ -10839,6 +10838,7 @@ fudging
 fulah
 fulani
 fulciform
+frier
 fulciment
 fulcra
 fulcral
