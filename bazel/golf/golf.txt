@@ -260,6 +260,7 @@ gainpain
 guttles
 geobotanist
 gainsay
+govern
 gainsayer
 gainsayers
 gainsaying
@@ -7474,7 +7475,6 @@ gouvernante
 giddea
 gouvernantes
 gove
-govern
 governability
 governable
 governableness
