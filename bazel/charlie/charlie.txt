@@ -1070,7 +1070,6 @@ clarity
 calciphylactic
 calciphylaxis
 calciphile
-calciphilia
 calciphilic
 calciphilous
 calciphobe
@@ -14867,6 +14866,7 @@ cytoblastemous
 cytocentrum
 cytochalasin
 cytochemical
+calciphilia
 cytochemistry
 cytochylema
 cytochrome
