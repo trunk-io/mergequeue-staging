@@ -5922,7 +5922,6 @@ deprivable
 deprival
 deprivals
 deprivate
-deprivations
 deprivative
 deprive
 deprived
@@ -13265,6 +13264,7 @@ dictyostele
 disputability
 disputable
 disputableness
+deprivations
 disputably
 disputacity
 disputant
