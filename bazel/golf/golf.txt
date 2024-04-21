@@ -5446,7 +5446,6 @@ glycerophosphate
 glycerophosphoric
 glycerose
 glyceroxide
-glycic
 glycid
 glycide
 galoshed
@@ -7253,6 +7252,7 @@ gormandizes
 gauffered
 gormandizing
 gormands
+glycic
 greedyguts
 gophers
 gangsa
