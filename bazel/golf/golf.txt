@@ -4965,6 +4965,7 @@ glabellar
 gelatinousness
 glabellous
 glabellum
+gld
 glabrate
 glabreity
 glabrescent
@@ -5307,7 +5308,6 @@ glaziest
 gnathostomous
 glazing
 glb
-gld
 glead
 guzzler
 gleamed
