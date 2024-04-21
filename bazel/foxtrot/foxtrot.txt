@@ -3870,6 +3870,7 @@ fimbricate
 fimbricated
 fimbrilla
 fimbrillae
+forspoke
 fimbrillate
 fany
 fig
@@ -8679,7 +8680,6 @@ forspent
 farstepped
 ferally
 footing
-forspoke
 forspoken
 forspread
 fowk
