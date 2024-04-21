@@ -7723,7 +7723,6 @@ bhagavat
 bhagavata
 bhaiachara
 bhaiyachara
-bhajan
 bhakti
 bhaktimarga
 bhaktis
@@ -13529,6 +13528,7 @@ bounced
 bouncer
 bounces
 bouncy
+bhajan
 bouncier
 bounciest
 bouncily
