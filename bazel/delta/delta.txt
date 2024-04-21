@@ -3449,6 +3449,7 @@ defoliate
 diallist
 defoliates
 defoliating
+demiluster
 defoliations
 defoliator
 defoliators
@@ -7675,7 +7676,6 @@ devitation
 devitrify
 devitrifiable
 devitrification
-demiluster
 devitrified
 devitrifying
 devocalisation
