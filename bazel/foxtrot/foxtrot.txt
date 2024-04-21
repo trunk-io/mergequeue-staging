@@ -2481,7 +2481,6 @@ fermenter
 fermentescible
 fermenting
 fermentitious
-fermentive
 fiendly
 fermentor
 ferments
@@ -5726,6 +5725,7 @@ flippers
 flippest
 faveoli
 flipping
+fermentive
 flyproof
 flips
 flirt
