@@ -4604,7 +4604,6 @@ gipser
 gipsy
 gypsy
 gipsydom
-gypsydoms
 gipsied
 gypsied
 gipsies
@@ -7448,6 +7447,7 @@ gourmandize
 gourmandizer
 gomerals
 gourmands
+gypsydoms
 giornatate
 gourmet
 gourmetism
