@@ -1651,7 +1651,6 @@ fawnier
 fawniest
 fawning
 fawningly
-fawningness
 fawnlike
 fieldward
 fawns
@@ -11102,6 +11101,7 @@ funambuloes
 funaria
 flavourful
 funariaceous
+fawningness
 funbre
 floyd
 functional
