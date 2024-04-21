@@ -4869,7 +4869,6 @@ encorbellment
 encorbelment
 encore
 emulsifiable
-encored
 encores
 excitive
 encoronal
@@ -12653,6 +12652,7 @@ exocardiac
 exocardial
 exocarps
 exocataphoria
+encored
 exochorda
 exochorion
 exocyclic
