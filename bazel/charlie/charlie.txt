@@ -12372,7 +12372,6 @@ compares
 chromatium
 chromatize
 chromatocyte
-chromatodysopia
 chromatogenous
 chromatogram
 chromatograph
@@ -17553,6 +17552,7 @@ coccosteus
 coccothraustes
 coccothraustine
 coccothrinax
+chromatodysopia
 coccule
 cocculiferous
 cocculus
