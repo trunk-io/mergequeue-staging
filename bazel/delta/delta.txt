@@ -17199,6 +17199,7 @@ drivage
 drive
 driveable
 driveaway
+dumbfounding
 drivebolt
 drivecap
 drivehead
@@ -18069,7 +18070,6 @@ dumbfounded
 dumbfounder
 diastrophe
 dumbfounderment
-dumbfounding
 dumbfoundment
 dumbhead
 dumbheaded
