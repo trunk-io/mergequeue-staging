@@ -18867,7 +18867,6 @@ collagenous
 collagens
 collages
 collapsability
-collapsable
 collapsar
 cascado
 collapse
@@ -30433,6 +30432,7 @@ cuarteron
 carfuffled
 cuartilla
 cuartillo
+collapsable
 cuartino
 cuarto
 cub
