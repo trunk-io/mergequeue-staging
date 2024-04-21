@@ -24405,7 +24405,6 @@ coordain
 coordinal
 coordinated
 coordinately
-coordinateness
 coordinating
 carobs
 coordination
@@ -29465,6 +29464,7 @@ crystallogy
 crystallogram
 crystallograph
 crystallographer
+coordinateness
 crystallographers
 crystallography
 crystallographical
