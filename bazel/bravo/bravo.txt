@@ -2048,7 +2048,6 @@ baldmoneys
 bangtail
 bangtailed
 bangtails
-bangup
 bellyband
 bangwaketsi
 bani
@@ -18186,6 +18185,7 @@ butyrate
 butyric
 butyrically
 butyryl
+bangup
 butyryls
 butyrin
 butyrinase
