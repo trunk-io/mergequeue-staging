@@ -1947,7 +1947,6 @@ bandle
 bandleader
 bandless
 bejabers
-bandlessly
 bandlessness
 bandlet
 bandlimit
@@ -6463,6 +6462,7 @@ benzophenoxazine
 benzophloroglucinol
 benzophosphinic
 benzophthalazine
+bandlessly
 benzopinacone
 benzopyran
 benzopyranyl
