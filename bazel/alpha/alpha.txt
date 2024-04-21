@@ -18729,6 +18729,7 @@ archbuffoon
 archbuilder
 archchampion
 archchaplain
+astyllen
 archcheater
 archchemic
 archchief
@@ -22113,7 +22114,6 @@ astigmometry
 astigmoscope
 astylar
 astilbe
-astyllen
 astylospongia
 astylosternus
 astint

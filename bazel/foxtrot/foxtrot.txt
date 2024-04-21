@@ -3368,6 +3368,7 @@ fiedlerite
 fief
 falchions
 fiefdom
+fractional
 fiefs
 forfeitable
 fiel
@@ -9233,7 +9234,6 @@ fractals
 fracticipita
 fractile
 fraction
-fractional
 fractionalism
 fractionalization
 flatwork
