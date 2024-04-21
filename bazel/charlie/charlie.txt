@@ -3811,6 +3811,7 @@ cosmodrome
 carcel
 carcels
 carcer
+coalizer
 carceral
 carcerate
 carcerated
@@ -17166,7 +17167,6 @@ coalitionist
 coalitions
 coalize
 coalized
-coalizer
 coalizing
 coalmonger
 coalmouse
