@@ -2941,6 +2941,7 @@ barrelet
 barrelfish
 barrelfishes
 barrelful
+birdcatcher
 barrelfuls
 barrelhead
 barrelhouse
@@ -10883,7 +10884,6 @@ blips
 blirt
 bliss
 branchiostegous
-birdcatcher
 blisses
 blissful
 blissfully
