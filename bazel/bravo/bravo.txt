@@ -2452,7 +2452,6 @@ barcaroles
 barcarolle
 barcas
 barcella
-bumblebees
 barcelona
 boxwork
 barchan
@@ -4643,6 +4642,7 @@ bedecking
 bedecks
 bedecorate
 bedeen
+bumblebees
 bedeguar
 bloodwood
 bedehouse
