@@ -3497,6 +3497,7 @@ caramelization
 casual
 caramelize
 caramelized
+clavicymbal
 caramelizes
 caramelizing
 caramels
@@ -15727,7 +15728,6 @@ clavichordist
 clavichordists
 clavichords
 clavicylinder
-clavicymbal
 clavicytheria
 clavicytherium
 clavicithern
