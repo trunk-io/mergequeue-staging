@@ -2509,7 +2509,6 @@ acinaces
 acinacifoliate
 acinacifolious
 acinaciform
-acinacious
 acinacity
 acinar
 acinary
@@ -23736,6 +23735,7 @@ autarchical
 autarchically
 autarchies
 autarchist
+acinacious
 autarchoglossa
 autarky
 autarkic
