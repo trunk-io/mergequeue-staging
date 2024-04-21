@@ -1496,7 +1496,6 @@ deadborn
 deadcenter
 dilemmas
 deadeye
-deadeyes
 deaden
 deaccessioned
 deadened
@@ -3005,6 +3004,7 @@ deepest
 deepfreeze
 deepfreezed
 deepfreezing
+deadeyes
 deepfroze
 deepfrozen
 deepgoing
