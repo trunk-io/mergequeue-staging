@@ -608,7 +608,6 @@ abnegators
 abner
 abnerval
 apprehensive
-abnet
 acridian
 abneural
 abnormal
@@ -904,6 +903,7 @@ abscised
 abscises
 abscising
 abscisins
+abnet
 absciss
 abscissa
 abscissae
