@@ -4576,7 +4576,6 @@ freshment
 fitchering
 fabrikoid
 fairylike
-fitches
 fitchet
 fitchets
 fruitgrowing
@@ -9349,6 +9348,7 @@ frailes
 frailish
 frailness
 frailty
+fitches
 frailties
 frayne
 frayproof
