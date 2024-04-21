@@ -309,7 +309,6 @@ fagaceae
 fagaceous
 fagald
 fayal
-foraminifera
 fayalites
 fayence
 faiences
@@ -7532,6 +7531,7 @@ flatuses
 finesser
 foreannouncement
 flutidae
+foraminifera
 foreanswer
 foreappoint
 foreappointment
