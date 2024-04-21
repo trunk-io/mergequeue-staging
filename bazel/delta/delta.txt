@@ -3656,7 +3656,6 @@ degreeing
 degreeless
 degrees
 degreewise
-degressive
 degressively
 degringolade
 degu
@@ -6236,6 +6235,7 @@ dermatopathology
 dermatopathophobia
 dermatophagus
 dermatophyte
+degressive
 diploneural
 dermatophytic
 dermatophytosis
