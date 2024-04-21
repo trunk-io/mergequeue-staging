@@ -8915,7 +8915,6 @@ charade
 charades
 charadrii
 charadriidae
-charadriiform
 charadriiformes
 charadrine
 charadrioid
@@ -9512,6 +9511,7 @@ checkless
 checkline
 checklist
 checklists
+charadriiform
 checkman
 checkmark
 checkmate
