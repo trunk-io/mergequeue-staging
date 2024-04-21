@@ -852,6 +852,7 @@ ectocoelic
 ectocommensal
 ectocondylar
 ectocondyle
+eleutheri
 ectocondyloid
 epizoites
 ectocranial
@@ -9075,7 +9076,6 @@ erinaceidae
 eryngium
 eringo
 eryngo
-eleutheri
 eringos
 eryngos
 erinys
