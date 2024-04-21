@@ -24851,7 +24851,6 @@ coracosteon
 coracovertebral
 coradical
 coradicate
-corage
 coraggio
 coragio
 corah
@@ -25604,6 +25603,7 @@ corps
 corpsbruder
 corpse
 corpselike
+corage
 corpselikeness
 corpses
 corpsy
