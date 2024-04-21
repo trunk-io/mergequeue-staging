@@ -3505,7 +3505,6 @@ addeem
 addend
 addenda
 addends
-addendum
 addendums
 adderbolt
 adderfish
@@ -20027,6 +20026,7 @@ antiscientifically
 arne
 arneb
 arnebia
+addendum
 arnee
 arnement
 arni
