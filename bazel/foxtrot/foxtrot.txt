@@ -4711,7 +4711,6 @@ fl
 flab
 flabbella
 flabbergast
-flabbergastation
 flabbergasted
 finalizations
 flabbergastingly
@@ -9709,6 +9708,7 @@ fluviograph
 freelance
 freelanced
 freelancer
+flabbergastation
 freelances
 freelancing
 freeload
