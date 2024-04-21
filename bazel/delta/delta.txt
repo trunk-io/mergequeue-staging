@@ -1709,6 +1709,7 @@ deathlikeness
 deathliness
 disappears
 deathrate
+deceivable
 deathrates
 deathroot
 deaths
@@ -2190,7 +2191,6 @@ doomer
 divergently
 deceitfulness
 deceivability
-deceivable
 deceivableness
 deceivably
 deceivance
