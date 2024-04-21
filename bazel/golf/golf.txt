@@ -664,7 +664,6 @@ gallium
 galliums
 gallivant
 gallivanted
-gallivanters
 gallivanting
 garotting
 gallivants
@@ -2051,6 +2050,7 @@ gaut
 gauteite
 gauzelike
 gauzewing
+gallivanters
 gauzy
 gauzier
 gauziest
