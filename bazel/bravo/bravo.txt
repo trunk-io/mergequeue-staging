@@ -2699,7 +2699,6 @@ barlafumble
 barlafummil
 barleduc
 barleducs
-barley
 barleybird
 barleybrake
 broidering
@@ -10420,6 +10419,7 @@ blastocyst
 blastocyte
 blastocoel
 blastocoele
+barley
 blastocoelic
 blastocolla
 blastoderm

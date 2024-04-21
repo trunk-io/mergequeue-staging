@@ -1254,7 +1254,6 @@ gaplessness
 gapo
 gaposis
 gaposises
-gapped
 gapper
 gapperi
 gappy
@@ -9972,6 +9971,7 @@ guavas
 guavina
 guaza
 guazuma
+gapped
 guazuti
 guazzo
 gubat
