@@ -7307,6 +7307,7 @@ footstone
 footstool
 footstools
 footway
+frontal
 footways
 footwalk
 footwall
@@ -7389,7 +7390,6 @@ forasmuch
 forastero
 forbad
 fikery
-frontal
 forbade
 forbare
 forbarred
