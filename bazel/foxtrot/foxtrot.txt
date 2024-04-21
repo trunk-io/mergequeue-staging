@@ -566,6 +566,7 @@ falloff
 falloffs
 fallopian
 fallostomy
+fibreglass
 fallout
 facetiousness
 funerate
@@ -3066,7 +3067,6 @@ fibration
 fibreboard
 fibred
 fibrefill
-fibreglass
 fibreless
 fibry
 fibril
