@@ -10587,7 +10587,6 @@ chylophylly
 chylophyllous
 chylophyllously
 chiloplasty
-chilopod
 chilopoda
 chilopodan
 chilopodous
@@ -16904,6 +16903,7 @@ clupeodei
 clupeoids
 cluppe
 cluricaune
+chilopod
 clusia
 castellanus
 clusiaceae
