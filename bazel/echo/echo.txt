@@ -8776,6 +8776,7 @@ equisided
 equisignal
 equisized
 equison
+exceeder
 equisonance
 equisonant
 equispaced
@@ -11931,7 +11932,6 @@ exceedable
 elutes
 exceeded
 engineered
-exceeder
 exceeders
 exceeding
 exceedingly
