@@ -4829,7 +4829,6 @@ flagon
 flagonless
 flagons
 fasciolaria
-frontspiece
 fleadock
 flagpole
 flagrance
@@ -5701,6 +5700,7 @@ flintlike
 flintlock
 flints
 flintstone
+frontspiece
 flintwood
 flyoff
 flioma
