@@ -9221,6 +9221,7 @@ chastiment
 chastisable
 chastise
 chastised
+coxopodite
 chastiser
 chastisers
 composture
@@ -27757,7 +27758,6 @@ condemned
 coxodynia
 coupee
 coxofemoral
-coxopodite
 coxswain
 coxswained
 coxswains
