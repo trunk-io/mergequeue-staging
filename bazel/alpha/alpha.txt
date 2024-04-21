@@ -2091,7 +2091,6 @@ acetylperoxide
 acetylphenylhydrazine
 acetylphenol
 alluring
-acetylrosaniline
 acetyls
 acetylsalicylate
 acetylsalicylic
@@ -23539,6 +23538,7 @@ auriculated
 auriculately
 auriculidae
 auriculo
+acetylrosaniline
 auriculocranial
 auriculoid
 auriculoparietal
