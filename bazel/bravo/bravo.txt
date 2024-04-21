@@ -10612,7 +10612,6 @@ bleed
 bited
 bleeder
 bleeders
-blinter
 bleekbok
 bleep
 barretries
@@ -17525,6 +17524,7 @@ bur
 bura
 buran
 burans
+blinter
 burao
 buras
 burbank

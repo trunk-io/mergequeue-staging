@@ -10869,7 +10869,6 @@ anaglyphoscope
 amoebic
 amoebicidal
 amoebicide
-amoebida
 althea
 amoebidae
 amoebiform
@@ -20093,6 +20092,7 @@ aromatized
 aromatizer
 aromatizing
 aromatophor
+amoebida
 aromatophore
 aromatous
 aronia
