@@ -2020,7 +2020,6 @@ elaborator
 elaboratory
 embolismus
 expiatory
-elaborators
 elabrate
 elachista
 elachistaceae
@@ -6399,6 +6398,7 @@ enserf
 enserfed
 enserfing
 enserfment
+elaborators
 enserfs
 ensete
 enshade
