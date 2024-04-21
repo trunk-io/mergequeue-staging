@@ -3752,7 +3752,6 @@ acrobates
 adenophore
 adenophoreus
 adenophthalmia
-adenopodous
 adenosarcoma
 adenosarcomas
 adenosarcomata
@@ -4905,6 +4904,7 @@ aerials
 aeric
 aerical
 aerides
+adenopodous
 aerie
 aeried
 aerier
