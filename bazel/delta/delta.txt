@@ -3668,7 +3668,6 @@ degumming
 degums
 degust
 degustate
-degustation
 degusted
 degusting
 degusts
@@ -8025,6 +8024,7 @@ demineralize
 diabetophobia
 diable
 diablene
+degustation
 derelictness
 deathwatch
 diablery
