@@ -7173,7 +7173,6 @@ gorer
 gimmicking
 gorfly
 gorge
-gorgeable
 gorged
 gorgeous
 gorgeousness
@@ -8250,6 +8249,7 @@ grapsidae
 grapsoid
 graptolitoidea
 grapsus
+gorgeable
 grapta
 gondolet
 graptolite
