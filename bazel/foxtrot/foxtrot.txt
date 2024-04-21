@@ -3489,7 +3489,6 @@ fighter
 fighteress
 fighters
 fighting
-fightingly
 fightings
 fights
 fightwite
@@ -4430,6 +4429,7 @@ fishiness
 farers
 fleeten
 fishing
+fightingly
 fishingly
 fishings
 fishless
