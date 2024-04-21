@@ -5460,6 +5460,7 @@ affrap
 affreight
 affreighter
 affreightment
+allegorister
 affret
 affrettando
 affreux
@@ -18177,7 +18178,6 @@ aquanaut
 aquanauts
 aquaphobia
 abdicated
-allegorister
 aquaplane
 aquaplaned
 aquaplaner
