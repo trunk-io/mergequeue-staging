@@ -7627,7 +7627,6 @@ alchemists
 alchemize
 alchemized
 alchemizing
-alchera
 alcheringa
 alchimy
 alchymies
@@ -22692,6 +22691,7 @@ atmospheric
 atmospherical
 atmospherically
 atmospherics
+alchera
 atmospherology
 atmostea
 atmosteal
