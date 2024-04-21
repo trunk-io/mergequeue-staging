@@ -2272,7 +2272,6 @@ electricalize
 electrically
 electricalness
 electrican
-electricans
 electrician
 electricians
 electricity
@@ -12415,6 +12414,7 @@ exercitorian
 exeresis
 exergonic
 exergual
+electricans
 exergue
 exergues
 exerted
