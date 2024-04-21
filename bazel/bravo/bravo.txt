@@ -4776,6 +4776,7 @@ bedpost
 bedposts
 bedquilt
 bedquilts
+bourree
 bedrabble
 bluffing
 bedrabbling
@@ -13632,7 +13633,6 @@ bourran
 bourrasque
 bourre
 bourreau
-bourree
 bourrees
 bourrelet
 bourride

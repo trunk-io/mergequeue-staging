@@ -8376,7 +8376,6 @@ diam
 diamagnet
 diamagnetic
 diamagnetically
-diamagnetism
 diamagnetize
 diamagnetometer
 diamant
@@ -16907,6 +16906,7 @@ dreamlike
 dreamlikeness
 dreamlore
 dreams
+diamagnetism
 deuteronomist
 dreamscape
 defiled
