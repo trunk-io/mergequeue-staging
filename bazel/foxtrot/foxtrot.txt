@@ -994,7 +994,6 @@ fare
 fared
 fellon
 farenheit
-felinophobe
 fares
 faretta
 faradize
@@ -4846,6 +4845,7 @@ flagstones
 flagworm
 flay
 flayed
+felinophobe
 fluidise
 flayer
 flayers
