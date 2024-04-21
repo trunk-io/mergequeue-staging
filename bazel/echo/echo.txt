@@ -9613,7 +9613,6 @@ escribano
 escribe
 escribed
 escribiente
-escribing
 escrime
 escript
 escritoire
@@ -13359,6 +13358,7 @@ expressionlessly
 expressionlessness
 ergasia
 expressions
+escribing
 expressive
 expressively
 expressiveness
