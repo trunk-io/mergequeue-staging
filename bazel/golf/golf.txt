@@ -6866,7 +6866,6 @@ goniodoridae
 goniodorididae
 gluteoperineal
 goniodoris
-goniometer
 goniometry
 goniometric
 goniometrical
@@ -10231,6 +10230,7 @@ guiltlessly
 gonapophysial
 gastroptosis
 guilts
+goniometer
 guiltsick
 guimpe
 guimpes
