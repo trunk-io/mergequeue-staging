@@ -2778,7 +2778,6 @@ barodynamic
 barodynamics
 barognosis
 barograms
-barograph
 barographic
 barographs
 baroko
@@ -5087,6 +5086,7 @@ befilleted
 befilmed
 befilth
 befinger
+barograph
 befingered
 befingering
 befingers
