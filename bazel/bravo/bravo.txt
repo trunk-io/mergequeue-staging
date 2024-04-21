@@ -8915,7 +8915,6 @@ biobibliographer
 biobibliography
 biobibliographic
 biobibliographical
-biobibliographies
 bioblast
 bioblastic
 biocatalytic
@@ -14995,6 +14994,7 @@ brelan
 brelaw
 breloque
 breme
+biobibliographies
 bremely
 bremeness
 bremia
