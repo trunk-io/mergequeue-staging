@@ -16789,6 +16789,7 @@ cloze
 clr
 clubability
 cohabit
+coholder
 clubable
 cuculi
 clubbability
@@ -18433,7 +18434,6 @@ cohobation
 cohobator
 cohogs
 cohol
-coholder
 coholders
 cohomology
 cohorn
