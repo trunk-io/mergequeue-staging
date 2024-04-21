@@ -5280,6 +5280,7 @@ beglare
 beglerbeg
 beglerbeglic
 beglerbeglik
+bakupari
 bags
 beglerbegluc
 beglerbegship
@@ -6345,7 +6346,6 @@ benzalacetophenone
 benzalazine
 batlet
 benzalcohol
-bakupari
 benzaldehyde
 benzaldiphenyl
 benzaldoxime
