@@ -4872,7 +4872,6 @@ dioptidae
 demonomy
 demonomist
 demonophobia
-demonopolize
 demonry
 divines
 demonship
@@ -10010,6 +10009,7 @@ dynametric
 dynamic
 dynamical
 dynamically
+demonopolize
 dynamicity
 dynamics
 dynamis

@@ -11720,6 +11720,7 @@ boddle
 bode
 boded
 bodefully
+booleys
 bodefulness
 bodegas
 bodegon
@@ -12717,7 +12718,6 @@ bool
 boolean
 booleans
 booley
-booleys
 booly
 boolya
 boolian
