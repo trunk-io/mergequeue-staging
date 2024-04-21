@@ -4007,6 +4007,7 @@ fingerer
 fingerers
 fingerfish
 fingerhook
+flaxlike
 fingering
 fingerings
 fingerleaf
@@ -11043,7 +11044,6 @@ fumeroot
 fumers
 fritts
 fumet
-flaxlike
 fumets
 flaccidities
 fumettes
