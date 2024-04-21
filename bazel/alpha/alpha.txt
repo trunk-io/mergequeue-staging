@@ -1534,6 +1534,7 @@ accidency
 accidencies
 accident
 accidentalism
+agonises
 accidentalist
 accidentality
 accidentally
@@ -6355,7 +6356,6 @@ agonied
 agonies
 agonise
 agonised
-agonises
 agonist
 agonistarch
 antiaris
