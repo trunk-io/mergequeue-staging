@@ -11093,6 +11093,7 @@ chittack
 chittak
 chittamwood
 chitted
+confiner
 chitter
 chitterlings
 chitters
@@ -21988,7 +21989,6 @@ confinedness
 confineless
 confinement
 confinements
-confiner
 confiners
 confines
 confining
