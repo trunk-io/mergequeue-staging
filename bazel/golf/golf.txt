@@ -1297,7 +1297,6 @@ garbler
 garblers
 garbles
 garbline
-garbling
 garblings
 garbo
 garboard
@@ -8026,6 +8025,7 @@ graniticoline
 getter
 granitiferous
 granitification
+garbling
 granitite
 granitization
 granitize
