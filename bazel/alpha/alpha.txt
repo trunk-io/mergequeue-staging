@@ -9681,7 +9681,6 @@ alveolocondylean
 alveolodental
 alveololabial
 albacea
-alveololingual
 alveolonasal
 alveolosubnasal
 alveolotomy
@@ -17763,6 +17762,7 @@ appl
 applanate
 applanation
 applaudable
+alveololingual
 applaudably
 applauded
 applauder
