@@ -18736,7 +18736,6 @@ coleopteral
 coleopteran
 coleopterist
 coleopteroid
-coleopterology
 coleopterological
 coleopteron
 coleopterous
@@ -27594,6 +27593,7 @@ cowbind
 cowbinds
 cowbird
 cowbirds
+coleopterology
 cowbyre
 carbonadoed
 cowboy
