@@ -5678,6 +5678,7 @@ enfort
 enforth
 enfortune
 enfoul
+extolls
 enfoulder
 enfrai
 enframe
@@ -13730,7 +13731,6 @@ extolling
 extollingly
 epidotes
 extollment
-extolls
 extols
 extoolitic
 extorsion
