@@ -126,7 +126,6 @@ abasgi
 abashed
 abashedness
 abashes
-abashing
 abashless
 abashment
 abasia
@@ -1054,6 +1053,7 @@ abstainers
 abstaining
 abstainment
 abstains
+abashing
 abstemious
 abstemiously
 abstemiousness

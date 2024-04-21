@@ -5080,7 +5080,6 @@ dendrocoelan
 dendrocoele
 dendrocoelous
 dendrocolaptidae
-dendrocolaptine
 dendroctonus
 dendrodic
 dendrodra
@@ -5206,6 +5205,7 @@ denomination
 denominational
 denominationalism
 denominationalist
+dendrocolaptine
 denominationally
 denominations
 denominative
