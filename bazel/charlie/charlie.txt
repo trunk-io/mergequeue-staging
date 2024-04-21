@@ -10714,7 +10714,6 @@ chinaroot
 clambered
 chinatown
 chinaware
-chinawoman
 chinband
 chinbone
 chinbones
@@ -19854,6 +19853,7 @@ comfortlessness
 comfortress
 comfortroot
 comforts
+chinawoman
 comfrey
 comfreys
 comiakin
