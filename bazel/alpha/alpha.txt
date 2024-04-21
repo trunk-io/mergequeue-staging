@@ -15256,7 +15256,6 @@ antifermentative
 antiferroelectric
 antiferromagnet
 antiferromagnetic
-antiferromagnetism
 antifertility
 antifertilizer
 anakinesis
@@ -15355,6 +15354,7 @@ antihemagglutinin
 agrostology
 antihemisphere
 antihemolysin
+antiferromagnetism
 antihemolytic
 antihemophilic
 antihemorrhagic
