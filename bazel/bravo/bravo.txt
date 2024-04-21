@@ -2155,6 +2155,7 @@ berried
 bannerole
 bannerols
 bannet
+bryozoan
 bannets
 bannimus
 bannister
@@ -15480,7 +15481,6 @@ bryophyte
 bryophytes
 bryophytic
 bryozoa
-bryozoan
 bryozoans
 bryozoon
 bywalker
