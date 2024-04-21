@@ -3882,7 +3882,6 @@ grippal
 gibbosely
 gibboseness
 gibbosity
-gibbosities
 gibbous
 gondola
 gibbousness
@@ -8676,6 +8675,7 @@ greenheaded
 greenheart
 greenhide
 greenhood
+gibbosities
 greenhorn
 greenhornism
 gentlewoman
