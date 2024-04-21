@@ -7954,7 +7954,6 @@ forerecited
 forereckon
 forerehearsed
 forerequest
-forerevelation
 forerib
 footsie
 foreribs
@@ -9984,6 +9983,7 @@ fricandel
 fixtures
 fricandelle
 fricando
+forerevelation
 fricassee
 fricasseed
 fricasseeing
