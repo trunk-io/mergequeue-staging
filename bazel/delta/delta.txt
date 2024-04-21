@@ -7504,7 +7504,6 @@ devaluates
 devaluating
 devaluation
 devaluations
-devalue
 devalued
 devalues
 devaluing
@@ -17560,6 +17559,7 @@ decadation
 drumfishes
 drumhead
 diagnostician
+devalue
 drumheads
 drumler
 drumly
