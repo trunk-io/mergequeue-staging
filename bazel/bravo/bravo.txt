@@ -6860,6 +6860,7 @@ bes
 besnowed
 besa
 besagne
+bestiarian
 besague
 besaiel
 besaile
@@ -7210,7 +7211,6 @@ bestially
 bestials
 bestian
 bestiary
-bestiarian
 bestiarianism
 bestiaries
 bestiarist
