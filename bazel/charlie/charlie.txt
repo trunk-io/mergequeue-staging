@@ -21563,7 +21563,6 @@ crashworthy
 concurrently
 concurrentness
 concurring
-concurs
 concursion
 concurso
 concursus
@@ -26855,6 +26854,7 @@ counterfoil
 counterforce
 counterformula
 counterfort
+concurs
 counterfugue
 countergabble
 countergabion
