@@ -3973,6 +3973,7 @@ adj
 adjacence
 adjacency
 adjacencies
+amberiferous
 adjacently
 adjag
 adject
@@ -9951,7 +9952,6 @@ ambergrease
 ambergris
 ambery
 amberies
-amberiferous
 amberina
 amberite
 amberjack
