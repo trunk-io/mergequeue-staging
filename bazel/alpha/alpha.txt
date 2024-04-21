@@ -2216,7 +2216,6 @@ acharnement
 achate
 achates
 achatina
-achatinella
 achatinidae
 anaesthesia
 act
@@ -12796,6 +12795,7 @@ angiokeratoma
 angiokinesis
 anthocerotales
 angioleucitis
+achatinella
 angiolymphitis
 angiolymphoma
 angiolipoma
