@@ -4463,7 +4463,6 @@ demerit
 demerited
 demeriting
 demeritorious
-demeritoriously
 demerits
 demerol
 desertion
@@ -12147,6 +12146,7 @@ dysfunctioning
 disfunctions
 dysfunctions
 disfurnish
+demeritoriously
 disfurnished
 disfurniture
 disgallant
