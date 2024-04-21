@@ -12692,7 +12692,6 @@ biyearly
 booksellerism
 booksellers
 bookshelf
-bookshelves
 bookshop
 bookshops
 booksy
@@ -15017,6 +15016,7 @@ brest
 bret
 bretelle
 bretesse
+bookshelves
 breth
 brethel
 brethrenism
