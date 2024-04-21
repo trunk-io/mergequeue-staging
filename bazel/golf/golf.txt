@@ -2989,6 +2989,7 @@ goal
 geocline
 glossological
 geococcyx
+gesnera
 geocoronium
 geocratic
 geraniols
@@ -3528,7 +3529,6 @@ gesithcund
 grouseless
 gesithcundman
 gesling
-gesnera
 gesneraceae
 gesneraceous
 gratia
