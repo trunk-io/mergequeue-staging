@@ -6626,7 +6626,6 @@ enterally
 enterate
 enterauxe
 enterectomy
-enterectomies
 entered
 enterer
 enterers
@@ -12152,6 +12151,7 @@ excoriated
 excoriating
 excoriation
 excoriations
+enterectomies
 extinguishable
 excorticating
 excortication
