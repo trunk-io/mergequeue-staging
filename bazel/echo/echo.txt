@@ -6946,7 +6946,6 @@ entomologize
 extinguishes
 entomologizing
 entomophaga
-entomophagan
 entomophagous
 entomophila
 entomophily
@@ -9310,6 +9309,7 @@ erotical
 erotically
 eroticism
 eroticist
+entomophagan
 eroticize
 eroticizing
 eroticomania
