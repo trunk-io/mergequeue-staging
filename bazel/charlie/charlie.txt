@@ -8833,7 +8833,6 @@ chaps
 chapstick
 chapt
 chaptalization
-chaptalize
 chaptalized
 chaptalizing
 chapter
@@ -20984,6 +20983,7 @@ comptometer
 comptonia
 comptonite
 comptrol
+chaptalize
 comptroller
 comptrollers
 comptrollership
