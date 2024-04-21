@@ -8373,7 +8373,6 @@ bigheads
 brake
 bighearted
 bigheartedly
-bigheartedness
 bighorn
 bighorns
 bight
@@ -12974,6 +12973,7 @@ borean
 boreas
 borecole
 borecoles
+bigheartedness
 bored
 boredom
 boredoms
