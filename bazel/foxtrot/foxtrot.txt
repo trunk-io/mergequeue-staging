@@ -6195,7 +6195,6 @@ flourishes
 flourishy
 foobar
 flourishingly
-flourless
 flourlike
 flours
 falcated
@@ -9828,6 +9827,7 @@ frenchize
 frenchless
 frenchly
 frenchmen
+flourless
 forestick
 frenchness
 frenchwise
