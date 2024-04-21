@@ -4889,7 +4889,6 @@ competer
 carvacrol
 carvage
 carval
-carve
 carved
 carvels
 carven
@@ -10211,6 +10210,7 @@ chiarooscurist
 chiarooscuro
 chiaroscurist
 chiaroscuro
+carve
 chiaroscuros
 chias
 chiasm
