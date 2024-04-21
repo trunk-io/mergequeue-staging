@@ -3582,7 +3582,6 @@ embosomed
 embosoming
 embosoms
 emboss
-embossage
 embossed
 eunuch
 exponentiations
@@ -5721,6 +5720,7 @@ engaol
 engarb
 eremophyte
 engarland
+embossage
 engarment
 engarrison
 engastrimyth
