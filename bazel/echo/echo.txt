@@ -588,7 +588,6 @@ echinorhinus
 echinospermum
 echinosphaeritidae
 echinostoma
-echinostomatidae
 echinostome
 echinostomiasis
 echinozoa
@@ -10815,6 +10814,7 @@ extimulate
 eugenie
 eugenism
 eugenists
+echinostomatidae
 eugenolate
 eugenols
 eugeosynclinal

@@ -9443,7 +9443,6 @@ cheat
 cheatableness
 cheated
 cheatee
-cheater
 cheatery
 cheateries
 cheaters
@@ -21830,6 +21829,7 @@ confabulator
 confabulatory
 confact
 confarreate
+cheater
 caraho
 confarreated
 confarreation
