@@ -7073,7 +7073,6 @@ goops
 gooral
 goorals
 gooranut
-goos
 goosander
 goose
 goosebeak
@@ -7846,6 +7845,7 @@ grammatite
 grammatolator
 grammatology
 guardstone
+goos
 grammatophyllum
 gramme
 groggiest

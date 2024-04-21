@@ -724,7 +724,6 @@ econometrical
 econometrically
 econometrician
 econometrics
-econometrist
 enhydrous
 economy
 economic
@@ -11820,6 +11819,7 @@ examinator
 examinatory
 examinatorial
 examine
+econometrist
 examined
 examinee
 examinees
