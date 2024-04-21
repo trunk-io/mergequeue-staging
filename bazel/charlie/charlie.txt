@@ -24292,6 +24292,7 @@ cookless
 cookmaid
 cookout
 cookouts
+cryptogamy
 cookroom
 cookshop
 cookshops
@@ -29280,7 +29281,6 @@ cryptodirous
 cryptodouble
 cryptogam
 cryptorrhetic
-cryptogamy
 cryptogamia
 cryptogamian
 cryptogamic
