@@ -14750,7 +14750,6 @@ cystoureteritis
 cystourethritis
 counterfeitness
 cystourethrography
-cystous
 cistron
 cistronic
 cistrons
@@ -20073,6 +20072,7 @@ commercialist
 commercialistic
 commercialists
 commerciality
+cystous
 commercialization
 commercializations
 commercialize
