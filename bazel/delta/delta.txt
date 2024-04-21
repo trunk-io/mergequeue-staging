@@ -15268,7 +15268,6 @@ doltish
 doltishly
 doltishness
 dolus
-dolven
 dom
 defaulter
 domage
@@ -16782,6 +16781,7 @@ digram
 drave
 dravya
 dravidian
+dolven
 dravidic
 dravite
 draw
