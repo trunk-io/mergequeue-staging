@@ -980,6 +980,7 @@ farcist
 farctate
 fard
 fardage
+foliaging
 freesia
 farde
 farded
@@ -6936,7 +6937,6 @@ foliage
 frouzier
 foliaged
 foliages
-foliaging
 folial
 foliary
 foliate
