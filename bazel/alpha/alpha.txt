@@ -4152,6 +4152,7 @@ athapascan
 admiral
 admirals
 admiralship
+azygobranchiate
 admiralty
 admiralties
 admirance
@@ -25222,7 +25223,6 @@ azido
 aziethane
 azygobranchia
 azygobranchiata
-azygobranchiate
 azygomatous
 azygos
 azygoses
