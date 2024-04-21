@@ -5342,6 +5342,7 @@ endorsing
 endorsingly
 endorsors
 endosalpingitis
+epididymite
 endosarcous
 endosarcs
 endosclerite
@@ -7813,7 +7814,6 @@ epidictic
 epididymal
 epididymides
 epididymis
-epididymite
 epididymodeferentectomy
 epididymodeferential
 epididymovasostomy
