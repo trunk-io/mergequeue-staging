@@ -287,7 +287,6 @@ abducted
 abducting
 abduction
 abductions
-abductor
 abductores
 abducts
 abe
@@ -15677,6 +15676,7 @@ antineuralgic
 antineuritic
 antineurotoxin
 antineutral
+abductor
 antineutralism
 arachne
 antineutrality
