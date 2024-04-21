@@ -685,6 +685,7 @@ gallonage
 gallons
 galloon
 gallooned
+grillroom
 galinsoga
 galloons
 galloot
@@ -8994,7 +8995,6 @@ grylli
 gobinist
 gerontoxon
 gryllos
-grillroom
 grills
 gruys
 gryllus
