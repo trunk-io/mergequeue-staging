@@ -7667,7 +7667,6 @@ gradual
 gradualist
 gradualistic
 graduality
-gallantness
 gradually
 gradualness
 graduand
@@ -9522,6 +9521,7 @@ groutite
 gamine
 groutnoll
 grouts
+gallantness
 globulitic
 grouze
 gymnocerata
