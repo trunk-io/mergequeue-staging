@@ -9118,7 +9118,6 @@ charta
 chartable
 chartaceous
 chartae
-charted
 charter
 charterable
 chartered
@@ -18195,6 +18194,7 @@ coffees
 continuant
 coffeetime
 coffeewood
+charted
 coffer
 cofferdam
 cofferdams
