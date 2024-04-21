@@ -11576,7 +11576,6 @@ discussant
 disconsolation
 dunkle
 disconsonancy
-disconsonant
 discontented
 discontentedly
 discontentedness
@@ -14589,6 +14588,7 @@ demur
 doating
 doatish
 doats
+disconsonant
 dob
 dobbed
 debouche
