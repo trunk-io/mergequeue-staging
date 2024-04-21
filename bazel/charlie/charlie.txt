@@ -20795,7 +20795,6 @@ compoer
 compole
 compone
 componed
-componency
 componendo
 component
 componental
@@ -26356,6 +26355,7 @@ coth
 cotham
 cothamore
 cothe
+componency
 cotheorist
 cothy
 cothish
