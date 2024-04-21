@@ -11521,7 +11521,6 @@ cholaemia
 cholagogic
 cholagogue
 cholalic
-cholam
 cholangiography
 cholangioitis
 cholangitis
@@ -27366,6 +27365,7 @@ chertier
 courter
 courters
 courtesan
+cholam
 courtesanry
 courtesans
 courtesanship
