@@ -8750,7 +8750,6 @@ chaparejos
 chaparral
 chaparrals
 chaparraz
-chaparro
 chapati
 chapaties
 chapatis
@@ -21443,6 +21442,7 @@ concoct
 crackable
 concocted
 concocter
+chaparro
 concocting
 concoction
 concoctions
