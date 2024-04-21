@@ -1499,7 +1499,6 @@ garbardine
 garroter
 garroters
 garrotes
-gulper
 garroting
 gn
 garrotte
@@ -3062,6 +3061,7 @@ goatland
 geographer
 gramaphone
 geographers
+gulper
 geography
 geographical
 geographically
