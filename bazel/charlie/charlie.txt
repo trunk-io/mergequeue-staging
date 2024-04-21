@@ -9872,6 +9872,7 @@ chemophysiological
 chemoprophyalctic
 chemoprophylactic
 chemoprophylaxis
+columnal
 chemoreception
 chemoreceptive
 chemoreceptivity
@@ -19577,7 +19578,6 @@ columelliform
 columels
 column
 columna
-columnal
 columnar
 columnarian
 columnarity
