@@ -673,6 +673,7 @@ gallize
 gallnut
 gallnuts
 gallocyanine
+gyrotheca
 galloflavin
 galloflavine
 galloglass
@@ -4832,7 +4833,6 @@ gyrostat
 gyrostatic
 gyrostatically
 gastroplenic
-gyrotheca
 girouette
 girouettes
 girouettism

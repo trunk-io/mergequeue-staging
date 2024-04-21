@@ -12175,7 +12175,6 @@ deathling
 dysgnosia
 dysgonic
 disgood
-disgorge
 dual
 disgorged
 disgorgement
@@ -14230,6 +14229,7 @@ diurnally
 defunctness
 diurnalness
 diurnals
+disgorge
 diurnation
 diurne
 diurnule
