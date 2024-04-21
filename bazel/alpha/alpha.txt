@@ -5335,6 +5335,7 @@ affiancing
 affiant
 affiants
 affich
+animize
 affiche
 affiches
 affidare
@@ -13237,7 +13238,6 @@ aerodonetic
 animistic
 anabatic
 animists
-animize
 animized
 animo
 anabranch
