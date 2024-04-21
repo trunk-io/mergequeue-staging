@@ -685,6 +685,7 @@ cageot
 cager
 cagers
 cagester
+churchshot
 cagework
 caggy
 cagy
@@ -12864,7 +12865,6 @@ churchmaster
 churchmen
 churchreeve
 churchscot
-churchshot
 churchway
 churchward
 churchwarden
