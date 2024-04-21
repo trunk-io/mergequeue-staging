@@ -4591,7 +4591,6 @@ demiliterate
 demilunes
 disgruntles
 demilustre
-demiman
 demimark
 demimentoniere
 demimillionaire
@@ -15870,6 +15869,7 @@ dose
 dosed
 doser
 dosers
+demiman
 dosimeter
 dosimeters
 dosimetry
