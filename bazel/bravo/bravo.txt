@@ -11824,6 +11824,7 @@ boffos
 biporous
 boffs
 bog
+boilover
 boga
 bogach
 bogan
@@ -11996,7 +11997,6 @@ boilinglike
 bladdernose
 boiloff
 boiloffs
-boilover
 boils
 boing
 boyology
