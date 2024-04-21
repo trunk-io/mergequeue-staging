@@ -753,7 +753,6 @@ aboundingly
 abounds
 about
 abouts
-antefuture
 above
 abovedeck
 aboveground
@@ -10455,6 +10454,7 @@ amidships
 amidst
 amidstream
 accoy
+antefuture
 amidulin
 amidward
 amie
