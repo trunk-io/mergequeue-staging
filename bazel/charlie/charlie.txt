@@ -17172,7 +17172,6 @@ coalize
 coalized
 coalizer
 coalizing
-coalless
 coalmonger
 coalmouse
 cogitos
@@ -26903,6 +26902,7 @@ counterlathing
 counterlatration
 counterlaw
 counterleague
+coalless
 counterlegislation
 counterly
 counterlife
