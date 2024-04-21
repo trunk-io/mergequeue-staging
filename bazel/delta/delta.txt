@@ -16503,7 +16503,6 @@ drachms
 dracin
 deliber
 dasyprocta
-dracma
 draco
 dracocephalum
 dracone
@@ -17429,6 +17428,7 @@ drossing
 drossless
 dowily
 diazoimido
+dracma
 drostden
 drostdy
 drou
