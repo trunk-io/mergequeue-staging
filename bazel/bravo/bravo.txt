@@ -2093,6 +2093,7 @@ bankcards
 bronchiogenic
 banked
 banker
+burghership
 bewitchments
 bankera
 bankerdom
@@ -17646,7 +17647,6 @@ blowtubes
 burgheristh
 burghermaster
 burghers
-burghership
 burghmaster
 burghmoot
 burghs
