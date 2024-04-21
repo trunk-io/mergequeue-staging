@@ -7025,6 +7025,7 @@ entracte
 entrada
 entradas
 entrail
+evolver
 entrain
 entrained
 entrainer
@@ -11695,7 +11696,6 @@ evolved
 evolvement
 electroretinogram
 evolvent
-evolver
 evolvers
 evolves
 evolving
