@@ -7258,7 +7258,6 @@ footnote
 footnoted
 footnotes
 footpace
-footpaces
 forefather
 footpad
 footpads
@@ -9343,6 +9342,7 @@ fraying
 frayings
 fraik
 fraile
+footpaces
 frailejon
 frailero
 fraileros
