@@ -737,6 +737,7 @@ danaro
 danburite
 dancalite
 dance
+diplanetic
 danceability
 danceable
 danced
@@ -10510,7 +10511,6 @@ diplacanthus
 diplacusis
 dipladenia
 diplanar
-diplanetic
 denominationalize
 diplanetism
 diplantidian
