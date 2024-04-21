@@ -7333,7 +7333,6 @@ gossypium
 gossipmonger
 gossipmongering
 gossypol
-gossypols
 gossypose
 gossipped
 gossipping
@@ -9604,6 +9603,7 @@ grubbily
 grubbing
 goetical
 grubble
+gossypols
 galtonian
 grubhood
 grubless
