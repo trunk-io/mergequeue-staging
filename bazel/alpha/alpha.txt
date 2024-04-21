@@ -10418,7 +10418,6 @@ amidoacetophenone
 amidoaldehyde
 amidoazo
 amidoazobenzene
-amidocapric
 amidocyanogen
 amidofluorid
 amidofluoride
@@ -14971,6 +14970,7 @@ anticlinal
 anticline
 anticlines
 anticlinoria
+amidocapric
 anticlinorium
 anticlnoria
 anticlockwise
