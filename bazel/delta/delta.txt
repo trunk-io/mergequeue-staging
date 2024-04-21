@@ -4306,7 +4306,6 @@ deluding
 deludingly
 deluge
 deluged
-deluges
 deluging
 delumbate
 deluminize
@@ -11884,6 +11883,7 @@ doorba
 disembay
 disembalm
 disembargo
+deluges
 disembargoing
 disembark
 disembarkation
