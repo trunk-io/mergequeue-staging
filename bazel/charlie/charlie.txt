@@ -3718,7 +3718,6 @@ chylificatory
 carbonizes
 carbonizing
 carbonless
-carbonnieux
 carbonometer
 carpuspi
 carbonometry
@@ -29806,6 +29805,7 @@ crossable
 crossarm
 crossarms
 crossband
+carbonnieux
 crossbanded
 crossbanding
 crossbar
