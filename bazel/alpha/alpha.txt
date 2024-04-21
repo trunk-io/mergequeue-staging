@@ -942,7 +942,6 @@ acanthopteri
 absenteeship
 absenter
 absenters
-absentia
 absenting
 absently
 absentment
@@ -8875,6 +8874,7 @@ allometry
 allomorph
 allomorphic
 allomorphism
+absentia
 allomorphite
 allomucic
 allonge
