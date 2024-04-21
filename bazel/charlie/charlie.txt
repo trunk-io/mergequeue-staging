@@ -23860,7 +23860,6 @@ controversed
 controversial
 controversialism
 controversialist
-controversialize
 controversially
 controversies
 controversion
@@ -27912,6 +27911,7 @@ cradleboard
 cradlechild
 cradled
 cradlefellow
+controversialize
 cradleland
 cradlemaker
 cradlemaking
