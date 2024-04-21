@@ -5163,7 +5163,6 @@ glandula
 glandular
 glandularly
 glandule
-glandules
 glanduliferous
 glanduliform
 glanduligerous
@@ -8124,6 +8123,7 @@ granulous
 granville
 granza
 granzita
+glandules
 graped
 gammarid
 grossness

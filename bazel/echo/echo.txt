@@ -1716,7 +1716,6 @@ eidouranion
 eye
 educates
 enuretic
-eyeable
 eyeball
 eyeballed
 eyeballing
@@ -10444,6 +10443,7 @@ ethmosphenoid
 ethmosphenoidal
 ethmoturbinal
 ethmovomer
+eyeable
 ethmovomerine
 ethnal
 ethnarchy
