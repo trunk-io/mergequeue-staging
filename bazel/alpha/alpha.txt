@@ -11809,7 +11809,6 @@ analogousness
 analogs
 analogue
 analogues
-analphabet
 analphabete
 analphabetic
 awink
@@ -19380,6 +19379,7 @@ areopagist
 areopagite
 areopagitic
 areopagitica
+analphabet
 areosystyle
 androgametangium
 areostyle
