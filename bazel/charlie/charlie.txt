@@ -14215,7 +14215,6 @@ caslon
 circuli
 circulin
 circulus
-circumaction
 circumadjacent
 circumagitate
 circumagitation
@@ -16722,6 +16721,7 @@ cloudland
 colias
 cloudless
 cloudlessly
+circumaction
 centimeter
 cloudlessness
 cloudlets
