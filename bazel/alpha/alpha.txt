@@ -9487,7 +9487,6 @@ alternatives
 alternativity
 alternativo
 alternator
-alternators
 alterne
 alternifoliate
 alternipetalous
@@ -14144,6 +14143,7 @@ antiquate
 anteed
 antefact
 antefix
+alternators
 antefixa
 antefixes
 anaesthyl
