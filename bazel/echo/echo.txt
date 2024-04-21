@@ -9787,7 +9787,6 @@ esperance
 esperantic
 esperantidist
 esperantism
-esperantist
 esperanto
 espy
 earhead
@@ -11572,6 +11571,7 @@ everts
 everwhich
 everwho
 escurialize
+esperantist
 evese
 evetide
 endover
