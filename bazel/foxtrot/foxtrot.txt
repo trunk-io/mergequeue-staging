@@ -3857,7 +3857,6 @@ filtrates
 filtre
 filum
 fimbria
-fimbriae
 fimbrial
 fimbriate
 fimbriated
@@ -11376,6 +11375,7 @@ furfurans
 furfuration
 furfures
 furfuryl
+fimbriae
 furfurylidene
 floppily
 fished
