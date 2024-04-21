@@ -18628,6 +18628,7 @@ arcanist
 arcanite
 arcanum
 arcate
+ashcan
 arcato
 arcature
 arcatures
@@ -21125,7 +21126,6 @@ ashanti
 asharasi
 ashberry
 ashcake
-ashcan
 ashcans
 ashed
 ashen
