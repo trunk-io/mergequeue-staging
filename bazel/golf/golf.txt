@@ -3919,7 +3919,6 @@ gibs
 gibson
 gnathostomatous
 graduate
-gibsons
 gibstaff
 gibus
 galli
@@ -4886,6 +4885,7 @@ gitanos
 gite
 gyte
 giterne
+gibsons
 gith
 gitim
 gitksan

@@ -465,6 +465,7 @@ eccyclema
 eccyesis
 eccl
 eccles
+envenomization
 ecclesiae
 ecclesial
 ecclesiarch
@@ -7206,7 +7207,6 @@ envenom
 envenomation
 envenomed
 envenoming
-envenomization
 envenomous
 envenoms
 enventual
