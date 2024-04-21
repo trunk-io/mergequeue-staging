@@ -2490,7 +2490,6 @@ fermerer
 fermery
 fermi
 founders
-fermila
 fermillet
 fermion
 flexity
@@ -6503,6 +6502,7 @@ fluorimeter
 fluorimetry
 fraterniser
 fluorimetric
+fermila
 fluorin
 fluorinated
 fluorinating
