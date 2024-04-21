@@ -9567,7 +9567,6 @@ eschaufe
 epistemology
 eschaunge
 exploitations
-escheat
 escheatable
 escheatage
 escheated
@@ -12160,6 +12159,7 @@ excreation
 excrement
 excremental
 excrementally
+escheat
 excrementary
 excrementitial
 excrementitious
