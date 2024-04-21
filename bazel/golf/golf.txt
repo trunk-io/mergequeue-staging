@@ -7878,6 +7878,7 @@ granage
 granam
 granatite
 granary
+gully
 granaries
 granat
 gratias
@@ -10347,7 +10348,6 @@ gullet
 gulleting
 gladiatrix
 gullets
-gully
 gullibility
 gullible
 gullibly
