@@ -11285,6 +11285,7 @@ chlorobromomethane
 chlorocalcite
 chlorocarbon
 chlorocarbonate
+congeals
 chlorochromates
 chlorochromic
 chlorochrous
@@ -22187,7 +22188,6 @@ congealedness
 congealing
 congealment
 connusable
-congeals
 conged
 congee
 congeed
