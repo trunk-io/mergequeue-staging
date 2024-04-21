@@ -2221,6 +2221,7 @@ decemfoliate
 decemfoliolate
 decemjugate
 decemlocular
+deionizations
 decempartite
 decempedal
 decempedate
@@ -3840,7 +3841,6 @@ deynt
 deintellectualization
 deintellectualize
 deionization
-deionizations
 deionize
 deionized
 deionizer
