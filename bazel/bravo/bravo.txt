@@ -474,7 +474,6 @@ backshish
 biquadrate
 backside
 backsides
-backsight
 blolly
 backsite
 bowsing
@@ -9096,6 +9095,7 @@ bionomy
 bionomic
 bionomical
 bionomically
+backsight
 boysenberries
 bionomies
 biont
