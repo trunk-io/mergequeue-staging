@@ -8261,7 +8261,6 @@ chalcon
 chalcone
 chalcophanite
 chalcophile
-chalcophyllite
 chalcopyrite
 canelle
 chalcosiderite
@@ -14736,6 +14735,7 @@ cystotomy
 cystotomies
 cystotrachelotomy
 cystoureteritis
+chalcophyllite
 cystourethritis
 counterfeitness
 cystourethrography
