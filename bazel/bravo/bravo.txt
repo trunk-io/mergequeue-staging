@@ -7979,7 +7979,6 @@ biborate
 bibracteate
 bibracteolate
 bibs
-bibulosity
 billing
 bibulosities
 bibulous
@@ -12841,6 +12840,7 @@ bootlegger
 bootleggers
 bootlegging
 bootlegs
+bibulosity
 bootless
 bootlessly
 bootlessness
