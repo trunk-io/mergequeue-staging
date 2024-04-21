@@ -3948,7 +3948,6 @@ adiponitrile
 adipopectic
 adipopexia
 adipopexic
-adipopexis
 adipose
 adiposeness
 adiposes
@@ -11526,6 +11525,7 @@ aerospace
 anachronismatical
 anachronisms
 anachronist
+adipopexis
 anachronistic
 anachronistical
 anachronistically
