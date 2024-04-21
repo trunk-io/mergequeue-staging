@@ -4380,6 +4380,7 @@ emusifying
 emusive
 en
 enable
+eventfully
 expertising
 enabled
 enablement
@@ -11483,7 +11484,6 @@ evensongs
 event
 eventail
 eventful
-eventfully
 eventfulness
 eventide
 exuvia
