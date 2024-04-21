@@ -2621,7 +2621,6 @@ electrosmosis
 electrostatic
 etymons
 electrostatical
-electrostatics
 electrosteel
 electrostenolysis
 electrostenolytic
@@ -5778,6 +5777,7 @@ engirt
 engiscope
 engyscope
 engysseismology
+electrostatics
 episcias
 engystomatidae
 engjateigur
