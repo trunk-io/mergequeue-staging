@@ -22761,7 +22761,6 @@ consitutional
 consderations
 consecrate
 consecrated
-consecratedness
 consecrater
 consecrates
 consecrating
@@ -23051,6 +23050,7 @@ constablery
 cowgate
 constables
 constableship
+consecratedness
 constabless
 constablewick
 constabular
