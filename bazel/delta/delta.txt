@@ -5014,7 +5014,6 @@ denationalization
 denationalize
 denationalized
 denaturalisation
-denaturalise
 denaturalised
 denaturalising
 denaturalization
@@ -18080,6 +18079,7 @@ dumbness
 dumbnesses
 dumbstricken
 dumbstruck
+denaturalise
 dumbwaiter
 dumbwaiters
 dumdum
