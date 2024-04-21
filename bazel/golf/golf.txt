@@ -6057,7 +6057,6 @@ gesticulator
 glucid
 genizero
 glucidic
-glucina
 glucine
 glucinic
 glucinium
@@ -8224,6 +8223,7 @@ graphostatical
 guggles
 greaser
 graphostatics
+glucina
 graphotypic
 graphs
 grapier
