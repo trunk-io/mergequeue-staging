@@ -644,6 +644,7 @@ fam
 fama
 famacide
 famatinite
+fluxional
 famble
 fame
 fatiguability
@@ -6665,7 +6666,6 @@ fluxile
 fluxility
 fluxing
 fluxion
-fluxional
 fluxionally
 fluxionary
 fluxionist
