@@ -2748,7 +2748,6 @@ elemental
 esdras
 elementalism
 elementalistic
-elementalistically
 elementality
 elementalize
 elementally
@@ -9425,6 +9424,7 @@ eructation
 eructative
 eructed
 employable
+elementalistically
 eructing
 eruction
 exaggerated
