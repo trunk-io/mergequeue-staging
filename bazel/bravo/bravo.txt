@@ -5391,7 +5391,6 @@ begun
 begunk
 begut
 behale
-behalf
 behallow
 behalves
 behammer
@@ -14167,6 +14166,7 @@ bradyphemia
 bradyphrasia
 bradyphrenia
 bradypnea
+behalf
 bradypod
 bradypode
 bradypodidae
