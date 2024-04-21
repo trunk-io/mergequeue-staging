@@ -10844,7 +10844,6 @@ euhedral
 euhemerise
 euhemerised
 euhemerising
-euhemerism
 euhemerist
 euhemeristic
 euhemeristically
@@ -12039,6 +12038,7 @@ exciseman
 emetatrophia
 excisemanship
 excisemen
+euhemerism
 excising
 excision
 excisions
