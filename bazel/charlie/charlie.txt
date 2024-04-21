@@ -9726,6 +9726,7 @@ chela
 chelaship
 chelatable
 chelate
+cupreous
 chelated
 chelates
 chelating
@@ -31136,7 +31137,6 @@ corantos
 cuprein
 cupreine
 cuprene
-cupreous
 cupressaceae
 cupressineous
 cupressinoxylon
