@@ -8997,7 +8997,6 @@ allow
 allowable
 allowableness
 allowably
-allowance
 allowanced
 allowances
 allowancing
@@ -19096,6 +19095,7 @@ archpillar
 archpirate
 adactylism
 archplagiarist
+allowance
 archplayer
 archplotter
 archplunderer
