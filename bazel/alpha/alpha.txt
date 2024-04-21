@@ -14404,7 +14404,6 @@ anthoclinium
 anthodia
 additamentary
 anthodium
-anthoecology
 anthoecological
 actinocarp
 anthoecologist
@@ -22894,6 +22893,7 @@ attachers
 attaches
 attacheship
 attaching
+anthoecology
 attachment
 attachments
 attack

@@ -10525,7 +10525,6 @@ ethnomusicologist
 ethnopsychic
 ethnopsychology
 ethnopsychological
-ethnos
 ethnoses
 ethnotechnics
 ethnotechnography
@@ -11381,6 +11380,7 @@ evangelistics
 evangelists
 evangelistship
 evangelium
+ethnos
 evangelization
 ectoloph
 evangelize
