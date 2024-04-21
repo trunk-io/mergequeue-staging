@@ -3307,7 +3307,6 @@ graftage
 geraniol
 geranium
 geraniums
-geranomorph
 geranomorphae
 geranomorphic
 gerara
@@ -9753,6 +9752,7 @@ grutched
 gutter
 grutches
 gossipper
+geranomorph
 griffith
 grutching
 grutten
