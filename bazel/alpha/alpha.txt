@@ -5079,7 +5079,6 @@ aeropathy
 aeropause
 antilapse
 aerope
-aeroperitoneum
 aerophagy
 aerophagia
 aerophagist
@@ -22891,6 +22890,7 @@ attacher
 attachers
 attaches
 attacheship
+aeroperitoneum
 attaching
 anthoecology
 attachment
