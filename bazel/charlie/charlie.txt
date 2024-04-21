@@ -16166,7 +16166,6 @@ climbs
 clime
 clymenia
 climes
-climograph
 clin
 clinah
 clinal
@@ -25358,6 +25357,7 @@ corniced
 cornices
 corniche
 corniches
+climograph
 cornicing
 cornicle
 cornicular
