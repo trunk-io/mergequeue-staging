@@ -5107,7 +5107,6 @@ benumbedness
 beflagging
 beflags
 beflannel
-beflap
 beflatter
 beflea
 befleaing
@@ -13135,6 +13134,7 @@ bosjesman
 bosk
 boskage
 boskages
+beflap
 begetter
 bottlebrush
 breunnerite
