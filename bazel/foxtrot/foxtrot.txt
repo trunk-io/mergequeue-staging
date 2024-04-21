@@ -329,6 +329,7 @@ failures
 fain
 fainaigue
 fishmen
+fourposter
 fainaigued
 fainaiguer
 faucial
@@ -9081,7 +9082,6 @@ fourneau
 fourness
 fourniture
 fourpenny
-fourposter
 fourposters
 flabellarium
 fourpounder
