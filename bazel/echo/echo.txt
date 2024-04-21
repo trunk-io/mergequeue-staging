@@ -12385,7 +12385,6 @@ exemptive
 exempts
 exencephalia
 exencephalic
-exencephalous
 escuages
 excessman
 exencephalus
@@ -12915,6 +12914,7 @@ expansionists
 efford
 expansions
 expansive
+exencephalous
 expansively
 expansiveness
 expansivity
