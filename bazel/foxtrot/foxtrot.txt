@@ -8014,6 +8014,7 @@ foreshadows
 foreshaft
 foreshank
 foreshape
+firewoods
 foresheet
 foresheets
 frangulaceae
@@ -9455,7 +9456,6 @@ frankfurters
 frankheartedly
 frankheartedness
 frankheartness
-firewoods
 frankify
 fiddlestring
 frankincense
