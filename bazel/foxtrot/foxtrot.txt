@@ -7991,7 +7991,6 @@ foreseen
 foreseer
 foreseers
 foresees
-foresey
 foreseing
 foreseize
 foresend
@@ -8456,6 +8455,7 @@ fibers
 formants
 format
 firedogs
+foresey
 formates
 formation
 fargoing
