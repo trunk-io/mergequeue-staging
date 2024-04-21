@@ -12177,7 +12177,6 @@ chrysemys
 chrysene
 chrysenic
 chrysid
-chrysidella
 chrysidid
 chrysididae
 chrysin
@@ -23296,6 +23295,7 @@ contagious
 contagiousness
 cypresses
 contagium
+chrysidella
 contain
 containable
 contained
