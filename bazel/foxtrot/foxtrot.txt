@@ -4502,7 +4502,6 @@ fissipes
 fissirostral
 fissirostrate
 falconinae
-fissirostres
 fissle
 flunkyism
 fissura
@@ -9674,6 +9673,7 @@ freedman
 facete
 freedmen
 freedom
+fissirostres
 freedoms
 freedoot
 freedstool

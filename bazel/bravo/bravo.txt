@@ -3348,7 +3348,6 @@ basketware
 basketweaving
 beid
 bullshit
-basketwood
 basketwork
 bucconasal
 basketworm
@@ -8790,6 +8789,7 @@ byname
 bynames
 binaphthyl
 binapthyl
+basketwood
 binary
 binaries
 binate
