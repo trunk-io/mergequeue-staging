@@ -2466,7 +2466,6 @@ cany
 canichanan
 canicide
 canicola
-canicula
 canicular
 canicule
 canid
@@ -24277,6 +24276,7 @@ corncutting
 cookey
 cookeys
 cookeite
+canicula
 cooker
 cookery
 cookeries
