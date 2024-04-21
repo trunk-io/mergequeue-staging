@@ -7502,6 +7502,7 @@ fordable
 fordableness
 fordays
 fordam
+forleaving
 forded
 fulvidness
 fordy
@@ -10544,7 +10545,6 @@ froughy
 frounce
 frounced
 frounceless
-forleaving
 frounces
 frouncing
 frousy
