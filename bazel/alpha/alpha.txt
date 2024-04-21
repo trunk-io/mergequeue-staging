@@ -11616,7 +11616,6 @@ anaerobium
 alkaligenous
 avanti
 anaerophyte
-anaeroplasty
 anaeroplastic
 anaesthatic
 anaesthesiant
@@ -19788,6 +19787,7 @@ agape
 arytenoid
 arytenoidal
 arith
+anaeroplasty
 arithmancy
 arithmetic
 arithmetically
