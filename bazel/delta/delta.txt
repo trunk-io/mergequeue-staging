@@ -5027,6 +5027,7 @@ denatures
 denaturing
 denaturisation
 denaturise
+doughnut
 denaturised
 duodiode
 denaturiser
@@ -16095,7 +16096,6 @@ doughmaker
 doughmaking
 doughman
 doughmen
-doughnut
 doughnuts
 dought
 doughty
