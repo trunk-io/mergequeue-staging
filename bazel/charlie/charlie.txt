@@ -18850,7 +18850,6 @@ collaborations
 collaborative
 collaboratively
 collaborativeness
-collaborator
 collaborators
 collada
 colladas
@@ -24356,6 +24355,7 @@ coonily
 cooniness
 coonjine
 coonroot
+collaborator
 coons
 coonskin
 coonskins
