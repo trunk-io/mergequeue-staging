@@ -10838,7 +10838,6 @@ amniorrhea
 amnios
 amniota
 adda
-amniote
 amniotes
 amniotic
 amniotin
@@ -25323,6 +25322,7 @@ azosulphonic
 azotaemia
 azotate
 azotea
+amniote
 acquisita
 annist
 azoted
