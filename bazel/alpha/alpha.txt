@@ -5389,6 +5389,7 @@ affirmingly
 affirms
 affix
 affixable
+anteoccupation
 affixation
 affixed
 affixer
@@ -14221,7 +14222,6 @@ antenor
 antenumber
 antenuptial
 amphibious
-anteoccupation
 assentive
 anteocular
 antistes
