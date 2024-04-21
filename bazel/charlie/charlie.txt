@@ -3974,7 +3974,6 @@ cardiographs
 cardiohepatic
 cardioid
 cardioids
-cardiokinetic
 cardiolysis
 capriole
 cardiolith
@@ -5003,6 +5002,7 @@ caseload
 caseloads
 caselty
 casemaker
+cardiokinetic
 casemaking
 casemated
 casemates
