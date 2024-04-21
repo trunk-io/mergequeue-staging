@@ -2776,6 +2776,7 @@ decreement
 decreer
 decreers
 decrees
+disciplinable
 decreet
 decreing
 decrement
@@ -11354,7 +11355,6 @@ disciples
 discipleship
 dracaena
 disciplinability
-disciplinable
 disciplinableness
 disciplinal
 disciplinant
