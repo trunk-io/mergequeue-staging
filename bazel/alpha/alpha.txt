@@ -3157,7 +3157,6 @@ actinomycetal
 actinomycetales
 actinomycete
 actinomycetous
-adversant
 actinomycin
 actinomycoma
 actinomycosis
@@ -24372,6 +24371,7 @@ autosexing
 autosight
 activation
 albuminuric
+adversant
 autosign
 autosymbolic
 autosymbolical
