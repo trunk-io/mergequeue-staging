@@ -8977,7 +8977,6 @@ bioelectricity
 bioelectricities
 belook
 bioelectrogenesis
-bioelectrogenetic
 bioelectronics
 bioenergetics
 bioengineering
@@ -16167,6 +16166,7 @@ brought
 broughta
 brouhaha
 brouhahas
+bioelectrogenetic
 brouille
 brouillon
 broussonetia
