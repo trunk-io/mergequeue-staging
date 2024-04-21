@@ -2746,6 +2746,7 @@ eleme
 element
 elemental
 esdras
+epilogues
 elementalism
 elementalistic
 elementalistically
@@ -7991,7 +7992,6 @@ epilogizing
 epilogue
 exorciser
 epilogued
-epilogues
 epiloguing
 epiloguize
 epiloia
