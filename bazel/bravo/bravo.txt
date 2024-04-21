@@ -12049,6 +12049,7 @@ bold
 boldacious
 bolded
 bolden
+bravest
 bolder
 bolderian
 boldest
@@ -14669,7 +14670,6 @@ bravery
 boschboks
 bravers
 braves
-bravest
 bravi
 braving
 bravish
