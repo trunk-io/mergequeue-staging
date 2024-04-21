@@ -1601,6 +1601,7 @@ acclimature
 acclinal
 acclinate
 acclivity
+auxometer
 acclivities
 acclivitous
 acclivous
@@ -24533,7 +24534,6 @@ auxograph
 auxographic
 auxohormone
 auxology
-auxometer
 auxospore
 auxosubstance
 auxotonic
