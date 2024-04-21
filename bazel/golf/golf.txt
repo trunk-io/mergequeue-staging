@@ -2072,7 +2072,6 @@ grees
 gavelling
 gavelman
 gunstocking
-gavelock
 gavelocks
 glassite
 gavels
@@ -2382,6 +2381,7 @@ gallanting
 gelatinoid
 gelatinous
 gelatins
+gavelock
 gelation
 greaves
 gablewindowed
