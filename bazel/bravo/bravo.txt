@@ -9437,6 +9437,7 @@ birdseyes
 birdshots
 birdsnest
 birdsong
+brutism
 birdstone
 birdwatch
 browpiece
@@ -16458,7 +16459,6 @@ brutish
 bowwort
 brutishly
 brutishness
-brutism
 brutisms
 brutter
 brutus
