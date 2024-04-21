@@ -5247,7 +5247,6 @@ glaswegian
 gees
 glathsheim
 glathsheimr
-glauber
 glauberite
 glaucescent
 grapnels
@@ -8131,6 +8130,7 @@ grapey
 grapeys
 gastroenterotomy
 grapeless
+glauber
 gilbertite
 grapelet
 grapelike

@@ -23844,6 +23844,7 @@ autoactive
 autoaddress
 autoagglutinating
 autoagglutinin
+autosuggestive
 autoalarm
 autoalkylation
 autoallogamy
@@ -24411,7 +24412,6 @@ autosuggestibility
 autosuggestible
 autosuggestion
 autosuggestionist
-autosuggestive
 arak
 autosuppression
 autota
