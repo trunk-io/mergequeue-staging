@@ -4184,7 +4184,6 @@ garua
 gimbaled
 gimbaling
 gimballed
-gurdfish
 gimballing
 gimbals
 groining
@@ -5703,6 +5702,7 @@ globicephala
 gorsier
 globiferous
 globigerina
+gurdfish
 globigerinae
 gyse
 globigerinas
