@@ -11654,6 +11654,7 @@ choloid
 choloidinic
 chololith
 chololithic
+coiffe
 cholonan
 cholones
 cholophaein
@@ -18466,7 +18467,6 @@ coyer
 coyest
 coif
 coifed
-coiffe
 coiffed
 coiffes
 coiffeur
