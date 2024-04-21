@@ -2090,6 +2090,7 @@ bankable
 becurl
 bankalachi
 bankbook
+boogymen
 bankbooks
 bankcard
 bankcards
@@ -12606,7 +12607,6 @@ boogies
 boogiewoogie
 boogyman
 bandoleers
-boogymen
 boogum
 boohoo
 boohooed
