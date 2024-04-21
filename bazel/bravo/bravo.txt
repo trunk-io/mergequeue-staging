@@ -16031,7 +16031,6 @@ bronze
 bronzed
 bronzelike
 brethren
-bronzen
 bronzer
 bronzers
 bronzes
@@ -18327,6 +18326,7 @@ buttonlike
 buttonmold
 buttonmould
 buttons
+bronzen
 buttonweed
 buttonwood
 buttress
