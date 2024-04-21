@@ -12174,7 +12174,6 @@ deathling
 dysgnosia
 dysgonic
 disgood
-dual
 disgorged
 disgorgement
 disgorger
@@ -14337,6 +14336,7 @@ diverters
 divertibility
 divertible
 diverticle
+dual
 diverticula
 diverticulate
 diverticulitis
