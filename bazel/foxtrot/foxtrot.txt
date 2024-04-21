@@ -5320,6 +5320,7 @@ flea
 fusible
 fleabane
 fleabanes
+frickle
 fleabite
 fleabites
 fleabug
@@ -9993,7 +9994,6 @@ fricative
 fricatives
 fricatrice
 forleft
-frickle
 fricti
 friction
 frictionable
