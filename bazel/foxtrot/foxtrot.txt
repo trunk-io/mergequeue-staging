@@ -7470,7 +7470,6 @@ forcelessness
 forcelet
 forcement
 forcene
-forceps
 forcepses
 forceput
 forcer
@@ -11091,6 +11090,7 @@ fumulus
 fun
 funambulant
 funambulate
+forceps
 funambulated
 floozy
 funambulating
