@@ -710,7 +710,6 @@ ecol
 ecole
 ecoles
 ecologic
-ecological
 ecologically
 ecologist
 ecologists
@@ -11062,6 +11061,7 @@ euphorias
 euphoric
 euphorically
 euphotic
+ecological
 euphotide
 euphrasy
 elsewards
