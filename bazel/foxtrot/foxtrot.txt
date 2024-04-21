@@ -4330,6 +4330,7 @@ firmisternal
 fronded
 firmisternia
 firmisternial
+foreloop
 firmisternous
 firmity
 firmitude
@@ -7838,7 +7839,6 @@ florilege
 forelook
 flavobacterium
 francisco
-foreloop
 forelooper
 feint
 foulnesses
