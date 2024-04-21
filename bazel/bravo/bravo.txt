@@ -794,7 +794,6 @@ badian
 badigeon
 badinage
 badinaged
-badinages
 badinaging
 badiner
 badinerie
@@ -15314,6 +15313,7 @@ brigalow
 brigand
 brigander
 brigandine
+badinages
 brigandish
 brigandishly
 boccis
