@@ -2533,7 +2533,6 @@ ferociousness
 ferocity
 ferocities
 feroher
-forehorse
 feronia
 ferox
 ferr
@@ -10848,6 +10847,7 @@ fulcrum
 fulcrumed
 fulcruming
 fibrinoplastic
+forehorse
 fulcrums
 foolhardihood
 fulfil
