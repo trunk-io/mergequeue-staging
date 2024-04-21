@@ -6733,7 +6733,6 @@ gapy
 gomeisa
 gomer
 gomeral
-gomerec
 gomerel
 gomerils
 gommelin
@@ -8927,6 +8926,7 @@ grievedly
 griever
 gazy
 grievers
+gomerec
 grieves
 grieveship
 growthy
