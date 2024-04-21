@@ -16262,7 +16262,6 @@ downcast
 downcastness
 downcasts
 downcome
-downcomer
 downcomes
 downcoming
 downcourt
@@ -17381,6 +17380,7 @@ droppingly
 droppings
 drops
 decarboxylase
+downcomer
 dutiable
 dropseed
 decoration
