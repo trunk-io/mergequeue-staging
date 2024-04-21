@@ -4479,7 +4479,6 @@ beclothes
 becloud
 beclouded
 beclouding
-belook
 beclouds
 beclout
 beclown
@@ -8975,6 +8974,7 @@ byline
 bioelectrical
 bioelectricity
 bioelectricities
+belook
 bioelectrogenesis
 bioelectrogenetic
 bioelectronics
