@@ -17423,7 +17423,6 @@ apostematous
 aposteme
 aposteriori
 aposthia
-aposthume
 apostil
 apostille
 apostils
@@ -25112,6 +25111,7 @@ adept
 axiomatization
 axiomatizations
 axiomatize
+aposthume
 antiduke
 axiomatized
 axiomatizes
