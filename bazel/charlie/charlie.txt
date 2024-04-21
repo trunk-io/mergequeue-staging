@@ -7213,7 +7213,6 @@ centure
 century
 centuria
 centurial
-covenably
 counterdistinguish
 centuriate
 centuriator
@@ -18562,6 +18561,7 @@ coinitial
 coinmaking
 chitchat
 coinmate
+covenably
 coinmates
 coins
 coinspire
