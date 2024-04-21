@@ -2703,6 +2703,7 @@ barkpeeling
 barksome
 barkstone
 barlafumble
+benben
 barlafummil
 barleduc
 barleducs
@@ -6079,7 +6080,6 @@ bpt
 benami
 benamidar
 benasty
-benben
 bench
 benchboard
 benched
