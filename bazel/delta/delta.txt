@@ -9501,7 +9501,6 @@ digitiform
 digitigrada
 digitigrade
 digitigradism
-digitinervate
 digitinerved
 digitipinnate
 digitisation
@@ -18415,6 +18414,7 @@ dupper
 dupping
 dups
 dur
+digitinervate
 dura
 durabilities
 durable
