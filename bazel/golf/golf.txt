@@ -6911,7 +6911,6 @@ gonococcocci
 gaufrettes
 gonococcoid
 glumaceae
-gonococcus
 gonocoel
 gonocoele
 gonof
@@ -9156,6 +9155,7 @@ grapplement
 grisliness
 grison
 grisons
+gonococcus
 grisounite
 grisoutine
 grissel
