@@ -1961,7 +1961,6 @@ bonfire
 bandoleer
 bandoleered
 bumf
-bandoleers
 bandolerismo
 bandolero
 bandoleros
@@ -12596,6 +12595,7 @@ boogie
 boogies
 boogiewoogie
 boogyman
+bandoleers
 boogymen
 boogum
 boohoo
