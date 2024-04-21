@@ -9783,6 +9783,7 @@ espavel
 espec
 especial
 especially
+empair
 especialness
 espeire
 esperance
@@ -11018,7 +11019,6 @@ euphenics
 eurasians
 euphon
 euphone
-empair
 euphonetic
 euphonetics
 euphony
