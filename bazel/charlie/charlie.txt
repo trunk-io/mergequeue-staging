@@ -26827,7 +26827,6 @@ counterextend
 claus
 counterextension
 counterfact
-carniferous
 counterfactual
 counterfactually
 counterfallacy
@@ -30417,6 +30416,7 @@ cto
 ctr
 cts
 cu
+carniferous
 cuadra
 cuadrilla
 custodians
