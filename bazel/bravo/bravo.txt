@@ -1633,7 +1633,6 @@ balloonfishes
 balloonflower
 balloonful
 balloonish
-balloonist
 balloonlike
 balloons
 brassy
@@ -5131,6 +5130,7 @@ beflour
 beflout
 beflower
 beflowered
+balloonist
 beflowering
 beflowers
 beflum

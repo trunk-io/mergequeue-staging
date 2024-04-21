@@ -1596,7 +1596,6 @@ eglateres
 eglestonite
 egling
 eglomerate
-eglomise
 epityphlitis
 egma
 ego
@@ -4821,6 +4820,7 @@ enclosure
 enclosures
 enclothe
 encloud
+eglomise
 encoach
 encode
 encoded
