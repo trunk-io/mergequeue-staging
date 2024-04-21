@@ -3267,7 +3267,6 @@ geoteuthis
 gomeril
 geotherm
 geothermic
-geothermometer
 geoty
 gyrations
 geotic
@@ -10248,6 +10247,7 @@ guinfo
 genian
 guinness
 ganggang
+geothermometer
 guyot
 guyots
 guipure
