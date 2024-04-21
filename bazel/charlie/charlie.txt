@@ -6313,7 +6313,6 @@ cavdia
 cave
 cavea
 caveae
-caveat
 caveatee
 caveating
 caveator
@@ -19578,6 +19577,7 @@ columellae
 columellate
 columellia
 coolabah
+caveat
 columelliaceae
 columelliform
 columels
