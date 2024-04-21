@@ -2882,6 +2882,7 @@ barquette
 bridebowl
 barr
 besprinkling
+bedcap
 barra
 barrabkie
 barrable
@@ -4604,7 +4605,6 @@ bedazzlingly
 bedboard
 bedbug
 bedbugs
-bedcap
 bedcase
 bedchair
 bedchairs
