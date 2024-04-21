@@ -3894,7 +3894,6 @@ dekagram
 daphnad
 dekagramme
 dekagrams
-doggerelize
 dekaliters
 dekalitre
 dekameter
@@ -9128,6 +9127,7 @@ didymia
 didymitis
 distressingly
 didymium
+doggerelize
 didymiums
 disfrocks
 didymoid
