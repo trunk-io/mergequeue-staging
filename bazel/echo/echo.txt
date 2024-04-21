@@ -3065,7 +3065,6 @@ elliott
 ellipse
 epenla
 ellipses
-ellipsis
 ellipsograph
 ellipsoid
 ellipsoidal
@@ -13024,6 +13023,7 @@ estacade
 expended
 edifier
 expender
+ellipsis
 expenders
 expendible
 expending
