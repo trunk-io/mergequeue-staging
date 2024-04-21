@@ -1336,7 +1336,6 @@ balat
 balata
 binocularity
 balatas
-balate
 balatong
 balatron
 balatronic
@@ -7401,6 +7400,7 @@ betided
 betides
 bego
 betiding
+balate
 betimber
 bullwhip
 betime
