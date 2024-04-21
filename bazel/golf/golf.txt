@@ -7621,7 +7621,6 @@ graculus
 grad
 gradable
 gradal
-gradate
 glycuronide
 gradates
 gradatim
@@ -8823,6 +8822,7 @@ genty
 greit
 greywacke
 greyware
+gradate
 greking
 grelot
 gremial

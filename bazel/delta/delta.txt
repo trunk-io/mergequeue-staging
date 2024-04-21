@@ -11185,7 +11185,6 @@ disbelieves
 disbelieving
 disbench
 disavowals
-disbenched
 daubery
 disbenching
 disbenchment
@@ -15806,6 +15805,7 @@ dorsiferous
 dorsifixed
 dorsiflex
 dorsiflexion
+disbenched
 dorsigerous
 dorsigrade
 dined
