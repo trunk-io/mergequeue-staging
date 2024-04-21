@@ -14117,6 +14117,7 @@ ditation
 ditch
 ditchbur
 ditchdigger
+dumbing
 ditchdigging
 ditchdown
 ditched
@@ -18073,7 +18074,6 @@ dumbfoundment
 dumbhead
 dumbheaded
 dumby
-dumbing
 dumble
 dumbly
 dumbness
