@@ -17935,7 +17935,6 @@ coelomatous
 coelome
 coelomes
 coelomesoblast
-coelomic
 coelomocoela
 coelomopore
 coeloms
@@ -29066,6 +29065,7 @@ crimsonness
 crimsons
 crin
 crinal
+coelomic
 crinanite
 camerina
 crinate
