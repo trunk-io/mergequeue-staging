@@ -4613,7 +4613,6 @@ demineralized
 demineralizer
 demineralizes
 demineralizing
-deminude
 deminudity
 demioctagonal
 demioctangular
@@ -5915,6 +5914,7 @@ depressions
 depressive
 diamondiferous
 depressively
+deminude
 depressiveness
 depressives
 depressor
