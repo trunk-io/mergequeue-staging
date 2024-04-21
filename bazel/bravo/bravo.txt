@@ -6811,7 +6811,6 @@ berri
 berry
 berrybush
 bromophenol
-berrichon
 berrier
 berries
 berrigan
@@ -9730,6 +9729,7 @@ bissellia
 bissextile
 bissextus
 byssi
+berrichon
 byssiferous
 byssin
 byssine
