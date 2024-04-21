@@ -3456,7 +3456,6 @@ electee
 embezzlements
 embezzler
 embezzlers
-embezzles
 embezzling
 empt
 embiid
@@ -10683,6 +10682,7 @@ euchysiderite
 euchlaena
 euchlorhydria
 euchloric
+embezzles
 euchlorine
 euchlorite
 eleutherodactylus
