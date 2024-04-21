@@ -20,6 +20,7 @@ fabled
 fabledom
 fableland
 fablemaker
+francolin
 fablemonger
 fablemongering
 fabler
@@ -9409,7 +9410,6 @@ francium
 franciums
 francize
 franco
-francolin
 ferritin
 fontainea
 francolite
