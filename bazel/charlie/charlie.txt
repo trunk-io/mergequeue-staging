@@ -6521,7 +6521,6 @@ cedis
 cosheath
 cedrat
 cleruch
-cedrate
 cedrela
 cedrene
 cedry
@@ -11871,6 +11870,7 @@ chorals
 chorasmian
 chorda
 crispiness
+cedrate
 chordaceae
 chordacentrous
 chordacentrum
