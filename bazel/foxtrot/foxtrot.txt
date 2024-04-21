@@ -4366,6 +4366,7 @@ fiscalism
 foothill
 fiscalization
 fiscalize
+funfairs
 fiscalized
 ferryboat
 falbalas
@@ -7490,7 +7491,6 @@ forcibly
 forcing
 forcingly
 forcipal
-funfairs
 forcipated
 forcipation
 forcipes
