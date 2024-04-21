@@ -6681,7 +6681,6 @@ bergh
 baxterian
 berghaan
 bergy
-berginization
 berginize
 berglet
 bergman
@@ -15966,6 +15965,7 @@ bronchohemorrhagia
 broncholemmitis
 broncholith
 broncholithiasis
+berginization
 bronchomycosis
 bronchomucormycosis
 bronchopathy
