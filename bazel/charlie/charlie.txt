@@ -15936,7 +15936,6 @@ clemently
 clementness
 clements
 clemming
-clench
 clenched
 clencher
 clenchers
@@ -23121,6 +23120,7 @@ carroll
 constrainer
 constraining
 constrainingly
+clench
 constrainment
 constrains
 constraint
