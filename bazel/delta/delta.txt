@@ -56,7 +56,6 @@ dacoities
 dacoiting
 dacoits
 dacrya
-dacryadenalgia
 dacryagogue
 dacrycystalgia
 dacryd
@@ -10532,6 +10531,7 @@ dipleuric
 dipleurogenesis
 dipleurogenetic
 dipleurulas
+dacryadenalgia
 dipleurule
 diplex
 diplexer
