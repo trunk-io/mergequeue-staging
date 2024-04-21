@@ -4607,6 +4607,7 @@ adventureship
 adventuresome
 adventuresomely
 adventuresomeness
+antimorality
 adventuresomes
 adventuress
 adventuresses
@@ -15646,7 +15647,6 @@ antimoral
 antimoralism
 antimoralist
 antimoralistic
-antimorality
 antimosquito
 antimusical
 antimusically
