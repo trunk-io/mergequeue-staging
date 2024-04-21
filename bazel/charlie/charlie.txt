@@ -5087,6 +5087,7 @@ cask
 caskanet
 casked
 casket
+columnate
 casketed
 casketlike
 caskets
@@ -19588,7 +19589,6 @@ columnarian
 columnarity
 columnarized
 chelerythrin
-columnate
 columnated
 columnates
 columnating
