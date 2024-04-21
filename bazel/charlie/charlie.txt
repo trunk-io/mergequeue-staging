@@ -2113,7 +2113,6 @@ camshaft
 camshafts
 camstane
 camsteary
-camsteery
 camstone
 camstrary
 chucker
@@ -7503,6 +7502,7 @@ cimbri
 cercopod
 cramberry
 cercospora
+camsteery
 cercosporella
 cercus
 cerdonian
