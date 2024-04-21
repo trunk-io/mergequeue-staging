@@ -2296,7 +2296,6 @@ earthenware
 electrizer
 ethnocentricity
 electrizing
-electro
 electroacoustic
 electroacoustical
 electroacoustically
@@ -9143,6 +9142,7 @@ eutheria
 erythraea
 erythraean
 erythraeidae
+electro
 erythraemia
 erythrean
 erythremia
