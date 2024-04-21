@@ -5867,7 +5867,6 @@ aigrettes
 agapai
 agapanthus
 agapanthuses
-agape
 agapeic
 agapemone
 agapemonian
@@ -19784,6 +19783,7 @@ aristotle
 aristulate
 arite
 arytenoepiglottic
+agape
 arytenoid
 arytenoidal
 arith
