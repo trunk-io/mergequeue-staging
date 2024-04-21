@@ -2307,7 +2307,6 @@ fenceplay
 fencepost
 fencer
 fenceress
-fencers
 firebricks
 fences
 fsiest
@@ -2450,6 +2449,7 @@ ferities
 ferk
 ferkin
 ferly
+fencers
 ferlied
 frangulinic
 festerment
