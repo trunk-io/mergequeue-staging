@@ -4161,7 +4161,6 @@ gillnets
 gillnetted
 gillnetting
 gillotage
-gillotype
 gamester
 gills
 gillstoup
@@ -6267,6 +6266,7 @@ gnathitis
 gnathobase
 gnathobasic
 gnathobdellae
+gillotype
 gnathobdellida
 gnathometer
 gnathonic
