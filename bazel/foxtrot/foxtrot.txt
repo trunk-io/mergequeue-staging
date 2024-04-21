@@ -536,6 +536,7 @@ fallacies
 forerunners
 fadlike
 feltlike
+flounced
 fallacious
 fallaciously
 flyability
@@ -6177,7 +6178,6 @@ flotten
 flotter
 filletlike
 flounce
-flounced
 flounces
 feracity
 flouncy
