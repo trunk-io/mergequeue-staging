@@ -7573,7 +7573,6 @@ beware
 bewared
 bewares
 bemixed
-bewaring
 bewash
 bewaste
 bewater
@@ -8131,6 +8130,7 @@ bicrons
 bicrural
 bicuculline
 bicultural
+bewaring
 biculturalism
 bicursal
 bicuspid
