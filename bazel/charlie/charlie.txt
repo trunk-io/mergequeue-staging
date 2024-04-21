@@ -13993,7 +13993,6 @@ cynophobe
 cynophobia
 cynopithecidae
 cynopithecoid
-cynopodous
 cynorrhoda
 cynorrhodon
 cynosarges
@@ -28265,6 +28264,7 @@ cratches
 cratchins
 crate
 crated
+cynopodous
 crateful
 cratemaker
 conscribing

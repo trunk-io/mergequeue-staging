@@ -2819,7 +2819,6 @@ decrying
 detinet
 decriminalization
 decriminalize
-decriminalizes
 decrypt
 decrypted
 decrypting
@@ -5048,6 +5047,7 @@ dendrachate
 dominate
 dendral
 dendraspis
+decriminalizes
 dendraxon
 dendric
 dendriform
