@@ -8423,7 +8423,6 @@ alkalinities
 alkalinization
 alkalinize
 alkalinized
-alkalinizes
 alkalis
 asunder
 alkalisable
@@ -19180,6 +19179,7 @@ ammiaceae
 archvisitor
 archwag
 archway
+alkalinizes
 archways
 archwench
 archwife
