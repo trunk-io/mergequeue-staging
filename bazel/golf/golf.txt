@@ -906,6 +906,7 @@ gamekeeping
 gamelang
 gamelans
 gameless
+gathers
 gamely
 gamelike
 gonfalonier
@@ -1928,7 +1929,6 @@ gathered
 gatherer
 gatherers
 gatherings
-gathers
 gatherum
 gathic
 gating
