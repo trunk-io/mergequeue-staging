@@ -3143,7 +3143,6 @@ elongates
 elongating
 elongation
 elongations
-elonite
 elope
 eloped
 elopement
@@ -6812,6 +6811,7 @@ epalpebrate
 enthrone
 enthronement
 enthrong
+elonite
 exogastritis
 enthroning
 enthronise
