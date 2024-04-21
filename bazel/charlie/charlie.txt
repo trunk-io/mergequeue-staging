@@ -14019,7 +14019,6 @@ cabecera
 cinquecentist
 cinquecento
 cinquedea
-cinquefoil
 cinquefoiled
 cinquepace
 cinques
@@ -25239,6 +25238,7 @@ corkscrew
 corkscrewed
 corkscrewy
 corkscrewing
+cinquefoil
 corkscrews
 corkwing
 corkwood
