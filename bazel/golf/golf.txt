@@ -2879,7 +2879,6 @@ gentiledom
 gentiles
 gentilesse
 gentilic
-gentilish
 gentilism
 gentility
 gentilitial
@@ -5132,6 +5131,7 @@ glamoury
 glamourie
 glamouring
 glamourization
+gentilish
 glamourize
 glamourizer
 glamourless
