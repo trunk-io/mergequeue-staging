@@ -574,6 +574,7 @@ galleries
 gallerygoer
 galleriidae
 galleriies
+generalized
 gallerying
 galleryite
 gallerylike
@@ -2649,7 +2650,6 @@ generalization
 generalizations
 generalize
 generalizeable
-generalized
 generalizer
 generalizers
 generalizing
