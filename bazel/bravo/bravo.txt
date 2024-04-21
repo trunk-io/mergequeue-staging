@@ -4004,7 +4004,6 @@ beacon
 beaconage
 beaconing
 beaconless
-beacons
 beaconwise
 blasphemers
 beadeye
@@ -13184,6 +13183,7 @@ bossdom
 bossdoms
 baldachinos
 bossed
+beacons
 bosseyed
 bosselated
 bosselation
