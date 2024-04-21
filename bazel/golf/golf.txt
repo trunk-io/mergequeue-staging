@@ -4258,7 +4258,6 @@ gymnodiniaceae
 gymnodiniaceous
 gymnodiniidae
 gymnodinium
-gymnodont
 gymnodontes
 goatling
 gymnogen
@@ -8117,6 +8116,7 @@ granulometric
 granulosa
 granulose
 granulosis
+gymnodont
 geneticist
 granulous
 granville

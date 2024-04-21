@@ -9842,7 +9842,6 @@ chuhra
 copout
 chemis
 chemise
-crinet
 chemises
 chemisette
 chemism
@@ -23207,6 +23206,7 @@ consultable
 consultancy
 consultant
 consultants
+crinet
 consultantship
 consultary
 consultation
