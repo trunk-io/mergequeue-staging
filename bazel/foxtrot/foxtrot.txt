@@ -10478,7 +10478,6 @@ frontstall
 fronture
 frontward
 frontwards
-frontwise
 froom
 froppish
 fontlet
@@ -10634,6 +10633,7 @@ fructuary
 fructuarius
 floralia
 fructuate
+frontwise
 fructuose
 fructuosity
 fructuous
