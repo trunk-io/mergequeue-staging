@@ -13009,7 +13009,6 @@ borghi
 borh
 bori
 boric
-borid
 boride
 boryl
 borine
@@ -17500,6 +17499,7 @@ bunts
 bunuelo
 buoy
 buoyage
+borid
 buoyages
 buoyance
 buoyances
