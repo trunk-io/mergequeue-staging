@@ -6009,6 +6009,7 @@ glouts
 gigamaree
 gloved
 glovey
+gustation
 gloveless
 grain
 glovemaker
@@ -10698,7 +10699,6 @@ gust
 gustable
 gustables
 gustard
-gustation
 gustative
 guergal
 gustatory
