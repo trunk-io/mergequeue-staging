@@ -5799,6 +5799,7 @@ flittermmice
 filaze
 footrill
 flittermouse
+fluidglycerate
 flittern
 flitty
 flittiness
@@ -6334,7 +6335,6 @@ fluidacetextract
 fluidal
 fluidally
 fluidextract
-fluidglycerate
 fluidible
 fluidic
 fluidics
