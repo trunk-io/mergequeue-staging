@@ -4217,7 +4217,6 @@ admonishments
 admonition
 admonitioner
 admonitionist
-admonitions
 admonitive
 apotelesmatical
 admonitively
@@ -11578,6 +11577,7 @@ anacusia
 anacusic
 anacusis
 anadem
+admonitions
 anadems
 anadenia
 anadesm
