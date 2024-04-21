@@ -4866,7 +4866,6 @@ gisant
 gisants
 gisarme
 gise
-gyse
 gisel
 gisement
 gish
@@ -5705,6 +5704,7 @@ gorsier
 globiferous
 globigerina
 globigerinae
+gyse
 globigerinas
 globigerinidae
 guapena
