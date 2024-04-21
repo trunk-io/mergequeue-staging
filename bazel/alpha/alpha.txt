@@ -22730,7 +22730,6 @@ atomisms
 atomist
 atomistic
 atomistical
-atomistically
 atomists
 atomity
 abrocoma
@@ -25024,6 +25023,7 @@ awny
 awning
 awninged
 awnings
+atomistically
 awnlike
 awns
 awoke
