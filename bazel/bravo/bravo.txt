@@ -1716,7 +1716,6 @@ baloneys
 baloo
 balor
 baloskion
-baloskionaceae
 bulbels
 balotade
 balow
@@ -16966,6 +16965,7 @@ bulbel
 bulby
 bulbier
 behaviorism
+baloskionaceae
 bulbiferous
 bulbiform
 bulbil
