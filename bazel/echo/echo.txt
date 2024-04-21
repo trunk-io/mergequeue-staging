@@ -2076,7 +2076,6 @@ elaphe
 elaphebolion
 elaphine
 elaphodus
-elaphoglossum
 elaphomyces
 elaphomycetaceae
 elaphrium
@@ -2578,6 +2577,7 @@ endure
 exempla
 electrophotometry
 eventuates
+elaphoglossum
 electrophotomicrography
 electrophototherapy
 electrophrenic
