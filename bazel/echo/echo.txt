@@ -6382,7 +6382,6 @@ emigating
 ensearch
 ensearcher
 enseat
-enseated
 enchisel
 exhume
 enseating
@@ -7272,6 +7271,7 @@ enweb
 epitrichium
 enwheel
 enwheeled
+enseated
 enwheeling
 eglandulous
 enwheels
