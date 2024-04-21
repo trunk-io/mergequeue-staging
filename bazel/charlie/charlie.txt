@@ -11049,7 +11049,6 @@ chitarra
 chitarrino
 chitarrone
 chitarroni
-chitchat
 chitchats
 chitchatted
 chitchatty
@@ -18568,6 +18567,7 @@ coynye
 coining
 coinitial
 coinmaking
+chitchat
 coinmate
 coinmates
 coins

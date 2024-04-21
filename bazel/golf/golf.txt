@@ -2205,7 +2205,6 @@ gearcases
 geared
 gearing
 gearings
-gearman
 gears
 gasterotricha
 gearset
@@ -8830,6 +8829,7 @@ gremlin
 gremlins
 gremmy
 gremmies
+gearman
 grenada
 grenade
 grenades
