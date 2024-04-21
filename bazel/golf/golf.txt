@@ -4838,7 +4838,6 @@ gyrostatic
 gyrostatically
 gastroplenic
 girouette
-girouettes
 girouettism
 gyrous
 gyrovagues
@@ -7719,6 +7718,7 @@ gragers
 graham
 grahamism
 grahamite
+girouettes
 goldsmithry
 grayhair
 grahams
