@@ -5558,7 +5558,6 @@ glimmering
 glimmeringly
 glazily
 glimmerings
-glimmerous
 glimmers
 glimpsed
 glimpsers
@@ -9169,6 +9168,7 @@ gristbite
 grister
 gristy
 gristle
+glimmerous
 gos
 gauge
 gasbag

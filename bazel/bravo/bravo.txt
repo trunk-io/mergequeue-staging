@@ -4736,7 +4736,6 @@ bedlamp
 bedlamps
 bedlams
 bursula
-bedless
 bedlids
 bedlight
 bedmaker
@@ -7796,6 +7795,7 @@ biallyl
 bialveolar
 basidigitalia
 bianca
+bedless
 bianco
 biangular
 biangulate
