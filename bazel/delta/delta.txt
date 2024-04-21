@@ -9345,7 +9345,6 @@ differing
 differingly
 differs
 difficileness
-dispositive
 difficilitate
 difficulty
 difficulties
@@ -16786,6 +16785,7 @@ dravidic
 dravite
 draw
 drawability
+dispositive
 drawarm
 drawback
 drawbacks
