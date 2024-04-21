@@ -3702,7 +3702,6 @@ batrachophobia
 batrachoplasty
 batrachospermum
 bats
-batsman
 batsmanship
 batsmen
 batster
@@ -9451,6 +9450,7 @@ birefraction
 birefractive
 birefringence
 birefringent
+batsman
 byreman
 bireme
 biretta
