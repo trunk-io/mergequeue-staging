@@ -6917,7 +6917,6 @@ folderol
 folderols
 folders
 foldy
-folding
 foldless
 foldout
 frowzy
@@ -11255,6 +11254,7 @@ funis
 funje
 funk
 funked
+folding
 funkers
 funky
 funkia
