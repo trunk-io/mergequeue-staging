@@ -3681,7 +3681,6 @@ embryoctonic
 embryoferous
 embryogenesis
 embryogenetic
-embryogeny
 embryogony
 embryographer
 electrophysiologic
@@ -11771,6 +11770,7 @@ epimerism
 exaggerates
 exaggerating
 exaggeratingly
+embryogeny
 exaggeration
 exaggerations
 ectases
