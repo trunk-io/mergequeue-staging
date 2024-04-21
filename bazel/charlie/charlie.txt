@@ -2179,7 +2179,6 @@ canalises
 canalising
 canalization
 canalizations
-canalize
 canalizes
 canalla
 canalled
@@ -25860,6 +25859,7 @@ corsetiere
 corseting
 corsetless
 corsetry
+canalize
 corsets
 corsy
 corsican
