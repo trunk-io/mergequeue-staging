@@ -558,7 +558,6 @@ backstromite
 belibeling
 backswept
 backswimmer
-bellyband
 backswing
 backsword
 backswording
@@ -2047,6 +2046,7 @@ bangtail
 bangtailed
 bangtails
 bangup
+bellyband
 bangwaketsi
 bani
 banya

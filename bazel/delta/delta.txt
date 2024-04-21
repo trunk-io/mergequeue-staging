@@ -6703,7 +6703,6 @@ desirelessness
 dermoplasty
 desirer
 desirers
-desires
 desiring
 dihedrons
 desirous
@@ -8783,6 +8782,7 @@ dibranchia
 dibranchiata
 dibranchiate
 dibranchious
+desires
 dibrom
 dibromide
 dibromoacetaldehyde
