@@ -3416,7 +3416,6 @@ deflorate
 deflorations
 deflore
 deflorescence
-deflourish
 dropforged
 deflow
 deflower
@@ -9414,6 +9413,7 @@ dig
 disheathing
 digallic
 digametic
+deflourish
 digamy
 digamies
 digamist
