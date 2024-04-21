@@ -3855,6 +3855,7 @@ emergence
 emergences
 emergencies
 emergent
+enteral
 emergently
 emergentness
 emergents
@@ -6620,7 +6621,6 @@ enteraden
 enteradenography
 enteradenographic
 enteradenology
-enteral
 enterally
 enterate
 enterauxe

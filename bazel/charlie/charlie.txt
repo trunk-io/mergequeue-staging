@@ -27571,7 +27571,6 @@ covotary
 cow
 cowage
 cowages
-cowal
 cowan
 coward
 cowardy
@@ -29802,6 +29801,7 @@ crosne
 crosnes
 cross
 crossability
+cowal
 crossable
 crossarm
 crossarms
