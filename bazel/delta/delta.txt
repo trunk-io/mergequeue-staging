@@ -12233,7 +12233,6 @@ disguisements
 djinn
 disguising
 disgulf
-disgust
 disgusted
 decametre
 disgustedness
@@ -13085,6 +13084,7 @@ displaying
 displays
 displant
 displanted
+disgust
 displanting
 disentanglements
 displants
