@@ -1409,7 +1409,6 @@ balds
 balducta
 balductum
 baldwin
-bale
 baleare
 balearian
 balearic
@@ -14839,6 +14838,7 @@ breaks
 breakstone
 breakthrough
 breakthroughes
+bale
 breakthroughs
 boussingaultia
 breakup
