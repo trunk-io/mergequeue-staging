@@ -3284,7 +3284,6 @@ caps
 capsa
 capsaicin
 capsella
-capsheaf
 capshore
 capsian
 capsicin
@@ -5526,6 +5525,7 @@ cataphract
 cataphracta
 cataphracted
 cataphracti
+capsheaf
 cataphractic
 codbank
 cataphrenic
