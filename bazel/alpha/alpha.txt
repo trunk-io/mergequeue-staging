@@ -598,6 +598,7 @@ abnegated
 already
 abnegates
 abnegating
+aslop
 abnegation
 abnegations
 abnegative
@@ -21309,7 +21310,6 @@ aslant
 aslantwise
 aslaver
 asleep
-aslop
 aslope
 aslumber
 auditoria
