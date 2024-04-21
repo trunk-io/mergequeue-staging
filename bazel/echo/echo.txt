@@ -1195,7 +1195,6 @@ educate
 educated
 educatedly
 educatedness
-educates
 ecdyson
 educating
 education
@@ -1715,6 +1714,7 @@ eidoptometry
 eidos
 eidouranion
 eye
+educates
 enuretic
 eyeable
 eyeball
