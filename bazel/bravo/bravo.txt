@@ -4656,6 +4656,7 @@ boxfish
 bedelve
 bedeman
 bedemen
+brute
 beden
 bedesman
 begins
@@ -16441,7 +16442,6 @@ brutalizes
 brutalizing
 brutally
 brutalness
-brute
 bruted
 basellaceous
 brutedom
