@@ -2339,7 +2339,6 @@ deciares
 deciatine
 decibar
 decibels
-deciceronize
 decidability
 decidedly
 decidement
@@ -14801,6 +14800,7 @@ dodders
 doddie
 doddies
 dextrorotation
+deciceronize
 dodding
 doddypoll
 dodecade
