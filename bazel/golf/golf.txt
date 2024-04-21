@@ -3601,6 +3601,7 @@ gests
 gestura
 gestural
 gasconaded
+gordioid
 gallimaufries
 gangwaymen
 gesture
@@ -7147,7 +7148,6 @@ gordiaceous
 gordian
 gordiid
 gordiidae
-gordioid
 globical
 gordioidea
 gordius
