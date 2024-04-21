@@ -3223,6 +3223,7 @@ actionary
 actioner
 actiones
 actionist
+airworthy
 actionized
 actionizing
 actionless
@@ -7030,7 +7031,6 @@ airwise
 abstruseness
 airwoman
 airwomen
-airworthy
 airworthiest
 airworthiness
 ais

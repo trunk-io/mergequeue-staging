@@ -5947,7 +5947,6 @@ beltmaking
 beltman
 beltmen
 binervate
-belton
 beltway
 beltways
 beluchi
@@ -7644,6 +7643,7 @@ bewitchingly
 bewitchingness
 bewizard
 bewonder
+belton
 bework
 bewormed
 biordinal
