@@ -1883,6 +1883,7 @@ accustomize
 accustomizing
 accustoms
 ace
+anhysteretic
 aceacenaphthene
 aceanthrene
 aceanthrenequinone
@@ -13089,7 +13090,6 @@ anhima
 anhimae
 anhimidae
 anhinga
-anhysteretic
 anhistic
 anhistous
 anhungered
