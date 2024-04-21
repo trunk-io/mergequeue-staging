@@ -5559,7 +5559,6 @@ departmentalized
 departmentalizes
 departmentalizing
 departmentally
-departmentization
 departmentize
 duddies
 departs
@@ -6076,6 +6075,7 @@ dereferencing
 deregister
 deregulate
 dineuric
+departmentization
 deregulated
 deregulates
 deregulating
