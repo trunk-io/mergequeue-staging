@@ -4509,6 +4509,7 @@ becost
 becousined
 becovet
 becowarding
+bewary
 becowards
 becquerelite
 becram
@@ -7568,7 +7569,6 @@ beware
 bewared
 bewares
 bemixed
-bewary
 bewaring
 bewash
 bewaste
