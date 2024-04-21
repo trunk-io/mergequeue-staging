@@ -17143,7 +17143,6 @@ dognaping
 drink
 drinkability
 drinkable
-drinkableness
 drinkably
 drinker
 drinkery
@@ -18186,6 +18185,7 @@ dung
 dungan
 dungannonite
 dungaree
+drinkableness
 dungarees
 dungari
 dungas
