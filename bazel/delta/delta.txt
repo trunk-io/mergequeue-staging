@@ -3766,7 +3766,6 @@ dehumanised
 dehumanising
 dehumanize
 dehumanized
-dehumanizes
 dehumanizing
 dehumidify
 dehumidified
@@ -16444,6 +16443,7 @@ doze
 dozed
 dozened
 directrixes
+dehumanizes
 dozener
 dozening
 dozent
