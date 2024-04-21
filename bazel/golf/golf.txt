@@ -8436,7 +8436,6 @@ gravelroot
 gravels
 graveside
 gravelstone
-gravelweed
 gravemaker
 gravemaking
 graveman
@@ -9753,6 +9752,7 @@ grutching
 grutten
 grx
 gs
+gravelweed
 gt
 gtc
 gentlemanlike
