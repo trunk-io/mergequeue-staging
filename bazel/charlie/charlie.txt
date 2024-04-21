@@ -5976,7 +5976,6 @@ catostomus
 catouse
 catpiece
 catpipe
-catproof
 catrigged
 cats
 catskill
@@ -26655,6 +26654,7 @@ counteracted
 counteracter
 counteracting
 counteractingly
+catproof
 counteraction
 counteractions
 counteractive
