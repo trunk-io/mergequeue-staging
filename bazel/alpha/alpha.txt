@@ -7790,6 +7790,7 @@ aldrovanda
 aldus
 ale
 alea
+anatomicopathological
 aleak
 aleatory
 aleatoric
@@ -12082,7 +12083,6 @@ anatomicals
 anatomicobiological
 anatomicomedical
 anatomicopathologic
-anatomicopathological
 anatomicophysiologic
 ambidextral
 anatomicophysiological

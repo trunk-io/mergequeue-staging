@@ -7884,7 +7884,6 @@ biblike
 biblioclasm
 biblioclast
 bibliofilm
-bibliog
 bibliogenesis
 bibliognost
 benzophenanthroline
@@ -17970,6 +17969,7 @@ beseeched
 busheling
 bushelled
 bushelling
+bibliog
 bushelman
 bushelmen
 bushels
