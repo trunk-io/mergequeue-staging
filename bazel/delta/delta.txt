@@ -5863,7 +5863,6 @@ deprecations
 disconcert
 deprecative
 deprecatively
-deprecator
 deprecatory
 deprecatorily
 deprecatoriness
@@ -10140,6 +10139,7 @@ dinging
 dingleberry
 dinglebird
 dingled
+deprecator
 dingledangle
 dingles
 dingly
