@@ -5521,6 +5521,7 @@ ened
 eneid
 enema
 enemas
+ensnarements
 enemata
 emball
 enemy
@@ -6472,7 +6473,6 @@ ensmall
 ensnare
 ensnared
 ensnarement
-ensnarements
 ensnarers
 ensnares
 ensnaringly
