@@ -2837,6 +2837,7 @@ genophobia
 gph
 genospecies
 genotype
+granulose
 genotypes
 genotypic
 genotypical
@@ -8115,7 +8116,6 @@ granulomas
 granulomatosis
 granulometric
 granulosa
-granulose
 granulosis
 geneticist
 granulous
