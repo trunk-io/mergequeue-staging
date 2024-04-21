@@ -2617,7 +2617,6 @@ acoelomate
 acoelomatous
 acoelomi
 acoelomous
-acoelous
 acoemetae
 acoemeti
 acoemetic
@@ -25327,6 +25326,7 @@ azotea
 acquisita
 annist
 azoted
+acoelous
 atwo
 azotemia
 azotemias
