@@ -13685,6 +13685,7 @@ dissonances
 dissonancy
 dissonancies
 dissonant
+disanagrammatize
 dissonantly
 dissonate
 dissonous
@@ -14878,7 +14879,6 @@ dodonaea
 dodonaeaceae
 dodonaean
 dodonaena
-disanagrammatize
 dodonean
 dodonian
 decoyed

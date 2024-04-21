@@ -6502,6 +6502,7 @@ cedars
 cedarware
 cedarwood
 ceded
+corpulence
 cedens
 ceder
 ceders
@@ -25605,7 +25606,6 @@ corpses
 corpsy
 corpsman
 corpsmen
-corpulence
 corpulences
 corpulency
 corpulencies
