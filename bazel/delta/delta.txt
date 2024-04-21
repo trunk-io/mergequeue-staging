@@ -5664,7 +5664,6 @@ depicting
 depiction
 depictions
 depictive
-depictment
 depictor
 depictors
 depicts
@@ -9634,6 +9633,7 @@ dying
 dyingly
 dyingness
 diiodid
+depictment
 diiodide
 diiodo
 diiodoform
