@@ -4821,7 +4821,6 @@ foppishness
 flagitiousness
 flagleaf
 flagless
-flaglet
 flaglike
 flotation
 flagmaker
@@ -9975,6 +9974,7 @@ fribblers
 friskle
 fribbles
 fribbling
+flaglet
 fribblish
 fribourg
 fricandeau
