@@ -5205,7 +5205,6 @@ denomination
 denominational
 denominationalism
 denominationalist
-denominationally
 denominations
 denominative
 denominatively
@@ -15158,6 +15157,7 @@ dolichofacial
 dolichoglossus
 dolichohieric
 dolicholus
+denominationally
 dolichopellic
 discerner
 dolichopodous
