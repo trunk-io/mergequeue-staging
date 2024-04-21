@@ -11247,6 +11247,7 @@ chlorinator
 chlorinators
 chlorine
 chlorines
+credere
 chlorinity
 chlorinize
 chlorinous
@@ -28517,7 +28518,6 @@ credentials
 credently
 credenza
 credenzas
-credere
 credibility
 credibilities
 credible

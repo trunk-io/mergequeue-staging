@@ -5913,7 +5913,6 @@ floey
 floerkea
 floes
 flog
-floggable
 flogged
 flogger
 floggers
@@ -8957,6 +8956,7 @@ fother
 fothergilla
 fothering
 fotive
+floggable
 fotmal
 fotui
 fantailed
