@@ -592,7 +592,6 @@ gardenwise
 gallian
 girly
 galliard
-galliardise
 galliardize
 galliardly
 galliardness
@@ -9932,6 +9931,7 @@ guardians
 guardianship
 guardianships
 guarding
+galliardise
 guardless
 guardo
 guardrail
