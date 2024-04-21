@@ -419,7 +419,6 @@ eburin
 eburine
 eburna
 eburnated
-eburnation
 eburnean
 eburneoid
 eburnian
@@ -10391,6 +10390,7 @@ ethylidyne
 ethylin
 ethylmorphine
 ethyls
+eburnation
 ethylsulphuric
 ethylthioethane
 eupepticity
