@@ -4292,6 +4292,7 @@ beautifiers
 beautifies
 beautifying
 beautiful
+bicaudal
 beautifully
 beautifulness
 beautihood
@@ -8004,7 +8005,6 @@ bicarinate
 bridely
 bicarpellary
 bicarpellate
-bicaudal
 bicaudate
 bicched
 boeotia
