@@ -8920,7 +8920,6 @@ biobibliographies
 bioblast
 bioblastic
 biocatalytic
-bronchotyphoid
 biocellate
 biocenosis
 biocenotic
@@ -10330,6 +10329,7 @@ beetmister
 blanketer
 blanketers
 bimanually
+bronchotyphoid
 blanketflower
 blankety
 blanketing
