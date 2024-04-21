@@ -15058,7 +15058,6 @@ citropsis
 citropten
 citrous
 citrullin
-citrulline
 citrullus
 citruses
 cittern
@@ -24934,6 +24933,7 @@ corblimy
 corbovinum
 cryptoporticus
 corbula
+citrulline
 corcass
 corchat
 corchorus
