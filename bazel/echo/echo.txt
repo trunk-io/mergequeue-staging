@@ -2446,6 +2446,7 @@ electrokinetic
 enkolpion
 electrokinetics
 electroless
+evict
 electrolier
 extensum
 electrolyse
@@ -11577,7 +11578,6 @@ eveweed
 evibrate
 ectopias
 evicke
-evict
 evicted
 evictee
 evictees
