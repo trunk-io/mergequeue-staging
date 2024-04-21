@@ -21347,6 +21347,7 @@ conchometer
 conchometry
 conchospiral
 conchostraca
+curatize
 conchotome
 conchs
 conchubar
@@ -31224,7 +31225,6 @@ curation
 curative
 curativeness
 curatives
-curatize
 curatolatry
 curator
 curatory

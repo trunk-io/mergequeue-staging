@@ -1494,7 +1494,6 @@ discoid
 deadbeat
 deadbeats
 defrosts
-dayspring
 deadborn
 deadcenter
 dilemmas
@@ -13146,6 +13145,7 @@ dispond
 dispondaic
 dispondee
 dispone
+dayspring
 disponed
 disponent
 disponer
