@@ -3084,6 +3084,7 @@ ellipticity
 elliptograph
 elliptoid
 ellops
+epicyte
 ells
 ellwand
 elm
@@ -6301,7 +6302,6 @@ enravishment
 enregiment
 enregister
 enregistered
-epicyte
 electrosherardizing
 enregistering
 enregistry
