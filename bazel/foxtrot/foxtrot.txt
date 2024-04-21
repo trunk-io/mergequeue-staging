@@ -2384,7 +2384,6 @@ feodaries
 feodatory
 feodum
 feoff
-feoffed
 feoffee
 feoffees
 feoffeeship
@@ -9167,6 +9166,7 @@ foxfish
 foxfishes
 foxglove
 foxgloves
+feoffed
 foxhole
 foxholes
 foxhound

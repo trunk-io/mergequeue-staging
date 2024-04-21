@@ -853,6 +853,7 @@ gambeer
 gambeered
 gambeering
 gambelli
+granulomas
 gyrectomy
 gambes
 gambetta
@@ -8114,7 +8115,6 @@ gcd
 granulocytic
 granulocytopoiesis
 granuloma
-granulomas
 granulomatosis
 granulometric
 granulosa
