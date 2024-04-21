@@ -2225,7 +2225,6 @@ felucca
 felwort
 felworts
 fem
-femalely
 femaleness
 females
 femalist
@@ -11038,6 +11037,7 @@ flitches
 fumed
 fumelike
 fumerel
+femalely
 freakery
 fumeroot
 fumers
