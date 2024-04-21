@@ -3470,7 +3470,6 @@ decrementless
 deformalize
 deformation
 deformational
-deformations
 deformative
 deformed
 deformedly
@@ -15266,6 +15265,7 @@ dolthead
 doltish
 doltishly
 doltishness
+deformations
 dolus
 dom
 defaulter
