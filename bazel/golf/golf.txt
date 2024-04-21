@@ -5906,7 +5906,6 @@ glossiphonia
 glossiphonidae
 galvanomagnet
 glossist
-glossitic
 glossitis
 glossless
 glossmeter
@@ -8905,6 +8904,7 @@ griece
 gowland
 grieced
 griecep
+glossitic
 grief
 griefful
 grieffully
