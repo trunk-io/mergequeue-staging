@@ -5055,7 +5055,6 @@ gladiole
 gladioli
 gladioluses
 gladys
-gladite
 gossan
 gladius
 gladly
@@ -9906,6 +9905,7 @@ guarantine
 guarantor
 guarantors
 guarantorship
+gladite
 geode
 guarapo
 guarapucu

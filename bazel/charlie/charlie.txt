@@ -6773,7 +6773,6 @@ chartreuse
 cellulous
 cellvibrio
 celom
-celomata
 celoms
 celoscope
 celosia
@@ -9386,6 +9385,7 @@ chawdron
 chawed
 chawer
 comitative
+celomata
 chawers
 chawia
 chawing
