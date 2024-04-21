@@ -8724,7 +8724,6 @@ chantry
 chantries
 chants
 chanukah
-chao
 chaogenous
 chaology
 chaori
@@ -15158,6 +15157,7 @@ clabbers
 cumbent
 clablaria
 clabularia
+chao
 clabularium
 clach
 clachan
