@@ -8244,7 +8244,6 @@ epispastic
 epitrochoid
 epispermic
 epispinal
-episplenitis
 episporangium
 epispore
 electromagnetics
@@ -11820,6 +11819,7 @@ examinatorial
 exhaust
 examine
 econometrist
+episplenitis
 examined
 examinee
 examinees
