@@ -6674,7 +6674,6 @@ bergander
 bergaptene
 bedevil
 bergere
-bergeret
 bergerette
 bergfall
 berggylt
@@ -12538,6 +12537,7 @@ bononian
 balcon
 beaveries
 bonos
+bergeret
 bons
 bonsai
 bonsela

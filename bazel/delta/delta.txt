@@ -10756,7 +10756,6 @@ dipteroi
 dependent
 disrelated
 dipterology
-dipterologist
 dipteron
 dipteros
 dipterous
@@ -13575,6 +13574,7 @@ dissyllabise
 dissyllabised
 dissyllabising
 dissyllabism
+dipterologist
 dissyllabize
 dissyllabizing
 domicilii
