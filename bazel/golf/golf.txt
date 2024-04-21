@@ -3183,7 +3183,6 @@ guardlike
 geophone
 geophones
 gayish
-geoplagiotropism
 geoplana
 gonadectomized
 geoplanidae
@@ -5732,6 +5731,7 @@ globularly
 ganglioneuroma
 globularness
 globule
+geoplagiotropism
 globules
 globulet
 globulicide
