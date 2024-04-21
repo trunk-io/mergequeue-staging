@@ -3159,7 +3159,6 @@ flock
 fibromyoma
 fibromyomectomy
 fibromyositis
-fibromyotomy
 fibromyxosarcoma
 frissons
 fibromucous
@@ -7348,6 +7347,7 @@ forage
 foraged
 foragement
 forager
+fibromyotomy
 foragers
 forages
 foraging
