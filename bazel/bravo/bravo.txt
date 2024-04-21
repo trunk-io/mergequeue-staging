@@ -12201,7 +12201,6 @@ bolthead
 boltheader
 bagge
 boltheading
-boltheads
 bolthole
 bolti
 bolty
@@ -14665,6 +14664,7 @@ bravados
 bravas
 braved
 bravely
+boltheads
 braveness
 bepaid
 braver
