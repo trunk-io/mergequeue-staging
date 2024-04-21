@@ -8206,6 +8206,7 @@ episedia
 episematic
 episememe
 episepalous
+externum
 episyllogism
 essayette
 episyntheton
@@ -13657,7 +13658,6 @@ externization
 externomedian
 externs
 externship
-externum
 exteroceptist
 exteroceptive
 exteroceptor
