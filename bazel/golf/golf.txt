@@ -2792,6 +2792,7 @@ genips
 genisaro
 genista
 goggan
+granitization
 galliformes
 gospoda
 genit
@@ -8033,7 +8034,6 @@ granitification
 grandnephew
 garbling
 granitite
-granitization
 granitize
 granitized
 granitizing

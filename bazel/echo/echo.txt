@@ -929,7 +929,6 @@ ectosteal
 ectostosis
 etherealized
 ectotheca
-evoke
 expelled
 ectotherm
 ectothermic
@@ -9750,6 +9749,7 @@ erectilities
 esotery
 esoteric
 esoterica
+evoke
 esoterical
 emprime
 esoterically
