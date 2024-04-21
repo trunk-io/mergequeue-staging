@@ -5621,7 +5621,6 @@ enfield
 enfierce
 enfigure
 enfilade
-enfiladed
 emolument
 enfilades
 enfilading
@@ -8520,6 +8519,7 @@ ecology
 eprise
 eproboscidea
 eprosy
+enfiladed
 epizoicide
 eprouvette
 epruinose
