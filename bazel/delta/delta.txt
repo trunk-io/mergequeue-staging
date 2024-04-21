@@ -10336,7 +10336,6 @@ diorism
 diorite
 diorites
 dioritic
-diorthoses
 diorthosis
 diorthotic
 dioscorea
@@ -15020,6 +15019,7 @@ dogmatists
 dogmatization
 dogmatize
 dogmatized
+diorthoses
 dogmatizer
 dogmeat
 dogmen
