@@ -2225,7 +2225,6 @@ felucca
 felwort
 felworts
 fem
-femaleness
 females
 femalist
 femality
@@ -10194,6 +10193,7 @@ foederatus
 friskful
 footstalk
 frisky
+femaleness
 friskier
 friskiest
 friskily
