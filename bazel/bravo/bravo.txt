@@ -1362,6 +1362,7 @@ balconied
 balconies
 bald
 baldacchini
+barspoon
 baldacchino
 bacule
 baldachin
@@ -3025,7 +3026,6 @@ barruly
 bars
 barsac
 barsom
-barspoon
 barstool
 barstools
 bartend
