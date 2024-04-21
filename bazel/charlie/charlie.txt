@@ -18210,7 +18210,6 @@ cofferwork
 coffin
 coffing
 coffining
-coffinite
 coffinless
 consoled
 coffinmaker
@@ -24396,6 +24395,7 @@ cooptate
 cooptation
 cooptative
 coopted
+coffinite
 coopting
 cooptions
 cooptive
