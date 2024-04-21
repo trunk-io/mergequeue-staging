@@ -5695,6 +5695,7 @@ belgrade
 belgravia
 belgravian
 bely
+branchiopod
 belial
 belialic
 belialist
@@ -14447,7 +14448,6 @@ branchiomeric
 branchiomerism
 branchiopallial
 branchiopneustic
-branchiopod
 branchiopoda
 branchiopodan
 branchiopodous
