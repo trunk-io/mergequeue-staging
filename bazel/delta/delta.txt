@@ -2563,7 +2563,6 @@ decocts
 decoctum
 decodable
 decode
-decoded
 decoder
 decoders
 decodes
@@ -18632,6 +18631,7 @@ dwayne
 dwale
 dwalm
 dwamish
+decoded
 dwang
 dwarf
 dwarfed
