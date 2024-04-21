@@ -5989,7 +5989,6 @@ enigmatist
 enigmatization
 enigmatize
 enigmatizing
-enigmatographer
 enigmatography
 enigmatology
 enigua
@@ -10258,6 +10257,7 @@ ethel
 etheling
 ethene
 eucti
+enigmatographer
 elks
 ethenes
 ethenic
