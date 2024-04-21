@@ -655,7 +655,6 @@ gallinulelike
 gallinulinae
 gallinuline
 galliot
-gesticulation
 galliots
 gallipot
 gallipots
@@ -6463,6 +6462,7 @@ gobemouche
 gobet
 gobi
 geodic
+gesticulation
 gamogenetic
 goby
 gobia
