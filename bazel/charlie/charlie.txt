@@ -23936,7 +23936,6 @@ conuzee
 conuzor
 conv
 convalesce
-convalesced
 convalescence
 convalescent
 convalescently
@@ -26722,6 +26721,7 @@ counterbore
 counterbored
 counterborer
 counterboring
+convalesced
 counterboulle
 counterbracing
 counterbranch

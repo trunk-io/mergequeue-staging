@@ -6662,7 +6662,6 @@ golds
 goldseed
 goldsmith
 goldsmithery
-goldsmithry
 goldsmiths
 goldspink
 gnathopod
@@ -7721,6 +7720,7 @@ gragers
 graham
 grahamism
 grahamite
+goldsmithry
 grayhair
 grahams
 gray
