@@ -20272,6 +20272,7 @@ communalised
 communaliser
 communalism
 communalist
+crystallomancy
 communalistic
 communalization
 communalize
@@ -29478,7 +29479,6 @@ crystalloidal
 crystallology
 crystalloluminescence
 crystallomagnetic
-crystallomancy
 crystallometry
 crystallometric
 crystallophyllian
