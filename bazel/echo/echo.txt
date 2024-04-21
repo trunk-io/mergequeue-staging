@@ -5226,7 +5226,6 @@ endogenous
 endogenously
 endogens
 endoglobular
-enfoncee
 extralimital
 endognath
 endognathal
@@ -6743,6 +6742,7 @@ enterovirus
 estates
 ensemble
 enterozoan
+enfoncee
 erepsins
 equilibriria
 enterozoic
