@@ -9106,7 +9106,6 @@ charrs
 charruan
 charruas
 chars
-charshaf
 charsingha
 chart
 charta
@@ -12164,6 +12163,7 @@ chrysatropic
 chrysazin
 chrysazol
 clumpst
+charshaf
 chryseis
 chryselectrum
 chryselephantine
