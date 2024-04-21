@@ -297,7 +297,6 @@ eastlins
 eastman
 embalming
 eastmost
-eastness
 eastre
 easts
 euphoniousness
@@ -3530,6 +3529,7 @@ embodied
 embodier
 embodiers
 embodies
+eastness
 embodying
 embogue
 emboil

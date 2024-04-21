@@ -14135,6 +14135,7 @@ cyrano
 circ
 circadian
 circaea
+closeable
 chingpaw
 circaeaceae
 circaetus
@@ -16620,7 +16621,6 @@ cloriodid
 clos
 closable
 close
-closeable
 closecross
 closed
 closedown
