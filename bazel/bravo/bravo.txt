@@ -3882,7 +3882,6 @@ bavenite
 bavette
 bespatter
 baviaantje
-bavian
 baviere
 bavin
 bavius
@@ -10643,6 +10642,7 @@ bleymes
 bleinerite
 blellum
 blellums
+bavian
 blemish
 blemished
 blemisher
