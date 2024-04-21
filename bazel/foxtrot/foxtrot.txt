@@ -7728,7 +7728,6 @@ foregoneness
 foreground
 foregrounds
 foreguess
-foreguidance
 foregut
 ferine
 foreguts
@@ -10169,6 +10168,7 @@ frankensteins
 frippet
 fris
 frisado
+foreguidance
 flopped
 frisbee
 frisbees
