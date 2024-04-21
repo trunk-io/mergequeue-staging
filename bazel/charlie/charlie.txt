@@ -13365,7 +13365,6 @@ cyclope
 cyclopean
 cyclopedia
 cyclopedias
-cyclopedic
 cyclopedist
 cyclopentadiene
 cyclopentanone
@@ -16430,6 +16429,7 @@ cloakrooms
 caterwaul
 castellany
 cloakwise
+cyclopedic
 cloam
 cloamen
 cloamer
