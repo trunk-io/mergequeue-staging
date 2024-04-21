@@ -2955,6 +2955,7 @@ acromiohyoid
 areometer
 acromiohumeral
 acromion
+avg
 acromioscapular
 amphibalus
 acromiosternal
@@ -24695,7 +24696,6 @@ avesta
 avestan
 avestruz
 aveugle
-avg
 avgas
 avgasses
 aviador
