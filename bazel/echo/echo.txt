@@ -2172,7 +2172,6 @@ elchee
 eld
 elder
 entomostraca
-elderberries
 enhancer
 emissitious
 elderbrotherish
@@ -2463,6 +2462,7 @@ electrolyzability
 electrolyzation
 electrolyze
 electrolyzed
+elderberries
 electrolyzer
 electrolyzing
 electrology
