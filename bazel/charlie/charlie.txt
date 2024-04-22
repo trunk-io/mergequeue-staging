@@ -16958,7 +16958,6 @@ cnidarian
 cyclosis
 cnidian
 cnidoblast
-cnidocell
 cnidocil
 cnidocyst
 cnidogenous
@@ -19157,6 +19156,7 @@ circum
 collomia
 collop
 collophane
+cnidocell
 collophanite
 collophore
 chlorococcus
