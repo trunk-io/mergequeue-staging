@@ -4599,7 +4599,6 @@ gypping
 gippo
 gips
 gyps
-gipseian
 gypseian
 gypseous
 gipser
@@ -6997,6 +6996,7 @@ goodnight
 gedunk
 goodrich
 gleesomeness
+gipseian
 goodship
 goodsome
 goodtemperedness
