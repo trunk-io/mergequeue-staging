@@ -1049,7 +1049,6 @@ farley
 farles
 farls
 farm
-farmable
 farmage
 farmed
 farmer
@@ -8706,6 +8705,7 @@ forswearer
 forswearing
 fields
 forswears
+farmable
 forswornness
 fort
 fortake
