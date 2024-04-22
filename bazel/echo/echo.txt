@@ -3518,7 +3518,6 @@ exclamatorily
 emblemish
 emblemist
 excitoglandular
-emblemize
 emblemized
 enchainment
 emblemizing
@@ -9637,6 +9636,7 @@ escudo
 escudos
 escuela
 esculapian
+emblemize
 esculent
 esculents
 esculetin
