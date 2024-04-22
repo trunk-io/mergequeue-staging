@@ -557,7 +557,6 @@ dam
 dama
 damage
 damageability
-damageable
 damageableness
 damageably
 damaged
@@ -18099,6 +18098,7 @@ dummying
 dummyism
 diphthonging
 dumminess
+damageable
 dummkopf
 disimmure
 dummkopfs
