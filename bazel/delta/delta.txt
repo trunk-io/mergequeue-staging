@@ -976,7 +976,6 @@ dolesomeness
 doeling
 darer
 darers
-disobeys
 dares
 daresay
 darg
@@ -13622,6 +13621,7 @@ dissipated
 ding
 dissipatedly
 dissipatedness
+disobeys
 dissipaters
 deplaster
 dissipates
