@@ -2460,7 +2460,6 @@ electrolyze
 electrolyzed
 elderberries
 electrolyzer
-electrolyzing
 electrology
 electrological
 electrologist
@@ -11522,6 +11521,7 @@ evergreen
 evergreens
 every
 everyday
+electrolyzing
 everydayness
 everyhow
 everylike
