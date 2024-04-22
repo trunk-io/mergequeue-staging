@@ -2413,7 +2413,6 @@ electrofusion
 electrogalvanic
 electrogalvanization
 electrogasdynamics
-endosternite
 electrogenesis
 electrogenetic
 electrogenic
@@ -3969,6 +3968,7 @@ emirates
 emirs
 eels
 explodent
+endosternite
 emirship
 emissary
 exorganic
