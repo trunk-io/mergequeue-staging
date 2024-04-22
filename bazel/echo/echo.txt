@@ -750,7 +750,6 @@ emmenology
 economize
 economized
 ecclesiolater
-economizers
 economizes
 ecophene
 epilachna
@@ -4309,6 +4308,7 @@ emulator
 edificant
 emulatory
 emulators
+economizers
 emulatress
 electrotonus
 emule
