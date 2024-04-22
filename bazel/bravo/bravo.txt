@@ -6165,7 +6165,6 @@ brookie
 benefaction
 benefactions
 benefactive
-benefactor
 benefactors
 benefactorship
 benefactress
@@ -15811,6 +15810,7 @@ bromelins
 bromellite
 bromeosin
 befrogged
+benefactor
 bromes
 bromethyl
 bromethylene
