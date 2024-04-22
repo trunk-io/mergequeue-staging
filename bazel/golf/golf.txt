@@ -6190,7 +6190,6 @@ glutinize
 glutinose
 glutinosity
 glutinous
-glutinously
 glutinousness
 gamble
 glutoid
@@ -8644,6 +8643,7 @@ gaudsman
 greenbottle
 greenbrier
 greenbug
+glutinously
 gigunu
 greenbugs
 greenbul
