@@ -4571,7 +4571,6 @@ carpetless
 carpetmaker
 carpetmaking
 carpetmonger
-carpets
 carpetweb
 carpetweed
 carpetwork
@@ -13592,6 +13591,7 @@ cima
 caridoid
 cyma
 cymae
+carpets
 cymagraph
 cimaise
 cymaise
