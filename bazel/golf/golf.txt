@@ -3882,7 +3882,6 @@ gibbing
 gibbled
 gibblegabbler
 gibblegable
-gibbles
 gibbol
 geobiology
 gibbons
@@ -6920,6 +6919,7 @@ gonophoric
 gonophorous
 gonophs
 gonopodia
+gibbles
 gryph
 gonopodial
 gonopodpodia
