@@ -4391,7 +4391,6 @@ fishbed
 fishberry
 fishberries
 fishboat
-fishboats
 fishbolts
 fishbone
 fishbones
@@ -8602,6 +8601,7 @@ formulism
 formulist
 formulistic
 formulization
+fishboats
 formulize
 falsum
 fluorographic
