@@ -599,7 +599,6 @@ echinosphaeritidae
 echinostoma
 echinostomatidae
 echinostome
-echinostomiasis
 echinozoa
 echinulate
 echinulated
@@ -5229,6 +5228,7 @@ endolithic
 endolumbar
 endomastoiditis
 endome
+echinostomiasis
 endomesoderm
 endometry
 endometria
