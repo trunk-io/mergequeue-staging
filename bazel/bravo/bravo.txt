@@ -2973,7 +2973,6 @@ bellhanger
 barretors
 barretry
 barrets
-barrette
 boundaries
 barretter
 barrettes
@@ -9211,6 +9210,7 @@ biotechnologically
 biotechs
 bracherer
 biotelemetry
+barrette
 botanists
 biotelemetric
 biotelemetries
