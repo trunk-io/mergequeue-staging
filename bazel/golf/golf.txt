@@ -2728,7 +2728,6 @@ genetic
 geneticism
 geneticists
 genetics
-ganymedes
 genetika
 genetmoil
 genetoid
@@ -5909,6 +5908,7 @@ glossitis
 glossless
 glossmeter
 geod
+ganymedes
 glossocarcinoma
 glossocele
 glossocoma
