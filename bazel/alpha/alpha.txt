@@ -4919,7 +4919,6 @@ atrocity
 aerification
 aerified
 aerifies
-aerifying
 aeriform
 aerily
 aeriness
@@ -14218,6 +14217,7 @@ assentive
 anteocular
 antistes
 anteopercle
+aerifying
 anteoperculum
 anteorbital
 antepagment

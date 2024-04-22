@@ -7215,7 +7215,6 @@ footgrip
 foothalt
 filths
 flatcap
-foothold
 footholds
 foothot
 flippantness
@@ -9932,6 +9931,7 @@ frets
 fuds
 fretsaws
 fretsome
+foothold
 frett
 frettage
 frettation
