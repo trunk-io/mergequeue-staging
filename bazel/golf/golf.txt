@@ -1508,7 +1508,6 @@ garrotes
 garroting
 gn
 garrotte
-garrotted
 garrotting
 gastrocystis
 garrulinae
@@ -8706,6 +8705,7 @@ greenovite
 greenroom
 greenrooms
 geraniaceae
+garrotted
 goiter
 greens
 greensand
