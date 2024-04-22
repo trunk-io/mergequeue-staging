@@ -2240,7 +2240,6 @@ fem
 females
 femalist
 femality
-femalize
 femcee
 feme
 femereil
@@ -2805,6 +2804,7 @@ forwaste
 festschriften
 flots
 festschrifts
+femalize
 festshrifts
 festuca
 festucine
