@@ -6443,7 +6443,6 @@ benzofuryl
 biozone
 benzofuroquinoxaline
 benzoglycolic
-benzoglyoxaline
 balancewise
 benzohydrol
 benzoic
@@ -10254,6 +10253,7 @@ blaff
 blaffert
 blaflum
 blaggard
+benzoglyoxaline
 blague
 blagueur
 blah

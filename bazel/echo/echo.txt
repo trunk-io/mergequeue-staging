@@ -5668,6 +5668,7 @@ enfranchisements
 enfranchiser
 enfranchises
 enfree
+estampedero
 enfrenzy
 enfroward
 enfuddle
@@ -12926,7 +12927,6 @@ expatiating
 expatiatingly
 expatiation
 expatiations
-estampedero
 expatiative
 expatiatory
 expatriate
