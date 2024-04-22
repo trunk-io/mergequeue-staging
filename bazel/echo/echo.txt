@@ -9820,6 +9820,7 @@ evaluators
 esponton
 enlimn
 espontoon
+extrapyramidal
 espousage
 espousals
 espouse
@@ -13919,7 +13920,6 @@ extraperiodic
 extraperiosteal
 extraperitoneal
 extraphysical
-extrapyramidal
 extrapituitary
 extraplacental
 extraplanetary
