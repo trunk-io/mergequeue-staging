@@ -2606,7 +2606,6 @@ ferrites
 ferritic
 ferritins
 ferritization
-ferritungstite
 ferryway
 ferroaluminum
 ferrocalcite
@@ -8672,6 +8671,7 @@ forseen
 forset
 forshape
 forsythia
+ferritungstite
 forsythias
 forsloth
 forslow
