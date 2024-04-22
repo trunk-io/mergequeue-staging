@@ -6762,6 +6762,7 @@ fodge
 fodgel
 fodient
 foe
+frangibility
 fudder
 foederati
 foederis
@@ -9421,7 +9422,6 @@ frogmouths
 francophobe
 francophone
 franger
-frangibility
 frangible
 frangipane
 frangipani
