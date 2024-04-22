@@ -4383,7 +4383,6 @@ dormancy
 demarcation
 dadaist
 demarcations
-demarcator
 demarcatordemarcators
 demarcators
 disponing
@@ -6476,6 +6475,7 @@ descensive
 descensory
 descensories
 descent
+demarcator
 deschampsia
 deschool
 devocalise
