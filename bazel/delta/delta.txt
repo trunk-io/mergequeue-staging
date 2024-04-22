@@ -706,7 +706,6 @@ dampproofing
 damps
 dams
 damsel
-damselfish
 damselfishes
 damselfly
 damselflies
@@ -12083,6 +12082,7 @@ disesteeming
 dorsulum
 dysesthesia
 dysesthetic
+damselfish
 disestimation
 diseur
 diseurs
