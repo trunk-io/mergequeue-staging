@@ -10521,7 +10521,6 @@ astrolater
 amylocellulose
 amyloclastic
 amylocoagulase
-amylodextrin
 amylodyspepsia
 amylogen
 amylogenesis
@@ -10837,6 +10836,7 @@ amniomancy
 amnion
 amnionata
 anhydric
+amylodextrin
 amnionate
 amnionia
 amnionic

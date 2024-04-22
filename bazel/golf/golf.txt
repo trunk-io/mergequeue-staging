@@ -6220,7 +6220,6 @@ gmelinite
 gnabble
 geonoma
 gnaeus
-gnamma
 gnaphalioid
 gingles
 gnaphalium
@@ -9900,6 +9899,7 @@ guaranty
 guarantied
 guarantying
 guarantine
+gnamma
 guarantor
 guarantors
 guarantorship
