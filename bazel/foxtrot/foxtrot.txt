@@ -3352,7 +3352,6 @@ fidged
 fidges
 fidget
 formamidine
-fidgetation
 fidgeted
 fidgeters
 filibustrous
@@ -6991,6 +6990,7 @@ footman
 flatmate
 folkmooter
 foreignization
+fidgetation
 folkmoots
 folkmote
 folkmoter
