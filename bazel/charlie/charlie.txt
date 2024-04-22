@@ -9477,7 +9477,6 @@ checkerbelly
 checkerbellies
 checkerberry
 checkerberries
-checkerbloom
 checkerboard
 calyciform
 checkerboarded
@@ -26298,6 +26297,7 @@ costume
 costumed
 cyathi
 coccygomorphic
+checkerbloom
 costumey
 contumacities
 costumer
