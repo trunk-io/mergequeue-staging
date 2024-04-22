@@ -4726,6 +4726,7 @@ flabbily
 flabel
 focuses
 flabella
+flecnode
 flabellate
 flabellation
 flabellifoliate
@@ -8119,7 +8120,6 @@ forestology
 forestral
 forestress
 forestries
-flecnode
 forests
 forestside
 forestudy
