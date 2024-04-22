@@ -5706,6 +5706,7 @@ afterpiece
 afterplay
 afterplanting
 afterpotential
+archidium
 autolysis
 afterpressure
 afterproof
@@ -18917,7 +18918,6 @@ archidiaconal
 archidiaconate
 archididascalos
 archidiskodon
-archidium
 archidome
 archie
 assemblers
