@@ -49,6 +49,7 @@ eared
 earflap
 earflaps
 equiprobabilism
+equidiurnal
 earflower
 equicellular
 earful
@@ -8648,7 +8649,6 @@ equidistant
 equidistantial
 equidistantly
 equidistribution
-equidiurnal
 equidivision
 equidominant
 equidurable
