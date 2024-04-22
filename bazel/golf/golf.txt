@@ -3213,7 +3213,6 @@ geopositive
 geopotential
 geoprumnon
 georama
-george
 georgemas
 georgette
 georgia
@@ -3551,6 +3550,7 @@ gess
 graypate
 gangliated
 gesseron
+george
 gesso
 gessoes
 gest
