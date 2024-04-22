@@ -4360,6 +4360,7 @@ emulsions
 emulsoid
 emulsoidal
 emulsoids
+endoabdominal
 emulsor
 emunct
 emunctories
@@ -5098,7 +5099,6 @@ electroplating
 endlichite
 endlong
 endmost
-endoabdominal
 endoangiitis
 exemplum
 endoaortitis
