@@ -3529,7 +3529,6 @@ couloirs
 carapaces
 carapache
 carapacho
-carapacial
 carapacic
 carapato
 carapax
@@ -13646,6 +13645,7 @@ cimbrian
 cimbric
 cimcumvention
 cyme
+carapacial
 cymelet
 cimelia
 cimeliarch
