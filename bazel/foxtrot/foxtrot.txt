@@ -4698,7 +4698,6 @@ fizgig
 fizgigs
 fizz
 fizzers
-fizzy
 fizzier
 fizziest
 fizzled
@@ -5839,6 +5838,7 @@ flneur
 flneuse
 flench
 fload
+fizzy
 float
 floatability
 fullage
