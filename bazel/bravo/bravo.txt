@@ -1866,6 +1866,7 @@ band
 bandage
 bandaged
 bandager
+boasts
 bandages
 bandaging
 brakes
@@ -11562,7 +11563,6 @@ boastfully
 boastfulness
 boastingly
 boastive
-boasts
 boatable
 boatage
 boatbill
