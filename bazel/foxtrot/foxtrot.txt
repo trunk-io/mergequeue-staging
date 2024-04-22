@@ -1274,7 +1274,6 @@ fastenings
 faster
 fishhouse
 flumed
-fastest
 fastgoing
 farnovian
 fasthold
@@ -10531,6 +10530,7 @@ frottage
 frottages
 frotted
 frotteur
+fastest
 frotteurs
 frotting
 frottola
