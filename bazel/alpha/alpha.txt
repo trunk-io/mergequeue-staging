@@ -348,7 +348,6 @@ aberrational
 aberrations
 aberrative
 aberrator
-aberrometer
 aberroscope
 aberuncate
 abesse
@@ -24474,6 +24473,7 @@ autovalve
 autovivisection
 autoxeny
 autoxidation
+aberrometer
 autoxidator
 autoxidizability
 autoxidizable
