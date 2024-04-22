@@ -2170,6 +2170,7 @@ fellowship
 fellowshiping
 fellowshipped
 fellowshipping
+friggle
 fellowships
 fells
 fellside
@@ -11308,7 +11309,6 @@ furaciousness
 furacity
 fhrer
 fural
-friggle
 formfeeds
 furaldehyde
 fumigant
