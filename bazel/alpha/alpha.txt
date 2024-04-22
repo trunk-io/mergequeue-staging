@@ -1437,6 +1437,7 @@ accelerometer
 accelerometers
 accend
 accendibility
+apartado
 accendible
 accensed
 accension
@@ -16667,7 +16668,6 @@ apargia
 aparithmesis
 apart
 actinologue
-apartado
 apartheid
 aparthrosis
 abulic
