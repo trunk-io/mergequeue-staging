@@ -3508,6 +3508,7 @@ figpecker
 figs
 frangi
 figshell
+follow
 fury
 figulate
 figulated
@@ -7033,7 +7034,6 @@ follying
 follily
 follyproof
 follis
-follow
 followable
 followed
 follower
