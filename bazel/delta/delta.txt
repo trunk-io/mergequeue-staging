@@ -13178,6 +13178,7 @@ distrusted
 dislikelihood
 dispossess
 dispossessed
+deemed
 dispossesses
 dispossessing
 dispossession
@@ -13773,7 +13774,6 @@ distends
 distensibility
 distensibilities
 diligent
-deemed
 distensile
 distension
 distensions
