@@ -576,6 +576,7 @@ echinoderm
 echinoderma
 echinodermal
 echinodermata
+explorer
 echinodermatous
 echinodermic
 echinodorus
@@ -13238,7 +13239,6 @@ epistolized
 explore
 explored
 explorement
-explorer
 explorers
 explores
 exploringly
