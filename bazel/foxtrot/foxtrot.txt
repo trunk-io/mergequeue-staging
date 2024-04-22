@@ -3166,7 +3166,6 @@ fibromatous
 fibromembrane
 fibromembranous
 fibromyectomy
-fibromyitis
 flock
 fibromyoma
 fibromyomectomy
@@ -9784,6 +9783,7 @@ freibergite
 freycinetia
 freieslebenite
 freiezlebenhe
+fibromyitis
 freight
 fistic
 freightage
