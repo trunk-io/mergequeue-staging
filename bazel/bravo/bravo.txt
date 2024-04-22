@@ -1301,7 +1301,6 @@ balanitis
 balanoblennorrhea
 balanocele
 balanoglossida
-balanoglossus
 balanoid
 balanophora
 balanophoraceae
@@ -12559,6 +12558,7 @@ bontok
 bonum
 bonus
 bonuses
+balanoglossus
 basinlike
 bonxie
 bonze
