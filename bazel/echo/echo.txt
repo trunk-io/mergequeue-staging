@@ -845,7 +845,6 @@ ectypography
 ectiris
 ectoblast
 episodal
-exceeds
 ectoblastic
 ectobronchium
 ectocardia
@@ -8126,6 +8125,7 @@ epiplastral
 epiplastron
 epipleurae
 epipleural
+exceeds
 epiplexis
 epiploce
 epiplocele
