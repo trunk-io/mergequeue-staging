@@ -10209,7 +10209,6 @@ boogaloo
 blackthorn
 blackthorns
 blacktongue
-blacktop
 blacktopped
 blacktopping
 blacktops
@@ -17131,6 +17130,7 @@ bullets
 bulletwood
 bullfeast
 bullfice
+blacktop
 bullfight
 bullfighter
 bullfighters
