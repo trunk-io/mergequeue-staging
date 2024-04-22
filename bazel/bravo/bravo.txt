@@ -9578,7 +9578,6 @@ birthright
 birthrights
 birthroot
 births
-birthstone
 birthstones
 birthwort
 bis
@@ -16192,6 +16191,7 @@ brown
 brownback
 browned
 brownest
+birthstone
 browny
 brownian
 brownier
