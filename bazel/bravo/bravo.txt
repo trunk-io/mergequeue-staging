@@ -1043,7 +1043,6 @@ baikalite
 baikerinite
 baikerite
 baikie
-bail
 blindages
 bailable
 bayldonite
@@ -10335,6 +10334,7 @@ balmacaan
 blankest
 blanket
 blanketed
+bail
 blanketeer
 beetmister
 blanketer
