@@ -8690,7 +8690,6 @@ chantefable
 chantey
 chanteyman
 chanteys
-chantepleure
 chanter
 chanterelle
 chanters
@@ -24857,6 +24856,7 @@ coragio
 corah
 coraise
 coraji
+chantepleure
 coral
 coralbells
 coralbush
