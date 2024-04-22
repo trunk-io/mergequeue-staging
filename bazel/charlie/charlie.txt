@@ -22630,6 +22630,7 @@ connotation
 connotational
 connotations
 connotative
+conservatorium
 connotatively
 connote
 connoted
@@ -22848,7 +22849,6 @@ conservator
 conservatory
 conservatorial
 conservatories
-conservatorium
 conservators
 conservatorship
 coordinator

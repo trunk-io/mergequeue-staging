@@ -3936,7 +3936,6 @@ emigrants
 emigrate
 emigrates
 emigrating
-emigration
 emigrational
 emigrationist
 emigrations
@@ -8734,6 +8733,7 @@ equipluve
 equipment
 equipments
 equipoise
+emigration
 equipoised
 equipoising
 equipollence
