@@ -5195,7 +5195,6 @@ befringed
 befringes
 befringing
 befrocked
-befrogged
 befrounce
 befrumple
 befuddle
@@ -15823,6 +15822,7 @@ bromelin
 bromelins
 bromellite
 bromeosin
+befrogged
 bromes
 bromethyl
 bromethylene
