@@ -5703,6 +5703,7 @@ categorization
 categorizations
 categorize
 categorized
+counterbreastwork
 categorizer
 categorizers
 categorizes
@@ -26729,7 +26730,6 @@ counterboulle
 counterbracing
 counterbranch
 counterbrand
-counterbreastwork
 counterbuff
 counterbuilding
 countercampaign
