@@ -4040,6 +4040,7 @@ adjurations
 adjuratory
 adjure
 aeroscopic
+antimetathesis
 adjured
 adjurer
 adjurers
@@ -15568,7 +15569,6 @@ antimerism
 antimeristem
 antimesia
 antimetabole
-antimetathesis
 antimetathetic
 antimeter
 antimethod
