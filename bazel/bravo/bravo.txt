@@ -248,7 +248,6 @@ bachelor
 bachelordom
 bachelorette
 bachelorhood
-bachelorism
 bobache
 bachelorize
 bachelorly
@@ -4515,6 +4514,7 @@ becomes
 becometh
 becoming
 becomingly
+bachelorism
 becomingness
 becomma
 becompass
