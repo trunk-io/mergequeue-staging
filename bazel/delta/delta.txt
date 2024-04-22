@@ -11897,7 +11897,6 @@ distelfink
 disembattle
 disembed
 disembellish
-disembitter
 deflexionize
 disembocation
 disembody
@@ -17395,6 +17394,7 @@ dropsonde
 dropvie
 dropwise
 dropwort
+disembitter
 dropworts
 droschken
 downstream
