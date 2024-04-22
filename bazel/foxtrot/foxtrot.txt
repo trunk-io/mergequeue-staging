@@ -3342,6 +3342,7 @@ fidepromission
 fidepromissor
 farcied
 frostbites
+frontages
 faery
 fidessa
 fidge
@@ -10405,7 +10406,6 @@ frontage
 floe
 feldspars
 fertilised
-frontages
 facewise
 frontalis
 fuzziness

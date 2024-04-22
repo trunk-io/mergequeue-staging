@@ -2930,7 +2930,6 @@ barrat
 barrater
 barraters
 barrator
-barrators
 barratry
 barratries
 barratrous
@@ -8979,6 +8978,7 @@ biodynamics
 biodyne
 bioecology
 bioecologic
+barrators
 bioecological
 bioecologically
 bioecologies
