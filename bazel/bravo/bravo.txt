@@ -14447,7 +14447,6 @@ branchiopoda
 branchiopodan
 branchiopodous
 branchiopoo
-branchiopulmonata
 branchiopulmonate
 berseems
 branchiosaur
@@ -15128,6 +15127,7 @@ briber
 bribery
 briberies
 bribers
+branchiopulmonata
 bribes
 bribetaker
 bribetaking
