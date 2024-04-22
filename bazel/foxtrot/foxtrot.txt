@@ -4203,7 +4203,6 @@ fireboxes
 firebrands
 firebrats
 firebreaks
-firebrick
 firebug
 firebugs
 fireburn
@@ -5233,6 +5232,7 @@ flavanilin
 fluidiser
 flavaniline
 flavanone
+firebrick
 flavanthrene
 fogon
 flavanthrone
