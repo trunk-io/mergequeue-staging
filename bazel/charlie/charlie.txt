@@ -6480,7 +6480,6 @@ cecidomyiidae
 cecidomyiidous
 cecilia
 cecilite
-cecity
 cecitis
 cecograph
 cecomorphae
@@ -20888,6 +20887,7 @@ compoundedness
 compounder
 compounders
 compounding
+cecity
 compoundness
 compounds
 comprachico
