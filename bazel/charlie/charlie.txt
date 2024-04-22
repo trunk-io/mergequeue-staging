@@ -16665,6 +16665,7 @@ clothe
 clothed
 clothes
 clothesbag
+crossability
 clothesbasket
 clothesbrush
 clotheshorses
@@ -29801,7 +29802,6 @@ croslet
 crosne
 crosnes
 cross
-crossability
 cowal
 crossable
 crossarm
