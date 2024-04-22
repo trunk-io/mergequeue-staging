@@ -3032,7 +3032,6 @@ capillary
 capillaries
 capillarily
 capillarimeter
-capillariness
 capillariomotor
 capillarity
 capillarities
@@ -17480,6 +17479,7 @@ cocashweed
 cocause
 cocautioner
 coccaceae
+capillariness
 crucifix
 coccaceous
 coccagee
