@@ -81,6 +81,7 @@ facemark
 facepiece
 faceplate
 fessed
+fettler
 facer
 facers
 faces
@@ -2887,7 +2888,6 @@ fetticus
 fetting
 fettle
 fettled
-fettler
 fettling
 fettlings
 fettstein
