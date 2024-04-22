@@ -2764,7 +2764,6 @@ elemicin
 elemin
 elemis
 ecthyma
-elemol
 elemong
 elench
 elenchi
@@ -11858,6 +11857,7 @@ exarchal
 exarchate
 exarchateship
 exarchy
+elemol
 exarchic
 excides
 exarchies

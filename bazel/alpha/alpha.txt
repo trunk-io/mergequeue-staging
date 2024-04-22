@@ -20065,7 +20065,6 @@ alloted
 arolium
 arolla
 aroma
-aromacity
 aromadendrin
 aromal
 aromas
@@ -21885,6 +21884,7 @@ assortatively
 assorted
 assortedness
 assorter
+aromacity
 assorters
 assortive
 assortment
