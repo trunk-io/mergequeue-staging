@@ -4966,7 +4966,6 @@ flanch
 flanchard
 flanche
 flanconnade
-flandan
 flanders
 flandowser
 flane
@@ -6711,6 +6710,7 @@ foamless
 foamlike
 feods
 foams
+flandan
 fobbing
 fobs
 focal
