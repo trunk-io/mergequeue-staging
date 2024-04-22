@@ -263,7 +263,6 @@ gainsayers
 gainsaying
 gainsays
 gainset
-gainsome
 gainspeaker
 gainspeaking
 gainst
@@ -4184,6 +4183,7 @@ garua
 gimbaled
 gimbaling
 gimballed
+gainsome
 gimballing
 glyconics
 gimbals
