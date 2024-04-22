@@ -6700,7 +6700,6 @@ enteropneusta
 enteropneustan
 enteroptotic
 enterorrhagia
-enterorrhaphy
 enterorrhexis
 etatisms
 enteroscopy
@@ -8934,6 +8933,7 @@ eremophilous
 etagere
 erotology
 expressman
+enterorrhaphy
 eremopteris
 eremuri
 eremurus
