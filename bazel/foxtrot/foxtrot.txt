@@ -2333,7 +2333,6 @@ fend
 fendable
 fended
 following
-fender
 fendered
 fraischeur
 fendering
@@ -11406,6 +11405,7 @@ furison
 furl
 furlable
 furlan
+fender
 furlana
 furlane
 furler
