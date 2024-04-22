@@ -5911,7 +5911,6 @@ agatelike
 agates
 apoquinine
 agatha
-agathaea
 agathaumas
 agathin
 agathis
@@ -15495,6 +15494,7 @@ antimagnetic
 antimalaria
 antimalarial
 attitudinal
+agathaea
 apiculation
 apodemas
 antimale
