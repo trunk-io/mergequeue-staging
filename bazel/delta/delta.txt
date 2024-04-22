@@ -2482,7 +2482,6 @@ declarable
 diadochokinetic
 declarant
 declaration
-declarations
 declarative
 declaratively
 deutzias
@@ -16007,6 +16006,7 @@ doubleyou
 doubleleaf
 doublelunged
 doubleness
+declarations
 doubleprecision
 doubler
 doublers
