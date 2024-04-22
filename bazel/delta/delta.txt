@@ -1440,7 +1440,6 @@ dc
 dca
 deceived
 dcb
-dcbname
 dclass
 dcollet
 dcolletage
@@ -4160,6 +4159,7 @@ deliracy
 drama
 delirant
 delirate
+dcbname
 dianthuses
 deliration
 delire
