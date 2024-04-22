@@ -9445,7 +9445,6 @@ guacharos
 groundlessness
 garrison
 groundliness
-groundling
 glorious
 groundlings
 gelled
@@ -10303,6 +10302,7 @@ gular
 girdle
 gularis
 gulash
+groundling
 grulla
 guld
 gulden
