@@ -3309,7 +3309,6 @@ couplets
 capstone
 capstones
 capsula
-cholangiographic
 capsulae
 capsular
 capsulate
@@ -18834,6 +18833,7 @@ coypou
 colistins
 colitic
 colytic
+cholangiographic
 commatism
 colitis
 colitises

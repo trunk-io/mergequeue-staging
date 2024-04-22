@@ -641,6 +641,7 @@ echoless
 echolocate
 echolocation
 echometer
+encephalograph
 echopractic
 ecumenopolis
 echopraxia
@@ -4588,7 +4589,6 @@ encephalocele
 encephalocoele
 encephalodialysis
 elotherium
-encephalograph
 encephalographic
 encephalographically
 encephaloid
