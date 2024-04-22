@@ -9806,6 +9806,7 @@ chemicodynamic
 chemicoluminescence
 chemicoluminescent
 chemicomechanical
+concurs
 chemicomineralogical
 chemicopharmaceutical
 chemicophysical
@@ -26858,7 +26859,6 @@ counterfoil
 counterforce
 counterformula
 counterfort
-concurs
 counterfugue
 countergabble
 countergabion

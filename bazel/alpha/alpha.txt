@@ -2722,7 +2722,6 @@ acquests
 acquiesce
 acquiesced
 acquiescement
-acquiescence
 acquiescency
 acquiescent
 acquiescently
@@ -20820,6 +20819,7 @@ arustle
 arval
 arvejon
 arvel
+acquiescence
 arverni
 arvicola
 arvicole
