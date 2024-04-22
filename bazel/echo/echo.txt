@@ -4107,7 +4107,6 @@ empathies
 empathize
 empathized
 empathizes
-empatron
 empemata
 embrangled
 empennage
@@ -7648,6 +7647,7 @@ existences
 exr
 epicerastic
 epiceratodus
+empatron
 epicheirema
 epicheiremata
 emusify
