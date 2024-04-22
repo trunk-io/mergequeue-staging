@@ -20946,6 +20946,7 @@ compriest
 comprint
 comprisable
 comprise
+connectional
 comprised
 comprises
 comprising
@@ -22574,7 +22575,6 @@ connectibly
 connecticut
 connecting
 connection
-connectional
 connectionism
 chitterling
 connectionless
