@@ -2689,7 +2689,6 @@ electrovalence
 electrovalency
 electrovalent
 electrovection
-electrowin
 electrowinning
 electrum
 elects
@@ -12728,6 +12727,7 @@ exomorphism
 exomphalos
 exomphalous
 exomphalus
+electrowin
 expandibility
 exon
 exoner
