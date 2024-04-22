@@ -1742,7 +1742,6 @@ bigotries
 balsamina
 balsaminaceae
 balsaminaceous
-balsamine
 balsaming
 balsamitic
 buibui
@@ -9697,6 +9696,7 @@ bislings
 bysmalith
 bismanol
 bismar
+balsamine
 bismarckian
 bismarckianism
 bismarine
