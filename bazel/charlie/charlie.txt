@@ -14752,6 +14752,7 @@ cistvaen
 cit
 citable
 citadel
+curettes
 citadels
 cital
 cytase
@@ -31305,7 +31306,6 @@ curettage
 curette
 curetted
 curettement
-curettes
 curetting
 curf
 curfew
