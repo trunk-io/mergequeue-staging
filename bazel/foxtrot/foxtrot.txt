@@ -5844,6 +5844,7 @@ floatability
 fullage
 forethoughtless
 floatage
+forwalk
 floatages
 fireling
 floatation
@@ -8819,7 +8820,6 @@ forums
 forvay
 forwake
 fains
-forwalk
 forwander
 fribbler
 forwardal
