@@ -2513,7 +2513,6 @@ declassing
 declension
 declensional
 declensionally
-declensions
 declimatize
 declinable
 declinal
@@ -13893,6 +13892,7 @@ distort
 distortable
 distorted
 diabetic
+declensions
 distortedly
 daggy
 distortedness
