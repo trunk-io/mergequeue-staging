@@ -391,7 +391,6 @@ abichite
 abidance
 abidances
 abidden
-abide
 abided
 abider
 abiders
@@ -19764,6 +19763,7 @@ akhund
 aristogenics
 aristoi
 aristol
+abide
 aristolochiaceae
 aristolochiales
 aristolochine
