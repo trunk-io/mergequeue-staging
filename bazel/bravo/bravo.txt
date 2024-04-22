@@ -10067,7 +10067,6 @@ biberon
 blachong
 black
 blackacre
-blackamoor
 blackamoors
 broguish
 blackarm
@@ -13927,6 +13926,7 @@ braccianite
 bowwood
 braccio
 brace
+blackamoor
 braced
 bracelet
 bourgeoises
