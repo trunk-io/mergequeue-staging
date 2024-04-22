@@ -11042,7 +11042,6 @@ amphiaster
 assedat
 amphib
 amphibia
-amphibial
 amphibian
 amphibians
 amphibichnite
@@ -14633,6 +14632,7 @@ anthropopathy
 anthropopathia
 anthropopathically
 anthropopathism
+amphibial
 anthropopathite
 anthropophagy
 anthropophagic
