@@ -11589,6 +11589,7 @@ discontinuable
 discontinual
 discontinuances
 discontinuation
+duplicately
 discontinuations
 discontinue
 discontinued
@@ -18374,7 +18375,6 @@ duplicable
 duplicand
 duplicando
 duplicated
-duplicately
 duplicates
 duplicating
 duplication
