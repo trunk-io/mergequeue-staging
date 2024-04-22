@@ -3882,7 +3882,6 @@ gibbosely
 gibboseness
 gibbosity
 gibbous
-gondola
 gibbousness
 girderless
 gibbsite
@@ -6504,6 +6503,7 @@ goboes
 gobonated
 gobonee
 gobony
+gondola
 gobstick
 gobstopper
 gocart
