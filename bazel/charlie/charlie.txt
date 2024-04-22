@@ -21649,7 +21649,6 @@ condiddling
 cevadilla
 condign
 condigness
-condignity
 condignly
 condignness
 condylar
@@ -28590,6 +28589,7 @@ creen
 creepage
 creepages
 coached
+condignity
 creeper
 creepered
 creeperless
