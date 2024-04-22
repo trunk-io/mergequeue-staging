@@ -5277,7 +5277,6 @@ begiggle
 begild
 begin
 bangster
-beginger
 beginner
 beginners
 beginning
@@ -6394,6 +6393,7 @@ benzdioxdiazine
 benzdioxtriazine
 benzedrine
 benzein
+beginger
 biolith
 benzene
 benzeneazobenzene
