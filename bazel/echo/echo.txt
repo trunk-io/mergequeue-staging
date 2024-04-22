@@ -3390,7 +3390,6 @@ embarricado
 embarring
 embars
 embase
-embassade
 embassador
 endointoxication
 embassadress
@@ -8994,6 +8993,7 @@ enfamish
 ergograph
 ergoism
 expulsing
+embassade
 ergology
 ergomaniac
 ergometer
