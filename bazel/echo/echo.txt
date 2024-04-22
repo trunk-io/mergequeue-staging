@@ -8082,7 +8082,6 @@ encoder
 epiphenomena
 epiphenomenal
 epiphenomenalism
-epiphenomenalist
 epiphenomenally
 epiphenomenon
 epiphylaxis
@@ -8184,6 +8183,7 @@ episcoparian
 edenic
 episcopate
 episcopates
+epiphenomenalist
 episcopation
 exedra
 episcopature
