@@ -6420,6 +6420,7 @@ desaturation
 desaurin
 desaurine
 dedicatory
+diabolarch
 desc
 descale
 descaling
@@ -8030,7 +8031,6 @@ diablerie
 diableries
 diablo
 debord
-diabolarch
 diabolarchy
 diabolatry
 doven
