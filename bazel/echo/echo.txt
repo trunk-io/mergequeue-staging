@@ -5516,7 +5516,6 @@ energical
 energid
 energids
 energise
-epirot
 energiser
 energises
 energism
@@ -13348,6 +13347,7 @@ expressable
 expressage
 expresser
 expresses
+epirot
 expressibility
 expressible
 expressibly
