@@ -9445,7 +9445,6 @@ digesters
 digestibility
 digestible
 digestibleness
-desmarestiaceae
 digestibly
 digestif
 digesting
@@ -16659,6 +16658,7 @@ drainage
 drainages
 drainboard
 drainer
+desmarestiaceae
 drainerman
 drainermen
 drainers
