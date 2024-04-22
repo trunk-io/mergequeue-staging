@@ -1114,7 +1114,6 @@ bayonets
 bayonetted
 bayonetting
 bayong
-bayous
 bairagi
 bairam
 bairdi
@@ -17288,6 +17287,7 @@ bumboat
 bumboatman
 bumboatmen
 bumboats
+bayous
 bumboatwoman
 bumclock
 bottleflower
