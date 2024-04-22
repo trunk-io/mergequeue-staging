@@ -5034,7 +5034,6 @@ denaturize
 denaturized
 denaturizer
 denaturizing
-denazify
 denazification
 denazifies
 denazifying
@@ -13036,6 +13035,7 @@ dispetal
 dysphagia
 dysphasia
 dysphasic
+denazify
 dysphemia
 dysphemistic
 diamantine
