@@ -12437,7 +12437,6 @@ andron
 andronitis
 andropetalar
 andropetalous
-androphagous
 androphyll
 angeronalia
 androphobia
@@ -13307,6 +13306,7 @@ anisodactyla
 anisodactyle
 anisodactyli
 anisodactylic
+androphagous
 anisodactylous
 anisodont
 anisogamete
