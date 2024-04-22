@@ -2319,7 +2319,6 @@ geissolomataceae
 geissolomataceous
 geissorhiza
 gasterozooid
-greffotome
 glissaded
 geissospermine
 geist
@@ -7813,6 +7812,7 @@ graminology
 graminological
 graminous
 grammalogue
+greffotome
 golden
 grammarian
 grammarianism
