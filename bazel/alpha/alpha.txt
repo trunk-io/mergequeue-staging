@@ -234,6 +234,7 @@ abbroachment
 abc
 abcess
 abcissa
+anamnesis
 abcoulomb
 abd
 abdali
@@ -11826,7 +11827,6 @@ anammonid
 anammonide
 asarite
 anamneses
-anamnesis
 anamnestic
 anamnestically
 anamniata
