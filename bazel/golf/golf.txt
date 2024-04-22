@@ -281,7 +281,6 @@ gorgonized
 gair
 gairfish
 gairfowl
-gaisling
 grammates
 gaysome
 gaist
@@ -10567,6 +10566,7 @@ gunshot
 gunshots
 gunsling
 gunslingers
+gaisling
 gunslinging
 gunsman
 gunsmith
