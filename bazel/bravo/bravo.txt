@@ -9788,7 +9788,6 @@ bisulfate
 bisulfid
 bisulfide
 bisulphate
-bisulphide
 bisulphite
 bit
 bitable
@@ -13015,6 +13014,7 @@ boric
 boride
 boryl
 borine
+bisulphide
 boring
 boringly
 boringness
