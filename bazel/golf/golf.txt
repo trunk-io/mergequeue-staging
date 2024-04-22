@@ -4323,6 +4323,7 @@ gin
 gyn
 gynaecea
 governess
+genapper
 gynaeceum
 glycaemia
 gynaecia
@@ -6799,7 +6800,6 @@ goneness
 gonenesses
 goneoclinic
 gonepoietic
-genapper
 goneril
 goners
 gonesome

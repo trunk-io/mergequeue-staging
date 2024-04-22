@@ -4807,7 +4807,6 @@ encoders
 encodings
 encoffin
 exuviation
-encoffinment
 encolden
 encollar
 encolour
@@ -7231,6 +7230,7 @@ envisaged
 envisages
 envisaging
 envision
+encoffinment
 envisioning
 envisionment
 envisions
