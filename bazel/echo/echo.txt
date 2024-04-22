@@ -4856,7 +4856,6 @@ encompasses
 encompassing
 encompassment
 encopreses
-encopresis
 encorbellment
 encorbelment
 encore
@@ -7640,6 +7639,7 @@ epicenter
 epicenters
 epicentral
 eaux
+encopresis
 epicentre
 epicentrums
 existences
