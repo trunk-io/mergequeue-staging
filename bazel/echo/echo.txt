@@ -440,6 +440,7 @@ ecbasis
 ecbatic
 ecblastesis
 ecblastpsis
+elsewheres
 ecbole
 ecbolic
 ecbolics
@@ -3174,7 +3175,6 @@ elseways
 elsewhat
 elsewhen
 elsewhere
-elsewheres
 elsewise
 elshin
 exhibitorship
