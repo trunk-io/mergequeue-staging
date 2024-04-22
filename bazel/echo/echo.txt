@@ -2382,7 +2382,6 @@ electrodialytic
 endaseh
 electrodialitically
 electrodialyze
-electrodynamic
 electrodynamical
 electrodynamics
 electrodynamism
@@ -6277,6 +6276,7 @@ enrange
 enrapt
 enrapted
 enrapting
+electrodynamic
 execrator
 enrapts
 encoignure
