@@ -3741,6 +3741,7 @@ frownless
 friezer
 filler
 fillercap
+followable
 fractionator
 faceoff
 fillers
@@ -7039,7 +7040,6 @@ follying
 follily
 follyproof
 follis
-followable
 followed
 follower
 followers
