@@ -9475,7 +9475,6 @@ altern
 alternacy
 alternamente
 alternance
-alternant
 alternanthera
 absolvable
 alternaria
@@ -14893,6 +14892,7 @@ antichristianism
 antichristianity
 antichristianly
 antichrists
+alternant
 antichrome
 antichronical
 antichronically
