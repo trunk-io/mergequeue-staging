@@ -544,7 +544,6 @@ echeneidid
 echeneididae
 echeneidoid
 echevaria
-echevin
 echidna
 echidnae
 echidnas
@@ -3181,6 +3180,7 @@ elucid
 exchangeably
 elucidate
 esperantido
+echevin
 elucidated
 elucidates
 elucidating
