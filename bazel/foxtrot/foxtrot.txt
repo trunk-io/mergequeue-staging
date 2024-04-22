@@ -4480,6 +4480,7 @@ flunkydom
 fissionable
 fissioned
 fissioning
+formidolous
 frays
 fissions
 fissipalmation
@@ -8524,7 +8525,6 @@ formidability
 formidable
 formidableness
 formidably
-formidolous
 formylal
 francois
 formylate
