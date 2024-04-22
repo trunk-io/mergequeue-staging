@@ -6706,7 +6706,6 @@ enteropexy
 enteropexia
 enteroplasty
 enteroplegia
-enteropneust
 enteropneusta
 enteropneustan
 enteroptotic
@@ -7024,6 +7023,7 @@ evolver
 entrain
 entrained
 entraining
+enteropneust
 entrainment
 emulsive
 entrains
