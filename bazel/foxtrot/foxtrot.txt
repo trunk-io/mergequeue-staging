@@ -3606,7 +3606,6 @@ filches
 faventine
 filching
 filchingly
-file
 fileable
 filecard
 filechar
@@ -11040,6 +11039,7 @@ fritts
 fumet
 flaxlike
 fumets
+file
 flaccidities
 fumettes
 flongs

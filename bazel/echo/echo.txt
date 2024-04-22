@@ -7878,7 +7878,6 @@ epigonium
 epigonos
 ekphorize
 epigonous
-epigonousepigons
 epigonus
 epigram
 electrion
@@ -10942,6 +10941,7 @@ eunuchize
 eunuchized
 eunuchry
 eunuchs
+epigonousepigons
 exclusions
 euodic
 extrabold
