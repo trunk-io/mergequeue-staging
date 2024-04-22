@@ -6065,6 +6065,7 @@ cauchemar
 cauchillo
 caucho
 caucus
+chains
 caucused
 caucuses
 caucusing
@@ -8144,7 +8145,6 @@ chainman
 chainmen
 chainomatic
 chainon
-chains
 chainsman
 chainsmen
 chainwale
