@@ -3461,7 +3461,6 @@ bastilles
 bastillion
 biggah
 bastiment
-bastinade
 bastinaded
 bastinades
 baroi
@@ -13601,6 +13600,7 @@ bourgeois
 bourgeoise
 bourgeoisie
 brashness
+bastinade
 bourgeoisitic
 breadlessness
 bourgeon
