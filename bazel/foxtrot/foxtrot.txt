@@ -8280,6 +8280,7 @@ forgathering
 forgathers
 forgave
 forge
+forinsec
 forgeability
 forgeable
 forged
@@ -8356,7 +8357,6 @@ forhooy
 forhooie
 forhow
 foryield
-forinsec
 forinsecal
 furnaceman
 ferriage
