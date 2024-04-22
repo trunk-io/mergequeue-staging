@@ -6332,7 +6332,6 @@ gnomide
 gnomish
 gaidropsaridae
 gnomist
-gnomists
 gabert
 greyhound
 gnomologic
@@ -9131,6 +9130,7 @@ griqualander
 gonk
 guiba
 grisaille
+gnomists
 grisailles
 grisard
 grisbet
