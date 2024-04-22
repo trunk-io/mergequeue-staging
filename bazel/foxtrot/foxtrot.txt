@@ -7975,7 +7975,6 @@ foreruns
 fores
 foresaddle
 foresay
-foresail
 fatiguing
 foresails
 foresays
@@ -9755,6 +9754,7 @@ freetrader
 faithful
 freeway
 freeward
+foresail
 flavorings
 freewheeler
 freewheelers
