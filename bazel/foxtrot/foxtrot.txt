@@ -3197,7 +3197,6 @@ fracture
 fibrous
 fibrousness
 fibrovascular
-firring
 fibs
 fibster
 fibulae
@@ -9369,6 +9368,7 @@ frakturs
 fasciolet
 fram
 framable
+firring
 frambesia
 frame
 framea
