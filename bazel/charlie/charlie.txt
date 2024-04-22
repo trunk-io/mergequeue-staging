@@ -4138,7 +4138,6 @@ careworn
 carex
 carf
 carfare
-carfares
 carfax
 carfloat
 comprizable
@@ -18065,6 +18064,7 @@ corrosiveness
 coenotrope
 coenthrone
 coenure
+carfares
 coenures
 coenuri
 coenurus

@@ -3219,6 +3219,7 @@ anotus
 actionless
 arrectary
 actions
+alveolotomy
 actious
 actipylea
 actium
@@ -9690,7 +9691,6 @@ alveololabial
 albacea
 alveolonasal
 alveolosubnasal
-alveolotomy
 alveolus
 alveus
 alvia
