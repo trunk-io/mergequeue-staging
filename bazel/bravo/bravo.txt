@@ -656,7 +656,6 @@ bacteriochlorophyll
 bacteriocidal
 bacteriocin
 bacteriocyte
-bacteriodiagnosis
 bacteriofluorescin
 bara
 bacteriogenic
@@ -4357,6 +4356,7 @@ bebless
 beblister
 beblood
 beblooded
+bacteriodiagnosis
 beblooding
 bebloods
 bebloom

@@ -11400,7 +11400,6 @@ evaniidae
 evanish
 evanished
 expirable
-evanishes
 evanishing
 evanishment
 evans
@@ -13204,6 +13203,7 @@ explications
 eventuation
 explicative
 explicatively
+evanishes
 explicator
 explicatory
 explicators
