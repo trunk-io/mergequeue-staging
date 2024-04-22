@@ -7236,7 +7236,6 @@ bestiaries
 bestiarist
 bestick
 barbone
-besticking
 bestill
 besting
 bestirred
@@ -13436,6 +13435,7 @@ boubou
 boubous
 boucan
 bouch
+besticking
 bouchaleen
 boucharde
 bouche
