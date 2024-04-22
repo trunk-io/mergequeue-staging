@@ -1661,7 +1661,6 @@ ballplatz
 bedrabbled
 ballpoint
 ballpoints
-ballproof
 ballrooms
 balls
 ballsy
@@ -4239,6 +4238,7 @@ beatifical
 beatifically
 blackjacks
 beatificate
+ballproof
 beatification
 beatified
 beatifies
