@@ -5854,7 +5854,6 @@ catheterism
 catheterization
 catheterize
 catheterized
-catheterizes
 catheterizing
 catheters
 catheti
@@ -22204,6 +22203,7 @@ congener
 congeneracy
 congeneric
 congenerical
+catheterizes
 congenerous
 congeners
 congenetic
