@@ -8505,6 +8505,7 @@ formicaries
 formicarioid
 forespent
 formicaroid
+fut
 formicate
 formicated
 franchiser
@@ -11657,7 +11658,6 @@ fusulas
 fusuma
 fusure
 fusus
-fut
 founte
 futchel
 futchell
