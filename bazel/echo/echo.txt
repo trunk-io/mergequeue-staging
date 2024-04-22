@@ -2323,6 +2323,7 @@ enneacontahedral
 electrocautery
 electrocauteries
 electroceramic
+emmensite
 electrochemical
 electrochemically
 electrochemist
@@ -3989,7 +3990,6 @@ emmeleia
 emmenagogic
 emmenagogue
 emmenic
-emmensite
 emmental
 emmer
 emmergoose
