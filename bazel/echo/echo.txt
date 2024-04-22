@@ -2722,7 +2722,6 @@ elegiacs
 elegiambic
 erections
 elegiambus
-elegiast
 elegibility
 elegies
 elegious
@@ -6893,6 +6892,7 @@ entocondylar
 entocondyle
 entocondyloid
 electrums
+elegiast
 entocone
 entoconid
 entocornea
