@@ -1055,7 +1055,6 @@ darning
 darns
 daroga
 darogah
-darogha
 daroo
 darr
 darraign
@@ -12847,6 +12846,7 @@ disorientate
 disorientated
 disorientating
 disorientation
+darogha
 disoriented
 disorients
 disour
