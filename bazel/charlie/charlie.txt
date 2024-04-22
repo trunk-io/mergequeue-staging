@@ -16840,6 +16840,7 @@ clubmonger
 clubridden
 clubroom
 clubroot
+compar
 clubroots
 clubs
 clubstart
@@ -20466,7 +20467,6 @@ companionizing
 companions
 companionway
 companionways
-compar
 comparability
 comparable
 comparableness

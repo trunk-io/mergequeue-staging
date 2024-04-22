@@ -2410,7 +2410,6 @@ aciculums
 amizilis
 acid
 acidaemia
-acidanthera
 acidaspis
 adjunctively
 acidemias
@@ -9759,6 +9758,7 @@ amalgamative
 amalgamatize
 amalgamator
 amalgamators
+acidanthera
 amalgamist
 amalgamization
 amalgamize
