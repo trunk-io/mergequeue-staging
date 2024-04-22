@@ -3358,7 +3358,6 @@ acupuncturist
 acus
 acusection
 acusector
-atresy
 acushla
 acutance
 acutances
@@ -22619,6 +22618,7 @@ atik
 atikokania
 atilt
 atimy
+atresy
 atimon
 ating
 atinga
