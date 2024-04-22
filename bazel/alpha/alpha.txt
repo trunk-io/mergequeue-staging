@@ -214,7 +214,6 @@ abbotship
 abbotships
 abbott
 aspidospermine
-abbozzo
 abbr
 abbrev
 abbreviatable
@@ -3320,6 +3319,7 @@ aculea
 antizymic
 aculeae
 aculeata
+abbozzo
 aculeated
 ambassiate
 aculei
