@@ -2339,7 +2339,6 @@ gekkonoid
 gallivanter
 gekkota
 gel
-gelable
 gelada
 geladas
 gelandelaufer
@@ -5465,6 +5464,7 @@ goldenfleece
 glycogelatin
 glendale
 glycogenase
+gelable
 glycogenesis
 glycogenetic
 guha
