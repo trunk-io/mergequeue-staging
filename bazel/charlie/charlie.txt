@@ -5706,6 +5706,7 @@ categorize
 categorized
 categorizer
 categorizers
+childless
 categorizes
 categorizing
 cateye
@@ -10456,7 +10457,6 @@ childishly
 capitalistically
 childishness
 childkind
-childless
 childlessness
 childly
 childlier
