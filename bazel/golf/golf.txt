@@ -2030,7 +2030,6 @@ gaunted
 gaunter
 gauntest
 gaunty
-gauntlet
 gauntleted
 gauntleting
 gauntlets
@@ -9619,6 +9618,7 @@ grudgeless
 grudgeons
 grudger
 gavelkind
+gauntlet
 grudgery
 grudges
 grudging
