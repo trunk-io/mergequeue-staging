@@ -2361,7 +2361,6 @@ deciduous
 deciduously
 deciduousness
 decigram
-desmarestia
 decyl
 decile
 decylene
@@ -6998,6 +6997,7 @@ destines
 destinezite
 destiny
 destinies
+desmarestia
 destining
 destinism
 destituent
