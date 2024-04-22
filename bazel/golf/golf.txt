@@ -1425,7 +1425,6 @@ glutael
 glycollide
 garmenture
 garmentworker
-garn
 garnel
 garnerage
 galvanotropic
@@ -8135,6 +8134,7 @@ grapeless
 glauber
 gilbertite
 grapelet
+garn
 grapelike
 grapeline
 grapenuts

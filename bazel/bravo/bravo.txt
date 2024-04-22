@@ -11483,7 +11483,6 @@ blushet
 blushful
 blushfully
 blushfulness
-blushy
 blushiness
 blushing
 blushingly
@@ -12930,6 +12929,7 @@ borboridae
 borborygmatic
 borborygmi
 borborygmic
+blushy
 borborygmies
 borborygmus
 borborus
