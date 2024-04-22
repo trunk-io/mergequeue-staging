@@ -4158,6 +4158,7 @@ beardom
 beards
 bearer
 bearers
+buoyage
 bronchomotor
 bearfoot
 bearfoots
@@ -17501,7 +17502,6 @@ buntlines
 bunts
 bunuelo
 buoy
-buoyage
 borid
 buoyages
 buoyance
