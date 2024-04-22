@@ -6973,7 +6973,6 @@ airometer
 airpark
 airparks
 airphobia
-airplay
 airplane
 airplaned
 airplaner
@@ -10520,6 +10519,7 @@ amylic
 autarkik
 amylidene
 amylin
+airplay
 amylo
 astrolater
 amylocellulose

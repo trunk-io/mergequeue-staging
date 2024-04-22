@@ -2345,7 +2345,6 @@ fenestellid
 frostbiting
 fenestellidae
 fenester
-fenestra
 fenestral
 facette
 fenestrate
@@ -7242,6 +7241,7 @@ footling
 frontignan
 footlock
 footlocker
+fenestra
 footlockers
 flodge
 footlog
