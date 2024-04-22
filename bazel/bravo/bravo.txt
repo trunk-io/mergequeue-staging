@@ -10928,7 +10928,6 @@ bkgd
 blithest
 blitter
 blitum
-blitz
 blitzbuggy
 blitzed
 bobbie
@@ -13829,6 +13828,7 @@ bowshots
 bowsie
 bowsman
 bowsprit
+blitz
 bowsprits
 bowstaff
 brokenhearted
