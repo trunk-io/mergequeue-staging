@@ -2332,7 +2332,6 @@ assertible
 achrodextrinase
 achroglobin
 achroiocythaemia
-achroiocythemia
 achroite
 anarchosocialist
 achroma
@@ -11145,6 +11144,7 @@ amphigonia
 amphigonic
 amphigonium
 amphigonous
+achroiocythemia
 amphigory
 amphigories
 amphigouri
