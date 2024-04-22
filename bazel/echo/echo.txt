@@ -1971,7 +1971,6 @@ ejido
 ejidos
 ejoo
 ejulate
-ejurate
 ejuration
 ejusd
 ejusdem
@@ -2989,6 +2988,7 @@ elytriferous
 elytriform
 elytrin
 elytrocele
+ejurate
 elytroclasia
 elytroid
 elytroposis
