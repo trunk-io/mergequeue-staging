@@ -10522,6 +10522,7 @@ autarkik
 amylidene
 amylin
 amylo
+astrolater
 amylocellulose
 amyloclastic
 amylocoagulase
@@ -22270,7 +22271,6 @@ astrolabe
 associable
 astrolabes
 astrolabical
-astrolater
 astrolatry
 astrolithology
 astrolog
