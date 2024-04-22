@@ -1918,7 +1918,6 @@ debussyanize
 debussing
 debut
 downligging
-debutant
 debutante
 dooryard
 downcastly
@@ -18360,6 +18359,7 @@ dupioni
 dupla
 duplation
 duple
+debutant
 duplet
 duplex
 duplexed
