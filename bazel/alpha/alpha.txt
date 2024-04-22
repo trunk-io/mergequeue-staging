@@ -6940,7 +6940,6 @@ airing
 airings
 airish
 airless
-achime
 acock
 airlessly
 airlessness
@@ -10218,6 +10217,7 @@ ameliorations
 ameliorativ
 amelioratively
 amelioratory
+achime
 amellus
 ameloblast
 ameloblastic
