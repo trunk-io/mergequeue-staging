@@ -3842,6 +3842,7 @@ bearleap
 baudery
 baudronses
 bauds
+blindfolding
 bauera
 baufrey
 bauge
@@ -10851,7 +10852,6 @@ blindfolded
 blindfoldedly
 blindfoldedness
 blindfolder
-blindfolding
 blindfoldly
 blindfolds
 blindish
