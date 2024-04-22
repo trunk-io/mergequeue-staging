@@ -2726,6 +2726,7 @@ fervescent
 fervid
 fervidly
 fervidness
+finalizations
 fervor
 fervorlessness
 fervorous
@@ -4707,7 +4708,6 @@ flab
 flabbella
 flabbergast
 flabbergasted
-finalizations
 flabbergastingly
 flabbergasts
 flabby
