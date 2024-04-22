@@ -4453,7 +4453,6 @@ enantiopathia
 engaging
 enantioses
 enantiosis
-extrications
 enantiotropy
 enantiotropic
 enantobiosis
@@ -7833,6 +7832,7 @@ epigastria
 epigastrial
 epigastric
 epigastrical
+extrications
 epigastriocele
 epigastrium
 epigastrocele
