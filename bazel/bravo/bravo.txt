@@ -2131,7 +2131,6 @@ banksia
 basilissa
 banksian
 banksias
-bankside
 banksides
 banksman
 banksmen
@@ -5438,6 +5437,7 @@ behenic
 behest
 behests
 behew
+bankside
 behight
 behymn
 behind
