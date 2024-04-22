@@ -3899,6 +3899,7 @@ centaurian
 cardialgia
 calla
 cardialgic
+cilioretinal
 cardiameter
 cardiamorphia
 cardianesthesia
@@ -13578,7 +13579,6 @@ ciliograde
 ciliola
 ciliolate
 ciliolum
-cilioretinal
 corenounce
 cilioscleral
 ciliotomy
