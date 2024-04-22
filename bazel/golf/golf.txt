@@ -2769,6 +2769,7 @@ globoids
 genioglossi
 genioglossus
 geniohyoglossal
+gummous
 gymnoblastic
 geniohyoglossus
 geniohyoid
@@ -10427,7 +10428,6 @@ gummosis
 galbulus
 greenbacker
 gummosity
-gummous
 gump
 gumpheon
 gumption
