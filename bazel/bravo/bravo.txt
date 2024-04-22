@@ -12819,7 +12819,6 @@ boothes
 boothian
 boothite
 bootholder
-boothose
 booths
 booty
 bootid
@@ -17564,6 +17563,7 @@ bulking
 burdened
 brawlers
 burdener
+boothose
 burdeners
 bala
 burdening
