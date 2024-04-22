@@ -5646,7 +5646,6 @@ dephlegmatory
 dephlegmedness
 dephlogisticate
 dephlogisticated
-dephlogistication
 dephosphorization
 dephosphorize
 depickle
@@ -7663,6 +7662,7 @@ devisor
 devisors
 devitalisation
 devitalise
+dephlogistication
 devitalised
 devitalising
 devitalization
