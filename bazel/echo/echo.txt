@@ -779,6 +779,7 @@ ecotonal
 ecotone
 ecotones
 emotive
+euskera
 ecoute
 ecphasis
 ecphonema
@@ -4393,7 +4394,6 @@ enamelist
 enamellar
 eau
 equiped
-euskera
 enamelled
 enameller
 enamellers
