@@ -5834,6 +5834,7 @@ belligerencies
 belligerent
 belligerently
 belligerents
+burghemot
 bellying
 bellyland
 bellylike
@@ -15510,7 +15511,6 @@ brisk
 brisked
 brisken
 briskened
-burghemot
 briskening
 brisker
 basilican
