@@ -3517,7 +3517,6 @@ gersum
 gertie
 gertrude
 gerund
-gerundial
 gastropyloric
 gerundival
 gerunds
@@ -10357,6 +10356,7 @@ gullying
 gulling
 gawkers
 gullish
+gerundial
 gulliver
 gulllike
 gulls

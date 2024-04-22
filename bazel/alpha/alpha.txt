@@ -8996,7 +8996,6 @@ allotropism
 allotropize
 allotropous
 alloeosis
-allots
 allottable
 allottee
 allotter
@@ -20629,6 +20628,7 @@ arthropterous
 arthrorheumatism
 arthrorrhagia
 agistor
+allots
 arthrosclerosis
 arthroses
 arthrosia
