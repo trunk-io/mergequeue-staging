@@ -266,7 +266,6 @@ daggerboard
 daggerbush
 daggered
 daggering
-daggerlike
 distinctio
 daggerproof
 daggers
@@ -12719,6 +12718,7 @@ dismissal
 dismissals
 dismisser
 dismissers
+daggerlike
 dismisses
 dismissible
 dismissing
