@@ -3471,7 +3471,6 @@ deforces
 deforciant
 deforestation
 deforested
-deforester
 deforesting
 deform
 deformability
@@ -7091,6 +7090,7 @@ desulfuring
 desulfurisation
 desulfurise
 driest
+deforester
 desulfuriser
 desulfurising
 desulfurization
