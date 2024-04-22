@@ -4568,7 +4568,6 @@ ginseng
 gargarize
 ginsengs
 gynura
-ginward
 gio
 giobertite
 giocoso
@@ -8744,6 +8743,7 @@ greese
 greeshoch
 greet
 greeted
+ginward
 greeter
 greeters
 greetingly
