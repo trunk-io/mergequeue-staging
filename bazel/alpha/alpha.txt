@@ -4116,7 +4116,6 @@ adminicula
 adminicular
 adminiculate
 adminiculation
-adminiculum
 administer
 administerial
 administering
@@ -15309,6 +15308,7 @@ antiganting
 antigen
 antigene
 alloquialism
+adminiculum
 antigenes
 antigenic
 antigenically
