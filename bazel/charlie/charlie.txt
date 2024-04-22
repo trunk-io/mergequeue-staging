@@ -803,7 +803,6 @@ caixinha
 cajan
 cajang
 cajanus
-cajaput
 cajaputs
 cajava
 cajeput
@@ -7023,6 +7022,7 @@ centigram
 centigramme
 confluences
 centigrams
+cajaput
 centile
 centiles
 centiliter
