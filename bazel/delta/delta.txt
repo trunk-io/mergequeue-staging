@@ -5478,7 +5478,6 @@ deodorized
 deodorizer
 deodorizes
 deodorizing
-deontology
 deontological
 deontologist
 deoperculate
@@ -17247,6 +17246,7 @@ droghlin
 dronet
 drogoman
 drogue
+deontology
 drogues
 droguet
 droil

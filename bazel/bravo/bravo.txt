@@ -9166,6 +9166,7 @@ bioscientific
 bioscientist
 bepaints
 bioscope
+branchiostegite
 bioscopes
 bioscopy
 bioscopic
@@ -14455,7 +14456,6 @@ branchiostegal
 branchiostegan
 branchiostege
 branchiostegidae
-branchiostegite
 branchiostoma
 branchiostomid
 branchiostomidae
