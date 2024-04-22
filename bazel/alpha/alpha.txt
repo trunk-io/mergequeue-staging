@@ -13617,7 +13617,6 @@ annotinous
 annotto
 announce
 announced
-announcement
 announcers
 announces
 aphacic
@@ -14675,6 +14674,7 @@ autobiographies
 anthropotomist
 anthropotoxin
 anthropozoic
+announcement
 anthropurgic
 anthroropolith
 anthroxan
