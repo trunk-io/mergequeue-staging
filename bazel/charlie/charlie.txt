@@ -3610,6 +3610,7 @@ carbimide
 carbin
 carbine
 conficient
+counterstimulation
 carbineer
 carbineers
 carbines
@@ -27156,7 +27157,6 @@ counterstatement
 counterstatute
 counterstep
 counterstimulate
-counterstimulation
 cyclitis
 counterstimulus
 counterstock
