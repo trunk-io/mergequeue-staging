@@ -9566,6 +9566,7 @@ dignotion
 dygogram
 digoneutic
 digoneutism
+drawfile
 digonoporous
 digonous
 digor
@@ -16810,7 +16811,6 @@ drawee
 drawees
 drawer
 drawerful
-drawfile
 dissuited
 drawfiling
 drawgate
