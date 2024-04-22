@@ -2883,7 +2883,6 @@ gingery
 gentiledom
 gentiles
 gentilesse
-gentilic
 guiltless
 gentilism
 gentility
@@ -10788,6 +10787,7 @@ gutting
 guttled
 guttler
 gruntingly
+gentilic
 guttlers
 guttling
 guttula
