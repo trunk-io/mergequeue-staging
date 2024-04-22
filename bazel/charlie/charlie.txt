@@ -3083,7 +3083,6 @@ capitate
 capitated
 capitatim
 capitation
-capitations
 capitatum
 capite
 capiteaux
@@ -14159,6 +14158,7 @@ circuited
 circuiteer
 circuiter
 circuity
+capitations
 circuities
 countrie
 circuiting

@@ -7525,6 +7525,7 @@ beurre
 bevaring
 bevatron
 bevatrons
+bobbinets
 beveil
 beveled
 beveler
@@ -11628,7 +11629,6 @@ beknit
 bobbin
 bobbiner
 bobbinet
-bobbinets
 bribeless
 bobbinite
 bobbins
