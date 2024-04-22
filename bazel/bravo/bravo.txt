@@ -3766,6 +3766,7 @@ battiness
 batting
 battish
 battled
+becursing
 battledore
 battledores
 baldly
@@ -4574,7 +4575,6 @@ becurry
 becurse
 becursed
 becurses
-becursing
 becurst
 becurtained
 becushioned
