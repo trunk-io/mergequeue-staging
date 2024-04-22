@@ -5441,7 +5441,6 @@ dissociableness
 deoccidentalize
 deoculate
 deodand
-deodands
 deodar
 deodaras
 deodars
@@ -8970,6 +8969,7 @@ dicotyledones
 dicotyledonous
 dicotyledons
 dicotyles
+deodands
 dicotylidae
 dicotylous
 dicotyls
