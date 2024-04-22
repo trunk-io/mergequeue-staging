@@ -3110,7 +3110,6 @@ greegree
 geomagnetics
 guestless
 geomagnetism
-geomagnetist
 gurdwara
 geomaly
 geomalic
@@ -10277,6 +10276,7 @@ guitarlike
 guitars
 gladdener
 guitermanite
+geomagnetist
 guitguit
 gestatorium
 guytrash
