@@ -5164,7 +5164,6 @@ flatness
 flats
 flatted
 flattened
-flattener
 flattening
 flattercap
 flatterdock
@@ -7822,6 +7821,7 @@ foreladies
 forelay
 forelaying
 foreland
+flattener
 forelands
 foreleader
 foreleg
