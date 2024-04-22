@@ -6832,7 +6832,6 @@ desoxycinchonine
 desoxycorticosterone
 desoxymorphine
 desoxyribonuclease
-desoxyribonucleic
 desoxyribonucleoprotein
 desoxyribose
 despair
@@ -6994,6 +6993,7 @@ destination
 destinations
 destine
 demagnetizer
+desoxyribonucleic
 decussately
 destined
 drawgear
