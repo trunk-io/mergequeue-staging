@@ -1648,7 +1648,6 @@ ballottable
 ballottement
 ballottine
 ballottines
-ballow
 bushment
 blear
 ballpark
@@ -4399,6 +4398,7 @@ bellyaching
 becap
 becapping
 becaps
+ballow
 becard
 becarpet
 bigamist
