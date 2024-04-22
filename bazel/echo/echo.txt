@@ -7694,7 +7694,6 @@ epicolic
 elevatory
 epicondylar
 epicondyle
-epicondylian
 engraulidae
 effectless
 ephapse
@@ -10396,6 +10395,7 @@ eupepticity
 ethylthioether
 ethinamate
 ethine
+epicondylian
 ethyne
 ethynes
 ethinyl
