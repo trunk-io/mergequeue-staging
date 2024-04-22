@@ -1432,6 +1432,7 @@ fatling
 fatlings
 furbishing
 fatness
+ferie
 fatnesses
 furcular
 fats
@@ -5213,7 +5214,6 @@ flaughts
 flaunch
 flaunche
 flaunched
-ferie
 flaunt
 flaunted
 flaunter
