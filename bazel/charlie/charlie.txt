@@ -7328,7 +7328,6 @@ cephaloplegia
 cephaloplegic
 cephalopod
 cephalopoda
-cephalopodan
 cephalopodic
 cephalopodous
 cephalopterus
@@ -27545,6 +27544,7 @@ covertness
 coverts
 coverup
 cadency
+cephalopodan
 coves
 covet
 covetable
