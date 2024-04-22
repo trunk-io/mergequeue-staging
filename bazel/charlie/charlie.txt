@@ -4926,7 +4926,6 @@ casalty
 casamarca
 casanova
 combated
-casanovas
 casaques
 casaquin
 casas
@@ -30493,6 +30492,7 @@ cubiform
 cubing
 cubisms
 cubist
+casanovas
 cubistic
 cubistically
 cubists
