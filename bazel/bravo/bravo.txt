@@ -949,7 +949,6 @@ bagtikan
 baguets
 baguette
 baguettes
-baguio
 baguios
 bagwash
 bagwig
@@ -7030,6 +7029,7 @@ besliming
 beslings
 beslipper
 beslobber
+baguio
 beslow
 beslubber
 beslur
