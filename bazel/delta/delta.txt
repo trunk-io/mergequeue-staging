@@ -8385,7 +8385,6 @@ diam
 diamagnet
 diamagnetic
 diamagnetically
-diamagnetize
 diamagnetometer
 diamant
 diamante
@@ -14159,6 +14158,7 @@ dithematic
 dither
 dithered
 ditherer
+diamagnetize
 dithery
 dithers
 dithymol
