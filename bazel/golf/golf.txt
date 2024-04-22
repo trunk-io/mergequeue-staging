@@ -5569,7 +5569,6 @@ glint
 glinting
 gliocyte
 glioma
-gliomas
 gliomatous
 gliosa
 glyoxal
@@ -10351,6 +10350,7 @@ gullible
 gullibly
 gullied
 gullies
+gliomas
 gullygut
 gullying
 gulling
