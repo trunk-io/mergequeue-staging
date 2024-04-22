@@ -1417,7 +1417,6 @@ balearic
 balearica
 balebos
 baled
-baleen
 baleens
 bossism
 balefire
@@ -6095,6 +6094,7 @@ benchership
 benches
 benchfellow
 benchful
+baleen
 benchy
 benching
 benchland
