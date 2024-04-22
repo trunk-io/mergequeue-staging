@@ -5920,6 +5920,7 @@ depriment
 deprint
 depriorize
 deprivable
+displosion
 deprival
 deprivals
 deprivate
@@ -13120,7 +13121,6 @@ degerms
 displode
 disploded
 displodes
-displosion
 displume
 displumed
 displumes
