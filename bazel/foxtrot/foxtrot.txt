@@ -54,7 +54,6 @@ fermatas
 fabular
 foreshowing
 fabulate
-fabulist
 fabulize
 fabulosity
 fabulous
@@ -9789,6 +9788,7 @@ freiezlebenhe
 freight
 fistic
 freightage
+fabulist
 freighted
 freighters
 flagmaking
