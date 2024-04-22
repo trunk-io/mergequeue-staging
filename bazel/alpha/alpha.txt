@@ -4468,7 +4468,6 @@ adterminal
 adtevac
 aduana
 adular
-adularescence
 anomalopteryx
 amanita
 adularescent
@@ -20571,6 +20570,7 @@ arthrodic
 arthrodymic
 assimilations
 arthrodynic
+adularescence
 arthrodiran
 arthrodire
 arthrodirous
