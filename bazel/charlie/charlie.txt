@@ -6951,7 +6951,6 @@ cental
 centals
 chock
 centares
-centaur
 centaurdom
 centaurea
 centauress
@@ -20306,6 +20305,7 @@ communicating
 communication
 communicational
 communications
+centaur
 communicative
 communicatively
 communicativeness
