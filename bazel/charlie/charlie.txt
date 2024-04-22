@@ -8144,7 +8144,6 @@ chainon
 chains
 chainsman
 chainsmen
-chainsmith
 chainwale
 chainwork
 chayota
@@ -9463,6 +9462,7 @@ chechehet
 chechem
 chechen
 chechia
+chainsmith
 coronagraph
 check
 checkable
