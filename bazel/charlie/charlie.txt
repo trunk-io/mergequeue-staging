@@ -21021,7 +21021,6 @@ compulsives
 compulsivity
 compulsory
 compulsorily
-compulsoriness
 compunct
 compunction
 consolidate
@@ -29311,6 +29310,7 @@ cryptoheretic
 cryptolite
 cryptolith
 cryptology
+compulsoriness
 cryptologic
 cryptological
 cryptolunatic
