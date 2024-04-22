@@ -1981,7 +1981,6 @@ bandores
 bandos
 bandpass
 bandrol
-bands
 bandsaw
 bandsawed
 bandsawing
@@ -3879,6 +3878,7 @@ bauxitite
 bavardage
 bavary
 bavarian
+bands
 bavaroy
 bavarois
 bavenite
