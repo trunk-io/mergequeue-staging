@@ -3510,7 +3510,6 @@ defrayment
 defrays
 defraudation
 deraigns
-defrauded
 defrauder
 defrauders
 defrauding
@@ -15968,6 +15967,7 @@ dotterel
 dotterels
 dotters
 dotty
+defrauded
 dottier
 dottiest
 dottily
