@@ -5203,6 +5203,7 @@ castagnole
 castalia
 castalides
 castalio
+creditless
 castana
 castane
 castanea
@@ -28539,7 +28540,6 @@ cephalexin
 credited
 crediting
 creditive
-creditless
 creditor
 creditors
 creditorship
