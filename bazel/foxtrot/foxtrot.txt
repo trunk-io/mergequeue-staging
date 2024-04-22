@@ -5496,6 +5496,7 @@ fleshquake
 flet
 fleta
 fletched
+foraneen
 fletcher
 fletcherism
 fletcherite
@@ -7375,7 +7376,6 @@ foraminule
 foraminulose
 forams
 forane
-foraneen
 flouncey
 foraneous
 foraramens
