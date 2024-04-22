@@ -643,6 +643,7 @@ falus
 falutin
 falx
 fam
+foliary
 fama
 famacide
 famatinite
@@ -6938,7 +6939,6 @@ frouzier
 foliaged
 foliages
 folial
-foliary
 foliate
 foliated
 foliation
