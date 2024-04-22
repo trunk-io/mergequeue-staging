@@ -8636,7 +8636,6 @@ beast
 billet
 billete
 billeted
-billeter
 billeters
 billethead
 billety
@@ -17717,6 +17716,7 @@ buried
 buriels
 burier
 buriers
+billeter
 buries
 burin
 burinist

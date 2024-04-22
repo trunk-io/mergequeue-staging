@@ -227,6 +227,7 @@ abbreviation
 abbreviations
 abbreviator
 abbreviatory
+adenohypophysis
 abbreviators
 abbreviature
 abbroachment
@@ -3705,7 +3706,6 @@ adenohypersthenia
 adenohypophyseal
 adonite
 adenohypophysial
-adenohypophysis
 adenoid
 adenoidal
 adenoidectomy
