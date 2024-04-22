@@ -612,7 +612,6 @@ falsificator
 falsified
 finickier
 fiard
-falsifier
 falsifiers
 falsifies
 falsifying
@@ -4732,6 +4731,7 @@ flabellum
 flabile
 flabra
 flabrum
+falsifier
 flabs
 flaccid
 flaccidity
