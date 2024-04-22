@@ -3004,7 +3004,6 @@ elytrin
 elytrocele
 elytroclasia
 elytroid
-elytropolypus
 elytroposis
 elytrorhagia
 elytrorrhagia
@@ -10095,6 +10094,7 @@ estragol
 estragole
 entity
 estray
+elytropolypus
 estrayed
 estraying
 estrays
