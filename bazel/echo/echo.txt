@@ -3954,6 +3954,7 @@ eels
 explodent
 endosternite
 emirship
+equinovarus
 emissary
 exorganic
 emissaria
@@ -8702,7 +8703,6 @@ equinity
 equinities
 equinoctial
 equinoctially
-equinovarus
 equinumerally
 equinus
 ethrogs
