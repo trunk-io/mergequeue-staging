@@ -7928,7 +7928,6 @@ epiky
 epikia
 epikleses
 epiklesis
-epikouros
 epil
 epilabra
 epilabrum
@@ -8408,6 +8407,7 @@ excubittoria
 exacerbescent
 epitomator
 equivocating
+epikouros
 epitomatory
 epitome
 epitomes
