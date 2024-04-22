@@ -10952,6 +10952,7 @@ eunuchize
 eunuchized
 eunuchry
 eunuchs
+exclusions
 euodic
 extrabold
 euomphalid
@@ -12115,7 +12116,6 @@ eigenspace
 exclusioner
 enalyron
 exclusionism
-exclusions
 exclusive
 exclusiveness
 enclitic
