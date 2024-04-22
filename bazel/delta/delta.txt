@@ -7663,7 +7663,6 @@ devisors
 devitalisation
 devitalise
 dephlogistication
-devitalised
 devitalising
 devitalization
 devitalize
@@ -9499,6 +9498,7 @@ digitigrada
 digitigrade
 digitigradism
 digitinerved
+devitalised
 digitipinnate
 digitisation
 digitised
