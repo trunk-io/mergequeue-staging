@@ -5215,6 +5215,7 @@ castanopsis
 castanospermum
 castaway
 castaways
+compilable
 caste
 casted
 casteism
@@ -20621,7 +20622,6 @@ competitors
 competitorship
 competitress
 competitrix
-compilable
 compilation
 compilations
 compilator
