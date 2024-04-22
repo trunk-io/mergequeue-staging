@@ -6894,6 +6894,7 @@ emblements
 enwombing
 entocranial
 entocuniform
+eyehook
 entodermal
 entodermic
 entoderms
@@ -8897,7 +8898,6 @@ erbium
 erd
 erdvark
 ere
-eyehook
 eclaircissement
 erebus
 erechtheum
