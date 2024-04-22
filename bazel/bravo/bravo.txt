@@ -1962,6 +1962,7 @@ bandobust
 bandog
 bandogs
 bonfire
+borrel
 bandoleer
 bandoleered
 bumf
@@ -13076,7 +13077,6 @@ boroughwide
 borowolframic
 borracha
 borrasca
-borrel
 benignancies
 borrelia
 borrelomycetaceae
