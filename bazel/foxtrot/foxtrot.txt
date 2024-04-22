@@ -6343,7 +6343,6 @@ fluidally
 fluidextract
 fluidible
 fluidic
-fluidics
 fluidification
 fissicostate
 fluidified
@@ -8626,6 +8625,7 @@ fornicators
 fornicatress
 fornicatrices
 fornicatrix
+fluidics
 forniciform
 farmsteading
 forninst
