@@ -13053,7 +13053,6 @@ boroglycerate
 boroglycerine
 borohydride
 borolanite
-boron
 boronatrocalcite
 boronia
 boronic
@@ -18161,6 +18160,7 @@ butene
 butenes
 butenyl
 buteo
+boron
 buteonine
 butic
 butyl
