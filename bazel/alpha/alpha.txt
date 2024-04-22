@@ -2145,7 +2145,6 @@ acetonemic
 acetones
 acetonic
 acetonyl
-acetonylacetone
 acetonylidene
 acetonitrile
 acetonization
@@ -6874,6 +6873,7 @@ aircoach
 aircoaches
 aircraft
 aircraftman
+acetonylacetone
 aircraftmen
 aircrafts
 aircraftsman
