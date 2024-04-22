@@ -946,7 +946,6 @@ bagroom
 bagsful
 bogtrotting
 bagtikan
-baguet
 baguets
 baguette
 baguettes
@@ -6802,6 +6801,7 @@ bernie
 berninesque
 bernoo
 bernoullian
+baguet
 baetuli
 berob
 berobed
