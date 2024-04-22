@@ -495,7 +495,6 @@ falconiform
 falconiformes
 falconlike
 frillies
-falconnoid
 folium
 falcons
 falcopern
@@ -8253,6 +8252,7 @@ forfends
 forfex
 forficate
 forficated
+falconnoid
 forfication
 forficiform
 fiercening
