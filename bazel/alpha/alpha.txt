@@ -3208,7 +3208,6 @@ actinulae
 action
 actionability
 actionably
-actional
 assoc
 actionary
 actioner
@@ -6088,6 +6087,7 @@ aggrandized
 aggrandizement
 aggrandizements
 aggrandizer
+actional
 aggrandizers
 aggrandizes
 aggrandizing
