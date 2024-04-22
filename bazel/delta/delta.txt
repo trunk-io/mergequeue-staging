@@ -3688,6 +3688,7 @@ ditchless
 dehematize
 decard
 dehepatize
+dialector
 dehgan
 dehydrant
 dehydrase
@@ -8281,7 +8282,6 @@ dialectological
 dialectologically
 dialectologies
 dialectologist
-dialector
 dialects
 dialed
 dialycarpous
