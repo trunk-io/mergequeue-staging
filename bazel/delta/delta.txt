@@ -13715,7 +13715,6 @@ dissunder
 dissweeten
 dist
 distad
-distaff
 distaffs
 distain
 distained
@@ -16256,6 +16255,7 @@ downby
 downbye
 downcast
 downcastness
+distaff
 downcasts
 downcome
 downcomes
