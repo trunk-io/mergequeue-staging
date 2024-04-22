@@ -8103,7 +8103,6 @@ gossan
 granulitization
 granulitize
 granulization
-granulize
 granuloadipose
 genappe
 granuloblast
@@ -10846,6 +10845,7 @@ gweduck
 germinatively
 gweducks
 gweducs
+granulize
 gweed
 gweeon
 gwely
