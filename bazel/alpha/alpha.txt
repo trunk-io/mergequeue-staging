@@ -13870,7 +13870,6 @@ anorexigenic
 anorgana
 anorganism
 alcornoque
-anorganology
 anormal
 anormality
 anorn
@@ -24265,6 +24264,7 @@ amebobacter
 autophagy
 autophagia
 autophagous
+anorganology
 autophyte
 autophytic
 autophytically
