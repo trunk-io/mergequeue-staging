@@ -1884,7 +1884,6 @@ bandar
 bandarlog
 bandbox
 bandboxes
-bandboxy
 bandboxical
 bandcase
 bandcutter
@@ -13055,6 +13054,7 @@ boron
 boronatrocalcite
 boronia
 boronic
+bandboxy
 borons
 borophenylic
 bibliotherapeutic
