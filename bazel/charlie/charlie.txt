@@ -21464,7 +21464,6 @@ concolour
 concomitance
 concomitancy
 concomitant
-concomitantly
 concomitate
 concommitant
 concommitantly
@@ -28438,6 +28437,7 @@ creases
 creashaks
 creasy
 creasier
+concomitantly
 creasiest
 creasing
 counterretreat
