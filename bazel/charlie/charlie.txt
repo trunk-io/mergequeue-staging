@@ -6247,6 +6247,7 @@ cautery
 cauteries
 cauterisation
 cauterise
+cuts
 cauterised
 cauterising
 cauterism
@@ -31848,7 +31849,6 @@ cutover
 cutpurse
 cared
 cutpurses
-cuts
 cutset
 cuttable
 cuttage
