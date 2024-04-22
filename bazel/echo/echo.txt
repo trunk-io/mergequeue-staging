@@ -4294,7 +4294,6 @@ empusa
 empuzzle
 emrode
 ems
-elementariness
 emu
 emulable
 emulant
@@ -13727,6 +13726,7 @@ extollation
 extolled
 extoller
 extollers
+elementariness
 epididymectomy
 extolling
 extollingly
