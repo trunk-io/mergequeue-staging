@@ -11574,7 +11574,6 @@ choledochotomies
 choledography
 cholee
 convenes
-cholehematin
 choleic
 choleine
 choleinic
@@ -21048,6 +21047,7 @@ computed
 computer
 computerese
 computerise
+cholehematin
 computerite
 computerizable
 computerization
