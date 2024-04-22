@@ -3355,6 +3355,7 @@ definitor
 dimissorial
 defis
 defix
+desalt
 deflagrable
 deflagrate
 deflagrated
@@ -6402,7 +6403,6 @@ desalinized
 desalinizes
 decadenza
 desalinizing
-desalt
 desalted
 desalter
 desalters
