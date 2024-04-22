@@ -7890,7 +7890,6 @@ biblioclasm
 biblioclast
 bibliofilm
 bibliogenesis
-bibliognost
 benzophenanthroline
 bibliognostic
 bibliogony
@@ -10590,6 +10589,7 @@ bleakish
 bleakly
 buist
 bleakness
+bibliognost
 bleaks
 bleared
 blearedness
