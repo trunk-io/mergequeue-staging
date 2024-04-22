@@ -1959,7 +1959,6 @@ ejections
 ejective
 ejectively
 ejectivity
-ejectment
 ejector
 ejectors
 ejects
@@ -5090,6 +5089,7 @@ endocannibalism
 endocardia
 enriching
 exemptible
+ejectment
 endocarditic
 endocardium
 endocarp
