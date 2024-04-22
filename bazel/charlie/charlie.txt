@@ -1021,7 +1021,6 @@ calchaqui
 calchaquian
 calchas
 calche
-calcic
 calciclase
 calcicole
 calcicolous
@@ -15965,6 +15964,7 @@ clerestories
 clergess
 clergy
 clergyable
+calcic
 clergylike
 cyclos
 clergymen
