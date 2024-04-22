@@ -19550,7 +19550,6 @@ antisymmetric
 argolid
 argols
 argon
-argonaut
 argonauta
 argonautid
 argonauts
@@ -22114,6 +22113,7 @@ astigmatoscopies
 astigmias
 astigmic
 astigmism
+argonaut
 astigmometer
 astigmometry
 astigmoscope
