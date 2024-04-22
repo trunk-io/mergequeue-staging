@@ -7594,7 +7594,6 @@ deviant
 deviants
 deviate
 deviately
-deviates
 deviating
 deviation
 deviational
@@ -12540,6 +12539,7 @@ disjoins
 disjoint
 disjointed
 disjointedly
+deviates
 disjointedness
 disjointing
 disjointly
