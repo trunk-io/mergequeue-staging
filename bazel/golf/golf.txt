@@ -4389,7 +4389,6 @@ grapy
 gynecolatry
 gynecology
 gynecologic
-gynecological
 gynecologies
 gynecologist
 gremmie
@@ -5775,6 +5774,7 @@ gloiopeltis
 gloiosiphonia
 geographism
 gloiosiphoniaceae
+gynecological
 glom
 glome
 goshawful
