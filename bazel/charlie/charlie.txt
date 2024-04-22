@@ -12481,7 +12481,6 @@ chromogen
 chromogene
 chromogenesis
 chromogenetic
-chromogenic
 chromogenous
 chromoisomer
 chromoisomeric
@@ -30851,6 +30850,7 @@ cultivator
 cultivators
 cultive
 clubrooms
+chromogenic
 cultrate
 cultrated
 cultriform
