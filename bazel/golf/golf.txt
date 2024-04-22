@@ -3234,7 +3234,6 @@ geoscientist
 geoscientists
 gyrostats
 geoscopy
-geoscopic
 guran
 gonopod
 geoselenic
@@ -10569,6 +10568,7 @@ gunsmith
 grandiloquence
 glossotherium
 gambone
+geoscopic
 gunsmithing
 gloomiest
 glycocholic
