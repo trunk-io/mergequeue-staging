@@ -4090,7 +4090,6 @@ beamman
 beamroom
 beamsman
 beamster
-beamwork
 bean
 beanbags
 beanball
@@ -6955,6 +6954,7 @@ beshadows
 beauxite
 beshag
 beshake
+beamwork
 beshame
 beshames
 beshaming
