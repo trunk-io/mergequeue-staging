@@ -2724,7 +2724,6 @@ ferules
 ferulic
 feruling
 ferv
-fervanite
 fervence
 furunculous
 fervencies
@@ -11135,6 +11134,7 @@ functionlessness
 functionnaire
 fluotantalate
 functions
+fervanite
 functor
 fistulization
 functors
