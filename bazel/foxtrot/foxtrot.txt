@@ -1426,7 +1426,6 @@ fatima
 faunas
 fatiscence
 fatiscent
-fatless
 fatly
 fatlike
 fringy
@@ -4282,6 +4281,7 @@ firestopping
 firestorm
 firethorn
 firetop
+fatless
 firetower
 fubsier
 fermentative
