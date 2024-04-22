@@ -4124,6 +4124,7 @@ bearability
 bearable
 bearableness
 bearably
+benzolate
 bearance
 bearbaiter
 bearbane
@@ -6447,7 +6448,6 @@ benzoinated
 benzoins
 benzoiodohydrin
 benzol
-benzolate
 benzole
 benzoles
 benzoline
