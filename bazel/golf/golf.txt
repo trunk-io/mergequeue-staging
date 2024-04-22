@@ -7295,7 +7295,6 @@ gospellike
 gnarrs
 groomers
 genys
-genuflectory
 gospelmonger
 gospels
 gospelwards
@@ -8339,6 +8338,7 @@ genealogically
 gratelike
 grateman
 grater
+genuflectory
 graters
 grates
 gratewise
