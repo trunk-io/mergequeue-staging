@@ -7827,7 +7827,6 @@ foreleader
 foreleg
 forelegs
 forelimbs
-forelive
 forelock
 forelocks
 florilege
@@ -10746,6 +10745,7 @@ frustratingly
 foretokened
 frustration
 frustrations
+forelive
 frustrative
 frustratory
 frustula

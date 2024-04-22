@@ -5116,6 +5116,7 @@ befittingness
 beflag
 beflagged
 benumbedness
+bestrewed
 beflagging
 beflags
 beflannel
@@ -7259,7 +7260,6 @@ bestreak
 bestream
 blackhander
 bestrew
-bestrewed
 bestrewing
 bestrewment
 bestrewn
