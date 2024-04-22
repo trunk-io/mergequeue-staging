@@ -7131,7 +7131,6 @@ bespeckled
 bespectacled
 besped
 bespeech
-bespeed
 bespell
 buccan
 bespelled
@@ -7573,6 +7572,7 @@ bevomited
 bevomiting
 bevomits
 bevor
+bespeed
 bevors
 bevue
 bevvy
