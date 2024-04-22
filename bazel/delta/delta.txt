@@ -7260,6 +7260,7 @@ detestability
 detestable
 detestableness
 detestation
+disinterested
 detestations
 detested
 detester
@@ -12483,7 +12484,6 @@ disintegrity
 disintegrous
 disinter
 disinterest
-disinterested
 disinterestedness
 disintermediation
 disrobe
