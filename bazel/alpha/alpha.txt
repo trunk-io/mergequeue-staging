@@ -18853,7 +18853,6 @@ archest
 archetypal
 archetypally
 archetype
-archetypes
 archetypic
 archetypical
 archetypically
@@ -22050,6 +22049,7 @@ asteroids
 asterolepidae
 asterolepis
 asterope
+archetypes
 asterophyllite
 asterophyllites
 asterospondyli

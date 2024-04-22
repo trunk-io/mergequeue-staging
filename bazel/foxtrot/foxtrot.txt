@@ -3873,7 +3873,6 @@ fimbria
 fimbriae
 fimbrial
 fimbriate
-fimbriated
 feeblemindedly
 fimbriating
 finises
@@ -8008,6 +8007,7 @@ foresense
 foremanship
 foresentence
 foreset
+fimbriated
 filo
 foresettled
 fondak
