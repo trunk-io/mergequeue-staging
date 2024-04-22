@@ -7929,7 +7929,6 @@ dezymotize
 dezinc
 dezincation
 dezinced
-delundung
 dezincify
 dezincification
 dezincified
@@ -17560,6 +17559,7 @@ drumfishes
 drumhead
 diagnostician
 devalue
+delundung
 drumheads
 drumler
 drumly

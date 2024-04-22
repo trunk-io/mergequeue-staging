@@ -8894,6 +8894,7 @@ characteristicness
 characteristics
 characterizable
 characterization
+coffeehousing
 characterizations
 characterize
 characterized
@@ -18201,7 +18202,6 @@ cuss
 coffeehouse
 coffeehoused
 coffeehouses
-coffeehousing
 coffeeleaf
 coffeeman
 coffeepot
