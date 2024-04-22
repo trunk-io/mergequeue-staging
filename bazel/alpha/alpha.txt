@@ -7620,7 +7620,6 @@ alcelaphus
 alces
 almug
 alcestis
-alchem
 alchemy
 alchemic
 alchemical
@@ -22399,6 +22398,7 @@ atangle
 atar
 ataractic
 ataraxy
+alchem
 ataraxia
 ataraxic
 ataraxics
