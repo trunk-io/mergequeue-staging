@@ -1797,7 +1797,6 @@ debe
 debeak
 debeaker
 debeige
-dissipation
 debell
 debellate
 debellation
@@ -17758,6 +17757,7 @@ duchies
 duci
 duck
 duckbill
+dissipation
 duckbills
 duckblind
 duckboard

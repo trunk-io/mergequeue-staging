@@ -7106,7 +7106,6 @@ centrarchoid
 centration
 centraxonia
 centraxonial
-centre
 centreboard
 centrechinoida
 centred
@@ -31788,6 +31787,7 @@ cuticle
 cuticles
 cuticolor
 cuticula
+centre
 cuticular
 cuticularization
 cuticularize
