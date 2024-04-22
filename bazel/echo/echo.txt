@@ -6031,7 +6031,6 @@ enlace
 escroll
 enwrought
 enlacement
-enlacing
 enlay
 exterritorially
 exiguities
@@ -10435,6 +10434,7 @@ ethmolith
 ethmomaxillary
 ethmonasal
 ethmopalatal
+enlacing
 ethmopalatine
 ethmophysal
 ethmopresphenoidal
