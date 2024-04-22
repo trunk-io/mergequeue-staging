@@ -5161,7 +5161,6 @@ giggles
 guily
 glands
 geometriform
-glandula
 glandular
 gourdhead
 glandularly
@@ -10055,6 +10054,7 @@ guessable
 gamodeme
 gyrodyne
 guessed
+glandula
 gunnysacks
 guesser
 guessers
