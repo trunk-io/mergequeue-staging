@@ -2138,7 +2138,6 @@ elated
 elater
 elatery
 elaterid
-elaterids
 elaterin
 elaterins
 elateroid
@@ -6241,6 +6240,7 @@ enouncement
 enouncing
 exion
 enow
+elaterids
 enphytotic
 enpia
 enplane
