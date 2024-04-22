@@ -1232,7 +1232,6 @@ educt
 eductions
 eductor
 eductors
-educts
 edulcorate
 edulcorated
 edulcorating
@@ -10009,6 +10008,7 @@ esthesiography
 esthesiology
 esthesiometer
 esthesiometry
+educts
 esthesiometric
 esthesioneurosis
 esthesiophysiology
