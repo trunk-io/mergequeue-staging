@@ -195,7 +195,6 @@ factorials
 factories
 factorylike
 factoring
-factorist
 factorizations
 fluviose
 factorize
@@ -1323,6 +1322,7 @@ fatal
 fatale
 fatales
 flambeing
+factorist
 fatalisms
 fatalist
 fatalistically
