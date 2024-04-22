@@ -4708,7 +4708,6 @@ eloge
 encyclopaedian
 encyclopaedias
 encyclopaedic
-equivocator
 encyclopaedical
 encyclopaedically
 encyclopaedism
@@ -6168,6 +6167,7 @@ enolases
 enolate
 enolic
 enchainement
+equivocator
 enolizable
 enolization
 encompass
