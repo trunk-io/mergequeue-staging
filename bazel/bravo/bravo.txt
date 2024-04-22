@@ -4148,6 +4148,7 @@ biassing
 beard
 bearded
 bringers
+blockhole
 beardedness
 bearder
 brassidic
@@ -11000,7 +11001,6 @@ blockheadish
 blockheadishness
 blockheadism
 blockheads
-blockhole
 brained
 blockholer
 blockhouse
