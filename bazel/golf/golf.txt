@@ -2171,6 +2171,7 @@ gazette
 gazetted
 gazetteerage
 gazetteerish
+golfs
 gazetteers
 gazetteership
 gazettes
@@ -6679,7 +6680,6 @@ golfer
 golfers
 golfing
 golfings
-golfs
 golgi
 galeated
 gayal
