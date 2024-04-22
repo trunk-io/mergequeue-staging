@@ -5428,7 +5428,6 @@ beuniformed
 behead
 beheadal
 beheaded
-beheader
 beheading
 beheads
 behear
@@ -10474,6 +10473,7 @@ blastomeric
 blastomyces
 blastomycete
 blastomycetes
+beheader
 blastomycetic
 bergamots
 blastomycetous
