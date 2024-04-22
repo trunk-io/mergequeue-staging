@@ -6443,6 +6443,7 @@ ensisternum
 ensky
 enskied
 enskyed
+estop
 enskies
 enskying
 enslave
@@ -10064,7 +10065,6 @@ estolide
 estonia
 estonian
 epicortical
-estop
 englyns
 erythroclastic
 estoppal
