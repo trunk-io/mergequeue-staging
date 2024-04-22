@@ -9209,7 +9209,6 @@ diemakers
 dyemaking
 diencephala
 diencephalic
-diencephalon
 diene
 diener
 dienes
@@ -12051,6 +12050,7 @@ disert
 disespouse
 disestablish
 disestablished
+diencephalon
 disestablisher
 disestablishes
 disestablishing
