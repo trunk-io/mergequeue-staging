@@ -6074,6 +6074,7 @@ dere
 derealization
 derecho
 dereference
+drawings
 dereferenced
 dereferencing
 deregister
@@ -16816,7 +16817,6 @@ drawfiling
 drawgate
 drawglove
 drawing
-drawings
 drawknife
 disjointness
 drawknives
