@@ -3073,7 +3073,6 @@ fibred
 fibrefill
 fibreglass
 fibreless
-fibry
 fibril
 fibrilated
 fibrilation
@@ -6944,6 +6943,7 @@ foliage
 frouzier
 foliaged
 foliages
+fibry
 folial
 foliate
 foliated
