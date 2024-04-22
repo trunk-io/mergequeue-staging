@@ -2953,7 +2953,6 @@ deduction
 deductions
 deductive
 deductively
-deductory
 deducts
 deduit
 deduplication
@@ -4812,6 +4811,7 @@ demonetise
 demonetised
 demonetising
 demonetize
+deductory
 demonetized
 demonetizes
 demonetizing
