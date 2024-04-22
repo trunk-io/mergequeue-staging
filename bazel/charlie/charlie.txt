@@ -8841,7 +8841,6 @@ chaptalizing
 chapter
 chapteral
 chaptered
-chapterful
 chapterhouse
 chaptering
 chapters
@@ -26516,6 +26515,7 @@ cottonwood
 cottonwoods
 cottrel
 cottus
+chapterful
 cotuit
 cotula
 cotunnite
