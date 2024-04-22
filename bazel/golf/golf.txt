@@ -695,7 +695,6 @@ gallopade
 galloped
 grottolike
 girdlers
-ginzo
 galloper
 galloperdix
 gallopers
@@ -10619,6 +10618,7 @@ gurgling
 guardee
 gurgoyl
 gurgoyle
+ginzo
 gurgulation
 gurgulio
 gurian
