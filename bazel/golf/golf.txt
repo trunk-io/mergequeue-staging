@@ -1814,7 +1814,6 @@ gaultheria
 gubernia
 genuclast
 gormands
-gastromalacia
 gastromancy
 gastromelus
 gastromenia
@@ -3851,6 +3850,7 @@ gibbar
 gibbartas
 gibbed
 gibber
+gastromalacia
 gaggled
 gibbered
 gibberella

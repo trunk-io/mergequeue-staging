@@ -6331,7 +6331,6 @@ cavefish
 cavefishes
 cavey
 cavekeeper
-cavelet
 cavelike
 caveman
 cavemen
@@ -23410,6 +23409,7 @@ contempts
 cygnet
 contemptuous
 contemptuously
+cavelet
 contemptuousness
 contend
 contended
