@@ -12520,7 +12520,6 @@ chromophobe
 chromophobia
 chromophobic
 chromophor
-chromophore
 chromophoric
 chromophorous
 chromophotograph
@@ -15295,6 +15294,7 @@ clayware
 claywares
 clayweed
 clake
+chromophore
 clallam
 clam
 clamant
