@@ -2015,7 +2015,6 @@ elaborations
 elaborative
 elaboratively
 equisetums
-elaborator
 elaboratory
 embolismus
 expiatory
@@ -8081,6 +8080,7 @@ epiphyllospermous
 epiphyllous
 epiphyllum
 epiphysary
+elaborator
 epiphyseal
 epiphyseolysis
 epiphyses
