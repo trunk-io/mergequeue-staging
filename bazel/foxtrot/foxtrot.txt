@@ -7264,7 +7264,6 @@ footpound
 fogs
 footpounds
 flanderkin
-footprint
 footprints
 footrace
 fricandeau
@@ -8240,6 +8239,7 @@ featherdom
 forfeitableness
 forfeited
 forfeiter
+footprint
 forfeits
 forfeiture
 forfeitures
