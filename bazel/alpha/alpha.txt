@@ -12051,7 +12051,6 @@ anathematising
 anathematism
 anathematization
 anathematize
-anathematized
 anathematizer
 anathematizes
 anathematizing
@@ -18227,6 +18226,7 @@ aqueducts
 aqueity
 appetizingly
 aquench
+anathematized
 aqueoglacial
 aqueoigneous
 aqueomercurial
