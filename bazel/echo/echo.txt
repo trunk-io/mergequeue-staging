@@ -4564,7 +4564,6 @@ encastrement
 encauma
 encaustic
 erythorbate
-encaustically
 eclairs
 encave
 encefalon
@@ -11582,6 +11581,7 @@ evicted
 evictee
 evictees
 evicting
+encaustically
 eviction
 evictions
 evictor
