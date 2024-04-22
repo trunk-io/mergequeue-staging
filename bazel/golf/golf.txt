@@ -6049,6 +6049,7 @@ glub
 glucaemia
 glucagon
 grieben
+gauger
 glucagons
 glucate
 glucemia
@@ -6607,7 +6608,6 @@ goldeyes
 goldenback
 goldeney
 goldeneye
-gauger
 goldeneyes
 goldener
 goldenhair
