@@ -5443,7 +5443,6 @@ glycerophosphate
 glycerophosphoric
 glycerose
 glyceroxide
-glycid
 glycide
 galoshed
 glycidic
@@ -6771,6 +6770,7 @@ gonads
 gonaduct
 gonagra
 gonakie
+glycid
 gonal
 gonalgia
 gonangia
