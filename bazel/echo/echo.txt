@@ -1961,7 +1961,6 @@ ejectively
 ejectivity
 ejectment
 ejector
-engrossment
 ejectors
 ejects
 ejectum
@@ -2505,6 +2504,7 @@ electromyographic
 electromyographical
 eunuchoid
 electromyographically
+engrossment
 electromobile
 electromotion
 electromotive
