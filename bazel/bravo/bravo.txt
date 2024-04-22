@@ -13702,6 +13702,7 @@ bovovaccination
 bovovaccine
 bovver
 bow
+bowshot
 bowable
 bowback
 bowbells
@@ -13825,7 +13826,6 @@ bowse
 bowsed
 bowser
 bowses
-bowshot
 bowshots
 bowsie
 bowsman
