@@ -9527,7 +9527,6 @@ checkroll
 checkroom
 checkrooms
 checkrope
-checkrow
 checkrowed
 checkrower
 checkrowing
@@ -29281,6 +29280,7 @@ cryptodire
 cryptodirous
 cryptodouble
 cryptogam
+checkrow
 cryptorrhetic
 cryptogamia
 cryptogamian
