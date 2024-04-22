@@ -6575,6 +6575,7 @@ agrostologist
 agrote
 agrotechny
 agrotype
+autobuses
 agrotis
 aground
 agrufe
@@ -23882,7 +23883,6 @@ autoboat
 autoboating
 autobolide
 autobus
-autobuses
 autobusses
 autocab
 autocade
