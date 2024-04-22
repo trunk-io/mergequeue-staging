@@ -2781,6 +2781,7 @@ gynophore
 greyly
 genipa
 grizzle
+glycogen
 gitalin
 genipap
 greenstuff
@@ -5455,7 +5456,6 @@ glycocoll
 gouging
 goldenfleece
 glycogelatin
-glycogen
 glendale
 glycogenase
 glycogenesis
