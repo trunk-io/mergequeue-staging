@@ -9414,7 +9414,6 @@ erucivorous
 eruct
 eructance
 eructate
-eructated
 eructates
 endeavor
 eructating
@@ -10998,6 +10997,7 @@ euphausid
 euphausiid
 erraticness
 euphemia
+eructated
 epicauta
 euphemian
 euphemious
