@@ -4442,7 +4442,6 @@ demele
 divariant
 demembration
 demembre
-deonerate
 demency
 dement
 dementate
@@ -13730,6 +13729,7 @@ daikering
 distains
 distal
 distale
+deonerate
 distalia
 distalwards
 depreciant
