@@ -13282,7 +13282,6 @@ citramontane
 cycling
 cyclings
 cyclism
-cyclist
 cyclistic
 cyclists
 cyclitic
@@ -22721,6 +22720,7 @@ conrectorship
 conred
 conrey
 conringia
+cyclist
 cons
 consacre
 consanguine
