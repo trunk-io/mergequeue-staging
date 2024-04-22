@@ -3318,7 +3318,6 @@ gerardia
 gundalow
 guideship
 gerasene
-gerate
 gerundially
 gerated
 gerately
@@ -3511,6 +3510,7 @@ gerrymandering
 gerrymanders
 gers
 gersdorffite
+gerate
 genes
 gershonite
 gersum
