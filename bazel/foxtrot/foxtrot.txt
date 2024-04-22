@@ -5228,6 +5228,7 @@ fluidiser
 flavaniline
 flavanone
 flavanthrene
+fogon
 flavanthrone
 flavoured
 flavedo
@@ -6832,7 +6833,6 @@ foglietto
 fogman
 fogmen
 fogo
-fogon
 fogou
 fairyhood
 fogproof

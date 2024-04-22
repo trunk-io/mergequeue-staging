@@ -13748,7 +13748,6 @@ anoine
 anoint
 anointed
 anointer
-anointing
 anointment
 anointments
 anoints
@@ -21203,6 +21202,7 @@ asian
 asianic
 asianism
 asians
+anointing
 asiarch
 asiarchate
 asiatic
