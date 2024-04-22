@@ -3166,6 +3166,7 @@ flock
 fibromyoma
 fibromyomectomy
 fibromyositis
+flashbacks
 fibromyxosarcoma
 frissons
 fibromucous
@@ -5055,7 +5056,6 @@ feeblebrained
 flaringly
 flash
 flashback
-flashbacks
 fellatee
 flashboard
 flashbulb
