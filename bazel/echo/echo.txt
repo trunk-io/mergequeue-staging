@@ -2689,7 +2689,6 @@ electrotonic
 electrotonicity
 electrotonize
 electrotrephine
-electrotropic
 electrotropism
 egoize
 electrovalence
@@ -13158,6 +13157,7 @@ explain
 explainable
 explainableness
 explained
+electrotropic
 explainer
 explainers
 explaining

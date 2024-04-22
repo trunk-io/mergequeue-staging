@@ -3058,6 +3058,7 @@ capitaling
 capitalisable
 capitalise
 capitalised
+citoyen
 capitaliser
 capitalist
 capitalistic
@@ -14892,7 +14893,6 @@ cytogenous
 cytoglobin
 cytoglobulin
 cytohyaloplasm
-citoyen
 castigable
 commiserate
 citoyenne
