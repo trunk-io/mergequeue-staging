@@ -1715,6 +1715,7 @@ fearfully
 fearfulness
 feelable
 fearing
+feist
 fearingly
 fearless
 fearlessness
@@ -2062,7 +2063,6 @@ feinter
 feinting
 feis
 farrandly
-feist
 feisty
 fizzed
 feistier
