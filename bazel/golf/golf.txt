@@ -1492,7 +1492,6 @@ goring
 garrooka
 garrote
 garroted
-garbardine
 garroter
 garroters
 garrotes
@@ -7870,6 +7869,7 @@ grams
 grana
 granada
 granadilla
+garbardine
 granadillo
 granadine
 granado
