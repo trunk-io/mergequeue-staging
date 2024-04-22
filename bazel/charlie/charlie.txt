@@ -2840,7 +2840,6 @@ cheapo
 cantoning
 cantonize
 cantonment
-cantonments
 cuspated
 culmed
 cantons
@@ -21530,6 +21529,7 @@ concretized
 concretizing
 concretor
 concrew
+cantonments
 concrfsce
 concubinage
 concubinal

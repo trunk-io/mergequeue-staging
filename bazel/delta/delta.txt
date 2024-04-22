@@ -365,6 +365,7 @@ dayflower
 dayflowers
 dayglow
 dayglows
+denominates
 daygoing
 daying
 daijo
@@ -5196,7 +5197,6 @@ decursion
 denominant
 denominate
 denominated
-denominates
 denominating
 denomination
 denominational
