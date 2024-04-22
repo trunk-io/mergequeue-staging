@@ -5924,7 +5924,6 @@ belast
 belowdecks
 barbecueing
 belowground
-belowstairs
 belozenged
 bels
 belshazzar
@@ -16910,6 +16909,7 @@ bugong
 bugout
 bugre
 bugs
+belowstairs
 bugseed
 bugsha
 bugweed
