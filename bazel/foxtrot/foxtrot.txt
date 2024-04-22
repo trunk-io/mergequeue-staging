@@ -7067,6 +7067,7 @@ fonctionnaire
 fleets
 fond
 flavorlessness
+fulfilment
 fondaco
 fondant
 fondants
@@ -10864,7 +10865,6 @@ fulfillers
 fulfilling
 fulfillment
 fulfillments
-fulfilment
 fulfils
 fila
 fulfulde

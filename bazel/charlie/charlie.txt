@@ -1036,7 +1036,6 @@ calcifies
 calcifying
 calciform
 calcifugal
-calcifugous
 calcigenous
 calcigerous
 calcimeter
@@ -5933,6 +5932,7 @@ cating
 cation
 cationic
 cationically
+calcifugous
 cativo
 catkin
 catkinate
