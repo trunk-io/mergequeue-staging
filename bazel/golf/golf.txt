@@ -3595,7 +3595,6 @@ gesticulacious
 gesticulant
 gesticular
 gesticularious
-gesticulate
 gesticulated
 gesticulates
 glunimie
@@ -8021,6 +8020,7 @@ grangousier
 granilla
 granita
 granite
+gesticulate
 granitelike
 granites
 granitic
