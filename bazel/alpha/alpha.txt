@@ -13299,7 +13299,6 @@ anisocratic
 anisodactyl
 anisodactyla
 anisodactyle
-anisodactyli
 anisodactylic
 androphagous
 anisodactylous
@@ -22056,6 +22055,7 @@ asterophyllite
 asterophyllites
 asterospondyli
 asterospondylic
+anisodactyli
 asterospondylous
 asteroxylaceae
 asteroxylon
