@@ -8089,7 +8089,6 @@ granulate
 granulater
 granulates
 granulating
-granulation
 granulations
 granulative
 granulator
@@ -9920,6 +9919,7 @@ guardfully
 guardhouse
 guardhouses
 guardiancy
+granulation
 guardianess
 gasconism
 guardianless
