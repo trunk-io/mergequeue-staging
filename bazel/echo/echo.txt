@@ -743,7 +743,6 @@ economised
 economiser
 economising
 economism
-endjunk
 economist
 economists
 economite
@@ -6818,6 +6817,7 @@ enthusiasms
 enthusiast
 emballonurine
 enthusiastic
+endjunk
 enthusiastical
 enthusiastically
 enthusiastly
