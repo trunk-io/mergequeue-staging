@@ -5707,6 +5707,7 @@ depletive
 depletory
 deploy
 deployed
+dorsiduct
 deploying
 deployment
 deployments
@@ -15797,7 +15798,6 @@ dorsibranchiate
 dorsicollar
 dorsicolumn
 dorsicommissure
-dorsiduct
 dorsiferous
 dorsifixed
 dorsiflex
