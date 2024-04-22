@@ -586,7 +586,6 @@ echinoids
 echinology
 echinologist
 echinomys
-epithelioid
 erythrene
 envisagement
 echinopanax
@@ -8463,6 +8462,7 @@ epizootology
 eplot
 epoch
 epocha
+epithelioid
 epochally
 epoche
 epochism
