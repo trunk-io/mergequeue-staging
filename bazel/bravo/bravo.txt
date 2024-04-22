@@ -2069,7 +2069,6 @@ bowsery
 banishment
 banister
 banisters
-banyuls
 baniva
 buckra
 baniwa
@@ -9669,6 +9668,7 @@ bishoped
 bishopful
 bishophood
 bishopless
+banyuls
 bishoplet
 bishoplike
 brucella

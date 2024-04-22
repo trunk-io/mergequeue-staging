@@ -5492,6 +5492,7 @@ fleta
 fletched
 foraneen
 fletcher
+fluoridised
 fletcherism
 fletcherite
 fletcherize
@@ -6499,7 +6500,6 @@ fluoridation
 fluoride
 fluorides
 fluoridisation
-fluoridised
 fluoridization
 fluoridize
 fluoridized
