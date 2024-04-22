@@ -5430,7 +5430,6 @@ behear
 behears
 behearse
 behedge
-beheira
 beheld
 behelp
 behemoth
@@ -10047,6 +10046,7 @@ bkg
 bklr
 bkpr
 backsey
+beheira
 bks
 bkt
 bl
