@@ -3039,7 +3039,6 @@ acrostolium
 acrotarsial
 acrotarsium
 acroteleutic
-acroter
 acroteral
 acroteria
 acroterial
@@ -20685,6 +20684,7 @@ anthecology
 articulately
 articulateness
 articulation
+acroter
 articulationes
 articulationist
 articulations
