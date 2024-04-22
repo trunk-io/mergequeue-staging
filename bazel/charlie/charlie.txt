@@ -9514,7 +9514,6 @@ checkmates
 checkmating
 cratonic
 checkoff
-checkoffs
 checkout
 checkouts
 checkpoint
@@ -26968,6 +26967,7 @@ countermure
 countermutiny
 counternaiant
 counternarrative
+checkoffs
 counternatural
 counternecromancy
 counternoise

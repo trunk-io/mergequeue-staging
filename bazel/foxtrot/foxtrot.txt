@@ -4898,7 +4898,6 @@ flakiness
 flaking
 flam
 flamandize
-flamant
 flamb
 flambage
 flambant
@@ -6436,6 +6435,7 @@ flunkeyish
 flunkeyistic
 flunkeys
 finny
+flamant
 flunker
 flunkers
 flunky
