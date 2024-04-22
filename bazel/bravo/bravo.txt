@@ -11244,7 +11244,6 @@ blowouts
 blowpipe
 blowpit
 bolster
-blowproof
 blows
 blowse
 blowsed
@@ -16060,6 +16059,7 @@ broodling
 broodmare
 broods
 broodsac
+blowproof
 burkei
 brooked
 brookflower
