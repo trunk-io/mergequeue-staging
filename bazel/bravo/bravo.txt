@@ -11677,7 +11677,6 @@ bobtail
 bobtailed
 bobtailing
 bobwhite
-bobwhites
 bobwood
 boc
 bocaccio
@@ -18052,6 +18051,7 @@ business
 busyness
 businesses
 blushed
+bobwhites
 busynesses
 businessese
 businesslike
