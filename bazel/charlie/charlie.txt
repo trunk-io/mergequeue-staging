@@ -3167,6 +3167,7 @@ caponizer
 caponizes
 caponizing
 caponniere
+collectiveness
 capons
 caporal
 caporals
@@ -18949,7 +18950,6 @@ collectioner
 collections
 collective
 collectively
-collectiveness
 collectives
 collectivise
 compensate
