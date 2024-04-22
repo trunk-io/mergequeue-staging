@@ -9215,6 +9215,7 @@ chastiment
 chastisable
 chastise
 chastised
+clarissimo
 coxopodite
 chastiser
 chastisers
@@ -15501,7 +15502,6 @@ clarionet
 calcarine
 clarioning
 clarisse
-clarissimo
 ceratofibrous
 clarist
 clarities
