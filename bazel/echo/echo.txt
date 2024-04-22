@@ -2208,7 +2208,6 @@ emraud
 eldorado
 eldred
 eventuate
-endosteomata
 eldress
 eldrich
 eldritch
@@ -7863,6 +7862,7 @@ epigyny
 epigynies
 epigynous
 epigynum
+endosteomata
 epiglot
 eugenicists
 epiglottal
