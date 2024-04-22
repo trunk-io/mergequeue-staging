@@ -10893,7 +10893,6 @@ disabused
 diapir
 disabuses
 disabusing
-disacceptance
 disaccharid
 disaccharidase
 disaccharide
@@ -16030,6 +16029,7 @@ doublewords
 doubly
 doubling
 doubloon
+disacceptance
 doubloons
 doublure
 doublures
