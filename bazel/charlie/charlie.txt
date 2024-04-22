@@ -4644,7 +4644,6 @@ carposperm
 carposporangial
 carposporangium
 convinced
-carpospore
 carposporic
 carposporous
 carpostome
@@ -14117,6 +14116,7 @@ cypselidae
 cypseliform
 cypseliformes
 cypseline
+carpospore
 colorist
 cypselomorph
 cypselomorphae
