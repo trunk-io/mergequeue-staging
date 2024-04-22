@@ -14595,7 +14595,6 @@ brassate
 bermudas
 brassavola
 brassbound
-brassbounder
 brasse
 brassey
 borages
@@ -16894,6 +16893,7 @@ bughouse
 bughouses
 bught
 bugi
+brassbounder
 buginese
 buginvillaea
 buncoing
