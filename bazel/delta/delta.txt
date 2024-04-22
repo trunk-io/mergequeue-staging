@@ -2037,7 +2037,6 @@ decampment
 decan
 decanal
 decanally
-decanate
 decancellate
 decancellated
 decancellating
@@ -3574,6 +3573,7 @@ degeneralize
 degenerate
 degenerated
 degenerately
+decanate
 degenerateness
 diemaking
 degenerates
