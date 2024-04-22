@@ -20997,7 +20997,6 @@ ascitic
 ascitical
 ascititious
 asclent
-asclepiad
 asclepiadaceae
 asclepiadaceous
 asclepiadae
@@ -22761,6 +22760,7 @@ atony
 atonia
 atonic
 atonicity
+asclepiad
 atonics
 atonies
 antiquarianism
