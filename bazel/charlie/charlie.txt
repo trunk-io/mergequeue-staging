@@ -7710,7 +7710,6 @@ cerris
 clep
 cert
 certain
-certainer
 certainest
 certainly
 certainness
@@ -22368,6 +22367,7 @@ cony
 conia
 coniacian
 conic
+certainer
 conical
 conicality
 conicalness
