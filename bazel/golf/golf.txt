@@ -4930,6 +4930,7 @@ giver
 givers
 gives
 gyves
+glaver
 giveth
 gyrally
 giving
@@ -5280,7 +5281,6 @@ glaur
 glaury
 glaux
 glave
-glaver
 glavered
 glavering
 glaze
