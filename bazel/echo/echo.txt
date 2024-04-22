@@ -4434,7 +4434,6 @@ enanguish
 enanthem
 enanthema
 enanthematous
-enanthesis
 enantioblastic
 enantioblastous
 enantiomer
@@ -12446,6 +12445,7 @@ elpidite
 exfoliative
 exfoliatory
 exgorgitation
+enanthesis
 ethnocentrically
 exhalable
 exhalants
