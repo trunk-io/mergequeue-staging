@@ -13850,6 +13850,7 @@ cinematographies
 cinematographist
 cinemelodrama
 cinemese
+circular
 cinemize
 cinemograph
 cinenchym
@@ -14183,7 +14184,6 @@ clochan
 cosmolatry
 circulable
 circulant
-circular
 circularisation
 circularise
 circularised
