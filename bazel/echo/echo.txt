@@ -3739,7 +3739,6 @@ embroche
 embroglio
 embroglios
 ectypal
-embroider
 embroidered
 embroiderer
 encoignures
@@ -7757,6 +7756,7 @@ epidemiological
 epidemiologically
 esophagoplasty
 equidensity
+embroider
 epidemiologist
 epidendral
 elwood
