@@ -1525,7 +1525,6 @@ gartered
 garters
 gilders
 grothine
-girandola
 garth
 garths
 garum
@@ -1878,6 +1877,7 @@ gastrostenosis
 gastrostomies
 gastrostomize
 gastrostomus
+girandola
 gastrotaxis
 gastrotheca
 gastrotympanites
