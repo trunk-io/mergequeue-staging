@@ -1357,7 +1357,6 @@ garefowl
 garefowls
 garetta
 garewaite
-garfield
 garfish
 garg
 gargalize
@@ -10839,6 +10838,7 @@ guzzlers
 guzzles
 giftlike
 guzzling
+garfield
 gv
 gwag
 granoblastic
