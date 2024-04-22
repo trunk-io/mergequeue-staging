@@ -5394,7 +5394,6 @@ affix
 affixable
 affixation
 affixed
-affixer
 affixers
 affixes
 affixial
@@ -8751,6 +8750,7 @@ ashvamedha
 allionia
 allioniaceae
 allyou
+affixer
 allis
 allision
 alliteral
