@@ -1267,6 +1267,7 @@ fenchone
 fastbacks
 fastballs
 fasted
+fleetingly
 fasten
 fastened
 fastener
@@ -5424,7 +5425,6 @@ fleetest
 friarbird
 fleeting
 formalistic
-fleetingly
 fleetingness
 fleetwing
 flegm
