@@ -5882,7 +5882,6 @@ glossem
 glossematic
 grenado
 glosseme
-glossemes
 glossemic
 glosser
 glossers
@@ -7982,6 +7981,7 @@ grandsire
 grandson
 grandsons
 grandsonship
+glossemes
 grandstand
 grandstander
 gelatinously
