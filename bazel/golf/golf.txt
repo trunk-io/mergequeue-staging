@@ -2028,7 +2028,6 @@ gauntlets
 gauntly
 gauntness
 gauntry
-gaup
 gauping
 gaur
 gryphaea
@@ -7560,6 +7559,7 @@ grab
 grabbable
 grabbed
 gingerbread
+gaup
 grabber
 grabbers
 grabby

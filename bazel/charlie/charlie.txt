@@ -22099,6 +22099,7 @@ conformator
 conformed
 conformer
 conformers
+counterview
 conforming
 conformingly
 conformism
@@ -27224,7 +27225,6 @@ countervene
 countervengeance
 countervenom
 countervibration
-counterview
 countervindication
 countervolition
 countervolley
