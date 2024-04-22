@@ -449,6 +449,7 @@ fayumic
 fake
 fakeer
 fakeers
+feeder
 fakement
 faker
 formicariidae
@@ -1973,7 +1974,6 @@ feedboard
 feedbox
 feedboxes
 feeded
-feeder
 feeders
 feedhead
 feedy
