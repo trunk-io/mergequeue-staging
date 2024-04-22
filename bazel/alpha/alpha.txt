@@ -1622,6 +1622,7 @@ accolled
 accollee
 accombination
 accommodable
+adjutator
 accommodableness
 accommodate
 accommodated
@@ -4072,7 +4073,6 @@ adjutancies
 adjutant
 adjutants
 adjutantship
-adjutator
 adjute
 adjutor
 adjutory
