@@ -1091,7 +1091,6 @@ calcium
 calciums
 calcivorous
 calcographer
-calcography
 calcographic
 calcrete
 calcsinter
@@ -1579,6 +1578,7 @@ calorimetric
 calorimetrical
 calorimetrically
 calorimotor
+calcography
 caloris
 calorisator
 calorist
