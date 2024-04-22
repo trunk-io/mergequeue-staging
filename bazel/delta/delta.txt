@@ -8225,7 +8225,6 @@ diagraph
 diagraphics
 diagraphs
 diagredium
-diagrydium
 diaguitas
 diaguite
 diaheliotropic
@@ -10135,6 +10134,7 @@ deprecator
 dingledangle
 dingles
 dingly
+diagrydium
 dingman
 dingmaul
 dinamode
