@@ -4496,7 +4496,6 @@ ginglymostoma
 greengrocer
 ginglymostomoid
 ginglymus
-ginglyni
 gaults
 ginglmi
 gingras
@@ -8347,6 +8346,7 @@ glassweed
 gratiano
 graticulate
 graticulation
+ginglyni
 graticule
 gratifiable
 gratification
