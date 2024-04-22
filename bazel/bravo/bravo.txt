@@ -313,6 +313,7 @@ bakeware
 backberend
 backbit
 broughtas
+bar
 backbite
 backbiter
 backbiters
@@ -2254,7 +2255,6 @@ baptizers
 baptizes
 baptizing
 baptornis
-bar
 barabara
 barabbas
 barabora
