@@ -6602,7 +6602,6 @@ goldbrickers
 goldbricks
 goldbugs
 goldcrest
-goldeye
 goldeyes
 goldenback
 goldeney
@@ -8260,6 +8259,7 @@ grasni
 gradatory
 grasp
 graspable
+goldeye
 graspers
 gonochorismus
 grasping
