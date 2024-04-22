@@ -5254,7 +5254,6 @@ endomorph
 endomorphy
 endomorphic
 endomorphism
-endoneurial
 ecologies
 endoneurium
 endonuclear
@@ -11976,6 +11975,7 @@ exceptive
 exceptiveness
 exceptless
 exceptor
+endoneurial
 excepts
 excercise
 ensuite
