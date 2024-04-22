@@ -7781,7 +7781,6 @@ epidermal
 enthelmintha
 epidermatic
 epidermatoid
-epidermatous
 extracanonical
 effront
 epidermically
@@ -8716,6 +8715,7 @@ equinovarus
 equinumerally
 equinus
 ethrogs
+epidermatous
 equiomnipotent
 equip
 equipaga
