@@ -3001,7 +3001,6 @@ elytrous
 elytrtra
 elix
 epistolatory
-elixate
 elixation
 elixed
 elixir
@@ -7645,6 +7644,7 @@ epichilium
 epichindrotic
 epichlorohydrin
 epichondrosis
+elixate
 epichondrotic
 epichordal
 expounders
