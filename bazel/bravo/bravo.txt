@@ -1912,7 +1912,6 @@ banderoling
 banderols
 banders
 bandersnatch
-balnea
 bandfile
 bandfiled
 bandfiling
@@ -13248,6 +13247,7 @@ burnewin
 botaniser
 biogenetic
 botanises
+balnea
 botanist
 botanize
 botanized
