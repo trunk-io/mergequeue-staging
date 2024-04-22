@@ -3100,7 +3100,6 @@ actiniochrome
 actiniohematin
 actiniomorpha
 actinism
-actinisms
 actinistia
 actinium
 availed
@@ -17960,6 +17959,7 @@ approacher
 approachers
 approaching
 autohemolysis
+actinisms
 approachless
 approachment
 approbate
