@@ -775,7 +775,6 @@ follicule
 forkbeard
 fandangos
 fandom
-fandoms
 fane
 fanega
 fanegada
@@ -8790,6 +8789,7 @@ filed
 forts
 fortuitism
 fortuitist
+fandoms
 fortuitous
 fortuitously
 fortuitus
