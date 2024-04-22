@@ -11473,7 +11473,6 @@ choirboy
 choirboys
 choired
 choirgirl
-choiring
 choirlike
 choirman
 choirmaster
@@ -24997,6 +24996,7 @@ cordilleras
 cordinar
 cordiner
 cording
+choiring
 cordis
 cordite
 cordites
