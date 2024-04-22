@@ -3750,7 +3750,6 @@ batterfang
 battery
 batterie
 batteried
-batteries
 battering
 batterman
 batters
@@ -17163,6 +17162,7 @@ bullidae
 becrawls
 bullydom
 bullier
+batteries
 bullies
 bulliform
 bullyhuff
