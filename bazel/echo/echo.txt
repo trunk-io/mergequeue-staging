@@ -2281,7 +2281,6 @@ electrifying
 electrine
 erythrolein
 electrizable
-electrization
 electrize
 everlastingness
 earthenware
@@ -7636,6 +7635,7 @@ encopresis
 epicentre
 epicentrums
 existences
+electrization
 exr
 epicerastic
 epiceratodus
