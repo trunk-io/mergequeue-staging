@@ -5878,6 +5878,7 @@ depredate
 depredated
 depredating
 depredation
+dowp
 depredationist
 depredations
 depredatory
@@ -16402,7 +16403,6 @@ downweighted
 downwind
 dogma
 downwith
-dowp
 dowress
 dowry
 dowries
