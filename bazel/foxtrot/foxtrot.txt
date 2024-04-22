@@ -4945,6 +4945,7 @@ flamethrowers
 frankpledge
 flamiest
 flamineous
+frames
 flamines
 flaming
 featish
@@ -9377,7 +9378,6 @@ frameae
 framed
 frameless
 framer
-frames
 fussify
 frameshift
 forebodes

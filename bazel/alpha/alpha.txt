@@ -935,7 +935,6 @@ absences
 absentation
 absented
 absentee
-absenteeism
 absentees
 acanthopteri
 absenteeship
@@ -18716,6 +18715,7 @@ archarchitect
 archartist
 archbanc
 archbancs
+absenteeism
 archband
 archbeacon
 archbeadle
