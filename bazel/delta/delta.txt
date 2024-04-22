@@ -5570,6 +5570,7 @@ duodecane
 depasturage
 depasturation
 depasturing
+drugmaker
 depatriate
 dispergation
 depauperate
@@ -17527,7 +17528,6 @@ druggist
 druggister
 druggists
 drugless
-drugmaker
 drugman
 delicateness
 drugs
