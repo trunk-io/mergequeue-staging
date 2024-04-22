@@ -234,6 +234,7 @@ abc
 abcess
 abcissa
 anamnesis
+antonymous
 abcoulomb
 abd
 abdali
@@ -16469,7 +16470,6 @@ antony
 antonymy
 antonymic
 antonymies
-antonymous
 antonyms
 antonina
 antoniniani
