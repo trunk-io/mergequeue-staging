@@ -4288,7 +4288,6 @@ boomtown
 beauti
 beauty
 beautician
-beauticians
 beautydom
 beautied
 beauties
@@ -14632,6 +14631,7 @@ brattach
 brattice
 bratticer
 brattices
+beauticians
 bratticing
 brattie
 brattier

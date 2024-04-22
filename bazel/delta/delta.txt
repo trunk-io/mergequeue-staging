@@ -3686,6 +3686,7 @@ dehepatize
 dehgan
 dehydrant
 dehydrase
+dilatometrically
 dehydratase
 dimensioned
 dehydrate
@@ -9705,7 +9706,6 @@ dilatometer
 depressant
 dilatometry
 dilatometric
-dilatometrically
 dilator
 dilatory
 dilatorily
