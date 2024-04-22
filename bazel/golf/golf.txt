@@ -2407,7 +2407,6 @@ gelding
 geldings
 gelds
 gelechia
-gelee
 geleem
 geophila
 gelees
@@ -8503,6 +8502,7 @@ gravispheric
 gravitate
 gravitated
 gravitater
+gelee
 gravitates
 gravitating
 guanare
