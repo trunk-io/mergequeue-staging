@@ -8294,7 +8294,6 @@ epistolised
 epistolising
 epistolization
 epistolize
-epistolized
 epistolizer
 epistolizing
 epistolography
@@ -13236,6 +13235,7 @@ explorational
 exploratively
 explorator
 exploratory
+epistolized
 explore
 explored
 explorement

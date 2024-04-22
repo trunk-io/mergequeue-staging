@@ -6171,7 +6171,6 @@ glutaraldehyde
 glutaric
 glutathione
 glutch
-glutei
 glutelin
 glutelins
 glutenin
@@ -7635,6 +7634,7 @@ gradeless
 gieaway
 gradely
 grademark
+glutei
 grader
 grades
 gubernacular
