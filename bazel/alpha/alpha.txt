@@ -2555,7 +2555,6 @@ acknowledge
 acknowledgeable
 acknowledged
 acknowledgedly
-acknowledgements
 acknowledger
 acknowledgers
 acknowledges
@@ -12898,6 +12897,7 @@ anglice
 anglicisation
 anglicisms
 anglicist
+acknowledgements
 anglicization
 anglicize
 anglicized
