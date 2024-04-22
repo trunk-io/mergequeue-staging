@@ -4160,7 +4160,6 @@ emphraxis
 empicture
 empididae
 empidonax
-encoop
 empiecement
 euthanasia
 empyema
@@ -13941,6 +13940,7 @@ extraposition
 extraprostatic
 extraprovincial
 extrapulmonary
+encoop
 extrapunitive
 extraquiz
 extrared
