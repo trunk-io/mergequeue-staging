@@ -9038,7 +9038,6 @@ diction
 disparage
 dictionary
 dictionarian
-dep
 dictionaries
 dictyonema
 dictyonina
@@ -11630,6 +11629,7 @@ discorporate
 discorrespondency
 discos
 discost
+dep
 discostate
 discostomatous
 discotheque

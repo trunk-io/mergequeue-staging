@@ -1669,7 +1669,6 @@ binocs
 ballup
 broadtail
 ballute
-ballutes
 ballweed
 balm
 benacus
@@ -9111,6 +9110,7 @@ biophagy
 biophagism
 biophagous
 biophilous
+ballutes
 biophysic
 biophysical
 blindage
