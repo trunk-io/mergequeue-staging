@@ -1641,6 +1641,7 @@ gassendist
 gasser
 grammes
 gasserian
+grainy
 gassers
 gasses
 gassy
@@ -7756,7 +7757,6 @@ graynesses
 glacial
 geront
 grainfield
-grainy
 grainiest
 graininess
 graining
