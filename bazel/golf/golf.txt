@@ -1894,7 +1894,6 @@ gastrotomic
 gastrotomies
 gastrotrich
 gastrotricha
-gastrotubotomy
 gastrovascular
 gastrozooid
 gastrulae
@@ -8453,6 +8452,7 @@ graveolency
 graveolent
 graver
 gravery
+gastrotubotomy
 graverobber
 graverobbing
 gravers
