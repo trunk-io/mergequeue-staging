@@ -1620,6 +1620,7 @@ ennoble
 egoist
 egoistic
 egoistical
+exercent
 egoistically
 egoisticalness
 egoistry
@@ -12399,7 +12400,6 @@ exequies
 evg
 endorsed
 exerce
-exercent
 exercise
 enculturated
 excised
