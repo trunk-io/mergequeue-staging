@@ -1348,7 +1348,6 @@ acaridae
 armoracia
 acaridan
 acaridans
-acaridea
 acaridean
 angelical
 acaridomatia
@@ -16275,6 +16274,7 @@ antistimulation
 antistock
 antistreptococcal
 antistreptococcic
+acaridea
 antistreptococcin
 antistreptococcus
 antistrike
