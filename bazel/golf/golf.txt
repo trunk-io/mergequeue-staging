@@ -2434,7 +2434,6 @@ gelndesprung
 gelofer
 gelogenic
 geloscopy
-gelose
 gelosie
 glaucic
 gelotherapy
@@ -5799,6 +5798,7 @@ glomerule
 glomerulitis
 glomerulonephritis
 glomerulose
+gelose
 geomorphogeny
 glomerulus
 glommed
