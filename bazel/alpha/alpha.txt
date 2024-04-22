@@ -286,7 +286,6 @@ abducing
 aw
 abduct
 abducted
-abducting
 abduction
 abductions
 abductores
@@ -14279,6 +14278,7 @@ anterolateral
 annulation
 anterolaterally
 anteromedial
+abducting
 anteromedian
 anteroom
 anterooms

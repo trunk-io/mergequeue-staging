@@ -3273,7 +3273,6 @@ basilinna
 basiliscan
 basiliscine
 basiliscus
-basilysis
 basilisks
 basilosauridae
 basilweed
@@ -9364,6 +9363,7 @@ bewet
 bipupillate
 boutel
 biquadrantal
+basilysis
 biquartz
 brique
 botanising
