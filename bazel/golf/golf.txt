@@ -809,6 +809,7 @@ goatherd
 galvanoscope
 gibbers
 guerdon
+gatling
 graffito
 galvanoscopy
 gustiness
@@ -9263,7 +9264,6 @@ groggery
 groggeries
 groggy
 groggier
-gatling
 groggily
 grogginess
 grogging

@@ -5564,7 +5564,6 @@ departure
 depas
 depascent
 depass
-disintensify
 delphinoid
 disrepute
 depasturable
@@ -12526,6 +12525,7 @@ deforests
 disjoined
 disjoining
 dastard
+disintensify
 disjoins
 disjoint
 disjointed
