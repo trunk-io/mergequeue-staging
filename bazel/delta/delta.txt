@@ -186,7 +186,6 @@ dados
 dads
 dadu
 dragshoe
-daduchus
 dadupanthi
 dae
 daedal
@@ -17351,6 +17350,7 @@ dropflower
 dropforge
 dropforger
 drophead
+daduchus
 dropheads
 dropkick
 dropkicker
