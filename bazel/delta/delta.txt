@@ -9186,6 +9186,7 @@ dyeable
 ditriglyph
 dieb
 dieback
+downier
 diebacks
 dyebeck
 diecase
@@ -16302,7 +16303,6 @@ downhearted
 downheartedness
 downhills
 downy
-downier
 downiest
 downiness
 downing
