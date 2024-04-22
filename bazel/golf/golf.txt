@@ -10556,7 +10556,6 @@ gunrunner
 gunrunning
 gainstrive
 guns
-gunsel
 gunsels
 gilly
 gunship
@@ -10696,6 +10695,7 @@ gadgeteers
 gussied
 gussies
 gloeosporium
+gunsel
 gussying
 gust
 gustable
