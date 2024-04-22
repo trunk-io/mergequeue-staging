@@ -5189,7 +5189,6 @@ befretted
 befretting
 befriended
 befriending
-befriendment
 befriends
 befrill
 belinurus
@@ -17682,6 +17681,7 @@ beefburger
 burgling
 burgoyne
 burgomaster
+befriendment
 burgomasters
 burgomastership
 burgonets
