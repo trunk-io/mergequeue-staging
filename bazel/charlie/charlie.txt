@@ -6676,7 +6676,6 @@ celiomyositis
 celioparacentesis
 celiopyosis
 celiorrhea
-celiosalpingectomy
 celiosalpingotomy
 celioschisis
 celioscope
@@ -11810,6 +11809,7 @@ choose
 chooseable
 choosey
 chooser
+celiosalpingectomy
 choosers
 chooses
 choosy
