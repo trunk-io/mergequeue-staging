@@ -527,6 +527,7 @@ fall
 falla
 fallace
 fallacy
+forspeaking
 fallacia
 fallacies
 forerunners
@@ -3943,7 +3944,6 @@ finary
 finbacks
 finbone
 finca
-forspeaking
 finchbacked
 finched
 finchery
