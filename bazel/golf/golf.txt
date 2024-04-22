@@ -8553,7 +8553,6 @@ gorkhali
 greaselessness
 groaners
 greasepaint
-greaseproof
 greaseproofness
 greasers
 greases
@@ -10048,6 +10047,7 @@ guerrillaism
 guerrillas
 guerrillaship
 guesdism
+greaseproof
 guid
 guesdist
 guess
