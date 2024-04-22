@@ -14780,7 +14780,6 @@ citer
 citers
 cites
 citess
-cithara
 citharas
 citharexylum
 citharist
@@ -31616,6 +31615,7 @@ curving
 curvirostral
 curvirostres
 curviserial
+cithara
 curvital
 curvity
 curvities
