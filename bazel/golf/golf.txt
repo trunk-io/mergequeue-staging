@@ -4595,7 +4595,6 @@ gravaminous
 gipping
 gypping
 gippo
-gyppo
 gips
 gyps
 gipseian
@@ -5580,6 +5579,7 @@ glyoxime
 glyph
 greywether
 glyphic
+gyppo
 glyphograph
 glyphographer
 glyphography
