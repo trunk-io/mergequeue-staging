@@ -7797,7 +7797,6 @@ cervicide
 cerviciplex
 cervicispinal
 cervicitis
-cervicoauricular
 cervicoaxillary
 cervicobasilar
 cervicobrachial
@@ -17900,6 +17899,7 @@ coeldership
 coelebogyne
 coelect
 coelection
+cervicoauricular
 coelector
 coelectron
 coelelminth
