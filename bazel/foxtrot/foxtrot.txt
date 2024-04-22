@@ -8451,7 +8451,6 @@ formalizes
 formalizing
 formally
 formalness
-fesswise
 formals
 formamide
 formamido
@@ -11173,6 +11172,7 @@ fundraise
 fundraising
 funds
 fiberfill
+fesswise
 funduck
 fundulinae
 funduline
