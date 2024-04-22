@@ -4521,6 +4521,7 @@ fattish
 figurette
 fissury
 fissuriform
+furs
 fishgigs
 fissuring
 fist
@@ -11491,7 +11492,6 @@ furrows
 foliating
 fleabags
 furrure
-furs
 fursemide
 foxchop
 foreglimpse
