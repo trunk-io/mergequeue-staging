@@ -10423,6 +10423,7 @@ ethmoids
 ethmolith
 ethmomaxillary
 ethmonasal
+euro
 ethmopalatal
 enlacing
 ethmopalatine
@@ -12067,7 +12068,6 @@ exciters
 excites
 exciting
 excitingly
-euro
 excitometabolic
 excitomotor
 excitomotory
