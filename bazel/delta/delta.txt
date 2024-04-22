@@ -477,7 +477,6 @@ dayward
 daywork
 dayworker
 daywrit
-dakerhen
 dakerhens
 descartes
 dinanderie
@@ -891,6 +890,7 @@ doorposts
 dantophily
 dyspnoi
 dantophilist
+dakerhen
 danubian
 drivellers
 danuri
