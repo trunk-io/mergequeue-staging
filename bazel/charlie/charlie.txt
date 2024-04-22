@@ -3420,6 +3420,7 @@ carabao
 cioppino
 carabaos
 carabeen
+codefendant
 carabid
 carabidae
 carabidan
@@ -17738,7 +17739,6 @@ codec
 codeclination
 codecs
 coded
-codefendant
 codefendants
 codeias
 codein
