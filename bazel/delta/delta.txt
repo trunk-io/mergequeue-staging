@@ -5490,6 +5490,7 @@ deorsum
 deorsumvergence
 deorsumversion
 deorusumduction
+deperditely
 deosculate
 deossify
 deossification
@@ -5622,7 +5623,6 @@ deperdit
 dedecoration
 delimiters
 deperdite
-deperditely
 deperdition
 deperition
 deperm

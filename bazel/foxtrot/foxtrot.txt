@@ -1969,7 +1969,6 @@ foreword
 feebleheartedness
 feebleminded
 feebleness
-feebler
 feebless
 feeblest
 feebly
@@ -11445,6 +11444,7 @@ foregather
 furnished
 furnishes
 furnishing
+feebler
 furnishings
 fudges
 furnishment
