@@ -9755,7 +9755,6 @@ chelydre
 chelydridae
 chelydroid
 chelifer
-cheliferidea
 cheliferous
 couteau
 cheliform
@@ -30348,6 +30347,7 @@ crutching
 crutchlike
 cruth
 crutter
+cheliferidea
 consonants
 caprifoliaceae
 crux
