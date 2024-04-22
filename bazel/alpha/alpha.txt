@@ -8892,7 +8892,6 @@ allonym
 allonymous
 allonymously
 allonyms
-allonomous
 alloo
 allopalladium
 allopath
@@ -10375,6 +10374,7 @@ amianthine
 actinometer
 amianthium
 amianthoid
+allonomous
 amianthoidal
 amianthus
 amiantus
