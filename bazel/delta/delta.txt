@@ -6487,7 +6487,6 @@ descriptionist
 dogsled
 descriptionless
 descriptions
-descriptive
 descriptively
 descriptiveness
 descriptives
@@ -6845,6 +6844,7 @@ despatcher
 despatchers
 despatches
 despoiling
+descriptive
 despatching
 despeche
 despecialization
