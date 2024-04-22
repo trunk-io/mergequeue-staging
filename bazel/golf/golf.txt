@@ -3963,7 +3963,6 @@ gaun
 ghain
 gien
 gienah
-gierfalcon
 gies
 gieseckite
 gif
@@ -8672,6 +8671,7 @@ gladiatorism
 greenheaded
 greenheart
 greenhide
+gierfalcon
 greenhood
 gibbosities
 greenhorn
