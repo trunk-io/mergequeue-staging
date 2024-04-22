@@ -4754,6 +4754,7 @@ encipherment
 encipherments
 enciphers
 encircle
+endorsing
 encircled
 effronted
 encirclements
@@ -5319,7 +5320,6 @@ endorser
 endorsers
 electrodialyzer
 endorses
-endorsing
 endorsingly
 endorsors
 endosalpingitis
