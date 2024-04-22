@@ -5742,7 +5742,6 @@ engin
 engine
 engined
 engineer
-engineery
 engineering
 engineeringly
 enrolment
@@ -6643,6 +6642,7 @@ enterocinesia
 enterocinetic
 enterocyst
 enterocystoma
+engineery
 enterocleisis
 enteroclisis
 enterococcal
