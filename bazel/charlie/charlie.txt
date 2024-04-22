@@ -22729,6 +22729,7 @@ consanguine
 consanguineal
 consanguinean
 consanguineous
+cucullaris
 consanguineously
 consanguinity
 consanguinities
@@ -30573,7 +30574,6 @@ cuculiformes
 capabler
 cuculine
 cuculla
-cucullaris
 cucullate
 cucullated
 cucullately
