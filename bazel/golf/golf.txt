@@ -7847,7 +7847,6 @@ gramme
 groggiest
 grammy
 grammies
-gamier
 gramoches
 gramophone
 gramophones
@@ -10582,6 +10581,7 @@ gunstocker
 gunstocks
 glagolitic
 gunstone
+gamier
 gunter
 gunther
 guntub
