@@ -5695,7 +5695,6 @@ depletable
 deplete
 depleted
 deplethoric
-depleting
 ducting
 depletions
 depletive
@@ -14440,6 +14439,7 @@ dewberries
 divisive
 divisively
 divisiveness
+depleting
 divisor
 divisory
 divisorial
