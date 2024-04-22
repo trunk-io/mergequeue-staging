@@ -4941,7 +4941,6 @@ demoses
 demospongiae
 demosthenean
 demot
-demote
 droplike
 demoted
 demotes
@@ -8088,6 +8087,7 @@ dipsetic
 desolateness
 diacetylene
 diacetylmorphine
+demote
 diacetyls
 diacetin
 diacetine
