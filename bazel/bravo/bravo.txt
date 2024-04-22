@@ -3739,6 +3739,7 @@ batter
 batterable
 battercake
 batterdock
+bombard
 battered
 batterer
 batterfang
@@ -12229,7 +12230,6 @@ bombable
 bombacaceae
 bombace
 bombay
-bombard
 bombarde
 bombarded
 bombardelle
