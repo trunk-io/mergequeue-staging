@@ -14865,7 +14865,6 @@ cytochemistry
 cytochylema
 cytochrome
 cytocide
-cytocyst
 cytoclasis
 cytoclastic
 cytococci
@@ -17006,6 +17005,7 @@ coachwise
 coachwoman
 coachwood
 coachwright
+cytocyst
 coact
 coacted
 coacting
