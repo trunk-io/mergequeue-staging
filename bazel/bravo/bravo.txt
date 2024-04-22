@@ -5235,7 +5235,6 @@ begazes
 begazing
 begemmed
 begemming
-beget
 begettal
 begetters
 begetting
@@ -7956,6 +7955,7 @@ bibliotaphe
 bibliotaphic
 bibliothec
 bibliotheca
+beget
 bibliothecae
 bibliothecaire
 bibliothecal
