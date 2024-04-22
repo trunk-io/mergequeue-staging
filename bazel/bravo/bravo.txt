@@ -2152,7 +2152,6 @@ bannerfish
 bannerless
 bannerlike
 bannerman
-bannermen
 berried
 bannerole
 bannerols
@@ -7054,6 +7053,7 @@ besmoothing
 besmooths
 brattishing
 besmother
+bannermen
 besmottered
 besmouch
 besmudge
