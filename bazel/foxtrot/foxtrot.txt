@@ -7311,6 +7311,7 @@ footway
 frontal
 footways
 footwalk
+forbids
 footwall
 footwalls
 footwarmer
@@ -7427,7 +7428,6 @@ foolishness
 forbidding
 forbiddingly
 forbiddingness
-forbids
 forbye
 forbysen
 flammulated
