@@ -8637,7 +8637,6 @@ florence
 forold
 forpass
 forpet
-forpine
 forpined
 forpining
 forprise
@@ -10370,6 +10369,7 @@ frolicsomely
 frolicsomeness
 from
 fossarian
+forpine
 fromages
 fromenty
 fromenties

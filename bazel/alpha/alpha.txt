@@ -4970,7 +4970,6 @@ aerocharidae
 aerocyst
 aerocolpos
 aerocraft
-aerocurve
 aerodermectasia
 aerodynamic
 aerodynamical
@@ -17675,6 +17674,7 @@ appendicular
 appendicularia
 appendicularian
 appendiculariidae
+aerocurve
 appendiculata
 appendiculate
 appending
