@@ -4980,6 +4980,7 @@ glaces
 glaciable
 glacialism
 glacialist
+grammatic
 glacialize
 glaciaria
 glaciarium
@@ -7821,7 +7822,6 @@ grammarianism
 grammarians
 grumousness
 grammars
-grammatic
 grammatical
 grammaticality
 gateau
