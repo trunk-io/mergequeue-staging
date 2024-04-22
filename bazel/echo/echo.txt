@@ -2404,7 +2404,6 @@ electrofuse
 electrofused
 electrofusion
 electrogalvanic
-electrogalvanization
 electrogasdynamics
 electrogenesis
 electrogenetic
@@ -2438,6 +2437,7 @@ electrokinetic
 enkolpion
 electrokinetics
 electroless
+electrogalvanization
 evict
 electrolier
 extensum
