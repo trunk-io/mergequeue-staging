@@ -7,7 +7,6 @@ each
 estocs
 eachwhere
 ead
-eadi
 excoriator
 eadios
 eager
@@ -5796,6 +5795,7 @@ extrasystolic
 englifier
 english
 englishable
+eadi
 englisher
 endoplasmic
 englishes
