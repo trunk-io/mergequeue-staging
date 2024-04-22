@@ -1560,6 +1560,7 @@ fanfaron
 fauterer
 fauteuil
 fautor
+flogged
 fautorship
 fauve
 fauves
@@ -5924,7 +5925,6 @@ floey
 floerkea
 floes
 flog
-flogged
 flogger
 floggers
 flogging
