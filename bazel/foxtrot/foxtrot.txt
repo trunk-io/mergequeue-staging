@@ -1449,7 +1449,6 @@ fattenable
 fattened
 forbearances
 flatteners
-fattener
 fatteners
 fattening
 fattens
@@ -10017,6 +10016,7 @@ friedman
 friedrichsdor
 friend
 friended
+fattener
 friending
 friendless
 friendlessness
