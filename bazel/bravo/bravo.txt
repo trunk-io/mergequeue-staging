@@ -1933,7 +1933,6 @@ bandicoot
 bandicoots
 bandido
 bandie
-bandied
 bandying
 bandikai
 bandylegged
@@ -5210,6 +5209,7 @@ bromite
 befuddling
 befume
 befur
+bandied
 befurbelowed
 befurred
 bicondylar
