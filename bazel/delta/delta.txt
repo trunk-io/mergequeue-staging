@@ -2943,6 +2943,7 @@ deducer
 deduces
 deducibility
 deducibly
+dogtrick
 dolce
 deducing
 deducive
@@ -15059,7 +15060,6 @@ dogtail
 dogteeth
 dogtie
 dogtoothing
-dogtrick
 dogtrots
 dogtrotting
 dogvanes
