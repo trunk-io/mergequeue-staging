@@ -8374,7 +8374,6 @@ forkedly
 forkedness
 forker
 forkers
-forkful
 forkfuls
 forkhead
 forkier
@@ -10306,6 +10305,7 @@ frocklike
 frocks
 froe
 froebelian
+forkful
 froebelism
 froebelist
 froeman
