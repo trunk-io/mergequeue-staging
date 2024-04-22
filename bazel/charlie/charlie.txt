@@ -7500,7 +7500,6 @@ circumoesophagal
 cercopidae
 cercopithecid
 cercopithecidae
-cercopithecoid
 cercopithecus
 cimbri
 cercopod
@@ -26408,6 +26407,7 @@ cotillon
 concipiency
 cotillons
 colipuncture
+cercopithecoid
 cotyloid
 cotyloidal
 cotylophora

@@ -2166,7 +2166,6 @@ felloes
 fermentatory
 fitout
 fellowcraft
-fellowess
 fellowheirship
 fellowing
 fusc
@@ -4925,6 +4924,7 @@ flamefishes
 forcepslike
 flameless
 flamelike
+fellowess
 flamen
 flamenco
 fooless
