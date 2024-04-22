@@ -664,7 +664,6 @@ fructoses
 familia
 familial
 familiary
-familiarisation
 familiarise
 familiarised
 familiariser
@@ -11271,6 +11270,7 @@ forgetness
 funking
 fleerish
 frontispieces
+familiarisation
 funks
 funli
 funmaker
