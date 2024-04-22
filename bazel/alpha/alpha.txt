@@ -5948,6 +5948,7 @@ agatizing
 agatoid
 agau
 agave
+arkosic
 agaves
 admiralships
 agaz
@@ -13399,7 +13400,6 @@ anywhence
 anywhere
 anywhereness
 anywheres
-arkosic
 anywise
 anywither
 anhalonium
