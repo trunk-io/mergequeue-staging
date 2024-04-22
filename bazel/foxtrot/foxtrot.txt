@@ -1683,6 +1683,7 @@ fdnames
 fdtype
 fdubs
 fe
+fuster
 feaberry
 feague
 forebitt
@@ -11452,7 +11453,6 @@ furnishness
 furnit
 furniture
 furnitures
-fuster
 furodiazole
 furoic
 foraminated
