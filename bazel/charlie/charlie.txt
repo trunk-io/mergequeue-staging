@@ -3757,7 +3757,6 @@ carbuncular
 carbunculation
 carbungi
 carburan
-carburant
 carburated
 carburating
 carburator
@@ -18324,6 +18323,7 @@ cogniser
 cognises
 cognising
 chirimoya
+carburant
 cognition
 cognitional
 cognitive
