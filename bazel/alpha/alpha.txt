@@ -2610,7 +2610,6 @@ acocantherin
 acockbill
 acocotl
 acoela
-acoelomata
 acoelomate
 acoelomatous
 acoelomi
@@ -15179,6 +15178,7 @@ antiegotist
 antiegotistic
 antieyestrain
 antiejaculation
+acoelomata
 antielectron
 antielectrons
 antiemetic
