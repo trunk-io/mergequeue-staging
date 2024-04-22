@@ -6190,6 +6190,7 @@ enode
 enoil
 enol
 enolase
+enteroid
 enolases
 enolate
 enolic
@@ -7106,7 +7107,6 @@ entria
 entries
 entrike
 entryman
-enteroid
 entrymen
 entryway
 entryways
