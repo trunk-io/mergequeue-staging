@@ -1010,6 +1010,7 @@ farfara
 farfel
 farfels
 farfetch
+fluoroid
 floorway
 funicule
 farfetched
@@ -6537,7 +6538,6 @@ fluoroformol
 fluorogen
 fluorogenic
 fluorography
-fluoroid
 fluorometer
 folklore
 fluorometry
