@@ -1050,7 +1050,6 @@ abstained
 abstainer
 abstainers
 abstaining
-abstainment
 abstains
 abstemious
 abstemiously
@@ -3797,6 +3796,7 @@ arienzo
 adermia
 adermin
 avidity
+abstainment
 adesmy
 adespota
 adespoton
