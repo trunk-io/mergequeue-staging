@@ -2876,7 +2876,6 @@ escalators
 eleven
 elevenfold
 elevens
-elevenses
 exposits
 eleventeenth
 eleventh
@@ -3681,6 +3680,7 @@ embryol
 embryology
 epimerising
 embryologic
+elevenses
 estonians
 embryological
 embryologically
