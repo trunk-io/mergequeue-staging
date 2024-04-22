@@ -8826,7 +8826,6 @@ grelot
 gremial
 gremiale
 gremials
-gremio
 gremlin
 gremlins
 gremmy
@@ -9398,6 +9397,7 @@ grotesquerie
 grotesqueries
 grotesques
 grothite
+gremio
 gratefuller
 grotty
 grotto
