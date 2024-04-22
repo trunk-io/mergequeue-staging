@@ -3618,7 +3618,6 @@ file
 fileable
 filecard
 filechar
-filefish
 feminisms
 filefishes
 filelike
@@ -6967,6 +6966,7 @@ foliolate
 foliole
 folioliferous
 foliolose
+filefish
 foliose
 foliosity
 flowmanostat
