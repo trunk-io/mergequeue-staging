@@ -6780,7 +6780,6 @@ enthrallments
 enthralls
 enthralment
 enthrals
-enthrill
 epalpebrate
 enthrone
 enthronement
@@ -7222,6 +7221,7 @@ environmentally
 environments
 environs
 envisage
+enthrill
 envisaged
 envisages
 envisaging
