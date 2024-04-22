@@ -4992,7 +4992,6 @@ endaortic
 endaortitis
 endarch
 endarchy
-endarchies
 endarterectomy
 endarterial
 endarteritis
@@ -12558,6 +12557,7 @@ exiguously
 exiguousness
 exilable
 exilarch
+endarchies
 exilarchate
 exile
 excogitated
