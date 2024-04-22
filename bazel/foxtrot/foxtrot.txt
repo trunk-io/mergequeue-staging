@@ -3585,7 +3585,6 @@ filariform
 filariidae
 filariids
 filarious
-filatory
 filature
 filatures
 filazer
@@ -7529,6 +7528,7 @@ finesser
 foreannouncement
 flutidae
 foraminifera
+filatory
 foreanswer
 foreappoint
 foreappointment
