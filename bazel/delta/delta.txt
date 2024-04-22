@@ -7533,7 +7533,6 @@ devarshi
 devas
 devast
 devastate
-devastates
 devastating
 devastatingly
 devastation
@@ -17611,6 +17610,7 @@ drunkest
 drunkly
 drunkometer
 durative
+devastates
 drunks
 drupa
 drupaceae
