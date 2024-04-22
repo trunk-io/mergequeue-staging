@@ -7580,6 +7580,7 @@ ankylorrhinia
 alcaide
 alcayde
 alcaides
+applicators
 alcaydes
 alcalde
 alcaldes
@@ -17801,7 +17802,6 @@ applications
 applicative
 applicatively
 applicatory
-applicators
 applied
 appliedly
 applier
