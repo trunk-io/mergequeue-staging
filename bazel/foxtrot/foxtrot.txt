@@ -2574,6 +2574,7 @@ ferry
 ferriages
 ferryboats
 ferric
+fopperly
 familistery
 ferricyanate
 ferricyanic
@@ -7333,7 +7334,6 @@ fopped
 foppery
 fopperies
 flockling
-fopperly
 foppy
 fopping
 foppish
