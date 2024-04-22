@@ -3978,7 +3978,6 @@ emissaries
 emissaryship
 emissarium
 emissi
-emissile
 eudialyte
 emission
 emissions
@@ -6789,6 +6788,7 @@ enthelminthic
 entheos
 enthetic
 enthymematic
+emissile
 enthymematical
 enthymeme
 exterminist
