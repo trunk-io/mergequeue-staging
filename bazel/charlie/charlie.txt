@@ -5680,7 +5680,6 @@ catechize
 catechized
 catechizer
 catechizes
-catechizing
 catechol
 catecholamine
 catecholamines
@@ -13311,6 +13310,7 @@ cyclohexadienyl
 cyclohexane
 cyclohexanol
 cyclohexanone
+catechizing
 cyclohexatriene
 cyclohexene
 cyclohexyl
