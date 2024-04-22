@@ -2178,7 +2178,6 @@ fellowshipping
 friggle
 fellowships
 fells
-fellside
 fellsman
 finger
 filiation
@@ -11213,6 +11212,7 @@ fungiferous
 fungify
 fungiform
 formability
+fellside
 fungillus
 fungistat
 frenzelite
