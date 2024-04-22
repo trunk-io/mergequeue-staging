@@ -1679,6 +1679,7 @@ fchar
 fipenny
 fcomp
 fconv
+fractal
 fconvert
 farcin
 fcp
@@ -9232,7 +9233,6 @@ fract
 fractable
 fractabling
 fouls
-fractal
 fractals
 fracticipita
 fractile
