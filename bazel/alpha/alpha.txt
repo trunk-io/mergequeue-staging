@@ -9053,7 +9053,6 @@ allured
 allurement
 allurements
 allurer
-allures
 alluringly
 alluringness
 allusion
@@ -21702,6 +21701,7 @@ aeciotelium
 asses
 assess
 assessable
+allures
 assessably
 archplagiary
 assessed
