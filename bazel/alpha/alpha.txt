@@ -5062,6 +5062,7 @@ aeromedicine
 aerometeorograph
 aerometer
 aerometry
+anolytes
 aerometric
 aeromotor
 aeron
@@ -13755,7 +13756,6 @@ anolian
 anolympiad
 anolis
 anolyte
-anolytes
 anomal
 anomala
 anomaly
