@@ -2957,7 +2957,6 @@ feuillemorte
 feuillet
 feuilleton
 feuilletonism
-feuilletonistic
 feuilletons
 figurate
 feuing
@@ -6171,6 +6170,7 @@ filibusterer
 flotas
 flote
 fittest
+feuilletonistic
 flotillas
 flibbertigibbets
 flotsam
