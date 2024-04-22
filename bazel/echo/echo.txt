@@ -3189,7 +3189,6 @@ elucidating
 elucidations
 elucidative
 elucidator
-elucidatory
 eluctate
 eluctation
 elucubrate
@@ -7462,6 +7461,7 @@ epencephala
 embittering
 epencephalon
 epencephalons
+elucidatory
 explorative
 enrooting
 ependymal
