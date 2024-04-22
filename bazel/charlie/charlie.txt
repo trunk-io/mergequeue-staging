@@ -3361,6 +3361,7 @@ captioned
 captioning
 captionless
 captions
+cornutus
 captious
 captiously
 captiousness
@@ -25446,7 +25447,6 @@ cornutine
 cornuting
 cornuto
 cornutos
-cornutus
 cornwallis
 cornwallises
 cornwallite
