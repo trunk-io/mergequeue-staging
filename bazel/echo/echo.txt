@@ -3824,7 +3824,6 @@ emeership
 emeline
 emend
 emendandum
-emendate
 emendated
 ekerite
 escutcheon
@@ -13310,6 +13309,7 @@ expositive
 expositively
 evestar
 expositor
+emendate
 expository
 expositorial
 expositorially
