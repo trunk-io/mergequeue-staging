@@ -4632,6 +4632,7 @@ carpopedal
 carpophagous
 carpophalangeal
 carpophyl
+conchylium
 carpophyll
 carpophyte
 carpophore
@@ -21334,7 +21335,6 @@ conchyle
 conchylia
 conchyliated
 conchyliferous
-conchylium
 conchinin
 conchinine
 conchiolin
