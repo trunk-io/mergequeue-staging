@@ -11865,7 +11865,6 @@ anansi
 ananta
 ananter
 anantherate
-anantherous
 ananthous
 anapaest
 anapaestic
@@ -24608,6 +24607,7 @@ avenage
 avenalin
 avenant
 avenary
+anantherous
 avener
 avenery
 avenge

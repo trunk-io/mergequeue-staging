@@ -2566,6 +2566,7 @@ gemul
 gemuti
 gemutlich
 gemutlichkeit
+geogenic
 gemwork
 gen
 gena
@@ -3046,7 +3047,6 @@ geogen
 geogenesis
 geogenetic
 geogeny
-geogenic
 goldney
 geogenous
 gaggler
