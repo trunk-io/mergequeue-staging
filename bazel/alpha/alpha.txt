@@ -3308,6 +3308,7 @@ ascents
 acturience
 actus
 actutate
+animates
 acuaesthesia
 acuate
 acuating
@@ -13214,7 +13215,6 @@ actionable
 animateness
 animater
 animaters
-animates
 animatingly
 animation
 animations
