@@ -6181,7 +6181,6 @@ enologist
 enols
 enomania
 enomaniac
-enomotarch
 enophthalmos
 exobiological
 enophthalmus
@@ -13487,6 +13486,7 @@ exsheath
 exsibilation
 exsiccant
 exsiccatae
+enomotarch
 exsiccate
 exsiccated
 exsiccating
