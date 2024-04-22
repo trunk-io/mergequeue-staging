@@ -6708,6 +6708,7 @@ enteroptotic
 enterorrhagia
 enterorrhaphy
 enterorrhexis
+etatisms
 enteroscopy
 enterosepsis
 enterosyphilis
@@ -10173,7 +10174,6 @@ etas
 etatism
 ephete
 etatisme
-etatisms
 etatist
 etc
 etcetera
