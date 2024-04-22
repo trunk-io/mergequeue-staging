@@ -12093,7 +12093,6 @@ exclaimer
 exclaimers
 exclaiming
 exclaims
-exclam
 earthmaking
 exclamational
 exclamations
@@ -12636,6 +12635,7 @@ exoascaceous
 exoascales
 exoascus
 exobasidiales
+exclam
 exclaim
 epileptic
 exobasidium
