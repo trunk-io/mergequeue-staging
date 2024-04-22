@@ -5680,6 +5680,7 @@ beleper
 beletter
 beleve
 belfast
+bilio
 belfried
 buna
 belfries
@@ -8583,7 +8584,6 @@ bulger
 bricole
 bylining
 bilinite
-bilio
 bilious
 biliously
 bilipyrrhin
