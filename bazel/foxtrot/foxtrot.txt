@@ -1267,7 +1267,6 @@ fassalite
 fast
 fenchone
 fastbacks
-fastball
 fastballs
 fasted
 fasten
@@ -1870,6 +1869,7 @@ feckfully
 feckless
 fecklessly
 feckly
+fastball
 fecks
 fidicinales
 flytier

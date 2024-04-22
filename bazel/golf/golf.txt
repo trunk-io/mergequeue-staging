@@ -5158,6 +5158,7 @@ glands
 geometriform
 glandula
 glandular
+gourdhead
 glandularly
 glandule
 glanduliferous
@@ -7426,7 +7427,6 @@ gourde
 gourded
 gourdes
 gourdful
-gourdhead
 gufa
 gristmiller
 gourdy
