@@ -6837,7 +6837,6 @@ despairs
 desparple
 despatch
 draff
-despatched
 despatcher
 despatchers
 despatches
@@ -6893,6 +6892,7 @@ decease
 despiting
 despitous
 despoil
+despatched
 despoiled
 despoiler
 despoilers
