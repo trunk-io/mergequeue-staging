@@ -4952,7 +4952,6 @@ gizzern
 gjedost
 gjetost
 gjetosts
-gl
 glabbella
 glabella
 glabellae
@@ -9119,6 +9118,7 @@ gripsack
 gentianal
 gripsacks
 griqua
+gl
 geochronic
 griquaite
 griqualander
