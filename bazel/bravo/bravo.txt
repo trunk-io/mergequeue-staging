@@ -13293,7 +13293,6 @@ brender
 botherheaded
 bothering
 blanquette
-botherment
 bothers
 bothersome
 bothersomely
@@ -17634,6 +17633,7 @@ burgessdom
 burgesses
 burggrave
 burgh
+botherment
 burghal
 burghalpenny
 burghbote

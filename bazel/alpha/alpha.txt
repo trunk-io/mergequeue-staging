@@ -10843,7 +10843,6 @@ anhydric
 amylodextrin
 amnionate
 amnionia
-amnionic
 amnions
 amniorrhea
 amnios
@@ -18802,6 +18801,7 @@ archegone
 archegony
 archegonia
 archegonial
+amnionic
 archegoniata
 archegoniatae
 archegoniophore
