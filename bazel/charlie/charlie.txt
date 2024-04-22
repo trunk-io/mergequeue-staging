@@ -8329,7 +8329,6 @@ chalkpit
 chalkrail
 chalks
 chalkstone
-chalkworker
 challa
 challahs
 challas
@@ -15028,6 +15027,7 @@ citrinin
 citrinins
 citrinous
 citrins
+chalkworker
 citrometer
 citromyces
 citron
