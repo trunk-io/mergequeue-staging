@@ -2639,6 +2639,7 @@ electrotactic
 electrotautomerism
 electrotaxis
 electrotechnic
+end
 ephraimitish
 embrasure
 electrotechnical
@@ -4955,7 +4956,6 @@ encumbrous
 encup
 encurtain
 encushion
-end
 endable
 endamage
 endamageable
