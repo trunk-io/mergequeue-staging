@@ -609,7 +609,6 @@ abnerval
 apprehensive
 acridian
 abneural
-abnormal
 abnormalcy
 abnormalcies
 abnormalise
@@ -11717,6 +11716,7 @@ analcites
 adipocere
 analcitite
 analecta
+abnormal
 analects
 analemma
 analemmas
