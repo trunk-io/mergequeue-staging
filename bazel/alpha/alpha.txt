@@ -5617,7 +5617,6 @@ afterchrome
 afterchurch
 afterclap
 afterclause
-aftercome
 aftercomer
 aftercoming
 aftercooler
@@ -22765,6 +22764,7 @@ atonics
 atonies
 antiquarianism
 atoning
+aftercome
 atoningly
 atop
 atopen
