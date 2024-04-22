@@ -4525,6 +4525,7 @@ demidistance
 demiditone
 demidoctor
 demidog
+downtroddenness
 demidolmen
 demidome
 demieagle
@@ -16383,7 +16384,6 @@ downtrend
 downtrends
 downtrod
 downtrodden
-downtroddenness
 downturn
 downturns
 downway
