@@ -2970,7 +2970,6 @@ geoagronomic
 geobiologic
 geobiont
 geobios
-geoblast
 geobotanic
 geobotanically
 glutetei
@@ -8627,6 +8626,7 @@ greekize
 greekless
 goldfinnies
 greekling
+geoblast
 geranials
 greeks
 green
