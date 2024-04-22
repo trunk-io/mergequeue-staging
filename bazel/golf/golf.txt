@@ -2609,7 +2609,6 @@ geneki
 genep
 genepi
 gorgonize
-genera
 generability
 generable
 geisotherm
@@ -5079,6 +5078,7 @@ glaiks
 glauconite
 glaymore
 grubbiness
+genera
 glair
 glaire
 guidebook
