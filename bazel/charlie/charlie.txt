@@ -8369,7 +8369,6 @@ chalta
 chaluka
 chalukyan
 chalumeau
-chalumeaux
 chalutzim
 cham
 chama
@@ -29393,6 +29392,7 @@ crispbread
 crispen
 crispened
 crispening
+chalumeaux
 crispens
 crisper
 crispers
