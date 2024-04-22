@@ -5050,7 +5050,6 @@ gladioli
 gladioluses
 gladys
 gladite
-gossan
 gladius
 gladly
 gibbets
@@ -8100,6 +8099,7 @@ granulet
 granuliform
 granulite
 granulitis
+gossan
 granulitization
 granulitize
 granulization
