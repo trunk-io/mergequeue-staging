@@ -8199,7 +8199,6 @@ bidree
 bidry
 bids
 bidstand
-biduous
 bye
 bieberite
 biedermeier
@@ -12793,6 +12792,7 @@ booster
 boosters
 blickie
 boosting
+biduous
 boosts
 brachigerous
 boot

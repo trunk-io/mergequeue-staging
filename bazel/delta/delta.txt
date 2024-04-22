@@ -1438,6 +1438,7 @@ db
 dbl
 dbms
 dbridement
+disintensify
 dbrn
 dc
 dca
@@ -5564,7 +5565,6 @@ departure
 depas
 depascent
 depass
-disintensify
 delphinoid
 disrepute
 depasturable
