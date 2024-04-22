@@ -1653,7 +1653,6 @@ deanship
 deanships
 deanthropomorphic
 deanthropomorphization
-deanthropomorphize
 deappetizing
 deaquation
 dear
@@ -9690,6 +9689,7 @@ dilapidation
 dilapidator
 dilatability
 dilatable
+deanthropomorphize
 dilatableness
 dysmerogenetic
 dilatably
