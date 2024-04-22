@@ -132,7 +132,6 @@ facinorousness
 foldable
 functionally
 faciolingual
-facioplegia
 facit
 fack
 fackeltanz
@@ -5966,6 +5965,7 @@ floodlilit
 floodlit
 floodmark
 floodplain
+facioplegia
 floodproof
 floods
 fortifiable
