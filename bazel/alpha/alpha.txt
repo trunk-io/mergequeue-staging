@@ -20210,7 +20210,6 @@ arresters
 arresting
 arrestingly
 arrestive
-arrestment
 arrestor
 arrestors
 arrests
@@ -23968,6 +23967,7 @@ autocratically
 autocraticalness
 autocrator
 autocratoric
+arrestment
 autocratrix
 autocrats
 autocratship
