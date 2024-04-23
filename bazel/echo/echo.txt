@@ -7911,7 +7911,6 @@ epiky
 epikia
 epikleses
 epiklesis
-epil
 epilabra
 epilabrum
 epilachnides
@@ -10925,6 +10924,7 @@ eumorphic
 eunectes
 eunice
 eunicid
+epil
 eunicidae
 eunomy
 exormia
