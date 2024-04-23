@@ -3615,7 +3615,6 @@ bathkol
 bathless
 barbar
 bathman
-bathmat
 bathmats
 bathmic
 bathmism
@@ -16087,6 +16086,7 @@ broommaking
 broomrape
 broomroot
 brooms
+bathmat
 broomshank
 broomstick
 broomsticks
