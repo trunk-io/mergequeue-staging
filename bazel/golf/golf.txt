@@ -3712,7 +3712,6 @@ ghazis
 gelechiidae
 ghaznevid
 ghbor
-gheber
 ghebeta
 ghee
 gallowsmaker
@@ -6982,6 +6981,7 @@ grecian
 goodyship
 goodishness
 goodless
+gheber
 goodlier
 goodliest
 gingerly
