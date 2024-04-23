@@ -5800,7 +5800,6 @@ belli
 belly
 bellyache
 bellyached
-bdl
 bellyacher
 bellibone
 bellybutton
@@ -15294,6 +15293,7 @@ bitripartite
 brigadiership
 brigading
 brigalow
+bdl
 brigand
 brigander
 brigandine
