@@ -1081,7 +1081,6 @@ darted
 darter
 darters
 dartingly
-dartingness
 dartle
 deprovincialize
 dartled
@@ -9184,6 +9183,7 @@ desuete
 diduction
 diductively
 diductor
+dartingness
 didunculidae
 didunculinae
 didunculus
