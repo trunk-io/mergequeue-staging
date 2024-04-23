@@ -2169,7 +2169,6 @@ dawed
 decate
 decathlon
 decathlons
-decatholicize
 dinos
 decatyl
 decating
@@ -12504,6 +12503,7 @@ disintegrative
 disintegrator
 disintegratory
 disintegrators
+decatholicize
 disintegrity
 disintegrous
 disinter
