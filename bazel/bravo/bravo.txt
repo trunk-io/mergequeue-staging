@@ -3356,6 +3356,7 @@ basks
 basnat
 basoche
 basocyte
+bozal
 basoga
 butled
 basoid
@@ -11509,7 +11510,6 @@ bluster
 blusteration
 blustered
 banquettes
-bozal
 blusterer
 blusterers
 blustery
