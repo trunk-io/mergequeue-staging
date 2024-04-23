@@ -901,6 +901,7 @@ ectophytic
 ectophloic
 endothelioblastoma
 ectopy
+ellipsoids
 ectopia
 ectopic
 ectopistes
@@ -3058,7 +3059,6 @@ ellipsis
 ellipsograph
 ellipsoid
 ellipsoidal
-ellipsoids
 ellipsometry
 ellipsone
 ellipsonic
