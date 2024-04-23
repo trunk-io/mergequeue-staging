@@ -3272,7 +3272,6 @@ actualise
 actualised
 actualising
 actualism
-actualist
 actuality
 amphithalami
 actualities
@@ -9311,6 +9310,7 @@ alp
 alpaca
 alpacas
 alpax
+actualist
 alpeen
 aneurysmatic
 alpen
