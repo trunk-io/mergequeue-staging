@@ -11832,7 +11832,6 @@ anama
 anamesite
 anametadromous
 anamirta
-anamirtin
 amperage
 anamite
 anammonid
@@ -22088,6 +22087,7 @@ asthenosphere
 asthma
 asthmas
 asthmatic
+anamirtin
 amassed
 asthmatical
 asthmatically
