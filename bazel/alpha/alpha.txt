@@ -229,7 +229,6 @@ abbreviatory
 adenohypophysis
 abbreviators
 abbreviature
-abbroachment
 abc
 abcess
 abcissa
@@ -15758,6 +15757,7 @@ antioxidizing
 antioxygen
 antioxygenating
 antioxygenation
+abbroachment
 antioxygenator
 antioxygenic
 antiozonant
