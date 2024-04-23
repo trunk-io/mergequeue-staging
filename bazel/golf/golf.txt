@@ -2406,6 +2406,7 @@ geld
 geldability
 geldable
 geldant
+gambit
 guti
 gelded
 gelder
@@ -8796,7 +8797,6 @@ glyoxilin
 greiges
 galopade
 greyiaceae
-gambit
 greying
 greyish
 greylag
