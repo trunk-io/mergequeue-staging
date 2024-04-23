@@ -7518,7 +7518,6 @@ albumean
 albumen
 albumeniizer
 albumenisation
-albumenise
 albumenised
 albumeniser
 albumenising
@@ -7772,6 +7771,7 @@ aldimin
 aldimine
 aldine
 alditol
+albumenise
 aldm
 anthozooid
 aldoheptose
