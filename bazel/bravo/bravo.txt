@@ -799,6 +799,7 @@ badgerweed
 badging
 badgir
 badhan
+blackfoot
 bechic
 badiaga
 badian
@@ -14643,7 +14644,6 @@ brauneberger
 braunites
 braunschweiger
 brauronia
-blackfoot
 brauronian
 brava
 bravade
