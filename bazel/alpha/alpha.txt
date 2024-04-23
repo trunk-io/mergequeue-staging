@@ -5825,7 +5825,6 @@ agalenidae
 agalite
 agalloch
 agallochs
-agallochum
 agallop
 agalma
 agalmatolite
@@ -20724,6 +20723,7 @@ artilleries
 artilleryman
 artillerymen
 artilleryship
+agallochum
 artillerist
 artillerists
 artiness
