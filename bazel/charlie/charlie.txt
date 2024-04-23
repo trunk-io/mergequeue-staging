@@ -5122,7 +5122,6 @@ cassareep
 cassata
 cassatas
 cassate
-cassation
 cassava
 cassavas
 casse
@@ -16814,6 +16813,7 @@ clubhand
 clubhands
 clubhauled
 clubhauling
+cassation
 clubhouse
 clubhouses
 companionship

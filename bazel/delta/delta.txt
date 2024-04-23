@@ -4580,7 +4580,6 @@ demigoddess
 demigods
 demigorge
 diagnoses
-demigrate
 demigriffin
 demigroat
 demihag
@@ -16496,6 +16495,7 @@ drachma
 drachmae
 diplocardia
 devolatilisation
+demigrate
 drachmai
 dhoti
 disguisements
