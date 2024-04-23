@@ -10674,7 +10674,6 @@ eucharistic
 eucharistically
 eucharistized
 eucharistizing
-eucharists
 eucharitidae
 euchymous
 euchysiderite
@@ -13414,6 +13413,7 @@ expunction
 expunge
 expungeable
 expunged
+eucharists
 expungement
 expunger
 expungers
