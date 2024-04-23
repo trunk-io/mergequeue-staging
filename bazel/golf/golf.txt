@@ -1312,7 +1312,6 @@ garbles
 garbline
 garblings
 garbo
-garboard
 garboards
 garboil
 garboils
@@ -7608,6 +7607,7 @@ gracious
 gargles
 graciously
 graciousness
+garboard
 grackle
 gabgab
 grackles
