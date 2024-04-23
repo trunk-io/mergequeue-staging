@@ -783,7 +783,6 @@ fanfares
 fellowlike
 flightiest
 fanfaronade
-footwear
 fanfaronading
 fanfarons
 funnellike
@@ -4862,6 +4861,7 @@ flay
 flayed
 felinophobe
 fluidise
+footwear
 flayer
 flayers
 flaying
