@@ -4837,7 +4837,6 @@ excitive
 encoronal
 encoronate
 encoronet
-encorpore
 encounter
 encounterable
 encountered
@@ -10100,6 +10099,7 @@ estranging
 electrogilt
 estrangle
 emulgent
+encorpore
 estre
 estreat
 estreated
