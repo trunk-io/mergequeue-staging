@@ -3347,7 +3347,6 @@ embargoed
 embargoes
 embargoing
 embargoist
-embargos
 embark
 embarkations
 embarked
@@ -5806,6 +5805,7 @@ engoue
 engouee
 excrements
 engouement
+embargos
 engouled
 engoument
 engr
