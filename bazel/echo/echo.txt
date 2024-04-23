@@ -249,7 +249,6 @@ euripus
 evoked
 easeled
 easeless
-easels
 easement
 easements
 encystation
@@ -5951,6 +5950,7 @@ enigmaticalness
 enigmatist
 enigmatization
 enigmatize
+easels
 enigmatizing
 enigmatography
 enigmatology

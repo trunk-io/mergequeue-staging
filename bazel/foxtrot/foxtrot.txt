@@ -645,7 +645,6 @@ famatinite
 fluxional
 famble
 fame
-fatiguability
 famed
 fameflower
 fameful
@@ -1316,6 +1315,7 @@ fastnesses
 filicin
 feed
 fasts
+fatiguability
 fastuous
 fastuousness
 fastus
