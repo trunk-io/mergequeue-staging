@@ -49,6 +49,7 @@ earflap
 earflaps
 equiprobabilism
 equidiurnal
+epimerum
 earflower
 equicellular
 earful
@@ -7990,7 +7991,6 @@ epimerize
 epimerized
 epimerizing
 epimers
-epimerum
 enchains
 epimyocardial
 epimyocardium
