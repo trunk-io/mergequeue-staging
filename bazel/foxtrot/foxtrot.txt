@@ -961,7 +961,6 @@ farceur
 farceurs
 farceuses
 farci
-farcy
 farcial
 farcialize
 farcicality
@@ -3117,6 +3116,7 @@ fibrinosis
 fibrinous
 fibrins
 fibrinuria
+farcy
 fibroadenoma
 flourishment
 fibroadipose
