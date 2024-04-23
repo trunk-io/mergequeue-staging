@@ -12955,7 +12955,6 @@ expectorant
 expectorants
 expectorate
 expectorated
-expectorates
 expectorating
 expectoration
 eumenidae
@@ -13472,6 +13471,7 @@ exsected
 exsectile
 encephalotomies
 exsecting
+expectorates
 exsector
 exsects
 exsert
