@@ -11363,7 +11363,6 @@ chloroplastid
 chloroplasts
 chloroplatinate
 chloroplatinic
-chloroplatinite
 chloroplatinous
 chloropsia
 chlorosilicate
@@ -21109,6 +21108,7 @@ conatus
 conaxial
 conbinas
 creativeness
+chloroplatinite
 conc
 concactenated
 concamerate

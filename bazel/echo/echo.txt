@@ -2600,7 +2600,6 @@ electros
 electroscission
 expensive
 erythromania
-electroscopes
 estramazone
 electroscopic
 electrosensitive
@@ -4577,6 +4576,7 @@ encephaloid
 encephalolith
 encephaloma
 encephalomalacia
+electroscopes
 encephalomalacosis
 encephalomalaxis
 encephalomas
