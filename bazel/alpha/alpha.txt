@@ -3688,7 +3688,6 @@ adenocarcinomas
 adenocarcinomata
 adenocarcinomatous
 adenocele
-adenocellulitis
 adenochondroma
 adenochondrosarcoma
 adenochrome
@@ -9344,6 +9343,7 @@ alphabetised
 alphabetiser
 alphabetising
 alphabetism
+adenocellulitis
 alphabetist
 alphabetization
 alphabetize
