@@ -5253,7 +5253,6 @@ frailest
 flavoprotein
 flagships
 flavor
-flavored
 flavorer
 flavorers
 flavorful
@@ -10123,6 +10122,7 @@ fibrofatty
 frillers
 federalised
 frilly
+flavored
 frilliest
 fibromyxoma
 frillily
