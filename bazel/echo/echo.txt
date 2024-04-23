@@ -12621,7 +12621,6 @@ exitious
 exits
 exiture
 exitus
-exla
 exlex
 exmeridian
 exmoor
@@ -12973,6 +12972,7 @@ expediate
 expedience
 expediences
 extremity
+exla
 expediency
 expediencies
 expediente
