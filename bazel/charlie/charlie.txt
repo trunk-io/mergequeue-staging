@@ -2360,7 +2360,6 @@ candlebeam
 candleberry
 candleberries
 candlebomb
-candlebox
 candled
 candlefishes
 candleholder
@@ -10023,6 +10022,7 @@ cherrylike
 cherrystone
 cherrystones
 chersydridae
+candlebox
 chersonese
 chert
 cherte
