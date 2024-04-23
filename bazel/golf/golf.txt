@@ -8067,6 +8067,7 @@ grantee
 grantees
 granter
 granters
+groomsmen
 granth
 grantha
 granthi
@@ -9315,7 +9316,6 @@ grooms
 gratiolin
 gulps
 gelong
-groomsmen
 groop
 grooper
 groose
