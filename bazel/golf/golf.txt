@@ -4237,7 +4237,6 @@ gymnasial
 gymnasiarch
 gumminess
 gymnasiast
-gymnasic
 gymnasisia
 gymnasium
 gymnasiums
@@ -5792,6 +5791,7 @@ glomerulate
 glomerule
 glomerulitis
 glomerulonephritis
+gymnasic
 glaucous
 glomerulose
 gelose
