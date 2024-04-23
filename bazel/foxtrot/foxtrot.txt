@@ -744,6 +744,7 @@ fanciable
 fancical
 flammule
 fancied
+fieldpieces
 fancier
 fanciers
 fancies
@@ -3402,7 +3403,6 @@ firefanging
 fieldmen
 fieldmice
 fieldmouse
-fieldpieces
 funebre
 fieldsman
 fieldsmen
