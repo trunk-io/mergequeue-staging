@@ -2338,7 +2338,6 @@ barbarity
 barbarities
 barbarization
 barbarize
-barbarizing
 barbarous
 bradford
 barbarously
@@ -11241,6 +11240,7 @@ blowguns
 blowhard
 blowhole
 blowholes
+barbarizing
 blowie
 blowier
 blowiness
