@@ -2040,7 +2040,6 @@ acethydrazide
 accreted
 acetiam
 acetic
-acetify
 acetification
 acetified
 acetifier
@@ -15464,6 +15463,7 @@ antilife
 antilift
 antilipase
 antilipoid
+acetify
 antiliquor
 antilysin
 antilysis
