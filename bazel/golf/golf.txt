@@ -368,7 +368,6 @@ glycogens
 galoped
 garfishes
 galactosyl
-galactosis
 gnomelike
 galactosuria
 galactotherapy
@@ -4828,6 +4827,7 @@ gyrostabilized
 gyrostabilizer
 gyrostachys
 gulled
+galactosis
 gyrostat
 gyrostatic
 gastroplenic
