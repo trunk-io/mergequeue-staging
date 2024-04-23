@@ -1152,7 +1152,6 @@ editorialization
 editorializations
 editorialize
 editorialized
-endomitotic
 eidology
 editorializer
 editorializers
@@ -7091,6 +7090,7 @@ entries
 entrike
 entryman
 entrymen
+endomitotic
 entryway
 entryways
 electrodeless
