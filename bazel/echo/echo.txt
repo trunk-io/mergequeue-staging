@@ -9724,7 +9724,6 @@ esophagostomy
 endorsor
 esophagotome
 esophagotomy
-esophagus
 esophoria
 esophoric
 esopus
@@ -10477,6 +10476,7 @@ ethnogeographer
 espace
 ebonites
 ethnogeography
+esophagus
 ethnogeographic
 ethnogeographically
 ethnographer
