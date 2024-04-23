@@ -1716,6 +1716,7 @@ accouchement
 accouchements
 accoucheur
 areographic
+anguiform
 accoucheurs
 accoucheuse
 accoucheuses
@@ -12964,7 +12965,6 @@ angstroms
 angsts
 anguid
 anguidae
-anguiform
 anguillaria
 abey
 anguille
