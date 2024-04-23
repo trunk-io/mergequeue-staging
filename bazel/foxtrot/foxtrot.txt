@@ -1762,7 +1762,6 @@ feater
 featest
 feather
 featherback
-featherbed
 funebrous
 featherbird
 featherbone
@@ -8655,6 +8654,7 @@ forpining
 forprise
 fumaryl
 forrad
+featherbed
 forrader
 forrard
 flammigerous
