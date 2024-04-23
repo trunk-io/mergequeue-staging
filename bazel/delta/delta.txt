@@ -5499,7 +5499,6 @@ deorsumvergence
 deorsumversion
 deorusumduction
 deperditely
-deosculate
 deossify
 deossification
 deota
@@ -8513,6 +8512,7 @@ diaphanometric
 diaphanoscope
 dirties
 diaphanotype
+deosculate
 diaphanous
 diaclasite
 diaphanousness
