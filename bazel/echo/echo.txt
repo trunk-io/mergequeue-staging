@@ -3126,7 +3126,6 @@ epicentra
 elong
 encephalorrhagia
 elongate
-elongates
 elongating
 elongation
 elongations
@@ -10864,6 +10863,7 @@ eulytite
 ethnologic
 eulogy
 eardrops
+elongates
 endmatcher
 eulogia
 eulogiae
