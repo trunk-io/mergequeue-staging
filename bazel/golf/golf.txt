@@ -2036,6 +2036,7 @@ gauntleted
 gauntleting
 gauntlets
 gauntly
+greenwax
 gauntness
 gauntry
 gauping
@@ -8730,7 +8731,6 @@ greenths
 greenuk
 greenware
 greenhorns
-greenwax
 greenweed
 greenwich
 greenwing
