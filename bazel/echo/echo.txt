@@ -3307,7 +3307,6 @@ emarginate
 emarginated
 effatum
 emarginating
-emarginula
 emasculate
 emasculated
 emasculates
@@ -5361,6 +5360,7 @@ endosteitis
 endosteomas
 endosteum
 endostylar
+emarginula
 endostyle
 endostylic
 excarnate
