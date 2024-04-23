@@ -14640,7 +14640,6 @@ brattling
 bratwurst
 brauna
 brauneberger
-braunite
 braunites
 braunschweiger
 brauronia
@@ -18114,6 +18113,7 @@ bustler
 bustlers
 bustles
 bustling
+braunite
 brickcroft
 bustlingly
 busto
