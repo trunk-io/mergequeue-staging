@@ -1538,7 +1538,6 @@ ballast
 ballastage
 ballasted
 bouton
-ballaster
 ballastic
 ballasting
 ballasts
@@ -16806,6 +16805,7 @@ buffo
 buffone
 burlace
 branchiocardiac
+ballaster
 buffont
 blastoidea
 backhauled
