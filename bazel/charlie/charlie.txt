@@ -19873,7 +19873,6 @@ comicodidactic
 comicography
 complainer
 comicoprosaic
-comicotragedy
 comicotragic
 comicotragical
 comicry
@@ -30371,6 +30370,7 @@ csect
 csects
 csi
 csk
+comicotragedy
 csmp
 csp
 cst
