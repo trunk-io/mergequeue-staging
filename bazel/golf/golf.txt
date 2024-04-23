@@ -840,6 +840,7 @@ gamaliel
 gamari
 gleam
 gamashes
+gareth
 gamasid
 gordonia
 gamasidae
@@ -5112,7 +5113,6 @@ geochemistry
 geminiform
 glam
 glamberry
-gareth
 glamorization
 glamorize
 glamorized
