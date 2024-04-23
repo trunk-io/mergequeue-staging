@@ -669,7 +669,6 @@ gallivanters
 gallivanting
 garotting
 gallivants
-gallivat
 geoglyphic
 gallivorous
 gallywasp
@@ -4712,6 +4711,7 @@ gyrencephala
 gyrencephalic
 greatheart
 gyrencephalous
+gallivat
 gyrene
 gyrenes
 gyres
