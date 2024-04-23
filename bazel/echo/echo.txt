@@ -1592,7 +1592,6 @@ eglandular
 eglandulose
 eglantine
 eglantines
-eglatere
 eglateres
 eudromias
 eglestonite
@@ -7168,6 +7167,7 @@ envaye
 envapor
 envassal
 envassalage
+eglatere
 envault
 enveigle
 enveil
