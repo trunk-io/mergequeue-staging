@@ -4679,7 +4679,6 @@ fixups
 fixure
 forra
 fixures
-fiz
 fizelyite
 fizgig
 fizgigs
@@ -6632,6 +6631,7 @@ flutterboard
 fluttered
 flutterer
 furnacer
+fiz
 frondlet
 flutterers
 freshened
