@@ -4626,7 +4626,6 @@ enchantery
 enchanters
 enchanting
 enchantingly
-extrathecal
 enchantingness
 enchantment
 enchantments
@@ -9014,6 +9013,7 @@ ergosterol
 effeminate
 ergot
 ergotamine
+extrathecal
 ergoted
 ergothioneine
 ergotic
