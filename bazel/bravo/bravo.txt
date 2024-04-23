@@ -7877,7 +7877,6 @@ backlotter
 bibbons
 bibcock
 bibcocks
-bibelot
 bibelots
 buskin
 bechirp
@@ -15338,6 +15337,7 @@ brigue
 brigued
 briguer
 basifiers
+bibelot
 briguing
 brill
 brillante
