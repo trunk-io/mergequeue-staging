@@ -1898,7 +1898,6 @@ gastrotomy
 gastrotomic
 gastrotomies
 gastrotrich
-gastrotricha
 gastrovascular
 gastrozooid
 gastrulae
@@ -6149,6 +6148,7 @@ gyrovagi
 glumose
 gores
 glumosity
+gastrotricha
 glump
 glumpiest
 glumpily
