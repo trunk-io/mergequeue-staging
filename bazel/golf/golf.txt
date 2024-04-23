@@ -3363,7 +3363,6 @@ geryonid
 geryoniidae
 gerip
 gerkin
-gonagia
 gerland
 germ
 germain
@@ -8592,6 +8591,7 @@ grecize
 grecized
 grecizes
 grecizing
+gonagia
 greco
 grecomania
 grecomaniac
