@@ -10615,7 +10615,6 @@ diplomaing
 diplomas
 deviative
 diplomat
-diplomata
 diplomate
 diplomates
 diplomatical
@@ -16498,6 +16497,7 @@ dhoti
 disguisements
 drachmal
 drachmas
+diplomata
 drachms
 dracin
 deliber
