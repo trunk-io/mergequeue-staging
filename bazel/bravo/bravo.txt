@@ -2200,7 +2200,6 @@ barnacling
 bizant
 banter
 bantered
-banterer
 banterers
 bantery
 bantering
@@ -6102,6 +6101,7 @@ benchland
 benchless
 benchlet
 benchman
+banterer
 benchmark
 burnout
 benchmarked
