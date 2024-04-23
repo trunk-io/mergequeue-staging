@@ -7465,7 +7465,6 @@ betrend
 betrim
 betrinket
 betroth
-betrothal
 betrothals
 betrothed
 betrothing
@@ -16770,6 +16769,7 @@ blasty
 buffaloes
 buffalofishes
 botheration
+betrothal
 buffaloing
 buffalos
 buffball
