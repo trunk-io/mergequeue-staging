@@ -3942,7 +3942,6 @@ emirate
 emirates
 emirs
 eels
-explodent
 endosternite
 emirship
 equinovarus
@@ -4710,6 +4709,7 @@ encyclopediac
 encyclopediacal
 encyclopedial
 encyclopedian
+explodent
 encyclopedias
 encyclopediast
 encyclopedic
