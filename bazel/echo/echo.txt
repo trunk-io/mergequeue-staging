@@ -227,7 +227,6 @@ earwax
 encephalography
 earwaxes
 earwig
-earwigged
 earwiggy
 earwigginess
 earwigs
@@ -6155,6 +6154,7 @@ emblematicize
 enodal
 equiparant
 enodally
+earwigged
 enodate
 epithalamion
 enodation
