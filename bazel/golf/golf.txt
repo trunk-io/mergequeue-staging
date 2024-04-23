@@ -4282,7 +4282,6 @@ gymnonoti
 galinaceous
 gymnopaedes
 gymnoplast
-genealogy
 gymnorhinal
 gymnosoph
 gymnosophy
@@ -6113,6 +6112,7 @@ gluey
 glueyness
 gluelike
 ginger
+genealogy
 gluelikeness
 gluemaker
 gluepot

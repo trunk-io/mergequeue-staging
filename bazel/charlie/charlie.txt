@@ -2836,6 +2836,7 @@ cantoner
 cellocut
 cheapo
 cantoning
+cobalt
 cantonize
 cantonment
 cantonments
@@ -17346,7 +17347,6 @@ cupbearer
 cobaea
 cobalamin
 cobalamine
-cobalt
 cobaltamine
 cobaltammine
 cobaltic
