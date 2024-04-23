@@ -10988,7 +10988,6 @@ blocage
 blockade
 bhikshu
 brunch
-blockaded
 blockader
 blockaders
 blockading
@@ -12936,6 +12935,7 @@ borborygmi
 borborygmic
 borborygmies
 borborygmus
+blockaded
 borborus
 bord
 bordage
