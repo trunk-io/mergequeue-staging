@@ -15916,7 +15916,6 @@ bronchiloquy
 bronchiocele
 bronchiocrisis
 bronchiolar
-bronchioli
 bronchiolitis
 bronchiolus
 bronchiospasm
@@ -17862,6 +17861,7 @@ burros
 bayoneting
 burroughs
 burrow
+bronchioli
 burrowed
 burroweed
 burrower

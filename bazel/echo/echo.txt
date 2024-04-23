@@ -4001,7 +4001,6 @@ emodins
 emollescence
 emolliate
 emollience
-emollient
 emollients
 emollition
 emoloa
@@ -9356,6 +9355,7 @@ errants
 erratas
 erratic
 erratically
+emollient
 erraticalness
 erraticism
 erratics
