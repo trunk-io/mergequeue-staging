@@ -1010,6 +1010,7 @@ groovy
 gammoned
 gammoner
 grundlov
+glycerolysis
 gammoners
 gammoning
 gammons
@@ -5438,7 +5439,6 @@ glycerizin
 glycerogel
 glycerole
 glycerolyses
-glycerolysis
 glycerols
 glycerophosphate
 glycerophosphoric
