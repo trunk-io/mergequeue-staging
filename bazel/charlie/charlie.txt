@@ -613,7 +613,6 @@ caespitose
 caespitosely
 caestus
 caestuses
-caesura
 caesurae
 caesural
 caesuras
@@ -2072,6 +2071,7 @@ conclusively
 calcaneus
 cample
 chaetopoda
+caesura
 campman
 campmaster
 campo
