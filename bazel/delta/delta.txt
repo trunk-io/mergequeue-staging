@@ -4453,6 +4453,7 @@ demency
 dement
 dementate
 dementation
+dialogism
 demented
 dementedly
 dementedness
@@ -8364,7 +8365,6 @@ dialogical
 dialogised
 dactylitic
 dialogising
-dialogism
 dialogist
 dialogistic
 dialogistical
