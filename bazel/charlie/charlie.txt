@@ -1067,7 +1067,6 @@ calciphylactic
 calciphylaxis
 calciphile
 calciphilic
-calciphilous
 calciphobe
 calciphobic
 calciphobous
@@ -27960,6 +27959,7 @@ craftworker
 crag
 craggan
 cragged
+calciphilous
 craggedness
 craggy
 craggier
