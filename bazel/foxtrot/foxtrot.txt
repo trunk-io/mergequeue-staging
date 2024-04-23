@@ -1080,6 +1080,7 @@ farmout
 francisca
 fisc
 farmplace
+finials
 farms
 farmscape
 farmstead
@@ -4042,7 +4043,6 @@ fingu
 fini
 faldage
 finialed
-finials
 finical
 finically
 finicalness
