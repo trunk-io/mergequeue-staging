@@ -4119,7 +4119,6 @@ beanshooter
 beanstalk
 beanstalks
 bibbs
-beanweed
 beaproned
 bear
 bearability
@@ -8413,6 +8412,7 @@ bignonia
 bignoniaceae
 bignoniaceous
 bignoniad
+beanweed
 bigot
 bignonias
 bronzings
