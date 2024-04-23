@@ -413,7 +413,6 @@ ebulliometer
 epitympanic
 ebulliometry
 ebullioscope
-ebullioscopy
 extratellurian
 ebullioscopic
 ebullitions
@@ -8338,6 +8337,7 @@ epithalamic
 epithalamium
 epithalamiumia
 encipherer
+ebullioscopy
 epithalamiums
 epithalamize
 eurhodine
