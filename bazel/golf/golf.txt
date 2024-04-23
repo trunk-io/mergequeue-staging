@@ -2074,7 +2074,6 @@ guttar
 gauzily
 gavage
 gavages
-gavall
 gave
 gavel
 gaveled
@@ -7080,6 +7079,7 @@ goosefishes
 gooseflesh
 gooseflower
 goosefoot
+gavall
 gitana
 goosefoots
 goosegirl
