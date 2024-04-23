@@ -5712,7 +5712,6 @@ categorist
 categorization
 categorizations
 categorize
-categorized
 categorizer
 categorizers
 childless
@@ -8979,6 +8978,7 @@ charier
 chariest
 charily
 chariness
+categorized
 charing
 coatracks
 cougar
