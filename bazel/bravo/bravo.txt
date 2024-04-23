@@ -507,6 +507,7 @@ backslider
 blaspheming
 backsliders
 backslides
+bandarlog
 backsliding
 backslidingness
 backspaced
@@ -1887,7 +1888,6 @@ bandanna
 bandannaed
 bandannas
 bandar
-bandarlog
 bandbox
 bandboxes
 bandboxical
