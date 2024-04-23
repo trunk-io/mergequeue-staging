@@ -4982,6 +4982,7 @@ glacialist
 grammatic
 glacialize
 glaciaria
+goldstone
 glaciarium
 glaciate
 glaciated
@@ -6658,7 +6659,6 @@ goldsmithery
 goldsmiths
 goldspink
 gnathopod
-goldstone
 goldthread
 goldtit
 goldurn
