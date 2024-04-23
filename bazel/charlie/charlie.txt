@@ -11408,7 +11408,6 @@ choanophorous
 choanosomal
 choanosome
 choate
-choaty
 chob
 chobdar
 chobie
@@ -20871,6 +20870,7 @@ compotier
 compotiers
 compotor
 compoundable
+choaty
 compounded
 clar
 compoundedness
