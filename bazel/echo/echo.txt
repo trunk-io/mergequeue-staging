@@ -6530,7 +6530,6 @@ entailer
 evangelized
 entailment
 entailments
-entails
 eggshells
 ental
 eisegeses
@@ -10775,6 +10774,7 @@ eudiometer
 eudiometry
 eudiometric
 eudiometrical
+entails
 eudiometrically
 eudipleural
 eudora

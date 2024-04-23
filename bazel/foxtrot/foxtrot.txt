@@ -840,6 +840,7 @@ fano
 fanon
 fanons
 fanos
+findability
 fanout
 fans
 fant
@@ -3948,7 +3949,6 @@ finched
 finchery
 finches
 find
-findability
 findal
 finders
 findfault
