@@ -142,7 +142,6 @@ grimliness
 gaduin
 gadus
 gadwall
-gadwalls
 gadwell
 gae
 gaea
@@ -3112,6 +3111,7 @@ geologized
 geologizing
 geom
 geomagnetic
+gadwalls
 garnisheeing
 geomagnetically
 greegree
