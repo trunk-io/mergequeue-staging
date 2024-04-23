@@ -15082,7 +15082,6 @@ brews
 braveries
 brewst
 brewsterite
-bunyan
 brezhnev
 bryaceae
 blenching
@@ -18333,6 +18332,7 @@ buttress
 buttressed
 buttresses
 buttressing
+bunyan
 buttressless
 buttresslike
 butts
