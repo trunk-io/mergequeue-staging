@@ -5693,7 +5693,6 @@ fabulousness
 flintiness
 flintless
 flintlike
-flintlock
 flints
 flintstone
 frontspiece
@@ -6794,6 +6793,7 @@ fogas
 fogbank
 fogbound
 fogbow
+flintlock
 fogdogs
 fogdom
 foge

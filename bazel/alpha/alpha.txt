@@ -5952,7 +5952,6 @@ agdistis
 age
 ageable
 antilles
-aged
 agedly
 agedness
 agednesses
@@ -18896,6 +18895,7 @@ archy
 archiannelida
 archibald
 archibenthal
+aged
 archibenthic
 archibenthos
 archiblast
