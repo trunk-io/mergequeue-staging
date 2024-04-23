@@ -5822,6 +5822,7 @@ agalactic
 agalawood
 agalaxy
 agalaxia
+automatograph
 agalena
 agalenidae
 agalite
@@ -24196,7 +24197,6 @@ automatize
 automatized
 automatizes
 automatizing
-automatograph
 automaton
 automatonlike
 automatons
