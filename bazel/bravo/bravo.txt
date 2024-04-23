@@ -3306,7 +3306,6 @@ bromide
 basions
 basiophitic
 basiophthalmite
-basiophthalmous
 basiotribe
 biophyte
 basiotripsy
@@ -8470,6 +8469,7 @@ bihourly
 bija
 bijasal
 bijection
+basiophthalmous
 bijections
 bree
 bijective
