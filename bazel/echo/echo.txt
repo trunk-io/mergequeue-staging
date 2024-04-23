@@ -5522,7 +5522,6 @@ energize
 energized
 energizer
 estall
-energizers
 energizes
 energizing
 energumenon
@@ -12996,6 +12995,7 @@ embarment
 expeditely
 expediter
 expediters
+energizers
 expedites
 expediting
 expedition
