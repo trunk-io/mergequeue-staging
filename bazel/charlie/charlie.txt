@@ -3328,7 +3328,6 @@ capsulize
 capsulized
 capsulizing
 capsulociliary
-capsulogenous
 capsulolenticular
 capsulopupillary
 capsulorrhaphy
@@ -7732,6 +7731,7 @@ certificate
 certificated
 certificates
 collisions
+capsulogenous
 certification
 certifications
 certificative
