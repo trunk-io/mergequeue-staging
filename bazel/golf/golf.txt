@@ -553,7 +553,6 @@ galleass
 galleasses
 gastness
 galled
-galley
 gnomonics
 galleyman
 gallein
@@ -9084,6 +9083,7 @@ gripes
 gripgrass
 griphite
 genyoplasty
+galley
 goniale
 gryphite
 gryphon
