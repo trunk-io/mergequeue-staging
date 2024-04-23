@@ -3421,6 +3421,7 @@ deflocculator
 deflocculent
 deflorate
 deflorations
+desmarestia
 deflore
 deflorescence
 dropforged
@@ -7021,7 +7022,6 @@ destines
 destinezite
 destiny
 destinies
-desmarestia
 destinism
 destituent
 daystreak
