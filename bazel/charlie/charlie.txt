@@ -243,7 +243,6 @@ cachepot
 cholane
 capitulations
 cachepots
-caches
 cachespell
 cagayans
 cachet
@@ -23742,6 +23741,7 @@ contraregularity
 contraremonstrance
 contrarevolutionary
 contrary
+caches
 contrariant
 contrariantly
 contraries
