@@ -4709,7 +4709,6 @@ eloge
 encyclopaedian
 encyclopaedic
 encyclopaedical
-encyclopaedically
 encyclopaedism
 encyclopaedist
 encyclopedia
@@ -11493,6 +11492,7 @@ eventration
 events
 eventual
 espece
+encyclopaedically
 eventuality
 eventualities
 eventualize
