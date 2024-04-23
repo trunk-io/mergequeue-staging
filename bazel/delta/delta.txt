@@ -3163,7 +3163,6 @@ defeats
 defeature
 defecant
 defecate
-dissymmetrically
 defecated
 defecates
 defecating
@@ -7725,6 +7724,7 @@ disentangles
 devoicing
 devoid
 devoir
+dissymmetrically
 devoirs
 devolatilise
 devolatilised
