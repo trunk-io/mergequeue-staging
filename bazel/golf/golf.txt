@@ -1261,6 +1261,7 @@ gapeseed
 gapeseeds
 gapeworm
 gapeworms
+groove
 gapingly
 gapingstock
 gapless
@@ -9319,7 +9320,6 @@ grooper
 groose
 grimp
 groot
-groove
 grooved
 groovelike
 grooverhead

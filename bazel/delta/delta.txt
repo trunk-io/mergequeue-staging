@@ -796,7 +796,6 @@ dandruffy
 dandruffs
 dane
 daneball
-danebrog
 daneflower
 danegeld
 danegelds
@@ -10796,6 +10795,7 @@ directest
 directeur
 directexamination
 directing
+danebrog
 direction
 directional
 discarding
