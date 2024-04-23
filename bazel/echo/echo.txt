@@ -3151,7 +3151,6 @@ elseways
 elsewhat
 elsewhen
 elsewhere
-elsewise
 elshin
 exhibitorship
 elsholtzia
@@ -5708,6 +5707,7 @@ engerminate
 enghle
 enghosted
 engild
+elsewise
 engilded
 engilding
 empacket
