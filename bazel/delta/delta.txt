@@ -6264,7 +6264,6 @@ dermatoplastic
 dermatopnagic
 dermatopsy
 dermatoptera
-dermatoptic
 desirously
 dermatorrhagia
 dermatorrhea
@@ -14724,6 +14723,7 @@ derogates
 docosane
 discophorous
 docosanoic
+dermatoptic
 docquet
 docs
 doctor
