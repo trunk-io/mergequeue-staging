@@ -7072,7 +7072,6 @@ fon
 fonctionnaire
 fleets
 fond
-flavorlessness
 fulfilment
 fondaco
 fondant
@@ -9885,6 +9884,7 @@ freres
 frescade
 frescoed
 ferity
+flavorlessness
 frescoers
 frescoing
 fernambuck
