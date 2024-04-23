@@ -1500,6 +1500,7 @@ eftsoon
 eftsoons
 eg
 egad
+expulsions
 eligent
 egal
 egalitarian
@@ -13403,7 +13404,6 @@ expulses
 expulsion
 ewer
 earlyish
-expulsions
 expulsive
 expulsory
 expunction
