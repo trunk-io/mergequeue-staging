@@ -1761,7 +1761,6 @@ feather
 featherback
 featherbed
 funebrous
-featherbedded
 featherbird
 featherbone
 featherbrain
@@ -9837,6 +9836,7 @@ frenne
 frenula
 frenular
 frenulum
+featherbedded
 frenum
 frenums
 frenuna
