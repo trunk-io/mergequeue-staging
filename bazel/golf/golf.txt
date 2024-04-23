@@ -5150,7 +5150,6 @@ glanderous
 glanders
 gladstonianism
 glandes
-gemmiparity
 glanditerous
 gorgonacea
 glandlike
@@ -7857,6 +7856,7 @@ gramp
 grampa
 gramper
 gramps
+gemmiparity
 grampus
 gagor
 grateless
