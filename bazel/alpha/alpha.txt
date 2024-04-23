@@ -4011,6 +4011,7 @@ adjudgeable
 adjudged
 adjudger
 adjudges
+assimilates
 aleyrodidae
 adjudging
 adjudgment
@@ -21763,7 +21764,6 @@ assimilability
 assimilable
 amiced
 assimilated
-assimilates
 assimilating
 aerophobia
 assimilationist
