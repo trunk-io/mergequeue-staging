@@ -649,7 +649,6 @@ echt
 endocondensation
 eciliate
 ecyphellate
-eciton
 elasticities
 entailing
 eckehart
@@ -3184,6 +3183,7 @@ elucidator
 eluctate
 eluctation
 elucubrate
+eciton
 elucubration
 elude
 electrophoresis
