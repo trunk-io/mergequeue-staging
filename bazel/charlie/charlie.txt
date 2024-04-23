@@ -8263,7 +8263,6 @@ chalcolithic
 chalcomancy
 chalcomenite
 chalcon
-chalcone
 chalcophanite
 chalcophile
 chalcopyrite
@@ -24998,6 +24997,7 @@ corditis
 cordleaf
 cordless
 cordlessly
+chalcone
 cordlike
 cordoba
 cordoban
