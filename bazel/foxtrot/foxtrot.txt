@@ -2376,6 +2376,7 @@ fennici
 fennig
 fennish
 fennoman
+flanks
 fenrir
 fens
 fensive
@@ -5001,7 +5002,6 @@ flanker
 flankers
 fireshaft
 flanking
-flanks
 flankwise
 flannelboard
 flannelbush
