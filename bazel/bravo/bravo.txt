@@ -1472,7 +1472,6 @@ baliti
 balize
 balk
 balkan
-balkanic
 balkanization
 balkanize
 balkanized
@@ -6644,6 +6643,7 @@ berdaches
 berdash
 birotation
 bere
+balkanic
 burrio
 berean
 bereareft
