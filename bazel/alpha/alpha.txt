@@ -1273,7 +1273,6 @@ acantha
 acanthaceous
 acanthad
 acantharia
-acanthi
 acanthia
 acanthial
 acanthin
@@ -20334,6 +20333,7 @@ arrowstone
 arrowweed
 arrowwood
 arrowworm
+acanthi
 arroz
 arruague
 ars
