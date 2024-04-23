@@ -6844,6 +6844,7 @@ entitative
 entitatively
 entities
 emetin
+excerptor
 entitle
 epitomizing
 entitled
@@ -12224,7 +12225,6 @@ exculpation
 exculpations
 exculpative
 evirato
-excerptor
 exculpatorily
 excurrent
 excurse
