@@ -4669,7 +4669,6 @@ girasol
 girasole
 girasoles
 gyrate
-gyrated
 gyrates
 gastroenteroptosis
 gyrating
@@ -6258,6 +6257,7 @@ gnathions
 gnathism
 gnathite
 gnathites
+gyrated
 garuda
 gynaecomasty
 gnathitis
