@@ -3237,7 +3237,6 @@ fict
 fictation
 fictileness
 fictility
-farsang
 fiction
 fictional
 fictionalize
@@ -5868,6 +5867,7 @@ floccilation
 floccillation
 floccing
 floccose
+farsang
 freestyle
 floccosely
 flocculable
