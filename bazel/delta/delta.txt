@@ -7793,7 +7793,6 @@ devourment
 devours
 devout
 devoutful
-devoutless
 devoutlessly
 devoutlessness
 devoutly
@@ -10079,6 +10078,7 @@ dynamophone
 dynamos
 dynamoscope
 dynamostatic
+devoutless
 diancecht
 deprivation
 dinantian
