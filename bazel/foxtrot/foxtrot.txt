@@ -49,7 +49,6 @@ fabronia
 fabroniaceae
 fabula
 fermatas
-fabular
 foreshowing
 fabulate
 fabulize
@@ -4420,6 +4419,7 @@ frolicful
 fingerflower
 fishyard
 fishyback
+fabular
 fishier
 fishify
 fishified
