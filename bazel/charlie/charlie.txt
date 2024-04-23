@@ -7589,7 +7589,6 @@ cerebrotonia
 cerebrovascular
 cerebrovisceral
 cerebrum
-chaumontel
 cerecloth
 cellarway
 cerecloths
@@ -24011,6 +24010,7 @@ convention
 conventional
 conventionalisation
 conventionalise
+chaumontel
 conventionalised
 conventionalising
 conventionalism
