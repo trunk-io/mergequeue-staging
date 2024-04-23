@@ -1128,7 +1128,6 @@ farseeing
 farseeingness
 farseer
 farset
-farsi
 farsight
 farsighted
 fart
@@ -5402,6 +5401,7 @@ fleecily
 fleeciness
 fundamentalness
 fleeing
+farsi
 fleer
 fleered
 fleerer
