@@ -4193,7 +4193,6 @@ feminineness
 firebombs
 fireboot
 firebote
-firebox
 frogflower
 fluavil
 foreby
@@ -5010,6 +5009,7 @@ flannelet
 flannelette
 flannelflower
 flanneling
+firebox
 flannelleaf
 flannelleaves
 flannelled
