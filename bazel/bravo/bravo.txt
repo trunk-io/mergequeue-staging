@@ -9992,7 +9992,6 @@ byways
 bywalk
 bywalking
 byward
-biweeklies
 biwinter
 bywoner
 bronchioles
@@ -11170,6 +11169,7 @@ blot
 blotch
 blotched
 blotches
+biweeklies
 blotchy
 blotchier
 blotchiest
