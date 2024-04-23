@@ -13859,7 +13859,6 @@ distinctive
 distinctively
 distinctiveness
 distinctly
-distinctness
 distinctor
 distingue
 distinguee
@@ -13882,6 +13881,7 @@ distitle
 distn
 dystocia
 dystocial
+distinctness
 dystocias
 decolourise
 distoclusion
