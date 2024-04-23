@@ -505,6 +505,7 @@ falderols
 faldetta
 faldfee
 falding
+floorings
 fretful
 faldstool
 faldworth
@@ -5987,7 +5988,6 @@ floored
 floorer
 floorhead
 flooring
-floorings
 forementioned
 fluidizing
 floorless

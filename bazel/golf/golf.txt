@@ -7203,7 +7203,6 @@ guls
 gorgonise
 gorgonised
 gorgonising
-greenthumbed
 gorgonizing
 gorgonlike
 gorgons
@@ -8977,6 +8976,7 @@ grill
 grillade
 grilladed
 grillades
+greenthumbed
 grillage
 grillages
 grille
