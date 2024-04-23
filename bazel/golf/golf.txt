@@ -6088,7 +6088,6 @@ glucosamine
 glucosan
 glucosane
 glucosazone
-gliss
 glucose
 glucosemia
 glucosid
@@ -6758,6 +6757,7 @@ gonadial
 gonadotrope
 gonadotrophic
 gonadotrophin
+gliss
 gonadotropic
 gemsbuck
 gonadotropin
