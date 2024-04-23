@@ -7322,7 +7322,6 @@ alap
 alapa
 anoles
 alares
-alarge
 alary
 alaria
 alaric
@@ -14510,6 +14509,7 @@ anthramin
 anthramine
 anthranil
 anthranyl
+alarge
 anthranilate
 anthranilic
 anthranoyl
