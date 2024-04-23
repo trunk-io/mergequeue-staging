@@ -4154,6 +4154,7 @@ firca
 foregirth
 fyrd
 fortyfold
+furazane
 fowage
 fyrdung
 faldistory
@@ -11318,7 +11319,6 @@ furanose
 furanoses
 furanoside
 furazan
-furazane
 furazolidone
 furbearer
 furbelow
