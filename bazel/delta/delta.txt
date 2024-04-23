@@ -3916,7 +3916,6 @@ dekagrams
 dekaliters
 dekalitre
 dekameter
-dekameters
 dekametre
 dekaparsec
 dekapode
@@ -4226,6 +4225,7 @@ deliverers
 deliveress
 deliveries
 deliveryman
+dekameters
 deliverymen
 delivering
 deliverly
