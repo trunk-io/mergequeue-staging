@@ -572,7 +572,6 @@ caedmonian
 caedmonic
 caelian
 caelometer
-caelum
 caelus
 caenogaea
 caenogaean
@@ -13815,6 +13814,7 @@ cynegild
 cinel
 cinema
 cinemactic
+caelum
 cinemagoer
 cinemagoers
 cinemas
