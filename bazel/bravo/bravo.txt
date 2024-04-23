@@ -10419,7 +10419,6 @@ blasphemies
 blasphemous
 blasphemously
 blasphemousness
-blast
 blastaea
 blasted
 blastema
@@ -12698,6 +12697,7 @@ bookplates
 bookpress
 bookracks
 bookrest
+blast
 bookrests
 bookroom
 books
