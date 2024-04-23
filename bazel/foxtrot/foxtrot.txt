@@ -76,7 +76,6 @@ faceman
 facemark
 facepiece
 faceplate
-fessed
 fettler
 facer
 facers
@@ -4572,6 +4571,7 @@ fitch
 fitche
 fitched
 fitchee
+fessed
 fobbed
 fitcher
 furriest
