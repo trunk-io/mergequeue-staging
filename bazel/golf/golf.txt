@@ -3344,7 +3344,6 @@ gerenda
 gerendum
 gerent
 gerenuks
-galleria
 gyral
 gardened
 gerfalcon
@@ -7770,6 +7769,7 @@ grayout
 grayouts
 gypsyhead
 graip
+galleria
 grays
 graysby
 graisse
