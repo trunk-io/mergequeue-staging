@@ -7696,7 +7696,6 @@ biacetylene
 bewrayingly
 bewrayment
 bewrays
-bewrap
 bewrapped
 bewrapping
 briggsian
@@ -9444,6 +9443,7 @@ birdieback
 birdied
 blossomed
 birdieing
+bewrap
 birdies
 birding
 bulbochaete
