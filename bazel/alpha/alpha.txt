@@ -7749,6 +7749,7 @@ alderling
 alderman
 aldermanate
 aldermancy
+austenitized
 aldermanic
 aldermanical
 aldermanity
@@ -14058,7 +14059,6 @@ antarchy
 antarchism
 antarchist
 antarchistic
-austenitized
 auditioning
 araucano
 antarchistical
