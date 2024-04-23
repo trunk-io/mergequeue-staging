@@ -212,7 +212,6 @@ factum
 facture
 factures
 facula
-flatway
 faculae
 facular
 faculative
@@ -4230,6 +4229,7 @@ fanion
 froust
 firehouse
 fluff
+flatway
 firehouses
 fireless
 firelight
