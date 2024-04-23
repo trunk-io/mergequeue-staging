@@ -16117,6 +16117,7 @@ clifts
 clima
 climaciaceae
 climaciaceous
+conplane
 climacium
 climacter
 climactery
@@ -22684,7 +22685,6 @@ conoscenti
 conoscope
 conoscopic
 conphaseolin
-conplane
 centuriation
 conquassate
 conquedle
