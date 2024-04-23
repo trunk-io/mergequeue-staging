@@ -3155,7 +3155,6 @@ bonnetmen
 baseplug
 basepoint
 baser
-baserunning
 bases
 bash
 bashalick
@@ -9370,6 +9369,7 @@ botanising
 biracial
 biracialism
 bawdry
+baserunning
 biradial
 biradiate
 biradiated
