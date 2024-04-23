@@ -3658,6 +3658,7 @@ elihu
 embryocardia
 embryoctony
 embryoctonic
+entoptoscopy
 embryoferous
 embryogenesis
 embryogenetic
@@ -6966,7 +6967,6 @@ entoptically
 engraff
 entoptics
 entoptoscope
-entoptoscopy
 entoptoscopic
 entorganism
 entosclerite
