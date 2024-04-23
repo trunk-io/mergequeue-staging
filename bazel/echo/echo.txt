@@ -11875,7 +11875,6 @@ exasperater
 exasperates
 entericoid
 exasperatingly
-exasperation
 exasperative
 exaspidean
 extort
@@ -12507,6 +12506,7 @@ exhilarate
 enocyte
 exhilarated
 exhilarates
+exasperation
 exhilarating
 exhilaratingly
 exhilarator
