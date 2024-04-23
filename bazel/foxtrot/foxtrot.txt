@@ -771,6 +771,7 @@ fandangos
 fandom
 fane
 fanega
+flatness
 fanegada
 fanegadas
 fanegas
@@ -5151,7 +5152,6 @@ flatlings
 flatlong
 flatman
 flatmen
-flatness
 flats
 flatted
 flattened
