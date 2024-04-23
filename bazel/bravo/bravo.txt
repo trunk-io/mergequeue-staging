@@ -12075,6 +12075,7 @@ boldfacing
 batodendron
 boldhearted
 boldheartedly
+bedeviled
 boldheartedness
 boldin
 boldine
@@ -17208,7 +17209,6 @@ bullsnake
 bullsticker
 bullswool
 bullterrier
-bedeviled
 bulltoad
 blackit
 bossa
