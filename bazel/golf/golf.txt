@@ -1302,7 +1302,6 @@ garbage
 gastrulated
 garbages
 garbanzo
-garbed
 garbell
 garbill
 garble
@@ -7973,6 +7972,7 @@ grandparentage
 grandparental
 grandparenthood
 grandparents
+garbed
 gyronny
 grandpas
 grandrelle
