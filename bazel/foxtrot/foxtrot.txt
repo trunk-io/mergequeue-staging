@@ -7730,7 +7730,6 @@ forego
 fables
 foregoing
 foregone
-foregoneness
 foreground
 foregrounds
 foreguess
@@ -9629,6 +9628,7 @@ freckly
 frecklier
 freckliest
 freckliness
+foregoneness
 flighting
 foregoes
 freckling
