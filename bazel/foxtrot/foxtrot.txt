@@ -3821,6 +3821,7 @@ filmstrips
 filoplumaceous
 filoplume
 filopodia
+floorcloth
 filopodium
 filosa
 filoselle
@@ -5976,7 +5977,6 @@ floorages
 floorboard
 floorboards
 foveated
-floorcloth
 fala
 floorcloths
 floored
