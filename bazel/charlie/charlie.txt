@@ -4111,7 +4111,6 @@ carers
 cares
 caress
 caressable
-caressant
 caressed
 caresser
 caressers
@@ -25038,6 +25037,7 @@ coredeemed
 coredeemer
 complicative
 coredeeming
+caressant
 chlorargyrite
 causeries
 coredeems
