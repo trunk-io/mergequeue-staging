@@ -7793,7 +7793,6 @@ cervical
 cervicapra
 cervicaprine
 cervicectomy
-cervices
 cervicicardiac
 cervicide
 cerviciplex
@@ -19128,6 +19127,7 @@ collochromate
 collock
 collocution
 collocutor
+cervices
 collocutory
 collodiochloride
 collodion
