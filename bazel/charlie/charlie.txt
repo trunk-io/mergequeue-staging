@@ -22341,7 +22341,6 @@ congridae
 congroid
 compoing
 congrue
-congruence
 congruences
 crystallitis
 cogswellia
@@ -24742,6 +24741,7 @@ coprophyte
 coprophobia
 coprophobic
 coproprietor
+congruence
 coproprietorship
 coprose
 coprosma

@@ -5270,6 +5270,7 @@ afetal
 aff
 affa
 affability
+autopoint
 affable
 affableness
 affabrous
@@ -24295,7 +24296,6 @@ autoplasty
 autoplastic
 autoplastically
 autopneumatic
-autopoint
 autopoisonous
 autopolar
 autopolyploid
