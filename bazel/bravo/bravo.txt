@@ -9169,7 +9169,6 @@ biorhythmic
 bios
 biosatellite
 biosatellites
-bioscience
 biosciences
 bathmotropic
 bioscientific
@@ -12952,6 +12951,7 @@ bordelaise
 bordello
 bordellos
 bordels
+bioscience
 border
 bordereau
 bordereaux
