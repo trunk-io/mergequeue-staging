@@ -5883,6 +5883,7 @@ flatnose
 flocculator
 floccule
 flocculence
+foreship
 flocculency
 flocculent
 flocculently
@@ -8018,7 +8019,6 @@ foresheet
 foresheets
 frangulaceae
 foreshift
-foreship
 foreshock
 foreshoe
 foreshop
