@@ -3871,7 +3871,6 @@ emesis
 emetia
 emetic
 emetical
-emetics
 emetine
 emetines
 entrapped
@@ -9500,6 +9499,7 @@ escapable
 escapade
 escapado
 escapage
+emetics
 escape
 escaped
 escapees
