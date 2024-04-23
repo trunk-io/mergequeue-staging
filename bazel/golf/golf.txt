@@ -5279,7 +5279,6 @@ goblinize
 glaucophyllous
 glaucosis
 galyak
-glaucous
 glaucously
 gregorianizer
 glaucousness
@@ -5796,6 +5795,7 @@ glomerulate
 glomerule
 glomerulitis
 glomerulonephritis
+glaucous
 glomerulose
 gelose
 geomorphogeny
