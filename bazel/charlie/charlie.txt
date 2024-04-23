@@ -2941,6 +2941,7 @@ capacity
 capacities
 capacitively
 capacitor
+calyculus
 capacitors
 capanne
 cystolithectomy
@@ -17292,7 +17293,6 @@ coathangers
 coati
 coatie
 coatimondie
-calyculus
 coatimundi
 coating
 coatings
