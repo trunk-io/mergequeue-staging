@@ -10977,6 +10977,7 @@ bloaters
 bloating
 bloats
 blob
+bricksetter
 blobby
 blobbier
 bricklay
@@ -15161,7 +15162,6 @@ brickmaking
 balloters
 brickmason
 brickred
-bricksetter
 bricktimber
 bricktop
 brickwall
