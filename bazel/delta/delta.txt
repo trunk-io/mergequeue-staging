@@ -12344,7 +12344,6 @@ dishonors
 dishonour
 dishonourable
 dishonourableness
-dishonourably
 dishonoured
 dishonourer
 dishonouring
@@ -17505,6 +17504,7 @@ drugged
 drugger
 duplon
 deliverability
+dishonourably
 druggery
 disentwining
 druggeries
