@@ -2756,7 +2756,6 @@ elements
 elemicin
 elemin
 elemis
-ecthyma
 elemong
 eulamellibranch
 elench
@@ -5344,6 +5343,7 @@ endospermous
 endospore
 entozoa
 encrypt
+ecthyma
 endosporia
 endosporic
 endosporium
