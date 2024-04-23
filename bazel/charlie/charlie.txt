@@ -16857,6 +16857,7 @@ cluff
 cluing
 clum
 clumber
+combinatoric
 counterclaimed
 clumbers
 clump
@@ -19702,7 +19703,6 @@ combinator
 combinatory
 combinatorial
 combinatorially
-combinatoric
 combinatorics
 combinators
 combind
