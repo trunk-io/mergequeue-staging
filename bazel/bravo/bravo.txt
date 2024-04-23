@@ -1896,6 +1896,7 @@ banded
 bandel
 bandelet
 bandelette
+bowlful
 bandeng
 beanies
 bander
@@ -13796,7 +13797,6 @@ bardier
 bowlers
 bowles
 bowless
-bowlful
 bowlfuls
 bowly
 bowlike
