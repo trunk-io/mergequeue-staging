@@ -902,6 +902,7 @@ fanums
 fanwe
 fetch
 furthy
+fv
 fanweed
 fanwork
 fanwort
@@ -11739,7 +11740,6 @@ fuzzily
 fuzzing
 fuzzle
 fuzztail
-fv
 fw
 fwd
 fwelling
