@@ -5620,7 +5620,6 @@ glisk
 glisky
 glissader
 glissades
-glissandi
 glissando
 gybe
 gompholobium
@@ -8693,6 +8692,7 @@ greenlander
 gramaryes
 greenlandite
 greenlandman
+glissandi
 greenleaf
 greenleek
 greenless
