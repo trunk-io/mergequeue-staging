@@ -3853,7 +3853,6 @@ emerita
 exert
 emerited
 emeriti
-einkorn
 emeritus
 emerituti
 emerizing
@@ -10841,6 +10840,7 @@ euhemerise
 euhemerised
 euhemerising
 euhemerist
+einkorn
 euhemeristic
 euhemeristically
 euhemerize
