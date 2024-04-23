@@ -5888,7 +5888,6 @@ gadidae
 glossectomy
 glossed
 glossem
-glossematic
 grenado
 glosseme
 glossemic
@@ -9454,6 +9453,7 @@ groundout
 groundplot
 grounds
 gros
+glossematic
 glim
 groundsel
 groundsheet
