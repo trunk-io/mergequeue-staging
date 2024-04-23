@@ -17623,7 +17623,6 @@ appeared
 appearer
 appearers
 appearing
-appears
 appeasable
 appeasableness
 appeasably
@@ -22123,6 +22122,7 @@ astigmoscope
 astylar
 astilbe
 astylospongia
+appears
 astylosternus
 astint
 astipulate
