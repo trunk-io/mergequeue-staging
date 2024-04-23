@@ -1616,7 +1616,6 @@ favorer
 favorers
 favoring
 favorites
-favorless
 favors
 favosely
 favosite
@@ -5934,6 +5933,7 @@ flong
 flood
 floodable
 floodage
+favorless
 floodboard
 floodcock
 flooded
