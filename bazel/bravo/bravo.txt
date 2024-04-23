@@ -6037,7 +6037,6 @@ bemoanable
 bucketman
 bemoaned
 bemoaner
-bemoaningly
 bemoat
 bemock
 bemocked
@@ -8367,6 +8366,7 @@ brumby
 beachiest
 bigeminies
 bigeminum
+bemoaningly
 bigener
 bigeneric
 bigential
