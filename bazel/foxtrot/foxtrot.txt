@@ -93,6 +93,7 @@ facetiae
 faceting
 facets
 faceup
+fouler
 facework
 facy
 facial
@@ -8984,7 +8985,6 @@ foulbrood
 foulder
 fouldre
 fouled
-fouler
 foulings
 fname
 foulish
