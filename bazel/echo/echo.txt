@@ -5207,6 +5207,7 @@ endome
 echinostomiasis
 endomesoderm
 endometry
+entocuniform
 endometria
 endometrial
 endometriosis
@@ -6871,7 +6872,6 @@ entocornea
 emblements
 enwombing
 entocranial
-entocuniform
 eyehook
 entodermal
 entodermic
