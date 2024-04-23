@@ -22306,7 +22306,6 @@ congregant
 congregate
 congregated
 congregates
-congregating
 congregation
 congregational
 congregationalism
@@ -24281,6 +24280,7 @@ cooker
 cookery
 cookeries
 cookers
+congregating
 cookhouse
 cookhouses
 cooky

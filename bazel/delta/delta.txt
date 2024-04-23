@@ -812,6 +812,7 @@ daneweeds
 danewort
 daneworts
 dang
+disdain
 danged
 danger
 diff
@@ -11846,7 +11847,6 @@ discustom
 discutable
 discute
 discutient
-disdain
 disdainable
 disdained
 disdainer
