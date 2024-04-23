@@ -5298,6 +5298,7 @@ endere
 endorser
 endorsers
 electrodialyzer
+enlargement
 endorses
 endorsingly
 endorsors
@@ -6014,7 +6015,6 @@ enlarged
 enlargedly
 enhaloed
 enlargedness
-enlargement
 entrance
 eupepsias
 enlargements
