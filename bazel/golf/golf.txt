@@ -5435,7 +5435,6 @@ glycerite
 glycerize
 glycerizin
 glycerogel
-glycerolate
 glycerole
 glycerolyses
 glycerolysis
@@ -6810,6 +6809,7 @@ gonfanons
 gong
 gonged
 gonging
+glycerolate
 gonglike
 gongman
 gongorist
