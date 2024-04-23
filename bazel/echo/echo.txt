@@ -5450,6 +5450,7 @@ endshake
 endsheet
 endship
 endue
+ergmeter
 exploration
 enduement
 enduing
@@ -12903,7 +12904,6 @@ expansionism
 equilibrium
 expansionist
 expansionistic
-ergmeter
 exhusband
 expansionists
 efford
