@@ -3335,6 +3335,7 @@ basket
 basketball
 basketballer
 basketballs
+behusband
 basketful
 basketfuls
 basketing
@@ -6127,7 +6128,6 @@ byte
 bendees
 bendell
 bender
-behusband
 bendy
 bendies
 bending
