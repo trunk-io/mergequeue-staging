@@ -2678,6 +2678,7 @@ electrotropism
 egoize
 electrovalence
 electrovalency
+equiponderancy
 electrovalent
 electrovection
 electrowinning
@@ -8731,7 +8732,6 @@ equipollent
 equipollently
 euphemizing
 equipollentness
-equiponderancy
 equiponderant
 equiponderate
 equiponderated
