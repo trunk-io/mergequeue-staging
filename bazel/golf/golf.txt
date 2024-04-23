@@ -2548,7 +2548,6 @@ gemmoid
 gemmology
 genistin
 gemmological
-gentled
 gemmologist
 gemmologists
 gemmulation
@@ -8901,6 +8900,7 @@ gurish
 griece
 gowland
 grieced
+gentled
 griecep
 glossitic
 grief
