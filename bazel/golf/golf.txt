@@ -4698,7 +4698,6 @@ greeds
 girdles
 girdlestead
 gymnosperm
-girdling
 girdlingly
 girds
 gire
@@ -9340,6 +9339,7 @@ groper
 gropes
 groping
 gulfed
+girdling
 gropingly
 gropple
 galey
