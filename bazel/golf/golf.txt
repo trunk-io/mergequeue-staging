@@ -1493,6 +1493,7 @@ garring
 garrisoned
 garrisonian
 garrisoning
+grammars
 garrisonism
 garrisons
 garrnishable
@@ -7821,7 +7822,6 @@ grammarian
 grammarianism
 grammarians
 grumousness
-grammars
 grammatical
 grammaticality
 gateau

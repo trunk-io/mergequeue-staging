@@ -1795,7 +1795,6 @@ featherstitch
 featherstitching
 feathertop
 featherway
-featherweed
 featherweight
 featherweights
 fictioneering
@@ -2732,6 +2731,7 @@ fervescence
 fervescent
 fervid
 fervidly
+featherweed
 fervidness
 finalizations
 fervor
