@@ -11702,6 +11702,7 @@ decimetres
 discourteously
 discourteousness
 discoach
+dosed
 discourtesy
 disprize
 discourtesies
@@ -15864,7 +15865,6 @@ dosage
 dosages
 dosain
 dose
-dosed
 doser
 dosers
 demiman
