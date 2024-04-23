@@ -13897,7 +13897,6 @@ cingulum
 cynhyena
 cynias
 cyniatria
-cyniatrics
 cynic
 cynical
 cynically
@@ -15367,6 +15366,7 @@ clanfellow
 clang
 clanged
 colonization
+cyniatrics
 clangful
 clanging
 clangingly
