@@ -288,6 +288,7 @@ gangliar
 gait
 gaited
 gaiter
+gluttonous
 gaiterless
 gloom
 gaiting
@@ -6214,7 +6215,6 @@ gluttonish
 gluttonize
 gluttonized
 gluttonizing
-gluttonous
 gluttonously
 gluttons
 gm
