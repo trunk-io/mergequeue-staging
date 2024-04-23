@@ -8085,7 +8085,6 @@ gomontia
 granulary
 granularity
 granularly
-granulate
 granulater
 granulates
 granulating
@@ -9525,6 +9524,7 @@ gymnocerata
 grove
 groved
 grovel
+granulate
 groveled
 groveler
 groveless
