@@ -614,6 +614,7 @@ gallicisms
 gallicization
 gallicize
 gallicizer
+guttulae
 gallicola
 gallicolae
 gobletful
@@ -10790,7 +10791,6 @@ gentilic
 guttlers
 guttling
 guttula
-guttulae
 guttulate
 guttule
 gulpier

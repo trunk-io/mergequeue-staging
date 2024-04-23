@@ -4022,7 +4022,6 @@ emotes
 emoting
 emotiometabolic
 emotiomotor
-emotiomuscular
 eskers
 enciente
 emotion
@@ -7051,6 +7050,7 @@ exceptionableness
 entreatment
 entreats
 entrec
+emotiomuscular
 equidense
 entrechat
 entrechats
