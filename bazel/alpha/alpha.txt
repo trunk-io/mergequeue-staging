@@ -2017,6 +2017,7 @@ acetamids
 acetaminol
 antimonate
 acetaminophen
+ataraxics
 acetanilid
 acetanilide
 acetanion
@@ -22403,7 +22404,6 @@ ataraxy
 alchem
 ataraxia
 ataraxic
-ataraxics
 ataraxies
 academial
 atatschite
