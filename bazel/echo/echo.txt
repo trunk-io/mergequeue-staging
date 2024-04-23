@@ -4293,7 +4293,6 @@ emrode
 ems
 emu
 emulable
-emulant
 emulates
 emulation
 emulations
@@ -10501,6 +10500,7 @@ ethnohistorically
 expropriatory
 entwisted
 ethnol
+emulant
 electrometallurgy
 ethnolinguist
 ethnolinguistic
