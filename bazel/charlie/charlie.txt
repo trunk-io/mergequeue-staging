@@ -17731,7 +17731,6 @@ codein
 codeina
 codeinas
 codeine
-codeines
 codeins
 codeless
 codelight
@@ -20571,6 +20570,7 @@ compensating
 compensatingly
 compensation
 compensational
+codeines
 compensative
 compensatively
 compensativeness
