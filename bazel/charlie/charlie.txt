@@ -7573,7 +7573,6 @@ cerebromeningeal
 cerebromeningitis
 castalian
 ceratocystis
-cerebrometer
 cassumuniar
 cerebron
 cerebronic
@@ -13544,6 +13543,7 @@ cylindric
 cylindrically
 cylindricalness
 cylindricity
+cerebrometer
 cylindricule
 cylindriform
 cylindrite
