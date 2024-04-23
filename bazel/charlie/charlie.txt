@@ -3416,6 +3416,7 @@ caquetio
 caquetoire
 caquetoires
 car
+chisellike
 cara
 carabao
 cioppino
@@ -11025,7 +11026,6 @@ chiselled
 chiseller
 chisellers
 chiselly
-chisellike
 chiselling
 chiselmouth
 chisels
