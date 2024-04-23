@@ -1062,6 +1062,7 @@ farmerly
 farmerlike
 farmers
 fyttes
+foresights
 farmership
 farmhand
 farmhold
@@ -8048,7 +8049,6 @@ foresightedly
 foresightedness
 foresightful
 foresightless
-foresights
 feasts
 flotorial
 foresign
