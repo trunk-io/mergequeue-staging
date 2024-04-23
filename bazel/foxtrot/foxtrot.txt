@@ -3890,7 +3890,6 @@ fimbriodentate
 fimbristylis
 fin
 finable
-finableness
 finagle
 finagler
 finaglers
@@ -11497,6 +11496,7 @@ foreglimpse
 fiord
 furstone
 furtherance
+finableness
 furthered
 furtherer
 froggery
