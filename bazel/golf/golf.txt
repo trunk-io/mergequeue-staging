@@ -1043,7 +1043,6 @@ gamuts
 gan
 ganam
 gananciales
-gadgety
 ganancias
 ganapati
 ganch
@@ -8470,6 +8469,7 @@ gravicembalos
 gravid
 gravida
 gravidate
+gadgety
 grendel
 gravidation
 ginkgoales
