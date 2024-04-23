@@ -7017,7 +7017,6 @@ centesis
 centesm
 centetes
 centetid
-centetidae
 circumradii
 centgener
 centi
@@ -19854,6 +19853,7 @@ comfortlessly
 comfortlessness
 comfortress
 comfortroot
+centetidae
 comforts
 chinawoman
 comfrey
