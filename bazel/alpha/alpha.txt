@@ -5102,7 +5102,6 @@ aerophobic
 aerophone
 aerophor
 aerophore
-aloneness
 aerophoto
 aerophotos
 aeroplane
@@ -10466,6 +10465,7 @@ amidship
 amidships
 amidst
 amidstream
+aloneness
 accoy
 antefuture
 amidulin
