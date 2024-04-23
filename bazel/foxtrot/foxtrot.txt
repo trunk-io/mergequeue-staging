@@ -1692,6 +1692,7 @@ fdtype
 fdubs
 fe
 feaberry
+flighter
 feague
 forebitt
 feak
@@ -5626,7 +5627,6 @@ flight
 fanmaker
 flighted
 flagelliform
-flighter
 flightful
 flighthead
 franked
