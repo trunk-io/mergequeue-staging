@@ -10170,7 +10170,6 @@ dingoes
 dings
 dingthrift
 dingus
-dinguses
 disciplined
 dinic
 dinical
@@ -16888,6 +16887,7 @@ dreamery
 dreamers
 dreamful
 dreamfully
+dinguses
 dreamfulness
 dreamhole
 dreamy
