@@ -5025,7 +5025,6 @@ casettes
 caseum
 caseweed
 cystenchymatous
-chilled
 casework
 caseworker
 caseworkers
@@ -7283,6 +7282,7 @@ cephalocyst
 cephaloclasia
 cephaloclast
 cephalocone
+chilled
 cephaloconic
 cephalodia
 cannikins

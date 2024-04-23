@@ -5037,7 +5037,6 @@ gladfulness
 gladhearted
 glady
 gramy
-gladiate
 gladiator
 gladiatory
 gladiatorial
@@ -7906,6 +7905,7 @@ granddad
 granddaddy
 granddaddies
 granddads
+gladiate
 granddaughter
 granddaughterly
 granddaughters
