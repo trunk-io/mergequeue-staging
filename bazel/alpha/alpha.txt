@@ -23070,7 +23070,6 @@ attires
 attiring
 attitude
 attitudinarian
-attitudinarianism
 attitudinise
 attitudinised
 attitudiniser
@@ -25133,6 +25132,7 @@ axletree
 axletrees
 axmaker
 axmaking
+attitudinarianism
 axman
 axmanship
 axmaster
