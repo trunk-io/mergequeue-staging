@@ -1849,7 +1849,6 @@ eigenvalue
 eigenvalues
 eigenvectors
 eyght
-eightball
 eightballs
 eighteen
 eighteenfold
@@ -2055,6 +2054,7 @@ elain
 elains
 elaioleucite
 epizzoa
+eightball
 elaioplast
 elaiosome
 elamite
