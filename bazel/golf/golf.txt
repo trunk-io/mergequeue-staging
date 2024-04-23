@@ -6031,6 +6031,7 @@ glows
 geoethnic
 glowworms
 gloxinia
+grille
 gloxinias
 glozed
 glozer
@@ -8979,7 +8980,6 @@ grilladed
 grillades
 grillage
 grillages
-grille
 grylle
 grilled
 grillee
