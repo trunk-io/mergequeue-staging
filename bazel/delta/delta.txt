@@ -2780,6 +2780,7 @@ decreeable
 decreed
 deeplier
 decreeing
+demonstratable
 decreement
 decreer
 decreers
@@ -4908,7 +4909,6 @@ demonstrandum
 daddy
 demonstratability
 declassifies
-demonstratable
 demonstrate
 demonstrated
 demonstratedly
