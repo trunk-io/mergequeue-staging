@@ -5092,6 +5092,7 @@ endocarpic
 endocarpoid
 endocarps
 epimenidean
+entities
 endocellular
 endocentric
 encuirassed
@@ -6839,7 +6840,6 @@ entirities
 euchlorine
 entitative
 entitatively
-entities
 emetin
 excerptor
 entitle
