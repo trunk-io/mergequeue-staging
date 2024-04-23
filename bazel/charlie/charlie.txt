@@ -27457,6 +27457,7 @@ couture
 coutures
 couturier
 couturiere
+crossfall
 couturieres
 couturiers
 couturire
@@ -29855,7 +29856,6 @@ crossers
 crosses
 crossest
 crossette
-crossfall
 crossfertilizable
 crossfired
 cooption

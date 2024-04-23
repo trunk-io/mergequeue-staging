@@ -2344,6 +2344,7 @@ edacities
 electrocutional
 eimer
 electrocutioner
+epispastic
 electrocutions
 eugenist
 emplaces
@@ -8223,7 +8224,6 @@ egurgitated
 epispadia
 epispadiac
 epispadias
-epispastic
 epitrochoid
 epispermic
 epispinal
