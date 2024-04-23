@@ -10960,7 +10960,6 @@ disaffectionate
 disaffections
 disaffects
 disaffiliate
-disaffiliated
 disaffiliates
 disaffiliating
 disaffiliation
@@ -16756,6 +16755,7 @@ draping
 drapping
 drawhorse
 drassidae
+disaffiliated
 drastic
 drastically
 drat
