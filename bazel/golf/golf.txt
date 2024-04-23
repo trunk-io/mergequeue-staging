@@ -6723,7 +6723,6 @@ gapy
 gomeisa
 gomer
 gomeral
-gomerec
 gomerel
 gomerils
 gommelin
@@ -9099,6 +9098,7 @@ gripy
 gripier
 gripiest
 gripingly
+gomerec
 gripless
 grievingly
 gripman
