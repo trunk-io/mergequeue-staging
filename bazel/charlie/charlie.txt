@@ -21921,7 +21921,6 @@ confessionary
 confessionaries
 caligraphy
 confessionist
-cleansed
 confessions
 confessor
 confessory
@@ -28376,6 +28375,7 @@ crazily
 craziness
 crazing
 crazingmill
+cleansed
 crazyweed
 crc
 crcao
