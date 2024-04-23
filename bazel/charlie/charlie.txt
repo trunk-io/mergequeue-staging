@@ -14812,7 +14812,6 @@ citylike
 cytinaceae
 cityness
 cabbling
-citynesses
 citing
 cytinus
 cytioderm
@@ -25291,6 +25290,7 @@ corncrusher
 corncutter
 corndodger
 cornea
+citynesses
 corneagen
 corneal
 corneas
