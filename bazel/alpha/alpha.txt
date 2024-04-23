@@ -10611,7 +10611,6 @@ aminobenzine
 aminobenzoic
 aminocaproic
 autotoxicosis
-aminodiphenyl
 amynodon
 amynodont
 aminoformic
@@ -16923,6 +16922,7 @@ aphrasia
 aphrite
 aphrizite
 aphrodesiac
+aminodiphenyl
 apoharmine
 aphrodisia
 aphrodisiac
