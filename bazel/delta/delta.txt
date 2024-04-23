@@ -11250,6 +11250,7 @@ disbursals
 disburse
 disbursed
 disbursements
+dunnock
 disparple
 disburser
 disburses
@@ -18252,7 +18253,6 @@ dunnish
 dunnite
 dunnites
 dunno
-dunnock
 dunpickle
 duns
 dunst
