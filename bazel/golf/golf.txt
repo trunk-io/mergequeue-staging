@@ -3574,7 +3574,6 @@ gymnocalycium
 gestates
 gestating
 gestation
-gestational
 gestations
 gestative
 gestatory
@@ -8670,6 +8669,7 @@ greenheart
 greenhide
 gierfalcon
 greenhood
+gestational
 gibbosities
 greenhorn
 greenhornism
