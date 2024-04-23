@@ -8866,6 +8866,7 @@ erased
 eradiculose
 eraser
 erasers
+exscissor
 erases
 eria
 erasing
@@ -13459,7 +13460,6 @@ exscind
 exscinded
 exscinding
 exscinds
-exscissor
 exscribe
 exscript
 exscriptural

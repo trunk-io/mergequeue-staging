@@ -8796,7 +8796,6 @@ fortnights
 fortranh
 fortravail
 frightenable
-fortread
 fortress
 fortresses
 fortressing
@@ -11400,6 +11399,7 @@ furious
 furiouser
 furiousness
 fiddlers
+fortread
 furison
 furl
 furlable
