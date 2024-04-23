@@ -1538,7 +1538,6 @@ deadlight
 deadlihead
 deadlily
 diabology
-deadline
 deadlines
 deadliness
 deadlock
@@ -18462,6 +18461,7 @@ duress
 depreciator
 duresses
 duressor
+deadline
 duret
 duretto
 durezza
