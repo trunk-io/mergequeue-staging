@@ -2020,7 +2020,6 @@ elaeagnaceae
 elaeagnaceous
 elaeagnus
 elaeis
-elaenia
 elaeoblast
 elaeoblastic
 effluvias
@@ -8640,6 +8639,7 @@ equidistantial
 equidistantly
 equidistribution
 equidivision
+elaenia
 equidominant
 equidurable
 efflorescency
