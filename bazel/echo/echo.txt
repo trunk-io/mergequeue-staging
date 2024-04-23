@@ -1843,7 +1843,6 @@ eigenfrequency
 eigenfunction
 eigenstate
 eigenvalue
-eigenvalues
 eigenvectors
 eyght
 eightballs
@@ -13096,6 +13095,7 @@ experted
 experting
 electively
 endotracheitis
+eigenvalues
 expertised
 excretion
 emulated
