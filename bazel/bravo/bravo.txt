@@ -3766,6 +3766,7 @@ battled
 becursing
 battledore
 battledores
+blazoners
 baldly
 battledoring
 biographist
@@ -10565,7 +10566,6 @@ blazingly
 blazon
 blazoned
 blazoner
-blazoners
 blazoning
 blazonment
 blazonry
