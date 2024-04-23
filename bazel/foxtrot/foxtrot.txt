@@ -2117,6 +2117,7 @@ fell
 fella
 fellable
 felinity
+flocoon
 fricandeaus
 fellagha
 fellah
@@ -5905,7 +5906,6 @@ flockowner
 flocks
 frangent
 flockwise
-flocoon
 flocs
 filterman
 floeberg
