@@ -1547,7 +1547,6 @@ accidie
 accidies
 accinge
 accinged
-assafoetida
 accinging
 accipenser
 accipient
@@ -13793,6 +13792,7 @@ anomalously
 anomalousness
 anomalurus
 anomatheca
+assafoetida
 anomer
 anomy
 anomia
