@@ -2159,7 +2159,6 @@ gazania
 groundline
 gaze
 gazebo
-gazeboes
 glimpse
 gazebos
 gnatter
@@ -5522,6 +5521,7 @@ glycosyls
 glycosin
 glycosine
 glycosuria
+gazeboes
 glycosuric
 glycuresis
 glycuronic
