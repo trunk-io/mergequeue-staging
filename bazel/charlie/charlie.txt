@@ -20020,7 +20020,6 @@ commensurability
 commensurable
 commensurableness
 commensurably
-commensurate
 commensurated
 commensurately
 commensurateness
@@ -27727,6 +27726,7 @@ coxa
 coxal
 coxalgy
 chalutz
+commensurate
 coxalgias
 calceiform
 coxalgic
