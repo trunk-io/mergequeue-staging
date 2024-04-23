@@ -3075,6 +3075,7 @@ geohydrology
 geohydrologic
 geoid
 geoidal
+grammontine
 geoids
 gadoid
 geoisotherm
@@ -7500,7 +7501,6 @@ governor
 governorate
 governors
 grype
-grammontine
 grubbiest
 governs
 govt
