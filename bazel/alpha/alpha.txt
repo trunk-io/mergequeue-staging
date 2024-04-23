@@ -5598,7 +5598,6 @@ afteract
 anarcestean
 afterage
 afterattack
-afterbay
 afterband
 antinegro
 absorbs
@@ -18237,6 +18236,7 @@ aqueity
 appetizingly
 aquench
 anathematized
+afterbay
 aqueoglacial
 aqueoigneous
 aqueomercurial
