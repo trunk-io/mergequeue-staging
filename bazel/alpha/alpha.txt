@@ -11209,6 +11209,7 @@ amphipods
 amphiprostylar
 amphiprotic
 amphirhina
+annually
 amphirhinal
 amphirhine
 amphisarca
@@ -13632,7 +13633,6 @@ annual
 annualist
 annualize
 annualized
-annually
 annuals
 annuary
 annueler
