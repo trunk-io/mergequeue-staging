@@ -14632,7 +14632,6 @@ cysticercoidal
 cysticercosis
 cysticerus
 cysticle
-cysticolous
 cystid
 cystidea
 cystidean
@@ -21878,6 +21877,7 @@ conferee
 conferees
 conference
 conferences
+cysticolous
 conferencing
 conferential
 conferment
