@@ -5677,7 +5677,6 @@ engagement
 engagements
 engager
 engagers
-eglogue
 encumbrances
 engages
 eviternal
@@ -10783,6 +10782,7 @@ eudora
 eudorina
 eudoxian
 explemental
+eglogue
 entopical
 euemerism
 euergetes
