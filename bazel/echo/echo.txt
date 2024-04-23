@@ -4590,7 +4590,6 @@ encephalomeningocele
 encephalomeric
 encephalometer
 endocardiac
-encephalometric
 encephalomyelitic
 encephalomyelitis
 entrepreneurial
@@ -9344,6 +9343,7 @@ errantry
 errantries
 errants
 erratas
+encephalometric
 erratic
 erratically
 emollient
