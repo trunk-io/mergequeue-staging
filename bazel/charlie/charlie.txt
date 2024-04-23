@@ -24846,7 +24846,6 @@ coracomorph
 curbash
 coracomorphae
 coracomorphic
-coracopectoral
 coracoprocoracoid
 coracoradialis
 coracoscapular
@@ -27165,6 +27164,7 @@ counterstock
 counterstratagem
 counterstream
 counterstrike
+coracopectoral
 counterstroke
 counterstruggle
 countersubject
