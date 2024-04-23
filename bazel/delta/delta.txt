@@ -2318,7 +2318,6 @@ decessor
 decharm
 dechemicalization
 dechemicalize
-dechenite
 dechlog
 dechlore
 dechloridation
@@ -2395,6 +2394,7 @@ decimalizes
 decimalizing
 decimally
 decimals
+dechenite
 decimate
 decimated
 decimates
