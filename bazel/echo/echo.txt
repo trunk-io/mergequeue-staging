@@ -7891,7 +7891,6 @@ epigrammatically
 endexine
 encourager
 epigrammatised
-epigrammatising
 epigrammatism
 epigrammatize
 epigrammatized
@@ -12719,6 +12718,7 @@ exograph
 exolete
 exolution
 exolve
+epigrammatising
 exometritis
 exomis
 exomologesis
