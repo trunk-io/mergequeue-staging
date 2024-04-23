@@ -3742,7 +3742,6 @@ batteners
 battening
 battens
 batter
-batterable
 battercake
 batterdock
 bombard
@@ -12299,6 +12298,7 @@ bombesin
 bombesins
 bombycid
 bombycidae
+batterable
 bombycids
 bombyciform
 bombycilla
