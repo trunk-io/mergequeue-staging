@@ -2424,7 +2424,6 @@ electroindustrial
 electroing
 electroionic
 electroirrigation
-electrojet
 eposes
 electrokinematics
 extispices
@@ -6544,6 +6543,7 @@ entameba
 energies
 entamoeba
 elaeomargaric
+electrojet
 excuss
 entamoebic
 entangle
