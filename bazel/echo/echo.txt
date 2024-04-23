@@ -4075,7 +4075,6 @@ empanoply
 emparchment
 emparl
 empasm
-empasma
 empassion
 empathetic
 empathetically
@@ -13183,6 +13182,7 @@ expletively
 expletiveness
 emulations
 expletives
+empasma
 expletory
 explicability
 explicableness
