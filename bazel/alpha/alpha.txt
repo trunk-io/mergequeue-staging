@@ -8683,6 +8683,7 @@ allergenicity
 allergy
 allergia
 allergies
+auricularias
 allergin
 allergins
 attractableness
@@ -23526,7 +23527,6 @@ auriculariaceae
 auriculariae
 auriculariales
 auricularian
-auricularias
 auricularis
 auricularly
 auriculars
