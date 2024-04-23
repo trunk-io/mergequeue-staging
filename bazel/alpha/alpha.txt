@@ -926,7 +926,6 @@ absconds
 absconsa
 abscound
 absee
-absey
 abseil
 abseiled
 abseiling
@@ -20187,6 +20186,7 @@ arrau
 arrear
 arrearage
 arrearages
+absey
 arrears
 arrect
 arrector
