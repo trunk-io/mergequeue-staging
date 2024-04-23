@@ -11122,6 +11122,7 @@ disassembled
 disassembler
 disassembles
 disassembly
+durwaun
 disassembling
 disassent
 disassiduity
@@ -18510,7 +18511,6 @@ durst
 durukuli
 durum
 durums
-durwaun
 durzada
 dusack
 dermographism
