@@ -720,7 +720,6 @@ gallows
 gallowses
 galilee
 gar
-gallowsmaker
 gallowsness
 gallowsward
 galls
@@ -3713,6 +3712,7 @@ ghbor
 gheber
 ghebeta
 ghee
+gallowsmaker
 ghees
 graysbies
 ghegish
