@@ -950,7 +950,6 @@ gametangium
 gamete
 gotha
 gametes
-gametically
 gametocyst
 gametocyte
 geison
@@ -1188,6 +1187,7 @@ gannister
 guillotining
 ganoblast
 ganocephala
+gametically
 ganocephalan
 gnotobiotics
 ganocephalous
