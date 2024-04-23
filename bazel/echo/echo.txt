@@ -131,7 +131,6 @@ earreach
 earring
 earringed
 earrings
-ears
 eulima
 earscrew
 earsh
@@ -8557,6 +8556,7 @@ equalized
 equalizer
 equalizers
 equalizes
+ears
 equaller
 equally
 equalling
