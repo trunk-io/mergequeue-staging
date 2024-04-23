@@ -5089,7 +5089,6 @@ ejectment
 endocarditic
 endocardium
 endocarp
-endocarpal
 endocarpic
 endocarpoid
 endocarps
@@ -12841,6 +12840,7 @@ enhydris
 exostotic
 exostra
 exostracism
+endocarpal
 exostracize
 exostrae
 exoteric
