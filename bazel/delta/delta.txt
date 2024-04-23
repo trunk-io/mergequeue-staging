@@ -859,7 +859,6 @@ dankali
 demobs
 danke
 danker
-denumeration
 dankest
 dankishness
 divaricated
@@ -5708,6 +5707,7 @@ deplaceable
 deplane
 deplaned
 dragonfish
+denumeration
 deplaning
 deplant
 deplantation
