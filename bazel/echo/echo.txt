@@ -3058,7 +3058,6 @@ elliptic
 elliptical
 elliptically
 ellipticalness
-enmass
 ellipticity
 elliptograph
 elliptoid
@@ -7667,6 +7666,7 @@ epiclastic
 epicleidian
 epicleidium
 epicleses
+enmass
 epiclesis
 epicly
 epiclike
