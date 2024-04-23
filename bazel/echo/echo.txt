@@ -7065,7 +7065,6 @@ entremets
 entrenches
 entrenching
 entrenchment
-entrenchments
 entrep
 entrepas
 entrepeneur
@@ -9591,6 +9590,7 @@ escopet
 escopeta
 exorcismal
 escopette
+entrenchments
 escorial
 escort
 escortage
