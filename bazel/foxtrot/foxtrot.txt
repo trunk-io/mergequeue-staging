@@ -3741,6 +3741,7 @@ frownless
 friezer
 filler
 fillercap
+fluviology
 followable
 fractionator
 faceoff
@@ -6652,7 +6653,6 @@ fluvicoline
 fluvio
 fluvioglacial
 fluviolacustrine
-fluviology
 fluviomarine
 fluvioterrestrial
 fluvious
