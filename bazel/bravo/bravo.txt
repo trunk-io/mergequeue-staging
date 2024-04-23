@@ -5844,6 +5844,7 @@ bellypiece
 bellypinch
 bellipotent
 bellis
+bladeless
 bellite
 bellmaker
 biliverdin
@@ -10244,7 +10245,6 @@ bladderwrack
 blade
 bladebone
 bladed
-bladeless
 bladelet
 bladelike
 buccate
