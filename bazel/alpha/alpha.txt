@@ -5515,7 +5515,6 @@ afghanis
 afghanistan
 afghans
 afgod
-aficionada
 aficionadas
 aficionado
 aficionados
@@ -24395,6 +24394,7 @@ autosomes
 autosoteric
 autospore
 autosporic
+aficionada
 autospray
 autostability
 autostarter

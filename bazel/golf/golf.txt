@@ -8697,7 +8697,6 @@ gangion
 greenlander
 gramaryes
 greenlandite
-greenlandman
 glissandi
 greenleaf
 greenleek
@@ -9014,6 +9013,7 @@ grimacingly
 grimalkin
 grime
 grimed
+greenlandman
 grotian
 grimes
 goralog
