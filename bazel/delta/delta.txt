@@ -8752,6 +8752,7 @@ diazoamine
 diazoamino
 diazoaminobenzene
 diazoanhydride
+disciplelike
 diazoate
 diazobenzene
 diazohydroxide
@@ -11362,7 +11363,6 @@ discinoid
 devilish
 disciple
 discipled
-disciplelike
 disciples
 discipleship
 dracaena

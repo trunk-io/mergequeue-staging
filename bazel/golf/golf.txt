@@ -6193,7 +6193,6 @@ glutinous
 glutinousness
 gamble
 glutoid
-glutose
 gluts
 glutted
 gluttei
@@ -9411,6 +9410,7 @@ gearbox
 glasshouse
 grouchier
 grouchiest
+glutose
 grundyist
 grouchily
 glyoxyl
