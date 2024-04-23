@@ -1350,6 +1350,7 @@ binocularity
 balatas
 balatong
 balatron
+bovate
 balatronic
 balatte
 balau
@@ -13686,7 +13687,6 @@ bovarism
 bovarysm
 bovarist
 bovaristic
-bovate
 bove
 bunchberry
 bovey
