@@ -2106,6 +2106,7 @@ decarboxylate
 decarboxylated
 decarboxylating
 decarboxylation
+desilicification
 decarboxylization
 dobies
 daboya
@@ -6674,7 +6675,6 @@ desyl
 desilicate
 desilicated
 desilicify
-desilicification
 desilicified
 desiliconization
 dribbed
