@@ -13421,7 +13421,6 @@ ankerites
 ankh
 ankhs
 ankylenteron
-ankyloblepharon
 ankylocheilia
 ankylodactylia
 ankylodontia
@@ -17664,6 +17663,7 @@ appendance
 appendant
 appendectomy
 appendectomies
+ankyloblepharon
 appended
 appendence
 appendency
