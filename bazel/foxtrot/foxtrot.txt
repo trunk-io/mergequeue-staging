@@ -4377,6 +4377,7 @@ fishable
 friezing
 fishback
 fishbed
+flannel
 fishberry
 fishberries
 fishboat
@@ -4988,7 +4989,6 @@ fireshaft
 flanking
 flanks
 flankwise
-flannel
 flannelboard
 flannelbush
 flanneled
