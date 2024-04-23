@@ -2660,7 +2660,6 @@ electrothermics
 enschedule
 electrothermometer
 estuant
-electrothermostat
 electrothermostatic
 electrothermotic
 electrotype
@@ -12357,6 +12356,7 @@ exempli
 equisegmented
 exemplify
 exemplifiable
+electrothermostat
 evocatrix
 exemplification
 exemplificational
