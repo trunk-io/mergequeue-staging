@@ -5248,6 +5248,7 @@ degermed
 denounce
 denounced
 denouncement
+differentially
 denouncements
 digladiate
 denouncer
@@ -15691,7 +15692,6 @@ dorask
 doraskean
 dorbel
 dorbug
-differentially
 dorbugs
 defeatist
 duodecimals
