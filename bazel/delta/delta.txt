@@ -4570,7 +4570,6 @@ demigod
 demigoddess
 demigods
 demigorge
-doddy
 diagnoses
 demigrate
 demigriffin
@@ -16183,6 +16182,7 @@ discepting
 dovened
 dovening
 dovens
+doddy
 dover
 doves
 dovetail
