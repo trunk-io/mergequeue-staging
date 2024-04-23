@@ -10454,6 +10454,7 @@ diphenylmethane
 diphenylquinomethane
 diphenyls
 diphenylthiourea
+downlie
 diphenoxylate
 diphycercal
 diphycercy
@@ -15729,7 +15730,6 @@ dorize
 dorje
 dorlach
 dorm
-downlie
 dormancies
 dormant
 dormantly
