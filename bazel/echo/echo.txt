@@ -4299,7 +4299,6 @@ emu
 emulable
 emulates
 emulation
-emulations
 etymological
 emulative
 emulatively
@@ -13183,6 +13182,7 @@ explete
 expletive
 expletively
 expletiveness
+emulations
 expletives
 expletory
 explicability
