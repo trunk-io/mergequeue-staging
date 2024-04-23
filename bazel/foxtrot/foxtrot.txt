@@ -3081,7 +3081,6 @@ fibrilla
 fibrillae
 fraken
 fibrillar
-furfurals
 fibrillary
 fibrillated
 fibrillating
@@ -11140,6 +11139,7 @@ forslack
 fundamental
 fundamentalism
 fundamentalist
+furfurals
 fundamentalistic
 fundamentalists
 fundamentality
