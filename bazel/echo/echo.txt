@@ -4131,7 +4131,6 @@ emphyteutic
 emphraxis
 empicture
 empididae
-empidonax
 empiecement
 euthanasia
 empyema
@@ -6574,6 +6573,7 @@ entelodont
 entempest
 exteriorisation
 entemple
+empidonax
 entender
 entendre
 entendres
