@@ -7617,7 +7617,6 @@ ceremoniousness
 cereous
 cerer
 cererite
-ceres
 ceresin
 ceresine
 cereuses
@@ -16912,6 +16911,7 @@ cluster
 clusterberry
 clustered
 clusterfist
+ceres
 clustery
 clustering
 clusteringly
