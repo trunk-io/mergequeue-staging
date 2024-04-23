@@ -219,7 +219,6 @@ abbr
 abbrev
 abbreviatable
 abbreviate
-abbreviated
 abbreviately
 afdecho
 abbreviates
@@ -2219,6 +2218,7 @@ anaesthesia
 act
 anthracene
 ache
+abbreviated
 acheat
 achech
 acheck
