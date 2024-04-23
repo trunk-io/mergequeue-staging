@@ -4007,7 +4007,6 @@ adjournment
 adjournments
 adjourns
 adjoust
-adjt
 adjudge
 adjudgeable
 adjudged
@@ -22678,6 +22677,7 @@ atmolyze
 atmology
 atmologic
 anisotropous
+adjt
 atmological
 atmologist
 atmometer
