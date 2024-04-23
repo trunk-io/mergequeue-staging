@@ -6891,6 +6891,7 @@ aleikum
 airdate
 airdates
 airdock
+antimodernism
 airdrome
 airdromes
 airdrop
@@ -15612,7 +15613,6 @@ antimnemonic
 antimodel
 antimodern
 altitudinal
-antimodernism
 antimodernist
 antimodernistic
 antimodernization
