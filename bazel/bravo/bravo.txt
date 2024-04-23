@@ -338,6 +338,7 @@ backbones
 backbrand
 backbreaker
 backbreaking
+beggarman
 backcap
 backcast
 bantamweight
@@ -5260,7 +5261,6 @@ bicrescentic
 beggarly
 beggarlice
 beggarlike
-beggarman
 beggars
 beggarweed
 beggarwise
