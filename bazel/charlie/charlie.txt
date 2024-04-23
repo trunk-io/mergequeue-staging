@@ -12975,7 +12975,6 @@ cyanhydrate
 cyanhydric
 cyanhydrin
 cyanhidrosis
-cyanic
 cyanicide
 cyanid
 cyanide
@@ -30590,6 +30589,7 @@ cyathoid
 cowhides
 cucumbers
 cucumiform
+cyanic
 cucumis
 cucupha
 cucurb
