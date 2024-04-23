@@ -4464,7 +4464,6 @@ gradation
 gingersnaps
 gingerspice
 gingerwort
-gingham
 ginghams
 gingili
 gingilis
@@ -7467,6 +7466,7 @@ gulch
 goutiness
 goutish
 gouts
+gingham
 goutweed
 gluconeogenesis
 griffs
