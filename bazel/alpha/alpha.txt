@@ -3952,7 +3952,6 @@ adiposis
 adiposity
 adiposogenital
 adiposuria
-adipous
 adipsy
 adipsia
 adipsic
@@ -22819,6 +22818,7 @@ atrichous
 atrickle
 atridean
 atriensis
+adipous
 atriocoelomic
 atrioporal
 atriopore
