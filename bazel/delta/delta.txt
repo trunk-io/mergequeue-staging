@@ -5966,6 +5966,7 @@ depside
 depsides
 dept
 depth
+deviationism
 depthen
 depthing
 depthless
@@ -7607,7 +7608,6 @@ deviately
 deviating
 deviation
 deviational
-deviationism
 deviationist
 deviations
 deviator
