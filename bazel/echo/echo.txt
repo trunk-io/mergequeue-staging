@@ -8081,7 +8081,6 @@ epiphyseal
 epiphyseolysis
 epiphyses
 elemi
-epiphysial
 epanisognathism
 epiphysis
 epiphysitis
@@ -13234,6 +13233,7 @@ explorable
 explorational
 exploratively
 explorator
+epiphysial
 exploratory
 epistolized
 explore
