@@ -2163,7 +2163,6 @@ canalage
 canalatura
 canalboat
 canale
-canaled
 canaler
 canales
 canalete
@@ -17664,6 +17663,7 @@ coconut
 coconuts
 cocoon
 cocoonery
+canaled
 cocooneries
 cocooning
 cocoons

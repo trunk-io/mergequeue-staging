@@ -6454,7 +6454,6 @@ ensober
 ensophic
 ensorcel
 ensorceled
-ensorceling
 emitters
 ensorcelize
 ensorcell
@@ -8342,6 +8341,7 @@ enquirer
 epithalline
 epithamia
 epitheca
+ensorceling
 epithecal
 epithecia
 epithecicia
