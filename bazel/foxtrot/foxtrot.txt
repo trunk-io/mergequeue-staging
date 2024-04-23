@@ -853,7 +853,6 @@ fantails
 fantasy
 fantasia
 fantasias
-fantasie
 frieze
 foredawn
 fantasied
@@ -10428,6 +10427,7 @@ fronter
 frontier
 frontierless
 fictor
+fantasie
 forgivableness
 fiddley
 flowerfence

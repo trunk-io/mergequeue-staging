@@ -343,7 +343,6 @@ dayboy
 dustrag
 daybooks
 daybreak
-daybreaks
 daibutsu
 desand
 daydawn
@@ -2559,6 +2558,7 @@ decoagulation
 decoat
 decocainize
 decoct
+daybreaks
 decocted
 decoctible
 decocting
