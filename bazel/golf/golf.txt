@@ -696,7 +696,6 @@ girdlers
 galloper
 galloperdix
 gallopers
-gaeldom
 gallophile
 geogonic
 gallophobe
@@ -3143,6 +3142,7 @@ geometrid
 geometridae
 guans
 geometrina
+gaeldom
 geometrine
 geometrised
 geognostically
