@@ -8652,7 +8652,6 @@ agamobia
 allelism
 allelisms
 allelocatalytic
-allelomorphic
 allelomorphism
 allelopathy
 allelotropic
@@ -11437,6 +11436,7 @@ amunam
 amurca
 amurcosity
 amurcous
+allelomorphic
 amurru
 amus
 amusable
