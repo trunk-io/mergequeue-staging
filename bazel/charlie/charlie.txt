@@ -14151,7 +14151,6 @@ circocele
 circovarian
 circue
 circuit
-circuitable
 circuital
 circuited
 circuiteer
@@ -16126,6 +16125,7 @@ climacterics
 climactical
 climactically
 climacus
+circuitable
 climant
 climata
 climatal
