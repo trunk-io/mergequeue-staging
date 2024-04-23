@@ -1599,7 +1599,6 @@ gaslightness
 gaslights
 gaslike
 gaslit
-gaslock
 greenlandish
 gonorrheic
 gasmaker
@@ -3229,6 +3228,7 @@ georgia
 georgiadesite
 georgian
 georgiana
+gaslock
 gazetteer
 geiger
 georgians
