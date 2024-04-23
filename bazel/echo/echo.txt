@@ -6306,7 +6306,6 @@ enrobers
 enrobes
 enrobing
 eundem
-enrockment
 enrol
 enroll
 enrolle
@@ -10504,6 +10503,7 @@ electrometallurgy
 ethnolinguist
 ethnolinguistic
 ethnolinguistics
+enrockment
 ethnologer
 erysibe
 ethnology
