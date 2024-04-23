@@ -1006,7 +1006,6 @@ calcarium
 calcars
 calcate
 calceate
-calced
 calcedon
 calcedony
 calcemia
@@ -8958,6 +8957,7 @@ charge
 chargeability
 chargeable
 chargeableness
+calced
 chargeably
 chargeant
 charged
