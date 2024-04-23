@@ -12751,7 +12751,6 @@ boomah
 boo
 boomboat
 boombox
-boomboxes
 boomdas
 boomed
 boomer
@@ -14095,6 +14094,7 @@ biunity
 bongoists
 bracked
 bracken
+boomboxes
 brackened
 brackens
 bracker
