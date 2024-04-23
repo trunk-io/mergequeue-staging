@@ -8202,6 +8202,7 @@ diaeresis
 diaeretic
 diaetetae
 diag
+diner
 diagenesis
 diagenetic
 diagenetically
@@ -10122,7 +10123,6 @@ dindling
 dindon
 dyne
 dynel
-diner
 dinergate
 dineros
 diners

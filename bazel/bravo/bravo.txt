@@ -2454,7 +2454,6 @@ barcaroles
 barcarolle
 barcas
 barcella
-barcelona
 boxwork
 barchan
 barchans
@@ -14823,6 +14822,7 @@ breakover
 breakpoints
 breaks
 breakstone
+barcelona
 breakthrough
 breakthroughes
 bale
