@@ -8253,6 +8253,7 @@ grasp
 graspable
 goldeye
 graspers
+guises
 gonochorismus
 grasping
 graspingly
@@ -10257,7 +10258,6 @@ gartering
 guise
 guised
 guiser
-guises
 guisian
 guitar
 guitarfish
