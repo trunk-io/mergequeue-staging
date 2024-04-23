@@ -1041,7 +1041,6 @@ edelweisses
 edemas
 edemata
 edematose
-edematous
 edemic
 eschaufe
 eden
@@ -7751,6 +7750,7 @@ esophagoplasty
 equidensity
 embroider
 epidemiologist
+edematous
 epidendral
 elwood
 epidendric
