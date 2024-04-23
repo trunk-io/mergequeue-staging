@@ -13818,6 +13818,7 @@ cinemactic
 caelum
 cinemagoer
 cinemagoers
+colubrinae
 cinemas
 cinemascope
 cinematheque
@@ -19537,7 +19538,6 @@ colubriformes
 cobalticyanides
 colubriformia
 colubrina
-colubrinae
 colubrine
 colubroid
 colugo
