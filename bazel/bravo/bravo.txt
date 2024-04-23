@@ -12825,7 +12825,6 @@ boot
 bootable
 bootblack
 bootblacks
-bootboy
 booted
 bootees
 booter
@@ -15133,6 +15132,7 @@ bribri
 bryce
 brichen
 brick
+bootboy
 brickbat
 brickbats
 brickbatted
