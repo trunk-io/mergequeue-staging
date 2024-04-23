@@ -5592,7 +5592,6 @@ afshar
 aft
 aftaba
 amberous
-after
 afteract
 anarcestean
 afterage
@@ -12392,6 +12391,7 @@ androeccia
 androecia
 androecial
 androecium
+after
 algometry
 androgametophore
 androgamone

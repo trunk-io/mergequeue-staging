@@ -11944,7 +11944,6 @@ chorically
 chorines
 choring
 chorio
-chorioadenoma
 chorioallantoic
 chorioallantoid
 chorioallantois
@@ -25081,6 +25080,7 @@ coreligionist
 cooperancy
 corelysis
 corella
+chorioadenoma
 corema
 coremaker
 condescendent
