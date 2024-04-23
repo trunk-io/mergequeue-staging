@@ -18392,7 +18392,6 @@ coheading
 coheads
 coheartedness
 coheir
-coheiress
 coheirs
 coheirship
 cohelper
@@ -22069,6 +22068,7 @@ confocal
 confocally
 conform
 conformability
+coheiress
 conformable
 conformableness
 conformably
