@@ -1122,7 +1122,6 @@ ganglioid
 ginglymoarthrodia
 ganglioma
 gangliomas
-gangliomata
 ganglionary
 ganglionate
 ganisters
@@ -1760,6 +1759,7 @@ gastrodialysis
 gastrodiaphanoscopy
 gastrodidymus
 gastrodynia
+gangliomata
 gastrodisc
 gastrodisk
 gastroduodenal
