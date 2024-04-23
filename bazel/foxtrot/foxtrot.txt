@@ -4255,7 +4255,6 @@ fireplough
 fireplow
 fleeceable
 fireplug
-firepot
 fireproofed
 fireproofing
 fireproofness
@@ -6452,6 +6451,7 @@ fluoarsenate
 furcraeas
 fluoboric
 fluoborid
+firepot
 fob
 fluobromide
 fille
