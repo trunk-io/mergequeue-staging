@@ -10769,6 +10769,7 @@ dipteroi
 dependent
 disrelated
 dipterology
+dropouts
 dipteron
 dipteros
 dipterous
@@ -17362,7 +17363,6 @@ dropling
 dropman
 dropmeal
 dropout
-dropouts
 droppage
 dropped
 dropper

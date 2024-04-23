@@ -8708,7 +8708,6 @@ equip
 equipaga
 equipage
 equipages
-equiparable
 equiparate
 equiparation
 equipartile
@@ -11211,6 +11210,7 @@ europeanly
 europeans
 europeward
 europium
+equiparable
 encoring
 euros
 eurous
