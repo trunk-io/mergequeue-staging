@@ -7112,6 +7112,7 @@ fonted
 fontes
 fontful
 fonticulus
+footgeld
 feltmonger
 fontina
 fontinal
@@ -10412,7 +10413,6 @@ frontalis
 fuzziness
 frontally
 fetas
-footgeld
 filagree
 fellinic
 frontals
