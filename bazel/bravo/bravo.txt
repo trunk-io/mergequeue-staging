@@ -2672,6 +2672,7 @@ byres
 barytons
 barytophyllite
 barytosulphate
+basalia
 barium
 bariums
 barkan
@@ -12405,7 +12406,6 @@ bonderize
 bonderman
 bonders
 bondfolk
-basalia
 bondholder
 bondholders
 bondholding
