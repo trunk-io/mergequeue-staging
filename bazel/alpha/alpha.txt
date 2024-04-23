@@ -10638,7 +10638,6 @@ aminopolypeptidase
 aminopropionic
 aminopurine
 aminoquin
-aminoquinoline
 aminosis
 aminosuccinamic
 accurtation
@@ -12025,6 +12024,7 @@ anastatic
 anastatus
 anastigmat
 anastigmatic
+aminoquinoline
 anastomos
 anastomose
 anastomoses
