@@ -1070,7 +1070,6 @@ emyd
 ephorship
 edgeboned
 edged
-edgeless
 edgeling
 edgemaker
 edgemaking
@@ -4519,6 +4518,7 @@ eolienne
 elias
 encarnalize
 encarnalized
+edgeless
 eloping
 eclipsable
 encarnalizing
