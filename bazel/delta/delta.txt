@@ -4310,7 +4310,6 @@ delubra
 delubrubra
 deluce
 deludable
-delude
 deluded
 deluder
 deluders
@@ -8712,6 +8711,7 @@ diatoms
 diatonic
 diatonical
 diatonically
+delude
 diatonicism
 diatonous
 diatoric
