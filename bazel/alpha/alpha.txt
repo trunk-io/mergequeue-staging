@@ -5106,7 +5106,6 @@ aloneness
 aerophoto
 aerophotos
 aeroplane
-aeroplaner
 aeroplanes
 aeroplanist
 aeroplankton
@@ -6727,6 +6726,7 @@ ayenst
 aiery
 autoclaved
 ayes
+aeroplaner
 aiger
 aigialosaur
 aigialosauridae
