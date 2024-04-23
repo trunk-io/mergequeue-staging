@@ -971,7 +971,6 @@ ecuadorian
 ecuelle
 ecuelling
 epigones
-ecumenacy
 ecumenical
 engraffing
 extemporized
@@ -13282,6 +13281,7 @@ export
 exportability
 exportable
 exportation
+ecumenacy
 exported
 exporter
 exporters
