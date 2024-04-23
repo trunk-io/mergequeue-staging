@@ -4653,7 +4653,6 @@ fixations
 fixative
 fixator
 fixature
-fixe
 fixed
 fixedly
 fixedness
@@ -10514,6 +10513,7 @@ forcet
 favose
 fascinery
 frostwort
+fixe
 frot
 froth
 frothed
