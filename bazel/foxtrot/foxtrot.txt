@@ -7582,6 +7582,7 @@ forebody
 forebodies
 foreboding
 forebodingness
+forlornness
 foreboom
 forebooms
 forebowels
@@ -8423,7 +8424,6 @@ forlore
 forlorn
 forlornest
 forlornly
-forlornness
 form
 forma
 formagen
