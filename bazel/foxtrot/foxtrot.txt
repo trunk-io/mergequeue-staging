@@ -260,7 +260,6 @@ faden
 fadeout
 fader
 faders
-fadge
 fellowless
 fadged
 fadges
@@ -5284,6 +5283,7 @@ flawy
 flawier
 flawiest
 flatuosity
+fadge
 flawing
 flawless
 forex

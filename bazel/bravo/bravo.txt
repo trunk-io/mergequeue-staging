@@ -10125,7 +10125,6 @@ blackfeet
 blackfellow
 blackfellows
 blackfigured
-blackfin
 blackfins
 blackfish
 blackfisher
@@ -17267,6 +17266,7 @@ bumbles
 bumbling
 bumblingly
 bumblingness
+blackfin
 bumblings
 bumbo
 bumboat
