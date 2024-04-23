@@ -6303,7 +6303,6 @@ cavaliere
 cavaliered
 cavalieres
 cavalieri
-cavaliering
 cavalierish
 cavalierishness
 cavalierism
@@ -22463,6 +22462,7 @@ conjugacy
 cochlearifoliate
 conjugal
 conjugales
+cavaliering
 conjugality
 conjugally
 conjugant
