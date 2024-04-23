@@ -7597,6 +7597,7 @@ deviable
 deviance
 deviances
 dsnames
+dominions
 deviancy
 deviancies
 deviant
@@ -15395,7 +15396,6 @@ dominies
 dominion
 dominionism
 dominionist
-dominions
 disgracefulness
 dominique
 dominium
