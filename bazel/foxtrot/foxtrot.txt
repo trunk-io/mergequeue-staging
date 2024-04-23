@@ -6782,7 +6782,6 @@ foelike
 forenotice
 foeman
 foemanship
-foemen
 foeniculum
 formicative
 foenngreek
@@ -7183,6 +7182,7 @@ fleapit
 foolmonger
 fools
 fatherling
+foemen
 foolscaps
 fooner
 fooster
