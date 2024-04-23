@@ -7031,7 +7031,6 @@ destituent
 daystreak
 destitute
 destituted
-destitutely
 destituteness
 destituting
 destitution
@@ -16287,6 +16286,7 @@ downflow
 downfold
 downfolded
 downgate
+destitutely
 dilluer
 downgyved
 downgoing

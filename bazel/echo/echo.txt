@@ -1074,7 +1074,6 @@ edgemaker
 edgemaking
 edgeman
 edger
-edgerman
 edgers
 edges
 edgeshot
@@ -10999,6 +10998,7 @@ euphemisms
 euphemist
 euphemistic
 euphemistical
+edgerman
 euphemistically
 euphemization
 encephalomyelopathy
