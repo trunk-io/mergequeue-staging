@@ -6177,7 +6177,6 @@ benefic
 benefice
 bisulfite
 beneficed
-beneficeless
 beneficences
 biliousness
 bravo
@@ -7264,6 +7263,7 @@ bestraddle
 bestraddled
 bestraddling
 bestrapped
+beneficeless
 bestraught
 bestraw
 bestreak
