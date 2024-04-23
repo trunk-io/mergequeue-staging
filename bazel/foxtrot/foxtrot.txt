@@ -4391,7 +4391,6 @@ fishbones
 fadingness
 fishbowl
 fisheye
-fisheyes
 fisher
 fisherboat
 fisherboy
@@ -7243,6 +7242,7 @@ footling
 frontignan
 footlock
 footlocker
+fisheyes
 fenestra
 footlockers
 flodge
