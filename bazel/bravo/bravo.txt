@@ -8905,7 +8905,6 @@ binomy
 binomialism
 binomially
 binomials
-binominal
 bunchbacked
 binominated
 bulwark
@@ -9431,6 +9430,7 @@ birder
 birdfarm
 birdfarms
 birdglue
+binominal
 birdhood
 birdhouse
 birdhouses
