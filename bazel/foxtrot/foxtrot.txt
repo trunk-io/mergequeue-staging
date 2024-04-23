@@ -2983,7 +2983,6 @@ feverroot
 fevertrap
 frostbit
 fevertwig
-fevertwitch
 fratority
 feverweed
 feverwort
@@ -5531,6 +5530,7 @@ flexions
 flexitime
 ferdiad
 flexive
+fevertwitch
 flexo
 flexography
 flexographic
