@@ -3497,6 +3497,7 @@ fight
 fightable
 fighter
 fighteress
+frontomalar
 fighters
 fighting
 fightings
@@ -10453,7 +10454,6 @@ frontoethmoid
 fatimid
 frontogenesis
 frontolysis
-frontomalar
 frontomaxillary
 frontomental
 foveole
