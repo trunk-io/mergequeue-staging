@@ -5251,6 +5251,7 @@ begettal
 begetters
 begetting
 beggable
+bromobenzene
 beggardom
 beggared
 beggarer
@@ -15847,7 +15848,6 @@ bromoacetone
 bromoaurate
 bromoaurates
 bromoauric
-bromobenzene
 bromobenzyl
 bromochloromethane
 bromochlorophenol
