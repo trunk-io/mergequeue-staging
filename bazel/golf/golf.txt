@@ -5611,6 +5611,7 @@ glyptotherium
 globeholder
 glires
 gliridae
+grains
 gliriform
 gliriformia
 glis
@@ -7761,7 +7762,6 @@ grainiest
 graininess
 graining
 grainland
-grains
 grainsick
 grainsickness
 grainsman
