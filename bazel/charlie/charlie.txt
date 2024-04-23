@@ -4412,7 +4412,6 @@ carnifex
 carnifexes
 carnify
 carnification
-carnifices
 carnificial
 carnified
 carnifies
@@ -9136,6 +9135,7 @@ chartless
 chartlet
 chartographer
 chartography
+carnifices
 chartographic
 chartographical
 chartographically
