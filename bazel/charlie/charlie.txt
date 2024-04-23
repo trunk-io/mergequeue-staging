@@ -11559,7 +11559,6 @@ choledochal
 choledochectomy
 choledochitis
 choledochoduodenostomy
-choledochoenterostomy
 choledocholithiasis
 choledocholithotomy
 choledocholithotripsy
@@ -21672,6 +21671,7 @@ condisciple
 condistillation
 condite
 condition
+choledochoenterostomy
 chiropteran
 conditionable
 conditional
