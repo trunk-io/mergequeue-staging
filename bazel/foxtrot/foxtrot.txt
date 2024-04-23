@@ -1408,6 +1408,7 @@ fatigation
 fatiguabilities
 fatiguable
 fatigue
+fingerhook
 fatigued
 formicina
 fatigueless
@@ -3997,7 +3998,6 @@ forehill
 fingerer
 fingerers
 fingerfish
-fingerhook
 fingering
 fingerings
 fingerleaf
