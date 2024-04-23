@@ -696,7 +696,6 @@ famine
 famines
 frostfishes
 faming
-famished
 famishes
 famishing
 famishment
@@ -1656,6 +1655,7 @@ forthrights
 fritz
 fawners
 fawny
+famished
 flameflower
 fawnier
 fawniest
