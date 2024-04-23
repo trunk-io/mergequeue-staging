@@ -20489,6 +20489,7 @@ allegro
 arteriology
 agrise
 arterioloscleroses
+asporulate
 arteriolosclerosis
 arteriomalacia
 arteriometer
@@ -21526,7 +21527,6 @@ asporous
 antigovernmental
 avarice
 asport
-asporulate
 aspout
 asprawl
 aspread
