@@ -4937,7 +4937,6 @@ flameout
 flameouts
 flameproof
 flameproofer
-figary
 flamer
 flames
 ferneries
@@ -7832,6 +7831,7 @@ forelady
 foreladies
 forelay
 forelaying
+figary
 foreland
 flattener
 forelands
