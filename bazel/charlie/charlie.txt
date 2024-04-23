@@ -1836,6 +1836,7 @@ cameralist
 cameralistic
 cameralistics
 cameraman
+compound
 camerata
 camerate
 camerated
@@ -23749,7 +23750,6 @@ contrarieties
 contrarily
 contrariness
 contrarious
-compound
 contrariously
 contrariousness
 contrariwise
