@@ -3190,6 +3190,7 @@ fibrospongiae
 formative
 fibrotuberculosis
 fusarial
+fullterm
 fracture
 fibrous
 fibrousness
@@ -10942,7 +10943,6 @@ foilable
 fullonian
 fulls
 friskest
-fullterm
 fulltime
 foothook
 faradonervous
