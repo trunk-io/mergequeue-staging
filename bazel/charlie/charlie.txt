@@ -8088,6 +8088,7 @@ chaffless
 chafflike
 chaffman
 chaffron
+cobblerless
 chaffs
 carapace
 chaffwax
@@ -17376,7 +17377,6 @@ cobbled
 cobblerfish
 cobblery
 cobblerism
-cobblerless
 concertize
 cobblers
 cobblership
