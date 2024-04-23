@@ -1524,6 +1524,7 @@ accessorizing
 accessors
 acciaccatura
 acciaccaturas
+archegoniophore
 acciaccature
 accidence
 accidency
@@ -18812,7 +18813,6 @@ archegonial
 amnionic
 archegoniata
 archegoniatae
-archegoniophore
 archegonium
 abeltree
 archegosaurus
