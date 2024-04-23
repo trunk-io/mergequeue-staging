@@ -5644,7 +5644,6 @@ depersonalising
 depersonalization
 depersonalized
 depersonalizes
-depersonize
 depertible
 depetalize
 depetticoat
@@ -12942,6 +12941,7 @@ dispauperize
 dispeace
 dispeaceful
 disinfest
+depersonize
 dispeed
 dispel
 dispellable
