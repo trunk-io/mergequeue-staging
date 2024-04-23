@@ -1531,6 +1531,7 @@ gartered
 garters
 gilders
 grothine
+gregorianize
 garth
 garths
 garum
@@ -8781,7 +8782,6 @@ grego
 gregor
 gregorian
 glassless
-gregorianize
 greyback
 greybeard
 greycoat
