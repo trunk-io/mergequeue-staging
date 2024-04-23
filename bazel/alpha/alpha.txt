@@ -8599,7 +8599,6 @@ allegations
 allegator
 allegeable
 alleged
-astoundable
 allegedly
 allegement
 alleger
@@ -16964,6 +16963,7 @@ aphthong
 aphthongal
 aphthongia
 apiaca
+astoundable
 ascetta
 apiaceae
 apiaceous
