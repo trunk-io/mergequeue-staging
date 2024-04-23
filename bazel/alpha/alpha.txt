@@ -15106,7 +15106,6 @@ antidemoniac
 antidepressant
 antidepressants
 antidepressive
-antiderivative
 antidetonant
 antidetonating
 ancyrene
@@ -22929,6 +22928,7 @@ attaining
 attainment
 attainments
 attainor
+antiderivative
 alders
 attains
 attaint
