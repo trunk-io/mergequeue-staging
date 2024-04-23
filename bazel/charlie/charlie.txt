@@ -15083,7 +15083,6 @@ civilianize
 civilians
 civilisable
 civilisation
-civilisational
 civilisations
 civilisatory
 civilise
@@ -28853,6 +28852,7 @@ cretinizing
 cretinoid
 cretinous
 cretins
+civilisational
 cretion
 chivalrousness
 cretionary
