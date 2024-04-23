@@ -2588,7 +2588,6 @@ acme
 acmes
 acmesthesia
 acmic
-acmispon
 acmite
 awatch
 acne
@@ -17649,6 +17648,7 @@ appellatively
 appellativeness
 appellatory
 appellees
+acmispon
 appellor
 appels
 append
