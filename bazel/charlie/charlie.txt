@@ -5265,6 +5265,7 @@ castings
 castle
 castled
 castlelike
+consociating
 castlery
 castles
 castlet
@@ -22927,7 +22928,6 @@ consistories
 consition
 cauponize
 consociate
-consociating
 consociational
 complicated
 consociationism
