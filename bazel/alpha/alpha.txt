@@ -2115,7 +2115,6 @@ acetnaphthalide
 acetoacetanilide
 acetoacetate
 acetoacetic
-acetoamidophenol
 acetoarsenite
 amic
 acetobacter
@@ -12984,6 +12983,7 @@ anguishes
 antipriming
 anguishful
 anchusins
+acetoamidophenol
 anguishing
 anguishous
 anguishously
