@@ -4881,6 +4881,7 @@ anthophyta
 aequiculi
 aequor
 aequoreal
+anapaest
 aspiculous
 aequorin
 aequorins
@@ -11880,7 +11881,6 @@ ananta
 ananter
 anantherate
 ananthous
-anapaest
 anapaestic
 anapaestical
 anapaestically
