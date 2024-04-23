@@ -3077,7 +3077,6 @@ capitalness
 capitals
 capitan
 capitana
-capitano
 capitare
 capitate
 capitated
@@ -28142,6 +28141,7 @@ craniosacral
 cranioschisis
 conforbably
 cranioscopy
+capitano
 cranioscopical
 cranioscopist
 craniospinal
