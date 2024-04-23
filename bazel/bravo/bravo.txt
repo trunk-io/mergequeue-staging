@@ -3477,7 +3477,6 @@ bastinadoes
 bastinadoing
 basting
 bastings
-bastion
 bastionary
 bastionet
 bastite
@@ -5611,6 +5610,7 @@ belayer
 belaying
 belays
 belait
+bastion
 biface
 belaites
 belam
