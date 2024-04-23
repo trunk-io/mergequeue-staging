@@ -5990,7 +5990,6 @@ gulfs
 glottology
 glottologic
 glottological
-glottologist
 glotum
 greyhens
 glout
@@ -9189,6 +9188,7 @@ grithbreach
 griths
 gritless
 grits
+glottologist
 gritstone
 gritted
 gritten
