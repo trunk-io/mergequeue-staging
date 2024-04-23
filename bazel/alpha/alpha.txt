@@ -857,7 +857,6 @@ abrogable
 abrogate
 abrogated
 abrogates
-abrogating
 acrogynous
 abrogations
 abrogative
@@ -9044,6 +9043,7 @@ allround
 alls
 allseed
 allspice
+abrogating
 allspices
 allthing
 allthorn
