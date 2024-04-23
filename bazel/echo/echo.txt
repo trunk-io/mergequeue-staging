@@ -4403,7 +4403,6 @@ enamellist
 enamels
 enamelware
 enamelwork
-enami
 enamine
 epistolist
 enamorado
@@ -12163,6 +12162,7 @@ excrementally
 escheat
 excrementary
 excrementitial
+enami
 excrementitious
 excrementitiously
 evzone
