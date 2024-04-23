@@ -2353,7 +2353,6 @@ fenestrato
 fenestrule
 fricandelle
 ficaria
-fenetre
 flabbergasting
 fengite
 fenian
@@ -5865,6 +5864,7 @@ floatiness
 floatingly
 floatless
 floatmaker
+fenetre
 floatman
 floatsman
 floatsmen
