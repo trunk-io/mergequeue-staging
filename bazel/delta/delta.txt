@@ -101,7 +101,6 @@ dactylar
 dactylate
 dactyli
 dactylic
-dactylically
 dactylics
 dactylioglyph
 dactylioglyphy
@@ -10232,6 +10231,7 @@ deportable
 dinornithid
 dinornithiformes
 dinornithoid
+dactylically
 dino
 dinosaur
 dobbins
