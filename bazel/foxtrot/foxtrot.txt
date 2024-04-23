@@ -5557,7 +5557,6 @@ flexuosity
 flexuously
 flexuousness
 flexura
-flexural
 flexure
 flexured
 flexures
@@ -6631,6 +6630,7 @@ fibroglia
 foolisher
 flutes
 fluther
+flexural
 fluty
 flutier
 flutiest
