@@ -293,7 +293,6 @@ gaiterless
 gloom
 gaiting
 gaits
-gaius
 gayway
 gaywings
 gaize
@@ -5247,6 +5246,7 @@ guider
 glassworker
 glassworkers
 glassworking
+gaius
 glassworks
 glassworm
 glasswort
