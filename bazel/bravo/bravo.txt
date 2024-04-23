@@ -4000,6 +4000,7 @@ beachhead
 beachheads
 beachy
 beachie
+bowstring
 bois
 beachier
 beaching
@@ -13844,7 +13845,6 @@ bowstaff
 brokenhearted
 bowstave
 buzane
-bowstring
 bowstringed
 bowstringing
 bowstrings
