@@ -472,7 +472,6 @@ galeorhinidae
 galeorhinus
 galeproof
 garcons
-galera
 galere
 galeres
 galericulate
@@ -4208,6 +4207,7 @@ gimlet
 gimleted
 gimlety
 gimleting
+galera
 gimlets
 gimmal
 gymmal
