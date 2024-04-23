@@ -17348,7 +17348,6 @@ apophony
 apophonia
 apophonic
 apophonies
-apophorometer
 apophthegmatic
 apophthegmatical
 apophthegmatist
@@ -18609,6 +18608,7 @@ arc
 arca
 arcabucero
 amboyna
+apophorometer
 arcacea
 arcade
 asideness

@@ -2647,7 +2647,6 @@ canonicalizing
 congealer
 canonically
 canonicalness
-canonicals
 canonicate
 canonici
 canonicity
@@ -16884,6 +16883,7 @@ cluniac
 cluniacensian
 clunist
 clunked
+canonicals
 clunker
 clunkers
 clunking
