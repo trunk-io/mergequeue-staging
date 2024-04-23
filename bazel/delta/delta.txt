@@ -5120,7 +5120,6 @@ dendrologous
 dendromecon
 dendrometer
 dendrons
-dendrophagous
 dendrophil
 dendrophile
 dendrophilous
@@ -16748,6 +16747,7 @@ dzeron
 disregards
 draperies
 drapers
+dendrophagous
 drapes
 drapet
 drapetomania
