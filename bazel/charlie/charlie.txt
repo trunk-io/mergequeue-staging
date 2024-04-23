@@ -18448,6 +18448,7 @@ chronosemic
 cohost
 cohosted
 cohosting
+conversancy
 cohosts
 cohow
 closetful
@@ -24051,7 +24052,6 @@ conversable
 conversableness
 conversably
 conversance
-conversancy
 conversant
 conversantly
 conversation
