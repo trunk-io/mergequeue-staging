@@ -8936,7 +8936,6 @@ allophite
 allophone
 allophones
 allophonic
-ambulacrum
 asklepios
 allophonically
 allophore
@@ -21515,6 +21514,7 @@ aspiree
 aspirer
 aspirers
 aspires
+ambulacrum
 aspirin
 aspiring
 aspiringly
