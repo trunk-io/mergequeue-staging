@@ -4154,7 +4154,6 @@ admirations
 admirative
 admiratively
 atomise
-admirator
 admire
 admired
 autumnal
@@ -8983,6 +8982,7 @@ allotypes
 allotypy
 allotypical
 allotypically
+admirator
 allotypies
 allotment
 allotments
