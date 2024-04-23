@@ -12767,7 +12767,6 @@ boomslang
 boomslange
 birkies
 boomster
-boomtowns
 boon
 brumalia
 boondock
@@ -15901,6 +15900,7 @@ bromus
 bromvoel
 bromvogel
 bronc
+boomtowns
 bronchadenitis
 bronchi
 bronchia
