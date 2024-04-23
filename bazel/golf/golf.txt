@@ -2912,7 +2912,6 @@ gentisate
 gentisein
 gentisic
 gentisin
-gentium
 gent
 gentle
 gentlefolk
@@ -10438,6 +10437,7 @@ gumpus
 gumshield
 gosling
 gumshoe
+gentium
 goxes
 gumshoed
 guestwise
