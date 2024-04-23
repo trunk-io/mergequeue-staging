@@ -28,6 +28,7 @@ aasvogels
 ab
 aba
 ababdeh
+aprosexia
 abac
 abaca
 alvus
@@ -18088,7 +18089,6 @@ apronless
 aprons
 apronstring
 apropos
-aprosexia
 aprosopia
 aprosopous
 aproterodont
