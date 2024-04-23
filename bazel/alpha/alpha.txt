@@ -3735,7 +3735,6 @@ adenomyxoma
 adenomyxosarcoma
 adenoncus
 adenoneural
-adenoneure
 adenopathy
 avidous
 adenopharyngeal
@@ -7050,6 +7049,7 @@ aisling
 aissaoua
 aissor
 aisteoir
+adenoneure
 aistopod
 aistopoda
 aistopodes
