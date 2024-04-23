@@ -3829,7 +3829,6 @@ fishpond
 filt
 frenatae
 filterability
-filterable
 fauxbourdon
 freakily
 filterableness
@@ -4707,6 +4706,7 @@ flabbergast
 flabbergasted
 flabbergastingly
 flabbergasts
+filterable
 flabby
 flabbier
 flailing
