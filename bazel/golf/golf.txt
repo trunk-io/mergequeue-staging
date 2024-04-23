@@ -3893,7 +3893,6 @@ gibbsite
 griph
 gibbsites
 generalizable
-gibbus
 gibe
 gnattier
 gibed
@@ -9807,6 +9806,7 @@ grithman
 guayroto
 greasewood
 guayule
+gibbus
 guayules
 guajillo
 guajira
