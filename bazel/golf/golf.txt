@@ -4093,7 +4093,6 @@ guarinite
 gigtree
 gigue
 gigues
-giher
 gildings
 giinwale
 goldenmouth
@@ -6660,6 +6659,7 @@ goldtit
 goldurn
 goldurned
 goldurnedest
+giher
 goldweed
 galeopithecus
 goldworker

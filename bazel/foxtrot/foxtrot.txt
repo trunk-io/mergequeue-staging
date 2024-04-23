@@ -9250,7 +9250,6 @@ fractionalized
 fractionalizing
 fractionally
 fractionary
-fractionate
 fractionated
 fractionating
 fractionation
@@ -10000,6 +9999,7 @@ forleft
 friction
 formyls
 frictionable
+fractionate
 frictional
 frictionally
 frictionize
