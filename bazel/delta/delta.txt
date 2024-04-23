@@ -5152,7 +5152,6 @@ drunkery
 denierer
 deniers
 denies
-denigrate
 denigrated
 denigrates
 dobsonfly
@@ -15026,6 +15025,7 @@ danube
 dogmatisation
 dogmatised
 dogmatiser
+denigrate
 dogmatising
 dogmatist
 daucus
