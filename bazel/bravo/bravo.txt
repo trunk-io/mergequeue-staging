@@ -4856,6 +4856,7 @@ bedsteads
 bedstock
 bedstraw
 bedstraws
+beneighbored
 biliteral
 bedstring
 bedswerver
@@ -6207,7 +6208,6 @@ benefits
 benefitted
 blockwood
 benefitting
-beneighbored
 benelux
 beneme
 benempt
