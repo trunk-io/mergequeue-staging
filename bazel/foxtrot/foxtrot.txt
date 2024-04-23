@@ -7587,7 +7587,6 @@ forebowline
 foretopsail
 forebows
 forebrace
-forebreast
 fyce
 forebridge
 foreburton
@@ -11292,6 +11291,7 @@ funnyman
 funnymen
 funniment
 funniness
+forebreast
 funning
 funori
 funs

@@ -4898,6 +4898,7 @@ encroachments
 encrotchet
 encrown
 encrownment
+embolden
 encrust
 encrustant
 encrustation
@@ -6269,7 +6270,6 @@ enraptures
 enrapturing
 elytroplastic
 enravishes
-embolden
 enzootically
 enravishingly
 enravishment
