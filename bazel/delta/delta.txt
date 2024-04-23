@@ -2529,7 +2529,6 @@ declinations
 declinator
 despoilments
 declinatory
-declinature
 decline
 declined
 declinedness
@@ -6698,6 +6697,7 @@ disulfonic
 desilverizing
 desilvers
 desynapsis
+declinature
 desynaptic
 desynchronize
 desinence
