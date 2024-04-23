@@ -16786,7 +16786,6 @@ apetalies
 apetaloid
 apetalose
 apetalous
-apetalousness
 apexes
 apexing
 aph
@@ -23541,6 +23540,7 @@ auriculocranial
 auriculoid
 auriculoparietal
 auriculotemporal
+apetalousness
 auriculoventricular
 anticreation
 auriculovertical
