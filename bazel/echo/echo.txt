@@ -7288,7 +7288,6 @@ enzymology
 eleemosynary
 enzymologies
 enzymologist
-enzymosis
 enzymotic
 enzone
 enzooty
@@ -11350,6 +11349,7 @@ evangeliarium
 evangelic
 evangelical
 evangelicality
+enzymosis
 evangelically
 exploder
 evangelicals
