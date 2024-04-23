@@ -11419,7 +11419,6 @@ evaporize
 evaporometer
 evapotranspiration
 evase
-evasible
 evasion
 evasional
 exorcization
@@ -13214,6 +13213,7 @@ explode
 exploded
 exploders
 exploit
+evasible
 exploitable
 exploitage
 exploitation
