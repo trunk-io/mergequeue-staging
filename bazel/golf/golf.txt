@@ -1915,6 +1915,7 @@ gatecrasher
 gatecrashers
 gated
 gatefold
+guestimating
 grapefruits
 gatefolds
 gatehouse
@@ -9737,7 +9738,6 @@ gruppo
 grus
 grush
 grusian
-guestimating
 grutch
 grutched
 gutter
