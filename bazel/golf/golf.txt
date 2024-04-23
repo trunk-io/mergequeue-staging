@@ -1989,7 +1989,6 @@ gaufre
 gaufrette
 gaugeable
 garnishing
-gaugeably
 gauged
 gauges
 gauging
@@ -10578,6 +10577,7 @@ gunstick
 gunstock
 gunstocker
 gunstocks
+gaugeably
 glagolitic
 gunstone
 gunter
