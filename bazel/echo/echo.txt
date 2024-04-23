@@ -8969,7 +8969,6 @@ ergatandry
 ergatandromorph
 ergatandromorphic
 ergatandrous
-ergate
 ergatocracy
 ergatocrat
 ergatogyne
@@ -13567,6 +13566,7 @@ extensible
 extensibleness
 extensile
 extensimeter
+ergate
 extension
 extensional
 extensionality

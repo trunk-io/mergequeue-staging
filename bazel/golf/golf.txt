@@ -1367,7 +1367,6 @@ garfish
 glyphograph
 garg
 gargalize
-garganey
 garganeys
 gargantua
 gargantuan
@@ -10619,6 +10618,7 @@ gurgoyle
 ginzo
 gurgulation
 gurgulio
+garganey
 gurian
 guric
 gurjan
