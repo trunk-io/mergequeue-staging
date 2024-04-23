@@ -1833,7 +1833,6 @@ debitable
 demultiplexing
 diplacuses
 debite
-debited
 debiteuse
 debiting
 debitrix
@@ -9467,6 +9466,7 @@ digester
 digesters
 digestibility
 digestible
+debited
 digestibleness
 digestibly
 digestif
