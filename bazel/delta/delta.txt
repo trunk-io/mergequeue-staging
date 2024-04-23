@@ -9466,7 +9466,6 @@ digester
 digesters
 digestibility
 digestible
-debited
 digestibleness
 digestibly
 digestif
@@ -9776,6 +9775,7 @@ depolarizer
 diligentia
 diligently
 diligentness
+debited
 dilis
 dilker
 dillenia
