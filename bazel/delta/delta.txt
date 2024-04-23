@@ -1624,7 +1624,6 @@ deallocations
 deals
 dealt
 deambulate
-deambulatory
 deambulatories
 deamidase
 deamidate
@@ -4994,6 +4993,7 @@ demultiplexed
 demultiplexer
 demultiplexers
 disroot
+deambulatory
 diazepam
 demultiplexes
 demure
