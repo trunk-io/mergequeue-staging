@@ -12386,7 +12386,6 @@ dishwiper
 dishwiping
 disidentify
 dysidrosis
-disilane
 disilicane
 dissolvent
 dancette
@@ -16544,6 +16543,7 @@ draftable
 drafted
 draftee
 draftees
+disilane
 drafter
 dopster
 drafty
