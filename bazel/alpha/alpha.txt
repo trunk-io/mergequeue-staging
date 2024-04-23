@@ -8457,7 +8457,6 @@ alkalizes
 axumite
 alkalizing
 alkaloid
-alkaloidal
 alkaloids
 alkalometry
 alkalosis
@@ -22781,6 +22780,7 @@ atoxyl
 atrabilaire
 atrabilarious
 atrabile
+alkaloidal
 atrabiliar
 atrabiliary
 atrabiliarious
