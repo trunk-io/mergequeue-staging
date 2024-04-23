@@ -2237,6 +2237,7 @@ felworts
 fem
 females
 femalist
+ferrocyanate
 femality
 femcee
 feme
@@ -2614,7 +2615,6 @@ ferrocene
 ferrocerium
 ferrochrome
 ferrochromium
-ferrocyanate
 ferrocyanhydric
 ferroconcretor
 ferroelectric
