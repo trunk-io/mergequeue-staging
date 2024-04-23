@@ -2408,6 +2408,7 @@ gambit
 guti
 gelded
 gelder
+genua
 gelders
 geldesprung
 gaseosity
@@ -2952,7 +2953,6 @@ gentries
 gentrification
 gents
 genu
-genua
 grunting
 genual
 genuflect
