@@ -5188,6 +5188,7 @@ geswarp
 glares
 glareworm
 glary
+grazer
 glaziness
 glarier
 grainage
@@ -8516,7 +8517,6 @@ grazable
 gossameriness
 graze
 grazed
-grazer
 gradus
 grovelingly
 grazers

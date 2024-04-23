@@ -5938,7 +5938,6 @@ belted
 beltene
 begrutch
 belter
-beltian
 ballistic
 beltine
 belting
@@ -8963,6 +8962,7 @@ biocide
 biocides
 bioclimatic
 bioclimatician
+beltian
 bioclimatological
 bioclimatologically
 bioclimatologies
