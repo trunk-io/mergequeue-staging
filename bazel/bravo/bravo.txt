@@ -4834,7 +4834,6 @@ bedrop
 bridgemaker
 bedrown
 bedrowse
-bedrug
 bedrugged
 bedrugs
 bedscrew
@@ -18079,6 +18078,7 @@ busman
 busmen
 buss
 benda
+bedrug
 bussed
 busser
 busses
