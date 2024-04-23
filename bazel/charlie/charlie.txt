@@ -3079,7 +3079,6 @@ capitan
 capitana
 capitano
 capitare
-capitasti
 capitate
 capitated
 capitatim
@@ -7385,6 +7384,7 @@ ceramicite
 ceramics
 ceramidium
 ceramist
+capitasti
 ceramists
 ceramium
 ceramography
