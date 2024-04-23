@@ -3436,7 +3436,6 @@ adapa
 adapid
 adapt
 adaptability
-adaptable
 adaptableness
 adaptably
 adaptation
@@ -13375,6 +13374,7 @@ anisosepalous
 anisospore
 anisostaminous
 anisosthenic
+adaptable
 anisostichous
 anisostichus
 anisostomous
