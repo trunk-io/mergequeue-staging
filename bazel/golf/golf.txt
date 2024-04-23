@@ -5416,7 +5416,6 @@ glycerate
 geostrategist
 glyceria
 glyceric
-glyceride
 glyceridic
 grimace
 glyceryl
@@ -7369,6 +7368,7 @@ gothites
 gothlander
 gramma
 gothonic
+glyceride
 goths
 gotiglacial
 gotos
