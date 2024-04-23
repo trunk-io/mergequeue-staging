@@ -12473,6 +12473,7 @@ disinherit
 disinheritable
 disinheritance
 disinheritances
+docentship
 disinherited
 disinheriting
 disinherits
@@ -14649,7 +14650,6 @@ docent
 dago
 docents
 dockhead
-docentship
 diddle
 dringle
 docetae
