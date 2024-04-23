@@ -21257,7 +21257,6 @@ asymtotically
 asynapsis
 asynartete
 async
-asynchrony
 asynchronism
 asynchronisms
 asynchronously
@@ -24995,6 +24994,7 @@ awide
 awiggle
 awikiwiki
 awin
+asynchrony
 awing
 awingly
 awiwi

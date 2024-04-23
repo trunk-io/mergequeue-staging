@@ -1065,6 +1065,7 @@ edestosaurus
 edge
 edgebone
 emyd
+ephorship
 edgeboned
 edged
 edgeless
@@ -7559,7 +7560,6 @@ ephori
 engraving
 ephoric
 ephors
-ephorship
 ephphatha
 ephraim
 ephraimite
