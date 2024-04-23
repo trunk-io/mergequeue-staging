@@ -2981,7 +2981,6 @@ barretor
 bellhanger
 barretors
 barretry
-barrets
 boundaries
 barretter
 barrettes
@@ -17625,6 +17624,7 @@ burgers
 burgess
 brigands
 burgessdom
+barrets
 burgesses
 burggrave
 burgh
