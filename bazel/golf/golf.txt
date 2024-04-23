@@ -8772,7 +8772,6 @@ gregarinoidea
 gregarinous
 gregarious
 gregariously
-gregariousness
 gregaritic
 gregatim
 gregau
@@ -9559,6 +9558,7 @@ growingupness
 growlery
 growleries
 growlers
+gregariousness
 growly
 germinally
 gymnical
