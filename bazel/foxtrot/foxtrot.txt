@@ -10067,7 +10067,6 @@ fright
 frighten
 frightened
 filator
-frightenedness
 frightener
 frightening
 frighteningness
@@ -10547,6 +10546,7 @@ frounce
 frounced
 frounceless
 frounces
+frightenedness
 frouncing
 frousy
 frousier
