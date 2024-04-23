@@ -2305,7 +2305,6 @@ furoate
 fenberry
 fence
 fenced
-fenceful
 fenceless
 fencelessness
 fencelet
@@ -11287,6 +11286,7 @@ feneration
 funnier
 funniest
 funnily
+fenceful
 funnyman
 funnymen
 funniment
