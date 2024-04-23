@@ -2465,7 +2465,6 @@ bosons
 barcella
 boxwork
 barchan
-barchans
 barche
 barcolongo
 barcone
@@ -12016,6 +12015,7 @@ boilerful
 boilerhouse
 boilerless
 boilermaker
+barchans
 boilermakers
 boilerman
 barogram
