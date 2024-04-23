@@ -2797,7 +2797,6 @@ acrididae
 acridiidae
 acridyl
 acridin
-acridine
 acridines
 acridinic
 acridinium
@@ -21962,6 +21961,7 @@ assurgent
 assuring
 agawam
 assuringly
+acridine
 adaptorial
 assuror
 assurors
