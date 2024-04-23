@@ -1700,7 +1700,6 @@ gastralgia
 gastralgic
 gastraneuria
 gastrasthenia
-gastratrophia
 gastrea
 gastreas
 gastrectasia
@@ -6920,6 +6919,7 @@ gonorrhoea
 gonorrhoeal
 gonorrhoeic
 gonosome
+gastratrophia
 garnets
 gonosphere
 gonotheca
