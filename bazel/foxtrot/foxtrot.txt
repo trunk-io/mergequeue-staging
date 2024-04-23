@@ -618,7 +618,6 @@ falunian
 falsism
 frape
 falsiteit
-falsity
 falsities
 fas
 falstaffian
@@ -3386,6 +3385,7 @@ field
 fieldball
 fieldbird
 fluoborate
+falsity
 fielden
 fielders
 frohlich
