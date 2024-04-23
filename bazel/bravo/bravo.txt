@@ -1262,7 +1262,6 @@ bewailable
 balaenoid
 balaenoidea
 balaenoidean
-balaenoptera
 balaenopteridae
 balafo
 balagan
@@ -10870,6 +10869,7 @@ blindfoldly
 blindfolds
 blindish
 blindism
+balaenoptera
 blindless
 blindly
 blindling
