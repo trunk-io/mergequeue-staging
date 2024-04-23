@@ -6864,7 +6864,6 @@ entocoele
 entocoelic
 entocondylar
 entocondyle
-entocondyloid
 electrums
 elegiast
 entocone
@@ -8129,6 +8128,7 @@ exagitation
 epipteric
 epipterygoid
 epipterous
+entocondyloid
 epipubes
 epipubis
 epirhizous
