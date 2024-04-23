@@ -1356,7 +1356,6 @@ balboas
 balbriggan
 bewitchment
 balbusard
-balbutiate
 balbutient
 balbuties
 balche
@@ -13455,6 +13454,7 @@ boudin
 boudoir
 boudoiresque
 boudoirs
+balbutiate
 bouet
 beatermen
 bouffage
