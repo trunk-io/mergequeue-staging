@@ -3100,7 +3100,6 @@ brio
 basaree
 basat
 bascinet
-bascology
 basculation
 bascule
 bascules
@@ -11519,6 +11518,7 @@ blusterous
 blusterously
 blusters
 blutwurst
+bascology
 bm
 bn
 bnf
