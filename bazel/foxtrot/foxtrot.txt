@@ -1438,7 +1438,6 @@ fringy
 fatling
 fatlings
 furbishing
-fatness
 ferie
 fatnesses
 furcular
@@ -3451,6 +3450,7 @@ flashlamps
 flapping
 fiercer
 fieri
+fatness
 fiery
 fellage
 fierier
