@@ -3154,7 +3154,6 @@ geometrized
 geometrizing
 geometroid
 geometroidea
-geomyid
 geomyidae
 geomys
 geomoroi
@@ -6942,6 +6941,7 @@ gonozooid
 granddam
 gessamine
 gonzalo
+geomyid
 goo
 goobers
 goodby
