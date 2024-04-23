@@ -2459,6 +2459,7 @@ betatter
 barcaroles
 barcarolle
 barcas
+bosons
 barcella
 boxwork
 barchan
@@ -13182,7 +13183,6 @@ bosoming
 bosoms
 boson
 bosonic
-bosons
 bosporan
 bosporanic
 bosporian
