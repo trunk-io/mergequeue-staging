@@ -4603,6 +4603,7 @@ gipser
 gipsy
 gypsy
 gipsydom
+gutterlike
 gipsied
 gypsied
 gipsies
@@ -10757,7 +10758,6 @@ guttery
 greenboard
 guttering
 gutterize
-gutterlike
 gutterling
 gutterman
 gutters
