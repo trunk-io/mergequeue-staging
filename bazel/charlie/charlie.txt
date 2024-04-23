@@ -6562,7 +6562,6 @@ ceilings
 ceilingward
 chlorapatite
 ceilingwards
-ceilometer
 ceylon
 ceylonese
 ceylonite
@@ -20907,6 +20906,7 @@ comprehensibly
 comprehensive
 comprehensively
 comprehensiveness
+ceilometer
 comprehensives
 comprehensor
 comprend
