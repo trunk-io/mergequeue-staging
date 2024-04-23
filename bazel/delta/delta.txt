@@ -347,7 +347,6 @@ dustrag
 daybooks
 daybreak
 daibutsu
-desand
 daydawn
 daidled
 diacidic
@@ -8259,6 +8258,7 @@ diagraph
 diagraphics
 diagraphs
 diagredium
+desand
 diaguitas
 diaguite
 diaheliotropic
