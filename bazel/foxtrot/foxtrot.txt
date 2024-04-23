@@ -4477,7 +4477,6 @@ fissidactyl
 fissidentaceae
 flagfish
 foreshorten
-fissidentaceous
 fissile
 fissilingual
 fissilinguia
@@ -6956,6 +6955,7 @@ foliages
 fibry
 folial
 foliate
+fissidentaceous
 foliated
 foliation
 foliator
