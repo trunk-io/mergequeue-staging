@@ -1689,7 +1689,6 @@ deashing
 deasil
 deaspirate
 decostate
-deaspiration
 deassimilation
 deathbed
 deathbeds
@@ -11447,6 +11446,7 @@ discoids
 discolichen
 discolith
 discolor
+deaspiration
 discolorate
 discolorated
 decarburization
