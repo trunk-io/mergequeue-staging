@@ -2087,7 +2087,6 @@ elapids
 endent
 elapine
 elapoid
-elapse
 exteriorate
 extirpateo
 elapsed
@@ -12280,6 +12279,7 @@ execrating
 execration
 execrations
 execrative
+elapse
 execratively
 execrators
 exect
