@@ -7576,7 +7576,6 @@ cerebrophysiology
 cerebropontile
 cerebropsychosis
 cerebrosclerosis
-cerebroscope
 cachexia
 cerebrose
 cerebrosensorial
@@ -13630,6 +13629,7 @@ cymblings
 cymbocephaly
 cymbocephalous
 cymbopogon
+cerebroscope
 cimborio
 cimbrian
 cimbric
