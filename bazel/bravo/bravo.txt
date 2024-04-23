@@ -1631,6 +1631,7 @@ ballone
 ballones
 ballonet
 ballonets
+basisphenoidal
 ballonette
 ballonne
 ballonnes
@@ -3328,7 +3329,6 @@ basiscopic
 basisidia
 basisolute
 basisphenoid
-basisphenoidal
 basitemporal
 basitting
 basiventral

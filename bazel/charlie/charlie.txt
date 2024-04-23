@@ -154,7 +154,6 @@ cabomba
 cabombaceae
 cabombas
 caboodle
-caboodles
 cabook
 censerless
 caboose
@@ -20913,6 +20912,7 @@ compresbyterial
 compresence
 compresent
 compress
+caboodles
 compressed
 compressedly
 compresses
