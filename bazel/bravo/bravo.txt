@@ -13953,7 +13953,6 @@ brachials
 brachiata
 brachiate
 brachiated
-brachiating
 brachiation
 brachiator
 brachyaxis
@@ -17796,6 +17795,7 @@ baskonize
 burniebee
 burnies
 burning
+brachiating
 burningly
 burnings
 burnish
