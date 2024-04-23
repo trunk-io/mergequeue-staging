@@ -197,6 +197,7 @@ baccae
 behymn
 baccalaurean
 baccalaureat
+breather
 baccalaureate
 baccalaureates
 beadily
@@ -14883,7 +14884,6 @@ breathableness
 boaters
 breatheableness
 breathed
-breather
 breathes
 breathful
 breathy
