@@ -7779,7 +7779,6 @@ forehooves
 fibular
 foreyard
 forpit
-foreyards
 foreyear
 forward
 fibres
@@ -7867,6 +7866,7 @@ fleshlike
 fluidify
 foremasts
 foremean
+foreyards
 foremeant
 foremelt
 foremen
