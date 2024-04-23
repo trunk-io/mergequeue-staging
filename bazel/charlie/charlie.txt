@@ -14994,7 +14994,6 @@ cytotoxic
 cytotoxicity
 cytotoxin
 cytotrophy
-cytotrophoblast
 cytotrophoblastic
 cytotropic
 cytotropism
@@ -27515,6 +27514,7 @@ covent
 consension
 coventrate
 coventry
+cytotrophoblast
 coventrize
 coverable
 coverage
