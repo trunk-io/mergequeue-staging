@@ -5276,6 +5276,7 @@ affability
 autopoint
 affable
 affableness
+alaria
 affabrous
 affair
 affaire
@@ -7330,7 +7331,6 @@ alapa
 anoles
 alares
 alary
-alaria
 alaric
 alarm
 alarmable
