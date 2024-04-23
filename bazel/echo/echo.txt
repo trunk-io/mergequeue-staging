@@ -5804,7 +5804,6 @@ enneagon
 engold
 engolden
 engrainedly
-engore
 engorge
 engorged
 engorging
@@ -7465,6 +7464,7 @@ ependymoma
 epenetic
 epentheses
 epenthesis
+engore
 epenthesize
 epenthetic
 epephragmal
