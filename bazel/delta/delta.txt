@@ -1997,7 +1997,6 @@ diarial
 decaying
 decayless
 decays
-defaced
 decal
 decalage
 decalcify
@@ -17818,6 +17817,7 @@ ductings
 duction
 ductless
 ductor
+defaced
 debat
 disimbitter
 ducts
