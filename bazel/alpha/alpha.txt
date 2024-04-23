@@ -1329,7 +1329,6 @@ appraisingly
 acapnias
 acappella
 acapsular
-acapu
 acara
 acarapis
 acarari
@@ -1919,6 +1918,7 @@ aceology
 acephal
 acephala
 acephalan
+acapu
 acephali
 acephalina
 acephaline

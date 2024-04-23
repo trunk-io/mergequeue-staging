@@ -1038,7 +1038,6 @@ elfin
 elvira
 entwists
 edelweisses
-edema
 edemas
 edemata
 edematose
@@ -10054,6 +10053,7 @@ exterminations
 estivator
 estive
 emgalla
+edema
 estmark
 estoc
 estocada
