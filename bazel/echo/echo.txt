@@ -2483,7 +2483,6 @@ esquireship
 electromer
 electromeric
 electromerism
-electrometallurgy
 electrometallurgical
 electrometallurgist
 electrometer
@@ -10507,6 +10506,7 @@ ethnohistorically
 expropriatory
 entwisted
 ethnol
+electrometallurgy
 ethnolinguist
 ethnolinguistic
 ethnolinguistics
