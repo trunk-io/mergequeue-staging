@@ -26713,7 +26713,6 @@ counteravouchment
 counterbalance
 counterbalanced
 counterbalances
-counterband
 counterbarrage
 counterbase
 counterbattery
@@ -31431,6 +31430,7 @@ currawang
 curred
 currency
 currencies
+counterband
 current
 currently
 currentness
