@@ -5560,7 +5560,6 @@ dwining
 departements
 departer
 departing
-departisanize
 departition
 department
 departmental
@@ -6807,6 +6806,7 @@ desmopathy
 desmopathology
 devot
 desmopathologist
+departisanize
 desmopelmous
 desmopexia
 drool
