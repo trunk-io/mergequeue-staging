@@ -4788,7 +4788,6 @@ enclosure
 enclosures
 enclothe
 encloud
-eglomise
 encoach
 encode
 encoded
@@ -10143,6 +10142,7 @@ esugarization
 esurience
 esuriency
 esurient
+eglomise
 esuriently
 et
 eta
