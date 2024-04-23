@@ -5677,7 +5677,6 @@ flindosa
 flyness
 flinger
 flingers
-flingy
 flings
 flinkite
 fator
@@ -11728,6 +11727,7 @@ fuzes
 fuzil
 facingly
 ferfathmur
+flingy
 fuzils
 fuzing
 fuzz
