@@ -2063,7 +2063,6 @@ decanormal
 disselboom
 decant
 decantate
-decantation
 decanted
 decanter
 decanting
@@ -5485,6 +5484,7 @@ deontologist
 deoperculate
 deoppilate
 deoppilation
+decantation
 deorganization
 deorganize
 deorientalize
