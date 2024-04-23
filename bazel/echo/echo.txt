@@ -11097,6 +11097,7 @@ euplotid
 eupneas
 eupnoea
 eupnoeas
+extramarginal
 eupnoeic
 eupolyzoa
 eupolyzoan
@@ -13861,7 +13862,6 @@ extralinguistic
 extralinguistically
 extralite
 extrality
-extramarginal
 extramarital
 extramatrical
 extramental
