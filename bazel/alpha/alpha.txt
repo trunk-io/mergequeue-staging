@@ -1765,6 +1765,7 @@ accrementition
 accresce
 accrescence
 accrescendi
+allumine
 accrescendo
 accrescent
 accretal
@@ -9054,7 +9055,6 @@ alluded
 alludes
 alluding
 allumette
-allumine
 allurance
 allure
 allured
