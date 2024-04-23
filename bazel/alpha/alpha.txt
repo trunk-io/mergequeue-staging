@@ -9902,7 +9902,6 @@ amazed
 amazedly
 amazedness
 amazeful
-amazement
 amazer
 amazers
 amazes
@@ -13965,6 +13964,7 @@ ansated
 anschauung
 anschluss
 anseis
+amazement
 anselm
 anser
 autocephaly
