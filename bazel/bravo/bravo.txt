@@ -15737,7 +15737,6 @@ broigne
 broil
 broiled
 broiler
-broilery
 broilers
 broiling
 broilingly
@@ -17630,6 +17629,7 @@ burgh
 botherment
 burghal
 burghalpenny
+broilery
 burghbote
 burgher
 burgherage
