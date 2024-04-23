@@ -11217,6 +11217,7 @@ amphisarca
 amphisbaena
 amphisbaenae
 amphisbaenas
+ascribable
 amphisbaenian
 amphisbaenic
 amphisbaenid
@@ -21051,7 +21052,6 @@ ascosporous
 ascot
 ascothoracica
 ascots
-ascribable
 ascribe
 ascribed
 ascribes
