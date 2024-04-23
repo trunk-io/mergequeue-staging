@@ -3155,7 +3155,6 @@ fibrolitic
 fibroma
 fibromas
 forgetable
-fibromatoid
 foreorder
 fibromatous
 fibromembrane
@@ -7456,6 +7455,7 @@ forcelessness
 forcelet
 forcement
 forcene
+fibromatoid
 forcepses
 forceput
 forcer
