@@ -1875,7 +1875,6 @@ accusor
 accustom
 accustomation
 accustomed
-accustomedly
 accustomedness
 accustoming
 accustomize
@@ -12963,6 +12962,7 @@ angry
 angrier
 angriest
 angriness
+accustomedly
 angst
 angstrom
 angstroms
