@@ -2838,7 +2838,6 @@ baronies
 burry
 baronize
 baronized
-baronnes
 baronry
 barons
 briggs
@@ -8954,6 +8953,7 @@ besplatter
 biochemistries
 biochemists
 bandoras
+baronnes
 biochore
 biocycle
 biocycles
