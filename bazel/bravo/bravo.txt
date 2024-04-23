@@ -3570,7 +3570,6 @@ bathhouse
 bathhouses
 bathyal
 bathyanesthesia
-bathybic
 braggest
 bathybius
 bathic
@@ -18316,6 +18315,7 @@ buttonhole
 buttonholed
 buttonholer
 buttonholes
+bathybic
 buttonholing
 buttonhook
 buttony
