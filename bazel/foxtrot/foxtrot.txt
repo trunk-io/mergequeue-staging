@@ -4993,7 +4993,6 @@ flangeway
 flank
 flankard
 flanked
-flanken
 flanker
 flankers
 fireshaft
@@ -6741,6 +6740,7 @@ focally
 focaloid
 focimeter
 fockle
+flanken
 fumage
 focoids
 focometer
