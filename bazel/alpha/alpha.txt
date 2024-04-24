@@ -7656,7 +7656,6 @@ alcidine
 alcids
 alcine
 alcyon
-alcyonacean
 alcyonaria
 alcyonarian
 alcyone
@@ -21151,6 +21150,7 @@ ashy
 ashier
 ashiest
 ashily
+alcyonacean
 albococcus
 ashimmer
 ashiness
