@@ -774,7 +774,6 @@ ecotone
 ecotones
 emotive
 euskera
-ecoute
 ecphasis
 ecphonema
 ecphorable
@@ -6660,6 +6659,7 @@ eclogic
 enteromegalia
 enteromesenteric
 enteromycosis
+ecoute
 enteromyiasis
 enteromorpha
 enteron
