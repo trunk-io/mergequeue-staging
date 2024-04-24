@@ -8201,6 +8201,7 @@ diaglyphic
 diaglyptic
 diagnosable
 diagnose
+deacidified
 dipus
 diagnoseable
 diagnosed
@@ -12622,7 +12623,6 @@ dislike
 dislikeable
 disliked
 dislikeful
-deacidified
 dislikeness
 dislikers
 dislikes
