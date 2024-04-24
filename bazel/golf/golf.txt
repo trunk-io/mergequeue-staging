@@ -2843,6 +2843,7 @@ galvaniser
 genoese
 genoise
 genome
+gyrolite
 genomic
 genoms
 genonema
@@ -4778,7 +4779,6 @@ gulix
 gushingness
 gyrohorizon
 guato
-gyrolite
 gyrolith
 gyroma
 gyromagnetic

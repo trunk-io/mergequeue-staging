@@ -4001,6 +4001,7 @@ beachcombers
 beachcombing
 beachdrops
 beached
+brasserie
 basiation
 beacher
 beaches
@@ -14595,7 +14596,6 @@ brassbound
 brasse
 brassey
 borages
-brasserie
 brasseries
 brasses
 brakehand
