@@ -1377,7 +1377,6 @@ effigiating
 effigiation
 effigies
 eductive
-effigurate
 effiguration
 efflate
 efflation
@@ -4729,6 +4728,7 @@ encipherment
 encipherments
 enciphers
 encircle
+effigurate
 endorsing
 encircled
 effronted
