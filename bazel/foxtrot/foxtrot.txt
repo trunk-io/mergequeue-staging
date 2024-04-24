@@ -8244,7 +8244,6 @@ forfeiture
 forfeitures
 forfend
 flounders
-forfended
 forfending
 forfends
 forfex
@@ -10622,6 +10621,7 @@ fructiform
 fructivorous
 fructokinase
 franchisement
+forfended
 fructosan
 fructose
 fructoside
