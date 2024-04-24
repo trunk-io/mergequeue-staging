@@ -12824,7 +12824,6 @@ bootblack
 bootblacks
 booted
 bootees
-booter
 bootery
 bootes
 bootful
@@ -17901,6 +17900,7 @@ bursiform
 bursitis
 berths
 bursitises
+booter
 bursitos
 burst
 bursted
