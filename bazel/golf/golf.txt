@@ -2135,7 +2135,6 @@ gawkish
 gingerroot
 glossographical
 gawkishly
-geometry
 gawkishness
 gawks
 gawm
@@ -7912,6 +7911,7 @@ granddads
 gladiate
 granddaughter
 granddaughterly
+geometry
 granddaughters
 grande
 grandee
