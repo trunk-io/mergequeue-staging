@@ -4610,7 +4610,6 @@ bedarkens
 bariolage
 bedaub
 bedaubed
-breathseller
 bundeli
 bedaubing
 bedaubs
@@ -12734,6 +12733,7 @@ bookworm
 bookworms
 bool
 boolean
+breathseller
 booleans
 booley
 booly
