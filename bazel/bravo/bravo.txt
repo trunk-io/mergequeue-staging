@@ -7142,7 +7142,6 @@ bespeckled
 bespectacled
 besped
 bespeech
-bespell
 buccan
 bespelled
 bespend
@@ -16773,6 +16772,7 @@ botheration
 betrothal
 buffaloing
 buffalos
+bespell
 buffball
 buckwasher
 buffcoat
