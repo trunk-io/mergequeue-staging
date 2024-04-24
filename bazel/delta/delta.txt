@@ -710,7 +710,6 @@ dampproofing
 damps
 dams
 damsel
-damselfishes
 damselfly
 damselflies
 damselhood
@@ -16578,6 +16577,7 @@ dissentation
 draggier
 draggiest
 draggily
+damselfishes
 dragginess
 dragging
 draggle
