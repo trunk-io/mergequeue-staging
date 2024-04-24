@@ -15058,7 +15058,6 @@ citternhead
 cataphora
 citterns
 citua
-cytula
 cytulae
 ciudad
 cyul
@@ -17944,6 +17943,7 @@ coelome
 coelomes
 coelomesoblast
 coelomic
+cytula
 coelomocoela
 coelomopore
 coeloms
