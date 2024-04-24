@@ -1957,7 +1957,6 @@ gatter
 gatteridge
 gau
 gaub
-gauche
 gauchely
 gaucherie
 gaucheries
@@ -10092,6 +10091,7 @@ guesthouses
 guestimate
 garryaceae
 guestive
+gauche
 guestling
 guestmaster
 guestship
