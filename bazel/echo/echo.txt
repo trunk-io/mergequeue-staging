@@ -1179,7 +1179,6 @@ educability
 educable
 educand
 eluviate
-educatability
 educatable
 educate
 educated
@@ -8692,6 +8691,7 @@ equinity
 equinities
 equinoctial
 equinoctially
+educatability
 equinumerally
 ethrogs
 epidermatous
