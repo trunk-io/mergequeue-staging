@@ -8253,7 +8253,6 @@ chalcidoidea
 chalcids
 chalcioecus
 chalcis
-chalcites
 chalcocite
 chalcogen
 chalcogenide
@@ -11639,6 +11638,7 @@ cholinesterase
 cholinic
 confronting
 cholinolytic
+chalcites
 cholla
 cryogen
 chollas
