@@ -3925,6 +3925,7 @@ emigrants
 emigrate
 emigrates
 emigrating
+enfever
 emigration
 emigrational
 emigrationist
@@ -5578,7 +5579,6 @@ enfettered
 enfettering
 echoist
 enfetters
-enfever
 enfevered
 enfevering
 enfevers

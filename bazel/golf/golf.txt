@@ -2408,7 +2408,6 @@ geldability
 geldable
 geldant
 gambit
-gelded
 gelder
 genua
 gelders
@@ -4868,6 +4867,7 @@ gisel
 gisement
 gish
 gisler
+gelded
 gismo
 gambled
 gismondine
