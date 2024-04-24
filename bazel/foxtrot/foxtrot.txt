@@ -3079,7 +3079,6 @@ fibrillae
 fraken
 fibrillar
 fibrillary
-fibrillated
 fibrillating
 fibrillation
 fibrillations
@@ -6235,6 +6234,7 @@ flowerage
 flowerbed
 flowerers
 floweret
+fibrillated
 flowerets
 flowerfly
 flowerful
