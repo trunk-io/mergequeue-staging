@@ -2637,7 +2637,6 @@ filicologist
 ferroprussic
 fording
 ferrotype
-ferrotyped
 ferrotyper
 fraxinella
 froebelian
@@ -4841,6 +4840,7 @@ firepower
 flagstaffs
 flagstaves
 facioscapulohumeral
+ferrotyped
 flagstick
 flagstones
 flagworm

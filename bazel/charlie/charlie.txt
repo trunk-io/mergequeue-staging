@@ -8718,7 +8718,6 @@ chantlate
 chantment
 cornflag
 chantor
-chantors
 chantress
 chantry
 chantries
@@ -15127,6 +15126,7 @@ civilly
 civilness
 civism
 civisms
+chantors
 civitan
 civitas
 civite
