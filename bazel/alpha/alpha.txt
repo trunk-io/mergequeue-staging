@@ -2205,7 +2205,6 @@ achafe
 achage
 achagua
 achakzai
-achalasia
 achamoth
 achape
 achaque
@@ -6238,6 +6237,7 @@ assessments
 aglance
 aglaos
 aglaozonia
+achalasia
 aglare
 aegritude
 aglaspis
