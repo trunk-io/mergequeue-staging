@@ -4166,7 +4166,6 @@ dromedarist
 delineative
 delineator
 delineavit
-delinition
 delinquence
 delinquency
 delinquencies
@@ -6586,6 +6585,7 @@ desertions
 desertism
 desertless
 desertlessly
+delinition
 desertlike
 desertness
 desertress
