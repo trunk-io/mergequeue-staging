@@ -11487,7 +11487,6 @@ blur
 blurb
 blurbist
 blurbs
-blurred
 blurredly
 blurredness
 blurry
@@ -13824,6 +13823,7 @@ bowman
 bowmen
 bown
 bowne
+blurred
 bowpin
 barbicanage
 bart
