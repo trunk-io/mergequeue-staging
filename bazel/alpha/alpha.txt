@@ -6918,7 +6918,6 @@ airfield
 airfields
 airflow
 airflows
-airfoil
 airfoils
 airframe
 airframes
@@ -15012,6 +15011,7 @@ anticoagulator
 amoritic
 anticodon
 anticogitative
+airfoil
 anticoincidence
 anticold
 anticolic

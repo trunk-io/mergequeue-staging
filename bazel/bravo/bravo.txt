@@ -2056,7 +2056,6 @@ bangle
 bangled
 bangling
 bangos
-baldmoneys
 bangtail
 bangtailed
 bangtails
@@ -8379,6 +8378,7 @@ bigener
 bigeneric
 bigential
 bigfoot
+baldmoneys
 bigg
 bigged
 biggen
