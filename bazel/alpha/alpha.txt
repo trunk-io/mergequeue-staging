@@ -3148,7 +3148,6 @@ axoplasm
 actinometers
 actinometry
 actinometric
-actinometrical
 actinometricy
 actinomyces
 actinomycese
@@ -6012,6 +6011,7 @@ agentives
 agentry
 agentries
 agents
+actinometrical
 anour
 ageometrical
 ager
