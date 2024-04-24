@@ -2407,7 +2407,6 @@ electrograph
 endosarc
 electrography
 electrographic
-electrographite
 electrograving
 electroharmonic
 electrohemostasis
@@ -9559,6 +9558,7 @@ eschele
 escheve
 embroaden
 eschevin
+electrographite
 eschew
 eschewal
 eschewals
