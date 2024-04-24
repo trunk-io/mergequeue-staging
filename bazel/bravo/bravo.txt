@@ -3038,7 +3038,6 @@ barrowcoat
 barrowist
 barrowman
 backscatters
-barrows
 barrulee
 barrulet
 barrulety
@@ -13949,6 +13948,7 @@ brachering
 braches
 brachet
 blankly
+barrows
 brachets
 brachia
 brachial
