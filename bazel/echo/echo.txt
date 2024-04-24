@@ -12341,7 +12341,6 @@ exemplar
 exemplary
 exemplaric
 exemplarily
-exemplariness
 exemplarism
 exemplarity
 exemplars
@@ -13404,6 +13403,7 @@ expulser
 expulses
 expulsion
 ewer
+exemplariness
 earlyish
 expulsive
 expulsory
