@@ -6438,7 +6438,6 @@ gobbled
 gobbledegook
 gobbledygook
 gobbler
-gobblers
 glomeration
 gobbles
 gobbling
@@ -7676,6 +7675,7 @@ graduations
 graduator
 graduators
 graduses
+gobblers
 graeae
 gastroenteroptosis
 graecian
