@@ -8694,6 +8694,7 @@ diplographic
 diathesis
 diathetic
 diatom
+dozes
 diatoma
 diatomaceae
 diatomacean
@@ -16449,7 +16450,6 @@ deadhand
 dozenths
 dozer
 dozers
-dozes
 dozier
 doziest
 dozily
