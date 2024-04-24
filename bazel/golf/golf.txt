@@ -108,6 +108,7 @@ gadflies
 glaucidium
 gheg
 gadget
+gazellelike
 gadgeteer
 gadgetry
 gadgetries
@@ -2162,7 +2163,6 @@ gallycrow
 gazel
 gazeless
 gazella
-gazellelike
 gazelles
 gazelline
 gazement
