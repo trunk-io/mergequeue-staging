@@ -119,7 +119,6 @@ enplanement
 earnie
 earning
 ebauche
-earnings
 earns
 earphone
 earpick
@@ -7499,6 +7498,7 @@ ephemeras
 ephemeric
 ephemerid
 ephemerida
+earnings
 ephemeridae
 ephemerides
 ephemeris
