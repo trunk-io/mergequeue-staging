@@ -803,6 +803,7 @@ daneball
 daneflower
 danegeld
 danegelds
+disprovable
 danegelt
 danelaw
 dyakisdodecahedron
@@ -13263,7 +13264,6 @@ dispropriate
 dysprosia
 diallagite
 dysprosium
-disprovable
 disproval
 disprovement
 disproven
