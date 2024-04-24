@@ -4037,6 +4037,7 @@ cataloger
 cardiotherapies
 cardiotonic
 cardiotoxic
+concussation
 cardiotrophia
 cardiotrophotherapy
 cardiovascular
@@ -21573,7 +21574,6 @@ concurso
 concursus
 concuss
 concussant
-concussation
 concussed
 concusses
 concussing

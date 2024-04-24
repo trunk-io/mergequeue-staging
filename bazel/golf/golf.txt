@@ -4587,7 +4587,6 @@ gyppers
 gippy
 gravaminous
 gipping
-gypping
 gippo
 gips
 gyps
@@ -5705,6 +5704,7 @@ globose
 gladstonianism
 globosely
 globoseness
+gypping
 globosity
 globosities
 globous
