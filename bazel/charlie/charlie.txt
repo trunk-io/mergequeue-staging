@@ -2817,7 +2817,6 @@ cantina
 coeligenous
 cantinas
 canting
-cantingly
 cantingness
 clairschach
 cantinier
@@ -7289,6 +7288,7 @@ cephalochordata
 cephalochordate
 cephalocyst
 cephaloclasia
+cantingly
 cephaloclast
 cephalocone
 chilled
