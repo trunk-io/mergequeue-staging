@@ -4132,7 +4132,6 @@ delimes
 deliming
 dislocations
 delimit
-delimitate
 delimitated
 deletory
 delimitating
@@ -9077,6 +9076,7 @@ dictyosiphonaceous
 dictyosome
 dictyota
 dictyotaceae
+delimitate
 dictyotaceous
 dictyotales
 dictyotic
