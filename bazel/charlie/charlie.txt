@@ -12558,6 +12558,7 @@ chromotropy
 chromotropic
 concepts
 chromotropism
+conflagrate
 chromous
 chromoxylograph
 chromule
@@ -22044,7 +22045,6 @@ confix
 confixing
 conflab
 conflagrant
-conflagrate
 conflagrated
 conflagrating
 conflagration

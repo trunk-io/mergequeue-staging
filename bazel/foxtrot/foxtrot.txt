@@ -1321,6 +1321,7 @@ fastuousness
 fastus
 fastwalk
 foreking
+finishable
 fat
 fatagaga
 fatal
@@ -4061,7 +4062,6 @@ fining
 finings
 finis
 finish
-finishable
 figure
 finished
 finisher
