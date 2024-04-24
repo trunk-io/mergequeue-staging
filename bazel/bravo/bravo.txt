@@ -2029,7 +2029,6 @@ baned
 baneful
 banefully
 banefulness
-banewort
 banff
 bang
 banga
@@ -8853,6 +8852,7 @@ bindwood
 bines
 bineweed
 binful
+banewort
 bing
 binge
 bingee
