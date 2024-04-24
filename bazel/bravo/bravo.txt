@@ -6528,7 +6528,6 @@ benzpinacone
 benzpyrene
 benzthiophen
 benztrioxazine
-beothuk
 barbermonger
 bepaint
 bepainted
@@ -13749,6 +13748,7 @@ bowelless
 bowellike
 bowelling
 bowels
+beothuk
 bowenite
 bower
 bowerbird
