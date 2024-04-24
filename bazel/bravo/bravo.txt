@@ -2251,6 +2251,7 @@ baptise
 baptised
 baptises
 baptisia
+betanaphthol
 baptisin
 baptising
 baptism
@@ -7350,7 +7351,6 @@ byzantine
 betaking
 betalk
 betallow
-betanaphthol
 betangle
 blowby
 betanglement
