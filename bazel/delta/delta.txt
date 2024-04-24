@@ -5850,7 +5850,6 @@ depraver
 depraves
 depraving
 depravingly
-depravity
 depravities
 deprecable
 deprecated
@@ -6569,6 +6568,7 @@ deserticolous
 drisheen
 draughtswoman
 desertification
+depravity
 deserting
 desertions
 desertism
