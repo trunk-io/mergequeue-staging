@@ -2590,7 +2590,6 @@ gendarmery
 geobotanical
 gendarmes
 gender
-gendered
 genderer
 genderless
 genders
@@ -5082,6 +5081,7 @@ gavotted
 glaiketness
 glaikit
 glaiks
+gendered
 glauconite
 glaymore
 grubbiness
