@@ -499,6 +499,7 @@ backslappers
 belonger
 backslapping
 backslaps
+barrier
 backslash
 backslashes
 backslid
@@ -3001,7 +3002,6 @@ barricadoing
 barricados
 barrico
 barricoes
-barrier
 barriers
 barriguda
 barrigudo
