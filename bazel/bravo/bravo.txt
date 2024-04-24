@@ -7110,7 +7110,6 @@ besoothe
 besoothed
 besoothement
 besoothes
-besoothing
 besot
 besotment
 besots
@@ -16797,6 +16796,7 @@ buffy
 bromatium
 buffier
 buffiest
+besoothing
 buffin
 buffing
 buffle
