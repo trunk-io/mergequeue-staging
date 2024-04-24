@@ -415,7 +415,6 @@ fairship
 fairsome
 fairway
 fairways
-fairwater
 fays
 forethinker
 faisan
@@ -3125,6 +3124,7 @@ fibrochondrosteal
 fibrocyst
 fibrocystic
 fibrocystoma
+fairwater
 fibrocyte
 fibrocytic
 fibrocrystalline
