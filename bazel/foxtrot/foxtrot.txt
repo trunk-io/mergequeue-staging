@@ -5754,7 +5754,6 @@ fliskiest
 fetologist
 feastless
 flyspecking
-floppy
 flyspecks
 flyswat
 flyswatter
@@ -8558,6 +8557,7 @@ formose
 formosity
 formous
 formoxime
+floppy
 forms
 formula
 featness
