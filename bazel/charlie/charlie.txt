@@ -5390,7 +5390,6 @@ cataclysmic
 cataclysmically
 cataclysmist
 cataclysms
-catacomb
 catacombic
 catacombs
 catacorner
@@ -9051,6 +9050,7 @@ charlestons
 charlesworth
 charlet
 charlies
+catacomb
 charlock
 charlocks
 charlotte
