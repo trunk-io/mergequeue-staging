@@ -3893,7 +3893,6 @@ deja
 deject
 decamps
 dejectedly
-dejectedness
 dejectile
 dejecting
 dejections
@@ -10086,6 +10085,7 @@ dynamostatic
 devoutless
 diancecht
 deprivation
+dejectedness
 dinantian
 dinaphthyl
 dynapolis
