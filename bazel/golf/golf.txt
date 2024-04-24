@@ -2014,7 +2014,6 @@ gerundively
 gauloiserie
 gauls
 gaulsh
-gault
 gaulter
 gaultherase
 gudesakes
@@ -5596,6 +5595,7 @@ glyphs
 gabble
 glyptal
 glyptic
+gault
 glyptical
 glyptician
 glyptics
