@@ -2976,6 +2976,7 @@ disliken
 deedbox
 deeded
 deedeed
+descamisados
 deedful
 deedfully
 deedholder
@@ -6440,7 +6441,6 @@ desc
 descale
 descaling
 descamisado
-descamisados
 descant
 deranged
 descanted
