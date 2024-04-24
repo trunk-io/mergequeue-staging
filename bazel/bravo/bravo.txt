@@ -3502,7 +3502,6 @@ bataan
 batable
 batad
 brocket
-batak
 bataleur
 batamote
 batan
@@ -15796,6 +15795,7 @@ bromeliaceous
 bromeliad
 bongo
 bromelin
+batak
 bromelins
 bromellite
 bromeosin
