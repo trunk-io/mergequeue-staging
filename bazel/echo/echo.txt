@@ -3242,6 +3242,7 @@ endomorphy
 emaciates
 emaciation
 emaculate
+exocoelom
 emagram
 email
 emailed
@@ -12652,7 +12653,6 @@ exocline
 exocoelar
 exocoele
 exocoelic
-exocoelom
 exocoelum
 exocoetidae
 exocoetus
