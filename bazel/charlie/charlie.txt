@@ -3442,7 +3442,6 @@ caraboa
 caraboid
 carabus
 caracal
-caracals
 caracara
 carack
 caracks
@@ -9976,6 +9975,7 @@ chequers
 chequerwise
 chequerwork
 cheques
+caracals
 chequy
 chequin
 chequinn
