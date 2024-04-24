@@ -9856,7 +9856,6 @@ diluvium
 diluviums
 dim
 dimagnesic
-dissave
 dimane
 dimanganion
 dimanganous
@@ -12954,6 +12953,7 @@ dispeace
 dispeaceful
 disinfest
 depersonize
+dissave
 dispeed
 dispel
 dispellable

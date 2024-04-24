@@ -3794,7 +3794,6 @@ ghostliness
 ghostmonger
 gamboling
 gaolage
-ghostology
 gol
 ghostship
 ghostweed
@@ -4051,6 +4050,7 @@ giggledom
 gigglement
 giggler
 geyserish
+ghostology
 gigglesome
 giggly
 gigglier
