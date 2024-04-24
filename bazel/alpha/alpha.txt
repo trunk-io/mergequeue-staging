@@ -3746,7 +3746,6 @@ almeh
 adenophlegmon
 adenophora
 acrobates
-adenophore
 adenophoreus
 adenophthalmia
 adenopodous
@@ -9344,6 +9343,7 @@ alphabetising
 alphabetism
 adenocellulitis
 alphabetist
+adenophore
 alphabetization
 alphabetize
 alphabetized
