@@ -8236,7 +8236,6 @@ grappa
 grappas
 gemmules
 gryllotalpa
-gasproof
 grapple
 grappled
 grappler
@@ -8948,6 +8947,7 @@ glycoprotein
 griffe
 griffes
 galeid
+gasproof
 griffin
 geyserine
 griffinesque
