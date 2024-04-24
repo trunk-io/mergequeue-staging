@@ -923,7 +923,6 @@ faradic
 fratchy
 faradisation
 faradise
-faradised
 faradiser
 faradises
 faradism
@@ -9176,6 +9175,7 @@ foxery
 foxes
 foxfeet
 forecomingness
+faradised
 foxfire
 foxfires
 foxfish
