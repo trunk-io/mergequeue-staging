@@ -14277,7 +14277,6 @@ anteprandial
 antepredicament
 anteprohibition
 anteprostate
-anteprostatic
 antequalm
 antereformation
 antereformational
@@ -20642,6 +20641,7 @@ aeromagnetic
 aethered
 arthrospore
 arthrosporic
+anteprostatic
 arthrosporous
 arthrosteitis
 arthrosterigma
