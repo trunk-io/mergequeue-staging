@@ -8695,7 +8695,6 @@ equinities
 equinoctial
 equinoctially
 equinumerally
-equinus
 ethrogs
 epidermatous
 equiomnipotent
@@ -9999,6 +9998,7 @@ esthesiometry
 educts
 esthesiometric
 esthesioneurosis
+equinus
 esthesiophysiology
 esthesis
 esthete
