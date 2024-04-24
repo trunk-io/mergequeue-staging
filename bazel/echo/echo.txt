@@ -8683,7 +8683,6 @@ equilucent
 equimodal
 equimolal
 equimolar
-equimultiple
 equinal
 enfant
 equinate
@@ -9420,6 +9419,7 @@ eruditionist
 erugate
 erugation
 eruginous
+equimultiple
 erugo
 erugos
 erump

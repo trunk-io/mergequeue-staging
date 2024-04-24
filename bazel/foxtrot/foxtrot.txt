@@ -981,7 +981,6 @@ foliaging
 freesia
 farde
 farded
-frequence
 fardel
 fiver
 fardelet
@@ -11083,6 +11082,7 @@ funestal
 fun
 funambulant
 funambulate
+frequence
 forceps
 funambulated
 floozy
