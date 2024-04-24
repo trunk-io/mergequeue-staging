@@ -7765,7 +7765,6 @@ epidermis
 epidermization
 epidermoid
 epidermoidal
-epidermolysis
 epidermophyton
 epidermophytosis
 epidermose
@@ -8934,6 +8933,7 @@ ereptic
 ereption
 erethic
 equiponderous
+epidermolysis
 erethisia
 erethism
 erethismic
