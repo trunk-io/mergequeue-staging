@@ -1962,7 +1962,6 @@ banditry
 bandits
 banditti
 bandle
-bandleader
 bandless
 bejabers
 bandlessly
@@ -2330,6 +2329,7 @@ barbary
 baculiferous
 barbarian
 bouncers
+bandleader
 barbarianism
 barbarianize
 beachboys
