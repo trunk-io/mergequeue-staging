@@ -1838,7 +1838,6 @@ eigenfunction
 eigenstate
 eigenvalue
 eigenvectors
-eyght
 eightballs
 eighteen
 eighteenfold
@@ -12468,6 +12467,7 @@ exhaustiveness
 exhaustivity
 exhaustless
 exhaustlessly
+eyght
 exhausts
 exhbn
 exhedrae
