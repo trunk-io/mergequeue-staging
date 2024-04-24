@@ -29230,7 +29230,6 @@ crypteronia
 crypteroniaceae
 cryptesthetic
 cryptic
-cryptical
 cryptically
 crypticness
 covings
@@ -31726,6 +31725,7 @@ customariness
 customed
 customer
 customers
+cryptical
 customhouse
 customhouses
 customing
