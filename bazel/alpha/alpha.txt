@@ -2006,6 +2006,7 @@ acetaldehyde
 acetaldehydrase
 acetaldol
 acetalize
+antegrade
 acetals
 acetamid
 acetamide
@@ -14170,7 +14171,6 @@ antefurcae
 antefurcal
 adjacent
 antegarden
-antegrade
 antehall
 antehypophysis
 antehistoric
