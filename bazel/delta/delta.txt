@@ -1467,7 +1467,6 @@ dirl
 deacetylation
 deacidify
 deacidification
-deacidified
 deacidifying
 deacon
 deaconal
@@ -12622,6 +12621,7 @@ dislike
 dislikeable
 disliked
 dislikeful
+deacidified
 dislikeness
 dislikers
 dislikes
