@@ -2062,7 +2062,6 @@ gaut
 gurkha
 gauteite
 gauzelike
-gauzewing
 gauzy
 gauzier
 gauziest
@@ -2166,6 +2165,7 @@ gazellelike
 gazelles
 gazelline
 gazement
+gauzewing
 gazer
 gazers
 gazes
