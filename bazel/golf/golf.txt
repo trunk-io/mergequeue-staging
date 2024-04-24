@@ -884,7 +884,6 @@ gamboised
 gambol
 gamboled
 gamboler
-gamboling
 gambolled
 gamboller
 gambolling
@@ -3797,6 +3796,7 @@ ghostlikeness
 ghostlily
 ghostliness
 ghostmonger
+gamboling
 gaolage
 ghostology
 gol
