@@ -3597,7 +3597,6 @@ bathylith
 bathylithic
 bathylitic
 bathymeter
-bathymetry
 bathymetric
 bathymetrical
 bathinette
@@ -18007,6 +18006,7 @@ bushmasters
 bushmen
 bushongo
 bushpig
+bathymetry
 bushranger
 bushranging
 breezes
