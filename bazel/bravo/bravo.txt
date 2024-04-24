@@ -4710,6 +4710,7 @@ bediademed
 bediamonded
 bediaper
 bediapered
+bywalker
 bediapering
 bediapers
 bedye
@@ -15471,7 +15472,6 @@ bryophytic
 bryozoa
 bryozoans
 bryozoon
-bywalker
 bryozoum
 briquet
 briquets
