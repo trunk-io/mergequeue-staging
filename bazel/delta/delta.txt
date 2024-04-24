@@ -1753,7 +1753,6 @@ debarment
 debarrance
 debarration
 debarred
-debarring
 debars
 debase
 debased
@@ -11985,6 +11984,7 @@ disenclose
 disencourage
 disencumbered
 disencumbering
+debarring
 disencumberment
 disencumbers
 disendow
