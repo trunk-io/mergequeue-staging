@@ -6173,7 +6173,6 @@ glutenin
 glutens
 gluteofemoral
 gluteoinguinal
-glutethimide
 gluteus
 glutimate
 glutinant
@@ -6453,6 +6452,7 @@ gamogenetic
 goby
 gobia
 gobian
+glutethimide
 goliad
 gobies
 gobiesocid
