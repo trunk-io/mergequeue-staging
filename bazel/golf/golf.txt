@@ -2651,7 +2651,6 @@ grogshops
 generalissima
 generalissimo
 generalissimos
-generalist
 generalistic
 glandered
 generalists
@@ -6479,6 +6478,7 @@ gobio
 gange
 glove
 gynecocracies
+generalist
 garnet
 graphologists
 gobioid
