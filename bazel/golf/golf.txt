@@ -3609,7 +3609,6 @@ gestning
 gestonie
 grenadin
 gestor
-gests
 gestura
 gestural
 gasconaded
@@ -8808,6 +8807,7 @@ greyling
 greillade
 gunfighter
 grein
+gests
 greyness
 glimpsing
 greynesses
