@@ -7707,7 +7707,6 @@ cerotin
 cerotypes
 cerous
 ceroxyle
-ceroxylon
 cerrero
 cerrial
 cerris
@@ -29409,6 +29408,7 @@ crispness
 conularia
 crisps
 criss
+ceroxylon
 crissa
 crissal
 crisscross

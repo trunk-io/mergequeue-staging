@@ -9306,7 +9306,6 @@ fragmentalize
 fragmentally
 fragmentary
 fragmentarily
-fragmentariness
 fragmentation
 fragmented
 fermentology
@@ -9497,6 +9496,7 @@ frary
 frasco
 finesse
 falsen
+fragmentariness
 frasera
 ferfet
 frontoparietal
