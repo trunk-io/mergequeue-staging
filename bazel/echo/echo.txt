@@ -5026,7 +5026,6 @@ endew
 endexines
 endgate
 endhand
-endia
 endiablee
 endiadem
 eyer
@@ -8231,6 +8230,7 @@ epistemic
 epistemically
 epistemolog
 epistemologically
+endia
 epistemologist
 equiprobabilist
 epistemophilia
