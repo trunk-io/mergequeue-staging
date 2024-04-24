@@ -7229,7 +7229,6 @@ enteroanastomosis
 envolupen
 enweave
 enweaved
-enweaving
 enweb
 epitrichium
 enwheel
@@ -10904,6 +10903,7 @@ ergocalciferol
 eumemorrhea
 eumenes
 eumenid
+enweaving
 eumenidean
 eumenides
 ethicized
