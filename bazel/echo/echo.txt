@@ -356,7 +356,6 @@ electrophysiological
 ebbet
 ebbets
 embody
-ebbman
 electrotechnologist
 ebbs
 ebcasc
@@ -6850,6 +6849,7 @@ entitule
 entoblast
 entoblastic
 entobronchium
+ebbman
 entocalcaneal
 entocarotid
 entocele
