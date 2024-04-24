@@ -6181,7 +6181,6 @@ benefactrices
 bardesanism
 benefactrix
 benefactrixes
-benefic
 benefice
 bisulfite
 beneficed
@@ -12213,6 +12212,7 @@ blendcorn
 boltcutter
 bolted
 blatter
+benefic
 boltel
 bolter
 bolters
