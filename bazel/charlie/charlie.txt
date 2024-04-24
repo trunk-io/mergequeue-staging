@@ -5757,7 +5757,6 @@ catercornerways
 catercousin
 catered
 caterer
-caterers
 chichili
 catery
 catering
@@ -30514,6 +30513,7 @@ cubocalcaneal
 cuboctahedron
 cubocube
 cubocuneiform
+caterers
 cubododecahedral
 cuboid
 cuboidal
