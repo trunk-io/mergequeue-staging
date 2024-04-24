@@ -4669,6 +4669,7 @@ fumigators
 fixtureless
 farming
 fixup
+forwarding
 fixups
 fixure
 forra
@@ -8831,7 +8832,6 @@ forwarders
 forwardest
 furmety
 fisheater
-forwarding
 forwardly
 flamingant
 forwardness

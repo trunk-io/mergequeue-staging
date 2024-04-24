@@ -14828,7 +14828,6 @@ antiblastic
 antiblennorrhagic
 antiblock
 antiblue
-antibody
 antibodies
 antiboss
 ayin
@@ -20677,6 +20676,7 @@ articulability
 articulable
 articulacy
 articulant
+antibody
 actuators
 articulare
 articulary
