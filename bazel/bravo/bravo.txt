@@ -6349,7 +6349,6 @@ benton
 bentonite
 bentonitic
 bents
-bentstar
 bentwoods
 benu
 benumb
@@ -14119,6 +14118,7 @@ braconidae
 braconids
 braconniere
 bracozzo
+bentstar
 bract
 bracteal
 bracteate
