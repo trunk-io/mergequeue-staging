@@ -24690,6 +24690,7 @@ coppled
 coppling
 coppra
 coppras
+correctiveness
 copps
 copr
 copra
@@ -25667,7 +25668,6 @@ corrections
 correctitude
 corrective
 correctively
-correctiveness
 correctives
 countermand
 correctly

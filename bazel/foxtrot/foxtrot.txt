@@ -5079,6 +5079,7 @@ flashlamp
 flashlight
 funambulator
 flashlights
+fluorinating
 forellenstein
 flashness
 flashover
@@ -6508,7 +6509,6 @@ fluorimetric
 fermila
 fluorin
 fluorinated
-fluorinating
 fluorination
 fluorinations
 fluorindin
