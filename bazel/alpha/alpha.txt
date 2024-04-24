@@ -5355,7 +5355,6 @@ affiliates
 affiliating
 affiliation
 affiliations
-apery
 affinal
 affination
 affine
@@ -7550,6 +7549,7 @@ albuminocholia
 albuminofibrin
 albuminogenous
 albuminoid
+apery
 albuminoidal
 albuminometer
 albuminometry
