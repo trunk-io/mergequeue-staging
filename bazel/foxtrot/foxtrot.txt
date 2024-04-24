@@ -4371,6 +4371,7 @@ fise
 forb
 fisetin
 fish
+fishpotter
 fishability
 fishable
 friezing
@@ -4441,7 +4442,6 @@ fishplate
 fishpole
 fishpoles
 fishponds
-fishpotter
 fishskin
 fishspear
 fishtail

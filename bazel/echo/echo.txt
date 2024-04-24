@@ -4695,7 +4695,6 @@ encyc
 encycl
 encyclical
 encyclicals
-encyclics
 encyclopaediac
 epinephrin
 encyclopaedial
@@ -14072,6 +14071,7 @@ extrication
 extrinsic
 extrinsical
 elegantly
+encyclics
 emulge
 extendedness
 extrinsically
