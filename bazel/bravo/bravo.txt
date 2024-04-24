@@ -2190,7 +2190,6 @@ banque
 banquet
 banqueted
 banqueteering
-banqueter
 banqueters
 banqueting
 banquets
@@ -15478,6 +15477,7 @@ briquets
 briquette
 brisa
 brisance
+banqueter
 bilbos
 basilar
 brisances
