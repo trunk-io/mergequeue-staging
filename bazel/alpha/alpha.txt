@@ -16985,6 +16985,7 @@ apices
 apician
 apicifixed
 apicillary
+autoradiogram
 apicitis
 apickback
 apickpack
@@ -24325,7 +24326,6 @@ autopticity
 anchylosed
 autoput
 autor
-autoradiogram
 autoradiograph
 autoradiography
 autorail
