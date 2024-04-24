@@ -27455,7 +27455,6 @@ couturiere
 crossfall
 couturieres
 couturiers
-couturire
 couvade
 couvades
 coaeval
@@ -28641,6 +28640,7 @@ crematorium
 crematoriums
 cremators
 crembalum
+couturire
 creme
 cremerie
 cremes
