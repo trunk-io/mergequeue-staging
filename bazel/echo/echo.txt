@@ -1655,7 +1655,6 @@ egression
 egressor
 exiler
 egret
-egrets
 egretta
 egrid
 egrimony
@@ -11491,6 +11490,7 @@ espece
 encyclopaedically
 eventuality
 eventualities
+egrets
 eventualize
 eventually
 eventuated
