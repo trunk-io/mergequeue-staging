@@ -730,7 +730,6 @@ aborticide
 abortient
 abortifacient
 abortin
-aborting
 abortion
 abortional
 abortionists
@@ -5473,6 +5472,7 @@ affricates
 affrication
 affricative
 affriended
+aborting
 affright
 affrighted
 affrightedly

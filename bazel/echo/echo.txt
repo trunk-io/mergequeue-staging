@@ -3589,6 +3589,7 @@ emboweller
 embowelling
 embowelment
 embowels
+endocarpoid
 embower
 embowered
 electronic
@@ -5087,7 +5088,6 @@ endocarditic
 endocardium
 endocarp
 endocarpic
-endocarpoid
 endocarps
 epimenidean
 entities
