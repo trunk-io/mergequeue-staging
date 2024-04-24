@@ -6781,7 +6781,6 @@ desmine
 desmitis
 desmodactyli
 desmodynia
-desmodont
 desmodontidae
 desmodus
 desmogenous
@@ -14731,6 +14730,7 @@ docosane
 discophorous
 docosanoic
 dermatoptic
+desmodont
 docquet
 docs
 doctor
