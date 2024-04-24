@@ -1803,7 +1803,6 @@ fictioneering
 featherwing
 featherwood
 featherwork
-featherworker
 featy
 fluxweed
 featishly
@@ -5675,6 +5674,7 @@ flindosa
 flyness
 flinger
 flingers
+featherworker
 fets
 flings
 flinkite
