@@ -11027,7 +11027,6 @@ ampelitic
 ampelography
 ampelographist
 ampelograpny
-ampelopsidin
 ampelopsin
 ampelopsis
 ampelosicyos
@@ -13370,6 +13369,7 @@ anisomyodian
 anisomyodous
 anisopetalous
 anisophyllous
+ampelopsidin
 anisopia
 anisopleural
 apoplexies
