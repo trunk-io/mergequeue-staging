@@ -7209,7 +7209,6 @@ environments
 environs
 envisage
 enthrill
-envisaged
 envisages
 envisaging
 envision
@@ -8483,6 +8482,7 @@ eutony
 epotation
 epoxy
 epoxide
+envisaged
 epoxides
 epoxidize
 epoxied

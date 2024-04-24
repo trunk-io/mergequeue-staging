@@ -10615,7 +10615,6 @@ chimachima
 chimaera
 chimaeras
 cytoid
-chimaerid
 chimaeroid
 chimaeroidei
 chimakuan
@@ -17173,6 +17172,7 @@ cubanite
 coalitioner
 coalitionist
 coalitions
+chimaerid
 coalize
 coalized
 coalizing
