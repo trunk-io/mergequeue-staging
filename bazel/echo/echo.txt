@@ -1626,6 +1626,7 @@ egophonic
 egos
 embroilment
 egosyntonic
+entier
 egotheism
 egotism
 egotisms
@@ -6816,7 +6817,6 @@ enticers
 entices
 enticingly
 enticingness
-entier
 enties
 enlister
 entify
