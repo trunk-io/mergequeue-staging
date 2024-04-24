@@ -2823,7 +2823,6 @@ barometric
 barometrical
 barometrically
 beelzebub
-barometrography
 baromotor
 baronage
 bespangled
@@ -14289,6 +14288,7 @@ braiders
 braiding
 beckett
 braidings
+barometrography
 braidism
 braidist
 braids
