@@ -767,6 +767,7 @@ ecotype
 ecotypes
 enfurrow
 ecotypic
+entrapped
 ecotipically
 ecotypically
 ecotonal
@@ -3861,7 +3862,6 @@ emetine
 emetines
 epigynous
 eorhyolite
-entrapped
 emetins
 easiness
 emetocathartic
