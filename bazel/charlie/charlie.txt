@@ -1582,6 +1582,7 @@ calorisator
 calorist
 calorite
 calorize
+cheerful
 calorized
 calorizer
 calorizes
@@ -9607,7 +9608,6 @@ cheer
 cheered
 cecil
 cheerer
-cheerful
 cheerfuller
 cheerfullest
 cheerfully
