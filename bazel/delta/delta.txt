@@ -4996,7 +4996,6 @@ demurer
 demurest
 demurity
 demurrage
-demurrages
 demurral
 defunctionalize
 demurrals
@@ -7525,6 +7524,7 @@ devaluating
 devaluation
 devaluations
 devalued
+demurrages
 devalues
 devaluing
 devanagari

@@ -3361,6 +3361,7 @@ fido
 fidos
 fiducia
 fiducial
+fluvio
 fiducially
 fiduciary
 fiduciaries
@@ -6652,7 +6653,6 @@ fluviatic
 fluviatile
 fluviation
 fluvicoline
-fluvio
 fluvioglacial
 fluviolacustrine
 fluviomarine
