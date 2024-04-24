@@ -9595,7 +9595,6 @@ birthroot
 births
 birthstones
 birthwort
-bis
 bys
 bisabol
 bysacki
@@ -17107,6 +17106,7 @@ bulletmaker
 battalia
 bulletmaking
 bulletproofed
+bis
 bulletproofing
 bodleian
 bullets
