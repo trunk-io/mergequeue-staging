@@ -2592,7 +2592,6 @@ gendarmery
 geobotanical
 gendarmes
 gender
-genderer
 genderless
 genders
 glides
@@ -9478,6 +9477,7 @@ groundward
 groundwater
 groundwave
 group
+genderer
 groupable
 groupage
 groupageness
