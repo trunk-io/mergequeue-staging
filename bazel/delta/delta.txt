@@ -4024,7 +4024,6 @@ delegati
 delegating
 delegation
 delegations
-delegative
 delegator
 delegatory
 delegatus
@@ -8840,6 +8839,7 @@ disquantity
 dicaryotic
 dicarpellary
 dicast
+delegative
 dicastery
 dicasteries
 dicastic
