@@ -9252,6 +9252,7 @@ groceries
 groceryman
 grocerymen
 grocerly
+guarded
 grocers
 gedanken
 guernsey
@@ -9913,7 +9914,6 @@ guardable
 guardage
 guardant
 guardants
-guarded
 guardedness
 guardeen
 guarder
