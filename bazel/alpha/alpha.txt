@@ -2540,6 +2540,7 @@ acipenseridae
 acipenserine
 acipenseroid
 acipenseroidei
+algesis
 acyrology
 acyrological
 acystia
@@ -8096,7 +8097,6 @@ algesic
 aglyphodont
 algesimeter
 algesiometer
-algesis
 algy
 algic
 algicidal
