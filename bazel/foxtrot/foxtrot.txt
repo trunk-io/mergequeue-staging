@@ -4374,7 +4374,6 @@ friezing
 fishback
 fishbed
 flannel
-fishberry
 fishberries
 fishboat
 fishboats
@@ -5773,6 +5772,7 @@ fertilizes
 flytime
 factice
 formagenic
+fishberry
 faire
 fliting
 flyting
