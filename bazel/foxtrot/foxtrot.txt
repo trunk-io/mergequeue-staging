@@ -2924,7 +2924,6 @@ feudalize
 feudalized
 feudalizing
 feudary
-firmamental
 feudaries
 feudatary
 feudatory
@@ -4772,6 +4771,7 @@ flagellating
 fanaticising
 flagellation
 folklorist
+firmamental
 flagellations
 flagellative
 flunkeydom

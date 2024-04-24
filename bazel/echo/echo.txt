@@ -4328,6 +4328,7 @@ emulsionize
 emulsions
 emulsoid
 emulsoidal
+exsuccous
 emulsoids
 endoabdominal
 emulsor
@@ -13508,7 +13509,6 @@ exstimulate
 exstipulate
 exstrophy
 exstruct
-exsuccous
 exsuction
 exsudate
 eight
