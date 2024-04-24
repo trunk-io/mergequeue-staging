@@ -8322,6 +8322,7 @@ gentianic
 grassmen
 grassnut
 grassplat
+guahivo
 grassplot
 grassweed
 generalship
@@ -9788,7 +9789,6 @@ guageable
 guaguanche
 guahiban
 guahibo
-guahivo
 guayaba
 guayabera
 guayaberas
