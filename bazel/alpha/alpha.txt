@@ -936,7 +936,6 @@ agglutinating
 absences
 absentation
 absented
-absentee
 absentees
 acanthopteri
 absenteeship
@@ -2565,6 +2564,7 @@ acknowledgers
 acknowledges
 acknowledging
 acknowledgment
+absentee
 acknowledgments
 acknown
 ackton
