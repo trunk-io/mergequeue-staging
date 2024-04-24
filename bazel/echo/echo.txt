@@ -4686,6 +4686,7 @@ enchondromata
 enchondromatous
 enchondrosis
 enchorial
+eplot
 enchoric
 enchronicle
 electropneumatically
@@ -8441,7 +8442,6 @@ epizootiological
 electrodialitically
 epizootiologically
 epizootology
-eplot
 epoch
 epocha
 epithelioid
