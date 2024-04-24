@@ -3475,7 +3475,6 @@ bastiment
 bastinade
 bastinaded
 bastinades
-baroi
 bastinading
 burbots
 bastinado
@@ -9905,6 +9904,7 @@ bitterest
 bitterhearted
 bittering
 bitterish
+baroi
 bursectomy
 bitterishness
 bitterling
