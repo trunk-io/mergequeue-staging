@@ -326,6 +326,7 @@ eaters
 eath
 eathly
 epibasal
+eviler
 eating
 eatings
 el
@@ -11590,7 +11591,6 @@ evildoer
 evildoers
 evildoing
 eyebridled
-eviler
 enquicken
 evilest
 exoergic
