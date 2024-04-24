@@ -9929,7 +9929,6 @@ chemotherapist
 chemotherapists
 chemotic
 chemotroph
-chemotrophic
 chemotropic
 chemotropically
 chemotropism
@@ -29705,6 +29704,7 @@ cronus
 crooch
 crood
 croodle
+chemotrophic
 crooisite
 crook
 crookback
