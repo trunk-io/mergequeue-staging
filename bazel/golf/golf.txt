@@ -2869,7 +2869,6 @@ gentamicin
 genteel
 glike
 genteeler
-genteelest
 genteelism
 galactophthysis
 genteelness
@@ -4328,6 +4327,7 @@ genapper
 gynaeceum
 glycaemia
 gynaecia
+genteelest
 gynaecic
 gynaecium
 gynaecocracy
