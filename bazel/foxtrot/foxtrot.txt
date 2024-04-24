@@ -4877,7 +4877,6 @@ fecials
 flaked
 flakeless
 flaky
-flakier
 flakiest
 favouredness
 flakiness
@@ -6964,6 +6963,7 @@ fabaceous
 folioliferous
 foliolose
 filefish
+flakier
 foliose
 foliosity
 flowmanostat
