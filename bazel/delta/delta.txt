@@ -3134,6 +3134,7 @@ defats
 defatted
 defatting
 default
+deterministically
 defaultant
 defaulted
 defaulters
@@ -7255,7 +7256,6 @@ determining
 determinism
 determinist
 deterministic
-deterministically
 decennially
 determinists
 determinoid
