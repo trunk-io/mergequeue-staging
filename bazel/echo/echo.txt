@@ -9394,7 +9394,6 @@ erucivorous
 eruct
 eructance
 eructate
-eructates
 endeavor
 eructating
 eructation
@@ -11923,6 +11922,7 @@ exceeded
 engineered
 exceeders
 exceeding
+eructates
 exceedingly
 exceedingness
 ebonizes

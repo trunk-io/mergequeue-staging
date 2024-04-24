@@ -4066,6 +4066,7 @@ finished
 finisher
 finishers
 finishes
+fortunetell
 finishing
 finitary
 finite
@@ -8808,7 +8809,6 @@ fortuneless
 firebreak
 fortunella
 fortunes
-fortunetell
 fortuneteller
 fripper
 fluvialist
