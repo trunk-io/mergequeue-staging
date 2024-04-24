@@ -2027,6 +2027,7 @@ fegs
 fernless
 feh
 fei
+foredating
 fey
 feyer
 feretrum
@@ -7637,7 +7638,6 @@ fivefoldness
 fleabiting
 foredated
 folliful
-foredating
 foredeck
 foredecks
 foredeclare
