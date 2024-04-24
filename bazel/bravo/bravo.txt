@@ -3362,7 +3362,6 @@ basketries
 baskets
 basketware
 basketweaving
-beid
 bullshit
 basketwork
 bucconasal
@@ -10636,6 +10635,7 @@ bleating
 bleatingly
 bleats
 bleaunt
+beid
 bleb
 blebby
 blechnoid
