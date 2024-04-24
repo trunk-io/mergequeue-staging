@@ -1988,7 +1988,6 @@ galvanizations
 gauffer
 gaufferer
 gauffers
-glycogenic
 gauffre
 gauffred
 gaufre
@@ -2623,6 +2622,7 @@ genep
 genepi
 gorgonize
 genera
+glycogenic
 generability
 generable
 geisotherm
