@@ -5740,6 +5740,7 @@ deploringly
 deplumate
 deplumated
 deplumation
+displayable
 deplume
 deplumed
 depluming
@@ -13099,7 +13100,6 @@ displacements
 displacency
 displaces
 displacing
-displayable
 desiderating
 displayed
 displayer
