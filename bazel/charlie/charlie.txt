@@ -13393,7 +13393,6 @@ cyclopteroid
 cyclopterous
 cyclorama
 cycloramas
-cycloramic
 cyclorrhapha
 cyclorrhaphous
 considerator
@@ -14408,6 +14407,7 @@ circumspection
 conjugating
 colloped
 circumspective
+cycloramic
 circumspectively
 circumspectly
 circumspectness
