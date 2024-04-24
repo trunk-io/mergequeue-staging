@@ -2255,6 +2255,7 @@ electricalize
 electrically
 electricalness
 electrican
+edificant
 electrician
 electricians
 electricity
@@ -4304,7 +4305,6 @@ emulatively
 enthronements
 erythric
 emulator
-edificant
 emulatory
 emulators
 economizers
