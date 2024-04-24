@@ -8229,7 +8229,6 @@ alids
 alien
 alienability
 alienabilities
-alienable
 alienage
 alienages
 alienate
@@ -11119,6 +11118,7 @@ amphicytula
 amphicoelian
 amphicoelous
 amphicome
+alienable
 amphicondyla
 amphicondylous
 amphicrania
