@@ -2380,6 +2380,7 @@ billets
 barbellula
 barbellulae
 barbellulate
+belecture
 barbels
 ballroom
 barbeque
@@ -5675,7 +5676,6 @@ beleaps
 beleapt
 beleave
 belection
-belecture
 beledgered
 belee
 beleed
