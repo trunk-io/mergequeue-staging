@@ -14425,7 +14425,6 @@ branchedness
 branchellion
 brancher
 branchery
-branches
 branchful
 bilimbi
 branchy
@@ -17628,6 +17627,7 @@ burgesses
 burggrave
 burgh
 botherment
+branches
 burghal
 burghalpenny
 broilery
