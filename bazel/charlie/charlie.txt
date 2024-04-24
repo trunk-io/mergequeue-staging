@@ -1210,7 +1210,6 @@ calgary
 calgon
 caliban
 caliber
-calibers
 calybite
 cunas
 calibogus
@@ -12052,6 +12051,7 @@ chanceries
 choruslike
 chorusmaster
 chorussed
+calibers
 chorusses
 chorussing
 curcuma
