@@ -3929,7 +3929,6 @@ emigrator
 emigre
 emigres
 emil
-emily
 emilia
 emim
 eminence
@@ -5311,6 +5310,7 @@ endoscopy
 endoscopic
 endoscopically
 endoscopies
+emily
 endosecretory
 endosymbiosis
 endosiphon
