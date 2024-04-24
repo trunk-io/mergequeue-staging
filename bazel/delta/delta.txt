@@ -5398,7 +5398,6 @@ dentistries
 daunter
 dentition
 deputized
-dentoid
 dentolabial
 dentolingual
 dentololabial
@@ -11343,6 +11342,7 @@ discharges
 discharging
 discharity
 discharm
+dentoid
 dischevel
 dyschiria
 dehumanization

@@ -1690,7 +1690,6 @@ eidently
 eider
 existential
 eiderdown
-eiders
 electropult
 eidetically
 eidograph
@@ -5924,6 +5923,7 @@ enheritance
 enhydra
 enhydrinae
 enhydrite
+eiders
 enhydritic
 engnessang
 entoolitic
