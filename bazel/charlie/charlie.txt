@@ -21081,7 +21081,6 @@ comradeship
 comrado
 comrogue
 comsat
-comsomol
 comstock
 comstockery
 comstockeries
@@ -25231,6 +25230,7 @@ corkages
 corkboard
 conventionalized
 corke
+comsomol
 corked
 corker
 corkers
