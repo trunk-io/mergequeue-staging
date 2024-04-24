@@ -274,7 +274,6 @@ fados
 fadridden
 fads
 fae
-faecalith
 federation
 faeces
 faecula
@@ -10786,6 +10785,7 @@ fthm
 forwardation
 ftncmd
 ftnerr
+faecalith
 frenetic
 fu
 fuage
