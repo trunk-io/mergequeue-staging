@@ -355,7 +355,6 @@ faintise
 faintish
 faintishness
 faintly
-faintling
 faintness
 flair
 faints
@@ -11521,6 +11520,7 @@ furunculoid
 furunculus
 furze
 floodplain
+faintling
 furzed
 flapperhood
 furzeling
