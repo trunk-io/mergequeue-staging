@@ -1222,6 +1222,7 @@ academias
 academic
 academical
 academicals
+axone
 academician
 academicians
 academicianship
@@ -24081,7 +24082,6 @@ autogravure
 autoharp
 autoheader
 autohemic
-axone
 autohemolysin
 autohemolytic
 autohemorrhage
