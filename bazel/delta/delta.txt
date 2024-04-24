@@ -5931,7 +5931,6 @@ depressor
 dactylotheca
 depressors
 depressure
-depressurize
 deprest
 depreter
 deprevation
@@ -15003,6 +15002,7 @@ doggle
 doggo
 doggone
 doggonedest
+depressurize
 doggoner
 doggones
 doggonest
