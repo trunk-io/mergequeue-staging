@@ -7038,7 +7038,6 @@ beslings
 beslipper
 beslobber
 baguio
-beslow
 beslubber
 beslur
 beslushed
@@ -7853,6 +7852,7 @@ biaural
 biauricular
 biauriculate
 biaxal
+beslow
 biaxial
 biaxiality
 biaxially
