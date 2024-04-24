@@ -16317,6 +16317,7 @@ clippings
 clips
 clipse
 clipsheet
+collisive
 clipsheets
 clipsome
 clipt
@@ -19104,7 +19105,6 @@ collyriums
 collis
 collision
 collisional
-collisive
 collywest
 collyweston
 collywobbles
