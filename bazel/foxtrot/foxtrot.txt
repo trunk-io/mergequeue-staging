@@ -6926,7 +6926,6 @@ folderols
 folders
 foldy
 foldless
-foldout
 frowzy
 foldouts
 folds
@@ -9872,6 +9871,7 @@ frequentest
 foreschooling
 foolhardiest
 frequenting
+foldout
 frequentness
 frostbow
 frolicked
