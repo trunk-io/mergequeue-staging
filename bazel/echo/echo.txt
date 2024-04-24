@@ -11566,7 +11566,6 @@ evicke
 evicted
 evictee
 evictees
-evicting
 encaustically
 eviction
 evictions
@@ -13004,6 +13003,7 @@ expellees
 expellent
 expeller
 expellers
+evicting
 efficacious
 expelling
 eoliths

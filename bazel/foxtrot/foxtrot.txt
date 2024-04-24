@@ -3885,7 +3885,6 @@ fin
 finable
 finagle
 finagler
-finaglers
 finagles
 fairstead
 final
@@ -4926,6 +4925,7 @@ forehood
 flameout
 flameouts
 flameproof
+finaglers
 flameproofer
 flamer
 flames
