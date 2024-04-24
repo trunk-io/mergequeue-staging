@@ -1083,6 +1083,7 @@ beauclerk
 bailie
 bailiery
 bailieries
+brutalizes
 bailies
 bailieship
 bailiff
@@ -16415,7 +16416,6 @@ bionomics
 brutalization
 brutalize
 brutalized
-brutalizes
 brutalizing
 brutally
 brutalness
