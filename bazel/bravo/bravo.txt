@@ -3402,7 +3402,6 @@ bassanello
 bassanite
 bassara
 bassarid
-bassaris
 bassariscus
 bassarisk
 birlers
@@ -9623,6 +9622,7 @@ biscuitmaker
 biscuitmaking
 biscuitry
 biscuitroot
+bassaris
 burnets
 biscuits
 banes
