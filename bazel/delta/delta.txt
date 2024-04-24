@@ -5300,6 +5300,7 @@ dentaliums
 dauber
 dentalization
 dentalize
+decimetres
 dentalized
 dysenteries
 dentally
@@ -11700,7 +11701,6 @@ discoursiveness
 daydreamed
 discourt
 discourteous
-decimetres
 discourteously
 discourteousness
 discoach
