@@ -2469,7 +2469,6 @@ ferment
 fermentability
 furzechat
 fermentable
-fermental
 fermentarian
 ferrocyanic
 forlie
@@ -10759,6 +10758,7 @@ frustum
 frustums
 frutage
 frutescence
+fermental
 frized
 frutescent
 fumulus
