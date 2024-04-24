@@ -7832,6 +7832,7 @@ epigeum
 epistasis
 epigyne
 epigyny
+eroded
 epigynies
 epigynum
 endosteomata
@@ -9242,7 +9243,6 @@ ernie
 ernst
 erodability
 erode
-eroded
 erodent
 erodes
 erodibility
