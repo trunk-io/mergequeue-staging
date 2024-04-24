@@ -43,7 +43,6 @@ ecphonesis
 eardropper
 eardrum
 eardrums
-eisell
 eared
 earflap
 earflaps
@@ -9670,6 +9669,7 @@ esloign
 existentially
 esmayle
 esmeralda
+eisell
 esmeraldan
 esne
 etiologically
