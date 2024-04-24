@@ -3292,7 +3292,6 @@ fiddles
 fiddlestick
 fiddlesticks
 foreallot
-frictionless
 fiddlewood
 fubbery
 flimflamming
@@ -7474,6 +7473,7 @@ forches
 forcedly
 forcy
 forcibility
+frictionless
 forcible
 forcibleness
 forcibly

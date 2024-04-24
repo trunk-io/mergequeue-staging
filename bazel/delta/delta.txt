@@ -9215,7 +9215,6 @@ diehard
 diehards
 dyehouse
 dieyerie
-dyeing
 dieldrin
 dieldrins
 dyeleaves
@@ -13565,6 +13564,7 @@ disserviceable
 disserviceableness
 disserviceably
 disservices
+dyeing
 dolts
 disserving
 dissettle
