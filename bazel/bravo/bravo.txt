@@ -8975,7 +8975,6 @@ biocides
 bioclimatic
 bioclimatician
 beltian
-bioclimatological
 bioclimatologically
 bioclimatologies
 biocoenose
@@ -13424,6 +13423,7 @@ bottomers
 bottoming
 bottomland
 bottomless
+bioclimatological
 bottomlessly
 bottomlessness
 brimmimg

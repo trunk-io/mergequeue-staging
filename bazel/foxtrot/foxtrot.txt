@@ -4819,7 +4819,6 @@ flagitiousness
 flagleaf
 flagless
 forechurch
-flaglike
 flotation
 flagmaker
 flagmen
@@ -7072,6 +7071,7 @@ fondants
 fondateur
 furziest
 fonder
+flaglike
 fondest
 fonding
 fondle
