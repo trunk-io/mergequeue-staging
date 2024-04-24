@@ -2461,7 +2461,6 @@ deckels
 decken
 decker
 deckhand
-deckhands
 deckhead
 deckhouse
 deckie
@@ -10340,6 +10339,7 @@ diopters
 dioptograph
 dioptometer
 dioptometry
+deckhands
 dioptomiter
 dioptoscopy
 dioptra
