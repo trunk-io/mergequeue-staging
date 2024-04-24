@@ -3740,6 +3740,7 @@ fluviology
 followable
 fractionator
 faceoff
+fluormeter
 fillers
 fillet
 filleted
@@ -6518,7 +6519,6 @@ fluorine
 fluorines
 fluorite
 fluorites
-fluormeter
 fluorobenzene
 fluoroborate
 fluorocarbon
