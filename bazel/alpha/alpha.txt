@@ -17765,7 +17765,6 @@ appetizement
 appetizer
 appetizers
 appetizing
-appinite
 appius
 appl
 applanate
@@ -20375,6 +20374,7 @@ arsenobenzol
 arsenobismite
 arsenofuran
 arsenohemol
+appinite
 arsenolite
 arsenophagy
 arsenophenylglycin
