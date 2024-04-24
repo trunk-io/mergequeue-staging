@@ -11535,7 +11535,6 @@ anacard
 anacardiaceae
 anacardiaceous
 anacardic
-anacardium
 anacatadidymus
 anacatharsis
 anacathartic
@@ -13495,6 +13494,7 @@ ann
 anna
 annabel
 annabergite
+anacardium
 annal
 accessories
 annale
