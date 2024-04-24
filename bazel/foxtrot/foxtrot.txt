@@ -6796,7 +6796,6 @@ foetus
 foetuses
 fofarraw
 flanger
-fog
 fogas
 fogbank
 fogbound
@@ -9056,6 +9055,7 @@ fountainous
 fountainously
 fustle
 fountains
+fog
 footmaker
 fountainwise
 fountful
