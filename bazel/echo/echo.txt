@@ -2616,7 +2616,6 @@ electrosurgical
 electrosurgically
 electrotactic
 electrotautomerism
-electrotaxis
 electrotechnic
 end
 embrasure
@@ -4358,6 +4357,7 @@ enacted
 enacting
 enaction
 epithelioglandular
+electrotaxis
 enactive
 effectualize
 enactment
