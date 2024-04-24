@@ -8956,7 +8956,6 @@ chareter
 charette
 chemisms
 chargable
-charge
 chargeability
 chargeable
 chargeableness
@@ -9508,6 +9507,7 @@ checkerspot
 checkerwise
 checkerwork
 checkhook
+charge
 checky
 checklaton
 checkle
