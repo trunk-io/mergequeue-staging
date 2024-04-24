@@ -6041,7 +6041,6 @@ agglomerates
 agglomeratic
 agglomerating
 agglomeration
-agglomerative
 agglomerator
 autoing
 agglutinability
@@ -6721,6 +6720,7 @@ ayens
 aeolina
 ayenst
 aiery
+agglomerative
 autoclaved
 ayes
 aeroplaner
