@@ -677,7 +677,6 @@ familiarize
 familiarized
 familiarizer
 familiarizes
-familiarizing
 familiarizingly
 familiarly
 ferlie
@@ -7527,6 +7526,7 @@ foreacquaint
 foreact
 foreadmonish
 flashpan
+familiarizing
 fitly
 foreadvertise
 foreadvice
