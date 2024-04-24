@@ -2234,6 +2234,7 @@ decempartite
 decempedal
 decempennate
 decemplex
+determinativeness
 decemplicate
 decempunctate
 decemstriate
@@ -7257,7 +7258,6 @@ determination
 determinations
 determinative
 determinatively
-determinativeness
 determinator
 determined
 determinedly
