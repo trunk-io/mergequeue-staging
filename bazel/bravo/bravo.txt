@@ -1153,7 +1153,6 @@ boardable
 baysmelt
 baister
 bait
-baited
 baiter
 baiters
 backbone
@@ -12845,6 +12844,7 @@ booty
 bootid
 bootie
 bootied
+baited
 bootikin
 bootikins
 blowsiest
