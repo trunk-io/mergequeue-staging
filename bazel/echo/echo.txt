@@ -3159,6 +3159,7 @@ elsin
 eodiscid
 elt
 eltrot
+eruc
 eluant
 enterophthisis
 eluants
@@ -9381,7 +9382,6 @@ erubescence
 erubescent
 eventerate
 erubescite
-eruc
 eruca
 eruciform
 erucin
