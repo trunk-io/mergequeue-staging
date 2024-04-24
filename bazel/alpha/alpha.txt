@@ -2809,7 +2809,6 @@ acridines
 acridinic
 acridinium
 acridity
-acridities
 acridium
 acrydium
 acridness
@@ -3275,6 +3274,7 @@ actual
 actualisation
 actualise
 actualised
+acridities
 actualising
 actualism
 actuality
