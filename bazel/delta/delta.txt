@@ -5017,7 +5017,6 @@ dured
 den
 dename
 denar
-denarcotize
 denari
 deriders
 denaries
@@ -8520,6 +8519,7 @@ diaphanoscope
 dirties
 diaphanotype
 deosculate
+denarcotize
 diaphanous
 diaclasite
 diaphanousness
