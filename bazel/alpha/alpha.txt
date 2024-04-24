@@ -10822,7 +10822,6 @@ ammonolyzed
 ammonolyzing
 ammophila
 ammophilous
-ammoresinol
 ammoreslinol
 ammos
 ammotherapy
@@ -21638,6 +21637,7 @@ assemblee
 assemblement
 anniv
 assembler
+ammoresinol
 assembles
 assembly
 assemblies
