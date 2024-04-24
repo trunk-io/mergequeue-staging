@@ -5368,7 +5368,6 @@ frigefact
 flectional
 flectionless
 flector
-fledge
 fledged
 fledgeless
 fledgeling
@@ -10772,6 +10771,7 @@ filemaker
 fruticeta
 fruticetum
 fruticose
+fledge
 fruticulose
 fruticulture
 frutify
