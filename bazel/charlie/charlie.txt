@@ -17000,6 +17000,7 @@ coachman
 cogency
 coachmaster
 coachmen
+conglobulate
 coachs
 coachsmith
 coachsmithing
@@ -22261,7 +22262,6 @@ conglobe
 conglobed
 conglobes
 conglobing
-conglobulate
 cookless
 conglomerate
 conglomerated
