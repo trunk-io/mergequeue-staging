@@ -4340,7 +4340,6 @@ deluxe
 delve
 dyspepsy
 delved
-delver
 delvers
 delves
 dodecamerous
@@ -10874,6 +10873,7 @@ dirity
 dirked
 dirks
 dirled
+delver
 dirling
 dirls
 doorplate
