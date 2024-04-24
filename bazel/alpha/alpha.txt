@@ -9779,6 +9779,7 @@ amalgamatize
 amalgamator
 amalgamators
 acidanthera
+amphithyra
 amalgamist
 amalgamize
 amalgams
@@ -11276,7 +11277,6 @@ amphithecium
 amphithect
 amphithere
 antepartum
-amphithyra
 amphithyron
 amphithura
 amphithuron
