@@ -4841,7 +4841,6 @@ aeolicism
 aeolid
 aeolidae
 aeolididae
-aeoline
 aeolipile
 aeolipyle
 aeolis
@@ -19753,6 +19752,7 @@ aristocracies
 aristocrat
 aristocratic
 archives
+aeoline
 aristocratically
 amphophilous
 aristocraticalness
