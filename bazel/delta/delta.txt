@@ -5041,6 +5041,7 @@ denaturants
 denaturate
 denaturation
 denaturational
+discure
 denature
 denatured
 dissentism
@@ -11817,7 +11818,6 @@ disculpatory
 discumb
 dissenterism
 discumber
-discure
 discurre
 discurrent
 discursative
