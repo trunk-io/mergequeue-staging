@@ -7008,7 +7008,6 @@ besides
 besiege
 besieged
 besiegement
-besiegers
 biorhythmicities
 besieges
 besieging
@@ -17629,6 +17628,7 @@ burgh
 botherment
 burghal
 burghalpenny
+besiegers
 broilery
 burghbote
 burgher
