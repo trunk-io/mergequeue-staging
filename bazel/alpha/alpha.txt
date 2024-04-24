@@ -18824,7 +18824,6 @@ abeltree
 archegosaurus
 archeion
 archelaus
-archelenis
 avertedly
 archelogy
 archelon
@@ -23109,6 +23108,7 @@ attractancy
 attractant
 attracted
 attracter
+archelenis
 attractile
 attracting
 attraction
