@@ -6560,7 +6560,6 @@ bepierce
 bepile
 bepill
 bepimple
-bepimpled
 bepimples
 bepimpling
 bepinch
@@ -6575,6 +6574,7 @@ baculoid
 bepraise
 bepraisement
 bergall
+bepimpled
 bepraiser
 beprank
 bepranked
