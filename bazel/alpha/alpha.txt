@@ -9048,7 +9048,6 @@ alloxuraemia
 alloxuremia
 alloxuric
 allozooid
-allround
 alls
 allseed
 allspice
@@ -22201,6 +22200,7 @@ astricted
 astricting
 astriction
 astrictive
+allround
 astrictively
 antigonococcic
 astrictiveness
