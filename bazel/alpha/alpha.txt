@@ -11956,7 +11956,6 @@ anapsid
 anapsida
 anapsidan
 anapterygota
-anapterygote
 anapterygotism
 anapterygotous
 anaptychi
@@ -13431,6 +13430,7 @@ ankara
 ankaramite
 ankaratrite
 ankee
+anapterygote
 anker
 ankerhold
 ankerite
