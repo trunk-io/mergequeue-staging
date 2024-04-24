@@ -6135,6 +6135,7 @@ caulescent
 cauli
 caulicle
 caulicles
+corticoefferent
 caulicolous
 cauliculi
 cauliculus
@@ -25905,7 +25906,6 @@ corticipetal
 corticipetally
 corticium
 corticoafferent
-corticoefferent
 corticole
 corticoline
 corticolous
