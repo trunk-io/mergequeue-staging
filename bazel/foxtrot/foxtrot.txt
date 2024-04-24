@@ -1006,6 +1006,7 @@ flows
 fuchsin
 farfal
 farfara
+featheredges
 farfel
 farfels
 farfetch
@@ -1769,7 +1770,6 @@ feathercut
 feathered
 fundatorial
 featheredge
-featheredges
 featherer
 featherers
 featherfew
