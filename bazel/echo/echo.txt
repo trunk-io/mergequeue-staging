@@ -713,7 +713,6 @@ ecol
 ecole
 ecoles
 ecologic
-ecologically
 ecologist
 ecologists
 ecomomist
@@ -8117,6 +8116,7 @@ encomiologic
 exagitation
 epipteric
 epipterygoid
+ecologically
 epipterous
 entocondyloid
 epipubes
