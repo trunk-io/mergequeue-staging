@@ -590,7 +590,6 @@ damascus
 damask
 damasked
 diasper
-damaskeen
 demophobe
 damaskeening
 damaskin
@@ -18654,6 +18653,7 @@ dwell
 dollop
 dweller
 dwellers
+damaskeen
 dwelling
 dwellings
 dwells
