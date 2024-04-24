@@ -1450,7 +1450,6 @@ garnierite
 garnishable
 garnished
 garnishee
-garnisheed
 gelatinization
 garnishees
 galleypot
@@ -4591,6 +4590,7 @@ gipped
 gypped
 gipper
 gypper
+garnisheed
 grangerizer
 gyppery
 gippers
