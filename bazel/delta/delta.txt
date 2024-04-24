@@ -1612,7 +1612,6 @@ dealers
 dealership
 dealerships
 dealfish
-dealfishes
 dealing
 dealings
 dealkylate
@@ -17586,6 +17585,7 @@ drumskin
 drumsler
 drumstick
 drumsticks
+dealfishes
 drumwood
 drung
 drungar
