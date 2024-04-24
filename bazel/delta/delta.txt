@@ -5412,7 +5412,6 @@ dentulous
 dentural
 disturbative
 denture
-dentures
 denuclearization
 denuclearized
 denuclearizes
@@ -10628,6 +10627,7 @@ diplomates
 diplomatical
 diplomatically
 diplomatique
+dentures
 diplomatism
 diplomatist
 diplomatists
