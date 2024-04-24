@@ -16827,7 +16827,6 @@ aphasic
 aphasics
 aphelandra
 aphelenchus
-aphelia
 aphelian
 aphelilia
 aphelilions
@@ -24158,6 +24157,7 @@ autoloader
 autoloaders
 autoloading
 autology
+aphelia
 autological
 autologist
 autologous
