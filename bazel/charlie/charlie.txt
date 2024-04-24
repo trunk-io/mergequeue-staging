@@ -24215,7 +24215,6 @@ convolvulaceous
 convolvulad
 convolvuli
 convolvulic
-convolvulin
 convolvulinic
 convolvulinolic
 convolvulus
@@ -25884,6 +25883,7 @@ corta
 cortaderia
 cortaro
 corteges
+convolvulin
 corteise
 cortes
 cortex

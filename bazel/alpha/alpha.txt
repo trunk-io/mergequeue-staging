@@ -2438,6 +2438,7 @@ acidite
 acidity
 acidities
 acidized
+analysts
 acidizing
 acidly
 acidness
@@ -11781,7 +11782,6 @@ analysing
 antimoniate
 analysis
 analyst
-analysts
 aurei
 analyt
 anality
