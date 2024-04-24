@@ -1411,7 +1411,6 @@ callicarpa
 callid
 callidness
 calligram
-calligraph
 calligrapha
 calligrapher
 cavalier
@@ -26750,6 +26749,7 @@ countercheer
 counterclaim
 counterclaimant
 counterclaiming
+calligraph
 counterclaims
 counterclassification
 counterclassifications
