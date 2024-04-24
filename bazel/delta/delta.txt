@@ -11916,7 +11916,6 @@ disembarking
 decentralist
 disembarkment
 disembarks
-disembarrass
 disembarrassed
 disembarrassment
 distelfink
@@ -14466,6 +14465,7 @@ divorceable
 divorced
 divorcees
 divorcement
+disembarrass
 dichotomal
 divorcer
 defiguration
