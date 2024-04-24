@@ -90,7 +90,6 @@ dacryopyosis
 dizygotic
 dacryops
 dacryorrhea
-dacryosyrinx
 dacryostenosis
 dacryuria
 dacron
@@ -2424,6 +2423,7 @@ decipher
 dispenser
 decipherability
 drawers
+dacryosyrinx
 decipherable
 duo
 decipherably
