@@ -5469,7 +5469,6 @@ behn
 behold
 beholdable
 beholden
-beholders
 beholdingness
 bronchiolitis
 branchstand
@@ -8357,6 +8356,7 @@ beothukan
 bigate
 bigbloom
 bigbury
+beholders
 bigemina
 bigeminate
 bigeminated
