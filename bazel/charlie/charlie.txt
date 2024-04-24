@@ -13547,7 +13547,6 @@ cylindraceous
 cylindrarthrosis
 cylindrella
 cylindrelloid
-cylindrenchema
 cylindrenchyma
 cylindric
 cylindrically
@@ -20688,6 +20687,7 @@ complementation
 complementative
 complemented
 complementer
+cylindrenchema
 complementing
 complementizer
 complementoid
