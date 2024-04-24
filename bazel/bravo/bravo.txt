@@ -4139,6 +4139,7 @@ beans
 beansetter
 beanshooter
 beanstalk
+bien
 beanstalks
 bibbs
 beaproned
@@ -10017,7 +10018,6 @@ bronchioles
 byword
 bywords
 bywork
-bien
 byworks
 bixaceae
 bixaceous
