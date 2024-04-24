@@ -10407,7 +10407,6 @@ amicableness
 amicably
 amical
 amice
-amices
 amicicide
 amyclaean
 amyclas
@@ -11533,6 +11532,7 @@ alleviations
 anacamptically
 anacamptics
 anacamptometer
+amices
 anacanthine
 anacanthini
 anacanthous
