@@ -3701,7 +3701,6 @@ embryotome
 embryotomy
 embryotomies
 embryotroph
-embryotrophe
 embryotrophy
 embryotrophic
 embryous
@@ -8368,6 +8367,7 @@ epithetic
 epithetical
 epithetically
 epithetize
+embryotrophe
 epitheton
 epithets
 epithi
