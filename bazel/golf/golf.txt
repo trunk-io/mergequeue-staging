@@ -3161,7 +3161,6 @@ geomorphy
 genuflections
 geomorphic
 geomorphist
-geomorphogenic
 geomorphogenist
 geomorphology
 geomorphologic
@@ -4875,6 +4874,7 @@ gismos
 ghawazi
 gispin
 gist
+geomorphogenic
 gists
 git
 genioplasty
