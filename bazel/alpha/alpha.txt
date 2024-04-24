@@ -1360,7 +1360,6 @@ acarina
 acarine
 acarines
 arcuately
-acarinosis
 acarocecidia
 acarodermatitis
 acaroid
@@ -13036,6 +13035,7 @@ angulinerved
 anguloa
 angulodentate
 angulometer
+acarinosis
 angulose
 aquiform
 angulosity
