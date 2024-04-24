@@ -2408,7 +2408,6 @@ geldability
 geldable
 geldant
 gambit
-guti
 gelded
 gelder
 genua
@@ -8221,6 +8220,7 @@ graphostatic
 graphostatical
 guggles
 greaser
+guti
 graphostatics
 glucina
 graphotypic
