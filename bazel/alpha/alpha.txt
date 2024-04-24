@@ -15600,7 +15600,6 @@ antimetathetic
 antimeter
 antimethod
 antimethodic
-antimethodical
 antimethodically
 antimethodicalness
 antimetrical
@@ -24417,6 +24416,7 @@ autota
 autotelegraph
 autotelic
 autotelism
+antimethodical
 autotetraploid
 autotetraploidy
 autothaumaturgist
