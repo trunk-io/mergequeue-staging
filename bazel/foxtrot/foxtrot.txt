@@ -7738,7 +7738,6 @@ ferine
 foreguts
 forehalf
 forehall
-forehammer
 forehand
 forehanded
 forehandedly
@@ -11506,6 +11505,7 @@ fanlike
 furtherest
 furthering
 furtherly
+forehammer
 furthermore
 furthermost
 furthers
