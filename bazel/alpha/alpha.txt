@@ -9782,7 +9782,6 @@ amalgamator
 amalgamators
 acidanthera
 amalgamist
-amalgamization
 amalgamize
 amalgams
 amalic
@@ -18575,6 +18574,7 @@ arboriform
 arborise
 arborist
 arborists
+amalgamization
 arborization
 arborize
 arboroid
