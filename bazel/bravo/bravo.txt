@@ -5262,7 +5262,6 @@ bromobenzene
 beggardom
 beggared
 beggarer
-beggaress
 beggarhood
 beggaring
 beggarism
@@ -8479,6 +8478,7 @@ biker
 bikers
 buoyed
 bikeway
+beggaress
 bikeways
 bellbine
 bikh
