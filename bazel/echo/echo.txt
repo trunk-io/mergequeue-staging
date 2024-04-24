@@ -2372,7 +2372,6 @@ electrodialysis
 electrodialitic
 electrodialytic
 endaseh
-electrodialitically
 electrodialyze
 electrodynamic
 electrodynamical
@@ -8444,6 +8443,7 @@ epizooties
 epizootiology
 epizootiologic
 epizootiological
+electrodialitically
 epizootiologically
 epizootology
 eplot
