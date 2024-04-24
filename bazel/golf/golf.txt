@@ -6054,7 +6054,6 @@ grieben
 gauger
 glucagons
 glucate
-glucemia
 glucic
 gesticulator
 glucid
@@ -6351,6 +6350,7 @@ gnosiology
 granitoidal
 gnosiological
 gnostical
+glucemia
 gnostically
 gnosticism
 gnosticity
