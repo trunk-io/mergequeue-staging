@@ -3116,7 +3116,6 @@ actinocrinidae
 actinocrinite
 actinocrinus
 actinocutitis
-actinodermatitis
 actinodielectric
 actinodrome
 actinodromous
@@ -15771,6 +15770,7 @@ aitches
 antiorgastic
 antiorthodox
 antiorthodoxy
+actinodermatitis
 antiorthodoxly
 antioxidant
 antioxidants
