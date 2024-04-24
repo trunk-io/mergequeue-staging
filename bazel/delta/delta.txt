@@ -12409,7 +12409,6 @@ disilluminate
 disillusionary
 disillusioned
 disillusioning
-disillusionise
 disillusionised
 disillusioniser
 disillusionising
@@ -15310,6 +15309,7 @@ domer
 domes
 domesday
 domesdays
+disillusionise
 domesticability
 domesticality
 domesticate

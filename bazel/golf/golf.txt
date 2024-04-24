@@ -482,6 +482,7 @@ galesaurus
 galette
 galeus
 galewort
+galavanted
 gavia
 galga
 galgal
@@ -7534,7 +7535,6 @@ gowl
 gowlan
 gown
 gowned
-galavanted
 gowning
 gownlet
 gowns
