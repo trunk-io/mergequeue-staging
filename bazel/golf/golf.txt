@@ -671,7 +671,6 @@ gallnuts
 gallocyanine
 gyrotheca
 galloflavin
-galloflavine
 galloglass
 greekish
 galloman
@@ -3375,6 +3374,7 @@ germane
 gravidas
 ghettoization
 germaneness
+galloflavine
 germanesque
 germany
 glassier
