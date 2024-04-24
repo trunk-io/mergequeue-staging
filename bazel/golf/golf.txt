@@ -6898,6 +6898,7 @@ giesel
 gonocyte
 gonocytes
 gonococcal
+grossart
 gonococci
 gonococcic
 grotesco
@@ -9368,7 +9369,6 @@ gastroenterologist
 grosgrained
 grosgrains
 gross
-grossart
 grosse
 grossed
 grossen
