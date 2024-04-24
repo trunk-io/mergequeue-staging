@@ -7173,6 +7173,7 @@ centrobaric
 cyanastrum
 centrobarical
 centroclinal
+chrysohermidin
 centrode
 centrodesmose
 centrodesmus
@@ -20819,7 +20820,6 @@ comportance
 comported
 comporting
 comportment
-chrysohermidin
 comports
 compos
 connexity
