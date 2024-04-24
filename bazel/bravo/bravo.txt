@@ -6299,7 +6299,6 @@ bennets
 bennettitaceae
 bennettitaceous
 bennettitales
-bennettites
 bennetweed
 benni
 birgus
@@ -17948,6 +17947,7 @@ bushbody
 bushbodies
 baisakh
 betulaceous
+bennettites
 bushboy
 bushbuck
 bushbucks
