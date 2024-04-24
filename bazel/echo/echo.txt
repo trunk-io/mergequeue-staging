@@ -901,7 +901,6 @@ ellipsoids
 ectopia
 ectopic
 ectopistes
-ectoplacenta
 ectoplasy
 ectoplasm
 esthetically
@@ -8107,6 +8106,7 @@ epipoditic
 extracorporeal
 epipodium
 epipolic
+ectoplacenta
 encomiologic
 exagitation
 epipteric

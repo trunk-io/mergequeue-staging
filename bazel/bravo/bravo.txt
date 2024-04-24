@@ -12684,7 +12684,6 @@ bookkeeps
 bearhide
 bookland
 booklear
-booklet
 booklets
 broomy
 booklift
@@ -12966,6 +12965,7 @@ border
 bordereau
 bordereaux
 bordered
+booklet
 borderer
 borderers
 borderies
