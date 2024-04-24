@@ -2012,7 +2012,6 @@ decays
 decal
 decalage
 decalcify
-decalcification
 decalcified
 decalcifier
 decalcifies
@@ -14288,6 +14287,7 @@ divata
 dolly
 dreamingly
 dive
+decalcification
 divebomb
 dived
 divekeeper
