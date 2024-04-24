@@ -4203,7 +4203,6 @@ caricetum
 caricographer
 caricography
 contrectation
-caricology
 caricologist
 caricous
 carid
@@ -19013,6 +19012,7 @@ collen
 collenchyma
 collenchymatic
 collenchymatous
+caricology
 collenchyme
 collencytal
 collencyte
