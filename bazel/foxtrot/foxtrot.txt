@@ -4437,7 +4437,6 @@ fishlines
 fishling
 fishmeal
 fishmeals
-fishmonger
 fishnet
 fishnets
 fishplate
@@ -5179,6 +5178,7 @@ freeheartedness
 flatulent
 formulized
 flatways
+fishmonger
 flatware
 flatwares
 flatwash
