@@ -2057,6 +2057,7 @@ eland
 elands
 elanet
 elans
+eperlan
 elanus
 elaphe
 elaphebolion
@@ -7450,7 +7451,6 @@ epephragmal
 epepophysial
 epergne
 epergnes
-eperlan
 eperotesis
 eperua
 esurine
