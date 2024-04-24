@@ -4354,7 +4354,6 @@ demagnetiser
 demagnetising
 demagnetization
 disorienting
-demagnetize
 demagnetized
 demagnetizes
 demagnetizing
@@ -14001,6 +14000,7 @@ district
 districted
 daimon
 districting
+demagnetize
 distriction
 districtly
 districts
