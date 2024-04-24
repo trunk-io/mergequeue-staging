@@ -2703,7 +2703,6 @@ deconsideration
 decontaminate
 decontaminated
 decontaminates
-decontaminating
 definable
 decontaminations
 duodenopancreatectomy
@@ -17579,6 +17578,7 @@ drumread
 drumreads
 drumroll
 desoxalate
+decontaminating
 drumrolls
 drums
 drumskin
