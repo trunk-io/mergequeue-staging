@@ -4589,7 +4589,6 @@ encephalomyelitic
 encephalomyelitis
 entrepreneurial
 englyn
-encephalomyocarditis
 encephalonarcosis
 encephalopathy
 encephalopathia
@@ -4921,6 +4920,7 @@ encumbrous
 encup
 encurtain
 encushion
+encephalomyocarditis
 endable
 endamage
 endamageable
