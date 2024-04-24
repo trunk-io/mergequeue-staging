@@ -4106,7 +4106,6 @@ admedial
 admedian
 afforced
 admen
-admensuration
 admerveylle
 admetus
 admi
@@ -24293,6 +24292,7 @@ autoplast
 autoplasty
 autoplastic
 autoplastically
+admensuration
 autopneumatic
 autopoisonous
 autopolar
