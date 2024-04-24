@@ -405,7 +405,6 @@ daimiel
 daimio
 daimyo
 duboisin
-dayworker
 daimioate
 daimios
 daimyos
@@ -13857,6 +13856,7 @@ distinctify
 distinction
 distinctional
 distinctionless
+dayworker
 distinctions
 distinctity
 deftest
