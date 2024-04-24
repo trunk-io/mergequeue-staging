@@ -11072,7 +11072,6 @@ blooddrops
 blooded
 bidet
 bloodfin
-bloodfins
 bloodflower
 bloodguilt
 bloodguiltiness
@@ -11674,6 +11673,7 @@ bumkins
 bobflies
 bobfloat
 bobierrite
+bloodfins
 bobization
 bobjerom
 boblet
