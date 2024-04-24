@@ -5381,6 +5381,7 @@ endothelioid
 endotheliolytic
 endothelioma
 endotheliomas
+epitheton
 endotheliomata
 endotheliomyoma
 endotheliotoxin
@@ -8371,7 +8372,6 @@ epithetic
 epithetical
 epithetically
 epithetize
-epitheton
 epithets
 epithi
 epithyme
