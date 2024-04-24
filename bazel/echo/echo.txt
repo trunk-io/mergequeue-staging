@@ -1298,7 +1298,6 @@ effecters
 effectful
 effectible
 effecting
-effective
 entomologists
 effectively
 effectiveness
@@ -6507,6 +6506,7 @@ ensures
 ensuring
 enswathe
 enswathement
+effective
 encephalola
 enswathes
 enswathing
