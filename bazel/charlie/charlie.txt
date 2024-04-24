@@ -7581,7 +7581,6 @@ cassumuniar
 cerebron
 cerebronic
 cerebroparietal
-cerebropathy
 cerebropedal
 cerebrophysiology
 cerebropontile
@@ -28479,6 +28478,7 @@ creatophagous
 creator
 contracture
 creatorhood
+cerebropathy
 creatorrhea
 creators
 creatorship
