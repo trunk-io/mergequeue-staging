@@ -3705,7 +3705,6 @@ embryotrophy
 embryotrophic
 embryous
 embrittle
-exhibited
 embrittled
 embrittling
 embryulci
@@ -12725,6 +12724,7 @@ expandibility
 exon
 exoner
 exonerate
+exhibited
 exonerated
 extreat
 exonerating
