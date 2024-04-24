@@ -5620,7 +5620,6 @@ belays
 belait
 bastion
 biface
-belaites
 belam
 belamcanda
 bladderweed
@@ -17642,6 +17641,7 @@ blowtubes
 burgheristh
 burghermaster
 burghers
+belaites
 burghmaster
 burghmoot
 burghs
