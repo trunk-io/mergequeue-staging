@@ -9357,6 +9357,7 @@ biplosion
 biplosive
 bipod
 bipods
+budgets
 bipolarity
 bipolarization
 bipont
@@ -16731,7 +16732,6 @@ budgeted
 budgeteer
 budgeter
 budgeters
-budgets
 budgie
 budgies
 budging
