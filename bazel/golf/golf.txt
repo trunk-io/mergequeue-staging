@@ -1329,7 +1329,6 @@ gardener
 gardeners
 gatha
 gardenership
-gardenesque
 gardenful
 gardenhood
 gardeny
@@ -7203,6 +7202,7 @@ gorgoneum
 gorgonia
 grassier
 gorgoniacea
+gardenesque
 gorgoniacean
 gorgoniaceous
 gorgonian
