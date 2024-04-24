@@ -1400,6 +1400,7 @@ acatholic
 acaudal
 acaudate
 acaudelescent
+aminosis
 acaulescence
 acaulescent
 acauline
@@ -10647,7 +10648,6 @@ aminopolypeptidase
 aminopropionic
 aminopurine
 aminoquin
-aminosis
 aminosuccinamic
 accurtation
 adenophorous
