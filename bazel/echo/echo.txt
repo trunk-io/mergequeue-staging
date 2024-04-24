@@ -9453,7 +9453,6 @@ enlock
 esc
 esca
 escadrille
-escadrilles
 endocrania
 escalade
 escaladed
@@ -11856,6 +11855,7 @@ elemol
 exarchic
 excides
 exarchies
+escadrilles
 exarchist
 exarchs
 exarillate
