@@ -6732,7 +6732,6 @@ enters
 entertainable
 entertained
 enquires
-entertainer
 eccentrical
 entertainers
 emotionalization
@@ -11850,6 +11849,7 @@ exantlate
 exantlation
 exappendiculate
 exarate
+entertainer
 exaration
 exarch
 exarchal
