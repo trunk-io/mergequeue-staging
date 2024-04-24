@@ -12823,7 +12823,6 @@ angiolymphitis
 angiolymphoma
 angiolipoma
 agapae
-angiology
 angioma
 angiomalacia
 angiomas
@@ -19102,6 +19101,7 @@ archpastor
 archpatriarch
 archpatron
 archphylarch
+angiology
 anana
 archphilosopher
 archpiece
