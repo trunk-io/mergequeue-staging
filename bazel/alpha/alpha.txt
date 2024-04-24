@@ -18182,6 +18182,7 @@ aqualung
 aqualunger
 astrocytic
 aquamanalia
+artifactual
 aquamanile
 aquamaniles
 aquamanilia
@@ -20704,7 +20705,6 @@ artiest
 artifact
 artifactitious
 artifacts
-artifactual
 artifactually
 artifex
 artifice
