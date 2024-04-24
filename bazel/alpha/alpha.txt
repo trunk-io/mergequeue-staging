@@ -2791,7 +2791,6 @@ agavose
 acredula
 acreman
 acremen
-acres
 acrestaff
 acrid
 acridane
@@ -10979,6 +10978,7 @@ amortises
 amortising
 amortissement
 amortisseur
+acres
 arsis
 amortizable
 amortization
