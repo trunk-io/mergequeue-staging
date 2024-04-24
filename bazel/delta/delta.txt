@@ -5021,6 +5021,7 @@ denarcotize
 denari
 deriders
 denaries
+dobbers
 denarii
 denarinarii
 denarius
@@ -6432,7 +6433,6 @@ desalted
 desalter
 desalters
 desalting
-dobbers
 desalts
 desamidase
 desamidization
