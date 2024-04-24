@@ -4609,7 +4609,6 @@ bedarkening
 bedarkens
 bariolage
 bedaub
-bedaubed
 breathseller
 bundeli
 bedaubing
@@ -11690,6 +11689,7 @@ bobs
 bobsled
 bobsledded
 bobsledder
+bedaubed
 bobsledders
 bobsledding
 bobsleded
