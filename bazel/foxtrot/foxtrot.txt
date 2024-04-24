@@ -2016,7 +2016,6 @@ feest
 feet
 feetless
 feezed
-feezes
 feezing
 feff
 fleshment
@@ -7562,6 +7561,7 @@ fizzing
 forebless
 feignedness
 fullface
+feezes
 forebode
 foreboded
 forebodement
