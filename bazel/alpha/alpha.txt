@@ -4218,7 +4218,6 @@ admonitionist
 admonitive
 apotelesmatical
 admonitively
-admonitor
 admonitory
 admonitorily
 admonitrix
@@ -7357,6 +7356,7 @@ apophlegmatism
 alasas
 alascan
 alaska
+admonitor
 alaskaite
 alaskan
 alaskans
