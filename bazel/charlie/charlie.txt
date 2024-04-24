@@ -3088,7 +3088,6 @@ capitation
 capitatum
 capite
 capiteaux
-capitella
 capitellar
 capitellate
 capitelliform
@@ -29517,6 +29516,7 @@ criterions
 criterium
 crith
 crithidia
+capitella
 crithmene
 crithomancy
 critic
