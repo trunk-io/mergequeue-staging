@@ -5561,7 +5561,6 @@ afreets
 afresca
 afresh
 afret
-afrete
 africa
 atalan
 african
@@ -23178,6 +23177,7 @@ atwind
 atwirl
 atwist
 automobilists
+afrete
 atwite
 atwitter
 acalyptrate

@@ -6488,7 +6488,6 @@ descrial
 describability
 describable
 describably
-describe
 described
 describent
 describers
@@ -13846,6 +13845,7 @@ distilleries
 distillers
 distilling
 distillment
+describe
 dool
 distillmint
 distilment
