@@ -16618,7 +16618,6 @@ aortectasia
 aortectasis
 aortic
 aorticorenal
-aortism
 aortitis
 aortoclasia
 aortoclasis
@@ -17420,6 +17419,7 @@ apostasies
 apostasis
 apostates
 apostatic
+aortism
 apostatical
 apostatically
 apostatise
