@@ -5523,7 +5523,6 @@ deoxygenization
 deoxygenize
 deoxygenized
 deoxygenizing
-deoxyribonucleoprotein
 deoxyribonucleotide
 deoxyribose
 deozonization
@@ -16653,6 +16652,7 @@ drails
 drayman
 draymen
 devests
+deoxyribonucleoprotein
 drainable
 drainage
 drainages
