@@ -2357,7 +2357,6 @@ decidence
 dupedom
 decidendi
 decident
-decider
 deciders
 disownment
 dispiritment
@@ -14804,6 +14803,7 @@ dowcet
 documentize
 documentor
 documents
+decider
 dod
 dodd
 doddard
