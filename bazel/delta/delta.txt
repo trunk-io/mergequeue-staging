@@ -2954,6 +2954,7 @@ deduced
 differentiant
 deducement
 deducer
+del
 deduces
 deducibility
 deducibly
@@ -3934,7 +3935,6 @@ dekko
 dekkos
 dekle
 deknight
-del
 duckish
 delabialization
 delabialize
