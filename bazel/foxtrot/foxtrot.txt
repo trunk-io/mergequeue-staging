@@ -9764,7 +9764,6 @@ freewill
 freewoman
 freewomen
 furzes
-figurines
 freeze
 freezed
 flumerin
@@ -11269,6 +11268,7 @@ familiarisation
 funks
 funli
 funmaker
+figurines
 funmaking
 funned
 funnel
