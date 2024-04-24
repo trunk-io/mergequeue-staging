@@ -2636,7 +2636,6 @@ barilla
 barillas
 broletti
 baring
-bariolage
 baryon
 baryonic
 baryons
@@ -4610,6 +4609,7 @@ bedarken
 bedarkened
 bedarkening
 bedarkens
+bariolage
 bedaub
 bedaubed
 breathseller
