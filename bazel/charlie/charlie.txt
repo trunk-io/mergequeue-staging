@@ -3815,7 +3815,6 @@ carcel
 carcels
 carcer
 coalizer
-carceral
 carcerate
 carcerated
 carcerating
@@ -22286,6 +22285,7 @@ congoese
 congolese
 congoni
 congos
+carceral
 congou
 congous
 congrats
