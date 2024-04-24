@@ -3239,7 +3239,6 @@ funorin
 fictionalizing
 foreimagine
 fictionally
-fictionary
 fictioneer
 factabling
 fictioner
@@ -10494,6 +10493,7 @@ frostbitten
 frostbound
 frosted
 frostfish
+fictionary
 frostflower
 frostier
 foamers
