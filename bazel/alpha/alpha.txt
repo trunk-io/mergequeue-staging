@@ -11217,7 +11217,6 @@ amphipodan
 amphipodiform
 amphipods
 amphiprostylar
-amphiprotic
 amphirhina
 annually
 amphirhinal
@@ -24757,6 +24756,7 @@ avie
 aview
 avifauna
 avifaunae
+amphiprotic
 avifaunal
 avifaunally
 armaments
