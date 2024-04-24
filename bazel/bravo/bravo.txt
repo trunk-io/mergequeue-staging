@@ -605,6 +605,7 @@ backwardly
 backwardness
 backwards
 backwash
+brachydomatic
 backwashed
 backwasher
 backwashes
@@ -13993,7 +13994,6 @@ brachydactylous
 brachydiagonal
 brachydodrome
 brachydodromous
-brachydomatic
 bipinnated
 bulgarian
 brachydome
