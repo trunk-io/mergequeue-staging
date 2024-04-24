@@ -13895,7 +13895,6 @@ boxthorn
 bisinuation
 boxthorns
 boxty
-boxtop
 boxtops
 boxtree
 boxwood
@@ -16260,6 +16259,7 @@ bruised
 bruiser
 bruises
 bruisewort
+boxtop
 bruising
 bilaminated
 bruisingly
