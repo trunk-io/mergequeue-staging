@@ -2914,7 +2914,6 @@ feuars
 feucht
 feudal
 feudalisation
-feudalise
 foreassurance
 feudalising
 fendy
@@ -9028,6 +9027,7 @@ foundery
 foundering
 foremistress
 foundership
+feudalise
 forechoir
 foundling
 foundlings
