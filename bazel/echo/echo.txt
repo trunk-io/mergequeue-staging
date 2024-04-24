@@ -5120,7 +5120,6 @@ endocolitis
 endocolpitis
 endocone
 endoconidia
-endoconidium
 endocorpuscular
 encitadel
 endocranial
@@ -10346,6 +10345,7 @@ ethylamide
 ethylamime
 ethylamin
 ethylamine
+endoconidium
 ethylate
 ethylated
 ethylates
