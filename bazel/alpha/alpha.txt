@@ -1461,7 +1461,6 @@ accept
 acceptability
 acceptable
 acceptableness
-acceptably
 acceptance
 acceptances
 acceptancy
@@ -7233,6 +7232,7 @@ alabaman
 alabamian
 alabamians
 aglyphous
+acceptably
 alabamide
 alabamine
 alabandine
