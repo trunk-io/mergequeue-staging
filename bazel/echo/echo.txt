@@ -8725,7 +8725,6 @@ euphemizing
 equipollentness
 equiponderant
 equiponderate
-equiponderated
 equipondious
 equipostile
 equipotential
@@ -13173,6 +13172,7 @@ explant
 explantation
 explanted
 explanting
+equiponderated
 elsa
 explement
 explementary
