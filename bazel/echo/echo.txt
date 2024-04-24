@@ -6573,7 +6573,6 @@ entelechies
 entellus
 entelluses
 entelodon
-entelodont
 entempest
 exteriorisation
 entemple
@@ -12616,6 +12615,7 @@ exition
 exitious
 exits
 exiture
+entelodont
 exitus
 exlex
 exmeridian
