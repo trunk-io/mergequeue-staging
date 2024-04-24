@@ -6829,7 +6829,6 @@ fogyisms
 fertilized
 fogless
 fimble
-foglietto
 fogman
 fogmen
 fogo
@@ -11054,6 +11053,7 @@ fumiest
 fumify
 fumigating
 fourteenfold
+foglietto
 fumigations
 fumigator
 fumigatories
