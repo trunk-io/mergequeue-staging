@@ -3722,7 +3722,6 @@ filippo
 fortified
 filipuncture
 filister
-filisters
 filite
 filius
 filix
@@ -10046,6 +10045,7 @@ friers
 fryers
 fluoborite
 fries
+filisters
 friese
 friesian
 friezed
