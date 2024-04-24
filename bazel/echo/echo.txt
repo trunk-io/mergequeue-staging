@@ -6234,7 +6234,6 @@ enquire
 enquired
 enquiry
 enquiries
-enquiring
 enrace
 enrage
 enraged
@@ -8861,6 +8860,7 @@ erasers
 erases
 eria
 erasing
+enquiring
 erasion
 erasions
 erasmian
