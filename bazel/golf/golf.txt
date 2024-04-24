@@ -6362,7 +6362,6 @@ gnotobiotic
 gnotobiotically
 generalizes
 gnow
-gns
 gnu
 gnus
 goa
@@ -7386,6 +7385,7 @@ gynaecologic
 gotten
 gottfried
 givin
+gns
 gottlieb
 gou
 glyceride
