@@ -1259,6 +1259,7 @@ dativogerundial
 dato
 datolite
 datolitic
+doless
 datos
 datsun
 datsuns
@@ -15144,7 +15145,6 @@ derisions
 doles
 dolesome
 dolesomely
-doless
 dolf
 doli
 dolia
