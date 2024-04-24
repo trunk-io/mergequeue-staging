@@ -1873,6 +1873,7 @@ banbury
 banc
 banca
 bancal
+borocalcite
 bancales
 bancha
 banchi
@@ -13062,7 +13063,6 @@ boro
 berreaves
 borocaine
 basnet
-borocalcite
 bravura
 borocitrate
 borofluohydric
