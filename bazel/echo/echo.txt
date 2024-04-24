@@ -7091,7 +7091,6 @@ entropy
 entropies
 entropion
 entropionize
-entropium
 entrough
 entrusted
 emote
@@ -7938,6 +7937,7 @@ echards
 epyllia
 excipula
 epilobe
+entropium
 epilobium
 epilog
 epilogation
