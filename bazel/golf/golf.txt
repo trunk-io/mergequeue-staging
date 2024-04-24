@@ -1568,7 +1568,6 @@ gashes
 gashy
 gashing
 gashly
-gashliness
 gasholder
 gashouse
 gashouses
@@ -4601,6 +4600,7 @@ gipsy
 gypsy
 gipsydom
 gutterlike
+gashliness
 gipsied
 gypsied
 gipsies
