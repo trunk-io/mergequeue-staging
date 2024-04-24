@@ -5737,6 +5737,7 @@ aftersound
 afterspeech
 afterspring
 afterstain
+ave
 afterstate
 appetisse
 afterstorm
@@ -24594,7 +24595,6 @@ avatara
 avatars
 avaunt
 avdp
-ave
 avellan
 avellane
 avellano
