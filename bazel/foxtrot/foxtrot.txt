@@ -1055,6 +1055,7 @@ farmed
 farmer
 farmeress
 farmery
+foretimes
 farmeries
 farmerish
 farmerly
@@ -8163,7 +8164,6 @@ forethoughtfully
 forethoughtfulness
 forethrift
 foretime
-foretimes
 foretype
 foretoken
 foretokening
