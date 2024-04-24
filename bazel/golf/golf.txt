@@ -1493,7 +1493,6 @@ garroo
 goring
 garrooka
 garrote
-garroted
 garroter
 garroters
 garrotes
@@ -3853,6 +3852,7 @@ gastromalacia
 gaggled
 gibbered
 gibberella
+garroted
 gibbering
 gibberish
 gleed
