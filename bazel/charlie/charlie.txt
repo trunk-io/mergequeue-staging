@@ -7433,6 +7433,7 @@ ceratodontidae
 ceratodus
 ceratoduses
 ceratoglossal
+claqueur
 ceratoglossus
 ceratohyal
 ceratohyoid
@@ -15457,7 +15458,6 @@ claquer
 concinnating
 claquers
 claques
-claqueur
 claqueurs
 clara
 clarabella
