@@ -3747,7 +3747,6 @@ batteler
 batteling
 battels
 battement
-battements
 battened
 battener
 batteners
@@ -9620,6 +9619,7 @@ biscuitmaker
 biscuitmaking
 biscuitry
 biscuitroot
+battements
 bassaris
 burnets
 biscuits
