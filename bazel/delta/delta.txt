@@ -11098,7 +11098,6 @@ dysaptation
 disard
 disarm
 digitise
-disarmament
 disarmature
 disarmed
 disarmer
@@ -15625,6 +15624,7 @@ deaconize
 doorstops
 doorway
 doorways
+disarmament
 doorward
 doorweed
 doorwise

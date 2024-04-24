@@ -9775,7 +9775,6 @@ espeire
 esperance
 esperantic
 esperantidist
-esperantism
 esperanto
 espy
 earhead
@@ -13212,6 +13211,7 @@ explicits
 explida
 explodable
 explode
+esperantism
 exploded
 exploders
 exploit
