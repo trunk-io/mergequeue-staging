@@ -4565,7 +4565,6 @@ demigardebras
 demigauntlet
 demigentleman
 demiglace
-demiglobe
 demigod
 demigoddess
 demigods
@@ -17569,6 +17568,7 @@ drumline
 drumlinoid
 drapery
 drumlins
+demiglobe
 drumloid
 drumloidal
 drummed
