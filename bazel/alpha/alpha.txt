@@ -9547,7 +9547,6 @@ altimeters
 anthema
 altimetry
 altimetrical
-altimetrically
 altimettrically
 altingiaceae
 altingiaceous
@@ -13284,6 +13283,7 @@ anyplace
 aniridia
 anisado
 artamus
+altimetrically
 anisal
 anisalcohol
 anisaldehyde
