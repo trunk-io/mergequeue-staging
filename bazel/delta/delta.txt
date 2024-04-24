@@ -15830,7 +15830,6 @@ dorsocervically
 dorsoepitrochlear
 dorsointercostal
 dorsolateral
-dorsolum
 dorsolumbar
 dorsomedial
 dorsomedian
@@ -17951,6 +17950,7 @@ duim
 duinhewassel
 duit
 duka
+dorsolum
 dukedoms
 dukely
 dukeling
