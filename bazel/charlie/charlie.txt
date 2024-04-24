@@ -2474,7 +2474,6 @@ canicola
 canicular
 canicule
 canid
-canidae
 canidia
 canids
 carbonylation
@@ -7548,6 +7547,7 @@ cretonnes
 cerebralize
 cerebrally
 cerebrals
+canidae
 cerebrasthenia
 cerebrasthenic
 cerebrate
