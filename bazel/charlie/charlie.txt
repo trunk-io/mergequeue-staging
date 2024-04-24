@@ -2945,7 +2945,6 @@ capacity
 capacities
 capacitively
 capacitor
-calyculus
 capacitors
 capanne
 cystolithectomy
@@ -21773,6 +21772,7 @@ conductimetric
 conducting
 conductio
 conduction
+calyculus
 conductional
 conductitious
 conductive

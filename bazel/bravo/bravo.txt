@@ -5886,7 +5886,6 @@ bellpull
 bellpulls
 bellrags
 bells
-belltail
 becowarded
 belltopper
 belltopperdom
@@ -13044,6 +13043,7 @@ bority
 borities
 borize
 born
+belltail
 bornan
 bornane
 borne
