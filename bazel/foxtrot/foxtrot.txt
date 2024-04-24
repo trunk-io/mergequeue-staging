@@ -8092,6 +8092,7 @@ forestcraft
 forested
 foresteep
 forestem
+fraternities
 forestep
 forester
 frenchism
@@ -9524,7 +9525,6 @@ fraternised
 fraternising
 fraternism
 fraternity
-fraternities
 farmhands
 fraternization
 fraternize
