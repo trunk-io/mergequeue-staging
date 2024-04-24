@@ -3240,7 +3240,6 @@ geosid
 geoside
 geosynchronous
 geosynclinal
-geosyncline
 geosynclines
 gadfly
 geosphere
@@ -6975,6 +6974,7 @@ goodless
 gheber
 goodlier
 goodliest
+geosyncline
 gingerly
 goodlihead
 goodliness
