@@ -4541,7 +4541,6 @@ disallowed
 demicritic
 demicuirass
 dingle
-demiculverin
 demidandiprat
 demideity
 dexterously
@@ -10791,6 +10790,7 @@ dirdum
 dirdums
 dire
 direcly
+demiculverin
 direct
 directable
 directcarving
