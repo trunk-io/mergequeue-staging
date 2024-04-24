@@ -2589,7 +2589,6 @@ genapping
 genarch
 genarcha
 genarchaship
-gendarme
 gendarmery
 geobotanical
 gendarmes
@@ -8033,6 +8032,7 @@ granitification
 grandnephew
 garbling
 granitite
+gendarme
 granitize
 granitized
 granitizing
