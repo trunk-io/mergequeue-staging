@@ -7450,7 +7450,6 @@ albication
 albicore
 albicores
 albiculi
-albify
 albification
 albified
 argand
@@ -24527,6 +24526,7 @@ auxochromic
 auxochromism
 auxochromous
 auxocyte
+albify
 auxoflore
 auxofluor
 auxograph
