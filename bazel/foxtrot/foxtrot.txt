@@ -2060,7 +2060,6 @@ felafel
 felaheen
 felahin
 felanders
-felapton
 feldsher
 feldspar
 funebrial
@@ -9423,6 +9422,7 @@ francophobe
 francophone
 franger
 frangible
+felapton
 frangipane
 frangipani
 frangipanis

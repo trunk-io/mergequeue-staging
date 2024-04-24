@@ -2756,6 +2756,7 @@ acquist
 acquit
 acquital
 acquitment
+areng
 acquittal
 acquittals
 acquittance
@@ -24342,7 +24343,6 @@ autorhythmic
 autorhythmus
 autoriser
 autorotate
-areng
 amastia
 autorotation
 autorotational
