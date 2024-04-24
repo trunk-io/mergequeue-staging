@@ -1259,7 +1259,6 @@ acalephs
 acalycal
 acalycine
 acalycinous
-acalyculate
 acalypha
 acalypterae
 apheliotropic
@@ -11649,6 +11648,7 @@ anaesthatic
 anaesthesiant
 anaesthesiology
 anaesthesiologist
+acalyculate
 anaesthesis
 anaesthetic
 anaesthetically
