@@ -1004,6 +1004,7 @@ flows
 fuchsin
 farfal
 farfara
+flatfoots
 farfel
 farfels
 farfetch
@@ -5135,7 +5136,6 @@ flatfooted
 flatfootedly
 flatfootedness
 flatfooting
-flatfoots
 flathat
 flathead
 flatheads
