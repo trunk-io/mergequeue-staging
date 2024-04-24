@@ -7386,7 +7386,6 @@ detruncate
 deficit
 didynamian
 detruncated
-detruncating
 detruncation
 damneder
 demonologies
@@ -17629,6 +17628,7 @@ displicency
 drury
 dysphagic
 disenroll
+detruncating
 druse
 drusean
 drusedom
