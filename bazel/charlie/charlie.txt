@@ -1321,7 +1321,6 @@ calinda
 calindas
 caline
 calinut
-caliology
 caliological
 caliologist
 calipash
@@ -15779,6 +15778,7 @@ clawed
 clawer
 clawers
 collards
+caliology
 clawhammer
 chimeric
 clawing
