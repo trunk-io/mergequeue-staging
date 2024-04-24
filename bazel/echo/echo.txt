@@ -6910,6 +6910,7 @@ entomologist
 entomologize
 extinguishes
 entomologizing
+exor
 entomophaga
 entomophagous
 entomophila
@@ -12759,7 +12760,6 @@ exopoditic
 exopterygote
 exopterygotism
 exopterygotous
-exor
 exorable
 elytroptosis
 elderberry
