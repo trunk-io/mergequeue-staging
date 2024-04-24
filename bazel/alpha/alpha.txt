@@ -5674,6 +5674,7 @@ afterhelp
 afterhend
 afterhope
 afterhours
+avengeress
 afteryears
 afterimage
 afterimages
@@ -24612,7 +24613,6 @@ avenge
 avenged
 avengeful
 avengement
-avengeress
 avenges
 avenging
 avengingly
