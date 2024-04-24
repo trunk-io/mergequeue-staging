@@ -12249,6 +12249,7 @@ bonce
 bombable
 bombacaceae
 bombace
+ballaster
 bombay
 bombarde
 bombarded
@@ -16802,7 +16803,6 @@ buffo
 buffone
 burlace
 branchiocardiac
-ballaster
 buffont
 blastoidea
 backhauled
