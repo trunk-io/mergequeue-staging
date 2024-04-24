@@ -4966,7 +4966,6 @@ endarteteria
 endaspidean
 endaze
 endball
-escrows
 endboard
 endbrains
 enddamage
@@ -13600,6 +13599,7 @@ extenuator
 extenuatory
 exter
 exterior
+escrows
 exterioration
 exteriorise
 epicyesis
