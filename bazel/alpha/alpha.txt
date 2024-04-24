@@ -3724,7 +3724,6 @@ adenolipoma
 adenolipomatosis
 adenologaditis
 adenology
-adenological
 adenoma
 adenomas
 adenomata
@@ -19165,6 +19164,7 @@ archsteward
 archt
 archtempter
 archthief
+adenological
 archtyrant
 archtraitor
 archtreasurer
