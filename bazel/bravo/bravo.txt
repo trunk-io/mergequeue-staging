@@ -7554,7 +7554,6 @@ beudanite
 beudantite
 beuncled
 beurre
-bevaring
 bevatron
 bevatrons
 bobbinets
@@ -17039,6 +17038,7 @@ boutre
 bulkish
 bulks
 bull
+bevaring
 bulla
 bullace
 bullaces

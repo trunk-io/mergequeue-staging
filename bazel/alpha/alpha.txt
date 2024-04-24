@@ -20495,6 +20495,7 @@ arteriomalacia
 arteriometer
 arteriomotor
 amalett
+auroauric
 arterionecrosis
 arteriopalmus
 arteriopathy
@@ -23580,7 +23581,6 @@ aurists
 aurite
 aurited
 aurivorous
-auroauric
 aurobromide
 aurochloride
 aurochs
