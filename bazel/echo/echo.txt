@@ -2735,7 +2735,6 @@ elementarily
 elementarism
 elementarist
 elementarity
-excusableness
 elementate
 elementish
 elements
@@ -7216,6 +7215,7 @@ envision
 encoffinment
 envisioning
 envisionment
+excusableness
 envisions
 envoi
 envoy

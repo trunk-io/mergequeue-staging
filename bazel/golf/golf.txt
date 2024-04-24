@@ -3611,7 +3611,6 @@ grenadin
 gestor
 gestura
 gestural
-gasconaded
 gallimaufries
 gangwaymen
 gesture
@@ -5796,6 +5795,7 @@ glommox
 gloms
 glomus
 glonoin
+gasconaded
 glonoine
 glood
 gloomed
