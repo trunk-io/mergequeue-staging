@@ -2226,7 +2226,6 @@ banters
 banty
 bantin
 banting
-bantingism
 bantingize
 bilos
 bantings
@@ -5559,6 +5558,7 @@ bejeweling
 blockline
 bejewelled
 barricading
+bantingism
 bejewelling
 bejewels
 bejezebel
