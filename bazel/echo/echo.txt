@@ -11320,7 +11320,6 @@ eval
 evaluate
 evaluated
 evaluates
-evaluating
 evaluation
 evaluations
 evaluative
@@ -14061,6 +14060,7 @@ extremists
 extremital
 extremities
 extremum
+evaluating
 extremuma
 extricable
 engroove
