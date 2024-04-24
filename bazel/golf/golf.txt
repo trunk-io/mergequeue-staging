@@ -4863,7 +4863,6 @@ gise
 gisel
 gisement
 gish
-gisler
 gelded
 gismo
 gambled
@@ -6527,6 +6526,7 @@ goffered
 gofferer
 goffle
 gog
+gisler
 gogga
 geopolitik
 gogglebox
