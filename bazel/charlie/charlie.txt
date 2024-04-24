@@ -9306,7 +9306,6 @@ chattily
 chattiness
 chattingly
 chatwood
-compartmentalized
 chaucer
 chaucerian
 chauceriana
@@ -31522,6 +31521,7 @@ curtainwise
 curtays
 curtal
 curtalax
+compartmentalized
 curtalaxes
 curtals
 curtana
