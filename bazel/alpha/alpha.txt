@@ -3203,7 +3203,6 @@ actinotoxemia
 actinotrichium
 actinotrocha
 actinouranium
-actinozoa
 actinozoan
 actinozoon
 actins
@@ -15675,6 +15674,7 @@ antimoralism
 antimoralist
 antimoralistic
 antimosquito
+actinozoa
 antimusical
 antimusically
 antimusicalness
