@@ -6873,7 +6873,6 @@ eyehook
 entodermal
 entodermic
 entoderms
-entogastric
 entogenous
 enstyle
 entoglossal
@@ -13828,6 +13827,7 @@ extraditing
 extradition
 extradomestic
 evenfalls
+entogastric
 entomion
 extradosed
 extradoses

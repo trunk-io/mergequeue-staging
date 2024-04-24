@@ -1780,6 +1780,7 @@ gastroenterostomy
 gastroenterostomies
 gastroepiploic
 guebre
+gonotyl
 gastroesophageal
 gastrogastrotomy
 gastrogenic
@@ -6927,7 +6928,6 @@ gonotheca
 gobiesociform
 gymsia
 gonothecal
-gonotyl
 gonotype
 gonotocont
 gonotokont
