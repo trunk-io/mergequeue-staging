@@ -8610,6 +8610,7 @@ biliprasin
 bilipurpurin
 baronne
 bilirubinic
+bitwise
 bilirubinuria
 biliteralism
 bilithon
@@ -9957,7 +9958,6 @@ bituminoid
 bikes
 bituminosis
 bituminous
-bitwise
 biune
 biunial
 bronchiole

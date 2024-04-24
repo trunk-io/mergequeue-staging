@@ -1988,7 +1988,6 @@ flummoxing
 feedlots
 feedman
 feeds
-feedsman
 feedstock
 feedstuff
 feedstuffs
@@ -6903,6 +6902,7 @@ forestery
 founding
 fold
 fevers
+feedsman
 foldage
 foresettle
 foldaway
