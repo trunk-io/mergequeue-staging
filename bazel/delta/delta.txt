@@ -12215,6 +12215,7 @@ disgraceful
 disgracement
 disgracer
 disgracers
+driver
 disgraces
 disgracia
 disgracing
@@ -17208,7 +17209,6 @@ drivellingly
 drivels
 driven
 drivenness
-driver
 driverless
 drivers
 drivership

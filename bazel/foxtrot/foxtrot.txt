@@ -1161,6 +1161,7 @@ fasces
 fascet
 fascia
 fasciae
+feudally
 fascial
 fascias
 fasciate
@@ -2930,7 +2931,6 @@ feudalization
 feudalize
 feudalized
 feudalizing
-feudally
 feudary
 firmamental
 feudaries
