@@ -5565,7 +5565,6 @@ departer
 departing
 departition
 department
-departmental
 drily
 departmentalise
 departmentalised
@@ -10346,6 +10345,7 @@ diopters
 dioptograph
 dioptometer
 dioptometry
+departmental
 dioptomiter
 dioptoscopy
 dioptra
