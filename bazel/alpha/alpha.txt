@@ -6062,7 +6062,6 @@ agglutinationist
 agglutinations
 agglutinative
 agglutinatively
-agglutinator
 agglutinin
 agglutinins
 agglutinize
@@ -24808,6 +24807,7 @@ avocative
 avocatory
 avocet
 avodire
+agglutinator
 avodires
 avogadrite
 appellee
