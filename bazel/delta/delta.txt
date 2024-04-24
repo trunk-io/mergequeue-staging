@@ -4435,7 +4435,6 @@ dematerialise
 decubation
 dematerialised
 dematerialising
-deuterosy
 dematerialization
 dematerialize
 dematerialized
@@ -6377,6 +6376,7 @@ derogatory
 derogatorily
 dyspneal
 dinero
+deuterosy
 deromanticize
 derotrema
 derotremata
