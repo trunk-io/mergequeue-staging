@@ -1193,7 +1193,6 @@ educational
 educationalist
 espathate
 educationally
-educationary
 educationese
 educationist
 efflorescing
@@ -5726,6 +5725,7 @@ enginelike
 engineman
 enginemen
 enginery
+educationary
 engineries
 engines
 enginous
