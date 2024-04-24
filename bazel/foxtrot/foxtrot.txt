@@ -1786,7 +1786,6 @@ fungated
 featherless
 featherlessness
 featherlet
-featherlike
 featherman
 feathermonger
 fackings
@@ -2704,6 +2703,7 @@ forewaters
 fertilizations
 failings
 fertilize
+featherlike
 fertilizer
 flabellinerved
 fertilizers
