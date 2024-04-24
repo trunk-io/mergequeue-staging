@@ -36,7 +36,6 @@ breastrope
 birdikin
 babbie
 babbishly
-babbit
 babbitt
 babbitted
 babbittess
@@ -596,6 +595,7 @@ backups
 backus
 backveld
 backvelder
+babbit
 backway
 backwall
 backward
