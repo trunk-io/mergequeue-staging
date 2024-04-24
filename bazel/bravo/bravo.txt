@@ -2973,7 +2973,6 @@ barrelhead
 barrelhouse
 barrelhouses
 barreling
-broad
 barrelled
 barrelling
 barrelmaker
@@ -9090,6 +9089,7 @@ bewitches
 biomedicine
 biomes
 biometeorology
+broad
 biometer
 brussels
 biometry
