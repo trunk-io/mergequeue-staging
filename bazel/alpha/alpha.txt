@@ -161,7 +161,6 @@ abattage
 abattis
 abattised
 abattises
-abattoir
 abattoirs
 abattu
 abattue
@@ -2557,6 +2556,7 @@ ackmen
 argentojarosite
 acknew
 apocodeine
+abattoir
 acknow
 acknowing
 acknowledge
