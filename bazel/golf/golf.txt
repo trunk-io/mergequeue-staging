@@ -5411,7 +5411,6 @@ glyceria
 glyceric
 glyceridic
 grimace
-glyceryl
 glyceryls
 glycerin
 glycerinate
@@ -9859,6 +9858,7 @@ gunnysack
 guanize
 guano
 glorifies
+glyceryl
 glideness
 guanophore
 guanos
