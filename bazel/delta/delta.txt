@@ -5250,6 +5250,7 @@ denoting
 denotive
 denouements
 degermed
+downcast
 denounce
 denounced
 denouncement
@@ -16259,7 +16260,6 @@ downbeats
 downbent
 downby
 downbye
-downcast
 downcastness
 distaff
 downcasts
