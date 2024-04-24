@@ -5607,7 +5607,6 @@ belaboring
 belabors
 belabour
 belabours
-belace
 belaced
 beladied
 beladies
@@ -9308,6 +9307,7 @@ bipectinate
 bullishly
 bipectinated
 biped
+belace
 bipedal
 bipedality
 bosques
