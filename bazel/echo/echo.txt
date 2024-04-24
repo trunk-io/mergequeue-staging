@@ -6877,7 +6877,6 @@ enstyle
 entoglossal
 epithelilia
 entohyal
-entoil
 entoiled
 entoiling
 entoils
@@ -9077,6 +9076,7 @@ eriocomi
 eriodendron
 eriodictyon
 erioglaucine
+entoil
 eriogonum
 eriometer
 eryon
