@@ -9763,6 +9763,7 @@ espartos
 espavel
 espec
 especial
+excud
 especially
 empair
 espeire
@@ -12200,7 +12201,6 @@ excubant
 excubitoria
 enteroscope
 excubitorium
-excud
 excudate
 excuderunt
 excudit
