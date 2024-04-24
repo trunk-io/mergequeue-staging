@@ -6970,7 +6970,6 @@ centauromachy
 centauromachia
 centaurs
 corr
-centaurus
 centavo
 centavos
 centena
@@ -23886,6 +23885,7 @@ controversionalist
 controvert
 chirotonsory
 controverted
+centaurus
 controverter
 controvertibility
 controvertible
