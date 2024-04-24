@@ -1800,6 +1800,7 @@ gastroid
 gastrointestinal
 grassquit
 gastrojejunostomy
+gonyaulax
 groow
 gastrojejunostomies
 gastrolater
@@ -6816,7 +6817,6 @@ goniatite
 goniatites
 goniatitid
 goniatitidae
-gonyaulax
 gadling
 gonycampsis
 greenlet
