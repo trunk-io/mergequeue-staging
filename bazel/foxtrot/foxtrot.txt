@@ -1437,6 +1437,7 @@ fringy
 fatling
 fatlings
 furbishing
+featureliness
 fatness
 ferie
 fatnesses
@@ -1825,7 +1826,6 @@ featureful
 featureless
 featurelessness
 featurely
-featureliness
 features
 featurette
 featuring
