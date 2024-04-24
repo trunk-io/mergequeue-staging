@@ -8168,7 +8168,6 @@ biddability
 biddable
 biddableness
 biddably
-biddelian
 bidden
 biddery
 bidders
@@ -10881,6 +10880,7 @@ blindless
 blindly
 blindling
 boilery
+biddelian
 blindness
 burnooses
 blindstitch
