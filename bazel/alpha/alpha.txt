@@ -2128,7 +2128,6 @@ acetolytic
 archicleistogamy
 acetometer
 acetometry
-acetometric
 acetometrical
 accroachment
 acetometrically
@@ -11988,6 +11987,7 @@ anarchs
 anarcotin
 anareta
 anaretic
+acetometric
 astrocompass
 anaretical
 anargyros
