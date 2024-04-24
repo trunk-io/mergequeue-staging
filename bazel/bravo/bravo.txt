@@ -162,6 +162,7 @@ baboot
 babouche
 babouvism
 babracot
+bidiagonal
 babroot
 bipinnately
 babs
@@ -8199,7 +8200,6 @@ bidget
 blurping
 bridesmaids
 bidi
-bidiagonal
 bidialectal
 bidialectalism
 bidimensional
