@@ -4943,7 +4943,6 @@ frames
 flamines
 flaming
 featish
-flamingant
 flamingo
 flamingoes
 flamingos
@@ -8841,6 +8840,7 @@ furmety
 fisheater
 forwarding
 forwardly
+flamingant
 forwardness
 forwards
 forwardsearch

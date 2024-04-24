@@ -2809,6 +2809,7 @@ basote
 baromacrometer
 barometer
 boroughship
+bulldog
 barometers
 barometry
 barometric
@@ -17066,7 +17067,6 @@ bullberry
 bullboat
 bullcart
 bullcomber
-bulldog
 brauneria
 bulldogged
 bulldoggedness
