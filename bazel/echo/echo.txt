@@ -3844,7 +3844,6 @@ exert
 emerited
 emeriti
 emeritus
-emerituti
 emerizing
 emerod
 emerods
@@ -5371,6 +5370,7 @@ endothecial
 empoisoner
 endothecium
 elaps
+emerituti
 elamitic
 epigoneion
 endothelial
