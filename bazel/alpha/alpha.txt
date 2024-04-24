@@ -3759,7 +3759,6 @@ adenose
 arrant
 adenoses
 adenosine
-adenostemonous
 adenostoma
 adenotyphoid
 adenotyphus
@@ -12174,6 +12173,7 @@ ancestral
 ancestrally
 ancestress
 ancestresses
+adenostemonous
 ancestry
 ancestrian
 ancestries
