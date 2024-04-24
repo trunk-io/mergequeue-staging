@@ -10136,7 +10136,6 @@ frilliness
 frustrated
 frillings
 frills
-frim
 frimaire
 frimitts
 fringe
@@ -11582,6 +11581,7 @@ fusiliers
 fusilladed
 fusillades
 fusillading
+frim
 fusilly
 fusing
 forestry

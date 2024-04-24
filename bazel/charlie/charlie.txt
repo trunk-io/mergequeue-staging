@@ -21509,7 +21509,6 @@ concrescence
 corallinaceous
 concrescences
 chalazium
-concrescent
 concrescible
 concrescive
 concrete
@@ -31320,6 +31319,7 @@ curialities
 curiam
 curiara
 curiate
+concrescent
 counterbrace
 curiatii
 curiboca
