@@ -479,6 +479,7 @@ ecclesial
 ecclesiarch
 ecclesiarchy
 ecclesiast
+epodic
 ecclesiastes
 epibenthos
 ecclesiastic
@@ -8457,7 +8458,6 @@ epochism
 epode
 epodes
 ethnographic
-epodic
 epoist
 eyeseed
 epollicate
