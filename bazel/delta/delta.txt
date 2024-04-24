@@ -5505,6 +5505,7 @@ deoxidative
 dibbles
 deoxidator
 deoxidisation
+disulfids
 deoxidise
 deoxidised
 deoxidiser
@@ -14047,7 +14048,6 @@ disulfate
 disorderedly
 disulfide
 disanimate
-disulfids
 disulfiram
 decolletage
 disulfoton
