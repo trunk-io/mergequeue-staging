@@ -8640,6 +8640,7 @@ allegrettos
 allegros
 alley
 alleyed
+apostolize
 alleyite
 alleys
 alleyway
@@ -17461,7 +17462,6 @@ apostolically
 apostolici
 apostolicism
 apostolicity
-apostolize
 apostolos
 apostrophal
 apostrophation
