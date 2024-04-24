@@ -9960,7 +9960,6 @@ chenier
 chenille
 cheniller
 chenilles
-chenopod
 chenopodiaceae
 crews
 chenopodiaceous
@@ -15717,6 +15716,7 @@ clavelize
 clavellate
 clavellated
 convertable
+chenopod
 claver
 clavered
 clavering
