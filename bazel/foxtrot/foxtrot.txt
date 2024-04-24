@@ -2220,7 +2220,6 @@ feltman
 foulard
 feltness
 felts
-feltwort
 felwort
 felworts
 fem
@@ -2919,6 +2918,7 @@ feudalities
 feudalization
 feudalize
 feudalized
+feltwort
 feudalizing
 feudary
 firmamental

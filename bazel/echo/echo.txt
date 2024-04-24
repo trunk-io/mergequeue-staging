@@ -3803,7 +3803,6 @@ emendates
 emendating
 emendations
 emendator
-emendatory
 emended
 emender
 emendicate
@@ -8934,6 +8933,7 @@ ereptase
 ereptic
 ereption
 erethic
+emendatory
 equiponderous
 epidermolysis
 erethisia
