@@ -3330,7 +3330,6 @@ basiscopic
 basisidia
 basisolute
 basisphenoid
-basitemporal
 basitting
 basiventral
 basivertebral
@@ -13068,6 +13067,7 @@ borofluoric
 borofluorin
 burblier
 boroglycerate
+basitemporal
 boroglycerine
 borohydride
 borolanite
