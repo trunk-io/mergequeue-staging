@@ -7188,7 +7188,6 @@ akinete
 aking
 akiskemikinik
 akka
-akkad
 akkadian
 akkadist
 akmite
@@ -15017,6 +15016,7 @@ anticogitative
 airfoil
 anticoincidence
 anticold
+akkad
 anticolic
 anticombination
 anticomet
