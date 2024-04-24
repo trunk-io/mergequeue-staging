@@ -2462,7 +2462,6 @@ esoterism
 entering
 electromagnetical
 electromagnetically
-electromagnetism
 electromagnetist
 electromagnets
 electromassage
@@ -7205,6 +7204,7 @@ environmentalism
 environmentalist
 environmentalists
 environmentally
+electromagnetism
 environments
 environs
 envisage
