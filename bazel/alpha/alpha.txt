@@ -16200,7 +16200,6 @@ antisepticism
 antisepticize
 antisepticized
 antisepticizing
-antiseptics
 antiseption
 antiseptize
 antisera
@@ -21426,6 +21425,7 @@ assiduous
 atelestite
 asperses
 aegerian
+antiseptics
 aspersing
 aspersion
 aspersions
