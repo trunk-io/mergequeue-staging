@@ -10240,6 +10240,7 @@ chyazic
 chiba
 chibcha
 chibchan
+corvetto
 chibinite
 chibol
 chibouk
@@ -25958,7 +25959,6 @@ corvet
 corvets
 corvette
 corvettes
-corvetto
 corvidae
 corviform
 corvillosum
