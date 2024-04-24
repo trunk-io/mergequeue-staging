@@ -8413,7 +8413,6 @@ frosts
 forletting
 forlive
 forloin
-forlore
 forlorn
 forlornest
 forlornly
@@ -9104,6 +9103,7 @@ fourragere
 fourrageres
 fourre
 fourrier
+forlore
 fours
 flagellates
 fourscore
