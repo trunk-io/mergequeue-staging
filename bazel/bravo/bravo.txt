@@ -1217,6 +1217,7 @@ bakerite
 bakerless
 bakerly
 bakerlike
+belauder
 bakers
 beslaver
 bakersfield
@@ -5640,7 +5641,6 @@ belatedness
 belating
 belaud
 belauded
-belauder
 belauding
 belauds
 belavendered
