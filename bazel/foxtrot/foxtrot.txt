@@ -183,7 +183,6 @@ fleshling
 facto
 factor
 factorable
-factordom
 factoress
 factory
 factorially
@@ -6375,6 +6374,7 @@ fluidly
 fluidmeter
 fluidness
 fluidounce
+factordom
 fluidrachm
 fluidrams
 fluids
