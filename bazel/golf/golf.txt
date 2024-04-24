@@ -1123,7 +1123,6 @@ ganisters
 grayness
 ganglionated
 ganglionectomy
-ganglionectomies
 ganglioneural
 ganglioneure
 goschens
@@ -7582,6 +7581,7 @@ grabbling
 graben
 grabens
 grabhook
+ganglionectomies
 gimp
 grabman
 grabouche
