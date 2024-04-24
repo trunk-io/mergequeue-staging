@@ -2387,7 +2387,6 @@ astrakhan
 achroodextrinase
 achroous
 achropsia
-achtehalber
 achtel
 achtelthaler
 achterveld
@@ -24841,6 +24840,7 @@ avos
 avosets
 avouch
 avouchable
+achtehalber
 avouched
 avouchers
 avouches
