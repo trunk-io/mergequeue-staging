@@ -7293,6 +7293,7 @@ cephaloclast
 cephalocone
 chilled
 cephaloconic
+cloaca
 cephalodia
 cannikins
 cephalodymus
@@ -16415,7 +16416,6 @@ clivises
 clivus
 clk
 clo
-cloaca
 cloacae
 cloacal
 cloacaline
