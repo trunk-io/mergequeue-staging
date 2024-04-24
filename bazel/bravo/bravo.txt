@@ -2413,6 +2413,7 @@ bispore
 bryanthus
 barbican
 barbicans
+besanctify
 barbicel
 barbicels
 barbierite
@@ -6899,7 +6900,6 @@ bounded
 besayle
 besaint
 besan
-besanctify
 besand
 besauce
 bescab
