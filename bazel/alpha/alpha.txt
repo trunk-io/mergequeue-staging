@@ -11802,6 +11802,7 @@ analyze
 analyzed
 analyzer
 analyzers
+antimethod
 analyzes
 analyzing
 analkalinity
@@ -15598,7 +15599,6 @@ antimesia
 antimetabole
 antimetathetic
 antimeter
-antimethod
 antimethodic
 antimethodical
 antimethodically
