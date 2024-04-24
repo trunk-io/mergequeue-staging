@@ -13220,7 +13220,6 @@ animalized
 animalizing
 animally
 animallike
-animalness
 animals
 accouterments
 animando
@@ -22889,6 +22888,7 @@ attachable
 attachableness
 attache
 attached
+animalness
 attachedly
 attacher
 attachers
