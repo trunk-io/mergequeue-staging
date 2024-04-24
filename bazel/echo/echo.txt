@@ -2315,6 +2315,7 @@ electrochemically
 electrochemist
 electrochronograph
 electrochronometer
+enterochromaffin
 electrochronometric
 eyebolt
 electrocystoscope
@@ -6610,7 +6611,6 @@ enterochirurgia
 expandability
 endorsement
 epilate
-enterochromaffin
 enterocinesia
 enterocinetic
 enterocyst
