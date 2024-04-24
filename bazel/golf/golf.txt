@@ -8728,7 +8728,6 @@ gauffering
 greenstone
 gauntree
 greensward
-greenswarded
 greentail
 gratify
 greenth
@@ -10502,6 +10501,7 @@ gunlayer
 geraty
 gunlaying
 gunline
+greenswarded
 genitalial
 gunlock
 gue

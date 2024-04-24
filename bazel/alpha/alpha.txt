@@ -5062,7 +5062,6 @@ aeromedicine
 aerometeorograph
 aerometer
 aerometry
-anolytes
 aerometric
 aeromotor
 aeron
@@ -17834,6 +17833,7 @@ applyingly
 antirent
 applyment
 appling
+anolytes
 applique
 appliqued
 appliqueing
