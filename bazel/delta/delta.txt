@@ -2604,7 +2604,6 @@ decolonisation
 decolonise
 decolonised
 decolonising
-decolonization
 decolonize
 decolonizes
 decoloration
@@ -2637,6 +2636,7 @@ decolourizing
 decommission
 decommissioned
 dischase
+decolonization
 decommissioning
 decommissions
 deepens
