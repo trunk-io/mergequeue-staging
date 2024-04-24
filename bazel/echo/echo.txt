@@ -3374,7 +3374,6 @@ endointoxication
 embassadress
 embassage
 embassy
-embassiate
 embassies
 ensue
 embastardize
@@ -11981,6 +11980,7 @@ excerpted
 excerpter
 ectosarcous
 eupolidean
+embassiate
 etheneldeli
 excerpting
 excerption

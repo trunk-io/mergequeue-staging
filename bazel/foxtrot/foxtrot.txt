@@ -5033,7 +5033,6 @@ framableness
 flapperism
 flappers
 flappet
-flappy
 flappiest
 feud
 fellator
@@ -7631,6 +7630,7 @@ forecourse
 forecourt
 forecourts
 forecover
+flappy
 fouling
 fers
 forecovert
