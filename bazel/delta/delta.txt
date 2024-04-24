@@ -2673,6 +2673,7 @@ decompositions
 decomposure
 decompound
 decompoundable
+dodecadrachm
 decompoundly
 decompress
 decompresses
@@ -14820,7 +14821,6 @@ deciceronize
 dodding
 doddypoll
 dodecade
-dodecadrachm
 dodecafid
 dodecagon
 dodecaheddra
