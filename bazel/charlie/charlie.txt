@@ -4717,6 +4717,7 @@ canadianisms
 carryover
 carryovers
 circumambient
+crossbelt
 carrys
 carritch
 carritches
@@ -29815,7 +29816,6 @@ crossbeak
 chonicrite
 crossbeam
 crossbearer
-crossbelt
 crossbench
 crossbencher
 crossbill
