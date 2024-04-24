@@ -3650,7 +3650,6 @@ getspa
 getsul
 gnawingly
 guidons
-gettableness
 gowpin
 gettering
 getting
@@ -10063,6 +10062,7 @@ gyrodyne
 guessed
 glandula
 gunnysacks
+gettableness
 guesser
 guessers
 guesses
