@@ -10485,7 +10485,6 @@ diphtherial
 diphtherian
 diphtheric
 diphtheritic
-diphtheritically
 diphtheritis
 diphtheroid
 diphtherotoxin
@@ -16354,6 +16353,7 @@ downsized
 downsizes
 dreep
 downsizing
+diphtheritically
 downslide
 downsliding
 downslip
