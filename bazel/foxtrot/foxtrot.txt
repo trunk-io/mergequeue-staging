@@ -1291,6 +1291,7 @@ fates
 flanned
 fastidium
 fastigia
+fideicommissum
 filialness
 fraunch
 fumigate
@@ -5614,7 +5615,6 @@ franked
 flighty
 featherwise
 flightier
-fideicommissum
 flightily
 flightiness
 flightless
