@@ -4475,7 +4475,6 @@ encages
 encaging
 encake
 encalendar
-enumerable
 encamp
 encamped
 encamping
@@ -13150,6 +13149,7 @@ expiscation
 expiscator
 expiscatory
 explain
+enumerable
 explainableness
 explained
 electrotropic
