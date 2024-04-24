@@ -6646,7 +6646,6 @@ berceau
 berceaunette
 bercelet
 berceuse
-berceuses
 berchemia
 blithesome
 berchta
@@ -15741,6 +15740,7 @@ broiled
 broiler
 broilers
 broiling
+berceuses
 broilingly
 broils
 brokage
