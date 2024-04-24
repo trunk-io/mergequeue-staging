@@ -29,7 +29,6 @@ gabbler
 gabblers
 gabbles
 gabbling
-gabbro
 globuloid
 gabbroitic
 gabbros
@@ -356,6 +355,7 @@ galactopoiesis
 galactopoietic
 galactorrhea
 galactorrhoea
+gabbro
 galactosamine
 galactosan
 galactoscope
