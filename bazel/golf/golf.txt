@@ -4623,7 +4623,6 @@ gipsyhead
 gipsyhood
 gypsyhood
 gipsying
-gypsying
 gipsyish
 gastrostaxis
 gypsyish
@@ -4849,6 +4848,7 @@ girt
 girted
 girth
 girthed
+gypsying
 girthing
 girths
 gamosepalous
