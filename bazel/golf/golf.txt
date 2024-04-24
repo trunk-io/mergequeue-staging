@@ -6060,7 +6060,6 @@ gesticulator
 glucid
 genizero
 glucidic
-glucine
 glucinic
 glucinium
 guruships
@@ -7062,6 +7061,7 @@ grubber
 goop
 goopy
 goops
+glucine
 gooral
 goorals
 gooranut
