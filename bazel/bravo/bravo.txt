@@ -15637,6 +15637,7 @@ broadside
 broadsided
 broadsider
 borrovian
+bangup
 broadsides
 broadspread
 bellyfish
@@ -18184,7 +18185,6 @@ butyrate
 butyric
 butyrically
 butyryl
-bangup
 butyryls
 butyrin
 butyrinase
