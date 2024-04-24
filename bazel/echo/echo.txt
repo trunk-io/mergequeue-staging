@@ -4061,6 +4061,7 @@ empaling
 empall
 enteradenological
 empanada
+enured
 empanel
 empaneled
 empaneling
@@ -7141,7 +7142,6 @@ enunciator
 enunciatory
 enunciators
 enure
-enured
 enures
 enureses
 enuresis
