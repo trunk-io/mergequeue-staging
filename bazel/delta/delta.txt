@@ -18373,7 +18373,6 @@ duply
 duplicability
 duplicable
 duplicand
-duplicando
 duplicated
 duplicates
 duplicating
@@ -18453,6 +18452,7 @@ durdenite
 durdum
 duree
 dureful
+duplicando
 durene
 durenol
 dureresque
