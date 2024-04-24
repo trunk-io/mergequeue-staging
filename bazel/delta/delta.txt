@@ -13279,7 +13279,6 @@ dispurpose
 dispurse
 dictyostele
 disputability
-disputable
 disputableness
 deprivations
 disputably
@@ -14511,6 +14510,7 @@ divvying
 diwani
 diwans
 diwata
+disputable
 dix
 digallate
 diastole
