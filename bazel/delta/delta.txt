@@ -11216,7 +11216,6 @@ disboard
 disbody
 disbodied
 disbogue
-disbosom
 disbosomed
 disbosoming
 disbosoms
@@ -16158,6 +16157,7 @@ dovecot
 dovecote
 dovecotes
 disarrest
+disbosom
 dramaticule
 dovecots
 doveflower
