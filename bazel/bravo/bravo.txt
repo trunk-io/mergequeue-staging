@@ -6498,6 +6498,7 @@ benzosulphimide
 batta
 benzotetrazine
 benzotetrazole
+bullyragger
 benzothiazine
 benzothiazoline
 benzothiodiazole
@@ -17160,7 +17161,6 @@ bursate
 bisley
 bullyrag
 bullyragged
-bullyragger
 bullyragging
 bullyrags
 buckramed
