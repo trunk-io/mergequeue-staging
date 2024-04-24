@@ -442,6 +442,7 @@ faitours
 flickermouse
 fayumic
 fake
+fens
 fakeer
 fakeers
 feeder
@@ -2365,7 +2366,6 @@ fennish
 fennoman
 flanks
 fenrir
-fens
 fensive
 fent
 fountainless
