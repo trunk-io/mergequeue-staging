@@ -3216,6 +3216,7 @@ georgia
 georgiadesite
 georgian
 georgiana
+guiding
 gaslock
 gazetteer
 geiger
@@ -10150,7 +10151,6 @@ guides
 guideway
 goniopholis
 gigger
-guiding
 gappiest
 guidingly
 guidman
