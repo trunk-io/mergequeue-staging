@@ -3366,7 +3366,6 @@ basking
 baskish
 basks
 basnat
-basoche
 basocyte
 bozal
 basoga
@@ -17094,6 +17093,7 @@ bullet
 bulleted
 bullethead
 bulletheaded
+basoche
 bulletheadedness
 bogman
 bullety

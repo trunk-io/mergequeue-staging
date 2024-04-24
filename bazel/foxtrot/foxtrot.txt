@@ -2351,7 +2351,6 @@ fenian
 fenianism
 fenks
 fenland
-fenman
 fenmen
 fennec
 fennecs
@@ -8949,6 +8948,7 @@ fosterage
 fostered
 furtiveness
 fiberizing
+fenman
 fosterer
 fosterers
 fosterhood
