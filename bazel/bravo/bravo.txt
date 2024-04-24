@@ -4109,7 +4109,6 @@ beanbags
 beanball
 brutalitarian
 beanballs
-beancod
 bromoform
 beaned
 beaner
@@ -4793,6 +4792,7 @@ bedpan
 besmirching
 bedpans
 bedplates
+beancod
 bedpost
 bedposts
 bedquilt
