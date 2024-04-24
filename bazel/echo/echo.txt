@@ -7803,7 +7803,6 @@ epigaea
 epigaeous
 epigamic
 epigaster
-epigastraeum
 epigastral
 epigastria
 epigastrial
@@ -10022,6 +10021,7 @@ estimator
 estimators
 estipulate
 everlastingly
+epigastraeum
 estuosity
 estivage
 estimatingly
