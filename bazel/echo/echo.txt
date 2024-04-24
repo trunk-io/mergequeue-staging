@@ -560,7 +560,6 @@ egilops
 echinidan
 echinidea
 echiniform
-echinital
 echinite
 echinocactus
 echinocaris
@@ -8750,6 +8749,7 @@ equisetaceous
 equisetales
 equisetic
 equisetum
+echinital
 equisided
 equisignal
 equisized
