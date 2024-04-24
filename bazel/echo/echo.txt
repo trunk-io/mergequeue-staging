@@ -5121,6 +5121,7 @@ endoconidium
 endocorpuscular
 encitadel
 endocranial
+expiscated
 endocranium
 endocrin
 equilibrations
@@ -13140,7 +13141,6 @@ expiries
 expiring
 expiringly
 expiscate
-expiscated
 expiscating
 expiscation
 expiscator
