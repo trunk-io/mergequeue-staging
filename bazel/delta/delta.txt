@@ -1247,7 +1247,6 @@ dating
 dation
 datisca
 datiscaceae
-datiscaceous
 datiscin
 datiscosid
 datiscoside
@@ -4332,6 +4331,7 @@ delusively
 delusiveness
 delusory
 deluster
+datiscaceous
 delusterant
 delustered
 delustering
