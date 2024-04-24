@@ -10447,7 +10447,6 @@ blastocarpous
 blastocele
 bureaucratization
 blastocheme
-blastochyle
 blastocyst
 blastocyte
 blastocoel
@@ -16464,6 +16463,7 @@ bub
 bubales
 bubalis
 bubalises
+blastochyle
 bubals
 bubas
 bullbird
