@@ -107,7 +107,6 @@ equitation
 earmuff
 earmuffs
 earn
-earnable
 earned
 earner
 earners
@@ -2285,6 +2284,7 @@ electrizer
 ethnocentricity
 electrizing
 electroacoustic
+earnable
 electroacoustical
 electroacoustically
 electroacoustics
