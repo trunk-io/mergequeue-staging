@@ -212,7 +212,6 @@ factum
 facture
 factures
 facula
-faculae
 facular
 faculative
 faculous
@@ -3598,6 +3597,7 @@ filatures
 filazer
 filbert
 filberts
+faculae
 futurable
 filch
 filched

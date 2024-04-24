@@ -9782,7 +9782,6 @@ cumin
 chelonid
 cachets
 cheloniid
-cheloniidae
 chelonin
 chelophore
 cheltenham
@@ -22043,6 +22042,7 @@ confixing
 conflab
 conflagrant
 conflagrate
+cheloniidae
 conflagrated
 conflagrating
 conflagration
