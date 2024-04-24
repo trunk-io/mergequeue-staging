@@ -1110,7 +1110,6 @@ elderhood
 edificatory
 edifice
 edificed
-edifices
 edificial
 edificing
 edified
@@ -3459,6 +3458,7 @@ emblanch
 emblaze
 emblazed
 emblazer
+edifices
 emblazers
 euphoria
 emblazes
