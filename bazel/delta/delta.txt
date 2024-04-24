@@ -2659,6 +2659,7 @@ decomposed
 decomposer
 decomposers
 decomposes
+dehache
 decomposing
 decomposition
 decapod
@@ -3697,7 +3698,6 @@ degustate
 degusted
 degusting
 degusts
-dehache
 dehair
 dehairer
 deheathenize
