@@ -11258,7 +11258,6 @@ amphistomous
 amphistomum
 asyllabic
 amphitene
-amphithalamus
 amphithalmi
 amphitheater
 amphitheatered
@@ -17595,6 +17594,7 @@ apparency
 almucantar
 apparens
 apparent
+amphithalamus
 apparentation
 apparentement
 apparentements
