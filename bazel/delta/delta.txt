@@ -6430,7 +6430,6 @@ desalting
 dobbers
 desalts
 desamidase
-desamidization
 desaminase
 desanded
 desanding
@@ -10854,6 +10853,7 @@ dirge
 dirged
 dirgelike
 dirgeman
+desamidization
 dirges
 dirgie
 diriment
