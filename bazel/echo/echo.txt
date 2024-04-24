@@ -6375,7 +6375,6 @@ ensheath
 ensheathe
 ensheathed
 ensheathes
-ensheathing
 enshell
 enshelter
 exploring
@@ -10371,6 +10370,7 @@ eupepticity
 ethylthioether
 ethinamate
 ethine
+ensheathing
 epicondylian
 ethyne
 ethynes
