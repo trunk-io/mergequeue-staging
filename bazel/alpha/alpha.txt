@@ -14310,6 +14310,7 @@ anterolaterally
 anteromedial
 abducting
 anteromedian
+apicula
 anteroom
 anterooms
 anteroparietal
@@ -16992,7 +16993,6 @@ apickpack
 apicoectomy
 apicolysis
 andorra
-apicula
 apicular
 apiculate
 apiculated
