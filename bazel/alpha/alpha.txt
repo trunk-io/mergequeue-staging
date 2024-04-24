@@ -716,7 +716,6 @@ abord
 aboriginal
 aboriginality
 aboriginally
-aboriginals
 aboriginary
 aborigines
 aborning
@@ -5809,6 +5808,7 @@ agacerie
 antedorsal
 agaces
 agada
+aboriginals
 agade
 apicial
 agadic
