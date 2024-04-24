@@ -2875,7 +2875,6 @@ genthite
 gentian
 gentiana
 gentianella
-goaler
 gentianose
 gentians
 gentianwort
@@ -9553,6 +9552,7 @@ growable
 growed
 grower
 growers
+goaler
 growing
 growingly
 growingupness
