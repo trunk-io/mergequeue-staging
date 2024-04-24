@@ -10281,7 +10281,6 @@ blakeberyed
 boatlike
 blakeite
 blam
-blamable
 blame
 blameable
 blameableness
@@ -18246,6 +18245,7 @@ butterfishes
 butterfly
 butterflied
 brindles
+blamable
 butterflyer
 butterflies
 butterflyfishes
