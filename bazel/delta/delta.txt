@@ -5843,7 +5843,6 @@ deposito
 depositor
 depository
 depositories
-depositors
 depositum
 depositure
 deposure
@@ -9197,6 +9196,7 @@ didus
 diatribist
 die
 dye
+depositors
 dyeability
 dyeable
 ditriglyph
