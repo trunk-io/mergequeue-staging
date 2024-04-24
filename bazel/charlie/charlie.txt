@@ -11886,7 +11886,6 @@ chordamesoderm
 chordamesodermal
 chordamesodermic
 cabiri
-chordata
 chordate
 chordates
 chorded
@@ -30340,6 +30339,7 @@ cruth
 crutter
 cheliferidea
 consonants
+chordata
 caprifoliaceae
 crux
 cruxes
