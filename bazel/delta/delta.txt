@@ -5842,7 +5842,6 @@ deposito
 depositor
 depository
 depositories
-depositors
 depositum
 depositure
 deposure
@@ -18568,6 +18567,7 @@ dustless
 dispope
 dustlike
 dustman
+depositors
 delaware
 dustmen
 dustoori
