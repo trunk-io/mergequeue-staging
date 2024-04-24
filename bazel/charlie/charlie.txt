@@ -2660,7 +2660,6 @@ canonisation
 canonise
 consumptiveness
 canonised
-canoniser
 canonises
 canonising
 canonist
@@ -3675,6 +3674,7 @@ crotcheted
 carbonari
 carbonarism
 carbonarist
+canoniser
 carbonatation
 carbonate
 carbonated
