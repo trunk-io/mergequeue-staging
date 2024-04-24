@@ -341,7 +341,6 @@ doddle
 daybeds
 dollfaced
 dayberry
-daybill
 dayblush
 dayboy
 dustrag
@@ -16900,6 +16899,7 @@ dreamless
 dreamlessly
 doubleheader
 dreamlet
+daybill
 dreamlike
 dreamlikeness
 dreamlore
