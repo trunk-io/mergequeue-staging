@@ -12182,6 +12182,7 @@ disfurniture
 disgallant
 drillstock
 disgarnish
+duellists
 disgavel
 disgaveled
 disgaveling
@@ -17874,7 +17875,6 @@ dueller
 duelli
 duelling
 duellist
-duellists
 duellize
 duello
 duellos

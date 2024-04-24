@@ -5678,7 +5678,6 @@ guarache
 globalizing
 globally
 goldenrods
-globated
 goffering
 globe
 globed
@@ -7657,6 +7656,7 @@ gradines
 grading
 gradings
 gradino
+globated
 gradins
 guilefulness
 gradiometer
