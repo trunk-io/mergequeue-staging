@@ -2212,6 +2212,7 @@ deceives
 deceiving
 decelerate
 decelerated
+doorpiece
 decelerates
 decelerations
 decelerator
@@ -15613,7 +15614,6 @@ doormats
 doormen
 doornail
 doornboom
-doorpiece
 doorplates
 doorpost
 doors
