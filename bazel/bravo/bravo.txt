@@ -5870,7 +5870,6 @@ berteroa
 bellmouthed
 bello
 bialystoker
-buttstock
 bellon
 bellona
 bellonion
@@ -16965,6 +16964,7 @@ bulbocapnin
 bulbocavernosus
 bulbocavernous
 bulbocodium
+buttstock
 bulbomedullary
 bulbomembranous
 bulbonuclear
