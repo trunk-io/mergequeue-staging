@@ -3200,7 +3200,6 @@ defeminise
 defeminised
 defeminization
 defeminize
-dismarshall
 defeminized
 defeminizing
 defence
@@ -17383,6 +17382,7 @@ decream
 dropsies
 dropsywort
 dropsonde
+dismarshall
 dropvie
 dropwise
 disembitter
