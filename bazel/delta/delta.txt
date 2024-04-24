@@ -3961,7 +3961,6 @@ delapse
 delapsion
 delassation
 delassement
-delated
 dakotan
 delater
 delates
@@ -5837,6 +5836,7 @@ depot
 defecter
 depotentiate
 depots
+delated
 depravate
 depravation
 deprave
