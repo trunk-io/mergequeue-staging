@@ -8805,6 +8805,7 @@ dibranchia
 dibranchiata
 dibranchiate
 dibranchious
+dorsalwards
 desires
 dibrom
 dibromide
@@ -15791,7 +15792,6 @@ dorsally
 dorsalmost
 dorsals
 dorsalward
-dorsalwards
 dorse
 dorsel
 dorser
