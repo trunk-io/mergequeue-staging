@@ -4291,7 +4291,6 @@ flaxwench
 flounderingly
 fireweed
 fireweeds
-firewood
 fireworky
 fireworkless
 fireworks
@@ -4752,6 +4751,7 @@ flaff
 fishman
 fez
 flaffer
+firewood
 flag
 flagarie
 fingertip
