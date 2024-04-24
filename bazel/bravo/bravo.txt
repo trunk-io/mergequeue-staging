@@ -199,6 +199,7 @@ baccalaureate
 baccalaureates
 beadily
 baccalaureus
+bacteriotoxic
 baccar
 baccara
 bdrm
@@ -717,7 +718,6 @@ bacteriostatic
 bacteriostatically
 bacteriotherapeutic
 bacteriotherapy
-bacteriotoxic
 bacteriotoxin
 bacteriotropic
 blepharedema
