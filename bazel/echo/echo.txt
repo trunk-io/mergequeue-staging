@@ -2261,7 +2261,6 @@ electriferous
 electrifiable
 electrification
 electrified
-esthetophore
 electrifiers
 electrifying
 electrine
@@ -3642,6 +3641,7 @@ embryoctony
 embryoctonic
 entoptoscopy
 embryoferous
+esthetophore
 embryogenesis
 embryogenetic
 embryogony
