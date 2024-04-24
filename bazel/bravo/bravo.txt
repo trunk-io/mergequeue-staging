@@ -4709,7 +4709,6 @@ bedgoer
 bedgown
 bedgowns
 bediademed
-bediamonded
 bediaper
 bediapered
 bediapering
@@ -11541,6 +11540,7 @@ boanerges
 boanergism
 boanthropy
 bibbed
+bediamonded
 board
 boardbill
 bodega
