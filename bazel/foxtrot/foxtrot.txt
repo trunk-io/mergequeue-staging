@@ -2181,7 +2181,6 @@ felony
 frocking
 foreshortening
 felonies
-fickleness
 felonious
 feloniously
 feloniousness
@@ -5406,6 +5405,7 @@ farsi
 fleer
 fleered
 fleerer
+fickleness
 fleering
 fleeringly
 falbelo
