@@ -345,6 +345,7 @@ bantamweight
 backchain
 backchat
 backchats
+bulls
 backcomb
 bucculae
 backcourt
@@ -5577,7 +5578,6 @@ bekick
 bekilted
 beking
 blazed
-bulls
 bekinkinite
 bekiss
 bekissed
