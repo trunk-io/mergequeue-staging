@@ -5720,7 +5720,6 @@ autolysis
 afterpressure
 afterproof
 afterrake
-afterreckoning
 afterrider
 afterripening
 afterroll
@@ -22951,6 +22950,7 @@ antheriform
 attemperament
 attemperance
 attemperate
+afterreckoning
 attemperately
 attemperation
 attempered
