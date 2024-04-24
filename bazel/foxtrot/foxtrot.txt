@@ -3771,6 +3771,7 @@ fating
 flow
 fillock
 fillowite
+flinthearted
 filmable
 filmcard
 filmcards
@@ -5683,7 +5684,6 @@ flint
 flinted
 flinter
 flinthead
-flinthearted
 forbreak
 flinty
 flintier
