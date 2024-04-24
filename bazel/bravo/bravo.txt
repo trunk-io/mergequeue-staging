@@ -13787,7 +13787,6 @@ bowkail
 bowker
 bowknot
 bowknots
-bowl
 blinking
 bowla
 bowlder
@@ -17970,6 +17969,7 @@ bibliog
 bushelman
 bushelmen
 bushels
+bowl
 bushelwoman
 busher
 bushers
