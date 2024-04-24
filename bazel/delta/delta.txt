@@ -5657,7 +5657,6 @@ dephlegmatory
 dephlegmedness
 dephlogisticate
 dephlogisticated
-dephosphorize
 depickle
 depict
 dag
@@ -18611,6 +18610,7 @@ duumviral
 duumvirate
 duumviri
 duvet
+dephosphorize
 duvetyn
 duvetine
 disseisor
