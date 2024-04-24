@@ -1736,6 +1736,7 @@ elvis
 epicureanism
 eyedrop
 eyedropper
+extendible
 eyedropperful
 eyeflap
 eyefuls
@@ -6210,7 +6211,6 @@ erugatory
 enoughs
 enounce
 estrones
-extendible
 enounced
 enouncement
 enouncing
