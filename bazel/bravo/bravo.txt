@@ -2380,7 +2380,6 @@ barbells
 billets
 barbellula
 barbellulae
-barbellulate
 barbels
 ballroom
 barbeque
@@ -10194,6 +10193,7 @@ blacklight
 blacklist
 blacklisted
 blacklister
+barbellulate
 bilirubin
 blacklisting
 blackmail
