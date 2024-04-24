@@ -5742,7 +5742,6 @@ globulins
 globulysis
 globulite
 globulose
-globulous
 globulousness
 glochchidia
 glochid
@@ -8242,6 +8241,7 @@ grappled
 grappler
 grapplers
 grapples
+globulous
 grappling
 grapsidae
 grapsoid
