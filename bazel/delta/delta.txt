@@ -1592,7 +1592,6 @@ deafnesses
 discordable
 deair
 deaired
-deairing
 deairs
 dealable
 dealate
@@ -18598,6 +18597,7 @@ dutchman
 dutchmen
 duteously
 duteousness
+deairing
 duty
 dutiability
 dutied
