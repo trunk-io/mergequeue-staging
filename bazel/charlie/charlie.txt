@@ -3660,7 +3660,6 @@ chrisma
 carbolxylol
 carbomethene
 carbomethoxy
-carbomethoxyl
 carbomycin
 carbon
 carbona
@@ -31200,6 +31199,7 @@ curacoas
 curage
 curagh
 curaghs
+carbomethoxyl
 curara
 curaras
 curares
