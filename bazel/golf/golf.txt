@@ -5633,7 +5633,6 @@ glisteringly
 glisters
 glitch
 glitches
-glitnir
 glitterance
 glittered
 glittery
@@ -8438,6 +8437,7 @@ graveside
 gravelstone
 gravelweed
 gravemaker
+glitnir
 gravemaking
 graveman
 graven
