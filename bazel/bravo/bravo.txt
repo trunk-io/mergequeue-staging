@@ -7888,7 +7888,6 @@ buskin
 bechirp
 bibenzyl
 bibi
-bibio
 bibionid
 bibionidae
 bibiri
@@ -12978,6 +12977,7 @@ borderline
 bordermark
 backstitch
 borders
+bibio
 borderside
 bordman
 bordrag
