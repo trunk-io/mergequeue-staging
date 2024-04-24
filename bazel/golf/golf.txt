@@ -3857,7 +3857,6 @@ gastromalacia
 gaggled
 gibbered
 gibberella
-gibbergunyah
 gibbering
 gibberish
 gleed
@@ -8565,6 +8564,7 @@ greasy
 greasier
 greasiest
 greasing
+gibbergunyah
 greatcoat
 greatcoated
 greatened
