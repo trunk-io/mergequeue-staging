@@ -13328,7 +13328,6 @@ bothridia
 bemartyr
 broadness
 buhr
-bothridium
 bothridiums
 bothriocephalus
 bothriocidaris
@@ -18381,6 +18380,7 @@ buzzed
 buzzer
 buzzerphone
 bobooti
+bothridium
 buzzers
 buzzes
 buzzgloak
