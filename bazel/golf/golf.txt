@@ -5422,7 +5422,6 @@ glyceridic
 grimace
 glyceryl
 glyceryls
-glycerin
 glycerinate
 glycerinated
 guarri
@@ -10833,6 +10832,7 @@ guzul
 griphe
 guzzle
 guzzled
+glycerin
 guzzlers
 guzzles
 giftlike
