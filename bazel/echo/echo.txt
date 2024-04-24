@@ -924,7 +924,6 @@ ectorganism
 ectorhinal
 ectosarc
 excavated
-ectosarcous
 ectoskeleton
 eggcupful
 ectosomal
@@ -11982,6 +11981,7 @@ eyewinks
 excerpta
 excerpted
 excerpter
+ectosarcous
 eupolidean
 etheneldeli
 excerpting
