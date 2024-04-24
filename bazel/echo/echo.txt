@@ -4385,6 +4385,7 @@ enamellar
 eau
 equiped
 enamelled
+egocentristic
 enameller
 enamellers
 enamelless
@@ -11497,7 +11498,6 @@ eventually
 eventuated
 eventuating
 eventuations
-egocentristic
 evenwise
 evenworthy
 ephectic
