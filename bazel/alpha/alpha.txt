@@ -5630,7 +5630,6 @@ afterdays
 afterdamp
 afterdate
 afterdated
-afterdeal
 afterdeath
 afterdeck
 afterdecks
@@ -21294,6 +21293,7 @@ askar
 askarel
 askari
 askaris
+afterdeal
 asked
 asker
 askers
