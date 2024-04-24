@@ -186,7 +186,6 @@ factorable
 factordom
 factoress
 factory
-factorial
 factorially
 frizer
 factorials
@@ -9044,6 +9043,7 @@ fountainheads
 fountaining
 fountainlet
 fibrinogenic
+factorial
 fountainlike
 filicite
 fountainous
