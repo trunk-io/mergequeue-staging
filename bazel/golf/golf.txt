@@ -633,7 +633,6 @@ gladless
 gallinacean
 gallinacei
 gallinaceous
-gallinae
 goitrogenicity
 gallinaginous
 germinates
@@ -5243,6 +5242,7 @@ gnathic
 glasswork
 guider
 glassworker
+gallinae
 glassworkers
 glassworking
 gaius
