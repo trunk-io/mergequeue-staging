@@ -2367,6 +2367,7 @@ fenny
 fennici
 fennig
 fennish
+fabes
 fennoman
 flanks
 fenrir
@@ -10486,7 +10487,6 @@ frosh
 frost
 foregoer
 frostation
-fabes
 flyblew
 frostbite
 frostbiter
