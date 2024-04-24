@@ -14880,7 +14880,6 @@ cytoderm
 cytodiagnosis
 cytodieresis
 cytodieretic
-cytodifferentiation
 cytoecology
 cytogamy
 cytogene
@@ -29512,6 +29511,7 @@ criteriia
 criteriology
 criterion
 criterional
+cytodifferentiation
 criterions
 criterium
 crith
