@@ -9622,7 +9622,6 @@ dihalogen
 dihdroxycholecalciferol
 dihedral
 dihedrals
-dihedron
 dihely
 dihelios
 dihelium
@@ -18071,6 +18070,7 @@ dumbly
 dumbness
 dumbnesses
 dumbstruck
+dihedron
 denaturalise
 dumbwaiter
 dumbwaiters
