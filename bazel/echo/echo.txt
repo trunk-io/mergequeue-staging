@@ -6605,7 +6605,6 @@ exolemma
 entermise
 enterobacterial
 enterobiasis
-enterobiliary
 enterocele
 enterocentesis
 enteroceptor
@@ -6820,6 +6819,7 @@ enties
 enlister
 entify
 eternalness
+enterobiliary
 entifical
 entyloma
 entire
