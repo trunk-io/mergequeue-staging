@@ -1696,7 +1696,6 @@ accorded
 accorder
 accorders
 according
-accordingly
 accordion
 accordionist
 abrased
@@ -20089,6 +20088,7 @@ aromatiser
 aromatising
 aromatitae
 aromatite
+accordingly
 aromatites
 aromatization
 aromatize
