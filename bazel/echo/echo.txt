@@ -2023,7 +2023,6 @@ elachistaceae
 elachistaceous
 encodes
 elaeagnaceae
-elaeagnaceous
 elaeagnus
 elaeis
 elaeoblast
@@ -10598,6 +10597,7 @@ eton
 etonian
 etouffe
 etrenne
+elaeagnaceous
 etrier
 etrog
 etrogim
