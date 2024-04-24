@@ -386,7 +386,6 @@ dogey
 daylighting
 daylights
 daylily
-daylilies
 dailiness
 daylit
 daylong
@@ -16076,6 +16075,7 @@ dilacerate
 dough
 doughbelly
 doughbellies
+daylilies
 doughbird
 doughboy
 doughboys
