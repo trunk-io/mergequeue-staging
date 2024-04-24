@@ -2063,7 +2063,6 @@ feists
 felafel
 felaheen
 felahin
-felanders
 felapton
 feldsher
 feldspar
@@ -5521,6 +5520,7 @@ flex
 flexanimous
 flexed
 flexes
+felanders
 flexibilities
 flexibilty
 flexible
