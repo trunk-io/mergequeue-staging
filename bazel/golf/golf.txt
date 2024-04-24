@@ -6775,7 +6775,6 @@ gonangia
 gonangial
 gonangium
 gonangiums
-gonapod
 gonapophysis
 gonarthritis
 gond
@@ -8789,6 +8788,7 @@ gregor
 gregorian
 glassless
 greyback
+gonapod
 greybeard
 greycoat
 glottis
