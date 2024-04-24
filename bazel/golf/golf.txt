@@ -952,7 +952,6 @@ gametogenous
 gametogonium
 gametoid
 gametophagia
-gametophyll
 gonopodium
 gametophyte
 gametophytic
@@ -3256,6 +3255,7 @@ geostationary
 gluttonism
 geostrategy
 geostrophic
+gametophyll
 geotactic
 goons
 geotactically
