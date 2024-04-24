@@ -23976,7 +23976,6 @@ conveyer
 conveyers
 conveying
 conveyorization
-conveyorize
 conveyorized
 conveyorizer
 conveyors
@@ -25132,6 +25131,7 @@ coriaria
 coriariaceae
 coriariaceous
 coriaus
+conveyorize
 chonolith
 corybant
 corybantian
