@@ -1461,7 +1461,6 @@ ddname
 ddt
 dea
 deaccession
-deaccessioning
 deaccessions
 deacetylated
 dirl
@@ -17951,6 +17950,7 @@ duit
 duka
 dorsolum
 dukedoms
+deaccessioning
 dukely
 dukeling
 dukery
