@@ -6529,6 +6529,7 @@ desecate
 desecrate
 desecrated
 desecrater
+discloak
 desecrates
 desecrating
 desecration
@@ -11410,7 +11411,6 @@ disclass
 disclassify
 disclike
 disclimax
-discloak
 discloister
 debug
 dine

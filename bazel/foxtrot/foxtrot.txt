@@ -2630,6 +2630,7 @@ ferromagneticism
 ferromagnetism
 ferromanganese
 ferromolybdenum
+falconet
 ferronatrite
 ferronickel
 ferrophosphorus
@@ -5250,7 +5251,6 @@ flavonoid
 foreshadow
 flavonol
 flavonols
-falconet
 frailest
 flavoprotein
 flagships
