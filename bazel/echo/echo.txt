@@ -4870,7 +4870,6 @@ estrus
 encrinidae
 entoilment
 encrinital
-erythrons
 encrinite
 encrinitic
 encrinitical
@@ -11955,6 +11954,7 @@ excepter
 excepting
 exceptio
 enthraller
+erythrons
 exception
 exceptionability
 exceptional
