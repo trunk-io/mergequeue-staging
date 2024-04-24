@@ -8666,6 +8666,7 @@ billholder
 billhook
 baptisteries
 bimillenial
+boulevardiers
 befilch
 billian
 billiard
@@ -10717,7 +10718,6 @@ bottega
 blennoemesis
 blennogenic
 blennogenous
-boulevardiers
 blennoid
 blennoma
 blennometritis
