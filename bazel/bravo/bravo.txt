@@ -1315,7 +1315,6 @@ balanoblennorrhea
 balanocele
 balanoglossida
 balanoid
-balanophora
 balanophoraceae
 boteroll
 balanophoraceous
@@ -11759,6 +11758,7 @@ boden
 baluga
 bodenbenderite
 boder
+balanophora
 bodes
 bodewash
 bodeword
