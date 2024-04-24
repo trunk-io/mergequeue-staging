@@ -7901,7 +7901,6 @@ alerion
 alerse
 alert
 alerta
-anorak
 alerted
 alertedly
 alerter
@@ -22950,6 +22949,7 @@ attapulgite
 attargul
 attask
 attaste
+anorak
 attatched
 attatches
 atte
