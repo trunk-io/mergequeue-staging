@@ -16162,6 +16162,7 @@ climaxing
 climb
 cleans
 cozy
+colima
 consequence
 climbable
 climbed
@@ -18810,7 +18811,6 @@ coliforms
 coliidae
 coliiformes
 colilysin
-colima
 colymbidae
 colymbiform
 colymbion
