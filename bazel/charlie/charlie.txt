@@ -3176,6 +3176,7 @@ capos
 capot
 capotasto
 capotastos
+cheerfulize
 capote
 capotes
 capouch
@@ -9606,7 +9607,6 @@ cheered
 cecil
 cheerer
 cheerful
-cheerfulize
 cheerfuller
 cheerfullest
 cheerfully
