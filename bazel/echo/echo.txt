@@ -4197,7 +4197,6 @@ eucephalous
 effund
 enteromere
 employe
-employed
 employee
 employees
 employer
@@ -10624,6 +10623,7 @@ etui
 etuis
 etuvee
 etwas
+employed
 etwee
 etwees
 etwite
