@@ -6009,6 +6009,7 @@ flop
 floperoo
 flophouse
 flophouses
+foreknow
 flopover
 flopovers
 furnacelike
@@ -7813,7 +7814,6 @@ foreknee
 feminines
 figurism
 frena
-foreknow
 foreknowableness
 foreknower
 foreknowing
