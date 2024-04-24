@@ -110,7 +110,6 @@ cabinets
 cabinetted
 clitelline
 cabinetwork
-cabinetworker
 cabinetworking
 cabining
 cabinlike
@@ -618,6 +617,7 @@ caesural
 caesuras
 caesuric
 cirrostratus
+cabinetworker
 cafard
 cafardise
 chicky
