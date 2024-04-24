@@ -3788,7 +3788,6 @@ dehumidify
 dehumidified
 dehumidifier
 dehumidifiers
-dehumidifying
 dehwar
 dei
 dey
@@ -15678,6 +15677,7 @@ dehydrogeniser
 dopping
 doppio
 doppler
+dehumidifying
 dopplerite
 dor
 dorab
