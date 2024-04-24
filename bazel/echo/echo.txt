@@ -5498,7 +5498,6 @@ enepidermic
 energeia
 energesis
 energetic
-energetical
 euonymuses
 energetically
 energeticalness
@@ -8644,6 +8643,7 @@ equilibrant
 equilibrate
 equilibrated
 epitrochlear
+energetical
 equilibrates
 equilibrating
 exonerates
