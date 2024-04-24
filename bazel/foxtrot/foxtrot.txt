@@ -52,6 +52,7 @@ fermatas
 foreshowing
 fabulate
 fabulize
+fasces
 fabulosity
 fabulous
 fabulously
@@ -1156,7 +1157,6 @@ farts
 ff
 farweltered
 fasc
-fasces
 fascet
 fascia
 fasciae
