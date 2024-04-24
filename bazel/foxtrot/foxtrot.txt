@@ -6574,7 +6574,6 @@ flushers
 flushes
 flushest
 flushing
-flushingly
 flushness
 flusk
 flusker
@@ -9887,6 +9886,7 @@ fresh
 freshed
 freshen
 farrantly
+flushingly
 freshener
 fresheners
 freshening
