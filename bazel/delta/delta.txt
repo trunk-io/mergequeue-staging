@@ -6057,7 +6057,6 @@ derangeable
 derangement
 deranger
 deranges
-deranging
 deader
 derat
 derate
@@ -15280,6 +15279,7 @@ dolphins
 dolphus
 dols
 dolt
+deranging
 dolthead
 doltish
 doltishly

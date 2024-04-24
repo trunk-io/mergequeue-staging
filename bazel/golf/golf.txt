@@ -1449,7 +1449,6 @@ garni
 garniec
 garnierite
 garnishable
-garnished
 garnishee
 gelatinization
 garnishees
@@ -9376,6 +9375,7 @@ grosser
 greasiness
 gweduc
 grossers
+garnished
 grosses
 gorgers
 grossest
