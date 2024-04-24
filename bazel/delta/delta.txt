@@ -3156,7 +3156,6 @@ defeasibleness
 defeasive
 delphacid
 defeat
-defeated
 defeatee
 defeater
 dissimulated
@@ -17079,6 +17078,7 @@ dryer
 drierman
 dryerman
 driers
+defeated
 dries
 dryest
 dryfarm
