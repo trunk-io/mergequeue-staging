@@ -7917,7 +7917,6 @@ foreplays
 foreplan
 forepleasure
 forepoint
-forepointer
 forepole
 forepoled
 flatulency
@@ -11187,6 +11186,7 @@ funerealness
 funest
 funfair
 funfest
+forepointer
 fungaceous
 fungal
 fungales
