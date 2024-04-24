@@ -1026,7 +1026,6 @@ gamori
 gamostele
 gamostely
 gamotropic
-genetically
 gamotropism
 goblinism
 gamp
@@ -9912,6 +9911,7 @@ guarauno
 guard
 guardable
 guardage
+genetically
 guardant
 guardants
 guardedness
