@@ -9097,6 +9097,7 @@ charque
 charqued
 charqui
 charquid
+crankcase
 charquis
 charr
 charras
@@ -13737,7 +13738,6 @@ cinched
 choliambic
 cincher
 cinches
-crankcase
 cinching
 cincholoipon
 cincholoiponic
