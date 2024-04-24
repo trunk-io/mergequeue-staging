@@ -7211,7 +7211,6 @@ environments
 environs
 envisage
 enthrill
-envisaged
 envisages
 envisaging
 envision
@@ -8430,6 +8429,7 @@ epizoan
 epizoarian
 expatiators
 epizoic
+envisaged
 epizoisms
 eudaemonia
 epizoite
