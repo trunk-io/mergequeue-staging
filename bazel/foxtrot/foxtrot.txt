@@ -2677,7 +2677,6 @@ fertile
 fertilely
 fertileness
 fertilisable
-figurehead
 fertilisational
 fertilise
 fertiliser
@@ -6194,6 +6193,7 @@ flourishy
 foobar
 flourishingly
 flourlike
+figurehead
 flours
 falcated
 federalization
