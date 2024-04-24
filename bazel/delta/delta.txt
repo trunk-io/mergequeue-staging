@@ -7407,6 +7407,7 @@ detrusor
 dette
 detubation
 detumescence
+distrait
 detumescent
 detune
 detur
@@ -13955,7 +13956,6 @@ distrainment
 distrainor
 distrains
 distraint
-distrait
 distraite
 distraught
 dialers
