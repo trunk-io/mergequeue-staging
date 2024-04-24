@@ -1742,7 +1742,6 @@ balr
 blending
 bals
 batching
-balsa
 balsam
 balsamaceous
 balsamation
@@ -11275,6 +11274,7 @@ blowsy
 blowsier
 blowsily
 blowspray
+balsa
 barthian
 blowth
 blowtorches
