@@ -6460,6 +6460,7 @@ estimate
 epochal
 ensorcels
 ensorcerize
+eccrine
 ensorrow
 ensoul
 ensouled
@@ -6930,7 +6931,6 @@ entomotaxy
 entomotomy
 entone
 epitrchelia
-eccrine
 emblema
 entonement
 entonic
