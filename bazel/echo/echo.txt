@@ -12352,6 +12352,7 @@ exemplifiable
 electrothermostat
 evocatrix
 exemplification
+exister
 exemplificational
 exemplifications
 exemplificative
@@ -12593,7 +12594,6 @@ existentialists
 existentialize
 existently
 existents
-exister
 ergogram
 existibility
 existible
