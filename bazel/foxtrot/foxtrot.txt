@@ -1078,7 +1078,6 @@ foremastman
 farmland
 fluorosis
 farmlands
-farmost
 farmout
 francisca
 fisc
@@ -9351,6 +9350,7 @@ fraile
 footpaces
 frailejon
 frailero
+farmost
 fraileros
 frailes
 frailish
