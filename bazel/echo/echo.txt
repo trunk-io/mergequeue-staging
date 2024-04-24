@@ -5356,6 +5356,7 @@ endosteomas
 endosteum
 endostylar
 emarginula
+ewing
 endostyle
 endostylic
 excarnate
@@ -11705,7 +11706,6 @@ eruditely
 ewes
 ewest
 ewhow
-ewing
 ewound
 ewry
 excur
