@@ -4604,6 +4604,7 @@ bedaggered
 basecoat
 bedaggle
 beday
+billons
 bedamned
 bedamning
 bedamp
@@ -8697,7 +8698,6 @@ billman
 bosun
 billmen
 billon
-billons
 billot
 billow
 balladeroyal
