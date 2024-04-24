@@ -1235,7 +1235,6 @@ gaolering
 gaolerness
 gaolers
 gaoling
-gaoloring
 gaols
 gaon
 geobotany
@@ -2366,6 +2365,7 @@ gelatinate
 gelatinated
 gelatinating
 gelatination
+gaoloring
 gelatine
 gelatined
 gelatines
