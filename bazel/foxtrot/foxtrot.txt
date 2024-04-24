@@ -2493,7 +2493,6 @@ fermillet
 fermion
 flexity
 fermions
-fermis
 fermium
 fermorite
 fern
@@ -5912,6 +5911,7 @@ filterman
 floeberg
 floey
 floerkea
+fermis
 floes
 flog
 flogger
