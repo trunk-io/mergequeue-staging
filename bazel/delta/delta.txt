@@ -261,7 +261,6 @@ dagassa
 dagbane
 dagesh
 dagestan
-dagga
 daggar
 dagged
 dagger
@@ -18616,6 +18615,7 @@ duvetyn
 duvetine
 disseisor
 duvetines
+dagga
 duvetynes
 dendrolene
 dragonlike
