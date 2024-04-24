@@ -3068,7 +3068,6 @@ geographer
 gramaphone
 geographers
 gulper
-geography
 geographical
 geographically
 geographies
@@ -5971,6 +5970,7 @@ groundbreaker
 glottalized
 glottalizing
 glottic
+geography
 glottid
 gynerium
 glottidean
