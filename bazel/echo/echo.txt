@@ -2055,7 +2055,6 @@ elan
 elance
 eland
 elands
-elanet
 elans
 eperlan
 elanus
@@ -5614,6 +5613,7 @@ enfolds
 electrobrasser
 enfonce
 ephemerae
+elanet
 enforce
 enforceability
 enforceable
