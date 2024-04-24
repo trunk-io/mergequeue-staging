@@ -5796,7 +5796,6 @@ bellerophontidae
 belleter
 belletrist
 buchanite
-belletristic
 belletrists
 bellevue
 boxers
@@ -6961,6 +6960,7 @@ besew
 beshackle
 beshade
 beshadow
+belletristic
 beshadowed
 beshadowing
 bewrayer
