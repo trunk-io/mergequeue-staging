@@ -10083,6 +10083,7 @@ chessboard
 chessboards
 chessdom
 chessel
+corbelling
 chesser
 chesses
 chesset
@@ -24919,7 +24920,6 @@ corbel
 corbeled
 corbeling
 corbelled
-corbelling
 corbels
 corbet
 coadjacently
