@@ -5267,7 +5267,6 @@ electrometry
 endopleuritic
 endopodite
 endopoditic
-endopods
 endoproct
 endoprocta
 endoproctous
@@ -12805,6 +12804,7 @@ exordium
 exordiums
 exordize
 exorhason
+endopods
 exornate
 exornation
 exortion
