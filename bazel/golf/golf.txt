@@ -1134,6 +1134,7 @@ governance
 ganglions
 ganglioplexus
 gangman
+gyrocompass
 gangmaster
 gangplank
 gangplanks
@@ -4768,7 +4769,6 @@ goodwills
 guildsman
 gyrochrome
 gonostyle
-gyrocompass
 golliwogg
 gyrocompasses
 gyrodactylidae

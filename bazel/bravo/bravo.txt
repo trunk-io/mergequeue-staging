@@ -7268,7 +7268,6 @@ bestower
 bestowing
 bestowment
 bestows
-bedusk
 bestraddle
 bestraddled
 bestraddling
@@ -11512,6 +11511,7 @@ blushy
 blushiness
 blushing
 blushingly
+bedusk
 blushless
 blusht
 beth
