@@ -6343,7 +6343,6 @@ cavefish
 cavefishes
 cavey
 cavekeeper
-cavelike
 caveman
 cavemen
 cavendish
@@ -21050,6 +21049,7 @@ computed
 computer
 computerese
 computerise
+cavelike
 cholehematin
 computerite
 computerizable
