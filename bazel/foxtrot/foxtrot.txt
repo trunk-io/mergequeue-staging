@@ -296,7 +296,6 @@ fafnir
 fag
 fagaceae
 fagaceous
-fagald
 fayal
 fayalites
 fayence
@@ -1976,6 +1975,7 @@ feedbox
 feedboxes
 feeded
 feeders
+fagald
 feedhead
 feeding
 feedings
