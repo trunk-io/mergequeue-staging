@@ -15780,7 +15780,6 @@ cleading
 cleam
 cleamer
 clean
-cleanable
 cleaned
 cleaner
 cleaners
@@ -17142,6 +17141,7 @@ coaler
 coalers
 coalesce
 coalescence
+cleanable
 cellarless
 coalescency
 coalescent
