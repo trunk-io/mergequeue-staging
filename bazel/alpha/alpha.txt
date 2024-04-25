@@ -1992,7 +1992,6 @@ acervuli
 acervuline
 acervulus
 aces
-acescence
 acescency
 acescent
 acescents
@@ -20945,6 +20944,7 @@ ascent
 ascertain
 ascertainability
 ascertainably
+acescence
 ascertained
 ascertainer
 ascertaining
