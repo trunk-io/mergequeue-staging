@@ -16962,6 +16962,7 @@ catalecta
 cmdr
 cml
 cnemial
+conjurement
 cnemic
 cnemides
 cnemidium
@@ -22522,7 +22523,6 @@ conjurations
 conjurator
 conjure
 conjured
-conjurement
 conjurer
 conjurers
 conjurership
