@@ -1987,7 +1987,6 @@ decagonally
 decagons
 decagram
 decagramme
-decagrams
 decahedra
 decahedral
 decahedrodra
@@ -10426,6 +10425,7 @@ dipaschal
 dipchick
 dipcoat
 dipentene
+decagrams
 dipentine
 dipeptid
 dipeptidase
