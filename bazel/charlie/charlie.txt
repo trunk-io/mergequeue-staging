@@ -2870,6 +2870,7 @@ clacking
 cantus
 cantut
 cantuta
+corambis
 cantwise
 canuck
 canula
@@ -24897,7 +24898,6 @@ coralroot
 corals
 coralwort
 coram
-corambis
 coran
 corance
 coranoch
