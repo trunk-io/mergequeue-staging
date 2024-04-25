@@ -5054,6 +5054,7 @@ diaphragms
 denaturisation
 denaturise
 doughnut
+dryops
 denaturised
 duodiode
 denaturiser
@@ -17155,7 +17156,6 @@ dryopithecid
 dryopithecinae
 dryopithecine
 dryopithecus
-dryops
 dryopteris
 dryopteroid
 drip
