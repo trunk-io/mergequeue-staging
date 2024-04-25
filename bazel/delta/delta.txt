@@ -7355,6 +7355,7 @@ detray
 dimuence
 detrain
 detrained
+duodenum
 determiners
 decoymen
 detraining
@@ -18300,7 +18301,6 @@ duodenoscopy
 duodenostomy
 difda
 duodenotomy
-duodenum
 duodenums
 duodial
 duodynatron
