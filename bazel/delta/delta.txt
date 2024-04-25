@@ -5899,7 +5899,6 @@ depredatory
 depredicate
 deprehend
 deprehensible
-depress
 diploptera
 depressanth
 dunked
@@ -12655,6 +12654,7 @@ dislocating
 dislocation
 dislocator
 dislocatory
+depress
 dislock
 drinkables
 dislodgeable
