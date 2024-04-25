@@ -2174,6 +2174,7 @@ eh
 expect
 elderman
 enlink
+estriche
 eldermen
 eldern
 elders
@@ -10101,7 +10102,6 @@ estrepement
 estriate
 extraviolet
 estrich
-estriche
 estrif
 estrildine
 existimation
