@@ -6075,7 +6075,6 @@ aphorismical
 agglutinogenic
 agglutinoid
 agglutinoscope
-agglutogenic
 aggrace
 aggradation
 aggradational
@@ -21509,6 +21508,7 @@ aspirate
 aspirated
 aspiration
 aspirations
+agglutogenic
 aspiratory
 aspirators
 aspire
