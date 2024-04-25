@@ -5713,6 +5713,7 @@ flypast
 flypasts
 flipe
 flype
+foredeep
 fribbler
 first
 freezers
@@ -7640,7 +7641,6 @@ foredecks
 foredeclare
 foredeem
 fallotomy
-foredeep
 flyspecked
 forthby
 foredefeated
