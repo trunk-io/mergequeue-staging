@@ -3090,7 +3090,6 @@ externalizing
 eyebath
 eloigned
 eloigner
-eloigners
 eloigning
 efficacity
 eloignment
@@ -8726,6 +8725,7 @@ equipostile
 equipotential
 equipotentiality
 equipped
+eloigners
 equipping
 equiprobable
 equiprobably
