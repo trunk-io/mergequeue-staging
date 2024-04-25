@@ -15562,7 +15562,6 @@ antimasks
 antimason
 antimasonic
 antimasonry
-antimasque
 antimasquer
 antimasquerade
 antimaterialism
@@ -24179,6 +24178,7 @@ automanipulation
 automanual
 automat
 automata
+antimasque
 automatable
 automate
 automated
