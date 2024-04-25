@@ -7122,7 +7122,6 @@ centrefold
 centreless
 centrepiece
 centrer
-chol
 centres
 centrev
 centrex
@@ -14936,6 +14935,7 @@ cytomegalovirus
 cytomere
 cytometer
 cytomicrosome
+chol
 cytomitome
 cytomorphology
 cytomorphological
