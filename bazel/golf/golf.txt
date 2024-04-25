@@ -9090,7 +9090,6 @@ goniale
 gryphite
 gryphon
 gryphons
-gigmanism
 grays
 gryphosaurus
 gashful
@@ -10648,6 +10647,7 @@ gurnet
 glossoscopia
 gurnets
 gauze
+gigmanism
 guests
 gurniad
 gurr
