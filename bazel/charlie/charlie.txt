@@ -3849,7 +3849,6 @@ carcinomas
 carcinomata
 carcinomatosis
 carcinomatous
-carcinomorphic
 carcinophagous
 carcinophobia
 carcinopolypus
@@ -21436,6 +21435,7 @@ concludently
 concluder
 concluders
 concludes
+carcinomorphic
 concludible
 concluding
 concludingly
