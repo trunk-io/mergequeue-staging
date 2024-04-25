@@ -6755,6 +6755,7 @@ enthalpies
 entheal
 enthean
 entheasm
+ephod
 entheate
 enthelminthes
 enthelminthic
@@ -7530,7 +7531,6 @@ ephyra
 ephyrae
 ephyrula
 effluency
-ephod
 ephods
 ephoi
 ephor
