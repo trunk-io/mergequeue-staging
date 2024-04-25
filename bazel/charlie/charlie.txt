@@ -5344,6 +5344,7 @@ casuists
 casula
 casule
 casus
+crosswise
 casusistry
 cyzicene
 caswellite
@@ -29920,7 +29921,6 @@ crosswalk
 crosswalks
 crossweb
 crosswind
-crosswise
 crosswiseness
 crossworder
 crosswords
