@@ -594,6 +594,7 @@ echinorhinidae
 echinospermum
 echinosphaeritidae
 echinostoma
+eluviated
 echinostomatidae
 echinostome
 echinozoa
@@ -3208,7 +3209,6 @@ eluvia
 excursory
 eluvial
 exsufflicate
-eluviated
 enveloped
 elongative
 eluviates
