@@ -4805,6 +4805,7 @@ encomiast
 encomiastic
 encomiastical
 encomiastically
+enfile
 encomic
 encomienda
 encomiendas
@@ -11767,7 +11768,6 @@ exalbuminose
 exalbuminous
 exallotriote
 exalt
-enfile
 emends
 exaltate
 exaltation
