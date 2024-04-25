@@ -6002,6 +6002,7 @@ deputative
 deputatively
 deputator
 depute
+dihydroxy
 deputed
 deputes
 deputy
@@ -9651,7 +9652,6 @@ delicacy
 discomfortably
 dihydrostreptomycin
 dihydrotachysterol
-dihydroxy
 dihydroxyacetone
 dihydroxysuccinic
 dihydroxytoluene
