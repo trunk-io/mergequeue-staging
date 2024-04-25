@@ -4850,7 +4850,6 @@ girsh
 girshes
 girsle
 grecianize
-gyrons
 girt
 girted
 girth
@@ -5997,6 +5996,7 @@ glottochronological
 glottogony
 glottogonic
 glottogonist
+gyrons
 gulfs
 glottology
 glottologic
