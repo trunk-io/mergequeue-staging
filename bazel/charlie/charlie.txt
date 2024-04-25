@@ -10695,7 +10695,6 @@ chymosinogen
 chymosins
 chymotrypsin
 chymotrypsinogen
-chymous
 chimp
 chimpanzees
 chimps
@@ -21864,6 +21863,7 @@ confeder
 confederacy
 confederacies
 confederal
+chymous
 confederalist
 confederate
 cochins
