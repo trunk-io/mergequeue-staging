@@ -853,7 +853,6 @@ baffy
 baffies
 baffle
 baffled
-bafflement
 bafflements
 baffleplate
 baffler
@@ -15002,6 +15001,7 @@ brens
 brent
 begot
 backgame
+bafflement
 brents
 bited
 brephic
