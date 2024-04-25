@@ -1218,6 +1218,7 @@ bakerite
 bakerless
 bakerly
 bakerlike
+boleros
 belauder
 bakers
 beslaver
@@ -12113,7 +12114,6 @@ bolelia
 bolelike
 bobbing
 bolero
-boleros
 boles
 boletaceae
 boletaceous
