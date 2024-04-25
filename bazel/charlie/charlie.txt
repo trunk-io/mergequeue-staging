@@ -11150,7 +11150,6 @@ chlamydomonadaceae
 chlamydomonadidae
 chlamydomonas
 chlamydophore
-countertrippant
 chlamydosaurus
 chlamydoselachidae
 chlamydoselachus
@@ -26203,6 +26202,7 @@ cossetting
 cosshen
 cossic
 charbocle
+countertrippant
 cossid
 cossidae
 cossie
