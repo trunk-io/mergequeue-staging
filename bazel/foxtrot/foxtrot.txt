@@ -5860,7 +5860,6 @@ floatmaker
 fenetre
 floatman
 floatsman
-floatsmen
 floatstone
 flob
 flobby
@@ -10243,6 +10242,7 @@ fritters
 friulian
 frivol
 frivoled
+floatsmen
 frivoler
 frivoling
 foolship

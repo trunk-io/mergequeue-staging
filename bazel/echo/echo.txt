@@ -3044,7 +3044,6 @@ ellipsis
 ellipsograph
 ellipsoid
 ellipsoidal
-ellipsometry
 ellipsone
 ellipsonic
 elliptic
@@ -4857,6 +4856,7 @@ eventless
 encradle
 encranial
 encraty
+ellipsometry
 encratic
 encratism
 encratite
