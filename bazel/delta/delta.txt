@@ -6236,7 +6236,6 @@ dermatomic
 dermatomyces
 dermatomycosis
 dermatomyoma
-dermatomuscular
 desophistication
 dermatoneural
 dermatoneurology
@@ -10620,6 +10619,7 @@ diplomacies
 diplomaed
 diplomaing
 diplomas
+dermatomuscular
 deviative
 diplomat
 diplomate
