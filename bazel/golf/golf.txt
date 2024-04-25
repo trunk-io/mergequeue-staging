@@ -115,6 +115,7 @@ genialize
 gadhelic
 gadi
 gadid
+glitches
 gadinic
 gadis
 gaditan
@@ -5639,7 +5640,6 @@ glistered
 glisteringly
 glisters
 glitch
-glitches
 glitterance
 glittered
 glittery
