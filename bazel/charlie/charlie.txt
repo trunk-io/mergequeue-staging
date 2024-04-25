@@ -2545,7 +2545,6 @@ cannach
 cannaled
 cannalling
 cannas
-cannat
 canned
 cannel
 cannelated
@@ -12501,6 +12500,7 @@ chromoleucite
 chromolipoid
 chromolysis
 chromolith
+cannat
 chromolithic
 concanavalin
 chromolithograph
