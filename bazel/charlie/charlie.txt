@@ -10730,7 +10730,6 @@ clambered
 chinatown
 chinaware
 chinband
-chinbone
 chinbones
 chincapin
 chinch
@@ -17080,6 +17079,7 @@ coadmits
 coadmitted
 coadmitting
 coadnate
+chinbone
 corneter
 coadore
 conspicuousness
