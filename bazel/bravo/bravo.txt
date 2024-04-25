@@ -625,7 +625,6 @@ bequirtle
 backwoodsmen
 backword
 backworm
-backwort
 backwrap
 backwraps
 baclin
@@ -11690,6 +11689,7 @@ blondest
 bobol
 bobotee
 bobowler
+backwort
 bobs
 bobsled
 bobsledded
