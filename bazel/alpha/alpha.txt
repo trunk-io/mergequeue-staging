@@ -4843,7 +4843,6 @@ aenigma
 aenigmatite
 aeolharmonica
 aeolia
-aeolian
 aeolic
 aeolicism
 aeolid
@@ -19122,6 +19121,7 @@ archplutocrat
 archpoet
 archpolitician
 archpontiff
+aeolian
 archpractice
 archprelate
 agammaglobulinemia
