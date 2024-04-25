@@ -1496,6 +1496,7 @@ downbend
 deactivation
 deactivations
 deactivator
+dibstones
 dignitarian
 discoid
 deadbeat
@@ -8814,7 +8815,6 @@ dibromobenzene
 dibs
 decani
 dibstone
-dibstones
 dibutyl
 dibutyrate
 dibutyrin
