@@ -2340,7 +2340,6 @@ dechlorinate
 dechlorinated
 dechlorinating
 dechlorination
-dechoralize
 dechristianization
 dechristianize
 dissociative
@@ -18600,6 +18599,7 @@ deairing
 duty
 dutiability
 dutied
+dechoralize
 dutiful
 dutifulness
 dutymonger
