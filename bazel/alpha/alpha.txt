@@ -9929,6 +9929,7 @@ amaze
 amazed
 amazedly
 amazedness
+artilleryship
 amazeful
 amazer
 amazers
@@ -20727,7 +20728,6 @@ artillery
 artilleries
 artilleryman
 artillerymen
-artilleryship
 agallochum
 artillerist
 artillerists
