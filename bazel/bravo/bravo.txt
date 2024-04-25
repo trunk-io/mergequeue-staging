@@ -3599,6 +3599,7 @@ bathyl
 bathylimnetic
 bathylite
 beltwise
+bouillon
 bathylith
 bathylithic
 bathylitic
@@ -13508,7 +13509,6 @@ boughten
 bougie
 bouillabaisse
 bouilli
-bouillon
 bouillone
 bouillons
 bouk
