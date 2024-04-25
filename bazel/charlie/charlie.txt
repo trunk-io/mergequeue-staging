@@ -10752,7 +10752,6 @@ chincloth
 cwm
 chincona
 chindee
-chindi
 chine
 chined
 chinee
@@ -16723,6 +16722,7 @@ clotweed
 clou
 cloudage
 cloudberry
+chindi
 cloudberries
 cloudbursts
 cloudcap
