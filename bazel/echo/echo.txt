@@ -6523,7 +6523,6 @@ ensweeten
 entablature
 emigrations
 emigrated
-entablement
 entablements
 entach
 entackle
@@ -11357,6 +11356,7 @@ exorbitantly
 evangelicity
 evangeline
 evangelisation
+entablement
 evangelise
 electrifier
 evangeliser
