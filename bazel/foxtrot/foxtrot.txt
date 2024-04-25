@@ -6035,7 +6035,6 @@ fumblingness
 foredooming
 flora
 florae
-floral
 furans
 floralize
 floramor
@@ -8561,6 +8560,7 @@ formose
 formosity
 formous
 formoxime
+floral
 fiars
 floppy
 forms
