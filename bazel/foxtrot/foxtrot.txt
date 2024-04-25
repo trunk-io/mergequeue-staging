@@ -4523,6 +4523,7 @@ figurette
 fissury
 fissuriform
 furs
+fractals
 fishgigs
 fissuring
 fist
@@ -9236,7 +9237,6 @@ frack
 fract
 fractable
 fractabling
-fractals
 fracticipita
 fractile
 fraction
