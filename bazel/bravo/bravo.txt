@@ -3866,7 +3866,6 @@ baul
 bauld
 baulea
 bauleah
-baulk
 baulked
 balsamy
 baulky
@@ -6583,6 +6582,7 @@ bepuzzle
 bepuzzlement
 bequalm
 bequeath
+baulk
 bequeathable
 bequeathal
 bequeathed
