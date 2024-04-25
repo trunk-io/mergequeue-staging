@@ -5397,7 +5397,6 @@ dentist
 dentistic
 dentistical
 dentistry
-dentistries
 daunter
 dentition
 deputized
@@ -13895,6 +13894,7 @@ distoclusion
 distoma
 distomatidae
 distomatosis
+dentistries
 daubreelite
 distomatous
 dystome
