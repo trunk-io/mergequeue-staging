@@ -2610,7 +2610,6 @@ electrosteel
 electrostenolysis
 electrostenolytic
 electrostriction
-elinvar
 electrosurgery
 electrosurgeries
 electrosurgical
@@ -4252,6 +4251,7 @@ emprise
 ennoblingly
 emprises
 emprison
+elinvar
 emprize
 emprizes
 emprosthotonic

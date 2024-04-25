@@ -15900,7 +15900,6 @@ bromous
 bromphenol
 bressomer
 brompicrin
-bromthymol
 bromuret
 bromus
 bromvoel
@@ -17996,6 +17995,7 @@ bushier
 bushiest
 bushily
 bushiness
+bromthymol
 bushland
 bushlands
 bushlet
