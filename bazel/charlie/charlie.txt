@@ -9840,7 +9840,6 @@ chicomecoatl
 chemins
 chemiotactic
 chemiotaxic
-chemiotaxis
 chemiotropic
 chemiotropism
 chemiphotic
@@ -18443,6 +18442,7 @@ cohibition
 cohibitive
 cohibitor
 calculative
+chemiotaxis
 cohitre
 coho
 cohob
