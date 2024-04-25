@@ -1369,7 +1369,6 @@ efficaciously
 efficaciousness
 efficience
 efficiency
-efficiently
 exhortation
 effie
 effierce
@@ -6623,6 +6622,7 @@ enterocoel
 enterocoela
 enterocoele
 enterpriseless
+efficiently
 enterocoelic
 enterocoelous
 enterocolitis
