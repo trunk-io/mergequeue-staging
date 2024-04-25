@@ -2782,6 +2782,7 @@ festival
 festivalgoer
 festivally
 flidder
+foredoomed
 festivals
 festively
 festiveness
@@ -7673,7 +7674,6 @@ foredo
 foredoes
 foredone
 foredoom
-foredoomed
 feeblish
 foredoomer
 finlet
