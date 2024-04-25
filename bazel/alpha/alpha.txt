@@ -12478,7 +12478,6 @@ andromonoecism
 andromorphous
 andron
 andronitis
-andropetalar
 andropetalous
 androphyll
 angeronalia
@@ -23357,6 +23356,7 @@ augmenters
 augmenting
 augmentor
 augments
+andropetalar
 alarbus
 augrim
 augur

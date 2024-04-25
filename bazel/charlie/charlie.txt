@@ -8719,7 +8719,6 @@ chantlate
 chantment
 cornflag
 chantor
-compassable
 chantress
 chantry
 chantries
@@ -29547,6 +29546,7 @@ criticizingly
 critickin
 critics
 criticship
+compassable
 criticsm
 criticule
 critique
