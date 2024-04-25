@@ -11510,7 +11510,6 @@ choker
 chokered
 chokerman
 chokers
-chokes
 chokestrap
 chokeweed
 chokidar
@@ -19956,6 +19955,7 @@ commandress
 commandry
 commandrie
 clunk
+chokes
 commandries
 commands
 commark
