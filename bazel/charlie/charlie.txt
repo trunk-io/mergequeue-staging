@@ -21766,7 +21766,6 @@ conduct
 conductance
 conducted
 conductible
-conductimeter
 conductimetric
 conducting
 conductio
@@ -31706,6 +31705,7 @@ custerite
 custode
 custodee
 custodes
+conductimeter
 cumidin
 custody
 custodia
