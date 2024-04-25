@@ -9489,6 +9489,7 @@ checkerbellies
 checkerberry
 checkerberries
 checkerboard
+climates
 calyciform
 checkerboarded
 checkerboarding
@@ -16133,7 +16134,6 @@ climata
 climatal
 climatarchic
 climate
-climates
 climath
 climatic
 climatical
