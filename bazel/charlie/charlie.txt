@@ -16676,7 +16676,6 @@ clothesless
 clothesline
 clothesman
 clothesmen
-clothesmonger
 clothespin
 clothespins
 clothespress
@@ -28122,6 +28121,7 @@ craniological
 craniologically
 choralcelo
 craniologist
+clothesmonger
 craniom
 craniomalacia
 cremains

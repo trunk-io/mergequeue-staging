@@ -6303,6 +6303,7 @@ gigantize
 gnawable
 genitives
 gnawed
+gufought
 gnawer
 gnawing
 gnawings
@@ -10104,7 +10105,6 @@ grafted
 guffer
 guffin
 guffs
-gufought
 gangliglia
 gugal
 guggle
