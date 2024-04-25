@@ -15717,6 +15717,7 @@ clavicembalist
 clavicembalo
 claviceps
 clavichord
+contacting
 clavichordists
 clavichords
 clavicylinder
@@ -23278,7 +23279,6 @@ contactant
 contacted
 contactile
 coverups
-contacting
 contaction
 contacts
 contactually

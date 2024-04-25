@@ -2462,7 +2462,6 @@ acidophil
 acidophile
 acidophilic
 acidophilous
-acidophilus
 acidoproteolytic
 acidoses
 afternoon
@@ -6965,6 +6964,7 @@ airlifts
 airlight
 airlike
 airline
+acidophilus
 airliner
 airliners
 airlines
