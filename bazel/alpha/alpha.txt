@@ -1090,7 +1090,6 @@ abstracted
 abstractedly
 abstracter
 abstracters
-abstractest
 abstracting
 abstraction
 afwillite
@@ -15592,6 +15591,7 @@ antimension
 antimensium
 amphiarthroses
 antimephitic
+abstractest
 antimere
 antimeres
 amninions
