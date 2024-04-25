@@ -3909,7 +3909,6 @@ cardiamorphia
 concertstck
 cardianesthesia
 cardianeuria
-cardiant
 cardiaplegia
 cardiarctia
 choyaroot
@@ -26094,6 +26093,7 @@ cosmogeny
 cosmogenic
 cosmognosis
 cosmogonal
+cardiant
 cosmogoner
 cosmogony
 cosmogonic
