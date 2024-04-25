@@ -4144,7 +4144,6 @@ fiorite
 fioriture
 fippence
 fipple
-fipples
 fiqh
 fique
 fathead
@@ -10353,6 +10352,7 @@ frogspawn
 frogtongue
 flattops
 frogwort
+fipples
 froideur
 froisse
 frokin
