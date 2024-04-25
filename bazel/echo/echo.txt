@@ -4633,6 +4633,7 @@ enchants
 encharge
 encharged
 encharging
+epirogenic
 encharnel
 enchased
 enchaser
@@ -10557,7 +10558,6 @@ etymologies
 etymologisable
 etymologise
 efoliolate
-epirogenic
 etymologised
 extraessentially
 etymologising
