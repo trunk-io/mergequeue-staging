@@ -600,7 +600,6 @@ abmodalities
 ashlers
 abn
 abnaki
-abnegate
 abnegated
 already
 abnegates
@@ -5581,6 +5580,7 @@ afresca
 afresh
 afret
 africa
+abnegate
 atalan
 african
 africana
