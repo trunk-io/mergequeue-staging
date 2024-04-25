@@ -849,7 +849,6 @@ baetyl
 baetylus
 baetulus
 baetzner
-bespeaker
 bafaro
 baff
 baffeta
@@ -15941,6 +15940,7 @@ bronchography
 bronchographic
 bronchohemorrhagia
 broncholemmitis
+bespeaker
 broncholith
 broncholithiasis
 berginization
