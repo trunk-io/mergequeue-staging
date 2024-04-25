@@ -3282,7 +3282,6 @@ gametophyll
 geotactic
 goons
 geotactically
-geotaxes
 geotaxy
 gulches
 gneissic
@@ -3872,6 +3871,7 @@ gibbals
 gibbar
 gibbartas
 gibbed
+geotaxes
 gibber
 gastromalacia
 gaggled
