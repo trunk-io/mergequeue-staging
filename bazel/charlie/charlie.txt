@@ -7739,7 +7739,6 @@ capsulogenous
 certification
 certifications
 certificative
-certificator
 certificatory
 certified
 certifier
@@ -21370,6 +21369,7 @@ conchotome
 conchs
 conchubar
 conchucu
+certificator
 conchuela
 conciator
 concyclic
