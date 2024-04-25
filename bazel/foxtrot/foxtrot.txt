@@ -36,7 +36,6 @@ fabrication
 fabricational
 fabrications
 fabricative
-fabricator
 fabricators
 fabricatress
 fabricature
@@ -4843,6 +4842,7 @@ flags
 flagship
 firepower
 flagstaffs
+fabricator
 flagstaves
 facioscapulohumeral
 ferrotyped
