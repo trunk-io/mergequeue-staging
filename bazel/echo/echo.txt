@@ -10606,7 +10606,6 @@ etrogim
 etruria
 etrurian
 etruscan
-etruscans
 etruscology
 etta
 ettarre
@@ -11084,6 +11083,7 @@ eupittone
 eupittonic
 extramural
 euplectella
+etruscans
 euplexoptera
 euploeinae
 euploid
