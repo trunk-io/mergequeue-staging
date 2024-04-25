@@ -804,7 +804,6 @@ danegeld
 danegelds
 disprovable
 danegelt
-danelaw
 dyakisdodecahedron
 dungeon
 danes
@@ -4158,6 +4157,7 @@ disharmonize
 delineament
 dissoluteness
 deblocked
+danelaw
 delineate
 delineated
 decarbonate
