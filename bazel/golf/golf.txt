@@ -1270,7 +1270,6 @@ gapingly
 garnets
 gapingstock
 gapless
-gaplessness
 gapo
 gaposis
 gaposises
@@ -5728,6 +5727,7 @@ globous
 globously
 globousness
 globs
+gaplessness
 globular
 gconvert
 globularia
