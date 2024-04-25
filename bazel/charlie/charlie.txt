@@ -23730,7 +23730,6 @@ contraposed
 contraposing
 contraposita
 contraposition
-contrapositive
 contrapositives
 contrapposto
 contrappostos
@@ -25103,6 +25102,7 @@ corequisite
 corer
 corers
 cores
+contrapositive
 coresidence
 coresidual
 coresign
