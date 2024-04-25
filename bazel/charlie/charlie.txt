@@ -2961,7 +2961,6 @@ capcase
 cape
 capeadores
 caped
-capel
 capelan
 capelans
 capelet
@@ -16825,6 +16824,7 @@ clubhauled
 clubhauling
 cassation
 clubhouse
+capel
 clubhouses
 companionship
 clubionid
