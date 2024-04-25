@@ -3396,7 +3396,6 @@ capture
 captured
 capturers
 captures
-clinoprism
 capturing
 capuan
 cadging
@@ -29981,6 +29980,7 @@ croucher
 crouches
 crouchie
 cahnite
+clinoprism
 crouchingly
 crouchmas
 crouke
