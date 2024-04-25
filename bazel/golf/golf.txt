@@ -1007,7 +1007,6 @@ gammon
 grouched
 gibberose
 gurkha
-groovy
 gammoned
 gammoner
 grundlov
@@ -1555,6 +1554,7 @@ gasan
 geometricians
 gasboat
 gascheck
+groovy
 gascoign
 gascoyne
 gasconade
