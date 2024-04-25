@@ -773,7 +773,6 @@ feudalizable
 fleck
 fanfare
 fanfares
-fellowlike
 flightiest
 fanfaronade
 fanfaronading
@@ -2472,6 +2471,7 @@ forespeed
 ferment
 fermentability
 furzechat
+fellowlike
 fermentable
 fermental
 fermentarian
