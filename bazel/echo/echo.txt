@@ -7860,7 +7860,6 @@ epigonichthys
 epigonism
 epigonium
 epigonos
-ekphorize
 epigonous
 epigonus
 epigram
@@ -8573,6 +8572,7 @@ equationist
 equations
 essentia
 equative
+ekphorize
 equator
 etherial
 equatoreal
