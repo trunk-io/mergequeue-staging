@@ -6784,7 +6784,6 @@ frankable
 foetalization
 foetation
 foeti
-foeticidal
 foetiparous
 foetor
 foetors
@@ -8640,6 +8639,7 @@ forold
 freezed
 forpass
 forpet
+foeticidal
 forpined
 forpining
 forprise
