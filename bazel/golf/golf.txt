@@ -88,6 +88,7 @@ gadarene
 gadaria
 gadbush
 gridirons
+gritstone
 gaddang
 geheimrat
 gadded
@@ -9188,7 +9189,6 @@ griths
 gritless
 grits
 glottologist
-gritstone
 gritted
 gritten
 gritter
