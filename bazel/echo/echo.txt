@@ -3032,6 +3032,7 @@ elleck
 ellen
 ellenyard
 ellerian
+equus
 ellfish
 ellice
 ellick
@@ -8816,7 +8817,6 @@ equoid
 equoidean
 equulei
 equuleus
-equus
 era
 erade
 eradiate
