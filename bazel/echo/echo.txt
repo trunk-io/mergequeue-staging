@@ -1128,7 +1128,6 @@ edison
 edit
 editable
 edital
-editchar
 edited
 edith
 editing
@@ -13179,6 +13178,7 @@ explete
 expletive
 expletively
 expletiveness
+editchar
 emulations
 expletives
 empasma
