@@ -77,7 +77,6 @@ facepiece
 faceplate
 fettler
 facer
-facers
 faces
 facesaving
 facet
@@ -6486,6 +6485,7 @@ fluorenes
 fluorenyl
 fluctuability
 fluoresage
+facers
 feuar
 fluoresced
 fluorescein
