@@ -4171,7 +4171,6 @@ bv
 beardom
 beards
 bearer
-bearers
 buoyage
 bronchomotor
 bearfoot
@@ -17604,6 +17603,7 @@ burga
 burgage
 burgality
 burgall
+bearers
 burgamot
 burganet
 burgau

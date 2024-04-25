@@ -8232,7 +8232,6 @@ diagonalwise
 dedans
 dicatalexis
 dermatography
-diagonic
 diagram
 diagramed
 dozenth
@@ -18309,6 +18308,7 @@ disadjust
 duodrama
 duograph
 duogravure
+diagonic
 duole
 duoliteral
 duolog
