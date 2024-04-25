@@ -5446,6 +5446,7 @@ electroballistic
 endshake
 endsheet
 endship
+edgier
 endue
 ergmeter
 exploration
@@ -9848,7 +9849,6 @@ essaylet
 essays
 essancia
 eunuchising
-edgier
 epicoelar
 essede
 essedones
