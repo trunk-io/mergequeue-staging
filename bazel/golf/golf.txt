@@ -114,7 +114,6 @@ gadgets
 genialize
 gadhelic
 gadi
-geek
 gadid
 gadinic
 gadis
@@ -9351,6 +9350,7 @@ galey
 groroilite
 grorudite
 geophysicists
+geek
 grosbeak
 grosbeaks
 groschen
