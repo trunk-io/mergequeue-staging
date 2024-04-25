@@ -3939,7 +3939,6 @@ edaphology
 emirate
 emirates
 emirs
-eels
 endosternite
 emirship
 equinovarus
@@ -3949,6 +3948,7 @@ emissaria
 emissaries
 emissaryship
 emissarium
+eels
 emissi
 eudialyte
 emission
