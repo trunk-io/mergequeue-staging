@@ -6363,7 +6363,6 @@ benzaldiphenyl
 benzaldoxime
 bandeaus
 benzalethylamine
-benzalhydrazine
 benzalphenylhydrazone
 benzalphthalide
 bahada
@@ -6829,6 +6828,7 @@ bromophenol
 berrichon
 berrier
 berries
+benzalhydrazine
 berrigan
 berrying
 berryless
