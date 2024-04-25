@@ -10607,7 +10607,6 @@ diplohedron
 diploic
 diploid
 diploidic
-diploidies
 diploidion
 disney
 doryman
@@ -11954,6 +11953,7 @@ disembroil
 disembroilment
 disemburden
 diseme
+diploidies
 disemic
 disemplane
 disemplaned
