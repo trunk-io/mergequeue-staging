@@ -3081,6 +3081,7 @@ capitan
 capitana
 capitare
 capitate
+casteisms
 capitated
 capitatim
 capitation
@@ -5226,7 +5227,6 @@ compilable
 caste
 casted
 casteism
-casteisms
 casteless
 castellan
 cutlases
