@@ -715,7 +715,6 @@ dams
 damsel
 damselfly
 damselflies
-damselhood
 dichondra
 dorosoma
 damsels
@@ -6636,6 +6635,7 @@ desiderable
 desiderant
 desiderate
 desiderated
+damselhood
 desideration
 desiderative
 desideratum
