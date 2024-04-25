@@ -6496,7 +6496,6 @@ epitomizer
 ensuable
 ensuance
 ensuant
-ensued
 ensues
 ensuing
 emarcid
@@ -11921,6 +11920,7 @@ excedent
 exceed
 exceedable
 endogamies
+ensued
 elutes
 exceeded
 engineered
