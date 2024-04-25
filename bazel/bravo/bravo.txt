@@ -3600,7 +3600,6 @@ bouillon
 bathylith
 bathylithic
 bathylitic
-bathymeter
 bathymetry
 bathymetric
 bathymetrical
@@ -7005,6 +7004,7 @@ besides
 besiege
 besieged
 bardash
+bathymeter
 besiegement
 biorhythmicities
 besieges
