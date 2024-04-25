@@ -3314,6 +3314,7 @@ embale
 emballonurid
 emballonuridae
 embalm
+exposition
 embalmed
 embalmer
 embalmment
@@ -13300,7 +13301,6 @@ exposing
 exposit
 exposited
 expositing
-exposition
 expositional
 expositions
 expositive
