@@ -6567,7 +6567,6 @@ ceilings
 ceilingward
 chlorapatite
 certosa
-ceilingwards
 ceylon
 ceylonese
 ceylonite
@@ -20768,6 +20767,7 @@ complied
 complier
 compliers
 commodatum
+ceilingwards
 complies
 complying
 compliment
