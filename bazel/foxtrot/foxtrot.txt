@@ -4994,7 +4994,6 @@ flankard
 flanked
 flanker
 flankers
-fireshaft
 flanking
 flankwise
 flannelboard
@@ -6666,6 +6665,7 @@ fluvioglacial
 fluviolacustrine
 fluviomarine
 fluvioterrestrial
+fireshaft
 fluvious
 fluviovolcanic
 flux
