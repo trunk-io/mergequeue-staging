@@ -3944,6 +3944,7 @@ finchery
 finches
 find
 findal
+forsteal
 finders
 findfault
 findhorn
@@ -8697,7 +8698,6 @@ fellatory
 fillebeg
 forstall
 forstand
-forsteal
 feiseanna
 forsterite
 forsung
