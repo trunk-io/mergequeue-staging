@@ -3172,7 +3172,6 @@ fibronucleated
 fibropapilloma
 fibropericarditis
 fibroplasia
-fibroplastic
 fibropsammoma
 fibropurulent
 fibrosarcoma
@@ -9610,6 +9609,7 @@ frecked
 frecken
 freckened
 frecket
+fibroplastic
 fenagle
 forcaria
 flichter
