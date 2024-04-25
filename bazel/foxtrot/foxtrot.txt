@@ -7836,7 +7836,6 @@ forelands
 foreleader
 foreleg
 forelegs
-forelimbs
 forelock
 forelocks
 florilege
@@ -9166,6 +9165,7 @@ fowlpoxes
 fallaciousness
 fowls
 fox
+forelimbs
 foxbane
 foxberry
 foxberries
