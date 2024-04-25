@@ -14263,7 +14263,6 @@ circumcenter
 circumcentral
 circumcinct
 circumcincture
-circumcircle
 circumcise
 circumcised
 circumciser
@@ -31701,6 +31700,7 @@ cusswords
 cust
 capreomycin
 custard
+circumcircle
 custerite
 custode
 custodee
