@@ -2320,7 +2320,6 @@ electrochronograph
 electrochronometer
 enterochromaffin
 electrochronometric
-eyebolt
 electrocystoscope
 erythrophore
 electrocoating
@@ -4718,6 +4717,7 @@ encinctured
 encincturing
 encinillo
 extroverted
+eyebolt
 exomphalos
 ethnobotanical
 encipher

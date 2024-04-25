@@ -2903,7 +2903,6 @@ barquette
 bridebowl
 barr
 besprinkling
-bedcap
 barra
 barrabkie
 barrable
@@ -13791,6 +13790,7 @@ bowingly
 bowings
 bowk
 bowkail
+bedcap
 bowker
 bowknot
 bowknots
