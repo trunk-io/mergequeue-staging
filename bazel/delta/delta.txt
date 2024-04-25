@@ -4439,7 +4439,6 @@ dematerialization
 dematerialize
 dematerialized
 dematerializing
-dematiaceae
 dematiaceous
 duplexity
 deme
@@ -4924,6 +4923,7 @@ demonstrative
 downwash
 demonstratively
 demonstrator
+dematiaceae
 demonstratory
 demonstrators
 demonstratorship
