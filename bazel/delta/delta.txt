@@ -2983,7 +2983,6 @@ deed
 disliken
 deedbox
 deeded
-deedeed
 descamisados
 deedful
 deedfully
@@ -16619,6 +16618,7 @@ dragonkind
 dragonnade
 dragonroot
 dragons
+deedeed
 dragontail
 dictyoxylon
 dragonwort
