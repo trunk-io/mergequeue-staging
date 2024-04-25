@@ -2690,6 +2690,7 @@ glances
 gallingness
 gilt
 goto
+gilbertian
 gelatinized
 generate
 generated
@@ -4108,7 +4109,6 @@ gearksutite
 gilbert
 gilbertage
 gilbertese
-gilbertian
 gilbertianism
 gilbertine
 gilberts
