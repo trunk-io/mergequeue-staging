@@ -7050,6 +7050,7 @@ destroying
 destroys
 domesticable
 destruct
+drawls
 destructibility
 destructible
 destructibleness
@@ -16824,7 +16825,6 @@ drawling
 drawlingly
 drawlingness
 dynamotor
-drawls
 drawn
 drawnet
 drawnly
