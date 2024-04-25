@@ -11141,7 +11141,6 @@ disassent
 disassiduity
 disassimilate
 disassimilated
-disassimilation
 disproofs
 disassimilative
 disoccupied
@@ -17188,6 +17187,7 @@ drivage
 drive
 driveable
 driveaway
+disassimilation
 dumbfounding
 drivebolt
 drivecap
