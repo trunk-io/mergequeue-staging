@@ -5310,7 +5310,6 @@ glaziers
 glaziest
 gnathostomous
 glazing
-glb
 glead
 guzzler
 gleamed
@@ -10556,6 +10555,7 @@ guns
 gunsels
 gilly
 gunship
+glb
 gunships
 gunshop
 gunshot
