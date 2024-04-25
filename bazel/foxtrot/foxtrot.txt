@@ -7655,6 +7655,7 @@ foredefine
 foredenounce
 foredescribe
 foredesign
+freck
 foredesignment
 foredesk
 foredestine
@@ -9605,7 +9606,6 @@ freaks
 fream
 freath
 forfear
-freck
 frecked
 frecken
 freckened
