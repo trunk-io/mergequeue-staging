@@ -5673,6 +5673,7 @@ globality
 globalization
 globalized
 guarache
+glim
 globalizing
 globally
 goldenrods
@@ -9456,7 +9457,6 @@ groundplot
 grounds
 gros
 glossematic
-glim
 groundsel
 groundsheet
 groundsill
