@@ -2887,6 +2887,7 @@ canun
 canvas
 canvasado
 canvasback
+contradictional
 canvasbacks
 canvased
 canvaser
@@ -23653,7 +23654,6 @@ contradictedness
 contradicter
 contradicting
 contradiction
-contradictional
 contradictions
 contradictious
 contradictiously
