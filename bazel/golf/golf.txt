@@ -6381,6 +6381,7 @@ goalkeeper
 goalkeeping
 goalless
 gillyflower
+guitarists
 greeting
 goalpost
 goals
@@ -10259,7 +10260,6 @@ guitarfish
 guitarfishes
 guitarist
 ganching
-guitarists
 ghazies
 guitarlike
 guitars
