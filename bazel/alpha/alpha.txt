@@ -2044,7 +2044,6 @@ acecaffine
 acetated
 acetates
 acetation
-acetazolamide
 acetbromamide
 acetenyl
 acethydrazide
@@ -14645,6 +14644,7 @@ antimagistratical
 anthropomorphisation
 anthropomorphise
 anthropomorphising
+acetazolamide
 anthropomorphism
 arugolas
 anthropomorphisms
