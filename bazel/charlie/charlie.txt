@@ -17964,7 +17964,6 @@ coelongated
 coeloplanula
 coeloscope
 coelosperm
-coelospermous
 coelostat
 coelozoic
 coeltera
@@ -25664,6 +25663,7 @@ correctioner
 corrections
 correctitude
 corrective
+coelospermous
 correctively
 correctives
 countermand
