@@ -4112,7 +4112,6 @@ gildedness
 gilden
 gilder
 geckotoid
-gildhalls
 gilding
 gilds
 gildship
@@ -10370,6 +10369,7 @@ gulpy
 gulping
 gulpingly
 gulravage
+gildhalls
 gulsach
 gult
 gum

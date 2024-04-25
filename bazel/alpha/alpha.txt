@@ -2093,7 +2093,6 @@ acetyliodide
 acetylizable
 acetylization
 acetylize
-acetylized
 acetylizer
 acetylizing
 acetylmethylcarbinol
@@ -4436,6 +4435,7 @@ adscititious
 adscript
 adscripted
 adscription
+acetylized
 adscriptitious
 adscriptitius
 adscripts
