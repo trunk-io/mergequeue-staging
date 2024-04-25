@@ -9450,7 +9450,6 @@ groundlings
 gelled
 groundneedle
 grainers
-groundnut
 gentleship
 groundout
 groundplot
@@ -10702,6 +10701,7 @@ gustables
 gustard
 gustative
 guergal
+groundnut
 griphus
 gustatory
 gustatorially
