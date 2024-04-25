@@ -12076,7 +12076,6 @@ bolbonac
 bolboxalis
 bold
 boldacious
-bolded
 bolden
 bravest
 bolder
@@ -16402,6 +16401,7 @@ brutalisation
 brutalise
 brutalised
 besant
+bolded
 brutalising
 brontometer
 brutalism
