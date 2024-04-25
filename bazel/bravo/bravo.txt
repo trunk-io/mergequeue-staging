@@ -6505,6 +6505,7 @@ benzothiodiazole
 benzothiofuran
 benzothiophene
 balances
+bukidnon
 benzothiopyran
 beglads
 benzotoluide
@@ -16393,7 +16394,6 @@ brusquer
 brusquerie
 brusquest
 brussel
-bukidnon
 brustle
 brustled
 brusure
