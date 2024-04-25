@@ -6454,6 +6454,7 @@ benzoylation
 benzoylformic
 benzoylglycine
 bilge
+bhakta
 byssuses
 benzoyls
 benzoin
@@ -17677,7 +17678,6 @@ burgonets
 burgoo
 burgoos
 bedroom
-bhakta
 burgout
 burgouts
 burgraves
