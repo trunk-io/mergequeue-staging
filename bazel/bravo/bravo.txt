@@ -3542,7 +3542,6 @@ batekes
 batel
 blamably
 bateleur
-batell
 bateman
 bouchal
 babelic
@@ -12116,6 +12115,7 @@ bolero
 boleros
 boles
 boletaceae
+batell
 boletaceous
 babble
 bolete
