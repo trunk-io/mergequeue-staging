@@ -1761,7 +1761,6 @@ debarrance
 debarration
 debarred
 debars
-debase
 debased
 debasedness
 debaser
@@ -13127,6 +13126,7 @@ displeasance
 displeasant
 displeased
 displeasedly
+debase
 displeaser
 displeases
 dadouchos
