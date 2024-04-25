@@ -6968,7 +6968,6 @@ centaurid
 centauridium
 centauries
 centaurium
-constructure
 centauromachy
 centauromachia
 centaurs
@@ -25973,6 +25972,7 @@ corvo
 corvoid
 corvorant
 corvus
+constructure
 cos
 cosaque
 cosavior
