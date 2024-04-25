@@ -553,6 +553,7 @@ gnomonics
 galleyman
 gallein
 galipoidin
+grandstands
 galleins
 galleys
 gundogs
@@ -7983,7 +7984,6 @@ grandstand
 grandstander
 gelatinously
 grandstanding
-grandstands
 grandtotal
 granduncle
 granduncles
