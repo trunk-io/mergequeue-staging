@@ -5828,7 +5828,6 @@ cathartides
 cathartin
 cathartolinum
 cathead
-catheads
 cathect
 cathected
 cathectic
@@ -20227,6 +20226,7 @@ commonest
 commoning
 commonition
 commonize
+catheads
 commonly
 commonness
 commonplace
