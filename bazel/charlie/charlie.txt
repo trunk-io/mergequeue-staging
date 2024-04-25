@@ -1159,7 +1159,6 @@ calefactory
 calefy
 calelectric
 calelectrical
-calelectricity
 calembour
 calemes
 calendal
@@ -26804,6 +26803,7 @@ countered
 counterefficiency
 countereffort
 counterembattled
+calelectricity
 counterembowed
 counterend
 counterenergy
