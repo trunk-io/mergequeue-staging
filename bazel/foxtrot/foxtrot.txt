@@ -863,7 +863,6 @@ fellness
 fusobteria
 fantasize
 fantasized
-fantasizes
 fantasizing
 fantasm
 fantasmagorically
@@ -5941,6 +5940,7 @@ fonly
 flon
 flong
 flood
+fantasizes
 floodable
 floodage
 favorless
