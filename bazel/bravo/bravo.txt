@@ -1876,7 +1876,6 @@ bancal
 borocalcite
 bancales
 bancha
-banchi
 banco
 bancos
 bancus
@@ -11074,6 +11073,7 @@ bloodcurdlingly
 blooddrop
 blooddrops
 blooded
+banchi
 bidet
 bloodfin
 bloodflower
