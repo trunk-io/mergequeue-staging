@@ -13141,7 +13141,6 @@ ciboules
 cyc
 cicad
 cycad
-cicada
 cycadaceae
 cicadae
 cicadas
@@ -18443,6 +18442,7 @@ cohoba
 cohobated
 cohobating
 cohobation
+cicada
 cohobator
 cohogs
 cohol
