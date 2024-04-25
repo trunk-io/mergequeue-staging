@@ -5843,6 +5843,7 @@ bellyman
 brunched
 belling
 berger
+blastomyces
 bellypiece
 bellypinch
 bellipotent
@@ -10479,7 +10480,6 @@ blastomas
 blastomata
 blastomere
 blastomeric
-blastomyces
 blastomycete
 blastomycetes
 beheader

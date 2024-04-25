@@ -2672,7 +2672,6 @@ electrotonize
 electrotrephine
 electrotropism
 egoize
-electrovalence
 electrovalency
 equiponderancy
 electrovalent
@@ -3725,6 +3724,7 @@ embroche
 embroglio
 embroglios
 ectypal
+electrovalence
 embroidered
 embroiderer
 encoignures
