@@ -11211,6 +11211,7 @@ beglobed
 bracer
 blouse
 bloused
+breva
 blouselike
 blouses
 blousy
@@ -15026,7 +15027,6 @@ bretwalda
 bretwaldadom
 bretwaldaship
 brev
-breva
 breve
 breves
 brevet
