@@ -7860,7 +7860,6 @@ epigonus
 epigram
 electrion
 epigrammatarian
-epigrammatic
 epigrammatical
 endangiitis
 epigrammatically
@@ -13236,6 +13235,7 @@ exploratory
 epistolized
 explore
 explored
+epigrammatic
 explorement
 explores
 exploringly
