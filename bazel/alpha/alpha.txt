@@ -5777,7 +5777,6 @@ aftervision
 afterwale
 afterwar
 afterward
-afterwards
 afterwhile
 afterwisdom
 afterwise
@@ -11360,6 +11359,7 @@ amplificate
 amplification
 amplifications
 amplificative
+afterwards
 amplificator
 amplificatory
 amplified
