@@ -934,6 +934,7 @@ gilver
 grocerwise
 gamestress
 gametal
+gobby
 gametange
 gametangia
 gametangium
@@ -6437,7 +6438,6 @@ glycemic
 gobbed
 gobber
 gobbet
-gobby
 gobbing
 gobble
 gobbled
