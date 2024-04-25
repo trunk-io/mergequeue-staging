@@ -3513,7 +3513,6 @@ figpecker
 figs
 frangi
 figshell
-follow
 fury
 figulate
 figulated
@@ -9215,6 +9214,7 @@ fps
 fpsps
 fr
 fra
+follow
 fameuse
 frab
 frabbit
