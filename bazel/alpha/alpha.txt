@@ -3578,7 +3578,6 @@ addnl
 addoom
 addorsed
 addossed
-addr
 address
 addressability
 acronychous
@@ -12390,6 +12389,7 @@ androcephalous
 androcephalum
 audits
 androcyte
+addr
 androclclinia
 anisotropic
 androcles
