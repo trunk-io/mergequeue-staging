@@ -8125,7 +8125,6 @@ chayma
 confirmatory
 chain
 chainage
-chainbearer
 chainbreak
 conceptions
 chaine
@@ -27709,6 +27708,7 @@ cowshut
 cowskin
 cowskins
 cowslip
+chainbearer
 cowslipped
 conservacy
 cowslips
