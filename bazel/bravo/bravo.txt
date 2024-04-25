@@ -3832,7 +3832,6 @@ backcloth
 batukite
 batule
 batuque
-batussi
 batwa
 batwing
 batwoman
@@ -13120,6 +13119,7 @@ borrichia
 borromean
 borrow
 borrowable
+batussi
 borrower
 borrowers
 borrows
