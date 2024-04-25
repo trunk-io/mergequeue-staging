@@ -4768,7 +4768,6 @@ bedlams
 bursula
 bedlids
 bedlight
-bedmaker
 bewrought
 bedmakers
 bedmaking
@@ -12851,6 +12850,7 @@ baited
 bootikin
 bootikins
 blowsiest
+bedmaker
 bootyless
 booting
 bootlaces
