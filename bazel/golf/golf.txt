@@ -1573,6 +1573,7 @@ gasfiring
 gash
 giraffe
 gashed
+gulo
 gypsyweed
 grasses
 gasher
@@ -10355,7 +10356,6 @@ gulliver
 gulllike
 gulls
 gulmohar
-gulo
 gulonic
 glaringness
 gulosity
