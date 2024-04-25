@@ -5655,6 +5655,7 @@ ghostdom
 gloated
 gloater
 gloaters
+grieve
 gloating
 gloatingly
 gloats
@@ -8917,7 +8918,6 @@ grievance
 grievances
 grievant
 grievants
-grieve
 grieved
 grievedly
 griever
