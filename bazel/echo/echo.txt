@@ -44,7 +44,6 @@ eardrum
 eardrums
 eared
 earflap
-earflaps
 equiprobabilism
 equidiurnal
 epimerum
@@ -10834,6 +10833,7 @@ euhemerize
 eelbob
 euhemerized
 euhemerizing
+earflaps
 euhyostyly
 euhyostylic
 elides
