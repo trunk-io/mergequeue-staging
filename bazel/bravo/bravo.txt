@@ -2370,6 +2370,7 @@ barbatimao
 barbe
 barbeau
 backstair
+bogbean
 barbecue
 barbecued
 bellyfull
@@ -11871,7 +11872,6 @@ bogan
 bogans
 bogard
 bogart
-bogbean
 bogbeans
 bogberry
 bogberries
