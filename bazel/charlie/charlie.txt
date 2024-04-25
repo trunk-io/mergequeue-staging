@@ -3848,7 +3848,6 @@ carcinologist
 carcinoma
 carcinomas
 carcinomata
-carcinomatoid
 carcinomatosis
 carcinomatous
 carcinomorphic
@@ -16302,6 +16301,7 @@ clip
 clipboard
 clipboards
 clype
+carcinomatoid
 clypeal
 clypeaster
 clypeastridea
