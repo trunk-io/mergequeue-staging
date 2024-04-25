@@ -26675,7 +26675,6 @@ catagories
 counteraffirm
 counteraffirmation
 counteragency
-counteragent
 counteragitate
 counteragitation
 counteralliance
@@ -26735,6 +26734,7 @@ counterbuilding
 countercampaign
 countercathexis
 countercause
+counteragent
 counterchange
 counterchanged
 counterchanging
