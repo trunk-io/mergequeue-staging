@@ -6428,6 +6428,7 @@ estop
 enskies
 enskying
 enslave
+exterioration
 enslaved
 emulate
 enslavedness
@@ -13598,7 +13599,6 @@ extenuatory
 exter
 exterior
 escrows
-exterioration
 exteriorise
 epicyesis
 exteriorising
