@@ -22829,7 +22829,6 @@ consequents
 consertal
 consertion
 conservable
-conservacy
 conservancy
 conservancies
 conservant
@@ -27712,6 +27711,7 @@ cowskin
 cowskins
 cowslip
 cowslipped
+conservacy
 cowslips
 consentant
 cowson

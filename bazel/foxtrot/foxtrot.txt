@@ -5047,6 +5047,7 @@ flarer
 flares
 forsakers
 flarfish
+foldage
 flarfishes
 flary
 flaring
@@ -6897,7 +6898,6 @@ founding
 fold
 fevers
 feedsman
-foldage
 foresettle
 foldaway
 foldboat
