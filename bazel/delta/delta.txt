@@ -196,7 +196,6 @@ daedalic
 daedalidae
 daedalist
 daedaloid
-daemonic
 dozen
 daedalous
 daedalus
@@ -16663,6 +16662,7 @@ draining
 deutonymph
 drainpipes
 drains
+daemonic
 drainspout
 denominator
 draggingly
