@@ -7891,7 +7891,6 @@ coronize
 cestoidean
 cestoids
 ceston
-cestos
 cestracion
 cestraciont
 charas
@@ -12710,6 +12709,7 @@ chucklehead
 chuckleheaded
 chuckleheadedness
 chuckler
+cestos
 chucklers
 chuckles
 chucklesome
