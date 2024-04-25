@@ -7416,7 +7416,6 @@ agrostographic
 albatros
 albatross
 amiable
-africander
 axlike
 albe
 albedo
@@ -12103,6 +12102,7 @@ anatolic
 anatomy
 acapulco
 aphaniptera
+africander
 anatomic
 anatomical
 aetat
