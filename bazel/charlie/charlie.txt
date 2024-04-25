@@ -12572,7 +12572,6 @@ chromule
 crocketing
 chron
 chronal
-chronanagram
 chronaxy
 chronaxia
 chronaxie
@@ -25456,6 +25455,7 @@ corojo
 corol
 classicize
 condemns
+chronanagram
 corolitic
 corybantine
 coroll
