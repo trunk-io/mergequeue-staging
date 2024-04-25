@@ -3666,6 +3666,7 @@ geums
 gewgaw
 gewgawed
 gewgawy
+giro
 gewgawish
 gewgawry
 gewgaws
@@ -4760,7 +4761,6 @@ girnie
 girning
 gathering
 girns
-giro
 gyro
 gyrocar
 gelid
