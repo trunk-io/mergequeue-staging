@@ -6569,6 +6569,7 @@ ceilingward
 chlorapatite
 certosa
 ceylon
+cassiopeid
 ceylonese
 ceylonite
 coosify
@@ -7610,7 +7611,6 @@ ceremonial
 ceremonialism
 ceremonialist
 ceremonialists
-cassiopeid
 ceremonialize
 ceremonially
 ceremonialness

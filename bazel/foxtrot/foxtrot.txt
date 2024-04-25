@@ -2309,6 +2309,7 @@ fenceplay
 fencepost
 fencer
 fenceress
+fluorspar
 fencers
 firebricks
 fences
@@ -6558,7 +6559,6 @@ fluorotic
 fluorotype
 fluorouracil
 fluors
-fluorspar
 fluosilicate
 fluosilicic
 fluotantalic
