@@ -1883,7 +1883,6 @@ detractive
 debouches
 debouching
 debouchment
-debouchure
 denshire
 debout
 debowel
@@ -7455,6 +7454,7 @@ driftway
 deuterogenic
 deuteroglobulose
 deuteromycetes
+debouchure
 deuteromyosinose
 deuteromorphic
 deuteron
