@@ -6995,6 +6995,7 @@ airplot
 airport
 airports
 airpost
+amyxorrhoea
 airposts
 airproof
 airproofed
@@ -10718,7 +10719,6 @@ amitroles
 amitular
 amixia
 amyxorrhea
-amyxorrhoea
 amlacra
 amlet
 amli
