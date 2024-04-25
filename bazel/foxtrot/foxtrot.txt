@@ -6017,6 +6017,7 @@ flop
 floperoo
 flophouses
 foreknow
+fluidizer
 flopover
 flopovers
 furnacelike
@@ -6375,7 +6376,6 @@ fluidization
 fluidize
 fluidized
 followup
-fluidizer
 flotations
 fluidizes
 fluidly
