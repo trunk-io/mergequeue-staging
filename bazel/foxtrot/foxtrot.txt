@@ -5482,7 +5482,6 @@ fastigiate
 frase
 firstship
 friandise
-fleshy
 fleshier
 finch
 fleshiest
@@ -8248,6 +8247,7 @@ flounders
 forfending
 forfends
 forfex
+fleshy
 forficate
 forficated
 falconnoid

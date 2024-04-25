@@ -11433,7 +11433,6 @@ chocolatey
 chocolates
 chocolaty
 chocolatier
-characterise
 chocolatiere
 communality
 calcomp
@@ -30584,6 +30583,7 @@ cucumaria
 cucumber
 cyathoid
 cowhides
+characterise
 cucumiform
 cyanic
 cucumis
