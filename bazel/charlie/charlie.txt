@@ -8418,7 +8418,6 @@ chambertin
 chambioa
 chambray
 colloquist
-chambrays
 chambranle
 chambre
 chambrel
@@ -20627,6 +20626,7 @@ cryptococci
 compilement
 compilers
 compiles
+chambrays
 compiling
 comping
 calf
