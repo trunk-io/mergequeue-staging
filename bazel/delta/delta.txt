@@ -3770,7 +3770,6 @@ dehnstufe
 dehonestation
 dehorn
 dehorned
-dehorner
 dehorners
 dehorning
 dehorns
@@ -8848,6 +8847,7 @@ dicatalectic
 diccon
 dice
 dyce
+dehorner
 decolor
 diceboard
 dicebox

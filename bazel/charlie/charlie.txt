@@ -11646,7 +11646,6 @@ chollers
 cholo
 cholochrome
 chockler
-choloepus
 chologenetic
 choloid
 choloidinic
@@ -23949,6 +23948,7 @@ convalescent
 convalescently
 convalescents
 convalescing
+choloepus
 cottier
 convallamarin
 cicindela
