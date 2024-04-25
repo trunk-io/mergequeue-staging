@@ -5838,6 +5838,7 @@ agama
 agamas
 agamemnon
 agamete
+aspermatic
 agametes
 agami
 agamy
@@ -21413,7 +21414,6 @@ asperity
 asperities
 asperly
 amphiprostyle
-aspermatic
 aspermatism
 aspermatous
 aspermia
