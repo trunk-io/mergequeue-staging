@@ -3940,7 +3940,6 @@ bigeminal
 bawn
 bawneen
 bawra
-bawsint
 bawsunt
 bawtie
 bawties
@@ -11902,6 +11901,7 @@ bogydom
 bogie
 bogies
 bogyism
+bawsint
 bogijiab
 bogyland
 bogyman
