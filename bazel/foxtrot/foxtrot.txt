@@ -2188,7 +2188,6 @@ feloniousness
 fumatories
 felonous
 felonry
-felonsetter
 felonweed
 felonwort
 fels
@@ -7613,6 +7612,7 @@ forechoose
 foreclaw
 foreclosable
 foreclose
+felonsetter
 foreclosed
 foreclosing
 foreclosure
