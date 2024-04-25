@@ -3872,7 +3872,6 @@ gibbals
 gibbar
 gibbartas
 gibbed
-gibber
 gastromalacia
 gaggled
 gibbered
@@ -10738,6 +10737,7 @@ guts
 gutser
 gutsy
 gutsier
+gibber
 gossampine
 gutsiest
 galoot
