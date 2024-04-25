@@ -1408,7 +1408,6 @@ garlandlike
 garlandry
 garlands
 gynocardic
-garle
 garlic
 garlicky
 garliclike
@@ -9611,6 +9610,7 @@ grubroot
 grubs
 grubstake
 grubstaked
+garle
 grubstaker
 grubstakes
 grubstaking
