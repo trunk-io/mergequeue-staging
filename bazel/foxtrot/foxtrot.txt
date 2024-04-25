@@ -445,6 +445,7 @@ fens
 fakeer
 fakeers
 feeder
+footstool
 fakement
 faker
 formicariidae
@@ -7313,7 +7314,6 @@ footstick
 flashbulbs
 footstock
 footstone
-footstool
 footstools
 footway
 frontal
