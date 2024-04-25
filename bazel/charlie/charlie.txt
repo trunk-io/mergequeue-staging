@@ -8848,7 +8848,6 @@ chaptalizing
 chapter
 chapteral
 chaptered
-chapterhouse
 chaptering
 chapters
 chaptrel
@@ -30381,6 +30380,7 @@ ctenizid
 ctenocephalus
 copelate
 ctenodactyl
+chapterhouse
 ctenodipterini
 crochets
 ctenodont
