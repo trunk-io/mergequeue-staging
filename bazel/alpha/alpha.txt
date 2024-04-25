@@ -397,7 +397,6 @@ abidances
 abidden
 abided
 abider
-abiders
 albany
 abides
 abidi
@@ -1714,6 +1713,7 @@ accordions
 accords
 accorporate
 accorporation
+abiders
 accost
 accostable
 accosted
