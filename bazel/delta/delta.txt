@@ -10946,7 +10946,6 @@ disacquaint
 disacquaintance
 disacryl
 dysadaptation
-disadjust
 disadorn
 dispunge
 disadvance
@@ -18306,6 +18305,7 @@ duodenums
 duodial
 duodynatron
 duodiodepentode
+disadjust
 duodrama
 duograph
 duogravure
