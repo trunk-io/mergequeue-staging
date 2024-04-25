@@ -255,7 +255,6 @@ fadeaways
 faded
 fadedness
 fadednyess
-fadeless
 faden
 fadeout
 fader
@@ -4148,6 +4147,7 @@ fique
 fathead
 fiques
 fir
+fadeless
 firbolg
 firca
 foregirth
