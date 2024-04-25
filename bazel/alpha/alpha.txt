@@ -4347,7 +4347,6 @@ amusively
 antagonisation
 adornments
 adorno
-adornos
 adorns
 adorsed
 approbator
@@ -11052,6 +11051,7 @@ assn
 amperages
 ampere
 amperemeter
+adornos
 amperes
 ampery
 amperian
