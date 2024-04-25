@@ -2374,7 +2374,6 @@ deciduous
 deciduously
 deciduousness
 decigram
-decyl
 decile
 decylene
 decylenic
@@ -17722,6 +17721,7 @@ dubitatively
 dublin
 duboisia
 denumberment
+decyl
 desmidiaceae
 duboisine
 dubonnet

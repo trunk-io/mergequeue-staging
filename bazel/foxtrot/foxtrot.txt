@@ -1090,6 +1090,7 @@ farnesols
 farness
 farnesses
 faro
+flaccidly
 faroelite
 foremast
 faroese
@@ -11485,7 +11486,6 @@ furring
 furrings
 feudist
 furrow
-flaccidly
 furrowed
 furrower
 furrowers
