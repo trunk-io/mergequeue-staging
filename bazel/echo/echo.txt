@@ -870,7 +870,6 @@ ectodermosis
 ectoentad
 ectoenzym
 ectoenzyme
-ectoethmoid
 ectogeneous
 eddic
 ectogenesis
@@ -10916,6 +10915,7 @@ eumoiriety
 eumoirous
 eumolpides
 eumolpique
+ectoethmoid
 eumolpus
 executors
 eumorphic
