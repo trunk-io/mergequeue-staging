@@ -2849,7 +2849,6 @@ baronetize
 baronetized
 baronetizing
 baronets
-baronetship
 barong
 baronga
 barongs
@@ -9819,6 +9818,7 @@ bisubstitution
 bisulc
 bisulcate
 bisulfate
+baronetship
 bisulfid
 bisulfide
 bisulphate
