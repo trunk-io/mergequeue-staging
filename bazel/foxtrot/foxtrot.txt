@@ -9216,7 +9216,6 @@ femorocele
 fp
 fplot
 fpm
-fps
 fpsps
 fr
 fra
@@ -10559,6 +10558,7 @@ frousty
 frouzy
 frouziest
 frow
+fps
 froward
 frowardly
 formulise
