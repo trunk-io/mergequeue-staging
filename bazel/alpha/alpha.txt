@@ -15263,7 +15263,6 @@ antiextreme
 antiface
 antifaction
 antifame
-antifanatic
 antifascism
 antifascists
 antifat
@@ -18525,6 +18524,7 @@ arbinose
 arbitrage
 arbitrager
 arbitragers
+antifanatic
 arbitrages
 aguamas
 arbitragist
