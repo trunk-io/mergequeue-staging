@@ -6535,7 +6535,6 @@ desecrator
 desectionalize
 deseed
 desegmentation
-desegmented
 disordination
 desegregate
 dephlegmated
@@ -10676,6 +10675,7 @@ diplosis
 diplosome
 diplosphene
 doradilla
+desegmented
 diplospondylic
 diplospondylism
 diplostemony

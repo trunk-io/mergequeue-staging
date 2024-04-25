@@ -7289,6 +7289,7 @@ alay
 autophon
 alain
 alaite
+anteflexed
 alaki
 alala
 adrammelech
@@ -14170,7 +14171,6 @@ antefixa
 antefixes
 anaesthyl
 anteflected
-anteflexed
 anteflexion
 antefurca
 antefurcae
