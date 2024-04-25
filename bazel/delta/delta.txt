@@ -1257,7 +1257,6 @@ dato
 datolite
 datolitic
 doless
-datos
 datsun
 datsuns
 datsw
@@ -2651,6 +2650,7 @@ decomponent
 decomponible
 decomposability
 divorcements
+datos
 draconic
 decomposable
 decompose
