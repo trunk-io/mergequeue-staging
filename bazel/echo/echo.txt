@@ -337,7 +337,6 @@ enunciate
 eaver
 eaves
 eavesdrop
-eavesdropped
 eavesdropper
 edingtonite
 eavesdroppers
@@ -13955,6 +13954,7 @@ extrarhythmical
 extras
 extrasacerdotal
 extrascholastic
+eavesdropped
 extraschool
 extrascientific
 exculpates
