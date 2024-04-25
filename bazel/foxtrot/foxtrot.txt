@@ -2195,6 +2195,7 @@ felonweed
 fermentitious
 felonwort
 fels
+fumbler
 felsic
 felsite
 fumistery
@@ -11017,7 +11018,6 @@ fumatorium
 fumatoriums
 fumble
 fumbled
-fumbler
 fumblers
 fumbles
 fumbling
