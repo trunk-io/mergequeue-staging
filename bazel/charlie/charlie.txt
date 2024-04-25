@@ -3340,6 +3340,7 @@ capsumin
 captacula
 captaculum
 captain
+cornuses
 captaincy
 captaincies
 captained
@@ -25433,7 +25434,6 @@ cornulite
 cornulites
 cornupete
 cornus
-cornuses
 cornute
 cornuted
 cornutin
