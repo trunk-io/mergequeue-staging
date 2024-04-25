@@ -2322,6 +2322,7 @@ candida
 candidacy
 candidacies
 candidate
+cursoriness
 candidated
 candidates
 candidateship
@@ -31495,7 +31496,6 @@ cursory
 cursorial
 cursoriidae
 cursorily
-cursoriness
 cursorious
 commissionaire
 cursorius
