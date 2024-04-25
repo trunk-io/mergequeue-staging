@@ -4518,7 +4518,6 @@ carotinemia
 chylaceous
 carotinoid
 carotins
-carotol
 carotte
 carouba
 caroubier
@@ -23347,6 +23346,7 @@ contemner
 contemnible
 contemnibly
 contemning
+carotol
 contemningly
 captivity
 contemnor
