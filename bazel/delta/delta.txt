@@ -2240,6 +2240,7 @@ decempartite
 decempedal
 decempennate
 decemplex
+divisibility
 determinativeness
 decemplicate
 decempunctate
@@ -14438,7 +14439,6 @@ divinizing
 divisa
 divise
 divisi
-divisibility
 divisibilities
 divisible
 division
