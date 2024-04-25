@@ -6567,6 +6567,7 @@ ceilinged
 ceilings
 ceilingward
 chlorapatite
+certosa
 ceilingwards
 ceylon
 ceylonese
@@ -7751,7 +7752,6 @@ certiorating
 certioration
 certis
 certitude
-certosa
 certose
 certosina
 certosino
