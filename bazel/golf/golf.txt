@@ -6363,7 +6363,6 @@ gnu
 gnus
 goa
 grammar
-gorilla
 gryllidae
 goad
 goaded
@@ -10837,6 +10836,7 @@ guzzlers
 guzzles
 giftlike
 guzzling
+gorilla
 garfield
 gv
 gwag
