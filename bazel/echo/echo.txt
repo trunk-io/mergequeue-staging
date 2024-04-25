@@ -1136,6 +1136,7 @@ editing
 epacts
 ectosarcs
 elephantine
+epidermic
 editions
 editor
 editorial
@@ -2797,7 +2798,6 @@ elephantoid
 elephantoidal
 eyestone
 elephantopus
-epidermic
 elephantous
 emetically
 elephantry
