@@ -8715,7 +8715,6 @@ billowiness
 babasco
 billowing
 billows
-basil
 billposter
 billposting
 bills
@@ -17126,6 +17125,7 @@ bitterly
 bullfrogs
 bullgine
 bullhead
+basil
 beggar
 bullheaded
 bullheadedly
