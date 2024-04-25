@@ -4621,7 +4621,6 @@ encrinus
 enchair
 enchalice
 epiblema
-enchancement
 enchant
 enchanted
 enchanter
@@ -5514,6 +5513,7 @@ energetics
 enantiobiosis
 energetistic
 energic
+enchancement
 energical
 energid
 energids
