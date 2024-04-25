@@ -4378,6 +4378,7 @@ fishability
 fishable
 friezing
 fishback
+flatware
 fishbed
 flannel
 fishberries
@@ -5183,7 +5184,6 @@ flatulent
 formulized
 flatways
 fishmonger
-flatware
 flatwares
 flatwash
 footpaddery
