@@ -1810,6 +1810,7 @@ groow
 gastrojejunostomies
 gastrolater
 gastrolavage
+ghosting
 gastrolienal
 gastrolith
 gastrolytic
@@ -10009,7 +10010,6 @@ gudrun
 guebucu
 gulped
 guejarite
-ghosting
 guelf
 guelph
 guelphish
