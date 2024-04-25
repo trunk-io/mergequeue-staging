@@ -6561,7 +6561,6 @@ fluosilicate
 fluosilicic
 fluotantalic
 fluotitanic
-fluozirconic
 featherlight
 fluphenazine
 flurn
@@ -7660,6 +7659,7 @@ foredetermine
 foredevised
 flotative
 foredid
+fluozirconic
 foredispose
 foredivine
 figments
