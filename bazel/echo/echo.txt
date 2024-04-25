@@ -2492,7 +2492,6 @@ electromotion
 electromotive
 embue
 electromotivity
-electromotograph
 electromotor
 electromuscular
 electron
@@ -13939,6 +13938,7 @@ extrapopular
 extraposition
 extraprostatic
 extraprovincial
+electromotograph
 extrapulmonary
 encoop
 extrapunitive
