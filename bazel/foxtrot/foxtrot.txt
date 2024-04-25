@@ -4940,7 +4940,6 @@ finaglers
 flameproofer
 flamer
 flames
-ferneries
 flamethrower
 flamethrowers
 frankpledge
@@ -10615,6 +10614,7 @@ fructiculture
 fructidor
 fenestrae
 fructiferous
+ferneries
 fructiferously
 fructify
 fructification
