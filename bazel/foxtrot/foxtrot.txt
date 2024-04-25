@@ -3362,6 +3362,7 @@ fidicula
 fidiculae
 fidley
 fidleys
+forces
 fido
 fidos
 fiducial
@@ -7475,7 +7476,6 @@ forcepses
 forceput
 forcer
 forcers
-forces
 forchase
 forches
 forcedly
