@@ -3639,6 +3639,7 @@ dermatoplasty
 deuteropathy
 downhill
 deglutination
+dislike
 deglutition
 deglutitious
 deglutitive
@@ -12617,7 +12618,6 @@ dyslexics
 disli
 dislicense
 dislikable
-dislike
 dislikeable
 disliked
 dislikeful
