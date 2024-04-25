@@ -5147,7 +5147,6 @@ flatfishes
 flatfoot
 flatfooted
 flatfootedly
-flatfootedness
 flatfooting
 flatfoots
 flathat
@@ -8814,6 +8813,7 @@ fortunella
 fortunes
 fortuneteller
 fripper
+flatfootedness
 fluvialist
 fortunetellers
 fortunetelling
