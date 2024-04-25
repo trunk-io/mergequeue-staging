@@ -1307,6 +1307,7 @@ effectress
 effects
 effectual
 effectuality
+enrib
 effectually
 extracystic
 effectualness
@@ -6284,7 +6285,6 @@ enregistered
 electrosherardizing
 enregistering
 enregistry
-enrib
 enrich
 enrichener
 eogaea

@@ -22321,7 +22321,6 @@ congregationer
 congregationist
 congregations
 congregativeness
-congregator
 congreso
 congress
 congressed
@@ -28889,6 +28888,7 @@ crewet
 crewing
 crewless
 crewman
+congregator
 crewmanship
 crewmen
 crewneck
