@@ -1340,6 +1340,7 @@ garden
 gardener
 gardeners
 gatha
+gymnasiarchy
 gardenership
 gardenful
 gardenhood
@@ -3801,7 +3802,6 @@ glucide
 ghostless
 ghostlet
 ghostly
-gymnasiarchy
 grots
 ghostliest
 ghostlify
