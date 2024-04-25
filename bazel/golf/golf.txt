@@ -6309,7 +6309,6 @@ gnaws
 gneiss
 gneisses
 gneissy
-gneissitic
 garau
 gneissoid
 gneissose
@@ -8381,6 +8380,7 @@ groovers
 gratuity
 gratuito
 gratuitous
+gneissitic
 gibbously
 gratuitously
 gratuitousness
