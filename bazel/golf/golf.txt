@@ -5288,6 +5288,7 @@ glaur
 glaury
 glaux
 glave
+greening
 glavered
 glavering
 glaze
@@ -8687,7 +8688,6 @@ greenhouses
 greeny
 greenyard
 greeniest
-greening
 greenings
 greenish
 gladeye

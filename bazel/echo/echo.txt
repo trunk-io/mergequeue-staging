@@ -1965,7 +1965,6 @@ ejido
 ejidos
 ejoo
 ejulate
-ejuration
 ejusd
 ejusdem
 ekacaesium
@@ -5608,6 +5607,7 @@ enflaming
 enflesh
 enfleurage
 enflower
+ejuration
 enfold
 everblooming
 embattling
