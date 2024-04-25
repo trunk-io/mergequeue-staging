@@ -3540,7 +3540,6 @@ figuration
 figurational
 figurations
 figuratively
-figurato
 figured
 figuredly
 figureheadless
@@ -11078,6 +11077,7 @@ fummel
 fummle
 figboy
 fumose
+figurato
 fumous
 fumuli
 focimetry
