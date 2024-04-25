@@ -3920,7 +3920,6 @@ giblet
 giblets
 gourmandise
 gypsophily
-gasteromycetous
 gibraltar
 gibs
 gibson
@@ -7675,6 +7674,7 @@ graduatical
 graduation
 graduations
 graduator
+gasteromycetous
 graduators
 graduses
 gobblers
