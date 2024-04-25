@@ -6118,7 +6118,6 @@ gluelikeness
 gluemaker
 ganta
 gluepot
-gluer
 gluers
 glues
 glug
@@ -7402,6 +7401,7 @@ goujay
 goujat
 gestaltist
 gametic
+gluer
 goujon
 goujons
 goulan
