@@ -380,7 +380,6 @@ gangboard
 galago
 galagos
 galahad
-galahads
 galanas
 galangal
 galangals
@@ -4192,6 +4191,7 @@ gurshes
 gimballing
 glyconics
 gimbals
+galahads
 groining
 gimberjawed
 garnishments
