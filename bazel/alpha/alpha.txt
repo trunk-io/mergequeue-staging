@@ -6745,6 +6745,7 @@ aiglets
 aiglette
 aigre
 aigremore
+arteriometer
 alkaligen
 aigret
 aigrets
@@ -20498,7 +20499,6 @@ arterioloscleroses
 asporulate
 arteriolosclerosis
 arteriomalacia
-arteriometer
 arteriomotor
 amalett
 auroauric
