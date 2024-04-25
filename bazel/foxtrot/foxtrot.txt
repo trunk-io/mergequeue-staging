@@ -1990,6 +1990,7 @@ feedman
 feeds
 feedstock
 feedstuff
+fourniture
 feedstuffs
 feedway
 feedwater
@@ -9089,7 +9090,6 @@ fourieristic
 fourierite
 fourling
 fourneau
-fourniture
 fourpenny
 fourposters
 flabellarium
