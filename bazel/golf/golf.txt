@@ -5219,6 +5219,7 @@ glassfuls
 glasshouses
 glassy
 glassie
+groundberry
 garote
 gateaux
 glassies
@@ -9431,7 +9432,6 @@ ground
 groundable
 groundably
 groundage
-groundberry
 groundbird
 grounded
 grounden

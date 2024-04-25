@@ -4442,7 +4442,6 @@ enantobiosis
 enapt
 enarbor
 enarbour
-enarch
 enarched
 enargite
 enarm
@@ -9170,6 +9169,7 @@ equiponderance
 etuve
 erythrogenesis
 erythrogenic
+enarch
 erythroglucin
 erythrogonium
 erythrol
