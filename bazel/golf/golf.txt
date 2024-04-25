@@ -5721,7 +5721,6 @@ globular
 gconvert
 globularia
 globulariaceae
-globulariaceous
 ghylls
 globularity
 gelilah
@@ -6840,6 +6839,7 @@ gonidium
 gonifs
 ghyll
 gonimic
+globulariaceous
 gonimium
 gonimoblast
 gonimolobe
