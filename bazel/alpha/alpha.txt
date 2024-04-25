@@ -16048,7 +16048,6 @@ antiquation
 antique
 antiqued
 antiquely
-antiqueness
 antiquer
 abraum
 antiquers
@@ -22722,6 +22721,7 @@ atomical
 atomically
 atomicism
 atomicity
+antiqueness
 atomies
 atomiferous
 atomises
