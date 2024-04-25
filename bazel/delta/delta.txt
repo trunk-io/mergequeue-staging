@@ -5703,6 +5703,7 @@ deplenish
 depletable
 deplete
 depleted
+delubrum
 deplethoric
 ducting
 depletions
@@ -18514,7 +18515,6 @@ dusk
 dusked
 dusken
 dusky
-delubrum
 dustcloths
 definer
 duskier

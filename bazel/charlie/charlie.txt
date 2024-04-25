@@ -9540,7 +9540,6 @@ checkrope
 checkrowed
 checkrower
 checkrowing
-checkrows
 checks
 checkstrap
 checkstring
@@ -23596,6 +23595,7 @@ contrabandery
 causticiser
 contrabandism
 contrabandist
+checkrows
 contrabandista
 constabless
 contrabass
