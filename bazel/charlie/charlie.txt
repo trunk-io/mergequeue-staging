@@ -12376,6 +12376,7 @@ chromatocyte
 chromatogenous
 chromatogram
 chromatograph
+confidentiality
 chromatography
 chromatographic
 chromatographically
@@ -21955,7 +21956,6 @@ confidency
 confident
 confidente
 confidential
-confidentiality
 confidentially
 confidentialness
 confidently
