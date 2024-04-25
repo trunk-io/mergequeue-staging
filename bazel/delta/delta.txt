@@ -11331,7 +11331,6 @@ divisibleness
 discourser
 discerptive
 discession
-dogmatism
 discharacter
 discharge
 dischargeable
@@ -16917,6 +16916,7 @@ drumbeats
 dreamtime
 dreamwhile
 dreamwise
+dogmatism
 dreamworld
 drearfully
 dreary
