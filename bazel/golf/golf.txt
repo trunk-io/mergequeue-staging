@@ -1805,6 +1805,7 @@ gastrograph
 gastrohepatic
 gastrohepatitis
 gastrohyperneuria
+gluconokinase
 gastrohypertonic
 glinted
 gastrohysterectomy
@@ -4658,7 +4659,6 @@ gypsologist
 grossing
 gypsophila
 gypsophilous
-gluconokinase
 gypster
 gypsum
 grilling

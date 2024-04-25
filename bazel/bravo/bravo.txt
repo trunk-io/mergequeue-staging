@@ -13097,7 +13097,6 @@ borosalicylate
 borosalicylic
 borosilicate
 borosilicic
-buri
 borotungstate
 borotungstic
 borough
@@ -13852,6 +13851,7 @@ bowsman
 bowsprit
 bowsprits
 bowstaff
+buri
 brokenhearted
 bowstave
 buzane
