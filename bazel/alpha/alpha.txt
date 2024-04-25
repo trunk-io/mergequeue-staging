@@ -9218,6 +9218,7 @@ alnage
 alnager
 alnagership
 antizymotic
+amenities
 alnaschar
 alnascharism
 alnath
@@ -10272,7 +10273,6 @@ amenia
 autocremation
 amenite
 amenity
-amenities
 amenorrhea
 amenorrheal
 amenorrheic
