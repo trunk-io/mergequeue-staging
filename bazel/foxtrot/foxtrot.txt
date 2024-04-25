@@ -4809,7 +4809,6 @@ flaggy
 flaggier
 flaggiest
 flagginess
-flagging
 flaggings
 flaggish
 flagilate
@@ -8013,6 +8012,7 @@ foreshadower
 foreshadowing
 fingery
 foreshadows
+flagging
 foreshaft
 foreshank
 foreshape
