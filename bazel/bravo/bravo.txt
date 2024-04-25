@@ -3622,7 +3622,6 @@ bathman
 bathmats
 bathmic
 bathmism
-bathmotropism
 bathochromatic
 booky
 bathochromatism
@@ -5419,6 +5418,7 @@ behavior
 butcherbird
 behaviorally
 behaviored
+bathmotropism
 behaviorist
 behavioristically
 behaviorists
