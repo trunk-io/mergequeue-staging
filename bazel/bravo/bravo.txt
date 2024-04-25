@@ -2694,7 +2694,6 @@ barked
 barkeeper
 barkeepers
 bereason
-barkeeps
 barkey
 barken
 beknights
@@ -3659,6 +3658,7 @@ baron
 bathtub
 by
 bathtubs
+barkeeps
 bathukolpian
 bathukolpic
 bathvillite
