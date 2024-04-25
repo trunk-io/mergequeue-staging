@@ -3356,7 +3356,6 @@ definientia
 definish
 definite
 definitely
-definiteness
 dustlessness
 definitiones
 diabetic
@@ -10127,6 +10126,7 @@ dynel
 dinergate
 dineros
 diners
+definiteness
 detruss
 disrupted
 dines

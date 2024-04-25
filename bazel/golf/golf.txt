@@ -3356,7 +3356,6 @@ gunbearer
 gerbils
 gerbo
 gere
-gereagle
 gerefa
 gerenda
 gerendum
@@ -7023,6 +7022,7 @@ grumpy
 goofy
 goofier
 goofiest
+gereagle
 goofily
 goofiness
 goofing
