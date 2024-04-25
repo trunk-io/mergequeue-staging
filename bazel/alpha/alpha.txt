@@ -7982,7 +7982,6 @@ alexandrianism
 alexandrina
 alexandrine
 alexandrines
-alexandrite
 alexas
 alexia
 alexian
@@ -21856,6 +21855,7 @@ associatively
 associativeness
 associativity
 associator
+alexandrite
 associatory
 associators
 associe
