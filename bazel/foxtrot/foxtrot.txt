@@ -1948,7 +1948,6 @@ federator
 fedia
 fedifragous
 fedity
-fedn
 fedora
 fedoras
 feds
@@ -8931,6 +8930,7 @@ fossula
 fossulae
 fossulate
 fossule
+fedn
 fossulet
 fetichry
 foster
