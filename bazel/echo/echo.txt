@@ -3522,7 +3522,6 @@ embolite
 embolium
 embolization
 embolize
-excorticated
 embolo
 embololalia
 embolomalerism
@@ -11263,6 +11262,7 @@ euthenasia
 euthenic
 euthenist
 eutherian
+excorticated
 euthycomi
 euthycomic
 euthyneurous
