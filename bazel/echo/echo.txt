@@ -4264,7 +4264,6 @@ epapophysial
 emptiable
 emptied
 emptier
-emptiers
 empties
 extratelluric
 etiolin
@@ -6134,6 +6133,7 @@ enneastylos
 enneateric
 enneatical
 ennerve
+emptiers
 ennew
 ennia
 elamp
