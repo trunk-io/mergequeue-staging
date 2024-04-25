@@ -7498,7 +7498,6 @@ ephemeral
 ephemeralities
 ephemerally
 euscaro
-ephemeralness
 ephemeran
 ephemeras
 ephemeric
@@ -13581,6 +13580,7 @@ empathizing
 extensivity
 extensometer
 extensor
+ephemeralness
 extensory
 extensors
 extent
