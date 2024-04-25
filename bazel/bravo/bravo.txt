@@ -12080,7 +12080,6 @@ bolden
 bravest
 bolder
 bolderian
-boldest
 boldface
 bostrychoid
 boldfaced
@@ -18278,6 +18277,7 @@ butterroot
 butters
 butterscotch
 butterweed
+boldest
 butterwife
 bloodletting
 butterwoman
