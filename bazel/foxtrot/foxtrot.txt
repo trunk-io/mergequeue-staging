@@ -1122,7 +1122,6 @@ fastback
 farriery
 farrieries
 forereport
-farrierlike
 farriers
 farris
 farrisite
@@ -10172,6 +10171,7 @@ fripperer
 frippery
 frankensteins
 fragilariaceae
+farrierlike
 frippet
 fris
 frisado
