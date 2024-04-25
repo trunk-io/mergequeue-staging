@@ -1140,6 +1140,7 @@ farset
 farsight
 familiarism
 farsighted
+foreseize
 fart
 flatteringly
 farther
@@ -7993,7 +7994,6 @@ foreseer
 foreseers
 foresees
 foreseing
-foreseize
 foresend
 faience
 foresense
