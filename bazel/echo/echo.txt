@@ -589,7 +589,6 @@ echinopanax
 echinopsine
 echinorhynchus
 echinorhinidae
-echinorhinus
 echinospermum
 echinosphaeritidae
 echinostoma
@@ -9584,6 +9583,7 @@ escort
 escortage
 escorted
 escortee
+echinorhinus
 escorts
 escot
 escoted
