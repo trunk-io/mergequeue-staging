@@ -638,7 +638,6 @@ echolocation
 echometer
 echopractic
 ecumenopolis
-echopraxia
 echos
 eleutherodactyl
 echovirus
@@ -4959,6 +4958,7 @@ endangitis
 endangium
 endaortitis
 endarch
+echopraxia
 endarchy
 endarterectomy
 evenforth
