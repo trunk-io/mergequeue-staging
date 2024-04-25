@@ -5412,7 +5412,6 @@ esphresis
 endotropic
 endoubt
 endoute
-endovaccination
 enrank
 enclavement
 exotic
@@ -9228,6 +9227,7 @@ ebulus
 ermelin
 exceptionalness
 ermiline
+endovaccination
 ermine
 ermined
 erminee
