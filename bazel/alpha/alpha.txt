@@ -12088,6 +12088,7 @@ anatifae
 accidents
 anatifer
 anatiferous
+aeroacoustic
 anatinacea
 anatinae
 anatine
@@ -19886,7 +19887,6 @@ armature
 armatured
 aerophysicist
 aristos
-aeroacoustic
 armatures
 armband
 armbands
