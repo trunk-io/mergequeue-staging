@@ -1798,6 +1798,7 @@ eyeserver
 eyeservice
 eyeshade
 eyeshades
+enfoil
 eyeshield
 eyeshots
 eyesight
@@ -9798,7 +9799,6 @@ editorialist
 espinillo
 espino
 espinos
-enfoil
 exodos
 esplanade
 esplees
