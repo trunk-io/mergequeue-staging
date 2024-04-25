@@ -652,7 +652,6 @@ bacteria
 bussu
 bacteriaceae
 bacteriaceous
-bacteriaemia
 beshouted
 biblist
 bacterial
@@ -5614,6 +5613,7 @@ belage
 belah
 belay
 belayed
+bacteriaemia
 bedticking
 belayer
 belaying
