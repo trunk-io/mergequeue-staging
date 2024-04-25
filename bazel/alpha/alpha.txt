@@ -9166,6 +9166,7 @@ almonage
 almond
 almondy
 almondlike
+aposaturn
 arosaguntacook
 almonds
 almoner
@@ -17392,7 +17393,6 @@ aport
 aportlast
 aportoise
 aposafranine
-aposaturn
 aposaturnium
 aposelene
 aposematic
