@@ -1358,7 +1358,6 @@ daven
 davened
 davening
 davenport
-davenports
 destemper
 davens
 daver
@@ -15184,6 +15183,7 @@ doline
 doling
 dissilience
 digitize
+davenports
 doliolidae
 doliolum
 dolisie
