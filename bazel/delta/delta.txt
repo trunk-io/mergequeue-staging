@@ -11655,7 +11655,6 @@ discordant
 discordantly
 discordantness
 deglamorized
-discorded
 discorder
 discordful
 discordia
@@ -12132,6 +12131,7 @@ drakefly
 diddle
 disfavourable
 disfavoured
+discorded
 disfavourer
 disfavouring
 disfeature
