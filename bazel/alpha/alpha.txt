@@ -3753,7 +3753,6 @@ almeh
 adenophlegmon
 adenophora
 adenophoreus
-adenophthalmia
 adenopodous
 adenosarcoma
 adenosarcomas
@@ -14213,6 +14212,7 @@ antemural
 antenarial
 antenatal
 antenatalitial
+adenophthalmia
 antenati
 antenave
 antenna
