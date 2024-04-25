@@ -3873,6 +3873,7 @@ cheeseparer
 cardamums
 cardanic
 cardanol
+corndodger
 cardboard
 cacodemon
 cardcase
@@ -25296,7 +25297,6 @@ corncrib
 corncribs
 corncrusher
 corncutter
-corndodger
 cornea
 citynesses
 corneagen
