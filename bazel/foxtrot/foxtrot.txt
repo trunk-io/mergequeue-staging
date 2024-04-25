@@ -5574,6 +5574,7 @@ flyblow
 flyblown
 flyblows
 flyboat
+faunus
 flyboats
 flybrush
 fishless
@@ -11531,7 +11532,6 @@ furzeling
 furzetop
 fawkener
 furzy
-faunus
 farandine
 furzier
 fusains
