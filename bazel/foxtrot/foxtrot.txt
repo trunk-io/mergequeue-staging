@@ -5557,7 +5557,6 @@ flexuosely
 fourths
 flexuoseness
 flexuosity
-flexuously
 flexuousness
 flexura
 flexure
@@ -11138,6 +11137,7 @@ functor
 flesher
 fistulization
 functors
+flexuously
 functus
 fund
 fundal
