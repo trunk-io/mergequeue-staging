@@ -8283,7 +8283,6 @@ chaldaei
 chaldaic
 chaldaical
 chaldaism
-chaldean
 chiver
 chaldee
 chalder
@@ -16678,6 +16677,7 @@ clothe
 clothed
 clothes
 clothesbag
+chaldean
 clothesbasket
 clothesbrush
 clotheshorses
