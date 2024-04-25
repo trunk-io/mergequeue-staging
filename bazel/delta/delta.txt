@@ -4068,7 +4068,6 @@ deliberant
 deliberated
 deliberately
 denudement
-deliberateness
 deliberates
 diacoele
 deliberating
@@ -8808,6 +8807,7 @@ dibranchiate
 dibranchious
 desires
 dibrom
+deliberateness
 dibromide
 dibromoacetaldehyde
 dibromobenzene
