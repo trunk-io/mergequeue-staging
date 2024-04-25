@@ -1412,6 +1412,7 @@ gynocardic
 garlic
 garlicky
 garliclike
+grivets
 garlics
 galloner
 gibier
@@ -9202,7 +9203,6 @@ gritting
 gazolyte
 grivation
 grivet
-grivets
 grivna
 grizard
 ginniest
