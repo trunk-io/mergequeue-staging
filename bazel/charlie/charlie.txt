@@ -1194,7 +1194,6 @@ calesas
 calescent
 calesero
 calesin
-calf
 calfbound
 calfdozer
 calfish
@@ -20633,6 +20632,7 @@ compilers
 compiles
 compiling
 comping
+calf
 compital
 compitalia
 compitum
