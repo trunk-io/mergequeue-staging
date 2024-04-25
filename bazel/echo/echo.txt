@@ -1141,6 +1141,7 @@ editions
 editor
 editorial
 editorialization
+encorbellment
 editorializations
 editorialize
 editorialized
@@ -4819,7 +4820,6 @@ encompasses
 encompassing
 encompassment
 encopreses
-encorbellment
 encorbelment
 encore
 emulsifiable
