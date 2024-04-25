@@ -1566,6 +1566,7 @@ accipter
 accise
 antipodist
 accismus
+advehent
 accite
 acclaim
 adenomatome
@@ -4577,7 +4578,6 @@ advection
 advectitious
 advective
 advects
-advehent
 advenae
 advene
 allelotropy
