@@ -5717,6 +5717,7 @@ flypast
 flypasts
 flipe
 flype
+fribbler
 first
 freezers
 firebrand
@@ -8822,7 +8823,6 @@ forvay
 forwake
 fains
 forwander
-fribbler
 forwardal
 frescoer
 forwarded
