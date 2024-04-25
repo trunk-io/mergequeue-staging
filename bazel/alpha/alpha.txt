@@ -8941,7 +8941,6 @@ allopatrically
 allophanamid
 allophanamide
 allophanate
-allophanates
 allophane
 aspidosperma
 allophyle
@@ -16095,6 +16094,7 @@ antirattler
 aerologic
 antireacting
 antireaction
+allophanates
 antireactionary
 antireactionaries
 antirealism
