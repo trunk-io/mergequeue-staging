@@ -6025,6 +6025,7 @@ distend
 dequeue
 dequeued
 dequeues
+disgracia
 dropshots
 der
 derabbinize
@@ -12219,7 +12220,6 @@ disgracer
 disgracers
 driver
 disgraces
-disgracia
 disgracing
 disgracious
 dwarfness
