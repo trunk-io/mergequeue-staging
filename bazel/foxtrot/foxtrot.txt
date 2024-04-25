@@ -1977,7 +1977,6 @@ feedboxes
 feeded
 feeders
 feedhead
-feedy
 feeding
 feedings
 feedingstuff
@@ -10754,6 +10753,7 @@ frustula
 frustule
 frustulent
 frustules
+feedy
 frustulose
 frustulum
 frustum
