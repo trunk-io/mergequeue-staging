@@ -4382,7 +4382,6 @@ fishable
 friezing
 fishback
 flatware
-fishbed
 flannel
 fishberries
 fishboat
@@ -7212,6 +7211,7 @@ footfall
 ferruling
 footfalls
 footfarer
+fishbed
 footfault
 footfeed
 footfolk
