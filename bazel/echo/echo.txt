@@ -201,7 +201,6 @@ earthrise
 earthset
 electroplated
 earthsets
-earthshaker
 emptores
 earthshaking
 earthshakingly
@@ -8352,6 +8351,7 @@ epitheliomatous
 epitheliomuscular
 epitheliosis
 epitheliotoxin
+earthshaker
 epithelium
 epitheliums
 epithelization
