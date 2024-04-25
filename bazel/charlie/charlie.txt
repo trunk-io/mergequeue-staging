@@ -9960,7 +9960,6 @@ chenfish
 cheng
 chengal
 chenica
-chenier
 chenille
 cheniller
 chenilles
@@ -25944,6 +25943,7 @@ coruscant
 coruscate
 coruscates
 coruscating
+chenier
 coruscation
 coruscations
 coruscative
