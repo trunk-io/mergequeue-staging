@@ -1814,7 +1814,6 @@ brighten
 bamalip
 bamangwato
 bambacciata
-bamban
 bambara
 bambini
 bambino
@@ -7772,6 +7771,7 @@ bhil
 bhili
 bhima
 bhindi
+bamban
 biatomic
 bhishti
 bhisti
