@@ -3626,7 +3626,6 @@ filemarks
 filemot
 filename
 filenames
-faithing
 filer
 filers
 filesave
@@ -7221,6 +7220,7 @@ footgear
 footglove
 footgrip
 foothalt
+faithing
 filths
 flatcap
 foothold
