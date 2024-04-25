@@ -11186,6 +11186,7 @@ blossom
 blossombill
 bertolonia
 blossomhead
+buttercup
 blossomy
 blossomless
 blossoms
@@ -18232,7 +18233,6 @@ butterbox
 butterbump
 butterbur
 butterbush
-buttercup
 buttercups
 buttered
 butterer
