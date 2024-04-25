@@ -4512,6 +4512,7 @@ flunkyism
 fissura
 fissuration
 fissure
+fuzzy
 fissured
 fissureless
 fissurellidae
@@ -11733,7 +11734,6 @@ fuzing
 fuzz
 fuzzed
 fuzzes
-fuzzy
 fuzzier
 fuzziest
 fuzzily
