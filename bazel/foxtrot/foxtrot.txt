@@ -11123,7 +11123,6 @@ functionals
 functionary
 functionaries
 functionate
-functionated
 functionating
 functionation
 functioned
@@ -11447,6 +11446,7 @@ frailties
 foregather
 furnished
 furnishes
+functionated
 furnishing
 feebler
 furnishings
