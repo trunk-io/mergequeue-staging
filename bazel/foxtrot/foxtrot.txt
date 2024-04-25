@@ -1748,6 +1748,7 @@ feasibilities
 feasible
 flopping
 feasibleness
+frosteds
 feasibly
 feasing
 feasor
@@ -4635,7 +4636,6 @@ fiveling
 fivepence
 fivepenny
 fivepins
-frosteds
 fives
 fivescore
 fivesome
