@@ -10397,6 +10397,7 @@ amiability
 amiableness
 arranger
 annonce
+argumentatory
 amiant
 amianth
 amianthiform
@@ -19608,7 +19609,6 @@ asynchronous
 argumentative
 argumentativeness
 argumentator
-argumentatory
 arguments
 argumentum
 argus
