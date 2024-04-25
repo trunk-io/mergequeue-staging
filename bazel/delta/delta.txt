@@ -2400,7 +2400,6 @@ decimalization
 decimalize
 decimalized
 decimalizes
-decimalizing
 decimally
 decimals
 dechenite
@@ -8105,6 +8104,7 @@ demote
 diacetyls
 diacetin
 diacetine
+decimalizing
 diaceturia
 diachaenium
 diachylon
