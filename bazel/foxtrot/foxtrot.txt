@@ -5087,6 +5087,7 @@ flashing
 face
 flashingly
 flashings
+fdub
 flashlamp
 flashlight
 funambulator
@@ -10289,7 +10290,6 @@ frizzy
 frizzier
 frizziest
 frizzily
-fdub
 forepaling
 frizziness
 faunology
