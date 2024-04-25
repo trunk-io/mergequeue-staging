@@ -424,6 +424,7 @@ gamy
 galbulae
 galbulidae
 galbulinae
+gossep
 galcha
 galchic
 gravata
@@ -7312,7 +7313,6 @@ grallae
 gossaniferous
 gossans
 gossard
-gossep
 goldwork
 gossy
 gossip
