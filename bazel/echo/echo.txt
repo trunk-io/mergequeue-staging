@@ -6435,7 +6435,6 @@ enskying
 enslave
 exterioration
 enslaved
-emulate
 enslavedness
 enslavements
 enslaver
@@ -7798,6 +7797,7 @@ epifascial
 epifaunae
 epifaunal
 epifaunas
+emulate
 epifocal
 epifolliculitis
 endocytic
