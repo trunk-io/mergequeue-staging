@@ -2478,7 +2478,6 @@ barcone
 barcoo
 bard
 bardane
-bardash
 bardcraft
 barde
 beribboned
@@ -7006,6 +7005,7 @@ bullfinch
 besides
 besiege
 besieged
+bardash
 besiegement
 biorhythmicities
 besieges
