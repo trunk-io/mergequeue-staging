@@ -8725,6 +8725,7 @@ allhallowtide
 allheal
 allheals
 ally
+arithmeticians
 alliable
 alliaceae
 antiperistatically
@@ -19803,7 +19804,6 @@ arithmetic
 arithmetically
 aoudads
 arithmetician
-arithmeticians
 arithmetics
 arithmetizations
 arithmetize
