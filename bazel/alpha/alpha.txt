@@ -5317,6 +5317,7 @@ affectionally
 acreages
 affectionately
 affectionateness
+aktiebolag
 affectionless
 affections
 affectious
@@ -23265,7 +23266,6 @@ audioemission
 audiogram
 audiograms
 audiology
-aktiebolag
 audiological
 audiologies
 audiologist
