@@ -2162,6 +2162,7 @@ banned
 banner
 bannerer
 banneret
+bivinyl
 bannerets
 bannerette
 bannerfish
@@ -9989,7 +9990,6 @@ biventral
 biverb
 biverbal
 bivial
-bivinyl
 bivinyls
 bivittate
 bivocal
