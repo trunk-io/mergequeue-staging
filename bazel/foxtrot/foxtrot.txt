@@ -5971,7 +5971,6 @@ facioplegia
 floodproof
 floods
 fortifiable
-floodway
 feute
 floodways
 floodwall
@@ -7293,6 +7292,7 @@ farraginous
 footscraper
 footsy
 footsies
+floodway
 footslog
 footslogged
 footslogger
