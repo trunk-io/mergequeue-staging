@@ -1073,6 +1073,7 @@ farmhouse
 farmhousey
 farmyard
 fluffed
+focalized
 farmyardy
 farmyards
 fivers
@@ -6722,7 +6723,6 @@ focalised
 focalising
 focalization
 focalize
-focalized
 focalizes
 focalizing
 firking
