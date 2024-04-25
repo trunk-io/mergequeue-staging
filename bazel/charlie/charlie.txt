@@ -9930,7 +9930,6 @@ chemotic
 chemotroph
 chemotropic
 chemotropically
-chemotropism
 chempaduk
 chemurgy
 chemurgic
@@ -20337,6 +20336,7 @@ communist
 communistery
 communisteries
 communistic
+chemotropism
 communistical
 communists
 cordovan
