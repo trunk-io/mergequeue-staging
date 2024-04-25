@@ -5155,6 +5155,7 @@ endocrinotherapy
 endocrinous
 endocritic
 endoderm
+escheat
 endodermal
 endodermic
 endodermis
@@ -12155,7 +12156,6 @@ excreation
 excrement
 excremental
 excrementally
-escheat
 excrementary
 excrementitial
 enami

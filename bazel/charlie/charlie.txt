@@ -1682,7 +1682,6 @@ calvish
 calvity
 calvities
 calvous
-calvus
 calx
 calxes
 calzada
@@ -3546,6 +3545,7 @@ carassow
 carassows
 carat
 caratacus
+calvus
 caratch
 carate
 carates
