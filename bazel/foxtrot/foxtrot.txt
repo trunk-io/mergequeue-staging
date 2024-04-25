@@ -1153,7 +1153,6 @@ farweltered
 fasc
 fascet
 fascia
-fasciae
 feudally
 fascial
 fascias
@@ -10294,6 +10293,7 @@ frizzles
 frizzly
 frizzlier
 frizzliest
+fasciae
 frizzling
 funders
 fringillid
