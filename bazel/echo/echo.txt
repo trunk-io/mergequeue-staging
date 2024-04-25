@@ -1466,7 +1466,6 @@ efik
 efl
 eflagelliferous
 edgings
-efoliolate
 efoliose
 efoveolate
 empedoclean
@@ -10555,6 +10554,7 @@ etymologicon
 etymologies
 etymologisable
 etymologise
+efoliolate
 epirogenic
 etymologised
 extraessentially
