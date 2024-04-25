@@ -2383,6 +2383,7 @@ acloud
 achromaturia
 achromia
 achromic
+anusvara
 achromobacter
 achromoderma
 achromophilous
@@ -16586,7 +16587,6 @@ anurous
 anus
 anuses
 anusim
-anusvara
 anutraminosa
 anvasser
 anvil
