@@ -1855,7 +1855,6 @@ gastropathic
 gastroperiodynia
 gastropexy
 gastrophile
-gastrophilist
 gastrophilus
 gastrophrenic
 gastrophthisis
@@ -6569,6 +6568,7 @@ galet
 goitrogen
 goitrogenic
 goitrous
+gastrophilist
 gokuraku
 gola
 groundmass
