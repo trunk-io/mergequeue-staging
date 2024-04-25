@@ -11619,7 +11619,6 @@ anadesm
 anadicrotism
 anadidymus
 anadyomene
-anadiplosis
 anadipsia
 anadipsic
 anadrom
@@ -14050,6 +14049,7 @@ antagonistically
 apronlike
 antagonists
 antagonizable
+anadiplosis
 antagonize
 antagonized
 antagonizer
