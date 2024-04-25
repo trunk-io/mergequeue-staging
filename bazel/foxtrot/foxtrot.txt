@@ -75,7 +75,6 @@ faceman
 facemark
 facepiece
 faceplate
-fettler
 facer
 faces
 facesaving
@@ -3213,6 +3212,7 @@ fichtean
 fichteanism
 fichtelite
 fichu
+fettler
 fichus
 footiest
 ficiform
