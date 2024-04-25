@@ -5595,7 +5595,6 @@ glyptician
 glyptics
 glyptodon
 glyptodont
-glyptodontidae
 gletty
 glyptodontoid
 glyptographer
@@ -10540,6 +10539,7 @@ gerusia
 gunplays
 gunpoint
 gunpoints
+glyptodontidae
 gunpowder
 gunpowdery
 gunpowderous
