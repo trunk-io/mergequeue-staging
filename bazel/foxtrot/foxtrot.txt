@@ -1502,6 +1502,7 @@ faucre
 faugh
 faujasite
 fauld
+forwards
 faulds
 faulkner
 faultage
@@ -8835,7 +8836,6 @@ fisheater
 forwardly
 flamingant
 forwardness
-forwards
 forwardsearch
 forwarn
 forwean

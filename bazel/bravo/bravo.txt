@@ -6924,7 +6924,6 @@ bescurvy
 bescutcheon
 burgrave
 beseam
-besee
 beseech
 beseecher
 beseeches
@@ -10631,6 +10630,7 @@ besneer
 bleariest
 blearily
 blearing
+besee
 blearness
 blears
 bleat
