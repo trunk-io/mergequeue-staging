@@ -7454,7 +7454,6 @@ flagman
 forbore
 forborne
 forbow
-forbruise
 forbs
 formalised
 forecited
@@ -11493,6 +11492,7 @@ furrowlike
 fijian
 furrows
 foliating
+forbruise
 fleabags
 furrure
 fursemide
