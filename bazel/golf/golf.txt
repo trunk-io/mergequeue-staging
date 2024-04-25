@@ -2707,7 +2707,6 @@ generosity
 generosities
 generous
 glial
-generously
 generousness
 geneserin
 geneserine
@@ -5637,6 +5636,7 @@ glisteringly
 glisters
 glitch
 glitterance
+generously
 glittered
 glittery
 glumous

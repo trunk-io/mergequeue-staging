@@ -8729,7 +8729,6 @@ chantress
 chantry
 chantries
 chants
-chanukah
 chaogenous
 chaology
 chaori
@@ -18538,6 +18537,7 @@ coincide
 coincided
 coincidence
 coincidences
+chanukah
 coincident
 coincidental
 coincidentally
