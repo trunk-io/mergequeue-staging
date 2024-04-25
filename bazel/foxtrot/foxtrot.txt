@@ -3185,7 +3185,6 @@ fibrosis
 fibrosity
 fibrosities
 fibrositis
-fibrospongiae
 formative
 fibrotuberculosis
 fusarial
@@ -6285,6 +6284,7 @@ fraughted
 flubdubberies
 flucan
 formating
+fibrospongiae
 fluctiferous
 fluctigerous
 fluctisonant
