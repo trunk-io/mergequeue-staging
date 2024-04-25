@@ -5512,6 +5512,7 @@ gains
 glycosyl
 glycosyls
 glycosin
+gnomish
 glycosine
 glycosuria
 gazeboes
@@ -6320,7 +6321,6 @@ gnomesque
 gnomic
 gnomical
 gnomide
-gnomish
 gnomist
 gabert
 greyhound
