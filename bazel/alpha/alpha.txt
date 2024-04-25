@@ -14655,7 +14655,6 @@ anthroponomy
 anthroponomics
 anthroponomist
 anthropopathy
-anthropopathia
 anthropopathically
 anthropopathism
 amphibial
@@ -17826,6 +17825,7 @@ applications
 applicative
 applicatively
 applicatory
+anthropopathia
 applied
 appliedly
 applier
