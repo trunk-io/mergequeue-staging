@@ -72,7 +72,6 @@ defailance
 dacryocystoptosis
 dacryocystorhinostomy
 dacryocystosyringotomy
-deltahedra
 dacryocystotome
 dacryocystotomy
 dacryohelcosis
@@ -11095,6 +11094,7 @@ disapprobations
 disapprobatory
 disappropriate
 disappropriation
+deltahedra
 disapprovable
 disapproval
 disapprovals
