@@ -9410,7 +9410,6 @@ diffuses
 diffusibility
 duplexs
 diffusible
-diffusibleness
 diffusibly
 dikamalli
 dacryocystalgia
@@ -12903,6 +12902,7 @@ duvetyns
 droplet
 disparadise
 disparageable
+diffusibleness
 disparagement
 disparagements
 disparager
