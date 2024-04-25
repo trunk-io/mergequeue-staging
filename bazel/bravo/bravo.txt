@@ -7474,6 +7474,7 @@ betrinket
 betroth
 betrothals
 betrothed
+bloodworthy
 betrothing
 betrothment
 betroths
@@ -11144,7 +11145,6 @@ bloodweed
 bloodwit
 bloodworm
 blab
-bloodworthy
 blooey
 blooie
 bloom
