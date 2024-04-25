@@ -12844,7 +12844,6 @@ boothite
 bootholder
 booths
 booty
-bootid
 bootie
 bootied
 baited
@@ -13594,6 +13593,7 @@ bountifulness
 bountihead
 bountyless
 bountiousness
+bootid
 bountree
 bouquet
 bouquetiere

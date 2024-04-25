@@ -27167,7 +27167,6 @@ countersunken
 countersurprise
 countersway
 counterswing
-countersworn
 corroded
 countertack
 countertally
@@ -27350,6 +27349,7 @@ courser
 coursers
 courses
 consolate
+countersworn
 calkage
 coursing
 coursings
