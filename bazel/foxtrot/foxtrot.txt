@@ -1500,7 +1500,6 @@ fauconnier
 faucre
 faugh
 faujasite
-fauld
 forwards
 faulds
 faulkner
@@ -6864,6 +6863,7 @@ foyers
 foil
 foiled
 foiling
+fauld
 foils
 foilsmen
 foin

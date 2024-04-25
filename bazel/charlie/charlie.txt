@@ -9364,7 +9364,6 @@ clothbound
 chauve
 chauvin
 chauvinism
-chauvinist
 chauvinistic
 chauvinistically
 chauvinists
@@ -21110,6 +21109,7 @@ cephalotome
 conationalistic
 conations
 conative
+chauvinist
 conatural
 conatus
 conaxial
