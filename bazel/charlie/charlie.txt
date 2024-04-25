@@ -6381,6 +6381,7 @@ cavidae
 cavie
 cavies
 caviya
+corpse
 cavyyard
 cavil
 caviled
@@ -25596,7 +25597,6 @@ corporification
 corporosity
 corposant
 corps
-corpse
 corpselike
 corage
 corpselikeness
