@@ -22685,6 +22685,7 @@ anisotropous
 adjt
 atmological
 atmologist
+axiopisty
 atmometer
 atmometric
 atmos
@@ -25115,7 +25116,6 @@ axiomatized
 axiomatizes
 axiomatizing
 axioms
-axiopisty
 axis
 axised
 axises
