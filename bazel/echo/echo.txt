@@ -11444,6 +11444,7 @@ epilogize
 evendown
 evene
 evener
+extraversion
 errite
 evenfall
 errands
@@ -14032,7 +14033,6 @@ extravasation
 extravehicular
 extravenate
 extraventricular
-extraversion
 extraversive
 effable
 extraversively
