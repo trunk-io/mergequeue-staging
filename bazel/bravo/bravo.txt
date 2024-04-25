@@ -9109,7 +9109,6 @@ biometries
 biometrist
 brendan
 biomicroscope
-biomicroscopy
 biomicroscopies
 biomorphic
 bion
@@ -13208,6 +13207,7 @@ bossdoms
 baldachinos
 bossed
 beacons
+biomicroscopy
 bosseyed
 bosselated
 bosselation
