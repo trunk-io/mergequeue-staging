@@ -98,7 +98,6 @@ facially
 facials
 facias
 faciata
-faciation
 forequoted
 facie
 faciend
@@ -8634,6 +8633,7 @@ forniciform
 farmsteading
 forninst
 factitious
+faciation
 fornix
 florence
 forold
