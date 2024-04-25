@@ -4403,7 +4403,6 @@ enamorado
 enamorate
 enamorato
 enamored
-enamoredness
 enamoring
 ennage
 enamorment
@@ -6361,6 +6360,7 @@ ensepulcher
 ensepulchered
 ensepulchering
 ensepulchre
+enamoredness
 enseraph
 enserf
 enserfed

@@ -1965,6 +1965,7 @@ banditti
 bandle
 bandleader
 bandless
+booked
 bejabers
 bandlessly
 bandlessness
@@ -12648,7 +12649,6 @@ bookcase
 bookcases
 bookcraft
 bookdealer
-booked
 bookend
 bushmaster
 bookends
