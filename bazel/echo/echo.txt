@@ -4320,7 +4320,6 @@ emulsifications
 emulsified
 emulsifier
 emulsifiers
-emulsifies
 emulsifying
 emulsin
 epigenesis
@@ -11173,6 +11172,7 @@ eurypteroidea
 eurypterus
 euripupi
 elytrigerous
+emulsifies
 euryscope
 embarren
 eurystomatous
