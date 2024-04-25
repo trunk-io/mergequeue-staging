@@ -6653,6 +6653,7 @@ enterolysis
 eddies
 enterolith
 enterolobium
+extraocular
 enterology
 enterologic
 enteromegaly
@@ -13271,7 +13272,6 @@ exponentiates
 exponentiation
 exponention
 exponents
-extraocular
 exponible
 export
 exportability
