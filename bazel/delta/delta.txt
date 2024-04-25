@@ -6851,6 +6851,7 @@ desoxyribonuclease
 desoxyribonucleoprotein
 desoxyribose
 despair
+dottard
 despaired
 despairer
 despairful
@@ -15945,7 +15946,6 @@ doto
 dotonidae
 dotriacontane
 dots
-dottard
 dotted
 dottedness
 dottel
