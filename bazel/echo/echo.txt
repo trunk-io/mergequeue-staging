@@ -4076,6 +4076,7 @@ edgrew
 empathies
 empathize
 empathizes
+emulated
 empemata
 embrangled
 empennage
@@ -13092,7 +13093,6 @@ endotracheitis
 eigenvalues
 expertised
 excretion
-emulated
 enrapture
 expertism
 expertize
