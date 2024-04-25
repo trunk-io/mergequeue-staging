@@ -2428,6 +2428,7 @@ electroless
 electrogalvanization
 evict
 electrolier
+epistolize
 extensum
 electrolyse
 everydeal
@@ -8264,7 +8265,6 @@ epistolise
 epistolised
 epistolising
 epistolization
-epistolize
 epistolizer
 epistolizing
 epistolography
