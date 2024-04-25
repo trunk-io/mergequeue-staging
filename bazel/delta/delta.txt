@@ -3566,7 +3566,6 @@ defusing
 defusion
 defuze
 dims
-defuzed
 defuzes
 deg
 degage
@@ -4124,6 +4123,7 @@ delightingly
 delightless
 delights
 delightsome
+defuzed
 delightsomely
 delightsomeness
 delignate
