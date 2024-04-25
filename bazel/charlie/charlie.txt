@@ -11794,7 +11794,6 @@ chondrosteous
 chondrosternal
 caracore
 chaffseed
-chondrotome
 chondrotomy
 chondroxiphoid
 chondrule
@@ -30808,6 +30807,7 @@ culpose
 culprit
 culrage
 culsdesac
+chondrotome
 cultch
 cultches
 cultellation
