@@ -3073,7 +3073,6 @@ elocation
 emmarbled
 elocular
 elocute
-elocution
 elocutionist
 elocutionize
 elocutive
@@ -13187,6 +13186,7 @@ empasma
 expletory
 explicability
 explicableness
+elocution
 explicably
 explicanda
 explicandum
