@@ -8672,6 +8672,7 @@ channels
 channelure
 channelwards
 channer
+criticizable
 chanoyu
 chanson
 chansonette
@@ -29534,7 +29535,6 @@ criticisingly
 criticism
 criticisms
 criticist
-criticizable
 criticize
 criticized
 criticizer
