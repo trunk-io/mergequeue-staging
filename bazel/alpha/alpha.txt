@@ -12486,6 +12486,7 @@ androsphinxes
 androsporangium
 androspore
 androsterone
+autogiros
 androtauric
 androtomy
 ands
@@ -24062,7 +24063,6 @@ afterswarming
 abrasiometer
 autogiro
 autogyro
-autogiros
 autogyros
 autognosis
 ambulators
