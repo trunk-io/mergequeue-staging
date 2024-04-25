@@ -2687,7 +2687,6 @@ fertiliser
 fertilising
 fertilitate
 fertility
-fructus
 fertilities
 fertilizability
 fertilizable
@@ -7353,6 +7352,7 @@ forage
 foraged
 foragement
 forager
+fructus
 foragers
 forages
 foraging
