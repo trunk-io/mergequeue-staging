@@ -4967,7 +4967,6 @@ demountability
 demountable
 demounted
 demounting
-demounts
 disgage
 dihydronaphthalene
 dempne
@@ -9809,6 +9808,7 @@ dilo
 decantherous
 dilogarithm
 dilations
+demounts
 dotages
 dilogical
 dilos
