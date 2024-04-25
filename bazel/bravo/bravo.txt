@@ -1242,7 +1242,6 @@ baksheesh
 baksheeshes
 bakshi
 bakshished
-bakshishes
 bakshishing
 baktun
 baku
@@ -2217,6 +2216,7 @@ barnacling
 bizant
 banter
 bantered
+bakshishes
 banterers
 bantery
 bantering
