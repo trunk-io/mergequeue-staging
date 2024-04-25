@@ -2674,6 +2674,7 @@ generals
 generalships
 generalty
 gooroo
+grows
 generant
 glances
 gallingness
@@ -9568,7 +9569,6 @@ grown
 grownup
 guardship
 gothicism
-grows
 gempylid
 growse
 growsome
