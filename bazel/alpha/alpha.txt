@@ -18195,7 +18195,6 @@ aquanaut
 aquanauts
 aquaphobia
 abdicated
-aquaplane
 aquaplaned
 aquaplaner
 aquaplanes
@@ -21949,6 +21948,7 @@ abote
 assurant
 assurate
 assurd
+aquaplane
 assure
 assured
 assuredly
