@@ -7006,6 +7006,7 @@ folkmotes
 folkmots
 folkright
 freekirker
+forwearied
 folks
 folksay
 folksey
@@ -8844,7 +8845,6 @@ forwarn
 forwean
 forwear
 forweary
-forwearied
 forwearying
 forweend
 forwelk
