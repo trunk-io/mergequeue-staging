@@ -559,7 +559,6 @@ gamodemes
 galleyworm
 galleons
 gallera
-gallery
 gallerian
 geopolitic
 glazier
@@ -8903,6 +8902,7 @@ grieced
 gentled
 griecep
 glossitic
+gallery
 grief
 griefful
 grieffully
