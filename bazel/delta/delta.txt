@@ -4135,7 +4135,6 @@ delignification
 delilah
 delim
 delimed
-delimes
 deliming
 dislocations
 delimit
@@ -5736,6 +5735,7 @@ deplorably
 deplorate
 deploration
 deplore
+delimes
 deplored
 dextrotropous
 deploredly
