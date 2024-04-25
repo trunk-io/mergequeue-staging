@@ -18560,7 +18560,6 @@ coinhabitor
 coinhere
 coinhered
 coinherence
-coinherent
 coinheres
 coinhering
 coinheritance
@@ -26974,6 +26973,7 @@ counteropening
 counteropposite
 counterorator
 counterorder
+coinherent
 counterorganization
 chkfile
 counterpace
