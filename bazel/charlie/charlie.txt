@@ -10348,7 +10348,6 @@ chemolytic
 chicle
 cyclopedical
 chiclero
-chicles
 chicly
 chicness
 chicnesses
@@ -15055,6 +15054,7 @@ citronellal
 comparison
 citronelle
 citronellol
+chicles
 citronin
 citronize
 citrons
