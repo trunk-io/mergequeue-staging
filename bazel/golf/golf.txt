@@ -5884,6 +5884,7 @@ glossaries
 gorier
 glossarize
 groins
+gweducs
 gifture
 glossas
 glossata
@@ -10845,7 +10846,6 @@ granoblastic
 gweduck
 germinatively
 gweducks
-gweducs
 granulize
 gweeon
 gwely

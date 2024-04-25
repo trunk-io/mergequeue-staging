@@ -2736,6 +2736,7 @@ cantata
 cantatas
 cantate
 cantation
+carbolate
 cantator
 cantatory
 cantatrice
@@ -3644,7 +3645,6 @@ carboy
 chontawood
 carboyed
 carboys
-carbolate
 carbolated
 carbolating
 carbolfuchsin
