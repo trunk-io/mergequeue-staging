@@ -8477,6 +8477,7 @@ flingdust
 formats
 formatter
 formatters
+frigorifico
 formatting
 flappering
 formazan
@@ -10104,7 +10105,6 @@ fashed
 frigorific
 freemen
 frigorifical
-frigorifico
 frigostable
 frigotherapy
 frigs
