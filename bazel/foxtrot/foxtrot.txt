@@ -2599,6 +2599,7 @@ ferris
 forweep
 fribblery
 ferrites
+focusable
 ferritic
 ferritins
 frolics
@@ -6737,7 +6738,6 @@ focometer
 focometry
 focsle
 focus
-focusable
 focused
 focusing
 focusless
