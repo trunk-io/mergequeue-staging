@@ -8359,7 +8359,6 @@ furnaceman
 ferriage
 forint
 forints
-forisfamiliate
 forisfamiliation
 forjaskit
 forjesket
@@ -9867,6 +9866,7 @@ frolicked
 frere
 freres
 frescade
+forisfamiliate
 frescoed
 ferity
 flavorlessness

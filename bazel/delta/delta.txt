@@ -1554,7 +1554,6 @@ deadpay
 deadpan
 deadpanned
 deadpanner
-deadpanning
 deadpans
 deadrise
 deadrize
@@ -13081,6 +13080,7 @@ diddered
 dysphonia
 dysphonic
 dysphoria
+deadpanning
 dysphoric
 dysphotic
 dysphrasia
