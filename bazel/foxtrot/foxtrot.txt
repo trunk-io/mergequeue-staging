@@ -767,7 +767,6 @@ follicule
 forkbeard
 fandangos
 fandom
-fane
 fanega
 flatness
 fanegada
@@ -4681,6 +4680,7 @@ forwarding
 fixups
 fixure
 forra
+fane
 fixures
 fizelyite
 fizgig
