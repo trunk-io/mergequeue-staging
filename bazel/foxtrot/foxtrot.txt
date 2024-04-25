@@ -428,7 +428,6 @@ formatted
 fouett
 faithed
 faithfulness
-faithing
 foodstuff
 faithless
 faithlessly
@@ -3622,6 +3621,7 @@ filemarks
 filemot
 filename
 filenames
+faithing
 filer
 filers
 filesave
