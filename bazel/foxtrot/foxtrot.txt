@@ -4153,7 +4153,6 @@ fir
 fadeless
 firbolg
 firca
-foregirth
 fyrd
 fortyfold
 furazane
@@ -11105,6 +11104,7 @@ funaria
 flavourful
 funariaceous
 fawningness
+foregirth
 funbre
 floyd
 functional
