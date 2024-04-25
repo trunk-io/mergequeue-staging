@@ -2559,7 +2559,6 @@ deco
 decoagulate
 decoagulated
 dorms
-decoagulation
 decoat
 decocainize
 decoct
@@ -13904,6 +13903,7 @@ dodecagonal
 distomiasis
 dystomic
 distomidae
+decoagulation
 destabilizing
 dystomous
 distomum
