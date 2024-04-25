@@ -1617,7 +1617,6 @@ gasohol
 gasolenes
 gasolier
 gasoliery
-gastropodous
 gangland
 gasoliers
 gasoline
@@ -6593,6 +6592,7 @@ goldbricker
 goldbrickers
 goldbricks
 goldbugs
+gastropodous
 goonies
 goldcrest
 goldeyes
