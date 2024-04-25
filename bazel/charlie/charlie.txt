@@ -4447,7 +4447,6 @@ carnose
 carnosin
 carnosine
 carnosity
-carnosities
 carnous
 carns
 caro
@@ -15414,6 +15413,7 @@ clanless
 clanned
 clannish
 clannishly
+carnosities
 clannishness
 clans
 clansfolk
