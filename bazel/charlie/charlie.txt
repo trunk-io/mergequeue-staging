@@ -3027,7 +3027,6 @@ capybara
 capybaras
 capilaceous
 croze
-capillaceous
 capillament
 capillarectasia
 capillary
@@ -3588,6 +3587,7 @@ carbamoyl
 carbanil
 carbanilic
 clotho
+capillaceous
 carbanilid
 carbanilide
 camden
