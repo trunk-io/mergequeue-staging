@@ -1429,6 +1429,7 @@ garments
 glutael
 glycollide
 garmenture
+gieaways
 garmentworker
 garn
 garnel
@@ -3957,7 +3958,6 @@ gids
 gie
 gye
 glazework
-gieaways
 gied
 gieing
 gaun
