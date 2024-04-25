@@ -200,7 +200,6 @@ factorship
 factotum
 factotums
 factrix
-factual
 factualism
 factualistic
 factuality
@@ -2609,6 +2608,7 @@ ferryway
 ferroaluminum
 ferrocalcite
 ferrocene
+factual
 ferrocerium
 ferrochrome
 ferrochromium
