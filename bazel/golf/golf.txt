@@ -1572,7 +1572,6 @@ gases
 gasfiring
 gash
 giraffe
-gashed
 gypsyweed
 grasses
 gasher
@@ -6796,6 +6795,7 @@ goners
 gonesome
 gonfalcon
 gonfalon
+gashed
 gammaridae
 gonfalonierate
 glagol
