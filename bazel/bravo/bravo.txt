@@ -7167,7 +7167,6 @@ bespot
 bespotted
 bespottedness
 bespotting
-bespouse
 bespoused
 bespouses
 bespousing
@@ -13528,6 +13527,7 @@ boulderhead
 bouldery
 bouldering
 boulders
+bespouse
 boules
 boulevard
 boulevardier
