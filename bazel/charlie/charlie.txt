@@ -10530,6 +10530,7 @@ chilies
 chylifaction
 chylifactive
 chylifactory
+crosslet
 chyliferous
 chylify
 chylific
@@ -29877,7 +29878,6 @@ caulicule
 crossite
 crossjack
 crossley
-crosslet
 crossleted
 crossly
 crosslight
