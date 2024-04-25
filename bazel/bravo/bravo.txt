@@ -10578,7 +10578,6 @@ blazingly
 blazon
 blazoned
 blazoner
-blazoning
 blazonment
 blazonry
 blazonries
@@ -16825,6 +16824,7 @@ bufo
 bufonid
 bufonidae
 bufotalin
+blazoning
 bufotenin
 bufotoxin
 bug
