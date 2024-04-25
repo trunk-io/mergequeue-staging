@@ -7567,7 +7567,6 @@ forebless
 feignedness
 fullface
 feezes
-forebode
 foreboded
 forebodement
 forebody
@@ -11373,6 +11372,7 @@ furfuran
 furfurans
 furfuration
 furfures
+forebode
 furfuryl
 furfurylidene
 floppily
