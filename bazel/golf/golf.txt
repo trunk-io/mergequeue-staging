@@ -5075,7 +5075,6 @@ gladwin
 grivois
 glaga
 glagolic
-gosain
 glaieul
 glaik
 glaiket
@@ -5912,6 +5911,7 @@ glossless
 glossmeter
 geod
 ganymedes
+gosain
 glossocarcinoma
 glossocele
 glossocoma
