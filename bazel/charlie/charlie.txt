@@ -1531,6 +1531,7 @@ calmnesses
 calms
 calocarpum
 calochortaceae
+coprostanol
 calochortus
 calodaemon
 calodemon
@@ -24750,7 +24751,6 @@ congruence
 coproprietorship
 coprose
 coprosma
-coprostanol
 coprostasia
 coprostasis
 coprostasophobia
