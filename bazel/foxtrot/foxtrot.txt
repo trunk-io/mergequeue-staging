@@ -2188,7 +2188,6 @@ felonous
 felonry
 felonsetter
 felonweed
-fermentitious
 felonwort
 fels
 fumbler
@@ -9044,6 +9043,7 @@ fountainlet
 fibrinogenic
 factorial
 fountainlike
+fermentitious
 filicite
 fountainous
 fountainously

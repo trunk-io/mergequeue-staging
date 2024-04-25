@@ -5245,7 +5245,6 @@ casten
 caster
 casterless
 casters
-castes
 casteth
 castice
 castigate
@@ -12750,6 +12749,7 @@ chukar
 chukchi
 chukka
 chukkar
+castes
 chukkars
 chukkas
 chukker
