@@ -9488,7 +9488,6 @@ groupment
 groupoid
 groups
 groupthink
-groupwise
 geitjie
 grouse
 gnashing
@@ -10566,6 +10565,7 @@ gunsman
 gunsmith
 grandiloquence
 glossotherium
+groupwise
 gambone
 geoscopic
 gunsmithing
