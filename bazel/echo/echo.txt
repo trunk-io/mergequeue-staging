@@ -7767,7 +7767,6 @@ epidermization
 epidermoid
 epidermoidal
 epidermophyton
-epidermophytosis
 epidermose
 epidermous
 epiderms
@@ -8677,6 +8676,7 @@ equiliria
 equilobate
 erinaceous
 equilobed
+epidermophytosis
 equilocation
 equilucent
 equimodal
