@@ -1672,7 +1672,6 @@ ballplatz
 bedrabbled
 ballpoint
 ballpoints
-ballrooms
 balls
 ballsy
 blandiloquious
@@ -9231,6 +9230,7 @@ baryes
 biotaxy
 biotech
 barotropy
+ballrooms
 biotechnics
 biotechnology
 barrett
