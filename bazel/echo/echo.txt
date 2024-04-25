@@ -7391,6 +7391,7 @@ epanorthidae
 epanorthoses
 epanorthosis
 epanorthotic
+exocoele
 epanthous
 epapillate
 epapophysis
@@ -12650,7 +12651,6 @@ exocytosis
 exoclinal
 exocline
 exocoelar
-exocoele
 exocoelic
 exocoelum
 exocoetidae
