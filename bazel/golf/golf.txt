@@ -1394,7 +1394,6 @@ gobs
 gargoyles
 glucoside
 gadzooks
-gargoylish
 gargoylishly
 gargoylism
 gargol
@@ -2017,6 +2016,7 @@ gaulin
 gaulish
 gaullism
 glints
+gargoylish
 gaullist
 gerundively
 gauloiserie
