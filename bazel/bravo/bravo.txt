@@ -1999,7 +1999,6 @@ bandor
 bandora
 bandore
 bronchium
-bandores
 bandos
 bandpass
 bandrol
@@ -7196,6 +7195,7 @@ besqueeze
 besquib
 besquirt
 besra
+bandores
 bess
 bessarabian
 brightly
