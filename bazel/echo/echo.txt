@@ -7812,7 +7812,6 @@ epigastrium
 epigastrocele
 epigeal
 euectic
-epigean
 epigee
 epigeic
 epigene
@@ -10585,6 +10584,7 @@ engrams
 expatriated
 etioporphyrin
 etypic
+epigean
 etypical
 etypically
 etiquet
