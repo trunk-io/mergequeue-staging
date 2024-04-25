@@ -1211,6 +1211,7 @@ datagram
 datakit
 datamation
 datana
+depicture
 datapac
 disported
 disenfranchise
@@ -5676,7 +5677,6 @@ depictive
 depictor
 depictors
 depicts
-depicture
 depictured
 depicturing
 depiedmontize
