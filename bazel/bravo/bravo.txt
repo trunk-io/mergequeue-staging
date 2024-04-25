@@ -3446,7 +3446,6 @@ basta
 bastaard
 bastant
 bastard
-bastarda
 bastardy
 bastardice
 bastardise
@@ -5262,6 +5261,7 @@ bromobenzene
 beggardom
 beggared
 beggarer
+bastarda
 beggarhood
 beggaring
 beggarism
