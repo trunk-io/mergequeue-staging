@@ -2441,7 +2441,6 @@ electrolysed
 electrolyser
 electrolyses
 electrolysing
-electrolysis
 electrolyte
 electrolithotrity
 electrolytic
@@ -5145,6 +5144,7 @@ endocrinopath
 embosser
 endocrinopathy
 endocrinopathic
+electrolysis
 endocrinotherapy
 endocrinous
 endocritic
