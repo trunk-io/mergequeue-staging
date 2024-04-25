@@ -11192,7 +11192,6 @@ eurythmical
 equisurface
 eurythmics
 eurythmies
-eurytomid
 eurytomidae
 eurytopic
 eurytopicity
@@ -12638,6 +12637,7 @@ exocardia
 ejected
 exocardiac
 extracardial
+eurytomid
 exocardial
 exocarps
 exocataphoria
