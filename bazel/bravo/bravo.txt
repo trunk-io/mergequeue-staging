@@ -7296,7 +7296,6 @@ bestrowing
 bestrown
 bestrows
 bestrut
-bests
 bestseller
 bestsellerdom
 bestsellers
@@ -15399,6 +15398,7 @@ brine
 brined
 brinehouse
 brineless
+bests
 briner
 briners
 brines
