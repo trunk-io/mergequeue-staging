@@ -11334,7 +11334,6 @@ chlorometry
 chlorometric
 coulombic
 chloromycetin
-chloronaphthalene
 chloronitrate
 chloropal
 chloropalladates
@@ -16374,6 +16373,7 @@ clitelliferous
 clitellum
 clitellus
 compile
+chloronaphthalene
 clites
 clithe
 clithridiate
