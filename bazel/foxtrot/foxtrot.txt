@@ -9352,7 +9352,6 @@ frailish
 frailness
 frailty
 fitches
-frailties
 frayne
 frayproof
 fraise
@@ -11442,6 +11441,7 @@ furnarius
 furner
 furnish
 furnishable
+frailties
 foregather
 furnished
 furnishes

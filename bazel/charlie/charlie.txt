@@ -532,7 +532,6 @@ cadres
 cads
 cadua
 caduac
-caduca
 caducary
 caducean
 caducecei
@@ -20284,6 +20283,7 @@ communalist
 crystallomancy
 communalistic
 communalization
+caduca
 communalize
 communalized
 communalizer
