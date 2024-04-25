@@ -7520,7 +7520,6 @@ gowkedly
 gowkedness
 grunch
 gorinesses
-groff
 gasthauses
 gowks
 gowl
@@ -8741,6 +8740,7 @@ greet
 greeted
 ginward
 greeter
+groff
 greeters
 greetingly
 greets
