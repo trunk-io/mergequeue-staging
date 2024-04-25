@@ -7133,7 +7133,6 @@ centricality
 centrically
 centricalness
 centricipital
-centriciput
 centricity
 centrifugalisation
 centrifugalise
@@ -9988,6 +9987,7 @@ chequerwork
 cheques
 caracals
 chequin
+centriciput
 chequinn
 chera
 craniopharyngioma
