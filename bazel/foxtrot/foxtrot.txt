@@ -956,6 +956,7 @@ farced
 farcelike
 farcemeat
 farcer
+ferroelectricity
 farces
 farcetta
 farceur
@@ -2614,7 +2615,6 @@ ferrocyanhydric
 ferroconcretor
 ferroelectric
 flukeless
-ferroelectricity
 ferroglass
 ferrogoslarite
 ferrohydrocyanic
