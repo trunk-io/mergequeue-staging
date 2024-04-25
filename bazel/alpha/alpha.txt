@@ -11243,7 +11243,6 @@ amphisbaenidae
 amphisbaenoid
 amphisbaenous
 amphiscians
-amphiscii
 amphisile
 ambilevous
 amphisilidae
@@ -20845,6 +20844,7 @@ anew
 arzun
 as
 asaddle
+amphiscii
 asafetida
 asafoetida
 assignat
