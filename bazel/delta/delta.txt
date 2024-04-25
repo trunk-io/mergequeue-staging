@@ -7803,7 +7803,6 @@ devulgarize
 devvel
 devwsor
 dew
-dewal
 dewan
 dewanee
 dewani
@@ -14800,6 +14799,7 @@ dowcet
 documentize
 documentor
 documents
+dewal
 decider
 dod
 dodd
