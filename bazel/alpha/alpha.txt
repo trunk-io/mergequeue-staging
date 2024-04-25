@@ -13388,7 +13388,6 @@ anisoptera
 anisopteran
 anisopterous
 anisosepalous
-anisospore
 anisostaminous
 anisosthenic
 adaptable
@@ -22470,6 +22469,7 @@ atelocardia
 ateloglossia
 atelognathia
 atelomyelia
+anisospore
 atelomitic
 atelophobia
 atelopodia
