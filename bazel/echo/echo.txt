@@ -5661,6 +5661,7 @@ enfranchisements
 enfranchiser
 enfranchises
 enfree
+exhaustlessly
 estampedero
 enfrenzy
 enfroward
@@ -12464,7 +12465,6 @@ exhaustive
 exhaustiveness
 exhaustivity
 exhaustless
-exhaustlessly
 eyght
 exhausts
 exhbn
