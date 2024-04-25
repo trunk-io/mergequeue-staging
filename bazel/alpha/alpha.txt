@@ -4682,7 +4682,6 @@ advertizement
 advertizer
 autocatharsis
 advertizes
-adverts
 advice
 advices
 advisability
@@ -10528,6 +10527,7 @@ amygdophenin
 amygdule
 amygdules
 amigos
+adverts
 amiidae
 amyl
 amylaceous

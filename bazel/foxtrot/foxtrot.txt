@@ -5565,6 +5565,7 @@ fly
 flyable
 flyaway
 flyback
+fruiting
 flyball
 flybane
 flibbertigibbet
@@ -10679,7 +10680,6 @@ fruity
 fruitier
 fruitiest
 frightable
-fruiting
 fruition
 fruitive
 fruitless
