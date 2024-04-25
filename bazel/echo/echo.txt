@@ -2765,6 +2765,7 @@ eleoblast
 eleocharis
 eleolite
 eleomargaric
+epicerebral
 eleometer
 eleonorite
 eleoplast
@@ -8824,7 +8825,6 @@ eradiate
 energising
 eradiated
 exhedra
-epicerebral
 eradiating
 eradiation
 essential
