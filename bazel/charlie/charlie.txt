@@ -8691,7 +8691,6 @@ chantage
 chantages
 chantant
 chantecler
-chanted
 chantefable
 chantey
 chanteyman
@@ -19015,6 +19014,7 @@ collenchymatous
 caricology
 collenchyme
 collencytal
+chanted
 collencyte
 colleri
 collery
