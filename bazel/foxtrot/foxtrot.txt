@@ -7563,7 +7563,6 @@ forebespeak
 forebye
 flaucht
 forebitten
-fizzing
 forebless
 feignedness
 fullface
@@ -10448,6 +10447,7 @@ frontlash
 frontless
 frontlessly
 frontlessness
+fizzing
 frontlet
 fease
 frontoauricular
