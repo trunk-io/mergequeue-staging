@@ -1551,7 +1551,6 @@ allesthesia
 accidentiality
 accidently
 accidia
-accidie
 accidies
 accinge
 accinged
@@ -21932,6 +21931,7 @@ assumpsit
 assumpt
 ash
 assumptionist
+accidie
 ambassage
 assumptions
 axiomatically

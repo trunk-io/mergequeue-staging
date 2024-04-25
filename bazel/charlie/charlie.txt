@@ -7587,7 +7587,6 @@ cerebronic
 cerebroparietal
 cerebropedal
 cerebrophysiology
-cerebropontile
 cerebropsychosis
 cerebrosclerosis
 cachexia
@@ -25523,6 +25522,7 @@ coronillo
 coronion
 coronis
 coronitis
+cerebropontile
 coronium
 coronobasilar
 coronofacial
