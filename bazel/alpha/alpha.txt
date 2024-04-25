@@ -13225,6 +13225,7 @@ animality
 animalities
 animalivore
 animalivorous
+aphthous
 animalization
 animalize
 animalized
@@ -19630,7 +19631,6 @@ arhythmia
 arhythmic
 arhythmical
 arhythmically
-aphthous
 ary
 aria
 arya
