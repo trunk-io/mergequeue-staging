@@ -21,6 +21,7 @@ baas
 baaskaap
 baaskaaps
 bevels
+bowtie
 baaskap
 baba
 babacoote
@@ -13853,7 +13854,6 @@ bowstrings
 bierstubes
 bowtel
 bowtell
-bowtie
 bielenite
 bowwow
 bowwows
