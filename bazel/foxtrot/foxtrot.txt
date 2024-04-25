@@ -909,7 +909,6 @@ falbala
 faq
 faqir
 faquir
-faquirs
 far
 farad
 faraday
@@ -4280,6 +4279,7 @@ firethorn
 firetop
 fatless
 firetower
+faquirs
 fubsier
 fermentative
 flatterers
