@@ -208,6 +208,7 @@ erythritic
 earthshine
 earthshock
 earthslide
+escopeta
 earthtongue
 elaterist
 earthwall
@@ -9575,7 +9576,6 @@ escocheon
 escolar
 escolars
 escopet
-escopeta
 exorcismal
 escopette
 entrenchments
