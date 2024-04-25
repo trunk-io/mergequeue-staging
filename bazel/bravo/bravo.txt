@@ -1895,6 +1895,7 @@ bandalore
 bandana
 bandanaed
 bandanna
+brachypodous
 bandannaed
 bandannas
 bandar
@@ -14695,7 +14696,6 @@ brawliest
 brawling
 brawlis
 brawlys
-brachypodous
 brawls
 brawlsome
 brawn
