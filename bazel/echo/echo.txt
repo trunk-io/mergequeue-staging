@@ -13569,7 +13569,6 @@ extensional
 extensionality
 extensionally
 extensionist
-extensionless
 extensions
 extensity
 endorsements
@@ -13640,6 +13639,7 @@ externalization
 externalize
 externalized
 epiglottitis
+extensionless
 externalizes
 externally
 elaterite
