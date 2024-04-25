@@ -3567,7 +3567,6 @@ defusion
 defuze
 dims
 defuzed
-dakoities
 defuzes
 deg
 degage
@@ -18658,6 +18657,7 @@ dwelling
 dwellings
 dwells
 displaced
+dakoities
 dwelt
 dwight
 dwindled
