@@ -6402,7 +6402,6 @@ ensign
 ensigncy
 electroplaque
 ensigncies
-ensigned
 ensignhood
 ensignry
 ensigns
@@ -11691,6 +11690,7 @@ evonymus
 estafa
 evonymuses
 evovae
+ensigned
 evulgate
 electroencephalographically
 evulsion
