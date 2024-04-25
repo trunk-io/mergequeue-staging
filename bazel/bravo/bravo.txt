@@ -1109,7 +1109,6 @@ bailouts
 bailpiece
 bails
 bayou
-bailsman
 bailsmen
 bailwood
 bayman
@@ -15109,6 +15108,7 @@ bribability
 bribable
 bribe
 bribeability
+bailsman
 bulblet
 bribeable
 bribed
