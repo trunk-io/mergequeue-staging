@@ -6960,7 +6960,6 @@ foliobranchiate
 foliocellosis
 folioed
 folioing
-foliolate
 foliole
 folioliferous
 foliolose
@@ -9362,6 +9361,7 @@ frakfurt
 fraktur
 fasciolet
 fram
+foliolate
 framable
 firring
 frambesia
