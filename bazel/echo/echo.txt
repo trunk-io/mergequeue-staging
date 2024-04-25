@@ -1120,7 +1120,6 @@ edile
 enserfs
 emunctory
 exanthematous
-epyllion
 ediles
 edility
 edinburgh
@@ -10416,6 +10415,7 @@ ethmopalatal
 enlacing
 ethmopalatine
 ethmophysal
+epyllion
 ethmopresphenoidal
 ethmose
 ethmosphenoid
