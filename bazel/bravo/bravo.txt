@@ -4797,7 +4797,6 @@ bedposts
 bedquilt
 bedquilts
 bourree
-bedrabble
 bluffing
 bedraggle
 bedraggled
@@ -7643,6 +7642,7 @@ bewildered
 bewilderedly
 bewilderedness
 bewildering
+bedrabble
 bewilderingly
 boasting
 bewilderment
