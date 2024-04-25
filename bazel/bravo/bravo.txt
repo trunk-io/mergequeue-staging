@@ -3401,7 +3401,6 @@ bassan
 bassanello
 bassanite
 bassara
-bassarid
 bassariscus
 bassarisk
 birlers
@@ -15183,6 +15182,7 @@ bridebed
 bridecake
 bridechamber
 bridecup
+bassarid
 bridegroom
 bridegrooms
 bluegown
