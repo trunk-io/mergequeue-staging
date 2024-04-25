@@ -7467,6 +7467,7 @@ betread
 betrend
 betrim
 betrinket
+buckeen
 betroth
 betrothals
 betrothed
@@ -16582,7 +16583,6 @@ buckboards
 buckbrush
 buckbush
 bucked
-buckeen
 bepuddle
 bushless
 buckeens
