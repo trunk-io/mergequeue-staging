@@ -11295,7 +11295,6 @@ amphitron
 amphitropal
 amphitropous
 amphitruo
-amphiuma
 amphiumidae
 amphivasal
 amphivorous
@@ -11755,6 +11754,7 @@ analepses
 analepsy
 analepsis
 analeptic
+amphiuma
 analeptical
 analgen
 analgene
