@@ -7527,7 +7527,6 @@ gowks
 gowl
 gowlan
 gown
-gowned
 galavanted
 gowning
 gownlet
@@ -8664,6 +8663,7 @@ gametogony
 gladiatorism
 greenheaded
 greenheart
+gowned
 greenhide
 gierfalcon
 greenhood
