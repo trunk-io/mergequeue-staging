@@ -101,7 +101,6 @@ dactylic
 dactylics
 dactylioglyph
 dactylioglyphy
-dactylioglyphic
 dactylioglyphist
 diazeutic
 dactyliographer
@@ -6239,6 +6238,7 @@ desophistication
 dermatoneural
 dermatoneurology
 dermatoneurosis
+dactylioglyphic
 dustuck
 disuniting
 dermatopathia
