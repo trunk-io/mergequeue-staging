@@ -9209,7 +9209,6 @@ almswomen
 almuce
 almuces
 almud
-almude
 almudes
 almuds
 almuerzo
@@ -10613,6 +10612,7 @@ aminish
 aminity
 aminities
 aminization
+almude
 aminize
 amino
 aminoacetal
