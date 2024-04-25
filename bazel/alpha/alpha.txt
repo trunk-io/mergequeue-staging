@@ -7958,7 +7958,6 @@ aleurones
 aleurons
 anthropoteleological
 aleuroscope
-aleut
 aleutian
 aneath
 aleutians
@@ -20936,6 +20935,7 @@ avgases
 ascenseur
 ascension
 amaritude
+aleut
 ascensional
 ascensionist
 ascensions
