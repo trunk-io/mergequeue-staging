@@ -5110,7 +5110,6 @@ endocyst
 endocystitis
 epistlar
 endocytosis
-endocytotic
 earthsmoke
 endoclinal
 endocline
@@ -11900,6 +11899,7 @@ elucidation
 edaciously
 excardination
 excathedral
+endocytotic
 excaudate
 excavates
 excavating
