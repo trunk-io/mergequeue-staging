@@ -2710,7 +2710,6 @@ doffing
 deconsideration
 decontaminate
 decontaminated
-decontaminates
 definable
 decontaminations
 duodenopancreatectomy
@@ -3147,6 +3146,7 @@ default
 deterministically
 defaultant
 defaulted
+decontaminates
 defaulters
 defaulting
 defaultless
