@@ -8027,7 +8027,6 @@ epipastic
 evaginate
 epipedometry
 epipelagic
-epipetalous
 epiphany
 epiphanic
 epiphanies
@@ -11287,6 +11286,7 @@ eigne
 euxine
 eva
 evacuant
+epipetalous
 evacuants
 evacuated
 evacuating
