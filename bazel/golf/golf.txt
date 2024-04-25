@@ -7696,7 +7696,6 @@ grossulariaceae
 grafship
 graft
 graftages
-grafted
 grafter
 grafters
 glutition
@@ -10096,6 +10095,7 @@ guetare
 guetre
 guffawing
 guffaws
+grafted
 guffer
 guffin
 guffs
