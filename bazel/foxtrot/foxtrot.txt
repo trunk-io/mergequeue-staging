@@ -5002,7 +5002,6 @@ flannelbush
 flanneled
 flannelet
 flannelette
-flannelflower
 flanneling
 firebox
 flannelleaf
@@ -7320,6 +7319,7 @@ footstools
 footway
 frontal
 footways
+flannelflower
 footwalk
 forbids
 footwall
