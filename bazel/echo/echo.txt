@@ -869,7 +869,6 @@ ectodermosis
 ectoentad
 ectoenzym
 ectoenzyme
-ectogeneous
 eddic
 ectogenesis
 ectogenetic
@@ -5300,6 +5299,7 @@ endorsors
 endosalpingitis
 epididymite
 endosarcous
+ectogeneous
 endosarcs
 endosclerite
 endoscope

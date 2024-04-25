@@ -2160,6 +2160,7 @@ groundline
 gaze
 gazebo
 glimpse
+gigadoid
 gazebos
 gazed
 gazee
@@ -3999,7 +4000,6 @@ gigabyte
 gigabytes
 glacon
 gigacycle
-gigadoid
 gigahertz
 gigahertzes
 gigaherz
