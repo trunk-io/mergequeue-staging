@@ -3908,7 +3908,6 @@ finality
 fundament
 finalities
 finalization
-finalize
 finalized
 finalizes
 fraternized
@@ -6270,6 +6269,7 @@ flowstone
 flrie
 flu
 fluate
+finalize
 fluavile
 flub
 flubbed
