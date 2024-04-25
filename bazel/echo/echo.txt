@@ -12504,7 +12504,6 @@ exhibits
 exhilarant
 exhilarate
 enocyte
-exhilarated
 exhilarates
 exasperation
 exhilarating
@@ -13199,6 +13198,7 @@ explication
 explications
 eventuation
 explicative
+exhilarated
 explicatively
 evanishes
 explicator
