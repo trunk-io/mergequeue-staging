@@ -891,6 +891,7 @@ ectoparasitic
 ectoparasitica
 ectopatagia
 exceptioner
+ergatomorphism
 ectopatagium
 ectophytic
 ectophloic
@@ -8966,7 +8967,6 @@ ergatogynous
 ergatoid
 ergatomorph
 ergatomorphic
-ergatomorphism
 ergo
 ergodic
 ergodicity
