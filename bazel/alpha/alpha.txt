@@ -4782,7 +4782,6 @@ aedileship
 aedilian
 aedilic
 aedility
-aedilitian
 aedilities
 aedoeagi
 aedoeagus
@@ -24343,6 +24342,7 @@ arg
 autoretardation
 astucity
 autorhythmic
+aedilitian
 autorhythmus
 autoriser
 autorotate
