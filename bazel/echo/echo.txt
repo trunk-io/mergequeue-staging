@@ -1660,7 +1660,6 @@ egrimony
 egritude
 egromancy
 egualmente
-egurgitate
 egurgitating
 eguttulate
 eheu
@@ -7684,6 +7683,7 @@ epicorolline
 epicostal
 esophagismus
 epicotyl
+egurgitate
 epicotyleal
 epicotyledonary
 epicotyls
