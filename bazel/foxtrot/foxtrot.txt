@@ -3083,7 +3083,6 @@ fibrillating
 fibrillation
 fibrillations
 forky
-fibrilled
 fibrilliferous
 fabraea
 fibrilliform
@@ -5391,6 +5390,7 @@ feirie
 fleeceflower
 fleeceless
 fleecelike
+fibrilled
 fleecer
 fleecers
 felicitate
