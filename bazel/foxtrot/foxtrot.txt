@@ -2199,6 +2199,7 @@ falsie
 felsitic
 felsobanyite
 felsophyric
+flammulation
 felsosphaerite
 felspar
 felspars
@@ -4962,7 +4963,6 @@ flammation
 flammed
 flammeous
 flamming
-flammulation
 footers
 flan
 flancard
