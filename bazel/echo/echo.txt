@@ -2839,7 +2839,6 @@ equiprobability
 elevation
 elevational
 eucalypt
-enjoyer
 eyren
 elevations
 elevato
@@ -8914,6 +8913,7 @@ eremophilous
 etagere
 erotology
 expressman
+enjoyer
 enterorrhaphy
 eremopteris
 eremuri
