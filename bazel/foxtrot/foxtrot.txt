@@ -8773,7 +8773,6 @@ fortypenny
 fortis
 fortissimi
 fortissimos
-fortitudinous
 fortlet
 fortnight
 frowst
@@ -9913,6 +9912,7 @@ freesp
 freshwater
 flunkeyistic
 freshwoman
+fortitudinous
 fresison
 fresne
 fresnel
