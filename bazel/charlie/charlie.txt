@@ -2380,7 +2380,6 @@ candlepins
 candlepower
 candlerent
 candlers
-candles
 candleshine
 candleshrift
 candlesnuffer
@@ -11998,6 +11997,7 @@ choripetalous
 choriphyllous
 chorisepalous
 chorisis
+candles
 curarized
 convection
 chorism
