@@ -10386,7 +10386,6 @@ chieftaincies
 chieftainess
 chieftainry
 chieftainries
-chieftains
 chieftainship
 chieftainships
 chieftess
@@ -26172,6 +26171,7 @@ cosovereign
 cochleae
 cosovereignty
 cospecies
+chieftains
 cospecific
 cosphered
 cosplendor
