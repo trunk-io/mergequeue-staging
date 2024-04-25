@@ -4527,6 +4527,7 @@ ginnel
 ginner
 ginnery
 gruffiness
+guesdist
 ginneries
 gloriam
 ginners
@@ -10053,7 +10054,6 @@ guerrillaship
 guesdism
 greaseproof
 guid
-guesdist
 guess
 guessable
 gamodeme
