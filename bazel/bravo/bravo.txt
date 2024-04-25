@@ -16117,7 +16117,6 @@ brotany
 brotchen
 brotel
 broth
-bothriolepis
 brothe
 brothel
 brotheler
@@ -16437,6 +16436,7 @@ beggingwise
 bruting
 brutish
 bowwort
+bothriolepis
 brutishly
 brutishness
 brutisms
