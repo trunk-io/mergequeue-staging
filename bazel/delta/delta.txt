@@ -4112,7 +4112,6 @@ delighter
 delightful
 delightfully
 delightfulness
-drizzles
 delightingly
 delightless
 delights
@@ -5714,6 +5713,7 @@ deploy
 deployed
 dorsiduct
 deploying
+drizzles
 deployment
 deployments
 deploitation
