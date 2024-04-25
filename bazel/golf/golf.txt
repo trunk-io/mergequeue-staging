@@ -5945,6 +5945,7 @@ glossopalatine
 glossopalatinus
 glossopathy
 geepound
+gis
 glossopetra
 generaliser
 glossophaga
@@ -7430,7 +7431,6 @@ gristmiller
 gourdy
 gourdiness
 gourding
-gis
 gourdlike
 gourds
 granuliferous
