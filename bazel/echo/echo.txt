@@ -1058,6 +1058,7 @@ edessan
 edestan
 edestin
 edestosaurus
+erumpent
 edge
 edgebone
 emyd
@@ -9424,7 +9425,6 @@ equimultiple
 erugo
 erugos
 erump
-erumpent
 erupt
 erupted
 eruptible
