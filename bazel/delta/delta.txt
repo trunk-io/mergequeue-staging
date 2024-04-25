@@ -6659,7 +6659,6 @@ designative
 designator
 desoxyephedrine
 designatory
-designators
 designed
 designedly
 designedness
@@ -11194,6 +11193,7 @@ disbands
 disbar
 dysbarism
 dasypaedal
+designators
 disbark
 disbarment
 doorframe
