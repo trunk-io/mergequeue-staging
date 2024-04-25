@@ -3816,7 +3816,6 @@ adessive
 adeste
 adeuism
 adevism
-adfected
 adffroze
 aburabozu
 adffrozen
@@ -15725,6 +15724,7 @@ antineuritic
 antineurotoxin
 antineutral
 abductor
+adfected
 antineutralism
 arachne
 antineutrality
