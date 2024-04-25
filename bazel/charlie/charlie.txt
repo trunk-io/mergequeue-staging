@@ -5236,7 +5236,6 @@ castellano
 castellans
 castellanship
 castellar
-castellate
 castellated
 castellation
 castellatus
@@ -26159,6 +26158,7 @@ chelura
 cosmosphere
 cosmotellurian
 cosmotheist
+castellate
 cosmotheistic
 cosmothetic
 cosmotron
