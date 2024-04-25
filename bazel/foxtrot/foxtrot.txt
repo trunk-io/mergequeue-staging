@@ -2203,6 +2203,7 @@ falsie
 felsitic
 felsobanyite
 felsophyric
+fungoids
 flammulation
 felsosphaerite
 felspar
@@ -11226,7 +11227,6 @@ flor
 farmerette
 fungoes
 fungoid
-fungoids
 fungology
 fungological
 fungologist
