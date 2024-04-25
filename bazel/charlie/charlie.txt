@@ -2619,7 +2619,6 @@ cannophori
 cannot
 cannstatt
 cannula
-cannulae
 cannular
 cannulas
 cannulate
@@ -30208,6 +30207,7 @@ crummy
 crummie
 crummier
 crummies
+cannulae
 crummiest
 crumminess
 crumming

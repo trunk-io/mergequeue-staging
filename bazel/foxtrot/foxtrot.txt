@@ -9474,7 +9474,6 @@ franseria
 facing
 frantic
 frantically
-franticly
 freeloading
 flybook
 franz
@@ -9694,6 +9693,7 @@ freeholding
 freeholds
 freeing
 freeings
+franticly
 freeish
 fluviograph
 freelance
