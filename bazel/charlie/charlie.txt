@@ -17561,7 +17561,6 @@ coccosteid
 coccosteidae
 coccosteus
 coccothraustes
-coccothraustine
 coccothrinax
 chromatodysopia
 coccule
@@ -19230,6 +19229,7 @@ colluviums
 copolymerous
 colmar
 colmars
+coccothraustine
 colmose
 colnaria
 colob
