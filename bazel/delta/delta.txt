@@ -1992,7 +1992,6 @@ decahedrodra
 decahedron
 decahedrons
 decahydrate
-decahydrated
 decahydronaphthalene
 decay
 decayable
@@ -6296,6 +6295,7 @@ downs
 dermoblast
 dermobranchia
 dermobranchiata
+decahydrated
 dermobranchiate
 dermococcus
 dermogastric
