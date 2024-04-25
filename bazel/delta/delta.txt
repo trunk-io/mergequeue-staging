@@ -124,7 +124,6 @@ dactylographic
 dactyloid
 dactylology
 dactylomegaly
-dactylonomy
 dactylopatagium
 dactylopore
 dactylopteridae
@@ -6295,6 +6294,7 @@ dermestoid
 dermic
 dermis
 dermises
+dactylonomy
 demurs
 dermitis
 downs
