@@ -1795,7 +1795,6 @@ featherman
 feathermonger
 fackings
 featherpate
-featherpated
 feathers
 featherstitch
 featherstitching
@@ -11429,6 +11428,7 @@ furmenties
 furmint
 freeboard
 factions
+featherpated
 furmity
 furmities
 furnace
