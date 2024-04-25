@@ -2258,7 +2258,6 @@ gaseliers
 gecko
 goas
 geckoes
-geckoid
 geckotid
 geckotidae
 gecks
@@ -6288,6 +6287,7 @@ gnathostegite
 grubberies
 gnathostomata
 gnathostome
+geckoid
 gnathostomi
 gnathotheca
 goosing
