@@ -3288,7 +3288,6 @@ capsella
 capshore
 capsian
 capsicin
-capsicins
 capsicum
 capsicums
 capsid
@@ -15702,6 +15701,7 @@ claval
 clavaria
 clavariaceae
 clavariaceous
+capsicins
 clavate
 clavated
 clavately
