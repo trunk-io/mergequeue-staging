@@ -6542,7 +6542,6 @@ elaeomargaric
 electrojet
 excuss
 entamoebic
-entangle
 entangleable
 entangled
 entangledness
@@ -8812,6 +8811,7 @@ equivoluminal
 equivoque
 equivorous
 equivote
+entangle
 equoid
 equoidean
 equulei
