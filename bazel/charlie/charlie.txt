@@ -1224,6 +1224,7 @@ calibration
 calibrations
 calibrators
 calibre
+causes
 calibred
 calibres
 caliburn
@@ -6219,7 +6220,6 @@ causeless
 causelessness
 causerie
 causers
-causes
 causeur
 causeuse
 causeuses
