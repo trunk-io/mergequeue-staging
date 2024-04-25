@@ -6378,7 +6378,6 @@ goaling
 goalkeeper
 goalkeeping
 goalless
-goalmouth
 gillyflower
 greeting
 goalpost
@@ -10650,6 +10649,7 @@ gauze
 gigmanism
 guests
 gurniad
+goalmouth
 gurr
 gerodontia
 gurry
