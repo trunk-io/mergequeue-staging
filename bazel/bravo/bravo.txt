@@ -4615,6 +4615,7 @@ bedaubing
 bedaubs
 bedlike
 bedawee
+bryozoa
 bedawn
 bedaze
 bedazed
@@ -15470,7 +15471,6 @@ bryophyta
 bryophyte
 bryophytes
 bryophytic
-bryozoa
 bryozoans
 bryozoon
 bywalker
