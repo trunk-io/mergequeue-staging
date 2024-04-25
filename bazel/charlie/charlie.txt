@@ -17672,6 +17672,7 @@ cocoons
 cocopan
 cocopans
 cocoroot
+comply
 cocos
 cocotte
 cocottes
@@ -20997,7 +20998,6 @@ comptroller
 comptrollers
 comptrollership
 compts
-comply
 compulsative
 compulsatively
 compulsatory
