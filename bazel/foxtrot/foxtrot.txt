@@ -3109,7 +3109,6 @@ fishfall
 fibrinoplastin
 fibrinopurulent
 fibrinosis
-fibrinous
 fibrins
 fibrinuria
 farcy
@@ -10238,6 +10237,7 @@ fritniency
 frits
 fraising
 fritt
+fibrinous
 fritted
 fritter
 frittering
