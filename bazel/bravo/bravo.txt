@@ -408,6 +408,7 @@ backheel
 backhoe
 backhooker
 backhouse
+biblioklept
 backhouses
 backy
 bristler
@@ -7925,7 +7926,6 @@ bealtuinn
 bibliographize
 bipyridine
 boutell
-biblioklept
 bibliokleptomania
 bibliokleptomaniac
 bibliolater
