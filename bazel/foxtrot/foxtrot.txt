@@ -1460,7 +1460,6 @@ fabaceous
 fattening
 fattens
 fatter
-fattest
 fatty
 fattier
 fattiest
@@ -5509,6 +5508,7 @@ fletchers
 fletches
 fletchings
 fletton
+fattest
 fleur
 farted
 fleuret
