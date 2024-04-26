@@ -4676,6 +4676,7 @@ advice
 advices
 advisability
 advisableness
+antiliturgic
 advisably
 avenue
 advisal
@@ -15504,7 +15505,6 @@ antilithic
 antilytic
 antilitter
 antiliturgy
-antiliturgic
 adjutancy
 aspermia
 antiliturgical
