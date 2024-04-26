@@ -10022,7 +10022,6 @@ eucharist
 estimableness
 estimably
 estimated
-estimates
 estimating
 estimation
 estimations
@@ -12693,6 +12692,7 @@ exogamies
 exogamous
 exogastrically
 exogen
+estimates
 exogenae
 exteriorized
 eyeshine
