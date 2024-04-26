@@ -7805,6 +7805,7 @@ graminin
 graminivore
 graminivorous
 graminology
+groupwise
 graminological
 graminous
 grammalogue
@@ -10567,7 +10568,6 @@ gunsman
 gunsmith
 grandiloquence
 glossotherium
-groupwise
 gambone
 geoscopic
 gunsmithing
