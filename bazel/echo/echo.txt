@@ -3723,7 +3723,6 @@ erythroid
 embrocation
 evectic
 embrocations
-embroche
 embroglio
 embroglios
 ectypal
@@ -5381,6 +5380,7 @@ emerituti
 elamitic
 epigoneion
 endothelial
+embroche
 endotheliocyte
 endothelioid
 endotheliolytic
