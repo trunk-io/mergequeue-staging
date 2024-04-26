@@ -6119,6 +6119,7 @@ enneads
 enneaeteric
 enneagonal
 enneagons
+erroneousness
 enneahedral
 enneahedria
 enneahedron
@@ -9358,7 +9359,6 @@ errhines
 erring
 erron
 erroneously
-erroneousness
 error
 errordump
 errorful
