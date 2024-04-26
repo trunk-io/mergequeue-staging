@@ -2698,6 +2698,7 @@ grows
 generant
 glances
 gallingness
+gutti
 gilt
 goto
 gilbertian
@@ -10771,7 +10772,6 @@ guttersnipe
 guttersnipes
 gutterspout
 gutterwise
-gutti
 goblet
 gutty
 guttide
