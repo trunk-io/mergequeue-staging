@@ -4139,6 +4139,7 @@ fiorin
 fiorite
 fioriture
 fippence
+flyball
 fipple
 fiqh
 fique
@@ -5562,7 +5563,6 @@ flyable
 flyaway
 flyback
 fruiting
-flyball
 flybane
 flibbertigibbet
 flibbertigibbety
