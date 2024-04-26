@@ -11841,6 +11841,7 @@ choppiness
 chopping
 chops
 chopstick
+consumptional
 chopsticks
 chopunnish
 chora
@@ -23265,7 +23266,6 @@ consumo
 consumpted
 consumptible
 consumption
-consumptional
 consumptions
 consumptive
 consumptively

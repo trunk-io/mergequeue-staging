@@ -1704,6 +1704,7 @@ accordature
 aeroperitonia
 accorded
 accorder
+acidimeter
 accorders
 according
 accordingly
@@ -16032,7 +16033,6 @@ antipruritic
 antipsalmist
 antipsychiatry
 archimperialistic
-acidimeter
 antipsychotic
 antipsoric
 antiptosis
