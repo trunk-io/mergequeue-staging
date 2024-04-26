@@ -2495,6 +2495,7 @@ bardlet
 bardlike
 bardling
 bardo
+bunns
 bardocucullus
 bardolater
 bardolatry
@@ -17451,7 +17452,6 @@ bunny
 bunnia
 bunnies
 bunning
-bunns
 bezants
 bunodont
 bunodonta
