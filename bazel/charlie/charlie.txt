@@ -13135,6 +13135,7 @@ ciborium
 ciboule
 ciboules
 cyc
+confines
 cicad
 cycad
 cycadaceae
@@ -22003,7 +22004,6 @@ confineless
 confinement
 confinements
 confiners
-confines
 confining
 confinity
 confirm
