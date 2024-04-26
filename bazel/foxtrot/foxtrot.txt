@@ -133,6 +133,7 @@ faconde
 faconne
 facsim
 facsimile
+fishwives
 facsimiled
 facsimileing
 facsimiles
@@ -4447,7 +4448,6 @@ fishways
 fishweed
 foothils
 fishweir
-fishwives
 fishwoman
 fishwood
 fishworker
