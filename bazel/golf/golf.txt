@@ -2908,7 +2908,6 @@ genthite
 gentian
 gentiana
 gentianella
-gentianose
 gentians
 gentianwort
 gristly
@@ -6749,6 +6748,7 @@ gomukhi
 gomutis
 gon
 gonad
+gentianose
 geopolitician
 gonadal
 glossematics
