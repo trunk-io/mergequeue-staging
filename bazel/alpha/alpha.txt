@@ -6895,6 +6895,7 @@ aircraftsmen
 aircraftswoman
 aircraftswomen
 aircraftwoman
+allotments
 aircrew
 aircrewman
 aircrewmen
@@ -9009,7 +9010,6 @@ allotypically
 admirator
 allotypies
 allotment
-allotments
 allotransplant
 allotransplantation
 allotriodontia
