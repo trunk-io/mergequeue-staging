@@ -6626,7 +6626,6 @@ engineery
 enterocleisis
 enteroclisis
 enterococcal
-enterococcus
 enterocoel
 enterocoela
 enterocoele
@@ -11911,6 +11910,7 @@ excecate
 excecation
 excedent
 exceed
+enterococcus
 exceedable
 erump
 endogamies
