@@ -8480,7 +8480,6 @@ dianthaceae
 dianthera
 diantre
 diapase
-diapasm
 diapasonal
 despot
 diapasons
@@ -13325,6 +13324,7 @@ directrices
 disquarter
 disquiet
 disquieted
+diapasm
 disquietedly
 disquietedness
 disquieten

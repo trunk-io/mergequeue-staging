@@ -4462,7 +4462,6 @@ carob
 caroba
 caroch
 caroche
-caroches
 caroigne
 carol
 carolan
@@ -20900,6 +20899,7 @@ compregnate
 comprehend
 comprehended
 comprehender
+caroches
 comprehendible
 comprehending
 cyclonology
