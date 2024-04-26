@@ -1722,7 +1722,6 @@ feist
 fearingly
 fearless
 fearlessness
-fearnaught
 fearnought
 fears
 frisket
@@ -2201,6 +2200,7 @@ felsophyric
 fungoids
 flammulation
 felsosphaerite
+fearnaught
 felspar
 felspars
 felspath
