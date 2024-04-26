@@ -6304,7 +6304,6 @@ bensail
 bensall
 bensel
 bensell
-bensh
 basural
 bumbler
 beautician
@@ -9181,6 +9180,7 @@ biosatellite
 becking
 biosatellites
 biosciences
+bensh
 bathmotropic
 bioscientific
 bioscientist
