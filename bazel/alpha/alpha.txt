@@ -8996,7 +8996,6 @@ allotheism
 allotheria
 amused
 allothigene
-allothigenetic
 allothigenetically
 allothigenic
 allothigenous
@@ -19952,6 +19951,7 @@ armistices
 armit
 armitas
 armyworm
+allothigenetic
 armyworms
 armless
 armlessness
