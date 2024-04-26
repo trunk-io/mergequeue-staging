@@ -807,7 +807,6 @@ goatherd
 galvanoscope
 gibbers
 guerdon
-graffito
 galvanoscopy
 gustiness
 galvanoscopic
@@ -1385,6 +1384,7 @@ garglers
 gargling
 gargoyle
 gargoyley
+graffito
 gobs
 gargoyles
 glucoside
