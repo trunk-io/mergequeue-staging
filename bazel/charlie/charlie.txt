@@ -1734,7 +1734,6 @@ camases
 camass
 camasses
 contractive
-camassia
 camata
 camatina
 canacuas
@@ -9019,6 +9018,7 @@ charity
 charities
 charityless
 charivan
+camassia
 charivari
 charivaried
 carpophaga
