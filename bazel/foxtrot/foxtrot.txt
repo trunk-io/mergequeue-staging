@@ -9655,7 +9655,6 @@ freeborn
 freechurchism
 freed
 freedman
-facete
 freedmen
 furthest
 freedom
@@ -10469,6 +10468,7 @@ frontrunner
 fronts
 frontsman
 frontspieces
+facete
 frontstall
 fronture
 frontward
