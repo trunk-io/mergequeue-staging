@@ -6387,7 +6387,6 @@ fluyt
 foulage
 fluitant
 fluyts
-fluke
 fluked
 flukey
 freakful
@@ -6904,6 +6903,7 @@ foresettle
 foldaway
 foldboat
 foldboater
+fluke
 farmings
 foldboating
 foldboats
