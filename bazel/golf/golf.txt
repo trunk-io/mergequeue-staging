@@ -5189,7 +5189,6 @@ glareolidae
 guanayes
 glareproof
 geswarp
-glares
 glareworm
 glary
 grazer
@@ -6548,6 +6547,7 @@ goi
 greyer
 goy
 goiabada
+glares
 goyana
 goyazite
 goidel
