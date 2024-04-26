@@ -1839,7 +1839,6 @@ gastromenia
 gastromyces
 gastromycosis
 gastronephritis
-gastronome
 gastronomer
 gastronomes
 gastronomical
@@ -5181,6 +5180,7 @@ geswarp
 glareworm
 glary
 grazer
+gastronome
 gyrose
 glaziness
 glariest
