@@ -5135,7 +5135,6 @@ flateria
 festerment
 flatette
 flatfeet
-flatfish
 flatfishes
 flatfoot
 flatfooted
@@ -11451,6 +11450,7 @@ furnishes
 functionated
 furnishing
 feebler
+flatfish
 furnishings
 fudges
 furnishment
