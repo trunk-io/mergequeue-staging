@@ -11606,6 +11606,7 @@ boathead
 boathook
 boathouse
 boathouses
+bodhi
 boatyard
 boatyards
 boatie
@@ -11768,7 +11769,6 @@ bodeword
 bodge
 bodger
 bodgery
-bodhi
 bodybending
 bakshis
 bodybuilder
