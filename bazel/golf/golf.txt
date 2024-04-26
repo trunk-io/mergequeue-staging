@@ -671,7 +671,6 @@ gallize
 gallnut
 gallnuts
 gallocyanine
-gyrotheca
 galloflavin
 galloglass
 greekish
@@ -1896,6 +1895,7 @@ gastrostomies
 gastrostomize
 gastrostomus
 girandola
+gyrotheca
 gastrotaxis
 greenwing
 gastrotheca
