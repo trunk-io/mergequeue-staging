@@ -13051,7 +13051,6 @@ angulosity
 angulous
 angulus
 anguria
-angus
 anguses
 angust
 anticrotalic
@@ -20403,6 +20402,7 @@ arshins
 arsyl
 arsylene
 arsine
+angus
 arsinic
 anticult
 arsino
