@@ -5019,7 +5019,6 @@ gladding
 glade
 gladelike
 glades
-gladful
 gonzo
 gladfulness
 gladhearted
@@ -8671,6 +8670,7 @@ gametogony
 gladiatorism
 greenheaded
 greenheart
+gladful
 gowned
 greenhide
 gierfalcon

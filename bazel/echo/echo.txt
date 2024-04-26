@@ -2245,7 +2245,6 @@ electral
 electre
 electrepeter
 electress
-electret
 electrets
 exostosis
 electric
@@ -3497,6 +3496,7 @@ emblems
 emblic
 embloom
 encryptions
+electret
 eringoes
 embodied
 embodier
