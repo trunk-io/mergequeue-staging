@@ -11268,6 +11268,7 @@ blowpit
 bolster
 blows
 blowse
+botargo
 blowsed
 blowsy
 blowsier
@@ -13273,7 +13274,6 @@ botanomancy
 botanophile
 brickwise
 botryomyces
-botargo
 botargos
 botas
 botaurinae
