@@ -2591,6 +2591,7 @@ electroretinography
 endorsation
 exotheca
 ecophobia
+engyscope
 electroretinographic
 electros
 expensive
@@ -5751,7 +5752,6 @@ engirdling
 engirds
 engirt
 engiscope
-engyscope
 engysseismology
 electrostatics
 episcias
