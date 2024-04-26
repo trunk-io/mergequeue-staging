@@ -4821,6 +4821,7 @@ cartilages
 cartilaginean
 cartilaginei
 cartilagineous
+cholesterinic
 cartilagines
 cartilaginification
 cartilaginoid
@@ -11609,7 +11610,6 @@ cholesteric
 cholesteryl
 cholesterin
 cholesterinemia
-cholesterinic
 cholesterinuria
 cholesterol
 cholesterolemia
