@@ -7861,7 +7861,6 @@ alecup
 alee
 alef
 alefnull
-alefs
 aleft
 alefzero
 alegar
@@ -20387,6 +20386,7 @@ animating
 arsenotherapy
 arsenotungstates
 arsenotungstic
+alefs
 arsenous
 arsenoxide
 arses
