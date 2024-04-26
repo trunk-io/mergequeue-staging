@@ -5853,6 +5853,7 @@ engrapple
 engrasp
 engraulis
 engrave
+explainable
 engraved
 engravement
 engraven
@@ -11849,7 +11850,6 @@ eireannach
 exercised
 eth
 exarteritis
-explainable
 exarticulate
 exarticulation
 electroencephalography
