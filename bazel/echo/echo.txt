@@ -2921,6 +2921,7 @@ elymi
 eutechnic
 eliminable
 eliminand
+epistomal
 eliminant
 eliminate
 eliminated
@@ -8267,7 +8268,6 @@ epistolographic
 epistolographist
 empale
 epistoma
-epistomal
 epistomata
 epistome
 epistomian
