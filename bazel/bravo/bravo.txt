@@ -4131,7 +4131,6 @@ bibbs
 beaproned
 bear
 bearability
-bearable
 bearableness
 bearably
 benzolate
@@ -8294,6 +8293,7 @@ biflex
 biflorate
 biflorous
 bifluorid
+bearable
 bifluoride
 bifocal
 bifocals
