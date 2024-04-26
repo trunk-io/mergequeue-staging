@@ -5249,6 +5249,7 @@ bobbled
 begaze
 branny
 begazes
+bowkail
 begazing
 begemmed
 begemming
@@ -13786,7 +13787,6 @@ bowing
 bowingly
 bowings
 bowk
-bowkail
 bedcap
 bowker
 bowknot
