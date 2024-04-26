@@ -7183,7 +7183,6 @@ centrode
 centrodesmose
 centrodorsal
 centrodorsally
-centroid
 centroidal
 centroids
 centrolecithal
@@ -11190,6 +11189,7 @@ chlorambucil
 chloramide
 counterculturist
 chloramin
+centroid
 chloramine
 chloramphenicol
 chloranaemia
