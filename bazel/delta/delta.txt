@@ -390,6 +390,7 @@ dailiness
 daylit
 daylong
 dayman
+disilluminate
 daymare
 daymares
 daymark
@@ -12412,7 +12413,6 @@ disyllabized
 decarch
 disillude
 disilluded
-disilluminate
 disillusionary
 disillusioned
 disillusioning
