@@ -20,6 +20,7 @@ baar
 baas
 baaskaap
 baaskaaps
+banderoles
 bevels
 bowtie
 baaskap
@@ -1923,7 +1924,6 @@ banderol
 banderole
 banderoled
 berk
-banderoles
 banderoling
 banderols
 banders
