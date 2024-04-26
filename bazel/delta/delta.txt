@@ -97,6 +97,7 @@ dactylic
 dactylics
 dactylioglyph
 dactylioglyphy
+decrepitated
 dactylioglyphist
 diazeutic
 dactyliographer
@@ -2797,7 +2798,6 @@ decremeter
 decrepid
 decrepit
 decrepitate
-decrepitated
 decrepitating
 decrepitation
 decrepity
