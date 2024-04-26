@@ -625,7 +625,6 @@ faltered
 falterer
 falterers
 faltering
-foretrysail
 falteringly
 flaggingly
 falters
@@ -11273,6 +11272,7 @@ funking
 fleerish
 familiarisation
 funks
+foretrysail
 funli
 funmaker
 funmaking
