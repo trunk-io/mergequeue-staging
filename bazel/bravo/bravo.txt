@@ -10086,7 +10086,6 @@ biberon
 blachong
 black
 blackacre
-blackamoors
 broguish
 blackarm
 boccia
@@ -11659,6 +11658,7 @@ bobbin
 bobbinet
 bribeless
 bobbinite
+blackamoors
 bobbins
 bobbinwork
 bobbish
