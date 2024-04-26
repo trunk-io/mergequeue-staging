@@ -9535,7 +9535,6 @@ digitizer
 digitizes
 digitizing
 differentia
-digitogenin
 digitonin
 digitoplantar
 digitoxin
@@ -18596,6 +18595,7 @@ duteously
 duteousness
 deairing
 duty
+digitogenin
 dutiability
 dutied
 dechoralize

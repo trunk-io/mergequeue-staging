@@ -9135,7 +9135,6 @@ charterist
 charterless
 chartermaster
 charters
-charthouse
 charting
 chartings
 chartism
@@ -15941,6 +15940,7 @@ cleoid
 cleome
 cleomes
 cleopatra
+charthouse
 cleped
 clepes
 cleping
