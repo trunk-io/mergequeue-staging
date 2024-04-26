@@ -17384,7 +17384,6 @@ apoplastogamous
 apoplectical
 apoplectically
 apoplectiform
-apoplectoid
 apoplex
 apoplexy
 apoplexious
@@ -22384,6 +22383,7 @@ aswarm
 aswash
 asweat
 aswell
+apoplectoid
 aswim
 aswirl
 aswithe
