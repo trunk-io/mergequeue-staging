@@ -7881,7 +7881,6 @@ epigrams
 epigraph
 edgeways
 epigrapher
-eftest
 epigraphy
 egyptianization
 epigraphic
@@ -11518,6 +11517,7 @@ everyway
 everywhen
 everywhence
 everywhereness
+eftest
 everywheres
 everywoman
 everlasting
