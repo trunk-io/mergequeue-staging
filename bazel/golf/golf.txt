@@ -6737,7 +6737,6 @@ gluiest
 gomphocarpus
 grasshouse
 garbless
-gomphosis
 gomphrena
 gomukhi
 gomutis
@@ -9485,6 +9484,7 @@ groupage
 groupageness
 grouped
 gyroidal
+gomphosis
 grouper
 girderless
 groupies

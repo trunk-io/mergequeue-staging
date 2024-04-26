@@ -14065,7 +14065,6 @@ brachistocephaly
 broddle
 brachistocephalic
 brachistochrone
-brachistochronic
 brachistochronous
 brachystomata
 brachystomatous
@@ -17299,6 +17298,7 @@ bumpier
 buccobranchial
 bumpiest
 bumpily
+brachistochronic
 bumpiness
 bumping
 bumpingly
