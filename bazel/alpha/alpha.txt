@@ -6663,7 +6663,6 @@ ahrimanian
 ahs
 autophyllogeny
 ahsan
-aht
 ahtena
 ahu
 ahuaca
@@ -22380,6 +22379,7 @@ aswarm
 aswash
 asweat
 aswell
+aht
 aswim
 aswirl
 aswithe

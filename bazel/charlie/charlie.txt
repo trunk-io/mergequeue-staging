@@ -3888,6 +3888,7 @@ cardecu
 carded
 cardel
 carder
+concessional
 carders
 cardholder
 cardholders
@@ -21305,7 +21306,6 @@ concessible
 concession
 concessionaire
 concessionaires
-concessional
 concessionary
 concessioner
 concessionist
