@@ -5963,6 +5963,7 @@ glossoplegia
 glossopodium
 glimpser
 groggeries
+greedygut
 glossopteris
 genearch
 glossoptosis
@@ -8617,7 +8618,6 @@ greed
 greedy
 greedier
 greediest
-greedygut
 greedily
 greediness
 greedless
