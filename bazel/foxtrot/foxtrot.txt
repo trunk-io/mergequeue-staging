@@ -6102,7 +6102,6 @@ floriken
 florilage
 florilegia
 florilegium
-florimania
 florimanist
 florin
 florins
@@ -7277,6 +7276,7 @@ footrace
 fricandeau
 footraces
 footrail
+florimania
 footrests
 footrope
 footropes
