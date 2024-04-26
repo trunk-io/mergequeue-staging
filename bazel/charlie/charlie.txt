@@ -17282,7 +17282,6 @@ coastings
 coastland
 coastlines
 coastman
-coastmen
 coasts
 coastside
 coastwaiter
@@ -27744,6 +27743,7 @@ coxcombical
 coxcombicality
 coxcombically
 coxcombity
+coastmen
 coxcombries
 coxcombs
 coxcomical
