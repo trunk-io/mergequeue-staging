@@ -8620,7 +8620,6 @@ chanfron
 chanfrons
 chang
 changa
-changable
 changar
 change
 changeability
@@ -28927,6 +28926,7 @@ cribrate
 cribrately
 cribration
 cribriform
+changable
 cribriformity
 cribrose
 cribrosity
