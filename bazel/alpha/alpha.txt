@@ -20656,7 +20656,6 @@ arthrotomy
 antituberculin
 arthrotomies
 arthrotrauma
-arthrotropic
 arthrous
 adela
 arthroxerosis
@@ -25180,6 +25179,7 @@ axoplasmic
 axoplasms
 axopodia
 axopodium
+arthrotropic
 axospermous
 antitax
 axostyle
