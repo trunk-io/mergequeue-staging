@@ -2936,7 +2936,6 @@ gaetulan
 gentleman
 gentlemanism
 grasped
-genos
 gentlemanize
 gentlemanly
 gentlemanlikeness
@@ -9832,6 +9831,7 @@ guamachil
 guamuchil
 garbanzos
 guana
+genos
 guanabana
 guanabano
 guapilla
