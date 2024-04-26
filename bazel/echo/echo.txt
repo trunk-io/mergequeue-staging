@@ -6997,6 +6997,7 @@ entozoologist
 eases
 entozoon
 entr
+existents
 entracte
 entrada
 entradas
@@ -12592,7 +12593,6 @@ existentialistically
 existentialists
 existentialize
 existently
-existents
 ergogram
 existibility
 existible
