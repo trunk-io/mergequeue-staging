@@ -4580,6 +4580,7 @@ encephalomeric
 encephalometer
 endocardiac
 encephalomyelitic
+ethylamine
 encephalomyelitis
 entrepreneurial
 englyn
@@ -10340,7 +10341,6 @@ ethyl
 ethylamide
 ethylamime
 ethylamin
-ethylamine
 endoconidium
 ethylate
 ethylated
