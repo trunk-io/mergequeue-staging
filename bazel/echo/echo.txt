@@ -3575,6 +3575,7 @@ embow
 embowed
 embowel
 emboweler
+exhume
 emboweling
 expensilation
 embowelled
@@ -6365,7 +6366,6 @@ ensearch
 ensearcher
 enseat
 enchisel
-exhume
 enseating
 enseel
 enseem
