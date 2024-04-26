@@ -8897,6 +8897,7 @@ alloiogenesis
 alloiometry
 alloiometric
 alloys
+amins
 alloisomer
 alloisomeric
 alloisomerism
@@ -10666,7 +10667,6 @@ aminosulphonic
 aminothiophen
 aminotransferase
 aminoxylol
-amins
 aminta
 amintor
 amioidei
