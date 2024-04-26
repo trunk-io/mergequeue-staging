@@ -16309,6 +16309,7 @@ clippable
 clipped
 clipper
 clipperman
+cocoach
 clippers
 clippie
 clipping
@@ -17649,7 +17650,6 @@ cockscombed
 cockscombs
 coco
 cocoa
-cocoach
 cocoanut
 cocoanuts
 cocoas
