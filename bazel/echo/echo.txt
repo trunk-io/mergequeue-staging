@@ -3840,7 +3840,6 @@ emeril
 emerit
 emerita
 exert
-emerited
 emeriti
 emeritus
 emerizing
@@ -13221,6 +13220,7 @@ exploited
 exploitee
 exploiter
 exploiting
+emerited
 exploitive
 exploits
 exploiture
