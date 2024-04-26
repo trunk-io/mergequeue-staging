@@ -7421,7 +7421,6 @@ forbid
 forebodingly
 forbidals
 forbiddal
-forbiddance
 faddiest
 forbidden
 forbiddenly
@@ -8072,6 +8071,7 @@ forestays
 forestaysail
 forestal
 forestall
+forbiddance
 forestalled
 forestaller
 forestalling
