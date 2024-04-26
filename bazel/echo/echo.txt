@@ -842,6 +842,7 @@ episodal
 ectoblastic
 ectobronchium
 ectocardia
+euchromatin
 ectocarpaceae
 ectocarpaceous
 ectocarpales
@@ -10686,7 +10687,6 @@ euchring
 euchroic
 euchroite
 euchromatic
-euchromatin
 euchrome
 euchromosome
 euchrone
