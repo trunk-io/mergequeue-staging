@@ -226,7 +226,6 @@ abbreviation
 abbreviations
 abbreviator
 abbreviatory
-abbreviators
 abbreviature
 abc
 abcess
@@ -9453,6 +9452,7 @@ altaian
 altaic
 altaid
 altair
+abbreviators
 altaite
 altaltissimo
 aitesis

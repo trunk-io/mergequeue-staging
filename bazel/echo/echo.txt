@@ -8449,7 +8449,6 @@ eplot
 epoch
 epocha
 epithelioid
-epochally
 epoche
 eggy
 epochism
@@ -9379,6 +9378,7 @@ ersh
 embracery
 erst
 erstwhile
+epochally
 enchurch
 erstwhiles
 ertebolle
