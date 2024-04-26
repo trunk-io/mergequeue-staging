@@ -5232,7 +5232,6 @@ fluidiser
 flavaniline
 flavanone
 firebrick
-flavanthrene
 fogon
 flavanthrone
 fellas
@@ -9029,6 +9028,7 @@ floative
 fountained
 fountaineer
 fountainhead
+flavanthrene
 fountainheads
 fountaining
 fountainlet
