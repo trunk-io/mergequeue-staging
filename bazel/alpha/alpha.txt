@@ -1873,7 +1873,6 @@ accusativeness
 accusatives
 accusator
 accusatory
-accusatorial
 accusatorially
 accusatrix
 accusatrixes
@@ -19993,6 +19992,7 @@ armories
 armoring
 armorist
 armorless
+accusatorial
 armorplated
 armorproof
 approbativeness
