@@ -5003,7 +5003,6 @@ flanneled
 flannelet
 flannelette
 flanneling
-firebox
 flannelleaf
 flannelleaves
 flannelled
@@ -6444,6 +6443,7 @@ flunky
 flunkies
 flunkyhood
 flunkyish
+firebox
 flunkyite
 felonsetting
 flunking
