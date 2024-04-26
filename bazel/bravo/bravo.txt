@@ -2136,7 +2136,6 @@ babylonia
 bankruptly
 bankruptlike
 bankrupts
-bankruptship
 bankrupture
 banks
 bankshall
@@ -10640,6 +10639,7 @@ bleaty
 bleating
 bleatingly
 bleats
+bankruptship
 bleaunt
 beid
 blebby

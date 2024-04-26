@@ -2722,7 +2722,6 @@ feruling
 ferv
 fervence
 furunculous
-fervencies
 fervently
 furosemide
 fervescence
@@ -5161,6 +5160,7 @@ flatlong
 flatman
 flatmen
 flats
+fervencies
 flatted
 flattened
 flattening
