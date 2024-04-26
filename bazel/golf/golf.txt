@@ -9570,6 +9570,7 @@ gemses
 gastornis
 growling
 growlingly
+gv
 gargoyled
 growls
 grown
@@ -10841,7 +10842,6 @@ giftlike
 guzzling
 gorilla
 garfield
-gv
 gwag
 granoblastic
 gweduck
