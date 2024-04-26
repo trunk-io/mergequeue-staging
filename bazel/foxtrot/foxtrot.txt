@@ -9196,7 +9196,6 @@ foxship
 foxskin
 foxskins
 foxtail
-foxtailed
 foxtrot
 foxwood
 fozy
@@ -10570,6 +10569,7 @@ frowner
 frenchiness
 frownful
 frowny
+foxtailed
 frowning
 frowningly
 frowns

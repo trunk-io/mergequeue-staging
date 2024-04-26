@@ -6454,7 +6454,6 @@ ensnares
 ensnaringly
 ensnarl
 ensnarled
-empanels
 ensnarling
 ensnarls
 enheritage
@@ -12008,6 +12007,7 @@ exchanges
 exchanging
 excheat
 exchequer
+empanels
 exchequers
 excide
 excided
