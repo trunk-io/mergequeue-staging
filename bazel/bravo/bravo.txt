@@ -9370,7 +9370,6 @@ bipotentialities
 biprism
 byproduct
 byproducts
-biprong
 bipropellant
 bipunctal
 bipunctate
@@ -11182,6 +11181,7 @@ blossombill
 bertolonia
 blossomhead
 buttercup
+biprong
 blossomy
 blossomless
 blossoms
