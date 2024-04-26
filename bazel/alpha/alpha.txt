@@ -16588,7 +16588,6 @@ anuresis
 anuretic
 anury
 anuria
-anurias
 anuric
 anurous
 anus
@@ -21458,6 +21457,7 @@ asphaltic
 asphalting
 asphaltite
 asphaltlike
+anurias
 afformative
 amine
 asphaltus
