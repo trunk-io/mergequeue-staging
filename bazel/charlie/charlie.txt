@@ -8721,6 +8721,7 @@ chantment
 cornflag
 chantor
 chantress
+contratulations
 chantry
 chantries
 chants
@@ -23788,7 +23789,6 @@ contrasuggestible
 contratabular
 contratempo
 contratenor
-contratulations
 contravalence
 contravallation
 contravariant
