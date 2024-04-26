@@ -6626,7 +6626,6 @@ desiccator
 desiccatory
 desiccators
 desiderable
-desiderant
 desiderate
 desiderated
 damselhood
@@ -11158,6 +11157,7 @@ disasters
 disastimeter
 daunii
 disastrous
+desiderant
 disastrously
 disastrousness
 decemberish
