@@ -1813,7 +1813,6 @@ debye
 debyes
 debile
 debilissima
-debilitant
 debilitate
 disliker
 debilitated
@@ -8710,6 +8709,7 @@ diatomin
 diatomine
 diatomite
 diatomous
+debilitant
 diatoms
 diatonic
 diatonical
