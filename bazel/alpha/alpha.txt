@@ -2544,7 +2544,6 @@ acipenseres
 acipenserid
 acipenseridae
 acipenserine
-acipenseroid
 acipenseroidei
 algesis
 acyrology
@@ -6771,6 +6770,7 @@ ailanthuses
 ailantine
 ailanto
 aile
+acipenseroid
 ailed
 aileen
 aileron

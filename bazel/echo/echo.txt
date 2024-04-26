@@ -793,7 +793,6 @@ ecrevisse
 ecroulement
 ecru
 extramedullary
-ecrus
 ecrustaceous
 ecstasy
 ecstasies
@@ -4318,6 +4317,7 @@ emuls
 emulsic
 emulsify
 emulsifiability
+ecrus
 emulsifications
 emulsified
 emulsifier
