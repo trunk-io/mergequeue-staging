@@ -5514,7 +5514,6 @@ gnomish
 glycosine
 glycosuria
 gazeboes
-glycosuric
 glycuresis
 gastroduodenoscopy
 glycuronic
@@ -9249,6 +9248,7 @@ gesticulative
 grocery
 groceries
 groceryman
+glycosuric
 grocerymen
 grocerly
 guarded
