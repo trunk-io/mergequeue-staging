@@ -3273,7 +3273,6 @@ geostationary
 gluttonism
 geostrategy
 geostrophic
-gametophyll
 geotactic
 goons
 geotactically
@@ -5141,6 +5140,7 @@ glance
 glanced
 glancer
 guaxima
+gametophyll
 glancing
 glancingly
 growled
