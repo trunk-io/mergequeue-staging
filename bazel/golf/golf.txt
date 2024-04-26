@@ -2776,7 +2776,6 @@ genevas
 genevese
 genevieve
 genevoise
-genghis
 geniality
 genially
 glassmaker
@@ -9335,6 +9334,7 @@ grooved
 groovelike
 grooverhead
 grooves
+genghis
 garnishry
 gymnophiona
 grooviest
