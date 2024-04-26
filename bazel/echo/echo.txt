@@ -11784,7 +11784,6 @@ examinability
 examinable
 examinant
 examinate
-examination
 examinational
 examinationism
 examinationist
@@ -13831,6 +13830,7 @@ extraembryonic
 extraenteric
 extraequilibrium
 extraessential
+examination
 extrafascicular
 extrafine
 extrafloral
