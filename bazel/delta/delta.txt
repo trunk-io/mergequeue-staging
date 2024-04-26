@@ -425,7 +425,6 @@ daint
 dainteous
 dainteth
 dainty
-daintier
 dainties
 daintiest
 dispark
@@ -15434,6 +15433,7 @@ donataries
 donate
 donated
 donatee
+daintier
 donates
 druidology
 donatiaceae
