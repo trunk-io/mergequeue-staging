@@ -3085,7 +3085,6 @@ geognosy
 geognosies
 geognosist
 geognost
-goral
 geognostical
 goatland
 gramaphone
@@ -5576,6 +5575,7 @@ glyoxaline
 gregarinian
 galliwasp
 glyoxime
+goral
 glyph
 glyphic
 gyppo
