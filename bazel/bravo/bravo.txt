@@ -2681,6 +2681,7 @@ bagheli
 barkbound
 borrachio
 barkcutter
+boraxes
 balsameaceous
 barked
 barkeeper
@@ -16836,7 +16837,6 @@ bugbear
 bugbeardom
 bugbearish
 bugbite
-boraxes
 bugdom
 bugeye
 bugeyed
