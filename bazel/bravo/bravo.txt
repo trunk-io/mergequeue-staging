@@ -7141,7 +7141,6 @@ bespend
 bespete
 benzoflavine
 brushfires
-bespy
 bespice
 butterlike
 bespill
@@ -10012,6 +10011,7 @@ byways
 bywalk
 bywalking
 byward
+bespy
 biweeklies
 biwinter
 bywoner
