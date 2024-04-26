@@ -8550,7 +8550,6 @@ diapiric
 diapirs
 diaplases
 diaplasis
-disillusions
 dejecta
 dusks
 diaplexal
@@ -10442,6 +10441,7 @@ diphenyl
 diphenylacetylene
 diphenylamine
 diphenylaminechlorarsine
+disillusions
 diphenylchloroarsine
 diphenylene
 diphenylenimide
