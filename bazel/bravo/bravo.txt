@@ -8649,6 +8649,7 @@ billers
 beast
 billet
 billete
+brakemen
 billeted
 billeters
 billethead
@@ -14388,7 +14389,6 @@ brakeload
 brakemaker
 brakemaking
 brakeman
-brakemen
 braker
 brakeroot
 brakesman
