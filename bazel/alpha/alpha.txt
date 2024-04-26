@@ -5849,7 +5849,6 @@ agamic
 agamically
 agamid
 agamidae
-agamis
 agamist
 agammaglobulinemic
 agamobium
@@ -24488,6 +24487,7 @@ autoxidizable
 autoxidize
 autoxidizer
 autozooid
+agamis
 autre
 autrefois
 autumn

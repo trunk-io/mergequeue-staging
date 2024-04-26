@@ -6804,7 +6804,6 @@ foggage
 foggages
 fogged
 fogger
-flapdock
 fruited
 foggy
 fibrine
@@ -7102,6 +7101,7 @@ fons
 feetfirst
 fontal
 fontanel
+flapdock
 frothing
 fontanelle
 fraenums
