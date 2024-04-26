@@ -4068,7 +4068,6 @@ adjusts
 adjutage
 adjutancies
 adjutant
-adjutants
 adjutantship
 adjute
 adjutor
@@ -9251,6 +9250,7 @@ alodian
 alodiary
 alodies
 alodification
+adjutants
 alodium
 aloe
 aloed
