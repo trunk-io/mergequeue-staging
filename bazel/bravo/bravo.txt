@@ -2472,7 +2472,6 @@ barche
 barcolongo
 barcone
 barcoo
-bard
 bardane
 bardcraft
 barde
@@ -8811,6 +8810,7 @@ bimuscular
 bin
 binal
 byname
+bard
 bynames
 binaphthyl
 binapthyl
