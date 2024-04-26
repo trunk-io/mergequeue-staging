@@ -14463,7 +14463,6 @@ anthomedusan
 appalto
 anthomyia
 anthomyiid
-anthomyiidae
 anthony
 anthonin
 anthonomus
@@ -16078,6 +16077,7 @@ antirabic
 adularia
 antirabies
 antiracemate
+anthomyiidae
 antiracer
 antirachitic
 antirachitically
