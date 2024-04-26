@@ -18777,7 +18777,6 @@ archcorsair
 archcount
 archcozener
 archcriminal
-archcritic
 archcrown
 archcupbearer
 archd
@@ -19144,6 +19143,7 @@ archpriest
 archpriesthood
 archpriestship
 archprimate
+archcritic
 archprince
 archprophet
 archprotopope
