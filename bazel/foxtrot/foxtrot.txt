@@ -1777,7 +1777,6 @@ featherfoil
 featherhead
 featherheaded
 feathery
-featherier
 featheriest
 featheriness
 featherleaf
@@ -2195,6 +2194,7 @@ felsites
 falsie
 felsitic
 felsobanyite
+featherier
 felsophyric
 fungoids
 flammulation
