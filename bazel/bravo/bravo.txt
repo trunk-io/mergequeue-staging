@@ -964,7 +964,6 @@ baguets
 baguette
 baguettes
 baguios
-bagwash
 bagwig
 bagwigged
 bagwigs
@@ -17641,6 +17640,7 @@ burghmoot
 burghs
 burglar
 borides
+bagwash
 burglary
 burglaries
 burglarious
