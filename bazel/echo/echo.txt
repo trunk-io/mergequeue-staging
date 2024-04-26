@@ -5343,7 +5343,6 @@ entozoa
 encrypt
 ecthyma
 endosporia
-endosporic
 endosporium
 exocentric
 endosporous
@@ -13897,6 +13896,7 @@ eelgrasses
 extraofficial
 extraoral
 extraorbitally
+endosporic
 extraordinary
 extraordinarily
 extraordinariness
