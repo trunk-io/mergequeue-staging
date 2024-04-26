@@ -1626,7 +1626,6 @@ gasoline
 gasoliner
 gasolines
 gasolinic
-gasometer
 gasometry
 gasometric
 gasometrically
@@ -10779,6 +10778,7 @@ guttie
 goniatitoid
 guttier
 guttifer
+gasometer
 guttiferal
 gusla
 guttiferales
