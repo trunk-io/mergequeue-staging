@@ -4268,7 +4268,6 @@ caryophyllin
 caryophyllous
 caryophyllus
 caryopilite
-caryopses
 caryopsides
 caryopsis
 crossosomataceous
@@ -25120,6 +25119,7 @@ corf
 corfiote
 corflambo
 corge
+caryopses
 corgi
 corgis
 cory
