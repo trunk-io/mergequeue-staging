@@ -12866,6 +12866,7 @@ churchmanship
 churchmaster
 churchmen
 churchreeve
+cric
 churchscot
 churchway
 churchward
@@ -20291,7 +20292,6 @@ chorographies
 commune
 communed
 communer
-cric
 communes
 communicability
 communicable
