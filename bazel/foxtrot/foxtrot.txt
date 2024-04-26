@@ -8167,6 +8167,7 @@ fissurella
 foretold
 foretooth
 flinches
+frettation
 foretop
 foretopman
 foretopmast
@@ -9932,7 +9933,6 @@ fretsome
 frett
 frettage
 faradization
-frettation
 frette
 fretted
 formularism
