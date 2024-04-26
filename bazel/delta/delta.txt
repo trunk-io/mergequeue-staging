@@ -12617,7 +12617,6 @@ disleaf
 dagon
 disleafing
 disleal
-diffrangibility
 destining
 disleave
 disleaved
@@ -12653,6 +12652,7 @@ dislocability
 disagrees
 dislocable
 dislocate
+diffrangibility
 dislocated
 dislocatedly
 dislocatedness
