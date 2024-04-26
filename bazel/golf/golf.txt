@@ -7977,7 +7977,6 @@ gyronny
 grandpas
 grandrelle
 grandsir
-glossy
 grandson
 grandsons
 grandsonship
@@ -10457,6 +10456,7 @@ guna
 gunarchy
 gunate
 gunated
+glossy
 gunating
 gunation
 gunbarrel
