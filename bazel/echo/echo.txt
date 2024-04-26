@@ -2356,6 +2356,7 @@ electrodepositor
 electrodes
 electrodesiccate
 electrodesiccation
+expostulative
 electrodiagnosis
 electrodiagnostic
 electrodiagnostically
@@ -13319,7 +13320,6 @@ expostulatingly
 electrobiology
 expostulation
 expostulations
-expostulative
 expostulator
 expostulatory
 erythroderma
