@@ -5281,6 +5281,7 @@ castles
 castlet
 castleward
 castlewards
+cowpony
 castlewise
 castling
 castock
@@ -27687,7 +27688,6 @@ comedians
 confuted
 cowpock
 cowpoke
-cowpony
 costing
 crosspatches
 cowpox

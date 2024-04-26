@@ -3523,7 +3523,6 @@ frag
 figurants
 fulgurantly
 figurately
-frogface
 figuration
 figurational
 figurations
@@ -10744,6 +10743,7 @@ foretokened
 frustration
 frustrations
 forelive
+frogface
 frustrative
 frustratory
 frustula
