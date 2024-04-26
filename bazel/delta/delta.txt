@@ -3705,7 +3705,6 @@ dehairer
 deheathenize
 ditchless
 dehematize
-decard
 dehepatize
 dialector
 dehgan
@@ -9290,6 +9289,7 @@ dietetic
 dietetical
 dietetically
 dietetics
+decard
 dietetist
 diethanolamine
 diether
