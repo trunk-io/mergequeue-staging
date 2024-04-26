@@ -5139,7 +5139,6 @@ glance
 glanced
 glancer
 guaxima
-gametophyll
 glancing
 glancingly
 growled
@@ -5407,6 +5406,7 @@ goozle
 glyceral
 glyceraldehyde
 glycerate
+gametophyll
 geostrategist
 glyceria
 glyceric
