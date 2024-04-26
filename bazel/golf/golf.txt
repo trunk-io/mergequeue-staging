@@ -4320,7 +4320,6 @@ getters
 gymnure
 gymnurine
 gimped
-gimper
 gimpy
 gympie
 gimpier
@@ -9060,6 +9059,7 @@ gruelly
 grindingly
 grinds
 grindstone
+gimper
 gringole
 guiltlessness
 gringophobia
