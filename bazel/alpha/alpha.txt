@@ -16431,7 +16431,6 @@ antitrust
 antitruster
 antitubercular
 antituberculosis
-antituberculotic
 antituberculous
 antitumor
 antitumoral
@@ -17464,6 +17463,7 @@ apostle
 aviator
 apostles
 apostleship
+antituberculotic
 apostleships
 apostoile
 apostolate
