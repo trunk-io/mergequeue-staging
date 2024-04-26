@@ -271,7 +271,6 @@ easted
 easter
 eastering
 easterly
-emergency
 exospores
 easterliness
 easterling
@@ -12554,6 +12553,7 @@ excogitated
 ease
 excambion
 exiled
+emergency
 excursion
 exiledom
 exilement
