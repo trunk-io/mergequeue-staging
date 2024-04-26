@@ -4212,7 +4212,6 @@ electroviscous
 employments
 employs
 ensured
-epopt
 emplore
 emplume
 emplunge
@@ -11885,6 +11884,7 @@ excalceation
 excalfaction
 excalibur
 excandescence
+epopt
 enlighteningly
 ernesse
 excandescency
