@@ -76,7 +76,6 @@ cabble
 cabbled
 cabbler
 cabda
-cabdriver
 cabdriving
 cabecudo
 capellet
@@ -16444,6 +16443,7 @@ clobbering
 clobbers
 clochard
 cloche
+cabdriver
 cloches
 clochette
 clock
