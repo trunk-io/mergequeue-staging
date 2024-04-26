@@ -7277,6 +7277,7 @@ enwreathing
 enwrite
 enwwove
 euphonym
+epidemic
 enwwoven
 enzygotic
 enzym
@@ -7728,7 +7729,6 @@ epideistic
 entomological
 epidemy
 epidemial
-epidemic
 epidemical
 epidemically
 epidemicalness
