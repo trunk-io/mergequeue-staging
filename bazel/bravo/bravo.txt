@@ -1596,7 +1596,6 @@ ballyhooing
 ballyhoos
 balling
 ballyrag
-ballyragged
 ballyrags
 ballised
 ballism
@@ -9074,6 +9073,7 @@ biologist
 biologistic
 bedstands
 biologists
+ballyragged
 biologize
 bioluminescence
 biomagnetic
