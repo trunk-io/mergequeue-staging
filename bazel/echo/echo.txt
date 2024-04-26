@@ -1137,7 +1137,6 @@ epidermic
 editions
 editor
 editorial
-editorialization
 encorbellment
 editorializations
 editorialize
@@ -14157,6 +14156,7 @@ elne
 exulted
 exultet
 encashed
+editorialization
 exultingly
 exults
 eavesdroppers
