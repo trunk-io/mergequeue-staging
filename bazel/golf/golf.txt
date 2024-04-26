@@ -914,6 +914,7 @@ gamelang
 gamelans
 gameless
 gathers
+grievingly
 gamely
 gamelike
 gonfalonier
@@ -9099,7 +9100,6 @@ gripier
 gripiest
 gripingly
 gripless
-grievingly
 gripman
 gripmen
 gripment
