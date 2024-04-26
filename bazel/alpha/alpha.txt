@@ -5367,7 +5367,6 @@ affiliations
 apery
 affinal
 affination
-affine
 affined
 affinely
 affines
@@ -7283,6 +7282,7 @@ alactaga
 alada
 aladdin
 aladinist
+affine
 alae
 alagao
 alagarto
