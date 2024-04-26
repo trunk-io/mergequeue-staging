@@ -74,6 +74,7 @@ facemaking
 faceman
 facemark
 facepiece
+foetiferous
 faceplate
 facer
 faces
@@ -5609,7 +5610,6 @@ flyeater
 fmt
 flied
 flier
-foetiferous
 flyer
 fliers
 flyers
