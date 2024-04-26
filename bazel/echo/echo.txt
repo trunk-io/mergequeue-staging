@@ -4623,7 +4623,6 @@ enchanter
 enchantery
 enchanters
 enchanting
-enchantingly
 enchantingness
 enchantment
 enchantments
@@ -13203,6 +13202,7 @@ explicators
 explicit
 explicitly
 explicitness
+enchantingly
 explicits
 explida
 explodable
