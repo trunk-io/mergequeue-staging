@@ -1336,7 +1336,6 @@ fatality
 fatalities
 fatally
 fatalness
-fatals
 flap
 fatback
 flavorsomeness
@@ -6013,6 +6012,7 @@ flop
 floperoo
 flophouses
 foreknow
+fatals
 fluidizer
 flopover
 flopovers
