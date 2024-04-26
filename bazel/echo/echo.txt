@@ -1487,6 +1487,7 @@ egalitarianism
 egalitarians
 egalite
 evelyn
+equationally
 egalites
 electroacoustical
 egality
@@ -8556,7 +8557,6 @@ equates
 equating
 equation
 equational
-equationally
 equationist
 equations
 essentia
