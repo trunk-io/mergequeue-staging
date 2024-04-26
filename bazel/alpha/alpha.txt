@@ -1660,7 +1660,6 @@ accompanied
 accompanier
 australorp
 accompanies
-accompanying
 accompanyist
 aphasiac
 accompaniment
@@ -3369,6 +3368,7 @@ acupuncturing
 acupuncturist
 acus
 acusection
+accompanying
 acusector
 atresy
 acushla
