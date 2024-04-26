@@ -3268,7 +3268,6 @@ basilic
 basilica
 basilicae
 basilical
-basilicalike
 basilicas
 bluewoods
 basilicate
@@ -13918,6 +13917,7 @@ brabblement
 brabbler
 brabblers
 bugbears
+basilicalike
 brabbling
 brabblingly
 brabejum
