@@ -9532,6 +9532,7 @@ checkouts
 checkpoint
 checkpointed
 checkpointing
+coparallel
 checkpoints
 checkrack
 checkrail
@@ -24467,7 +24468,6 @@ copalite
 copaljocote
 copalm
 copals
-coparallel
 coparcenar
 coparcenary
 coparceny
