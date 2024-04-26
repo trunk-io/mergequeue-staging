@@ -16582,6 +16582,7 @@ clones
 clong
 clonicity
 clonicotonic
+curtailment
 cloning
 clonism
 commutating
@@ -31511,7 +31512,6 @@ curtailed
 curtailedly
 curtailer
 curtailing
-curtailment
 curtailments
 curtails
 curtain
