@@ -2413,7 +2413,6 @@ electroharmonic
 electrohemostasis
 eveners
 electrohydraulic
-electrohydraulically
 electrohomeopathy
 electrohorticulture
 electroimpulse
@@ -9964,6 +9963,7 @@ epitomised
 entophytically
 esteriferous
 esterify
+electrohydraulically
 esterifiable
 esterification
 esterified
