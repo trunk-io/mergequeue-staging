@@ -2876,7 +2876,6 @@ gph
 genospecies
 genotype
 granulose
-genotypes
 genotypic
 genotypical
 genotypically
@@ -10639,6 +10638,7 @@ garishness
 gurly
 gurmukhi
 gurnard
+genotypes
 gigabits
 gurnards
 gurney
