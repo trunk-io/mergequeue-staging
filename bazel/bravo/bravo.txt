@@ -4918,6 +4918,7 @@ birdbanding
 buildingless
 beebread
 beebreads
+baptistries
 beech
 beechdrops
 breastsummer
@@ -8518,7 +8519,6 @@ byland
 bilander
 bilanders
 bilateral
-baptistries
 bilateralistic
 bilaterality
 bruise
