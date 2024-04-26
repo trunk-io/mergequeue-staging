@@ -22670,6 +22670,7 @@ atlantosaurus
 atlases
 atlaslike
 atlatl
+avulsion
 atlatls
 atle
 atlee
@@ -24882,7 +24883,6 @@ avulse
 avulsed
 avulses
 avulsing
-avulsion
 adeption
 avulsions
 avuncular
