@@ -6647,7 +6647,6 @@ ahmadi
 aftercause
 ahmadiya
 ahmed
-ahmedi
 ahmet
 ahnfeltia
 aho
@@ -16630,6 +16629,7 @@ aorists
 aorta
 aortae
 aortal
+ahmedi
 aortarctia
 aortas
 aortectasia
