@@ -4994,7 +4994,6 @@ calcinable
 caseconv
 cased
 casefy
-casefied
 casefies
 casefying
 caseful
@@ -27796,6 +27795,7 @@ cozily
 coziness
 cozinesses
 cozing
+casefied
 cp
 crowberries
 contractus
