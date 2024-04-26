@@ -3101,6 +3101,7 @@ bas
 basad
 basal
 basale
+bewares
 basally
 basalt
 basaltes
@@ -7598,7 +7599,6 @@ bewake
 bewall
 beware
 bewared
-bewares
 bemixed
 bewash
 bewaste
