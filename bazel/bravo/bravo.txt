@@ -3220,7 +3220,6 @@ basicity
 basicities
 basicranial
 basics
-basidia
 basidial
 basidigital
 basidigitale
@@ -11916,6 +11915,7 @@ bogmire
 bogo
 bogomile
 bogomilian
+basidia
 bogong
 bogota
 bogotana
