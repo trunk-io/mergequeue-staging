@@ -4235,7 +4235,6 @@ delocalization
 delocalize
 delocalizing
 delomorphic
-delomorphous
 deloo
 delouse
 deloused
@@ -17640,6 +17639,7 @@ druxey
 druxy
 dulcification
 druxiness
+delomorphous
 druze
 ds
 dschubba
