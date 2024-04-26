@@ -4219,7 +4219,6 @@ galera
 gimlets
 gimmal
 gymmal
-gingerwork
 gimmaled
 gimmals
 gephyrean
@@ -9601,6 +9600,7 @@ grs
 grubbed
 grubbery
 grintern
+gingerwork
 grubbers
 grubby
 grubbier
