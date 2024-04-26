@@ -2594,6 +2594,7 @@ bargepole
 booklice
 barger
 barges
+boehmite
 bargestone
 brevets
 bargh
@@ -11836,7 +11837,6 @@ boehmenism
 boehmenist
 boehmenite
 boehmeria
-boehmite
 boehmites
 boeing
 burion
