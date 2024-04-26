@@ -5675,7 +5675,6 @@ goffering
 globe
 globed
 globefish
-globefishes
 globeflower
 globelet
 globelike
@@ -6054,6 +6053,7 @@ grieben
 gauger
 glucagons
 glucemia
+globefishes
 glucic
 gesticulator
 glucid
