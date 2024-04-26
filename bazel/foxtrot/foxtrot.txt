@@ -2125,6 +2125,7 @@ foddered
 fellatrice
 fellatrices
 felled
+flrie
 feller
 fellers
 fellest
@@ -6267,7 +6268,6 @@ flowmeter
 flown
 flowoff
 flowstone
-flrie
 flu
 fluate
 finalize
