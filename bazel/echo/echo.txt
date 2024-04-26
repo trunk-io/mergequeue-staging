@@ -1543,7 +1543,6 @@ eggler
 eggless
 egglike
 eggment
-eggnog
 eggnogs
 exhibiting
 eggplant
@@ -9786,6 +9785,7 @@ espigle
 euryon
 espinal
 espinel
+eggnog
 espingole
 editorialist
 espinillo
