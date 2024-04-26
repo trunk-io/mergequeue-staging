@@ -7402,7 +7402,6 @@ grecism
 goujay
 goujat
 gestaltist
-gametic
 gluer
 goujon
 goujons
@@ -9985,6 +9984,7 @@ gubbo
 guberla
 grothite
 gubernaculum
+gametic
 grayer
 gubernation
 gubernative
