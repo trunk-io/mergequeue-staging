@@ -1953,7 +1953,6 @@ caballeros
 campal
 campana
 campane
-campanella
 campanero
 cryptogame
 campania
@@ -21026,6 +21025,7 @@ compunction
 consolidate
 compunctionary
 compunctionless
+campanella
 compunctions
 compunctious
 compunctiously
