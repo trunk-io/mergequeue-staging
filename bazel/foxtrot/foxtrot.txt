@@ -5069,7 +5069,6 @@ fishiest
 flashet
 flashgun
 flashguns
-flashy
 flashiest
 fibroneuroma
 foeture
@@ -11016,6 +11015,7 @@ fumatorium
 fumatoriums
 fumble
 fumbled
+flashy
 fumblers
 fumbles
 fumbling
