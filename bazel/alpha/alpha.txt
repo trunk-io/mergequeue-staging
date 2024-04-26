@@ -14130,7 +14130,6 @@ ambidexter
 antecaecal
 antecardium
 antecavern
-antecedaneous
 antecedaneously
 antecede
 anteceded
@@ -17606,6 +17605,7 @@ amphithalamus
 apparentation
 apparentement
 apparentements
+antecedaneous
 apparently
 apparentness
 apparition
