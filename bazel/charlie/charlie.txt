@@ -7819,6 +7819,7 @@ cervicohumeral
 cervicolabial
 cervicolingual
 cervicolumbar
+colorectitis
 crystal
 cervicomuscular
 cerviconasal
@@ -19412,7 +19413,6 @@ colorcasted
 colorcaster
 colorcasting
 colorcasts
-colorectitis
 colorectostomy
 colored
 coloreds
