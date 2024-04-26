@@ -7466,6 +7466,7 @@ ceratopsidae
 ceratopteridaceae
 ceratopteris
 ceratorhine
+coprocessors
 ceratosa
 ceratosaurus
 ceratospongiae
@@ -24719,7 +24720,6 @@ coprinus
 coprisoner
 coprocessing
 coprocessor
-coprocessors
 coprodaeum
 coproduce
 coproducer
