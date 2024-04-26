@@ -897,6 +897,7 @@ gambolling
 gambols
 gambreled
 goliath
+goldweed
 gambrels
 gambroon
 gambs
@@ -6664,7 +6665,6 @@ goldurn
 goldurned
 goldurnedest
 giher
-goldweed
 galeopithecus
 goldworker
 gamogenesis
