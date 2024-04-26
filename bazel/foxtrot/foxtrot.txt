@@ -3475,7 +3475,6 @@ fiftyfold
 forebow
 fiftypenny
 figaro
-figbird
 figeter
 figgery
 figgy
@@ -9044,6 +9043,7 @@ footmaker
 fountainwise
 fountful
 founts
+figbird
 fouquieria
 fouquieriaceae
 forspread
