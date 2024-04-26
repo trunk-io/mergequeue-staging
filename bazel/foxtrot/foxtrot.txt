@@ -7969,7 +7969,6 @@ fantastical
 foresays
 foresaw
 forescene
-forescent
 foreschool
 forescript
 fibulas
@@ -10504,6 +10503,7 @@ frostless
 frostlike
 frostnipped
 frostproof
+forescent
 frostproofing
 frostroot
 frostwork
