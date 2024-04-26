@@ -3381,7 +3381,6 @@ acutenaculum
 acuter
 acutes
 acutest
-acutiator
 acutifoliate
 acutilingual
 acutilobate
@@ -18751,6 +18750,7 @@ archband
 archbeacon
 archbeadle
 archbishopess
+acutiator
 archbishopry
 archbishopric
 archbishoprics

@@ -3905,7 +3905,6 @@ dekadrachm
 dekagram
 daphnad
 dekagramme
-dekagrams
 dekaliters
 dekalitre
 dekameter
@@ -12962,6 +12961,7 @@ dispeed
 dispel
 dispellable
 dispelled
+dekagrams
 dispelling
 dorsimedian
 dispells
