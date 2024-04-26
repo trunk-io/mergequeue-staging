@@ -14228,7 +14228,6 @@ antennal
 antennary
 antennaria
 antennariid
-antennariidae
 antennarius
 antennas
 antennata
@@ -15432,6 +15431,7 @@ antihypophora
 antihistamine
 antihistamines
 antihistaminic
+antennariidae
 astrionics
 antihysteric
 antihistorical
