@@ -6448,7 +6448,6 @@ enslaving
 enslumber
 ensmall
 ensnare
-ensnared
 ensnarement
 ensnares
 ensnaringly
@@ -11352,6 +11351,7 @@ evangelise
 electrifier
 evangeliser
 evangelism
+ensnared
 evangelist
 evangelistary
 evangelistaries
