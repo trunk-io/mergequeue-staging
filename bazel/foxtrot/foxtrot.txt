@@ -6892,6 +6892,7 @@ folacins
 folate
 folates
 folcgemot
+forests
 forestery
 foremessenger
 founding
@@ -8109,7 +8110,6 @@ forestlike
 forestology
 forestral
 forestries
-forests
 forestside
 forestudy
 flue
