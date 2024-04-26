@@ -5222,6 +5222,7 @@ glassfuls
 glasshouses
 glassy
 glassie
+gravelstone
 groundberry
 gateaux
 glassies
@@ -8442,7 +8443,6 @@ gravelous
 gravelroot
 gravels
 graveside
-gravelstone
 gravelweed
 gravemaker
 glitnir
