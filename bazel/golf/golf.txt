@@ -3475,6 +3475,7 @@ germiniparous
 germinogony
 goldsinny
 geminating
+glandule
 germless
 germlike
 germling
@@ -5169,7 +5170,6 @@ glandular
 gegg
 gourdhead
 glandularly
-glandule
 glanduliferous
 glanduliform
 glanduligerous
