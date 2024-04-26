@@ -6296,6 +6296,7 @@ gnatsnapper
 gnattiest
 gnatworm
 gigantize
+growsome
 gnawable
 genitives
 gnawed
@@ -9578,7 +9579,6 @@ guardship
 gothicism
 gempylid
 growse
-growsome
 growth
 growthful
 gorevan

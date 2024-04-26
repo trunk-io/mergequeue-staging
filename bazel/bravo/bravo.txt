@@ -896,6 +896,7 @@ baggager
 baggages
 baggala
 bagganet
+blepharomelasma
 breadless
 baggara
 bagged
@@ -10766,7 +10767,6 @@ blepharodiastasis
 blepharodyschroia
 blepharohematidrosis
 blepharolithiasis
-blepharomelasma
 blepharoncosis
 blepharoncus
 blepharophyma
