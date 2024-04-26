@@ -4589,7 +4589,6 @@ fits
 fittage
 fytte
 fitted
-fittedness
 fitters
 fitty
 fittier
@@ -8913,6 +8912,7 @@ fossilology
 fossilological
 frosty
 foolhardiest
+fittedness
 fossils
 fosslfying
 fosslify
