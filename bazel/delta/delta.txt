@@ -3243,7 +3243,6 @@ defenseman
 defensemen
 defenser
 defensibility
-defensible
 defensibleness
 defensibly
 defensing
@@ -15799,6 +15798,7 @@ dorsers
 dorsi
 dorsibranch
 dorsibranchiata
+defensible
 dorsibranchiate
 dorsicollar
 dorsicolumn

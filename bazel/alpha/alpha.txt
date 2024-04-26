@@ -11224,7 +11224,6 @@ anemophile
 amphipleura
 amphiploid
 amphiploidy
-amphipneust
 amphipneusta
 amphipneustic
 amphipnous
@@ -17410,6 +17409,7 @@ aposematic
 aposematically
 admittee
 aposepalous
+amphipneust
 aposia
 aposiopeses
 aposiopestic
