@@ -2029,7 +2029,6 @@ elaeocarpaceous
 elaeocarpus
 entamebas
 elaeodendron
-elaeodochon
 elaeometer
 elaeopten
 elaeoptene
@@ -5464,6 +5463,7 @@ exotisms
 eparchate
 endurability
 exertive
+elaeodochon
 endurable
 endurably
 endurance
