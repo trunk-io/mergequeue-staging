@@ -2225,7 +2225,6 @@ decempedal
 decempennate
 decemplex
 divisibility
-determinativeness
 decemplicate
 decempunctate
 decemstriate
@@ -8378,6 +8377,7 @@ decouple
 divia
 dialogized
 dialogs
+determinativeness
 dialogue
 devesting
 dialogued
