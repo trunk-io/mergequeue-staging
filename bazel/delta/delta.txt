@@ -1152,7 +1152,6 @@ dasyatis
 dasylirion
 dasymeter
 dasypaedes
-dasypaedic
 downwarp
 dasypeltis
 dasyphyllous
@@ -9713,6 +9712,7 @@ dilatation
 drumwood
 dilatational
 dilatations
+dasypaedic
 dilatative
 dilatator
 dilatatory
