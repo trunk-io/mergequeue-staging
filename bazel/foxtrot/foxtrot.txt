@@ -1028,7 +1028,6 @@ farine
 farinha
 flancards
 finalists
-farinhas
 farinometer
 farinose
 farinosel
@@ -9675,6 +9674,7 @@ fidation
 foolproofness
 fricandoes
 freeheartedly
+farinhas
 freehold
 freeholder
 freeholders
