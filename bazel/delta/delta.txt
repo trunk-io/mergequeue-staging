@@ -2300,7 +2300,6 @@ deceptory
 decerebrate
 decerebrated
 decerebrating
-decerebration
 decerebrize
 decerned
 decerns
@@ -10406,6 +10405,7 @@ dioxane
 dioxanes
 dioxy
 dioxid
+decerebration
 dioxides
 dioxids
 dextrorsely
