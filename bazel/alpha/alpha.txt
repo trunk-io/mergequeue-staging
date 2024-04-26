@@ -6012,6 +6012,7 @@ agenting
 agentival
 agentive
 agentives
+andiroba
 agentry
 agentries
 agents
@@ -12366,7 +12367,6 @@ anding
 andira
 andirin
 andirine
-andiroba
 abashments
 andiron
 andirons
