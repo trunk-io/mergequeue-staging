@@ -4067,6 +4067,7 @@ empanoply
 emparchment
 emparl
 empasm
+estivage
 empassion
 empathetic
 empathetically
@@ -10031,7 +10032,6 @@ estimators
 estipulate
 everlastingly
 estuosity
-estivage
 estimatingly
 estivate
 estivates

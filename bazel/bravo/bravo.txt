@@ -3167,6 +3167,7 @@ bonnetmen
 baseplug
 basepoint
 baser
+bookstores
 bases
 bash
 bashalick
@@ -12722,7 +12723,6 @@ booksy
 bookstall
 bookstand
 bookstore
-bookstores
 bonks
 bookways
 bookward
