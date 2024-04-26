@@ -7327,6 +7327,7 @@ gossipee
 gossiper
 gossipers
 gossiphood
+gentianal
 gravicembalo
 gatehouses
 gossipy
@@ -9131,7 +9132,6 @@ grippotoxin
 grips
 gripsack
 gadrooned
-gentianal
 gripsacks
 griqua
 gl
