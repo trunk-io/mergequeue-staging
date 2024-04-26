@@ -1611,7 +1611,6 @@ ballistae
 bijous
 ballistician
 ballisticians
-ballistics
 ballistocardiogram
 ballistocardiograph
 ballistocardiography
@@ -8202,6 +8201,7 @@ bidirectional
 bidirectionally
 bidiurnal
 bidonville
+ballistics
 bidpai
 begets
 bidree
