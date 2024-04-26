@@ -13791,7 +13791,6 @@ bearbaiting
 bowlderhead
 bowldering
 bowlders
-bowled
 bowleg
 bowlegged
 bowleggedness
@@ -13803,6 +13802,7 @@ bowless
 bowlfuls
 bowly
 bowlike
+bowled
 bowlin
 bowline
 bowlines
