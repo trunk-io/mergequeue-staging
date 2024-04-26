@@ -9276,7 +9276,6 @@ aloha
 alohas
 alderwoman
 aloyau
-aloid
 aloin
 aloins
 alois
@@ -20733,6 +20732,7 @@ artillerist
 artillerists
 artiness
 artinesses
+aloid
 artinite
 argentamin
 alsatia
