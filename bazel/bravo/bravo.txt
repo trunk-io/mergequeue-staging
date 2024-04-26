@@ -1058,7 +1058,6 @@ baying
 bitterbush
 baikalite
 baikerinite
-baikerite
 baikie
 blindages
 bailable
@@ -8992,6 +8991,7 @@ bunyah
 biodegrading
 biodynamic
 biodynamical
+baikerite
 biodynamics
 biodyne
 bioecology
