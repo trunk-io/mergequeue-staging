@@ -16069,7 +16069,6 @@ brookside
 brookweed
 broom
 broomball
-beardtongue
 broomballer
 broombush
 backachy
@@ -18075,6 +18074,7 @@ buskins
 busks
 busload
 busman
+beardtongue
 busmen
 buss
 benda

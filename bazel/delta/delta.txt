@@ -8025,6 +8025,7 @@ dhurna
 dhurnas
 dhurra
 deeding
+diggable
 detrimentalness
 dhurry
 dhurrie
@@ -9479,7 +9480,6 @@ ditrigonally
 digestors
 digests
 digesture
-diggable
 digged
 digger
 diggers
