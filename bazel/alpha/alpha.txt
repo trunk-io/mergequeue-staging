@@ -11660,6 +11660,7 @@ anaesthesiology
 anaesthesiologist
 acalyculate
 anaesthesis
+animadverts
 anaesthetic
 anaesthetically
 ade
@@ -13196,7 +13197,6 @@ animadverted
 alloxy
 animadverter
 animadverting
-animadverts
 animal
 afterfeed
 animala
