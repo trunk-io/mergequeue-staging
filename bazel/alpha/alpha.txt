@@ -4744,6 +4744,7 @@ aecidia
 aecidiaceae
 aecidial
 aecidioform
+arabesque
 aecidiomycetes
 aecidiospore
 aecidiostage
@@ -18323,7 +18324,6 @@ arabana
 arabella
 arabesk
 arabesks
-arabesque
 arabesquerie
 arabesques
 arbiters
