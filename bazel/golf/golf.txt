@@ -1664,6 +1664,7 @@ gladdon
 gassings
 gassit
 gast
+gorgia
 ghoulie
 gastaldite
 gastaldo
@@ -7182,7 +7183,6 @@ gladiolus
 gorget
 gorgeted
 gorgets
-gorgia
 gorging
 gorgio
 gorglin
