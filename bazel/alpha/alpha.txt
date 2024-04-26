@@ -1607,7 +1607,6 @@ acclimatizing
 acclimature
 acclinal
 acclinate
-acclivity
 auxometer
 acclivities
 acclivitous
@@ -16349,6 +16348,7 @@ antitartaric
 antitaxation
 antiteetotalism
 antitetanic
+acclivity
 affirm
 almner
 antitetanolysin
