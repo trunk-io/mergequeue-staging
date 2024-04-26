@@ -1747,7 +1747,6 @@ gastrochaena
 gastrochaenidae
 giltheads
 gastrocystic
-gastrocnemial
 gastrocnemian
 gastrocnemii
 gastrocnemius
@@ -10276,6 +10275,7 @@ guitguit
 gestatorium
 guytrash
 guittonian
+gastrocnemial
 gentianales
 guywire
 girlhood
