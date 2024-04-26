@@ -9182,7 +9182,6 @@ biosatellite
 becking
 biosatellites
 biosciences
-bathmotropic
 bioscientific
 bioscientist
 bepaints
@@ -13628,6 +13627,7 @@ bourn
 bourne
 becalm
 bournes
+bathmotropic
 bagwomen
 bournonite
 bournous
