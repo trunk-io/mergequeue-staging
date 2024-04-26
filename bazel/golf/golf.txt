@@ -2395,7 +2395,6 @@ gelatinify
 gelatiniform
 gelatinigerous
 gelatinisation
-gelatinise
 gelatinised
 gelatinising
 grumpily
@@ -10630,6 +10629,7 @@ gurjun
 geometrician
 gyroceracone
 gurk
+gelatinise
 glyconin
 gurglingly
 gurl
