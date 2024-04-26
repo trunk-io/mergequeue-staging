@@ -3392,7 +3392,6 @@ firefanging
 fieldmen
 fieldmice
 fieldmouse
-funebre
 fieldsman
 fieldsmen
 fieldstone
@@ -6398,6 +6397,7 @@ flukier
 flukiest
 flukily
 flukiness
+funebre
 fluking
 flumadiddle
 flumdiddle
