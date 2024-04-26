@@ -6122,6 +6122,7 @@ gluemaker
 ganta
 gluepot
 gluers
+guldengroschen
 glues
 glug
 gravegarth
@@ -10304,7 +10305,6 @@ groundling
 grulla
 guld
 gulden
-guldengroschen
 guldens
 genericalness
 gule
