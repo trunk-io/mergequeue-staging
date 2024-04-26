@@ -2372,7 +2372,6 @@ electrodispersive
 electrodissolution
 electroed
 electroencephalogram
-electroencephalograms
 electroencephalograph
 electroencephalographical
 electroendosmose
@@ -6688,6 +6687,7 @@ enteroplasty
 enteropneusta
 enteropneustan
 enteroptotic
+electroencephalograms
 enterorrhagia
 enterorrhexis
 etatisms
