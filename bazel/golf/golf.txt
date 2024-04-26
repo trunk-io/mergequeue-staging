@@ -2777,7 +2777,6 @@ genevoise
 geniality
 genially
 glassmaker
-gonoplasm
 goupen
 genialness
 garmentmaker
@@ -5298,6 +5297,7 @@ glazement
 glazen
 glazers
 glazes
+gonoplasm
 glaziery
 glaziers
 glaziest

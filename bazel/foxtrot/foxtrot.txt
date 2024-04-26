@@ -4823,7 +4823,6 @@ flagmaker
 flagmen
 frilling
 flagon
-flagonless
 flagons
 fasciolaria
 fleadock
@@ -9790,6 +9789,7 @@ freith
 freity
 foins
 fremd
+flagonless
 fremdly
 flake
 fremdness
