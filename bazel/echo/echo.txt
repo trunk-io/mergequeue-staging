@@ -404,7 +404,6 @@ excitation
 ebulliency
 ebulliently
 ebulliometer
-epitympanic
 expansure
 ebulliometry
 ebullioscope
@@ -1255,6 +1254,7 @@ eelpot
 eelpout
 eelpouts
 eelshop
+epitympanic
 eelskin
 eelware
 eelworm

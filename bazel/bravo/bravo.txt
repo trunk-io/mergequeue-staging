@@ -13662,6 +13662,7 @@ bout
 boutade
 boutefeu
 banqueteer
+bugre
 bouteloua
 baseliner
 bouteria
@@ -16882,7 +16883,6 @@ bugology
 bugologist
 bugong
 bugout
-bugre
 bugs
 belowstairs
 bugseed
