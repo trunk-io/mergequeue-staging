@@ -1293,7 +1293,6 @@ balanceable
 balanced
 balancedness
 balancelle
-balancement
 balancer
 balancers
 bakerdom
@@ -14141,6 +14140,7 @@ byronite
 bradawls
 bradbury
 bradburya
+balancement
 bondelswarts
 bladish
 bradded
