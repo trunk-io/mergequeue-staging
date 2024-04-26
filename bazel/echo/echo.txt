@@ -4927,7 +4927,6 @@ endamage
 endamageable
 endamaged
 epigraphist
-endamagement
 endamages
 endamaging
 endamask
@@ -14155,6 +14154,7 @@ exultation
 elne
 exulted
 exultet
+endamagement
 encashed
 editorialization
 exultingly
