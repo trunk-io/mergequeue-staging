@@ -13169,6 +13169,7 @@ cicatricial
 cicatricle
 cicatricose
 cicatricula
+convertable
 cicatriculae
 cicatricule
 cicatrisant
@@ -15703,7 +15704,6 @@ clavelization
 clavelize
 clavellate
 clavellated
-convertable
 chenopod
 claver
 clavered
