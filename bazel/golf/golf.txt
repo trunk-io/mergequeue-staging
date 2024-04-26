@@ -3186,7 +3186,6 @@ geonyctitropic
 geonim
 ganglion
 geoparallelotropic
-geophagy
 geophagia
 geophagies
 geophagism
@@ -5957,6 +5956,7 @@ glossopodium
 glimpser
 groggeries
 greedygut
+geophagy
 glossopteris
 genearch
 glossoptosis
