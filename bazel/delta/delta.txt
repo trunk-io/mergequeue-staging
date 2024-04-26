@@ -16786,7 +16786,6 @@ drave
 dravya
 dravidian
 dolven
-dravidic
 dravite
 draw
 dispositive
@@ -17805,6 +17804,7 @@ dissertation
 ducs
 duct
 ducted
+dravidic
 ductibility
 ductible
 ductile
