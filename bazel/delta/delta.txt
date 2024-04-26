@@ -3389,7 +3389,6 @@ deflagration
 deflagrator
 deflate
 deflated
-deflater
 deflates
 deflation
 deflationary
@@ -15126,6 +15125,7 @@ dolcemente
 dolci
 dolciano
 dolcino
+deflater
 doldrums
 dole
 doleance

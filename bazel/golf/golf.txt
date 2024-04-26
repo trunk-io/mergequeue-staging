@@ -1458,7 +1458,6 @@ garnishee
 gelatinization
 garnishees
 galleypot
-gasbags
 garnisheing
 garnishes
 garnishment
@@ -5237,6 +5236,7 @@ glassworker
 glassworkers
 gaius
 glassworks
+gasbags
 gregal
 glassworm
 glasswort
