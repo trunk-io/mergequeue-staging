@@ -1680,6 +1680,7 @@ eide
 eident
 eydent
 eidently
+endearments
 eider
 existential
 eiderdown
@@ -4984,7 +4985,6 @@ endearing
 endearingly
 endearingness
 endearment
-endearments
 eyebar
 endears
 endeavored
