@@ -1829,7 +1829,6 @@ debitable
 demultiplexing
 diplacuses
 debite
-debiteuse
 debiting
 debitrix
 dineric
@@ -2129,6 +2128,7 @@ decarnated
 discriminations
 decart
 dislodgement
+debiteuse
 decartelization
 decartelize
 dysodyle
