@@ -7853,7 +7853,6 @@ gramps
 gemmiparity
 grampus
 gagor
-grateless
 gaddish
 grampuses
 grey
@@ -10453,6 +10452,7 @@ glitter
 gramenite
 gun
 guna
+grateless
 gunarchy
 gunate
 gunated

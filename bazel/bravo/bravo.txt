@@ -6878,6 +6878,7 @@ berun
 berust
 bervie
 berwick
+biconjugate
 berzelianite
 berzeliite
 bontee
@@ -8122,7 +8123,6 @@ biconic
 biconical
 biconically
 bowldery
-biconjugate
 beamfilling
 biconnected
 bossily
