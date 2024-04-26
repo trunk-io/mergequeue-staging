@@ -914,6 +914,7 @@ gamelang
 gamelans
 gameless
 gathers
+guardstone
 gamely
 gamelike
 gonfalonier
@@ -7832,7 +7833,6 @@ grammatistical
 grammatite
 grammatolator
 grammatology
-guardstone
 goos
 grammatophyllum
 gramme
