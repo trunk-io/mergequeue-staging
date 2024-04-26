@@ -6200,7 +6200,6 @@ flashlike
 flourished
 flourishes
 flourishy
-foobar
 flourishingly
 flourlike
 figurehead
@@ -11102,6 +11101,7 @@ funambuloes
 funaria
 flavourful
 funariaceous
+foobar
 fawningness
 foregirth
 funbre
