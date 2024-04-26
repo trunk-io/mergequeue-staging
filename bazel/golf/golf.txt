@@ -786,7 +786,6 @@ galvanofaradization
 galvanoglyph
 galvanograph
 galvanography
-galvanographic
 goodly
 galvanolysis
 galvanology
@@ -2424,6 +2423,7 @@ geldability
 geldable
 geldant
 gambit
+galvanographic
 gelder
 genua
 gelders
