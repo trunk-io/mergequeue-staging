@@ -7070,7 +7070,6 @@ goosebeak
 gooseberry
 gooseberries
 goosebill
-goosebird
 greensward
 gooseboy
 goosebone
@@ -8329,6 +8328,7 @@ grippes
 grata
 gratae
 grate
+goosebird
 gastropoda
 grateful
 gratefullest
