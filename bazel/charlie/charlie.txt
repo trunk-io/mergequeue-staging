@@ -24293,7 +24293,6 @@ cookers
 congregating
 cookhouse
 cookhouses
-cooky
 cookie
 cookies
 cookings
@@ -26830,6 +26829,7 @@ counterexercise
 counterexplanation
 counterexposition
 counterexpostulation
+cooky
 counterextend
 claus
 counterextension
