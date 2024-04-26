@@ -9475,7 +9475,6 @@ escambron
 escamotage
 escamoteur
 escapable
-escapade
 evisceration
 escapado
 escapage
@@ -12258,6 +12257,7 @@ excussio
 eggar
 exdelicto
 exdie
+escapade
 exdividend
 exeat
 exec
