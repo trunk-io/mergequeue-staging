@@ -1645,7 +1645,6 @@ accommodates
 accommodating
 accommodatingly
 accommodationist
-accommodations
 accommodative
 accommodatively
 accommodativeness
@@ -7481,6 +7480,7 @@ albinic
 albinism
 albinisms
 albinistic
+accommodations
 albino
 albinoism
 albinos
