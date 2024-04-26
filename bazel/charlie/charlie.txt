@@ -2341,7 +2341,6 @@ candids
 countermands
 candier
 catakinesis
-candies
 candify
 candyfloss
 candyh
@@ -21199,6 +21198,7 @@ concelebration
 concelebrations
 concent
 concenter
+candies
 concentered
 concentering
 concentive
