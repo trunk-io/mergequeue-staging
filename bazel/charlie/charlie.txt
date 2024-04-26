@@ -12513,6 +12513,7 @@ chromophane
 chromophil
 chromophile
 chromophilia
+cnemial
 chromophilic
 chromophyll
 chromophilous
@@ -16955,7 +16956,6 @@ cmd
 catalecta
 cmdr
 cml
-cnemial
 conjurement
 cnemic
 cnemides
