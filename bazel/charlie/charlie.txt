@@ -15134,7 +15134,6 @@ civitas
 civite
 civory
 civvy
-contraparallelogram
 civvies
 cywydd
 ciwies
@@ -17748,6 +17747,7 @@ codebooks
 codebreak
 codebreaker
 codebtor
+contraparallelogram
 codebtors
 codec
 codeclination
