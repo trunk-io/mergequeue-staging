@@ -2699,6 +2699,7 @@ elegious
 elegise
 elegised
 elegises
+epigraph
 elegising
 elegist
 elegists
@@ -7879,7 +7880,6 @@ epigrammatizer
 epigrammatizing
 epigramme
 epigrams
-epigraph
 edgeways
 epigrapher
 epigraphy
