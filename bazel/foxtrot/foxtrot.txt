@@ -2428,7 +2428,6 @@ ferguson
 fergusonite
 feria
 feriae
-ferial
 ferias
 fantods
 feridgi
@@ -4623,6 +4622,7 @@ fitweed
 fitz
 fitzclarence
 fitzroy
+ferial
 fitzroya
 fiuman
 fiumara
