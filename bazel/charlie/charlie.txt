@@ -8715,7 +8715,6 @@ chanties
 catoblepas
 chantilly
 chanting
-chantingly
 chantlate
 chantment
 cornflag
@@ -22625,6 +22624,7 @@ connivingly
 connixation
 connochaetes
 clerete
+chantingly
 chapitral
 connoissance
 connoisseur
