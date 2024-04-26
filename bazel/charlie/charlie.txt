@@ -13490,6 +13490,7 @@ cigaresque
 cigaret
 cigarette
 cigarettes
+cise
 cigarfish
 cigarillo
 cigarillos
@@ -14558,7 +14559,6 @@ cisatlantic
 cisco
 ciscoes
 ciscos
-cise
 ciseaux
 cisele
 ciseleur
