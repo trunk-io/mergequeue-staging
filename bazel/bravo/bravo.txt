@@ -6879,7 +6879,6 @@ besnowed
 besa
 besagne
 bestiarian
-besague
 besaiel
 besaile
 bounded
@@ -12249,6 +12248,7 @@ boluses
 bom
 boma
 bomarea
+besague
 bomb
 bonce
 bombable
