@@ -1944,7 +1944,6 @@ gateway
 gatewaying
 grandaddy
 giarra
-gateways
 gateward
 gatewards
 guariba
@@ -2518,6 +2517,7 @@ geminorum
 geminous
 gemitores
 gemitorial
+gateways
 guardian
 gemless
 gemlich
