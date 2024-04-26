@@ -9683,6 +9683,7 @@ dehonestate
 dikast
 dikdik
 dil
+dishorner
 dilacerated
 dilacerating
 dilaceration
@@ -12368,7 +12369,6 @@ dishonoured
 dishonourer
 dishonouring
 dishorn
-dishorner
 dishorse
 dishouse
 dishpan
