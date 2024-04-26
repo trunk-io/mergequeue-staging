@@ -11825,7 +11825,6 @@ analyzes
 analyzing
 analkalinity
 anallagmatic
-anallagmatis
 anallantoic
 anallantoidea
 anallantoidean
@@ -24050,6 +24049,7 @@ autofluorescence
 autoformation
 autofrettage
 autogamy
+anallagmatis
 autogamic
 autogamies
 autogamous
