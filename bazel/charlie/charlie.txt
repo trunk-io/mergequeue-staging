@@ -9517,7 +9517,6 @@ checkle
 checkless
 checkline
 checklist
-checklists
 charadriiform
 checkman
 checkmark
@@ -30345,6 +30344,7 @@ cheliferidea
 consonants
 chordata
 caprifoliaceae
+checklists
 crux
 cruxes
 cruzado
