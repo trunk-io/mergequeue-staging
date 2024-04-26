@@ -9152,6 +9152,7 @@ erythrocytolysin
 erythrocytolysis
 erythrocytolytic
 erythrocytometry
+exculpations
 erythrocytoschisis
 ethaldehyde
 erythrocytosis
@@ -12213,7 +12214,6 @@ exculpate
 exculpated
 exculpating
 exculpation
-exculpations
 evirato
 exculpatorily
 excurrent
