@@ -1879,7 +1879,6 @@ gastropulmonic
 gastrorrhagia
 gorling
 gastrorrhaphy
-gastroschisis
 gastroscopy
 gastroscopic
 gastroscopies
@@ -5574,6 +5573,7 @@ gazelle
 glyoxalase
 glyoxalic
 gayyou
+gastroschisis
 glyoxalin
 glyoxaline
 gregarinian
