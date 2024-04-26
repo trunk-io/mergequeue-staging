@@ -10148,7 +10148,6 @@ etang
 etape
 eadish
 etapes
-ebauchoir
 etas
 ephete
 etatisme
@@ -10509,6 +10508,7 @@ ethnozoology
 ethnozoological
 ethography
 etholide
+ebauchoir
 ethologic
 ethological
 ethologically
