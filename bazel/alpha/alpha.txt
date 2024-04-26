@@ -3608,7 +3608,6 @@ adducent
 adducer
 adducers
 adduces
-adducible
 adduct
 adducted
 adducting
@@ -11946,6 +11945,7 @@ anaphroditous
 anaplasia
 anaplasis
 anaplasm
+adducible
 anaplasma
 anaplasmoses
 anaplasmosis
