@@ -11147,7 +11147,6 @@ chlamydes
 cliftonia
 chlamydobacteriaceae
 chlamydobacteriales
-chlamydomonadaceae
 chlamydomonadidae
 chlamydomonas
 chlamydophore
@@ -12733,6 +12732,7 @@ chuffing
 chuffs
 chug
 chugalug
+chlamydomonadaceae
 chugalugged
 chugalugging
 chugalugs
