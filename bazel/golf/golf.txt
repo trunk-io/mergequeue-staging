@@ -1243,7 +1243,6 @@ gantsl
 ganza
 gynostemia
 gaol
-gaoled
 gaoler
 gaolering
 gaolerness
@@ -5865,6 +5864,7 @@ glos
 gollywog
 genipapada
 gloss
+gaoled
 glossa
 gastrophilite
 glossal

@@ -1149,7 +1149,6 @@ caledonian
 countercarte
 caledonite
 calef
-calefacient
 craunched
 calefaction
 calefactive
@@ -27097,6 +27096,7 @@ counterrevolutions
 counterriposte
 counterroll
 counterrotating
+calefacient
 counterround
 counterruin
 counters
