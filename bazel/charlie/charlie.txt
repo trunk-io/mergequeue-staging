@@ -7100,6 +7100,7 @@ centralistic
 centrality
 centralities
 centripetally
+checkle
 conditionals
 centralization
 centralize
@@ -9515,7 +9516,6 @@ checkhook
 charge
 checky
 checklaton
-checkle
 checkless
 checkline
 checklist

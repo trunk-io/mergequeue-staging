@@ -6256,7 +6256,6 @@ aglycone
 aglycones
 aglycons
 aglycosuric
-aglimmer
 aglint
 aglipayano
 aglypha
@@ -8336,6 +8335,7 @@ aliments
 alimentum
 alimony
 alimonied
+aglimmer
 alimonies
 alymphia
 abbate
