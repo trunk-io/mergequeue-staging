@@ -2505,7 +2505,6 @@ declarers
 declares
 declaring
 declass
-declasse
 declassed
 divisibly
 declassee
@@ -4606,6 +4605,7 @@ demimentoniere
 demimillionaire
 develops
 demimondain
+declasse
 demimondaine
 dhamma
 demimondaines
