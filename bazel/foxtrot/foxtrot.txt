@@ -161,6 +161,7 @@ factioneer
 factionism
 faradopalpation
 factionist
+floor
 factionistism
 forecatharping
 factious
@@ -5977,7 +5978,6 @@ floodwood
 felinities
 flooey
 flook
-floor
 floorage
 floorages
 floorboard

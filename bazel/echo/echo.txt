@@ -5191,7 +5191,6 @@ endogenies
 endogenous
 endogenously
 endogens
-endoglobular
 extralimital
 endognath
 endognathal
@@ -14176,6 +14175,7 @@ erpetologist
 exurbs
 exurge
 exuscitate
+endoglobular
 exust
 endomysial
 exuviable
