@@ -3121,7 +3121,6 @@ fibrocaseous
 fibrocement
 fibrochondrosteal
 fibrocyst
-fibrocystic
 fibrocystoma
 fairwater
 fibrocyte
@@ -10244,6 +10243,7 @@ frivoler
 frivoling
 foolship
 frivolism
+fibrocystic
 frivolist
 frivolity
 frivolities
