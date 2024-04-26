@@ -4751,6 +4751,7 @@ encysts
 encl
 enclaret
 enclasp
+extracathedral
 enclasped
 enclasping
 enclasps
@@ -13758,7 +13759,6 @@ extrabureau
 extraburghal
 expressionism
 extracarpal
-extracathedral
 extracellular
 extracellularly
 extracerebral
