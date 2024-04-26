@@ -1593,7 +1593,6 @@ bally
 bellowing
 balliage
 ballies
-ballyhack
 ballyhoo
 ballyhooed
 ballyhooer
@@ -16555,6 +16554,7 @@ bucellas
 bucentaur
 bucentur
 bucephala
+ballyhack
 bucephalus
 blacking
 buceros
