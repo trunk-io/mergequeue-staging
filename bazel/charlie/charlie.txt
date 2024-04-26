@@ -3252,7 +3252,6 @@ cycadales
 crackpot
 caprylene
 caprylic
-caprylyl
 caprylin
 cetraria
 caprylone
@@ -4661,6 +4660,7 @@ carposperm
 carposporangial
 carposporangium
 convinced
+caprylyl
 carposporic
 carposporous
 carpostome
