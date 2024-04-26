@@ -3712,7 +3712,6 @@ dilatometrically
 dehydratase
 dimensioned
 dehydrate
-dehydrated
 dehydrates
 dehydrating
 dehydration
@@ -11606,6 +11605,7 @@ discontenting
 discontentments
 discontiguity
 discontiguous
+dehydrated
 discontiguousness
 discontinuable
 discontinual
