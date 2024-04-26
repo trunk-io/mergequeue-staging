@@ -5133,7 +5133,6 @@ bestrewed
 beflagging
 beflags
 beflannel
-beflatter
 beflea
 befleaing
 befleas
@@ -9651,6 +9650,7 @@ bisected
 bisecting
 bisection
 bisectional
+beflatter
 bisectionally
 bisector
 bisectors
