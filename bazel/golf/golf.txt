@@ -4247,7 +4247,6 @@ gubernatrix
 gymnasial
 gymnasiarch
 gumminess
-gymnasiast
 gymnasisia
 gymnasium
 gymnasiums
@@ -6355,6 +6354,7 @@ gnostically
 gnosticism
 gnosticity
 gnosticize
+gymnasiast
 gnotobiology
 gnotobiologies
 gnotobiosis
