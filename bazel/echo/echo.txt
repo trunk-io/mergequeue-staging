@@ -8954,7 +8954,6 @@ ergamine
 ergane
 ergasterion
 ergastic
-ergastoplasm
 ergastoplasmic
 ergastulum
 enucleating
@@ -13101,6 +13100,7 @@ expeditiousness
 expertly
 electrooptics
 expertness
+ergastoplasm
 enfeature
 expertship
 expetible
