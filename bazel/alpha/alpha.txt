@@ -5038,6 +5038,7 @@ aerohydropathy
 aerohydroplane
 aerohydrotherapy
 aquavalent
+autological
 aerohydrous
 aeroides
 anodine
@@ -24163,7 +24164,6 @@ autoloaders
 autoloading
 autology
 aphelia
-autological
 autologist
 autologous
 autoluminescence
