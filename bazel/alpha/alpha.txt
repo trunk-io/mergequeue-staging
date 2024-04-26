@@ -1594,7 +1594,6 @@ acclimatisation
 acclimatise
 acclimatised
 acclimatiser
-acclimatizable
 acclimatization
 apokreos
 acclimatize
@@ -7665,6 +7664,7 @@ alcidine
 alcids
 alcine
 alcyon
+acclimatizable
 alcyonaria
 alcyonarian
 alcyone
