@@ -927,7 +927,6 @@ faradisms
 foray
 formalisation
 faradized
-faradizer
 faradizes
 faradizing
 finitely
@@ -4242,6 +4241,7 @@ fireplough
 fireplow
 fleeceable
 fireplug
+faradizer
 fireproofed
 fireproofing
 fireproofness
