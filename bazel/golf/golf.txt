@@ -5141,7 +5141,6 @@ gourdful
 glamourizer
 glamourless
 glamourous
-glamourously
 glamours
 glance
 glanced
@@ -7169,6 +7168,7 @@ gimmicking
 gorfly
 gorge
 gorged
+glamourously
 gorgeous
 gorgeousness
 gorgeret
