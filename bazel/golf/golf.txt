@@ -8090,7 +8090,6 @@ granulative
 granulator
 granulators
 gitano
-granule
 granules
 granulet
 granulite
@@ -9041,6 +9040,7 @@ grinch
 groupers
 grincome
 grippier
+granule
 grind
 grindable
 grindal
