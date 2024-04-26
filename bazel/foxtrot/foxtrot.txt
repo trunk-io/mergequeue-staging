@@ -259,7 +259,6 @@ fellowless
 fadged
 fowlerite
 fadges
-fadging
 fadingly
 fadings
 fadme
@@ -10488,6 +10487,7 @@ foozle
 frostbitten
 frostbound
 frosted
+fadging
 frostflower
 frostier
 foamers
