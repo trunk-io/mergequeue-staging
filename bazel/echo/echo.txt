@@ -4334,7 +4334,6 @@ emulsoidal
 exsuccous
 emulsoids
 endoabdominal
-emulsor
 emunct
 emunctories
 emundation
@@ -13489,6 +13488,7 @@ exsiccation
 exsiccative
 exsiccator
 exsiliency
+emulsor
 exsolution
 exsolve
 exsolved
