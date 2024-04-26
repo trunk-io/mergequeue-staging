@@ -5295,7 +5295,6 @@ begird
 begirding
 begirdling
 begirds
-bathymetrically
 begirt
 beglad
 bristlebird
@@ -6699,6 +6698,7 @@ bergfall
 berggylt
 bergh
 baxterian
+bathymetrically
 berghaan
 bergy
 berginize
