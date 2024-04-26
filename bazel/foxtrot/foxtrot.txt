@@ -1083,7 +1083,6 @@ farmstead
 farmsteads
 farmtown
 farnesol
-farnesols
 farness
 farnesses
 faro
@@ -9658,6 +9657,7 @@ freedman
 freedmen
 furthest
 freedom
+farnesols
 fissirostres
 freedoms
 freedoot
