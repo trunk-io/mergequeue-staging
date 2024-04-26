@@ -1474,7 +1474,6 @@ gasts
 garotte
 garotted
 garotter
-garotters
 garottes
 gravest
 garous
@@ -2891,6 +2890,7 @@ gensengs
 gentamicin
 genteel
 glike
+garotters
 genteeler
 genteelism
 galactophthysis
