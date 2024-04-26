@@ -5463,6 +5463,7 @@ dermosynovitis
 deodorisation
 deodorise
 deodorised
+dissectible
 deodoriser
 deodorising
 deodorization
@@ -13483,7 +13484,6 @@ disseat
 disseated
 disseating
 dissected
-dissectible
 dissection
 dissections
 dissector
