@@ -7192,7 +7192,6 @@ footballer
 footballist
 footballs
 footbath
-footbaths
 footbeat
 footblower
 footboard
@@ -7415,6 +7414,7 @@ forbecause
 forbesite
 forby
 forewarnings
+footbaths
 foreplot
 fruitful
 forbid
