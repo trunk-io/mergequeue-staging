@@ -2150,7 +2150,6 @@ acetonemic
 acetones
 acetonic
 acetonyl
-acetonylidene
 acetonitrile
 acetonization
 aortographies
@@ -11909,6 +11908,7 @@ anansi
 ananta
 ananter
 anantherate
+acetonylidene
 ananthous
 anapaestic
 anapaestical
