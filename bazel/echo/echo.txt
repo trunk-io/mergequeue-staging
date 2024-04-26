@@ -1525,7 +1525,6 @@ eker
 eggberry
 eggcup
 eggcups
-eggeater
 egged
 egger
 eggers
@@ -4426,6 +4425,7 @@ enanthematous
 enantioblastic
 enantioblastous
 enantiomer
+eggeater
 enantiomeric
 enantiomorph
 enantiomorphy
