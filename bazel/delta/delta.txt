@@ -7587,6 +7587,7 @@ deviance
 deviances
 dsnames
 dominions
+doggrelize
 deviancy
 deviancies
 deviant
@@ -15006,7 +15007,6 @@ doggones
 doggonest
 doggoning
 doggrel
-doggrelize
 doggrels
 doghead
 doghood
