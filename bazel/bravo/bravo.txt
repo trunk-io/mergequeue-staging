@@ -13919,7 +13919,6 @@ brabbler
 brabblers
 bugbears
 brabbling
-brabblingly
 brabejum
 bracae
 braccae
@@ -16211,6 +16210,7 @@ browpost
 brows
 bobolinks
 browsability
+brabblingly
 browsage
 browsed
 browser
