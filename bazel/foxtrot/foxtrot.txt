@@ -1135,7 +1135,6 @@ flatteringly
 farther
 fartherer
 farthermost
-farthest
 farthing
 fleabitten
 farthingale
@@ -4910,6 +4909,7 @@ flame
 fill
 fnese
 flamingly
+farthest
 flamefishes
 fumer
 forcepslike
