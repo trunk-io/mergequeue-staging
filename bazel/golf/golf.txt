@@ -792,7 +792,6 @@ gradations
 galvanomagnetic
 galvanomagnetism
 galvanometer
-galvanometry
 galvanometric
 geometries
 galvanometrical
@@ -10719,6 +10718,7 @@ gustiest
 gusting
 gustless
 gustoes
+galvanometry
 gustoish
 gustoso
 gusts
