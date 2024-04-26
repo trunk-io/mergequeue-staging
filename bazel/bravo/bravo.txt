@@ -6153,7 +6153,6 @@ benedictine
 benedictinism
 benediction
 benedictional
-benedictionale
 benedictionary
 benedictions
 brool
@@ -15070,6 +15069,7 @@ breweries
 bunglesome
 brewhouse
 brewhouses
+benedictionale
 brewing
 brewings
 brewis
