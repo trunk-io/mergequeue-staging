@@ -10505,7 +10505,6 @@ diphthongisation
 diphthongise
 dalar
 diphthongised
-diphthongising
 diphthongization
 diphthongize
 diphthongized
@@ -17583,6 +17582,7 @@ drumrolls
 drums
 drumskin
 drumsler
+diphthongising
 drumstick
 drumsticks
 dealfishes

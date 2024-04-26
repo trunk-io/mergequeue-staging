@@ -247,7 +247,6 @@ easeled
 easeless
 easement
 easements
-encystation
 easer
 extricating
 easers
@@ -2774,6 +2773,7 @@ eleomargaric
 epicerebral
 eleometer
 eleonorite
+encystation
 eleoplast
 eleoptene
 eleostearate
