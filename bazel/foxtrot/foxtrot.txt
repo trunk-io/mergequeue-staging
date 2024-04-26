@@ -6474,7 +6474,6 @@ fluorapatite
 favorite
 foreaccounting
 forestair
-fluorbenzene
 fluorboric
 fluorene
 fluorenes
@@ -10916,6 +10915,7 @@ fullery
 fulleries
 fullering
 fullers
+fluorbenzene
 fullfaces
 fullfil
 fictile
