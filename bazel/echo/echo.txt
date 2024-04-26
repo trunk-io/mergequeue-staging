@@ -2640,7 +2640,6 @@ electrotherapeutical
 expressionful
 electrotherapeutist
 edaphodont
-electrotherapist
 electrotheraputic
 electrotheraputical
 electrotheraputically
@@ -3041,6 +3040,7 @@ elliot
 elliott
 ellipse
 epenla
+electrotherapist
 ellipses
 ellipsis
 ellipsograph
