@@ -7890,7 +7890,6 @@ alembicate
 alembicated
 alembics
 alembroth
-alemite
 alemmal
 alen
 alencon
@@ -9973,6 +9972,7 @@ ambas
 ambash
 ambassade
 ambassadeur
+alemite
 ambassador
 ambassadorial
 ambassadorially
