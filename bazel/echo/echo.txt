@@ -618,7 +618,6 @@ echoers
 echoes
 ebonising
 echogram
-echograph
 echoic
 echoing
 echoingly
@@ -3970,6 +3969,7 @@ emmeleia
 emmenagogic
 emmenagogue
 emmenic
+echograph
 emmental
 emmer
 emmergoose
