@@ -6403,7 +6403,6 @@ benzenyl
 benzenoid
 billsticking
 benzhydroxamic
-benzidin
 benzidine
 benzidino
 benzidins
@@ -7254,6 +7253,7 @@ bestirs
 bloodroots
 bestock
 bestore
+benzidin
 bestove
 bestow
 bestowable
