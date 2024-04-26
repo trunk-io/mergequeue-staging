@@ -683,6 +683,7 @@ damped
 dampen
 diobely
 dampened
+detection
 dampener
 disencumbrance
 dampeners
@@ -7177,7 +7178,6 @@ detecter
 detecters
 detectible
 detecting
-detection
 detections
 depleteable
 dualities
