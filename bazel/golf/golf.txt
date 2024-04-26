@@ -1936,7 +1936,6 @@ gateless
 gatelike
 gatemaker
 gatemen
-gatepost
 guffy
 genetical
 gateposts
@@ -9229,6 +9228,7 @@ grizzlier
 grizzliest
 grizzling
 gro
+gatepost
 groaned
 groaner
 guttular
