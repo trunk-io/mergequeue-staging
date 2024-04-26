@@ -3404,7 +3404,6 @@ bassarisk
 birlers
 basset
 basseting
-bassetta
 bassette
 bassetted
 bassetting
@@ -10321,6 +10320,7 @@ blancher
 blanchers
 blanches
 blanchi
+bassetta
 blanchimeter
 blanching
 blancmange
