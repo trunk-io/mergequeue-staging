@@ -4113,7 +4113,6 @@ finniest
 fellatrixes
 finnip
 fletching
-finnish
 finnmark
 finnmarks
 finnoc
@@ -10376,6 +10375,7 @@ frondage
 frondation
 fronde
 fruitages
+finnish
 frondent
 foredoing
 frondesce
