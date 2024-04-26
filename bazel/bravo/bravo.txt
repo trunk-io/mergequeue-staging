@@ -2581,7 +2581,6 @@ bargeboard
 barged
 bargeer
 bargees
-bargeese
 bargehouse
 bargelike
 bargelli
@@ -14310,6 +14309,7 @@ brailler
 brailles
 braillewriter
 brailling
+bargeese
 braillist
 brails
 brain
