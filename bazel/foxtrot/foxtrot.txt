@@ -5966,6 +5966,7 @@ floodlilit
 floodlit
 floodmark
 facioplegia
+footlessness
 floodproof
 floods
 fortifiable
@@ -7240,7 +7241,6 @@ footler
 footlers
 footles
 footless
-footlessness
 footlights
 fraidycat
 footling
