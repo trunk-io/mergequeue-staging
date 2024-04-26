@@ -1989,7 +1989,6 @@ fourniture
 feedstuffs
 feedway
 feedwater
-favela
 feeing
 feel
 feeler
@@ -2571,6 +2570,7 @@ ferri
 ferry
 ferriages
 ferryboats
+favela
 ferric
 fopperly
 familistery
