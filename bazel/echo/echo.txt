@@ -5049,7 +5049,6 @@ endited
 endites
 enditing
 eichwaldite
-endive
 endives
 evens
 endleaf
@@ -5280,6 +5279,7 @@ endopterygota
 endopterygote
 endopterygotic
 endopterygotism
+endive
 endopterygotous
 endorachis
 endoradiosonde
