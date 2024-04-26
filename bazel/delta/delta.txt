@@ -7216,7 +7216,6 @@ deteriorate
 deteriorated
 deteriorates
 deteriorating
-deterioration
 deteriorationist
 deteriorations
 deteriorative
@@ -8753,6 +8752,7 @@ diazohydroxide
 diazoic
 diffident
 diazoimide
+deterioration
 diazole
 diazoma
 diazomethane
