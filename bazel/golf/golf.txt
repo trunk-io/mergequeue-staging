@@ -1197,7 +1197,6 @@ ganodont
 ganodonta
 ganodus
 genus
-ganofs
 ganoid
 ganoidal
 ganoidei
@@ -2235,6 +2234,7 @@ gearwheels
 glistening
 gease
 geason
+ganofs
 geast
 geaster
 geat

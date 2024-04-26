@@ -1242,7 +1242,6 @@ flagellosis
 fashioners
 fashioning
 flywort
-fashionist
 fashionize
 furiousity
 fashionless
@@ -7373,6 +7372,7 @@ foraminal
 farer
 foramination
 foraminifer
+fashionist
 foraminiferal
 foraminiferan
 fumitory
