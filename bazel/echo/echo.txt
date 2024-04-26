@@ -6932,7 +6932,6 @@ entomophthoraceae
 entomophthoraceous
 eschalot
 entomophthorales
-elixirs
 entomophthorous
 entomosporium
 entomostracan
@@ -9475,6 +9474,7 @@ escallop
 esseda
 escalloped
 equiponderation
+elixirs
 escalop
 escalope
 escaloping
