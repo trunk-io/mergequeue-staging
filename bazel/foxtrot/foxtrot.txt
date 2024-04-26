@@ -5453,7 +5453,6 @@ flenched
 flenches
 frontispieces
 flenching
-flense
 flinging
 flensed
 flenser
@@ -11187,6 +11186,7 @@ funerally
 funerals
 funerary
 funeration
+flense
 funereal
 funereality
 fumigation
