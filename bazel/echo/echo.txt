@@ -3372,7 +3372,6 @@ embars
 embase
 embassador
 endointoxication
-embassadress
 embassage
 embassy
 embassiate
@@ -10620,6 +10619,7 @@ euaster
 eubacteria
 eubacteriales
 eubacterium
+embassadress
 effusing
 eubasidii
 euboean
