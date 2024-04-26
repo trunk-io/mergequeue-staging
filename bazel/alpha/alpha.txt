@@ -14530,7 +14530,6 @@ anthraconite
 aspis
 amorite
 anthracosaurus
-anthracosis
 anthracothere
 anthracotheriidae
 anthracotherium
@@ -19653,6 +19652,7 @@ arianizer
 arianrhod
 aryans
 arias
+anthracosis
 aryballi
 aryballoi
 aryballoid
