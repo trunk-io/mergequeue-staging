@@ -6257,6 +6257,7 @@ dermatorrhagia
 dermatorrhea
 dermatorrhoea
 discommon
+disused
 dermatoscopy
 demurringly
 dermatoses
@@ -14099,7 +14100,6 @@ dysurias
 dysuric
 disusage
 disuse
-disused
 disuses
 disusing
 disutility
