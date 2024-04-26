@@ -21198,7 +21198,6 @@ ashstone
 asteroidean
 ashthroat
 ashtoreth
-ashtray
 ashtrays
 ananism
 aditio
@@ -22885,6 +22884,7 @@ atropia
 atropic
 antimonarch
 atropidae
+ashtray
 atropin
 atropines
 atropinization
