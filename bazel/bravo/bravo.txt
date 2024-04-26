@@ -7978,7 +7978,6 @@ bibliothecae
 bibliothecaire
 bibliothecal
 bibliothecary
-bibliothecarian
 bibliothecas
 bibliotheke
 bibliotheque
@@ -10145,6 +10144,7 @@ brahmins
 blackfishing
 blackfly
 blackflies
+bibliothecarian
 bibasic
 blackfriars
 blackguard
