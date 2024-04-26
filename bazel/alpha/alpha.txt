@@ -11443,7 +11443,6 @@ amtrak
 amu
 aweather
 amuchco
-amuck
 amueixa
 amugis
 amuguis
@@ -14673,6 +14672,7 @@ anthropopathy
 anthropopathically
 anthropopathism
 amphibial
+amuck
 anthropopathite
 anthropophagy
 anthropophagic
