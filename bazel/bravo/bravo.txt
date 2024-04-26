@@ -3140,7 +3140,6 @@ basecourt
 based
 basehearted
 baseheartedness
-baselard
 baseless
 baselessly
 baselessness
@@ -6602,6 +6601,7 @@ berake
 bookstack
 belittles
 basilyst
+baselard
 beraking
 berakoth
 boresome
