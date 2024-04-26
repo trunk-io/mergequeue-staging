@@ -7010,6 +7010,7 @@ airproofs
 airscape
 airscapes
 airscrew
+augurer
 airscrews
 airshed
 airsheds
@@ -22985,7 +22986,6 @@ anisophylly
 attempters
 attemptive
 attemptless
-augurer
 attempts
 attend
 attendance
