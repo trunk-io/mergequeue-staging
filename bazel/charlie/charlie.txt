@@ -1573,6 +1573,7 @@ calorimeter
 calorimeters
 calorimetry
 calorimetric
+carrioles
 calorimetrical
 calorimetrically
 calorimotor
@@ -4713,7 +4714,6 @@ carrigeen
 carrying
 carryings
 carriole
-carrioles
 carrion
 carryon
 carrions
