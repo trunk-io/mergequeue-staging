@@ -9125,7 +9125,6 @@ afterbreach
 alman
 almanac
 anahau
-authenticatable
 almanacs
 almander
 almandine
@@ -17450,6 +17449,7 @@ apostemate
 apostematic
 apostemation
 apostematous
+authenticatable
 aposteme
 aposteriori
 aposthia
