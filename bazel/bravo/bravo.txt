@@ -4537,6 +4537,7 @@ becrawl
 becrawled
 becrawling
 becreep
+boomeranged
 becry
 bleery
 becrime
@@ -12750,7 +12751,6 @@ boombox
 boomdas
 boomed
 boomer
-boomeranged
 boomerangs
 boomers
 boomy

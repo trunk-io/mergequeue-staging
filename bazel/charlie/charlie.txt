@@ -2528,6 +2528,7 @@ canman
 cann
 cusparidine
 canna
+crystallomagnetic
 cannabic
 cannabidiol
 cannabin
@@ -29476,7 +29477,6 @@ crystalloid
 crystalloidal
 crystallology
 crystalloluminescence
-crystallomagnetic
 crystallometry
 crystallometric
 crystallophyllian
