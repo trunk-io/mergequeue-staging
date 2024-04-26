@@ -7023,7 +7023,6 @@ beslave
 beslaved
 besleeve
 beslime
-beslimed
 beslimer
 beslimes
 backtalk
@@ -12425,6 +12424,7 @@ bondslave
 bondsman
 bondsmen
 bondstone
+beslimed
 bondswoman
 bondswomen
 bonduc
