@@ -336,7 +336,6 @@ eaves
 eavesdrop
 eavesdropper
 edingtonite
-eavesdroppers
 eavesdropping
 eavesdrops
 eptatretidae
@@ -14161,6 +14160,7 @@ exultet
 encashed
 exultingly
 exults
+eavesdroppers
 exumbral
 exumbrella
 exundance

@@ -1771,7 +1771,6 @@ gastrodisk
 gastroduodenal
 genarchship
 gastroduodenitis
-gastroduodenoscopy
 gastroduodenostomy
 gastroduodenostomies
 gastroduodenotomy
@@ -5524,6 +5523,7 @@ glycosuria
 gazeboes
 glycosuric
 glycuresis
+gastroduodenoscopy
 glycuronic
 glycuronid
 graph
