@@ -8853,7 +8853,6 @@ eraser
 erasers
 erases
 eria
-erasing
 enquiring
 erasion
 erasions
@@ -13790,6 +13789,7 @@ extractable
 extractant
 edituate
 extracted
+erasing
 extractibility
 extractible
 extractiform
