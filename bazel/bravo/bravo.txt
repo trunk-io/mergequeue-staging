@@ -2442,7 +2442,6 @@ barbotine
 barbouillage
 bakli
 barbra
-barbre
 barbs
 barbu
 barbudo
@@ -6252,6 +6251,7 @@ bollworm
 benighten
 benighter
 benighting
+barbre
 benightmare
 benightment
 benign

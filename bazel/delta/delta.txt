@@ -1454,6 +1454,7 @@ dcollet
 dcolletage
 dcor
 ddname
+dikaryophasic
 ddt
 dea
 deaccession
@@ -9674,7 +9675,6 @@ dika
 dikage
 dikamali
 dikaryon
-dikaryophasic
 diverter
 dikaryophyte
 dikaryophytic
