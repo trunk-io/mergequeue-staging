@@ -3709,7 +3709,6 @@ antepectoral
 adenocystomatous
 adenodermia
 adenodiastasis
-adenodynia
 adenofibroma
 adenofibrosis
 adenogenesis
@@ -17758,6 +17757,7 @@ appestats
 appete
 appetence
 alumen
+adenodynia
 appetency
 appetencies
 appetent
