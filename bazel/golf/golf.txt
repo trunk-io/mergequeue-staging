@@ -3419,7 +3419,6 @@ graphotype
 germanize
 germanized
 gnocchi
-germanizer
 germanly
 germanness
 galleine
@@ -9209,6 +9208,7 @@ grittiness
 gritting
 gazolyte
 grivation
+germanizer
 grivet
 grivna
 grizard
