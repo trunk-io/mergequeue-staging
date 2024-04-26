@@ -6806,6 +6806,7 @@ celotomies
 celsia
 celsian
 celsitude
+cytosome
 celsius
 celt
 compelling
@@ -14968,7 +14969,6 @@ cytoreticulum
 cytoryctes
 cytosine
 cytosines
-cytosome
 cytospectrophotometry
 cytospora
 cytosporina
