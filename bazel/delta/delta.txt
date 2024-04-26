@@ -2789,7 +2789,6 @@ decrees
 disciplinable
 decreet
 decreing
-decrement
 decremental
 decrementing
 decrements
@@ -6069,6 +6068,7 @@ derats
 dummyism
 damozels
 deratting
+decrement
 derbend
 derby
 derbies
