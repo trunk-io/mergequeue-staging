@@ -7611,6 +7611,7 @@ agronomics
 alcali
 alcaligenes
 alcalizate
+antiquartan
 alcalzar
 avichi
 alcamine
@@ -16050,7 +16051,6 @@ antiquaries
 apometabolous
 antiquarism
 antiquarium
-antiquartan
 antiquated
 antiquates
 antiquation
