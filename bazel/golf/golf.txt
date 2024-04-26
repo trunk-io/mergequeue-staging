@@ -4820,7 +4820,6 @@ gyroscope
 gyroscopes
 gyroscopic
 gyroscopics
-gyrose
 gyrosyn
 girosol
 gyrostabilized
@@ -5186,6 +5185,7 @@ geswarp
 glareworm
 glary
 grazer
+gyrose
 glaziness
 glariest
 glarily
