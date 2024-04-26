@@ -8381,7 +8381,6 @@ alismad
 alismal
 alismales
 alismataceae
-alismoid
 aliso
 alison
 alisonite
@@ -11284,6 +11283,7 @@ amphitheatrically
 affiancer
 amphitheccia
 amphithecia
+alismoid
 amphithecial
 antialien
 amphithecium
