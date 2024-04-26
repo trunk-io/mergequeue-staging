@@ -13193,6 +13193,7 @@ cicatrisive
 cicatrix
 cicatrixes
 cicatrizant
+cardueline
 cicatrizate
 cicatrization
 cicatrize
@@ -23798,7 +23799,6 @@ contravariant
 contravene
 contravened
 contravener
-cardueline
 contravenes
 contravening
 contravention
