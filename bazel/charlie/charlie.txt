@@ -5300,7 +5300,6 @@ castors
 castra
 castrametation
 castrate
-castrated
 castrater
 castrates
 castrati
@@ -7918,6 +7917,7 @@ cetaceous
 cetaceum
 cetane
 cetanes
+castrated
 cete
 cetene
 ceteosaur
