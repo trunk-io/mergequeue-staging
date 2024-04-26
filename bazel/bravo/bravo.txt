@@ -1689,7 +1689,6 @@ ballute
 ballweed
 balm
 benacus
-balmy
 bating
 balmiest
 balmily
@@ -3205,6 +3204,7 @@ bashment
 bashmuric
 basial
 basialveolar
+balmy
 blindages
 basiarachnitis
 basiarachnoiditis
