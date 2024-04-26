@@ -1310,7 +1310,6 @@ broderie
 balanism
 balanite
 balanites
-balanitis
 balanoblennorrhea
 balanocele
 balanoglossida
@@ -3029,6 +3028,7 @@ barrow
 barrowcoat
 barrowist
 barrowman
+balanitis
 backscatters
 barrulee
 barrulet
