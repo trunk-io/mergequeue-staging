@@ -5885,7 +5885,6 @@ bellrags
 bells
 becowarded
 belltopper
-belltopperdom
 belluine
 bellum
 becobweb
@@ -9882,6 +9881,7 @@ bytownite
 bytownitite
 bluejoint
 basilosaurus
+belltopperdom
 barbarized
 bitreadle
 bitripinnatifid

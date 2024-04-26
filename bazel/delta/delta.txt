@@ -7597,7 +7597,6 @@ dsnames
 dominions
 doggrelize
 deviancy
-deviancies
 deviant
 deviants
 deviate
@@ -16519,6 +16518,7 @@ dracontiasis
 dracontic
 dracontine
 dracontites
+deviancies
 diapason
 dracontium
 dracunculus
