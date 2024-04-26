@@ -4975,7 +4975,6 @@ demulsify
 demulsification
 demulsified
 demulsifier
-demulsifying
 demulsion
 demultiplex
 demultiplexed
@@ -10594,6 +10593,7 @@ diploes
 diploetic
 dependable
 diplogangliate
+demulsifying
 diplogenesis
 doxographical
 diplogenetic
