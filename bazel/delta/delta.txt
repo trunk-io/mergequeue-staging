@@ -8339,6 +8339,7 @@ dialyzer
 dialyzes
 declaiming
 dialkyl
+distorted
 dialkylamine
 dialkylic
 diallages
@@ -13917,7 +13918,6 @@ dystopias
 dolichosaur
 distort
 distortable
-distorted
 dulias
 daggy
 distortedness
