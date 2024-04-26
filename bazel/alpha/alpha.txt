@@ -4656,6 +4656,7 @@ adverting
 advertisable
 advertise
 advertised
+anywheres
 advertisee
 advertisement
 advertisements
@@ -13438,7 +13439,6 @@ anywhence
 anywhere
 antisepsis
 anywhereness
-anywheres
 anywise
 anywither
 anhalonium
