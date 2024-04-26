@@ -1129,7 +1129,6 @@ filchers
 farsight
 familiarism
 farsighted
-foreseize
 fart
 flatteringly
 farther
@@ -5091,6 +5090,7 @@ fundraise
 forellenstein
 flashness
 fable
+foreseize
 flashover
 flashtester
 flashtube
