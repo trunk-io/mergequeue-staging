@@ -11009,7 +11009,6 @@ blockheaded
 backfields
 blockheadedly
 blockheadedness
-blockheadish
 branchlet
 blockheadishness
 blockheadism
@@ -15897,6 +15896,7 @@ bromothymol
 bromouracil
 bromous
 bromphenol
+blockheadish
 bressomer
 brompicrin
 bromuret
