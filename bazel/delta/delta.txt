@@ -5571,6 +5571,7 @@ depas
 depascent
 depass
 delphinoid
+donataries
 disrepute
 depasturable
 duodecane
@@ -15434,7 +15435,6 @@ donar
 donary
 daira
 donat
-donataries
 donate
 donated
 donatee
