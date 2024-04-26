@@ -7757,7 +7757,6 @@ barege
 bharata
 bharti
 bhat
-bindable
 bhava
 butylation
 bhavan
@@ -18131,6 +18130,7 @@ butanal
 butane
 butanes
 botryotherapy
+bindable
 butanol
 babish
 butanolide

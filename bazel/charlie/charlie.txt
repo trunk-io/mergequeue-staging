@@ -1346,7 +1346,6 @@ calypsonian
 calypsos
 counselorship
 calypter
-calypterae
 calypters
 calyptoblastea
 calyptoblastic
@@ -16558,6 +16557,7 @@ cloisters
 cloisterwise
 cytode
 cloistral
+calypterae
 cloistress
 congregationalism
 cloit
