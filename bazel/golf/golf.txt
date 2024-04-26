@@ -478,7 +478,6 @@ galerum
 galerus
 gales
 galesaur
-galesaurus
 galette
 galeus
 galewort
@@ -6947,6 +6946,7 @@ gessamine
 gonzalo
 geomyid
 goo
+galesaurus
 goobers
 goodby
 goodbye
