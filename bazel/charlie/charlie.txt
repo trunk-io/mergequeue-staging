@@ -23104,7 +23104,6 @@ constitute
 constituted
 constituter
 constitutes
-constituting
 constitution
 constitutional
 constitutionalism
@@ -28484,6 +28483,7 @@ creators
 creatorship
 creatotoxism
 creatress
+constituting
 creatrix
 creatural
 creature
