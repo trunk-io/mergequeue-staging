@@ -9397,7 +9397,6 @@ grot
 genocide
 grote
 ginnet
-geotectonic
 groten
 grotesque
 grotesqueness
@@ -10360,6 +10359,7 @@ gulls
 gulmohar
 gulo
 gulonic
+geotectonic
 glaringness
 gulosity
 gulosities
