@@ -9039,7 +9039,6 @@ allotting
 allovers
 allow
 allowable
-allowableness
 allowably
 allowanced
 allowances
@@ -12631,6 +12630,7 @@ anesthesimeter
 anesthesiology
 anesthesiologies
 anesthesiologist
+allowableness
 anesthesiologists
 anesthesiometer
 anesthesis

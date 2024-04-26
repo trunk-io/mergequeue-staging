@@ -7557,7 +7557,6 @@ blastophore
 bkpt
 beveling
 bevelled
-beveller
 bevelling
 bevelment
 bevenom
@@ -14685,6 +14684,7 @@ bravure
 brawer
 brawl
 brawler
+beveller
 brawly
 bedown
 brawlie
