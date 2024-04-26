@@ -8442,6 +8442,7 @@ epizootology
 eplot
 epoch
 epocha
+ess
 epithelioid
 epoche
 eggy
@@ -9833,7 +9834,6 @@ esquisse
 excipular
 esrogim
 esrogs
-ess
 essay
 essayed
 essayer
