@@ -5664,7 +5664,6 @@ enframing
 enfranch
 enfranchised
 enfranchisements
-enfranchiser
 enfranchises
 enfree
 exhaustlessly
@@ -9563,6 +9562,7 @@ eschewance
 eschewed
 eschewer
 eschewers
+enfranchiser
 eschewing
 eschews
 eschoppe
