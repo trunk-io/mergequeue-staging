@@ -5644,7 +5644,6 @@ dephysicalization
 dephysicalize
 dephlegm
 dephlegmate
-dephlegmation
 dephlegmatize
 dephlegmator
 dephlegmatory
@@ -8310,6 +8309,7 @@ dialysability
 deplanes
 dialysate
 disceptation
+dephlegmation
 doughs
 dialysation
 dialysed
