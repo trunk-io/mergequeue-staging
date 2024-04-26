@@ -5072,7 +5072,6 @@ aeronat
 aeronaut
 aeronautic
 aeronautical
-aeronautically
 aeronautics
 aeronautism
 aeroneurosis
@@ -15484,6 +15483,7 @@ antilepsis
 antileptic
 antilepton
 antilethargic
+aeronautically
 antileukemic
 antileveling
 antilevelling
