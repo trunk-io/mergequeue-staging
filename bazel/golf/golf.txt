@@ -1412,6 +1412,7 @@ garland
 garlandage
 garlanded
 garlanding
+graybeard
 garlandless
 garlandlike
 garlandry
@@ -7721,7 +7722,6 @@ graian
 grayback
 goosy
 graybacks
-graybeard
 graybearded
 graybeards
 graycoat
