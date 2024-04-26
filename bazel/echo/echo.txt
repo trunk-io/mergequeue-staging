@@ -4618,6 +4618,7 @@ enchair
 enchalice
 epiblema
 enchant
+extortions
 enchanted
 enchanter
 enchantery
@@ -10157,7 +10158,6 @@ etc
 etcetera
 etceteras
 esmeraldite
-extortions
 etchant
 etched
 etcher
