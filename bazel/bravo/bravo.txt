@@ -1883,7 +1883,6 @@ bandage
 bandaged
 bandager
 boasts
-bandages
 bandaging
 brakes
 bandagist
@@ -7663,6 +7662,7 @@ bewitchingly
 bewitchingness
 bewizard
 bewonder
+bandages
 belton
 bework
 bewormed
