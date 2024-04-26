@@ -14413,7 +14413,6 @@ circumspectively
 circumspectly
 circumspectness
 circumspheral
-circumsphere
 circumstance
 circumstanced
 circumstances
@@ -19431,6 +19430,7 @@ coloring
 colorings
 colorism
 colorisms
+circumsphere
 coloristic
 coloristically
 colorists
