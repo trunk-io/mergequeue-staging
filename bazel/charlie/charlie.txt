@@ -21015,7 +21015,6 @@ comptrol
 chaptalize
 comptroller
 comptrollers
-compts
 compulsative
 compulsatively
 compulsatory
@@ -29429,6 +29428,7 @@ crista
 cristae
 crystaled
 crystaling
+compts
 crystalitic
 crystalize
 crystall
