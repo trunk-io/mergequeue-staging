@@ -9915,6 +9915,7 @@ fresnel
 faceharden
 fraudless
 fresnels
+fultz
 fresno
 fress
 fresser
@@ -10665,7 +10666,6 @@ fruitcakes
 fruitery
 fruiteries
 fruiters
-fultz
 fruitester
 flowered
 fruitfuller

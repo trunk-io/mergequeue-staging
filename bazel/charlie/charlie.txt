@@ -9541,6 +9541,7 @@ checkrooms
 checkrope
 checkrowed
 checkrower
+castoridae
 checkrowing
 checks
 checkstrap
@@ -13351,7 +13352,6 @@ cycloolefin
 cycloolefine
 cycloolefinic
 cyclop
-castoridae
 cyclopaedia
 cyclopaedias
 cyclopaedic
