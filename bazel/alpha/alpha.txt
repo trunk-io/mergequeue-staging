@@ -20507,7 +20507,6 @@ arterioplania
 arterioplasty
 arteriopressor
 arteriorrhaphy
-arteriorrhexis
 arterioscleroses
 arteriosclerosis
 arteriosclerotic
@@ -22472,6 +22471,7 @@ ately
 atelic
 atelier
 ateliers
+arteriorrhexis
 ateliosis
 ateliotic
 atellan
