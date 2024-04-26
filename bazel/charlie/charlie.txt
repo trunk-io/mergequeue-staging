@@ -6989,7 +6989,6 @@ centenary
 centenarian
 centenarians
 centenaries
-centenier
 centenionales
 centenionalis
 centennia
@@ -29297,6 +29296,7 @@ cryptogenous
 cryptoglaux
 cryptoglioma
 cryptogram
+centenier
 cryptogramma
 cryptogrammatic
 cryptogrammatical
