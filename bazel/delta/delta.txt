@@ -1994,7 +1994,6 @@ decayers
 diarial
 decaying
 decayless
-decays
 decal
 decalage
 decalcify
@@ -5372,6 +5371,7 @@ dentine
 dentines
 denting
 deers
+decays
 dispensatress
 delineatory
 dentinoblast
