@@ -8364,7 +8364,6 @@ epithet
 epithetic
 epithetical
 epithetically
-epithetize
 epithets
 epithi
 epithyme
@@ -12905,6 +12904,7 @@ expansivity
 expansum
 expatiate
 expatiates
+epithetize
 expatiating
 expatiatingly
 expatiation
