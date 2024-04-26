@@ -20533,7 +20533,6 @@ artesian
 amitie
 artesonado
 artesonados
-artful
 artfully
 adhesivemeter
 artfulness
@@ -22279,6 +22278,7 @@ astroid
 astroite
 astrol
 astrolabe
+artful
 associable
 astrolabes
 astrolabical
