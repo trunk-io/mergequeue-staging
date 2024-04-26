@@ -1988,7 +1988,6 @@ gaufferer
 gauffers
 glycogenic
 gauffre
-gauffred
 gaufre
 gaufrette
 glyptologist
@@ -2679,6 +2678,7 @@ generalizer
 generalizers
 generalizing
 gene
+gauffred
 generall
 generally
 generalness
