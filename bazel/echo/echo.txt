@@ -5387,7 +5387,6 @@ endotheliolytic
 endothelioma
 endotheliomas
 epitheton
-endotheliomata
 endotheliomyoma
 endotheliotoxin
 endotheliulia
@@ -7423,6 +7422,7 @@ excitomuscular
 epeeist
 epeeists
 epeira
+endotheliomata
 epeiric
 epeirid
 epeiridae
