@@ -11346,7 +11346,6 @@ chlorophyceae
 convenee
 chlorophyl
 chlorophyll
-chlorophyllaceous
 chlorophyllase
 clarshech
 chlorophyllian
@@ -13675,6 +13674,7 @@ cymlin
 cimline
 cymling
 cymlings
+chlorophyllaceous
 cymlins
 cimmaron
 cimmeria
