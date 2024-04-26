@@ -5371,7 +5371,6 @@ endostomata
 educations
 endostome
 endostosis
-endostraca
 eunuchism
 endostracum
 endosulfan
@@ -11312,6 +11311,7 @@ evagation
 evaginable
 evaginating
 evagination
+endostraca
 election
 eval
 evaluate
