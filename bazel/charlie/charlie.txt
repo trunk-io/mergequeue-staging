@@ -10640,7 +10640,6 @@ curtelace
 chimb
 chimbe
 chimble
-chimbleys
 chimbly
 chimblies
 chimbs
@@ -22126,6 +22125,7 @@ confounds
 confr
 confraction
 confragose
+chimbleys
 crossbeams
 confrater
 cystectasy
