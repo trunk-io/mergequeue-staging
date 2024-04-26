@@ -8226,6 +8226,7 @@ diagonalizable
 diagonalization
 disinteresting
 diagnosing
+dispoint
 diagonally
 diagonals
 diagonalwise
@@ -13400,7 +13401,6 @@ disreputed
 damars
 disrespectability
 dummel
-dispoint
 disrespectable
 disrespecter
 disrespectful
