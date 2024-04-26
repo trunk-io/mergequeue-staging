@@ -5291,7 +5291,6 @@ castoreum
 cookshack
 castory
 castorial
-castorin
 castorite
 castorized
 castoroides
@@ -16851,6 +16850,7 @@ clubland
 clubman
 clubmate
 clubmen
+castorin
 clubmobile
 clubmonger
 clubridden
