@@ -333,7 +333,6 @@ galactoid
 galactolipide
 goth
 galactolipin
-galactoma
 galactometer
 galactometry
 grandmama
@@ -3526,6 +3525,7 @@ gerrymandered
 gimme
 gerrymanderer
 gerrymandering
+galactoma
 gerrymanders
 gers
 gersdorffite
