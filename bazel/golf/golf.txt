@@ -3746,6 +3746,7 @@ gheleem
 gaucheness
 gherao
 gheraoed
+glassworking
 gardenwards
 gherkin
 gubernacula
@@ -5245,7 +5246,6 @@ glasswork
 guider
 glassworker
 glassworkers
-glassworking
 gaius
 glassworks
 gregal
