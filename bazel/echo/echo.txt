@@ -6615,6 +6615,7 @@ enterocentesis
 enteroceptor
 enterochirurgia
 expandability
+equimultiple
 endorsement
 epilate
 enterocinesia
@@ -9417,7 +9418,6 @@ eruditionist
 erugate
 erugation
 eruginous
-equimultiple
 erugo
 erugos
 erupt
