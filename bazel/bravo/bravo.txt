@@ -4039,6 +4039,7 @@ beadlehood
 beadlery
 beadles
 beadleship
+bribability
 bureaus
 beadlet
 beadman
@@ -15102,7 +15103,6 @@ briary
 briarroot
 briars
 briarwood
-bribability
 bribable
 bribe
 bribeability
