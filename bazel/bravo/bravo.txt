@@ -4540,6 +4540,7 @@ becrawled
 becrawling
 becreep
 becry
+bleery
 becrime
 baconism
 becrimed
@@ -10657,7 +10658,6 @@ barretries
 bleeped
 bleeping
 bleeps
-bleery
 bleeze
 bleezy
 babuma
