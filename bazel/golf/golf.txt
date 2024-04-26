@@ -5407,7 +5407,6 @@ glibness
 gotchy
 glibnesses
 glycaemic
-glycan
 glycemia
 garoted
 goozle
@@ -10172,6 +10171,7 @@ guidsire
 guidwife
 guidwilly
 guidwillie
+glycan
 guyer
 gaming
 guyers
