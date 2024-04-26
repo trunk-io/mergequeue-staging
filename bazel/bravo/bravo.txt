@@ -2684,7 +2684,6 @@ bagheli
 barkbound
 borrachio
 barkcutter
-balsameaceous
 barked
 barkeeper
 barkeepers
@@ -15697,6 +15696,7 @@ brod
 brodder
 brodee
 brodeglass
+balsameaceous
 brodekin
 brodequin
 broderer

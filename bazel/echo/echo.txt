@@ -6168,7 +6168,6 @@ enodally
 earwigged
 enodate
 epithalamion
-enodation
 enode
 enoil
 enol
@@ -8608,6 +8607,7 @@ equichangeable
 equicohesive
 equicontinuous
 equiconvex
+enodation
 equicostate
 equicrural
 equicurve
