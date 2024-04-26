@@ -705,7 +705,6 @@ famulus
 fana
 fanakalo
 fanal
-fescues
 falcation
 fanam
 fanatic
@@ -7569,6 +7568,7 @@ foreboded
 forebodement
 forebody
 forebodies
+fescues
 foreboding
 forebodingness
 forlornness
