@@ -4137,7 +4137,6 @@ administrative
 administratively
 administrator
 ampangabeite
-administrators
 administratrices
 administratrix
 adminstration
@@ -6422,6 +6421,7 @@ agraffes
 analemmatic
 abruptedly
 agral
+administrators
 agramed
 agrammaphasia
 agrammatica
