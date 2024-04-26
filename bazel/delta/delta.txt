@@ -4352,7 +4352,6 @@ demagnification
 demagog
 demagogy
 demagogic
-demagogical
 demagogies
 demagogism
 demagogs
@@ -5244,6 +5243,7 @@ denouncers
 denounces
 denouncing
 detuning
+demagogical
 dens
 drynesses
 densate

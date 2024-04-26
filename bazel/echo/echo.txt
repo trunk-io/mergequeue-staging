@@ -1251,6 +1251,7 @@ eelpouts
 eelshop
 epitympanic
 eelskin
+esprove
 eelware
 eelworm
 eelworms
@@ -9819,7 +9820,6 @@ exogenism
 espringal
 esprise
 esprit
-esprove
 expositoriness
 espundia
 encyclopaedize
