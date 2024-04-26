@@ -1350,6 +1350,7 @@ fatefulness
 fatelike
 fath
 fatheaded
+flinthead
 fatheadedly
 fatheadedness
 fatheads
@@ -5683,7 +5684,6 @@ fator
 flint
 flinted
 flinter
-flinthead
 forbreak
 flinty
 flintier
