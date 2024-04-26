@@ -3832,6 +3832,7 @@ carcharias
 carchariid
 carchariidae
 carcharioid
+catogene
 carcharodon
 congredient
 carcharodont
@@ -5977,7 +5978,6 @@ catochus
 catoctin
 catodon
 catodont
-catogene
 catogenic
 catoism
 catonian
