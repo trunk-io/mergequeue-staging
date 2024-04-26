@@ -2957,6 +2957,7 @@ barred
 barrel
 barrelage
 barreled
+bowmaker
 barreleyes
 barreler
 barrelet
@@ -13820,7 +13821,6 @@ bowlings
 bowllike
 bowlmaker
 bowls
-bowmaker
 bowmaking
 bowman
 bowmen
