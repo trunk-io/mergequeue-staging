@@ -4729,7 +4729,6 @@ encipherment
 encipherments
 enciphers
 encircle
-effigurate
 endorsing
 encircled
 effronted
@@ -7854,6 +7853,7 @@ epigone
 epimerise
 epigoni
 epigonic
+effigurate
 egriot
 epigonichthys
 epigonism
