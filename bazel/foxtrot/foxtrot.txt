@@ -1816,7 +1816,6 @@ featurally
 feature
 featured
 featureful
-featureless
 featurelessness
 featurely
 features
@@ -9979,6 +9978,7 @@ fribourg
 fricandeaux
 fricandel
 fixtures
+featureless
 fricando
 forerevelation
 fricassee
