@@ -11932,7 +11932,6 @@ disembarkations
 disembarked
 disembarking
 decentralist
-disembarkment
 disembarks
 disembarrass
 disembarrassment
@@ -16442,6 +16441,7 @@ dozed
 dozened
 directrixes
 dehumanizes
+disembarkment
 dozener
 dozening
 dozent
