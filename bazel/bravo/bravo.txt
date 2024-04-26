@@ -7162,7 +7162,6 @@ bespot
 bespotted
 bespottedness
 bespotting
-bespoused
 bespouses
 bespousing
 bespout
@@ -10903,6 +10902,7 @@ blini
 bliny
 baft
 blackbeetle
+bespoused
 blinis
 blinkard
 blinkards
