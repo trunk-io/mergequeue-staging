@@ -1709,7 +1709,6 @@ abrased
 accordionists
 accordions
 accords
-accorporate
 accorporation
 abiders
 accost
@@ -9950,6 +9949,7 @@ aureous
 amazonite
 amazons
 amazulu
+accorporate
 amb
 ambach
 ambage
