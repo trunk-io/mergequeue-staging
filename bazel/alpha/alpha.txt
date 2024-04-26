@@ -6157,7 +6157,6 @@ aggroupment
 aggur
 aghan
 aghanee
-aghas
 aghast
 aghastness
 aghlabite
@@ -11363,6 +11362,7 @@ amplificate
 amplification
 amplifications
 amplificative
+aghas
 afterwards
 amplificator
 amplificatory
