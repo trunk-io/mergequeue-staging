@@ -4231,6 +4231,7 @@ carillon
 carilloneur
 carillonned
 carillonneur
+clypei
 carillonneurs
 carillonning
 carillons
@@ -16295,7 +16296,6 @@ clypeate
 caraco
 clypeated
 clipei
-clypei
 clypeiform
 clypeola
 clypeolar
