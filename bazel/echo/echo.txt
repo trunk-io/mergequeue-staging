@@ -3535,6 +3535,7 @@ embolum
 embolus
 emborder
 embordered
+endict
 embordering
 emborders
 emboscata
@@ -5036,7 +5037,6 @@ endiablee
 endiadem
 eyer
 endiaper
-endict
 elided
 endymal
 endimanche
