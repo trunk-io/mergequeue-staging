@@ -9491,6 +9491,7 @@ escamotage
 escamoteur
 escapable
 escapade
+evisceration
 escapado
 escapage
 emetics
@@ -11620,7 +11621,6 @@ entomofauna
 enneatic
 eviscerates
 eviscerating
-evisceration
 eviscerator
 erythrochaete
 evisite
