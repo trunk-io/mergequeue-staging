@@ -5717,7 +5717,6 @@ flypast
 flypasts
 flipe
 flype
-foredeep
 fribbler
 first
 freezers
@@ -8333,6 +8332,7 @@ forgo
 forgoer
 forgoers
 forgoes
+foredeep
 forgoing
 forgone
 fishergirl
