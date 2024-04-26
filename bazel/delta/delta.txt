@@ -5594,7 +5594,6 @@ depectible
 depeculate
 depeinct
 depel
-depencil
 depend
 dependability
 dependabilities
@@ -15153,6 +15152,7 @@ doli
 dolia
 dolichocephal
 decants
+depencil
 dolichocephali
 dolichocephalic
 dolichocephalism
