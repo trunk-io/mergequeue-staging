@@ -1335,7 +1335,6 @@ gardbrace
 garde
 gardebras
 garden
-gardener
 gardeners
 gatha
 gymnasiarchy
@@ -4964,6 +4963,7 @@ glabellae
 glabellar
 gelatinousness
 glabellous
+gardener
 glabellum
 gld
 glabrate
