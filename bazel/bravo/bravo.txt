@@ -1872,6 +1872,7 @@ bancha
 banco
 bancos
 bancus
+bellicoseness
 bakehead
 band
 bandage
@@ -5809,7 +5810,6 @@ bellical
 bellicist
 bellicose
 bellicosely
-bellicoseness
 benchmar
 bellicosity
 bellicosities

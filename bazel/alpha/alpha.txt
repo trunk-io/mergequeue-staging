@@ -10502,7 +10502,6 @@ amies
 amiga
 amigas
 amygdal
-amygdala
 amygdalaceae
 amygdalaceous
 amygdalae
@@ -22167,6 +22166,7 @@ astor
 astore
 astound
 astounded
+amygdala
 astounding
 astoundingly
 astoundment
