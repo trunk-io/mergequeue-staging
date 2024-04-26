@@ -1015,7 +1015,6 @@ electrosynthesis
 eddied
 encephalon
 eddying
-eddyroot
 eddish
 eddo
 eddoes
@@ -10080,6 +10079,7 @@ estraying
 estrays
 estral
 estrange
+eddyroot
 estranged
 estrangedness
 estrangelo
