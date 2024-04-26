@@ -8776,7 +8776,6 @@ dibatis
 dibbed
 dibber
 dibbers
-dibbing
 dibble
 dibbled
 dibbler
@@ -17402,6 +17401,7 @@ drosophila
 drosophilae
 drosophilas
 drosophilidae
+dibbing
 didactician
 dipyramid
 drosophyllum
