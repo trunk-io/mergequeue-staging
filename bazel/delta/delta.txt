@@ -7598,7 +7598,6 @@ dsnames
 dominions
 doggrelize
 deviancy
-deviancies
 deviant
 deviants
 deviate
@@ -16886,6 +16885,7 @@ dreamed
 dreamery
 dreamers
 dreamful
+deviancies
 dreamfully
 dinguses
 dreamfulness
