@@ -884,7 +884,6 @@ gambogic
 gamboised
 gambol
 gamboled
-gamboler
 gambolled
 gamboller
 gambolling
@@ -3196,6 +3195,7 @@ gonif
 geophilous
 geophilus
 geophysical
+gamboler
 geophysics
 geophytic
 guardlike
