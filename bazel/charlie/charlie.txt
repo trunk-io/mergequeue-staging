@@ -9745,7 +9745,6 @@ chelem
 chelerythrine
 chelicer
 chelicera
-chelicerae
 cheliceral
 chelicerate
 cysts
@@ -10710,6 +10709,7 @@ chinamaniac
 chinamen
 chinanta
 chinantecan
+chelicerae
 chinantecs
 chinaphthol
 chinar
