@@ -10863,7 +10863,6 @@ blinders
 blindest
 blindfast
 babby
-blindfish
 blindfishes
 bine
 blindfold
@@ -17929,6 +17928,7 @@ burushaski
 burut
 burweed
 burweeds
+blindfish
 bus
 bilamellar
 busaos
