@@ -2702,7 +2702,6 @@ featherlike
 fertilizer
 flabellinerved
 fertilizers
-fertilizing
 feru
 ferula
 ferulaceous
@@ -8249,6 +8248,7 @@ forfex
 fleshy
 forficate
 forficated
+fertilizing
 falconnoid
 forfication
 forficiform
