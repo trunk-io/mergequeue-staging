@@ -7227,7 +7227,6 @@ bestench
 bester
 bestial
 bleep
-bestialise
 bestialised
 bestialising
 bestialism
@@ -17703,6 +17702,7 @@ burhmoot
 bury
 bombic
 buriable
+bestialise
 burial
 burials
 burian

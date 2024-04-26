@@ -3647,7 +3647,6 @@ adeleidae
 adelges
 adelia
 adelina
-adeline
 adelite
 armenize
 attermine
@@ -25092,6 +25091,7 @@ axillaries
 axillas
 axils
 axin
+adeline
 axine
 axing
 axiniform
