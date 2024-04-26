@@ -3093,7 +3093,6 @@ geoidal
 grammontine
 geoids
 gadoid
-geoisotherm
 geol
 geolatry
 galvayne
@@ -4293,6 +4292,7 @@ gymnospermy
 gymnospermic
 gunhouse
 gymnospermous
+geoisotherm
 gymnosperms
 gymnosporangium
 gymnospore
