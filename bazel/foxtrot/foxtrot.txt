@@ -1483,6 +1483,7 @@ flavid
 forwhy
 faubourg
 footpath
+forbade
 faubourgs
 faucal
 faucals
@@ -7392,7 +7393,6 @@ forasmuch
 forastero
 forbad
 fikery
-forbade
 fopped
 forbare
 forbarred
