@@ -10515,7 +10515,6 @@ amies
 amiga
 amigas
 amygdal
-amygdalaceae
 amygdalaceous
 amygdalae
 amygdalase
@@ -22539,6 +22538,7 @@ atheling
 athelings
 athematic
 athenaea
+amygdalaceae
 athenaeum
 athenaeums
 athenee
