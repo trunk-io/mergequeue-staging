@@ -4016,7 +4016,6 @@ adjudgeable
 adjudged
 adjudger
 adjudges
-assimilates
 aleyrodidae
 adjudging
 adjudgment
@@ -7623,6 +7622,7 @@ alcarraza
 alcatras
 alcavala
 amidist
+assimilates
 alcazaba
 alcazar
 alcazars
