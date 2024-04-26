@@ -2827,7 +2827,6 @@ eleutherozoa
 ephapse
 eleutherozoan
 elev
-encincture
 elevable
 elevate
 elevated
@@ -8592,6 +8591,7 @@ evenfall
 equiangularity
 explat
 equiarticulate
+encincture
 equiatomic
 equiaxe
 equiaxed
