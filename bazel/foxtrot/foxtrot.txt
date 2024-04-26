@@ -5384,6 +5384,7 @@ fledging
 forsay
 fledgling
 fledglings
+footfolk
 fretsaw
 flee
 fleece
@@ -7215,7 +7216,6 @@ footfarer
 fishbed
 footfault
 footfeed
-footfolk
 footganger
 footgear
 footglove
