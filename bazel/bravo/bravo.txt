@@ -4785,7 +4785,6 @@ bedouinism
 bedouins
 bote
 bedouse
-bedown
 bedpad
 bradding
 bedpan
@@ -14684,6 +14683,7 @@ brawer
 brawl
 brawler
 brawly
+bedown
 brawlie
 brawlier
 brawliest
