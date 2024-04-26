@@ -1984,7 +1984,6 @@ acervatim
 acervation
 acervative
 acervose
-acervuli
 acervuline
 acervulus
 aces
@@ -20967,6 +20966,7 @@ ataraxias
 ascetics
 aschaffite
 ascham
+acervuli
 ascher
 aschistic
 asci
