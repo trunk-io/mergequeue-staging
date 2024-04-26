@@ -139,6 +139,7 @@ epistolean
 earsplitting
 earspool
 earstone
+eoan
 earstones
 eartab
 eartag
@@ -7290,7 +7291,6 @@ ethnobotanic
 enzootic
 enzootics
 extravascular
-eoan
 eoanthropus
 electropercussive
 excitomotion
