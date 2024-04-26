@@ -4076,7 +4076,6 @@ finishing
 finitary
 finite
 finiteness
-finites
 finitesimal
 fervidor
 finity
@@ -6744,6 +6743,7 @@ focusless
 focussed
 fluminose
 focusses
+finites
 focussing
 fod
 futtocks
