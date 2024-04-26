@@ -3856,7 +3856,6 @@ emeroid
 emeroids
 emerse
 emersion
-emersions
 emarginately
 emerson
 emersonian
@@ -4516,6 +4515,7 @@ encarnalize
 encarnalized
 edgeless
 eloping
+emersions
 eclipsable
 encarnalizing
 encarpa
