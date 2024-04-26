@@ -1301,7 +1301,6 @@ effectful
 effecting
 entomologists
 effectively
-effectiveness
 effectivity
 effector
 effectors
@@ -8578,6 +8577,7 @@ equator
 etherial
 equatoreal
 equatorial
+effectiveness
 ecalcavate
 equators
 equatorward
