@@ -10551,6 +10551,7 @@ chillagite
 conter
 chiller
 chillers
+csects
 chillest
 campimeter
 chilli
@@ -30366,7 +30367,6 @@ csardas
 csc
 csch
 csect
-csects
 csi
 csk
 comicotragedy
