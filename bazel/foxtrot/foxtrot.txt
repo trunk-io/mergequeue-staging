@@ -2377,6 +2377,7 @@ feodatory
 feodum
 feoff
 feoffee
+fruiterers
 feoffees
 faits
 feoffeeship
@@ -6886,7 +6887,6 @@ funicular
 foiter
 fokker
 folacin
-fruiterers
 folacins
 folate
 folates
