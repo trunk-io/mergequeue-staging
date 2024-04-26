@@ -9536,7 +9536,6 @@ digitizes
 digitizing
 differentia
 digitogenin
-digitonin
 digitoplantar
 digitoxin
 digitoxose
@@ -12460,6 +12459,7 @@ disinfectants
 disinfected
 disinfecter
 disinfecting
+digitonin
 disinfection
 disinfections
 disinfective
