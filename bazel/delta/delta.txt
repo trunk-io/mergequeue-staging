@@ -8701,7 +8701,6 @@ diatomaceae
 diatomacean
 diatomaceous
 diatomales
-diatomeae
 diatomean
 diatomic
 diatomicity
@@ -13671,6 +13670,7 @@ dissite
 disslander
 dyssnite
 dissociability
+diatomeae
 dissociable
 dissociably
 dissocial
