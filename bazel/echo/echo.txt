@@ -707,6 +707,7 @@ epipodia
 ecodeme
 ecoid
 ecol
+enfranchisements
 ecole
 ecoles
 ecologic
@@ -5661,7 +5662,6 @@ earbob
 enframing
 enfranch
 enfranchised
-enfranchisements
 enfranchiser
 enfranchises
 enfree
