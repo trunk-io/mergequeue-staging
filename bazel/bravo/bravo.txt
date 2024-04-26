@@ -4586,7 +4586,6 @@ becurry
 becurse
 becursed
 becurses
-becurst
 becurtained
 becushioned
 becut
@@ -5791,6 +5790,7 @@ bellehood
 belleric
 bellerophon
 bellerophontidae
+becurst
 belleter
 belletrist
 buchanite
