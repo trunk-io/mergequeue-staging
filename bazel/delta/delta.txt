@@ -8203,7 +8203,6 @@ diageotropism
 diaglyph
 diaglyphic
 diaglyptic
-diagnosable
 diagnose
 deacidified
 dipus
@@ -16055,6 +16054,7 @@ drossier
 douce
 doucely
 douceness
+diagnosable
 doucepere
 doucet
 demo
