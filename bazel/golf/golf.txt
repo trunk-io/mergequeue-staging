@@ -6,7 +6,6 @@ gabari
 gabarit
 geogonical
 gabback
-gabbai
 gabbard
 goutier
 geckos
@@ -3018,6 +3017,7 @@ geochrony
 geochronologic
 geochronological
 geochronologically
+gabbai
 geochronologist
 gelatinity
 geochronometry
