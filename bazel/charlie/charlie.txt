@@ -7509,6 +7509,7 @@ cercomonadidae
 cercomonas
 cercopid
 continent
+chlorites
 circumoesophagal
 cercopidae
 cercopithecid
@@ -11257,7 +11258,6 @@ chlorion
 chlorioninae
 chlorite
 censurer
-chlorites
 chloritic
 chloritization
 chloritize
