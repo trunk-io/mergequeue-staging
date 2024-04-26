@@ -7335,7 +7335,6 @@ eopalaeozoic
 eopaleozoic
 eophyte
 excisemanship
-eophytic
 eos
 eosate
 earthquake
@@ -12953,6 +12952,7 @@ expeded
 expediate
 expedience
 expediences
+eophytic
 extremity
 exla
 expediency
