@@ -20455,7 +20455,6 @@ companionage
 companionate
 companioned
 companioning
-companionize
 corrugators
 companionized
 cartful
@@ -27273,6 +27272,7 @@ countrifiedness
 countryfiedness
 countryfolk
 countryish
+companionize
 countryman
 countrymen
 countryseat
