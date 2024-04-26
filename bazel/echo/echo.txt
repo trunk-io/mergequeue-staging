@@ -5053,7 +5053,6 @@ endited
 endites
 enditing
 eichwaldite
-endives
 evens
 endleaf
 endleaves
@@ -9571,6 +9570,7 @@ eschewers
 enfranchiser
 eschewing
 eschews
+endives
 eschoppe
 esclavage
 escoba
