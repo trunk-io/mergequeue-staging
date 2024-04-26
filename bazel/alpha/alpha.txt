@@ -1953,6 +1953,7 @@ acequiador
 acequias
 acer
 aceraceous
+apectomy
 acerae
 acerate
 acerated
@@ -16743,7 +16744,6 @@ apatosaurus
 apaturia
 ape
 apeak
-apectomy
 aped
 apedom
 abashlessly

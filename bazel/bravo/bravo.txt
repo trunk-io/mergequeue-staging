@@ -6484,7 +6484,6 @@ benzopyrazolone
 butyrates
 benzopyrylium
 benzoquinoline
-benzoquinone
 benzoquinoxaline
 benzosulfimide
 benzosulphimide
@@ -11419,6 +11418,7 @@ bluff
 bluffable
 brunette
 bluffed
+benzoquinone
 bluffer
 bluffers
 bluffest
