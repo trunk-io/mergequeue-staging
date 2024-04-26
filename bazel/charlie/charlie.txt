@@ -7395,7 +7395,6 @@ ceramiaceous
 ceramic
 ceramicist
 ceramicists
-ceramicite
 ceramics
 ceramidium
 ceramist
@@ -26785,6 +26784,7 @@ counterdecision
 counterdeclaration
 counterdecree
 counterdefender
+ceramicite
 counterdemand
 counterdemonstrate
 counterdemonstration
