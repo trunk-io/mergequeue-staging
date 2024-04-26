@@ -1172,7 +1172,6 @@ fasciculate
 fasciculated
 fasciculation
 fascicule
-fasciculi
 fasciculite
 fasciculus
 fascili
@@ -8516,6 +8515,7 @@ formicidae
 formicide
 flourishing
 formicine
+fasciculi
 formicivora
 formicivorous
 formicoidea
