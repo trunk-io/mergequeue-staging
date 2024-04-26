@@ -5930,6 +5930,7 @@ enhelm
 enhemospore
 effectuation
 enherit
+enzymotic
 erinaceus
 enheritance
 enhydra
@@ -7292,7 +7293,6 @@ enzymology
 eleemosynary
 enzymologies
 enzymologist
-enzymotic
 enzone
 enzooty
 ethnobotanic
