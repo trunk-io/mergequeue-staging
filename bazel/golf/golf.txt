@@ -6365,6 +6365,7 @@ goa
 grammar
 gryllidae
 goad
+gosther
 goaded
 grammaticize
 goadlike
@@ -7345,7 +7346,6 @@ gossips
 gossoon
 gossoons
 goster
-gosther
 got
 gotch
 gotched
