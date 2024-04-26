@@ -1699,7 +1699,6 @@ feaking
 fogmen
 feal
 fealty
-fear
 fearable
 fearbabe
 fimbles
@@ -8094,6 +8093,7 @@ fraternities
 forestep
 forester
 frenchism
+fear
 facetting
 foresters
 fillip
