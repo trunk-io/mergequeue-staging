@@ -1777,7 +1777,6 @@ accresce
 accrescence
 accrescendi
 allumine
-accrescendo
 accrescent
 accretal
 accrete
@@ -20254,6 +20253,7 @@ arrided
 arridge
 anticeremonialism
 arriding
+accrescendo
 arrie
 arriet
 arryish
