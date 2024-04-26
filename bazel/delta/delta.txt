@@ -12216,7 +12216,6 @@ disgood
 disgorged
 disgorgement
 disgorger
-disgorges
 disgorging
 disgospel
 disgospelize
@@ -14822,6 +14821,7 @@ dukedom
 dodderers
 doddering
 dodders
+disgorges
 doddie
 doddies
 dextrorotation
