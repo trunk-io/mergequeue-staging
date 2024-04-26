@@ -15445,7 +15445,6 @@ briolet
 briolettes
 bryology
 bryological
-bryologies
 bryologist
 bryon
 briony
@@ -15711,6 +15710,7 @@ brog
 brogan
 brogger
 bonnne
+bryologies
 broggerite
 broggle
 brogh
