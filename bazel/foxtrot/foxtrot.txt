@@ -1071,7 +1071,6 @@ foremastman
 farmland
 fluorosis
 farmlands
-farmout
 francisca
 fisc
 farmplace
@@ -8665,6 +8664,7 @@ forsaken
 forsakenly
 forsakenness
 forsaker
+farmout
 forsakes
 forsaking
 forsar
