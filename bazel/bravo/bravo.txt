@@ -13127,7 +13127,6 @@ borts
 bortsch
 bortz
 bortzes
-britannica
 boruca
 borussian
 borwort
@@ -15230,6 +15229,7 @@ befriend
 balled
 bridgetin
 bridgetree
+britannica
 bridgeway
 bridgewall
 bridgeward
