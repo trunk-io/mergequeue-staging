@@ -4436,7 +4436,6 @@ enantioses
 enantiosis
 enantiotropy
 enantiotropic
-enantobiosis
 enapt
 enarbor
 enarbour
@@ -8455,6 +8454,7 @@ epochally
 epoche
 eggy
 epochism
+enantobiosis
 epode
 epodes
 ethnographic
