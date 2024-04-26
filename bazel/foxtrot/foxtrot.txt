@@ -7907,6 +7907,7 @@ forepass
 forepast
 forepaw
 forepaws
+frailties
 forepeak
 forepeaks
 foreplace
@@ -11444,7 +11445,6 @@ furnarius
 furner
 furnish
 furnishable
-frailties
 foregather
 furnished
 furnishes
