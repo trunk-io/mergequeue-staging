@@ -4293,7 +4293,6 @@ firing
 firings
 freeport
 firk
-firker
 firkins
 falconoid
 fitchy
@@ -6769,6 +6768,7 @@ foeless
 foelike
 forenotice
 foeman
+firker
 foemanship
 foeniculum
 formicative
