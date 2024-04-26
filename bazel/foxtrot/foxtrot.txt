@@ -1960,7 +1960,6 @@ feedbags
 feedbin
 fatalism
 feedboard
-feedbox
 feedboxes
 feeded
 feeders
@@ -3729,6 +3728,7 @@ filled
 fillemot
 factabling
 frownless
+feedbox
 friezer
 filler
 fillercap
