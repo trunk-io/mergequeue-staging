@@ -7536,6 +7536,7 @@ cerebella
 cerebellar
 cerebellifugal
 cerebellipetal
+cotwinned
 cerebellitis
 cerebellocortex
 choregraphy
@@ -26520,7 +26521,6 @@ cotunnite
 coturnix
 cotutor
 cotwin
-cotwinned
 chomer
 cotwist
 couac
