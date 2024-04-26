@@ -542,6 +542,7 @@ backstamp
 backster
 backstick
 backstitched
+blaring
 backstitches
 backstitching
 backstone
@@ -10406,7 +10407,6 @@ blare
 backyarder
 blares
 blarina
-blaring
 boredness
 bosks
 blarney
