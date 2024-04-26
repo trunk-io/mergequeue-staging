@@ -7976,7 +7976,6 @@ bibliotaphic
 bibliothec
 bibliotheca
 beget
-bibliothecae
 bibliothecaire
 bibliothecal
 bibliothecary
@@ -9653,6 +9652,7 @@ bisector
 bisectors
 bisectrices
 bisects
+bibliothecae
 bisegment
 bisellia
 bisellium
