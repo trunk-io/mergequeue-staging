@@ -307,7 +307,6 @@ eastward
 eastwardly
 eat
 eatability
-eatable
 eatableness
 eatables
 eatanswill
@@ -7796,6 +7795,7 @@ epifaunas
 emulate
 epifocal
 epifolliculitis
+eatable
 endocytic
 epigaea
 epigaeous
