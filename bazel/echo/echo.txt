@@ -1685,6 +1685,7 @@ endearments
 eider
 existential
 eiderdown
+electromagnetics
 electropult
 eidetically
 eidograph
@@ -8206,7 +8207,6 @@ epispermic
 epispinal
 episporangium
 epispore
-electromagnetics
 ectodermic
 episporium
 epist
