@@ -5158,7 +5158,6 @@ cassia
 cassiaceae
 cassian
 cassias
-cassican
 cassicus
 cassideous
 cassidid
@@ -26307,6 +26306,7 @@ costuming
 costumire
 costumist
 costusroot
+cassican
 cosubject
 cosubordinate
 coconqueror
