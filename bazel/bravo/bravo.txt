@@ -12271,7 +12271,6 @@ bombardment
 bombardments
 bombardo
 bombardon
-bombards
 bombasine
 bombast
 bombaster
@@ -16929,6 +16928,7 @@ builtin
 buyout
 buyouts
 buirdly
+bombards
 buys
 bukat
 benzoated
