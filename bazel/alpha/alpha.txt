@@ -1316,7 +1316,6 @@ acanthopod
 acanthopodous
 acanthopomatous
 acanthopore
-acanthopteran
 acetylenic
 acanthopterygian
 acanthopterygii
@@ -21989,6 +21988,7 @@ adjustores
 astacus
 astay
 astakiwi
+acanthopteran
 astalk
 astarboard
 astare
