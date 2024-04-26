@@ -3391,6 +3391,7 @@ embeam
 extinction
 embed
 embedded
+entelodont
 embedder
 elaidinic
 exsibilate
@@ -12602,7 +12603,6 @@ exition
 exitious
 exits
 exiture
-entelodont
 exitus
 exlex
 exmeridian
