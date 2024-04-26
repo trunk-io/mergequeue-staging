@@ -8235,7 +8235,6 @@ featherdom
 forfeitableness
 forfeited
 forfeiter
-footprint
 forfeits
 forfeiture
 forfeitures
@@ -9772,6 +9771,7 @@ freiezlebenhe
 fibromyitis
 faticableness
 freight
+footprint
 fistic
 freightage
 fabulist
