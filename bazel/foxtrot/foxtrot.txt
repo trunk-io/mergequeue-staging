@@ -1710,7 +1710,6 @@ fearful
 fearfuller
 fearfullest
 fearfully
-fearfulness
 feelable
 fearing
 feist
@@ -11285,6 +11284,7 @@ funneling
 funnelled
 funnelling
 flubdubs
+fearfulness
 funnels
 funny
 feneration
