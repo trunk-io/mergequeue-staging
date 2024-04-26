@@ -1876,7 +1876,6 @@ feculency
 feculent
 fecund
 fecundate
-fecundated
 fecundates
 fecundation
 fecundations
@@ -9523,6 +9522,7 @@ fulcrate
 fratriage
 foothil
 fratricelli
+fecundated
 fratricidal
 fratricides
 fratries
