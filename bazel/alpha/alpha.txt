@@ -6965,7 +6965,6 @@ airling
 airlock
 airlocks
 airmailed
-airmailing
 airman
 airmanship
 airmark
@@ -8645,6 +8644,7 @@ allegorism
 adenomalacia
 allegorist
 antapexes
+airmailing
 allegoristic
 allegorize
 allegorized
