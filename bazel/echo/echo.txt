@@ -12253,7 +12253,6 @@ excuser
 excusers
 excuses
 excusing
-excusingly
 ephah
 emboldened
 excusively
@@ -13023,6 +13022,7 @@ expensed
 expenseful
 expensefully
 expensefulness
+excusingly
 expenselessness
 expenses
 expensing
