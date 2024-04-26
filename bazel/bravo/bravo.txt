@@ -2103,7 +2103,6 @@ becurl
 bankalachi
 bankbook
 boogymen
-bankbooks
 bankcard
 bankcards
 bronchiogenic
@@ -3470,6 +3469,7 @@ bastiles
 bastille
 bastilles
 bastillion
+bankbooks
 biggah
 bastiment
 bastinade
