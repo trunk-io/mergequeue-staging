@@ -2679,6 +2679,7 @@ generalities
 generalization
 generalizations
 generalize
+girt
 generalizeable
 generalizer
 generalizers
@@ -4842,7 +4843,6 @@ girsh
 girshes
 girsle
 grecianize
-girt
 girted
 girth
 girthed
