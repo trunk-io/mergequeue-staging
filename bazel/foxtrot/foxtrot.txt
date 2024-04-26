@@ -6552,7 +6552,6 @@ fluoroscopist
 fluoroscopists
 fibrils
 fluorotic
-fluorotype
 fluorouracil
 fluors
 fluosilicate
@@ -7437,6 +7436,7 @@ flammulated
 forbysening
 forbit
 forbite
+fluorotype
 forblack
 forbled
 fading
