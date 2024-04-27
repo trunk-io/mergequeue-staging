@@ -7411,7 +7411,6 @@ cerambycid
 cerambycidae
 ceramiaceae
 ceramiaceous
-ceramic
 ceramicist
 ceramicists
 ceramics
@@ -21437,6 +21436,7 @@ concinnous
 cystoenterocele
 concinnously
 concio
+ceramic
 concion
 concional
 concionary
