@@ -3443,7 +3443,6 @@ deflowered
 deflowerer
 disbelieved
 deflowering
-defeating
 deflowerment
 deflowers
 defluent
@@ -9923,6 +9922,7 @@ dimethylketol
 dimethylketone
 dimethylmethane
 dimethylnitrosamine
+defeating
 dimethyls
 dimethylsulfoxide
 dimethylsulphoxide
