@@ -1966,7 +1966,6 @@ gaucy
 gaucie
 gaud
 gaudeamus
-gaudeamuses
 gaudery
 gauderies
 groupist
@@ -7321,6 +7320,7 @@ gossiper
 gossipers
 gossiphood
 gentianal
+gaudeamuses
 gravicembalo
 gatehouses
 gossipy
