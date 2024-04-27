@@ -8148,7 +8148,6 @@ diacranterian
 diacranteric
 diacrisis
 diacritic
-diacritical
 diacritically
 diacritics
 diacromyodi
@@ -14093,6 +14092,7 @@ disuniter
 disuniters
 disunites
 disunity
+diacritical
 disunities
 dysury
 deltarium
