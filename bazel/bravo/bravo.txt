@@ -2203,6 +2203,7 @@ banshies
 banstickle
 bant
 bantay
+bego
 bantayan
 bantam
 bantams
@@ -7415,7 +7416,6 @@ bashilange
 betide
 betided
 betides
-bego
 betiding
 balate
 betimber
