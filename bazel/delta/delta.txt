@@ -8144,7 +8144,6 @@ diacritics
 diacromyodi
 diacromyodian
 dolmas
-diact
 diactin
 diactinal
 diactine
@@ -18597,6 +18596,7 @@ dutching
 dutchman
 dutchmen
 duteously
+diact
 duteousness
 dinergate
 deairing
