@@ -1206,7 +1206,6 @@ griphosaurus
 ganoidian
 greathead
 goniunia
-ganoids
 ganoin
 ganoine
 ganophyllite
@@ -9918,6 +9917,7 @@ guarantors
 guarantorship
 geode
 guarapo
+ganoids
 guarapucu
 gushily
 guarauno
