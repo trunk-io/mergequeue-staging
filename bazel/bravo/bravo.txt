@@ -4018,7 +4018,6 @@ beaconing
 beaconwise
 blasphemers
 beadeye
-beadeyes
 beader
 buzzier
 beadflush
@@ -13905,6 +13904,7 @@ boxtree
 boxwood
 boxwoods
 boza
+beadeyes
 bozine
 bozo
 blighted
