@@ -3736,6 +3736,7 @@ dehydrofreezing
 dehydrofroze
 dehydrofrozen
 dehydrogenase
+dipped
 dak
 disproved
 dehydrogenate
@@ -10703,7 +10704,6 @@ dipotassic
 dipotassium
 dippable
 dope
-dipped
 dipper
 derestrict
 dippers
