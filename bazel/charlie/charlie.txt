@@ -16658,7 +16658,6 @@ closehauled
 closely
 closelipped
 closemouth
-closemouthed
 closen
 closeness
 closenesses
@@ -26442,6 +26441,7 @@ cotitular
 cotland
 camerlingo
 coto
+closemouthed
 cotoneaster
 cotonia
 cotorment
