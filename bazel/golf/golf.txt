@@ -1871,7 +1871,6 @@ gastroscopy
 gastroscopic
 gastroscopies
 gastrular
-gastroscopist
 gocart
 gastrosoph
 gastrosopher
@@ -4901,6 +4900,7 @@ groat
 gitterns
 gittith
 gyttja
+gastroscopist
 gormandised
 giulio
 giunta
