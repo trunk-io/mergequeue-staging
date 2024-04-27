@@ -1914,7 +1914,6 @@ bandeng
 beanies
 bander
 banderilla
-banderillas
 banderilleros
 banderlog
 banderma
@@ -4028,6 +4027,7 @@ beadings
 beadle
 beadledom
 beshamed
+banderillas
 beadlehood
 beadlery
 beadles
