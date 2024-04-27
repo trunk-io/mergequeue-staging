@@ -12510,7 +12510,6 @@ exhort
 exhortations
 exhortative
 exhortator
-exhortatory
 exhorted
 exhorter
 exhorters
@@ -13407,6 +13406,7 @@ expunge
 expungeable
 expunged
 eucharists
+exhortatory
 expungement
 expungers
 expunges
