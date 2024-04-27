@@ -5535,6 +5535,7 @@ diaplasma
 deozonizer
 depa
 depaganize
+doglegs
 depainted
 depainting
 depaints
@@ -15014,7 +15015,6 @@ dogy
 dogleg
 doglegged
 doglegging
-doglegs
 dogless
 diabetometer
 dogly

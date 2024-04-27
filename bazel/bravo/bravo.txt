@@ -6750,7 +6750,6 @@ beriming
 bering
 beringed
 beringite
-blabber
 beringleted
 berinse
 berith
@@ -14956,6 +14955,7 @@ breezed
 bragged
 breezeful
 breezelike
+blabber
 breezeway
 breezeways
 breezy
