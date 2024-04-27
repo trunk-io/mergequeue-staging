@@ -11765,6 +11765,7 @@ analemma
 analemmas
 analemmata
 analepses
+atrickle
 analepsy
 analepsis
 analeptic
@@ -22844,7 +22845,6 @@ atrichia
 atrichic
 atrichosis
 atrichous
-atrickle
 atridean
 atriensis
 adipous
