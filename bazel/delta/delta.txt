@@ -3659,6 +3659,7 @@ degradative
 degrade
 degraded
 deratization
+detrimentalness
 degradedly
 decontrolling
 degradement
@@ -8042,7 +8043,6 @@ dhurnas
 dhurra
 deeding
 diggable
-detrimentalness
 dhurry
 dhurrie
 dhuti

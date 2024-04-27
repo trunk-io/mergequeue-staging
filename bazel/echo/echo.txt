@@ -9663,7 +9663,6 @@ ethology
 episterna
 emulgens
 energised
-eskimauan
 eskimo
 eskimoes
 eskimoic
@@ -11050,6 +11049,7 @@ euphory
 euphoriant
 euphorias
 euphoric
+eskimauan
 euphorically
 euphotic
 ecological
