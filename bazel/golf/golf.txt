@@ -2352,7 +2352,6 @@ gelandelaufer
 gelandesprung
 goldurns
 gelant
-gelants
 gelasian
 gelasimus
 gelastic
@@ -4365,6 +4364,7 @@ gynandromorphy
 gilthead
 gluish
 gynandromorphism
+gelants
 gynandromorphous
 gynandrophore
 gladrags

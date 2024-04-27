@@ -3239,7 +3239,6 @@ basidiomycetes
 basidiophore
 bifrontal
 belesprit
-basidiospore
 basidiosporous
 basidorsal
 basifacial
@@ -17421,6 +17420,7 @@ bunked
 bunker
 bunkerage
 bunkered
+basidiospore
 bunkery
 blackouts
 bunkerman
