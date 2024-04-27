@@ -2850,7 +2850,6 @@ elevator
 elevators
 embrued
 elevatory
-eleve
 escalators
 eleven
 elevenfold
@@ -5430,6 +5429,7 @@ equinox
 endovenous
 endow
 endowed
+eleve
 elsewhither
 endowing
 endoerythrocytic
