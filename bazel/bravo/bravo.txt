@@ -4402,7 +4402,6 @@ bebuttoned
 bec
 becafico
 becall
-becalmed
 becalming
 becalmment
 becalms
@@ -11432,6 +11431,7 @@ blufter
 bluggy
 brabbles
 boule
+becalmed
 bluings
 bluish
 bluism
