@@ -2731,7 +2731,6 @@ epilogues
 elementalism
 elementalistic
 elementality
-elementalize
 elementally
 elementaloid
 escorting
@@ -8511,6 +8510,7 @@ eprosy
 enfiladed
 epizoicide
 eprouvette
+elementalize
 epruinose
 epsilons
 epsom

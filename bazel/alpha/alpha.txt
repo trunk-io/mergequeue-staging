@@ -8910,7 +8910,6 @@ allographic
 alloy
 alloyage
 alloyed
-alloying
 alloimmune
 alloiogenesis
 alloiometry
@@ -9334,6 +9333,7 @@ animant
 alopeke
 alopias
 alopiidae
+alloying
 alorcinic
 alosa
 alose
