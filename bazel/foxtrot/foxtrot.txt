@@ -1684,6 +1684,7 @@ fdname
 fdnames
 fdtype
 fdubs
+folden
 fe
 feaberry
 flighter
@@ -6902,7 +6903,6 @@ fado
 falconets
 foldedly
 feverishly
-folden
 fluorins
 folder
 folderol
