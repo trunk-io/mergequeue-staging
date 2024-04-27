@@ -5078,6 +5078,7 @@ glaga
 glagolic
 glaieul
 glaik
+grammaticalness
 glaiket
 gavotted
 glaiketness
@@ -7818,7 +7819,6 @@ grammaticality
 gateau
 glossate
 grammatically
-grammaticalness
 grammaticaster
 glazy
 gonytheca
