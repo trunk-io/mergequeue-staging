@@ -2911,7 +2911,6 @@ elicits
 elide
 enameloma
 enameler
-elidible
 eliding
 elydoric
 eligenda
@@ -9717,6 +9716,7 @@ esophagomalacia
 endfile
 esophagometer
 esophagomycosis
+elidible
 esophagopathy
 esophagoplegia
 esophagoplication
