@@ -6217,7 +6217,6 @@ flowerbed
 flowerers
 floweret
 fibrillated
-flowerets
 flowerfly
 flowerful
 flowery
@@ -7818,6 +7817,7 @@ forelegs
 forelock
 forelocks
 forelook
+flowerets
 flavobacterium
 francisco
 forelooper
