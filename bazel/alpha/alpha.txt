@@ -3229,7 +3229,6 @@ alveolotomy
 actious
 actipylea
 actium
-activate
 activated
 activates
 activating
@@ -12920,6 +12919,7 @@ angiotenosis
 angiotensin
 angiotensinase
 angiothlipsis
+activate
 angiotome
 angiotomy
 alcabala
