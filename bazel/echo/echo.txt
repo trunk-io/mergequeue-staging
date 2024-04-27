@@ -5723,6 +5723,7 @@ engerminate
 enghle
 enghosted
 engild
+evaporable
 elsewise
 engilded
 engilding
@@ -11379,7 +11380,6 @@ evanishment
 evans
 evansite
 evap
-evaporable
 evaporate
 evaporated
 evaporates
