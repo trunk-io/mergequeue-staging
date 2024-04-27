@@ -2163,6 +2163,7 @@ gazellelike
 gazelles
 gazelline
 gauzewing
+gyring
 gazer
 gazers
 gazes
@@ -8485,7 +8486,6 @@ gravimeters
 gravimetry
 greesagh
 gravimetric
-gyring
 gravimetrical
 grimmia
 gravimetrically
