@@ -664,7 +664,6 @@ gallirallus
 gallium
 galliums
 gallivant
-gallivanted
 gallivanters
 gallivanting
 garotting
@@ -8461,6 +8460,7 @@ graver
 gravery
 gastrotubotomy
 graverobbing
+gallivanted
 gyroidally
 graves
 graveship
