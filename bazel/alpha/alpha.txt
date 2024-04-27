@@ -5669,7 +5669,6 @@ afterguard
 afterguns
 amputative
 afterhand
-afterharm
 afterhatch
 afterheat
 afterhelp
@@ -6442,6 +6441,7 @@ agraphic
 agraria
 agrarian
 agrarianize
+afterharm
 agrarianly
 agrarians
 agrauleum
