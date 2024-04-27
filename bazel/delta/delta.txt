@@ -7082,7 +7082,6 @@ desugar
 demutization
 desugared
 disseised
-desugaring
 desugarize
 desugars
 desulfovibrio
@@ -11625,6 +11624,7 @@ discontinuities
 discontinuor
 dignify
 discontinuous
+desugaring
 decoys
 discontinuously
 discontinuousness
