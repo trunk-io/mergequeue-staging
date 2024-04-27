@@ -4497,7 +4497,6 @@ becloaks
 beclog
 beclogged
 beclogging
-beclogs
 beclose
 beclothe
 beclothed
@@ -5966,6 +5965,7 @@ belve
 belvedered
 belvederes
 belzebub
+beclogs
 belzebuth
 bridaler
 biquintile
