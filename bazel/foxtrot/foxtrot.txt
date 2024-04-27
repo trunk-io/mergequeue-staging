@@ -186,7 +186,6 @@ factorially
 frizer
 factorials
 factories
-factorylike
 factoring
 factorizations
 fluviose
@@ -2037,6 +2036,7 @@ feinting
 feis
 farrandly
 feisty
+factorylike
 fizzed
 feistier
 feistiest

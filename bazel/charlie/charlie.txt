@@ -5383,7 +5383,6 @@ catachthonic
 cataclasis
 cataclasm
 cataclasmic
-cataclastic
 cataclinal
 cataclysm
 californium
@@ -28751,6 +28750,7 @@ crepitous
 copalchi
 crepitus
 creply
+cataclastic
 cupeler
 crepon
 crept
