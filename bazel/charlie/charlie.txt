@@ -18142,6 +18142,7 @@ crosspost
 coes
 coesite
 coesites
+complicator
 coessential
 coessentiality
 coessentially
@@ -20787,7 +20788,6 @@ complicates
 complicating
 complication
 complications
-complicator
 complicators
 complice
 complices
