@@ -9156,7 +9156,6 @@ biopsic
 biopsychology
 biopsychological
 biopsychologies
-biopsychologist
 bioptic
 biorbital
 byordinar
@@ -16819,6 +16818,7 @@ bufo
 bufonid
 bufonidae
 bufotenin
+biopsychologist
 bufotoxin
 bug
 bugaboo
