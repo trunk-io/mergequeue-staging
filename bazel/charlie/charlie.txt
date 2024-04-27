@@ -9984,7 +9984,6 @@ cheque
 chequebook
 chequeen
 chequer
-chequerboard
 chequered
 chequering
 chequers
@@ -12922,6 +12921,7 @@ churnful
 churning
 churnings
 churnmilk
+chequerboard
 churns
 churoya
 churoyan
