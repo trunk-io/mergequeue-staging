@@ -1208,7 +1208,6 @@ fasciolidae
 fascism
 fascisms
 fourgons
-fascist
 fascista
 fascisti
 flurriment
@@ -2494,6 +2493,7 @@ fernando
 fernbird
 fernbrake
 footnoting
+fascist
 fernery
 fiscs
 fixatif

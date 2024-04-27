@@ -1887,7 +1887,6 @@ gastrostomus
 girandola
 gyrotheca
 gastrotaxis
-greenwing
 gastrotheca
 gastrotympanites
 gastrotome
@@ -5564,6 +5563,7 @@ glyoxalic
 gayyou
 gastroschisis
 glyoxalin
+greenwing
 glyoxaline
 gregarinian
 galliwasp
