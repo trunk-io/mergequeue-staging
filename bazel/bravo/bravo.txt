@@ -9249,6 +9249,7 @@ biotics
 biotin
 biotins
 biotype
+babel
 biotypes
 biotypic
 biotypology
@@ -9839,7 +9840,6 @@ bitanhol
 bitartrate
 bitbrace
 bite
-babel
 biteable
 blockbuster
 biteche
