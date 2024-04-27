@@ -1744,7 +1744,6 @@ gastrocnemian
 gastrocnemii
 gastrocnemius
 gastrocoel
-gastrocolic
 gastrocolostomy
 gastrocolotomy
 geoponic
@@ -5275,6 +5274,7 @@ galyak
 glaucously
 gregorianizer
 glaucousness
+gastrocolic
 glaucus
 glauke
 glaum
