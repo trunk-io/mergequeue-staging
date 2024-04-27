@@ -6513,6 +6513,7 @@ cecrops
 cecum
 cecums
 cecutiency
+collocation
 cedar
 cedared
 cedary
@@ -19153,7 +19154,6 @@ collocate
 collocated
 collocates
 collocating
-collocation
 collocationable
 collocational
 collocations
