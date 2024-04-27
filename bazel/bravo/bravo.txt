@@ -3259,7 +3259,6 @@ basigynium
 basiglandular
 basihyal
 betokener
-basihyoid
 basyl
 bitume
 basilard
@@ -8144,6 +8143,7 @@ bicrural
 bicuculline
 bicultural
 bewaring
+basihyoid
 biculturalism
 bicursal
 bicuspid
