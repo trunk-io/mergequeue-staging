@@ -5679,7 +5679,6 @@ afterhours
 avengeress
 afteryears
 afterimage
-afterimages
 afterimpression
 afterings
 afterking
@@ -23974,6 +23973,7 @@ autocorrosion
 autocosm
 autocracy
 autocracies
+afterimages
 archsnob
 autocrat
 autocratic
