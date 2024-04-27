@@ -480,7 +480,6 @@ falcon
 falconbill
 falcones
 fiscally
-falconets
 falconidae
 falconiform
 falconiformes
@@ -6898,6 +6897,7 @@ foldcourse
 familic
 folded
 fado
+falconets
 foldedly
 feverishly
 folden
