@@ -2638,7 +2638,6 @@ ferrovanadium
 furore
 ferrozirconium
 ferruginate
-ferruginating
 ferrugination
 ferruginean
 flashly
@@ -3569,6 +3568,7 @@ filaricidal
 filariform
 filariidae
 filariids
+ferruginating
 filarious
 filature
 filatures
