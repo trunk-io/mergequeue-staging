@@ -6567,7 +6567,6 @@ desensitized
 desensitizer
 desensitizers
 desensitizes
-deemphasis
 desensitizing
 desentimentalize
 deseret
@@ -17259,6 +17258,7 @@ droiturel
 drokpa
 drolerie
 droll
+deemphasis
 domini
 drollery
 drolleries
