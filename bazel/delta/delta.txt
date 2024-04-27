@@ -1227,6 +1227,7 @@ datasets
 datatype
 datatypes
 dialyzable
+dodecaphonism
 datcha
 datchas
 dialyzers
@@ -14845,7 +14846,6 @@ dodecapetalous
 dodecaphony
 dodecaphonic
 dodecaphonically
-dodecaphonism
 dodecarch
 dodecarchy
 dodecasyllabic
