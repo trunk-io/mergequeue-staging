@@ -9794,7 +9794,6 @@ chelone
 chelonia
 chelonian
 cumin
-chelonid
 cachets
 cheloniid
 cheloniidae
@@ -14871,6 +14870,7 @@ cytoblastemal
 cytoblastematous
 cytoblastemic
 cytoblastemous
+chelonid
 cytocentrum
 cytochalasin
 cytochemical
