@@ -3441,7 +3441,6 @@ bastant
 bastard
 bastardy
 bastardice
-bastardise
 bastardised
 bimalar
 bredstitch
@@ -7994,6 +7993,7 @@ biblism
 biblists
 bovicide
 biblos
+bastardise
 biborate
 bibracteate
 bibracteolate
