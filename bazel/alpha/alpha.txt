@@ -10992,6 +10992,7 @@ amort
 amortisable
 amortise
 amortised
+araeostyle
 amortises
 amortising
 amortissement
@@ -18406,7 +18407,6 @@ aradidae
 arado
 araeometer
 araeosystyle
-araeostyle
 araeotic
 aragallus
 arage
