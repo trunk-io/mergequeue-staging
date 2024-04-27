@@ -1879,6 +1879,7 @@ bakehead
 band
 bandage
 bandaged
+baragouinish
 bandager
 boasts
 bandaging
@@ -2277,7 +2278,6 @@ baradari
 baragnosis
 bobbiner
 baragouin
-baragouinish
 baraita
 barajillo
 barging
