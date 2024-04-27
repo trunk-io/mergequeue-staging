@@ -5557,7 +5557,6 @@ enew
 enface
 enfaced
 enfacement
-enfaces
 eclectism
 enfacing
 entelechy
@@ -12822,6 +12821,7 @@ evanescing
 exospheric
 exospherical
 exosporal
+enfaces
 endotracheitis
 exospore
 exosporium
