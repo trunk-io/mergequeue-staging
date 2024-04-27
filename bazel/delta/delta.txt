@@ -10503,7 +10503,6 @@ debateable
 diphthong
 diphthongalize
 diphthongally
-doug
 diphthongation
 diphthonged
 diphthongia
@@ -17551,6 +17550,7 @@ dutch
 daniglacial
 drumfish
 decadation
+doug
 drumfishes
 drumhead
 diagnostician
