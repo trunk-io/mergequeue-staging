@@ -1249,7 +1249,6 @@ gaols
 gaon
 geobotany
 gaonate
-gap
 gape
 gaped
 gaper
@@ -9512,6 +9511,7 @@ grandstanded
 grout
 grouted
 geophytes
+gap
 grouter
 grouthead
 goondie
