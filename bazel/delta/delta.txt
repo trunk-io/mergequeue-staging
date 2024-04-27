@@ -7288,6 +7288,7 @@ detestations
 detested
 detester
 driveboat
+dipoles
 detesters
 detesting
 detests
@@ -10714,7 +10715,6 @@ dipodomys
 dipolar
 dipolarize
 dipole
-dipoles
 dipolsphene
 dipotassic
 dipotassium
