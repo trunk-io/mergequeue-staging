@@ -6400,6 +6400,7 @@ benzeneazobenzene
 benzenediazonium
 benzenes
 benzenyl
+bhagavata
 benzenoid
 billsticking
 benzhydroxamic
@@ -7731,7 +7732,6 @@ bemole
 bhagat
 blackball
 bhagavat
-bhagavata
 bhaiachara
 bhaiyachara
 bhakti
