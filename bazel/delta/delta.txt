@@ -2838,6 +2838,7 @@ decriminalize
 discoids
 decrypt
 decrypted
+dekare
 decrypting
 decryption
 decryptions
@@ -3919,7 +3920,6 @@ dekametre
 dekaparsec
 dekapode
 dekarch
-dekare
 dekares
 dekastere
 deke

@@ -1615,7 +1615,6 @@ galeenies
 gasogenic
 gasohol
 gasolenes
-gasolier
 gasoliery
 gangland
 gasoliers
@@ -6643,6 +6642,7 @@ goldy
 goldie
 goldilocks
 goldylocks
+gasolier
 guacin
 grads
 goldin
