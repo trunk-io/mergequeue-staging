@@ -3190,7 +3190,6 @@ elusive
 elusively
 elusiveness
 elusory
-elusoriness
 esophagospasm
 elute
 eluted
@@ -14116,6 +14115,7 @@ extubation
 extuberance
 exsection
 extuberant
+elusoriness
 extuberate
 extumescence
 exturb
