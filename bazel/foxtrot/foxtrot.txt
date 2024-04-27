@@ -1590,7 +1590,6 @@ flamandize
 favilla
 favillae
 favillous
-favism
 favissa
 favissae
 favn
@@ -4626,6 +4625,7 @@ fixable
 fixage
 fixate
 fixated
+favism
 fixatifs
 fixation
 footslogs
