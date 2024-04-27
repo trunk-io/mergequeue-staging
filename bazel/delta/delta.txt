@@ -3761,7 +3761,6 @@ dehypnotized
 dehypnotizing
 dehisce
 dehisced
-dehiscence
 dehiscent
 dehisces
 dehiscing
@@ -15053,6 +15052,7 @@ dogs
 dogsbody
 dogsbodies
 dogship
+dehiscence
 deliberate
 dogskin
 dogsleds
