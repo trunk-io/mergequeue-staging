@@ -3247,6 +3247,7 @@ geoscientists
 gyrostats
 geoscopy
 gonopod
+gowan
 geoselenic
 geoside
 geosynchronous
@@ -7507,7 +7508,6 @@ grype
 grubbiest
 governs
 govt
-gowan
 gowans
 grinagog
 gowd
