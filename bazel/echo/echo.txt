@@ -9070,7 +9070,6 @@ eriocaulaceae
 eriocaulon
 eriocomi
 eriodendron
-eriodictyon
 erioglaucine
 entoil
 eriogonum
@@ -13744,6 +13743,7 @@ extortioner
 europocentric
 extortionist
 economist
+eriodictyon
 extortionists
 extortive
 extorts
