@@ -6610,7 +6610,6 @@ enterate
 enterectomy
 entered
 enterer
-enterers
 enterfeat
 entergogenic
 enteria
@@ -8371,6 +8370,7 @@ epithesis
 epithet
 epithetic
 epithetical
+enterers
 epithetically
 epithets
 epithi
