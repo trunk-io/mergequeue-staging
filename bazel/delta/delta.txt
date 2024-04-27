@@ -4140,6 +4140,7 @@ delimitation
 delimitations
 delimited
 delimiter
+derelicts
 delimiting
 delimitize
 delimitized
@@ -6105,7 +6106,6 @@ derek
 derelict
 dereliction
 derelictions
-derelicts
 dereligion
 dregless
 dereligionize
