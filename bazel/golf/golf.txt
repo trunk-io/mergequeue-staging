@@ -5148,7 +5148,6 @@ gland
 glandaceous
 glandarious
 glanderous
-glanders
 glandes
 glanditerous
 gorgonacea
@@ -5523,6 +5522,7 @@ graph
 glidder
 gliddery
 gullishness
+glanders
 glide
 glided
 glider
