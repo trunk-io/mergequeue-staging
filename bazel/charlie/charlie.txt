@@ -14060,7 +14060,6 @@ crystallographic
 cyphellae
 cyphellate
 cipher
-cypher
 cipherable
 cipherdom
 cyphered
@@ -26642,6 +26641,7 @@ counsellorship
 counselor
 counselors
 counsels
+cypher
 count
 countability
 countable
