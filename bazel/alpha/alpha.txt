@@ -14844,7 +14844,6 @@ antibacchius
 antibacterial
 antibacteriolytic
 antiballistic
-antiballooner
 antibank
 antibaryon
 asthenobiosis
@@ -15391,6 +15390,7 @@ antigyrous
 accelerate
 antiglyoxalase
 antiglobulin
+antiballooner
 antignostical
 antigod
 antigone
