@@ -2323,7 +2323,6 @@ fenders
 fendillation
 fending
 fends
-fenerate
 fenestellae
 fenestellid
 frostbiting
@@ -7467,6 +7466,7 @@ forcement
 fibromatoid
 forcepses
 forceput
+fenerate
 forcer
 forcers
 forchase

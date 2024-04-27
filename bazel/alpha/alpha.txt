@@ -11724,6 +11724,7 @@ anagogies
 anagram
 anagrammatic
 anagrammatical
+autohemolytic
 anagrammatically
 anagrammatise
 anagrammatised
@@ -24095,7 +24096,6 @@ autoharp
 autoheader
 autohemic
 autohemolysin
-autohemolytic
 autohemorrhage
 autohemotherapy
 autoheterodyne
