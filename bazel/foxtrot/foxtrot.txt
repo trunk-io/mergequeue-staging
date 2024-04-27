@@ -4857,6 +4857,7 @@ flays
 flaite
 flaith
 flaithship
+floatsman
 flajolotite
 flak
 flakage
@@ -5849,7 +5850,6 @@ floatless
 floatmaker
 fenetre
 floatman
-floatsman
 floatstone
 flob
 flobby

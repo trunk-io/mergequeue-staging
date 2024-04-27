@@ -5163,7 +5163,6 @@ glanduliform
 glanduligerous
 glandulose
 glandulosity
-glandulous
 glaniostomi
 glanis
 glans
@@ -9104,6 +9103,7 @@ gamophagy
 gripment
 gryposis
 grippe
+glandulous
 gripped
 grippelike
 grippers
