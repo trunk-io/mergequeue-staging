@@ -3814,6 +3814,7 @@ cellmate
 carcassed
 carcassing
 carcassless
+collineation
 carceag
 cosmodrome
 carcel
@@ -19111,7 +19112,6 @@ collinear
 collinearity
 collinearly
 collineate
-collineation
 caecias
 collingly
 cocainise
