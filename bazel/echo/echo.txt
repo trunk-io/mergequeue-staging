@@ -9589,7 +9589,6 @@ entrenchments
 escorial
 escort
 escortage
-escorted
 escortee
 engraining
 echinorhinus
@@ -11712,6 +11711,7 @@ exactable
 exposals
 exactas
 exacted
+escorted
 exacter
 exacters
 exactest
