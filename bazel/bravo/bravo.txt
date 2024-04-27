@@ -9390,6 +9390,7 @@ birational
 bleariness
 birch
 birchbark
+brittlestem
 birched
 birchen
 bircher
@@ -15561,7 +15562,6 @@ brittlely
 brittleness
 brittler
 brittlest
-brittlestem
 batrachotoxin
 brittlewood
 brittlewort
