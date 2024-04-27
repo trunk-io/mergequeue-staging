@@ -6912,7 +6912,6 @@ ayre
 aired
 airedale
 airedales
-airer
 airers
 airest
 airfare
@@ -11548,6 +11547,7 @@ amices
 anacanthine
 anacanthini
 anacanthous
+airer
 anacara
 anacard
 anacardiaceae
