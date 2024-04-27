@@ -8130,7 +8130,6 @@ algesimeter
 algesiometer
 algy
 algic
-algicidal
 algicide
 algicides
 algid
@@ -8308,6 +8307,7 @@ alight
 alighted
 alighting
 alightment
+algicidal
 alights
 aligned
 aligners
