@@ -1986,7 +1986,6 @@ bandolerismo
 bandolero
 bandoleros
 bandolier
-bandoliered
 billionths
 bandoline
 bandor
@@ -14576,6 +14575,7 @@ brasilete
 brasiletto
 brasilia
 brasilin
+bandoliered
 brasilins
 brasils
 brasque
