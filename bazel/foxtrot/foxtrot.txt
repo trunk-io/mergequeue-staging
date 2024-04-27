@@ -2209,6 +2209,7 @@ felting
 feltings
 feltmaker
 feltmaking
+folletage
 feltman
 foulard
 feltness
@@ -7011,7 +7012,6 @@ folkvangr
 foll
 foller
 folles
-folletage
 folletti
 folly
 follicle
