@@ -6619,6 +6619,7 @@ guignardia
 gauchest
 goldenmouthed
 goldenpert
+glagolitic
 goldenrod
 gucked
 goldentop
@@ -10581,7 +10582,6 @@ gunstock
 gunstocker
 gunstocks
 gaugeably
-glagolitic
 gunstone
 gunter
 gunther
