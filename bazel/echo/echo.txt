@@ -5458,7 +5458,6 @@ endrins
 endromididae
 endrudge
 endrumpf
-endseal
 electroballistic
 endshake
 endsheet
@@ -13499,6 +13498,7 @@ exstemporaneous
 exstill
 exstimulate
 exstipulate
+endseal
 exstrophy
 exstruct
 exsuction
