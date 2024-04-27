@@ -5187,7 +5187,6 @@ cassises
 cassiterite
 cassites
 charlatanish
-conspectuity
 cassock
 cassocked
 cassocks
@@ -27985,6 +27984,7 @@ clairseacher
 craie
 cheilitis
 craye
+conspectuity
 crayer
 crayfish
 crayfishes
