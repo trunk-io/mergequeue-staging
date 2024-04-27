@@ -3732,7 +3732,6 @@ battel
 bonnering
 batteler
 batteling
-battels
 battement
 battened
 battener
@@ -11750,6 +11749,7 @@ boddagh
 boddhisattva
 bingies
 boddle
+battels
 boded
 bodefully
 booleys
