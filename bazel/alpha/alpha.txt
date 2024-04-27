@@ -4658,7 +4658,6 @@ advertisable
 advertise
 advertised
 anywheres
-advertisee
 advertisement
 advertisements
 advertiser
@@ -11469,6 +11468,7 @@ ascolichen
 amus
 amusable
 amuse
+advertisee
 amusedly
 amusee
 amusement
