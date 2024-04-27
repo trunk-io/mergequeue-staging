@@ -18,7 +18,6 @@ fabledom
 fableland
 fablemaker
 francolin
-fablemonger
 fablemongering
 fabler
 fablers
@@ -9086,6 +9085,7 @@ foursquare
 foursquarely
 foursquareness
 forcene
+fablemonger
 fourteen
 fourteener
 fourteens
