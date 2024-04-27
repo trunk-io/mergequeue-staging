@@ -238,6 +238,7 @@ gainage
 gainbirth
 gaincall
 gaincome
+getling
 generating
 gainer
 glumal
@@ -3656,7 +3657,6 @@ getaways
 gether
 gethsemanic
 getic
-getling
 gilts
 getmesost
 getmjlkost
