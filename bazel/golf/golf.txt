@@ -7206,7 +7206,6 @@ gorgonise
 gorgonised
 gorgonising
 gorgonizing
-gorgonlike
 gorgons
 gorgonzola
 gorgosaurus
@@ -8549,6 +8548,7 @@ greable
 greably
 grease
 greaseball
+gorgonlike
 greasebush
 gorkhali
 greaselessness
