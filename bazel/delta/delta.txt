@@ -8505,7 +8505,6 @@ diapers
 diaphane
 dethrone
 diaphanie
-diaphanometer
 diaphanometry
 diaphanometric
 diaphanoscope
@@ -13201,6 +13200,7 @@ dispossess
 dispossessed
 deemed
 dispossesses
+diaphanometer
 dispossessing
 dispossession
 dispossessor
