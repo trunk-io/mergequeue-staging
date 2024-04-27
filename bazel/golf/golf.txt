@@ -6186,7 +6186,6 @@ glutelins
 gluteofemoral
 gluteoinguinal
 gluteus
-glutimate
 glutinant
 glutinate
 glutination
@@ -8246,6 +8245,7 @@ gorkun
 graptolitoidea
 grapsus
 gorgeable
+glutimate
 grapta
 gondolet
 graptolite
