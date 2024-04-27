@@ -9207,6 +9207,7 @@ almsdeed
 almsfolk
 almsful
 almsgiver
+ataigal
 almshouse
 almshouses
 almsman
@@ -22413,7 +22414,6 @@ ataentsic
 atafter
 ataghan
 ataghans
-ataigal
 ataiyal
 atake
 atalaya
