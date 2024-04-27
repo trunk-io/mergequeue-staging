@@ -10569,7 +10569,6 @@ airplay
 amylo
 astrolater
 amylocellulose
-amyloclastic
 amylocoagulase
 amylodyspepsia
 amylogen
@@ -24000,6 +23999,7 @@ autodiagnostic
 arcubos
 autodiagrammatic
 autodial
+amyloclastic
 adobe
 autodialed
 autodialer
