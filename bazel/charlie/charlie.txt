@@ -9224,7 +9224,6 @@ chassignite
 chassis
 chemisorptive
 chastacosta
-chaste
 chastelain
 chastely
 chasten
@@ -11514,6 +11513,7 @@ chokedamp
 chokey
 chokeys
 choker
+chaste
 chokered
 chokerman
 chokers
