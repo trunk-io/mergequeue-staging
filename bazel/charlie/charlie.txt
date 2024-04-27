@@ -10086,7 +10086,6 @@ cheslep
 cheson
 chesoun
 chess
-chessart
 chessboard
 chessboards
 chessdom
@@ -13321,6 +13320,7 @@ cyclodiolefin
 cyclodiolefine
 cycloganoid
 cycloganoidei
+chessart
 cyclogenesis
 cyclograph
 cyclographer
