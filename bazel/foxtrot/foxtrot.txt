@@ -2279,6 +2279,7 @@ femur
 femurs
 fenagled
 fenagler
+funguses
 fenagles
 furoate
 fenberry
@@ -11233,7 +11234,6 @@ fungosity
 fungosities
 fungus
 fungused
-funguses
 fungusy
 funguslike
 funic
