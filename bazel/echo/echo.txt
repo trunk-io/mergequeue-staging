@@ -3146,7 +3146,6 @@ elsin
 eodiscid
 elt
 eltrot
-eruc
 eluant
 enterophthisis
 eluants
@@ -3556,6 +3555,7 @@ embossed
 eunuch
 exponentiations
 embossers
+eruc
 embossing
 embossman
 embossment
