@@ -843,7 +843,6 @@ gordonia
 gamasidae
 gamasoidea
 gamba
-gambade
 gambades
 garnice
 gambado
@@ -4832,6 +4831,7 @@ girouette
 girouettism
 gyrous
 gyrovagues
+gambade
 gortonian
 gyrowheel
 girr
