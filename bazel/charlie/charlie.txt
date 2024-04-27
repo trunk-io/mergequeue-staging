@@ -9177,7 +9177,6 @@ charvet
 charwoman
 charwomen
 chasable
-chase
 chaseable
 chased
 chasers
@@ -9306,6 +9305,7 @@ cardioplasty
 chattermag
 chattermagging
 chatters
+chase
 chattertonian
 chatti
 chatty
