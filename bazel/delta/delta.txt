@@ -2769,7 +2769,6 @@ decorum
 decorums
 drumbeater
 decouples
-decoupling
 decourse
 decourt
 decousu
@@ -9801,6 +9800,7 @@ demounts
 dotages
 dilogical
 dilos
+decoupling
 dilucid
 dilucidate
 diluendo
