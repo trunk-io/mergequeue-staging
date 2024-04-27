@@ -1126,6 +1126,7 @@ bookiness
 bayonetted
 bayonetting
 bayong
+beamers
 bairagi
 bairam
 bairdi
@@ -4074,7 +4075,6 @@ beam
 beamage
 beambird
 beamer
-beamers
 beamful
 bechances
 beamhouse
