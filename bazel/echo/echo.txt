@@ -6006,6 +6006,7 @@ enjoinder
 enjoined
 enjoiner
 enjoiners
+experimentally
 enjoining
 enjoinment
 enjoins
@@ -13058,7 +13059,6 @@ extradited
 embraces
 experimentalist
 experimentalize
-experimentally
 experimentation
 experimentations
 emporium
