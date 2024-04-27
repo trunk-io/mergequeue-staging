@@ -5896,6 +5896,7 @@ agaristidae
 agarita
 astronautics
 agarose
+amnemonic
 agaroses
 agars
 agarwal
@@ -10853,7 +10854,6 @@ ammos
 ammotherapy
 ammu
 ammunition
-amnemonic
 ascensiontide
 amnesiac
 amnesiacs
