@@ -12401,7 +12401,6 @@ chromatologies
 chromatometer
 chromatone
 chromatopathy
-chromatopathia
 chromatopathic
 chromatophil
 chromatophile
@@ -18298,6 +18297,7 @@ cogitability
 cogitable
 cogitabund
 cogitabundity
+chromatopathia
 cogitabundly
 chainstitch
 cogitabundous
