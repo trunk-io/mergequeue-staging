@@ -854,7 +854,6 @@ ectocondyle
 eleutheri
 ectocondyloid
 epizoites
-ectocranial
 ectocrine
 expendables
 ectocuniform
@@ -4250,6 +4249,7 @@ empressment
 emprint
 emprise
 ennoblingly
+ectocranial
 emprises
 emprison
 elinvar
