@@ -2850,7 +2850,6 @@ acritol
 acron
 acritude
 acroa
-acroama
 acroamata
 acroamatical
 abled
@@ -7596,6 +7595,7 @@ alcade
 alcades
 alcahest
 alcahests
+acroama
 alcaiceria
 alcaics
 alcaid
