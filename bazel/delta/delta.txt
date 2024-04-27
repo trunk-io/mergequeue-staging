@@ -2174,7 +2174,6 @@ decathlon
 decathlons
 dinos
 decatyl
-decating
 decatize
 decatizer
 decatizing
@@ -18376,6 +18375,7 @@ duplication
 duplications
 duplicative
 duplicators
+decating
 daidle
 duplicature
 duplicatus
