@@ -9899,6 +9899,7 @@ chemosensitivities
 chemoserotherapy
 chemoses
 chemosynthesis
+compatibility
 chemosynthetic
 chemosynthetically
 chemosis
@@ -20549,7 +20550,6 @@ compassless
 columbotitanate
 compassment
 compathy
-compatibility
 compatibilities
 compatible
 compatibleness
