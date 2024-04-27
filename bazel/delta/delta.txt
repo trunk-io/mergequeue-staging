@@ -1563,7 +1563,6 @@ daroo
 dustproof
 deadpay
 deadpan
-deadpanned
 deadpanner
 deadpans
 deadrise
@@ -5703,6 +5702,7 @@ denumeration
 deplaning
 deplant
 deplantation
+deadpanned
 deplasmolysis
 disposit
 deplenish
