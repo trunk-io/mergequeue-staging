@@ -1587,6 +1587,7 @@ faveolus
 faverel
 faverole
 faviform
+flamandize
 favilla
 favillae
 favillous
@@ -4873,7 +4874,6 @@ favouredness
 flakiness
 flaking
 flam
-flamandize
 flamb
 flambage
 flambant
