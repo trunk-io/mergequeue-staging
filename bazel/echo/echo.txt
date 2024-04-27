@@ -4355,6 +4355,7 @@ enactable
 enacted
 enacting
 enaction
+epiphysitis
 epithelioglandular
 electrotaxis
 enactive
@@ -8064,7 +8065,6 @@ epiphyses
 elemi
 epanisognathism
 epiphysis
-epiphysitis
 epiphytal
 epiphyte
 emerize
