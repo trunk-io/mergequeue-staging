@@ -5077,7 +5077,6 @@ glaik
 glaiket
 gavotted
 glaiketness
-glaikit
 gust
 glaiks
 gendered
@@ -5883,6 +5882,7 @@ glossas
 glossata
 glossator
 glucosone
+glaikit
 glossatorial
 gadidae
 glossectomy
