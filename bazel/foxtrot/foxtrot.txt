@@ -2703,7 +2703,6 @@ funariaceae
 feruled
 ferules
 ferulic
-feruling
 ferv
 fervence
 furunculous
@@ -6569,6 +6568,7 @@ flusherman
 flushers
 flushes
 flushest
+feruling
 flushing
 flushness
 flusk
