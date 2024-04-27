@@ -15238,7 +15238,6 @@ dollship
 dolman
 dolmans
 dolmen
-dolmenic
 dolmens
 dolomedes
 dolomite
@@ -18090,6 +18089,7 @@ dumfounding
 dumfounds
 duplicate
 dumka
+dolmenic
 dummy
 dummies
 dummying
