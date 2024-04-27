@@ -18131,6 +18131,7 @@ apsis
 apt
 aptal
 aptate
+avulsed
 aptenodytes
 apter
 affing
@@ -24881,7 +24882,6 @@ avows
 avshar
 achilleid
 avulse
-avulsed
 avulses
 avulsing
 adeption

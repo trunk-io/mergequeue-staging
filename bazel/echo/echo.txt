@@ -1234,6 +1234,7 @@ eeyuck
 eelblennies
 eelboat
 eelcake
+electrothermostatic
 eelcatcher
 eelery
 eelfare
@@ -2650,7 +2651,6 @@ electrothermics
 enschedule
 electrothermometer
 estuant
-electrothermostatic
 electrothermotic
 electrotype
 electrotyped
