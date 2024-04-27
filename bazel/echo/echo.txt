@@ -8875,7 +8875,6 @@ erato
 erava
 emption
 erbia
-erbium
 erd
 erdvark
 ere
@@ -11590,6 +11589,7 @@ eviller
 evilly
 evilness
 evilnesses
+erbium
 evilproof
 ethereous
 evils
