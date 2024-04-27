@@ -11956,7 +11956,6 @@ disemboweling
 disembowelled
 disembowelling
 disembowelment
-disembowelments
 disembowels
 disembower
 dioscoreaceous
@@ -13863,6 +13862,7 @@ distilling
 distillment
 describe
 dool
+disembowelments
 distillmint
 distilment
 dropwort

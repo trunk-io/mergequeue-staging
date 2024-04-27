@@ -10167,7 +10167,6 @@ ambulante
 ambulantes
 antihierarchical
 ambulate
-ambulated
 atropinism
 ambulates
 ambulating
@@ -18662,6 +18661,7 @@ arcato
 arcature
 arcatures
 arccos
+ambulated
 audiviser
 arccosine
 arced
