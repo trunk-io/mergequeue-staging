@@ -692,7 +692,6 @@ bacteriologies
 bacteriologist
 bacteriologists
 bacteriopathology
-bacteriophage
 bacteriophages
 botany
 bacteriophagia
@@ -17778,6 +17777,7 @@ burnetize
 bloodstain
 burnettize
 burnettized
+bacteriophage
 burnettizing
 butcherliness
 burnfire
