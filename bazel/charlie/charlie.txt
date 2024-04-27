@@ -1140,7 +1140,6 @@ caldron
 caldrons
 calean
 caleb
-calebite
 calebites
 caleche
 caleches
@@ -9481,6 +9480,7 @@ cheating
 cheatingly
 cheatry
 chemic
+calebite
 cheatrie
 cheats
 confract
