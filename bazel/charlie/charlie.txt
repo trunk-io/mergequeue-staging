@@ -1210,7 +1210,6 @@ calgon
 caliban
 caliber
 calybite
-cunas
 calibogus
 colunar
 calibrate
@@ -2965,6 +2964,7 @@ capax
 capcase
 cape
 capeadores
+cunas
 caped
 capelan
 capelans
