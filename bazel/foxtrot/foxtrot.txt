@@ -1619,7 +1619,6 @@ favositidae
 favositoid
 favour
 favourable
-fossilisation
 favourableness
 favoured
 favouredly
@@ -5301,6 +5300,7 @@ flaxtail
 flaxwife
 flaxwoman
 flaxwort
+fossilisation
 flb
 flche
 flchette
