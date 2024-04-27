@@ -2857,7 +2857,6 @@ eleve
 escalators
 eleven
 elevenfold
-elevens
 exposits
 eleventeenth
 entobranchiate
@@ -7391,6 +7390,7 @@ epalpate
 epanadiplosis
 epicentrum
 epanagoge
+elevens
 evanition
 escruage
 epanaphora
