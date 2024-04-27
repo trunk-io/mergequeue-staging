@@ -4275,7 +4275,6 @@ delsartean
 delsartian
 delta
 deltafication
-deltahedron
 deltaic
 deltaite
 deltal
@@ -17721,6 +17720,7 @@ developmental
 duendes
 dubitante
 dubitate
+deltahedron
 dubitation
 dubitative
 dreamlessness
