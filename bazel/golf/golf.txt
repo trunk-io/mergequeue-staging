@@ -5497,6 +5497,7 @@ glycose
 glycosemia
 glycosidase
 glycoside
+glutaraldehyde
 glycosides
 glutenous
 grant
@@ -6177,7 +6178,6 @@ glutamic
 glutamine
 gadbee
 glutaminic
-glutaraldehyde
 glutaric
 glutch
 glutelin
