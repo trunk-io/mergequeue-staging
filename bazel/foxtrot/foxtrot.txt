@@ -2679,7 +2679,6 @@ fertilitate
 fertility
 fertilities
 fertilizability
-fertilizable
 fixgig
 ferroprussiate
 fertilization
@@ -7227,6 +7226,7 @@ footingly
 footings
 footle
 fishpound
+fertilizable
 footled
 footler
 footlers
