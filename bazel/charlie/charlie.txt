@@ -4749,6 +4749,7 @@ carromed
 carroming
 carroms
 carronade
+civile
 carroon
 carrosserie
 carrot
@@ -15105,7 +15106,6 @@ civics
 civie
 civies
 civil
-civile
 convalescency
 civiler
 civilest
