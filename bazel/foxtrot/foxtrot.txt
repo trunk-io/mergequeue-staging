@@ -5374,7 +5374,6 @@ fretsaw
 flee
 fleece
 fleeced
-feirie
 fleeceflower
 fleeceless
 fleecelike
@@ -9463,6 +9462,7 @@ franzy
 fumarine
 fraple
 frapler
+feirie
 frapp
 frappe
 frappeed
