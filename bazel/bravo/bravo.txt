@@ -1356,7 +1356,6 @@ balatte
 balau
 balausta
 balaustine
-balaustre
 balawa
 balawu
 balboa
@@ -16486,6 +16485,7 @@ booboos
 bubbly
 bubblier
 bubblies
+balaustre
 bubbliest
 bubbliness
 bubbling
