@@ -7934,7 +7934,6 @@ dextrose
 dextroses
 dextrosinistral
 dextrosinistrally
-dextrosuria
 dextrotartaric
 dextrous
 dextrously
@@ -15610,6 +15609,7 @@ doorsills
 doorstead
 didactics
 doorstep
+dextrosuria
 doorsteps
 doorstop
 deaconize
