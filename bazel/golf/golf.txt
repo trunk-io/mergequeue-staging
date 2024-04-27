@@ -7211,6 +7211,7 @@ gorgonising
 gorgonizing
 gorgons
 gorgonzola
+gravity
 gorgosaurus
 gorhen
 gorhens
@@ -8514,7 +8515,6 @@ gravitationally
 gravitations
 ghetti
 gravitative
-gravity
 gravitic
 gravities
 gravitometer
