@@ -7946,7 +7946,6 @@ foreribs
 foreright
 foredates
 foreroyal
-forerun
 forerunner
 forerunning
 forerunnings
@@ -8856,6 +8855,7 @@ fosses
 frayn
 fibromyomatous
 fosset
+forerun
 fossette
 fossettes
 fossicked
