@@ -1445,6 +1445,7 @@ baleise
 baleless
 baler
 balers
+barratries
 bales
 balestra
 balete
@@ -2945,7 +2946,6 @@ barrater
 barraters
 barrator
 barratry
-barratries
 barratrous
 barratrously
 barre
