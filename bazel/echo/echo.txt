@@ -2849,6 +2849,7 @@ elevato
 elevator
 elevators
 embrued
+elevatory
 eleve
 escalators
 eleven
@@ -7675,7 +7676,6 @@ epicoeloma
 epicoelous
 ectosome
 epicolic
-elevatory
 epicondylar
 epicondyle
 evergreens
