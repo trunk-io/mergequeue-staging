@@ -4337,7 +4337,6 @@ delustrant
 deluxe
 delve
 dyspepsy
-delved
 delvers
 delves
 dodecamerous
@@ -10187,6 +10186,7 @@ dinitril
 dinitrile
 dinitro
 dinitrobenzene
+delved
 dinitrophenylhydrazine
 dinitrotoluene
 dink
