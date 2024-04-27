@@ -8290,7 +8290,6 @@ gry
 gerundive
 grasshopperish
 grasshoppers
-gonyoncus
 grassy
 grassie
 grassiest
@@ -10702,6 +10701,7 @@ gustable
 gustables
 gustard
 gustative
+gonyoncus
 guergal
 groundnut
 griphus
