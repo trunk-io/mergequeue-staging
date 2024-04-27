@@ -6171,7 +6171,6 @@ caulomer
 caulomic
 caulophylline
 caulophyllum
-caulosarc
 caulotaxy
 caulotaxis
 caulote
@@ -9052,6 +9051,7 @@ charks
 charlady
 charladies
 charlatan
+caulosarc
 charlatanic
 charlatanical
 charlatanistic
