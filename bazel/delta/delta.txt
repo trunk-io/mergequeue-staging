@@ -474,7 +474,6 @@ daysmen
 daystar
 daystars
 daytale
-daitya
 daytide
 daytime
 daytimes
@@ -3024,6 +3023,7 @@ drearisomeness
 deepening
 deeper
 deepest
+daitya
 deepfreeze
 deepfreezed
 deepfreezing
