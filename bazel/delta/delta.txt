@@ -17358,6 +17358,7 @@ dropline
 dropling
 dropman
 dropmeal
+duotones
 dropout
 droppage
 dropped
@@ -18336,7 +18337,6 @@ duotype
 diospyros
 duotoned
 duke
-duotones
 duotriacontane
 duotriode
 duoviri
