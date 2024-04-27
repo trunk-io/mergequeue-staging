@@ -5054,6 +5054,7 @@ cystenchymatous
 casework
 caseworker
 caseworkers
+communes
 caseworks
 caseworm
 caseworms
@@ -20333,7 +20334,6 @@ chorographies
 commune
 communed
 communer
-communes
 communicability
 communicable
 cacochymia
