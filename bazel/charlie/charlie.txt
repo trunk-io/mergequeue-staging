@@ -5285,7 +5285,6 @@ castlewards
 cowpony
 castlewise
 castling
-castock
 castoff
 castoffs
 castor
@@ -6882,6 +6881,7 @@ cenation
 cenatory
 cencerro
 cencerros
+castock
 cenchrus
 cendre
 cene
