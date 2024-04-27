@@ -3705,7 +3705,6 @@ embryotomy
 embryotomies
 embryotroph
 embryotrophe
-embryotrophy
 embryotrophic
 embryous
 embrittle
@@ -5782,6 +5781,7 @@ endoplasmic
 englishes
 englishhood
 englishism
+embryotrophy
 englishize
 englishly
 englishness
