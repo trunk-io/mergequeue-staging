@@ -6650,6 +6650,7 @@ fluviomarine
 fluvioterrestrial
 fireshaft
 fluvious
+formalization
 fluviovolcanic
 flux
 fluxation
@@ -8428,7 +8429,6 @@ formalith
 formality
 formalities
 formalizable
-formalization
 formalizations
 formalize
 formalized
