@@ -22217,7 +22217,6 @@ congeal
 congealability
 congealable
 congealableness
-congealed
 congealedness
 congealing
 congealment
@@ -26945,6 +26944,7 @@ countermanded
 countermanding
 countermaneuver
 countermanifesto
+congealed
 coordinators
 countermanifestoes
 countermarch
