@@ -2197,7 +2197,6 @@ emraud
 eldred
 eventuate
 eldress
-eldrich
 eldritch
 elds
 eleanor
@@ -12140,6 +12139,7 @@ exophthalmia
 excoriations
 enterectomies
 extinguishable
+eldrich
 excorticating
 excortication
 explainability
