@@ -9669,7 +9669,6 @@ aluminosilicate
 arcadia
 aluminosis
 aluminosity
-aluminothermy
 aluminothermics
 antaios
 aluminotype
@@ -10869,6 +10868,7 @@ amnia
 amniac
 ateleiosis
 amnic
+aluminothermy
 agyria
 allamoth
 amnigenia
