@@ -1290,7 +1290,6 @@ fastigiately
 fastigious
 fastigium
 foreswore
-fastigiums
 fastiia
 fasting
 fastingly
@@ -11035,6 +11034,7 @@ fumet
 flaxlike
 file
 fumettes
+fastigiums
 flongs
 fumeuse
 fumeuses
