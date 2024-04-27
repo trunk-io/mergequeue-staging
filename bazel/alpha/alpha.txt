@@ -517,6 +517,7 @@ autocarp
 abjured
 abjurement
 abjurer
+aghastness
 abjurers
 abjures
 abjuring
@@ -6161,7 +6162,6 @@ aggur
 aghan
 aghanee
 aghast
-aghastness
 aghlabite
 aghorapanthi
 aghori
