@@ -1609,7 +1609,6 @@ gleyde
 gasogen
 gasogene
 galeenies
-gasogenic
 gasohol
 gasolenes
 gasoliery
@@ -7537,6 +7536,7 @@ gownsman
 gownsmen
 gowpen
 gox
+gasogenic
 gozill
 glochines
 gp
