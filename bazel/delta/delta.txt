@@ -4746,7 +4746,6 @@ demnition
 demob
 dismaying
 demobbed
-demobbing
 demobilisation
 demobilised
 demobilising
@@ -11036,6 +11035,7 @@ disambiguate
 disambiguates
 deoxyribonucleic
 disambiguation
+demobbing
 disambiguations
 disamenity
 disamis
