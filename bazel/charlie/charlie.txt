@@ -5076,6 +5076,7 @@ cashibo
 cashier
 cashiered
 cashierer
+courlans
 cashiering
 cashierment
 cashiers
@@ -27353,7 +27354,6 @@ courier
 couriers
 couril
 courlan
-courlans
 couronne
 cours
 course
