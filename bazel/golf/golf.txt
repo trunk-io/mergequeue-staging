@@ -6016,6 +6016,7 @@ grain
 glovemaker
 glovemaking
 gloveman
+gutlessness
 glyptotheca
 glovemen
 gaylussacia
@@ -10730,7 +10731,6 @@ gutbucket
 gutierrez
 gomerels
 gutium
-gutlessness
 grinnellia
 goldic
 gutlike
