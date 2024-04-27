@@ -4767,6 +4767,7 @@ golliwogg
 gyrocompasses
 gyrodactylidae
 gyrodactylus
+gurneyite
 gastrocoele
 gyrofrequency
 gyrofrequencies
@@ -10643,7 +10644,6 @@ genotypes
 gigabits
 gurnards
 gurney
-gurneyite
 gurneys
 gurnet
 glossoscopia
