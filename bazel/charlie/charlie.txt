@@ -14423,7 +14423,6 @@ circumstance
 circumstanced
 circumstances
 circumstancing
-circumstant
 circumstantiability
 circumstantiable
 circumstantiality
@@ -27433,6 +27432,7 @@ cousinship
 classmen
 coussinet
 couteaux
+circumstant
 coutel
 coutelle
 complimenter

@@ -3117,7 +3117,6 @@ basaree
 basat
 bascinet
 basculation
-bascule
 bascules
 butadiyne
 bascunan
@@ -11768,6 +11767,7 @@ baluga
 bodenbenderite
 boder
 balanophora
+bascule
 bodes
 bodewash
 bodeword
