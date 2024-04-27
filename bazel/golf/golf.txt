@@ -1881,7 +1881,6 @@ gastrostegal
 gastrostege
 gastrostenosis
 gastrostomies
-gastrostomize
 gastrostomus
 girandola
 gyrotheca
@@ -1919,6 +1918,7 @@ gatehouse
 gatekeep
 gatekeeper
 gatekeepers
+gastrostomize
 gateless
 gatelike
 gatemaker
