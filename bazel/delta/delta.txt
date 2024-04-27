@@ -116,6 +116,7 @@ devisceration
 dactylogram
 dactylograph
 dactylographer
+diffractometer
 detenu
 dactylography
 dactylographic
@@ -9405,7 +9406,6 @@ diffractive
 diffractively
 degenerescent
 diffractiveness
-diffractometer
 diffracts
 diffranchise
 diffrangible
