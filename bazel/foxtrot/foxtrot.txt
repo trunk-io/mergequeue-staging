@@ -3866,7 +3866,6 @@ fimbrillate
 fany
 fig
 fimbrilliferous
-fimbrillose
 fimbriodentate
 fimbristylis
 fin
@@ -11516,6 +11515,7 @@ furthermore
 furthermost
 furthers
 furtive
+fimbrillose
 furtively
 furtum
 furud
