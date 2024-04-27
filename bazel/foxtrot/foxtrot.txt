@@ -8781,7 +8781,6 @@ fortuitus
 fortunate
 fortunately
 fortunateness
-fortunation
 fortune
 fortuned
 fortunel
@@ -10791,6 +10790,7 @@ flatteur
 fubby
 fubbing
 fubs
+fortunation
 fubsy
 fubsiest
 fucaceae
