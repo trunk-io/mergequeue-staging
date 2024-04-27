@@ -1651,7 +1651,6 @@ fawners
 fawny
 famished
 flameflower
-fawnier
 fawniest
 fawning
 fawningly
@@ -9748,6 +9747,7 @@ freezer
 freezes
 freezy
 freezing
+fawnier
 freezingly
 fregata
 fortitude
