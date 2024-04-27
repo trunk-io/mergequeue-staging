@@ -2249,7 +2249,6 @@ cancellability
 cancellable
 cancellarius
 cancellation
-cancellations
 cancelled
 canceller
 cancelli
@@ -28660,6 +28659,7 @@ cremorne
 cremosin
 crena
 crenae
+cancellations
 crenallation
 crenate
 crenated
