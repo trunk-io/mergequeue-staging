@@ -10803,7 +10803,6 @@ assonance
 ammonify
 aeroscepsy
 ammonification
-ammonified
 ammonifier
 aricine
 aerosats
@@ -16305,6 +16304,7 @@ antispirochetic
 antisplasher
 antisplenetic
 antispreader
+ammonified
 antispreading
 antisquama
 antisquatting
