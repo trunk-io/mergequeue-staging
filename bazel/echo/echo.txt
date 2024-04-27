@@ -6851,6 +6851,7 @@ entitative
 emetin
 excerptor
 entitle
+evanescible
 epitomizing
 entitled
 entitledness
@@ -11321,7 +11322,6 @@ evanescency
 evanescenrly
 evanescent
 evanescently
-evanescible
 evang
 evangel
 evangelary
