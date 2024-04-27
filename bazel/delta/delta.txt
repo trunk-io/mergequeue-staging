@@ -9370,7 +9370,6 @@ differentness
 differer
 differers
 differing
-differingly
 differs
 difficileness
 difficilitate
@@ -17410,6 +17409,7 @@ dross
 drossed
 drossel
 drosser
+differingly
 drosses
 drossy
 drossiest
