@@ -291,6 +291,7 @@ eastings
 eastlake
 eastlander
 eastlin
+electrosynthesis
 eastling
 eastlings
 eastlins
@@ -1009,7 +1010,6 @@ eddaic
 eddy
 episcopable
 eves
-electrosynthesis
 eddied
 encephalon
 eddying
