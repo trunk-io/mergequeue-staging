@@ -1289,7 +1289,6 @@ balanceable
 balanced
 balancedness
 balancelle
-balancer
 balancers
 bakerdom
 balander
@@ -16396,6 +16395,7 @@ brutal
 brutalisation
 brutalise
 brutalised
+balancer
 besant
 bolded
 brutalising
