@@ -6592,7 +6592,6 @@ bequests
 bequote
 beqwete
 ber
-beray
 berain
 berairou
 berakah
@@ -10387,6 +10386,7 @@ bottine
 blanking
 blankish
 brazing
+beray
 blankit
 blankminded
 bullneck
