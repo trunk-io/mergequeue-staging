@@ -3060,7 +3060,6 @@ elliptoid
 ellops
 epicyte
 ells
-ellwand
 elm
 elmer
 elmy
@@ -7792,6 +7791,7 @@ epididymovasostomy
 epidymides
 epidiorite
 epidiorthosis
+ellwand
 epidiplosis
 epidosite
 euphorbiaceae
