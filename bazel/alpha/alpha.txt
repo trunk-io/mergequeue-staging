@@ -2430,6 +2430,7 @@ acidifiers
 acidifies
 acidifying
 acidyl
+alters
 acidimetric
 acidimetrically
 acidite
@@ -9549,7 +9550,6 @@ alternipetalous
 alternipinnate
 alternisepalous
 alternity
-alters
 alterum
 altesse
 alteza
