@@ -6593,6 +6593,7 @@ desertlike
 desertness
 desertress
 desertrice
+differentials
 deserts
 desertward
 deserve
@@ -9362,7 +9363,6 @@ describer
 differentiae
 differential
 differentialize
-differentials
 differentiate
 differentiates
 differentiating
