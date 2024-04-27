@@ -290,6 +290,7 @@ faffle
 fafnir
 fag
 fagaceae
+foists
 fagaceous
 fayal
 fayalites
@@ -4515,7 +4516,6 @@ fisticuffing
 fistiness
 fannell
 fistinut
-foists
 fistle
 fistlike
 fistmele
