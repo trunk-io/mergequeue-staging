@@ -75,6 +75,7 @@ facemark
 facepiece
 faceplate
 facer
+fragmenting
 faces
 facesaving
 facet
@@ -9286,7 +9287,6 @@ fragmentariness
 fragmentation
 fragmented
 fermentology
-fragmenting
 fragmentisation
 fragmentised
 flintworker

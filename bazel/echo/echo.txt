@@ -4199,6 +4199,7 @@ emplanes
 emplaning
 emplastic
 emplastration
+entophyte
 emplastrum
 emplectic
 emplection
@@ -7450,7 +7451,6 @@ epeisodia
 epeisodion
 epembryonic
 epencephala
-entophyte
 embittering
 epencephalon
 epencephalons
