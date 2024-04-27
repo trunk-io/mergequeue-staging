@@ -4975,7 +4975,6 @@ endangerment
 exululate
 endangerments
 endearedness
-endangitis
 endangium
 endaortitis
 endarch
@@ -11307,6 +11306,7 @@ evagination
 endostraca
 election
 eval
+endangitis
 evaluate
 evaluated
 evaluates
