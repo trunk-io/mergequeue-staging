@@ -3160,7 +3160,6 @@ elucid
 exchangeably
 elucidate
 esperantido
-echevin
 elucidated
 elucidates
 elucidating
@@ -12413,6 +12412,7 @@ exerts
 exes
 exesion
 exestuate
+echevin
 exeunt
 exfetation
 exfiguration
