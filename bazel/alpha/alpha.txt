@@ -4685,6 +4685,7 @@ advisee
 advisees
 advisement
 atli
+avoue
 adviser
 advisers
 advisership
@@ -24854,7 +24855,6 @@ avouches
 avouching
 austenite
 avouchment
-avoue
 avour
 avourneen
 avouter
