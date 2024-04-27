@@ -7158,7 +7158,6 @@ gorebill
 gutturalization
 gored
 goaf
-gorefish
 gogos
 gresil
 gorer
@@ -10181,6 +10180,7 @@ guyers
 ghoster
 guige
 guignol
+gorefish
 guijo
 guilandina
 guild
