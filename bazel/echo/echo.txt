@@ -2878,7 +2878,6 @@ encatarrhaphy
 elfkin
 elfland
 elderwoman
-elflike
 elflock
 elflocks
 elfship
@@ -10206,6 +10205,7 @@ eternity
 eternities
 eternization
 eternize
+elflike
 eternized
 eternizes
 etesian
