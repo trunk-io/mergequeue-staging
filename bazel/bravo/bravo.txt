@@ -2360,7 +2360,6 @@ barbated
 barbatimao
 barbe
 barbeau
-backstair
 bogbean
 barbecue
 barbecued
@@ -7916,6 +7915,7 @@ bibliographer
 bibliographers
 bibliography
 bibliographic
+backstair
 bibliographical
 bibliographically
 bibliographies
