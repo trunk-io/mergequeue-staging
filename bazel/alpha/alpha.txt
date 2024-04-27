@@ -10852,6 +10852,7 @@ ammotherapy
 ammu
 ammunition
 amnemonic
+ascensiontide
 amnesiac
 amnesiacs
 amnesias
@@ -20950,7 +20951,6 @@ aleut
 ascensional
 ascensionist
 ascensions
-ascensiontide
 ascensive
 ascensor
 ascent
