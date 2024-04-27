@@ -5372,6 +5372,7 @@ aggerate
 affinity
 affinities
 affinition
+amplest
 assignation
 affinitive
 affirmable
@@ -11346,7 +11347,6 @@ amplect
 amplectant
 ampleness
 ampler
-amplest
 amplex
 amplexation
 amplexicaul
