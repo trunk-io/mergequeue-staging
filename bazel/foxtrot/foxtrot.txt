@@ -2519,7 +2519,6 @@ ferocities
 feroher
 ferox
 ferr
-ferrament
 ferrara
 flockier
 ferrarese
@@ -8316,6 +8315,7 @@ forgivers
 forgives
 friaries
 federalness
+ferrament
 forgivingly
 forgivingness
 forgo

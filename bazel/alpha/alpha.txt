@@ -608,7 +608,6 @@ abnegation
 abnegations
 abnegative
 attain
-abnegator
 abnegators
 abner
 abnerval
@@ -19502,6 +19501,7 @@ arghan
 arghel
 arghool
 arghoul
+abnegator
 argid
 argify
 ahind
