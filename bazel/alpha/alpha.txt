@@ -943,7 +943,6 @@ absenter
 absenters
 absenting
 absently
-absentment
 absentminded
 absentmindedly
 absentmindedness
@@ -13310,6 +13309,7 @@ artamus
 anisal
 anisalcohol
 anisaldehyde
+absentment
 anisaldoxime
 anisamide
 anisandrous
