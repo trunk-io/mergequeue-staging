@@ -6740,7 +6740,6 @@ cellist
 cellists
 cellite
 continua
-cellmates
 cello
 cace
 cellobiose
@@ -20524,6 +20523,7 @@ compartmented
 compartmentize
 compartments
 compartner
+cellmates
 comparts
 compass
 compassability
