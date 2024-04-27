@@ -17508,7 +17508,6 @@ apothecarcaries
 apothecary
 apothecaryship
 apothece
-apocopes
 apotheces
 apothecia
 apothecial
@@ -22490,6 +22489,7 @@ ateliotic
 atellan
 atelo
 atelocardia
+apocopes
 ateloglossia
 atelognathia
 atelomyelia
