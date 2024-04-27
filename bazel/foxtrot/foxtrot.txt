@@ -4448,6 +4448,7 @@ flagfish
 foreshorten
 fissile
 fissilingual
+formicid
 fissilinguia
 fissility
 fission
@@ -4522,7 +4523,6 @@ fistmele
 fistnote
 forecounsel
 fistnotes
-formicid
 fishhold
 fists
 fest
