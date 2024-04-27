@@ -1558,6 +1558,7 @@ ballerina
 ballerinas
 ballerine
 benzal
+bookseller
 bitubercular
 ballers
 bemeans
@@ -12717,7 +12718,6 @@ blast
 bookrests
 bookroom
 books
-bookseller
 booksellerish
 boce
 barmkin
