@@ -7710,7 +7710,6 @@ cero
 cerograph
 cerographer
 cerography
-cerographic
 cerographical
 calombigas
 cerographist
@@ -28889,6 +28888,7 @@ crewed
 crewelist
 crewels
 crewelwork
+cerographic
 crewet
 crewing
 crewless
