@@ -4175,7 +4175,6 @@ bearhugs
 bearing
 bearings
 bearish
-bearishly
 bearishness
 bankfull
 bearlet
@@ -5083,6 +5082,7 @@ befall
 benzomorpholine
 boneshave
 befalls
+bearishly
 befame
 bruyere
 bloodthirst
