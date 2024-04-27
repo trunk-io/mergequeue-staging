@@ -8531,7 +8531,6 @@ equableness
 equably
 equal
 editorials
-equalable
 equaled
 equalisation
 equalise
@@ -10144,6 +10143,7 @@ etaballi
 etacism
 etacist
 etageres
+equalable
 etalage
 etalon
 etamin
