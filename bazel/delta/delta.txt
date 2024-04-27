@@ -3330,7 +3330,6 @@ defiladed
 denuded
 defile
 defeatment
-defiledness
 defilement
 defilements
 defilers
@@ -4771,6 +4770,7 @@ dewaterer
 democratised
 democratising
 democratism
+defiledness
 democratist
 democratization
 democratize
