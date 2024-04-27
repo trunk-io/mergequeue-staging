@@ -6493,7 +6493,6 @@ describability
 describable
 describably
 described
-describent
 describers
 describes
 describing
@@ -13650,6 +13649,7 @@ dissipating
 dissident
 dissipations
 dissipative
+describent
 dissipativity
 dissipator
 dissipators
