@@ -7066,7 +7066,6 @@ bannermen
 besmottered
 besmouch
 besmudge
-besmudged
 besmudges
 besmudging
 besweeten
@@ -17959,6 +17958,7 @@ bushelers
 bushelful
 bushelfuls
 beseeched
+besmudged
 busheling
 bushelled
 bushelling
