@@ -10197,6 +10197,7 @@ chew
 chewable
 chewbark
 chewed
+curtate
 cheweler
 chewer
 chewers
@@ -31530,7 +31531,6 @@ curtalax
 curtalaxes
 curtals
 curtana
-curtate
 controversialists
 curtation
 curtaxe
