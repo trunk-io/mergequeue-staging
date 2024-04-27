@@ -784,6 +784,7 @@ caissons
 caitanyas
 caite
 caitif
+consigne
 caitiff
 caitiffs
 caitifty
@@ -13250,7 +13251,6 @@ cichloid
 cichoriaceae
 cichoriaceous
 cichorium
-consigne
 cicindelidae
 cicisbei
 cicisbeism
