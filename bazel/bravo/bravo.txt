@@ -2768,7 +2768,6 @@ barnard
 barnbrack
 barnburner
 babyfied
-barndoor
 barney
 barneys
 barnful
@@ -9418,6 +9417,7 @@ birdcalls
 birdcatching
 birdclapper
 birdcraft
+barndoor
 birddom
 birde
 beboss
