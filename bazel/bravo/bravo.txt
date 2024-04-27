@@ -2087,7 +2087,6 @@ buckra
 baniwa
 banjara
 bioinstrumentation
-banjo
 banjoist
 banjoists
 bougainvilliidae
@@ -14802,6 +14801,7 @@ breaker
 breakerman
 benet
 baja
+banjo
 breakermen
 breakers
 breakfast
