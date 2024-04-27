@@ -7163,7 +7163,6 @@ detained
 detainee
 detainees
 detainer
-dissociant
 detainers
 drawled
 detaining
@@ -9298,6 +9297,7 @@ dietetical
 dietetically
 dietetics
 decard
+dissociant
 dietetist
 diethanolamine
 diether
