@@ -2307,7 +2307,6 @@ discouraged
 diethylstilbestrol
 deceptive
 deceptively
-deceptiveness
 deceptory
 decerebrate
 decerebrated
@@ -16310,6 +16309,7 @@ downlink
 downlinking
 downlinks
 download
+deceptiveness
 downloadable
 downloaded
 downloading
