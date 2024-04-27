@@ -11751,7 +11751,6 @@ chondrology
 chondroma
 chondromas
 chondromata
-chondromatous
 chondromyces
 chondromyoma
 chondromyxoma
@@ -12948,6 +12947,7 @@ chutist
 chutists
 chutnee
 chutnees
+chondromatous
 chutney
 chutneys
 chuttie
