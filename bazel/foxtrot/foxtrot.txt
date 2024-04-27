@@ -8933,7 +8933,6 @@ fosterite
 fosterland
 fosterling
 fosterlings
-fosters
 fistulize
 fostership
 fostress
@@ -9674,6 +9673,7 @@ freeholders
 freeholdership
 freeholding
 freeholds
+fosters
 freeing
 freeings
 franticly
