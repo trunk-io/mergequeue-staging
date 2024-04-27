@@ -6024,6 +6024,7 @@ enkindled
 enkindler
 enkindles
 enkindling
+evacuated
 enkolpia
 enkraal
 enl
@@ -11280,7 +11281,6 @@ eva
 evacuant
 epipetalous
 evacuants
-evacuated
 evacuating
 evacuation
 evacuative
