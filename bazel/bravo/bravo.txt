@@ -1104,7 +1104,6 @@ bailout
 bailouts
 bailpiece
 bails
-bayou
 bailsmen
 bailwood
 bayman
@@ -4559,6 +4558,7 @@ becrowding
 becrowds
 becrown
 becrust
+bayou
 blatherskite
 becrusted
 blessers
