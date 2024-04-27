@@ -9159,6 +9159,7 @@ erythrocytoschisis
 ethaldehyde
 erythrocytosis
 erythroclasis
+exacinate
 erythrodegenerative
 ephebeum
 erythrodermia
@@ -9711,7 +9712,6 @@ eurythmy
 esophagocele
 esophagodynia
 esophagogastroscopy
-exacinate
 epigonichthyidae
 esophagogastrostomy
 esophagomalacia
