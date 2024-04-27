@@ -4814,6 +4814,7 @@ flagmaker
 flagmen
 frilling
 flagon
+fungicidally
 flagons
 fasciolaria
 fleadock
@@ -11203,7 +11204,6 @@ fungible
 fungibles
 fungic
 fungicidal
-fungicidally
 fungicides
 fungiferous
 fungify
