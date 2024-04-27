@@ -17656,7 +17656,6 @@ dtd
 dtente
 dtset
 du
-duad
 duadic
 duads
 duala
@@ -18196,6 +18195,7 @@ dungas
 dungbeck
 dungbird
 dungbred
+duad
 dunged
 dungeoner
 dungeons
