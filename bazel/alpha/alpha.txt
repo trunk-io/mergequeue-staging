@@ -10173,7 +10173,6 @@ ambulatio
 ambulation
 ambulator
 ambulatory
-ambulatoria
 aphanitism
 ambulatorial
 ambulatories
@@ -24193,6 +24192,7 @@ automatic
 automatical
 automatically
 automaticity
+ambulatoria
 automatics
 automatictacessing
 automatin
