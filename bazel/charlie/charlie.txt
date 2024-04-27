@@ -4699,7 +4699,6 @@ carry
 carriable
 carryable
 carriage
-carriageable
 carriageful
 carriageless
 carriages
@@ -24780,6 +24779,7 @@ copsewood
 copsewooded
 circs
 copsy
+carriageable
 copsing
 copsole
 copt
