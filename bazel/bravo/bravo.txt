@@ -4801,7 +4801,6 @@ bedquilt
 bedquilts
 bourree
 bluffing
-bedraggle
 bedraggled
 bedragglement
 bedraggles
@@ -4920,6 +4919,7 @@ buildingless
 beebread
 beebreads
 baptistries
+bedraggle
 beech
 beechdrops
 breastsummer
