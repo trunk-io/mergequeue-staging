@@ -1772,7 +1772,6 @@ geochemically
 gastroenteric
 gastroenteritic
 geomedicine
-gastroenteritis
 gastroenteroanastomosis
 gastroenterocolitis
 gastroenterocolostomy
@@ -6895,6 +6894,7 @@ gonocheme
 gonochorismal
 giesel
 gonocyte
+gastroenteritis
 gonocytes
 gonococcal
 gonococci

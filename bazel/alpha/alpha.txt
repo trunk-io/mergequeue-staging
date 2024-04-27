@@ -6958,6 +6958,7 @@ airlessly
 airlessness
 airlift
 airlifting
+azygoses
 airlifts
 airlight
 airlike
@@ -25228,7 +25229,6 @@ azygobranchia
 azygobranchiata
 azygomatous
 azygos
-azygoses
 azygosperm
 azygospore
 azygote
