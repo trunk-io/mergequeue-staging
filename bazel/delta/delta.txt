@@ -4244,7 +4244,6 @@ delocalization
 delocalize
 delocalizing
 delomorphic
-delomorphous
 deloo
 delouse
 deloused
@@ -13612,6 +13611,7 @@ dissyllable
 dissimilar
 dissimilarities
 dissimilars
+delomorphous
 dissimilate
 diascord
 dissimilating
