@@ -3474,7 +3474,6 @@ defoliate
 diallist
 defoliates
 defoliating
-defoliations
 defoliator
 defoliators
 deforce
@@ -8320,6 +8319,7 @@ dephlegmation
 doughs
 dialysation
 dialysed
+defoliations
 dialysepalous
 dialyser
 dialysers
