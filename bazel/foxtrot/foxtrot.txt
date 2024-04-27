@@ -7616,6 +7616,7 @@ forecover
 fouling
 fers
 forecovert
+fuzzier
 foreday
 foredays
 fivefoldness
@@ -11734,7 +11735,6 @@ fuzing
 fuzz
 fuzzed
 fuzzes
-fuzzier
 fuzziest
 fuzzily
 fuzzing
