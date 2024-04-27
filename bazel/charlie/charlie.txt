@@ -14740,7 +14740,6 @@ cystoscopies
 cystose
 cystospasm
 cystospastic
-cystospore
 cystostomy
 cystostomies
 cystotome
@@ -19753,6 +19752,7 @@ combinement
 combiner
 combiners
 casanovanic
+cystospore
 combines
 combing
 cumbering
