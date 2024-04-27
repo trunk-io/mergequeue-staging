@@ -5088,6 +5088,7 @@ aeropathy
 aeropause
 antilapse
 aerope
+antifeudalization
 aerophagy
 aerophagia
 aerophagist
@@ -15333,7 +15334,6 @@ antifeudal
 antifeudalism
 antifeudalist
 antifeudalistic
-antifeudalization
 antifibrinolysin
 antifibrinolysis
 aminobenzamide
