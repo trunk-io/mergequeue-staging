@@ -424,7 +424,6 @@ galbulinae
 gossep
 galcha
 galchic
-gravata
 gale
 galea
 galeae
@@ -7164,6 +7163,7 @@ gutturalization
 gored
 goaf
 gogos
+gravata
 gresil
 gorer
 gimmicking
