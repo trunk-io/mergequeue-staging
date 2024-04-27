@@ -1908,7 +1908,6 @@ acemila
 acerb
 acenaphthene
 acenaphthenyl
-acenaphthylene
 anomorhomboid
 acenesthesia
 acensuada
@@ -8929,6 +8928,7 @@ allomerize
 allomerized
 allomerizing
 allomerous
+acenaphthylene
 averager
 allometry
 allomorph
