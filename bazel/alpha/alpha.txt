@@ -13972,6 +13972,7 @@ anostraca
 anoterite
 another
 anotherguess
+antacids
 anotherkins
 anotia
 anotropia
@@ -24509,7 +24510,6 @@ auxesis
 auxetic
 auxetically
 auxil
-antacids
 auxiliar
 auxiliary
 auxiliaries
