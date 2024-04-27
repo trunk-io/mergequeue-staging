@@ -2070,6 +2070,7 @@ gave
 geographer
 gavel
 gaveled
+gilia
 gaveler
 gavelet
 gopherwood
@@ -4133,7 +4134,6 @@ gilgames
 gilgamesh
 gilguy
 gilgulim
-gilia
 giliak
 gilim
 gill
