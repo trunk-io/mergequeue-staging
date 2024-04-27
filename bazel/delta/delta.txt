@@ -1453,6 +1453,7 @@ dazzlingly
 dazzlingness
 db
 dbl
+denominable
 dbms
 dbridement
 disintensify
@@ -5199,7 +5200,6 @@ denning
 dennis
 dennstaedtia
 denom
-denominable
 decursion
 denominant
 denominate
