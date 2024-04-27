@@ -4461,7 +4461,6 @@ fissility
 fission
 fingerhold
 flunkydom
-fissionable
 fissioned
 fissioning
 formidolous
@@ -8400,6 +8399,7 @@ frotteurs
 forlet
 frosts
 forletting
+fissionable
 forlive
 forloin
 forlorn
