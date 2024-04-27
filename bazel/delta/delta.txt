@@ -771,7 +771,6 @@ detachs
 dandiest
 dandify
 dandification
-dandified
 dandifying
 dandyish
 dandyishy
@@ -9531,6 +9530,7 @@ dolours
 digitiform
 digitigrada
 digitigrade
+dandified
 digitigradism
 digitinerved
 devitalised
