@@ -6936,7 +6936,6 @@ epic
 entomophthoraceae
 entomophthoraceous
 eschalot
-entomophthorales
 entomophthorous
 entomosporium
 entomostracan
@@ -9893,6 +9892,7 @@ essoin
 essoined
 euplastic
 essoinee
+entomophthorales
 essoiner
 essoining
 essoinment
