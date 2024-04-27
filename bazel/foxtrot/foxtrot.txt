@@ -3164,7 +3164,6 @@ fibropericarditis
 fibroplasia
 fibropsammoma
 fibropurulent
-fibrosarcoma
 fibrose
 fibroserous
 fibrosis
@@ -4713,6 +4712,7 @@ flabellum
 flabile
 flabra
 flabrum
+fibrosarcoma
 falsifier
 flabs
 flaccid

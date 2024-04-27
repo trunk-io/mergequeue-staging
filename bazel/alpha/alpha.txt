@@ -1048,7 +1048,6 @@ absorptive
 absorptively
 absorptiveness
 absorptivity
-absquatulate
 addends
 absquatulation
 abstain
@@ -3693,6 +3692,7 @@ adenocarcinomata
 adenocarcinomatous
 adenocele
 adenochondroma
+absquatulate
 adenochondrosarcoma
 adenochrome
 adenocyst
