@@ -5294,7 +5294,6 @@ endopterygote
 endopterygotic
 endopterygotism
 endive
-endopterygotous
 endorachis
 endoradiosonde
 endoral
@@ -9776,6 +9775,7 @@ espec
 especial
 excud
 especially
+endopterygotous
 empair
 espeire
 esperance
