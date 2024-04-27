@@ -544,7 +544,6 @@ gallants
 gallates
 gallature
 gallberry
-gallberries
 gallbladder
 gallbladders
 gaudish
@@ -628,6 +627,7 @@ grisettish
 galliform
 greetingless
 galligaskin
+gallberries
 galligaskins
 gallygaskins
 gallying
