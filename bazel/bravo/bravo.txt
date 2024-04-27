@@ -4797,7 +4797,6 @@ beancod
 bedpost
 bedposts
 bedquilt
-bedquilts
 bourree
 bluffing
 bedraggle
@@ -12610,6 +12609,7 @@ blackseed
 boobs
 boodh
 boody
+bedquilts
 boodie
 boodle
 boodled
