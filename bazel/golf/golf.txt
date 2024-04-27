@@ -2036,7 +2036,6 @@ gunbright
 gauric
 gaurie
 gaurs
-gaus
 gauss
 gaussage
 garrets
@@ -6630,6 +6629,7 @@ goldenmouthed
 gymnocladus
 goldenpert
 glagolitic
+gaus
 goldenrod
 gucked
 goldentop
