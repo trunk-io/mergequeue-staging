@@ -13826,6 +13826,7 @@ disthrone
 draftsman
 disthroned
 disthroning
+disvelop
 disty
 distich
 distichal
@@ -14117,7 +14118,6 @@ disvalued
 doses
 disvalues
 disvaluing
-disvelop
 disventure
 disvertebrate
 disvisor
