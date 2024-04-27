@@ -4764,6 +4764,7 @@ gyro
 gyrocar
 gelid
 gyroceran
+gothics
 goodwills
 guildsman
 gyrochrome
@@ -7363,7 +7364,6 @@ gunflints
 gothicize
 gothicizer
 gothicness
-gothics
 gothish
 gothism
 gothite
