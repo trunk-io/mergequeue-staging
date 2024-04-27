@@ -2603,7 +2603,6 @@ estramazone
 electroscopic
 electrosensitive
 electroshocks
-electrosynthetic
 electrosynthetically
 electrosmosis
 electrostatic
@@ -5054,6 +5053,7 @@ endite
 endited
 endites
 enditing
+electrosynthetic
 eichwaldite
 evens
 endleaf
