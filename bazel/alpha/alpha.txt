@@ -10172,7 +10172,6 @@ ambsace
 ambulacra
 atterminement
 ambulacral
-ambulance
 ambulanced
 ambulancer
 ambulances
@@ -23167,6 +23166,7 @@ arborized
 attributively
 attributor
 attrist
+ambulance
 attrite
 attrited
 attriteness

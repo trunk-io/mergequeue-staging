@@ -6730,6 +6730,7 @@ cellaress
 cellaret
 cellarets
 cellarette
+contumacies
 cellaring
 cellarmen
 cartograph
@@ -24320,7 +24321,6 @@ cookroom
 cookshop
 cookshops
 cookstove
-contumacies
 cognizee
 cookware
 cookwares
