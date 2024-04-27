@@ -8706,7 +8706,6 @@ equipaga
 equipage
 equipages
 equiparate
-equiparation
 equipartile
 equipartisan
 equipartition
@@ -9075,6 +9074,7 @@ eriocaulon
 eriocomi
 eriodendron
 erioglaucine
+equiparation
 entoil
 eriogonum
 eriometer
