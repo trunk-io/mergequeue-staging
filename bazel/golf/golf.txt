@@ -3251,7 +3251,6 @@ gyrostats
 geoscopy
 gonopod
 geoselenic
-geosid
 geoside
 geosynchronous
 geosynclinal
@@ -10164,6 +10163,7 @@ gappiest
 guidman
 galahs
 grammatolatry
+geosid
 guido
 griselda
 gighe
