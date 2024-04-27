@@ -6851,7 +6851,6 @@ foyboat
 foyer
 foyers
 foil
-foiled
 foiling
 fauld
 foils
@@ -7679,6 +7678,7 @@ forefeelingly
 forefeels
 fungicide
 forefeet
+foiled
 forefence
 forefend
 forefended
