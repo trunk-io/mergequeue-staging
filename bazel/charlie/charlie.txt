@@ -13363,7 +13363,6 @@ cyclonometer
 cycloolefin
 cycloolefine
 cycloolefinic
-cyclop
 cyclopaedia
 cyclopaedias
 cyclopaedic
@@ -19340,6 +19339,7 @@ colonisationist
 colonise
 colonised
 coloniser
+cyclop
 colonises
 colonising
 clayier
