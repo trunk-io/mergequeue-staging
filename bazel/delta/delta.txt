@@ -3437,7 +3437,6 @@ desmarestia
 deflore
 deflorescence
 dropforged
-deflow
 deflower
 deflowered
 deflowerer
@@ -10513,6 +10512,7 @@ diphthongous
 diversifoliate
 diphthongs
 dipicrate
+deflow
 downfalling
 dipicrylamin
 driblet
