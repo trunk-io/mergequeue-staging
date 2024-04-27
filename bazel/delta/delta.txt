@@ -9558,7 +9558,6 @@ diglyceride
 diglyphic
 diglossia
 diglot
-diglots
 diglottic
 diglottism
 demove
@@ -14265,6 +14264,7 @@ diurons
 dyscrasing
 diuturnity
 debauched
+diglots
 div
 defibrination
 diva
