@@ -3481,6 +3481,7 @@ bastings
 bastionary
 bastionet
 bastite
+borborus
 bastnasite
 basto
 beworms
@@ -12941,7 +12942,6 @@ borborygmic
 borborygmies
 borborygmus
 blockaded
-borborus
 bord
 bordage
 bordar
