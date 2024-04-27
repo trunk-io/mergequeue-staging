@@ -4312,7 +4312,6 @@ getters
 gymnure
 gymnurine
 gimped
-gimpy
 giddyish
 gympie
 gimpier
@@ -6822,6 +6821,7 @@ gongorist
 gongoristic
 gongs
 gony
+gimpy
 granddada
 goniac
 gonial
