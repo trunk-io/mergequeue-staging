@@ -4684,7 +4684,6 @@ carreau
 carree
 carrefour
 carrel
-carrell
 carrells
 carrels
 carreta
@@ -25333,6 +25332,7 @@ cornerwise
 cornet
 cornetcies
 cornetfish
+carrell
 cornetfishes
 cornetist
 cornetists
