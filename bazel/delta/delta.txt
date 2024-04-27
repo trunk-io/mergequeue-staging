@@ -3921,7 +3921,6 @@ dekameter
 dekametre
 dekaparsec
 dekapode
-dekarch
 dekares
 dekastere
 deke
@@ -7489,6 +7488,7 @@ deutomalal
 deutomalar
 deutomerite
 deuton
+dekarch
 deutonephron
 disbuds
 dermatolysis
