@@ -9568,7 +9568,6 @@ altigraph
 altilik
 altiloquence
 altiloquent
-altimeter
 altimeters
 anthema
 altimetry
@@ -18255,6 +18254,7 @@ aquatile
 aquatinta
 aquatinted
 aquatinter
+altimeter
 aquatintist
 aquatints
 aquation
