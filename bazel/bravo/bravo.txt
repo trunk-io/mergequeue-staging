@@ -2644,7 +2644,6 @@ baryphony
 baryphonia
 baryphonic
 baris
-barish
 barysilite
 barysphere
 barit
@@ -15857,6 +15856,7 @@ bromocyanidation
 bookselling
 bromocyanide
 balsameaceae
+barish
 bromocyanogen
 blepharochalasis
 bromocresol
