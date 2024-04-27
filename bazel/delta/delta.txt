@@ -2563,7 +2563,6 @@ decoagulated
 dorms
 decoat
 decocainize
-decoct
 daybreaks
 decocted
 decoctible
@@ -2701,6 +2700,7 @@ decongestive
 deconsecrate
 deconsecrated
 deconsecrating
+decoct
 deconsecration
 deconsider
 doffing
