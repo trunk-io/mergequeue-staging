@@ -8838,7 +8838,6 @@ bindweed
 bindwith
 bindwood
 bines
-bineweed
 binful
 banewort
 bing
@@ -12487,6 +12486,7 @@ bowedness
 bongoes
 bongoist
 bongrace
+bineweed
 bongs
 bonhomie
 bonhomies
