@@ -2926,7 +2926,6 @@ eliminable
 eliminand
 epistomal
 eliminant
-eliminate
 eliminated
 eliminating
 elimination
@@ -11796,6 +11795,7 @@ examinatory
 enterparlance
 examinatorial
 exhaust
+eliminate
 examine
 econometrist
 episplenitis
