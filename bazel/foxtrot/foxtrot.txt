@@ -3066,7 +3066,6 @@ fibrillations
 forky
 fibrilliferous
 fabraea
-fibrilliform
 fibrillous
 fibrination
 fibrinemia
@@ -11472,6 +11471,7 @@ furors
 furphy
 furred
 feateous
+fibrilliform
 furry
 furriery
 furrieries
