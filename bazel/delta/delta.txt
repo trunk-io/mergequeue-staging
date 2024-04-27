@@ -9334,7 +9334,6 @@ diffame
 diffareation
 diffarreation
 diffeomorphic
-diffeomorphism
 dysphemism
 differ
 differed
@@ -17104,6 +17103,7 @@ driftman
 driftpin
 driftpins
 drifts
+diffeomorphism
 dietted
 driftweed
 drighten
