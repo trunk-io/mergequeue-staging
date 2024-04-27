@@ -2786,7 +2786,6 @@ eleotrid
 elepaio
 endpoint
 elephancy
-elephant
 electroluminescent
 elephanta
 elephantiac
@@ -13654,6 +13653,7 @@ externs
 externship
 exteroceptist
 exteroceptive
+elephant
 exteroceptor
 exterraneous
 exterrestrial
