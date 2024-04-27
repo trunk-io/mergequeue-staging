@@ -1412,6 +1412,7 @@ fatiguable
 fatigue
 fingerhook
 fatigued
+flustrated
 formicina
 fatigueless
 fatiguesome
@@ -6306,7 +6307,6 @@ fluerics
 flues
 frettier
 fluework
-flustrated
 fluffer
 fitchering
 fluffiest
