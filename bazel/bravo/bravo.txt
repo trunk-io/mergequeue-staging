@@ -6161,7 +6161,6 @@ benedictus
 benedight
 brasquing
 benefact
-benefaction
 benefactions
 benefactive
 benefactors
@@ -17363,6 +17362,7 @@ bundlers
 bundles
 bundlet
 ballons
+benefaction
 bemadden
 bundling
 bundlings
