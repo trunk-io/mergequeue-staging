@@ -3688,7 +3688,6 @@ ghalva
 ghan
 ghana
 ghanaian
-ghanaians
 ghanian
 gharnao
 gastronomy
@@ -5870,6 +5869,7 @@ glossarian
 glossaries
 gorier
 glossarize
+ghanaians
 groins
 gweducs
 gifture
