@@ -13248,7 +13248,6 @@ boswellized
 biographic
 boswellizing
 bouleuteria
-bot
 bota
 botanic
 botanica
@@ -13591,6 +13590,7 @@ bouquiniste
 bour
 bourage
 bourasque
+bot
 bourbon
 bradynosus
 bourbonesque
