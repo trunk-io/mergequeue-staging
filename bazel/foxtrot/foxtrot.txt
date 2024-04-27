@@ -4820,7 +4820,6 @@ flagrate
 flags
 flagship
 firepower
-flagstaffs
 fabricator
 flagstaves
 facioscapulohumeral
@@ -10881,6 +10880,7 @@ fulgurate
 fulgurated
 fulgurating
 fulguration
+flagstaffs
 firmless
 fulgurite
 fulgurous
