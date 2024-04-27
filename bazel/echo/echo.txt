@@ -6324,6 +6324,7 @@ enrollee
 exhalant
 enrollees
 enroller
+expansionary
 enrollers
 enrolling
 enrollment
@@ -12890,7 +12891,6 @@ expansibly
 expansile
 expansion
 expansional
-expansionary
 emmet
 expansionism
 equilibrium
