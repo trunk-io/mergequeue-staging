@@ -54,7 +54,6 @@ fabulously
 facade
 facaded
 faceable
-facebar
 facebow
 facebread
 facecloth
@@ -4312,6 +4311,7 @@ fezzy
 foreloop
 frivoller
 firmisternous
+facebar
 firmity
 firmitude
 firmland
