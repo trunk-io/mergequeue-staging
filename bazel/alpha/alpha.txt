@@ -3578,6 +3578,7 @@ addn
 addnl
 addoom
 addorsed
+antonymies
 addossed
 address
 addressability
@@ -16516,7 +16517,6 @@ anton
 antony
 antonymy
 antonymic
-antonymies
 antonyms
 antonina
 antoniniani
