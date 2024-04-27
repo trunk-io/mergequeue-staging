@@ -5162,7 +5162,6 @@ aeschylean
 aeschylus
 astronauts
 aeschynanthus
-aeschynomene
 aeschynomenous
 aesculaceae
 aesculaceous
@@ -20713,6 +20712,7 @@ artifactitious
 artifacts
 artifactually
 artifex
+aeschynomene
 artifice
 artificer
 artificers
