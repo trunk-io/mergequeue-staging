@@ -14848,6 +14848,7 @@ cityward
 citywards
 chasmy
 citywide
+connaturalize
 citizen
 citizendom
 citizeness
@@ -22569,7 +22570,6 @@ connation
 connatural
 connaturality
 cryptographically
-connaturalize
 connaturally
 correcter
 connaturalness

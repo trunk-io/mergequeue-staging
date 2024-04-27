@@ -7261,7 +7261,6 @@ footpaths
 footpick
 footplate
 footpound
-fogs
 footpounds
 flanderkin
 footprints
@@ -8578,6 +8577,7 @@ formulations
 formulator
 formulatory
 frostbird
+fogs
 formulisation
 flotage
 formulised
