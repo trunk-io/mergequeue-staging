@@ -9,6 +9,7 @@ aal
 aalii
 aaliis
 aals
+abscissa
 aam
 aani
 aardvark
@@ -902,7 +903,6 @@ abscising
 abscisins
 abnet
 absciss
-abscissa
 abscissae
 abscissas
 abscisse
