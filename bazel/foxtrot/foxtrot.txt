@@ -2673,7 +2673,6 @@ fertilisational
 fertilise
 fertiliser
 fertilising
-fertilitate
 fertility
 fertilities
 fertilizability
@@ -4515,6 +4514,7 @@ fistful
 fistfuls
 fisty
 fistical
+fertilitate
 fisticuff
 fruitist
 fisticuffer
