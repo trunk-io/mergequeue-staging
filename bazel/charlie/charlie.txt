@@ -3527,6 +3527,7 @@ caranga
 carangid
 carangidae
 carangids
+chetah
 cooking
 carangin
 carangoid
@@ -10129,7 +10130,6 @@ chestnuts
 chestnutty
 chests
 chet
-chetah
 cheth
 cheths
 chetive
