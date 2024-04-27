@@ -7867,7 +7867,6 @@ forensicality
 forensically
 figureless
 forensics
-foreordain
 foreordained
 foreordaining
 foreordainment
@@ -8096,6 +8095,7 @@ forestish
 forestland
 forestless
 forestlike
+foreordain
 forestology
 forestral
 forestries
