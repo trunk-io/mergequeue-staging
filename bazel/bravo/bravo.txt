@@ -5901,7 +5901,6 @@ beloeilite
 belomancy
 belone
 belonephobia
-belonesite
 belong
 belonged
 belonging
@@ -16961,6 +16960,7 @@ bulbonuclear
 bulbophyllum
 bulborectal
 bulbose
+belonesite
 bulbospinal
 bulbotuber
 bulbourethral
