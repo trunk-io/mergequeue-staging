@@ -7545,7 +7545,6 @@ diophysite
 devastations
 devastative
 docimastic
-devastator
 devastators
 devaster
 devata
@@ -17526,6 +17525,7 @@ drugman
 delicateness
 drugs
 drugstores
+devastator
 druid
 draftage
 druidesses
