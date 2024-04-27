@@ -6923,7 +6923,6 @@ beseech
 beseecher
 beseeches
 beseeching
-beseechingly
 beseechingness
 beseechment
 beseek
@@ -13621,6 +13620,7 @@ bourkha
 bourlaw
 bourn
 bourne
+beseechingly
 becalm
 bournes
 bathmotropic
