@@ -3746,7 +3746,6 @@ adenophyma
 almeh
 adenophlegmon
 adenophora
-adenophoreus
 adenopodous
 adenosarcoma
 adenosarcomas
@@ -5394,6 +5393,7 @@ affirms
 affix
 affixable
 affixation
+adenophoreus
 affixed
 affixers
 affixes
