@@ -5762,7 +5762,6 @@ afterswell
 aftertan
 aftertask
 aftertaste
-aftertastes
 afterthinker
 achromatium
 artistdom
@@ -6007,6 +6006,7 @@ agential
 agenting
 agentival
 agentive
+aftertastes
 agentives
 andiroba
 agentry
