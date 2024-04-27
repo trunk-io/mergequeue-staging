@@ -9,7 +9,6 @@ eachwhere
 ead
 excoriator
 eadios
-eager
 eagerer
 eagerest
 eagerness
@@ -11675,6 +11674,7 @@ evolvers
 evolves
 evolving
 evomit
+eager
 evonymus
 estafa
 evonymuses
