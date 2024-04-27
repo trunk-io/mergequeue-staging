@@ -17926,6 +17926,7 @@ burweeds
 blindfish
 bus
 bilamellar
+bushfire
 busaos
 busbar
 busbars
@@ -17973,7 +17974,6 @@ bushes
 bushet
 bushfighter
 bushfighting
-bushfire
 bushfires
 bushful
 bushgoat
