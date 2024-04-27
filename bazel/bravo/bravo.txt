@@ -1923,7 +1923,6 @@ blamability
 banderol
 banderole
 banderoled
-berk
 banderoling
 banderols
 banders
@@ -11635,6 +11634,7 @@ boatowner
 boats
 boatsetter
 boatshop
+berk
 bodword
 boatside
 boatsman
