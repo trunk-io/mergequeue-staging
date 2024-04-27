@@ -440,7 +440,6 @@ fake
 fens
 fakeer
 fakeers
-feeder
 footstool
 fakement
 faker
@@ -6809,6 +6808,7 @@ foghorn
 fogy
 flaxdrop
 fogies
+feeder
 flaggily
 fogyishness
 fogyism
