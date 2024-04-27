@@ -475,7 +475,6 @@ daysmen
 daystar
 daystars
 daytale
-daytide
 daytime
 daytimes
 dayton
@@ -14310,6 +14309,7 @@ distensible
 divergenge
 divergent
 diverges
+daytide
 divergingly
 divers
 doormaking
