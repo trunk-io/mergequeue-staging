@@ -1032,7 +1032,6 @@ gamotropic
 gamotropism
 goblinism
 gamp
-gamphrel
 gamps
 grapplement
 gams
@@ -9355,6 +9354,7 @@ geek
 grosbeak
 grosbeaks
 groschen
+gamphrel
 giltcup
 groser
 groset
