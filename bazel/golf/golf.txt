@@ -6666,7 +6666,6 @@ goldurnedest
 giher
 galeopithecus
 goldworker
-gamogenesis
 golee
 golem
 golems
@@ -10197,6 +10196,7 @@ guile
 guiled
 guileful
 guilefully
+gamogenesis
 guilelessly
 griefs
 guilelessness
