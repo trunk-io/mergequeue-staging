@@ -20854,7 +20854,6 @@ component
 componental
 componented
 componential
-componentry
 components
 compony
 comport
@@ -22733,6 +22732,7 @@ conqueror
 conquerors
 conquers
 conquest
+componentry
 conquians
 conquinamine
 conquinine
