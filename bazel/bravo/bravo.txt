@@ -856,7 +856,6 @@ baffies
 baffle
 baffled
 bafflements
-baffleplate
 baffler
 bafflers
 baffles
@@ -8026,6 +8025,7 @@ bice
 bicellular
 bicentenary
 bicentennial
+baffleplate
 bicentennially
 bicentennials
 batocrinus
