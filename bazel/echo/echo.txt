@@ -4217,6 +4217,7 @@ employee
 employees
 employer
 employers
+excitement
 employes
 employless
 employment
@@ -12058,7 +12059,6 @@ emanation
 excited
 excitedly
 excitedness
-excitement
 exciter
 exciters
 excites
