@@ -1611,7 +1611,6 @@ gasogen
 gasogene
 galeenies
 gasohol
-gasolenes
 gasoliery
 gangland
 gasoliers
@@ -6350,6 +6349,7 @@ gnomonologically
 germanious
 guelphic
 gnomons
+gasolenes
 gils
 gnoses
 gnosiology
