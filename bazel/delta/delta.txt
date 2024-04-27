@@ -5436,7 +5436,6 @@ denumerable
 denumerably
 denumeral
 drupaceous
-denumerant
 denumerantive
 denumerative
 denunciable
@@ -6471,6 +6470,7 @@ descendental
 descendentalist
 descendentalistic
 descendents
+denumerant
 descender
 descenders
 descendibility
