@@ -6524,7 +6524,6 @@ bepaper
 beparch
 beparody
 beparse
-bepart
 bepaste
 blomstrandine
 bepastured
@@ -11917,6 +11916,7 @@ bogota
 bogotana
 bogs
 ballistically
+bepart
 bogsucker
 bogtrot
 bogtrotter
