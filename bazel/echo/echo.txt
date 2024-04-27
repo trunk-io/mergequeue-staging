@@ -11513,7 +11513,6 @@ everyness
 everyone
 everyplace
 everything
-everyway
 everywhen
 everywhence
 everywhereness
@@ -13838,6 +13837,7 @@ extrafocal
 extrafoliaceous
 extraforaneous
 extraformal
+everyway
 ecumene
 extragalactic
 extragastric
