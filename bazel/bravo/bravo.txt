@@ -8273,6 +8273,7 @@ biffin
 brilliantness
 biffs
 bifid
+bookend
 bifidate
 bifidated
 bifidity
@@ -12647,7 +12648,6 @@ bookcase
 bookcases
 bookcraft
 bookdealer
-bookend
 bushmaster
 bookends
 booker
