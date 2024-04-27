@@ -6084,6 +6084,7 @@ glucolipid
 glucolipide
 glucolipin
 galbula
+granuloblastic
 glucolipine
 glaizie
 gadger
@@ -8104,7 +8105,6 @@ granulization
 granuloadipose
 genappe
 granuloblast
-granuloblastic
 granulocyte
 gcd
 granulocytic
