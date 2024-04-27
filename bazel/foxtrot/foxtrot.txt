@@ -1260,6 +1260,7 @@ fastballs
 fasted
 fleetingly
 fasten
+feral
 fastened
 fastener
 fastening
@@ -2386,7 +2387,6 @@ feracious
 feracities
 ferae
 ferahan
-feral
 feralin
 feramorz
 ferash
