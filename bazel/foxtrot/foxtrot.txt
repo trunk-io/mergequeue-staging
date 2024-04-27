@@ -2203,7 +2203,6 @@ felty
 feltyfare
 furivae
 feltyflier
-felting
 feltings
 feltmaker
 feltmaking
@@ -6888,6 +6887,7 @@ foresettle
 foldaway
 foldboat
 foldboater
+felting
 fluke
 farmings
 foldboating
