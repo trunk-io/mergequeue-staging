@@ -11772,6 +11772,7 @@ bascule
 bodes
 bodewash
 bodeword
+buckram
 bodge
 bodger
 bodgery
@@ -16633,7 +16634,6 @@ balloonation
 buckoes
 buckone
 buckpot
-buckram
 buckraming
 buckrams
 buckras
