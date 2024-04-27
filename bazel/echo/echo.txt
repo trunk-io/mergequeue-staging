@@ -7142,7 +7142,6 @@ enumerators
 enunciability
 enunciable
 enunciated
-enunciates
 endochondral
 enunciations
 enunciative
@@ -8654,6 +8653,7 @@ equilibratory
 equilibria
 equilibrial
 equilibriate
+enunciates
 equilibrio
 equilibrious
 equilibrist
