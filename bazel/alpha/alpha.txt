@@ -7182,6 +7182,7 @@ akepiro
 akepiros
 aker
 akerite
+appertise
 aketon
 akha
 akhara
@@ -17758,7 +17759,6 @@ appertaining
 appertainment
 appertains
 appertinent
-appertise
 appestat
 appestats
 appete
