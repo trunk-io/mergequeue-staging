@@ -6951,7 +6951,6 @@ entoparasitic
 entoperipheral
 els
 entophytal
-entophyte
 entophytic
 entophytous
 entopic
@@ -7444,6 +7443,7 @@ epeisodia
 epeisodion
 epembryonic
 epencephala
+entophyte
 embittering
 epencephalon
 epencephalons

@@ -2649,6 +2649,7 @@ barit
 baryta
 bloodlike
 barytas
+brigadier
 baryte
 baritenor
 barites
@@ -15294,7 +15295,6 @@ brigade
 brigaded
 brigades
 bhangs
-brigadier
 bitripartite
 brigadiership
 brigading
