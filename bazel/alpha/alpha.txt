@@ -3338,7 +3338,6 @@ aculeus
 acumble
 aquatical
 arianistic
-acumen
 acumens
 alkoranic
 acuminate
@@ -22318,6 +22317,7 @@ astrometer
 astrometry
 astrometrical
 astron
+acumen
 astronaut
 astronautically
 aerosolizing
