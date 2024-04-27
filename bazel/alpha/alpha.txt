@@ -19105,7 +19105,6 @@ archocystosyrinx
 archology
 archonship
 archonships
-archont
 archontate
 archontic
 archoplasm
@@ -21538,6 +21537,7 @@ aspire
 aspired
 aspiree
 aspirer
+archont
 aspirers
 aspires
 ambulacrum
