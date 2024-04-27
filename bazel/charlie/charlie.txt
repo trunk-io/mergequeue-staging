@@ -9752,7 +9752,6 @@ chelated
 chelates
 chelating
 chelation
-chelator
 chelators
 chelem
 chelerythrine
@@ -31021,6 +31020,7 @@ cavitation
 cundum
 cundums
 cundurango
+chelator
 cunea
 cuneal
 cuneate
