@@ -3086,7 +3086,6 @@ diphtheriaphor
 deescalates
 deescalating
 deescalation
-deescalations
 deeses
 dumbstricken
 deesis
@@ -10468,6 +10467,7 @@ diphyllobothrium
 diphyllous
 diphyodont
 diphyozooid
+deescalations
 diphysite
 diphysitism
 diphyzooid

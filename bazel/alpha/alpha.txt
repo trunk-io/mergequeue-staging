@@ -4568,6 +4568,7 @@ advection
 advectitious
 advective
 advects
+axillars
 advenae
 advene
 allelotropy
@@ -17712,7 +17713,6 @@ appendicate
 amoibite
 ascii
 appendiceal
-axillars
 appendicectomy
 appendicectomies
 appendices
