@@ -14129,7 +14129,6 @@ colorist
 cypselomorph
 cypselomorphae
 cypselomorphic
-cypselous
 cypselus
 cyptozoic
 cir
@@ -28084,6 +28083,7 @@ cranemanship
 cranemen
 craner
 cranes
+cypselous
 cranesbill
 cranesman
 cranet
