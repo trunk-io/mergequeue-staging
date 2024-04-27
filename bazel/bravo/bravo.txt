@@ -5709,7 +5709,6 @@ belgrade
 belgravia
 belgravian
 bely
-branchiopod
 belial
 belialic
 belialist
@@ -6647,6 +6646,7 @@ berean
 bereareft
 bereave
 birse
+branchiopod
 bereavement
 bereavements
 bereaver
