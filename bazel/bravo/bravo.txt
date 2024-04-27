@@ -644,7 +644,6 @@ bacquet
 bact
 bacteraemia
 bacteremia
-bacteremic
 bacteria
 bacteriaceae
 bacteriaceous
@@ -16947,6 +16946,7 @@ bulbiform
 bulbil
 bulbilis
 bulbilla
+bacteremic
 bulbils
 bulbine
 bulbless
