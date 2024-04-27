@@ -2450,6 +2450,7 @@ acidometry
 acidophil
 acidophile
 acidophilic
+affiant
 acidophilous
 acidoproteolytic
 acidoses
@@ -5334,7 +5335,6 @@ affy
 affiance
 affianced
 affiancing
-affiant
 affiants
 affich
 animize
