@@ -2795,6 +2795,7 @@ decrees
 disciplinable
 decreet
 decreing
+dunkled
 decremental
 decrementing
 decrements
@@ -18222,7 +18223,6 @@ dunkers
 dunking
 dunkirker
 duckboards
-dunkled
 dunks
 dunlap
 dunlin
