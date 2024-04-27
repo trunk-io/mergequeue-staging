@@ -509,6 +509,7 @@ faldstool
 faldworth
 falerian
 fondon
+feasance
 flamed
 falern
 falernian
@@ -10208,7 +10209,6 @@ framing
 frith
 frithbot
 frithy
-feasance
 fallibilist
 forensal
 frithles
