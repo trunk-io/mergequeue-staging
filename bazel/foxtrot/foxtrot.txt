@@ -47,7 +47,6 @@ fabronia
 fabroniaceae
 fabula
 fermatas
-foreshowing
 fabulate
 fabulize
 fasces
@@ -1454,6 +1453,7 @@ fattens
 fatter
 fatty
 fattier
+foreshowing
 fattiest
 fattiness
 fatting
