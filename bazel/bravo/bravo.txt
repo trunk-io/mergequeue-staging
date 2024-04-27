@@ -11237,6 +11237,7 @@ blowfly
 blowflies
 blowgun
 blowguns
+buglewort
 blowhard
 blowhole
 blowholes
@@ -17456,7 +17457,6 @@ buns
 bunsen
 bunsenite
 bunt
-buglewort
 bolls
 buntal
 bunted

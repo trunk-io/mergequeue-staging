@@ -1422,7 +1422,6 @@ calling
 callings
 callynteria
 callionymidae
-callionymus
 calliope
 calliopean
 calliopes
@@ -16076,6 +16075,7 @@ clewgarnet
 clewing
 clews
 cli
+callionymus
 cly
 cliack
 calcaemia
