@@ -5220,7 +5220,6 @@ entocuniform
 endometria
 endometrial
 endometriosis
-etiotropically
 endometritis
 endomycetaceae
 endomictic
@@ -6658,6 +6657,7 @@ enterohydrocele
 enterointestinal
 escarped
 emanative
+etiotropically
 enteroischiocele
 enterokinase
 enterokinesia
