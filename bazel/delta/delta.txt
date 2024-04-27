@@ -8211,6 +8211,7 @@ dipus
 diagnoseable
 diagnosed
 diagnosis
+dragoonage
 diagnostical
 diagnostically
 diagnosticate
@@ -16626,7 +16627,6 @@ dragonwort
 dragoon
 dragoonable
 dragoonade
-dragoonage
 dragooned
 dragooner
 dragooning
