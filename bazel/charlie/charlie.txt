@@ -7423,7 +7423,6 @@ cerates
 ceratiasis
 ceratiid
 ceratiidae
-ceratin
 ceratinous
 ceratins
 ceratioid
@@ -15126,6 +15125,7 @@ civilized
 civilizedness
 civilizee
 civilizer
+ceratin
 civilizers
 coheritage
 civilizes
