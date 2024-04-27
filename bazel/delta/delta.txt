@@ -8761,7 +8761,6 @@ disciplelike
 diazoate
 diazobenzene
 diazohydroxide
-diazoic
 diffident
 diazoimide
 diazole
@@ -12906,6 +12905,7 @@ disozonize
 dispace
 dispaint
 dispair
+diazoic
 dispansive
 duvetyns
 droplet
