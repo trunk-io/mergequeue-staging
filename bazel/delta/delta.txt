@@ -2209,6 +2209,7 @@ deceivability
 deceivableness
 deceivably
 deceivance
+diathesic
 deceive
 deceiver
 deceivers
@@ -8683,7 +8684,6 @@ diathermotherapy
 diathermous
 duenas
 diatheses
-diathesic
 diplographic
 diathesis
 diathetic
