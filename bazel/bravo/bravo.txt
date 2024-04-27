@@ -2574,7 +2574,6 @@ beraked
 bargainor
 bargains
 bargainwise
-bargander
 barge
 bargeboard
 barged
@@ -4972,6 +4971,7 @@ beeherd
 bouncing
 beehive
 beehives
+bargander
 beehouse
 beeyard
 blackwash
