@@ -9028,7 +9028,6 @@ biogeny
 biogenic
 biogens
 biogeochemical
-biogeochemistry
 biogeographers
 biogeography
 biogeographic
@@ -17396,6 +17395,7 @@ bunglers
 bungles
 bungling
 bunglingly
+biogeochemistry
 bullnose
 bunglings
 bungmaker

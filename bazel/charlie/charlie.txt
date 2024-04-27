@@ -24999,6 +24999,7 @@ communicator
 cordicole
 cordierite
 cordiform
+cowshard
 cordigeri
 cordyl
 cordylanthus
@@ -27710,7 +27711,6 @@ cowrie
 cowries
 cowroid
 cows
-cowshard
 cowsharn
 cowshed
 cowsheds
