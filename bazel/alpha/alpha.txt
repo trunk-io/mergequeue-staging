@@ -1657,7 +1657,6 @@ arrivage
 accompanied
 accompanier
 australorp
-accompanies
 accompanyist
 aphasiac
 accompaniment
@@ -6727,6 +6726,7 @@ aeolina
 ayenst
 aiery
 agglomerative
+accompanies
 autoclaved
 ayes
 aeroplaner
