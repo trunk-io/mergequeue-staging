@@ -972,6 +972,7 @@ freesia
 farde
 farded
 fardel
+forgetfulness
 fiver
 fardelet
 fardels
@@ -8282,7 +8283,6 @@ forgetful
 fraps
 forgetfully
 fogdog
-forgetfulness
 forgetive
 forgets
 forgett
