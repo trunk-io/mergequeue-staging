@@ -4532,7 +4532,6 @@ aduncity
 aduncous
 adure
 adurent
-antipuritan
 adust
 adustion
 ascalabota
@@ -10610,6 +10609,7 @@ amimia
 amimide
 amin
 apout
+antipuritan
 antimonarchial
 aminase
 aminate
