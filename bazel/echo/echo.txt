@@ -3852,7 +3852,6 @@ emeritus
 emerizing
 emerod
 emerods
-emeroid
 emeroids
 emerse
 emersion
@@ -10344,6 +10343,7 @@ ethylamime
 ethylamin
 endoconidium
 ethylate
+emeroid
 ethylated
 ethylates
 ethylating

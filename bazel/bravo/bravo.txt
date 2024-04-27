@@ -321,7 +321,6 @@ bakeware
 backberend
 backbit
 broughtas
-bar
 backbite
 backbiter
 backbiters
@@ -9224,6 +9223,7 @@ biotechnics
 biotechnology
 barrett
 biotechnological
+bar
 biotechnologicaly
 biotechnologically
 biotechs
