@@ -2473,7 +2473,6 @@ electromer
 electromeric
 electromerism
 electrometallurgical
-electrometallurgist
 electrometer
 enage
 electrometrical
@@ -12257,6 +12256,7 @@ excussed
 excussing
 excussio
 eggar
+electrometallurgist
 exdelicto
 exdie
 escapade
