@@ -942,7 +942,6 @@ gamestress
 gametal
 gobby
 gametange
-gametangia
 gametangium
 gamete
 gotha
@@ -2802,6 +2801,7 @@ gynophore
 greyly
 genipa
 grizzle
+gametangia
 glycogen
 gitalin
 genipap
