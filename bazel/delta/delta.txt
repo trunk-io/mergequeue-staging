@@ -5797,7 +5797,6 @@ depopulators
 deport
 deportability
 deportation
-deportations
 deporte
 deported
 deportee
@@ -17480,6 +17479,7 @@ drubbed
 drubber
 drubbers
 drubbing
+deportations
 drubbings
 drubly
 drubs
