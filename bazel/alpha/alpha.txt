@@ -7351,7 +7351,6 @@ alarmed
 alarmedly
 alarmingly
 alarmingness
-alarmism
 alarmist
 alarmists
 alarms
@@ -21919,6 +21918,7 @@ assuagements
 assuager
 assuages
 assuaging
+alarmism
 apair
 assubjugate
 assuefaction
