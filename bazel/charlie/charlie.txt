@@ -5077,7 +5077,6 @@ chort
 cashes
 cashew
 cashgirl
-cashibo
 cashier
 cashiered
 cashierer
@@ -6799,6 +6798,7 @@ cellulomonadeae
 cellulomonas
 cellulose
 cellulosed
+cashibo
 celluloses
 cellulosic
 cellulosing
