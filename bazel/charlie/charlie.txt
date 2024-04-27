@@ -20255,6 +20255,7 @@ commonize
 catheads
 commonly
 commonness
+ctrl
 commonplace
 commonplaceism
 crucifixion
@@ -21659,7 +21660,6 @@ condescent
 centipoise
 calcaneofibular
 condiction
-ctrl
 condictious
 condiddled
 condiddlement
