@@ -107,7 +107,6 @@ earn
 earned
 earner
 earners
-earnest
 earnestful
 earnestly
 earnestness
@@ -10442,6 +10441,7 @@ etiophyllin
 ethnicist
 ethnicity
 ethnicize
+earnest
 ethnicon
 ethnics
 ethnish
