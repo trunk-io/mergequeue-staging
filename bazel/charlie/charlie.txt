@@ -9668,7 +9668,6 @@ cheesebox
 cheeseburger
 cheeseburgers
 cheesecake
-cheesecakes
 chaferies
 cheesecloth
 cheesecloths
@@ -28266,6 +28265,7 @@ crassina
 crassis
 crassities
 crassitude
+cheesecakes
 crassly
 crassness
 crassula
