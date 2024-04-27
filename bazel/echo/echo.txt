@@ -3008,7 +3008,6 @@ elizabethanize
 elizabethans
 elkanah
 engl
-elkdom
 elkesaite
 elkhorn
 embosses
@@ -7281,6 +7280,7 @@ enwreathing
 enwrite
 enwwove
 euphonym
+elkdom
 epidemic
 enwwoven
 enzygotic
