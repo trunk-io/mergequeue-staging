@@ -13030,7 +13030,6 @@ dispersedelement
 dispersedye
 dermataneuria
 dispersedness
-dinosaurian
 dispersement
 disperser
 dispar
@@ -15902,6 +15901,7 @@ dossmen
 dost
 dostoevsky
 dot
+dinosaurian
 dotage
 doubleword
 dotal
