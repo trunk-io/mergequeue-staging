@@ -5054,7 +5054,6 @@ endite
 endited
 endites
 enditing
-eichwaldite
 evens
 endleaf
 endleaves
@@ -12825,6 +12824,7 @@ enfaces
 endotracheitis
 exospore
 exosporium
+eichwaldite
 enfatico
 exosporous
 exossate
