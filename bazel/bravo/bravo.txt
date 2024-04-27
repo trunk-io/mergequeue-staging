@@ -6629,7 +6629,6 @@ berberidaceae
 berberidaceous
 berberin
 bolshie
-berberine
 berberis
 berberry
 bestain
@@ -17867,6 +17866,7 @@ burrowstown
 benevolent
 burrs
 burrstone
+berberine
 burs
 bude
 bursa
