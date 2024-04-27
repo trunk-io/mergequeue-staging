@@ -5538,6 +5538,7 @@ aflower
 afluking
 aflush
 aflutter
+auscultations
 afoam
 afocal
 afore
@@ -23641,7 +23642,6 @@ auscultated
 auscultates
 auscultating
 auscultation
-auscultations
 auscultative
 autographical
 auscultatory
