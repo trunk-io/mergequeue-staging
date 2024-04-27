@@ -17847,7 +17847,6 @@ appliers
 applies
 applying
 applyingly
-antirent
 applyment
 appling
 applique
@@ -18810,6 +18809,7 @@ archdissembler
 archdivine
 antepretonic
 archdogmatist
+antirent
 archdruid
 archducal
 archduchess
