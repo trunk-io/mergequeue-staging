@@ -2247,7 +2247,6 @@ electors
 electra
 electragy
 electragist
-electral
 electre
 electrepeter
 electress
@@ -12950,6 +12949,7 @@ eumenidae
 expectorations
 expectorative
 examining
+electral
 expectorators
 extill
 expects
