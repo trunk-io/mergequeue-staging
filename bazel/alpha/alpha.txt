@@ -8860,7 +8860,6 @@ allochroic
 allochroite
 allochromatic
 allochroous
-allochthon
 allochthonous
 adscititiously
 allocyanine
@@ -13011,6 +13010,7 @@ angolan
 angolans
 angolar
 angolese
+allochthon
 angor
 anticombination
 antipolitically
