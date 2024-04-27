@@ -417,7 +417,6 @@ cactuslike
 cacumen
 cacuminal
 cacuminate
-cacuminous
 cacur
 cad
 cadalene
@@ -7451,6 +7450,7 @@ ceratoglossal
 claqueur
 ceratoglossus
 ceratohyal
+cacuminous
 ceratohyoid
 ceratoid
 ceratomandibular
