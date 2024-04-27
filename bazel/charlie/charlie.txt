@@ -472,7 +472,6 @@ circuitous
 cadeau
 cadee
 cadelle
-cadelles
 cadence
 cadenced
 cadences
@@ -17607,6 +17606,7 @@ cocher
 cochero
 cochief
 cochylis
+cadelles
 cochin
 cochineal
 cochlea
