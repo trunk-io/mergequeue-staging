@@ -4512,6 +4512,7 @@ adultly
 appetibility
 adultlike
 adultness
+assessment
 adultoid
 adumbrated
 adumbrates
@@ -21718,7 +21719,6 @@ assessed
 assesses
 assessing
 assession
-assessment
 assessor
 assessory
 assessorial

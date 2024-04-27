@@ -4207,7 +4207,6 @@ caricature
 caricatured
 caricatures
 caricaturing
-caricaturist
 caricaturists
 caricetum
 caricographer
@@ -4721,6 +4720,7 @@ carrion
 carryon
 carrions
 carryons
+caricaturist
 carryout
 carryouts
 canadianisms
