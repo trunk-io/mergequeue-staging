@@ -9842,7 +9842,6 @@ chemicoluminescent
 chemicomechanical
 concurs
 chemicomineralogical
-chemicopharmaceutical
 chemicophysical
 chemicophysics
 chemicophysiological
@@ -16471,6 +16470,7 @@ castellany
 cloakwise
 cyclopedic
 cloam
+chemicopharmaceutical
 cloamen
 crusadoes
 cloamer

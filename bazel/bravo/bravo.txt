@@ -9215,6 +9215,7 @@ biotaxy
 biotech
 barotropy
 ballrooms
+bisync
 biotechnics
 biotechnology
 barrett
@@ -9699,7 +9700,6 @@ bisimine
 bisymmetry
 bisymmetric
 bisymmetrical
-bisync
 bisinuate
 bisischiatic
 bisk
