@@ -1142,7 +1142,6 @@ farthingless
 filiates
 farts
 ff
-farweltered
 fasc
 fascet
 fascia
@@ -7244,6 +7243,7 @@ fascicle
 footmanry
 footmanship
 footmark
+farweltered
 footmen
 footmenfootpad
 footnote
