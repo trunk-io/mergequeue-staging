@@ -8456,7 +8456,6 @@ byhand
 bihari
 biharmonic
 bihydrazine
-bihourly
 bija
 bijasal
 bijection
@@ -16403,6 +16402,7 @@ bolded
 brutalising
 brontometer
 brutalism
+bihourly
 brutalist
 bichromatic
 brutality
