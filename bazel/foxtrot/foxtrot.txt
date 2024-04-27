@@ -8566,7 +8566,6 @@ formularization
 formularized
 formularizer
 formularizing
-formulate
 formulated
 formulates
 formulating
@@ -10441,6 +10440,7 @@ frontoauricular
 frontoethmoid
 fatimid
 frontogenesis
+formulate
 frontolysis
 frontomental
 foveole
