@@ -6790,7 +6790,6 @@ enthrallments
 enthralls
 enthralment
 enthrals
-epalpebrate
 enthrone
 enthronement
 enthrong
@@ -9566,6 +9565,7 @@ electrographite
 eschew
 eschewal
 eschewals
+epalpebrate
 eschewance
 eschewed
 eschewer
