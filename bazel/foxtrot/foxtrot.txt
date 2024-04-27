@@ -2937,7 +2937,6 @@ figurate
 feuing
 fleches
 feulamort
-feus
 feuter
 fever
 feverberry
@@ -8761,6 +8760,7 @@ fortissimos
 fortlet
 fortnight
 frowst
+feus
 fortnightly
 fortnightlies
 fortnights
