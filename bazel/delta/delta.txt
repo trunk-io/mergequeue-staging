@@ -10364,6 +10364,7 @@ driftpiece
 dioramic
 diordinal
 diorism
+disassimilate
 diorite
 diorites
 dioritic
@@ -11140,7 +11141,6 @@ durwaun
 disassembling
 disassent
 disassiduity
-disassimilate
 disassimilated
 disproofs
 disassimilative
