@@ -9480,6 +9480,7 @@ groupable
 groupage
 groupageness
 grouped
+gweed
 gyroidal
 gomphosis
 grouper
@@ -10622,7 +10623,6 @@ gurgulation
 gurgulio
 garganey
 gurian
-gweed
 guric
 gurjan
 gurjun
