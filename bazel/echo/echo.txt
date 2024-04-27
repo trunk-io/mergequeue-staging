@@ -3544,7 +3544,6 @@ endict
 embordering
 emborders
 emboscata
-embosk
 embosked
 educables
 embosking
@@ -4703,6 +4702,7 @@ encyclicals
 encyclopaediac
 epinephrin
 encyclopaedial
+embosk
 eloge
 encyclopaedian
 encyclopaedic
