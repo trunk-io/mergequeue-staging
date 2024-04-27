@@ -11591,7 +11591,6 @@ antitonic
 anachronous
 anachronously
 anachueta
-anacyclus
 anacid
 anabaptistically
 anacidity
@@ -25035,6 +25034,7 @@ atomistically
 awnlike
 awns
 awoke
+anacyclus
 awoken
 awol
 awols
