@@ -3811,7 +3811,6 @@ battu
 battue
 batlike
 battues
-batture
 battuta
 battute
 batholite
@@ -12891,6 +12890,7 @@ boozily
 booziness
 boozing
 bop
+batture
 bopeep
 bopyrid
 bopyridae
