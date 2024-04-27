@@ -5961,6 +5961,7 @@ enhunger
 enhungered
 enhusk
 eniac
+exilable
 enicuridae
 equate
 enid
@@ -12540,7 +12541,6 @@ exigible
 exiguity
 exiguously
 exiguousness
-exilable
 exilarch
 endarchies
 exilarchate

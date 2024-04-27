@@ -516,7 +516,6 @@ backspacer
 backspaces
 backspacing
 backspang
-backspear
 backspeir
 backspier
 budukha
@@ -10935,6 +10934,7 @@ blisterous
 blisters
 blisterweed
 blisterwort
+backspear
 blit
 blite
 blites
