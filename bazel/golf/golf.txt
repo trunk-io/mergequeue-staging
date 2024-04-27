@@ -273,6 +273,7 @@ gainstand
 gombroons
 grayish
 gainturn
+goalee
 gonoph
 gobiesocidae
 gaintwist
@@ -6379,7 +6380,6 @@ goala
 ghettoizes
 gauming
 goalage
-goalee
 goalie
 goaling
 goalkeeper
