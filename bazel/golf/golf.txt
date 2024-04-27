@@ -9333,6 +9333,7 @@ gorges
 grooved
 groovelike
 grooverhead
+grovel
 grooves
 genghis
 garnishry
@@ -9540,7 +9541,6 @@ grownups
 gymnocerata
 grove
 groved
-grovel
 granulate
 groveled
 groveler
