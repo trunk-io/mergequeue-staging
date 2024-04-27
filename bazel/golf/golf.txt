@@ -8311,6 +8311,7 @@ gelsemin
 grasslands
 glutaminase
 grassless
+gromatic
 grasslike
 grassman
 gentianic
@@ -9286,7 +9287,6 @@ groynes
 grolier
 grolieresque
 groma
-gromatic
 gullishly
 gromatical
 gromatics
