@@ -2195,6 +2195,7 @@ felspar
 felspars
 felspath
 felspathose
+friezy
 felstone
 felstones
 framers
@@ -10036,7 +10037,6 @@ fleshhook
 frilled
 fromenty
 friezes
-friezy
 farcical
 frig
 frigage
