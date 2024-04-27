@@ -9222,6 +9222,7 @@ almshouse
 almshouses
 almsman
 almsmen
+auriscope
 almsmoney
 almswoman
 almswomen
@@ -23599,7 +23600,6 @@ auripuncture
 auriscalp
 auriscalpia
 auriscalpium
-auriscope
 auriscopy
 auriscopic
 aurist
