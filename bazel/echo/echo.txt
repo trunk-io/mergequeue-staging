@@ -2916,7 +2916,6 @@ eligibility
 eligibilities
 eligible
 eligibleness
-eligibles
 eligibly
 eagers
 elijah
@@ -12598,6 +12597,7 @@ existible
 extant
 existing
 existless
+eligibles
 existlessness
 exists
 epistemological
