@@ -1859,7 +1859,6 @@ gastrophthisis
 gastroplasty
 gastropleuritis
 gastroplication
-gastropneumatic
 gastropneumonic
 gastropod
 greenbackism
@@ -4805,6 +4804,7 @@ gyrophoric
 gyropigeon
 gyropilot
 gyroplane
+gastropneumatic
 giros
 gyros
 gyroscope
