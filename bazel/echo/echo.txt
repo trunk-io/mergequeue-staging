@@ -6403,7 +6403,6 @@ enshielded
 enshielding
 enshrined
 enshrinement
-enshrinements
 enshrines
 enshroud
 enshrouded
@@ -9417,6 +9416,7 @@ eruditical
 erudition
 elementalist
 eruditionist
+enshrinements
 erugate
 erugation
 eruginous
