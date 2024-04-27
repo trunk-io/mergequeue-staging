@@ -1371,7 +1371,6 @@ exhortation
 effie
 effierce
 effigy
-effigiate
 effigiating
 effigiation
 effigies
@@ -9680,6 +9679,7 @@ esne
 etiologically
 esnecy
 esoanhydride
+effigiate
 esocataphoria
 esocyclic
 esocidae
