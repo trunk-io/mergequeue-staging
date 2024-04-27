@@ -3236,7 +3236,6 @@ gazetteer
 geiger
 georgians
 georgic
-galaxies
 gangetic
 glutaeous
 georgics
@@ -6759,6 +6758,7 @@ gonadotropic
 gemsbuck
 gonadotropin
 gonads
+galaxies
 gonaduct
 gonagra
 gonakie
