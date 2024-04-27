@@ -4490,7 +4490,6 @@ fissle
 flunkyism
 fissura
 fissuration
-fissure
 fuzzy
 fissured
 fissureless
@@ -10560,6 +10559,7 @@ frowl
 frown
 frowned
 fierily
+fissure
 frowner
 frenchiness
 frownful
