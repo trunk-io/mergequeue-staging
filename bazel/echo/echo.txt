@@ -2043,6 +2043,7 @@ equiangle
 elaic
 elaidate
 elaidic
+excludability
 epexegeses
 elaidin
 elayl
@@ -12087,7 +12088,6 @@ exclamatory
 exclave
 exclaves
 exclosure
-excludability
 excludable
 euthenics
 exclude
