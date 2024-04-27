@@ -2492,6 +2492,7 @@ bardlet
 bardlike
 bardling
 bardo
+bellyfulls
 bunns
 bardocucullus
 bardolater
@@ -5828,7 +5829,6 @@ belliferous
 basilicon
 bellyflaught
 bellyful
-bellyfulls
 bellyfuls
 belligerence
 belligerency
