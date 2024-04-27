@@ -4429,6 +4429,7 @@ fishpoles
 fishponds
 fishskin
 fishspear
+flumes
 fishtail
 fishtailed
 fitten
@@ -6390,7 +6391,6 @@ fluking
 flumadiddle
 flumdiddle
 flume
-flumes
 fluming
 fluminous
 flummadiddle
