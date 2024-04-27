@@ -734,7 +734,6 @@ fanciers
 fancies
 fleshlessness
 fanciest
-fancify
 foliot
 fanciful
 fancifully
@@ -10306,6 +10305,7 @@ frogeyes
 frogfish
 fiendliness
 flubs
+fancify
 forboded
 frogger
 froggy
