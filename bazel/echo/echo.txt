@@ -3030,7 +3030,6 @@ ellenyard
 ellerian
 equus
 ellfish
-ellice
 ellick
 elling
 ellinge
@@ -12323,6 +12322,7 @@ ecyphellate
 exedral
 epipsychidion
 exegeses
+ellice
 exegesis
 euterpe
 exegesist
