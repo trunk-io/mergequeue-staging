@@ -3102,7 +3102,6 @@ fibroadipose
 foamily
 fibroangioma
 fibroblastic
-fibrocalcareous
 fibrocarcinoma
 fibrocartilage
 fibrocartilaginous
@@ -10481,6 +10480,7 @@ fabes
 flyblew
 frostbite
 frostbiter
+fibrocalcareous
 foozle
 frostbitten
 frostbound
