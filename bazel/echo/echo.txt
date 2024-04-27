@@ -449,6 +449,7 @@ eccentricity
 eccentricities
 eccentrics
 eccentring
+extubate
 ecchymoma
 ecchymosed
 ecchymosis
@@ -14110,7 +14111,6 @@ extrusile
 extrusion
 extrusions
 extrusive
-extubate
 extubation
 extuberance
 exsection
