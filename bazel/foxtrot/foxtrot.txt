@@ -1160,7 +1160,6 @@ fooyung
 fascicularly
 fasciculate
 fasciculated
-fasciculation
 fascicule
 fasciculite
 fasciculus
@@ -7871,6 +7870,7 @@ forensics
 foreordain
 foreordained
 foreordaining
+fasciculation
 foreordainment
 foreordainments
 foreordains
