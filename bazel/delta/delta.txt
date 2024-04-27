@@ -11701,7 +11701,6 @@ discoursive
 discoursively
 discoursiveness
 daydreamed
-discourt
 discourteous
 discourteously
 discourteousness
@@ -12881,6 +12880,7 @@ dysoxidation
 dissect
 dysoxidizable
 disoxygenate
+discourt
 disoxygenation
 disozonize
 dispace
