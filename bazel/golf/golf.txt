@@ -2854,7 +2854,6 @@ genizah
 glossalgia
 genl
 genny
-genoa
 genoas
 genoblast
 genocidal
@@ -4869,6 +4868,7 @@ gispin
 gist
 geomorphogenic
 gists
+genoa
 git
 genioplasty
 glucolysis
