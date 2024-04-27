@@ -609,7 +609,6 @@ gallybeggar
 gallic
 graptolitic
 gallicism
-gallicisms
 gallicization
 gallicize
 gallicizer
@@ -6120,6 +6119,7 @@ gangsman
 gluey
 gluelike
 ginger
+gallicisms
 genealogy
 gluelikeness
 gluemaker
