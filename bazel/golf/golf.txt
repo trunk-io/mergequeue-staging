@@ -4945,7 +4945,6 @@ gjetost
 gjetosts
 glabbella
 glabella
-glabellae
 glabellar
 gelatinousness
 glabellous
@@ -8424,6 +8423,7 @@ graveldiver
 graveled
 graveless
 gravely
+glabellae
 gravelike
 graveling
 gravelish

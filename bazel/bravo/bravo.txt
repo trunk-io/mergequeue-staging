@@ -9351,7 +9351,6 @@ bemuzzle
 biplanes
 biplicate
 biplicity
-banishments
 biplosion
 biplosive
 bipod
@@ -11190,6 +11189,7 @@ blot
 blotch
 blotched
 blotches
+banishments
 blotchy
 blotchier
 blotchiest
