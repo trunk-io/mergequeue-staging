@@ -5616,6 +5616,7 @@ belayer
 belaying
 belays
 belait
+betting
 bastion
 biface
 belam
@@ -7506,7 +7507,6 @@ betty
 betties
 bettina
 bettine
-betting
 bettonga
 bettor
 bettors

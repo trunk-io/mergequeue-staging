@@ -6548,7 +6548,6 @@ deselect
 deselected
 deselecting
 deselects
-datums
 desemer
 dichotomised
 decretory
@@ -13951,6 +13950,7 @@ distrain
 distrainable
 distrained
 distrainee
+datums
 distraining
 distrainment
 distrainor
