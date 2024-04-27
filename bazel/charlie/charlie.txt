@@ -19720,7 +19720,6 @@ combatable
 combatant
 combatants
 combater
-combaters
 combating
 combative
 combatively
@@ -31340,6 +31339,7 @@ curying
 curin
 cyclopentane
 curine
+combaters
 curing
 curio
 curiolofic
