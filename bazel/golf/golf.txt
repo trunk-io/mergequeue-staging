@@ -1148,6 +1148,7 @@ gangplanks
 gangplow
 gangplows
 gareh
+gastrodisc
 gangrel
 gangrenate
 gangrene
@@ -1754,7 +1755,6 @@ gastrodiaphanoscopy
 gastrodidymus
 gastrodynia
 gangliomata
-gastrodisc
 gastrodisk
 gastroduodenal
 genarchship
