@@ -12252,7 +12252,6 @@ anchorhold
 anchory
 anchoring
 anchorite
-anchorites
 anchoritess
 antetemple
 anchoritic
@@ -18544,6 +18543,7 @@ arbela
 arber
 arbinose
 arbitrage
+anchorites
 arbitrager
 arbitragers
 antifanatic
