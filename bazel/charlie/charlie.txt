@@ -1031,7 +1031,6 @@ calcydon
 calciferol
 calciferous
 calcify
-counteroffensive
 calcific
 calcified
 calcifies
@@ -6747,6 +6746,7 @@ cellepore
 cellfalcicula
 celli
 celliferous
+counteroffensive
 celliform
 cellifugal
 celling
