@@ -10195,7 +10195,6 @@ guildship
 guile
 guiled
 guileful
-guilefully
 gamogenesis
 guilelessly
 griefs
@@ -10218,6 +10217,7 @@ guillotine
 guillotined
 guillotines
 guillotinism
+guilefully
 guillotinist
 guilt
 guiltful
