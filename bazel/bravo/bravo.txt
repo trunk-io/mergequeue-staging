@@ -7399,7 +7399,6 @@ bethrall
 bethreaten
 bethroot
 beths
-bethuel
 bethumb
 bethump
 bethumped
@@ -9501,6 +9500,7 @@ birkremite
 birks
 birl
 byrl
+bethuel
 befallen
 bughead
 bismuthyl
