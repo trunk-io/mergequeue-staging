@@ -4203,6 +4203,7 @@ delist
 delisted
 delisting
 delists
+dementis
 delit
 delitescence
 delitescency
@@ -9252,7 +9253,6 @@ damoiselle
 dyer
 dysgenesic
 diereses
-dementis
 dieresis
 dieretic
 dieri
