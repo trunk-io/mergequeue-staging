@@ -5656,7 +5656,6 @@ beldames
 beldams
 beldamship
 britten
-belder
 beleaf
 bombazeen
 bodgie
@@ -11558,6 +11557,7 @@ boarder
 boarders
 boardy
 boarding
+belder
 boardinghouse
 boardings
 boardly
