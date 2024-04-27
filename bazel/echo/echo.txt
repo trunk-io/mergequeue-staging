@@ -2669,7 +2669,6 @@ electrotonize
 electrotrephine
 electrotropism
 egoize
-electrovalency
 equiponderancy
 electrovalent
 electrovection
@@ -9862,6 +9861,7 @@ essee
 esselen
 eisoptrophobia
 esselenian
+electrovalency
 explodes
 essenced
 essencing
