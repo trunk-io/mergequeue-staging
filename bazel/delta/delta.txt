@@ -11150,7 +11150,6 @@ disasters
 disastimeter
 daunii
 disastrous
-desiderant
 disastrously
 disastrousness
 disattaint
@@ -13069,6 +13068,7 @@ dysphoria
 deadpanning
 dysphoric
 dysphotic
+desiderant
 dysphrasia
 dysphrenia
 dispicion
