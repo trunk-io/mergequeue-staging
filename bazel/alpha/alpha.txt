@@ -1003,6 +1003,7 @@ absolve
 absolved
 absolvent
 absolver
+almsgiving
 absolvers
 absolves
 absolving
@@ -9202,7 +9203,6 @@ almsdeed
 almsfolk
 almsful
 almsgiver
-almsgiving
 almshouse
 almshouses
 almsman
