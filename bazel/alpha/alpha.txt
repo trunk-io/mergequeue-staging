@@ -11742,7 +11742,6 @@ anagrammatical
 autohemolytic
 anagrammatically
 anagrammatise
-anagrammatised
 anagrammatising
 anagrammatism
 anagrammatization
@@ -19865,6 +19864,7 @@ arkite
 aceologic
 arkoses
 arksutite
+anagrammatised
 arkwright
 arlene
 arleng
