@@ -2847,7 +2847,6 @@ barongs
 baroni
 barony
 bassets
-baronial
 baronies
 burry
 baronize
@@ -6535,6 +6534,7 @@ beperiwigged
 bepewed
 bephilter
 betray
+baronial
 bepicture
 bepiece
 bepierce
