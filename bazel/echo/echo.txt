@@ -10501,7 +10501,6 @@ ethnology
 ethnological
 ethnologically
 ethnologist
-exoarteritis
 ethnologists
 ethnomanic
 ethnomusicological
@@ -12281,6 +12280,7 @@ executant
 exostome
 execute
 executed
+exoarteritis
 encastage
 executes
 executing
