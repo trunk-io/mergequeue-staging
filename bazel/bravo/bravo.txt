@@ -4915,7 +4915,6 @@ beebreads
 baptistries
 bedraggle
 beech
-beechdrops
 breastsummer
 beechen
 biffins
@@ -6617,6 +6616,7 @@ berberi
 berbery
 berberia
 berberian
+beechdrops
 berberid
 berberidaceae
 berberidaceous
