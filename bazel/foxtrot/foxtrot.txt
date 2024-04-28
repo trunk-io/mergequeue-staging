@@ -3064,7 +3064,6 @@ fibreless
 fibril
 fibrilated
 fibrilation
-fibrilla
 fibrillae
 fraken
 fibrillar
@@ -10884,6 +10883,7 @@ flawedness
 fulgurata
 fulgurate
 fulgurated
+fibrilla
 fulgurating
 fulguration
 flagstaffs
