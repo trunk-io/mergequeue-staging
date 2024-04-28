@@ -2996,7 +2996,6 @@ barrettes
 barry
 barricade
 barricader
-barricaders
 barricades
 barricadoed
 barricadoes
@@ -7025,6 +7024,7 @@ beslime
 beslimer
 beslimes
 backtalk
+barricaders
 besliming
 breadbasket
 beslings

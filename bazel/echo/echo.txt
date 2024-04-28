@@ -2348,6 +2348,7 @@ eugenist
 emplaces
 extraprofessional
 electrode
+exhaustively
 electrodentistry
 electrodeposit
 electrodepositable
@@ -9834,7 +9835,6 @@ essay
 essayed
 essayer
 essayers
-exhaustively
 essaying
 essayism
 essayist
