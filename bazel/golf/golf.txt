@@ -2391,7 +2391,6 @@ gelation
 greaves
 gablewindowed
 gelations
-grandeval
 gelatose
 geld
 geldability
@@ -4720,6 +4719,7 @@ gyri
 galv
 gyric
 gyrinid
+grandeval
 ganglioside
 geoponical
 glost
