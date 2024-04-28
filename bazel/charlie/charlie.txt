@@ -6290,7 +6290,6 @@ caution
 cautionary
 cautionaries
 cautioned
-cautioner
 cautioners
 cautiones
 cautioning
@@ -16229,6 +16228,7 @@ clines
 cling
 clinged
 clinger
+cautioner
 clingers
 clingfish
 clingfishes
