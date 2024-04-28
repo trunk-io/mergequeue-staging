@@ -6999,7 +6999,6 @@ entozoon
 entr
 existents
 entracte
-entrada
 entradas
 entrail
 evolver
@@ -11231,6 +11230,7 @@ eusteles
 eustyle
 eustomatous
 eusuchian
+entrada
 eutaenia
 eutannin
 eutaxy
