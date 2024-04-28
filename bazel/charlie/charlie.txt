@@ -17648,7 +17648,6 @@ cochleous
 cochlidiid
 cochlidiidae
 cochliodont
-cochliodontidae
 cochliodus
 cochlite
 cochlitis
@@ -22687,6 +22686,7 @@ conoidic
 conoidical
 cardiocentesis
 conoidically
+cochliodontidae
 camphanyl
 conoids
 conolophus
