@@ -483,7 +483,6 @@ abysms
 abyss
 abyssa
 anapes
-abyssal
 abysses
 abyssinia
 abyssinian
@@ -9905,6 +9904,7 @@ amasesis
 amass
 amassable
 amasser
+abyssal
 amassers
 amasses
 amassette
