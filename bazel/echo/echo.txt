@@ -2116,7 +2116,6 @@ elastomer
 elastomeric
 elastomers
 exundation
-elastometer
 elastometry
 elastose
 engarde
@@ -11655,6 +11654,7 @@ evolutional
 evolutionary
 evolutionism
 evolutionist
+elastometer
 evolutionistic
 evolutionistically
 evolutionists
