@@ -6136,7 +6136,6 @@ aggregative
 aggregatively
 aggregator
 apostlehood
-antiroll
 aggregatory
 aggress
 aggressed
@@ -10571,6 +10570,7 @@ amylaceous
 amylamine
 amylan
 amylase
+antiroll
 amylases
 amylate
 amildar
