@@ -14592,7 +14592,6 @@ ciseaux
 cisele
 ciseleur
 ciseleurs
-ciselure
 ciselures
 cising
 cisium
@@ -30676,6 +30675,7 @@ cuinfo
 cuing
 cuir
 cuirassed
+ciselure
 cuirasses
 cuirassier
 cuirassing
