@@ -1666,7 +1666,6 @@ electrotherapies
 ehlite
 ehretia
 ehretiaceae
-ehrman
 ehrwaldite
 endosteoma
 ehtanethial
@@ -6228,6 +6227,7 @@ enpia
 enplane
 ecorticate
 enplaned
+ehrman
 extraphysiological
 enplanes
 enplaning
