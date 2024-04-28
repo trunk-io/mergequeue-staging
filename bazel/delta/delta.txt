@@ -9236,7 +9236,6 @@ dyemaking
 diencephalic
 diene
 diener
-dienes
 dier
 damoiselle
 dyer
@@ -11434,6 +11433,7 @@ discoglossoid
 discographer
 discography
 discographic
+dienes
 discographical
 discographically
 dekaliter
