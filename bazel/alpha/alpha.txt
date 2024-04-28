@@ -14058,7 +14058,6 @@ answerable
 answerableness
 answerably
 answered
-answerer
 answerers
 answering
 antischool
@@ -14595,6 +14594,7 @@ agalinis
 anthratetrol
 anthrathiophene
 anthratriol
+answerer
 anthrax
 anthraxylon
 anthraxolite
