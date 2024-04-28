@@ -5266,7 +5266,6 @@ densifies
 densifying
 densimeter
 densimetry
-densimetric
 disclaims
 densimetrically
 density
@@ -17301,6 +17300,7 @@ drona
 dronage
 drone
 droned
+densimetric
 dronel
 dronepipe
 droner
