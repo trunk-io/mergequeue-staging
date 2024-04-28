@@ -499,7 +499,6 @@ galictis
 galidia
 galidictis
 galik
-galilean
 galilei
 guffaw
 galileo
@@ -10575,6 +10574,7 @@ grandiloquence
 glossotherium
 groupwise
 gazetteers
+galilean
 gambone
 geoscopic
 gunsmithing
