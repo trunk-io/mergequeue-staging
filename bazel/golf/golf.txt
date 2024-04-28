@@ -4351,7 +4351,6 @@ gynandromorphous
 gynandrophore
 gladrags
 gynandrosporous
-gynandrous
 gumtree
 golfdom
 gynantherous
@@ -8192,6 +8191,7 @@ graphologic
 graphological
 graphologist
 graphomania
+gynandrous
 genethliac
 graphomaniacal
 graphometer
