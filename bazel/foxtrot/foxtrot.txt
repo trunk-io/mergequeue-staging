@@ -6477,7 +6477,6 @@ fluoridate
 fluoridated
 flour
 fungo
-fluoridates
 fluoridating
 fluoridation
 fluoride
@@ -10048,6 +10047,7 @@ frigged
 frigger
 frigging
 fright
+fluoridates
 frighten
 frightened
 filator
