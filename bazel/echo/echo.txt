@@ -2454,7 +2454,6 @@ electrolyzer
 electrology
 electrological
 electrologist
-enfollow
 eroticomania
 electrologists
 electroluminescence
@@ -7914,6 +7913,7 @@ epilator
 euthanasy
 epilemma
 epilemmal
+enfollow
 epileny
 epilepsy
 epilepsies

@@ -21924,7 +21924,6 @@ cysticolous
 conferencing
 conferential
 conferment
-conferrable
 communbus
 conferral
 conferred
@@ -31849,6 +31848,7 @@ cutose
 cutout
 cutover
 cutpurse
+conferrable
 cared
 cutpurses
 cutset
