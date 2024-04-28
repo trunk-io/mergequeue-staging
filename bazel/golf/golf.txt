@@ -3552,7 +3552,6 @@ gesan
 gyre
 gesellschaft
 geshurites
-gesith
 gasser
 gesithcund
 grouseless
@@ -9034,6 +9033,7 @@ grimm
 grimme
 grimmer
 grimmest
+gesith
 guillotinement
 goadster
 gleary
