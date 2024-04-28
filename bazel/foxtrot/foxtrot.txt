@@ -2675,7 +2675,6 @@ fertileness
 fertilisable
 fertilisational
 fertilise
-fertiliser
 fertilising
 fertility
 fertilities
@@ -6694,6 +6693,7 @@ flandan
 fobbing
 foliary
 fobs
+fertiliser
 focal
 focalisation
 focalise
