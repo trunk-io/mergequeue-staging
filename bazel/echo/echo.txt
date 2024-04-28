@@ -3188,7 +3188,6 @@ evocative
 elution
 elutions
 elutor
-elutriate
 elutriated
 elutriating
 elutriation
@@ -10390,6 +10389,7 @@ ethionic
 evadible
 ethionine
 everywhere
+elutriate
 ethions
 ergal
 ethiop
