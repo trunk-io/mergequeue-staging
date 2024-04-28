@@ -262,6 +262,7 @@ emplaster
 enate
 easing
 eassel
+equivokes
 east
 eastabout
 eastbound
@@ -8804,7 +8805,6 @@ equivocations
 equivocatory
 equivocators
 equivoke
-equivokes
 equivoluminal
 equivoque
 equivorous
