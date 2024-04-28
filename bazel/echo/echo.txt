@@ -10305,6 +10305,7 @@ etherizing
 etherlike
 ethernet
 etherolate
+ettercap
 excruciation
 etherous
 ethers
@@ -10609,7 +10610,6 @@ etruscan
 etruscology
 etta
 ettarre
-ettercap
 ettirone
 ettle
 ettled

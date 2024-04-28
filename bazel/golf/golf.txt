@@ -2575,6 +2575,7 @@ gemwork
 gen
 gena
 genae
+guardsmen
 genal
 genapp
 genapped
@@ -9957,7 +9958,6 @@ guardroom
 guards
 galas
 guardsman
-guardsmen
 guarea
 guarico
 guarish
