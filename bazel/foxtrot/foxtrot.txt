@@ -777,6 +777,7 @@ fumets
 fanfold
 fanfolds
 fanfoot
+floatative
 fang
 financing
 fanga
@@ -5827,7 +5828,6 @@ forwalk
 floatages
 fireling
 floatation
-floatative
 floatboard
 firesides
 formulas
