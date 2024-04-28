@@ -7756,7 +7756,6 @@ certie
 certif
 certify
 certifiability
-certifiable
 certifiableness
 certifiably
 certificate
@@ -11309,6 +11308,7 @@ chlorobromide
 chlorobromomethane
 chlorocalcite
 chlorocarbon
+certifiable
 chlorocarbonate
 congeals
 chlorochromates
