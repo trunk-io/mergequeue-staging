@@ -8300,7 +8300,6 @@ chalcolithic
 chalcomancy
 chalcomenite
 chalcon
-chalcophanite
 chalcophile
 chalcopyrite
 canelle
@@ -14973,6 +14972,7 @@ conservatorio
 cytopathological
 coenactor
 cytopathologically
+chalcophanite
 cytopenia
 cytophaga
 cytophagy
