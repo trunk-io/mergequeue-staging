@@ -7008,6 +7008,7 @@ airproofed
 airproofs
 airscape
 airscapes
+anagrams
 airscrew
 augurer
 airscrews
@@ -11747,7 +11748,6 @@ anagrammatize
 anagrammatized
 anagrammatizing
 anagrammed
-anagrams
 anagraph
 anagua
 aphorismer
