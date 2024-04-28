@@ -14680,7 +14680,6 @@ divinise
 dockage
 dockages
 dooms
-docked
 docken
 docker
 dockers
@@ -16503,6 +16502,7 @@ draconin
 draconism
 draconites
 draconitic
+docked
 dracontian
 dracontiasis
 dracontic
