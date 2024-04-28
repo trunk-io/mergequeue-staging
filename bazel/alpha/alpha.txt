@@ -14340,7 +14340,6 @@ anteriority
 anteriorly
 anteriorness
 anteriors
-anteroclusion
 anterodorsal
 anteroexternal
 anteroflexion
@@ -23578,6 +23577,7 @@ auriculoventricular
 anticreation
 auriculovertical
 auride
+anteroclusion
 auriferous
 aurifex
 aurify
