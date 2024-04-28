@@ -2081,7 +2081,6 @@ gavial
 gavialis
 gnateater
 gervais
-gavialoid
 goldless
 guanin
 gavials
@@ -3836,6 +3835,7 @@ ghuz
 gi
 gyal
 gane
+gavialoid
 giambeux
 giant
 goiabada
