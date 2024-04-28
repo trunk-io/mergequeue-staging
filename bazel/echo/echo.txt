@@ -500,7 +500,6 @@ excerptible
 eccentrometer
 eruditional
 ecdyses
-ecdysial
 ecdysiast
 ecdysis
 ethnographies
@@ -11779,6 +11778,7 @@ exalter
 exalters
 exalting
 exaltment
+ecdysial
 exalts
 exam
 examen
