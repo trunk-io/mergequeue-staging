@@ -5896,7 +5896,6 @@ cathisma
 cathismata
 cathodal
 cathode
-cathodegraph
 cathodes
 cathodic
 cathodical
@@ -7427,6 +7426,7 @@ capitasti
 ceramists
 ceramium
 ceramography
+cathodegraph
 ceramographic
 counterlocking
 cerargyrite
