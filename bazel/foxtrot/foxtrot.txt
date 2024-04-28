@@ -176,7 +176,6 @@ fleshling
 facto
 factor
 factorable
-factoress
 factory
 factorially
 frizer
@@ -8786,6 +8785,7 @@ fortunel
 fades
 formated
 fortuneless
+factoress
 firebreak
 fortunella
 fortunes
