@@ -4534,7 +4534,6 @@ carotins
 carotte
 carouba
 caroubier
-carousal
 carousals
 carouse
 caroused
@@ -16524,6 +16523,7 @@ clodding
 cloddish
 cloddishly
 cydon
+carousal
 chetif
 cloddishness
 clodhead
