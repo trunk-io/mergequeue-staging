@@ -1641,7 +1641,6 @@ grammes
 gregory
 gasserian
 grainy
-gassers
 gasses
 gassy
 gassier
@@ -9745,6 +9744,7 @@ grunter
 gymnotus
 grunters
 grunth
+gassers
 gaillard
 genip
 gemmates

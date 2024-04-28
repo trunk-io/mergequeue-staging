@@ -3134,6 +3134,7 @@ birthstool
 baseborn
 basebred
 baseburner
+befancy
 basecourt
 based
 basehearted
@@ -5092,7 +5093,6 @@ bruyere
 bloodthirst
 befamilied
 befamine
-befancy
 butcherous
 befanned
 befathered
