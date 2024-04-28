@@ -14520,7 +14520,6 @@ branky
 buzzards
 bloodlust
 brankie
-brankier
 brankiest
 branks
 brankursine
@@ -16762,6 +16761,7 @@ buffed
 buffer
 buffered
 buffering
+brankier
 bohemians
 bufferrer
 bufferrers
