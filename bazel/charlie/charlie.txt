@@ -26785,7 +26785,6 @@ countercurrently
 countercurrentwise
 counterdance
 counterdecision
-counterdeclaration
 counterdecree
 counterdefender
 ceramicite
@@ -31744,6 +31743,7 @@ customly
 customs
 customshouse
 custos
+counterdeclaration
 custrel
 custron
 custroun
