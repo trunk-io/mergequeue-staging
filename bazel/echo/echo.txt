@@ -40,6 +40,7 @@ earcockle
 eardrop
 ecphonesis
 eardropper
+embrasure
 eardrum
 eardrums
 eared
@@ -2618,7 +2619,6 @@ electrotactic
 electrotautomerism
 electrotechnic
 end
-embrasure
 electrotechnical
 electrotechnician
 ericetum
