@@ -5947,7 +5947,6 @@ generaliser
 glossophaga
 glossophagine
 glossopharyngeal
-glossopharyngeus
 glossophytia
 glossophobia
 glossophora
@@ -6474,6 +6473,7 @@ gobies
 gobiesocid
 geckotian
 gordyaean
+glossopharyngeus
 gobiid
 gobiidae
 gobiiform
