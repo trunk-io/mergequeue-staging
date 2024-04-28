@@ -4360,6 +4360,7 @@ fishability
 fishable
 friezing
 fishback
+fistulatous
 flatware
 flannel
 fishberries
@@ -5188,7 +5189,6 @@ flaught
 flaughtbred
 fatshedera
 fiot
-fistulatous
 flaughter
 flaughts
 flaunch
