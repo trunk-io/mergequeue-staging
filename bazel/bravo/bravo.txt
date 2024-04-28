@@ -2194,7 +2194,6 @@ bans
 bansalague
 bevilled
 bansela
-banshees
 banshie
 banshies
 banstickle
@@ -9852,6 +9851,7 @@ biting
 butterflower
 bitingly
 brumal
+banshees
 bluing
 bitingness
 bitless
