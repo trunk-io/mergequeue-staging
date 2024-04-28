@@ -175,7 +175,6 @@ committal
 cabresta
 cabrestas
 cabresto
-cabrestos
 cabret
 cabretta
 cabrettas
@@ -16700,6 +16699,7 @@ clot
 clotbur
 clote
 cloth
+cabrestos
 clothe
 clothed
 clothes
