@@ -27268,7 +27268,6 @@ cardhouse
 countree
 countreeman
 country
-countrieman
 coenoblast
 countries
 countrify
@@ -31283,6 +31282,7 @@ curdler
 curdlers
 curdles
 curdly
+countrieman
 curdling
 curdoo
 crampons
