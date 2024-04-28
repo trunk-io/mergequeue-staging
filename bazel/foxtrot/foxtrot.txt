@@ -1464,7 +1464,6 @@ flamboyantism
 fattrels
 fatuate
 fatuism
-fatuity
 futhork
 fatuities
 fellatrix
@@ -8570,6 +8569,7 @@ formulating
 formulation
 fitful
 forgainst
+fatuity
 filipino
 formulations
 formulator
