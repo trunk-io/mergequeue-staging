@@ -6982,6 +6982,7 @@ entosthoblast
 entothorax
 entotic
 entotympanic
+equiaxial
 entotrophi
 entourage
 entourages
@@ -8599,7 +8600,6 @@ encincture
 equiatomic
 equiaxe
 equiaxed
-equiaxial
 equibalanced
 eelblenny
 equibiradiate
