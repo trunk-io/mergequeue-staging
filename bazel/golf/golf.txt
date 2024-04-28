@@ -3001,7 +3001,6 @@ guenons
 glovelike
 geocerite
 geochemical
-geochemist
 geochemists
 geochrony
 geochronologic
@@ -5996,6 +5995,7 @@ glottochronological
 glottogony
 glottogonic
 glottogonist
+geochemist
 gyrons
 gulfs
 glottology
