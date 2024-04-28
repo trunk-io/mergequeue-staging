@@ -10551,7 +10551,6 @@ diplex
 diplobacillus
 diplobacterium
 diploblastic
-diplocardiac
 diplocarpon
 diplocaulescent
 developability
@@ -13572,6 +13571,7 @@ dissheathed
 disship
 disshiver
 disshroud
+diplocardiac
 dissidence
 drudgeries
 dissidently
