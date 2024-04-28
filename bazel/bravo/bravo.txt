@@ -382,6 +382,7 @@ backfills
 backfire
 backfires
 backfiring
+bisymmetrically
 budgerigars
 backflip
 backflow
@@ -4832,7 +4833,6 @@ bedrocks
 bedroll
 bedrolls
 bedrooms
-bisymmetrically
 bedrop
 bridgemaker
 bedrown
