@@ -2234,7 +2234,6 @@ guardfish
 gecking
 gaseliers
 gecko
-goas
 geckoes
 geckotid
 geckotidae
@@ -2783,6 +2782,7 @@ genioglossal
 globoids
 genioglossi
 genioglossus
+goas
 geniohyoglossal
 gymnoblastic
 guldens
