@@ -3497,7 +3497,6 @@ batad
 brocket
 bataleur
 batamote
-batan
 bitstalk
 batara
 batarde
@@ -12898,6 +12897,7 @@ bopster
 bor
 bora
 borable
+batan
 barbitalism
 boraces
 borachio
