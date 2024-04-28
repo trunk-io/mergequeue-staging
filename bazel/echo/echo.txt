@@ -1246,7 +1246,6 @@ eelpouts
 eelshop
 epitympanic
 eelskin
-esprove
 eelware
 eelworm
 eelworms
@@ -3920,6 +3919,7 @@ emigres
 emil
 emilia
 emim
+esprove
 eminence
 eminences
 extraboldface
