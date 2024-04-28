@@ -3981,6 +3981,7 @@ cardiocele
 cardiocirrhosis
 cardioclasia
 cardioclasis
+corduroying
 cardiod
 cardiodilator
 cardiodynamics
@@ -25037,7 +25038,6 @@ cordula
 corduroy
 corduroyed
 chaplin
-corduroying
 corduroys
 cordwain
 cordwainer
