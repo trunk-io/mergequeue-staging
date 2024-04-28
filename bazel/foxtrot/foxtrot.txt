@@ -1406,6 +1406,7 @@ fatigable
 fatigableness
 froise
 fatigate
+fructus
 fatigated
 fatigating
 fatigation
@@ -7338,7 +7339,6 @@ forage
 foraged
 foragement
 forager
-fructus
 foragers
 forages
 foraging
