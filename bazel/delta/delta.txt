@@ -694,7 +694,6 @@ dampers
 dampy
 damping
 dampish
-dampishly
 dampishness
 damply
 dampne
@@ -9204,6 +9203,7 @@ dieb
 dieback
 downier
 diebacks
+dampishly
 dyebeck
 diecase
 diecious
