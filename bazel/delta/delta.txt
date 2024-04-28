@@ -3095,7 +3095,6 @@ deewans
 def
 drunkenwise
 defaceable
-defacement
 defacements
 defacer
 defacers
@@ -7039,6 +7038,7 @@ destructibleness
 destructing
 destruction
 destructional
+defacement
 destructionist
 destructions
 destructive
