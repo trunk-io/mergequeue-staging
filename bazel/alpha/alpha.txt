@@ -13649,7 +13649,6 @@ attributal
 annoyances
 annoyed
 autostandardization
-annoyer
 annoyers
 annoyful
 annoying
@@ -14919,6 +14918,7 @@ anticatalyzer
 anticatarrhal
 anticathexis
 anticathode
+annoyer
 anticatholic
 autoptic
 anticausotic

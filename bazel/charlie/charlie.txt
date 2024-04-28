@@ -4280,7 +4280,6 @@ caryotin
 carboxyhemoglobin
 caryotins
 carious
-cariousness
 caripeta
 caripuna
 cariri
@@ -7397,6 +7396,7 @@ cephidae
 cephus
 cepolidae
 cepous
+cariousness
 ceps
 cepter
 ceptor
