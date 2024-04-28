@@ -6466,7 +6466,6 @@ benzophenazine
 benzophenol
 benzophenone
 benzophenothiazine
-brios
 benzophenoxazine
 benzophloroglucinol
 benzophosphinic
@@ -12817,6 +12816,7 @@ brachigerous
 boot
 bootable
 bootblack
+brios
 bootblacks
 booted
 bootees
