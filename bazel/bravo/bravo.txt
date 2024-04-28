@@ -14096,7 +14096,6 @@ bracketed
 bracketing
 brackets
 bracketted
-bracketwise
 bracky
 boarcite
 bracking
@@ -14917,6 +14916,7 @@ breechesless
 breeching
 breechless
 breechloader
+bracketwise
 breechloading
 breed
 breedable
