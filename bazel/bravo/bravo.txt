@@ -668,6 +668,7 @@ bacteriemia
 bacteriform
 bacterin
 bacterioagglutinin
+botchier
 bacterioblast
 bacteriochlorophyll
 blink
@@ -13281,7 +13282,6 @@ botcheries
 botcherly
 botchers
 botchy
-botchier
 botchiest
 botchily
 botchiness
