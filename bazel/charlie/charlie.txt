@@ -18530,7 +18530,6 @@ coiffes
 crofts
 coiffeur
 coiffeurs
-coiffeuse
 coiffeuses
 coiffing
 cowleech
@@ -22128,6 +22127,7 @@ conformations
 conformator
 conformed
 conformer
+coiffeuse
 conformers
 counterview
 conforming
