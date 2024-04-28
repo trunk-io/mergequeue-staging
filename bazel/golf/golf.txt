@@ -2148,6 +2148,7 @@ gaze
 gazebo
 glimpse
 gigadoid
+gloppy
 gazebos
 gazed
 gazee
@@ -5824,7 +5825,6 @@ gasper
 glop
 glopnen
 gloppen
-gloppy
 glops
 glor
 glore

@@ -8784,7 +8784,6 @@ fortuitus
 fortunate
 fortunately
 fortunateness
-fortune
 fortuned
 fortunel
 fades
@@ -11449,6 +11448,7 @@ functionated
 furnishing
 feebler
 flatfish
+fortune
 furnishings
 fudges
 furnishment
