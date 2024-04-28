@@ -1006,7 +1006,6 @@ benzoins
 bahts
 bahuma
 beings
-bahur
 bahut
 bahuts
 bahutu
@@ -9120,6 +9119,7 @@ biurea
 biophysicist
 biophysicochemical
 backslidden
+bahur
 biophysics
 biophysiography
 biophysiology
