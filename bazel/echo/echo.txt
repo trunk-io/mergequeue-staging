@@ -2210,7 +2210,6 @@ elecampane
 elechi
 enterprises
 elecives
-elect
 enterograph
 electability
 electable
@@ -2551,6 +2550,7 @@ ervil
 electrophori
 extund
 electrophoric
+elect
 electrophoridae
 electrophorus
 epidermomycosis

@@ -20,7 +20,6 @@ gabby
 gabbier
 gabbiest
 gabbiness
-gabbing
 gabbled
 gabblement
 gabbler
@@ -3616,6 +3615,7 @@ gesticulatory
 gestio
 gasaliers
 gestion
+gabbing
 gestning
 gestonie
 grenadin
