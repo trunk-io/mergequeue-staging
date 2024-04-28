@@ -1924,7 +1924,6 @@ agariciform
 acentrous
 aceology
 acephal
-acephala
 acephalan
 acapu
 acephali
@@ -4334,6 +4333,7 @@ assizement
 adorer
 adorers
 adores
+acephala
 adoretus
 adoring
 adoringly
