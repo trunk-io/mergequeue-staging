@@ -4642,7 +4642,6 @@ adversariness
 adversarious
 ashpan
 adversative
-adversatively
 adverse
 adversed
 adversely
@@ -21532,6 +21531,7 @@ aspiratae
 aspirate
 aspirated
 aspiration
+adversatively
 aspirations
 agglutogenic
 aspiratory
