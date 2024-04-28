@@ -588,7 +588,6 @@ echinostoma
 eluviated
 echinostomatidae
 echinostome
-echinozoa
 echinulate
 echinulated
 elaphine
@@ -13500,6 +13499,7 @@ exstill
 exstimulate
 exstipulate
 endseal
+echinozoa
 exstrophy
 exstruct
 exsuction
