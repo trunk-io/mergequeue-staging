@@ -2910,6 +2910,7 @@ feudality
 feudalities
 feudalization
 feudalize
+forelock
 feudalized
 feltwort
 feudalizing
@@ -7811,7 +7812,6 @@ forelands
 foreleader
 foreleg
 forelegs
-forelock
 forelocks
 forelook
 flowerets
