@@ -5085,7 +5085,6 @@ flashness
 fable
 flashover
 flashtester
-flashtube
 flashtubes
 flask
 ferricyanhydric
@@ -8373,6 +8372,7 @@ fret
 forkers
 forkfuls
 forkhead
+flashtube
 forkier
 forkiest
 forkiness
