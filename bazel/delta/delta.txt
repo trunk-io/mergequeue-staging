@@ -4872,6 +4872,7 @@ demonophobia
 demonry
 divines
 demonship
+dicyclic
 demonstrability
 demonstrable
 demonstrableness
@@ -17866,7 +17867,6 @@ duecentist
 duecento
 duecentos
 dueful
-dicyclic
 drepane
 davidist
 dueler
