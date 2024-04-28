@@ -891,6 +891,7 @@ ectophloic
 endothelioblastoma
 ectopy
 ellipsoids
+exstrophy
 ectopia
 ectopic
 ectoplasm
@@ -13497,7 +13498,6 @@ exstimulate
 exstipulate
 endseal
 echinozoa
-exstrophy
 exstruct
 exsuction
 exsudate
