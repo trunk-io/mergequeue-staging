@@ -439,6 +439,7 @@ backliding
 backlings
 backlins
 backlists
+briefness
 backlit
 backlog
 backlogged
@@ -15256,7 +15257,6 @@ brieflessness
 briefly
 bonbon
 bogier
-briefness
 birky
 besiclometer
 basso
