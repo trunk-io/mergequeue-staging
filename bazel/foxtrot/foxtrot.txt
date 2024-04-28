@@ -4435,6 +4435,7 @@ fishways
 fishweed
 foothils
 fishweir
+fumbling
 fishwoman
 fishwood
 fishworker
@@ -11018,7 +11019,6 @@ feceris
 flashy
 fumblers
 fumbles
-fumbling
 fumblingly
 famish
 fume

@@ -1564,7 +1564,6 @@ gaseous
 gaseously
 gaseousness
 gases
-gasfiring
 gash
 giraffe
 gypsyweed
@@ -1702,6 +1701,7 @@ gastrectasia
 ghostcraft
 germinating
 gastrectasis
+gasfiring
 gastrectomy
 gastrectomies
 gastrelcosis
