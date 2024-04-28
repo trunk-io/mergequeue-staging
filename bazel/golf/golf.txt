@@ -2723,7 +2723,6 @@ geneses
 genesiac
 genesiacal
 grazingly
-genesial
 genesic
 genesitic
 genet
@@ -10319,6 +10318,7 @@ gulden
 genericalness
 gule
 gules
+genesial
 glareous
 gulf
 grat
