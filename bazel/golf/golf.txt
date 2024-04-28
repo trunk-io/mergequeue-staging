@@ -2855,7 +2855,6 @@ galvaniser
 genoese
 genoise
 genome
-gyrolite
 genomic
 genoms
 genonema
@@ -6412,6 +6411,7 @@ goatfishes
 goatherdess
 goaty
 glimmered
+gyrolite
 glazings
 goatish
 goatishly

@@ -1349,7 +1349,6 @@ fatefulness
 fatelike
 fath
 fatheaded
-flinthead
 fatheadedly
 fatheadedness
 fatheads
@@ -5349,6 +5348,7 @@ flecking
 fleckled
 ferrymen
 fleckless
+flinthead
 flecklessly
 flecks
 flecnodal
