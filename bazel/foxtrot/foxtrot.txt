@@ -3175,7 +3175,6 @@ fusarial
 fullterm
 fracture
 fibrous
-fibrousness
 fibrovascular
 fibs
 fibster
@@ -7012,6 +7011,7 @@ follicle
 follicles
 follicular
 folliculate
+fibrousness
 folliculated
 fougasse
 folliculin
