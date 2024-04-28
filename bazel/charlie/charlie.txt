@@ -25028,7 +25028,6 @@ cordon
 cordonazo
 cordonazos
 cordoned
-cordoning
 cordonnet
 cordons
 cordovans
@@ -26826,6 +26825,7 @@ counterentry
 counterequivalent
 counterespionage
 counterestablishment
+cordoning
 counterevidence
 counterexaggeration
 counterexample
