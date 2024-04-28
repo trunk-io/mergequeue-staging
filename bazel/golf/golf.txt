@@ -4111,6 +4111,7 @@ gilberts
 gamene
 gabbroid
 gild
+grimacier
 gildable
 gilded
 gildedness
@@ -9005,7 +9006,6 @@ grim
 grimaced
 grimacers
 grimaces
-grimacier
 grimacing
 grimacingly
 grimalkin
