@@ -4347,7 +4347,6 @@ gynandries
 guiltiest
 gynandrism
 gynandroid
-gynandromorph
 gynandromorphy
 gilthead
 gluish
@@ -6032,6 +6031,7 @@ glowfly
 glowflies
 glowing
 glowingly
+gynandromorph
 glows
 geoethnic
 gnetums
