@@ -1612,6 +1612,7 @@ acclinal
 acclinate
 auxometer
 acclivities
+aegis
 acclivitous
 acclivous
 arecolidin
@@ -4817,7 +4818,6 @@ aegir
 aegirine
 aegirinolite
 aegirite
-aegis
 aegises
 aegisthus
 aegithalos
