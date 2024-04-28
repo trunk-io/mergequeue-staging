@@ -1435,7 +1435,6 @@ fatiscent
 fatly
 fatlike
 fringy
-fatling
 fatlings
 furbishing
 featureliness
@@ -6248,6 +6247,7 @@ futilitarian
 flowmeter
 flown
 flowoff
+fatling
 flowstone
 flu
 fluate
