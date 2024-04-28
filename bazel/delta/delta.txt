@@ -4565,7 +4565,6 @@ demihorse
 demihuman
 demijambe
 demijohn
-deergrass
 demijohns
 demikindred
 demiking
@@ -17996,6 +17995,7 @@ dulcinea
 dulcinist
 dulcite
 dulcity
+deergrass
 dulcitol
 dulcitude
 dulcor
