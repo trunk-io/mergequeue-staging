@@ -3550,6 +3550,7 @@ filament
 filamentary
 filamented
 filamentiferous
+forefended
 filamentoid
 filamentose
 filamentous
@@ -7677,7 +7678,6 @@ forefeet
 foiled
 forefence
 forefend
-forefended
 forefending
 forefends
 foreffelt
