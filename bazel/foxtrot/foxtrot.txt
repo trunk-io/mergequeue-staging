@@ -3840,7 +3840,6 @@ filtrates
 filtre
 filum
 fimbria
-fimbriae
 fimbrial
 fimbriate
 feeblemindedly
@@ -5338,6 +5337,7 @@ fleckiness
 fallowing
 flecking
 fleckled
+fimbriae
 ferrymen
 fleckless
 flinthead
