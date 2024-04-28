@@ -15548,7 +15548,6 @@ brittlest
 batrachotoxin
 brittlewood
 brittlewort
-brittling
 brittonic
 braccia
 britts
@@ -17362,6 +17361,7 @@ bundoc
 bundocks
 bundook
 bunds
+brittling
 bundt
 boleweed
 bundts
