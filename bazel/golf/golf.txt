@@ -905,7 +905,6 @@ gamebag
 gameball
 gauby
 gamecocks
-gamecraft
 gamed
 gameful
 gamey
@@ -7602,6 +7601,7 @@ graciosity
 gracioso
 glycogenize
 graciosos
+gamecraft
 gracious
 gargles
 graciously
