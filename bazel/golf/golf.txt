@@ -2142,7 +2142,6 @@ griffado
 gaze
 gazebo
 glimpse
-gigadoid
 gloppy
 gazebos
 gazed
@@ -10741,6 +10740,7 @@ gutling
 gutnic
 guts
 gutser
+gigadoid
 gutsy
 gutsier
 gibber
