@@ -774,6 +774,7 @@ championlike
 cairns
 chambered
 conourish
+corseleting
 cairo
 cays
 caisse
@@ -25855,7 +25856,6 @@ corsak
 corse
 corselet
 corseleted
-corseleting
 corselets
 corsepresent
 corseque
