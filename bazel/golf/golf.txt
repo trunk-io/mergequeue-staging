@@ -1279,7 +1279,6 @@ gallish
 garage
 garaged
 gyved
-glandless
 garageman
 garages
 gilgie
@@ -9039,6 +9038,7 @@ grimness
 grimnesses
 griping
 grimoire
+glandless
 grimsir
 grimsire
 grinch
