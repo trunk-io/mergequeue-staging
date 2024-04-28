@@ -3712,7 +3712,6 @@ adenography
 adenographic
 adenographical
 adenohypersthenia
-adenohypophyseal
 adonite
 adenohypophysial
 adenoid
@@ -13393,6 +13392,7 @@ anisognathism
 anisognathous
 anisoiconia
 anisoyl
+adenohypophyseal
 anisoin
 anisokonia
 angiospermatous
