@@ -4627,7 +4627,6 @@ footslogs
 fixations
 fixative
 fixator
-fixature
 fixed
 fixedly
 fixedness
@@ -10054,6 +10053,7 @@ frightful
 frightfully
 frightfulness
 fleckier
+fixature
 frighty
 frighting
 frightless

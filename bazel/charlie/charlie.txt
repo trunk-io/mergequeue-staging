@@ -4534,7 +4534,6 @@ carotinoid
 carotins
 carotte
 carouba
-caroubier
 carousal
 carousals
 carouse
@@ -27003,6 +27002,7 @@ counterplayer
 counterplan
 counterplea
 counterplead
+caroubier
 counterpleading
 counterplease
 catfalls
