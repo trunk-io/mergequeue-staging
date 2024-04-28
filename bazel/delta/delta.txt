@@ -5939,7 +5939,6 @@ deprogrammer
 deprogrammers
 deprogramming
 deprograms
-deprome
 deprostrate
 deprotestantize
 deducibleness
@@ -6696,6 +6695,7 @@ desirableness
 desirably
 desire
 desireable
+deprome
 desired
 desiredly
 desiredness
