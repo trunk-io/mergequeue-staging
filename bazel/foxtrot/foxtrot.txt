@@ -2158,7 +2158,6 @@ fells
 fellsman
 finger
 filiation
-feloid
 felon
 feloness
 felony
@@ -5034,6 +5033,7 @@ flareless
 flarer
 flares
 forsakers
+feloid
 flarfish
 foldage
 flarfishes
