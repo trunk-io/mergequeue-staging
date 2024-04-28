@@ -5946,7 +5946,6 @@ beltlines
 beltmaker
 beltmaking
 beltman
-beltmen
 binervate
 beltway
 beltways
@@ -9345,6 +9344,7 @@ bipont
 bipontine
 biporose
 brachiofacial
+beltmen
 bipotentiality
 bipotentialities
 biprism
