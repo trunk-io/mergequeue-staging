@@ -823,7 +823,6 @@ dangerous
 dangerously
 dangerousness
 dangers
-dangersome
 dangle
 dangleberry
 dangled
@@ -5443,6 +5442,7 @@ dermonecrotic
 denunciator
 denunciatory
 denutrition
+dangersome
 denver
 deobstruct
 deobstruent
