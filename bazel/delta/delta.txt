@@ -1718,7 +1718,6 @@ deceivable
 deathrates
 deathroot
 deaths
-deathshot
 deactivators
 deathsman
 deathsmen
@@ -5911,6 +5910,7 @@ depressor
 dactylotheca
 disloyalties
 depressors
+deathshot
 depressure
 depressurize
 deprest
