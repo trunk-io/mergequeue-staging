@@ -447,7 +447,6 @@ eccentricity
 eccentricities
 eccentrics
 eccentring
-extubate
 ecchymoma
 ecchymosed
 ecchymosis
@@ -9858,6 +9857,7 @@ esselenian
 explodes
 essenced
 essencing
+extubate
 essene
 essenian
 essenic

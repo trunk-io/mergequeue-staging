@@ -4697,7 +4697,6 @@ demythologisation
 deices
 demythologised
 demythologising
-demythologization
 demythologizations
 demythologize
 demythologizer
@@ -18557,6 +18556,7 @@ dustfall
 dustheap
 dustheaps
 dustier
+demythologization
 dustiest
 dustyfoot
 dustily
