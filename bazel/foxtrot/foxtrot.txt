@@ -6635,7 +6635,6 @@ fluviatile
 fluviation
 fluvicoline
 fluvioglacial
-fluviolacustrine
 fluviomarine
 fluvioterrestrial
 fireshaft
@@ -11600,6 +11599,7 @@ fusinite
 fusion
 fusionism
 fusionist
+fluviolacustrine
 fusionless
 fusions
 fusobacteria
