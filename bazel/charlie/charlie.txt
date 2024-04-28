@@ -8772,7 +8772,6 @@ chaparrals
 chaparraz
 chaparro
 chapati
-chapaties
 chapatis
 chapatti
 chapatty
@@ -27402,6 +27401,7 @@ courtlet
 courtly
 courtlier
 courtliest
+chapaties
 croppie
 courtlike
 courtliness
