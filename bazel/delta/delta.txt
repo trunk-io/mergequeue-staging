@@ -5983,7 +5983,6 @@ depure
 depurge
 depurged
 depurging
-depurition
 depursement
 deputable
 deputation
@@ -6753,6 +6752,7 @@ desmatippus
 desmectasia
 desmepithelium
 desmic
+depurition
 desmid
 desmidiaceous
 debone
