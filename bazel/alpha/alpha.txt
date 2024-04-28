@@ -17278,7 +17278,6 @@ aftertax
 apokatastasis
 argyric
 apokatastatic
-apokrea
 apolar
 apolarity
 apolaustic
@@ -22488,6 +22487,7 @@ atelectatic
 atelene
 ateleological
 ateles
+apokrea
 atelets
 ately
 alterocentric
