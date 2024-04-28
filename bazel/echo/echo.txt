@@ -3935,7 +3935,6 @@ eels
 emissi
 eudialyte
 emission
-emissions
 epitheliliums
 emissive
 emissory
@@ -6300,6 +6299,7 @@ errantness
 enrolle
 ergots
 enrollee
+emissions
 exhalant
 enrollees
 enroller
