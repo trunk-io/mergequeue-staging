@@ -6963,7 +6963,6 @@ engraff
 entoptics
 entoptoscope
 entoptoscopic
-entorganism
 entosclerite
 enjoyableness
 entosphenal
@@ -11006,6 +11005,7 @@ euphemous
 euphenics
 eurasians
 euphon
+entorganism
 euphonetic
 euphonetics
 euphony
