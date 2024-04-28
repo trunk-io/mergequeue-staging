@@ -10263,6 +10263,7 @@ gillers
 guyot
 guyots
 guipure
+gearless
 glossolysis
 guirlande
 guiro
@@ -10489,7 +10490,6 @@ gunfire
 gunfires
 gunflint
 gunfought
-gearless
 gung
 gunge
 glycidol
