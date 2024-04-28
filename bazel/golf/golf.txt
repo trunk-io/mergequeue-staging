@@ -8090,7 +8090,6 @@ granulating
 granulations
 granulative
 granulator
-granulators
 gitano
 granules
 granulet
@@ -10536,6 +10535,7 @@ gunnership
 gunning
 gluemaking
 gunocracy
+granulators
 gunong
 gunpaper
 gerbille
