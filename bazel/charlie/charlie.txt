@@ -25670,7 +25670,6 @@ corrector
 correctory
 correctress
 correctrice
-corrects
 corregidor
 corregidores
 consolute
@@ -29518,6 +29517,7 @@ capitella
 crithmene
 crithomancy
 critic
+corrects
 critical
 criticality
 critically
