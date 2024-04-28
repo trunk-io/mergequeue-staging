@@ -2663,7 +2663,6 @@ electrotyping
 electrotypist
 electrotitration
 etherean
-electrotonic
 electrotonicity
 electrotonize
 electrotrephine
@@ -7522,6 +7521,7 @@ ephemeron
 ephemeroptera
 earthlike
 energumen
+electrotonic
 ephemerous
 ephererist
 ephesians
