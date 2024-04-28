@@ -11359,7 +11359,6 @@ chlorophyceae
 convenee
 chlorophyl
 chlorophyll
-chlorophyllase
 clarshech
 chlorophyllian
 chlorophyllide
@@ -23146,6 +23145,7 @@ constitutive
 constitutively
 constitutiveness
 constitutor
+chlorophyllase
 cassiri
 constr
 constrain
