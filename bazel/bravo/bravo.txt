@@ -2718,7 +2718,6 @@ barkstone
 barlafumble
 benben
 barlafummil
-barleduc
 barleducs
 barleybird
 barleybrake
@@ -9230,6 +9229,7 @@ biotical
 bromogelatin
 biotically
 biotics
+barleduc
 biotin
 biotins
 biotype
