@@ -4652,7 +4652,6 @@ demisable
 demisangue
 demisavage
 demiscible
-departmental
 demise
 demisecond
 demised
@@ -7675,6 +7674,7 @@ devisings
 devisor
 devisors
 devitalisation
+departmental
 devitalise
 dephlogistication
 defeat

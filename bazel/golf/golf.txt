@@ -588,6 +588,7 @@ greekist
 galleta
 galletas
 galleting
+graminiform
 gallfly
 geodaesia
 geodesics
@@ -7796,7 +7797,6 @@ gramineousness
 graminicolous
 graminiferous
 graminifolious
-graminiform
 graminin
 graminivore
 great
