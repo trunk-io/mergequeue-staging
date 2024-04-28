@@ -582,7 +582,6 @@ falltime
 fallway
 false
 falsedad
-feuded
 formby
 falseface
 falseheartedness
@@ -3354,6 +3353,7 @@ fiduciaries
 fiduciarily
 fiducinales
 fiedlerite
+feuded
 fief
 falchions
 fiefdom
