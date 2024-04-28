@@ -430,7 +430,6 @@ ecb
 ecballium
 ecbasis
 ecbatic
-epulotic
 ecblastesis
 ecblastpsis
 elsewheres
@@ -782,6 +781,7 @@ ecphoria
 ecphoriae
 ecphorias
 ecphova
+epulotic
 ecphractic
 ecphrasis
 ecrase
