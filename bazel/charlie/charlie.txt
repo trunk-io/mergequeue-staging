@@ -410,7 +410,6 @@ cactales
 cacti
 cactiform
 cactoid
-cactus
 cactuses
 cactuslike
 cacumen
@@ -16246,6 +16245,7 @@ chuffer
 clings
 clingstone
 clingstones
+cactus
 clinia
 clinic
 clinical
