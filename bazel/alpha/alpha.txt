@@ -5268,7 +5268,6 @@ afaced
 afacing
 afaint
 afara
-afars
 afb
 afd
 afear
@@ -17015,6 +17014,7 @@ apiarians
 apiaries
 apiarist
 apiarists
+afars
 apiator
 aurelia
 apicad
