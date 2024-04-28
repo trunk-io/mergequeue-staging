@@ -75,6 +75,7 @@ dacryocystosyringotomy
 dacryocystotome
 dacryocystotomy
 dacryohelcosis
+dorsolateral
 dacryohemorrhea
 dacryolin
 dacryolith
@@ -15817,7 +15818,6 @@ dorsocervical
 dorsocervically
 dorsoepitrochlear
 dorsointercostal
-dorsolateral
 dorsolumbar
 dorsomedial
 dorsomedian
