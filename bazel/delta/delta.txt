@@ -5934,6 +5934,7 @@ deprivals
 deprivate
 deprive
 deprived
+disenfranchisements
 deprivement
 depriver
 deprivers
@@ -11984,7 +11985,6 @@ disendowment
 disendows
 disenfranchised
 disenfranchisement
-disenfranchisements
 disenfranchises
 disenfranchising
 designers
