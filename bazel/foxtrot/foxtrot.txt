@@ -5131,7 +5131,6 @@ flatfoot
 flatfooted
 flatfootedly
 flatfooting
-flatfoots
 flathat
 flathead
 flatheads
@@ -6279,6 +6278,7 @@ fenouillet
 forenames
 fcy
 fluctuates
+flatfoots
 fanback
 fluctuating
 fluctuation
