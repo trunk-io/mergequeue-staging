@@ -7858,7 +7858,6 @@ grampus
 gagor
 gaddish
 grampuses
-grey
 grams
 grana
 granada
@@ -10135,6 +10134,7 @@ guglets
 guglia
 guglio
 guhayna
+grey
 guhr
 gandharva
 guy
