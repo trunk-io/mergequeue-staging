@@ -8401,7 +8401,6 @@ epitria
 epitrichial
 extratelluric
 epitrite
-epitrochlea
 epitrope
 epitrophy
 epitrophic
@@ -8523,6 +8522,7 @@ equableness
 equably
 equal
 editorials
+epitrochlea
 equaled
 equalisation
 equalise

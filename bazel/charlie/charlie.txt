@@ -8343,7 +8343,6 @@ chalk
 chalkboard
 chalkboards
 chalkcutter
-chalked
 chalker
 chalky
 chalkier
@@ -14080,6 +14079,7 @@ ciphony
 ciphonies
 cyphonism
 cravings
+chalked
 cyphosis
 cipo
 cipolin
