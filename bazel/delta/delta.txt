@@ -7711,7 +7711,6 @@ devoicing
 devoid
 devoir
 dissymmetrically
-devoirs
 devolatilise
 devolatilised
 devolatilising
@@ -15515,6 +15514,7 @@ donsy
 donsie
 donum
 donut
+devoirs
 donuts
 donzel
 donzella

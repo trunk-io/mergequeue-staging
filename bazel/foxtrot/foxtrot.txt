@@ -1683,7 +1683,6 @@ fconvert
 farcin
 fcp
 fdname
-fdnames
 fdtype
 fdubs
 fe
@@ -10771,6 +10770,7 @@ frutify
 frwy
 fenestella
 formular
+fdnames
 fs
 fstore
 ft
