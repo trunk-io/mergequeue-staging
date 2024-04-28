@@ -9863,6 +9863,7 @@ chemins
 chemiotactic
 chemiotaxic
 chemiotropic
+critiquing
 chemiotropism
 chemiphotic
 convolutions
@@ -29555,7 +29556,6 @@ circumaviator
 criticule
 critique
 critiqued
-critiquing
 critize
 critling
 critter
