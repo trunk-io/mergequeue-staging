@@ -5683,7 +5683,6 @@ catchwork
 catclaw
 catdom
 cacoepistic
-cate
 catechesis
 catechetic
 congenator
@@ -26713,6 +26712,7 @@ counterbalance
 counterbalanced
 counterbalances
 counterbarrage
+cate
 counterbase
 counterbattery
 counterbeating
