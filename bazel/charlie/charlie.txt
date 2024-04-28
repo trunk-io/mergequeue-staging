@@ -8755,6 +8755,7 @@ chaoticness
 chaoua
 choli
 chaouia
+choleriform
 chaoush
 chap
 chapacura
@@ -11618,7 +11619,6 @@ choleras
 choleric
 cholericly
 cholericness
-choleriform
 cholerigenous
 cholerine
 choleroid

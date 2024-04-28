@@ -4726,7 +4726,6 @@ encipherment
 encipherments
 enciphers
 encircle
-effigurate
 endorsing
 encircled
 effronted
@@ -7818,6 +7817,7 @@ epigee
 epigeic
 epigene
 epigenesist
+effigurate
 elegiacally
 epigenetic
 epigenetically
