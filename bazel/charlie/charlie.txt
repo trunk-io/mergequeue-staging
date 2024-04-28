@@ -6545,7 +6545,6 @@ cedilla
 cedillas
 ceding
 cedis
-cosheath
 cedrat
 cleruch
 cedrela
@@ -6800,6 +6799,7 @@ cellulofibrous
 celluloid
 celluloided
 cellulolytic
+cosheath
 cellulomonadeae
 cellulomonas
 cellulose
