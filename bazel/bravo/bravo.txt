@@ -4011,7 +4011,6 @@ beachless
 beachman
 beachmaster
 beachside
-beachward
 beachwear
 beacon
 bittier
@@ -9767,6 +9766,7 @@ byssine
 byssinosis
 bisso
 byssogenous
+beachward
 byssoid
 byssolite
 bisson
