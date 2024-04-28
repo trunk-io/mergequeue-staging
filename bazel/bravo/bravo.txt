@@ -5660,7 +5660,6 @@ britten
 beleaf
 bombazeen
 bodgie
-beleaguer
 beleaguered
 beleaguerer
 beleaguering
@@ -6730,6 +6729,7 @@ berigora
 berylate
 burghmote
 beryline
+beleaguer
 beryllate
 beryllia
 berylline
