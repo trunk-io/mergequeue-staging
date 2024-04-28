@@ -14467,7 +14467,6 @@ anthol
 antholite
 antholyza
 anthology
-anthological
 anthologically
 anthologies
 anthologion
@@ -19313,6 +19312,7 @@ autosuggestions
 ardisia
 ardisiaceae
 arditi
+anthological
 acarids
 ardoise
 ardors
