@@ -1459,6 +1459,7 @@ garnished
 garnishee
 gelatinization
 garnishees
+geminis
 galleypot
 garnisheing
 garnishes
@@ -2496,7 +2497,6 @@ geminative
 gemini
 geminid
 geminiflorous
-geminis
 geminorum
 geminous
 gemitores
