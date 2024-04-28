@@ -20699,6 +20699,7 @@ articulant
 antibody
 actuators
 articulare
+attestative
 articulary
 allelomorph
 associate
@@ -23073,7 +23074,6 @@ attestant
 attestation
 attestations
 alalia
-attestative
 antheridiophore
 attestator
 arkab
