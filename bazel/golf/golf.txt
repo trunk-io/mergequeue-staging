@@ -800,7 +800,6 @@ galvanologist
 goldylocks
 gradations
 galvanomagnetic
-galvanomagnetism
 galvanometer
 galvanometric
 geometries
@@ -6144,6 +6143,7 @@ gluishness
 gaincope
 glum
 gluma
+galvanomagnetism
 glumaceous
 glissandos
 glumales
