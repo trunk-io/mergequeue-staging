@@ -14385,7 +14385,6 @@ circumplect
 circumplicate
 circumplication
 circumpolygon
-circumpose
 circumposition
 circumquaque
 circumradius
@@ -21878,6 +21877,7 @@ confarreation
 cardiometry
 confated
 confected
+circumpose
 confecting
 confection
 confectionary
