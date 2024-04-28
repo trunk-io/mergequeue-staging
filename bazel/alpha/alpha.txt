@@ -12696,7 +12696,6 @@ aneuploid
 aneuploidy
 aneuria
 aneuric
-aneurilemmic
 aneurin
 aneurine
 aneurism
@@ -13669,6 +13668,7 @@ annoys
 annominate
 annomination
 annona
+aneurilemmic
 annonaceae
 annonaceous
 annot
