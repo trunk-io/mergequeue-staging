@@ -2811,6 +2811,7 @@ eldorado
 eleusinia
 eleusinian
 eleusinion
+environments
 eleutherarch
 eleutheria
 eleutherian
@@ -8220,7 +8221,6 @@ epistemically
 epistemolog
 excitor
 epistemologically
-environments
 endia
 epistemologist
 excel
