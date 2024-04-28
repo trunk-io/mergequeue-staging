@@ -2248,7 +2248,6 @@ achesoun
 achete
 achetidae
 acheulean
-acheweed
 authorish
 achy
 achier
@@ -6330,6 +6329,7 @@ agnomen
 agnomens
 acridan
 agnomical
+acheweed
 agnomina
 agnominal
 agnomination
