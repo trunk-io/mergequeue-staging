@@ -2613,6 +2613,7 @@ genecologist
 grottos
 genecor
 geneki
+groupage
 genep
 genepi
 gorgonize
@@ -9476,7 +9477,6 @@ groundwave
 group
 genderer
 groupable
-groupage
 groupageness
 grouped
 gweed
