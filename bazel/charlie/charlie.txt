@@ -10611,7 +10611,6 @@ chylopoetic
 chylopoiesis
 chylopoietic
 chilopsis
-chylosis
 chilostoma
 chilostomatous
 cardiogram
@@ -22306,6 +22305,7 @@ conglomerator
 conglomeritic
 conglutin
 conglutinant
+chylosis
 conglutinate
 conglutinated
 ceruminous
