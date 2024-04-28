@@ -1084,7 +1084,6 @@ farness
 farnesses
 faro
 flaccidly
-faroelite
 foremast
 faroese
 farolito
@@ -10788,6 +10787,7 @@ forwardation
 ftncmd
 ftnerr
 frenetic
+faroelite
 fu
 fuage
 fub
