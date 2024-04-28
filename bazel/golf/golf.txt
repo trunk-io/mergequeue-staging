@@ -966,7 +966,6 @@ gametophytic
 gametophobia
 gametophore
 gametophoric
-gamgee
 gamgia
 gnatter
 grumble
@@ -5416,6 +5415,7 @@ glyceridic
 grimace
 glyceryls
 glycerin
+gamgee
 glycerinate
 glycerinated
 guarri
