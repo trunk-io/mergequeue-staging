@@ -4982,7 +4982,6 @@ cascara
 chinooks
 cascaras
 cephalopagus
-cascaron
 cascavel
 caschielawis
 caschrom
@@ -12497,6 +12496,7 @@ chromocollotype
 chromocollotypy
 chromocratic
 chromoctye
+cascaron
 chromodermatosis
 chromodiascope
 chromogen
