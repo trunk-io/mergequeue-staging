@@ -6692,7 +6692,6 @@ desipient
 desipramine
 desirability
 desirable
-desirableness
 desirably
 desire
 desireable
@@ -12965,6 +12964,7 @@ dispensation
 dispensational
 dispensationalism
 dispensations
+desirableness
 dispensative
 dispensatively
 disembodies
