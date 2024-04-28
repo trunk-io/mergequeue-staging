@@ -3641,7 +3641,6 @@ deuteropathy
 downhill
 deglutination
 dislike
-deglutition
 deglutitious
 deglutitive
 deglutitory
@@ -14245,6 +14244,7 @@ diurnalness
 diurnals
 disgorge
 diurnation
+deglutition
 diurne
 diurnule
 diuron
