@@ -591,6 +591,7 @@ echinostome
 echinozoa
 echinulate
 echinulated
+elaphine
 echinulation
 echinus
 echis
@@ -2069,7 +2070,6 @@ eperlan
 elanus
 elaphe
 elaphebolion
-elaphine
 elaphodus
 elaphomyces
 elaphomycetaceae
