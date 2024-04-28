@@ -11201,6 +11201,7 @@ breva
 blouselike
 blouses
 blousy
+breathy
 blousier
 blousiest
 blousily
@@ -14872,7 +14873,6 @@ breatheableness
 breathed
 breathes
 breathful
-breathy
 breathier
 breathily
 breathiness
