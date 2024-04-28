@@ -2881,7 +2881,6 @@ fetterer
 flagellist
 fetterers
 fettering
-fetterlock
 fetters
 fetticus
 fettle
@@ -5489,6 +5488,7 @@ foilable
 fletchers
 fletches
 fletchings
+fetterlock
 fletton
 fattest
 fleur
