@@ -3599,7 +3599,6 @@ degeneralize
 degenerate
 degenerated
 degenerately
-decanate
 degenerateness
 diemaking
 degenerates
@@ -4477,6 +4476,7 @@ demeriting
 demeritorious
 depressants
 demerits
+decanate
 demerol
 desertion
 demersal
