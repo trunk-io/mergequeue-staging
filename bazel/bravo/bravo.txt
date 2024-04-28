@@ -10194,7 +10194,6 @@ blackmailing
 blackmails
 blackman
 blackneck
-blackness
 blackout
 blackpatch
 bushrope
@@ -11621,6 +11620,7 @@ boatmen
 boatowner
 boats
 boatsetter
+blackness
 boatshop
 berk
 bodword

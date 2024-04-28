@@ -5802,6 +5802,7 @@ flitwite
 flivvers
 flyway
 flyways
+fissicostate
 further
 flyweight
 flyweights
@@ -6328,7 +6329,6 @@ fluidextract
 fluidible
 fluidic
 fluidification
-fissicostate
 fluidified
 fluidifier
 fogramite
