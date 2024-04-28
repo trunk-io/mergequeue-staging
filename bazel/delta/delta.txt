@@ -1146,6 +1146,7 @@ dashiki
 dashikis
 dashing
 dashingly
+directionality
 dichloride
 dashmaker
 drapeable
@@ -10801,7 +10802,6 @@ direction
 directional
 discarding
 drain
-directionality
 directionalize
 directionless
 directions
