@@ -1474,6 +1474,7 @@ gasts
 garotte
 geogenesis
 garotted
+glucosan
 garotter
 garottes
 gravest
@@ -6091,7 +6092,6 @@ gimmick
 gluconeogenic
 glucoprotein
 glucosamine
-glucosan
 glucosane
 glucosazone
 glucose
