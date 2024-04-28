@@ -1633,7 +1633,6 @@ deamidization
 deamidize
 deaminase
 deaminate
-decalescent
 deaminating
 durango
 deamination
@@ -18327,6 +18326,7 @@ duopod
 doyst
 duopoly
 duopolies
+decalescent
 duopolist
 duopolistic
 duopsony
