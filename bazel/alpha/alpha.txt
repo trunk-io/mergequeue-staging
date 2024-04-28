@@ -9487,7 +9487,6 @@ altarage
 altared
 altarist
 altarlet
-altarpiece
 altarpieces
 altars
 altarwise
@@ -25061,6 +25060,7 @@ axel
 axels
 axeman
 axemaster
+altarpiece
 axemen
 axenic
 axenically
