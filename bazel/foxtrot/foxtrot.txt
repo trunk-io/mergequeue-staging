@@ -8019,7 +8019,6 @@ foreshower
 foreshown
 foreshows
 foreside
-foresides
 funnelwise
 foresight
 foresighted
@@ -11148,6 +11147,7 @@ fundamentalists
 fundamentally
 fundamentals
 felspathic
+foresides
 fireboy
 formational
 flowerpecker
