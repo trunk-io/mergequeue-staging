@@ -5929,7 +5929,6 @@ deprivable
 deprival
 deprivals
 deprivate
-deprivative
 deprive
 deprived
 deprivement
@@ -13107,6 +13106,7 @@ displeasant
 displeased
 displeasedly
 debase
+deprivative
 displeaser
 displeases
 dadouchos
