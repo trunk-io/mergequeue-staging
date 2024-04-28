@@ -4241,7 +4241,6 @@ forche
 firesafe
 firesafeness
 firesafety
-fireshine
 fireside
 firesider
 firesideship
@@ -8061,6 +8060,7 @@ forestays
 futurisms
 forestaysail
 forestal
+fireshine
 forestall
 forbiddance
 forestalled

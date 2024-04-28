@@ -486,7 +486,6 @@ anapes
 abyssal
 abysses
 abyssinia
-abyssinian
 abyssinians
 abyssobenthonic
 abyssolith
@@ -19272,6 +19271,7 @@ arctiid
 arctiidae
 arctisca
 arctium
+abyssinian
 arctocephalus
 arctogaea
 arctogaeal
