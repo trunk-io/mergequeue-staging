@@ -5340,7 +5340,6 @@ begorry
 begotten
 begottenness
 begoud
-begowk
 begrace
 begray
 begrain
@@ -16571,6 +16570,7 @@ buckboards
 buckbrush
 buckbush
 bucked
+begowk
 bepuddle
 bushless
 buckeens

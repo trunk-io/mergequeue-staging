@@ -830,7 +830,6 @@ ecthlipsis
 ectype
 ectypes
 ectypography
-ectiris
 ectoblast
 episodal
 ectoblastic
@@ -2148,6 +2147,7 @@ elator
 enmist
 englute
 elatrometer
+ectiris
 exclusively
 elb
 elbert
