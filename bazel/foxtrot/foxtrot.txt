@@ -4085,6 +4085,7 @@ finnack
 finnan
 finned
 furtherly
+forwarders
 finner
 finnesko
 farthings
@@ -8810,7 +8811,6 @@ forwardal
 frescoer
 forwarded
 forwarder
-forwarders
 forwardest
 furmety
 fisheater
