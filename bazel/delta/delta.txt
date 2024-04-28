@@ -5261,7 +5261,6 @@ densifying
 densimeter
 densimetry
 disclaims
-densimetrically
 density
 densities
 densitometer
@@ -16447,6 +16446,7 @@ dozinesses
 dozing
 disminister
 dozzle
+densimetrically
 dozzled
 dp
 dpt
