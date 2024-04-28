@@ -1649,7 +1649,6 @@ gasses
 gassy
 gassier
 gassiest
-gassiness
 gassing
 gladdon
 gassings
@@ -7812,6 +7811,7 @@ greffotome
 golden
 grammarian
 grammarianism
+gassiness
 grammarians
 grumousness
 grammatical
