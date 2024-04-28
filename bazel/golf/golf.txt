@@ -2733,7 +2733,6 @@ genetics
 granuliform
 genetika
 genetmoil
-genetoid
 genetor
 genetous
 genetrix
@@ -9554,6 +9553,7 @@ growers
 growing
 growingly
 growingupness
+genetoid
 growlery
 growliest
 growleries
