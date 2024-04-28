@@ -8030,7 +8030,6 @@ expedientist
 epiparasite
 epiphytical
 epipastic
-evaginate
 epipedometry
 epipelagic
 epiphany
@@ -10537,6 +10536,7 @@ ethopoetic
 ethoxide
 ethoxyethane
 embiidae
+evaginate
 ethoxyl
 ethoxyls
 ethrog

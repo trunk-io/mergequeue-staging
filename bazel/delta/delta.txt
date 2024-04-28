@@ -11659,7 +11659,6 @@ discostate
 discostomatous
 discotheque
 discotheques
-discothque
 discount
 discountable
 discountenance
@@ -17294,6 +17293,7 @@ dromometer
 dromon
 dromond
 dromonds
+discothque
 dromophobia
 dromornis
 dromos
