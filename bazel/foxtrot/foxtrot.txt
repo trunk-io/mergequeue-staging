@@ -554,6 +554,7 @@ fallible
 fractious
 fadedly
 fibroadipose
+flank
 fibrin
 fallibly
 falling
@@ -4966,7 +4967,6 @@ flanged
 flangeless
 flangers
 flangeway
-flank
 flankard
 flanked
 flanker
