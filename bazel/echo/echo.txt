@@ -4977,6 +4977,7 @@ endarterium
 endarteteria
 endaspidean
 endaze
+exhaustible
 endball
 endboard
 endbrains
@@ -12452,7 +12453,6 @@ exhaustedly
 exhaustedness
 exhauster
 exhaustibility
-exhaustible
 exhaustingly
 exhaustion
 exhaustive
