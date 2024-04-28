@@ -1465,7 +1465,6 @@ garnison
 garniture
 garon
 garoo
-garookuh
 garoter
 garotes
 gasts
@@ -3484,6 +3483,7 @@ gerodontic
 griddlecake
 gerodontics
 gerodontology
+garookuh
 geromorphism
 geronomite
 gerontal
