@@ -5647,7 +5647,6 @@ depicter
 denuclearize
 depicters
 depicting
-depiction
 depictions
 dilemma
 depictive
@@ -5750,6 +5749,7 @@ depolymerize
 depolymerized
 depolymerizing
 depolish
+depiction
 dragomanate
 depolished
 depolishes
