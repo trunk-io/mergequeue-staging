@@ -9166,7 +9166,6 @@ erythrogenic
 enarch
 erythroglucin
 erythrogonium
-erythrol
 erythrolysin
 erythrolysis
 erythrolytic
@@ -13331,6 +13330,7 @@ expounder
 episcenium
 expounding
 expounds
+erythrol
 expreme
 enrut
 embrittlement
