@@ -10902,7 +10902,6 @@ eumerogenesis
 eumeromorph
 eumeromorphic
 eumycete
-eumycetes
 eumycetic
 ectadenia
 eumitosis
@@ -11123,6 +11122,7 @@ endeared
 eurycephalic
 embog
 eurycephalous
+eumycetes
 electrophilically
 eurycerotidae
 eurychoric

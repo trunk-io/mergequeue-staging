@@ -3402,7 +3402,6 @@ germanization
 graphotype
 germanize
 germanized
-gnocchi
 germanly
 germanness
 galleine
@@ -6433,6 +6432,7 @@ goaves
 gob
 goback
 goban
+gnocchi
 gobang
 girl
 gobans
