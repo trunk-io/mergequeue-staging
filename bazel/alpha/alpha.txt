@@ -13984,7 +13984,6 @@ anoterite
 another
 anotherguess
 antacids
-anotherkins
 anotia
 anotropia
 amniatic
@@ -21916,6 +21915,7 @@ assortative
 assortatively
 assorted
 assortedness
+anotherkins
 assorter
 aromacity
 assorters
