@@ -4927,6 +4927,7 @@ forehood
 flameout
 flameouts
 flameproof
+formolite
 finaglers
 flameproofer
 flamer
@@ -8536,7 +8537,6 @@ flutework
 formnail
 forelimb
 formolit
-formolite
 formols
 formonitrile
 formosan
