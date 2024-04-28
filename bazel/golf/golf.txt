@@ -6268,6 +6268,7 @@ gillotype
 gnathobdellida
 gnathometer
 gnathonic
+gonid
 gnathonical
 gnathonically
 gnathonism
@@ -6833,7 +6834,6 @@ goniatitidae
 gadling
 gonycampsis
 greenlet
-gonid
 gonidangium
 gonydeal
 gonidial
