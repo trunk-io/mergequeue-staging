@@ -8895,7 +8895,6 @@ binormal
 binotic
 binotonous
 binous
-binoxide
 bins
 bint
 bintangor
@@ -17627,6 +17626,7 @@ belaites
 burghmaster
 burghmoot
 burghs
+binoxide
 burglar
 borides
 bagwash
