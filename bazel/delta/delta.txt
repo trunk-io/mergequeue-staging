@@ -3455,7 +3455,6 @@ disenthroning
 deflux
 defluxion
 defoamer
-defoamers
 defoaming
 defoams
 defocusses
@@ -7418,6 +7417,7 @@ deurwaarder
 difformity
 deus
 deutencephalic
+defoamers
 diaspora
 deutencephalon
 deuteragonist
