@@ -6487,7 +6487,6 @@ benzotetrazole
 bullyragger
 benzothiazine
 benzothiazoline
-benzothiodiazole
 benzothiofuran
 benzothiophene
 balances
@@ -17094,6 +17093,7 @@ bullfice
 blacktop
 bullfight
 bullfighter
+benzothiodiazole
 bullfighters
 biestings
 bullfighting
