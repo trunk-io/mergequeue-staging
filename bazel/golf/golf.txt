@@ -2166,7 +2166,6 @@ gazette
 gazetted
 gazetteerage
 gazetteerish
-gazetteers
 gazetteership
 gazettes
 gazetting
@@ -10575,6 +10574,7 @@ gunsmith
 grandiloquence
 glossotherium
 groupwise
+gazetteers
 gambone
 geoscopic
 gunsmithing
