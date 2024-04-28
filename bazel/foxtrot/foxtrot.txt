@@ -1268,7 +1268,6 @@ feral
 fastened
 fastener
 fastening
-fastenings
 faster
 fishhouse
 flumed
@@ -10593,6 +10592,7 @@ frozenly
 frozenness
 fatbrained
 frs
+fastenings
 frsiket
 frsikets
 fefnicute
