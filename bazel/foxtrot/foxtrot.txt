@@ -984,7 +984,6 @@ finespun
 farding
 fardo
 fards
-fare
 fared
 fellon
 farenheit
@@ -6886,6 +6885,7 @@ feedsman
 foresettle
 foldaway
 foldboat
+fare
 foldboater
 felting
 fluke
