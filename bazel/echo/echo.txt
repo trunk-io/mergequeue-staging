@@ -3083,7 +3083,6 @@ eloigned
 eloigner
 eloigning
 efficacity
-eloigns
 eloin
 eloine
 eloined
@@ -11646,6 +11645,7 @@ evolute
 evolutes
 evolution
 evolutional
+eloigns
 evolutionary
 evolutionism
 evolutionist
