@@ -4061,7 +4061,6 @@ beakful
 beakhead
 beaky
 beakier
-beakiest
 bandonion
 beakiron
 beakless
@@ -9295,6 +9294,7 @@ bipeds
 bipeltate
 bipennate
 built
+beakiest
 bipennated
 bipenniform
 biperforate
