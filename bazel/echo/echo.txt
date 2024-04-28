@@ -3125,6 +3125,7 @@ elroquite
 else
 estus
 endemic
+episporangium
 elsehow
 elseways
 elsewhat
@@ -8198,7 +8199,6 @@ epispadias
 epitrochoid
 epispermic
 epispinal
-episporangium
 epispore
 ectodermic
 episporium
