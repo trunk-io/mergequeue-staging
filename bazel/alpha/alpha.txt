@@ -6203,7 +6203,6 @@ agynic
 aginner
 aginners
 agynous
-agio
 agios
 agiotage
 agiotages
@@ -9728,6 +9727,7 @@ alveolariform
 alveolarly
 alveolars
 alveolate
+agio
 alveolated
 alveolation
 archdolt
