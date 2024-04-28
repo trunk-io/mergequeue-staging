@@ -3051,6 +3051,7 @@ elliptoid
 ellops
 epicyte
 ells
+enhalos
 elm
 elmer
 elmy
@@ -5885,7 +5886,6 @@ enhaloes
 enhaloing
 explees
 envenom
-enhalos
 ergates
 enhamper
 enhance
