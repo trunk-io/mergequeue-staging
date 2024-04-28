@@ -4363,7 +4363,6 @@ adpao
 adposition
 adpress
 alchornea
-adpromissor
 adrad
 adradial
 avo
@@ -7833,6 +7832,7 @@ aldus
 ale
 alea
 anatomicopathological
+adpromissor
 aleak
 aleatory
 aleatoric
