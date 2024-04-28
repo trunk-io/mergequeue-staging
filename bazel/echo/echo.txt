@@ -4248,7 +4248,6 @@ emprises
 emprison
 elinvar
 emprize
-emprizes
 emprosthotonic
 emprosthotonos
 epapophysial
@@ -11181,6 +11180,7 @@ eurythmical
 equisurface
 eurythmics
 eurythmies
+emprizes
 eurytomidae
 eurytopicity
 euroaquilo
