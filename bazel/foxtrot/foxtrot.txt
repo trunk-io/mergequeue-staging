@@ -1635,7 +1635,6 @@ favourite
 favourless
 favours
 favous
-favus
 favuses
 fulcrumage
 fawe
@@ -9325,6 +9324,7 @@ fraik
 fraile
 footpaces
 frailejon
+favus
 forecastleman
 frailero
 farmost
