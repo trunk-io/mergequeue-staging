@@ -6055,7 +6055,6 @@ enlighten
 enlightened
 enlightenedly
 enlightenedness
-enlightener
 enlighteners
 enlightening
 enlightenment
@@ -11090,6 +11089,7 @@ eupneas
 eupnoea
 eupnoeas
 extramarginal
+enlightener
 eupnoeic
 eupolyzoa
 eupolyzoan
