@@ -2519,7 +2519,6 @@ boldfacedness
 bareca
 bared
 barefaced
-barefacedly
 bombacaceous
 barefacedness
 bedrugging
@@ -11445,6 +11444,7 @@ blunged
 blunger
 blungers
 blunges
+barefacedly
 blunging
 blunk
 blunker
