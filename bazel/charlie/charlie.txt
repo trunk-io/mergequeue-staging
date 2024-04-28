@@ -9561,6 +9561,7 @@ checkoff
 checkout
 checkouts
 checkpoint
+christly
 checkpointed
 checkpointing
 coparallel
@@ -12342,7 +12343,6 @@ christina
 christine
 christless
 christlessness
-christly
 christlike
 confounders
 christlikeness
