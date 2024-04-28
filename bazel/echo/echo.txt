@@ -6982,7 +6982,6 @@ entozoologist
 eases
 entozoon
 entr
-existents
 entracte
 entradas
 entrail
@@ -8689,6 +8688,7 @@ equinoctial
 equinoctially
 exclamatorily
 educatability
+existents
 equinumerally
 ethrogs
 epidermatous
