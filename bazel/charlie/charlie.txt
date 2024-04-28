@@ -5918,7 +5918,6 @@ catholicate
 catholicisation
 catholicise
 catholicised
-catholicising
 catholicism
 catholicist
 catholicity
@@ -19758,6 +19757,7 @@ combination
 carbonise
 combinational
 combinations
+catholicising
 combinative
 combinator
 combinatory
