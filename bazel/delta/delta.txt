@@ -3165,7 +3165,6 @@ defeasible
 defeasibleness
 defeasive
 delphacid
-defeat
 defeatee
 defeater
 dissimulated
@@ -7683,6 +7682,7 @@ devisors
 devitalisation
 devitalise
 dephlogistication
+defeat
 devitalising
 devitalization
 daishikis
