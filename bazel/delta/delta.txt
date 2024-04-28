@@ -11143,7 +11143,6 @@ disastrousness
 disattaint
 disattire
 disattune
-disaugment
 disauthentic
 disauthenticate
 disauthorize
@@ -12275,6 +12274,7 @@ disharmonious
 decoke
 disharmonise
 disharmonised
+disaugment
 disharmonising
 disharmonism
 disharmonized
