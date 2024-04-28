@@ -2151,7 +2151,6 @@ fellowmen
 forebear
 fellowred
 fellows
-fellowship
 fellowshiping
 fellowshipped
 fellowshipping
@@ -3575,6 +3574,7 @@ filazer
 filbert
 filberts
 futurable
+fellowship
 filch
 filched
 fineries

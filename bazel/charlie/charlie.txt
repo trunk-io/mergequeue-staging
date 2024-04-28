@@ -4432,7 +4432,6 @@ carnic
 carnie
 carnied
 carnies
-carniferrin
 carnifex
 carnifexes
 carnify
@@ -25068,6 +25067,7 @@ cubicity
 coregnant
 coregonid
 coregonidae
+carniferrin
 coregonine
 coregonoid
 coregonus
