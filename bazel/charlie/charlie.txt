@@ -9992,6 +9992,7 @@ chequeen
 chequer
 chequered
 chequering
+composedly
 chequers
 chequerwise
 chequerwork
@@ -20875,7 +20876,6 @@ composal
 compose
 composed
 croupily
-composedly
 composedness
 composer
 cohog
