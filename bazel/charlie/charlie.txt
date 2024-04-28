@@ -12515,7 +12515,6 @@ chromolithographic
 chromomere
 chromomeric
 chromometer
-chromone
 corollas
 chromonema
 chromonemal
@@ -15130,6 +15129,7 @@ civilizational
 civilizationally
 civilizations
 civilizatory
+chromone
 civilize
 civilized
 civilizedness
