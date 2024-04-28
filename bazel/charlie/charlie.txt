@@ -6353,7 +6353,6 @@ caveman
 cavemen
 cavendish
 caver
-cavern
 cavernal
 cystein
 caverned
@@ -12193,6 +12192,7 @@ chrysid
 chrysidid
 chrysididae
 chrysin
+cavern
 cymbiform
 chrysippus
 chrysis
