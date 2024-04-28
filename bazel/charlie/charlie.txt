@@ -10205,6 +10205,7 @@ chevvy
 chew
 chewable
 chewbark
+cobloaf
 chewed
 curtate
 cheweler
@@ -17476,7 +17477,6 @@ cobles
 cobleskill
 cobless
 cravatted
-cobloaf
 cobnut
 cobnuts
 cactaceae
