@@ -3562,7 +3562,6 @@ embouchement
 embouchment
 embouchure
 embound
-erasable
 embourgeoisement
 eliminability
 embow
@@ -4298,6 +4297,7 @@ erythric
 emulator
 edificant
 emulatory
+erasable
 emulators
 economizers
 emulatress
