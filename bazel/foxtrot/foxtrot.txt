@@ -464,7 +464,6 @@ fakofo
 falafel
 falanaka
 falange
-falangism
 falangist
 falasha
 falcade
@@ -5623,6 +5622,7 @@ flighty
 forpit
 featherwise
 flightier
+falangism
 flightily
 flightiness
 flightless
