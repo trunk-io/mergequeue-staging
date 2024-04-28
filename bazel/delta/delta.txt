@@ -1204,7 +1204,6 @@ datafile
 desmodynia
 detergible
 dataflow
-datagram
 datakit
 datamation
 datana
@@ -16254,6 +16253,7 @@ downcried
 downcrying
 downcurve
 downcurved
+datagram
 downdale
 downdraft
 downdraught
