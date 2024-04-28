@@ -838,7 +838,6 @@ ectocardia
 euchromatin
 ectocarpaceae
 ectocarpaceous
-ectocarpales
 ectocarpic
 ectocarpous
 ectocarpus
@@ -8590,6 +8589,7 @@ eques
 equestrial
 empyreal
 epimysium
+ectocarpales
 equestrian
 equestrianism
 equestrianize

@@ -9936,7 +9936,6 @@ fretum
 fretways
 fretwise
 fretwork
-fretworks
 farragoes
 freud
 forksmith
@@ -11503,6 +11502,7 @@ fursemide
 foreglimpse
 fiord
 furstone
+fretworks
 finableness
 furthered
 furtherer
