@@ -1786,7 +1786,6 @@ debaters
 debates
 debating
 debatingly
-debatter
 debauch
 debauchedness
 debauchee
@@ -9937,6 +9936,7 @@ dimidiation
 diminish
 diminishable
 detriments
+debatter
 diminishableness
 diminisher
 diminishing
