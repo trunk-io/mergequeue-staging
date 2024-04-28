@@ -10112,7 +10112,6 @@ blackcods
 blackdamp
 blacked
 blackey
-blackeye
 blackeyes
 bugles
 blackened
@@ -12978,6 +12977,7 @@ bordrag
 bordrage
 bordroom
 bordun
+blackeye
 bordure
 bordured
 bordures
