@@ -2508,7 +2508,6 @@ canities
 canjac
 cank
 canker
-cankerberry
 cankerbird
 czechoslovakia
 cankereat
@@ -15336,6 +15335,7 @@ clambake
 clambakes
 clamber
 clamberer
+cankerberry
 clambering
 clambers
 clamcracker

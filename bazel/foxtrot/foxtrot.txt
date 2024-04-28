@@ -1983,7 +1983,6 @@ feedwater
 feeing
 feel
 feeler
-feelers
 feeless
 feely
 feelies
@@ -5545,6 +5544,7 @@ flexures
 fly
 flyable
 flyaway
+feelers
 flyback
 fruiting
 flybane
