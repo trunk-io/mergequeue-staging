@@ -1241,7 +1241,6 @@ gantsl
 ganza
 gynostemia
 gaol
-gaoler
 gaolering
 gaolerness
 gaolers
@@ -5404,6 +5403,7 @@ glyceraldehyde
 glycerate
 gametophyll
 geostrategist
+gaoler
 glyceria
 glyceric
 glyceridic
