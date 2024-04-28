@@ -3715,7 +3715,6 @@ carbonylate
 carbonylated
 carbonylating
 carbonylene
-carbonylic
 carbonyls
 carbonimeter
 carbonimide
@@ -10912,6 +10911,7 @@ chirapsia
 counteradvise
 chirarthritis
 chirata
+carbonylic
 chiriana
 chiricahua
 chiriguano
