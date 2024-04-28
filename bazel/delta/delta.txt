@@ -10550,7 +10550,6 @@ dipleurulas
 dacryadenalgia
 dipleurule
 diplex
-diplexer
 diplobacillus
 diplobacterium
 diploblastic
@@ -11479,6 +11478,7 @@ discombobulation
 discomedusae
 discomedusan
 discomedusoid
+diplexer
 discomfit
 discomfited
 discomfiter
