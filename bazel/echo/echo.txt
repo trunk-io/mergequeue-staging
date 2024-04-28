@@ -8644,7 +8644,6 @@ equiglacial
 ethnomaniac
 exanthemas
 equigranular
-equijacent
 equilater
 equilateral
 equilaterally
@@ -12427,6 +12426,7 @@ exfoliate
 exfoliated
 exfoliating
 exfoliation
+equijacent
 elpidite
 exfoliative
 egally
