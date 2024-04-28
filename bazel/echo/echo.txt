@@ -2377,7 +2377,6 @@ electrodissolution
 electroed
 electroencephalogram
 electroencephalograph
-electroencephalographical
 electroendosmose
 electroendosmosis
 electroendosmotic
@@ -9530,6 +9529,7 @@ eschatocol
 eschatological
 eschatologically
 eschatologist
+electroencephalographical
 epistemology
 eschaunge
 exploitations
