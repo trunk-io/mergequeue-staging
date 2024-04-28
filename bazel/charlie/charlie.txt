@@ -16570,6 +16570,7 @@ clogwheel
 charoset
 clogwyn
 clogwood
+contuses
 cloy
 cloyed
 cloyedness
@@ -23932,7 +23933,6 @@ conturb
 conturbation
 contuse
 contused
-contuses
 contusing
 contusion
 contusioned
