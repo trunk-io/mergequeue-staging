@@ -514,6 +514,7 @@ falerno
 faliscan
 falisci
 falk
+firmarius
 faut
 florets
 falkland
@@ -4289,7 +4290,6 @@ firmance
 firmans
 firmarii
 foundationally
-firmarius
 firmation
 firmed
 firmer
