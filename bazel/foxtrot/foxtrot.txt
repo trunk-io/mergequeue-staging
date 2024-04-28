@@ -2416,6 +2416,7 @@ ferguson
 fergusonite
 feria
 feriae
+forayers
 ferias
 fantods
 feridgi
@@ -7345,7 +7346,6 @@ foraging
 forayed
 fodientia
 forayer
-forayers
 functionality
 foraying
 foralite
