@@ -5451,7 +5451,6 @@ endromididae
 endrudge
 endrumpf
 electroballistic
-endshake
 endsheet
 endship
 edgier
@@ -6656,6 +6655,7 @@ enterokinase
 enterokinesia
 enterokinetic
 enterolysis
+endshake
 eddies
 exorability
 enterolith
