@@ -886,6 +886,7 @@ ectoparasitic
 ectoparasitica
 ectopatagia
 exceptioner
+erythrophore
 ergatomorphism
 ectopatagium
 ectophytic
@@ -2320,7 +2321,6 @@ electrochronometer
 enterochromaffin
 electrochronometric
 electrocystoscope
-erythrophore
 electrocoating
 electrocolloidal
 electrocontractility
