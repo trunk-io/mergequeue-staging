@@ -7314,6 +7314,7 @@ gossaniferous
 gossans
 gossard
 goldwork
+graphicly
 gossy
 gossip
 gossipdom
@@ -8162,7 +8163,6 @@ gulleting
 graphically
 graphicalness
 gratitude
-graphicly
 graphicness
 graphics
 graphidiaceae
