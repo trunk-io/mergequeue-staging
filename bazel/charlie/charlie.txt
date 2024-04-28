@@ -2326,7 +2326,6 @@ candy
 candid
 candida
 candidacy
-candidacies
 candidate
 cursoriness
 candidated
@@ -30017,6 +30016,7 @@ croute
 crouth
 croutons
 crow
+candidacies
 crowbait
 crowbar
 crowbars
