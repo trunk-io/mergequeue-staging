@@ -4508,7 +4508,6 @@ demiatheist
 demibarrel
 demibath
 demibeast
-demibelt
 demibob
 dossel
 demibrassart
@@ -14000,6 +13999,7 @@ daimon
 districting
 distriction
 districtly
+demibelt
 districts
 distringas
 distritbute
