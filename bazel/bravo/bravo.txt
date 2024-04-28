@@ -2128,7 +2128,6 @@ bankmen
 banknote
 bankrider
 bankroll
-bankrolling
 bankrolls
 bankrupcy
 bankrupt
@@ -11302,6 +11301,7 @@ blueback
 believers
 blueball
 blueballs
+bankrolling
 bluebead
 beguiled
 bluebeard
