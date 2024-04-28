@@ -2167,7 +2167,6 @@ donenesses
 decastere
 decastylar
 decastyle
-decastylos
 designatum
 decasualisation
 decasualise
@@ -3285,6 +3284,7 @@ deferrers
 deferring
 deferrization
 deferrize
+decastylos
 deferrized
 deferrizing
 defers
