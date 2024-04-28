@@ -239,6 +239,7 @@ gainage
 gainbirth
 gaincall
 gaincome
+gelandesprung
 getling
 generating
 gainer
@@ -2344,7 +2345,6 @@ gel
 gelada
 geladas
 gelandelaufer
-gelandesprung
 goldurns
 gelant
 gelasian
