@@ -3282,7 +3282,6 @@ basilinna
 basiliscan
 basiliscine
 basiliscus
-basilisks
 basilosauridae
 basilweed
 basimesostasis
@@ -14923,6 +14922,7 @@ breechloader
 breechloading
 breed
 breedable
+basilisks
 breedbate
 breeders
 breedy
