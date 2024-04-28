@@ -1387,7 +1387,6 @@ decongests
 daviesite
 davyne
 davis
-davit
 davits
 daw
 dawdy
@@ -15865,6 +15864,7 @@ dosimetry
 dosimetric
 dosimetrician
 dosimetries
+davit
 dosimetrist
 dosing
 dosinia
