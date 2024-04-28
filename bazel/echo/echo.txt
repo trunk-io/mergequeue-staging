@@ -6542,7 +6542,6 @@ entail
 entailable
 epinasties
 entailed
-enteroptosis
 entailer
 evangelized
 entailment
@@ -6552,6 +6551,7 @@ ental
 eisegeses
 entally
 entameba
+enteroptosis
 energies
 entamoeba
 elaeomargaric
