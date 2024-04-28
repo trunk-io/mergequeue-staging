@@ -4217,7 +4217,6 @@ deliverance
 delivered
 dressmaker
 deliverer
-disincorporate
 deliverers
 deliveress
 deliveryman
@@ -18392,6 +18391,7 @@ duplicious
 duplicipennate
 duplicitas
 duplicity
+disincorporate
 duplicitous
 duplicitously
 duplify
