@@ -5217,7 +5217,6 @@ entocuniform
 endometria
 endometrial
 endometriosis
-endometritis
 endomycetaceae
 endomictic
 endomysium
@@ -8622,6 +8621,7 @@ embranglement
 equidistant
 equidistantial
 equidistantly
+endometritis
 equidistribution
 equidivision
 elaenia
