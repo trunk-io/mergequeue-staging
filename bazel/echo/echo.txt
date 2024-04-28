@@ -9754,7 +9754,6 @@ espanol
 espanoles
 espantoon
 esparcet
-esparto
 emanates
 espavel
 espec
@@ -13473,6 +13472,7 @@ exsertile
 exserting
 exsertion
 exsheath
+esparto
 exsibilation
 exsiccant
 exsiccatae
