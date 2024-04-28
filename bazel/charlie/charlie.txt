@@ -6011,6 +6011,7 @@ catskinner
 catslide
 catso
 catsos
+congees
 catspaw
 catspaws
 catstane
@@ -22224,7 +22225,6 @@ conged
 congee
 congeed
 congeeing
-congees
 congelation
 congelative
 congelifract

@@ -7917,6 +7917,7 @@ epileptics
 epileptiform
 epileptogenic
 epileptoid
+expunction
 epileptology
 epileptologist
 entomeric
@@ -13396,7 +13397,6 @@ ewer
 earlyish
 expulsive
 expulsory
-expunction
 expunge
 expungeable
 expunged
