@@ -5182,7 +5182,6 @@ endogenous
 endogenously
 endogens
 extralimital
-endognath
 endognathion
 endolabyrinthitis
 endolaryngeal
@@ -6302,6 +6301,7 @@ ergots
 enrollee
 emissions
 exhalant
+endognath
 enrollees
 enroller
 expansionary
