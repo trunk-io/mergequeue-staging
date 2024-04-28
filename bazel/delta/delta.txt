@@ -2691,7 +2691,6 @@ decongested
 decongesting
 decongestion
 decongestive
-deconsecrate
 deconsecrated
 deconsecrating
 decoct
@@ -11655,6 +11654,7 @@ dep
 discostate
 discostomatous
 discotheque
+deconsecrate
 discotheques
 discount
 discountable
