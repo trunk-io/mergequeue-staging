@@ -1917,7 +1917,6 @@ diegueno
 debtors
 debtorship
 debts
-debugger
 debuggers
 decide
 debugging
@@ -18039,6 +18038,7 @@ dulness
 dulnesses
 dongs
 dulocracy
+debugger
 dulosis
 dulotic
 dulseman
