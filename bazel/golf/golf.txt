@@ -5179,6 +5179,7 @@ glareproof
 geswarp
 glareworm
 glary
+geothlypis
 grazer
 gastronome
 gyrose
@@ -9526,7 +9527,6 @@ grouthead
 goondie
 gazaboes
 grawls
-geothlypis
 groutiest
 grouting
 groutite
