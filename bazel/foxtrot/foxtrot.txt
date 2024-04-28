@@ -1787,6 +1787,7 @@ featherstitching
 feathertop
 featherway
 featherweight
+foreignness
 featherweights
 fictioneering
 featherwing
@@ -7766,7 +7767,6 @@ foreignership
 foreignism
 foreignize
 foreignly
-foreignness
 foreigns
 foreimagination
 fogeys
