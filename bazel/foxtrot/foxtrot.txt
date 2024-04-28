@@ -1696,7 +1696,6 @@ feaking
 fogmen
 feal
 fealty
-fearable
 fearbabe
 fimbles
 fusillade
@@ -9430,6 +9429,7 @@ frankfold
 frankfort
 falsidical
 frankfurt
+fearable
 frankheartedly
 frankheartness
 fiddlestring

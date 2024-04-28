@@ -8639,7 +8639,6 @@ billetty
 broadband
 billetwood
 billfish
-billfishes
 bouillons
 billfolds
 billhead
@@ -15124,6 +15123,7 @@ brickbatted
 brickbatting
 bricked
 brickel
+billfishes
 bricken
 bricker
 brickfield
