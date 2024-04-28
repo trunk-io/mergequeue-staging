@@ -931,7 +931,6 @@ ectozoa
 ectozoan
 ectozoans
 ectozoon
-earthfast
 ectrodactyly
 ectrodactylia
 eleaticism
@@ -12289,6 +12288,7 @@ entangledly
 elric
 extravagence
 executiveship
+earthfast
 enfect
 executonis
 executor
