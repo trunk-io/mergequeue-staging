@@ -1357,6 +1357,7 @@ gardenmaking
 gardens
 garderobe
 gardeviance
+graphite
 gardevin
 gardevisure
 gardy
@@ -8166,7 +8167,6 @@ graphiola
 graphiology
 graphiologist
 graphis
-graphite
 graphiter
 graphites
 graphitic
