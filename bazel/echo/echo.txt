@@ -9390,7 +9390,6 @@ erubescent
 eventerate
 erubescite
 eruca
-eruciform
 erucin
 erucivorous
 eruct
@@ -10581,6 +10580,7 @@ etiolize
 etiology
 etiological
 exteriorised
+eruciform
 etiologist
 etiologue
 engrams
