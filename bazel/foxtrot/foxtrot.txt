@@ -5312,6 +5312,7 @@ fleabanes
 frickle
 fleabite
 fleabites
+fossilify
 fleabug
 fleabugs
 fleahopper
@@ -8869,7 +8870,6 @@ fleabag
 fossildom
 fossiled
 fossiliferous
-fossilify
 fossilification
 fossilisable
 fossilised
