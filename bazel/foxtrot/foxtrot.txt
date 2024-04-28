@@ -8266,6 +8266,7 @@ forge
 forinsec
 forgeability
 forgeable
+fused
 forged
 forgeful
 forger
@@ -11549,7 +11550,6 @@ fuscous
 fuse
 fuseau
 fuseboard
-fused
 fusee
 fusees
 fusel
