@@ -4607,7 +4607,6 @@ gipsyfy
 gypsyfy
 glycolipide
 gleefulness
-gasterophilus
 gipsyhead
 gipsyhood
 gypsyhood
@@ -9650,6 +9649,7 @@ gelosin
 gisla
 grueler
 gruelers
+gasterophilus
 grueling
 gruelingly
 gruelings
