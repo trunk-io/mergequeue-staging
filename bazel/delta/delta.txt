@@ -5221,6 +5221,7 @@ denotational
 denotationally
 denotative
 denotativeness
+designment
 dratted
 denotatum
 denote
@@ -6665,7 +6666,6 @@ designing
 designingly
 designless
 designlessly
-designment
 desyl
 desilicate
 desilicated
