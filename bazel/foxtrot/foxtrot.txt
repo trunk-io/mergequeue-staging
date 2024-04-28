@@ -5542,6 +5542,7 @@ flexuousness
 flexura
 flexure
 flexured
+flingy
 flexures
 fly
 flyable
@@ -11729,7 +11730,6 @@ fuzees
 fuzes
 facingly
 ferfathmur
-flingy
 fuzils
 fuzing
 fuzz
