@@ -2143,7 +2143,6 @@ acetonaphthone
 acetonation
 acetone
 acetonemia
-acetonemic
 acetones
 acetonic
 acetonyl
@@ -2302,6 +2301,7 @@ achlamydate
 autonephrectomy
 achlamydeous
 achlorhydric
+acetonemic
 achloropsia
 actors
 achluophobia
