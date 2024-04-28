@@ -11842,7 +11842,6 @@ conics
 choosier
 choosiness
 choosing
-choosingly
 chop
 chopa
 chopas
@@ -28266,6 +28265,7 @@ crassities
 crassitude
 cheesecakes
 crassly
+choosingly
 crassness
 crassula
 crassulaceous
