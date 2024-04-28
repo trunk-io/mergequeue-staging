@@ -3303,6 +3303,7 @@ basing
 basins
 bandaite
 basioccipital
+bearability
 basion
 bepelt
 bromide
@@ -4130,7 +4131,6 @@ beanstalks
 bibbs
 beaproned
 bear
-bearability
 bearableness
 bearably
 benzolate

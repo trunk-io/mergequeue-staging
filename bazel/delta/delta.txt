@@ -1990,7 +1990,6 @@ decagynous
 decagon
 decagonal
 decagonally
-decagons
 decagram
 decagramme
 decahedra
@@ -15443,6 +15442,7 @@ donatory
 donatories
 donators
 donatress
+decagons
 donax
 doncella
 doncy
