@@ -4261,7 +4261,6 @@ emptiable
 emptied
 emptier
 empties
-extratelluric
 etiolin
 emptiest
 emptyhearted
@@ -8411,6 +8410,7 @@ epitrachelia
 epitrachelion
 epitria
 epitrichial
+extratelluric
 epitrite
 epitrochlea
 epitrope
