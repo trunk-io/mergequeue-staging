@@ -2747,6 +2747,7 @@ cantator
 cantatory
 cantatrice
 cantatrices
+communer
 chestily
 cantatrici
 cantboard
@@ -20340,7 +20341,6 @@ communard
 chorographies
 commune
 communed
-communer
 communicability
 communicable
 cacochymia
