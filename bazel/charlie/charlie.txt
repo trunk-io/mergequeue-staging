@@ -7875,7 +7875,6 @@ cesiums
 cespititious
 cespititous
 cespitose
-cespitosely
 cespitulose
 cess
 cessant
@@ -25584,6 +25583,7 @@ corporateness
 corporation
 corporational
 corporationer
+cespitosely
 corporationism
 corporations
 corners
