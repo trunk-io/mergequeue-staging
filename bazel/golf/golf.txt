@@ -8108,6 +8108,7 @@ granuloblast
 granulocyte
 gcd
 granulocytic
+griffinish
 granulocytopoiesis
 granuloma
 granulomatosis
@@ -8951,7 +8952,6 @@ griffin
 geyserine
 griffinesque
 griffinhood
-griffinish
 griffinism
 glagah
 griffins
