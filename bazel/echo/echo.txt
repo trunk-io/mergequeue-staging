@@ -2108,7 +2108,6 @@ elasticness
 elasticum
 elastin
 encompassed
-elastins
 elastivity
 elastomer
 elastomeric
@@ -13953,6 +13952,7 @@ extrascholastic
 eavesdropped
 extraschool
 extrascientific
+elastins
 exculpates
 extrascriptural
 extrascripturality
