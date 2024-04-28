@@ -2671,7 +2671,6 @@ decomposer
 decomposers
 decomposes
 dehache
-decomposing
 decomposition
 decapod
 decompositional
@@ -7095,6 +7094,7 @@ desulfurising
 desulfurization
 dinotheriidae
 diuretically
+decomposing
 desulfurize
 desulfurized
 desulfurizer
