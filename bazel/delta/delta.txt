@@ -5489,7 +5489,6 @@ deorsum
 deorsumvergence
 deorsumversion
 deorusumduction
-deperditely
 deossify
 deossification
 deota
@@ -11189,6 +11188,7 @@ disbars
 disbase
 disbecome
 disbelief
+deperditely
 disbeliefs
 disbelieve
 disbeliever
