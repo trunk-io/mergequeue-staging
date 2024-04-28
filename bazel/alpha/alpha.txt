@@ -5519,7 +5519,6 @@ afft
 assumption
 affuse
 arctitude
-affusedaffusing
 affusion
 affusions
 afghanets
@@ -7658,6 +7657,7 @@ ameerates
 alchemically
 alchemies
 alchemised
+affusedaffusing
 actinozoal
 alchemising
 alchemister
