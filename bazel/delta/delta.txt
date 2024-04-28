@@ -4135,7 +4135,6 @@ delimitize
 delimitized
 delimitizing
 delimits
-deline
 delineable
 disharmonize
 delineament
@@ -15918,6 +15917,7 @@ detestably
 dote
 doted
 doter
+deline
 doters
 dotes
 dipterist
