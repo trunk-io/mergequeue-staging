@@ -6625,6 +6625,7 @@ ah
 asthenias
 aha
 ahab
+auras
 attemper
 ahamkara
 anthobiology
@@ -23498,7 +23499,6 @@ aurang
 aurantia
 aurantium
 aurar
-auras
 aurata
 aurate
 aurated
