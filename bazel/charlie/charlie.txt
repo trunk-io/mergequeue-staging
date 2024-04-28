@@ -4718,7 +4718,6 @@ contrastimulation
 carrie
 carried
 carryed
-carrier
 carriers
 carries
 carrigeen
@@ -26285,6 +26284,7 @@ costovertebral
 costoxiphoid
 costraight
 costrels
+carrier
 costs
 costula
 costulation

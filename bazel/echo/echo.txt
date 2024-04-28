@@ -2919,6 +2919,7 @@ eliminable
 eliminand
 epistomal
 eliminant
+epistolizer
 eliminated
 eliminating
 elimination
@@ -8260,7 +8261,6 @@ epistolise
 epistolised
 epistolising
 epistolization
-epistolizer
 epistolizing
 epistolography
 epistolographic
