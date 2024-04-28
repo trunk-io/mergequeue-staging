@@ -3219,7 +3219,6 @@ caprate
 caprella
 caprellidae
 caprelline
-capreol
 capreolar
 capreolary
 correctingly
@@ -29634,6 +29633,7 @@ crocodility
 crocodiloid
 coriin
 crocodilus
+capreol
 crocodylus
 crocoisite
 crocoite
