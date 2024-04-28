@@ -1347,7 +1347,6 @@ effervescently
 effervesces
 effervescing
 extrovertedness
-effervescingly
 effervescive
 effete
 effeteness
@@ -11777,6 +11776,7 @@ exalter
 exalters
 exalting
 exaltment
+effervescingly
 ecdysial
 exalts
 exam
