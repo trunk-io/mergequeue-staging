@@ -291,7 +291,6 @@ dagobas
 dagomba
 dagos
 dagswain
-daguerrean
 daguerreotype
 daguerreotyped
 daguerreotyper
@@ -8891,6 +8890,7 @@ diesels
 dichlorobenzene
 dichlorodifluoromethane
 dichlorodiphenyltrichloroethane
+daguerrean
 dichlorohydrin
 dichloromethane
 dichlorvos
