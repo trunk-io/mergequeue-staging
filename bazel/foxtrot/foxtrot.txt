@@ -5925,7 +5925,6 @@ floyt
 flokite
 floatmen
 ferter
-fondish
 fonly
 flon
 flong
@@ -7509,6 +7508,7 @@ fordrive
 fords
 fordull
 fumattoria
+fondish
 fibreware
 foreacquaint
 foreact
