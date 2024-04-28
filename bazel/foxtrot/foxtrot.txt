@@ -7934,7 +7934,6 @@ forereaching
 foreread
 forereading
 forerecited
-frondless
 forereckon
 forerehearsed
 forerequest
@@ -11048,6 +11047,7 @@ furnitureless
 frowners
 fumidity
 fumiduct
+frondless
 fumier
 fumiest
 fumify
