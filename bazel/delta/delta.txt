@@ -10323,7 +10323,6 @@ diopsidae
 diopside
 diopsides
 diopsidic
-diopsimeter
 diductively
 dioptase
 dioptases
@@ -11171,6 +11170,7 @@ disband
 disbanded
 disbanding
 disbandment
+diopsimeter
 disbandments
 disbands
 disbar
