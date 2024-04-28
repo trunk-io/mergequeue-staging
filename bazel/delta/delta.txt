@@ -1326,7 +1326,6 @@ daundering
 dauner
 daunt
 daunted
-diallage
 daunters
 demissive
 daunting
@@ -15589,6 +15588,7 @@ doorhawk
 dooring
 doorjamb
 doorjambs
+diallage
 doorkeeper
 doorknob
 doorknobs
