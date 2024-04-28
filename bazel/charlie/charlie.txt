@@ -16713,6 +16713,7 @@ clothesyard
 clothesless
 clothesline
 clothesman
+creaser
 clothesmen
 clothespin
 clothespins
@@ -28434,7 +28435,6 @@ creant
 crease
 creased
 creaseless
-creaser
 creasers
 creases
 creasy
