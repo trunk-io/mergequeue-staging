@@ -3149,7 +3149,6 @@ defaulted
 decontaminates
 defaulters
 defaulting
-defaultless
 defaults
 defaulture
 defeasance
@@ -5410,6 +5409,7 @@ denudational
 denudations
 decerniture
 dribbling
+defaultless
 denudative
 denudatory
 denude
