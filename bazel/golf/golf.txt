@@ -7993,7 +7993,6 @@ grittle
 guttersnipish
 granes
 granet
-globus
 ghess
 grange
 galleon
@@ -10220,6 +10219,7 @@ guiling
 guillemet
 gynecophore
 guillemot
+globus
 guillermo
 guillevat
 guilloche
