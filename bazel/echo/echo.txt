@@ -6369,7 +6369,6 @@ enseel
 enseem
 ensellure
 ensembles
-ensepulcher
 ensepulchered
 ensepulchering
 ensepulchre
@@ -14061,6 +14060,7 @@ extremuma
 extricable
 engroove
 extricably
+ensepulcher
 extricate
 extricated
 extricates
