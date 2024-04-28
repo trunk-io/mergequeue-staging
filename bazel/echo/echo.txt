@@ -2934,6 +2934,7 @@ eliminatory
 eliminators
 elymus
 eo
+emplore
 elinguate
 elinguated
 elinguating
@@ -4208,7 +4209,6 @@ electroviscous
 employments
 employs
 ensured
-emplore
 emplume
 emplunge
 empocket
