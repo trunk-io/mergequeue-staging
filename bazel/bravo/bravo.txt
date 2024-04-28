@@ -7059,7 +7059,6 @@ besmoking
 besmooth
 besmoothed
 besmoothing
-besmooths
 brattishing
 besmother
 bannermen
@@ -17911,6 +17910,7 @@ burthening
 burthens
 burthensome
 burton
+besmooths
 burtonization
 burtonize
 burtons
