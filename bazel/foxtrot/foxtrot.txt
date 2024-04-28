@@ -7455,7 +7455,6 @@ forcarve
 forcat
 force
 forceable
-forced
 fishwife
 forceful
 forcefully
@@ -9377,6 +9376,7 @@ franc
 france
 frances
 franchise
+forced
 franchised
 franchisee
 franchisees
