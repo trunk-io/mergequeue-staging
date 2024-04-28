@@ -2412,6 +2412,7 @@ decime
 decimestrial
 decimeter
 decimeters
+duty
 decimolar
 daysman
 dangering
@@ -18600,7 +18601,6 @@ diact
 duteousness
 dinergate
 deairing
-duty
 dutiability
 dutied
 dechoralize
