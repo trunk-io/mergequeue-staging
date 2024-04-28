@@ -4437,7 +4437,6 @@ adscripts
 adsessor
 adsheart
 actinobranch
-adsignify
 adsignification
 adsmith
 adsmithing
@@ -6374,6 +6373,7 @@ aflight
 anathemize
 agonistical
 agonistically
+adsignify
 agonistics
 agonists
 agonium
