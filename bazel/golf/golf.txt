@@ -3676,7 +3676,6 @@ getting
 gettings
 getup
 getups
-gebang
 gaffsail
 geullah
 geumatophobia
@@ -5396,6 +5395,7 @@ glib
 glibber
 glibbery
 gastromyxorrhea
+gebang
 glibly
 glibness
 gotchy
