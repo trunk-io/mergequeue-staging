@@ -1464,7 +1464,6 @@ dikaryophasic
 ddt
 dea
 deaccession
-deaccessions
 deacetylated
 dirl
 deacetylation
@@ -11803,6 +11802,7 @@ disculpate
 disculpatory
 discumb
 dissenterism
+deaccessions
 discumber
 discurre
 discurrent
