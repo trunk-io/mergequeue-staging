@@ -4133,7 +4133,6 @@ fire
 firearm
 fireback
 favourably
-frugal
 fireball
 fireballs
 firebase
@@ -8556,6 +8555,7 @@ formulaic
 funeral
 formulaically
 formulary
+frugal
 formularisation
 formularise
 formularised
