@@ -6718,7 +6718,6 @@ enterpillar
 enterprise
 euphratean
 essenianism
-enterprised
 enterprising
 enterprisingness
 erer
@@ -8567,6 +8566,7 @@ equation
 equational
 equationist
 equations
+enterprised
 essentia
 equative
 ekphorize
