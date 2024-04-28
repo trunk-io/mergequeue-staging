@@ -18874,7 +18874,6 @@ archeologian
 archeologically
 archeologist
 archeopteryx
-archeostome
 archeozoic
 anteport
 archer
@@ -25136,6 +25135,7 @@ axlesmith
 axletree
 axletrees
 axmaker
+archeostome
 axmaking
 attitudinarianism
 axman
