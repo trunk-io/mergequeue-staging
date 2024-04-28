@@ -5693,7 +5693,6 @@ findable
 flypaper
 ferns
 flypapers
-flypast
 flypasts
 flipe
 flype
@@ -7335,6 +7334,7 @@ foppish
 fops
 fopship
 for
+flypast
 fora
 forage
 foraged
