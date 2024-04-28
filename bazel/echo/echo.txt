@@ -1162,7 +1162,6 @@ ecchymose
 edrioasteroidea
 edriophthalmatous
 edriophthalmian
-edriophthalmic
 eds
 educ
 educabilia
@@ -7362,6 +7361,7 @@ eozoonal
 ep
 epa
 enricher
+edriophthalmic
 epacme
 epacrid
 engird
