@@ -3469,7 +3469,6 @@ adaptor
 adaptors
 adapts
 adar
-aglobulia
 adarbitrium
 albitite
 adarme
@@ -13784,6 +13783,7 @@ anteri
 anodic
 anodically
 anodyne
+aglobulia
 anodynes
 anodynia
 anodynic
