@@ -11173,7 +11173,6 @@ blossomy
 blossomless
 blossoms
 blot
-blotch
 blotched
 blotches
 banishments
@@ -15207,6 +15206,7 @@ bridged
 bridgehead
 bridgeheads
 ballgames
+blotch
 bridgeless
 bridgelike
 bridgemaking
