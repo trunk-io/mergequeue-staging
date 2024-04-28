@@ -18531,6 +18531,7 @@ coif
 coifed
 coiffed
 coiffes
+crofts
 coiffeur
 coiffeurs
 coiffeuse
@@ -29650,7 +29651,6 @@ crofterization
 cornucopiate
 crofterize
 crofters
-crofts
 croh
 croy
 croyden
