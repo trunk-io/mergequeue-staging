@@ -729,6 +729,7 @@ gallowsward
 galls
 goatherds
 gallstone
+governorships
 gallstones
 galluot
 goosey
@@ -8142,7 +8143,6 @@ germander
 grapheme
 graphemes
 graphemic
-governorships
 graphemically
 graphemics
 graphy
