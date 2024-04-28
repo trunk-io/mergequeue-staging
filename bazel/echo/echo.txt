@@ -1962,7 +1962,6 @@ ejectively
 ejectivity
 ejector
 ejectors
-ejects
 ejectum
 ejicient
 exonship
@@ -14047,6 +14046,7 @@ extremal
 extreme
 extremeless
 extremely
+ejects
 extremer
 extremes
 ectoprocta
