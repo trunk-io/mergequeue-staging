@@ -8487,7 +8487,6 @@ biogenous
 bilabe
 bilabial
 bilabials
-bilabiate
 bilaciniate
 bilayer
 bookmen
@@ -8677,6 +8676,7 @@ billyo
 billion
 billionaire
 bartram
+bilabiate
 billionaires
 beglue
 billionism
