@@ -5982,7 +5982,6 @@ catocarthartic
 catochus
 catoctin
 catodon
-catodont
 catogenic
 catoism
 catonian
@@ -15216,6 +15215,7 @@ centerboard
 cladodus
 critters
 cladogenesis
+catodont
 cladogenetic
 chillness
 cladogenetically
