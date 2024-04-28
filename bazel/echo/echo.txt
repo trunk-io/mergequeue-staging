@@ -4701,7 +4701,6 @@ encyclopaedical
 encyclopaedism
 encyclopaedist
 encyclopedia
-encyclopediac
 encyclopediacal
 encyclopedial
 encyclopedian
@@ -9888,6 +9887,7 @@ essie
 essling
 essoign
 essoin
+encyclopediac
 essoined
 euplastic
 essoinee
