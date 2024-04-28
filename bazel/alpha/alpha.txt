@@ -14378,7 +14378,6 @@ antetypes
 anteva
 antevenient
 anteversion
-antevert
 anteverted
 apasttra
 anteverting
@@ -19404,6 +19403,7 @@ areolated
 areolation
 areole
 areoles
+antevert
 areolet
 areology
 areologic
