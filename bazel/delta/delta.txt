@@ -15781,7 +15781,6 @@ dorsally
 dorsalmost
 dorsals
 dorsalward
-dorsalwards
 dorse
 dorsel
 dorser
@@ -15883,6 +15882,7 @@ dosser
 dioeciously
 dosseret
 dosserets
+dorsalwards
 derotrematous
 dossers
 dinornithic
