@@ -6254,7 +6254,6 @@ enquarter
 enqueue
 enqueued
 enqueues
-exopterygota
 enquire
 enquired
 enquiry
@@ -8478,6 +8477,7 @@ eponymism
 eponymist
 eponymous
 eponyms
+exopterygota
 eponymus
 epoophoron
 epop
