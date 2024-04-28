@@ -6558,6 +6558,7 @@ cedrus
 cedula
 cedulas
 cedule
+compartmentalizing
 ceduous
 cee
 ceennacuelum
@@ -20540,7 +20541,6 @@ compartition
 compartment
 compartmentalization
 compartmentalizes
-compartmentalizing
 compartmentally
 compartmentation
 circinus
