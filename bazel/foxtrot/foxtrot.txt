@@ -1446,6 +1446,7 @@ fatnesses
 furcular
 fats
 fatsia
+flashness
 fatalize
 fatsos
 fatstock
@@ -5082,7 +5083,6 @@ flashlights
 fluorinating
 fundraise
 forellenstein
-flashness
 fable
 flashover
 flashtester
