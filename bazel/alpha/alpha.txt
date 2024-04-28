@@ -9757,7 +9757,6 @@ alvissmal
 antiphlogistin
 alvite
 alway
-always
 alwise
 alwite
 alzheimer
@@ -23405,6 +23404,7 @@ augustal
 augustan
 auguste
 auguster
+always
 augustest
 augusti
 augustin
