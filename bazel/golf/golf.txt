@@ -3274,7 +3274,6 @@ geotactically
 geotaxes
 geotaxy
 gulches
-gneissic
 geotaxis
 geotechnic
 gimmicks
@@ -8748,6 +8747,7 @@ greeted
 ginward
 greeter
 groff
+gneissic
 greetingly
 greets
 greeve
