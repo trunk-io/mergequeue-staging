@@ -4195,7 +4195,6 @@ bearward
 bearwood
 bearwoods
 bearwort
-beastbane
 beastdom
 beasthood
 beasties
@@ -5593,6 +5592,7 @@ bela
 belabor
 belabored
 belaboring
+beastbane
 belabors
 belabour
 belabours
