@@ -13017,6 +13017,7 @@ dendrodus
 dispersals
 dispersant
 disperse
+dorize
 dispersed
 dispersedelement
 dispersedye
@@ -15717,7 +15718,6 @@ dorippid
 doris
 densitometry
 dorism
-dorize
 dorlach
 dorm
 dormancies
