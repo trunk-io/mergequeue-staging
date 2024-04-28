@@ -4741,7 +4741,6 @@ girned
 girnie
 girning
 gathering
-girns
 gyro
 gyrocar
 gelid
@@ -6113,6 +6112,7 @@ genealogy
 gluelikeness
 gluemaker
 ganta
+girns
 gluepot
 gluers
 guldengroschen
