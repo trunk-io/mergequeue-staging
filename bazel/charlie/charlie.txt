@@ -4700,7 +4700,6 @@ carrel
 carrells
 carrels
 carreta
-carretera
 carreton
 carretta
 carri
@@ -5465,6 +5464,7 @@ catalinite
 catalyse
 catalyses
 catalysis
+carretera
 catalyst
 catalysts
 catalyte
