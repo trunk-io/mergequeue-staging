@@ -16756,7 +16756,6 @@ dratchell
 drate
 drats
 dratting
-draught
 diathermometer
 draughtboard
 draughted
@@ -17090,6 +17089,7 @@ driftages
 driftbolt
 drifted
 drifter
+draught
 drifters
 driftfish
 divestiture
