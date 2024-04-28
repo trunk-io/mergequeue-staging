@@ -6786,7 +6786,6 @@ eveners
 endolithic
 enthralled
 enthralling
-enthrallingly
 enthrallment
 enthrallments
 enthralls
@@ -8201,6 +8200,7 @@ episodial
 episodic
 episodical
 episodically
+enthrallingly
 episomal
 episomally
 episome
