@@ -4595,6 +4595,7 @@ gypseian
 gypseous
 gipser
 gypsy
+gourded
 gipsydom
 gutterlike
 gipsied
@@ -7427,7 +7428,6 @@ grigri
 gourami
 gourd
 gourde
-gourded
 gourdes
 gristmiller
 gourdy

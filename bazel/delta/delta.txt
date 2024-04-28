@@ -9462,7 +9462,6 @@ digestibility
 digestible
 digestibleness
 digestibly
-digestif
 digesting
 digestion
 digestional
@@ -11512,6 +11511,7 @@ discommodiousness
 discommodity
 denary
 discommodities
+digestif
 declaratives
 discommoned
 dacryocystoblennorrhea
