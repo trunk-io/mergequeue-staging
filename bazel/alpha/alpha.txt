@@ -6075,7 +6075,6 @@ agglutinationist
 agglutinations
 agglutinative
 agglutinatively
-agglutinin
 agglutinins
 agglutinize
 agglutinogen
@@ -19300,6 +19299,7 @@ ardass
 ardassine
 ardeae
 ardeb
+agglutinin
 ardebs
 ardelia
 ardelio
