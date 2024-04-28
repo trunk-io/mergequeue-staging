@@ -3943,7 +3943,6 @@ finecomb
 fined
 finedrawing
 fineer
-fineish
 fineleaf
 fineless
 fineness
@@ -8138,6 +8137,7 @@ fibromyotomy
 foretellers
 foretelling
 foretells
+fineish
 forethink
 forethinking
 forethought
