@@ -2587,7 +2587,6 @@ genarch
 genarcha
 genarchaship
 gendarmery
-geobotanical
 gendarmes
 gender
 genderless
@@ -4884,6 +4883,7 @@ gith
 gitksan
 gravies
 grapewort
+geobotanical
 gigantical
 gytling
 gitonin
