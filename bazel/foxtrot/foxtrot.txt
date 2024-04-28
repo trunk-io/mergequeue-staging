@@ -6166,7 +6166,6 @@ flotter
 filletlike
 flounce
 flounces
-feracity
 flouncy
 flounciest
 flouncing
@@ -6540,6 +6539,7 @@ fluotantalic
 fluotitanic
 featherlight
 fluphenazine
+feracity
 flurn
 flurr
 flurried
