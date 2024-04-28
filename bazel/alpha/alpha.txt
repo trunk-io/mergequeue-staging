@@ -6604,7 +6604,6 @@ agudist
 ague
 aguey
 aguelike
-agueproof
 agues
 agueweeds
 aguglia
@@ -7992,6 +7991,7 @@ angara
 aleutic
 aleutite
 alevin
+agueproof
 alewhap
 amblycephalus
 alewife
