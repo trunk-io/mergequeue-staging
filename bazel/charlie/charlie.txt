@@ -525,6 +525,7 @@ cadmiums
 cadmus
 cadouk
 cadrans
+coercer
 cadre
 cadres
 cads
@@ -18141,7 +18142,6 @@ coerced
 coercement
 coercend
 coercends
-coercer
 coercers
 coerces
 coercibility

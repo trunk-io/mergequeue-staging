@@ -2971,6 +2971,7 @@ barrelmaker
 barrelmaking
 barrels
 barrelsful
+brigantines
 barrelwise
 barren
 barrenest
@@ -15297,7 +15298,6 @@ boccis
 brigantes
 brigantia
 brigantinebrigantines
-brigantines
 brigbote
 brigetty
 beliquoring
