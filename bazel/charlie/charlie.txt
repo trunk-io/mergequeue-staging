@@ -3093,6 +3093,7 @@ casteisms
 capitated
 capitatim
 capitation
+clangs
 capitatum
 capite
 capiteaux
@@ -15414,7 +15415,6 @@ clangors
 clangour
 clangouring
 clangours
-clangs
 clangula
 clanjamfray
 clanjamfrey
