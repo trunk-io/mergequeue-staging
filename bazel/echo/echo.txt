@@ -7773,7 +7773,6 @@ epidermous
 epiderms
 epidesmine
 epidia
-epidiascope
 embolimeal
 estivated
 epidiascopic
@@ -9621,6 +9620,7 @@ emblemize
 esculent
 esculents
 esculetin
+epidiascope
 esculin
 escutcheoned
 escutcheons
