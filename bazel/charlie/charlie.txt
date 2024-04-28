@@ -1091,7 +1091,6 @@ calcivorous
 calcographer
 calcographic
 calcsinter
-calcspar
 consternated
 cotwal
 calctufa
@@ -2072,6 +2071,7 @@ camping
 campings
 campion
 campions
+calcspar
 campit
 conclusively
 calcaneus
