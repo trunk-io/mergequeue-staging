@@ -9082,7 +9082,6 @@ beavery
 biometrist
 brendan
 biomicroscope
-biomicroscopies
 brulee
 biomorphic
 bion
@@ -14676,6 +14675,7 @@ brawer
 brawl
 brawler
 beveller
+biomicroscopies
 brawly
 bedown
 brawlie
