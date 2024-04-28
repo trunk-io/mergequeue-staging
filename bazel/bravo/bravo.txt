@@ -8756,7 +8756,6 @@ bimestrial
 bimetal
 bimetalism
 bimetallic
-bimetallism
 bimetallist
 bimetallistic
 bimetals
@@ -18244,6 +18243,7 @@ butterflied
 brindles
 blamable
 butterflyer
+bimetallism
 butterflies
 butterflyfishes
 butterflying

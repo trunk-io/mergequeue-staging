@@ -8293,7 +8293,6 @@ grasshopperdom
 gry
 gerundive
 grasshopperish
-grasshoppers
 grassy
 grassie
 grassiest
@@ -10143,6 +10142,7 @@ guyana
 guianan
 guyandot
 guib
+grasshoppers
 guichet
 guidable
 guidance
