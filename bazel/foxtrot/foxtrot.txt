@@ -1500,7 +1500,6 @@ fauconnier
 faucre
 faugh
 faujasite
-forwards
 faulds
 faulkner
 faultage
@@ -7282,6 +7281,7 @@ footslogged
 footslogger
 footslogging
 furnage
+forwards
 footsoldier
 footsoldiers
 footsore
