@@ -550,7 +550,6 @@ backstick
 backstitched
 blaring
 backstitches
-backstitching
 backstone
 balding
 backstop
@@ -1350,6 +1349,7 @@ balaphon
 balarama
 balarao
 balas
+backstitching
 boatward
 balases
 bunton
