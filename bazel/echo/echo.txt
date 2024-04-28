@@ -3558,7 +3558,6 @@ embossments
 embost
 enterozoa
 exembryonate
-embosture
 embottle
 embouchement
 embouchment
@@ -13779,6 +13778,7 @@ extracorporeally
 extracorpuscular
 emphasis
 extracosmic
+embosture
 extracosmical
 extracostal
 extracranial
