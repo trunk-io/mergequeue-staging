@@ -13272,6 +13272,7 @@ animallike
 animalness
 animals
 accouterments
+appl
 animando
 animas
 animastic
@@ -17802,7 +17803,6 @@ appetizers
 appetizing
 appinite
 appius
-appl
 applanate
 applanation
 applaudable
