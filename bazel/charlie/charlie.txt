@@ -13197,7 +13197,6 @@ cicalas
 cicale
 cycas
 cycases
-cycasin
 cycasins
 cicatrice
 cicatrices
@@ -29966,6 +29965,7 @@ crotchwood
 crotyl
 crotin
 cambodia
+cycasin
 croton
 cordia
 crotonaldehyde
