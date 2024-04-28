@@ -6414,7 +6414,6 @@ bisectrix
 benzoates
 biguttulate
 benzoazurine
-benzobis
 benzocaine
 benzocoumaran
 bawty
@@ -14682,6 +14681,7 @@ bedown
 brawlie
 brawlier
 brawliest
+benzobis
 brawling
 brawlis
 brawlys
