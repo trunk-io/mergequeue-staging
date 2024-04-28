@@ -5094,7 +5094,6 @@ befamine
 butcherous
 befanned
 befathered
-befavor
 befavour
 befeather
 befell
@@ -13134,6 +13133,7 @@ borzoi
 borzois
 bos
 boscage
+befavor
 boscages
 bosch
 boschbok
