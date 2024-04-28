@@ -5199,6 +5199,7 @@ denned
 dennet
 denning
 dennis
+disembed
 dennstaedtia
 denom
 decursion
@@ -11908,7 +11909,6 @@ disembarrass
 disembarrassment
 distelfink
 disembattle
-disembed
 disembellish
 deflexionize
 disembocation
