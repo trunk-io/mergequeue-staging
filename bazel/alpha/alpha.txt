@@ -3583,7 +3583,6 @@ addorsed
 antonymies
 addossed
 address
-addressability
 acronychous
 allotheistic
 addressable
@@ -12000,6 +11999,7 @@ anaptychi
 anaptychus
 anaptyctic
 anaptyctical
+addressability
 anaptyxis
 anaptomorphus
 archaeogeology
