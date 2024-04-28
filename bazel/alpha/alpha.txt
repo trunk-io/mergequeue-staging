@@ -2743,7 +2743,6 @@ acquired
 acquirement
 acquirements
 acquirer
-acquirers
 acquires
 acquiring
 acquisible
@@ -10486,6 +10485,7 @@ adjudicating
 amidofluoride
 amidogen
 amidogens
+acquirers
 amidoguaiacol
 abusing
 amidohexose
