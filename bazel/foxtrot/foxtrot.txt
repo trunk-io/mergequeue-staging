@@ -2942,6 +2942,7 @@ feuilletonism
 feuilletons
 fatcake
 figurate
+floccilation
 feuing
 fleches
 feulamort
@@ -5855,7 +5856,6 @@ flobby
 flocced
 flocci
 frequently
-floccilation
 floccillation
 floccing
 floccose
