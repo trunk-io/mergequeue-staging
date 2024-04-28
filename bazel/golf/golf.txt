@@ -2594,7 +2594,6 @@ guberniya
 grandfatherish
 genealogical
 genealogies
-genealogist
 genericness
 genealogists
 gladdener
@@ -10832,6 +10831,7 @@ guvacoline
 guz
 guze
 gutturally
+genealogist
 guzerat
 guzmania
 guzul

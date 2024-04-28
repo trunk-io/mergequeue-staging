@@ -2602,6 +2602,7 @@ ferrocerium
 ferrochrome
 ferrochromium
 ferrocyanate
+fontes
 ferrocyanhydric
 ferroconcretor
 ferroelectric
@@ -7097,7 +7098,6 @@ fontanels
 fontange
 fontanges
 fonted
-fontes
 fontful
 fonticulus
 footgeld
