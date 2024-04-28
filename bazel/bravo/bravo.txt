@@ -1372,6 +1372,7 @@ buffbar
 balconet
 balconette
 balconied
+bedders
 brookie
 balconies
 bald
@@ -4641,7 +4642,6 @@ bedcovers
 beddable
 bedded
 bedder
-bedders
 bedding
 beddingroll
 beddings
