@@ -5332,6 +5332,7 @@ evaders
 exsect
 endosmose
 endosmoses
+ellwand
 endosmosis
 endosmotic
 endosmotically
@@ -7784,7 +7785,6 @@ epididymovasostomy
 epidymides
 epidiorite
 epidiorthosis
-ellwand
 epidiplosis
 epidosite
 euphorbiaceae
