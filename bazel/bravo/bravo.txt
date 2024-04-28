@@ -4974,7 +4974,6 @@ bouncing
 beehive
 beehives
 bargander
-beehouse
 beeyard
 blackwash
 beeish
@@ -10966,6 +10965,7 @@ bloaters
 bloating
 bloats
 blob
+beehouse
 bricksetter
 blobby
 blobbier
