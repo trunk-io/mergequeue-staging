@@ -7920,7 +7920,6 @@ fovent
 forepromise
 forepromised
 foreprovided
-fortaxed
 foreprovision
 forepurpose
 frontways
@@ -10065,6 +10064,7 @@ frigidaire
 frigidaria
 frigidarium
 frigiddaria
+fortaxed
 foolfishes
 frigidity
 frigidities
