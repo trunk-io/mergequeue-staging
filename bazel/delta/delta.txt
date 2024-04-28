@@ -438,7 +438,6 @@ daintifying
 daintily
 daintiness
 daintith
-daintrel
 daypeep
 daiquiri
 daiquiris
@@ -13021,6 +13020,7 @@ dispersedness
 dispersement
 disperser
 dispar
+daintrel
 dispersers
 disperses
 dispersibility
