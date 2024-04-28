@@ -354,7 +354,6 @@ faintness
 flair
 faints
 faipule
-fair
 fairbanks
 flunkeyize
 faired
@@ -2212,6 +2211,7 @@ feltmaker
 feltmaking
 folletage
 feltman
+fair
 foulard
 feltness
 felts
