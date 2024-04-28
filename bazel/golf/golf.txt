@@ -4788,6 +4788,7 @@ gobiiformes
 giron
 gyron
 gironde
+glycose
 girondin
 girondism
 gentrice
@@ -5490,7 +5491,6 @@ glycopexia
 glycopexis
 glycoproteid
 glycosaemia
-glycose
 glycosemia
 glycosidase
 glycoside
