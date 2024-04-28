@@ -1742,7 +1742,6 @@ bulbels
 balotade
 balow
 balr
-blending
 bals
 batching
 balsam
@@ -11518,6 +11517,7 @@ blustering
 blusteringly
 blusterous
 blusterously
+blending
 blusters
 blutwurst
 bascology
