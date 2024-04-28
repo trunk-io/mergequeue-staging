@@ -6485,7 +6485,6 @@ fluoride
 fluoridisation
 fluoridization
 fluoridize
-fluoridized
 fluoridizing
 fluorids
 fourfiusher
@@ -10759,6 +10758,7 @@ frutage
 frutescence
 frized
 frutescent
+fluoridized
 fumulus
 ferventness
 frutex
