@@ -6185,7 +6185,6 @@ flourish
 flourishable
 felicities
 flashlike
-flourished
 flourishes
 flourishy
 flourishingly
@@ -10049,6 +10048,7 @@ frighten
 frightened
 filator
 frightener
+flourished
 frightening
 frighteningness
 frightens
