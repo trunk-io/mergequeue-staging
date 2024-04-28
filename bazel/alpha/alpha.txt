@@ -1954,7 +1954,6 @@ aceratherium
 appetition
 acerbas
 acerbate
-acerbated
 acerbates
 acerbating
 acerber
@@ -4043,6 +4042,7 @@ antimetathesis
 adjured
 adjurer
 adjurers
+acerbated
 adjures
 autotyphization
 adjuring
