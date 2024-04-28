@@ -2189,6 +2189,7 @@ deceases
 deathblow
 deceasing
 decede
+desugared
 decedent
 decedents
 deceit
@@ -7063,7 +7064,6 @@ desuetude
 desuetudes
 desugar
 demutization
-desugared
 disseised
 desugarize
 desugars
