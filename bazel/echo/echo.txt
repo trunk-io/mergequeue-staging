@@ -1455,6 +1455,7 @@ effusion
 effusions
 effusive
 effusively
+eplot
 effusiveness
 effuso
 effuviate
@@ -8445,7 +8446,6 @@ epizootiological
 electrodialitically
 epizootiologically
 epizootology
-eplot
 epoch
 epocha
 ess
