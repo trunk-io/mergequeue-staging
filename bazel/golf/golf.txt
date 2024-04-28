@@ -1451,7 +1451,6 @@ garnetiferous
 garnetlike
 garnett
 garnetter
-garni
 garniec
 garnierite
 garnishable
@@ -7323,6 +7322,7 @@ gossip
 gossipdom
 gossiped
 gossipee
+garni
 gossiper
 gossipers
 gossiphood
