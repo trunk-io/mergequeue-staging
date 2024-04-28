@@ -9650,7 +9650,6 @@ alumina
 aluminaphone
 aluminas
 aluminate
-alumine
 alumines
 aluminic
 aluminide
@@ -21247,6 +21246,7 @@ asiaticize
 asiatize
 asiden
 amandin
+alumine
 asiderite
 asides
 asideu
