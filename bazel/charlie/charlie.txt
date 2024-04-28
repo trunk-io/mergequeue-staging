@@ -10403,6 +10403,7 @@ chiefs
 chiefship
 chieftain
 chieftaincy
+conure
 chieftaincies
 chieftainess
 chieftainry
@@ -23949,7 +23950,6 @@ conundrumize
 conundrums
 conurbation
 coombe
-conure
 conuropsis
 conurus
 conus
