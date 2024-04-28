@@ -5604,7 +5604,6 @@ glires
 gliridae
 grains
 gliriform
-gliriformia
 glis
 glisk
 glisky
@@ -5907,6 +5906,7 @@ glossist
 glossitis
 glossless
 glossmeter
+gliriformia
 geod
 ganymedes
 gosain
