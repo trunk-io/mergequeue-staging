@@ -514,6 +514,7 @@ faliscan
 falisci
 falk
 faut
+florets
 falkland
 fall
 falla
@@ -6046,7 +6047,6 @@ floressence
 floreta
 floreted
 frizette
-florets
 floretty
 fling
 floretum
