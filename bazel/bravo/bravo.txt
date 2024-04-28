@@ -1093,6 +1093,7 @@ bailing
 bailiwick
 bailiwicks
 bailli
+bourlaw
 bailliage
 baillie
 baillone
@@ -13618,7 +13619,6 @@ bourignianist
 bourignonism
 backwater
 bourkha
-bourlaw
 bourn
 bourne
 beseechingly
