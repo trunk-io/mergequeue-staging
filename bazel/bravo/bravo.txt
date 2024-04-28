@@ -4173,6 +4173,7 @@ beardlike
 bv
 beardom
 beards
+booleans
 bearer
 buoyage
 bronchomotor
@@ -12733,7 +12734,6 @@ bookworms
 bool
 boolean
 breathseller
-booleans
 booley
 booly
 boolya

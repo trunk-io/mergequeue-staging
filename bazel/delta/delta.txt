@@ -5460,7 +5460,6 @@ deodorisation
 deodorise
 dehumanising
 deodorised
-dissectible
 deodoriser
 deodorising
 deodorization
@@ -16136,6 +16135,7 @@ domestication
 douter
 doux
 douzaine
+dissectible
 domable
 douzaines
 douzainier
