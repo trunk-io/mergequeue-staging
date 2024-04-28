@@ -11243,7 +11243,6 @@ disbursements
 dunnock
 disparple
 disburser
-disburses
 disbursing
 disburthen
 disbutton
@@ -18235,6 +18234,7 @@ dunnage
 dartboard
 dunnages
 dunnaging
+disburses
 dunnakin
 dunne
 dunner
