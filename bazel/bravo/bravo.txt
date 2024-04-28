@@ -2779,7 +2779,6 @@ barny
 barnyard
 barnyards
 barnier
-bandonion
 barniest
 barnlike
 bipaliidae
@@ -4062,6 +4061,7 @@ beakhead
 beaky
 beakier
 beakiest
+bandonion
 beakiron
 beakless
 beaklike
