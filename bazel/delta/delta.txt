@@ -11597,6 +11597,7 @@ discontiguous
 dehydrated
 discontiguousness
 discontinuable
+disrank
 discontinual
 discontinuances
 discontinuation
@@ -13337,7 +13338,6 @@ disquisitorial
 disquixote
 disraeli
 disray
-disrank
 disrated
 disrates
 disrealize
