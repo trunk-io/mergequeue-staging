@@ -1901,6 +1901,7 @@ feddans
 fedellini
 federal
 federalese
+forecommend
 federalisation
 federalise
 flattery
@@ -7607,7 +7608,6 @@ foreclosed
 foreclosing
 foreclosure
 forebearing
-forecommend
 foreconceive
 foreconclude
 foreconscious
