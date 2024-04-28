@@ -5848,7 +5848,6 @@ engrasp
 engraulis
 engrave
 explainable
-engraved
 engravement
 engraven
 engraver
@@ -12082,6 +12081,7 @@ exclaimers
 exclaiming
 exclaims
 earthmaking
+engraved
 exclamational
 exclamations
 exclamative
