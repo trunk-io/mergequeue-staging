@@ -4237,6 +4237,7 @@ fireproofed
 fireproofing
 fireproofness
 fireroom
+foreturn
 firerooms
 firers
 fires
@@ -8167,7 +8168,6 @@ foretops
 foretrace
 foretriangle
 fuddledness
-foreturn
 foreuse
 foreutter
 forevalue
