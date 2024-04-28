@@ -4653,6 +4653,7 @@ arrangement
 adversing
 adversity
 adversities
+absentia
 adversive
 adversus
 adverted
@@ -8937,7 +8938,6 @@ allometry
 allomorph
 allomorphic
 allomorphism
-absentia
 allomorphite
 allomucic
 allonge
