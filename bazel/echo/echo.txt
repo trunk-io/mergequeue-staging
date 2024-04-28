@@ -1203,7 +1203,6 @@ educt
 eductions
 eductor
 eductors
-edulcorate
 edulcorated
 edulcorating
 edulcoration
@@ -9573,6 +9572,7 @@ escobadura
 escobilla
 escocheon
 escolar
+edulcorate
 escolars
 escopet
 exorcismal
