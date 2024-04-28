@@ -3139,7 +3139,6 @@ actinoids
 actinolite
 actinolitic
 actinology
-actinologous
 actinomere
 adenomyofibroma
 actinomeric
@@ -6079,6 +6078,7 @@ aphorismical
 agglutinogenic
 agglutinoid
 agglutinoscope
+actinologous
 aggrace
 aggradation
 aggradational
