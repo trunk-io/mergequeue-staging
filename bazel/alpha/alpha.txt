@@ -5784,6 +5784,7 @@ apastron
 aftertrial
 advisable
 afterturn
+arthrosyrinx
 aftervision
 afterwale
 afterwar
@@ -20654,7 +20655,6 @@ arthrosclerosis
 arthroses
 arthrosia
 arthrosynovitis
-arthrosyrinx
 arthrosis
 aeromagnetic
 aethered

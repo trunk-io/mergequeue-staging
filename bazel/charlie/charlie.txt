@@ -15978,7 +15978,6 @@ cleped
 clepes
 cleping
 clepsydra
-clepsydrae
 clepsydras
 clepsine
 clept
@@ -23386,6 +23385,7 @@ contemnor
 contemns
 contemp
 contemper
+clepsydrae
 contemperate
 contemperature
 contemplamen
