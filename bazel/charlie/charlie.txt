@@ -8667,6 +8667,7 @@ changemaker
 changement
 changeover
 changeovers
+crises
 changepocket
 carbone
 changer
@@ -29392,7 +29393,6 @@ cryptozonia
 crypturi
 crypturidae
 cris
-crises
 crisic
 crisis
 crisle
