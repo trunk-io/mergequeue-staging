@@ -1405,7 +1405,6 @@ baldhead
 baldheaded
 baldheads
 baldy
-baldie
 baldish
 baldling
 baldmoney
@@ -6312,6 +6311,7 @@ bent
 brandsolder
 bentang
 benthal
+baldie
 benthamic
 benthamite
 boomkin
