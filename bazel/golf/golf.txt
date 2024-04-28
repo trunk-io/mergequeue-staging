@@ -1577,7 +1577,6 @@ gashouse
 gashouses
 gasify
 groundskeeping
-gasifiable
 gasification
 gasified
 gasifier
@@ -4661,6 +4660,7 @@ giraffidae
 giraffine
 glueyness
 giraffish
+gasifiable
 girandole
 gyrant
 girasol
