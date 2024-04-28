@@ -6366,7 +6366,6 @@ ensepulchered
 ensepulchering
 ensepulchre
 enamoredness
-enseraph
 enserf
 exomphalos
 enserfed
@@ -13682,6 +13681,7 @@ encallow
 extinguish
 extinguishant
 extinguished
+enseraph
 epigrammatised
 extinguisher
 extinguishers
