@@ -6295,7 +6295,6 @@ agname
 agnamed
 agnat
 agnate
-agnates
 agnatha
 agnathia
 agnathic
@@ -19330,6 +19329,7 @@ arduinite
 arduous
 arduously
 arduousness
+agnates
 ardure
 ardurous
 are

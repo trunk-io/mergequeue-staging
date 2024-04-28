@@ -7675,7 +7675,6 @@ epicoeloma
 epicoelous
 ectosome
 epicolic
-epicondylar
 epicondyle
 evergreens
 engraulidae
@@ -10600,6 +10599,7 @@ elaeagnaceous
 etrier
 etrogim
 etruria
+epicondylar
 etrurian
 etruscan
 etruscology
