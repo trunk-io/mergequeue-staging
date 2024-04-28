@@ -3625,7 +3625,6 @@ grenadin
 gestor
 gestura
 gestural
-gallimaufries
 gangwaymen
 gesture
 gestured
@@ -5675,6 +5674,7 @@ globalizing
 globally
 goldenrods
 goffering
+gallimaufries
 globe
 globed
 globefish

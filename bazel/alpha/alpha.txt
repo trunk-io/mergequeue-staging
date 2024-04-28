@@ -7043,7 +7043,6 @@ airway
 airwaybill
 airwayman
 airways
-airward
 airwards
 airwash
 airwave
@@ -8070,6 +8069,7 @@ alga
 algae
 asweve
 algaecide
+airward
 algaeology
 alcovinometer
 algaeological
