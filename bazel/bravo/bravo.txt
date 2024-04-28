@@ -2411,7 +2411,6 @@ bispore
 bryanthus
 barbican
 beckets
-barbicans
 barbicel
 barbicels
 barbierite
@@ -12318,6 +12317,7 @@ bombyliidae
 bombylious
 bombilla
 bombillas
+barbicans
 bombinae
 bombinate
 bombinating
