@@ -7328,6 +7328,7 @@ betain
 betaine
 betaines
 betake
+busera
 betaken
 betakes
 byzantine
@@ -17933,7 +17934,6 @@ busboys
 buscarl
 buscarle
 bused
-busera
 bush
 bushbashing
 bushbeck
