@@ -1239,7 +1239,6 @@ fashioned
 fashioner
 flagellosis
 fashioners
-fribbling
 fashioning
 flywort
 fashionize
@@ -3251,6 +3250,7 @@ fidalgo
 fidate
 functorial
 fidawi
+fribbling
 fidded
 ferroinclave
 fidding

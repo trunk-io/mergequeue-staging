@@ -4535,6 +4535,7 @@ demidistance
 demiditone
 demidoctor
 demidog
+deriv
 downtroddenness
 demidolmen
 demidome
@@ -11418,7 +11419,6 @@ documentation
 discoast
 dalasi
 discoblastic
-deriv
 demonstrationists
 discoblastula
 discoboli
