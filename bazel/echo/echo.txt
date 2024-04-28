@@ -6657,7 +6657,6 @@ endshake
 eddies
 exorability
 enterolith
-enterolobium
 extraocular
 enterology
 enterologic
@@ -12696,6 +12695,7 @@ ekaha
 exogeny
 exogenic
 exogenous
+enterolobium
 exogens
 exogyra
 exognathion
