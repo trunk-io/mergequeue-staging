@@ -1852,7 +1852,6 @@ fec
 fecal
 fecalith
 fecaloid
-feceris
 frankeniaceae
 futileness
 feces
@@ -11014,6 +11013,7 @@ fumatorium
 fumatoriums
 fumble
 fumbled
+feceris
 flashy
 fumblers
 fumbles
