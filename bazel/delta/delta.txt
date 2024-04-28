@@ -3161,7 +3161,6 @@ detersive
 defeasibility
 defeasible
 defeasibleness
-defeasive
 delphacid
 defeatee
 defeater
@@ -16273,6 +16272,7 @@ dilluer
 downgyved
 downgoing
 derivately
+defeasive
 downgone
 downgrade
 downgraded
