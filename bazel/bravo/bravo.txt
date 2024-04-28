@@ -2189,7 +2189,6 @@ banovina
 banque
 banquet
 banqueted
-banqueteering
 banqueter
 banqueters
 banqueting
@@ -12753,6 +12752,7 @@ boomerangs
 boomers
 boomy
 boomier
+banqueteering
 boomiest
 boominess
 booming

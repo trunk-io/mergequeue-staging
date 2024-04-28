@@ -4872,7 +4872,6 @@ cartooned
 cartooning
 cartoonist
 cartoonists
-cartoons
 cartop
 cartopper
 cartouch
@@ -6020,6 +6019,7 @@ catstep
 catstick
 catstitch
 catstitcher
+cartoons
 catsup
 catsups
 cattabu
