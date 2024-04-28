@@ -5862,7 +5862,6 @@ depreciable
 depreciate
 depreciated
 depreciates
-depreciating
 depreciatingly
 depreciation
 depreciative
@@ -6273,6 +6272,7 @@ dermatrophy
 dermatrophia
 dermenchysis
 dermestes
+depreciating
 dermestid
 darknesses
 dynamoscope
