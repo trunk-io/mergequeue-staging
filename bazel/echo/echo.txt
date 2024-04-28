@@ -7530,6 +7530,7 @@ ephydridae
 ephidrosis
 ephippia
 ephippial
+exsudate
 ephippium
 ephyra
 ephyrae
@@ -13503,7 +13504,6 @@ endseal
 exstrophy
 exstruct
 exsuction
-exsudate
 eight
 epacmaic
 exsufflate

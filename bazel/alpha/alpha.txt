@@ -4618,6 +4618,7 @@ adventures
 adventureship
 adventuresome
 adventuresomely
+alerse
 adventuresomeness
 antimorality
 adventuresomes
@@ -7934,7 +7935,6 @@ aleppo
 athetotic
 alerce
 alerion
-alerse
 alert
 alerta
 alerted
