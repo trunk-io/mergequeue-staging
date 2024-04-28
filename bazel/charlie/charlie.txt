@@ -4238,7 +4238,6 @@ cariform
 centrodesmus
 cariyo
 coccidia
-carijona
 caryl
 carillon
 carilloneur
@@ -20419,6 +20418,7 @@ commuter
 commuters
 commutes
 commuting
+carijona
 cicer
 commutual
 commutuality

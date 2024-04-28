@@ -2409,7 +2409,6 @@ endosarc
 electrography
 electrographic
 electrograving
-electroharmonic
 electrohemostasis
 electrohydraulic
 electrohomeopathy
@@ -12921,6 +12920,7 @@ expatriating
 expatriation
 expatriatism
 expectable
+electroharmonic
 expectably
 expectance
 easterner
