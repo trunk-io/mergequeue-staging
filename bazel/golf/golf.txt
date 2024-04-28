@@ -4772,7 +4772,6 @@ gyrodactylus
 gurneyite
 gastrocoele
 gyrofrequency
-gyrofrequencies
 gyrogonite
 graffias
 gyrograph
@@ -8164,6 +8163,7 @@ graphicalness
 gratitude
 graphicly
 graphicness
+gyrofrequencies
 graphics
 graphidiaceae
 graphing
