@@ -6603,7 +6603,6 @@ berate
 berated
 birthless
 berates
-berating
 berattle
 beraunite
 berbamine
@@ -16775,6 +16774,7 @@ buffeter
 buffeters
 buffeting
 borborygm
+berating
 buffetings
 buffets
 buffy
