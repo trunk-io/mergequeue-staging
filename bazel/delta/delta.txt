@@ -6218,7 +6218,6 @@ dermatologists
 dermatoma
 dermatome
 dermatomere
-dermatomic
 dermatomyces
 dermatomycosis
 dermatomyoma
@@ -14394,6 +14393,7 @@ dividedness
 dividend
 dividendus
 divident
+dermatomic
 divider
 dromograph
 dividers
