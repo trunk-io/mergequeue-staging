@@ -14766,6 +14766,7 @@ antiadiaphorist
 antiaditis
 antiadministration
 antiae
+auto
 antiager
 antiagglutinant
 antiagglutinating
@@ -23853,7 +23854,6 @@ autisms
 autist
 autistic
 abbasid
-auto
 autoabstract
 autoactivation
 autoactive
