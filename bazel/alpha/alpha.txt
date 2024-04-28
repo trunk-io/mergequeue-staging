@@ -5639,7 +5639,6 @@ afterburning
 aftercare
 aftercareer
 aftercast
-aftercataract
 afterchance
 afterchrome
 afterchurch
@@ -13449,6 +13448,7 @@ anisotropy
 anisotropically
 anencephalotrophia
 anisotropies
+aftercataract
 anisotropism
 ambrosine
 anystidae
