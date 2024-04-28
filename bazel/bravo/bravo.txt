@@ -893,7 +893,6 @@ biparasitic
 bagattino
 bagaudae
 bagdi
-bagel
 bagels
 bagful
 bagfuls
@@ -13320,6 +13319,7 @@ batteled
 bulletproofs
 bothrenchyma
 bothria
+bagel
 bothridia
 bemartyr
 broadness

@@ -2137,7 +2137,6 @@ gazabo
 gazabos
 gazangabin
 gazania
-groundline
 griffado
 gaze
 gazebo
@@ -10191,6 +10190,7 @@ guignol
 gorefish
 guijo
 guilandina
+groundline
 guild
 guilder
 guilders
