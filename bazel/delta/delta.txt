@@ -4508,7 +4508,6 @@ demiassignation
 demiatheism
 demiatheist
 demibarrel
-demibastioned
 demibath
 demibeast
 demibelt
@@ -8515,6 +8514,7 @@ diaphanousness
 diaphemetric
 diaphyseal
 diaphyses
+demibastioned
 diaphysial
 diaphysis
 diaphone
