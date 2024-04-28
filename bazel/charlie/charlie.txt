@@ -4336,7 +4336,6 @@ coxswaining
 carlisle
 carlist
 carlo
-carload
 carloading
 carloadings
 carloads
@@ -18690,6 +18689,7 @@ coitally
 coition
 coitional
 coitions
+carload
 coitophobia
 coiture
 coituses
