@@ -4203,7 +4203,6 @@ galahads
 groining
 gimberjawed
 garnishments
-gimble
 gimblet
 gimbri
 gimcrackery
@@ -5999,6 +5998,7 @@ geochemist
 gyrons
 gulfs
 glottology
+gimble
 glottologic
 glottological
 glotum
