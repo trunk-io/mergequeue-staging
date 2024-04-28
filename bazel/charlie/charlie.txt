@@ -5020,6 +5020,7 @@ caselessly
 caseload
 caseloads
 caselty
+cosuggestion
 casemaker
 cardiokinetic
 casemaking
@@ -26319,7 +26320,6 @@ cosubordinate
 coconqueror
 cosuffer
 cosufferer
-cosuggestion
 cosurety
 cosuretyship
 cosustain
