@@ -3111,7 +3111,6 @@ externalist
 enplanement
 elope
 eloped
-elopement
 elopements
 eloper
 elopers
@@ -8920,6 +8919,7 @@ erepsin
 exuviability
 ereptase
 ereptic
+elopement
 ereption
 erethic
 emendatory
