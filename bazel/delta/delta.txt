@@ -6269,6 +6269,7 @@ detritus
 degausses
 dermatosis
 dermatoskeleton
+dividable
 devocalize
 dermatotherapy
 dermatotome
@@ -14383,7 +14384,6 @@ divesture
 divet
 divi
 divid
-dividable
 dividableness
 dividant
 divide
