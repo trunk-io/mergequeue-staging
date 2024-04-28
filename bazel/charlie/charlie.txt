@@ -17464,7 +17464,6 @@ cobias
 cobiron
 cobishop
 cobitis
-coble
 cobleman
 coblentzian
 cobles
@@ -26659,6 +26658,7 @@ counteractant
 counteracted
 counteracter
 counteracting
+coble
 counteractingly
 catproof
 counteraction
