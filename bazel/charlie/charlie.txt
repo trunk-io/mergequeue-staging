@@ -14066,7 +14066,6 @@ cyphellae
 cyphellate
 cipher
 cipherable
-cipherdom
 cyphered
 cipherer
 cipherhood
@@ -20601,6 +20600,7 @@ compellable
 compellably
 compellative
 compelled
+cipherdom
 compellent
 compeller
 compellers
