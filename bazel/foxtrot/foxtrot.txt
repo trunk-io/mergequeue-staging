@@ -8153,6 +8153,7 @@ forethrift
 foretime
 foretype
 foretoken
+fucused
 foretokening
 foretokens
 fretless
@@ -10815,7 +10816,6 @@ fuci
 ferret
 fucinita
 fucivorous
-fucused
 fucuses
 fud
 fuddle
