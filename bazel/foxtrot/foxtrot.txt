@@ -3791,7 +3791,6 @@ filmsetting
 filmslide
 filmstrip
 filmstrips
-filoplumaceous
 filoplume
 filopodia
 floorcloth
@@ -7320,6 +7319,7 @@ foozler
 flummeries
 foozlers
 fumiferous
+filoplumaceous
 foozles
 foozling
 fop
