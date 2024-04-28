@@ -5189,7 +5189,6 @@ endogenously
 endogens
 extralimital
 endognath
-endognathal
 endognathion
 endolabyrinthitis
 endolaryngeal
@@ -9786,6 +9785,7 @@ espinel
 eggnog
 espingole
 editorialist
+endognathal
 espinillo
 espino
 espinos
