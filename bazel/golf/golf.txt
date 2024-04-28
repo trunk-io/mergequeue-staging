@@ -921,6 +921,7 @@ gameless
 gathers
 guardstone
 gamely
+glyster
 gamelike
 gonfalonier
 gamelin
@@ -5618,7 +5619,6 @@ glisteningly
 glistens
 galvanizes
 glister
-glyster
 glistered
 glisteringly
 glisters
