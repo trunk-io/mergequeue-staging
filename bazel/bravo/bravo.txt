@@ -2282,7 +2282,6 @@ barajillo
 barging
 baralipton
 baramika
-baramin
 barangay
 bertat
 barani
@@ -4579,6 +4578,7 @@ becursed
 becurses
 becurtained
 becushioned
+baramin
 becut
 bed
 bedabble

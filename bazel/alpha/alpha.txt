@@ -913,7 +913,6 @@ amusers
 amyotaxia
 abscissions
 atwitch
-absconce
 acrobates
 abscond
 adjiger
@@ -14375,6 +14374,7 @@ anachromasis
 antesignanus
 antespring
 antestature
+absconce
 antesternal
 antesternum
 antesunrise
