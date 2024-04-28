@@ -325,7 +325,6 @@ backbit
 broughtas
 bar
 backbite
-backbiter
 backbiters
 backbites
 backbiting
@@ -7406,6 +7405,7 @@ bashilange
 betide
 betided
 betides
+backbiter
 betiding
 balate
 betimber
