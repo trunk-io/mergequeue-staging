@@ -1274,6 +1274,7 @@ effaceable
 effaced
 effacement
 effacer
+exungulate
 effacers
 effaces
 effare
@@ -14164,7 +14165,6 @@ exumbral
 exumbrella
 exundance
 exundate
-exungulate
 exuperable
 exurb
 exurban
