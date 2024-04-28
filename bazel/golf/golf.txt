@@ -1671,6 +1671,7 @@ gasterosteidae
 grissen
 gasterosteiform
 gasterosteoid
+gynaeolater
 gasterosteus
 gasterotheca
 gasterothecal
@@ -4336,7 +4337,6 @@ gynaecomastia
 gynaecomorphous
 gynaeconitis
 gorebill
-gynaeolater
 gynaeolatry
 gynander
 grenadiership
