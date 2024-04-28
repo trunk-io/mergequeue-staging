@@ -1218,7 +1218,6 @@ acacia
 acacian
 acacias
 acaciin
-anatomizable
 acacin
 acad
 academe
@@ -19245,6 +19244,7 @@ arcosolia
 arcosoliulia
 arcosolium
 arcs
+anatomizable
 arcsin
 arcsine
 arctalia
