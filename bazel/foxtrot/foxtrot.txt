@@ -4863,6 +4863,7 @@ flakiness
 flaking
 flam
 flamb
+focometer
 flambage
 flambant
 flambe
@@ -6701,7 +6702,6 @@ fockle
 flanken
 fumage
 focoids
-focometer
 focometry
 focsle
 focus
