@@ -7528,7 +7528,6 @@ betwattled
 between
 betweenbrain
 betweenmaid
-betweenness
 betweens
 betweentimes
 betweenwhiles
@@ -10767,6 +10766,7 @@ blepharosyndesmitis
 blepharosynechia
 blepharospasm
 blepharosphincterectomy
+betweenness
 blepharostenosis
 blepharotomy
 blephillia
