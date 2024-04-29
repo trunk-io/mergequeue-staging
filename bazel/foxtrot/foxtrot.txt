@@ -5130,6 +5130,7 @@ flatlings
 flatlong
 feigns
 flatman
+friction
 flatmen
 flats
 fervencies
@@ -9972,7 +9973,6 @@ fricative
 fricatives
 fricatrice
 forleft
-friction
 formyls
 frictionable
 fractionate
