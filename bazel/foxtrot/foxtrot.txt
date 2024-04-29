@@ -1438,6 +1438,7 @@ fats
 fatsia
 flashness
 fatalize
+frison
 fatsos
 fatstock
 fatted
@@ -10190,7 +10191,6 @@ frisks
 frigorimeter
 frislet
 frisolee
-frison
 filleter
 friss
 frisson
