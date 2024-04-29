@@ -10014,7 +10014,6 @@ diatesseron
 dimwit
 dimwitted
 dimwittedness
-diapaused
 din
 dyn
 dichotomically
@@ -15115,6 +15114,7 @@ dolcan
 demifarthing
 dolcemente
 dolci
+diapaused
 dolciano
 dolcino
 deflater
