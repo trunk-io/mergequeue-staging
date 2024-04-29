@@ -2876,7 +2876,6 @@ acrocarpous
 acrocentric
 assassinator
 acrocephaly
-acrocephalia
 acrocephalic
 acrocephalous
 acroceratidae
@@ -11002,6 +11001,7 @@ amorphi
 amorphy
 amorphia
 amorphic
+acrocephalia
 amorphophallus
 amorphophyte
 amorphotae
