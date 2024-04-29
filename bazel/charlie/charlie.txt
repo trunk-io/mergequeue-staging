@@ -9804,7 +9804,6 @@ chelonian
 cumin
 cachets
 cheloniid
-cheloniidae
 chelonin
 chelophore
 cheltenham
@@ -13450,6 +13449,7 @@ cyclothymic
 cocooned
 cyclothure
 cyclothurine
+cheloniidae
 cyclothurus
 cyclotome
 cyclotomy
