@@ -9079,7 +9079,6 @@ dictions
 dictyophora
 dictyopteran
 dictyopteris
-dictyosiphon
 dictyosiphonaceae
 dictyosiphonaceous
 dictyosome
@@ -16939,6 +16938,7 @@ dragline
 drearing
 drearisome
 drearly
+dictyosiphon
 dreche
 dreck
 drecks
