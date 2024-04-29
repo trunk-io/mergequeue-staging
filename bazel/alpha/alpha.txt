@@ -4699,6 +4699,7 @@ advisement
 atli
 avoue
 adviser
+anthotaxis
 advisers
 advisership
 advises
@@ -14496,7 +14497,6 @@ anthos
 anthosiderite
 anthospermum
 anthotaxy
-anthotaxis
 anthotropic
 anthotropism
 anthoxanthum
