@@ -6466,6 +6466,7 @@ benzonitrol
 bluebuck
 benzoperoxide
 benzophenazine
+buffos
 benzophenol
 benzophenone
 benzophenothiazine
@@ -16798,7 +16799,6 @@ buffoonish
 buffoonishness
 buffoons
 butanoic
-buffos
 buffs
 buffware
 bloodguilty
