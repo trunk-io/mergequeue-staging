@@ -2726,6 +2726,7 @@ barkless
 barklyite
 barkometer
 barkpeel
+berthed
 barkpeeler
 bijugate
 barkpeeling
@@ -6854,7 +6855,6 @@ bert
 bugshas
 berth
 bertha
-berthed
 berther
 berthierite
 berthing
