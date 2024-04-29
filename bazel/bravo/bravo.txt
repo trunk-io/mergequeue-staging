@@ -7909,6 +7909,7 @@ bibliograph
 bibliographer
 bibliographers
 bibliography
+burthenman
 bibliographic
 backstair
 bibliographical
@@ -17247,7 +17248,6 @@ bumbo
 bumboat
 bumboatman
 bumboatmen
-burthenman
 bumboats
 bayous
 bumboatwoman
