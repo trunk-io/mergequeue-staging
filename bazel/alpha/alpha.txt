@@ -12169,7 +12169,6 @@ anatoxin
 anatoxins
 anatreptic
 antapoplectic
-anatripsis
 anatripsology
 anatriptic
 anatron
@@ -16889,6 +16888,7 @@ aphidious
 abepithymia
 aphidius
 aphidivorous
+anatripsis
 aphidlion
 anapneic
 aphidolysin

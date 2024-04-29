@@ -1903,7 +1903,6 @@ gastruran
 gasworker
 gasworks
 gat
-gata
 gate
 gateado
 gateage
@@ -6045,6 +6044,7 @@ glub
 glucaemia
 glucagon
 grieben
+gata
 gauger
 glucagons
 glucemia
