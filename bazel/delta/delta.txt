@@ -3872,7 +3872,6 @@ deism
 deisms
 deist
 deistic
-deistical
 discerptibility
 deistically
 deisticalness
@@ -8719,6 +8718,7 @@ diatonically
 delude
 diatonicism
 diatonous
+deistical
 diatoric
 diatreme
 diatribe
