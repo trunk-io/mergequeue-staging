@@ -630,6 +630,7 @@ cafetal
 cafeteria
 cafeterias
 cafetiere
+copperas
 cafetorium
 caff
 caffa
@@ -24647,7 +24648,6 @@ copped
 copper
 copperah
 copperahs
-copperas
 copperases
 copperbottom
 copperhead
