@@ -2166,7 +2166,6 @@ fels
 fumbler
 felsic
 felsite
-fumistery
 felsites
 felsitic
 felsobanyite
@@ -8665,6 +8664,7 @@ footing
 forspoken
 fowk
 floccipend
+fumistery
 fellatory
 fillebeg
 forstall
