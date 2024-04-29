@@ -3898,7 +3898,6 @@ finches
 find
 footlining
 findal
-forsteal
 finders
 findfault
 findhorn
@@ -11075,6 +11074,7 @@ fumishness
 floricultural
 fumitories
 fummel
+forsteal
 fummle
 figboy
 figurato
