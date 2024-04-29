@@ -4454,7 +4454,6 @@ enascent
 enatant
 enates
 enatic
-enation
 enations
 enaunter
 enbaissing
@@ -13261,6 +13260,7 @@ exponentiation
 exponention
 exponents
 exponible
+enation
 export
 exportable
 exportation
