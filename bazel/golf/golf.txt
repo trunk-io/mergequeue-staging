@@ -4812,7 +4812,6 @@ gyrostabilizer
 ghat
 gyrostachys
 gulled
-galactosis
 gyrostat
 giusto
 gyrostatic
@@ -10587,6 +10586,7 @@ gaugeably
 gunstone
 gunter
 gunther
+galactosis
 guntub
 gunung
 gunwale
