@@ -2916,7 +2916,6 @@ feudists
 feudovassalism
 feuds
 feudum
-feued
 feuillage
 feuillants
 feuille
@@ -5545,6 +5544,7 @@ flibbertigibbet
 flibbertigibbety
 flybelt
 fromage
+feued
 flybelts
 flyby
 flybys
