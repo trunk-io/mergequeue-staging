@@ -3451,7 +3451,6 @@ emblazer
 edifices
 emblazers
 euphoria
-emblazes
 emblazing
 emblazon
 emblazoned
@@ -6806,6 +6805,7 @@ entify
 eternalness
 enterobiliary
 entifical
+emblazes
 entyloma
 entire
 entirely
