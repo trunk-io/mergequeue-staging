@@ -2412,7 +2412,6 @@ decimeter
 decimeters
 decimolar
 daysman
-dangering
 decimole
 decimosexto
 decimus
@@ -6916,6 +6915,7 @@ despatched
 despoiled
 despoiler
 despoilers
+dangering
 dogfaces
 devorative
 despoils
