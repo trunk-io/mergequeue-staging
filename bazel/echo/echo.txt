@@ -3662,7 +3662,6 @@ embryol
 eavesdrops
 embryology
 epimerising
-embryologic
 elevenses
 estonians
 embryologically
@@ -13915,6 +13914,7 @@ extrapatriarchal
 extrapelvic
 extraperineal
 extraperiodic
+embryologic
 extraperiosteal
 extraperitoneal
 extraphysical
