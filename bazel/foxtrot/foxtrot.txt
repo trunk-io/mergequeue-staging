@@ -2314,7 +2314,6 @@ fending
 fends
 fenestellae
 fenestellid
-frostbiting
 fenestellidae
 fenester
 fenestral
@@ -4435,6 +4434,7 @@ fishworm
 fisk
 fisnoga
 fissate
+frostbiting
 fissidactyl
 fissidentaceae
 flagfish
