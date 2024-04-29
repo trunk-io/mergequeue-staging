@@ -662,7 +662,6 @@ fictionize
 familiarization
 fireman
 familiarizations
-familiarize
 familiarized
 familiarizer
 familiarizes
@@ -4072,6 +4071,7 @@ finnan
 finned
 furtherly
 forwarders
+familiarize
 finner
 finnesko
 farthings

@@ -2896,7 +2896,6 @@ baroto
 barotrauma
 barotraumas
 barotraumata
-bostons
 barouche
 barouches
 barouchet
@@ -4092,6 +4091,7 @@ beamily
 beaminess
 blinders
 beamsmen
+bostons
 beaming
 beamingly
 beamish
