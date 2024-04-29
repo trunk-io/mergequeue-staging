@@ -5313,6 +5313,7 @@ gazement
 gleaning
 gleanings
 growl
+grammar
 gleave
 glebae
 glebeless
@@ -6359,7 +6360,6 @@ gnow
 gnu
 gnus
 goa
-grammar
 gryllidae
 goad
 gosther
