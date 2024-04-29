@@ -5665,6 +5665,7 @@ afterfuture
 aftergame
 aftergas
 afterglide
+artery
 acton
 afterglow
 alloclasite
@@ -20478,7 +20479,6 @@ anchoretical
 arrases
 autoptical
 arter
-artery
 arteria
 arteriac
 arteriae
