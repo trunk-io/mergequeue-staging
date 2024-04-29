@@ -8750,6 +8750,7 @@ allez
 allhallow
 allhallowtide
 allheal
+armoried
 allheals
 ally
 arithmeticians
@@ -20012,7 +20013,6 @@ armorican
 armorician
 albescence
 antiutilitarianism
-armoried
 armories
 armoring
 armorist
