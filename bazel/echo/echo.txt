@@ -5950,7 +5950,6 @@ enigmatic
 enigmatically
 enigmaticalness
 enigmatist
-enigmatization
 enigmatize
 easels
 enigmatizing
@@ -13231,6 +13230,7 @@ explores
 exploringly
 explosibility
 explosible
+enigmatization
 eisegesis
 explosimeter
 englishmen
