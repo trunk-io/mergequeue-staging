@@ -1019,7 +1019,6 @@ edda
 exploitationist
 eddaic
 eddy
-episcopable
 eves
 eddied
 encephalon
@@ -2452,6 +2451,7 @@ electrolyser
 electrolyses
 electrolysing
 electrolyte
+episcopable
 electrolithotrity
 electrolytic
 electrolytical

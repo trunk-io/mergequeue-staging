@@ -3542,7 +3542,6 @@ gervase
 ges
 gunslinger
 glumpier
-ganomalite
 guilds
 gesan
 gyre
@@ -10749,6 +10748,7 @@ gutt
 gutta
 guttable
 guttae
+ganomalite
 guttate
 guttated
 guttatim
