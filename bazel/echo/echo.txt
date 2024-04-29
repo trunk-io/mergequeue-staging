@@ -1764,6 +1764,7 @@ eyelash
 etude
 eyelashes
 eyelast
+eikones
 epicenes
 eyeless
 entalent
@@ -2181,7 +2182,6 @@ elderlies
 evzones
 elderliness
 elderling
-eikones
 eh
 expect
 effeminate
