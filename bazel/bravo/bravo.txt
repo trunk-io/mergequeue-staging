@@ -4016,7 +4016,6 @@ beachside
 beachwear
 beacon
 bittier
-beaconage
 beaconing
 beaconwise
 blasphemers
@@ -6370,6 +6369,7 @@ benzamine
 benzaminic
 benzamino
 benzanalgen
+beaconage
 benzanilide
 benzanthracene
 benzanthrone
