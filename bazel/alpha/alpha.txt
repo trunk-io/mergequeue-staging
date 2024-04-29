@@ -1757,7 +1757,6 @@ accoutrement
 accoutrements
 accoutres
 accra
-accredit
 accreditable
 accreditate
 accreditation
@@ -16503,6 +16502,7 @@ antjar
 antler
 antlered
 antlerite
+accredit
 antlerless
 antlers
 antlia
