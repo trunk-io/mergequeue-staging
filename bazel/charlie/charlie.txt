@@ -23830,7 +23830,6 @@ contribution
 cephalob
 contributional
 contributions
-contributive
 contributively
 contributor
 contributory
@@ -27472,6 +27471,7 @@ covariable
 covariables
 covariance
 covariant
+contributive
 covariate
 covariates
 covariation
