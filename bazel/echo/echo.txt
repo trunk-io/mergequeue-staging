@@ -11287,6 +11287,7 @@ evacuators
 exteriors
 evacue
 evacuee
+extinguished
 evacuees
 evadable
 evade
@@ -13681,7 +13682,6 @@ ententophil
 encallow
 extinguish
 extinguishant
-extinguished
 enseraph
 epigrammatised
 extinguisher
