@@ -2502,7 +2502,6 @@ fogyish
 fissural
 fernier
 ferniest
-ferninst
 fernleaf
 fernlike
 fusiform
@@ -5779,6 +5778,7 @@ flittermice
 flittermmice
 filaze
 footrill
+ferninst
 fluidglycerate
 flittern
 flitty
