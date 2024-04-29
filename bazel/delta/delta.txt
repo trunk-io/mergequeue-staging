@@ -4132,6 +4132,7 @@ delimiter
 derelicts
 delimiting
 delimitize
+doombook
 delimitized
 delimitizing
 delimits
@@ -15568,7 +15569,6 @@ doolie
 doolies
 doom
 doomage
-doombook
 doomed
 doomful
 doomfully
