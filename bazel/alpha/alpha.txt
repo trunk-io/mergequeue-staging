@@ -6467,6 +6467,7 @@ agree
 attemptability
 agreeability
 agreeable
+arduous
 agreeableness
 agreeably
 agreed
@@ -19324,7 +19325,6 @@ andorra
 ardu
 accessit
 arduinite
-arduous
 arduously
 arduousness
 agnates
