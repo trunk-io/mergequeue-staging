@@ -6941,6 +6941,7 @@ gonzalo
 geomyid
 goo
 galesaurus
+guaiacs
 goobers
 goodby
 goodbye
@@ -9796,7 +9797,6 @@ guayacan
 guaiacol
 guaiacolize
 guaiacols
-guaiacs
 guaiacum
 guaiacums
 guayaqui
