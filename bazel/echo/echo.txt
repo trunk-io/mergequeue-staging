@@ -3083,6 +3083,7 @@ elocute
 elocutionist
 elocutionize
 elocutive
+exauthorizeexc
 elod
 elodea
 elodeas
@@ -11870,7 +11871,6 @@ exauguration
 exaun
 exauthorate
 exauthorize
-exauthorizeexc
 excalate
 excalation
 excalcarate
