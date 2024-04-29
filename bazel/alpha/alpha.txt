@@ -8391,7 +8391,6 @@ alipteria
 alipterion
 aliptes
 aliptic
-aporia
 alypum
 atmosphereless
 aliquant
@@ -12853,6 +12852,7 @@ angioglioma
 angiogram
 angiography
 angiographic
+aporia
 angiohemophilia
 angiohyalinosis
 angiohydrotomy
