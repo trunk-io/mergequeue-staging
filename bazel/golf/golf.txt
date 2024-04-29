@@ -7526,7 +7526,6 @@ galavanted
 gowning
 gownlet
 gowns
-gownsman
 gownsmen
 gowpen
 gox
@@ -8301,6 +8300,7 @@ grasslands
 glutaminase
 grassless
 gromatic
+gownsman
 grasslike
 grassman
 gentianic
