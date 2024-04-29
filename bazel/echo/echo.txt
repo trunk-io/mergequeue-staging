@@ -1260,7 +1260,6 @@ epitympanic
 eelskin
 eelware
 eelworm
-eelworms
 een
 eyepieces
 eer
@@ -14048,6 +14047,7 @@ extremeless
 extremely
 ejects
 extremer
+eelworms
 extremes
 ectoprocta
 extremis
