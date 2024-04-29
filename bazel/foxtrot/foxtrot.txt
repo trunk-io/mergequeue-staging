@@ -3229,6 +3229,7 @@ fid
 fidac
 fidalgo
 fidate
+floodgate
 functorial
 fidawi
 fribbling
@@ -5925,7 +5926,6 @@ flooded
 flooder
 fluids
 flooders
-floodgate
 floody
 flooding
 floodless
