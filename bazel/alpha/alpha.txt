@@ -3254,7 +3254,6 @@ activized
 activizing
 actless
 anchisaurus
-acton
 actor
 actory
 atactic
@@ -5670,6 +5669,7 @@ afterfuture
 aftergame
 aftergas
 afterglide
+acton
 afterglow
 alloclasite
 auntsary
