@@ -2414,6 +2414,7 @@ electrogild
 electrogilding
 electrogram
 electrograph
+electrometrically
 endosarc
 electrography
 electrographic
@@ -2484,7 +2485,6 @@ electrometallurgical
 electrometer
 enage
 electrometrical
-electrometrically
 electromyogram
 electromyograph
 electromyography
