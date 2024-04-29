@@ -3611,7 +3611,6 @@ bathyscaphes
 bathyseism
 bathysmal
 bathysophic
-bathysophical
 bathysphere
 bathyspheres
 bathythermogram
@@ -6101,6 +6100,7 @@ benchership
 benches
 benchfellow
 benchful
+bathysophical
 baleen
 benchy
 benching

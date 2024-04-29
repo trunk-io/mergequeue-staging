@@ -10970,7 +10970,6 @@ chiropatagium
 chiroplasty
 chiropod
 countersignature
-chiropody
 chiropodial
 chiropodic
 chiropodical
@@ -12401,6 +12400,7 @@ chromatogram
 chromatograph
 confidentiality
 chromatography
+chiropody
 chromatographic
 chromatographically
 chromatoid
