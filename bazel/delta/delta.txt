@@ -1010,6 +1010,7 @@ darkeners
 darkening
 darkens
 darker
+dekameter
 darkest
 darkful
 darkhaired
@@ -3907,7 +3908,6 @@ daphnad
 dekagramme
 dekaliters
 dekalitre
-dekameter
 dekametre
 dekaparsec
 dekapode
