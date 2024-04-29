@@ -11894,6 +11894,7 @@ chordamesodermal
 chordamesodermic
 cabiri
 chordate
+coenoblast
 chordates
 chorded
 chordee
@@ -27252,7 +27253,6 @@ cardhouse
 countree
 countreeman
 country
-coenoblast
 countries
 countrify
 countrification
