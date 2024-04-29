@@ -7148,6 +7148,7 @@ envassal
 eglatere
 envault
 enveigle
+exempt
 enveil
 envelop
 envelope
@@ -12354,7 +12355,6 @@ exemplified
 exemplifier
 exemplifiers
 exemplifying
-exempt
 exempted
 egipto
 exempting
