@@ -2118,6 +2118,7 @@ acetochloral
 acetocinnamene
 acetoin
 acetol
+anthophyta
 acetolysis
 acetolytic
 archicleistogamy
@@ -4885,7 +4886,6 @@ aggrieves
 aeq
 aequi
 aequian
-anthophyta
 aequiculi
 aequor
 aequoreal
