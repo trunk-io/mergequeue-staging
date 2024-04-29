@@ -14213,6 +14213,7 @@ circularism
 circularity
 circularities
 circularization
+cyathoid
 circularizations
 circularize
 circularized
@@ -30574,7 +30575,6 @@ cuculus
 cucumaria
 cucumber
 coesites
-cyathoid
 cowhides
 characterise
 cucumiform

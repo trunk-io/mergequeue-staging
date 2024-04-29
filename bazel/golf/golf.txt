@@ -5923,7 +5923,6 @@ glossolaly
 glossolalia
 glossolaryngeal
 glossology
-glossologies
 glossoncus
 glossopalatine
 glossopalatinus
@@ -9722,6 +9721,7 @@ grunerite
 grungy
 grungier
 grungiest
+glossologies
 gallophilism
 grunion
 grunions
