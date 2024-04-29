@@ -5542,7 +5542,6 @@ glint
 goustie
 glinting
 gliocyte
-glioma
 gliomatous
 gliosa
 glyoxal
@@ -9501,6 +9500,7 @@ grouseward
 gyle
 giglets
 gristhorbia
+glioma
 gnomon
 graptolithida
 grandstanded
