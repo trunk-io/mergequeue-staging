@@ -23461,6 +23461,7 @@ conterminant
 conterminate
 contermine
 conterminous
+codescendant
 conterminously
 conterminousness
 conterraneous
@@ -30770,7 +30771,6 @@ culminal
 culminant
 culminate
 culminates
-codescendant
 culminating
 culmination
 culminations
