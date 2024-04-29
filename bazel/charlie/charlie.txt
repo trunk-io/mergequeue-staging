@@ -9228,7 +9228,6 @@ chemisorptive
 chastacosta
 chastelain
 chastely
-certiorari
 chasten
 chastened
 chastener
@@ -19975,6 +19974,7 @@ commandeer
 commandeered
 commandeering
 commandeers
+certiorari
 commandery
 commanderies
 commanders
