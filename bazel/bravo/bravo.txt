@@ -79,7 +79,6 @@ babeship
 babesia
 boardinghouses
 babesias
-babesiasis
 babesiosis
 babhan
 babi
@@ -2757,6 +2756,7 @@ barmaids
 barman
 barmaster
 barmbrack
+babesiasis
 barmcloth
 biggonet
 barmecidal
