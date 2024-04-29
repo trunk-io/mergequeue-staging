@@ -10494,7 +10494,6 @@ blasts
 blastula
 blastulae
 blastular
-blastulas
 blastulation
 blastule
 blat
@@ -12693,6 +12692,7 @@ bookmarker
 bookmarks
 bookmate
 bookmobile
+blastulas
 bookmobiles
 bookmonger
 bookplate
