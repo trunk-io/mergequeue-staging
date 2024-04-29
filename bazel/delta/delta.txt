@@ -11277,7 +11277,6 @@ discardable
 discarded
 drainageway
 discardment
-discards
 dispensing
 discarnate
 discarnation
@@ -15560,6 +15559,7 @@ doubter
 dooli
 dooly
 doolie
+discards
 doolies
 doom
 doomage
