@@ -2679,7 +2679,6 @@ barytocelestite
 baritonal
 besses
 basidiomycetous
-baritone
 barytone
 baritones
 barytones
@@ -7696,6 +7695,7 @@ bezazz
 bezazzes
 bezel
 bezels
+baritone
 bezesteen
 bezetta
 brook
