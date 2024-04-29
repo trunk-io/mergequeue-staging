@@ -2487,6 +2487,7 @@ declarant
 declaration
 declarative
 declaratively
+deprevation
 deutzias
 declarator
 declaratory
@@ -5915,7 +5916,6 @@ depressure
 depressurize
 deprest
 depreter
-deprevation
 depriment
 deprint
 depriorize
