@@ -3696,7 +3696,6 @@ embryotome
 embryotomy
 embryotomies
 embryotroph
-embryotrophe
 embryotrophic
 embryous
 embrittle
@@ -8895,6 +8894,7 @@ enacts
 eremitic
 eremitical
 erosely
+embryotrophe
 eremitism
 eremochaetous
 eremology
