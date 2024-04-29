@@ -1768,6 +1768,7 @@ geochemically
 gastroenteric
 gastroenteritic
 geomedicine
+glucidic
 gastroenteroanastomosis
 gastroenterocolitis
 gastroenterocolostomy
@@ -6051,7 +6052,6 @@ globefishes
 glucic
 glucid
 genizero
-glucidic
 glucine
 glucinic
 glucinium
