@@ -12881,7 +12881,6 @@ angioneoplasm
 angioneurosis
 angioneurotic
 angionoma
-angioparalysis
 angioparalytic
 angioparesis
 angiopathy
@@ -17043,6 +17042,7 @@ apina
 apinae
 apinage
 apinch
+angioparalysis
 aping
 apinoid
 apio

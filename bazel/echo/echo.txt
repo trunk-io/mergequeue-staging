@@ -5345,6 +5345,7 @@ exocentric
 endosporous
 endosporously
 endoss
+ersar
 endostea
 endosteal
 ephapse
@@ -9348,7 +9349,6 @@ errors
 errs
 errsyn
 ers
-ersar
 ersatz
 ersatzes
 electrolyzable
