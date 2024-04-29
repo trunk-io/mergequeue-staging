@@ -2855,6 +2855,7 @@ elevations
 elevato
 elevator
 elevators
+entradas
 embrued
 elevatory
 escalators
@@ -6977,7 +6978,6 @@ eases
 entozoon
 entr
 entracte
-entradas
 entrail
 evolver
 entrain
