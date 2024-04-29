@@ -20616,6 +20616,7 @@ compensativeness
 compensator
 compensatory
 compensators
+cone
 compense
 compenser
 compere
@@ -21826,7 +21827,6 @@ crumped
 condurangin
 condurango
 condurrite
-cone
 coned
 coneflower
 conehead
