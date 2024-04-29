@@ -6354,7 +6354,6 @@ foulage
 fluitant
 fluyts
 fluked
-flukey
 freakful
 flukes
 foujdary
@@ -8868,6 +8867,7 @@ fleabag
 fossildom
 fossiled
 fossiliferous
+flukey
 fossilification
 fossilisable
 fossilised
