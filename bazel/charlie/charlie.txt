@@ -6025,7 +6025,6 @@ catstep
 catstick
 catstitch
 catstitcher
-cartoons
 catsup
 catsups
 cattabu
@@ -15306,6 +15305,7 @@ cotham
 clairvoyant
 clairvoyantly
 clairvoyants
+cartoons
 clays
 claystone
 claith
