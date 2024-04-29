@@ -16382,7 +16382,6 @@ downthrown
 downthrust
 downtime
 downtimes
-downton
 downtown
 downtowner
 downtowns
@@ -18546,6 +18545,7 @@ dustcloth
 detectably
 dustcover
 decurved
+downton
 dusted
 dysoxidize
 dustee
