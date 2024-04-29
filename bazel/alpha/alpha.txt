@@ -13475,6 +13475,7 @@ ankerhold
 ankerite
 ankerites
 ankh
+attainer
 ankhs
 ankylenteron
 ankylocheilia
@@ -22963,7 +22964,6 @@ amyctic
 attainder
 attainders
 attained
-attainer
 attainers
 attaining
 attainment
