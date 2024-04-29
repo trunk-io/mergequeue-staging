@@ -738,7 +738,6 @@ gallup
 gallweed
 greasehorn
 goniatite
-gymnarchus
 gallwort
 galoch
 galoots
@@ -6386,6 +6385,7 @@ goan
 gnosticize
 goanese
 goanna
+gymnarchus
 goar
 goasila
 goat
