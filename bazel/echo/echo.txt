@@ -4184,7 +4184,6 @@ effectuous
 ekistic
 emplacements
 emplane
-emplaned
 emplanement
 emplanes
 emplaning
@@ -8142,6 +8141,7 @@ episcopation
 exedra
 episcopature
 episcopes
+emplaned
 episcopicide
 episcopise
 episcopised
