@@ -3703,7 +3703,6 @@ faceoff
 fluormeter
 fillers
 fillet
-filleted
 filleting
 filletster
 filleul
@@ -11656,6 +11655,7 @@ fabricate
 fustilugs
 fustin
 fustinella
+filleted
 flagstaff
 fulgid
 fustoc

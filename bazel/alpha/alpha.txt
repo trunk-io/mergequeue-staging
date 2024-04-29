@@ -1924,6 +1924,7 @@ annexable
 agariciform
 acentrous
 aceology
+auxin
 acephal
 acephalan
 acapu
@@ -8665,7 +8666,6 @@ allegorise
 allegorised
 allegorising
 allegorism
-auxin
 adenomalacia
 allegorist
 antapexes
