@@ -6545,6 +6545,7 @@ flushers
 flushes
 flushest
 feruling
+focalize
 flushing
 flushness
 flusk
@@ -6691,7 +6692,6 @@ focalise
 focalised
 focalising
 focalization
-focalize
 focalizes
 focalizing
 firking

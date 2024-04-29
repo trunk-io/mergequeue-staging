@@ -235,7 +235,6 @@ abcess
 abcissa
 anamnesis
 antonymous
-abcoulomb
 abd
 abdali
 abdaria
@@ -15496,6 +15495,7 @@ antilepsis
 antileptic
 antilepton
 antilethargic
+abcoulomb
 aeronautically
 antileukemic
 antileveling
