@@ -6588,7 +6588,6 @@ bequests
 bequote
 beqwete
 ber
-berain
 berairou
 bilaminated
 berakah
@@ -17757,6 +17756,7 @@ burlily
 burliness
 bimetallists
 burling
+berain
 burlington
 burma
 burman
