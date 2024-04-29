@@ -6287,7 +6287,6 @@ cautioned
 cautioners
 cautiones
 cautioning
-cautionings
 cautions
 cautiously
 cautiousness
@@ -24851,6 +24850,7 @@ coracoprocoracoid
 coracoradialis
 coracoscapular
 coracosteon
+cautionings
 coracovertebral
 coradical
 coradicate
