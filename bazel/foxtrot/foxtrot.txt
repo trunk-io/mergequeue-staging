@@ -1778,7 +1778,6 @@ feathertop
 featherway
 featherweight
 featherweights
-fictioneering
 featherwing
 featherwood
 featherwork
@@ -5457,6 +5456,7 @@ friandise
 finch
 fleshiest
 fleshiness
+fictioneering
 fleshings
 fleshliest
 fleshlily
