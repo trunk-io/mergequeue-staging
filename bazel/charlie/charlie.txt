@@ -18027,6 +18027,7 @@ coemptor
 coempts
 coexplosion
 coenacle
+colander
 coenact
 coenacted
 coenacting
@@ -18719,7 +18720,6 @@ colling
 colalgia
 colament
 colan
-colander
 colanders
 consists
 colane
