@@ -8358,7 +8358,6 @@ diallelon
 decempedate
 draughtiness
 dialler
-diallyl
 dialling
 diallings
 diallists
@@ -12858,6 +12857,7 @@ disorganised
 delineator
 disorganiser
 disorganization
+diallyl
 disorganize
 disorganized
 disorganizer
