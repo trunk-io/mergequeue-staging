@@ -2854,7 +2854,6 @@ cantoning
 cobalt
 cantonize
 cantonment
-cantonments
 cuspated
 culmed
 cantons
@@ -10554,6 +10553,7 @@ chilindre
 comprehension
 chiliomb
 chilion
+cantonments
 chilipepper
 chilitis
 chilkat
