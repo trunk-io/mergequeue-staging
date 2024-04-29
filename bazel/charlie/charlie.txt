@@ -12860,7 +12860,6 @@ churchanity
 churchcraft
 churchdom
 churched
-churches
 churchful
 churchgo
 cantative
@@ -20270,6 +20269,7 @@ commonize
 catheads
 commonly
 commonness
+churches
 ctrl
 commonplace
 commonplaceism
