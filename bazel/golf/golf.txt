@@ -6295,6 +6295,7 @@ gufought
 gnawer
 gnawing
 gnawings
+glucase
 gnaws
 gneiss
 gneissy
@@ -7657,7 +7658,6 @@ graduands
 graduated
 goloshes
 granulous
-glucase
 goldbrick
 graduates
 graduateship
