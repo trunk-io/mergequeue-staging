@@ -1142,7 +1142,6 @@ farts
 ff
 fasc
 fascet
-fribbled
 fascia
 feudally
 fascial
@@ -10674,6 +10673,7 @@ frightable
 fruition
 fruitive
 fruitless
+fribbled
 fruitlessly
 formol
 fruitlessness
