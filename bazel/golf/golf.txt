@@ -4182,7 +4182,6 @@ gimbal
 garua
 gimbaled
 gimbaling
-gimballed
 gainsome
 gurshes
 gimballing
@@ -8222,6 +8221,7 @@ grapline
 graplines
 glamourless
 greenhead
+gimballed
 grappa
 grappas
 gemmules
