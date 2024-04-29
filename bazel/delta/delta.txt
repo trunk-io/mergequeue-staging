@@ -4369,7 +4369,6 @@ demanganization
 demanganize
 demantoid
 demarcate
-demarcated
 demarcates
 demarcating
 dormancy
@@ -9755,6 +9754,7 @@ dilettante
 dilettanteish
 dilettanteism
 digitoxigenin
+demarcated
 dilettantes
 dilettanteship
 dilettanti
