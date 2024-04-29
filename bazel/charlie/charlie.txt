@@ -7470,7 +7470,6 @@ ceratomandibular
 ceratomania
 ceratonia
 ceratophyllaceae
-ceratophyllaceous
 ceratophyllum
 ceratophyta
 ceratophyte
@@ -30611,6 +30610,7 @@ cuddling
 cudeigh
 cudgel
 cudgeled
+ceratophyllaceous
 cudgeler
 cudgelers
 cudgeling
