@@ -514,6 +514,7 @@ falisci
 falk
 firmarius
 faut
+foreshadows
 florets
 falkland
 fall
@@ -7987,7 +7988,6 @@ foreshadower
 foreshadowing
 fingery
 fiberfill
-foreshadows
 flagging
 foreshaft
 foreshank
