@@ -4473,7 +4473,6 @@ desertion
 demersal
 demerse
 demersed
-demersion
 demesgne
 demesman
 dialyse
@@ -16328,6 +16327,7 @@ downlooked
 drawbar
 downlooker
 downmost
+demersion
 downness
 disenthralls
 demilitarize
