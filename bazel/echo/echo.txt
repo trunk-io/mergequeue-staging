@@ -926,6 +926,7 @@ ectorganism
 ectorhinal
 ectosarc
 excavated
+endive
 ectoskeleton
 eggcupful
 ectosomal
@@ -5266,7 +5267,6 @@ endopterygota
 endopterygote
 endopterygotic
 endopterygotism
-endive
 endorachis
 endoradiosonde
 endoral
