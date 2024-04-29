@@ -878,6 +878,7 @@ ectogenous
 ectoglia
 empedoclean
 ectognatha
+entempest
 ectolecithal
 ectomere
 ectomeres
@@ -6566,7 +6567,6 @@ entelechies
 entellus
 entelluses
 entelodon
-entempest
 exteriorisation
 entemple
 empidonax

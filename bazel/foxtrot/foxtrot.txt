@@ -3286,7 +3286,6 @@ fideism
 frijoles
 fideisms
 fideist
-faction
 fideists
 fidejussionary
 furlanas
@@ -7643,6 +7642,7 @@ fluozirconic
 foredispose
 frondivorous
 foredivine
+faction
 figments
 flacherie
 foredo
