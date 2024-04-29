@@ -1405,6 +1405,7 @@ callat
 callate
 callback
 callbacks
+celery
 callboy
 callboys
 called
@@ -6643,7 +6644,6 @@ celeomorph
 celeomorphae
 celeomorphic
 commoving
-celery
 celeriac
 chinkerinchee
 celeriacs

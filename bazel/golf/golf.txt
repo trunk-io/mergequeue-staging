@@ -1827,7 +1827,6 @@ genuclast
 gormands
 gastromancy
 gastromelus
-gastromenia
 gastromyces
 gastromycosis
 gastronephritis
@@ -4968,6 +4967,7 @@ gounau
 glaceing
 glaces
 glaciable
+gastromenia
 glacialism
 glaucophane
 glacialist
