@@ -7249,7 +7249,6 @@ film
 footpads
 footpaths
 footpick
-footplate
 footpound
 footpounds
 flanderkin
@@ -8043,6 +8042,7 @@ foresleeve
 foreslow
 foresound
 forespake
+footplate
 forespeak
 forespeaker
 forespecified

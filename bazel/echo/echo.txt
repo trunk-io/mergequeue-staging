@@ -1866,6 +1866,7 @@ eighteenth
 eighteenthly
 eighteenths
 eightfoil
+equinus
 eightfold
 eighth
 eighthes
@@ -9984,7 +9985,6 @@ educts
 esthesiometric
 esthesioneurosis
 enchytraeidae
-equinus
 esthesiophysiology
 esthesis
 esthete
