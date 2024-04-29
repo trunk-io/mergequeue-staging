@@ -11322,7 +11322,6 @@ discourser
 discerptive
 discession
 discharacter
-discharge
 dischargeable
 discharged
 dischargee
@@ -11553,6 +11552,7 @@ disconectae
 disconfirm
 disconfirmation
 disconfirmed
+discharge
 disconform
 disconformably
 deontic
