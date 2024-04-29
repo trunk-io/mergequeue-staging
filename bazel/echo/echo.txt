@@ -6280,7 +6280,6 @@ enregistry
 enrich
 enrichener
 eogaea
-enriches
 enrichments
 epsilon
 episynthetic
@@ -10214,6 +10213,7 @@ ethanim
 ethanoyl
 ethanol
 ethanolamine
+enriches
 ethanolysis
 ethchlorvynol
 epipolize
