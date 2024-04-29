@@ -2031,7 +2031,6 @@ elachista
 elachistaceae
 elachistaceous
 encodes
-elaeagnaceae
 elaeagnus
 elaeis
 elaeoblast
@@ -2906,6 +2905,7 @@ elicitation
 elicited
 eliciting
 endosepsis
+elaeagnaceae
 elicitor
 elicitors
 elicits
