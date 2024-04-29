@@ -5373,7 +5373,6 @@ galbanum
 glenlike
 glenlivet
 gluten
-glenohumeral
 glenoidal
 glens
 glent
@@ -7950,6 +7949,7 @@ grandmotherly
 grandmotherliness
 grainers
 grandmothers
+glenohumeral
 grandnephews
 grandness
 grandniece

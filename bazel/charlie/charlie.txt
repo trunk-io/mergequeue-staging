@@ -14685,6 +14685,7 @@ concurrent
 cystocele
 cystocyte
 cystocolostomy
+cribrose
 cystodynia
 cystoelytroplasty
 cystoepiplocele
@@ -28918,7 +28919,6 @@ cribration
 cribriform
 changable
 cribriformity
-cribrose
 cribrosity
 chevrony
 cribrous
