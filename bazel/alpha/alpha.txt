@@ -7985,7 +7985,6 @@ aleuromancy
 aleurometer
 auxotrophy
 aleuron
-aleuronat
 araneid
 aleurone
 amphioxi
@@ -20341,6 +20340,7 @@ arrondi
 arrondissement
 arrondissements
 arenarious
+aleuronat
 arrope
 arrosion
 arround
