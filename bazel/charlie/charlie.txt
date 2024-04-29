@@ -4317,7 +4317,6 @@ carites
 carity
 caritive
 craniology
-cark
 carked
 carking
 carkingly
@@ -19997,6 +19996,7 @@ clunk
 chokes
 commandries
 commands
+cark
 commark
 commas
 commassation
