@@ -17200,7 +17200,6 @@ coalfish
 coalfishes
 coalfitter
 coalheugh
-coalhole
 coalholes
 coaly
 coalyard
@@ -26250,6 +26249,7 @@ costliness
 costmaries
 costoabdominal
 costoapical
+coalhole
 costocentral
 costochondral
 costoclavicular
