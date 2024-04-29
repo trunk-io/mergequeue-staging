@@ -13125,6 +13125,7 @@ cyathos
 cyathozooid
 cyathus
 cibaria
+combinative
 cibarial
 cibarian
 cibaries
@@ -19747,7 +19748,6 @@ carbonise
 combinational
 combinations
 catholicising
-combinative
 combinator
 combinatory
 combinatorial
