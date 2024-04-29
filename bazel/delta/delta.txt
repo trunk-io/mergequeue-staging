@@ -2004,7 +2004,6 @@ decaying
 decayless
 decal
 decalage
-decalcify
 decalcification
 decalcified
 decalcifier
@@ -10655,6 +10654,7 @@ dotingly
 diplopod
 diplopoda
 discorrespondent
+decalcify
 diplopodic
 diplopodous
 diplopods
