@@ -8992,7 +8992,6 @@ chargehouse
 chargeless
 chargeling
 chargeman
-charger
 chargers
 charges
 chargeship
@@ -31724,6 +31723,7 @@ customarily
 customariness
 customed
 customer
+charger
 customers
 customhouse
 customhouses
