@@ -7857,7 +7857,6 @@ bibation
 bibb
 bibbery
 bibberies
-bibbers
 bountihead
 bibby
 bibbing
@@ -9400,6 +9399,7 @@ birdcall
 birdcalls
 birdcatching
 birdclapper
+bibbers
 birdcraft
 barndoor
 birddom
