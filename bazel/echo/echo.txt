@@ -451,6 +451,7 @@ eccentring
 ecchymoma
 ecchymosed
 ecchymosis
+entophytous
 ecchymotic
 ecchondroma
 ethanedithiol
@@ -6941,7 +6942,6 @@ entoperipheral
 els
 entophytal
 entophytic
-entophytous
 entopic
 entoplasm
 entoplastral
