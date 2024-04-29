@@ -1899,6 +1899,7 @@ boasts
 bandaging
 brakes
 bandagist
+boardmen
 bandaid
 bandaka
 bandala
@@ -11549,7 +11550,6 @@ blitzing
 boardlike
 boardman
 boardmanship
-boardmen
 boardroom
 boards
 boardwalks
