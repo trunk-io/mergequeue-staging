@@ -2592,7 +2592,6 @@ electragist
 electrorefining
 electroresection
 electroretinograph
-electroretinography
 endorsation
 exotheca
 ecophobia
@@ -11206,6 +11205,7 @@ eurus
 eusebian
 euselachii
 euskaldun
+electroretinography
 euskara
 euskarian
 euskaric
