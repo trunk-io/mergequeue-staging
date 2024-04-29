@@ -2542,7 +2542,6 @@ electrophysics
 electrophysiology
 electrophysiologically
 electrophysiologist
-equivaliant
 electrophobia
 electrophone
 electrophonically
@@ -4186,6 +4185,7 @@ emplacements
 emplane
 emplanement
 emplanes
+equivaliant
 emplaning
 emplastic
 emplastration
