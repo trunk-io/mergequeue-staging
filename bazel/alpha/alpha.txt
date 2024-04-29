@@ -14292,7 +14292,6 @@ antecornu
 antepectus
 antependia
 antependium
-antependiums
 antepenuit
 antepenult
 allaeanthus
@@ -22300,6 +22299,7 @@ astrognosy
 astrogonic
 astrograph
 astrography
+antependiums
 astrohatch
 astroid
 astroite

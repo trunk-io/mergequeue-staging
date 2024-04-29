@@ -4555,6 +4555,7 @@ fits
 fittage
 fytte
 fitted
+formalist
 fitters
 fitty
 fittier
@@ -8410,7 +8411,6 @@ formaliser
 formalism
 fritting
 formalisms
-formalist
 fas
 formalistically
 formaliter
