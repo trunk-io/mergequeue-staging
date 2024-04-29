@@ -8430,7 +8430,6 @@ bigotty
 bigroot
 bigthatch
 biguanide
-biguttate
 bigwig
 bluenoser
 bigwigged
@@ -13911,6 +13910,7 @@ brabbled
 brabblement
 brabbler
 bussu
+biguttate
 brabblers
 bugbears
 brabbling
