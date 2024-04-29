@@ -13160,7 +13160,6 @@ dyspnoea
 dyspnoeal
 dyspnoeas
 decayer
-dyspnoeic
 dyspnoic
 dispond
 dispondaic
@@ -16558,6 +16557,7 @@ draftily
 draftiness
 drafting
 draftings
+dyspnoeic
 draftman
 draftmanship
 draftproof
