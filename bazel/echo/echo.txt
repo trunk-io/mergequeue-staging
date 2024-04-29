@@ -2366,7 +2366,6 @@ electrodepositor
 electrodes
 electrodesiccate
 electrodesiccation
-expostulative
 electrodiagnosis
 electrodiagnostic
 electrodiagnostically
@@ -2691,6 +2690,7 @@ elegance
 elegances
 elegancy
 elegancies
+expostulative
 elegante
 eleganter
 elegy
