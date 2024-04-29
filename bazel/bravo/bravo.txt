@@ -579,7 +579,6 @@ backswept
 backswimmer
 backswing
 backsword
-backswording
 bettergates
 backswordman
 bestness
@@ -4180,6 +4179,7 @@ bearhug
 bearhugs
 bearing
 bearings
+backswording
 bearish
 bearishness
 bankfull
