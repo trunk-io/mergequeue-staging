@@ -1973,7 +1973,6 @@ ejections
 ejective
 ejectively
 ejectivity
-ejector
 ejectors
 ejectum
 ejicient
@@ -5397,6 +5396,7 @@ endothermous
 endothia
 endothoracic
 endothrix
+ejector
 envergure
 ergodic
 endotys
