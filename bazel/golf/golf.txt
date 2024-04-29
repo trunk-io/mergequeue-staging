@@ -7712,6 +7712,7 @@ goosy
 graybacks
 graybearded
 graybeards
+gierfalcon
 graycoat
 grayed
 grayest
@@ -8669,7 +8670,6 @@ greenheart
 gladful
 gowned
 greenhide
-gierfalcon
 greenhood
 gestational
 gibbosities
