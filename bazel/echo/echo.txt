@@ -5224,7 +5224,6 @@ endomorph
 endomorphic
 endomorphism
 ecologies
-endoneurium
 endonuclear
 endonuclease
 endonucleolus
@@ -9726,6 +9725,7 @@ esoterically
 esotericism
 esotericist
 esoterics
+endoneurium
 esoterist
 esoterize
 esothyropexy
