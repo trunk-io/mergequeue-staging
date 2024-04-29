@@ -1045,6 +1045,7 @@ farm
 farmage
 farmed
 farmer
+florilegium
 farmeress
 farmery
 foretimes
@@ -6069,7 +6070,6 @@ florigens
 floriken
 florilage
 florilegia
-florilegium
 florimanist
 florin
 florins
