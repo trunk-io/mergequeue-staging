@@ -7568,6 +7568,7 @@ forecar
 forecarriage
 forecast
 forecaster
+foreinclined
 fisticuffs
 forecasters
 forecasting
@@ -7767,7 +7768,6 @@ firnismalerei
 faring
 fertilisation
 foreimpression
-foreinclined
 foreinstruct
 foreintend
 flaw

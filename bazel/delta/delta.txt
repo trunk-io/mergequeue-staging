@@ -3920,7 +3920,6 @@ dekes
 deking
 dekko
 dekkos
-dekle
 denitrification
 deknight
 del
@@ -7536,6 +7535,7 @@ devaporation
 devaraja
 devarshi
 devas
+dekle
 devast
 devastate
 devastating
