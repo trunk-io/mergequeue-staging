@@ -8079,7 +8079,6 @@ diabolification
 diabolise
 diabolised
 diabolism
-diabolist
 diabolization
 diabolize
 diabolized
@@ -11936,6 +11935,7 @@ disembowelling
 disembowelment
 disembowels
 disembower
+diabolist
 dioscoreaceous
 disembrangle
 disembroil

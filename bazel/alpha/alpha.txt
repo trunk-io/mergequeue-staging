@@ -7818,7 +7818,6 @@ aldolized
 aldolizing
 aldols
 aldononose
-aldopentose
 aldose
 aldoses
 aldoside
@@ -11361,6 +11360,7 @@ ampler
 amplex
 amplexation
 amplexicaul
+aldopentose
 awestruck
 amplexicauline
 amplexifoliate
