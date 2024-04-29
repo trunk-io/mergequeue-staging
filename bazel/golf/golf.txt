@@ -5007,7 +5007,6 @@ gladdened
 gladdening
 gladdens
 gladder
-gladdy
 gladding
 glade
 gladelike
@@ -9711,6 +9710,7 @@ grumping
 grumpish
 grumpishness
 grumps
+gladdy
 grun
 grundy
 grundified

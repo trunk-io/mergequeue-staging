@@ -10361,6 +10361,7 @@ americans
 americanum
 ascry
 americanumancestors
+armorless
 americas
 americaward
 americawards
@@ -20018,7 +20019,6 @@ antiutilitarianism
 armories
 armoring
 armorist
-armorless
 accusatorial
 armorplated
 armorproof
