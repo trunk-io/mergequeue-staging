@@ -7312,7 +7312,6 @@ besuit
 besully
 beswarm
 beswarmed
-beswarming
 beswarms
 besweatered
 beswelter
@@ -11835,6 +11834,7 @@ boehmenism
 boehmenist
 boehmenite
 boehmeria
+beswarming
 boehmites
 boeing
 burion
