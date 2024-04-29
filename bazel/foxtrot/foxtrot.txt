@@ -5902,6 +5902,7 @@ flogger
 floggers
 flogging
 facilely
+foreman
 floggingly
 floggings
 flogmaster
@@ -7824,7 +7825,6 @@ foulnesses
 fillingly
 forelouper
 foremade
-foreman
 foremarch
 foremark
 foremartyr

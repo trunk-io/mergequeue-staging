@@ -4775,7 +4775,6 @@ gowkit
 gyromancy
 gyromele
 gyrometer
-gyromitra
 gymnasisiums
 grandpapa
 gnawers
@@ -8997,6 +8996,7 @@ grimacers
 grimaces
 grimacing
 grimacingly
+gyromitra
 grimalkin
 grime
 grimed
