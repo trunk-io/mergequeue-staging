@@ -2150,7 +2150,6 @@ bankruptlike
 bankrupts
 bankrupture
 banks
-bankshall
 banksia
 buzzgloak
 basilissa
@@ -2805,6 +2804,7 @@ barnstorming
 barnstorms
 barnumism
 barnumize
+bankshall
 barocco
 barocyclonometer
 baroclinicity
