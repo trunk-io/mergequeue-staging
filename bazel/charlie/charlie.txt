@@ -17259,7 +17259,6 @@ coappearance
 councillor
 coappeared
 coappearing
-coappellee
 coapprehend
 coappriser
 coapprover
@@ -23488,6 +23487,7 @@ contests
 conteur
 contex
 context
+coappellee
 contextive
 contexts
 contextual
