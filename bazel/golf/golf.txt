@@ -800,7 +800,6 @@ goldylocks
 gradations
 galvanomagnetic
 galvanometer
-galvanometric
 geometries
 galvanometrical
 galvanoplasty
@@ -6103,6 +6102,7 @@ glucuronidase
 glucuronide
 gumshoeing
 gudok
+galvanometric
 ginkgo
 glue
 glued
