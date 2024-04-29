@@ -6952,6 +6952,7 @@ besew
 beshackle
 beshade
 beshadow
+bestrowing
 beshadowed
 bewrayer
 beshadows
@@ -7287,7 +7288,6 @@ bestripe
 bestrode
 bestrow
 bestrowed
-bestrowing
 bestrown
 bestrows
 bestrut
