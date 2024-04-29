@@ -21328,7 +21328,6 @@ concessionaire
 concessionaires
 concessional
 concessionary
-concessioner
 concessionist
 concessions
 catchpole
@@ -22126,6 +22125,7 @@ counterview
 conforming
 conformingly
 conformism
+concessioner
 conformist
 conformists
 conformity
