@@ -702,7 +702,6 @@ bacteriologically
 bacteriologies
 bacteriologist
 bacteriologists
-bacteriopathology
 bacteriophages
 botany
 bacteriophagia
@@ -10017,6 +10016,7 @@ byworks
 bixaceae
 bixaceous
 bixbyite
+bacteriopathology
 bixin
 biz
 byzant
