@@ -13841,7 +13841,6 @@ bowstaff
 buri
 brokenhearted
 buzane
-bowstringed
 bowstringing
 bowstrings
 bierstubes
@@ -15477,6 +15476,7 @@ briskest
 brisket
 briskets
 brisky
+bowstringed
 brisking
 bescurf
 briskish
