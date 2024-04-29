@@ -11620,6 +11620,7 @@ cholers
 cholestane
 cholestanol
 cholesteatoma
+curial
 cholesteatomatous
 cholestene
 cholesteremia
@@ -31308,7 +31309,6 @@ cury
 curia
 curiae
 curiage
-curial
 curialism
 curialist
 curialistic

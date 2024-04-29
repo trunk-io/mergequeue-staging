@@ -1008,7 +1008,6 @@ edaphic
 edaphically
 enerve
 edaphon
-edaphosaurid
 edaphosaurus
 edda
 exploitationist
@@ -1445,6 +1444,7 @@ effulgences
 effulgent
 effulgently
 effulges
+edaphosaurid
 effulging
 eruditeness
 effumability
