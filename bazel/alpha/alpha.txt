@@ -2147,6 +2147,7 @@ acetonuria
 acetonurometer
 acetophenetide
 acetophenetidin
+aforetimes
 acetophenetidine
 acetophenin
 asitia
@@ -5557,7 +5558,6 @@ aforenamed
 aforesaid
 aforethought
 aforetime
-aforetimes
 aforeward
 afortiori
 afoul
