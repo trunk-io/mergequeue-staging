@@ -8065,6 +8065,7 @@ alforja
 alforjas
 alfred
 aloedary
+awaken
 alfresco
 alfridary
 alfur
@@ -24916,7 +24917,6 @@ awakable
 awake
 awakeable
 awaked
-awaken
 awakenable
 awakened
 awakener
