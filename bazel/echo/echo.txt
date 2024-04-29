@@ -3047,6 +3047,7 @@ excavate
 epenla
 electrotherapist
 ellipses
+edgeless
 ellipsis
 ellipsograph
 ellipsoid
@@ -4508,7 +4509,6 @@ eolienne
 elias
 encarnalize
 encarnalized
-edgeless
 eloping
 emersions
 eclipsable
