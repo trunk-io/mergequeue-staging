@@ -2130,7 +2130,6 @@ campusses
 campward
 cams
 camshach
-camshachle
 coamings
 camshaft
 camshafts
@@ -16560,6 +16559,7 @@ clogmaker
 clogmaking
 clogs
 clogwheel
+camshachle
 charoset
 clogwyn
 clogwood
