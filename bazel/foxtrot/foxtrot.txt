@@ -8806,6 +8806,7 @@ forwardness
 forwardsearch
 forwarn
 forwean
+fumaroles
 forwear
 forweary
 forwearying
@@ -11008,7 +11009,6 @@ fumarin
 fumarium
 fumarole
 forefatherly
-fumaroles
 fumarolic
 fumatory
 fumatoria
