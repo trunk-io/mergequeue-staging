@@ -4413,6 +4413,7 @@ becarpet
 bigamist
 becarpeted
 becarpeting
+birthroot
 becarpets
 bode
 becarve
@@ -9582,7 +9583,6 @@ birthplaces
 birthrate
 birthright
 birthrights
-birthroot
 births
 birthstones
 birthwort
