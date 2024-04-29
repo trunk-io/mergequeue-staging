@@ -2236,7 +2236,6 @@ electioneering
 electioneers
 elections
 elective
-ephemerons
 electives
 electivism
 electivity
@@ -6799,6 +6798,7 @@ enthusiastly
 erodible
 enthusiasts
 enthusing
+ephemerons
 entia
 entice
 excellences
