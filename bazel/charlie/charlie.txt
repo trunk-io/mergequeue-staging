@@ -6463,6 +6463,7 @@ ccw
 cd
 cdf
 cdg
+costoclavicular
 ce
 ceanothus
 craggiest
@@ -26250,7 +26251,6 @@ costoapical
 coalhole
 costocentral
 costochondral
-costoclavicular
 costocolic
 costocoracoid
 costodiaphragmatic
