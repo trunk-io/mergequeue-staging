@@ -11709,7 +11709,6 @@ chondriocont
 chondrioma
 chondriome
 chondriomere
-chondriomite
 chondriosomal
 chondriosome
 chondriosomes
@@ -27183,6 +27182,7 @@ countertime
 countertype
 countertouch
 countertraction
+chondriomite
 countertrades
 countertransference
 countertranslation
