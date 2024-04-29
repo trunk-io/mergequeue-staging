@@ -7130,7 +7130,6 @@ det
 detach
 drudgingly
 detachable
-detachableness
 detachably
 detache
 detached
@@ -15610,6 +15609,7 @@ diallage
 doorkeeper
 doorknob
 doorknobs
+detachableness
 doorless
 doormaid
 disbranched
