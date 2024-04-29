@@ -13583,7 +13583,6 @@ dwines
 dissheathe
 dissheathed
 disship
-disshiver
 disshroud
 diplocardiac
 dissidence
@@ -15466,6 +15465,7 @@ doncy
 dondaine
 dondia
 dondine
+disshiver
 done
 diaries
 deduct
