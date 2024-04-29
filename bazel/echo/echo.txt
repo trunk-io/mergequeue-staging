@@ -4693,7 +4693,6 @@ encyclopaedic
 encyclopaedical
 encyclopaedism
 encyclopaedist
-encyclopedia
 encyclopediacal
 encyclopedial
 encyclopedian
@@ -9693,6 +9692,7 @@ esophagogastroscopy
 epigonichthyidae
 esophagogastrostomy
 esophagomalacia
+encyclopedia
 endfile
 esophagometer
 esophagomycosis
