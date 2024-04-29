@@ -390,7 +390,6 @@ daylights
 daylily
 dailiness
 daylit
-daylong
 dayman
 disilluminate
 daymare
@@ -6636,6 +6635,7 @@ desidiose
 desidious
 desight
 desightment
+daylong
 design
 designable
 designado

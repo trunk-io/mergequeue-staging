@@ -4828,7 +4828,6 @@ flaillike
 flails
 flain
 forearm
-fasher
 forthbrought
 flairs
 furdle
@@ -10078,6 +10077,7 @@ freemen
 frigorifical
 frigostable
 frigs
+fasher
 frija
 frijol
 foxiest
