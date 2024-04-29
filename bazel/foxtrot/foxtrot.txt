@@ -464,6 +464,7 @@ falasha
 falcade
 falcata
 falcate
+frescoist
 funestal
 falces
 falchion
@@ -2116,7 +2117,6 @@ feller
 fellers
 fellest
 fellfare
-frescoist
 felly
 farth
 felliducous
