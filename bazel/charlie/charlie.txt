@@ -12536,7 +12536,6 @@ cnemial
 chromophilic
 chromophyll
 chromophilous
-chromophobe
 chromophobia
 chromophobic
 chromophor
@@ -22204,6 +22203,7 @@ conga
 congaed
 congaing
 congas
+chromophobe
 conge
 congeable
 congealability
