@@ -1466,6 +1466,7 @@ garnishees
 galleypot
 garnisheing
 garnishes
+gastight
 garnishment
 garnison
 garniture
@@ -1678,7 +1679,6 @@ gasterothecal
 gasterotrichan
 gastful
 gasthauser
-gastight
 gastightness
 gasting
 gastly
