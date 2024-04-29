@@ -10769,7 +10769,6 @@ blepharosyndesmitis
 blepharosynechia
 blepharospasm
 blepharosphincterectomy
-blepharostat
 blepharostenosis
 blepharotomy
 blephillia
@@ -14416,6 +14415,7 @@ branch
 branchage
 branched
 branchedness
+blepharostat
 branchellion
 brancher
 branchery
