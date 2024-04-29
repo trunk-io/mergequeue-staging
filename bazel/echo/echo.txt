@@ -1797,7 +1797,6 @@ eyeopener
 eyepiece
 eyepit
 eyepoint
-eyepoints
 eyepopper
 eyereach
 eyeroot
@@ -7289,6 +7288,7 @@ eoith
 eoiths
 entamebae
 endromis
+eyepoints
 eole
 eolian
 eolipiles

@@ -4002,6 +4002,7 @@ bowstring
 bois
 beachier
 beaching
+betassel
 beachlamar
 beachless
 beachman
@@ -7344,7 +7345,6 @@ balisier
 barotaxy
 betask
 beadrow
-betassel
 betatron
 betatrons
 betattered
