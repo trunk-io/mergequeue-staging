@@ -7390,7 +7390,6 @@ alated
 amani
 arracacha
 alatern
-alaternus
 alation
 alations
 alauda
@@ -16956,6 +16955,7 @@ acholic
 aphototropism
 aphrasia
 aphrite
+alaternus
 aphrizite
 aphrodesiac
 aminodiphenyl
