@@ -2275,6 +2275,7 @@ electricity
 electricize
 electrics
 electriferous
+editorialist
 electrifiable
 electrification
 electrified
@@ -11897,7 +11898,6 @@ excavation
 excavational
 excavationist
 excavations
-editorialist
 excavator
 excavatorial
 excavators
