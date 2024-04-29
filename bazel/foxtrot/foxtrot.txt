@@ -1824,7 +1824,6 @@ febrifacient
 febriferous
 febrifugal
 febrifuge
-febrile
 febrility
 febriphobia
 febris
@@ -9074,6 +9073,7 @@ fourrageres
 fourrier
 forlore
 fours
+febrile
 flagellates
 fourscore
 fourscorth
