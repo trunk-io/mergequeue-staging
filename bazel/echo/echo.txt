@@ -6788,6 +6788,7 @@ enthronizing
 enthuse
 enthused
 enthuses
+entity
 enthusiasms
 enthusiast
 emballonurine
@@ -10062,7 +10063,6 @@ externation
 estrado
 estragol
 estragole
-entity
 estray
 elytropolypus
 estrayed

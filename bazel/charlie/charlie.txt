@@ -3900,7 +3900,6 @@ cardcase
 cardcases
 cardecu
 carded
-cardel
 carder
 carders
 cardholder
@@ -22861,6 +22860,7 @@ conservatism
 cuscuses
 conservatist
 conservative
+cardel
 conservatively
 conservativeness
 conservatives
