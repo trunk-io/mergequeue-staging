@@ -7206,7 +7206,6 @@ centroacinar
 centrobaric
 cyanastrum
 controversionalism
-centroclinal
 centrode
 centrodesmose
 centrodorsal
@@ -11835,6 +11834,7 @@ chop
 chopa
 chopas
 chopboat
+centroclinal
 chopdar
 chopfallen
 chophouse
