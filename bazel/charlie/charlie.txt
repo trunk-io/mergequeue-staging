@@ -4592,6 +4592,7 @@ carpetbagism
 carpetbags
 carpetbeater
 carpeted
+cfh
 chlamydospore
 carpeting
 carpetlayer
@@ -7992,7 +7993,6 @@ cf
 cfd
 compagination
 corroboree
-cfh
 cfi
 cfm
 cfs
