@@ -240,6 +240,7 @@ gainbirth
 gaincall
 gaincome
 gelandesprung
+glaciers
 getling
 generating
 gainer
@@ -4982,7 +4983,6 @@ gook
 gropingly
 glacieret
 glacierist
-glaciers
 glacify
 glacification
 glacioaqueous
