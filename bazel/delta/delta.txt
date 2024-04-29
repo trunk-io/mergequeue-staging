@@ -12180,6 +12180,7 @@ drillstock
 disgarnish
 duellists
 disgavel
+dissects
 disgaveled
 disgaveling
 dicers
@@ -13476,7 +13477,6 @@ dissection
 dissections
 dissector
 dissectors
-dissects
 disseise
 disseisee
 disseises
