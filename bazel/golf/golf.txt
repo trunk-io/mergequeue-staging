@@ -9450,6 +9450,7 @@ gentleship
 groundout
 groundplot
 grounds
+gastornis
 gros
 glossematic
 groundsel
@@ -9560,7 +9561,6 @@ germinally
 growlier
 growliness
 gemses
-gastornis
 growling
 growlingly
 gv
