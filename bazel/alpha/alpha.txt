@@ -5031,7 +5031,6 @@ aerognosy
 aerogram
 arricciatos
 aerograms
-aerograph
 aerography
 aerographic
 aerographical
@@ -5277,6 +5276,7 @@ afeared
 afebrile
 afenil
 afer
+aerograph
 afernan
 afetal
 aff
