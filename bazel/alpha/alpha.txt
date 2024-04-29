@@ -2563,6 +2563,7 @@ acknowledger
 acknowledgers
 acknowledges
 acknowledging
+awkwardest
 acknowledgment
 absentee
 acknowledgments
@@ -25007,7 +25008,6 @@ awiwi
 awkly
 awkward
 awkwarder
-awkwardest
 awkwardish
 awkwardly
 awkwardness
