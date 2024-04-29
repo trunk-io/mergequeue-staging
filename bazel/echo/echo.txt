@@ -6384,7 +6384,6 @@ enshield
 enshielded
 enshielding
 enshrined
-enshrinement
 enshrines
 enshroud
 enshrouded
@@ -11549,6 +11548,7 @@ endover
 eveweed
 evibrate
 ectopias
+enshrinement
 evicke
 evicted
 evictee
