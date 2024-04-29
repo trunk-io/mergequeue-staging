@@ -6052,7 +6052,6 @@ enlightenments
 entresol
 enlightens
 endosmosic
-enlinked
 enlinking
 enlinkment
 enlist
@@ -12662,6 +12661,7 @@ exoderms
 exody
 exodic
 exodist
+enlinked
 exodium
 exodoi
 exodontia
