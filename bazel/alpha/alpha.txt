@@ -20337,7 +20337,6 @@ arrondissements
 arenarious
 arrope
 arrosion
-arrosive
 arround
 arrouse
 arrow
@@ -23320,6 +23319,7 @@ auditives
 accommodational
 auditor
 auditory
+arrosive
 auditorial
 auditorially
 alleviaters
