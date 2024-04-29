@@ -4390,7 +4390,6 @@ enamelling
 enamellist
 esthesiology
 enamels
-enamelware
 enamelwork
 enamine
 epistolist
@@ -10530,6 +10529,7 @@ ethrogim
 ety
 etiam
 etym
+enamelware
 etymic
 etymography
 etymologer
