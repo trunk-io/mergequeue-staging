@@ -3515,7 +3515,6 @@ addible
 addice
 addicent
 addict
-addictedness
 addicting
 addiction
 addictions
@@ -23405,6 +23404,7 @@ augustan
 auguste
 auguster
 always
+addictedness
 augustest
 augusti
 augustin
