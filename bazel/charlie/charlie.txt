@@ -2959,7 +2959,6 @@ capacity
 capacities
 capacitively
 capacitor
-capacitors
 capanne
 cystolithectomy
 camelopards
@@ -20046,6 +20045,7 @@ commendably
 commendam
 circumstantial
 commendation
+capacitors
 commendations
 commendator
 commendatory
