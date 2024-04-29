@@ -1826,7 +1826,6 @@ epencephalic
 eyespot
 eyess
 eyestalk
-ecclesiasticalness
 eyestalks
 eyestrain
 eyestring
@@ -11819,6 +11818,7 @@ exanthem
 exanthema
 exanthematic
 exanthems
+ecclesiasticalness
 espionage
 emberiza
 exanthine
