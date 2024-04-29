@@ -2249,7 +2249,6 @@ electorial
 electors
 electra
 electragy
-electragist
 electre
 electrepeter
 electress
@@ -2589,6 +2588,7 @@ electropuncturing
 electroreceptive
 electroreduction
 electrorefine
+electragist
 electrorefining
 electroresection
 electroretinograph
