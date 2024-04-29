@@ -5228,7 +5228,6 @@ bicondylar
 beg
 begabled
 begay
-begall
 begalled
 baptized
 begalling
@@ -9006,6 +9005,7 @@ bioflavinoid
 bioflavonoid
 biog
 biogases
+begall
 bronzesmith
 biogasses
 biogen
