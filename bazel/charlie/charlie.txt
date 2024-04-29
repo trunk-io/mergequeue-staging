@@ -14656,7 +14656,6 @@ cysticercoid
 cysticercoidal
 cysticercosis
 cysticerus
-cysticle
 cystid
 cystidea
 cystidean
@@ -29006,6 +29005,7 @@ criminals
 criminate
 criminating
 crimination
+cysticle
 criminative
 criminator
 criminatory
