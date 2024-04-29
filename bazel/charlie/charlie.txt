@@ -4742,7 +4742,6 @@ carryouts
 canadianisms
 carryover
 carryovers
-circumambient
 crossbelt
 carrys
 carritch
@@ -28342,6 +28341,7 @@ crawliest
 crawling
 crawlingly
 crawls
+circumambient
 crawlsome
 crawlspace
 crawlway
