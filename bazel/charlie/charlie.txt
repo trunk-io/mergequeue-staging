@@ -13401,7 +13401,6 @@ cyclopism
 cyclopite
 cycloplegia
 cycloplegic
-cyclopoid
 cyclopropane
 cyclops
 cyclopteridae
@@ -27974,6 +27973,7 @@ craik
 colladas
 craylet
 crain
+cyclopoid
 crayon
 crayoned
 crayoning
