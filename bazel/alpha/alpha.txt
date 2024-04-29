@@ -10600,7 +10600,6 @@ amyloids
 amyloleucite
 amylolysis
 amylolytic
-amylom
 amylometer
 amylon
 amylopectin
@@ -19345,6 +19344,7 @@ arbitrationist
 areasoner
 areaway
 areaways
+amylom
 awk
 areawide
 areca
