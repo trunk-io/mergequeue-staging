@@ -1936,6 +1936,7 @@ banderilla
 banderilleros
 banderlog
 banderma
+bywalking
 blamability
 boubou
 banderol
@@ -10003,7 +10004,6 @@ biwa
 byway
 byways
 bywalk
-bywalking
 byward
 bespy
 biweeklies
