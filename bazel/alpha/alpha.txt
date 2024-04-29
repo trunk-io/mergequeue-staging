@@ -17619,6 +17619,7 @@ apparentements
 antecedaneous
 apparently
 apparentness
+asterolepis
 apparition
 apparitional
 apparitions
@@ -22084,7 +22085,6 @@ asteroidal
 asteroidea
 asteroids
 asterolepidae
-asterolepis
 asterope
 archetypes
 asterophyllite
