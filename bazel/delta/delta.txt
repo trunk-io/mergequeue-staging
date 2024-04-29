@@ -2569,7 +2569,6 @@ decodes
 dispiriting
 decoding
 decodings
-decodon
 decohere
 decoherence
 decoherer
@@ -13500,6 +13499,7 @@ disseizoress
 dismissable
 disseizure
 dissemblance
+decodon
 danda
 drawloom
 depr
