@@ -7881,7 +7881,6 @@ electromagnetize
 epihydric
 epihydrinic
 epihippus
-epikeia
 epiky
 epikia
 epiklesis
@@ -8647,6 +8646,7 @@ equilibria
 equilibrial
 equilibriate
 enunciates
+epikeia
 equilibrio
 equilibrious
 equilibrist

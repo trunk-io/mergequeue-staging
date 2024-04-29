@@ -2290,7 +2290,6 @@ fluorspar
 fencers
 firebricks
 fences
-fsiest
 furile
 fenchyl
 fencible
@@ -4825,6 +4824,7 @@ fluidise
 footwear
 flayer
 flayers
+fsiest
 flaying
 fakirs
 flail
