@@ -2612,6 +2612,7 @@ decolorization
 decolorize
 disidentify
 decolorized
+dispersonify
 decolorizer
 decolorizing
 decolors
@@ -13058,7 +13059,6 @@ dispersoid
 dispersoidological
 dispersonalize
 dispersonate
-dispersonify
 dismasting
 dispersonification
 dassies
