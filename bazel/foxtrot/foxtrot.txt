@@ -3948,6 +3948,7 @@ friers
 fingall
 festoonery
 fulfulde
+formant
 fingan
 fingent
 fingerable
@@ -8436,7 +8437,6 @@ formamide
 formamido
 formamidoxime
 formanilide
-formant
 fibers
 formants
 format
