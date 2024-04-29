@@ -11292,7 +11292,6 @@ amphitheatered
 amphitheaters
 amphitheatral
 amphitheatre
-amphitheatric
 ane
 amphitheatrical
 amphitheatrically
@@ -19664,6 +19663,7 @@ arhythmical
 arhythmically
 ary
 aria
+amphitheatric
 arya
 ariadne
 arian
