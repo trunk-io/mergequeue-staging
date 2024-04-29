@@ -160,7 +160,6 @@ abaton
 abator
 abators
 abattage
-abattis
 abattised
 abattises
 abattoirs
@@ -6969,6 +6968,7 @@ airlines
 airling
 airlock
 airlocks
+abattis
 airmailed
 airman
 airmanship
