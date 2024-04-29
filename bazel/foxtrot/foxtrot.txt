@@ -1299,7 +1299,6 @@ fastland
 firearms
 fastly
 fastnacht
-fastness
 fastnesses
 foreseing
 filicin
@@ -11169,6 +11168,7 @@ funditores
 fundmonger
 fundraising
 funds
+fastness
 fesswise
 funduck
 fundulinae
