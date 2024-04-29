@@ -191,7 +191,6 @@ earthquaked
 ean
 electrothermal
 earthquaken
-earthquakes
 earthquave
 earthrise
 earthset
@@ -4229,6 +4228,7 @@ emporte
 emportment
 empoverish
 empower
+earthquakes
 empowering
 empowerment
 eyeful
