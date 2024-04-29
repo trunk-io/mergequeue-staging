@@ -4710,6 +4710,7 @@ girgashite
 grinter
 girgasite
 gyri
+gazement
 galv
 gyric
 gyrinid
@@ -5311,7 +5312,6 @@ gleanable
 gleaned
 gleaner
 gleaners
-gazement
 gleaning
 gleanings
 growl
