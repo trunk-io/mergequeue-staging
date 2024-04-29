@@ -8953,7 +8953,6 @@ biocide
 biocides
 bioclimatic
 bioclimatician
-beltian
 bioclimatological
 bioclimatologically
 bioclimatologies
@@ -16615,6 +16614,7 @@ balanta
 balloonation
 buckoes
 buckone
+beltian
 buckpot
 buckraming
 buckrams
