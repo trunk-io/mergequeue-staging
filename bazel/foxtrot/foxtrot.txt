@@ -5917,7 +5917,6 @@ fonly
 flon
 flong
 flood
-fantasizes
 floodable
 floodage
 favorless
@@ -10167,6 +10166,7 @@ friseurs
 frivolling
 frisian
 frisked
+fantasizes
 frisker
 friskers
 foederatus
