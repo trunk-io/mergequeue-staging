@@ -1947,7 +1947,6 @@ banders
 bandersnatch
 bandfile
 bandfiled
-bandfiling
 bandfish
 bandgap
 bandh
@@ -16548,6 +16547,7 @@ buchmanite
 bayish
 buchnerite
 buchonite
+bandfiling
 buchu
 buckayro
 buckayros

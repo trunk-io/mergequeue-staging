@@ -5923,7 +5923,6 @@ glossolalia
 glossolaryngeal
 glossology
 glossologies
-glossologist
 glossoncus
 glossopalatine
 glossopalatinus
@@ -8043,6 +8042,7 @@ grabbing
 grano
 granodiorite
 gherkins
+glossologist
 grape
 granola
 granolite
