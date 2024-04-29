@@ -4626,6 +4626,7 @@ enchants
 encharge
 encharged
 encharging
+exopodite
 epirogenic
 encharnel
 enchased
@@ -5863,7 +5864,6 @@ enguard
 engulf
 engulfed
 engulfing
-exopodite
 engulfment
 enhaemospore
 enhallow
