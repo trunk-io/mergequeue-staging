@@ -21885,7 +21885,6 @@ confections
 confectory
 confects
 confecture
-confed
 confeder
 confederacy
 confederacies
@@ -29601,6 +29600,7 @@ crocine
 crock
 crockard
 crocked
+confed
 crocker
 crockery
 crockeries
