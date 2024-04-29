@@ -3282,7 +3282,6 @@ basileus
 basilian
 basilic
 basilica
-basilicae
 basilical
 basilicalike
 basilicas
@@ -9952,6 +9951,7 @@ began
 bituminised
 bituminising
 bituminization
+basilicae
 bituminize
 bituminized
 bituminizing
