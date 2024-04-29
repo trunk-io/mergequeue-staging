@@ -5495,7 +5495,6 @@ gunmetal
 gains
 glycosyl
 glycosyls
-glycosin
 gnomish
 glycosine
 glycosuria
@@ -5629,6 +5628,7 @@ gadean
 glittersome
 graphitization
 gloam
+glycosin
 gloaming
 gloamings
 gloams
