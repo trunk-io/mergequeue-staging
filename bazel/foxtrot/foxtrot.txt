@@ -7979,7 +7979,6 @@ fistify
 foresend
 faience
 foresense
-foresentence
 foreset
 fimbriated
 filo
@@ -8108,6 +8107,7 @@ forestside
 forestudy
 flue
 forestwards
+foresentence
 foresummer
 flimsilyst
 foresummon
