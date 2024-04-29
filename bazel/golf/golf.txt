@@ -5120,7 +5120,6 @@ gobangs
 gourdful
 gro
 glamourizer
-glamourless
 glamourous
 glamours
 glance
@@ -8222,6 +8221,7 @@ graping
 graplin
 grapline
 graplines
+glamourless
 greenhead
 grappa
 grappas
