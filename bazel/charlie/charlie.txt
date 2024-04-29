@@ -10886,7 +10886,6 @@ chippiest
 chipping
 chippings
 chipproof
-clocher
 chypre
 chips
 chipwood
@@ -19816,6 +19815,7 @@ comdr
 comdt
 come
 comeatable
+clocher
 comeback
 comebacks
 comecrudo
