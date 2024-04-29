@@ -5984,7 +5984,6 @@ glottochronology
 gymnemic
 glottochronological
 glottogony
-glottogonic
 glottogonist
 geochemist
 gyrons
@@ -9361,6 +9360,7 @@ grackle
 grossart
 grosse
 grossed
+glottogonic
 grossen
 grandmotherism
 gingles
