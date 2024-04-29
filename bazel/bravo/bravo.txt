@@ -2362,7 +2362,6 @@ barbarous
 bradford
 barbarously
 barbarousness
-barbas
 barbasco
 barbascoes
 barbascos
@@ -5753,6 +5752,7 @@ belime
 belinda
 belinuridae
 belion
+barbas
 beliquor
 beliquors
 belis
