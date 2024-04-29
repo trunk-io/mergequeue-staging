@@ -2666,7 +2666,6 @@ girt
 generalizeable
 generalizer
 generalizers
-generalizing
 gene
 gauffred
 generall
@@ -10471,6 +10470,7 @@ gundelow
 ghiblis
 gypsous
 gundi
+generalizing
 gundy
 gettysburg
 goldmist
