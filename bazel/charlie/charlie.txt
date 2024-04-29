@@ -9225,7 +9225,6 @@ chassepots
 chasses
 chasseurs
 chassignite
-chassis
 chemisorptive
 chastacosta
 chastelain
@@ -22750,6 +22749,7 @@ consciencelessness
 consciences
 consciencewise
 concentrative
+chassis
 conscient
 conscientious
 conscientiously
