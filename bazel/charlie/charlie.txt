@@ -12524,7 +12524,6 @@ chromonemata
 cassinoid
 chromonematal
 chromonematic
-connectively
 chromonemic
 chromoparous
 chromophage
@@ -13484,6 +13483,7 @@ cid
 cidarid
 cidaridae
 cidaris
+connectively
 cassida
 cider
 catchingly
