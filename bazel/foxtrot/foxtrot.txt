@@ -5378,6 +5378,7 @@ fleeces
 fleeched
 fleeches
 floristic
+featherbedding
 fleechment
 fleecy
 fluffier
@@ -11637,7 +11638,6 @@ fustian
 fustianist
 fustianize
 fustians
-featherbedding
 fustic
 fustics
 fustie
