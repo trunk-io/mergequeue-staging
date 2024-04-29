@@ -6663,6 +6663,7 @@ berede
 becrusts
 bereft
 brouze
+borderside
 becapped
 berend
 berendo
@@ -12976,7 +12977,6 @@ borderline
 bordermark
 backstitch
 borders
-borderside
 bordman
 bordrag
 bordrage
