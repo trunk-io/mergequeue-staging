@@ -6459,6 +6459,7 @@ benzoline
 benzolize
 benzols
 benzonaphthol
+bonds
 benzonitrile
 benzonitrol
 bluebuck
@@ -12279,7 +12280,6 @@ bombasine
 bombast
 bombaster
 bombastic
-bonds
 bellacoola
 bombastical
 behoovefully
