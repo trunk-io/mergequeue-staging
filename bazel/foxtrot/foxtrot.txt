@@ -3193,7 +3193,6 @@ ficoes
 ficoid
 ficoidaceae
 ficoidal
-ficoideae
 ficoides
 fixates
 fleshless
@@ -3352,6 +3351,7 @@ friability
 fieldfare
 fieldfight
 filmdoms
+ficoideae
 fieldy
 fieldish
 filmizing

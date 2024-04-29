@@ -1033,7 +1033,6 @@ gamophyllous
 gamori
 gamostele
 gamostely
-gamotropic
 gamotropism
 goblinism
 gamp
@@ -4665,6 +4664,7 @@ gastroenteroptosis
 gyrating
 gyrational
 gyrator
+gamotropic
 gyratory
 gyrators
 girba
