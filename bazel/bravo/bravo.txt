@@ -5992,7 +5992,6 @@ betta
 bemask
 bemaster
 bemat
-bemaul
 bemazed
 bembecidae
 bembex
@@ -16896,6 +16895,7 @@ buying
 build
 bummerish
 butterburr
+bemaul
 buildable
 builded
 builders
