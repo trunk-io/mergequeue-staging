@@ -15916,7 +15916,6 @@ clef
 clefs
 cleft
 clefted
-clefts
 cleidagra
 cleidarthritis
 cleidocostal
@@ -23727,6 +23726,7 @@ contramarque
 contramure
 contranatural
 contrantiscion
+clefts
 contraoctave
 contraorbital
 coteline
