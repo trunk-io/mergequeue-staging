@@ -2258,6 +2258,7 @@ cancellability
 cancellable
 cancellarius
 cancellation
+counterassertion
 cancelled
 canceller
 cancelli
@@ -15700,7 +15701,6 @@ claustra
 claustral
 claustration
 claustrophilia
-counterassertion
 claustrophobe
 claustrophobia
 claustrophobic
