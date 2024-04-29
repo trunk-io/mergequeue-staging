@@ -7548,7 +7548,6 @@ cerealian
 cerealin
 cerealism
 cerealist
-cereals
 cerebbella
 cerebella
 cerebellar
@@ -29416,6 +29415,7 @@ crisscrossing
 crisset
 crissum
 cryst
+cereals
 crista
 cristae
 crystaled
