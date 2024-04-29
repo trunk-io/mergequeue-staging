@@ -2904,6 +2904,7 @@ barouchette
 barouni
 baroxyton
 barpost
+bossdoms
 barquantine
 barque
 barques
@@ -13187,7 +13188,6 @@ bosquets
 bossage
 bossboy
 bossdom
-bossdoms
 baldachinos
 bossed
 beacons
