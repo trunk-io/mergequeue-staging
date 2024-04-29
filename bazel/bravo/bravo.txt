@@ -7280,6 +7280,7 @@ bestrewn
 basses
 bestrid
 bestridden
+bittacle
 blockaderunning
 bathala
 broomsquire
@@ -9888,7 +9889,6 @@ blaeberry
 bitstocks
 bitstone
 bitt
-bittacle
 bitte
 bitted
 bitten
