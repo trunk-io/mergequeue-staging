@@ -11841,7 +11841,6 @@ boerhavia
 boethian
 batzen
 bimbisara
-boethusian
 boettner
 boff
 boffin
@@ -14013,6 +14012,7 @@ brachymetropic
 brachinus
 brachiocephalic
 brachiocyllosis
+boethusian
 brachiocrural
 brachiocubital
 brachiofaciolingual
