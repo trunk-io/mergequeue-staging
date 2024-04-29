@@ -6506,6 +6506,7 @@ benzoxate
 benzoxy
 benzoxyacetic
 benzoxycamphor
+bongo
 benzoxyphenanthrene
 benzpinacone
 benzpyrene
@@ -15773,7 +15774,6 @@ bromeliaceae
 bishopess
 bromeliaceous
 bromeliad
-bongo
 bromelin
 batak
 bromelins
