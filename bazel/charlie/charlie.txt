@@ -7361,7 +7361,6 @@ cephalopoda
 cephalopodic
 cephalopodous
 cephalopterus
-cephalorachidian
 cephalorhachidian
 cephaloridine
 cephalosome
@@ -15744,6 +15743,7 @@ clavial
 claviature
 clavicembali
 clavicembalist
+cephalorachidian
 clavicembalo
 claviceps
 clavichord
