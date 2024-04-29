@@ -2014,7 +2014,6 @@ feigner
 feigners
 feigning
 feigningly
-feigns
 feijoa
 feil
 feyness
@@ -5132,6 +5131,7 @@ flatly
 flatling
 flatlings
 flatlong
+feigns
 flatman
 flatmen
 flats
