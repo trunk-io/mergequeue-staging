@@ -1806,6 +1806,7 @@ eyeservant
 enfranchisement
 erumpent
 eyeserver
+elastica
 eyeservice
 eyeshade
 eyeshades
@@ -2105,7 +2106,6 @@ elastance
 elastase
 elastases
 elastic
-elastica
 elastically
 elasticate
 elastician
