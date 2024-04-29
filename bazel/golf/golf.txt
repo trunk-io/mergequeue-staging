@@ -3252,6 +3252,7 @@ gowan
 geoselenic
 geoside
 geosynchronous
+gregal
 geosynclinal
 geosynclines
 gadfly
@@ -5231,7 +5232,6 @@ glassworkers
 gaius
 glassworks
 gasbags
-gregal
 glassworm
 glasswort
 glaswegian
