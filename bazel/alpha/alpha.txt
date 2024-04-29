@@ -2537,7 +2537,6 @@ acipenserine
 acipenseroidei
 algesis
 acyrology
-acyrological
 acystia
 aciurgy
 ack
@@ -8140,6 +8139,7 @@ algicides
 algid
 algidity
 algidities
+acyrological
 algidness
 algieba
 algiers
