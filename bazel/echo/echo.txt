@@ -2990,7 +2990,6 @@ elix
 epistolatory
 elixation
 elixed
-elixir
 elixiviate
 everich
 eliza
@@ -13606,6 +13605,7 @@ erythroplastid
 exterminated
 epionynychia
 exterminates
+elixir
 exterminating
 extermination
 exterminative
