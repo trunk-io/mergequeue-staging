@@ -10476,7 +10476,6 @@ beheader
 blastomycetic
 bergamots
 blastomycetous
-blastomycin
 blastomycotic
 blastoneuropore
 blastophaga
@@ -13198,6 +13197,7 @@ beacons
 biomicroscopy
 bosseyed
 bosselated
+blastomycin
 bosselation
 bronchiectatic
 bosses
