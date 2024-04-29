@@ -7919,7 +7919,6 @@ decembrist
 dextro
 dextroamphetamine
 dextroaural
-dextrocardia
 dextrocardial
 dextrocerebral
 dextrocular
@@ -8685,6 +8684,7 @@ diathermic
 diathermies
 diathermize
 divulgement
+dextrocardia
 diathermotherapy
 diathermous
 duenas
