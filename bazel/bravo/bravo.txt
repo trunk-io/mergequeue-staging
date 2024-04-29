@@ -6511,6 +6511,7 @@ benzoxy
 benzoxyacetic
 benzoxycamphor
 bongo
+bibliog
 benzoxyphenanthrene
 benzpinacone
 benzpyrene
@@ -17965,7 +17966,6 @@ besmudged
 busheling
 bushelled
 bushelling
-bibliog
 bushelman
 bushelmen
 bushels
