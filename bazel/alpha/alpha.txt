@@ -2936,7 +2936,6 @@ acrometer
 acromia
 acromial
 acromicria
-acromimia
 acromioclavicular
 acromiocoracoid
 acromiodeltoid
@@ -10289,6 +10288,7 @@ amended
 amender
 amenders
 amending
+acromimia
 amendment
 amendments
 afrikaans

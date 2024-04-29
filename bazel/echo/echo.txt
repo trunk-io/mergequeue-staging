@@ -2364,6 +2364,7 @@ electrodepositor
 electrodes
 electrodesiccate
 electrodesiccation
+ettling
 electrodiagnosis
 electrodiagnostic
 electrodiagnostically
@@ -10598,7 +10599,6 @@ ettarre
 ettirone
 ettle
 ettled
-ettling
 etua
 economizer
 etui
