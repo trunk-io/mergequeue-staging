@@ -28705,6 +28705,7 @@ creped
 crepehanger
 crepey
 crepeier
+cuboids
 crepeiest
 crepes
 cheeks
@@ -30512,7 +30513,6 @@ cubododecahedral
 cuboid
 cuboidal
 cuboides
-cuboids
 cubomancy
 cubomedusae
 cubomedusan
