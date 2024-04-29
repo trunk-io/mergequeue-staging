@@ -2605,7 +2605,6 @@ decolorimeter
 decoloring
 decolorisation
 decolorise
-decolorised
 decoloriser
 decolorising
 decolorization
@@ -6749,6 +6748,7 @@ desmarestiaceous
 desmatippus
 desmectasia
 desmepithelium
+decolorised
 desmic
 depurition
 desmid
