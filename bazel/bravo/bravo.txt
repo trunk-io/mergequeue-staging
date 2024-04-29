@@ -7161,7 +7161,6 @@ bespoke
 bespoken
 bespot
 bespotted
-bespottedness
 bespotting
 bespouses
 bespousing
@@ -7414,6 +7413,7 @@ bashilange
 betide
 betided
 betides
+bespottedness
 backbiter
 betiding
 balate
