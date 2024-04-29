@@ -25835,7 +25835,6 @@ corsages
 corsaint
 corsair
 corsairs
-corsak
 corse
 corselet
 corseleted
@@ -30667,6 +30666,7 @@ cuinfo
 cuing
 cuir
 cuirassed
+corsak
 ciselure
 cuirasses
 cuirassier
