@@ -5801,7 +5801,6 @@ alouatta
 aftosa
 aftosas
 aftward
-aftwards
 afunctional
 ag
 aga
@@ -10378,6 +10377,7 @@ amerism
 anthracotherium
 ameristic
 amerveil
+aftwards
 amesace
 amesaces
 autocatalytically
