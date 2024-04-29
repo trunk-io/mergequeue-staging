@@ -3161,7 +3161,6 @@ fibrotuberculosis
 fusarial
 fullterm
 fracture
-fibrous
 fibrovascular
 fibs
 fibster
@@ -7724,6 +7723,7 @@ forehall
 forehand
 forehanded
 forehandedly
+fibrous
 forehandedness
 forehands
 freeman
