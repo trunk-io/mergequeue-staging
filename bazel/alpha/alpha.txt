@@ -22429,7 +22429,6 @@ atake
 atalaya
 atalayas
 atalantis
-ataman
 atamans
 atamasco
 atamascos
@@ -23861,6 +23860,7 @@ autism
 autisms
 autist
 autistic
+ataman
 abbasid
 autoabstract
 autoactivation
