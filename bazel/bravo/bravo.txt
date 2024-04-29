@@ -1216,7 +1216,6 @@ bangiaceous
 bakeoven
 bakepan
 bimillenniums
-baker
 bakery
 bakeries
 bakerite
@@ -8681,6 +8680,7 @@ bilabiate
 billionaires
 beglue
 billionism
+baker
 billions
 billionth
 baudrons
