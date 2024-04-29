@@ -22059,7 +22059,6 @@ confiscators
 confiserie
 confisk
 confisticating
-confit
 confitent
 confiteor
 confiture
@@ -28116,6 +28115,7 @@ craniomalacia
 cremains
 crashers
 craniomaxillary
+confit
 craniometer
 craniometry
 counterlaw

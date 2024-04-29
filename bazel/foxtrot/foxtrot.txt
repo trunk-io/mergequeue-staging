@@ -582,6 +582,7 @@ fallway
 false
 falsedad
 formby
+fasted
 falseface
 falseheartedness
 falsehood
@@ -1258,7 +1259,6 @@ fast
 fenchone
 fastbacks
 fastballs
-fasted
 fleetingly
 fasten
 feral
