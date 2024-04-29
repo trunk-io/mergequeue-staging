@@ -10259,7 +10259,6 @@ etherialise
 etherialised
 etherialising
 etherialism
-etherialization
 etherialize
 etherialized
 etherializing
@@ -11749,6 +11748,7 @@ exaggeratively
 exaggerator
 exaggeratory
 exaggerators
+etherialization
 exagitate
 exairesis
 exalbuminose
