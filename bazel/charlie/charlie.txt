@@ -8558,7 +8558,6 @@ champlain
 champlainic
 cressier
 champlev
-champleve
 cuproiodargyrite
 champs
 chams
@@ -24071,6 +24070,7 @@ chancering
 conversationalism
 conversationalists
 conversationally
+champleve
 conversationism
 conversationize
 conversations
