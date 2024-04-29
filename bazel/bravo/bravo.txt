@@ -2745,7 +2745,6 @@ barleyhood
 barleymow
 barleys
 barleysick
-barless
 barly
 barling
 barlock
@@ -10121,6 +10120,7 @@ bugles
 blackened
 blackener
 blackeners
+barless
 blackening
 blackens
 blacker
