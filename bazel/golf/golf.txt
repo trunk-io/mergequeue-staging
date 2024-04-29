@@ -2202,6 +2202,7 @@ geophysicist
 gravigrade
 gazy
 gear
+gambodic
 gearcase
 gearcases
 geared
@@ -5417,7 +5418,6 @@ glycerins
 glumiflorae
 glycerite
 glycerize
-gambodic
 glycerizin
 glycerogel
 glycerole
