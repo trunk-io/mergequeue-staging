@@ -17910,7 +17910,6 @@ coeducation
 coeducational
 coeducationalism
 coeducationalize
-coeducationally
 coef
 coeff
 coeffect
@@ -24568,6 +24567,7 @@ copyfitter
 copyfitting
 copygraph
 copygraphed
+coeducationally
 copyhold
 copyholder
 copyholders
