@@ -7216,7 +7216,6 @@ footles
 footless
 footlights
 fraidycat
-footling
 frontignan
 footlock
 footlocker
@@ -10455,6 +10454,7 @@ frontosphenoidal
 frontotemporal
 fictions
 frontozygomatic
+footling
 fronts
 frontsman
 frontspieces
