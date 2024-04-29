@@ -29,6 +29,7 @@ caballer
 cineols
 caballeria
 caballero
+cyclicly
 caballine
 caballing
 caballo
@@ -13295,7 +13296,6 @@ cyclical
 cyclicality
 cyclicalness
 cyclicity
-cyclicly
 cyclide
 cyclindroid
 citramontane
