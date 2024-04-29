@@ -4316,7 +4316,6 @@ beautifulness
 beautihood
 beautiless
 beautyship
-beauts
 beaux
 burlers
 beaver
@@ -10526,6 +10525,7 @@ blatterer
 blattering
 blatters
 blatti
+beauts
 blattid
 blattidae
 boomerang
