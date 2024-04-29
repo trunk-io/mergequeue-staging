@@ -9265,7 +9265,6 @@ bipack
 bipacks
 bipaleolate
 burnup
-bipalium
 bipalmate
 biparental
 biparentally
@@ -13633,6 +13632,7 @@ bournonite
 bournous
 bourns
 bourout
+bipalium
 bourr
 bourran
 bourrasque
