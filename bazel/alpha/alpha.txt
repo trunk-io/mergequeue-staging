@@ -10492,7 +10492,6 @@ amidoplastid
 amidosuccinamic
 allgovite
 amidosulphonal
-amidoxy
 amidoxyl
 amidoxime
 analogist
@@ -19240,6 +19239,7 @@ arcose
 arcosolia
 arcosoliulia
 arcosolium
+amidoxy
 arcs
 arcsin
 arcsine
