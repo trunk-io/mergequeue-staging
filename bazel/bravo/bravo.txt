@@ -3567,7 +3567,6 @@ batfowls
 batful
 bath
 bordeaux
-bathala
 bathe
 batheable
 belduque
@@ -7279,6 +7278,7 @@ basses
 bestrid
 bestridden
 blockaderunning
+bathala
 broomsquire
 bestride
 bestrided

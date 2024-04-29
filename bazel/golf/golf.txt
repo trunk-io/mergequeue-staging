@@ -7337,7 +7337,6 @@ gossipmongering
 gossypol
 gossypose
 gossipped
-gossipping
 gossipred
 gossipries
 gossips
@@ -7947,6 +7946,7 @@ grandmaster
 grandmontine
 grandmother
 glossopode
+gossipping
 gallus
 grandmotherhood
 grandmotherly
