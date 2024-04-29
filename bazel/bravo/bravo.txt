@@ -3364,7 +3364,6 @@ basketmaking
 bazars
 basketry
 basketries
-baskets
 basketware
 basketweaving
 bullshit
@@ -11223,6 +11222,7 @@ blower
 blowers
 blowfish
 blowfishes
+baskets
 blowfly
 blowflies
 blowgun
