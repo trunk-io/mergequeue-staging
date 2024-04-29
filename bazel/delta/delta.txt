@@ -5973,6 +5973,7 @@ depudorate
 depulse
 depurate
 depurated
+drimys
 depurating
 depuration
 depurative
@@ -17129,7 +17130,6 @@ drills
 drylot
 drylots
 drilvis
-drimys
 dockyard
 dryness
 dognaping
