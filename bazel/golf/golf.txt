@@ -6452,7 +6452,6 @@ gobbledegook
 gobbledygook
 gobbler
 glomeration
-gobbles
 gobbling
 gobelin
 gobemouche
@@ -9068,6 +9067,7 @@ grins
 griot
 genoveva
 griots
+gobbles
 glimmer
 grip
 gripe
