@@ -1886,7 +1886,6 @@ fedayee
 fedarie
 feddan
 feddans
-fedellini
 federal
 federalese
 federalisation
@@ -4273,6 +4272,7 @@ firkins
 falconoid
 fitchy
 firlot
+fedellini
 firma
 firmament
 firmaments
