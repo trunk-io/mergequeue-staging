@@ -8742,7 +8742,6 @@ alleviators
 affatuate
 allez
 allhallow
-allhallows
 allhallowtide
 allheal
 allheals
@@ -12093,6 +12092,7 @@ anathem
 anathema
 anathemas
 arcsines
+allhallows
 anathemata
 anathematic
 anathematical
