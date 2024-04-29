@@ -2843,7 +2843,6 @@ carvel
 cantonal
 cup
 cantonalism
-cantoned
 cantoner
 cellocut
 cheapo
@@ -13174,6 +13173,7 @@ cessions
 cycadeoid
 cycadeoidea
 cycadeous
+cantoned
 cladautoicous
 cicadid
 cicadidae
