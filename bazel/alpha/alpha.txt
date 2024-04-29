@@ -2286,7 +2286,6 @@ aching
 achingly
 achiote
 achiotes
-achira
 achirite
 achyrodes
 achitophel
@@ -4852,6 +4851,7 @@ aeoline
 aeolipile
 aeolipyle
 aeolis
+achira
 aeolism
 aeolist
 aeolistic
