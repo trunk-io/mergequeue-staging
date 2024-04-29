@@ -2721,6 +2721,7 @@ canso
 cansos
 canst
 canstick
+chargable
 cant
 cantab
 cantabank
@@ -8977,7 +8978,6 @@ charet
 chareter
 charette
 chemisms
-chargable
 chargeability
 chargeable
 chargeableness
