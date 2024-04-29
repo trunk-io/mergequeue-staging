@@ -7994,7 +7994,6 @@ bibracteolate
 bibs
 billing
 bibulosities
-bibulous
 bibulously
 bibulousness
 bibulus
@@ -18154,6 +18153,7 @@ butene
 butenes
 butenyl
 buteo
+bibulous
 boron
 buteonine
 butyl
