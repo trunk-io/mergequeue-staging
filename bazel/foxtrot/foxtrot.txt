@@ -1949,6 +1949,7 @@ feedboard
 feedboxes
 feeded
 feeders
+foehns
 fagald
 feedhead
 feeding
@@ -6728,7 +6729,6 @@ foederis
 foeffment
 foehn
 foehnlike
-foehns
 foeish
 foeless
 foelike
