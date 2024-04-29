@@ -1516,7 +1516,6 @@ drillmaster
 deadest
 deadfall
 deadfalls
-dures
 deadhead
 deadheaded
 deadheading
@@ -8225,6 +8224,7 @@ diagnosticians
 diagnostics
 diagometer
 diagonal
+dures
 diagonalizable
 diagonalization
 disinteresting
