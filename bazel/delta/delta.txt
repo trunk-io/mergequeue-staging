@@ -719,6 +719,7 @@ dan
 dana
 danaan
 danae
+doublets
 disseize
 danagla
 danaid
@@ -16011,7 +16012,6 @@ doubleprecision
 doubler
 doublers
 doubles
-doublets
 doublespeak
 doublet
 doubleted
