@@ -4827,7 +4827,6 @@ carthaginian
 carthame
 carthamic
 conicoid
-carthamin
 carthamus
 carthorse
 carthusian
@@ -22114,6 +22113,7 @@ complexed
 conformant
 conformate
 conformation
+carthamin
 conformational
 conformationally
 conformations
