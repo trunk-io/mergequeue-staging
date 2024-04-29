@@ -6687,6 +6687,7 @@ ahull
 ahum
 ahungered
 ahungry
+absistos
 ahunt
 ahura
 ahurewa
@@ -8743,7 +8744,6 @@ alleviatingly
 alleviation
 alleviative
 alleviator
-absistos
 alleviatory
 alleviators
 affatuate
