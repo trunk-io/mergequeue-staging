@@ -2285,7 +2285,6 @@ fenceress
 fluorspar
 fencers
 firebricks
-faburden
 fences
 furile
 fenchyl
@@ -4900,6 +4899,7 @@ flamencos
 flamens
 flashier
 flamenship
+faburden
 forehood
 flameout
 flameouts
