@@ -4236,7 +4236,6 @@ empresario
 epistemonical
 empress
 empresse
-empressements
 empresses
 empressment
 emprint
@@ -11350,6 +11349,7 @@ evangelistship
 evangelium
 ethnos
 evangelization
+empressements
 ectoloph
 evangelize
 emmantle
