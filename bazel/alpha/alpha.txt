@@ -5006,7 +5006,6 @@ aeroducts
 aeroelastic
 arthrozoan
 aeroelasticity
-aeroelastics
 aeroembolism
 aeroenterectasia
 aerofoil
@@ -6234,6 +6233,7 @@ agitator
 agitatorial
 aromaticness
 agitators
+aeroelastics
 agitatrix
 agitprop
 agitpropist
