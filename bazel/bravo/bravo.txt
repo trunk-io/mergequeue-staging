@@ -4102,7 +4102,6 @@ beamman
 beamroom
 beamsman
 beamster
-bean
 beanbags
 beanball
 brutalitarian
@@ -5481,6 +5480,7 @@ behooving
 behorn
 bureaucratic
 bacterioprotein
+bean
 behorror
 behoved
 behoves
