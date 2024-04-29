@@ -1534,7 +1534,6 @@ cribbled
 calming
 calmingly
 cyamoid
-calmly
 calmness
 calmnesses
 calms
@@ -20223,6 +20222,7 @@ courtless
 committer
 committible
 committing
+calmly
 committitur
 counteropponent
 committment
