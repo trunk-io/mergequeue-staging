@@ -1035,6 +1035,7 @@ darkness
 darkroom
 darkrooms
 drunkensome
+dust
 darks
 darkskin
 darksomeness
@@ -18536,7 +18537,6 @@ diumvirate
 dissogeny
 duskly
 duskness
-dust
 dustband
 dustbins
 dustblu
