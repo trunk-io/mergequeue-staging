@@ -1196,7 +1196,6 @@ dasturi
 daswen
 dorcas
 dat
-database
 datable
 dogtrot
 datableness
@@ -1364,6 +1363,7 @@ destemper
 davens
 daver
 daverdy
+database
 davy
 discountenanced
 david
