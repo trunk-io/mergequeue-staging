@@ -5341,7 +5341,6 @@ ferrymen
 fleckless
 flinthead
 flecklessly
-flecks
 flecnodal
 flect
 florette
@@ -10940,6 +10939,7 @@ falsework
 foothook
 faradonervous
 fullwords
+flecks
 fulmar
 fulmars
 fulmarus
