@@ -10941,7 +10941,6 @@ chirographers
 chirography
 chirographic
 chirographical
-chirolas
 chirology
 chirological
 chirologically
@@ -28871,6 +28870,7 @@ crew
 crewcut
 crewe
 crewed
+chirolas
 crewelist
 crewels
 crewelwork
