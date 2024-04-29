@@ -552,6 +552,7 @@ dalmatics
 diagrams
 dalt
 dalton
+demounting
 deplore
 daltonian
 dirk
@@ -4942,7 +4943,6 @@ demount
 demountability
 demountable
 demounted
-demounting
 disgage
 dihydronaphthalene
 dempne
