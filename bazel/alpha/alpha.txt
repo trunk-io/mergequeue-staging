@@ -1033,6 +1033,7 @@ absorbefacient
 absorbency
 absorbencies
 absorbent
+adenylpyrophosphate
 absorbents
 absorber
 antitegula
@@ -3678,7 +3679,6 @@ adenemphraxis
 adeniform
 adenyl
 adenylic
-adenylpyrophosphate
 adenin
 antienthusiastically
 adenine
