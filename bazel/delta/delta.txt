@@ -8555,7 +8555,6 @@ diapirs
 diaplases
 disemboguing
 dejecta
-dusks
 diaplexal
 diaplexus
 diapnoe
@@ -16841,6 +16840,7 @@ drawoff
 drawout
 drawplate
 drawpoint
+dusks
 drawrod
 draws
 drawshave
