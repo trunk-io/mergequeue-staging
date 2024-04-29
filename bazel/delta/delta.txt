@@ -1709,7 +1709,6 @@ deathlessly
 deathlessness
 deathlike
 deathlikeness
-deathliness
 disappears
 dioestrum
 deathrate
@@ -13719,6 +13718,7 @@ disspirit
 disspread
 disspreading
 disstate
+deathliness
 dissuadable
 dissuade
 dissuaded
