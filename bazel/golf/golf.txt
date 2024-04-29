@@ -5740,7 +5740,6 @@ graduale
 glochidiate
 glochidium
 gulfweed
-gil
 glochids
 glochis
 glockenspiel
@@ -10737,6 +10736,7 @@ gutling
 gutnic
 guts
 gutser
+gil
 gigadoid
 gutsy
 gutsier
