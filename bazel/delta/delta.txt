@@ -2610,6 +2610,7 @@ decoloriser
 decolorising
 decolorization
 decolorize
+disidentify
 decolorized
 decolorizer
 decolorizing
@@ -12394,7 +12395,6 @@ dendrolite
 dishwatery
 dishwiper
 dishwiping
-disidentify
 dysidrosis
 disilicane
 dissolvent
