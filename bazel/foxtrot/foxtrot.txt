@@ -4299,7 +4299,6 @@ firmitude
 firmland
 firmness
 firms
-firmware
 firn
 floreate
 firoloida
@@ -4431,6 +4430,7 @@ fishworker
 fishworks
 fishworm
 fisk
+firmware
 fisnoga
 fissate
 frostbiting
