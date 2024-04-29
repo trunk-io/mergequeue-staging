@@ -5990,7 +5990,6 @@ enkerchief
 enkernel
 enki
 enkidu
-enkindled
 enkindler
 enkindles
 enkindling
@@ -13033,6 +13032,7 @@ expergefaction
 enwall
 experience
 ependymary
+enkindled
 experienceable
 experienced
 experienceless
