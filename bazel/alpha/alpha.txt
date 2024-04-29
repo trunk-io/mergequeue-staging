@@ -3970,7 +3970,6 @@ adytta
 adytum
 aditus
 adj
-adjacence
 adjacency
 adjacencies
 amberiferous
@@ -9932,6 +9931,7 @@ amatorial
 amatorially
 amatorian
 amatorio
+adjacence
 amatorious
 amatungula
 amaurosis
