@@ -6099,6 +6099,7 @@ benchful
 baleen
 benchy
 benching
+bks
 benchland
 benchless
 benchlet
@@ -10059,7 +10060,6 @@ bklr
 bkpr
 backsey
 beheira
-bks
 bkt
 bl
 blaasop
