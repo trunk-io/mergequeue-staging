@@ -3246,6 +3246,7 @@ activists
 academised
 activital
 activity
+authorizer
 armets
 activities
 activize
@@ -23841,7 +23842,6 @@ authorizations
 authorize
 authorized
 aphorism
-authorizer
 authorizers
 authorizes
 adoors
