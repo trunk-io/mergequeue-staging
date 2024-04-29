@@ -7068,6 +7068,7 @@ besmother
 bannermen
 besmottered
 besmouch
+bows
 besmudge
 besmudges
 besmudging
@@ -13823,7 +13824,6 @@ bowpots
 blitheful
 bowralite
 blightbird
-bows
 blueblood
 bowse
 bowsed

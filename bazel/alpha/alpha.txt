@@ -4703,7 +4703,6 @@ anthotaxis
 advisers
 advisership
 advises
-advisy
 advising
 advisive
 advisiveness
@@ -23593,6 +23592,7 @@ aurified
 aurifying
 auriflamme
 auriform
+advisy
 auriga
 aurigal
 aurigation
