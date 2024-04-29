@@ -3225,7 +3225,6 @@ geopositive
 geopotential
 geoprumnon
 georama
-georgemas
 georgette
 georgia
 georgiadesite
@@ -8798,6 +8797,7 @@ glyoxilin
 greiges
 galopade
 greyiaceae
+georgemas
 greying
 greyish
 greylag
