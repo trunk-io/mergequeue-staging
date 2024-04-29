@@ -1970,7 +1970,6 @@ acerdol
 aceric
 acerin
 acerli
-acerola
 acerolas
 acerous
 acerra
@@ -8927,6 +8926,7 @@ allomerous
 acenaphthylene
 averager
 allometry
+acerola
 allomorph
 allomorphic
 allomorphism
