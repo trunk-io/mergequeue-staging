@@ -7433,7 +7433,6 @@ albeit
 alberca
 alberene
 albergatrice
-alberge
 alberghi
 albergo
 alberich
@@ -14836,6 +14835,7 @@ antibacterial
 antibacteriolytic
 antiballistic
 antibank
+alberge
 antibaryon
 asthenobiosis
 antibasilican
