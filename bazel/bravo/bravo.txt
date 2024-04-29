@@ -308,6 +308,7 @@ backarrows
 backband
 backbar
 backbear
+bar
 backbearing
 backbeat
 backbeats
@@ -323,7 +324,6 @@ backberend
 backbit
 boothage
 broughtas
-bar
 backbite
 backbiters
 backbites
