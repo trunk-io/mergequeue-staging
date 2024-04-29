@@ -1755,7 +1755,6 @@ accoutre
 accoutrement
 accoutrements
 accoutres
-accoutring
 accra
 accredit
 accreditable
@@ -17611,6 +17610,7 @@ apparels
 apparence
 apparency
 almucantar
+accoutring
 apparens
 apparent
 amphithalamus

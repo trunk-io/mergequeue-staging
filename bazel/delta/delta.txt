@@ -4525,7 +4525,6 @@ dingle
 demidandiprat
 demideity
 dexterously
-demidevil
 demidigested
 demidistance
 demiditone
@@ -18651,6 +18650,7 @@ dwarflike
 dwarfling
 dwarfs
 dwarves
+demidevil
 dweeble
 dwell
 dollop
