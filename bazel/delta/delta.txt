@@ -5429,7 +5429,6 @@ denumerative
 denunciable
 denunciant
 denunciate
-denunciated
 denunciating
 denunciation
 denunciations
@@ -11796,6 +11795,7 @@ discriminativeness
 discriminator
 discriminatory
 discriminatorily
+denunciated
 diallers
 discriminators
 discriminous
