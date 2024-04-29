@@ -4676,7 +4676,6 @@ enchytraeus
 enchodontid
 enchodontidae
 enchodontoid
-enchodus
 enchondroma
 enchondromas
 enchondromata
@@ -8684,6 +8683,7 @@ equinity
 equinities
 equinoctial
 equinoctially
+enchodus
 exclamatorily
 educatability
 existents
