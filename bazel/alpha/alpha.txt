@@ -5347,6 +5347,7 @@ affenspalte
 affere
 afferent
 affettuoso
+aspirated
 affettuosos
 affy
 affiance
@@ -21531,7 +21532,6 @@ aspirants
 aspirata
 aspiratae
 aspirate
-aspirated
 aspiration
 adversatively
 aspirations
