@@ -6658,6 +6658,7 @@ enteroparalysis
 enteroparesis
 enteropathy
 enteropathogenic
+eulachons
 enteropexy
 enteropexia
 enteroplasty
@@ -10830,7 +10831,6 @@ euktolite
 eulachan
 eulachans
 eumorphous
-eulachons
 engarble
 eulamellibranchiata
 eulamellibranchiate
