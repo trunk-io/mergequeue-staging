@@ -12820,7 +12820,6 @@ enfaces
 endotracheitis
 exospore
 exosporium
-enfatico
 exosporous
 exossate
 exosseous
@@ -14145,6 +14144,7 @@ exhumated
 exulcerative
 exulceratory
 exulding
+enfatico
 exult
 exultance
 exultancy
