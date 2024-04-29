@@ -3464,7 +3464,6 @@ diallist
 defoliates
 defoliating
 defoliator
-defoliators
 deforce
 deuteroprism
 deforcement
@@ -7695,6 +7694,7 @@ devisings
 devisor
 devisors
 devitalisation
+defoliators
 departmental
 devitalise
 dephlogistication
