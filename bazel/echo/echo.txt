@@ -7478,7 +7478,6 @@ ephedraceae
 ephedras
 ephedrin
 ephedrine
-ephedrins
 ephelcystic
 ephelis
 ephemeral
@@ -10121,6 +10120,7 @@ esture
 esu
 esugarization
 esurience
+ephedrins
 esuriency
 esurient
 eglomise
