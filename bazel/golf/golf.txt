@@ -4758,7 +4758,6 @@ gyrochrome
 gaskings
 gonostyle
 golliwogg
-gyrocompasses
 gyrodactylidae
 gyrodactylus
 gurneyite
@@ -8025,6 +8024,7 @@ grandnephew
 garbling
 granitite
 gendarme
+gyrocompasses
 granitize
 granitized
 granitizing
