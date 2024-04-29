@@ -5703,6 +5703,7 @@ afterlife
 afterlifetime
 afterlight
 afterlives
+atmometer
 afterloss
 afterlove
 aftermark
@@ -22721,7 +22722,6 @@ adjt
 atmological
 atmologist
 axiopisty
-atmometer
 atmometric
 atmos
 atmosphere
