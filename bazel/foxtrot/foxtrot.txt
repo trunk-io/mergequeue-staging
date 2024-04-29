@@ -8646,7 +8646,6 @@ fullams
 fleaseed
 forsaken
 forsakenly
-forsakenness
 forsaker
 farmout
 forsakes
@@ -8991,6 +8990,7 @@ foundering
 foremistress
 foundership
 feudalise
+forsakenness
 forechoir
 foundling
 foundlings
