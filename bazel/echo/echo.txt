@@ -3019,6 +3019,7 @@ embosses
 exaggeratedness
 elkhound
 eel
+empoisoned
 elkhounds
 economizing
 elkoshite
@@ -4218,7 +4219,6 @@ eupolidean
 endameba
 empodium
 empoison
-empoisoned
 encaustes
 empoisonment
 empoisons
