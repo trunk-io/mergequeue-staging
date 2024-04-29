@@ -2031,7 +2031,6 @@ factorylike
 fizzed
 feistier
 feistiest
-feists
 felafel
 felaheen
 felahin
@@ -6361,6 +6360,7 @@ fancies
 fluky
 flukier
 flukiest
+feists
 flukiness
 funebre
 fluking
