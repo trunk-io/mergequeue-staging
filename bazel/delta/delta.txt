@@ -10365,7 +10365,6 @@ dioscorea
 dioscoreaceae
 dioscorein
 dioscorine
-dioscuri
 dioscurian
 diose
 diosgenin
@@ -10819,6 +10818,7 @@ directoire
 director
 directoral
 directorate
+dioscuri
 directorates
 directory
 dodging
