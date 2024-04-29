@@ -6434,7 +6434,6 @@ benzofulvene
 breezeless
 bollen
 benzofuran
-benzofuryl
 biozone
 benzofuroquinoxaline
 benzoglycolic
@@ -13306,6 +13305,7 @@ bothersome
 bothersomely
 bothersomeness
 bicentrically
+benzofuryl
 bothy
 bothies
 bardesanist
