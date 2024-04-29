@@ -2024,7 +2024,6 @@ bandstands
 bandster
 blackfire
 bandstop
-bandstring
 bandura
 bandurria
 bandurrias
@@ -13429,6 +13428,7 @@ bottstick
 bottu
 bathyscaphe
 botuliform
+bandstring
 botulin
 batwing
 babool
