@@ -8818,6 +8818,7 @@ bindery
 binderies
 binders
 banjos
+buffalos
 bloodstone
 bindheimite
 blinds
@@ -16750,7 +16751,6 @@ buffalofishes
 botheration
 betrothal
 buffaloing
-buffalos
 bespell
 buffball
 buckwasher
