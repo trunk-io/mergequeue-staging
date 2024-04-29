@@ -5426,7 +5426,6 @@ afflatus
 afflatuses
 afflict
 algesireceptor
-afflicted
 afflictedness
 afflicter
 afflicting
@@ -13051,6 +13050,7 @@ angular
 angulare
 angularia
 angularity
+afflicted
 angularities
 arctangent
 angularization
