@@ -5140,7 +5140,6 @@ endocrinic
 endocrinism
 endocrinology
 endocrinologic
-endocrinological
 endocrinologies
 evenlight
 excruciable
@@ -6938,6 +6937,7 @@ escarole
 exoticity
 entoparasitic
 entoperipheral
+endocrinological
 els
 entophytal
 entophytic
