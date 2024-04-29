@@ -11536,7 +11536,6 @@ cholanic
 cholanthrene
 cholate
 cholates
-chold
 choleate
 cholecalciferol
 cholecyanine
@@ -23063,6 +23062,7 @@ conspirators
 conspiratress
 conspire
 conspired
+chold
 conspires
 conspiring
 conspiringly
