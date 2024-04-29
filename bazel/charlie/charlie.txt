@@ -17372,7 +17372,6 @@ coattested
 coattesting
 coattests
 coaudience
-coauditor
 cobitidae
 coauthered
 coauthor
@@ -29302,6 +29301,7 @@ cryptography
 cryptographic
 cryptographical
 cryptographist
+coauditor
 cryptoheresy
 cryptoheretic
 cryptolite
