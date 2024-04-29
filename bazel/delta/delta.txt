@@ -3997,7 +3997,6 @@ delegacies
 delegalize
 delegalized
 delegalizing
-delegant
 dependants
 delegare
 delegate
@@ -4616,6 +4615,7 @@ demiowl
 demiox
 demipagan
 demiparallel
+delegant
 demipauldron
 doblones
 demipesade
