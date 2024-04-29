@@ -1768,7 +1768,6 @@ featheriest
 featheriness
 featherleaf
 fungated
-featherless
 featherlessness
 featherman
 flatterers
@@ -9052,6 +9051,7 @@ fourfold
 fourgon
 fourhanded
 fourier
+featherless
 fourierian
 firm
 framboesia
