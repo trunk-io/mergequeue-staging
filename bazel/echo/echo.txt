@@ -3931,7 +3931,6 @@ eminent
 eminently
 elishah
 expressionless
-ebullition
 emir
 edaphology
 emirate
@@ -8375,6 +8374,7 @@ epitomatory
 epitome
 epitomes
 epitomic
+ebullition
 epitomical
 epitomically
 epitomisation
