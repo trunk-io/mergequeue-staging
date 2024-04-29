@@ -6392,7 +6392,6 @@ caviars
 cavicorn
 coleur
 cavicornia
-cavidae
 cavie
 cavies
 caviya
@@ -18321,6 +18320,7 @@ cogitate
 cogitated
 cogitates
 cogitating
+cavidae
 cogitatingly
 cogitation
 cogitations
