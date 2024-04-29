@@ -6948,7 +6948,6 @@ beset
 besetment
 besets
 beefheaded
-besetters
 besetting
 besew
 beshackle
@@ -12752,6 +12751,7 @@ boomier
 banqueteering
 boomiest
 boominess
+besetters
 booming
 boomkins
 boomless
