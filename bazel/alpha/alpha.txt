@@ -9086,7 +9086,6 @@ allumette
 allurance
 allure
 allured
-allurement
 allurements
 allurer
 ahaaina
@@ -18810,6 +18809,7 @@ archdeaconship
 archdean
 archdeanery
 archdeceiver
+allurement
 archdefender
 archdemon
 archdepredator
