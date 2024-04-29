@@ -1284,6 +1284,7 @@ acanthion
 acanthite
 allophytoid
 applicably
+arch
 acanthocarpous
 acanthocephala
 acanthocephalan
@@ -18683,7 +18684,6 @@ arced
 arces
 arceuthobium
 arcform
-arch
 archabomination
 archae
 archaean
