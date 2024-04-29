@@ -676,7 +676,6 @@ gallize
 gallnut
 gallnuts
 gallocyanine
-galloflavin
 galloglass
 greekish
 galloman
@@ -5656,6 +5655,7 @@ globalized
 guarache
 glim
 globalizing
+galloflavin
 globally
 goffering
 gallimaufries
