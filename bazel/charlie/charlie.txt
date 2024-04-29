@@ -7478,7 +7478,6 @@ ceratophrys
 crozier
 ceratopsia
 ceratopsian
-ceratopsid
 ceratopsidae
 ceratopteridaceae
 ceratopteris
@@ -30804,6 +30803,7 @@ culsdesac
 chondrotome
 cultch
 cultches
+ceratopsid
 cultelli
 cultellus
 culter
