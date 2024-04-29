@@ -4992,7 +4992,6 @@ fettles
 flapdoodle
 furcately
 flaperon
-flanger
 flapjack
 flapjacks
 flapless
@@ -9035,6 +9034,7 @@ fourberie
 fourble
 fourche
 fourchee
+flanger
 fourcher
 flowing
 franklinia
