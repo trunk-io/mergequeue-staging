@@ -16371,7 +16371,6 @@ downsman
 downsome
 downspout
 downfold
-downstair
 downstairs
 downstate
 downsteepy
@@ -17499,6 +17498,7 @@ drucken
 drudged
 drudgery
 drudges
+downstair
 drudging
 drudgism
 druery
