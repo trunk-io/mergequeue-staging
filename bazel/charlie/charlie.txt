@@ -4100,7 +4100,6 @@ cardplaying
 cardroom
 cards
 clearwing
-cardshark
 cardsharp
 cardsharper
 cardsharping
@@ -7847,6 +7846,7 @@ crystal
 cervicomuscular
 cerviconasal
 cervicorn
+cardshark
 cervicoscapular
 cervicothoracic
 cervicovesical
