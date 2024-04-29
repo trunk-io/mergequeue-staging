@@ -4845,6 +4845,7 @@ flays
 flaite
 flaith
 flaithship
+frenchless
 floatsman
 flajolotite
 flak
@@ -9798,7 +9799,6 @@ frenchify
 frenchification
 frenchily
 frenchize
-frenchless
 flubbing
 frenchly
 frenchmen
