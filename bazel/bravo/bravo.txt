@@ -4872,7 +4872,6 @@ bedsteads
 bedstock
 bedstraw
 bedstraws
-beneighbored
 biliteral
 bedstring
 bedswerver
@@ -14860,6 +14859,7 @@ bochism
 breaststrokes
 breastweed
 breastwise
+beneighbored
 billiken
 brevi
 breastwood
