@@ -1898,7 +1898,6 @@ eikon
 eikonogen
 eikons
 eyl
-elasmotherium
 eila
 eild
 enbibe
@@ -2721,6 +2720,7 @@ ethmoiditis
 elegizes
 elegizing
 eleidin
+elasmotherium
 elektra
 elelments
 elem
