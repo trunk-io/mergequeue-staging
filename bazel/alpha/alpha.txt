@@ -2159,6 +2159,7 @@ acetopyrin
 acetopyrine
 acetosalicylic
 acetose
+amidoazobenzene
 acetosity
 acetosoluble
 acetostearin
@@ -10481,7 +10482,6 @@ amidoacetic
 amidoacetophenone
 amidoaldehyde
 amidoazo
-amidoazobenzene
 amidocyanogen
 amidofluorid
 adjudicating
