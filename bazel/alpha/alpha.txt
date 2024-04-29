@@ -21343,7 +21343,6 @@ askip
 asklent
 askoi
 askos
-asks
 aslake
 aslant
 aslantwise
@@ -23755,6 +23754,7 @@ autaesthesy
 autallotriomorphic
 autantitypy
 autarch
+asks
 autarchy
 autarchic
 autarchically
