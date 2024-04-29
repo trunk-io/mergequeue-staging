@@ -5006,6 +5006,7 @@ aerodromics
 aeroduct
 aeroducts
 aeroelastic
+arthrozoan
 aeroelasticity
 aeroelastics
 aeroembolism
@@ -20676,7 +20677,6 @@ arthrous
 adela
 arthroxerosis
 arthrozoa
-arthrozoan
 arthur
 arthurian
 arthuriana

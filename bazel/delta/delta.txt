@@ -4541,7 +4541,6 @@ demieagle
 demyelinate
 demyelination
 demies
-demifarthing
 deoxidization
 demifigure
 demiflouncing
@@ -15107,6 +15106,7 @@ dolabra
 dolabrate
 dolabriform
 dolcan
+demifarthing
 dolcemente
 dolci
 dolciano
