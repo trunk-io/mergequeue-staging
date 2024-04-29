@@ -25493,7 +25493,6 @@ coronalled
 coronals
 coronamen
 coronary
-coronas
 coronate
 coronated
 coronation
@@ -31826,6 +31825,7 @@ cutlass
 citrocola
 cutlasses
 cutlassfish
+coronas
 cutlassfishes
 cutleress
 cutlery
