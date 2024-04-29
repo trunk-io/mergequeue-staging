@@ -3480,6 +3480,7 @@ adatis
 adatom
 adaunt
 adawe
+afflue
 adawlut
 adawn
 adaxial
@@ -5432,7 +5433,6 @@ afflictively
 avadavats
 afflicts
 affloof
-afflue
 affluence
 affluency
 affluent
