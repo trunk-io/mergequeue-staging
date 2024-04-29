@@ -5786,7 +5786,6 @@ belleek
 belleeks
 bellehood
 belleric
-bellerophon
 bellerophontidae
 bursted
 becurst
@@ -13966,6 +13965,7 @@ brachycephalies
 brachycephalism
 brachycephalization
 brachycephalize
+bellerophon
 brachycephalous
 brachycera
 brachyceral
