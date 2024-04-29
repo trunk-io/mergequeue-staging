@@ -1674,7 +1674,6 @@ ballottable
 ballottement
 ballottine
 ballottines
-bushment
 blear
 ballpark
 ballparks
@@ -16863,6 +16862,7 @@ bugle
 bugled
 butic
 buglers
+bushment
 buglet
 bugleweed
 bugling
