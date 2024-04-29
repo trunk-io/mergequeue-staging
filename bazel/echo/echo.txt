@@ -3368,7 +3368,6 @@ embassador
 endointoxication
 embassage
 embassy
-embassiate
 embassies
 ensue
 embastardize
@@ -8701,6 +8700,7 @@ equipartition
 equipede
 equipendent
 expander
+embassiate
 exorcisms
 equipluve
 equipment

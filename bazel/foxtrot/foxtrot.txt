@@ -5838,7 +5838,6 @@ floatmaker
 fenetre
 floatman
 floatstone
-flob
 flobby
 flocced
 flocci
@@ -7620,6 +7619,7 @@ flyspecked
 forthby
 foredefeated
 fecundating
+flob
 filthified
 foredefine
 foredenounce
