@@ -6709,7 +6709,6 @@ goloka
 golpe
 goma
 gomari
-guyed
 gomarian
 gomart
 gomashta
@@ -10051,6 +10050,7 @@ guerilla
 guerillas
 guerison
 guerite
+guyed
 guerites
 guernseyed
 guerre
