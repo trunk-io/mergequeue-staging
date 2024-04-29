@@ -5950,7 +5950,6 @@ enigma
 enigmas
 enigmata
 enigmatic
-enigmatical
 enigmatically
 enigmaticalness
 enigmatist
@@ -6991,6 +6990,7 @@ entraining
 enteropneust
 entrainment
 emulsive
+enigmatical
 entrains
 entrammel
 entranced
