@@ -1036,7 +1036,6 @@ edemas
 edemata
 edematose
 edemic
-eschaufe
 eden
 estoppage
 edental
@@ -8026,6 +8025,7 @@ epiphanized
 epiphanous
 epipharyngeal
 encumbering
+eschaufe
 epipharynx
 epiphegus
 encoder
