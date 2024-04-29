@@ -8837,6 +8837,7 @@ bogydom
 bindingness
 bindings
 bindis
+brazenfacedness
 bindle
 bindles
 bindlet
@@ -14710,7 +14711,6 @@ brazened
 brazenface
 brazenfaced
 brazenfacedly
-brazenfacedness
 brazening
 brazenly
 brazenness
