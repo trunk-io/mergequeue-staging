@@ -1539,6 +1539,7 @@ deadlines
 deadliness
 deadlock
 deadlocked
+dissenters
 deadlocking
 demitasses
 deadlocks
@@ -13519,7 +13520,6 @@ deceivingly
 dissentaneousness
 dissented
 dissenter
-dissenters
 dissentiate
 dissentience
 dissentiency
