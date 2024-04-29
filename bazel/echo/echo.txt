@@ -1909,6 +1909,7 @@ eyoty
 epidialogue
 eyra
 ectad
+entitle
 eirack
 eyrar
 eyras
@@ -6831,7 +6832,6 @@ euchlorine
 entitative
 emetin
 excerptor
-entitle
 evanescible
 epitomizing
 entitled
