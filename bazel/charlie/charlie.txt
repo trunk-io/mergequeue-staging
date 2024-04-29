@@ -9517,7 +9517,6 @@ checker
 checkerbelly
 checkerbellies
 checkerberry
-checkerberries
 checkerboard
 climates
 calyciform
@@ -16557,6 +16556,7 @@ cloglike
 clogmaker
 clogmaking
 clogs
+checkerberries
 clogwheel
 camshachle
 charoset
