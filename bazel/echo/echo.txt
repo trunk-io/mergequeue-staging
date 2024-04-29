@@ -5268,7 +5268,6 @@ endopleural
 endopleurite
 epiblemata
 electrometry
-endopleuritic
 endopodite
 endopoditic
 endoproct
@@ -12461,6 +12460,7 @@ exhausts
 exhbn
 exhedrae
 exheredate
+endopleuritic
 electrotherapy
 exheredation
 exhibit
