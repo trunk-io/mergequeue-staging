@@ -8013,6 +8013,7 @@ bicapsular
 bicarb
 bejazz
 bicarbonate
+bunkers
 bicarbonates
 bicarinate
 bridely
@@ -17425,7 +17426,6 @@ blackouts
 bunkerman
 bromlite
 bunkermen
-bunkers
 bunkhouse
 bunkie
 bini
