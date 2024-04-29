@@ -9930,6 +9930,7 @@ chemosterilant
 chemosterilants
 chemosurgery
 chemosurgical
+constantinople
 chemotactic
 chemotactically
 chemotaxy
@@ -23088,7 +23089,6 @@ constant
 constantan
 constantine
 constantinian
-constantinople
 constantinopolitan
 constantly
 constantness

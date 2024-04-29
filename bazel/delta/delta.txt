@@ -6525,7 +6525,6 @@ depositors
 desecrated
 desecrater
 desecrates
-desecrating
 desecration
 desecrations
 desecrator
@@ -15429,6 +15428,7 @@ donacidae
 donaciform
 donack
 donal
+desecrating
 donald
 donar
 donary
