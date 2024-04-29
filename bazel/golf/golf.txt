@@ -5482,7 +5482,6 @@ glyconean
 glyconeogenesis
 glyconeogenetic
 glyconian
-glyconic
 glycopeptide
 glycopexia
 glycopexis
@@ -10319,6 +10318,7 @@ gulf
 grat
 gulfy
 gulfier
+glyconic
 gulfiest
 gulfing
 gulflike
