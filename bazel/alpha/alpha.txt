@@ -2082,7 +2082,6 @@ acetyliodide
 acetylizable
 acetylization
 acetylize
-acetylizer
 acetylizing
 acetylmethylcarbinol
 acetylperoxide
@@ -15446,6 +15445,7 @@ antihistamine
 antihistamines
 antihistaminic
 antennariidae
+acetylizer
 astrionics
 antihysteric
 antihistorical
