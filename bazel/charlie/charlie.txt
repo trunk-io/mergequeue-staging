@@ -3405,7 +3405,6 @@ captive
 captived
 calvarias
 captives
-captiving
 captivities
 captor
 counterdeputation
@@ -6353,6 +6352,7 @@ caveator
 caveators
 caveats
 caved
+captiving
 cavefish
 cavefishes
 cavey
