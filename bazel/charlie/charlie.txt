@@ -11424,6 +11424,7 @@ choanoflagellidae
 choanoid
 choanophorous
 choanosomal
+cuinage
 choanosome
 choate
 chob
@@ -30661,7 +30662,6 @@ cuiejo
 cuiejos
 cuif
 cuifs
-cuinage
 cuinfo
 cuing
 cuir
