@@ -1388,7 +1388,6 @@ gargil
 gargle
 gargled
 gargler
-gazers
 garglers
 gargling
 gargoyle
@@ -4803,6 +4802,7 @@ gliffing
 gyropilot
 gyroplane
 gastropneumatic
+gazers
 giros
 gyros
 gyroscope

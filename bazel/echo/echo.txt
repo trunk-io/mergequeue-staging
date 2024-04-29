@@ -8482,7 +8482,6 @@ eppy
 exogastric
 ecology
 eprise
-eproboscidea
 eprosy
 enfiladed
 epizoicide
@@ -12444,6 +12443,7 @@ exhaling
 exhausted
 egoity
 exhaustedly
+eproboscidea
 exhaustedness
 exhauster
 exhaustibility
