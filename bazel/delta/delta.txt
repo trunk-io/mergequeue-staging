@@ -8405,7 +8405,6 @@ diamante
 dimorphite
 diamantiferous
 ditrochee
-diamantoid
 diamat
 diamb
 diamber
@@ -11395,6 +11394,7 @@ disclaimer
 disclaimers
 disclaiming
 disclamation
+diamantoid
 disclamatory
 disclander
 disclass
