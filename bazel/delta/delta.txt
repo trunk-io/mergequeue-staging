@@ -10806,7 +10806,6 @@ directional
 discarding
 drain
 directionalize
-directionless
 directions
 directitude
 directive
@@ -12293,6 +12292,7 @@ disharmonism
 disharmonized
 disharmonizing
 dishaunt
+directionless
 dishboard
 dishcloth
 dishcloths
