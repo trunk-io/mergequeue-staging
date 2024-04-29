@@ -3659,6 +3659,7 @@ degrades
 degrading
 degradingly
 dehydrogenize
+detruncating
 degradingness
 degraduate
 degraduation
@@ -17635,7 +17636,6 @@ displicency
 drury
 dysphagic
 disenroll
-detruncating
 druse
 drusean
 drusedom
