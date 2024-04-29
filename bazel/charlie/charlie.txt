@@ -2572,7 +2572,6 @@ cannelured
 cannequin
 canner
 cannery
-canneries
 cannet
 cannetille
 canny
@@ -6645,6 +6644,7 @@ celeomorphae
 celeomorphic
 commoving
 celeriac
+canneries
 chinkerinchee
 celeriacs
 celeries
