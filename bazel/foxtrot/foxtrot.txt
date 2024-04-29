@@ -1629,7 +1629,6 @@ favourers
 favouress
 fallalery
 function
-favouring
 favouringly
 favourite
 favourless
@@ -6391,6 +6390,7 @@ fidgeter
 flumping
 fratricide
 flumps
+favouring
 foreimpressed
 flunk
 flunked
