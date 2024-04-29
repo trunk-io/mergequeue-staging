@@ -22503,7 +22503,6 @@ conjugator
 conjugators
 conjugial
 conjugium
-conjunct
 conjuncted
 chamm
 circumcision
@@ -29084,6 +29083,7 @@ criniere
 criniferous
 criniger
 crinigerous
+conjunct
 crinion
 criniparous
 crinital
