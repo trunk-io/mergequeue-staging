@@ -5183,6 +5183,7 @@ fingerbreadth
 flaughts
 flaunch
 flaunche
+floatstone
 flaunched
 flaunt
 flaunted
@@ -5836,7 +5837,6 @@ floatless
 floatmaker
 fenetre
 floatman
-floatstone
 flobby
 flocced
 flocci
