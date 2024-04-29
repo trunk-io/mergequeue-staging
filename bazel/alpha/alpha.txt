@@ -12832,7 +12832,6 @@ angiocarditis
 angiocarp
 angiocarpy
 angiocarpian
-angiocarpic
 angiocarpous
 angiocavernous
 angiocholecystitis
@@ -24876,6 +24875,7 @@ avowedness
 avower
 avowers
 avowing
+angiocarpic
 avowry
 avowries
 astronavigation
