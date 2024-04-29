@@ -7525,6 +7525,7 @@ evanesces
 ephoral
 ephoralty
 ephorate
+emandibulate
 ephorates
 ephori
 engraving
@@ -12858,7 +12859,6 @@ exotospore
 exotoxic
 exotoxin
 exotoxins
-emandibulate
 exotropia
 erosionally
 exotropic
