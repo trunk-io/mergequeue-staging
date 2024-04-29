@@ -5192,7 +5192,6 @@ denominant
 denominate
 denominated
 denominates
-denominating
 denomination
 denominational
 denominationalism
@@ -6325,6 +6324,7 @@ dermopathic
 dermophyte
 dysarthrosis
 dermophytic
+denominating
 dejeune
 dermoptera
 dermopteran
