@@ -139,6 +139,7 @@ earstone
 eoan
 earstones
 eartab
+enabled
 eartag
 eartagged
 earth
@@ -4340,7 +4341,6 @@ en
 enable
 eventfully
 expertising
-enabled
 enablement
 enablers
 enabling

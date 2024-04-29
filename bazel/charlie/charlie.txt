@@ -26526,7 +26526,6 @@ couchers
 couches
 couchy
 couching
-couchings
 couchmaker
 couchmaking
 couchmate
@@ -29223,6 +29222,7 @@ colorimetry
 cryptanalyze
 cryptanalyzed
 cryptanalyzing
+couchings
 cryptarch
 cryptarchy
 crypted
