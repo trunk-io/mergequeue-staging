@@ -11286,7 +11286,6 @@ chlormethylic
 chlornal
 chloro
 chloroacetate
-chloroacetic
 chloroacetone
 chloroacetophenone
 chloroamide
@@ -12642,6 +12641,7 @@ chronological
 chronologically
 chronologist
 chronologists
+chloroacetic
 chronologize
 chronologizing
 chronomancy
