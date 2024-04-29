@@ -1834,7 +1834,6 @@ febronian
 febronianism
 february
 factualist
-februarius
 februation
 fec
 fecal
@@ -10029,6 +10028,7 @@ frigate
 frigates
 flourescent
 frigatoon
+februarius
 frigga
 frigged
 freshman
