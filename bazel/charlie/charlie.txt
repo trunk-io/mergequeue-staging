@@ -2961,7 +2961,6 @@ capacitativly
 capacitator
 capacity
 capacities
-capacitively
 capacitor
 capanne
 cystolithectomy
@@ -25796,6 +25795,7 @@ corrugant
 corrugate
 corrugated
 corrugates
+capacitively
 corrugating
 corrugation
 corrugator
