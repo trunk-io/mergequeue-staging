@@ -2971,7 +2971,6 @@ bowmaker
 barreleyes
 barreler
 barrelet
-barrelfish
 barrelfishes
 barrelful
 birdcatcher
@@ -15617,6 +15616,7 @@ broadsides
 broadspread
 bellyfish
 broadsword
+barrelfish
 bluesman
 broadswords
 basenet
