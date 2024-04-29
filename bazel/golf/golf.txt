@@ -2089,7 +2089,6 @@ gaviiformes
 grotesquely
 gavyuti
 gavot
-gavots
 gavotte
 galliferous
 gavottes
@@ -4284,6 +4283,7 @@ gymnospermal
 gymnospermy
 gymnospermic
 gunhouse
+gavots
 gymnospermous
 geoisotherm
 gymnosperms
