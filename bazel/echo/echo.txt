@@ -1848,7 +1848,6 @@ eyewitness
 eyewitnesses
 eiffel
 eigenfrequency
-eigenfunction
 eigenstate
 eigenvalue
 eigenvectors
@@ -8219,6 +8218,7 @@ endia
 epistemologist
 excel
 equiprobabilist
+eigenfunction
 epistemophiliac
 epistemophilic
 epistena
