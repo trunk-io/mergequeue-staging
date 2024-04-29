@@ -2672,7 +2672,6 @@ decompressing
 decompression
 decompressions
 decompressive
-deconcatenate
 deconcentrate
 deconcentrated
 deconcentrating
@@ -12885,6 +12884,7 @@ disoxidate
 dysoxidation
 dissect
 dysoxidizable
+deconcatenate
 disoxygenate
 discourt
 disoxygenation
