@@ -2626,7 +2626,6 @@ decolourising
 decolourization
 decolourized
 daggles
-decolourizer
 decolourizing
 decommission
 decommissioned
@@ -13409,6 +13408,7 @@ disrooted
 diploplaculate
 didymous
 diaplex
+decolourizer
 disrooting
 disroots
 disrout
