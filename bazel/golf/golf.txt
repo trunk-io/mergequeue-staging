@@ -3993,6 +3993,7 @@ gifting
 giftless
 giftling
 gifts
+gneisses
 genson
 giftwrap
 giftwrapping
@@ -6301,7 +6302,6 @@ gnawing
 gnawings
 gnaws
 gneiss
-gneisses
 gneissy
 garau
 gneissoid

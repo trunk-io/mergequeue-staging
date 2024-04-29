@@ -295,6 +295,7 @@ abducts
 abe
 abeam
 abear
+analemmata
 annexing
 abearance
 abecedaire
@@ -11780,7 +11781,6 @@ abnormal
 analects
 analemma
 analemmas
-analemmata
 analepses
 atrickle
 analepsy
