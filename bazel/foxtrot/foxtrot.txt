@@ -2204,7 +2204,6 @@ felworts
 fem
 females
 femalist
-femcee
 furciform
 feme
 femereil
@@ -9490,6 +9489,7 @@ fratcher
 fratchety
 fratching
 frate
+femcee
 frater
 fratery
 frateries
