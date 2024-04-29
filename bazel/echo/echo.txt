@@ -10671,7 +10671,6 @@ elodeaceae
 euchlorophyceae
 epulis
 euchology
-euchologies
 evermo
 euchorda
 euchre
@@ -13812,6 +13811,7 @@ extradialectal
 extradict
 enoch
 extradicted
+euchologies
 extradictionary
 extraditable
 extradite
