@@ -1710,7 +1710,6 @@ fearnought
 fears
 frisket
 fearsome
-fillagreing
 fearsomely
 fortuity
 fearsomeness
@@ -11209,6 +11208,7 @@ fungic
 fungicidal
 fungicides
 fungiferous
+fillagreing
 fungify
 fungiform
 furacious
