@@ -13026,7 +13026,6 @@ anguid
 anguidae
 anguillaria
 abey
-anguille
 anguilliform
 anguilloid
 anguillula
@@ -16821,6 +16820,7 @@ apetaloid
 apetalose
 apetalous
 apexes
+anguille
 apexing
 aph
 antilogical
