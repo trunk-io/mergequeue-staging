@@ -17375,7 +17375,6 @@ coattests
 coaudience
 coauditor
 cobitidae
-coaugment
 coauthered
 coauthor
 coauthored
@@ -25231,6 +25230,7 @@ corker
 corkers
 corky
 corkier
+coaugment
 corkiest
 corkiness
 corking
