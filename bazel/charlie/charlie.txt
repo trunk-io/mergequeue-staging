@@ -7652,7 +7652,6 @@ ceremoniousness
 cereous
 cerer
 cererite
-ceresin
 ceresine
 cereuses
 cerevis
@@ -20949,6 +20948,7 @@ ceilometer
 comprehensives
 comprehensor
 comprend
+ceresin
 compresbyter
 compresbyterial
 compresence
