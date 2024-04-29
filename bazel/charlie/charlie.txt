@@ -11197,7 +11197,6 @@ chloralize
 chloralized
 chloralizing
 chloralose
-chloralosed
 chlorals
 chloralum
 chlorambucil
@@ -20977,6 +20976,7 @@ comprise
 connectional
 comprised
 comprises
+chloralosed
 comprising
 comprizal
 comprize
