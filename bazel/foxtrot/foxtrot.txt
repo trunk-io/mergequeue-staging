@@ -1675,7 +1675,6 @@ fractal
 fconvert
 farcin
 fcp
-fdname
 fdtype
 fdubs
 fe
@@ -1951,6 +1950,7 @@ feeders
 fagald
 feedhead
 feeding
+fdname
 feedings
 feedingstuff
 feedlot
