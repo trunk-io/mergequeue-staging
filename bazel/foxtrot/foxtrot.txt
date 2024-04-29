@@ -3530,6 +3530,7 @@ fil
 filace
 filagreed
 filagreing
+fungicides
 filament
 filamentary
 filamented
@@ -11208,7 +11209,6 @@ fungible
 fungibles
 fungic
 fungicidal
-fungicides
 fungiferous
 fillagreing
 fungify
