@@ -6106,6 +6106,7 @@ gluey
 gluelike
 ginger
 gallicisms
+gv
 genealogy
 gluelikeness
 gluemaker
@@ -9561,7 +9562,6 @@ growliness
 gemses
 growling
 growlingly
-gv
 gargoyled
 growls
 grown

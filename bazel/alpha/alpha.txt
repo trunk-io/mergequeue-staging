@@ -454,7 +454,6 @@ ambulacriform
 abiological
 abiologically
 abioses
-abiosis
 abiotic
 arthrodirous
 abiotical
@@ -3289,6 +3288,7 @@ actuals
 agena
 actuary
 actuarial
+abiosis
 actuarially
 actuarian
 actuaryship
