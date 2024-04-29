@@ -485,6 +485,7 @@ backseat
 backset
 backsets
 backsetting
+buprestid
 backsheesh
 backshift
 backshish
@@ -17488,7 +17489,6 @@ buphthalmum
 bupleurol
 bupleurum
 buplever
-buprestid
 buprestidan
 buprestis
 buqsha
