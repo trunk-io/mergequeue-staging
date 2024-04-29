@@ -388,7 +388,6 @@ galangals
 gynaecoid
 gynobasic
 galangin
-galany
 gauntries
 galant
 galante
@@ -3738,6 +3737,7 @@ gherao
 gheraoed
 glassworking
 gardenwards
+galany
 groupie
 gherkin
 gubernacula
