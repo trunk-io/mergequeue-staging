@@ -2047,6 +2047,7 @@ feldspath
 feldspathic
 feldspathization
 feldspathoid
+forehook
 feldspathoidal
 feldspathose
 felichthys
@@ -7739,7 +7740,6 @@ forehinting
 forehock
 forehoof
 forehoofs
-forehook
 forehooves
 fibular
 foreyard
