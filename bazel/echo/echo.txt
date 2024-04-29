@@ -4047,7 +4047,6 @@ empalement
 empaler
 empalers
 evert
-empaling
 explorers
 empall
 enteradenological
@@ -4736,6 +4735,7 @@ encyst
 encysted
 electralize
 encysting
+empaling
 encystment
 encystments
 encysts
