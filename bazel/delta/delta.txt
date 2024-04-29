@@ -5000,6 +5000,7 @@ denarius
 denaro
 denasalize
 denasalized
+draped
 denat
 denationalisation
 denationalise
@@ -16737,7 +16738,6 @@ drapable
 draparnaldia
 drape
 drapeability
-draped
 draperess
 draperied
 dzeron
