@@ -7168,7 +7168,6 @@ gladiolus
 gorget
 gorgeted
 gorgets
-gorging
 gorgio
 gorglin
 gorgon
@@ -9463,6 +9462,7 @@ gigantolite
 groundswell
 groundswells
 grayfishes
+gorging
 groundwall
 groundward
 groundwater
