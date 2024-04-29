@@ -4822,7 +4822,6 @@ encopreses
 encorbelment
 encore
 emulsifiable
-encores
 excitive
 events
 encoronal
@@ -7448,6 +7447,7 @@ epentheses
 epenthesis
 engore
 epenthesize
+encores
 epenthetic
 epephragmal
 epepophysial
