@@ -1538,7 +1538,6 @@ forereach
 faunish
 faunist
 fragmentized
-faunistic
 faunistical
 faunlike
 faunological
@@ -7272,6 +7271,7 @@ footsoldier
 footsoldiers
 footsore
 footsoreness
+faunistic
 footsores
 fetichism
 friller
