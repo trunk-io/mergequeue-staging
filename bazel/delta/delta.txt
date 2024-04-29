@@ -4957,7 +4957,6 @@ demulceate
 demulcents
 demulsibility
 demulsify
-demulsification
 demulsified
 demulsifier
 demulsion
@@ -14395,6 +14394,7 @@ divide
 divided
 dividedly
 dividedness
+demulsification
 dividend
 dividendus
 divident
