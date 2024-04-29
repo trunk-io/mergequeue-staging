@@ -34,7 +34,6 @@ eriglossate
 earache
 earaches
 earbash
-earclip
 earcockle
 eardrop
 ecphonesis
@@ -750,6 +749,7 @@ ecophene
 epilachna
 ecophysiology
 ecophysiological
+earclip
 ecorch
 epiphanize
 ecorche
