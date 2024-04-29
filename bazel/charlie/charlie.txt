@@ -17364,7 +17364,6 @@ cajeta
 coattending
 coattends
 coattest
-coattestation
 coupleress
 courteously
 coattestator
@@ -20245,6 +20244,7 @@ commodes
 commodious
 commodiously
 commodiousness
+coattestation
 commoditable
 commodity
 commodities
