@@ -10226,7 +10226,6 @@ elks
 ethenes
 ethenic
 ethenyl
-ethenoid
 ethenoidal
 ethenol
 ethmolachrymal
@@ -12366,6 +12365,7 @@ excessman
 exencephalus
 exendospermous
 exenterate
+ethenoid
 exenterated
 exenterating
 exenteration
