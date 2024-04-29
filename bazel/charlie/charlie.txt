@@ -5291,6 +5291,7 @@ castle
 castled
 castlelike
 consociating
+corkers
 castlery
 castles
 castlet
@@ -25228,7 +25229,6 @@ corke
 comsomol
 corked
 corker
-corkers
 corky
 corkier
 coaugment

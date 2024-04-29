@@ -7654,7 +7654,6 @@ fgn
 fretter
 foredooms
 foredune
-foreface
 forefaces
 forefathers
 fescenninity
@@ -7851,6 +7850,7 @@ forenote
 forenoted
 forenotion
 flattens
+foreface
 forensic
 forensical
 forensicality
