@@ -2020,6 +2020,7 @@ bandsmen
 bandspreading
 bandstand
 bandstands
+braunschweiger
 bandster
 blackfire
 bandstop
@@ -14636,7 +14637,6 @@ brauna
 brauneberger
 braunites
 breakneck
-braunschweiger
 brauronia
 brauronian
 brava
