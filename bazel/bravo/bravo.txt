@@ -6850,7 +6850,6 @@ bert
 bugshas
 berth
 bertha
-berthas
 berthed
 berther
 berthierite
@@ -16060,6 +16059,7 @@ broomballer
 broombush
 broomcorn
 broomed
+berthas
 broomer
 bugproof
 broomiest
