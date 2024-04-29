@@ -6617,6 +6617,7 @@ celebe
 celebes
 celebesian
 celebrant
+compendium
 celebrants
 celebrate
 celebrated
@@ -20593,7 +20594,6 @@ compendiate
 compendious
 compendiously
 compendiousness
-compendium
 compendiums
 compends
 compenetrate
