@@ -6243,7 +6243,6 @@ gushiest
 gnat
 gnatcatcher
 gnatflower
-gnathal
 gladen
 gnathalgia
 gnathidium
@@ -9607,6 +9606,7 @@ gossypols
 galtonian
 grubhood
 grubless
+gnathal
 grubroot
 grubs
 grubstake
