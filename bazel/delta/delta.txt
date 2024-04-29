@@ -3141,6 +3141,7 @@ default
 deterministically
 defaultant
 defaulted
+doryphorus
 decontaminates
 defaulters
 defaulting
@@ -15725,7 +15726,6 @@ dorine
 doryphoros
 divining
 diaphonia
-doryphorus
 dorippid
 doris
 densitometry
