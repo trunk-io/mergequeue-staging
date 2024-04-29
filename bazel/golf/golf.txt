@@ -733,6 +733,7 @@ governorships
 gallstones
 galluot
 goosey
+gillnetted
 gallup
 gallweed
 greasehorn
@@ -4163,7 +4164,6 @@ gilling
 gillion
 gaged
 gillnets
-gillnetted
 gillnetting
 gillotage
 gamester

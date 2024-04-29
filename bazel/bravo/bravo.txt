@@ -14849,6 +14849,7 @@ breastplates
 breastplough
 breastplow
 breastrail
+butlery
 breaststroke
 breaststroker
 bochism
@@ -18196,7 +18197,6 @@ butler
 butlerage
 butlerdom
 butleress
-butlery
 butleries
 butlerism
 bestab
