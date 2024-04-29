@@ -10618,7 +10618,6 @@ dermatomuscular
 deviative
 diplomat
 diplomate
-diplomates
 diplomatical
 diplomatically
 diplomatique
@@ -15821,6 +15820,7 @@ dorsocervically
 dorsoepitrochlear
 dorsointercostal
 dorsolumbar
+diplomates
 dorsomedial
 dorsomedian
 dorsomesal
