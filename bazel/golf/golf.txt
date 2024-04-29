@@ -4526,7 +4526,6 @@ ginnier
 ginning
 grisly
 ginnings
-gynobase
 gynobaseous
 gynocardia
 genros
@@ -10582,6 +10581,7 @@ gaugeably
 gunstone
 gunter
 gunther
+gynobase
 galactosis
 guntub
 gunung
