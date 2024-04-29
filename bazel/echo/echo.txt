@@ -605,7 +605,6 @@ echium
 echiurid
 engulfs
 echiurida
-echiuroid
 echiuroidea
 echiurus
 echo
@@ -1453,6 +1452,7 @@ effulgences
 effulgent
 effulgently
 effulges
+echiuroid
 edaphosaurid
 effulging
 eruditeness
