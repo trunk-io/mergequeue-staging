@@ -1187,7 +1187,6 @@ amenism
 abuta
 abutilon
 afterdrops
-abutment
 abutments
 abuts
 abuttal
@@ -18889,6 +18888,7 @@ autoagglutination
 arches
 archespore
 archespores
+abutment
 archesporia
 archesporial
 archesporium
