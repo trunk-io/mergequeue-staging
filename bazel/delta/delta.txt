@@ -4232,7 +4232,6 @@ delocalised
 delocalising
 delocalization
 delocalize
-delocalizing
 delomorphic
 deloo
 delouse
@@ -4914,6 +4913,7 @@ demorage
 demoralisation
 demoralise
 demoralised
+delocalizing
 demoraliser
 demoralising
 demoralization
