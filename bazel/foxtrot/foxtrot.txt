@@ -2198,6 +2198,7 @@ folletage
 feltman
 foulard
 feltness
+fever
 felts
 felwort
 felworts
@@ -2931,7 +2932,6 @@ feuing
 fleches
 feulamort
 feuter
-fever
 feverberry
 fjeld
 foisting
