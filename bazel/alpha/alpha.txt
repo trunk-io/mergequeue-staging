@@ -1435,7 +1435,6 @@ accelerated
 acceleratedly
 accelerates
 accelerating
-acceleration
 accelerative
 acceleratory
 accelerators
@@ -19299,6 +19298,7 @@ ardelia
 ardelio
 ardella
 ardellae
+acceleration
 ardency
 allwhere
 ardennite
