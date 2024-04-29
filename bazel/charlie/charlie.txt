@@ -4717,7 +4717,6 @@ carried
 carryed
 carriers
 carries
-carrigeen
 carrying
 carryings
 carriole
@@ -15450,6 +15449,7 @@ clapcake
 clapdish
 clape
 clapholt
+carrigeen
 clapmatch
 clapnest
 clapnet
