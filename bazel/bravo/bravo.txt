@@ -5545,7 +5545,6 @@ busied
 bejewel
 bejeweled
 bejeweling
-blockline
 bejewelled
 barricading
 bantingism
@@ -11416,6 +11415,7 @@ becalmed
 bluings
 bluish
 bluism
+blockline
 bluisness
 blumea
 blumed
