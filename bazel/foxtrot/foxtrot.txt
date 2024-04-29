@@ -6754,7 +6754,6 @@ frey
 frankable
 foetalization
 foetation
-foeti
 foetiparous
 foetor
 foetors
@@ -9371,6 +9370,7 @@ frances
 franchise
 forced
 franchised
+foeti
 franchisee
 franchisees
 franchisers
