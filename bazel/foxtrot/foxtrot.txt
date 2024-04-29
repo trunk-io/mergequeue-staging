@@ -5475,7 +5475,6 @@ fluoridised
 fletcherism
 fletcherite
 fletcherize
-foilable
 fletchers
 fletches
 fletchings
@@ -10027,6 +10026,7 @@ frig
 frigage
 frigate
 frigates
+foilable
 flourescent
 frigatoon
 februarius
