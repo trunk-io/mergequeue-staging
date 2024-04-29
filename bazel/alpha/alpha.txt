@@ -20730,6 +20730,7 @@ artifacts
 artifactually
 artifex
 aeschynomene
+autoxidizable
 artifice
 artificer
 artificers
@@ -24494,7 +24495,6 @@ autoxidation
 aberrometer
 autoxidator
 autoxidizability
-autoxidizable
 autoxidize
 autoxidizer
 autozooid
