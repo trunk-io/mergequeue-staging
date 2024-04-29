@@ -7399,7 +7399,6 @@ epaulet
 epauleted
 epaulets
 epaulette
-epauletted
 epauliere
 epaxial
 epaxially
@@ -12960,6 +12959,7 @@ eophytic
 extremity
 exla
 expediency
+epauletted
 expediencies
 expediente
 ew
