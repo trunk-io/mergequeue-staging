@@ -13372,7 +13372,6 @@ anisodactyle
 anisodactylic
 androphagous
 anisodactylous
-anisodont
 anisogamete
 anisogametes
 anisogametic
@@ -17053,6 +17052,7 @@ apioid
 apioidal
 apiol
 apiole
+anisodont
 apiology
 apiologies
 apiologist
