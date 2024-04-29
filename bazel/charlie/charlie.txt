@@ -5733,6 +5733,7 @@ categorematic
 categorematical
 category
 categorial
+concaulescence
 categoric
 categorical
 categoricalness
@@ -21156,7 +21157,6 @@ coequating
 concatenation
 concatenations
 concatenator
-concaulescence
 carols
 concause
 concavation
