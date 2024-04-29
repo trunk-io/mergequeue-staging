@@ -504,7 +504,6 @@ ecdysiast
 ecdysis
 ethnographies
 executives
-ecdysone
 empoisoning
 ecdysons
 ecesic
@@ -6955,6 +6954,7 @@ entosphenoid
 entosphere
 entosterna
 entosternal
+ecdysone
 entosternum
 entosthoblast
 entothorax

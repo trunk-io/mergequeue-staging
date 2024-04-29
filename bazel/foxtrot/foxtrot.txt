@@ -2940,7 +2940,6 @@ feverbush
 fevered
 feveret
 feverfew
-fevergum
 flamier
 floating
 fevering
@@ -9029,6 +9028,7 @@ figbird
 fouquieria
 fouquieriaceae
 forspread
+fevergum
 four
 fourb
 fourball
