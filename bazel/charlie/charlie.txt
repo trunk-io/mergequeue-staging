@@ -2968,6 +2968,7 @@ capataces
 capataz
 capax
 capcase
+costothoracic
 cape
 capeadores
 cunas
@@ -26262,7 +26263,6 @@ costophrenic
 costopleural
 costopulmonary
 costoscapular
-costothoracic
 costotome
 costotomy
 costotomies
