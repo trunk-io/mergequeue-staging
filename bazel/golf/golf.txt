@@ -5948,6 +5948,7 @@ glimpser
 groggeries
 greedygut
 geophagy
+guerison
 glossopteris
 genearch
 glossoptosis
@@ -10052,7 +10053,6 @@ gueridon
 gueridons
 guerilla
 guerillas
-guerison
 guerite
 guyed
 guerites
