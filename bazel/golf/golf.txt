@@ -5091,7 +5091,6 @@ glairs
 glaistig
 glaived
 glaives
-glaky
 geochemistry
 geminiform
 glam
@@ -6481,6 +6480,7 @@ gastriloquous
 gastronomist
 gastriloquism
 goblets
+glaky
 gynaecocoenic
 goblin
 glycocholate
