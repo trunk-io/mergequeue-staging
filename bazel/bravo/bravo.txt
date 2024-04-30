@@ -8584,7 +8584,6 @@ bilineate
 bilineated
 bylined
 billfold
-byliner
 bylines
 brave
 bilingual
@@ -16712,6 +16711,7 @@ budgeted
 budgeteer
 budgeter
 batiked
+byliner
 budgeters
 budgets
 budgie
