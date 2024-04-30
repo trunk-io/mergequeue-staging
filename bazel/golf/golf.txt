@@ -1661,6 +1661,7 @@ graphology
 gasteria
 gasterolichenes
 gasteromycete
+guess
 gasteromycetes
 gypsoplast
 geomorphologist
@@ -10067,7 +10068,6 @@ guerrillaship
 guesdism
 greaseproof
 guid
-guess
 guessable
 gamodeme
 gyrodyne
