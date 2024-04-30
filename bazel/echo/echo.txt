@@ -9558,7 +9558,6 @@ eschewal
 eschewals
 epalpebrate
 eschewance
-eschewed
 eschewer
 eschewers
 enfranchiser
@@ -13132,6 +13131,7 @@ expostulatingly
 expiringly
 expiscate
 expiscating
+eschewed
 expiscation
 expiscator
 expiscatory
