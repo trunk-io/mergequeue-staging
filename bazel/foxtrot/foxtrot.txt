@@ -4661,7 +4661,6 @@ flecnode
 flabellate
 flabellation
 flabellifoliate
-fortunite
 flagitiousness
 flabellum
 flabile
@@ -11633,6 +11632,7 @@ fustee
 fusteric
 fioretti
 fustet
+fortunite
 fustian
 fustianist
 fustianize
