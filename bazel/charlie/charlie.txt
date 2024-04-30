@@ -16472,7 +16472,6 @@ chemicopharmaceutical
 cloamen
 crusadoes
 cloamer
-clobber
 clobbered
 clobberer
 clobbering
@@ -17506,6 +17505,7 @@ cocainomania
 cocainomaniac
 cocains
 cocama
+clobber
 cocamama
 cocamine
 cocanucos
