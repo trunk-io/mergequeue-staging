@@ -5793,7 +5793,6 @@ gloomful
 gloomfully
 gloomy
 gloomier
-gloomily
 gloominess
 guastalline
 gardeen
@@ -5862,6 +5861,7 @@ gweducs
 gifture
 glaucomys
 glossas
+gloomily
 glossata
 glossator
 glucosone

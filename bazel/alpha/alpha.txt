@@ -7622,6 +7622,7 @@ applicators
 alcalde
 alcaldes
 alcaldeship
+asway
 alcaldia
 agronomics
 alcali
@@ -22401,7 +22402,6 @@ astutious
 asuang
 asudden
 asuri
-asway
 aswarm
 aswash
 asweat
