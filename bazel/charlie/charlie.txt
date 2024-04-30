@@ -12095,7 +12095,6 @@ coracohyoid
 chouser
 chousers
 chouses
-choush
 choushes
 chousing
 chousingha
@@ -14218,6 +14217,7 @@ circularizers
 circularizing
 circularly
 circularness
+choush
 circularwise
 circulatable
 circulated
