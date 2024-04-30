@@ -6909,6 +6909,7 @@ aircrafts
 aircraftsman
 assessee
 agamospore
+aliquots
 aircraftsmen
 aircraftswoman
 aircraftswomen
@@ -8407,7 +8408,6 @@ atmosphereless
 aliquant
 aliquid
 aliquot
-aliquots
 alisanders
 alish
 antechoir
