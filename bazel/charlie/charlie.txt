@@ -4243,7 +4243,6 @@ cariform
 centrodesmus
 cariyo
 coccidia
-caryl
 carillon
 carilloneur
 carillonned
@@ -18901,6 +18900,7 @@ collage
 collagen
 caponising
 collagenase
+caryl
 collagenic
 collagenous
 collagens
