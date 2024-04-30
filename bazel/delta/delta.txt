@@ -4625,7 +4625,6 @@ defloration
 demiquaver
 deforcing
 disbursable
-demifusion
 draegermen
 demiracle
 demiram
@@ -13851,6 +13850,7 @@ describe
 dool
 disembowelments
 distillmint
+demifusion
 distilment
 dropwort
 dypnone
