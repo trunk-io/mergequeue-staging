@@ -2784,7 +2784,6 @@ decremental
 decrementing
 decrements
 decremeter
-decrepid
 decrepit
 decrepitate
 decrepitated
@@ -4341,6 +4340,7 @@ demagnetizing
 demagnification
 demagog
 demagogy
+decrepid
 demagogic
 demagogies
 demagogism
