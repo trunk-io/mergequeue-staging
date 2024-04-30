@@ -4262,7 +4262,6 @@ adobo
 adobos
 adod
 adolesce
-adolesced
 aullay
 adolescence
 adolescency
@@ -11700,6 +11699,7 @@ anaesthetizing
 anaetiological
 anagalactic
 anagallis
+adolesced
 anagenesis
 anagenetic
 anagenetical
