@@ -2949,7 +2949,6 @@ feverweed
 feverwort
 few
 fewer
-fewest
 fewmand
 fewmets
 fogle
@@ -3237,6 +3236,7 @@ fiddlebrained
 fiddled
 freebootery
 fiddlefaced
+fewest
 fiddlehead
 firry
 fetish
