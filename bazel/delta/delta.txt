@@ -3092,7 +3092,6 @@ defaceable
 defacements
 defacer
 defacers
-defaces
 defacing
 defacingly
 defacto
@@ -17894,6 +17893,7 @@ dueness
 duenesses
 duenna
 duennadom
+defaces
 datism
 duennas
 duennaship

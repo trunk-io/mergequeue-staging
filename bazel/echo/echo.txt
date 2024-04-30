@@ -3515,7 +3515,6 @@ embolectomy
 embolectomies
 embolemia
 emboli
-emboly
 embolic
 emboliform
 engraphy
@@ -6833,6 +6832,7 @@ enriched
 entitling
 entitule
 entoblast
+emboly
 entoblastic
 entobronchium
 ebbman
