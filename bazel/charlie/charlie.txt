@@ -6091,7 +6091,6 @@ caucused
 caucuses
 caucusing
 caucussed
-caucusses
 caucussing
 cauda
 caudad
@@ -26297,6 +26296,7 @@ cosubject
 cosubordinate
 coconqueror
 cosuffer
+caucusses
 cosufferer
 cosurety
 cosuretyship
