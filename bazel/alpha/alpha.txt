@@ -3086,7 +3086,6 @@ actinal
 actinally
 actinautography
 actinautographic
-actine
 actinenchyma
 anacrustically
 acting
@@ -5421,6 +5420,7 @@ affixion
 affixment
 affixt
 affixture
+actine
 afflate
 afflated
 afflatus
