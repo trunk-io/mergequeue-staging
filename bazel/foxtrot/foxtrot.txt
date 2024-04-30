@@ -1313,6 +1313,7 @@ foreking
 finishable
 fat
 fatagaga
+forklifts
 fatal
 fatale
 fatales
@@ -8364,7 +8365,6 @@ forking
 forkless
 fayed
 forklift
-forklifts
 forkman
 forkmen
 forks
