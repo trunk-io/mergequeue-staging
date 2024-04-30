@@ -4513,7 +4513,6 @@ encarpium
 encarpus
 encarpuspi
 encased
-encasement
 encases
 euryzygous
 encash
@@ -10430,6 +10429,7 @@ ethnical
 ethnically
 exogamy
 ectobatic
+encasement
 erme
 ethnicism
 etiophyllin
