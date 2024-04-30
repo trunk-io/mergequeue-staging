@@ -5090,7 +5090,6 @@ gussie
 glairing
 glairs
 glaistig
-glaived
 glaives
 geochemistry
 geminiform
@@ -8787,6 +8786,7 @@ glottis
 greyed
 geonavigation
 gehenna
+glaived
 greyest
 glycocin
 grabbier
