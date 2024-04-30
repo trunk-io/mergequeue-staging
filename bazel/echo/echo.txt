@@ -7203,7 +7203,6 @@ envisions
 envoi
 envoy
 envois
-envoys
 envoyship
 execrably
 envolume
@@ -9756,6 +9755,7 @@ espanoles
 espantoon
 esparcet
 emanates
+envoys
 espavel
 espec
 especial
