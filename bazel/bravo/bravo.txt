@@ -17431,6 +17431,7 @@ blessing
 bunkermen
 bunkhouse
 bunkie
+butea
 bini
 bunking
 bunkload
@@ -18155,7 +18156,6 @@ butchers
 butches
 biogas
 bute
-butea
 butene
 butenes
 butenyl
