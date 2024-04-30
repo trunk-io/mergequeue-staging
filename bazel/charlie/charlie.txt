@@ -11716,7 +11716,6 @@ chondroblastoma
 chondrocarcinoma
 chondrocele
 chondrocyte
-chondroclasis
 chondrocoracoid
 chondrocostal
 chondrocranial
@@ -23811,6 +23810,7 @@ contravenes
 contravening
 contravention
 contraversion
+chondroclasis
 contravindicate
 contravindication
 contrawise
