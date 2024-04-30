@@ -3670,7 +3670,6 @@ bossisms
 bathwort
 batidaceae
 batidaceous
-batik
 buddh
 batiker
 bicarbide
@@ -4025,6 +4024,7 @@ beadeye
 beader
 buzzier
 beadflush
+batik
 beccaccia
 beadhouse
 beady
