@@ -5216,7 +5216,6 @@ endomitosis
 endomorph
 endomorphic
 endomorphism
-ecologies
 endonuclear
 endonuclease
 endonucleolus
@@ -10263,6 +10262,7 @@ endnotes
 ethered
 etherene
 erept
+ecologies
 etheria
 etherialisation
 etherialise
