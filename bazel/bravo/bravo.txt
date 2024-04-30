@@ -2623,7 +2623,6 @@ bassetite
 bargoose
 barguest
 barguests
-barhal
 barhop
 buzylene
 barhopped
@@ -17348,6 +17347,7 @@ blowess
 brachioganoid
 bundh
 bedamns
+barhal
 bundy
 bundies
 bundist
