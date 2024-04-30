@@ -10175,7 +10175,6 @@ etched
 etcher
 etchers
 etches
-economical
 etchimin
 etching
 etchings
@@ -11783,6 +11782,7 @@ examens
 exameter
 examinability
 examinable
+economical
 examinant
 examinate
 examinational
