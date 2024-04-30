@@ -5322,7 +5322,6 @@ affections
 affectious
 affective
 affectively
-affectivity
 affectless
 affectlessness
 affector
@@ -15723,6 +15722,7 @@ antinaturalism
 antinaturalistic
 antinaturally
 antinaturalness
+affectivity
 amebas
 antineologian
 antineoplastic
