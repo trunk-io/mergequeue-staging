@@ -1113,7 +1113,6 @@ gangling
 gorlois
 ganglioblast
 gangliocyte
-ganglioform
 galavant
 gheraoing
 glochideous
@@ -5703,6 +5702,7 @@ globosely
 globoseness
 gypping
 globosity
+ganglioform
 globosities
 globous
 globousness
