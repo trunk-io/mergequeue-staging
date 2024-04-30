@@ -257,7 +257,6 @@ gainyield
 gaining
 gainings
 gainlessness
-gainly
 gainlier
 gainliest
 gainliness
@@ -2122,6 +2121,7 @@ gawkiness
 gawking
 galilees
 grinners
+gainly
 gawkish
 gingerroot
 glossographical
