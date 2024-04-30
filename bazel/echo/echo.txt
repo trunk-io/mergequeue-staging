@@ -5414,6 +5414,7 @@ enclavement
 exotic
 endovasculitis
 equinox
+epitaph
 endovenous
 endow
 endowed
@@ -8263,7 +8264,6 @@ epistrophy
 excrescency
 epit
 epitactic
-epitaph
 epitapher
 epitaphial
 epitaphian
