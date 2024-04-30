@@ -5482,6 +5482,7 @@ except
 eneclann
 entosarc
 ebullient
+entails
 ened
 eneid
 enemas
@@ -10766,7 +10767,6 @@ eudiometer
 eudiometry
 eudiometric
 eudiometrical
-entails
 eudiometrically
 eudipleural
 eudora
