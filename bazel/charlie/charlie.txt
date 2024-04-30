@@ -2121,6 +2121,7 @@ campstool
 campstools
 camptodrome
 camptonite
+chefs
 camptosorus
 campulitropal
 campus
@@ -9699,7 +9700,6 @@ chef
 chefdom
 chefdoms
 chefrinia
-chefs
 chego
 chegoe
 chegoes
