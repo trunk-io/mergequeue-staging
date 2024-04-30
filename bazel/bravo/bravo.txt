@@ -6353,6 +6353,7 @@ bentonite
 bentonitic
 bents
 bentwoods
+bulletproof
 benu
 benumb
 benumbed
@@ -14304,7 +14305,6 @@ brail
 barcelonas
 brailed
 brailled
-bulletproof
 brailler
 brailles
 braillewriter
