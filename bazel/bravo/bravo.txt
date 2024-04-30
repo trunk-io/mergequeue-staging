@@ -1016,6 +1016,7 @@ bahuts
 bahutu
 bahuvrihi
 bahuvrihis
+blasphemer
 bai
 bestorm
 bayadeers
@@ -10422,7 +10423,6 @@ blasia
 blason
 blaspheme
 blasphemed
-blasphemer
 blasphemes
 blasphemy
 blasphemies
