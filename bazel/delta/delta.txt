@@ -3533,7 +3533,6 @@ defroster
 defrosters
 defrosting
 defs
-deft
 defter
 defterdar
 dizain
@@ -15079,6 +15078,7 @@ dogwinkle
 dogwood
 doh
 dohickey
+deft
 dohter
 doyen
 doyenne
