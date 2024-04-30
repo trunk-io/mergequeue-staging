@@ -7708,6 +7708,7 @@ alcmene
 alco
 alcoate
 alcogel
+arabidopsis
 alcogene
 alcohate
 alphabetology
@@ -18352,7 +18353,6 @@ arabic
 azodisulphonic
 arabica
 arabicism
-arabidopsis
 arabiyeh
 arability
 arabin

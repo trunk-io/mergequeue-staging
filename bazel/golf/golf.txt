@@ -2211,6 +2211,7 @@ gasterotricha
 gearset
 gearshift
 gearshifts
+genethliacally
 gearwheel
 gearwheels
 glistening
@@ -2722,7 +2723,6 @@ genet
 genethliacal
 gripper
 glycans
-genethliacally
 genethliacon
 genethliacs
 genethlialogy
