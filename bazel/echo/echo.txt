@@ -3723,7 +3723,6 @@ escapee
 embryulcuses
 epididymitis
 embrocado
-embrocate
 eurystheus
 embrocated
 embrocates
@@ -6516,6 +6515,7 @@ entach
 entackle
 enneasemic
 entad
+embrocate
 entada
 entail
 entailable
