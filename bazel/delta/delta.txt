@@ -16390,7 +16390,6 @@ downtowner
 downtowns
 dreamy
 downtrampling
-downtrend
 downtrends
 downtrod
 downtrodden
@@ -18365,6 +18364,7 @@ duplexing
 donis
 duply
 duplicability
+downtrend
 duplicable
 dysodile
 duplicand
