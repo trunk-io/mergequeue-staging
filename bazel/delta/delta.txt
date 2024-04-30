@@ -8790,7 +8790,6 @@ dibbuks
 deltoidal
 dybbuks
 diaphragmatically
-dibenzyl
 dibenzoyl
 dibenzophenazine
 dibenzopyrrole
@@ -16803,6 +16802,7 @@ drawboy
 drawbolt
 drawbore
 drawbored
+dibenzyl
 drawbores
 drawbridge
 drawbridges
