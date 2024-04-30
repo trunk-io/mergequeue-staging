@@ -9157,7 +9157,6 @@ almagra
 almahs
 afterbreach
 alman
-almanac
 anahau
 almanacs
 almander
@@ -18927,6 +18926,7 @@ ambush
 archfriend
 archgenethliac
 archgod
+almanac
 archgomeral
 archgovernor
 archgunner
