@@ -10795,7 +10795,6 @@ blessedly
 blessedness
 blesses
 brookable
-blessing
 blessingly
 blessings
 blest
@@ -17427,6 +17426,7 @@ bunkery
 blackouts
 bunkerman
 bromlite
+blessing
 bunkermen
 bunkhouse
 bunkie
