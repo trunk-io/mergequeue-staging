@@ -5861,6 +5861,7 @@ electrized
 engross
 engrossed
 engrossedly
+erythrolysin
 engrosser
 engrossers
 engrosses
@@ -9157,7 +9158,6 @@ erythrogenesis
 enarch
 erythroglucin
 erythrogonium
-erythrolysin
 erythrolysis
 erythrolytic
 erythrolitmin
