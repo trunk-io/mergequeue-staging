@@ -12572,7 +12572,6 @@ anemochore
 anemochoric
 anemochorous
 anemoclastic
-anemogram
 agee
 anemograph
 anemography
@@ -20718,6 +20717,7 @@ articulated
 anthecology
 articulately
 articulateness
+anemogram
 articulation
 acroter
 articulationes
