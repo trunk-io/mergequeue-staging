@@ -9585,7 +9585,6 @@ birthmate
 birthnight
 banalness
 birthplace
-birthplaces
 birthrate
 birthright
 birthrights
@@ -12406,6 +12405,7 @@ brassie
 bondager
 becudgelling
 bondages
+birthplaces
 bondar
 begirded
 bonded
