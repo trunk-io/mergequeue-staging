@@ -5117,7 +5117,6 @@ glamorous
 glamorously
 glamorousness
 glamors
-glamour
 governesshood
 glamoured
 glamoury
@@ -6080,6 +6079,7 @@ gimmick
 gluconeogenic
 glucoprotein
 glucosamine
+glamour
 glucosane
 glucosazone
 glucose
