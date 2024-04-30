@@ -1235,7 +1235,6 @@ gantlopes
 gruffing
 ganton
 gantry
-gantries
 gantryman
 gantsl
 ganza
@@ -4909,6 +4908,7 @@ gruelling
 gyrinus
 give
 goaltending
+gantries
 gyve
 giveable
 giveaways
