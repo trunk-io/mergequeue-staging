@@ -1524,7 +1524,6 @@ faultless
 faultlessly
 faultlessness
 faults
-faultsman
 faulx
 faun
 fleawort
@@ -7605,6 +7604,7 @@ fivefoldness
 fleabiting
 foredated
 folliful
+faultsman
 foredeck
 foredecks
 foredeclare
