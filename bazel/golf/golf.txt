@@ -2729,7 +2729,6 @@ genetics
 granuliform
 genetika
 genetmoil
-genetor
 genetous
 genetrix
 gangplows
@@ -4880,6 +4879,7 @@ gyte
 giterne
 gibsons
 gith
+genetor
 gitksan
 gravies
 grapewort
