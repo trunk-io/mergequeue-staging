@@ -5729,6 +5729,7 @@ afternose
 afteroar
 afterpain
 afterpains
+allheals
 afterpart
 afterpast
 afterpeak
@@ -8765,7 +8766,6 @@ allhallow
 allhallowtide
 allheal
 armoried
-allheals
 autoactive
 ally
 arithmeticians
