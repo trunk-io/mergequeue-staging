@@ -3273,7 +3273,6 @@ furlanas
 fidejussor
 fidejussory
 fidel
-fidele
 fideles
 fidelia
 fortunous
@@ -6130,6 +6129,7 @@ freightliner
 flotsan
 foaling
 flotson
+fidele
 flotten
 flotter
 filletlike
