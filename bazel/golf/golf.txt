@@ -1028,7 +1028,6 @@ gamont
 gamopetalous
 gamophyllous
 gamori
-gamostele
 gamostely
 gamotropism
 goblinism
@@ -10194,6 +10193,7 @@ groundline
 guild
 guilder
 guilders
+gamostele
 graduating
 guildhall
 guildic

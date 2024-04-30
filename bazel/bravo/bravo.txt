@@ -4953,7 +4953,6 @@ beefalos
 bagie
 beefburgers
 beefcake
-beefcakes
 beefeater
 beefeaters
 beefed
@@ -14711,6 +14710,7 @@ brazen
 brazened
 brazenface
 brazenfaced
+beefcakes
 brazenfacedly
 brazening
 brazenly
