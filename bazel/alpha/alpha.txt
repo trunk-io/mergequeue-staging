@@ -4980,7 +4980,6 @@ aerobranchia
 aerobranchiate
 aerobus
 aerocamera
-aerocar
 aerocartograph
 aerocartography
 aerocharidae
@@ -17467,6 +17466,7 @@ apostematous
 authenticatable
 aposteme
 aposteriori
+aerocar
 aposthia
 apostil
 apostille
