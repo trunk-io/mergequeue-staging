@@ -687,7 +687,6 @@ bacterioblast
 bacteriochlorophyll
 blink
 bacteriocidal
-bacteriocin
 bacteriocyte
 bacteriofluorescin
 bara
@@ -11453,6 +11452,7 @@ blunged
 blunger
 blungers
 blunges
+bacteriocin
 barefacedly
 blunging
 blunk
