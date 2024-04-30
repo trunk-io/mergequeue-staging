@@ -27263,6 +27263,7 @@ countryish
 countryman
 countrymen
 countryseat
+cants
 countryside
 countryward
 countrywoman
@@ -30886,7 +30887,6 @@ cum
 cumacea
 cumacean
 cumaceous
-cants
 cumaean
 cumay
 cumal
