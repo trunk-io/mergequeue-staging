@@ -3434,6 +3434,7 @@ guacho
 germen
 germens
 germfree
+granulitization
 germy
 germicides
 germiculture
@@ -8084,7 +8085,6 @@ granulet
 granulite
 granulitis
 gossan
-granulitization
 granulitize
 granulization
 granuloadipose
