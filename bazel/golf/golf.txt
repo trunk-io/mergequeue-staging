@@ -3035,7 +3035,6 @@ gimcrack
 gleeishly
 geodesists
 geodete
-geodetic
 gemstones
 geodetical
 gjetosts
@@ -10738,6 +10737,7 @@ gil
 gigadoid
 gutsy
 gutsier
+geodetic
 gibber
 gossampine
 gutsiest
