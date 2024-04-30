@@ -9701,7 +9701,6 @@ bishops
 bishopscap
 bishopship
 bishopstool
-bishopweed
 bisie
 bisiliac
 bontok
@@ -17630,6 +17629,7 @@ belaites
 burghmaster
 burghmoot
 burghs
+bishopweed
 binoxide
 burglar
 borides
