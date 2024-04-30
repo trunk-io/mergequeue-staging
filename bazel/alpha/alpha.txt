@@ -5242,7 +5242,6 @@ aethusa
 aetian
 aetiogenic
 aetiology
-aetiological
 aetiologically
 aetiologies
 aetiologist
@@ -10109,6 +10108,7 @@ amblyopsidae
 antiparticle
 amblyopsis
 amblyoscope
+aetiological
 amblypod
 amblypoda
 amblypodous
