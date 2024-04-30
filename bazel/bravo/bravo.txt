@@ -3357,7 +3357,6 @@ baskerville
 basket
 breezing
 basketball
-basketballer
 basketballs
 behusband
 basketful
@@ -4203,6 +4202,7 @@ bearward
 bearwood
 bearwoods
 bearwort
+basketballer
 beastdom
 beasthood
 beasties
