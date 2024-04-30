@@ -7179,7 +7179,6 @@ detected
 detecter
 detecters
 detectible
-detecting
 detection
 detections
 depleteable
@@ -9710,6 +9709,7 @@ dasypaedic
 dilatative
 dilatator
 dilatatory
+detecting
 dilate
 dilated
 dilatedly
