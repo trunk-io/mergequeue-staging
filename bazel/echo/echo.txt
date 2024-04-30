@@ -7482,6 +7482,7 @@ ephemerally
 euscaro
 ephemeran
 ephemeras
+editchar
 ephemeric
 ephemerid
 emotiomuscular
@@ -13168,7 +13169,6 @@ explete
 expletive
 expletively
 expletiveness
-editchar
 emulations
 experient
 expletives
