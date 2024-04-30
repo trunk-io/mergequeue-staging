@@ -7082,7 +7082,6 @@ fontinalis
 fontinas
 frontirostria
 fratercula
-fonts
 foo
 fumeless
 foochow
@@ -11025,6 +11024,7 @@ fume
 flitches
 fumed
 fumelike
+fonts
 fumerel
 femalely
 freakery
