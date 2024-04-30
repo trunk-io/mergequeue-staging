@@ -2106,7 +2106,6 @@ elastically
 elasticate
 elastician
 elasticin
-elasticity
 elasticize
 epicondylic
 elasticized
@@ -9671,6 +9670,7 @@ effigiate
 esocataphoria
 esocyclic
 esocidae
+elasticity
 emys
 educationalism
 esociform
