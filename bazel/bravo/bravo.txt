@@ -497,7 +497,6 @@ bowsing
 backslap
 boll
 backslapped
-byss
 backslapper
 backslappers
 belonger
@@ -2983,6 +2982,7 @@ barrelfishes
 barrelful
 birdcatcher
 barrelfuls
+byss
 barrelhead
 broguing
 barrelhouse
