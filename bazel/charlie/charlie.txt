@@ -2584,7 +2584,6 @@ cannet
 cannetille
 canny
 cannibal
-cannibalean
 cannibalish
 cannibalism
 cannibalistically
@@ -20367,6 +20366,7 @@ coupling
 communis
 communise
 communised
+cannibalean
 contributes
 communising
 carrotier
