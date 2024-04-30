@@ -1185,7 +1185,6 @@ calendrical
 calends
 calendula
 calendulas
-calendulin
 calentural
 calenture
 calentured
@@ -30686,6 +30685,7 @@ cuit
 cuitlateco
 cuitle
 cuitled
+calendulin
 cladodes
 cuitling
 cuittikin
