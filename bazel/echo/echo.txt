@@ -5171,7 +5171,6 @@ endoenteritis
 erbiums
 endoenzyme
 endoergic
-endofaradism
 endogalvanism
 endogamy
 endogamous
@@ -8313,6 +8312,7 @@ epithecia
 epistolizable
 epithecium
 epithelia
+endofaradism
 epithelialize
 ejectives
 epithelioceptor
