@@ -1574,7 +1574,6 @@ benzal
 bookseller
 bitubercular
 ballers
-bemeans
 ballet
 balletic
 bawl
@@ -13594,6 +13593,7 @@ bouquetin
 bouquets
 bouquiniste
 bour
+bemeans
 bourage
 bourasque
 bot
