@@ -29797,7 +29797,6 @@ crosne
 crosnes
 cross
 crossability
-crossable
 crossarm
 crossarms
 crossband
@@ -30039,6 +30038,7 @@ crowfoots
 crowhop
 crowhopper
 crowing
+crossable
 circa
 crowingly
 crowkeeper
