@@ -6424,7 +6424,6 @@ benzinduline
 benzine
 benzines
 benzins
-benzoate
 bisectrix
 benzoates
 biguttulate
@@ -8328,6 +8327,7 @@ bifurcated
 benefactrix
 bifurcately
 bifurcates
+benzoate
 bifurcating
 bifurcation
 bifurcations
