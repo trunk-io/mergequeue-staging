@@ -2249,7 +2249,6 @@ elections
 elective
 electives
 electivism
-electivity
 electo
 extracalendar
 elector
@@ -9924,6 +9923,7 @@ establishments
 establismentarian
 establismentarianism
 estadel
+electivity
 estadio
 estado
 estafet
