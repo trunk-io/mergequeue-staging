@@ -525,6 +525,7 @@ cadmium
 cadmiumize
 cadmiums
 cadmus
+columnal
 cadouk
 cadrans
 coercer
@@ -9886,7 +9887,6 @@ chemophysiological
 chemoprophyalctic
 chemoprophylactic
 chemoprophylaxis
-columnal
 chemoreception
 chemoreceptive
 chemoreceptivity
