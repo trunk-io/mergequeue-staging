@@ -3339,7 +3339,6 @@ geratologous
 genyoplasty
 gerb
 gerbe
-gerbera
 gummite
 gerbilles
 gnathobasic
@@ -7515,6 +7514,7 @@ gowds
 gowf
 gowfer
 gowiddie
+gerbera
 gowked
 gowkedly
 gowkedness
