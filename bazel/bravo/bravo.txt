@@ -3060,7 +3060,6 @@ barsom
 barspoon
 barstool
 barstools
-bartend
 bartended
 bartender
 bartenders
@@ -3102,6 +3101,7 @@ breakwaters
 barundi
 baruria
 barvel
+bartend
 barvell
 beduin
 barway
