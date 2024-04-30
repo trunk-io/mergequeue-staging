@@ -966,6 +966,7 @@ calathi
 calathian
 calathidia
 calathidium
+cur
 calathiform
 calathiscus
 calathos
@@ -31179,7 +31180,6 @@ cupuliferae
 cupuliferous
 citrine
 cupuliform
-cur
 cura
 curability
 charer
