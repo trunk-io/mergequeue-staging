@@ -4814,6 +4814,7 @@ demoniacism
 demoniacs
 demonial
 demonian
+drawcansir
 demonianism
 demoniast
 divisionism
@@ -16802,7 +16803,6 @@ drawbored
 drawbores
 drawbridge
 drawbridges
-drawcansir
 drawcard
 drawcut
 drawdowns
