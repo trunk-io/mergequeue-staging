@@ -2020,7 +2020,6 @@ gauntleted
 gauntleting
 gauntlets
 gauntly
-greenwax
 gauntness
 gauntry
 gauping
@@ -5436,6 +5435,7 @@ glycide
 galoshed
 glycidic
 gharial
+greenwax
 glycyl
 glycin
 glycine
