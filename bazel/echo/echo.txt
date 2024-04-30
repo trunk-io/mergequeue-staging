@@ -4042,7 +4042,6 @@ eponymize
 emp
 enrapture
 empaestic
-effluvium
 empaistic
 empalement
 empaler
@@ -10593,6 +10592,7 @@ elaeagnaceous
 etrier
 etrogim
 etruria
+effluvium
 epicondylar
 etrurian
 etruscan

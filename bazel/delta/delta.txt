@@ -3158,6 +3158,7 @@ defeasibleness
 delphacid
 defeatee
 defeater
+dyce
 dissimulated
 defeatism
 defeats
@@ -8842,7 +8843,6 @@ dicasts
 dicatalectic
 diccon
 dice
-dyce
 dehorner
 decolor
 diceboard
