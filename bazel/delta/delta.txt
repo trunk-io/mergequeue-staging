@@ -2313,7 +2313,6 @@ decess
 decession
 decessit
 decessor
-decharm
 dechemicalization
 dechemicalize
 dechlog
@@ -10123,6 +10122,7 @@ dingar
 dingbat
 dingbats
 dingdong
+decharm
 dingdonged
 dingdonging
 dinge
