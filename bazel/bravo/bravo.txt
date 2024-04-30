@@ -10193,7 +10193,6 @@ blackly
 babooism
 brashest
 blacklight
-blacklist
 blacklisted
 blacklister
 bilirubin
@@ -12327,6 +12326,7 @@ busway
 bombilation
 bombyliidae
 bombylious
+blacklist
 bombilla
 bombillas
 barbicans
