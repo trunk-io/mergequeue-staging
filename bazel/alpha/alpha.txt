@@ -11635,7 +11635,6 @@ anacruses
 anacrusis
 anacrustic
 anaculture
-anacusia
 anacusic
 anacusis
 anadem
@@ -24292,6 +24291,7 @@ autophyte
 autophytic
 autophytically
 autophytograph
+anacusia
 autophytography
 autophoby
 autophobia
