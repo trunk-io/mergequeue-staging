@@ -11600,7 +11600,6 @@ eviscerator
 erythrochaete
 evisite
 evitable
-evitate
 evitation
 evite
 evited
@@ -12182,6 +12181,7 @@ excriminate
 exacerbate
 epurate
 excruciate
+evitate
 excruciated
 excruciating
 excruciatingly
