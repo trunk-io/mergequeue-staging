@@ -5007,7 +5007,6 @@ endemicity
 enteradenography
 endemics
 endemiology
-examiner
 endemiological
 endemism
 endemisms
@@ -8922,6 +8921,7 @@ ereptic
 ereption
 erethic
 emendatory
+examiner
 elations
 equiponderous
 epidermolysis
