@@ -707,7 +707,6 @@ exospheric
 ecod
 epipodia
 ecodeme
-ecoid
 ecol
 ecole
 ecoles
@@ -6573,6 +6572,7 @@ enteradenology
 enterally
 enterate
 enterectomy
+ecoid
 entered
 enterer
 enterfeat

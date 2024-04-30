@@ -5241,6 +5241,7 @@ begay
 begalled
 baptized
 begalling
+backsight
 begalls
 begar
 begari
@@ -9119,7 +9120,6 @@ bionomy
 bionomic
 bionomical
 bionomically
-backsight
 boysenberries
 bionomies
 biont
