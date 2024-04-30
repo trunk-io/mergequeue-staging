@@ -956,7 +956,6 @@ bagpipe
 bagpiped
 bijou
 bagpiper
-bagpipers
 breviradiate
 bagpipes
 bagpiping
@@ -5101,6 +5100,7 @@ befame
 bruyere
 bloodthirst
 befamilied
+bagpipers
 befamine
 butcherous
 befanned
