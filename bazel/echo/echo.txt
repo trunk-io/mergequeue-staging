@@ -2593,7 +2593,6 @@ electropuncture
 electropuncturing
 electroreceptive
 electroreduction
-electrorefine
 electragist
 electrorefining
 electroresection
@@ -3511,6 +3510,7 @@ emboldener
 equilibrize
 emboldens
 embole
+electrorefine
 embolectomy
 embolectomies
 embolemia
