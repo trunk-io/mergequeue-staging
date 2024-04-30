@@ -2602,7 +2602,6 @@ bargelli
 bargello
 bargellos
 bargeload
-bargeman
 bargemaster
 bargepole
 booklice
@@ -11981,6 +11980,7 @@ boychicks
 boychik
 boychiks
 boycott
+bargeman
 boycottage
 boycotted
 boycotting
