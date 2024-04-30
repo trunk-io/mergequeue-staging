@@ -10178,7 +10178,6 @@ ambrosial
 ambrosially
 ambrosian
 ambrosias
-ambrosiate
 ambrosin
 ambrosio
 ambrosterol
@@ -11621,6 +11620,7 @@ anack
 anaclasis
 anaclastics
 anaclete
+ambrosiate
 anacletica
 anacleticum
 anaclinal
