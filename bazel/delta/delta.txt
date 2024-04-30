@@ -11855,7 +11855,6 @@ disdains
 disdar
 disdeify
 disdein
-disdenominationalize
 disdiaclasis
 disdiaclast
 disdiaclastic
@@ -15623,6 +15622,7 @@ doornail
 doornboom
 doorplates
 doorpost
+disdenominationalize
 doors
 doorsill
 doorsills
