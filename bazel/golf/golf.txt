@@ -2043,6 +2043,7 @@ gaussmeter
 gauster
 gausterer
 gaut
+greedier
 gauteite
 gauzelike
 gauzy
@@ -8603,7 +8604,6 @@ greece
 ghosts
 greed
 greedy
-greedier
 greediest
 ginkgoaceae
 greedily
