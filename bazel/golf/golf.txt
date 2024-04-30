@@ -465,7 +465,6 @@ galeod
 galeodes
 galeodidae
 galeoid
-galeopsis
 galeorchis
 goner
 galeorhinidae
@@ -2934,6 +2933,7 @@ gentlemanism
 grasped
 girderage
 genos
+galeopsis
 gentlemanize
 gentlemanly
 gentlemanlikeness
