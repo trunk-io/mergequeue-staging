@@ -4489,6 +4489,7 @@ encapsule
 encapsuled
 enjeopardy
 encapsules
+externalization
 epicurism
 encapsuling
 encaptivate
@@ -13624,7 +13625,6 @@ externalism
 externalistic
 externality
 externalities
-externalization
 externalize
 externalized
 epiglottitis
