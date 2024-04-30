@@ -5363,7 +5363,6 @@ gleg
 glegness
 glegnesses
 gley
-gleir
 gleys
 gleit
 gleization
@@ -5499,6 +5498,7 @@ glycoside
 glutaraldehyde
 glycosides
 glutenous
+gleir
 grant
 glycosidic
 gunmetal
