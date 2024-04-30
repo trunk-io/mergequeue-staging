@@ -1210,6 +1210,7 @@ bake
 bakeboard
 baked
 bakehouse
+brachycrany
 bakehouses
 bakelite
 bakelize
@@ -13992,7 +13993,6 @@ brachycera
 brachyceric
 brachycerous
 brachycome
-brachycrany
 blackbush
 brachycranial
 brachycranic
