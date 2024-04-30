@@ -11045,7 +11045,6 @@ amotions
 amotus
 amouli
 amount
-amounted
 amounter
 amounters
 amour
@@ -24414,6 +24413,7 @@ autosome
 autosomes
 autosoteric
 autospore
+amounted
 autosporic
 aficionada
 autospray
