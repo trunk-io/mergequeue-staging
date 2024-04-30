@@ -8558,6 +8558,7 @@ chams
 chamsin
 chan
 chanabal
+countertrespass
 chanca
 chance
 chanceable
@@ -27190,7 +27191,6 @@ commensalism
 countertree
 countertrench
 countertrend
-countertrespass
 countertripping
 countertruth
 chelas
