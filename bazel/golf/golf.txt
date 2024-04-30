@@ -2640,6 +2640,7 @@ generalisable
 gringolee
 generalisation
 generalise
+glossarize
 generalised
 groomsman
 generalising
@@ -5855,7 +5856,6 @@ glossarian
 glossaries
 gorier
 galangal
-glossarize
 ghanaians
 groins
 gweducs
