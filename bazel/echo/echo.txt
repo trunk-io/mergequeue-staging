@@ -6312,6 +6312,7 @@ enrooted
 enroots
 encirclement
 enrough
+eucritic
 enround
 enruin
 ens
@@ -10714,7 +10715,6 @@ eucrystalline
 eucrite
 essency
 eucrites
-eucritic
 entamebic
 euctical
 euda
