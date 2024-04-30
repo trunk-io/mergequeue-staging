@@ -2368,7 +2368,6 @@ gelatine
 gelatined
 gelatines
 gelatiniferous
-gharial
 gerastian
 gelatiniform
 gelatinigerous
@@ -5429,6 +5428,7 @@ glyceroxide
 glycide
 galoshed
 glycidic
+gharial
 glycyl
 glycin
 glycine
