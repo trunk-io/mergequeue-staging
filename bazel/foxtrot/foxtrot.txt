@@ -1372,7 +1372,6 @@ fatherlike
 fathers
 fathership
 faeculence
-fathmur
 fathom
 flautist
 foresaying
@@ -11529,6 +11528,7 @@ furze
 faintling
 furzed
 flapperhood
+fathmur
 furzeling
 furzetop
 fawkener
