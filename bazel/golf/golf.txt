@@ -1158,7 +1158,6 @@ gangrenes
 gaboon
 gangrenescent
 glamor
-grossularia
 galumph
 gangrening
 gangrenous
@@ -8584,6 +8583,7 @@ grecale
 glenwood
 goods
 grece
+grossularia
 granitoid
 grecians
 golgotha
