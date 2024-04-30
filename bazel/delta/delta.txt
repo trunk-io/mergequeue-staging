@@ -1935,7 +1935,6 @@ dragbar
 debutants
 dishpanful
 debuted
-debuting
 dec
 dichromatopsia
 decadactylous
@@ -6522,6 +6521,7 @@ desegregate
 dephlegmated
 desegregated
 decontamination
+debuting
 desegregates
 desegregating
 dipsadinae
