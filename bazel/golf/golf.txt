@@ -5743,7 +5743,6 @@ glochidium
 gulfweed
 glochids
 glochis
-glockenspiel
 glockenspiels
 gloea
 gemotes
@@ -8632,6 +8631,7 @@ greenalite
 gaolbird
 greenbacks
 greenbelt
+glockenspiel
 glucide
 greenbone
 gaudsman
