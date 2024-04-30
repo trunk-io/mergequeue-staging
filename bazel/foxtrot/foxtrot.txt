@@ -2288,7 +2288,6 @@ fencible
 flection
 fencibles
 formyl
-fencings
 fend
 fendable
 fended
@@ -9995,6 +9994,7 @@ friedcake
 friedelite
 foresee
 friedman
+fencings
 friedrichsdor
 friend
 fattener
