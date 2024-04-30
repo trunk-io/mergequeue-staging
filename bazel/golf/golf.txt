@@ -3181,7 +3181,6 @@ gangrels
 geonegative
 ghostland
 geonic
-geonyctinastic
 geonyctitropic
 geonim
 glarier
@@ -4247,6 +4246,7 @@ gymnasium
 gymnasiums
 gemarist
 gymnast
+geonyctinastic
 gymnastic
 gymnastically
 gryllid
