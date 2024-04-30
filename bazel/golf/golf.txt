@@ -8493,7 +8493,6 @@ gravisphere
 gravispheric
 gravitate
 gravitated
-gravitater
 gelee
 gravitates
 guanare
@@ -10530,6 +10529,7 @@ gunong
 gunpaper
 gerbille
 gunpapers
+gravitater
 gerusia
 gunplays
 gunpoint
