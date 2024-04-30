@@ -1308,7 +1308,6 @@ fatiguability
 fastuous
 fastuousness
 fastus
-fastwalk
 foreking
 finishable
 fat
@@ -9630,6 +9629,7 @@ freebooted
 ferrometer
 freebooter
 faroeish
+fastwalk
 forthward
 freebooters
 freebooty
