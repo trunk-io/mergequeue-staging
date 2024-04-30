@@ -13615,7 +13615,6 @@ bourdons
 bourg
 bourgade
 bourgeois
-bourgeoise
 bourgeoisie
 brashness
 bourgeoisitic
@@ -14421,6 +14420,7 @@ bramblier
 brambliest
 brambrack
 brame
+bourgeoise
 bramia
 bran
 bolivarite
