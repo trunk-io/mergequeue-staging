@@ -4013,7 +4013,6 @@ gigahertzes
 gigaherz
 gigolos
 gigameter
-gigant
 gigantal
 gigantean
 gigantesque
@@ -6866,6 +6865,7 @@ goniostat
 goniotropous
 gimcrackiness
 gonystylaceae
+gigant
 gamash
 gonystylaceous
 gonitis
