@@ -2614,7 +2614,6 @@ geneki
 groupage
 genep
 genepi
-gorgonize
 genera
 generability
 generable
@@ -10167,6 +10166,7 @@ guido
 giardiasis
 greenlandite
 griselda
+gorgonize
 gighe
 glooms
 guidonian
