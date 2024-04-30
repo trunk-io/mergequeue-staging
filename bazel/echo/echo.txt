@@ -4764,6 +4764,7 @@ enclosable
 etymologize
 experimentalists
 excoriates
+extraretinal
 enclosed
 encloser
 enclosers
@@ -7840,7 +7841,6 @@ epigoni
 epigonic
 egriot
 epigonichthys
-extraretinal
 epigonism
 epigonium
 epigonos
