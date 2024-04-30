@@ -222,6 +222,7 @@ abbrev
 abbreviatable
 abbreviate
 abbreviately
+archapostle
 afdecho
 abbreviates
 abbreviating
@@ -18763,7 +18764,6 @@ avowals
 archanthropine
 archantiquary
 archapostate
-archapostle
 archartist
 archbanc
 archbancs
