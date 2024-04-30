@@ -467,6 +467,7 @@ falcata
 falcate
 frescoist
 funestal
+fervors
 falces
 falchion
 falcial
@@ -2692,7 +2693,6 @@ finalizations
 fervor
 fervorlessness
 fervorous
-fervors
 folkway
 fescennine
 fescue
