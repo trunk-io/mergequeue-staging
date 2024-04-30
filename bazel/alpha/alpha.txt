@@ -5808,7 +5808,6 @@ afterworld
 afterwrath
 aftmost
 aftonian
-alouatta
 aftosa
 aftosas
 aftward
@@ -12248,6 +12247,7 @@ acroasphyxia
 anchorages
 anchorate
 anchored
+alouatta
 anchorer
 anchoress
 anchoresses
