@@ -3727,7 +3727,6 @@ dehydrogenated
 dehydrogenates
 dehydrogenating
 dehydrogenisation
-dehydrogenise
 dodecahedra
 dehydrogenised
 dehydrogenising
@@ -11879,6 +11878,7 @@ diseaseful
 diseasefulness
 dolichosoma
 diseases
+dehydrogenise
 disheir
 determinedly
 diseasy
