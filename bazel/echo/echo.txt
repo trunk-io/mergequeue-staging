@@ -9451,6 +9451,7 @@ escalan
 escalate
 escalates
 escalating
+externate
 escalation
 escalations
 escalator
@@ -13636,7 +13637,6 @@ evolvements
 externals
 electrostereotype
 externat
-externate
 epitrochoidal
 externes
 externization
