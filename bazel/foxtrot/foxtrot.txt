@@ -3930,7 +3930,6 @@ finfoot
 finfoots
 fingal
 friers
-fingall
 festoonery
 fulfulde
 formant
@@ -9220,6 +9219,7 @@ fractionalism
 fractionalization
 fide
 flatwork
+fingall
 fractionalize
 fractionalized
 fractionalizing
