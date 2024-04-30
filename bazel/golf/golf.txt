@@ -1752,7 +1752,6 @@ gastrodiaphanoscopy
 gastrodidymus
 gastrodynia
 gangliomata
-gastrodisk
 gastroduodenal
 genarchship
 gastroduodenitis
@@ -7619,6 +7618,7 @@ gradating
 grisping
 gradational
 gradationally
+gastrodisk
 gradationately
 gradatively
 grade
