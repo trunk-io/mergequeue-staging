@@ -4146,7 +4146,6 @@ fireburn
 fireclay
 fireclays
 firecoat
-firecracker
 firecrackers
 firecrest
 fired
@@ -9285,6 +9284,7 @@ fragmentist
 fragmentitious
 fragmentization
 fragmentizer
+firecracker
 fragmentizing
 fragments
 furled
