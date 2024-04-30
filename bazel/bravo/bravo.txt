@@ -1577,7 +1577,6 @@ bookseller
 bitubercular
 ballers
 ballet
-balletic
 bawl
 balletically
 balletomane
@@ -13008,6 +13007,7 @@ bunged
 boreal
 borealis
 borean
+balletic
 boreas
 bothrium
 borecole
