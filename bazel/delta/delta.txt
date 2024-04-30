@@ -5199,6 +5199,7 @@ denotatum
 denote
 denoted
 denotement
+disrupted
 denotes
 denoting
 denotive
@@ -10115,7 +10116,6 @@ dineros
 diners
 definiteness
 detruss
-disrupted
 dines
 dynes
 dinetic
