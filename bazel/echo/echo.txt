@@ -3888,7 +3888,6 @@ emforth
 emhpasizing
 emic
 emicant
-emicate
 exemptile
 emication
 enterozoan
@@ -10323,6 +10322,7 @@ ethicist
 ethicize
 eastland
 ethicizes
+emicate
 ethicoaesthetic
 endotheliomyxoma
 ethicophysical
