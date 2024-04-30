@@ -6657,7 +6657,6 @@ chinkerinchee
 celeriacs
 celeries
 celerity
-clithral
 celerities
 celestas
 celeste
@@ -11159,6 +11158,7 @@ chlamydomonas
 chlamydophore
 chlamydosaurus
 chlamydoselachidae
+clithral
 chlamydoselachus
 chlamydosporic
 chlamydozoa
