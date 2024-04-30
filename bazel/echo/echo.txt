@@ -3347,7 +3347,6 @@ embargoed
 embargoes
 embargoing
 embargoist
-embark
 embarkations
 embarked
 embarking
@@ -11178,6 +11177,7 @@ eurocentric
 euroclydon
 eurodollars
 engorgement
+embark
 europa
 europasian
 europe
