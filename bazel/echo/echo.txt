@@ -1302,6 +1302,7 @@ effectful
 effecting
 entomologists
 effectively
+energid
 effectivity
 effector
 effectors
@@ -5513,7 +5514,6 @@ energetistic
 energic
 enchancement
 energical
-energid
 energids
 energise
 energiser
