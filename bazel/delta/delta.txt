@@ -5818,6 +5818,7 @@ deposure
 derailleur
 depot
 defecter
+drillers
 depotentiate
 depots
 delated
@@ -17129,7 +17130,6 @@ drillable
 drillbit
 drilled
 driller
-drillers
 drillet
 drilling
 drillings
