@@ -1227,7 +1227,6 @@ boleros
 belauder
 bakers
 beslaver
-bakersfield
 bakership
 bakes
 bakeshop
@@ -17923,6 +17922,7 @@ burtonize
 burtons
 burtree
 burundi
+bakersfield
 burushaski
 burut
 burweed
