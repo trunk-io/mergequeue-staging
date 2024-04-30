@@ -13222,7 +13222,6 @@ alloxy
 animadverter
 animal
 afterfeed
-animala
 animalcula
 animalculae
 animalcular
@@ -18686,6 +18685,7 @@ audiviser
 arccosine
 arced
 arces
+animala
 arceuthobium
 arcform
 archabomination
