@@ -2422,7 +2422,6 @@ geophila
 gelees
 gordioid
 gelidiaceae
-gelidity
 gelidities
 gelidly
 gomlah
@@ -10156,6 +10155,7 @@ guiders
 granduncle
 guidership
 genial
+gelidity
 guides
 guideway
 goniopholis
