@@ -8997,7 +8997,6 @@ alloplasmic
 alloplast
 alloplasty
 alloplastic
-alloploidy
 afflation
 allopolyploid
 allopolyploidy
@@ -24130,6 +24129,7 @@ autoincrements
 autoindex
 agoraphobic
 autoindexing
+alloploidy
 armadillididae
 autoinduction
 autoinductive
