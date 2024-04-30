@@ -1509,6 +1509,7 @@ balklines
 balks
 ball
 ballad
+boojum
 ballade
 balladeer
 balladeers
@@ -18052,7 +18053,6 @@ benevolence
 businesslikeness
 businessman
 businessmen
-boojum
 businesswoman
 businesswomen
 busing
