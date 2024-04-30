@@ -6430,7 +6430,6 @@ fluoranthene
 fluorapatite
 favorite
 foreaccounting
-forestair
 fluorboric
 fluorene
 fluorenes
@@ -8417,6 +8416,7 @@ formalisms
 fas
 formalistically
 formaliter
+forestair
 formalith
 formalities
 formalizable
