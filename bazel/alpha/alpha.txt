@@ -7971,7 +7971,6 @@ augmentive
 aleucemic
 aleukaemic
 autoerotically
-aleukemic
 aleurites
 aleuritic
 aleurobius
@@ -18148,6 +18147,7 @@ apter
 affing
 aptera
 apteral
+aleukemic
 apteran
 apteria
 anis
