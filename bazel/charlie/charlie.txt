@@ -3679,6 +3679,7 @@ commando
 carbolising
 carbolize
 carbolized
+conjunct
 carbolizes
 carbolizing
 chatterboxes
@@ -29086,7 +29087,6 @@ criniere
 criniferous
 criniger
 crinigerous
-conjunct
 crinion
 criniparous
 crinital
