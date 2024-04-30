@@ -11844,7 +11844,6 @@ escadrilles
 exarchist
 exarchs
 exarillate
-exaristate
 eireannach
 exercised
 eth
@@ -13569,6 +13568,7 @@ extensometer
 extensor
 ephemeralness
 extensory
+exaristate
 extensors
 extent
 earlier
