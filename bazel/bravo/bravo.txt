@@ -5682,7 +5682,6 @@ beledgered
 belee
 besoin
 beleed
-beleft
 belemnid
 belemnites
 belemnitic
@@ -10830,6 +10829,7 @@ blier
 bliest
 blight
 blighters
+beleft
 blighty
 blighties
 bimastic
