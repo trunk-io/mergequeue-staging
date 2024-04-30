@@ -562,6 +562,7 @@ galleins
 galleys
 gundogs
 gamodemes
+glassite
 galleyworm
 galleons
 gallera
@@ -2066,7 +2067,6 @@ gavelling
 gavelman
 gunstocking
 gavelocks
-glassite
 gavels
 glaciologists
 gaverick
