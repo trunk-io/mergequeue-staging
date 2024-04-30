@@ -5140,7 +5140,6 @@ guaxima
 glancing
 glancingly
 growled
-gland
 glandaceous
 glandarious
 glandes
@@ -6710,6 +6709,7 @@ gollar
 goller
 golly
 golliwog
+gland
 gobbets
 gollop
 golo
