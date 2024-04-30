@@ -2825,7 +2825,6 @@ cantilenes
 cantilever
 cantilevered
 cantilevering
-cantilevers
 cantily
 cantillate
 cantillating
@@ -19109,6 +19108,7 @@ collimates
 collimating
 collimation
 collimator
+cantilevers
 collimators
 collin
 collinal
