@@ -254,7 +254,6 @@ easies
 easiest
 easygoing
 easygoingly
-easygoingness
 easily
 easylike
 easinesses
@@ -6605,6 +6604,7 @@ enteroclisis
 enterococcal
 enterococcus
 enterocoel
+easygoingness
 enterocoela
 enterocoele
 enterpriseless
