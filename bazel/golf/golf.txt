@@ -1147,7 +1147,6 @@ gyrocompass
 gangmaster
 gangplanks
 gangplow
-gangplows
 gareh
 gastrodisc
 gangrel
@@ -2745,6 +2744,7 @@ genetmoil
 genetor
 genetous
 genetrix
+gangplows
 genets
 genette
 gynecologists
