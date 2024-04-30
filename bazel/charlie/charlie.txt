@@ -10395,7 +10395,6 @@ chieftaincy
 conure
 chieftaincies
 chieftainess
-chieftainry
 chieftainries
 chieftainship
 chieftainships
@@ -17795,6 +17794,7 @@ codesigning
 codesigns
 codespairer
 codetermination
+chieftainry
 codetermine
 codetta
 codettas
