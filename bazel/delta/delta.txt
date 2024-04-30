@@ -3797,6 +3797,7 @@ deicing
 deictical
 deidealize
 deidesheimer
+description
 deify
 deific
 deifical
@@ -6492,7 +6493,6 @@ danging
 descries
 descript
 dejection
-description
 descriptionist
 dogsled
 descriptionless
