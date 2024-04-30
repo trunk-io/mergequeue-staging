@@ -6950,7 +6950,6 @@ cenozoology
 cense
 censers
 censes
-censing
 censitaire
 censive
 censor
@@ -12015,6 +12014,7 @@ chorizontal
 chorizontes
 chorizontic
 confront
+censing
 chorizos
 chorobates
 chorogi
