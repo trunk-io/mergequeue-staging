@@ -8806,7 +8806,6 @@ alligatoring
 alligators
 allyic
 allying
-allyl
 allylate
 allylation
 allylene
@@ -13507,6 +13506,7 @@ ankylostoma
 ankylostomiasis
 ankylotia
 ankylotic
+allyl
 ankylotome
 atremble
 ankylotomy
