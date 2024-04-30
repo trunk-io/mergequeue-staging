@@ -7568,7 +7568,6 @@ epically
 epicanthi
 epicanthic
 epicanthus
-epicardia
 epicardium
 epicarid
 epicaridan
@@ -11154,6 +11153,7 @@ eurypterid
 eurypterida
 eurypteroid
 eurygaean
+epicardia
 eurypteroidea
 euripupi
 elytrigerous
