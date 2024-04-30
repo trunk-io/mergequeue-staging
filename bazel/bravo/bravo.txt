@@ -7291,7 +7291,6 @@ bestreak
 bestream
 blackhander
 bestrew
-bestrewing
 bestrewment
 bestrewn
 basses
@@ -15275,6 +15274,7 @@ brig
 bryaceous
 brigade
 brigaded
+bestrewing
 brigades
 bhangs
 bitripartite
