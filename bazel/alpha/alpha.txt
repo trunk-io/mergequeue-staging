@@ -1564,7 +1564,6 @@ accidentiality
 accidently
 accidia
 accidies
-accinge
 accinged
 accinging
 accipenser
@@ -15686,6 +15685,7 @@ antimonies
 antimoniferous
 antimonyl
 antimonious
+accinge
 antheximeter
 acanthodei
 antimonite
