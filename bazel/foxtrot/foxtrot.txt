@@ -7189,6 +7189,7 @@ footings
 footle
 fishpound
 fertilizable
+fainting
 footled
 footlers
 footles
@@ -7384,7 +7385,6 @@ faddiest
 forbidden
 forbiddenly
 fissidens
-fainting
 forbiddenness
 forbidder
 finback

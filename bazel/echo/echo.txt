@@ -4921,7 +4921,6 @@ electrometeor
 encumbrancer
 encumbrous
 encup
-encurtain
 encushion
 endable
 endamage
@@ -13044,6 +13043,7 @@ experiences
 experiencible
 experiencing
 experiential
+encurtain
 evacuate
 egressive
 embedding
