@@ -3242,7 +3242,6 @@ elzevirian
 em
 ektene
 essentials
-emacerated
 emaciate
 ensnaring
 emaciated
@@ -11676,6 +11675,7 @@ evulsion
 evulsions
 ewder
 ewe
+emacerated
 ewerer
 ewery
 eweries
