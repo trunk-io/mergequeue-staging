@@ -1108,6 +1108,7 @@ elderhood
 edificatory
 edifice
 edificed
+exotheca
 edificial
 edificing
 edified
@@ -2602,7 +2603,6 @@ electrorefining
 electroresection
 electroretinograph
 endorsation
-exotheca
 ecophobia
 engyscope
 electroretinographic
