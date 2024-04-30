@@ -910,7 +910,6 @@ discrowning
 desilver
 daphnioid
 daphnis
-daphnite
 daphnoid
 drawable
 dapicho
@@ -4453,6 +4452,7 @@ destrer
 dementing
 dements
 demeore
+daphnite
 demerara
 demerge
 deterrable
