@@ -5886,7 +5886,6 @@ catheti
 cathetometer
 cathetometric
 cathetus
-cathetusti
 cathexes
 cathexion
 cathexis
@@ -22754,6 +22753,7 @@ consciencelessly
 convallamarin
 consciencelessness
 consciences
+cathetusti
 consciencewise
 concentrative
 chassis
