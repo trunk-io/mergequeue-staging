@@ -8071,7 +8071,6 @@ epiphragmal
 epipial
 epiplankton
 epiplanktonic
-epiplasm
 epiplasmic
 epiplastral
 epiplastron
@@ -10510,6 +10509,7 @@ ethnopsychic
 ethnopsychological
 ethnoses
 ethnotechnics
+epiplasm
 ethnotechnography
 ethnozoology
 ethnozoological
