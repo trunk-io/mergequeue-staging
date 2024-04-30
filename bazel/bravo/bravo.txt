@@ -2110,6 +2110,7 @@ banjorine
 banjulele
 bank
 bankable
+bedraggling
 becurl
 bankalachi
 bankbook
@@ -4805,7 +4806,6 @@ bedraggled
 bedragglement
 bedraggles
 boshboks
-bedraggling
 bedrail
 bogway
 bedrails
