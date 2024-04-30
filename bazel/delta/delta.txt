@@ -6428,7 +6428,6 @@ desands
 desaturation
 dunkirk
 desaurin
-desaurine
 dedicatory
 diabolarch
 desc
@@ -18530,6 +18529,7 @@ duskingtide
 duskish
 driegh
 duskishly
+desaurine
 duskishness
 diumvirate
 dissogeny
