@@ -2157,6 +2157,7 @@ gazeless
 gazella
 gazellelike
 gazelles
+greyling
 gazelline
 gauzewing
 gyring
@@ -8798,7 +8799,6 @@ greying
 greyish
 greylag
 greylags
-greyling
 greillade
 gunfighter
 grein
