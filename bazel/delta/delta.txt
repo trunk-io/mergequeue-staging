@@ -2453,7 +2453,6 @@ decken
 decker
 deckhand
 deckhead
-deckhouse
 deckie
 decking
 deckings
@@ -7401,6 +7400,7 @@ dette
 detubation
 detumescence
 distrait
+deckhouse
 detumescent
 detune
 detur

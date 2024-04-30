@@ -167,7 +167,6 @@ earthiness
 evangelicalness
 earthing
 earthly
-earthlier
 evolvulus
 earthliest
 endoperidial
@@ -1442,6 +1441,7 @@ effronteries
 effs
 effude
 effulge
+earthlier
 effulged
 effulgence
 effulgences
