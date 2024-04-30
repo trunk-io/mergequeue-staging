@@ -4903,6 +4903,7 @@ anapaest
 aspiculous
 aequorin
 aequorins
+alimentiveness
 aer
 aerage
 aeraria
@@ -8369,7 +8370,6 @@ alimenter
 alimentic
 alimenting
 alimentive
-alimentiveness
 alimentotherapy
 aliments
 alimentum
