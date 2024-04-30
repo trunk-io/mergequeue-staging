@@ -841,7 +841,6 @@ gordonia
 gamasidae
 gamasoidea
 gamba
-gambades
 gawain
 garnice
 gambado
@@ -6809,6 +6808,7 @@ gongoristic
 gongs
 gony
 gimpy
+gambades
 granddada
 goniac
 gonial
