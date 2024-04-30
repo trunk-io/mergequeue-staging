@@ -6760,6 +6760,7 @@ afloat
 aiguelle
 aiguiere
 aiguille
+annuary
 aiguilles
 aiguillesque
 aiguillette
@@ -13687,7 +13688,6 @@ annual
 annualize
 annualized
 annuals
-annuary
 annueler
 annueller
 annuent
