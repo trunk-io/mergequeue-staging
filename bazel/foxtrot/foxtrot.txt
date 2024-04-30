@@ -7197,7 +7197,6 @@ footle
 fishpound
 fertilizable
 footled
-footler
 footlers
 footles
 footless
@@ -7227,6 +7226,7 @@ footnoted
 footnotes
 footpace
 forefather
+footler
 footpad
 film
 footpads
