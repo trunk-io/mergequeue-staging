@@ -3289,7 +3289,6 @@ actualize
 actualized
 actualizes
 actualizing
-actually
 actualness
 actuals
 agena
@@ -11283,6 +11282,7 @@ anviltops
 amphistomatic
 amphistome
 amphistomoid
+actually
 amphistomous
 amphistomum
 asyllabic
