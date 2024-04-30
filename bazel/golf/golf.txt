@@ -924,6 +924,7 @@ gamelike
 gonfalonier
 gamelin
 gamelion
+gliocyte
 gamelote
 gamelotte
 gameness
@@ -5540,7 +5541,6 @@ glinse
 glint
 goustie
 glinting
-gliocyte
 gliomatous
 gliosa
 glyoxal
