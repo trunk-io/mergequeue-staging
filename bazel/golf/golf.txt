@@ -300,7 +300,6 @@ gaiting
 gaits
 gayway
 gaywings
-gaize
 gaj
 gal
 gala
@@ -9224,6 +9223,7 @@ gesticulative
 grocery
 groceries
 groceryman
+gaize
 glycosuric
 grocerymen
 grocerly
