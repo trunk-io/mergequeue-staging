@@ -1910,7 +1910,6 @@ bandana
 bandanaed
 bandanna
 brachypodous
-bandannaed
 bandannas
 bandar
 bandbox
@@ -7866,6 +7865,7 @@ bibb
 bibbery
 bibberies
 bountihead
+bandannaed
 bibby
 bibbing
 bibble
