@@ -391,6 +391,7 @@ dailiness
 daylit
 dayman
 disilluminate
+dhunchi
 daymare
 daymares
 daymark
@@ -8031,7 +8032,6 @@ dhows
 dhritarashtra
 dhu
 dhunchee
-dhunchi
 dhurna
 dhurnas
 dhurra
