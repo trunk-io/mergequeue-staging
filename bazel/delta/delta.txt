@@ -1721,7 +1721,6 @@ deathsmen
 deathtime
 deathtrap
 deathtraps
-deathward
 deathwards
 deathwatches
 deathweed
@@ -5440,6 +5439,7 @@ deodand
 deodar
 deodaras
 deodars
+deathward
 deodate
 drafter
 deodorants
