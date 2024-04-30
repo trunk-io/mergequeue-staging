@@ -957,7 +957,6 @@ gametogenic
 gametogenous
 gametogonium
 gametoid
-gametophagia
 gonopodium
 gametophyte
 gametophytic
@@ -5924,6 +5923,7 @@ glossology
 glossoncus
 glossopalatine
 glossopalatinus
+gametophagia
 geepound
 gis
 gigglingly
