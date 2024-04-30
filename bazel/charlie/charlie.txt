@@ -6823,7 +6823,6 @@ celotomy
 celotomies
 celsia
 celsian
-celsitude
 cytosome
 celsius
 celt
@@ -28949,6 +28948,7 @@ counterinsurgent
 cricks
 corresol
 chandrakanta
+celsitude
 cricoarytenoid
 cricoid
 cricoidectomy
