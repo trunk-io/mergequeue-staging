@@ -8125,7 +8125,6 @@ grapeline
 grapenuts
 grapery
 graperies
-graperoot
 grapes
 grapeskin
 grapestone
@@ -9998,6 +9997,7 @@ guddler
 guddling
 gudebrother
 gudefather
+graperoot
 gudemother
 gudes
 galactorrhoea
