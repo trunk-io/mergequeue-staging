@@ -7199,7 +7199,6 @@ beeball
 buzzard
 bencher
 besqueeze
-besquib
 besquirt
 besra
 bandores
@@ -8214,6 +8213,7 @@ bidiurnal
 bidonville
 ballistics
 bidpai
+besquib
 begets
 bidree
 bidry
