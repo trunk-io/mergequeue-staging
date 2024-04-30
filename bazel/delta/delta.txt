@@ -1029,6 +1029,7 @@ darkmans
 darkness
 darkroom
 darkrooms
+duplicate
 drunkensome
 dust
 darks
@@ -18094,7 +18095,6 @@ dumfounder
 dumfounderment
 dumfounding
 dumfounds
-duplicate
 dupper
 dumka
 dolmenic
