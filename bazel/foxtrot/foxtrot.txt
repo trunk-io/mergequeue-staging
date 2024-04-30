@@ -1377,6 +1377,7 @@ fathers
 fathership
 faeculence
 fathom
+funic
 flautist
 foresaying
 fathomable
@@ -11238,7 +11239,6 @@ fungus
 fungused
 fungusy
 funguslike
-funic
 funicle
 funicles
 funiculars
