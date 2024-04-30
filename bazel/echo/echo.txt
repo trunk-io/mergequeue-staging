@@ -4212,6 +4212,7 @@ emplunge
 empocket
 empodia
 eupolidean
+executable
 endameba
 empodium
 empoison
@@ -12267,7 +12268,6 @@ epihippus
 execratively
 execrators
 exect
-executable
 executant
 exostome
 execute
