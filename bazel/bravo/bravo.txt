@@ -3735,7 +3735,6 @@ battalions
 battarism
 battarismus
 batteau
-batteaux
 batted
 battel
 bonnering
@@ -12480,6 +12479,7 @@ boner
 boners
 bones
 boneset
+batteaux
 bonesets
 bonesetter
 bonesetting
