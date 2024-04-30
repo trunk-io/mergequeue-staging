@@ -5761,6 +5761,7 @@ catenaries
 catenas
 catenate
 catenates
+crateriform
 catenating
 catenation
 catenative
@@ -28275,7 +28276,6 @@ cratered
 craterellus
 craterid
 carabineer
-crateriform
 craterkin
 craterlet
 craterlike
