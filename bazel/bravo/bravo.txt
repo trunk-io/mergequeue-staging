@@ -2019,7 +2019,6 @@ bandsawn
 breastmark
 bandsman
 bandsmen
-bandspreading
 bandstand
 bandstands
 braunschweiger
@@ -13965,6 +13964,7 @@ brachial
 brachialgia
 brachialis
 brachials
+bandspreading
 brachiata
 bechern
 brachiate
