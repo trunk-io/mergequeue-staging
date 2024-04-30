@@ -953,6 +953,7 @@ farcetta
 farceur
 farceurs
 farceuses
+forecasters
 farci
 farcial
 farcialize
@@ -7553,7 +7554,6 @@ forecast
 forecaster
 foreinclined
 fisticuffs
-forecasters
 forecasting
 faujdar
 forecastingly
