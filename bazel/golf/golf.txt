@@ -2775,6 +2775,7 @@ genin
 gestures
 genio
 genioglossal
+gorgeous
 globoids
 genioglossi
 genioglossus
@@ -7159,7 +7160,6 @@ gorge
 gorged
 geophysics
 glamourously
-gorgeous
 gorgeousness
 gorgeret
 gorgerin
