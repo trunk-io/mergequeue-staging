@@ -1088,6 +1088,7 @@ edibility
 edible
 edibleness
 edibles
+extemporary
 edict
 edictal
 edictally
@@ -5449,7 +5450,6 @@ endue
 epithetize
 ergmeter
 exploration
-extemporary
 enduement
 enduing
 endungeon
