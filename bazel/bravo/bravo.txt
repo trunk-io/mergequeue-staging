@@ -4658,7 +4658,6 @@ bedeafen
 bedeafened
 bedeafening
 bedeafens
-bedebt
 bedeck
 bedecked
 bedecking
@@ -10282,6 +10281,7 @@ blaine
 blayne
 buttstrapping
 blair
+bedebt
 bloating
 blairmorite
 blakeberyed

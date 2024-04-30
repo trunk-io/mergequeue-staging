@@ -4158,7 +4158,6 @@ fireflirt
 fireflower
 foxchop
 firehall
-firehalls
 fanion
 firehouse
 fluff
@@ -6129,6 +6128,7 @@ flouncy
 flounciest
 flouncing
 flounder
+firehalls
 floundered
 fulani
 faufel
