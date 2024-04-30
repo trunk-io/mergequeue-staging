@@ -1966,7 +1966,6 @@ campal
 campana
 campane
 campanella
-campanero
 cryptogame
 campania
 cecils
@@ -2150,6 +2149,7 @@ canaan
 canaanite
 chub
 canaanites
+campanero
 canaanitess
 canaanitic
 canaanitish
