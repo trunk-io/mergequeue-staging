@@ -3571,6 +3571,7 @@ fileable
 filecard
 filechar
 feminisms
+frontstall
 filefishes
 fadme
 filelike
@@ -10455,7 +10456,6 @@ fronts
 frontsman
 frontspieces
 facete
-frontstall
 fronture
 frontward
 frontwards
