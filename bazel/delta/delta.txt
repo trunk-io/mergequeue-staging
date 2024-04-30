@@ -12997,7 +12997,6 @@ dispense
 dispensed
 dispensers
 domestically
-dragonne
 dispenses
 dispensible
 deplores
@@ -17416,6 +17415,7 @@ didactician
 dipyramid
 drosophyllum
 drakonite
+dragonne
 dross
 drossed
 drossel
