@@ -159,6 +159,7 @@ floor
 factionistism
 forecatharping
 factious
+felonwort
 flirtatious
 factiously
 factiousness
@@ -2155,7 +2156,6 @@ feloniousness
 fumatories
 felonry
 felonweed
-felonwort
 fels
 fumbler
 felsic
