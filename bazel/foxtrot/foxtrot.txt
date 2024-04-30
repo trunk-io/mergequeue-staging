@@ -4162,7 +4162,6 @@ firehalls
 fanion
 firehouse
 fluff
-flatway
 firehouses
 fireless
 firelight
@@ -11439,6 +11438,7 @@ furnariidae
 furnariides
 furnarius
 furner
+flatway
 furnish
 furnishable
 foregather

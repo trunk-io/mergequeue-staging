@@ -1853,7 +1853,6 @@ eyewitness
 eyewitnesses
 eiffel
 eigenfrequency
-eigenstate
 eigenvalue
 eigenvectors
 eightballs
@@ -10363,6 +10362,7 @@ ethylidyne
 ethylin
 ethylmorphine
 ethyls
+eigenstate
 eburnation
 ethylsulphuric
 ethylthioethane
