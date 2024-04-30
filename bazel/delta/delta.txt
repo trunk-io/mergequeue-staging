@@ -8424,7 +8424,6 @@ diamido
 diamidogen
 diamyl
 diamylene
-diamylose
 diamin
 diamine
 diamines
@@ -17314,6 +17313,7 @@ dronel
 dronepipe
 droner
 distichous
+diamylose
 droners
 drones
 drongos
