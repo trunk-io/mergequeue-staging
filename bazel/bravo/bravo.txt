@@ -9077,7 +9077,6 @@ biomathematics
 biome
 biomechanical
 biomechanics
-biomedical
 bewitches
 biomedicine
 biomes
@@ -17845,6 +17844,7 @@ burrier
 burriest
 burrish
 burrito
+biomedical
 burrknot
 burro
 burrobrush
