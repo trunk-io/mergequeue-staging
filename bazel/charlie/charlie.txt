@@ -7077,7 +7077,6 @@ centillion
 centillionth
 conversationalist
 centiloquy
-centimes
 centimeters
 centimetre
 centimetres
@@ -22814,6 +22813,7 @@ catnapped
 consensus
 crinid
 consensuses
+centimes
 consentable
 consentaneity
 consentaneous
