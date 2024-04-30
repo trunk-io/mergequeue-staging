@@ -3549,7 +3549,6 @@ embordered
 endict
 embordering
 emborders
-emboscata
 embosked
 educables
 embosking
@@ -5406,6 +5405,7 @@ ergodic
 endotys
 enzyms
 endotoxic
+emboscata
 endotoxin
 endotracheal
 endotrophic
