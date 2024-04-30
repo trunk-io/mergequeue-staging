@@ -2963,7 +2963,6 @@ deduction
 deductions
 deductive
 deductively
-deducts
 deduit
 deduplication
 dee
@@ -5699,6 +5698,7 @@ deplorabilia
 diopsis
 deplorability
 deplorable
+deducts
 deplorableness
 deplorably
 deplorate

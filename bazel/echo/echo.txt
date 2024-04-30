@@ -2667,7 +2667,6 @@ electrotitration
 etherean
 electrotonicity
 electrotonize
-electrotrephine
 electrotropism
 egoize
 electrovalency
@@ -3464,6 +3463,7 @@ emblazoner
 emblazoning
 emblazonment
 emblazonments
+electrotrephine
 emblazons
 emblem
 emblematic
