@@ -11408,7 +11408,6 @@ choana
 choanate
 choanephora
 choanite
-choanocytal
 choanocyte
 choanoflagellate
 choanoflagellida
@@ -19949,6 +19948,7 @@ coachmanship
 caziques
 comites
 cited
+choanocytal
 comity
 comitia
 comitial
