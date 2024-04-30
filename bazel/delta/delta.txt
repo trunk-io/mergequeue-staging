@@ -11183,6 +11183,7 @@ disbars
 disbase
 disbecome
 disbelief
+duane
 deperditely
 disbeliefs
 disbelieve
@@ -17692,7 +17693,6 @@ dualmutef
 dualogue
 duals
 duan
-duane
 duant
 duarch
 duarchy

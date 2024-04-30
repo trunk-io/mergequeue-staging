@@ -6674,7 +6674,6 @@ enterorrhagia
 enterorrhexis
 etatisms
 enteroscopy
-enterosepsis
 enterosyphilis
 enterospasm
 enterostasis
@@ -12449,6 +12448,7 @@ exhauster
 exhaustibility
 exhaustion
 exhaustive
+enterosepsis
 exhaustiveness
 exhaustivity
 exhaustless
