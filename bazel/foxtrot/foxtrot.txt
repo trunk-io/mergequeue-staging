@@ -1808,7 +1808,6 @@ featuring
 featurish
 feaze
 feazed
-feazes
 feazing
 feazings
 febres
@@ -10459,6 +10458,7 @@ fellic
 frontoorbital
 funded
 frontosphenoidal
+feazes
 frontotemporal
 fictions
 frontozygomatic
