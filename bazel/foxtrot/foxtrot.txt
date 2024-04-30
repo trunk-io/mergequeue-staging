@@ -2590,7 +2590,6 @@ framesmith
 ferromagnesian
 ferromagnet
 ferromagneticism
-ferromagnetism
 ferromanganese
 ferromolybdenum
 ferronatrite
@@ -3844,6 +3843,7 @@ finales
 finalis
 fovea
 finalism
+ferromagnetism
 footlessly
 finalist
 finality
