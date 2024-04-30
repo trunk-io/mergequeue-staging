@@ -5375,7 +5375,6 @@ affiliation
 affiliations
 apery
 affinal
-affination
 affined
 affinely
 affines
@@ -22345,6 +22344,7 @@ astrometrical
 astron
 acumen
 astronaut
+affination
 astronautically
 aerosolizing
 astronavigator
