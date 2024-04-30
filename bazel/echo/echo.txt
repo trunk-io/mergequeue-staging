@@ -8339,7 +8339,6 @@ epitheliotoxin
 earthshaker
 epithelium
 epitheliums
-epithelization
 epithelize
 epitheloid
 epithem
@@ -12769,6 +12768,7 @@ exotery
 euthanatize
 endoplasm
 exorcisers
+epithelization
 exorcises
 exorcising
 exorcism
