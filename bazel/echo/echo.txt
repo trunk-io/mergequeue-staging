@@ -9130,7 +9130,6 @@ erythroblastosis
 erythrocarpous
 erythrocatalysis
 eurygnathism
-endothelia
 enthusiasticalness
 erythrochroic
 erythrochroism
@@ -11302,6 +11301,7 @@ evaluator
 electrocardiography
 evanesce
 exsecant
+endothelia
 evanesced
 evanescence
 evanescency
