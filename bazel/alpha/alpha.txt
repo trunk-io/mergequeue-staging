@@ -6258,6 +6258,7 @@ aglaos
 aglaozonia
 achalasia
 aglare
+angiostrophy
 aegritude
 aglaspis
 agleaf
@@ -12919,7 +12920,6 @@ angiosperms
 angiosporous
 angiostenosis
 angiostomy
-angiostrophy
 angiotasis
 angiotelectasia
 angiotenosis
