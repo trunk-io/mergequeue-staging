@@ -2593,6 +2593,7 @@ gendarmes
 gender
 genderless
 glides
+gruiform
 geneal
 genteelize
 genealogic
@@ -9676,7 +9677,6 @@ graphitoidal
 grugrus
 gruidae
 gruyere
-gruiform
 gruiformes
 gruine
 grum

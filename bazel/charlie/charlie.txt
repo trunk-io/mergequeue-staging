@@ -10919,6 +10919,7 @@ chirl
 cadetcy
 chirmed
 chirming
+cloudlike
 chirms
 chiro
 chirocosmetics
@@ -16766,7 +16767,6 @@ circumaction
 centimeter
 cloudlessness
 cloudlets
-cloudlike
 cloudling
 cloudology
 clouds
