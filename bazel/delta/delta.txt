@@ -2784,7 +2784,6 @@ decrements
 decremeter
 decrepit
 decrepitate
-decrepitated
 decrepitating
 decrepitation
 decrepity
@@ -12666,6 +12665,7 @@ deictic
 dislove
 dorsilumbar
 dysluite
+decrepitated
 disluster
 dislustered
 dislustering
