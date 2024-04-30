@@ -931,7 +931,6 @@ absconds
 absconsa
 abscound
 absee
-absey
 abseil
 anatto
 abseiled
@@ -7789,6 +7788,7 @@ alderflies
 alderliefest
 alderling
 alderman
+absey
 aldermanate
 aldermancy
 austenitized
