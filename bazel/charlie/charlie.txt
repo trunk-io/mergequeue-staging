@@ -15827,7 +15827,6 @@ cleanish
 cleanlier
 cleanliest
 cleanness
-cleanout
 cleansable
 cleanse
 cleanser
@@ -20930,6 +20929,7 @@ comprehender
 caroches
 comprehendible
 comprehending
+cleanout
 cyclonology
 comprehendingly
 comprehense
