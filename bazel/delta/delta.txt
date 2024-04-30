@@ -3923,7 +3923,6 @@ delay
 delayable
 delayage
 delayed
-demes
 delayer
 dropt
 delayers
@@ -17810,6 +17809,7 @@ dentirostral
 dikdiks
 ducktails
 duckweed
+demes
 duckweeds
 duckwife
 duckwing
