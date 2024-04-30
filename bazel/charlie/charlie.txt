@@ -9096,7 +9096,6 @@ charms
 charmwise
 charneco
 charnel
-charnels
 charnockite
 charnockites
 charnu
@@ -26269,6 +26268,7 @@ costotome
 costotomy
 costotomies
 costotrachelian
+charnels
 catechisms
 costotransversal
 costotransverse
