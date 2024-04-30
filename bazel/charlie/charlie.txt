@@ -2625,7 +2625,6 @@ cannoneers
 coitus
 cannonier
 cannoning
-cannonism
 cannonry
 cannonries
 cannons
@@ -25914,6 +25913,7 @@ cortlandtite
 cordies
 corton
 convolute
+cannonism
 coruco
 cryptocurrency
 coruler
