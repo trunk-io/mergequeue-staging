@@ -15146,7 +15146,6 @@ anticum
 anticus
 antidactyl
 antidancing
-antidecalogue
 arcella
 antidemocracy
 antidemocratically
@@ -23912,6 +23911,7 @@ autocab
 autocade
 autocamp
 autocamper
+antidecalogue
 ateuchus
 autocamping
 autocar
