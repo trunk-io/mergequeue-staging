@@ -2594,7 +2594,6 @@ ferrohydrocyanic
 framesmith
 ferromagnesian
 ferromagnet
-ferromagnetic
 ferromagneticism
 ferromagnetism
 ferromanganese
@@ -3101,6 +3100,7 @@ fibroferrite
 fibroglioma
 frying
 fibrohemorrhagic
+ferromagnetic
 farfet
 figuriste
 fibroids

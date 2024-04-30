@@ -16903,7 +16903,6 @@ aloofe
 autoplasties
 archbishop
 aphyllies
-aphyllose
 aphyllous
 aphyric
 aphis
@@ -17837,6 +17836,7 @@ appliableness
 appliance
 appliances
 accommodation
+aphyllose
 appliant
 applicability
 applicabilities
