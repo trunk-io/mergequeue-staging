@@ -5394,7 +5394,6 @@ friarbird
 fleeting
 formalistic
 fleetingness
-fleetwing
 flegm
 flavines
 fley
@@ -6004,6 +6003,7 @@ floran
 floras
 florate
 floreal
+fleetwing
 floreat
 floreated
 fliped
