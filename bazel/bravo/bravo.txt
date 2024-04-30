@@ -2408,7 +2408,6 @@ barberess
 barberfish
 barbery
 barbering
-barberite
 barbero
 barberry
 barberries
@@ -4249,6 +4248,7 @@ beatificate
 ballproof
 beatification
 beatified
+barberite
 beatifies
 beatifying
 body
