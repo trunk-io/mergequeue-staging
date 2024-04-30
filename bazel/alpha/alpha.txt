@@ -9749,7 +9749,6 @@ alveolosubnasal
 alveolus
 alveus
 alvia
-alviducous
 alvin
 alvina
 alvine
@@ -24757,6 +24756,7 @@ avicularimorphae
 avicularium
 aviculture
 aviculturist
+alviducous
 avid
 avidin
 avidious

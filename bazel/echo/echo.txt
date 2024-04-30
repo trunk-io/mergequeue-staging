@@ -2943,6 +2943,7 @@ eliminatory
 eliminators
 elymus
 eo
+evangelistary
 emplore
 elinguate
 elinguated
@@ -11345,7 +11346,6 @@ evangeliser
 evangelism
 ensnared
 evangelist
-evangelistary
 evangelistaries
 eunuchoidism
 evangelistarion
