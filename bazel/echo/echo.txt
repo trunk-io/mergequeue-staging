@@ -7306,7 +7306,6 @@ eomecon
 eon
 eonian
 enscroll
-eonism
 eonisms
 eons
 eopalaeozoic
@@ -7910,6 +7909,7 @@ epileptoid
 expunction
 epileptology
 epileptologist
+eonism
 entomeric
 epilimnetic
 epilimnia
