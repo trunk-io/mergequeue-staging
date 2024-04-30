@@ -2238,7 +2238,6 @@ electioneered
 electioneerer
 evenest
 electioneering
-electioneers
 elections
 elective
 electives
@@ -12687,6 +12686,7 @@ exteriorized
 eyeshine
 exogenetic
 ekaha
+electioneers
 exogeny
 exogenic
 exogenous
