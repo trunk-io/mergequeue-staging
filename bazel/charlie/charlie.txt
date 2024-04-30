@@ -3161,7 +3161,6 @@ capmaking
 capman
 capmint
 capnodium
-capnoides
 capnomancy
 cloke
 capnomor
@@ -9249,6 +9248,7 @@ chastiser
 chastisers
 caluptra
 composture
+capnoides
 chastises
 chastising
 chastity
