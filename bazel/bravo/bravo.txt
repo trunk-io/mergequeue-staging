@@ -6524,7 +6524,6 @@ benzpinacone
 benzpyrene
 benzthiophen
 blacksmithing
-benztrioxazine
 barbermonger
 bepaint
 bepainted
@@ -17353,6 +17352,7 @@ bundlers
 bundles
 bundlet
 ballons
+benztrioxazine
 benefaction
 bemadden
 bundling

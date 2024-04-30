@@ -5680,7 +5680,6 @@ ducting
 depletions
 depletive
 depletory
-deploy
 deployed
 dorsiduct
 deploying
@@ -12587,6 +12586,7 @@ disking
 diskless
 decurrently
 disknow
+deploy
 dvandva
 dextrorse
 diskophile
