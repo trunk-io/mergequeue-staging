@@ -13318,7 +13318,6 @@ cycloaliphatic
 cyclobothra
 cyclobutane
 cyclocephaly
-cyclocoelic
 cyclocoelous
 cycloconium
 culpate
@@ -17556,6 +17555,7 @@ coccigenic
 coccygerector
 coccyges
 coccygeus
+cyclocoelic
 coccygine
 coccygodynia
 claymores
