@@ -397,7 +397,6 @@ fastens
 forespeaking
 flakily
 fluxibly
-fairly
 fairlike
 fairling
 fairm
@@ -5033,6 +5032,7 @@ face
 flashingly
 flashings
 fdub
+fairly
 flashlamp
 flashlight
 funambulator
