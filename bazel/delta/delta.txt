@@ -3523,6 +3523,7 @@ defreeze
 defrication
 defrock
 defrocked
+devourment
 defrocking
 defrocks
 defrost
@@ -7800,7 +7801,6 @@ devouringly
 drengage
 drumbling
 devouringness
-devourment
 daunomycin
 devours
 devout
