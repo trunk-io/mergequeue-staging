@@ -1094,7 +1094,6 @@ farolito
 faros
 filmgoer
 farrage
-farrago
 fordone
 farragos
 farrand
@@ -5121,6 +5120,7 @@ flatterdock
 foolheadedness
 flatterer
 flatteries
+farrago
 flattering
 flatteringness
 flatterous
