@@ -4780,7 +4780,6 @@ flagrant
 flagrantly
 flagrantness
 flagrate
-flags
 flagship
 firepower
 fabricator
@@ -6467,6 +6466,7 @@ fluorindin
 fluorine
 funambulatory
 fluorines
+flags
 fluorite
 fluorites
 fluorobenzene

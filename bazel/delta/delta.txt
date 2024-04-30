@@ -5910,7 +5910,6 @@ deprive
 deprived
 disenfranchisements
 deprivement
-depriver
 deprivers
 driveway
 deprives
@@ -9736,6 +9735,7 @@ dysacusia
 dipleurobranchiate
 dilemmatic
 darnedest
+depriver
 dilemmatical
 dilemmatically
 dilemmic
