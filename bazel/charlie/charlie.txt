@@ -5276,7 +5276,6 @@ castigatory
 castigatories
 castigators
 castile
-castilian
 castilla
 castilleja
 castillo
@@ -14704,6 +14703,7 @@ cystolith
 cystolithiasis
 cystolithic
 cystoma
+castilian
 cystomas
 cystomata
 cystomatous
