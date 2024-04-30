@@ -3608,7 +3608,6 @@ deglamorization
 deglamorize
 deglamorizing
 deglaze
-deglazes
 deglazing
 deglycerin
 deglycerine
@@ -10475,6 +10474,7 @@ diphosphoric
 diphosphothiamine
 damans
 diphrelatic
+deglazes
 diphtheria
 diphtherial
 diphtherian
