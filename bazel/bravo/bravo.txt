@@ -4812,6 +4812,7 @@ bogway
 bedrails
 bedral
 bedrape
+bestench
 bedraped
 bedrapes
 bedraping
@@ -7228,7 +7229,6 @@ besteads
 besteal
 bested
 besteer
-bestench
 bester
 bestial
 bleep
