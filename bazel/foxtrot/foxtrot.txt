@@ -5043,7 +5043,6 @@ fable
 flashover
 flashtester
 flashtubes
-flask
 ferricyanhydric
 fidia
 flasker
@@ -10687,6 +10686,7 @@ fruitlet
 fruitlets
 fruitlike
 fruitling
+flask
 fruits
 fie
 fruitstalk
