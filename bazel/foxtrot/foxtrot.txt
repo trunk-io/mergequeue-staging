@@ -8637,7 +8637,6 @@ fullams
 fleaseed
 forsaken
 forsakenly
-forsaker
 farmout
 forsakes
 forsaking
@@ -9282,6 +9281,7 @@ fragmentarily
 fragmentariness
 fragmentation
 fragmented
+forsaker
 fermentology
 fragmentisation
 fragmentised
