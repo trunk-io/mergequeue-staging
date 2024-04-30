@@ -688,6 +688,7 @@ dampers
 dampy
 damping
 dampish
+disperse
 dampishness
 damply
 dampne
@@ -13023,7 +13024,6 @@ dispersal
 dendrodus
 dispersals
 dispersant
-disperse
 dorize
 dispersed
 dispersedelement
