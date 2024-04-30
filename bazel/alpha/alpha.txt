@@ -11082,6 +11082,7 @@ ampelotherapy
 assn
 amperages
 ampere
+assizes
 amperemeter
 adornos
 amperes
@@ -21861,7 +21862,6 @@ assythment
 assize
 assized
 assizer
-assizes
 assizing
 asslike
 autodifferentiation
