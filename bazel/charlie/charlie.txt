@@ -14613,7 +14613,6 @@ cystadenoma
 cystadenosarcoma
 cystal
 cystalgia
-cystamine
 cystaster
 cystathionine
 cystatrophy
@@ -21684,6 +21683,7 @@ condyle
 condylectomy
 condyles
 condylion
+cystamine
 condyloid
 condyloma
 condylomas
