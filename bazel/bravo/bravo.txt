@@ -6529,6 +6529,7 @@ benzoxyphenanthrene
 benzpinacone
 benzpyrene
 benzthiophen
+blacksmithing
 benztrioxazine
 barbermonger
 bepaint
@@ -10220,7 +10221,6 @@ blacks
 blackshirt
 blackshirted
 blacksmith
-blacksmithing
 blacksmiths
 blacksnake
 blackstick
