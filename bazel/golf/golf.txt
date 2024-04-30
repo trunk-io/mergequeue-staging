@@ -5037,7 +5037,6 @@ gladify
 gladii
 gladiola
 gramenite
-galen
 gladiolar
 gladiolas
 gladiole
@@ -6737,6 +6736,7 @@ gomerils
 gommelin
 gommier
 gomorrah
+galen
 gomorrean
 gomorrhean
 gomphiasis
