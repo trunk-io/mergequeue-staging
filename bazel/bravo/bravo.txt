@@ -5235,7 +5235,6 @@ begalled
 baptized
 begalling
 backsight
-begalls
 begar
 begari
 bisiliquous
@@ -7481,6 +7480,7 @@ betroth
 betrothals
 betrothed
 bloodworthy
+begalls
 betrothing
 betrothment
 betroths
