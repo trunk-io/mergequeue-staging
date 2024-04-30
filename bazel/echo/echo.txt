@@ -3697,6 +3697,7 @@ embryotomies
 embryotroph
 embryotrophic
 embryous
+eucosia
 embrittle
 embrittled
 embrittling
@@ -10701,7 +10702,6 @@ exacervation
 eucommiaceae
 euconic
 eucopepoda
-eucosia
 eucosmid
 eucosmidae
 eucrasy
