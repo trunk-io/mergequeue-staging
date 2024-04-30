@@ -4506,7 +4506,6 @@ glossopathy
 geometdecrne
 ginkgoes
 ginks
-greedsome
 ginmill
 gainsaid
 gaonic
@@ -8507,6 +8506,7 @@ gravitative
 gravitic
 gravities
 gravitometer
+greedsome
 graviton
 gravitons
 gravure

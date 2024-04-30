@@ -12094,7 +12094,6 @@ boldfaced
 boldfacedly
 boldfacing
 batodendron
-boldhearted
 boldheartedly
 bedeviled
 boldheartedness
@@ -14024,6 +14023,7 @@ brachyhieric
 brachylogies
 brachymetropia
 brachymetropic
+boldhearted
 brachinus
 brachiocephalic
 brachiocyllosis
