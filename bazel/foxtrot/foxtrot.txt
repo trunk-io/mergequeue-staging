@@ -3330,6 +3330,7 @@ fiefdom
 fractional
 fiefs
 fiel
+filatures
 field
 fieldball
 fluoborate
@@ -3545,7 +3546,6 @@ filariids
 ferruginating
 filarious
 filature
-filatures
 filazer
 filbert
 filberts
