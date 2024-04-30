@@ -13478,6 +13478,7 @@ dissection
 dissections
 dissector
 dissectors
+drierman
 disseise
 disseisee
 disseises
@@ -14926,7 +14927,6 @@ doffed
 dissention
 doffer
 doffers
-drierman
 doffs
 devolutionary
 doftberry
