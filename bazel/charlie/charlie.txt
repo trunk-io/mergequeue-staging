@@ -1217,7 +1217,6 @@ calybite
 calibogus
 colunar
 calibrate
-crosslap
 calibrater
 calibrates
 calibrating
@@ -12045,6 +12044,7 @@ chorous
 chorten
 chorti
 chortle
+crosslap
 chares
 chortled
 cloverlay
