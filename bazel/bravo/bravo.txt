@@ -3561,7 +3561,6 @@ biers
 batfowling
 batfowls
 batful
-bath
 bordeaux
 bathe
 batheable
@@ -6489,6 +6488,7 @@ benzopyrylium
 benzoquinoline
 benzoquinone
 benzoquinoxaline
+bath
 benzosulfimide
 benzosulphimide
 batta

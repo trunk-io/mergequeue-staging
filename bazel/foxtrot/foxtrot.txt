@@ -4077,7 +4077,6 @@ fiorite
 fioriture
 fippence
 flyball
-fipple
 fiqh
 fique
 fathead
@@ -8815,6 +8814,7 @@ federacies
 forwoden
 femicide
 forworden
+fipple
 forwore
 forwork
 frailer
