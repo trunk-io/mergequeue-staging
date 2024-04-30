@@ -2141,7 +2141,6 @@ gazabos
 gazangabin
 gazania
 griffado
-gaze
 gazebo
 glimpse
 gloppy
@@ -9581,6 +9580,7 @@ growze
 grozart
 greenkeeping
 grozer
+gaze
 grozet
 grr
 grs
