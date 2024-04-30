@@ -3841,7 +3841,6 @@ exert
 emeriti
 emeritus
 emerizing
-emerod
 emerods
 emeroid
 emeroids
@@ -7650,6 +7649,7 @@ epicnemial
 epicoele
 epicoelia
 epicoeliac
+emerod
 epicoelian
 epicoeloma
 epicoelous
