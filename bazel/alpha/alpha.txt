@@ -2408,7 +2408,6 @@ acyclic
 acicula
 aciculae
 antiutilitarian
-acicular
 acicularity
 acicularly
 aciculas
@@ -9080,6 +9079,7 @@ anchieutectic
 allowancing
 allowed
 allowedly
+acicular
 allower
 aseptol
 allowing
