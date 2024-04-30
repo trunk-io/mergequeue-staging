@@ -12665,6 +12665,7 @@ bookery
 bookers
 bookfair
 bookfold
+bowditch
 basilidianism
 bookful
 bookholder
@@ -13730,7 +13731,6 @@ bowback
 bowbells
 bowbent
 bowden
-bowditch
 blathering
 bowdlerisation
 bowdlerise

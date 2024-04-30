@@ -5357,7 +5357,6 @@ affiants
 affich
 animize
 affiche
-affiches
 affidare
 affidation
 affidavy
@@ -13443,6 +13442,7 @@ anisotonic
 amoebaean
 anisotropal
 anisotrope
+affiches
 anisotropy
 anisotropically
 anencephalotrophia
