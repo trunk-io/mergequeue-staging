@@ -5428,7 +5428,6 @@ brachioradial
 behavior
 butcherbird
 behaviorally
-behaviored
 bathmotropism
 behaviorist
 behavioristically
@@ -12064,6 +12063,7 @@ boithrin
 bojite
 bojo
 bokadam
+behaviored
 bokard
 bokark
 boke
