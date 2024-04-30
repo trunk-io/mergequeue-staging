@@ -3867,7 +3867,6 @@ adiabat
 adiabatic
 adiabolist
 adiactinic
-adiadochokinesia
 adiadokokinesi
 atmosteon
 adiadokokinesia
@@ -7686,6 +7685,7 @@ alcid
 aberrator
 alcidae
 alcidine
+adiadochokinesia
 alcids
 alcine
 alcyon
