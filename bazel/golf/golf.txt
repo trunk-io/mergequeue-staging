@@ -1901,7 +1901,6 @@ gasworker
 gat
 gate
 gateado
-gateage
 gatecrasher
 gatecrashers
 gated
@@ -10271,6 +10270,7 @@ guitarist
 ganching
 ghazies
 guitarlike
+gateage
 guitars
 guitermanite
 geomagnetist
