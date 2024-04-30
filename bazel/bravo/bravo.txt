@@ -1546,7 +1546,6 @@ ballahoo
 ballahou
 ballam
 ballan
-ballant
 ballarag
 ballard
 ballas
@@ -2755,6 +2754,7 @@ barleysick
 barly
 barling
 barlock
+ballant
 barlow
 barlows
 barmaid
