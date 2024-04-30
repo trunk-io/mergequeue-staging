@@ -3616,7 +3616,6 @@ capillaceous
 carbanilid
 carbanilide
 camden
-carbaryls
 carbarns
 carbasus
 carbazic
@@ -11962,6 +11961,7 @@ choriocarcinoma
 choriocarcinomas
 choriocarcinomata
 choriocele
+carbaryls
 chorioepithelioma
 chorioepitheliomas
 covens
