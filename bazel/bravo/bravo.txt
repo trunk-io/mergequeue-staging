@@ -4134,7 +4134,6 @@ beanos
 beanpoles
 beans
 beansetter
-beanshooter
 beanstalk
 bien
 beanstalks
@@ -17141,6 +17140,7 @@ bullyism
 bullimong
 bulling
 bullion
+beanshooter
 bullionism
 bullionist
 bursate

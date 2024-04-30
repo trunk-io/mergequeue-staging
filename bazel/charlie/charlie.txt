@@ -3623,7 +3623,6 @@ carbazide
 carbazylic
 carbazine
 carbazole
-carbeen
 carbene
 carberry
 carbethoxy
@@ -29244,6 +29243,7 @@ cryptobranchia
 cryptobranchiata
 cryptobranchiate
 cryptobranchidae
+carbeen
 ciphered
 cryptobranchus
 cryptocarya
