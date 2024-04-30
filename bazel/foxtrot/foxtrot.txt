@@ -978,6 +978,7 @@ fiver
 fardelet
 fardels
 finespun
+fourchite
 farding
 fardo
 fards
@@ -9044,7 +9045,6 @@ filea
 fucatious
 foveola
 fourchette
-fourchite
 fourer
 fourflusher
 fourflushers
