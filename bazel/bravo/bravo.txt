@@ -4401,7 +4401,6 @@ bebrave
 bebreech
 bebrother
 bebrush
-bibber
 bidactyle
 bebump
 bebusy
@@ -11672,6 +11671,7 @@ bobble
 bobbles
 bobbling
 bobcat
+bibber
 bobcats
 bobcoat
 bobeche
