@@ -7319,7 +7319,6 @@ cephalocyst
 cephaloclasia
 cantingly
 cephaloclast
-cephalocone
 chilled
 cephaloconic
 cephalodia
@@ -13476,6 +13475,7 @@ cicutoxin
 cid
 cidarid
 cidaridae
+cephalocone
 cidaris
 connectively
 cassida
