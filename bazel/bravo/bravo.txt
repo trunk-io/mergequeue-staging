@@ -12421,7 +12421,6 @@ bondland
 brands
 bondless
 bondmaid
-bondmaids
 bondman
 bondmanship
 bondmen
@@ -17488,6 +17487,7 @@ buoyantness
 brigandism
 buoying
 buonamani
+bondmaids
 buonamano
 batten
 buphaga
