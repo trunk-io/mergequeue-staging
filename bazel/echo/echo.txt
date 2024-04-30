@@ -4623,7 +4623,6 @@ enchanting
 enchantingness
 enchantment
 enchantments
-enchantress
 enchants
 encharge
 encharged
@@ -8576,6 +8575,7 @@ eques
 equestrial
 empyreal
 epimysium
+enchantress
 ectocarpales
 equestrian
 equestrianism
