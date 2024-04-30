@@ -4435,6 +4435,7 @@ enantiotropy
 enantiotropic
 enapt
 enarbor
+engraving
 enarbour
 enarched
 enarm
@@ -7528,7 +7529,6 @@ ephorate
 emandibulate
 ephorates
 ephori
-engraving
 ephoric
 ephors
 ephphatha
