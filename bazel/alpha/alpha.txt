@@ -20775,6 +20775,7 @@ artisanal
 artisanry
 artisans
 artisanship
+attachment
 artist
 artiste
 artistes
@@ -22940,7 +22941,6 @@ attaches
 attacheship
 aeroperitoneum
 anthoecology
-attachment
 attachments
 attack
 aerophilic
