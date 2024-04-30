@@ -3040,6 +3040,7 @@ gjetosts
 gendarmerie
 graying
 geodetician
+geomechanics
 geodetics
 geodiatropism
 geodiferous
@@ -3140,7 +3141,6 @@ geomant
 geomantic
 gasolineless
 geomantically
-geomechanics
 geomedical
 geometer
 grainier
