@@ -7880,7 +7880,6 @@ epihyal
 electromagnetize
 epihydric
 epihydrinic
-epihippus
 epiky
 epikia
 epiklesis
@@ -12264,6 +12263,7 @@ execration
 execrations
 execrative
 elapse
+epihippus
 execratively
 execrators
 exect
