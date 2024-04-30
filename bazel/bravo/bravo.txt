@@ -7175,7 +7175,6 @@ bespouses
 bespousing
 bespout
 bespray
-bespread
 bespreading
 bespreng
 besprent
@@ -11214,6 +11213,7 @@ blousier
 blousiest
 blousily
 blousing
+bespread
 blouson
 blout
 bloviate

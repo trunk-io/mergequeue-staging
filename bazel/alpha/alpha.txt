@@ -3989,6 +3989,7 @@ adjacencies
 amberiferous
 adjacently
 adjag
+astigmatometer
 adject
 adjection
 adjectional
@@ -22146,7 +22147,6 @@ astigmatic
 astigmatically
 astigmatism
 astigmatizer
-astigmatometer
 astigmatometry
 astigmatoscope
 astigmatoscopy
