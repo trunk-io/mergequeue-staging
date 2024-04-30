@@ -11546,7 +11546,6 @@ anabolic
 apoious
 anabolin
 anabolism
-anabolite
 anabolitic
 anabolize
 albuminise
@@ -20470,6 +20469,7 @@ arte
 artefac
 artefact
 artefacts
+anabolite
 artel
 artels
 artemas
