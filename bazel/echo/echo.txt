@@ -1725,7 +1725,6 @@ enuretic
 eyeball
 eyeballed
 eyeballing
-eyeballs
 eyebalm
 eyebeam
 epimeron
@@ -10497,6 +10496,7 @@ enrockment
 ethnologer
 erysibe
 ethnology
+eyeballs
 ethnological
 ethnologically
 ethnologist
