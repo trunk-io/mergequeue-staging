@@ -3983,7 +3983,6 @@ fingerspin
 fingerstall
 fingerstone
 fumes
-fingerwise
 fingerwork
 fistula
 fingian
@@ -4343,6 +4342,7 @@ fisheye
 fisher
 fisherboat
 fisherboy
+fingerwise
 fisheress
 forespeech
 fragmentate
