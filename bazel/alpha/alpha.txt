@@ -3328,7 +3328,6 @@ animates
 acuaesthesia
 acuate
 acuating
-acuation
 acubens
 acuchi
 acuclosure
@@ -13909,6 +13908,7 @@ anthroponomical
 anopisthographic
 anopisthographically
 anopla
+acuation
 anoplanthus
 anoplocephalic
 antiepicenter
