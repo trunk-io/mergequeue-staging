@@ -2993,6 +2993,7 @@ barrelled
 barrelling
 barrelmaker
 barrelmaking
+ballistics
 barrels
 barrelsful
 brigantines
@@ -8200,7 +8201,6 @@ bidirectional
 bidirectionally
 bidiurnal
 bidonville
-ballistics
 bidpai
 besquib
 begets
