@@ -8651,7 +8651,6 @@ allegator
 allegeable
 alleged
 allegedly
-allegement
 alleger
 allegers
 alleges
@@ -11981,6 +11980,7 @@ anaplasmoses
 axbreaker
 anaplasmosis
 anaplasty
+allegement
 anaplastic
 anapleroses
 anaplerotic
