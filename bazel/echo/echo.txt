@@ -6679,6 +6679,7 @@ enteropneustan
 enteroptotic
 electroencephalograms
 enterorrhagia
+evacuant
 enterorrhexis
 etatisms
 enteroscopy
@@ -11271,7 +11272,6 @@ euxenites
 eigne
 euxine
 eva
-evacuant
 epipetalous
 evacuants
 evacuating
