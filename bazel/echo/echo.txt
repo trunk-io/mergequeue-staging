@@ -3071,6 +3071,7 @@ elliptoid
 ellops
 epicyte
 ells
+entoplastral
 elm
 elmer
 elmy
@@ -6934,7 +6935,6 @@ entophytal
 entophytic
 entopic
 entoplasm
-entoplastral
 entoplastron
 entopopliteal
 entoprocta
