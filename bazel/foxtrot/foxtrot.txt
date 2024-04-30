@@ -567,7 +567,6 @@ fallopian
 fallostomy
 fallout
 facetiousness
-funerate
 fallouts
 frankfurter
 fallow
@@ -4634,6 +4633,7 @@ farming
 fixup
 forwarding
 fixups
+funerate
 fixure
 forra
 fane
