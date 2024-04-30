@@ -2177,6 +2177,7 @@ elbowpiece
 elbowroom
 elbows
 elbuck
+emendating
 elcaja
 elchee
 eld
@@ -3809,7 +3810,6 @@ emendated
 ekerite
 escutcheon
 emendates
-emendating
 enterocystoma
 emendations
 emendator
