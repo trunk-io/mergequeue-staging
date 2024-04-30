@@ -4384,7 +4384,6 @@ fleeten
 fishing
 fightingly
 fishingly
-fishings
 fishlet
 fishlike
 fishline
@@ -8395,6 +8394,7 @@ frontosquamosal
 forlornest
 forlornly
 form
+fishings
 forma
 formagen
 formal
