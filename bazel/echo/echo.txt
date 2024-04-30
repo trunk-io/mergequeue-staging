@@ -2039,7 +2039,6 @@ elaeoblastic
 effluvias
 elaeocarpaceae
 electrocauteries
-elaeocarpaceous
 elaeocarpus
 entamebas
 elaeodendron
@@ -8227,6 +8226,7 @@ emaceration
 episternite
 episternum
 episthotonos
+elaeocarpaceous
 epistylar
 epistilbite
 epistyle
