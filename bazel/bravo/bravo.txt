@@ -6593,6 +6593,7 @@ bepuzzlement
 bequalm
 bequeath
 baulk
+bipartisanship
 bequeathable
 bequeathal
 bequeathed
@@ -9287,7 +9288,6 @@ baudekins
 biparted
 bipartile
 bipartisan
-bipartisanship
 baltic
 bipartite
 bipartitely
