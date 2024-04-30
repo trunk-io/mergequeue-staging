@@ -6315,7 +6315,6 @@ bensil
 benson
 bent
 brandsolder
-bentang
 benthal
 baldie
 benthamic
@@ -16999,6 +16998,7 @@ belief
 bulk
 bishoping
 bulkage
+bentang
 bulkages
 bulked
 bulkhead
