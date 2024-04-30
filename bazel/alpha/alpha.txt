@@ -2021,7 +2021,6 @@ acetamidine
 acetamido
 acetamids
 acetaminol
-antimonate
 acetaminophen
 ataraxics
 acetanilid
@@ -23801,6 +23800,7 @@ authenticated
 authenticates
 authentication
 authentications
+antimonate
 authenticator
 arrtez
 athetosic

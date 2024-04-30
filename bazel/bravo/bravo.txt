@@ -13707,6 +13707,7 @@ bovey
 bovenland
 broadsiding
 blakeite
+bachelors
 boviculture
 bovid
 bovidae
@@ -16405,7 +16406,6 @@ brutely
 brutelike
 bruteness
 brutify
-bachelors
 brutification
 brutified
 basigenic
