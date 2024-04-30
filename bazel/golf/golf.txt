@@ -788,7 +788,6 @@ galvanocauteries
 galvanocontractility
 galvanofaradization
 galvanoglyph
-galvanograph
 galvanography
 gatekeeper
 galvanolysis
@@ -9401,6 +9400,7 @@ grottoes
 grotzen
 grouch
 grouches
+galvanograph
 grouchy
 gearbox
 galopades
