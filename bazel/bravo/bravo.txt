@@ -5845,7 +5845,6 @@ belligerent
 belligerently
 belligerents
 burghemot
-bellying
 bellyland
 bellylike
 bellyman
@@ -6919,6 +6918,7 @@ bescour
 bescourge
 bescouring
 bescours
+bellying
 bescramble
 berstel
 buddhistical
