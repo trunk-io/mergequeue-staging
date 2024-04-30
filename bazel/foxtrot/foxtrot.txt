@@ -3021,7 +3021,6 @@ fibra
 fibration
 fibreboard
 fibred
-fibreglass
 fibreless
 fibril
 fibrilated
@@ -7826,6 +7825,7 @@ foremind
 foremost
 foremostly
 flushermen
+fibreglass
 foremother
 forename
 forenamed
