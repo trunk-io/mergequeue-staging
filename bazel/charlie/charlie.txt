@@ -23084,7 +23084,6 @@ constabulary
 constabularies
 constance
 constances
-constancy
 constant
 constantan
 constantine
@@ -24047,6 +24046,7 @@ conventual
 conventually
 converge
 coexchangeable
+constancy
 converged
 convergement
 convergence
