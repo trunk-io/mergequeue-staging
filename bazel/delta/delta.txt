@@ -642,7 +642,6 @@ damnably
 damnation
 damnatory
 desterilizing
-damndest
 damned
 damnedest
 damner
@@ -8221,6 +8220,7 @@ diagnosticians
 diagnostics
 diagometer
 diagonal
+damndest
 dures
 diagonalizable
 diagonalization
