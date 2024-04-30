@@ -7674,7 +7674,6 @@ egurgitate
 epicotyleal
 epicotyledonary
 epicotyls
-epicranium
 emplead
 epicranius
 evinced
@@ -9062,6 +9061,7 @@ eriocaulaceae
 eriocaulon
 eriocomi
 eriodendron
+epicranium
 erioglaucine
 equiparation
 entoil
