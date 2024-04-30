@@ -5845,6 +5845,7 @@ engraven
 engraver
 engravers
 engraves
+evaporate
 engravings
 engreaten
 engrege
@@ -11368,7 +11369,6 @@ evanishment
 evans
 evansite
 evap
-evaporate
 evaporated
 evaporates
 evaporating
