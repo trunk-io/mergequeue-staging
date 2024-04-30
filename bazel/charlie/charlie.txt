@@ -5873,7 +5873,6 @@ cutheal
 catheptic
 catherine
 cathern
-catheter
 catheterisation
 catheterise
 catheterised
@@ -15742,6 +15741,7 @@ clavered
 clavering
 clavi
 chirres
+catheter
 clavy
 clavial
 claviature
