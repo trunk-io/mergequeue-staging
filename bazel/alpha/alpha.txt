@@ -10891,7 +10891,6 @@ amniac
 ateleiosis
 amnic
 aluminothermy
-agyria
 allamoth
 amnigenia
 amninia
@@ -22310,6 +22309,7 @@ astroid
 astroite
 arseno
 astrol
+agyria
 astrolabe
 artful
 associable
