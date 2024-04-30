@@ -2675,6 +2675,7 @@ electrotonize
 electrotropism
 egoize
 electrovalency
+excheat
 equiponderancy
 electrovalent
 electrovection
@@ -11999,7 +12000,6 @@ exchangee
 exchanger
 elbowing
 exchanges
-excheat
 exchequer
 exchequers
 excide
