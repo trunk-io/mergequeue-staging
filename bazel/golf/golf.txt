@@ -2653,7 +2653,6 @@ generalists
 generaliter
 generality
 generalities
-generalization
 generalizations
 generalize
 girt
@@ -5039,6 +5038,7 @@ gladiolar
 gladiolas
 gladiole
 gladioli
+generalization
 gunlocks
 gladioluses
 gladys
