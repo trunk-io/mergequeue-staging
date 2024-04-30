@@ -2303,7 +2303,6 @@ goody
 geggery
 gehey
 galax
-gehlenite
 gey
 geyan
 griseofulvin
@@ -7559,6 +7558,7 @@ grab
 grabbable
 grabbed
 gingerbread
+gehlenite
 grabbots
 grabber
 grabbers
