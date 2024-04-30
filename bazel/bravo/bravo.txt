@@ -3026,7 +3026,6 @@ backropes
 barrikin
 barriness
 barring
-barringer
 barrington
 barringtonia
 byous
@@ -9650,6 +9649,7 @@ bisectrices
 bisects
 bibliothecae
 bisegment
+barringer
 bisellia
 bisellium
 bysen
