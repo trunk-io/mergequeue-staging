@@ -4392,7 +4392,6 @@ fishtail
 fishtailed
 fitten
 fishtails
-fishway
 fishways
 fishweed
 foothils
@@ -5900,6 +5899,7 @@ floodcock
 flooded
 flooder
 fluids
+fishway
 flooders
 floody
 flooding
