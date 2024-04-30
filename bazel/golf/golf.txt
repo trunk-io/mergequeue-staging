@@ -4975,6 +4975,7 @@ glueman
 glaceed
 geostatics
 gounau
+grease
 glaceing
 glaces
 glaciable
@@ -8546,7 +8547,6 @@ glasser
 gre
 greable
 greably
-grease
 greaseball
 gorgonlike
 greasebush
