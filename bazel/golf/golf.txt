@@ -1284,7 +1284,6 @@ garages
 gilgie
 garaging
 garance
-garancin
 garancine
 garapata
 garapato
@@ -9727,6 +9726,7 @@ grunions
 grunswel
 grunt
 grunted
+garancin
 grunter
 gymnotus
 grunters

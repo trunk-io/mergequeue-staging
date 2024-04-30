@@ -7830,7 +7830,6 @@ cervicobasilar
 cervicobrachial
 cervicobregmatic
 cervicobuccal
-cervicodynia
 cervicodorsal
 cervicofacial
 cabob
@@ -16232,6 +16231,7 @@ clingier
 clinginess
 clinging
 clingingly
+cervicodynia
 chuffer
 clings
 clingstone
