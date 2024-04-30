@@ -4118,7 +4118,6 @@ gabbroid
 gild
 grimacier
 gildable
-gilded
 gildedness
 gilden
 gilder
@@ -10142,6 +10141,7 @@ grasshoppers
 guichet
 guidable
 guidance
+gilded
 guide
 guideboard
 guidebooky
