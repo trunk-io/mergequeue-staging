@@ -3043,7 +3043,6 @@ fraken
 fibrillar
 fictionist
 fibrillary
-fibrillating
 fibrillation
 fibrillations
 forky
@@ -9504,6 +9503,7 @@ farmhands
 fraternization
 fraternize
 fraternizer
+fibrillating
 fraternizing
 fraticelli
 fraticellian
