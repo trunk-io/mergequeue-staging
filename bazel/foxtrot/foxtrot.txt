@@ -1154,7 +1154,6 @@ fascet
 foldure
 fascia
 feudally
-fascial
 fascias
 fasciate
 fasciated
@@ -10132,6 +10131,7 @@ forworn
 fannon
 fringilla
 fringillaceous
+fascial
 fringillidae
 fringilliform
 fringilliformes
