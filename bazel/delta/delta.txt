@@ -2104,7 +2104,6 @@ diarhemia
 decarbonizer
 decarboxylate
 decarboxylated
-decarboxylating
 decarboxylation
 desilicification
 decarboxylization
@@ -6465,6 +6464,7 @@ descendingly
 dovish
 descends
 descension
+decarboxylating
 descensionist
 descensive
 descensory
