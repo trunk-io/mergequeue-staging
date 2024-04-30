@@ -7760,7 +7760,6 @@ alcoves
 alcuinian
 axmaster
 alcumy
-ald
 alday
 aldamin
 aldamine
@@ -18677,6 +18676,7 @@ arcae
 arcana
 arcane
 arcanist
+ald
 arcanite
 arcanum
 arcate
