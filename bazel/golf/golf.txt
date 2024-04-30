@@ -1899,7 +1899,6 @@ gastrulation
 gastruran
 gasworker
 gat
-gate
 gateado
 gateage
 gatecrasher
@@ -4293,6 +4292,7 @@ grossify
 gymnospermae
 gymnospermal
 gymnospermy
+gate
 gymnospermic
 gunhouse
 gavots
