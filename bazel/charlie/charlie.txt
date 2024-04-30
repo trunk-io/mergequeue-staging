@@ -9374,7 +9374,6 @@ cohenite
 chaunter
 chaunters
 chaunting
-chaunts
 chauri
 chaus
 chausse
@@ -25265,6 +25264,7 @@ corn
 cornaceae
 cornaceous
 cornada
+chaunts
 cornage
 contrivance
 cornamute
