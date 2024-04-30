@@ -11382,7 +11382,6 @@ chloropsia
 chlorosilicate
 chlorosis
 chlorospinel
-chlorosulphonic
 califate
 chlorotic
 chlorotically
@@ -29574,6 +29573,7 @@ consociation
 croat
 carbogelatin
 croatan
+chlorosulphonic
 croatian
 croc
 croceic
