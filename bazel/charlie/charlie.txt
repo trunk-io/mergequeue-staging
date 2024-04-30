@@ -2400,6 +2400,7 @@ candleshine
 candleshrift
 candlesnuffer
 candlestand
+convertable
 candlestick
 candlesticked
 candlesticks
@@ -13194,7 +13195,6 @@ cicatricial
 cicatricle
 cicatricose
 cicatricula
-convertable
 cicatriculae
 cicatricule
 cicatrisant
