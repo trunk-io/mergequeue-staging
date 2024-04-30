@@ -348,6 +348,7 @@ embody
 electrotechnologist
 ebbs
 ebcasc
+endpoints
 ebcd
 ebcdic
 ebdomade
@@ -5438,7 +5439,6 @@ extranidal
 endplate
 endplates
 endpleasure
-endpoints
 endrin
 endrins
 endromididae
