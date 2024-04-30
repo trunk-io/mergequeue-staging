@@ -3502,7 +3502,6 @@ bastonite
 basts
 basurale
 basuto
-barramundis
 bat
 bataan
 batable
@@ -10161,6 +10160,7 @@ blackgum
 blackgums
 bayadeer
 blackhead
+barramundis
 blackheads
 blackheart
 blackhearted
