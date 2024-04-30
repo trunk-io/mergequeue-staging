@@ -3585,7 +3585,6 @@ addnl
 addoom
 addorsed
 antonymies
-addossed
 address
 acronychous
 allotheistic
@@ -14755,6 +14754,7 @@ antiaggression
 antiaggressive
 antiaggressively
 antiaggressiveness
+addossed
 antiaircraft
 antialbumid
 antialbumin
