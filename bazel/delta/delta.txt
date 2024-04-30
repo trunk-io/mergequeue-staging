@@ -1175,6 +1175,7 @@ dipleurula
 dasyuridae
 dasyurine
 dextral
+disport
 dasyuroid
 dasyurus
 dasyus
@@ -11618,7 +11619,6 @@ dignify
 discontinuous
 desugaring
 decoys
-disport
 discontinuously
 discontinuousness
 distill
