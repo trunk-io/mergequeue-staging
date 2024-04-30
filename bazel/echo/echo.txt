@@ -5179,7 +5179,6 @@ endogeny
 endogenic
 endogenicity
 endogenies
-endogenous
 endogenously
 endogens
 extralimital
@@ -9859,6 +9858,7 @@ essene
 essenian
 essenic
 essenical
+endogenous
 essenis
 essenism
 essenize
