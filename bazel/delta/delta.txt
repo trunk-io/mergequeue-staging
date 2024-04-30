@@ -1861,7 +1861,6 @@ deboning
 decigramme
 debonnaire
 deborah
-debordment
 decapodous
 decumaria
 deboshment
@@ -7169,6 +7168,7 @@ detat
 detax
 detd
 detect
+debordment
 detectability
 daishiki
 dogshore
