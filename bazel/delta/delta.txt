@@ -3041,7 +3041,6 @@ deer
 deerberry
 deerdog
 deerdrive
-deerfly
 deerflies
 deerflys
 dolichocephaly
@@ -6618,6 +6617,7 @@ desiccated
 desiccating
 desiccation
 desiccations
+deerfly
 desiccative
 desiccator
 darbukka
