@@ -4537,7 +4537,6 @@ demigauntlet
 demigentleman
 demiglace
 demigod
-demigoddess
 demigods
 demigorge
 diagnoses
@@ -6454,6 +6453,7 @@ descendent
 descendental
 descendentalist
 descendentalistic
+demigoddess
 descendents
 denumerant
 descender
