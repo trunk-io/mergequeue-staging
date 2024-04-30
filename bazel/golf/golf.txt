@@ -1439,7 +1439,6 @@ gieaways
 garmentworker
 garn
 garnerage
-galvanotropic
 garnered
 garnering
 grysbok
@@ -6107,6 +6106,7 @@ ginger
 gallicisms
 gv
 genealogy
+galvanotropic
 gluelikeness
 gluemaker
 ganta
