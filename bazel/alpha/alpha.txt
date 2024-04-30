@@ -3320,6 +3320,7 @@ ascents
 acturience
 actus
 actutate
+ambassade
 animates
 acuaesthesia
 acuate
@@ -9996,7 +9997,6 @@ ambary
 ambaris
 ambas
 ambash
-ambassade
 ambassadeur
 alemite
 ambassador
