@@ -3891,6 +3891,7 @@ bavin
 bavius
 bavoso
 baw
+benzophenol
 bawarchi
 bawbee
 bawbees
@@ -6473,7 +6474,6 @@ bluebuck
 benzoperoxide
 benzophenazine
 buffos
-benzophenol
 benzophenone
 benzophenothiazine
 benzophenoxazine
