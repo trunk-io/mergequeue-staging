@@ -7208,7 +7208,6 @@ enteroanastomosis
 envolupen
 enflesh
 enweaved
-enweb
 epitrichium
 enwheel
 enwheeled
@@ -10646,6 +10645,7 @@ eucarida
 eucaryote
 eucaryotic
 eucarpic
+enweb
 eucarpous
 eucatropine
 eucgia
