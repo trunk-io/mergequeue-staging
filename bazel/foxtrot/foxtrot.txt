@@ -5928,6 +5928,7 @@ floorboards
 foveated
 fala
 floorcloths
+fluminous
 floored
 floorer
 floorhead
@@ -6342,7 +6343,6 @@ flumadiddle
 flumdiddle
 flume
 fluming
-fluminous
 flummadiddle
 flummer
 flummery
