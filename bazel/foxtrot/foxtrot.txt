@@ -9352,7 +9352,6 @@ frambesia
 frame
 filiating
 framea
-frameable
 frameae
 framed
 frameless
@@ -11274,6 +11273,7 @@ funli
 funmaker
 funmaking
 funned
+frameable
 funnel
 funneled
 frizzlers
