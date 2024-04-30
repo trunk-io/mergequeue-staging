@@ -2548,7 +2548,6 @@ bareka
 bareknuckle
 buttinsky
 bareknuckled
-becompass
 barelegged
 barely
 barenecked
@@ -8441,6 +8440,7 @@ bigotish
 bigots
 bigotty
 bigroot
+becompass
 bigthatch
 biguanide
 bigwig
