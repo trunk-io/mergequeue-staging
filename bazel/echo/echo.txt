@@ -6414,7 +6414,6 @@ enskied
 enskyed
 estop
 enskies
-enskying
 exterioration
 enslaved
 enslavedness
@@ -9838,6 +9837,7 @@ essayed
 essayer
 essayers
 essaying
+enskying
 essayism
 essayist
 essayistical

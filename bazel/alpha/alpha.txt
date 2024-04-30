@@ -5162,6 +5162,7 @@ aerothermodynamic
 aerothermodynamics
 aerotonometer
 aerotonometry
+afforcement
 atrabilar
 aerotonometric
 aerotropic
@@ -5447,7 +5448,6 @@ affluxes
 affluxion
 ayen
 acrologies
-afforcement
 afforcing
 assisting
 abutilons
