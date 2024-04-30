@@ -6989,7 +6989,6 @@ centaurdom
 centaurea
 centauress
 centauri
-centaurial
 centauric
 centaurid
 centauridium
@@ -13715,6 +13714,7 @@ cymographic
 cymoid
 cysticercus
 cymoidium
+centaurial
 cymol
 cimolite
 cymols

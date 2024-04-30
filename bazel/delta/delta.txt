@@ -7041,7 +7041,6 @@ destroying
 destroys
 domesticable
 destruct
-drawls
 destructibility
 destructible
 destructibleness
@@ -15380,6 +15379,7 @@ domineeringly
 domineeringness
 domineers
 domines
+drawls
 dominial
 decalomania
 dominic
