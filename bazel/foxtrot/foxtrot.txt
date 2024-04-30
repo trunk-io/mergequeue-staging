@@ -2529,7 +2529,6 @@ ferreters
 ferreting
 ferrets
 ferretto
-ferri
 ferry
 ferriages
 ferryboats
@@ -4298,6 +4297,7 @@ firth
 fusilier
 firths
 fiscal
+ferri
 fiscalify
 fiscalism
 feeze
