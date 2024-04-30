@@ -2410,7 +2410,6 @@ decine
 decyne
 decinormal
 decipher
-dispenser
 decipherability
 drawers
 dacryosyrinx
@@ -15931,6 +15930,7 @@ dotarie
 dotate
 dotation
 dotchin
+dispenser
 disdeceive
 detestably
 dote

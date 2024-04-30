@@ -4084,7 +4084,6 @@ carditises
 cardium
 craizey
 cardlike
-cardmaker
 cardmaking
 cardo
 cardol
@@ -6508,6 +6507,7 @@ cecca
 cecchine
 cecidiology
 cecidiologist
+cardmaker
 cecidium
 cecidogenous
 cecidology
