@@ -994,7 +994,6 @@ daring
 daringly
 daringness
 dariole
-darioles
 darius
 dark
 darked
@@ -2336,6 +2335,7 @@ deciatine
 decibar
 decibels
 decidability
+darioles
 decidedly
 decidement
 decidence
