@@ -3450,6 +3450,7 @@ bassos
 bassus
 basswood
 basswoods
+brickle
 bast
 basta
 bastaard
@@ -15143,7 +15144,6 @@ brickkiln
 bricklayer
 bricklayers
 bricklaying
-brickle
 brickleness
 brickly
 bricklike
