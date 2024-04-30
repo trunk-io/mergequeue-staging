@@ -4603,7 +4603,6 @@ bedamning
 bedamp
 bedangled
 bedare
-bedark
 bedarken
 bedarkened
 bedarkening
@@ -11276,6 +11275,7 @@ blowzed
 blowzy
 blowzier
 bodhisattwa
+bedark
 blowziness
 blowzing
 bls
