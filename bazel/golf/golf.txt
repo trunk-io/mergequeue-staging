@@ -8098,7 +8098,6 @@ granuloblast
 granulocyte
 gcd
 granulocytic
-griffinish
 granulocytopoiesis
 granuloma
 granulomatosis
@@ -9867,6 +9866,7 @@ guanos
 guanosine
 geothermally
 gazook
+griffinish
 gliff
 glueing
 guaque
