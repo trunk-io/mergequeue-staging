@@ -1104,7 +1104,6 @@ ganglial
 gybed
 gangliasthenia
 gangliate
-gangliectomy
 ganglier
 gleemen
 gangliglions
@@ -3836,6 +3835,7 @@ ghuz
 gi
 gyal
 gane
+gangliectomy
 gavialoid
 giambeux
 giant
