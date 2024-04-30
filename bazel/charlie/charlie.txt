@@ -3315,7 +3315,6 @@ capsicum
 capsicums
 capsid
 capsidae
-capsidal
 capsids
 capsizable
 capsizal
@@ -15311,6 +15310,7 @@ claith
 claithes
 clayton
 claytonia
+capsidal
 claiver
 clayware
 claywares
