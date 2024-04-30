@@ -5315,6 +5315,7 @@ affectibility
 affectible
 affecting
 affectingly
+antigen
 affection
 affectional
 affectionally
@@ -15363,7 +15364,6 @@ antifungin
 araliad
 antigambling
 antiganting
-antigen
 antigene
 alloquialism
 adminiculum
