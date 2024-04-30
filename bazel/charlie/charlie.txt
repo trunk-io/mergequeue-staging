@@ -4061,6 +4061,7 @@ cardiosphygmogram
 cardiosphygmograph
 cardiotherapy
 cataloger
+cytoid
 cardiotherapies
 cardiotonic
 cardiotoxic
@@ -10627,7 +10628,6 @@ chilver
 chimachima
 chimaera
 chimaeras
-cytoid
 chimaerid
 chimaeroid
 chimaeroidei

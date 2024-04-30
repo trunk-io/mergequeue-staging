@@ -1942,7 +1942,6 @@ boubou
 banderol
 banderole
 banderoled
-banderoling
 banderols
 banders
 bandersnatch
@@ -10856,6 +10855,7 @@ behowled
 blinder
 blindest
 blindfast
+banderoling
 babby
 blindfishes
 bine
