@@ -4497,7 +4497,6 @@ dossel
 demibrassart
 demibrigade
 demibrute
-demicadence
 demicannon
 demicanon
 demicanton
@@ -5306,6 +5305,7 @@ dentelliere
 dentello
 dentelure
 denter
+demicadence
 dentes
 dentex
 denty
