@@ -3562,6 +3562,7 @@ embossing
 embossman
 embossment
 embossments
+entrada
 embost
 enterozoa
 exembryonate
@@ -11217,7 +11218,6 @@ eusteles
 eustyle
 eustomatous
 eusuchian
-entrada
 eutaenia
 eutannin
 eutaxy
