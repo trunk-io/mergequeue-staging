@@ -10482,7 +10482,6 @@ ethnographical
 ethnographically
 ethnohistory
 ethnohistoric
-ethnohistorical
 ethnohistorically
 expropriatory
 entwisted
@@ -12187,6 +12186,7 @@ excruciatingly
 excruciatingness
 excruciator
 excubant
+ethnohistorical
 excubitoria
 enteroscope
 excubitorium
