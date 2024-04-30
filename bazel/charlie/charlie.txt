@@ -7209,7 +7209,6 @@ centrolecithal
 centrolepidaceae
 centrolepidaceous
 centrolinead
-centromere
 centromeric
 centronote
 centronucleus
@@ -11072,6 +11071,7 @@ chitinous
 chitins
 chitlin
 chitling
+centromere
 chitlings
 cowpath
 chitlins
