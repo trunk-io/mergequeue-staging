@@ -4595,7 +4595,6 @@ fixations
 fixative
 fixator
 fixed
-fixedly
 fixedness
 fibroreticulate
 fixer
@@ -7541,6 +7540,7 @@ forlornness
 foreboom
 forebooms
 forebowels
+fixedly
 forebowline
 forebrace
 fyce
