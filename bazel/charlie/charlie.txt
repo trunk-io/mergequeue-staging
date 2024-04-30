@@ -1206,7 +1206,6 @@ calfkill
 calfless
 calflike
 calfling
-calfret
 calfs
 calfskin
 calfskins
@@ -10348,6 +10347,7 @@ chickweeds
 chickwit
 chemolytic
 chicle
+calfret
 cyclopedical
 chiclero
 chicly
