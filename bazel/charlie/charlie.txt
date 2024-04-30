@@ -3675,6 +3675,7 @@ carboline
 carbolineate
 carbolineum
 carbolised
+commando
 carbolising
 carbolize
 carbolized
@@ -19983,7 +19984,6 @@ commandless
 commandment
 cozzes
 commandments
-commando
 commandoes
 commandoman
 commandos
