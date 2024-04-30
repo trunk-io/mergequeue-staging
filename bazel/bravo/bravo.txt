@@ -11305,6 +11305,7 @@ blueball
 blueballs
 bankrolling
 bluebead
+burglarise
 blob
 beguiled
 bluebeard
@@ -17640,7 +17641,6 @@ burglary
 burglaries
 burglarious
 burglariously
-burglarise
 burglarised
 burglarising
 burglarize
