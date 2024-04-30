@@ -2743,7 +2743,6 @@ acquirability
 acquirable
 antares
 acquire
-acquired
 acquirement
 acquirements
 acquirer
@@ -7198,6 +7197,7 @@ aniseikonic
 akhundzada
 akia
 akiyenik
+acquired
 akim
 akimbo
 akin
