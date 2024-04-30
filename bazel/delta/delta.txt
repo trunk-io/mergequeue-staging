@@ -17108,7 +17108,6 @@ driftless
 driftlet
 driftman
 driftpin
-driftpins
 drifts
 diffeomorphism
 dietted
@@ -17376,6 +17375,7 @@ dropping
 droppingly
 drops
 decarboxylase
+driftpins
 downcomer
 dutiable
 decentred
