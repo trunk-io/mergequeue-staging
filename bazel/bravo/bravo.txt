@@ -3014,7 +3014,6 @@ barretter
 barrettes
 barry
 barricade
-barricader
 barricades
 barricadoed
 barricadoes
@@ -6029,6 +6028,7 @@ bemire
 bemired
 budgero
 bemirement
+barricader
 butyraceous
 bemires
 bemiring
