@@ -1118,7 +1118,6 @@ farrow
 farrowing
 farrows
 farruca
-farsakh
 farsalah
 farse
 farseeing
@@ -7926,6 +7925,7 @@ forereaching
 foreread
 forereading
 forerecited
+farsakh
 forereckon
 forerehearsed
 forerequest
