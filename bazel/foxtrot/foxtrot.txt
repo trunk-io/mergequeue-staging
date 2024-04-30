@@ -244,7 +244,6 @@ faddists
 faddle
 fade
 fadeaways
-faded
 fadedness
 fadednyess
 faden
@@ -5186,6 +5185,7 @@ fireproof
 flavins
 fidfad
 flavius
+faded
 flavo
 flavone
 flavonoid

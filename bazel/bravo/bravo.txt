@@ -11677,7 +11677,6 @@ bobbling
 bobcat
 bibber
 bobcats
-bobcoat
 bobeche
 bobeches
 bobet
@@ -15062,6 +15061,7 @@ brewer
 brewery
 breweries
 bunglesome
+bobcoat
 brewhouse
 brewhouses
 benedictionale
