@@ -2429,6 +2429,7 @@ electrohorticulture
 electroimpulse
 electroindustrial
 electroing
+entireness
 electroionic
 electroirrigation
 eposes
@@ -6813,7 +6814,6 @@ emblazes
 entyloma
 entire
 entirely
-entireness
 entires
 enstate
 entirety
