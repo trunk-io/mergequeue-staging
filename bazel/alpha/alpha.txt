@@ -5205,7 +5205,6 @@ aesthetics
 apostate
 aesthiology
 aestii
-aestival
 aestivate
 aestivated
 aestivates
@@ -24350,6 +24349,7 @@ autoput
 autor
 autoradiograph
 autoradiography
+aestival
 autorail
 autoreduction
 autoreflection
