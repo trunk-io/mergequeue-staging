@@ -2615,7 +2615,6 @@ barges
 boehmite
 bargestone
 brevets
-bargh
 bargham
 barghest
 brachydomal
@@ -13337,6 +13336,7 @@ batteled
 bulletproofs
 bothrenchyma
 bothria
+bargh
 bagel
 bothridia
 bemartyr
