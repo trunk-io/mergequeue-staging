@@ -5918,7 +5918,6 @@ enhedge
 enhelm
 enhemospore
 effectuation
-enherit
 enzymotic
 erinaceus
 enheritance
@@ -8617,6 +8616,7 @@ embranglement
 equidistant
 equidistantial
 equidistantly
+enherit
 equidistribution
 equidivision
 elaenia
