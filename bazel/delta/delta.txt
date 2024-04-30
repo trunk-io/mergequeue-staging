@@ -1812,7 +1812,6 @@ debye
 debyes
 debile
 debilissima
-debilitate
 disliker
 debilitated
 debilitates
@@ -15741,6 +15740,7 @@ dormantly
 discomfortableness
 dormer
 dormered
+debilitate
 dormers
 dormette
 dormeuse
