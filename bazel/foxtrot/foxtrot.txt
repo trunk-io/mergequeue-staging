@@ -1321,7 +1321,6 @@ fatal
 fatale
 fatales
 flambeing
-feebling
 felonous
 factorist
 flotsen
@@ -9012,6 +9011,7 @@ fountainlet
 fibrinogenic
 factorial
 fountainlike
+feebling
 fermentitious
 freedstool
 filicite
