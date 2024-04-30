@@ -8690,7 +8690,6 @@ gangion
 gage
 greenlander
 gramaryes
-greenlandite
 glissandi
 greenleaf
 greenleek
@@ -10165,6 +10164,7 @@ grammatolatry
 geosid
 guido
 giardiasis
+greenlandite
 griselda
 gighe
 glooms
