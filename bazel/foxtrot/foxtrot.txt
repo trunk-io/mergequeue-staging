@@ -7599,6 +7599,7 @@ forecovert
 fuzzier
 foreday
 foredays
+formulaic
 fivefoldness
 fleabiting
 foredated
@@ -8541,7 +8542,6 @@ formula
 featness
 formulable
 formulae
-formulaic
 funeral
 formulaically
 formulary
