@@ -4474,6 +4474,7 @@ adstipulator
 adstrict
 adstringe
 adsum
+anomouran
 adterminal
 adtevac
 aduana
@@ -13856,7 +13857,6 @@ authoress
 anomoeanism
 anomoeomery
 anomophyllous
-anomouran
 anomphalous
 anomura
 amphimacer
