@@ -1028,7 +1028,6 @@ fellow
 farine
 farinha
 flancards
-finalists
 farinometer
 farinose
 farinosel
@@ -1298,6 +1297,7 @@ foreswore
 fastiia
 fasting
 fastingly
+finalists
 fastings
 foretellableness
 fastish
