@@ -6155,6 +6155,7 @@ aggressiveness
 aggressivity
 aggressor
 aggressors
+attacking
 aggry
 aggrievance
 aggrieve
@@ -22948,7 +22949,6 @@ attackable
 attacked
 attacker
 attackers
-attacking
 attackman
 attacolite
 attacus
