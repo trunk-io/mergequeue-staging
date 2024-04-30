@@ -7181,7 +7181,6 @@ detections
 depleteable
 dualities
 detective
-detectives
 detectivism
 detector
 detectors
@@ -12398,6 +12397,7 @@ disyllabism
 disyllabize
 disyllabized
 decarch
+detectives
 dienes
 divorced
 disillude
