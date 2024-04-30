@@ -1226,7 +1226,6 @@ calibrating
 calibration
 calibrations
 calibrators
-calibre
 causes
 calibred
 calibres
@@ -22523,6 +22522,7 @@ conjunctiva
 cinnamyls
 conjunctivae
 conjunctival
+calibre
 conjunctivas
 conjunctive
 conjunctively
