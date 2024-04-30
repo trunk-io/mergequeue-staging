@@ -415,7 +415,6 @@ genesiurgic
 galbraithian
 gamy
 galbulae
-galbulidae
 galbulinae
 gossep
 galcha
@@ -8744,6 +8743,7 @@ greeter
 groff
 gneissic
 greetingly
+galbulidae
 greets
 greeve
 greffe
