@@ -8701,7 +8701,6 @@ anticous
 adelphi
 agamobia
 allelism
-allelisms
 allelocatalytic
 allelomorphism
 allelopathy
@@ -9005,6 +9004,7 @@ alloquial
 antihierarchist
 aphidozer
 allorrhythmic
+allelisms
 allosaurus
 allose
 allosematic
