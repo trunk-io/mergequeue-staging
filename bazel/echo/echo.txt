@@ -317,7 +317,6 @@ espousers
 eaters
 eath
 eathly
-epibasal
 eating
 eatings
 el
@@ -4011,6 +4010,7 @@ everbloomer
 emoter
 emoters
 emotes
+epibasal
 emoting
 emotiometabolic
 emotiomotor
