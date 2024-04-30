@@ -3493,7 +3493,6 @@ deforms
 deforse
 defortify
 diplomatic
-defoul
 defray
 deficiently
 defrayable
@@ -8287,6 +8286,7 @@ dialectological
 dialectologically
 dialectologies
 dialectologist
+defoul
 dialects
 dialed
 dialycarpous
