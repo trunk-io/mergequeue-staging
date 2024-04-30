@@ -1711,7 +1711,6 @@ fearlessness
 fearnought
 fears
 frisket
-fearsome
 fearsomely
 fortuity
 fearsomeness
@@ -10015,6 +10014,7 @@ fleshhook
 frilled
 fromenty
 friezes
+fearsome
 farcical
 frig
 frigage
