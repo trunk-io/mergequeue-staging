@@ -6613,6 +6613,7 @@ festerment
 fluvial
 fluviatic
 fluviatile
+forgrow
 fluviation
 fluvicoline
 fluvioglacial
@@ -8320,7 +8321,6 @@ frill
 forgotten
 forgottenness
 foussa
-forgrow
 forgrown
 forhaile
 fevercup
