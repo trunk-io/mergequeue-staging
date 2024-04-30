@@ -5221,6 +5221,7 @@ athrob
 aesture
 aestus
 aet
+artillery
 aethalia
 aethalioid
 abstriction
@@ -20754,7 +20755,6 @@ artificious
 artily
 artilize
 artiller
-artillery
 artilleries
 artilleryman
 artillerymen
