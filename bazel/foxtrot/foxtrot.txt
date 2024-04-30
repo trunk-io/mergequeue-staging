@@ -4206,7 +4206,6 @@ firesideship
 firespout
 firestone
 firestop
-firestopping
 firestorm
 firethorn
 firetop
@@ -11592,6 +11591,7 @@ fusillading
 frim
 fusilly
 fusing
+firestopping
 forestry
 forcipes
 fusinist
