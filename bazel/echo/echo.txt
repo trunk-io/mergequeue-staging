@@ -587,7 +587,6 @@ echinorhynchus
 echinorhinidae
 echinospermum
 echinosphaeritidae
-echinostoma
 eluviated
 echinostomatidae
 echinostome
@@ -7859,6 +7858,7 @@ elenchically
 epigrammatically
 endexine
 encourager
+echinostoma
 epigrammatism
 epigrammatize
 epigrammatizer
