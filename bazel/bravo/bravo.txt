@@ -713,7 +713,6 @@ botany
 bacteriophagia
 bacteriophagic
 broomstaff
-bacterioprecipitin
 bacteriopsonic
 bacteriopsonin
 bacteriopurpurin
@@ -16635,6 +16634,7 @@ bucktails
 buckteeth
 buckthorn
 bucktooth
+bacterioprecipitin
 bucktoothed
 bucku
 ballooning
