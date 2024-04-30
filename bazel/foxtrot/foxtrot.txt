@@ -6854,6 +6854,7 @@ felting
 fluke
 farmings
 foldboating
+frampler
 foldboats
 foldcourse
 familic
@@ -9359,7 +9360,6 @@ frameshift
 forebodes
 fetiales
 frammit
-frampler
 federations
 flexuous
 flounders
