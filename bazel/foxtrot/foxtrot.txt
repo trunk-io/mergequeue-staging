@@ -749,7 +749,6 @@ fanciness
 foci
 fancysick
 fancywork
-fand
 fandango
 follicule
 forkbeard
@@ -4933,6 +4932,7 @@ flanking
 flankwise
 flannelboard
 flannelbush
+fand
 flanneled
 flannelet
 flannelette

@@ -13541,7 +13541,6 @@ anlaut
 anlaute
 anlet
 anlia
-anmia
 ann
 anna
 anacardium
@@ -15549,6 +15548,7 @@ atropinize
 antilogies
 antilogism
 antilogistic
+anmia
 antilogistically
 antilogous
 antilogs
