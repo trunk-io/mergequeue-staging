@@ -3952,7 +3952,6 @@ cardiectomize
 cardielcosis
 cardiemphraxia
 cardiform
-cardigan
 cardigans
 cardiidae
 cameoing
@@ -18078,6 +18077,7 @@ coenocyte
 coenocytic
 coenodioecism
 cotehardie
+cardigan
 coenoecic
 coenoecium
 coenogamete
