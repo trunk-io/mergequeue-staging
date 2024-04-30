@@ -1988,6 +1988,7 @@ gauged
 gauges
 gaul
 gaupus
+getters
 gainless
 gaulding
 gaulic
@@ -4315,7 +4316,6 @@ gymnotoka
 gymnotokous
 grotesquery
 gnetales
-getters
 gymnure
 gymnurine
 gimped
