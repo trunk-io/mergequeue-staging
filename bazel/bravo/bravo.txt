@@ -11888,7 +11888,6 @@ bogfern
 boggard
 boggart
 bogged
-boggy
 boggier
 bogginess
 bogging
@@ -14452,6 +14451,7 @@ branching
 besort
 branchings
 branchiobdella
+boggy
 blackcurrant
 branchiogenous
 branchiomere
