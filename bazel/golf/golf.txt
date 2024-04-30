@@ -1886,7 +1886,6 @@ gastrotheca
 gastrotympanites
 gastrotome
 gastrotomy
-gastrotomic
 gastrotomies
 gastrotrich
 gastrovascular
@@ -4802,6 +4801,7 @@ girondism
 gentrice
 gironny
 girons
+gastrotomic
 gyrophora
 groin
 gyrophoraceae
