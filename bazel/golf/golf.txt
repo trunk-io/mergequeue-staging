@@ -4003,7 +4003,6 @@ giftwrap
 giftwrapping
 gig
 giga
-gigabit
 gigabyte
 gigabytes
 glacon
@@ -4452,6 +4451,7 @@ gingersnaps
 gingerspice
 gingham
 ginghams
+gigabit
 gingili
 gingilis
 gingivae
