@@ -9309,7 +9309,6 @@ cerned
 chatterbag
 chatterbox
 chatterer
-chatterers
 chattererz
 chattery
 chattering
@@ -25791,6 +25790,7 @@ capacitively
 corrugating
 corrugation
 corrugator
+chatterers
 corrugent
 corrump
 corrumpable
