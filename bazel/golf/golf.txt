@@ -6356,6 +6356,7 @@ gnu
 gnus
 goa
 gryllidae
+galenite
 goad
 gosther
 goaded
@@ -8405,7 +8406,6 @@ gravat
 grave
 graveclod
 grattoirs
-galenite
 gravecloth
 graveclothes
 gravedigger

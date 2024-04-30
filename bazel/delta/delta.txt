@@ -2660,7 +2660,6 @@ decompositional
 doodskop
 decompositions
 decomposure
-decompound
 decompoundable
 diaclase
 dodecadrachm
@@ -14733,6 +14732,7 @@ disthrall
 dermatoptic
 docquet
 docs
+decompound
 discant
 doctor
 doctoral
