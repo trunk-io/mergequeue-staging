@@ -8701,6 +8701,7 @@ forthgo
 forthgoing
 follies
 filate
+filter
 forthy
 forthink
 formicarium
@@ -9999,7 +10000,6 @@ friending
 friendless
 friendlessness
 friendly
-filter
 friendliest
 friendlike
 friendliness
