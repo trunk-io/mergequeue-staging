@@ -2258,6 +2258,7 @@ cancelation
 canceled
 canceleer
 canceler
+copperization
 cancelers
 cancelier
 canceling
@@ -24655,7 +24656,6 @@ coppering
 copperish
 copperytailed
 christie
-copperization
 copperize
 chickaree
 copperleaf
