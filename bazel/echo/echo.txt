@@ -8750,7 +8750,6 @@ exceeder
 equisonance
 equisonant
 equispaced
-equispatial
 equisufficiency
 extradicting
 equitable
@@ -9251,6 +9250,7 @@ erogenous
 exempla
 eromania
 eros
+equispatial
 erose
 erosible
 evillest

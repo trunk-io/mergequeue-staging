@@ -2487,7 +2487,6 @@ fernseed
 faucalize
 forlorner
 fernsick
-ferntickled
 fernticle
 ferocactus
 feroce
@@ -3891,6 +3890,7 @@ findings
 findjan
 findon
 finds
+ferntickled
 font
 fine
 fineable
