@@ -805,7 +805,6 @@ fanioned
 fack
 fraternate
 fanions
-firebolt
 fanit
 fanjet
 fanjets
@@ -3368,6 +3367,7 @@ fiendism
 fiendlier
 fiendliest
 fiendlike
+firebolt
 fip
 fiends
 fykes
