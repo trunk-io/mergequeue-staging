@@ -3243,7 +3243,6 @@ geiger
 georgians
 georgic
 gangetic
-glutaeous
 georgics
 georgium
 geoscience
@@ -7676,6 +7675,7 @@ graduses
 gobblers
 graeae
 gastroenteroptosis
+glutaeous
 graecian
 graecize
 graecizes
