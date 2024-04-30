@@ -10017,7 +10017,6 @@ cherimoyer
 cherimolla
 cherish
 cherishable
-cherished
 cherisher
 cherishes
 cherishing
@@ -21409,6 +21408,7 @@ conciliable
 conciliabule
 centremost
 conciliar
+cherished
 conciliarism
 conciliarly
 conciliate

@@ -803,6 +803,7 @@ flauntier
 footlike
 fanioned
 fack
+foll
 fraternate
 fanions
 firebolt
@@ -6978,7 +6979,6 @@ folktale
 folktales
 folkvang
 folkvangr
-foll
 foller
 folles
 folletti
