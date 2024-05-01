@@ -12444,7 +12444,6 @@ disincrease
 disincrust
 disincrustion
 disinfect
-disinfectant
 disinfectants
 disinfected
 disinfecter
@@ -17369,6 +17368,7 @@ dropman
 dropmeal
 duotones
 dropout
+disinfectant
 droppage
 dropped
 dropper
