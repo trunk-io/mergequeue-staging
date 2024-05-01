@@ -15173,7 +15173,6 @@ cixiid
 cixiidae
 cixo
 cizar
-cize
 ck
 ckw
 cl
@@ -19143,6 +19142,7 @@ collinear
 collinearity
 collinearly
 collineate
+cize
 caecias
 collingly
 cocainise
