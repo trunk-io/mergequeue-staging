@@ -2150,7 +2150,6 @@ antiextreme
 acetone
 acetonemia
 acetones
-acetonic
 acetonyl
 acetonitrile
 acetonization
@@ -12459,6 +12458,7 @@ anticommutative
 androecial
 androecium
 after
+acetonic
 algometry
 androgametophore
 androgamone
