@@ -397,7 +397,6 @@ backfriend
 backfurrow
 backgammon
 backgeared
-background
 backgrounds
 backhand
 backhanded
@@ -633,6 +632,7 @@ bromcresol
 backwoodser
 backwoodsiness
 bequirtle
+background
 backwoodsmen
 backword
 backworm

@@ -4702,6 +4702,7 @@ girellidae
 gyrencephala
 gyrencephalic
 greatheart
+grouplet
 gyrencephalous
 gallivat
 gyrene
@@ -9469,7 +9470,6 @@ grouper
 girderless
 groupies
 grouping
-grouplet
 gomarist
 groupment
 groupoid
