@@ -10074,6 +10074,7 @@ estrada
 estradas
 estrade
 estradiol
+expositions
 enthrones
 externation
 estrado
@@ -13297,7 +13298,6 @@ exposit
 exposited
 expositing
 expositional
-expositions
 expositive
 expositively
 expositor
