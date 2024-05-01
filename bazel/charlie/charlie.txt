@@ -1631,7 +1631,6 @@ canichana
 caltha
 calthrop
 calthrops
-caltrap
 caltraps
 caltrop
 cineradiography
@@ -27351,6 +27350,7 @@ coursings
 court
 courtage
 courtal
+caltrap
 courtby
 courtbred
 courtcraft
