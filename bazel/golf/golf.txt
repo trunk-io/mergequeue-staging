@@ -2921,7 +2921,6 @@ gentle
 gentlefolk
 gentlefolks
 gentleheartedly
-gradated
 gentleheartedness
 gaetulan
 gentleman
@@ -5278,6 +5277,7 @@ glaumrie
 glaur
 glaury
 glaux
+gradated
 glave
 greening
 glavered
