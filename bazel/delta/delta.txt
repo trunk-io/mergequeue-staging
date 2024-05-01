@@ -5768,7 +5768,6 @@ deportation
 deporte
 deported
 deportee
-decriminalized
 deporting
 deportment
 deports
@@ -13890,6 +13889,7 @@ distintion
 distitle
 distn
 dystocia
+decriminalized
 dystocial
 distinctness
 dystocias
