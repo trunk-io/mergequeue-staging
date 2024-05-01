@@ -16038,6 +16038,7 @@ clerkliness
 clerks
 clerkship
 clerkships
+cosets
 clernly
 clerodendron
 cleromancy
@@ -25998,7 +25999,6 @@ cosentient
 coses
 cosession
 coset
-cosets
 cosettler
 cosh
 cosharer

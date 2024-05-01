@@ -2559,7 +2559,6 @@ ackee
 ackees
 ackey
 ackeys
-acker
 ackman
 ackmen
 argentojarosite
@@ -13678,6 +13677,7 @@ annotate
 annotated
 annotater
 annotates
+acker
 annotating
 annotation
 annotations
