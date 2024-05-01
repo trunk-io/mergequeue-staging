@@ -8237,7 +8237,6 @@ epistilbite
 epistyle
 epistyles
 epistylis
-electrostrictive
 exulcerate
 epistle
 estoppal
@@ -10520,6 +10519,7 @@ etholide
 ebauchoir
 ethologic
 ethological
+electrostrictive
 ethologically
 ethologies
 ethologist
