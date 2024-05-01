@@ -8933,6 +8933,7 @@ alloiometric
 alloys
 amins
 alloisomer
+areometry
 alloisomeric
 alloisomerism
 allokinetic
@@ -19427,7 +19428,6 @@ areological
 areologically
 areologies
 areologist
-areometry
 areometric
 areometrical
 areopagist
