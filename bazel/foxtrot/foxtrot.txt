@@ -310,7 +310,6 @@ failsafe
 failsoft
 fiador
 failure
-failures
 fain
 fainaigue
 fishmen
@@ -6249,6 +6248,7 @@ fellowed
 flueman
 fluemen
 fluence
+failures
 fluency
 fluencies
 fluently

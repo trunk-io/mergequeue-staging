@@ -3723,7 +3723,6 @@ adenocystomatous
 adenodermia
 adenodiastasis
 adenofibroma
-adenofibrosis
 adenogenesis
 adenogenous
 adenographer
@@ -4689,6 +4688,7 @@ advertisements
 advertiser
 advertisers
 advertises
+adenofibrosis
 advertizable
 advertized
 advertizement
