@@ -4630,6 +4630,7 @@ adventures
 adventureship
 adventuresome
 adventuresomeness
+averrer
 antimorality
 adventuresomes
 adventuress
@@ -24673,7 +24674,6 @@ avernal
 averrable
 averral
 averred
-averrer
 averrhoa
 averring
 averroism
