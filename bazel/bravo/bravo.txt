@@ -734,7 +734,6 @@ bacteriostat
 bacteriostatic
 bacteriostatically
 bacteriotherapeutic
-bacteriotherapy
 bacteriotoxin
 bacteriotropic
 blepharedema
@@ -13115,6 +13114,7 @@ besotter
 boroughlet
 boroughmaster
 boroughmongery
+bacteriotherapy
 boroughmongering
 boroughs
 boroughwide
