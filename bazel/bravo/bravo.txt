@@ -10644,6 +10644,7 @@ blechnoid
 blechnum
 bleck
 bled
+borderlands
 blee
 bleed
 bleeder
@@ -12984,7 +12985,6 @@ bordering
 borderings
 borderland
 borderlander
-borderlands
 borderless
 borderlight
 borderline
