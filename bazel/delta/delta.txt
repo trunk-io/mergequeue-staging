@@ -3398,7 +3398,6 @@ deflectionization
 deuterostomatous
 deflections
 deflective
-deflectometer
 deflector
 deflectors
 deflects
@@ -15134,6 +15133,7 @@ dolefully
 dolefulness
 dolefuls
 dinitrate
+deflectometer
 dolente
 dolentissimo
 dolently
