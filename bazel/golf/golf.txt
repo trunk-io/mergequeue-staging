@@ -2995,6 +2995,7 @@ geocerite
 geochemical
 geochemists
 geochrony
+gravies
 geochronologic
 geochronological
 geochronologically
@@ -4879,7 +4880,6 @@ gibsons
 gith
 genetor
 gitksan
-gravies
 grapewort
 geobotanical
 gigantical
