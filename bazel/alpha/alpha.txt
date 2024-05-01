@@ -6799,6 +6799,7 @@ aikido
 aikidos
 aikinite
 aikona
+appeased
 adinidan
 aikuchi
 ailantery
@@ -17674,7 +17675,6 @@ appeasable
 appeasableness
 appeasably
 appease
-appeased
 appeasement
 appeasements
 appeaser
