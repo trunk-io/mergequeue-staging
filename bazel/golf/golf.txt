@@ -4111,6 +4111,7 @@ gamene
 gabbroid
 gild
 grimacier
+grithbreach
 gildable
 gildedness
 gilden
@@ -9165,7 +9166,6 @@ gristmilling
 grists
 grit
 grith
-grithbreach
 griths
 gritless
 grits
