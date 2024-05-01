@@ -7454,7 +7454,6 @@ forclose
 forconceit
 forcut
 ford
-fordable
 fordableness
 fordays
 fordam
@@ -10478,6 +10477,7 @@ foozle
 frostbitten
 frostbound
 frosted
+fordable
 fadging
 frostier
 foamers
