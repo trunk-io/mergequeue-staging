@@ -3366,6 +3366,7 @@ definitor
 decretum
 dimissorial
 defis
+disentitle
 defix
 desalt
 deflagrable
@@ -12036,7 +12037,6 @@ disenthrone
 disenthroned
 disenthronement
 deled
-disentitle
 disentitlement
 disentitling
 disentomb
