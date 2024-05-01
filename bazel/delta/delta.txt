@@ -940,7 +940,6 @@ daps
 dapson
 dyvours
 dar
-darabukka
 darac
 darapti
 darat
@@ -6918,6 +6917,7 @@ despatched
 despoiled
 despoiler
 despoilers
+darabukka
 dangering
 dogfaces
 devorative
