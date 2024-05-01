@@ -8574,7 +8574,6 @@ equators
 equatorward
 equatorwards
 entreated
-equerry
 equerries
 equerryship
 eques
@@ -13180,6 +13179,7 @@ elocution
 explicably
 explicanda
 explicandum
+equerry
 evulse
 explicate
 explicated
