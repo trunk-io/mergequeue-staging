@@ -4354,7 +4354,6 @@ demandingly
 demandingness
 demands
 demanganization
-demanganize
 demantoid
 demarcate
 demarcates
@@ -16509,6 +16508,7 @@ drachmas
 diplomata
 drachms
 dracin
+demanganize
 deliber
 dasyprocta
 draco
