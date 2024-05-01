@@ -668,7 +668,6 @@ aftersound
 aboil
 aboiteau
 aboiteaus
-aboiteaux
 abolete
 abolish
 abolishable
@@ -3627,6 +3626,7 @@ adducent
 adducer
 adducers
 adduces
+aboiteaux
 adduct
 adducted
 adducting
