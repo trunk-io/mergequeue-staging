@@ -4594,7 +4594,6 @@ encephalopathia
 encephalopathic
 enmoss
 encephalopyosis
-encephalos
 endogenesis
 encephalosclerosis
 encephaloscope
@@ -4754,6 +4753,7 @@ extracathedral
 enclasped
 enclasping
 enclasps
+encephalos
 eidola
 enclave
 enclaved
