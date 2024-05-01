@@ -6487,6 +6487,7 @@ benzoquinoxaline
 bath
 benzosulfimide
 benzosulphimide
+blindstitch
 batta
 benzotetrazine
 benzotetrazole
@@ -10879,7 +10880,6 @@ boilery
 biddelian
 blindness
 burnooses
-blindstitch
 blindstorey
 blindstory
 bobotie
