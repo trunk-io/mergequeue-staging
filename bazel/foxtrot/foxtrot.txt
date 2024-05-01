@@ -4348,7 +4348,6 @@ fishgig
 fishgrass
 fishhood
 fishhook
-fishhooks
 frolicful
 fingerflower
 fishyard
@@ -8306,6 +8305,7 @@ forgo
 forgoer
 forgoers
 forgoes
+fishhooks
 forgoing
 forgone
 fishergirl
