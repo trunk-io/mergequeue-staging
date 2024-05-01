@@ -8037,7 +8037,6 @@ chacoli
 chacona
 chaconne
 chaconnes
-chacra
 chacte
 carousers
 chacun
@@ -15586,6 +15585,7 @@ classable
 classbook
 classed
 classer
+chacra
 classfellow
 classy
 classic
