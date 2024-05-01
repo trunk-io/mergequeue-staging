@@ -4434,6 +4434,7 @@ enantiotropy
 enantiotropic
 enapt
 enarbor
+excrescence
 engraving
 enarbour
 enarched
@@ -12153,7 +12154,6 @@ esogastritis
 excrementize
 excrementous
 excresce
-excrescence
 excrescences
 excrescencies
 excrescent
