@@ -2268,6 +2268,7 @@ achievable
 achieve
 achieved
 achievement
+avert
 antecedents
 ardor
 achiever
@@ -24693,7 +24694,6 @@ aversion
 aversions
 agitates
 attar
-avert
 adults
 avertable
 averted
