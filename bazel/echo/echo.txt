@@ -6400,6 +6400,7 @@ ensile
 ensiled
 ensiles
 ensiling
+epilogize
 ensilist
 ensilver
 ensindon
@@ -11427,7 +11428,6 @@ evelong
 expulsionist
 even
 evenblush
-epilogize
 evendown
 evene
 evener
