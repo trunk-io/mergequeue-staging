@@ -7762,6 +7762,7 @@ devotedness
 devotee
 devoteeism
 devotees
+diplomats
 devotement
 devoter
 devotes
@@ -10626,7 +10627,6 @@ disenable
 diplomatism
 diplomatist
 diplomatists
-diplomats
 diplomyelia
 diplonema
 divaricator
