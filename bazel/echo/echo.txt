@@ -267,6 +267,7 @@ easter
 eastering
 easterly
 exospores
+ectodermic
 easterliness
 easterling
 eastwards
@@ -8214,7 +8215,6 @@ epispermic
 endoesophagitis
 epispinal
 epispore
-ectodermic
 episporium
 epist
 epistapedial
