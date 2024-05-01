@@ -1348,6 +1348,7 @@ fatefulness
 fatelike
 fath
 fatheaded
+featish
 fatheadedly
 flag
 fatheadedness
@@ -8826,7 +8827,6 @@ foss
 flapdragon
 fossa
 flunks
-featish
 fossae
 fossage
 fevery
