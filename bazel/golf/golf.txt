@@ -2301,6 +2301,7 @@ guzzledom
 geyerite
 gelatinify
 geikielite
+gobble
 glunched
 gein
 geira
@@ -6435,7 +6436,6 @@ gobber
 gobbet
 guijo
 gobbing
-gobble
 gobbled
 gobbledegook
 gobbledygook
