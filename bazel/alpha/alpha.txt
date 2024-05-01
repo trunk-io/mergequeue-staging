@@ -7675,7 +7675,6 @@ alcazar
 alcazars
 alcazava
 alce
-alcedines
 alcedinidae
 alcedininae
 alcedo
@@ -23525,6 +23524,7 @@ aureole
 aureoled
 aureoles
 acylate
+alcedines
 aureolin
 aureoline
 aureoling
