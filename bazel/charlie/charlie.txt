@@ -2840,7 +2840,6 @@ cantina
 coeligenous
 cantinas
 canting
-cantingness
 clairschach
 cantinier
 cantino
@@ -5985,6 +5984,7 @@ catnapers
 catnapper
 countrified
 catnapping
+cantingness
 centraler
 catnaps
 catnep
