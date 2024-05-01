@@ -1641,7 +1641,6 @@ fawnery
 ferricyanogen
 forthrights
 fritz
-fawners
 fawny
 famished
 flameflower
@@ -7503,6 +7502,7 @@ forebay
 forebays
 forebar
 forebears
+fawners
 firefighters
 falconine
 fillagree
