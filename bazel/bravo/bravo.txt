@@ -10734,7 +10734,6 @@ blennorrheal
 blennorrhinia
 blennorrhoea
 blennosis
-blennostatic
 blennothorax
 blennotorrhea
 blens
@@ -13072,6 +13071,7 @@ borneols
 bornyl
 bawrel
 borning
+blennostatic
 bornite
 bornites
 bornitic
