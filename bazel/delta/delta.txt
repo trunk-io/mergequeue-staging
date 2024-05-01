@@ -5571,7 +5571,6 @@ depectible
 depeculate
 depel
 depend
-dependability
 dependabilities
 dependableness
 dependably
@@ -6270,6 +6269,7 @@ dermatozoon
 dermatozoonosis
 dermatozzoa
 dermatrophy
+dependability
 dermatrophia
 dermenchysis
 dermestes
