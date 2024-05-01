@@ -3339,7 +3339,6 @@ ebionize
 embanks
 embannered
 embaphium
-embar
 embarcadero
 embarcation
 efformation
@@ -11188,6 +11187,7 @@ euroaquilo
 eurobin
 eurocentric
 euroclydon
+embar
 engorgement
 embark
 europa
