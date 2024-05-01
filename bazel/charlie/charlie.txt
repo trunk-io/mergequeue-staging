@@ -16805,7 +16805,6 @@ connoisseurship
 clouts
 clove
 cytological
-cloven
 clovene
 clover
 clovered
@@ -22931,6 +22930,7 @@ consignify
 consignificant
 cirrosely
 consignificate
+cloven
 consignification
 consignificative
 consignificator
