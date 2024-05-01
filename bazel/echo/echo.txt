@@ -6287,6 +6287,7 @@ enrobes
 enrobing
 enrol
 enroll
+equiparate
 errantness
 enrolle
 ergots
@@ -8692,7 +8693,6 @@ equip
 equipaga
 equipage
 equipages
-equiparate
 equipartile
 equipartisan
 equipartition
