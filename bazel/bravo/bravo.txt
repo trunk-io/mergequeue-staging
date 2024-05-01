@@ -5267,7 +5267,6 @@ beggable
 bromobenzene
 beggardom
 beggared
-beggarer
 bastarda
 beggarhood
 beggaring
@@ -7865,6 +7864,7 @@ bibb
 bibbery
 bibberies
 bountihead
+beggarer
 bandannaed
 bibby
 bibbing
