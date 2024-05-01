@@ -2592,7 +2592,6 @@ aclydes
 appall
 aglauros
 aclidian
-aclinic
 aclys
 aclu
 acmaea
@@ -11441,6 +11440,7 @@ ampullar
 ampullary
 anselmian
 ampullaria
+aclinic
 ampullariidae
 ampullate
 ampullated
