@@ -22816,6 +22816,7 @@ centimes
 consentable
 consentaneity
 consentaneous
+cryptoanalysis
 consentaneously
 consentaneousness
 cuvette
@@ -29236,7 +29237,6 @@ crypticness
 covings
 crypto
 cryptoagnostic
-cryptoanalysis
 cryptoanalyst
 cryptoanalytic
 cryptoanalytically

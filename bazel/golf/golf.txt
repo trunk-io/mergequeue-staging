@@ -5728,7 +5728,6 @@ globulins
 globulysis
 globulite
 glochchidia
-glochid
 glochidia
 gridlock
 gibblegabble
@@ -7042,6 +7041,7 @@ gooier
 gooiest
 greenflies
 gooky
+glochid
 gool
 goolah
 goolde
