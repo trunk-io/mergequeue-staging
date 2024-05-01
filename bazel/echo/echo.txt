@@ -3519,7 +3519,6 @@ embole
 electrorefine
 embolectomy
 embolectomies
-embolemia
 emboli
 emboly
 embolic
@@ -11030,6 +11029,7 @@ euphonizing
 enlarger
 exclamation
 euphonon
+embolemia
 euphonous
 experientialism
 euphorbiaceous
