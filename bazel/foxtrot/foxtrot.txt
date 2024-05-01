@@ -4720,7 +4720,6 @@ flagelliferous
 flagellula
 flagellulae
 fortressed
-flagellum
 flagellums
 flageolet
 fannings
@@ -11058,6 +11057,7 @@ fumigatorium
 fuminess
 figworm
 fuming
+flagellum
 fumingly
 frankhearted
 fumish
