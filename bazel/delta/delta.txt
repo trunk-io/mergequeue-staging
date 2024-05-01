@@ -5277,6 +5277,7 @@ diectasis
 dentaries
 deked
 dentate
+disposition
 dentated
 disfavoured
 dentately
@@ -13187,7 +13188,6 @@ disposers
 disposes
 disposing
 disposingly
-disposition
 dispositional
 dispositionally
 dispositioned

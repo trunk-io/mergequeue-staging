@@ -5572,7 +5572,6 @@ episcopy
 enfeebled
 enfeeblement
 enfeeblements
-enfeebler
 espiritual
 enfeebles
 enfeebling
@@ -8135,6 +8134,7 @@ episarkine
 episclera
 episcleral
 episcleritis
+enfeebler
 episcopacy
 episcopacies
 episcopal
