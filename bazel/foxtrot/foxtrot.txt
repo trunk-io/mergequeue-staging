@@ -1839,7 +1839,6 @@ fecks
 fidicinales
 flytier
 feckulence
-frayn
 feculence
 feculency
 fiscalize
@@ -5636,6 +5635,7 @@ flyoff
 flioma
 flip
 findable
+frayn
 flypaper
 ferns
 flypapers
