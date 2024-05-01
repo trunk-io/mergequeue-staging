@@ -2182,7 +2182,6 @@ bannerfish
 bannerless
 bannerlike
 bannerman
-berried
 bannerole
 bannerols
 bannet
@@ -18317,6 +18316,7 @@ buttonholder
 buttonhole
 buttonholed
 buttonholer
+berried
 buttonholes
 bathybic
 buttonholing
