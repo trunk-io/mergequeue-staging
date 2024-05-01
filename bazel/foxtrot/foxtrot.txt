@@ -3166,7 +3166,6 @@ fictioneer
 fustier
 fictioner
 forehent
-fictionisation
 fictionise
 fictionised
 fictionising
@@ -6491,6 +6490,7 @@ flurt
 flus
 flush
 flushable
+fictionisation
 flushboard
 freedstool
 flushed
