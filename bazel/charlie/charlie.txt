@@ -9557,7 +9557,6 @@ checkpointing
 coparallel
 checkpoints
 checkrack
-checkrail
 checkrein
 checkroll
 centgrave
@@ -10862,6 +10861,7 @@ chipmunks
 chipolata
 chippable
 chippage
+checkrail
 chipped
 chippendale
 chipper
