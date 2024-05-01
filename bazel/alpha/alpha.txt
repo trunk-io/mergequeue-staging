@@ -10805,7 +10805,6 @@ ammiral
 ammites
 ammo
 ammobium
-algates
 ammocete
 ammocetes
 ammochaeta
@@ -23960,6 +23959,7 @@ autocoids
 autocollimate
 autocollimation
 autocollimator
+algates
 allergenic
 abscess
 autocollimators
