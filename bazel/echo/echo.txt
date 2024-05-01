@@ -2317,7 +2317,6 @@ excurvature
 electrocapillary
 essency
 electrocapillarity
-electrocardiogram
 electrocardiograms
 electrocardiographically
 electrocardiographs
@@ -6806,6 +6805,7 @@ excellences
 enticeable
 enticed
 enticeful
+electrocardiogram
 enticement
 enticements
 enticer
