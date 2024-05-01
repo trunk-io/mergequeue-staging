@@ -11417,7 +11417,6 @@ bennis
 bluewing
 bluewood
 bluff
-bluffable
 brunette
 bluffed
 bluffer
@@ -13886,6 +13885,7 @@ boxhauled
 boxhauling
 boxhauls
 boxhead
+bluffable
 boxholder
 boxy
 boxiana
