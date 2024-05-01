@@ -8659,7 +8659,6 @@ gladiatorism
 greenheaded
 greenheart
 gladful
-gowned
 greenhide
 greenhood
 gestational
@@ -10337,6 +10336,7 @@ gulley
 gulleys
 guller
 gullery
+gowned
 gulleries
 gullet
 gladiatrix
