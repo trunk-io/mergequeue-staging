@@ -5023,7 +5023,6 @@ enderon
 enderonic
 enders
 enwrapt
-endevil
 endew
 endexines
 endgate
@@ -7392,6 +7391,7 @@ epauliere
 epaxial
 epaxially
 epedaphic
+endevil
 eyries
 epee
 excitomuscular
