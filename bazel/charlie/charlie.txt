@@ -5656,6 +5656,7 @@ catchalls
 catchcry
 colocates
 catched
+contentional
 catcher
 catchers
 catches
@@ -23443,7 +23444,6 @@ contentedly
 contentedness
 contenting
 contention
-contentional
 contentions
 ceration
 contentious
