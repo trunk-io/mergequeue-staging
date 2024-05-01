@@ -8600,7 +8600,6 @@ alkine
 alkynes
 alkitran
 alkool
-aucuba
 alkoran
 alkoxid
 alkoxide
@@ -22790,6 +22789,7 @@ alchymy
 applicator
 autodynes
 atoneable
+aucuba
 atoned
 atonements
 atoneness

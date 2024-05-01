@@ -1929,7 +1929,6 @@ banded
 bandel
 biogenase
 bandelet
-bavian
 bandelette
 bowlful
 bandeng
@@ -8894,6 +8893,7 @@ binomially
 binomials
 bunchbacked
 binominated
+bavian
 bulwark
 breviary
 binormal
