@@ -3553,7 +3553,6 @@ bannered
 batement
 bater
 bates
-batfish
 batfishes
 broader
 batfowl
@@ -15087,6 +15086,7 @@ bryan
 bryanism
 bryanite
 briar
+batfish
 briarberry
 briard
 briards
