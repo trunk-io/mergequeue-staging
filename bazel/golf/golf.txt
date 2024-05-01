@@ -5406,7 +5406,6 @@ glyceryls
 glycerin
 gamgee
 glycerinate
-glycerinated
 guarri
 glycerinating
 glycerination
@@ -8102,6 +8101,7 @@ granulosis
 geneticist
 granville
 granzita
+glycerinated
 guelph
 glandules
 graped
