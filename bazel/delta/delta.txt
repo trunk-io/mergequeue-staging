@@ -13561,7 +13561,6 @@ dolts
 disserving
 dissettle
 dissettlement
-dissever
 disseverance
 disseveration
 dissevered
@@ -15792,6 +15791,7 @@ dianoetic
 dorsalmost
 dorsals
 dorsalward
+dissever
 dorse
 dorsel
 dorser
