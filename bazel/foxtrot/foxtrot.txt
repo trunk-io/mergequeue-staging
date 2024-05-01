@@ -4333,7 +4333,6 @@ factionary
 fishes
 fishet
 fishfinger
-fishful
 fishgarth
 fishgig
 fishgrass
@@ -7334,6 +7333,7 @@ foraramina
 facilitator
 foothook
 forasmuch
+fishful
 forastero
 forbad
 fellaheen
