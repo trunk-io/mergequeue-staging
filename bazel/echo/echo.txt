@@ -7072,7 +7072,6 @@ entryways
 electrodeless
 entrochite
 entropy
-entropies
 entropion
 entropionize
 entrough
@@ -7463,6 +7462,7 @@ ephebi
 excelsitude
 elasticizer
 ephebic
+entropies
 epheboi
 ephebos
 ephebus
