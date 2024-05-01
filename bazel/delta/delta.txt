@@ -1721,6 +1721,7 @@ deathsman
 deathsmen
 deathtime
 deathtrap
+dorp
 deathtraps
 deathwards
 deathwatches
@@ -15773,7 +15774,6 @@ dorosternal
 dorothea
 decorement
 dorothy
-dorp
 dorper
 dorpers
 dorps
