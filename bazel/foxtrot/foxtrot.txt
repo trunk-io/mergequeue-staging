@@ -6990,7 +6990,6 @@ fomentations
 fomenter
 fomenters
 fomenting
-foments
 fomes
 fomites
 fon
@@ -10423,6 +10422,7 @@ fizzing
 frontlet
 frontoauricular
 frontoethmoid
+foments
 friar
 fatimid
 frontogenesis
