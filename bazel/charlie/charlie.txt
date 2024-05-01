@@ -9569,6 +9569,7 @@ castoridae
 checkrowing
 checks
 checkstrap
+cyrtosis
 checkstring
 checksum
 construct
@@ -14568,7 +14569,6 @@ cyrtometer
 comminated
 cyrtomium
 cyrtopia
-cyrtosis
 cyrtostyle
 ciruela
 cirurgian
