@@ -2478,6 +2478,7 @@ barcarole
 betatter
 barcaroles
 barcarolle
+belonged
 barcas
 biofog
 bosons
@@ -5907,7 +5908,6 @@ belomancy
 belone
 belonephobia
 belong
-belonged
 belonging
 belongings
 belongs
