@@ -1355,7 +1355,6 @@ bevel
 balaphon
 balarama
 balarao
-balas
 backstitching
 boatward
 balases
@@ -6917,6 +6916,7 @@ bescreening
 bescreens
 bescribble
 becrampon
+balas
 bescribbled
 bescribbling
 bescurvy
