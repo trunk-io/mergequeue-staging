@@ -140,7 +140,6 @@ earspool
 earstone
 eoan
 earstones
-eartab
 enabled
 eartag
 eartagged
@@ -9778,6 +9777,7 @@ espy
 earhead
 espial
 espials
+eartab
 espichellite
 espieglerie
 espiegleries
