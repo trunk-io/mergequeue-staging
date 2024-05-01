@@ -8122,7 +8122,6 @@ grapeline
 grapenuts
 grapery
 graperies
-grapes
 grapeskin
 grapestone
 grapevine
@@ -9528,6 +9527,7 @@ grovels
 glumosity
 grover
 grovers
+grapes
 grovet
 grovy
 grow
