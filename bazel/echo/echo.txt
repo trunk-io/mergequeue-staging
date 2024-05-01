@@ -2436,6 +2436,7 @@ electroindustrial
 electroing
 entireness
 electroionic
+equiped
 electroirrigation
 eposes
 electrokinematics
@@ -4386,7 +4387,6 @@ enameling
 enamelist
 enamellar
 eau
-equiped
 enamelled
 egocentristic
 enameller
