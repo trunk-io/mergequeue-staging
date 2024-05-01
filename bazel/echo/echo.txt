@@ -1729,7 +1729,6 @@ eyeball
 eyeballed
 eyeballing
 eyebalm
-eyebeam
 epimeron
 explains
 eyebeams
@@ -13834,6 +13833,7 @@ extraessential
 extrafascicular
 extrafine
 extrafloral
+eyebeam
 extrafocal
 extrafoliaceous
 extraforaneous
