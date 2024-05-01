@@ -1611,6 +1611,7 @@ dealings
 dealkylate
 dealkylation
 deallocate
+discontentments
 deallocated
 deallocates
 deallocating
@@ -11590,7 +11591,6 @@ discontentedly
 discontentedness
 discontentful
 discontenting
-discontentments
 discontiguity
 discontiguous
 dehydrated
