@@ -11304,6 +11304,7 @@ discerning
 discerningly
 discernment
 discerns
+dwarfer
 discerp
 discerped
 discerpible
@@ -18637,7 +18638,6 @@ decoded
 dwang
 dwarf
 dwarfed
-dwarfer
 dwarfest
 dwarfy
 dwarfing
