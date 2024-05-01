@@ -8812,7 +8812,6 @@ binder
 bindery
 binderies
 binders
-banjos
 buffalos
 bloodstone
 bindheimite
@@ -12373,6 +12372,7 @@ bendys
 bonally
 bonamano
 bonang
+banjos
 bodymaker
 bullshitted
 bonanzas
