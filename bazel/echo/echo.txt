@@ -541,7 +541,6 @@ echidna
 echidnae
 echidnas
 eggcrate
-echidnidae
 evocate
 echimys
 echinacea
@@ -10012,6 +10011,7 @@ eucharist
 estimableness
 estimably
 estimated
+echidnidae
 estimating
 estimation
 estimations
