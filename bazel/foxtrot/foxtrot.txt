@@ -680,7 +680,6 @@ familiars
 fausen
 families
 familyish
-familism
 familist
 familistere
 familistic
@@ -1196,6 +1195,7 @@ fascines
 fascintatingly
 flavorousness
 fasciodesis
+familism
 frenched
 fasciola
 fumaroid
