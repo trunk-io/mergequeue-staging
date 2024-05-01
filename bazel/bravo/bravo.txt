@@ -3416,6 +3416,7 @@ birlers
 basset
 basseting
 bassette
+begroans
 bassetted
 bassetting
 bassi
@@ -5365,7 +5366,6 @@ begrims
 begripe
 begroan
 begroaned
-begroans
 begrown
 begrudge
 boggishness
