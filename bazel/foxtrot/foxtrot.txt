@@ -3533,7 +3533,6 @@ filazer
 filbert
 filberts
 futurable
-fellowship
 filch
 filched
 fineries
@@ -6603,6 +6602,7 @@ fluxibility
 farmhouses
 fluxibleness
 financiery
+fellowship
 fluxile
 fluxility
 fiddlerfish
