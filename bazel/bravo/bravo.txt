@@ -1837,7 +1837,6 @@ blendor
 bambocciade
 bambochade
 bamboche
-bamboo
 bamboos
 bamboozle
 bungalows
@@ -15474,6 +15473,7 @@ brisement
 brises
 brisk
 brisked
+bamboo
 brisken
 briskened
 briskening

@@ -2989,6 +2989,7 @@ capeadores
 cunas
 caped
 capelan
+copperwing
 capelans
 capelet
 capelin
@@ -24678,7 +24679,6 @@ copperskin
 coppersmith
 coppersmithing
 copperware
-copperwing
 copperworks
 coppet
 coppy
