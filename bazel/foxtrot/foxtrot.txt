@@ -3273,6 +3273,7 @@ fleshing
 fidelis
 fidelity
 fidelities
+flyable
 fullmouthedly
 fideos
 fidepromission
@@ -5500,7 +5501,6 @@ falsie
 flingy
 flexures
 fly
-flyable
 flyaway
 feelers
 flyback
