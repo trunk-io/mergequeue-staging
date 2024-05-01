@@ -253,7 +253,6 @@ fowlerite
 fadges
 fadingly
 fadings
-fogbows
 fadmonger
 fadmongery
 frogstool
@@ -8428,6 +8427,7 @@ formativeness
 fulfills
 flingdust
 formats
+fogbows
 formatter
 formatters
 frigorifico
