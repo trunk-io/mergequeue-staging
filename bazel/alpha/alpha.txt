@@ -6007,6 +6007,7 @@ agene
 agenes
 ageneses
 agenesia
+amyloid
 agenesias
 agenesic
 agenesis
@@ -10610,7 +10611,6 @@ amylogenic
 amylogens
 amylohydrolysis
 amylohydrolytic
-amyloid
 amyloidal
 arawakan
 adossee
