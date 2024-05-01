@@ -2892,7 +2892,6 @@ feuing
 fleches
 feulamort
 feuter
-feverberry
 fjeld
 foisting
 feverberries
@@ -3642,6 +3641,7 @@ filister
 filisters
 filite
 filius
+feverberry
 filix
 foreleech
 florescence
