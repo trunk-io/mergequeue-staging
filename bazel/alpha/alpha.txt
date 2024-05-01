@@ -6941,6 +6941,7 @@ airfares
 airfield
 airfields
 airflow
+appearance
 airflows
 airfoils
 airframe
@@ -17652,7 +17653,6 @@ assentatorily
 appealingness
 appeals
 appear
-appearance
 ambidextrousness
 appearanced
 appearances
