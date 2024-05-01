@@ -2363,7 +2363,6 @@ gelatin
 grammel
 gelatinate
 gullies
-gelatinated
 gelatinating
 gelatination
 gaoloring
@@ -3622,6 +3621,7 @@ gestning
 gestonie
 grenadin
 gestor
+gelatinated
 gestura
 gestural
 gangwaymen
