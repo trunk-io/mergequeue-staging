@@ -9313,7 +9313,6 @@ errability
 errable
 errableness
 errabund
-errancy
 ethoses
 errancies
 errand
@@ -13716,6 +13715,7 @@ extollation
 extolled
 extoller
 extollers
+errancy
 elementariness
 epididymectomy
 extolling
