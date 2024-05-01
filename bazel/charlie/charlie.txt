@@ -2896,6 +2896,7 @@ cantus
 cantut
 cantuta
 corambis
+coloradan
 cantwise
 canuck
 canula
@@ -19424,7 +19425,6 @@ colorability
 colorable
 colorableness
 colorably
-coloradan
 coloradans
 colorado
 coloradoite
