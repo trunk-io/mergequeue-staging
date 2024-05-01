@@ -1674,7 +1674,6 @@ exiler
 egret
 egretta
 egrid
-egrimony
 egritude
 egromancy
 egualmente
@@ -8971,6 +8970,7 @@ ergology
 ergomaniac
 electrotechnology
 ergometric
+egrimony
 ergometrine
 ergon
 ergonomic
