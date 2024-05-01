@@ -912,7 +912,6 @@ gamey
 gamekeeper
 gamekeepers
 gamekeeping
-gamelang
 gamelans
 gameless
 gathers
@@ -4643,6 +4642,7 @@ gypsophila
 gypsophilous
 gypster
 gypsum
+gamelang
 grilling
 greyflies
 gypsums

@@ -4019,6 +4019,7 @@ adjoiner
 adjoining
 adjoiningness
 adjoins
+anemochorous
 alaund
 adjoint
 adjoints
@@ -12593,7 +12594,6 @@ anemobiagraph
 anemochord
 anemochore
 anemochoric
-anemochorous
 anemoclastic
 agee
 anemograph
