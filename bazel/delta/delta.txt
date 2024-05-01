@@ -3406,7 +3406,6 @@ deflexibility
 damascenine
 deflexible
 deflexing
-deflexion
 deflexure
 deflocculant
 debasement
@@ -4639,6 +4638,7 @@ demisemiquaver
 demisemitone
 demises
 demisheath
+deflexion
 demyship
 disambiguating
 demishirt
