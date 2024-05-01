@@ -1909,7 +1909,6 @@ bandaid
 bandaka
 bandala
 bandalore
-bandana
 bandanaed
 bandanna
 brachypodous
@@ -6617,6 +6616,7 @@ bicentennially
 berated
 birthless
 berates
+bandana
 berattle
 beraunite
 berbamine
