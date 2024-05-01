@@ -5538,7 +5538,6 @@ departmentalizing
 departmentally
 departmentize
 duddies
-departs
 departure
 depas
 depascent
@@ -12824,6 +12823,7 @@ disodic
 disodium
 dysodontiasis
 disomaty
+departs
 disomatic
 disomatous
 disomus
