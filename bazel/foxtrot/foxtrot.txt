@@ -5879,6 +5879,7 @@ floodless
 floodlet
 floodlight
 francis
+frory
 floodlighted
 fearlessly
 floodlike
@@ -10457,7 +10458,6 @@ froppish
 fontlet
 feateous
 froren
-frory
 frosh
 frost
 foregoer
