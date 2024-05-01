@@ -7981,6 +7981,7 @@ eigenvector
 epimerize
 epimerized
 epimerizing
+exempla
 epimers
 epimyocardial
 epimyocardium
@@ -9255,7 +9256,6 @@ erogenesis
 erogenetic
 erogenic
 erogenous
-exempla
 eromania
 eros
 equispatial
