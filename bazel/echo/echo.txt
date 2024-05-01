@@ -2207,7 +2207,6 @@ elderwort
 eldfather
 extrapolative
 eldin
-eldmother
 emulsibility
 engelmannia
 emraud
@@ -7357,6 +7356,7 @@ evanition
 escruage
 epanaphora
 epanastrophe
+eldmother
 epanody
 epanodos
 epanorthidae
