@@ -17815,6 +17815,7 @@ applauded
 applauder
 applauders
 applauding
+armoire
 applaudingly
 applauds
 applause
@@ -20003,7 +20004,6 @@ armload
 armloads
 armlock
 armlocks
-armoire
 armoires
 armomancy
 armoniac
