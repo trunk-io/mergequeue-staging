@@ -2426,7 +2426,6 @@ decipherer
 deciphering
 deciphers
 decipium
-decipolar
 decise
 decision
 decisional
@@ -4225,6 +4224,7 @@ delocalize
 delomorphic
 deloo
 delouse
+decipolar
 deloused
 delouses
 delousing
