@@ -3126,6 +3126,7 @@ geomagnetism
 gurdwara
 geomaly
 geomalic
+graveward
 geomalism
 gambesons
 geomancer
@@ -8456,7 +8457,6 @@ gravestead
 gravestones
 gonochoristic
 gravette
-graveward
 gravewards
 gravy
 gravicembali
