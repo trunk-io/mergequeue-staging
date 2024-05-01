@@ -7678,7 +7678,6 @@ flatteners
 foreglow
 forego
 fables
-foregoing
 foreclosures
 foregone
 frequents
@@ -9134,6 +9133,7 @@ foxfires
 franciscans
 foxfish
 foxfishes
+foregoing
 foxglove
 foxgloves
 feoffed

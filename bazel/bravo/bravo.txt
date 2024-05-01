@@ -4223,6 +4223,7 @@ beastman
 beasts
 beckelite
 beastship
+bruiters
 beat
 beata
 beatable
@@ -16239,7 +16240,6 @@ bruit
 bruited
 bruiter
 beshlik
-bruiters
 bruiting
 becomings
 bruits
