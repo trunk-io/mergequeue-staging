@@ -4014,7 +4014,6 @@ beaconwise
 blasphemers
 beadeye
 beader
-buzzier
 beadflush
 batik
 beccaccia
@@ -12588,6 +12587,7 @@ bonspell
 bonspells
 brike
 bonspiel
+buzzier
 bonspiels
 bontebok
 bonteboks
