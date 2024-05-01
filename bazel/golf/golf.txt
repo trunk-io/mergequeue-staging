@@ -2363,7 +2363,6 @@ gelatination
 gaoloring
 gelatine
 gelatined
-gelatines
 gelatiniferous
 gerastian
 gelatiniform
@@ -8136,6 +8135,7 @@ greater
 groover
 graphed
 germander
+gelatines
 grapheme
 graphemes
 graphemic
