@@ -2386,7 +2386,6 @@ candleball
 candlebeam
 candleberry
 candleberries
-candlebomb
 candled
 candlefishes
 candleholder
@@ -23737,6 +23736,7 @@ contraorbital
 coteline
 contrapletal
 contraplete
+candlebomb
 contrapolarization
 contrapone
 contraponend
