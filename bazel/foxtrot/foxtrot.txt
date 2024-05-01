@@ -9470,7 +9470,6 @@ frasier
 frass
 frasse
 frat
-fratch
 fratched
 fratcher
 fratchety
@@ -11573,6 +11572,7 @@ fusiformis
 fusil
 fusilade
 fusiladed
+fratch
 fraternise
 fusilades
 furbelow
