@@ -2806,7 +2806,6 @@ acream
 acred
 agavose
 acredula
-acreman
 acremen
 acrestaff
 acrid
@@ -4196,6 +4195,7 @@ admissible
 admissibleness
 admissibly
 admission
+acreman
 admissions
 admissive
 admissively
