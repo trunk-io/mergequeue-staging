@@ -14042,6 +14042,7 @@ disturbation
 devisals
 disturbed
 data
+dosimetry
 disturbedly
 disturber
 disturbers
@@ -15874,7 +15875,6 @@ dosers
 demiman
 dosimeter
 dosimeters
-dosimetry
 dosimetric
 dosimetrician
 dosimetries
