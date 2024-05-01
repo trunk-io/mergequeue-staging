@@ -7658,7 +7658,6 @@ bewonder
 bandages
 belton
 bewormed
-biordinal
 beworming
 bindweeds
 beworn
@@ -10472,6 +10471,7 @@ blastoff
 blastoffs
 blastogenesis
 blastogenetic
+biordinal
 blastogeny
 blastogenic
 blastogranitic
