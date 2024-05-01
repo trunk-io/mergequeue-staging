@@ -2829,6 +2829,7 @@ cantico
 cantiga
 cantilated
 cantilating
+cruets
 cantilena
 cantilene
 cantilenes
@@ -30158,7 +30159,6 @@ cruentation
 cruentous
 cruet
 cruety
-cruets
 cruise
 cruised
 cruiser
