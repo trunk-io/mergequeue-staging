@@ -3963,6 +3963,7 @@ bdellatomy
 bdellid
 bdellidae
 bdellium
+berylloid
 beal
 bdelliums
 bdelloid
@@ -6747,7 +6748,6 @@ beryllia
 berylline
 berylliosis
 beryllium
-berylloid
 beryllonate
 beryllosis
 beryls
