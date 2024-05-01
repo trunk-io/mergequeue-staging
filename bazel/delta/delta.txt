@@ -6577,7 +6577,6 @@ desertlike
 desertness
 desertress
 desertrice
-differentials
 deserts
 desertward
 deserved
@@ -17703,6 +17702,7 @@ dipterocecidium
 dub
 dubash
 dubba
+differentials
 dubbah
 dubbed
 disinvigorate
