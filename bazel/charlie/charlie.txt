@@ -2124,7 +2124,6 @@ campstools
 camptodrome
 camptonite
 chefs
-camptosorus
 campulitropal
 campus
 campuses
@@ -15304,6 +15303,7 @@ clairvoyancy
 clairvoyancies
 cotham
 clairvoyant
+camptosorus
 clairvoyantly
 clairvoyants
 cartoons
