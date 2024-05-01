@@ -3029,7 +3029,6 @@ acrosarc
 acrosarca
 acrosarcum
 acroscleriasis
-acroscleroderma
 acroscopic
 acrosome
 acrosomes
@@ -9232,6 +9231,7 @@ almoravid
 arriccio
 almoravide
 almoravides
+acroscleroderma
 almose
 almost
 accentuality
