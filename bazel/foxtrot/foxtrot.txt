@@ -561,7 +561,6 @@ falloff
 falloffs
 fallopian
 fallostomy
-fallout
 facetiousness
 fallouts
 frankfurter
@@ -9776,6 +9775,7 @@ flake
 fremdness
 founded
 fremitus
+fallout
 fremituses
 fremontia
 fremontodendron
