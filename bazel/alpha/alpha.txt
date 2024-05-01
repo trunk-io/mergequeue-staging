@@ -4811,7 +4811,6 @@ aegagrus
 andouillet
 aegean
 aegemony
-aeger
 aegeriid
 aegeriidae
 aegialitis
@@ -24475,6 +24474,7 @@ autotriploid
 autotriploidy
 autotroph
 autotrophy
+aeger
 autotrophic
 autotrophically
 autotropic
