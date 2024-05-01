@@ -605,7 +605,6 @@ falsies
 fenster
 falsify
 falsifiability
-falsifiable
 falsificate
 falsification
 falsificator
@@ -9992,6 +9991,7 @@ fried
 friedcake
 friedelite
 foresee
+falsifiable
 friedman
 fencings
 friedrichsdor
