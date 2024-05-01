@@ -4588,6 +4588,7 @@ bed
 bedabble
 bedabbled
 bedabbles
+begrace
 bedabbling
 bedad
 bedaff
@@ -5348,7 +5349,6 @@ begorry
 begotten
 begottenness
 begoud
-begrace
 begray
 begrain
 begrave
