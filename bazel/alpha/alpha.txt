@@ -9413,7 +9413,6 @@ alphabetizing
 alphabets
 analects
 alphameric
-alphamerically
 asyla
 alphanumeric
 alphanumerical
@@ -18935,6 +18934,7 @@ archgenethliac
 archgod
 archgomeral
 archgovernor
+alphamerically
 archgunner
 archhead
 archheart
