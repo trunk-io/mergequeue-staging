@@ -4782,7 +4782,6 @@ gyrolith
 gyroma
 gyromagnetic
 geologise
-gowkit
 gyromancy
 gyromele
 gyrometer
@@ -6733,6 +6732,7 @@ gomeisa
 gomer
 gomeral
 gomerec
+gowkit
 gomerel
 gomerils
 gommelin
