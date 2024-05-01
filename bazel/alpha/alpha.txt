@@ -9516,6 +9516,7 @@ altazimuth
 alter
 alterability
 alterable
+annunciation
 alterably
 alterant
 alterants
@@ -13768,7 +13769,6 @@ annunciated
 absolutistic
 annunciates
 annunciating
-annunciation
 apothecaries
 annunciations
 annunciative
