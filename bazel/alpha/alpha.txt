@@ -5434,6 +5434,7 @@ afflatuses
 afflict
 algesireceptor
 afflictedness
+aquation
 afflicter
 afflicting
 afflictingly
@@ -18274,7 +18275,6 @@ aquatinter
 altimeter
 aquatintist
 aquatints
-aquation
 aquativeness
 aquatone
 abampere
