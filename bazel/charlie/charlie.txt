@@ -2112,7 +2112,6 @@ camponotus
 campoo
 campoody
 camporee
-camporees
 campos
 campout
 camps
@@ -23467,6 +23466,7 @@ conterminous
 codescendant
 conterminously
 conterminousness
+camporees
 conterraneous
 contes
 contessa
