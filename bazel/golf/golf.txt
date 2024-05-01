@@ -4613,6 +4613,7 @@ gipsyism
 geogony
 gypsyism
 gypsyisms
+graveyards
 gipsylike
 gypsylike
 glowworm
@@ -5183,7 +5184,6 @@ glarry
 glaserian
 glaserite
 grainland
-graveyards
 glashan
 gumwood
 glass
