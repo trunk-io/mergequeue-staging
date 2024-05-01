@@ -640,7 +640,6 @@ abnormally
 abnormalness
 abnormals
 abnormity
-abnormities
 abnormous
 abnumerable
 abo
@@ -10643,6 +10642,7 @@ amyloses
 amylosynthesis
 amylosis
 amiloun
+abnormities
 amyls
 amylum
 amylums
