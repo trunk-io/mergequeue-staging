@@ -1904,6 +1904,7 @@ bandaged
 baragouinish
 bandager
 boasts
+bluetop
 bandaging
 brakes
 bandagist
@@ -5507,7 +5508,6 @@ beignets
 beild
 beylic
 beylical
-bluetop
 beylics
 beylik
 beyliks
