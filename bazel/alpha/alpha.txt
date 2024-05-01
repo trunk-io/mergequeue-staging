@@ -6938,6 +6938,7 @@ airdock
 antimodernism
 airdrome
 airdromes
+apulmonic
 airdrop
 airdropped
 airdropping
@@ -18196,7 +18197,6 @@ aptnesses
 aptote
 aptotic
 apts
-apulmonic
 apulse
 apurpose
 apus
