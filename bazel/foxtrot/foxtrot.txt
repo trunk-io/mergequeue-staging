@@ -4220,7 +4220,6 @@ firmarii
 foundationally
 firmation
 firmed
-firmer
 firmers
 firmest
 firmhearted
@@ -10504,6 +10503,7 @@ frothy
 frothier
 frothily
 frothless
+firmer
 fide
 franchisor
 froths
