@@ -7833,7 +7833,6 @@ aldime
 aldimin
 aldimine
 aldine
-alditol
 albumenise
 aldm
 anthozooid
@@ -10704,6 +10703,7 @@ aminopolypeptidase
 aminopropionic
 aminopurine
 aminoquin
+alditol
 aminosuccinamic
 accurtation
 adenophorous
