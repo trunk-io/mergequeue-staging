@@ -2955,6 +2955,7 @@ eliminator
 eliminatory
 eliminators
 elymus
+enantiomorphous
 eo
 evangelistary
 emplore
@@ -4429,7 +4430,6 @@ enantiomorph
 enantiomorphy
 enantiomorphic
 enantiomorphism
-enantiomorphous
 enantiomorphously
 enantiopathy
 exanthine
