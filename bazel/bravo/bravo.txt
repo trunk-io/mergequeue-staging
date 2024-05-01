@@ -1898,7 +1898,6 @@ bancus
 bellicoseness
 bakehead
 band
-bandage
 bandaged
 baragouinish
 bandager
@@ -6824,6 +6823,7 @@ berretta
 berrettas
 berrettino
 berri
+bandage
 berry
 berrybush
 bromophenol
