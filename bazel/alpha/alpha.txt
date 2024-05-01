@@ -12693,7 +12693,6 @@ anethols
 aftersend
 anethum
 anetic
-anetiological
 aneuch
 aneuploid
 aneuploidy
@@ -16474,6 +16473,7 @@ antivermicular
 antivibrating
 antivibrator
 antivibratory
+anetiological
 antivice
 antiviral
 antivirotic
