@@ -4128,7 +4128,6 @@ empicture
 empididae
 epinicion
 empiecement
-empyema
 empyemas
 empyemata
 empyemic
@@ -9576,6 +9575,7 @@ entrenchments
 escorial
 escort
 escortage
+empyema
 escortee
 echinorhinus
 escorts
