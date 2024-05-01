@@ -1831,7 +1831,6 @@ gastronephritis
 gastronomer
 gastronomes
 gastronomical
-gumphion
 gastronomically
 gastronomics
 gastronosus
@@ -8938,6 +8937,7 @@ griffon
 griffonage
 griffonne
 griffons
+gumphion
 grift
 grifted
 glasslikeness
