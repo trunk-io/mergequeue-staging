@@ -4708,7 +4708,6 @@ greatheart
 grouplet
 gyrencephalous
 gallivat
-gyrene
 gyres
 gyrfalcon
 gyrfalcons
@@ -8976,6 +8975,7 @@ gerontoxon
 gryllos
 gaggling
 grillroom
+gyrene
 gryllus
 guan
 gigantostracan
