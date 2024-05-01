@@ -9292,7 +9292,6 @@ chatot
 chats
 chatsome
 chatta
-chattable
 chattack
 cocao
 chattah
@@ -21453,6 +21452,7 @@ concision
 concitation
 concite
 concitizen
+chattable
 conclamant
 cerebrating
 conclamation
