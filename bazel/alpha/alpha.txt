@@ -1172,6 +1172,7 @@ abundant
 abundantia
 abundantly
 abune
+actine
 abura
 aburban
 aburst
@@ -5434,7 +5435,6 @@ affixion
 affixment
 affixt
 affixture
-actine
 afflate
 afflated
 afflatus
