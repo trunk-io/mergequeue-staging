@@ -8587,7 +8587,6 @@ equiarticulate
 encincture
 equiatomic
 equiaxe
-equiaxed
 equibalanced
 eelblenny
 equibiradiate
@@ -13867,6 +13866,7 @@ extrameridian
 extrameridional
 extrametaphysical
 enterostenosis
+equiaxed
 exhalation
 extrametrical
 extrametropolitan
