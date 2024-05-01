@@ -7505,7 +7505,6 @@ devall
 devaloka
 devalorize
 devaluate
-dedecorate
 devaluated
 daffiest
 devaluates
@@ -12542,6 +12541,7 @@ disjasket
 disjaskit
 disject
 disjected
+dedecorate
 disjection
 disjects
 disjoin
