@@ -5025,6 +5025,7 @@ endevil
 endew
 endexines
 endgate
+exlex
 endhand
 endiablee
 endiadem
@@ -12599,7 +12600,6 @@ exitious
 exits
 exiture
 exitus
-exlex
 exmeridian
 exmoor
 exoascaceae
