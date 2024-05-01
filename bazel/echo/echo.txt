@@ -1795,6 +1795,7 @@ eyepiece
 eyepit
 eyepoint
 eyepopper
+exogenous
 eyereach
 eyeroot
 electromobilism
@@ -12684,7 +12685,6 @@ exogenetic
 ekaha
 exogeny
 exogenic
-exogenous
 exogens
 exogyra
 exognathion
