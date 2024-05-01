@@ -12838,7 +12838,6 @@ advenience
 angiocardiographies
 angiocarditis
 angiocarp
-angiocarpy
 angiocarpian
 angiocarpous
 angiocavernous
@@ -18167,6 +18166,7 @@ apterygota
 apterygote
 apteryla
 apterium
+angiocarpy
 apteryx
 agentship
 anilines
