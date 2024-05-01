@@ -3756,7 +3756,6 @@ dehors
 dehort
 dehortation
 dehortative
-dehortatory
 dehorted
 dehorter
 dehorting
@@ -8149,6 +8148,7 @@ dyad
 deemphasizing
 diadelphian
 decerp
+dehortatory
 diadelphic
 diadelphous
 diadelphia
