@@ -7475,7 +7475,6 @@ betrothed
 bloodworthy
 begalls
 betrothing
-betrothment
 betroths
 betrough
 betrousered
@@ -16317,6 +16316,7 @@ bruscha
 bruscus
 brush
 brushability
+betrothment
 brushable
 brushback
 brushbird

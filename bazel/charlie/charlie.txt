@@ -2179,6 +2179,7 @@ craftsmanly
 canafistolo
 canafistulo
 canaglia
+chrysopoetics
 canaigre
 canaille
 canailles
@@ -12262,7 +12263,6 @@ chrysopid
 chrysopidae
 chrysopoeia
 chrysopoetic
-chrysopoetics
 chrysoprase
 chrysoprasus
 chrysops
