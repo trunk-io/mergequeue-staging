@@ -2616,7 +2616,6 @@ generability
 generable
 geisotherm
 generableness
-general
 generalate
 generalcy
 generalcies
@@ -10744,6 +10743,7 @@ galoot
 gutsily
 gutsiness
 gutt
+general
 gutta
 guttable
 guttae
