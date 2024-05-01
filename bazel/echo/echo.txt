@@ -7729,7 +7729,6 @@ erysipelothrix
 eumenorrhea
 epinician
 epidendrum
-epiderm
 epiderma
 epidermal
 enthelmintha
@@ -12195,6 +12194,7 @@ excubitoria
 enteroscope
 excubitorium
 excudate
+epiderm
 excuderunt
 excudit
 extrusory
