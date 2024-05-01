@@ -30092,6 +30092,7 @@ cru
 crub
 cruce
 cruces
+curtays
 crucethouse
 cruche
 crucial
@@ -31521,7 +31522,6 @@ curtained
 curtaining
 curtainless
 curtains
-curtays
 curtal
 curtalax
 curtalaxes
