@@ -5938,7 +5938,6 @@ floormen
 floors
 folkways
 floorshift
-floorshifts
 floorshow
 floorthrough
 floorwalker
@@ -7357,6 +7356,7 @@ forbearantly
 forbearers
 forbearing
 forbearingly
+floorshifts
 fruitarianism
 forbearingness
 firepans
