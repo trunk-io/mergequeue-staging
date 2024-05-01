@@ -4171,7 +4171,6 @@ gilour
 gilpey
 gilpy
 gilravage
-gilravager
 gilse
 gilsonite
 gilten
@@ -10105,6 +10104,7 @@ grafted
 guffer
 guffin
 guffs
+gilravager
 gangliglia
 gugal
 guggle
