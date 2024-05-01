@@ -1345,7 +1345,6 @@ gardenly
 gardenlike
 gardenmaker
 gaudete
-gardenmaking
 gardens
 garderobe
 gardeviance
@@ -8173,6 +8172,7 @@ guarnerius
 graphitoid
 gigtree
 graphium
+gardenmaking
 grouty
 gisarmes
 grapholite
