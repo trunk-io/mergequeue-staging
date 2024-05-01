@@ -13944,7 +13944,6 @@ distractible
 distractile
 distracting
 distractions
-distractive
 distractively
 drip
 distracts
@@ -18616,6 +18615,7 @@ duvet
 dumbwaiters
 dephosphorize
 duvetyn
+distractive
 disseisor
 duvetines
 duvetynes
