@@ -663,6 +663,7 @@ abohms
 aboideau
 aboideaux
 arteriovenous
+aftersound
 aboil
 aboiteau
 aboiteaus
@@ -5762,7 +5763,6 @@ aftership
 anthemy
 aftershocks
 aftersong
-aftersound
 afterspeech
 afterspring
 afterstain

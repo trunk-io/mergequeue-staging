@@ -2016,7 +2016,6 @@ cryal
 campeche
 camped
 campephagidae
-campephagine
 campephilus
 camper
 channeler
@@ -3262,6 +3261,7 @@ caprid
 caprificate
 caprification
 caprificator
+campephagine
 caprifig
 caprifigs
 caprifoil
