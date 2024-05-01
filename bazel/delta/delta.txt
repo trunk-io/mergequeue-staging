@@ -1288,7 +1288,6 @@ daubreite
 dunting
 daubry
 daubries
-daubs
 daubster
 daud
 dauded
@@ -4058,6 +4057,7 @@ delicat
 delicate
 delicately
 delicates
+daubs
 delicatesse
 delicatessen
 delicatessens

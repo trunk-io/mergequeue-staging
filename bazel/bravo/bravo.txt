@@ -2214,7 +2214,6 @@ banqueters
 banqueting
 banquets
 ballote
-banquette
 banquo
 bans
 bansalague
@@ -15991,6 +15990,7 @@ brontosaurs
 brontosaurus
 bloodleaf
 brontosauruses
+banquette
 brontoscopy
 brontothere
 brontotherium
