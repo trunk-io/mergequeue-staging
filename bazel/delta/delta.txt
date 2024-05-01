@@ -2734,7 +2734,6 @@ decorator
 decoratory
 decorators
 decapsulation
-decorement
 decorist
 decorous
 decorously
@@ -15772,6 +15771,7 @@ dizygous
 desize
 dorosternal
 dorothea
+decorement
 dorothy
 dorp
 dorper
