@@ -3832,7 +3832,6 @@ emergencies
 emergent
 enteral
 emergently
-emergentness
 emergers
 emerges
 enring
@@ -7539,6 +7538,7 @@ ephraitic
 ephrathite
 ephthalite
 ephthianura
+emergentness
 ephthianure
 epi
 epibaterium
