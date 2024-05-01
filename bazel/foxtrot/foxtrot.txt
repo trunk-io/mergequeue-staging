@@ -7866,6 +7866,7 @@ forepass
 forepast
 forepaw
 forepaws
+fragmentariness
 frailties
 forepeak
 forepeaks
@@ -9272,7 +9273,6 @@ fragmentalize
 fragmentally
 fragmentary
 fragmentarily
-fragmentariness
 fragmentation
 fragmented
 forsaker
