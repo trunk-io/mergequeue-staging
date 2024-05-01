@@ -3041,7 +3041,6 @@ fibrocarcinoma
 fibrocartilage
 fibrocartilaginous
 firmnesses
-fibrocaseose
 fulgur
 fibrocaseous
 fibrocement
@@ -8917,6 +8916,7 @@ fothergilla
 fothering
 floggable
 fortravail
+fibrocaseose
 fotmal
 fotui
 fantailed
