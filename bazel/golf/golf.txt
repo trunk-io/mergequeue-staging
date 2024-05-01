@@ -1295,7 +1295,6 @@ guidage
 garb
 garbage
 gastrulated
-garbages
 garbanzo
 garbell
 garbill
@@ -5172,6 +5171,7 @@ grazer
 gastronome
 gyrose
 glaziness
+garbages
 gurjara
 glariest
 glarily
