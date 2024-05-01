@@ -25528,6 +25528,7 @@ coronofrontal
 coronograph
 coronographic
 coronoid
+costopulmonary
 coronopus
 coronule
 cyamelide
@@ -26262,7 +26263,6 @@ costodiaphragmatic
 costoinferior
 costophrenic
 costopleural
-costopulmonary
 costoscapular
 costotome
 costotomy
