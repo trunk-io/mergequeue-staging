@@ -2114,7 +2114,6 @@ fellowships
 fells
 finger
 filiation
-felon
 feloness
 felony
 frocking
@@ -6799,6 +6798,7 @@ foisonless
 foisons
 foist
 foxtongue
+felon
 fcs
 foisted
 ferroboron
