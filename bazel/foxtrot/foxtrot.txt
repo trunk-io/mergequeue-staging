@@ -5078,7 +5078,6 @@ flathead
 flatheads
 flatiron
 flatirons
-flative
 furnaceman
 fruitfully
 flexor
@@ -11384,6 +11383,7 @@ furicane
 furied
 furies
 furify
+flative
 furil
 finagled
 furyl
