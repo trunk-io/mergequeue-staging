@@ -3149,7 +3149,6 @@ actinograph
 actinography
 actinographic
 apomorphin
-actinoid
 actinoida
 actinoidea
 actinoids
@@ -4663,6 +4662,7 @@ adversative
 adverse
 adversed
 adversely
+actinoid
 adverseness
 adversifoliate
 afternote
