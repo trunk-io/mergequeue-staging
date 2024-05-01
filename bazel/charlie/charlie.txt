@@ -997,6 +997,7 @@ calcaneoscaphoid
 calcaneotibial
 calcaneum
 calcannea
+coveralled
 ceratoblast
 calcannei
 calcar
@@ -27505,7 +27506,6 @@ coverable
 coverage
 coverages
 coverall
-coveralled
 coveralls
 coverchief
 cerberean
