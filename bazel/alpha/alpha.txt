@@ -16357,7 +16357,6 @@ antisun
 antisupernatural
 antisupernaturalism
 antisupernaturalistic
-antisurplician
 antitabetic
 antitabloid
 agistator
@@ -23021,6 +23020,7 @@ attendants
 attended
 attendee
 attendees
+antisurplician
 attenders
 attending
 attendingly

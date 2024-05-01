@@ -9368,7 +9368,6 @@ franchisees
 franchisers
 franchises
 fireworms
-franchisor
 francia
 francic
 francisc
@@ -10512,6 +10511,7 @@ frothier
 frothily
 frothless
 fide
+franchisor
 froths
 frothsome
 frottage
