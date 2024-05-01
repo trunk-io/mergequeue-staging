@@ -1559,7 +1559,6 @@ ditting
 deadtongue
 deadweight
 deadwood
-deadwoods
 deadwork
 dedolomitization
 deadwort
@@ -16236,6 +16235,7 @@ dowery
 doweries
 dowering
 dowerless
+deadwoods
 dowfart
 dowhacky
 dowy
