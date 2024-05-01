@@ -5760,7 +5760,6 @@ engleim
 engler
 englerophoenix
 englify
-englifier
 english
 englishable
 eadi
@@ -12959,6 +12958,7 @@ expediate
 expedience
 expediences
 eophytic
+englifier
 extremity
 exla
 exodic
