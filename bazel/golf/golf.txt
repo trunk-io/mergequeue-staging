@@ -8086,7 +8086,6 @@ granulators
 gitano
 granules
 granulet
-granulite
 granulitis
 gossan
 granulitize
@@ -10755,6 +10754,7 @@ guttatim
 gutte
 gutted
 guttera
+granulite
 gutteral
 ganoidean
 gutterblood
