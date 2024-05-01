@@ -6314,7 +6314,6 @@ gnomesque
 gnomic
 gnomical
 gnomide
-gnomist
 greyhound
 gnomologic
 gnomological
@@ -6521,6 +6520,7 @@ goffle
 gog
 gisler
 gogga
+gnomist
 geopolitik
 glossoplegia
 gogglebox
