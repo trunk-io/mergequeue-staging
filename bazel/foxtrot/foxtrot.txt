@@ -4071,7 +4071,6 @@ fireback
 favourably
 fireball
 fireballs
-firebase
 flanky
 firebird
 firebirds
@@ -10368,6 +10367,7 @@ frondigerous
 frondose
 frondosely
 frondous
+firebase
 frons
 front
 frontad
