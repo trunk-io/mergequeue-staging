@@ -5332,6 +5332,7 @@ begnawed
 begnawn
 begob
 begobs
+bodeword
 begod
 begoggled
 begohm
@@ -11773,7 +11774,6 @@ balanophora
 bascule
 bodes
 bodewash
-bodeword
 bodge
 bodger
 bodgery
