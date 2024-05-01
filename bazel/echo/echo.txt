@@ -4898,7 +4898,6 @@ etch
 encrusting
 encrusts
 enculturate
-enculturation
 enculturative
 epikleses
 encumber
@@ -11952,6 +11951,7 @@ excepting
 exceptio
 enthraller
 erythrons
+enculturation
 exception
 exceptionability
 exceptional
