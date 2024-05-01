@@ -20122,7 +20122,6 @@ aromatical
 aromatically
 aromaticity
 actinosoma
-auriscopically
 aromatics
 aromatise
 areason
@@ -22601,6 +22600,7 @@ atheromata
 atheromatosis
 atheromatous
 atherosclerotic
+auriscopically
 atherosclerotically
 atherosperma
 atherurus
