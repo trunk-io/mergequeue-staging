@@ -10155,6 +10155,7 @@ chevelure
 cheven
 chevener
 cheventayn
+confections
 cheverel
 cheveret
 cheveril
@@ -21883,7 +21884,6 @@ confectioner
 confectionery
 confectioneries
 confectiones
-confections
 confectory
 confects
 confecture
