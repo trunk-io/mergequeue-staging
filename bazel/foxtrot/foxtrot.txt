@@ -6203,7 +6203,6 @@ flowoff
 fatling
 flowstone
 flu
-fluate
 finalize
 fluavile
 flub
@@ -10068,6 +10067,7 @@ frigiddaria
 fortaxed
 foolfishes
 frigidity
+fluate
 frigidities
 frigidly
 flemished
