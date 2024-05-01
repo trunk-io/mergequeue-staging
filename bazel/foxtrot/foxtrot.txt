@@ -5563,7 +5563,6 @@ flyleaf
 frivolizing
 fractionisation
 flyleaves
-floury
 flyless
 facia
 flyman
@@ -8951,6 +8950,7 @@ foulsome
 foumart
 foun
 frond
+floury
 fibrolitic
 founce
 foundation
