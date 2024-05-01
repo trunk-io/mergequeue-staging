@@ -2745,7 +2745,6 @@ barleybird
 barleybrake
 broidering
 barleybreak
-barleycorn
 barleyhood
 barleymow
 barleys
@@ -17856,6 +17855,7 @@ burrow
 bronchioli
 burrowed
 burroweed
+barleycorn
 burrower
 burrowers
 burrowing
