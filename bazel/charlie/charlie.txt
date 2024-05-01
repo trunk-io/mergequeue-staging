@@ -14728,7 +14728,6 @@ cystonectous
 cystonephrosis
 cystoparalysis
 cystophora
-cystophore
 cistophori
 cistophoric
 cistophorus
@@ -24853,6 +24852,7 @@ coracoids
 coracomandibular
 coracomorph
 curbash
+cystophore
 coracomorphae
 coracomorphic
 coracoprocoracoid
