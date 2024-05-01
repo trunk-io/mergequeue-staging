@@ -1682,6 +1682,7 @@ fusillade
 feared
 firy
 fearedly
+filechar
 fearedness
 fearer
 fearers
@@ -3528,7 +3529,6 @@ filchingly
 fileable
 filecard
 friendlessness
-filechar
 feminisms
 frontstall
 filefishes
