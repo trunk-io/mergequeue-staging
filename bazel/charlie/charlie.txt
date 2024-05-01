@@ -6727,7 +6727,6 @@ celiolymph
 celiomyalgia
 celiomyodynia
 celiomyomectomy
-celiomyomotomy
 celiomyositis
 celioparacentesis
 celiopyosis
@@ -9640,6 +9639,7 @@ cheepers
 cheepy
 cheepier
 cheepily
+celiomyomotomy
 cheepiness
 cheeping
 cheeps
