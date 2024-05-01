@@ -1971,7 +1971,6 @@ campana
 campane
 campanella
 cryptogame
-campania
 cecils
 campanian
 campaniform
@@ -3854,6 +3853,7 @@ carceag
 cosmodrome
 carcel
 carcels
+campania
 carcer
 coalizer
 carcerate
