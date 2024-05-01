@@ -9538,7 +9538,6 @@ charge
 checky
 checklaton
 checkless
-checkline
 checklist
 charadriiform
 checkman
@@ -14300,6 +14299,7 @@ circumduction
 circumesophagal
 circumesophageal
 circumfer
+checkline
 circumference
 circumferences
 competed
