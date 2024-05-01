@@ -6646,6 +6646,7 @@ aguish
 aguishly
 aguishness
 agujon
+annotations
 agunah
 agura
 aguroth
@@ -13688,7 +13689,6 @@ annotates
 acker
 annotating
 annotation
-annotations
 annotative
 annotatively
 annotativeness
