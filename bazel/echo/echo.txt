@@ -6518,7 +6518,6 @@ entail
 entailable
 epinasties
 entailed
-entailer
 evangelized
 entailment
 entailments
@@ -11316,6 +11315,7 @@ evaluates
 evaluation
 evaluations
 evaluative
+entailer
 evaluator
 electrocardiography
 evanesce
