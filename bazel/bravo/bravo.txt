@@ -5693,7 +5693,6 @@ beletter
 beleve
 belfast
 bilio
-belfried
 buna
 belfries
 belga
@@ -9433,6 +9432,7 @@ birdyback
 birdie
 birdieback
 birdied
+belfried
 blossomed
 birdieing
 bewrap
