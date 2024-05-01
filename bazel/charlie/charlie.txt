@@ -13379,7 +13379,6 @@ cautionry
 cyclonometer
 cycloolefin
 cycloolefine
-cycloolefinic
 cyclopaedia
 cyclopaedias
 cyclopaedic
@@ -14838,6 +14837,7 @@ citicorp
 cytidine
 cytidines
 citydom
+cycloolefinic
 citied
 cities
 citify
