@@ -1450,7 +1450,6 @@ bronchopneumonia
 balefully
 balefulness
 benevolently
-balei
 baleise
 baleless
 baler
@@ -9047,6 +9046,7 @@ basiotripsy
 bioinstrument
 biokinetics
 biol
+balei
 biolinguistics
 biolyses
 bludgeoneer
