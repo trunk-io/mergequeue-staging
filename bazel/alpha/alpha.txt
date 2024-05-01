@@ -7076,7 +7076,6 @@ airting
 airts
 aln
 airview
-airway
 airwaybill
 airwayman
 airways
@@ -19230,6 +19229,7 @@ arcidae
 arcifera
 arciferous
 arcifinious
+airway
 arciform
 accessions
 arcing
