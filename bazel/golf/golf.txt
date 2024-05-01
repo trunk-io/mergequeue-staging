@@ -898,7 +898,6 @@ gambs
 gambusias
 gamdeboo
 gasteropod
-gamdia
 gamebag
 gameball
 gauby
@@ -7219,6 +7218,7 @@ gorillaship
 gramash
 gorillian
 gorilline
+gamdia
 genoblastic
 gorilloid
 goriness
