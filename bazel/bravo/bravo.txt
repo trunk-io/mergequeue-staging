@@ -2255,7 +2255,6 @@ baobabs
 bap
 baphomet
 baphometic
-bilboa
 bapistery
 bapt
 baptanodon
@@ -5008,6 +5007,7 @@ beeper
 beepers
 beflout
 beeping
+bilboa
 beeps
 beer
 beerage
