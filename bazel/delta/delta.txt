@@ -5810,7 +5810,6 @@ depository
 depositories
 depositum
 depositure
-deposure
 derailleur
 depot
 defecter
@@ -13329,6 +13328,7 @@ disquiparancy
 disquiparant
 disquisit
 disquisite
+deposure
 disquisited
 disimagine
 disquisiting
