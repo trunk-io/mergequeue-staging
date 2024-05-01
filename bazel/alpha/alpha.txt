@@ -6278,7 +6278,6 @@ agley
 aglet
 aglethead
 aglets
-agly
 avowter
 acacine
 aglycon
@@ -18972,6 +18971,7 @@ archidiaceae
 archidiaconal
 archidiaconate
 archididascalos
+agly
 archidiskodon
 alcoholuria
 archidome
