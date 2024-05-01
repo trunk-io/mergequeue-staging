@@ -3510,6 +3510,7 @@ basuto
 bat
 bataan
 batable
+bilaminate
 batad
 brocket
 bataleur
@@ -8496,7 +8497,6 @@ bilalo
 bilamellate
 bilamellated
 bilaminar
-bilaminate
 biland
 byland
 bilander
