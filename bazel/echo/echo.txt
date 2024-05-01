@@ -5527,7 +5527,6 @@ energizing
 ethanethiol
 ergastoplasm
 energumenon
-enervate
 enervated
 enervating
 enervation
@@ -9135,6 +9134,7 @@ enthusiasticalness
 erythrochroic
 erythrochroism
 erythrocyte
+enervate
 erythrocytes
 eupepsy
 erythrocytolysin
