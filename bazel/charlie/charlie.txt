@@ -20286,7 +20286,6 @@ commonplaceism
 crucifixion
 commonplacely
 commonplaceness
-commonplacer
 commonplaces
 commons
 commonsense
@@ -31912,6 +31911,7 @@ czar
 czardas
 czardases
 czardoms
+commonplacer
 czarevitch
 czarevna
 czarevnas
