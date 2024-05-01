@@ -5692,6 +5692,7 @@ catchplate
 catchpoled
 catchpolery
 catchpoleship
+cavefishes
 catchpoling
 catchpoll
 catchpolled
@@ -6376,7 +6377,6 @@ caveats
 caved
 captiving
 cavefish
-cavefishes
 cavey
 cavekeeper
 caveman
