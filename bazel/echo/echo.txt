@@ -2646,7 +2646,6 @@ edaphodont
 electrotheraputic
 electrotheraputical
 electrotheraputically
-electrotheraputics
 expurgates
 electrothermally
 electrothermancy
@@ -4920,6 +4919,7 @@ endamage
 endamageable
 endamaged
 epigraphist
+electrotheraputics
 endamages
 endamaging
 endamask
