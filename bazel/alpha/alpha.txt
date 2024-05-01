@@ -1518,7 +1518,6 @@ accessable
 agamae
 accessary
 accessaries
-accessaryship
 accessed
 accesses
 accessibility
@@ -4806,6 +4805,7 @@ aedilities
 aedoeagi
 aedoeagus
 aedoeology
+accessaryship
 aefald
 aefaldy
 ampholytic
