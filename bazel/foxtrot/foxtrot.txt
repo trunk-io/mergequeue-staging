@@ -431,7 +431,6 @@ faithworthy
 faithworthiness
 fructiferousness
 faitour
-faitours
 flickermouse
 fayumic
 fake
@@ -3456,6 +3455,7 @@ figs
 frangi
 figshell
 fury
+faitours
 figulate
 figulated
 figuline
