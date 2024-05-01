@@ -3604,6 +3604,7 @@ deglamorize
 deglamorizing
 deglaze
 deglazing
+disa
 deglycerin
 deglycerine
 deglory
@@ -10888,7 +10889,6 @@ diruption
 dis
 demideify
 dys
-disa
 despumating
 disability
 disabilities
