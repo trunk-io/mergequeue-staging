@@ -2584,6 +2584,7 @@ decollate
 disseizin
 dervish
 decollated
+dubs
 decollating
 decollator
 dominican
@@ -17741,7 +17742,6 @@ desmidiaceae
 duboisine
 dubonnet
 dubonnets
-dubs
 daman
 denshire
 duc
