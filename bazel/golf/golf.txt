@@ -4031,7 +4031,6 @@ gigantosaurus
 gigantostraca
 gigantostracous
 gigartina
-gigartinaceae
 gigasecond
 gigaton
 gigatons
@@ -7088,6 +7087,7 @@ gooselike
 gooseliver
 goosemouth
 goosenecked
+gigartinaceae
 goosery
 gooserumped
 gooses
