@@ -7750,6 +7750,7 @@ cerote
 cerotene
 cerotin
 cerotypes
+chaos
 cerous
 ceroxyle
 ceroxylon
@@ -8757,7 +8758,6 @@ chantries
 chants
 chaogenous
 chaology
-chaos
 chaotical
 chaotically
 chaoticness
