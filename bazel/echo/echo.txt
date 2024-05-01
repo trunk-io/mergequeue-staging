@@ -9513,7 +9513,6 @@ escargots
 escaroles
 escarping
 escarpment
-escarpments
 escarps
 embryony
 etaerio
@@ -12674,6 +12673,7 @@ exodromic
 exodus
 exoduses
 exoenzyme
+escarpments
 exoenzymic
 exogamic
 exogamies
