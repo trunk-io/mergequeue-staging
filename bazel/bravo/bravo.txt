@@ -4788,7 +4788,6 @@ bedouinism
 bedouins
 bote
 bedouse
-bedpad
 bradding
 bedpan
 besmirching
@@ -10292,6 +10291,7 @@ blameable
 blameableness
 blameably
 blamed
+bedpad
 blamefully
 blamefulness
 blameless
