@@ -7141,7 +7141,6 @@ droitural
 detailer
 detailers
 detailing
-detailism
 detailist
 detain
 detainable
@@ -13986,6 +13985,7 @@ distributee
 diabolisation
 distributer
 distributes
+detailism
 distributing
 distribution
 distributional

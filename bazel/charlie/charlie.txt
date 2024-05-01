@@ -12945,7 +12945,6 @@ chusite
 critism
 chut
 chute
-chuted
 cloverleafs
 chuter
 chutes
@@ -28683,6 +28682,7 @@ creodonts
 creole
 creoleize
 creoles
+chuted
 creolian
 creolin
 creolism
