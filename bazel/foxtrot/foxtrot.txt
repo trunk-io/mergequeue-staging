@@ -1757,7 +1757,6 @@ featheredge
 featherer
 featherfew
 featherfoil
-featherhead
 featherheaded
 feathery
 featheriest
@@ -6142,6 +6141,7 @@ flouse
 flout
 flouted
 frisk
+featherhead
 flouter
 flouters
 flouting
