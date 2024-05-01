@@ -6306,6 +6306,7 @@ enrolling
 enrollment
 enrollments
 enrolls
+extreme
 enroot
 enrooted
 enroots
@@ -14042,7 +14043,6 @@ extravillar
 extravisceral
 extrema
 extremal
-extreme
 extremeless
 extremely
 ejects
