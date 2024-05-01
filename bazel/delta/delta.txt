@@ -11604,7 +11604,6 @@ discontinuation
 duplicately
 discontinuations
 discontinue
-discontinued
 discontinuee
 discontinuer
 dieselizing
@@ -17099,6 +17098,7 @@ drifter
 draught
 drifters
 driftfish
+discontinued
 divestiture
 drifty
 driftier
