@@ -15777,6 +15777,7 @@ clavicular
 clavicularium
 claviculate
 chahars
+counterstand
 claviculus
 clavier
 clavierist
@@ -27139,7 +27140,6 @@ counterspies
 counterspying
 counterstain
 counterstamp
-counterstand
 counterstatement
 counterstatute
 counterstep
