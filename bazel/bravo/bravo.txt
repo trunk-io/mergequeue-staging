@@ -10264,6 +10264,7 @@ blader
 blades
 bladesmith
 bladewise
+bookbinding
 blady
 bladygrass
 blading
@@ -12657,7 +12658,6 @@ bookbindery
 baianism
 bookbinderies
 bookbinders
-bookbinding
 bookboard
 bookcase
 bookcases

@@ -8113,7 +8113,6 @@ epirrhematic
 epirrheme
 episarcine
 episarkine
-episcenia
 episclera
 episcleral
 episcleritis
@@ -10199,6 +10198,7 @@ eternising
 eternity
 eternities
 eternization
+episcenia
 eternize
 elflike
 eternized
