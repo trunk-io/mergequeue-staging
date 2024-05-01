@@ -7828,7 +7828,6 @@ dewberry
 dewcap
 dewclawed
 didgeridoo
-dewclaws
 dewcup
 dewdamp
 dewdrop
@@ -17324,6 +17323,7 @@ droning
 droningly
 dronish
 duellistic
+dewclaws
 dronishly
 dronishness
 dronkelew
