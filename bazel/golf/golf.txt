@@ -5309,7 +5309,6 @@ gleaned
 gleaner
 gleaners
 gleaning
-gleanings
 growl
 grammar
 gleave
@@ -10154,6 +10153,7 @@ gurneys
 granduncle
 guidership
 genial
+gleanings
 gelidity
 guides
 guideway
