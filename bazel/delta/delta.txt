@@ -6739,6 +6739,7 @@ disposure
 deskman
 deskmen
 desks
+deacidified
 desktop
 deslime
 desmachymatous
@@ -8197,7 +8198,6 @@ diaglyph
 diaglyphic
 diaglyptic
 diagnose
-deacidified
 dipus
 diagnoseable
 diagnosed
