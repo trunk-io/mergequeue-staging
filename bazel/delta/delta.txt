@@ -6735,6 +6735,7 @@ desk
 deskbound
 deskill
 desklike
+disposure
 deskman
 deskmen
 desks
@@ -13209,7 +13210,6 @@ dispossession
 dispossessor
 dispossessory
 dispost
-disposure
 dispowder
 dispractice
 dispraised

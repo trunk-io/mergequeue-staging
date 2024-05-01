@@ -19384,7 +19384,6 @@ colonize
 colonized
 colonizer
 colonizers
-colonizing
 colonnade
 colonnaded
 colonnades
@@ -23797,6 +23796,7 @@ contrasty
 curativeness
 contrastimulant
 contrastimulus
+colonizing
 contrasting
 constringency
 contrastingly
