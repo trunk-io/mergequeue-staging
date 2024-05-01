@@ -8340,7 +8340,6 @@ epitheliomuscular
 epitheliosis
 epitheliotoxin
 earthshaker
-epithelium
 epitheliums
 epithelize
 epitheloid
@@ -11825,6 +11824,7 @@ exterritoriality
 exanthema
 exanthematic
 exanthems
+epithelium
 ecclesiasticalness
 espionage
 emberiza

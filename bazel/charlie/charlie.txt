@@ -3077,6 +3077,7 @@ componentwise
 characterizing
 capistrate
 capita
+curvilinearity
 catenated
 capital
 capitaldom
@@ -31604,7 +31605,6 @@ curvilinead
 curvilineal
 carpingly
 curvilinear
-curvilinearity
 curvilinearly
 curvimeter
 curvinervate
