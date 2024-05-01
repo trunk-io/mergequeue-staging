@@ -1722,6 +1722,7 @@ abrased
 accordionists
 accordions
 accords
+axilemmata
 accorporation
 abiders
 accost
@@ -25082,7 +25083,6 @@ axil
 axile
 axilemma
 axilemmas
-axilemmata
 axillae
 axillant
 atomician
