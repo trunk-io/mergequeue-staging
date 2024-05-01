@@ -9380,7 +9380,6 @@ alpestrine
 autotype
 alpha
 alphabet
-alphabetary
 alphabetarian
 anhalonin
 alphabeted
@@ -24910,6 +24909,7 @@ awaynesses
 aways
 await
 awaited
+alphabetary
 awaiter
 awaiters
 awaiting

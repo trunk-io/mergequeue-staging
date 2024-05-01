@@ -4396,7 +4396,6 @@ epistolist
 enamorado
 enamorate
 enamorato
-enamored
 enamoring
 ennage
 enamorment
@@ -13582,6 +13581,7 @@ extenuates
 extenuating
 extenuatingly
 extenuation
+enamored
 enchains
 enables
 extenuative
