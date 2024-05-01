@@ -8535,6 +8535,7 @@ equalizer
 equalizers
 equalizes
 ears
+equimodal
 equaller
 equally
 eudaemons
@@ -8668,7 +8669,6 @@ equilobed
 epidermophytosis
 equilocation
 equilucent
-equimodal
 equimolal
 equimolar
 equinal
