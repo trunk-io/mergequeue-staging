@@ -132,7 +132,6 @@ abashed
 abashedness
 abashes
 abashless
-abashment
 abasia
 abasic
 abasio
@@ -20411,6 +20410,7 @@ arsenization
 arsenobenzene
 arsenobenzol
 arsenobismite
+abashment
 arsenofuran
 arsenohemol
 arsenolite
