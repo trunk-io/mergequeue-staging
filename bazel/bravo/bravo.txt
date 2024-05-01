@@ -5409,7 +5409,6 @@ behallow
 behalves
 behammer
 behang
-behap
 behatted
 behave
 behaved
@@ -14598,6 +14597,7 @@ brassavola
 brassbound
 brasse
 brassey
+behap
 borages
 brasseries
 brasses
