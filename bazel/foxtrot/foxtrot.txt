@@ -3553,6 +3553,7 @@ filching
 filchingly
 fileable
 filecard
+friendlessness
 filechar
 feminisms
 frontstall
@@ -9994,7 +9995,6 @@ friend
 fattener
 friending
 friendless
-friendlessness
 friendly
 friendliest
 friendlike
