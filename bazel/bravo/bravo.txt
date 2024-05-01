@@ -1913,7 +1913,6 @@ bandana
 bandanaed
 bandanna
 brachypodous
-bandannas
 bandar
 bandbox
 bandboxes
@@ -5099,6 +5098,7 @@ befathered
 befavour
 befeather
 befell
+bandannas
 beferned
 befetished
 biocatalyst
