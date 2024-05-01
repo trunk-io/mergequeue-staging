@@ -717,7 +717,6 @@ ecologic
 ecologist
 ecologists
 ecomomist
-enspell
 economese
 ergotinine
 econometer
@@ -9599,6 +9598,7 @@ escots
 escout
 escry
 egads
+enspell
 escribano
 escribe
 escribed

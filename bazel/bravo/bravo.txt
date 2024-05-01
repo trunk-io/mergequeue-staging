@@ -5843,7 +5843,6 @@ berger
 blastomyces
 bellypiece
 bellypinch
-bellipotent
 bellis
 beroll
 bladeless
@@ -6490,6 +6489,7 @@ benzotetrazine
 benzotetrazole
 bullyragger
 benzothiazine
+bellipotent
 benzothiazoline
 benzothiofuran
 benzothiophene
