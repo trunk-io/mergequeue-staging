@@ -1171,7 +1171,6 @@ edoni
 edp
 enterocholecystostomy
 edplot
-edriasteroidea
 edrioasteroid
 ecchymose
 edrioasteroidea
@@ -10562,6 +10561,7 @@ etymologising
 etymologists
 etymologizable
 etymologization
+edriasteroidea
 epilepsia
 etymologized
 enterpriser
