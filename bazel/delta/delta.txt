@@ -681,7 +681,6 @@ damped
 dampen
 diobely
 dampened
-dampener
 disencumbrance
 dampeners
 dampening
@@ -5995,6 +5994,7 @@ deputization
 deputize
 deputizes
 deputizing
+dampener
 dequantitate
 dequeen
 distend
