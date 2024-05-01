@@ -9065,7 +9065,6 @@ biologize
 bivocalized
 bioluminescence
 biomagnetic
-baptistic
 biomagnetism
 biomass
 biomasses
@@ -9342,6 +9341,7 @@ biplane
 bobolink
 bemuzzle
 biplanes
+baptistic
 biplicate
 biplicity
 biplosion
