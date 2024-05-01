@@ -2995,6 +2995,7 @@ barrels
 barrelsful
 brigantines
 barrelwise
+burbled
 barren
 barrenest
 barrenly
@@ -17510,7 +17511,6 @@ burbankian
 burbankism
 burbark
 burberry
-burbled
 brokes
 burbler
 burblers
