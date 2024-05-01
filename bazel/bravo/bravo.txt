@@ -574,6 +574,7 @@ backstring
 bubbies
 backstrip
 backstroke
+benzoic
 backstrokes
 backstroking
 bu
@@ -6440,7 +6441,6 @@ benzofuroquinoxaline
 benzoglycolic
 balancewise
 benzohydrol
-benzoic
 basementless
 benzoylate
 benzoylated

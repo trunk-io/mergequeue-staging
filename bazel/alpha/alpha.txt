@@ -3195,7 +3195,6 @@ ancientest
 actinophone
 atingle
 actinophonic
-actinophore
 actinophorous
 actinophryan
 actinophrys
@@ -7011,6 +7010,7 @@ airns
 airohydrogen
 airometer
 airpark
+actinophore
 airparks
 airphobia
 airplane
