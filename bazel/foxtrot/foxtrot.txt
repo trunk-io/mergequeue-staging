@@ -6483,7 +6483,6 @@ fibrils
 fluorotic
 fluorouracil
 fluors
-fluosilicate
 fluosilicic
 fluotantalic
 fluotitanic
@@ -6932,6 +6931,7 @@ folkmoter
 folkmotes
 folkmots
 folkright
+fluosilicate
 freekirker
 forwearied
 folks
