@@ -3440,7 +3440,6 @@ bixa
 basson
 bassoon
 bedash
-bassoonists
 bassoons
 bremeness
 bassorin
@@ -7462,6 +7461,7 @@ betraise
 betrap
 betravel
 betread
+bassoonists
 betrend
 betrim
 betrinket
