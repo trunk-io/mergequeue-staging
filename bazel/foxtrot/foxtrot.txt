@@ -518,7 +518,6 @@ foreshadows
 florets
 falkland
 fall
-falla
 fallace
 fallacy
 forspeaking
@@ -6592,6 +6591,7 @@ fluvioterrestrial
 fireshaft
 fluvious
 formalization
+falla
 fluviovolcanic
 flux
 fluxation
