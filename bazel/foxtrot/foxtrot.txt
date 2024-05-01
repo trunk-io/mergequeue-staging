@@ -5912,7 +5912,6 @@ floorhead
 flooring
 fluidizing
 floorless
-floorman
 floormen
 floors
 folkways
@@ -10076,6 +10075,7 @@ foxiest
 facks
 fm
 frijole
+floorman
 formularies
 frijolillo
 frijolito
