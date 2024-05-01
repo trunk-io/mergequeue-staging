@@ -10702,6 +10702,7 @@ eucirripedia
 euclase
 euclases
 euclea
+examination
 eucleid
 euclid
 euclidean
@@ -13830,7 +13831,6 @@ extraembryonic
 extraenteric
 extraequilibrium
 extraessential
-examination
 extrafascicular
 extrafine
 extrafloral
