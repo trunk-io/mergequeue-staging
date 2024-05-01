@@ -10192,6 +10192,7 @@ ambrosterol
 ambrotype
 ambulacra
 atterminement
+auriculovertical
 ambulacral
 ambulanced
 ambulancer
@@ -23576,7 +23577,6 @@ auriculotemporal
 apetalousness
 auriculoventricular
 anticreation
-auriculovertical
 auride
 aviaries
 anteroclusion
