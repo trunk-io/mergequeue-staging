@@ -13300,7 +13300,6 @@ cyclitol
 cyclitols
 cyclization
 cyclize
-cyclized
 cyclizes
 cyclizing
 cyclo
@@ -29201,6 +29200,7 @@ crippleness
 crippler
 cripples
 cripply
+cyclized
 crippling
 crips
 crypt
