@@ -1366,7 +1366,6 @@ fatherly
 fructed
 fatherlike
 fathers
-fathership
 faeculence
 fathom
 funic
@@ -5833,6 +5832,7 @@ floccus
 flockbed
 flocker
 flocky
+fathership
 flockiest
 flockings
 flockless
