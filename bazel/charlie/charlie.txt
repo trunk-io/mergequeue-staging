@@ -10451,7 +10451,6 @@ chylaqueous
 chilaria
 clerics
 chilarium
-chilblain
 chilblained
 chilblains
 child
@@ -26662,6 +26661,7 @@ counterintelligence
 counteraddress
 counteradvance
 counteradvantage
+chilblain
 counteradvice
 catagories
 counteraffirm
