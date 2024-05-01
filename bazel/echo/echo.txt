@@ -9113,7 +9113,6 @@ electro
 erythraemia
 erythrean
 erythremia
-erythrin
 erythrina
 erythrine
 erythrinidae
@@ -14184,6 +14183,7 @@ exuviable
 exuviae
 exuvial
 exuviate
+erythrin
 exuviated
 exuviating
 exuvium
