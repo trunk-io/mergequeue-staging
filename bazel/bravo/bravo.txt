@@ -2026,6 +2026,7 @@ bandsman
 bandsmen
 bandstand
 bandstands
+bartering
 braunschweiger
 bandster
 blackfire
@@ -3075,7 +3076,6 @@ barter
 bartered
 barterer
 barterers
-bartering
 bangia
 barters
 barth
