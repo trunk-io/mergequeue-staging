@@ -2250,6 +2250,7 @@ bandon
 banxring
 banzai
 banzais
+bovoid
 baobab
 baobabs
 bap
@@ -13726,7 +13727,6 @@ brecciate
 bovinities
 bovista
 bovld
-bovoid
 bovovaccine
 bovver
 bow
