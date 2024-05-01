@@ -3157,7 +3157,6 @@ capkin
 caplan
 capless
 caplet
-caplets
 caplin
 capling
 caplins
@@ -14125,6 +14124,7 @@ cyprinodont
 cyprinodontes
 cyprinodontoid
 cyprinoid
+caplets
 cyprinoidea
 cyprinoidean
 cypriot

@@ -7246,6 +7246,7 @@ elkdom
 epidemic
 enwwoven
 enzygotic
+explat
 enzym
 enzymatic
 exceed
@@ -8588,7 +8589,6 @@ entoretina
 equianchorate
 evenfall
 equiangularity
-explat
 equiarticulate
 encincture
 equiatomic
