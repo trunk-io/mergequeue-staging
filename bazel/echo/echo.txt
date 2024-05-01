@@ -8540,6 +8540,7 @@ equally
 eudaemons
 equalness
 equals
+exponency
 equangular
 equanimous
 equanimously
@@ -13249,7 +13250,6 @@ eloquentness
 expolish
 expone
 exponence
-exponency
 exponent
 exponential
 exponentially
