@@ -2461,7 +2461,6 @@ canephoroi
 cushag
 canephoros
 canephors
-canephorus
 canephroi
 canepin
 caners
@@ -28187,6 +28186,7 @@ crannies
 compiler
 crannock
 crannoge
+canephorus
 crannoger
 crannogs
 cranreuch
