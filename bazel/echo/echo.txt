@@ -1786,7 +1786,6 @@ eyelets
 eyeletter
 eyeletting
 eyelid
-eyelids
 engining
 eyelight
 eyeliner
@@ -11559,6 +11558,7 @@ evidentially
 evidentiary
 evidently
 evidentness
+eyelids
 evigilation
 evil
 emamelware
