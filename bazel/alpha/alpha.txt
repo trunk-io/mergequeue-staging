@@ -2955,7 +2955,6 @@ acromicria
 acromioclavicular
 acromiocoracoid
 acromiodeltoid
-acromyodi
 acromyodian
 acromyodic
 acromyodous
@@ -22200,6 +22199,7 @@ astr
 astrachan
 astracism
 astraddle
+acromyodi
 astraea
 astraean
 alw
