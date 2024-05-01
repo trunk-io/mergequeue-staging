@@ -1107,6 +1107,7 @@ farreation
 farrel
 furnisher
 farrier
+ferrimagnetically
 fastback
 farriery
 farrieries
@@ -2550,7 +2551,6 @@ ferryhouse
 ferrimagnet
 forewing
 ferrimagnetic
-ferrimagnetically
 ferrimagnetism
 ferryman
 ferring
