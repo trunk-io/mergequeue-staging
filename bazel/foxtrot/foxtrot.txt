@@ -547,7 +547,6 @@ faller
 familarity
 fallfish
 fally
-fallibilism
 fallibility
 fallible
 fractious
@@ -7198,6 +7197,7 @@ footlog
 footloose
 footmanhood
 fascicle
+fallibilism
 footmanry
 footmanship
 frabjous
