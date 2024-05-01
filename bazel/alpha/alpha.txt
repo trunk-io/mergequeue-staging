@@ -2764,7 +2764,6 @@ acquisited
 acquisition
 acquisitional
 acquisitive
-acquisitively
 acquisitiveness
 acquisitor
 acquisitum
@@ -21225,6 +21224,7 @@ ashrafi
 ashram
 ashrama
 ashrams
+acquisitively
 ashstone
 asquint
 asteroidean
