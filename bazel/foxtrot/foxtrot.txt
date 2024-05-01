@@ -3387,7 +3387,6 @@ fifteen
 fifteener
 fifteenfold
 fifteens
-fifteenth
 fifteenthly
 fructiform
 fifteenths
@@ -10240,6 +10239,7 @@ frizers
 folsom
 frizettes
 frizing
+fifteenth
 frizz
 frizzante
 frizzed
