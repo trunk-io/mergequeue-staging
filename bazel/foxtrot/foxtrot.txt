@@ -1256,7 +1256,6 @@ fenchone
 fastbacks
 fastballs
 fleetingly
-fasten
 feral
 fastened
 fastener
@@ -3148,6 +3147,7 @@ ficklest
 ficklety
 folksier
 ficklewise
+fasten
 ficoes
 ficoid
 ficoidaceae
