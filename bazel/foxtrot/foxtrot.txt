@@ -7691,7 +7691,6 @@ foregrounds
 foreguess
 foregut
 ferine
-foreguts
 forehalf
 forehall
 forehand
@@ -9807,6 +9806,7 @@ flourless
 forestick
 frenchness
 frenchwise
+foreguts
 frenchwoman
 frenchwomen
 frenetical
