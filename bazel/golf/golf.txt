@@ -5520,7 +5520,6 @@ glider
 gliders
 grando
 glidewort
-gramashes
 gliding
 glidingly
 gliffy
@@ -10590,6 +10589,7 @@ gunz
 gunzian
 glood
 gup
+gramashes
 guppy
 guileless
 guppies
