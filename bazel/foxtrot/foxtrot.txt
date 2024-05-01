@@ -1674,6 +1674,7 @@ feaked
 feaking
 fogmen
 feal
+flowages
 fealty
 fearable
 fearbabe
@@ -6145,7 +6146,6 @@ fixers
 foredoor
 flowable
 flowage
-flowages
 flowcharted
 flowcharting
 fulicinae
