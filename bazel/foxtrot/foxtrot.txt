@@ -2506,7 +2506,6 @@ ferrated
 firebox
 ferrateen
 ferrates
-ferratin
 ferrean
 foulmouth
 ferredoxin
@@ -5776,6 +5775,7 @@ finder
 flnerie
 flneuse
 flench
+ferratin
 fload
 fizzy
 float
