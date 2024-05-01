@@ -8848,7 +8848,6 @@ fossiform
 fossil
 froideur
 fossilage
-fossilated
 fleabag
 fossildom
 fossiled
@@ -10442,6 +10441,7 @@ frontomental
 foveole
 fronton
 frontonasal
+fossilated
 frontons
 fittiest
 fluoridations
