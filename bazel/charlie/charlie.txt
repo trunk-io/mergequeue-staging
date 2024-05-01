@@ -7179,7 +7179,6 @@ centrifugalisation
 centrifugalise
 centrifugalization
 centrifugalize
-centrifugalized
 centrifugalizing
 centrifugaller
 centrifugally
@@ -17751,6 +17750,7 @@ cocurrent
 cocurricular
 cocus
 cocuswood
+centrifugalized
 cod
 coda
 codable
