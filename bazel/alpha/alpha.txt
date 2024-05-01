@@ -22691,7 +22691,6 @@ atlantodidymus
 atlantomastoid
 atlantoodontoid
 atlantosaurus
-atlases
 atlaslike
 atlatl
 avulsion
@@ -22776,6 +22775,7 @@ atomity
 abrocoma
 atomization
 atomize
+atlases
 atomized
 atomizer
 anticonscription
