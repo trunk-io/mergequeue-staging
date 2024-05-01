@@ -4286,7 +4286,6 @@ grossify
 gymnospermae
 gymnospermal
 gymnospermy
-gate
 gymnospermic
 gunhouse
 gavots
@@ -7184,6 +7183,7 @@ gorgonesque
 gorgoneum
 gorgonia
 grassier
+gate
 gorgoniacea
 galleylike
 gardenesque
