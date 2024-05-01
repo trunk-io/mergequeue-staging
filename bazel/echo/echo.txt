@@ -6390,6 +6390,7 @@ ensignry
 ensigns
 ensilability
 ensilaged
+evenworthy
 ensilages
 ensilaging
 exploiters
@@ -11482,7 +11483,6 @@ eventuated
 eventuating
 eventuations
 evenwise
-evenworthy
 ephectic
 ebriate
 eveque
