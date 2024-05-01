@@ -787,6 +787,7 @@ fanging
 fangle
 fangless
 fingerparted
+footwalk
 fanglet
 fanglike
 fanglomerate
@@ -7261,7 +7262,6 @@ footway
 frontal
 footways
 flannelflower
-footwalk
 forbids
 footwall
 footwalls
