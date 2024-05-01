@@ -582,7 +582,6 @@ fallway
 false
 falsedad
 formby
-fasted
 falseface
 falseheartedness
 falsehood
@@ -4382,6 +4381,7 @@ fishskin
 fishspear
 flumes
 fishtail
+fasted
 fishtailed
 fitten
 fishtails
