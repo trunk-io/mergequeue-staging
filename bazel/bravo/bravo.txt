@@ -5443,6 +5443,7 @@ beheld
 behelp
 behemoth
 behemothic
+beater
 behemoths
 behen
 behenate
@@ -5710,7 +5711,6 @@ belgic
 birdbrain
 belgium
 belgophile
-beater
 belgrade
 belgravia
 bromobenzyl
