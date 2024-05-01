@@ -1495,7 +1495,6 @@ accepted
 acceptee
 acceptees
 accepter
-acceptilate
 acceptilated
 acceptilating
 antimasquer
@@ -4342,6 +4341,7 @@ adoral
 adorant
 adorantes
 adoration
+acceptilate
 adoratory
 adore
 adored
