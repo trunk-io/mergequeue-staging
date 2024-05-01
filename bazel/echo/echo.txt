@@ -3624,7 +3624,6 @@ entitles
 embraid
 episperm
 embrail
-eupyrion
 eyrant
 embrake
 embranchment
@@ -12456,6 +12455,7 @@ exhaustivity
 exhaustless
 eyght
 exhausts
+eupyrion
 exhedrae
 exheredate
 endopleuritic
