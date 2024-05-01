@@ -9699,7 +9699,6 @@ aluminosis
 aluminosity
 aluminothermics
 antaios
-aluminotype
 aluminous
 alumins
 aluminum
@@ -24115,6 +24114,7 @@ autohypnotically
 autohypnotism
 autohypnotization
 autoicous
+aluminotype
 ampongue
 autoignition
 autoimmune
