@@ -546,7 +546,6 @@ familarity
 fallfish
 fally
 fallibility
-fallible
 fractious
 frequented
 fadedly
@@ -6938,6 +6937,7 @@ fathearted
 fibroadenia
 flyingly
 fleech
+fallible
 folksiness
 folksinger
 folksong
