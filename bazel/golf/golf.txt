@@ -2765,7 +2765,6 @@ geniculation
 genies
 genii
 genin
-gestures
 genio
 genioglossal
 gorgeous
@@ -5960,6 +5959,7 @@ glottalize
 gymnurinae
 groundbreaker
 glottalized
+gestures
 glottalizing
 glottic
 geography
