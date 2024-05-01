@@ -553,7 +553,6 @@ dalmatics
 diagrams
 dalt
 dalton
-demounting
 deplore
 daltonian
 dirk
@@ -6232,6 +6231,7 @@ dermatopathology
 dermatopathophobia
 dermatophagus
 dermatophyte
+demounting
 diploneural
 dermatophytic
 dermatophytosis
