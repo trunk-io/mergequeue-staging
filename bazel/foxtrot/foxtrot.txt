@@ -5813,7 +5813,6 @@ flatnose
 flocculator
 floccule
 flocculence
-foreship
 flocculency
 flocculently
 floccules
@@ -11018,6 +11017,7 @@ fumerel
 femalely
 freakery
 fumeroot
+foreship
 fumers
 fritts
 fumet
