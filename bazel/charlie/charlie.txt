@@ -16190,6 +16190,7 @@ cozy
 colima
 consequence
 climbable
+coffeepot
 climbed
 climber
 chirker
@@ -18241,7 +18242,6 @@ coffeehouse
 coffeehoused
 coffeehouses
 coffeeleaf
-coffeepot
 coffeepots
 coffeeroom
 coffees
