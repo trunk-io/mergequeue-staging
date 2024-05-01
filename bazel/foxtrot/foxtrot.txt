@@ -809,6 +809,7 @@ fanjets
 fanleaf
 fanlight
 fringes
+fulminous
 foreseize
 fanlights
 fanmaking
@@ -10959,7 +10960,6 @@ fulminatory
 fulmined
 fulminic
 fulmining
-fulminous
 fulmines
 fulminurate
 fulminuric
