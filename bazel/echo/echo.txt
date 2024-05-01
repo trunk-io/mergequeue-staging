@@ -6291,7 +6291,6 @@ enrobement
 enrober
 enrobers
 enrobes
-enrobing
 enrol
 enroll
 equiparate
@@ -7169,6 +7168,7 @@ enventual
 experimently
 enverdure
 envermeil
+enrobing
 envy
 enviable
 enviableness
