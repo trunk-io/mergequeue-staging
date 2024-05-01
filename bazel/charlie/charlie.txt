@@ -9922,7 +9922,6 @@ chemosterilants
 chemosurgery
 chemosurgical
 constantinople
-chemotactic
 chemotactically
 chemotaxy
 chemotaxis
@@ -19939,6 +19938,7 @@ coming
 comingle
 comings
 comino
+chemotactic
 comique
 comism
 churlhood
