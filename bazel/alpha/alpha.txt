@@ -6890,7 +6890,6 @@ airborn
 airbound
 airbrained
 airbrasive
-aorist
 airbrick
 airbrush
 airbrushed
@@ -13839,6 +13838,7 @@ anomalism
 anomalist
 anomalistic
 anomalistical
+aorist
 anomalistically
 anomalocephalus
 anomaloflorous
