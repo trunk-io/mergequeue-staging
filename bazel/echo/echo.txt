@@ -53,7 +53,6 @@ earfuls
 earhole
 earing
 earings
-earjewel
 earl
 earlap
 earlaps
@@ -6528,6 +6527,7 @@ energies
 entamoeba
 elaeomargaric
 electrojet
+earjewel
 excuss
 entamoebic
 entangleable
