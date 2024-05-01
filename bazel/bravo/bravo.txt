@@ -2871,7 +2871,6 @@ burry
 baronize
 baronized
 baronry
-barons
 briggs
 baronship
 byrls
@@ -16814,6 +16813,7 @@ bugaboos
 bullionless
 bugan
 brisque
+barons
 bugara
 bugbane
 bugbanes
