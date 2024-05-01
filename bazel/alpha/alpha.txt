@@ -12548,6 +12548,7 @@ anecdotalist
 anecdotally
 anecdote
 anecdotes
+autocoid
 anecdotic
 anecdotical
 anecdotically
@@ -23955,7 +23956,6 @@ autoclaving
 autocoder
 autocoenobium
 autocoherer
-autocoid
 autocoids
 autocollimate
 autocollimation
