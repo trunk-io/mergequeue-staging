@@ -3245,7 +3245,6 @@ elvishly
 epiclinal
 elzevir
 expended
-elzevirian
 em
 ektene
 essentials
@@ -3509,6 +3508,7 @@ eringoes
 embodied
 embodier
 embodiers
+elzevirian
 embodies
 eastness
 embodying
