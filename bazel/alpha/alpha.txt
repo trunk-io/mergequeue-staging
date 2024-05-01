@@ -8449,7 +8449,6 @@ alite
 aliter
 alytes
 ality
-alitrunk
 adoptionist
 aliturgic
 aliturgical
@@ -22261,6 +22260,7 @@ atherosclerosis
 analysable
 astrobiology
 astrobiologically
+alitrunk
 astrobiologies
 astrobiologists
 astroblast
