@@ -12376,7 +12376,6 @@ cyclonoscope
 chemitypies
 chromatinic
 chromatioideae
-chromatype
 chromatism
 chromatist
 compares
@@ -25010,6 +25009,7 @@ cementwork
 cordlessly
 chalcone
 cordlike
+chromatype
 cordoba
 cordoban
 cordobas
