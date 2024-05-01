@@ -1771,7 +1771,6 @@ divas
 debater
 debaters
 debates
-debating
 debatingly
 debauch
 debauchedness
@@ -9981,6 +9980,7 @@ dimnesses
 dimolecular
 debriefs
 dimoric
+debating
 dimorph
 dimorphism
 dimorphisms
