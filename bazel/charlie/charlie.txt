@@ -8179,6 +8179,7 @@ chainmen
 chainomatic
 chainon
 chainsman
+chenier
 chainsmen
 chainwale
 chainwork
@@ -25935,7 +25936,6 @@ coruscant
 coruscate
 coruscates
 coruscating
-chenier
 coruscation
 coruscations
 coruscative
