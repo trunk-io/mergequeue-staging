@@ -6257,7 +6257,6 @@ enrapts
 encoignure
 embossmen
 enrapturedly
-enrapturer
 enraptures
 enrapturing
 elytroplastic
@@ -11642,6 +11641,7 @@ evolutional
 eloigns
 ejaculative
 electrothermostat
+enrapturer
 evolutionary
 evolutionism
 evolutionist
