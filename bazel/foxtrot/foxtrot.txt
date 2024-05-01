@@ -6319,7 +6319,6 @@ feriation
 fluing
 fluyt
 foulage
-fluitant
 fluyts
 fluked
 freakful
@@ -10949,6 +10948,7 @@ fulminancy
 floridly
 fulminated
 fulminates
+fluitant
 fulminating
 fulmination
 fehmic

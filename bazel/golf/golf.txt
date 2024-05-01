@@ -3174,7 +3174,6 @@ geonyctitropic
 geonim
 glarier
 ganglion
-geoparallelotropic
 geophagia
 geophagies
 geophagism
@@ -4793,6 +4792,7 @@ glycose
 girondin
 girondism
 gentrice
+geoparallelotropic
 gironny
 girons
 gastrotomic
