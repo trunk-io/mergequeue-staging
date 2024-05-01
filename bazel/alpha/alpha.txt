@@ -1647,7 +1647,6 @@ alfaquins
 accollee
 accombination
 accommodable
-adjutator
 accommodableness
 accommodate
 accommodated
@@ -14448,6 +14447,7 @@ anthine
 anthypnotic
 anthypophora
 anthypophoretic
+adjutator
 anthocarp
 anthocarpous
 anthoceros
