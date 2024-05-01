@@ -22646,7 +22646,6 @@ connoisseur
 connoisseurs
 connotation
 connotational
-connotations
 connotative
 connotatively
 connote
@@ -24843,6 +24842,7 @@ coracles
 coracoacromial
 coracobrachial
 coracocostal
+connotations
 coracoid
 coracoidal
 coracoids
