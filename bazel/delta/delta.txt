@@ -7264,7 +7264,6 @@ deters
 detersiveness
 detest
 detestability
-detestable
 detestableness
 detestation
 detestations
@@ -16023,6 +16022,7 @@ doublets
 doublespeak
 doublet
 doubleted
+detestable
 doublethink
 doublethinking
 doublethought
