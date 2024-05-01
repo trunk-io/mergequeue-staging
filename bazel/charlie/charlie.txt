@@ -13219,7 +13219,6 @@ cicely
 cicelies
 cicero
 ciceronage
-choile
 cicerone
 cicerones
 ciceroni
@@ -15624,6 +15623,7 @@ classifications
 classificator
 classificatory
 classified
+choile
 classifier
 classifiers
 classifies
