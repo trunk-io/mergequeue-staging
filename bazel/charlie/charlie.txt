@@ -8301,7 +8301,6 @@ chalcographic
 chalcographical
 chalcographist
 chalcolite
-chalcolithic
 chalcomancy
 chalcomenite
 chalcon
@@ -12526,6 +12525,7 @@ cassinoid
 chromonematal
 chromonematic
 chromonemic
+chalcolithic
 chromoparous
 chromophage
 chromophane
