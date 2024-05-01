@@ -1275,6 +1275,7 @@ fastgoing
 farnovian
 fasthold
 fasti
+feudaries
 fastidiosity
 fastidious
 fastidiously
@@ -2888,7 +2889,6 @@ feudalized
 feltwort
 feudalizing
 feudary
-feudaries
 feudatary
 feudatory
 filtrating
