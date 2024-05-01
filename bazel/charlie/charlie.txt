@@ -13956,6 +13956,7 @@ cinnamate
 cinnamein
 covert
 cinnamenyl
+coax
 cinnamic
 cinnamyl
 cinnamylidene
@@ -17394,7 +17395,6 @@ coauthority
 coauthors
 coauthorship
 coawareness
-coax
 coaxal
 coaxation
 coaxed
