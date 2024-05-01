@@ -810,7 +810,6 @@ badged
 badgeless
 berrendo
 badgeman
-badger
 badgerbrush
 badgered
 badgerer
@@ -9527,6 +9526,7 @@ birler
 birles
 birlieman
 birling
+badger
 besmoke
 birlings
 birlinn
