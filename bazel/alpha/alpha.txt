@@ -3123,7 +3123,6 @@ actinobacilli
 actinobacillosis
 abactor
 actinobacillus
-actinoblast
 actinobranchia
 aguelike
 actinocarpic
@@ -24901,6 +24900,7 @@ awacs
 awadhi
 adumbratively
 awaft
+actinoblast
 awag
 away
 awayness
