@@ -4469,6 +4469,7 @@ carnivorism
 carnivority
 carnivorous
 carnivorously
+cercopidae
 carnivorousness
 carnose
 carnosin
@@ -7539,7 +7540,6 @@ cercomonas
 cercopid
 continent
 circumoesophagal
-cercopidae
 cercopithecid
 cercopithecidae
 cercopithecus
