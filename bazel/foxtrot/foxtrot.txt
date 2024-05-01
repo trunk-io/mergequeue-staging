@@ -7367,6 +7367,7 @@ forbidals
 forbiddal
 faddiest
 forbidden
+fractions
 forbiddenly
 fissidens
 forbiddenness
@@ -9223,7 +9224,6 @@ fractionize
 fractionized
 fractionizing
 fasciculately
-fractions
 fractiousness
 fractonimbus
 fractostratus
