@@ -8835,6 +8835,7 @@ diccon
 dice
 dehorner
 decolor
+disillusionising
 diceboard
 dicebox
 dicecup
@@ -12407,7 +12408,6 @@ disillusioning
 disillusionise
 disillusionised
 disillusioniser
-disillusionising
 disillusionist
 distressing
 disillusionizer
