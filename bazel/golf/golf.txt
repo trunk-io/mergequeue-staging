@@ -469,7 +469,6 @@ galeres
 galericulate
 galerite
 guffawed
-galerum
 galerus
 gales
 galesaur
@@ -2662,6 +2661,7 @@ generalizer
 generalizers
 gene
 gauffred
+galerum
 generall
 generally
 generalness
