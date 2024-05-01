@@ -5302,7 +5302,6 @@ glead
 guzzler
 gleamed
 gregos
-gleamier
 gleamiest
 gleamily
 gleaminess
@@ -6654,6 +6653,7 @@ goldin
 gongorism
 golding
 goldish
+gleamier
 goldlike
 goldminer
 goldonian
