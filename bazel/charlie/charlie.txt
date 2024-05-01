@@ -7431,7 +7431,6 @@ ceramium
 ceramography
 cathodegraph
 ceramographic
-counterlocking
 cerargyrite
 cerasein
 cerasin
@@ -16481,6 +16480,7 @@ clobbered
 clobberer
 clobbering
 clobbers
+counterlocking
 clochard
 cloche
 cabdriver
