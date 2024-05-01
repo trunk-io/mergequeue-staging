@@ -10909,7 +10909,6 @@ blypes
 blipped
 blipping
 barkeep
-blips
 bolthole
 blirt
 bliss
@@ -17680,6 +17679,7 @@ burgus
 burgware
 burgwere
 beadleism
+blips
 brothier
 burh
 burhead
