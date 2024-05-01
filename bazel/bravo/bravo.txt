@@ -5195,7 +5195,6 @@ befreckle
 butler
 befreeze
 befreight
-befret
 bari
 befretted
 befretting
@@ -5900,6 +5899,7 @@ bellwethers
 bellwind
 bellwine
 bellwood
+befret
 belock
 beloeilite
 belomancy
