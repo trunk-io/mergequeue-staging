@@ -17349,7 +17349,6 @@ ahypnia
 aponeuroses
 aponeurosis
 aponeurositis
-aponeurotic
 alliterations
 aponeurotome
 antivirus
@@ -18794,6 +18793,7 @@ antirennet
 archcity
 archconfraternity
 archconfraternities
+aponeurotic
 archconsoler
 anakinetic
 archconspirator

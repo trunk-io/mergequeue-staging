@@ -312,7 +312,6 @@ backbar
 backbear
 bar
 backbearing
-backbeat
 backbeats
 biotechnologies
 bronzier
@@ -3330,6 +3329,7 @@ basiotribe
 biophyte
 basiparaplastin
 basipetal
+backbeat
 basipetally
 basiphobia
 basipodite
