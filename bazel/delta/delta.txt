@@ -8804,7 +8804,6 @@ dibromobenzene
 dibs
 decani
 dibstone
-dibutyl
 dibutyrate
 dactylioglyphtic
 dibutyrin
@@ -11492,6 +11491,7 @@ discomforter
 discomforting
 discomfortingly
 discomforts
+dibutyl
 discomycete
 debel
 discomycetes

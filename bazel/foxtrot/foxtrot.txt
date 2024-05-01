@@ -1142,7 +1142,6 @@ fascia
 feudally
 fascias
 fasciate
-fasciated
 fasciately
 fasciation
 fascicled
@@ -8868,6 +8867,7 @@ fossillike
 fossilogy
 fossilology
 fossilological
+fasciated
 frosty
 foolhardiest
 fittedness
