@@ -2666,7 +2666,6 @@ coling
 canonical
 canonicalization
 canonicalize
-canonicalized
 canonicalizes
 canonicalizing
 congealer
@@ -23762,6 +23761,7 @@ contrapuntist
 contrapunto
 contraregular
 contraregularity
+canonicalized
 contraremonstrance
 contrarevolutionary
 contrary
