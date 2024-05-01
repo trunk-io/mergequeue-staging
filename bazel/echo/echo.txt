@@ -1185,7 +1185,6 @@ educable
 educand
 espathate
 eluviate
-educatable
 educate
 educated
 educatedly
@@ -6119,6 +6118,7 @@ enneateric
 enneatical
 ennerve
 emptiers
+educatable
 ennew
 ennia
 elamp
