@@ -7456,7 +7456,6 @@ betrayal
 betrayals
 bequeathment
 betrayer
-betrayers
 betraying
 betrail
 bastardising
@@ -13568,6 +13567,7 @@ boundless
 boundedly
 boundedness
 bounden
+betrayers
 bounder
 bounderishly
 bounders
