@@ -1547,6 +1547,7 @@ deadlocking
 demitasses
 deadlocks
 deadman
+derider
 deadmelt
 deadmen
 deadness
@@ -6112,7 +6113,6 @@ derham
 deric
 deride
 derided
-derider
 disembargoed
 dolomites
 deriding
