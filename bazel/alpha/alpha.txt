@@ -17201,7 +17201,6 @@ apocopated
 apocopating
 apocopation
 apocope
-apocopic
 apocrenic
 apocrine
 apocryph
@@ -21260,6 +21259,7 @@ asilidae
 asyllabia
 abashing
 asylums
+apocopic
 asilus
 asymbiotic
 asymbolic
