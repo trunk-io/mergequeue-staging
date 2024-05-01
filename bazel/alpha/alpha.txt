@@ -8753,7 +8753,6 @@ allergenicity
 allergy
 allergia
 allergies
-auricularias
 allergin
 allergins
 attractableness
@@ -12801,6 +12800,7 @@ asperse
 angelonia
 angelophany
 angelophanic
+auricularias
 angelot
 anthropurgic
 angels
