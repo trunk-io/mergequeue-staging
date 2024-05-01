@@ -10532,7 +10532,6 @@ chylifaction
 chylifactive
 chylifactory
 crosslet
-chyliferous
 chylify
 chylific
 chylification
@@ -24983,6 +24982,7 @@ cordialize
 cordially
 cordialness
 cordials
+chyliferous
 cordycepin
 cordiceps
 communicator
