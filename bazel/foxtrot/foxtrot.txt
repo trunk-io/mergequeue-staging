@@ -1396,6 +1396,7 @@ fatigability
 fatigable
 fatigableness
 froise
+freightliner
 flagrante
 fatigate
 fructus
@@ -6092,7 +6093,6 @@ flotsam
 flotsams
 fortyfive
 froust
-freightliner
 flotsan
 foaling
 flotson

@@ -5918,7 +5918,6 @@ cathexis
 cathin
 cathine
 cathinine
-cathion
 cathisma
 cathismata
 cathodal
@@ -12401,6 +12400,7 @@ chromatocyte
 chromatogenous
 chromatogram
 chromatograph
+cathion
 confidentiality
 chromatography
 chiropody
