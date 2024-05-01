@@ -13683,6 +13683,7 @@ banqueteer
 bugre
 bouteloua
 baseliner
+buckskins
 bouteria
 bouteselle
 boutylka
@@ -16628,7 +16629,6 @@ buckshot
 buckshots
 buckskin
 buckskinned
-buckskins
 buckstay
 buckstone
 bucktail
