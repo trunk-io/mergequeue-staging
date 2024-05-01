@@ -2973,7 +2973,6 @@ barre
 bangles
 barred
 barrel
-barrelage
 barreled
 bowmaker
 barreleyes
@@ -12825,6 +12824,7 @@ balcony
 boost
 bioclimatology
 booster
+barrelage
 boosters
 blickie
 boosting
