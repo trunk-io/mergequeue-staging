@@ -11777,7 +11777,6 @@ divinations
 discriminably
 discriminal
 discriminant
-discriminantal
 discriminate
 discriminately
 discriminateness
@@ -18292,6 +18291,7 @@ duodenitis
 duodenocholangitis
 duodenocholedochotomy
 duodecahedron
+discriminantal
 defossion
 duodenocystostomy
 duodenoenterostomy
