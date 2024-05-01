@@ -13165,7 +13165,6 @@ anhidrosis
 anhidrotic
 algraphic
 anhydrotic
-anhydrous
 anhydrously
 anhydroxime
 anhima
@@ -20332,6 +20331,7 @@ arrogates
 arrogating
 arrogatingly
 anoxyscope
+anhydrous
 arrogation
 acone
 arrogations
