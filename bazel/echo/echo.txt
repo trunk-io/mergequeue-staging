@@ -1600,7 +1600,6 @@ egma
 ego
 egocentrically
 egocentricity
-egocentricities
 egocentrism
 extacie
 egocerus
@@ -4659,6 +4658,7 @@ enchyma
 eloquently
 eburneous
 exquisitively
+egocentricities
 espying
 enchymatous
 escapements
