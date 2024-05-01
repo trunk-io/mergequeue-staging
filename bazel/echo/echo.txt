@@ -6412,7 +6412,6 @@ ensisternal
 ethylenic
 ensisternum
 enskied
-estop
 enskies
 enskying
 exterioration
@@ -11938,6 +11937,7 @@ enomoty
 excelling
 excelse
 excelsin
+estop
 excelsior
 earnie
 excentral
