@@ -18177,7 +18177,6 @@ apteroid
 apterous
 aptest
 aptyalism
-aptian
 aptiana
 aptychus
 aptitude
@@ -23327,6 +23326,7 @@ anticreator
 auditorily
 auditorium
 addition
+aptian
 auditoriums
 auditors
 auditorship
