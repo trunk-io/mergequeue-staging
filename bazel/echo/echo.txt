@@ -2961,7 +2961,6 @@ eo
 evangelistary
 emplore
 elinguate
-elinguated
 elinguating
 electrotypic
 elinguation
@@ -10586,6 +10585,7 @@ etiolation
 etiolize
 etiology
 etiological
+elinguated
 exteriorised
 eruciform
 etiologist
