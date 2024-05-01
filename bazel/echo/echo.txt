@@ -4453,7 +4453,6 @@ esmayle
 enarthrosis
 evacuates
 enascent
-enatant
 enates
 enatic
 enations
@@ -9381,6 +9380,7 @@ erubescence
 erubescent
 eventerate
 erubescite
+enatant
 eruca
 erucin
 erucivorous
