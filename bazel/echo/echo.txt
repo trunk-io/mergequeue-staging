@@ -8400,7 +8400,6 @@ epitrite
 epitrope
 epitrophy
 epitrophic
-epituberculous
 exculpative
 epiural
 extradecretal
@@ -10543,6 +10542,7 @@ etiam
 etym
 enamelware
 etymic
+epituberculous
 etymography
 etymologer
 etymology
