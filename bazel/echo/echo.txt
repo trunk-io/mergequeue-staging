@@ -3429,7 +3429,6 @@ endocondensation
 embetter
 epees
 embezzle
-embezzled
 embezzlement
 etiologies
 echeloning
@@ -12576,6 +12575,7 @@ existentialism
 existentialist
 existentialistic
 enteropneustal
+embezzled
 existentialistically
 existentialists
 existentialize
