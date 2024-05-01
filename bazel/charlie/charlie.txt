@@ -6310,7 +6310,6 @@ crocanthemum
 cavae
 cavaedia
 cavaedium
-cavayard
 chlordane
 caval
 cavalcade
@@ -23711,6 +23710,7 @@ contrail
 contrails
 contraindicant
 contraindicate
+cavayard
 ciliospinal
 contraindicated
 creamcake
