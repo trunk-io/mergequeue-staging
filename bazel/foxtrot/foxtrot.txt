@@ -32,7 +32,6 @@ fabricates
 fabrication
 fabrications
 fabricative
-fabricators
 fabricatress
 fabricature
 fabrile
@@ -10699,6 +10698,7 @@ fictitious
 frument
 frumentaceous
 frumentarious
+fabricators
 frumentation
 forestay
 frumenty
