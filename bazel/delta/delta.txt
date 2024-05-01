@@ -8677,7 +8677,6 @@ diplographic
 diathesis
 diathetic
 diatom
-dozes
 diatoma
 diatomaceae
 diatomacean
@@ -8692,6 +8691,7 @@ desmonosology
 diatomite
 dishelming
 diatomous
+dozes
 debilitant
 diatoms
 diatonic
