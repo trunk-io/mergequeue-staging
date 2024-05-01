@@ -2307,6 +2307,7 @@ epistroma
 electrobus
 excurvature
 electrocapillary
+essency
 electrocapillarity
 electrocardiogram
 electrocardiograms
@@ -10721,7 +10722,6 @@ euthenics
 eucryphiaceous
 eucrystalline
 eucrite
-essency
 eucrites
 entamebic
 euctical
