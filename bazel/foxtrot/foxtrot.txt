@@ -3309,7 +3309,6 @@ fieldish
 filmizing
 fieldleft
 fretfulness
-fieldman
 firefanging
 fieldmen
 fieldmice
@@ -10749,6 +10748,7 @@ flashness
 frustulum
 frustum
 frustums
+fieldman
 frutage
 frutescence
 frized
