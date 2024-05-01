@@ -793,6 +793,7 @@ badawi
 badaxe
 badchan
 badder
+briquetted
 badderlocks
 beggarliness
 baddest
@@ -3611,7 +3612,6 @@ birthdom
 bathing
 bathyplankton
 bathyscaph
-briquetted
 bathyscaphes
 bathyseism
 bathysmal
