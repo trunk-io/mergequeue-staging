@@ -9968,7 +9968,6 @@ digonal
 dimly
 dimmed
 dimmedness
-dimmer
 dimmers
 dimmest
 dimmet
@@ -11266,6 +11265,7 @@ discantus
 discapacitate
 downgrowth
 discard
+dimmer
 discardable
 discarded
 drainageway
