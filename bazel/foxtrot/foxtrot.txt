@@ -601,7 +601,6 @@ falsificate
 falsification
 falsificator
 falsified
-furor
 finickier
 fiard
 falsifiers
@@ -1226,6 +1225,7 @@ fashion
 fascinate
 fashionability
 fashionable
+furor
 fashionableness
 foggers
 fashionably
