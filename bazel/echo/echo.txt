@@ -1233,6 +1233,7 @@ edwards
 endocentric
 endopolyploidy
 edwardsiidae
+erythropoietin
 edwin
 edwina
 ee
@@ -9186,7 +9187,6 @@ erythropia
 erythropoiesis
 erythropoietic
 entwining
-erythropoietin
 erythropsin
 exploding
 erythrose
