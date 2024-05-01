@@ -2776,7 +2776,6 @@ barmote
 barms
 barmskin
 barn
-barnabas
 barnaby
 barnacle
 barnacled
@@ -6436,6 +6435,7 @@ biozone
 benzofuroquinoxaline
 benzoglycolic
 balancewise
+barnabas
 benzohydrol
 basementless
 benzoylate
