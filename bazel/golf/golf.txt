@@ -3561,7 +3561,6 @@ garnisher
 glebal
 gesneriaceae
 gesneriaceous
-gesnerian
 gess
 graypate
 gangliated
@@ -6430,6 +6429,7 @@ goban
 gnocchi
 gobang
 girl
+gesnerian
 gobans
 gobbe
 greenwoods
