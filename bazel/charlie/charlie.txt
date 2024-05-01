@@ -21498,7 +21498,6 @@ concocts
 chilostomata
 concolor
 concolorous
-concolour
 carraran
 concomitance
 concomitancy
@@ -23503,6 +23502,7 @@ conticent
 codded
 conjoins
 contignate
+concolour
 contignation
 contiguity
 contiguous
