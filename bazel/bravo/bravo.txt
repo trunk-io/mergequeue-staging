@@ -8712,7 +8712,6 @@ billposting
 bills
 billsticker
 billtong
-bilobate
 bilobated
 bilobe
 bilobed
@@ -15238,6 +15237,7 @@ bridled
 bumbarge
 bridleless
 bridler
+bilobate
 bridlers
 bridles
 bridlewise
