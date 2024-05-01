@@ -3149,6 +3149,7 @@ else
 estus
 entailing
 endemic
+ethnobotany
 episporangium
 elsehow
 elseways
@@ -10448,7 +10449,6 @@ ethnish
 ethnize
 ethnobiology
 ethnobiological
-ethnobotany
 ethnobotanist
 everlastingness
 ethnocentric
