@@ -8312,7 +8312,6 @@ biformed
 berthage
 bhaga
 biformity
-bifront
 boltspreet
 bifronted
 bifrost
@@ -10217,6 +10216,7 @@ blackroot
 blacks
 blackshirt
 blackshirted
+bifront
 blacksmith
 blacksmiths
 blacksnake
