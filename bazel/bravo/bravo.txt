@@ -3565,7 +3565,6 @@ batful
 bordeaux
 bathe
 batheable
-belduque
 bathed
 barbulate
 bather
@@ -13142,6 +13141,7 @@ borsholder
 borsht
 borshts
 borstals
+belduque
 borty
 borts
 bortsch
