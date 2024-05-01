@@ -4179,6 +4179,7 @@ euthymy
 empiristic
 empyromancy
 emplace
+equangular
 emplaced
 exacum
 emplacement
@@ -8556,7 +8557,6 @@ eudaemons
 equalness
 equals
 exponency
-equangular
 equanimous
 equanimously
 equanimousness
