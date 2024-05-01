@@ -5202,7 +5202,6 @@ glassen
 glassfish
 glassful
 glassfuls
-glasshouses
 glassy
 glassie
 gravelstone
@@ -9709,6 +9708,7 @@ gymnodont
 grusinian
 grundsil
 grunerite
+glasshouses
 grungy
 grungier
 grungiest
