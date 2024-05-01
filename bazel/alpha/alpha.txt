@@ -10384,7 +10384,6 @@ audio
 americanizer
 americanizes
 americanizing
-americanly
 americanoid
 americans
 americanum
@@ -18332,6 +18331,7 @@ aquincubital
 aquinist
 aquintocubital
 armour
+americanly
 aquintocubitalism
 aquiparous
 aquitanian
