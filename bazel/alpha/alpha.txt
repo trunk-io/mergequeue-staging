@@ -5309,7 +5309,6 @@ affectable
 affectate
 affectation
 affectationist
-affectations
 affected
 affectedly
 astigmia
@@ -8470,6 +8469,7 @@ alkahestical
 alkahests
 alkaid
 alkalamide
+affectations
 alkalemia
 alkalescence
 alkalescency

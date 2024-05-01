@@ -15979,7 +15979,6 @@ clepsine
 clept
 cleptobioses
 cleptobiosis
-cleptobiotic
 cleptomaniac
 clerestory
 clerestories
@@ -29475,6 +29474,7 @@ crystalloidal
 crystallology
 crystalloluminescence
 crystallometry
+cleptobiotic
 crystallometric
 crystallophyllian
 crystallophobia
