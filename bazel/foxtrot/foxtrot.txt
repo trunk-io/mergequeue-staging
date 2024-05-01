@@ -5100,7 +5100,6 @@ flatmen
 flats
 fervencies
 flatted
-flattened
 floodgates
 flattening
 flattercap
@@ -10608,6 +10607,7 @@ fenestrae
 fructiferous
 ferneries
 fructiferously
+flattened
 fructify
 fornical
 fructification
