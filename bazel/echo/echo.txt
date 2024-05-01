@@ -3036,7 +3036,6 @@ elkwood
 ell
 emm
 ella
-equipoises
 ellagate
 ellagic
 ellan
@@ -9419,6 +9418,7 @@ eruptions
 eruptive
 estrous
 essart
+equipoises
 eruptively
 eruptiveness
 enterolithiasis
