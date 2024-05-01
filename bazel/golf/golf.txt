@@ -1770,7 +1770,6 @@ geomedicine
 gastroenteroanastomosis
 gastroenterocolitis
 gastroenterocolostomy
-gastroenterology
 gastroenterologic
 gastroenterological
 gonfalcon
@@ -8872,6 +8871,7 @@ gadge
 gridded
 gridder
 gyration
+gastroenterology
 griddle
 giddiness
 griddler
