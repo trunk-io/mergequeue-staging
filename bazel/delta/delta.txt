@@ -3661,7 +3661,6 @@ degrease
 degreased
 degreaser
 degreases
-decadescent
 degreasing
 degreed
 degreeing
@@ -13547,6 +13546,7 @@ dissertational
 dissertationist
 dissertative
 dissertator
+decadescent
 disserted
 desynchronizing
 disserts
