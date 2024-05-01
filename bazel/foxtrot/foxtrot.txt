@@ -2049,7 +2049,6 @@ felicitation
 fatihah
 finetop
 felicitator
-felicitators
 felicity
 felicitous
 felicitously
@@ -11280,6 +11279,7 @@ funnels
 funny
 feneration
 funnier
+felicitators
 funniest
 funnily
 fenceful
