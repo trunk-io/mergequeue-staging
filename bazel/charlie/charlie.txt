@@ -5976,7 +5976,6 @@ catlings
 catlinite
 catlins
 catmalison
-catmint
 castrensial
 catmints
 catnache
@@ -13825,6 +13824,7 @@ cindy
 cindie
 cine
 centerless
+catmint
 cineangiocardiography
 cineangiocardiographic
 cineangiographic
