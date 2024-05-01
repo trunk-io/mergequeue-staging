@@ -1449,7 +1449,6 @@ accelerant
 accelerated
 arsenic
 acceleratedly
-accelerates
 accelerating
 accelerative
 acceleratory
@@ -5825,6 +5824,7 @@ agacant
 agacante
 arylated
 agacella
+accelerates
 agacerie
 antedorsal
 agaces
