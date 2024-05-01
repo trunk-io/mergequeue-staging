@@ -2690,7 +2690,6 @@ generatively
 generativeness
 generator
 generators
-gynaecologic
 generatrices
 generic
 generical
@@ -6051,6 +6050,7 @@ guruships
 glucinum
 glucinums
 gluck
+gynaecologic
 glucocorticoid
 gonad
 glucofrangulin
