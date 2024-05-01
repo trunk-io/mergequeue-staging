@@ -2455,7 +2455,6 @@ acidogenic
 acidoid
 acidolysis
 acidology
-acidometer
 acidometry
 acidophil
 acidophile
@@ -9971,6 +9970,7 @@ amazon
 amazona
 amazonian
 amazonism
+acidometer
 aureous
 amazonite
 amazons
