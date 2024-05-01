@@ -1186,7 +1186,6 @@ dassent
 dendrobe
 diiamb
 dassy
-decolouring
 dastardy
 dastardize
 dastardly
@@ -5946,6 +5945,7 @@ depths
 disfigures
 depthways
 depthwise
+decolouring
 depucel
 distritos
 drear
