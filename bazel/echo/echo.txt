@@ -594,6 +594,7 @@ echinostomatidae
 echinostome
 echinulate
 echinulated
+endotheliocyte
 elaphine
 echinulation
 echinus
@@ -5373,7 +5374,6 @@ elamitic
 epigoneion
 endothelial
 embroche
-endotheliocyte
 endothelioid
 endotheliolytic
 endothelioma
