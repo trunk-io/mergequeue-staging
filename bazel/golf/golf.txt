@@ -1760,7 +1760,6 @@ geochemically
 gastroenteric
 gastroenteritic
 geomedicine
-glucidic
 gastroenteroanastomosis
 gastroenterocolitis
 gastroenterocolostomy
@@ -8140,6 +8139,7 @@ grapheme
 graphemes
 graphemic
 graphemically
+glucidic
 graphemics
 graphy
 graphical
