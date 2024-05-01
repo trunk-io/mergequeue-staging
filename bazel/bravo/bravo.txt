@@ -7247,7 +7247,6 @@ barbone
 backfiller
 bestill
 besting
-bestirred
 bestirs
 bloodroots
 burthen
@@ -8827,6 +8826,7 @@ bindings
 bindis
 brazenfacedness
 bindle
+bestirred
 bindles
 bindlet
 bestializes
