@@ -7638,7 +7638,6 @@ alcahest
 alcahests
 acroama
 alcaiceria
-alcaics
 alcaid
 ankylorrhinia
 alcaide
@@ -8305,6 +8304,7 @@ alienages
 alienate
 alienated
 alienates
+alcaics
 alienation
 alienator
 aliency
