@@ -1250,7 +1250,6 @@ felonwood
 federarie
 fassalite
 fast
-fenchone
 fastbacks
 fastballs
 fleetingly
@@ -1945,6 +1944,7 @@ feedstuff
 fourniture
 feedstuffs
 feedway
+fenchone
 feedwater
 feeing
 feel
