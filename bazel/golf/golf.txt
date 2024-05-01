@@ -1401,7 +1401,6 @@ gargoylism
 gargol
 garhwali
 garial
-garibaldi
 gastrins
 garibaldian
 garigue
@@ -6525,6 +6524,7 @@ goffle
 gog
 gisler
 gogga
+garibaldi
 gnomist
 geopolitik
 glossoplegia
