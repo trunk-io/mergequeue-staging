@@ -4438,6 +4438,7 @@ earthborn
 enantiosis
 enantiotropy
 enantiotropic
+exometritis
 enapt
 enarbor
 engraving
@@ -12699,7 +12700,6 @@ exolete
 exolution
 exolve
 epigrammatising
-exometritis
 exomis
 exomologesis
 exomorphic
