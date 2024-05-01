@@ -2872,7 +2872,6 @@ decurrency
 decurrencies
 dodos
 decurrent
-decursive
 detenus
 decursively
 decurt
@@ -17833,6 +17832,7 @@ ductless
 ductor
 defaced
 debat
+decursive
 disimbitter
 ducts
 ductule
