@@ -7433,7 +7433,6 @@ deuteranopia
 deuteranopic
 deuterate
 deuteration
-deuteric
 dogcarts
 deuteride
 deuterium
@@ -17146,6 +17145,7 @@ drink
 drinkability
 drinkable
 drinkably
+deuteric
 discriminations
 drinker
 dulcifluous
