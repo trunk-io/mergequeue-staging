@@ -9194,6 +9194,7 @@ charwoman
 charwomen
 chasable
 chaseable
+consortion
 chased
 chasers
 chases
@@ -20901,7 +20902,6 @@ corrodingly
 complected
 composts
 composure
-consortion
 compotation
 compotationship
 comedies
