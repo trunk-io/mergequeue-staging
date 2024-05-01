@@ -6724,6 +6724,7 @@ golpe
 goma
 gomari
 gomarian
+grazable
 gomart
 gomashta
 gomasta
@@ -8509,7 +8510,6 @@ graviton
 gravitons
 gravure
 gravures
-grazable
 gossameriness
 graze
 grazed
