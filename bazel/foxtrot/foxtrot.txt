@@ -6500,6 +6500,7 @@ flus
 flush
 flushable
 flushboard
+freedstool
 flushed
 flusher
 flusherman
@@ -8998,7 +8999,6 @@ factorial
 fountainlike
 feebling
 fermentitious
-freedstool
 filicite
 fountainous
 fountainously
