@@ -9316,6 +9316,7 @@ biphasic
 biphenyl
 biphenylene
 biphenyls
+boomerang
 biphenol
 bipinnaria
 bipinnariae
@@ -10543,7 +10544,6 @@ blatti
 beauts
 blattid
 blattidae
-boomerang
 blattiform
 blatting
 blattodea
