@@ -4922,6 +4922,7 @@ aerarian
 aerarium
 aerate
 aerated
+armitas
 aerates
 aerating
 aeration
@@ -19997,7 +19998,6 @@ armistice
 allgood
 armistices
 armit
-armitas
 armyworm
 allothigenetic
 armyworms
