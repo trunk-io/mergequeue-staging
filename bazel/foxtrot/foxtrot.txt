@@ -837,7 +837,6 @@ fantails
 fantasy
 funori
 fantasia
-fantasias
 frieze
 figgle
 foredawn
@@ -11381,6 +11380,7 @@ furial
 furiant
 furibund
 furicane
+fantasias
 furied
 furies
 furify
