@@ -1332,7 +1332,6 @@ fatalness
 flap
 fatback
 flavorsomeness
-fatbacks
 fatbirds
 fate
 fated
@@ -11363,6 +11362,7 @@ feued
 furfuramid
 furfuran
 furfurans
+fatbacks
 furfuration
 furfures
 forebode

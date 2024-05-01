@@ -6901,7 +6901,6 @@ gonococcoid
 glumaceae
 gonocoel
 gonocoele
-gonof
 gonofs
 gonogenesis
 gonomere
@@ -10508,6 +10507,7 @@ gunmaker
 gunman
 gynopara
 gunmanship
+gonof
 genesis
 gunmetals
 gunnage
