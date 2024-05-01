@@ -1940,7 +1940,6 @@ feedhead
 feeding
 fdname
 feedings
-feedingstuff
 feedlot
 frosk
 fibratus
@@ -8735,6 +8734,7 @@ fortnightlies
 fortnights
 fortranh
 frightenable
+feedingstuff
 fortress
 fortresses
 fortressing
