@@ -2544,7 +2544,6 @@ gemmologists
 gemmulation
 gemmule
 graniferous
-gemological
 gestening
 gemologies
 gemologist
@@ -9445,6 +9444,7 @@ glossematic
 groundsel
 groundsheet
 groundsill
+gemological
 galactolytic
 groundspeed
 gigantolite
