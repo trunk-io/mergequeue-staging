@@ -12447,7 +12447,6 @@ chromdiagnosis
 chrome
 chromed
 chromene
-chromeplate
 chromeplated
 chromeplating
 chromes
@@ -12900,6 +12899,7 @@ churchmanship
 churchmaster
 churchmen
 churchreeve
+chromeplate
 churchscot
 churchway
 churchward
