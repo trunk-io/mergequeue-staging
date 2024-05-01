@@ -7009,7 +7009,6 @@ destituent
 daystreak
 destitute
 destituted
-destituteness
 disoccident
 destituting
 destitution
@@ -9098,6 +9097,7 @@ denay
 didactive
 didacts
 didal
+destituteness
 didappers
 didascalar
 didascalic
