@@ -4827,7 +4827,6 @@ bedrift
 bedright
 bedrip
 bedrivel
-bedriveling
 bedrivelled
 bedrivels
 bedrizzle
@@ -17838,6 +17837,7 @@ burrfish
 burrgrailer
 burrhead
 burrheaded
+bedriveling
 burrheadedness
 burrhel
 burrier
