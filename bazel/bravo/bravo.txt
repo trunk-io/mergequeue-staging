@@ -7476,7 +7476,6 @@ betrinket
 buckeen
 betroth
 betrothals
-betrothed
 bloodworthy
 begalls
 betrothing
@@ -9382,6 +9381,7 @@ bawdry
 baserunning
 biradial
 biradiate
+betrothed
 biradiated
 biramous
 birational
