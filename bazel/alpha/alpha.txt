@@ -3894,7 +3894,6 @@ adiaphanousness
 adiaphon
 adiaphonon
 adiaphora
-adiaphoral
 adiaphoresis
 adiaphory
 adiaphorism
@@ -19971,6 +19970,7 @@ armigero
 armigeros
 armigerous
 armigers
+adiaphoral
 armil
 armill
 armilla
