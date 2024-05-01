@@ -2161,7 +2161,6 @@ basilissa
 banksian
 banksias
 begad
-banksides
 banksman
 banksmen
 bankweed
@@ -9176,6 +9175,7 @@ bioscopes
 bioscopy
 bioscopic
 bioscopies
+banksides
 biose
 biosensor
 ballyragging
