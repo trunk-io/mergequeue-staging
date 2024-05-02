@@ -3695,7 +3695,6 @@ carbolising
 carbolize
 carbolized
 conjunct
-carbolizes
 carbolizing
 chatterboxes
 carboloy
@@ -20681,6 +20680,7 @@ compitum
 complacence
 complacency
 complacent
+carbolizes
 complacential
 complacentially
 complacently
