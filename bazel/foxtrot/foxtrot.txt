@@ -7815,7 +7815,6 @@ forenews
 forenight
 falsities
 forenoons
-forenote
 forenoted
 forenotion
 flattens
@@ -9035,6 +9034,7 @@ fourer
 fourflusher
 fourflushers
 fourgon
+forenote
 fourhanded
 fourier
 fourierian
