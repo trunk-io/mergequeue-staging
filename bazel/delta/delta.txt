@@ -3359,6 +3359,7 @@ definitiveness
 definitization
 definitize
 delactation
+dispelling
 definitized
 definitizing
 definitor
@@ -12952,7 +12953,6 @@ dispel
 dispellable
 dispelled
 dekagrams
-dispelling
 dorsimedian
 dispells
 dispels
