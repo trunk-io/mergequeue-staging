@@ -347,7 +347,6 @@ faintly
 faintness
 flair
 faints
-faipule
 fair
 fairbanks
 flunkeyize
@@ -8068,6 +8067,7 @@ foreswearing
 foresweat
 fumacious
 foret
+faipule
 foretack
 fumette
 foretackle
