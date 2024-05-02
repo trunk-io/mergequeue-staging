@@ -2478,6 +2478,7 @@ electrolyze
 electrolyzed
 elderberries
 electrolyzer
+elbowpiece
 electrology
 electrological
 electrologist
@@ -6350,7 +6351,6 @@ enscrolled
 enscrolling
 enscrolls
 ensculpture
-elbowpiece
 ense
 enseal
 ensealing

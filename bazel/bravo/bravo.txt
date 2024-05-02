@@ -7548,7 +7548,6 @@ beveler
 bevelers
 blastophore
 bkpt
-beveling
 bevelled
 bevelling
 bevelment
@@ -13324,6 +13323,7 @@ bogatyr
 bother
 bothered
 botherer
+beveling
 brender
 botherheaded
 boxfishes
