@@ -2619,7 +2619,6 @@ fluidram
 fertilely
 fertileness
 fertilisable
-fertilisational
 fertilise
 fertilising
 fertility
@@ -9937,6 +9936,7 @@ friars
 friation
 frib
 fribble
+fertilisational
 fribbleism
 fribblers
 friskle
