@@ -5566,7 +5566,6 @@ frivolizing
 fractionisation
 flyleaves
 flyless
-facia
 flyman
 fluor
 fattable
@@ -11630,6 +11629,7 @@ fusspots
 fustanella
 fustee
 fusteric
+facia
 fioretti
 fustet
 fortunite
