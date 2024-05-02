@@ -20582,7 +20582,6 @@ angster
 arthrobacterium
 arthrobranch
 arthrobranchia
-acoma
 arthrocarcinoma
 arthrochondritis
 arthroclasia
@@ -20671,6 +20670,7 @@ arthrotomies
 arthrotrauma
 arthrous
 adela
+acoma
 arthroxerosis
 arthrozoa
 arthur
