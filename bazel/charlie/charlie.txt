@@ -26601,7 +26601,6 @@ councilmen
 councilor
 councilors
 councilorship
-councils
 councilwomen
 counderstand
 counite
@@ -27713,6 +27712,7 @@ cowtongue
 cowweed
 cowwheat
 cox
+councils
 coxa
 coxal
 coxalgy
