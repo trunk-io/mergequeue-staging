@@ -5043,7 +5043,6 @@ dendrites
 dendritic
 derailer
 dendritical
-dendritiform
 dendrium
 dendrobates
 dendrobatinae
@@ -15198,6 +15197,7 @@ dollarfish
 dollarfishes
 dollarleaf
 dollars
+dendritiform
 doomage
 dollarwise
 deoxyribonucleoprotein
