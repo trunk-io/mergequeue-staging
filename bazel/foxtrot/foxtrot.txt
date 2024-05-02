@@ -7151,6 +7151,7 @@ flatcap
 foothold
 footholds
 foothot
+frutify
 flippantness
 fancifulness
 footy
@@ -10768,7 +10769,6 @@ fruticeta
 fruticetum
 fruticose
 fledge
-frutify
 frwy
 formular
 fdnames
