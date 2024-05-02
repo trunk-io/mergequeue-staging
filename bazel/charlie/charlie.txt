@@ -8729,7 +8729,6 @@ celandine
 chuckawalla
 chantages
 chantant
-chantecler
 chantefable
 chantey
 chanteyman
@@ -17331,6 +17330,7 @@ coastguardman
 chiefly
 coastguardsman
 coastguardsmen
+chantecler
 cognizes
 coasting
 coastings
