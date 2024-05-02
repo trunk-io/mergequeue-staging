@@ -1694,7 +1694,6 @@ goldbug
 gastralgia
 gastralgic
 gastraneuria
-gastrasthenia
 gastrea
 gastreas
 gastrectasia
@@ -9607,6 +9606,7 @@ grudgeons
 glovemen
 grudger
 gussy
+gastrasthenia
 gauntlet
 grudgery
 grudges

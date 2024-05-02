@@ -10156,6 +10156,7 @@ chevaliers
 chevaline
 chevance
 chevaux
+cymbaline
 cantonese
 cheve
 chevee
@@ -13643,7 +13644,6 @@ cymbaleer
 costaea
 cymbaler
 cymbalers
-cymbaline
 cymbalist
 cymbalists
 cymballed
