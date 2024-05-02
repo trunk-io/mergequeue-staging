@@ -2780,7 +2780,6 @@ galbe
 gearboxes
 gynophore
 greyly
-genipa
 grizzle
 gametangia
 glycogen
@@ -7469,6 +7468,7 @@ gove
 govern
 governability
 governable
+genipa
 governableness
 governably
 governail
