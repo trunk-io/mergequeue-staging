@@ -1792,7 +1792,6 @@ featurish
 feaze
 feazed
 feazing
-feazings
 febres
 febricant
 febricitant
@@ -5210,6 +5209,7 @@ flawlessly
 fergusite
 flawlessness
 flivver
+feazings
 footgears
 flawn
 flaws
