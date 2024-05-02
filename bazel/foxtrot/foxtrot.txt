@@ -1558,6 +1558,7 @@ faux
 favaginous
 fortuned
 favel
+filesmith
 favelas
 favelidium
 favella
@@ -3544,7 +3545,6 @@ filenames
 filer
 filers
 filesave
-filesmith
 filesniff
 filespec
 fibro

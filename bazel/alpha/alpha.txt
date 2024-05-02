@@ -2152,7 +2152,6 @@ acetometrically
 acetomorphin
 acetomorphine
 acetonaemia
-acetonaemic
 acetonaphthone
 amphipneust
 acetonation
@@ -11842,6 +11841,7 @@ amberlike
 adermine
 analytical
 alamanni
+acetonaemic
 analytically
 analyticity
 antinational
