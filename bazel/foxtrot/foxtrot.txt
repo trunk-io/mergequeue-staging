@@ -1975,7 +1975,6 @@ fegs
 fernless
 fei
 fey
-feyer
 feretrum
 feif
 feign
@@ -6720,6 +6719,7 @@ foetus
 foetuses
 fofarraw
 fog
+feyer
 fogas
 fogbank
 fogbound
