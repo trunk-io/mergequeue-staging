@@ -4714,7 +4714,6 @@ avenue
 advisal
 advise
 anonang
-advised
 advisedly
 advisedness
 advisee
@@ -7296,6 +7295,7 @@ alabaster
 alabastoi
 alabastos
 alabastra
+advised
 alabastrian
 alabastrine
 alabastrites
