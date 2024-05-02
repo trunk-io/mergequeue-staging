@@ -12724,7 +12724,6 @@ bookman
 bookmark
 bookmarker
 bookmarks
-bookmate
 bookmobile
 blastulas
 bookmobiles
@@ -12886,6 +12885,7 @@ begirdles
 bootmaking
 bootman
 bootprint
+bookmate
 boots
 bootstrapped
 bangalay
