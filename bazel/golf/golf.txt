@@ -6661,7 +6661,6 @@ goldlike
 goldminer
 goldonian
 golds
-goldseed
 goldsmith
 goosepimply
 goldsmithery
@@ -9050,6 +9049,7 @@ gwyniad
 grinner
 grinny
 gwantus
+goldseed
 grinnie
 grins
 griot
