@@ -2933,7 +2933,6 @@ canzones
 canzonet
 canzonets
 canzonetta
-canzoni
 canzos
 caoba
 caodaism
@@ -24934,6 +24933,7 @@ corbiculate
 clerestoried
 corbiculum
 corbie
+canzoni
 corbies
 corbiestep
 corbina
