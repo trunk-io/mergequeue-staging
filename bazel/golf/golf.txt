@@ -2883,6 +2883,7 @@ geysers
 goodhearted
 gentian
 gentiana
+gryphite
 gentianella
 gentians
 gentianwort
@@ -9060,7 +9061,6 @@ gripes
 griphite
 galley
 goniale
-gryphite
 gryphon
 gryphons
 grays
