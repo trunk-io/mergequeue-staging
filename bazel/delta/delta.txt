@@ -807,7 +807,6 @@ danegelt
 dyakisdodecahedron
 dungeon
 danes
-dermititis
 daneweed
 daneweeds
 danewort
@@ -6511,6 +6510,7 @@ dablet
 dorhawk
 descriptives
 descriptivism
+dermititis
 descriptor
 descriptory
 descriptors

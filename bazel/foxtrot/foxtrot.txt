@@ -3549,7 +3549,6 @@ filenames
 filer
 filers
 filesave
-filesmith
 filesniff
 filespec
 fibro
@@ -6158,6 +6157,7 @@ flowerbed
 flowerers
 floweret
 fibrillated
+filesmith
 flowerfly
 flowerful
 floweriest
