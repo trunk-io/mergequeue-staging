@@ -3432,6 +3432,7 @@ adamantine
 adamantinoma
 adamantly
 adamantness
+arty
 adamantoblast
 adamantoblastoma
 adamantoid
@@ -20676,7 +20677,6 @@ arthrozoa
 arthur
 arthurian
 arthuriana
-arty
 artiad
 artichoke
 artichokes
