@@ -22143,7 +22143,6 @@ astigmic
 astigmism
 argonaut
 astigmometer
-astigmometry
 astigmoscope
 astylar
 astilbe
@@ -24262,6 +24261,7 @@ autonitridation
 autonoetic
 anisopodous
 autonomasy
+astigmometry
 autonomy
 autonomic
 amusing
