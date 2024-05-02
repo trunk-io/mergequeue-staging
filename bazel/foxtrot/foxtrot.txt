@@ -1233,7 +1233,6 @@ fashionize
 furiousity
 fashionless
 fashionmonger
-flamers
 forthcome
 fashions
 fashious
@@ -10464,6 +10463,7 @@ frostbitten
 frostbound
 frosted
 fordable
+flamers
 fadging
 frostier
 foamers
