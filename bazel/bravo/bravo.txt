@@ -2124,7 +2124,6 @@ boogymen
 bankcard
 bankcards
 bronchiogenic
-banked
 banker
 burghership
 bewitchments
@@ -15949,6 +15948,7 @@ bronchostenosis
 bronchostomy
 bronchostomies
 bronchotetany
+banked
 bronchotyphus
 bronchotome
 bronchotomy
