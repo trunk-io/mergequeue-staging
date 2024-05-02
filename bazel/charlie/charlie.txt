@@ -9884,7 +9884,6 @@ chemistries
 chemists
 chemitype
 chemitypy
-chemizo
 chemmy
 chemoautotrophy
 chemoautotrophic
@@ -16888,6 +16887,7 @@ clubman
 clubmate
 clubmen
 castorin
+chemizo
 clubmobile
 clubmonger
 clubridden
