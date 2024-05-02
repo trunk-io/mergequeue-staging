@@ -8695,6 +8695,7 @@ channel
 channelbill
 channeled
 channeling
+christhood
 channelization
 channelize
 channelized
@@ -12302,7 +12303,6 @@ christenhead
 christening
 christenmas
 christens
-christhood
 christy
 christiad
 colloque
