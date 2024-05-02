@@ -7253,7 +7253,6 @@ forbids
 footwall
 footwalls
 footwarmer
-firefly
 footweary
 footwears
 footwork
@@ -9920,6 +9919,7 @@ freudian
 freudians
 freudist
 falanaka
+firefly
 fry
 fougade
 friable
