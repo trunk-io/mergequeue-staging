@@ -12576,7 +12576,6 @@ disjunctor
 disjuncts
 dereferences
 disjuncture
-disjune
 disk
 disked
 diskelion
@@ -16820,6 +16819,7 @@ drawgate
 drawglove
 drawing
 drawknife
+disjune
 disjointness
 drawknives
 drawl
