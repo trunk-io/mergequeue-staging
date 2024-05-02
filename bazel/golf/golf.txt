@@ -3338,7 +3338,6 @@ gerendum
 gerent
 gerenuks
 gyral
-gardened
 gerfalcon
 gerful
 gerhardtite
@@ -9613,6 +9612,7 @@ gauntlet
 grudgery
 grudges
 gulas
+gardened
 grudging
 grudgingness
 guaraunan
