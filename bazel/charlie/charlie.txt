@@ -24496,7 +24496,6 @@ colegislator
 copatain
 copataine
 copatentee
-copatriot
 copatron
 copatroness
 contraflow
@@ -29535,6 +29534,7 @@ criticize
 criticized
 criticizer
 criticizers
+copatriot
 criticizing
 criticizingly
 critickin
