@@ -2588,7 +2588,6 @@ barfs
 barful
 bargain
 bargainable
-bargained
 billbugs
 bargainee
 bargainer
@@ -16924,6 +16923,7 @@ bulbel
 bulby
 bulbier
 behaviorism
+bargained
 baloskionaceae
 bulbiferous
 bulbiform

@@ -2760,7 +2760,6 @@ genio
 genioglossal
 gorgeous
 globoids
-genioglossi
 genioglossus
 goas
 geniohyoglossal
@@ -5588,6 +5587,7 @@ glyptotherium
 globeholder
 glires
 gliridae
+genioglossi
 grains
 gliriform
 glis
