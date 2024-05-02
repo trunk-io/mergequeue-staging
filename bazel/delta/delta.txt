@@ -6056,7 +6056,6 @@ deratting
 decrement
 derbend
 derby
-derbies
 diagenetic
 derbylite
 dewax
@@ -13855,6 +13854,7 @@ dropwort
 dypnone
 distils
 distinct
+derbies
 distincter
 distinctify
 distinction
