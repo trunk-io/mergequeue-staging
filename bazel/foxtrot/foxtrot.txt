@@ -8107,7 +8107,6 @@ forethoughted
 forethoughtful
 forethoughtfully
 feu
-forethoughtfulness
 forethrift
 foretime
 foretype
@@ -8653,6 +8652,7 @@ forswearer
 forswearing
 fields
 forswears
+forethoughtfulness
 farmable
 forswornness
 fort
