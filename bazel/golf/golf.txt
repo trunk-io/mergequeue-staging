@@ -3262,7 +3262,6 @@ geotaxes
 geotaxy
 gulches
 gpad
-geotaxis
 geotechnic
 gimmicks
 gyrenes
@@ -7395,6 +7394,7 @@ gimcracks
 goudy
 gouged
 gouger
+geotaxis
 gougers
 gouges
 gruss
