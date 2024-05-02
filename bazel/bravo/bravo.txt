@@ -284,7 +284,6 @@ bedfellow
 bacillarieae
 bacillariophyta
 bacillemia
-bacilli
 bacillian
 bacillicidal
 bacillicide
@@ -16816,6 +16815,7 @@ bugbanes
 bugbear
 bugbeardom
 bugbearish
+bacilli
 bugbite
 bugdom
 bugeye
