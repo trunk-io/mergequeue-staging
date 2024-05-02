@@ -3628,7 +3628,6 @@ degomme
 degorder
 degorge
 degradable
-degradand
 degradation
 degradational
 degradations
@@ -6669,6 +6668,7 @@ designatory
 designed
 designedly
 designedness
+degradand
 designee
 designees
 designer
