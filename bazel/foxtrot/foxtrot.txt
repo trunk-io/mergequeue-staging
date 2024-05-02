@@ -4419,7 +4419,6 @@ fissipedate
 frump
 fabricating
 fissipedia
-fissipedial
 fissipeds
 fissipes
 fissirostral
@@ -8004,6 +8003,7 @@ foresound
 forespake
 footplate
 forespeak
+fissipedial
 forespeaker
 forespecified
 forespencer
