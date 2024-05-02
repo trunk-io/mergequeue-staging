@@ -3173,7 +3173,6 @@ elsholtzia
 elsin
 eodiscid
 elt
-eltrot
 eluant
 enterophthisis
 eluants
@@ -7858,6 +7857,7 @@ erasement
 epignathous
 epigne
 epigon
+eltrot
 epigonal
 epigonation
 epigone
