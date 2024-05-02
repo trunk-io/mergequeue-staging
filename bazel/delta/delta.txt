@@ -9612,7 +9612,6 @@ dihedron
 dihely
 dihelios
 dihelium
-dihexagonal
 dihexahedral
 dihexahedron
 dolichuric
@@ -15822,6 +15821,7 @@ dorsiventral
 depreciations
 dorsiventrality
 dorsiventrally
+dihexagonal
 dorsoabdominal
 dorsoapical
 dorsocaudad

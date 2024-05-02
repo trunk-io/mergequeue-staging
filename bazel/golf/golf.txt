@@ -4976,6 +4976,7 @@ glaciate
 glaciated
 glaciates
 glaciating
+greaseproofness
 glaciation
 glacier
 gook
@@ -8543,7 +8544,6 @@ gorkhali
 greaselessness
 groaners
 greasepaint
-greaseproofness
 greasers
 greases
 greasier
