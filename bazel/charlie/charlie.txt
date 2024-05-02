@@ -6473,7 +6473,6 @@ cazique
 cb
 chervils
 cc
-ccesser
 ccid
 ccitt
 cubage
@@ -12428,6 +12427,7 @@ cnidophobia
 chromatoplasm
 chromatopsia
 chromatoptometer
+ccesser
 chromatoptometry
 chromatoscope
 chromatoscopy
