@@ -2530,6 +2530,7 @@ ferryhouse
 ferrimagnet
 forewing
 ferrimagnetic
+footbath
 ferrimagnetism
 ferryman
 ferring
@@ -7121,7 +7122,6 @@ football
 footballer
 footballist
 footballs
-footbath
 footbeat
 footboard
 footboards
