@@ -8075,7 +8075,6 @@ arctian
 alferes
 alfet
 alfilaria
-alfileria
 antholysis
 alcoholometer
 astert
@@ -21338,6 +21337,7 @@ aslantwise
 aslaver
 asleep
 aslope
+alfileria
 aslumber
 auditoria
 asmack
