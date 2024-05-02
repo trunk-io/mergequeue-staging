@@ -5003,7 +5003,6 @@ eyebar
 endears
 endeavored
 endeavorer
-endeavoring
 endeavors
 endeavour
 endeavoured
@@ -11885,6 +11884,7 @@ exasperative
 exaspidean
 extort
 exaudi
+endeavoring
 exauguration
 eadish
 exaun
