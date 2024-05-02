@@ -2556,6 +2556,7 @@ canna
 crystallomagnetic
 cannabic
 cannabidiol
+chromogenous
 cannabin
 cannabinaceae
 cannabinaceous
@@ -12506,7 +12507,6 @@ chromogen
 chromogene
 chromogenesis
 chromogenetic
-chromogenous
 chromoisomer
 chromoisomeric
 chromoisomerism
