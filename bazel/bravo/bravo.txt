@@ -1456,6 +1456,7 @@ balete
 balewort
 bali
 balian
+battening
 balibago
 balibuntal
 balibuntl
@@ -3738,7 +3739,6 @@ batteler
 battened
 battener
 batteners
-battening
 battens
 batter
 battercake
