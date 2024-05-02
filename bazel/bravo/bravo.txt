@@ -2366,7 +2366,6 @@ barbarities
 barbarization
 barbarize
 barbarous
-bradford
 barbarously
 barbarousness
 barbasco
@@ -14879,6 +14878,7 @@ breatheableness
 breathed
 breathes
 breathful
+bradford
 breathier
 breathily
 breathiness
