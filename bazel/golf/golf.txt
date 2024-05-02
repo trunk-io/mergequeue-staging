@@ -3596,7 +3596,6 @@ gestes
 glunch
 gestic
 gestical
-gesticulant
 gesticular
 gesticulated
 gesticulates
@@ -10773,6 +10772,7 @@ guttie
 goniatitoid
 guttier
 guttifer
+gesticulant
 gasometer
 guttiferal
 gusla
