@@ -4158,7 +4158,6 @@ firepink
 firepinks
 fireplace
 fireplaces
-fireplough
 fireplow
 fleeceable
 fireplug
@@ -11128,6 +11127,7 @@ functors
 flexuously
 functus
 fund
+fireplough
 fundal
 forslack
 fundamental
