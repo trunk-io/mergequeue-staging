@@ -10327,6 +10327,7 @@ bassetta
 blanchimeter
 bourock
 bisischiadic
+buffable
 blanching
 butine
 blancmange
@@ -16735,7 +16736,6 @@ bufagin
 buff
 buffa
 buffability
-buffable
 buffalo
 buffaloback
 blasty
