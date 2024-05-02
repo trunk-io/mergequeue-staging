@@ -5224,7 +5224,6 @@ gnathic
 glasswork
 guider
 glassworker
-glassworkers
 gaius
 glassworks
 gasbags
@@ -8313,6 +8312,7 @@ gemmula
 grasswidow
 grasswidowhood
 grasswork
+glassworkers
 graecized
 grippes
 grata
