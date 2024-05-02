@@ -7346,7 +7346,6 @@ detracted
 detracter
 detracting
 detractingly
-detraction
 detractions
 detractively
 dasht
@@ -9954,6 +9953,7 @@ diminution
 diminutional
 downfalls
 diminutions
+detraction
 diminutival
 dorobo
 disgarrison
