@@ -2648,7 +2648,6 @@ cannstatt
 cannula
 cannular
 cannulas
-cannulate
 cannulated
 cannulating
 cannulation
@@ -6061,6 +6060,7 @@ catter
 cattery
 catteries
 catti
+cannulate
 chinky
 cattycorner
 clematite
