@@ -305,6 +305,7 @@ eat
 eatability
 eatableness
 eatables
+enchair
 eatanswill
 eatberry
 eatche
@@ -4620,7 +4621,6 @@ enchaining
 eluvia
 enchainments
 encrinus
-enchair
 enchalice
 epiblema
 enchant

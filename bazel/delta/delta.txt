@@ -5193,7 +5193,6 @@ denotational
 denotationally
 denotative
 denotativeness
-designment
 dratted
 denotatum
 denote
@@ -13104,6 +13103,7 @@ displacing
 desiderating
 displayed
 displayer
+designment
 displaying
 displays
 displant
