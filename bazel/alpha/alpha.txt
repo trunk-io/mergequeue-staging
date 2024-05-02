@@ -3569,7 +3569,6 @@ additivity
 additory
 additum
 additur
-addle
 addlebrain
 addlebrained
 addlehead
@@ -24469,6 +24468,7 @@ autotoxication
 autotoxin
 autotoxis
 autotractor
+addle
 autotransformer
 autotransfusion
 autotransplant
