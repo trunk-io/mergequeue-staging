@@ -5922,7 +5922,6 @@ dactylotheca
 disloyalties
 depressors
 deathshot
-depressure
 depressurize
 deprest
 depreter
@@ -10728,6 +10727,7 @@ downstater
 dioecian
 diprimary
 diprismatic
+depressure
 dipropargyl
 dipropellant
 dragnet
