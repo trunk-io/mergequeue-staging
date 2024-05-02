@@ -17072,7 +17072,6 @@ bogman
 bullety
 bulletin
 bulletined
-bulletins
 bulletless
 bulletlike
 bulletmaker
@@ -17447,6 +17446,7 @@ bunning
 bezants
 bunodont
 bunodonta
+bulletins
 bunolophodont
 bunomastodontidae
 bunoselenodont
