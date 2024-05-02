@@ -5781,7 +5781,6 @@ catella
 catena
 catenane
 catenary
-catenarian
 catenaries
 catenas
 catenate
@@ -20232,6 +20231,7 @@ commix
 commixed
 commixes
 commixing
+catenarian
 cholerically
 commixt
 commixtion
