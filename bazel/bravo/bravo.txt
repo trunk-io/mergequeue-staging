@@ -8599,7 +8599,6 @@ ballots
 biliverdic
 bilk
 bilked
-bilker
 bilkers
 belle
 brotherwort
@@ -15320,6 +15319,7 @@ brightsmith
 brightsomeness
 brigid
 befingers
+bilker
 brigittine
 borasco
 brigs
