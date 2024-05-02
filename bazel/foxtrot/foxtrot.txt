@@ -3521,7 +3521,6 @@ faventine
 filching
 filchingly
 febris
-fileable
 filecard
 friendlessness
 filechar
@@ -8311,6 +8310,7 @@ forjudge
 featherlessness
 ferinely
 forjudged
+fileable
 forjudger
 fusty
 frey
