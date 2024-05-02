@@ -1675,6 +1675,7 @@ egressor
 exiler
 egret
 egretta
+erodes
 egrid
 egritude
 egromancy
@@ -9251,7 +9252,6 @@ estensible
 erode
 eroded
 erodent
-erodes
 eroding
 erodium
 erogate
