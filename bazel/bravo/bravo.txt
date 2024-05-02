@@ -2630,7 +2630,6 @@ barguest
 barguests
 barhop
 buzylene
-barhopped
 barhopping
 barhops
 baria
@@ -3062,6 +3061,7 @@ barspoon
 barstool
 barstools
 bartended
+barhopped
 bartender
 bartenders
 bartending
