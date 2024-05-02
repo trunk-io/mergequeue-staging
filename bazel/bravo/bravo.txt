@@ -3747,7 +3747,6 @@ batterdock
 bombard
 battered
 batterer
-batterfang
 battery
 batterie
 batteried
@@ -11800,6 +11799,7 @@ bodying
 bodykins
 bodyless
 bodilessness
+batterfang
 bodily
 bodiliness
 bodilize
