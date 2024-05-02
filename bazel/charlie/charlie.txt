@@ -13057,7 +13057,6 @@ cyanogenesis
 cyanogenetic
 cyanogenic
 cyanogens
-cyanoguanidine
 cyanohydrin
 cyanol
 cyanole
@@ -30072,6 +30071,7 @@ crowsteps
 crowstick
 crowstone
 crowtoe
+cyanoguanidine
 crozed
 crozer
 commodation
