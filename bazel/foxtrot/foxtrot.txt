@@ -4881,6 +4881,7 @@ flammeous
 flamming
 footers
 flan
+fishbed
 fellsman
 flancard
 flanch
@@ -7132,7 +7133,6 @@ footfall
 ferruling
 footfalls
 footfarer
-fishbed
 footfault
 footfeed
 footfolk
