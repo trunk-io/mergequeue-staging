@@ -5208,6 +5208,7 @@ endolemma
 endolymph
 endolymphangial
 endolymphatic
+electrolyzable
 etiotropic
 endolymphic
 endolysin
@@ -9382,7 +9383,6 @@ errsyn
 ers
 ersatz
 ersatzes
-electrolyzable
 erse
 erses
 ersh
