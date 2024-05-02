@@ -3858,7 +3858,6 @@ gyassa
 gib
 gibaro
 gibbals
-gibbar
 gibbartas
 gibbed
 gastromalacia
@@ -4497,6 +4496,7 @@ glossopathy
 geometdecrne
 ginkgoes
 ginks
+gibbar
 ginmill
 gainsaid
 gaonic
