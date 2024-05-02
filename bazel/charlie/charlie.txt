@@ -12983,7 +12983,6 @@ chuvash
 carcaneted
 chuzwi
 chwana
-chwas
 cy
 cia
 cyaathia
@@ -21513,6 +21512,7 @@ concordancer
 concordances
 concordancy
 consolidant
+chwas
 concordant
 concordantial
 cankerworm
