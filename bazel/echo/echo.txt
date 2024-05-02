@@ -4737,6 +4737,7 @@ ethnobotanical
 encipher
 enciphered
 enciphering
+ensilability
 encipherment
 enciphers
 encircle
@@ -6403,7 +6404,6 @@ ensigncies
 ensignhood
 ensignry
 ensigns
-ensilability
 ensilaged
 evenworthy
 ensilages
