@@ -1834,6 +1834,7 @@ fecks
 fidicinales
 flytier
 feckulence
+floggable
 feculence
 feculency
 fiscalize
@@ -8915,7 +8916,6 @@ fotched
 fother
 fothergilla
 fothering
-floggable
 fortravail
 fibrocaseose
 fotmal
