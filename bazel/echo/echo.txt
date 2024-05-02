@@ -8291,7 +8291,6 @@ epistome
 epistomian
 epistrophe
 epistropheal
-epistropheus
 extravagate
 epistrophy
 excrescency
@@ -13576,6 +13575,7 @@ exaristate
 extensors
 extent
 earlier
+epistropheus
 extents
 extenuate
 extenuated
