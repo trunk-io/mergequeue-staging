@@ -6417,6 +6417,7 @@ deloul
 desalter
 desalters
 desalting
+disserviceableness
 dobbers
 desalts
 desamidase
@@ -13551,7 +13552,6 @@ disserved
 disserves
 disservice
 disserviceable
-disserviceableness
 disserviceably
 disservices
 dyeing
