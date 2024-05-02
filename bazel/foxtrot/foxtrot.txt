@@ -5410,6 +5410,7 @@ fleshpot
 fleshquake
 flet
 fleta
+fumy
 fletched
 foraneen
 fletcher
@@ -11031,7 +11032,6 @@ flongs
 fumeuse
 fumeuses
 fumewort
-fumy
 fumid
 furnitureless
 frowners
