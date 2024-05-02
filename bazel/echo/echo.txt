@@ -1049,7 +1049,6 @@ edental
 edentalous
 edentata
 edentate
-edentates
 encyclopedically
 edentulate
 edentulous
@@ -10530,6 +10529,7 @@ ethnomusicological
 existant
 ethnomusicologist
 ethnopsychic
+edentates
 ethnopsychological
 ethnoses
 ethnotechnics
