@@ -5784,6 +5784,7 @@ dornick
 deposable
 deposal
 deposals
+detachments
 depose
 deposed
 dissolvative
@@ -7143,7 +7144,6 @@ detachers
 dioecia
 detaching
 detachment
-detachments
 detacwable
 detailed
 droh
