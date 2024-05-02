@@ -8374,7 +8374,6 @@ chalkiness
 chalking
 chalklike
 chalkline
-chalkography
 chalkone
 chalkos
 chalkosideric
@@ -28188,6 +28187,7 @@ compiler
 crannock
 corvktte
 crannoge
+chalkography
 canephorus
 crannoger
 carayan
