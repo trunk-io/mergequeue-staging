@@ -9261,6 +9261,7 @@ diesters
 diestock
 diestocks
 death
+diffusions
 diestrous
 diestrum
 diestrums
@@ -9412,7 +9413,6 @@ diffusiometer
 diffusional
 diffusionism
 diffusionist
-diffusions
 diffusive
 diffusively
 diffusor
