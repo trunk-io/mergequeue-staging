@@ -17386,7 +17386,6 @@ coauthored
 coauthoring
 connectedness
 coauthority
-coauthors
 coauthorship
 coawareness
 coaxal
@@ -31556,6 +31555,7 @@ curtsies
 curtsying
 counterenamel
 curuba
+coauthors
 curucaneca
 curucanecan
 curucucu
