@@ -8867,7 +8867,6 @@ chapt
 chaptalization
 chaptalized
 chaptalizing
-chapter
 chapteral
 chaptered
 chaptering
@@ -11909,6 +11908,7 @@ chords
 chore
 caviare
 chorea
+chapter
 choreal
 choreas
 choreatic
