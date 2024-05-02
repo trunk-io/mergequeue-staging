@@ -2347,7 +2347,6 @@ decidability
 decidedly
 decidement
 decidence
-dupedom
 decidendi
 discerpibility
 decident
@@ -5548,6 +5547,7 @@ departing
 departition
 department
 drily
+dupedom
 departmentalise
 departmentalised
 discretionary
