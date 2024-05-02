@@ -8841,7 +8841,6 @@ alliterates
 alliterating
 alliteration
 alliterational
-alliterationist
 anabantid
 alliteratively
 alliterativeness
@@ -17494,6 +17493,7 @@ apostolici
 apostolicism
 apostolicity
 apostolos
+alliterationist
 apostrophal
 apostrophation
 apostrophes
