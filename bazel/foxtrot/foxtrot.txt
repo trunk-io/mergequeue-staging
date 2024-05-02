@@ -4870,7 +4870,6 @@ flamingos
 fantaseid
 flaminica
 fishy
-famines
 flaminical
 flamless
 flammable
@@ -6029,6 +6028,7 @@ folios
 floriparous
 floripondio
 fantasts
+famines
 floriscope
 floristics
 floristry
