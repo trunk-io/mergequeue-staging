@@ -20717,7 +20717,6 @@ acroter
 articulationes
 articulationist
 articulations
-articulative
 anteroventrally
 articulator
 articulatorily
@@ -22287,6 +22286,7 @@ astrogation
 astrogeny
 akrabattine
 alinasal
+articulative
 anther
 astrogeology
 astrogeologist

@@ -830,7 +830,6 @@ fantad
 fantaddish
 fantail
 fantails
-fantasy
 funori
 fantasia
 frieze
@@ -5824,6 +5823,7 @@ fylker
 freckle
 floccus
 flockbed
+fantasy
 flocker
 flocky
 fathership
