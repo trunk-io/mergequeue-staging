@@ -8815,7 +8815,6 @@ fossane
 falutin
 falconer
 fossate
-fosse
 fossed
 fomentation
 fosses
@@ -11452,6 +11451,7 @@ filaceous
 furnishness
 furnit
 furniture
+fosse
 furnitures
 furodiazole
 furoic
