@@ -8145,6 +8145,7 @@ epirrhematic
 epirrheme
 episarcine
 episarkine
+ethylenediamine
 episclera
 episcleral
 episcleritis
@@ -10369,7 +10370,6 @@ ethyldichloroarsine
 ethylenation
 ethylene
 epistolographer
-ethylenediamine
 ethylenically
 entoptic
 ethylenimine
