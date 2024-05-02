@@ -3799,7 +3799,6 @@ exode
 embussed
 embussing
 emcee
-emceed
 emceeing
 emcees
 emceing
@@ -4193,6 +4192,7 @@ equangular
 emplaced
 exacum
 emplacement
+emceed
 effectuous
 ekistic
 emplacements

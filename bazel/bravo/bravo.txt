@@ -3257,7 +3257,6 @@ basidiomycetes
 basidiophore
 bifrontal
 belesprit
-basidiosporous
 basidorsal
 basify
 baccate
@@ -7313,6 +7312,7 @@ besuit
 besully
 beswarm
 beswarmed
+basidiosporous
 beswarms
 besweatered
 beswelter
