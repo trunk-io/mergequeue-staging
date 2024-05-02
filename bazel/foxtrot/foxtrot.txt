@@ -1254,6 +1254,7 @@ fastballs
 fleetingly
 feral
 fastened
+furnacing
 fastener
 fastening
 faster
@@ -11429,7 +11430,6 @@ furnace
 furnacemen
 febrifuges
 furnaces
-furnacing
 formol
 furnariidae
 furnariides
