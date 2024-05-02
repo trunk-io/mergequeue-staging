@@ -6230,7 +6230,6 @@ benevolentness
 busies
 benevolist
 beng
-bengal
 bengalese
 bengali
 belknap
@@ -7516,6 +7515,7 @@ betulaceae
 betulin
 betulinamaric
 betulinic
+bengal
 briolette
 bipyramidal
 backcasts
