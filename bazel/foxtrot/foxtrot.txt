@@ -2255,6 +2255,7 @@ fluorspar
 fencers
 firebricks
 fences
+forestallment
 furile
 fenchyl
 fideicommiss
@@ -8018,7 +8019,6 @@ forestall
 forbiddance
 forestalled
 forestalling
-forestallment
 forestalls
 forestalment
 forestate
