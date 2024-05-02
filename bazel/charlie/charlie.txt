@@ -2065,7 +2065,6 @@ camphorone
 camphoronic
 camphorphorone
 camphors
-camphorweed
 cerebellifugal
 camphorwood
 campi
@@ -19969,6 +19968,7 @@ coml
 comm
 commaes
 commaing
+camphorweed
 claim
 command
 commandable
