@@ -2669,6 +2669,7 @@ baris
 barysilite
 barysphere
 barit
+basoche
 baryta
 bloodlike
 barytas
@@ -3377,7 +3378,6 @@ basking
 baskish
 basks
 basnat
-basoche
 basocyte
 bozal
 basoga
