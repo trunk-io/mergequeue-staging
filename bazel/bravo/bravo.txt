@@ -1893,7 +1893,6 @@ bancal
 borocalcite
 bancales
 bancha
-banco
 bancos
 bancus
 bellicoseness
@@ -8244,6 +8243,7 @@ bowwoman
 bienvenu
 bienvenue
 byepath
+banco
 bier
 bierbalk
 bidri
