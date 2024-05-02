@@ -5301,6 +5301,7 @@ dentelliere
 dentello
 dentelure
 denter
+dividual
 demicadence
 dentes
 dentex
@@ -14414,7 +14415,6 @@ dividers
 dividingly
 dividivis
 distractingly
-dividual
 dividually
 dividuity
 dividuous
