@@ -2505,7 +2505,6 @@ declassed
 divisibly
 declassee
 declasses
-declassicize
 declassify
 declassification
 declassifications
@@ -5252,6 +5251,7 @@ densus
 dent
 dental
 dentale
+declassicize
 damoclean
 dentalgia
 dentalia
