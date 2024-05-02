@@ -7310,7 +7310,6 @@ detn
 detonability
 detonable
 detonatable
-detonate
 detonated
 detonates
 detonating
@@ -16746,6 +16745,7 @@ drapable
 draparnaldia
 drape
 drapeability
+detonate
 draperess
 draperied
 dzeron
