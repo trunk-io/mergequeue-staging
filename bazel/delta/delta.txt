@@ -7680,7 +7680,6 @@ devisee
 dubitatingly
 devisees
 deviser
-devisers
 devising
 devisings
 devisor
@@ -16687,6 +16686,7 @@ drakestone
 dram
 dramalogue
 dramas
+devisers
 dramatic
 dramatical
 dramatically
