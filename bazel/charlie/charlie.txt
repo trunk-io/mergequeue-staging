@@ -8352,6 +8352,7 @@ chalicotherioid
 chalicotherium
 coliform
 chalina
+colate
 chalinidae
 chalinine
 chalinitis
@@ -18736,7 +18737,6 @@ colas
 colascione
 colasciones
 colat
-colate
 colation
 colatitude
 colatorium
