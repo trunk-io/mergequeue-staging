@@ -24586,7 +24586,6 @@ copying
 copyism
 copyist
 copyists
-copilot
 copilots
 copyman
 companionable
@@ -27632,6 +27631,7 @@ clockers
 cowyard
 cowichan
 cowier
+copilot
 cowiest
 cowing
 crystograph
