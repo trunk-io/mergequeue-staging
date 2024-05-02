@@ -4708,7 +4708,6 @@ girgasite
 gyri
 gazement
 galv
-gyric
 gyrinid
 grandeval
 ganglioside
@@ -10707,6 +10706,7 @@ gustfulness
 gusty
 gustier
 gusting
+gyric
 gustless
 gustoes
 galvanometry
