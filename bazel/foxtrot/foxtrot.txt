@@ -2937,6 +2937,7 @@ fezzed
 fezziwig
 fgrid
 fireplugs
+flunkeys
 fiacre
 fiacres
 fatbird
@@ -6342,7 +6343,6 @@ flunkey
 fartherance
 flunkeyhood
 flunkeyish
-flunkeys
 finny
 flamant
 flunker
