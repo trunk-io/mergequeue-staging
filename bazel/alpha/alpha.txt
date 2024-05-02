@@ -6354,7 +6354,6 @@ agnoetism
 agnoiology
 agnoite
 agnoites
-agnomen
 agnomens
 acridan
 agnomical
@@ -18157,6 +18156,7 @@ apsinthion
 abatises
 apsis
 apt
+agnomen
 aptal
 aptate
 avulsed
