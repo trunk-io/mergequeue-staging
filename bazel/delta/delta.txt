@@ -5306,7 +5306,6 @@ dentelle
 dentelliere
 dentello
 dentelure
-denter
 dividual
 demicadence
 dentes
@@ -5983,6 +5982,7 @@ deputationize
 deputations
 deputative
 deputatively
+denter
 deputator
 depute
 dihydroxy
