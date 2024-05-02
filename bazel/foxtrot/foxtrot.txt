@@ -455,6 +455,7 @@ falange
 falangist
 falasha
 fatlings
+fosterling
 falcade
 falcata
 falcate
@@ -8900,7 +8901,6 @@ flakily
 fosteringly
 fosterite
 fosterland
-fosterling
 fistulize
 fostership
 fostress
