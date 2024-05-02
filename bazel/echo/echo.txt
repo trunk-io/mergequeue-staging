@@ -1794,7 +1794,6 @@ eyeletting
 eyelid
 engining
 eyelight
-eyeliner
 eatage
 eyeliners
 eyen
@@ -4787,6 +4786,7 @@ enclosing
 enclosure
 enclosures
 enclothe
+eyeliner
 encloud
 encoach
 encode
