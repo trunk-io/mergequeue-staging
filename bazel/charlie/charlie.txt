@@ -11041,7 +11041,6 @@ chisel
 chiseled
 chiseler
 cafuso
-chiselers
 chiseling
 chiselled
 chiseller
@@ -14850,6 +14849,7 @@ cityish
 cityless
 citylike
 cytinaceae
+chiselers
 cityness
 cabbling
 citing
