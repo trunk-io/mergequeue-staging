@@ -7022,7 +7022,6 @@ destiny
 destinism
 destituent
 daystreak
-destitute
 destituted
 disoccident
 destituting
@@ -15872,6 +15871,7 @@ dosages
 dosain
 dose
 doser
+destitute
 dosers
 demiman
 dosimeter
