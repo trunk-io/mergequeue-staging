@@ -472,6 +472,7 @@ backrush
 backs
 backsaw
 bristly
+byblis
 backsaws
 backscatter
 backscattered
@@ -7984,7 +7985,6 @@ batoka
 bibliotics
 brendice
 bibliotist
-byblis
 biblism
 biblists
 biblos
