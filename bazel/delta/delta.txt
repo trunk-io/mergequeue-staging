@@ -390,7 +390,6 @@ daylily
 dailiness
 daylit
 dayman
-disilluminate
 dhunchi
 daymare
 daymares
@@ -15348,6 +15347,7 @@ domiciliate
 domiciliated
 domiciliating
 domiciliation
+disilluminate
 dragomanish
 domiciling
 domicils
