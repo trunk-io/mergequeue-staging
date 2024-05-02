@@ -4062,6 +4062,7 @@ beakier
 bandonion
 beakiron
 beakless
+biogasses
 beaklike
 beaks
 beala
@@ -9014,7 +9015,6 @@ biog
 biogases
 begall
 bronzesmith
-biogasses
 biogen
 bitumen
 biogenesis
