@@ -696,7 +696,6 @@ eclogites
 eclogue
 exalted
 eclogues
-earthquake
 entomoid
 eclosion
 eclosions
@@ -12572,6 +12571,7 @@ eximiousness
 exinanite
 exinanition
 exindusiate
+earthquake
 exine
 epidermical
 estragon
