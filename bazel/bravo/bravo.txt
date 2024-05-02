@@ -16139,7 +16139,6 @@ browband
 browbands
 browbeat
 browbeater
-browbeating
 browbeats
 browbound
 brachyure
@@ -17831,6 +17830,7 @@ burree
 burrel
 burrer
 burrers
+browbeating
 burrfish
 burrgrailer
 burrhead

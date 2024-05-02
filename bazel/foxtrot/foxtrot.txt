@@ -241,6 +241,7 @@ faddists
 faddle
 fade
 fadeaways
+funest
 fadedness
 fadednyess
 faden
@@ -11184,7 +11185,6 @@ fumigation
 flintwork
 funereally
 funerealness
-funest
 funfair
 fungaceous
 fungal
