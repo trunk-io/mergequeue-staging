@@ -3813,7 +3813,6 @@ battue
 batlike
 battues
 battuta
-battute
 batholite
 battuto
 battutos
@@ -7031,6 +7030,7 @@ beslings
 beslipper
 beslobber
 baguio
+battute
 bal
 beslubber
 beslur
