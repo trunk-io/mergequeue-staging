@@ -1828,6 +1828,7 @@ eyeshade
 eyeshades
 enfoil
 eyeshield
+exposals
 eyeshots
 eyesight
 enculturating
@@ -11718,7 +11719,6 @@ exact
 electrolytes
 exacta
 exactable
-exposals
 exacted
 escorted
 exacter
