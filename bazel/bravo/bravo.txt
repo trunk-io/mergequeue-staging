@@ -9559,7 +9559,6 @@ belows
 birotatory
 birr
 birred
-birretta
 birrettas
 birri
 birring
@@ -14519,6 +14518,7 @@ banda
 brandling
 brandreth
 brandrith
+birretta
 brangle
 braye
 brangled
