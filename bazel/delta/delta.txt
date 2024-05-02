@@ -6951,7 +6951,6 @@ despoliations
 despond
 desponded
 despondence
-despondency
 despondencies
 despondent
 despondently
@@ -11484,6 +11483,7 @@ discombobulating
 discombobulation
 discomedusae
 discomedusan
+despondency
 discomedusoid
 diplexer
 discomfit
