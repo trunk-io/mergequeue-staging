@@ -1812,6 +1812,7 @@ eyepiece
 eyepit
 eyepoint
 eyepopper
+euonymin
 exogenous
 eyereach
 eyeroot
@@ -10963,7 +10964,6 @@ euomphalid
 euomphalus
 euonym
 euonymy
-euonymin
 euonymous
 euornithes
 euornithic
