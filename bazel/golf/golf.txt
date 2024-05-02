@@ -5782,6 +5782,7 @@ glomus
 gasconaded
 guidon
 glonoine
+granulocyte
 gloomful
 gloomfully
 gloomy
@@ -8094,7 +8095,6 @@ granulitize
 granulization
 granuloadipose
 genappe
-granulocyte
 gcd
 granulocytic
 granulocytopoiesis
