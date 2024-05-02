@@ -5918,7 +5918,6 @@ cathisma
 cathismata
 cathodal
 cathode
-cathodes
 cathodic
 cathodical
 cathodically
@@ -15897,6 +15896,7 @@ cleavability
 cleavable
 cleavage
 cleavages
+cathodes
 cleave
 cleaved
 cleaveful
