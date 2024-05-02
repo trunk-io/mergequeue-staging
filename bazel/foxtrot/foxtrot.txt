@@ -3182,7 +3182,6 @@ fidate
 floodgate
 functorial
 fidawi
-fribbling
 fidded
 ferroinclave
 fidding
@@ -6513,6 +6512,7 @@ flustery
 floodlighting
 flustering
 flusterment
+fribbling
 fondnesses
 facades
 flusters
