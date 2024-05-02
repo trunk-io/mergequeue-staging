@@ -3855,7 +3855,6 @@ footlining
 findal
 finders
 findfault
-findhorn
 findy
 finding
 findings
@@ -10703,6 +10702,7 @@ frumpy
 frumpier
 frumpiest
 foul
+findhorn
 frumpily
 februaries
 frumpishly
