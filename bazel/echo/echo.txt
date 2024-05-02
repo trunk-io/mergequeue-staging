@@ -7313,6 +7313,7 @@ ecumenicist
 eom
 engilds
 eomecon
+explorable
 eon
 eonian
 enscroll
@@ -13223,7 +13224,6 @@ exploitive
 exploits
 exploiture
 emporia
-explorable
 explorational
 exploratively
 explorator
