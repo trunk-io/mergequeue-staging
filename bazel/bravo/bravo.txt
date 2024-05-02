@@ -7858,6 +7858,7 @@ bib
 bibacious
 bungler
 bibaciousness
+boggart
 bibacity
 bibation
 bibb
@@ -11887,7 +11888,6 @@ bogeys
 boget
 bogfern
 boggard
-boggart
 bogged
 boggier
 bogginess
