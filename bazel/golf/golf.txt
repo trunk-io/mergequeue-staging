@@ -3578,7 +3578,6 @@ grilly
 gestapos
 gestate
 gestated
-gymnocalycium
 gestates
 gestating
 gestation
@@ -4149,6 +4148,7 @@ gilliflirt
 gilliflower
 gillygaupus
 gillying
+gymnocalycium
 glaucescence
 gilling
 gillion
