@@ -7413,7 +7413,6 @@ betiding
 balate
 betimber
 bullwhip
-brassic
 betime
 betimes
 betinge
@@ -11711,6 +11710,7 @@ bobtailed
 bobtailing
 bobwhite
 bobwood
+brassic
 boc
 bocaccio
 bocage
