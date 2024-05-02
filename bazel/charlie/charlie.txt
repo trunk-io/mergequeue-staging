@@ -1009,6 +1009,7 @@ calcareoargillaceous
 calcareobituminous
 calcareosiliceous
 calcareosulphurous
+clavers
 calcareous
 calcareously
 calcareousness
@@ -8807,7 +8808,6 @@ chapelgoing
 chapeling
 chapelize
 chapellage
-clavers
 chapellany
 chapelled
 chapelling
