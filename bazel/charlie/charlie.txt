@@ -20074,7 +20074,6 @@ commensalistic
 commensally
 commensals
 commensurability
-commensurable
 commensurableness
 commensurably
 commensurated
@@ -27009,6 +27008,7 @@ counterpoints
 counterpoise
 counterpoised
 counterpoises
+commensurable
 counterpoising
 counterpoison
 counterpole
