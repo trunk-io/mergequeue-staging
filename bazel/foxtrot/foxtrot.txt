@@ -6712,7 +6712,6 @@ foes
 foeship
 foetal
 foetalism
-frey
 frankable
 foetalization
 foetation
@@ -8322,6 +8321,7 @@ ferinely
 forjudged
 forjudger
 fusty
+frey
 foiler
 fork
 forkable
