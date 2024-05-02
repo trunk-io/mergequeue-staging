@@ -535,7 +535,6 @@ gallantry
 gallants
 gallates
 gallature
-gallberry
 gallbladder
 gallbladders
 gaudish
@@ -9953,6 +9952,7 @@ guauaenok
 gaillardia
 goodwilled
 gambrel
+gallberry
 guavaberry
 guavas
 guavina
