@@ -8442,6 +8442,7 @@ guardstone
 gallivanted
 gyroidally
 graves
+geotectonic
 graveship
 gravestead
 gravestones
@@ -10342,7 +10343,6 @@ gulls
 gulmohar
 gulo
 gulonic
-geotectonic
 glaringness
 glebe
 gulosity
