@@ -2847,7 +2847,6 @@ baronesses
 baronet
 baronetage
 baronetcy
-baronetcies
 baroneted
 baronetical
 baroneting
@@ -5588,6 +5587,7 @@ beknottedly
 beknottedness
 blase
 beknotting
+baronetcies
 beknown
 bel
 bela
