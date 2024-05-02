@@ -18391,7 +18391,6 @@ cognize
 cognized
 chairperson
 cognizer
-cognizing
 cognizor
 consonate
 cognomen
@@ -27932,6 +27931,7 @@ craftly
 craftmanship
 crafts
 charactonym
+cognizing
 craftsmanlike
 craftsmanship
 craftsmaster
