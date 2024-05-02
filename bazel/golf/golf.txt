@@ -1294,7 +1294,6 @@ ghalva
 garavance
 garawi
 granogabbro
-guidage
 garb
 garbage
 gastrulated
@@ -4754,6 +4753,7 @@ gathering
 gyro
 gyrocar
 gelid
+guidage
 gyroceran
 gothics
 goodwills
