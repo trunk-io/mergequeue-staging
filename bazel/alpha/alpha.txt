@@ -5300,6 +5300,7 @@ afear
 arapahite
 afeard
 afeared
+agnification
 afebrile
 afenil
 afer
@@ -6339,7 +6340,6 @@ agneau
 agneaux
 agnel
 agnes
-agnification
 agnition
 agnize
 agnized
