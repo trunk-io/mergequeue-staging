@@ -4470,7 +4470,6 @@ ginglyform
 ginglymi
 ginglymoarthrodial
 ginglymodi
-ginglymodian
 ginglymoid
 guildsmen
 gravic
@@ -7785,6 +7784,7 @@ gramaries
 gramas
 grame
 gramercies
+ginglymodian
 gramicidin
 graminaceae
 gramineae
