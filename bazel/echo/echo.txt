@@ -1979,6 +1979,7 @@ ejam
 expatiated
 eject
 ejecta
+enstore
 ejectable
 etrogs
 ejectamenta
@@ -6484,7 +6485,6 @@ enstatolite
 ensteel
 ensteep
 enstool
-enstore
 enstranged
 enstrengthen
 epitomizer
