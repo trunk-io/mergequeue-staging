@@ -7997,6 +7997,7 @@ epimorphism
 emphlysis
 epimorphosis
 epinaoi
+expandible
 epinaos
 epinasty
 epinastically
@@ -12877,7 +12878,6 @@ expandedly
 expandedness
 emblossom
 expanders
-expandible
 expanding
 expandingly
 enchannel
