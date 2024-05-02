@@ -1612,6 +1612,7 @@ ballyhoo
 ballyhooed
 ballyhooer
 ballyhooing
+breakpoint
 ballyhoos
 balling
 ballyrag
@@ -2926,7 +2927,6 @@ barrabora
 barracan
 barrace
 barrack
-breakpoint
 barracked
 barracker
 barracking
