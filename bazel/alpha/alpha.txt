@@ -290,7 +290,6 @@ aw
 abducted
 abduction
 abductions
-abductores
 abducts
 abe
 abeam
@@ -22722,6 +22721,7 @@ adjt
 atmological
 atmologist
 axiopisty
+abductores
 atmometric
 atmos
 atmosphere
