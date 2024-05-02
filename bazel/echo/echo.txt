@@ -4397,7 +4397,6 @@ enamelist
 enamellar
 eau
 equiped
-enamelled
 egocentristic
 enameller
 enamellers
@@ -11674,6 +11673,7 @@ evolutionize
 evolutions
 extorted
 evolutive
+enamelled
 evolutoid
 encephalomere
 evolvable
