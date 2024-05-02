@@ -1084,7 +1084,6 @@ dartle
 deprovincialize
 dartled
 dartles
-dartlike
 dartling
 dissecting
 dartman
@@ -4696,6 +4695,7 @@ demiurgically
 demiurgos
 demiurgus
 demivambrace
+dartlike
 demivierge
 demivoice
 demivol
