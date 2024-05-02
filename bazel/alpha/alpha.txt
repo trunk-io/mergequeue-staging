@@ -10442,6 +10442,7 @@ ametropia
 anatropia
 ametropic
 ametrous
+anaesthetization
 amex
 amgarn
 amhar
@@ -11716,7 +11717,6 @@ anaesthetic
 anaesthetically
 ade
 anaesthetics
-anaesthetization
 almida
 anaesthetize
 anaesthetizer
