@@ -3777,7 +3777,6 @@ adenoses
 adenosine
 adenostoma
 adenotyphoid
-adenotyphus
 awaking
 adenotomy
 adenotomic
@@ -4673,6 +4672,7 @@ adverse
 adversed
 adversely
 actinoid
+adenotyphus
 adverseness
 adversifoliate
 afternote
