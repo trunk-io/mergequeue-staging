@@ -912,6 +912,7 @@ gamekeeper
 gamekeepers
 gamekeeping
 gamelans
+gedecktwork
 gameless
 gathers
 gamely
@@ -8280,7 +8281,6 @@ grassy
 gateau
 grassie
 grassiest
-gedecktwork
 grassiness
 gharry
 gobos
