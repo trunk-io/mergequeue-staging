@@ -5681,7 +5681,6 @@ afterfall
 afterfame
 afterfermentation
 afterform
-afterfriend
 afterfruits
 afterfuture
 aftergame
@@ -14646,6 +14645,7 @@ appendicectasis
 anthropoidea
 anthropoidean
 anthropoids
+afterfriend
 anthropol
 anthropolatry
 anaphoric
