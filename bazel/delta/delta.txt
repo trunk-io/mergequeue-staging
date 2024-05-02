@@ -2395,7 +2395,6 @@ decimalized
 decimalizes
 decimally
 decimals
-dechenite
 decimate
 decimated
 decimates
@@ -14159,6 +14158,7 @@ ditertiary
 dites
 ditetragonal
 ditetrahedral
+dechenite
 dithalous
 dithecal
 dithecous
