@@ -9685,7 +9685,6 @@ amphoteric
 aluminium
 aluminize
 aluminized
-aluminizes
 aluminoferric
 aluminography
 aluminographic
@@ -20807,6 +20806,7 @@ artophophoria
 artophoria
 artophorion
 artotype
+aluminizes
 artotypy
 artotyrite
 artou
