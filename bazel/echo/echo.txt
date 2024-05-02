@@ -2429,7 +2429,6 @@ electrography
 electrographic
 electrograving
 electrohemostasis
-electrohomeopathy
 electrohorticulture
 electroimpulse
 electroindustrial
@@ -8999,6 +8998,7 @@ ergology
 ergomaniac
 electrotechnology
 ergometric
+electrohomeopathy
 egrimony
 ergometrine
 ergonomic
