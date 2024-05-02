@@ -8612,6 +8612,7 @@ chancewise
 chanche
 chancy
 chancier
+cutover
 chanciest
 chancily
 chancing
@@ -31847,7 +31848,6 @@ cutoff
 cutoffs
 cutose
 cutout
-cutover
 cutpurse
 conferrable
 cared
