@@ -6088,7 +6088,6 @@ glucosin
 glucosine
 glucosulfone
 groaned
-glucuronic
 glucuronidase
 glucuronide
 gumshoeing
@@ -10734,6 +10733,7 @@ gutsy
 gutsier
 geodetic
 gibber
+glucuronic
 gossampine
 gutsiest
 galoot

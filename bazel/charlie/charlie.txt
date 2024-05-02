@@ -12059,7 +12059,6 @@ chorous
 chorten
 chorti
 chortle
-crosslap
 chares
 chortled
 cloverlay
@@ -19227,6 +19226,7 @@ colloquialize
 considerableness
 colloquializer
 colloquially
+crosslap
 colloquialness
 colloquies
 colloquiquia
