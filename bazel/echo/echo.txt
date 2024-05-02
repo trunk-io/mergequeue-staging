@@ -4317,7 +4317,6 @@ emulators
 economizers
 emulatress
 electrotonus
-emule
 embouchures
 emulous
 emulously
@@ -8034,6 +8033,7 @@ epinikian
 epinikion
 epinine
 embraceorr
+emule
 epionychia
 epionychium
 epiopticon
