@@ -1742,7 +1742,6 @@ feathered
 fundatorial
 featheredge
 featherer
-featherfew
 featherfoil
 featherheaded
 feathery
@@ -9459,6 +9458,7 @@ files
 frasier
 frass
 frasse
+featherfew
 frat
 fratcher
 fratchety
