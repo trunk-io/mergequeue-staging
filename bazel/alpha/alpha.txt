@@ -12548,7 +12548,6 @@ androsphinx
 androsphinxes
 androsporangium
 androspore
-androsterone
 autogiros
 androtomy
 ands
@@ -19157,6 +19156,7 @@ archpractice
 archprelate
 agammaglobulinemia
 archprelatic
+androsterone
 archprelatical
 archpresbyter
 archpresbyterate
