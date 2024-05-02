@@ -8390,7 +8390,6 @@ calcifuge
 challengee
 challengeful
 challenger
-challengers
 challenges
 challenging
 challengingly
@@ -15626,6 +15625,7 @@ classico
 classicolatry
 codium
 classics
+challengers
 classier
 classiest
 classify
