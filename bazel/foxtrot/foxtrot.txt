@@ -1769,6 +1769,7 @@ fore
 featless
 featly
 featliest
+flocculency
 featliness
 featous
 flirtations
@@ -5801,7 +5802,6 @@ flocculator
 floccule
 flocculence
 foreship
-flocculency
 flocculently
 floccules
 falcer
