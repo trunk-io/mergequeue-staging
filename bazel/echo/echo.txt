@@ -4360,7 +4360,6 @@ enabling
 enact
 enactable
 enacted
-enaction
 epiphysitis
 epithelioglandular
 electrotaxis
@@ -14075,6 +14074,7 @@ equison
 extrinsicalness
 extrinsicate
 extrinsication
+enaction
 extromit
 extropical
 endlessness
