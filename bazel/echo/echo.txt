@@ -5263,7 +5263,6 @@ exogenously
 epitoke
 endophragm
 endophragmal
-eupneic
 endoplast
 euconjugatae
 endoplastron
@@ -9971,6 +9970,7 @@ escobita
 esteeming
 eventognath
 esteems
+eupneic
 envine
 estella
 ester
