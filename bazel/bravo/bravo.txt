@@ -302,6 +302,7 @@ backadation
 backare
 backarrow
 backarrows
+binned
 backband
 backbar
 backbear
@@ -8876,7 +8877,6 @@ binmen
 binna
 binnacle
 binnacles
-binned
 binny
 binnite
 binnogue

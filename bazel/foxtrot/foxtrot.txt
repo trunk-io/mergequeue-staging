@@ -3584,7 +3584,6 @@ filicide
 fermentatory
 filicides
 fitchery
-fervidity
 faqirs
 fleetly
 flagrancy
@@ -5886,6 +5885,7 @@ facioplegia
 footlessness
 floodproof
 floods
+fervidity
 fortifiable
 floodways
 floodwall
