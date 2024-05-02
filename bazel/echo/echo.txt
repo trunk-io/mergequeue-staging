@@ -8051,7 +8051,6 @@ expedientist
 epiparasite
 epiphytical
 epipastic
-epipedometry
 epipelagic
 epiphany
 epiphanic
@@ -9685,6 +9684,7 @@ eskuara
 eslabon
 eslisor
 esloign
+epipedometry
 existentially
 esmeralda
 eisell
