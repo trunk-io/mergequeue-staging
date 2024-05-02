@@ -6753,6 +6753,7 @@ aiders
 aides
 aidful
 aiding
+awards
 aswing
 aidless
 aidman
@@ -24946,7 +24947,6 @@ awardees
 awarders
 awarding
 awardment
-awards
 aware
 awaredom
 airborne

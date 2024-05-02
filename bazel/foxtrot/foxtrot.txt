@@ -242,7 +242,6 @@ faddle
 fade
 fadeaways
 funest
-fadedness
 fadednyess
 faden
 fadeout
@@ -11067,6 +11066,7 @@ figboy
 figurato
 fumous
 fumuli
+fadedness
 fud
 focimetry
 fun
