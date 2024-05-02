@@ -7388,7 +7388,6 @@ epanody
 epanodos
 epanorthidae
 epanorthosis
-epanorthotic
 exocoele
 epanthous
 epapillate
@@ -11649,6 +11648,7 @@ exuberation
 evocators
 excreted
 evodia
+epanorthotic
 evoe
 eleut
 evokers
