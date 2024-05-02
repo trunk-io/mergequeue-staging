@@ -1218,7 +1218,6 @@ educt
 eductions
 eductor
 eductors
-edulcorated
 edulcorating
 edulcoration
 edulcorative
@@ -8632,6 +8631,7 @@ equidistant
 equidistantial
 equidistantly
 enherit
+edulcorated
 equidistribution
 equidivision
 elaenia
