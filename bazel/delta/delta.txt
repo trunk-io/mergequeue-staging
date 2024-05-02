@@ -4591,7 +4591,6 @@ demineralization
 demineralized
 demineralizer
 demineralizes
-demineralizing
 deminudity
 demioctagonal
 demioctangular
@@ -13830,6 +13829,7 @@ distillate
 distillates
 distillations
 distillator
+demineralizing
 distillatory
 distilled
 dustfall
