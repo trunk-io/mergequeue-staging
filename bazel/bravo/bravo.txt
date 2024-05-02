@@ -2240,6 +2240,7 @@ bantingize
 bilos
 bantings
 bantling
+belis
 bantlings
 bantoid
 bantu
@@ -5754,7 +5755,6 @@ belion
 barbas
 beliquor
 beliquors
-belis
 belite
 belittlement
 belittler
