@@ -5371,7 +5371,6 @@ affettuoso
 aspirated
 affettuosos
 affy
-affiance
 affianced
 affiancing
 affich
@@ -10887,6 +10886,7 @@ ammophila
 ammophilous
 ammoreslinol
 ammos
+affiance
 ammotherapy
 ammu
 ammunition
