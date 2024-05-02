@@ -3918,6 +3918,7 @@ delacerate
 delacrimation
 delay
 delayable
+darr
 delayage
 delayed
 delayer
@@ -15263,7 +15264,6 @@ dolose
 dolour
 dolous
 dolph
-darr
 dolphin
 dolphinfish
 dolphinlike

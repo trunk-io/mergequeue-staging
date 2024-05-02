@@ -13900,7 +13900,6 @@ boxmaker
 boxmaking
 boxman
 boxroom
-boxthorn
 bisinuation
 boxthorns
 boxty
@@ -14998,6 +14997,7 @@ brephic
 brerd
 bhaga
 brere
+boxthorn
 brescian
 baculite
 bressummer
