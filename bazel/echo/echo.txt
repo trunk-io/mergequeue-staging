@@ -310,6 +310,7 @@ eatberry
 eatche
 eaten
 eater
+endorser
 eatery
 eateries
 espousers
@@ -5284,7 +5285,6 @@ endorse
 endorsee
 endorsees
 endere
-endorser
 endorsers
 electrodialyzer
 enlargement
