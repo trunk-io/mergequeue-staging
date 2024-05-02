@@ -6574,7 +6574,6 @@ agrologic
 agrological
 agrologically
 agrologies
-agrologist
 agrom
 agromania
 agromyza
@@ -10082,6 +10081,7 @@ ambiparous
 ambisextrous
 ambisexual
 ambisexuality
+agrologist
 ambisyllabic
 ambisinister
 ambisinistrous
