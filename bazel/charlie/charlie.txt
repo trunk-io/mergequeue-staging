@@ -20804,6 +20804,7 @@ complier
 compliers
 commodatum
 ceilingwards
+croqueting
 complies
 complying
 compliment
@@ -29773,7 +29774,6 @@ cropsickness
 cropweed
 croquet
 croqueted
-croqueting
 croquets
 croquette
 croquettes
