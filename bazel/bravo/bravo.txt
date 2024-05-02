@@ -258,7 +258,6 @@ bachelorhood
 bobache
 bachelorize
 bachelorly
-bachelorlike
 bachelorship
 bachelorwise
 bachelry
@@ -5775,6 +5774,7 @@ bellatrix
 bellbind
 buckjump
 bellbinder
+bachelorlike
 bellbird
 bellbirds
 bellboy
