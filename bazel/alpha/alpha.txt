@@ -942,6 +942,7 @@ abseiled
 abseiling
 abseils
 absence
+amidoplast
 agglutinating
 absences
 absyrtus
@@ -10527,7 +10528,6 @@ amydon
 amidone
 amidophenol
 amidophosphoric
-amidoplast
 amidoplastid
 amidosuccinamic
 allgovite
