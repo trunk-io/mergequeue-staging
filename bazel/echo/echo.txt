@@ -2377,6 +2377,7 @@ electrodiagnosis
 electrodiagnostic
 electrodiagnostically
 extratarsal
+epigonous
 electrodialyses
 electrodialysis
 electrodialitic
@@ -7876,7 +7877,6 @@ epigonichthys
 epigonism
 epigonium
 epigonos
-epigonous
 epigonus
 epigram
 electrion
