@@ -2874,7 +2874,6 @@ baronize
 baronized
 baronry
 briggs
-baronship
 byrls
 barophobia
 baroque
@@ -4112,6 +4111,7 @@ beaneries
 beaners
 beanfeast
 beeswing
+baronship
 beanfeaster
 beanfest
 beanfield
