@@ -6075,7 +6075,6 @@ cattyphoid
 cattish
 chamaedaphne
 cattishly
-coaxially
 cattishness
 cattlebush
 cattlefold
@@ -10185,6 +10184,7 @@ chevy
 chevied
 chevies
 chevying
+coaxially
 cheville
 chevin
 cheviot
