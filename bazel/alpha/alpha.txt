@@ -5063,7 +5063,6 @@ arricciatos
 aerograms
 aerography
 aerographic
-aerographical
 aerographics
 aerographies
 aerogun
@@ -8116,6 +8115,7 @@ asweve
 algaecide
 airward
 algaeology
+aerographical
 algaeological
 algaeologist
 apostolicalness
