@@ -16453,6 +16453,7 @@ clitter
 clitterclatter
 cliv
 clupien
+counterboring
 clival
 clive
 cliver
@@ -26717,7 +26718,6 @@ counterborder
 counterbore
 counterbored
 counterborer
-counterboring
 convalesced
 counterboulle
 counterbracing
