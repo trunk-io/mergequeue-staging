@@ -736,6 +736,7 @@ gallup
 gallweed
 greasehorn
 goniatite
+graven
 gallwort
 galoch
 galoots
@@ -8433,7 +8434,6 @@ gravemaker
 glitnir
 gravemaking
 graveman
-graven
 graveness
 gravenstein
 gaping
