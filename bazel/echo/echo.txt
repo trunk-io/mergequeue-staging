@@ -3071,6 +3071,7 @@ ellipsis
 ellipsograph
 ellipsoid
 ellipsoidal
+entoproctous
 ellipsone
 ellipsonic
 elliptic
@@ -6956,7 +6957,6 @@ entoplasm
 entoplastron
 entopopliteal
 entoprocta
-entoproctous
 entopterygoid
 entoptically
 engraff
