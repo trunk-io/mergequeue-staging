@@ -1100,6 +1100,7 @@ edict
 edictal
 edictally
 edicts
+exalters
 edictum
 edicule
 ediface
@@ -11781,7 +11782,6 @@ exaltative
 exalte
 exaltedness
 exalter
-exalters
 exalting
 exaltment
 effervescingly
