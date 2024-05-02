@@ -9554,7 +9554,6 @@ alternated
 alternately
 alternateness
 alternater
-alternating
 alternatingly
 alternation
 afterend
@@ -12096,6 +12095,7 @@ anastomose
 anastomoses
 anastomosing
 anastomosis
+alternating
 animalisation
 anastomotic
 anastomus
