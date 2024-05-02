@@ -336,7 +336,6 @@ faintest
 faintful
 faintheart
 fainthearted
-faintheartedly
 faintheartedness
 faintingly
 faintise
@@ -1747,6 +1746,7 @@ featherfoil
 featherheaded
 feathery
 featheriest
+faintheartedly
 featheriness
 featherleaf
 fungated
