@@ -2857,6 +2857,7 @@ equiprobability
 elevation
 elevational
 eucalypt
+epitactic
 eyren
 elevations
 elevato
@@ -8293,7 +8294,6 @@ extravagate
 epistrophy
 excrescency
 epit
-epitactic
 epitapher
 epitaphial
 epitaphian
