@@ -12933,7 +12933,6 @@ angiospermal
 angiospermic
 angiospermous
 angiosperms
-angiosporous
 angiostenosis
 angiostomy
 angiotasis
@@ -14691,6 +14690,7 @@ anthropomorphising
 acetazolamide
 anthropomorphism
 aposia
+angiosporous
 arugolas
 anthropomorphisms
 anthropomorphist
