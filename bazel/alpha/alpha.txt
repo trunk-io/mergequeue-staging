@@ -14072,7 +14072,6 @@ anstosse
 ansu
 ansulate
 answer
-answerability
 answerable
 affectioned
 answerableness
@@ -22982,6 +22981,7 @@ attalea
 attaleh
 attalid
 attame
+answerability
 attapulgite
 attargul
 attask
