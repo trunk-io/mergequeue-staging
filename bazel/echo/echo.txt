@@ -970,7 +970,6 @@ ectromelus
 ectropionization
 enforcement
 ectropionize
-ectropionized
 ectropium
 ectropometer
 ectrosyndactyly
@@ -13122,6 +13121,7 @@ expiration
 expirations
 expirator
 estival
+ectropionized
 expiratory
 expire
 exhaustable

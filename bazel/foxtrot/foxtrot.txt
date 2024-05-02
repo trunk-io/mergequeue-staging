@@ -4242,7 +4242,6 @@ fated
 forebitt
 firmisternial
 fezzy
-foreloop
 frivoller
 firmisternous
 facebar
@@ -10570,6 +10569,7 @@ frowze
 falderol
 frowziest
 fabled
+foreloop
 frowzily
 frowzled
 fascioloid
