@@ -1687,7 +1687,6 @@ egretta
 egrid
 egritude
 egromancy
-egualmente
 egurgitating
 eguttulate
 epizootiology
@@ -6236,6 +6235,7 @@ enplane
 ecorticate
 enplaned
 extraphysiological
+egualmente
 enplanes
 enplaning
 enwreathe
