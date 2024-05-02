@@ -2297,7 +2297,6 @@ electroacoustic
 eternalise
 earnable
 electroacoustically
-electroacoustics
 electroaffinity
 electroamalgamation
 electroanalytic
@@ -6748,6 +6747,7 @@ entete
 entfaoilff
 empyrical
 enthalpy
+electroacoustics
 elotillo
 epilogate
 enthalpies
