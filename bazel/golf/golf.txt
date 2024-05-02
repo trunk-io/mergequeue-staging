@@ -3224,6 +3224,7 @@ georgiana
 guiding
 gaslock
 gazetteer
+governorate
 geiger
 georgians
 georgic
@@ -7499,7 +7500,6 @@ gambrelled
 governmentally
 governments
 governor
-governorate
 governors
 grype
 governs
