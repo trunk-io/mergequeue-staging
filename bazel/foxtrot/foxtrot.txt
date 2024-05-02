@@ -2613,7 +2613,6 @@ fibrinolytic
 foliiform
 fersmite
 ferther
-ferthumlungur
 fertil
 fabrics
 faddisms
@@ -5949,6 +5948,7 @@ fovea
 florae
 furans
 floralize
+ferthumlungur
 floramor
 floran
 floras
