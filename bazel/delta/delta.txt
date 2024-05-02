@@ -8705,7 +8705,6 @@ diatonic
 diatonical
 diatonically
 delude
-diatonicism
 diatonous
 deistical
 diatoric
@@ -13045,6 +13044,7 @@ dispersers
 disperses
 dispersibility
 downlying
+diatonicism
 dispersible
 dispersing
 disjeune
