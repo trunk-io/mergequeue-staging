@@ -6932,7 +6932,6 @@ aircrafts
 aircraftsman
 assessee
 agamospore
-aliquots
 aircraftsmen
 aircraftswoman
 aircraftswomen
@@ -21566,6 +21565,7 @@ asprete
 aspring
 asprout
 asquare
+aliquots
 atrienses
 asquat
 asqueal
