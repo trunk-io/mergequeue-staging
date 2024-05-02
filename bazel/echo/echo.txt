@@ -1826,7 +1826,6 @@ elastica
 eyeservice
 eyeshade
 eyeshades
-enfoil
 eyeshield
 exposals
 eyeshots
@@ -5776,6 +5775,7 @@ englerophoenix
 englify
 english
 englishable
+enfoil
 eadi
 englisher
 endoplasmic
