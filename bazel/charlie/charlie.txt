@@ -11773,7 +11773,6 @@ chondropharyngeal
 chondropharyngeus
 chondrophyte
 chondrophore
-chondroplast
 chondroplasty
 chondroplastic
 chondroprotein
@@ -14496,6 +14495,7 @@ circumzenithal
 circus
 circusy
 circut
+chondroplast
 circuted
 circuting
 circuts
