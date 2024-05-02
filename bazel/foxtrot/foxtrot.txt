@@ -866,7 +866,6 @@ fantastry
 fanteague
 fantee
 fanteeg
-fanti
 fantigue
 fantoccini
 fantocine
@@ -3535,6 +3534,7 @@ fizzer
 filelike
 farewells
 fogie
+fanti
 filemark
 filemarks
 filemot
