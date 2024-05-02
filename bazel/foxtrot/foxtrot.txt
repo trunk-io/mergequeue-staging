@@ -4906,7 +4906,6 @@ flangeless
 flangers
 flangeway
 flankard
-flanked
 flanker
 flankers
 flanking
@@ -6827,6 +6826,7 @@ foldaway
 foldboat
 fare
 foldboater
+flanked
 felting
 fluke
 farmings

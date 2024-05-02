@@ -2654,6 +2654,7 @@ decomposable
 decompose
 decomposed
 decomposer
+derog
 decomposers
 decomposes
 dehache
@@ -6351,7 +6352,6 @@ dernly
 dourine
 dero
 derodidymus
-derog
 derogate
 derogated
 derogately
