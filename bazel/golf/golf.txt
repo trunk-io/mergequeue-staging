@@ -1199,7 +1199,6 @@ ganocephalous
 globulousness
 ganodont
 growth
-ganodonta
 ganodus
 genus
 ganoid
@@ -8398,6 +8397,7 @@ grauwacke
 grav
 grizzlyman
 gravamem
+ganodonta
 gravamen
 gliffs
 gravamens
