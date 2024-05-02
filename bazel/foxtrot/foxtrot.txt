@@ -7458,7 +7458,6 @@ fordoing
 fordrive
 fords
 fordull
-fumattoria
 foreacquaint
 foreact
 foreadmonish
@@ -11590,6 +11589,7 @@ fusilly
 fusing
 firestopping
 forestry
+fumattoria
 forcipes
 fusinist
 floodometer
