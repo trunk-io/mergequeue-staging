@@ -8879,6 +8879,7 @@ binocle
 binocular
 binocularly
 binoculars
+bishops
 binoculate
 bracingness
 binode
@@ -9690,7 +9691,6 @@ bishoplet
 bishoplike
 brucella
 bishopling
-bishops
 bishopscap
 bishopship
 bishopstool
