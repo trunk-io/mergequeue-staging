@@ -4602,6 +4602,7 @@ carper
 carpers
 carpet
 carpetbag
+covariables
 carpetbagged
 carpetbagger
 carpetbaggery
@@ -27466,7 +27467,6 @@ covarecan
 covarecas
 covary
 covariable
-covariables
 covariance
 covariant
 contributive
