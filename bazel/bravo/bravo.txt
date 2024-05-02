@@ -2760,6 +2760,7 @@ ballant
 barlow
 barlows
 barmaid
+billionaire
 barmaids
 barman
 barmaster
@@ -8680,7 +8681,6 @@ billings
 billingsgate
 billyo
 billion
-billionaire
 bartram
 bravos
 bilabiate
