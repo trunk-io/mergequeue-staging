@@ -11894,7 +11894,6 @@ chordate
 coenoblast
 chordates
 chorded
-chordee
 choriso
 chordeiles
 coronaries
@@ -31022,6 +31021,7 @@ cunea
 cuneal
 cuneate
 cuneated
+chordee
 cymar
 caulopteris
 cuneately
