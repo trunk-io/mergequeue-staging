@@ -2040,7 +2040,6 @@ cephalomenia
 congenite
 camphanic
 camphanone
-camphene
 camphylene
 camphine
 camphines
@@ -6417,6 +6416,7 @@ cavyyard
 cavil
 caviled
 caviler
+camphene
 cavilers
 caviling
 cavilingly
