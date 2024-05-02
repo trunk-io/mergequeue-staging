@@ -3866,6 +3866,7 @@ findjan
 findon
 finds
 ferntickled
+furlough
 font
 fine
 fineable
@@ -11412,7 +11413,6 @@ formalise
 filago
 furlongs
 fluoroscope
-furlough
 furloughed
 furloughing
 furloughs
