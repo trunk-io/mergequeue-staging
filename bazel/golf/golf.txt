@@ -913,7 +913,6 @@ gamekeeping
 gamelans
 gameless
 gathers
-guardstone
 gamely
 glyster
 gamelike
@@ -8445,6 +8444,7 @@ graver
 gravery
 gastrotubotomy
 graverobbing
+guardstone
 gallivanted
 gyroidally
 graves
