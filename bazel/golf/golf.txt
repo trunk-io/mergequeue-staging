@@ -2437,7 +2437,6 @@ glycolytic
 geloscopy
 gelosie
 glaucic
-gelotherapy
 gelotoscopy
 gelototherapy
 goiabada
@@ -7699,6 +7698,7 @@ graffage
 graffer
 graffiti
 grossulariaceae
+gelotherapy
 grafship
 graft
 graftages
