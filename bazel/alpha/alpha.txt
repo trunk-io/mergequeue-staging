@@ -8406,7 +8406,6 @@ alined
 alinement
 aliner
 aliners
-alines
 alining
 alinit
 alintatao
@@ -11740,6 +11739,7 @@ arenilitic
 anagignoskomena
 anagyrine
 anagyris
+alines
 anaglyph
 anaglyphy
 anaglyphic
