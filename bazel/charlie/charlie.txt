@@ -10868,7 +10868,6 @@ chipyard
 chiplet
 chipling
 chipmuck
-chipmucks
 chipmunk
 chipmunks
 chipolata
@@ -29870,6 +29869,7 @@ crosshatches
 crosshatching
 crosshaul
 crosshauling
+chipmucks
 crosshead
 crossing
 crossings
