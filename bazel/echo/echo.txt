@@ -5392,6 +5392,7 @@ epigoneion
 endothelial
 embroche
 endothelioid
+eyestones
 endotheliolytic
 endothelioma
 endotheliomas
@@ -12562,7 +12563,6 @@ exilian
 exilic
 exiling
 exility
-eyestones
 eximidus
 eximious
 eximiousness
