@@ -2899,7 +2899,6 @@ acroceridae
 acrochordidae
 acrochordinae
 acrochordon
-acrocyanosis
 acrocyst
 achenocarp
 acrock
@@ -24890,6 +24889,7 @@ avulse
 avulses
 avulsing
 adeption
+acrocyanosis
 avuncular
 achyranthes
 avunculate
