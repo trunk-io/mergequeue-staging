@@ -2920,7 +2920,6 @@ feverweed
 feverwort
 few
 fewer
-fewmand
 fewmets
 fogle
 frogland
@@ -9694,6 +9693,7 @@ freestanding
 freestyler
 freestone
 freestones
+fewmand
 freet
 freethink
 forbidal
