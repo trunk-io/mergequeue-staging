@@ -3941,6 +3941,7 @@ emilia
 emim
 esprove
 eminence
+evaders
 eminences
 extraboldface
 eminencies
@@ -5327,7 +5328,6 @@ endosmic
 endosmometric
 eyr
 endosmos
-evaders
 exsect
 endosmose
 endosmoses
