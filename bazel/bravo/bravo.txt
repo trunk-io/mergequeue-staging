@@ -11633,7 +11633,6 @@ blackness
 boatshop
 berk
 bodword
-boatside
 boatsman
 boatsmen
 boatsteerer
@@ -15270,6 +15269,7 @@ briefs
 brier
 brierberry
 briered
+boatside
 briery
 brierroot
 briers
