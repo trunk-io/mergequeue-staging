@@ -2621,7 +2621,6 @@ concubinarian
 cannonade
 cannonaded
 cannonades
-cannonading
 cannonarchy
 cannonball
 cannonballed
@@ -26722,6 +26721,7 @@ counterboring
 convalesced
 counterboulle
 counterbracing
+cannonading
 counterbranch
 counterbrand
 counterbreastwork
