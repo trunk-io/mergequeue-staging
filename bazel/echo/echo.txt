@@ -5489,7 +5489,6 @@ endwise
 eneas
 enecate
 except
-eneclann
 entosarc
 ebullient
 ehrman
@@ -6549,6 +6548,7 @@ entangles
 entangling
 entapophysial
 entapophysis
+eneclann
 entases
 entasia
 entasias
