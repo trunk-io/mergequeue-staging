@@ -4043,6 +4043,7 @@ adjudicates
 adjudication
 adjudications
 adjudicative
+affiants
 adjudicator
 adjudicatory
 adjudicators
@@ -5369,7 +5370,6 @@ affy
 affiance
 affianced
 affiancing
-affiants
 affich
 animize
 affiche
