@@ -8394,7 +8394,6 @@ formaliter
 forestair
 formalith
 formalities
-formalizable
 formalizations
 formalize
 formalized
@@ -9778,6 +9777,7 @@ fremontodendron
 fremt
 fren
 frenal
+formalizable
 frenate
 french
 frenchen

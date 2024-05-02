@@ -5748,7 +5748,6 @@ bulldozer
 belying
 belyingly
 belike
-beliked
 belikely
 belili
 belime
@@ -11881,6 +11880,7 @@ bogberries
 bogey
 bogeyed
 bogeying
+beliked
 bogeys
 boget
 bogfern
