@@ -4006,6 +4006,7 @@ cardioarterial
 cardioblast
 cardiocarpum
 cardiocele
+clodpole
 cardiocirrhosis
 cardioclasia
 cardioclasis
@@ -16551,7 +16552,6 @@ clodlike
 clodpate
 clodpates
 chierete
-clodpole
 clodpoles
 clodpoll
 clodpolls

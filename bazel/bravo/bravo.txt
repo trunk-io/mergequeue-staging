@@ -9449,7 +9449,6 @@ beirut
 birdlet
 birdlife
 bioreaction
-bicarbureted
 baphia
 birdlike
 birdlimed
@@ -13610,6 +13609,7 @@ bour
 bemeans
 bourage
 bourasque
+bicarbureted
 bot
 bourbon
 bradynosus
