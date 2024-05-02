@@ -4149,6 +4149,7 @@ delinquencies
 delinquently
 delinquents
 delinter
+disjunctor
 deliquate
 deliquesce
 deliquesced
@@ -12575,7 +12576,6 @@ disjudication
 disjunct
 disjunctions
 disjunctive
-disjunctor
 disjuncts
 dereferences
 disjuncture
