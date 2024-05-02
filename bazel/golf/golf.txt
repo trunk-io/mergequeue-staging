@@ -2442,7 +2442,6 @@ gels
 girondist
 goggle
 gentilhomme
-granodioritic
 gelsemia
 gelsemic
 gelsemine
@@ -4641,6 +4640,7 @@ gatchwork
 geodist
 giraffa
 gustativeness
+granodioritic
 giraffesque
 giraffidae
 giraffine
