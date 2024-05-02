@@ -2880,7 +2880,6 @@ baroques
 baroreceptor
 blowsily
 baroscope
-baroscopic
 baroscopical
 barosinusitis
 barosinusitus
@@ -10776,6 +10775,7 @@ blepharoplasty
 blepharoplastic
 blepharoplegia
 blepharoptosis
+baroscopic
 blepharorrhaphy
 blepharosymphysis
 blepharosyndesmitis
