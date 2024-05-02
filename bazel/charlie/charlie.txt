@@ -18303,7 +18303,6 @@ coft
 cofunction
 cog
 cogboat
-cogence
 cogences
 cogencies
 cogener
@@ -31539,6 +31538,7 @@ curter
 curtesy
 cremule
 curtesies
+cogence
 curtest
 creep
 curtilage
