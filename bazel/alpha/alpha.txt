@@ -10922,7 +10922,6 @@ amnios
 amniota
 adda
 amniotes
-amniotic
 amniotin
 arrah
 amniotitis
@@ -18166,6 +18165,7 @@ apterygial
 apterygidae
 apterygiformes
 apterygogenea
+amniotic
 arace
 apterygota
 apterygote
