@@ -2404,7 +2404,6 @@ electroendosmosis
 electroendosmotic
 electroengrave
 eudalene
-electroengraving
 electroergometer
 electroetching
 electroethereal
@@ -13296,6 +13295,7 @@ exposing
 exposit
 exposited
 expositing
+electroengraving
 expositional
 expositive
 expositively
