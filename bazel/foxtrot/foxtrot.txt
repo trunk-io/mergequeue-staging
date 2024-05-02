@@ -2477,7 +2477,6 @@ flatboat
 ferociousness
 ferocity
 ferocities
-feroher
 ferox
 ferr
 ferrara
@@ -4930,6 +4929,7 @@ flanque
 flans
 flapcake
 freeloader
+feroher
 farsightedness
 fettles
 flapdoodle
