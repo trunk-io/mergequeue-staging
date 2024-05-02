@@ -2241,7 +2241,6 @@ decemvirate
 decemviri
 decemvirs
 decemvirship
-decenary
 decenaries
 decence
 decency
@@ -3201,6 +3200,7 @@ defeminise
 defeminised
 defeminization
 defeminize
+decenary
 defeminized
 defeminizing
 defence
