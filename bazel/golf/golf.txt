@@ -1322,7 +1322,6 @@ garcon
 girdler
 gardbrace
 ganglioneuroma
-garde
 gardebras
 garden
 gardener
@@ -9445,6 +9444,7 @@ galactolytic
 groundspeed
 gigantolite
 groundswell
+garde
 groundswells
 grayfishes
 gorging
