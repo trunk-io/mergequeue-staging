@@ -8154,7 +8154,6 @@ diadelphous
 diadelphia
 diadem
 diadema
-diadematoida
 diademed
 duppies
 diademing
@@ -11818,6 +11817,7 @@ disavow
 discursive
 discursively
 discursiveness
+diadematoida
 discursory
 discursus
 discurtain
