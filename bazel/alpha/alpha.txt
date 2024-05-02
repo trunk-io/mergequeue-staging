@@ -2873,6 +2873,7 @@ acroasis
 apophthegm
 acroatic
 acrobacy
+agnathic
 acrobacies
 acrobat
 acrobatholithic
@@ -6327,7 +6328,6 @@ agnat
 agnate
 agnatha
 agnathia
-agnathic
 agnathostomata
 agnathostomatous
 agnathous

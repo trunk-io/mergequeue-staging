@@ -1074,6 +1074,7 @@ edgemaking
 edgeman
 edger
 edgers
+eradicant
 edges
 edgeshot
 edgestone
@@ -8844,7 +8845,6 @@ eradiation
 essential
 eradicable
 eradicably
-eradicant
 eradicate
 eradicated
 esophagotomy
