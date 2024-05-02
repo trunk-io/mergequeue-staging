@@ -3651,7 +3651,6 @@ fillemot
 factabling
 frownless
 feedbox
-friezer
 fibreware
 filler
 fillercap
@@ -8500,6 +8499,7 @@ formism
 formity
 formless
 formlessness
+friezer
 formly
 flutework
 formnail
