@@ -1921,7 +1921,6 @@ feedback
 feedbag
 feedbags
 feedbin
-fatalism
 feedboard
 feedboxes
 feeded
@@ -5043,6 +5042,7 @@ flagellation
 flatcaps
 flatcar
 flatcars
+fatalism
 flatdom
 flated
 flateria
