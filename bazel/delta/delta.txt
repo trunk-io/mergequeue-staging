@@ -8326,7 +8326,6 @@ dialytic
 directories
 dialyzability
 drey
-dialyzate
 dialyzation
 diapirs
 dialyzator
@@ -10428,6 +10427,7 @@ diphenan
 doctoress
 diphenhydramine
 diphenyl
+dialyzate
 diphenylacetylene
 diphenylamine
 diphenylaminechlorarsine
