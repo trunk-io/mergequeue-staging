@@ -13083,7 +13083,6 @@ dysphrenia
 dispicion
 dispirem
 dispireme
-dispirit
 dispirited
 dispiritedness
 deambulation
@@ -16605,6 +16604,7 @@ draggling
 draghound
 draglines
 dragman
+dispirit
 drago
 dragoman
 dragomanic
