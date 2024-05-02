@@ -2579,7 +2579,6 @@ barf
 barfed
 barff
 barfy
-barfing
 barfish
 breakshugh
 barfly
@@ -14340,6 +14339,7 @@ brainlike
 brainpan
 brainpans
 brainpower
+barfing
 brains
 bridgekeeper
 brainsickness
