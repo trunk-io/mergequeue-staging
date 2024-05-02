@@ -11829,7 +11829,6 @@ analyser
 analysers
 analyses
 abigeat
-analysing
 antimoniate
 analysis
 analyst
@@ -17116,6 +17115,7 @@ apionol
 aplasia
 aplasias
 aplastic
+analysing
 aplectrum
 aplenty
 aplysia
