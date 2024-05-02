@@ -1813,7 +1813,6 @@ debye
 debile
 debilissima
 disliker
-debilitated
 debilitates
 debilitation
 debilitations
@@ -8201,6 +8200,7 @@ diagnosed
 diagnosis
 dragoonage
 diagnostical
+debilitated
 diagnostically
 diagnosticate
 diagnosticated
