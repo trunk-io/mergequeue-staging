@@ -977,7 +977,6 @@ fardo
 fards
 fared
 fellon
-farenheit
 frontrunner
 fares
 faretta
@@ -8442,6 +8441,7 @@ formers
 formes
 formfeed
 formfitting
+farenheit
 formful
 formy
 formiate

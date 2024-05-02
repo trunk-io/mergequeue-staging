@@ -2573,7 +2573,6 @@ ervil
 electrophori
 extund
 electrophoric
-elect
 electrophoridae
 electrophorus
 epidermomycosis
@@ -13660,6 +13659,7 @@ extima
 expressness
 extinct
 extincted
+elect
 extincteur
 extincting
 egyptians
