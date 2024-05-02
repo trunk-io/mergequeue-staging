@@ -5802,7 +5802,6 @@ artistdom
 afterthought
 afterthoughts
 aftertime
-aftertreatment
 apastron
 aftertrial
 advisable
@@ -11139,6 +11138,7 @@ amphibiously
 amphibiousness
 amphibium
 amphiblastic
+aftertreatment
 amphiblestritis
 adenosis
 amphibole
