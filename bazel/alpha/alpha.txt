@@ -3530,7 +3530,6 @@ adderfish
 adders
 adderspit
 adderwort
-addy
 addibility
 addible
 addice
@@ -22257,6 +22256,7 @@ astrion
 antiseptical
 atherosclerosis
 analysable
+addy
 astrobiology
 astrobiologically
 alitrunk
