@@ -3993,7 +3993,6 @@ beachhead
 beachheads
 beachy
 beachie
-bowstring
 bois
 beachier
 beaching
@@ -6210,6 +6209,7 @@ beneme
 benempt
 barbless
 boarishly
+bowstring
 beneplacit
 beneplacity
 beneplacito
