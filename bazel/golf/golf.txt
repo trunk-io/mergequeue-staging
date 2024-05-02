@@ -2540,7 +2540,6 @@ gemmipara
 gemmipares
 gemmiparous
 gemmiparously
-gemmoid
 gemmology
 genistin
 gemmological
@@ -4631,6 +4630,7 @@ gipsology
 gypsology
 gypsologist
 grossing
+gemmoid
 gypsophila
 gypsophilous
 gypster
