@@ -6238,6 +6238,7 @@ enplanes
 enplaning
 enwreathe
 enquarter
+exogonium
 enqueue
 enqueued
 enqueues
@@ -12698,7 +12699,6 @@ exogens
 exogyra
 exognathion
 exognathite
-exogonium
 exograph
 exolete
 exolution
