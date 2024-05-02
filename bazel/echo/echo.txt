@@ -2642,7 +2642,6 @@ electrotechnic
 end
 electrotechnical
 electrotechnician
-ericetum
 electrotechnics
 embellishes
 electrotelegraphy
@@ -5063,6 +5062,7 @@ endited
 endites
 enditing
 electrosynthetic
+ericetum
 eichwaldite
 evens
 endleaf
