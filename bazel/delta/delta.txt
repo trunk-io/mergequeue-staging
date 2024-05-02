@@ -8333,7 +8333,6 @@ dialyzed
 dialyzer
 dialyzes
 declaiming
-dialkyl
 distorted
 dialkylamine
 dialkylic
@@ -14423,6 +14422,7 @@ divinail
 divination
 divinator
 divinatory
+dialkyl
 divinely
 diviner
 divineress
