@@ -4481,6 +4481,7 @@ adsorbs
 adsorption
 adsorptive
 adsorptively
+antiradiating
 adsorptiveness
 aedilian
 adspiration
@@ -16110,7 +16111,6 @@ avoucher
 antirumor
 antiracism
 antiradiant
-antiradiating
 antiradiation
 antiradical
 antiradicalism
