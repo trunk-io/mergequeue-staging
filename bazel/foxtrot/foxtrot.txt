@@ -4704,7 +4704,6 @@ flagellulae
 fortressed
 flagellums
 flageolet
-fannings
 flageolets
 flagfishes
 flagged
@@ -5121,6 +5120,7 @@ fingerbreadth
 flaughts
 flaunch
 flaunche
+fannings
 floatstone
 flaunched
 flaunt
