@@ -1144,7 +1144,6 @@ gyrocompass
 gangmaster
 gangplanks
 gangplow
-gareh
 gastrodisc
 gangrel
 gangrenate
@@ -10044,6 +10043,7 @@ guerre
 guerrila
 guerrilla
 guerrillaism
+gareh
 guerrillas
 guerrillaship
 guesdism
