@@ -2283,7 +2283,6 @@ fenestellidae
 fenester
 fenestral
 facette
-fenestrate
 fenestrated
 fenestration
 fenestrato
@@ -6429,6 +6428,7 @@ fluorimetric
 fermila
 fluorin
 fallation
+fenestrate
 fluorinated
 foresleeve
 fluorination
