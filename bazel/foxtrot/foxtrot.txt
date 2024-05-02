@@ -2569,6 +2569,7 @@ ferromagneticism
 ferromanganese
 ferromolybdenum
 ferronatrite
+friend
 ferronickel
 ferrophosphorus
 ferroprint
@@ -9981,7 +9982,6 @@ falsifiable
 friedman
 fencings
 friedrichsdor
-friend
 fattener
 friending
 friendless
