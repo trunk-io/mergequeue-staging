@@ -17280,7 +17280,6 @@ drolly
 drolling
 drollingly
 drollish
-drollishness
 drollist
 drollness
 drolls
@@ -17660,6 +17659,7 @@ druthers
 druttle
 druxey
 druxy
+drollishness
 dulcification
 druxiness
 druze
