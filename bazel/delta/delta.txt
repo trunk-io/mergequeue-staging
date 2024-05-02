@@ -5504,6 +5504,7 @@ deoxidize
 deoxidizer
 deoxidizers
 deoxidizes
+disarranger
 deoxidizing
 deoxygenate
 deoxygenated
@@ -11110,7 +11111,6 @@ disarrays
 disarrange
 disarranged
 disarrangement
-disarranger
 disarranges
 douppioni
 dyscrasia
