@@ -4517,6 +4517,7 @@ beclowns
 becluster
 becollier
 becolme
+biostatics
 becolor
 becombed
 become
@@ -9202,7 +9203,6 @@ biosphere
 biospheres
 biostatic
 biostatical
-biostatics
 biostatistic
 biostatistics
 biosterin

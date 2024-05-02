@@ -11175,6 +11175,7 @@ chlamydomonadidae
 chlamydomonas
 chlamydophore
 chlamydosaurus
+comparograph
 chlamydoselachidae
 clithral
 chlamydoselachus
@@ -20529,7 +20530,6 @@ comparers
 comparing
 comparisons
 comparition
-comparograph
 comparsa
 compart
 comparted
