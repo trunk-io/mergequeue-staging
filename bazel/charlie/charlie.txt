@@ -20094,7 +20094,6 @@ commentative
 commentator
 commentatorial
 commentatorially
-commentators
 commentatorship
 commenter
 commenting
@@ -30058,6 +30057,7 @@ crownlet
 cybernate
 crownlike
 crownling
+commentators
 crownmaker
 crownment
 crownpiece
