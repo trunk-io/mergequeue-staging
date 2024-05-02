@@ -1040,7 +1040,6 @@ absorbedness
 afterhold
 absorbefacient
 absorbency
-absorbencies
 absorbent
 adenylpyrophosphate
 absorbents
@@ -9391,6 +9390,7 @@ alpestrine
 autotype
 alpha
 alphabet
+absorbencies
 alphabetarian
 anhalonin
 alphabeted
