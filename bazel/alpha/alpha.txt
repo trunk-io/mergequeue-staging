@@ -3230,7 +3230,6 @@ actionary
 actioner
 actiones
 actionist
-airworthy
 actionized
 actionizing
 anotus
@@ -16250,6 +16249,7 @@ antisera
 antiserum
 antiserums
 antiserumsera
+airworthy
 antisex
 antisexist
 antiship
