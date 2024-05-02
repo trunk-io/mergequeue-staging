@@ -10479,7 +10479,6 @@ biordinal
 blastogeny
 blastogenic
 blastogranitic
-blastoid
 blastoma
 blastomas
 blastomata
@@ -18133,6 +18132,7 @@ boastless
 bouleuterion
 butanal
 butane
+blastoid
 butanes
 botryotherapy
 bindable
