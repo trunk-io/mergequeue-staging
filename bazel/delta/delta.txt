@@ -4581,7 +4581,6 @@ demimondain
 declasse
 demimondaine
 dhamma
-demimondaines
 deliciously
 demimonde
 demimonk
@@ -5855,6 +5854,7 @@ depreciate
 depreciated
 depreciates
 depreciatingly
+demimondaines
 depreciation
 depreciative
 depreciatively
