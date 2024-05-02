@@ -6861,7 +6861,6 @@ folia
 foliaceous
 foliaceousness
 foliage
-frouzier
 foliaged
 flywheels
 foliages
@@ -9213,6 +9212,7 @@ fossorial
 fleshier
 fractioned
 fractioning
+frouzier
 flick
 fractionise
 frogeater
