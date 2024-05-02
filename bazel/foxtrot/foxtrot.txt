@@ -2579,7 +2579,6 @@ ferroprint
 fauchard
 filicologist
 ferroprussic
-filemaker
 fording
 ferrotype
 ferrotyper
@@ -3545,6 +3544,7 @@ filer
 filers
 filesave
 filesniff
+filemaker
 filespec
 fibro
 fossores
