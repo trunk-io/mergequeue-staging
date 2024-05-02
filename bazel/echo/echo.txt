@@ -2180,7 +2180,6 @@ elb
 ergotizing
 elbert
 elbow
-elbowchair
 elbowed
 elbower
 eutropic
@@ -7791,6 +7790,7 @@ epidiorthosis
 ellwand
 epidiplosis
 epidosite
+elbowchair
 euphorbiaceae
 epidote
 epiproct
