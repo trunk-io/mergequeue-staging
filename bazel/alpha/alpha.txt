@@ -2814,6 +2814,7 @@ acridane
 acrider
 acridest
 acridid
+agglutinability
 acrididae
 acridiidae
 acridyl
@@ -6080,7 +6081,6 @@ agglomerating
 agglomeration
 agglomerator
 autoing
-agglutinability
 agglutinable
 agglutinant
 apical
