@@ -1804,7 +1804,6 @@ febrifugal
 febrifuge
 febrility
 febriphobia
-febris
 febronian
 febronianism
 february
@@ -3523,6 +3522,7 @@ filches
 faventine
 filching
 filchingly
+febris
 fileable
 filecard
 friendlessness
