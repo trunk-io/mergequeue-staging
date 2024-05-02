@@ -3726,6 +3726,7 @@ battable
 battailant
 battailous
 battak
+blindfoldedness
 battakhin
 battalion
 battalions
@@ -10866,7 +10867,6 @@ bine
 blindfold
 blindfolded
 blindfoldedly
-blindfoldedness
 blindfolder
 blindfoldly
 blindfolds
