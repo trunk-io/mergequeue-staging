@@ -645,7 +645,6 @@ damnably
 damnation
 damnatory
 desterilizing
-damned
 damnedest
 dolmens
 damner
@@ -4495,6 +4494,7 @@ demicannon
 demicanon
 demicanton
 demicaponier
+damned
 demichamfron
 demicylinder
 demicylindrical
