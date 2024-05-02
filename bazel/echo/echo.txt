@@ -7746,7 +7746,6 @@ epidemiologist
 edematous
 epidendral
 elwood
-epidendric
 erysipelothrix
 eumenorrhea
 epinician
@@ -11241,6 +11240,7 @@ eustele
 eusteles
 eustyle
 eustomatous
+epidendric
 eusuchian
 eutaenia
 eutannin
