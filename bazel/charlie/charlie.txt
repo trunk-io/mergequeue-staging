@@ -8205,6 +8205,7 @@ chainwork
 chayota
 chayote
 chayotes
+cinderlike
 chair
 calliophone
 chairborne
@@ -13827,7 +13828,6 @@ cinder
 contemplatingly
 cindered
 cindering
-cinderlike
 cinderman
 cinderous
 cinders
