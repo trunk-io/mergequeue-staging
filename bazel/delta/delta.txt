@@ -13123,7 +13123,6 @@ dryopithecus
 debase
 deprivative
 displeaser
-displeases
 dadouchos
 dubbings
 dielec
@@ -15278,6 +15277,7 @@ doltish
 doltishly
 doltishness
 deformations
+displeases
 dolus
 dom
 defaulter
