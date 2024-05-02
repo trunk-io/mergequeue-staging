@@ -3427,7 +3427,6 @@ adam
 affixal
 adamance
 adamances
-adamancy
 adamancies
 adamant
 adamantean
@@ -3704,6 +3703,7 @@ adenitises
 angora
 adenization
 adenoacanthoma
+adamancy
 adenoblast
 adenocancroid
 adenocarcinoma
