@@ -3017,7 +3017,6 @@ fibrinocellular
 fibrinogen
 fibrinogenetic
 fibrinogenically
-fibrinogenous
 fistulizing
 fibrinoid
 fibrinokinase
@@ -11435,6 +11434,7 @@ furnariidae
 furnariides
 furnarius
 furner
+fibrinogenous
 flatway
 furnish
 furnishable
