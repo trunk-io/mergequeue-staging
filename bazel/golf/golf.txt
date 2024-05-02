@@ -6606,7 +6606,6 @@ goldbugs
 gastropodous
 goonies
 goldcrest
-goldeyes
 goldenback
 goldeney
 goldeneye
@@ -10532,6 +10531,7 @@ glyptodontidae
 gunpowder
 gunpowdery
 gunpowderous
+goldeyes
 gunpower
 gracile
 gunrack
