@@ -1642,7 +1642,6 @@ enrichment
 egomaniacally
 egomanias
 egophony
-egophonic
 egos
 embroilment
 egosyntonic
@@ -8733,6 +8732,7 @@ equipendent
 expander
 embassiate
 exorcisms
+egophonic
 equipluve
 equipment
 equipments
