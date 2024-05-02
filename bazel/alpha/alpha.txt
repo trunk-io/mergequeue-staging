@@ -10670,7 +10670,6 @@ aminities
 aminization
 almude
 adulterateness
-aminize
 aminoacetal
 aminoacetanilide
 aminoacetic
@@ -19917,6 +19916,7 @@ armata
 armatoles
 armatoli
 armature
+aminize
 armatured
 aerophysicist
 aristos
