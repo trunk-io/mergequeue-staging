@@ -2626,7 +2626,6 @@ generalisable
 gringolee
 generalisation
 generalise
-glossarize
 generalised
 groomsman
 generalising
@@ -5913,6 +5912,7 @@ glossoncus
 glossopalatine
 glossopalatinus
 gametophagia
+glossarize
 geepound
 gis
 gigglingly
