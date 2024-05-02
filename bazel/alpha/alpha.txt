@@ -15975,7 +15975,6 @@ antipill
 antipyonin
 antipyresis
 antipyretic
-antithrombin
 antipyretics
 antipyryl
 antipyrin
@@ -17881,6 +17880,7 @@ applosion
 applosive
 applotment
 appmt
+antithrombin
 appoggiatura
 appoggiaturas
 appoggiature
