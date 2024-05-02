@@ -674,7 +674,6 @@ familiars
 fausen
 families
 familyish
-familism
 familist
 familistere
 familistic
@@ -1002,6 +1001,7 @@ farfetched
 farforthly
 farfugium
 fargite
+familism
 fargood
 farhand
 farhands

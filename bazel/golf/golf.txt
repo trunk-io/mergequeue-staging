@@ -1916,7 +1916,6 @@ gatemaker
 gatemen
 guffy
 genetical
-gateposts
 gates
 gatetender
 gateway
@@ -2304,6 +2303,7 @@ gobble
 glunched
 gein
 geira
+gateposts
 geisa
 geisenheimer
 geyser
