@@ -11158,7 +11158,6 @@ disavows
 disawa
 disbalance
 disbalancement
-disband
 disbanded
 disbanding
 dillseed
@@ -17381,6 +17380,7 @@ drops
 decarboxylase
 driftpins
 downcomer
+disband
 dutiable
 decentred
 dropseed

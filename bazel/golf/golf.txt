@@ -5435,7 +5435,6 @@ glycine
 glycines
 glycinin
 glycins
-glycyphyllin
 glycyrrhiza
 gipsyry
 glycyrrhizin
@@ -10833,6 +10832,7 @@ genealogist
 guzerat
 guzmania
 guzul
+glycyphyllin
 griphe
 guzzle
 guzzled
