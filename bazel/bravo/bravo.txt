@@ -2645,7 +2645,6 @@ basinful
 barid
 brusquest
 barie
-barye
 baryecoia
 baryglossia
 barih
@@ -7627,6 +7626,7 @@ bewilder
 bewildered
 bewilderedly
 bewilderedness
+barye
 bewildering
 barebone
 bedrabble
