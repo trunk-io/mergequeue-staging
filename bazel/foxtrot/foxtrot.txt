@@ -3213,6 +3213,7 @@ fiddleys
 fiddleneck
 fluviometer
 fiddler
+flags
 fiddlerfishes
 fiddlery
 flirtish
@@ -6440,7 +6441,6 @@ faunas
 fluorine
 funambulatory
 fluorines
-flags
 fluorite
 fluorites
 fluorobenzene
