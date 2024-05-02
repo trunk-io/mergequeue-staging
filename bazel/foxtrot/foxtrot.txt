@@ -8814,6 +8814,7 @@ flapdragon
 fossa
 flunks
 fossage
+fratch
 fevery
 flaxes
 female
@@ -11571,7 +11572,6 @@ fusiformis
 fusil
 fusilade
 fusiladed
-fratch
 fraternise
 fusilades
 furbelow
