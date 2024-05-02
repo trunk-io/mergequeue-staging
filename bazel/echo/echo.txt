@@ -6955,7 +6955,6 @@ entopopliteal
 entoprocta
 entoproctous
 entopterygoid
-entoptic
 entoptically
 engraff
 entoptics
@@ -10371,6 +10370,7 @@ ethylene
 epistolographer
 ethylenediamine
 ethylenically
+entoptic
 ethylenimine
 ethylenoid
 eaglehawk
