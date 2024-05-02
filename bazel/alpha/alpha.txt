@@ -10441,6 +10441,7 @@ ametria
 ametrometer
 ametrope
 ametropia
+anatropia
 ametropic
 ametrous
 amex
@@ -12201,7 +12202,6 @@ anatriptic
 anatron
 aviculidae
 anatropal
-anatropia
 andesinite
 anatta
 anthrone
