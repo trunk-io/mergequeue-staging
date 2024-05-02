@@ -4797,7 +4797,6 @@ aecium
 aedeagal
 aedeagi
 aedeagus
-aedegi
 aedes
 aedicula
 aediculae
@@ -20445,6 +20444,7 @@ arsonation
 arsonic
 arsonist
 antalgic
+aedegi
 afferently
 arsonists
 arsonite
