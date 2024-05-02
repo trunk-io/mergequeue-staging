@@ -214,7 +214,6 @@ faculty
 facultied
 faculties
 facultize
-facund
 facundity
 frankheartedness
 fad
@@ -11532,6 +11531,7 @@ furzy
 farandine
 furzier
 fusains
+facund
 forwaked
 forays
 fusariose
