@@ -1313,6 +1313,7 @@ effecters
 effectful
 effecting
 entomologists
+evoke
 effectively
 energid
 effectivity
@@ -9743,7 +9744,6 @@ erectilities
 elritch
 esoteric
 esoterica
-evoke
 esoterical
 emprime
 esoterically
