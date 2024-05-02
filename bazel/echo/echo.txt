@@ -2875,7 +2875,6 @@ entradas
 embrued
 elevatory
 escalators
-eleven
 elevenfold
 euphemism
 exposits
@@ -6531,6 +6530,7 @@ evangelized
 entailment
 entailments
 eggshells
+eleven
 ental
 eisegeses
 entally
