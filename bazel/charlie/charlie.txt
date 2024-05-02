@@ -6714,7 +6714,6 @@ cosmati
 chitter
 celiectomy
 celiemia
-celiitis
 celiocele
 celiocentesis
 celiocyesis
@@ -18344,6 +18343,7 @@ cogitativity
 cogitator
 cogitators
 cogito
+celiitis
 coglorious
 cogman
 cogmen
