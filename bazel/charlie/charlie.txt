@@ -4291,7 +4291,6 @@ caryocar
 caryocaraceae
 caryocaraceous
 cariocas
-cariogenic
 cariole
 carioles
 carioling
@@ -17550,6 +17549,7 @@ coccidioidal
 coccidioides
 coccidiomorpha
 coccidiosis
+cariogenic
 coccidium
 ctenocyst
 coccidology
