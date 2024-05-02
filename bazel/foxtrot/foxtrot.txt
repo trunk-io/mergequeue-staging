@@ -2251,6 +2251,7 @@ fenceplay
 fencepost
 fencer
 fenceress
+furfures
 fluorspar
 fencers
 firebricks
@@ -11364,7 +11365,6 @@ furfuran
 furfurans
 fatbacks
 furfuration
-furfures
 forebode
 furfuryl
 furfurylidene
