@@ -7256,7 +7256,6 @@ determinating
 determination
 determinations
 determinative
-determinatively
 determinator
 determined
 determinedness
@@ -17720,6 +17719,7 @@ dubhgall
 dubiety
 dubieties
 dubio
+determinatively
 diastase
 datch
 dubiosity
