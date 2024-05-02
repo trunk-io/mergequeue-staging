@@ -7653,6 +7653,7 @@ cered
 cereless
 cerement
 cerements
+convincingness
 ceremony
 ceremonial
 ceremonialism
@@ -24172,7 +24173,6 @@ convincibility
 convincible
 convincing
 convincingly
-convincingness
 convite
 convito
 convival
