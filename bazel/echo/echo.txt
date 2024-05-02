@@ -6754,6 +6754,7 @@ epilogate
 enthalpies
 entheal
 enthean
+explete
 entheasm
 ephod
 entheate
@@ -13171,7 +13172,6 @@ equiponderated
 elsa
 explement
 explementary
-explete
 expletive
 expletively
 eglestonite
