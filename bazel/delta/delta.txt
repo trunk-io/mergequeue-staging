@@ -12573,7 +12573,6 @@ disjudication
 disjunct
 disjunctions
 disjunctive
-disjunctively
 disjunctor
 disjuncts
 dereferences
@@ -18105,6 +18104,7 @@ dumka
 dummy
 dummies
 diagrammatician
+disjunctively
 dummying
 diphthonging
 dumminess
