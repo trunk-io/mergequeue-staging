@@ -5826,7 +5826,6 @@ glorifiable
 glorification
 glasses
 geodesic
-glorifier
 glorifiers
 gymnura
 glorifying
@@ -8730,6 +8729,7 @@ greeshoch
 greeted
 ginward
 greeter
+glorifier
 groff
 gneissic
 greetingly
