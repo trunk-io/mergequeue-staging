@@ -1487,6 +1487,7 @@ faulds
 faulkner
 faultage
 faulted
+filix
 faulter
 faultfind
 faultfinder
@@ -3641,7 +3642,6 @@ filister
 filisters
 filite
 filius
-filix
 florescence
 friesish
 fillable
