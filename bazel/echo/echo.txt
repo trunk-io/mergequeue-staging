@@ -8222,6 +8222,7 @@ episporium
 epist
 epistapedial
 epistases
+expanse
 epistasy
 epistasies
 electrophotometer
@@ -12880,7 +12881,6 @@ expanders
 expandible
 expanding
 expandingly
-expanse
 enchannel
 expansibility
 expansibleness
