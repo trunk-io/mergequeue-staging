@@ -13495,6 +13495,7 @@ ciderist
 ciderkin
 ciderlike
 ciders
+continuedness
 cyders
 cydippe
 cydippid
@@ -23553,7 +23554,6 @@ continuator
 continue
 continued
 continuedly
-continuedness
 continuer
 continuers
 continues
