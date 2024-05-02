@@ -6287,7 +6287,6 @@ caustify
 caustification
 caustified
 caustifying
-causus
 cautel
 cautela
 cautelous
@@ -19890,6 +19889,7 @@ comfortability
 comfortabilities
 comfortable
 comfortableness
+causus
 comfortative
 comforted
 comforter
