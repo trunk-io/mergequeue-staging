@@ -10283,6 +10283,7 @@ buttstrapping
 blair
 bedebt
 bloating
+boolian
 blairmorite
 blakeberyed
 boatlike
@@ -12757,7 +12758,6 @@ breathseller
 booley
 booly
 boolya
-boolian
 boomable
 broomier
 boomage
