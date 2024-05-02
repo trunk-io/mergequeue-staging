@@ -10870,7 +10870,6 @@ blindfoldedness
 blindfolder
 blindfoldly
 blindfolds
-blindish
 blindism
 balaenoptera
 blindless
@@ -12127,6 +12126,7 @@ babble
 bolete
 boletes
 boleti
+blindish
 byrled
 boletus
 boletuses
