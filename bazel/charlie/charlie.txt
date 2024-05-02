@@ -5161,7 +5161,6 @@ casqued
 clanger
 casques
 casquet
-casquetel
 casquette
 cass
 cassaba
@@ -13087,6 +13086,7 @@ colloquize
 cyanoplastid
 cyanoplatinous
 cyanopsia
+casquetel
 cyanose
 cyanosed
 cyanoses
