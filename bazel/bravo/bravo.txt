@@ -6827,7 +6827,6 @@ berrettas
 berrettino
 berri
 bandage
-berry
 berrybush
 bromophenol
 berrichon
@@ -13744,6 +13743,7 @@ bowdlerise
 bowdlerised
 bowdlerising
 bowdlerization
+berry
 bowdlerizations
 bemoans
 bonbonniere
