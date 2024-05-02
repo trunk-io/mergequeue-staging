@@ -13897,7 +13897,6 @@ boxiness
 boxing
 boxings
 boxkeeper
-boxlike
 bespatter
 boxmaker
 boxmaking
@@ -16700,6 +16699,7 @@ betorcinol
 budget
 brenthis
 budgetary
+boxlike
 begladded
 budgeted
 budgeteer
