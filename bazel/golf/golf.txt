@@ -5415,7 +5415,6 @@ glycerizin
 glycerogel
 glycerole
 glycerolyses
-glycerophosphate
 gaudiest
 glycerophosphoric
 glycerose
@@ -8937,6 +8936,7 @@ griffon
 griffonage
 griffonne
 griffons
+glycerophosphate
 gumphion
 grift
 grifted
