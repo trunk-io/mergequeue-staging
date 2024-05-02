@@ -3658,7 +3658,6 @@ fibreware
 filler
 fillercap
 fluviology
-followable
 fractionator
 faceoff
 fluormeter
@@ -6702,6 +6701,7 @@ flareless
 foenngreek
 flysch
 foes
+followable
 foeship
 foetal
 foetalism
