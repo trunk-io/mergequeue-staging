@@ -9080,7 +9080,6 @@ allotropize
 allotropous
 alloeosis
 allottable
-allottee
 allotter
 amphibola
 allottery
@@ -25081,6 +25080,7 @@ axifugal
 axil
 axile
 axilemma
+allottee
 axilemmas
 axillae
 axillant
