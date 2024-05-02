@@ -2146,6 +2146,7 @@ bankrider
 bankroll
 bankrolls
 bankrupcy
+bureaucratese
 bankrupt
 bankruptcy
 bankruptcies
@@ -17555,7 +17556,6 @@ bureaucracies
 buckwheater
 bivalents
 bureaucrat
-bureaucratese
 bureaucratically
 bureaucratist
 bureaucratize
