@@ -5412,7 +5412,6 @@ endothia
 endothoracic
 endothrix
 ejector
-envergure
 ergodic
 endotys
 enzyms
@@ -8963,6 +8962,7 @@ erewhiles
 erf
 erg
 ergamine
+envergure
 ergane
 ergasterion
 ergastic
