@@ -1009,7 +1009,6 @@ gibberose
 gurkha
 gammoned
 grundlov
-glycerolysis
 gammoners
 gammoning
 gammons
@@ -2216,6 +2215,7 @@ gearwheels
 glistening
 gease
 geason
+glycerolysis
 ganofs
 geast
 geaster
