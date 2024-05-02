@@ -5760,7 +5760,6 @@ beliquor
 beliquors
 belis
 belite
-belittle
 belittlement
 belittler
 belittlers
@@ -9345,6 +9344,7 @@ biplanes
 baptistic
 biplicate
 biplicity
+belittle
 biplosion
 biplosive
 bipod
