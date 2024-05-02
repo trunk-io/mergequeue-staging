@@ -2878,7 +2878,6 @@ feudovassalism
 feuds
 feudum
 feuillage
-fa
 feuillants
 feuille
 feuillemorte
@@ -6307,6 +6306,7 @@ flukeworm
 flukewort
 fancies
 fluky
+fa
 flukier
 flukiest
 feists
