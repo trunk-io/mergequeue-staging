@@ -2790,6 +2790,7 @@ genipap
 greenstuff
 gemsbuck
 gentes
+gossip
 genipaps
 genyplasty
 genips
@@ -7316,7 +7317,6 @@ gossans
 gossard
 goldwork
 gossy
-gossip
 gossipdom
 gossiped
 gossipee
