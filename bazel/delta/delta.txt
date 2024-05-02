@@ -1383,6 +1383,7 @@ dawdled
 dawdlers
 dawdles
 dawdling
+detect
 disruptable
 dawdlingly
 dawe
@@ -7182,7 +7183,6 @@ detassel
 detat
 detax
 detd
-detect
 detectability
 daishiki
 dogshore
