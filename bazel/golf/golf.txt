@@ -4952,7 +4952,6 @@ gld
 glabrate
 glabreity
 glabrescent
-gaumless
 glabriety
 gonosomal
 glabrous
@@ -8335,6 +8334,7 @@ gnostical
 graters
 grates
 gratewise
+gaumless
 grather
 glassweed
 gangerel
