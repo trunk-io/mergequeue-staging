@@ -3335,6 +3335,7 @@ gerbo
 gerefa
 gerenda
 gerendum
+guardiancy
 gerent
 gerenuks
 gyral
@@ -9910,7 +9911,6 @@ guarder
 guardfully
 guardhouse
 guardhouses
-guardiancy
 gastrotricha
 guardianess
 gasconism
