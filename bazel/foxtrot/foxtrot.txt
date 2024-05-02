@@ -2644,7 +2644,6 @@ feru
 ferula
 ferulaceous
 ferulae
-ferulaic
 fuchsite
 ferular
 ferulas
@@ -3217,6 +3216,7 @@ fiddlesticks
 foreallot
 fiddlewood
 fubbery
+ferulaic
 flimflamming
 felonries
 ferrel
