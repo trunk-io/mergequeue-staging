@@ -6180,6 +6180,7 @@ derivers
 deriving
 derk
 derma
+diazole
 dermabrasion
 dermacentor
 dermad
@@ -8762,7 +8763,6 @@ diazohydroxide
 diazoic
 diffident
 diazoimide
-diazole
 diazoma
 diazomethane
 diazonium
