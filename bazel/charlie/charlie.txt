@@ -5721,7 +5721,6 @@ catechisable
 catechisation
 catechise
 catechised
-catechiser
 catechising
 calipered
 catechism
@@ -12598,6 +12597,7 @@ chron
 chronal
 chronaxy
 chronaxia
+catechiser
 chronaxie
 chronaxies
 chroncmeter
