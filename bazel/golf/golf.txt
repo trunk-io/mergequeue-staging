@@ -2309,6 +2309,7 @@ gobble
 glunched
 gein
 geira
+gimleting
 geisa
 geisenheimer
 geyser
@@ -4201,7 +4202,6 @@ gymel
 gimels
 gimlet
 gimleted
-gimleting
 galera
 gimlets
 gimmal
