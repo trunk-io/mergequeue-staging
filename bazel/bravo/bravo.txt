@@ -4591,7 +4591,6 @@ baramin
 becut
 bed
 bedabble
-bedabbled
 bedabbles
 begrace
 bedabbling
@@ -4770,6 +4769,7 @@ bedlamp
 bedlamps
 bedlams
 banjuke
+bedabbled
 bursula
 bedlids
 bedlight
