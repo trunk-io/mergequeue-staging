@@ -33,7 +33,6 @@ daces
 deformers
 dacha
 dachas
-dachshound
 dachshund
 dachshunde
 dacian
@@ -3764,6 +3763,7 @@ dehorting
 dehorts
 dehumanisation
 dramatise
+dachshound
 dehumanise
 dehumanised
 dehumanize
