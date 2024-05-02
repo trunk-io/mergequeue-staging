@@ -11881,7 +11881,6 @@ analogions
 analogise
 analogising
 analogism
-analogize
 analogized
 analogizing
 analogon
@@ -18433,6 +18432,7 @@ araeosystyle
 araeotic
 aragallus
 arage
+analogize
 aragonian
 aragonitic
 astrometric
