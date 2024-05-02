@@ -6519,6 +6519,7 @@ gofer
 goff
 generation
 goffered
+grosgrain
 gofferer
 goffle
 gog
@@ -9333,7 +9334,6 @@ giltcup
 groser
 groset
 gravemaster
-grosgrain
 gastroenterologist
 grosgrained
 grosgrains
