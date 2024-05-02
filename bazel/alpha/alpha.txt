@@ -11713,7 +11713,6 @@ anaesthetics
 anaesthetization
 almida
 anaesthetize
-anaesthetized
 anaesthetizer
 anaesthetizing
 anaetiological
@@ -22512,6 +22511,7 @@ ateloprosopia
 atelorachidia
 acoenaesthesia
 atelostomia
+anaesthetized
 atemoya
 atemporal
 aten
