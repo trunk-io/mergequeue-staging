@@ -17038,7 +17038,6 @@ astrographic
 apicultural
 apiculture
 apiculturist
-apiculus
 apidae
 apiece
 apieces
@@ -21818,6 +21817,7 @@ assyriologist
 aliases
 assyriologue
 assis
+apiculus
 assisa
 alkyne
 assisan
