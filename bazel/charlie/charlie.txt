@@ -18731,7 +18731,6 @@ colament
 colan
 colanders
 consists
-colane
 colaphize
 colarin
 colas
@@ -26042,6 +26041,7 @@ cosiness
 cosinesses
 cosing
 cosingular
+colane
 cosins
 cosinusoid
 cosmecology
