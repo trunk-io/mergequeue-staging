@@ -5143,7 +5143,6 @@ glanduliferous
 glanduliform
 glanduligerous
 glandulose
-glandulosity
 glaniostomi
 glanis
 glans
@@ -5275,6 +5274,7 @@ glavering
 glaze
 glazed
 gunsmiths
+glandulosity
 glazement
 glazen
 glazers
