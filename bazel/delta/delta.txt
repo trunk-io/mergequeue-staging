@@ -12046,7 +12046,6 @@ disenthronement
 deled
 disentitle
 disentitlement
-disentitling
 disentomb
 disentombment
 dories
@@ -14555,6 +14554,7 @@ dizz
 dizzardly
 dizzen
 dizzy
+disentitling
 dizzied
 dizzies
 dizziest
