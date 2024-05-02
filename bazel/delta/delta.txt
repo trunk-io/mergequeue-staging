@@ -14627,7 +14627,6 @@ dobbing
 dobchick
 dobe
 doberman
-dobermans
 decapoda
 doby
 dantonesque
@@ -16990,6 +16989,7 @@ drenched
 drencher
 drenchers
 disgustedly
+dobermans
 drenches
 datacell
 drenching
