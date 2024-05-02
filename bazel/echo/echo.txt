@@ -5135,7 +5135,6 @@ extemporizer
 endocoele
 excommunicators
 endocoeliac
-endocolitis
 endocolpitis
 endocone
 endoconidia
@@ -10259,6 +10258,7 @@ eucti
 enigmatographer
 elks
 ethenes
+endocolitis
 ethenic
 ethenyl
 ethenoidal

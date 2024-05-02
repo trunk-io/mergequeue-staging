@@ -134,7 +134,6 @@ gads
 gadsbodikins
 gadsbud
 gadslid
-gadso
 gadswoons
 grimliness
 gaduin
@@ -4936,6 +4935,7 @@ gizzened
 gauleiter
 gizzern
 galantuomo
+gadso
 gjedost
 gjetost
 glabbella
