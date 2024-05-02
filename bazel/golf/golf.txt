@@ -3337,7 +3337,6 @@ gerbillinae
 gunbearer
 gerbils
 gerbo
-gere
 gerefa
 gerenda
 gerendum
@@ -10544,6 +10543,7 @@ gunrunning
 gainstrive
 guns
 gunsels
+gere
 gilly
 gunship
 glb
