@@ -5197,7 +5197,6 @@ flavours
 foreshroud
 flavoursome
 frothiest
-flawed
 flunking
 flawflower
 flawful
@@ -8874,6 +8873,7 @@ fossils
 fosslfying
 fosslology
 fourierist
+flawed
 fossoria
 fasola
 fossorious
