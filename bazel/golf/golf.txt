@@ -1759,6 +1759,7 @@ gastroduodenostomy
 gastroduodenostomies
 gastroduodenotomy
 gastroelytrotomy
+geol
 gastroenteralgia
 geochemically
 gastroenteric
@@ -3082,7 +3083,6 @@ geoidal
 grammontine
 geoids
 gadoid
-geol
 geolatry
 galvayne
 geolinguistics
