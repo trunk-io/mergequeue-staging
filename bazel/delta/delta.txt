@@ -2910,7 +2910,6 @@ dedicate
 dedicated
 dedicatedly
 dedicatee
-dedicates
 dedicating
 dedication
 dedicational
@@ -5496,6 +5495,7 @@ deoxidizes
 deoxidizing
 deoxygenate
 deoxygenated
+dedicates
 deoxygenating
 deoxygenation
 deprecate
