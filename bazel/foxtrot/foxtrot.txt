@@ -180,7 +180,6 @@ frizer
 factorials
 factories
 factoring
-factorizations
 fluviose
 factorize
 factorized
@@ -11387,6 +11386,7 @@ furilic
 furioso
 furious
 furiouser
+factorizations
 furiousness
 fiddlers
 fortread
