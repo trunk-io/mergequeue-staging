@@ -6455,7 +6455,6 @@ fluorogenic
 fluorography
 fluorometer
 folklore
-fluorometry
 fluorophosphate
 fluoroscopes
 futurama
@@ -7507,6 +7506,7 @@ forebodies
 fescues
 foreboding
 forebodingness
+fluorometry
 folliculose
 forlornness
 foreboom
