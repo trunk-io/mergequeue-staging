@@ -3289,7 +3289,6 @@ duledge
 defiantness
 defiatory
 defiber
-defibrillate
 defibrillated
 defibrillating
 defibrillation
@@ -16540,6 +16539,7 @@ decelerating
 disconnection
 draffish
 draffman
+defibrillate
 draffs
 draffsack
 draft
