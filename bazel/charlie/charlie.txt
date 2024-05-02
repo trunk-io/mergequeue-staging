@@ -11471,7 +11471,6 @@ chogset
 choy
 choya
 choiak
-choice
 choiceful
 choiceless
 choicelessness
@@ -21579,6 +21578,7 @@ concubinate
 concubine
 concubinehood
 concubines
+choice
 concubitancy
 concubitant
 concubitous
