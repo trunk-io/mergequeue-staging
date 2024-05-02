@@ -6089,7 +6089,6 @@ catur
 corallite
 catvine
 catwalk
-cognizability
 catwalks
 catwise
 catwort
@@ -15755,6 +15754,7 @@ clavi
 chirres
 catheter
 clavy
+cognizability
 clavial
 claviature
 clavicembali
