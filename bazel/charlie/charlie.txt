@@ -8682,7 +8682,6 @@ changeovers
 crises
 changepocket
 carbone
-changer
 columbic
 changers
 changes
@@ -20108,6 +20107,7 @@ commercer
 commerces
 commercia
 commerciable
+changer
 cenosity
 commercial
 commercialisation

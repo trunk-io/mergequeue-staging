@@ -5945,7 +5945,6 @@ glossospasm
 glossosteresis
 glossotype
 glossotomy
-glosts
 glottal
 glottalite
 glottalization
@@ -9588,6 +9587,7 @@ grubble
 guaranteeship
 gossypols
 galtonian
+glosts
 grubhood
 grubless
 gnathal
