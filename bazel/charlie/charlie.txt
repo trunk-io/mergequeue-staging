@@ -13438,6 +13438,7 @@ cyclostylar
 comakers
 cyclostyle
 conred
+cirripedial
 cyclostoma
 cyclostomata
 cyclostomate
@@ -14547,7 +14548,6 @@ cirriped
 cirripede
 catstone
 cirripedia
-cirripedial
 cirripeds
 cirrocumular
 citrul
