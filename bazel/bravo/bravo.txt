@@ -3595,6 +3595,7 @@ bathychrome
 bathycolpian
 bathycolpic
 bathyesthesia
+battler
 buriti
 bathygraphic
 belatticed
@@ -3796,7 +3797,6 @@ battlements
 battlepiece
 battleplane
 beatus
-battler
 battlers
 battles
 battleships
