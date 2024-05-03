@@ -5421,7 +5421,6 @@ enzyms
 endotoxic
 emboscata
 endotoxin
-endotracheal
 endotrophic
 esphresis
 endoubt
@@ -11453,6 +11452,7 @@ emboldening
 evenglow
 epagomenous
 ethnarch
+endotracheal
 evenhand
 evenhanded
 evenhandedly
