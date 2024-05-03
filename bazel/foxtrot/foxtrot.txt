@@ -2538,6 +2538,7 @@ ferriprussiate
 ferris
 forweep
 fribblery
+floorshow
 ferrites
 focusable
 ferritic
@@ -5914,7 +5915,6 @@ floormen
 floors
 folkways
 floorshift
-floorshow
 foxfinger
 floorthrough
 floorwalker
