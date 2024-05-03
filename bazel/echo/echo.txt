@@ -5605,7 +5605,6 @@ eyeline
 enfierce
 enfigure
 enfilade
-emolument
 enfilades
 enfilading
 enfiled
@@ -8887,6 +8886,7 @@ ere
 eclaircissement
 erebus
 erechtheum
+emolument
 erechtheus
 erechtites
 erect
