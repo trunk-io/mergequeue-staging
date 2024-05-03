@@ -15294,7 +15294,6 @@ claypan
 claypans
 clair
 clairaudience
-clairaudient
 clairaudiently
 clairce
 claire
@@ -24437,6 +24436,7 @@ cosalite
 cooser
 coosers
 coost
+clairaudient
 coosuc
 contraremonstrant
 coot
