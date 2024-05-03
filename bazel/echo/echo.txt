@@ -9618,7 +9618,6 @@ escrol
 escrow
 esterlin
 escrowed
-escrowing
 escuage
 escudero
 escudo
@@ -10815,6 +10814,7 @@ ethal
 eugenical
 evehood
 eugenically
+escrowing
 eugenicist
 extimulate
 eugenie
