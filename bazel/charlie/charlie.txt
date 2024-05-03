@@ -418,6 +418,7 @@ cactuses
 cactuslike
 cacumen
 cacuminal
+coastlines
 cacuminate
 cacur
 cad
@@ -17335,7 +17336,6 @@ cognizes
 coasting
 coastings
 coastland
-coastlines
 coastman
 coasts
 coastside
