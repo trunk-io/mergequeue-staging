@@ -7059,7 +7059,6 @@ brahmanhood
 basidium
 besmircher
 besmirchers
-besmirches
 besmirchment
 besmoked
 besmokes
@@ -10984,6 +10983,7 @@ blobby
 blobbier
 bricklay
 blobbiest
+besmirches
 blobbiness
 brotocrystal
 blobbing
