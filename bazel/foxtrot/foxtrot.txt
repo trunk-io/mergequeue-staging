@@ -1577,6 +1577,7 @@ faverel
 faverole
 faviform
 flamandize
+flappet
 favillae
 favillous
 favissa
@@ -4949,7 +4950,6 @@ forcibleness
 flapperism
 fruticulture
 flappers
-flappet
 flappy
 flappiest
 feud
