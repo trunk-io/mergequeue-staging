@@ -1256,7 +1256,6 @@ dative
 datively
 decemberish
 dativogerundial
-dato
 datolite
 datolitic
 doless
@@ -11900,6 +11899,7 @@ disegno
 diselectrify
 diselectrification
 diselenid
+dato
 diselenide
 disematism
 doorba
