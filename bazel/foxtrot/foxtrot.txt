@@ -2146,7 +2146,6 @@ fearnaught
 felspar
 felspars
 felspath
-felspathose
 friezy
 felstone
 felstones
@@ -3424,6 +3423,7 @@ fravashi
 figo
 figpecker
 figs
+felspathose
 frangi
 figshell
 fury
