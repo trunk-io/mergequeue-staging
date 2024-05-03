@@ -662,7 +662,6 @@ cafh
 cafila
 cafiz
 cafoy
-caftan
 chandam
 caftaned
 caftans
@@ -14676,6 +14675,7 @@ cystidia
 cystidium
 cystidiums
 cystiferous
+caftan
 cystiform
 cystigerous
 cystignathidae

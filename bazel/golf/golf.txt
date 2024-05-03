@@ -6306,6 +6306,7 @@ gnawer
 gnawing
 gelatinobromide
 gnawings
+grubstaker
 glucase
 gnaws
 gneiss
@@ -9598,7 +9599,6 @@ grubroot
 grubs
 grubstake
 garle
-grubstaker
 grubstakes
 grubstaking
 grubworms
