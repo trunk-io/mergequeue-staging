@@ -811,7 +811,6 @@ badgerer
 badgering
 baccarats
 blundersome
-badgerly
 badgerlike
 badgers
 badgerweed
@@ -10767,6 +10766,7 @@ blepharolithiasis
 brichette
 blepharomelasma
 blepharoncosis
+badgerly
 blepharoncus
 blepharophyma
 blepharophryplasty
