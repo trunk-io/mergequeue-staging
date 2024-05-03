@@ -5553,7 +5553,6 @@ flightless
 forepassed
 flights
 flightshot
-fetich
 flightworthy
 flying
 flyings
@@ -11370,6 +11369,7 @@ furied
 furies
 furify
 flative
+fetich
 furil
 finagled
 furyl
