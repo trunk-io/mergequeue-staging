@@ -4356,6 +4356,7 @@ enablers
 enabling
 enact
 enactable
+excursioner
 enacted
 epiphysitis
 epithelioglandular
@@ -13264,7 +13265,6 @@ exponentiate
 exponentiated
 esparsette
 ectocyst
-excursioner
 exponentiates
 exponentiation
 exponention
