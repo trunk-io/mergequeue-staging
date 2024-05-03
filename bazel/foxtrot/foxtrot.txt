@@ -1125,6 +1125,7 @@ farthermost
 farthing
 fleabitten
 farthingale
+fleabiting
 farads
 farthingales
 farthingdeal
@@ -7572,7 +7573,6 @@ foreday
 foredays
 formulaic
 fivefoldness
-fleabiting
 foredated
 folliful
 foredeck
