@@ -7313,7 +7313,6 @@ beswarm
 beswarmed
 basidiosporous
 beswarms
-besweatered
 beswelter
 beswinge
 beswink
@@ -14344,6 +14343,7 @@ brainpower
 barfing
 brains
 bridgekeeper
+besweatered
 brainsickness
 burnwood
 blarneys

@@ -12171,7 +12171,6 @@ anatomicosurgical
 anatomies
 anatomiless
 anatomisation
-anatomise
 anatomised
 anatomiser
 anatomising
@@ -20474,6 +20473,7 @@ artcraft
 arte
 artefac
 artefact
+anatomise
 artefacts
 anabolite
 artel
