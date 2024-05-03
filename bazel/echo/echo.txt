@@ -8495,7 +8495,6 @@ eponymism
 eponymist
 eponymous
 eponyms
-exopterygota
 eponymus
 epoophoron
 epop
@@ -13109,6 +13108,7 @@ expiates
 epicedia
 expiating
 ethnography
+exopterygota
 expiational
 executorship
 expiations
