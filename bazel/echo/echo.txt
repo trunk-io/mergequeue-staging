@@ -5478,7 +5478,6 @@ endurable
 endurably
 endurance
 endurant
-endured
 exeresis
 endures
 excitement
@@ -13677,6 +13676,7 @@ extinctor
 extincts
 extine
 extinguised
+endured
 ententophil
 encallow
 extinguish
