@@ -7018,6 +7018,7 @@ euryhaline
 emprent
 entrancement
 entrancements
+echevin
 entrances
 entranceway
 entrancing
@@ -12420,7 +12421,6 @@ exerts
 exes
 exesion
 exestuate
-echevin
 exeunt
 exfetation
 exfiguration
