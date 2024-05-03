@@ -7904,7 +7904,6 @@ epigrams
 edgeways
 epigrapher
 epigraphy
-egyptianization
 epigraphic
 epigraphically
 exactors
@@ -13154,6 +13153,7 @@ explanate
 explanation
 explanations
 explanative
+egyptianization
 explanator
 eluates
 explanatory
