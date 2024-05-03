@@ -9878,6 +9878,7 @@ chemins
 chemiotactic
 chemiotaxic
 chemiotropic
+claimers
 chemiotropism
 chemiphotic
 convolutions
@@ -15286,7 +15287,6 @@ claimants
 clepe
 claimed
 claimer
-claimers
 claiming
 claimless
 claymore
