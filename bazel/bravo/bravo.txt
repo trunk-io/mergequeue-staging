@@ -2899,7 +2899,6 @@ barosinusitis
 barosinusitus
 barosma
 barosmin
-barostat
 bruta
 bain
 baroswitch
@@ -14393,6 +14392,7 @@ braker
 brakeroot
 brakesman
 blam
+barostat
 bocstaff
 baratheas
 brakesmen
