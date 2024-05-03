@@ -8901,7 +8901,6 @@ bint
 bintangor
 bints
 brack
-binturong
 binuclear
 binucleate
 besnow
@@ -13563,6 +13562,7 @@ boundable
 batteryman
 boundary
 bountith
+binturong
 bannerline
 boundless
 boundedly
