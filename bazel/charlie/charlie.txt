@@ -2981,7 +2981,6 @@ capataces
 capataz
 capax
 capcase
-costothoracic
 cape
 cunas
 caped
@@ -3859,6 +3858,7 @@ carcerate
 carcerated
 carcerating
 carceration
+costothoracic
 carcerist
 carcharhinus
 carcharias
