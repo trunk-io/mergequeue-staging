@@ -6374,7 +6374,6 @@ ensepulchre
 enamoredness
 enserf
 exomphalos
-enserfed
 enserfment
 elaborators
 ensete
@@ -11304,6 +11303,7 @@ evacuee
 extinguished
 evacuees
 evadable
+enserfed
 evade
 evaded
 evader
