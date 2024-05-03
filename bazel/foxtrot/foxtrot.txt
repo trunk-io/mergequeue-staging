@@ -4137,7 +4137,6 @@ firehouse
 fluff
 firehouses
 fireless
-forgetting
 firelight
 forfar
 firelike
@@ -11505,6 +11504,7 @@ furthering
 forehammer
 furthermore
 furthermost
+forgetting
 furthers
 furtive
 fimbrillose
