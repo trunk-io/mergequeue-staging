@@ -7862,6 +7862,7 @@ dewfalls
 dewflower
 dewy
 dewier
+ditetrahedral
 dewiest
 dewiness
 dextropedal
@@ -14152,7 +14153,6 @@ diterpene
 ditertiary
 dites
 ditetragonal
-ditetrahedral
 dechenite
 dithalous
 dithecal
