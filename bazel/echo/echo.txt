@@ -6850,7 +6850,6 @@ evanescible
 epitomizing
 entitled
 entitledness
-escalops
 enriched
 entitling
 entitule
@@ -13464,6 +13463,7 @@ exsector
 exsects
 exsert
 exserted
+escalops
 erogeny
 embolomeri
 exserting
