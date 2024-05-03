@@ -17844,7 +17844,6 @@ apply
 appliable
 appliableness
 appliance
-appliances
 accommodation
 aphyllose
 appliant
@@ -21599,6 +21598,7 @@ assailers
 assailing
 alpiste
 assailment
+appliances
 assais
 assays
 assalto
