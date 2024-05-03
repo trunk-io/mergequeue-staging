@@ -10381,6 +10381,7 @@ americanization
 americanize
 americanized
 antitangent
+automated
 adjustation
 audio
 americanizer
@@ -24192,7 +24193,6 @@ automat
 automata
 automatable
 automate
-automated
 atomistics
 automates
 automatic
