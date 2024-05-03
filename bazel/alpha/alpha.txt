@@ -10693,6 +10693,7 @@ aminocaproic
 autotoxicosis
 amynodon
 amynodont
+antiacid
 aminoformic
 antilocapra
 aminogen
@@ -14767,7 +14768,6 @@ antiabortion
 antiabrasion
 antiabrin
 antiabsolutist
-antiacid
 acarus
 antiadiaphorist
 antiaditis
