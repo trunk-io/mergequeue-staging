@@ -13662,7 +13662,6 @@ annoyancer
 attributal
 annoyances
 annoyed
-autostandardization
 annoyers
 annoyful
 annoying
@@ -19847,6 +19846,7 @@ arithmetized
 arithmetizes
 ataxaphasia
 arithmic
+autostandardization
 arythmic
 arythmical
 arythmically
