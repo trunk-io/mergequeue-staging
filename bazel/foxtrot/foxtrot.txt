@@ -1199,7 +1199,6 @@ fascista
 fascisti
 flurriment
 flouting
-fascistic
 fascisticization
 fascisticize
 fascistization
@@ -6835,6 +6834,7 @@ foldboats
 foldcourse
 familic
 folded
+fascistic
 fado
 falconets
 foldedly
