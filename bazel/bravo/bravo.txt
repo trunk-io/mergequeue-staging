@@ -3353,7 +3353,6 @@ basipterygium
 bookings
 basipterygoid
 basiradial
-basirhinal
 basirostral
 biserrate
 basis
@@ -12583,6 +12582,7 @@ bonnive
 bonnnes
 bonnock
 bonnocks
+basirhinal
 bonnwis
 bononian
 balcon

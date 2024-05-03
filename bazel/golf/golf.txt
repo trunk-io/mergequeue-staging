@@ -4049,6 +4049,7 @@ gigaton
 gigatons
 gigavolt
 gigawatt
+genetor
 gigawatts
 gigelira
 gigeria
@@ -4893,7 +4894,6 @@ gyte
 giterne
 gibsons
 gith
-genetor
 gitksan
 grapewort
 geobotanical
