@@ -1354,6 +1354,7 @@ gardens
 garderobe
 gardeviance
 graphite
+govern
 gardevin
 gardevisure
 gardy
@@ -7469,7 +7470,6 @@ gouvernante
 giddea
 gouvernantes
 gove
-govern
 governability
 governable
 genipa
