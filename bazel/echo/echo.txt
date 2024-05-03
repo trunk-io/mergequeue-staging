@@ -2226,7 +2226,6 @@ eldred
 eventuate
 eldress
 eldritch
-elds
 eleanor
 eleazar
 elec
@@ -4572,6 +4571,7 @@ exceptant
 encephalitis
 encephalitogenic
 encephalocele
+elds
 encephalocoele
 encephalodialysis
 elotherium
