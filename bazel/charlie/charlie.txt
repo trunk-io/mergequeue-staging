@@ -11904,7 +11904,6 @@ chording
 chorditis
 chordoid
 chordomesoderm
-chordophone
 chordotomy
 chordotonal
 chords
@@ -22256,6 +22255,7 @@ congestible
 congesting
 congestion
 congestions
+chordophone
 congestive
 congests
 congestus
