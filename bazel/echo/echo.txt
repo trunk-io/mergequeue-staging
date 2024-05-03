@@ -2003,7 +2003,6 @@ ejidos
 ejoo
 ejulate
 ejusd
-ejusdem
 ekacaesium
 ekamanganese
 ekasilicon
@@ -12775,6 +12774,7 @@ exorcisers
 epithelization
 exorcises
 exorcising
+ejusdem
 exorcism
 exorcisory
 exorcist
