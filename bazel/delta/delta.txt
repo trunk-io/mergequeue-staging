@@ -2296,7 +2296,6 @@ deceptional
 deceptions
 deceptious
 discouraged
-diethylstilbestrol
 deceptive
 deceptively
 deceptory
@@ -13939,6 +13938,7 @@ distracted
 distractedly
 distractedness
 distracter
+diethylstilbestrol
 distractibility
 distractible
 distractile
