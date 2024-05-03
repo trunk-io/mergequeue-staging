@@ -6987,7 +6987,6 @@ dismissed
 despraise
 despumate
 despumated
-darting
 despumation
 despume
 desquamate
@@ -8524,6 +8523,7 @@ diaphyseal
 diaphyses
 demibastioned
 diaphysial
+darting
 diaphysis
 diaphone
 diaphones
