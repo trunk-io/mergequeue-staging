@@ -2140,7 +2140,6 @@ gurdy
 gazangabin
 gazania
 griffado
-gazebo
 glimpse
 gloppy
 gazebos
@@ -8500,6 +8499,7 @@ gravitate
 gravitated
 gelee
 guanare
+gazebo
 gonimolobe
 gravitation
 gesticulacious
