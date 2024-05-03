@@ -6374,6 +6374,7 @@ cavekeeper
 caveman
 cavemen
 cavendish
+concatenate
 caver
 cavernal
 cystein
@@ -21143,7 +21144,6 @@ concamerated
 concameration
 concarnation
 concatenary
-concatenate
 concatenated
 cornelius
 chemoreflex
