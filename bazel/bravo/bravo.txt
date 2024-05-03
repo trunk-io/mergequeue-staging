@@ -2418,7 +2418,6 @@ barberess
 barberfish
 barbery
 barbering
-barbero
 barberry
 barberries
 bluestone
@@ -12037,6 +12036,7 @@ boiling
 boilingly
 bladdernose
 boiloff
+barbero
 boiloffs
 boils
 boing
