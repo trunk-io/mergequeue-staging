@@ -811,7 +811,6 @@ danegelt
 dyakisdodecahedron
 dungeon
 danes
-daneweed
 daneweeds
 danewort
 daneworts
@@ -14871,6 +14870,7 @@ dodged
 dodgeful
 dermophlebitis
 dodger
+daneweed
 dodgery
 dodgeries
 dodgers
