@@ -6805,6 +6805,7 @@ gonfaloniership
 gonfanon
 gonfanons
 gong
+gelidity
 gula
 gonged
 gonging
@@ -10145,7 +10146,6 @@ gurneys
 granduncle
 guidership
 gleanings
-gelidity
 guides
 guideway
 goniopholis
