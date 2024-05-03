@@ -1546,7 +1546,6 @@ calms
 calocarpum
 calochortaceae
 coprostanol
-calochortus
 calodaemon
 calodemon
 calodemonial
@@ -28931,6 +28930,7 @@ cribriformity
 cribrosity
 chevrony
 cribrous
+calochortus
 cribs
 comprehends
 chaperoning
