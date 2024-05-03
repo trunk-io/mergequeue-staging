@@ -3482,7 +3482,6 @@ bastillion
 bankbooks
 biggah
 bastiment
-bastinade
 bastinaded
 bastinades
 baroi
@@ -14353,6 +14352,7 @@ burnwood
 blarneys
 brainstem
 brainstems
+bastinade
 brainstone
 begowned
 brainstormer
