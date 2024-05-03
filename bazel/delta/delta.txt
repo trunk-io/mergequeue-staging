@@ -3379,7 +3379,6 @@ defis
 defix
 desalt
 deflagrable
-deflagrate
 deflagrated
 deflagrates
 deflagrating
@@ -11008,6 +11007,7 @@ disalike
 disally
 disalliege
 disallow
+deflagrate
 disallowable
 disallowableness
 disallowance

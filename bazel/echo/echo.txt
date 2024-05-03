@@ -2217,7 +2217,6 @@ elderwood
 elderwort
 eldfather
 extrapolative
-eldin
 emulsibility
 engelmannia
 emraud
@@ -10383,6 +10382,7 @@ ethylidyne
 ethylin
 ethylmorphine
 ethyls
+eldin
 eigenstate
 eburnation
 ethylsulphuric
