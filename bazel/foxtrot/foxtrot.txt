@@ -4463,6 +4463,7 @@ fistinut
 fistle
 fistmele
 fistnote
+flashproof
 forecounsel
 fistnotes
 fishhold
@@ -11705,7 +11706,6 @@ forfeitable
 futuric
 futurism
 fibroareolar
-flashproof
 futuristically
 fenagling
 futurists
