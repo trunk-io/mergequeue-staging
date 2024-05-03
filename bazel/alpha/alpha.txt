@@ -5728,6 +5728,7 @@ afterlife
 ammonifier
 afterlifetime
 afterlight
+apprentices
 afterlives
 atmometer
 afterloss
@@ -16047,7 +16048,6 @@ antiproductive
 antiproductively
 antiproductivity
 antiprofiteering
-apprentices
 antiprogressive
 antiprohibition
 antiprophet
