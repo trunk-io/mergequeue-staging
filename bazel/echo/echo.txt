@@ -289,6 +289,7 @@ easting
 eastings
 eastlake
 eastlander
+encharnel
 eastlin
 electrosynthesis
 eastling
@@ -4644,7 +4645,6 @@ encharged
 encharging
 exopodite
 epirogenic
-encharnel
 enchased
 enchaser
 enchasers
