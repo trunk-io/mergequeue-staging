@@ -3256,7 +3256,6 @@ defensively
 defensiveness
 defensor
 defensory
-defensorship
 defer
 deference
 deferent
@@ -16374,6 +16373,7 @@ downstroke
 downswing
 downswings
 downtake
+defensorship
 downthrow
 downthrown
 downthrust
