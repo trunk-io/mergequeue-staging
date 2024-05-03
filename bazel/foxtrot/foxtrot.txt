@@ -6205,7 +6205,6 @@ forenames
 flatfoots
 fanback
 fluctuating
-fluctuation
 fluctuational
 fluctuations
 fluctuosity
@@ -11738,6 +11737,7 @@ fuzz
 fuzzed
 fuzzes
 fuzziest
+fluctuation
 fuzzily
 fuzzing
 fuzztail
