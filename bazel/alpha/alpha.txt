@@ -2273,7 +2273,6 @@ achier
 atmoclastic
 achiest
 achievable
-achieve
 achieved
 achievement
 avert
@@ -22718,6 +22717,7 @@ atmolyze
 atmology
 atmologic
 anisotropous
+achieve
 adjt
 atmological
 atmologist

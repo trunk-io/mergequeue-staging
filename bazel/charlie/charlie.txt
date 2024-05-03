@@ -2984,7 +2984,6 @@ capax
 capcase
 costothoracic
 cape
-capeadores
 cunas
 caped
 capelan
@@ -27163,6 +27162,7 @@ countersurprise
 countersway
 counterswing
 corroded
+capeadores
 countertack
 countertally
 countertechnicality
