@@ -645,7 +645,6 @@ ferruminated
 food
 fructoses
 familia
-familial
 familiary
 familiarise
 familiarised
@@ -2245,6 +2244,7 @@ fenceless
 fideicommissary
 fencelessness
 fencelet
+familial
 fencelike
 frolickly
 fenceplay
