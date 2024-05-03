@@ -9067,7 +9067,6 @@ camassia
 charivari
 charivaried
 carpophaga
-chark
 contraflexure
 charka
 charked
@@ -30222,6 +30221,7 @@ crumply
 crumpling
 crumster
 crunch
+chark
 crunchable
 crunched
 cruncher
