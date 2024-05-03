@@ -1569,6 +1569,7 @@ gascons
 gascromh
 gliosis
 gaselier
+gelatose
 gaseous
 gaseously
 gaseousness
@@ -2402,7 +2403,6 @@ gelation
 greaves
 gablewindowed
 gelations
-gelatose
 geld
 geldability
 geldable

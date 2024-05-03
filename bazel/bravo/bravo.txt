@@ -3985,7 +3985,6 @@ bea
 beach
 beachcomb
 beachcomber
-beachcombing
 beachdrops
 beached
 brasserie
@@ -10470,6 +10469,7 @@ blastogranitic
 blastoma
 blastomas
 blastomata
+beachcombing
 blastomere
 blastomeric
 blastomycete
