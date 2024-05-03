@@ -2020,7 +2020,6 @@ gaunty
 gauntleted
 gauntleting
 gauntlets
-gauntly
 gauntness
 gauntry
 gauping
@@ -5685,6 +5684,7 @@ globetrotting
 gadding
 globy
 globicephala
+gauntly
 gorsier
 globigerina
 gurdfish

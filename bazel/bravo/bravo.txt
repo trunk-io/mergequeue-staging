@@ -10376,7 +10376,6 @@ blankit
 blankminded
 bullneck
 blankmindedness
-blankness
 blanks
 blanque
 blanquillo
@@ -17319,6 +17318,7 @@ bunch
 bunchberries
 buncher
 bunches
+blankness
 boho
 bunchflower
 bunchy
