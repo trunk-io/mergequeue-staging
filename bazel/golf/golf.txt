@@ -6525,6 +6525,7 @@ goff
 generation
 goffered
 grosgrain
+gnars
 gofferer
 goffle
 gog
@@ -10102,7 +10103,6 @@ guggled
 gharnao
 glossarially
 gugglet
-gnars
 guggling
 gimirrai
 guglets
