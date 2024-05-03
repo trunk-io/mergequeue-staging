@@ -6611,7 +6611,6 @@ benders
 berascaling
 berascals
 berate
-bicylindrical
 bicentennially
 berated
 birthless
@@ -12589,6 +12588,7 @@ bonos
 bergeret
 bons
 bonsai
+bicylindrical
 bonsela
 bebrine
 brigantine
