@@ -5456,7 +5456,6 @@ endrin
 endrins
 endromididae
 endrudge
-endrumpf
 electroballistic
 endsheet
 endship
@@ -11163,6 +11162,7 @@ eurypharynx
 euripi
 euripidean
 evestar
+endrumpf
 eozoic
 euripides
 eurypyga
