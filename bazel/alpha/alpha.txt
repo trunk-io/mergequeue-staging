@@ -10609,7 +10609,6 @@ amylo
 astrolater
 amylocellulose
 amylocoagulase
-amylodyspepsia
 amylogen
 amylogenesis
 amylogenic
@@ -24955,6 +24954,7 @@ awaruite
 awaste
 awat
 awater
+amylodyspepsia
 awave
 awber
 awd
