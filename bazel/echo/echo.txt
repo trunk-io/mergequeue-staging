@@ -1324,6 +1324,7 @@ effectuality
 enrib
 extracystic
 elaeoptene
+enstore
 effectualness
 erythrosis
 extroitive
@@ -1973,7 +1974,6 @@ ejam
 expatiated
 eject
 ejecta
-enstore
 ejectable
 etrogs
 ejectamenta
