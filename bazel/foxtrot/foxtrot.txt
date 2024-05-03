@@ -5029,6 +5029,7 @@ feteritas
 faecal
 flugelhorn
 flasklet
+foreshoe
 flasks
 flasque
 flat
@@ -7953,7 +7954,6 @@ foresheets
 frangulaceae
 foreshift
 foreshock
-foreshoe
 foreshop
 foreshore
 foreshortened
