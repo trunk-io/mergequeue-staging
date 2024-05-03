@@ -2912,6 +2912,7 @@ barpost
 bossdoms
 barquantine
 barque
+blin
 barques
 barquest
 bedust
@@ -12606,7 +12607,6 @@ bontebucks
 bontequagga
 bonum
 bonus
-blin
 bonuses
 balanoglossus
 bonxie
