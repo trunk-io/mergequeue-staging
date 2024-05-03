@@ -9414,7 +9414,6 @@ birdcatching
 birdclapper
 bibbers
 birdcraft
-barndoor
 birddom
 birde
 beboss
@@ -13942,6 +13941,7 @@ brabblers
 bugbears
 brabbling
 brabejum
+barndoor
 bracae
 braccae
 braccate
