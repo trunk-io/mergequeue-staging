@@ -8198,7 +8198,6 @@ episepalous
 externum
 episyllogism
 essayette
-episyntheton
 episiocele
 episiohematoma
 episioplasty
@@ -11141,6 +11140,7 @@ eurybenthic
 endeared
 eurycephalic
 embog
+episyntheton
 eurycephalous
 eumycetes
 electrophilically
