@@ -7362,6 +7362,7 @@ cephalogram
 cephalograph
 cephalohumeral
 cephalohumeralis
+cordonazos
 cephaloid
 cephalology
 cephalom
@@ -25015,7 +25016,6 @@ cordoban
 cordobas
 cordon
 cordonazo
-cordonazos
 cordoned
 cordonnet
 cordons
