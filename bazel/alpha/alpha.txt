@@ -2385,7 +2385,6 @@ achromatosis
 achromatous
 achromats
 acloud
-achromaturia
 achromia
 achromic
 anusvara
@@ -5363,6 +5362,7 @@ affeer
 affeerer
 affeerment
 affeeror
+achromaturia
 affeir
 affenpinscher
 affenspalte
