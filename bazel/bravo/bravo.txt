@@ -7877,7 +7877,6 @@ bibenzyl
 bibi
 bibio
 bibionid
-bibionidae
 bibiri
 bibiru
 bibitory
@@ -8069,6 +8068,7 @@ bicycular
 biciliated
 bisulcated
 boyaux
+bibionidae
 bicipital
 boh
 bicipitous
