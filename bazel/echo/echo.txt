@@ -7130,7 +7130,6 @@ echinops
 errantly
 enumerably
 enumerate
-enumerated
 enumerates
 enumerating
 enumeration
@@ -10403,6 +10402,7 @@ ethynyls
 ethiodide
 enlaces
 entincture
+enumerated
 erpetoichthys
 ethion
 evadible

@@ -4274,7 +4274,6 @@ deltas
 deltation
 delthyrial
 delthyrium
-deltic
 deltidia
 deltidial
 displacer
@@ -14508,6 +14507,7 @@ divulgatory
 divulge
 divulged
 divulgence
+deltic
 divulgences
 divulges
 divulging
