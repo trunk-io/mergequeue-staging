@@ -2413,6 +2413,7 @@ fleshed
 fermatian
 ferme
 forespeed
+forefeeling
 ferment
 fermentability
 furzechat
@@ -7621,7 +7622,6 @@ foredune
 forefaces
 fescenninity
 forefeel
-forefeeling
 forefeelingly
 forefeels
 fungicide
