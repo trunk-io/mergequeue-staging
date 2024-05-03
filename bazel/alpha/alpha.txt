@@ -1627,7 +1627,6 @@ acclimatizer
 acclimatizes
 acclimatizing
 acclimature
-acclinal
 acclinate
 auxometer
 acclivities
@@ -11599,6 +11598,7 @@ anacatadidymus
 anacatharsis
 anacathartic
 anacephalaeosis
+acclinal
 acidiferous
 anacephalize
 anaces

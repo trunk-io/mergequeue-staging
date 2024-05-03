@@ -5509,7 +5509,6 @@ dedicates
 deoxygenating
 deoxygenation
 deprecate
-delphinium
 deoxygenization
 deoxygenize
 deoxygenized
@@ -16280,6 +16279,7 @@ downed
 downer
 downface
 differen
+delphinium
 downfallen
 downfeed
 downflow
