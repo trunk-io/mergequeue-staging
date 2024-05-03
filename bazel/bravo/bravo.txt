@@ -9200,7 +9200,6 @@ biosphere
 biospheres
 biostatic
 biostatical
-biostatistic
 biostatistics
 biosterin
 bletting
@@ -9650,6 +9649,7 @@ bisegment
 barringer
 bisellia
 bisellium
+biostatistic
 bysen
 biseptate
 buckhound
