@@ -3692,7 +3692,6 @@ degust
 degustate
 degusted
 degusting
-degusts
 dehair
 dehairer
 ditchless
@@ -15202,6 +15201,7 @@ deoxyribonucleoprotein
 dimmable
 dolldom
 dolled
+degusts
 dolley
 dollface
 dehull
