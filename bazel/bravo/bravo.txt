@@ -5630,7 +5630,6 @@ barricos
 belash
 belat
 belate
-belated
 belatedly
 belatedness
 belating
@@ -7723,6 +7722,7 @@ bhandar
 bhang
 bhangi
 bhar
+belated
 bhara
 bharal
 benzophenanthrazine
