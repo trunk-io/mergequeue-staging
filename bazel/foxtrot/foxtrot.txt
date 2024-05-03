@@ -659,7 +659,6 @@ fireman
 familiarizations
 familiarized
 familiarizer
-familiarizes
 fartherer
 familiarizingly
 familiarly
@@ -1596,6 +1595,7 @@ favored
 favoredly
 favorers
 favoring
+familiarizes
 favorites
 favors
 favosely
