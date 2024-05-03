@@ -3047,7 +3047,6 @@ fulgur
 fibrocaseous
 fibrocement
 fibrochondrosteal
-fibrocyst
 fibrocystoma
 fairwater
 fibrocyte
@@ -5714,6 +5713,7 @@ futharks
 fleuronee
 flytrap
 flytraps
+fibrocyst
 flits
 flitted
 flitterbat
