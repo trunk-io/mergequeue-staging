@@ -4521,6 +4521,7 @@ demidigested
 demidistance
 demiditone
 demidoctor
+discriminability
 demidog
 deriv
 downtroddenness
@@ -11776,7 +11777,6 @@ digitalizing
 discretiveness
 desterilized
 drawknot
-discriminability
 divinations
 discriminably
 discriminal
