@@ -390,6 +390,7 @@ backframe
 beknot
 backfriend
 backfurrow
+budukha
 backgammon
 backgeared
 backgrounds
@@ -523,7 +524,6 @@ backspacing
 backspang
 backspeir
 backspier
-budukha
 backspierer
 backspins
 backsplice
