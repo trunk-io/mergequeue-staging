@@ -3316,7 +3316,6 @@ emane
 emanent
 emanium
 emarginate
-emarginated
 eroses
 effatum
 emarginating
@@ -13788,6 +13787,7 @@ extractant
 edituate
 erasing
 extractibility
+emarginated
 extractible
 extracting
 expressure
