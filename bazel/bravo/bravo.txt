@@ -3179,6 +3179,7 @@ basellaceae
 baseman
 basemen
 beggary
+bloom
 basement
 basements
 bluchers
@@ -11137,7 +11138,6 @@ bloodworm
 blab
 blooey
 blooie
-bloom
 bloomage
 bloomed
 brachydome
