@@ -18285,7 +18285,6 @@ chalazium
 coformulator
 conversationist
 cofound
-cofounded
 cofounder
 cofounding
 cofoundress
@@ -29039,6 +29038,7 @@ crymoanesthesia
 crymodynia
 crimogenic
 crymotherapy
+cofounded
 crimp
 crimpage
 crimped
