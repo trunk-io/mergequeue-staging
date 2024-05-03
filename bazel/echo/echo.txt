@@ -11816,7 +11816,6 @@ examinees
 examiners
 ephydrid
 examinership
-examines
 examplar
 equestrians
 example
@@ -13761,6 +13760,7 @@ extracarpal
 extracellular
 extracellularly
 extracerebral
+examines
 extrachromosomal
 extracivic
 extracivically
