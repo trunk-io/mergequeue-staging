@@ -2347,7 +2347,6 @@ feoffment
 feoffor
 feoffors
 feoffs
-fastigiated
 fer
 feracious
 feracities
@@ -11390,6 +11389,7 @@ furlable
 furlan
 furlana
 furlane
+fastigiated
 furler
 furless
 furling
