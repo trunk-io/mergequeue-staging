@@ -13607,6 +13607,7 @@ exteriorly
 exteriorness
 evilsayer
 exterminate
+extinctor
 erythroplastid
 exterminated
 epionynychia
@@ -13675,7 +13676,6 @@ enfield
 entangler
 extinctions
 extinctive
-extinctor
 extincts
 extine
 extinguised
