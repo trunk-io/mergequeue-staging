@@ -3131,6 +3131,7 @@ geomalism
 gambesons
 geomancer
 geomancy
+grandmotherhood
 giraffoid
 geomancies
 geomant
@@ -7951,7 +7952,6 @@ grandmother
 glossopode
 gossipping
 gallus
-grandmotherhood
 grandmotherly
 grandmotherliness
 grainers
