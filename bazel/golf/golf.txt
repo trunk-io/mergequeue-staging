@@ -5728,7 +5728,6 @@ globuliform
 globulimeter
 globulin
 globulins
-globulysis
 globulite
 glochchidia
 glochidia
@@ -9137,6 +9136,7 @@ gruf
 grisons
 gingras
 gonococcus
+globulysis
 grisounite
 gliomas
 grisoutine
