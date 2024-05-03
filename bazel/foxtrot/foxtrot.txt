@@ -7242,6 +7242,7 @@ footsteps
 footstick
 flashbulbs
 footstock
+functionating
 footstone
 footstools
 footway
@@ -11092,7 +11093,6 @@ functionals
 functionary
 functionaries
 functionate
-functionating
 functionation
 functioned
 functioning
