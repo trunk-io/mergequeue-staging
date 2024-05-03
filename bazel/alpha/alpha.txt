@@ -12569,7 +12569,6 @@ anelace
 adjustable
 anelasticity
 anele
-anelectric
 anelectrode
 anelectrotonic
 anelectrotonus
@@ -17696,6 +17695,7 @@ appellatived
 alcovinometer
 appellatively
 appellativeness
+anelectric
 appellatory
 appellees
 acmispon
