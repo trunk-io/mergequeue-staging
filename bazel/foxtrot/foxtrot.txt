@@ -1314,6 +1314,7 @@ fatalistically
 fatalists
 fatality
 fatalities
+frowsiness
 fatally
 fatalness
 flap
@@ -10548,7 +10549,6 @@ frowsy
 frowsier
 frowsiest
 frowsily
-frowsiness
 frowsty
 frowstier
 flatuous
