@@ -643,7 +643,6 @@ echometer
 echopractic
 ecumenopolis
 echos
-echovirus
 episcia
 echowise
 echt
@@ -5016,6 +5015,7 @@ endeictic
 endeign
 endemical
 endemically
+echovirus
 enskyed
 endemicity
 enteradenography
