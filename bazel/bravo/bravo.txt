@@ -1972,7 +1972,6 @@ bandido
 bandie
 bandying
 bandikai
-bandylegged
 bandiness
 banding
 bandit
@@ -12184,6 +12183,7 @@ bolognese
 bolography
 becrusts
 bolographic
+bandylegged
 bolographically
 boloing
 boloism
