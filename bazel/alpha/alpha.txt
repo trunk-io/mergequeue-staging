@@ -5580,7 +5580,6 @@ aforehand
 aforementioned
 aforenamed
 aforesaid
-aforethought
 aforetime
 aforeward
 afortiori
@@ -14398,6 +14397,7 @@ apasttra
 anteverting
 anteverts
 americanist
+aforethought
 antevocalic
 antewar
 anthdia
