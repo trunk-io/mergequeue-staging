@@ -2324,6 +2324,7 @@ essency
 electrocapillarity
 electrocardiograms
 electrocardiographically
+enures
 electrocardiographs
 electrocatalysis
 electrocataphoresis
@@ -7153,7 +7154,6 @@ enunciatory
 enunciators
 enure
 enured
-enures
 enureses
 enuresis
 enuresises
