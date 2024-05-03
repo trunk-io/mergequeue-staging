@@ -4994,6 +4994,7 @@ enddamaging
 ende
 endear
 endearance
+exfoliatory
 endearedly
 endearing
 endearingness
@@ -12441,7 +12442,6 @@ equijacent
 elpidite
 exfoliative
 egally
-exfoliatory
 exgorgitation
 enanthesis
 ethnocentrically
