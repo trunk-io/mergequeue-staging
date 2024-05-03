@@ -3410,7 +3410,6 @@ extinction
 echinid
 embed
 embedded
-entelodont
 embedder
 elaidinic
 exsibilate
@@ -8546,6 +8545,7 @@ equalises
 equalitarian
 equalitarianism
 equality
+entelodont
 emendation
 exhaustlessness
 equalize
