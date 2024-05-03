@@ -4343,6 +4343,7 @@ fleeten
 fishing
 fightingly
 fishingly
+fullerboard
 fishlet
 fishlike
 fishline
@@ -10897,7 +10898,6 @@ fulldo
 fulled
 fallen
 fuller
-fullerboard
 fullery
 fulleries
 fullering
