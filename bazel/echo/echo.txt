@@ -2264,7 +2264,6 @@ electoral
 electorally
 electorate
 electorates
-electorial
 electors
 extravaganza
 electra
@@ -2889,6 +2888,7 @@ elevons
 elf
 elfenfolk
 elfhood
+electorial
 epinard
 elfic
 extremuma
