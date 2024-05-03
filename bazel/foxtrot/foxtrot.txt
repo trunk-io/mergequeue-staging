@@ -1780,7 +1780,6 @@ fissiparous
 felucca
 feats
 fouldre
-featural
 fainness
 featurally
 feature
@@ -11104,6 +11103,7 @@ functionating
 functionation
 functioned
 functioning
+featural
 functionize
 functionless
 functionlessness
