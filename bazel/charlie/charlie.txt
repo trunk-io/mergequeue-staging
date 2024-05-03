@@ -12248,7 +12248,6 @@ chrysographer
 cosmorganic
 chrysography
 chrysoidine
-chrysology
 chrysolophus
 chrisom
 chrysomelid
@@ -12599,6 +12598,7 @@ chromotropic
 concepts
 chromotropism
 conflagrate
+chrysology
 chromous
 chromoxylograph
 chromule
