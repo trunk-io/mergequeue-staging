@@ -7927,7 +7927,6 @@ epilaryngeal
 epilated
 epilating
 epilation
-epilator
 euthanasy
 epilemma
 epilemmal
@@ -8047,6 +8046,7 @@ epiopticon
 epiotic
 epipactis
 eriophorum
+epilator
 epipaleolithic
 epipanies
 enjoins
