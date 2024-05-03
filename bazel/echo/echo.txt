@@ -4491,7 +4491,6 @@ erythrosiderite
 encalendar
 encamp
 encamped
-encamping
 encampment
 encampments
 endoparasite
@@ -7452,6 +7451,7 @@ ependymal
 easternize
 excelse
 ependyme
+encamping
 ependymitis
 ependymoma
 epenetic
