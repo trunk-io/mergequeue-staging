@@ -2991,7 +2991,6 @@ fibred
 fibreless
 fibril
 fibrilated
-fibrilation
 fibrillae
 fraken
 fibrillar
@@ -7204,6 +7203,7 @@ footraces
 footrail
 florimania
 footrests
+fibrilation
 fantasque
 footrope
 footropes
