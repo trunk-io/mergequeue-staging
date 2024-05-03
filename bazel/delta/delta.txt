@@ -3461,7 +3461,6 @@ defoil
 dawish
 defoliage
 defoliant
-dorsobranchiata
 defoliate
 diallist
 defoliates
@@ -5714,6 +5713,7 @@ diopsis
 deplorability
 deplorable
 deducts
+dorsobranchiata
 deplorableness
 deplorably
 deplorate
