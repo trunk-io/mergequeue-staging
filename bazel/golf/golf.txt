@@ -1836,7 +1836,6 @@ gastronomes
 gastronomical
 gastronomically
 gastronomics
-gastronosus
 gastropancreatic
 gastropancreatitis
 gastroparietal
@@ -9936,6 +9935,7 @@ guards
 galas
 guardsman
 guarea
+gastronosus
 guarico
 guarish
 geums
