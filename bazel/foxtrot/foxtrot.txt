@@ -5621,7 +5621,6 @@ flintstone
 frontspiece
 flintwood
 flyoff
-flioma
 flip
 findable
 frayn
@@ -10709,6 +10708,7 @@ flakers
 frust
 fecche
 frusta
+flioma
 frustrable
 frustraneous
 frustrate
