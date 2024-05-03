@@ -12575,7 +12575,6 @@ disjunctions
 disjunctive
 disjuncts
 dereferences
-disjuncture
 disk
 disked
 diskelion
@@ -14663,6 +14662,7 @@ duhr
 dochmius
 dochter
 dockages
+disjuncture
 docibility
 docible
 duckling
