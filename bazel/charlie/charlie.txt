@@ -23322,7 +23322,6 @@ containedly
 container
 containerboard
 containerization
-containerize
 containerized
 contraorbitally
 crewellery
@@ -23857,6 +23856,7 @@ contrivances
 contrivancy
 contrive
 contrived
+containerize
 contrivedly
 contrivement
 contriver
