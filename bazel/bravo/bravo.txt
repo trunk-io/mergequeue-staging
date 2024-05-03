@@ -2102,7 +2102,6 @@ banished
 brailing
 banisher
 banishers
-banishing
 bowsery
 banishment
 banister
@@ -18398,6 +18397,7 @@ buzzword
 buzzwords
 bvt
 bwana
+banishing
 bx
 bxs
 bz
