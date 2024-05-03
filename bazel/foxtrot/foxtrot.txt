@@ -7010,7 +7010,6 @@ fondlike
 fideicommissaries
 fondling
 ferryage
-fondlingly
 fondlings
 fondness
 fondouk
@@ -11221,6 +11220,7 @@ fungused
 fungusy
 funguslike
 funicle
+fondlingly
 funicles
 funiculars
 flamy
