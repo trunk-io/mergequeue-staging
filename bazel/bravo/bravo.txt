@@ -4927,7 +4927,6 @@ biffins
 beecher
 beeches
 beechy
-beechiest
 beechnut
 beechnuts
 beechwood
@@ -11697,6 +11696,7 @@ bobsledder
 bobsledders
 bobsledding
 bobsleded
+beechiest
 bobsleding
 bobsleds
 bobstay
