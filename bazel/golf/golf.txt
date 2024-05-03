@@ -171,7 +171,6 @@ gaff
 golkakra
 gaffe
 golfer
-gaffed
 gaffer
 gaffers
 gaffes
@@ -689,6 +688,7 @@ galinsoga
 galloons
 galabiya
 galloot
+gaffed
 galloots
 gallop
 gallopade
