@@ -3744,7 +3744,6 @@ batteau
 batted
 battel
 bonnering
-batteler
 battened
 battener
 batteners
@@ -7311,6 +7310,7 @@ beswarms
 beswelter
 beswinge
 beswink
+batteler
 beswitch
 beta
 betacaine
