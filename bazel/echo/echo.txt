@@ -3459,7 +3459,6 @@ embind
 embiodea
 embiotocid
 embiotocidae
-embiotocoid
 embira
 estragole
 embittered
@@ -5114,6 +5113,7 @@ encuirassed
 endoceras
 endoceratidae
 endoceratite
+embiotocoid
 endoceratitic
 endocervical
 endocervicitis
