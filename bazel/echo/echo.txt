@@ -8535,7 +8535,6 @@ epuloid
 epulones
 epulosis
 epural
-epuration
 eq
 equability
 equable
@@ -12193,6 +12192,7 @@ excretitious
 excretive
 excretory
 esthesio
+epuration
 ectropionizing
 excriminate
 exacerbate
