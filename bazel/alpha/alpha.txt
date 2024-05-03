@@ -1407,7 +1407,6 @@ acatalepsia
 acataleptic
 acatallactic
 acatamathesia
-asyndesis
 acataphasia
 acataposis
 acatastasia
@@ -20606,6 +20605,7 @@ arthrodesis
 arthrodia
 arthrodiae
 arthrodial
+asyndesis
 arthrodic
 arthrodymic
 assimilations
