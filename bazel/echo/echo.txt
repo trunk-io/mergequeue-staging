@@ -3104,7 +3104,6 @@ emmarbled
 elocular
 elocute
 elocutionist
-elocutionize
 elod
 elodea
 elodeas
@@ -9468,6 +9467,7 @@ escalader
 escalades
 escalading
 escalado
+elocutionize
 escalan
 escalate
 escalates
