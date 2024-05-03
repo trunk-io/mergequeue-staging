@@ -11900,6 +11900,7 @@ anametadromous
 amperage
 anamite
 anammonid
+ancestral
 anammonide
 asarite
 anamneses
@@ -12228,7 +12229,6 @@ ancerata
 ancestor
 ancestorially
 ancestors
-ancestral
 ancestrally
 ancestress
 ancestresses
