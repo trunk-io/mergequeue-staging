@@ -2755,6 +2755,7 @@ elementality
 elementally
 elementaloid
 escorting
+escript
 elementals
 enravish
 elementary
@@ -9613,7 +9614,6 @@ escribano
 escribe
 escribed
 escribiente
-escript
 escritoire
 escritoires
 escritorial
