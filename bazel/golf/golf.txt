@@ -4999,6 +4999,7 @@ goldstone
 glaciarium
 glaciate
 glaciated
+genial
 glaciates
 glaciating
 greaseproofness
@@ -6185,7 +6186,6 @@ glutaric
 glutch
 glutelin
 glutelins
-genial
 gluteofemoral
 gluteoinguinal
 gluteus
