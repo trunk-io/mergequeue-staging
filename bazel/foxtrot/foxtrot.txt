@@ -824,7 +824,6 @@ findability
 fanout
 fans
 fant
-fantad
 fantaddish
 fantail
 fantails
@@ -6663,6 +6662,7 @@ focus
 focused
 focusing
 focusless
+fantad
 focussed
 fluminose
 focusses
