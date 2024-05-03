@@ -1472,7 +1472,6 @@ callisto
 callithrix
 callithump
 callithumpian
-concurringly
 callitype
 callityped
 callityping
@@ -5946,6 +5945,7 @@ catholicization
 catholicize
 catholicized
 catholicizer
+concurringly
 catholicizing
 catholicly
 catholicness
