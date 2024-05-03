@@ -11326,7 +11326,6 @@ alismoid
 amphithecial
 antialien
 amphithecium
-amphithect
 amphithere
 antepartum
 amphithura
@@ -21594,6 +21593,7 @@ assayers
 assaying
 assail
 assailability
+amphithect
 assailable
 assailant
 attomy
