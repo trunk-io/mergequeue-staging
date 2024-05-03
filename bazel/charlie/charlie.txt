@@ -9021,6 +9021,7 @@ chary
 charybdian
 charybdis
 charicleia
+cryptographist
 charier
 chariest
 charily
@@ -29302,7 +29303,6 @@ cryptographer
 cryptography
 cryptographic
 cryptographical
-cryptographist
 coauditor
 cryptoheresy
 cryptoheretic
