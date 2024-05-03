@@ -5621,7 +5621,6 @@ everblooming
 embattling
 enfolden
 enfolder
-enfolders
 enfolding
 enfoldings
 enfoldment
@@ -13876,6 +13875,7 @@ extrametrical
 extrametropolitan
 encapsuling
 exudative
+enfolders
 extramission
 extramodal
 extramolecular
