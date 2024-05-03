@@ -9905,7 +9905,6 @@ fuds
 fretsome
 frett
 frettage
-faradization
 frettation
 frette
 fretted
@@ -9915,6 +9914,7 @@ fretters
 frettingly
 fretum
 fretways
+faradization
 fretwise
 fretwork
 farragoes
