@@ -14010,6 +14010,7 @@ dystrophia
 disleafed
 dystrophic
 dystrophies
+drawlatch
 distrouser
 distruss
 distrust
@@ -16816,7 +16817,6 @@ disjune
 disjointness
 drawknives
 drawl
-drawlatch
 drawler
 drawlers
 drawly
