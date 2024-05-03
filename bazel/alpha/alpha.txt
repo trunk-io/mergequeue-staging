@@ -5074,6 +5074,7 @@ aerohydroplane
 aerohydrotherapy
 apotheosise
 aquavalent
+armamentarium
 autological
 aerohydrous
 aeroides
@@ -19910,7 +19911,6 @@ armagnacs
 armament
 armamentary
 armamentaria
-armamentarium
 armangite
 armary
 arranging
