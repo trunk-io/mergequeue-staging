@@ -8814,7 +8814,6 @@ excoriable
 equivocated
 equivocates
 equivocatingly
-equivocation
 equivocations
 equivocatory
 equivocators
@@ -12850,6 +12849,7 @@ exothermic
 exothermically
 exothermous
 exotica
+equivocation
 excises
 exotically
 exoticalness
