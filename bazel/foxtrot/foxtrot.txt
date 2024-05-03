@@ -540,7 +540,6 @@ fallback
 fallbacks
 fallectomy
 fallenness
-frankforter
 faller
 familarity
 fallfish
@@ -7123,6 +7122,7 @@ footboys
 footbreadth
 footcandle
 footcandles
+frankforter
 footcloths
 finedraw
 footed
