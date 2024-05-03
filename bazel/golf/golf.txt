@@ -248,6 +248,7 @@ gaincall
 gaincome
 gelandesprung
 glaciers
+gramme
 getling
 gainer
 glumal
@@ -7841,7 +7842,6 @@ grammatite
 grammatolator
 goos
 grammatophyllum
-gramme
 grammies
 gramoches
 gramophone

@@ -2417,7 +2417,6 @@ furzechat
 fellowlike
 fermentable
 fermental
-fermentarian
 forlie
 fermentate
 fermentation
@@ -8401,6 +8400,7 @@ fogbows
 formatter
 formatters
 frigorifico
+fermentarian
 flappering
 formazan
 formazyl
