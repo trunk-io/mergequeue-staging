@@ -1692,7 +1692,6 @@ deaspirate
 decostate
 deassimilation
 deathbed
-deathbeds
 deathblows
 deathcup
 deathcups
@@ -3883,6 +3882,7 @@ deixis
 deja
 decamps
 dejectedly
+deathbeds
 dejectile
 dejecting
 dejections
