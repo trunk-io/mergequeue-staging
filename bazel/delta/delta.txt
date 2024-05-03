@@ -9242,7 +9242,6 @@ deviated
 dewlaps
 dielectric
 dielectrical
-dielectrically
 dielectrics
 debarkation
 dilating
@@ -17712,6 +17711,7 @@ duarchy
 dipterocecidium
 dub
 dubash
+dielectrically
 dubba
 differentials
 dubbah
