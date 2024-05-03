@@ -4904,7 +4904,6 @@ gitoxin
 glia
 grovelers
 galores
-gytrash
 gitter
 gittern
 groat
@@ -10256,6 +10255,7 @@ guitar
 guitarfish
 guitarfishes
 guitarist
+gytrash
 ganching
 ghazies
 guitarlike

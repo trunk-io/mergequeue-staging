@@ -5056,7 +5056,6 @@ abductors
 aerogenous
 aerogeography
 airplaning
-aerogeology
 aerogeologist
 aerognosy
 aerogram
@@ -6938,6 +6937,7 @@ agamospore
 aircraftsmen
 aircraftswoman
 aircraftswomen
+aerogeology
 aircraftwoman
 allotments
 aircrew
