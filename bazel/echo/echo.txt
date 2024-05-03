@@ -5643,6 +5643,7 @@ excommunicate
 enforcers
 enforces
 enforcibility
+enscrolling
 enforcible
 enforcing
 enforcingly
@@ -6348,7 +6349,6 @@ enscene
 ensconces
 ensconcing
 enscrolled
-enscrolling
 enscrolls
 ensculpture
 ense
