@@ -1158,7 +1158,6 @@ dasi
 dasya
 dasyatidae
 dasyatis
-dasylirion
 dasymeter
 dasypaedes
 downwarp
@@ -11303,6 +11302,7 @@ defining
 discept
 disceptator
 dinoceratidae
+dasylirion
 desmogen
 discepts
 discern
