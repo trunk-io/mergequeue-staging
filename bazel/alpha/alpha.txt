@@ -10111,7 +10111,6 @@ ambitus
 ambivalence
 ambivalency
 ambivalent
-ambivalently
 ambiversion
 ambiversive
 ambivert
@@ -19191,6 +19190,7 @@ archsacrificator
 archsacrificer
 archsaint
 archsatrap
+ambivalently
 archseducer
 archsee
 archsewer
