@@ -1104,6 +1104,7 @@ baillone
 baillonella
 bailment
 bessemerize
+byssin
 bailments
 bailo
 bailors
@@ -9771,7 +9772,6 @@ bissextus
 byssi
 byssiferous
 bijouterie
-byssin
 byssine
 byssinosis
 bisso
