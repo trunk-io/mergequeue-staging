@@ -7971,7 +7971,6 @@ eyespots
 epilogistic
 epilogized
 epilogizing
-extraovate
 epilogue
 exorciser
 epilogued
@@ -9544,6 +9543,7 @@ eschar
 endosmometer
 eschara
 escharine
+extraovate
 escharoid
 escharotic
 eschars
