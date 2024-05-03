@@ -9390,7 +9390,6 @@ birchen
 bircher
 bacchical
 birchers
-birches
 birching
 birchism
 birchman
@@ -13744,6 +13743,7 @@ bowden
 blathering
 bowdlerisation
 bowdlerise
+birches
 bowdlerised
 bowdlerising
 bowdlerization
