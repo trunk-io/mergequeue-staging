@@ -18593,6 +18593,7 @@ coindwelling
 coiner
 coiners
 crossrow
+complimenters
 coyness
 coynesses
 coinfeftment
@@ -20806,7 +20807,6 @@ complimentarity
 complimentation
 complimentative
 complimented
-complimenters
 complimenting
 complimentingly
 compliments
