@@ -1934,7 +1934,6 @@ debussing
 debut
 downligging
 debutante
-dooryard
 downcastly
 debutantes
 dragbar
@@ -16312,6 +16311,7 @@ downlier
 disglorify
 downlike
 downline
+dooryard
 downlink
 downlinks
 download
