@@ -3171,7 +3171,6 @@ geomorphology
 geomorphologic
 geomorphological
 guaranteers
-gruffer
 geon
 gabbart
 gangrels
@@ -5392,6 +5391,7 @@ gallied
 gliadine
 gliadines
 glib
+gruffer
 glissandos
 glibbery
 gastromyxorrhea
