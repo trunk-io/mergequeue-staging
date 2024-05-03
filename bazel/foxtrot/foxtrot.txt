@@ -6879,7 +6879,6 @@ foliation
 foliator
 foliature
 folies
-foliicolous
 foliiferous
 folily
 foreadapt
@@ -6994,6 +6993,7 @@ fondaco
 florally
 fondant
 fondants
+foliicolous
 fondateur
 furziest
 fonder
