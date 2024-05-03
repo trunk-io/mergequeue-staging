@@ -1837,6 +1837,7 @@ fidicinales
 flytier
 feckulence
 floggable
+flics
 feculence
 feculency
 fiscalize
@@ -5518,7 +5519,6 @@ flickers
 fatigating
 flickertail
 flicky
-flics
 flidge
 flyeater
 fmt
