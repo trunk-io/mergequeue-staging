@@ -3239,7 +3239,6 @@ fideles
 fidelia
 fortunous
 fertilizable
-fidelio
 fleshing
 fidelis
 fidelity
@@ -7293,6 +7292,7 @@ frontbencher
 foraged
 foragement
 forager
+fidelio
 foragers
 foraging
 forayed
