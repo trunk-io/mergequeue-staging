@@ -10449,7 +10449,6 @@ ametropic
 ametrous
 anaesthetization
 amex
-amgarn
 amhar
 afterbirths
 amharic
@@ -21088,6 +21087,7 @@ ascript
 ascription
 ascriptions
 ascriptitious
+amgarn
 ascriptive
 ascrive
 ascula
