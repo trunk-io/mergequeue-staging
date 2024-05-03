@@ -5352,6 +5352,7 @@ begoniaceous
 begoniales
 bullwork
 begonias
+breechless
 begorah
 begorra
 begorry
@@ -14926,7 +14927,6 @@ breechclout
 breeched
 breeches
 breeching
-breechless
 breechloader
 breechloading
 breed
