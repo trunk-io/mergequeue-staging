@@ -27474,7 +27474,6 @@ covariable
 covariance
 covariant
 contributive
-covariate
 covariates
 covariation
 covassal
@@ -31192,6 +31191,7 @@ curable
 curably
 curacao
 classification
+covariate
 curace
 curacy
 curacies
