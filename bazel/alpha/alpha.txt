@@ -1475,6 +1475,7 @@ accents
 anthropomorphised
 accentuable
 accentual
+apogon
 accentually
 arerola
 accentuated
@@ -17265,7 +17266,6 @@ aster
 apogeotropic
 apogeotropically
 apogeotropism
-apogon
 apogonid
 apogonidae
 apograph
