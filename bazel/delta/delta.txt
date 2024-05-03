@@ -6476,6 +6476,7 @@ descendents
 denumerant
 descender
 descenders
+dungon
 descendibility
 descendible
 descending
@@ -18212,7 +18213,6 @@ dungyard
 dungier
 dungiest
 dunging
-dungon
 disapprobative
 downfall
 dungs
