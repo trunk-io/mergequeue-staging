@@ -11052,7 +11052,6 @@ chirurgic
 chirurgical
 chis
 chisedec
-chisel
 chiseled
 chiseler
 cafuso
@@ -22681,6 +22680,7 @@ conolophus
 conominee
 cononintelligent
 conopholis
+chisel
 conopid
 conopidae
 conoplain
