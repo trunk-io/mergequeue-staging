@@ -2110,6 +2110,7 @@ banisher
 banishers
 bowsery
 banishment
+borated
 banister
 banisters
 baniva
@@ -12958,7 +12959,6 @@ borasque
 borasqueborate
 borassus
 borate
-borated
 borates
 borating
 borax
