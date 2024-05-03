@@ -2841,7 +2841,6 @@ grasps
 genitor
 gendering
 genitory
-gelatinobromide
 genitorial
 genitors
 genitourinary
@@ -6313,6 +6312,7 @@ gnawed
 gufought
 gnawer
 gnawing
+gelatinobromide
 gnawings
 glucase
 gnaws
