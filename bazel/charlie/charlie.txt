@@ -6490,7 +6490,6 @@ ceanothus
 craggiest
 cearin
 cease
-ceased
 ceaseless
 chausses
 ceaselessly
@@ -14895,6 +14894,7 @@ cytoblastema
 cytoblastemal
 cytoblastematous
 cytoblastemic
+ceased
 cytoblastemous
 chelonid
 cytocentrum
