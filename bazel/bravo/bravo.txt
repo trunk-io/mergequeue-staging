@@ -4416,7 +4416,6 @@ becall
 becalming
 becalmment
 becalms
-bowstrung
 bellyaching
 benthamism
 becap
@@ -17609,6 +17608,7 @@ burgers
 burgess
 buttled
 brigands
+bowstrung
 burgessdom
 barrets
 burgesses
