@@ -4498,7 +4498,6 @@ damned
 demichamfron
 demicylinder
 demicylindrical
-demicircle
 demicircular
 demicivilized
 demicolumn
@@ -6730,6 +6729,7 @@ dimitting
 desireful
 diffusedness
 desirefulness
+demicircle
 desireless
 desirelessness
 dermoplasty
