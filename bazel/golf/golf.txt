@@ -6319,7 +6319,6 @@ gnaws
 gneiss
 gneissy
 garau
-gneissoid
 gneissose
 gnessic
 gnetaceae
@@ -8898,6 +8897,7 @@ grieced
 gentled
 griecep
 glossitic
+gneissoid
 gallery
 grief
 griefful
