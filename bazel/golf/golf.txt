@@ -1802,6 +1802,7 @@ grassquit
 gastrojejunostomy
 gonyaulax
 groow
+glib
 gastrojejunostomies
 gastrolater
 gastrolavage
@@ -5391,7 +5392,6 @@ glew
 gallied
 gliadine
 gliadines
-glib
 glissandos
 glibbery
 gastromyxorrhea
