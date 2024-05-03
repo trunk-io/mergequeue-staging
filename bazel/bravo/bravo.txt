@@ -5749,7 +5749,6 @@ bulse
 believing
 believingly
 belight
-beliing
 bulldozer
 belying
 belyingly
@@ -13885,6 +13884,7 @@ boxen
 boxerism
 broquineer
 boxful
+beliing
 boxfuls
 boxhaul
 boxhauled
