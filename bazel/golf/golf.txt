@@ -1840,7 +1840,6 @@ gastronomics
 gastronosus
 gastropancreatic
 gastropancreatitis
-gastroparesis
 gastroparietal
 gastropathy
 gastropathic
@@ -4824,6 +4823,7 @@ gyrophoraceae
 gananciales
 gyrophoraceous
 gyrophoric
+gastroparesis
 gyropigeon
 gliffing
 gyropilot
