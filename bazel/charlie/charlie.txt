@@ -13699,7 +13699,6 @@ cimicidae
 cimicide
 cimiciform
 cimicifuga
-cryptonym
 cimicifugin
 cimicoid
 cimier
@@ -18025,6 +18024,7 @@ coemploys
 coempt
 coempted
 coempting
+cryptonym
 cytogeneticist
 caseworks
 coemptio
