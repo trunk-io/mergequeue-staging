@@ -3991,6 +3991,7 @@ finitary
 finite
 finiteness
 finitesimal
+frab
 fervidor
 finity
 finitism
@@ -9176,7 +9177,6 @@ fr
 fra
 follow
 fameuse
-frab
 frabbit
 frabjously
 fracas
