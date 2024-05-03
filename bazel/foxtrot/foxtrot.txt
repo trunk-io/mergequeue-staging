@@ -2170,7 +2170,6 @@ feltness
 fever
 felts
 felwort
-felworts
 fem
 females
 femalist
@@ -3480,6 +3479,7 @@ filagreing
 fungicides
 filament
 filamentary
+felworts
 filamented
 filamentiferous
 forefended
