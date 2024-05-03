@@ -8151,7 +8151,6 @@ grapheme
 graphemes
 graphemic
 graphemically
-glucidic
 graphemics
 graphy
 graphical
@@ -8424,6 +8423,7 @@ graveless
 gravely
 glabellae
 gravelike
+glucidic
 graveling
 gravelish
 gravelled
