@@ -4794,6 +4794,7 @@ encoach
 encode
 encoded
 encoders
+ended
 encodings
 encoffin
 exuviation
@@ -5010,7 +5011,6 @@ enstamp
 endeavouring
 endebt
 endecha
-ended
 endeictic
 endeign
 engorges
