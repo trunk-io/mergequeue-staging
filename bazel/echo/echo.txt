@@ -2654,6 +2654,7 @@ electrotelegraphy
 electrotelegraphic
 epigraphical
 electrotelethermometer
+epiblasts
 endplay
 electrotellurograph
 electrotest
@@ -7577,7 +7578,6 @@ epiblast
 emboites
 epiblastema
 epiblastic
-epiblasts
 epibole
 epiboly
 epibolic
