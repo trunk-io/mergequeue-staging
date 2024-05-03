@@ -1273,6 +1273,7 @@ datum
 dardanarius
 datura
 daturic
+dispetal
 daub
 daubed
 daubentonia
@@ -13066,7 +13067,6 @@ dotardism
 dispersonification
 dassies
 dulcely
-dispetal
 dysphagia
 dysphasia
 dysphasic
