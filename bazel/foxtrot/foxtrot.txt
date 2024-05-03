@@ -8255,7 +8255,6 @@ flowingness
 foundational
 forgiveable
 faroff
-forgiveably
 forgiveless
 fimetic
 forgiveness
@@ -9812,6 +9811,7 @@ freon
 freq
 frequency
 frequencies
+forgiveably
 frequent
 frequentable
 frequentage
