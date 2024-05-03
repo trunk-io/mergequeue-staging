@@ -10999,7 +10999,6 @@ erraticness
 euphemia
 eructated
 euphemian
-euphemious
 euphemiously
 eightyfold
 euphemisation
@@ -11615,6 +11614,7 @@ evirate
 eviration
 evirtuate
 eviscerated
+euphemious
 entomofauna
 enneatic
 eviscerates
