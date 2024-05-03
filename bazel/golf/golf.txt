@@ -5741,7 +5741,6 @@ globuliferous
 glaive
 globuliform
 globulimeter
-globulin
 globulins
 globulite
 glochchidia
@@ -7711,6 +7710,7 @@ gelotherapy
 grafship
 graft
 graftages
+globulin
 grafter
 grafters
 glissade
