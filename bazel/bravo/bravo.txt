@@ -6831,6 +6831,7 @@ berryless
 berrylike
 berryman
 berrypicker
+binominal
 berrypicking
 berrugate
 bersagliere
@@ -9409,7 +9410,6 @@ birdeye
 birder
 birdfarm
 birdglue
-binominal
 birdhood
 birdhouses
 birdy
