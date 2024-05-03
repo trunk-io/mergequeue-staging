@@ -3634,6 +3634,7 @@ degold
 degomme
 degorder
 degorge
+descriptory
 degradable
 degradation
 degradational
@@ -6526,7 +6527,6 @@ descriptives
 descriptivism
 dermititis
 descriptor
-descriptory
 descriptors
 descrive
 descure
