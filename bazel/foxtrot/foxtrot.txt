@@ -2276,7 +2276,6 @@ fendable
 fended
 following
 fendered
-fraischeur
 fendering
 fenderless
 fenders
@@ -7613,6 +7612,7 @@ foredoom
 feeblish
 foredoomer
 finlet
+fraischeur
 fgn
 fretter
 foredooms
