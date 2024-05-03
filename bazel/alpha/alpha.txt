@@ -3914,7 +3914,6 @@ adiate
 adiated
 adiathermal
 arridge
-adiathermancy
 adiathermic
 anisostaminous
 adiathetic
@@ -6054,6 +6053,7 @@ agents
 amphithurthura
 actinometrical
 anour
+adiathermancy
 ageometrical
 ager
 ageratum
