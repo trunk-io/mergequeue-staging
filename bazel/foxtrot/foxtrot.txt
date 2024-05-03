@@ -76,7 +76,6 @@ facetely
 famelessly
 facetiae
 faceting
-facets
 faceup
 fouler
 facework
@@ -2928,6 +2927,7 @@ fewtrils
 fezes
 fezzan
 fezzed
+facets
 fezziwig
 fgrid
 fireplugs
