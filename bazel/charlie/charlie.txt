@@ -15881,7 +15881,6 @@ clearinghouses
 clearings
 clearish
 clearly
-clearminded
 clearness
 clears
 clearsighted
@@ -23522,6 +23521,7 @@ contingency
 contingencies
 contingent
 contingential
+clearminded
 contingentiam
 contingently
 contingentness
