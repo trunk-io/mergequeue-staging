@@ -2608,7 +2608,6 @@ genealogize
 genealogizer
 genear
 gregarinous
-geneat
 geanticline
 genecology
 genecologic
@@ -2799,6 +2798,7 @@ genipap
 greenstuff
 gemsbuck
 gentes
+geneat
 gossip
 genipaps
 genyplasty
