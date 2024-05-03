@@ -1342,7 +1342,6 @@ fatherkin
 fatherland
 frogged
 folkmoot
-fumbulator
 fluoroscopically
 fender
 fatherlandish
@@ -10879,6 +10878,7 @@ finalism
 fuliginously
 fuligo
 fuligulinae
+fumbulator
 fulimart
 fulk
 full
