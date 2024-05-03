@@ -4306,7 +4306,6 @@ caryophyllus
 caryopilite
 caryopsides
 caryopsis
-crossosomataceous
 caryota
 caryotin
 carboxyhemoglobin
@@ -22492,6 +22491,7 @@ conjugations
 conjugative
 conjugator
 conjugators
+crossosomataceous
 conjugial
 conjugium
 conjuncted
