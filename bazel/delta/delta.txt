@@ -4489,7 +4489,6 @@ demibarrel
 demibath
 demibeast
 demibob
-dossel
 demibrassart
 demibrigade
 demibrute
@@ -10095,6 +10094,7 @@ dinarzade
 dynastes
 dartrose
 dynasty
+dossel
 dynastic
 disengage
 dynastical
