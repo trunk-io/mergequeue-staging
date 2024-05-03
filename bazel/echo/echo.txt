@@ -5468,7 +5468,6 @@ enduing
 endungeon
 endura
 exotisms
-eparchate
 endurability
 exertive
 elaeodochon
@@ -10121,6 +10120,7 @@ estrepement
 estriate
 extraviolet
 estrich
+eparchate
 estrif
 existimation
 estrin
