@@ -6631,7 +6631,6 @@ foamier
 foaminess
 foamingly
 foutre
-foamless
 foamlike
 feods
 foams
@@ -7366,6 +7365,7 @@ forbidden
 fractions
 forbiddenly
 fissidens
+foamless
 forbiddenness
 forbidder
 finback
