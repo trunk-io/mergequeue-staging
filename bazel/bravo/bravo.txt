@@ -1304,7 +1304,6 @@ balancedness
 balancelle
 balancers
 bakerdom
-balander
 balandra
 balandrana
 balaneutics
@@ -4173,6 +4172,7 @@ beardie
 bearding
 bicorne
 bosporus
+balander
 beardless
 beardlessness
 beardlike
