@@ -3527,7 +3527,6 @@ coillen
 caramelise
 caramelised
 caramelising
-caramelization
 casual
 caramelize
 caramelized
@@ -7593,6 +7592,7 @@ cerebra
 cerebral
 cerebralgia
 cerebralism
+caramelization
 cerebralist
 comptrollership
 cerebralization
