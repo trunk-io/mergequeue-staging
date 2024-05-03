@@ -2815,7 +2815,6 @@ granitization
 galliformes
 grograms
 gipsy
-gospoda
 genit
 genital
 genitalia
@@ -3574,6 +3573,7 @@ gesseron
 gesso
 gessoes
 gest
+gospoda
 gestae
 gramas
 growler
