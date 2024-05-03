@@ -1402,7 +1402,6 @@ denicotinized
 demiurgical
 dawning
 dawnlight
-dawnlike
 dawns
 dawnstreak
 dawnward
@@ -6768,6 +6767,7 @@ desktop
 deslime
 desmachymatous
 desmachyme
+dawnlike
 desman
 desmans
 desmanthus
