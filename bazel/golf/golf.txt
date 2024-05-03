@@ -2831,7 +2831,6 @@ genitival
 genitivally
 gammick
 genitocrural
-geniculum
 gridelin
 genitofemoral
 grisset
@@ -4822,6 +4821,7 @@ gyropilot
 gyroplane
 gastropneumatic
 gazers
+geniculum
 giros
 gyros
 gyroscope
