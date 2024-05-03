@@ -6467,7 +6467,6 @@ descended
 descendence
 descendent
 descendentalist
-descendentalistic
 demigoddess
 descendents
 denumerant
@@ -13275,6 +13274,7 @@ disputatiously
 demarcations
 disputative
 delsartian
+descendentalistic
 denarcotization
 disputativeness
 disputator
