@@ -1526,7 +1526,6 @@ deadhouse
 deranging
 deady
 deading
-deadishly
 deadishness
 deadlatch
 deadly
@@ -4003,6 +4002,7 @@ delegates
 delegateship
 delegati
 delegating
+deadishly
 delegation
 delegations
 delegator

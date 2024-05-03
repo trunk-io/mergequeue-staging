@@ -4014,7 +4014,6 @@ beachmaster
 beachside
 beachwear
 butterball
-beacon
 bittier
 beaconing
 beaconwise
@@ -17639,6 +17638,7 @@ borides
 bagwash
 burglary
 burglaries
+beacon
 burglarious
 burglarised
 burglarising
