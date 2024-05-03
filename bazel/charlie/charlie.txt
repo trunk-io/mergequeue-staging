@@ -1541,7 +1541,6 @@ calocarpum
 calochortaceae
 coprostanol
 calodaemon
-calodemon
 calodemonial
 calogram
 calography
@@ -10626,6 +10625,7 @@ chiloplasty
 chilopoda
 chilopodan
 chilopodous
+calodemon
 chylopoetic
 chylopoiesis
 chylopoietic
