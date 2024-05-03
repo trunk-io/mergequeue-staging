@@ -5788,7 +5788,6 @@ geomorphogeny
 glomerulus
 glommed
 glommox
-gloms
 glomus
 gasconaded
 guidon
@@ -8160,6 +8159,7 @@ gallantries
 gulleting
 graphically
 graphicalness
+gloms
 gratitude
 graphicly
 graphicness
