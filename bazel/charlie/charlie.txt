@@ -4117,6 +4117,7 @@ carduelis
 carduus
 care
 carecloth
+corta
 careen
 careenage
 careener
@@ -25868,7 +25869,6 @@ corslets
 corsned
 corso
 corsos
-corta
 communitywide
 cortaderia
 cortaro
