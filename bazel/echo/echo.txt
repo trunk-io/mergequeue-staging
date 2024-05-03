@@ -1735,7 +1735,6 @@ eidolon
 ethnomusicologically
 equipedal
 eidoptometry
-eidos
 eidouranion
 eye
 educates
@@ -3923,6 +3922,7 @@ emigates
 ethid
 emigr
 emigrant
+eidos
 eavesdrip
 emigrants
 emigrate
