@@ -8308,7 +8308,6 @@ epistrophy
 epit
 epitapher
 epitaphial
-epitaphian
 epitaphic
 epitaphical
 epitaphist
@@ -14183,6 +14182,7 @@ exuviable
 exuviae
 exuvial
 exuviate
+epitaphian
 erythrin
 exuviated
 exuviating
