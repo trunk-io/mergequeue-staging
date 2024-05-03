@@ -5358,7 +5358,6 @@ begoud
 begray
 begrain
 begrave
-begrease
 begreen
 begrim
 begrimed
@@ -11206,6 +11205,7 @@ battalias
 beglobed
 bracer
 blouse
+begrease
 bloused
 blouselike
 blouses
