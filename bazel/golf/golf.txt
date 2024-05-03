@@ -1576,7 +1576,6 @@ gash
 giraffe
 gypsyweed
 grasses
-gasher
 gashes
 gashy
 gashing
@@ -1652,6 +1651,7 @@ gassy
 gassiest
 gassing
 gladdon
+gasher
 gassings
 gassit
 gast

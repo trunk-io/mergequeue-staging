@@ -2791,7 +2791,6 @@ eleocharis
 eleolite
 eleomargaric
 epicerebral
-eleometer
 eleonorite
 encystation
 eleoplast
@@ -3251,6 +3250,7 @@ elvan
 elvanite
 elvanitic
 elve
+eleometer
 elver
 elvers
 elvet
