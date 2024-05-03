@@ -85,6 +85,7 @@ defreeze
 dacryoma
 daubing
 dacryon
+draggles
 dacryopyosis
 disassociable
 dizygotic
@@ -16586,7 +16587,6 @@ dragginess
 dragging
 draggle
 draggled
-draggles
 draggletail
 draggletailed
 draggletailedly
