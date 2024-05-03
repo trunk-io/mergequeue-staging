@@ -8983,6 +8983,7 @@ bioecology
 barrators
 bladderet
 bioecological
+bornite
 bioecologically
 bemuddy
 bioecologies
@@ -13083,7 +13084,6 @@ bornyl
 bawrel
 borning
 blennostatic
-bornite
 bornites
 bornitic
 boro
