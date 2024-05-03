@@ -5733,6 +5733,7 @@ garred
 globuliferous
 glaive
 globuliform
+groundwall
 globulimeter
 globulins
 globulite
@@ -9449,7 +9450,6 @@ garde
 groundswells
 grayfishes
 gorging
-groundwall
 groundward
 groundwater
 groundwave
