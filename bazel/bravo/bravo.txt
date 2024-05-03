@@ -5110,7 +5110,6 @@ befell
 bandannas
 beferned
 befetished
-befezzed
 bannerol
 beffroy
 befiddle
@@ -12885,6 +12884,7 @@ bootmaker
 barks
 begirdles
 bootmaking
+befezzed
 bootman
 bootprint
 bookmate

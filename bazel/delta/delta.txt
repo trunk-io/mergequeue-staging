@@ -4119,7 +4119,6 @@ dislocations
 delimit
 delimitated
 deletory
-delimitating
 deboise
 delimitation
 delimitations
@@ -8341,6 +8340,7 @@ directories
 dialyzability
 drey
 dialyzation
+delimitating
 diapirs
 dialyzator
 dialyze
