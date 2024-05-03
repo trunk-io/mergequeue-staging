@@ -7700,7 +7700,6 @@ buttress
 bezazz
 bezazzes
 bezel
-bezels
 baritone
 bezesteen
 bezetta
@@ -12410,6 +12409,7 @@ bonbonnieres
 bradypepsy
 breviger
 bonbons
+bezels
 bonchief
 berberins
 bondable
