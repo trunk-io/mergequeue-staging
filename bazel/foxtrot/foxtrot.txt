@@ -4093,6 +4093,7 @@ firebombs
 firebote
 frogflower
 fluavil
+frankability
 foreby
 flippance
 fireboxes
@@ -9379,7 +9380,6 @@ formic
 fusobteria
 frank
 frankly
-frankability
 favonian
 forest
 frankalmoign
