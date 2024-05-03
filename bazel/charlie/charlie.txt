@@ -19800,7 +19800,6 @@ combustibilities
 combustible
 combustibleness
 combustibles
-combustibly
 combusting
 combustious
 combustive
@@ -26848,6 +26847,7 @@ counterfeitment
 counterfeits
 counterferment
 counterfessed
+combustibly
 counterfire
 counterfix
 counterflange
