@@ -4593,7 +4593,6 @@ carpenteria
 carpentering
 cinchonology
 carpenters
-carpentership
 carpenterworm
 carpentry
 carper
@@ -29868,6 +29867,7 @@ crosshauling
 chipmucks
 crosshead
 crossing
+carpentership
 crossings
 caulicule
 crossite
