@@ -6930,7 +6930,6 @@ beastie
 browse
 beseemingness
 beseemly
-beseemliness
 beseems
 beseen
 beseige
@@ -9670,6 +9669,7 @@ bishopbird
 bishopdom
 bishoped
 bishopful
+beseemliness
 bishophood
 bishopless
 banyuls
