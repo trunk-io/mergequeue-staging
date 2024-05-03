@@ -3485,7 +3485,6 @@ basti
 bastian
 bastide
 bastile
-bastiles
 bastille
 bastilles
 bastillion
@@ -12788,6 +12787,7 @@ boomlet
 boomlets
 booms
 boomslang
+bastiles
 boomslange
 birkies
 boomster
