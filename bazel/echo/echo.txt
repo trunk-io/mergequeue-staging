@@ -4084,7 +4084,6 @@ empanoply
 emparchment
 emparl
 empasm
-estivage
 empassion
 empathetic
 empathetically
@@ -8096,6 +8095,7 @@ epiphytic
 epiphytically
 epiphytism
 epiphytology
+estivage
 epiphytotic
 epiphytous
 epiphloedal
