@@ -10038,7 +10038,6 @@ ambergris
 ambery
 amberies
 amberina
-amberite
 amberjack
 amberjacks
 architypographer
@@ -14866,6 +14865,7 @@ antibiosis
 aglow
 antibiotic
 antibiotically
+amberite
 antibiotics
 antibishop
 abusious
