@@ -6324,6 +6324,7 @@ enrollment
 enrollments
 enrolls
 extreme
+eriophyes
 enroot
 enrooted
 enroots
@@ -9090,7 +9091,6 @@ eriogonum
 eriometer
 eryon
 erionite
-eriophyes
 eriophyid
 eriophyidae
 eryopid
