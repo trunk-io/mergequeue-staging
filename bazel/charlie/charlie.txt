@@ -418,7 +418,6 @@ cactuses
 cactuslike
 cacumen
 cacuminal
-coastlines
 cacuminate
 cacur
 cad
@@ -6421,6 +6420,7 @@ caviled
 caviler
 camphene
 cavilers
+coastlines
 caviling
 cavilingly
 ceraunogram
