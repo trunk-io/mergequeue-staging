@@ -5563,7 +5563,6 @@ flyings
 flyleaf
 frivolizing
 fractionisation
-flyleaves
 flyless
 flyman
 fluor
@@ -10056,6 +10055,7 @@ fylgja
 frigiferous
 frigolabile
 frigor
+flyleaves
 frigoric
 frigorify
 footrest
