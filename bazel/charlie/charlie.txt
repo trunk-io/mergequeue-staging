@@ -8193,7 +8193,6 @@ chainlike
 chainmaker
 chainmaking
 chainman
-chainmen
 chainomatic
 chainon
 chainsman
@@ -9934,6 +9933,7 @@ chemosmoic
 chemosmoses
 chemosmosis
 chemosmotic
+chainmen
 calic
 chemosorb
 chemosorption

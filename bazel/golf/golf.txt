@@ -3228,7 +3228,6 @@ ganzie
 gillar
 girlhoods
 geopositive
-geopotential
 geoprumnon
 georama
 georgette
@@ -9684,6 +9683,7 @@ grummet
 grumness
 grumose
 grumous
+geopotential
 grump
 grumped
 grumphy
