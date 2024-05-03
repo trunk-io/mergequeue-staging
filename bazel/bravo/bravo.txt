@@ -4337,7 +4337,6 @@ burgonet
 beavering
 beaverite
 bigeyes
-buffalofish
 bipedal
 beaverize
 beaverkill
@@ -9716,6 +9715,7 @@ boulangerite
 bisks
 bislings
 bysmalith
+buffalofish
 bismanol
 bismar
 balsamine
