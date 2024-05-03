@@ -521,7 +521,6 @@ cadism
 cadiueio
 cadjan
 cadlock
-cadmean
 cadmia
 cadmide
 cadmium
@@ -26363,6 +26362,7 @@ cothon
 cothouse
 coelomata
 cothurn
+cadmean
 cothurnal
 cothurnate
 cothurned
