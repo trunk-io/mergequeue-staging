@@ -4326,7 +4326,6 @@ adoperate
 autotheist
 adoperation
 adoptability
-adoptabilities
 adoptable
 adoptant
 adoptative
@@ -16391,6 +16390,7 @@ antithesism
 antithesize
 antithet
 antithetic
+adoptabilities
 antithetical
 antithetically
 antithetics
