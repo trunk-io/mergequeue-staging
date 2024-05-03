@@ -9268,6 +9268,7 @@ alnage
 alnager
 alnagership
 antizymotic
+antiperiodic
 amenities
 alnaschar
 alnascharism
@@ -15905,7 +15906,6 @@ antipellagric
 antipendium
 antipepsin
 antipeptone
-antiperiodic
 antiperistalsis
 antiperistaltic
 anaspida
