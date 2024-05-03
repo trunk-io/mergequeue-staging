@@ -1159,7 +1159,6 @@ fiascoes
 fascili
 fissipalmate
 footbridge
-fungistatic
 frithwork
 figeaters
 fascinated
@@ -9947,6 +9946,7 @@ fides
 featureless
 fricando
 fricassee
+fungistatic
 fricasseed
 fricasseeing
 fricassees
