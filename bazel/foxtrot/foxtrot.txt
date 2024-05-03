@@ -3719,7 +3719,6 @@ filmland
 filmlands
 filmmake
 filmmaker
-falciparum
 fullword
 filmography
 filmographies
@@ -4325,6 +4324,7 @@ fishes
 fishet
 fishgarth
 fishgig
+falciparum
 fishgrass
 fishhood
 fishhook
