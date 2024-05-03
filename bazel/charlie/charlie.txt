@@ -1582,7 +1582,6 @@ calorimeters
 calorimetry
 calorimetric
 carrioles
-calorimetrical
 calorimetrically
 calorimotor
 calcography
@@ -19167,6 +19166,7 @@ collocate
 collocated
 collocates
 collocating
+calorimetrical
 collocationable
 collocational
 collocations
