@@ -4176,6 +4176,7 @@ firesafety
 fireside
 firesider
 firesideship
+forestalled
 firespout
 firestone
 firestop
@@ -8009,7 +8010,6 @@ forestal
 fireshine
 forestall
 forbiddance
-forestalled
 forestalling
 forestalls
 forestalment
