@@ -241,7 +241,6 @@ fade
 fadeaways
 funest
 fadednyess
-faden
 fadeout
 fader
 faders
@@ -6791,6 +6790,7 @@ foiningly
 fashionmonging
 foliageous
 farsightedly
+faden
 foys
 foism
 foison
