@@ -4263,6 +4263,7 @@ coccidia
 curialistic
 carillon
 carilloneur
+carnaged
 carillonned
 crackerjack
 carillonneur
@@ -4407,7 +4408,6 @@ carn
 carnac
 carnacian
 carnage
-carnaged
 carnages
 carnal
 carnalism
