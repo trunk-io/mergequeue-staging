@@ -560,7 +560,6 @@ ablatively
 ablatives
 ablator
 ablaut
-ablauts
 ablaze
 able
 ablegate
@@ -12295,6 +12294,7 @@ ancien
 ancience
 asphaltum
 anciency
+ablauts
 anciennete
 anciens
 ancient
