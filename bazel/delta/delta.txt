@@ -4480,7 +4480,6 @@ demesnial
 demetallize
 demeter
 demethylate
-demethylation
 demethylchlortetracycline
 demetricize
 demi
@@ -13081,6 +13080,7 @@ dimpsy
 diddered
 dysphonia
 dysphonic
+demethylation
 dysphoria
 deadpanning
 dysphoric
