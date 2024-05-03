@@ -11555,7 +11555,6 @@ cholecyanine
 cholecyst
 cholecystectasia
 cholecystectomy
-cholecystectomies
 cholecystectomized
 cholecystenterorrhaphy
 cholecystenterostomy
@@ -11608,6 +11607,7 @@ cholelithotomy
 crenellate
 cholelithotripsy
 cholelithotrity
+cholecystectomies
 cholemia
 cholent
 cholents
