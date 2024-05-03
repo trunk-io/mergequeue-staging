@@ -7581,7 +7581,6 @@ grabbling
 graben
 grabens
 grabhook
-gimp
 grabman
 grabs
 grace
@@ -8769,6 +8768,7 @@ gregge
 greggle
 greggriffin
 gourmet
+gimp
 gentianaceous
 gutturally
 guile
