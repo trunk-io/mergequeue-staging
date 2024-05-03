@@ -8974,7 +8974,6 @@ allopalladium
 allopath
 allopathetic
 allopathetically
-allopathy
 allopathic
 aristolochin
 allopathically
@@ -14528,6 +14527,7 @@ anthoxanthum
 anthozoa
 anthozoan
 anthozoic
+allopathy
 anthozoon
 anthracaemia
 anthracemia
