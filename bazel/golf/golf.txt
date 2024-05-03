@@ -5234,7 +5234,6 @@ glaswegian
 gees
 glathsheim
 glathsheimr
-glauberite
 glaucescent
 grapnels
 glaucin
@@ -10611,6 +10610,7 @@ garganey
 gurian
 guric
 gurjan
+glauberite
 gurjun
 geometrician
 gyroceracone
