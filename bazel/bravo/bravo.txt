@@ -4739,6 +4739,7 @@ bedip
 bedirt
 bedirter
 browbeaten
+buffeter
 bedirtied
 bedirties
 bedirtying
@@ -16761,7 +16762,6 @@ buffers
 breva
 buffeted
 bibliokelpt
-buffeter
 buffeters
 buffeting
 borborygm
