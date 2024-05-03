@@ -5930,7 +5930,6 @@ agaricoid
 agarics
 agaricus
 agaristidae
-agarita
 astronautics
 agarose
 amnemonic
@@ -24703,6 +24702,7 @@ averts
 aves
 acephalia
 avesta
+agarita
 avestan
 avestruz
 aveugle
