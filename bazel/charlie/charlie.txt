@@ -6173,7 +6173,6 @@ caulerpa
 caulerpaceae
 caulerpaceous
 caules
-caulescent
 cauli
 caulicle
 caulicles
@@ -26996,6 +26995,7 @@ counterplead
 caroubier
 counterpleading
 counterplease
+caulescent
 catfalls
 counterplot
 counterplotted
