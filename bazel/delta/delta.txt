@@ -5700,7 +5700,6 @@ deplenish
 depletable
 deplete
 depleted
-delubrum
 deplethoric
 ducting
 depletions
@@ -10153,6 +10152,7 @@ dingey
 discastle
 dingeing
 dingeys
+delubrum
 dinger
 decaffeinating
 dinghee
