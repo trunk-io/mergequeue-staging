@@ -616,7 +616,6 @@ echiuroidea
 echiurus
 engineman
 echocardiogram
-echoed
 echoey
 echoencephalography
 echoer
@@ -3183,6 +3182,7 @@ elucid
 elucidate
 esperantido
 elucidated
+echoed
 elucidates
 elucidating
 elucidations
