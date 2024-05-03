@@ -15813,7 +15813,6 @@ clavus
 clavuvi
 claw
 clawback
-clawed
 clawer
 clawers
 collards
@@ -23571,6 +23570,7 @@ conto
 conchfish
 contoid
 contoise
+clawed
 contorniate
 contorniates
 contorno
