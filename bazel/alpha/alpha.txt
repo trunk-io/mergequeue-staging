@@ -781,6 +781,7 @@ abox
 abracadabra
 abrachia
 abrachias
+acromioclavicular
 abradable
 abrade
 abrader
@@ -2963,7 +2964,6 @@ acrometer
 acromia
 acromial
 acromicria
-acromioclavicular
 acromiocoracoid
 acromiodeltoid
 acromyodian
