@@ -47,6 +47,7 @@ equiprobabilism
 equidiurnal
 epimerum
 earflower
+entoplastral
 equicellular
 earful
 earhole
@@ -3088,7 +3089,6 @@ ellops
 epicyte
 ells
 eighteens
-entoplastral
 elm
 elmer
 elmy
