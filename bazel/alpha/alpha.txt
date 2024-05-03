@@ -17186,7 +17186,6 @@ apochromatism
 apocynaceae
 apocynaceous
 apocynthion
-apocynthions
 apocynum
 alphorn
 apocyte
@@ -23919,6 +23918,7 @@ autocatalyze
 autocatheterism
 autocephalia
 autocephalic
+apocynthions
 autocephality
 autocephalous
 autoceptive
