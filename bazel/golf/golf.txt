@@ -1500,7 +1500,6 @@ garrisonian
 garrisoning
 gouts
 grammars
-garrisonism
 garrisons
 garrnishable
 garron
@@ -1624,6 +1623,7 @@ gasohol
 gasoliery
 gangland
 gasoliers
+garrisonism
 gasoline
 gasoliner
 gasolines
