@@ -7381,7 +7381,6 @@ bethylid
 bethylidae
 bethink
 barquentine
-bethinks
 bethlehem
 bethorn
 bethorned
@@ -9797,6 +9796,7 @@ bedtimes
 bistred
 bystreet
 bystreets
+bethinks
 bistres
 bistriate
 bistro
