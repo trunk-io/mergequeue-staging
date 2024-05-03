@@ -737,7 +737,6 @@ fancily
 fancymonger
 finnac
 fanciness
-foci
 fancysick
 fancywork
 fandango
@@ -1430,6 +1429,7 @@ fatstock
 fatted
 fatten
 fattenable
+foci
 fattened
 forbearances
 fatteners
