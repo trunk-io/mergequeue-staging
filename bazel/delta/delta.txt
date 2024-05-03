@@ -3813,7 +3813,6 @@ deifier
 deifiers
 deifies
 deifying
-destigmatization
 deiform
 deiformity
 diffusers
@@ -8663,6 +8662,7 @@ diastyle
 diastimeter
 diastoles
 diastolic
+destigmatization
 diastomatic
 diastral
 diastrophy
