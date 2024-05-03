@@ -705,7 +705,6 @@ bacteriologic
 bacteriologically
 bacteriologies
 bacteriologist
-bacteriologists
 bacteriophages
 botany
 bacteriophagia
@@ -2020,6 +2019,7 @@ bandor
 bandora
 bandore
 bronchium
+bacteriologists
 bandos
 badmouthed
 bandpass
