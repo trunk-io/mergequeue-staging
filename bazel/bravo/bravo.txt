@@ -3269,7 +3269,6 @@ biocatalyst
 basidiomycete
 bedung
 baclava
-basidiomycetes
 basidiophore
 bifrontal
 belesprit
@@ -8692,6 +8691,7 @@ billjim
 billman
 bosun
 billmen
+basidiomycetes
 billon
 billot
 billow

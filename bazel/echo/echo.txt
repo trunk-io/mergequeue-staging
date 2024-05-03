@@ -2120,7 +2120,6 @@ elapsoidea
 exonerating
 elargement
 elasmobranch
-elasmobranchiate
 elasmobranchii
 elasmothere
 epigrammatist
@@ -9677,6 +9676,7 @@ esloign
 epipedometry
 existentially
 esmeralda
+elasmobranchiate
 eisell
 epizoisms
 esmeraldan
