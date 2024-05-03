@@ -5364,7 +5364,6 @@ glegness
 glegnesses
 gley
 gleys
-gleit
 gleization
 glen
 goodenoviaceae
@@ -8994,6 +8993,7 @@ grotian
 grimes
 goralog
 grimful
+gleit
 grimgribber
 gigantopithecus
 grimy
