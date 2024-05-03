@@ -4621,6 +4621,7 @@ demiquaver
 deforcing
 disbursable
 draegermen
+des
 demiracle
 demiram
 demirelief
@@ -6411,7 +6412,6 @@ dervishes
 dervishism
 dogies
 dervishlike
-des
 desaccharification
 drysalteries
 desacralization
