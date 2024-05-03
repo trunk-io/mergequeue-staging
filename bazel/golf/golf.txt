@@ -1041,7 +1041,6 @@ grammatistical
 grapplement
 gams
 gamut
-gamuts
 gan
 ganam
 ganancias
@@ -2041,6 +2040,7 @@ gluconate
 gausses
 gaussian
 gaussmeter
+gamuts
 gauster
 gausterer
 gaut

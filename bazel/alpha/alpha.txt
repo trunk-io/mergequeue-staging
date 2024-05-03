@@ -1359,7 +1359,6 @@ aganglionic
 acapnias
 acappella
 acapsular
-acara
 acarari
 acardiac
 acardite
@@ -20249,6 +20248,7 @@ arresters
 arresting
 arrestingly
 arrestive
+acara
 arrestor
 arrestors
 arrests
