@@ -1421,7 +1421,6 @@ baldpatedness
 baldpates
 baldrib
 baldric
-baldrick
 baldricks
 baldrics
 btl
@@ -17965,6 +17964,7 @@ beseeched
 besmudged
 busheling
 bushelled
+baldrick
 bushelling
 bushelman
 bushelmen
