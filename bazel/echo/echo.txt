@@ -7517,7 +7517,6 @@ ephemeridae
 ephemerides
 ephemeris
 ephemerist
-ethnographist
 ephemeromorph
 ephemeromorphic
 empight
@@ -12979,6 +12978,7 @@ ecus
 expeditate
 expeditated
 expeditation
+ethnographist
 expedited
 expeditely
 expediter
