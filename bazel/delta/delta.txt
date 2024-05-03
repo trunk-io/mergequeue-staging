@@ -9420,7 +9420,6 @@ diffusive
 diffusor
 diffusors
 difluence
-difluoride
 diformin
 difunctional
 demimetope
@@ -18037,6 +18036,7 @@ dullhearted
 dully
 dullify
 dullification
+difluoride
 dulling
 dullish
 dullishly
