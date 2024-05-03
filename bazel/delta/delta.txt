@@ -10140,7 +10140,6 @@ dingbats
 dingdong
 decharm
 dingdonged
-dingdonging
 dinge
 depletes
 dinged
@@ -15554,6 +15553,7 @@ doodia
 doodle
 doodlebug
 doodled
+dingdonging
 doodler
 doodlers
 daiquiri
