@@ -3201,7 +3201,6 @@ defectoscope
 defects
 defectum
 dehumidification
-defectuous
 defedation
 defeise
 defeit
@@ -11192,6 +11191,7 @@ disbelieve
 disbeliever
 disbelievers
 dazingly
+defectuous
 disbelieves
 disbelieving
 disbench
