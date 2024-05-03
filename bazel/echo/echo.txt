@@ -3438,7 +3438,6 @@ embergeese
 embergoose
 emberizidae
 emberizinae
-emberizine
 embers
 euphemiser
 endocondensation
@@ -13566,6 +13565,7 @@ extensions
 extensity
 endorsements
 extensive
+emberizine
 extensiveness
 empathizing
 extensivity
