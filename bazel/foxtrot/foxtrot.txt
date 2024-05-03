@@ -4592,6 +4592,7 @@ farming
 fixup
 forwarding
 fixups
+fossilizing
 funerate
 fixure
 forra
@@ -8849,7 +8850,6 @@ fossilize
 fossilized
 fossilizes
 frowziness
-fossilizing
 fossillike
 fossilogy
 fossilology
