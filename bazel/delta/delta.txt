@@ -5316,6 +5316,7 @@ dentelliere
 dentello
 dentelure
 dividual
+diplomaed
 demicadence
 dentes
 dentex
@@ -10617,7 +10618,6 @@ diplois
 diplokaryon
 diploma
 diplomacies
-diplomaed
 diplomaing
 diplomas
 dermatomuscular
