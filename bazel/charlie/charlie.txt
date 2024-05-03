@@ -591,7 +591,6 @@ caenozoic
 caeoma
 caeomas
 caeremoniarius
-caesalpinia
 caesalpiniaceae
 caesalpiniaceous
 caesar
@@ -13339,6 +13338,7 @@ cyclodiene
 cyclodiolefin
 cyclodiolefine
 cycloganoid
+caesalpinia
 cycloganoidei
 chessart
 cyclogenesis
