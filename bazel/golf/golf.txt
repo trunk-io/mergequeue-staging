@@ -9054,7 +9054,6 @@ grinnie
 grins
 griot
 genoveva
-griots
 gobbles
 glimmer
 grip
@@ -9433,6 +9432,7 @@ grounds
 gastornis
 gros
 glossematic
+griots
 groundsel
 groundsheet
 groundsill
