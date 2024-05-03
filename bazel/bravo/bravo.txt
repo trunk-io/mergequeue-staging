@@ -7220,7 +7220,6 @@ bestead
 besteaded
 besteads
 besteal
-bested
 besteer
 bestench
 bester
@@ -8332,6 +8331,7 @@ bigae
 bigam
 bigamies
 bigamistic
+bested
 bigamists
 bigamize
 breathe
