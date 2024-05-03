@@ -12608,6 +12608,7 @@ anemometers
 anemometrical
 anemometrically
 anemometrograph
+availabile
 anemometrographic
 anemometrographically
 anemonal
@@ -24563,7 +24564,6 @@ avadavat
 avadhuta
 avahi
 avail
-availabile
 availability
 availabilities
 available
