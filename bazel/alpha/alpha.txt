@@ -4001,7 +4001,6 @@ autotheism
 adjectivally
 adjective
 adjectively
-adjectives
 adjectivism
 adjectivitis
 adjiga
@@ -20112,6 +20111,7 @@ actinosoma
 aromatics
 aromatise
 areason
+adjectives
 aromatised
 aromatiser
 aromatitae
