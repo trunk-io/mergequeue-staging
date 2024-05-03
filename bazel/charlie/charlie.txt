@@ -13881,7 +13881,6 @@ cinemese
 circular
 cinemize
 cinemograph
-cinenchym
 cinenchyma
 confidingly
 cinenchymatous
@@ -19329,6 +19328,7 @@ colony
 colonial
 candidas
 colonialise
+cinenchym
 colonialised
 colonialising
 colonialism
