@@ -11216,7 +11216,6 @@ blouses
 blousy
 breathy
 blousier
-blousiest
 blousily
 blousing
 bespread
@@ -15890,6 +15889,7 @@ blockheadish
 bressomer
 brompicrin
 bromuret
+blousiest
 bromus
 bromvoel
 bromvogel
