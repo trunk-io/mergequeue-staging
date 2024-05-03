@@ -5651,7 +5651,6 @@ gloat
 gypsumed
 guested
 gloated
-gloater
 gloaters
 grieve
 gloating
@@ -9214,6 +9213,7 @@ gammer
 groatsworth
 gemmuliferous
 gunsmithery
+gloater
 grobian
 grobianism
 grocer
