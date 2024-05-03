@@ -1901,6 +1901,7 @@ bakehead
 band
 bandaged
 baragouinish
+bassoons
 bandager
 boasts
 bluetop
@@ -3440,7 +3441,6 @@ bixa
 basson
 bassoon
 bedash
-bassoons
 bremeness
 bassorin
 bassos
