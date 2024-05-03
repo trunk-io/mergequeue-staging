@@ -10769,6 +10769,7 @@ blepharodiastasis
 blepharodyschroia
 blepharohematidrosis
 blepharolithiasis
+brichette
 blepharomelasma
 blepharoncosis
 blepharoncus
@@ -16259,7 +16260,6 @@ berossos
 brujas
 bacchius
 brujeria
-brichette
 brujo
 brujos
 blemmatrope
