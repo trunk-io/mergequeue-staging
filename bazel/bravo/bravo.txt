@@ -4847,6 +4847,7 @@ bedscrew
 bedsheet
 bedsheets
 bedsick
+blackboards
 bedside
 bedsit
 bedsite
@@ -10100,7 +10101,6 @@ blackbirder
 blackbirding
 bemingling
 blackboard
-blackboards
 blackbody
 bloodripe
 blackboy
