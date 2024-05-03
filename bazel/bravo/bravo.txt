@@ -18,6 +18,7 @@ baar
 baas
 baaskaap
 baaskaaps
+bootblack
 banderoles
 bevels
 bowtie
@@ -12835,7 +12836,6 @@ boosts
 brachigerous
 boot
 bootable
-bootblack
 brios
 bootblacks
 booted
