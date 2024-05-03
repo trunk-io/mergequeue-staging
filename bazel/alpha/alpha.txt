@@ -5100,6 +5100,7 @@ aeromechanical
 aeromechanics
 aeromedical
 aeromedicine
+antimasque
 aerometeorograph
 aerometer
 aerometry
@@ -24190,7 +24191,6 @@ automanipulation
 automanual
 automat
 automata
-antimasque
 automatable
 automate
 automated
