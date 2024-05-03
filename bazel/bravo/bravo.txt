@@ -793,7 +793,6 @@ beggarliness
 baddest
 baddy
 baddie
-baddies
 bewry
 baddishly
 baddishness
@@ -17046,6 +17045,7 @@ bullbat
 bullbats
 bullbeggar
 bullberry
+baddies
 bullboat
 bullcart
 bullcomber
