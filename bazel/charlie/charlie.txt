@@ -17314,7 +17314,6 @@ coassumed
 coassumes
 coassuming
 coast
-coastal
 coastally
 coasted
 coaster
@@ -22240,6 +22239,7 @@ congenitalness
 congeon
 conger
 congeree
+coastal
 congery
 congerie
 congeries
