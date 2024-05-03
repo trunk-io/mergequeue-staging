@@ -20474,7 +20474,6 @@ connie
 companied
 companies
 companying
-companion
 companionability
 companionably
 companionage
@@ -25582,6 +25581,7 @@ corporativism
 corporature
 corpore
 corporeal
+companion
 corporeality
 corporealization
 corporealize
