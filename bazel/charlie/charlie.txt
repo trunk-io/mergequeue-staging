@@ -7356,7 +7356,6 @@ cephalodymus
 cephalodynia
 cephalodiscid
 cephalodiscida
-cephalodiscus
 cardiotomy
 cephalodium
 cephalofacial
@@ -29955,6 +29954,7 @@ crotin
 cambodia
 cycasin
 croton
+cephalodiscus
 cordia
 crotonaldehyde
 crotonate
