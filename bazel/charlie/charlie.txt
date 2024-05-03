@@ -5995,7 +5995,6 @@ castrensial
 catmints
 catnache
 chowder
-catnap
 catnaper
 catnapers
 catnapper
@@ -18869,6 +18868,7 @@ condiddle
 colisepsis
 coliseum
 coliseums
+catnap
 colistin
 coypou
 craniometrist
