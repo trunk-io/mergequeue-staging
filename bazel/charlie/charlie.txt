@@ -2888,6 +2888,7 @@ cantrap
 cantraps
 cantred
 cantref
+chilopods
 cantrip
 cantrips
 coveting
@@ -10624,7 +10625,6 @@ chiloplasty
 chilopoda
 chilopodan
 chilopodous
-chilopods
 chylopoetic
 chylopoiesis
 chylopoietic
