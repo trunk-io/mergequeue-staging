@@ -3424,6 +3424,7 @@ capturers
 captures
 capturing
 capuan
+chalklike
 cadging
 capuche
 capuched
@@ -8375,7 +8376,6 @@ chalkier
 chalkiest
 chalkiness
 chalking
-chalklike
 chalkline
 chalkone
 chalkos
