@@ -23906,7 +23906,6 @@ antidecalogue
 ateuchus
 autocamping
 autocar
-autocarist
 autocarpian
 autocarpic
 anatherum
@@ -25242,6 +25241,7 @@ azimine
 azimino
 aziminobenzene
 azymous
+autocarist
 affrightingly
 azimuth
 azimuthal
