@@ -5084,7 +5084,6 @@ casework
 caseworker
 caseworkers
 communes
-caseworks
 caseworm
 caseworms
 cash
@@ -18036,6 +18035,7 @@ coempt
 coempted
 coempting
 cytogeneticist
+caseworks
 coemptio
 clitoridectomy
 coemptional
