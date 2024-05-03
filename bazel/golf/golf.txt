@@ -4230,7 +4230,6 @@ galera
 gimlets
 gimmal
 gimmaled
-gimmals
 gephyrean
 gimmer
 germanhood
@@ -6808,6 +6807,7 @@ gone
 goney
 goneness
 gonenesses
+gimmals
 goneoclinic
 gonepoietic
 goneril
