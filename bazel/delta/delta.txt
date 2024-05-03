@@ -6191,6 +6191,7 @@ dermaskeleton
 dermasurgery
 dermatagra
 dermatalgia
+demifusion
 dermatatrophia
 darii
 dermatauxe
@@ -13837,7 +13838,6 @@ describe
 dool
 disembowelments
 distillmint
-demifusion
 distilment
 dropwort
 dypnone
