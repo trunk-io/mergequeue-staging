@@ -11798,7 +11798,6 @@ bodiment
 boding
 bodingly
 bodings
-bodyshirt
 beath
 bodysuit
 bodysuits
@@ -17860,6 +17859,7 @@ burroweed
 barleycorn
 burrower
 burrowers
+bodyshirt
 burrowing
 burrows
 burrowstown
