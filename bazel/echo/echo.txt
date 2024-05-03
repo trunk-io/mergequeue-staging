@@ -5246,6 +5246,7 @@ endopericarditis
 endoperidium
 etoffe
 endoperitonitis
+exculpative
 endophagy
 endophagous
 endophasia
@@ -8434,7 +8435,6 @@ epitrite
 epitrope
 epitrophy
 epitrophic
-exculpative
 epiural
 extradecretal
 epivalve
