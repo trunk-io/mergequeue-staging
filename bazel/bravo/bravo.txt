@@ -12741,7 +12741,6 @@ bookroom
 books
 booksellerish
 boce
-barmkin
 booksellerism
 booksellers
 bookshelf
@@ -13813,6 +13812,7 @@ bowla
 bowlder
 bearbaiting
 bowlderhead
+barmkin
 bowldering
 bowlders
 bowleg
