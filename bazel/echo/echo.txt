@@ -11335,7 +11335,6 @@ euvrou
 evang
 effervesced
 evangel
-evangelary
 evangely
 elaeosia
 evangelian
@@ -13054,6 +13053,7 @@ embedding
 experientialistic
 extrapleural
 experiment
+evangelary
 experimental
 experimentalism
 embroilments
