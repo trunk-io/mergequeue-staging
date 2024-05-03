@@ -7241,7 +7241,6 @@ deteriorates
 deteriorating
 deterioration
 deteriorationist
-deteriorations
 deteriorative
 deteriorator
 deteriorism
@@ -13559,6 +13558,7 @@ dissettle
 dissettlement
 disseverance
 disseveration
+deteriorations
 dissevered
 dissevering
 deruralize
