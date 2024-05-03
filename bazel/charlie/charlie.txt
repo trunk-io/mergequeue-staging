@@ -16455,7 +16455,6 @@ clivers
 clivia
 clivias
 clivis
-clivises
 clivus
 clk
 clo
@@ -23821,6 +23820,7 @@ contrecoup
 contredanse
 contredanses
 contreface
+clivises
 contrefort
 contrepartie
 contretemps
