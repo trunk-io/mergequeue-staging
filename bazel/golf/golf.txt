@@ -87,7 +87,6 @@ gyneccia
 gadarene
 gadaria
 gadbush
-gridirons
 gritstone
 gaddang
 geheimrat
@@ -2443,6 +2442,7 @@ gelofer
 gelogenic
 glycolytic
 geloscopy
+gridirons
 gelosie
 glaucic
 gelototherapy
