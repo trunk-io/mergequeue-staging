@@ -5992,7 +5992,6 @@ glotum
 greyhens
 glout
 glouted
-glouting
 glouts
 gigamaree
 gloved
@@ -6361,6 +6360,7 @@ gnus
 goa
 gryllidae
 galenite
+glouting
 goad
 gosther
 goaded
