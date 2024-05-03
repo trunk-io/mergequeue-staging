@@ -7135,7 +7135,6 @@ centrales
 centralia
 centralisation
 centralise
-centralised
 centraliser
 centralising
 ciliectomy
@@ -8328,6 +8327,7 @@ canelle
 chalcosiderite
 chalcosine
 chalcostibite
+centralised
 chalcotrichite
 chalcotript
 chalcus
