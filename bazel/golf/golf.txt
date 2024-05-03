@@ -1839,7 +1839,6 @@ gastronomics
 gastronosus
 gastropancreatic
 gastropancreatitis
-gastroparalysis
 gastroparesis
 gastroparietal
 gastropathy
@@ -8759,6 +8758,7 @@ gregarinina
 gregarinoidea
 gregarious
 gregariously
+gastroparalysis
 gregaritic
 gregatim
 gregau
