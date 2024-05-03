@@ -1335,7 +1335,6 @@ daunton
 dissympathy
 daunts
 dauphin
-dauphine
 dauphines
 dauphiness
 dauphins
@@ -17508,6 +17507,7 @@ drudgery
 drudges
 downstair
 drudging
+dauphine
 drudgism
 druery
 drug

@@ -8348,6 +8348,7 @@ alights
 aligned
 aligners
 aligning
+auscultator
 anisated
 alignment
 alignments
@@ -13801,7 +13802,6 @@ anodize
 anodized
 aseismatic
 annat
-auscultator
 aristogenesis
 anodizes
 anodizing
