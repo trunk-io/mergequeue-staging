@@ -245,6 +245,7 @@ fadednyess
 faden
 fadeout
 fader
+flaxtail
 faders
 fellowless
 fowlerite
@@ -7181,7 +7182,6 @@ footlockers
 flodge
 footlog
 footloose
-flaxtail
 footmanhood
 fascicle
 fallibilism
