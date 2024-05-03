@@ -11322,7 +11322,6 @@ furcal
 furcate
 furcated
 forepiece
-furcates
 fetwa
 flams
 fellen
@@ -11511,6 +11510,7 @@ furtive
 fimbrillose
 furtively
 furtum
+furcates
 furud
 furuncles
 furuncular
