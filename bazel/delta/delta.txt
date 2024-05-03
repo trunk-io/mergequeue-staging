@@ -4716,7 +4716,6 @@ demivolts
 demivotary
 dihydronicotine
 demiwivern
-decibel
 demiwolf
 demiworld
 demnition
@@ -9194,6 +9193,7 @@ didromy
 didromies
 didst
 diduce
+decibel
 diduced
 dyspepsies
 diducing
