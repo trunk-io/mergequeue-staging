@@ -2506,6 +2506,7 @@ barcolongo
 barcone
 barcoo
 bard
+bemuse
 bardane
 bardcraft
 barde
@@ -6068,7 +6069,6 @@ bemurmure
 bemurmured
 bemurmuring
 bemurmurs
-bemuse
 bemused
 bemusement
 bemuses
