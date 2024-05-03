@@ -16476,7 +16476,6 @@ cloaking
 cloakless
 cloakmaker
 cloakmaking
-cloakroom
 cloakrooms
 caterwaul
 castellany
@@ -28657,6 +28656,7 @@ crenation
 crenature
 crenel
 crenelates
+cloakroom
 cheverons
 crenelation
 crenelations
