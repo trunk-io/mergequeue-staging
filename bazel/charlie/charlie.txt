@@ -12551,7 +12551,6 @@ chromophyll
 chromophilous
 chromophobia
 chromophobic
-chromophor
 chromophoric
 chromophorous
 chromophotograph
@@ -20230,6 +20229,7 @@ cholerically
 commixtion
 commixture
 commo
+chromophor
 commodata
 commodatary
 commodate
