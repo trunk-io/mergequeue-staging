@@ -10518,7 +10518,6 @@ amidoacetophenone
 amidoaldehyde
 amidoazo
 amidocyanogen
-amidofluorid
 adjudicating
 amidofluoride
 amidogen
@@ -16283,6 +16282,7 @@ abradants
 antiskid
 antiskidding
 antislavery
+amidofluorid
 antislaveryism
 antislickens
 antislip
