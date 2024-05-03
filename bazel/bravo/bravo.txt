@@ -8431,7 +8431,6 @@ botches
 bihalve
 biham
 balladwise
-bihamate
 byhand
 bihari
 biharmonic
@@ -9794,6 +9793,7 @@ bistre
 bedtimes
 bistred
 bystreet
+bihamate
 bystreets
 bethinks
 bistres
