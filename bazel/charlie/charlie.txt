@@ -17149,7 +17149,6 @@ coaged
 coagency
 coagencies
 coagent
-coagents
 coaggregate
 coaggregated
 coaggregation
@@ -31271,6 +31270,7 @@ conscionably
 curd
 curded
 curdy
+coagents
 curdier
 curdiest
 curdiness
