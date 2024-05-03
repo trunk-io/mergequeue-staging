@@ -9363,7 +9363,6 @@ chaucer
 causation
 chaucerian
 chauceriana
-chaucerianism
 chaucerism
 chauchat
 chaudfroid
@@ -19675,6 +19674,7 @@ colutea
 colville
 colza
 com
+chaucerianism
 comae
 comagistracy
 comagmatic
