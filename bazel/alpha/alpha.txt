@@ -4981,6 +4981,7 @@ aeroballistics
 aerobate
 aerobated
 aerobatic
+apio
 aerobatics
 aerobating
 aerobe
@@ -17058,7 +17059,6 @@ apinch
 angioparalysis
 aping
 apinoid
-apio
 apioceridae
 apiocrinite
 apioid
