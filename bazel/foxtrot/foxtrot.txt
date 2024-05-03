@@ -9144,7 +9144,6 @@ farrowed
 feints
 foxiness
 foxinesses
-foxing
 foxish
 foxite
 fadged
@@ -11558,6 +11557,7 @@ flashforwards
 fusels
 fuseplug
 fuses
+foxing
 fusetron
 fusht
 fusibility
