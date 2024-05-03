@@ -4276,7 +4276,6 @@ deltidia
 deltidial
 displacer
 deltiology
-deltohedra
 deltohedron
 deltoid
 deltoidei
@@ -8894,6 +8893,7 @@ dichlorohydrin
 dichloromethane
 dichlorvos
 decriminalizing
+deltohedra
 dichocarpous
 dichogamy
 dichogamic

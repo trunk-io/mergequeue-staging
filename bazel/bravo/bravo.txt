@@ -6587,7 +6587,6 @@ ber
 berairou
 bilaminated
 bitreadle
-berakah
 berake
 bookstack
 belittles
@@ -14430,6 +14429,7 @@ branchful
 bilimbi
 branchy
 branchia
+berakah
 branchiae
 branchial
 branchiata
