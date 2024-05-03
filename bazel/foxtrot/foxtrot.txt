@@ -4849,6 +4849,7 @@ flamencos
 flashier
 flamenship
 faburden
+fuzzle
 forehood
 flameout
 flameouts
@@ -11739,7 +11740,6 @@ fuzzes
 fuzziest
 fuzzily
 fuzzing
-fuzzle
 fuzztail
 fw
 fwd
