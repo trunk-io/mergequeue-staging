@@ -1990,7 +1990,6 @@ decahedral
 decahedrodra
 decahedron
 decahedrons
-decahydrate
 decahydronaphthalene
 decay
 decayable
@@ -3132,6 +3131,7 @@ defassa
 defat
 defatigable
 danai
+decahydrate
 defatigation
 discommodate
 defats
