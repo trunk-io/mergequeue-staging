@@ -1033,6 +1033,7 @@ farley
 farles
 farls
 farm
+firstfruits
 farmage
 farmed
 farmer
@@ -4250,7 +4251,6 @@ firstborn
 firstcomer
 forbearer
 firster
-firstfruits
 firsthand
 firstly
 fust
