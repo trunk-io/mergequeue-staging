@@ -2840,7 +2840,6 @@ epeirogeny
 eleutherodactyli
 eleutheromania
 expromissor
-eleutheromaniac
 eleutheromorph
 eleutheropetalous
 eleutherophyllous
@@ -5125,6 +5124,7 @@ endochrome
 endocycle
 endocyclic
 endocyemate
+eleutheromaniac
 endocyst
 endocystitis
 epistlar
