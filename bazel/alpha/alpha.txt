@@ -17428,6 +17428,7 @@ aporrhoea
 aport
 aportlast
 aportoise
+asserter
 aposafranine
 aposelene
 aposematic
@@ -21692,7 +21693,6 @@ assertative
 asserted
 assertedly
 axhead
-asserter
 asserters
 asserting
 assertingly

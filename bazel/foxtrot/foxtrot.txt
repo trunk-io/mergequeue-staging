@@ -6466,6 +6466,7 @@ focuser
 fluoroscopic
 fluoroscopies
 fluoroscoping
+flamens
 fluoroscopist
 fluoroscopists
 fibrils
@@ -10766,7 +10767,6 @@ ftnerr
 frenetic
 faroelite
 fu
-flamens
 fuage
 fub
 fubbed
