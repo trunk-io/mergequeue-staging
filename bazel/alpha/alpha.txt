@@ -509,7 +509,6 @@ abjectly
 abjectness
 abjoint
 abjudged
-abjudging
 abjudicate
 abjudicated
 abjudicating
@@ -1645,6 +1644,7 @@ accoil
 accolade
 accoladed
 accolades
+abjudging
 accolated
 anabo
 accolent
