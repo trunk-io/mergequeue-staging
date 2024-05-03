@@ -2395,7 +2395,6 @@ endaseh
 electrodialyze
 electrodynamic
 electrodynamical
-electrodynamics
 enter
 electrodynamism
 electrodiplomatic
@@ -10867,6 +10866,7 @@ eulachans
 eumorphous
 engarble
 eulamellibranchiata
+electrodynamics
 eulamellibranchiate
 euler
 eulerian
