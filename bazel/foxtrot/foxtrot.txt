@@ -596,6 +596,7 @@ falsificate
 falsification
 falsificator
 falsified
+formalist
 finickier
 figeater
 fiard
@@ -4508,7 +4509,6 @@ fits
 fittage
 fytte
 fitted
-formalist
 fitters
 fitty
 fittier
