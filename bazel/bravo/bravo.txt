@@ -4646,7 +4646,6 @@ bedcord
 becrush
 byplays
 brinston
-bedcover
 bedcovers
 beddable
 bedded
@@ -12748,6 +12747,7 @@ bookshops
 booksy
 bookstall
 bookstand
+bedcover
 bookstore
 bookways
 bookward
