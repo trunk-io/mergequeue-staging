@@ -19691,7 +19691,6 @@ comanchean
 comanches
 comandante
 comandantes
-comandanti
 comandra
 comanic
 comarca
@@ -31739,6 +31738,7 @@ customizer
 customizers
 customizes
 customizing
+comandanti
 customly
 customs
 customshouse
