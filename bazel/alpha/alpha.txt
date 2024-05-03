@@ -2135,7 +2135,6 @@ amic
 acetobacter
 acetobenzoic
 acetobromanilide
-acetocinnamene
 acetoin
 acetol
 anthophyta
@@ -10217,6 +10216,7 @@ ambulatio
 ambulation
 ambulator
 ambulatory
+acetocinnamene
 aphanitism
 ambulatories
 ambulatorily
