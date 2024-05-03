@@ -149,6 +149,7 @@ gaedelian
 gael
 gaelic
 gleemaiden
+grampus
 gaelicist
 gaelicization
 gaelicize
@@ -7847,7 +7848,6 @@ gainspeaker
 gramper
 gramps
 gemmiparity
-grampus
 gagor
 gaddish
 grampuses
