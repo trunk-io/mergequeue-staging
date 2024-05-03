@@ -5070,6 +5070,7 @@ flatly
 flatling
 flatlings
 flatlong
+formatting
 feigns
 flatman
 friction
@@ -8413,7 +8414,6 @@ fogbows
 formatter
 formatters
 frigorifico
-formatting
 flappering
 formazan
 formazyl
