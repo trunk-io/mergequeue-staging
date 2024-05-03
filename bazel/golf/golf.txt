@@ -1699,7 +1699,6 @@ goldbug
 gastralgia
 gastralgic
 gastraneuria
-gastrea
 gastreas
 gastrectasia
 ghostcraft
@@ -5695,6 +5694,7 @@ globins
 gorses
 gluttony
 globiocephalus
+gastrea
 glaucolite
 gurish
 grouses
