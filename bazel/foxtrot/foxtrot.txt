@@ -1276,7 +1276,6 @@ fastigia
 fideicommissum
 fraunch
 fumigate
-fastigiately
 fastigious
 fastigium
 foreswore
@@ -9760,6 +9759,7 @@ freir
 freyr
 freith
 freity
+fastigiately
 foins
 fremd
 flagonless
