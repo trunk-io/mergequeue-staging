@@ -10442,7 +10442,6 @@ doctoress
 diphenhydramine
 diphenyl
 dialyzate
-diphenylacetylene
 diphenylamine
 diphenylaminechlorarsine
 disillusions
@@ -15927,6 +15926,7 @@ dotage
 doubleword
 dotal
 dotard
+diphenylacetylene
 dotardly
 dotards
 dotarie
