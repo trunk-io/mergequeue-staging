@@ -3179,7 +3179,6 @@ defected
 defecters
 defectibility
 debasingly
-defectible
 defecting
 diplomacy
 denicotinizes
@@ -16437,6 +16436,7 @@ downheartedness
 doxologize
 doxologized
 doz
+defectible
 doze
 dozed
 dozened
