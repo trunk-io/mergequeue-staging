@@ -14637,7 +14637,6 @@ brattach
 bratticer
 brattices
 beauticians
-bratticing
 boroughmonger
 brattie
 brattier
@@ -17486,6 +17485,7 @@ buoyant
 buoyantly
 balancing
 buoyantness
+bratticing
 brigandism
 buoying
 buonamani
