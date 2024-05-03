@@ -5901,6 +5901,7 @@ catheterism
 catheterization
 catheterize
 catheterized
+choel
 catheterizing
 catheters
 catheti
@@ -11462,7 +11463,6 @@ communality
 calcomp
 choctaw
 choctaws
-choel
 choenix
 choes
 choffer
