@@ -6298,7 +6298,6 @@ cautery
 cauteries
 cauterisation
 cauterise
-cuts
 cauterised
 cauterising
 cauterism
@@ -12767,6 +12766,7 @@ chugalug
 chlamydomonadaceae
 chugalugged
 chugalugging
+cuts
 chugalugs
 cutie
 chugged
