@@ -3793,7 +3793,6 @@ battlement
 battlemented
 battlements
 battlepiece
-battleplane
 beatus
 battlers
 battles
@@ -10941,6 +10940,7 @@ blithesomely
 bkgd
 blithest
 blitter
+battleplane
 blitum
 basiophthalmous
 blitz
