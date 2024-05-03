@@ -5039,7 +5039,6 @@ beermaker
 beermaking
 bodier
 beermonger
-beerocracy
 beerothite
 beerpull
 bees
@@ -8227,6 +8226,7 @@ biennia
 biennial
 biennially
 bests
+beerocracy
 biennials
 biennium
 bienniums
