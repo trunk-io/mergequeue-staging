@@ -10716,7 +10716,6 @@ chimneypot
 chimneys
 chimonanthus
 chimopelagic
-chymosin
 chymosinogen
 chymosins
 chymotrypsin
@@ -27841,6 +27840,7 @@ crabsidle
 crabstick
 crabut
 cosmo
+chymosin
 crabweed
 crabwise
 crabwood
