@@ -3077,7 +3077,6 @@ ellipsoidal
 entoproctous
 ellipsone
 ellipsonic
-elliptic
 elliptical
 elliptically
 ellipticalness
@@ -3299,6 +3298,7 @@ electrophysiologic
 emancipated
 emancipation
 emancipationist
+elliptic
 endemial
 emancipations
 emancipatist
