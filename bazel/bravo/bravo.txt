@@ -9806,7 +9806,6 @@ bisubstitution
 bisulc
 bisulcate
 bisulfate
-baronetship
 bisulfid
 bisulfide
 bisulphate
@@ -15023,6 +15022,7 @@ brevete
 breveted
 breveting
 breviaries
+baronetship
 breviate
 breviature
 brevicaudate
