@@ -1479,7 +1479,6 @@ fen
 faucitis
 fauconnier
 faucre
-faugh
 faujasite
 faulds
 faulkner
@@ -6788,6 +6787,7 @@ foils
 foilsmen
 foin
 foined
+faugh
 foining
 foiningly
 fashionmonging
