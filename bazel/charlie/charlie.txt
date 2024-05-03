@@ -3314,6 +3314,7 @@ caproic
 caproin
 capromys
 chemicoengineering
+chaffcutter
 capron
 caprone
 capronyl
@@ -8122,7 +8123,6 @@ chafeweed
 copleased
 cakebread
 chaff
-chaffcutter
 chaffed
 chaffer
 chemotherapeuticness
