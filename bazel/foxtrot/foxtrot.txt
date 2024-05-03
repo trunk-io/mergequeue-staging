@@ -4385,6 +4385,7 @@ flagfish
 foreshorten
 fissile
 fissilingual
+flourescent
 formicid
 fissilinguia
 fissility
@@ -10012,7 +10013,6 @@ frigage
 frigate
 frigates
 foilable
-flourescent
 frigatoon
 februarius
 frigged
