@@ -7541,6 +7541,7 @@ forechase
 forechoice
 foregame
 forechoose
+foretooth
 foreclaw
 foreclosable
 foreclose
@@ -8107,7 +8108,6 @@ fretless
 fissurella
 foretold
 ferling
-foretooth
 flinches
 foretop
 foretopman

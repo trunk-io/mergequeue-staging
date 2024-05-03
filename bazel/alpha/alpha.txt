@@ -3049,7 +3049,6 @@ acrosporous
 adnexa
 across
 acrostic
-acrostical
 acrostichal
 acrosticheae
 acrostichic
@@ -18386,6 +18385,7 @@ arabize
 amper
 arabized
 arabizes
+acrostical
 arabizing
 adin
 arable
