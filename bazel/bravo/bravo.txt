@@ -2491,7 +2491,6 @@ barcas
 biofog
 bosons
 beja
-barcella
 boxwork
 barchan
 barche
@@ -16339,6 +16338,7 @@ brushes
 brushet
 brushfire
 brushful
+barcella
 brushy
 brushier
 brushiest
