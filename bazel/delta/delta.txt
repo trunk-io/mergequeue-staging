@@ -1443,7 +1443,6 @@ db
 dbl
 denominable
 dbms
-dbridement
 disintensify
 dbrn
 dc
@@ -11551,6 +11550,7 @@ disconfirm
 disconfirmation
 disconfirmed
 discharge
+dbridement
 disconform
 disconformably
 deontic
