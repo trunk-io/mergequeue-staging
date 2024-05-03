@@ -1175,7 +1175,6 @@ calemes
 calendal
 calendar
 calendared
-cothy
 calendarer
 calendarian
 calendaric
@@ -15780,6 +15779,7 @@ clavicytheria
 clavicytherium
 clavicithern
 clavicle
+cothy
 clavicles
 clavicor
 clavicorn
