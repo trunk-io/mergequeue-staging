@@ -1981,6 +1981,7 @@ gauges
 gaul
 gaupus
 getters
+goatskin
 gainless
 gaulding
 gyniolatry
@@ -6412,7 +6413,6 @@ goats
 goatsbane
 goatsbeard
 goatsfoot
-goatskin
 goatskins
 goatstone
 granulitic
