@@ -602,7 +602,6 @@ dup
 damboard
 dambonite
 dambonitol
-dambose
 dambrod
 dame
 dimethylamine
@@ -5094,6 +5093,7 @@ dolmas
 dendromecon
 dendrometer
 dendrons
+dambose
 divvying
 dendrophil
 dendrophile
