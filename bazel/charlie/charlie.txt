@@ -21187,7 +21187,6 @@ concede
 consummations
 conceded
 concededly
-conceder
 conceders
 concedes
 conceding
@@ -21347,6 +21346,7 @@ concetto
 conch
 concha
 conchae
+conceder
 counterpronunciamento
 conchal
 conche
