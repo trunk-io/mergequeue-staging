@@ -682,7 +682,6 @@ bacterioagglutinin
 botchier
 bacterioblast
 bacteriochlorophyll
-blink
 bacteriocidal
 bacteriocyte
 bacteriofluorescin
@@ -18065,6 +18064,7 @@ bishoping
 busywork
 busyworks
 busk
+blink
 busker
 buskers
 busket
