@@ -1003,7 +1003,6 @@ calcannei
 calcar
 calcarate
 calcarated
-calcarea
 calcareoargillaceous
 calcareobituminous
 calcareosiliceous
@@ -31841,6 +31840,7 @@ cutline
 currycombed
 cutlines
 cutling
+calcarea
 cutlings
 cutlips
 cutocellulose
