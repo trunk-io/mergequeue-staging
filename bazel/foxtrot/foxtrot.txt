@@ -2515,7 +2515,6 @@ favela
 ferric
 fopperly
 familistery
-ferricyanate
 ferricyanic
 farina
 ferricyanide
@@ -9226,6 +9225,7 @@ fractures
 fracturing
 fracturs
 fradicin
+ferricyanate
 frae
 fraela
 fraena

@@ -3608,7 +3608,6 @@ empyrosis
 emboweller
 embowelling
 embowelment
-embowels
 endocarpoid
 embower
 embowered
@@ -5978,6 +5977,7 @@ enjambment
 enjambments
 enjelly
 enjewel
+embowels
 enjoy
 enjoyable
 enjoyably
