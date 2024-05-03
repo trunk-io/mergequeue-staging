@@ -3178,7 +3178,6 @@ actinomycetaceae
 actinomycetal
 actinomycetales
 actinomycete
-actinomycetous
 actinomycin
 actinomycoma
 argyropelecus
@@ -19312,6 +19311,7 @@ agglutinin
 ardebs
 ardelio
 ardella
+actinomycetous
 ardellae
 acceleration
 ardency
