@@ -1303,7 +1303,6 @@ foreking
 finishable
 fat
 fatagaga
-fatal
 fatale
 fatales
 felonous
@@ -11061,6 +11060,7 @@ fadedness
 fud
 focimetry
 fun
+fatal
 funambulant
 funambulate
 frequence

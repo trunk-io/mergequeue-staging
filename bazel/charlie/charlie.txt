@@ -3896,7 +3896,6 @@ carcinomatous
 carcinophagous
 carcinophobia
 carcinopolypus
-carcinosarcoma
 chloralide
 carcinosarcomas
 carcinosarcomata
@@ -20207,6 +20206,7 @@ commits
 committable
 committed
 committedly
+carcinosarcoma
 committedness
 committeeism
 clausum
