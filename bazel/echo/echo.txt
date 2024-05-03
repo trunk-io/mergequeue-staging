@@ -4069,6 +4069,7 @@ empall
 enteradenological
 empanel
 empaneled
+enkolpia
 empaneling
 empanelled
 empanelling
@@ -6009,7 +6010,6 @@ enkindles
 enkindling
 evacuated
 euhemerism
-enkolpia
 enkraal
 enl
 enlace
