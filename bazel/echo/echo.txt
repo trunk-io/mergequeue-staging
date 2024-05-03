@@ -6329,7 +6329,6 @@ extreme
 enroot
 enrooted
 enroots
-encirclement
 enrough
 eucritic
 enround
@@ -10452,6 +10451,7 @@ esthesias
 ethnical
 ethnically
 exogamy
+encirclement
 ectobatic
 encasement
 erme
