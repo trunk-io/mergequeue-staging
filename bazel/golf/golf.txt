@@ -3226,7 +3226,6 @@ georgiana
 guiding
 gaslock
 gazetteer
-governorate
 geiger
 georgians
 georgic
@@ -10402,6 +10401,7 @@ gumming
 galatic
 gramophonist
 garbing
+governorate
 gummose
 gummoses
 gummosis
