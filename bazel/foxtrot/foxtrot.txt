@@ -4849,6 +4849,7 @@ faburden
 fuzzle
 forehood
 flameout
+forcleave
 flameouts
 flameproof
 formolite
@@ -7438,7 +7439,6 @@ forcipulate
 figent
 forcite
 forcive
-forcleave
 forclose
 forconceit
 forcut

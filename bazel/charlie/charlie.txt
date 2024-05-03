@@ -5717,7 +5717,6 @@ certy
 catechisable
 catechisation
 catechise
-catechised
 catechiser
 catechising
 calipered
@@ -23032,6 +23031,7 @@ consortable
 consorted
 consortia
 consortial
+catechised
 consorting
 consortism
 consortitia
