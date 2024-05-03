@@ -815,7 +815,6 @@ daneweed
 daneweeds
 danewort
 daneworts
-dang
 danged
 danger
 diff
@@ -2150,6 +2149,7 @@ decasyllable
 decasyllables
 decasyllabon
 decaspermal
+dang
 decaspermous
 decast
 decastellate
