@@ -7843,7 +7843,6 @@ fragmentariness
 frailties
 forepeak
 forepeaks
-foreplace
 foreplay
 foreplays
 foreplan
@@ -9045,6 +9044,7 @@ fourrageres
 fourrier
 forlore
 fours
+foreplace
 febrile
 flagellates
 fourscore
