@@ -1050,7 +1050,6 @@ farmers
 fyttes
 foresights
 farmership
-farmhand
 farmhold
 farmhouse
 farmhousey
@@ -7926,6 +7925,7 @@ fulmineous
 foresees
 fistify
 foresend
+farmhand
 faience
 foresense
 foreset
