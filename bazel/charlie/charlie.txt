@@ -4057,7 +4057,6 @@ cardiopulmonary
 cardiopuncture
 cardiorenal
 cardiorespiratory
-cardiorrhaphy
 cardiorrheuma
 cardiorrhexis
 cardioschisis
@@ -21600,6 +21599,7 @@ concusses
 concussing
 concussion
 concussional
+cardiorrhaphy
 concussions
 concussive
 concutient
