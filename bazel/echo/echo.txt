@@ -3687,7 +3687,6 @@ epimerising
 elevenses
 estonians
 embryologically
-embryologies
 embryologist
 embryomas
 embryomata
@@ -7019,6 +7018,7 @@ entrances
 entranceway
 entrancing
 estrayed
+embryologies
 entrancingly
 entrant
 entrants
