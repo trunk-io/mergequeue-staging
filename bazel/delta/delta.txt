@@ -8703,7 +8703,6 @@ diatomales
 diatomean
 diatomic
 diatomicity
-diatomin
 diatomine
 desmonosology
 diatomite
@@ -17100,6 +17099,7 @@ drift
 driftage
 driftages
 driftbolt
+diatomin
 drifted
 drifter
 draught

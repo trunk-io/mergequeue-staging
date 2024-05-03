@@ -1554,7 +1554,6 @@ ballan
 ballarag
 ballard
 ballas
-ballast
 ballastage
 ballasted
 bouton
@@ -3346,6 +3345,7 @@ biserrate
 basis
 basiscopic
 basisidia
+ballast
 basisolute
 basisphenoid
 basitting
