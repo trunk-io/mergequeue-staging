@@ -2484,7 +2484,6 @@ ferrary
 ferrash
 ferrate
 funge
-ferrated
 firebox
 ferrateen
 ferrates
@@ -4085,6 +4084,7 @@ fireboat
 fireboats
 fuzzball
 firebolted
+ferrated
 firebomb
 firebombed
 ferroalloy

@@ -5025,7 +5025,6 @@ aerodone
 aerodonetics
 aerodontalgia
 aerodontia
-aerodontic
 aerodrome
 aerodromes
 aerodromics
@@ -12699,6 +12698,7 @@ avitaminotic
 anethols
 aftersend
 anethum
+aerodontic
 anetic
 aneuch
 aneuploid
