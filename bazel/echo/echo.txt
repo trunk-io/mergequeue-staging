@@ -3954,7 +3954,6 @@ endosternite
 emirship
 equinovarus
 emissary
-exorganic
 emissaria
 eikon
 emissaries
@@ -5569,6 +5568,7 @@ equalist
 enfamous
 excommunicated
 enfants
+exorganic
 edwardsia
 enfarce
 enfasten
