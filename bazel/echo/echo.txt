@@ -8659,7 +8659,6 @@ exanthemas
 equigranular
 equilater
 equilateral
-eulamellibranchia
 equilaterally
 equilibrant
 equilibrate
@@ -11948,6 +11947,7 @@ excellency
 enleague
 enomoty
 excelling
+eulamellibranchia
 excelse
 excelsin
 estop
