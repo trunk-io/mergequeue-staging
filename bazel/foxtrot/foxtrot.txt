@@ -8586,7 +8586,6 @@ forrarder
 forrel
 forril
 foresworn
-forrit
 formation
 forritsome
 fervency
@@ -9089,6 +9088,7 @@ fowent
 fowl
 fash
 fowled
+forrit
 fowlery
 frogman
 fowlers
