@@ -250,7 +250,6 @@ glumal
 gainers
 gayness
 gainful
-gainfully
 garnetz
 gainfulness
 gaingiving
@@ -4596,6 +4595,7 @@ gypsied
 gipsies
 gypsies
 gipsyesque
+gainfully
 gypsyesque
 gypsiferous
 gipsyfy

@@ -2491,6 +2491,7 @@ cangia
 cangle
 cangue
 cangues
+childbed
 canham
 canhoop
 cany
@@ -10481,7 +10482,6 @@ chilblains
 child
 childage
 childbearing
-childbed
 childbeds
 childbirths
 childcrowing
