@@ -4459,7 +4459,6 @@ fistiness
 fannell
 fistinut
 fistle
-fistlike
 fistmele
 fistnote
 forecounsel
@@ -5294,6 +5293,7 @@ flector
 fledged
 fieldbird
 fulminant
+fistlike
 fledgeless
 fledgeling
 fledgy

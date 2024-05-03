@@ -5043,6 +5043,7 @@ endew
 endexines
 endgate
 exlex
+exorcisement
 endhand
 endiablee
 endiadem
@@ -12767,7 +12768,6 @@ exorbitation
 exorcisation
 exorcise
 exorcised
-exorcisement
 exotery
 euthanatize
 endoplasm
