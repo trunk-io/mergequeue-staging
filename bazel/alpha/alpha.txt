@@ -272,6 +272,7 @@ abdominals
 abdominoanterior
 abdominocardiac
 abdominocentesis
+aerogels
 abdominocystic
 abdominohysterectomy
 abdominohysterotomy
@@ -5045,7 +5046,6 @@ aeroenterectasia
 aerofoil
 aerofoils
 aerogel
-aerogels
 aerogen
 aerogene
 aerogenes
