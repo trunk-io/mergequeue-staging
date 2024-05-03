@@ -5199,7 +5199,6 @@ glaserian
 grainland
 glashan
 gumwood
-glass
 gaily
 gyrencephalate
 glassblower
@@ -8088,6 +8087,7 @@ granulates
 granulating
 granulations
 granulative
+glass
 granulator
 granulators
 gitano
