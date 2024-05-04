@@ -15430,7 +15430,6 @@ clanking
 clankingly
 clankless
 clanks
-clankum
 chicadee
 clanless
 clanned
@@ -31724,6 +31723,7 @@ customary
 customaries
 customarily
 customariness
+clankum
 customed
 customer
 charger
