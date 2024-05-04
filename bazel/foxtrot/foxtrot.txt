@@ -194,6 +194,7 @@ factotums
 factrix
 factualism
 fireboot
+flattener
 factualistic
 factuality
 factually
@@ -7753,7 +7754,6 @@ foreladies
 forelay
 forelaying
 figary
-flattener
 forelands
 foreleader
 forelegs
