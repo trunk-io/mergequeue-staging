@@ -1295,7 +1295,6 @@ gravitational
 garad
 gallish
 garage
-garaged
 gyved
 garageman
 garages
@@ -1560,6 +1559,7 @@ gallerying
 garvey
 garveys
 garvie
+garaged
 gliadins
 gas
 geometricians
