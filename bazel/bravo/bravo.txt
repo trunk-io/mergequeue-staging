@@ -2126,7 +2126,6 @@ buckra
 baniwa
 banjara
 bioinstrumentation
-banjoist
 banjoists
 bougainvilliidae
 banjore
@@ -9939,6 +9938,7 @@ bitulithic
 bitumed
 bitumens
 bituminate
+banjoist
 bituminiferous
 bituminisation
 bolograph
