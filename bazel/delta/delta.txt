@@ -5945,7 +5945,6 @@ depsides
 dept
 depth
 deviationism
-depthen
 depthing
 depthless
 depthlessness
@@ -6635,6 +6634,7 @@ desiccations
 deerfly
 desiccative
 desiccator
+depthen
 darbukka
 desiccatory
 desiccators
