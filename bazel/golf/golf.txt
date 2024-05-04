@@ -808,7 +808,6 @@ galvanomagnetic
 galvanometer
 geometries
 galvanometrical
-galvanoplasty
 galvanoplastic
 galvanoplastical
 galactophygous
@@ -10452,6 +10451,7 @@ gundelet
 gundelow
 ghiblis
 gypsous
+galvanoplasty
 geomyid
 gundi
 gundy
