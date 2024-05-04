@@ -4446,7 +4446,6 @@ carnify
 carnification
 carnificial
 carnified
-carnifies
 carnifying
 carniform
 carniolan
@@ -5008,6 +5007,7 @@ caseated
 conformability
 caseates
 caseation
+carnifies
 casebearer
 clewing
 casebook
