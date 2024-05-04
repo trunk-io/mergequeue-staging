@@ -4573,7 +4573,6 @@ adumbrative
 adumbral
 adumbrellar
 adunation
-adunc
 aduncate
 aduncated
 aduncity
@@ -20223,6 +20222,7 @@ arrame
 arrand
 arrange
 arrangeable
+adunc
 arranged
 arrangements
 arrangers
