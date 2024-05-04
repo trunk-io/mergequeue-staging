@@ -7270,6 +7270,7 @@ centure
 century
 centuria
 centurial
+counterseal
 counterdistinguish
 centuriate
 centuriator
@@ -27103,7 +27104,6 @@ countersconce
 claddings
 counterscrutiny
 countersea
-counterseal
 countersecure
 coffined
 countersecurity

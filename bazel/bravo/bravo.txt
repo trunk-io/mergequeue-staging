@@ -4514,7 +4514,6 @@ becluster
 becollier
 becolme
 biostatics
-becolor
 becombed
 become
 becomed
@@ -8652,6 +8651,7 @@ bimillenial
 boulevardiers
 befilch
 billian
+becolor
 billiard
 billiardist
 baldicoot
