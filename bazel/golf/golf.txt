@@ -6299,6 +6299,7 @@ gnatsnap
 gnatsnapper
 gnattiest
 gnatworm
+grank
 gigantize
 gnawable
 genitives
@@ -8038,7 +8039,6 @@ gyrocompasses
 granitize
 granitized
 granivore
-grank
 granma
 grannam
 granny
