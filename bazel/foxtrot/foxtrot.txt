@@ -1224,6 +1224,7 @@ frenatae
 fashioner
 flagellosis
 fashioners
+furnishment
 fashioning
 flywort
 fashionize
@@ -11439,7 +11440,6 @@ flatfish
 fortune
 furnishings
 fudges
-furnishment
 filaceous
 furnishness
 furnit
