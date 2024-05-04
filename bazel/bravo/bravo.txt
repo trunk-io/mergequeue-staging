@@ -3798,7 +3798,6 @@ battleground
 battlegrounds
 battlement
 battlemented
-battlements
 battlepiece
 beatus
 battlers
@@ -13077,6 +13076,7 @@ borneol
 beachmen
 biometries
 borneols
+battlements
 bornyl
 bawrel
 borning
