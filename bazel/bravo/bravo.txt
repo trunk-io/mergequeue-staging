@@ -3250,7 +3250,6 @@ biotrons
 basichromatic
 basichromatinic
 babai
-basichromiole
 basicity
 basicities
 basicranial
@@ -7732,6 +7731,7 @@ bhat
 bhava
 butylation
 bhavan
+basichromiole
 bhavani
 bhd
 bheesty
