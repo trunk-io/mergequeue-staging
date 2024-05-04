@@ -1776,7 +1776,6 @@ cambist
 containers
 cambistry
 cambists
-cambium
 caliculus
 cambiums
 cambyuskan
@@ -11496,6 +11495,7 @@ choirmasters
 choyroot
 choirwise
 choise
+cambium
 choisya
 chok
 chokage
