@@ -2128,7 +2128,6 @@ fells
 finger
 filiation
 feloness
-felony
 frocking
 forests
 foreshortening
@@ -5922,6 +5921,7 @@ furniment
 fustianish
 floorwise
 floosy
+felony
 foreconsent
 floosies
 floozie
