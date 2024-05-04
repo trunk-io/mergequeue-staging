@@ -1282,7 +1282,6 @@ gapless
 gapo
 gaposises
 gapped
-gapper
 gapperi
 gappy
 golosh
@@ -2722,6 +2721,7 @@ generousness
 geneserin
 geneserine
 geneses
+gapper
 gaup
 genesiacal
 grazingly
