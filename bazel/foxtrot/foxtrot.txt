@@ -409,6 +409,7 @@ faisceau
 flagships
 faitery
 faith
+frist
 faithbreach
 faithbreaker
 formatted
@@ -10168,7 +10169,6 @@ filleter
 friss
 frisson
 fraudfully
-frist
 frisure
 frit
 framing
