@@ -2512,6 +2512,7 @@ acier
 acierage
 acierate
 acierated
+automate
 acierates
 acieration
 acies
@@ -24199,7 +24200,6 @@ automanual
 automat
 automata
 automatable
-automate
 atomistics
 automates
 automatic
