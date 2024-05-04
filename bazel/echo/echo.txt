@@ -4296,6 +4296,7 @@ empusa
 empuzzle
 emrode
 ems
+entoblast
 emu
 emulable
 emulates
@@ -6855,7 +6856,6 @@ entitledness
 enriched
 entitling
 entitule
-entoblast
 entoblastic
 entobronchium
 ebbman
