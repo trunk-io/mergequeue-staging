@@ -10587,6 +10587,7 @@ bleachery
 bleacheries
 bleacherman
 bleachers
+basilisks
 bleaches
 bleachfield
 bleachground
@@ -14921,7 +14922,6 @@ breechloader
 breechloading
 breed
 breedable
-basilisks
 breedbate
 breeders
 breedy
