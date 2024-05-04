@@ -2621,7 +2621,6 @@ decolourizing
 decommission
 decommissioned
 dischase
-decommissioning
 dicranum
 decommissions
 deepens
@@ -14704,6 +14703,7 @@ dispending
 dockmackie
 dockman
 docks
+decommissioning
 dockside
 docksides
 dockworker
