@@ -6559,6 +6559,7 @@ agriotes
 arborescent
 agriotype
 agriotypidae
+amoebobacter
 agriotypus
 agrypnia
 agrypniai
@@ -10956,7 +10957,6 @@ althea
 amoebidae
 amoebiform
 arbitrer
-amoebobacter
 anglomaniac
 amoebobacterieae
 amoebocyte
