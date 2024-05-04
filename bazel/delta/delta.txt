@@ -2790,7 +2790,6 @@ decrepit
 decrepitate
 decrepitating
 decrepitation
-decrepity
 decrepitness
 decreptitude
 decresc
@@ -11470,6 +11469,7 @@ discolourization
 discombobulate
 discombobulated
 discombobulates
+decrepity
 discombobulating
 discombobulation
 discomedusae
