@@ -3043,7 +3043,6 @@ geodetical
 gjetosts
 gendarmerie
 graying
-geodetician
 geomechanics
 geodetics
 geodiatropism
@@ -8945,6 +8944,7 @@ griffinesque
 griffinhood
 griffinism
 glagah
+geodetician
 griffins
 griffon
 griffonage
