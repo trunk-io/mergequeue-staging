@@ -1260,7 +1260,6 @@ fishhouse
 flumed
 fastgoing
 farnovian
-fasthold
 fasti
 feudaries
 fastidiosity
@@ -3197,6 +3196,7 @@ fiddlefaced
 fewest
 fiddlehead
 firry
+fasthold
 fetish
 fiddleheaded
 fiddleys
