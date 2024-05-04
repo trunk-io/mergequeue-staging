@@ -1929,7 +1929,6 @@ bandar
 bandbox
 bandboxes
 breakers
-bandboxical
 bandcase
 bandcutter
 bande
@@ -2173,6 +2172,7 @@ banks
 banksia
 buzzgloak
 basilissa
+bandboxical
 banksian
 banksias
 begad
