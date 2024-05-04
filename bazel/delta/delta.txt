@@ -1479,7 +1479,6 @@ deacons
 deaconship
 deactivate
 deactivated
-deactivates
 discontinuing
 deactivating
 downbend
@@ -15379,6 +15378,7 @@ disdain
 diandrous
 dominicks
 dominie
+deactivates
 dominionism
 dominionist
 disgracefulness
