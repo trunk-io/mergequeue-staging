@@ -1190,7 +1190,6 @@ edrioasteroidea
 edriophthalmatous
 edriophthalmian
 eds
-educ
 educabilia
 educability
 educable
@@ -5847,6 +5846,7 @@ engraphic
 engraphically
 engrapple
 engrasp
+educ
 extractiform
 engraulis
 engrave
