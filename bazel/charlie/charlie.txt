@@ -4900,7 +4900,6 @@ cartularies
 cartway
 cartware
 cartwheel
-cartwheeler
 cartwheels
 cartwhip
 cartwright
@@ -23142,6 +23141,7 @@ carroll
 constrainer
 constraining
 constrainingly
+cartwheeler
 clench
 constrainment
 constrains

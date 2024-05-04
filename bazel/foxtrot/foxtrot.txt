@@ -7541,6 +7541,7 @@ forecatching
 forechamber
 forechase
 forechoice
+fourflusher
 foregame
 forechoose
 foretooth
@@ -9006,7 +9007,6 @@ fucatious
 foveola
 fourchette
 fourer
-fourflusher
 fourflushers
 fourgon
 forenote
