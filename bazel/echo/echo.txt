@@ -11150,6 +11150,7 @@ excluders
 extravagancy
 egocentric
 expede
+emmeniopathy
 explicantia
 euryphage
 euryphagous
@@ -12016,7 +12017,6 @@ epifauna
 exchanged
 epoptes
 evacuations
-emmeniopathy
 exchangee
 exchanger
 elbowing
