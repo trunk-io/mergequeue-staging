@@ -2897,7 +2897,6 @@ elfinwood
 elfish
 euphemist
 estrins
-eulogist
 elfishly
 elfishness
 encatarrhaphy
@@ -13122,6 +13121,7 @@ expiators
 expirant
 expirate
 emanatist
+eulogist
 expiration
 expirations
 expirator
