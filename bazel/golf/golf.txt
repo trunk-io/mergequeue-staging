@@ -5625,6 +5625,7 @@ glissades
 glissando
 gybe
 gompholobium
+grapeless
 glissette
 gebur
 glist
@@ -8133,7 +8134,6 @@ grossierete
 grapeful
 grapey
 grapeys
-grapeless
 glauber
 gilbertite
 gubernance
