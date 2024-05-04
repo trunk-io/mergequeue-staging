@@ -11685,7 +11685,6 @@ anacrisis
 anacrogynae
 anacrogynous
 anacromyodian
-anacrotic
 anacrotism
 anacruses
 anacrusis
@@ -13113,6 +13112,7 @@ afflicted
 angularities
 arctangent
 angularization
+anacrotic
 angularize
 angularly
 analgesis
