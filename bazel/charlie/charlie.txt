@@ -10851,7 +10851,6 @@ chints
 chintses
 chintz
 chintze
-chintzes
 chintzy
 chintzier
 chintziest
@@ -19278,6 +19277,7 @@ colobium
 coloboma
 colobus
 colocasia
+chintzes
 colocate
 colocated
 colocating
