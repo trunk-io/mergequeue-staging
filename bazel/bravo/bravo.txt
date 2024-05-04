@@ -5199,7 +5199,6 @@ befrilled
 befringe
 befringed
 befringes
-befringing
 befrocked
 befrounce
 befrumple
@@ -6883,6 +6882,7 @@ bescab
 bescarf
 belout
 bescent
+befringing
 bescorch
 bescorches
 bescorching
