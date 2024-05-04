@@ -9294,6 +9294,7 @@ diethylamine
 diethylaminoethanol
 diethylenediamine
 diethylethanolamine
+dalton
 diethylmalonylurea
 dietic
 dietical
@@ -16657,7 +16658,6 @@ drainable
 drainage
 drainages
 donating
-dalton
 dichroiscopic
 drainboard
 drainer
