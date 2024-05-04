@@ -4196,7 +4196,6 @@ flaxwench
 flounderingly
 fireweed
 fireweeds
-fireworky
 fireworkless
 fireworks
 fireworm
@@ -10539,6 +10538,7 @@ frenchiness
 frownful
 frowny
 frowning
+fireworky
 frowningly
 frowns
 frows

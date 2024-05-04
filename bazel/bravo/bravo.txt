@@ -7574,7 +7574,6 @@ bewash
 bewaste
 bewater
 beweary
-bewearies
 bewearying
 beweep
 butein
@@ -15741,6 +15740,7 @@ brokerly
 brokers
 broking
 beglic
+bewearies
 bowge
 brolga
 broll
