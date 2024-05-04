@@ -1877,7 +1877,6 @@ bams
 ban
 bana
 banaba
-boss
 banago
 blancmanger
 banagos
@@ -4277,6 +4276,7 @@ beatrix
 brattice
 beats
 beatuti
+boss
 beau
 beauclerc
 beaucoup
