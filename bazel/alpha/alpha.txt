@@ -10388,6 +10388,7 @@ amercer
 amercers
 alieners
 antifowl
+archvampire
 amerces
 amerciable
 amerciament
@@ -19232,7 +19233,6 @@ archturncoat
 archurger
 archvagabond
 atomics
-archvampire
 algorismic
 archvestryman
 ammiaceae
