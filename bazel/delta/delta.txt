@@ -3235,6 +3235,7 @@ defenseless
 defenselessly
 defenselessness
 defenseman
+duckboard
 defensemen
 defenser
 defensibility
@@ -17776,7 +17777,6 @@ duck
 duckbill
 duckbills
 duckblind
-duckboard
 duckboat
 ducked
 ducker
