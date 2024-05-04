@@ -147,6 +147,7 @@ forfeit
 factionalism
 factionalist
 factionaries
+fulicine
 fielded
 factionate
 factioneer
@@ -849,7 +850,6 @@ fantasms
 fantassin
 fantasticality
 fantastically
-fulicine
 fantasticalness
 fantasticate
 futharcs
