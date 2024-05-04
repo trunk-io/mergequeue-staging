@@ -7209,7 +7209,6 @@ fricandeau
 footraces
 footrail
 florimania
-footrests
 fibrilation
 fantasque
 footrope
@@ -9279,6 +9278,7 @@ frayings
 fraik
 fraile
 footpaces
+footrests
 frailejon
 frankliniana
 favus
