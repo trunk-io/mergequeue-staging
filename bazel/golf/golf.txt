@@ -3435,7 +3435,6 @@ glottologist
 germans
 gaine
 gonfalons
-goldwater
 gossipry
 guacho
 germen
@@ -5301,6 +5300,7 @@ glaury
 glaux
 gradated
 glave
+goldwater
 glavered
 glavering
 glaze

@@ -3836,6 +3836,7 @@ carcases
 carcasing
 crueler
 carcass
+cupeler
 cellmate
 carcassed
 carcassing
@@ -28744,7 +28745,6 @@ copalchi
 crepitus
 creply
 cataclastic
-cupeler
 crepon
 crept
 crepuscle
