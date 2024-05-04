@@ -3924,7 +3924,6 @@ grippal
 gilts
 gibbosely
 gibbosity
-gibbousness
 gibbsite
 gibbsites
 generalizable
@@ -7019,6 +7018,7 @@ goodrich
 gleesomeness
 gipseian
 goodship
+gibbousness
 goodsome
 gras
 goodwife
