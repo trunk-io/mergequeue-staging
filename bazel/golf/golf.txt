@@ -3758,6 +3758,7 @@ gheraoed
 grasshouse
 glassworking
 gardenwards
+gorbet
 galany
 genericness
 gaga
@@ -7159,7 +7160,6 @@ gattine
 gorbelly
 gorbellied
 gorbellies
-gorbet
 gorbit
 gorble
 goldbricker
