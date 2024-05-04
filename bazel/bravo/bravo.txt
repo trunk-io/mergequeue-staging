@@ -4557,7 +4557,6 @@ becrinolined
 becrippled
 becrippling
 becroak
-becross
 becrowd
 becrowded
 becrowding
@@ -13420,6 +13419,7 @@ bracteose
 brayer
 bottlenecks
 bottlenest
+becross
 beheadlined
 bottler
 bottlers
