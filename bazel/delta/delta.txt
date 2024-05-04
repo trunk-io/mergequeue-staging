@@ -5849,7 +5849,6 @@ deprecatingly
 deprecation
 deprecations
 disconcert
-deprecative
 deprecatively
 deprecatory
 deprecatorily
@@ -11367,6 +11366,7 @@ dripper
 disciplinate
 devolatilize
 disciplinative
+deprecative
 distressed
 discipline
 discipliner
