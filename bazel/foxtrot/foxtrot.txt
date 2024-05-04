@@ -1995,7 +1995,6 @@ firearm
 feynesses
 feinschmeckers
 feinted
-feinter
 feak
 feinting
 feis
@@ -5860,6 +5859,7 @@ flooding
 floodless
 floodlet
 floodlight
+feinter
 francis
 frory
 floodlighted
