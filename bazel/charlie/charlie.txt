@@ -1282,6 +1282,7 @@ calycular
 caliculate
 calyculate
 calyculated
+cycloid
 calycule
 coercing
 caliculi
@@ -13357,7 +13358,6 @@ cyclohexene
 cyclohexyl
 cyclohexylamine
 cycloheximide
-cycloid
 cycloidally
 cycloidean
 cycloidei
