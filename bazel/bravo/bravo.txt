@@ -15036,7 +15036,6 @@ brevilingual
 breviloquence
 beholding
 bestirring
-breviloquent
 breviped
 brevipen
 brevipennate
@@ -18076,6 +18075,7 @@ busload
 busman
 beardtongue
 busmen
+breviloquent
 buss
 benda
 bedrug
