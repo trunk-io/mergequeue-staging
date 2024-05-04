@@ -4548,7 +4548,6 @@ gynogenetic
 gracelessly
 gynomonecious
 gynomonoeciously
-gynomonoecism
 gynophoric
 ginorite
 gynosporangium
@@ -9368,6 +9367,7 @@ geyserite
 grossly
 grumph
 grosso
+gynomonoecism
 grossular
 gelatinizability
 grossularite
