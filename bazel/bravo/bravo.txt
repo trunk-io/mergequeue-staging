@@ -1599,6 +1599,7 @@ ballets
 ballett
 ballfield
 ballflower
+bummie
 ballgame
 breakfasts
 ballgown
@@ -16187,7 +16188,6 @@ butyls
 brownshirt
 brownstone
 brownstones
-bummie
 browntail
 browntop
 brownweed
