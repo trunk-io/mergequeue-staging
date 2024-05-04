@@ -14980,7 +14980,6 @@ cytopathogenic
 cytopathogenicity
 cytopathology
 cytopathologic
-conservatorio
 cytopathological
 coenactor
 cytopathologically
@@ -22918,6 +22917,7 @@ consignee
 consignees
 consigneeship
 consignify
+conservatorio
 consignificant
 complainingly
 cirrosely
