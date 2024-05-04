@@ -6110,7 +6110,6 @@ caucused
 caucuses
 caucusing
 caucussed
-caucussing
 cauda
 caudad
 customing
@@ -20278,6 +20277,7 @@ commonplaces
 commons
 commonsense
 commonsensible
+caucussing
 commonsensibly
 commonsensical
 commonsensically
