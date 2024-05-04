@@ -9098,7 +9098,6 @@ charmed
 coccolith
 charmedly
 charmel
-charmer
 charmers
 charmeuse
 charmfully
@@ -18362,6 +18361,7 @@ cognizable
 cognizableness
 cognizably
 crescent
+charmer
 cognizance
 cognizant
 cognize
