@@ -21326,7 +21326,6 @@ concerts
 concertstuck
 concessible
 concession
-concessionaire
 concessionaires
 concessionary
 concessions
@@ -25627,6 +25626,7 @@ corraded
 corrades
 corradial
 confirmee
+concessionaire
 corradiate
 corradiating
 corradiation
