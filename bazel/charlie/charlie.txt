@@ -1589,7 +1589,6 @@ calorist
 calorite
 calorize
 cheerful
-calorized
 calorizer
 calorizes
 calorizing
@@ -3256,6 +3255,7 @@ caprices
 capricious
 capriciously
 capriciousness
+calorized
 capricorn
 capricornid
 capricornus
