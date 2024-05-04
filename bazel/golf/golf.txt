@@ -1267,7 +1267,6 @@ golf
 gapeseed
 gapeseeds
 gapeworm
-gapeworms
 groove
 gapingly
 garnets
@@ -4845,6 +4844,7 @@ girouette
 girouettism
 gyrous
 gyrovagues
+gapeworms
 gortonian
 gyrowheel
 girr
