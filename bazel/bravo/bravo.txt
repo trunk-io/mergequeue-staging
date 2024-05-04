@@ -10383,7 +10383,6 @@ beray
 blankit
 blankminded
 bullneck
-blankmindedness
 blanks
 blanque
 blanquillo
@@ -15952,6 +15951,7 @@ bronchostenosis
 bronchostomy
 bronchostomies
 bronchotetany
+blankmindedness
 banked
 bronchotyphus
 bronchotome
