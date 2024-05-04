@@ -9148,7 +9148,6 @@ biorhythm
 bios
 biosatellite
 becking
-biosatellites
 biosciences
 bioscientific
 bioscientist
@@ -9534,6 +9533,7 @@ byroniana
 byronic
 byronically
 byronics
+biosatellites
 brushland
 bodycheck
 byronish
