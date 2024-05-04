@@ -4871,7 +4871,6 @@ demonstratability
 declassifies
 demonstrate
 demonstrated
-demonstratedly
 disqualification
 debunk
 demonstrater
@@ -17913,6 +17912,7 @@ damndests
 duessa
 duet
 duets
+demonstratedly
 duetting
 duettino
 duettist
