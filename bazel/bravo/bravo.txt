@@ -2950,7 +2950,6 @@ barrack
 barracked
 barracker
 barracking
-barracks
 barraclade
 barracoon
 barracouta
@@ -8863,6 +8862,7 @@ binits
 bink
 binman
 binmen
+barracks
 binna
 binnacle
 binnacles
