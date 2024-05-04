@@ -11173,6 +11173,7 @@ blore
 blosmy
 blossom
 blossombill
+breakfasting
 blossomhead
 buttercup
 biprong
@@ -14802,7 +14803,6 @@ breakermen
 breakfast
 breakfaster
 breakfasters
-breakfasting
 breakfastless
 breakfront
 bias
