@@ -4399,6 +4399,7 @@ genders
 gynecolatry
 gynecology
 gynecologic
+guanaco
 gynecologies
 gynecologist
 gremmie
@@ -8533,7 +8534,6 @@ gasan
 gimbaljawed
 grazes
 gallimatia
-guanaco
 grazie
 grazier
 gomuti
