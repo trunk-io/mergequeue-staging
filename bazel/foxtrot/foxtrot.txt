@@ -7692,6 +7692,7 @@ forehinting
 forehock
 forehoof
 forehoofs
+footplate
 forehooves
 fibular
 foreyard
@@ -7985,7 +7986,6 @@ foliates
 foreslow
 foresound
 forespake
-footplate
 forespeak
 forespeaker
 forespecified
