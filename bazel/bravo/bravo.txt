@@ -6851,6 +6851,7 @@ bertin
 bertram
 bashibazouk
 bertrand
+baldicoot
 bertrum
 beruffed
 beruffled
@@ -8652,7 +8653,6 @@ billian
 becolor
 billiard
 billiardist
-baldicoot
 billiards
 billyboy
 billycan
