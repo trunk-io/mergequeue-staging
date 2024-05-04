@@ -538,6 +538,7 @@ fallback
 fallbacks
 fallectomy
 fallenness
+fixations
 faller
 familarity
 fallfish
@@ -4559,7 +4560,6 @@ favism
 fixatifs
 fixation
 footslogs
-fixations
 fixative
 fixator
 fixed
