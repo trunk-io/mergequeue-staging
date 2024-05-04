@@ -10594,6 +10594,7 @@ doryman
 diploidize
 diploids
 dowf
+djelab
 diplois
 diplokaryon
 diploma
@@ -14551,7 +14552,6 @@ djebel
 dactyliography
 djebels
 djehad
-djelab
 djelfa
 djellab
 deferens
