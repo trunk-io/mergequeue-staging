@@ -11460,6 +11460,7 @@ angiostomize
 actinopterous
 amputation
 amputational
+asynartete
 amputations
 amputator
 amputee
@@ -21282,7 +21283,6 @@ asymtotes
 asymtotic
 asymtotically
 asynapsis
-asynartete
 async
 asynchronism
 asynchronisms
