@@ -970,7 +970,6 @@ absi
 absinth
 absinthes
 absinthiate
-absinthiated
 absinthiating
 absinthic
 absinthiin
@@ -5676,6 +5675,7 @@ aftercrop
 antisine
 aftercure
 afterdays
+absinthiated
 afterdamp
 afterdate
 afterdated
