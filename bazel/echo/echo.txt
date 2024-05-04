@@ -4307,6 +4307,7 @@ emulatively
 enthronements
 erythric
 emulator
+enumeration
 edificant
 emulatory
 erasable
@@ -7139,7 +7140,6 @@ enumerate
 eozoonal
 enumerates
 enumerating
-enumeration
 enumerations
 enumerative
 enumerator
