@@ -6858,7 +6858,6 @@ entitled
 entitledness
 enriched
 entitling
-entitule
 entoblast
 entobronchium
 ebbman
@@ -9750,6 +9749,7 @@ esoteric
 esoterica
 esoterical
 emprime
+entitule
 esoterically
 esotericism
 esotericist

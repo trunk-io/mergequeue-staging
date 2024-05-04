@@ -3249,7 +3249,6 @@ capricci
 capriccio
 capriccios
 capriccioso
-caprice
 caprices
 capricious
 capriciously
@@ -17872,6 +17871,7 @@ codomestication
 concessionist
 codominant
 codon
+caprice
 codons
 crowfooted
 ceromez
