@@ -2359,7 +2359,6 @@ feracious
 feracities
 ferae
 ferahan
-feralin
 feramorz
 ferbams
 fadingness
@@ -7069,6 +7068,7 @@ foodlessness
 foods
 foodservices
 featheredged
+feralin
 foodstuffs
 foofaraw
 figged
