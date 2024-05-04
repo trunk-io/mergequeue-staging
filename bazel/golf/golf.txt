@@ -3023,6 +3023,7 @@ geochronometric
 geocyclic
 goal
 geocline
+goldwork
 geococcyx
 gesnera
 galvanical
@@ -7327,7 +7328,6 @@ grallae
 gossaniferous
 gossans
 gossard
-goldwork
 gossy
 gossipdom
 gossiped
