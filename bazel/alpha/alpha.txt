@@ -5832,6 +5832,7 @@ afterwhile
 afterwisdom
 afterwit
 afterwitted
+assistances
 afterword
 afterwork
 afterworking
@@ -21838,7 +21839,6 @@ assishness
 assisi
 assist
 assistance
-assistances
 assistant
 assistanted
 assistants
