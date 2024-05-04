@@ -5444,7 +5444,6 @@ flexibleness
 frumpiness
 forgedly
 flexibly
-flexile
 flexility
 flexion
 flexionless
@@ -8523,6 +8522,7 @@ formulisation
 focusers
 flotage
 formulised
+flexile
 formulising
 fanwise
 formably

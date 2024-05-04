@@ -5483,6 +5483,7 @@ gymkhana
 glycolyl
 glycolylurea
 glycolipid
+geod
 glycolipin
 glycolipine
 glycolysis
@@ -5909,7 +5910,6 @@ glossitis
 glossless
 glossmeter
 gliriformia
-geod
 ganymedes
 gimmicked
 gosain
