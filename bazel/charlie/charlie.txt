@@ -6956,7 +6956,6 @@ cenospecies
 custodiam
 cenospecific
 cenospecifically
-cenotaph
 cenotaphy
 cenotaphies
 cenotaphs
@@ -7062,6 +7061,7 @@ centesimate
 centesimation
 creeshed
 centesimi
+cenotaph
 centesimo
 centesimos
 centesis
