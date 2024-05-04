@@ -7081,7 +7081,6 @@ airspaces
 adeptship
 apostolic
 airspeed
-airspeeds
 airstream
 airstrip
 airstrips
@@ -9722,6 +9721,7 @@ aluminous
 alumins
 aluminum
 aluminums
+airspeeds
 annie
 alumish
 aspirating
