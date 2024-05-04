@@ -2603,7 +2603,6 @@ bargain
 bargainable
 bargained
 billbugs
-bargainee
 bargainer
 bargainers
 bargaining
@@ -6289,6 +6288,7 @@ bensell
 bensh
 basural
 bumbler
+bargainee
 beautician
 benshea
 benshee

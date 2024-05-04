@@ -3175,7 +3175,6 @@ fictively
 ficula
 fid
 fidac
-fidalgo
 fidate
 floodgate
 functorial
@@ -6344,6 +6343,7 @@ flunkers
 fizgig
 flunky
 flunkies
+fidalgo
 flunkyhood
 flunkyish
 formality
