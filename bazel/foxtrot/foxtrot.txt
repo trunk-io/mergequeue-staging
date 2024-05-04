@@ -6439,7 +6439,6 @@ funambulatory
 fluorines
 fluorite
 fluorites
-fluorobenzene
 fourthly
 fluoroborate
 fluorocarbon
@@ -10747,6 +10746,7 @@ ferventness
 favorer
 frutex
 fayalite
+fluorobenzene
 fosterable
 fruticeous
 frutices
