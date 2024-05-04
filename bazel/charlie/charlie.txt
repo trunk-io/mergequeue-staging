@@ -19541,6 +19541,7 @@ colpoperineoplasty
 colpoperineorrhaphy
 colpoplasty
 colpoptosis
+crispers
 colporrhagia
 colporrhaphy
 colporrhea
@@ -29395,7 +29396,6 @@ crispening
 chalumeaux
 crispens
 crisper
-crispers
 crispest
 crispy
 crispier
