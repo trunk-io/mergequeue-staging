@@ -9478,7 +9478,6 @@ escalator
 escalier
 escalin
 escalloniaceae
-escalloniaceous
 escallop
 esseda
 escalloped
@@ -13616,6 +13615,7 @@ epionynychia
 exterminates
 elixir
 exterminating
+escalloniaceous
 extermination
 exterminative
 exterminator
