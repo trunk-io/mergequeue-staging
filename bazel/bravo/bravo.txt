@@ -6582,6 +6582,7 @@ bequeathing
 brawled
 bequeaths
 bequest
+bridgewall
 bequests
 bequote
 beqwete
@@ -15218,7 +15219,6 @@ befriend
 bridgetree
 britannica
 bridgeway
-bridgewall
 bridgewards
 bridgewater
 bridgework
