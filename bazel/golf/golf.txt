@@ -28,7 +28,6 @@ gabblers
 gabbles
 gabbling
 globuloid
-gabbroitic
 gabbros
 gabe
 grinning
@@ -7378,6 +7377,7 @@ gothicize
 gothicizer
 gothicness
 gothish
+gabbroitic
 gothism
 gothite
 gothites
