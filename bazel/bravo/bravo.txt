@@ -5057,6 +5057,7 @@ bajoire
 beetles
 bubal
 beetlestock
+bitterbur
 beetlestone
 beetleweed
 beetlike
@@ -9895,7 +9896,6 @@ bitterbloom
 breadth
 bitterbrush
 bitterbump
-bitterbur
 bittered
 bitterender
 bitterer
