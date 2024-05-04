@@ -3886,7 +3886,6 @@ carcinoma
 carcinomas
 carcinomata
 carcinomatosis
-carcinomatous
 carcinophagous
 carcinophobia
 carcinopolypus
@@ -8783,6 +8782,7 @@ charlie
 chapapote
 cottagey
 chaparajos
+carcinomatous
 chaparejos
 chaparral
 chaparrals
