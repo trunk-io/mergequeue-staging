@@ -2841,7 +2841,6 @@ epeirogeny
 eleutherodactyli
 eleutheromania
 expromissor
-eleutheromorph
 eleutherophyllous
 eleutherophobia
 enantiopathia
@@ -4506,6 +4505,7 @@ excresence
 encapsule
 encapsuled
 enjeopardy
+eleutheromorph
 encapsules
 externalization
 epicurism
