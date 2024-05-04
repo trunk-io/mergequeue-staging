@@ -852,7 +852,6 @@ episodal
 ectoblastic
 ectobronchium
 ectocardia
-euchromatin
 ectocarpaceae
 ectocarpaceous
 ectocarpic
@@ -3727,6 +3726,7 @@ embryulcus
 expositionary
 excursionists
 etagre
+euchromatin
 escapee
 embryulcuses
 epididymitis
