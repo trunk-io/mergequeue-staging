@@ -136,7 +136,6 @@ cablemen
 cables
 cablese
 cablet
-cableway
 cableways
 cabling
 cablish
@@ -26609,6 +26608,7 @@ councilor
 councilors
 councilorship
 councilwomen
+cableway
 counderstand
 counite
 couniversal
