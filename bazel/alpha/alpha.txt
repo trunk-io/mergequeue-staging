@@ -148,7 +148,6 @@ abatable
 amoebid
 aftershock
 abatage
-abate
 abated
 abatement
 abatements
@@ -21084,6 +21083,7 @@ ascribes
 ascribing
 ascript
 ascription
+abate
 ascriptions
 ascriptitious
 amgarn
