@@ -6738,7 +6738,6 @@ golpe
 goma
 gomari
 gomarian
-grazable
 gomart
 gomashta
 gomasta
@@ -6747,6 +6746,7 @@ gombay
 gombos
 gome
 ghedda
+grazable
 gapy
 gomeisa
 gomer
