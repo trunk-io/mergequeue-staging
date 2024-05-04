@@ -1189,7 +1189,6 @@ abura
 aburban
 aburst
 aburton
-abusable
 abusage
 abuse
 abused
@@ -6310,6 +6309,7 @@ avowter
 acacine
 aglycon
 aglycone
+abusable
 aglycones
 aglycons
 aglycosuric
