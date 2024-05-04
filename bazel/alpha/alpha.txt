@@ -16327,7 +16327,6 @@ antisoporific
 antispace
 antispadix
 antispasis
-antispasmodic
 antispasmodics
 antispast
 antispastic
@@ -25389,6 +25388,7 @@ azumbre
 azure
 azurean
 azured
+antispasmodic
 azureness
 azureous
 azures
