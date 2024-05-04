@@ -4046,7 +4046,6 @@ gigantomachy
 gigantosaurus
 guaranteer
 gigantostraca
-gigantostracous
 gigartina
 gigasecond
 gigaton
@@ -4799,6 +4798,7 @@ gyromancy
 gyromele
 gyrometer
 gymnasisiums
+gigantostracous
 grandpapa
 gnawers
 giron
