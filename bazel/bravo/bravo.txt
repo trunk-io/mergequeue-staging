@@ -3054,7 +3054,6 @@ barrio
 barrios
 barrister
 botts
-barristerial
 barristers
 barristership
 barristress
@@ -12989,6 +12988,7 @@ borderlight
 borderline
 bordermark
 backstitch
+barristerial
 borders
 bordman
 bordrag
