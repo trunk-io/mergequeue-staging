@@ -2897,7 +2897,6 @@ feverfew
 flamier
 floating
 fevering
-feverish
 feverishness
 feverless
 feverlike
@@ -10998,6 +10997,7 @@ fume
 flitches
 fumed
 fumelike
+feverish
 fonts
 fumerel
 fumeroot
