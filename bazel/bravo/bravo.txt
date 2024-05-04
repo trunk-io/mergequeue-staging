@@ -6500,6 +6500,7 @@ benzotrifluoride
 benzotrifuran
 benzoxate
 benzoxy
+banda
 benzoxyacetic
 benzoxycamphor
 bongo
@@ -14514,7 +14515,6 @@ brandishing
 brandisite
 brandywine
 brandle
-banda
 brandling
 brandreth
 brandrith
