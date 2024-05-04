@@ -1058,6 +1058,7 @@ absorber
 antitegula
 absorbers
 absorbing
+arterials
 absorbingly
 absorbition
 absorbtion
@@ -20512,7 +20513,6 @@ arterialization
 arterialize
 arterialized
 arterially
-arterials
 arteriasis
 androgynism
 arteriectasia
