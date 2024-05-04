@@ -6026,6 +6026,7 @@ cats
 catskill
 catskin
 catskinner
+cuartino
 catslide
 catso
 catsos
@@ -30418,7 +30419,6 @@ carfuffled
 cuartilla
 cuartillo
 collapsable
-cuartino
 cuarto
 counterirritant
 cub
