@@ -6318,7 +6318,6 @@ flummery
 flummydiddle
 fankle
 flummox
-flummoxed
 flocculose
 fiscalizing
 funker
@@ -7835,6 +7834,7 @@ forepass
 forepast
 forepaw
 forepaws
+flummoxed
 fragmentariness
 frailties
 forepeak
