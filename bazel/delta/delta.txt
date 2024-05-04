@@ -8169,6 +8169,7 @@ diadkokinesia
 diadochy
 diadochian
 diadochic
+disshroud
 diadochokinesia
 diadochokinesis
 diadokokinesis
@@ -13560,7 +13561,6 @@ dwines
 dissheathe
 dissheathed
 disship
-disshroud
 diplocardiac
 dissidence
 drudgeries
