@@ -497,7 +497,6 @@ epanorthoses
 ecclesiology
 ecclesiological
 ecclesiologically
-ecclesiologist
 ecclesiophobia
 eccoproticophoric
 eccrinology
@@ -5090,6 +5089,7 @@ everett
 endobiotic
 endoblast
 endoblastic
+ecclesiologist
 endobronchial
 empathizing
 enunciation
