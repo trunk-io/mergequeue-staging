@@ -4410,7 +4410,6 @@ fissipedia
 fissipedial
 fibrillous
 fissipeds
-fissipes
 fissirostral
 fissirostrate
 falconinae
@@ -5997,6 +5996,7 @@ floridities
 floridness
 floriferous
 floriform
+fissipes
 florigenic
 flyspeck
 florigens
