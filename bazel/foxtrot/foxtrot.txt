@@ -4515,7 +4515,6 @@ faussebraye
 foretopsail
 fitting
 fikie
-fittingness
 fatso
 fittings
 fittit
@@ -9302,6 +9301,7 @@ fraist
 frontispieced
 frakfurt
 fraktur
+fittingness
 fasciolet
 fram
 foliolate
