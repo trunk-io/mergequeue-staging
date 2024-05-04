@@ -4065,6 +4065,7 @@ fire
 fireback
 favourably
 fireball
+foothook
 fireballs
 flanky
 firebird
@@ -7322,7 +7323,6 @@ foraneous
 foraramens
 foraramina
 facilitator
-foothook
 forasmuch
 fishful
 forastero
