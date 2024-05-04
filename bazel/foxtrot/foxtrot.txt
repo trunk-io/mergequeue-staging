@@ -2413,7 +2413,6 @@ forespeed
 forefeeling
 ferment
 fermentability
-flavine
 furzechat
 fellowlike
 fermentable
@@ -5426,6 +5425,7 @@ flex
 flexanimous
 flexed
 flexes
+flavine
 flexibilities
 flexibilty
 flexible
