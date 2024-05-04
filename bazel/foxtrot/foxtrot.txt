@@ -5709,7 +5709,6 @@ flitterbat
 futhermore
 flittered
 frigidness
-flittering
 flittermice
 flittermmice
 filaze
@@ -9173,6 +9172,7 @@ fract
 fractable
 fractabling
 fraction
+flittering
 fractionalism
 fractionalization
 flatwork
