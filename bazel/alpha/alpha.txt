@@ -8121,7 +8121,6 @@ alfur
 alfurese
 alfuro
 antefact
-alg
 alga
 algae
 asweve
@@ -20526,6 +20525,7 @@ arteriococcygeal
 arteriodialysis
 arteriofibrosis
 arteriogenesis
+alg
 arteriogram
 arteriograph
 arteriographic
