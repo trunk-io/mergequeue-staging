@@ -11713,6 +11713,7 @@ bobwhite
 bobwood
 brassic
 boc
+boggle
 bocaccio
 bocage
 bocal
@@ -11888,7 +11889,6 @@ boggier
 bogginess
 bogging
 boggish
-boggle
 bogglebo
 boggled
 boggler
