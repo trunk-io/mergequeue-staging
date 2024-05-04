@@ -15532,7 +15532,6 @@ brythonic
 blimy
 british
 britisher
-britishhood
 britishism
 britishly
 boultell
@@ -17075,6 +17074,7 @@ battalia
 bulletmaking
 bulletproofed
 bis
+britishhood
 bromargyrite
 bulletproofing
 bodleian
