@@ -3939,6 +3939,7 @@ eminences
 extraboldface
 eminencies
 eminent
+erythrol
 eminently
 elishah
 expressionless
@@ -13327,7 +13328,6 @@ expounder
 episcenium
 expounding
 expounds
-erythrol
 expreme
 enrut
 embrittlement
