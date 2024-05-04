@@ -673,6 +673,7 @@ gallium
 galliums
 gallivant
 gallivanters
+griotte
 gallivanting
 garotting
 gawkihood
@@ -6988,7 +6989,6 @@ goodhumoredness
 glyptograph
 gomarite
 goodyera
-griotte
 goodyish
 goodyism
 galvanometrically
