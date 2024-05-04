@@ -11923,7 +11923,6 @@ choregy
 choregic
 choregrapher
 choregraphic
-choregraphically
 choregus
 choreguses
 chorei
@@ -13587,6 +13586,7 @@ cylindricalness
 cylindricity
 cerebrometer
 cylindricule
+choregraphically
 cylindriform
 companionize
 cylindrite
