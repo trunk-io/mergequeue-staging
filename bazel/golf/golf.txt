@@ -1719,7 +1719,6 @@ gasfiring
 gastrectomy
 gastrectomies
 gastrelcosis
-glaucosuria
 gastric
 gastricism
 gastrilegous
@@ -10146,6 +10145,7 @@ gibli
 guiders
 gurneys
 granduncle
+glaucosuria
 guidership
 gleanings
 guides
