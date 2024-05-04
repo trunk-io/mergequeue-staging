@@ -4975,7 +4975,6 @@ casave
 casavi
 casbah
 casbahs
-chauffeurship
 calipers
 cascabel
 cascabels
@@ -14530,6 +14529,7 @@ cirque
 cirrate
 cirrated
 cirratulidae
+chauffeurship
 cirratulus
 cirrhopetalum
 cirrhopod
