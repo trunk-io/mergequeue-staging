@@ -5146,7 +5146,6 @@ aerophane
 aerophilately
 aerophilatelic
 aerophilatelist
-aerophile
 aerophilia
 aerophilous
 aerophysical
@@ -9307,6 +9306,7 @@ alocasia
 alcoholizing
 alochia
 alody
+aerophile
 alodial
 alodialist
 alodiality

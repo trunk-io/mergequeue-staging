@@ -2659,6 +2659,7 @@ edaphodont
 electrotheraputic
 electrotheraputical
 electrotheraputically
+examining
 expurgates
 electrothermally
 electrothermancy
@@ -12949,7 +12950,6 @@ expectoration
 eumenidae
 expectorations
 expectorative
-examining
 electral
 extill
 expects
