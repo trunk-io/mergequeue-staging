@@ -7799,7 +7799,6 @@ cerulean
 ceruleans
 coquettishness
 cerulein
-ceruleite
 ceruleolactite
 ceruleous
 ceruleum
@@ -11654,6 +11653,7 @@ choline
 cholinergic
 cholines
 cholinesterase
+ceruleite
 cholinic
 confronting
 cholinolytic
