@@ -7921,7 +7921,6 @@ alectoromorphae
 alectoromorphous
 alectoropodes
 alectoropodous
-alectryomachy
 alectryomancy
 abipon
 alectrion
@@ -18952,6 +18951,7 @@ ambush
 archfriend
 archgenethliac
 archgod
+alectryomachy
 archgomeral
 archgovernor
 alphamerically
