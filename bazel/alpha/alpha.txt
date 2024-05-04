@@ -12641,7 +12641,6 @@ anemometrographic
 anemometrographically
 anemonal
 anemones
-anemony
 anemonin
 anemonol
 anguillidae
@@ -17520,6 +17519,7 @@ apostolici
 apostolicism
 apostolicity
 apostolos
+anemony
 alliterationist
 apostrophal
 apostrophation
