@@ -3890,7 +3890,6 @@ emeu
 emeute
 emeutes
 emf
-emforth
 emhpasizing
 emic
 emicant
@@ -4731,6 +4730,7 @@ ergometer
 elkhorn
 extroverted
 ethnobotanical
+emforth
 encipher
 enciphered
 enciphering
