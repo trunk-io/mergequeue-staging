@@ -5466,7 +5466,6 @@ flexure
 flexured
 falsie
 flingy
-flexures
 fly
 flyaway
 feelers
@@ -8433,6 +8432,7 @@ formicaries
 flayflint
 forespent
 formicaroid
+flexures
 fartlek
 fut
 formicate
