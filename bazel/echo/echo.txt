@@ -3160,7 +3160,6 @@ estus
 entailing
 endemic
 ethnobotany
-episporangium
 elsehow
 elseways
 elsewhat
@@ -8156,6 +8155,7 @@ epirrhema
 epirrhematic
 epirrheme
 episarcine
+episporangium
 episarkine
 episclera
 episcleral
