@@ -4860,6 +4860,7 @@ demonry
 divines
 demonship
 dicyclic
+dismast
 demonstrability
 demonstrable
 demonstrableness
@@ -12703,7 +12704,6 @@ dervishhood
 daguerreotypes
 dismarketing
 dismask
-dismast
 dismasted
 dismastment
 disme
