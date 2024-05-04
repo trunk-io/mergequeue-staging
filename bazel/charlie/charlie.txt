@@ -4979,7 +4979,6 @@ casbah
 casbahs
 calipers
 cascabel
-cascabels
 cascable
 cascables
 cascadable
@@ -25605,6 +25604,7 @@ corpulencies
 corpulent
 closestool
 corpulently
+cascabels
 corpulentness
 corpus
 corpuscle
