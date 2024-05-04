@@ -1293,6 +1293,7 @@ foreseing
 filicin
 feed
 fasts
+faunus
 fatiguability
 fastuous
 fastuousness
@@ -5485,7 +5486,6 @@ flyblow
 flyblown
 flyblows
 flyboat
-faunus
 flyboats
 flybrush
 fishless
