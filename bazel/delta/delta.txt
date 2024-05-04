@@ -1696,7 +1696,6 @@ deathful
 deathfully
 deathfulness
 deathy
-deathify
 deathin
 deathiness
 deathless
@@ -11281,6 +11280,7 @@ discarnate
 discarnation
 discase
 discased
+deathify
 diesel
 discases
 discasing
