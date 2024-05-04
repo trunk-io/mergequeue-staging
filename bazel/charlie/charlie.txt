@@ -5250,7 +5250,6 @@ calibered
 castanospermum
 castaway
 compilable
-caste
 casted
 casteism
 casteless
@@ -23453,6 +23452,7 @@ callorhynchus
 conterminal
 conterminant
 conterminate
+caste
 contermine
 conterminous
 codescendant
