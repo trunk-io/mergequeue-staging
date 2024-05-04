@@ -6231,7 +6231,6 @@ benic
 benaming
 benight
 bipartient
-benighted
 benightedly
 bragger
 benightedness
@@ -15490,6 +15489,7 @@ briskish
 briskly
 brisling
 brislings
+benighted
 briss
 brisses
 botryolite
