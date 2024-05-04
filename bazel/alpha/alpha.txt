@@ -6333,7 +6333,6 @@ agmas
 agmatine
 anystidae
 agmatology
-agminate
 agminated
 agnail
 agname
@@ -14208,6 +14207,7 @@ anteambulation
 anteater
 antebaptismal
 algology
+agminate
 andesyte
 antebath
 antebrachia
