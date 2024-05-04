@@ -727,7 +727,6 @@ bacterioscopist
 bacteriosis
 bacteriosolvent
 bacteriostasis
-bacteriostat
 bacteriostatic
 bacteriostatically
 bacteriotherapeutic
@@ -18025,6 +18024,7 @@ bibliotherapeutic
 bushwife
 bushwood
 bribee
+bacteriostat
 busy
 busybody
 busybodies
