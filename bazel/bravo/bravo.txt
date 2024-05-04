@@ -676,7 +676,6 @@ bactericidal
 bactericidally
 bactericide
 bactericides
-bactericidin
 bajau
 bacterid
 blowoff
@@ -1212,6 +1211,7 @@ baked
 bakehouse
 brachycrany
 bakehouses
+bactericidin
 bakelite
 bakelize
 borley
