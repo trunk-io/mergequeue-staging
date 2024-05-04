@@ -5173,7 +5173,6 @@ flavor
 flavorer
 flavorers
 flavorful
-flavorfully
 flavorfulness
 flavory
 flavoriness
@@ -5613,6 +5612,7 @@ flints
 flintstone
 frontspiece
 flyoff
+flavorfully
 flip
 focalise
 findable

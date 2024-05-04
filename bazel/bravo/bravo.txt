@@ -12232,6 +12232,7 @@ bolter
 bolters
 bolthead
 boltheader
+braggy
 bagge
 bloodcurdler
 bolti
@@ -14227,7 +14228,6 @@ biovular
 braggery
 bonism
 bragget
-braggy
 braggier
 befop
 braggiest
