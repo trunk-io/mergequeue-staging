@@ -8774,7 +8774,6 @@ equisized
 exceeder
 equisonance
 equisonant
-emyde
 equispaced
 equisufficiency
 extradicting
@@ -10319,6 +10318,7 @@ etherizes
 etherizing
 etherlike
 ethernet
+emyde
 extratemporal
 etherolate
 ettercap

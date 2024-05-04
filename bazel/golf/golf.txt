@@ -1835,7 +1835,6 @@ gastrologists
 goodwives
 gaultheria
 gubernia
-genuclast
 gormands
 gearman
 gastromancy
@@ -8108,6 +8107,7 @@ granulitize
 granulization
 granuloadipose
 genappe
+genuclast
 gcd
 granulocytic
 granulocytopoiesis
