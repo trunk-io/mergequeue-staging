@@ -5530,6 +5530,7 @@ energids
 egested
 ejulation
 energise
+ekphorize
 energiser
 energises
 energism
@@ -8585,7 +8586,6 @@ equationist
 equations
 essentia
 equative
-ekphorize
 equator
 etherial
 equatoreal
