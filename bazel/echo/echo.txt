@@ -8661,7 +8661,6 @@ exanthemas
 equigranular
 equilater
 equilateral
-equilaterally
 equilibrant
 equilibrate
 epitrochlear
@@ -12125,6 +12124,7 @@ exclusivism
 exclusivist
 exclusivistic
 exclusivity
+equilaterally
 excoct
 excoction
 excoecaria
