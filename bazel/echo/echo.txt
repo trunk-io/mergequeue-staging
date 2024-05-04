@@ -2419,6 +2419,7 @@ expedient
 expos
 electroform
 electroforming
+equilibristat
 electrofuse
 electrofused
 electrofusion
@@ -8680,7 +8681,6 @@ enunciates
 equilibrio
 equilibrious
 equilibrist
-equilibristat
 elderbrotherhood
 effluvial
 extraliminal
