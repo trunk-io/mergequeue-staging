@@ -7887,7 +7887,6 @@ foreribs
 foreright
 foredates
 foreroyal
-forerun
 forerunner
 freckliness
 forerunning
@@ -8728,6 +8727,7 @@ firebreak
 frithsoken
 fortunella
 fortunes
+forerun
 fortuneteller
 fripper
 flatfootedness
