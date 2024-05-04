@@ -328,6 +328,7 @@ eatings
 el
 enthronised
 eats
+elementalize
 eagerly
 entrench
 eaved
@@ -8525,7 +8526,6 @@ eprise
 enfiladed
 epizoicide
 eprouvette
-elementalize
 epruinose
 epsilons
 epsom
