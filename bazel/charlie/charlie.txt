@@ -14665,7 +14665,6 @@ cistic
 cystic
 cysticarpic
 cysticarpium
-cysticercerci
 cysticerci
 cysticercoid
 cysticercoidal
@@ -21066,6 +21065,7 @@ counterdash
 computational
 computationally
 computations
+cysticercerci
 computative
 computatively
 computativeness
