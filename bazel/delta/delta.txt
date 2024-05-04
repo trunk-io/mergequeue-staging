@@ -3113,6 +3113,7 @@ defamations
 defamatory
 defame
 defamed
+doweries
 defamer
 defamers
 defames
@@ -16217,7 +16218,6 @@ doweral
 dowered
 doweress
 dowery
-doweries
 dowering
 dowerless
 deadwoods
