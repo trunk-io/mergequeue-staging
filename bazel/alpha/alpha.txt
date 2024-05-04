@@ -11976,7 +11976,6 @@ archemperor
 anapestic
 anaphalantiasis
 anaphalis
-anaphase
 anaphases
 anaphasic
 anaphe
@@ -23002,6 +23001,7 @@ attemperament
 attemperance
 attemperate
 afterreckoning
+anaphase
 attemperately
 attemperation
 attempered
