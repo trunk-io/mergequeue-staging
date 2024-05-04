@@ -24239,7 +24239,6 @@ convolvulus
 convolvuluses
 convulsant
 convulse
-convulsed
 convulsedly
 convulses
 choky
@@ -24987,6 +24986,7 @@ cordial
 cordiality
 cordialities
 cordialize
+convulsed
 cordially
 cordialness
 cordials
