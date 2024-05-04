@@ -4666,7 +4666,6 @@ adventuristic
 adventurous
 adventurously
 adventurousness
-adverb
 adverbial
 adverbiality
 adverbialize
@@ -5978,6 +5977,7 @@ agaty
 agatiferous
 agatiform
 aly
+adverb
 agatine
 anthracitism
 aruspex
