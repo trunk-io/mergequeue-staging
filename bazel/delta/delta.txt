@@ -6680,7 +6680,6 @@ dribbed
 desiliconize
 delate
 desilt
-declared
 desilvered
 desilvering
 desilverization
@@ -15586,6 +15585,7 @@ doomsters
 doomwatcher
 doon
 dooputty
+declared
 door
 doorbell
 doorbells
