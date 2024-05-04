@@ -10318,7 +10318,6 @@ chicha
 chichevache
 chichi
 chichicaste
-chichimec
 chichimecan
 chichipate
 chichipe
@@ -19398,6 +19397,7 @@ colorant
 colorate
 coloration
 colorational
+chichimec
 colorationally
 cydippian
 colorations
