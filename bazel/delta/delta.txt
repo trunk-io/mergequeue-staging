@@ -8744,7 +8744,6 @@ diazoate
 diazobenzene
 diazohydroxide
 diazoic
-diffident
 diazoimide
 diazoma
 diazomethane
@@ -9393,6 +9392,7 @@ degenerescent
 diffractiveness
 diffracts
 dupion
+diffident
 diffranchise
 diffrangible
 diffusate
