@@ -17046,7 +17046,6 @@ coachmaking
 coachman
 cogency
 coachmaster
-coachmen
 conglobulate
 coachs
 coachsmith
@@ -17984,6 +17983,7 @@ coelomate
 coelomatic
 coelomatous
 coelome
+coachmen
 coelomes
 coelomic
 coelomocoela
