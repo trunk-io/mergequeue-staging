@@ -5636,7 +5636,6 @@ enfonce
 enforce
 enforceability
 enforceable
-enforced
 enforcedly
 encyclopedize
 extranatural
@@ -13786,6 +13785,7 @@ embosture
 extracosmical
 extracostal
 extracranial
+enforced
 extract
 extractability
 extractable

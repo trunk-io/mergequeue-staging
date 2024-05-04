@@ -6612,7 +6612,6 @@ celadon
 copters
 celadonite
 celadons
-celaeno
 celandines
 celanese
 celarent
@@ -26598,6 +26597,7 @@ councilman
 councilmanic
 councilmen
 councilor
+celaeno
 councilors
 councilorship
 councilwomen
