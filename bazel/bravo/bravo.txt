@@ -634,7 +634,6 @@ bequirtle
 background
 backwoodsmen
 backword
-backworm
 backwrap
 backwraps
 blockage
@@ -13660,6 +13659,7 @@ bourse
 bourses
 bourtree
 bourtrees
+backworm
 bouse
 brushoffs
 boused
