@@ -5060,7 +5060,6 @@ dendrocolaptidae
 doggeries
 dissective
 dendroctonus
-dendrodic
 dendrodra
 dendroeca
 dendrogaea
@@ -6234,6 +6233,7 @@ dermatopathic
 dermatopathology
 dermatopathophobia
 dermatophagus
+dendrodic
 dermatophyte
 demounting
 diploneural
