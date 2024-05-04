@@ -5613,6 +5613,7 @@ frontspiece
 flintwood
 flyoff
 flip
+focalise
 findable
 frayn
 flypaper
@@ -6635,7 +6636,6 @@ fobs
 fertiliser
 focal
 focalisation
-focalise
 focalised
 focalising
 focalization
