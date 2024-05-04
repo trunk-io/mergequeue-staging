@@ -10357,7 +10357,6 @@ diorites
 dioritic
 diorthoses
 diorthosis
-diorthotic
 dioscorea
 dioscoreaceae
 dioscorein
@@ -11398,6 +11397,7 @@ disclaimers
 disclaiming
 disclamation
 diamantoid
+diorthotic
 diabolifuge
 disclamatory
 disclander
