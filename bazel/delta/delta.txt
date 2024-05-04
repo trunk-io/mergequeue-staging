@@ -3091,7 +3091,6 @@ defacers
 defaces
 defacing
 defacingly
-defacto
 diabolify
 digressiveness
 deliriate
@@ -12753,6 +12752,7 @@ dismissive
 dismoded
 dysmorphism
 dysmorphophobia
+defacto
 dismortgage
 dismortgaged
 dacryorrhea
