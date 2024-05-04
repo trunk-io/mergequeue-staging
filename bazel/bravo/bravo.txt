@@ -4481,7 +4481,6 @@ beclamor
 backhands
 biopsies
 beclamored
-beclamors
 beclamour
 beclang
 beclap
@@ -5705,6 +5704,7 @@ begrime
 batler
 belgic
 birdbrain
+beclamors
 belgium
 belgophile
 bocce

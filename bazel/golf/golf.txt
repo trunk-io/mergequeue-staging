@@ -1831,6 +1831,7 @@ gaultheria
 gubernia
 genuclast
 gormands
+gearman
 gastromancy
 gastromelus
 gastromyces
@@ -8832,7 +8833,6 @@ gremlin
 gremlins
 gremmy
 gremmies
-gearman
 grenade
 grenades
 grenadier
