@@ -8080,7 +8080,6 @@ bicollateral
 bicollaterality
 bicolligate
 bicolor
-bicolored
 bicolorous
 bicolors
 bicolour
@@ -18300,6 +18299,7 @@ buttle
 boiseries
 buttling
 buttock
+bicolored
 banyans
 buttocked
 buttocker
