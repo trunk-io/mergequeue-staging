@@ -20337,7 +20337,6 @@ communicate
 communicated
 communicatee
 compliably
-communicates
 communicating
 communication
 conquedle
@@ -23075,6 +23074,7 @@ conspissate
 conspue
 const
 constable
+communicates
 constablery
 cowgate
 constables
