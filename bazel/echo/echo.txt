@@ -5472,7 +5472,6 @@ endungeon
 endura
 exotisms
 endurability
-exertive
 elaeodochon
 endurable
 endurably
@@ -10267,6 +10266,7 @@ etherealising
 ecclesia
 etherealism
 ethereality
+exertive
 effacing
 etherealization
 etherealizing
