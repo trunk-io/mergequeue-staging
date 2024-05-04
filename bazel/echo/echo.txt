@@ -1833,7 +1833,6 @@ extravagated
 elastica
 eyeservice
 eyeshade
-eyeshades
 eyeshield
 exposals
 eyeshots
@@ -5295,6 +5294,7 @@ endoradiosonde
 endoral
 endore
 evened
+eyeshades
 endorhinitis
 endorphin
 endorse
