@@ -11537,6 +11537,7 @@ amusement
 amusements
 amuser
 aider
+aporia
 amuses
 amusette
 amusgo
@@ -12895,7 +12896,6 @@ angioglioma
 angiogram
 angiography
 angiographic
-aporia
 angiohemophilia
 angiohyalinosis
 angiohydrotomy
