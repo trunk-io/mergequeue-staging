@@ -1296,6 +1296,7 @@ garad
 gallish
 garage
 garaged
+gyromagnetic
 gyved
 garageman
 garages
@@ -4800,7 +4801,6 @@ gyrohorizon
 guato
 gyrolith
 gyroma
-gyromagnetic
 geologise
 gyromancy
 gyromele
