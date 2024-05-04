@@ -1233,7 +1233,6 @@ belauder
 bakers
 beslaver
 bakership
-bakes
 bakeshop
 bakeshops
 bakestone
@@ -3778,6 +3777,7 @@ barkary
 battiks
 battiness
 batting
+bakes
 battish
 battled
 becursing
