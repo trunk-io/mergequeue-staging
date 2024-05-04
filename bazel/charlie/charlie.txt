@@ -1308,6 +1308,7 @@ caligated
 caligation
 caliginosity
 caliginous
+circumscribing
 caliginously
 caliginousness
 caligo
@@ -14423,7 +14424,6 @@ circumscribable
 circumscribe
 circumscribed
 circumscriber
-circumscribing
 circumscript
 circumscriptions
 circumscriptive
