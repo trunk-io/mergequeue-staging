@@ -1682,7 +1682,6 @@ brassy
 ballot
 ballota
 ballotage
-balloted
 balloter
 balloting
 bradyseismal
@@ -2180,6 +2179,7 @@ banksian
 banksias
 begad
 banksman
+balloted
 banksmen
 bankweed
 banlieu
