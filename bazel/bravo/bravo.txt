@@ -5646,6 +5646,7 @@ belchers
 blowpipes
 belching
 beld
+biblical
 beldam
 beldame
 beldames
@@ -7880,7 +7881,6 @@ bible
 bibles
 bibless
 biblic
-biblical
 biblicality
 biblically
 biblicism
