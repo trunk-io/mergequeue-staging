@@ -136,7 +136,6 @@ cablemen
 cables
 cablese
 cablet
-cablets
 cableway
 cableways
 cabling
@@ -15479,6 +15478,7 @@ clapperboard
 clapperclaw
 clapperclawer
 clapperdudgeon
+cablets
 clappered
 clappermaclaw
 clappers
