@@ -15401,7 +15401,6 @@ clamshell
 clamshells
 clamworm
 clamworms
-clan
 clancular
 clancularly
 clandestine
@@ -20069,6 +20068,7 @@ commensals
 commensurability
 commensurableness
 commensurably
+clan
 commensurated
 commensurately
 commensurateness
