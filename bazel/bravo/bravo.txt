@@ -3424,7 +3424,6 @@ beers
 brasen
 bassalia
 bassalian
-bemoaning
 bassan
 bassanello
 bassanite
@@ -12959,6 +12958,7 @@ borates
 borating
 borax
 borazon
+bemoaning
 boldfaces
 borazons
 borboridae
