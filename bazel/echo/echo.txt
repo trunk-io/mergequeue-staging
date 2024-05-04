@@ -1064,7 +1064,6 @@ edeotomy
 edessan
 edestan
 edestin
-edestosaurus
 edge
 edgebone
 emyd
@@ -10422,6 +10421,7 @@ ethize
 ethmyphitis
 ethmofrontal
 eemis
+edestosaurus
 ethmoid
 ethmoidal
 exareolate
