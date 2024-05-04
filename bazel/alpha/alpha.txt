@@ -9197,7 +9197,6 @@ almahs
 afterbreach
 alman
 almanac
-anahau
 almanacs
 almander
 almandine
@@ -17775,6 +17774,7 @@ appennage
 appense
 appenzell
 apperceive
+anahau
 apperceived
 apperceiving
 apperception
