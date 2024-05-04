@@ -3187,7 +3187,6 @@ elucidating
 elucidations
 elucidative
 elucidator
-eluctate
 eluctation
 elucubrate
 eciton
@@ -11413,6 +11412,7 @@ evaporitic
 emphatic
 exhibitive
 evaporize
+eluctate
 evaporometer
 evapotranspiration
 evase
