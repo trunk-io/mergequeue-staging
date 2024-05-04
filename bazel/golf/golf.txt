@@ -1653,6 +1653,7 @@ grammes
 gregory
 grainy
 gasses
+gleir
 gassy
 gassiest
 gassing
@@ -5502,7 +5503,6 @@ glycoside
 glutaraldehyde
 glycosides
 glutenous
-gleir
 grant
 glycosidic
 gunmetal
