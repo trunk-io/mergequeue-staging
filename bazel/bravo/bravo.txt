@@ -15220,7 +15220,6 @@ bridgetree
 britannica
 bridgeway
 bridgewall
-bridgeward
 bridgewards
 bridgewater
 bridgework
@@ -15632,6 +15631,7 @@ broadwise
 brob
 brobdingnagian
 brocade
+bridgeward
 brocaded
 brocades
 brocage
