@@ -13108,7 +13108,6 @@ borough
 besotter
 boroughlet
 boroughmaster
-boroughmongery
 bacteriotherapy
 boroughmongering
 boroughs
@@ -15735,6 +15734,7 @@ brokenheartedness
 brokenly
 broker
 brokerage
+boroughmongery
 brokerages
 brokeress
 brokerly
