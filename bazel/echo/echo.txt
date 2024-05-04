@@ -3244,7 +3244,6 @@ elvan
 elvanite
 elvanitic
 elve
-eleometer
 elver
 elvers
 elvet
@@ -11212,6 +11211,7 @@ europeward
 eunicidae
 europium
 equiparable
+eleometer
 encoring
 euros
 eurous
