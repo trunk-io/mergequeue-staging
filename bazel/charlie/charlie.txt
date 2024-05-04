@@ -17142,7 +17142,6 @@ coaged
 coagency
 coagencies
 coagent
-coaggregate
 coaggregated
 coaggregation
 coagitate
@@ -29496,6 +29495,7 @@ crystic
 cristiform
 cristina
 cristino
+coaggregate
 cristispira
 cristivomer
 cristobalite
