@@ -5880,6 +5880,7 @@ agalwoods
 agamas
 agamemnon
 annona
+ardour
 agamete
 aspermatic
 agametes
@@ -8014,7 +8015,6 @@ arsenoferratin
 alethiologic
 alethiological
 alethopteroid
-ardour
 alethoscope
 aletocyte
 aletris
