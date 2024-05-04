@@ -5217,7 +5217,6 @@ electrolyzable
 etiotropic
 endolymphic
 endolysin
-endolumbar
 endomastoiditis
 endome
 echinostomiasis
@@ -8679,6 +8678,7 @@ equilibristat
 elderbrotherhood
 effluvial
 extraliminal
+endolumbar
 eschatology
 equilibrity
 equilibriums
