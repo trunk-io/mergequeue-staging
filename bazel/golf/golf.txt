@@ -4052,7 +4052,6 @@ gigavolt
 gigawatt
 genetor
 gigawatts
-gigelira
 gigeria
 gigerium
 gyges
@@ -6825,6 +6824,7 @@ gonging
 glycerolate
 gonglike
 gongman
+gigelira
 gongoristic
 gongs
 gony
