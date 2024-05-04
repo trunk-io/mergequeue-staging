@@ -2967,7 +2967,6 @@ acromegalia
 acromegalic
 acromegalies
 acromelalgia
-acrometer
 acromia
 acromial
 acromicria
@@ -11326,6 +11325,7 @@ anviltops
 amphistomatic
 amphistome
 amphistomoid
+acrometer
 amphistomous
 amphistomum
 asyllabic
