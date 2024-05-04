@@ -3530,7 +3530,6 @@ emboitement
 emboldener
 equilibrize
 emboldens
-embole
 electrorefine
 embolectomy
 embolectomies
@@ -12381,6 +12380,7 @@ exemplifiers
 exemplifying
 exempted
 egipto
+embole
 exemption
 exemptionist
 euphonical
