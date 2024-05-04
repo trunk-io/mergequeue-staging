@@ -7261,7 +7261,6 @@ enwombed
 enwombs
 enworthed
 enworthy
-enwound
 enwove
 equipotential
 enwrap
@@ -9437,6 +9436,7 @@ equipoises
 eruptively
 eruptiveness
 enterolithiasis
+enwound
 eruptivity
 erupts
 erupturient
