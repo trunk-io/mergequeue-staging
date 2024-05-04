@@ -245,7 +245,6 @@ fade
 fadeaways
 funest
 fadednyess
-fadeout
 fader
 faders
 fellowless
@@ -6028,6 +6027,7 @@ florivorous
 florizine
 floroon
 floroscope
+fadeout
 fertilisability
 floroun
 floruit
