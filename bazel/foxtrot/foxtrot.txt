@@ -6964,6 +6964,7 @@ follis
 followed
 follower
 followers
+friezer
 followeth
 followings
 filmiform
@@ -8472,7 +8473,6 @@ formism
 formity
 formless
 formlessness
-friezer
 flutework
 formnail
 forelimb
