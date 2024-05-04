@@ -469,6 +469,7 @@ boskets
 backrush
 backs
 backsaw
+beltman
 bristly
 byblis
 backsaws
@@ -5945,7 +5946,6 @@ biparous
 beltlines
 beltmaker
 beltmaking
-beltman
 binervate
 beltway
 beltways
