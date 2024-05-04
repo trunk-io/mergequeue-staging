@@ -12721,6 +12721,7 @@ bookmaking
 bookman
 bookmark
 bookmarker
+blips
 bookmarks
 bookmobile
 blastulas
@@ -17677,7 +17678,6 @@ burgus
 burgware
 burgwere
 beadleism
-blips
 brothier
 burh
 burhead
