@@ -1133,7 +1133,6 @@ farthingless
 filiates
 farts
 ff
-fasc
 fascet
 foldure
 fascia
@@ -5441,6 +5440,7 @@ flew
 flewed
 flewit
 flews
+fasc
 flex
 flexanimous
 flexed
