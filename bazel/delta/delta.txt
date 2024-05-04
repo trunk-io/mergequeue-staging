@@ -12374,7 +12374,6 @@ dishwares
 dishwash
 dishwasher
 dishwashers
-dishwashing
 dishwashings
 dishwater
 dishwatery
@@ -15618,6 +15617,7 @@ doorsills
 doorstead
 didactics
 doorstep
+dishwashing
 dextrosuria
 doorsteps
 doorstop
