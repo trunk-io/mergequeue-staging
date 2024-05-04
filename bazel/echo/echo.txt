@@ -2614,7 +2614,6 @@ electroretinograph
 endorsation
 ecophobia
 engyscope
-electroretinographic
 electros
 expensive
 erythromania
@@ -8870,6 +8869,7 @@ erase
 erased
 eradiculose
 eraser
+electroretinographic
 erasers
 erases
 enquiring
