@@ -6086,6 +6086,7 @@ agglomerate
 agglomerated
 agglomerates
 agglomeratic
+armada
 agglomerating
 agglomeration
 agglomerator
@@ -17592,7 +17593,6 @@ assigneeship
 appallingness
 appallment
 appalls
-armada
 appaloosa
 appals
 appanage
