@@ -7834,6 +7834,7 @@ extrications
 epigastriocele
 epigastrium
 epigastrocele
+encastage
 epigeal
 evidence
 euectic
@@ -8000,7 +8001,6 @@ epimerised
 endoneurial
 epimerite
 evangelion
-encastage
 epimeritic
 evidenced
 eigenvector
