@@ -3336,7 +3336,6 @@ foreprepare
 fiendishly
 fiendishness
 fiendism
-fiendlier
 fiendliest
 fiendlike
 firebolt
@@ -10129,6 +10128,7 @@ frisca
 friscal
 fife
 frisch
+fiendlier
 furbish
 frisco
 ferrous
