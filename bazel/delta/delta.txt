@@ -7201,7 +7201,6 @@ detects
 detenant
 detenebrate
 detent
-detente
 detentes
 detention
 detentive
@@ -11751,6 +11750,7 @@ discrete
 discretely
 discreteness
 disharmonizing
+detente
 discretion
 discretional
 discretionally
