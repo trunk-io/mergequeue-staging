@@ -5126,7 +5126,6 @@ geochemistry
 geminiform
 glam
 glamberry
-glamorization
 glamorized
 glamorizer
 glamorizes
@@ -10665,6 +10664,7 @@ gushiness
 gushing
 geomorphologically
 guslee
+glamorization
 gingersnap
 guss
 galleon
