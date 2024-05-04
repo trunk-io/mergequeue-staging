@@ -1223,6 +1223,7 @@ equiperiodic
 educible
 educive
 educt
+elytrostenosis
 eductions
 eductor
 eductors
@@ -3007,7 +3008,6 @@ elytroposis
 elytrorhagia
 elytrorrhagia
 elytrorrhaphy
-elytrostenosis
 elytrotomy
 elytrtra
 elix
