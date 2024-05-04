@@ -1227,6 +1227,7 @@ fashioners
 fashioning
 flywort
 fashionize
+footlockers
 furiousity
 footmanry
 fashionless
@@ -7171,7 +7172,6 @@ fireable
 fills
 fisheyes
 fenestra
-footlockers
 flodge
 footlog
 footloose
