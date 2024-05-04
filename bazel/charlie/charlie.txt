@@ -15494,7 +15494,6 @@ clapwort
 claque
 claquer
 concinnating
-claquers
 claques
 claqueurs
 clara
@@ -27540,6 +27539,7 @@ coverup
 cadency
 cephalopodan
 coves
+claquers
 covet
 covetable
 coveted
