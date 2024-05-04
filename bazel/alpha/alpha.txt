@@ -3544,7 +3544,6 @@ adderspit
 adderwort
 addibility
 addible
-addice
 addicent
 addict
 addicting
@@ -4227,6 +4226,7 @@ admittance
 admittances
 admittatur
 admitted
+addice
 admittedly
 admitter
 admitters

@@ -2404,7 +2404,6 @@ convertable
 candlestick
 candlesticked
 candlesticks
-candlestickward
 candlewaster
 candlewasting
 candlewick
@@ -10867,6 +10866,7 @@ chiogenes
 chyometer
 chionablepsia
 chionididae
+candlestickward
 chionis
 chionodoxa
 chionophobia
