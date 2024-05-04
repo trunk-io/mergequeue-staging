@@ -5408,7 +5408,6 @@ affinely
 affines
 affinitative
 affinitatively
-affinite
 aggerate
 affinity
 affinities
@@ -21761,6 +21760,7 @@ axonemes
 assi
 assibilate
 adoniram
+affinite
 assibilated
 assibilating
 aulder
