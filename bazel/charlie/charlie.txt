@@ -6647,7 +6647,6 @@ celebrations
 celebrative
 celebrator
 celebrators
-celebre
 celebres
 celebret
 celebrious
@@ -20698,6 +20697,7 @@ complementalness
 complementary
 complementaries
 complementariness
+celebre
 complementarism
 complementarity
 complementation
