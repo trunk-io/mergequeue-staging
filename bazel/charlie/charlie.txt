@@ -535,6 +535,7 @@ caducean
 caducei
 chloroprene
 caduceus
+catenated
 caduciary
 caduciaries
 caducibranch
@@ -3080,7 +3081,6 @@ characterizing
 capistrate
 capita
 curvilinearity
-catenated
 capital
 capitaldom
 capitaled
