@@ -6014,7 +6014,6 @@ grain
 glovemaker
 glovemaking
 gloveman
-gutlessness
 glovers
 groundlessness
 gammoner
@@ -10033,6 +10032,7 @@ guerdonless
 glick
 guereba
 guidecraft
+gutlessness
 glitters
 graniteware
 guerickian
