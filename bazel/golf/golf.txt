@@ -3106,6 +3106,7 @@ geoidal
 grammontine
 geoids
 gadoid
+glauberite
 geolatry
 galvayne
 geolinguistics
@@ -10609,7 +10610,6 @@ garganey
 gurian
 guric
 gurjan
-glauberite
 gurjun
 geometrician
 gyroceracone
