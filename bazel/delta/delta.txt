@@ -6993,6 +6993,7 @@ dessert
 desserts
 dykage
 dessertspoon
+dressings
 dessertspoonful
 dessertspoonfuls
 dessiatine
@@ -17020,7 +17021,6 @@ dressiest
 decil
 dressing
 dinitrocellulose
-dressings
 disgarland
 dressline
 dynametrical
