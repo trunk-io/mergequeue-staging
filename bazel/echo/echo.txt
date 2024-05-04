@@ -1185,7 +1185,6 @@ edomitish
 edoni
 edp
 enterocholecystostomy
-edplot
 edrioasteroid
 ecchymose
 edrioasteroidea
@@ -4298,6 +4297,7 @@ emulable
 emulates
 emulation
 etymological
+edplot
 emulative
 emulatively
 enthronements
