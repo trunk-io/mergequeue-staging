@@ -243,6 +243,7 @@ geniculum
 gain
 gainable
 geothermal
+greeniest
 gainbirth
 gaincall
 gaincome
@@ -8686,7 +8687,6 @@ greenhouse
 greenhouses
 greeny
 greenyard
-greeniest
 greenings
 greenish
 gladeye
