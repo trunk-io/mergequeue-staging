@@ -11920,7 +11920,6 @@ analogism
 analogized
 analogizing
 analogon
-analogous
 analogously
 analogousness
 analogs
@@ -12949,6 +12948,7 @@ angiopathy
 aquamanale
 angiophorous
 angioplany
+analogous
 angioplasty
 angioplerosis
 angiopoietic
