@@ -12148,7 +12148,6 @@ disfoliaged
 disforest
 disforestation
 disformity
-disframe
 disfranchised
 disfranchisement
 disfranchisements
@@ -17072,6 +17071,7 @@ dried
 dusserah
 drier
 dryer
+disframe
 dryerman
 driers
 defeated
