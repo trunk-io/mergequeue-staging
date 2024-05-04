@@ -1585,6 +1585,7 @@ grasses
 gashes
 gashy
 gashing
+grievants
 gashly
 gashouse
 gashouses
@@ -8919,7 +8920,6 @@ grievable
 grievance
 grievances
 grievant
-grievants
 grieved
 grievedly
 griever
