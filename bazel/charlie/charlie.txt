@@ -6531,7 +6531,6 @@ cecitis
 cecograph
 cecomorphae
 cecomorphic
-cecopexy
 cecostomy
 cecotomy
 cecropia
@@ -24520,6 +24519,7 @@ copenetrate
 copenhagen
 copens
 copeognatha
+cecopexy
 copepod
 copepoda
 copepodan
