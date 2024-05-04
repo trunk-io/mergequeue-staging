@@ -11563,7 +11563,6 @@ ana
 anabaenas
 anabantidae
 anabaptism
-austenitic
 anabaptist
 anabaptistic
 anabaptistical
@@ -25176,6 +25175,7 @@ axopetal
 axoplasmic
 axoplasms
 axopodia
+austenitic
 axopodium
 arthrotropic
 axospermous
