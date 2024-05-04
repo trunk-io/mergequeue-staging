@@ -8219,7 +8219,6 @@ episiotomy
 ethnomusicology
 episiotomies
 episkeletal
-episode
 episodes
 episodial
 episodic
@@ -8764,6 +8763,7 @@ equiradical
 equiseta
 encharm
 equisetaceae
+episode
 equisetaceous
 equisetales
 equisetic
