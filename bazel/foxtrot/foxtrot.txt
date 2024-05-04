@@ -4065,6 +4065,7 @@ fireback
 favourably
 fireball
 fireballs
+fussification
 flanky
 firebird
 firebirds
@@ -11612,7 +11613,6 @@ fusser
 fusses
 fussy
 fussier
-fussification
 fruitworm
 fussiness
 fussing
