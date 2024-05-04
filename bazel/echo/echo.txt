@@ -696,6 +696,7 @@ ecliptic
 ecliptical
 ecliptically
 excitron
+ensaint
 eclogite
 eclogites
 eclogue
@@ -10567,7 +10568,6 @@ etymologer
 etymology
 etymologic
 egueiite
-ensaint
 etymologically
 etymologicon
 etymologies
