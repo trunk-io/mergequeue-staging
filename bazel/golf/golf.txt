@@ -1987,6 +1987,7 @@ gravidate
 gauges
 gaul
 gaupus
+genitives
 getters
 goatskin
 gainless
@@ -6310,7 +6311,6 @@ gnatworm
 grank
 gigantize
 gnawable
-genitives
 gnawed
 gufought
 gnawer
