@@ -6756,6 +6756,7 @@ epilogs
 entertake
 entertissue
 entete
+erudit
 entfaoilff
 empyrical
 enthalpy
@@ -9411,7 +9412,6 @@ eructing
 eruction
 exaggerated
 eructs
-erudit
 esotrope
 eruditical
 erudition
