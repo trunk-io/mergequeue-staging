@@ -9414,6 +9414,7 @@ enalyron
 eructing
 eruction
 exaggerated
+extensibility
 eructs
 erudit
 esotrope
@@ -13556,7 +13557,6 @@ extenders
 extending
 extends
 extense
-extensibility
 extensible
 extensibleness
 extensile
