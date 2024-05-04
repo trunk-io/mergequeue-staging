@@ -3106,7 +3106,6 @@ elocute
 elocutionist
 elod
 elodea
-elodeas
 elodes
 elogy
 elogium
@@ -6342,6 +6341,7 @@ eucritic
 enround
 enruin
 ens
+elodeas
 ensafe
 ensalada
 ensample
