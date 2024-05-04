@@ -2652,6 +2652,7 @@ electrotelegraphic
 epigraphical
 electrotelethermometer
 epiblasts
+encumbers
 endplay
 electrotellurograph
 electrotest
@@ -4921,7 +4922,6 @@ encumbered
 encumberer
 encumberingly
 encumberment
-encumbers
 encumbrance
 electrometeor
 encumbrancer
