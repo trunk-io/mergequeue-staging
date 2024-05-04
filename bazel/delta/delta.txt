@@ -2416,6 +2416,7 @@ drawers
 dacryosyrinx
 decipherable
 duo
+dipus
 decipherably
 deciphered
 decipherer
@@ -8195,7 +8196,6 @@ diaglyphic
 diaglyptic
 dodonaean
 diagnose
-dipus
 diagnoseable
 diagnosed
 diagnosis
