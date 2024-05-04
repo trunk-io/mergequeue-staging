@@ -1160,6 +1160,7 @@ fascili
 fissipalmate
 footbridge
 frithwork
+fluegelhorn
 figeaters
 fascinated
 fascinates
@@ -6202,7 +6203,6 @@ footroom
 floatplane
 fluctuous
 flued
-fluegelhorn
 fulica
 fluey
 felicitate

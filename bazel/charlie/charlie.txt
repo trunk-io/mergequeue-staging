@@ -2758,6 +2758,7 @@ cantar
 cantara
 cantare
 cantaro
+chunks
 cantata
 cantatas
 cantate
@@ -12845,7 +12846,6 @@ chunkiest
 chunkily
 chunkiness
 chunking
-chunks
 chunner
 chunnia
 chuntered
