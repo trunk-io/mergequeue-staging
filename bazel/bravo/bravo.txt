@@ -13797,7 +13797,6 @@ bowings
 bowk
 bedcap
 bowker
-bowknot
 bowknots
 blinking
 bowla
@@ -16697,6 +16696,7 @@ boxlike
 begladded
 budgeted
 budgeteer
+bowknot
 budgeter
 batiked
 byliner
