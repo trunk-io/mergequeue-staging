@@ -14763,7 +14763,6 @@ cystoschisis
 cystoscope
 cystoscopy
 cystoscopic
-celiorrhaphy
 cystoscopies
 cystose
 cystospasm
@@ -27022,6 +27021,7 @@ counterpole
 counterpoles
 counterponderate
 catecheses
+celiorrhaphy
 counterpose
 counterposition
 counterposting
