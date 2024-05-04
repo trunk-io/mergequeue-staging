@@ -5586,7 +5586,6 @@ flinchingly
 flinders
 flindersia
 flindosa
-flyness
 flinger
 flingers
 featherworker
@@ -11448,6 +11447,7 @@ furniture
 fosse
 furodiazole
 furoic
+flyness
 foraminated
 furoid
 factorability
