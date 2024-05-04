@@ -1690,6 +1690,7 @@ deathbed
 deathbeds
 deathblows
 deathcup
+doublethink
 deathcups
 deathday
 deathful
@@ -16013,7 +16014,6 @@ doublespeak
 doublet
 doubleted
 detestable
-doublethink
 doublethinking
 doublethought
 doubleton
