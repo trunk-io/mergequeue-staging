@@ -14991,7 +14991,6 @@ cytophagy
 cytophagic
 cytophagous
 cytopharynges
-cytopharynx
 cytopharynxes
 cytophil
 cytophilic
@@ -19559,6 +19558,7 @@ colporteurs
 covido
 colposcope
 colposcopy
+cytopharynx
 colpostat
 covisit
 colpotomy
