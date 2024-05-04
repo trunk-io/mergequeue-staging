@@ -4082,7 +4082,6 @@ delicts
 dialectically
 delictum
 discouraging
-desertedness
 delictus
 dharnas
 delieret
@@ -5695,6 +5694,7 @@ dorsiduct
 deploying
 drizzles
 deployment
+desertedness
 deployments
 deploitation
 deplorabilia
