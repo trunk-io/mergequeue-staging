@@ -3433,7 +3433,6 @@ capuli
 capulin
 caput
 catenoid
-caputium
 caque
 caquet
 caqueterie
@@ -24677,6 +24676,7 @@ copperware
 copperworks
 coppet
 coppy
+caputium
 coppiced
 caryatic
 coppices
