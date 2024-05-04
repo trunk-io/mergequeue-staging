@@ -5785,6 +5785,7 @@ deports
 deporture
 dornick
 deposable
+divulsive
 deposal
 deposals
 detachments
@@ -14498,7 +14499,6 @@ divulse
 doctordom
 divulsed
 divulsing
-divulsive
 divulsor
 divus
 divvers
