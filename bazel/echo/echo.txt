@@ -7095,6 +7095,7 @@ entresse
 endocardial
 entry
 endoscopist
+encallow
 entria
 entries
 entrike
@@ -13684,7 +13685,6 @@ extine
 extinguised
 endured
 ententophil
-encallow
 extinguish
 extinguishant
 enseraph
