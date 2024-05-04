@@ -238,6 +238,7 @@ grabbings
 gaylies
 griefless
 gayment
+geniculum
 gain
 gainable
 geothermal
@@ -4831,7 +4832,6 @@ gyropilot
 gyroplane
 gastropneumatic
 gazers
-geniculum
 giros
 gyros
 gyroscope
