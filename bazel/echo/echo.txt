@@ -4630,6 +4630,7 @@ extortions
 enchanted
 enchanter
 enchantery
+excavationist
 enchanters
 epineuria
 ejacula
@@ -11926,7 +11927,6 @@ excavating
 etonian
 excavation
 excavational
-excavationist
 excavations
 excavator
 excavatorial
