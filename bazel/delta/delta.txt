@@ -1990,6 +1990,7 @@ decay
 decayable
 decayed
 decayedness
+duodecimfid
 decayers
 diarial
 decaying
@@ -18273,7 +18274,6 @@ disinclinations
 duodecimality
 desertress
 duodecimally
-duodecimfid
 duodecimo
 duodecimos
 duodecuple
