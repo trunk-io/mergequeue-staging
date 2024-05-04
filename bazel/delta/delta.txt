@@ -1228,7 +1228,6 @@ dodecaphonism
 datcha
 datchas
 dateable
-dateableness
 datebook
 datedly
 datedness
@@ -10441,6 +10440,7 @@ diphenoxylate
 diphycercal
 diphycercy
 diphyesis
+dateableness
 diphygenic
 diphyletic
 diphylla
