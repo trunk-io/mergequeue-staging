@@ -91,7 +91,6 @@ disassociable
 dizygotic
 dacryops
 dacryostenosis
-dacryuria
 dacron
 dactyl
 diviners
@@ -8403,6 +8402,7 @@ diametric
 diametrical
 diamicton
 diamide
+dacryuria
 diamides
 diamido
 diamidogen
