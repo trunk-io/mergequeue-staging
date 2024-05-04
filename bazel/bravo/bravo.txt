@@ -4018,6 +4018,7 @@ beaconing
 beaconwise
 blasphemers
 beadeye
+biospheres
 beader
 beadflush
 batik
@@ -9187,7 +9188,6 @@ biosociological
 biosome
 biospeleology
 biosphere
-biospheres
 biostatic
 biostatical
 biostatistics
