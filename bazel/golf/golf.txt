@@ -743,7 +743,6 @@ gallweed
 greasehorn
 guerdon
 goniatite
-gallwort
 galoch
 galoots
 griller
@@ -7485,6 +7484,7 @@ goutweed
 gluconeogenesis
 griffs
 goutwort
+gallwort
 gouvernante
 giddea
 gouvernantes
