@@ -2042,7 +2042,6 @@ decancellate
 decancellated
 decancellating
 decancellation
-decandently
 decandria
 decandrous
 decane
@@ -7715,6 +7714,7 @@ devocate
 devocation
 dynast
 devoice
+decandently
 devoiced
 devoices
 disentangles
