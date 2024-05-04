@@ -2802,7 +2802,6 @@ cantharidian
 cantharidin
 cantharidize
 cypseloid
-cantharidized
 cantharidizing
 cantharis
 candlefish
@@ -3853,6 +3852,7 @@ coalizer
 carcerate
 carcerated
 carcerating
+cantharidized
 carceration
 costothoracic
 carcerist
