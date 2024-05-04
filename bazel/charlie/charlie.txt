@@ -4256,6 +4256,7 @@ coccidia
 curialistic
 carillon
 carilloneur
+cholecystolithotripsy
 carnaged
 carillonned
 crackerjack
@@ -11574,7 +11575,6 @@ cholecystography
 cholecystojejunostomy
 cholecystokinin
 cholecystolithiasis
-cholecystolithotripsy
 cholecystonephrostomy
 cholecystopexy
 cholecystorrhaphy
