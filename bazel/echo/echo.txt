@@ -3390,6 +3390,7 @@ embarred
 embarrel
 embarricado
 embarring
+endospore
 embars
 embase
 embassador
@@ -5347,7 +5348,6 @@ endosomes
 endosperm
 endospermic
 endospermous
-endospore
 enslave
 entozoa
 encrypt

@@ -1328,7 +1328,6 @@ calinago
 clochards
 calinda
 calindas
-caline
 calinut
 caliological
 caliologist
@@ -4721,6 +4720,7 @@ carryable
 carriage
 carriageful
 carriageless
+caline
 carriages
 carriagesmith
 carriageway
