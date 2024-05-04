@@ -2469,7 +2469,6 @@ butylic
 bevomited
 barbituism
 barbiturate
-barbituric
 barbiturism
 barble
 barblet
@@ -8624,6 +8623,7 @@ billers
 beast
 billet
 billete
+barbituric
 brakemen
 billeted
 bovicide
