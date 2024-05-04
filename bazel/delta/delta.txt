@@ -5152,7 +5152,6 @@ denitrator
 denitrify
 denitrificator
 denitrified
-denitrifier
 denitrifying
 denitrize
 dipperful
@@ -15113,6 +15112,7 @@ doleance
 doled
 dolefish
 dolefuller
+denitrifier
 dolefully
 dolefulness
 dolefuls
