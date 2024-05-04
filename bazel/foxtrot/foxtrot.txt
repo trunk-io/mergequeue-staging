@@ -8100,7 +8100,6 @@ fretless
 fissurella
 foretold
 ferling
-flinches
 foretop
 foretopman
 foretopmast
@@ -10163,6 +10162,7 @@ friskingly
 frisks
 frigorimeter
 frislet
+flinches
 frisolee
 filleter
 friss
