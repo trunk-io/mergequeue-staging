@@ -6616,7 +6616,6 @@ goldarns
 goldbeater
 goldbeating
 goldbird
-goldbricker
 goldbrickers
 goldbricks
 gastropodous
@@ -7154,6 +7153,7 @@ gorbellies
 gorbet
 gorbit
 gorble
+goldbricker
 gorblimey
 gorblimy
 gorblin
