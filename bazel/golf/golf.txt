@@ -2150,7 +2150,6 @@ gazebos
 gazed
 gazee
 gazeful
-gazel
 gazeless
 gazella
 gazellelike
@@ -2732,6 +2731,7 @@ genethliacon
 genethliacs
 genethlialogy
 genethlialogic
+gazel
 genethlialogical
 genethliatic
 genethlic
