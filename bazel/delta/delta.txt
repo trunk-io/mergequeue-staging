@@ -2669,7 +2669,6 @@ dodecadrachm
 decompoundly
 decompress
 decompresses
-decompressing
 decompression
 decompressions
 decompressive
@@ -14057,6 +14056,7 @@ disulfuret
 disulfuric
 disulphate
 disulphid
+decompressing
 disulphide
 disulphone
 disulphoxid
