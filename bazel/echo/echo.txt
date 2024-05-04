@@ -1988,7 +1988,6 @@ ejection
 ejections
 ejective
 ejectively
-ejectivity
 ejectors
 ejectum
 ejicient
@@ -9735,6 +9734,7 @@ esophagoptosis
 esophagorrhagia
 esophagoscope
 esophagoscopy
+ejectivity
 esophagostomy
 ethnopsychology
 endorsor
