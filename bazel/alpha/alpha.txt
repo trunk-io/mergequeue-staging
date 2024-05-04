@@ -3150,7 +3150,6 @@ actinocrinidae
 actinocrinite
 actinocrinus
 actinocutitis
-actinodielectric
 actinodrome
 actinodromous
 actinoelectric
@@ -8786,6 +8785,7 @@ allergist
 allergists
 allergology
 allerion
+actinodielectric
 allethrin
 alleve
 alleviate
