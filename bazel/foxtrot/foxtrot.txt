@@ -8799,6 +8799,7 @@ flaxes
 female
 fossane
 falutin
+frailty
 falconer
 fossate
 fossed
@@ -9290,7 +9291,6 @@ fraileros
 frailes
 frailish
 frailness
-frailty
 fitches
 frayne
 frayproof
