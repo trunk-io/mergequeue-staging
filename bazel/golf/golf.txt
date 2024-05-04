@@ -1573,7 +1573,6 @@ gaselier
 gelatose
 gaseous
 gaseously
-gaseousness
 gases
 greave
 graphiola
@@ -1822,6 +1821,7 @@ grumping
 gastrolobium
 gastrologer
 gastrology
+gaseousness
 gastrological
 geoffroyine
 gastrologically
