@@ -2377,7 +2377,6 @@ electrodepositable
 electrodeposition
 electrodepositor
 electrodes
-electrodesiccate
 electrodesiccation
 ettling
 electrodiagnosis
@@ -6075,6 +6074,7 @@ enliven
 enlivened
 enlivener
 entrept
+electrodesiccate
 enlivening
 enliveningly
 embelia
