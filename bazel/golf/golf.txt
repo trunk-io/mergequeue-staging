@@ -1583,7 +1583,6 @@ giraffe
 gypsyweed
 grasses
 gashes
-gashy
 gashing
 grievants
 gashly
@@ -7105,6 +7104,7 @@ gitana
 goosefoots
 goosegirl
 goosegog
+gashy
 galvanometers
 goosegrass
 gooseherd
