@@ -15213,7 +15213,6 @@ cladistic
 cladocarpous
 cladocera
 cladoceran
-cladocerous
 cladode
 cladodium
 cladodont
@@ -26117,6 +26116,7 @@ cosmonaut
 cosmonautic
 cosmonautical
 cosmonautically
+cladocerous
 caubeen
 cosmonautics
 cosmonauts
