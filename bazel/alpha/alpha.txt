@@ -9571,7 +9571,6 @@ alternatingly
 alternation
 afterend
 alternationist
-alternative
 alternatively
 alternativeness
 alternatives
@@ -23545,6 +23544,7 @@ auric
 aurichalcite
 aurichalcum
 aurichloride
+alternative
 aurichlorohydric
 auricyanhydric
 auricyanic
