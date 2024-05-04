@@ -2100,7 +2100,6 @@ felloe
 felloes
 fitout
 fellowcraft
-fellowheirship
 fellowing
 fusc
 fluoranthene
@@ -3419,6 +3418,7 @@ finial
 fravashi
 figo
 figpecker
+fellowheirship
 figs
 felspathose
 frangi
