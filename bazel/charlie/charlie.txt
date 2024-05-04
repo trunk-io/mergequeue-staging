@@ -9055,6 +9055,7 @@ charitably
 charitative
 charites
 charity
+credenciveness
 charities
 charityless
 charivan
@@ -28505,7 +28506,6 @@ credal
 creddock
 credences
 credencive
-credenciveness
 credenda
 credendum
 credens
