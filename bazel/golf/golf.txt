@@ -2322,7 +2322,6 @@ gimleting
 geisa
 geisenheimer
 geyser
-geyseric
 gedunk
 genomes
 guatemalans
@@ -3360,6 +3359,7 @@ gerent
 gerenuks
 gyral
 gerfalcon
+geyseric
 gerful
 gerhardtite
 gery
