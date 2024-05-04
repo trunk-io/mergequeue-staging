@@ -6280,6 +6280,7 @@ benomyls
 benorth
 benote
 bens
+bureaucrat
 bensail
 bensall
 bensel
@@ -17558,7 +17559,6 @@ bureaucracy
 bureaucracies
 buckwheater
 bivalents
-bureaucrat
 bureaucratically
 bureaucratist
 bureaucratize
