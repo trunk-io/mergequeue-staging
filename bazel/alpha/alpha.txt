@@ -254,7 +254,6 @@ ablet
 abdication
 abdications
 abdicative
-abdicator
 abdiel
 actinocrinid
 abditive
@@ -10673,6 +10672,7 @@ abnormities
 amyls
 amylum
 amylums
+abdicator
 amyluria
 amimia
 amimide
