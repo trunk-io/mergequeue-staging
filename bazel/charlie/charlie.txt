@@ -15667,7 +15667,6 @@ clastic
 circumferent
 clasts
 clat
-chromate
 clatch
 clathraceae
 clathraceous
@@ -25414,6 +25413,7 @@ cornrows
 corns
 cornsack
 cornstalk
+chromate
 cornstalks
 carida
 cornstarch
