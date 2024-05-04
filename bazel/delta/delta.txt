@@ -5583,6 +5583,7 @@ dependence
 duckeries
 dependency
 dependencies
+dosimeters
 dependently
 dependents
 depender
@@ -15871,7 +15872,6 @@ destitute
 dosers
 demiman
 dosimeter
-dosimeters
 dosimetric
 dosimetrician
 dosimetries
