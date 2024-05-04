@@ -5743,6 +5743,7 @@ depolymerization
 depolymerize
 depolymerized
 depolymerizing
+distributive
 depolish
 depiction
 dragomanate
@@ -6185,7 +6186,6 @@ dermatagra
 dermatalgia
 demifusion
 dermatatrophia
-distributive
 darii
 dermatauxe
 dermathemia

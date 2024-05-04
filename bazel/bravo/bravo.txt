@@ -1331,7 +1331,6 @@ balanophorin
 brairding
 balanoposthitis
 balanops
-balanopsidaceae
 balanopsidales
 balant
 balante
@@ -14681,6 +14680,7 @@ bravuras
 bravure
 brawer
 brawl
+balanopsidaceae
 brawler
 beveller
 biomicroscopies
