@@ -6879,7 +6879,6 @@ extramusical
 entodermal
 entodermic
 entoderms
-entogenous
 enstyle
 entoglossal
 epithelilia
@@ -12070,6 +12069,7 @@ etabelli
 excited
 excitedly
 excitedness
+entogenous
 exciter
 exciters
 exciting
