@@ -2838,6 +2838,7 @@ barognosis
 barographic
 barographs
 baroko
+bicoloured
 barolo
 barology
 barolong
@@ -8081,7 +8082,6 @@ bicolor
 bicolorous
 bicolors
 bicolour
-bicoloured
 bicolourous
 bicolours
 bicompact
