@@ -7740,7 +7740,6 @@ epideictical
 epideistic
 entomological
 epidemy
-epidemial
 epidemical
 epidemically
 epidemicalness
@@ -10243,6 +10242,7 @@ ethanim
 ethanoyl
 ethanol
 ethanolamine
+epidemial
 enriches
 ethanolysis
 ethchlorvynol
