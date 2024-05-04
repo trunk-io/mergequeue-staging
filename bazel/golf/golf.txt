@@ -488,7 +488,6 @@ galyac
 galyacs
 galyaks
 grotesquerie
-galianes
 galibi
 galician
 galictis
@@ -10444,6 +10443,7 @@ glossy
 gunating
 gunation
 gunbarrel
+galianes
 gunboats
 guncotton
 gunda
