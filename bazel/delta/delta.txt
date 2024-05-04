@@ -2555,6 +2555,7 @@ decoctum
 disincarnation
 decodable
 decode
+deprecable
 decoder
 decoders
 decodes
@@ -5838,7 +5839,6 @@ depraves
 depraving
 depravingly
 depravities
-deprecable
 deprecated
 demythologise
 deprecates
