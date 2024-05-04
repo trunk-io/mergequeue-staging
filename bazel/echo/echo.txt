@@ -2097,6 +2097,7 @@ elaphomyces
 elaphomycetaceae
 elaphrium
 elaphure
+encrinoidea
 elaphurine
 elaphurus
 employing
@@ -4886,7 +4887,6 @@ encrinitic
 encrinitical
 encrinoid
 embarment
-encrinoidea
 encrypted
 encrypting
 encryption
