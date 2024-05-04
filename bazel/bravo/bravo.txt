@@ -4969,6 +4969,7 @@ beeflower
 bristle
 beefs
 beefsteak
+briarroot
 beefsteaks
 beefwood
 beefwoods
@@ -15090,7 +15091,6 @@ briared
 briareus
 berengarianism
 briary
-briarroot
 briars
 briarwood
 bribable

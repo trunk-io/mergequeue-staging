@@ -3603,7 +3603,6 @@ caravels
 caraway
 caraways
 carbachol
-carbacidometer
 carbamate
 conferted
 carbamic
@@ -4044,6 +4043,7 @@ cardioneurosis
 cardionosus
 cardiopath
 chionanthus
+carbacidometer
 cardiopericarditis
 cardiophobe
 cardiophrenia
