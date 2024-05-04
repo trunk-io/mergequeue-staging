@@ -2945,7 +2945,6 @@ fianchetti
 freudianism
 fianchetto
 fiancing
-filigraned
 fiant
 fiants
 fiar
@@ -7614,6 +7613,7 @@ finlet
 fraischeur
 fgn
 fretter
+filigraned
 foredooms
 foredune
 forefaces
