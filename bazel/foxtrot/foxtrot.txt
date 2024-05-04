@@ -921,7 +921,6 @@ farand
 farandman
 farandmen
 farandola
-farandole
 foresay
 farandoles
 faraon
@@ -6723,6 +6722,7 @@ fogged
 fogger
 fruited
 foggy
+farandole
 fibrine
 foggier
 flitters
