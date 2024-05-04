@@ -2785,7 +2785,6 @@ decreet
 decreing
 dunkled
 decremental
-decrementing
 decrements
 decremeter
 decrepit
@@ -3943,6 +3942,7 @@ dispiteous
 delamination
 delapse
 delapsion
+decrementing
 delassation
 delassement
 dakotan
