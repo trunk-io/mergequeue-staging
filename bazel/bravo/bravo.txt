@@ -5770,7 +5770,6 @@ buckjump
 bellbinder
 bachelorlike
 bellbird
-bellbirds
 bellboy
 blissom
 backwoodsman
@@ -15936,6 +15935,7 @@ bronchoplegia
 bronchopneumonic
 bronchopulmonary
 bronchorrhagia
+bellbirds
 bronchorrhaphy
 bronchorrhea
 bronchos
