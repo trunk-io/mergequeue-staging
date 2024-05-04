@@ -3251,7 +3251,6 @@ basibranchial
 basibranchiate
 basic
 browner
-basically
 basicerite
 biotrons
 basichromatic
@@ -10575,6 +10574,7 @@ blazon
 blazoned
 blazoner
 blazoning
+basically
 blazonment
 blazonry
 blazonries
