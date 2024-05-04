@@ -2477,7 +2477,6 @@ ferociousness
 ferocity
 ferocities
 ferox
-ferr
 ferrara
 flockier
 ferrarese
@@ -7283,6 +7282,7 @@ foppish
 fops
 fopship
 for
+ferr
 flypast
 fora
 forage
