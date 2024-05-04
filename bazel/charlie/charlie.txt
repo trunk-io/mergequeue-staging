@@ -21023,7 +21023,6 @@ comptrol
 chaptalize
 comptroller
 comptrollers
-compulsative
 compulsatively
 compulsatory
 caner
@@ -26013,6 +26012,7 @@ coshers
 coshes
 coshing
 cosy
+compulsative
 cosie
 cosier
 cosies
