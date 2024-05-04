@@ -3830,7 +3830,6 @@ deindividualization
 deindividualize
 deindividuate
 dicarboxylate
-deindustrialize
 deink
 deino
 deinocephalia
@@ -17177,6 +17176,7 @@ dripple
 dripproof
 drips
 dripstick
+deindustrialize
 dorosoma
 dripstone
 dript
