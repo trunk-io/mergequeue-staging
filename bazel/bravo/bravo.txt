@@ -2929,6 +2929,7 @@ barpost
 bossdoms
 barquantine
 barque
+bogberry
 blin
 barques
 barquest
@@ -11871,7 +11872,6 @@ bogard
 bogart
 bogbeans
 bostonians
-bogberry
 bogberries
 bogey
 bogeyed
