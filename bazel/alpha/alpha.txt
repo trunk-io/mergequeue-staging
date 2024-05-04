@@ -10545,6 +10545,7 @@ abusing
 amidohexose
 amidoketone
 amidol
+aslant
 amidols
 amidomyelin
 amidon
@@ -21346,7 +21347,6 @@ asklent
 askoi
 askos
 aslake
-aslant
 aslantwise
 aslaver
 asleep
