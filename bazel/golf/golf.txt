@@ -173,7 +173,6 @@ gaff
 golkakra
 gaffe
 golfer
-gaffer
 gaffers
 gaffes
 gaffing
@@ -1682,6 +1681,7 @@ gasterosteiform
 grubstaked
 gasterosteoid
 gasterotheca
+gaffer
 gasterothecal
 gasterotrichan
 gastful
