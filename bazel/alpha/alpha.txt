@@ -2352,7 +2352,6 @@ achorion
 achras
 achroacyte
 achroanthes
-achrodextrin
 assertible
 achrodextrinase
 achroglobin
@@ -9496,6 +9495,7 @@ alsine
 alsmekill
 also
 alsoon
+achrodextrin
 alsophila
 alstonia
 alstonine
