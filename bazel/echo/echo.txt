@@ -3841,7 +3841,6 @@ emergence
 emergencies
 emergent
 enteral
-emergently
 emergers
 emerges
 empiricists
@@ -5146,6 +5145,7 @@ endocranial
 expiscated
 endocranium
 endocrin
+emergently
 equilibrations
 ember
 endocrinal
