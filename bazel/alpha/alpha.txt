@@ -11170,7 +11170,6 @@ amphiboliferous
 amphiboline
 amphibolite
 amphibolitic
-amphibology
 angiograph
 amphibologically
 amphibologies
@@ -19828,6 +19827,7 @@ abide
 aristolochiaceae
 aristolochiales
 aristolochine
+amphibology
 aristology
 aristological
 aristomonarchy
