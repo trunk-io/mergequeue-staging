@@ -6030,6 +6030,7 @@ agenda
 agendaless
 agendum
 agendums
+appealable
 agene
 agenes
 ageneses
@@ -6079,7 +6080,6 @@ ageustia
 aggadic
 aggelation
 aggenerate
-appealable
 agger
 aggeration
 aggerose
