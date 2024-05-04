@@ -7415,7 +7415,6 @@ betise
 betises
 betitle
 betocsin
-betoya
 betoyan
 betoil
 betoken
@@ -17419,6 +17418,7 @@ blackouts
 bunkerman
 bromlite
 blessing
+betoya
 bunkermen
 bunkhouse
 bunkie
