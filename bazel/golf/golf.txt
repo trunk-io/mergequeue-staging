@@ -3997,7 +3997,6 @@ guglet
 giftbook
 gifted
 giftedly
-giftedness
 germanic
 gifting
 giftless
@@ -8331,6 +8330,7 @@ glassworkers
 gummites
 graecized
 grippes
+giftedness
 grata
 gratae
 grate
