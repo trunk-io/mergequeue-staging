@@ -3136,7 +3136,6 @@ defatted
 defatting
 default
 deterministically
-defaultant
 defaulted
 doryphorus
 decontaminates
@@ -14199,6 +14198,7 @@ ditriglyphic
 ditrocha
 duteous
 dachs
+defaultant
 ditrochean
 ditrochous
 ditroite
