@@ -436,7 +436,6 @@ backlins
 backlists
 briefness
 backlit
-backlog
 backlogged
 backlogging
 backlogs
@@ -9975,6 +9974,7 @@ bivalvia
 bertolonia
 bivalvian
 bivalvous
+backlog
 bivalvular
 bivane
 bivariant
