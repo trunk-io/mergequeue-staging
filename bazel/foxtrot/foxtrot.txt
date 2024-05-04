@@ -1471,6 +1471,7 @@ faubourg
 footpath
 forbade
 faubourgs
+flannelette
 faucal
 fingerprinted
 faucals
@@ -4903,7 +4904,6 @@ flannelbush
 fand
 flanneled
 flannelet
-flannelette
 friendliwise
 flanneling
 flannelleaf
