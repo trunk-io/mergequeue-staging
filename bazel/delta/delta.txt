@@ -5825,7 +5825,6 @@ depravate
 depravation
 deprave
 deceptivity
-depravedly
 diel
 dictative
 depravedness
@@ -14684,6 +14683,7 @@ docked
 docken
 docker
 dockers
+depravedly
 docket
 docketed
 docketing
