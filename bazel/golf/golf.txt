@@ -2188,7 +2188,6 @@ griskins
 gazzetta
 gconv
 gd
-gdinfo
 gds
 ge
 griffithite
@@ -3705,6 +3704,7 @@ gastronomy
 gharries
 gigas
 gharris
+gdinfo
 ghassanid
 ghast
 garreted
