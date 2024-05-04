@@ -5250,6 +5250,7 @@ densities
 densitometer
 densitometers
 densitometric
+dharmic
 densus
 dent
 dental
@@ -7976,7 +7977,6 @@ dharmas
 dharmashastra
 dharmasutra
 dithionous
-dharmic
 dharmsala
 dharna
 dhaura
