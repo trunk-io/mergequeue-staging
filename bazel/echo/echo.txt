@@ -9431,7 +9431,6 @@ erupted
 eruptible
 erupting
 eruption
-eruptional
 estruate
 eruptions
 eruptive
@@ -11661,6 +11660,7 @@ evoking
 evolate
 evolute
 evolutes
+eruptional
 evolution
 evolutional
 eloigns
