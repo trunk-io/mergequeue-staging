@@ -2225,7 +2225,6 @@ bans
 bansalague
 bevilled
 bansela
-banshie
 banshies
 banstickle
 bant
@@ -10274,6 +10273,7 @@ blakeberyed
 boatlike
 blame
 blameable
+banshie
 blameableness
 blameably
 blamed
