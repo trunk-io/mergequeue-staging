@@ -4307,7 +4307,6 @@ gymnospermy
 gymnospermic
 gunhouse
 gymnospermous
-geoisotherm
 gymnosperms
 gymnosporangium
 gymnospore
@@ -8305,6 +8304,7 @@ grassland
 glycerol
 gedds
 gelsemin
+geoisotherm
 grasslands
 glutaminase
 grassless
