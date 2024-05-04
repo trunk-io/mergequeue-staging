@@ -11245,7 +11245,6 @@ chloremic
 chlorenchyma
 coassistance
 chlorguanide
-chlorhexidine
 chlorhydrate
 chlorhydric
 chloriamb
@@ -25418,6 +25417,7 @@ cornu
 closefisted
 cornua
 cornual
+chlorhexidine
 cornuate
 cornuated
 cornubianite
