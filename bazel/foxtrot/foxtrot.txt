@@ -6661,7 +6661,6 @@ fantad
 focussed
 fluminose
 focusses
-fandangle
 functional
 focussing
 fod
@@ -11402,6 +11401,7 @@ formalise
 filago
 furlongs
 fluoroscope
+fandangle
 furloughed
 furloughing
 furloughs

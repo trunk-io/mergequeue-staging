@@ -5409,7 +5409,6 @@ behave
 behaved
 behaver
 behavers
-behaves
 behaving
 brachioradial
 behavior
@@ -15016,6 +15015,7 @@ breve
 breves
 brevet
 basementward
+behaves
 brevetcy
 brandy
 brevetcies
