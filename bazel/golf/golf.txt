@@ -2806,7 +2806,6 @@ glycogen
 gitalin
 genipap
 greenstuff
-gemsbuck
 gentes
 gossip
 genipaps
@@ -8420,6 +8419,7 @@ gravecloth
 graveclothes
 gravedigger
 gleba
+gemsbuck
 gravediggers
 grudgment
 gravel
