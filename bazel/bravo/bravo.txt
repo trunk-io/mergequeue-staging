@@ -6806,7 +6806,6 @@ beroidae
 berouged
 beround
 berreave
-berreaved
 bendability
 berreaving
 berret
@@ -7305,6 +7304,7 @@ besugo
 biblus
 besuit
 besully
+berreaved
 beswarm
 beswarmed
 basidiosporous
