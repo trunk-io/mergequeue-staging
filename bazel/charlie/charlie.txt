@@ -15032,7 +15032,6 @@ cytotoxin
 cytotrophy
 cytotrophoblastic
 cytotropic
-cytotropism
 chude
 cytozymase
 cytozyme
@@ -16504,6 +16503,7 @@ clocksmith
 clockwatcher
 clockwise
 clockwork
+cytotropism
 clockworked
 clockworks
 clod

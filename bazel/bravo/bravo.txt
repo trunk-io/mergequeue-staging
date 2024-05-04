@@ -2536,6 +2536,7 @@ bardling
 bardo
 bellyfulls
 bunns
+bazookas
 bardocucullus
 bardolater
 bardolatry
@@ -3949,7 +3950,6 @@ bazoo
 bazooka
 bazookaman
 bazookamen
-bazookas
 bazzite
 bb
 bbl
