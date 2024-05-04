@@ -2730,7 +2730,6 @@ elegising
 elegist
 elegists
 elegit
-elegize
 elegized
 ethmoiditis
 elegizes
@@ -9944,6 +9943,7 @@ estafet
 estafette
 endothys
 estafetted
+elegize
 espaliering
 elephants
 estamene
