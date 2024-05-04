@@ -11400,7 +11400,6 @@ disclamatory
 disclander
 disclass
 disclike
-disclimax
 discloak
 discloister
 debug
@@ -17823,6 +17822,7 @@ dissertation
 diasystem
 duct
 ducted
+disclimax
 dravidic
 ductibility
 ductible
