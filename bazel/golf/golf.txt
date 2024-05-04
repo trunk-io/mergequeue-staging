@@ -5260,7 +5260,6 @@ gaius
 glassworks
 gasbags
 glassworm
-glasswort
 glaswegian
 gees
 glathsheim
@@ -8862,6 +8861,7 @@ gret
 goldenrods
 gretchen
 grete
+glasswort
 greund
 grevillea
 grew
