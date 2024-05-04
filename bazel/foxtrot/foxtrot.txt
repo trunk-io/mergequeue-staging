@@ -2865,7 +2865,6 @@ feltwort
 feudalizing
 feudary
 feudatary
-feudatory
 filtrating
 feudatorial
 feudatories
@@ -5678,6 +5677,7 @@ fetologist
 feastless
 flyspecks
 flyswat
+feudatory
 flyswatter
 flit
 flytail
