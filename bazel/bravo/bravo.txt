@@ -9328,7 +9328,6 @@ biplicity
 belittle
 biplosion
 biplosive
-bonamano
 bipod
 bipods
 bipolarity
@@ -16406,6 +16405,7 @@ brutifies
 brutifying
 beggingwise
 bruting
+bonamano
 brutish
 bowwort
 bedfellowship
