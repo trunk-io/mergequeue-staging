@@ -6548,7 +6548,6 @@ beplaided
 beplaster
 beplumed
 berycomorphi
-bepommel
 bepray
 baculoid
 bepraise
@@ -9638,6 +9637,7 @@ bisects
 bisegment
 barringer
 bisellia
+bepommel
 bisellium
 biostatistic
 bysen
