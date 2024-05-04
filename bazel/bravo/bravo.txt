@@ -10038,7 +10038,6 @@ bizel
 bizen
 bizes
 bizet
-bizygomatic
 biznaga
 bokos
 barm
@@ -12559,6 +12558,7 @@ bonnethead
 bonnetiere
 bonnetieres
 bonneting
+bizygomatic
 bonnetless
 bonnetlike
 bonnetman
