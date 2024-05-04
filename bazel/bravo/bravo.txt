@@ -2605,7 +2605,6 @@ bargainable
 bargained
 billbugs
 bargainer
-bargainers
 bargaining
 beraked
 bargainor
@@ -16872,6 +16871,7 @@ buhlwork
 buhrmill
 buhrs
 basketlike
+bargainers
 buyable
 basils
 bushgoats
