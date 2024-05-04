@@ -15953,7 +15953,6 @@ bronchostenosis
 bronchostomy
 bronchostomies
 bronchotetany
-banked
 bronchotyphus
 bronchotome
 bronchotomy
@@ -17804,6 +17803,7 @@ bodefulness
 burnouts
 burnover
 burns
+banked
 bucerotes
 burnsian
 burnside
