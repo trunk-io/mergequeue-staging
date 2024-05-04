@@ -2176,7 +2176,6 @@ gazetting
 gazi
 grippelike
 galvanise
-gamb
 gazing
 gazingstock
 gazogene
@@ -9315,6 +9314,7 @@ grooving
 graces
 grope
 groped
+gamb
 gastrolatrous
 gasworks
 groper

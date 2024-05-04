@@ -6660,7 +6660,6 @@ fandangle
 functional
 focussing
 fod
-fodda
 fodder
 forbear
 fodderer
@@ -9662,6 +9661,7 @@ freers
 flether
 freesheet
 furthersome
+fodda
 fatcake
 famuli
 featherless
