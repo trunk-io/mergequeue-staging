@@ -2746,6 +2746,7 @@ acquereur
 amoritish
 acquest
 acquiesce
+amba
 acquiesced
 acquiescement
 acquiescency
@@ -6833,7 +6834,6 @@ acipenseroid
 ailed
 aileen
 aileron
-amba
 ailerons
 aylesbury
 aporetical
