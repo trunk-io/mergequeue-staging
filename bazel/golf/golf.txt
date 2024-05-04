@@ -1875,7 +1875,6 @@ gastrorrhagia
 gorling
 gastrorrhaphy
 gynura
-gastroscopy
 gastroscopic
 gastroscopies
 gastrular
@@ -5664,6 +5663,7 @@ gloaters
 grieve
 gloating
 gloatingly
+gastroscopy
 gloats
 glob
 glossarist
