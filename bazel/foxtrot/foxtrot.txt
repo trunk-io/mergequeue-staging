@@ -1700,7 +1700,6 @@ fearfullest
 feelable
 fearing
 feist
-fearingly
 fearless
 fearlessness
 fearnought
@@ -7101,6 +7100,7 @@ fibrinate
 fleapit
 foolmonger
 fools
+fearingly
 fatherling
 foemen
 foolscaps
