@@ -10663,6 +10663,7 @@ amyloleucite
 amylolysis
 amylolytic
 amylometer
+anatomiless
 amylon
 amylopectin
 amylophagia
@@ -12196,7 +12197,6 @@ ambidextral
 anatomicophysiological
 anatomicosurgical
 anatomies
-anatomiless
 anatomisation
 anatomised
 anatomiser
