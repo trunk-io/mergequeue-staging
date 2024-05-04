@@ -1650,7 +1650,6 @@ fawnskin
 fax
 faxed
 faxes
-faxing
 faze
 fazed
 fazenda
@@ -3604,6 +3603,7 @@ filicornia
 filiety
 filiferous
 filiform
+faxing
 fumigatory
 flaunching
 filiformed
