@@ -9611,7 +9611,6 @@ biscuitmaker
 biscuitmaking
 biscuitry
 biscuitroot
-battements
 bassaris
 burnets
 biscuits
@@ -18159,6 +18158,7 @@ butene
 butenes
 butenyl
 buteo
+battements
 butyl
 bustic
 bluejay
