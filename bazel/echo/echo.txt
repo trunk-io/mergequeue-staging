@@ -7994,6 +7994,7 @@ epimerised
 endoneurial
 epimerite
 evangelion
+encastage
 epimeritic
 evidenced
 eigenvector
@@ -12294,7 +12295,6 @@ exostome
 execute
 executed
 exoarteritis
-encastage
 executes
 executing
 execution
