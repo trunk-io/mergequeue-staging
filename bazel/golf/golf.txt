@@ -2419,6 +2419,7 @@ geldability
 geldable
 geldant
 gambit
+goshawk
 galvanographic
 gelder
 genua
@@ -7293,7 +7294,6 @@ golandause
 goschen
 gosh
 glucosidically
-goshawk
 goshawks
 goshdarn
 goshen

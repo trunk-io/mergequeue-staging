@@ -6389,6 +6389,7 @@ enshade
 enshadow
 enshawl
 ensheath
+ententophil
 ensheathe
 ensheathed
 ensheathes
@@ -13684,7 +13685,6 @@ extincts
 extine
 extinguised
 endured
-ententophil
 extinguish
 extinguishant
 enseraph
