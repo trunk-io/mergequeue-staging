@@ -7640,7 +7640,6 @@ fratching
 forefinger
 forefingers
 fuchsine
-forefit
 foreflank
 foreflap
 forefoot
@@ -8526,6 +8525,7 @@ flotage
 formulised
 flexile
 formulising
+forefit
 fanwise
 formably
 ferrety
