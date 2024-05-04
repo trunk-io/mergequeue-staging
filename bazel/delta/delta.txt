@@ -1548,7 +1548,6 @@ daroo
 dustproof
 deadpay
 deadpan
-deadpanner
 deadpans
 deadrise
 deadrize
@@ -8291,6 +8290,7 @@ dialing
 descensional
 dialoguer
 deyship
+deadpanner
 dialings
 dorking
 dorbie
