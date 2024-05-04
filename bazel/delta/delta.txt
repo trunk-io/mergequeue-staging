@@ -5330,7 +5330,6 @@ dentiferous
 dentiform
 dentifrice
 dentigerous
-dentil
 dentilabial
 dentilated
 dentilation
@@ -9421,6 +9420,7 @@ diffusing
 diffusiometer
 diffusional
 diffusionism
+dentil
 diffusionist
 diffusive
 diffusor
