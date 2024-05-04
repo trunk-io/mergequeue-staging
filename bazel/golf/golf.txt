@@ -1224,6 +1224,7 @@ ganoin
 ganoine
 ganophyllite
 gell
+gnatsnap
 ganoses
 geometrical
 gansa
@@ -6302,7 +6303,6 @@ gnatlike
 gnatoo
 gnatproof
 gnats
-gnatsnap
 gnatsnapper
 gnattiest
 gnatworm
