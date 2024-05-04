@@ -3964,7 +3964,6 @@ bcf
 bch
 bchs
 bd
-bde
 bdellatomy
 bdellid
 bdellidae
@@ -10393,6 +10392,7 @@ barytostrontianite
 blaoner
 blaoners
 blare
+bde
 backyarder
 blares
 blarina
