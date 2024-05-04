@@ -5163,7 +5163,6 @@ cassareep
 cassata
 cassatas
 chesterfieldian
-cassate
 cassava
 cassavas
 casse
@@ -6437,6 +6436,7 @@ cavort
 cavorted
 cavorter
 cavorting
+cassate
 cavorts
 coffle
 cavu
