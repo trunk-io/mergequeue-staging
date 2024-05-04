@@ -5606,7 +5606,6 @@ glyptolith
 glyptology
 glyptological
 granum
-glyptotherium
 globeholder
 glires
 gliridae
@@ -6539,6 +6538,7 @@ generation
 goffered
 grosgrain
 gnars
+glyptotherium
 gofferer
 goffle
 gog
