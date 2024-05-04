@@ -4523,7 +4523,6 @@ encarpi
 encarpium
 encarpus
 encarpuspi
-encased
 encases
 euryzygous
 encash
@@ -7902,6 +7901,7 @@ epigrammatize
 epigrammatizer
 epigrammatizing
 epigramme
+encased
 epigrams
 evangelicalism
 edgeways
