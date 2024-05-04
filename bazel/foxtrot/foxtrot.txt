@@ -5604,7 +5604,6 @@ flintlike
 flints
 flintstone
 frontspiece
-flintwood
 flyoff
 flip
 focalise
@@ -9944,6 +9943,7 @@ featureless
 fricando
 fricassee
 fungistatic
+flintwood
 fricasseed
 fricasseeing
 fricassees
