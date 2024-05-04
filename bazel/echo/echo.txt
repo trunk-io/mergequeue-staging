@@ -6759,7 +6759,6 @@ elotillo
 epilogate
 enthalpies
 entheal
-enthean
 explete
 entheasm
 ephod
@@ -13022,6 +13021,7 @@ expending
 expenditor
 exurbias
 expenditrix
+enthean
 elegits
 expenditure
 enfonced
