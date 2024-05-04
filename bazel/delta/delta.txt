@@ -438,6 +438,7 @@ dainteth
 dainty
 dainties
 daintiest
+decompound
 dispark
 daintify
 daintified
@@ -14719,7 +14720,6 @@ dermatoptic
 divulger
 docquet
 docs
-decompound
 discant
 doctor
 doctoral

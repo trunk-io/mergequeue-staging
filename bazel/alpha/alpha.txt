@@ -10392,7 +10392,6 @@ amercements
 amercer
 amercers
 alieners
-abelian
 antifowl
 archvampire
 amerces
@@ -10839,6 +10838,7 @@ ammo
 ammobium
 ammocete
 ammocetes
+abelian
 ammochaeta
 anakinetomer
 ammochaetae
