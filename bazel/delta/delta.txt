@@ -7243,7 +7243,6 @@ determents
 determinable
 determinableness
 determinacy
-determinant
 determinantal
 determinants
 determinate
@@ -8198,6 +8197,7 @@ dodonaean
 diagnose
 dipus
 diagnoseable
+determinant
 diagnosed
 diagnosis
 dragoonage
