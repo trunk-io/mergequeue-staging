@@ -5577,7 +5577,6 @@ depectible
 depeculate
 depel
 depend
-dependabilities
 dependableness
 dependably
 dependance
@@ -10128,6 +10127,7 @@ dingdonged
 dinge
 depletes
 dinged
+dependabilities
 deepnesses
 dingee
 dishevelled
