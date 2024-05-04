@@ -2747,6 +2747,7 @@ barkless
 barklyite
 barkometer
 barkpeel
+benzylic
 berthed
 bavius
 barkpeeler
@@ -6397,7 +6398,6 @@ benzil
 benzyl
 benzylamine
 benzilic
-benzylic
 benzylidene
 benzylpenicillin
 benzyls
