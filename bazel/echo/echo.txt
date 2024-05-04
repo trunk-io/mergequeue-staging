@@ -3937,7 +3937,6 @@ evaders
 eminences
 extraboldface
 eminencies
-eminent
 erythrol
 eminently
 elishah
@@ -9038,6 +9037,7 @@ eric
 erica
 effeminacy
 ericaceae
+eminent
 ericaceous
 ericales
 ericas
