@@ -15934,7 +15934,6 @@ bronchoplasty
 bronchoplegia
 bronchopneumonic
 bronchopulmonary
-bronchorrhagia
 bellbirds
 bronchorrhaphy
 bronchorrhea
@@ -17317,6 +17316,7 @@ boho
 bunchflower
 bunchy
 bunchier
+bronchorrhagia
 bunchiest
 bunchily
 blennocystitis
