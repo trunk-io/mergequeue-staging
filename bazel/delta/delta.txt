@@ -4153,7 +4153,6 @@ delinter
 disjunctor
 deliquate
 deliquesce
-deliquesced
 deliquescence
 deliquescent
 deliquesces
@@ -16552,6 +16551,7 @@ draftiness
 drafting
 draftings
 dyspnoeic
+deliquesced
 draftman
 draftmanship
 draftproof

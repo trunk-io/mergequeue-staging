@@ -7043,6 +7043,7 @@ airling
 airlock
 airlocks
 airmailed
+aubergiste
 airman
 airmanship
 airmark
@@ -23228,7 +23229,6 @@ aubepine
 auberge
 auberges
 aubergine
-aubergiste
 aubergistes
 aubin
 aubrey
