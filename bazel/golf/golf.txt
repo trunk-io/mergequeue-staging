@@ -1191,7 +1191,6 @@ ghosty
 genteelest
 gastrostomy
 gangwayed
-gangwayman
 gangways
 ganymede
 gambade
@@ -1862,6 +1861,7 @@ gastrophrenic
 gastrophthisis
 gastroplasty
 gastropleuritis
+gangwayman
 gastroplication
 gastropneumonic
 gastropod

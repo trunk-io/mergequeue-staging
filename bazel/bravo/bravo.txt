@@ -5063,7 +5063,6 @@ beetlestone
 beetleweed
 beetlike
 beetling
-beetrave
 beetroot
 beetrooty
 beetroots
@@ -9892,6 +9891,7 @@ bitterbark
 bitterblain
 bitterbloom
 breadth
+beetrave
 bitterbrush
 bitterbump
 bitterbur
