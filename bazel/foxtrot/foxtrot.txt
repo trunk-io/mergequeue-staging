@@ -3487,6 +3487,7 @@ filament
 filamentary
 felworts
 filamented
+fimbriated
 filamentiferous
 forefended
 filamentoid
@@ -7930,7 +7931,6 @@ farmhand
 faience
 foresense
 formaldehydesulphoxylate
-fimbriated
 filo
 fondak
 friendships
