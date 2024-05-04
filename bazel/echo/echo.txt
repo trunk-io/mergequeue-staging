@@ -11106,7 +11106,6 @@ enlightener
 eupnoeic
 eupolyzoa
 eupolyzoan
-eupomatia
 eupomatiaceae
 eupotamic
 exship
@@ -13458,6 +13457,7 @@ exscribe
 exscript
 exscriptural
 exsculp
+eupomatia
 exsculptate
 exscutellate
 exsec
