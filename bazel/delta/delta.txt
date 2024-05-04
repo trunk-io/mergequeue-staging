@@ -1759,7 +1759,6 @@ dodecahedron
 debatable
 debate
 dismayingness
-disinclose
 debated
 debateful
 debatefully
@@ -3159,6 +3158,7 @@ defeatism
 defeats
 defeature
 defecant
+disinclose
 divinises
 defecate
 defecated
