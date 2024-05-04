@@ -2079,6 +2079,7 @@ camping
 campings
 campion
 campions
+cojudices
 calcspar
 convoking
 campit
@@ -18685,7 +18686,6 @@ coix
 cojoin
 cojones
 cojudge
-cojudices
 cojuror
 contrariwise
 cojusticiar
