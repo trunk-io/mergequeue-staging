@@ -6366,7 +6366,6 @@ derogate
 derogated
 derogately
 derogating
-derogation
 derogations
 derogatively
 derogator
@@ -15388,6 +15387,7 @@ dominoes
 dewanship
 dominos
 dominus
+derogation
 domitable
 dirtfarmer
 domitian
