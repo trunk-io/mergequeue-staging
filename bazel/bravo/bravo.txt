@@ -1137,7 +1137,6 @@ bayong
 beamers
 bairagi
 bairam
-bairdi
 brothy
 bairn
 bursattee
@@ -7617,6 +7616,7 @@ barebone
 bedrabble
 bewilderingly
 boasting
+bairdi
 bewilderment
 backup
 bewilders
