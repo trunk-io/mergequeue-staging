@@ -10850,7 +10850,6 @@ blimpish
 blimpishly
 breccial
 blimpishness
-blind
 blindball
 blinded
 blindedly
@@ -17170,6 +17169,7 @@ bullrushes
 bullseye
 bullshits
 bullshot
+blind
 bullsnake
 bullsticker
 bullswool
