@@ -2403,6 +2403,7 @@ decimeter
 decimeters
 daybreaks
 decimolar
+decouples
 daysman
 decimole
 decimosexto
@@ -2757,7 +2758,6 @@ decortization
 decorum
 decorums
 drumbeater
-decouples
 decourse
 decourt
 decousu

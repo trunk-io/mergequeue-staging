@@ -3661,7 +3661,6 @@ embryectomy
 embryectomies
 embright
 embrighten
-embryo
 elihu
 embryocardia
 embryoctony
@@ -12802,6 +12801,7 @@ estivating
 exordize
 exorhason
 endopods
+embryo
 exornation
 etwees
 exortion
