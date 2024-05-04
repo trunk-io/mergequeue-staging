@@ -977,7 +977,6 @@ fards
 fared
 fellon
 frontrunner
-fares
 faretta
 faradize
 farewell
@@ -3376,6 +3375,7 @@ fifo
 fifteen
 fibrinoid
 fifteener
+fares
 fifteenfold
 fifteens
 fifteenthly
