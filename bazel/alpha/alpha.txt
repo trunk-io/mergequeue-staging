@@ -13729,6 +13729,7 @@ announce
 announced
 announcers
 announces
+afunction
 aphacic
 announcing
 annual
@@ -22014,7 +22015,6 @@ asta
 astable
 astacian
 astacidae
-afunction
 adjustores
 astacus
 astay
