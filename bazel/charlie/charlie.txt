@@ -10267,7 +10267,6 @@ chiasmi
 chiasmic
 chiasmodontid
 chiasms
-cryocautery
 chiasmus
 chiastic
 chiastolite
@@ -31614,6 +31613,7 @@ curvinervate
 curvinerved
 curviness
 curving
+cryocautery
 curvirostral
 curvirostres
 curviserial
