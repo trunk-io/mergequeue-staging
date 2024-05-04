@@ -7353,7 +7353,6 @@ glaucopis
 gossypium
 gossipmonger
 gossipmongering
-granjeno
 gossypol
 gossypose
 gossipped
@@ -7406,6 +7405,7 @@ gorgelet
 gouaree
 gimcracks
 goudy
+granjeno
 gouged
 gouger
 geotaxis
