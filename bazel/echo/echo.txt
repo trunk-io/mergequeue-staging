@@ -9743,7 +9743,6 @@ ethnopsychology
 endorsor
 esophagotome
 esophoria
-esophoric
 esopus
 erectilities
 elritch
@@ -12229,6 +12228,7 @@ evirato
 exculpatorily
 excurrent
 excurse
+esophoric
 excursing
 excursional
 excursionary

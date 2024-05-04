@@ -13444,7 +13444,6 @@ dissaves
 dissaving
 dissavs
 duologues
-disscepter
 demonic
 dassie
 dissceptered
@@ -16272,6 +16271,7 @@ downfeed
 downflow
 downfolded
 downgate
+disscepter
 destitutely
 dilluer
 downgyved
