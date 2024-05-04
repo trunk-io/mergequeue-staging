@@ -4981,6 +4981,7 @@ flashcubes
 flashed
 fulnesses
 flasher
+ferritin
 flashers
 flashes
 fishiest
@@ -9347,7 +9348,6 @@ franciscan
 francium
 franciums
 francize
-ferritin
 fremescence
 francolite
 fumose
