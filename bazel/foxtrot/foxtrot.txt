@@ -2819,7 +2819,6 @@ fetterbush
 fettered
 fetterer
 flagellist
-fetterers
 fettering
 fetterlock
 fetters
@@ -7943,6 +7942,7 @@ flagging
 foreshaft
 foreshank
 foreshape
+fetterers
 firewoods
 foresheet
 foresheets
