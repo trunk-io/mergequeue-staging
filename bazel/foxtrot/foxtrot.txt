@@ -3792,6 +3792,7 @@ fimbriation
 fimbriatum
 ferrule
 fimbricate
+frettage
 fimbricated
 fimbrilla
 fimbrillae
@@ -9892,7 +9893,6 @@ frets
 fuds
 fretsome
 frett
-frettage
 frettation
 frette
 fretted
