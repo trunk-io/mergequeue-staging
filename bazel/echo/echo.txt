@@ -1702,6 +1702,7 @@ ehlite
 ehretia
 ehretiaceae
 ehrwaldite
+entoblastic
 endosteoma
 ehtanethial
 ehuawa
@@ -6855,7 +6856,6 @@ enriched
 entitling
 entitule
 entoblast
-entoblastic
 entobronchium
 ebbman
 entocalcaneal
