@@ -5748,7 +5748,6 @@ categorematical
 category
 categorial
 concaulescence
-categoric
 categorical
 categoricalness
 categories
@@ -21775,6 +21774,7 @@ conducingly
 conducive
 conduciveness
 conduct
+categoric
 conductance
 conducted
 conductible

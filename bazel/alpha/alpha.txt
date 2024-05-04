@@ -18252,7 +18252,6 @@ algometer
 aquameter
 aquanaut
 aquanauts
-aquaphobia
 abdicated
 aquaplaned
 aquaplaner
@@ -24587,6 +24586,7 @@ avale
 avalent
 avalvular
 avance
+aquaphobia
 avanguardisti
 anartismos
 avania
