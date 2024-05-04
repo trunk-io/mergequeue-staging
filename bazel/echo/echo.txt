@@ -530,7 +530,6 @@ echar
 echard
 elaeococca
 eched
-echelette
 echelle
 echelon
 echeloned
@@ -10925,6 +10924,7 @@ eumerism
 eumeristic
 eumerogenesis
 eumeromorph
+echelette
 eumeromorphic
 eumycete
 eumycetic
