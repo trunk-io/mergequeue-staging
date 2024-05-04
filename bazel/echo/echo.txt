@@ -10880,7 +10880,6 @@ ethnologic
 equalling
 eulogy
 eardrops
-elongates
 endmatcher
 eulogia
 eulogiae
@@ -12792,6 +12791,7 @@ engramma
 exorcize
 equivocacies
 exorcized
+elongates
 exorcizement
 exorcizer
 exorcizing
