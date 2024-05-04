@@ -6457,6 +6457,7 @@ emitters
 ensorcelize
 ensorcell
 ensorcellment
+emcumbering
 estimate
 epochal
 ensorcels
@@ -7143,7 +7144,6 @@ enunciable
 enunciated
 endochondral
 enunciations
-emcumbering
 enunciative
 enunciatively
 encamps
