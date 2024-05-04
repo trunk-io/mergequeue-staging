@@ -531,7 +531,6 @@ gallamine
 gombo
 gallanted
 gallantize
-gallantly
 gallantry
 gallants
 gallates
@@ -9531,6 +9530,7 @@ grovels
 glumosity
 grover
 grovers
+gallantly
 grapes
 grovet
 grovy
