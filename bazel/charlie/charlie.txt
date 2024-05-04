@@ -1452,7 +1452,6 @@ callipering
 callipers
 calliphora
 calliphorid
-calliphoridae
 calliphorine
 callipygian
 callipygous
@@ -17449,6 +17448,7 @@ cobleskill
 cobless
 cravatted
 cobnut
+calliphoridae
 cobnuts
 cactaceae
 cobol
