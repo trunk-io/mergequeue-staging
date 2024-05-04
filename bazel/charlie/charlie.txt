@@ -4260,7 +4260,6 @@ clypei
 carillonneurs
 carillonning
 carillons
-carina
 carinae
 carinal
 carinaria
@@ -25225,6 +25224,7 @@ corkage
 corkages
 corkboard
 conventionalized
+carina
 corke
 comsomol
 corked
