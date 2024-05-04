@@ -6610,7 +6610,6 @@ enterobacterial
 enterobiasis
 enterocele
 enterocentesis
-enteroceptor
 enterochirurgia
 expandability
 equimultiple
@@ -10353,6 +10352,7 @@ ethicophysical
 exportations
 ethicopolitical
 ethicosocial
+enteroceptor
 ethide
 enturret
 expoliate
