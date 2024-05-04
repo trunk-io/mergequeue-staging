@@ -6481,7 +6481,6 @@ ensporia
 enstar
 ediya
 enstatite
-enstatolite
 ensteel
 ensteep
 enstool
@@ -11787,6 +11786,7 @@ exaltations
 epicauta
 exaltative
 exaltedness
+enstatolite
 exalter
 exalting
 exaltment
