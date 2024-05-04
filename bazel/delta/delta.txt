@@ -5465,6 +5465,7 @@ deoppilate
 deoppilation
 decantation
 deorganization
+discostate
 deorganize
 deorientalize
 deorsum
@@ -11655,7 +11656,6 @@ discorrespondency
 discos
 discost
 dep
-discostate
 discostomatous
 discotheque
 deconsecrate

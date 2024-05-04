@@ -6418,7 +6418,6 @@ ensilages
 ensilaging
 exploiters
 educators
-ensilate
 ensile
 ensiled
 ensiles
@@ -9151,6 +9150,7 @@ erythritol
 erythroblast
 erythroblastic
 erythroblastosis
+ensilate
 erythrocarpous
 erythrocatalysis
 eurygnathism
