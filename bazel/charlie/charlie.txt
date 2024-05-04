@@ -10253,7 +10253,6 @@ cusec
 chiapanec
 chiapanecan
 chiarooscurist
-chiaroscurist
 chiaroscuro
 carve
 chiaroscuros
@@ -26791,6 +26790,7 @@ cochairman
 counterdifficulty
 counterdigged
 cerebroscopy
+chiaroscurist
 counterdike
 counterdisengage
 counterdisengagement
