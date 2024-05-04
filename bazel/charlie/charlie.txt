@@ -11548,7 +11548,6 @@ cholangitis
 cholanic
 cholanthrene
 cholate
-cholates
 choleate
 cholecalciferol
 cholecyanine
@@ -25036,6 +25035,7 @@ corduroys
 cordwain
 cordwainer
 cordwains
+cholates
 cordwood
 cordwoods
 core

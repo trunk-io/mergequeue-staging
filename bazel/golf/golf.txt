@@ -1310,7 +1310,6 @@ gastrulated
 garbanzo
 garbell
 garbill
-garble
 garbleable
 garbled
 garbler
@@ -3723,6 +3722,7 @@ ghastly
 ghastlier
 gleek
 ghastliest
+garble
 ghastlily
 ghastliness
 ghats
