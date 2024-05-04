@@ -6697,7 +6697,6 @@ carminative
 celialgia
 celibacy
 celibacies
-celibataire
 celibatarian
 celibate
 celibates
@@ -22210,6 +22209,7 @@ connusable
 conged
 congee
 congeed
+celibataire
 congeeing
 congelation
 congelifract
