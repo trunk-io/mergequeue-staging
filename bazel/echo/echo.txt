@@ -861,7 +861,6 @@ ectocarpic
 ectocarpous
 ectocarpus
 ectocelic
-ectochondral
 ectocinerea
 ectocinereal
 ectocoelic
@@ -10862,6 +10861,7 @@ euhyostyly
 euhyostylic
 elides
 eukairite
+ectochondral
 eukaryote
 entryway
 euktolite

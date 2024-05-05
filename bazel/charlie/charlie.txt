@@ -11355,7 +11355,6 @@ chloroma
 chloromata
 chloromelanite
 chlorometer
-chloromethane
 chlorometry
 chlorometric
 coulombic
@@ -23909,6 +23908,7 @@ chirotonsory
 controverted
 centaurus
 controverter
+chloromethane
 controvertibility
 controvertible
 controverting
