@@ -5151,7 +5151,6 @@ aerophilatelist
 aerophile
 aerophilia
 aerophilous
-aerophysical
 aerophysics
 aerophyte
 aerophobic
@@ -7609,6 +7608,7 @@ albumenoid
 albumens
 albumimeter
 albumin
+aerophysical
 albuminate
 albuminaturia
 albuminiferous
