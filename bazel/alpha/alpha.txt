@@ -9582,7 +9582,6 @@ alternacy
 alternance
 alternanthera
 absolvable
-alternaria
 alternariose
 alternat
 alternate
@@ -17043,6 +17042,7 @@ apiarians
 apiaries
 apiarist
 apiarists
+alternaria
 afars
 apiator
 aurelia
