@@ -14704,7 +14704,6 @@ cystoflagellate
 cystogenesis
 cystogenous
 cystogram
-cystoid
 compromissorial
 cystoidea
 cystoidean
@@ -16627,6 +16626,7 @@ clons
 clonus
 clonuses
 cloop
+cystoid
 cloot
 clootie
 cloots
