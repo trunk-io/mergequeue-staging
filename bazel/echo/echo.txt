@@ -6803,7 +6803,6 @@ enthronizing
 enthuse
 enthused
 enthuses
-entity
 enthusiasms
 enthusiast
 emballonurine
@@ -10143,6 +10142,7 @@ erythrodextrin
 estuary
 exundancy
 estuarial
+entity
 estuaries
 enthusiasm
 entame
