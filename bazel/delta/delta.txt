@@ -3011,6 +3011,7 @@ danaidean
 deepfreezing
 deadeyes
 deepfroze
+delimitized
 deepfrozen
 deepgoing
 deeping
@@ -4126,7 +4127,6 @@ derelicts
 delimiting
 delimitize
 doombook
-delimitized
 delimitizing
 delimits
 delineable
