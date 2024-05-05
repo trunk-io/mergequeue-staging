@@ -5633,6 +5633,7 @@ findable
 frayn
 flypaper
 ferns
+fixedly
 flypapers
 flypasts
 flipe
@@ -7513,7 +7514,6 @@ foreboom
 forebooms
 forebowels
 fumbulator
-fixedly
 feverish
 forebowline
 forebrace
