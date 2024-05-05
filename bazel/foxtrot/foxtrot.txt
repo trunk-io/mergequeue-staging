@@ -2092,7 +2092,6 @@ felled
 flrie
 feller
 fellers
-fellest
 fellfare
 felly
 farth
@@ -10385,6 +10384,7 @@ fictor
 fantasie
 forgivableness
 fausant
+fellest
 fiddley
 fusk
 flowerfence
