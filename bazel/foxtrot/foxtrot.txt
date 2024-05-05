@@ -1934,7 +1934,6 @@ fontanelle
 frolicks
 feedback
 feedbag
-feedbags
 feedbin
 feedboard
 feedboxes
@@ -10171,6 +10170,7 @@ frigorimeter
 frislet
 flinches
 frisolee
+feedbags
 filleter
 friss
 frisson
