@@ -2649,7 +2649,6 @@ embellishes
 electrotelegraphy
 electrotelegraphic
 epigraphical
-electrotelethermometer
 epiblasts
 endplay
 electrotellurograph
@@ -11739,6 +11738,7 @@ exactable
 exacted
 escorted
 exacter
+electrotelethermometer
 exacters
 exacting
 evangelising
