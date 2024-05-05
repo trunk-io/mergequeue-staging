@@ -13566,7 +13566,6 @@ ankylose
 ankylosing
 ankylosis
 ankylostoma
-ankylostomiasis
 ankylotia
 ankylotic
 allyl
@@ -19884,6 +19883,7 @@ arizonian
 arizonians
 arizonite
 arjun
+ankylostomiasis
 ark
 arkansan
 arkansans
