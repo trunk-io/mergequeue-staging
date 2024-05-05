@@ -5619,6 +5619,7 @@ gliridae
 grains
 gliriform
 glis
+gospelize
 glisk
 glisky
 glissader
@@ -7306,7 +7307,6 @@ galuchat
 gospeler
 gospelers
 gospelist
-gospelize
 gospeller
 gospelly
 gutnish
