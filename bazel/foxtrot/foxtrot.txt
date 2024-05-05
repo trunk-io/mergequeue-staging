@@ -5366,7 +5366,6 @@ flemings
 flemish
 flemishing
 flenched
-flenches
 frontispieces
 flinging
 flensed
@@ -9599,6 +9598,7 @@ freebooty
 freebooting
 fusils
 freeboots
+flenches
 freeborn
 freechurchism
 floretum
