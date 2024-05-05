@@ -3466,7 +3466,6 @@ embitterment
 embitterments
 embitters
 emblanch
-emblaze
 emblazed
 emblazer
 edifices
@@ -6741,6 +6740,7 @@ ecclesiasticus
 entertaining
 externity
 entertainingly
+emblaze
 entertainingness
 edeomania
 entertainment

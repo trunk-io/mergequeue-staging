@@ -929,6 +929,7 @@ gameless
 gathers
 gamely
 glyster
+gory
 gamelike
 gonfalonier
 gamelin
@@ -7230,7 +7231,6 @@ gravity
 gorgosaurus
 gorhen
 gorhens
-gory
 goric
 goriest
 gorily
