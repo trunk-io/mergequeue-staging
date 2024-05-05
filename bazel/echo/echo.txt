@@ -5326,6 +5326,7 @@ endoskeletons
 endosmic
 endosmometric
 eyr
+extraversive
 endosmos
 exsect
 endosmose
@@ -14027,7 +14028,6 @@ extravehicular
 extravenate
 extraventricular
 examinations
-extraversive
 effable
 escrowee
 extraversively
