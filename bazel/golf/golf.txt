@@ -5634,7 +5634,6 @@ glist
 grammarless
 glisten
 groundedness
-gonidia
 gorki
 glisteningly
 glistens
@@ -10025,6 +10024,7 @@ gentianaceae
 griddling
 guerdoner
 guerdoning
+gonidia
 guerdonless
 glick
 guereba
