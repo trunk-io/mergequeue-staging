@@ -4521,7 +4521,6 @@ becoom
 becoresh
 becost
 becousined
-becovet
 becowarding
 bewary
 becowards
@@ -15829,6 +15828,7 @@ bromo
 bromoacetone
 bromoaurate
 bromoaurates
+becovet
 bromoauric
 bouncier
 bromochloromethane
