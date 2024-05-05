@@ -6601,7 +6601,6 @@ agueweed
 agrobiologically
 agrobiologist
 agrodolce
-agrogeology
 agrogeologically
 agrology
 agrologic
@@ -23943,6 +23942,7 @@ autochronograph
 autochthon
 autochthonal
 autochthones
+agrogeology
 autochthonic
 autochthonism
 autochthonous
