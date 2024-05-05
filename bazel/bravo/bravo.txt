@@ -2300,7 +2300,6 @@ baptornis
 bare
 bloods
 barabara
-barabbas
 barabora
 barad
 baradari
@@ -13545,6 +13544,7 @@ boulter
 boulterer
 boun
 bantams
+barabbas
 bounce
 bounceable
 bounceably
