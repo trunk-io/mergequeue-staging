@@ -1155,7 +1155,6 @@ goschens
 ganglioneuron
 ganglionitis
 governance
-ganglions
 ganglioplexus
 glamourie
 gangman
@@ -5856,6 +5855,7 @@ gloriousness
 glos
 garbleable
 genipapada
+ganglions
 gloss
 glossa
 gastrophilite
