@@ -3889,7 +3889,6 @@ antifideism
 adhort
 ady
 adiabat
-adiabatic
 adiabolist
 adiactinic
 adiadokokinesi
@@ -4466,6 +4465,7 @@ adret
 adry
 adrian
 adriatic
+adiabatic
 acheirus
 antiprojectivity
 adrift
