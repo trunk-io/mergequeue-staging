@@ -17367,7 +17367,6 @@ drophead
 diosma
 dropheads
 damie
-dropkicker
 droplets
 droplight
 dropline
@@ -17946,6 +17945,7 @@ duftery
 duftite
 duftry
 dugal
+dropkicker
 decerning
 duggler
 dugongidae
