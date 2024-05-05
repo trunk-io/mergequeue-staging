@@ -2940,7 +2940,6 @@ eagers
 elijah
 elymi
 eutechnic
-eliminable
 eliminand
 epistomal
 eliminant
@@ -5386,6 +5385,7 @@ endothecia
 endothecial
 empoisoner
 endothecium
+eliminable
 extralinguistically
 encaptivate
 elaps

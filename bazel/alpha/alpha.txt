@@ -12957,7 +12957,6 @@ angiopressure
 angiorrhagia
 angiorrhexis
 angiosarcoma
-angiosclerotic
 angioscope
 arlington
 angiosymphysis
@@ -20371,6 +20370,7 @@ arrowroots
 arrows
 arrowstone
 arrowweed
+angiosclerotic
 arrowwood
 arrowworm
 acanthi
