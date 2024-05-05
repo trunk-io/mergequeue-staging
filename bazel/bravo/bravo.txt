@@ -684,6 +684,7 @@ bacterin
 bacterioagglutinin
 botchier
 bacterioblast
+billets
 bacteriochlorophyll
 bacteriocidal
 bacteriocyte
@@ -2410,7 +2411,6 @@ barbel
 barbeled
 barbellate
 barbells
-billets
 barbellula
 barbellulae
 barbellulate
