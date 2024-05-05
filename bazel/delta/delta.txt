@@ -1539,7 +1539,6 @@ dissenters
 deadlocking
 demitasses
 deadlocks
-deadman
 derider
 deadmelt
 deadmen
@@ -13450,6 +13449,7 @@ demonic
 dassie
 dissceptered
 dissceptre
+deadman
 doat
 danios
 dissceptring
