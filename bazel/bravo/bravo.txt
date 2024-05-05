@@ -5366,7 +5366,6 @@ begrudging
 begrudgingly
 begruntle
 begrutten
-begs
 begster
 beguard
 beguess
@@ -6410,6 +6409,7 @@ benzocaine
 borlase
 benzocoumaran
 bawty
+begs
 benzodiazine
 benzodiazole
 benzofluorene
