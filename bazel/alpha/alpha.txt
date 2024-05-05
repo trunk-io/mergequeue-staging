@@ -5836,7 +5836,6 @@ aftosas
 aftward
 afunctional
 ag
-agacant
 agacante
 arylated
 agacella
@@ -23053,6 +23052,7 @@ ablewhackets
 attenuant
 adusk
 attenuated
+agacant
 axunge
 attenuating
 attenuation
