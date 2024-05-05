@@ -4872,7 +4872,6 @@ declassifies
 demonstrate
 demonstrated
 disqualification
-debunk
 demonstrater
 demonstrates
 demonstration
@@ -12369,6 +12368,7 @@ dishumanize
 dishumor
 dishumour
 dishware
+debunk
 dishwares
 dishwash
 dishwasher
