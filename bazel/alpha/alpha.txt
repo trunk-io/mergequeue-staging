@@ -13854,7 +13854,6 @@ anodizes
 anodizing
 anodon
 anodonta
-anodontia
 anodos
 anoegenetic
 anoesia
@@ -17384,6 +17383,7 @@ aponeurositis
 alliterations
 aponeurotome
 antivirus
+anodontia
 autoregressive
 aponia
 aponic
