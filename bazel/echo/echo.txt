@@ -6578,7 +6578,6 @@ entellus
 entelluses
 entelodon
 entemple
-empidonax
 entender
 entendre
 entendres
@@ -7535,6 +7534,7 @@ energumen
 electrotonic
 ephemerous
 ephererist
+empidonax
 ephesians
 ephesine
 ephestia
