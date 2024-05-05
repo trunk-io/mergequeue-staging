@@ -1739,7 +1739,6 @@ balneatory
 balneography
 balneology
 bravado
-balneological
 baffed
 balneophysiology
 baikerite
@@ -9184,6 +9183,7 @@ biosocial
 biosociology
 biosociological
 biosome
+balneological
 biospeleology
 batzen
 biosphere
