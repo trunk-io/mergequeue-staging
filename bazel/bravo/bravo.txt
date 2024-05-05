@@ -4189,7 +4189,6 @@ bearskins
 beartongue
 bearward
 bearwood
-bearwoods
 brilliants
 bearwort
 beastdom
@@ -15117,6 +15116,7 @@ bricked
 brickel
 bricken
 brickfield
+bearwoods
 beuniformed
 brickfielder
 brickhood
