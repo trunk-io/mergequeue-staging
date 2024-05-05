@@ -10822,6 +10822,7 @@ chinning
 chino
 chinoa
 chinoidine
+countability
 chinois
 chinoiserie
 confusers
@@ -26635,7 +26636,6 @@ counselors
 counsels
 cypher
 count
-countability
 countable
 countableness
 countably
