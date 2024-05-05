@@ -1484,7 +1484,6 @@ effusely
 effuses
 effusiometer
 espiegle
-effusion
 effusions
 effusive
 effusively
@@ -12245,6 +12244,7 @@ eutectic
 eidetic
 excursionist
 excursionize
+effusion
 englished
 excursive
 excursively

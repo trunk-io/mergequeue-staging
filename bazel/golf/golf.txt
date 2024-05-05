@@ -3647,7 +3647,6 @@ gestura
 gestural
 gangwaymen
 gesture
-gestured
 gestureless
 gesturer
 gesturers
@@ -7738,6 +7737,7 @@ girouettes
 goldsmithry
 grayhair
 germinate
+gestured
 grahams
 gray
 graian
