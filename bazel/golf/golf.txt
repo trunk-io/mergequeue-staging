@@ -2587,6 +2587,7 @@ geogenic
 gemwork
 gen
 gena
+glyptal
 guardsmen
 genal
 genapp
@@ -5583,7 +5584,6 @@ gynaeocracy
 glyphographic
 glyphs
 gabble
-glyptal
 glyptic
 gault
 glyptical
