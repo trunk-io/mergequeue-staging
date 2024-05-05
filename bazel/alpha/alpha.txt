@@ -6426,7 +6426,6 @@ assary
 agonized
 acquaints
 agonizer
-agonizes
 agonizing
 agonizingly
 agonizingness
@@ -25333,6 +25332,7 @@ azotenesis
 azotes
 azotetrazole
 azoth
+agonizes
 azothionium
 azoths
 ancylodactyla
