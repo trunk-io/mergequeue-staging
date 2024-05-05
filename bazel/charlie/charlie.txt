@@ -10180,7 +10180,6 @@ coadjutrices
 chevelure
 cheven
 chevener
-cheventayn
 confections
 cheverel
 cheveret
@@ -26817,6 +26816,7 @@ counterenergy
 caved
 counterengagement
 counterenthusiasm
+cheventayn
 counterentry
 counterequivalent
 counterespionage
