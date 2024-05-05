@@ -4698,6 +4698,7 @@ encia
 enantiomeride
 encyc
 encycl
+experimentalist
 encyclical
 encyclicals
 encyclopaediac
@@ -13072,7 +13073,6 @@ experimentalism
 embroilments
 extradited
 embraces
-experimentalist
 experimentation
 experimentations
 emporium
