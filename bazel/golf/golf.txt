@@ -2008,6 +2008,7 @@ glistened
 gauk
 gaultherin
 gaultherine
+graphical
 giber
 gavelmen
 gaumed
@@ -8158,7 +8159,6 @@ graphemes
 graphemic
 graphemically
 graphy
-graphical
 gallantries
 gulleting
 graphically
