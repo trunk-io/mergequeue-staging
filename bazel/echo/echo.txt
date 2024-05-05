@@ -964,7 +964,6 @@ enologies
 ectrodactylous
 ectrogeny
 expediteness
-ectrogenic
 epipolism
 ectromelia
 epistemophilia
@@ -12309,6 +12308,7 @@ exect
 executant
 exostome
 execute
+ectrogenic
 executed
 exoarteritis
 executes
