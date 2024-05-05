@@ -5999,7 +5999,6 @@ glottogony
 glottogonist
 galeres
 geochemist
-gyrons
 gulfs
 glottology
 gimble
@@ -10656,6 +10655,7 @@ gushed
 gusher
 geohydrologist
 gushes
+gyrons
 gushet
 gur
 gnostic
