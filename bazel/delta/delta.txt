@@ -1712,6 +1712,7 @@ deathrate
 deceivable
 deathrates
 deathroot
+dispender
 deaths
 deactivators
 deathsman
@@ -12947,7 +12948,6 @@ dispels
 decliners
 dispend
 dispended
-dispender
 dinotheres
 daltonic
 dispendious
