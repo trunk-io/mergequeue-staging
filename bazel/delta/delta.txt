@@ -2114,7 +2114,6 @@ decarburize
 decarburized
 decarburizing
 decarchy
-decarhinus
 decarnate
 decarnated
 decart
@@ -4993,6 +4992,7 @@ denationalize
 denationalized
 denaturalisation
 denaturalised
+decarhinus
 denaturalization
 denaturalize
 denierage
