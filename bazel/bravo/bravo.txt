@@ -13521,7 +13521,6 @@ boules
 boulevard
 boulevardier
 boulevardize
-boulevards
 bouleversement
 boulework
 boulimia
@@ -17683,6 +17682,7 @@ bourbonism
 burhinidae
 blockishness
 burrfishes
+boulevards
 burhinus
 burhmoot
 bury
