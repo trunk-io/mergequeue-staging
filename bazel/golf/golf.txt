@@ -5015,7 +5015,6 @@ glacioaqueous
 glaciology
 goffer
 glaciologic
-glaciologist
 gyrostatics
 glaciomarine
 glaciometer
@@ -6966,6 +6965,7 @@ gloomed
 gessamine
 grisliness
 gonzalo
+glaciologist
 goo
 galesaurus
 guaiacs
