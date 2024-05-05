@@ -6828,6 +6828,7 @@ electrocardiogram
 enticement
 enticements
 enticer
+enwrite
 enticers
 entices
 enticingly
@@ -7276,7 +7277,6 @@ enwreath
 enneasyllabic
 enwreathed
 enwreathing
-enwrite
 enwwove
 euphonym
 elkdom
