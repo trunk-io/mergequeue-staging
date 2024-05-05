@@ -741,6 +741,7 @@ governorships
 gallstones
 galluot
 goosey
+geometer
 gillnetted
 gribble
 gallup
@@ -3148,7 +3149,6 @@ geomant
 geomantic
 geomantically
 geomedical
-geometer
 geometers
 glaked
 geometrically
