@@ -14314,7 +14314,6 @@ antemarginal
 antemarital
 antemask
 antemeridian
-antemetallic
 antemetic
 antemillennial
 antemingent
@@ -18705,6 +18704,7 @@ arcature
 arcatures
 arccos
 ambulated
+antemetallic
 audiviser
 arccosine
 arced
