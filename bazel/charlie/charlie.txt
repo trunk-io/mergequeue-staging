@@ -13537,7 +13537,6 @@ cygnus
 cigua
 cloof
 ciguatera
-coenobitic
 cyke
 cyl
 cilantro
@@ -23834,6 +23833,7 @@ contredanses
 contreface
 clivises
 contrefort
+coenobitic
 contrepartie
 contretemps
 contrib

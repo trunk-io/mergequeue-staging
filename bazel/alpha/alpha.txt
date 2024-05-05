@@ -10051,6 +10051,7 @@ ambaris
 ambas
 ambash
 ambassade
+antifame
 ambassadeur
 alemite
 ambassador
@@ -15359,7 +15360,6 @@ antiexpressively
 antiexpressiveness
 antiface
 antifaction
-antifame
 antifascism
 antifat
 antifatigue
