@@ -1900,6 +1900,7 @@ banca
 bancal
 borocalcite
 bancales
+blanchers
 bancha
 bancos
 bancus
@@ -10310,7 +10311,6 @@ blanch
 blanche
 blanched
 blancher
-blanchers
 blanches
 blanchi
 bassetta
