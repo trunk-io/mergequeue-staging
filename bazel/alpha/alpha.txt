@@ -8384,7 +8384,6 @@ alike
 alikeness
 alikewise
 alikuluf
-alikulufan
 alilonghi
 alima
 alimenation
@@ -19170,6 +19169,7 @@ archplunderer
 archplutocrat
 archpoet
 archpolitician
+alikulufan
 archpontiff
 aeolian
 archpractice
