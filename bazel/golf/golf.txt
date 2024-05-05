@@ -8318,7 +8318,6 @@ gromatic
 graphemics
 grasslike
 grassman
-gentianic
 grassmen
 grassnut
 grassplat
@@ -9627,6 +9626,7 @@ grueled
 gelosin
 gisla
 grueler
+gentianic
 gruelers
 gasterophilus
 grueling
