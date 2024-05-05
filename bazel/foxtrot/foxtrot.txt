@@ -5720,6 +5720,7 @@ footrill
 foundery
 ferninst
 fluidglycerate
+fungoid
 flittern
 flitty
 flittiness
@@ -11210,7 +11211,6 @@ fungivorous
 flor
 farmerette
 fungoes
-fungoid
 fungology
 fungological
 fungologist
