@@ -1254,7 +1254,6 @@ fassaite
 felonwood
 federarie
 fassalite
-fast
 fenchone
 fastbacks
 fastballs
@@ -6701,6 +6700,7 @@ flysch
 foes
 followable
 foeship
+fast
 foetal
 foetalism
 frankable

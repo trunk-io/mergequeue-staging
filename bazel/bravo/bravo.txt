@@ -13313,7 +13313,6 @@ botete
 both
 bogatyr
 bother
-bothered
 botherer
 beveling
 brender
@@ -13472,6 +13471,7 @@ blate
 bouchon
 bisphenoid
 bouchons
+bothered
 boucle
 boucles
 bouderie
