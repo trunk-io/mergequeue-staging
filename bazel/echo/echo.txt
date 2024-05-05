@@ -3254,6 +3254,7 @@ expended
 em
 ektene
 essentials
+evaporate
 emaciate
 ensnaring
 emaciated
@@ -5859,7 +5860,6 @@ engravement
 engraven
 engraver
 engraves
-evaporate
 engravings
 engreaten
 engrege
