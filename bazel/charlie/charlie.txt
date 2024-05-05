@@ -19424,6 +19424,7 @@ coloreds
 colorer
 colorers
 colorfast
+correlativeness
 colorfastness
 colorful
 colorfully
@@ -25692,7 +25693,6 @@ correlating
 correlations
 correlative
 correlatively
-correlativeness
 correlatives
 correlativism
 carajura

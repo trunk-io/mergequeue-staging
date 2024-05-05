@@ -453,6 +453,7 @@ eccaleobion
 emeerates
 ecce
 electrocardiographic
+endogenicity
 eccentric
 eccentrically
 eccentricity
@@ -5194,7 +5195,6 @@ endogastritis
 endogen
 endogeny
 endogenic
-endogenicity
 endogenies
 endogenously
 effodientia
