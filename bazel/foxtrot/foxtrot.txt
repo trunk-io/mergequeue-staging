@@ -1229,6 +1229,7 @@ fashioners
 furnishment
 fashioning
 flywort
+fumigatory
 fashionize
 footlockers
 furiousity
@@ -3601,7 +3602,6 @@ filiety
 filiferous
 filiform
 faxing
-fumigatory
 flaunching
 filiformed
 filigerous
