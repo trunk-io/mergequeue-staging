@@ -3695,7 +3695,6 @@ dehydratase
 diplococcic
 dimensioned
 dehydrate
-dehydrates
 dehydrating
 dehydration
 dehydrator
@@ -14636,6 +14635,7 @@ dobzhansky
 doc
 docent
 docents
+dehydrates
 dockhead
 dringle
 docetae
