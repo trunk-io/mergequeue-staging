@@ -6263,7 +6263,6 @@ discommon
 disused
 dermatoscopy
 demurringly
-dermatoses
 dermatosiophobia
 degausses
 dermatosis
@@ -13893,6 +13892,7 @@ distoma
 distomatidae
 distomatosis
 divisionism
+dermatoses
 dentistries
 daubreelite
 distomatous
