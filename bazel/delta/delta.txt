@@ -3326,7 +3326,6 @@ dephase
 define
 defined
 definedly
-definement
 definers
 dissuasive
 defines
@@ -18254,6 +18253,7 @@ dunnite
 dunnites
 dunno
 dunpickle
+definement
 dunst
 dunstable
 dunster
