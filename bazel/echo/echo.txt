@@ -6902,7 +6902,6 @@ entoire
 entoloma
 entom
 effet
-entomb
 entombed
 eyelike
 entombment
@@ -10264,6 +10263,7 @@ etherate
 etherealisation
 etherealise
 etherealised
+entomb
 etherealising
 ecclesia
 etherealism
