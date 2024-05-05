@@ -4045,7 +4045,6 @@ achaenodon
 adjudging
 adjudgment
 aborning
-adjudicata
 adjudicate
 adjudicated
 adjudicates
@@ -5384,6 +5383,7 @@ aspirated
 affettuosos
 affy
 affianced
+adjudicata
 affiancing
 affich
 animize
