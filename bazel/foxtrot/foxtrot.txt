@@ -2820,7 +2820,6 @@ fetted
 fetter
 fetterbush
 fettered
-fetterer
 flagellist
 fettering
 fetterlock
@@ -10997,6 +10996,7 @@ flashy
 fumblers
 fumbles
 fumblingly
+fetterer
 fume
 flitches
 fumed
