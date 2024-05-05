@@ -9563,7 +9563,6 @@ cratonic
 checkoff
 checkout
 checkouts
-comatous
 checkpoint
 christly
 checkpointed
@@ -24936,6 +24935,7 @@ corbet
 coadjacently
 corby
 corbicula
+comatous
 corbiculae
 corbiculate
 clerestoried
