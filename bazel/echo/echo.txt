@@ -10393,6 +10393,7 @@ eburnation
 ethylsulphuric
 ethylthioethane
 eupepticity
+extensity
 ethylthioether
 ethinamate
 ethine
@@ -13571,7 +13572,6 @@ extensionality
 extensionally
 extensionist
 extensions
-extensity
 endorsements
 extensive
 emberizine
