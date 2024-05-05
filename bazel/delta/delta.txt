@@ -8316,7 +8316,6 @@ dialystelic
 drosophyllum
 demiurgism
 dialists
-device
 diapasm
 dialytic
 directories
@@ -16625,6 +16624,7 @@ dragonroot
 dragons
 deedeed
 dragontail
+device
 dictyoxylon
 dragonwort
 dragoon
