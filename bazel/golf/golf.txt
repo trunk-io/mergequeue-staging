@@ -1259,7 +1259,6 @@ gantsl
 ganza
 gynostemia
 gaol
-gaolering
 gaolerness
 gaolers
 gaoling
@@ -1431,6 +1430,7 @@ grivets
 garlics
 galloner
 gibier
+gaolering
 garlicwort
 garlion
 garlopa
