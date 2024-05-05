@@ -850,7 +850,6 @@ ecthlipses
 ecthlipsis
 ectype
 ectypes
-ectypography
 ectoblast
 episodal
 ectoblastic
@@ -2431,6 +2430,7 @@ endosarc
 electrography
 electrographic
 electrograving
+ectypography
 electrohemostasis
 electrohorticulture
 electroimpulse
