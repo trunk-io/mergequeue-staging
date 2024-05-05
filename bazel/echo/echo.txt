@@ -5577,6 +5577,7 @@ enfasten
 esclandre
 enfavor
 essentialize
+extraorganismal
 enfeeble
 episcopy
 enfeebled
@@ -13907,7 +13908,6 @@ extraordinary
 extraordinarily
 extraordinariness
 embryogenic
-extraorganismal
 extraovular
 extraparenchymal
 extraparliamentary
