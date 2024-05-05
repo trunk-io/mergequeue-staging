@@ -1441,7 +1441,6 @@ balebos
 bullrings
 baled
 baleens
-bossism
 balefire
 balefires
 baleful
@@ -6539,6 +6538,7 @@ beplumed
 berycomorphi
 bepray
 baculoid
+bossism
 bepraise
 bepraisement
 bergall
