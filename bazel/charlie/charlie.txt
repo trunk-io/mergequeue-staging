@@ -9224,6 +9224,7 @@ chasings
 chasm
 chasma
 chasmal
+conidium
 chasmed
 chasmic
 chasmogamy
@@ -22400,7 +22401,6 @@ conidiiferous
 conidioid
 conidiophorous
 conidiospore
-conidium
 conies
 conifer
 coniferin
