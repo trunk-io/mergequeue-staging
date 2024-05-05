@@ -4860,6 +4860,7 @@ balopticon
 bedsteads
 bedstock
 bedstraw
+batwing
 bedstraws
 beneighbored
 biliteral
@@ -13451,7 +13452,6 @@ bottu
 bathyscaphe
 bandstring
 botulin
-batwing
 babool
 botulins
 burring
