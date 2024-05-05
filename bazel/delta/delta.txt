@@ -222,7 +222,6 @@ daemonistic
 daemonology
 daemons
 daemonurgy
-daemonurgist
 daeva
 daff
 daffadilly
@@ -16595,6 +16594,7 @@ draghound
 draglines
 dispirit
 drago
+daemonurgist
 dragoman
 dragomanic
 dragomans
