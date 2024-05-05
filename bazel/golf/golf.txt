@@ -6106,6 +6106,7 @@ geoagronomic
 geostrategic
 glossocomium
 glucosin
+granat
 glucosine
 glucosulfone
 groaned
@@ -7890,7 +7891,6 @@ grapplers
 gully
 granaries
 grandiose
-granat
 gratias
 gouda
 ghostess
