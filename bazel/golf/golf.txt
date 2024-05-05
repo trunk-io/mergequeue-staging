@@ -680,6 +680,7 @@ gallywasp
 gallize
 gallnut
 gallnuts
+gizzen
 grooverhead
 gallocyanine
 galloglass
@@ -4962,7 +4963,6 @@ gizmos
 gizz
 glossanthrax
 gizzard
-gizzen
 gloeocapsoid
 gizzened
 gizzern
