@@ -4744,6 +4744,7 @@ carryout
 carryouts
 canadianisms
 carryover
+cloverleaves
 carryovers
 crossbelt
 carrys
@@ -16801,7 +16802,6 @@ clover
 clovered
 clovery
 cloverleaf
-cloverleaves
 cloverley
 cloveroot
 cloverroot
