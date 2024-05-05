@@ -18341,7 +18341,6 @@ cognates
 cognati
 cognatic
 cognatical
-cognation
 cognatus
 cognisability
 cognisable
@@ -27753,6 +27752,7 @@ coxier
 coxiest
 coxing
 coxite
+cognation
 coxitis
 coxocerite
 coxoceritic
