@@ -2509,7 +2509,6 @@ gemini
 geminid
 geminiflorous
 geminis
-geminorum
 geminous
 gemitores
 gemitorial
@@ -3554,6 +3553,7 @@ gervas
 gervase
 ges
 gunslinger
+geminorum
 guilds
 gesan
 gyre
