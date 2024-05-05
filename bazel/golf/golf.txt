@@ -6260,6 +6260,7 @@ gnatcatcher
 gnatflower
 gladen
 gnathalgia
+graplin
 gnathidium
 gnathism
 gnathite
@@ -8231,7 +8232,6 @@ graphotypic
 graphs
 grapiest
 graping
-graplin
 grapline
 graplines
 gimballed
