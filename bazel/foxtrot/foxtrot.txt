@@ -6409,7 +6409,6 @@ fluoridated
 flour
 folklike
 fungo
-fluoridating
 fluoridation
 fluoride
 fluoridisation
@@ -10661,6 +10660,7 @@ fie
 fruitstalk
 fruittime
 fruitwoman
+fluoridating
 flowery
 fretworked
 fruitwomen
