@@ -15846,6 +15846,7 @@ cleanskins
 cleanup
 cleanups
 clear
+counterswing
 clearable
 clearage
 clearance
@@ -27169,7 +27170,6 @@ corynocarpaceous
 countersunken
 countersurprise
 countersway
-counterswing
 corroded
 capeadores
 countertack
