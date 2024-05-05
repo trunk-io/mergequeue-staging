@@ -8179,7 +8179,6 @@ diadochokinesis
 diadokokinesis
 diadrom
 dialyzers
-diadrome
 diadromous
 dyads
 diadumenus
@@ -17533,6 +17532,7 @@ druggier
 druggiest
 drugging
 dormitive
+diadrome
 druggist
 druggister
 drugless
