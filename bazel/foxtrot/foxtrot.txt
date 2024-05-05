@@ -3115,7 +3115,6 @@ fices
 fichat
 freewheeler
 fiche
-fiches
 fichtean
 fichteanism
 fichtelite
@@ -10602,6 +10601,7 @@ fructosan
 fructose
 fructoside
 fructuary
+fiches
 fructuarius
 floralia
 frontwise
