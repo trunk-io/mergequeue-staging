@@ -17311,7 +17311,6 @@ apokatastatic
 apolar
 apolarity
 apolaustic
-apolegamic
 apolysin
 apolysis
 apolista
@@ -18946,6 +18945,7 @@ archfelon
 archfiends
 archfire
 archflamen
+apolegamic
 archflatterer
 archfoe
 archfool
