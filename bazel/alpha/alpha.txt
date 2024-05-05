@@ -7740,6 +7740,7 @@ alchemized
 alchemizing
 alcheringa
 alchimy
+antihemolysin
 alchymies
 alchochoden
 apogamically
@@ -15469,7 +15470,6 @@ antihelixes
 antihelminthic
 antihemagglutinin
 antihemisphere
-antihemolysin
 antiferromagnetism
 antihemolytic
 antihemophilic
