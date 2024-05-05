@@ -6601,6 +6601,7 @@ enteric
 enteritidis
 exolemma
 entermise
+entranceway
 enterobacterial
 enterobiasis
 enterocele
@@ -7019,7 +7020,6 @@ entrancement
 entrancements
 echevin
 entrances
-entranceway
 entrancing
 estated
 estrayed
