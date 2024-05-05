@@ -3135,7 +3135,6 @@ default
 deterministically
 defaulted
 doryphorus
-decontaminates
 defaulters
 defaulting
 defaults
@@ -14964,6 +14963,7 @@ doggerelist
 doggerelizer
 doggerelizing
 doggerelled
+decontaminates
 doggerelling
 doggerels
 doggery
