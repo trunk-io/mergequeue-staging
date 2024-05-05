@@ -13195,6 +13195,7 @@ dispraiser
 dispraisingly
 dispread
 dixit
+diaphoresis
 dispreader
 dispreading
 dispreads
@@ -14771,7 +14772,6 @@ doctus
 docudrama
 docudramas
 document
-diaphoresis
 decussate
 documentable
 damas
