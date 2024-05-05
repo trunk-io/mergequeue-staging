@@ -2309,7 +2309,6 @@ distances
 decess
 decession
 decessit
-decessor
 dechemicalization
 dechemicalize
 dechlog
@@ -14052,6 +14051,7 @@ dames
 disulfuret
 disulfuric
 disulphate
+decessor
 disulphid
 decompressing
 disulphide
