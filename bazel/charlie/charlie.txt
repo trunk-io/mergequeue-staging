@@ -9586,6 +9586,7 @@ checkstring
 checksum
 construct
 checksummed
+coffin
 checksumming
 checkup
 checkups
@@ -18252,7 +18253,6 @@ carretela
 cofferlike
 coffers
 cofferwork
-coffin
 coffing
 coffining
 coffinless
