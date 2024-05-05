@@ -2925,7 +2925,6 @@ barouchet
 barouchette
 barouni
 baroxyton
-barpost
 bossdoms
 barquantine
 barque
@@ -7376,6 +7375,7 @@ bethylidae
 bethink
 barquentine
 bethlehem
+barpost
 bethorn
 bethorned
 bettongia
