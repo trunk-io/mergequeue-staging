@@ -5114,6 +5114,7 @@ befits
 befitted
 befitting
 befittingly
+bipunctal
 blooming
 befittingness
 beflag
@@ -9346,7 +9347,6 @@ biprism
 byproduct
 byproducts
 bipropellant
-bipunctal
 bipunctate
 bipunctual
 bewet
