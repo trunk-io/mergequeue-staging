@@ -10857,7 +10857,6 @@ dirigibles
 dirigo
 dirigomotor
 dirity
-dirked
 dirks
 dirled
 delver
@@ -15063,6 +15062,7 @@ deft
 dohter
 doyen
 doyenne
+dirked
 doyens
 doigt
 disilicid
