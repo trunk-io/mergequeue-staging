@@ -10527,7 +10527,6 @@ frouziest
 frow
 fps
 froward
-frowardly
 formulise
 frowardness
 frower
@@ -11635,6 +11634,7 @@ fustian
 fas
 fustianist
 fustianize
+frowardly
 fustians
 fustic
 fustics
