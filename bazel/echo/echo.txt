@@ -8345,7 +8345,6 @@ enquirer
 epithalline
 epithamia
 epitheca
-ensorceling
 epithecal
 epithecia
 epithecium
@@ -8520,6 +8519,7 @@ emblematicalness
 eprise
 enfiladed
 epizoicide
+ensorceling
 eprouvette
 epruinose
 epsilons
