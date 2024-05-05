@@ -5189,7 +5189,6 @@ endogenetic
 enweaved
 endoenteritis
 erbiums
-endoenzyme
 endoergic
 endogalvanism
 endogamy
@@ -8003,6 +8002,7 @@ epimeritic
 evidenced
 eigenvector
 epimerize
+endoenzyme
 epimerized
 epimerizing
 exempla
