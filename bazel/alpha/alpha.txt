@@ -7261,7 +7261,6 @@ akka
 akkadian
 archhypocrisy
 akkadist
-akmite
 airproofing
 akmuddar
 aknee
@@ -23874,6 +23873,7 @@ autoalarm
 autoalkylation
 autoallogamy
 autoallogamous
+akmite
 autoanalysis
 autoanalytic
 autoantibody
