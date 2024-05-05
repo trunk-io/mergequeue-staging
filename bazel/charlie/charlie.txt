@@ -3422,7 +3422,6 @@ capuched
 capuches
 capuchins
 capucine
-capulet
 capuli
 capulin
 caput
@@ -12150,6 +12149,7 @@ chowtimes
 chozar
 clench
 chrematheism
+capulet
 chrematist
 chrematistic
 chrematistics
