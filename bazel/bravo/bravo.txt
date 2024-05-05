@@ -4181,7 +4181,6 @@ bears
 bearship
 bearskin
 bearskins
-beartongue
 bearward
 bearwood
 brilliants
@@ -10565,6 +10564,7 @@ balletic
 binoxalate
 blaze
 blazer
+beartongue
 blazers
 blazes
 blazy
