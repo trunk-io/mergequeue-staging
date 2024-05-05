@@ -2569,7 +2569,6 @@ gemologist
 gemologists
 gemonies
 gemot
-gemote
 gemots
 gems
 gained
@@ -8390,6 +8389,7 @@ gratuity
 gratuitous
 gneissitic
 gratuitously
+gemote
 gratuitousness
 gamecock
 gratulant
