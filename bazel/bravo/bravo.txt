@@ -10357,7 +10357,6 @@ blankest
 blanket
 blanketed
 bail
-blanketeer
 beetmister
 blanketer
 blanketers
@@ -14069,6 +14068,7 @@ brachyprism
 brachyprosopic
 brachypterous
 brachyrrhinia
+blanketeer
 brachysclereid
 brachyskelic
 brachysm
