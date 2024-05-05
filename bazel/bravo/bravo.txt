@@ -2962,6 +2962,7 @@ barraged
 barrages
 biflagelate
 barraging
+birdseye
 barragon
 bowle
 bedegar
@@ -9439,7 +9440,6 @@ birdnester
 birds
 birdsall
 birdseeds
-birdseye
 birdseyes
 birdshots
 birdsnest
