@@ -5126,7 +5126,6 @@ deflater
 deniers
 denies
 denigrated
-denigrates
 dobsonfly
 denigrating
 denigration
@@ -11053,6 +11052,7 @@ disappendancy
 disappendant
 distileries
 dissemble
+denigrates
 disappointed
 doctrinally
 disappointedly
