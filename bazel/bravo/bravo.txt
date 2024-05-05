@@ -1051,6 +1051,7 @@ bayesian
 bayeta
 bayete
 besetter
+bocklogged
 brutes
 baiginet
 blackgum
@@ -6358,7 +6359,6 @@ beaconage
 benzanilide
 benzanthracene
 benzanthrone
-bocklogged
 benzantialdoxime
 bellwort
 benzazimide
