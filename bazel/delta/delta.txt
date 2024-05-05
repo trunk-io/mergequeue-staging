@@ -12349,6 +12349,7 @@ dishonorer
 dishonoring
 diluvions
 dishonors
+doff
 dishonour
 dishonourable
 duckwing
@@ -14905,7 +14906,6 @@ doesnt
 doeth
 doeuvre
 daddock
-doff
 doffed
 dissention
 doffer
