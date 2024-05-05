@@ -5103,7 +5103,6 @@ eppie
 entities
 endocellular
 enshrine
-encuirassed
 edacious
 endoceras
 endoceratidae
@@ -8144,6 +8143,7 @@ ecologically
 epipterous
 entocondyloid
 epipubes
+encuirassed
 epipubis
 epirhizous
 epirogenetic

@@ -4111,7 +4111,6 @@ federatist
 firecracker
 firecrackers
 fizzling
-firecrest
 fired
 firedamp
 firedamps
@@ -5796,6 +5795,7 @@ farsang
 freestyle
 flocculable
 fangas
+firecrest
 fibroid
 fresh
 fiercly
