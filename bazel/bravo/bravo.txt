@@ -3631,6 +3631,7 @@ bathythermogram
 bathythermograph
 bathkol
 bathless
+bewater
 barbar
 bathman
 bathmats
@@ -7575,7 +7576,6 @@ bewared
 bemixed
 bewash
 bewaste
-bewater
 beweary
 bewearying
 beweep
