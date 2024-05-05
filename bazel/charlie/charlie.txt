@@ -3043,7 +3043,6 @@ caphtorim
 cocorico
 capias
 capiases
-capiatur
 capibara
 capybara
 capybaras
@@ -13637,6 +13636,7 @@ cymas
 cymatia
 cymation
 cymatium
+capiatur
 cymba
 cymbaeform
 cimbal
