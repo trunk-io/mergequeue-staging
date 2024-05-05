@@ -5455,7 +5455,6 @@ algesireceptor
 afflicter
 afflicting
 afflictingly
-affliction
 afflictionless
 afflictions
 afflictive
@@ -10386,6 +10385,7 @@ amentias
 amentiferae
 amentiferous
 aments
+affliction
 amentula
 amentum
 amenuse
