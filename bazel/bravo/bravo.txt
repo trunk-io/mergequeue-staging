@@ -10143,6 +10143,7 @@ beseechers
 blackguards
 blackgums
 bayadeer
+boating
 blackhead
 barramundis
 blackheads
@@ -11606,7 +11607,6 @@ boathouses
 boatyard
 boatyards
 boatie
-boating
 boatings
 boation
 boatkeeper
