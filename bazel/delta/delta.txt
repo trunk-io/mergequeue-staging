@@ -2606,7 +2606,6 @@ disidentify
 decolorized
 dispersonify
 decolorizer
-decolorizing
 decolors
 decolour
 decolouration
@@ -16673,6 +16672,7 @@ daemonic
 drainspout
 denominator
 draggingly
+decolorizing
 draintile
 drainway
 dialist
