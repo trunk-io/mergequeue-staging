@@ -4716,7 +4716,6 @@ boosterism
 bedimmed
 bespecklement
 bloodedness
-bedimming
 bilinigrin
 bedimple
 bedimpled
@@ -9576,6 +9575,7 @@ birthnight
 banalness
 birthplace
 birthrate
+bedimming
 birthright
 birthrights
 births
