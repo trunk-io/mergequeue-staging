@@ -2102,7 +2102,6 @@ decarbonizer
 decarboxylate
 decarboxylated
 decarboxylation
-desilicification
 decarboxylization
 daboya
 decarboxylize
@@ -16895,6 +16894,7 @@ dreaminess
 dreamingful
 dreamish
 dreamland
+desilicification
 dreamless
 dreamlessly
 doubleheader
