@@ -20,7 +20,6 @@ francolin
 fablemongering
 fabler
 fablers
-fabliaux
 fabling
 fabric
 fabricable
@@ -4352,6 +4351,7 @@ fishline
 fishlines
 fishling
 fishmeal
+fabliaux
 fishmeals
 fishnet
 fishnets
