@@ -4629,6 +4629,7 @@ bedboard
 bedbug
 bedbugs
 bedcase
+bravish
 bedchair
 bedchairs
 bedchamber
@@ -12792,7 +12793,6 @@ boon
 brumalia
 boondock
 boondocker
-bravish
 boondocks
 boondoggle
 boondoggled
