@@ -8159,7 +8159,6 @@ grapheme
 graphemes
 graphemic
 graphemically
-graphemics
 graphy
 graphical
 gallantries
@@ -8313,6 +8312,7 @@ grasslands
 glutaminase
 grassless
 gromatic
+graphemics
 grasslike
 grassman
 gentianic
