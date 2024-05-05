@@ -3640,6 +3640,7 @@ carbineers
 carbines
 carbinyl
 carbinol
+countertail
 carbinols
 carbo
 clubhauls
@@ -28807,7 +28808,6 @@ cresoxide
 cresphontes
 cress
 cressed
-countertail
 cresses
 cresset
 cressets
