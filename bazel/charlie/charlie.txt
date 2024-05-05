@@ -16239,7 +16239,6 @@ clingstones
 clinia
 clinic
 clinical
-clinically
 clinician
 clinicians
 condensations
@@ -25506,6 +25505,7 @@ coronel
 coroner
 coronership
 coronet
+clinically
 coroneted
 coronetlike
 coronets
