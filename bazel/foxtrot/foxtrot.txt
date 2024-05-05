@@ -52,6 +52,7 @@ facaded
 faceable
 facebow
 facebread
+farms
 facecloth
 faced
 faceless
@@ -1073,7 +1074,6 @@ francisca
 fisc
 farmplace
 finials
-farms
 farmscape
 farmstead
 farmsteads

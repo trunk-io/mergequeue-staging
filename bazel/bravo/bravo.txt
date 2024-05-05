@@ -3545,7 +3545,6 @@ batches
 bate
 bargemen
 batea
-bateau
 bateaux
 bated
 bateful
@@ -17337,6 +17336,7 @@ bundies
 bundist
 bundists
 bundled
+bateau
 bundler
 bona
 bundlers
