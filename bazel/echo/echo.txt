@@ -2498,6 +2498,7 @@ electromechanics
 electromedical
 esquireship
 electromer
+equivalenced
 electromeric
 electromerism
 electrometallurgical
@@ -8793,7 +8794,6 @@ equivale
 electrootiatrics
 equivalence
 economizing
-equivalenced
 equivalences
 equivalency
 equivalencies
