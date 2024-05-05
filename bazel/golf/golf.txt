@@ -5426,7 +5426,6 @@ glycerins
 glumiflorae
 glycerite
 glycerize
-glycerizin
 glycerogel
 glycerole
 glycerolyses
@@ -7364,6 +7363,7 @@ goster
 got
 gotch
 gotched
+glycerizin
 gote
 goter
 gotham
