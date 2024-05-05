@@ -2222,6 +2222,7 @@ gearset
 gearshift
 gearshifts
 genethliacally
+glaringness
 gearwheel
 gearwheels
 glistening
@@ -10343,7 +10344,6 @@ gulmohar
 gurglet
 gulo
 gulonic
-glaringness
 glebe
 gulosity
 greasebush
