@@ -3847,7 +3847,6 @@ bauk
 baul
 bauld
 bibliotic
-baulea
 bauleah
 baulked
 balsamy
@@ -5706,6 +5705,7 @@ belick
 belicoseness
 belie
 belied
+baulea
 beliefful
 belieffulness
 beliefless
