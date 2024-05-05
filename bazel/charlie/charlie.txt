@@ -4881,7 +4881,6 @@ cartoning
 cartonnage
 cartonnier
 cartons
-cartoon
 cartooned
 cartooning
 cartoonist
@@ -23167,6 +23166,7 @@ constringent
 construability
 construable
 construal
+cartoon
 constructable
 constructed
 controversy
