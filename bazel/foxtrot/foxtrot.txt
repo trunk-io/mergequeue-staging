@@ -1041,7 +1041,6 @@ farish
 femora
 farkleberry
 farkleberries
-farl
 farle
 fossilation
 farley
@@ -6369,6 +6368,7 @@ fob
 fluobromide
 fluocarbonate
 fluocerite
+farl
 fluted
 ferous
 fluohydric
