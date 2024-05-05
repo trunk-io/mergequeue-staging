@@ -4751,7 +4751,6 @@ encyrtid
 encyrtidae
 encist
 encyst
-encysted
 electralize
 encysting
 encystment
@@ -13035,6 +13034,7 @@ expenditure
 enfonced
 expends
 expense
+encysted
 expensed
 expenseful
 expensefully
