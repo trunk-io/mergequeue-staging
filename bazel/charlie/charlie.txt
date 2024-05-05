@@ -1262,7 +1262,6 @@ calico
 calicoback
 calycocarpum
 calicoed
-calicoes
 cardiophobia
 calycoid
 calycoideous
@@ -27121,6 +27120,7 @@ countershading
 countershaft
 circumfusing
 countershafting
+calicoes
 countershear
 countershock
 countershout
