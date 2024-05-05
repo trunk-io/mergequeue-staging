@@ -8737,6 +8737,7 @@ emprosthotonus
 edam
 equipollent
 equipollently
+examination
 equipollentness
 equiponderant
 equiponderate
@@ -10724,7 +10725,6 @@ eucirripedia
 euclase
 euclases
 euclea
-examination
 eucleid
 euclid
 euclidean
