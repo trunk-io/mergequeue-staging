@@ -289,7 +289,6 @@ easternmost
 easters
 elne
 eastertide
-easting
 eastings
 eastlake
 eastlander
@@ -9084,6 +9083,7 @@ epicranium
 erioglaucine
 equiparation
 entoil
+easting
 eriogonum
 eriometer
 eryon
