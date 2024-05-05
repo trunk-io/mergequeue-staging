@@ -6365,7 +6365,6 @@ caver
 cavernal
 cystein
 caverned
-cavernicolous
 caverning
 cavernitis
 cavernlike
@@ -21508,6 +21507,7 @@ concorporating
 concorporation
 concorrezanes
 concours
+cavernicolous
 concourse
 concourses
 concreate
