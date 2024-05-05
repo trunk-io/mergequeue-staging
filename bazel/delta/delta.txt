@@ -7584,6 +7584,7 @@ devexity
 devi
 deviability
 deviable
+dyadics
 deviance
 deviances
 dsnames
@@ -8168,7 +8169,6 @@ dromons
 diadic
 dyadic
 dyadically
-dyadics
 diadkokinesia
 diadochy
 diadochian
