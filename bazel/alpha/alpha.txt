@@ -4340,7 +4340,6 @@ autotheist
 adoperation
 adoptability
 adoptable
-adoptant
 adoptative
 adopted
 archmock
@@ -4732,6 +4731,7 @@ advertizes
 advice
 advices
 advisability
+adoptant
 advisableness
 antiliturgic
 advisably
