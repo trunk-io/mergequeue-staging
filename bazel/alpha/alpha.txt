@@ -20131,6 +20131,7 @@ aromata
 aromatic
 aromatical
 aromatically
+auxochromous
 aromaticity
 actinosoma
 aromatics
@@ -24549,7 +24550,6 @@ arsinoitherium
 auxochrome
 auxochromic
 auxochromism
-auxochromous
 auxocyte
 auxoflore
 auxofluor
