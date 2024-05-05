@@ -2332,7 +2332,6 @@ electrocautery
 electroceramic
 emmensite
 electrochemical
-electrochemically
 electrochemist
 electrochronograph
 electrochronometer
@@ -6496,6 +6495,7 @@ ensuance
 ensuant
 ensues
 ensuing
+electrochemically
 emarcid
 englishman
 ensuingly
