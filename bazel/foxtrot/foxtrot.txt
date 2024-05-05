@@ -423,7 +423,6 @@ faithfulness
 foodstuff
 faithless
 faithlessly
-faithlessness
 faithwise
 fossilise
 fidgety
@@ -9035,6 +9034,7 @@ flagellates
 fourscore
 fourscorth
 foursquare
+faithlessness
 foursquarely
 foursquareness
 fullymart
