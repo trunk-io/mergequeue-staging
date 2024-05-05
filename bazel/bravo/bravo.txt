@@ -1885,7 +1885,6 @@ banally
 banana
 barley
 bananaland
-bananalander
 bananas
 banande
 bananist
@@ -4699,6 +4698,7 @@ brobdingnag
 bedframe
 bedframes
 bedgery
+bananalander
 bedgoer
 bedgown
 bedgowns
