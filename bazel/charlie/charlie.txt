@@ -5899,7 +5899,6 @@ cathetometric
 cathetus
 cathexes
 cathexion
-cathexis
 cathin
 cathine
 cathinine
@@ -6623,6 +6622,7 @@ celation
 coto
 cabler
 celative
+cathexis
 celature
 cele
 celeb
