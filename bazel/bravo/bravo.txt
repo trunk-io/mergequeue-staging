@@ -3056,7 +3056,6 @@ byous
 bracteolate
 barrio
 barrios
-barrister
 botts
 barristers
 barristership
@@ -13180,6 +13179,7 @@ bosjesman
 boskage
 beflap
 bessy
+barrister
 begetter
 bottlebrush
 breunnerite
