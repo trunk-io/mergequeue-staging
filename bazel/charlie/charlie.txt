@@ -6227,7 +6227,6 @@ causative
 causatively
 causativeness
 causator
-causatum
 cause
 caused
 causeful
@@ -8645,6 +8644,7 @@ chandul
 chane
 chestier
 chaneled
+causatum
 chaneling
 chanelled
 chanfrin
