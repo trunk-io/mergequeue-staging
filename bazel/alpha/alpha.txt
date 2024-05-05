@@ -3799,7 +3799,6 @@ adenoviral
 adenovirus
 adenoviruses
 adeodatus
-adeona
 adephaga
 adephagan
 adephagia
@@ -18565,6 +18564,7 @@ athapaskan
 arawakian
 arb
 arba
+adeona
 arbacia
 arbacin
 arbalest
