@@ -3104,6 +3104,7 @@ geohydrology
 geohydrologic
 gnashingly
 geoid
+groundspeed
 geoidal
 grammontine
 geoids
@@ -9445,7 +9446,6 @@ groundsheet
 groundsill
 gemological
 galactolytic
-groundspeed
 gigantolite
 groundswell
 garde
