@@ -4462,7 +4462,6 @@ enbloc
 enbranglement
 enbrave
 enbusshe
-enc
 eddie
 encadre
 encaenia
@@ -13252,6 +13251,7 @@ enigmatization
 eisegesis
 explosimeter
 englishmen
+enc
 efforce
 explosion
 explosionist
