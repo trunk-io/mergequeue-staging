@@ -5554,7 +5554,6 @@ cataphonic
 cataphonics
 cataphoresis
 cataphoretic
-cataphoretically
 cataphoria
 cataphoric
 cataphract
@@ -9205,6 +9204,7 @@ chartulary
 chartularies
 chartulas
 clinamen
+cataphoretically
 charuk
 charvet
 charwoman

@@ -2892,6 +2892,7 @@ genro
 gens
 genseng
 gensengs
+googols
 gentamicin
 genteel
 garotters
@@ -6857,7 +6858,6 @@ gonydial
 gonidic
 gonidiferous
 gonidiogenous
-googols
 ghaist
 gonidioid
 grouseberry
