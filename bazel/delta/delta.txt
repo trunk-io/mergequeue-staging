@@ -8208,7 +8208,6 @@ diagnosticating
 dumpfile
 diagnostication
 diagnostics
-diagometer
 diagonal
 damndest
 dures
@@ -15071,6 +15070,7 @@ doigt
 disilicid
 doyle
 doiled
+diagometer
 deviationist
 doyley
 doily
