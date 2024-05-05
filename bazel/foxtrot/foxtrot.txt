@@ -3325,7 +3325,6 @@ friarhood
 fieldwort
 fiendful
 fiendfully
-fiendhead
 fiendish
 foreprepare
 fiendishly
@@ -9316,6 +9315,7 @@ flandan
 frambesia
 frame
 faunological
+fiendhead
 filiating
 framea
 frameae
