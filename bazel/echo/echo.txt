@@ -1869,6 +1869,7 @@ enlaced
 englishing
 eyewitness
 eyewitnesses
+exponentiate
 evehood
 eiffel
 eigenfrequency
@@ -13268,7 +13269,6 @@ exponent
 exponential
 exponentially
 exponentials
-exponentiate
 exponentiated
 esparsette
 ectocyst
