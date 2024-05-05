@@ -8518,6 +8518,7 @@ chamos
 chamosite
 chamotte
 champ
+coherence
 champa
 champac
 champaca
@@ -18438,7 +18439,6 @@ cohens
 coherald
 cohere
 cohered
-coherence
 coherency
 cataractal
 coherent
