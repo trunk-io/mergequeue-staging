@@ -3974,7 +3974,6 @@ entreaty
 emittent
 emitting
 emlen
-emma
 emmanuel
 emmarble
 emmarbling
@@ -10727,6 +10726,7 @@ euphenics
 ethanols
 eucirripedia
 euclase
+emma
 euclases
 euclea
 examination
