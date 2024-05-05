@@ -9035,6 +9035,7 @@ chariotry
 chariots
 chariotway
 commercialised
+chromophane
 charism
 coked
 charisma
@@ -12545,7 +12546,6 @@ chromonemic
 chalcolithic
 chromoparous
 chromophage
-chromophane
 chromophil
 chromophile
 creancer
