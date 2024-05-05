@@ -4523,7 +4523,6 @@ carosse
 carot
 caramelizing
 caroteel
-carotene
 carotenes
 chaser
 carotenoid
@@ -14174,6 +14173,7 @@ circinately
 circiter
 circle
 circled
+carotene
 cardcastle
 casemate
 circler
