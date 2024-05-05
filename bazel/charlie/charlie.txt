@@ -5740,7 +5740,6 @@ category
 categorial
 concaulescence
 categorical
-categoricalness
 categories
 categorisation
 categorise
@@ -11470,6 +11469,7 @@ choiak
 choiceful
 choiceless
 choicelessness
+categoricalness
 choicely
 choiceness
 choicer
