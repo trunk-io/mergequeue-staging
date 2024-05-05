@@ -1004,7 +1004,6 @@ darioles
 darius
 dark
 darked
-darkey
 darkeys
 darken
 darkener
@@ -18661,6 +18660,7 @@ damaskeen
 dwelling
 dwellings
 dwells
+darkey
 displaced
 dwelt
 dwight
