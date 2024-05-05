@@ -2055,6 +2055,7 @@ decanonization
 decanonize
 decanormal
 disselboom
+druttle
 decant
 decantate
 decanted
@@ -17655,7 +17656,6 @@ dubhe
 drusy
 druther
 druthers
-druttle
 druxey
 druxy
 dulcification
