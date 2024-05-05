@@ -11546,6 +11546,7 @@ cholecalciferol
 cholecyanine
 cholecyst
 cholecystectasia
+consulted
 cholecystectomy
 cholecystectomized
 cholecystenterorrhaphy
@@ -23242,7 +23243,6 @@ consultation
 consultations
 consultative
 consultatively
-consulted
 consultee
 consulter
 consultive
