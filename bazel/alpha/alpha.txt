@@ -58,7 +58,6 @@ anarchism
 abaction
 abaculi
 aday
-abaculus
 abacus
 abacuses
 apotheosising
@@ -14668,6 +14667,7 @@ anthropidae
 anthropobiology
 anthropobiologist
 anthropocentric
+abaculus
 anthropocentrically
 antwerp
 anthropocentricity
