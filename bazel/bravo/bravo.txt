@@ -1213,7 +1213,6 @@ bakehouse
 brachycrany
 bakehouses
 bactericidin
-bakelite
 bakelize
 borley
 bakemeat
@@ -3719,6 +3718,7 @@ batrachite
 birostrated
 batrachium
 batrachoid
+bakelite
 breeding
 barotropic
 batrachoididae
