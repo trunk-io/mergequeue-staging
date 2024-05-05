@@ -1151,7 +1151,6 @@ fisticuffery
 fascicular
 fooyung
 fascicularly
-fasciculate
 fasciculated
 fascicule
 fasciculite
@@ -7543,6 +7542,7 @@ forechamber
 forechase
 forechoice
 fourflusher
+fasciculate
 foregame
 forechoose
 foretooth
