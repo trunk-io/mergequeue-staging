@@ -1322,6 +1322,7 @@ daunt
 daunted
 demissive
 daunting
+diglottism
 dauntingly
 distastes
 dauntingness
@@ -9547,7 +9548,6 @@ diglyphic
 diglossia
 diglot
 diglottic
-diglottism
 demove
 diglottist
 diglucoside
