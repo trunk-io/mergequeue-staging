@@ -2733,7 +2733,6 @@ genet
 genethliacal
 gripper
 glycans
-genethliacon
 genethliacs
 genethlialogy
 genethlialogic
@@ -5147,6 +5146,7 @@ glamourizer
 glamourous
 glamours
 glance
+genethliacon
 glanced
 gynecomazia
 glancer
