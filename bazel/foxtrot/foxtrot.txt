@@ -2855,7 +2855,6 @@ feudality
 fractiously
 feudalities
 feudalization
-feudalize
 flatways
 forelock
 feudalized
@@ -6185,6 +6184,7 @@ flowstone
 flu
 finalize
 fluavile
+feudalize
 flub
 flubbed
 flubdub
