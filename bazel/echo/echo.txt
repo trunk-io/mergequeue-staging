@@ -2245,7 +2245,6 @@ elected
 enthraldom
 electees
 electic
-electing
 electionary
 equoidean
 electioneer
@@ -5546,6 +5545,7 @@ energizers
 energizes
 energizing
 ethanethiol
+electing
 ergastoplasm
 energumenon
 enervated
