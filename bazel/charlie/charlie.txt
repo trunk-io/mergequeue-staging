@@ -4200,7 +4200,6 @@ caryatid
 caryatidal
 caryatidean
 caryatides
-caryatidic
 caryatids
 carib
 caribal
@@ -28959,6 +28958,7 @@ crickety
 clouee
 cricketings
 cricketlike
+caryatidic
 crickets
 cricking
 crickle

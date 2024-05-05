@@ -3409,6 +3409,7 @@ embeam
 extinction
 echinid
 embed
+enlargeableness
 embedded
 embedder
 elaidinic
@@ -6032,7 +6033,6 @@ exiguities
 enlarge
 esox
 enlargeable
-enlargeableness
 enlarged
 eyed
 enhaloed
