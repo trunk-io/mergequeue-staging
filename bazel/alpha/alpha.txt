@@ -11891,6 +11891,7 @@ analyzation
 analyze
 analyzed
 analyzer
+atimy
 analyzers
 analyzes
 analyzing
@@ -22663,7 +22664,6 @@ athwartwise
 arhar
 atikokania
 atilt
-atimy
 atimon
 ating
 atinga
