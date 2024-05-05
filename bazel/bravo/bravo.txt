@@ -951,7 +951,6 @@ bagobo
 bagonet
 bagong
 bagoong
-bagpipe
 bagpiped
 bijou
 bagpiper
@@ -4789,6 +4788,7 @@ bedragglement
 bedraggles
 boshboks
 bedrail
+bagpipe
 bogway
 bedrails
 bedral
