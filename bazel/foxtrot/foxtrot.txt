@@ -6637,7 +6637,6 @@ foliary
 fobs
 fertiliser
 focal
-focalisation
 focalised
 focalising
 focalization
@@ -9062,6 +9061,7 @@ forebitter
 firetrap
 foveation
 foveiform
+focalisation
 flatwashes
 foveolar
 fibrinose
