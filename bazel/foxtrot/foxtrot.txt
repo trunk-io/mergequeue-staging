@@ -5009,7 +5009,6 @@ flashtubes
 ferricyanhydric
 fidia
 flasker
-fortitudes
 fictionizing
 forthbringer
 flasket
@@ -6523,6 +6522,7 @@ flustrate
 flurry
 flustrating
 forcipated
+fortitudes
 footnoting
 flustration
 farmhands
