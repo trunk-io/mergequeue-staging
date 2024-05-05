@@ -15565,7 +15565,6 @@ antilethargic
 abcoulomb
 aeronautically
 antileukemic
-antileveling
 antilevelling
 antilia
 antiliberal
@@ -23173,6 +23172,7 @@ attrib
 attributable
 attributer
 attributes
+antileveling
 attributing
 attribution
 attributional
