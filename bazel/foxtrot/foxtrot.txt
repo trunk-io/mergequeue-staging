@@ -2638,7 +2638,6 @@ fertilizational
 forewaters
 fertilizations
 failings
-fertilize
 featherlike
 fertilizer
 flabellinerved
@@ -8432,6 +8431,7 @@ fartlek
 fut
 formicate
 fingallian
+fertilize
 formicated
 fragments
 fishing
