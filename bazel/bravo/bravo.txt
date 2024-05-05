@@ -201,7 +201,6 @@ baccalaureus
 bacteriotoxic
 baccar
 brahui
-bdrm
 baccaras
 broadthroat
 biased
@@ -1237,6 +1236,7 @@ bakeshop
 bakeshops
 bakestone
 bakhtiari
+bdrm
 bakie
 baking
 bimensal
