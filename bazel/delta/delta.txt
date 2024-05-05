@@ -5479,6 +5479,7 @@ deoxidative
 dibbles
 deoxidator
 deoxidisation
+depopulator
 disulfids
 deoxidise
 deoxidised
@@ -5770,7 +5771,6 @@ deliberator
 depopulations
 depopulative
 decastich
-depopulator
 depopulators
 deport
 deportability

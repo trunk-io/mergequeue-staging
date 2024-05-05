@@ -4389,7 +4389,6 @@ foreshorten
 fissile
 fissilingual
 flourescent
-formicid
 fissilinguia
 fissility
 fission
@@ -5523,6 +5522,7 @@ flickerproof
 flickers
 fatigating
 flickertail
+formicid
 flicky
 flidge
 flyeater
