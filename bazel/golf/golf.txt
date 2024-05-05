@@ -1771,7 +1771,6 @@ gastroduodenostomy
 gastroduodenostomies
 gastroduodenotomy
 gastroelytrotomy
-geol
 gastroenteralgia
 geochemically
 gastroenteric
@@ -9343,6 +9342,7 @@ gyneolater
 grackle
 grossart
 grosse
+geol
 grossed
 grossen
 grandmotherism
