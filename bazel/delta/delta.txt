@@ -1924,7 +1924,6 @@ debussyanize
 debussing
 downligging
 debutante
-downcastly
 debutantes
 dragbar
 debutants
@@ -14727,6 +14726,7 @@ doctorhood
 doctorial
 doctorially
 doctoring
+downcastly
 doctorization
 doctorize
 doctorless
