@@ -1107,7 +1107,6 @@ edictal
 edictally
 edicts
 exalters
-edictum
 edicule
 ediface
 edify
@@ -7018,6 +7017,7 @@ entrainment
 emulsive
 enigmatical
 entrains
+edictum
 entrammel
 entranced
 entrancedly

@@ -4527,7 +4527,6 @@ demigardebras
 demigauntlet
 demigentleman
 demiglace
-demigod
 demigods
 demigorge
 diagnoses
@@ -7970,6 +7969,7 @@ dhan
 dhanuk
 dhanush
 dhanvantari
+demigod
 dharani
 dharma
 dharmas
