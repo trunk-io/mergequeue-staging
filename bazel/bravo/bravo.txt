@@ -5940,7 +5940,6 @@ beltmaker
 beltmaking
 binervate
 beltway
-beltways
 belucki
 belue
 beluga
@@ -14379,6 +14378,7 @@ braystone
 braize
 braizes
 brakeages
+beltways
 bugleweed
 braked
 brakehead
