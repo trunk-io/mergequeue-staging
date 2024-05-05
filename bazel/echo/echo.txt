@@ -8327,7 +8327,6 @@ epitaxis
 epitela
 epitendineum
 epitenon
-epithalami
 epithalamy
 epithalamia
 epithalamial
@@ -10335,6 +10334,7 @@ ethicalism
 execrates
 ethicalities
 ethically
+epithalami
 ethicalness
 ethicals
 ethician
