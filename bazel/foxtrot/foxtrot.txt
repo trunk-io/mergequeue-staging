@@ -4124,6 +4124,7 @@ firedrake
 firefall
 firefang
 firefanged
+fenceful
 firefight
 firefighter
 firefighting
@@ -11276,7 +11277,6 @@ funnier
 felicitators
 funniest
 funnily
-fenceful
 funnyman
 funnymen
 funniment
