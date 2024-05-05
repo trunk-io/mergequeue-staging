@@ -17580,7 +17580,6 @@ apothesis
 apothgm
 apotihecal
 apotype
-apotypic
 apotome
 apotracheal
 apotropaic
@@ -19266,6 +19265,7 @@ arcosolium
 amidoxy
 arcs
 arcsin
+apotypic
 arcsine
 arctalia
 arctalian
