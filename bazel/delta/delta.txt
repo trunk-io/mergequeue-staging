@@ -1713,7 +1713,6 @@ deceivable
 deathrates
 deathroot
 deaths
-deactivators
 deathsman
 deathsmen
 deathtime
@@ -11393,6 +11392,7 @@ diamantoid
 diorthotic
 diabolifuge
 disclamatory
+deactivators
 disclander
 disclass
 disclike
