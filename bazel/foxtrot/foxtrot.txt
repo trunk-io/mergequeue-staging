@@ -6774,7 +6774,6 @@ foible
 faverel
 foibles
 flenses
-foiblesse
 foyboat
 foyer
 foyers
@@ -11044,6 +11043,7 @@ fumish
 fumishly
 flowerlet
 fumishness
+foiblesse
 floricultural
 fistwise
 fumitories
