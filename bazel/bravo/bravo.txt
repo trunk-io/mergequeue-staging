@@ -4258,7 +4258,6 @@ burgle
 beatless
 beatnik
 beatniks
-beatrice
 beatrix
 brattice
 beats
@@ -8948,6 +8947,7 @@ biocoenose
 biocoenoses
 biocoenosis
 biocoenotic
+beatrice
 biocontrol
 biodegradability
 biodegradable
