@@ -7401,7 +7401,6 @@ epanorthidae
 epanorthosis
 exocoele
 epanthous
-epapillate
 epapophysis
 epappose
 eparch
@@ -8618,6 +8617,7 @@ encincture
 equiatomic
 equiaxe
 equibalanced
+epapillate
 eelblenny
 equibiradiate
 equicaloric
