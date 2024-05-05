@@ -3156,7 +3156,6 @@ actinoelectricity
 actinogonidiate
 actinogram
 actinograph
-actinography
 actinographic
 apomorphin
 actinoida
@@ -9916,6 +9915,7 @@ adorally
 amarant
 amarantaceae
 amarantaceous
+actinography
 amaranthaceae
 amaranthaceous
 amaranthine
