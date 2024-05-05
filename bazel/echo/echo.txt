@@ -1631,7 +1631,6 @@ ennoble
 egoist
 egoistic
 egoistical
-egoistically
 egoisticalness
 egoistry
 exemplifies
@@ -12559,6 +12558,7 @@ exigent
 escortment
 exigenter
 exigently
+egoistically
 exigible
 exiguity
 exiguously
