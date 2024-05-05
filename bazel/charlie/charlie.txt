@@ -10904,6 +10904,7 @@ chips
 chipwood
 chiquero
 chiquest
+crosses
 chiquitan
 chiquito
 chiragra
@@ -29845,7 +29846,6 @@ crosscutting
 crosse
 crossed
 crosser
-crosses
 crossest
 crossette
 coping
