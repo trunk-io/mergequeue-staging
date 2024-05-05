@@ -6162,7 +6162,6 @@ deriving
 derk
 derma
 diazole
-dermabrasion
 dermacentor
 dermad
 dermal
@@ -14016,6 +14015,7 @@ disfame
 distrusting
 dominule
 distrustingly
+dermabrasion
 distrusts
 disturb
 disturbance
