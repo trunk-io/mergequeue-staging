@@ -1854,7 +1854,6 @@ aminoethionic
 acculturized
 acculturizing
 accum
-accumb
 accumbency
 accumbent
 accumber
@@ -19946,6 +19945,7 @@ aristos
 armband
 armbands
 armbone
+accumb
 armchair
 armchaired
 armed

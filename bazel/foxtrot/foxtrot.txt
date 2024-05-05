@@ -10088,7 +10088,6 @@ frillings
 frills
 frimaire
 frimitts
-foredevote
 fringe
 fringed
 fringefoot
@@ -11489,6 +11488,7 @@ foliating
 furrure
 fursemide
 foreglimpse
+foredevote
 fiord
 furstone
 fretworks
