@@ -7327,7 +7327,6 @@ cephalochord
 cephalochorda
 cephalochordal
 cephalochordata
-cephalochordate
 cephalocyst
 cephaloclasia
 cantingly
@@ -10000,6 +9999,7 @@ cheniller
 chenilles
 chenopodiaceae
 crews
+cephalochordate
 chenopodiaceous
 chenopodiales
 chenopodium
