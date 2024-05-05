@@ -10493,6 +10493,7 @@ amhran
 attribute
 ami
 asherites
+attenuates
 araba
 amy
 amia
@@ -23053,7 +23054,6 @@ attenuant
 adusk
 attenuated
 axunge
-attenuates
 attenuating
 attenuation
 attenuations
