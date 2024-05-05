@@ -6662,6 +6662,7 @@ browed
 beret
 berets
 beretta
+brocage
 berettas
 berewick
 berg
@@ -15629,7 +15630,6 @@ brocade
 bridgeward
 brocaded
 brocades
-brocage
 brocard
 ballerine
 brocatel
