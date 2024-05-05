@@ -3922,6 +3922,7 @@ cardiacs
 cardiae
 cardiagra
 cardiagram
+cigaret
 cardiagraph
 cardiagraphy
 cardialgy
@@ -13515,7 +13516,6 @@ cig
 cigale
 cigar
 cigaresque
-cigaret
 cigarette
 cigarettes
 cise
