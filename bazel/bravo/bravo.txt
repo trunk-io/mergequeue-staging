@@ -10826,7 +10826,6 @@ bleu
 blew
 blewits
 bliaut
-blibe
 blick
 blickey
 blickeys
@@ -15407,6 +15406,7 @@ balut
 brinjarries
 brinjaul
 busybodied
+blibe
 bullfights
 brink
 baisakh
