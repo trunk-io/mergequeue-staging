@@ -7358,7 +7358,6 @@ cephalomeningitis
 cephalomere
 cephalometer
 cephalometry
-cephalometric
 cephalomyitis
 cephalomotor
 cephalon
@@ -27148,6 +27147,7 @@ counterspies
 counterspying
 counterstain
 counterstamp
+cephalometric
 counterstatement
 counterstatute
 counterstep
