@@ -2580,6 +2580,7 @@ cannery
 canneries
 cannet
 cannetille
+clonothrix
 canny
 cannibal
 cannibalish
@@ -16629,7 +16630,6 @@ clonorchiasis
 clonorchis
 chapeaus
 clonos
-clonothrix
 clons
 clonus
 clonuses
