@@ -5525,7 +5525,6 @@ departed
 differentiated
 departement
 dwining
-departements
 departer
 departing
 departition
@@ -15475,6 +15474,7 @@ donia
 donicker
 dendritically
 donjon
+departements
 donjons
 donk
 donkey
