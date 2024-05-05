@@ -1815,7 +1815,6 @@ balu
 baluba
 baluch
 baluchistan
-baluchithere
 brittle
 barytone
 baluchitheria
@@ -17671,6 +17670,7 @@ bedroom
 burgout
 burgouts
 burgraves
+baluchithere
 burgul
 burgullian
 burgundy
