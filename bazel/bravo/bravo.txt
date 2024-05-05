@@ -4539,7 +4539,6 @@ becrawl
 becrawled
 becrawling
 becreep
-boomeranged
 becry
 bleery
 becrime
@@ -13945,6 +13944,7 @@ brace
 bracelet
 braceleted
 basophile
+boomeranged
 bracelets
 bracery
 bracero
