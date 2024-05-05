@@ -3945,7 +3945,6 @@ emirate
 exergues
 emirates
 emirs
-endosternite
 emirship
 equinovarus
 emissary
@@ -5402,6 +5401,7 @@ endothelium
 endotheloid
 endotherm
 endothermal
+endosternite
 endothermy
 endothermic
 endothermism
