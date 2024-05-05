@@ -7632,7 +7632,6 @@ cerebrosensorial
 cerebroside
 cerebrosis
 cerebrospinal
-cerebrospinant
 cerebrosuria
 cerebrotomy
 cerebrotonia
@@ -31586,6 +31585,7 @@ curveball
 curved
 curvedly
 curver
+cerebrospinant
 curves
 curvesome
 curvesomeness
