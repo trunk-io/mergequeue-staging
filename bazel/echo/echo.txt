@@ -1549,7 +1549,6 @@ egeria
 egers
 eqpt
 egest
-egesta
 enfranchising
 egesting
 egestions
@@ -2188,6 +2187,7 @@ elbowroom
 elbows
 elbuck
 emendating
+egesta
 elcaja
 elchee
 eld
