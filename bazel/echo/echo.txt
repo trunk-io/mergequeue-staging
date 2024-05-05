@@ -3177,7 +3177,6 @@ eluate
 eluated
 eluating
 elucid
-elucidate
 esperantido
 elucidated
 echoed
@@ -13380,6 +13379,7 @@ emblazoner
 expromission
 expropriable
 epidermatous
+elucidate
 expropriate
 expropriated
 equestriennes
