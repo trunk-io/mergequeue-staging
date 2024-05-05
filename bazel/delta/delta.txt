@@ -3176,7 +3176,6 @@ defecting
 diplomacy
 denicotinizes
 defection
-defectionist
 defections
 defectious
 dismarry
@@ -15307,6 +15306,7 @@ domesticator
 domesticity
 disenactment
 domesticities
+defectionist
 domesticize
 domestics
 domett
