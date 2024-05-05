@@ -4670,6 +4670,7 @@ adverbless
 adverbs
 adversa
 adversary
+atwain
 adversaria
 adversarial
 adversaries
@@ -23204,7 +23205,6 @@ atturn
 atua
 atumble
 atveen
-atwain
 atweel
 atween
 atwind
