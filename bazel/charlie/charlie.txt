@@ -6352,7 +6352,6 @@ caveating
 caveator
 caveators
 caveats
-caved
 captiving
 cavefish
 cavey
@@ -26810,6 +26809,7 @@ calelectricity
 counterembowed
 counterend
 counterenergy
+caved
 counterengagement
 counterenthusiasm
 counterentry
