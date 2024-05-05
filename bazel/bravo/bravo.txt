@@ -2827,6 +2827,7 @@ barnstormer
 barnstormers
 barnstorming
 birdhouse
+bounceable
 barnstorms
 barnumism
 barnumize
@@ -13545,7 +13546,6 @@ boulterer
 boun
 bantams
 bounce
-bounceable
 bounceably
 bounceback
 bounced
