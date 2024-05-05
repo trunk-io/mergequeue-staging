@@ -5413,7 +5413,6 @@ affinely
 affines
 affinitative
 affinitatively
-aggerate
 affinity
 affinities
 affinition
@@ -13207,6 +13206,7 @@ algraphic
 anhydrotic
 anhydrously
 anhydroxime
+aggerate
 anhima
 anhimae
 anhimidae

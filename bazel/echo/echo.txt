@@ -2262,7 +2262,6 @@ electo
 extracalendar
 elector
 electoral
-electorally
 electorate
 electorates
 electors
@@ -5832,6 +5831,7 @@ engraft
 engrafted
 engrafter
 engrafting
+electorally
 engraftment
 engrafts
 engrailed
