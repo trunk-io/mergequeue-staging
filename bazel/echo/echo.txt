@@ -4221,6 +4221,7 @@ eupolidean
 executable
 endameba
 empodium
+esophagotomy
 empoison
 encaustes
 empoisonment
@@ -8850,7 +8851,6 @@ eradicable
 eradicably
 eradicate
 eradicated
-esophagotomy
 eradicating
 eradications
 enflagellate
