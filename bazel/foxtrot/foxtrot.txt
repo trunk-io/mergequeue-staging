@@ -790,6 +790,7 @@ fanglet
 fanglike
 fanglomerate
 frizado
+flyable
 fango
 fangotherapy
 filarian
@@ -3241,7 +3242,6 @@ fleshing
 fidelis
 fidelity
 fidelities
-flyable
 fullmouthedly
 fideos
 fidepromission
