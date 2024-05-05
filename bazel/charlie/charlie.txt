@@ -10125,6 +10125,7 @@ chessman
 chessmen
 chessner
 chessom
+coxalgic
 claves
 chesstree
 chest
@@ -27727,7 +27728,6 @@ commensurate
 catalineta
 coxalgias
 calceiform
-coxalgic
 coxalgies
 coxankylometer
 coxcomb
