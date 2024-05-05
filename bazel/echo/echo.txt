@@ -2602,6 +2602,7 @@ electropolish
 electropositive
 electropower
 electropsychrometer
+embrasured
 electropuncturation
 electropuncture
 electropuncturing
@@ -3642,7 +3643,6 @@ embranchment
 embrangling
 embrase
 eccoprotic
-embrasured
 embrave
 embrawn
 embreach
