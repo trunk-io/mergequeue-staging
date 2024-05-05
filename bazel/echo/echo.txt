@@ -338,7 +338,6 @@ eaved
 eavedrop
 eavedropper
 evenings
-enunciate
 eaver
 eaves
 eavesdrop
@@ -1532,6 +1531,7 @@ egality
 espalier
 edder
 egall
+enunciate
 egranulose
 egards
 egba
