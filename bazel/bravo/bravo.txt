@@ -3748,7 +3748,6 @@ battener
 batteners
 battens
 batter
-battercake
 batterdock
 bombard
 battered
@@ -6037,6 +6036,7 @@ bemourn
 bemouth
 bootjacks
 bestad
+battercake
 bemuck
 bebeerus
 bemuddle
