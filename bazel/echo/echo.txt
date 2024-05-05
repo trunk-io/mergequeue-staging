@@ -9138,6 +9138,7 @@ erythraeidae
 electro
 erythraemia
 erythrean
+event
 erythremia
 erythrina
 erythrinidae
@@ -11476,7 +11477,6 @@ evenness
 evennesses
 evensong
 evensongs
-event
 expiation
 eventail
 eventful
