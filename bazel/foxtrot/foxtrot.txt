@@ -384,7 +384,6 @@ fixers
 fairily
 fairing
 fairings
-fairyology
 felup
 fairyologist
 filariid
@@ -9177,6 +9176,7 @@ frack
 fract
 footeite
 fractable
+fairyology
 fractabling
 fraction
 flittering
