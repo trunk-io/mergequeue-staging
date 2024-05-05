@@ -2046,7 +2046,6 @@ gluconate
 gausses
 gaussian
 gaussmeter
-gamuts
 gauster
 gausterer
 gaut
@@ -4694,6 +4693,7 @@ girder
 girdering
 girders
 girding
+gamuts
 girdingly
 girdlecake
 gentianin
