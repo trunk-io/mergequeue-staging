@@ -14114,7 +14114,6 @@ cypridinoid
 cyprina
 cyprine
 cyprinid
-cyprinidae
 cyprinids
 cypriniform
 cyprinin
@@ -17486,6 +17485,7 @@ cocaine
 cocaines
 cocainisation
 cocainised
+cyprinidae
 cocainising
 cocainism
 cocainist
