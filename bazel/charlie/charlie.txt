@@ -4047,6 +4047,7 @@ cardioplegia
 cardiopneumatic
 cardiopneumograph
 cardiopulmonary
+cupules
 cardiopuncture
 cardiorenal
 cardiorespiratory
@@ -31182,7 +31183,6 @@ cupulae
 cupular
 cupulate
 cupule
-cupules
 cupuliferae
 cupuliferous
 citrine
