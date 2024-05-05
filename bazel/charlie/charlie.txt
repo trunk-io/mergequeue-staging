@@ -11404,7 +11404,6 @@ chlorotically
 chlorotrifluoroethylene
 chlorotrifluoromethane
 chlorous
-coelacanthini
 chlorozincate
 chlorpheniramine
 chlorphenol
@@ -24860,6 +24859,7 @@ coracomorphic
 coracoprocoracoid
 coracoscapular
 coracosteon
+coelacanthini
 coracovertebral
 coradical
 coradicate
