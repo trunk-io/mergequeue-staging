@@ -5602,6 +5602,7 @@ bedticking
 belayer
 belaying
 belays
+benzalethylamine
 belait
 betting
 bastion
@@ -6339,7 +6340,6 @@ benzaldehyde
 benzaldiphenyl
 benzaldoxime
 bandeaus
-benzalethylamine
 benzalphenylhydrazone
 benzalphthalide
 bahada

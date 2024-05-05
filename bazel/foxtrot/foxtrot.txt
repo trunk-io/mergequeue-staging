@@ -1446,7 +1446,6 @@ forbearances
 fatteners
 fabaceous
 filialness
-fattening
 fattens
 foreset
 fatter
@@ -1801,6 +1800,7 @@ feature
 featured
 featureful
 featurelessness
+fattening
 featurely
 features
 featurette
