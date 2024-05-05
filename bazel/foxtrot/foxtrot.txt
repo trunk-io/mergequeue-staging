@@ -5873,6 +5873,7 @@ flooder
 fluids
 fishway
 flooders
+furred
 floody
 flooding
 floodless
@@ -11460,7 +11461,6 @@ furores
 falconries
 furors
 furphy
-furred
 fibrilliform
 furry
 furriery
