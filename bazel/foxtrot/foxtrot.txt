@@ -4549,7 +4549,6 @@ fivefold
 fiveling
 fivepence
 fivepenny
-fivepins
 fives
 fivescore
 fivesome
@@ -8103,6 +8102,7 @@ foretold
 ferling
 foretop
 foretopman
+fivepins
 foretopmast
 foretopmen
 foretops

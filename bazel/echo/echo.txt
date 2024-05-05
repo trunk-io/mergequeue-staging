@@ -720,6 +720,7 @@ exospheric
 epipodia
 ecodeme
 ecol
+equality
 ecole
 ecoles
 ecologic
@@ -8550,7 +8551,6 @@ expectative
 equalises
 equalitarian
 equalitarianism
-equality
 entelodont
 emendation
 exhaustlessness
