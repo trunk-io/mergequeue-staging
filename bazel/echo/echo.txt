@@ -4883,7 +4883,6 @@ encrinitic
 encrinitical
 encrinoid
 embarment
-encrypted
 encrypting
 encryption
 encrypts
@@ -12230,6 +12229,7 @@ exculpate
 exculpated
 exculpating
 exculpation
+encrypted
 ellipsometry
 evirato
 exculpatorily
