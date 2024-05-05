@@ -6399,7 +6399,6 @@ caviled
 caviler
 camphene
 cavilers
-coastlines
 caviling
 cavilingly
 ceraunogram
@@ -7568,6 +7567,7 @@ cerebellitis
 cerebellocortex
 choregraphy
 cerebellopontile
+coastlines
 cerebellopontine
 cerebellorubral
 cerebellospinal
