@@ -1236,6 +1236,7 @@ eduskunta
 edward
 elanet
 edwardean
+electromedical
 edwardine
 euchological
 epilogical
@@ -2492,7 +2493,6 @@ electromassage
 electromechanical
 electromechanically
 electromechanics
-electromedical
 electromer
 equivalenced
 electromeric
