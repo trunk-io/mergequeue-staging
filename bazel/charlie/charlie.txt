@@ -3123,7 +3123,6 @@ capitoninae
 capitoul
 capitoulate
 capitula
-capitulant
 canteens
 capitulary
 cudweeds
@@ -7154,6 +7153,7 @@ contrabasso
 centreless
 centrepiece
 centrer
+capitulant
 centres
 centrev
 centrex
