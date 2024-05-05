@@ -1014,7 +1014,6 @@ eidolology
 endodontic
 eczematosis
 ed
-edacious
 erythrasma
 emancipatory
 edaciousness
@@ -5109,6 +5108,7 @@ entities
 endocellular
 enshrine
 encuirassed
+edacious
 endoceras
 endoceratidae
 endoceratite
