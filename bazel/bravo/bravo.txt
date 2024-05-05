@@ -4065,6 +4065,7 @@ bealach
 bealing
 besmirched
 beallach
+bulletproofed
 bealtared
 beam
 beamage
@@ -17068,7 +17069,6 @@ bulletlike
 bulletmaker
 battalia
 bulletmaking
-bulletproofed
 bis
 britishhood
 bromargyrite
