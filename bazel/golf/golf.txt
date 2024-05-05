@@ -1296,7 +1296,6 @@ gallish
 garage
 gyved
 garageman
-garages
 gilgie
 garaging
 garance
@@ -1318,6 +1317,7 @@ garbill
 garbleable
 garbled
 garbler
+garages
 garblers
 garbles
 garbline
