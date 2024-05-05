@@ -16536,7 +16536,6 @@ buchmanite
 bayish
 buchnerite
 buchonite
-bandfiling
 buchu
 buckayro
 buckayros
@@ -17812,6 +17811,7 @@ burnsides
 burnt
 burntly
 burntness
+bandfiling
 burntweed
 buro
 brisks
