@@ -1159,7 +1159,6 @@ gyrocompass
 gangmaster
 gangplanks
 gangplow
-gareh
 gastrodisc
 gangrel
 gangrenate
@@ -8359,6 +8358,7 @@ gangerel
 graticulate
 glory
 graylags
+gareh
 ginglyni
 graticule
 gratifiable
