@@ -2769,6 +2769,7 @@ acquirement
 acquirements
 acquirer
 acquires
+affixable
 acquiring
 acquisible
 acousmas
@@ -5436,7 +5437,6 @@ affirming
 affirmingly
 affirms
 affix
-affixable
 affixation
 adenophoreus
 affixed
