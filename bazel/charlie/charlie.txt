@@ -12669,7 +12669,6 @@ couchette
 chronopher
 chronophotograph
 chronophotography
-chronophotographic
 chronos
 chronoscope
 chronoscopy
@@ -20767,6 +20766,7 @@ compliances
 compliancy
 compliancies
 compliant
+chronophotographic
 compliantly
 complicacy
 complicacies

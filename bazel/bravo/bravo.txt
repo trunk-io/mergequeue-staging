@@ -5070,7 +5070,6 @@ beewinged
 beewise
 beezer
 breeder
-bef
 befall
 benzomorpholine
 boneshave
@@ -8971,6 +8970,7 @@ bioecologically
 bemuddy
 bioecologies
 bioecologist
+bef
 bioelectric
 byline
 bioelectrical
