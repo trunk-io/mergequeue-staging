@@ -3828,7 +3828,6 @@ bauble
 baublery
 baubles
 baubling
-baubo
 bauch
 bauchle
 bauckiebird
@@ -11029,6 +11028,7 @@ blockmaking
 blockman
 blockpate
 blocks
+baubo
 bosc
 blocs
 blodite
