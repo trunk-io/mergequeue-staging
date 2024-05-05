@@ -23879,6 +23879,7 @@ controllers
 controllership
 controlless
 controlling
+colonists
 controllingly
 controlment
 controls
@@ -25113,7 +25114,6 @@ corespect
 corespondent
 corespondents
 coretomy
-colonists
 coreveller
 corevolve
 cryometer
