@@ -910,7 +910,6 @@ basifacial
 baggala
 bagganet
 breadless
-baggara
 bagged
 brokenhearted
 bagger
@@ -13407,6 +13406,7 @@ bottle
 bottlebird
 bottled
 bottleful
+baggara
 bottlefuls
 bottlehead
 bottleholder
