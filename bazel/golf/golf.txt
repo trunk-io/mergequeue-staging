@@ -57,7 +57,6 @@ gabioned
 gabions
 gormandized
 graecism
-gablatores
 gable
 gableboard
 gabled
@@ -5661,6 +5660,7 @@ gloat
 gypsumed
 guested
 gloated
+gablatores
 gloaters
 grieve
 gloating
