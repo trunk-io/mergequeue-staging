@@ -2534,7 +2534,6 @@ ecad
 electrons
 epipubic
 electronvolt
-electrooculogram
 electrooptic
 electrooptical
 electrooptically
@@ -10275,6 +10274,7 @@ exertive
 effacing
 etherealization
 etherealizing
+electrooculogram
 expunges
 ethereally
 etherealness
