@@ -7233,7 +7233,6 @@ deteriorative
 deteriorator
 deteriorism
 determ
-dequeuing
 drifty
 determa
 dazzled
@@ -17351,6 +17350,7 @@ droopingness
 disphenoid
 defeudalize
 droops
+dequeuing
 droopt
 dropax
 dropberry
