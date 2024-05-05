@@ -311,6 +311,7 @@ failing
 failingness
 faille
 failles
+fatiguing
 fails
 failsafe
 failsoft
@@ -7895,7 +7896,6 @@ francomania
 foreruns
 fores
 foresaddle
-fatiguing
 foresails
 fantastical
 foresays
