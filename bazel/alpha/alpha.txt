@@ -718,6 +718,7 @@ abongo
 aimara
 abirritation
 abonne
+affixable
 abonnement
 aboon
 aborad
@@ -2769,7 +2770,6 @@ acquirement
 acquirements
 acquirer
 acquires
-affixable
 acquiring
 acquisible
 acousmas
