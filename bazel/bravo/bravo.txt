@@ -10846,7 +10846,6 @@ breccial
 blimpishness
 blindball
 blinded
-blindedly
 blindeyes
 behowled
 blinder
@@ -14769,6 +14768,7 @@ breadstuffs
 breadthen
 breadthriders
 breadths
+blindedly
 breadthways
 breadthwise
 breadwinner
