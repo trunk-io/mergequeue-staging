@@ -737,7 +737,6 @@ bacteriotropin
 broadhearted
 balustered
 blockship
-bacterious
 biolysis
 bacteririum
 bacteritic
@@ -2918,6 +2917,7 @@ barothermohygrograph
 baroto
 barotrauma
 barotraumas
+bacterious
 barotraumata
 barouche
 barouches
