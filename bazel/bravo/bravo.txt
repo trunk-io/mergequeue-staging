@@ -4176,6 +4176,7 @@ bearing
 bearings
 backswording
 bearish
+bookstall
 bearishness
 bankfull
 bearlet
@@ -12738,7 +12739,6 @@ booksellers
 bookshelf
 bookshops
 booksy
-bookstall
 bookstand
 bedcover
 bookstore
