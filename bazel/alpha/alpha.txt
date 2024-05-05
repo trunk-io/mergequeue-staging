@@ -18343,7 +18343,6 @@ aquilinity
 aquilino
 aquinas
 aquincubital
-aetiologies
 aquinist
 aquintocubital
 armour
@@ -24549,6 +24548,7 @@ arsinoitherium
 auxochrome
 auxochromic
 auxochromism
+aetiologies
 auxochromous
 auxocyte
 auxoflore
