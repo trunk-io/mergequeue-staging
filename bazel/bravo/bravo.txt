@@ -7540,7 +7540,6 @@ bevelling
 bevelment
 bevenom
 bever
-beverage
 beverages
 beverse
 bevesseled
@@ -11999,6 +11998,7 @@ boiguacu
 boyhood
 boyhoods
 boii
+beverage
 boyish
 brunion
 boyishly
