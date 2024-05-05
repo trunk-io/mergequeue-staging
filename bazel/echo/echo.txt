@@ -6523,7 +6523,6 @@ emigrations
 emigrated
 entablements
 entach
-entackle
 enneasemic
 entad
 embrocate
@@ -13967,6 +13966,7 @@ extrasensorial
 extrasensuous
 extraserous
 extrasyllabic
+entackle
 extrasyllogistic
 extrasyphilitic
 extrasocial
