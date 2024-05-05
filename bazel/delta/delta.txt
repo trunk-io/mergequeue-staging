@@ -4637,6 +4637,7 @@ demisavage
 demiscible
 demise
 demisecond
+drones
 demised
 demisemiquaver
 demisemitone
@@ -17320,7 +17321,6 @@ droner
 distichous
 diamylose
 droners
-drones
 drongos
 drony
 droning
