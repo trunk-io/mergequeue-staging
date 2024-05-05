@@ -14576,7 +14576,6 @@ anthozoa
 anthozoan
 anthozoic
 allopathy
-azotemia
 anthozoon
 anthracaemia
 anthracemia
@@ -16871,6 +16870,7 @@ aphacial
 aphaeresis
 aphagia
 aphagias
+azotemia
 aphakia
 aphakial
 aphakic
