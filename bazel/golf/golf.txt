@@ -797,7 +797,6 @@ galvanizing
 galvanocautery
 galvanocauteries
 galvanocontractility
-galvanofaradization
 galvanoglyph
 galvanography
 gatekeeper
@@ -10525,6 +10524,7 @@ gunpoints
 glyptodontidae
 gunpowder
 gunpowdery
+galvanofaradization
 gunpowderous
 goldeyes
 gunpower
