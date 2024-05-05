@@ -2904,7 +2904,6 @@ dedicant
 dedicate
 dedicated
 dedicatedly
-dedicatee
 dedicating
 dedication
 dedicational
@@ -16616,6 +16615,7 @@ dragonfishes
 dragonfly
 dragonflies
 dragonhead
+dedicatee
 dragonhood
 durdenite
 dragonish
