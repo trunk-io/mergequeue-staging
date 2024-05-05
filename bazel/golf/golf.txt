@@ -1315,7 +1315,6 @@ gastrulated
 garbanzo
 garbell
 garbill
-garbleable
 garbled
 garbler
 garages
@@ -5857,6 +5856,7 @@ grypotherium
 gloriously
 gloriousness
 glos
+garbleable
 genipapada
 gloss
 glossa
