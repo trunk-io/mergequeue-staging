@@ -1755,7 +1755,6 @@ debarred
 debars
 debased
 debasedness
-debaser
 debasers
 debases
 dodecahedron
@@ -3595,6 +3594,7 @@ deglamorization
 deglamorize
 deglamorizing
 deglaze
+debaser
 deglazing
 disa
 deglycerin
