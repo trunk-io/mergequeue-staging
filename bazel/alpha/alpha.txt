@@ -3853,6 +3853,7 @@ adherents
 adherer
 adherers
 adheres
+auxohormone
 adherescence
 apoapsis
 adherescent
@@ -24556,7 +24557,6 @@ auxoflore
 auxofluor
 auxograph
 auxographic
-auxohormone
 auxology
 auxospore
 auxosubstance
