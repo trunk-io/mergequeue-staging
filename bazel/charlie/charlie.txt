@@ -8698,7 +8698,6 @@ chankings
 channel
 channelbill
 channeled
-channeling
 christhood
 channelization
 channelize
@@ -19701,6 +19700,7 @@ combative
 combatively
 combativeness
 combats
+channeling
 combattant
 combatted
 combatter

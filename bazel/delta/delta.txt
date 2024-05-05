@@ -9936,7 +9936,6 @@ disseminule
 diminishingturns
 diminishment
 diminishments
-diminue
 diminuendo
 diminuendoed
 diminuendoes
@@ -12703,6 +12702,7 @@ dismarket
 dismarketed
 dervishhood
 daguerreotypes
+diminue
 dismarketing
 dismask
 dismasted
