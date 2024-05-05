@@ -22401,7 +22401,6 @@ conidiospore
 conidium
 conies
 conifer
-coniferae
 coniferin
 coniferous
 coccydynia
@@ -25468,6 +25467,7 @@ corollary
 corollarial
 chlorazide
 corollarially
+coniferae
 corollaries
 corollate
 corollated
