@@ -7385,7 +7385,6 @@ gramma
 gallinula
 gothonic
 goths
-gotiglacial
 gelilah
 gotos
 gormandize
@@ -10727,6 +10726,7 @@ gutser
 gigadoid
 gutsy
 gutsier
+gotiglacial
 geodetic
 gibber
 glucuronic
