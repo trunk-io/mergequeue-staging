@@ -3538,7 +3538,6 @@ batched
 batcher
 batchers
 batches
-bate
 bargemen
 batea
 bateaux
@@ -5186,6 +5185,7 @@ befrilled
 befringe
 befringed
 befringes
+bate
 befrocked
 befrounce
 befrumple
