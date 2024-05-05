@@ -1243,7 +1243,6 @@ euchological
 epilogical
 edwards
 endocentric
-endopolyploidy
 edwardsiidae
 erythropoietin
 edwin
@@ -8592,6 +8591,7 @@ equations
 essentia
 expunge
 equative
+endopolyploidy
 equator
 etherial
 equatoreal
