@@ -3185,7 +3185,6 @@ caponise
 caponised
 caponization
 caponize
-caponized
 caponizer
 caponizes
 caponizing
@@ -25340,6 +25339,7 @@ cornette
 cornetter
 cornetti
 cornettino
+caponized
 cornettist
 cornetto
 corneule

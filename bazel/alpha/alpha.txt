@@ -16789,7 +16789,6 @@ anabrosis
 apatosaurus
 apaturia
 ape
-apeak
 apectomy
 aped
 apedom
@@ -23993,6 +23992,7 @@ autocrat
 autocratic
 autocratical
 autocratically
+apeak
 autocraticalness
 autocrator
 autocratoric
