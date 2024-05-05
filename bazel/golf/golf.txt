@@ -2698,6 +2698,7 @@ generations
 generative
 generatively
 generativeness
+gossypol
 generator
 generators
 generatrices
@@ -7356,7 +7357,6 @@ glaucopis
 gossypium
 gossipmonger
 gossipmongering
-gossypol
 gossypose
 gossipped
 gossipred
