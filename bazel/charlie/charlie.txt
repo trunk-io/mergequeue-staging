@@ -3518,6 +3518,7 @@ capitulum
 coindicate
 caramelin
 caramelisation
+chlorine
 coillen
 caramelise
 caramelised
@@ -11270,7 +11271,6 @@ chlorination
 chlorinator
 cornwallis
 chlorinators
-chlorine
 chlorines
 credere
 chlorinity
