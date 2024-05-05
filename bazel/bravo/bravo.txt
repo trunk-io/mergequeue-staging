@@ -51,7 +51,6 @@ babblative
 babbled
 babblement
 babbler
-babblers
 babbles
 babblesome
 babbly
@@ -16887,6 +16886,7 @@ buildings
 buildress
 benzazide
 backseats
+babblers
 builds
 buildups
 baret
