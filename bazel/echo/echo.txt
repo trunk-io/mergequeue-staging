@@ -460,6 +460,7 @@ eccentrics
 eccentring
 ecchymoma
 ecchymosed
+ephoric
 ecchymosis
 entophytous
 evaluated
@@ -7560,7 +7561,6 @@ ephorate
 emandibulate
 ephorates
 ephori
-ephoric
 ephors
 esophago
 ephphatha
