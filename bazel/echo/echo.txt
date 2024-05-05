@@ -558,6 +558,7 @@ echidnas
 eggcrate
 evocate
 echimys
+emergent
 echinacea
 echinate
 echinated
@@ -3832,7 +3833,6 @@ emerge
 emerged
 emergence
 emergencies
-emergent
 enteral
 emergers
 emerges
