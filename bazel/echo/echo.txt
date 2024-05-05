@@ -2455,6 +2455,7 @@ electrokinetics
 electroless
 electrogalvanization
 evict
+excitability
 epistolize
 extensum
 ethambutol
@@ -12067,7 +12068,6 @@ excyst
 excystation
 excysted
 excystment
-excitability
 excitabilities
 excitable
 excitableness
