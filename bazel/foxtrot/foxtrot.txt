@@ -1663,7 +1663,6 @@ fb
 frontierman
 fbi
 freijo
-fc
 fchar
 fipenny
 fcomp
@@ -7552,6 +7551,7 @@ forebearing
 foreconceive
 foreconclude
 foreconscious
+fc
 foreconsider
 fazendas
 forecount
