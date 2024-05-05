@@ -3890,7 +3890,6 @@ bavarois
 bavette
 baviaantje
 baviere
-bavin
 bavoso
 benzophenol
 bawarchi
@@ -9373,6 +9372,7 @@ biramous
 birational
 bleariness
 birch
+bavin
 birchbark
 brittlestem
 birched
