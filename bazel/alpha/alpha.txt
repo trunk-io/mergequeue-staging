@@ -2721,7 +2721,6 @@ acousmata
 acousmatic
 artar
 acoustic
-acoustical
 acoustically
 antaean
 acoustician
@@ -6947,6 +6946,7 @@ aircraftmen
 aircrafts
 aircraftsman
 assessee
+acoustical
 agamospore
 aircraftsmen
 aircraftswoman
