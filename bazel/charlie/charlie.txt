@@ -14876,7 +14876,6 @@ citizenly
 citizenry
 chains
 citizenries
-citizens
 citizenship
 cytoanalyzer
 cytoarchitectural
@@ -28203,6 +28202,7 @@ cransier
 crantara
 crants
 cardiopathy
+citizens
 crapaudine
 crape
 craped
