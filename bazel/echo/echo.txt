@@ -3224,7 +3224,6 @@ elutriation
 elutriator
 ethionamide
 excursory
-eluvial
 exsufflicate
 excretolic
 enveloped
@@ -13489,6 +13488,7 @@ enomotarch
 exsiccate
 exsiccated
 exsiccating
+eluvial
 exsiccation
 exsiccative
 exsiccator
