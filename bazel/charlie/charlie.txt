@@ -11566,7 +11566,6 @@ cholecystogram
 cholecystography
 cholecystojejunostomy
 cholecystokinin
-cholecystolithiasis
 cholecystonephrostomy
 cholecystopexy
 cholecystorrhaphy
@@ -15356,6 +15355,7 @@ clammier
 clammiest
 clammily
 clamming
+cholecystolithiasis
 clavation
 cuisses
 clammyweed
