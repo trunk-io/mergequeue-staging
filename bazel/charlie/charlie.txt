@@ -7633,7 +7633,6 @@ cerebrophysiology
 cerebropsychosis
 cerebrosclerosis
 cachexia
-cerebrose
 cerebrosensorial
 cerebroside
 cerebrosis
@@ -31873,6 +31872,7 @@ cuttingly
 cuttingness
 cuttings
 cuttle
+cerebrose
 cuttlebones
 cuttled
 clams
