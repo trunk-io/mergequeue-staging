@@ -2631,7 +2631,6 @@ grottos
 genecor
 geneki
 groupage
-genep
 genepi
 genera
 generable
@@ -4298,6 +4297,7 @@ gymnogenous
 gymnogynous
 gymnoglossa
 gymnoglossate
+genep
 gambas
 gierfalcon
 gatteridge
