@@ -4042,6 +4042,7 @@ denudement
 deliberateness
 deliberates
 diacoele
+detester
 deliberating
 deliberation
 deliberations
@@ -7282,7 +7283,6 @@ detestation
 detestations
 detested
 dragonne
-detester
 driveboat
 detesters
 detesting
