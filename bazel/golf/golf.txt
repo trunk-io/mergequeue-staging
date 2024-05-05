@@ -1620,7 +1620,6 @@ gaslike
 gaslit
 grammatic
 greenlandish
-gasmaker
 gasman
 gasmen
 gleyde
@@ -2653,6 +2652,7 @@ generalism
 gaidropsaridae
 garvock
 grogshops
+gasmaker
 granita
 generalissima
 generalissimo
