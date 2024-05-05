@@ -1150,7 +1150,6 @@ gavelkinder
 ganglioneure
 goschens
 ganglioneuron
-ganglionic
 ganglionitis
 governance
 ganglions
@@ -3814,6 +3813,7 @@ ghostism
 ghostlet
 ghostly
 grots
+ganglionic
 glottidean
 guestimate
 ghostliest
