@@ -2623,7 +2623,6 @@ fertile
 fluotantalate
 fluidram
 fertilely
-fertileness
 fertilisable
 fertilise
 fertilising
@@ -5353,6 +5352,7 @@ flushing
 flavines
 fley
 fenouillette
+fertileness
 fleyed
 fleyedly
 foolscap
