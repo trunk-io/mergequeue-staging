@@ -2736,7 +2736,6 @@ acoustician
 acousticolateral
 acousticon
 acousticophobia
-acoustics
 acoustoelectric
 acpt
 acquaint
@@ -20896,6 +20895,7 @@ asap
 asaph
 asaphid
 asaphidae
+acoustics
 asaphus
 asaprol
 asarabacca
