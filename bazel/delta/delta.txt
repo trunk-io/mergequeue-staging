@@ -4717,7 +4717,6 @@ demobilizations
 demobilize
 demobilized
 demobilizes
-demobilizing
 democracy
 democracies
 democrat
@@ -10480,6 +10479,7 @@ diphthongation
 diphthonged
 dusty
 diphthongic
+demobilizing
 diphthongisation
 diphthongise
 dalar
