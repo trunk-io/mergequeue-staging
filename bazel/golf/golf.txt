@@ -1249,6 +1249,7 @@ gewgaw
 gantline
 gantlines
 guarnieri
+goods
 gantlope
 gaumish
 gantlopes
@@ -8590,7 +8591,6 @@ guisards
 grebo
 grecale
 glenwood
-goods
 grece
 grossularia
 granitoid
