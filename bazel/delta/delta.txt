@@ -1569,7 +1569,6 @@ deaf
 deafened
 deafeningly
 deafens
-dummered
 deafer
 deafest
 deafforest
@@ -7916,6 +7915,7 @@ dextrogyrate
 deprogrammings
 deadish
 dextrogyration
+dummered
 dextrogyre
 dextrogyrous
 dextroglucose
