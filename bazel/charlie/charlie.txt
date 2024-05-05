@@ -19038,7 +19038,6 @@ collen
 collenchyma
 collenchymatic
 collenchymatous
-caricology
 copular
 collenchyme
 collencytal
@@ -25507,6 +25506,7 @@ coronary
 coronate
 coronated
 coteen
+caricology
 coronation
 corrosible
 coronations

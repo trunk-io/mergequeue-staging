@@ -3798,7 +3798,6 @@ gobbin
 ghosted
 ghostfishes
 glali
-ghostflower
 ghosthood
 granza
 gaunch
@@ -9778,6 +9777,7 @@ guaguanche
 guahiban
 guahibo
 guayaba
+ghostflower
 guayabera
 ginghamed
 guayabi
