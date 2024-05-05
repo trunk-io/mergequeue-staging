@@ -1939,7 +1939,6 @@ gatewards
 guariba
 gatewise
 gatewoman
-gateworks
 gatewright
 gather
 gatherable
@@ -6740,6 +6739,7 @@ golpe
 goma
 gomari
 gomarian
+gateworks
 gomart
 gomashta
 gomasta
