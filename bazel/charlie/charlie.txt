@@ -15755,6 +15755,7 @@ claviceps
 clavichord
 contacting
 clavichordists
+cornuto
 clavichords
 clavicylinder
 clavicytheria
@@ -25439,7 +25440,6 @@ cornutin
 cher
 cornutine
 cornuting
-cornuto
 cornutos
 cornwallises
 cornwallite
