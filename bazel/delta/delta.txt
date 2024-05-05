@@ -5492,7 +5492,6 @@ deoxidizes
 disarranger
 deoxidizing
 deoxygenate
-deoxygenated
 dedicates
 deoxygenating
 deoxygenation
@@ -16796,6 +16795,7 @@ drawbolt
 drawbore
 drawbored
 dibenzyl
+deoxygenated
 drawbores
 drawbridge
 drawbridges
