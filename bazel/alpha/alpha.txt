@@ -5829,6 +5829,7 @@ afterward
 afterwhile
 afterwisdom
 afterwit
+agglutinates
 afterwitted
 afterword
 afterwork
@@ -6107,7 +6108,6 @@ agglutinant
 apical
 agglutinate
 agglutinated
-agglutinates
 alehoof
 arboresque
 agglutination
