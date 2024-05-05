@@ -3536,7 +3536,6 @@ filenames
 filer
 filers
 filesave
-filesniff
 filemaker
 filespec
 fibro
@@ -4731,6 +4730,7 @@ fraudful
 flagitiously
 foppishness
 flagleaf
+filesniff
 flagless
 forechurch
 flaglike
