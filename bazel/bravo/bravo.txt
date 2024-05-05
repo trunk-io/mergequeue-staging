@@ -2412,7 +2412,6 @@ barbellate
 barbells
 barbellula
 barbellulae
-barbellulate
 belecture
 barbels
 ballroom
@@ -8805,6 +8804,7 @@ bulliest
 binding
 bogydom
 bindingness
+barbellulate
 bindings
 bindis
 brazenfacedness
