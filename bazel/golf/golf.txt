@@ -1620,7 +1620,6 @@ gaslike
 gaslit
 grammatic
 greenlandish
-gonorrheic
 gasmaker
 gasman
 gasmen
@@ -7298,6 +7297,7 @@ goshawks
 goshdarn
 goshen
 goshenite
+gonorrheic
 goslarite
 goslet
 goslings
