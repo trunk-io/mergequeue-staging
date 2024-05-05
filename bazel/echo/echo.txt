@@ -3153,7 +3153,6 @@ epineolithic
 elroquite
 else
 estus
-entailing
 endemic
 ethnobotany
 elsehow
@@ -4761,6 +4760,7 @@ encephalos
 eidola
 enclave
 enclaved
+entailing
 enclaves
 enclaving
 enclitical
