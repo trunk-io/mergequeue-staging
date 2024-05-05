@@ -4015,7 +4015,6 @@ beaconing
 beaconwise
 blasphemers
 beadeye
-biospheres
 beader
 beadflush
 batik
@@ -5063,6 +5062,7 @@ beetlike
 beetling
 beetrave
 beetroot
+biospheres
 beetrooty
 beetroots
 beets
