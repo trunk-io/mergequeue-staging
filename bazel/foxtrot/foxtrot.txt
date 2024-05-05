@@ -1708,7 +1708,6 @@ fears
 frisket
 fearsome
 fearsomely
-fortuity
 fearsomeness
 ferruginated
 firer
@@ -8531,6 +8530,7 @@ flexile
 formulising
 forefit
 fanwise
+fortuity
 formably
 ferrety
 flinchers
