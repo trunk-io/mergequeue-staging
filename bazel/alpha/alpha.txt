@@ -3668,7 +3668,6 @@ adelops
 abreaction
 albuminurophobia
 adelphian
-adelphic
 adelphogamy
 adelphoi
 adelphous
@@ -22899,6 +22898,7 @@ atropaceous
 atropal
 atropamine
 atrophy
+adelphic
 atrophia
 atrophias
 atrophied
