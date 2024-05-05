@@ -2694,7 +2694,6 @@ biophysically
 barytocalcite
 barytocelestine
 bedevils
-barytocelestite
 baritonal
 besses
 baritones
@@ -4836,6 +4835,7 @@ bedsite
 bedsitter
 bedsonia
 bedsonias
+barytocelestite
 bumblefoot
 bedsores
 boopic
