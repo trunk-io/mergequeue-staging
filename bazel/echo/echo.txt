@@ -2638,7 +2638,6 @@ electrosurgery
 electrosurgeries
 electrosurgical
 electrosurgically
-electrotactic
 electrotautomerism
 electrotechnic
 end
@@ -4893,6 +4892,7 @@ encrisp
 encroach
 encroached
 echeveria
+electrotactic
 encroacher
 envelopers
 encroaches
