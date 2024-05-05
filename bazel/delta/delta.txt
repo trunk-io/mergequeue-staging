@@ -4273,7 +4273,6 @@ deltidia
 deltidial
 displacer
 deltiology
-deltohedron
 deltoid
 deltoidei
 deltoids
@@ -6548,6 +6547,7 @@ desegregates
 derotreme
 desegregating
 dipsadinae
+deltohedron
 desegregation
 duststorm
 deselect
