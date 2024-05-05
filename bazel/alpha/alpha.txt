@@ -11145,7 +11145,6 @@ ampere
 assizes
 amperemeter
 adornos
-amperes
 ampery
 amperian
 amperometer
@@ -12708,6 +12707,7 @@ anesis
 anesone
 anesthesiant
 amishgo
+amperes
 anesthesimeter
 anesthesiology
 anesthesiologist
