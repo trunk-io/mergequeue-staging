@@ -8908,7 +8908,6 @@ bioassayed
 bioassaying
 bioassays
 bioastronautical
-bioastronautics
 biobibliographer
 biobibliography
 biobibliographic
@@ -10272,6 +10271,7 @@ bedebt
 bloating
 boolian
 blairmorite
+bioastronautics
 blakeberyed
 boatlike
 blame
