@@ -7406,6 +7406,7 @@ goudy
 granjeno
 gouged
 gouger
+graphemics
 geotaxis
 gougers
 gouges
@@ -8309,7 +8310,6 @@ grasslands
 glutaminase
 grassless
 gromatic
-graphemics
 grasslike
 grassman
 gentianic
