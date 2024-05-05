@@ -7218,7 +7218,6 @@ environed
 environic
 environing
 environment
-environmentalism
 environmentalist
 encrotchet
 environmentalists
@@ -9343,6 +9342,7 @@ errability
 errable
 errableness
 errabund
+environmentalism
 ethoses
 errancies
 errand
