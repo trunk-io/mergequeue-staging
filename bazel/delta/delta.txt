@@ -2482,7 +2482,6 @@ deutzias
 declarator
 declaratory
 declaratorily
-declarators
 declare
 declaredly
 diaconicum
@@ -8906,6 +8905,7 @@ dichotically
 dichotomy
 displeasurement
 dipotassic
+declarators
 dichotomic
 dichotomies
 dichotomisation
