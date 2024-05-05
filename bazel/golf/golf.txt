@@ -746,7 +746,6 @@ gribble
 gallup
 gallweed
 greasehorn
-guerdon
 goniatite
 galoch
 galoots
@@ -5944,6 +5943,7 @@ groundflower
 glossopetra
 generaliser
 glossophaga
+guerdon
 glossophagine
 glossopharyngeal
 googolplex
