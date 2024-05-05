@@ -9242,6 +9242,7 @@ buoys
 biotope
 biotopes
 biotoxin
+brisker
 biotoxins
 biotransformation
 biotron
@@ -15475,7 +15476,6 @@ bamboo
 brisken
 briskened
 briskening
-brisker
 basilican
 briskest
 brisket
