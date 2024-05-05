@@ -6671,7 +6671,6 @@ eclogic
 enteromegalia
 enteromesenteric
 emptiers
-enteromycosis
 ecoute
 enteromyiasis
 eduardo
@@ -9741,6 +9740,7 @@ ejectivity
 esophagostomy
 ethnopsychology
 endorsor
+enteromycosis
 esophagotome
 esophoria
 esopus

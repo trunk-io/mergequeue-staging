@@ -270,7 +270,6 @@ guttles
 geobotanist
 gainsay
 gainsayer
-gainsayers
 gubat
 grayness
 gainsaying
@@ -3404,6 +3403,7 @@ germanification
 germanyl
 germanish
 germanism
+gainsayers
 golfings
 germanist
 germanistic
