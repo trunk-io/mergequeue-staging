@@ -4771,6 +4771,7 @@ girning
 gathering
 gyro
 gyrocar
+glomeration
 gelid
 guidage
 gyroceran
@@ -6463,7 +6464,6 @@ gobbled
 gobbledegook
 gobbledygook
 gobbler
-glomeration
 gobbling
 gobelin
 gobemouche
