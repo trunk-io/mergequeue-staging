@@ -9239,7 +9239,6 @@ diemaker
 dextrogyratory
 dropkicks
 diemakers
-dyemaking
 diencephalic
 diene
 diener
@@ -9859,6 +9858,7 @@ dimedone
 dimenhydrinate
 dimensible
 dimension
+dyemaking
 dimensional
 dimensionality
 dimensionally
