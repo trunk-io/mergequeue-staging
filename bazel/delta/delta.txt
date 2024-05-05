@@ -5014,7 +5014,6 @@ denaturise
 doughnut
 dryops
 denaturised
-duodiode
 denaturiser
 denaturising
 denaturize
@@ -12659,6 +12658,7 @@ dislove
 dorsilumbar
 dysluite
 decrepitated
+duodiode
 disluster
 dislustered
 diclinic
