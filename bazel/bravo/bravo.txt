@@ -5411,7 +5411,6 @@ beheads
 behear
 behears
 behearse
-behedge
 beheld
 behelp
 behemoth
@@ -14442,6 +14441,7 @@ branchiferous
 branchiform
 branchihyal
 branchiness
+behedge
 branching
 besort
 branchings

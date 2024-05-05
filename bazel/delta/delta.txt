@@ -4327,7 +4327,6 @@ dioptrometer
 demagnetisation
 demagnetised
 demagnetiser
-demagnetising
 demagnetization
 disorienting
 demagnetize
@@ -7440,6 +7439,7 @@ deuterate
 deuteration
 deuteride
 deuterium
+demagnetising
 deuterocanonical
 deuterocasease
 decupled
