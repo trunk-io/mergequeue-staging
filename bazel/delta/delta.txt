@@ -474,6 +474,7 @@ dirging
 daisy
 daisybush
 dayside
+determinoid
 daysides
 daisies
 daising
@@ -7263,7 +7264,6 @@ determinist
 deterministic
 decennially
 determinists
-determinoid
 diachoresis
 deterrability
 deterration
