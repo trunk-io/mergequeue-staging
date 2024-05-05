@@ -1658,7 +1658,6 @@ fazed
 fazenda
 fazendeiro
 fazes
-fazing
 forehill
 fb
 frontierman
@@ -8067,6 +8066,7 @@ foretalk
 foretalking
 foretaste
 fourness
+fazing
 foretasted
 foretaster
 foretastes
