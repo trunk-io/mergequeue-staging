@@ -12255,7 +12255,6 @@ boltstrake
 boltuprightness
 boltwork
 bradylogia
-bolus
 boluses
 bom
 boma
@@ -12690,6 +12689,7 @@ bagleaves
 bookish
 bismuth
 bookishly
+bolus
 batiste
 bookishness
 balancement
