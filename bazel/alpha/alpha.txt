@@ -18942,7 +18942,6 @@ archexorcist
 archfelon
 archfiends
 archfire
-archflamen
 archflatterer
 archfoe
 archfool
@@ -24292,6 +24291,7 @@ autophagy
 autophagia
 autophagous
 anorganology
+archflamen
 autophyte
 autophytic
 autophytically
