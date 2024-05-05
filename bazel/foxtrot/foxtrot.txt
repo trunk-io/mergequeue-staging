@@ -7136,7 +7136,6 @@ frankforter
 footcloths
 finedraw
 footed
-footeite
 footer
 footfall
 ferruling
@@ -9174,6 +9173,7 @@ fracid
 foretellable
 frack
 fract
+footeite
 fractable
 fractabling
 fraction
