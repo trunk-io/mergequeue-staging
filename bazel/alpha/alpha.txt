@@ -5086,7 +5086,6 @@ aerogun
 aerohydrodynamic
 aerohydropathy
 aerohydroplane
-aerohydrotherapy
 apotheosise
 aquavalent
 armamentarium
@@ -5353,6 +5352,7 @@ affecter
 affecters
 affectibility
 affectible
+aerohydrotherapy
 affecting
 affectingly
 antigen
