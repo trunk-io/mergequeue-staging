@@ -3071,7 +3071,6 @@ foreorder
 fibromatous
 fragmentally
 fibromembrane
-fibromembranous
 fibromyectomy
 flock
 fibromyoma
@@ -5160,6 +5159,7 @@ flavescence
 flavia
 flustroid
 flavian
+fibromembranous
 flavic
 flavicant
 fireproof
