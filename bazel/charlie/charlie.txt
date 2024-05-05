@@ -6505,6 +6505,7 @@ cecal
 cecally
 cecca
 cecchine
+countries
 cecidiology
 cecidiologist
 cardmaker
@@ -27273,7 +27274,6 @@ cardhouse
 countree
 countreeman
 country
-countries
 countrify
 countrification
 countrifiedness
