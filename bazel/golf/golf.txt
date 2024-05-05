@@ -2951,7 +2951,6 @@ gesticulator
 gombeenism
 gentlemen
 gladfully
-gentlemens
 galloptious
 gentlemouthed
 gentleness
@@ -7582,6 +7581,7 @@ grabby
 grabbiest
 grabble
 grabbled
+gentlemens
 grabbler
 genicular
 guary
