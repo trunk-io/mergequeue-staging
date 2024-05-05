@@ -817,6 +817,7 @@ confucianist
 cajolery
 cajoleries
 cajolers
+commuter
 clavolae
 cajoling
 cajolingly
@@ -20400,7 +20401,6 @@ commutator
 commutators
 commute
 commuted
-commuter
 commuters
 commutes
 commuting
