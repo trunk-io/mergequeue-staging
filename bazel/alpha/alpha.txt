@@ -1873,7 +1873,6 @@ accumulators
 accupy
 accur
 accuracy
-accuracies
 accurately
 aliseptal
 accurateness
@@ -6416,6 +6415,7 @@ agoniatite
 agoniatites
 agonic
 agonied
+accuracies
 agonies
 agonise
 agonised
