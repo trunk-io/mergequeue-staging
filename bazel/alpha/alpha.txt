@@ -1475,6 +1475,7 @@ accend
 accendibility
 apartado
 accendible
+agelaius
 accension
 accensor
 accent
@@ -7488,7 +7489,6 @@ albe
 albedo
 albedograph
 albedometer
-agelaius
 albedos
 aviador
 albee
