@@ -1634,6 +1634,7 @@ gangland
 gasoliers
 garrisonism
 gasoline
+grundyism
 gasoliner
 gasolines
 gasolinic
@@ -4445,7 +4446,6 @@ gingely
 gingelies
 gingelis
 gnomonological
-grundyism
 gingellies
 guerdoned
 gingerade
