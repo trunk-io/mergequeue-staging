@@ -1704,7 +1704,6 @@ fearing
 feist
 fearingly
 fearless
-fearlessness
 fearnought
 fears
 frisket
@@ -7299,6 +7298,7 @@ foraging
 forayed
 fodientia
 forayer
+fearlessness
 functionality
 foraying
 foralite
