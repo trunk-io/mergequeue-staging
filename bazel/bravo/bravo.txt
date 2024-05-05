@@ -1745,7 +1745,6 @@ baffed
 balneophysiology
 baikerite
 balneotechnics
-balneotherapeutics
 balneotherapy
 balneotherapia
 balneum
@@ -8212,6 +8211,7 @@ byelorussians
 byeman
 bienly
 biennales
+balneotherapeutics
 bienne
 biennia
 biennial
