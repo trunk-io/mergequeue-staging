@@ -5362,7 +5362,6 @@ dentins
 dentiparous
 dentiphone
 dentiroster
-dentirostres
 dentiscalp
 dentist
 dentistic
@@ -16869,6 +16868,7 @@ dreadly
 dreadlocks
 dreadnaught
 dreadness
+dentirostres
 dreadnought
 dreadnoughts
 dreads

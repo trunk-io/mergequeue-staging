@@ -3897,6 +3897,7 @@ fingan
 frenzying
 fingent
 fingerable
+frightenable
 fingerberry
 fingerboard
 fingerboards
@@ -8698,7 +8699,6 @@ feus
 fortnightly
 fortnightlies
 fortnights
-frightenable
 feedingstuff
 fortress
 fortresses
