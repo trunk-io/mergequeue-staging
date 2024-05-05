@@ -3135,7 +3135,6 @@ barwise
 barwood
 bas
 basad
-basal
 basale
 bewares
 basally
@@ -14356,6 +14355,7 @@ brainteasers
 bookwright
 brainward
 brainwash
+basal
 brainwashed
 brainwashers
 brainwashes
