@@ -9619,7 +9619,6 @@ although
 altica
 alticamelus
 altify
-altigraph
 altilik
 altiloquence
 altiloquent
@@ -12701,6 +12700,7 @@ aneroidograph
 aneroids
 ansation
 anes
+altigraph
 anesis
 anesone
 anesthesiant
