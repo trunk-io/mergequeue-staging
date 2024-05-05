@@ -14220,7 +14220,6 @@ circularization
 cyathoid
 circularizations
 circularize
-circularized
 circularizer
 circularizers
 circularizing
@@ -22874,6 +22873,7 @@ conservatorium
 conservators
 conservatorship
 coordinator
+circularized
 conservatrix
 crumblement
 conserve
