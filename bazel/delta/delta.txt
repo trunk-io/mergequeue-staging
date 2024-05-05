@@ -2425,7 +2425,6 @@ deciphers
 decipium
 decise
 decision
-decisional
 decisionmake
 decisions
 decisis
@@ -11199,6 +11198,7 @@ disbend
 drisheen
 disbind
 disblame
+decisional
 disbloom
 disboard
 dabb
