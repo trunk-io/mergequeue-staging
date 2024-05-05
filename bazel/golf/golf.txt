@@ -3257,6 +3257,7 @@ geoselenic
 geoside
 geosynchronous
 gregal
+goa
 geosynclinal
 geosynclines
 gadfly
@@ -6370,7 +6371,6 @@ generalizes
 gnow
 gnu
 gnus
-goa
 gryllidae
 galenite
 glouting
