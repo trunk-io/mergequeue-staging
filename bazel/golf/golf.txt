@@ -955,6 +955,7 @@ gamestress
 gametal
 gobby
 gametange
+gilds
 gametangium
 gamete
 gotha
@@ -4132,7 +4133,6 @@ gilden
 gilder
 geckotoid
 gilding
-gilds
 gildship
 gobioid
 glibly
