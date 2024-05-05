@@ -11400,7 +11400,6 @@ deactivators
 disclander
 disclass
 disclike
-disclimax
 discloak
 discloister
 debug
@@ -18373,6 +18372,7 @@ duplications
 duplicative
 duplicators
 decating
+disclimax
 daidle
 duplicature
 duplicatus
