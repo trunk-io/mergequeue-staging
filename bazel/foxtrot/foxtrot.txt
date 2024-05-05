@@ -4347,7 +4347,6 @@ fishling
 fishmeal
 fabliaux
 fishmeals
-fishnet
 fishnets
 fishplate
 florid
@@ -5698,6 +5697,7 @@ formagenic
 fishberry
 faire
 fliting
+fishnet
 flyting
 freend
 flytings
