@@ -1721,7 +1721,6 @@ gasfiring
 gastrectomy
 gastrectomies
 gastrelcosis
-gastric
 gastricism
 gastrilegous
 gastriloquial
@@ -7739,6 +7738,7 @@ grahams
 gray
 graian
 glossiest
+gastric
 grayback
 goosy
 graybacks
