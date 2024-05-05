@@ -4838,7 +4838,6 @@ encoronet
 encounter
 encounterable
 encountered
-encounterer
 entitlement
 encounterers
 encountering
@@ -12334,6 +12333,7 @@ eyeleteer
 enameled
 ese
 erodable
+encounterer
 extracted
 executorial
 evenmete
