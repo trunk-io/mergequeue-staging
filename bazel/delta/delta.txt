@@ -1616,7 +1616,6 @@ deallocating
 deallocation
 deallocations
 deals
-dealt
 deambulate
 deambulatories
 deamidase
@@ -9192,6 +9191,7 @@ didunculidae
 disparately
 dolos
 didunculinae
+dealt
 didunculus
 didus
 diatribist
