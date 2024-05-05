@@ -10872,7 +10872,6 @@ engarble
 eulamellibranchiata
 electrodynamics
 eulamellibranchiate
-euler
 eulerian
 extraught
 eulimidae
@@ -13421,6 +13420,7 @@ espriella
 extrados
 expurgator
 equatorially
+euler
 expurgatory
 expurgators
 expurge
