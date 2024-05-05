@@ -4910,7 +4910,6 @@ flannelbush
 fand
 flanneled
 flannelet
-friendliwise
 flanneling
 flannelleaf
 flannelleaves
@@ -9271,6 +9270,7 @@ fragrancies
 fragrantly
 fulcraceous
 fragrantness
+friendliwise
 frags
 fray
 fraicheur
