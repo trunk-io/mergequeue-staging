@@ -5973,7 +5973,6 @@ bemask
 bemaster
 bemat
 bembecidae
-bembex
 beme
 bemeal
 bemean
@@ -16822,6 +16821,7 @@ buggess
 buggy
 buggier
 buggies
+bembex
 buggiest
 buggyman
 buggymen
