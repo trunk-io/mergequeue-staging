@@ -9535,7 +9535,6 @@ altaian
 altaic
 altaid
 altair
-abbreviators
 altaite
 altaltissimo
 aitesis
@@ -11788,6 +11787,7 @@ arless
 anaglypton
 anagnorises
 anagnorisis
+abbreviators
 anagnost
 anagnostes
 anagoge
