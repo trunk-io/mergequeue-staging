@@ -2112,7 +2112,6 @@ campsheeting
 campshot
 campsite
 campsites
-campstool
 campstools
 camptodrome
 camptonite
@@ -23731,6 +23730,7 @@ contramure
 contranatural
 contrantiscion
 clefts
+campstool
 contraoctave
 contraorbital
 coteline

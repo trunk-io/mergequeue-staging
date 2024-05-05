@@ -1268,7 +1268,6 @@ fasti
 feudaries
 fastidiosity
 fastidious
-fastidiously
 fusional
 fastidiousness
 favoringly
@@ -2152,6 +2151,7 @@ flammulation
 felsosphaerite
 fearnaught
 felspar
+fastidiously
 felspars
 felspath
 friezy
