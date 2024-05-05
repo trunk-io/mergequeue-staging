@@ -1823,7 +1823,6 @@ balun
 balunda
 balushai
 balusters
-baronetize
 balustrade
 balustraded
 balustrades
@@ -15819,6 +15818,7 @@ bromius
 bromization
 bromize
 bromized
+baronetize
 babassus
 bromizer
 basified
