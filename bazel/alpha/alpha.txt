@@ -18681,7 +18681,6 @@ antanemic
 arc
 arca
 arcabucero
-amboyna
 apophorometer
 arcacea
 arcade
@@ -19136,6 +19135,7 @@ archonship
 archonships
 archontate
 archontic
+amboyna
 archoplasm
 archoplasma
 archoplasmic
