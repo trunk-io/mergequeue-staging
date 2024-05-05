@@ -6010,7 +6010,6 @@ alloantibody
 ageing
 ageings
 ageism
-ageisms
 ageist
 ageists
 agelacrinites
@@ -22888,6 +22887,7 @@ atrocious
 atrociously
 atrociousness
 atrocities
+ageisms
 atrocoeruleus
 atrolactic
 atropaceous
