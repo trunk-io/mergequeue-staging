@@ -4436,7 +4436,6 @@ adrenals
 adrench
 adrenergic
 adrenin
-adrenitis
 adrenochrome
 adrenocortical
 adrenocorticosteroid
@@ -22640,6 +22639,7 @@ athletocracy
 athlothetes
 athodyd
 athodyds
+adrenitis
 athogen
 androgens
 athold
