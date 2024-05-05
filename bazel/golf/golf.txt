@@ -6471,7 +6471,6 @@ gobelin
 gobemouche
 gobet
 gobi
-geodic
 gesticulation
 gamogenetic
 gobia
@@ -7340,6 +7339,7 @@ gossipee
 gossiper
 gossipers
 gossiphood
+geodic
 gentianal
 gaudeamuses
 gravicembalo
