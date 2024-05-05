@@ -1747,7 +1747,6 @@ eleventh
 enuretic
 explosively
 eyeball
-eyeballed
 eyeballing
 eyebalm
 epimeron
@@ -4355,6 +4354,7 @@ expertising
 enablement
 enablers
 enabling
+eyeballed
 enact
 enactable
 excursioner

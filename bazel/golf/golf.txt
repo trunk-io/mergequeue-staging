@@ -3312,6 +3312,7 @@ gepidae
 greige
 gepoun
 ger
+guttering
 geraera
 gerah
 gnathobasic
@@ -10753,7 +10754,6 @@ ganoidean
 gutterblood
 guttery
 greenboard
-guttering
 gutterize
 gutterling
 gutterman
