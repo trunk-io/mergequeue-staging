@@ -6053,7 +6053,6 @@ grummels
 glozing
 glozingly
 gynostemiumia
-glt
 glub
 glucaemia
 glucagon
@@ -9248,6 +9247,7 @@ gatling
 groggily
 grogginess
 grogging
+glt
 grogram
 grogs
 gouaches
