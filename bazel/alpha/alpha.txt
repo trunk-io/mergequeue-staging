@@ -6950,7 +6950,6 @@ acoustical
 agamospore
 aircraftsmen
 aircraftswoman
-aircraftswomen
 aerogeology
 aircraftwoman
 allotments
@@ -19755,6 +19754,7 @@ arillated
 arilled
 acushla
 arilli
+aircraftswomen
 arilliform
 arillode
 arillodes
