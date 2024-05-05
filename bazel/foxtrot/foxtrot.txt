@@ -5661,7 +5661,6 @@ flirtationless
 flirtatiously
 flirtatiousness
 furole
-flirty
 flirtier
 fungous
 flirting
@@ -10764,6 +10763,7 @@ fdnames
 fs
 fstore
 ft
+flirty
 fthm
 forwardation
 ftncmd
