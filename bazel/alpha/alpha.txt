@@ -10330,6 +10330,7 @@ amelet
 amelia
 amelification
 ameliorable
+anticyclone
 ameliorableness
 armigeral
 ameliorant
@@ -15041,7 +15042,6 @@ anticyclically
 attributed
 anticyclogenesis
 anticyclolysis
-anticyclone
 anticyclones
 anticyclonic
 anticyclonically
