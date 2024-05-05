@@ -1814,7 +1814,6 @@ eyeliners
 eyen
 eyeopener
 eyepiece
-eyepit
 eyepoint
 eyepopper
 euonymin
@@ -7284,6 +7283,7 @@ enwreathed
 enwreathing
 enwwove
 euphonym
+eyepit
 elkdom
 epidemic
 enwwoven
