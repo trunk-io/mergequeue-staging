@@ -5130,7 +5130,6 @@ glairs
 glaistig
 glaives
 geochemistry
-geminiform
 glam
 glamberry
 glamorized
@@ -8134,6 +8133,7 @@ grossness
 grapeflower
 grapefruit
 grossierete
+geminiform
 grapeful
 grapey
 grapeys
