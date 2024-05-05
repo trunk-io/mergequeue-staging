@@ -3708,7 +3708,6 @@ bayard
 batrachite
 birostrated
 batrachium
-batrachoid
 bakelite
 breeding
 barotropic
@@ -4628,6 +4627,7 @@ bedding
 beddingroll
 beddings
 bede
+batrachoid
 bro
 bedeaf
 bedeafen
