@@ -1026,7 +1026,6 @@ absolvent
 absolver
 almsgiving
 absolvers
-absolves
 absolving
 abiegh
 absolvitor
@@ -6508,6 +6507,7 @@ agreations
 agree
 attemptability
 agreeability
+absolves
 agreeable
 arduous
 amphanthia
