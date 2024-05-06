@@ -5581,7 +5581,6 @@ glyph
 glyphic
 gyppo
 glyphographer
-ganglionless
 gynaeocracy
 glyphographic
 glyphs
@@ -7100,6 +7099,7 @@ gooseflesh
 gooseflower
 goosefoot
 gavall
+ganglionless
 goosefoots
 goosegirl
 goosegog

@@ -3931,7 +3931,6 @@ concertstck
 cardianesthesia
 cardianeuria
 cardiaplegia
-cardiarctia
 choyaroot
 cardias
 cardiasthenia
@@ -13500,6 +13499,7 @@ ciderkin
 ciderlike
 ciders
 continuedness
+cardiarctia
 cyders
 cydippe
 cydippid
