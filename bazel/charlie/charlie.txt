@@ -27133,7 +27133,6 @@ countershear
 countershock
 countershout
 counterside
-countersiege
 countersign
 countersignal
 countersignatures
@@ -30988,6 +30987,7 @@ cumulous
 cumulus
 cun
 crockeryware
+countersiege
 chabuks
 cuna
 cunabula
