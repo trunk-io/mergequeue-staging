@@ -2960,7 +2960,6 @@ capacitation
 capacitations
 capacitative
 capacitativly
-capacitator
 capacity
 capacities
 capacitor
@@ -27403,6 +27402,7 @@ carwashes
 courtin
 courting
 courtlet
+capacitator
 courtly
 courtlier
 courtliest
