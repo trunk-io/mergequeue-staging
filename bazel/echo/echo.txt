@@ -2321,6 +2321,7 @@ electrobus
 excurvature
 electrocapillary
 essency
+emprize
 electrocapillarity
 electrocardiograms
 electrocardiographically
@@ -4251,7 +4252,6 @@ ectocranial
 emprises
 emprison
 elinvar
-emprize
 emprosthotonic
 emprosthotonos
 epinastic
