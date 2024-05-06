@@ -3481,6 +3481,7 @@ filamentoid
 filamentose
 fulcrumage
 filamentous
+frogmen
 filamentule
 frithborh
 filander
@@ -10299,7 +10300,6 @@ finkel
 froglike
 frogling
 frogmarch
-frogmen
 frogmouth
 frognose
 fruity
