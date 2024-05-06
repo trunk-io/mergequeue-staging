@@ -5228,7 +5228,6 @@ glassed
 glasseye
 glassen
 glassfish
-glassful
 glassfuls
 glassy
 glassie
@@ -6994,6 +6993,7 @@ goodish
 grecian
 goodyship
 goodishness
+glassful
 gracilescent
 goodless
 giddiest
