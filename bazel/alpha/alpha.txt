@@ -20544,6 +20544,7 @@ arteriopalmus
 arteriopathy
 arterioplania
 arterioplasty
+atrichic
 arteriopressor
 arteriorrhaphy
 arterioscleroses
@@ -22861,7 +22862,6 @@ atria
 atrial
 atrible
 atrichia
-atrichic
 atrichosis
 atrichous
 atridean
