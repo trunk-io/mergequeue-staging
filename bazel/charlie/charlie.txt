@@ -10316,7 +10316,6 @@ chichi
 chichicaste
 chichimec
 chichimecan
-chichipate
 cuerda
 chichipe
 chichis
@@ -23334,6 +23333,7 @@ cleanskins
 cratons
 containerport
 containership
+chichipate
 containerships
 containing
 containment
