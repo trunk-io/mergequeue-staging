@@ -12654,6 +12654,7 @@ chronographically
 chronographs
 chronoisothermal
 chronol
+coauditor
 chronologer
 curvedness
 cassina
@@ -29319,7 +29320,6 @@ cryptographer
 cryptography
 cryptographic
 cryptographical
-coauditor
 cryptoheresy
 cryptoheretic
 cryptolite
