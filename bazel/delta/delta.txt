@@ -9622,7 +9622,6 @@ dihexahedral
 dihexahedron
 dolichuric
 dealkalize
-dihybrid
 dogfennel
 dihybridism
 dihybrids
@@ -15778,6 +15777,7 @@ dorsa
 dorsabdominal
 dorsabdominally
 dorsad
+dihybrid
 dorsale
 dorsales
 dorsalgia
