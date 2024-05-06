@@ -533,7 +533,6 @@ giroflore
 gallah
 gallamine
 gombo
-gallanted
 gallantize
 gallantry
 gallants
@@ -7907,6 +7906,7 @@ granddaddy
 griph
 granddads
 gladiate
+gallanted
 granddaughterly
 grandees
 girlishness
