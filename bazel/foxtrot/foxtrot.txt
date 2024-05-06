@@ -9969,6 +9969,7 @@ fried
 friedcake
 friedelite
 foresee
+fstore
 falsifiable
 flatworms
 friedman
@@ -10759,7 +10760,6 @@ frwy
 formular
 fdnames
 fs
-fstore
 ft
 flirty
 fthm
