@@ -3536,7 +3536,6 @@ dims
 defuzes
 deg
 degage
-degame
 degames
 degami
 dogman
@@ -16193,6 +16192,7 @@ drubble
 dowable
 dowage
 dowager
+degame
 dowagerism
 driftway
 dowagers
