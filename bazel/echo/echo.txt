@@ -1098,6 +1098,7 @@ edgingly
 edgrow
 edh
 edhs
+electrokinematics
 equipper
 edibility
 edible
@@ -2445,7 +2446,6 @@ endocrinologies
 eudemonistically
 escorial
 eposes
-electrokinematics
 extispices
 electrokinetic
 enkolpion
