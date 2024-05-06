@@ -16272,6 +16272,7 @@ clinkum
 clinoaxis
 clinocephaly
 clinocephalic
+ceration
 clinocephalous
 clinocephalus
 clinochlore
@@ -23448,7 +23449,6 @@ contentedness
 contenting
 contention
 contentions
-ceration
 contentious
 contentiously
 contentiousness
