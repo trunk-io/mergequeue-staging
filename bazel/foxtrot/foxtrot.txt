@@ -2962,7 +2962,6 @@ fibbing
 fiber
 fiberboard
 fibered
-fiberglas
 fiberglass
 fiberization
 fiberize
@@ -10719,6 +10718,7 @@ frustrately
 frustrater
 formulating
 fictitiousness
+fiberglas
 frustrates
 frustrating
 foretokened
