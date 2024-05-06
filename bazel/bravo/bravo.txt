@@ -3925,6 +3925,7 @@ bazaars
 bazar
 baze
 bazigar
+boltrope
 bazoo
 bazooka
 bazookaman
@@ -12244,7 +12245,6 @@ barandos
 boltmaking
 boltonias
 boltonite
-boltrope
 boltropes
 boltsmith
 boltstrake
