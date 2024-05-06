@@ -4622,7 +4622,6 @@ demiracle
 demiram
 demirelief
 dourahs
-doodia
 demirep
 demirevetment
 demirhumb
@@ -16638,6 +16637,7 @@ dragooner
 dragooning
 dragrope
 dragropes
+doodia
 drags
 dragsaw
 dragsman
