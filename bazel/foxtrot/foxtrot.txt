@@ -4799,6 +4799,7 @@ focometer
 flambage
 flambant
 flambe
+fungible
 flambeau
 flambeaus
 flambeaux
@@ -11183,7 +11184,6 @@ fungi
 fungia
 fungian
 fungibility
-fungible
 fungibles
 fungic
 fungicidal
