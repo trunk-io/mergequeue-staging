@@ -9396,6 +9396,7 @@ chaunter
 chaunters
 chaunting
 chauri
+cpi
 chaus
 chausse
 chaussee
@@ -31807,7 +31808,6 @@ cutinising
 cutinization
 cutinized
 cutinizes
-cpi
 cutinizing
 cutins
 cutireaction
