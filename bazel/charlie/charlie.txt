@@ -5219,7 +5219,6 @@ cuspidated
 cassons
 cassoon
 cassoulet
-cassowary
 cassowaries
 cryohydric
 cassumunar
@@ -11087,6 +11086,7 @@ crossbirth
 chitchatting
 chitimacha
 chitimachan
+cassowary
 checksums
 chitin
 coappears
