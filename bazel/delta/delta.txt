@@ -2325,6 +2325,7 @@ dissociative
 decian
 deciare
 deciares
+discomposes
 deciatine
 decibar
 decibels
@@ -6499,7 +6500,6 @@ descrier
 descriers
 divorce
 danging
-discomposes
 descries
 descript
 dejection
