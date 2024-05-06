@@ -2449,6 +2449,7 @@ decken
 decker
 deckhand
 deckhead
+dragsawing
 deckie
 decking
 deckings
@@ -6558,7 +6559,6 @@ deselects
 desemer
 dichotomised
 decretory
-dragsawing
 domestications
 desensitization
 desensitize
