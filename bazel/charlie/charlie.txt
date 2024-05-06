@@ -8746,7 +8746,6 @@ catoblepas
 chantilly
 chanting
 chantlate
-chantment
 cornflag
 chantor
 chantress
@@ -11844,6 +11843,7 @@ chopin
 cereus
 chopine
 chopines
+chantment
 chopins
 choplogic
 choplogical
