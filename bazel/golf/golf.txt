@@ -7112,7 +7112,6 @@ galvanometers
 goosegrass
 gooseherd
 goosehouse
-giottesque
 gusle
 gooselike
 gooseliver
@@ -9211,6 +9210,7 @@ groanful
 groaning
 groaningly
 groans
+giottesque
 gammer
 groatsworth
 gemmuliferous
