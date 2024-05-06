@@ -7156,7 +7156,6 @@ enunciable
 enunciated
 endochondral
 enunciations
-enunciative
 enunciatively
 encamps
 eradiates
@@ -10574,6 +10573,7 @@ ethonone
 ethopoeia
 ethopoetic
 ethoxide
+enunciative
 explode
 ethoxyethane
 embiidae
