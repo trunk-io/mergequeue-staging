@@ -4839,7 +4839,6 @@ bedsteads
 bedstock
 bedstraw
 batwing
-bedstraws
 beneighbored
 biliteral
 bedstring
@@ -7572,6 +7571,7 @@ bastardize
 babblers
 bewelter
 bewend
+bedstraws
 bewept
 bewest
 bewhig
