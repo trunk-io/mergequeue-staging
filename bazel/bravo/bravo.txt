@@ -5746,6 +5746,7 @@ belive
 bell
 bella
 bellabella
+bunyan
 bellarmine
 bellatrix
 bellbind
@@ -18335,7 +18336,6 @@ buttonwood
 buttressed
 buttresses
 buttressing
-bunyan
 buttresslike
 butts
 buttstrap
