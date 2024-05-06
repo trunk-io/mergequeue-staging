@@ -6738,7 +6738,6 @@ berkshire
 berley
 berlin
 berlina
-berline
 berliners
 berlines
 berlinite
@@ -10603,6 +10602,7 @@ bleakest
 bleaky
 bellware
 bleakish
+berline
 bleakly
 buist
 bleakness
