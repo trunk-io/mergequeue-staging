@@ -8619,7 +8619,6 @@ angeyok
 alkylol
 alkyloxy
 amianthium
-alkyls
 alkin
 alkine
 alkynes
@@ -14793,6 +14792,7 @@ anthropophobia
 awarrant
 alexipharmacum
 anthropophuistic
+alkyls
 anthropopithecus
 anthropopsychic
 adventively
