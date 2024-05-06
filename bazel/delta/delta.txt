@@ -5629,7 +5629,6 @@ dephlegmate
 dephlegmatize
 dephlegmator
 dephlegmatory
-dephlegmedness
 dephlogisticate
 dephlogisticated
 depickle
@@ -7075,6 +7074,7 @@ destuffing
 destuffs
 desubstantiate
 decare
+dephlegmedness
 desucration
 desudation
 desuetude
