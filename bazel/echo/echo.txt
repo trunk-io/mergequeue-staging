@@ -7590,6 +7590,7 @@ epibiotic
 epiblast
 epicheirema
 emboites
+excreation
 epiblastema
 epiblastic
 epibole
@@ -12172,7 +12173,6 @@ extinguishable
 eldrich
 excorticating
 explainability
-excreation
 excrement
 excremental
 excrementally
