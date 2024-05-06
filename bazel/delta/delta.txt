@@ -5281,7 +5281,6 @@ dentate
 dentated
 disfavoured
 dentately
-dentation
 diffusivity
 delawn
 dentatoangulate
@@ -13671,6 +13670,7 @@ dissolutions
 dissolutive
 dissolvability
 dissolvable
+dentation
 dissolvableness
 dissolve
 darnings
