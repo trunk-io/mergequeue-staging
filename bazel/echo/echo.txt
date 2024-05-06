@@ -3290,7 +3290,6 @@ empetraceous
 emanativ
 emanatively
 excommunicator
-emanator
 eulogisation
 emanatory
 emanators
@@ -6579,6 +6578,7 @@ entelechial
 entelechies
 entellus
 entelluses
+emanator
 entelodon
 entemple
 entender
