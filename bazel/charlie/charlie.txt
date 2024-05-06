@@ -23218,7 +23218,6 @@ consubstantive
 camalig
 consuetitude
 consuetude
-consuetudinal
 consuetudinary
 consul
 churl
@@ -31833,6 +31832,7 @@ cutleria
 cutleriales
 cutleries
 cutlers
+consuetudinal
 cutlet
 cutlets
 cutline
