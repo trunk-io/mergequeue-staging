@@ -6221,7 +6221,6 @@ aggros
 aggroup
 aggroupment
 aggur
-aghan
 aghanee
 aghast
 aghlabite
@@ -7262,6 +7261,7 @@ akin
 akindle
 akinesia
 akinesic
+aghan
 appet
 akinete
 aking
