@@ -6441,6 +6441,7 @@ goatskins
 goatstone
 granulitic
 goatsucker
+grapelike
 gaum
 goatweed
 goave
@@ -8133,7 +8134,6 @@ glauber
 gilbertite
 gubernance
 grapelet
-grapelike
 grapeline
 grapenuts
 grapery
