@@ -13848,6 +13848,7 @@ blotchiness
 bowstrings
 bierstubes
 bowtell
+booboos
 bielenite
 bowwow
 bowwows
@@ -16442,7 +16443,6 @@ bubbles
 biography
 bubbletop
 bubbletops
-booboos
 bubbly
 bubblier
 balaustre
