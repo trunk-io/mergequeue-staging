@@ -1687,6 +1687,7 @@ flowages
 fealty
 fearable
 fearbabe
+floricultural
 fimbles
 fusillade
 feared
@@ -11044,7 +11045,6 @@ fumish
 fumishly
 flowerlet
 fumishness
-floricultural
 fistwise
 fumitories
 fummel
