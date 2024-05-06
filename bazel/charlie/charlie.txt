@@ -12137,7 +12137,6 @@ careened
 chowses
 comus
 chowsing
-chowtime
 chowtimes
 chozar
 clench
@@ -21777,6 +21776,7 @@ conducive
 conduciveness
 conduct
 categoric
+chowtime
 conductance
 conducted
 conductible
