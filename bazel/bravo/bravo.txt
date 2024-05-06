@@ -750,7 +750,6 @@ billowed
 brickmaking
 bacterizing
 bacteroid
-bacteroidal
 bacteroideae
 becoiffed
 bacteroides
@@ -4112,6 +4111,7 @@ beans
 beansetter
 beanstalk
 bien
+bacteroidal
 beanstalks
 bibbs
 beaproned
