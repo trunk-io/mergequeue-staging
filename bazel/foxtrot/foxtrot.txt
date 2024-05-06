@@ -1338,7 +1338,6 @@ fatefulness
 fatelike
 fath
 fatheaded
-featish
 fatheadedly
 flag
 fatheads
@@ -8311,6 +8310,7 @@ forkman
 forkmen
 forks
 forksful
+featish
 forktail
 forkwise
 fruiterer
