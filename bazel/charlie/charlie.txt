@@ -3659,7 +3659,6 @@ carboy
 chontawood
 carboyed
 carboys
-carbolated
 carbolating
 carbolfuchsin
 clubfoot
@@ -4556,6 +4555,7 @@ carped
 carpel
 carpellary
 chide
+carbolated
 carpellate
 carpellum
 carpels
