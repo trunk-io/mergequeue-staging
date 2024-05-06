@@ -2696,7 +2696,6 @@ generations
 generative
 generatively
 generativeness
-gossypol
 generator
 generators
 generatrices
@@ -6512,6 +6511,7 @@ gobonee
 gortonite
 gobony
 gesticulative
+gossypol
 gondola
 gobstick
 goclenian
