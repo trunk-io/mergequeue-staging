@@ -1626,7 +1626,6 @@ deamidation
 deamidization
 deamidize
 deaminase
-deaminate
 deaminating
 durango
 deamination
@@ -10995,6 +10994,7 @@ deflagrate
 disallowable
 disallowableness
 disallowance
+deaminate
 disallowances
 dramatised
 disallows
