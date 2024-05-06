@@ -2132,6 +2132,7 @@ felony
 frocking
 forests
 foreshortening
+facette
 felonies
 felonious
 feloniously
@@ -2293,7 +2294,6 @@ fenestellid
 fenestellidae
 fenester
 fenestral
-facette
 fenestrated
 fenestration
 fenestrato
