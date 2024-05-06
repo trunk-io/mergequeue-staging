@@ -5276,7 +5276,6 @@ formedon
 florette
 frigefact
 flectional
-fluffy
 flectionless
 flector
 fledged
@@ -8433,6 +8432,7 @@ fertilize
 formicated
 fragments
 fishing
+fluffy
 formicating
 forbiddingly
 fideicommissumissa
