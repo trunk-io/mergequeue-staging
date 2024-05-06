@@ -3086,7 +3086,6 @@ fibropurulent
 fibrose
 fibroserous
 fibrosis
-fibrosity
 fibrosities
 fibrositis
 ferriprussic
@@ -11632,6 +11631,7 @@ fustet
 fortunite
 fustian
 fas
+fibrosity
 fustianist
 fustianize
 frowardly
