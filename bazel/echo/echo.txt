@@ -7591,6 +7591,7 @@ eleostearate
 epibenthic
 epibiotic
 epiblast
+epicheirema
 emboites
 epiblastema
 epiblastic
@@ -7646,7 +7647,6 @@ exr
 epicerastic
 epiceratodus
 empatron
-epicheirema
 epicheiremata
 emusify
 epichil
