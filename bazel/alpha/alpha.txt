@@ -5988,7 +5988,6 @@ agatize
 agatized
 agatizes
 agatizing
-agatoid
 agau
 argentarius
 agave
@@ -21761,6 +21760,7 @@ aulder
 assibilation
 aftercost
 assidaean
+agatoid
 assidean
 assident
 assidual

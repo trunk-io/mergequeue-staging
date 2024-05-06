@@ -5420,7 +5420,6 @@ fleuronnee
 flew
 flewed
 flewit
-flews
 fasc
 flex
 flexanimous
@@ -10163,6 +10162,7 @@ frisking
 fortranh
 flaxbush
 friskingly
+flews
 frisks
 frigorimeter
 frislet
