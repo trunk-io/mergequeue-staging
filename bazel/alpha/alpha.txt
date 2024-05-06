@@ -21290,6 +21290,7 @@ asymtotes
 asymtotic
 asymtotically
 asynapsis
+auxiliaries
 async
 asynchronism
 asynchronisms
@@ -24527,7 +24528,6 @@ auxetically
 auxil
 auxiliar
 auxiliary
-auxiliaries
 auxiliarly
 auxiliate
 auxiliation
