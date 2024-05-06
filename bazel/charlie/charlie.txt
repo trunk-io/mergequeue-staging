@@ -21236,6 +21236,7 @@ concents
 concentual
 concentus
 concept
+contraposition
 conceptacle
 conceptaculum
 conceptible
@@ -23744,7 +23745,6 @@ contraposaune
 contrapose
 contraposed
 contraposita
-contraposition
 contrapositives
 contrapposto
 contrappostos
