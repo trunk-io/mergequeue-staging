@@ -7648,7 +7648,6 @@ bewraps
 bathycurrent
 bewrapt
 bewrathed
-bewreak
 bewreath
 buntlines
 bewreck
@@ -17937,6 +17936,7 @@ buscarle
 bused
 bush
 bushbashing
+bewreak
 badgeringly
 bushbeck
 bushbodies
