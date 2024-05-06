@@ -14621,7 +14621,6 @@ cissoids
 cissus
 cist
 cyst
-cista
 cistaceae
 cistaceous
 cystadenoma
@@ -25292,6 +25291,7 @@ cornball
 cornbell
 cornberry
 cornbin
+cista
 cornbind
 cornbinks
 cornbird
