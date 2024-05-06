@@ -16858,6 +16858,7 @@ clubfist
 clubfisted
 clubfooted
 clubhand
+curvimeter
 clubhands
 clubhauled
 clubhauling
@@ -31606,7 +31607,6 @@ curvilineal
 carpingly
 curvilinear
 curvilinearly
-curvimeter
 curvinervate
 curvinerved
 curviness
