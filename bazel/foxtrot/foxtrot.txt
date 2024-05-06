@@ -9854,7 +9854,6 @@ freshener
 fresheners
 freshening
 foundries
-freshens
 fresher
 freshes
 freshest
@@ -9903,6 +9902,7 @@ fretted
 formularism
 fretten
 fretters
+freshens
 frettingly
 fretum
 fretways
