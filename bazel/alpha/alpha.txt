@@ -5461,6 +5461,7 @@ afflictions
 afflictive
 afflictively
 avadavats
+allied
 afflicts
 affloof
 affluence
@@ -8830,7 +8831,6 @@ allicholly
 alliciency
 allicit
 allie
-allied
 allies
 angiorrhea
 alligate
