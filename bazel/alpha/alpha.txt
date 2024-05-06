@@ -6813,7 +6813,6 @@ arteriometer
 aigret
 aigrets
 aigrette
-adenomeningeal
 afloat
 aiguelle
 aiguiere
@@ -18078,6 +18077,7 @@ appropriator
 appropriators
 approvability
 approvable
+adenomeningeal
 approvableness
 approvably
 approval
