@@ -4230,7 +4230,6 @@ fronded
 fillagreed
 farmerish
 firmisternia
-fated
 forebitt
 firmisternial
 fezzy
@@ -11620,6 +11619,7 @@ fussle
 fussock
 fusspot
 forthcall
+fated
 fusspots
 fustanella
 fratricide
