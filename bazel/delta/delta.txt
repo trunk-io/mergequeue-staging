@@ -2513,7 +2513,6 @@ declinator
 despoilments
 declinatory
 decline
-declined
 declinedness
 decliner
 downheaded
@@ -9065,6 +9064,7 @@ delumbate
 diedral
 dictyograptus
 dictyoid
+declined
 diction
 disparage
 dictionary
