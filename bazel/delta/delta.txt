@@ -8194,7 +8194,6 @@ diagenetically
 divergence
 diageotropism
 diaglyph
-diaglyphic
 diaglyptic
 dodonaean
 diagnose
@@ -16238,6 +16237,7 @@ dowl
 dowlas
 dowless
 dowly
+diaglyphic
 designlessness
 dowment
 downbear
