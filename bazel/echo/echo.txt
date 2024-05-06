@@ -599,7 +599,6 @@ echinomys
 envisagement
 echinopanax
 echinopsine
-echinorhynchus
 echinorhinidae
 equalising
 echinospermum
@@ -2109,6 +2108,7 @@ elaphomycetaceae
 elaphrium
 elaphure
 encrinoidea
+echinorhynchus
 elaphurine
 elaphurus
 employing
