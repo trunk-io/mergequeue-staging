@@ -6178,7 +6178,6 @@ enodate
 epithalamion
 enodation
 enode
-eundem
 enoil
 enol
 embronze
@@ -7334,6 +7333,7 @@ eduction
 eolith
 eolithic
 eolopile
+eundem
 eolopiles
 ecumenicist
 eom
