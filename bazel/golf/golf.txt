@@ -2082,7 +2082,6 @@ greening
 glaciologists
 gaverick
 gaynesses
-gaviae
 gavial
 gavialis
 gnateater
@@ -5738,6 +5737,7 @@ gconvert
 globularia
 globulariaceae
 ghylls
+gaviae
 globularly
 globularness
 globule
