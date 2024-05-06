@@ -3696,7 +3696,6 @@ batonnier
 batons
 brazier
 batoon
-batophobia
 batrachia
 batrachian
 batrachians
@@ -15490,6 +15489,7 @@ briskish
 briskly
 brisling
 brislings
+batophobia
 briss
 brisses
 botryolite
