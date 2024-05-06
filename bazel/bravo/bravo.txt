@@ -6419,7 +6419,6 @@ benzoin
 benzoinated
 benzoiodohydrin
 benzol
-benzole
 benzoles
 benzoline
 benzolize
@@ -18100,6 +18099,7 @@ busted
 bustee
 busters
 busthead
+benzole
 busti
 bewray
 busty
