@@ -6089,7 +6089,6 @@ burnout
 benchmarked
 bloodlessness
 benchmarking
-benchmarks
 benchmen
 benchwarmer
 bencite
@@ -16271,6 +16270,7 @@ brumous
 brumstane
 brumstone
 brunches
+benchmarks
 brunching
 brune
 brunel
