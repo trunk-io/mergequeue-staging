@@ -3636,7 +3636,6 @@ bendayed
 bathochromic
 bee
 bathoflore
-bathofloric
 batholith
 batholithic
 batholiths
@@ -14517,6 +14516,7 @@ brandle
 brandling
 brandreth
 brandrith
+bathofloric
 birretta
 brangle
 braye
