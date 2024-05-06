@@ -4306,7 +4306,6 @@ gymnospermy
 gymnospermic
 gymnospermous
 gymnosperms
-gymnosporangium
 gymnospore
 gullyhole
 gymnosporous
@@ -4968,6 +4967,7 @@ glabella
 glabellar
 gelatinousness
 glabellous
+gymnosporangium
 glabellum
 gld
 glossology
