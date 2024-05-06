@@ -820,6 +820,7 @@ badgerweed
 badging
 badgir
 badhan
+banqueters
 blackfoot
 bechic
 badiaga
@@ -2214,7 +2215,6 @@ banque
 banquet
 banqueted
 banqueter
-banqueters
 banqueting
 banquets
 ballote
