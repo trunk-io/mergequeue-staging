@@ -11383,7 +11383,6 @@ bluepoints
 bamboozling
 blueprint
 blueprinted
-blueprinting
 blueprints
 bluer
 blues
@@ -11567,6 +11566,7 @@ boardroom
 balsamation
 boards
 boardwalks
+blueprinting
 boarfish
 boarfishes
 boarhound
