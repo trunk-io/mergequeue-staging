@@ -2953,7 +2953,6 @@ deductio
 dubb
 deduction
 deductions
-deductive
 deductively
 deduit
 deduplication
@@ -7681,6 +7680,7 @@ devisings
 devisor
 devisors
 devitalisation
+deductive
 defoliators
 departmental
 devitalise
