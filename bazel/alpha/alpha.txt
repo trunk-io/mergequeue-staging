@@ -2012,7 +2012,6 @@ acerra
 acertannin
 acervatim
 acervation
-acervative
 acervose
 acervuline
 acervulus
@@ -7733,6 +7732,7 @@ alcibiadean
 alcibiades
 alcicornium
 alcid
+acervative
 aberrator
 alcidae
 alcidine
