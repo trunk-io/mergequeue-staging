@@ -3934,6 +3934,7 @@ emilia
 emim
 esprove
 eminence
+enfatico
 evaders
 eminences
 extraboldface
@@ -14146,7 +14147,6 @@ exhumated
 exulcerative
 exulceratory
 exulding
-enfatico
 exult
 exultance
 exultancy
