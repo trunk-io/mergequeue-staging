@@ -1272,7 +1272,6 @@ gaolers
 gaoling
 gaols
 gaon
-geobotany
 gaonate
 gape
 gaped
@@ -1996,6 +1995,7 @@ getters
 goatskin
 gainless
 gaulding
+geobotany
 gyniolatry
 gaulic
 gaulish
