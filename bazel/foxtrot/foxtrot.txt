@@ -1304,7 +1304,6 @@ fastnacht
 fastnesses
 foreseing
 filicin
-feed
 fasts
 faunus
 fatiguability
@@ -9390,6 +9389,7 @@ fiddlestring
 frankincense
 franking
 frenzied
+feed
 frankish
 fumosity
 frankist

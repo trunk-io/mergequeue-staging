@@ -7594,7 +7594,6 @@ deviating
 deviation
 deviational
 deviations
-deviator
 deviatory
 deviators
 deys
@@ -17164,6 +17163,7 @@ dryopithecine
 dryopteroid
 dripless
 draughter
+deviator
 drypoints
 dripolator
 drippage
