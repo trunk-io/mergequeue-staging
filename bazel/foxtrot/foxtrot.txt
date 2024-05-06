@@ -7743,6 +7743,7 @@ fleuretty
 forelands
 foreleader
 forelegs
+frontad
 forelocks
 fewer
 forelook
@@ -10357,7 +10358,6 @@ frondous
 fille
 frons
 front
-frontad
 fechnerian
 frontage
 floe
