@@ -10773,7 +10773,6 @@ blepharoptosis
 baroscopic
 blepharorrhaphy
 blepharosymphysis
-blepharosyndesmitis
 blepharosynechia
 blepharospasm
 blepharosphincterectomy
@@ -17323,6 +17322,7 @@ buncombe
 buncombes
 buncos
 bund
+blepharosyndesmitis
 bundahish
 bundestag
 blowess
