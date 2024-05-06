@@ -1290,7 +1290,6 @@ fumigate
 fastigious
 fastigium
 foreswore
-fastiia
 fasting
 fastingly
 finalists
@@ -4358,6 +4357,7 @@ fasted
 fishtailed
 fitten
 fishtails
+fastiia
 fishways
 fishweed
 foothils
