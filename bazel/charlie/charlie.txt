@@ -6557,7 +6557,6 @@ ceding
 cedis
 cedrat
 cleruch
-cedrela
 cedrene
 cedry
 cedrin
@@ -30157,6 +30156,7 @@ cruentate
 cruentation
 cruentous
 cruet
+cedrela
 cruety
 cruise
 cruised
