@@ -4567,7 +4567,6 @@ encephalin
 encephalitic
 exocolitis
 exceptant
-encephalitis
 emollients
 encephalitogenic
 encephalocele
@@ -13693,6 +13692,7 @@ extincts
 extine
 extinguised
 endured
+encephalitis
 ententophil
 extinguish
 extinguishant

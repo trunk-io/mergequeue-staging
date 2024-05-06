@@ -2328,7 +2328,6 @@ candid
 candida
 candidacy
 candidate
-cursoriness
 candidated
 candidates
 candidateship
@@ -16575,6 +16574,7 @@ cloying
 cloyingly
 cloyingness
 cloyless
+cursoriness
 cloine
 cloyne
 cloiochoanitic
