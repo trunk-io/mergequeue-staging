@@ -703,6 +703,7 @@ gallop
 gallopade
 gonesome
 galloped
+goalposts
 grottolike
 galloper
 galloperdix
@@ -6394,7 +6395,6 @@ guitarists
 greeting
 goalpost
 goals
-goalposts
 goaltenders
 goan
 gnosticize
