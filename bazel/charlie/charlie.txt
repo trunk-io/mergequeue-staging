@@ -7920,7 +7920,6 @@ cesta
 cestas
 ceste
 cestidae
-cestoda
 cestodaria
 cestode
 cestodes
@@ -12717,6 +12716,7 @@ chubbiest
 chubbiness
 chubs
 chubsucker
+cestoda
 chuchona
 chuck
 chucked

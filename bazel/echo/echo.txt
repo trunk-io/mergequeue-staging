@@ -4774,6 +4774,7 @@ experimentalists
 excoriates
 extraretinal
 enclosed
+eryops
 encloser
 enclosers
 encloses
@@ -9107,7 +9108,6 @@ erionite
 eriophyid
 eriophyidae
 eryopid
-eryops
 eryopsid
 eriosoma
 epipodite
