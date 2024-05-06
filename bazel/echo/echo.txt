@@ -2308,7 +2308,6 @@ electroamalgamation
 electroanalytic
 electroanalytical
 electroballistically
-electroballistician
 electroballistics
 electrobath
 electrobiological
@@ -7608,6 +7607,7 @@ epicanthi
 epicanthic
 epicanthus
 epicardium
+electroballistician
 epicarid
 epicaridan
 epicaridea
