@@ -2479,7 +2479,6 @@ flections
 flatboat
 ferociousness
 ferocity
-ferocities
 ferox
 ferrara
 flockier
@@ -10526,6 +10525,7 @@ fps
 froward
 formulise
 frowardness
+ferocities
 frower
 frown
 frowned
