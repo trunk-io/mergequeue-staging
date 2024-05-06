@@ -3834,7 +3834,6 @@ finbone
 finchbacked
 finched
 finchery
-finches
 find
 footlining
 findal
@@ -9767,6 +9766,7 @@ fremontodendron
 fremt
 fly
 fren
+finches
 frenal
 formalizable
 frenate

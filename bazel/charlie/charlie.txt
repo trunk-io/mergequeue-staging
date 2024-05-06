@@ -672,7 +672,6 @@ cageling
 cagelings
 cageman
 cageot
-cager
 cagers
 cagester
 churchshot
@@ -28039,6 +28038,7 @@ crotalus
 cramoisies
 cramp
 crampbit
+cager
 cramped
 crampedness
 cramper
