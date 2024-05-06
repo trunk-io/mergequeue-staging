@@ -2047,6 +2047,7 @@ belittled
 bandworm
 bane
 baneberry
+burgeons
 baned
 baneful
 banefully
@@ -17592,7 +17593,6 @@ burgensic
 burgeon
 burgeoned
 burgeoning
-burgeons
 burger
 burgers
 burgess
