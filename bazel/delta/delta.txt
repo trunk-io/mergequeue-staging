@@ -5772,7 +5772,6 @@ depopulative
 decastich
 depopulators
 deport
-deportability
 deportation
 deporte
 deported
@@ -9679,6 +9678,7 @@ dilacerated
 dilacerating
 dikaryotic
 dilaceration
+deportability
 diobolon
 dilactone
 dilambdodont

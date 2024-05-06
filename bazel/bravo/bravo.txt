@@ -6328,7 +6328,6 @@ bahada
 benzamide
 benzamido
 benzamine
-benzaminic
 benzamino
 benzanalgen
 beaconage
@@ -18323,6 +18322,7 @@ buttonholing
 buttonhook
 buttony
 buttoning
+benzaminic
 buttonless
 buttonlike
 buttonmold
