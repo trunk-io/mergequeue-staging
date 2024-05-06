@@ -14933,7 +14933,6 @@ cytokinesis
 cytokinetic
 cytokinin
 cytol
-citola
 citolas
 citole
 citoler
@@ -23779,6 +23778,7 @@ contrarieties
 contrarily
 contrariness
 contrarious
+citola
 contrariously
 contrariousness
 crosslegs

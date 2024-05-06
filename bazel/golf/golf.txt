@@ -390,6 +390,7 @@ gynaecoid
 gynobasic
 galangin
 gauntries
+gourde
 galante
 gaure
 galanthus
@@ -7438,7 +7439,6 @@ grigri
 gourami
 grudgingly
 gourd
-gourde
 gourded
 gourdes
 gristmiller
