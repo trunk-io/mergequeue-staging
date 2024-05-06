@@ -8182,7 +8182,6 @@ algesimeter
 algesiometer
 algy
 algic
-algicide
 algicides
 algid
 anargyros
@@ -13550,6 +13549,7 @@ ankylocheilia
 ankylodactylia
 ankylodontia
 ankyloglossia
+algicide
 antipleuritic
 ankylomerism
 ankylophobia
