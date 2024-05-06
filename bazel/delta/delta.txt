@@ -11951,7 +11951,6 @@ disenact
 disenamor
 disenchain
 disenchant
-disenchanted
 decenniad
 disenchanter
 disenchanting
@@ -13929,6 +13928,7 @@ distracting
 distractions
 distractively
 drip
+disenchanted
 distracts
 distrail
 distrain
