@@ -2580,7 +2580,6 @@ cannery
 canneries
 cannet
 cannetille
-clonothrix
 canny
 cannibal
 cannibalish
@@ -13552,6 +13551,7 @@ cilectomy
 correctress
 cornichon
 cilia
+clonothrix
 ciliary
 ciliata
 ciliate
