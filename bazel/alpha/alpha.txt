@@ -2687,7 +2687,6 @@ ancestorial
 acontius
 acool
 agricole
-acop
 acopic
 acopyrin
 acopyrine
@@ -20748,6 +20747,7 @@ artificer
 artificership
 artifices
 artificial
+acop
 artificialism
 artificialities
 artificialize
