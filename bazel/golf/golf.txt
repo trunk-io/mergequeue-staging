@@ -2509,7 +2509,6 @@ geminative
 gemini
 geminid
 geminiflorous
-geminis
 geminous
 gemitores
 gemitorial
@@ -5782,6 +5781,7 @@ georgical
 greencloth
 gustatorial
 gradative
+geminis
 glomerular
 glomerulate
 glomerule
