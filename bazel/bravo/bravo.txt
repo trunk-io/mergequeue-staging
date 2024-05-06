@@ -4612,7 +4612,6 @@ byplays
 brinston
 bedcovers
 beddable
-bedded
 bedder
 bedding
 beddingroll
@@ -6427,6 +6426,7 @@ benzolize
 benzols
 benzonaphthol
 bonds
+bedded
 benzonitrile
 benzonitrol
 bluebuck
