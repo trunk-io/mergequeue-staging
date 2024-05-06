@@ -4552,7 +4552,6 @@ fixable
 fixage
 fixate
 fixated
-favism
 fixatifs
 fixation
 footslogs
@@ -11387,6 +11386,7 @@ fortread
 furison
 furl
 furlable
+favism
 furlan
 furlana
 furlane
