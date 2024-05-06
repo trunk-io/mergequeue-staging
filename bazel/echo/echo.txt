@@ -8729,7 +8729,6 @@ ethrogs
 equip
 equipaga
 equipage
-equipages
 equipartile
 equipartisan
 equipartition
@@ -10580,6 +10579,7 @@ etiam
 etym
 enamelware
 etymic
+equipages
 epituberculous
 etymography
 etymologer
