@@ -6869,7 +6869,6 @@ draff
 despatcher
 despatchers
 despatches
-despoiling
 despatching
 despeche
 despecialization
@@ -9562,6 +9561,7 @@ dignifies
 dignifying
 dignitary
 dignitarial
+despoiling
 dignitas
 dignity
 dignities
