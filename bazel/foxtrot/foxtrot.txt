@@ -2253,7 +2253,6 @@ fenagles
 furoate
 fenberry
 fence
-fenced
 fideicommissary
 fencelessness
 fencelet
@@ -5190,6 +5189,7 @@ flawiest
 fadge
 flawing
 flawless
+fenced
 forex
 flawlessly
 fergusite
