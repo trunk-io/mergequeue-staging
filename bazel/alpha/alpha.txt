@@ -1795,6 +1795,7 @@ accreditate
 accreditation
 accreditations
 accredited
+alveolar
 accreditee
 accrediting
 accreditment
@@ -9770,7 +9771,6 @@ alveated
 aquilon
 alveola
 alveolae
-alveolar
 alveolary
 antiwhite
 alveolariform
