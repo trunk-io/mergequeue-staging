@@ -2644,6 +2644,7 @@ feruled
 freakery
 ferules
 ferulic
+flunk
 ferv
 fervence
 forestaller
@@ -6325,7 +6326,6 @@ fidgeter
 flumping
 flumps
 favouring
-flunk
 flunked
 flunkey
 fartherance
