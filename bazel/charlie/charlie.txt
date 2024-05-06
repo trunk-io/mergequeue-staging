@@ -7742,7 +7742,6 @@ cerotin
 cerotypes
 cerous
 ceroxyle
-ceroxylon
 cerrero
 cerrial
 cerris
@@ -15018,6 +15017,7 @@ cytostromatic
 cytotactic
 clenched
 convictment
+ceroxylon
 carpologically
 cytotaxis
 cytotaxonomy
