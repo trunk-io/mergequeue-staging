@@ -6240,7 +6240,6 @@ enounced
 enouncement
 enouncing
 exion
-enow
 elaterids
 enphytotic
 enpia
@@ -10667,6 +10666,7 @@ euascomycetes
 euaster
 eubacteria
 eubacteriales
+enow
 eubacterium
 embassadress
 effusing
