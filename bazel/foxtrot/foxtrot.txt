@@ -1960,7 +1960,6 @@ feeds
 feedstock
 feedstuff
 fourniture
-feedstuffs
 feedway
 feedwater
 feeing
@@ -3296,6 +3295,7 @@ fluctuations
 filmdoms
 ficoideae
 fieldy
+feedstuffs
 fieldish
 filmizing
 fieldleft
