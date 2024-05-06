@@ -6308,7 +6308,6 @@ dermohemal
 dermohemia
 dermohumeral
 dermoid
-disciplinary
 dermoidal
 dermoidectomy
 desexed
@@ -15869,6 +15868,7 @@ dosers
 demiman
 dosimeter
 dosimetric
+disciplinary
 dosimetrician
 dosimetries
 dosimetrist
