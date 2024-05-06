@@ -24397,7 +24397,6 @@ autosight
 activation
 albuminuric
 adversant
-autosign
 autosymbolic
 autosymbolical
 autosymbolically
@@ -25284,6 +25283,7 @@ azoformamide
 azogallein
 azogreen
 azogrenadine
+autosign
 azohumic
 azoic
 azole
