@@ -10307,7 +10307,6 @@ etherialise
 eyecup
 etherialised
 etherialising
-etherialism
 etherialize
 etherialized
 etherially
@@ -11731,6 +11730,7 @@ ewe
 emacerated
 ewerer
 ewery
+etherialism
 eweries
 eruditely
 ewes
