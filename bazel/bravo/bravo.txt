@@ -2670,6 +2670,7 @@ baryonic
 baryons
 baryphony
 baryphonia
+boxholder
 baryphonic
 bucketer
 baris
@@ -13881,7 +13882,6 @@ boxhauling
 boxhauls
 boxhead
 bluffable
-boxholder
 boxy
 boxiana
 boxier
