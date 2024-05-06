@@ -738,6 +738,7 @@ gallowsward
 galls
 goatherds
 gallstone
+gnatsnapper
 governorships
 gallstones
 galluot
@@ -6308,7 +6309,6 @@ gnatlike
 gnatoo
 gnatproof
 gnats
-gnatsnapper
 gnattiest
 gnatworm
 gauleiter
