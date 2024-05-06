@@ -6393,7 +6393,6 @@ benzodiazine
 benzodiazole
 benzofluorene
 benzofulvene
-breezeless
 bollen
 benzofuran
 benzofuryl
@@ -12594,6 +12593,7 @@ bonspells
 brike
 bonspiel
 buzzier
+breezeless
 bonspiels
 bontebok
 bonteboks
