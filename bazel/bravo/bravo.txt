@@ -5562,7 +5562,6 @@ beknotting
 baronetcies
 beknown
 bel
-bela
 belabor
 belabored
 belaboring
@@ -11744,6 +11743,7 @@ bodacious
 bodaciously
 bergama
 boddagh
+bela
 boddhisattva
 bindery
 brazilein

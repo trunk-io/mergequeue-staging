@@ -9982,7 +9982,6 @@ dimnesses
 dimolecular
 debriefs
 dimoric
-debating
 dimorph
 dimorphism
 dimorphisms
@@ -16174,6 +16173,7 @@ dovening
 dovens
 doddy
 doves
+debating
 dovetailed
 defenestrate
 dovetailer
