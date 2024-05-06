@@ -7426,7 +7426,6 @@ ceral
 ceramal
 circumplication
 ceramals
-cerambycid
 cerambycidae
 ceramiaceae
 ceramiaceous
@@ -23145,6 +23144,7 @@ constrainable
 constrained
 constrainedly
 constrainedness
+cerambycid
 carroll
 constrainer
 constraining
