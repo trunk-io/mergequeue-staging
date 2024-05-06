@@ -21036,6 +21036,7 @@ asclepiadaceae
 asclepiadaceous
 asclepiadae
 asclepiadean
+atomy
 asclepiadeous
 asclepiadic
 asclepian
@@ -22755,7 +22756,6 @@ atom
 atomatic
 atomechanics
 atomerg
-atomy
 atomic
 atomical
 atomically
