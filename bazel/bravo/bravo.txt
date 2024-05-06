@@ -918,7 +918,6 @@ baggers
 baggie
 baggier
 baggies
-baggiest
 baggily
 bagging
 breakfasted
@@ -7878,6 +7877,7 @@ biskop
 benzophenanthroline
 bibliognostic
 bibliogony
+baggiest
 bibliograph
 bibliographer
 bibliographers
