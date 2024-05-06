@@ -227,7 +227,6 @@ facultize
 facundity
 frankheartedness
 fad
-fadable
 fadaise
 fragrant
 faddy
@@ -1286,6 +1285,7 @@ flanned
 fastidium
 fastigia
 fideicommissum
+fadable
 fraunch
 forestology
 fumigate
