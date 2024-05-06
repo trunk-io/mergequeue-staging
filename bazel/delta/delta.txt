@@ -2544,7 +2544,6 @@ decoat
 decocainize
 decocted
 decoctible
-decocting
 decoction
 decoctive
 decocts
@@ -17416,6 +17415,7 @@ drosky
 droskies
 drosograph
 drosometer
+decocting
 drosophila
 drosophilae
 drosophilas
