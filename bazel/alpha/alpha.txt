@@ -1462,7 +1462,6 @@ accel
 accelerable
 accelerando
 accelerant
-accelerated
 arsenic
 acceleratedly
 accelerating
@@ -14137,6 +14136,7 @@ antacrid
 antadiform
 antae
 antaeus
+accelerated
 antagony
 antagonisable
 antagonise
