@@ -5453,7 +5453,6 @@ flexors
 flexuosely
 flexuoseness
 flexuosity
-flexuousness
 flexura
 floccing
 flexure
@@ -5954,6 +5953,7 @@ floreat
 floreated
 fliped
 furnaced
+flexuousness
 floreating
 florences
 florent
