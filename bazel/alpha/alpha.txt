@@ -1901,7 +1901,6 @@ accusative
 accusatively
 accusativeness
 accusatives
-accusator
 accusatory
 accusatorially
 accusatrix
@@ -16541,6 +16540,7 @@ ameiurus
 antiwear
 antiwedge
 antiweed
+accusator
 antiwhitism
 antixerophthalmic
 antizoea
