@@ -3284,6 +3284,7 @@ acts
 aminic
 artal
 actu
+alvia
 actual
 actualisation
 adult
@@ -9793,7 +9794,6 @@ alveolonasal
 alveolosubnasal
 alveolus
 alveus
-alvia
 alvin
 alvina
 alvine
