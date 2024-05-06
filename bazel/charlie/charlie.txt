@@ -11226,7 +11226,6 @@ chloranthaceous
 chloranthy
 cinefaction
 chlorastrolite
-chlorate
 chlorates
 chimars
 chlorcosane
@@ -11687,6 +11686,7 @@ chomp
 chomped
 chompers
 chomping
+chlorate
 chomps
 commissionary
 chon
