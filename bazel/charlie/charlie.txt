@@ -2468,7 +2468,6 @@ canfields
 crystic
 canfuls
 cangan
-cangenet
 cangy
 cangia
 cangle
@@ -19788,6 +19787,7 @@ combusting
 combustious
 combustive
 combustively
+cangenet
 combustor
 combusts
 combwise
