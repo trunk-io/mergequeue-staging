@@ -2164,7 +2164,6 @@ gazella
 gazellelike
 gazelles
 greyling
-gazelline
 gauzewing
 gyring
 gazer
@@ -4577,6 +4576,7 @@ graphiological
 gio
 gaucho
 gauchest
+gazelline
 giobertite
 grande
 giocoso
