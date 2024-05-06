@@ -5550,7 +5550,6 @@ bekissed
 bekisses
 bekissing
 beknave
-beknight
 belfather
 blossoming
 beknighted
@@ -15625,6 +15624,7 @@ boolies
 broadway
 broadwayite
 broadways
+beknight
 broadwife
 broadwise
 brob
