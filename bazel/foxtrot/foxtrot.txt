@@ -3085,7 +3085,6 @@ fibrose
 fibroserous
 fibrosis
 fibrosities
-fibrositis
 ferriprussic
 fibrotuberculosis
 fusarial
@@ -4937,6 +4936,7 @@ framableness
 forcibleness
 flapperism
 fruticulture
+fibrositis
 flappers
 flappy
 feud
