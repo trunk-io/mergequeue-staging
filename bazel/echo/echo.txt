@@ -1817,6 +1817,7 @@ eyeliners
 eyen
 eyeopener
 eyepiece
+exposable
 eyepoint
 eyepopper
 euonymin
@@ -13296,7 +13297,6 @@ entireties
 exporting
 exports
 easier
-exposable
 exposal
 exposed
 ethonomic
