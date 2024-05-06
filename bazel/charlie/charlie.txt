@@ -8708,7 +8708,6 @@ channelwards
 channer
 criticizable
 chanoyu
-chanson
 chansonette
 chansonnette
 chansonnier
@@ -12098,6 +12097,7 @@ chouka
 choule
 choultries
 chounce
+chanson
 choupic
 chouquette
 chous
