@@ -4958,6 +4958,7 @@ antedon
 aerical
 aerides
 aerie
+armours
 aeried
 aerier
 aeries
@@ -20050,7 +20051,6 @@ armourers
 armoury
 armouries
 armouring
-armours
 acidimetry
 armozeen
 armozine
