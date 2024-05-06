@@ -2643,6 +2643,7 @@ canoeiro
 canoeist
 canoeists
 canoeload
+curlier
 canoeman
 canoes
 canoewood
@@ -31372,7 +31373,6 @@ curlicued
 curlicues
 curlycues
 curlicuing
-curlier
 curliest
 curliewurly
 curliewurlie
