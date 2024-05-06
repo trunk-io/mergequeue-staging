@@ -4337,7 +4337,6 @@ gyn
 gynaecea
 governess
 genapper
-gynaeceum
 gynaecia
 gynaecic
 gynaecium
@@ -8026,6 +8025,7 @@ granitelike
 granites
 granitic
 granitical
+gynaeceum
 graniticoline
 getter
 granitiferous
