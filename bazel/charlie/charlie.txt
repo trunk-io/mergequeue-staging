@@ -9031,7 +9031,6 @@ chariotlike
 chariotman
 chariotry
 chariots
-chariotway
 commercialised
 chromophane
 charism
@@ -24848,6 +24847,7 @@ coraciiformes
 coracine
 coracle
 cajole
+chariotway
 coracler
 coracles
 coracoacromial
