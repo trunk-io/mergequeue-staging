@@ -5734,6 +5734,7 @@ belion
 barbas
 beliquor
 beliquors
+boggard
 belite
 belittlement
 bulbocodium
@@ -11879,7 +11880,6 @@ beliked
 bogeys
 boget
 bogfern
-boggard
 bogged
 boggier
 bogginess
