@@ -5592,7 +5592,6 @@ belaying
 belays
 benzalethylamine
 belait
-betting
 bastion
 biface
 belam
@@ -16041,6 +16040,7 @@ brookier
 brookite
 brookites
 brookless
+betting
 baline
 beatille
 brooklet
