@@ -2897,6 +2897,7 @@ canular
 canulas
 canulate
 canulated
+chorioallantoic
 canulates
 canulating
 comatic
@@ -11960,7 +11961,6 @@ chorines
 choring
 cactus
 chorio
-chorioallantoic
 chorioallantoid
 chorioallantois
 choriocapillary
