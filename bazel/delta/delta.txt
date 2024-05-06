@@ -2548,6 +2548,7 @@ disincarnation
 decodable
 decode
 deprecable
+discoursively
 decoder
 decoders
 decodes
@@ -11672,7 +11673,6 @@ discoursers
 discourses
 discoursing
 discoursive
-discoursively
 discoursiveness
 daydreamed
 discourteous
