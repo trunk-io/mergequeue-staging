@@ -5168,6 +5168,7 @@ aeropulse
 aerosat
 aeroscope
 aeroscopy
+alkaligen
 aeroscopically
 aerose
 aerosiderite
@@ -6801,7 +6802,6 @@ aiglette
 aigre
 aigremore
 arteriometer
-alkaligen
 aigret
 aigrets
 aigrette
