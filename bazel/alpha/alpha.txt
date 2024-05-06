@@ -14545,7 +14545,6 @@ antholyza
 anthology
 anthologically
 anthologies
-anthologise
 anthologised
 anthologising
 anthologist
@@ -21045,6 +21044,7 @@ atomy
 asclepiadeous
 asclepiadic
 asclepian
+anthologise
 asclepias
 asclepidin
 asclepidoid
