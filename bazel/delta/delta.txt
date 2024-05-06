@@ -2876,7 +2876,6 @@ decursively
 decurt
 decurtate
 ducture
-decurvation
 decurvature
 decurve
 decurves
@@ -15079,6 +15078,7 @@ doings
 doit
 doited
 doitkin
+decurvation
 doits
 dojigger
 dojiggy
