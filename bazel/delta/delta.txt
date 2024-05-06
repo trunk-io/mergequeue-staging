@@ -633,6 +633,7 @@ dammars
 diapery
 digitisation
 damme
+desynonymize
 dammed
 dammer
 dammers
@@ -6695,7 +6696,6 @@ desinent
 dallying
 desinential
 desynonymization
-desynonymize
 depeopled
 desiodothyroxine
 desipience
