@@ -4213,6 +4213,7 @@ employe
 employee
 employer
 employers
+epistyle
 employes
 employless
 employment
@@ -8281,7 +8282,6 @@ episthotonos
 elaeocarpaceous
 epistylar
 epistilbite
-epistyle
 epistyles
 epistylis
 exulcerate

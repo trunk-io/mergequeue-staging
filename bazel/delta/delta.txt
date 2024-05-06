@@ -8023,6 +8023,7 @@ dhow
 dhows
 dhritarashtra
 dhunchee
+digested
 dhurna
 dhurnas
 dhurra
@@ -9459,7 +9460,6 @@ diolefin
 digest
 disparateness
 digestant
-digested
 digestedly
 digestedness
 digester
