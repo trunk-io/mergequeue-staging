@@ -7916,6 +7916,7 @@ cestas
 ceste
 cestidae
 cestodaria
+chickweed
 cestode
 cestodes
 cestoi
@@ -10366,7 +10367,6 @@ chickpea
 chickpeas
 chicks
 chickstone
-chickweed
 conkanee
 chickweeds
 chickwit
