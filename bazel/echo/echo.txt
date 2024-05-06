@@ -141,7 +141,6 @@ eremochaeta
 earshot
 earshots
 earsore
-epistolean
 earsplitting
 earspool
 earstone
@@ -4641,6 +4640,7 @@ enchanting
 enchantingness
 enchantment
 epicoelia
+epistolean
 enchantments
 enchants
 encharge
