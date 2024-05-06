@@ -1957,7 +1957,6 @@ bandfile
 bandfiled
 bandfish
 bandgap
-bandh
 blanketry
 bandhava
 bandhook
@@ -14871,6 +14870,7 @@ billiken
 brevi
 breastwood
 breastworks
+bandh
 brothership
 breath
 breathability
