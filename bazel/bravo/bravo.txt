@@ -5697,7 +5697,6 @@ baulea
 beliefful
 belieffulness
 beliefless
-beliefs
 belier
 beliers
 belies
@@ -15782,6 +15781,7 @@ batak
 bromelins
 bromellite
 bromeosin
+beliefs
 beclowned
 befrogged
 benefactor
