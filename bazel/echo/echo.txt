@@ -7232,7 +7232,6 @@ environs
 envisage
 enthrill
 embarrassingly
-envisages
 envisaging
 envision
 encoffinment
@@ -9634,6 +9633,7 @@ escrow
 esterlin
 escrowed
 escuage
+envisages
 escudero
 escudo
 escudos
