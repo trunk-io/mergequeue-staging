@@ -3998,7 +3998,6 @@ adjection
 adjectional
 adjectitious
 adjectival
-autotheism
 adjectivally
 adjective
 adjectively
@@ -5350,6 +5349,7 @@ affectingly
 antigen
 affection
 affectional
+autotheism
 affectionally
 acreages
 affectionately
