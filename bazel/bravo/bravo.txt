@@ -12495,6 +12495,7 @@ bonetta
 bonewood
 bonework
 bonewort
+bors
 bonfires
 bongar
 bonged
@@ -13130,7 +13131,6 @@ batussi
 borrower
 borrowers
 borrows
-bors
 borsch
 borsches
 borscht
