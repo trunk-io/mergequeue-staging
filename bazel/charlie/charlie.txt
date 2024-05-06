@@ -4066,6 +4066,7 @@ cardiotherapy
 cataloger
 cytoid
 cardiotherapies
+chlorophyllide
 cardiotonic
 cardiotoxic
 concussation
@@ -11381,7 +11382,6 @@ chlorophyl
 chlorophyll
 clarshech
 chlorophyllian
-chlorophyllide
 chlorophylliferous
 crosslighted
 chlorophylligerous
