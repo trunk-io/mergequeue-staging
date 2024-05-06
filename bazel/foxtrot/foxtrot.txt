@@ -198,7 +198,6 @@ factualism
 fireboot
 flattener
 factualistic
-factuality
 factually
 figurational
 flavorous
@@ -8592,6 +8591,7 @@ fardh
 forsee
 forseeable
 forseek
+factuality
 forseen
 forset
 forshape

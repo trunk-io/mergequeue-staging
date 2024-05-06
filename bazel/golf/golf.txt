@@ -3358,7 +3358,6 @@ gerbilles
 gerbillinae
 gunbearer
 gerbils
-gerbo
 gerefa
 gerenda
 gerendum
@@ -10589,6 +10588,7 @@ gramashes
 guppy
 guileless
 guppies
+gerbo
 guptavidya
 gurdle
 gurge
