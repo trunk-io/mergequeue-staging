@@ -14249,7 +14249,6 @@ colportage
 caslon
 circuli
 circulin
-colibacterin
 circulus
 circumadjacent
 circumagitate
@@ -27014,6 +27013,7 @@ counterplead
 caroubier
 counterpleading
 counterplease
+colibacterin
 caulescent
 catfalls
 counterplot
