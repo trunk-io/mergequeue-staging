@@ -314,7 +314,6 @@ faille
 failles
 fatiguing
 fails
-failsafe
 failsoft
 fiador
 failure
@@ -4364,6 +4363,7 @@ fishweir
 fumbling
 fishwoman
 fishwood
+failsafe
 fishworker
 fishworks
 fishworm
