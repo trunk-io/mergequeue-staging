@@ -2642,6 +2642,7 @@ canoe
 canoed
 canoeing
 canoeiro
+cointers
 canoeist
 canoeists
 canoeload
@@ -18637,7 +18638,6 @@ chestfuls
 cajoles
 candlelighting
 cointerring
-cointers
 cointersecting
 cointise
 cointreau
