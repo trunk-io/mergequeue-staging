@@ -2536,7 +2536,6 @@ fribblery
 floorshow
 ferrites
 focusable
-ferritic
 ferritins
 frolics
 ferritization
@@ -9413,6 +9412,7 @@ feuing
 foreloper
 flavins
 frankness
+ferritic
 franseria
 facing
 frantic
