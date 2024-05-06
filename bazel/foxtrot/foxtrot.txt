@@ -2904,7 +2904,6 @@ fratority
 feverweed
 feverwort
 few
-fewer
 fewmets
 fogle
 frogland
@@ -7745,6 +7744,7 @@ forelands
 foreleader
 forelegs
 forelocks
+fewer
 forelook
 flowerets
 flavobacterium

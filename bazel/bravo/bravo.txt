@@ -868,6 +868,7 @@ baffy
 baffies
 baffle
 baffled
+buriable
 bafflements
 baffler
 bafflers
@@ -17688,7 +17689,6 @@ burhinus
 burhmoot
 bury
 bombic
-buriable
 bestialise
 burial
 burials
