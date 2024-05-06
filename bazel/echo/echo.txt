@@ -4708,6 +4708,7 @@ epinephrin
 encyclopaedial
 embosk
 eloge
+eliminates
 encyclopaedic
 encyclopaedical
 encyclopaedism
@@ -13120,7 +13121,6 @@ enfeature
 expertship
 expetible
 expy
-eliminates
 expiable
 expiate
 expiated
