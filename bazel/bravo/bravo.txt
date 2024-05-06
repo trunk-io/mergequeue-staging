@@ -1557,6 +1557,7 @@ ballads
 ballahoo
 ballahou
 ballam
+bedoctor
 ballan
 ballarag
 ballard
@@ -4749,7 +4750,6 @@ bednighted
 buildup
 bourbons
 bednights
-bedoctor
 bedog
 bedot
 bedotted
