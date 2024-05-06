@@ -8740,6 +8740,7 @@ bimetal
 bimetalism
 bostonite
 bimetallic
+briguer
 bimetallist
 bimetallistic
 bimetals
@@ -15319,7 +15320,6 @@ brigs
 brigsail
 bismutoplagionite
 brigue
-briguer
 basifiers
 bibelot
 briguing
