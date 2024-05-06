@@ -5055,7 +5055,6 @@ endiaper
 elided
 erasures
 endymal
-endimanche
 epiparodos
 ending
 endings
@@ -10116,6 +10115,7 @@ estrange
 eddyroot
 estranged
 eocene
+endimanche
 estrangedness
 estrangelo
 estrangements
