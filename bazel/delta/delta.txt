@@ -9656,7 +9656,6 @@ depictment
 diiodide
 diiodo
 dorje
-diiodoform
 diiodotyrosine
 diipenates
 diipolia
@@ -16022,6 +16021,7 @@ divides
 doubletone
 doublette
 doublewidth
+diiodoform
 doublewords
 doubly
 doubling
