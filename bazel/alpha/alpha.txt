@@ -12199,7 +12199,6 @@ anatomical
 aetat
 anatomicals
 anatomicobiological
-anatomicomedical
 anatomicopathologic
 anatomicophysiologic
 ambidextral
@@ -24396,6 +24395,7 @@ autosexing
 autosight
 activation
 albuminuric
+anatomicomedical
 adversant
 autosymbolic
 autosymbolical
