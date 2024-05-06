@@ -825,7 +825,6 @@ abrazos
 abreact
 abreacted
 abreacting
-abreactions
 abreacts
 abreast
 abreed
@@ -10217,6 +10216,7 @@ argo
 ambrettolide
 ambry
 aerobiological
+abreactions
 ambries
 ambrite
 ambroid
