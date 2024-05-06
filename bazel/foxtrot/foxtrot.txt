@@ -6127,7 +6127,6 @@ flouts
 fiorded
 fetoplacental
 foredoor
-flowable
 flowage
 flowcharted
 flowcharting
@@ -9957,6 +9956,7 @@ frictionable
 fractionate
 frictional
 frictionally
+flowable
 frictionized
 frictionlessness
 frictionproof
