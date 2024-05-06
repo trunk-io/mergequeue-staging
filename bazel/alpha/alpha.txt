@@ -8461,7 +8461,6 @@ autograph
 alisphenoidal
 alysson
 alyssums
-alist
 alister
 alit
 alytarch
@@ -19586,6 +19585,7 @@ argyrite
 apathic
 argyrocephalous
 achenodia
+alist
 argyrodite
 argyrol
 argyroneta
