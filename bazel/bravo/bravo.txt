@@ -1295,7 +1295,6 @@ baubee
 balai
 below
 balayeuse
-balak
 balaklava
 benzothiazole
 balalaika
@@ -14669,6 +14668,7 @@ bravery
 boschboks
 bravers
 braves
+balak
 bravi
 beaconless
 braving
