@@ -9935,7 +9935,6 @@ establishable
 established
 establisher
 establishes
-emendable
 establishing
 establishment
 establishmentarian
@@ -10762,6 +10761,7 @@ eucrasia
 eucrasite
 epibatholithic
 eucre
+emendable
 eucryphiaceous
 eucrite
 eucrites
