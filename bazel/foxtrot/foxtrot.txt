@@ -1255,7 +1255,6 @@ fasibitikite
 formable
 fasinite
 fass
-fassaite
 felonwood
 federarie
 fenchone
@@ -6233,6 +6232,7 @@ fluffiest
 fluffily
 foulest
 fluffiness
+fassaite
 fluffing
 forages
 fluffs
