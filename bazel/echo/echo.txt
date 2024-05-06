@@ -1404,7 +1404,6 @@ effigies
 eductive
 effiguration
 exclosure
-efflate
 efflation
 effleurage
 effloresce
@@ -6642,6 +6641,7 @@ embeggar
 ephestian
 enterodelous
 edenite
+efflate
 enterodynia
 enteroepiplocele
 enterogastritis
