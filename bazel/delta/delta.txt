@@ -2724,7 +2724,6 @@ decorationist
 desideratum
 decorations
 decorative
-decoratively
 decorator
 decoratory
 decorators
@@ -10362,6 +10361,7 @@ diosphenol
 diospyraceae
 diospyraceous
 dyostyle
+decoratively
 diota
 dyothelete
 dyotheletian
