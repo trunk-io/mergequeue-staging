@@ -3522,6 +3522,7 @@ fadme
 fizzer
 filelike
 farewells
+fringier
 fogie
 fanti
 filemark
@@ -10098,7 +10099,6 @@ fringelike
 fringent
 fringepod
 fringetail
-fringier
 fringiest
 forworn
 fannon
