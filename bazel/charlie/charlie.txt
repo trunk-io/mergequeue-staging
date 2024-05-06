@@ -18938,7 +18938,6 @@ collateralness
 collaterals
 canzone
 collates
-collating
 collation
 collationer
 collations
@@ -24881,6 +24880,7 @@ cringle
 coralflower
 coralist
 coralita
+collating
 coralla
 corallet
 clavodeltoid
