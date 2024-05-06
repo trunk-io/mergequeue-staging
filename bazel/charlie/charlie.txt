@@ -5728,6 +5728,7 @@ catechumenical
 catechumenically
 catechumenism
 catechumens
+cochleated
 crucis
 catechus
 catechutannic
@@ -17624,7 +17625,6 @@ cochleariform
 cteninidia
 cochleas
 cochleate
-cochleated
 cochleiform
 cochleitis
 cochleleas
