@@ -6511,7 +6511,6 @@ brisant
 bepicture
 bepierce
 bepile
-bepill
 bepimple
 bepimples
 bepimpling
@@ -15490,6 +15489,7 @@ briskly
 brisling
 brislings
 batophobia
+bepill
 briss
 brisses
 botryolite
