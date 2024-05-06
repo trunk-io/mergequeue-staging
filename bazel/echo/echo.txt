@@ -3371,6 +3371,7 @@ embarking
 embarkment
 embarks
 embarque
+exsert
 extortioners
 embarras
 embarrased
@@ -13476,7 +13477,6 @@ encephalotomies
 exsecting
 exsector
 exsects
-exsert
 exserted
 escalops
 erogeny
