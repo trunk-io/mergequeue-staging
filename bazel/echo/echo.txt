@@ -7954,7 +7954,6 @@ epileptical
 epileptically
 emptio
 epileptics
-epileptiform
 epileptogenic
 epileptoid
 expunction
@@ -11471,6 +11470,7 @@ errands
 evenglome
 emboldening
 evenglow
+epileptiform
 epagomenous
 east
 ethnarch
