@@ -11247,7 +11247,6 @@ electroretinography
 euskara
 euskarian
 euskaric
-eurytus
 eusol
 euspongia
 eusporangiate
@@ -11708,6 +11707,7 @@ encephalomere
 evolvable
 empeoplement
 evolve
+eurytus
 evolved
 evolvement
 electroretinogram
