@@ -3566,7 +3566,6 @@ degeneralize
 degenerated
 degenerately
 decanate
-degenerateness
 diemaking
 degenerates
 degenerating
@@ -5558,6 +5557,7 @@ depasturable
 duodecane
 depasturage
 depasturation
+degenerateness
 depasturing
 drugmaker
 depatriate

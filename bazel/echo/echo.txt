@@ -13479,6 +13479,7 @@ exsector
 exsects
 exserted
 escalops
+extraneous
 erogeny
 embolomeri
 exserting
@@ -13893,7 +13894,6 @@ ekoi
 extranational
 extranean
 extraneity
-extraneous
 extraneously
 epipleura
 extraneousness
