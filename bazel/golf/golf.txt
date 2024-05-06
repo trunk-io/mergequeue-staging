@@ -5923,6 +5923,7 @@ glossocoma
 glossocomon
 glossodynamometer
 grizzlies
+gland
 glossoepiglottic
 glossograph
 glossographer
@@ -6725,7 +6726,6 @@ gollar
 goller
 golly
 golliwog
-gland
 gobbets
 gollop
 golo
