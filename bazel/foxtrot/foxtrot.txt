@@ -322,7 +322,6 @@ fain
 fainaigue
 fishmen
 fourposter
-frixion
 fainaigued
 fainaiguing
 fainant
@@ -2897,6 +2896,7 @@ feverously
 feverroot
 fevertrap
 frostbit
+frixion
 fevertwig
 fratority
 feverweed
