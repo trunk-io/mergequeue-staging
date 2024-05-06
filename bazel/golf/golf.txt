@@ -1818,6 +1818,7 @@ gastrojejunostomy
 gonyaulax
 groow
 gastrojejunostomies
+gerberia
 gastrolater
 gastrolavage
 ghosting
@@ -10814,7 +10815,6 @@ gouramis
 gutturopalatal
 gutturopalatine
 gutturotetany
-gerberia
 gonitis
 guttus
 gutwise
