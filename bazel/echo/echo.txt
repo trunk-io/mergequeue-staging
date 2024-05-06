@@ -7346,6 +7346,7 @@ eomecon
 explorable
 eon
 eonian
+equiprobabilist
 enscroll
 eonisms
 eons
@@ -8269,7 +8270,6 @@ excitor
 epistemologically
 epistemologist
 excel
-equiprobabilist
 eigenfunction
 epistemophiliac
 epistemophilic
