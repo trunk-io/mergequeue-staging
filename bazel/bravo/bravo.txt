@@ -1,6 +1,7 @@
 bay
 b
 baa
+befuddler
 baaed
 baaing
 baal
@@ -5184,7 +5185,6 @@ befuddle
 befuddled
 befuddlement
 befuddlements
-befuddler
 befuddlers
 befuddles
 bromite
