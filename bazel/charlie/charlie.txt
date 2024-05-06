@@ -537,6 +537,7 @@ caducibranch
 caducibranchiata
 caducities
 caducous
+cedent
 coreveler
 caduke
 cadus
@@ -21571,7 +21572,6 @@ concurbit
 concurrence
 concurrences
 concurrency
-cedent
 crashworthy
 concurrently
 concurrentness
