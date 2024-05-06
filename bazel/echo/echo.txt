@@ -5832,7 +5832,6 @@ engrace
 engraced
 engraffed
 engraft
-engrafted
 engrafter
 engrafting
 electorally
@@ -10788,6 +10787,7 @@ eudaemonize
 epicardial
 euphemize
 eudaimonia
+engrafted
 eudaimonism
 eudaimonist
 eurasia
