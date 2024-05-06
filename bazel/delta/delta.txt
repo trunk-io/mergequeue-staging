@@ -5628,7 +5628,6 @@ depickle
 depict
 dag
 depicted
-depicter
 denuclearize
 depicters
 depicting
@@ -10595,6 +10594,7 @@ diplomatical
 diplomatically
 diplomatique
 dentures
+depicter
 diplomatism
 diplomatist
 diplomatists
