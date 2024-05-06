@@ -7542,7 +7542,6 @@ bevomiting
 bevomits
 bevor
 bevors
-bevvy
 believe
 bewail
 bewailed
@@ -10263,6 +10262,7 @@ blah
 blahlaut
 blahs
 blaine
+bevvy
 blayne
 buttstrapping
 blair
