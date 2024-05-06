@@ -2187,7 +2187,6 @@ bivinyl
 bannerets
 backachy
 bannerette
-bannerfish
 bannerless
 bannerlike
 bannerman
@@ -16728,6 +16727,7 @@ buffaloback
 blasty
 buffaloes
 buffalofishes
+bannerfish
 botheration
 betrothal
 buffaloing
