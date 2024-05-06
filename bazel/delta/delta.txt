@@ -1555,7 +1555,6 @@ deadrise
 deadrize
 ditting
 deadtongue
-deadweight
 deadwood
 deadwork
 dedolomitization
@@ -7710,6 +7709,7 @@ devocalization
 devocalized
 devocalizing
 devocate
+deadweight
 devocation
 dynast
 devoice
