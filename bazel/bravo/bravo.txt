@@ -15267,7 +15267,6 @@ boatside
 briery
 brierroot
 briers
-backpedaled
 brierwood
 bries
 brieve
@@ -16925,6 +16924,7 @@ bulbine
 bugging
 bulbless
 bulblike
+backpedaled
 bulbocapnin
 bulbocavernosus
 bulbocavernous
