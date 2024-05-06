@@ -4219,7 +4219,6 @@ admits
 admittable
 admittance
 admittances
-admittatur
 admitted
 addice
 admittedly
@@ -22527,6 +22526,7 @@ autositic
 aterian
 ates
 athabasca
+admittatur
 athabascan
 athalline
 athamantid
