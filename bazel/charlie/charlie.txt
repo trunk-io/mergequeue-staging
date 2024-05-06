@@ -11728,7 +11728,6 @@ chondroangioma
 chondroarthritis
 chondroblastoma
 chondrocarcinoma
-chondrocele
 chondrocyte
 chondrocoracoid
 chondrocostal
@@ -20891,6 +20890,7 @@ compotation
 compotationship
 comedies
 compotatory
+chondrocele
 compote
 compotes
 compotier
