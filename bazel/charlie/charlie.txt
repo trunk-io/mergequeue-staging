@@ -154,6 +154,7 @@ caboodle
 cabook
 censerless
 caboose
+connecter
 cabooses
 caboshed
 cabossed
@@ -22570,7 +22571,6 @@ connect
 connectable
 connected
 connectedly
-connecter
 connecters
 connectibility
 collyria
