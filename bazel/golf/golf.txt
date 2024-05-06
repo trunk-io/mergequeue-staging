@@ -866,7 +866,6 @@ guydom
 greenage
 gooseneck
 gunmaking
-gambe
 gambeer
 gambeered
 gambelli
@@ -4128,6 +4127,7 @@ gaspereau
 gild
 grithbreach
 gildable
+gambe
 gildedness
 gilden
 gilder
