@@ -5837,7 +5837,6 @@ engrafter
 engrafting
 electorally
 engraftment
-engrafts
 engrailed
 engrailment
 eurymus
@@ -11298,6 +11297,7 @@ eutychian
 eutychianism
 eutocia
 eutopia
+engrafts
 eutopian
 eutrophy
 eutrophication
