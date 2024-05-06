@@ -525,6 +525,7 @@ backspacefile
 backspacer
 backspaces
 backspacing
+becivet
 backspang
 backspeir
 backspier
@@ -4434,7 +4435,6 @@ begeck
 bechtler
 bechuana
 becircled
-becivet
 burgee
 becker
 beckie
