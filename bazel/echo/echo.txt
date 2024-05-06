@@ -4396,7 +4396,6 @@ enamelers
 enameling
 enamelist
 enamellar
-eau
 equiped
 egocentristic
 enameller
@@ -11247,6 +11246,7 @@ euskaric
 eusol
 euspongia
 eusporangiate
+eau
 eustace
 eustachian
 eadios
