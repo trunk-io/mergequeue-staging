@@ -5832,6 +5832,7 @@ engr
 ebonizing
 engrace
 engraced
+epsilons
 engraffed
 engraft
 engrafted
@@ -8544,7 +8545,6 @@ epizoicide
 ensorceling
 eprouvette
 epruinose
-epsilons
 epsom
 erythropoietic
 epsomite
