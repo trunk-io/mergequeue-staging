@@ -3725,7 +3725,6 @@ ghastfulness
 grudgekin
 ghastly
 ghastlier
-gleek
 ghastliest
 garble
 ghastlily
@@ -8647,6 +8646,7 @@ greenbottle
 greenbrier
 greenbug
 glutinously
+gleek
 gigunu
 greener
 greenbugs
