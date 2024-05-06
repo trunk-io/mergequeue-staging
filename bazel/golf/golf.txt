@@ -7877,7 +7877,6 @@ granadine
 granado
 granage
 granam
-granatite
 granary
 gushingly
 gapping
@@ -9162,6 +9161,7 @@ gristy
 globiferous
 gristle
 glimmerous
+granatite
 gos
 gauge
 gaucher

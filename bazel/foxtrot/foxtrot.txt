@@ -2465,7 +2465,6 @@ fissural
 fernier
 ferniest
 fernleaf
-fernlike
 fusiform
 fernseed
 faucalize
@@ -2970,6 +2969,7 @@ fiberglas
 fiberglass
 fiberization
 fiberize
+fernlike
 fiberized
 fiberizer
 fiberizes
