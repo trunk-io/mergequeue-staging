@@ -889,7 +889,6 @@ eddic
 ectogenesis
 ectogenetic
 ectogenic
-ectogenous
 ectoglia
 empedoclean
 ectognatha
@@ -3456,6 +3455,7 @@ embiid
 evalue
 evergreenery
 empathically
+ectogenous
 embind
 embrowd
 embiodea
