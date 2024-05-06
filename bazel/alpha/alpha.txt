@@ -2585,7 +2585,6 @@ acknowledged
 acknowledgedly
 acknowledger
 acknowledgers
-acknowledges
 acknowledging
 awkwardest
 acknowledgment
@@ -5966,6 +5965,7 @@ agathin
 abada
 agathis
 advoke
+acknowledges
 agathism
 agathist
 agathodaemon
