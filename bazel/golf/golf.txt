@@ -244,6 +244,7 @@ gainbirth
 gaincall
 gregale
 gaincome
+gallstones
 gelandesprung
 glaciers
 gramme
@@ -738,7 +739,6 @@ goatherds
 gallstone
 gnatsnapper
 governorships
-gallstones
 galluot
 goosey
 geometer

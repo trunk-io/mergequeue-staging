@@ -12792,7 +12792,6 @@ chulpa
 chultun
 chum
 chumar
-chumashan
 chumble
 chummage
 chummed
@@ -26935,6 +26934,7 @@ counterlighted
 counterlighting
 counterlit
 candlewood
+chumashan
 counterlode
 consociated
 counterlove
