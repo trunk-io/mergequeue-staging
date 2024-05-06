@@ -8411,7 +8411,6 @@ diamides
 diamido
 diamidogen
 diamyl
-diamylene
 diamin
 diamine
 diamines
@@ -16464,6 +16463,7 @@ disboweled
 drab
 draba
 drabant
+diamylene
 drabbed
 drabber
 drabbest
