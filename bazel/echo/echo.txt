@@ -773,6 +773,7 @@ ecosystems
 ecospecies
 ellipsometer
 ecospecific
+exposits
 ecospecifically
 ecosphere
 edriophthalmous
@@ -2874,7 +2875,6 @@ elevatory
 escalators
 elevenfold
 euphemism
-exposits
 eleventeenth
 entobranchiate
 eleventhly
