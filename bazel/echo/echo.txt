@@ -4795,7 +4795,6 @@ encloud
 encoach
 encode
 encoded
-encoders
 encodings
 encoffin
 exuviation
@@ -13221,6 +13220,7 @@ explicator
 explicatory
 eucalyptus
 explicit
+encoders
 explicitly
 explicitness
 enchantingly
