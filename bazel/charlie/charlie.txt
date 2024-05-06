@@ -10879,7 +10879,6 @@ chipmunks
 chipolata
 chippable
 chippage
-checkrail
 chipped
 chippendale
 chipper
@@ -11351,6 +11350,7 @@ chloroiodide
 chloroleucite
 chloroma
 chloromata
+checkrail
 chloromelanite
 chlorometer
 chlorometry
