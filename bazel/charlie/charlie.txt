@@ -8224,7 +8224,6 @@ chais
 chays
 chaise
 could
-chaiseless
 chaises
 chait
 chaitya
@@ -24509,6 +24508,7 @@ copatron
 copatroness
 contraflow
 copatrons
+chaiseless
 cope
 copeck
 copecks
