@@ -4104,7 +4104,6 @@ adjutor
 adjutory
 adjutorious
 areopagitica
-adjutrice
 adjutrix
 adjuvant
 adjuvants
@@ -19401,6 +19400,7 @@ areic
 areito
 aren
 arena
+adjutrice
 arenaceous
 arenae
 arenaria
