@@ -8681,6 +8681,7 @@ changelings
 changemaker
 changement
 changeovers
+credently
 crises
 changepocket
 carbone
@@ -28523,7 +28524,6 @@ credential
 credentialed
 congressman
 credentials
-credently
 credenza
 credenzas
 credibility
