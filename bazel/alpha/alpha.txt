@@ -2397,7 +2397,6 @@ achromic
 anusvara
 achromobacter
 achromoderma
-achromophilous
 achromotrichia
 achromous
 achronical
@@ -4860,6 +4859,7 @@ aegopodium
 aegrotant
 archiving
 aegrotat
+achromophilous
 aeipathy
 alkyds
 autotoxicity
