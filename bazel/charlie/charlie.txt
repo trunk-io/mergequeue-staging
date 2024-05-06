@@ -3976,7 +3976,6 @@ cardinalship
 cardines
 carding
 cyrenian
-cardings
 crocky
 cardioaccelerator
 cardioarterial
@@ -27522,6 +27521,7 @@ coverall
 coveralled
 coveralls
 coverchief
+cardings
 cerberean
 covercle
 coverer
