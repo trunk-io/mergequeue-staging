@@ -19996,7 +19996,6 @@ armipotent
 armisonant
 armisonous
 armistice
-allgood
 armistices
 armit
 armyworm
@@ -22194,6 +22193,7 @@ astoundment
 astounds
 astr
 astrachan
+allgood
 astracism
 astraddle
 acromyodi
