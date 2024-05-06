@@ -5464,7 +5464,6 @@ flexure
 flexured
 falsie
 flingy
-fly
 flyaway
 feelers
 flyback
@@ -9769,6 +9768,7 @@ fremontia
 faeroe
 fremontodendron
 fremt
+fly
 fren
 frenal
 formalizable
