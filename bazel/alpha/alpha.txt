@@ -8533,7 +8533,6 @@ alkalimetrically
 alkalin
 alkaline
 alkalinisation
-alkalinise
 alkalinising
 alkalinity
 alkalinities
@@ -19293,6 +19292,7 @@ albugo
 arctiidae
 arctisca
 arctium
+alkalinise
 abyssinian
 arctocephalus
 arctogaea
