@@ -1260,7 +1260,6 @@ datolite
 datolitic
 doless
 datsun
-datsuns
 datsw
 datto
 dulcetness
@@ -2590,6 +2589,7 @@ decolonised
 decolonising
 decolonization
 decolonize
+datsuns
 decolonizes
 decoloration
 decolored
