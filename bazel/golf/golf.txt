@@ -5923,7 +5923,6 @@ gosain
 glossocarcinoma
 glossocele
 glossocoma
-gelatinotype
 glossocomon
 glossodynamometer
 grizzlies
@@ -10174,6 +10173,7 @@ ghoster
 guignol
 gorefish
 guilandina
+gelatinotype
 groundline
 guild
 guilder
