@@ -2364,7 +2364,6 @@ achroma
 achromacyte
 achromasia
 achromat
-achromate
 achromatiaceae
 achromatic
 achromatically
@@ -22630,6 +22629,7 @@ athletehood
 athletes
 athletic
 athletical
+achromate
 athletically
 athletics
 athletism
