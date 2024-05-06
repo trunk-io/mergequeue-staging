@@ -5387,7 +5387,6 @@ besauce
 behave
 behaved
 behaver
-behavers
 behaving
 brachioradial
 behavior
@@ -11549,6 +11548,7 @@ boanthropy
 bibbed
 bediamonded
 beauism
+behavers
 breaths
 board
 boardbill
