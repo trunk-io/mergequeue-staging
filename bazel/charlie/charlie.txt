@@ -12823,6 +12823,7 @@ chumpish
 chumpishness
 chumps
 chums
+credensiveness
 chumship
 conjuncts
 chumships
@@ -28516,7 +28517,6 @@ credenda
 credendum
 credens
 credensive
-credensiveness
 credent
 cyul
 credential
