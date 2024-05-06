@@ -14509,7 +14509,6 @@ anthesterion
 anthesterol
 anthicidae
 anthill
-anthinae
 anthine
 anthypnotic
 anthypophora
@@ -24730,6 +24729,7 @@ aviated
 aviates
 aviatic
 aviating
+anthinae
 aviation
 auscult
 aviational
