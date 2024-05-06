@@ -1686,7 +1686,6 @@ balloting
 bradyseismal
 ballotist
 ballottable
-ballottement
 ballottine
 ballottines
 blear
@@ -17779,6 +17778,7 @@ burnettizing
 butcherliness
 burnfire
 burny
+ballottement
 burnie
 baskonize
 burnies

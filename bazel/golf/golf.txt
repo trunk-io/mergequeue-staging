@@ -3658,7 +3658,6 @@ glacial
 geta
 getable
 getae
-guideline
 glycolide
 getas
 gluttei
@@ -10762,6 +10761,7 @@ guttersnipe
 gutterspout
 gutterwise
 gutti
+guideline
 gutty
 guttide
 guttie
