@@ -774,7 +774,6 @@ bacury
 bad
 badaga
 badan
-badarian
 badarrah
 bellflower
 blackback
@@ -16994,6 +16993,7 @@ bulky
 bulkier
 bulkiest
 bulkily
+badarian
 bulkin
 bulkiness
 brickset
