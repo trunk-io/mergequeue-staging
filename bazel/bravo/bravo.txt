@@ -1377,7 +1377,6 @@ balbusard
 befire
 balbutient
 balche
-buffbar
 balconette
 balconied
 bedders
@@ -12626,6 +12625,7 @@ boodh
 boody
 boodie
 boodle
+buffbar
 boodleize
 boodler
 bougies
