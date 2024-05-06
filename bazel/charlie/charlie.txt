@@ -17810,7 +17810,6 @@ codeword
 codewords
 chiminage
 codfish
-codfisher
 codfishery
 codfisheries
 codfishes
@@ -28036,6 +28035,7 @@ ciliform
 crammers
 cramming
 crammingly
+codfisher
 crotalus
 cramoisies
 cramp
