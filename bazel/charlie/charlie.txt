@@ -2619,7 +2619,6 @@ cannonballing
 cannonballs
 cannoned
 chittered
-cannoneer
 cannoneering
 cannoneers
 coitus
@@ -17025,6 +17024,7 @@ coacervate
 coacervated
 coacervating
 coacervation
+cannoneer
 coach
 comparatives
 coachbuilder
