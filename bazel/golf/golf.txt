@@ -8054,7 +8054,6 @@ gherkins
 glossologist
 grape
 granola
-granolite
 guff
 granolith
 glauke
@@ -8788,6 +8787,7 @@ grego
 gregor
 gregorian
 glassless
+granolite
 greyback
 gonapod
 greybeard
