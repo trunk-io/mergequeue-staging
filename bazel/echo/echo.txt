@@ -2213,6 +2213,7 @@ enlink
 estriche
 eldermen
 eldern
+enunciators
 elders
 ephraimitish
 encephalosis
@@ -7159,7 +7160,6 @@ encamps
 eradiates
 enunciator
 enunciatory
-enunciators
 enure
 enured
 enures
