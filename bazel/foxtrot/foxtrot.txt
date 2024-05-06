@@ -7419,7 +7419,6 @@ forcipiform
 forcipulata
 frisii
 foxed
-forcipulate
 figent
 forcite
 forcive
@@ -10866,6 +10865,7 @@ flawedness
 fulgurata
 fulgurate
 fulgurated
+forcipulate
 fists
 fibrilla
 fulgurating
