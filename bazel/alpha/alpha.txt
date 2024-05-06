@@ -10848,7 +10848,6 @@ ammobium
 ammocete
 ammocetes
 abelian
-ammochaeta
 anakinetomer
 ammochaetae
 ammochryse
@@ -22215,6 +22214,7 @@ astragalonavicular
 achaean
 astragalotibial
 astragals
+ammochaeta
 astragalus
 astrain
 astrakanite
