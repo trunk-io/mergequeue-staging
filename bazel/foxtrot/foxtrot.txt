@@ -4796,7 +4796,6 @@ flamb
 focometer
 flambage
 flambant
-flambe
 fungible
 flambeau
 flambeaus
@@ -8573,6 +8572,7 @@ forritsome
 fervency
 forsado
 fatuously
+flambe
 forsake
 fullams
 fleaseed
