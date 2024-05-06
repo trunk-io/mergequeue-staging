@@ -4881,7 +4881,6 @@ gise
 gisel
 gisement
 gish
-gelded
 gismo
 gambled
 gismondine
@@ -7307,6 +7306,7 @@ gospelly
 gutnish
 gospellike
 groomers
+gelded
 gnathobase
 genys
 gospelmonger
