@@ -4881,7 +4881,6 @@ fathoms
 flaneries
 faunish
 flanes
-flaneur
 flaneurs
 flang
 flange
@@ -7599,6 +7598,7 @@ fraischeur
 fgn
 fretter
 filigraned
+flaneur
 foredooms
 foredune
 forefaces
