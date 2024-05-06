@@ -2110,7 +2110,6 @@ campshot
 campsite
 campsites
 campstools
-camptodrome
 camptonite
 chefs
 campulitropal
@@ -14431,6 +14430,7 @@ circumspect
 conjugating
 colloped
 circumspective
+camptodrome
 cycloramic
 circumspectively
 circumspectly
