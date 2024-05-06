@@ -1571,7 +1571,6 @@ gasboat
 gascheck
 groovy
 gascoign
-glucosaemia
 gascoyne
 gasconade
 gasconader
@@ -10030,6 +10029,7 @@ gittite
 gueridon
 gueridons
 guerilla
+glucosaemia
 guerillas
 guerite
 guerites
