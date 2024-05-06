@@ -21347,7 +21347,6 @@ conchies
 confirmative
 conchifera
 conchiferous
-conchiform
 conchyle
 conchylia
 conchyliated
@@ -28724,6 +28723,7 @@ crepance
 crepe
 creped
 crepehanger
+conchiform
 crepey
 crepeier
 cuboids
