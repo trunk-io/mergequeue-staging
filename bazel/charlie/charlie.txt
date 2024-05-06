@@ -23043,7 +23043,6 @@ consound
 conspecies
 conspecific
 conspecifics
-conspect
 conspection
 conspectus
 conspectuses
@@ -31252,6 +31251,7 @@ cermets
 curbstone
 curbstoner
 curcas
+conspect
 curches
 curchy
 criminous
