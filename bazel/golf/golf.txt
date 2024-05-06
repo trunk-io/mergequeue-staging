@@ -6737,6 +6737,7 @@ gomavel
 gombay
 gombos
 gome
+generatrix
 ghedda
 garrooka
 grazable
@@ -7464,7 +7465,6 @@ gournard
 gastrolysis
 grillwork
 gynandry
-generatrix
 gouter
 gouty
 goutify
