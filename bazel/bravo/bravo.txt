@@ -2672,6 +2672,7 @@ baryons
 baryphony
 baryphonia
 baryphonic
+bucketer
 baris
 barysilite
 barysphere
@@ -16555,7 +16556,6 @@ buckers
 bucket
 bucketed
 bucketeer
-bucketer
 bucketful
 bucketfull
 buckety
