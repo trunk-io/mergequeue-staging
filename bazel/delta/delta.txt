@@ -10784,7 +10784,6 @@ discarding
 dolichocranial
 drain
 directionalize
-directions
 directitude
 directive
 directively
@@ -18256,6 +18255,7 @@ dunst
 dunstable
 dunster
 dunted
+directions
 duntle
 dunts
 duumvir
