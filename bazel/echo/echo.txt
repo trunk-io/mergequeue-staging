@@ -778,6 +778,7 @@ ecotype
 ecotypes
 enfurrow
 ecotypic
+excurvate
 entrapped
 ecotipically
 ecotypically
@@ -7672,7 +7673,6 @@ epicycloid
 epicycloidal
 epicyemate
 epicier
-excurvate
 epicism
 epicist
 ethylated
