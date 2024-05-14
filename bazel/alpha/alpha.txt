@@ -13744,7 +13744,6 @@ annotative
 annotatively
 annotativeness
 annotator
-annotatory
 annotators
 annotine
 annotinous
@@ -21169,6 +21168,7 @@ ashanti
 alphabetization
 asharasi
 ashberry
+annotatory
 ashcake
 ashcans
 ashed
