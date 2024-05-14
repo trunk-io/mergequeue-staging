@@ -9441,7 +9441,6 @@ groundswells
 gellert
 grayfishes
 gorging
-groundward
 groundwater
 groundwave
 genderer
@@ -10270,6 +10269,7 @@ gulaman
 ghent
 guttiferae
 gagroot
+groundward
 gaoled
 guland
 glimmerite
