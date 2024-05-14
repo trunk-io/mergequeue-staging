@@ -2162,7 +2162,6 @@ fragilaria
 felter
 felty
 feltyfare
-furivae
 feltyflier
 feltings
 feltmaker
@@ -8896,6 +8895,7 @@ foulards
 foulbrood
 foulder
 fouled
+furivae
 foulings
 fname
 foulish
