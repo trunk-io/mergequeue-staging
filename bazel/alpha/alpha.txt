@@ -12317,7 +12317,6 @@ anchorless
 alphabetics
 anchorman
 anchormen
-asseverates
 anchors
 anchorwise
 anchoveta
@@ -19767,6 +19766,7 @@ arimathaean
 ariocarpus
 ariolate
 adiaphoretic
+asseverates
 ariole
 arion
 ariose
