@@ -8811,6 +8811,7 @@ chapelman
 chapelmaster
 chapelry
 chapelries
+colonization
 chapels
 chapelward
 chaperno
@@ -15400,7 +15401,6 @@ clanfellow
 clang
 clanged
 clavicittern
-colonization
 clangful
 clanging
 cattle
