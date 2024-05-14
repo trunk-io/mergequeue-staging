@@ -17987,6 +17987,7 @@ coeloms
 coelonavigation
 ceraceous
 coelongated
+cryptozoic
 coeloplanula
 coeloscope
 coelosperm
@@ -29392,7 +29393,6 @@ cryptozygy
 cryptozygosity
 cloudburst
 cryptozygous
-cryptozoic
 cryptozonate
 cryptozonia
 crypturi
