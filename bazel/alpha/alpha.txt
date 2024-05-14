@@ -12610,7 +12610,6 @@ anecdote
 anecdotes
 autocoid
 anecdotic
-anecdotical
 anecdotically
 anecdotist
 anecdotists
@@ -15473,6 +15472,7 @@ antigrammatically
 antigrammaticalness
 antigraph
 antigravitate
+anecdotical
 acidemia
 antigravitation
 antigravitational
