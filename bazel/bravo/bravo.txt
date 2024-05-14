@@ -2654,7 +2654,6 @@ birk
 barile
 backbonelessness
 barilla
-barillas
 bizcacha
 broletti
 baring
@@ -14153,6 +14152,7 @@ bepowder
 bradykinesis
 brachylogy
 bradykinetic
+barillas
 bradykinin
 bumblebeefish
 bradylalia
