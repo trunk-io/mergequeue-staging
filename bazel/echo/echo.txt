@@ -1070,7 +1070,6 @@ edeotomy
 edessan
 edestan
 edestin
-edge
 edgebone
 emyd
 ephorship
@@ -13031,6 +13030,7 @@ estacade
 edifier
 expender
 expenders
+edge
 expendible
 expending
 expenditor
