@@ -6614,7 +6614,6 @@ exolemma
 entermise
 entranceway
 enterobacterial
-enterobiasis
 enterocele
 enterocentesis
 enteroceptor
@@ -13539,6 +13538,7 @@ extance
 extancy
 extatic
 extbook
+enterobiasis
 extemporal
 extemporally
 extemporalness

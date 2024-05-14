@@ -1981,7 +1981,6 @@ campanini
 campanist
 campanistic
 campanologer
-campanology
 campanologically
 campanologist
 campanologists
@@ -8492,6 +8491,7 @@ chamisos
 chamite
 chamkanni
 condylomas
+campanology
 cicuta
 chamlet
 chamma
