@@ -13068,7 +13068,6 @@ biometries
 borneols
 battlements
 bornyl
-bawrel
 borning
 blennostatic
 bornites
@@ -16380,6 +16379,7 @@ brutalized
 brutalizing
 brutally
 brutalness
+bawrel
 bruted
 basellaceous
 brutedom
