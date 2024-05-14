@@ -23462,6 +23462,7 @@ conterminable
 callorhynchus
 conterminal
 conterminant
+crimsonly
 conterminate
 caste
 contermine
@@ -29086,7 +29087,6 @@ curtly
 crimsoned
 crimsony
 crimsoning
-crimsonly
 crimsonness
 crimsons
 crin
