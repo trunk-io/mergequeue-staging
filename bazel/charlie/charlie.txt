@@ -4545,6 +4545,7 @@ carousels
 carouser
 cuddly
 carouses
+corrida
 carousing
 carousingly
 carpaine
@@ -25730,7 +25731,6 @@ corresponds
 caecum
 corresponsion
 corresponsively
-corrida
 corridas
 corrido
 corridored
