@@ -2845,7 +2845,6 @@ feudalization
 flatways
 forelock
 feudalized
-feltwort
 feudalizing
 feudary
 feudatary
@@ -8329,6 +8328,7 @@ formal
 formalazine
 formaldehyd
 froufrous
+feltwort
 foregoes
 frush
 formaldehyde
