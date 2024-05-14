@@ -3940,6 +3940,7 @@ bdellatomy
 bdellid
 bdellidae
 bdellium
+bigram
 berylloid
 beal
 bdelloid
@@ -10336,7 +10337,6 @@ blankard
 bardolph
 blanked
 blankeel
-bigram
 biopoesis
 blanker
 beemaster
