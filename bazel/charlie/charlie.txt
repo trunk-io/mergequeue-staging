@@ -14338,7 +14338,6 @@ clinorhombic
 circumgyratory
 circumhorizontal
 circumincession
-circuminsession
 circuminsular
 circumjacence
 circumjacency
@@ -17356,6 +17355,7 @@ coattending
 coattends
 coattest
 coupleress
+circuminsession
 courteously
 coattestator
 coattested
