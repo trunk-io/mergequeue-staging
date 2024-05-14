@@ -2673,7 +2673,6 @@ decongestant
 dipyrenous
 decongestants
 decongested
-decongesting
 decongestion
 decongestive
 deconsecrated
@@ -14652,6 +14651,7 @@ duckling
 digress
 dawtet
 docibleness
+decongesting
 docile
 docilely
 docility

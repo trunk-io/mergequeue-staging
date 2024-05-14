@@ -11293,7 +11293,6 @@ chlorites
 chloritic
 chloritization
 chloritize
-chloritoid
 chlorize
 chlormethane
 chlormethylic
@@ -31554,6 +31553,7 @@ curtsy
 curtsied
 curtsies
 curtsying
+chloritoid
 curuba
 coauthors
 curucaneca
