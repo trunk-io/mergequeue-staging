@@ -4175,6 +4175,7 @@ firestorm
 firethorn
 firetop
 firebrats
+foaled
 fatless
 firetower
 faquirs
@@ -6597,7 +6598,6 @@ frostweed
 fn
 footcloth
 fo
-foaled
 foalfoot
 frontoauricular
 fought
