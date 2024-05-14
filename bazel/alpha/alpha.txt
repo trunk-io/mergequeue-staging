@@ -6956,7 +6956,6 @@ aircraftsman
 assessee
 acoustical
 agamospore
-aircraftsmen
 aircraftswoman
 aerogeology
 aircraftwoman
@@ -9872,6 +9871,7 @@ amalgamation
 amalgamationist
 amalgamations
 amalgamative
+aircraftsmen
 amalgamatize
 amalgamator
 amalgamators
