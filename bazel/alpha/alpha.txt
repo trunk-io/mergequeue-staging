@@ -3119,7 +3119,6 @@ actiniochrome
 actiniohematin
 actiniomorpha
 actinism
-actinistia
 actinium
 availed
 actiniums
@@ -6269,6 +6268,7 @@ agisted
 agister
 agisting
 agistment
+actinistia
 agists
 agit
 agitability
