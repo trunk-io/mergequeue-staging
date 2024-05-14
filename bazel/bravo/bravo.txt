@@ -7178,6 +7178,7 @@ bestar
 bestare
 barie
 bestarve
+bracelet
 bestatued
 boba
 bestead
@@ -13932,7 +13933,6 @@ braccianite
 bowwood
 braccio
 brace
-bracelet
 braceleted
 basophile
 bracelets
