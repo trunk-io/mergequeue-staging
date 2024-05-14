@@ -1051,7 +1051,6 @@ calcimining
 choppin
 calcinate
 calcination
-calcinator
 cindery
 calcinatory
 calcine
@@ -7724,6 +7723,7 @@ cero
 cerograph
 cerography
 cerographical
+calcinator
 calombigas
 cerographist
 circumanal
