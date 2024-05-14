@@ -17600,7 +17600,6 @@ chromatodysopia
 coccule
 cocculiferous
 cocculus
-coccus
 chalazogamy
 cocentric
 coch
@@ -27168,6 +27167,7 @@ counterstep
 counterstimulate
 cyclitis
 counterstimulus
+coccus
 caffled
 counterstock
 counterstratagem
