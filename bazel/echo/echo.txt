@@ -1559,6 +1559,7 @@ egg
 eggars
 eggbeater
 eggbeaters
+encashable
 eker
 eggberry
 eggcup
@@ -4530,7 +4531,6 @@ encases
 euryzygous
 encash
 electrodynamometer
-encashable
 epicardiac
 emphatical
 endocrinologist
