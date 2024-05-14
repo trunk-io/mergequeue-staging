@@ -3483,7 +3483,6 @@ fulcrumage
 filamentous
 frogmen
 filamentule
-frithborh
 filander
 filao
 filar
@@ -9585,6 +9584,7 @@ freebies
 freeboot
 fencing
 freebooted
+frithborh
 ferrometer
 freebooter
 faroeish
