@@ -2623,7 +2623,6 @@ cannoneering
 cannoneers
 coitus
 cannonier
-cannoning
 cannonry
 curiet
 cannonries
@@ -9360,6 +9359,7 @@ chauffers
 chauffeur
 chauffeured
 chauffeuring
+cannoning
 chauffeurs
 chauffeuse
 crotesco
