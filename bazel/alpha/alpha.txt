@@ -907,7 +907,6 @@ ambisextrous
 abs
 absalom
 annualist
-absampere
 absaroka
 absarokite
 abscam
@@ -20744,6 +20743,7 @@ artifactitious
 artifacts
 artifactually
 artifex
+absampere
 aeschynomene
 autoxidizable
 artifice

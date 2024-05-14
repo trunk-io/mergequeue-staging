@@ -2630,6 +2630,7 @@ fertilizers
 feru
 ferula
 ferulae
+feticide
 fuchsite
 ferular
 ferulas
@@ -2760,7 +2761,6 @@ forediscern
 fetichmonger
 formwork
 feticidal
-feticide
 floats
 feticides
 fetid
