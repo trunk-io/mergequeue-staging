@@ -6453,7 +6453,6 @@ ensnare
 ensnarement
 ensnares
 ensnaringly
-ensnarl
 ensnarled
 empanels
 ensnarling
@@ -11451,6 +11450,7 @@ evechurr
 eveck
 evectant
 evected
+ensnarl
 enteroclysis
 essayical
 effectible
