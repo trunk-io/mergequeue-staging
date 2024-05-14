@@ -5045,6 +5045,7 @@ archinformer
 aerodrome
 aerodromes
 aerodromics
+alimentative
 aeroduct
 aeroducts
 aeroelastic
@@ -19008,7 +19009,6 @@ assemblers
 archiepiscopacy
 atomisation
 abomasa
-alimentative
 archiepiscopal
 archiepiscopate
 archigastrula
