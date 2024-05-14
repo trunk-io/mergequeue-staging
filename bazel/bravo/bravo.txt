@@ -9840,7 +9840,6 @@ bitless
 bitmapped
 bitnet
 bito
-bitolyl
 bitonal
 bitonality
 bitonalities
@@ -17638,6 +17637,7 @@ burglarised
 burglarising
 burglarize
 burglarized
+bitolyl
 burglarizes
 burglarizing
 burglarproof
