@@ -1569,6 +1569,7 @@ garaged
 gliadins
 gas
 geometricians
+griffin
 gasboat
 gascheck
 groovy
@@ -8928,7 +8929,6 @@ griffe
 griffes
 galeid
 gasproof
-griffin
 geyserine
 griffinesque
 griffinhood
