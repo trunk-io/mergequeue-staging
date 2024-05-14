@@ -15448,7 +15448,6 @@ bryozoans
 bryozoon
 bywalker
 bryozoum
-briquet
 briquets
 basichromatin
 briquette
@@ -16518,6 +16517,7 @@ bucentur
 bucephala
 ballyhack
 bucephalus
+briquet
 blacking
 blastman
 buceros
