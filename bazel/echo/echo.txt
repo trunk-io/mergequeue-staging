@@ -330,7 +330,6 @@ el
 enthronised
 eats
 elementalize
-eagerly
 entrench
 eaved
 eavedrop
@@ -8317,6 +8316,7 @@ empale
 epistoma
 epistomata
 epistome
+eagerly
 epistomian
 epistrophe
 epistropheal
