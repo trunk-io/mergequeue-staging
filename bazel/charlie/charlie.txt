@@ -3053,7 +3053,6 @@ croze
 capillament
 capillarectasia
 capillary
-capillaries
 capillarily
 capillarimeter
 capillariomotor
@@ -6528,6 +6527,7 @@ cecilite
 cecitis
 cecograph
 cecomorphae
+capillaries
 cecomorphic
 cecostomy
 cecotomy
