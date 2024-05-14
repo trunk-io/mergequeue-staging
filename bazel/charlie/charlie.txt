@@ -27954,7 +27954,6 @@ charactonym
 cognizing
 craftsmanlike
 craftsmanship
-craftsmaster
 craftsmen
 craftspeople
 craftsperson
@@ -29093,6 +29092,7 @@ crin
 crinanite
 camerina
 cacostomia
+craftsmaster
 crinated
 crinatory
 compete

@@ -12963,7 +12963,6 @@ angiopoietic
 angiopressure
 angiorrhagia
 angiorrhexis
-angiosarcoma
 angioscope
 arlington
 angiosymphysis
@@ -17208,6 +17207,7 @@ apocarp
 apocarpy
 apocarpies
 apocarpous
+angiosarcoma
 apocarps
 apocatastasis
 apocatastatic
