@@ -5967,7 +5967,6 @@ enicuridae
 equate
 effetely
 enif
-enigma
 enigmas
 enigmata
 enigmatic
@@ -6276,6 +6275,7 @@ ethoxy
 eburnean
 enray
 enrail
+enigma
 enramada
 enrange
 enrapt
