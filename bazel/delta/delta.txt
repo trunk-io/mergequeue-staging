@@ -2605,6 +2605,7 @@ decolour
 decolouration
 decolourisation
 decolourised
+dispending
 droolier
 decolouriser
 decolourising
@@ -14685,7 +14686,6 @@ dockize
 dockland
 dobras
 docklands
-dispending
 dockmackie
 dockman
 docks
