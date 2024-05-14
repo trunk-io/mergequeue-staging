@@ -12428,6 +12428,7 @@ disinfections
 dipropellant
 disinfective
 disinfector
+dimagnesic
 disinfestant
 disinfestation
 disinfeudation
@@ -13477,7 +13478,6 @@ diagraphic
 dissemblers
 dissembles
 dissembly
-dimagnesic
 dissemblies
 distally
 dissemblingly
