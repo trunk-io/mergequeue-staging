@@ -9929,6 +9929,7 @@ chemosis
 cheepiest
 chemosmoic
 consignation
+censer
 chemosmoses
 chemosmosis
 chemosmotic
@@ -12611,7 +12612,6 @@ chronicler
 chroniclers
 chronicles
 chronicling
-censer
 chronicon
 chronics
 chronique
