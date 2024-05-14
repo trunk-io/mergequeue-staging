@@ -7834,7 +7834,6 @@ cervicispinal
 cervicitis
 cervicoaxillary
 cervicobasilar
-cervicobrachial
 cervicobregmatic
 cervicobuccal
 cervicodorsal
@@ -29680,6 +29679,7 @@ croises
 croisette
 croissant
 croissante
+cervicobrachial
 croissants
 crojiks
 croker
