@@ -8463,7 +8463,6 @@ formols
 formonitrile
 formosan
 formose
-formosity
 formous
 formoxime
 floral
@@ -11080,6 +11079,7 @@ funbre
 floyd
 functionalism
 functionalist
+formosity
 farceuse
 fratcheous
 fistiana
