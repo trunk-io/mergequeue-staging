@@ -5843,7 +5843,6 @@ deprecated
 demythologise
 deprecates
 deprecating
-deprecatingly
 deprecation
 deprecations
 disconcert
@@ -9944,6 +9943,7 @@ diminutal
 diminute
 dukes
 diminuted
+deprecatingly
 diminutely
 diminuting
 desectionalize
