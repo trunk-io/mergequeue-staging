@@ -580,6 +580,7 @@ fleshpots
 fallows
 florinda
 falltime
+fu
 fallway
 false
 falsedad
@@ -10766,7 +10767,6 @@ ftncmd
 ftnerr
 frenetic
 faroelite
-fu
 fuage
 fub
 fubbed
