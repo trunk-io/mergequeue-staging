@@ -15808,7 +15808,6 @@ denegate
 deinodon
 dorsiparous
 dorsispinal
-dorsiventral
 depreciations
 dorsiventrality
 dorsiventrally
@@ -16914,6 +16913,7 @@ drumbeats
 dreamwhile
 dreamwise
 dreamworld
+dorsiventral
 drearfully
 drearier
 drearies
