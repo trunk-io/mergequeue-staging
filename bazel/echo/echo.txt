@@ -8207,7 +8207,6 @@ eperva
 episcopolatry
 episcotister
 episedia
-episematic
 excluding
 episememe
 episepalous
@@ -9189,6 +9188,7 @@ erythrogen
 equiponderance
 etuve
 erythrogenesis
+episematic
 enarch
 erythroglucin
 erythrolysis
