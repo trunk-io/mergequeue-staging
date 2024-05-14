@@ -6946,7 +6946,6 @@ airbusses
 aircheck
 airchecks
 aircoach
-aircoaches
 aircraft
 aircraftman
 acetonylacetone
@@ -25370,6 +25369,7 @@ azoxynaphthalene
 azoxine
 azoxyphenetole
 azoxytoluidine
+aircoaches
 azrael
 aguilarite
 aztec
