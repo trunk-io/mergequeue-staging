@@ -11432,7 +11432,6 @@ excommunicates
 evaporator
 evaporators
 engrain
-evaporimeter
 evaporite
 evaporitic
 emphatic
@@ -13247,6 +13246,7 @@ exploits
 exploiture
 emporia
 explorational
+evaporimeter
 exploratively
 explorator
 epiphysial
