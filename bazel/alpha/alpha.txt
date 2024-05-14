@@ -4330,7 +4330,6 @@ adoperation
 adoptability
 adoptable
 adoptant
-adoptative
 adopted
 archmock
 adoptedly
@@ -23739,6 +23738,7 @@ asteriae
 austrians
 annite
 austric
+adoptative
 austrine
 austringer
 athyridae
