@@ -1263,7 +1263,6 @@ gantryman
 gorebill
 gantsl
 ganza
-gynostemia
 gaol
 gaolerness
 gaolers
@@ -10532,6 +10531,7 @@ gracile
 gunrack
 gunreach
 gunrooms
+gynostemia
 gunrunner
 gunrunning
 gainstrive
