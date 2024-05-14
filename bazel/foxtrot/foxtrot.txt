@@ -2633,7 +2633,6 @@ ferulae
 fuchsite
 ferular
 ferulas
-faradmeter
 ferule
 funariaceae
 feruled
@@ -8383,6 +8382,7 @@ flappering
 formazan
 formazyl
 formboard
+faradmeter
 fleay
 formed
 formee
