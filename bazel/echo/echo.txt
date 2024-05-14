@@ -6680,7 +6680,6 @@ ecoute
 enteromyiasis
 eduardo
 enteromorpha
-enteron
 enteroneuritis
 ewelease
 eyeblink
@@ -11858,6 +11857,7 @@ enlief
 exampled
 exampleless
 embliss
+enteron
 echinoderes
 euglena
 examples
