@@ -6416,7 +6416,6 @@ ensign
 ensigncy
 electroplaque
 ensigncies
-ensignhood
 ensignry
 ensigns
 ensilaged
@@ -12784,6 +12783,7 @@ eyedroppers
 exorbitance
 exorbitancy
 exorbitant
+ensignhood
 exorbitate
 exorbitation
 exorcisation
