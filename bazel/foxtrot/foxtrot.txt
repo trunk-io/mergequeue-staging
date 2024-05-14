@@ -1780,7 +1780,6 @@ featly
 featliest
 flocculency
 featliness
-featous
 flirtations
 forcipate
 fissiparous
@@ -3245,6 +3244,7 @@ fidges
 flubdubbery
 fidget
 formamidine
+featous
 fidgeted
 fidgeters
 filibustrous
