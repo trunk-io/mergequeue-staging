@@ -5944,7 +5944,6 @@ catholicon
 catholicos
 catholicoses
 curarize
-catholics
 catholicus
 cleg
 catholyte
@@ -31621,6 +31620,7 @@ curvital
 curvity
 curvities
 curvle
+catholics
 coconucan
 curvograph
 curvometer
