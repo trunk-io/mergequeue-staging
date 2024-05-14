@@ -20640,7 +20640,6 @@ cryptococci
 compilement
 compilers
 compiles
-chambrays
 compiling
 comping
 calf
@@ -28852,6 +28851,7 @@ ciceronic
 crete
 constellated
 cretefaction
+chambrays
 callisection
 creticism
 cretics
