@@ -4202,7 +4202,6 @@ beastlings
 beastman
 beasts
 beckelite
-beastship
 bruiters
 beat
 beata
@@ -12174,6 +12173,7 @@ boloman
 bolomen
 bolometer
 bolometrically
+beastship
 boloney
 boloneys
 boloroot
