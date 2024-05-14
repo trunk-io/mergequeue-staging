@@ -5546,7 +5546,6 @@ departmentize
 duddies
 departure
 depas
-depascent
 depass
 delphinoid
 donataries
@@ -17913,6 +17912,7 @@ dormitary
 damndests
 duessa
 duet
+depascent
 duets
 demonstratedly
 duettino
