@@ -6049,7 +6049,6 @@ glozingly
 gynostemiumia
 glub
 glucaemia
-glucagon
 grieben
 gata
 gauger
@@ -6647,6 +6646,7 @@ goldentop
 goldenwing
 golder
 goldest
+glucagon
 getatability
 goldfields
 goldfinch
