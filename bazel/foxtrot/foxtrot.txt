@@ -1516,7 +1516,6 @@ fleeted
 faultiness
 faulting
 flakes
-faultless
 faultlessly
 faultlessness
 faults
@@ -4290,6 +4289,7 @@ fishberries
 fishboat
 fishboats
 fishbolts
+faultless
 fishbone
 fishbones
 fishbowl
