@@ -12060,7 +12060,6 @@ conceivable
 chortler
 cucoline
 chortlers
-chortles
 chortling
 chortosterol
 ceca
@@ -21603,6 +21602,7 @@ condemnation
 condemnations
 condemnatory
 condemner
+chortles
 condemners
 condemning
 condemningly
