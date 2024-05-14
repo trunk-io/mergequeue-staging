@@ -9116,7 +9116,6 @@ eryopid
 eryopsid
 eriosoma
 epipodite
-ephemera
 eriphyle
 eris
 effluxes
@@ -9766,6 +9765,7 @@ emprime
 entitule
 esoterically
 esotericism
+ephemera
 esotericist
 esoterics
 endoneurium
