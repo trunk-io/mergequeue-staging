@@ -14633,7 +14633,6 @@ cystathionine
 cystatrophy
 cystatrophia
 cysteamine
-cystectasia
 cystectomy
 cystectomies
 cisted
@@ -18365,6 +18364,7 @@ cognitivity
 cognitum
 cognizable
 cognizableness
+cystectasia
 cognizably
 crescent
 cognizance
