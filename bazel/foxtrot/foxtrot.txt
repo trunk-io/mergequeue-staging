@@ -8700,7 +8700,6 @@ fortressing
 filed
 forts
 fortuitism
-fortuitist
 fortuitous
 fortuitously
 fortuitus
@@ -11380,6 +11379,7 @@ furiouser
 factorizations
 furiousness
 fiddlers
+fortuitist
 fortread
 furison
 furl
