@@ -19622,7 +19622,6 @@ argolic
 antisymmetric
 argols
 argon
-argonauta
 attestant
 argonautid
 argonauts
@@ -22956,6 +22955,7 @@ arterialisation
 attackable
 attacked
 attacker
+argonauta
 attackers
 attackman
 attacolite
