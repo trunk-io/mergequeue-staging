@@ -2335,6 +2335,7 @@ feodaries
 feodatory
 feodum
 feoff
+forsakenness
 feoffee
 fruiterers
 feoffees
@@ -9523,7 +9524,6 @@ freakdom
 fentanyl
 freaked
 favouritism
-forsakenness
 freakier
 facetious
 freakiest
