@@ -2924,7 +2924,6 @@ dedogmatize
 dedolation
 dedolence
 dedolency
-dedolent
 darking
 dedolomitize
 dedolomitized
@@ -13644,6 +13643,7 @@ dissocial
 demonolatry
 dissociality
 datiscetin
+dedolent
 dissociate
 dissociated
 dissociates

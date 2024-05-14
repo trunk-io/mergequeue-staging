@@ -24474,7 +24474,6 @@ copaivic
 copal
 copalche
 copalcocote
-copaliferous
 copalite
 copaljocote
 copalm
@@ -25533,6 +25532,7 @@ coronillo
 coronion
 coronis
 coronitis
+copaliferous
 cerebropontile
 coronium
 coronobasilar
