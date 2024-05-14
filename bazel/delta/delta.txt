@@ -3147,7 +3147,6 @@ delphacid
 defeatee
 dermatopathic
 defeater
-dyce
 dissimulated
 defeatism
 defeats
@@ -7642,6 +7641,7 @@ devilment
 devilments
 devilmonger
 devilry
+dyce
 devils
 dytiscus
 devilship
