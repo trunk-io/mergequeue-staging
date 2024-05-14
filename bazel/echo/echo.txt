@@ -6889,7 +6889,6 @@ entocranial
 eyehook
 extramusical
 entodermal
-entodermic
 entoderms
 enstyle
 entoglossal
@@ -10801,6 +10800,7 @@ eudemonism
 eudemonist
 eudemonistic
 eudemonistical
+entodermic
 eudemons
 enthroned
 entermete
