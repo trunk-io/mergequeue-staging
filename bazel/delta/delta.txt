@@ -10695,7 +10695,6 @@ diprimary
 diprismatic
 depressure
 dipropargyl
-dipropellant
 dragnet
 diprotodan
 diprotodontia
@@ -12425,6 +12424,7 @@ disinfecting
 digitonin
 disinfection
 disinfections
+dipropellant
 disinfective
 disinfector
 disinfestant
