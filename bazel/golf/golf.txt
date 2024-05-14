@@ -4837,7 +4837,6 @@ gulled
 gorilloid
 gyrostat
 giusto
-gyrostatic
 greystone
 gastroplenic
 girouette
@@ -8136,6 +8135,7 @@ grapevines
 grison
 grapewise
 graphalloy
+gyrostatic
 groover
 graphed
 gelatines
