@@ -973,7 +973,6 @@ carrageenan
 calaverite
 calbroben
 calc
-calcaire
 calcanea
 calcaneal
 chimpanzee
@@ -5774,6 +5773,7 @@ catenates
 crateriform
 catenating
 catenation
+calcaire
 catenative
 catenoids
 catenulate

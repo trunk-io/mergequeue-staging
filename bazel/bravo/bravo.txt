@@ -2696,6 +2696,7 @@ byres
 barytons
 barytophyllite
 barytosulphate
+botonn
 basalia
 barium
 bariums
@@ -13355,7 +13356,6 @@ botoyan
 botone
 botonee
 botony
-botonn
 botonnee
 blastomycosis
 botonny
