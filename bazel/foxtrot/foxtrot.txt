@@ -5478,7 +5478,6 @@ flyboat
 flyboats
 flybrush
 fishless
-flibustier
 flic
 felsophyre
 flycatcher
@@ -7916,6 +7915,7 @@ foresense
 formaldehydesulphoxylate
 filo
 fondak
+flibustier
 friendships
 foreshadowed
 foreshadower
