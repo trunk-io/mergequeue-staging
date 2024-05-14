@@ -3654,6 +3654,7 @@ gesturer
 gesturers
 gesturing
 gil
+glycogenolysis
 gesturist
 gitim
 gesundheit
@@ -5459,7 +5460,6 @@ guha
 groan
 grilles
 glycogeny
-glycogenolysis
 glycogenolytic
 glycogenosis
 glycogenous
