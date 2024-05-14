@@ -740,7 +740,6 @@ danalite
 danaro
 danburite
 dancalite
-dance
 diplanetic
 danceability
 danceable
@@ -5807,6 +5806,7 @@ depositing
 dynasticism
 depositional
 depositive
+dance
 deepeningly
 deposito
 depositor
