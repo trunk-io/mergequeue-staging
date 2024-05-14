@@ -12963,7 +12963,6 @@ dispense
 dispensed
 dispensers
 domestically
-dispenses
 dispensible
 deplores
 dispensingly
@@ -13172,6 +13171,7 @@ dispossess
 dispossessed
 dispossesses
 diaphanometer
+dispenses
 dispossessing
 dispossession
 dispossessor
