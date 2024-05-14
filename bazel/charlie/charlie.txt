@@ -11955,7 +11955,6 @@ choriambize
 choriambs
 choriambus
 choriambuses
-choribi
 choric
 chorically
 chorines
@@ -31156,6 +31155,7 @@ cuprites
 cuproammonium
 cuprobismutite
 cuprocyanide
+choribi
 cytherella
 cuprodescloizite
 cuproid
