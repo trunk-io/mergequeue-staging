@@ -483,7 +483,6 @@ daytime
 daytimes
 dayton
 daiva
-dayward
 daywork
 daywrit
 dakerhens
@@ -12640,6 +12639,7 @@ disloyally
 diminutiveness
 disloyalty
 disloign
+dayward
 deictic
 dislove
 dorsilumbar
