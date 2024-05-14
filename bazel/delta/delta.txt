@@ -1011,7 +1011,6 @@ darkening
 darkens
 darker
 dekameter
-darkest
 darkful
 darkhaired
 darkhearted
@@ -1348,6 +1347,7 @@ daibutsu
 dauties
 den
 drossless
+darkest
 dauting
 dauts
 davach
