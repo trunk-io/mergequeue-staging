@@ -4785,7 +4785,6 @@ gyrofrequency
 gyrogonite
 graffias
 gyrograph
-gyrohorizon
 guato
 gyrolith
 gyroma
@@ -6098,6 +6097,7 @@ geoagronomic
 geostrategic
 glossocomium
 glucosin
+gyrohorizon
 granat
 glucosine
 glucosulfone
