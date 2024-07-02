@@ -8879,7 +8879,6 @@ alliterate
 alliterated
 alliterates
 alliterating
-alliteration
 alliterational
 anabantid
 alliteratively
@@ -19557,6 +19556,7 @@ argyles
 argyll
 argillaceous
 argillic
+alliteration
 argilliferous
 argillite
 arbtrn
