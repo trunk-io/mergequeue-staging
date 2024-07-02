@@ -11016,7 +11016,6 @@ euphausiacea
 endogamic
 euphausid
 euphausiid
-erraticness
 euphemia
 eructated
 euphemian
@@ -13501,6 +13500,7 @@ exsiccator
 exsiliency
 emulsor
 exsolution
+erraticness
 exsolve
 exsolved
 exsolving
