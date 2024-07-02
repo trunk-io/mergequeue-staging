@@ -3534,6 +3534,7 @@ filer
 filers
 filesave
 filemaker
+foliature
 filespec
 fibro
 fossores
@@ -6860,7 +6861,6 @@ fissidentaceous
 foliated
 foliation
 foliator
-foliature
 folies
 foliiferous
 folily
