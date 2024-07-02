@@ -15017,6 +15017,7 @@ brev
 breve
 breves
 brevet
+bushlike
 basementward
 buckskins
 behaves
@@ -17994,7 +17995,6 @@ bushlands
 bartlett
 bambacciata
 bushlet
-bushlike
 bushmaker
 bushmaking
 bushman
