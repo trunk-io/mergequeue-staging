@@ -17635,7 +17635,6 @@ apparat
 apparatchik
 apparatchiki
 apparatchiks
-apparation
 apparats
 apparatus
 apparatuses
@@ -20562,6 +20561,7 @@ arteriostrepsis
 arteriotome
 arteriotomy
 arteriotomies
+apparation
 arteriotrepsis
 arterious
 assegaing
