@@ -6852,6 +6852,7 @@ aileron
 amba
 aesculin
 ailerons
+acyrological
 aporetical
 ayless
 ailette
@@ -8198,7 +8199,6 @@ algid
 anargyros
 algidity
 algidities
-acyrological
 algidness
 algieba
 algiers
