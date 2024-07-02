@@ -2323,6 +2323,7 @@ discomposes
 deciatine
 decibar
 decibels
+diglyceride
 decidability
 decidedly
 decidement
@@ -9539,7 +9540,6 @@ digitus
 digladiated
 digladiating
 digladiator
-diglyceride
 diglyphic
 diglossia
 diglot
