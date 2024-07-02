@@ -1536,7 +1536,6 @@ garrulus
 garrupa
 gars
 garse
-garshuni
 garsil
 garston
 garten
@@ -3626,6 +3625,7 @@ glunch
 gestic
 gestical
 gesticular
+garshuni
 gesticulated
 gesticulates
 glunimie
