@@ -415,6 +415,7 @@ faisceau
 flagships
 faitery
 faith
+faring
 frist
 faithbreach
 faithbreaker
@@ -7703,7 +7704,6 @@ flagellator
 fruticant
 fleetness
 firnismalerei
-faring
 figural
 fertilisation
 foreimpression
