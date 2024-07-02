@@ -3325,6 +3325,7 @@ basioccipital
 bearability
 basion
 bepelt
+blastulas
 betting
 bromide
 basions
@@ -12716,7 +12717,6 @@ bookmarker
 blips
 bookmarks
 bookmobile
-blastulas
 bookmobiles
 bookmonger
 bookplate
