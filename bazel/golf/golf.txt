@@ -6160,7 +6160,6 @@ gluside
 glut
 geometricize
 glutamate
-grin
 glutamates
 glutamic
 glutamine
@@ -9823,6 +9822,7 @@ genetta
 genteelly
 granth
 guango
+grin
 guanidin
 guanidins
 garo

@@ -11845,7 +11845,6 @@ chophouses
 chopin
 cereus
 chopine
-chopines
 chantment
 chopins
 choplogic
@@ -26390,6 +26389,7 @@ cothurnate
 cothurned
 cothurni
 cothurnian
+chopines
 cothurnni
 cothurns
 cothurnus
