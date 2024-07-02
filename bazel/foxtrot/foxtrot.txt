@@ -4580,6 +4580,7 @@ fixtureless
 farming
 fixup
 forwarding
+forjudger
 fixups
 fossilizing
 funerate
@@ -8273,7 +8274,6 @@ featherlessness
 ferinely
 forjudged
 fileable
-forjudger
 fusty
 frey
 foiler
