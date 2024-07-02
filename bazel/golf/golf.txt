@@ -2031,7 +2031,6 @@ gauntry
 gauping
 gaur
 gryphaea
-gaura
 gaurian
 gunbright
 gauric
@@ -8492,6 +8491,7 @@ gravipause
 gravisphere
 gravispheric
 gravitate
+gaura
 gravitated
 gelee
 guanare
