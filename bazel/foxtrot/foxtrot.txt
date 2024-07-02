@@ -840,7 +840,6 @@ fans
 fant
 fantaddish
 fantail
-fantails
 funori
 fenestrato
 fantasia
@@ -7173,6 +7172,7 @@ footnote
 footnoted
 footnotes
 footpace
+fantails
 forefather
 footler
 footpad
