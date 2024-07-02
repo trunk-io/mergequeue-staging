@@ -2295,6 +2295,7 @@ electrical
 exosmoses
 electricalize
 electrically
+enigua
 electricalness
 electrican
 electrician
@@ -5983,7 +5984,6 @@ enigmatize
 enigmatizing
 enigmatography
 enigmatology
-enigua
 exampling
 enisle
 embrown
