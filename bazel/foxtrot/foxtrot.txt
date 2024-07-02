@@ -8304,7 +8304,6 @@ forkman
 forkmen
 forks
 forksful
-featish
 forktail
 forkwise
 fruiterer
@@ -9868,6 +9867,7 @@ freshing
 freshish
 freshly
 freshmanic
+featish
 freshmanship
 fundable
 freshmen
