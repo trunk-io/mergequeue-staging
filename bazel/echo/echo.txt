@@ -821,7 +821,6 @@ ecstatic
 ecstatica
 ecstatical
 ecstatically
-ecize
 etnas
 ensaffron
 earcap
@@ -4755,6 +4754,7 @@ endorsing
 encircled
 encirclements
 encircler
+ecize
 encircles
 encircling
 encyrtid
