@@ -2398,7 +2398,6 @@ candlewicking
 candlewicks
 candlewright
 candling
-candock
 cirl
 candollea
 cantillated
@@ -7422,6 +7421,7 @@ ceramal
 circumplication
 ceramals
 cerambycidae
+candock
 ceramiaceae
 ceramiaceous
 ceramic
