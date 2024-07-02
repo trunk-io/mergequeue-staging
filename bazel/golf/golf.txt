@@ -8786,7 +8786,6 @@ greybeard
 greycoat
 glottis
 greyed
-geonavigation
 gehenna
 glaived
 greyest
@@ -10130,6 +10129,7 @@ guideposts
 gastrulate
 gundie
 gamodesmy
+geonavigation
 gibli
 guiders
 gurneys

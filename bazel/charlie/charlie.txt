@@ -5728,7 +5728,6 @@ catechumenate
 catechumenical
 catechumenically
 catechumenism
-catechumens
 cochleated
 crucis
 catechus
@@ -16147,6 +16146,7 @@ cliftonite
 clifts
 clima
 climaciaceae
+catechumens
 climaciaceous
 conplane
 climacium
