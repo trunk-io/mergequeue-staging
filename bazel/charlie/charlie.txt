@@ -15519,6 +15519,7 @@ clarifies
 clarifying
 clarigate
 clarigation
+computerese
 clarina
 clarinda
 clarine
@@ -21066,7 +21067,6 @@ computativeness
 compute
 computed
 computer
-computerese
 computerise
 cavelike
 cholehematin
