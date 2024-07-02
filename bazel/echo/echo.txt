@@ -4478,7 +4478,6 @@ enascent
 enates
 enatic
 enations
-enaunter
 enbaissing
 enbloc
 enbranglement
@@ -7775,6 +7774,7 @@ elwood
 erysipelothrix
 eumenorrhea
 epinician
+enaunter
 epidendrum
 epiderma
 epidermal
