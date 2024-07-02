@@ -1004,7 +1004,6 @@ absoluteness
 absoluter
 antiparagraphe
 absolutes
-absolutest
 absolution
 absolutions
 absolutism
@@ -4266,6 +4265,7 @@ admortization
 anointers
 admov
 admrx
+absolutest
 adnascence
 adnascent
 adnate
