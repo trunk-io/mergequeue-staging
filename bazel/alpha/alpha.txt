@@ -4100,7 +4100,6 @@ adjustors
 adjusts
 adjutage
 adjutancies
-adjutant
 adjutantship
 adjute
 adjutor
@@ -22651,6 +22650,7 @@ athonite
 athort
 athrepsia
 athrill
+adjutant
 athrive
 athrocyte
 athrocytosis
