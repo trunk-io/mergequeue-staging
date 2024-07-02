@@ -4087,7 +4087,6 @@ delightable
 dichroic
 delighted
 delightedly
-delightedness
 deceleration
 delighter
 delightful
@@ -10009,6 +10008,7 @@ dimwittedness
 din
 dyn
 dichotomically
+delightedness
 dynactinometer
 dynagraph
 dinah
