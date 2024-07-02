@@ -11652,7 +11652,6 @@ anaces
 anacharis
 anachoret
 anachorism
-anachronic
 anachronical
 anachronically
 anachronism
@@ -20178,6 +20177,7 @@ arpeggiation
 arpeggio
 arpeggioed
 arpeggios
+anachronic
 archical
 arterialised
 arpen
