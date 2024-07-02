@@ -2056,7 +2056,6 @@ acetaminol
 acetaminophen
 ataraxics
 acetanilid
-acetanilide
 arbusterol
 acetanion
 acetaniside
@@ -15631,6 +15630,7 @@ antiluetic
 antiluetin
 antimacassar
 antimacassars
+acetanilide
 antimachination
 antimachine
 antimachinery
