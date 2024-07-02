@@ -1249,7 +1249,6 @@ datiscin
 datiscosid
 datiscoside
 datisi
-dative
 datively
 decemberish
 dativogerundial
@@ -10202,6 +10201,7 @@ dinning
 dinobryon
 dinoceras
 dinocerata
+dative
 dinoceratan
 dynode
 dynodes
