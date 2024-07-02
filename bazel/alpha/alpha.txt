@@ -10664,7 +10664,6 @@ amylin
 airplay
 amylo
 astrolater
-amylocellulose
 amylocoagulase
 amylogen
 amylogenesis
@@ -21132,6 +21131,7 @@ athreptic
 asemia
 asepalous
 antidemocracies
+amylocellulose
 asepses
 anagogical
 aseptate
