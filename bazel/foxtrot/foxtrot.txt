@@ -5820,7 +5820,6 @@ flockman
 flockmaster
 florigraphy
 flockowner
-flocks
 frangent
 flockwise
 flocs
@@ -7110,6 +7109,7 @@ footballs
 footboard
 footboards
 friszka
+flocks
 footboy
 footboys
 footbreadth
