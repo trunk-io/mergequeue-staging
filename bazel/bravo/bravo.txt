@@ -6849,7 +6849,6 @@ besnowed
 besa
 besagne
 bestiarian
-besague
 besaiel
 besaile
 bounded
@@ -8669,6 +8668,7 @@ bosun
 billmen
 basidiomycetes
 billon
+besague
 billot
 billow
 balladeroyal
