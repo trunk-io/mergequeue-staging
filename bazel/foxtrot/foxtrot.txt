@@ -1494,7 +1494,6 @@ fauchards
 fluters
 fen
 fauconnier
-faucre
 faujasite
 faulds
 faulkner
@@ -2732,6 +2731,7 @@ festschriften
 flots
 festschrifts
 femalize
+faucre
 festshrifts
 festuca
 festucine
