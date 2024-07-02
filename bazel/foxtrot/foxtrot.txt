@@ -124,7 +124,6 @@ faciolingual
 facit
 faconde
 faconne
-facsim
 facsimile
 featherman
 fishwives
@@ -5265,6 +5264,7 @@ flecker
 fleckered
 fleckering
 flecky
+facsim
 floriferousness
 fleckiest
 fleckiness
