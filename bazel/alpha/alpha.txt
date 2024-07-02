@@ -11343,7 +11343,6 @@ amphispermous
 amphisporangiate
 amphispore
 amphistylar
-amphistyly
 amlikar
 amphistylic
 amphistoma
@@ -14706,6 +14705,7 @@ anthropography
 anthropographic
 anthropoid
 anthropoidal
+amphistyly
 appendicectasis
 anthropoidea
 anthropoidean
