@@ -4798,7 +4798,6 @@ giron
 gyron
 gironde
 glycose
-girondin
 girondism
 geoparallelotropic
 grifting
@@ -10219,6 +10218,7 @@ guinean
 guineapig
 gazoz
 guineas
+girondin
 germarium
 guinevere
 guinfo

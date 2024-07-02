@@ -3267,7 +3267,6 @@ elzevir
 expended
 em
 ektene
-essentials
 emaciate
 ensnaring
 emaciated
@@ -11808,6 +11807,7 @@ extirpateo
 exalt
 emends
 exaltation
+essentials
 exaltations
 epicauta
 exaltative
