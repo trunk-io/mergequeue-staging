@@ -78,7 +78,6 @@ extraterrestrials
 enneahedra
 earlish
 earlywood
-earlobe
 earlock
 earlocks
 earls
@@ -2205,6 +2204,7 @@ egesta
 elcaja
 elchee
 eld
+earlobe
 elder
 entomostraca
 enhancer

@@ -6444,7 +6444,6 @@ descamisado
 descant
 deranged
 descanted
-descanter
 descanting
 descants
 donas
@@ -10251,6 +10250,7 @@ diobols
 diocese
 dianthus
 dioceses
+descanter
 diocesian
 dolcian
 deejays
