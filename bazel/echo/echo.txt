@@ -452,7 +452,6 @@ eccentrically
 eccentricity
 eccentricities
 eccentrics
-eccentring
 ecchymoma
 ecchymosed
 ecchymosis
@@ -9366,6 +9365,7 @@ erraticism
 erratics
 erratum
 erratums
+eccentring
 erratuta
 erred
 errhine
