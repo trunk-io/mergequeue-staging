@@ -4779,7 +4779,6 @@ bedrail
 bogway
 bedrails
 bedral
-bedrape
 bedraped
 bedrapes
 bedravel
@@ -6760,6 +6759,7 @@ bernacle
 bernard
 bernardina
 bodice
+bedrape
 bernardine
 blateness
 bernese
