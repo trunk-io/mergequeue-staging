@@ -1651,6 +1651,7 @@ fieldward
 fawns
 fawnskin
 fax
+foehns
 faxed
 filaria
 faxes
@@ -1938,7 +1939,6 @@ feedboard
 feedboxes
 feeded
 feeders
-foehns
 fagald
 feedhead
 feeding
