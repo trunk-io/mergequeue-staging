@@ -1571,7 +1571,6 @@ eggcups
 egged
 egger
 eggers
-envapour
 eggfruit
 exterminatory
 egghead
@@ -13938,6 +13937,7 @@ extrapolates
 extrapolating
 extrapolation
 extrapolations
+envapour
 extrapolator
 extrapolatory
 extrapopular

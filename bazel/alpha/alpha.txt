@@ -18326,7 +18326,6 @@ aquicolous
 aquicultural
 aquiculture
 aquiculturist
-aquifer
 aquiferous
 actifier
 aquifers
@@ -20020,6 +20019,7 @@ armlet
 armlike
 armload
 armloads
+aquifer
 armlock
 armlocks
 armoires
