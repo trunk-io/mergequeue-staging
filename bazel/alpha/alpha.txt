@@ -13548,7 +13548,6 @@ accentuation
 ankara
 ankaramite
 ankaratrite
-anapterygote
 ankerhold
 ankerite
 ankerites
@@ -23471,6 +23470,7 @@ aulostomidae
 aulostomus
 aulu
 aumaga
+anapterygote
 aumail
 aumakua
 ashake
