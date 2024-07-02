@@ -2566,7 +2566,6 @@ gemot
 gemots
 gems
 gained
-gemsbok
 gemsboks
 gastrohelcosis
 gemsbucks
@@ -9408,6 +9407,7 @@ grounded
 groundenell
 grounder
 groundhog
+gemsbok
 groundy
 grounding
 grumpish
