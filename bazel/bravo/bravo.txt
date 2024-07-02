@@ -2581,7 +2581,6 @@ bares
 baresark
 baresarks
 baresma
-barest
 baresthesia
 baretta
 barf
@@ -14042,6 +14041,7 @@ baraca
 brachioradialis
 brachiorrhachidian
 brachiorrheuma
+barest
 brachiosaur
 bosuns
 brachiosaurus
