@@ -5849,7 +5849,6 @@ cathartae
 cathartes
 cathartic
 cathartical
-cuirass
 cathartically
 catharticalness
 cathartics
@@ -16867,6 +16866,7 @@ clubhauled
 clubhauling
 cassation
 clubhouse
+cuirass
 capel
 clubhouses
 companionship
