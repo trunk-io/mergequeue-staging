@@ -803,7 +803,6 @@ goldylocks
 gradations
 galvanomagnetic
 galvanometer
-geometries
 galvanometrical
 galvanoplasty
 galvanoplastic
@@ -8055,6 +8054,7 @@ granolithic
 gooiest
 granomerite
 granophyre
+geometries
 granophyric
 granose
 grantable

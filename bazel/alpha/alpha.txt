@@ -8763,7 +8763,6 @@ agamobia
 allelism
 allelocatalytic
 allelomorphism
-allelopathy
 allelotropic
 aggrege
 allelotropism
@@ -10787,6 +10786,7 @@ amyotrophia
 amyotrophic
 amyous
 amir
+allelopathy
 amiray
 autocondensation
 amyraldism
