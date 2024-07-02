@@ -19117,7 +19117,6 @@ archminister
 archmystagogue
 archmocker
 atherogenic
-archmonarch
 archmonarchy
 archmonarchist
 archmugwump
@@ -23210,6 +23209,7 @@ attunement
 attunes
 attuning
 atturn
+archmonarch
 atua
 atumble
 atveen
