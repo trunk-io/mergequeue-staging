@@ -2711,7 +2711,6 @@ decor
 decorability
 decorable
 decorably
-decorament
 disproportionates
 decorate
 decorated
@@ -3177,6 +3176,7 @@ defective
 defectiveness
 defectless
 defectlessness
+decorament
 defectology
 defector
 defectors

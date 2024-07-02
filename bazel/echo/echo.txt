@@ -10017,7 +10017,6 @@ estheses
 esthesia
 elastics
 esthacyte
-esthesioblast
 esthesiogen
 esthesiogeny
 esthesiogenic
@@ -14128,6 +14127,7 @@ extusion
 eachwhere
 exuberance
 exuberant
+esthesioblast
 exuberantly
 exuberantness
 exuberating
