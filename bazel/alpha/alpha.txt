@@ -3080,6 +3080,7 @@ acrotreta
 acrotretidae
 acrotrophic
 acrotrophoneurosis
+arteriospasm
 acrux
 acta
 appealability
@@ -20556,7 +20557,6 @@ arterioscleroses
 arteriosclerosis
 arteriosclerotic
 arteriosympathectomy
-arteriospasm
 arteriostenosis
 arteriostosis
 arteriostrepsis
