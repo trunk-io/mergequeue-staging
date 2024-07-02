@@ -2390,7 +2390,6 @@ achromatophil
 achromatophile
 achromatophilic
 achromatopia
-achromatopsy
 apologizes
 achromatopsia
 achromatosis
@@ -11708,6 +11707,7 @@ admonitions
 anthoxanthin
 anadems
 anadenia
+achromatopsy
 auxoamylase
 anadesm
 anadicrotism
