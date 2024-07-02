@@ -1858,7 +1858,6 @@ fecundation
 fecundations
 fecundative
 fecundator
-fleeter
 freighters
 fuligula
 fecundatory
@@ -6408,6 +6407,7 @@ flour
 folklike
 fungo
 fluoridation
+fleeter
 fluoride
 fluoridisation
 fluoridization
