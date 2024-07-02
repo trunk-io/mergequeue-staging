@@ -2130,6 +2130,7 @@ acetylsalicylic
 acetylsalol
 acetylthymol
 araban
+aminophenol
 autarchically
 acetyltropeine
 acetylurea
@@ -10754,7 +10755,6 @@ aminomalonic
 aminomyelin
 analities
 aminopeptidase
-aminophenol
 aminopherase
 aminopyrine
 aminoplast
