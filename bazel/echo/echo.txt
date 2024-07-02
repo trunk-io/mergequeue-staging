@@ -4505,7 +4505,6 @@ euthyneurous
 encanker
 encanthis
 encapsulate
-encapsulated
 encapsulates
 encapsulating
 encapsulation
@@ -12011,6 +12010,7 @@ extraditable
 excercise
 ensuite
 exserts
+encapsulated
 excerebration
 excern
 excerp
