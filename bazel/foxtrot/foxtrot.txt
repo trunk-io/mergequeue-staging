@@ -118,7 +118,6 @@ facilities
 forefelt
 facings
 facinorous
-facinorousness
 foldable
 functionally
 faciolingual
@@ -5046,6 +5045,7 @@ fordeal
 flated
 flateria
 flatette
+facinorousness
 flatfeet
 fieldfare
 flatfoot
