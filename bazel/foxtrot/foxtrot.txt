@@ -2619,7 +2619,6 @@ fertility
 fertilities
 fertilizability
 fixgig
-frigga
 ferroprussiate
 fertilization
 fertilizational
@@ -7559,6 +7558,7 @@ foredeem
 fallotomy
 flyspecked
 forthby
+frigga
 foredefeated
 filthified
 foredefine
