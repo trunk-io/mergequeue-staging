@@ -7846,6 +7846,7 @@ cervicolingual
 cervicolumbar
 colorectitis
 crystal
+channelization
 cervicomuscular
 cerviconasal
 cervicorn
@@ -8697,7 +8698,6 @@ channel
 channelbill
 channeled
 christhood
-channelization
 channelize
 channelized
 channelizes
