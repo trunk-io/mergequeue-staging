@@ -3873,7 +3873,6 @@ carcinomatosis
 carcinophagous
 carcinophobia
 carcinopolypus
-chloralide
 carcinosarcomas
 carcinosarcomata
 carcinus
@@ -21690,6 +21689,7 @@ condylure
 condiment
 condimental
 condimentary
+chloralide
 condisciple
 condistillation
 condite
