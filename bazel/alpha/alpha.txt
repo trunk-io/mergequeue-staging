@@ -1148,7 +1148,6 @@ abstrusities
 absume
 absumption
 absurd
-absurder
 absurdest
 ataxonomic
 advisements
@@ -8715,6 +8714,7 @@ acanthomeridae
 aligner
 alleging
 allegory
+absurder
 arsenophen
 aglyphodontia
 allegoric
