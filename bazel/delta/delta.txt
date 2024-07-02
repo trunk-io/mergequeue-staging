@@ -3250,6 +3250,7 @@ deferments
 deferrable
 deferral
 deferrals
+designedness
 deferred
 deferrer
 deferrers
@@ -6657,7 +6658,6 @@ desoxyephedrine
 designatory
 designed
 designedly
-designedness
 degradand
 designee
 designees
