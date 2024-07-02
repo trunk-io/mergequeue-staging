@@ -19759,7 +19759,6 @@ combite
 comble
 combless
 comblike
-combmaker
 combmaking
 combo
 comboy
@@ -26433,6 +26432,7 @@ cotingid
 cotingidae
 cotinus
 cotype
+combmaker
 cotypes
 cotise
 cotised
