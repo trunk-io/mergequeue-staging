@@ -3106,7 +3106,6 @@ bartramiaceae
 bartree
 baru
 baruch
-breakwaters
 barundi
 barvel
 bartend
@@ -12208,6 +12207,7 @@ bolsterwork
 bolt
 bittocks
 boltage
+breakwaters
 boltant
 blendcorn
 boltcutter
