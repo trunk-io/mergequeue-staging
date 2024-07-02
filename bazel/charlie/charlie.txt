@@ -2240,7 +2240,6 @@ cancel
 cancelability
 cancelable
 cancelation
-canceled
 canceleer
 canceler
 copperization
@@ -26529,6 +26528,7 @@ cottonwoods
 cottrel
 cottus
 chapterful
+canceled
 cotuit
 cotula
 cotunnite
