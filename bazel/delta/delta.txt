@@ -2440,7 +2440,6 @@ deckels
 decken
 decker
 deckhand
-deckhead
 dragsawing
 deckie
 decking
@@ -3062,6 +3061,7 @@ deerweeds
 dimercuric
 deerwood
 deescalate
+deckhead
 deescalated
 diphtheriaphor
 deescalates
