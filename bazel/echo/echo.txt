@@ -7263,7 +7263,6 @@ enwheels
 encroachments
 enwind
 echeneis
-enwinding
 enwinds
 enwing
 enwingly
@@ -13115,6 +13114,7 @@ expertize
 expertized
 expertizing
 equilibrial
+enwinding
 expeditiousness
 expertly
 electrooptics
