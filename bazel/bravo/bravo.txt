@@ -2628,7 +2628,6 @@ bargham
 barghest
 brachydomal
 barghests
-beslash
 bargir
 bassetite
 bargoose
@@ -2999,6 +2998,7 @@ broguing
 barrelhouse
 barrelhouses
 barreling
+beslash
 barrelled
 barrelling
 barrelmaker
