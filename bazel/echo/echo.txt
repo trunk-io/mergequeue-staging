@@ -3167,7 +3167,6 @@ embull
 elrage
 epineolithic
 elroquite
-else
 estus
 endemic
 ethnobotany
@@ -10604,6 +10603,7 @@ etymologists
 eucolite
 etymologizable
 etymologization
+else
 edriasteroidea
 epilepsia
 etymologized
