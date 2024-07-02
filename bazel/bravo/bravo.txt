@@ -3154,7 +3154,6 @@ bascunan
 base
 baseball
 baseballdom
-bravely
 baseballer
 baseballs
 basinlike
@@ -3617,6 +3616,7 @@ baudery
 bathysphere
 bathyspheres
 bathythermogram
+bravely
 bathythermograph
 bathkol
 bathless
