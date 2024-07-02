@@ -961,7 +961,6 @@ gobby
 gametange
 gilds
 gametangium
-gamete
 gotha
 gametes
 gametocyst
@@ -5454,6 +5453,7 @@ glycogenetic
 guha
 groan
 grilles
+gamete
 glycogeny
 glycogenolytic
 glycogenosis
