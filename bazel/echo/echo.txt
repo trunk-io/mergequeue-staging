@@ -2665,7 +2665,6 @@ electrotellurograph
 electrotest
 electrothanasia
 electrothanatosis
-electrotherapeutical
 expressionful
 electrotherapeutist
 edaphodont
@@ -5189,6 +5188,7 @@ endodermal
 endodermic
 endodermis
 emphasized
+electrotherapeutical
 endoderms
 endodynamomorphic
 ecchymoses
