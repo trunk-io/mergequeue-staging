@@ -709,7 +709,6 @@ destinezite
 dampproofer
 dampproofing
 damps
-dams
 damsel
 damselfly
 damselflies
@@ -11714,6 +11713,7 @@ dyscrasite
 daglock
 dyscratic
 discreate
+dams
 dislodge
 disembrace
 discreating
