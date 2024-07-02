@@ -3724,7 +3724,6 @@ ghastfulness
 grudgekin
 ghastly
 ghastlier
-ghastliest
 garble
 ghastlily
 ghastliness
@@ -6169,6 +6168,7 @@ gamogony
 gadbee
 glutaminic
 glutaric
+ghastliest
 glutch
 glutelin
 glutelins
