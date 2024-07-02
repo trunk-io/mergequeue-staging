@@ -8858,7 +8858,6 @@ energising
 eradiated
 exhedra
 equianharmonic
-eradiating
 eradiation
 essential
 eradicable
@@ -12728,6 +12727,7 @@ expandibility
 exon
 exoner
 exonerate
+eradiating
 exhibited
 exonerated
 extreat
