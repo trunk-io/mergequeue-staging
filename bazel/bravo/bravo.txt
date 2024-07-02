@@ -1784,6 +1784,7 @@ bigotries
 balsamina
 balsaminaceae
 balsaminaceous
+basilicae
 beldam
 balsaming
 balsamitic
@@ -9929,7 +9930,6 @@ began
 bituminised
 bituminising
 bituminization
-basilicae
 bituminize
 bituminized
 bituminizing
