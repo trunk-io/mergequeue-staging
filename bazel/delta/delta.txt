@@ -8403,7 +8403,6 @@ diamat
 diamb
 diamber
 diambic
-diamegnetism
 diamesogamous
 diameter
 diameters
@@ -13410,6 +13409,7 @@ didymous
 diaplex
 decolourizer
 disrooting
+diamegnetism
 disroots
 disrout
 disrudder
