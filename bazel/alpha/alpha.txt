@@ -17346,7 +17346,6 @@ alphitomancy
 apological
 apologies
 apologise
-apologised
 apologiser
 apologising
 autorail
@@ -17400,6 +17399,7 @@ apoop
 apopemptic
 apopenptic
 apophantic
+apologised
 apophasis
 ankyloproctia
 apophatic
