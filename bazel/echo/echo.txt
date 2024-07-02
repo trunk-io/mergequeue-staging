@@ -7287,7 +7287,6 @@ enwreathing
 enwwove
 euphonym
 eyepit
-epidemic
 enwwoven
 enzygotic
 explat
@@ -9141,6 +9140,7 @@ encephaloma
 erythea
 erythema
 erythemal
+epidemic
 erythemas
 erythematous
 erythemic
