@@ -5233,6 +5233,7 @@ begetters
 begetting
 beggable
 bromobenzene
+bromals
 beggardom
 beggared
 bastarda
@@ -15755,7 +15756,6 @@ bromacetic
 bromacetone
 begirdle
 bromalbumin
-bromals
 bromamide
 bromate
 burys
