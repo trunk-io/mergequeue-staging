@@ -8658,7 +8658,6 @@ diasters
 diastyle
 diastimeter
 diastoles
-diastolic
 destigmatization
 diastomatic
 diastral
@@ -17435,6 +17434,7 @@ drostdy
 drou
 droud
 droughermen
+diastolic
 droughtier
 droughtiest
 droughtiness
