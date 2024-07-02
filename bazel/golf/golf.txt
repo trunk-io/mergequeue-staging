@@ -101,7 +101,6 @@ gadget
 gadgeteer
 gadgetry
 gadgetries
-gadgets
 genialize
 gadhelic
 gadi
@@ -1815,6 +1814,7 @@ gastrojejunostomy
 gonyaulax
 groow
 gastrojejunostomies
+gadgets
 gerberia
 gastrolater
 gastrolavage
