@@ -5881,7 +5881,6 @@ engraver
 engraves
 engravings
 engreaten
-engrege
 engregge
 erythrine
 embezzlements
@@ -10319,6 +10318,7 @@ ectromelian
 electroharmonic
 etherifying
 embryoscope
+engrege
 etheriform
 etheriidae
 emboweled
