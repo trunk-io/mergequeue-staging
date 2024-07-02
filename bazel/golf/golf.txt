@@ -4540,7 +4540,6 @@ gynoecium
 grubstaker
 gynoeciumcia
 gynogenesis
-gynogenetic
 gracelessly
 gynomonecious
 gynomonoeciously
@@ -9755,6 +9754,7 @@ guacimo
 gravidae
 glovelike
 guaco
+gynogenetic
 guacos
 guadagnini
 guadalcazarite
