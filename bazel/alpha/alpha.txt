@@ -10737,6 +10737,7 @@ aminocaproic
 autotoxicosis
 amynodon
 amynodont
+autogyros
 antiacid
 aminoformic
 antilocapra
@@ -24090,7 +24091,6 @@ afterswarming
 abrasiometer
 autogiro
 autogyro
-autogyros
 autognosis
 ambulators
 autognostic
