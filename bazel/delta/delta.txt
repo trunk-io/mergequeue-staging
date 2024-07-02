@@ -9266,7 +9266,6 @@ diffusions
 diestrum
 diestrums
 diestruses
-dyestuff
 dyestuffs
 diet
 dietal
@@ -11337,6 +11336,7 @@ discifloral
 disciflorous
 discigerous
 discina
+dyestuff
 discind
 discinoid
 devilish
