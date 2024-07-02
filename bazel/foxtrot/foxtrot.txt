@@ -668,7 +668,6 @@ familiarization
 fireman
 familiarizations
 familiarized
-familiarizer
 fartherer
 familiarly
 fashioned
@@ -1552,6 +1551,7 @@ faust
 fauster
 faustian
 faute
+familiarizer
 fauteuil
 feldspathoidal
 fautor
