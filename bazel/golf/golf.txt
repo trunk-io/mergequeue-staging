@@ -4653,7 +4653,6 @@ greyflies
 gypsums
 genevois
 gatchwork
-geodist
 giraffa
 gustativeness
 granodioritic
@@ -10512,6 +10511,7 @@ gunning
 gluemaking
 gunocracy
 grene
+geodist
 gunong
 gunpaper
 gerbille
