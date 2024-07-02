@@ -2845,6 +2845,7 @@ barolong
 basote
 baromacrometer
 barometer
+boxfish
 boroughship
 bulldog
 barometers
@@ -4641,7 +4642,6 @@ bedel
 bedell
 bedells
 bedels
-boxfish
 bedelve
 bedeman
 bedemen
