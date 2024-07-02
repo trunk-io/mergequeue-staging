@@ -5482,7 +5482,6 @@ fromage
 furcation
 flybelts
 flyby
-flybys
 fluctisonous
 flyblow
 flyblown
@@ -8807,6 +8806,7 @@ fossiliferous
 flukey
 finites
 foregallery
+flybys
 fissirostres
 fossilification
 fossilisable
