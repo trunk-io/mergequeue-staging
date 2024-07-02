@@ -8459,7 +8459,6 @@ flicker
 formism
 formity
 formless
-formlessness
 flutework
 forelimb
 formolit
@@ -10847,6 +10846,7 @@ fishpool
 fulgence
 fulgency
 fieldie
+formlessness
 fulgent
 fulgently
 fulgentness
