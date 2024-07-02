@@ -9860,7 +9860,6 @@ chemicomineralogical
 chemicophysical
 chemicophysics
 chemicophysiological
-chemicovital
 chemics
 chemiculture
 chemigraph
@@ -29179,6 +29178,7 @@ cryogenics
 cryogenies
 cryogens
 cryolite
+chemicovital
 cryolites
 criolla
 callant
