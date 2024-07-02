@@ -7304,6 +7304,7 @@ cephaldemae
 cephalemia
 cephaletron
 cephaleuros
+crouched
 cephalhematoma
 cephalic
 cephalically
@@ -29978,7 +29979,6 @@ crottle
 crouchant
 crouchback
 crouche
-crouched
 croucher
 crouches
 crouchie
