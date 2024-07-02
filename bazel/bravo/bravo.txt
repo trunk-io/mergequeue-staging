@@ -9378,7 +9378,6 @@ birchism
 birchman
 birchwood
 bird
-birdbander
 birdbath
 birdbaths
 birdberry
@@ -11108,6 +11107,7 @@ bloodstanch
 bloodstock
 bloodstones
 bloodstream
+birdbander
 bloodstroke
 bloodsuck
 bloodsucker
