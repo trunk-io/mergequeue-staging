@@ -8603,7 +8603,6 @@ diaschisma
 diaschistic
 denigrative
 diascope
-diascopy
 diascordium
 diasene
 diasynthesis
@@ -13164,6 +13163,7 @@ disposement
 disposers
 disposes
 disposing
+diascopy
 disposingly
 disposition
 drawplate
