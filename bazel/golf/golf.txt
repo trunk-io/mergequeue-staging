@@ -760,7 +760,6 @@ galoshe
 galoshes
 galoubet
 galp
-gaits
 galravage
 gals
 galtrap
@@ -3035,6 +3034,7 @@ geocronite
 gnoff
 geodes
 geodesy
+gaits
 geodesia
 geodesical
 geodesies
