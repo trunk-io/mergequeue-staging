@@ -3568,7 +3568,6 @@ calvus
 caratch
 carate
 carates
-confiscators
 carats
 carauna
 caraunda
@@ -15258,6 +15257,7 @@ claes
 clag
 clagged
 claggy
+confiscators
 clagging
 claggum
 complacencies
