@@ -1423,7 +1423,6 @@ galenoid
 garland
 garlandage
 garlanded
-garlanding
 graybeard
 garlandless
 garlandlike
@@ -2144,6 +2143,7 @@ gigantostracous
 gatewaymen
 grandeval
 ghazis
+garlanding
 gazabo
 grothite
 gazabos

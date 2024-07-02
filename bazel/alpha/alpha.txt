@@ -9535,7 +9535,6 @@ altaian
 altaic
 altaid
 altair
-abbreviators
 altaite
 altaltissimo
 aitesis
@@ -16919,6 +16918,7 @@ aphenoscope
 apheresis
 apheretic
 apheses
+abbreviators
 adumbrate
 antiphoner
 apheta
