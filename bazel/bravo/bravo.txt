@@ -9016,7 +9016,6 @@ bittiest
 bioherm
 bioherms
 basiotripsy
-bioinstrument
 biokinetics
 biol
 balei
@@ -10513,6 +10512,7 @@ bromothymol
 bilo
 blateroon
 blather
+bioinstrument
 blatherer
 blathery
 blathers
