@@ -3167,7 +3167,6 @@ else
 estus
 endemic
 ethnobotany
-elsehow
 elseways
 elsewhat
 elsewhen
@@ -10005,6 +10004,7 @@ enterocrinin
 esterling
 esteros
 esters
+elsehow
 estevin
 esth
 entoplastic
