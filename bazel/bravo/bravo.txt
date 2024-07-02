@@ -4175,7 +4175,6 @@ bearpaw
 bears
 bearship
 bearskin
-bearskins
 bearward
 bearwood
 brilliants
@@ -8768,6 +8767,7 @@ bimucronate
 barycentre
 bimuscular
 bin
+bearskins
 binal
 byname
 bynames
