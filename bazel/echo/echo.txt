@@ -1395,7 +1395,6 @@ epiprecoracoid
 epitaphize
 estragons
 efficacies
-efficaciously
 efficaciousness
 efficience
 efficiency
@@ -4073,6 +4072,7 @@ emp
 enrapture
 empaestic
 empaistic
+efficaciously
 empalement
 empaler
 empalers
