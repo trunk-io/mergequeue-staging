@@ -6798,7 +6798,6 @@ berrylike
 berryman
 berrypicker
 binominal
-berrypicking
 berrugate
 bersagliere
 bersaglieri
@@ -17886,6 +17885,7 @@ burseraceae
 burseraceous
 bursicle
 betrunk
+berrypicking
 bursiform
 bursitis
 berths
