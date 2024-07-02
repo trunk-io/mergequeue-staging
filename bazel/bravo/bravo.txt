@@ -3469,7 +3469,6 @@ baster
 basters
 basti
 bastian
-bastide
 bastile
 bastille
 bastilles
@@ -15822,6 +15821,7 @@ bromization
 bromize
 bromized
 baronetize
+bastide
 babassus
 bromizer
 basified
