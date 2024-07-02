@@ -9445,6 +9445,7 @@ chawn
 chaws
 chawstick
 chazan
+checkrein
 chazanim
 caliburno
 chazans
@@ -9576,7 +9577,6 @@ checkpointing
 coparallel
 checkpoints
 checkrack
-checkrein
 checkroll
 centgrave
 checkroom
