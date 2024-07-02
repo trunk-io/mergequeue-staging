@@ -1935,7 +1935,6 @@ eyl
 elasmotherium
 eila
 eild
-enbibe
 endosymbiosis
 endophlebitis
 eileen
@@ -12958,6 +12957,7 @@ expection
 expectorant
 expectorate
 expectorated
+enbibe
 expectorating
 expectoration
 eumenidae
