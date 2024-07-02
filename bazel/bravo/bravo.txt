@@ -6159,7 +6159,6 @@ beneficience
 beneficient
 beneficium
 benefit
-bradypod
 benefited
 benefiter
 bothros
@@ -18195,6 +18194,7 @@ butyrometer
 butyrometric
 brast
 butyrone
+bradypod
 butyrous
 butle
 butlerage
