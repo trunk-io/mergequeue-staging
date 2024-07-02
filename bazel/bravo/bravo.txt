@@ -950,6 +950,7 @@ bagnette
 beachman
 bagnio
 bagnios
+beamman
 bagnut
 bagobo
 bagonet
@@ -4079,7 +4080,6 @@ bulletining
 beamless
 buddy
 beamlet
-beamman
 beamroom
 beamsman
 beamster

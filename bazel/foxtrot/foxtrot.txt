@@ -5714,6 +5714,7 @@ ferninst
 fluidglycerate
 fungoid
 flittern
+foxinesses
 flitty
 flittiness
 flitting
@@ -9115,7 +9116,6 @@ foxily
 farrowed
 feints
 foxiness
-foxinesses
 foxish
 foxite
 fadged
