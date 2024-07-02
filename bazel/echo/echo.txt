@@ -542,7 +542,6 @@ extraepiphyseal
 echeneidae
 empanada
 evincibly
-echeneidid
 echeneididae
 expilation
 echeneidoid
@@ -9149,6 +9148,7 @@ erythemic
 euboic
 eutheria
 erythraea
+echeneidid
 erythraean
 erythraeidae
 electro
