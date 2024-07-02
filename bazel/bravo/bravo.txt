@@ -3569,7 +3569,6 @@ barbered
 buy
 bathers
 bathes
-bathetic
 bathetically
 bathflower
 bathhouse
@@ -14036,6 +14035,7 @@ brachiopoda
 brachiopode
 booziest
 benamee
+bathetic
 brachiopodist
 brachiopodous
 baraca
