@@ -3911,7 +3911,6 @@ fingerleaf
 fingerless
 fallers
 fingerlet
-fingerlike
 fingerling
 fuliguline
 factorization
@@ -5395,6 +5394,7 @@ fleshings
 fleshliest
 fleshlily
 failingly
+fingerlike
 fleshliness
 fostell
 fleshmonger
