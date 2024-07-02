@@ -12546,7 +12546,6 @@ exhumatory
 exhumed
 exhumer
 exhumers
-exhuming
 exibilate
 exigeant
 exigeante
@@ -13747,6 +13746,7 @@ epochist
 entortill
 extorting
 extortionary
+exhuming
 extortionately
 extortioner
 europocentric
