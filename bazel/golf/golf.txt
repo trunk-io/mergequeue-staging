@@ -1680,7 +1680,6 @@ gypsoplast
 geomorphologist
 gasteropoda
 gasterosteidae
-grissen
 gasterosteiform
 grubstaked
 gasterosteoid
@@ -10513,6 +10512,7 @@ gunning
 gluemaking
 gunocracy
 grene
+grissen
 geodist
 gunong
 gunpaper
