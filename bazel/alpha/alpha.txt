@@ -11217,7 +11217,6 @@ amphichromatic
 amphichrome
 amphichromy
 amphicyon
-amphicyonidae
 arrent
 amphicyrtous
 amphicytula
@@ -13920,6 +13919,7 @@ anomiacea
 atrabilarian
 anomie
 anomiidae
+amphicyonidae
 anomite
 anomodont
 anomodontia
