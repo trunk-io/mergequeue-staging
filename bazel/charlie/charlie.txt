@@ -5130,6 +5130,7 @@ casketed
 casketlike
 caskets
 casky
+clepsine
 casking
 casklike
 casks
@@ -15982,7 +15983,6 @@ cleping
 clepsydra
 costumes
 clepsydras
-clepsine
 clept
 cleptobioses
 cleptobiosis
