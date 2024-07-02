@@ -24,7 +24,6 @@ bevels
 bowtie
 baaskap
 baba
-babacoote
 babaylan
 babaylanes
 babajaga
@@ -1327,6 +1326,7 @@ balanoid
 bladderweed
 boteroll
 balanophoraceous
+babacoote
 balanophore
 beeftongue
 balanophorin
