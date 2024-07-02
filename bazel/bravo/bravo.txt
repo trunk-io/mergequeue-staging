@@ -6973,6 +6973,7 @@ bufflehorn
 beside
 bullfinch
 besides
+bosniac
 besiege
 besieged
 bardash
@@ -9668,7 +9669,6 @@ beseemliness
 bishophood
 bishopless
 banyuls
-bosniac
 bishoplet
 bishoplike
 brucella
