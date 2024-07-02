@@ -5056,7 +5056,6 @@ casern
 caserne
 casernes
 caserns
-cases
 casette
 casettes
 caseum
@@ -15181,6 +15180,7 @@ clabbered
 chubbed
 clabbery
 clabbering
+cases
 clabbers
 cumbent
 creneled
