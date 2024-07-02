@@ -341,7 +341,6 @@ doddle
 daybeds
 dilutions
 dollfaced
-dayberry
 dayblush
 dayboy
 dustrag
@@ -4610,6 +4609,7 @@ demipillar
 deafen
 demipique
 demipomada
+dayberry
 demipremise
 demipremiss
 demipronation
