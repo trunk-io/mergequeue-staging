@@ -6418,7 +6418,6 @@ ensient
 ensiferi
 ensiform
 ensign
-ensigncy
 electroplaque
 ensigncies
 ensignry
@@ -13730,6 +13729,7 @@ extoled
 extoll
 extolled
 extoller
+ensigncy
 extollers
 errancy
 elementariness
