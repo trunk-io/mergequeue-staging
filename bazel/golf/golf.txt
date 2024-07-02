@@ -4706,6 +4706,7 @@ girella
 girellidae
 gyrencephala
 gyrencephalic
+groundward
 greatheart
 grouplet
 gyrencephalous
@@ -10268,7 +10269,6 @@ gulaman
 ghent
 guttiferae
 gagroot
-groundward
 gaoled
 guland
 glimmerite
