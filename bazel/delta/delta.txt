@@ -4322,7 +4322,6 @@ dodecamerous
 dem
 dioptrometer
 demagnetisation
-demagnetised
 demagnetiser
 demagnetization
 disorienting
@@ -5167,6 +5166,7 @@ denizenship
 debullition
 denmark
 denned
+demagnetised
 dennet
 denning
 dorsimesal
