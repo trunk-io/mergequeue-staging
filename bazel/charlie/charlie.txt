@@ -37,7 +37,6 @@ caballos
 cabals
 coagulates
 caban
-cabana
 cabanas
 cabane
 cabaret
@@ -7497,6 +7496,7 @@ ceratopsian
 ceratopsidae
 ceratopteridaceae
 ceratopteris
+cabana
 ceratorhine
 coprocessors
 ceratosa
