@@ -4818,7 +4818,6 @@ gastroparesis
 griddlecake
 gyropigeon
 gliffing
-gyropilot
 gyroplane
 gastropneumatic
 gazers
@@ -10592,6 +10591,7 @@ guileless
 guppies
 gerbo
 guptavidya
+gyropilot
 gurdle
 gurge
 gurgeon
