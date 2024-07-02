@@ -3027,7 +3027,6 @@ barricade
 barricades
 barricadoed
 barricadoes
-barricadoing
 barricados
 barrico
 barricoes
@@ -9333,6 +9332,7 @@ brachiofacial
 beltmen
 bipotentiality
 bipotentialities
+barricadoing
 blackmailer
 biprism
 byproduct
