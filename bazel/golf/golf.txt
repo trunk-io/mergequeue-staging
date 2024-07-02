@@ -593,7 +593,6 @@ gorgons
 gardenwise
 gallian
 girly
-galliard
 grunting
 galliardize
 galliardly
@@ -9012,6 +9011,7 @@ griminess
 griming
 grimm
 grimme
+galliard
 grimmer
 grimmest
 gesith

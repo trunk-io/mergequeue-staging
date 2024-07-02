@@ -1006,7 +1006,6 @@ carryke
 calumnious
 calcariferous
 calcariform
-calcars
 calcate
 calceate
 calcedon
@@ -25924,6 +25923,7 @@ corticotrophin
 corticous
 cortile
 cortin
+calcars
 cortina
 cortinae
 cortinarious
