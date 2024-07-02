@@ -868,7 +868,6 @@ baffy
 baffies
 baffle
 baffled
-buriable
 bafflements
 baffler
 bafflers
@@ -18066,6 +18065,7 @@ bishoping
 busywork
 busyworks
 busk
+buriable
 blink
 busker
 buskers
