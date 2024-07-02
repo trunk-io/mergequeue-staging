@@ -5363,7 +5363,6 @@ dentiparous
 dentiphone
 dentiroster
 dentiscalp
-dentist
 dentistic
 dentistical
 directdiscourse
@@ -13627,6 +13626,7 @@ dissimulator
 dhu
 dissimulators
 dissimule
+dentist
 dominates
 dissimuler
 drooled
