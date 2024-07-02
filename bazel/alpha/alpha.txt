@@ -1485,6 +1485,7 @@ accension
 accensor
 accent
 accented
+amentulum
 accenting
 accentless
 anticnemion
@@ -8481,7 +8482,6 @@ adoptionist
 aliturgic
 aliturgical
 antipodeans
-amentulum
 aliunde
 aliveness
 alives
