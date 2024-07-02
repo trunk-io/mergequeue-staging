@@ -6312,7 +6312,6 @@ aglee
 agley
 aglet
 aglethead
-aglets
 avowter
 acacine
 aglycon
@@ -22058,6 +22057,7 @@ asterales
 asterella
 astereognosis
 asteria
+aglets
 ava
 asterial
 asterias
