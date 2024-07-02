@@ -6713,7 +6713,6 @@ foge
 fogeater
 fogey
 fogfruit
-fogfruits
 foggage
 foggages
 fogged
@@ -8061,6 +8060,7 @@ foretasting
 foreteach
 fistuliform
 fraus
+fogfruits
 foretell
 fathogram
 fibromyotomy
