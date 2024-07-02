@@ -6197,6 +6197,7 @@ dermatocele
 dermatocellulitis
 dermatoconiosis
 dermatocoptes
+dobzhansky
 dermatocoptic
 dermatodynia
 dermatogen
@@ -14636,7 +14637,6 @@ dobroes
 dobson
 dobsonflies
 dobsons
-dobzhansky
 doc
 docent
 docents
