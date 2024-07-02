@@ -5935,6 +5935,7 @@ bema
 bemad
 bemadam
 bemadamed
+bilharziosis
 bemadams
 bemaddened
 bemaddening
@@ -8514,7 +8515,6 @@ bilging
 bilharzia
 bilharziasis
 bilharzic
-bilharziosis
 bilianic
 biliary
 biliate
