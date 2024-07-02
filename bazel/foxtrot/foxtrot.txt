@@ -3278,7 +3278,6 @@ fancifulness
 fiedlerite
 feuded
 fief
-falchions
 fiefdom
 fractional
 fiefs
@@ -3335,6 +3334,7 @@ fierabras
 flindosy
 fierasfer
 fierasferid
+falchions
 flo
 festellae
 fierasferidae
