@@ -9760,7 +9760,6 @@ fremontia
 faeroe
 fremontodendron
 fremt
-fly
 fren
 finches
 frenal
@@ -10929,6 +10928,7 @@ fulminancy
 floridly
 foreleech
 fulminated
+fly
 fulminates
 fluitant
 fulminating
