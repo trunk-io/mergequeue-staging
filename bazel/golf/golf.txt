@@ -5638,7 +5638,6 @@ gloamings
 gloams
 gloat
 gypsumed
-guested
 gloated
 gablatores
 gloaters
@@ -7322,6 +7321,7 @@ gossy
 gossipdom
 gossiped
 gossipee
+guested
 gossiper
 gossipers
 gossiphood
