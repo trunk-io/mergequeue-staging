@@ -5628,7 +5628,6 @@ enfevers
 eyeline
 enfierce
 enfigure
-enfilade
 enfilades
 enfilading
 enfiled
@@ -11019,6 +11018,7 @@ euphausiid
 erraticness
 euphemia
 eructated
+enfilade
 euphemian
 euphemiously
 eightyfold
