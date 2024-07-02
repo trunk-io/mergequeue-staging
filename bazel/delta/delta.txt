@@ -4302,7 +4302,6 @@ diorama
 delusionary
 delusionist
 delusions
-delusive
 delusively
 delusiveness
 delusory
@@ -7157,6 +7156,7 @@ detailer
 detailers
 detailing
 detailist
+delusive
 detain
 detainable
 detainal
