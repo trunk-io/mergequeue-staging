@@ -5702,7 +5702,6 @@ afterdrain
 aftereffect
 aftereffects
 aftereye
-afterfall
 afterfame
 afterfermentation
 afterform
@@ -15033,6 +15032,7 @@ anticholinesterase
 antichoromanic
 antichreses
 antichresis
+afterfall
 antichretic
 antichrist
 antichristianism
