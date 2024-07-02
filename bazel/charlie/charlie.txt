@@ -9288,6 +9288,7 @@ chateaux
 chatelain
 chatelaine
 chatelaines
+clerkships
 chatelainry
 chatelains
 chatelet
@@ -16041,7 +16042,6 @@ clerkliness
 clerks
 capitella
 clerkship
-clerkships
 cosets
 clernly
 clerodendron
