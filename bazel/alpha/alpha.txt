@@ -5771,6 +5771,7 @@ allheals
 afterpart
 afterpast
 arctogaeal
+apologize
 afterpeak
 afterpiece
 afterplay
@@ -17351,7 +17352,6 @@ apologising
 autorail
 apologist
 apologists
-apologize
 apologizer
 apologizing
 apologs
