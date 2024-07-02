@@ -18910,7 +18910,6 @@ collapse
 collapsed
 collapses
 collapsibility
-collapsible
 cubism
 collapsing
 collar
@@ -19574,6 +19573,7 @@ colubaria
 crier
 coluber
 colubrid
+collapsible
 colubridae
 colubrids
 cycloidian
