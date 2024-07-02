@@ -5103,7 +5103,6 @@ befittingness
 beflag
 beflagged
 benumbedness
-bestrewed
 beflagging
 beflags
 beflannel
@@ -18187,6 +18186,7 @@ butyrate
 butyrically
 bros
 butyryl
+bestrewed
 butyryls
 butyrin
 butyrinase
