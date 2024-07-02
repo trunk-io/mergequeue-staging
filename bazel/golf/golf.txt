@@ -4922,6 +4922,7 @@ give
 goaltending
 gantries
 gyve
+glaciologic
 giveable
 giveaways
 gordius
@@ -5006,7 +5007,6 @@ glacification
 glacioaqueous
 glaciology
 goffer
-glaciologic
 gyrostatics
 glaciomarine
 glaciometer
