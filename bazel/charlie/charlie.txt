@@ -5287,6 +5287,7 @@ castled
 castlelike
 consociating
 corkers
+claymores
 castlery
 castles
 castlet
@@ -17561,7 +17562,6 @@ coccygeus
 cyclocoelic
 coccygine
 coccygodynia
-claymores
 coccygomorph
 coccygomorphae
 coccygotomy
