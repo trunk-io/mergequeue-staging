@@ -4391,7 +4391,6 @@ antagonisation
 adornments
 adorno
 adorns
-adorsed
 approbator
 ados
 adosculation
@@ -24691,6 +24690,7 @@ averse
 aversely
 aversion
 aversions
+adorsed
 agitates
 attar
 adults

@@ -2417,7 +2417,6 @@ decipium
 decise
 decision
 decisionmake
-decisions
 decisis
 decisive
 decisively
@@ -11722,6 +11721,7 @@ dyscrasite
 daglock
 dyscratic
 discreate
+decisions
 dams
 dislodge
 disembrace
