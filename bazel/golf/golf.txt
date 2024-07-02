@@ -6159,6 +6159,7 @@ graphologies
 guaniferous
 gluon
 glusid
+graecize
 gluside
 glut
 geometricize
@@ -7686,7 +7687,6 @@ gastroenteroptosis
 gernitz
 glutaeous
 graecian
-graecize
 graecizes
 graecizing
 graecomania
