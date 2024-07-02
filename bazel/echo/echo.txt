@@ -2394,7 +2394,6 @@ electrodiagnosis
 electrodiagnostic
 electrodiagnostically
 extratarsal
-epigonous
 electrodialyses
 electrodialysis
 electrodialitic
@@ -8145,6 +8144,7 @@ epipodial
 epipodiale
 einstein
 epipodialia
+epigonous
 epipoditic
 extracorporeal
 epipodium
