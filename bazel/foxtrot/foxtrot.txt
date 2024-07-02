@@ -141,7 +141,6 @@ factfinder
 firman
 facty
 facticide
-flips
 facticity
 factional
 furnacite
@@ -5221,6 +5220,7 @@ flax
 flaxboard
 flaxen
 freaky
+flips
 flaxy
 fulful
 flaxiest
