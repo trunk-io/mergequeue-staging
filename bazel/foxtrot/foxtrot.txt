@@ -1653,7 +1653,6 @@ fieldward
 fawns
 fawnskin
 fax
-foehns
 faxed
 filaria
 faxes
@@ -2835,6 +2834,7 @@ feudalising
 fendy
 feudalism
 finagling
+foehns
 feudalistic
 feathering
 filarees
