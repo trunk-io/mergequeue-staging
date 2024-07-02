@@ -12656,7 +12656,6 @@ bookbinderies
 bookbinders
 bookboard
 bellyaches
-bookcase
 bookcases
 bookcraft
 bushmaster
@@ -13859,6 +13858,7 @@ box
 boxball
 bote
 boxberry
+bookcase
 boxberries
 boggin
 boxboard
