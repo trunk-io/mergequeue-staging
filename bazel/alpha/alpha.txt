@@ -7634,7 +7634,6 @@ allobars
 albuminometry
 albuminone
 albuminorrhea
-albuminoscope
 albuminosis
 albuminous
 albuminousness
@@ -7750,6 +7749,7 @@ alcine
 alcyon
 acclimatizable
 alcyonaria
+albuminoscope
 alcyonarian
 alcyone
 alcyones

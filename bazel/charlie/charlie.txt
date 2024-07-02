@@ -5900,6 +5900,7 @@ cathetometric
 cathetus
 cathexes
 cathexion
+ceptor
 cathin
 cathine
 cathinine
@@ -7415,7 +7416,6 @@ cepous
 cariousness
 ceps
 cepter
-ceptor
 cequi
 cera
 cerago
