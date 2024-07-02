@@ -1316,7 +1316,6 @@ gastrulated
 garbanzo
 garbell
 garbill
-garbled
 garbler
 garages
 garblers
@@ -3538,6 +3537,7 @@ galactoma
 gerrymanders
 gers
 gersdorffite
+garbled
 gerate
 genes
 gershonite
