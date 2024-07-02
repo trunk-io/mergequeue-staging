@@ -21751,7 +21751,6 @@ condominiums
 celled
 condonable
 condonance
-condonation
 condonative
 condone
 condoned
@@ -27801,6 +27800,7 @@ cozier
 coziest
 cozily
 coziness
+condonation
 cozing
 casefied
 cp
