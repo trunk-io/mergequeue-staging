@@ -1691,6 +1691,7 @@ ballottines
 blear
 ballpark
 ballparks
+butane
 ballplayer
 ballplayers
 ballplatz
@@ -18134,7 +18135,6 @@ bowboy
 boastless
 bouleuterion
 butanal
-butane
 blastoid
 butanes
 botryotherapy
