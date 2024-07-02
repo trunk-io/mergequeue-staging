@@ -6153,6 +6153,7 @@ aggrandized
 aggrandizement
 aggrandizements
 aggrandizer
+arteriogram
 actional
 aggrandizers
 austausch
@@ -20529,7 +20530,6 @@ arteriodialysis
 arteriofibrosis
 arteriogenesis
 alg
-arteriogram
 arteriograph
 arteriographic
 albert
