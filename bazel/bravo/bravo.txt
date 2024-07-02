@@ -3546,7 +3546,6 @@ bateleur
 bateman
 bouchal
 babelic
-bannered
 batement
 bater
 bates
@@ -10293,6 +10292,7 @@ blams
 blan
 bepainting
 backbitingly
+bannered
 blanc
 blanca
 blancard
