@@ -2044,7 +2044,6 @@ gaussage
 garrets
 gaussbergite
 gluconate
-gausses
 gaussian
 gaussmeter
 gauster
@@ -3120,6 +3119,7 @@ gambusia
 geologising
 geologist
 grailing
+gausses
 glycerols
 geologists
 geologize
