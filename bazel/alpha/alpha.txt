@@ -8370,6 +8370,7 @@ aliform
 alifs
 aligerous
 alight
+appendicate
 alighted
 alighting
 alightment
@@ -17751,7 +17752,6 @@ appender
 androtauric
 appenders
 appendicalgia
-appendicate
 amoibite
 ascii
 appendiceal
