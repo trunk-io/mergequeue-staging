@@ -7300,7 +7300,6 @@ gospelist
 gospeller
 gospelly
 gutnish
-gospellike
 groomers
 gelded
 gnathobase
@@ -8933,6 +8932,7 @@ griffinism
 glagah
 geodetician
 griffins
+gospellike
 griffon
 griffonage
 griffonne
