@@ -3052,6 +3052,7 @@ gemstones
 gjetosts
 gendarmerie
 graying
+glossotherium
 geomechanics
 geodetics
 geodiatropism
@@ -3555,7 +3556,6 @@ galapee
 grogshops
 gerundival
 gerunds
-glossotherium
 gervao
 gervas
 gervase
