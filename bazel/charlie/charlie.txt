@@ -16034,7 +16034,6 @@ costlier
 clerkdom
 cigarets
 criminaldom
-clerkdoms
 clerked
 clerkess
 clerkhood
@@ -31173,6 +31172,7 @@ catamaran
 cuprotungstite
 cuprous
 cuprum
+clerkdoms
 cups
 chardock
 cupseed

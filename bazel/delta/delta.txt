@@ -7034,6 +7034,7 @@ dyslexic
 destroying
 destroys
 domesticable
+dissyllabized
 destruct
 destructibility
 destructible
@@ -12300,7 +12301,6 @@ directionless
 dishcloth
 dishcloths
 dishclout
-dissyllabized
 dishearten
 disheartened
 disheartenedly
