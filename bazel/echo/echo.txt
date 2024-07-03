@@ -6583,7 +6583,6 @@ erns
 escheatable
 entelam
 entelechial
-entelechies
 entellus
 entelluses
 emanator
@@ -13707,6 +13706,7 @@ extirpated
 extirpation
 enswathed
 extirpations
+entelechies
 extirpative
 exceptionable
 edeodynia

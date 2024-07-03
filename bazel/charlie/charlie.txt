@@ -18951,6 +18951,7 @@ collation
 collationer
 collations
 cesti
+compartimento
 collatitious
 collative
 collator
@@ -20510,7 +20511,6 @@ comparsa
 compart
 comparted
 compartimenti
-compartimento
 companionless
 comparting
 compartition
