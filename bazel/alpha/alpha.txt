@@ -3887,7 +3887,6 @@ adhort
 ady
 adiabat
 adiabolist
-adiactinic
 adiadokokinesi
 adventureship
 atmosteon
@@ -19909,6 +19908,7 @@ arlene
 arleng
 arles
 arling
+adiactinic
 arloup
 arm
 armadas

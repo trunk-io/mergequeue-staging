@@ -3030,6 +3030,7 @@ goal
 geocline
 goldwork
 geococcyx
+grouse
 gesnera
 galvanical
 geraniols
@@ -9454,7 +9455,6 @@ groups
 groupthink
 geitjie
 gunsmith
-grouse
 gnashing
 groused
 glycerizine
