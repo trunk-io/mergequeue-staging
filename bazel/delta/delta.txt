@@ -3524,7 +3524,6 @@ deftnesses
 defunct
 defunction
 defunctionalization
-defunctive
 defuse
 defused
 defuses
@@ -7725,6 +7724,7 @@ devolatilised
 devolatilising
 dated
 devolatilization
+defunctive
 devolatilizing
 devolute
 diggers

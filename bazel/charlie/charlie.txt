@@ -4011,7 +4011,6 @@ cardiomalacia
 cardiomegaly
 cardiomelanosis
 cardiometer
-cardiometric
 cardiomyoliposis
 cardiomyomalacia
 cardiomyopathy
@@ -4723,6 +4722,7 @@ carriers
 carries
 carrying
 carryings
+cardiometric
 carriole
 carrion
 carryon
