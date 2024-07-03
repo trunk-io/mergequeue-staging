@@ -12010,7 +12010,6 @@ excerpting
 excerption
 easterlies
 excerpts
-excess
 excesses
 excessive
 excessiveness
@@ -13578,6 +13577,7 @@ extensiveness
 empathizing
 extensivity
 extensometer
+excess
 extensor
 ephemeralness
 exaristate
