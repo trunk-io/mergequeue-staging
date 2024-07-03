@@ -5822,7 +5822,6 @@ apastron
 aftertrial
 advisable
 afterturn
-arthrosyrinx
 aftervision
 afterwale
 afterward
@@ -10704,6 +10703,7 @@ amimia
 amimide
 amin
 apout
+arthrosyrinx
 antipuritan
 antimonarchial
 aminase
