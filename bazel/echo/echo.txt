@@ -9582,7 +9582,6 @@ escoba
 escobadura
 escocheon
 escolar
-edulcorate
 estuarian
 escolars
 escopet
@@ -11847,6 +11846,7 @@ embliss
 enteron
 echinoderes
 euglena
+edulcorate
 examples
 exampleship
 extracapsular
