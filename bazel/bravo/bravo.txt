@@ -2055,7 +2055,6 @@ bandworm
 bane
 baneberry
 burgeons
-baned
 bipolarity
 baneful
 banefully
@@ -2481,6 +2480,7 @@ barbules
 barbulyie
 barbut
 barbute
+baned
 barbuts
 belts
 barbwire

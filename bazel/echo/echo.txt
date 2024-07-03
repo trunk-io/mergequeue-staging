@@ -2886,7 +2886,6 @@ entobranchiate
 eleventhly
 elevenths
 expediential
-ear
 elevons
 elf
 elfenfolk
@@ -11731,6 +11730,7 @@ ewes
 ewest
 ewhow
 ewound
+ear
 ewry
 excur
 ewte
