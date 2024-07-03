@@ -15654,7 +15654,6 @@ classless
 classlessness
 classman
 classmanship
-chillo
 classmate
 classroom
 classwise
@@ -26283,6 +26282,7 @@ costocoracoid
 costoinferior
 costophrenic
 costopleural
+chillo
 costoscapular
 costotome
 costotomy
