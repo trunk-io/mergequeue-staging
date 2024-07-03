@@ -4159,7 +4159,6 @@ bearings
 backswording
 bearish
 bookstall
-bearishness
 bankfull
 bearlet
 bellower
@@ -5564,6 +5563,7 @@ belaboring
 beastbane
 belabors
 belabours
+bearishness
 belaced
 beladied
 beladies
