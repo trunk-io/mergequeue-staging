@@ -7517,7 +7517,6 @@ beverages
 beverse
 bevesseled
 benjamite
-bevies
 brazee
 bevil
 bevillain
@@ -9967,6 +9966,7 @@ bivariate
 bivascular
 bivector
 biventer
+bevies
 blights
 bield
 biventral
