@@ -229,7 +229,6 @@ fad
 fadaise
 fragrant
 faddy
-faddier
 faddiness
 fairyfolk
 fadding
@@ -9139,6 +9138,7 @@ fundatorial
 foziness
 fozinesses
 femorocele
+faddier
 frithsoken
 fp
 fplot
