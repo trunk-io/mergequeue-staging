@@ -1286,7 +1286,6 @@ garnets
 gapless
 gruesomest
 gapo
-gaposises
 gapped
 gapperi
 gappy
@@ -5400,6 +5399,7 @@ gliadine
 gliadines
 glib
 gruffer
+gaposises
 glissandos
 glibbery
 gynecologists
