@@ -4293,7 +4293,6 @@ birdnest
 beautyship
 beaux
 beaver
-beaverboard
 beavered
 beaverette
 burgonet
@@ -7670,6 +7669,7 @@ bezoardic
 bezoars
 bezonian
 bezpopovets
+beaverboard
 bezzant
 bezzi
 bezzle
