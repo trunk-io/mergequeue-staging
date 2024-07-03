@@ -5848,7 +5848,6 @@ floerkea
 fermis
 floes
 flog
-flogger
 floggers
 flogging
 facilely
@@ -6017,6 +6016,7 @@ floridians
 floridity
 floridities
 floridness
+flogger
 floriferous
 floriform
 fashious
