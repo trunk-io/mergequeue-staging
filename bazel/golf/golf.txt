@@ -5180,7 +5180,6 @@ glanduliferous
 glanduliform
 glanduligerous
 glandulose
-glaniostomi
 glanis
 glans
 glare
@@ -6140,6 +6139,7 @@ glumiferous
 glumly
 glummer
 glummest
+glaniostomi
 glumness
 gonion
 glumnesses
