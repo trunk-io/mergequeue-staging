@@ -1149,7 +1149,6 @@ fascet
 foldure
 fascia
 feudally
-fasciate
 fasciately
 fasciation
 fascicled
@@ -5792,6 +5791,7 @@ flocced
 flocci
 floccillation
 floccose
+fasciate
 farsang
 freestyle
 flocculable
