@@ -6576,7 +6576,6 @@ cee
 ceennacuelum
 cees
 ceiba
-ceibas
 ceibo
 ceibos
 counterthrust
@@ -25420,6 +25419,7 @@ cornmonger
 cornmuse
 corno
 centroclinal
+ceibas
 cornpipe
 cornrick
 cornrow
