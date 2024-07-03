@@ -3954,7 +3954,6 @@ graduate
 gibstaff
 galli
 gibuses
-gid
 giddap
 giddybrain
 giddied
@@ -6582,6 +6581,7 @@ grandeza
 goodheartedly
 galet
 greasy
+gid
 goitrogen
 goitrogenic
 goitrous
