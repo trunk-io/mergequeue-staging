@@ -2330,7 +2330,6 @@ decibar
 decibels
 diglyceride
 decidability
-decidedly
 decidement
 decidence
 decidendi
@@ -3884,6 +3883,7 @@ dejects
 diskography
 dejecture
 dejeration
+decidedly
 dejerator
 dejeuner
 dejeuners
