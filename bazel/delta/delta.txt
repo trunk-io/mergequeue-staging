@@ -9381,7 +9381,6 @@ difformed
 diffracted
 dissuading
 diffracting
-diffraction
 diffractional
 diffractions
 deniability
@@ -16242,6 +16241,7 @@ dowl
 dowlas
 dowless
 dowly
+diffraction
 diaglyphic
 designlessness
 dowment
