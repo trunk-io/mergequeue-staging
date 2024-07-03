@@ -1778,6 +1778,7 @@ gastroenteric
 gastroenteritic
 geomedicine
 gastroenteroanastomosis
+gunshot
 gastroenterocolitis
 gastroenterocolostomy
 gastroenterologic
@@ -10543,7 +10544,6 @@ gunship
 glb
 gunships
 gunshop
-gunshot
 gunshots
 gunsling
 gunslingers
