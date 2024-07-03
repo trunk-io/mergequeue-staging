@@ -6146,7 +6146,6 @@ cauld
 cauldrife
 cauldrifeness
 cauldron
-cauldrons
 caulds
 caulerpa
 caulerpaceae
@@ -13460,6 +13459,7 @@ cystoma
 cyclothurine
 cheloniidae
 cyclothurus
+cauldrons
 cyclotome
 cyclotomy
 cyclotomic
