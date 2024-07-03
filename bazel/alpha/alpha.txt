@@ -6391,7 +6391,6 @@ agnominal
 atrabiliary
 agnomination
 agnosy
-agnosia
 agnosias
 agnosis
 agnostic
@@ -9817,6 +9816,7 @@ alveolus
 alveus
 alvin
 alvina
+agnosia
 alvine
 alvissmal
 antiphlogistin
