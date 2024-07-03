@@ -10431,7 +10431,6 @@ cruciferae
 chien
 chievance
 chieve
-carabinero
 chiffchaff
 chiffer
 cynocephalus
@@ -14251,6 +14250,7 @@ circulator
 circulatory
 circulatories
 circulators
+carabinero
 circulet
 colportage
 caslon
