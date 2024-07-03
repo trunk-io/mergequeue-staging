@@ -6640,7 +6640,6 @@ brocage
 berettas
 berewick
 berg
-bergamasca
 bergamasche
 biogenies
 bergamask
@@ -12767,6 +12766,7 @@ boon
 brumalia
 boondock
 boondocker
+bergamasca
 boondocks
 boondoggle
 boondoggled
