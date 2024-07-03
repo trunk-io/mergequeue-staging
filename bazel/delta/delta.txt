@@ -4155,6 +4155,7 @@ deliquesced
 deliquescence
 deliquescent
 deliquesces
+depuratory
 deliquescing
 downrushing
 deliquiesce
@@ -5960,7 +5961,6 @@ dupes
 depuration
 depurative
 depurator
-depuratory
 depure
 depurge
 depurged
