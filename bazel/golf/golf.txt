@@ -6324,7 +6324,6 @@ gnomes
 gnomesque
 gnomic
 gnomical
-gnomide
 greyhound
 gnomologic
 gnomological
@@ -7844,6 +7843,7 @@ gramophones
 geocentrically
 gramophonic
 gitanemuk
+gnomide
 graphometer
 gramophonically
 gauzes
