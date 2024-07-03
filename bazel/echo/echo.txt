@@ -132,7 +132,6 @@ earreach
 earring
 earringed
 eulima
-earscrew
 esurience
 earshell
 eremochaeta
@@ -1814,6 +1813,7 @@ eyeletting
 eyelid
 engining
 eyelight
+earscrew
 eatage
 eyeliners
 eyen

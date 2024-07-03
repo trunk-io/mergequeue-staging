@@ -261,7 +261,6 @@ gainfulness
 gaingiving
 gainyield
 gaining
-gainings
 gainlessness
 gainlier
 gainliest
@@ -3020,6 +3019,7 @@ gravies
 geochronologic
 geochronological
 geochronologically
+gainings
 gabbai
 geochronologist
 gelatinity
