@@ -3889,7 +3889,6 @@ dekadarchy
 dekadrachm
 dekagram
 daphnad
-dekagramme
 dekaliters
 dekalitre
 dekametre
@@ -8021,6 +8020,7 @@ dhow
 dhows
 dhritarashtra
 dhunchee
+dekagramme
 digested
 dhurna
 dhurnas
