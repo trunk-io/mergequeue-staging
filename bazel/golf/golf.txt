@@ -2023,7 +2023,6 @@ gaumlike
 gaums
 gaunt
 galant
-gaunted
 gaunter
 gauntest
 gaunty
@@ -4340,6 +4339,7 @@ giddyish
 gimpier
 gimpiest
 gyms
+gaunted
 gin
 gyn
 gynaecea
