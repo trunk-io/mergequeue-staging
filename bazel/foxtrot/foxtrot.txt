@@ -6392,7 +6392,6 @@ fluorene
 fluorenes
 fogginess
 fluorenyl
-fluoresage
 facers
 feuar
 fluoresced
@@ -11678,6 +11677,7 @@ fernwort
 futhark
 fimetarious
 futhorc
+fluoresage
 futhorcs
 futhorks
 futile
