@@ -1523,7 +1523,6 @@ garrote
 gassier
 garroter
 garroters
-garrotes
 garroting
 gn
 gastrolatrous
@@ -4514,6 +4513,7 @@ geometdecrne
 ginkgoes
 ginks
 gibbar
+garrotes
 ginmill
 gainsaid
 gaonic
