@@ -1046,6 +1046,7 @@ farles
 farls
 farm
 firstfruits
+firnismalerei
 farmage
 farmed
 farmer
@@ -7704,7 +7705,6 @@ fogeys
 flagellator
 fruticant
 fleetness
-firnismalerei
 figural
 fertilisation
 foreimpression
