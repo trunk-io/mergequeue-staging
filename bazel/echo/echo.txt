@@ -3014,7 +3014,6 @@ exploitative
 elytroposis
 elytrorhagia
 elytrorrhagia
-elytrorrhaphy
 elytrotomy
 ecstasies
 elytrtra
@@ -5300,6 +5299,7 @@ endopodite
 endopoditic
 endoproct
 endoprocta
+elytrorrhaphy
 endoproctous
 endopterygota
 endopterygote
