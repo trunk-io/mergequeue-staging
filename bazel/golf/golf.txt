@@ -7286,7 +7286,6 @@ gosmore
 gospel
 galuchat
 gospeler
-gospelers
 gospelist
 gospeller
 gospelly
@@ -7737,6 +7736,7 @@ gaycat
 grail
 graylag
 grailer
+gospelers
 grayly
 graylings
 gastrorrhea
