@@ -9862,6 +9862,7 @@ amalgam
 appealing
 amalgamable
 amalgamate
+anaerobion
 amalgamated
 amalgamater
 amalgamates
@@ -11731,7 +11732,6 @@ anaerobian
 anaerobic
 anaerobically
 anaerobies
-anaerobion
 anaerobiont
 anaerobiosis
 amiably
