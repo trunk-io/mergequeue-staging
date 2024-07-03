@@ -9264,7 +9264,6 @@ death
 diffusions
 diestrum
 diestrums
-diestruses
 dyestuffs
 diet
 dietal
@@ -9684,6 +9683,7 @@ dilapidator
 dilatability
 dilatable
 deanthropomorphize
+diestruses
 dilatableness
 dilatably
 dilatancy
