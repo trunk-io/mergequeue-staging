@@ -8240,7 +8240,6 @@ chaityas
 chaitra
 chaja
 chakar
-chakari
 cullises
 chakavski
 chakazi
@@ -16720,6 +16719,7 @@ clotheshorses
 clothesyard
 clothesless
 clothesline
+chakari
 clothesman
 creaser
 clothesmen
