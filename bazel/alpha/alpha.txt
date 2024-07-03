@@ -2193,7 +2193,6 @@ asitia
 acetophenine
 acetophenone
 acetopiperone
-acetopyrin
 acetosalicylic
 acetose
 amidoazobenzene
@@ -16687,6 +16686,7 @@ aorta
 aortae
 aortal
 ahmedi
+acetopyrin
 aortarctia
 aortas
 aortectasia
