@@ -1241,7 +1241,6 @@ footmanry
 fashionless
 fashionmonger
 forthcome
-fashions
 floush
 fashiousness
 fasibitikite
@@ -1933,6 +1932,7 @@ feedbags
 feedbin
 feedboard
 feedboxes
+fashions
 feeded
 fagald
 feedhead
