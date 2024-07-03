@@ -1143,7 +1143,6 @@ dashnak
 dashnakist
 dashnaktzutiun
 dashplate
-dashpot
 dashpots
 dashwheel
 dasi
@@ -7355,6 +7354,7 @@ detrained
 duodenum
 determiners
 decoymen
+dashpot
 detraining
 donovan
 detrainment
