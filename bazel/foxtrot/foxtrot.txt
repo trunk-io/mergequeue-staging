@@ -5914,7 +5914,6 @@ floormen
 floors
 folkways
 floorshift
-foxfinger
 floorthrough
 floorwalker
 floorwalkers
@@ -6472,6 +6471,7 @@ fluoroscopists
 fibrils
 fluorotic
 fluorouracil
+foxfinger
 fluosilicic
 fluotantalic
 fluotitanic
