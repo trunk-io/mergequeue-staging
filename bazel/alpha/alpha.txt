@@ -6330,7 +6330,6 @@ aglycons
 aglycosuric
 aglipayano
 aglypha
-aglyphodonta
 aglisten
 asteatosis
 aglitter
@@ -15890,6 +15889,7 @@ antioxygenator
 anthidium
 antioxygenic
 antiozonant
+aglyphodonta
 antipacifism
 antipacifist
 antipacifistic
