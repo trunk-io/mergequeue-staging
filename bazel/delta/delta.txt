@@ -1146,7 +1146,6 @@ drapeable
 dashnak
 dashnakist
 dashnaktzutiun
-dashplate
 dashpots
 dashwheel
 dasi
@@ -11953,6 +11952,7 @@ disemploy
 disemployed
 disemploying
 dorados
+dashplate
 disemployment
 dirking
 disemploys
