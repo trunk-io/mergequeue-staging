@@ -1512,6 +1512,7 @@ garrisoned
 garrisonian
 garrisoning
 grided
+gleeman
 gouts
 grammars
 garrisons
@@ -5368,7 +5369,6 @@ gleeking
 gleeks
 gombeen
 gelidium
-gleeman
 gleen
 gleesome
 gleet
