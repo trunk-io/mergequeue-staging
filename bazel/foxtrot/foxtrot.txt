@@ -3764,7 +3764,6 @@ filthiness
 fossors
 favi
 forecondemn
-flagroot
 filthless
 filtrability
 filtratable
@@ -5531,6 +5530,7 @@ flyflapper
 flyflower
 flocculant
 fligged
+flagroot
 fligger
 fibrilations
 flight
