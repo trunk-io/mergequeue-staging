@@ -4602,7 +4602,6 @@ centrobarical
 carphophis
 carphosiderite
 carpi
-carpid
 carpidium
 carpincho
 carpings
@@ -6095,6 +6094,7 @@ caucasus
 conioselinum
 cauchemar
 caucho
+carpid
 caucused
 caucuses
 caucusing
