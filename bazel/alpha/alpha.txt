@@ -6679,7 +6679,6 @@ aguirage
 aguise
 aguish
 aguishly
-aguishness
 agujon
 annotations
 agunah
@@ -21808,6 +21807,7 @@ aerophobia
 assimilationist
 assimilative
 assimilativeness
+aguishness
 alluminor
 assimilatory
 assimulate
