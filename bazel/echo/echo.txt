@@ -5647,7 +5647,6 @@ enfolden
 enfolder
 enfolding
 enfoldings
-enfoldment
 enfolds
 electrobrasser
 enfonce
@@ -7669,6 +7668,7 @@ epicism
 epicist
 ethylated
 ewers
+enfoldment
 eirene
 epicystotomy
 epiclastic
