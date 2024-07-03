@@ -1516,7 +1516,6 @@ faulting
 flakes
 faultlessly
 faultlessness
-faults
 faulx
 faun
 fleawort
@@ -10265,6 +10264,7 @@ farmhouses
 frizzly
 fractionised
 frizzlier
+faults
 frizzliest
 fasciae
 federating
