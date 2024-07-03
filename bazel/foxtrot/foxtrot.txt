@@ -4513,7 +4513,6 @@ flows
 fittiness
 finnickiest
 faussebraye
-foretopsail
 fitting
 fikie
 fibbing
@@ -5226,6 +5225,7 @@ flaxman
 feh
 flaxseeds
 flaxwife
+foretopsail
 floriated
 flaxwort
 fossilisation
