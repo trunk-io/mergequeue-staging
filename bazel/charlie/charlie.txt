@@ -15139,7 +15139,6 @@ civilianization
 civilianize
 civilians
 civilisable
-civilisation
 civilisatory
 civilise
 civilised
@@ -29904,6 +29903,7 @@ crosspiece
 crosspieces
 crosspoint
 crosspoints
+civilisation
 crossroading
 crossroads
 crossruff
