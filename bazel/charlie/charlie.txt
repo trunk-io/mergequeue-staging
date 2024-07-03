@@ -10252,6 +10252,7 @@ chianti
 chiao
 cusec
 chiapanec
+collisive
 chiapanecan
 chiarooscurist
 chiaroscuro
@@ -16358,7 +16359,6 @@ creamfruit
 clips
 clipse
 clipsheet
-collisive
 clipsheets
 clipsome
 clipt
