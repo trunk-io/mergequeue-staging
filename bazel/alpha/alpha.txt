@@ -3752,6 +3752,7 @@ adenolymphocele
 adenolymphoma
 adenoliomyofibroma
 adenolipoma
+antiwedge
 adenolipomatosis
 adenologaditis
 adenology
@@ -16534,7 +16535,6 @@ antiwarlike
 alive
 ameiurus
 antiwear
-antiwedge
 antiweed
 accusator
 antiwhitism
