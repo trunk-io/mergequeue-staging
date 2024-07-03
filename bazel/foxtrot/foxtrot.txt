@@ -7896,6 +7896,7 @@ forescene
 foreschool
 forescript
 fibulas
+furrowy
 foreseason
 faltering
 foreseat
@@ -11480,7 +11481,6 @@ furrow
 furrowed
 furrower
 furrowers
-furrowy
 furrowing
 furrowless
 furrowlike
