@@ -10987,6 +10987,7 @@ countersignature
 chiropodial
 chiropodic
 chiropodical
+compressibly
 chiropodist
 chiropodistry
 chiropodists
@@ -20946,7 +20947,6 @@ compressibility
 compressibilities
 compressible
 compressibleness
-compressibly
 compressing
 compressingly
 compression
