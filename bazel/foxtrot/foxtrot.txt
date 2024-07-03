@@ -5021,7 +5021,6 @@ flasket
 folky
 fanfish
 flaskets
-fleamy
 fasnacht
 fozier
 feteritas
@@ -7434,6 +7433,7 @@ fordid
 fordless
 fullness
 fordoes
+fleamy
 fordoing
 fordrive
 futtock
