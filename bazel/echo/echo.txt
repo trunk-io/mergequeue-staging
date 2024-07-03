@@ -5546,7 +5546,6 @@ ekphorize
 energiser
 energises
 energism
-energist
 energize
 energized
 energizer
@@ -14117,6 +14116,7 @@ extrusive
 extubation
 extuberance
 equable
+energist
 exsection
 extuberant
 elusoriness
