@@ -1115,7 +1115,6 @@ gangers
 gadaea
 ganging
 gefilte
-gangism
 ganglander
 ganglands
 gangly
@@ -7708,6 +7707,7 @@ gelotherapy
 graft
 graftages
 globulin
+gangism
 grafter
 grafters
 glissade
