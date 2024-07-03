@@ -5258,6 +5258,7 @@ caster
 casterless
 casters
 casteth
+cepter
 castice
 castigate
 coincidency
@@ -7411,7 +7412,6 @@ cepolidae
 cepous
 cariousness
 ceps
-cepter
 cequi
 cera
 cerago
