@@ -5918,7 +5918,6 @@ floormen
 floors
 folkways
 floorshift
-floorthrough
 floorwalker
 floorwalkers
 floorward
@@ -6545,6 +6544,7 @@ fluther
 flexural
 fluty
 flutier
+floorthrough
 flutiest
 flutina
 fluting
