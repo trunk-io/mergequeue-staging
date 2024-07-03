@@ -6280,7 +6280,6 @@ articulate
 agitant
 agitate
 agitated
-agitatedly
 agitating
 achillein
 agitational
@@ -8944,6 +8943,7 @@ allodial
 advena
 allodialism
 allodially
+agitatedly
 allodian
 allodiary
 allodies
