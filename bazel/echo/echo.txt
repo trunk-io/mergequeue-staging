@@ -930,6 +930,7 @@ eparcuale
 ectopterygoid
 ectoretina
 ermit
+eleve
 ectorganism
 ectorhinal
 ectosarc
@@ -5448,7 +5449,6 @@ equinox
 epitaph
 endovenous
 ecdemic
-eleve
 elsewhither
 endowing
 endoerythrocytic
