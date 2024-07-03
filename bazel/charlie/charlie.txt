@@ -25327,7 +25327,6 @@ cornell
 cornels
 cornemuse
 corneocalcareous
-corneosclerotic
 corneosiliceous
 corner
 cornerback
@@ -26708,6 +26707,7 @@ counterattractive
 counterattractively
 creatively
 counteravouch
+corneosclerotic
 counteravouchment
 counterbalance
 counterbalanced
