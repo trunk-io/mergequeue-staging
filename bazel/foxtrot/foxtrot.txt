@@ -1533,6 +1533,7 @@ forereach
 forepredicament
 faunist
 fragmentized
+fessewise
 faunistical
 faunlike
 fauns
@@ -10026,7 +10027,6 @@ frighteningness
 frightens
 fabiform
 frighter
-fessewise
 frightfully
 frightfulness
 frighty
