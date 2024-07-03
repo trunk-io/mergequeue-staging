@@ -7791,7 +7791,6 @@ epidermous
 epiderms
 epidesmine
 enshield
-epidia
 embolimeal
 estivated
 elul
@@ -12851,6 +12850,7 @@ exostrae
 exoteric
 exoterica
 exoterical
+epidia
 exotericism
 exoterics
 exothecal
