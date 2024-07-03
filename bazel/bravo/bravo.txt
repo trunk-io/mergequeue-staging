@@ -4662,6 +4662,7 @@ bedfordshire
 brobdingnag
 bedframe
 bedframes
+bints
 bedgery
 bedgoer
 bedgown
@@ -8882,7 +8883,6 @@ binous
 bins
 bint
 bintangor
-bints
 brack
 binuclear
 binucleate
