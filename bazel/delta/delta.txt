@@ -1351,7 +1351,6 @@ darkest
 dauting
 dauts
 davach
-davainea
 davallia
 doyennes
 derry
@@ -18479,6 +18478,7 @@ durmasts
 durn
 durndest
 durned
+davainea
 durnedest
 durning
 durns
