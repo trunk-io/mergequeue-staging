@@ -14398,7 +14398,6 @@ circumpentagon
 circumplanetary
 circumplect
 circumplicate
-circumpolygon
 circumpose
 circumposition
 circumquaque
@@ -15956,6 +15955,7 @@ cleistotcia
 cleistothecia
 cleistothecium
 cleistothecopsis
+circumpolygon
 cleithral
 cleithrum
 clem
