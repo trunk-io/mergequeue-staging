@@ -8299,6 +8299,7 @@ grasslike
 grassman
 gentianic
 grassmen
+gonyoncus
 grassnut
 grassplat
 guahivo
@@ -10685,7 +10686,6 @@ gustable
 gustables
 gustard
 gustative
-gonyoncus
 guergal
 gigunu
 groundnut
