@@ -9397,7 +9397,6 @@ alopias
 alopiidae
 alloying
 alorcinic
-alosa
 alose
 alouatte
 aloud
@@ -17299,6 +17298,7 @@ apogeic
 apogeny
 apogenous
 aster
+alosa
 apogeotropic
 apogeotropically
 apogeotropism
