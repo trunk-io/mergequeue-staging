@@ -12326,6 +12326,7 @@ disheritor
 disherits
 dishes
 disheveled
+durous
 dishevely
 dishevelling
 dishevelment
@@ -18492,7 +18493,6 @@ duroy
 debriefed
 durometer
 duroquinone
-durous
 durr
 durra
 destains
