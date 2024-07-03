@@ -3548,7 +3548,6 @@ batfowl
 batfowled
 batfowler
 biers
-batfowling
 batfowls
 batful
 bordeaux
@@ -15950,6 +15949,7 @@ bronchospasm
 bronchostenosis
 bronchostomy
 bronchostomies
+batfowling
 bronchotetany
 blankmindedness
 bronchotyphus
