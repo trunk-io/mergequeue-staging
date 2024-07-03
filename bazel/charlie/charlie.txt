@@ -3132,6 +3132,7 @@ capitulars
 cacomixl
 capitulate
 capitulated
+conclude
 capitulates
 capitulating
 capitulation
@@ -21443,7 +21444,6 @@ conclave
 conclaves
 coccous
 concludable
-conclude
 copyrighted
 concluded
 concludence
