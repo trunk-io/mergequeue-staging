@@ -3522,6 +3522,7 @@ deftness
 deftnesses
 defunct
 defunction
+drillbit
 defunctionalization
 defuse
 defused
@@ -17118,7 +17119,6 @@ drill
 drillability
 demosthenic
 drillable
-drillbit
 drilled
 driller
 dromaeognathous
