@@ -1061,6 +1061,7 @@ grammatistical
 grapplement
 gams
 gamut
+gyrolith
 guaranin
 gan
 ganam
@@ -4794,7 +4795,6 @@ gyrogonite
 graffias
 gyrograph
 guato
-gyrolith
 gyroma
 gyromagnetic
 gratters
