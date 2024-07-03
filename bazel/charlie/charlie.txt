@@ -9262,6 +9262,7 @@ clarissimo
 coxopodite
 chastiser
 chastisers
+cupulae
 caluptra
 composture
 capnoides
@@ -31177,7 +31178,6 @@ cupseed
 cupsful
 cupstone
 cupula
-cupulae
 cupular
 cupulate
 cupule
