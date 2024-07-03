@@ -17767,7 +17767,6 @@ appendicial
 appendicle
 appendicocaecostomy
 appendicostomy
-appendicular
 appendicularia
 appendicularian
 appendiculariidae
@@ -19528,6 +19527,7 @@ argentry
 amphigastria
 argents
 argentum
+appendicular
 anorectal
 argentums
 argestes

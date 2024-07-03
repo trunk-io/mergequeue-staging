@@ -1921,6 +1921,7 @@ eightscore
 eightsman
 eria
 eightsome
+examined
 eightvo
 eightvos
 eying
@@ -11833,7 +11834,6 @@ exhaust
 examine
 econometrist
 episplenitis
-examined
 examinee
 examinees
 examiners
