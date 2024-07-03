@@ -5037,6 +5037,7 @@ endenizen
 eviscerate
 ender
 endergonic
+epirotic
 endermatic
 endermic
 endogastric
@@ -8144,7 +8145,6 @@ epirhizous
 epirogenetic
 epirogeny
 epirote
-epirotic
 epirrhema
 ectosome
 epirrhematic
