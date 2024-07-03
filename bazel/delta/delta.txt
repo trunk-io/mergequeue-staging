@@ -3528,7 +3528,6 @@ defunction
 drillbit
 defunctionalization
 defuse
-defused
 defuses
 defusing
 defusion
@@ -15059,6 +15058,7 @@ disconformable
 dogsleep
 dogstail
 dogstones
+defused
 dichromaticism
 dogtail
 dogteeth
