@@ -6694,7 +6694,6 @@ frankable
 foetalization
 foetation
 foetiparous
-foetor
 foppishly
 foetus
 foetuses
@@ -7691,6 +7690,7 @@ foreigner
 forgivers
 foreigners
 foreignership
+foetor
 foreignism
 foreignly
 furfurol
