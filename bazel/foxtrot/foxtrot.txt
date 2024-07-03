@@ -892,7 +892,6 @@ faintest
 fanwork
 fanwort
 funtumia
-fanworts
 fanzine
 fanzines
 faon
@@ -6869,6 +6868,7 @@ foreadapt
 frighten
 foliobranch
 foliobranchiate
+fanworts
 folioed
 folioing
 foliole
