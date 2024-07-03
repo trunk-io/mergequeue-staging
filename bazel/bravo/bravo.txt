@@ -2839,7 +2839,6 @@ bicoloured
 barolo
 barology
 barolong
-basote
 baromacrometer
 barometer
 boxfish
@@ -11402,6 +11401,7 @@ bluffs
 blufter
 bluggy
 boule
+basote
 becalmed
 bluings
 bluish
