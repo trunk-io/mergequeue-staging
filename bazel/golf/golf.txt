@@ -2069,7 +2069,6 @@ gaveler
 gosplan
 gavelet
 gopherwood
-gaveller
 gazogenes
 grees
 gavelling
@@ -4251,6 +4250,7 @@ gratefully
 gymnadenia
 gymnadeniopsis
 guanine
+gaveller
 gymnanthes
 gymnanthous
 gymnarchidae
