@@ -8852,7 +8852,6 @@ allying
 allylate
 allylation
 allylene
-allylic
 allyls
 allylthiourea
 allineate
@@ -9444,6 +9443,7 @@ alphabetized
 alphabetizer
 alphabetizers
 alphabetizes
+allylic
 alibangbang
 alphabetizing
 alphabets
