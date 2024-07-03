@@ -3420,7 +3420,6 @@ embattle
 embattled
 embattlement
 emphractic
-embattles
 embden
 embeam
 extinction
@@ -4317,6 +4316,7 @@ emulatively
 enthronements
 erythric
 emulator
+embattles
 enumeration
 edificant
 emulatory
