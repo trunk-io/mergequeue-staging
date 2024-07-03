@@ -3972,6 +3972,7 @@ finis
 finish
 figure
 finished
+flatterdock
 forride
 finisher
 finishers
@@ -5085,7 +5086,6 @@ fumatory
 flatted
 floodgates
 flattercap
-flatterdock
 foolheadedness
 flatterer
 flatteries
