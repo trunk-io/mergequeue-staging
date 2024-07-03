@@ -18237,6 +18237,7 @@ coffeecake
 coffeecakes
 coffeecup
 coffeegrower
+closestool
 coffeegrowing
 cuss
 coffeehouse
@@ -25623,7 +25624,6 @@ corpulences
 corpulency
 corpulencies
 corpulent
-closestool
 corpulently
 cascabels
 corpulentness
