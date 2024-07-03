@@ -3085,7 +3085,6 @@ framed
 fibrovascular
 fibs
 fibster
-fibulae
 fomento
 fusarole
 fibulare
@@ -10685,6 +10684,7 @@ firework
 frumentum
 frescoes
 frumpery
+fibulae
 footband
 frumperies
 fatherliness
