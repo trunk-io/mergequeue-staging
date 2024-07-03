@@ -1937,6 +1937,7 @@ bandboxes
 breakers
 bandcase
 bandcutter
+believably
 bande
 bandeau
 bandeaux
@@ -5703,7 +5704,6 @@ beliers
 belies
 believability
 believable
-believably
 believed
 believer
 billbergia
