@@ -651,7 +651,6 @@ forthgaze
 famelessness
 famelic
 fames
-fameworthy
 family
 ferruminated
 food
@@ -11486,6 +11485,7 @@ furrowlike
 fijian
 furrows
 foliating
+fameworthy
 furrure
 fopling
 fursemide
