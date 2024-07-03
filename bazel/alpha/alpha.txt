@@ -5203,7 +5203,6 @@ aerotechnical
 aerotechnics
 aerotherapeutics
 aerotherapy
-aerothermodynamic
 aerothermodynamics
 aerotonometer
 aerotonometry
@@ -15716,6 +15715,7 @@ antimycotic
 antimicrobial
 antimicrobic
 antimilitary
+aerothermodynamic
 antimilitarism
 aridnesses
 aegophony
