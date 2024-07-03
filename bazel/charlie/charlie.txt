@@ -6549,7 +6549,6 @@ cedes
 cedi
 cedilla
 cedillas
-ceding
 cedis
 cedrat
 cleruch
@@ -26388,6 +26387,7 @@ cothurnal
 cothurnate
 cothurned
 cothurni
+ceding
 cothurnian
 chopines
 cothurnni
