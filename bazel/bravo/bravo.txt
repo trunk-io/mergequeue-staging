@@ -1430,7 +1430,6 @@ baldric
 baldrick
 baldricks
 baldrics
-btl
 baldricwise
 biocenotic
 balds
@@ -5709,6 +5708,7 @@ bulse
 believing
 believingly
 belight
+btl
 bulldozer
 belying
 belyingly
