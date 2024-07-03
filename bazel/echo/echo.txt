@@ -1275,6 +1275,7 @@ eternal
 eelpot
 eelpout
 eelpouts
+endothelium
 eelshop
 epitympanic
 eelware
@@ -5426,7 +5427,6 @@ epitheton
 endotheliomyoma
 endotheliotoxin
 endotheliulia
-endothelium
 endotheloid
 endotherm
 endothermal
