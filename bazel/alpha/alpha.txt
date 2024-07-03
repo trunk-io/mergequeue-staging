@@ -9285,7 +9285,6 @@ almuce
 almuces
 almud
 almudes
-almuds
 almuerzo
 almugs
 almuredin
@@ -19335,6 +19334,7 @@ ardisia
 ardisiaceae
 anthological
 acarids
+almuds
 ardoise
 ardors
 ardours
