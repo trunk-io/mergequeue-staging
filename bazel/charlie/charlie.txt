@@ -8225,6 +8225,7 @@ chairs
 chairway
 chairwarmer
 chairwoman
+curvedness
 chrysalis
 chairwomen
 chais
@@ -12651,7 +12652,6 @@ chronoisothermal
 chronol
 coauditor
 chronologer
-curvedness
 cassina
 chronology
 chronologic
