@@ -13678,7 +13678,6 @@ antizealot
 almohad
 annexe
 annexed
-annexer
 annexes
 annexion
 annexionist
@@ -23828,6 +23827,7 @@ authorial
 authorially
 authoring
 authorisable
+annexer
 alpist
 authorisation
 authorise
