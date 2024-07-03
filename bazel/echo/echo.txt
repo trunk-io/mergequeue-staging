@@ -273,6 +273,7 @@ ectodermic
 easterliness
 easterling
 eastwards
+efficacity
 eastermost
 eastern
 easterners
@@ -3129,7 +3130,6 @@ eyebath
 eloigned
 eloigner
 eloigning
-efficacity
 eloin
 eloine
 eloined
