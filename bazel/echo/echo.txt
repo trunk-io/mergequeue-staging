@@ -4497,6 +4497,7 @@ encampment
 encampments
 endoparasite
 euthyneurous
+exameter
 encanker
 encanthis
 encapsulate
@@ -11814,7 +11815,6 @@ exalts
 exam
 examen
 examens
-exameter
 examinability
 examinable
 economical
