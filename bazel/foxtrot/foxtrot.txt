@@ -2280,7 +2280,6 @@ fendillation
 fending
 fends
 fenestellae
-fenestellid
 fenestellidae
 fenester
 fenestral
@@ -11441,6 +11440,7 @@ functionated
 furnishing
 feebler
 flatfish
+fenestellid
 fortune
 furnishings
 fudges
