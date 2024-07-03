@@ -3370,7 +3370,6 @@ efformation
 embarge
 embargo
 embargoed
-embargoes
 embargoing
 embargoist
 embarkations
@@ -9714,6 +9713,7 @@ esophagism
 esophagitis
 eurythmy
 esophagocele
+embargoes
 esophagodynia
 esophagogastroscopy
 epigonichthyidae
