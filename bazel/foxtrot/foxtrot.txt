@@ -2061,7 +2061,6 @@ foils
 fesapo
 fusuma
 felinophile
-felis
 filagrees
 felix
 fusulina
@@ -5622,6 +5621,7 @@ flints
 flintstone
 frontspiece
 flyoff
+felis
 flavorfully
 flip
 focalise
