@@ -163,7 +163,6 @@ bidiagonal
 babroot
 bipinnately
 backsliding
-babs
 backpacks
 baraithas
 babu
@@ -9173,6 +9172,7 @@ biosome
 biospeleology
 batzen
 biosphere
+babs
 biostatic
 biostatical
 biostatistics
