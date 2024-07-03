@@ -7760,6 +7760,7 @@ foremarch
 foremark
 foremartyr
 foremasthand
+faceharden
 foremastmen
 fleshlike
 fluidify
@@ -9884,7 +9885,6 @@ fortitudinous
 fresison
 fresne
 fresnel
-faceharden
 fraudless
 fresnels
 fresno
