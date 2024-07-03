@@ -2215,6 +2215,7 @@ banns
 bannut
 banovina
 banque
+becard
 banquet
 banqueted
 banqueter
@@ -4375,7 +4376,6 @@ becap
 becapping
 becaps
 ballow
-becard
 becarpet
 bigamist
 becarpeted
