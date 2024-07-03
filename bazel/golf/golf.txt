@@ -7516,7 +7516,6 @@ governor
 governors
 grype
 governs
-govt
 gowans
 grinagog
 gowd
@@ -8052,6 +8051,7 @@ guff
 granolith
 glauke
 granolithic
+govt
 granomerite
 granophyre
 geometries

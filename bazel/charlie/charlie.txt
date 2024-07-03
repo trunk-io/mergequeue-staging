@@ -4663,7 +4663,6 @@ carpophyll
 carpophyte
 carpophore
 carpopodite
-carpopoditic
 carpoptosia
 carfuffle
 carpoptosis
@@ -23742,6 +23741,7 @@ contranatural
 contrantiscion
 clefts
 campstool
+carpopoditic
 contraoctave
 contraorbital
 coteline
