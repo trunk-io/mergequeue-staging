@@ -2139,7 +2139,6 @@ epigrammatist
 elastance
 elastase
 elastases
-elastic
 elastically
 elasticate
 elastician
@@ -12668,6 +12667,7 @@ endokaryogamy
 exocrines
 ephetic
 ellagitannin
+elastic
 exocrinology
 exocrinologies
 exoculate
