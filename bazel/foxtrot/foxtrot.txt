@@ -1320,7 +1320,6 @@ fatality
 fatalities
 fatally
 fatalness
-flap
 friggle
 flawflower
 fatback
@@ -4706,6 +4705,7 @@ flagger
 frontomallar
 fumiferana
 flaggery
+flap
 flaggers
 flaggy
 flaggier
