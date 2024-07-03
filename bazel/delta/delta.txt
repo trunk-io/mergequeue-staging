@@ -2588,7 +2588,6 @@ decolorise
 decoloriser
 decolorising
 decolorization
-decolorize
 draughtier
 disidentify
 decolorized
@@ -6278,6 +6277,7 @@ dermises
 demurs
 disimmure
 dermitis
+decolorize
 downs
 dermoblast
 dermobranchia
