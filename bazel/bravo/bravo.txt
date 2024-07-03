@@ -6964,7 +6964,6 @@ besiege
 besieged
 bardash
 bathymeter
-besiegement
 besieges
 besieging
 besiegingly
@@ -7826,6 +7825,7 @@ bibbling
 backlotter
 bibbons
 bibcock
+besiegement
 brevetted
 bibelots
 buskin
