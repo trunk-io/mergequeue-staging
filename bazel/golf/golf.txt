@@ -9536,7 +9536,6 @@ gempylid
 growsome
 growthful
 gorevan
-growthiness
 growths
 guacico
 growse
@@ -10499,6 +10498,7 @@ gunnar
 gerbil
 gunnen
 gunner
+growthiness
 gunnera
 gunneraceae
 gunnery
