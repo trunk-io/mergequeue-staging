@@ -7991,7 +7991,6 @@ epimanikia
 epimanikion
 epimedium
 epimer
-epimeral
 epimerase
 epimere
 epimeres
@@ -11202,6 +11201,7 @@ eurytherm
 elevon
 eurythermal
 eurythermic
+epimeral
 extrait
 eurithermophile
 eurythermous
