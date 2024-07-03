@@ -3910,7 +3910,6 @@ baxter
 begins
 baxterianism
 baken
-baxtone
 bazaar
 bazaars
 bazar
@@ -13569,6 +13568,7 @@ bountiful
 bountifully
 bountifulness
 bountyless
+baxtone
 bountiousness
 baybush
 bountree
