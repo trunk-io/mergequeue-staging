@@ -3388,7 +3388,6 @@ embarras
 embarrased
 ecchondrotome
 embarrass
-embarrassed
 embarrassedly
 embarrasses
 embarrassing
@@ -10840,6 +10839,7 @@ euglenales
 enterokinetic
 eradication
 ensigning
+embarrassed
 excalate
 euglenas
 euglenida
