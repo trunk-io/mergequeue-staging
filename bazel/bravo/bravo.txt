@@ -1407,7 +1407,6 @@ balder
 balderdash
 blighters
 blithebread
-baldest
 baldfaced
 bemire
 baldhead
@@ -10367,6 +10366,7 @@ beray
 blankit
 blankminded
 bullneck
+baldest
 blousily
 blanks
 blanque
