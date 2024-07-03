@@ -3055,6 +3055,7 @@ fibromyoma
 flashbacks
 fibromyxosarcoma
 frissons
+fightable
 foveolet
 fibromucous
 fibromuscular
@@ -3382,7 +3383,6 @@ figgiest
 figging
 figgum
 fight
-fightable
 fighter
 fighteress
 frontomalar
