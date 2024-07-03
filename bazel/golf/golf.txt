@@ -1850,7 +1850,6 @@ gubernacular
 gastronomically
 gastronomics
 gastropancreatic
-gastropancreatitis
 gastroparietal
 gastropathy
 gastropathic
@@ -7728,6 +7727,7 @@ gastric
 grayback
 goosy
 graybacks
+gastropancreatitis
 graybearded
 graybeards
 graycoat
