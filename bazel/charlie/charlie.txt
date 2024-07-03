@@ -2460,6 +2460,7 @@ canewares
 cellifugal
 canewise
 canework
+chemotactic
 canezou
 canfield
 canfieldite
@@ -19924,7 +19925,6 @@ coming
 comingle
 comings
 comino
-chemotactic
 comique
 choromanic
 comism
