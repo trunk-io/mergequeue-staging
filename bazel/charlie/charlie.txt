@@ -8675,7 +8675,6 @@ changelessly
 changelessness
 changeling
 changelings
-changemaker
 changement
 changeovers
 credently
@@ -30557,6 +30556,7 @@ cordwainery
 cuckoos
 cuckstool
 cucuy
+changemaker
 cucujid
 cucujidae
 cucujus
