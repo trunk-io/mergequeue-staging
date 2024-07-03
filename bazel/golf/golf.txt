@@ -3153,7 +3153,6 @@ geomancy
 grandmotherhood
 geomancies
 geomant
-geomantic
 geomantically
 geomedical
 geometers
@@ -5889,6 +5888,7 @@ glossers
 galloway
 glossic
 glossier
+geomantic
 glossies
 glossily
 glossina
