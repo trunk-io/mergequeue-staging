@@ -3011,7 +3011,6 @@ ephemerae
 enclisis
 elytrocele
 elytroclasia
-elytroid
 exploitative
 elytroposis
 elytrorhagia
@@ -6283,6 +6282,7 @@ enrange
 enrapt
 enrapted
 enrapting
+elytroid
 execrator
 enrapts
 encoignure
