@@ -9011,7 +9011,6 @@ chargeman
 chargers
 charges
 chargeship
-chary
 charybdian
 charybdis
 charicleia
@@ -11837,6 +11836,7 @@ choosableness
 chechakos
 cycloidal
 choose
+chary
 chooseable
 choosey
 chooser
