@@ -788,7 +788,6 @@ goosewinged
 gomphoses
 galvanization
 gaulin
-galvanized
 galvanizer
 graphophonic
 galvanizers
@@ -5071,6 +5070,7 @@ gramenite
 gladiolas
 gladiole
 gladioli
+galvanized
 generalization
 glacieret
 gunlocks

@@ -5498,6 +5498,7 @@ afforestment
 afforests
 awnless
 affray
+accentuality
 affrayed
 affrayer
 affrayers
@@ -9265,7 +9266,6 @@ almoravides
 acroscleroderma
 almose
 almost
-accentuality
 almous
 alms
 almsdeed
