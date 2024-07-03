@@ -822,7 +822,6 @@ cyperaceous
 cajou
 cajuela
 cajun
-cajuns
 cajuput
 cajuputene
 cajuputol
@@ -3608,6 +3607,7 @@ carbasus
 carbazic
 carbazide
 carbazylic
+cajuns
 carbazine
 carbazole
 carbene
