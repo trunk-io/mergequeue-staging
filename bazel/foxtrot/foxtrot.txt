@@ -2411,6 +2411,7 @@ fibrillate
 fermal
 fermata
 furnitures
+foreign
 fermate
 fleshed
 fermatian
@@ -7689,7 +7690,6 @@ foreyear
 forward
 fibres
 furuncle
-foreign
 frontignac
 floodlights
 foreigneering
