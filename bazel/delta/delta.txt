@@ -293,7 +293,6 @@ dagomba
 dagos
 dagswain
 daguerreotype
-daguerreotyped
 daguerreotyper
 daguerreotypic
 daguerreotyping
@@ -6239,6 +6238,7 @@ dermatopathology
 dermatopathophobia
 dermatophagus
 dermatophyte
+daguerreotyped
 demounting
 diploneural
 dermatophytic

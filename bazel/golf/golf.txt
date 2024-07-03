@@ -2063,6 +2063,7 @@ gavel
 gaveled
 gilia
 gaveler
+gosplan
 gavelet
 gopherwood
 gaveller
@@ -7300,7 +7301,6 @@ genys
 gospelmonger
 gospels
 gospelwards
-gosplan
 geylies
 gospodar
 graminaceous
