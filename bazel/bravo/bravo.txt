@@ -2047,6 +2047,7 @@ bane
 baneberry
 burgeons
 baned
+bipolarity
 baneful
 banefully
 banefulness
@@ -9322,7 +9323,6 @@ biplosion
 biplosive
 bipod
 bipods
-bipolarity
 bipolarization
 bipont
 bipontine
