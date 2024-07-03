@@ -1808,7 +1808,6 @@ gastrohepatitis
 gastrohyperneuria
 gluconokinase
 glinted
-gastrohysterectomy
 gastrohysteropexy
 gastrohysterotomy
 gastroid
@@ -4916,6 +4915,7 @@ giunta
 giuseppe
 giust
 grecoue
+gastrohysterectomy
 goutier
 gibberellin
 grudgment
