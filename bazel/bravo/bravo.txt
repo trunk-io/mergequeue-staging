@@ -5366,7 +5366,6 @@ begut
 behale
 behallow
 behalves
-behammer
 behang
 behatted
 besauce
@@ -8638,6 +8637,7 @@ billyer
 billies
 billyhood
 billikin
+behammer
 barotse
 billings
 billingsgate

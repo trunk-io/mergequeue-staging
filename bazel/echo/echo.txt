@@ -2080,6 +2080,7 @@ esotery
 elaeothesia
 elaeothesium
 equiangle
+explodable
 estates
 elaic
 economiser
@@ -13221,7 +13222,6 @@ explicitly
 explicitness
 enchantingly
 explicits
-explodable
 exploded
 exploders
 exploit
