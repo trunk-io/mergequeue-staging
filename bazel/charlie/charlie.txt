@@ -996,6 +996,7 @@ calcareoargillaceous
 calcareobituminous
 calcareosiliceous
 calcareosulphurous
+carpetmonger
 clavers
 calcareous
 calcareously
@@ -4593,7 +4594,6 @@ carpetlayer
 carpetless
 carpetmaker
 carpetmaking
-carpetmonger
 carpetweed
 carpetwork
 carpetwoven
