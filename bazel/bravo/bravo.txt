@@ -4107,7 +4107,6 @@ beaproned
 bear
 bearableness
 bearably
-benzolate
 bearance
 bearbaiter
 bearbane
@@ -6199,6 +6198,7 @@ benighted
 benightedly
 bragger
 benightedness
+benzolate
 bollworm
 benighten
 benighter
