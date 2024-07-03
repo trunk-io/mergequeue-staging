@@ -5812,7 +5812,6 @@ engloom
 englory
 englue
 englut
-engluts
 englutted
 englutting
 engobe
@@ -7511,6 +7510,7 @@ euscaro
 ephemeran
 ephemeras
 editchar
+engluts
 ephemeric
 ephemerid
 emotiomuscular
