@@ -2317,7 +2317,6 @@ bararesque
 bararite
 barasingha
 barathea
-baysmelts
 barathra
 barathron
 barathrum
@@ -6438,6 +6437,7 @@ benzophenazine
 buffos
 benzophenone
 benzophenothiazine
+baysmelts
 benzophenoxazine
 benzophloroglucinol
 benzophosphinic

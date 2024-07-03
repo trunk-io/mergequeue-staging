@@ -1018,7 +1018,6 @@ genospecies
 gammelost
 gammerel
 gammers
-gammexane
 gammy
 gammock
 gammon
@@ -4928,6 +4927,7 @@ give
 goaltending
 gantries
 gyve
+gammexane
 glaciologic
 giveable
 giveaways
