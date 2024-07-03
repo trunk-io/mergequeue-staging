@@ -7142,6 +7142,7 @@ footings
 footle
 fishpound
 fainting
+forechase
 footled
 footlers
 footles
@@ -7515,7 +7516,6 @@ forecastles
 forecastors
 forecatching
 forechamber
-forechase
 forechoice
 fourflusher
 foregame
