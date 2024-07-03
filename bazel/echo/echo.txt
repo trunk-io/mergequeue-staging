@@ -717,6 +717,7 @@ extraparietal
 ecoclimate
 empery
 exospheric
+evanescent
 epipodia
 ecodeme
 ecol
@@ -11344,7 +11345,6 @@ evanesced
 evanescence
 evanescency
 evanescenrly
-evanescent
 evanescently
 euvrou
 evang
