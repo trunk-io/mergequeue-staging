@@ -7119,7 +7119,6 @@ finedraw
 footed
 footer
 footfall
-ferruling
 footfalls
 footfarer
 footfault
@@ -11661,6 +11660,7 @@ flagstaff
 fulgid
 fustoc
 fusula
+ferruling
 fusulae
 fusulas
 fusure
