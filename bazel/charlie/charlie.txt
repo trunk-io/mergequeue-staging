@@ -11614,6 +11614,7 @@ cholent
 cholents
 choleokinase
 comforter
+cystenchyme
 cooks
 choler
 crance
@@ -14648,7 +14649,6 @@ cysteins
 cyclolith
 cystelcosis
 cystenchyma
-cystenchyme
 cystencyte
 cistercian
 cistercianism
