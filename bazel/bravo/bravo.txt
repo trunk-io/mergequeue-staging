@@ -4252,7 +4252,6 @@ beaujolais
 beaume
 beaumont
 beaumontia
-beaupere
 beaupers
 beaus
 beauseant
@@ -8741,6 +8740,7 @@ bimetallist
 bimetallistic
 bimetals
 bimethyl
+beaupere
 bimethyls
 bimillenary
 ballotade
