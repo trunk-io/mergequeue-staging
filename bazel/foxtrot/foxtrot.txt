@@ -1175,7 +1175,6 @@ filtration
 fascinating
 financial
 fascination
-fascinations
 fascinative
 fascinator
 freyja
@@ -5303,6 +5302,7 @@ fleece
 fleeced
 fleeceflower
 fleeceless
+fascinations
 fleecelike
 fibrilled
 fleecer
