@@ -3052,6 +3052,7 @@ deerstalking
 deerstand
 deerstealer
 deertongue
+destructors
 deervetch
 deerweed
 deerweeds
@@ -7059,7 +7060,6 @@ destructivism
 destructivity
 destructor
 destructory
-destructors
 destructs
 destructuralize
 destrudo
