@@ -6709,6 +6709,7 @@ ahet
 ahi
 ahimsa
 ahimsas
+antecessor
 ahint
 ahir
 ahistoric
@@ -14249,7 +14250,6 @@ antecedes
 anteceding
 antispermotoxin
 antecell
-antecessor
 antechamber
 anelastic
 antechapel
