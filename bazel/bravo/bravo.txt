@@ -6992,7 +6992,6 @@ beslimer
 beslimes
 backtalk
 barricaders
-besliming
 breadbasket
 beslings
 beslipper
@@ -10915,6 +10914,7 @@ backspear
 blit
 blite
 blites
+besliming
 blithe
 boride
 blithefully
