@@ -8937,6 +8937,7 @@ characterologically
 characterologist
 characters
 characterstring
+colometric
 charade
 charades
 charadrii
@@ -19427,7 +19428,6 @@ colory
 colorific
 colorifics
 colorimeter
-colometric
 colorimetric
 colorimetrical
 colorimetrically

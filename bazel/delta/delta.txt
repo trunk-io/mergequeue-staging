@@ -6562,7 +6562,6 @@ desensitizers
 desensitizes
 desensitizing
 desentimentalize
-diagraming
 deseret
 desert
 deserted
@@ -12946,6 +12945,7 @@ dispells
 dispels
 decliners
 dispend
+diagraming
 dispended
 dispender
 dinotheres
