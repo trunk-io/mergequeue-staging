@@ -12610,6 +12610,7 @@ chroncmeter
 chronic
 chronical
 chronically
+crystallography
 cismarine
 chronicity
 cousiny
@@ -29487,7 +29488,6 @@ crystallograph
 crystallographer
 coordinateness
 crystallographers
-crystallography
 crystallographical
 crystallographically
 crystalloid
