@@ -79,7 +79,6 @@ euclidian
 enneahedra
 earlish
 earlywood
-earlock
 earlocks
 earls
 earlship
@@ -9524,6 +9523,7 @@ escaroles
 escarping
 escarpment
 escarpments
+earlock
 escarps
 embryony
 etaerio

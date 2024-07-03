@@ -4537,7 +4537,6 @@ adullamite
 adulter
 adulterant
 adulterate
-adulterated
 adulterately
 adulterates
 adulterating
@@ -19937,6 +19936,7 @@ armariolum
 armarium
 armariumaria
 armata
+adulterated
 armatoles
 armatoli
 armature
