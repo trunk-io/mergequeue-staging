@@ -11020,6 +11020,7 @@ baubo
 bosc
 blocs
 blodite
+burblier
 bloedite
 blok
 bloke
@@ -13077,7 +13078,6 @@ borofluohydric
 borofluoric
 brubru
 borofluorin
-burblier
 boroglycerate
 basitemporal
 boroglycerine
