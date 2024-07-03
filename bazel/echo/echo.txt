@@ -6664,7 +6664,6 @@ enteroischiocele
 echo
 enterokinase
 enterokinesia
-enterokinetic
 enterolysis
 endshake
 eddies
@@ -10843,6 +10842,7 @@ eugeosynclinal
 eugeosyncline
 euglandina
 euglenales
+enterokinetic
 eradication
 ensigning
 excalate
