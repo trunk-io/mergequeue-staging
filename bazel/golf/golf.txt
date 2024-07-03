@@ -2154,7 +2154,6 @@ gazangabin
 gazania
 griffado
 glimpse
-gloppy
 gazebos
 gazed
 gazee
@@ -3008,6 +3007,7 @@ geobiologic
 geobiont
 geobios
 geobotanic
+gloppy
 geobotanically
 gurgulation
 glutetei
