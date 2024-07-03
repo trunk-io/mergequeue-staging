@@ -9866,7 +9866,6 @@ chemiculture
 chemigraph
 chemigrapher
 chemigraphy
-chemigraphic
 chemigraphically
 chemiloon
 chemiluminescence
@@ -23919,6 +23918,7 @@ controverted
 centaurus
 chloromethane
 controvertibility
+chemigraphic
 controvertible
 controverting
 controvertist
