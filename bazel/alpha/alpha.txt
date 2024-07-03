@@ -11673,7 +11673,6 @@ athalamous
 anacidity
 anack
 anaclastics
-anaclete
 ambrosiate
 anacletica
 anacleticum
@@ -21625,6 +21624,7 @@ assarion
 assart
 assassin
 assassinate
+anaclete
 assassinated
 assassinates
 assassinating
