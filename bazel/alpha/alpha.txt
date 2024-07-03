@@ -514,6 +514,7 @@ abjudicate
 abjudicated
 abjudicating
 abjudication
+affile
 abjudicator
 abjugate
 abjunct
@@ -18760,7 +18761,6 @@ archaises
 archaising
 archaisms
 archaist
-affile
 archaistic
 archaists
 archaized
