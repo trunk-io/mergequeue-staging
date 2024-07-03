@@ -4490,6 +4490,7 @@ encages
 encaging
 encake
 erythrosiderite
+exploitable
 encalendar
 encamp
 encamped
@@ -13220,7 +13221,6 @@ exploded
 exploders
 exploit
 evasible
-exploitable
 exploitage
 exploitatively
 exploited
