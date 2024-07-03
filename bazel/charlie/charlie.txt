@@ -8298,7 +8298,6 @@ chalcogen
 chalcogenide
 chalcograph
 chalcographer
-chalcography
 chalcographic
 chalcographical
 chalcographist
@@ -11850,6 +11849,7 @@ chantment
 chopins
 choplogic
 choplogical
+chalcography
 chopped
 chinoidin
 chopper
