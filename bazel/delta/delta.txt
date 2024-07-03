@@ -7104,7 +7104,6 @@ desulfurized
 desulfurizer
 desulfurizing
 desulfurs
-desulphur
 desulphurate
 desulphurated
 desulphuration
@@ -11840,6 +11839,7 @@ disdainer
 disdainful
 disdainfully
 disdainfulness
+desulphur
 disdainly
 didymus
 disdainous
