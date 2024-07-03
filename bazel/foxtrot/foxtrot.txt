@@ -492,7 +492,6 @@ frillies
 folium
 falcons
 falcopern
-falcula
 falcular
 falculate
 falcunculus
@@ -4807,6 +4806,7 @@ finitive
 feminism
 flatterable
 flamberg
+falcula
 flukily
 flamberge
 flambes
