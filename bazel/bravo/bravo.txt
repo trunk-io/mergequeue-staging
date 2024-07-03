@@ -6799,7 +6799,6 @@ berrying
 berryless
 berrylike
 berryman
-berrypicker
 binominal
 berrugate
 bersagliere
@@ -14448,6 +14447,7 @@ branchiomeric
 branchiomerism
 brazing
 boeotarch
+berrypicker
 branchiopallial
 branchiopneustic
 branchiopoda
