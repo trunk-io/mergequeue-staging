@@ -9217,6 +9217,7 @@ chasid
 chasidim
 chasing
 chasings
+copyread
 chasm
 chasma
 chasmal
@@ -24608,7 +24609,6 @@ copiopsia
 copiosity
 copious
 copiously
-copyread
 copyreader
 copyreaders
 copyreading
