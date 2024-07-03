@@ -3168,6 +3168,7 @@ ficula
 fid
 forcing
 fidac
+fishplate
 fidate
 floodgate
 functorial
@@ -4358,7 +4359,6 @@ fishmeal
 fabliaux
 fishmeals
 fishnets
-fishplate
 florid
 fishpole
 fishpoles
