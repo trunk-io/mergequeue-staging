@@ -7555,6 +7555,7 @@ graafian
 grab
 grabbable
 grabbed
+guitermanite
 gingerbread
 gehlenite
 grabbots
@@ -10244,7 +10245,6 @@ ghazies
 guitarlike
 gateage
 guitars
-guitermanite
 genitures
 geomagnetist
 guitguit

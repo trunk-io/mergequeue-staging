@@ -1220,6 +1220,7 @@ dataset
 datasetname
 datasets
 datatype
+dullardism
 datatypes
 dialyzable
 dodecaphonism
@@ -18020,7 +18021,6 @@ duly
 dulia
 dermatonosus
 dull
-dullardism
 deckload
 dullardness
 dullards
