@@ -10838,7 +10838,6 @@ amlet
 amli
 amlong
 amma
-amman
 ammanite
 ammelide
 ammelin
@@ -20748,6 +20747,7 @@ artifex
 absampere
 aeschynomene
 autoxidizable
+amman
 artifice
 artificer
 artificership
