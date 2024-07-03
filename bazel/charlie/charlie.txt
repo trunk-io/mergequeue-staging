@@ -11842,7 +11842,6 @@ chooses
 calomel
 conics
 choosier
-choosiness
 choosing
 chop
 chopa
@@ -16622,6 +16621,7 @@ clones
 clong
 clonicity
 clonicotonic
+choosiness
 curtailment
 cloning
 clonism
