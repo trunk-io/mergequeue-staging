@@ -1260,7 +1260,6 @@ axone
 academician
 academicians
 academicianship
-academicism
 academics
 academies
 academise
@@ -10354,6 +10353,7 @@ ameliorating
 apocenter
 amelioration
 ameliorations
+academicism
 ameliorativ
 amelioratory
 amellus
