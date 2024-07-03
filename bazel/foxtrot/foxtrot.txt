@@ -3642,7 +3642,6 @@ fibreware
 filler
 fillercap
 fluviology
-fractionator
 faceoff
 fluormeter
 fillers
@@ -11235,6 +11234,7 @@ funiliform
 funipendulous
 flavoprotein
 funis
+fractionator
 funje
 funk
 funked
