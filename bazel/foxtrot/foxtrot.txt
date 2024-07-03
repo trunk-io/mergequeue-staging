@@ -3239,6 +3239,7 @@ featous
 fidgeted
 fidgeters
 filibustrous
+fumer
 fractile
 flitching
 fidgeting
@@ -4824,7 +4825,6 @@ fill
 flamingly
 farthest
 flamefishes
-fumer
 flameless
 flamelike
 fellowess
