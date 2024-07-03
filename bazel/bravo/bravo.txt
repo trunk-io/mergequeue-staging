@@ -3006,6 +3006,7 @@ barrelmaker
 barrelmaking
 ballistics
 barrels
+boomable
 barrelsful
 brigantines
 barrelwise
@@ -12733,7 +12734,6 @@ boolean
 breathseller
 booley
 booly
-boomable
 broomier
 biogeographic
 boomah
