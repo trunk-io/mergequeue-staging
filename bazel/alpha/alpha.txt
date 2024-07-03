@@ -3395,7 +3395,6 @@ acutate
 acute
 acutenaculum
 acuter
-acutes
 acutest
 acutifoliate
 acutilingual
@@ -11958,6 +11957,7 @@ anamniote
 algerita
 anamniotic
 anamorphic
+acutes
 anamorphism
 anamorphoscope
 anamorphose
