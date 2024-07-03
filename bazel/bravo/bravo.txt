@@ -2597,7 +2597,6 @@ bargainable
 bargained
 billbugs
 bargainer
-bargainers
 bargaining
 beraked
 bargainor
@@ -3220,6 +3219,7 @@ brember
 bashless
 bashlik
 bashlyk
+bargainers
 bashlyks
 bashment
 bullfist
