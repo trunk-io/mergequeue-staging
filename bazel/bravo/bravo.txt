@@ -4236,7 +4236,6 @@ beatles
 burgle
 beatless
 beatnik
-beatniks
 beatrix
 brattice
 beats
@@ -8274,6 +8273,7 @@ biforking
 biformed
 berthage
 biformity
+beatniks
 boltspreet
 bifronted
 bifrost
