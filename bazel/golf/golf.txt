@@ -2579,6 +2579,7 @@ gemwork
 gen
 gastrology
 gena
+guilloche
 glyptal
 guardsmen
 genal
@@ -10191,7 +10192,6 @@ gynecophore
 guillemot
 globus
 guillermo
-guilloche
 guillochee
 guillotine
 guillotines
