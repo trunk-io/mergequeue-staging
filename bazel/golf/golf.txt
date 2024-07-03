@@ -3862,7 +3862,6 @@ ghouls
 ghrush
 ghuz
 gi
-gyal
 gane
 gavialoid
 giambeux
@@ -4955,6 +4954,7 @@ givingness
 granulated
 gizz
 glossanthrax
+gyal
 gizzard
 gloeocapsoid
 gizzened
