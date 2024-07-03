@@ -4735,7 +4735,6 @@ democritean
 demode
 demodectic
 dejected
-demodex
 demodicidae
 demodocus
 demodulate
@@ -12476,6 +12475,7 @@ disinheriting
 disinherits
 disinhibition
 disinhume
+demodex
 disinhumed
 disinhuming
 disinsection
