@@ -5883,7 +5883,6 @@ catheptic
 catherine
 cathern
 catheterisation
-catheterise
 catheterised
 catheterising
 catheterism
@@ -18765,6 +18764,7 @@ coldproof
 colds
 coldslaw
 coloplication
+catheterise
 coleader
 colecannon
 cystosyrinx
