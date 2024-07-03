@@ -3289,7 +3289,6 @@ geotechnic
 gimmicks
 geotechnics
 geotectonically
-geotectonics
 geoteuthis
 ghillie
 gomeril
@@ -9645,6 +9644,7 @@ gaseity
 gujrati
 grugous
 graphitoidal
+geotectonics
 gruidae
 gruyere
 gruiform
