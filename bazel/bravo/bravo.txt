@@ -7095,7 +7095,6 @@ bespawl
 bespeak
 biremes
 bushing
-bespeakable
 bespeaking
 bespeaks
 bespecked
@@ -14761,6 +14760,7 @@ breaded
 breaden
 breadfruit
 breadfruits
+bespeakable
 breading
 breadline
 breadmaker
