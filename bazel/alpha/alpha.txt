@@ -233,7 +233,6 @@ abbreviating
 abbreviation
 abbreviations
 abbreviator
-abbreviatory
 abbreviature
 abc
 ambonite
@@ -12039,6 +12038,7 @@ anapnea
 anapnoeic
 anapnograph
 anapnoic
+abbreviatory
 anapnometer
 anapodeictic
 anapophyses
