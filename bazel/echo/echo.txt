@@ -5892,7 +5892,6 @@ engrosses
 engrossing
 engrossingly
 engrossingness
-engs
 enguard
 engulf
 engulfed
@@ -10949,6 +10948,7 @@ eumoiriety
 eumoirous
 eumolpides
 eumolpique
+engs
 ectoethmoid
 eumolpus
 executors
