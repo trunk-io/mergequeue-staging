@@ -795,7 +795,6 @@ ecphorable
 emersed
 ecphore
 earwigging
-ecphory
 ecphoria
 ecphoriae
 ecphorias
@@ -13452,6 +13451,7 @@ expose
 exscind
 exscinded
 exscinding
+ecphory
 exscinds
 exscribe
 exscript
