@@ -3453,7 +3453,6 @@ basswoods
 brickle
 bast
 basta
-bastaard
 bastant
 bastard
 bastardice
@@ -7889,6 +7888,7 @@ bibliolatrist
 bibliolatrous
 bibliology
 bibliological
+bastaard
 bibliologies
 bismuthite
 bibliologist
