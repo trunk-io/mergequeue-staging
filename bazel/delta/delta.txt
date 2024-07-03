@@ -6335,7 +6335,6 @@ disarray
 dropworm
 dermorhynchi
 dermorhynchous
-dermosclerite
 discontents
 dermoskeletal
 dermostenosis
@@ -17843,6 +17842,7 @@ decursive
 disimbitter
 ducts
 ductule
+dermosclerite
 ductules
 ductus
 ductwork
