@@ -3836,6 +3836,7 @@ adffrozen
 adfluxion
 adfreeze
 adfreezing
+antiangular
 apozema
 adfroze
 adfrozen
@@ -14860,7 +14861,6 @@ antianaphylactogen
 antianaphylaxis
 antianarchic
 antianarchist
-antiangular
 antiannexationist
 antianopheline
 antianthrax
