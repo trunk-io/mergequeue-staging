@@ -666,7 +666,6 @@ epigrammatized
 endaortic
 eclat
 eclated
-eclating
 eclats
 eclectic
 eclectical
@@ -4806,6 +4805,7 @@ eyeliner
 encloud
 encoach
 encode
+eclating
 encoded
 encodings
 encoffin
