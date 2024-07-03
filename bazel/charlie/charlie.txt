@@ -6870,7 +6870,6 @@ celtuce
 celure
 cembali
 cembalist
-cembalo
 cembalon
 cembalos
 cement
@@ -8845,6 +8844,7 @@ chapman
 chapmanship
 chapmen
 chapon
+cembalo
 chapote
 cheyennes
 chapournet
