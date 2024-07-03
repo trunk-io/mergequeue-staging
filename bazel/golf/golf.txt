@@ -5038,7 +5038,6 @@ gladatorial
 gladded
 gladden
 gladdened
-gladdens
 gladder
 gladding
 goniopholidae
@@ -6935,6 +6934,7 @@ glossae
 gorged
 gonopores
 gonorrhea
+gladdens
 gonorrhoea
 gonorrhoeal
 gonorrhoeic
