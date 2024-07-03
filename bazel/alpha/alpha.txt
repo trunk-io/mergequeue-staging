@@ -5350,7 +5350,6 @@ affecters
 affectibility
 affectible
 affecting
-affectingly
 antigen
 affection
 affectional
@@ -5707,6 +5706,7 @@ afterfruits
 afterfuture
 aftergame
 aftergas
+affectingly
 afterglide
 artery
 acton

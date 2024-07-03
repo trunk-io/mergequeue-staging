@@ -789,7 +789,6 @@ badaud
 badawi
 badaxe
 badchan
-badder
 briquetted
 badderlocks
 brachia
@@ -2345,6 +2344,7 @@ barbaloin
 bottlenose
 blinter
 beno
+badder
 bung
 barbara
 barbaralalia
