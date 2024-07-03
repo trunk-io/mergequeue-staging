@@ -10764,6 +10764,7 @@ aminopeptidase
 aminopherase
 aminopyrine
 aminoplast
+ascendants
 aminoplastic
 aminopolypeptidase
 aminopropionic
@@ -20960,7 +20961,6 @@ ascendance
 ascendancy
 ascendant
 ascendantly
-ascendants
 ascendence
 ascendency
 ascendent
