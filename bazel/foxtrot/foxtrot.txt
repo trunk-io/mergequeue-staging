@@ -1748,7 +1748,6 @@ featherbrain
 fitified
 feathercut
 feathered
-featheredge
 featherer
 featherfoil
 featherheaded
@@ -5207,6 +5206,7 @@ flawiest
 fadge
 flawing
 flawless
+featheredge
 fenced
 forex
 flawlessly
