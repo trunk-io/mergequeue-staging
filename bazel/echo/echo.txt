@@ -5219,7 +5219,6 @@ endogenies
 endogenously
 effodientia
 endogens
-extralimital
 endognathion
 endolabyrinthitis
 endolaryngeal
@@ -9305,6 +9304,7 @@ erotize
 erotizing
 erotogenesis
 epictetian
+extralimital
 expilator
 erotogenic
 erotogenicity
