@@ -9790,7 +9790,6 @@ earhead
 espial
 espials
 eartab
-espichellite
 espieglerie
 espiegleries
 espies
@@ -13902,6 +13901,7 @@ extraordinary
 expropriation
 extraordinarily
 extraordinariness
+espichellite
 embryogenic
 extraovular
 extraparenchymal
