@@ -5206,7 +5206,6 @@ degermed
 downcast
 denounce
 denounced
-denouncement
 differentially
 denouncements
 digladiate
@@ -10892,6 +10891,7 @@ disableness
 demonstrativeness
 disabler
 disablers
+denouncement
 disabling
 disabusal
 diazoimido
