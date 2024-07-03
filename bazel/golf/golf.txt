@@ -6434,6 +6434,7 @@ gob
 galactometer
 goback
 goban
+guzzling
 gnocchi
 gobang
 girl
@@ -10836,7 +10837,6 @@ griphe
 guzzle
 guzzled
 giftlike
-guzzling
 geyseral
 gorilla
 garfield
