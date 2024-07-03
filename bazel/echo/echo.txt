@@ -6390,6 +6390,7 @@ enserfment
 elaborators
 ensete
 enshade
+enunciates
 enshadow
 enshawl
 ensheath
@@ -8681,7 +8682,6 @@ equilibrator
 equilibratory
 equilibria
 equilibriate
-enunciates
 equilibrio
 equilibrious
 equilibrist
