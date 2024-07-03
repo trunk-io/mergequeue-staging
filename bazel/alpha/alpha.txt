@@ -6586,7 +6586,6 @@ agrionia
 agrionidae
 agriotes
 arborescent
-agriotype
 agriotypidae
 amoebobacter
 agriotypus
@@ -25207,6 +25206,7 @@ azelfafage
 azeotrope
 azeotropy
 azeotropic
+agriotype
 azeotropism
 azerbaijanese
 azerbaijani
