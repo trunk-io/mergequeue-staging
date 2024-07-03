@@ -1017,7 +1017,6 @@ genospecies
 gammelost
 gammerel
 gammers
-gammerstang
 gammexane
 gammy
 gammock
@@ -10566,6 +10565,7 @@ gaugeably
 glaziness
 gunstone
 gunter
+gammerstang
 gunther
 gynobase
 galactosis
