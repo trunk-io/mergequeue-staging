@@ -12394,7 +12394,6 @@ ancyroid
 ancistrocladaceae
 ancistrocladaceous
 ancistrocladus
-ancistrodon
 ancistroid
 ancle
 ancodont
@@ -19555,6 +19554,7 @@ argillaceous
 argillic
 alliteration
 argilliferous
+ancistrodon
 argillite
 arbtrn
 argilloarenaceous
