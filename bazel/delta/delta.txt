@@ -3237,7 +3237,6 @@ deferentitis
 deferents
 deferment
 deferments
-deferrable
 deferral
 deferrals
 designedness
@@ -7168,6 +7167,7 @@ daishiki
 dogshore
 detectable
 detectaphone
+deferrable
 detected
 detecter
 detecters
