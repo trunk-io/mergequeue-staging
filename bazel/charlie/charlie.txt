@@ -7382,6 +7382,7 @@ cephalopterus
 cephalorhachidian
 cephaloridine
 cephalosome
+cutout
 cephalospinal
 cephalosporin
 cephalosporium
@@ -31848,7 +31849,6 @@ cutocellulose
 cutoff
 cutoffs
 cutose
-cutout
 cutpurse
 conferrable
 cared
