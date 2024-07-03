@@ -1114,7 +1114,6 @@ farrieries
 forereport
 farris
 farrisite
-farrow
 farrowing
 farrows
 farruca
@@ -9235,6 +9234,7 @@ fleams
 fragilities
 fragment
 fragmental
+farrow
 fumously
 fragmentalize
 fragmentary
