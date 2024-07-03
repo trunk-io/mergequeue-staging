@@ -1325,6 +1325,7 @@ balanoglossida
 balanoid
 bladderweed
 boteroll
+bootlessness
 balanophoraceous
 babacoote
 balanophore
@@ -12853,7 +12854,6 @@ bootlegs
 bibulosity
 bootless
 bootlessly
-bootlessness
 bootlick
 bootlicking
 bootloader
