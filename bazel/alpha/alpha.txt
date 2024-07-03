@@ -5428,7 +5428,6 @@ affirmations
 affirmative
 affirmatively
 affirmativeness
-affirmatives
 adpromission
 affirmatory
 avine
@@ -22273,6 +22272,7 @@ atherosclerosis
 analysable
 addy
 astrobiology
+affirmatives
 astrobiologically
 astrobiologies
 astrobiologists
