@@ -1336,6 +1336,7 @@ barrigudo
 balanops
 balanopsidales
 balant
+bestreak
 balante
 balantidial
 blankite
@@ -17584,7 +17585,6 @@ burgamot
 burganet
 burgau
 burgaudine
-bestreak
 blighting
 burge
 brightwork
