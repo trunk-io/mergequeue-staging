@@ -2881,6 +2881,7 @@ chilopods
 cantrip
 cantrips
 coveting
+combre
 clacking
 cantus
 cantut
@@ -19765,7 +19766,6 @@ combo
 comboy
 comboloio
 combos
-combre
 combretaceous
 combs
 cribbed
