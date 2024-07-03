@@ -4429,6 +4429,7 @@ beckiron
 beckon
 beckoned
 bedimpling
+byname
 beckoner
 beckoners
 beckoning
@@ -8774,7 +8775,6 @@ bimuscular
 bin
 bearskins
 binal
-byname
 bynames
 binaphthyl
 binapthyl
