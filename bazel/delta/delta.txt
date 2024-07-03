@@ -829,6 +829,7 @@ danglin
 dangling
 danglingly
 dangs
+downrange
 danian
 danic
 daniel
@@ -6618,7 +6619,6 @@ desiccant
 desiccants
 desiccate
 disprove
-downrange
 desiccated
 desiccation
 desiccations
