@@ -3912,7 +3912,6 @@ adiaphoristic
 adiaphorite
 adiaphoron
 adiaphorous
-adiapneustia
 adiate
 adiated
 adiathermal
@@ -9108,6 +9107,7 @@ allotropes
 allotropy
 allotropic
 allotropical
+adiapneustia
 autosoterism
 amphipodous
 allotropicity
