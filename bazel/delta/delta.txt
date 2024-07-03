@@ -1454,6 +1454,7 @@ dcor
 ddname
 dikaryophasic
 ddt
+divine
 dea
 deaccession
 deacetylated
@@ -10807,7 +10808,6 @@ disfigurer
 directory
 dodging
 directorial
-divine
 directorially
 directors
 directorship
