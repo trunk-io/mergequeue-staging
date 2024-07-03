@@ -7910,7 +7910,6 @@ dextro
 dextroaural
 dextrocardial
 dextrocerebral
-dextrocular
 dextrocularity
 dextrogyrate
 deprogrammings
@@ -13146,6 +13145,7 @@ dyspneas
 dyspneic
 drate
 dyspnoea
+dextrocular
 dyspnoeal
 dyspnoeas
 decayer
