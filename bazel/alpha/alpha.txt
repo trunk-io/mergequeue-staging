@@ -18184,6 +18184,7 @@ agnomen
 aptal
 aptate
 avulsed
+avogram
 aptenodytes
 apter
 affing
@@ -24822,7 +24823,6 @@ agglutinator
 avogadrite
 appellee
 avogadro
-avogram
 avoy
 avoid
 avoidable
