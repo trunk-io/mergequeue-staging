@@ -15655,7 +15655,6 @@ antimason
 antimasonic
 antimasonry
 antimasquerade
-antimaterialism
 antimaterialist
 antimaterialistic
 antimatrimonialist
@@ -25063,6 +25062,7 @@ axers
 axes
 axfetch
 axhammer
+antimaterialism
 axhammered
 axial
 axiality
