@@ -5715,7 +5715,6 @@ engallant
 epistles
 engaol
 engarb
-eremophyte
 engarland
 engarment
 engarrison
@@ -13812,6 +13811,7 @@ extracurial
 echeneid
 eeriness
 extracurricular
+eremophyte
 ensnarer
 extracurriculum
 extracutaneous
