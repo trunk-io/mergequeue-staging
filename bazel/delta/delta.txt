@@ -8307,7 +8307,6 @@ doughs
 dialysation
 dialysed
 defoliations
-dialyser
 dialysers
 dialysing
 dialysis
@@ -13525,6 +13524,7 @@ dolesman
 dissentiency
 dissentiently
 dissentients
+dialyser
 dissenting
 dissentingly
 dissentious
