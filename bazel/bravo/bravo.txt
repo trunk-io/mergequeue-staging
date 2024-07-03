@@ -10614,7 +10614,6 @@ bleariest
 blearily
 besee
 blearness
-blears
 bleat
 bleated
 bleater
@@ -16628,6 +16627,7 @@ buckstone
 bucktail
 bucktails
 buckteeth
+blears
 buckthorn
 bucktooth
 bacterioprecipitin
