@@ -11594,7 +11594,6 @@ choledochectomy
 choledochitis
 choledochoduodenostomy
 choledocholithiasis
-choledocholithotomy
 counteropponent
 choledocholithotripsy
 choledochoplasty
@@ -14199,6 +14198,7 @@ circling
 circocele
 circue
 circuit
+choledocholithotomy
 circuital
 circuited
 circuiteer
