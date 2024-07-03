@@ -11353,7 +11353,6 @@ chlorogenic
 chlorogenine
 chloroguanide
 chlorohydrin
-chlorohydrocarbon
 chlorohydroquinone
 chloroid
 chloroiodide
@@ -17141,6 +17140,7 @@ coagitator
 cury
 coagment
 cetin
+chlorohydrocarbon
 coagmentation
 coagriculturist
 commandatory
