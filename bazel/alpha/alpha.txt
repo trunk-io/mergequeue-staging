@@ -5604,7 +5604,6 @@ afray
 aspirator
 afraid
 afraidness
-aframerican
 afrasia
 afrasian
 antiphonically
@@ -11581,6 +11580,7 @@ ana
 anabaenas
 apotropaism
 anabantidae
+aframerican
 anabaptism
 anabaptist
 anabaptistic
