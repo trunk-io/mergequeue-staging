@@ -3352,7 +3352,6 @@ embale
 emballonurid
 emballonuridae
 embalm
-exposition
 embalmed
 embalmer
 embalmment
@@ -5125,6 +5124,7 @@ epimenidean
 eppie
 entities
 endocellular
+exposition
 enshrine
 edacious
 endoceras

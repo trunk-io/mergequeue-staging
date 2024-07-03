@@ -4165,7 +4165,6 @@ gillaroo
 gillbird
 gilled
 gillenia
-gelechiid
 gali
 giller
 gilles
@@ -5064,6 +5063,7 @@ gladioli
 generalization
 glacieret
 gunlocks
+gelechiid
 gladioluses
 gladys
 gladite
