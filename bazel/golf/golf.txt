@@ -2413,7 +2413,6 @@ greaves
 gablewindowed
 gelations
 geld
-geldability
 geldable
 geldant
 gambit
@@ -3276,6 +3275,7 @@ geostatic
 garote
 geostationary
 gluttonism
+geldability
 geostrategy
 gossamery
 geostrophic
