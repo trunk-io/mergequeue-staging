@@ -17152,7 +17152,6 @@ aplasia
 aplasias
 aplastic
 analysing
-aplectrum
 aplenty
 amesace
 aplysia
@@ -17320,6 +17319,7 @@ apokatastasis
 apokatastatic
 apolar
 apolarity
+aplectrum
 apolaustic
 apolegamic
 apolysin
