@@ -1046,6 +1046,7 @@ farm
 firstfruits
 firnismalerei
 farmage
+finiteness
 farmed
 farmer
 florilegium
@@ -3973,7 +3974,6 @@ finishes
 fortunetell
 finishing
 finitary
-finiteness
 finitesimal
 frab
 fervidor
