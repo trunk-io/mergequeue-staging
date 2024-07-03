@@ -940,7 +940,6 @@ foresay
 farandoles
 faraon
 farasula
-faraway
 farawayness
 farced
 farcelike
@@ -4779,6 +4778,7 @@ flaillike
 flails
 flain
 forearm
+faraway
 flairs
 furdle
 firnification
