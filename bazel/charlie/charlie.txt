@@ -10210,7 +10210,6 @@ chevrette
 chevreuil
 chevrolet
 chevrolets
-chevron
 chevrone
 chevroned
 chevronel
@@ -12482,6 +12481,7 @@ chromiferous
 chromyl
 chrominance
 colloquized
+chevron
 chroming
 chromiole
 chromism
