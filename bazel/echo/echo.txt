@@ -6137,6 +6137,7 @@ enneahedria
 ergonomist
 enneahedron
 enneahedrons
+expire
 enneandrian
 enneandrous
 edgeling
@@ -13138,7 +13139,6 @@ expirator
 estival
 ectropionized
 expiratory
-expire
 exhaustable
 expired
 expirer
