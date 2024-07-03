@@ -4595,7 +4595,6 @@ demiparallel
 delegant
 demipauldron
 doblones
-demipesade
 demipike
 demipillar
 deafen
@@ -5891,6 +5890,7 @@ dendrolagus
 deminude
 depressiveness
 depressives
+demipesade
 depressor
 dactylotheca
 disloyalties
