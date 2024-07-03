@@ -2846,7 +2846,6 @@ genitorial
 genitors
 genitourinary
 geniture
-genitures
 genius
 genizah
 glossalgia
@@ -10253,6 +10252,7 @@ guitarlike
 gateage
 guitars
 guitermanite
+genitures
 geomagnetist
 guitguit
 gestatorium
