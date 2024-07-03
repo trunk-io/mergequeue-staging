@@ -1340,6 +1340,7 @@ barrigudo
 balanops
 balanopsidales
 balant
+beating
 bestreak
 balante
 balantidial
@@ -4228,7 +4229,6 @@ barberite
 beatifies
 body
 beatinest
-beating
 bort
 bedrabbling
 beatings
