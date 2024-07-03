@@ -2074,7 +2074,6 @@ gopherwood
 gazogenes
 grees
 gavelling
-gavelman
 gavelocks
 gavels
 greening
@@ -7754,6 +7753,7 @@ graynesses
 geront
 grainiest
 graininess
+gavelman
 graining
 grainsick
 grainsickness
