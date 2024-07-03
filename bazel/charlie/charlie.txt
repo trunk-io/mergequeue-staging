@@ -14936,7 +14936,6 @@ cytogeny
 cytogenic
 cytogenies
 cytogenous
-cytoglobin
 cytohyaloplasm
 castigable
 commiserate
@@ -24296,6 +24295,7 @@ cricket
 carucal
 cookdom
 cooked
+cytoglobin
 caries
 cookee
 corncutting
