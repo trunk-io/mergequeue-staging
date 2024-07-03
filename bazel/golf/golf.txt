@@ -1513,7 +1513,6 @@ garring
 gerated
 garrisoned
 garrisonian
-garrisoning
 grided
 gleeman
 gouts
@@ -10381,6 +10380,7 @@ gummaking
 gummas
 grills
 gummatous
+garrisoning
 growthless
 gummed
 gummer

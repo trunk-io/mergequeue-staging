@@ -8059,7 +8059,6 @@ epiphanies
 epiphanise
 epiphanised
 epiphanising
-epiphanized
 epiphanous
 epipharyngeal
 encumbering
@@ -12350,6 +12349,7 @@ exegetical
 exegetically
 exegetics
 exegetist
+epiphanized
 exemplar
 exemplary
 exemplaric
