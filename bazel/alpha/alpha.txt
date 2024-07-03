@@ -1958,7 +1958,6 @@ acenesthesia
 acensuada
 acensuador
 acentric
-appendice
 annexable
 agariciform
 acentrous
@@ -7427,6 +7426,7 @@ alary
 alaric
 alarm
 alarmable
+appendice
 alarmclock
 alarmed
 alarmedly
