@@ -2720,7 +2720,6 @@ festschrift
 forwaste
 festschriften
 flots
-festschrifts
 femalize
 faucre
 festshrifts
@@ -7495,6 +7494,7 @@ fyce
 forebridge
 foreburton
 flavoured
+festschrifts
 forebush
 forecabin
 fleetings
