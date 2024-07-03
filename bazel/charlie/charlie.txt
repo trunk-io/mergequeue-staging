@@ -7485,6 +7485,7 @@ ceratoglossus
 ceratohyal
 cacuminous
 ceratohyoid
+changeless
 ceratoid
 ceratomandibular
 ceratomania
@@ -8671,7 +8672,6 @@ cataphyllary
 changefully
 changefulness
 caloricity
-changeless
 cerebricity
 changelessly
 changelessness
