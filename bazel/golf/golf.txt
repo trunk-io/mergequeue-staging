@@ -8079,7 +8079,6 @@ granular
 gomontia
 granulary
 granularity
-granularly
 granulater
 granulates
 granulations
@@ -9512,6 +9511,7 @@ grovelling
 grovellingly
 grovellings
 grovels
+granularly
 glumosity
 grover
 grovers
