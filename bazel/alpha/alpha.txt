@@ -17087,7 +17087,6 @@ apiin
 apikores
 apikoros
 apikorsim
-apilary
 apili
 apimania
 apimanias
@@ -21411,6 +21410,7 @@ asper
 amnesties
 asperate
 asperating
+apilary
 asperation
 aspergation
 asperge
