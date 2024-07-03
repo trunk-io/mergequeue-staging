@@ -2152,6 +2152,7 @@ elasticum
 elastin
 encompassed
 elastivity
+epigastric
 elastomer
 elastomeric
 elastomers
@@ -7834,7 +7835,6 @@ epigastraeum
 epigastral
 epigastria
 epigastrial
-epigastric
 epigastrical
 extrications
 epigastriocele
