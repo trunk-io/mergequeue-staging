@@ -2505,7 +2505,6 @@ caniniform
 caninity
 caninities
 caninus
-canion
 canyon
 canioned
 canions
@@ -9862,6 +9861,7 @@ chemicomechanical
 concurs
 chemicomineralogical
 chemicophysical
+canion
 chemicophysics
 chemicophysiological
 chemics
