@@ -475,6 +475,7 @@ funestal
 fervors
 falces
 falchion
+fanweed
 falcial
 falcidian
 falciform
@@ -891,7 +892,6 @@ fantoms
 foudroyant
 furthy
 fv
-fanweed
 flincher
 fanwork
 fanwort
