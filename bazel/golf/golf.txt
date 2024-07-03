@@ -8838,7 +8838,6 @@ galleryite
 gibboseness
 grenier
 gres
-gressible
 gressoria
 gressorial
 gressorious
@@ -10014,6 +10013,7 @@ gnathopodite
 glick
 guereba
 guidecraft
+gressible
 gutlessness
 glitters
 graniteware

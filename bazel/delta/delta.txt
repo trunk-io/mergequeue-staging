@@ -9255,7 +9255,6 @@ diervilla
 dyes
 dieselize
 dieses
-diesinker
 diesinking
 diesis
 diester
@@ -15335,6 +15334,7 @@ domiciliar
 domiciliary
 domiciliate
 domiciliated
+diesinker
 domiciliating
 domiciliation
 disilluminate
