@@ -3630,7 +3630,6 @@ booky
 bathochromatism
 bathochrome
 bendayed
-bathochromic
 bee
 bathoflore
 batholith
@@ -6159,6 +6158,7 @@ beneficently
 benefices
 brairo
 beneficial
+bathochromic
 beneficialness
 beneficiary
 beneficiaries
