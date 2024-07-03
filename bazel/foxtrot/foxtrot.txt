@@ -1327,6 +1327,7 @@ fatalities
 fatally
 fatalness
 flap
+friggle
 flawflower
 fatback
 flavorsomeness
@@ -2118,7 +2119,6 @@ fellows
 fellowshiping
 fellowshipped
 fellowshipping
-friggle
 fellowships
 fells
 finger
