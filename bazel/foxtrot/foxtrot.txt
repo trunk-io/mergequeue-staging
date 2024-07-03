@@ -2314,7 +2314,6 @@ fenny
 fennici
 fotive
 fennig
-fennish
 fennoman
 flanks
 fenrir
@@ -3482,6 +3481,7 @@ filamentary
 felworts
 filamented
 fimbriated
+fennish
 filamentiferous
 forefended
 filamentoid
