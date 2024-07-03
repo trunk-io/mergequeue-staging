@@ -3980,7 +3980,6 @@ clodpole
 cardiocirrhosis
 cardioclasia
 corduroying
-cardiod
 cardiodilator
 cardiodynamics
 cardiodynia
@@ -19670,6 +19669,7 @@ comagmatic
 comake
 comaker
 comaking
+cardiod
 comal
 cholelithotomy
 comals
