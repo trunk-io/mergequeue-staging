@@ -7130,7 +7130,6 @@ footfault
 filical
 footfeed
 footfolk
-footganger
 footgear
 fillingness
 footglove
@@ -10080,6 +10079,7 @@ fregatae
 frillback
 fumigants
 fibrofatty
+footganger
 frillers
 ferngrower
 federalised

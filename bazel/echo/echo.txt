@@ -948,6 +948,7 @@ esdras
 expelled
 ectotherm
 ectothermic
+elytrous
 ectotoxin
 ectotrophi
 ectotrophic
@@ -9316,7 +9317,6 @@ erotogenicity
 erotographomania
 etymol
 erotomaniac
-elytrous
 erotomaniacal
 eugenol
 erotopathic
