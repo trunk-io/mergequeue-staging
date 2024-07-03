@@ -1187,6 +1187,7 @@ gangtide
 gangue
 ganguela
 gangues
+gladstone
 gangwa
 goby
 gangway
@@ -4161,7 +4162,6 @@ gill
 gillaroo
 gillbird
 gilled
-gladstone
 gillenia
 gelechiid
 gali
