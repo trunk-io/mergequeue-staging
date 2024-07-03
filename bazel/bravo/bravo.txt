@@ -6830,7 +6830,6 @@ bullskin
 berwick
 biconjugate
 blackings
-berzelianite
 berzeliite
 bontee
 bes
@@ -9269,6 +9268,7 @@ belace
 bipedality
 bosques
 bipedism
+berzelianite
 bipeds
 bloodfin
 bipeltate
