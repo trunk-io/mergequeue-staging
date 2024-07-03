@@ -8887,6 +8887,7 @@ characids
 characin
 characine
 characinid
+cocitizen
 characinidae
 characinoid
 characins
@@ -17661,7 +17662,6 @@ cocineras
 cocinero
 cocircular
 cocircularity
-cocitizen
 cocitizenship
 cocytus
 cockade
