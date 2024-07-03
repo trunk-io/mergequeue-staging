@@ -14223,7 +14223,6 @@ alingual
 ante
 anteact
 anteambulate
-anteambulation
 anteater
 antebaptismal
 algology
@@ -19111,6 +19110,7 @@ archmessenger
 aerobics
 autotransplantation
 archmilitarist
+anteambulation
 archmime
 archminister
 archmystagogue
