@@ -3053,7 +3053,6 @@ felafel
 fibromyectomy
 flock
 fibromyoma
-fibromyositis
 flashbacks
 fibromyxosarcoma
 frissons
@@ -8347,6 +8346,7 @@ formalism
 fritting
 formalisms
 formalistically
+fibromyositis
 formaliter
 forestair
 flauntily
