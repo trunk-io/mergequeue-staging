@@ -1478,7 +1478,6 @@ balinese
 bustlingly
 brotchen
 baling
-balinger
 balinghasay
 bodeful
 balisaurs
@@ -13437,6 +13436,7 @@ bandstring
 botulin
 babool
 botulins
+balinger
 burring
 botulinum
 botulinus
