@@ -12812,7 +12812,6 @@ boot
 bootable
 bootblack
 brios
-bootblacks
 baconianism
 booted
 bootees
@@ -15120,6 +15119,7 @@ brickbats
 brickbatted
 brickbatting
 bricked
+bootblacks
 brickel
 bricken
 brickfield
