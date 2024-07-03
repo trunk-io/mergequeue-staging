@@ -6778,6 +6778,7 @@ enthelminthes
 enthelminthic
 entheos
 enthetic
+ecardinal
 enthymematic
 enthymematical
 enthymeme
@@ -13434,7 +13435,6 @@ encounter
 eggs
 evergreenite
 etruscologist
-ecardinal
 exsanguination
 epigaeous
 exsanguine
