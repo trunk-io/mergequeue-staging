@@ -8923,7 +8923,6 @@ bifanged
 besplatter
 biochemistries
 biochemists
-bandoras
 biochore
 biocycle
 biocycles
@@ -17917,6 +17916,7 @@ burundi
 bakersfield
 burushaski
 burut
+bandoras
 burweed
 burweeds
 bus
