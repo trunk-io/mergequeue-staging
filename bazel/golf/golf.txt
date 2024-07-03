@@ -864,7 +864,6 @@ galvaniser
 guydom
 greenage
 gooseneck
-gunmaking
 gambeer
 gambeered
 gambelli
@@ -8245,6 +8244,7 @@ graptolite
 graptolithina
 graptoloidea
 grasni
+gunmaking
 gradatory
 grasp
 graspable
