@@ -4901,7 +4901,6 @@ flanking
 flankwise
 flannelboard
 flannelbush
-fand
 flanneled
 flannelet
 flanneling
@@ -7135,6 +7134,7 @@ frutify
 flippantness
 footy
 footie
+fand
 footier
 footingly
 footings
