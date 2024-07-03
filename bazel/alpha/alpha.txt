@@ -14250,7 +14250,6 @@ antecedes
 anteceding
 antispermotoxin
 antecell
-antechamber
 anelastic
 antechapel
 antechinomys
@@ -17715,6 +17714,7 @@ appeasingly
 affirmly
 appeasive
 appel
+antechamber
 appellability
 appellable
 appellancy
