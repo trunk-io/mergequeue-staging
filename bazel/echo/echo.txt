@@ -3827,6 +3827,7 @@ emendator
 emended
 emender
 emendicate
+excluded
 embowl
 expansometer
 equivocate
@@ -9836,7 +9837,6 @@ esquamulose
 esquiline
 esquimau
 esquire
-excluded
 esquirearchy
 esquired
 esquiredom
