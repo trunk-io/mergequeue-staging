@@ -13835,7 +13835,6 @@ bowses
 bowshots
 bowsie
 bowsman
-bowsprit
 bowsprits
 blueblossom
 bowstaff
@@ -17055,6 +17054,7 @@ bulldoze
 bulldozers
 bulldozes
 borasque
+bowsprit
 bulldozing
 blubberingly
 bulldust

@@ -974,7 +974,6 @@ dolesomeness
 doeling
 darer
 darers
-daresay
 darg
 dargah
 darger
@@ -7255,6 +7254,7 @@ determinations
 determinative
 determinator
 determined
+daresay
 determinedness
 determiner
 determining
