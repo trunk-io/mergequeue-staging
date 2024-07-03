@@ -4848,7 +4848,6 @@ events
 encoronal
 encoronate
 encoronet
-encounter
 encounterable
 encountered
 entitlement
@@ -13434,6 +13433,7 @@ exsanguinate
 exsanguinated
 engin
 exsanguinating
+encounter
 eggs
 evergreenite
 etruscologist
