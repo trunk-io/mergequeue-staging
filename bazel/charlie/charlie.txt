@@ -12880,7 +12880,6 @@ churchdom
 churched
 churchful
 churchgo
-cantative
 churchgoer
 churchgoers
 churchgoing
@@ -20145,6 +20144,7 @@ comminute
 cybercultural
 comminution
 comminutor
+cantative
 commiphora
 commis
 commisce

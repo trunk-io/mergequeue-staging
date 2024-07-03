@@ -7323,7 +7323,6 @@ eolian
 eolipiles
 eduction
 eolith
-eolithic
 eolopile
 eundem
 eolopiles
@@ -11587,6 +11586,7 @@ evictions
 evictor
 evicts
 evidences
+eolithic
 evidencing
 evidencive
 evident
