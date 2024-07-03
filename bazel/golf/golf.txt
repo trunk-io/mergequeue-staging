@@ -5428,7 +5428,6 @@ glycerination
 glycerins
 glumiflorae
 glycerite
-glycerize
 glycerogel
 glycerole
 glycerophosphate
@@ -9679,6 +9678,7 @@ grungier
 grungiest
 glossologies
 gallophilism
+glycerize
 grunion
 galactosemia
 grunions

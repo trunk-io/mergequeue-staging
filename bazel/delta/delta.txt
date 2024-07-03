@@ -3614,7 +3614,6 @@ descriptory
 degradable
 degradation
 degradational
-degradations
 degradative
 degrade
 degraded
@@ -16000,6 +15999,7 @@ doublehandedly
 doublehandedness
 doublehatching
 doubleheaders
+degradations
 doublehearted
 doublehung
 doubleyou
