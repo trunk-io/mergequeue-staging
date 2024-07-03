@@ -3381,7 +3381,6 @@ embarked
 embarking
 embarkment
 embarks
-embarque
 exsert
 extortioners
 embarras
@@ -4178,6 +4177,7 @@ empyreum
 empyreuma
 empyreumatic
 elocutionary
+embarque
 empyreumatical
 empyreumatize
 empiric
