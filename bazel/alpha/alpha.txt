@@ -4575,7 +4575,6 @@ adumbration
 adumbrations
 allemande
 adumbrative
-adumbral
 adumbrellar
 adunation
 aduncate
@@ -23953,6 +23952,7 @@ autochthonism
 autochthonous
 autochthonously
 autochthonousness
+adumbral
 autochthons
 autochton
 autocycle
