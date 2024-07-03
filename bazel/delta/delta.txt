@@ -4458,6 +4458,7 @@ demerse
 demersed
 demesgne
 demesman
+deticker
 dialyse
 demesne
 demesnes
@@ -7288,7 +7289,6 @@ deti
 derelictly
 detick
 deticked
-deticker
 disconnective
 detickers
 deticking

@@ -4007,7 +4007,6 @@ astigmatometer
 adject
 adjection
 adjectional
-adjectitious
 acrorhagus
 adjectival
 adjectivally
@@ -6321,6 +6320,7 @@ acacine
 aglycon
 aglycone
 abusable
+adjectitious
 aglycones
 aglycons
 aglycosuric
