@@ -2703,7 +2703,6 @@ excheat
 equiponderancy
 electrovalent
 electrovection
-electrowinning
 electrum
 elects
 electuary
@@ -3837,6 +3836,7 @@ embowl
 expansometer
 equivocate
 ensandal
+electrowinning
 emending
 emer
 emerald
