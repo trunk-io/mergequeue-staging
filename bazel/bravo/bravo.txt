@@ -463,7 +463,6 @@ backpedaling
 backpiece
 backplane
 backplanes
-backplate
 brasser
 backpointer
 backrest
@@ -1091,6 +1090,7 @@ bobbing
 bailiaries
 becky
 beauclerk
+backplate
 bailie
 bailiery
 bailieries
