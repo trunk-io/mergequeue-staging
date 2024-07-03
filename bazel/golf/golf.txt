@@ -4885,7 +4885,6 @@ gispin
 gist
 geomorphogenic
 gists
-genoa
 git
 genioplasty
 glucolysis
@@ -5017,6 +5016,7 @@ glaciology
 goffer
 gyrostatics
 glaciomarine
+genoa
 glaciometer
 germinant
 glacionatant
