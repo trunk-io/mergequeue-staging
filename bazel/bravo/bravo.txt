@@ -1822,6 +1822,7 @@ balu
 baluba
 baluch
 brittle
+berylline
 barytone
 baluchitheria
 baluchitherium
@@ -6706,7 +6707,6 @@ beleaguer
 beryllate
 bendingly
 beryllia
-berylline
 berylliosis
 beryllium
 beryllonate
