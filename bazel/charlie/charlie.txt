@@ -11590,7 +11590,6 @@ choledocholithiasis
 choledocholithotomy
 choledocholithotripsy
 choledochoplasty
-choledochorrhaphy
 choledochostomy
 choledochostomies
 choledochotomy
@@ -22350,6 +22349,7 @@ congregationist
 congregations
 congregativeness
 congreso
+choledochorrhaphy
 congress
 congressed
 congresser
