@@ -5070,7 +5070,6 @@ endysis
 endite
 endited
 endites
-explicate
 enditing
 electrosynthetic
 eichwaldite
@@ -10214,6 +10213,7 @@ eternising
 eternity
 eternities
 eternization
+explicate
 episcenia
 eternize
 esguard
