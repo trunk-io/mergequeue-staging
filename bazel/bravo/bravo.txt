@@ -1320,7 +1320,6 @@ balanism
 balanite
 balanites
 balanocele
-balanoglossida
 balanoid
 bladderweed
 boteroll
@@ -14038,6 +14037,7 @@ brachypinacoid
 brachypinacoidal
 brachypleural
 benin
+balanoglossida
 blastoporic
 brachypodine
 brachyprism
