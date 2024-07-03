@@ -4096,7 +4096,6 @@ armenia
 adjustor
 adjustoring
 adjustors
-adjusts
 adjutage
 adjutancies
 adjutantship
@@ -11490,6 +11489,7 @@ ampullula
 ampullulae
 ampuls
 amputate
+adjusts
 amputated
 amends
 amputates
