@@ -18121,7 +18121,6 @@ appulsion
 appulsive
 alemonger
 appulsively
-appurtenance
 appurtenances
 alinotum
 appurtenant
@@ -24082,6 +24081,7 @@ autogauge
 autogeneal
 autogeneses
 autogenesis
+appurtenance
 autogenetic
 autogenetically
 autogenic
