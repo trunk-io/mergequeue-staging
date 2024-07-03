@@ -3535,6 +3535,7 @@ filespec
 fibro
 fossores
 filestatus
+float
 filet
 fileting
 filets
@@ -5758,7 +5759,6 @@ flench
 ferratin
 fload
 fizzy
-float
 floatability
 fullage
 forethoughtless
