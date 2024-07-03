@@ -482,7 +482,6 @@ galette
 grantsmanship
 galeus
 galewort
-gavia
 galga
 galgal
 galgulidae
@@ -9638,6 +9637,7 @@ gruyere
 gruiform
 gruiformes
 gruine
+gavia
 grum
 globulinuria
 gingerly
