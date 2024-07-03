@@ -10560,6 +10560,7 @@ chylifactive
 chylifactory
 crosslet
 chylify
+cropweed
 chylific
 chylification
 crossbill
@@ -29790,7 +29791,6 @@ crops
 cropshin
 cropsick
 cropsickness
-cropweed
 croquet
 croqueted
 croquets
