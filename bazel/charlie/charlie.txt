@@ -2132,6 +2132,7 @@ camwood
 can
 canaan
 canaanite
+cycadlike
 chub
 canaanites
 campanero
@@ -13183,7 +13184,6 @@ cicadidae
 cycadiform
 cycadite
 cyanidrosis
-cycadlike
 cycadofilicale
 cycadofilicales
 cycadofilices
