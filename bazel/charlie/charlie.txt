@@ -1937,7 +1937,6 @@ camouflageable
 camouflaged
 camouflager
 camouflagers
-camouflages
 camouflagic
 camouflaging
 camouflet
@@ -25298,6 +25297,7 @@ cornamute
 cornball
 cornbell
 cornbin
+camouflages
 cornbind
 cornbinks
 cornbird
