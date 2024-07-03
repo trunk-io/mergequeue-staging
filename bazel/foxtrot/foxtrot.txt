@@ -6043,7 +6043,6 @@ fadeout
 fertilisability
 floroun
 floruit
-fierte
 floruits
 florula
 florulae
@@ -8300,6 +8299,7 @@ forkiness
 forking
 forkless
 fayed
+fierte
 forklift
 forklifts
 forkman
