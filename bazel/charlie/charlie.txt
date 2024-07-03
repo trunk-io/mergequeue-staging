@@ -3104,7 +3104,6 @@ capitated
 capitatim
 capitation
 clangs
-capitatum
 capite
 capiteaux
 capitellar
@@ -3205,6 +3204,7 @@ cappagh
 capparid
 capparidaceae
 capparidaceous
+capitatum
 capparis
 capped
 cappella
