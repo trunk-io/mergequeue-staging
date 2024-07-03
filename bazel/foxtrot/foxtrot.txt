@@ -3525,7 +3525,6 @@ fasciated
 filemarks
 filemot
 filename
-filenames
 filer
 filers
 filesave
@@ -5260,6 +5259,7 @@ foreknew
 flechettes
 flecken
 flecker
+filenames
 fleckered
 fleckering
 flecky
