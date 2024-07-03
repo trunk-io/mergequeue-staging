@@ -458,7 +458,6 @@ abiogenetical
 abiogenetically
 abiogeny
 abiogenist
-abiogenous
 abiology
 ambulacriform
 abiological
@@ -25140,6 +25139,7 @@ axodendrite
 axofugal
 axogamy
 axoid
+abiogenous
 axoidean
 axolemma
 axolysis
