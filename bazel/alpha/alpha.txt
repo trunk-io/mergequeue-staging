@@ -7531,7 +7531,6 @@ albicans
 autolater
 albicant
 albication
-albicore
 albicores
 albiculi
 albify
@@ -11704,6 +11703,7 @@ anacrustic
 anaculture
 anacusic
 anacusis
+albicore
 anadem
 admonitions
 anthoxanthin
