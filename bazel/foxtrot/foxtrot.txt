@@ -1936,7 +1936,6 @@ feedbin
 feedboard
 feedboxes
 feeded
-feeders
 fagald
 feedhead
 feeding
@@ -7104,6 +7103,7 @@ football
 footballist
 footballs
 footboard
+feeders
 footboards
 friszka
 flocks
