@@ -4890,6 +4890,7 @@ aeolharmonica
 aeolia
 aeolic
 aeolicism
+antimoniate
 aeolid
 aeolidae
 aeolididae
@@ -7669,7 +7670,6 @@ alcahest
 alcahests
 acroama
 alcaiceria
-antimoniate
 alcaid
 ankylorrhinia
 alcaide
