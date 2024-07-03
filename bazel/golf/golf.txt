@@ -3616,6 +3616,7 @@ grilly
 gestapos
 gestate
 gestated
+gristy
 gestates
 gestating
 gestation
@@ -9137,7 +9138,6 @@ gaspiness
 gaudery
 gristbite
 grister
-gristy
 globiferous
 granatite
 gos
