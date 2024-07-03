@@ -5739,6 +5739,7 @@ fordwine
 flitwite
 flivvers
 fornices
+flagstone
 flyway
 flyways
 fissicostate
@@ -10955,7 +10956,6 @@ fulsome
 fulsomely
 fulsomeness
 fulth
-flagstone
 fulup
 frustulose
 formate
