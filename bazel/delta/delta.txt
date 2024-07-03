@@ -2485,7 +2485,6 @@ divisibly
 declassee
 declasses
 declassify
-declassification
 declassifications
 declassifying
 declassing
@@ -17284,6 +17283,7 @@ drome
 dromed
 dromedary
 dwelled
+declassification
 dromedaries
 drometer
 dromic

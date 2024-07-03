@@ -347,7 +347,6 @@ backchat
 backchats
 bulls
 backcomb
-bucculae
 backcourt
 backcourtman
 biorhythmicities
@@ -16264,6 +16263,7 @@ bankroller
 brulzies
 brum
 brumaire
+bucculae
 brumbee
 brumbies
 bittie
