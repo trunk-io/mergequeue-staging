@@ -7526,7 +7526,6 @@ dipsaceae
 devaporation
 devaraja
 devarshi
-devas
 dekle
 devast
 devastate
@@ -8898,6 +8897,7 @@ deltohedra
 dichocarpous
 dichogamy
 dichogamic
+devas
 dichogamous
 dichopodial
 dichoptic
