@@ -4558,7 +4558,6 @@ fivish
 fix
 flourisher
 fixable
-fixage
 fixate
 fixated
 fixatifs
@@ -5320,6 +5319,7 @@ fleeches
 floristic
 fortieth
 featherbedding
+fixage
 fleechment
 fleecy
 fleecier
