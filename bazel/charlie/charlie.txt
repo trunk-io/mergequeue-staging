@@ -4236,6 +4236,7 @@ cariform
 centrodesmus
 cariyo
 coccidia
+curvatures
 curialistic
 carillon
 carilloneur
@@ -31582,7 +31583,6 @@ curvated
 curvation
 curvative
 curvature
-curvatures
 curve
 curveball
 curved
