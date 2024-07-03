@@ -146,6 +146,7 @@ grampus
 gaelicist
 gaelicization
 gaelicize
+goatskin
 gaels
 gaeltacht
 gaen
@@ -1988,7 +1989,6 @@ gauges
 gaupus
 genitives
 getters
-goatskin
 gainless
 gaulding
 geobotany

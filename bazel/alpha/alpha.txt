@@ -1732,7 +1732,6 @@ accordance
 accordances
 accordancy
 accordant
-accordantly
 accordatura
 amphiphloic
 accordaturas
@@ -16903,6 +16902,7 @@ aphanozygous
 apharsathacites
 aphasia
 aphasias
+accordantly
 aphasic
 aphasics
 aphelandra
