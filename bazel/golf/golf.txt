@@ -5967,6 +5967,7 @@ glossoscopy
 glossospasm
 glossosteresis
 glossotomy
+globulous
 glottal
 glottalite
 glottalization
@@ -8229,7 +8230,6 @@ grapple
 grappled
 grappler
 grapples
-globulous
 grappling
 grapsidae
 grapsoid
