@@ -1629,6 +1629,7 @@ ballyrag
 ballyrags
 ballised
 ballism
+bipartite
 braggite
 ballismus
 ballista
@@ -9249,7 +9250,6 @@ bipartisan
 bipartisanship
 badminton
 baltic
-bipartite
 bipartitely
 bipartition
 bipartizan
