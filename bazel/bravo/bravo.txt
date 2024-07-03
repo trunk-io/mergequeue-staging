@@ -956,7 +956,6 @@ bagobo
 bagonet
 bagong
 bagoong
-bagpipe
 bagpiped
 bijou
 bagpiper
@@ -1872,6 +1871,7 @@ banaba
 banago
 blancmanger
 banagos
+bagpipe
 banak
 banal
 banality
