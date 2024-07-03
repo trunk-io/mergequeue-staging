@@ -8073,7 +8073,6 @@ amblycephalus
 alewife
 alewives
 alex
-alexander
 alexanders
 alexandra
 alexandreid
@@ -18425,6 +18424,7 @@ arach
 anthrachrysone
 arache
 arachic
+alexander
 arachide
 arachidic
 arachin
