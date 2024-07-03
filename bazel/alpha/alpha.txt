@@ -1626,7 +1626,6 @@ acclimatation
 acclimate
 absinthian
 acclimated
-acclimatement
 acclimates
 acclimating
 acclimation
@@ -5289,6 +5288,7 @@ aetian
 aetiogenic
 aetiology
 aetiologically
+acclimatement
 aetiologist
 aetiologue
 aetiophyllin
