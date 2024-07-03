@@ -1598,7 +1598,6 @@ accipiter
 asperness
 accipitral
 accipitrary
-accipitrine
 accipter
 accise
 amidic
@@ -4145,6 +4144,7 @@ admen
 admetus
 auxanology
 admi
+accipitrine
 adenomatous
 admin
 adminicle
