@@ -307,7 +307,6 @@ backare
 backarrow
 backarrows
 backband
-backbar
 backbear
 bar
 balanorrhagia
@@ -14699,6 +14698,7 @@ brawn
 belemnite
 brawned
 branchiura
+backbar
 brawner
 brawny
 brawniness
