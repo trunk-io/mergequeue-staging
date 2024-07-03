@@ -15297,7 +15297,6 @@ cyanoplatinite
 claims
 claimsman
 clayoquot
-claypan
 claypans
 clair
 clairaudience
@@ -24750,6 +24749,7 @@ coprolaliac
 coprolite
 coprolith
 coalification
+claypan
 coprolitic
 coprology
 copromisor
