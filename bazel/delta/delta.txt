@@ -2396,7 +2396,6 @@ decimestrial
 decimeter
 decimeters
 daybreaks
-decimolar
 decouples
 daysman
 decimole
@@ -17124,6 +17123,7 @@ drill
 drillability
 demosthenic
 drillable
+decimolar
 drilled
 driller
 dromaeognathous
