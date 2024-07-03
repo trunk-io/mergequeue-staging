@@ -6694,7 +6694,6 @@ foenngreek
 flysch
 foes
 followable
-foeship
 fast
 foetal
 foetalism
@@ -8973,6 +8972,7 @@ fountainwise
 fountful
 founts
 figbird
+foeship
 fouquieria
 fouquieriaceae
 forspread
