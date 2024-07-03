@@ -2376,7 +2376,6 @@ ectocuneiform
 entrez
 electrocuting
 epopees
-electrocution
 edacities
 electrocutional
 eimer
@@ -6023,6 +6022,7 @@ enki
 enkidu
 enkindler
 enkindles
+electrocution
 evacuated
 euhemerism
 earlobes
