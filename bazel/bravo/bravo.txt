@@ -2741,7 +2741,6 @@ benzylic
 berthed
 bavius
 barkpeeler
-bijugate
 barkpeeling
 barksome
 barkstone
@@ -4899,6 +4898,7 @@ beef
 beefalo
 beefaloes
 bogyisms
+bijugate
 beefalos
 bagie
 beefburgers
