@@ -8778,6 +8778,7 @@ binary
 binaries
 binate
 binately
+blechnum
 bination
 bafyot
 bermensch
@@ -10626,7 +10627,6 @@ blebby
 baitfish
 batel
 blechnoid
-blechnum
 bleck
 bled
 borderlands
