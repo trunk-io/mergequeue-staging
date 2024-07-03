@@ -14586,7 +14586,6 @@ anthozoan
 anthozoic
 allopathy
 anthozoon
-anthracaemia
 anthracemia
 anthracia
 anthracic
@@ -23887,6 +23886,7 @@ autoanticomplement
 autoantitoxin
 autoasphyxiation
 alterableness
+anthracaemia
 arborist
 apologetically
 autoaspiration
