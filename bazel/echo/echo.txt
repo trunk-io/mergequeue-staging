@@ -2878,6 +2878,7 @@ elevators
 entradas
 embrued
 elevatory
+expoundable
 escalators
 elevenfold
 euphemism
@@ -13323,7 +13324,6 @@ exposure
 envassalage
 exposures
 expound
-expoundable
 expounder
 episcenium
 expounding
