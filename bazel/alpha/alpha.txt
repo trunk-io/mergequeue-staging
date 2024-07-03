@@ -18634,7 +18634,6 @@ arboret
 arboreta
 arboretums
 arbory
-armpit
 arboricole
 arboricoline
 arboricolous
@@ -24406,6 +24405,7 @@ ambushing
 autosyn
 autosyndesis
 appreciable
+armpit
 autosite
 autosled
 autoslip

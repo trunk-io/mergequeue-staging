@@ -12005,7 +12005,6 @@ candles
 curarized
 convection
 chorism
-chorisos
 chorist
 choristate
 chorister
@@ -28986,6 +28985,7 @@ chandrakanta
 celsitude
 cricoarytenoid
 cricoid
+chorisos
 cricoids
 cricopharyngeal
 cricothyreoid
