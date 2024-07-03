@@ -11578,7 +11578,6 @@ cozies
 cholecystnephrostomy
 cholecystocolostomy
 cholecystocolotomy
-cholecystoduodenostomy
 cholecystogastrostomy
 cholecystogram
 cholecystography
@@ -23427,6 +23426,7 @@ contemporariness
 contemporise
 contemporised
 contemporising
+cholecystoduodenostomy
 contemporize
 contemporized
 contemporizing
