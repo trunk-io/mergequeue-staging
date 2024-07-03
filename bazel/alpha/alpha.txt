@@ -3184,7 +3184,6 @@ actinomycosis
 actinomycosistic
 actinomyxidia
 actinomyxidiida
-actinomorphy
 actinomorphic
 actinomorphous
 actinon
@@ -24956,6 +24955,7 @@ awd
 awe
 aweary
 awearied
+actinomorphy
 aweband
 awed
 awedly
