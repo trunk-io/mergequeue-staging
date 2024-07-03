@@ -257,7 +257,6 @@ divorcee
 daftness
 daftnesses
 dagaba
-dagame
 dagassa
 dagbane
 dagesh
@@ -3500,6 +3499,7 @@ defraudment
 defrauds
 dusttight
 drammage
+dagame
 disrelated
 defrication
 defrock
