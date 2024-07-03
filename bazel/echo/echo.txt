@@ -4935,7 +4935,6 @@ encumbrous
 encup
 encushion
 endable
-endamage
 endamageable
 endamaged
 epigraphist
@@ -9885,6 +9884,7 @@ euphrosyne
 essentialized
 erythroblastotic
 essentially
+endamage
 essentialness
 essentiate
 ethnopsychology
