@@ -4149,7 +4149,6 @@ buoyage
 bronchomotor
 bearfoot
 bearfoots
-bearherd
 bearhug
 bearhugs
 bearing
@@ -6257,6 +6256,7 @@ basural
 bumbler
 bargainee
 beautician
+bearherd
 benshea
 benshee
 benshi

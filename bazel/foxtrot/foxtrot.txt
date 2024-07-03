@@ -969,7 +969,6 @@ floorcloths
 fathomage
 fiefdoms
 farcinoma
-farcist
 farctate
 fard
 fardage
@@ -3816,6 +3815,7 @@ finalization
 finalized
 finalizes
 fraternized
+farcist
 fourstrand
 fermery
 fortilage
