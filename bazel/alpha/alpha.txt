@@ -6213,7 +6213,6 @@ aggressors
 attacking
 aggry
 aggrievance
-aggrieve
 aggrieved
 aggrievedly
 aggrievedness
@@ -10259,6 +10258,7 @@ ambulances
 ambulancing
 ambulant
 ambulante
+aggrieve
 ambulantes
 antihierarchical
 ambulate
