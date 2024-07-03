@@ -943,7 +943,6 @@ faraon
 farasula
 faraway
 farawayness
-farce
 farced
 farcelike
 farcemeat
@@ -2966,6 +2965,7 @@ fiberization
 fiberize
 fernlike
 fiberized
+farce
 fiberizer
 fiberizes
 fussily
