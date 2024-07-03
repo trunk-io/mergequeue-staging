@@ -3013,7 +3013,6 @@ acronymous
 acronyms
 acronomy
 acrook
-acroparalysis
 acroparesthesia
 acropathy
 aleuronic
@@ -18378,6 +18377,7 @@ arabesques
 arbiters
 abscised
 araby
+acroparalysis
 arabia
 arabian
 arabianize
