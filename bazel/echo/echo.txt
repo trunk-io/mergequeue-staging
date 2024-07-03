@@ -5646,7 +5646,6 @@ embattling
 enfolden
 enfolder
 enfolding
-enfoldings
 enfolds
 electrobrasser
 enfonce
@@ -7108,6 +7107,7 @@ entrike
 entryman
 entrymen
 entryways
+enfoldings
 electrodeless
 entrochite
 entropy
