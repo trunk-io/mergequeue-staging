@@ -4938,6 +4938,7 @@ ferrite
 flapmouthed
 flappable
 flapped
+flightworthy
 flapper
 flapperdom
 flapperish
@@ -5561,7 +5562,6 @@ flightless
 forepassed
 flights
 flightshot
-flightworthy
 flying
 flyings
 flyleaf
