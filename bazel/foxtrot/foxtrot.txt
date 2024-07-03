@@ -2297,7 +2297,6 @@ farmyardy
 fenianism
 fenks
 fenland
-fenman
 fiercen
 fenmen
 fennec
@@ -5107,6 +5106,7 @@ flatwash
 footpaddery
 fruiter
 flatweed
+fenman
 flatwise
 frontate
 flatwoods
