@@ -37,7 +37,6 @@ enlay
 ecphonesis
 eardropper
 embrasure
-ericeticolous
 eardrum
 eardrums
 egyptize
@@ -6349,6 +6348,7 @@ enruin
 ens
 elodeas
 ensafe
+ericeticolous
 ensalada
 ensample
 elenchtic
