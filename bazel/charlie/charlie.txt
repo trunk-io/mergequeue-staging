@@ -11609,7 +11609,6 @@ cholent
 cholents
 choleokinase
 comforter
-cholepoietic
 cooks
 choler
 crance
@@ -28418,6 +28417,7 @@ creaks
 cappelletti
 cream
 creambush
+cholepoietic
 creamcup
 creamcups
 creamed
