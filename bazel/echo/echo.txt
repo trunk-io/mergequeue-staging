@@ -11326,7 +11326,6 @@ evacuees
 evadable
 entoolitic
 enserfed
-evade
 evaded
 evader
 evades
@@ -13873,6 +13872,7 @@ extrameridian
 extrameridional
 extrametaphysical
 enterostenosis
+evade
 equiaxed
 exhalation
 extrametrical

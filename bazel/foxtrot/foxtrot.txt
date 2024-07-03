@@ -3633,7 +3633,6 @@ filister
 filisters
 filite
 filius
-florescence
 friesish
 fillable
 flyspecking
@@ -3915,6 +3914,7 @@ fingerleaf
 fingerless
 fallers
 fingerlet
+florescence
 fingerling
 fuliguline
 factorization
