@@ -5002,7 +5002,6 @@ beestings
 beestride
 beeswax
 beeswaxes
-beloid
 beeswinged
 beeswings
 beet
@@ -8278,6 +8277,7 @@ bifrost
 bifteck
 bifunctional
 bifurcal
+beloid
 bonneted
 bifurcated
 benefactrix
