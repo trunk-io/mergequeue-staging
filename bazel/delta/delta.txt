@@ -5307,6 +5307,7 @@ dentes
 dentex
 denty
 daraf
+docketing
 dentical
 denticate
 deifiers
@@ -14693,7 +14694,6 @@ docker
 dockers
 docket
 docketed
-docketing
 dockets
 dockhand
 dockhands
