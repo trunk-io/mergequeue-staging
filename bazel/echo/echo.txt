@@ -1205,7 +1205,6 @@ education
 educationable
 educational
 educationalist
-educationally
 educationese
 educationist
 efflorescing
@@ -6780,6 +6779,7 @@ enthral
 enthralldom
 eveners
 endolithic
+educationally
 enthralled
 enthralling
 enthrallment
