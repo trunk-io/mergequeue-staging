@@ -8550,7 +8550,6 @@ epulosis
 epural
 eq
 equability
-equable
 equableness
 equably
 equal
@@ -14117,6 +14116,7 @@ extrusions
 extrusive
 extubation
 extuberance
+equable
 exsection
 extuberant
 elusoriness
