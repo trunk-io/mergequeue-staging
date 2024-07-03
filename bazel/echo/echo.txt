@@ -3416,7 +3416,6 @@ entrust
 embatholithic
 experimently
 embattle
-embattled
 embattlement
 emphractic
 embden
@@ -9283,6 +9282,7 @@ erythrulose
 empowers
 erosions
 erosive
+embattled
 evanid
 erosiveness
 erosivity
