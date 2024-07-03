@@ -4002,7 +4002,6 @@ delesseria
 delesseriaceae
 delesseriaceous
 delete
-deleted
 deleter
 deletery
 deleterious
@@ -8076,6 +8075,7 @@ diabolology
 diabolonian
 diabolos
 diabolus
+deleted
 danaite
 diabrosis
 diabrotica
