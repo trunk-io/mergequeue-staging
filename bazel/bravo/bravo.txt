@@ -4109,7 +4109,6 @@ beansetter
 beanstalk
 bien
 bacteroidal
-beanstalks
 bibbs
 beaproned
 bear
@@ -4599,6 +4598,7 @@ bedbug
 bedbugs
 bedcase
 bravish
+beanstalks
 bedchair
 bedchairs
 bedchamber
