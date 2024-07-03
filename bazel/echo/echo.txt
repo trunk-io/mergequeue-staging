@@ -8764,7 +8764,6 @@ equips
 equipt
 equiradial
 equiradiate
-equiradical
 equiseta
 encharm
 equisetaceae
@@ -11213,6 +11212,7 @@ eurocentric
 encaustic
 euroclydon
 embar
+equiradical
 engorgement
 embark
 europasian
