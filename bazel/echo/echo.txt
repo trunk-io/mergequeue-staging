@@ -1408,7 +1408,6 @@ effigiation
 effigies
 eductive
 effiguration
-exclosure
 efflation
 effleurage
 effloresce
@@ -10832,6 +10831,7 @@ epitomized
 eutaxies
 eugenesic
 expulsed
+exclosure
 eugenetic
 eugeny
 elephantic
