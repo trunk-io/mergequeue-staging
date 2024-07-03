@@ -3821,7 +3821,6 @@ emeership
 emeline
 emend
 emendandum
-emendated
 ekerite
 eucaryotic
 escutcheon
@@ -11667,6 +11666,7 @@ evocators
 excreted
 evodia
 epanorthotic
+emendated
 evoe
 eleut
 evokers

@@ -4143,6 +4143,7 @@ dromedarist
 disbanded
 delineative
 delinquence
+disacknowledgement
 delinquency
 delinquencies
 delinquently
@@ -10914,7 +10915,6 @@ disaccredit
 disaccustomedness
 disacidify
 disacidified
-disacknowledgement
 disacknowledgements
 dysacousia
 dysacousis
