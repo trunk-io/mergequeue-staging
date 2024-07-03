@@ -5208,7 +5208,6 @@ degermed
 downcast
 denounce
 denounced
-denouncement
 differentially
 denouncements
 digladiate
@@ -18012,6 +18011,7 @@ dulcinea
 dulcinist
 dulcite
 dulcity
+denouncement
 deergrass
 dulcor
 dulcorate
