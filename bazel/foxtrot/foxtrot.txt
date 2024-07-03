@@ -5943,7 +5943,6 @@ ferbam
 floppiness
 flops
 flopwing
-fumblingness
 foredooming
 flora
 fleckled
@@ -9273,6 +9272,7 @@ fray
 fraicheur
 fossor
 fraid
+fumblingness
 frayed
 frayedly
 forrader
