@@ -5670,6 +5670,7 @@ globe
 globed
 globefish
 globeflower
+guppies
 globelet
 globelike
 globes
@@ -10586,7 +10587,6 @@ gup
 gramashes
 guppy
 guileless
-guppies
 gerbo
 guptavidya
 gyropilot
