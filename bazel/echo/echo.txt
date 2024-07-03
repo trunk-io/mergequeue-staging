@@ -3929,7 +3929,6 @@ emigrate
 emigrates
 emigrating
 enfever
-emigration
 emigrational
 emigrationist
 emigrative
@@ -7003,6 +7002,7 @@ enigmatical
 entrains
 edictum
 entrammel
+emigration
 entranced
 entrancedly
 euryhaline
