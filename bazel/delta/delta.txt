@@ -6913,6 +6913,7 @@ despoiler
 despoilers
 darabukka
 dangering
+dropwise
 dogfaces
 devorative
 despoils
@@ -17406,7 +17407,6 @@ dropsywort
 dropsonde
 dismarshall
 dropvie
-dropwise
 disembitter
 droschken
 downstream

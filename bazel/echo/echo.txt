@@ -5002,7 +5002,6 @@ endbrains
 enddamage
 enddamaged
 enddamaging
-ende
 endear
 endearance
 exfoliatory
@@ -8498,6 +8497,7 @@ epop
 epopoean
 epopoeia
 epopoeias
+ende
 epopoeist
 epoptist
 ensignship
