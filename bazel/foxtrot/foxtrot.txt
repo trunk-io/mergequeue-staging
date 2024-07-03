@@ -3976,7 +3976,6 @@ finishes
 fortunetell
 finishing
 finitary
-finite
 finiteness
 finitesimal
 frab
@@ -6077,6 +6076,7 @@ flossiest
 foliar
 fructuate
 flossing
+finite
 flot
 flota
 flotages
