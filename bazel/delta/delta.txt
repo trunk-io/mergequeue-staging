@@ -772,7 +772,6 @@ dandification
 dandifying
 dandyish
 dandyishy
-dandyishly
 dandyism
 dandily
 dandyling
@@ -8109,6 +8108,7 @@ diarch
 diachylum
 diachyma
 diachrony
+dandyishly
 diachronic
 diachronically
 diacids
