@@ -8330,6 +8330,7 @@ epitaphless
 epitaphs
 epitases
 expurgative
+excentral
 epitasis
 epitaxy
 epitaxial
@@ -11969,7 +11970,6 @@ excelsin
 estop
 excelsior
 earnie
-excentral
 excentric
 excentrical
 expeditions
