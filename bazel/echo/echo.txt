@@ -138,7 +138,6 @@ earsh
 earshell
 eremochaeta
 earshot
-earshots
 earsore
 earsplitting
 earspool
@@ -10373,6 +10372,7 @@ ethylenediamine
 ethylenically
 entoptic
 ethylenimine
+earshots
 ethylenoid
 eaglehawk
 ethylhydrocupreine
