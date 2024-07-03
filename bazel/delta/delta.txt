@@ -4017,7 +4017,6 @@ dwined
 deleteriousness
 duende
 deletes
-deleting
 deletion
 derm
 deletive
@@ -12736,6 +12735,7 @@ dysmenorrhoeal
 dismerit
 dysmerogenesis
 dysmeromorph
+deleting
 dysmeromorphic
 dismes
 dysmetria
