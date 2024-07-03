@@ -3509,7 +3509,6 @@ gastful
 geromorphism
 geronomite
 gerontal
-gerontes
 gerontic
 gerontine
 gerontism
@@ -7584,6 +7583,7 @@ graced
 grousing
 graceful
 garpike
+gerontes
 ghostship
 gracefuller
 gracefully
