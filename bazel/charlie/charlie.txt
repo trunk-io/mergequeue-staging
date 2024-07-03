@@ -15766,7 +15766,6 @@ clavichord
 contacting
 clavichordists
 cornuto
-clavichords
 clavicylinder
 clavicytheria
 clavicytherium
@@ -27390,6 +27389,7 @@ coyish
 courtesied
 courtesies
 courtesying
+clavichords
 courtezan
 courtezanry
 courtezanship
