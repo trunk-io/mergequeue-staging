@@ -11097,6 +11097,7 @@ extramural
 euplectella
 etruscans
 euplexoptera
+exonym
 euploeinae
 euploid
 euploidy
@@ -12735,7 +12736,6 @@ emparadise
 ensanguined
 exoneural
 exonian
-exonym
 exonuclease
 exopathic
 exophagy
