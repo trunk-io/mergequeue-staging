@@ -1783,7 +1783,6 @@ archon
 accountantship
 accounter
 accounters
-accountrement
 accounts
 accouple
 accouplement
@@ -3559,6 +3558,7 @@ addiment
 adding
 avertin
 addio
+accountrement
 addis
 addison
 addisonian
