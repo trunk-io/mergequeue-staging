@@ -4935,7 +4935,6 @@ encumbered
 encumberer
 encumberingly
 encumberment
-encumbers
 encumbrance
 electrometeor
 encumbrancer
@@ -9285,6 +9284,7 @@ erosiveness
 erosivity
 electrophoresed
 extravaganzas
+encumbers
 erotema
 escaloped
 eroteme
