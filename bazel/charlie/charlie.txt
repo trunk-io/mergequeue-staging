@@ -5914,7 +5914,6 @@ cathodically
 cathodograph
 cathodography
 cathodoluminescence
-cathodoluminescent
 cathograph
 cathography
 cathole
@@ -8191,6 +8190,7 @@ chainsman
 chenier
 chainsmen
 cadweed
+cathodoluminescent
 chainwale
 chayota
 chayote
