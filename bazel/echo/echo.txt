@@ -836,6 +836,7 @@ ectatic
 ectene
 ectental
 ectepicondylar
+equinumerally
 ecteron
 ectethmoid
 ectethmoidal
@@ -8715,7 +8716,6 @@ enhancement
 enchodus
 educatability
 existents
-equinumerally
 ethrogs
 equip
 equipaga
