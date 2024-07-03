@@ -7292,7 +7292,6 @@ exceed
 enzyme
 enzymes
 enzymic
-enzymically
 exiguous
 enzymolysis
 enzymolytic
@@ -12799,6 +12798,7 @@ exorcize
 equivocacies
 exorcized
 elongates
+enzymically
 exorcizement
 exorcizer
 exorcizing
