@@ -3800,7 +3800,6 @@ battues
 battuta
 batholite
 battutos
-backcloth
 batukite
 batule
 batuque
@@ -9615,6 +9614,7 @@ bisector
 bisectors
 bisectrices
 bisects
+backcloth
 bisegment
 barringer
 bisellia
