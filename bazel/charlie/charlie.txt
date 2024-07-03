@@ -2322,6 +2322,7 @@ candida
 candidacy
 candidate
 candidated
+croucher
 candidates
 candidateship
 candidating
@@ -29981,7 +29982,6 @@ crottle
 crouchant
 crouchback
 crouche
-croucher
 crouches
 crouchie
 cahnite
