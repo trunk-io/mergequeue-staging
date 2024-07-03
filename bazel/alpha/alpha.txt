@@ -8378,7 +8378,6 @@ algicidal
 affirm
 alights
 aligned
-aligners
 aligning
 auscultator
 anisated
@@ -21326,6 +21325,7 @@ asyzygetic
 ask
 askable
 askance
+aligners
 askant
 askapart
 askar
