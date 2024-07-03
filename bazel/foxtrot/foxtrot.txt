@@ -2860,7 +2860,6 @@ feudists
 foglietto
 feudovassalism
 feuds
-feudum
 feuillage
 feuillants
 feuille
@@ -10249,6 +10248,7 @@ frizzily
 forepaling
 frizziness
 frostfish
+feudum
 fetisheer
 faunology
 favoritism
