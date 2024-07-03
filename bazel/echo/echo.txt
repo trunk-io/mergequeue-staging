@@ -1769,7 +1769,6 @@ eyedness
 eyednesses
 eyedot
 elanus
-elvis
 epicureanism
 eyedrop
 eyedropper
@@ -11531,6 +11530,7 @@ evergreen
 every
 everyday
 electrolyzing
+elvis
 everydayness
 everyhow
 everylike
