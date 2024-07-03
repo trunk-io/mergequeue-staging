@@ -5167,7 +5167,6 @@ befringes
 bate
 befrocked
 befrounce
-befrumple
 befuddle
 befuddled
 befuddlement
@@ -13492,6 +13491,7 @@ bougie
 bouillabaisse
 bouillone
 bouk
+befrumple
 boukit
 boul
 boulanger
