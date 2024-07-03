@@ -27263,7 +27263,6 @@ counterwrite
 committee
 centare
 countesses
-county
 countian
 countians
 counties
@@ -28757,6 +28756,7 @@ crepitate
 crepitated
 crepitating
 crumblings
+county
 crepitation
 copalchi
 crepitus
