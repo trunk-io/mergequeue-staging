@@ -1774,7 +1774,6 @@ gastroduodenostomies
 gastroduodenotomy
 gastroelytrotomy
 gastroenteralgia
-geochemically
 gastroenteric
 gastroenteritic
 geomedicine
@@ -2629,6 +2628,7 @@ genepi
 genera
 generable
 geisotherm
+geochemically
 generableness
 generalate
 generalcy
