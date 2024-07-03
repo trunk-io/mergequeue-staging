@@ -4463,7 +4463,6 @@ demesne
 demesnes
 demesnial
 demetallize
-demeter
 demethylate
 demethylchlortetracycline
 demetricize
@@ -17518,6 +17517,7 @@ drugged
 drugger
 dramatizer
 duplon
+demeter
 deliverability
 dishonourably
 druggery
