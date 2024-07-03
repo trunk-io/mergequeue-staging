@@ -5324,7 +5324,6 @@ glean
 gleanable
 gleaned
 gleaner
-gleaners
 gleaning
 growl
 grammar
@@ -8996,6 +8995,7 @@ grimiest
 grimily
 grimines
 globosite
+gleaners
 griminess
 grimm
 grimme
