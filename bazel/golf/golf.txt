@@ -1830,7 +1830,6 @@ gastrolytic
 grumping
 gastrolobium
 gastrologer
-gastrology
 gaseousness
 gastrological
 geoffroyine
@@ -2583,6 +2582,7 @@ gemutlichkeit
 geogenic
 gemwork
 gen
+gastrology
 gena
 glyptal
 guardsmen
