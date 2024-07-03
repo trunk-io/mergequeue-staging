@@ -6084,6 +6084,7 @@ geebung
 gimmick
 gluconeogenic
 glucoprotein
+goback
 glucosamine
 glucosazone
 glucose
@@ -6430,7 +6431,6 @@ goave
 goaves
 gob
 galactometer
-goback
 goban
 guzzling
 gnocchi
