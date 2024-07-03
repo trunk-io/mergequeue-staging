@@ -3444,6 +3444,7 @@ adamantoblast
 adamantoblastoma
 adamantoid
 adamantoma
+alfred
 adamants
 adamas
 adamastor
@@ -8125,7 +8126,6 @@ alfonsin
 alforge
 alforja
 alforjas
-alfred
 aloedary
 awaken
 alfresco
