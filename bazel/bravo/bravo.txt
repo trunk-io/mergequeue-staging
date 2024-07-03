@@ -15918,7 +15918,6 @@ bronchocephalitis
 bronchoconstriction
 bronchoconstrictor
 bronchodilatation
-bronchodilator
 bronchoegophony
 bronchoesophagoscopy
 bronchogenic
@@ -17660,6 +17659,7 @@ burgoyne
 buddleias
 belabour
 burgomaster
+bronchodilator
 befriendment
 burgomasters
 burgomastership
