@@ -16394,6 +16394,7 @@ antistrumatic
 antisubmarine
 antisubstance
 antisudoral
+assimilator
 antisudorific
 antisuffragist
 antisun
@@ -21811,7 +21812,6 @@ aerophobia
 assimilationist
 assimilative
 assimilativeness
-assimilator
 alluminor
 assimilatory
 assimulate
