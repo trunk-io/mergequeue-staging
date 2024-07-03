@@ -6795,7 +6795,6 @@ berrypicker
 binominal
 berrugate
 bersagliere
-bersaglieri
 berseem
 berserk
 barat
@@ -10004,6 +10003,7 @@ bacteriopathology
 bixin
 biz
 byzant
+bersaglieri
 byzantian
 byzantinesque
 byzantinize
