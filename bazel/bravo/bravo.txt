@@ -1213,6 +1213,7 @@ bakeboard
 baked
 bakehouse
 brachycrany
+ballflower
 bakehouses
 bactericidin
 bakelize
@@ -1598,7 +1599,6 @@ balletomania
 ballets
 ballett
 ballfield
-ballflower
 bummie
 browny
 ballgame
