@@ -6496,7 +6496,6 @@ ceboid
 ceboids
 cebollite
 cebur
-colutea
 chitosans
 caseating
 cebus
@@ -24692,6 +24691,7 @@ coppersmithing
 copperware
 copperworks
 coppet
+colutea
 coppy
 caputium
 coppiced
