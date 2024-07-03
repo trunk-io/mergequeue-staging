@@ -5993,6 +5993,7 @@ catmints
 catnache
 chowder
 catnaper
+clusterfist
 catnapers
 countrified
 catnapping
@@ -16971,7 +16972,6 @@ clusiaceae
 cluster
 clusterberry
 clustered
-clusterfist
 ceres
 clustery
 clustering

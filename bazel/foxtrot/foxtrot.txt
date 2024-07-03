@@ -3526,7 +3526,6 @@ filename
 filenames
 filer
 filers
-filesave
 filemaker
 foliature
 filespec
@@ -10773,6 +10772,7 @@ frenetic
 faroelite
 fuage
 fub
+filesave
 fubbed
 flatteur
 fubby
