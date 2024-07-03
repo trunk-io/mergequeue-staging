@@ -8841,7 +8841,6 @@ chapmen
 chapon
 chapote
 cheyennes
-chapourn
 chapournet
 chapournetted
 chappal
@@ -18053,6 +18052,7 @@ coenamored
 coenamoring
 catalatic
 coenamorment
+chapourn
 coenamourment
 coenanthium
 coendidae
