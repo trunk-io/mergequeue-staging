@@ -2740,6 +2740,7 @@ genethliatic
 genethlic
 genetic
 geneticism
+genotypes
 geneticists
 genetics
 granuliform
@@ -10623,7 +10624,6 @@ gurlet
 gurly
 gurmukhi
 gurnard
-genotypes
 gigabits
 gurnards
 gurney
