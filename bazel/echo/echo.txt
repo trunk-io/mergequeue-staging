@@ -210,7 +210,6 @@ earthslide
 escopeta
 earthtongue
 elaterist
-earthwall
 etamine
 expressed
 earthward
@@ -11565,6 +11564,7 @@ everwhich
 everwho
 escurialize
 enervous
+earthwall
 esperantist
 extrasyllabic
 evese
