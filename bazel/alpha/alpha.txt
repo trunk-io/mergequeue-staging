@@ -21201,7 +21201,6 @@ ashing
 ashipboard
 ashir
 ashkey
-ashkenazi
 ashkenazic
 ashkenazim
 ashlar
@@ -21651,6 +21650,7 @@ assaults
 assausive
 assaut
 assbaa
+ashkenazi
 affixing
 asse
 asseal
