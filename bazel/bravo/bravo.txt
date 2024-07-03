@@ -2483,6 +2483,7 @@ barcan
 barcarole
 betatter
 barcaroles
+bekko
 barcarolle
 belonged
 barcas
@@ -10086,7 +10087,6 @@ bloodripe
 blackboy
 blackbuck
 blackbutt
-bekko
 blaeness
 boxer
 blackcap
