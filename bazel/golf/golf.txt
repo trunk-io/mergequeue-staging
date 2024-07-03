@@ -5423,7 +5423,6 @@ glycerite
 glycerize
 glycerogel
 glycerole
-glycerolyses
 glycerophosphate
 gaudiest
 glycerophosphoric
@@ -9896,6 +9895,7 @@ guard
 guardable
 grisons
 guardage
+glycerolyses
 genetically
 guardant
 gloria
