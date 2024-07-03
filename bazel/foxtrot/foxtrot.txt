@@ -4356,7 +4356,6 @@ fishponds
 fishskin
 fishspear
 flumes
-fishtail
 fasted
 fishtailed
 fitten
@@ -6218,6 +6217,7 @@ flueman
 fluemen
 fluence
 failures
+fishtail
 fluency
 fluencies
 fluently
