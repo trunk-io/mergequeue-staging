@@ -5579,6 +5579,7 @@ belayer
 belaying
 belays
 benzalethylamine
+boreas
 belait
 bastion
 biface
@@ -12996,7 +12997,6 @@ bops
 boreal
 borealis
 borean
-boreas
 bothrium
 borecole
 borecoles

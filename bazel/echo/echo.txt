@@ -3233,7 +3233,6 @@ eluted
 eluting
 evocative
 elution
-elutor
 elutriated
 elutriating
 elutriation
@@ -13242,6 +13241,7 @@ epigrammatic
 explorement
 explores
 explosibility
+elutor
 enigmatization
 eisegesis
 explosimeter
