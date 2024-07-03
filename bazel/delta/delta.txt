@@ -3486,7 +3486,6 @@ dulocracy
 defrayed
 defrayer
 defrayers
-defraying
 defrayment
 defibrinize
 defrays
@@ -13211,6 +13210,7 @@ dispreading
 dispreads
 disprejudice
 disprepare
+defraying
 dispress
 disprison
 disprivacied
