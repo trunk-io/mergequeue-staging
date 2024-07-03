@@ -10785,6 +10785,7 @@ dawed
 direction
 directional
 discarding
+disanchor
 dolichocranial
 drain
 directionalize
@@ -11017,7 +11018,6 @@ dysanalyte
 disanalogy
 dimethylaniline
 disanalogous
-disanchor
 disangularize
 disanimal
 disanimated
