@@ -20034,6 +20034,7 @@ armchairs
 ampoules
 armorials
 armoric
+artisans
 armorica
 armorican
 armorician
@@ -20784,7 +20785,6 @@ artisan
 arborical
 artisanal
 artisanry
-artisans
 artisanship
 attachment
 artist
