@@ -1186,7 +1186,6 @@ baized
 baizes
 baizing
 bern
-bilking
 bajada
 bajan
 bajardo
@@ -3733,6 +3732,7 @@ battener
 boiserie
 batteners
 battens
+bilking
 batter
 batterdock
 bombard
