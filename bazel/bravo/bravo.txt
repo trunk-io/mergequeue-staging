@@ -2411,7 +2411,6 @@ ballroom
 barbeque
 barbequed
 barbequing
-barber
 barbera
 barberess
 barberfish
@@ -8346,6 +8345,7 @@ biggies
 boobyish
 biggin
 bigging
+barber
 biggings
 brasseys
 biggins
