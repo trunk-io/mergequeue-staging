@@ -2069,7 +2069,6 @@ disseverance
 decapitalization
 decapitate
 decapitated
-decapitates
 decapitation
 decapitations
 decapitator
@@ -4785,6 +4784,7 @@ demonastery
 demoness
 dyspepsia
 demonesses
+decapitates
 demonetisation
 demonetise
 demonetised
