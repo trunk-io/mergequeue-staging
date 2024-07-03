@@ -685,7 +685,6 @@ bacterid
 blowoff
 bacteriemia
 bacteriform
-bacterin
 bacterioagglutinin
 botchier
 bacterioblast
@@ -4661,6 +4660,7 @@ bedews
 bedfast
 bedfellows
 bedflower
+bacterin
 bedford
 bedfordshire
 brobdingnag
