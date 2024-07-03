@@ -2205,6 +2205,7 @@ fawners
 feminine
 favourless
 feminises
+fluxgraph
 feminising
 fallfishes
 feminist
@@ -6589,7 +6590,6 @@ flux
 fluxation
 fluxed
 fluxes
-fluxgraph
 fluxibility
 floatmen
 fluxibleness
