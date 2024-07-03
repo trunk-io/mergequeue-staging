@@ -5462,7 +5462,6 @@ endplate
 endplates
 endpleasure
 endrin
-endrins
 endromididae
 endrudge
 electroballistic
@@ -11915,6 +11914,7 @@ enlighteningly
 ernesse
 excandescency
 eavedropping
+endrins
 excandescent
 excantation
 elucidation
