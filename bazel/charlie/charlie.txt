@@ -1239,7 +1239,6 @@ calices
 calyces
 caliches
 calyciferous
-calycifloral
 calyciflorate
 calyciflorous
 caliciform
@@ -7408,6 +7407,7 @@ cephen
 cepheus
 cephid
 cephidae
+calycifloral
 cephus
 cepolidae
 cepous
