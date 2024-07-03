@@ -1642,7 +1642,6 @@ egoist
 egoistic
 egoistical
 egoisticalness
-egoistry
 exemplifies
 egoists
 euchologion
@@ -12286,6 +12285,7 @@ execrable
 execrate
 execrated
 execrating
+egoistry
 execration
 execrations
 execrative
