@@ -4930,6 +4930,7 @@ flanque
 flans
 fernery
 flapcake
+fluviatic
 freeloader
 feroher
 farsightedness
@@ -6574,7 +6575,6 @@ fights
 fluvanna
 festerment
 fluvial
-fluviatic
 fluviatile
 forgrow
 fluviation
