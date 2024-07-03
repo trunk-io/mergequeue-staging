@@ -9703,7 +9703,6 @@ cheesemonger
 cheesemongering
 cheesemongerly
 cheeseparing
-cheeser
 cheeses
 cheesewood
 cheesy
@@ -18444,6 +18443,7 @@ coharmonize
 cohead
 coheading
 coheads
+cheeser
 coheartedness
 coheir
 coheirs
