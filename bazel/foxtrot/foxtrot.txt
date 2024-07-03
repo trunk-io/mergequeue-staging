@@ -7259,7 +7259,6 @@ foppy
 fopping
 foppish
 fops
-fopship
 for
 ferr
 flypast
@@ -10117,6 +10116,7 @@ fledges
 fringillidae
 fringilliform
 fringilliformes
+fopship
 fringilline
 faultsman
 fleckier
