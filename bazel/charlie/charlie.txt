@@ -982,7 +982,6 @@ calcaneocuboid
 calcaneonavicular
 calcaneoplantar
 countersale
-calcaneoscaphoid
 calcaneotibial
 calcaneum
 calcannea
@@ -17653,6 +17652,7 @@ cochon
 cochranea
 cochromatography
 cochurchwarden
+calcaneoscaphoid
 concords
 cocillana
 cocin
