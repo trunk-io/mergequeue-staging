@@ -10337,7 +10337,6 @@ amelet
 amelia
 amelification
 ameliorable
-anticyclone
 ameliorableness
 armigeral
 ameliorant
@@ -12177,6 +12176,7 @@ anathematiser
 anathematising
 anathematism
 anathematization
+anticyclone
 anathematize
 anathematizer
 anathematizes
