@@ -2521,6 +2521,7 @@ forewing
 ferrimagnetic
 footbath
 ferrimagnetism
+footcloths
 ferryman
 ferring
 fault
@@ -7119,7 +7120,6 @@ footbreadth
 footcandle
 footcandles
 frankforter
-footcloths
 finedraw
 footed
 footer
