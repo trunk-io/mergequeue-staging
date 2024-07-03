@@ -190,6 +190,7 @@ gagers
 greenstone
 gagership
 gages
+gauche
 gratia
 gasterosteus
 gagged
@@ -10061,7 +10062,6 @@ guesthouse
 guesthouses
 garryaceae
 guestive
-gauche
 glycogens
 guestling
 guestmaster
