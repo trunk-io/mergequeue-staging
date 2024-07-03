@@ -2610,7 +2610,6 @@ ethnogeographical
 erth
 electroplate
 electroplater
-electroplates
 electroplax
 euciliate
 electropneumatic
@@ -10368,6 +10367,7 @@ enturret
 expoliate
 ethidene
 ethyl
+electroplates
 ethylamide
 ethylamime
 ethylamin
