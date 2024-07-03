@@ -3851,7 +3851,6 @@ emergence
 emergencies
 enteral
 emergers
-emerges
 empiricists
 enring
 emerick
@@ -9707,6 +9706,7 @@ esophagean
 esophagectasia
 esophagectomy
 explicans
+emerges
 esophagi
 esophagism
 esophagitis
