@@ -7491,7 +7491,6 @@ ephedras
 ephedrin
 ephedrine
 ephelcystic
-ephelis
 ephemeral
 ephemeralities
 epigrapher
@@ -13546,6 +13545,7 @@ extemporising
 extemporization
 extemporize
 extemporizes
+ephelis
 eking
 extend
 extendability

@@ -6317,7 +6317,6 @@ gnetum
 geisothermal
 gneu
 gnome
-gnomed
 gnomes
 gnomesque
 gnomic
@@ -9671,6 +9670,7 @@ grundy
 grundified
 gerents
 gymnodont
+gnomed
 grusinian
 grundsil
 grunerite
