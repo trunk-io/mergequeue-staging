@@ -7037,7 +7037,6 @@ fontinalis
 fontinas
 frontirostria
 fratercula
-foo
 fumeless
 forlorner
 foochow
@@ -10155,6 +10154,7 @@ frisker
 friskers
 foederatus
 friskful
+foo
 footstalk
 frisky
 fulgurator
