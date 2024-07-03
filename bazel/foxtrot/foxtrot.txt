@@ -7148,6 +7148,7 @@ footlights
 fraidycat
 footlock
 footlocker
+forestless
 fireable
 fills
 fisheyes
@@ -8026,7 +8027,6 @@ forestine
 foresting
 forestish
 forestland
-forestless
 forestlike
 frottola
 foreordain
