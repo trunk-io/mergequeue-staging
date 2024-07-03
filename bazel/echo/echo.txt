@@ -900,7 +900,6 @@ ectomeric
 ectomesoblast
 ectomorph
 ectomorphy
-ectomorphic
 ectonephridium
 ectoparasite
 ectoparasitic
@@ -5105,6 +5104,7 @@ endobatholithic
 everett
 endobiotic
 endoblast
+ectomorphic
 endoblastic
 epitomisation
 endobronchial
