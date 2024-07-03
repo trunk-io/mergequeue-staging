@@ -2333,7 +2333,6 @@ feoffing
 fetlow
 feoffment
 feoffor
-feoffors
 feoffs
 fer
 feracious
@@ -11314,6 +11313,7 @@ furbisher
 foamiest
 furbishes
 furbishment
+feoffors
 furcal
 furcated
 forepiece
