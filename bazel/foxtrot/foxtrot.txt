@@ -3616,7 +3616,6 @@ filippi
 filippic
 filippo
 fortified
-foremastman
 filipuncture
 filister
 filisters
@@ -4831,6 +4830,7 @@ fellowess
 flamen
 flamenco
 fooless
+foremastman
 frostiest
 flamencos
 flashier
