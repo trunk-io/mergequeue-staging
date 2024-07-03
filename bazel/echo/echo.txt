@@ -7339,7 +7339,6 @@ engilds
 eomecon
 explorable
 eon
-eonian
 enscroll
 eonisms
 eons
@@ -10901,6 +10900,7 @@ eulysite
 eulytin
 eulytine
 eulytite
+eonian
 ethnologic
 equalling
 eulogy
