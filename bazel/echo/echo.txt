@@ -2186,7 +2186,6 @@ elator
 enmist
 englute
 ectiris
-exclusively
 elb
 elbert
 elbow
@@ -8676,6 +8675,7 @@ equilibrates
 equilibrating
 exonerates
 equilibration
+exclusively
 equilibrative
 equilibrator
 equilibratory
