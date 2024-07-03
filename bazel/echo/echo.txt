@@ -10003,6 +10003,7 @@ estheses
 esthesia
 elastics
 esthacyte
+edituate
 esthesiogen
 esthesiogeny
 esthesiogenic
@@ -13791,7 +13792,6 @@ extract
 extractability
 extractable
 extractant
-edituate
 erasing
 extractibility
 emarginated
