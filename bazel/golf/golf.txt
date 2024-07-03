@@ -3886,7 +3886,6 @@ giantlikeness
 giantry
 giants
 giantship
-gastroesophagostomy
 giantsize
 giaour
 giaours
@@ -9968,6 +9967,7 @@ gud
 gurges
 gentleship
 gudame
+gastroesophagostomy
 guddled
 gumdigger
 guddler
