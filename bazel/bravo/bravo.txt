@@ -2185,6 +2185,7 @@ banlieu
 banlieue
 bannack
 bannat
+bel
 banned
 banner
 bannerer
@@ -5553,7 +5554,6 @@ blase
 beknotting
 baronetcies
 beknown
-bel
 belabor
 belabored
 belaboring
