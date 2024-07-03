@@ -2273,7 +2273,6 @@ baptises
 baptisia
 betanaphthol
 baptisin
-baptising
 baptism
 baptismal
 baptismally
@@ -13213,6 +13212,7 @@ bosslet
 bossship
 badnesses
 bonnyvis
+baptising
 bevellers
 bhaiachari
 bucketfuls
