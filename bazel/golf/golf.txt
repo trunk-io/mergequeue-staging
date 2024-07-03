@@ -886,6 +886,7 @@ gambist
 gambits
 gambler
 gamblers
+gardon
 gambles
 gamblesome
 gamblesomeness
@@ -1378,7 +1379,6 @@ gardevisure
 gardy
 gardyloo
 gardnap
-gardon
 gaufrettes
 gare
 garefowl
