@@ -1134,7 +1134,6 @@ fluellite
 farther
 fiscus
 farthermost
-farthing
 fleabitten
 farthingale
 fleabiting
@@ -1763,6 +1762,7 @@ fungated
 flatterers
 featherpate
 freshmanhood
+farthing
 feathers
 featherstitch
 freshmanic
