@@ -7139,7 +7139,6 @@ footglove
 foothalt
 faithing
 flatcap
-foothold
 footholds
 foothot
 frutify
@@ -10389,6 +10388,7 @@ fausant
 fellest
 fiddley
 figulines
+foothold
 fusk
 flowerfence
 fitche
