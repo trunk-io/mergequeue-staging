@@ -1030,7 +1030,6 @@ feretrum
 fellow
 farine
 farinha
-flancards
 farinometer
 farinose
 farinosel
@@ -9629,6 +9628,7 @@ fricandoes
 facedown
 freeheartedly
 farinhas
+flancards
 freehold
 freeholder
 freeholders
