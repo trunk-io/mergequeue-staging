@@ -6576,6 +6576,7 @@ fights
 fluvanna
 festerment
 fluvial
+feldspars
 fluviatile
 forgrow
 fluviation
@@ -10366,7 +10367,6 @@ frons
 front
 fechnerian
 frontage
-feldspars
 frizzy
 facewise
 frontalis
