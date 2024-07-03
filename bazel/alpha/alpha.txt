@@ -14345,7 +14345,6 @@ antennule
 adelopod
 antenodal
 antenoon
-antenor
 antenumber
 antenuptial
 amphibious
@@ -17655,6 +17654,7 @@ apparelled
 apparelment
 apparels
 apparence
+antenor
 almucantar
 accoutring
 apparens
