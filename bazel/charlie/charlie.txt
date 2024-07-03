@@ -5860,6 +5860,7 @@ cathecting
 cathection
 cathedra
 cathedrae
+coiffe
 cathedral
 cathedraled
 cathedralesque
@@ -11674,7 +11675,6 @@ choloid
 choloidinic
 chololith
 chololithic
-coiffe
 cholonan
 cholones
 cholophaein
