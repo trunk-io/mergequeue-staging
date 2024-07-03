@@ -684,6 +684,7 @@ caging
 cagit
 cagmag
 cagn
+cyclicity
 cagot
 cagoule
 correctorship
@@ -13306,7 +13307,6 @@ cyclic
 cyclical
 cyclicality
 cyclicalness
-cyclicity
 cyclide
 cyclindroid
 citramontane
