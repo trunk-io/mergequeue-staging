@@ -894,7 +894,6 @@ fanwork
 fanwort
 funtumia
 fanworts
-fanwright
 fanzine
 fanzines
 faon
@@ -9807,6 +9806,7 @@ frenulum
 featherbedded
 frenums
 frenuna
+fanwright
 frenzy
 frenzic
 ferned
