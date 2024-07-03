@@ -8482,7 +8482,6 @@ forms
 formula
 featness
 formulable
-formulae
 funeral
 formulaically
 furnisher
@@ -11512,6 +11511,7 @@ furtive
 fimbrillose
 furtively
 furtum
+formulae
 furcates
 furuncles
 furuncular
