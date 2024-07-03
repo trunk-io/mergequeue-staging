@@ -2950,7 +2950,6 @@ foolhardiness
 fibber
 fibbery
 fibbers
-fibbing
 falcones
 fiberboard
 fibered
@@ -4522,6 +4521,7 @@ faussebraye
 foretopsail
 fitting
 fikie
+fibbing
 footbeat
 fatso
 fittings
