@@ -7397,7 +7397,6 @@ eldmother
 epanody
 epanodos
 epanorthidae
-exocoele
 epanthous
 epapophysis
 epappose
@@ -12909,6 +12908,7 @@ expansiveness
 expansivity
 expansum
 expatiate
+exocoele
 expatiating
 expatiatingly
 expatiation
