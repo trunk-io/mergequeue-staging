@@ -6529,7 +6529,6 @@ bepreach
 bepretty
 bepride
 beprose
-bepuffed
 bepun
 bedraping
 bepurple
@@ -13874,6 +13873,7 @@ boxhauled
 boxhauling
 boxhauls
 boxhead
+bepuffed
 bluffable
 boxy
 boxiana
