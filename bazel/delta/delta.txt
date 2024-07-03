@@ -11140,6 +11140,7 @@ disauthenticate
 disauthorize
 dysautonomia
 disavail
+do
 disavouch
 disavowable
 disavowance
@@ -14598,7 +14599,6 @@ dm
 dmarche
 dmod
 dnieper
-do
 doa
 doab
 dissceptred
