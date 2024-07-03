@@ -8643,7 +8643,6 @@ dendrolite
 demibrute
 darktown
 diastemata
-desiccating
 diastematic
 diaster
 dyaster
@@ -15767,6 +15766,7 @@ dornocks
 doroscentral
 dizygous
 desize
+desiccating
 dorosternal
 dorothea
 decorement
