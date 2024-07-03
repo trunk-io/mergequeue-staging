@@ -2271,7 +2271,6 @@ flection
 fencibles
 fend
 fendable
-fended
 following
 fendered
 fendering
@@ -11333,6 +11332,7 @@ furculae
 faulkland
 furcule
 furdel
+fended
 flyblowing
 furfooz
 furfur
