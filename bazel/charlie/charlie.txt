@@ -14955,6 +14955,7 @@ cytolysis
 cytolist
 cytolytic
 cytology
+cloisonn
 cytologic
 cytologically
 cytologies
@@ -25240,7 +25241,6 @@ corixa
 corixidae
 coryza
 coryzal
-cloisonn
 coryzas
 cork
 corkage
