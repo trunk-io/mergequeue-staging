@@ -5556,7 +5556,6 @@ glims
 glyn
 grandisonian
 glink
-glinse
 glint
 goustie
 glinting
@@ -8339,6 +8338,7 @@ gangerel
 graticulate
 glory
 graylags
+glinse
 gareh
 ginglyni
 graticule
