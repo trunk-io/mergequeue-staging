@@ -278,7 +278,6 @@ abdominocentesis
 aerogels
 abdominocystic
 abdominohysterectomy
-abdominohysterotomy
 abdominoposterior
 abdominoscope
 abdominoscopy
@@ -4702,6 +4701,7 @@ alethopteis
 afoot
 advertent
 advertently
+abdominohysterotomy
 adverting
 advertisable
 advertise
