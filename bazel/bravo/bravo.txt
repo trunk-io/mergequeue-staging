@@ -8770,6 +8770,7 @@ byname
 bynames
 binaphthyl
 binapthyl
+bombshells
 basketwood
 binary
 binaries
@@ -12344,7 +12345,6 @@ bombora
 bombous
 bombproof
 bombs
-bombshells
 bombsight
 bombsights
 bombus

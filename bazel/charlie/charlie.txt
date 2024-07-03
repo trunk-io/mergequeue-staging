@@ -461,7 +461,6 @@ caddo
 caddow
 cade
 circuitous
-cadeau
 cadee
 cadelle
 cadence
@@ -21869,6 +21868,7 @@ confectioner
 confectionery
 confectioneries
 confectiones
+cadeau
 confectory
 confects
 confecture
