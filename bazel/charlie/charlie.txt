@@ -8742,7 +8742,6 @@ carcavelhos
 chantier
 curiousness
 chanties
-catoblepas
 chantilly
 chanting
 chantlate
@@ -31229,6 +31228,7 @@ curatolatry
 curator
 curatory
 curatorial
+catoblepas
 curatorium
 charkha
 curators
