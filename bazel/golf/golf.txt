@@ -8031,7 +8031,6 @@ garbling
 granitite
 gendarme
 gyrocompasses
-granitize
 granitized
 granivore
 granma
@@ -9002,6 +9001,7 @@ grimy
 genizero
 gibbing
 grimier
+granitize
 grimiest
 grimily
 grimines
