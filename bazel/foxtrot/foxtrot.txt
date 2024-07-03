@@ -1563,7 +1563,6 @@ favaginous
 fortuned
 favel
 filosofe
-favelas
 favelidium
 favella
 favellae
@@ -8381,6 +8380,7 @@ formatters
 frigorifico
 fermentarian
 flappering
+favelas
 fooster
 formazan
 formazyl
