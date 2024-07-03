@@ -8848,7 +8848,6 @@ bink
 binman
 binmen
 barracks
-binna
 binnacle
 binnacles
 binned
@@ -11411,6 +11410,7 @@ becalmed
 bluings
 bluish
 bluism
+binna
 blockline
 bluisness
 blumed
