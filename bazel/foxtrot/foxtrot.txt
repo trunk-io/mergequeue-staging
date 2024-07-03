@@ -4544,6 +4544,7 @@ fivefold
 fiveling
 fivepence
 fivepenny
+fierte
 fivepins
 fives
 fivescore
@@ -6043,7 +6044,6 @@ fadeout
 fertilisability
 floroun
 floruit
-fierte
 floruits
 florula
 florulae
