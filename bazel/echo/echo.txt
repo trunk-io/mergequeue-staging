@@ -1663,7 +1663,6 @@ egosyntonic
 entier
 es
 egotheism
-egotism
 egotisms
 egotist
 egotistic
@@ -4862,6 +4861,7 @@ encoronet
 encounterable
 encountered
 entitlement
+egotism
 encounterers
 encountering
 enkindling
