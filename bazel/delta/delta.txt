@@ -2540,7 +2540,6 @@ decoction
 decoctive
 decocts
 decoctum
-disincarnation
 decodable
 decode
 deprecable
@@ -5972,6 +5971,7 @@ deputatively
 denter
 deputator
 depute
+disincarnation
 dihydroxy
 deputed
 deputes
