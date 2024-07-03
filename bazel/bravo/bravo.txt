@@ -6532,7 +6532,6 @@ bepray
 baculoid
 bossism
 bepraise
-bepraisement
 bergall
 bepimpled
 bepraiser
@@ -13376,6 +13375,7 @@ bott
 botte
 bibliopoly
 bottegas
+bepraisement
 botteghe
 bottekin
 botticelli
