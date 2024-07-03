@@ -1266,7 +1266,6 @@ gantsl
 ganza
 gaol
 gaolerness
-gaolers
 gaoling
 gaols
 gaon
@@ -2834,6 +2833,7 @@ genitivally
 gammick
 genitocrural
 gridelin
+gaolers
 genitofemoral
 grisset
 grasps
