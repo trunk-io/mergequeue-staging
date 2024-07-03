@@ -899,7 +899,6 @@ ectomeres
 ectomeric
 ectomesoblast
 ectomorph
-ectomorphy
 ectonephridium
 ectoparasite
 ectoparasitic
@@ -8197,6 +8196,7 @@ episcopolatry
 episcotister
 episedia
 excluding
+ectomorphy
 episememe
 epigraphically
 episepalous
