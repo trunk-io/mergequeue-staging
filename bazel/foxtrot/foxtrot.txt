@@ -1462,7 +1462,6 @@ fatuities
 foveiform
 fellatrix
 fatuitous
-fatuitousness
 fatuoid
 fatuous
 fatuus
@@ -9649,6 +9648,7 @@ freelances
 freelancing
 farouk
 freeload
+fatuitousness
 freeloaded
 freeloaders
 france
