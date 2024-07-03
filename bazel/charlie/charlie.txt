@@ -6275,7 +6275,6 @@ cautelous
 cautelously
 cautelousness
 cauter
-cauterant
 cautery
 cauteries
 cauterisation
@@ -19821,6 +19820,7 @@ comedienne
 comediennes
 comedietta
 comedist
+cauterant
 comedo
 comedos
 comedown
