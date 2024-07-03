@@ -5684,7 +5684,6 @@ depletions
 depletive
 depletory
 deployed
-dorsiduct
 dilettantship
 deploying
 drizzles
@@ -15233,6 +15232,7 @@ dollmaking
 dollops
 dolls
 dolman
+dorsiduct
 dolmans
 dolmen
 dolomedes
