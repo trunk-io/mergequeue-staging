@@ -6694,7 +6694,6 @@ flysch
 foes
 followable
 fast
-foetal
 foetalism
 frankable
 foetalization
@@ -10812,6 +10811,7 @@ fucinita
 fucivorous
 fourberie
 fucuses
+foetal
 fuddle
 fuddlebrained
 feverfews
