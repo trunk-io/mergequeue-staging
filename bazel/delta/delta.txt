@@ -2449,6 +2449,7 @@ deckle
 deckman
 dehistoricize
 deckpipe
+diaplex
 deckswabber
 decl
 declaim
@@ -13411,7 +13412,6 @@ disroost
 disrooted
 diploplaculate
 didymous
-diaplex
 decolourizer
 disrooting
 diamegnetism
