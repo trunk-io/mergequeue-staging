@@ -17298,6 +17298,7 @@ coassert
 coasserter
 coassession
 coassessor
+crystallite
 coassignee
 coassist
 coassistant
@@ -29461,7 +29462,6 @@ crystallisation
 crystallise
 crystallised
 crystallising
-crystallite
 crystallites
 crystallitic
 crystallizability
