@@ -11604,7 +11604,6 @@ choleinic
 cholelith
 cholelithiasis
 cholelithic
-cholelithotomy
 crenellate
 cholelithotripsy
 cholelithotrity
@@ -19664,6 +19663,7 @@ comake
 comaker
 comaking
 comal
+cholelithotomy
 comals
 comamie
 coman
