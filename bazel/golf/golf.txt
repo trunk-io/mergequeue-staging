@@ -8103,7 +8103,6 @@ granuloadipose
 genappe
 genuclast
 gcd
-granulocytic
 granulocytopoiesis
 granuloma
 grumpishness
@@ -8984,6 +8983,7 @@ grimacers
 grimaces
 grimacing
 grimacingly
+granulocytic
 gyromitra
 grime
 grimed
