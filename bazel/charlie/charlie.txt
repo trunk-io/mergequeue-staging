@@ -12624,6 +12624,7 @@ crystallography
 cismarine
 chronicity
 cousiny
+colory
 chrismons
 chronicle
 chronicled
@@ -19427,7 +19428,6 @@ colorfastness
 colorful
 colorfully
 colorfulness
-colory
 colorific
 colorifics
 colorimeter
