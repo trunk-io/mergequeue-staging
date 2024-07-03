@@ -6177,7 +6177,6 @@ dermapterous
 dermas
 downlinked
 dermaskeleton
-dermasurgery
 dermatagra
 dermatalgia
 demifusion
@@ -16895,6 +16894,7 @@ dreaminess
 dreamingful
 dreamish
 dreamland
+dermasurgery
 desilicification
 dreamless
 dreamlessly
