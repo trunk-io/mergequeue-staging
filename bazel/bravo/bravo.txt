@@ -10494,7 +10494,6 @@ blastule
 blat
 blatancy
 blatancies
-begirdled
 blatant
 blatantly
 bethanking
@@ -17809,6 +17808,7 @@ burnside
 burnsides
 burnt
 burntly
+begirdled
 burntness
 bandfiling
 burntweed
