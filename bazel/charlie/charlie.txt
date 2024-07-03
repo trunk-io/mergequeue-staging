@@ -23528,7 +23528,6 @@ continentalist
 continentality
 continentalize
 continentally
-continentals
 continents
 contineu
 contingence
@@ -24888,6 +24887,7 @@ coralist
 coralita
 collating
 coralla
+continentals
 corallet
 clavodeltoid
 corallian
