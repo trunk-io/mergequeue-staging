@@ -15801,7 +15801,6 @@ dorsibranch
 dorsibranchiata
 defensible
 dorsibranchiate
-dorsicollar
 dorsicolumn
 dorsicommissure
 dorsiferous
@@ -17460,6 +17459,7 @@ droved
 drover
 droves
 drovy
+dorsicollar
 droving
 drow
 daffing
