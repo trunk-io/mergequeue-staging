@@ -9399,7 +9399,6 @@ chausseemeile
 chaussees
 chaussure
 chaussures
-chautauquan
 chaute
 chauth
 clothbound
@@ -16760,6 +16759,7 @@ cloudberry
 chindi
 crotalinae
 cloudberries
+chautauquan
 cloudbursts
 cloudcap
 clouded
