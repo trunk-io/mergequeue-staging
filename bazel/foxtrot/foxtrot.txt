@@ -375,7 +375,6 @@ fairgrounds
 fringeflower
 fruticulose
 fairhead
-fairy
 fairydom
 fairies
 fairyfloss
@@ -7508,6 +7507,7 @@ forecabin
 fleetings
 forecaddie
 forecar
+fairy
 forecarriage
 forecast
 forecaster
