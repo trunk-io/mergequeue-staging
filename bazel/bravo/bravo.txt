@@ -7621,7 +7621,6 @@ briquetting
 beworried
 beworries
 beworrying
-beworship
 bewpers
 bewrayed
 bewrayers
@@ -8164,6 +8163,7 @@ bieennia
 byegaein
 byelaw
 byelaws
+beworship
 bielby
 bielbrief
 bielded
