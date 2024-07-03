@@ -5464,7 +5464,6 @@ endpaper
 endpapers
 eulalia
 endpiece
-extranidal
 endplate
 endplates
 endpleasure
@@ -9747,6 +9746,7 @@ esoterical
 emprime
 entitule
 esoterically
+extranidal
 esotericism
 ephemera
 esotericist
