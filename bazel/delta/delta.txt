@@ -691,6 +691,7 @@ dampers
 dampy
 damping
 dampish
+debitumenize
 disperse
 dampishness
 damply
@@ -1821,7 +1822,6 @@ debitrix
 dineric
 debits
 debitum
-debitumenize
 domeykite
 dextrousness
 debituminization
