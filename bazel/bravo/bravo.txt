@@ -11903,7 +11903,6 @@ bogued
 brothe
 boguing
 bogum
-bogus
 bogusness
 bogwood
 bogwoods
@@ -17885,6 +17884,7 @@ burniebee
 bursera
 burseraceous
 bursicle
+bogus
 betrunk
 berrypicking
 bursiform
