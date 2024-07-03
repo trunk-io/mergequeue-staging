@@ -497,7 +497,6 @@ abyssinia
 acetopyrine
 abyssinians
 abyssobenthonic
-abyssolith
 abyssopelagic
 abyssus
 abiston
@@ -11391,6 +11390,7 @@ amphodarch
 anthyllis
 amphodelite
 amphodiplopia
+abyssolith
 amphogeny
 amphogenic
 amphogenous
