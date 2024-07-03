@@ -3706,6 +3706,7 @@ bats
 batsman
 batsmanship
 broncs
+bedlamic
 batsmen
 batster
 batswing
@@ -4708,7 +4709,6 @@ bedizens
 bedkey
 bedlam
 bedlamer
-bedlamic
 bedlamise
 bedlamised
 bothie
