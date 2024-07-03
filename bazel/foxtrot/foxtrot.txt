@@ -340,7 +340,6 @@ filicic
 fainted
 fainter
 fainters
-faintest
 faintful
 faintheart
 fainthearted
@@ -893,6 +892,7 @@ foudroyant
 furthy
 fv
 flincher
+faintest
 fanwork
 fanwort
 funtumia

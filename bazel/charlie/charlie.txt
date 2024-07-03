@@ -4620,7 +4620,6 @@ carpocephalum
 cryoscopies
 carpocerite
 carpocervical
-carpocratian
 carpodacus
 carpodetus
 coulters
@@ -25226,6 +25225,7 @@ coryphaeus
 coryphee
 coryphees
 coryphene
+carpocratian
 coryphodon
 coryphodont
 corystoid
