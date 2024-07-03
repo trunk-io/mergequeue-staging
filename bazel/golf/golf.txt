@@ -792,7 +792,6 @@ goosewinged
 gomphoses
 galvanization
 gaulin
-galvanizer
 graphophonic
 galvanizers
 galvanizing
@@ -4321,6 +4320,7 @@ gymnostomous
 gymnothorax
 gymnotid
 gymnotidae
+galvanizer
 gymnotoka
 gymnotokous
 grotesquery
