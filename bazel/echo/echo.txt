@@ -2533,7 +2533,6 @@ embue
 electromotivity
 electromotograph
 electromotor
-electromuscular
 electron
 electronarcosis
 electronegative
@@ -6466,6 +6465,7 @@ ensorcell
 ensorcellment
 emcumbering
 estimate
+electromuscular
 epochal
 ensorcels
 ensorcerize
