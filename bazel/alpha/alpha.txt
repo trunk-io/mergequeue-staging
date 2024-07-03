@@ -17745,7 +17745,6 @@ appendalgia
 appendance
 aspermatism
 appendant
-appendectomy
 ankyloblepharon
 accoying
 appended
@@ -24203,6 +24202,7 @@ automata
 automatable
 automate
 atomistics
+appendectomy
 automates
 automatic
 automatical
