@@ -7860,7 +7860,6 @@ dewooling
 dewools
 deworm
 dozens
-dewormed
 deworming
 dewret
 dewrot
@@ -17374,6 +17373,7 @@ dropling
 dropman
 dropmeal
 duotones
+dewormed
 dropout
 dwining
 disinfectant
