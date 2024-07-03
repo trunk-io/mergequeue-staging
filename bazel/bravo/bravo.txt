@@ -6379,6 +6379,7 @@ benzines
 bridie
 benzins
 bisectrix
+brace
 benzoates
 benzoazurine
 benzocaine
@@ -13917,7 +13918,6 @@ braccate
 braccianite
 bowwood
 braccio
-brace
 braceleted
 basophile
 bracelets
