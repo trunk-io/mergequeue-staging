@@ -7614,7 +7614,6 @@ cerebrocardiac
 cerebrogalactose
 cerebroganglionic
 cerebroid
-cerebrology
 cerebroma
 cerebromalacia
 cerebromedullary
@@ -21199,6 +21198,7 @@ conceivableness
 conceivably
 conceive
 conceived
+cerebrology
 conceiver
 conceivers
 conceiving
