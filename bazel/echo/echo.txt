@@ -7435,7 +7435,6 @@ excusers
 epencephalons
 elucidatory
 explorative
-enrooting
 ependymal
 easternize
 excelse
@@ -13384,6 +13383,7 @@ expugn
 expugnable
 expuition
 expulsatory
+enrooting
 equalization
 expulse
 expulser
