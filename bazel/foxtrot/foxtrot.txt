@@ -3059,7 +3059,6 @@ felafel
 fibromyectomy
 flock
 fibromyoma
-fibromyomectomy
 fibromyositis
 flashbacks
 fibromyxosarcoma
@@ -5105,6 +5104,7 @@ formulized
 fishmonger
 flatwares
 flatwash
+fibromyomectomy
 footpaddery
 fruiter
 flatweed
