@@ -8230,7 +8230,6 @@ gemmules
 gryllotalpa
 grapple
 grappled
-grappler
 grapples
 globulous
 grizzled
@@ -9536,6 +9535,7 @@ growlingly
 gargoyled
 growls
 grown
+grappler
 grownup
 guardship
 gothicism
