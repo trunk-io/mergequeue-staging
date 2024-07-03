@@ -743,7 +743,6 @@ goosey
 geometer
 gillnetted
 gribble
-gallup
 gallweed
 greasehorn
 goniatite
@@ -10728,6 +10727,7 @@ gigadoid
 gutsy
 gutsier
 gotiglacial
+gallup
 geodetic
 gibber
 glucuronic
