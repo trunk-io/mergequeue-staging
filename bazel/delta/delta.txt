@@ -13957,6 +13957,7 @@ distrainee
 datums
 distraining
 distrainment
+divisions
 distrainor
 distrains
 distraite
@@ -14459,7 +14460,6 @@ divisionary
 drissel
 divisionistic
 demonstratively
-divisions
 dewberries
 divisively
 divisiveness
