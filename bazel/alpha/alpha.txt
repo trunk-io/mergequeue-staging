@@ -13153,7 +13153,6 @@ angulus
 anguria
 anguses
 angust
-anticrotalic
 angustate
 angustia
 angusticlave
@@ -22519,6 +22518,7 @@ ateloglossia
 atelognathia
 atelomyelia
 anisospore
+anticrotalic
 atelomitic
 atelophobia
 atelopodia
