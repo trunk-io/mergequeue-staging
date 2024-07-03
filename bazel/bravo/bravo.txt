@@ -3546,7 +3546,6 @@ batekes
 bowered
 blamably
 bateleur
-bateman
 bouchal
 babelic
 batement
@@ -8638,6 +8637,7 @@ billycan
 billycans
 billycock
 billie
+bateman
 billyer
 billies
 billyhood

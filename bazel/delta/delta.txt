@@ -1147,7 +1147,6 @@ dashnak
 dashnakist
 dashnaktzutiun
 dashpots
-dashwheel
 dasi
 dasya
 dasyatidae
@@ -3460,6 +3459,7 @@ deformative
 deformed
 deformedly
 deformedness
+dashwheel
 deformer
 deformeter
 deforming
