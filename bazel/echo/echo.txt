@@ -4396,6 +4396,7 @@ enaliornis
 enaliosauria
 enaliosaurian
 esplanades
+externum
 enalite
 enallachrome
 enallage
@@ -8204,7 +8205,6 @@ excluding
 episememe
 epigraphically
 episepalous
-externum
 episyllogism
 essayette
 episiocele
