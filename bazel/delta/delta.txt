@@ -5940,7 +5940,6 @@ depth
 deviationism
 depthing
 depthless
-depthlessness
 depths
 disfigures
 depthways
@@ -17343,6 +17342,7 @@ drooper
 droopy
 disprobabilize
 droopier
+depthlessness
 droopiest
 droopily
 droopiness
