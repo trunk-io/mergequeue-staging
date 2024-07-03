@@ -13074,7 +13074,6 @@ cobaltine
 cyanometer
 caravaned
 cyanomethaemoglobin
-cyanomethemoglobin
 cyanometry
 cyanometric
 cyanometries
@@ -21798,6 +21797,7 @@ conductional
 conductitious
 conductive
 conductively
+cyanomethemoglobin
 conductivity
 conductivities
 counterwill

@@ -6583,7 +6583,6 @@ forgrow
 fluviation
 fluvicoline
 fluvioglacial
-fluvioterrestrial
 fireshaft
 fluvious
 formalization
@@ -7368,6 +7367,7 @@ foreland
 frenched
 forewarnings
 forblow
+fluvioterrestrial
 forbode
 forboding
 flagman
