@@ -13624,7 +13624,6 @@ annalistic
 annalistically
 annalists
 allotheist
-annalize
 annals
 annam
 annamese
@@ -20135,6 +20134,7 @@ aromatics
 aromatise
 areason
 adjectives
+annalize
 aromatised
 aromatiser
 aromatitae
