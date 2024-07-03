@@ -12935,7 +12935,6 @@ borboridae
 borborygmatic
 borborygmi
 bucklers
-borborygmic
 borborygmies
 borborygmus
 blockaded
@@ -15432,6 +15431,7 @@ bryon
 briony
 bryony
 bout
+borborygmic
 bogles
 bourrasque
 bryonia

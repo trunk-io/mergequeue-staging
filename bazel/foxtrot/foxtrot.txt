@@ -3710,6 +3710,7 @@ filmstrips
 filoplume
 filopodia
 floorcloth
+fluoridated
 filopodium
 filosa
 frankify
@@ -6404,7 +6405,6 @@ fraudproof
 fluoric
 fluoridate
 foreignize
-fluoridated
 flour
 folklike
 fungo
