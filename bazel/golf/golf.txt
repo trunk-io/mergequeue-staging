@@ -7536,7 +7536,6 @@ gown
 galavanted
 gowning
 gownlet
-gowns
 gownsmen
 gowpen
 gox
@@ -9889,6 +9888,7 @@ geode
 guarapo
 ganoids
 guarapucu
+gowns
 gushily
 guarauno
 guard
