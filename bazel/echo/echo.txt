@@ -4856,6 +4856,7 @@ encoronate
 encoronet
 encounterable
 encountered
+enfortune
 entitlement
 egotism
 encounterers
@@ -5667,7 +5668,6 @@ enfork
 elapinae
 enfort
 enforth
-enfortune
 enfoul
 extolls
 enfoulder
