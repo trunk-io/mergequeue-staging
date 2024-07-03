@@ -3014,7 +3014,6 @@ dorsipinal
 deepsome
 deepwater
 deepwaterman
-deepwatermen
 deer
 deerberry
 deerdog
@@ -14348,6 +14347,7 @@ diversiflorous
 diversifolious
 diversiform
 diversion
+deepwatermen
 diversional
 diversionary
 deploys
