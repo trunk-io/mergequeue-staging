@@ -4556,7 +4556,6 @@ demilion
 demilitarisation
 demilitarise
 demilitarised
-derencephalocele
 demilitarising
 demilitarization
 demilitarized
@@ -5608,6 +5607,7 @@ diplontic
 depertible
 depetalize
 depetticoat
+derencephalocele
 dephased
 dephasing
 diapedeses
