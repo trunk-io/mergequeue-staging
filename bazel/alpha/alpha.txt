@@ -5005,7 +5005,6 @@ aerobes
 aerobia
 alaihi
 aerobian
-aerobic
 aerobically
 aerobiology
 aerobiologic
@@ -6687,6 +6686,7 @@ annotations
 agunah
 agura
 aguroth
+aerobic
 achlamydeae
 ah
 asthenias
