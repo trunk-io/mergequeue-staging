@@ -3953,7 +3953,6 @@ adipocellulose
 anthropological
 adipoceriform
 adipocerite
-artamidae
 adipocerous
 adipocyte
 adipofibroma
@@ -19820,6 +19819,7 @@ aristogenics
 asseverate
 aristoi
 aristol
+artamidae
 abide
 aristolochiaceae
 aristolochiales
