@@ -2767,7 +2767,6 @@ barlows
 barmaid
 billionaire
 barmaids
-barman
 barmaster
 barmbrack
 babesiasis
@@ -17798,6 +17797,7 @@ burnishment
 baneberries
 burnoose
 burnoosed
+barman
 burnoused
 burnouses
 bodefulness
