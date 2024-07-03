@@ -1675,6 +1675,7 @@ fcp
 fdtype
 fdubs
 fe
+fumblers
 feaberry
 flighter
 fictation
@@ -10998,7 +10999,6 @@ fixature
 fumbled
 feceris
 flashy
-fumblers
 fumbles
 fumblingly
 fetterer
