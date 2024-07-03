@@ -4639,6 +4639,7 @@ demisecond
 drones
 demised
 demisemiquaver
+dulanganes
 demisemitone
 demises
 demisheath
@@ -17980,7 +17981,6 @@ diascia
 dukkeripen
 dukkha
 dukuma
-dulanganes
 dulat
 dulbert
 dulc
