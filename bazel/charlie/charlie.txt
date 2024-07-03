@@ -4450,7 +4450,6 @@ carnivorism
 carnivority
 carnivorous
 carnivorously
-cercopidae
 carnivorousness
 carnose
 carnosin
@@ -11861,6 +11860,7 @@ choppier
 choppiest
 choppily
 choppiness
+cercopidae
 chopping
 clastics
 chops
