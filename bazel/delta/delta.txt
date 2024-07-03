@@ -5662,6 +5662,7 @@ drudger
 deplasmolysis
 duodecahedral
 disposit
+dolisie
 deplenish
 depletable
 deplete
@@ -15175,7 +15176,6 @@ digitize
 davenports
 doliolum
 dollbeer
-dolisie
 deburse
 dolittle
 dolium

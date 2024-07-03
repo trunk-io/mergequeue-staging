@@ -3640,7 +3640,6 @@ faceoff
 fluormeter
 fillers
 fillet
-filleting
 filletster
 filleul
 foreflipper
@@ -6847,6 +6846,7 @@ foliaceous
 foliaceousness
 foliage
 foliaged
+filleting
 flywheels
 foliages
 fibry
