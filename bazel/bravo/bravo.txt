@@ -7728,7 +7728,6 @@ bhisties
 bhoy
 bhojpuri
 bhokra
-betelnuts
 brogans
 bhoosa
 bhoots
@@ -10055,6 +10054,7 @@ blabbered
 blabberer
 blabbermouth
 blabbermouths
+betelnuts
 brasslike
 blabbers
 blabby
