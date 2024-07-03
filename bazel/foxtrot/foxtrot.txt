@@ -1347,7 +1347,6 @@ fatheads
 fulvous
 fathercraft
 fathered
-fathering
 fatherkin
 fatherland
 frogged
@@ -7937,6 +7936,7 @@ foreshaft
 foreshank
 foreshape
 fetterers
+fathering
 firewoods
 foresheet
 foresheets
