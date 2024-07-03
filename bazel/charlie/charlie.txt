@@ -15406,6 +15406,7 @@ clamping
 clamps
 clamshell
 clamshells
+cleavers
 clamworm
 clamworms
 clancular
@@ -15907,7 +15908,6 @@ cleaved
 cleaveful
 cleavelandite
 cleaver
-cleavers
 cleaverwort
 cleaves
 cleaving
