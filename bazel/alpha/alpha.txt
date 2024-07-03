@@ -6945,6 +6945,7 @@ airbursts
 airbus
 acerbity
 archons
+ambulators
 airbuses
 airbusses
 aircheck
@@ -24095,7 +24096,6 @@ abrasiometer
 autogiro
 autogyro
 autognosis
-ambulators
 autognostic
 autograft
 autografting
