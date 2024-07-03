@@ -7553,7 +7553,6 @@ gapes
 gpcd
 gpd
 gpm
-gr
 gra
 glucogenic
 graafian
@@ -10332,6 +10331,7 @@ gerundial
 gulliver
 gadaria
 gulllike
+gr
 gulls
 gulmohar
 gurglet
