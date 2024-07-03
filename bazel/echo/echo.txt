@@ -2280,6 +2280,7 @@ electo
 extracalendar
 elector
 electoral
+exotic
 electorate
 electorates
 electors
@@ -5446,7 +5447,6 @@ endoubt
 endoute
 enrank
 enclavement
-exotic
 endovasculitis
 equinox
 epitaph
