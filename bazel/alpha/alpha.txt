@@ -10462,7 +10462,6 @@ acidize
 amerindic
 amerinds
 avoids
-amerism
 anthracotherium
 amerveil
 aftwards
@@ -19726,6 +19725,7 @@ aries
 arietate
 arietation
 allocryptic
+amerism
 arietid
 arietinous
 arietta
