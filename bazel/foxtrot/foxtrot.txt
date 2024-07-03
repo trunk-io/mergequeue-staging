@@ -6317,7 +6317,6 @@ feists
 flukiness
 funebre
 fluking
-flumadiddle
 flumdiddle
 flume
 fieldsman
@@ -7933,6 +7932,7 @@ foreshank
 foreshape
 fetterers
 fathering
+flumadiddle
 firewoods
 foresheet
 foresheets
