@@ -3160,6 +3160,7 @@ actinoida
 actinoidea
 actinoids
 actinolite
+antihemagglutinin
 actinolitic
 actinology
 actinomere
@@ -15482,7 +15483,6 @@ antihelices
 antihelix
 antihelixes
 antihelminthic
-antihemagglutinin
 antihemisphere
 antiferromagnetism
 antihemolytic
