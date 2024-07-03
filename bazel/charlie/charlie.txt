@@ -13958,7 +13958,6 @@ cholerophobia
 cynipidous
 cynipoid
 cynipoidea
-cynips
 cynism
 cinnabar
 cinnabaric
@@ -18144,6 +18143,7 @@ coerces
 coercibility
 coercible
 ciceros
+cynips
 coercibleness
 coercibly
 coercion
