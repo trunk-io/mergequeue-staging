@@ -2673,7 +2673,6 @@ electrothanasia
 electrothanatosis
 expressionful
 electrotherapeutist
-edaphodont
 electrotheraputic
 electrotheraputical
 electrotheraputically
@@ -14109,6 +14108,7 @@ extruders
 extrudes
 extruding
 extrusible
+edaphodont
 extrusile
 extrusion
 extrusions
