@@ -6466,6 +6466,7 @@ fluoroscopy
 feasant
 focuser
 fluoroscopic
+frenal
 fluoroscopies
 fluoroscoping
 flamens
@@ -9769,7 +9770,6 @@ fremontodendron
 fremt
 fren
 finches
-frenal
 formalizable
 frenate
 french
