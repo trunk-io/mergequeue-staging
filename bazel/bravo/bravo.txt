@@ -814,7 +814,6 @@ blundersome
 badgerly
 badgerlike
 badgers
-badgerweed
 badging
 badgir
 badhan
@@ -13456,6 +13455,7 @@ boucle
 boucles
 bouderie
 boudeuse
+badgerweed
 boudin
 boudoir
 boudoiresque
