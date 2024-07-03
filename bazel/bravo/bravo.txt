@@ -5221,7 +5221,6 @@ begaze
 branny
 begazes
 bowkail
-begazing
 begemming
 begettal
 begetters
@@ -10972,6 +10971,7 @@ blockade
 bhikshu
 brunch
 blockader
+begazing
 blockaders
 blockboard
 blebs
