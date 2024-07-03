@@ -3026,7 +3026,6 @@ acropetally
 acrophobia
 acrophonetic
 acrophony
-acrophonic
 acrophonically
 acrophonies
 acropodia
@@ -18444,6 +18443,7 @@ arachnoid
 arachnoidal
 arachnoidea
 arachnoidean
+acrophonic
 arachnoiditis
 arachnological
 alibamu

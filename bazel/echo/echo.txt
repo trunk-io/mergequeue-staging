@@ -1110,7 +1110,6 @@ ediface
 edify
 echolalia
 edificate
-edification
 edificative
 edificator
 expatiator
@@ -9134,6 +9133,7 @@ echeneidid
 erythraean
 erythraeidae
 electro
+edification
 erythrean
 event
 erythremia
