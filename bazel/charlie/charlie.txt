@@ -3266,7 +3266,6 @@ caprifolium
 capriform
 caprigenous
 capryl
-caprylate
 cycadales
 crackpot
 caprylic
@@ -14559,6 +14558,7 @@ cirriped
 cirripede
 catstone
 cirripedia
+caprylate
 cirripeds
 cirrocumular
 citrul
