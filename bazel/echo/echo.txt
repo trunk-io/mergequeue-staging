@@ -8930,7 +8930,6 @@ einkorns
 enthronized
 eremacausis
 eremian
-eremic
 eremital
 eremite
 eremites
@@ -10329,6 +10328,7 @@ etherize
 etherized
 etherizes
 etherizing
+eremic
 etherlike
 ethernet
 emyde
