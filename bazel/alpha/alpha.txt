@@ -8915,6 +8915,7 @@ allochroic
 allochroite
 allochromatic
 allochroous
+autodecremented
 allochthonous
 adscititiously
 allocyanine
@@ -24004,7 +24005,6 @@ autocross
 autocue
 autodecomposition
 autodecrement
-autodecremented
 autodecrements
 autodepolymerization
 autodermic
