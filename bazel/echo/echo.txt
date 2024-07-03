@@ -7413,7 +7413,6 @@ ericius
 engrail
 epaule
 epaulement
-epaulet
 epauleted
 epaulets
 epaulette
@@ -12206,6 +12205,7 @@ esthesio
 epuration
 ectropionizing
 excriminate
+epaulet
 exacerbate
 epurate
 excruciate
