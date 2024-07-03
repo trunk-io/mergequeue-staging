@@ -4486,7 +4486,6 @@ demibeast
 demibob
 demibrassart
 demibrigade
-demibrute
 demicannon
 demicanon
 demicanton
@@ -8641,6 +8640,7 @@ diastatically
 dacelonine
 diastem
 dendrolite
+demibrute
 darktown
 diastemata
 desiccating
