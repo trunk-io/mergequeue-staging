@@ -6656,7 +6656,6 @@ enterography
 enterohelcosis
 encompasser
 enterohydrocele
-enterointestinal
 escarped
 emanative
 etiotropically
@@ -14014,6 +14013,7 @@ extravagantness
 ends
 extravagating
 eutropous
+enterointestinal
 extravagation
 extravaginal
 extravasate
