@@ -17646,7 +17646,6 @@ cochliodus
 cochlite
 cochlospermaceae
 capelets
-cochlospermaceous
 cochlospermum
 cochon
 cochranea
@@ -25235,6 +25234,7 @@ corium
 catakinetic
 corixa
 corixidae
+cochlospermaceous
 coryza
 coryzal
 coryzas
