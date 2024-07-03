@@ -6395,7 +6395,6 @@ agnosis
 agnostic
 aposiopesis
 agnostically
-agnosticism
 agnostics
 agnostus
 agnus
@@ -11300,6 +11299,7 @@ amphioxus
 amphioxuses
 amphipeptone
 amphiphithyra
+agnosticism
 anemophile
 amphipleura
 amphiploid
