@@ -756,7 +756,6 @@ dandering
 danders
 dandy
 dandiacally
-dandydom
 dandie
 dandier
 detachs
@@ -10322,6 +10321,7 @@ dioptases
 diopter
 diopters
 dioptograph
+dandydom
 dioptometer
 dioptometry
 deckhands
