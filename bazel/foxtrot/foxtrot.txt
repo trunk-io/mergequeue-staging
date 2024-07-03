@@ -1080,6 +1080,7 @@ finials
 farmscape
 farmstead
 farmsteads
+fascine
 farmtown
 farnesol
 farness
@@ -1184,7 +1185,6 @@ fascinator
 freyja
 fibularia
 fascinatress
-fascine
 fascintatingly
 flavorousness
 fasciodesis
