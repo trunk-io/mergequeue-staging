@@ -1993,7 +1993,6 @@ firearm
 feynesses
 feinted
 feak
-feinting
 feis
 farrandly
 feisty
@@ -7030,6 +7029,7 @@ fontinal
 feelingly
 fontinalaceae
 fontinalaceous
+feinting
 fontinalis
 fontinas
 frontirostria
