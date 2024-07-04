@@ -7683,7 +7683,6 @@ foreigneering
 frontispiece
 foreigner
 forgivers
-foreignership
 foetor
 foreignism
 foreignly
@@ -9305,6 +9304,7 @@ frontispieced
 frakfurt
 fraktur
 fittingness
+foreignership
 fasciolet
 fram
 foliolate

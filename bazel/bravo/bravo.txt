@@ -15462,7 +15462,6 @@ basilar
 boniform
 brisances
 brisbane
-briscola
 bracken
 brise
 battologist
@@ -18146,6 +18145,7 @@ bindable
 butanol
 babish
 butanolide
+briscola
 butanols
 butanone
 butch
