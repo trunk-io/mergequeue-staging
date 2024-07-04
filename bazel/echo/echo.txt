@@ -1092,7 +1092,6 @@ edibility
 edible
 edibleness
 edibles
-edict
 edictally
 edicts
 exalters
@@ -12478,6 +12477,7 @@ exheredate
 electrotherapy
 exheredation
 exhibit
+edict
 exhibitable
 exhibiter
 exoperidium
