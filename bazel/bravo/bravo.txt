@@ -690,7 +690,6 @@ bacteriform
 bacterioagglutinin
 botchier
 bacterioblast
-billets
 bacteriochlorophyll
 bacteriocidal
 bacteriocyte
@@ -1962,6 +1961,7 @@ banderoled
 banderols
 banders
 bandersnatch
+billets
 bandfile
 bandfiled
 bandfish
