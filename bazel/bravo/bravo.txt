@@ -709,6 +709,7 @@ bacteriolytic
 bacteriolyze
 bacteriology
 bacteriologic
+bedlids
 bacteriologically
 bacteriologies
 bacteriologist
@@ -4737,7 +4738,6 @@ bedlams
 banjuke
 bedabbled
 bursula
-bedlids
 bedlight
 bewrought
 bedmakers
