@@ -2153,7 +2153,6 @@ gazee
 gazeful
 gazeless
 gazella
-gazellelike
 gazelles
 greyling
 gauzewing
@@ -2478,6 +2477,7 @@ guillotined
 gemauve
 going
 gemeinschaft
+gazellelike
 gemeinschaften
 gemel
 gemelled
