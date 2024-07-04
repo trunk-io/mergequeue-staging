@@ -3712,7 +3712,6 @@ gewgawed
 gewgawy
 gasthaus
 giro
-gewgawish
 gewgawry
 gewgaws
 gez
@@ -5896,6 +5895,7 @@ glossiphonidae
 galvanomagnet
 gynecomaniac
 glossist
+gewgawish
 glossitis
 glossless
 glossmeter
