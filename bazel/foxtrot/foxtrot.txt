@@ -3295,7 +3295,6 @@ fieldsmen
 fieldstone
 fieldstrip
 fashery
-fieldwork
 frondiform
 fieldworker
 federalistic
@@ -9371,6 +9370,7 @@ frangipane
 frangipani
 frangula
 foreteeth
+fieldwork
 foreaccustom
 frangulic
 franticness
