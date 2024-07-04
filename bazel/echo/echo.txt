@@ -2254,7 +2254,6 @@ elected
 enthraldom
 electees
 electic
-electionary
 electioneer
 electioneered
 electioneerer
@@ -9172,6 +9171,7 @@ erythrolitmin
 erythromelalgia
 erythromycin
 escalatory
+electionary
 erythron
 erythroneocytosis
 erythronium
