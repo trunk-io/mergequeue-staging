@@ -4322,6 +4322,7 @@ bebat
 buttonbur
 bebathe
 bebatter
+betrail
 bebeerin
 bebeerine
 beckons
@@ -7410,7 +7411,6 @@ betrayals
 bequeathment
 betrayer
 betraying
-betrail
 bastardising
 betrayment
 betoss

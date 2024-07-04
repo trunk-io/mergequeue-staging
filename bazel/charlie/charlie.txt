@@ -8110,7 +8110,6 @@ chaetophorous
 chaetopod
 chaetopodan
 chaetopodous
-chaetopterin
 chaetopterus
 chaetosomatidae
 chaetosomidae
@@ -31661,6 +31660,7 @@ cushiony
 cushioniness
 cushioning
 cushionless
+chaetopterin
 cannibalistic
 cushionlike
 cushions
