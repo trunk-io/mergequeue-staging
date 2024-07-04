@@ -6723,7 +6723,6 @@ aholt
 ahom
 ahong
 ahorse
-ahorseback
 ahrendahronon
 ahriman
 ahrimanian
@@ -23564,6 +23563,7 @@ auricularly
 auriculas
 anatox
 auriculate
+ahorseback
 auriculated
 auriculately
 auriculidae
