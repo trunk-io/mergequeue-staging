@@ -4111,6 +4111,7 @@ fleshy
 firehall
 fanion
 firehouse
+flaunch
 fluff
 firehouses
 fireless
@@ -5107,7 +5108,6 @@ fiot
 flaughter
 fingerbreadth
 flaughts
-flaunch
 flaunche
 floatstone
 flaunched
