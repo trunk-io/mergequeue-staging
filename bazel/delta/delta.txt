@@ -2434,7 +2434,6 @@ dedan
 deckels
 decken
 decker
-deckhand
 dragsawing
 deckie
 decking
@@ -3435,6 +3434,7 @@ defoliant
 defoliate
 diallist
 defoliates
+deckhand
 defoliating
 defoliator
 deforce

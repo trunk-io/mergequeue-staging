@@ -6211,7 +6211,6 @@ gluttons
 gm
 gmelina
 gmelinite
-gnabble
 geonoma
 gnaphalioid
 gnaphalium
@@ -7989,6 +7988,7 @@ gelatinously
 grandstanding
 grandtotal
 granduncles
+gnabble
 germanhood
 gonad
 grane
