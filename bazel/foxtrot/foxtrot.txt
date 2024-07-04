@@ -5127,7 +5127,6 @@ flauto
 flav
 fluidiser
 flavaniline
-flavanone
 firebrick
 fogon
 fakement
@@ -10004,6 +10003,7 @@ fries
 friesian
 friezed
 faucitis
+flavanone
 frilled
 fromenty
 frig
