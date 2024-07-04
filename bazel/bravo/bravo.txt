@@ -3316,7 +3316,6 @@ basilidan
 basilidian
 brevicauda
 basilinna
-basiliscan
 basiliscine
 basiliscus
 basilosauridae
@@ -12690,6 +12689,7 @@ bookit
 bookkeep
 bookkeeper
 bookkeepers
+basiliscan
 bookkeeps
 bearhide
 bookland
