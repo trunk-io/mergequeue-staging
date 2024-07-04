@@ -2542,7 +2542,6 @@ gemminess
 gemming
 grainering
 genistein
-gemmingia
 gemmipara
 gemmiparous
 gemmiparously
@@ -6915,6 +6914,7 @@ gonogenesis
 gonomere
 gonomery
 gonophore
+gemmingia
 gonophoric
 gonophorous
 gonophs
