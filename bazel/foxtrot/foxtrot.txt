@@ -2874,7 +2874,6 @@ fulminate
 feverless
 feverlike
 feverous
-feverously
 feverroot
 fevertrap
 frostbit
@@ -3304,6 +3303,7 @@ fiendishness
 fiendism
 fiendlike
 firebolt
+feverously
 fip
 fiends
 fykes
