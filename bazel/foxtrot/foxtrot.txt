@@ -1069,6 +1069,7 @@ farmers
 foresights
 farmership
 farmhouse
+floribunda
 farmyard
 fluffed
 focalized
@@ -5983,7 +5984,6 @@ floria
 floriage
 florian
 floriate
-floribunda
 florican
 floricin
 floricomous
