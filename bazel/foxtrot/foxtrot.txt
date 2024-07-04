@@ -2725,7 +2725,6 @@ fetched
 filanders
 fetcher
 fetchers
-flaps
 fetches
 fetching
 fete
@@ -9015,6 +9014,7 @@ fourragere
 fourrageres
 fourrier
 forlore
+flaps
 fours
 foreplace
 febrile
