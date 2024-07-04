@@ -1785,7 +1785,6 @@ gesneria
 gastroenterological
 gonfalcon
 gwen
-ghettoed
 gastroenterostomy
 gasholder
 gastroenterostomies
@@ -6457,6 +6456,7 @@ gobi
 gesticulation
 gamogenetic
 gobia
+ghettoed
 gobian
 glutethimide
 goliad
