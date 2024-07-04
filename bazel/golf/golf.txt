@@ -3889,7 +3889,6 @@ giantize
 graphing
 giantkind
 giantly
-giantlikeness
 giantry
 giants
 giantship
@@ -7528,6 +7527,7 @@ gowked
 gowkedly
 gowkedness
 grunch
+giantlikeness
 gorinesses
 gasthauses
 gowks
