@@ -9418,6 +9418,7 @@ flavins
 frankness
 ferritic
 faitery
+furazan
 franseria
 facing
 fanes
@@ -11302,7 +11303,6 @@ furanoid
 furanose
 flavanthrone
 furanoses
-furazan
 flyable
 furazolidone
 furbearer
