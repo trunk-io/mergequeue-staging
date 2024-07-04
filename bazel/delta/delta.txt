@@ -1452,7 +1452,6 @@ dcollet
 dcolletage
 dcor
 ddname
-dikaryophasic
 ddt
 divine
 dea
@@ -8144,6 +8143,7 @@ diadelphic
 diadelphous
 diadelphia
 diadem
+dikaryophasic
 diadema
 diademed
 duppies
