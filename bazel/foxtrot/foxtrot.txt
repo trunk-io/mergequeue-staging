@@ -65,7 +65,6 @@ facellite
 facemaker
 facemaking
 faceman
-facemark
 facepiece
 faceplate
 facer
@@ -4384,6 +4383,7 @@ fissile
 fissilingual
 flourescent
 fissilinguia
+facemark
 fissility
 fission
 fingerhold
