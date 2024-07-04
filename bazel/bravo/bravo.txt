@@ -2365,7 +2365,6 @@ barbarious
 barbariousness
 barbarisation
 barbarise
-barbarised
 barbarising
 barbarism
 barbarisms
@@ -17579,6 +17578,7 @@ burets
 burette
 burettes
 burez
+barbarised
 burfish
 burg
 bimolecular

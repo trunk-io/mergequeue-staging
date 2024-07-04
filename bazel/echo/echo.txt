@@ -11499,7 +11499,6 @@ eventuality
 eventualities
 erbiums
 egrets
-eventualize
 eventually
 eventuated
 eventuating
@@ -12810,6 +12809,7 @@ euthytatic
 exosepsis
 exoskeletal
 exoskeleton
+eventualize
 exosmic
 enterocolostomy
 empty
