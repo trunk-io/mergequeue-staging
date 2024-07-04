@@ -20064,7 +20064,6 @@ armozine
 armpiece
 armpits
 armplate
-amphichroic
 armrack
 armrest
 armrests
@@ -25328,6 +25327,7 @@ azotemias
 autonomist
 azotemic
 azotenesis
+amphichroic
 azotes
 azotetrazole
 azoth
