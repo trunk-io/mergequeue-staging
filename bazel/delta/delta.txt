@@ -6224,7 +6224,6 @@ dustuck
 disuniting
 deuteromyosinose
 dermatopathia
-dermatopathology
 dermatopathophobia
 dermatophagus
 dermatophyte
@@ -11487,6 +11486,7 @@ discommodious
 deficiencies
 disputatiousness
 discommodiously
+dermatopathology
 discommodiousness
 discommodity
 denary
