@@ -24905,7 +24905,6 @@ coralloid
 coralloidal
 corallorhiza
 castelet
-corallum
 corallus
 coralroot
 corals
@@ -30551,6 +30550,7 @@ cuckoomaid
 cuckoomaiden
 cuckoopint
 cuckoopintle
+corallum
 cordwainery
 cuckoos
 cuckstool

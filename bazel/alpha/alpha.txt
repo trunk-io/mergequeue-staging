@@ -13658,6 +13658,7 @@ annealing
 anneals
 annect
 annectant
+antiamboceptor
 annectent
 annection
 annelid
@@ -20493,7 +20494,6 @@ artemisia
 apiolin
 artemisic
 artemision
-antiamboceptor
 artemisium
 artemon
 anchoretical
