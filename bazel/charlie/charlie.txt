@@ -3081,7 +3081,6 @@ capital
 capitaled
 capitaling
 capitalisable
-capitalise
 capitalised
 citoyen
 capitaliser
@@ -8473,6 +8472,7 @@ chambioa
 chambray
 colloquist
 chambranle
+capitalise
 chambre
 chambrel
 chambul
