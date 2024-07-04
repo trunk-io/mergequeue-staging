@@ -15661,7 +15661,6 @@ acroamatic
 ascophore
 antimensia
 antimension
-antimensium
 amphiarthroses
 antimephitic
 antimere
@@ -23851,6 +23850,7 @@ authorship
 authotype
 autism
 autisms
+antimensium
 autist
 autistic
 ataman

@@ -262,7 +262,6 @@ brickliner
 bached
 bachel
 bachelor
-bachelordom
 bathypelagic
 bachelorhood
 bobache
@@ -16613,6 +16612,7 @@ beltian
 bemocks
 buckpot
 buckraming
+bachelordom
 buckrams
 buckras
 bucksaw
