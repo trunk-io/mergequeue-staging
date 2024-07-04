@@ -9147,7 +9147,6 @@ biosatellite
 becking
 biosciences
 buffball
-bioscientific
 bioscientist
 bepaints
 bioscope
@@ -17184,6 +17183,7 @@ bossa
 bullweed
 bullweeds
 bullwhacker
+bioscientific
 bullwhipped
 bullwhipping
 blattoidea
