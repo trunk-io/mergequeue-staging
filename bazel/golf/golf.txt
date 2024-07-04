@@ -1297,7 +1297,6 @@ galenism
 gravitational
 garad
 gallish
-garage
 gyved
 garageman
 gilgie
@@ -6637,6 +6636,7 @@ goldenrod
 gabionade
 gucked
 goldentop
+garage
 goldenwing
 golder
 goldest
