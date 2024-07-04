@@ -7109,7 +7109,6 @@ feeders
 footboards
 footboy
 footboys
-footbreadth
 fields
 footcandle
 footcandles
@@ -9559,6 +9558,7 @@ forcaria
 flichter
 freckled
 forbearingness
+footbreadth
 fingermark
 freckledness
 freckles
