@@ -5521,6 +5521,7 @@ affricate
 affricated
 affricates
 affrication
+agrimotor
 affricative
 affriended
 aborting
@@ -6574,7 +6575,6 @@ agrilus
 agrimony
 agrimonia
 agrimonies
-agrimotor
 agrin
 agriochoeridae
 agriochoerus

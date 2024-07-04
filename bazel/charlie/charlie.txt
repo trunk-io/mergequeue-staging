@@ -3364,6 +3364,7 @@ captaincies
 captained
 captainess
 captaining
+chytra
 captainly
 captainry
 captainries
@@ -28315,7 +28316,6 @@ craunchingly
 cravat
 cravats
 cravatting
-chytra
 crave
 craved
 craven
