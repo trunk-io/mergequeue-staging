@@ -11849,6 +11849,7 @@ boffs
 bog
 boilover
 boga
+breadthwise
 bogach
 bogan
 bogans
@@ -14784,7 +14785,6 @@ breadths
 blindedly
 breadthways
 burnouts
-breadthwise
 breadwinner
 breadwinners
 breadwinning
