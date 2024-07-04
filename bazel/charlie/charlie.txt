@@ -22178,7 +22178,6 @@ ct
 confusticate
 confustication
 confutability
-confutable
 confutation
 confutations
 confutator
@@ -22302,6 +22301,7 @@ congous
 congrats
 congratulable
 clubhaul
+confutable
 congratulant
 congratulate
 congratulated

@@ -9106,7 +9106,6 @@ erithacus
 encephaloma
 erythea
 erythema
-erythemal
 epidemic
 erythemas
 erythematous
@@ -9544,6 +9543,7 @@ eschars
 eschatocol
 eschatological
 eschatologically
+erythemal
 eschatologist
 electroencephalographical
 epistemology
