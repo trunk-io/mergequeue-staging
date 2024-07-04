@@ -2394,6 +2394,7 @@ electrodepositable
 electrodeposition
 electrodepositor
 electrodes
+embolite
 electrodesiccation
 ettling
 electrodiagnosis
@@ -3555,7 +3556,6 @@ embolismic
 eases
 embolisms
 empathized
-embolite
 embolium
 embolization
 embolize
