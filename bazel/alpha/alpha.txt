@@ -7487,7 +7487,6 @@ agrostographic
 azarole
 albatros
 albatross
-amiable
 axlike
 albe
 albedo
@@ -20566,6 +20565,7 @@ arteritis
 anthropos
 artesian
 amitie
+amiable
 artesonado
 artfully
 adhesivemeter
