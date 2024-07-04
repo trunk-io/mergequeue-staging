@@ -6207,7 +6207,6 @@ empetrous
 eten
 enormious
 enormity
-enormous
 egghot
 enormousness
 enorn
@@ -11333,6 +11332,7 @@ evaluate
 evaluates
 evaluation
 evaluations
+enormous
 evaluative
 entailer
 electrocardiography
