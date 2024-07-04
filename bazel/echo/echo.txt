@@ -1795,6 +1795,7 @@ ecch
 eyey
 eyeing
 eyeish
+endungeon
 eyelash
 etude
 eyelashes
@@ -5476,7 +5477,6 @@ ergmeter
 exploration
 enduement
 enduing
-endungeon
 endura
 exotisms
 endurability

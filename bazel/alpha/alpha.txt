@@ -20860,7 +20860,6 @@ authenticating
 aruspice
 aruspices
 aruspicy
-arustle
 arval
 arvejon
 arvel
@@ -23667,6 +23666,7 @@ auscultative
 autographical
 auscultatory
 auscultoscope
+arustle
 auditioned
 anisostemonous
 ausformed
