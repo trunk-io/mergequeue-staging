@@ -9586,7 +9586,6 @@ assyroid
 alternated
 alternately
 alternateness
-alternater
 antically
 alternatingly
 alternation
@@ -11236,6 +11235,7 @@ amphidiploid
 amphidiploidy
 amphidisc
 amphidiscophora
+alternater
 amphidiscophoran
 amphidisk
 amphidromic
