@@ -927,7 +927,6 @@ bagging
 breakfasted
 baggings
 boardwalk
-baggyrinkle
 basseted
 baggit
 baggywrinkle
@@ -3160,6 +3159,7 @@ basculation
 bascules
 base
 baseball
+baggyrinkle
 baseballdom
 baseballer
 baseballs
