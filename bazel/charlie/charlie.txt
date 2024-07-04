@@ -2964,7 +2964,6 @@ capacitative
 capacitativly
 capacity
 capacities
-capacitor
 capanne
 cystolithectomy
 camelopards
@@ -3642,6 +3641,7 @@ carboazotine
 carbocer
 carbocyclic
 carbocinchomeronic
+capacitor
 conrail
 carbodiimide
 carbodynamite

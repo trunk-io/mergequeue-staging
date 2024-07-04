@@ -2829,7 +2829,6 @@ elephantry
 elephas
 elettaria
 eleuin
-eleusine
 eldorado
 eleusinia
 eleusinian
@@ -7195,6 +7194,7 @@ envined
 envineyard
 enviously
 eruciform
+eleusine
 envire
 enviroment
 equibalance
