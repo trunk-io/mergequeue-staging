@@ -1273,7 +1273,6 @@ fishhouse
 flumed
 fastgoing
 farnovian
-fasti
 feudaries
 fastidiosity
 fastidious
@@ -8220,6 +8219,7 @@ fogdog
 forgetive
 forgets
 forgett
+fasti
 forgettable
 forgettably
 forgettery
