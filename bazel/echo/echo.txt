@@ -1140,7 +1140,6 @@ editing
 epacts
 ectosarcs
 elephantine
-epidermic
 editions
 electoral
 editor
@@ -13551,6 +13550,7 @@ extendability
 eosaurus
 extendable
 extended
+epidermic
 extendedly
 extenders
 extending
