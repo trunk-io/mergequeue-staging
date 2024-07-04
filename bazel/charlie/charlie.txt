@@ -10650,6 +10650,7 @@ chilostome
 chiefdom
 chylothorax
 chilotomy
+caveat
 chilotomies
 chylous
 chilte
@@ -19621,7 +19622,6 @@ columella
 columellae
 columellia
 coolabah
-caveat
 columelliaceae
 columels
 cambibia
