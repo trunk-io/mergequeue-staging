@@ -4121,7 +4121,6 @@ axiologies
 adlumidin
 adlumidine
 antimedication
-adlumin
 adlumine
 adm
 adman
@@ -22611,6 +22610,7 @@ athymic
 athing
 athink
 athyreosis
+adlumin
 athyria
 appendancy
 athyrid
