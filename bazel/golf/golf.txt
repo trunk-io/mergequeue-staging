@@ -4257,7 +4257,6 @@ gimmicky
 gimmickry
 gratefully
 gymnadenia
-gymnadeniopsis
 guanine
 gaveller
 gymnanthes
@@ -5689,6 +5688,7 @@ globicephala
 gauntly
 gorsier
 globigerina
+gymnadeniopsis
 gurdfish
 globigerinae
 gyse
