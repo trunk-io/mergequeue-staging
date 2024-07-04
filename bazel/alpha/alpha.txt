@@ -1673,7 +1673,6 @@ accommodableness
 accommodate
 accommodated
 accommodately
-adscriptive
 accommodateness
 afterthrift
 accommodates
@@ -2533,6 +2532,7 @@ acinaces
 acinacifoliate
 acinacifolious
 acinaciform
+adscriptive
 acinacity
 acinar
 acinary

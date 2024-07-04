@@ -4085,7 +4085,6 @@ empanelment
 explorativeness
 empannel
 electrologic
-empanoply
 emparl
 empasm
 empassion
@@ -7806,6 +7805,7 @@ etwee
 epifolliculitis
 eatable
 endocytic
+empanoply
 epigaea
 esmeraldite
 epigamic
