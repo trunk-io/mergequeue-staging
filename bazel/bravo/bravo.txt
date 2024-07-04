@@ -11545,7 +11545,6 @@ boccaro
 britzskas
 boarders
 boardy
-boardinghouse
 boardings
 birkenia
 boardly
@@ -13511,6 +13510,7 @@ boulder
 bouldered
 bouldery
 bouldering
+boardinghouse
 bespouse
 boules
 boulevard
