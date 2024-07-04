@@ -2172,7 +2172,6 @@ decedent
 decedents
 deuteroelastose
 deceit
-deceitful
 deceitfully
 doomer
 divergently
@@ -12864,6 +12863,7 @@ disorientating
 disorientation
 darogha
 disoriented
+deceitful
 disruptionist
 disorients
 disour
