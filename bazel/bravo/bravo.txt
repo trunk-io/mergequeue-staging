@@ -5587,7 +5587,6 @@ biface
 belam
 belamcanda
 belamy
-belamour
 bonne
 belanda
 belander
@@ -17169,6 +17168,7 @@ bullpout
 bullpup
 bullragged
 bullragging
+belamour
 bullroarer
 bullrush
 bullrushes

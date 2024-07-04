@@ -8937,7 +8937,6 @@ clyers
 characterology
 characterological
 characterologically
-characterologist
 characters
 characterstring
 colometric
@@ -22879,6 +22878,7 @@ climaxes
 conservatory
 conservatorial
 conservatories
+characterologist
 conservatorium
 conservators
 conservatorship
