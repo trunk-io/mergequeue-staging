@@ -3787,7 +3787,6 @@ adenosarcomata
 adenosclerosis
 adenose
 arrant
-adenoses
 adenosine
 adenostoma
 adenotyphoid
@@ -13547,6 +13546,7 @@ antisepsis
 anywhereness
 anywise
 anywither
+adenoses
 anhalonium
 anjan
 anjou
