@@ -10844,7 +10844,6 @@ confusers
 chinol
 chinoleine
 chinoline
-chinologist
 chinone
 chinones
 chinook
@@ -14151,6 +14150,7 @@ cyproterone
 cyprus
 cypsela
 cypseli
+chinologist
 cypselid
 cypselidae
 cypseliform
