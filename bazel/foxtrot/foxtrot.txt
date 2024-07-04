@@ -3929,7 +3929,6 @@ fingram
 fingu
 fini
 faldage
-finialed
 finically
 finicalness
 finicism
@@ -9800,6 +9799,7 @@ forename
 faiths
 fracedinous
 frenghi
+finialed
 frenne
 fream
 frenula
