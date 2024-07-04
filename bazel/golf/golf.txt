@@ -1527,7 +1527,6 @@ garrotte
 garrotting
 gastrocystis
 garrulinae
-garruline
 garrulity
 garrulous
 garrulously
@@ -2627,6 +2626,7 @@ generalate
 generalcy
 generalcies
 grizzles
+garruline
 generale
 greenhearted
 greywether
