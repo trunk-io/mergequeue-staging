@@ -4686,7 +4686,6 @@ adverse
 adversed
 adversely
 actinoid
-adenotyphus
 adverseness
 adversifoliate
 angularization
@@ -24514,6 +24513,7 @@ autumns
 antihygienically
 autunian
 autunites
+adenotyphus
 auxamylase
 auxanogram
 auxanometer
