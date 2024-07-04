@@ -5119,6 +5119,7 @@ aerometric
 aeromotor
 aeron
 arkose
+anatomicomedical
 aeronat
 aeronaut
 aeronautic
@@ -24381,7 +24382,6 @@ autoserum
 autosight
 activation
 albuminuric
-anatomicomedical
 adversant
 autosymbolic
 autosymbolical
