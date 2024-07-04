@@ -5826,6 +5826,7 @@ apastron
 aftertrial
 advisable
 afterturn
+ammophila
 aftervision
 afterwale
 afterward
@@ -10933,7 +10934,6 @@ ammonolytic
 ammonolyze
 ammonolyzed
 ammonolyzing
-ammophila
 ammophilous
 ammoreslinol
 ammos
