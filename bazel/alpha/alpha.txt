@@ -20780,6 +20780,7 @@ artist
 artiste
 artistes
 artistess
+attempre
 artistic
 anisogeny
 artistical
@@ -23001,7 +23002,6 @@ attemperation
 attempered
 attempering
 attempers
-attempre
 attempt
 attemptable
 amphithere
