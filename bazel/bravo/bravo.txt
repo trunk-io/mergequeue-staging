@@ -3206,7 +3206,6 @@ basenjis
 bonnetmen
 baseplug
 basepoint
-baser
 bookstores
 bases
 bash
@@ -5587,6 +5586,7 @@ belamy
 bonne
 belanda
 belander
+baser
 belap
 belar
 belard
