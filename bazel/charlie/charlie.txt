@@ -3094,7 +3094,6 @@ capitalizer
 capitalizers
 capitalizes
 capitalizing
-capitally
 capitalness
 capitals
 capitan
@@ -15346,6 +15345,7 @@ clallam
 clam
 clamant
 clamantly
+capitally
 clamaroo
 clamative
 clamatores
