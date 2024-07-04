@@ -13258,7 +13258,6 @@ balnea
 botanist
 botanize
 botanizer
-botanizes
 botanizing
 botanomancy
 botanophile
@@ -14169,6 +14168,7 @@ briners
 bradyseismic
 bradyseismical
 bradysphygmia
+botanizes
 bradystalsis
 bradyteleocinesia
 bradyteleokinesis
