@@ -10481,6 +10481,7 @@ amharic
 amherstite
 amhran
 attribute
+avianized
 ami
 asherites
 araujia
@@ -24700,7 +24701,6 @@ avgasses
 avyayibhava
 avian
 avianize
-avianized
 arguments
 avianizes
 avianizing
