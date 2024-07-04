@@ -9624,6 +9624,7 @@ bisector
 bisectors
 bisectrices
 bisects
+boredoms
 backcloth
 bisegment
 blowcase
@@ -13011,7 +13012,6 @@ borecoles
 bigheartedness
 bored
 boredom
-boredoms
 boree
 boreen
 boreens
