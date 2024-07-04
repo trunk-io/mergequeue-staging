@@ -1008,7 +1008,6 @@ gangliglions
 gammed
 genospecies
 gammelost
-gammerel
 gammers
 gamelote
 gammy
@@ -9887,6 +9886,7 @@ ganoids
 guarapucu
 gowns
 gushily
+gammerel
 guarauno
 guard
 guardable
