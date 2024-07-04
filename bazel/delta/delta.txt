@@ -1969,7 +1969,6 @@ decagramme
 decahedra
 decahedral
 decahedrodra
-decahedron
 decahedrons
 decahydronaphthalene
 decay
@@ -10880,6 +10879,7 @@ demonstrativeness
 disabler
 disablers
 denouncement
+decahedron
 disabling
 disabusal
 diazoimido
