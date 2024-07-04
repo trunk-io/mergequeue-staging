@@ -5446,7 +5446,6 @@ ferdiad
 flexive
 fevertwitch
 flexo
-flexography
 flexographic
 flexographically
 flexors
@@ -8857,6 +8856,7 @@ flintlock
 forgie
 fetichry
 foster
+flexography
 fosterage
 footsores
 furtiveness
