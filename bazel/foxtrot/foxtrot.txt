@@ -2631,7 +2631,6 @@ furosemide
 flimsier
 fissipedal
 fervescence
-fervescent
 fervid
 frase
 fervidly
@@ -7375,6 +7374,7 @@ forcefully
 forceless
 forcelet
 forcement
+fervescent
 fibromatoid
 forcepses
 forceput
