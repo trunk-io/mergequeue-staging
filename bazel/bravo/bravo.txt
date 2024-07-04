@@ -8223,6 +8223,7 @@ byeworkman
 bifaces
 bifacial
 bifara
+brewster
 bifarious
 beadrolls
 bridler
@@ -16070,7 +16071,6 @@ bugproof
 broomiest
 beakers
 brooming
-brewster
 broommaker
 broommaking
 broomrape
