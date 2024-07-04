@@ -6641,6 +6641,7 @@ extraocular
 enterology
 enterologic
 enteromegaly
+experimentist
 engrains
 enteromegalia
 enteromesenteric
@@ -13080,7 +13081,6 @@ experimenters
 experimenting
 ejectee
 entrancer
-experimentist
 experimentize
 experimentor
 etiquettical
