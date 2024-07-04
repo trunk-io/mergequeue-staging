@@ -2028,6 +2028,7 @@ bandos
 badmouthed
 bandpass
 bandrol
+brachyura
 bandsaw
 bandsawed
 bandsawn
@@ -14062,7 +14063,6 @@ brachytic
 brachytypous
 brachytmema
 brachium
-brachyura
 brachyuran
 brachyuranic
 brachyurous
