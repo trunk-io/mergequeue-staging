@@ -6588,7 +6588,6 @@ agriologist
 agrionia
 agrionidae
 agriotes
-arborescent
 agriotypidae
 amoebobacter
 agriotypus
@@ -17749,6 +17748,7 @@ appendent
 appender
 androtauric
 appenders
+arborescent
 appendicalgia
 amoibite
 ascii
