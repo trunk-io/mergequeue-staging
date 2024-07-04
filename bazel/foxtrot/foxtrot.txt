@@ -4123,7 +4123,6 @@ fragmentize
 forthbrought
 frameworks
 firepink
-firepinks
 fireplace
 fireplaces
 facultied
@@ -8806,6 +8805,7 @@ fleabag
 fossildom
 fossiled
 fossiliferous
+firepinks
 flukey
 finites
 foregallery
