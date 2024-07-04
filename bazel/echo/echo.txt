@@ -4398,7 +4398,6 @@ enamel
 enamelers
 enameling
 enamelist
-enamellar
 equiped
 egocentristic
 enameller
@@ -12268,6 +12267,7 @@ estradiot
 exdelicto
 exdie
 escapade
+enamellar
 exdividend
 exeat
 exec
