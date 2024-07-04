@@ -626,7 +626,6 @@ filarial
 fusarole
 faltered
 falterer
-falterers
 falteringly
 finicality
 flaggingly
@@ -8621,6 +8620,7 @@ forswat
 forswear
 forswearer
 forswearing
+falterers
 fields
 forswears
 farmable
