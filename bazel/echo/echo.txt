@@ -6934,6 +6934,7 @@ entoplasm
 entoplastron
 entopopliteal
 entoprocta
+exsectile
 entopterygoid
 entoptically
 engraff
@@ -13454,7 +13455,6 @@ exscutellate
 exsec
 exsecants
 exsected
-exsectile
 encephalotomies
 exsecting
 exsector
