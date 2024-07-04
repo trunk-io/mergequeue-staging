@@ -12984,7 +12984,6 @@ barristerial
 borders
 bordman
 bordrag
-bordrage
 bordroom
 bordun
 blackeye
@@ -14290,6 +14289,7 @@ brayed
 brayera
 brayerin
 brayers
+bordrage
 braies
 brayette
 braying
