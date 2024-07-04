@@ -3377,7 +3377,6 @@ fighteress
 frontomalar
 fighters
 forcibleness
-fighting
 fightings
 fascio
 fightwite
@@ -10134,6 +10133,7 @@ frisado
 foreguidance
 flopped
 frisbee
+fighting
 frisca
 friscal
 fife
