@@ -8538,7 +8538,6 @@ coherence
 champa
 champac
 champaca
-champacol
 champacs
 champagne
 champagned
@@ -22263,6 +22262,7 @@ congession
 congest
 congested
 congestedness
+champacol
 congestible
 congesting
 congestion
