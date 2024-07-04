@@ -9168,7 +9168,6 @@ chartering
 charterism
 charterist
 charterless
-chartermaster
 charters
 charthouse
 charting
@@ -19844,6 +19843,7 @@ cometh
 comether
 cotemporary
 cavum
+chartermaster
 comethers
 cometic
 cometlike

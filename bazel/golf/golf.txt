@@ -5670,7 +5670,6 @@ globed
 globefish
 globeflower
 guppies
-globelet
 globelike
 globes
 globetrotters
@@ -10533,6 +10532,7 @@ gracile
 gunrack
 gunreach
 gunrooms
+globelet
 greenhew
 gunrunner
 gunrunning
