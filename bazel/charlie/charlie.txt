@@ -4856,6 +4856,7 @@ cartobibliography
 comstock
 cartogram
 chloridizing
+clefs
 cartographer
 cartographers
 cartography
@@ -15927,7 +15928,6 @@ cleeky
 cleeking
 cleeks
 clef
-clefs
 cleft
 clefted
 cleidagra
