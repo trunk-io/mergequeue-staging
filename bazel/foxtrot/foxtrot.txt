@@ -4715,7 +4715,6 @@ frenchly
 flagitiously
 flagleaf
 filesniff
-flagless
 forechurch
 flaglike
 flotation
@@ -4757,6 +4756,7 @@ flails
 flain
 forearm
 faraway
+flagless
 flairs
 furdle
 firnification
