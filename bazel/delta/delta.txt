@@ -5261,7 +5261,6 @@ detinues
 dysenteries
 dentally
 dentalman
-dentalmen
 divisors
 dentals
 dentaphone
@@ -12491,6 +12490,7 @@ disinsure
 disintegrable
 disintegrant
 dumsola
+dentalmen
 demireps
 disintegrate
 disintegrated
