@@ -20678,7 +20678,6 @@ apprize
 arthrosia
 arthrosynovitis
 arthrosis
-aeromagnetic
 aethered
 arthrospore
 arthrosporic
@@ -25199,6 +25198,7 @@ azande
 azaserine
 azathioprine
 astute
+aeromagnetic
 azedarac
 azedarach
 azelate
