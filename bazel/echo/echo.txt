@@ -2811,7 +2811,6 @@ engladden
 elephantiasis
 exocoelom
 euphonism
-elephantidae
 elephantlike
 elephantoid
 elephantoidal
@@ -6790,6 +6789,7 @@ enthuse
 enthused
 enthuses
 enthusiasms
+elephantidae
 enthusiast
 emballonurine
 enthusiastic
