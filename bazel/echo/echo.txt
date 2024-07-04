@@ -3804,7 +3804,6 @@ embussed
 embussing
 emcee
 emceeing
-emcees
 emceing
 exhalate
 emeraude
@@ -9755,6 +9754,7 @@ esothyropexy
 esotropia
 eke
 esotropic
+emcees
 esp
 espacement
 espadon
