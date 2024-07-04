@@ -14979,7 +14979,6 @@ anticardium
 anticarnivorous
 anticaste
 anticatalase
-anticatalyst
 anticatalytic
 anticatalytically
 akehorne
@@ -24503,6 +24502,7 @@ autoxidize
 autoxidizer
 antebellum
 autozooid
+anticatalyst
 agamis
 autre
 autrefois
