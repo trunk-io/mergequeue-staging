@@ -5515,7 +5515,6 @@ affricates
 affrication
 agrimotor
 affricative
-affriended
 aborting
 antrotome
 affright
@@ -10156,6 +10155,7 @@ amblycephalidae
 antedorsal
 amblychromatic
 amblydactyla
+affriended
 amblygeusia
 amblygon
 amblygonal
