@@ -7142,7 +7142,6 @@ gorbit
 gorble
 goldbricker
 gorblimey
-gorblimy
 gorblin
 grandchild
 gallbladder
@@ -8155,6 +8154,7 @@ graphemes
 graphemic
 graphemically
 graphy
+gorblimy
 gallantries
 gulleting
 graphically
