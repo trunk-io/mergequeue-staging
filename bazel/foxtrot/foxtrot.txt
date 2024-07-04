@@ -3211,7 +3211,6 @@ fidelity
 fidelities
 fideos
 fidepromission
-forerevelation
 fidepromissor
 fosse
 farcied
@@ -11663,6 +11662,7 @@ fusula
 ferruling
 fusulae
 fusulas
+forerevelation
 fusus
 flaxtail
 founte
