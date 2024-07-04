@@ -4386,7 +4386,6 @@ enalid
 enaliornis
 enaliosauria
 enaliosaurian
-esplanades
 externum
 enalite
 enallachrome
@@ -5692,6 +5691,7 @@ engagers
 encumbrances
 eviternal
 elastometer
+esplanades
 engagingness
 expatriations
 engallant
