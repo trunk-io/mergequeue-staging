@@ -7903,6 +7903,7 @@ dextrogyre
 dermosynovitis
 dextrogyrous
 dextroglucose
+dialog
 dislodgment
 dextrolactic
 dextrolimonene
@@ -8333,7 +8334,6 @@ dialler
 dialling
 diallings
 diallists
-dialog
 dialoger
 dialogers
 dialogged
