@@ -7006,7 +7006,6 @@ ease
 entrant
 entrants
 entrap
-endurableness
 expansible
 experiments
 esrog
@@ -13400,6 +13399,7 @@ eucharists
 expungement
 expungers
 expunging
+endurableness
 expurgate
 expurgated
 expurgating
