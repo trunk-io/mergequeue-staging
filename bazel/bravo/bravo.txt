@@ -5235,7 +5235,6 @@ bastarda
 beggaring
 beggarism
 bracciale
-bicrescentic
 beggarly
 beggarlice
 beggarlike
@@ -12307,6 +12306,7 @@ bombycilla
 bombycina
 bombycine
 bombycinous
+bicrescentic
 bombidae
 bombilate
 busway
