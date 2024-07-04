@@ -10102,7 +10102,6 @@ calusa
 cherubin
 cherublike
 cherubs
-cherup
 cherusci
 chervante
 chervil
@@ -30969,6 +30968,7 @@ cumulately
 cumulates
 cumulating
 cumulation
+cherup
 cumulatist
 cumulative
 cumulatively
