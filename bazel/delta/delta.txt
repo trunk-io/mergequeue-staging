@@ -1734,7 +1734,6 @@ debarbarize
 debark
 detumescence
 debarkations
-debarked
 derailed
 debarkment
 debarks
@@ -2852,6 +2851,7 @@ decurion
 decurionate
 decurions
 discrimination
+debarked
 decurrence
 dinus
 decurrences
