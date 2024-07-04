@@ -4772,6 +4772,7 @@ guhr
 girned
 girnie
 girning
+gripless
 gathering
 gyro
 gyrocar
@@ -9075,7 +9076,6 @@ gripy
 gripier
 gripingly
 guittonian
-gripless
 grievingly
 gripman
 gripmen
