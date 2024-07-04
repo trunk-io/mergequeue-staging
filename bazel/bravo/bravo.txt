@@ -2509,6 +2509,7 @@ bemuse
 bardane
 bardcraft
 barde
+baruch
 beribboned
 barded
 blesmol
@@ -3122,7 +3123,6 @@ bartramia
 bartramiaceae
 bartree
 baru
-baruch
 barundi
 barvel
 bartend
