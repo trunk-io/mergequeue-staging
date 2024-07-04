@@ -7515,6 +7515,7 @@ forechoice
 fourflusher
 foregame
 forechoose
+forepast
 foretooth
 foreclaw
 foreclosable
@@ -7807,7 +7808,6 @@ foreparents
 forepart
 foreparts
 forepass
-forepast
 forepaw
 forepaws
 fragmentariness
