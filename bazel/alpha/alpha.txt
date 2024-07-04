@@ -9258,7 +9258,6 @@ almondlike
 aposaturn
 arosaguntacook
 almonds
-almoner
 almoners
 almonership
 almoning
@@ -18832,6 +18831,7 @@ allurement
 archdefender
 archdemon
 archdepredator
+almoner
 archdespot
 archdetective
 archdiocesan
