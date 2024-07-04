@@ -1241,7 +1241,6 @@ eeyuch
 eeyuck
 eelblennies
 eelboat
-eelcake
 electrothermostatic
 eelcatcher
 ennoblement
@@ -13210,6 +13209,7 @@ encoders
 explicitly
 explicitness
 enchantingly
+eelcake
 explicits
 ephapse
 exploded
