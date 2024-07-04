@@ -1672,7 +1672,6 @@ fazes
 forehill
 fb
 frontierman
-fbi
 fchar
 fipenny
 fcomp
@@ -4709,6 +4708,7 @@ flagitation
 fraudful
 frenchly
 flagitiously
+fbi
 flagleaf
 filesniff
 forechurch
