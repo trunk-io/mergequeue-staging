@@ -3958,7 +3958,6 @@ adipic
 adipocele
 adipocellulose
 anthropological
-adipoceriform
 adipocerite
 adipocerous
 adipocyte
@@ -22442,6 +22441,7 @@ atake
 atalaya
 atalayas
 atamans
+adipoceriform
 atamasco
 atamascos
 atamosco
