@@ -7506,7 +7506,6 @@ beveler
 bevelers
 blastophore
 bkpt
-bevelled
 bevelling
 bevelment
 bevenom
@@ -7825,6 +7824,7 @@ bandannaed
 bibby
 bibbing
 bibble
+bevelled
 bunched
 bibbler
 bibbling
