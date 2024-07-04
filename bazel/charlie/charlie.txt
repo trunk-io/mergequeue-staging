@@ -3377,7 +3377,6 @@ captate
 captation
 caption
 captioned
-captioning
 captionless
 captions
 cornutus
@@ -28554,6 +28553,7 @@ credo
 credos
 credulity
 credulities
+captioning
 credulous
 credulously
 credulousness

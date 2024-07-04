@@ -4257,7 +4257,6 @@ deleerit
 deltas
 deltation
 delthyrial
-delthyrium
 deltidia
 deltidial
 displacer
@@ -6656,6 +6655,7 @@ desiliconization
 dribbed
 desiliconize
 delate
+delthyrium
 desilt
 desilvered
 desilvering
