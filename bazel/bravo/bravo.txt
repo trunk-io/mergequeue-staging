@@ -12618,7 +12618,6 @@ boodie
 boodle
 buffbar
 boodleize
-boodler
 bougies
 boodlers
 boodles
@@ -13868,6 +13867,7 @@ boxhaul
 boxhauled
 boxhauling
 boxhauls
+boodler
 boxhead
 bepuffed
 bluffable
