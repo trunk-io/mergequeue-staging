@@ -8355,6 +8355,7 @@ epithecia
 epithecium
 epithelia
 endofaradism
+exosporous
 epithelialize
 ejectives
 epithelioceptor
@@ -12829,7 +12830,6 @@ enfaces
 endotracheitis
 exospore
 exosporium
-exosporous
 exossate
 exosseous
 embrew
