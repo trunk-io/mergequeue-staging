@@ -3413,6 +3413,7 @@ capturable
 capture
 captured
 capturers
+catholicisation
 captures
 capturing
 capuan
@@ -5930,7 +5931,6 @@ catholically
 cosshen
 catholicalness
 catholicate
-catholicisation
 catholicise
 catholicised
 catholicism
