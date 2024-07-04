@@ -2660,7 +2660,6 @@ canonic
 coling
 canonical
 canonicalization
-canonicalize
 canonicalizes
 canonicalizing
 congealer
@@ -9990,6 +9989,7 @@ chemotherapists
 chemotic
 chemotroph
 chemotropic
+canonicalize
 chemotropically
 chempaduk
 chemurgy
