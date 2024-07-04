@@ -384,7 +384,6 @@ diaphragmed
 dailies
 daylight
 daylighted
-defocus
 dogey
 daylighting
 daylights
@@ -9326,6 +9325,7 @@ deadheaded
 differencingly
 different
 differentiability
+defocus
 differentiable
 describer
 differentiae
