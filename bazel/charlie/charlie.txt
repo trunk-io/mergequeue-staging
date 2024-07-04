@@ -5923,7 +5923,6 @@ cathodically
 cathodograph
 cathodography
 cathodoluminescence
-cathograph
 cathography
 cathole
 cytoplasmically
@@ -17508,6 +17507,7 @@ cocainising
 cocainism
 cocainist
 cocainization
+cathograph
 cocainize
 cocainized
 comminuting
