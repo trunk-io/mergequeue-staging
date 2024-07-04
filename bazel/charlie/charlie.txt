@@ -2752,6 +2752,7 @@ cantankerousness
 cantar
 cantara
 cantare
+care
 cantaro
 chunks
 cantata
@@ -4098,7 +4099,6 @@ cardstock
 carduaceae
 carduelis
 carduus
-care
 carecloth
 corta
 careen
