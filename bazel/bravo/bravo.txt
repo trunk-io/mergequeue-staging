@@ -478,6 +478,7 @@ boskets
 backrush
 backsaw
 beltman
+brickle
 bristly
 byblis
 backsaws
@@ -3462,7 +3463,6 @@ bassos
 bassus
 basswood
 basswoods
-brickle
 bast
 basta
 bastant
