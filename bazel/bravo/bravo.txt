@@ -14146,7 +14146,6 @@ bradyglossia
 bepowder
 bradykinesis
 brachylogy
-bradykinetic
 barillas
 bradykinin
 bumblebeefish
@@ -16552,6 +16551,7 @@ buckass
 buckbeans
 buckberry
 buckboard
+bradykinetic
 buckboards
 buckbrush
 buckbush
