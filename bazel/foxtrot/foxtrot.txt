@@ -2518,7 +2518,6 @@ ferritins
 frolics
 ferritization
 flunkyistic
-ferryway
 ferroaluminum
 ferrocalcite
 ferrocene
@@ -4613,6 +4612,7 @@ fullbodied
 focuses
 flabella
 flecnode
+ferryway
 flabellate
 flagrant
 favus

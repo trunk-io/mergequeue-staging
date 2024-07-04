@@ -19131,7 +19131,6 @@ archostenosis
 archoverseer
 altern
 archpall
-archpapist
 archpastor
 archpatriarch
 archpatron
@@ -20846,6 +20845,7 @@ auteur
 arupa
 arusa
 authenticating
+archpapist
 aruspice
 aruspices
 aruspicy
