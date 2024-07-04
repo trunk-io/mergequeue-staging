@@ -24385,7 +24385,6 @@ autosensitized
 autosepticemia
 autoserotherapy
 autoserum
-autosexing
 autosight
 activation
 albuminuric
@@ -24957,6 +24956,7 @@ awed
 awedly
 awee
 aweek
+autosexing
 aweel
 aweigh
 aweing
