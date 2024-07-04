@@ -1441,7 +1441,6 @@ effortfulness
 expective
 effortless
 effortlessly
-effortlessness
 efforts
 effossion
 effraction
@@ -7020,6 +7019,7 @@ entreatable
 entreater
 epeisodia
 entreatful
+effortlessness
 entreaties
 expressable
 eusthenopteron
