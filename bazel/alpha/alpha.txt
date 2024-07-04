@@ -11649,7 +11649,6 @@ antimoniureted
 anacephalaeosis
 acclinal
 acidiferous
-anacephalize
 anaces
 anacharis
 anachoret
@@ -19791,6 +19790,7 @@ aristeia
 aristida
 aristides
 aristippus
+anacephalize
 aristo
 aristocracy
 aristocracies
