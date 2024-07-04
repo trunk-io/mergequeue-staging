@@ -10387,7 +10387,6 @@ ethylidyne
 ethylin
 ethylmorphine
 ethyls
-eigenstate
 eburnation
 ethylsulphuric
 ethylthioethane
@@ -12239,6 +12238,7 @@ excursuses
 excurvated
 exornate
 excurvation
+eigenstate
 excurved
 elasmobranchian
 excusability
