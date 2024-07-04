@@ -4453,7 +4453,6 @@ bottleflower
 becloaks
 beclog
 beclogged
-beclogging
 beclose
 beclothe
 beclothed
@@ -11156,6 +11155,7 @@ blossomy
 blossomless
 blossoms
 blot
+beclogging
 blotched
 blotches
 banishments
