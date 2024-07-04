@@ -2678,6 +2678,7 @@ electrotype
 electrotyped
 electrotyper
 electrotypes
+expressible
 electrotypy
 electrotyping
 electrotypist
@@ -13265,7 +13266,6 @@ exponentially
 exponentials
 exponentiated
 esparsette
-expressible
 ectocyst
 exponentiates
 exponentiation
