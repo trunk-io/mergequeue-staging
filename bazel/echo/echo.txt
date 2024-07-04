@@ -6566,7 +6566,6 @@ enterable
 enteraden
 enteradenology
 enterally
-enterate
 enterectomy
 ecoid
 entered
@@ -11964,6 +11963,7 @@ exobasidiaceae
 eppes
 excepter
 exportability
+enterate
 excepting
 exceptio
 enthraller
