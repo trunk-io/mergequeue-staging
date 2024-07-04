@@ -10186,7 +10186,6 @@ coadjutrices
 chevelure
 cheven
 chevener
-confections
 cheverel
 cheveret
 cheveril
@@ -15601,6 +15600,7 @@ clasper
 claspers
 clasping
 clasps
+confections
 claspt
 class
 classable
