@@ -650,6 +650,7 @@ appointers
 abobra
 abococket
 agust
+aurelia
 abodah
 abode
 aboded
@@ -17054,7 +17055,6 @@ apiarist
 apiarists
 afars
 apiator
-aurelia
 apicad
 apically
 apices
