@@ -13143,7 +13143,6 @@ cyathozooid
 cyathus
 cibaria
 combinative
-cibarial
 cibarian
 cibaries
 cibarium
@@ -15833,6 +15832,7 @@ claws
 claxon
 claxons
 cleach
+cibarial
 clead
 cleaded
 cleading
