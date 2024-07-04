@@ -3518,7 +3518,6 @@ caramelised
 caramelising
 casual
 caramelize
-caramelized
 clavicymbal
 caramelizes
 caramels
@@ -31589,6 +31588,7 @@ curvature
 curve
 curveball
 curved
+caramelized
 curvedly
 curver
 cerebrospinant

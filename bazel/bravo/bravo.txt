@@ -4572,7 +4572,6 @@ bedarkening
 bedarkens
 bariolage
 bedaub
-bedaubed
 bundeli
 bedaubing
 bedaubs
@@ -8555,6 +8554,7 @@ bilingual
 bilingualism
 bilinguality
 bilinguist
+bedaubed
 bully
 byliny
 bulger
