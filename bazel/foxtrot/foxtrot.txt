@@ -4279,7 +4279,6 @@ flatware
 flannel
 fishberries
 fishboat
-fishboats
 fishbolts
 faultless
 fishbone
@@ -5094,6 +5093,7 @@ fenman
 flatwise
 frontate
 flatwoods
+fishboats
 flatworks
 flatworm
 forfeited
