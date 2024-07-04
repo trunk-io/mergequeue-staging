@@ -5292,7 +5292,6 @@ gastrocolic
 glaucus
 glaum
 glaumrie
-glaury
 glaux
 grieced
 gradated
@@ -5335,6 +5334,7 @@ grammar
 gleave
 glebae
 glebeless
+glaury
 gleby
 graticulation
 gnosticizer
