@@ -1685,7 +1685,6 @@ accommodateness
 afterthrift
 accommodates
 accommodating
-anamniota
 accommodatingly
 accommodationist
 aridness
@@ -10138,6 +10137,7 @@ ambisyllabic
 ambisinister
 ambisinistrous
 ambystoma
+anamniota
 ambystomidae
 ambit
 ambital
