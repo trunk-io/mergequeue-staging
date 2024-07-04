@@ -5416,6 +5416,7 @@ gaoler
 glyceria
 glyceric
 glyceridic
+gumlike
 grimace
 glyceryls
 glycerin
@@ -10373,7 +10374,6 @@ gumflower
 gumhar
 gumi
 gigman
-gumlike
 gumlikeness
 graduale
 gulpiest
