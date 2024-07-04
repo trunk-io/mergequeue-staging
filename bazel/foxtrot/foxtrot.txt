@@ -4440,7 +4440,6 @@ fistinut
 fistle
 fistmele
 fistnote
-flashproof
 forecounsel
 fistnotes
 fishhold
@@ -5227,6 +5226,7 @@ fusible
 fleabane
 fleabanes
 frickle
+flashproof
 fleabite
 fleabites
 fossilify

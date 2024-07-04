@@ -18071,7 +18071,6 @@ coengager
 cling
 contradictively
 coenla
-coeno
 coenobe
 coenoby
 choirs
@@ -26255,6 +26254,7 @@ costively
 costiveness
 costless
 costlessly
+coeno
 costlessness
 costlew
 costliest
