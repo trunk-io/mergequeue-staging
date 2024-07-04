@@ -10850,7 +10850,6 @@ chinos
 chinotoxine
 chinovnik
 clabularium
-chinpiece
 chinquapin
 chins
 chinse
@@ -10985,6 +10984,7 @@ chirometer
 chiromyidae
 chiromys
 chiron
+chinpiece
 chironym
 chironomy
 chironomid
