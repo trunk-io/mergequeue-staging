@@ -4708,6 +4708,7 @@ carriage
 carriageful
 carriageless
 caline
+catallactic
 carriages
 carriagesmith
 carriageway
@@ -5482,7 +5483,6 @@ catalyze
 catalyzer
 catalyzers
 catalyzes
-catallactic
 catallactically
 catallactics
 clangoured
