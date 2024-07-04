@@ -1613,7 +1613,6 @@ favour
 favourable
 favourableness
 favoured
-favouredly
 fauteuils
 favourer
 favourers
@@ -5823,6 +5822,7 @@ florigraphy
 flockowner
 frangent
 flockwise
+favouredly
 flocs
 filterman
 flutterboard
