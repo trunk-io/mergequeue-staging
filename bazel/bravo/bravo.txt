@@ -3590,6 +3590,7 @@ bathycolpic
 bathyesthesia
 battler
 bookshop
+backwort
 buriti
 bathygraphic
 belatticed
@@ -11672,7 +11673,6 @@ bauckie
 blondest
 bobol
 bobotee
-backwort
 bobsled
 bobsledded
 bobsledder
