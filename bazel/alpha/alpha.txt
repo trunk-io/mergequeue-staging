@@ -3622,6 +3622,7 @@ addrest
 adds
 addu
 adduce
+antilyssic
 aberuncator
 adduceable
 adduced
@@ -15570,7 +15571,6 @@ antilipase
 antiliquor
 antilysin
 antilysis
-antilyssic
 aquilid
 antilithic
 antilytic

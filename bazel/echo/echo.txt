@@ -1593,7 +1593,6 @@ epipany
 exorcisement
 eleutherodactyl
 egyptology
-egyptologic
 egyptological
 egyptologist
 egis
@@ -9036,6 +9035,7 @@ erichthoid
 ericineous
 erick
 ericoid
+egyptologic
 ericolin
 elaterium
 ericophyte
