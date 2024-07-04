@@ -1499,6 +1499,7 @@ deadbeat
 deadbeats
 deadborn
 deadcenter
+discussant
 dilemmas
 despoils
 deadeye
@@ -11571,7 +11572,6 @@ dichotomist
 disconsolance
 disconsolately
 disconsolateness
-discussant
 disconsolation
 dunkle
 disconsonancy
