@@ -5610,7 +5610,6 @@ gompholobium
 grapeless
 glissette
 gebur
-glist
 gubbin
 glisten
 groundedness
@@ -9292,6 +9291,7 @@ grope
 groped
 gamb
 gasworks
+glist
 groper
 gropes
 gripiest
