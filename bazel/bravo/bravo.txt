@@ -8852,7 +8852,6 @@ barracks
 binnacle
 binnacles
 binned
-binny
 binnite
 binnogue
 bino
@@ -13607,6 +13606,7 @@ bourgeon
 bourgeoned
 bourgeons
 bourguignonne
+binny
 blockading
 bourignian
 bourignianism
