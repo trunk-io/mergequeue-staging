@@ -7578,7 +7578,6 @@ chiliad
 cerdonian
 cere
 cereal
-cerealian
 cerealin
 cerealism
 cosmographically
@@ -25962,6 +25961,7 @@ corvees
 commesso
 corver
 corves
+cerealian
 corvet
 corvets
 corvettes
