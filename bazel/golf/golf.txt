@@ -1158,6 +1158,7 @@ gangman
 gyrocompass
 gangmaster
 gangplanks
+gelatia
 gangplow
 gastrodisc
 gangrel
@@ -2365,7 +2366,6 @@ gelate
 gelated
 gelates
 gallinaceae
-gelatia
 gelatification
 gelatin
 grammel
