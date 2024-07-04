@@ -1874,7 +1874,6 @@ evehood
 eiffel
 eigenfrequency
 eigenvalue
-eigenvectors
 eightballs
 ethrogim
 eighteen
@@ -9920,6 +9919,7 @@ essonite
 essorant
 explorate
 est
+eigenvectors
 estab
 estable
 establish
