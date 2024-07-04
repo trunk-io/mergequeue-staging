@@ -6627,7 +6627,6 @@ echo
 enterokinase
 enterokinesia
 enterolysis
-endshake
 eddies
 exorability
 enterolith
@@ -7487,6 +7486,7 @@ earnings
 ephemeridae
 ephemerides
 ephemeris
+endshake
 ephemerist
 ephemeromorph
 ephemeromorphic
