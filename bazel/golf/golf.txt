@@ -8527,6 +8527,7 @@ graviton
 gravitons
 gravure
 gravures
+groundwater
 gossameriness
 graze
 grazed
@@ -9433,7 +9434,6 @@ garde
 groundswells
 grayfishes
 gorging
-groundwater
 groundwave
 genderer
 groupable
