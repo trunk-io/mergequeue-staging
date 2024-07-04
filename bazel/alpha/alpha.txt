@@ -2788,7 +2788,6 @@ acquitment
 areng
 acquittal
 acquittals
-acquittance
 acquitted
 acquitter
 acquitting
@@ -8183,6 +8182,7 @@ algesic
 aglyphodont
 algesimeter
 algesiometer
+acquittance
 algy
 algic
 algicides
