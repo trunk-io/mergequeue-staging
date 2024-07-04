@@ -10487,6 +10487,7 @@ balisaur
 blastospheric
 blastostylar
 blastostyle
+bluntness
 blastozooid
 blastplate
 blasts
@@ -11466,7 +11467,6 @@ bodhi
 bluntish
 bluntishness
 bluntly
-bluntness
 blunts
 bacteriophagy
 brotulid
