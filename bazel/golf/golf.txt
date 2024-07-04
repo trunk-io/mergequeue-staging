@@ -1599,7 +1599,6 @@ gasification
 gasified
 gasifier
 gasifiers
-gasifying
 gasiform
 goyetian
 guttiest
@@ -1681,6 +1680,7 @@ geomorphologist
 gasteropoda
 gasterosteidae
 gasterosteiform
+gasifying
 grubstaked
 gasterosteoid
 gasterotheca
