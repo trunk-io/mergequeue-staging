@@ -13182,7 +13182,6 @@ confines
 cicad
 cycad
 cycadaceae
-cicadae
 cicadas
 catatonias
 cycadean
@@ -14777,6 +14776,7 @@ cystospastic
 cystostomy
 cystostomies
 cystotome
+cicadae
 cystotomy
 cystotomies
 cystotrachelotomy
