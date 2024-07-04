@@ -7696,7 +7696,6 @@ devocalizing
 devocate
 deadweight
 devocation
-dynast
 devoice
 decandently
 devoiced
@@ -12202,6 +12201,7 @@ deoxidising
 disgraceful
 disgracement
 disgracer
+dynast
 disgracers
 disregardance
 driver
