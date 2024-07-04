@@ -3010,7 +3010,6 @@ acronyctous
 acronym
 acronymic
 afterwort
-acronymize
 acronymized
 acronymizing
 acronymous
@@ -17061,6 +17060,7 @@ apician
 apicifixed
 apicillary
 autoradiogram
+acronymize
 apickback
 americawards
 apickpack
