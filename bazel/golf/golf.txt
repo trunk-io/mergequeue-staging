@@ -3925,6 +3925,7 @@ grippal
 gilts
 gibbosely
 gibbosity
+glove
 gibbsite
 gibbsites
 generalizable
@@ -6467,7 +6468,6 @@ gushet
 gobio
 gange
 gristle
-glove
 gladkaite
 gynecocracies
 generalist
