@@ -12048,7 +12048,6 @@ chorobates
 chorogi
 chorograph
 chorographer
-chorography
 chorographic
 chorographical
 chorographically
@@ -22149,6 +22148,7 @@ confrere
 confreres
 confrerie
 confriar
+chorography
 confricamentum
 confrication
 confrontation
