@@ -16404,7 +16404,6 @@ almner
 antitetanolysin
 antithalian
 antitheism
-antitheist
 antitheistic
 antitheistically
 antitheology
@@ -19316,6 +19315,7 @@ ardisiaceae
 anthological
 acarids
 almuds
+antitheist
 ardoise
 ardors
 ardours

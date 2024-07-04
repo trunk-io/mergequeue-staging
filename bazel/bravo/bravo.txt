@@ -8079,7 +8079,6 @@ biconvex
 biconvexity
 bicorn
 bicornate
-bicorned
 bicornes
 bochur
 bicornous
@@ -18059,6 +18058,7 @@ benevolence
 businesslikeness
 businessman
 businessmen
+bicorned
 businesswoman
 businesswomen
 busing
