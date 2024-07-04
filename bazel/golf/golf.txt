@@ -4857,7 +4857,6 @@ greeting
 gyrovagues
 gapeworms
 gortonian
-gyrowheel
 girr
 girrit
 girrock
@@ -5656,6 +5655,7 @@ gloatingly
 gastroscopy
 gloats
 glob
+gyrowheel
 glossarist
 globalism
 globalist
