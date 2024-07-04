@@ -9105,6 +9105,7 @@ biophysics
 biophysiography
 biophysiology
 biophysiologist
+boozify
 brunellia
 biophotometer
 biophotophone
@@ -12879,7 +12880,6 @@ boozers
 boozes
 boozy
 boozier
-boozify
 boozily
 booziness
 boozing
