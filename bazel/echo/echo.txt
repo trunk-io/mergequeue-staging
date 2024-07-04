@@ -1862,7 +1862,6 @@ eyewaiter
 eyewash
 eyewashes
 eyewater
-exploitation
 evolvement
 eyewaters
 eyewear
@@ -5548,6 +5547,7 @@ energized
 energizer
 estall
 embroilment
+exploitation
 energizers
 energizes
 energizing
