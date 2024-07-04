@@ -3518,7 +3518,6 @@ batad
 bataleur
 batamote
 bitstalk
-batara
 batarde
 batardeau
 batata
@@ -14871,6 +14870,7 @@ brevi
 breastwood
 breastworks
 bandh
+batara
 brothership
 breath
 breathability
