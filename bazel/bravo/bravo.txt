@@ -2778,7 +2778,6 @@ barmaids
 barmaster
 barmbrack
 babesiasis
-benzotriazine
 barmcloth
 biggonet
 barmecidal
@@ -11645,6 +11644,7 @@ bobbers
 bobby
 beknit
 bobbin
+benzotriazine
 bobbinet
 bribeless
 bobbinite
