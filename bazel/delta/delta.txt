@@ -1505,7 +1505,6 @@ deadest
 deadfall
 deadfalls
 deadhead
-deadheaded
 deadheading
 deadheadism
 deadheads
@@ -9326,6 +9325,7 @@ difference
 differences
 differency
 differencing
+deadheaded
 differencingly
 different
 differentiability
