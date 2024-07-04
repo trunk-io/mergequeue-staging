@@ -25556,7 +25556,6 @@ corotating
 corotation
 corotomy
 coroun
-coroutine
 coroutines
 corozo
 corozos
@@ -31774,6 +31773,7 @@ cutcherry
 cutcherries
 cutches
 cutdown
+coroutine
 cutdowns
 cute
 cutey
