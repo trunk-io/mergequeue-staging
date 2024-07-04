@@ -11305,7 +11305,6 @@ euxine
 eva
 epipetalous
 evacuants
-evacuation
 evacuative
 evacuator
 evacuators
@@ -12969,6 +12968,7 @@ ew
 expedientially
 expediently
 ethernets
+evacuation
 expedients
 expediment
 enteritis
