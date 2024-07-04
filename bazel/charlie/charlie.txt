@@ -5917,7 +5917,6 @@ cathodic
 cathodical
 cathodically
 cathodograph
-cathodography
 cathodoluminescence
 cathography
 cathole
@@ -8510,6 +8509,7 @@ chamois
 chamoised
 chamoises
 chamoising
+cathodography
 chamoisite
 campilan
 chamoix
