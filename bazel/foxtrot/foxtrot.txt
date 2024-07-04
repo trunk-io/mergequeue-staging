@@ -670,7 +670,6 @@ familiarization
 fireman
 familiarizations
 familiarized
-fartherer
 familiarly
 fashioned
 ferlie
@@ -5487,6 +5486,7 @@ flichtered
 fumaric
 flichtering
 flichters
+fartherer
 flicked
 formication
 flickered
