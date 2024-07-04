@@ -541,7 +541,6 @@ gallantry
 gallants
 gallates
 gallature
-gallbladder
 gallbladders
 gaudish
 gigartinaceous
@@ -7150,6 +7149,7 @@ gorblimey
 gorblimy
 gorblin
 grandchild
+gallbladder
 gratin
 goosish
 gorcocks
