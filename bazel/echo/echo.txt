@@ -1091,7 +1091,6 @@ edibleness
 edibles
 extemporary
 edict
-edictal
 edictally
 edicts
 exalters
@@ -1115,6 +1114,7 @@ edificing
 edified
 exopt
 ergotisms
+edictal
 edifiers
 edifying
 edifyingness
