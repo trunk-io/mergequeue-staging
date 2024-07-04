@@ -12686,7 +12686,6 @@ anencephaly
 anencephalia
 anality
 anencephalic
-apochromat
 anencephalous
 anencephalus
 anend
@@ -22784,6 +22783,7 @@ atomists
 atomity
 abrocoma
 atomization
+apochromat
 anthills
 atomize
 allicient
