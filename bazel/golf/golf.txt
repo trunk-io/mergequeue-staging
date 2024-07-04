@@ -4781,6 +4781,7 @@ girning
 gathering
 gyro
 gyrocar
+glossopharyngeus
 glomeration
 gelid
 guidage
@@ -6464,7 +6465,6 @@ goliad
 gobiesocid
 geckotian
 gordyaean
-glossopharyngeus
 gobiid
 gobiidae
 gobiiform
