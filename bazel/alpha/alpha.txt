@@ -5125,7 +5125,6 @@ aeronautical
 aeronautics
 aeronautism
 aeronomer
-aeronomic
 aeronomical
 aeronomics
 aeronomies
@@ -18587,6 +18586,7 @@ arbitrators
 arbitratorship
 arbitratrix
 arbitre
+aeronomic
 arbitress
 arbitry
 anagyrin
