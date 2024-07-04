@@ -396,7 +396,6 @@ fairings
 felup
 fairyologist
 filariid
-fairish
 fairyship
 fairishness
 fairkeeper
@@ -4906,6 +4905,7 @@ flanning
 flanque
 flans
 fernery
+fairish
 flapcake
 fluviatic
 freeloader

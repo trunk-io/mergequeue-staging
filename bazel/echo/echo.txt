@@ -8327,7 +8327,6 @@ epitela
 epitendineum
 epitenon
 epithalamy
-epithalamia
 epithalamial
 erythrismal
 epithalamiast
@@ -10568,6 +10567,7 @@ enunciative
 explode
 ethoxyethane
 embiidae
+epithalamia
 evaginate
 ethoxyl
 ethoxyls
