@@ -1536,6 +1536,7 @@ gars
 garse
 garsil
 garston
+generater
 garten
 garter
 gartered
@@ -2678,7 +2679,6 @@ gilbertian
 gelatinized
 generate
 generated
-generater
 generates
 generational
 generations
