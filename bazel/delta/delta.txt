@@ -5162,7 +5162,6 @@ denomination
 denominational
 denominationalism
 denominationalist
-denominations
 denominative
 denominators
 denormalized
@@ -18522,6 +18521,7 @@ duskiness
 dusking
 duskingtide
 duskish
+denominations
 driegh
 duskishly
 desaurine
