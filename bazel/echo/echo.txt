@@ -2307,7 +2307,6 @@ electrizing
 electroacoustic
 earnable
 electroacoustically
-electroaffinity
 electroamalgamation
 electroanalytic
 electroanalytical
@@ -8072,6 +8071,7 @@ epiphyses
 elemi
 epanisognathism
 epiphysis
+electroaffinity
 epiphytal
 epiphyte
 emerize
