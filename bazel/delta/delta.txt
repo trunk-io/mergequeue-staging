@@ -5357,7 +5357,6 @@ dentololabial
 dentonasal
 dentosurgical
 disrate
-dents
 dentulous
 dentural
 disturbative
@@ -17439,6 +17438,7 @@ drossing
 dowily
 dewlike
 dracma
+dents
 drostdy
 drou
 droud
