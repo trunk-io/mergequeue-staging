@@ -1847,7 +1847,6 @@ deboned
 deboners
 disulfid
 deafening
-debyes
 deboning
 decigramme
 debonnaire
@@ -8974,6 +8973,7 @@ dicot
 dicotyl
 divisionist
 derived
+debyes
 dicotyledon
 dicotyledonary
 dicotyledones
