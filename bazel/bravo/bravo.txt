@@ -1169,6 +1169,7 @@ boardable
 baysmelt
 baister
 bait
+boopic
 baiter
 baiters
 bassine
@@ -4819,7 +4820,6 @@ bedsonias
 barytocelestite
 bumblefoot
 bedsores
-boopic
 bedspread
 butteriness
 bedspreads
