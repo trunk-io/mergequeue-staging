@@ -6236,7 +6236,6 @@ dermatophobia
 dermatophone
 dermatophony
 discounted
-dermatoplasm
 dermatoplast
 dermatoplastic
 dermatopsy
@@ -16829,6 +16828,7 @@ dwelled
 drawn
 drawnet
 drawnly
+dermatoplasm
 drawnness
 drawnwork
 drawoff
