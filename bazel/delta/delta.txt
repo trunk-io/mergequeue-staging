@@ -7846,7 +7846,6 @@ dewlap
 dewless
 dewlight
 doctrinist
-dewlike
 dewool
 dewooled
 dewooling
@@ -17440,6 +17439,7 @@ drubber
 drossiness
 drossing
 dowily
+dewlike
 dracma
 drostdy
 drou
