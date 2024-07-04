@@ -24402,6 +24402,7 @@ cooperant
 cooperate
 cooperated
 cooperates
+crutcher
 cooperating
 cooperatingly
 cooperation
@@ -30331,7 +30332,6 @@ crusts
 crut
 crutch
 crutched
-crutcher
 crutching
 crutchlike
 crutter
