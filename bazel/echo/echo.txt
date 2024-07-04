@@ -4925,6 +4925,7 @@ encumber
 encumbered
 encumberer
 encumberingly
+extendedly
 encumberment
 encumbrance
 electrometeor
@@ -13554,7 +13555,6 @@ eosaurus
 extendable
 extended
 epidermic
-extendedly
 extenders
 extending
 extends
