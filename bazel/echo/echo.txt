@@ -610,7 +610,6 @@ echium
 echiurid
 engulfs
 echiurida
-echiuroidea
 echiurus
 engineman
 echocardiogram
@@ -7768,6 +7767,7 @@ encaustically
 epidermis
 epidermization
 epidermoid
+echiuroidea
 epidermoidal
 epidermophyton
 epidermose
