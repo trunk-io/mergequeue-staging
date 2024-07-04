@@ -2505,7 +2505,6 @@ bard
 bemuse
 bardane
 bardcraft
-barde
 baruch
 beribboned
 barded
@@ -17714,6 +17713,7 @@ burin
 burk
 burka
 burke
+barde
 burked
 burker
 burkes

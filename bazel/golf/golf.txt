@@ -899,7 +899,6 @@ gamboled
 gambolled
 gambolling
 gambols
-gambreled
 goliath
 gunstocking
 goldweed
@@ -6608,6 +6607,7 @@ gastropodous
 goldcrest
 goldenback
 goldeney
+gambreled
 goldeneye
 goldeneyes
 goldener
