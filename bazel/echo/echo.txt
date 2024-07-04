@@ -11075,7 +11075,6 @@ euphotic
 ecological
 euphotide
 euphrasy
-elsewards
 euphrasia
 euphrasies
 euphrates
@@ -13705,6 +13704,7 @@ extirpations
 entelechies
 extirpative
 exceptionable
+elsewards
 ealdormen
 extirpator
 extirpatory
