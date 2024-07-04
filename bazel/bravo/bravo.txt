@@ -5910,6 +5910,7 @@ ballistic
 beltine
 belting
 beltings
+boblet
 beltir
 biparous
 beltlines
@@ -11665,7 +11666,6 @@ bloodfins
 bobization
 bobjerom
 bauckie
-boblet
 blondest
 bobol
 bobotee
