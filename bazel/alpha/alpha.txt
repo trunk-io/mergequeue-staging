@@ -4679,7 +4679,6 @@ archeologic
 ashpan
 adversative
 adverse
-adversed
 adversely
 actinoid
 adverseness
@@ -5798,6 +5797,7 @@ afterstudy
 aftersupper
 anatomicochirurgical
 antidynamic
+adversed
 aftermarket
 autotherapeutic
 afterswarm
