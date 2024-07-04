@@ -1785,7 +1785,6 @@ felucca
 feats
 fouldre
 fainness
-featurally
 feature
 featured
 featureful
@@ -10964,6 +10963,7 @@ flub
 fum
 fumade
 fumado
+featurally
 flaccidities
 fumagine
 frighted
