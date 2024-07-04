@@ -7958,7 +7958,6 @@ alemannic
 alemannish
 alembic
 alembicate
-alembics
 alembroth
 alemmal
 alen
@@ -12008,6 +12007,7 @@ anaphroditic
 anaphroditous
 anaplasia
 anaplasis
+alembics
 adducible
 anaplasma
 anaplasmoses
