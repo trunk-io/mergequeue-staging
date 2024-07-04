@@ -5910,6 +5910,7 @@ belted
 beltene
 begrutch
 bemole
+burials
 broodsac
 belter
 ballistic
@@ -17697,7 +17698,6 @@ bury
 bombic
 bestialise
 burial
-burials
 burian
 botryllus
 buriat
