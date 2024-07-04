@@ -99,7 +99,6 @@ goodyness
 gades
 glucocorticord
 glaucidium
-gadget
 gadgeteer
 gadgetry
 gadgetries
@@ -1944,6 +1943,7 @@ gatherer
 gatherers
 gatherings
 gatherum
+gadget
 gathic
 gating
 gats
