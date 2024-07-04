@@ -3583,7 +3583,6 @@ filigerous
 fordam
 fridstool
 filigrain
-filigrained
 fanged
 franklins
 filigreed
@@ -8140,6 +8139,7 @@ fullered
 flung
 foreworn
 forewritten
+filigrained
 forewrought
 forecloses
 forfairn
