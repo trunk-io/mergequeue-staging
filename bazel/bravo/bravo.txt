@@ -13394,6 +13394,7 @@ bottlehead
 bottleholder
 bottlelike
 bottommost
+bribe
 bottlemaker
 bottlemaking
 bottleman
@@ -15095,7 +15096,6 @@ briars
 briarwood
 bribable
 barbes
-bribe
 bribeability
 bailsman
 bulblet
