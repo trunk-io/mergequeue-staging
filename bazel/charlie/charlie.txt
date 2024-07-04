@@ -10453,7 +10453,6 @@ chiffonnieres
 chiffonniers
 chifforobe
 chifforobes
-chiffre
 cornetcy
 chigetai
 chigetais
@@ -11238,6 +11237,7 @@ chloramin
 centroid
 chloramine
 chloramphenicol
+chiffre
 chloranaemia
 chloranemia
 chloranemic
