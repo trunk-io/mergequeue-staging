@@ -4334,6 +4334,7 @@ fishskin
 fishspear
 flumes
 fasted
+foreseers
 fishtailed
 fitten
 fishtails
@@ -7897,7 +7898,6 @@ foreseeingly
 foreseen
 filea
 foreseer
-foreseers
 ferrotyping
 flirtational
 fulmineous
