@@ -8887,7 +8887,6 @@ bulwark
 breviary
 binotic
 binous
-bins
 binormal
 bint
 bintangor
@@ -9309,6 +9308,7 @@ bipinnatipartite
 basest
 bipinnatisect
 blinding
+bins
 bipinnatisected
 bipyramid
 bipyridyl
