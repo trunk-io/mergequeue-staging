@@ -6363,6 +6363,7 @@ agnean
 agneau
 annex
 agneaux
+alfas
 agnel
 agnes
 agnition
@@ -17595,7 +17596,6 @@ apotropous
 apoturmeric
 anatropous
 apoxesis
-alfas
 apoxyomenos
 apozem
 archleader
