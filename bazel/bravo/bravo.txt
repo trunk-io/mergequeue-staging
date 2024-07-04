@@ -6087,7 +6087,6 @@ benchmen
 benchwarmer
 bencite
 bend
-bendable
 brachyceral
 benday
 broths
@@ -8757,6 +8756,7 @@ beaupere
 bimethyls
 bimillenary
 ballotade
+bendable
 bimillennia
 bimillennium
 bimillionaire
