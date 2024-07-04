@@ -546,7 +546,6 @@ gizzards
 gardenias
 grallae
 gallbush
-galleass
 groomed
 galleasses
 gastness
@@ -4800,6 +4799,7 @@ gyromagnetic
 gratters
 geologise
 gyromancy
+galleass
 gyromele
 gyrometer
 gymnasisiums
