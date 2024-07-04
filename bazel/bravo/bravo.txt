@@ -1645,7 +1645,6 @@ ballistician
 ballisticians
 ballistocardiogram
 ballistocardiograph
-ballistocardiography
 ballistocardiographic
 bead
 ballistophobia
@@ -8826,6 +8825,7 @@ biparietal
 bindweb
 bindweed
 bindwith
+ballistocardiography
 bindwood
 bines
 binful
