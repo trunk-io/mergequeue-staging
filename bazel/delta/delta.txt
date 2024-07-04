@@ -2447,6 +2447,7 @@ diaplex
 deckswabber
 decl
 declaim
+disanimated
 declaimant
 declaimed
 declaimer
@@ -11008,7 +11009,6 @@ disanalogy
 dimethylaniline
 disangularize
 disanimal
-disanimated
 disanimation
 disanney
 disannex
