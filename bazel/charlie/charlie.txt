@@ -1962,7 +1962,6 @@ campagnols
 campagus
 campaign
 campaigned
-campaigner
 campaigners
 campaigning
 caballeros
@@ -15594,6 +15593,7 @@ conclavist
 clarseth
 clart
 commensality
+campaigner
 coffins
 clarty
 clartier
