@@ -10899,6 +10899,7 @@ disaccomodate
 disaccordance
 disaccordant
 disaccredit
+diswarren
 disaccustomedness
 disacidify
 disacidified
@@ -14124,7 +14125,6 @@ disvouch
 disvulnerability
 diswarn
 destoolment
-diswarren
 diswarrened
 diswarrening
 diswashing
