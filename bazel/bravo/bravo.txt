@@ -1524,6 +1524,7 @@ ball
 ballad
 boojum
 ballade
+breastplates
 balladeer
 balladeers
 ballader
@@ -14856,7 +14857,6 @@ breasting
 breastless
 breastplate
 beneventana
-breastplates
 breastplough
 breastplow
 breastrail
