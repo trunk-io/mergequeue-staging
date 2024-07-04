@@ -17218,7 +17218,6 @@ apocopating
 apocopation
 apocope
 apocopic
-apocrenic
 apocryph
 apocrypha
 apocryphal
@@ -22668,6 +22667,7 @@ atip
 atypic
 alkalimetrical
 atypicality
+apocrenic
 atypically
 atiptoe
 adreno
