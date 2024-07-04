@@ -7034,7 +7034,6 @@ feinting
 fontinalis
 fontinas
 frontirostria
-fratercula
 fumeless
 forlorner
 foochow
@@ -9418,6 +9417,7 @@ ferritic
 faitery
 franseria
 facing
+fratercula
 fanes
 frantic
 frantically
