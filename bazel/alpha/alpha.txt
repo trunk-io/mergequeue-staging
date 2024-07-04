@@ -3412,7 +3412,6 @@ adage
 adages
 adagy
 airbrained
-adagial
 adagietto
 aft
 adagiettos
@@ -5160,6 +5159,7 @@ aerophor
 aerophore
 aerophoto
 aerophotos
+adagial
 aeroplane
 aeroplanes
 aeroplanist
