@@ -1767,6 +1767,7 @@ eyednesses
 eyedot
 elanus
 epicureanism
+experimentally
 eyedrop
 eyedropper
 eyedropperful
@@ -5994,7 +5995,6 @@ enjoinder
 enjoined
 enjoiner
 enjoiners
-experimentally
 enjoining
 enjoinment
 enjoys
