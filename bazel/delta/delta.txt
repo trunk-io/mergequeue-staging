@@ -5764,7 +5764,6 @@ dornick
 deposable
 divulsive
 deposal
-deposals
 detachments
 depose
 deposed
@@ -10754,6 +10753,7 @@ diptychs
 dir
 diradiation
 dirca
+deposals
 dircaean
 dendrology
 decempeda
