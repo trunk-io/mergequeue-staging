@@ -7073,7 +7073,6 @@ cajaput
 centile
 centiles
 centiliter
-centiliters
 centilitre
 centillion
 centillionth
@@ -14579,6 +14578,7 @@ cirsotome
 cirsotomy
 cirsotomies
 cyrtandraceae
+centiliters
 cirterion
 cyrtidae
 congeal
