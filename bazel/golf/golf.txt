@@ -3755,7 +3755,6 @@ ghazel
 ghazi
 gelechiidae
 ghaznevid
-ghbor
 ghebeta
 ghee
 gallowsmaker
@@ -8219,6 +8218,7 @@ guti
 graphostatics
 glucina
 graphotypic
+ghbor
 graphs
 grapiest
 graping

@@ -5782,7 +5782,6 @@ englishes
 englishhood
 englishism
 embryotrophy
-englishness
 englishry
 elecive
 eucharistical
@@ -12128,6 +12127,7 @@ excogitable
 excogitates
 excogitating
 excogitation
+englishness
 excogitative
 excogitator
 excommenge
