@@ -4139,7 +4139,6 @@ deliquate
 deliquesce
 deludable
 deliquesced
-deliquescence
 deliquescent
 deliquesces
 depuratory
@@ -7809,6 +7808,7 @@ disaffirming
 disbelievingly
 dewans
 dewar
+deliquescence
 dewata
 damoisel
 dewaters
