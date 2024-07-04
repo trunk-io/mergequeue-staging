@@ -5914,6 +5914,7 @@ floorwalker
 floorwalkers
 floorward
 furniment
+functionaries
 fustianish
 floorwise
 floosy
@@ -11091,7 +11092,6 @@ filigree
 functionalizing
 functionals
 functionary
-functionaries
 fremd
 functionation
 functioned
