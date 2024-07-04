@@ -6493,6 +6493,7 @@ ensweep
 ensweeten
 evenlight
 entablature
+exits
 emigrations
 emigrated
 entablements
@@ -12612,7 +12613,6 @@ exitial
 exiting
 exition
 exitious
-exits
 exiture
 exitus
 exmeridian
