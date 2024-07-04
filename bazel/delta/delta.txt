@@ -1216,7 +1216,6 @@ dialyzable
 dodecaphonism
 datcha
 datchas
-dateable
 datebook
 datedly
 datedness
@@ -4388,6 +4387,7 @@ dematerialization
 dematerialize
 dematerialized
 dematerializing
+dateable
 dematiaceous
 duplexity
 deme
