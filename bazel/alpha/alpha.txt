@@ -1645,7 +1645,6 @@ acclimatizes
 acclimatizing
 acclimature
 acclinate
-auxometer
 acclivities
 aegis
 anaxial
@@ -3204,6 +3203,7 @@ alumstone
 actinopoda
 actinopraxis
 actinopteri
+auxometer
 actinopterygian
 actinopterygii
 actinopterygious
