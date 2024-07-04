@@ -5781,7 +5781,6 @@ bellic
 bldg
 bellical
 bellicist
-bellicose
 bellicosely
 benchmar
 bellicosity
@@ -11490,6 +11489,7 @@ blushiness
 blushing
 blushingly
 blushless
+bellicose
 blusht
 beth
 blushwort
