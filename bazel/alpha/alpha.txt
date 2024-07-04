@@ -22747,6 +22747,7 @@ anda
 atolls
 atom
 atomatic
+autospore
 alchemistic
 atomechanics
 atomerg
@@ -24400,7 +24401,6 @@ athort
 autosome
 autosomes
 autosoteric
-autospore
 amounted
 autosporic
 autospray
