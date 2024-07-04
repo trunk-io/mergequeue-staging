@@ -1252,6 +1252,7 @@ fass
 felonwood
 federarie
 fenchone
+frost
 fastbacks
 fastballs
 fleetingly
@@ -10446,7 +10447,6 @@ fully
 feateous
 froren
 frosh
-frost
 foregoer
 frostation
 fabes
