@@ -2236,7 +2236,6 @@ decennary
 decennaries
 drawbeam
 demeanored
-decennial
 decennials
 decennium
 decenniums
@@ -15484,6 +15483,7 @@ donk
 donkey
 donkeyback
 donkeyish
+decennial
 donkeyism
 donkeyman
 donatress
