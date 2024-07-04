@@ -207,7 +207,6 @@ earthtongue
 elaterist
 etamine
 expressed
-earthward
 earthwards
 earthwork
 earthworks
@@ -8134,6 +8133,7 @@ epirogeny
 epirote
 epirrhema
 ectosome
+earthward
 epirrhematic
 epirrheme
 episarcine
