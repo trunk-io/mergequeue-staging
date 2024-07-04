@@ -3969,7 +3969,6 @@ eels
 emissi
 eudialyte
 emission
-epitheliliums
 emissive
 emissory
 emittance
@@ -5217,6 +5216,7 @@ endogens
 endognathion
 endolabyrinthitis
 endolaryngeal
+epitheliliums
 expiring
 endolemma
 endolymph
