@@ -11833,6 +11833,7 @@ analepsis
 analeptic
 amphiuma
 analeptical
+antiphrasis
 analgen
 analgene
 analgesia
@@ -15993,7 +15994,6 @@ antihydrophobic
 aborigine
 antiphons
 antiphrases
-antiphrasis
 antiphrastic
 apathogenic
 antirecruiting
