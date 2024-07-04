@@ -3258,7 +3258,6 @@ elzevir
 expended
 em
 ektene
-emaciate
 ensnaring
 emaciated
 exterous
@@ -7330,6 +7329,7 @@ eosinic
 elusion
 eosinlike
 eosinoblast
+emaciate
 eosinophil
 enharbor
 eosinophile
