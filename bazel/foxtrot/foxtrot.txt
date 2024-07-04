@@ -223,7 +223,6 @@ fattened
 facultate
 facultatively
 faculty
-facultied
 faculties
 facultize
 facundity
@@ -4136,6 +4135,7 @@ firepink
 firepinks
 fireplace
 fireplaces
+facultied
 fireplow
 fleeceable
 fireplug

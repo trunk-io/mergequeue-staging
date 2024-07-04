@@ -6488,6 +6488,7 @@ bibliog
 benzoxyphenanthrene
 benzpinacone
 benzpyrene
+borinqueno
 blacksmithing
 barbermonger
 bepaint
@@ -13043,7 +13044,6 @@ boring
 boringly
 boringness
 borings
-borinqueno
 barbigerous
 boris
 borish
