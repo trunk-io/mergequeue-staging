@@ -14931,7 +14931,6 @@ cytodieretic
 cytoecology
 cytogamy
 cytogene
-clearway
 cytogenesis
 cytogenetic
 cytogenetical
@@ -21819,6 +21818,7 @@ continentalism
 conemaker
 conemaking
 conemaugh
+clearway
 conenchyma
 conenose
 conenoses

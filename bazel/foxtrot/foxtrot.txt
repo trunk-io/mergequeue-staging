@@ -1029,6 +1029,7 @@ feretrum
 fellow
 farine
 farinha
+frenula
 farinometer
 farinose
 farinosel
@@ -9802,7 +9803,6 @@ frenghi
 finialed
 frenne
 fream
-frenula
 frenular
 frenulum
 featherbedded
