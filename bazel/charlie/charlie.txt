@@ -25242,7 +25242,6 @@ corky
 corkier
 coaugment
 corkiest
-corkiness
 carroting
 corking
 corkir
@@ -28568,6 +28567,7 @@ creedist
 creedite
 creedless
 creedlessness
+corkiness
 creedmore
 creeds
 creedsman
