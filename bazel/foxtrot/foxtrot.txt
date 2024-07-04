@@ -4181,6 +4181,7 @@ fireworm
 festa
 firing
 firings
+follower
 freeport
 firk
 firkins
@@ -6954,7 +6955,6 @@ fostered
 follily
 follis
 followed
-follower
 followers
 friezer
 followeth
