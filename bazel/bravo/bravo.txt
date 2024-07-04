@@ -2114,7 +2114,6 @@ borated
 banister
 banisters
 baniva
-buckra
 baniwa
 banjara
 bioinstrumentation
@@ -3744,6 +3743,7 @@ battered
 batterer
 battery
 batterie
+buckra
 batteried
 battering
 batterman
