@@ -4784,7 +4784,6 @@ gelid
 guidage
 gyroceran
 goodwills
-guildsman
 gyrochrome
 gaskings
 gisant
@@ -10189,6 +10188,7 @@ guiles
 guilfat
 guyline
 guiling
+guildsman
 guillemet
 gynecophore
 guillemot
