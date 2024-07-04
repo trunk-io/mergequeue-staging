@@ -1270,7 +1270,6 @@ gaol
 gaolerness
 gaoling
 gaols
-gaon
 gaonate
 gape
 gaped
@@ -10529,6 +10528,7 @@ galvanofaradization
 gunpowderous
 goldeyes
 gunpower
+gaon
 gracile
 gunrack
 gunreach
