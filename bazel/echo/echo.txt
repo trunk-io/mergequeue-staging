@@ -2983,7 +2983,6 @@ elissa
 elite
 elitism
 elitisms
-elitist
 espousal
 eucrystalline
 epopee
@@ -11628,6 +11627,7 @@ evince
 evincement
 evinces
 evincible
+elitist
 epicoela
 evincing
 evincingly
