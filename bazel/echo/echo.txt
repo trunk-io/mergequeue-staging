@@ -6986,7 +6986,6 @@ edictum
 entrammel
 emigration
 entranced
-entrancedly
 euryhaline
 emprent
 entrancement
@@ -13085,6 +13084,7 @@ experimentor
 etiquettical
 expermentized
 experrection
+entrancedly
 echuca
 expert
 ennuyante

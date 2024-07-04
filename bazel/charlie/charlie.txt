@@ -11618,6 +11618,7 @@ choledocholithotripsy
 choledochoplasty
 choledochostomy
 choledochostomies
+cristivomer
 choledochotomy
 choledochotomies
 cholee
@@ -29511,7 +29512,6 @@ cristina
 cristino
 coaggregate
 cristispira
-cristivomer
 cristobalite
 cerebrums
 crystoleum
