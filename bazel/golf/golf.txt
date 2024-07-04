@@ -3598,7 +3598,6 @@ gesseron
 gesso
 gessoes
 gest
-galban
 gospoda
 gilpey
 gestae
@@ -4606,6 +4605,7 @@ gippo
 gips
 gyps
 gypseian
+galban
 gipser
 gypsy
 gipsydom

@@ -4073,7 +4073,6 @@ beamishly
 bratty
 bulletining
 beamless
-buddy
 beamlet
 beamroom
 beamsman
@@ -4790,6 +4789,7 @@ bedridden
 bedrift
 bedrip
 bedrivel
+buddy
 bedrivelled
 bedrivels
 bedrizzle
