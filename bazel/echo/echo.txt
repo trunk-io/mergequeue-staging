@@ -9003,6 +9003,7 @@ ergosterol
 ergot
 ergotamine
 extrathecal
+eyecup
 ergoted
 epidermatous
 ergothioneine
@@ -10287,7 +10288,6 @@ earrings
 etherialisation
 etherialise
 emim
-eyecup
 etherialised
 etherialising
 etherialize
