@@ -8266,7 +8266,6 @@ episternalia
 emaceration
 episternite
 episternum
-episthotonos
 elaeocarpaceous
 epistylar
 epistilbite
@@ -9032,6 +9031,7 @@ estrepe
 erianthus
 eric
 erica
+episthotonos
 effeminacy
 ericaceae
 ericales
