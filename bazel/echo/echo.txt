@@ -467,7 +467,6 @@ embroidered
 eccyesis
 encephalopsychesis
 epee
-eccl
 eccles
 envenomization
 ecclesiae
@@ -3596,6 +3595,7 @@ enterozoa
 exembryonate
 embouchement
 embouchment
+eccl
 embouchure
 embound
 embourgeoisement
