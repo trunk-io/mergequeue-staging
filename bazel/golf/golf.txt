@@ -2034,7 +2034,6 @@ gaurs
 gauss
 gaussage
 garrets
-gaussbergite
 gluconate
 gaussian
 gaussmeter
@@ -3548,6 +3547,7 @@ galactoma
 gerrymanders
 gers
 gersdorffite
+gaussbergite
 garbled
 gerate
 genes
