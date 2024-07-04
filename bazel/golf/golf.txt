@@ -971,7 +971,6 @@ gonopodium
 gametophyte
 gametophytic
 gametophobia
-gametophore
 gametophoric
 gamgia
 gnatter
@@ -7569,6 +7568,7 @@ gentlemens
 grabbler
 genicular
 guary
+gametophore
 grabblers
 grabbles
 graben
