@@ -7217,7 +7217,6 @@ envisions
 excellency
 envoi
 envoy
-envois
 envoyship
 execrably
 envolume
@@ -8606,6 +8605,7 @@ equestrianism
 equestrianize
 equestrianship
 entoretina
+envois
 equianchorate
 evenfall
 equiangularity
