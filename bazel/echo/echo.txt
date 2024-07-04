@@ -7047,6 +7047,7 @@ entrees
 excisor
 encomiendas
 eulogizing
+excepts
 entrefer
 entrelac
 entremess
@@ -11982,7 +11983,6 @@ eyehole
 exceptiveness
 exceptless
 exceptor
-excepts
 extraditable
 excercise
 ensuite
