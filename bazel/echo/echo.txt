@@ -4905,7 +4905,6 @@ eophyton
 ecotopic
 encrown
 encrownment
-electroacoustical
 embolden
 encrust
 encrustant
@@ -8739,6 +8738,7 @@ equiponderant
 equiponderate
 equipondious
 equipostile
+electroacoustical
 eulogistical
 equipotentiality
 equipped
