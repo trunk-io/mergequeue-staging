@@ -4753,7 +4753,6 @@ flayer
 flayers
 fsiest
 fakirs
-flail
 flailed
 flaying
 fossilologist
@@ -5441,6 +5440,7 @@ flexibly
 flexility
 flexionless
 flexions
+flail
 flexitime
 ferdiad
 flexive
