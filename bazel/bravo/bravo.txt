@@ -4258,6 +4258,7 @@ beaus
 beauseant
 bullshots
 beausire
+boldfaced
 berakot
 beaut
 beauteous
@@ -12064,7 +12065,6 @@ bolder
 bolderian
 boldface
 bostrychoid
-boldfaced
 boldfacedly
 boldfacing
 batodendron
