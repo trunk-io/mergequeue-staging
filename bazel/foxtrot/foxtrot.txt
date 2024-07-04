@@ -8943,7 +8943,6 @@ fooled
 foundryman
 foundrymen
 fickly
-fallency
 foundrous
 fount
 fountain
@@ -9730,6 +9729,7 @@ fawnier
 fregata
 fortitude
 francas
+fallency
 freya
 freyalite
 flagfall
