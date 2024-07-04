@@ -15283,6 +15283,7 @@ clags
 candiel
 clay
 claybank
+conflictingly
 claybanks
 claiborne
 claibornian
@@ -22072,7 +22073,6 @@ conflict
 conflicted
 cassius
 conflicting
-conflictingly
 confliction
 conflictive
 conflictless

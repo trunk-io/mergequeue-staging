@@ -5714,6 +5714,7 @@ depolariser
 darksome
 depolarising
 depolarization
+desulphurizer
 depolarize
 depolarized
 depolarizers
@@ -7096,7 +7097,6 @@ drawboring
 deerkill
 desulphurize
 desulphurized
-desulphurizer
 disinvest
 desulphurizing
 desultory
