@@ -2687,6 +2687,7 @@ decontrol
 dustoor
 dvornik
 draggily
+doorstop
 dingdongs
 deflectometer
 depasture
@@ -15628,7 +15629,6 @@ doorstep
 dishwashing
 dextrosuria
 doorsteps
-doorstop
 dogtrots
 deaconize
 doorstops
