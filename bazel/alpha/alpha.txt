@@ -10585,7 +10585,6 @@ amidone
 amidophenol
 amidophosphoric
 amidoplastid
-amidosuccinamic
 allgovite
 amidosulphonal
 amidoxyl
@@ -12416,6 +12415,7 @@ anconad
 anconagra
 anconal
 anticipate
+amidosuccinamic
 anconas
 ancone
 arales
