@@ -4104,7 +4104,6 @@ beans
 beansetter
 beanstalk
 bacteroidal
-bibbs
 beaproned
 bear
 bearableness
@@ -13673,6 +13672,7 @@ boutonnieres
 boutons
 banknotes
 bouts
+bibbs
 bouvardia
 bouvier
 bouviers
