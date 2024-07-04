@@ -791,7 +791,6 @@ fanglet
 fanglike
 fanglomerate
 frizado
-flyable
 fango
 fangotherapy
 filarian
@@ -11301,6 +11300,7 @@ furanose
 flavanthrone
 furanoses
 furazan
+flyable
 furazolidone
 furbearer
 franion
