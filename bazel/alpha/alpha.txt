@@ -2748,6 +2748,7 @@ amoritish
 acquest
 acquiesce
 acquiesced
+anametadromous
 acquiescement
 acquiescency
 acquiescent
@@ -11946,7 +11947,6 @@ administrate
 anam
 anama
 anamesite
-anametadromous
 amperage
 anamite
 anammonid
