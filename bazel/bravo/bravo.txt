@@ -1463,6 +1463,7 @@ barratries
 bales
 balestra
 balete
+bark
 balewort
 bali
 battening
@@ -16868,7 +16869,6 @@ bugweed
 bugwort
 blepharitic
 buhlbuhl
-bark
 buhls
 buhlwork
 buhrmill
