@@ -4036,7 +4036,6 @@ fyrd
 fortyfold
 furazane
 fowage
-fyrdung
 fire
 fireback
 favourably
@@ -10863,6 +10862,7 @@ fulgoridae
 fulgorous
 fulgourous
 fulgurant
+fyrdung
 fulgurata
 fulgurate
 fulgurated
