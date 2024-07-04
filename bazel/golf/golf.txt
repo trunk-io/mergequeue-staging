@@ -9420,6 +9420,7 @@ gastornis
 gros
 glossematic
 griots
+gaullist
 groundsel
 groundsheet
 groundsill
@@ -10489,7 +10490,6 @@ gunlaying
 genitalial
 gunlock
 gue
-gaullist
 glossagra
 gunmaker
 gynopara
