@@ -1210,7 +1210,6 @@ gnotobiotics
 ganocephalous
 globulousness
 ganodont
-growth
 ganodus
 genus
 ganoid
@@ -7789,6 +7788,7 @@ grenadian
 gramary
 gramarye
 granulitization
+growth
 gramaries
 grame
 ginglymodian
