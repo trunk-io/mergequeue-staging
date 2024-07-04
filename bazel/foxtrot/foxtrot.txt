@@ -8876,6 +8876,7 @@ fraternisation
 fotched
 fother
 fothergilla
+fallible
 fothering
 fortravail
 fibrocaseose
@@ -11523,7 +11524,6 @@ furzeling
 furzetop
 fawkener
 furzy
-fallible
 farandine
 furzier
 fusains
