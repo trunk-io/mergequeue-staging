@@ -7943,7 +7943,6 @@ eonism
 entomeric
 epilimnetic
 epilimnia
-epilimnial
 epilimnion
 epilimnionia
 epilithic
@@ -12593,6 +12592,7 @@ existentialistically
 existentialists
 existentialize
 existently
+epilimnial
 existibility
 existible
 extant
