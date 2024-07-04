@@ -7772,7 +7772,6 @@ alcogene
 alcohate
 alphabetology
 alcohol
-alcoholate
 alcoholature
 alcoholemia
 alcoholic
@@ -23632,6 +23631,7 @@ aurora
 aurorae
 auroral
 aurorally
+alcoholate
 agogics
 auroras
 aurore
