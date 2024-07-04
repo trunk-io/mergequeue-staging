@@ -3117,7 +3117,6 @@ colature
 capito
 capitol
 capitolian
-capitoline
 capitolium
 capitoninae
 capitoul
@@ -12480,6 +12479,7 @@ chromides
 chromidial
 chromididae
 chromidiogamy
+capitoline
 chromidiosome
 chromidium
 chromidrosis
