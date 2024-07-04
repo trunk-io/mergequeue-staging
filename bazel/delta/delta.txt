@@ -695,7 +695,6 @@ dampy
 damping
 dampish
 debitumenize
-disperse
 dampishness
 damply
 dampne
@@ -5690,6 +5689,7 @@ deploration
 delimes
 deplored
 dextrotropous
+disperse
 deploredly
 deploredness
 deplorer
