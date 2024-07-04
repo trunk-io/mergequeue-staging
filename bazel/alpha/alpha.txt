@@ -6705,7 +6705,6 @@ ahead
 aheap
 ahey
 aheight
-astronomic
 ahem
 ahems
 ahepatokla
@@ -23404,6 +23403,7 @@ augurous
 augurs
 augurship
 august
+astronomic
 augusta
 augustal
 augustan
