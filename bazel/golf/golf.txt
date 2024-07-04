@@ -1846,7 +1846,6 @@ gastronomical
 gubernacular
 gastronomically
 gastronomics
-gastropancreatic
 gastroparietal
 gastropathy
 gastropathic
@@ -8477,6 +8476,7 @@ gravicembalos
 gravid
 grandnephews
 gravida
+gastropancreatic
 gadgety
 grendel
 gravidation
