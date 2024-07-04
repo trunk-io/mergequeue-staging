@@ -1982,7 +1982,6 @@ acequiador
 acequias
 acer
 aceraceous
-acerae
 acerate
 acerated
 acerates
@@ -14512,6 +14511,7 @@ anthypophora
 anthypophoretic
 adjutator
 anthocarp
+acerae
 anthocarpous
 anthoceros
 anthocerotaceae
