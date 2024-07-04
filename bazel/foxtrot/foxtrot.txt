@@ -4855,6 +4855,7 @@ flamless
 flammable
 floorers
 flammant
+flouncey
 flammation
 flammed
 flammeous
@@ -7295,7 +7296,6 @@ foraminulose
 forams
 forane
 flagellants
-flouncey
 foraneous
 foraramens
 foraramina
