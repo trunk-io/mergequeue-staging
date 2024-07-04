@@ -3574,7 +3574,6 @@ fleetly
 flagrancy
 filicineae
 filicinean
-fixes
 filicites
 filicoid
 filicoids
@@ -3849,6 +3848,7 @@ finds
 ferntickled
 furlough
 font
+fixes
 fine
 fineable
 fineableness
