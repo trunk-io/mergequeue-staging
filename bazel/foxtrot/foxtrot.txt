@@ -3493,7 +3493,6 @@ filched
 fineries
 friendliness
 freight
-filcher
 federacy
 fleabags
 filches
@@ -11115,6 +11114,7 @@ fireplough
 fundal
 forslack
 fundamental
+filcher
 frumpish
 fundamentalism
 fundamentalistic
