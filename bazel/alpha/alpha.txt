@@ -11455,7 +11455,6 @@ ampule
 ampules
 ampulla
 ampullaceous
-ampullae
 ampullar
 ampullary
 anselmian
@@ -15467,6 +15466,7 @@ antihelix
 antihelixes
 antihelminthic
 antihemisphere
+ampullae
 antihemolytic
 antihemophilic
 antihemorrhagic
