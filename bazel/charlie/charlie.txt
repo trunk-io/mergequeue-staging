@@ -484,7 +484,6 @@ cadet
 cadets
 cadetship
 cadette
-cadettes
 coulis
 cadew
 carbuilder
@@ -30757,6 +30756,7 @@ cullers
 cullet
 cullets
 cede
+cadettes
 cully
 cullibility
 cullies
