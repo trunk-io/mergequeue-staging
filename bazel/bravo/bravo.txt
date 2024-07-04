@@ -8771,7 +8771,6 @@ bimuscular
 bin
 bearskins
 binal
-bynames
 binaphthyl
 binapthyl
 bombshells
@@ -14487,6 +14486,7 @@ brandi
 bepale
 begani
 billian
+bynames
 brandyball
 brandied
 brandify
