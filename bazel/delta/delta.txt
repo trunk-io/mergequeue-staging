@@ -11074,7 +11074,6 @@ disapproves
 disapproving
 disapprovingly
 disaproned
-dysaptation
 degomme
 disard
 disarm
@@ -12540,6 +12539,7 @@ disjected
 dedecorate
 disjection
 disjects
+dysaptation
 disjoin
 disjoinable
 drudge
