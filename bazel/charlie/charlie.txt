@@ -9585,6 +9585,7 @@ checkpointed
 checkpointing
 coparallel
 checkpoints
+collies
 checkrack
 checkroll
 centgrave
@@ -19098,7 +19099,6 @@ colliery
 collieries
 cuber
 colliers
-collies
 collieshangie
 contrast
 colliflower
