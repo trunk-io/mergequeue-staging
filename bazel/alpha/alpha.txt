@@ -2740,6 +2740,7 @@ acquaintant
 acquainted
 acquaintedness
 acquainting
+alogism
 acquent
 acquereur
 amoritish
@@ -9330,7 +9331,6 @@ aloft
 alogy
 alogical
 alogically
-alogism
 alogotrophy
 abaiser
 acoumeter
