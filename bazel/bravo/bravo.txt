@@ -6196,7 +6196,6 @@ benevolist
 beng
 bytownitite
 bengalese
-bengali
 bengaline
 bengals
 bengola
@@ -11785,6 +11784,7 @@ bodyless
 bodilessness
 batterfang
 bodily
+bengali
 bodiliness
 bodilize
 bodymaking
