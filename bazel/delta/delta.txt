@@ -9229,7 +9229,6 @@ diereses
 dieresis
 dieretic
 dieri
-diervilla
 dyes
 dieselize
 dieses
@@ -15828,6 +15827,7 @@ dorsocaudal
 dorsocentral
 dorsocephalad
 dorsocephalic
+diervilla
 dorsocervical
 dorsocervically
 dorsoepitrochlear
