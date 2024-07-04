@@ -1828,6 +1828,7 @@ balun
 balunda
 balushai
 balusters
+beewise
 balustrade
 balustraded
 balustrades
@@ -5050,7 +5051,6 @@ beeway
 beeware
 beeweed
 beewinged
-beewise
 beezer
 breeder
 befall
