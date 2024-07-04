@@ -5700,7 +5700,6 @@ deploringly
 deplumate
 deplumated
 deplumation
-displayable
 deplume
 deplumed
 depluming
@@ -12846,6 +12845,7 @@ disordinated
 dysorexy
 dysorexia
 disorganic
+displayable
 disorganise
 delineator
 disorganiser
