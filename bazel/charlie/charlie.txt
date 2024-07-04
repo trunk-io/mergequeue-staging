@@ -13549,6 +13549,7 @@ cigarfish
 cigarillo
 cigarillos
 cigarito
+coadjument
 cigaritos
 cigars
 cygneous
@@ -17099,7 +17100,6 @@ coadjacence
 coadjacency
 coadjacent
 coadjudicator
-coadjument
 coadjust
 coadjustment
 coadjutant
