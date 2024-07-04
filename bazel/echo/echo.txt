@@ -2552,6 +2552,7 @@ electronography
 ecad
 electrons
 epipubic
+enruin
 electronvolt
 electrooptic
 electrooptical
@@ -6335,7 +6336,6 @@ enroots
 enrough
 eucritic
 enround
-enruin
 ens
 elodeas
 ensafe
