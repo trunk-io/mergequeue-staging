@@ -395,7 +395,6 @@ ebriously
 ebullate
 ebulliate
 ebullience
-excitation
 ebulliency
 ebulliently
 ebulliometer
@@ -2846,6 +2845,7 @@ eleutherism
 epeirogeny
 elliptically
 eleutherodactyli
+excitation
 eleutheromania
 expromissor
 eleutherophyllous
