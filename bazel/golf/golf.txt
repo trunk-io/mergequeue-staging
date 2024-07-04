@@ -6565,7 +6565,6 @@ goyim
 goyin
 goyish
 goyle
-goings
 goura
 gois
 goitcho
@@ -10364,6 +10363,7 @@ gumchewer
 gumdigging
 gumdrop
 girnal
+goings
 gumdrops
 glided
 gigantocyte
