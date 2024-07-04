@@ -3364,7 +3364,6 @@ fulvene
 fifth
 fifty
 fifties
-friborgh
 fiftieth
 fiftyfold
 forebow
@@ -8627,6 +8626,7 @@ fort
 fortake
 fortalice
 fortepiano
+friborgh
 fortes
 fortescue
 fortescure
