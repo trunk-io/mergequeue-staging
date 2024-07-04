@@ -3351,7 +3351,6 @@ capsulized
 capsulizing
 capsulociliary
 capsulolenticular
-capsulopupillary
 capsulorrhaphy
 capsulotomy
 capsumin
@@ -19626,6 +19625,7 @@ column
 columna
 columnar
 columnarian
+capsulopupillary
 columnarized
 chelerythrin
 columnated
