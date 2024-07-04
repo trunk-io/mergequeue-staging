@@ -394,6 +394,7 @@ daylit
 dayman
 dhunchi
 daymare
+digestional
 daymares
 decongest
 daymark
@@ -9448,7 +9449,6 @@ digestif
 digesting
 digestion
 dingling
-digestional
 digestive
 digestiveness
 digestment
