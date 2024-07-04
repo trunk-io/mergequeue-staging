@@ -5925,7 +5925,6 @@ deducibleness
 depsid
 depside
 depsides
-dept
 depth
 deviationism
 depthing
@@ -16724,6 +16723,7 @@ drammock
 drams
 dramseller
 dramshop
+dept
 dramshops
 disbelieving
 dikaryophase

@@ -2341,6 +2341,7 @@ feoffs
 fer
 feracious
 feracities
+fraktur
 ferahan
 feralin
 feramorz
@@ -9305,7 +9306,6 @@ formule
 fraises
 fraist
 frakfurt
-fraktur
 fittingness
 foreignership
 fasciolet
