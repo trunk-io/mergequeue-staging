@@ -5226,7 +5226,6 @@ begemming
 begettal
 begetters
 begetting
-beggable
 bromobenzene
 bromals
 beggardom
@@ -8233,6 +8232,7 @@ beadrolls
 bridler
 bifariously
 bifer
+beggable
 bepuff
 biferous
 biff
