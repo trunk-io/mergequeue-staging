@@ -1792,7 +1792,6 @@ gasholder
 gastroenterostomies
 gastroepiploic
 guebre
-gonotyl
 glazieries
 gastroesophageal
 gastrogastrotomy
@@ -2079,6 +2078,7 @@ gnateater
 gemmology
 gervais
 goldless
+gonotyl
 guanin
 greetings
 gaviiformes
