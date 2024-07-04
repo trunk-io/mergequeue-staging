@@ -7291,6 +7291,7 @@ detonable
 detonatable
 detonated
 detonates
+definition
 detonating
 detonation
 detonational
@@ -9426,7 +9427,6 @@ digammated
 digammic
 digamous
 digastric
-definition
 discrownment
 digenea
 digenesis
