@@ -6857,7 +6857,6 @@ folial
 foliate
 fissidentaceous
 foliated
-foresin
 foliation
 foliator
 folies
@@ -8017,6 +8016,7 @@ frieda
 forestful
 foresty
 forestial
+foresin
 forestian
 frise
 forestiera
