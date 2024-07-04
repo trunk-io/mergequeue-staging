@@ -3012,7 +3012,6 @@ barreling
 beslash
 barrelled
 barrelling
-barrelmaker
 barrelmaking
 ballistics
 barrels
@@ -14098,6 +14097,7 @@ brackets
 bracketted
 boarcite
 bracking
+barrelmaker
 belk
 brandon
 brackmard
