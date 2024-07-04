@@ -9872,6 +9872,7 @@ chemicoluminescent
 chemicomechanical
 concurs
 chemicomineralogical
+corticous
 chemicophysical
 canion
 chemicophysics
@@ -25923,7 +25924,6 @@ corticosteroid
 corticosterone
 corticostriate
 corticotrophin
-corticous
 cortile
 cortin
 calcars
