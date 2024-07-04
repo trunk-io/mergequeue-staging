@@ -6832,7 +6832,6 @@ gonial
 gonyalgia
 goniatites
 goniatitid
-goniatitidae
 gadling
 gonycampsis
 greenlet
@@ -7204,6 +7203,7 @@ gorgoneum
 gorgonia
 grassier
 gate
+goniatitidae
 gorgoniacea
 galleylike
 gardenesque
