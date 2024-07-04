@@ -1577,7 +1577,6 @@ deafish
 deafly
 defial
 deafmuteness
-deafness
 deafnesses
 discordable
 deair
@@ -5047,6 +5046,7 @@ doggeries
 dissective
 dendroctonus
 dendrodic
+deafness
 dendrodra
 dendroeca
 dendrogaea
