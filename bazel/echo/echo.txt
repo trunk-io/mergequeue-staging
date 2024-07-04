@@ -2544,7 +2544,6 @@ electronography
 ecad
 electrons
 epipubic
-enruin
 electronvolt
 electrooptic
 electrooptical
@@ -10425,6 +10424,7 @@ eemis
 edestosaurus
 ethmoid
 ethmoidal
+enruin
 exareolate
 ethmoids
 ethmolith
