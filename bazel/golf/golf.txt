@@ -247,7 +247,6 @@ gaincome
 gelandesprung
 glaciers
 gramme
-goutiest
 getling
 gainer
 glumal
@@ -10102,6 +10101,7 @@ gunhouse
 gandharva
 graphicness
 guy
+goutiest
 gaitt
 guiac
 guiana
