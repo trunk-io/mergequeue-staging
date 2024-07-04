@@ -865,7 +865,6 @@ abrim
 abrin
 abrine
 abris
-abristle
 abroach
 abroad
 abrocome
@@ -7914,6 +7913,7 @@ alecost
 anticoagulate
 alecs
 alectoria
+abristle
 alectoridine
 alectorioid
 autoskeleton
