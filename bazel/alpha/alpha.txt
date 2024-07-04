@@ -5344,7 +5344,6 @@ affectationist
 affected
 affectedly
 astigmia
-anthropogeny
 affectedness
 affecter
 affecters
@@ -22153,6 +22152,7 @@ astylar
 astilbe
 adoptive
 astylospongia
+anthropogeny
 appears
 astylosternus
 astint
