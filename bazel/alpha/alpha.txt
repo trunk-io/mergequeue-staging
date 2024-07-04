@@ -12940,7 +12940,6 @@ angiokinesis
 anisogynous
 anthocerotales
 angioleucitis
-achatinella
 angiolymphitis
 angiolymphoma
 angiolipoma
@@ -21415,6 +21414,7 @@ asperation
 aspergation
 asperge
 asperger
+achatinella
 atonable
 asperges
 asperggilla
