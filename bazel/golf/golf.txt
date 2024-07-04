@@ -246,7 +246,6 @@ gainbirth
 gaincall
 gregale
 gaincome
-gallstones
 gelandesprung
 glaciers
 gramme
@@ -6312,6 +6311,7 @@ gnetaceous
 gnetum
 geisothermal
 gneu
+gallstones
 gnome
 gnomes
 gnomesque
