@@ -1752,7 +1752,6 @@ featherer
 featherfoil
 featherheaded
 feathery
-featheriest
 figurante
 fallage
 faintheartedly
@@ -10187,6 +10186,7 @@ frisure
 frit
 framing
 frith
+featheriest
 frithbot
 frithy
 fallibilist
