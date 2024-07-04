@@ -1672,7 +1672,6 @@ forehill
 fb
 frontierman
 fbi
-freijo
 fchar
 fipenny
 fcomp
@@ -11733,6 +11732,7 @@ ferreiro
 fuzee
 fanaloka
 fuzes
+freijo
 facingly
 ferfathmur
 fuzils
