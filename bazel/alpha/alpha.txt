@@ -6944,7 +6944,6 @@ aircoach
 aircraft
 aircraftman
 acetonylacetone
-aircraftmen
 aircrafts
 aircraftsman
 assessee
@@ -16926,6 +16925,7 @@ aphididae
 aphidiinae
 aphidious
 aphidius
+aircraftmen
 aphidivorous
 anatripsis
 aphidlion
