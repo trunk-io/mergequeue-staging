@@ -3419,6 +3419,7 @@ germanization
 graphotype
 glumelike
 germanize
+gralloch
 germanized
 germanly
 germanness
@@ -5187,7 +5188,6 @@ glareolidae
 guanayes
 glareproof
 geswarp
-gralloch
 glareworm
 glary
 grazer
