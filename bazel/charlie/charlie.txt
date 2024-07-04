@@ -19320,6 +19320,7 @@ candidas
 colonialise
 cinenchym
 colonialised
+crystallology
 colonialising
 colonialism
 colonialist
@@ -29485,7 +29486,6 @@ crystallographical
 crystallographically
 crystalloid
 crystalloidal
-crystallology
 crystalloluminescence
 crystallometry
 cleptobiotic
