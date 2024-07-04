@@ -2399,7 +2399,6 @@ dacryosyrinx
 decipherable
 drowners
 duo
-dipus
 decipherably
 deciphered
 decipherer
@@ -2581,6 +2580,7 @@ decolorimeter
 decoloring
 decolorisation
 decolorise
+dipus
 decoloriser
 decolorising
 decolorization
