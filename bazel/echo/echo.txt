@@ -5582,7 +5582,6 @@ enfarce
 esclandre
 enfavor
 essentialize
-extraorganismal
 episcopy
 enfeebled
 enfeeblement
@@ -12487,6 +12486,7 @@ exhedrae
 exheredate
 electrotherapy
 exheredation
+extraorganismal
 exhibit
 edict
 exhibitable
