@@ -4119,6 +4119,7 @@ carefree
 carefreeness
 careful
 carefull
+comparts
 carefuller
 carefullest
 carefully
@@ -20517,7 +20518,6 @@ compartments
 compartner
 circuits
 cellmates
-comparts
 compass
 compassability
 compassed
