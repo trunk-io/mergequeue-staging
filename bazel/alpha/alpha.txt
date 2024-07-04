@@ -8852,7 +8852,6 @@ allyou
 affixer
 allis
 alliteral
-alliterate
 alliterated
 alliterates
 alliterating
@@ -12782,6 +12781,7 @@ angareeb
 angarep
 angary
 angaria
+alliterate
 angarias
 angariation
 angaries
