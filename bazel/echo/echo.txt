@@ -9349,6 +9349,7 @@ erratics
 erratum
 erratums
 eccentring
+estral
 erratuta
 erred
 errhine
@@ -10085,7 +10086,6 @@ estragol
 estray
 elytropolypus
 estrays
-estral
 euphory
 estrange
 erosible
