@@ -6364,7 +6364,6 @@ alfas
 agnel
 agnes
 agnition
-agnize
 americanistic
 agnized
 agnizes
@@ -23453,6 +23452,7 @@ aulostomi
 aulostomid
 allicin
 aulostomidae
+agnize
 aulostomus
 aulu
 aumaga

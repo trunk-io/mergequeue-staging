@@ -5773,7 +5773,6 @@ catena
 corncake
 catenane
 catenary
-catenaries
 catenas
 catenate
 catenates
@@ -23879,6 +23878,7 @@ contriving
 control
 controled
 chiba
+catenaries
 cripplingly
 controling
 controllability
