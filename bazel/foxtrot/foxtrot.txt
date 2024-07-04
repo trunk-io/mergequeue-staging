@@ -1765,7 +1765,6 @@ featherpate
 freshmanhood
 farthing
 feathers
-featherstitch
 freshmanic
 featherstitching
 floods
@@ -7226,6 +7225,7 @@ footweary
 footwears
 footwork
 furculum
+featherstitch
 foraminiferous
 footworks
 festooned
