@@ -19773,7 +19773,6 @@ comble
 combless
 comblike
 combmaking
-comboy
 comboloio
 combos
 combretaceous
@@ -27411,6 +27410,7 @@ courtlier
 courtliest
 chapaties
 croppie
+comboy
 courtlike
 courtliness
 courtman
