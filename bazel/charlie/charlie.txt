@@ -6587,7 +6587,6 @@ celestine
 ceiled
 ceilers
 ceilidh
-ceilidhe
 ceiling
 ceilinged
 ceilings
@@ -7592,6 +7591,7 @@ cerebellocortex
 choregraphy
 cerebellopontile
 coastlines
+ceilidhe
 cerebellopontine
 cerebellorubral
 cerebellospinal
