@@ -4047,7 +4047,6 @@ gibberellin
 gobstopper
 gigantine
 gigantism
-gigantoblast
 gastroschisis
 grieving
 giantlike
@@ -5435,6 +5434,7 @@ glycidic
 gharial
 greenwax
 glycin
+gigantoblast
 glycine
 glycines
 glycinin
