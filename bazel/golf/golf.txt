@@ -1768,7 +1768,6 @@ gastroduodenostomy
 gastroduodenostomies
 gastroduodenotomy
 gastroelytrotomy
-gastroenteralgia
 gastroenteric
 gastroenteritic
 geomedicine
@@ -5825,6 +5824,7 @@ glasses
 greathearted
 geodesic
 glorifiers
+gastroenteralgia
 gymnura
 galactosan
 glorifying
