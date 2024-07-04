@@ -17551,7 +17551,6 @@ alarmisms
 apotactici
 araca
 apotactite
-apotelesm
 apotelesmatic
 apothec
 apothecal
@@ -22861,6 +22860,7 @@ atresic
 arythmias
 atretic
 atreus
+apotelesm
 atry
 atrolactic
 atria
