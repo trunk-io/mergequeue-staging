@@ -16905,7 +16905,6 @@ clubroot
 compar
 clubroots
 crossrail
-clubs
 clubster
 catonically
 clubweed
@@ -22596,6 +22595,7 @@ connectives
 connectivity
 connector
 connectors
+clubs
 connects
 conned
 connellite
