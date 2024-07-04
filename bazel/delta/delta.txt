@@ -1907,7 +1907,6 @@ deburr
 debus
 darns
 debusing
-debussed
 debussy
 debussyan
 donsky
@@ -4580,6 +4579,7 @@ demiowl
 demiox
 demipagan
 demiparallel
+debussed
 delegant
 demipauldron
 doblones
