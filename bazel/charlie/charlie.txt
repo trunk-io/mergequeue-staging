@@ -20287,7 +20287,6 @@ commonwealths
 commorancy
 commorancies
 crazedness
-commorant
 commorient
 commorse
 commorth
@@ -25823,6 +25822,7 @@ corrump
 corrumpable
 corrupable
 clockmutch
+commorant
 corrupt
 conhydrin
 corrupted
