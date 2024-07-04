@@ -3377,7 +3377,6 @@ basketballs
 behusband
 basketful
 basketfuls
-basketing
 basketmaker
 bazars
 basketry
@@ -9565,6 +9564,7 @@ birthdays
 bookworm
 birthed
 birthy
+basketing
 birthing
 birthland
 birthmark

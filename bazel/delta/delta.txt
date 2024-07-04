@@ -4213,6 +4213,7 @@ delocalisation
 delocalise
 delocalised
 delocalising
+disputant
 delocalization
 delocalize
 delomorphic
@@ -13281,7 +13282,6 @@ deprivations
 disputably
 disputacity
 doddery
-disputant
 dodonian
 disputation
 disputations
