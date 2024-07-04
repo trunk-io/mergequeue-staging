@@ -13035,7 +13035,6 @@ attitudes
 anglicanum
 anglice
 anglicisation
-anglicisms
 anglicist
 acknowledgements
 anglicization
@@ -13333,6 +13332,7 @@ animally
 animallike
 animalness
 animals
+anglicisms
 accouterments
 appl
 animando
