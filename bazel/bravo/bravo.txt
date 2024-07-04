@@ -3536,7 +3536,6 @@ batch
 bedur
 bumbass
 batched
-batcher
 batchers
 batches
 bargemen
@@ -15797,6 +15796,7 @@ bromes
 bromethyl
 bromethylene
 bromgelatin
+batcher
 bromhydrate
 bromhydric
 bromhidrosis
