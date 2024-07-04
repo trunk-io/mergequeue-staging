@@ -7486,7 +7486,6 @@ archlecher
 albarco
 albardine
 albarelli
-amarin
 albarello
 albarium
 albas
@@ -17430,6 +17429,7 @@ apophonia
 apophonic
 apophonies
 apophthegmatic
+amarin
 apophthegmatical
 apophthegmatist
 apopyle
