@@ -2428,7 +2428,6 @@ bubaline
 barbers
 banquetings
 barbershops
-barbes
 benegro
 barbet
 barbets
@@ -15095,6 +15094,7 @@ briary
 briars
 briarwood
 bribable
+barbes
 bribe
 bribeability
 bailsman

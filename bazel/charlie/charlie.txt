@@ -16283,7 +16283,6 @@ clinking
 clinks
 clinkstone
 clinkum
-clinoaxis
 clinocephaly
 clinocephalic
 ceration
@@ -19713,6 +19712,7 @@ combativeness
 combats
 channeling
 combattant
+clinoaxis
 combatted
 combatter
 combatting
