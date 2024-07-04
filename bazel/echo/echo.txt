@@ -544,6 +544,7 @@ echidna
 echidnae
 echidnas
 eggcrate
+entopic
 evocate
 echimys
 emergent
@@ -6933,7 +6934,6 @@ endocrinological
 els
 entophytal
 entophytic
-entopic
 entoplasm
 entoplastron
 entopopliteal
