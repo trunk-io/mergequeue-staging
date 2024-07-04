@@ -14106,7 +14106,6 @@ disusage
 disuse
 disuses
 disusing
-disutility
 detoxicating
 disvaluation
 disvalued
@@ -15088,6 +15087,7 @@ doylies
 doina
 doing
 doings
+disutility
 doit
 doited
 doitkin
