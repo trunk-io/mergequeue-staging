@@ -1964,7 +1964,6 @@ eisegetical
 eisenberg
 eisenhower
 eisodic
-eisteddfod
 eisteddfodau
 eisteddfodic
 eisteddfodism
@@ -6315,6 +6314,7 @@ enrollment
 enrollments
 enrolls
 extreme
+eisteddfod
 eriophyes
 enroot
 entertainer
