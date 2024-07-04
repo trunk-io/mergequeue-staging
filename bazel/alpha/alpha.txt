@@ -15485,7 +15485,6 @@ antihelix
 antihelixes
 antihelminthic
 antihemisphere
-antiferromagnetism
 antihemolytic
 antihemophilic
 antihemorrhagic
@@ -18122,6 +18121,7 @@ apreynte
 aprendiz
 apricate
 aprication
+antiferromagnetism
 arefact
 aprickle
 agaroid
