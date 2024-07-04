@@ -1088,7 +1088,6 @@ edibility
 edible
 edibleness
 edibles
-extemporary
 edict
 edictally
 edicts
@@ -10187,6 +10186,7 @@ etcher
 etches
 etchimin
 equoidean
+extemporary
 etching
 etchings
 eteocles
