@@ -2813,6 +2813,7 @@ feudal
 fervours
 feudalisation
 foreassurance
+fluidrachm
 feudalising
 fendy
 feudalism
@@ -6283,7 +6284,6 @@ fluidmeter
 fluidness
 fluidounce
 factordom
-fluidrachm
 fluidrams
 fluigram
 fluigramme
