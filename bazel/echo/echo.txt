@@ -7905,6 +7905,7 @@ epihyal
 electromagnetize
 epihydric
 epihydrinic
+exponent
 epiky
 epikia
 epiklesis
@@ -13259,7 +13260,6 @@ eloquentness
 expolish
 expone
 exponence
-exponent
 exponential
 exponentially
 exponentials
