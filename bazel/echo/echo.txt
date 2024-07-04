@@ -3721,7 +3721,6 @@ embryous
 eucosia
 embrittle
 espouser
-embrittled
 embrittling
 embryulci
 embryulcia
@@ -5104,6 +5103,7 @@ enriching
 exemptible
 ejectment
 endocarditic
+embrittled
 endocardium
 endocarp
 endocarpic
