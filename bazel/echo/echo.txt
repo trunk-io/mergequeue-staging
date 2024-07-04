@@ -5853,7 +5853,6 @@ engravement
 engraven
 engraver
 engraves
-engravings
 engreaten
 engregge
 embezzlements
@@ -6092,6 +6091,7 @@ enmarble
 enmarbling
 enmask
 ergotist
+engravings
 enmesh
 enmeshed
 enmeshes
