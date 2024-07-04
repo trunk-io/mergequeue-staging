@@ -11377,6 +11377,7 @@ amphodelite
 amphodiplopia
 abyssolith
 amphogeny
+arete
 amphogenic
 amphogenous
 ampholyte
@@ -19433,7 +19434,6 @@ autocatalytically
 arest
 aret
 aretalogy
-arete
 aretes
 anhydrization
 adharma
