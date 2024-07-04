@@ -14424,7 +14424,6 @@ circumsail
 circumsaturnian
 circumsciss
 circumscissile
-circumscribable
 circumscribe
 circumscribed
 circumscriber
@@ -27679,6 +27678,7 @@ codbank
 cowpen
 cowper
 cowperian
+circumscribable
 comedians
 confuted
 cowpock
