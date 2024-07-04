@@ -5798,7 +5798,6 @@ englutting
 engobe
 enneagon
 engold
-engolden
 engrainedly
 engorged
 engorging
@@ -14128,6 +14127,7 @@ exuberance
 exuberant
 esthesioblast
 exuberantly
+engolden
 exuberantness
 exuberating
 exuccous
