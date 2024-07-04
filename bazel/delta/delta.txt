@@ -7262,6 +7262,7 @@ dethyroidism
 dethronable
 deuterostome
 dissipated
+diastral
 dethronement
 dethroner
 dethrones
@@ -8641,7 +8642,6 @@ diastyle
 diastimeter
 diastoles
 diastomatic
-diastral
 diastrophy
 diastrophic
 diastrophically
