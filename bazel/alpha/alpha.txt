@@ -8994,7 +8994,6 @@ allonym
 allonymous
 amiral
 allonymously
-allonyms
 alloo
 allopalladium
 allopath
@@ -9734,6 +9733,7 @@ alumnus
 alumohydrocalcite
 alumroot
 alumroots
+allonyms
 alundum
 aluniferous
 alunite
