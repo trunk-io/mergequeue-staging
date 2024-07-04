@@ -12297,6 +12297,7 @@ execution
 executioner
 executioneress
 executioners
+export
 executions
 executively
 executiveness
@@ -13271,7 +13272,6 @@ exponentiation
 exponents
 exponible
 enation
-export
 exportable
 exportation
 ecumenacy
