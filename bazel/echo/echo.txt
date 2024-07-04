@@ -872,7 +872,6 @@ ectoentad
 ectoenzym
 ectoenzyme
 ensky
-eddic
 ectogenesis
 ectogenetic
 ectogenic
@@ -2361,6 +2360,7 @@ entrez
 electrocuting
 epopees
 edacities
+eddic
 electrocutional
 eimer
 electrocutioner
