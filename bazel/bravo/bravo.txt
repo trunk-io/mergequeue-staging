@@ -6007,7 +6007,6 @@ bangkok
 boordly
 bemoanable
 bucketman
-bemoaned
 bemoaner
 bemoat
 bemock
@@ -8220,6 +8219,7 @@ bierstube
 bierstuben
 byestreet
 bietle
+bemoaned
 byeworker
 byeworkman
 bifaces
