@@ -2825,7 +2825,6 @@ fractiously
 foretopsail
 feudalities
 feudalization
-flatways
 forelock
 feudalized
 feudalizing
@@ -5380,6 +5379,7 @@ fattier
 finch
 fleshiest
 fleshiness
+flatways
 fictioneering
 fleshings
 fleshliest
