@@ -1876,6 +1876,7 @@ eigenfrequency
 eigenvalue
 eigenvectors
 eightballs
+ethrogim
 eighteen
 eighteenfold
 eighteenmo
@@ -10571,7 +10572,6 @@ evaginate
 ethoxyl
 ethoxyls
 ethrog
-ethrogim
 etiam
 etym
 enamelware
