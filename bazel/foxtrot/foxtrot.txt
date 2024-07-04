@@ -7451,7 +7451,6 @@ foreanswer
 foreappointment
 fungate
 forearmed
-forearming
 forearms
 foreassign
 forebackwardly
@@ -11636,6 +11635,7 @@ frowardly
 fustians
 fustic
 fustics
+forearming
 fustie
 fuzees
 fustiest
