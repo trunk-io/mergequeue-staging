@@ -8403,7 +8403,6 @@ diamidogen
 diamyl
 diamylene
 diamin
-diamine
 diamines
 diaminogen
 diprotodon
@@ -18281,6 +18280,7 @@ duodecimos
 duodecuple
 deva
 duodedena
+diamine
 duodedenums
 duodena
 duodenal
