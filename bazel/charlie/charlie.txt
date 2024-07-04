@@ -17293,7 +17293,6 @@ coarsening
 coarsens
 coarser
 coarsest
-coarsish
 coart
 coarticulation
 coascend
@@ -20994,6 +20993,7 @@ compted
 compter
 comptible
 comptie
+coarsish
 compting
 caramelen
 comptly
