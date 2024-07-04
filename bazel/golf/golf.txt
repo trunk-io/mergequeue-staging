@@ -855,7 +855,6 @@ garnice
 gambado
 gambadoes
 gambados
-gaslights
 galvaniser
 guydom
 greenage
@@ -9187,6 +9186,7 @@ guianan
 grizzliest
 grizzling
 gatepost
+gaslights
 groaner
 guttular
 groanful
