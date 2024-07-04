@@ -16543,7 +16543,6 @@ antlers
 antlia
 antliate
 antlid
-antlike
 antling
 antlion
 antlions
@@ -24259,6 +24258,7 @@ autonoetic
 anisopodous
 autonomasy
 astigmometry
+antlike
 autonomy
 autonomic
 amusing
