@@ -4347,7 +4347,6 @@ gynaecium
 gynaecocracy
 gynaecocrat
 gynaecocratic
-gynaecol
 gynaecology
 guttiferales
 gynaecological
@@ -9466,6 +9465,7 @@ gnomon
 graptolithida
 grandstanded
 geophytes
+gynaecol
 gaslighting
 gap
 grouter
