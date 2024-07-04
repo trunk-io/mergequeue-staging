@@ -2279,7 +2279,6 @@ betanaphthol
 baptisin
 baptism
 baptismal
-baptismally
 baptisms
 beresite
 baptist
@@ -3446,6 +3445,7 @@ blowtorch
 bassie
 bedolt
 bassinet
+baptismally
 bassinets
 bassirilievi
 bassist
