@@ -1579,7 +1579,6 @@ calorimeters
 calorimetry
 calorimetric
 carrioles
-calorimetrically
 calorimotor
 calcography
 caloris
@@ -19686,6 +19685,7 @@ comandantes
 comandra
 comanic
 comarca
+calorimetrically
 comart
 comarum
 comas
