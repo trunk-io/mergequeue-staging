@@ -1593,7 +1593,6 @@ grievants
 gashly
 gashouse
 gashouses
-gasify
 groundskeeping
 gasification
 gasified
@@ -9828,6 +9827,7 @@ guanyl
 guanylic
 gonothecae
 guanines
+gasify
 gnatty
 guanize
 glorifies
