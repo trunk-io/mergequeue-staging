@@ -7414,7 +7414,6 @@ forclose
 forconceit
 forcut
 fordableness
-fordays
 faucial
 forleaving
 forded
@@ -7521,6 +7520,7 @@ forechamber
 forechoice
 fourflusher
 foregame
+fordays
 forechoose
 forepast
 foretooth
