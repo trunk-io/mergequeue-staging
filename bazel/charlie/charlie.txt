@@ -3756,7 +3756,6 @@ carboxy
 cheir
 carboxide
 carboxydomonas
-carboxyl
 carboxylase
 carboxylate
 carboxylated
@@ -25738,6 +25737,7 @@ corridas
 corrido
 corridored
 corridors
+carboxyl
 corrie
 corriedale
 corries
