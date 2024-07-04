@@ -471,6 +471,7 @@ ecclesiae
 ecclesial
 ecclesiarch
 ecclesiarchy
+erective
 epodic
 ecclesiastes
 epibenthos
@@ -8893,7 +8894,6 @@ erectile
 exfoliatory
 erectility
 erecting
-erective
 erectly
 erectness
 erectopatent
