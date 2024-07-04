@@ -4022,7 +4022,6 @@ eversions
 emoted
 everbloomer
 emoter
-emoters
 emotes
 epibasal
 emoting
@@ -4849,6 +4848,7 @@ encoronate
 encounterable
 encountered
 enfortune
+emoters
 entitlement
 egotism
 encounterers
