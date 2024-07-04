@@ -6011,7 +6011,6 @@ bemoat
 bemock
 bemocked
 bemocking
-bemocks
 bemoil
 bemoisten
 bemol
@@ -16613,6 +16612,7 @@ balanta
 buckoes
 buckone
 beltian
+bemocks
 buckpot
 buckraming
 buckrams
