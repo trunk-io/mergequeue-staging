@@ -1936,7 +1936,6 @@ bandcase
 bandcutter
 believably
 bande
-bandeau
 bandeaux
 britishers
 banded
@@ -17509,6 +17508,7 @@ burbankism
 burbark
 burberry
 brokes
+bandeau
 burbler
 burblers
 burbles
