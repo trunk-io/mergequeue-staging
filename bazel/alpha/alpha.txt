@@ -6078,6 +6078,7 @@ aget
 agete
 ageusia
 ageusic
+antesternal
 animadvert
 ageustia
 aggadic
@@ -14424,7 +14425,6 @@ antesignanus
 antespring
 antestature
 absconce
-antesternal
 antesternum
 antesunrise
 antesuperior
