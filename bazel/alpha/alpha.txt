@@ -2577,7 +2577,6 @@ acknew
 apocodeine
 abattoir
 acknow
-acknowing
 acknowledgeable
 acknowledged
 acknowledgedly
@@ -4411,6 +4410,7 @@ adoze
 adp
 adpao
 adposition
+acknowing
 adpress
 alchornea
 adpromissor
