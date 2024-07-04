@@ -3807,7 +3807,6 @@ carburising
 carburization
 carburize
 carburized
-carburizer
 carburizes
 carburizing
 carburometer
@@ -13003,6 +13002,7 @@ carcaneted
 chuzwi
 chwana
 cy
+carburizer
 cia
 cyaathia
 cyamelid
