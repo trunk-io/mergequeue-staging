@@ -3439,6 +3439,7 @@ adamantness
 arty
 asaraceae
 adamantoblast
+aethalium
 adamantoblastoma
 adamantoid
 adamantoma
@@ -5255,7 +5256,6 @@ artillery
 aethalia
 aethalioid
 abstriction
-aethalium
 aetheling
 aetheogam
 aetheogamic
