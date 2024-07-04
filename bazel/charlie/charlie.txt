@@ -11942,7 +11942,6 @@ choreatic
 chored
 choregy
 choregic
-choregrapher
 choregraphic
 choregus
 choreguses
@@ -19193,6 +19192,7 @@ colloidochemical
 colloids
 circum
 collomia
+choregrapher
 collop
 collophane
 cnidocell
