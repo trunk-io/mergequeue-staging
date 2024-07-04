@@ -7651,7 +7651,6 @@ ewers
 enfoldment
 eirene
 epicystotomy
-epiclastic
 epicleidian
 epicleidium
 epicleses
@@ -13445,6 +13444,7 @@ exsanguinous
 expose
 exscind
 exscinded
+epiclastic
 exscinding
 ecphory
 exscinds
