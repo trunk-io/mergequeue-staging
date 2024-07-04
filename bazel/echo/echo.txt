@@ -4896,7 +4896,6 @@ encrypts
 encrisp
 encroach
 encroached
-echeveria
 electrotactic
 euthenasia
 erythraemia
@@ -7069,6 +7068,7 @@ entresalle
 entomologically
 elytrum
 entresols
+echeveria
 entresse
 entry
 endoscopist
