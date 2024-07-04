@@ -14761,7 +14761,6 @@ cystoplegia
 cystoproctostomy
 cystopteris
 cystoptosis
-cystopus
 cystoradiography
 cistori
 cystorrhagia
@@ -27816,6 +27815,7 @@ crabbedness
 crabber
 caribisi
 crabbery
+cystopus
 crabbers
 chaetangium
 carnivaler
