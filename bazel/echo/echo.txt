@@ -884,6 +884,7 @@ ectomere
 ectomeres
 ectomeric
 ectomesoblast
+encapsulates
 ectomorph
 ectonephridium
 ectoparasite
@@ -4494,7 +4495,6 @@ exameter
 encanker
 encanthis
 encapsulate
-encapsulates
 encapsulating
 encapsulation
 encapsulations
