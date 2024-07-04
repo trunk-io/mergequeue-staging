@@ -2139,7 +2139,6 @@ acetla
 acetmethylanilide
 acetnaphthalide
 acetoacetanilide
-acetoacetate
 acetoacetic
 acetoarsenite
 amic
@@ -17068,6 +17067,7 @@ arride
 apii
 apiin
 apikores
+acetoacetate
 apikoros
 apikorsim
 apili
