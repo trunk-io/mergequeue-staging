@@ -2686,7 +2686,6 @@ electrotonicity
 electrotonize
 electrotropism
 egoize
-electrovalency
 excheat
 equiponderancy
 electrovalent
@@ -10092,6 +10091,7 @@ estrade
 estradiol
 expositions
 externation
+electrovalency
 estrado
 estragol
 estray
