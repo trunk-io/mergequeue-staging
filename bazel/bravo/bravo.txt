@@ -3714,7 +3714,6 @@ barotropic
 batrachoididae
 batrachophagous
 batrachophidia
-batrachophobia
 batrachoplasty
 batrachospermum
 bats
@@ -13928,6 +13927,7 @@ braccae
 braccate
 braccianite
 bowwood
+batrachophobia
 braccio
 braceleted
 basophile
