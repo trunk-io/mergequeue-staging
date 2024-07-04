@@ -3289,7 +3289,6 @@ caproate
 caprock
 caprocks
 caproic
-caproin
 capromys
 chemicoengineering
 chaffcutter
@@ -11164,6 +11163,7 @@ chivarees
 chivari
 coffer
 chivaried
+caproin
 chivariing
 chivaris
 chivarra
