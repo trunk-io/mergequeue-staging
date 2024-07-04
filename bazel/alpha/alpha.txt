@@ -3467,7 +3467,6 @@ adamsites
 acceptedly
 adangle
 adansonia
-adapa
 adapid
 adapt
 adaptability
@@ -11722,6 +11721,7 @@ anadromous
 anaematosis
 anaemia
 anaemias
+adapa
 anaemic
 anaemotropy
 anaerobation
