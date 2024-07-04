@@ -5697,6 +5697,7 @@ engager
 engagers
 encumbrances
 eviternal
+elastometer
 engagingness
 expatriations
 engallant
@@ -11681,7 +11682,6 @@ enrapturer
 evolutionary
 evolutionism
 evolutionist
-elastometer
 evolutionistic
 evolutionistically
 evolutionists
