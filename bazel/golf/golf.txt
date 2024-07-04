@@ -5985,7 +5985,6 @@ gomphocarpus
 geography
 glottid
 gynerium
-glottiscope
 glottises
 glottitis
 glottochronology
@@ -8466,6 +8465,7 @@ gyroidally
 graves
 geotectonic
 graveship
+glottiscope
 gravestead
 gravestones
 gonochoristic
