@@ -1156,7 +1156,6 @@ famishment
 fisticuffery
 fascicular
 fooyung
-fascicularly
 fasciculate
 fasciculated
 fascicule
@@ -3687,6 +3686,7 @@ filmmaker
 fullword
 filmography
 films
+fascicularly
 filmset
 fluxion
 filmsetter
