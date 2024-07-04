@@ -6567,7 +6567,6 @@ entrenched
 entera
 enterable
 enteraden
-enteradenographic
 enteradenology
 enterally
 enterate
@@ -7702,6 +7701,7 @@ erratical
 exactingly
 epicures
 epicurish
+enteradenographic
 epicurishly
 enneadianome
 epicurize
