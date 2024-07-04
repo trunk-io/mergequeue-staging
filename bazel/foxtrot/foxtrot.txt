@@ -1694,6 +1694,7 @@ flighter
 fictation
 feague
 feaking
+foreflank
 fogmen
 feal
 flowages
@@ -7621,7 +7622,6 @@ fow
 forefinger
 forefingers
 fuchsine
-foreflank
 foreflap
 forefoot
 fangot

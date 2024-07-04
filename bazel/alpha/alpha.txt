@@ -5297,6 +5297,7 @@ aeviternal
 aevum
 af
 anemometry
+algebraic
 aface
 afaced
 afacing
@@ -8152,7 +8153,6 @@ algate
 algazel
 algebar
 algebra
-algebraic
 algebraical
 algebraically
 addled
