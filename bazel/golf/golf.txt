@@ -1081,7 +1081,6 @@ gandum
 gandurah
 girlie
 goladar
-ganef
 ganefs
 ganev
 ganevs
@@ -8390,6 +8389,7 @@ gratuitousness
 glim
 gamecock
 gratulant
+ganef
 gratulate
 gruffs
 glauconitization
