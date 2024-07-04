@@ -313,7 +313,6 @@ backarrow
 backarrows
 backband
 backbear
-bar
 balanorrhagia
 backbearing
 backbeats
@@ -13943,6 +13942,7 @@ braches
 bradoon
 brachet
 blankly
+bar
 barrows
 brachets
 brachial
