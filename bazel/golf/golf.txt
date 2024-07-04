@@ -148,7 +148,6 @@ gaelicization
 gaelicize
 goatskin
 gaels
-gaeltacht
 gaen
 gaertnerian
 gaes
@@ -5616,6 +5615,7 @@ gubbin
 glisten
 groundedness
 gonidia
+gaeltacht
 glisteningly
 glistens
 galvanizes
