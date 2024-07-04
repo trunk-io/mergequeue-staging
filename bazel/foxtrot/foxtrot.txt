@@ -1676,7 +1676,6 @@ fbi
 fchar
 fipenny
 fcomp
-fconv
 fractal
 fconvert
 farcin
@@ -5625,6 +5624,7 @@ flypasts
 flipe
 flype
 foredeep
+fconv
 filths
 fribbler
 first
