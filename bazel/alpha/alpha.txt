@@ -19243,7 +19243,6 @@ arclike
 arco
 arcocentrous
 arcocentrum
-arcograph
 arcos
 arcose
 arcosolia
@@ -19339,6 +19338,7 @@ agnates
 ardure
 ardurous
 are
+arcograph
 area
 areach
 aread
