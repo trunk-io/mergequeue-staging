@@ -19307,7 +19307,6 @@ colonate
 colladas
 colonel
 colonelcy
-colonelcies
 colonels
 colonelship
 colonelships
@@ -29200,6 +29199,7 @@ crownband
 cryoscope
 cryoscopy
 cryoscopic
+colonelcies
 cryosphere
 cryospheric
 coquicken
