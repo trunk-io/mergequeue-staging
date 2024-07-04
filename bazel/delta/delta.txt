@@ -9230,7 +9230,6 @@ dieresis
 dieretic
 dieri
 dyes
-dieselize
 dieses
 diesinking
 diesis
@@ -9654,6 +9653,7 @@ dilactone
 dilambdodont
 dilamination
 dilaniate
+dieselize
 dilantin
 deas
 dilapidate

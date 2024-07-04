@@ -1819,7 +1819,6 @@ balu
 baluba
 baluch
 brittle
-berylline
 barytone
 baluchitheria
 baluchitherium
@@ -6951,6 +6950,7 @@ beshrew
 beshrewing
 branch
 barreleye
+berylline
 beshrews
 beshriek
 bluebells
