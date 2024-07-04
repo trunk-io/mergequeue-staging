@@ -9740,6 +9740,7 @@ cheiloplasties
 cheilostomata
 cheilostomatous
 cheilotomy
+chloritic
 cheilotomies
 cheimaphobia
 cheimatophobia
@@ -11315,7 +11316,6 @@ chlorioninae
 chlorite
 censurer
 chlorites
-chloritic
 chloritization
 chloritize
 chlorize
