@@ -5547,7 +5547,6 @@ cataphasia
 conformableness
 caducity
 cataphatic
-cataphyll
 cataphyllum
 chicharra
 cataphysic
@@ -22684,6 +22683,7 @@ conormal
 conoscente
 conoscenti
 conoscope
+cataphyll
 conoscopic
 conphaseolin
 centuriation
