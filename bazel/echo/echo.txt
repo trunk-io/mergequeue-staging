@@ -5002,7 +5002,6 @@ enddamaged
 enddamaging
 endear
 endearance
-exfoliatory
 endearedly
 endearing
 endearingness
@@ -8896,6 +8895,7 @@ entozoologist
 erecter
 erecters
 erectile
+exfoliatory
 erectility
 erecting
 erective
