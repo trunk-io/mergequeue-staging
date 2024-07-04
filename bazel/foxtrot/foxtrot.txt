@@ -1233,6 +1233,7 @@ furnishment
 fashioning
 flywort
 fumigatory
+foveae
 fashionize
 footlockers
 fiddlewood
@@ -9044,7 +9045,6 @@ fouth
 fouty
 foutra
 fanflower
-foveae
 foveate
 forebitter
 firetrap
