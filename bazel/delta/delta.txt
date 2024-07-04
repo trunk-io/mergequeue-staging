@@ -2441,6 +2441,7 @@ decking
 deckings
 deckle
 deckman
+despicable
 dehistoricize
 deckpipe
 diaplex
@@ -6866,7 +6867,6 @@ desperately
 desperation
 despert
 despicability
-despicable
 despicably
 despiciency
 despiritualization
