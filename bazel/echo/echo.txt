@@ -60,7 +60,6 @@ earldom
 extrathoracic
 earldoms
 embolism
-earlduck
 earle
 earless
 evea
@@ -12552,6 +12551,7 @@ exilarchate
 exile
 excogitated
 excambion
+earlduck
 emergency
 evections
 elachista
