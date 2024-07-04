@@ -3872,7 +3872,6 @@ finewed
 finfish
 finfishes
 finfoots
-fingal
 friers
 festoonery
 foism
@@ -6509,6 +6508,7 @@ flurry
 flustrating
 forcipated
 fortitudes
+fingal
 footnoting
 flustration
 farmhands
