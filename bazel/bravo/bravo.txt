@@ -10681,6 +10681,7 @@ blend
 blende
 blended
 blender
+bottleneck
 blenders
 blendes
 blends
@@ -13395,7 +13396,6 @@ bribe
 bottlemaker
 bottlemaking
 bottleman
-bottleneck
 broomwood
 bracteose
 brayer
