@@ -20967,7 +20967,6 @@ ascensions
 ascensive
 ascensor
 ascent
-ascertain
 acescence
 ascertained
 ascertainer
@@ -24664,6 +24663,7 @@ avernal
 averrable
 averral
 averred
+ascertain
 averrhoa
 averring
 averroism
