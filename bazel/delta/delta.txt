@@ -3733,7 +3733,6 @@ dharana
 dehorn
 dehorned
 dehorners
-dehorning
 dehorns
 dapifer
 dehors
@@ -17049,6 +17048,7 @@ dryasdust
 drib
 dribber
 dribbet
+dehorning
 dribbing
 dribble
 dribbled
