@@ -13392,6 +13392,7 @@ anisandrous
 anisanilide
 anisanthous
 anischuria
+arcato
 anise
 aniseeds
 aniseikonia
@@ -18678,7 +18679,6 @@ arcanite
 arcanum
 arcate
 ashcan
-arcato
 arcature
 arcatures
 arccos
