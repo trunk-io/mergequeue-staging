@@ -3600,6 +3600,7 @@ addlins
 addn
 addnl
 addoom
+authorly
 addorsed
 antonymies
 address
@@ -23853,7 +23854,6 @@ authorizes
 adoors
 authorizing
 authorless
-authorly
 authorling
 authors
 authorship
