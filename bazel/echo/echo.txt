@@ -190,7 +190,6 @@ earthquaked
 ean
 electrothermal
 earthquaken
-earthquave
 earthrise
 earthset
 electroplated
@@ -7201,6 +7200,7 @@ everyman
 environs
 envisage
 enthrill
+earthquave
 embarrassingly
 envisaging
 envision
