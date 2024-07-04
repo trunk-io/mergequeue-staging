@@ -4721,6 +4721,7 @@ gyrencephalic
 groundward
 greatheart
 grouplet
+gallus
 gyrencephalous
 gallivat
 gyres
@@ -7953,7 +7954,6 @@ grandmontine
 grandmother
 glossopode
 gossipping
-gallus
 grandmotherly
 grandmotherliness
 grainers
