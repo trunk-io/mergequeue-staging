@@ -3182,7 +3182,6 @@ elucidates
 elucidating
 elucidations
 elucidative
-elucidator
 eluctation
 elucubrate
 eciton
@@ -10262,6 +10261,7 @@ etherate
 etherealisation
 etherealise
 etherealised
+elucidator
 etherealising
 ecclesia
 extracellularly
