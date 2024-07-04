@@ -2107,7 +2107,6 @@ gonorrheal
 goldenseal
 gawk
 gawked
-gawker
 gawkhammer
 gawky
 grunters
@@ -7339,6 +7338,7 @@ gossipiness
 gelfomino
 gossipingly
 glaucopis
+gawker
 gossypium
 gossipmonger
 gossypose
