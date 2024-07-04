@@ -14687,7 +14687,6 @@ dooms
 docked
 docken
 docker
-dockers
 docket
 docketed
 dockets
@@ -15268,6 +15267,7 @@ dolphinfish
 dolphinlike
 discohexaster
 dolphins
+dockers
 dolphus
 dols
 dolt
