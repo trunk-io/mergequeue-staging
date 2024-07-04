@@ -617,6 +617,7 @@ graptolitic
 gallicism
 gallicization
 gallicize
+gunong
 gallicizer
 guttulae
 gallicola
@@ -10512,7 +10513,6 @@ gunocracy
 grene
 grissen
 geodist
-gunong
 gunpaper
 gerbille
 gravitater
