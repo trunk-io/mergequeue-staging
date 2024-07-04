@@ -3820,7 +3820,6 @@ carcinoscorpius
 carcanet
 cryptocleidus
 carcanets
-carcanetted
 carcase
 carcased
 carcasing
@@ -4357,6 +4356,7 @@ carmagnole
 carmagnoles
 conventionalizes
 carmaker
+carcanetted
 carmakers
 carmalum
 carman
