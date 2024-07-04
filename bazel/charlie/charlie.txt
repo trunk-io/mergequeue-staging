@@ -4889,6 +4889,7 @@ cartularies
 cartway
 cartware
 cartwheel
+clearstory
 cartwheels
 cartwhip
 cartwright
@@ -15889,7 +15890,6 @@ clearsighted
 clearsightedness
 clearstarch
 clearstarcher
-clearstory
 clearstoried
 clearstories
 clearwater

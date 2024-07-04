@@ -64,6 +64,7 @@ gabled
 gableended
 gablelike
 gabler
+greable
 gables
 gablet
 gablewise
@@ -8549,7 +8550,6 @@ gullion
 grazioso
 glasser
 gre
-greable
 greably
 gorgonlike
 gorkhali
