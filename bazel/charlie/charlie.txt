@@ -3073,7 +3073,6 @@ capistrate
 capita
 curvilinearity
 capital
-capitaldom
 capitaled
 capitaling
 capitalisable
@@ -9728,6 +9727,7 @@ chego
 chegoe
 chegoes
 chegre
+capitaldom
 chehalis
 cheiceral
 cheyenne
