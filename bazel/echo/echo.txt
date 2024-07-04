@@ -4969,6 +4969,7 @@ endamoebidae
 endangeitis
 endanger
 embalmers
+epimere
 endangered
 endangerer
 endangering
@@ -7979,7 +7980,6 @@ epimanikion
 epimedium
 epimer
 epimerase
-epimere
 epimeres
 epimeric
 epimeride
