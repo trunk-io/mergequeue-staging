@@ -4791,7 +4791,6 @@ bedribble
 bedrid
 bedridden
 bedrift
-bedright
 bedrip
 bedrivel
 bedrivelled
@@ -17825,6 +17824,7 @@ blindfish
 burps
 burr
 burrah
+bedright
 burratine
 burrawang
 burrbark
