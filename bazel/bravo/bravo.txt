@@ -8219,7 +8219,6 @@ byeworker
 byeworkman
 bifaces
 bifacial
-bifara
 brewster
 bifarious
 beadrolls
@@ -12707,6 +12706,7 @@ bookman
 bookmark
 bookmarker
 blips
+bifara
 bookmarks
 bookmobile
 bookmobiles

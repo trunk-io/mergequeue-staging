@@ -4811,7 +4811,6 @@ demonize
 demonized
 demonizes
 demonizing
-demonkind
 demonland
 demonlike
 demonocracy
@@ -11754,6 +11753,7 @@ deashes
 discriminal
 discriminant
 discriminate
+demonkind
 discriminately
 discriminateness
 discriminates
