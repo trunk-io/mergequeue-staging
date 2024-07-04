@@ -17629,7 +17629,6 @@ acrocera
 appanages
 appanaging
 audiogenic
-appanagist
 allothogenic
 appar
 apparance
@@ -24893,6 +24892,7 @@ away
 awayness
 awaynesses
 aways
+appanagist
 await
 awaited
 alphabetary
