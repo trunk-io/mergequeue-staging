@@ -3381,7 +3381,6 @@ acupuncturator
 acupuncture
 acupunctured
 acupuncturing
-acupuncturist
 acus
 acusection
 accompanying
@@ -16373,6 +16372,7 @@ antistatist
 antisteapsin
 antisterility
 antistimulant
+acupuncturist
 antistimulation
 arthromere
 antistock
