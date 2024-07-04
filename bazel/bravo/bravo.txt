@@ -808,7 +808,6 @@ badged
 badgeless
 berrendo
 badgeman
-badgerbrush
 badgered
 badgerer
 badgering
@@ -9591,6 +9590,7 @@ biscacha
 biscayan
 bipolar
 biscayanism
+badgerbrush
 barbal
 biscayner
 biscanism
