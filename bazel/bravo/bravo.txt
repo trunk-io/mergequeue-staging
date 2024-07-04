@@ -5827,7 +5827,6 @@ baths
 barbacou
 bellmouth
 berteroa
-bellmouthed
 bello
 bialystoker
 blennostasis
@@ -8489,6 +8488,7 @@ bylaws
 bilberry
 bilberries
 bilbi
+bellmouthed
 bilbie
 begulfed
 bilbies
