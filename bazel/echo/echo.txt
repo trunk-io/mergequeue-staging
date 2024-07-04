@@ -6714,7 +6714,6 @@ etherizer
 eulogiser
 exercitorial
 entertainable
-entertained
 eccentrical
 entertainers
 emotionalization
@@ -9180,6 +9179,7 @@ erythropenia
 erythrophage
 erythrophagous
 ergative
+entertained
 erythrophyllin
 earhole
 erythrophleine
