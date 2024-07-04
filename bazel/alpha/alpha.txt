@@ -6817,7 +6817,6 @@ arteriometer
 aigret
 aigrets
 aigrette
-afloat
 agnotozoic
 aiguelle
 aiguiere
@@ -9867,6 +9866,7 @@ amalgamable
 amalgamate
 anaerobion
 amalgamated
+afloat
 amalgamater
 amalgamates
 amalgamating
