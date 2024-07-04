@@ -1092,6 +1092,7 @@ faros
 filmgoer
 farrage
 fordone
+flighted
 farragos
 farrand
 flyaways
@@ -5522,7 +5523,6 @@ fligger
 fibrilations
 flight
 fanmaker
-flighted
 flagelliform
 flightful
 flighthead
