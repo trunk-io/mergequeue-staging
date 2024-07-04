@@ -17958,7 +17958,6 @@ appraised
 appraisement
 appraiser
 appraisers
-appraises
 appraising
 amusia
 appraisive
@@ -23276,6 +23275,7 @@ audacity
 audacities
 audad
 audads
+appraises
 audaean
 audibertia
 audibility
