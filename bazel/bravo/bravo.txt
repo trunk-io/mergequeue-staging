@@ -7365,7 +7365,6 @@ bethump
 bethumped
 bethumping
 bethumps
-bethwack
 bethwine
 bashilange
 betide
@@ -9024,6 +9023,7 @@ biolinguistics
 biolyses
 bludgeoneer
 botanophilist
+bethwack
 biologic
 biologically
 biologicohumanistic
