@@ -9429,7 +9429,6 @@ alphabeting
 alphabetisation
 alphabetise
 alphabetised
-alphabetiser
 alphabetising
 alphabetism
 adenocellulitis
@@ -25377,6 +25376,7 @@ airn
 aztecan
 aztecs
 azthionium
+alphabetiser
 azulejos
 azulene
 asiphonate

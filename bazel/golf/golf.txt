@@ -3179,7 +3179,6 @@ geomorphist
 geomorphogenist
 geomorphology
 geomorphologic
-geomorphological
 ghostless
 gadaba
 guaranteers
@@ -9418,6 +9417,7 @@ groundout
 groundplot
 getah
 grounds
+geomorphological
 gastornis
 gros
 glossematic
