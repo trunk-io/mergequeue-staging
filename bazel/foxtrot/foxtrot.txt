@@ -4748,6 +4748,7 @@ flagstick
 flagstones
 flagworm
 felinophobe
+fluorhydric
 fluidise
 footwear
 flayer
@@ -6389,7 +6390,6 @@ fluorescigenous
 fluorescin
 fluorescing
 filagree
-fluorhydric
 fraudproof
 fluoric
 fluoridate
