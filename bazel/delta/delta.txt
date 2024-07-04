@@ -9106,7 +9106,6 @@ dodders
 didelphid
 didelphidae
 diastataxic
-didelphyidae
 didelphine
 didelphis
 doocot
@@ -14665,6 +14664,7 @@ docibility
 docible
 duckling
 digress
+didelphyidae
 dawtet
 docibleness
 decongesting
