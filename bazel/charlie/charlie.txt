@@ -18173,7 +18173,6 @@ coestablishment
 coestate
 coetanean
 coetaneously
-coetaneousness
 coeternal
 coeternally
 coeternity
@@ -29330,6 +29329,7 @@ cryptoheresy
 cryptoheretic
 cryptolite
 cryptolith
+coetaneousness
 cryptology
 compulsoriness
 cryptologic
