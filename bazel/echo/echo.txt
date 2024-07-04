@@ -6570,7 +6570,6 @@ enteraden
 enteradenology
 enterally
 enterectomy
-ecoid
 entered
 edeodynia
 enterer
@@ -6886,6 +6885,7 @@ exasperation
 entomogenous
 entomol
 entomolegist
+ecoid
 entomolite
 entomology
 excellently
