@@ -5666,6 +5666,7 @@ fetologist
 feastless
 flyspecks
 flyswat
+formulization
 flyswatter
 flit
 flytail
@@ -8525,7 +8526,6 @@ formably
 ferrety
 formulism
 formulistic
-formulization
 fumier
 formulize
 flaker
