@@ -2967,7 +2967,6 @@ acromelalgia
 acromia
 acromial
 acromicria
-acromiocoracoid
 acromiodeltoid
 acromyodian
 acromyodic
@@ -25231,6 +25230,7 @@ azilian
 azilut
 azimech
 azimene
+acromiocoracoid
 academus
 atune
 azimide
