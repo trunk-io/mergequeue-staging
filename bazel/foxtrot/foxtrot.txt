@@ -6956,7 +6956,6 @@ fomenter
 fomenters
 fomenting
 fomes
-fomites
 fon
 fonctionnaire
 fleets
@@ -7481,6 +7480,7 @@ forebooms
 forebowels
 fumbulator
 feverish
+fomites
 forebowline
 forebrace
 fyce
