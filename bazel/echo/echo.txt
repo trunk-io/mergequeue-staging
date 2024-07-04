@@ -475,7 +475,6 @@ ecclesiae
 ecclesial
 ecclesiarch
 ecclesiarchy
-ecclesiast
 epodic
 ecclesiastes
 epibenthos
@@ -9946,6 +9945,7 @@ estampede
 estampie
 estancia
 estancias
+ecclesiast
 essive
 estang
 estantion
