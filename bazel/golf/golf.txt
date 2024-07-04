@@ -4063,7 +4063,6 @@ gunnies
 gigantomachy
 gigantosaurus
 guaranteer
-gigantostraca
 gigartina
 gigasecond
 gigaton
@@ -8307,6 +8306,7 @@ glutaminase
 grassless
 gromatic
 grasslike
+gigantostraca
 grassman
 gentianic
 groucho
