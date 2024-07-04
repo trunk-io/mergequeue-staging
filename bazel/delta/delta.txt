@@ -5545,7 +5545,6 @@ depauperized
 depe
 deia
 depeche
-depectible
 depeculate
 depel
 depend
@@ -10667,6 +10666,7 @@ dipodies
 dipodomyinae
 dipodomys
 dipolar
+depectible
 discolorment
 dipolarize
 dipole

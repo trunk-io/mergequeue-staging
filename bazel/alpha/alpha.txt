@@ -515,7 +515,6 @@ abjudicated
 abjudicating
 abjudication
 affile
-abjudicator
 abjugate
 abjunct
 abjunction
@@ -12659,6 +12658,7 @@ anemology
 anemologic
 adventitiously
 anemological
+abjudicator
 anemometer
 anemometers
 anemometrical
