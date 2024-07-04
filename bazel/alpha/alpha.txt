@@ -836,6 +836,7 @@ abreid
 abrenounce
 abrenunciate
 asyle
+anomie
 abreption
 audiometers
 allottees
@@ -13911,7 +13912,6 @@ anomy
 anomia
 anomiacea
 atrabilarian
-anomie
 anomiidae
 amphicyonidae
 anomite
