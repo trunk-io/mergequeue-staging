@@ -3413,6 +3413,7 @@ capturable
 capture
 captured
 capturers
+catholicisation
 captures
 crankery
 capturing
@@ -5931,7 +5932,6 @@ catholically
 cosshen
 catholicalness
 catholicate
-catholicisation
 catholicise
 catholicised
 catholicism
