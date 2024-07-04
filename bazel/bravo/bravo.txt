@@ -2921,6 +2921,7 @@ barotraumas
 bacterious
 barotraumata
 barouche
+blepharoplegia
 barouches
 barouchet
 barouchette
@@ -10765,7 +10766,6 @@ blepharophryplasty
 blepharoplast
 blepharoplasty
 blepharoplastic
-blepharoplegia
 blepharoptosis
 baroscopic
 blepharorrhaphy
