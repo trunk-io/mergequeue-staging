@@ -3574,7 +3574,6 @@ geminorum
 guilds
 gesan
 gyre
-gesellschaft
 geshurites
 gasser
 granuloblast
@@ -4327,6 +4326,7 @@ gymnothorax
 gymnotid
 gymnotidae
 galvanizer
+gesellschaft
 gymnotoka
 gymnotokous
 grotesquery
