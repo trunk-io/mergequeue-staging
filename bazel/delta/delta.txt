@@ -1786,7 +1786,6 @@ debe
 darklings
 debeak
 defrosts
-debeaker
 debeige
 debell
 debellate
@@ -3580,6 +3579,7 @@ deglaciation
 deglamorization
 driddle
 deglamorize
+debeaker
 deglamorizing
 deglaze
 deglazing
