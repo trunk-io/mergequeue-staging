@@ -3368,7 +3368,6 @@ fiftypenny
 figaro
 figeter
 figgery
-figgy
 figgier
 figgiest
 figging
@@ -7411,6 +7410,7 @@ fordays
 faucial
 forleaving
 forded
+figgy
 fulvidness
 fistulate
 fordy
