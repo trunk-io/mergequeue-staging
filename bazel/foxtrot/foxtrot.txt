@@ -4092,7 +4092,6 @@ firecrackers
 fizzling
 fired
 firedamp
-firedamps
 firedog
 firedragon
 firedrake
@@ -8608,6 +8607,7 @@ fellatory
 forstall
 forstand
 feiseanna
+firedamps
 forsterite
 forsung
 fussers
