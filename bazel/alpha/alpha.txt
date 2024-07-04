@@ -4514,7 +4514,6 @@ adterminal
 adtevac
 aduana
 adular
-anomalopteryx
 amanita
 adularescent
 adularias
@@ -24862,6 +24861,7 @@ avowance
 avowant
 avowe
 avowed
+anomalopteryx
 avowedly
 avowedness
 avower
