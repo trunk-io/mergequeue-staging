@@ -4877,7 +4877,6 @@ flanch
 flanchard
 flanche
 flanconnade
-flanders
 flandowser
 flane
 fathoms
@@ -5311,6 +5310,7 @@ fleeches
 floristic
 fortieth
 featherbedding
+flanders
 fideles
 fixage
 fleechment
