@@ -353,6 +353,7 @@ ebbs
 ebcasc
 endpoints
 ebcd
+ellfish
 electrodesiccate
 ebcdic
 ebdomade
@@ -2567,7 +2568,6 @@ electrophone
 electrophonically
 entrochus
 enquires
-ellfish
 electrophore
 electrophorese
 electrophoresing
