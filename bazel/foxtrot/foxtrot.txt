@@ -2434,6 +2434,7 @@ flexity
 fermions
 fermium
 fermorite
+fibra
 fern
 fernandinite
 fernando
@@ -2965,7 +2966,6 @@ fundamentality
 fiberous
 fiberscope
 fiberware
-fibra
 fibration
 fibreboard
 fibred
