@@ -1486,7 +1486,6 @@ fluters
 fauconnier
 faujasite
 faulds
-faulkner
 faultage
 faulted
 filix
@@ -5317,6 +5316,7 @@ forjudges
 farsi
 fickleness
 fleering
+faulkner
 fleeringly
 falbelo
 fusibly
