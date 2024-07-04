@@ -1519,7 +1519,6 @@ acceptavit
 allotropically
 accepted
 acceptees
-accepter
 acceptilated
 acceptilating
 antimasquer
@@ -22344,6 +22343,7 @@ astrometer
 astrometry
 astrometrical
 astron
+accepter
 acumen
 astronaut
 affination
