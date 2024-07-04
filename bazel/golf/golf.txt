@@ -2063,7 +2063,6 @@ gavelet
 gopherwood
 gazogenes
 grees
-gavelling
 gavelocks
 gavels
 greening
@@ -3416,6 +3415,7 @@ germanist
 germanistic
 glede
 germanium
+gavelling
 germaniums
 geniuses
 germanization
