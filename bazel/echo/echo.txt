@@ -9361,6 +9361,7 @@ error
 errordump
 errorful
 errorist
+explicably
 ebriosity
 errorless
 errors
@@ -13187,7 +13188,6 @@ exestuate
 expletory
 explicability
 elocution
-explicably
 explicanda
 explicandum
 equerry
