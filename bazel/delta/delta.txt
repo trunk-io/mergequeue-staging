@@ -7727,7 +7727,6 @@ devon
 dismasts
 devonic
 devonite
-devonport
 devons
 devonshire
 devoration
@@ -15240,6 +15239,7 @@ dolomitization
 dolomitize
 drawdown
 dolomitized
+devonport
 dolomization
 dolomize
 dolor
