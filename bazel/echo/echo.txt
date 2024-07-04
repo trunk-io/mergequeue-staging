@@ -3827,6 +3827,7 @@ emendates
 enterocystoma
 emendator
 emended
+evirato
 emender
 emendicate
 excluded
@@ -12212,7 +12213,6 @@ exculpated
 exculpating
 exculpation
 encrypted
-evirato
 exculpatorily
 excurrent
 excurse
