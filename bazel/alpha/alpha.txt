@@ -5087,7 +5087,6 @@ aerohydrous
 aeroides
 anodine
 aerolite
-aesculus
 aerolites
 aerolith
 aerolithology
@@ -12401,6 +12400,7 @@ ancistroid
 ancle
 ancodont
 ancoly
+aesculus
 ancome
 ancon
 anconad

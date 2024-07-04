@@ -6468,7 +6468,6 @@ enspheres
 ensphering
 enspirit
 ensporia
-enstar
 ediya
 ensteel
 ensteep
@@ -8283,6 +8282,7 @@ epistolise
 epistolised
 epistolising
 epistolization
+enstar
 electrohomeopathy
 earsh
 epistolizing
