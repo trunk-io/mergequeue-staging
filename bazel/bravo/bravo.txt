@@ -7542,7 +7542,6 @@ brimstone
 bewailing
 bewailingly
 bewailment
-bewails
 bewake
 bewall
 beware
@@ -16297,6 +16296,7 @@ brunizem
 botong
 brunizems
 brunnichia
+bewails
 bruno
 bloodstain
 brunoniaceae

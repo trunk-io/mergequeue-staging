@@ -4020,6 +4020,7 @@ gneisses
 genson
 galleries
 giftwrap
+granularity
 giftwrapping
 gig
 giga
@@ -8092,7 +8093,6 @@ granula
 granular
 gomontia
 granulary
-granularity
 granulater
 granulates
 granulations
