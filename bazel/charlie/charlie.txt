@@ -3523,7 +3523,6 @@ caramelize
 clavicymbal
 caramelizes
 caramels
-caramoussal
 carancha
 carancho
 caranda
@@ -17844,6 +17843,7 @@ codical
 codices
 crumbum
 codicil
+caramoussal
 codicilic
 codicillary
 codicils
