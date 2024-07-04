@@ -1552,7 +1552,6 @@ calonectria
 comedones
 calool
 calophyllum
-calopogon
 calor
 caloreceptor
 cochairs
@@ -11107,6 +11106,7 @@ coappears
 chitinized
 chitinocalcareous
 chitinogenous
+calopogon
 chitinous
 chitins
 chitlin
