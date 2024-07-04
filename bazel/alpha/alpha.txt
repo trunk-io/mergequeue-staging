@@ -1750,7 +1750,6 @@ accordions
 accords
 axilemmata
 accorporation
-abiders
 accost
 accostable
 antiscrofulous
@@ -24975,6 +24974,7 @@ awful
 awfuller
 awfully
 awfulness
+abiders
 awhape
 awheel
 awheft
