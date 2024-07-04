@@ -2436,7 +2436,6 @@ amizilis
 acid
 acidaemia
 acidaspis
-acidemias
 acider
 acidhead
 acidheads
@@ -14097,6 +14096,7 @@ anser
 autocephaly
 anserated
 anseres
+acidemias
 anseriformes
 anserin
 anserine
