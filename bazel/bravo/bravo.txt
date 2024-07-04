@@ -1948,7 +1948,6 @@ bandelet
 bavian
 bandelette
 bowlful
-bandeng
 beanies
 bander
 banderilla
@@ -15088,6 +15087,7 @@ briar
 briarberry
 briard
 briards
+bandeng
 briarean
 briared
 briareus
