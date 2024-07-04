@@ -5440,7 +5440,6 @@ enclavement
 endovasculitis
 equinox
 epitaph
-endovenous
 ecdemic
 elsewhither
 endowing
@@ -12442,6 +12441,7 @@ equijacent
 elpidite
 exfoliative
 egally
+endovenous
 exgorgitation
 enanthesis
 ethnocentrically
