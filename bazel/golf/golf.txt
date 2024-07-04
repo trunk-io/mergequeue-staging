@@ -1145,6 +1145,7 @@ ganglionectomy
 ganglionectomies
 ganglioneural
 glyptotherium
+girderless
 gavelkinder
 ganglioneure
 goschens
@@ -9157,7 +9158,6 @@ grit
 grith
 griths
 gritless
-girderless
 grits
 gritted
 gritter
