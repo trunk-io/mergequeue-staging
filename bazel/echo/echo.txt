@@ -6447,7 +6447,6 @@ enheritage
 ensnow
 ensober
 ensophic
-ensorcel
 emitters
 ensorcelize
 ensorcell
@@ -12736,6 +12735,7 @@ eclaircise
 edison
 exophasic
 edificable
+ensorcel
 exophoria
 exophoric
 exophthalmic
