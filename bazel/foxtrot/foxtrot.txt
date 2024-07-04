@@ -2006,7 +2006,6 @@ faradised
 felahin
 felanders
 feldsher
-feldspar
 funebrial
 feldsparphyre
 feldspath
@@ -8815,6 +8814,7 @@ financiers
 fyttes
 fetes
 fossilising
+feldspar
 fossilism
 fossilist
 fossilizable
