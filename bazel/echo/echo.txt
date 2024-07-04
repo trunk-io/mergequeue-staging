@@ -1081,7 +1081,6 @@ emmetropia
 edginesses
 edging
 envine
-edgingly
 edh
 edhs
 electrokinematics
@@ -12731,6 +12730,7 @@ exonuclease
 exopathic
 exophagy
 exophasia
+edgingly
 eclaircise
 edison
 exophasic
