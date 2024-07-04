@@ -6432,7 +6432,6 @@ faunas
 funambulatory
 fluorines
 fluorite
-flintlock
 fluorites
 fourthly
 fluoroborate
@@ -8847,6 +8846,7 @@ felonry
 flowchart
 forgette
 fedn
+flintlock
 fossulet
 forgie
 fetichry
