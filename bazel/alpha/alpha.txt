@@ -11866,7 +11866,6 @@ analgia
 aborter
 analgias
 analgic
-analgize
 aile
 analysands
 atypy
@@ -13651,6 +13650,7 @@ axanthopsia
 antinganting
 anaptyxes
 annealer
+analgize
 annealers
 annealing
 anneals
