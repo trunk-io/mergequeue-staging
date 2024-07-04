@@ -627,7 +627,6 @@ backwash
 bakeware
 brachydomatic
 backwashed
-backwasher
 backwashes
 backwashing
 backwatered
@@ -3505,6 +3504,7 @@ bastite
 borborus
 bastnasite
 basto
+backwasher
 beworms
 baston
 bastonet
