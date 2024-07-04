@@ -9063,7 +9063,6 @@ geomantical
 griper
 gripes
 griphite
-galley
 gryphons
 grays
 gryphosaurus
@@ -10563,6 +10562,7 @@ galvanoscopic
 guaycuruan
 gunstick
 gunstock
+galley
 gunstocker
 gunstocks
 gaugeably
