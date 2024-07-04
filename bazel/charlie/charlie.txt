@@ -4456,7 +4456,6 @@ carnivoracity
 carnivoral
 carnivore
 carnivores
-carnivorism
 carnivority
 carnivorous
 carnivorously
@@ -24828,6 +24827,7 @@ coquetting
 coquettish
 coquettishly
 compare
+carnivorism
 coquillage
 coquille
 coquilles
