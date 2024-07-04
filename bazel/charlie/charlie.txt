@@ -8601,7 +8601,6 @@ chancellory
 chancellorism
 chancellors
 chaffier
-chancellorships
 chancelor
 chancelry
 chancels
@@ -10462,6 +10461,7 @@ chigger
 chiggers
 chiggerweed
 chignon
+chancellorships
 chignons
 chigoe
 chigoes

@@ -8580,6 +8580,7 @@ alkanes
 alkanet
 alkanethiol
 alkanets
+arbutase
 alkanna
 alkannin
 alkanol
@@ -18654,7 +18655,6 @@ arbusta
 aquacultural
 arbusterin
 arbustum
-arbutase
 arriero
 arbute
 arbutes
