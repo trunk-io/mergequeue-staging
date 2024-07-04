@@ -2135,7 +2135,6 @@ featherier
 felsophyric
 fungoids
 flammulation
-felsosphaerite
 fearnaught
 felspar
 fastidiously
@@ -9359,6 +9358,7 @@ francophone
 flummery
 franger
 frangible
+felsosphaerite
 felapton
 frangipane
 frangipani

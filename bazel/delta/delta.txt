@@ -11453,6 +11453,7 @@ dummerer
 discolour
 discoloured
 discolouring
+dissonous
 discolourization
 discombobulate
 discombobulated
@@ -13706,7 +13707,6 @@ dissonancies
 dissonant
 disanagrammatize
 dissonantly
-dissonous
 dissoul
 dissour
 desultor
