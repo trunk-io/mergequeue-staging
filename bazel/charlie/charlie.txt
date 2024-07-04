@@ -21915,7 +21915,6 @@ conferva
 confervaceous
 confervae
 conferval
-confervales
 confervalike
 confervas
 confervoid
@@ -26511,6 +26510,7 @@ cottontails
 cottontop
 cottonweed
 cottonwoods
+confervales
 cottrel
 cottus
 chapterful
