@@ -413,6 +413,7 @@ calendulas
 cad
 cadalene
 cadamba
+coresign
 cadaster
 cadasters
 cangler
@@ -25110,7 +25111,6 @@ cores
 contrapositive
 coresidence
 coresidual
-coresign
 coresonant
 coresort
 corespect

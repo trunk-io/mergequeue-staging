@@ -7377,7 +7377,6 @@ auslaut
 alamodes
 antigalactagogue
 aneroid
-alamort
 alamosite
 alamoth
 alan
@@ -15836,6 +15835,7 @@ antinucleon
 antinucleons
 archmachine
 antiochene
+alamort
 anisate
 antiochian
 antiochianism
