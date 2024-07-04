@@ -7250,7 +7250,6 @@ fops
 for
 ferr
 flypast
-fora
 forage
 foraged
 foragement
@@ -11518,6 +11517,7 @@ furuncular
 furunculoid
 furunculus
 furze
+fora
 faintling
 furzed
 flapperhood

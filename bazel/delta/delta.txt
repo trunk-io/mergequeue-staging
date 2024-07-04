@@ -6198,7 +6198,6 @@ dermatologist
 dermatologists
 dermatoma
 dermatome
-dermatomere
 dermatomic
 diumvirate
 dermatomyces
@@ -15548,6 +15547,7 @@ doodah
 diaspora
 disgruntled
 doodle
+dermatomere
 doodled
 dingdonging
 doodler
