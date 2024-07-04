@@ -1100,7 +1100,6 @@ flaccidly
 fantastry
 foremast
 faroese
-farolito
 faros
 filmgoer
 farrage
@@ -5275,6 +5274,7 @@ frigefact
 flectional
 flectionless
 flector
+farolito
 fledged
 fulminant
 fistlike
