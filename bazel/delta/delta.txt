@@ -1712,7 +1712,6 @@ deathtime
 deathtrap
 deathtraps
 deathwards
-deathwatches
 deathweed
 deathworm
 deaurate
@@ -14090,6 +14089,7 @@ disunite
 dorsodynia
 disapprove
 disunited
+deathwatches
 disuniter
 disuniters
 disunites
