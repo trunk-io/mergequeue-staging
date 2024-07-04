@@ -6154,7 +6154,6 @@ aggrate
 aggravable
 aggravate
 aggravated
-aggravates
 aggravating
 antismog
 aggravatingly
@@ -6727,6 +6726,7 @@ ahorse
 ahrendahronon
 ahriman
 ahrimanian
+aggravates
 ahs
 autophyllogeny
 ahsan
