@@ -17177,7 +17177,6 @@ coalas
 coalbagger
 coalbin
 coalbins
-coalbox
 cramoisy
 coalboxes
 caliche
@@ -26694,6 +26693,7 @@ counterargument
 counterartillery
 counterassociation
 counterassurance
+coalbox
 cammock
 counterattack
 counterattacked
