@@ -7496,7 +7496,6 @@ booteries
 beudanite
 beudantite
 beuncled
-beurre
 bevatron
 bevatrons
 bobbinets
@@ -16315,6 +16314,7 @@ brunt
 brunts
 butling
 bruscha
+beurre
 bruscus
 brush
 brushability
