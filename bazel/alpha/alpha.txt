@@ -5550,7 +5550,6 @@ assumption
 affuse
 arctitude
 affusion
-affusions
 afghanets
 afghani
 advocaat
@@ -21199,6 +21198,7 @@ ashluslay
 ashman
 ashmolean
 ashochimi
+affusions
 ashore
 ashpit
 ashplant
