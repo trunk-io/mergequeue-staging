@@ -6198,7 +6198,6 @@ benevolist
 beng
 bengalese
 bengali
-belknap
 bengaline
 bengals
 bengola
@@ -10247,6 +10246,7 @@ blaffert
 blaflum
 biestings
 blague
+belknap
 blagueur
 blah
 blahlaut
