@@ -2419,6 +2419,7 @@ globin
 gelders
 geldesprung
 gaseosity
+glossology
 gelding
 geldings
 grumpier
@@ -4977,7 +4978,6 @@ glabellous
 gymnosporangium
 glabellum
 gld
-glossology
 glabrate
 glabreity
 glabrescent
