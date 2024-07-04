@@ -1715,7 +1715,6 @@ ghostcraft
 gastrectasis
 gasfiring
 gastrectomy
-gastrectomies
 gastrelcosis
 gastricism
 gastrilegous
@@ -10791,6 +10790,7 @@ guttulous
 guttur
 guttural
 gutturalise
+gastrectomies
 gapa
 glugglug
 gutturalism
