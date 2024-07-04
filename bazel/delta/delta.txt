@@ -7415,7 +7415,6 @@ deuteranomal
 deuteranomaly
 deuteranomalous
 deuteranope
-deuteranopia
 deuteranopic
 deuterate
 deuteration
@@ -8745,6 +8744,7 @@ dibase
 dibasicity
 dishonorable
 dibatag
+deuteranopia
 dibatis
 dibbed
 dibber
