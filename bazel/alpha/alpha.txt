@@ -776,6 +776,7 @@ aboves
 abovesaid
 abovestairs
 asinegoes
+azans
 abow
 abox
 abracadabra
@@ -8953,7 +8954,6 @@ allographic
 alloy
 alloyage
 alloyed
-azans
 alloimmune
 alloiogenesis
 alloiometry

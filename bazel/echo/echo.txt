@@ -10629,7 +10629,6 @@ elapsed
 etoile
 etoiles
 eton
-etouffe
 etrenne
 elaeagnaceous
 etrier
@@ -12351,6 +12350,7 @@ exemplary
 exemplaric
 exemplarily
 exemplariness
+etouffe
 exemplarism
 exemplarity
 exemplars
