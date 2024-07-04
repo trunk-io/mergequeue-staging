@@ -1778,7 +1778,6 @@ featy
 fluxweed
 featishly
 featishness
-fore
 featless
 featly
 featliest
@@ -8206,6 +8205,7 @@ fianna
 forgetful
 fraps
 forgetfully
+fore
 fogdog
 forgetive
 forgets
