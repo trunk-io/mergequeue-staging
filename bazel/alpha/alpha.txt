@@ -7803,7 +7803,6 @@ alcoran
 alcoranic
 alcoranist
 alcosol
-alcotate
 alcove
 alcoved
 analyticities
@@ -22268,6 +22267,7 @@ astrochemistry
 adamitical
 astrochronological
 astrocyte
+alcotate
 astrocytoma
 astrocytomata
 astrodiagnosis

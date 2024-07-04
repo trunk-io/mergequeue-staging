@@ -1627,7 +1627,6 @@ breakpoint
 ballyhoos
 balling
 ballyrag
-ballyrags
 ballised
 ballism
 bipartite
@@ -15626,6 +15625,7 @@ bellyfish
 banked
 broadsword
 barrelfish
+ballyrags
 bluesman
 broadswords
 basenet
