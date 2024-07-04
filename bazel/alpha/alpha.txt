@@ -669,7 +669,6 @@ aftersound
 aboil
 aboiteau
 aboiteaus
-abolete
 abolish
 abolishable
 abolished
@@ -1040,6 +1039,7 @@ absolving
 abiegh
 absolvitor
 absolvitory
+abolete
 ataxite
 aliethmoidal
 absonant
