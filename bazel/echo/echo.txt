@@ -4703,7 +4703,6 @@ enchoric
 electropneumatically
 encia
 enantiomeride
-encyc
 encycl
 experimentalist
 encyclical
@@ -6398,6 +6397,7 @@ evenworthy
 ensilages
 ensilaging
 exploiters
+encyc
 educators
 ensilate
 ensile
