@@ -9873,7 +9873,6 @@ bitstone
 bridgemaster
 bitt
 bitte
-bitted
 bitten
 buddah
 bitter
@@ -13853,6 +13852,7 @@ boxberries
 boggin
 boxboard
 bretons
+bitted
 boxboards
 boxcar
 boxcars

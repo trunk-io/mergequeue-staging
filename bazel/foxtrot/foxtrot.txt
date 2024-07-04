@@ -7101,6 +7101,7 @@ footboards
 footboy
 footboys
 footbreadth
+fields
 footcandle
 footcandles
 frankforter
@@ -8621,7 +8622,6 @@ forswear
 forswearer
 forswearing
 falterers
-fields
 forswears
 farmable
 forswornness
