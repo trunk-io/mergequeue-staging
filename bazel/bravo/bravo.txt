@@ -598,7 +598,6 @@ backswordman
 bestness
 backswordmen
 behav
-backswordsman
 backtack
 backtender
 blumea
@@ -5957,6 +5956,7 @@ bemaster
 bemat
 bembecidae
 beme
+backswordsman
 bemeal
 bemean
 bemeaned
