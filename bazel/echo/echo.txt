@@ -2788,7 +2788,6 @@ eleoblast
 eleocharis
 eleolite
 eleomargaric
-electrothermometer
 epicerebral
 eleonorite
 encystation
@@ -4251,6 +4250,7 @@ empoverish
 empower
 earthquakes
 exist
+electrothermometer
 empowering
 empowerment
 empresa
