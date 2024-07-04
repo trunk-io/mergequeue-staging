@@ -19377,7 +19377,6 @@ arena
 adjutrice
 arenaceous
 arenae
-arenaria
 arenariae
 arenation
 arend
@@ -22249,6 +22248,7 @@ astringency
 astringent
 astringently
 astringer
+arenaria
 astringing
 astrion
 adrue
