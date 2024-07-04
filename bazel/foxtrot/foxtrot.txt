@@ -3872,7 +3872,6 @@ finew
 finewed
 finfish
 finfishes
-finfoot
 finfoots
 fingal
 friers
@@ -7971,6 +7970,7 @@ foreskirt
 foreslack
 foliates
 foreslow
+finfoot
 foresound
 forespake
 forespeak
