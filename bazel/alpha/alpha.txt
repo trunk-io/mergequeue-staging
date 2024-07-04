@@ -4882,7 +4882,6 @@ aeneas
 aeneid
 agrodolce
 aeneolithic
-aeneous
 aeneus
 aenigma
 aenigmatite
@@ -6727,6 +6726,7 @@ ahmet
 ahnfeltia
 aho
 ahoy
+aeneous
 aholds
 aholt
 ahom
