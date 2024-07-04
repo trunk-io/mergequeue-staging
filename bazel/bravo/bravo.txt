@@ -714,7 +714,6 @@ bacteriologist
 bacteriophages
 botany
 bacteriophagia
-bacteriophagic
 broomstaff
 bacteriopsonic
 bacteriopsonin
@@ -866,6 +865,7 @@ baetzner
 backhauling
 bafaro
 baff
+bacteriophagic
 baffeta
 baffy
 baffies
