@@ -3508,7 +3508,6 @@ defter
 defterdar
 dizain
 deftly
-daybook
 deftness
 deftnesses
 defunct
@@ -12352,6 +12351,7 @@ dishonouring
 dishorn
 dishouse
 dishpan
+daybook
 dichocarpism
 dishpans
 dishrags
