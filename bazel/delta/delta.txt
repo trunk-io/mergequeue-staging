@@ -8771,6 +8771,7 @@ dibhole
 diblastula
 diborate
 dibothriocephalus
+downgrades
 dubitancy
 dibrach
 dissuader
@@ -16286,7 +16287,6 @@ defeasive
 downgone
 downgrade
 downgraded
-downgrades
 downgrading
 downhanging
 downhaul
