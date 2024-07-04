@@ -3565,7 +3565,6 @@ biers
 batfowls
 batful
 bordeaux
-bathe
 batheable
 bathed
 barbulate
@@ -5532,6 +5531,7 @@ bejumbles
 bejumbling
 bekah
 bekerchief
+bathe
 bekick
 beking
 blazed
