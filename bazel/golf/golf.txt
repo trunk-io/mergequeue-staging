@@ -107,7 +107,6 @@ gadhelic
 gadi
 gadid
 glitches
-gadinic
 gaditan
 gadite
 gadman
@@ -3761,6 +3760,7 @@ gheleem
 gauging
 gaucheness
 gherao
+gadinic
 gheraoed
 grasshouse
 glassworking
