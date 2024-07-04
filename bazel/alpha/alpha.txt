@@ -13281,7 +13281,6 @@ animadverter
 animal
 afterfeed
 animalcula
-animalculae
 animalcular
 animalcule
 animalcules
@@ -19262,6 +19261,7 @@ arctics
 arcticward
 arcticwards
 arctiid
+animalculae
 albugo
 arctiidae
 arctisca
