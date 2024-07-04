@@ -4138,6 +4138,7 @@ delinter
 disjunctor
 deliquate
 deliquesce
+deludable
 deliquesced
 deliquescence
 deliquescent
@@ -4268,7 +4269,6 @@ deltoids
 delubra
 delubrubra
 deluce
-deludable
 deluded
 deluder
 deluders
