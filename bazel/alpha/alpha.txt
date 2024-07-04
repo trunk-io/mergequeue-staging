@@ -4060,7 +4060,6 @@ adjugate
 adjument
 adjunct
 alcapton
-adjunction
 adjunctive
 adjunctly
 adjuncts
@@ -20265,6 +20264,7 @@ arrgt
 arrha
 arrhal
 arrhenal
+adjunction
 atticist
 arrhenatherum
 arzrunite
