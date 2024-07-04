@@ -5771,7 +5771,6 @@ cateye
 catel
 catelectrode
 catelectrotonic
-catelectrotonus
 catella
 catena
 corncake
@@ -20841,6 +20840,7 @@ compony
 comport
 comportable
 comportance
+catelectrotonus
 comported
 comporting
 comportment
