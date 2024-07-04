@@ -4935,6 +4935,7 @@ aerage
 aeraria
 aerarian
 aerarium
+axumite
 aerate
 aerated
 armitas
@@ -8556,7 +8557,6 @@ alkalizate
 alkalization
 alkalize
 alkalizes
-axumite
 alkalizing
 alkaloid
 alkaloids
