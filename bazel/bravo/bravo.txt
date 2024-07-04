@@ -5334,7 +5334,6 @@ begrudged
 begrudger
 begrudges
 bitterheartedness
-begrudging
 begrudgingly
 begruntle
 begrutten
@@ -10903,6 +10902,7 @@ blisteringly
 blisterous
 blisters
 blisterweed
+begrudging
 backspear
 blit
 blite
