@@ -7104,7 +7104,6 @@ footed
 footer
 footfall
 footfalls
-footfarer
 footfault
 filical
 footfeed
@@ -11655,6 +11654,7 @@ fabricate
 fustilugs
 fustin
 fustinella
+footfarer
 filleted
 flagstaff
 fulgid

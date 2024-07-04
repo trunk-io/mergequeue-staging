@@ -2870,7 +2870,6 @@ gunbuilder
 genotype
 granulose
 girdled
-genotypic
 genotypical
 genotypically
 gauffered
@@ -9095,6 +9094,7 @@ gripping
 grippingly
 grugru
 grippingness
+genotypic
 grippleness
 grippotoxin
 grips
