@@ -935,7 +935,6 @@ gonfalonier
 gamelin
 guiro
 gamelion
-gamelote
 gamelotte
 gameness
 glomeroporphyritic
@@ -1013,6 +1012,7 @@ genospecies
 gammelost
 gammerel
 gammers
+gamelote
 gammy
 gammock
 gammon
