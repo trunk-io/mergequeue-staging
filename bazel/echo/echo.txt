@@ -4844,7 +4844,6 @@ emulsifiable
 expatriated
 excitive
 events
-encoronal
 encoronate
 encounterable
 encountered
@@ -9413,6 +9412,7 @@ erugo
 erugos
 erupt
 erupted
+encoronal
 eruptible
 erupting
 eruption
