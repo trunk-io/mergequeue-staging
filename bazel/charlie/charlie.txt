@@ -18126,7 +18126,6 @@ coequalize
 coequally
 coequalness
 coequals
-coequate
 coequated
 coequates
 coequation
@@ -30627,6 +30626,7 @@ cudgerie
 cuds
 cudweed
 cudwort
+coequate
 cue
 cueball
 cueca
