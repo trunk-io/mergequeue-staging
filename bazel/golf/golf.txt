@@ -1969,7 +1969,6 @@ glyphography
 governorships
 glossotype
 glycogenic
-gauffre
 gaufrette
 glyptologist
 gaugeable
@@ -9541,6 +9540,7 @@ growls
 grown
 grappler
 grownup
+gauffre
 guardship
 gothicism
 gempylid
