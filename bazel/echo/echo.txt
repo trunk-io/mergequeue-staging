@@ -7315,6 +7315,7 @@ ecumenicist
 eom
 engilds
 eomecon
+extols
 explorable
 eon
 enscroll
@@ -13728,7 +13729,6 @@ extolling
 extollingly
 epidotes
 extollment
-extols
 extoolitic
 extorsion
 extorsive
