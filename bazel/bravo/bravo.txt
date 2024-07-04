@@ -1935,7 +1935,6 @@ bandcase
 bandcutter
 believably
 bande
-bandeaux
 britishers
 banded
 bandel
@@ -4299,6 +4298,7 @@ beaver
 beavered
 beaverette
 burgonet
+bandeaux
 beavering
 beaverite
 bigeyes
