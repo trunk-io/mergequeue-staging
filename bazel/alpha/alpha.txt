@@ -6218,6 +6218,7 @@ aggroup
 aggroupment
 aggur
 aghanee
+americanisms
 aghast
 aghlabite
 aghorapanthi
@@ -10414,7 +10415,6 @@ america
 american
 arrayed
 americanese
-americanisms
 anthologizes
 americanitis
 americanize
