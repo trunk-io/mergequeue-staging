@@ -11691,7 +11691,6 @@ cholos
 choloscopy
 caup
 cholralosed
-cholterheaded
 choltry
 choluria
 choluteca
@@ -14722,6 +14721,7 @@ cystoidea
 cystoidean
 classicized
 cystoids
+cholterheaded
 cystolith
 cystolithiasis
 cystolithic
