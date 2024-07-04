@@ -4561,7 +4561,6 @@ fixtureless
 farming
 fixup
 forwarding
-forjudger
 fixups
 fossilizing
 funerate
@@ -7117,6 +7116,7 @@ frankforter
 finedraw
 footed
 footer
+forjudger
 footfall
 footfalls
 footfault
