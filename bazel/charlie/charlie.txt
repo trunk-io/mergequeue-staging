@@ -6483,7 +6483,6 @@ ceaselessly
 ceaselessness
 ceases
 ceasing
-ceasmic
 cebalrai
 carbonados
 cebell
@@ -15609,6 +15608,7 @@ class
 classable
 classbook
 classed
+ceasmic
 classer
 chacra
 classfellow

@@ -15907,7 +15907,6 @@ bronchiolus
 bronchiospasm
 bronchiostenosis
 bronchitic
-bronchoalveolar
 bronchoaspergillosis
 bronchoblennorrhea
 bronchobuster
@@ -16319,6 +16318,7 @@ betrothment
 brushable
 brushback
 brushbird
+bronchoalveolar
 brushcut
 betrace
 brushed
