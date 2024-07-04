@@ -7804,7 +7804,6 @@ biathlon
 biaural
 biauricular
 biauriculate
-biaxal
 beslow
 biaxial
 becrimes
@@ -14163,6 +14162,7 @@ bradyphemia
 bradyphrasia
 bradyphrenia
 bradypnea
+biaxal
 behalf
 bronx
 bradypode
