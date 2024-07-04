@@ -3959,7 +3959,6 @@ finishers
 finishes
 fortunetell
 finishing
-finitary
 finitesimal
 frab
 fervidor
@@ -10244,6 +10243,7 @@ frizzen
 frizzer
 formerness
 frizzers
+finitary
 frizzes
 finning
 flattish
