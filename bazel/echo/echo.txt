@@ -2426,7 +2426,6 @@ expos
 electroform
 electroforming
 electrofuse
-electrofused
 electrofusion
 electrogalvanic
 electrogenesis
@@ -3531,6 +3530,7 @@ elzevirian
 embodies
 eastness
 embodying
+electrofused
 embogue
 emboil
 emboite

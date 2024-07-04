@@ -20446,7 +20446,6 @@ compage
 congressionalist
 cinclidae
 cif
-compages
 compaginate
 compagnies
 cresols
@@ -29616,6 +29615,7 @@ crocidolite
 crocidura
 crocin
 crocine
+compages
 crock
 crockard
 crocked
