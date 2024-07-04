@@ -8168,7 +8168,6 @@ dialyzers
 diadromous
 dyads
 diadumenus
-diaene
 diaereses
 diaeresis
 diaeretic
@@ -12734,6 +12733,7 @@ dismerit
 dysmerogenesis
 dysmeromorph
 deleting
+diaene
 dysmeromorphic
 dismes
 dysmetria
