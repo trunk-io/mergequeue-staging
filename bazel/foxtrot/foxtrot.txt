@@ -2118,7 +2118,6 @@ forebear
 fellowred
 fellows
 fellowshiping
-fellowshipped
 fellowshipping
 fellowships
 fells
@@ -4622,6 +4621,7 @@ flabrum
 fibrosarcoma
 falsifier
 flabs
+fellowshipped
 flaccid
 flaccidity
 fulfills
