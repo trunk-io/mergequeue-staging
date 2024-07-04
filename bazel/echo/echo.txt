@@ -5373,7 +5373,6 @@ ersar
 endostea
 epigean
 endosteal
-ephapse
 endosteally
 estrangement
 endosteitis
@@ -13211,6 +13210,7 @@ explicitly
 explicitness
 enchantingly
 explicits
+ephapse
 exploded
 exploders
 exploit
