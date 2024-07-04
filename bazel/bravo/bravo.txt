@@ -11803,7 +11803,6 @@ bodyworks
 bodken
 bodkin
 bodkins
-bodkinwise
 bodle
 bodo
 bodock
@@ -15214,6 +15213,7 @@ bashaws
 bridgemen
 bridgeport
 bridgepot
+bodkinwise
 bridger
 bridget
 befriend
