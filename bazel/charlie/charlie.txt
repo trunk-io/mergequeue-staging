@@ -8591,6 +8591,7 @@ countertrespass
 chanca
 chance
 chanceable
+costumire
 chanceably
 chanced
 chanceful
@@ -26308,7 +26309,6 @@ costumic
 costumiere
 costumiers
 costuming
-costumire
 costumist
 cassican
 cosubject
