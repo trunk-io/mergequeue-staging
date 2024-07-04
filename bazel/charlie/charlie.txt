@@ -8888,7 +8888,6 @@ chaquetas
 char
 colorants
 chara
-charabanc
 charabancer
 charabancs
 charac
@@ -29022,6 +29021,7 @@ criminalities
 criminally
 criminalness
 criminaloid
+charabanc
 criminals
 criminate
 cacographical
