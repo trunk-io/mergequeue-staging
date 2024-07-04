@@ -2308,7 +2308,6 @@ dechlorinate
 dechlorinated
 dechlorinating
 dechlorination
-dechristianization
 dechristianize
 dissociative
 decian
@@ -8708,6 +8707,7 @@ diaxial
 diaxon
 diaxone
 demagnetise
+dechristianization
 dittander
 diaxonic
 diazenithal
