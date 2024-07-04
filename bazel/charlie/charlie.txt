@@ -20395,7 +20395,6 @@ commutatively
 commutativity
 commutator
 commutators
-commute
 commuted
 commuters
 commutes
@@ -21381,6 +21380,7 @@ conchubar
 conchucu
 certificator
 conchuela
+commute
 conciator
 cosignatories
 concyclic
