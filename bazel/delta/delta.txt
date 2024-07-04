@@ -2543,6 +2543,7 @@ decoder
 decoders
 decodes
 dispiriting
+dominantly
 decoding
 decodings
 decohere
@@ -15344,7 +15345,6 @@ domina
 dominance
 dominancy
 dominant
-dominantly
 disenthralling
 dominants
 dominated
