@@ -1699,6 +1699,7 @@ ballpoint
 ballpoints
 bespoken
 balls
+bellicoseness
 ballsy
 blandiloquious
 ballsier
@@ -1905,7 +1906,6 @@ blanchers
 bancha
 bancos
 bancus
-bellicoseness
 bakehead
 band
 bandaged
