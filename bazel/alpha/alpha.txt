@@ -5657,7 +5657,6 @@ afterbodies
 afterbrain
 afterbreast
 afterburner
-afterburners
 afterburning
 aftercare
 aftercareer
@@ -8965,6 +8964,7 @@ allokurtic
 acupuncturation
 allolalia
 allomerism
+afterburners
 allomerize
 allomerized
 allomerizing
