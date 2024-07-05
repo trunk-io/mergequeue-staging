@@ -5581,6 +5581,7 @@ dependencies
 dosimeters
 dependently
 dependents
+diatrymiformes
 depender
 depending
 dependingly
@@ -7872,7 +7873,6 @@ dewworm
 disponee
 dexes
 dexies
-diatrymiformes
 dexiocardia
 dictate
 dexiotrope
