@@ -1646,6 +1646,7 @@ ballium
 ballywack
 ballywrack
 ballmine
+blinker
 ballo
 bagdad
 ballock
@@ -10892,7 +10893,6 @@ blinis
 blinkard
 blinkards
 blinked
-blinker
 blinkered
 blinkering
 blinkers
