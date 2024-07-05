@@ -3921,7 +3921,6 @@ bazaar
 bazaars
 bazar
 brevilingual
-baze
 bazigar
 boltrope
 bazoo
@@ -9505,6 +9504,7 @@ bastardy
 biri
 bigothero
 birkenhead
+baze
 birkeniidae
 birkie
 birkremite
