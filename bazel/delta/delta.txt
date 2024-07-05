@@ -3041,6 +3041,7 @@ deeryard
 deeryards
 deerlet
 deermeat
+daker
 deerskin
 deerstalker
 deerstalkers
@@ -17860,7 +17861,6 @@ dentalized
 dentile
 demobilization
 duddy
-daker
 duddie
 dudeens
 drogues
