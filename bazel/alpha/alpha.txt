@@ -19177,6 +19177,7 @@ archrepresentative
 archrobber
 archrogue
 archruler
+astrologer
 archsacrificator
 archsacrificer
 archsaint
@@ -22312,7 +22313,6 @@ astrolog
 astrologaster
 astrologe
 asbestos
-astrologer
 astrologers
 astrology
 astrologic
