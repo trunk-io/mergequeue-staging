@@ -11682,7 +11682,6 @@ anaconda
 anacondas
 anacoustic
 anacreontic
-anacreontically
 anacrisis
 anacrogynae
 anacrogynous
@@ -16688,6 +16687,7 @@ aortomalaxis
 aortopathy
 aortoptosia
 aortoptosis
+anacreontically
 aortosclerosis
 aortostenosis
 aosmic
