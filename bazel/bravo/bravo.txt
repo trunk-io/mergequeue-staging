@@ -3514,7 +3514,6 @@ basto
 backwasher
 beworms
 baston
-bastonet
 bastonite
 basts
 basurale
@@ -16867,6 +16866,7 @@ bugology
 bugologist
 bugong
 bugout
+bastonet
 bugs
 belowstairs
 bugseed
