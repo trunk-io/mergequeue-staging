@@ -9521,7 +9521,6 @@ grovers
 gallantly
 grovet
 grovy
-grow
 growable
 growed
 grower
@@ -9532,6 +9531,7 @@ genetoid
 growlery
 growliest
 graecizes
+grow
 growleries
 growlers
 gregariousness
