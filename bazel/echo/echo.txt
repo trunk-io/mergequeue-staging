@@ -8336,6 +8336,7 @@ epitaxy
 epitaxial
 epitaxic
 epitaxies
+eucyclic
 epitaxis
 epitela
 epitendineum
@@ -10739,7 +10740,6 @@ euchrome
 earns
 euchromosome
 euchrone
-eucyclic
 euphenics
 ethanols
 eucirripedia
