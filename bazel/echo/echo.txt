@@ -8616,6 +8616,7 @@ equatorward
 equatorwards
 entreated
 equerries
+escapers
 eques
 equestrial
 empyreal
@@ -9510,7 +9511,6 @@ escapeless
 electuaries
 escapement
 escaper
-escapers
 escapes
 electiveness
 escapeway
