@@ -11253,6 +11253,7 @@ bookrack
 blowout
 blowouts
 blowpipe
+breechclout
 blowpit
 bolster
 blows
@@ -14914,7 +14915,6 @@ breech
 breechblock
 breechcloth
 brimfull
-breechclout
 breeched
 breeches
 breeching
