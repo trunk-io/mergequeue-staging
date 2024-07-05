@@ -2876,6 +2876,7 @@ grouse
 galactophthysis
 genteelness
 grogginess
+giantlikeness
 geysers
 goodhearted
 gentian
@@ -7549,7 +7550,6 @@ gowked
 gowkedly
 gowkedness
 grunch
-giantlikeness
 gorinesses
 gasthauses
 gowks
