@@ -7218,7 +7218,6 @@ enthrill
 earthquave
 embarrassingly
 envisaging
-envision
 encoffinment
 envisioning
 electrolier
@@ -13560,6 +13559,7 @@ extemporizes
 ephelis
 eking
 extend
+envision
 extendability
 eosaurus
 extendable
