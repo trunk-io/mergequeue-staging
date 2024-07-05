@@ -7606,7 +7606,6 @@ epicede
 epicedial
 epicedian
 equitation
-epicedium
 epicele
 epicene
 electrochemistry
@@ -11064,6 +11063,7 @@ euphonised
 euphonising
 euphonium
 expdt
+epicedium
 euphonize
 euphonized
 erodible
