@@ -3124,7 +3124,6 @@ grailing
 gausses
 geologists
 geologize
-geologized
 geologizing
 geom
 geomagnetic
@@ -10286,6 +10285,7 @@ ghent
 guttiferae
 gagroot
 gaoled
+geologized
 guland
 glimmerite
 gulanganes

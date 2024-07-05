@@ -9819,7 +9819,6 @@ chelicera
 cheliceral
 chelicerate
 cysts
-chelide
 chelydidae
 centas
 chelidonian
@@ -10337,6 +10336,7 @@ chicane
 chicaned
 chicaner
 chicanery
+chelide
 chicaneries
 chicaners
 chicanes
