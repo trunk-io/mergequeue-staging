@@ -1868,7 +1868,6 @@ gastrostomies
 gastrostomus
 goodyear
 gyrotheca
-gastrotaxis
 gastrotheca
 gastrotympanites
 gastrotome
@@ -9499,6 +9498,7 @@ grove
 gentrice
 groved
 granulate
+gastrotaxis
 gulosities
 groveled
 groveler
