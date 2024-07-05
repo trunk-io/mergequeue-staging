@@ -19222,7 +19222,6 @@ choregrapher
 collop
 collophane
 cnidocell
-collophanite
 colombin
 collophore
 chlorococcus
@@ -20939,6 +20938,7 @@ comprehensibility
 comprehensibleness
 comprehensibly
 comprehensive
+collophanite
 comprehensively
 comprehensiveness
 ceilometer
