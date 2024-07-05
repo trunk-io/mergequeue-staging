@@ -4909,7 +4909,6 @@ erythraemia
 encroacher
 encroaches
 ependytes
-encroaching
 encroachingly
 eupion
 eophyton
@@ -5877,6 +5876,7 @@ engrosses
 engrossing
 engrossingly
 engrossingness
+encroaching
 enguard
 engulf
 engulfed
