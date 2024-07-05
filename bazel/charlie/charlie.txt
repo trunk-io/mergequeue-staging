@@ -11311,7 +11311,6 @@ chlorinates
 chlorinating
 chlorination
 chlorinator
-cornwallis
 chlorinators
 chlorines
 credere
@@ -19710,6 +19709,7 @@ cosin
 comatula
 comatulae
 comb
+cornwallis
 combaron
 combasou
 combat

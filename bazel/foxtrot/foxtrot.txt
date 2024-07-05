@@ -2630,7 +2630,6 @@ ferule
 funariaceae
 feruled
 freakery
-ferules
 ferulic
 flunk
 ferv
@@ -10749,6 +10748,7 @@ foundry
 frutescent
 fluoridized
 fumulus
+ferules
 ferventness
 favorer
 frutex
