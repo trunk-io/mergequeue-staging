@@ -13677,7 +13677,6 @@ cymbaled
 cymbaleer
 costaea
 cymbaler
-cymbalers
 cymbalist
 cymbalists
 cymballed
@@ -23050,6 +23049,7 @@ consonantised
 consonantising
 consonantism
 consonantize
+cymbalers
 consonantized
 consonantizing
 consonantly
