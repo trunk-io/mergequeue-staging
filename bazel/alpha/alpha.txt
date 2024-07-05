@@ -11510,6 +11510,7 @@ amt
 amtman
 amtrac
 amtrack
+awkwardness
 amtracks
 amtracs
 amtrak
@@ -24993,7 +24994,6 @@ awkwarder
 awkwardish
 awkwardly
 anachronisms
-awkwardness
 awl
 awless
 awlessness
