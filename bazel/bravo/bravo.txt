@@ -2880,6 +2880,7 @@ bassets
 baronial
 baronies
 burry
+byspell
 baronize
 baronized
 baronry
@@ -9747,7 +9748,6 @@ bison
 bisonant
 bisons
 bisontine
-byspell
 bispinose
 bispinous
 brooking
