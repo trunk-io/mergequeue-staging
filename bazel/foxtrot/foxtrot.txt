@@ -91,7 +91,6 @@ facie
 faciend
 faciends
 facies
-faciest
 ficary
 facile
 fundamentalist
@@ -7213,6 +7212,7 @@ footsoldier
 footsoldiers
 footsore
 footsoreness
+faciest
 faunistic
 fetichism
 friller
