@@ -18434,7 +18434,6 @@ cogway
 cogways
 cogweel
 cogweels
-cogwheel
 cogwheels
 cogwood
 cohabitancy
@@ -29163,6 +29162,7 @@ crinum
 crinums
 cryobiology
 cryobiological
+cogwheel
 cryobiologically
 cryobiologist
 crioboly
