@@ -19295,7 +19295,6 @@ colobium
 coloboma
 colobus
 colocasia
-chintzes
 colocate
 colocated
 colocating
@@ -23107,6 +23106,7 @@ conspue
 const
 constable
 chapatti
+chintzes
 communicates
 constablery
 cowgate
