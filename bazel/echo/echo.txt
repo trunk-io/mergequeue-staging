@@ -359,7 +359,6 @@ ebdomade
 eradiate
 elasmosaurus
 eben
-ebenaceae
 ebenaceous
 encrusts
 ebenales
@@ -11010,6 +11009,7 @@ eupatorine
 eupatorium
 enoint
 eupatrid
+ebenaceae
 eupatridae
 eupatrids
 electrocatalytic
