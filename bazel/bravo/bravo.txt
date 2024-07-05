@@ -6260,6 +6260,7 @@ benote
 bens
 bureaucrat
 bensail
+bde
 bensall
 bensel
 bensell
@@ -10388,7 +10389,6 @@ barytostrontianite
 blaoner
 blaoners
 blare
-bde
 backyarder
 blares
 blarina
