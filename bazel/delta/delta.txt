@@ -11942,7 +11942,6 @@ disemic
 derisiveness
 disemplane
 defalcating
-disemplaned
 disemploy
 disemployed
 disemploying
@@ -17560,6 +17559,7 @@ druith
 densified
 drukpa
 drum
+disemplaned
 drumbeat
 drumbeating
 drumble
