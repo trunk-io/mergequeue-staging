@@ -4295,7 +4295,6 @@ fisheries
 fisherman
 fishermen
 fisherpeople
-flammably
 fishers
 fisherwoman
 fantastic
@@ -7742,6 +7741,7 @@ forelands
 foreleader
 forelegs
 frontad
+flammably
 forelocks
 fewer
 forelook
