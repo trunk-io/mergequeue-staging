@@ -6174,6 +6174,7 @@ basilemma
 bussock
 benefits
 benefitted
+buttonhole
 benefitting
 beneme
 benempt
@@ -18313,7 +18314,6 @@ buttoner
 buttoners
 buttonhold
 buttonholder
-buttonhole
 buttonholed
 buttonholer
 berried
