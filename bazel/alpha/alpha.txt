@@ -10388,7 +10388,6 @@ ankylopoietic
 amenty
 amentia
 amentias
-amentiferae
 amentiferous
 aments
 affliction
@@ -23176,6 +23175,7 @@ attrition
 attritional
 attritive
 amoretto
+amentiferae
 attritus
 arouser
 attriutively
