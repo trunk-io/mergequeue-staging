@@ -743,7 +743,6 @@ bacteriuria
 bacterization
 bacterize
 bacterized
-billowed
 bacterizing
 bacteroid
 bacteroideae
@@ -8949,6 +8948,7 @@ biocoenotic
 beatrice
 biocontrol
 biodegradability
+billowed
 biodegradable
 biodegradation
 biodegrade
