@@ -1330,7 +1330,6 @@ acanthine
 acanthion
 acanthite
 allophytoid
-applicably
 arch
 acanthocarpous
 acanthocephala
@@ -24815,6 +24814,7 @@ avoy
 avoid
 avoidable
 avoidably
+applicably
 avoidance
 avoidances
 avoidant
