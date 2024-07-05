@@ -87,7 +87,6 @@ facially
 facials
 facias
 faciata
-forequoted
 facie
 faciend
 faciends
@@ -9216,6 +9215,7 @@ fracturs
 fradicin
 flunkeyhood
 ferricyanate
+forequoted
 frae
 fraela
 fortifies
