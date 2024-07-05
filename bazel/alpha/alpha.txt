@@ -1551,7 +1551,6 @@ accessing
 accession
 accessional
 accessioned
-accessioning
 accessive
 accessively
 accessless
@@ -20789,6 +20788,7 @@ artless
 artlessly
 artlessness
 alphonsism
+accessioning
 artlet
 artly
 artlike
