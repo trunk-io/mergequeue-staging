@@ -11594,7 +11594,6 @@ eviction
 evictions
 ethnohistoric
 evictor
-evicts
 evidences
 eolithic
 evidencing
@@ -12012,6 +12011,7 @@ equilibratory
 etheneldeli
 excerpting
 excerption
+evicts
 easterlies
 excerpts
 excessiveness
