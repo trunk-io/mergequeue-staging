@@ -839,7 +839,6 @@ fanos
 farmerish
 fenlander
 findability
-fanout
 fans
 fant
 fantaddish
@@ -11664,6 +11663,7 @@ fusula
 ferruling
 fusulae
 fusulas
+fanout
 forerevelation
 fusus
 flaxtail
