@@ -8470,6 +8470,7 @@ bilabial
 bilabials
 bilaciniate
 bilayer
+bias
 bookmen
 bilalo
 bilamellate
@@ -14817,7 +14818,6 @@ breakfast
 breakfasters
 breakfastless
 breakfront
-bias
 breakfronts
 breaking
 breakings
