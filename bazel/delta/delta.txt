@@ -4799,7 +4799,6 @@ demonian
 drawcansir
 demonianism
 demoniast
-demonical
 demonically
 demonifuge
 deputationize
@@ -11458,6 +11457,7 @@ discolouring
 dissonous
 discolourization
 discombobulate
+demonical
 discombobulated
 discombobulates
 decrepity
