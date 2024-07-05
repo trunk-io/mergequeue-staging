@@ -3859,6 +3859,7 @@ ghoul
 gretel
 ghoulery
 gynecopathy
+gunstocks
 ghoulish
 ghoulishly
 ghoulishness
@@ -10569,7 +10570,6 @@ gunstick
 gunstock
 galley
 gunstocker
-gunstocks
 gaugeably
 glaziness
 gunstone
