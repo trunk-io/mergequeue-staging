@@ -9383,7 +9383,6 @@ errorless
 errors
 errs
 errsyn
-ers
 ersatz
 ersatzes
 erse
@@ -9725,6 +9724,7 @@ explicans
 emerges
 esophagi
 esophagism
+ers
 esophagitis
 eurythmy
 esophagocele
