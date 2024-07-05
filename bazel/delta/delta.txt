@@ -2584,6 +2584,7 @@ dominant
 datsuns
 decolonizes
 decoloration
+disklike
 decolored
 decolorimeter
 decoloring
@@ -7833,7 +7834,6 @@ dewcup
 dewdamp
 dewdrop
 dewdropper
-disklike
 dewdrops
 dewed
 dewey
