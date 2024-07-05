@@ -6451,7 +6451,6 @@ fluoroscopy
 feasant
 focuser
 fluoroscopic
-frenal
 fluoroscopies
 fluoroscoping
 flamens
@@ -9212,6 +9211,7 @@ feast
 fragaria
 fragged
 foundationless
+frenal
 fragging
 fraggings
 fragile
