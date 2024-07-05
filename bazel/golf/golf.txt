@@ -5419,7 +5419,6 @@ glyceryls
 glycerin
 glycerinate
 glycerinating
-glycerination
 glycerins
 glumiflorae
 glycerite
@@ -9190,6 +9189,7 @@ grizzling
 gatepost
 gaslights
 groaner
+glycerination
 guttular
 groanful
 groaning
