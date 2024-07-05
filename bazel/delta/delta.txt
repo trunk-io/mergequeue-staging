@@ -428,7 +428,6 @@ dainchas
 daynet
 dainful
 disinfects
-daint
 dainteous
 dainteth
 dainty
@@ -5761,6 +5760,7 @@ deponent
 deponents
 depones
 deponing
+daint
 depopularize
 depopulate
 depicturing
