@@ -1802,7 +1802,6 @@ deben
 debenture
 debentured
 debentures
-debenzolize
 debi
 debye
 debile
@@ -12545,6 +12544,7 @@ disjasket
 disjaskit
 disject
 disjected
+debenzolize
 dedecorate
 disjection
 disjects
