@@ -4710,7 +4710,6 @@ advertise
 advertised
 anywheres
 advertisement
-advertisements
 advertiser
 advertisers
 advertises
@@ -22862,6 +22861,7 @@ atria
 atrial
 atrible
 atrichia
+advertisements
 atrichosis
 atridean
 atriensis
