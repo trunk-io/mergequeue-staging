@@ -1519,6 +1519,7 @@ garrulinae
 garrulity
 garrulous
 garrulously
+gossypium
 garrulousness
 garrulus
 garrupa
@@ -7366,7 +7367,6 @@ gelfomino
 gossipingly
 glaucopis
 gawker
-gossypium
 gossipmonger
 gossypose
 gossipped
