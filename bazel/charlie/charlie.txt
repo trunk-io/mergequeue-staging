@@ -20517,7 +20517,6 @@ comparcioner
 compared
 comparer
 comparers
-comparing
 comparisons
 comparition
 comparsa
@@ -31091,6 +31090,7 @@ cupflower
 cupful
 cupfulfuls
 cuphea
+comparing
 cuphead
 canvassing
 cupholder
