@@ -4880,7 +4880,6 @@ flaneries
 flanes
 flaneurs
 flang
-flange
 flanged
 flangeless
 flangers
@@ -7634,6 +7633,7 @@ foregahger
 formulist
 froideur
 ferruginate
+flange
 frederick
 furmities
 flacket
