@@ -7328,6 +7328,7 @@ eomecon
 extols
 explorable
 eon
+eurhodine
 enscroll
 eons
 eopalaeozoic
@@ -8359,7 +8360,6 @@ edaphosauria
 encipherer
 ebullioscopy
 epithalamize
-eurhodine
 epithalamus
 enquirer
 epithalline
