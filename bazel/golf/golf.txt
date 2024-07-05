@@ -5242,7 +5242,6 @@ glassware
 gnathic
 glasswork
 guider
-glassworker
 gaius
 glassworks
 gasbags
@@ -6854,6 +6853,7 @@ gonifs
 gripment
 ghyll
 gropers
+glassworker
 gonimic
 globulariaceous
 grivna
