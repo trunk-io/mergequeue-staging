@@ -4937,7 +4937,6 @@ demultiplexed
 demultiplexer
 demultiplexers
 disroot
-deambulatory
 diazepam
 demultiplexes
 demure
@@ -14500,6 +14499,7 @@ divulgation
 diaclasis
 decernment
 divulgator
+deambulatory
 divulge
 divulged
 divulgence

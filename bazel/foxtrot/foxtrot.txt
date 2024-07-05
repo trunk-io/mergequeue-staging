@@ -839,6 +839,7 @@ fano
 fanon
 fanons
 fanos
+farmerish
 fenlander
 findability
 fanout
@@ -4213,7 +4214,6 @@ flask
 firmisternal
 fronded
 fillagreed
-farmerish
 firmisternia
 fated
 forebitt
