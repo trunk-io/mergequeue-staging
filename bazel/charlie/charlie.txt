@@ -1056,7 +1056,6 @@ calcimined
 campephagidae
 calciminer
 calcimines
-calcimining
 choppin
 calcinate
 calcination
@@ -24501,6 +24500,7 @@ copaiva
 copaivic
 copal
 copalche
+calcimining
 copalcocote
 copalite
 copaljocote
