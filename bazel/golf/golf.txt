@@ -6690,6 +6690,7 @@ goldurn
 giher
 galeopithecus
 goldworker
+grimness
 golee
 golem
 golems
@@ -9027,7 +9028,6 @@ gesith
 guillotinement
 gleary
 grimmiaceous
-grimness
 griping
 grimoire
 grimsir

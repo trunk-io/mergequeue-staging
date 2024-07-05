@@ -9429,6 +9429,7 @@ chaussure
 chaussures
 chaute
 chauth
+cucurb
 clothbound
 chauve
 chauvin
@@ -30588,7 +30589,6 @@ cucumiform
 cyanic
 cucumis
 cucupha
-cucurb
 cucurbit
 cucurbita
 cucurbitaceae
