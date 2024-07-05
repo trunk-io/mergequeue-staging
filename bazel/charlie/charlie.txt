@@ -6565,6 +6565,7 @@ cedrat
 cleruch
 cedrene
 cedry
+contravenes
 cedrin
 crystalliform
 cedrine
@@ -23842,7 +23843,6 @@ contravariant
 contravene
 contravened
 contravener
-contravenes
 contravening
 contravention
 contraversion
