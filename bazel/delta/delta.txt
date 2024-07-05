@@ -5503,6 +5503,7 @@ deoxygenation
 deprecate
 deoxygenization
 deoxygenize
+deprisure
 deoxygenized
 deoxygenizing
 deoxyribonucleotide
@@ -8957,7 +8958,6 @@ dicht
 dichter
 drumbled
 dicyandiamide
-deprisure
 dicyanid
 dicyanide
 dicyanine
