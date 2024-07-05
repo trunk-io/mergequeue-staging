@@ -5552,7 +5552,6 @@ ejulation
 energise
 ekphorize
 energiser
-energises
 energism
 energize
 energized
@@ -7098,6 +7097,7 @@ emmove
 entryways
 enfoldings
 electrodeless
+energises
 entrochite
 entropy
 entropion
