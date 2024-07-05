@@ -6698,7 +6698,6 @@ ahab
 auras
 attemper
 ahamkara
-anthobiology
 ahankara
 ahantchuyuk
 ahartalav
@@ -15340,6 +15339,7 @@ antiestablishment
 antietam
 antiethnic
 assimilativeness
+anthobiology
 agalactous
 antieugenic
 antievangelical
