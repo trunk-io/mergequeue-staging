@@ -5148,7 +5148,6 @@ ahuehuete
 aerophane
 aerophilately
 aerophilatelic
-aerophilatelist
 aerophile
 aerophilous
 aerophysics
@@ -6659,6 +6658,7 @@ agrufe
 agruif
 arrosion
 agsam
+aerophilatelist
 agst
 aeroneurosis
 agt
