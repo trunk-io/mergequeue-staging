@@ -5756,6 +5756,7 @@ depoliticizes
 depone
 deponed
 deponent
+disinheritable
 deponents
 depones
 deponing
@@ -12480,7 +12481,6 @@ diversipedate
 disingenuousness
 disinhabit
 disinherit
-disinheritable
 disinheritance
 dismayfully
 disinheritances
