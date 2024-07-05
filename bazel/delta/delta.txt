@@ -6288,7 +6288,6 @@ dynamoscope
 dermestidae
 dermestoid
 dermic
-dermis
 dermises
 demurs
 disimmure
@@ -7489,6 +7488,7 @@ deutoplasm
 deutoplasmic
 decrescence
 dankish
+dermis
 deutoplastic
 deutoscolex
 dogdoms
