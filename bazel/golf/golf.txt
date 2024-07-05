@@ -3355,6 +3355,7 @@ gerefa
 gerenda
 gerendum
 guardiancy
+gluts
 gerent
 gerenuks
 gyral
@@ -6214,7 +6215,6 @@ glutinous
 glutinousness
 gamble
 glutoid
-gluts
 glutted
 glutter
 gluttery
