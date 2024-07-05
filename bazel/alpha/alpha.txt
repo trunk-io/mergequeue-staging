@@ -3656,7 +3656,6 @@ adduction
 adductor
 adductors
 adiposities
-adducts
 addulce
 adead
 adeem
@@ -22510,6 +22509,7 @@ apocopes
 ateloglossia
 atelognathia
 atelomyelia
+adducts
 anisospore
 anticrotalic
 atelomitic
