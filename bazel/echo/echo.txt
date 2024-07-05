@@ -2617,7 +2617,6 @@ electroreceptive
 electroreduction
 electragist
 electrorefining
-electroresection
 electroretinograph
 endorsation
 ecophobia
@@ -9293,6 +9292,7 @@ erosiveness
 erosivity
 extravaganzas
 encumbers
+electroresection
 encomiumia
 erotema
 escaloped
