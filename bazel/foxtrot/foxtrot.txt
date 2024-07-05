@@ -2287,6 +2287,7 @@ fenestration
 fenestrule
 furthermost
 ficaria
+florilage
 forthbringing
 farmyardy
 fenianism
@@ -6007,7 +6008,6 @@ fissipes
 florigenic
 florigens
 floriken
-florilage
 florilegia
 florimanist
 faciata

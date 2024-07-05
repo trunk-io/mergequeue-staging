@@ -322,7 +322,6 @@ espousers
 eaters
 eath
 eathly
-eating
 eatings
 el
 enthronised
@@ -10390,6 +10389,7 @@ ethylating
 etymologist
 emmetrope
 ethylation
+eating
 ethylbenzene
 ethyldichloroarsine
 ethylenation
