@@ -209,7 +209,6 @@ decentralizes
 daekon
 defilable
 daemon
-daemonelix
 daemones
 daemony
 disprobative
@@ -1136,6 +1135,7 @@ dasheens
 dashel
 dasher
 dashers
+daemonelix
 dipsas
 dashes
 dashy
