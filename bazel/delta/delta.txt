@@ -802,6 +802,7 @@ danegelds
 disprovable
 danegelt
 dyakisdodecahedron
+demiram
 dungeon
 danes
 daneweeds
@@ -4617,7 +4618,6 @@ disbursable
 draegermen
 des
 demiracle
-demiram
 demirelief
 dourahs
 demirep
