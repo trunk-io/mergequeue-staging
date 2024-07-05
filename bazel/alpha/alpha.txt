@@ -6177,7 +6177,6 @@ aggregant
 aggregata
 aggregatae
 ardeidae
-aggregate
 aggregated
 aggregately
 aggregateness
@@ -9744,6 +9743,7 @@ alunites
 alunogen
 alupag
 alur
+aggregate
 acetochloral
 alure
 alurgite
