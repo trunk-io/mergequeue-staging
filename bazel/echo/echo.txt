@@ -5339,6 +5339,7 @@ endosarcs
 endosclerite
 endoscope
 exostema
+emulgens
 endoscopes
 endoscopy
 endoscopic
@@ -9670,7 +9671,6 @@ epharmony
 esiphonal
 ethology
 epigenetically
-emulgens
 energised
 eskimo
 epizoa
