@@ -4131,6 +4131,7 @@ firepinks
 fireplace
 fireplaces
 facultied
+forfaulture
 fireplow
 fleeceable
 fireplug
@@ -8157,7 +8158,6 @@ flintlocks
 forfare
 forfars
 forfault
-forfaulture
 featherdom
 forfeitableness
 frisbees
