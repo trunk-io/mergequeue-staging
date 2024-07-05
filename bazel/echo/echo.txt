@@ -6120,6 +6120,7 @@ enneaeteric
 enneagonal
 enneagons
 enneahedral
+enantiopathic
 enneahedria
 enneahedron
 enneahedrons
@@ -7303,7 +7304,6 @@ excitomotion
 eobiont
 eobionts
 eocarboniferous
-enantiopathic
 eodevonian
 eof
 eogaean
