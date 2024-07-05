@@ -672,6 +672,7 @@ damns
 damnum
 damocles
 damoetas
+disordering
 divined
 damolic
 damon
@@ -12852,7 +12853,6 @@ disordered
 disorderedness
 dopant
 disorderer
-disordering
 disorderly
 disorders
 disordinance
