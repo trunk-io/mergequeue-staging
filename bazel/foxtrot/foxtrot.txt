@@ -9725,7 +9725,6 @@ fluorographic
 freeze
 flumerin
 freezer
-freezes
 freezy
 freezing
 fawnier
@@ -11216,6 +11215,7 @@ fungus
 flaminica
 fungused
 fungusy
+freezes
 funguslike
 funicle
 fondlingly
