@@ -4057,7 +4057,6 @@ gunnies
 gigantomachy
 gigantosaurus
 guaranteer
-gigartina
 gigasecond
 gigaton
 grommet
@@ -5327,6 +5326,7 @@ glare
 gymnolaematous
 gleaner
 gleaning
+gigartina
 growl
 grammar
 gleave

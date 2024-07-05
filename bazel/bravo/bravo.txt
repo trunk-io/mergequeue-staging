@@ -1365,7 +1365,6 @@ binocularity
 balatas
 balatong
 balatron
-bovate
 balatronic
 balatte
 balau
@@ -4836,6 +4835,7 @@ bedsteads
 bedstock
 bedstraw
 batwing
+bovate
 beneighbored
 biliteral
 bedstring
