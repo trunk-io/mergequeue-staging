@@ -4963,6 +4963,7 @@ aerialists
 aeriality
 aerially
 aerialness
+aether
 aerials
 aeric
 antedon
@@ -5275,7 +5276,6 @@ applicability
 administerd
 aetheogamous
 airth
-aether
 aethereal
 aetheric
 aethers
