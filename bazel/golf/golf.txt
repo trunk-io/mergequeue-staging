@@ -1674,6 +1674,7 @@ grubstaked
 gasterosteoid
 gasterotheca
 gaffer
+gyrostatics
 gasterothecal
 gasterotrichan
 gastightness
@@ -5027,7 +5028,6 @@ glacification
 glacioaqueous
 glaciology
 goffer
-gyrostatics
 glaciomarine
 genoa
 glaciometer
