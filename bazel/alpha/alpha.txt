@@ -1785,7 +1785,6 @@ accourage
 accourt
 accouter
 accoutered
-accouterment
 acrotic
 acemetic
 accouters
@@ -5265,6 +5264,7 @@ aethalia
 aethalioid
 abstriction
 aetheling
+accouterment
 aetheogam
 aetheogamic
 applicability
