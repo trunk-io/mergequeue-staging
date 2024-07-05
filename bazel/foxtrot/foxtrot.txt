@@ -1948,6 +1948,7 @@ feedlots
 felicitously
 feedman
 feeds
+footsoldiers
 feedstock
 feedstuff
 fourniture
@@ -7197,7 +7198,6 @@ footslogging
 furnage
 forwards
 footsoldier
-footsoldiers
 footsore
 footsoreness
 faciest
