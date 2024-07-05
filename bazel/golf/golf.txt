@@ -4027,6 +4027,7 @@ gigabytes
 glacon
 gigacycle
 gigahertz
+gests
 gigahertzes
 gigameter
 gigantal
@@ -8817,7 +8818,6 @@ greyish
 greylag
 gunfighter
 guessing
-gests
 greynesses
 greing
 greypate
