@@ -5845,7 +5845,6 @@ ergographic
 engraphia
 engraphic
 exacerbates
-engraphically
 engrapple
 engrasp
 educ
@@ -10898,6 +10897,7 @@ eulachan
 eulachans
 eumorphous
 electrodynamics
+engraphically
 eulamellibranchiate
 eulerian
 eulimidae
