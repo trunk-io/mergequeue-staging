@@ -8334,6 +8334,7 @@ diapasm
 dialytic
 directories
 dialyzability
+dossels
 dacryops
 drey
 delimitating
@@ -14672,7 +14673,6 @@ docilities
 druidical
 directionize
 delimitative
-dossels
 docimasies
 docimastical
 dalk
