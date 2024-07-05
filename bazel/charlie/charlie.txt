@@ -7716,7 +7716,6 @@ ceride
 ceriferous
 cerigerous
 ceryl
-cerilla
 cerillo
 ceriman
 chirino
@@ -21660,6 +21659,7 @@ condensity
 conder
 condescended
 condescendence
+cerilla
 condescender
 condescending
 condescendingly
