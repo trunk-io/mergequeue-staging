@@ -24,7 +24,6 @@ fabling
 fabric
 fabricable
 fabricant
-fabricated
 fruticous
 fabricates
 fabrication
@@ -9591,6 +9590,7 @@ freeborn
 freechurchism
 floretum
 freed
+fabricated
 furthest
 fibroins
 freedom
