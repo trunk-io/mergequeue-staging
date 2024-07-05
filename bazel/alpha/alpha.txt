@@ -6627,7 +6627,6 @@ agromyzid
 agromyzidae
 agron
 agronomy
-agronomial
 agronomic
 agronomical
 agronomically
@@ -11542,6 +11541,7 @@ amurru
 ascolichen
 amusable
 amuse
+agronomial
 amatories
 advertisee
 amusedly
