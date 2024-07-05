@@ -5810,7 +5810,6 @@ engold
 engrainedly
 engorged
 engorging
-exuviated
 earthmen
 engoue
 engouee
@@ -10383,6 +10382,7 @@ enturret
 expoliate
 ethidene
 ethyl
+exuviated
 electroplates
 ethylamide
 ethylamime
