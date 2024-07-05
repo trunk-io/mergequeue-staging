@@ -1400,7 +1400,6 @@ blithen
 baldaquin
 baldberry
 baldcrown
-balded
 backpointers
 balden
 balder
@@ -16559,6 +16558,7 @@ begowk
 bepuddle
 bushless
 buckeens
+balded
 bontebucks
 buckeye
 buckeyed
