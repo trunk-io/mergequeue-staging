@@ -9497,7 +9497,6 @@ birkie
 birkremite
 birks
 berseems
-birl
 byrl
 bethuel
 befallen
@@ -10496,6 +10495,7 @@ blastoporphyritic
 blastosphere
 balisaur
 blastospheric
+birl
 blastostylar
 blastostyle
 bluntness
