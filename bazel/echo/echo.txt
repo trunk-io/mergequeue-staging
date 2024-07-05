@@ -1767,7 +1767,6 @@ elanus
 expatriate
 epicureanism
 experimentally
-eyedrop
 eyedropper
 eyedropperful
 eyeflap
@@ -7096,6 +7095,7 @@ entryways
 enfoldings
 electrodeless
 energises
+eyedrop
 entrochite
 entropy
 entropion
