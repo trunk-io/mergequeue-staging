@@ -4561,7 +4561,6 @@ adulterousness
 adulthood
 adulticidal
 adulticide
-adultly
 appetibility
 adultlike
 adultness
@@ -8550,6 +8549,7 @@ alkalizing
 alkaloid
 awd
 alkaloids
+adultly
 alkalometry
 alkalosis
 alkalous
