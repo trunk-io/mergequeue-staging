@@ -1093,7 +1093,6 @@ gadaea
 ganging
 gefilte
 ganglander
-ganglands
 gangly
 ganglia
 ganglial
@@ -3273,6 +3272,7 @@ geldability
 geostrategy
 gossamery
 geostrophic
+ganglands
 geotactic
 goons
 geotactically
