@@ -4084,6 +4084,7 @@ fired
 firedamp
 firedog
 firedragon
+fumblingness
 firedrake
 firefall
 firefang
@@ -9271,7 +9272,6 @@ fray
 fraicheur
 fossor
 fraid
-fumblingness
 frayed
 frayedly
 forrader
