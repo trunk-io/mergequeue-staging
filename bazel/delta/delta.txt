@@ -11027,7 +11027,6 @@ disanney
 disannex
 disannexation
 disannul
-disannulled
 disannuller
 degree
 disannulment
@@ -12824,6 +12823,7 @@ disciplinatory
 disobligingness
 disobstruct
 disheveling
+disannulled
 disoccluded
 dominae
 deponer
