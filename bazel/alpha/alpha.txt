@@ -6570,7 +6570,6 @@ agric
 azotizes
 archscoundrel
 agricolist
-agricolite
 agricolous
 agricultural
 agriculturalist
@@ -16964,6 +16963,7 @@ aphodius
 aphodus
 apholates
 aphony
+agricolite
 aphonia
 aphonias
 aphonic

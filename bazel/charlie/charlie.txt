@@ -8365,7 +8365,6 @@ chalybeate
 chalybes
 chalybite
 chalice
-chaliced
 chalices
 chalicosis
 chalicothere
@@ -10286,6 +10285,7 @@ chiasmas
 chiasmata
 chiasmatic
 chiasmatype
+chaliced
 chiasmatypy
 chiasmi
 chiasmic
