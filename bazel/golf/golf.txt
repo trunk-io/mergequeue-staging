@@ -5498,6 +5498,7 @@ glycosemia
 glycosidase
 glycoside
 glutaraldehyde
+greet
 glycosides
 glutenous
 glees
@@ -9121,7 +9122,6 @@ grisette
 grisettes
 guising
 glumpish
-greet
 grisgris
 gaieties
 glomerate
