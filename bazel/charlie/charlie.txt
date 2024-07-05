@@ -22164,7 +22164,6 @@ cigala
 chalcedony
 confraternity
 confraternities
-confraternization
 confrere
 confreres
 confrerie
@@ -31538,6 +31537,7 @@ cremule
 curtesies
 cogence
 curtest
+confraternization
 creep
 curtilage
 capacitance
