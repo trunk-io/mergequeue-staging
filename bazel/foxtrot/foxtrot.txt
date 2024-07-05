@@ -1517,7 +1517,6 @@ fruitwise
 faultily
 fleeted
 feiseanna
-faultiness
 faulting
 flakes
 fibrillated
@@ -9908,6 +9907,7 @@ frets
 fuds
 fretsome
 frett
+faultiness
 frettation
 frette
 fretted
