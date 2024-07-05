@@ -5146,7 +5146,6 @@ denitrating
 denitration
 denitrator
 denitrify
-denitrificator
 denitrified
 denitrifying
 denitrize
@@ -11606,6 +11605,7 @@ discontinuously
 discontinuousness
 distill
 disconula
+denitrificator
 disconvenience
 drypoint
 disconvenient
