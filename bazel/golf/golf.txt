@@ -3395,7 +3395,6 @@ germanically
 germanics
 germanify
 garget
-groundwards
 germanification
 germanyl
 germanish
@@ -9356,6 +9355,7 @@ grossular
 gelatinizability
 grossularite
 grosz
+groundwards
 groszy
 genocide
 grote
