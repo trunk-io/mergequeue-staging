@@ -4983,7 +4983,6 @@ fairly
 flashlamp
 flashlight
 funambulator
-flashlights
 fluorinating
 fundraise
 forellenstein
@@ -8037,6 +8036,7 @@ forestside
 forestudy
 flue
 forestwards
+flashlights
 foresentence
 foresummer
 flimsilyst
