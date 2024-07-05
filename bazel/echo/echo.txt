@@ -188,7 +188,6 @@ ekename
 euphausiidae
 earthpea
 earthpeas
-earthquaked
 ean
 electrothermal
 earthquaken
@@ -5575,6 +5574,7 @@ empeirema
 enetophobia
 eneuch
 eneugh
+earthquaked
 enface
 enfaced
 enfacement
