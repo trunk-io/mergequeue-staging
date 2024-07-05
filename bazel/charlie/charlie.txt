@@ -9814,7 +9814,6 @@ chelidonian
 chelidonic
 chelidonin
 chelidonine
-chelidonium
 chelidosaurus
 chelydra
 chelydre
@@ -30234,6 +30233,7 @@ crumpling
 crumster
 crunch
 chark
+chelidonium
 crunchable
 crunched
 cruncher
