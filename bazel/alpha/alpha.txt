@@ -13551,7 +13551,6 @@ ankylocheilia
 ankylodactylia
 ankylodontia
 ankyloglossia
-algicide
 antipleuritic
 ankylomerism
 ankylophobia
@@ -15053,6 +15052,7 @@ anticipant
 anticipatable
 anticipated
 anticipates
+algicide
 anticipating
 anticipatingly
 anticipations
