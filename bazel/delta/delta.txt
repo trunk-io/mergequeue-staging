@@ -12739,7 +12739,6 @@ dismember
 dismembered
 dismemberer
 dismemberment
-dismemberments
 dismembers
 dismembrated
 dismembrator
@@ -12882,6 +12881,7 @@ disorientating
 disorientation
 darogha
 disoriented
+dismemberments
 deceitful
 disorients
 disour
