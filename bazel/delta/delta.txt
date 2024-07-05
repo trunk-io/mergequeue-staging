@@ -5939,6 +5939,7 @@ deprogrammers
 deprogramming
 deprograms
 deprostrate
+dimensionless
 deprotestantize
 deducibleness
 depsid
@@ -9858,7 +9859,6 @@ dimensional
 dimensionality
 dimensionally
 dimensioning
-dimensionless
 dimensions
 dimensum
 diallela
