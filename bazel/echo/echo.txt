@@ -7167,7 +7167,6 @@ enveil
 envelop
 envelope
 enveloping
-envelopment
 evangelistarium
 eskars
 envelopments
@@ -7828,6 +7827,7 @@ erethizontidae
 epigastral
 epigastria
 epigastrial
+envelopment
 epigastrical
 extrications
 epigastriocele
