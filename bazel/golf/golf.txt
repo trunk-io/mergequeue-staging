@@ -8198,7 +8198,6 @@ guzzlers
 graphiter
 graphites
 graphitic
-graphitizable
 galaxian
 graphitize
 galerie
@@ -8687,6 +8686,7 @@ gametogony
 gladiatorism
 greenheaded
 greenheart
+graphitizable
 gladful
 greenhide
 gestational
