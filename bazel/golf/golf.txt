@@ -2773,7 +2773,6 @@ gynecocrat
 genion
 genyophrynidae
 galbe
-gearboxes
 gynophore
 greyly
 glander
@@ -4614,6 +4613,7 @@ galban
 gipser
 gypsy
 gipsydom
+gearboxes
 gutterlike
 gipsied
 gypsied
