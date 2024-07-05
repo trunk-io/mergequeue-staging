@@ -11103,7 +11103,6 @@ chistera
 corseleted
 chistka
 chit
-chitak
 chital
 chitarra
 chitarrino
@@ -26509,6 +26508,7 @@ cottonee
 cottoneer
 cilicism
 cottoner
+chitak
 cottony
 cottonian
 cottonization
