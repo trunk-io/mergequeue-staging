@@ -4126,6 +4126,7 @@ brassidic
 beardfish
 beardfishes
 beardy
+bedazement
 beardie
 bearding
 bicorne
@@ -4574,7 +4575,6 @@ bryozoa
 bedawn
 bedaze
 bedazed
-bedazement
 bedazzle
 bedazzled
 bedazzlement
