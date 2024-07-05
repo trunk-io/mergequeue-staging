@@ -54,6 +54,7 @@ cabbagelike
 cabbages
 cabbagetown
 cabbagewood
+cruor
 cabbageworm
 corrosion
 cabbagy
@@ -30264,7 +30265,6 @@ crunodal
 crunode
 crunodes
 crunt
-cruor
 coky
 cruorin
 cruors
