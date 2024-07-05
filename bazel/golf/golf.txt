@@ -1074,7 +1074,6 @@ gorgers
 gandum
 gandurah
 girlie
-goladar
 ganefs
 ganev
 ganevs
@@ -2203,6 +2202,7 @@ geared
 gearing
 gearings
 gasterotricha
+goladar
 gears
 gearset
 gearshift
