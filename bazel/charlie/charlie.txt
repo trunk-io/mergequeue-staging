@@ -3970,7 +3970,6 @@ cardiidae
 cameoing
 cardin
 cardinal
-cardinalate
 cardinalated
 cardinalates
 cardinalfish
@@ -25740,6 +25739,7 @@ correspondencies
 correspondent
 correspondential
 correspondently
+cardinalate
 correspondentship
 corresponder
 corresponding
