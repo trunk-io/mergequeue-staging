@@ -6672,7 +6672,6 @@ enteroplasty
 enteropneusta
 enteropneustan
 enteroptotic
-electroencephalograms
 enterorrhagia
 evacuant
 enterorrhexis
@@ -7009,6 +7008,7 @@ estrayed
 embryologies
 entrancingly
 ease
+electroencephalograms
 entrant
 entrants
 entrap
