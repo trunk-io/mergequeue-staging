@@ -4966,6 +4966,7 @@ dipmeter
 denarii
 dellenite
 denarinarii
+depolarised
 denarius
 denaro
 denasalize
@@ -5722,7 +5723,6 @@ depoetize
 depoh
 depolarisation
 depolarise
-depolarised
 depolariser
 darksome
 depolarising
