@@ -3166,7 +3166,6 @@ elroquite
 extracurriculum
 estus
 endemic
-ethnobotany
 elseways
 elsewhat
 elsewhen
@@ -4525,6 +4524,7 @@ epicurism
 educing
 encaptive
 encardion
+ethnobotany
 encarnalise
 encarnalised
 eolienne
