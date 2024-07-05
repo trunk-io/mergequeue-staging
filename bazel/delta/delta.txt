@@ -4396,7 +4396,6 @@ dematerialise
 decubation
 dematerialised
 dematerialising
-dematerialization
 dematerialize
 dematerialized
 dematerializing
@@ -8612,6 +8611,7 @@ diaspore
 discomfits
 diaspores
 dyassic
+dematerialization
 diastalses
 diastalsis
 diastaltic
