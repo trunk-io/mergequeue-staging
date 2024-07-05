@@ -4023,7 +4023,6 @@ galleries
 giftwrap
 granularity
 giftwrapping
-gig
 giga
 gigabyte
 gigabytes
@@ -6755,6 +6754,7 @@ gradientia
 gomorrah
 galen
 gomorrean
+gig
 gomorrhean
 gomphiasis
 gluiest
