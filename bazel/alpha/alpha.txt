@@ -8656,6 +8656,7 @@ amble
 allantoidean
 allantoides
 allantoidian
+apomecometry
 allantoin
 allantoinuria
 allantois
@@ -17352,7 +17353,6 @@ apolunes
 archaizing
 apolusis
 apomecometer
-apomecometry
 apometaboly
 apometabolic
 apometabolism
