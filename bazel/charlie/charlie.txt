@@ -23289,6 +23289,7 @@ consultee
 consulter
 consultive
 consulto
+contravene
 consultor
 consultory
 consults
@@ -23850,7 +23851,6 @@ contravalence
 crudded
 contravallation
 contravariant
-contravene
 contravened
 contravener
 contravening
