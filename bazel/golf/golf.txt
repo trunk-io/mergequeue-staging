@@ -659,7 +659,6 @@ gallinule
 gallinulelike
 gallinulinae
 gallinuline
-galliot
 galliots
 gushingly
 gallipot
@@ -5509,6 +5508,7 @@ glycosidic
 gunmetal
 glycosyl
 glycosyls
+galliot
 gnomish
 glycosine
 glycosuria
