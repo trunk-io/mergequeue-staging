@@ -2350,6 +2350,7 @@ archdevil
 achondroplasia
 achondroplastic
 achoo
+angiography
 achor
 achordal
 achordata
@@ -12919,7 +12920,6 @@ angiogenic
 angioglioma
 angiogram
 antidiphtheria
-angiography
 angiographic
 angiohemophilia
 angiohyalinosis

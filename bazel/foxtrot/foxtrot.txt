@@ -4167,7 +4167,6 @@ faquirs
 fubsier
 fainaiguer
 fermentative
-firetraps
 firewall
 fraughtage
 fireward
@@ -9225,6 +9224,7 @@ foundationless
 fragging
 fraggings
 fragile
+firetraps
 fragileness
 fragility
 fleams
