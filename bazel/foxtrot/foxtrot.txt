@@ -8039,7 +8039,6 @@ flue
 forestwards
 flashlights
 foresentence
-foresummer
 flimsilyst
 foresummon
 flossiness
@@ -8082,6 +8081,7 @@ feu
 forethoughtfulness
 firedamps
 forethrift
+foresummer
 foretime
 foretoken
 fucused
