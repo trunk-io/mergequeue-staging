@@ -9706,7 +9706,6 @@ aluminite
 amphoteric
 aluminium
 aluminize
-aluminized
 amortisable
 aluminoferric
 aluminography
@@ -16418,6 +16417,7 @@ antithetics
 antithyroid
 antithrombic
 antirachitic
+aluminized
 antitintinnabularian
 antitypal
 antitype
