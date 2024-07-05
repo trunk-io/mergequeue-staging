@@ -2977,7 +2977,6 @@ fibrillary
 fibrillation
 fibrillations
 forky
-fibrilliferous
 fabraea
 fibrination
 fids
@@ -6941,6 +6940,7 @@ flattening
 follicular
 folliculate
 fibrousness
+fibrilliferous
 folliculated
 fougasse
 folliculin
