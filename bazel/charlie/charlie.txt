@@ -7299,6 +7299,7 @@ cephalacanthus
 cephalad
 cowpokes
 cephalalgy
+checkerwise
 chiffoniers
 cephalalgia
 cephalanthium
@@ -9557,7 +9558,6 @@ checkering
 checkerist
 checkers
 checkerspot
-checkerwise
 checkerwork
 checkhook
 charge
