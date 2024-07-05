@@ -669,7 +669,6 @@ bacterian
 bacteric
 bactericholia
 basommatophorous
-bactericidal
 bactericidally
 bactericide
 bactericides
@@ -15422,6 +15421,7 @@ brinny
 brins
 brinsell
 brioche
+bactericidal
 brioches
 bryogenin
 briolet
