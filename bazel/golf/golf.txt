@@ -4439,7 +4439,6 @@ ging
 gingall
 gingalls
 gingals
-gingeleys
 gingely
 gingelies
 grutches
@@ -5863,6 +5862,7 @@ gangflower
 glossary
 gunl
 glossarial
+gingeleys
 glossarian
 glossaries
 gorier
