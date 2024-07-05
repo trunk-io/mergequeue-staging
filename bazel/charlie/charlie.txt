@@ -5846,7 +5846,6 @@ catharistic
 catharization
 coreless
 catharize
-catharized
 catharizing
 catharpin
 catharping
@@ -20283,6 +20282,7 @@ commonplace
 commonplaceism
 crucifixion
 commonplacely
+catharized
 commonplaceness
 commonplaces
 commons
