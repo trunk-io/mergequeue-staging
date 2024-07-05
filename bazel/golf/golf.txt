@@ -2690,7 +2690,6 @@ glial
 generousness
 geneserin
 geneserine
-geneses
 gapper
 gaup
 genesiacal
@@ -10552,6 +10551,7 @@ gunship
 glb
 gunships
 gunshop
+geneses
 gunshots
 gunslingers
 gunslinging

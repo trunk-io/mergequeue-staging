@@ -6596,6 +6596,7 @@ agriotes
 agriotypidae
 amoebobacter
 agriotypus
+alimentic
 agrypnia
 agrypniai
 acetify
@@ -8398,7 +8399,6 @@ apprizer
 alimentativeness
 alimented
 alimenter
-alimentic
 alimenting
 aleknight
 asystole
