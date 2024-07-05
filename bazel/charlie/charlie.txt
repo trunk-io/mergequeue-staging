@@ -2964,6 +2964,7 @@ capability
 capabilities
 capable
 capableness
+cobelligerent
 capablest
 capably
 capacify
@@ -17472,7 +17473,6 @@ cobcab
 cobego
 cobelief
 cobeliever
-cobelligerent
 cobenignity
 coberger
 conciliationist
