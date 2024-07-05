@@ -6673,7 +6673,6 @@ enteroplasty
 enteropneusta
 enteropneustan
 enteroptotic
-enterorrhagia
 evacuant
 enterorrhexis
 etatisms
@@ -9111,6 +9110,7 @@ ecumenic
 erysipelatous
 erysipeloid
 extravagence
+enterorrhagia
 eristalis
 ejaculating
 eristic
