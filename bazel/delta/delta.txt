@@ -7233,7 +7233,6 @@ determinable
 determinableness
 determinacy
 determinant
-determinantal
 determinants
 determinate
 determinated
@@ -10458,6 +10457,7 @@ diphosgene
 diphosphate
 diphosphid
 diphosphoric
+determinantal
 deeded
 diphosphothiamine
 damans
