@@ -343,7 +343,6 @@ dilutions
 dollfaced
 dayblush
 dayboy
-daybooks
 daybreak
 daydawn
 daidled
@@ -12584,6 +12583,7 @@ disjunctions
 disjunctive
 disjuncts
 dereferences
+daybooks
 disk
 disked
 diskelion
