@@ -11558,6 +11558,7 @@ boardlike
 boardman
 boardroom
 balsamation
+bombycilla
 boards
 boardwalks
 blueprinting
@@ -12314,7 +12315,6 @@ bombycidae
 batterable
 bombycids
 bombyciform
-bombycilla
 bombycina
 bombycine
 bombycinous
