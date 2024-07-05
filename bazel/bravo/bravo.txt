@@ -10500,7 +10500,6 @@ blastosphere
 balisaur
 blastospheric
 birl
-blastostylar
 blastostyle
 bluntness
 blastozooid
@@ -15465,6 +15464,7 @@ brisances
 brisbane
 bracken
 brise
+blastostylar
 battologist
 briseis
 brisement
