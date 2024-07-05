@@ -2174,7 +2174,6 @@ bandboxical
 banksian
 begad
 banksman
-balloted
 banksmen
 bankweed
 banlieu
@@ -11289,6 +11288,7 @@ branchway
 blubberous
 blubbers
 blubbing
+balloted
 blucher
 bludge
 burritos
