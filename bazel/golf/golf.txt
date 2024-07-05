@@ -456,6 +456,7 @@ galeod
 galeodes
 galeodidae
 galeoid
+gofferer
 galeorchis
 goner
 galeorhinidae
@@ -6538,7 +6539,6 @@ goff
 generation
 goffered
 gnars
-gofferer
 goffle
 gog
 gisler
