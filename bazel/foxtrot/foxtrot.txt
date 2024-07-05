@@ -5580,6 +5580,7 @@ fellowshiped
 flinch
 flinched
 flinching
+factice
 flinchingly
 franseria
 flinders
@@ -5694,7 +5695,6 @@ flytiers
 facsimiled
 fertilizes
 flytime
-factice
 formagenic
 fishberry
 faire
