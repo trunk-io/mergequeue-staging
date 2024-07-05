@@ -118,7 +118,6 @@ cabinlike
 camelopard
 cabirean
 cabiria
-cabirian
 cabiric
 cabiritic
 cable
@@ -24701,6 +24700,7 @@ coppersidesman
 copperskin
 coppersmith
 coppersmithing
+cabirian
 copperware
 copperworks
 coppet
