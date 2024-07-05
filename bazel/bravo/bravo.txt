@@ -6954,7 +6954,6 @@ bawke
 beshrivel
 beshroud
 barefoot
-beshrouding
 beshrouds
 birrettas
 bufflehorn
@@ -13357,6 +13356,7 @@ botryogen
 bandwidth
 bereaved
 botryoid
+beshrouding
 botryoidal
 botryoidally
 botryomycoma
