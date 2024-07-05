@@ -5150,6 +5150,7 @@ denitrize
 dipperful
 denizate
 denize
+diplomyelia
 denizen
 denizenation
 denizened
@@ -10597,7 +10598,6 @@ diplomatism
 diplomatist
 diplomatists
 diplomats
-diplomyelia
 diplonema
 divaricator
 disbuds
