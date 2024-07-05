@@ -7579,7 +7579,6 @@ deviate
 deviately
 deviating
 deviation
-deviational
 deviations
 deviatory
 deys
@@ -15296,6 +15295,7 @@ domba
 dombeya
 domboc
 domdaniel
+deviational
 dome
 domed
 domelike
