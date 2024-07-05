@@ -2844,7 +2844,6 @@ enantiopathia
 eleutherozoa
 eleutherozoan
 elev
-elevable
 elevate
 elevated
 elevatedly
@@ -4172,6 +4171,7 @@ empyreumatic
 elocutionary
 embarque
 empyreumatical
+elevable
 empyreumatize
 empiric
 ellachick
