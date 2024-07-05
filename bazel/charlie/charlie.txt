@@ -14105,6 +14105,7 @@ ciphering
 cyphering
 ciphers
 crocked
+countervaunt
 cyphers
 ciphertext
 ciphertexts
@@ -27237,7 +27238,6 @@ countervailing
 countervails
 countervair
 countervalue
-countervaunt
 countervene
 countervengeance
 countervenom
