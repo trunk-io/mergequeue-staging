@@ -7453,7 +7453,6 @@ epeus
 epexegesis
 equvalent
 espec
-epexegetic
 enfasten
 epexegetical
 epexegetically
@@ -7642,6 +7641,7 @@ epichondrotic
 epichordal
 expounders
 epichorial
+epexegetic
 encashed
 epichoric
 epichorion
