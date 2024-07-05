@@ -4196,7 +4196,6 @@ gilo
 gilour
 gilpy
 ginkgoes
-gilravage
 gilse
 gazettes
 gilsonite
@@ -7189,6 +7188,7 @@ gore
 grimmish
 gutturalization
 gored
+gilravage
 gogos
 gresil
 gorer
