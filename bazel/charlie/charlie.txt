@@ -15337,7 +15337,6 @@ cloisteral
 clairsentience
 criosphinges
 clairsentient
-clairvoyance
 clairvoyances
 clairvoyancy
 clairvoyancies
@@ -31447,6 +31446,7 @@ conveniences
 currycombs
 curricula
 curricularization
+clairvoyance
 carmel
 curriculum
 curriculums
