@@ -6288,6 +6288,7 @@ decolorize
 downs
 dermoblast
 dermobranchia
+dishelmed
 dermobranchiata
 decahydrated
 dermobranchiate
@@ -12307,7 +12308,6 @@ disheartenment
 disheartens
 disheaven
 dishelm
-dishelmed
 dishelms
 disherent
 disherison
