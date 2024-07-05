@@ -10143,7 +10143,6 @@ cheshire
 chesil
 cheskey
 cheskeys
-cheslep
 cheson
 chesoun
 chess
@@ -22903,6 +22902,7 @@ conservatorium
 conservators
 conservatorship
 coordinator
+cheslep
 circularized
 conservatrix
 crumblement
