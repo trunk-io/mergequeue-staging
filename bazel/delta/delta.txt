@@ -6659,7 +6659,6 @@ designed
 designedly
 degradand
 designee
-designees
 designer
 designful
 designfully
@@ -16881,6 +16880,7 @@ dreadnought
 dreadnoughts
 dreads
 dream
+designees
 dreamage
 dreamboat
 domestic
