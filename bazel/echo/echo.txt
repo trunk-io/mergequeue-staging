@@ -3070,6 +3070,7 @@ excavate
 epenla
 electrotherapist
 ellipses
+eulogias
 ecphractic
 edgeless
 ellipsis
@@ -10918,7 +10919,6 @@ eardrops
 endmatcher
 eulogia
 eulogiae
-eulogias
 eulogic
 encephala
 eulogical
