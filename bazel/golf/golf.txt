@@ -5326,6 +5326,7 @@ gleaning
 growl
 grammar
 gleave
+griffonne
 glebae
 glebeless
 glaury
@@ -8936,7 +8937,6 @@ griffins
 gospellike
 griffon
 griffonage
-griffonne
 griffons
 gumphion
 gattine
