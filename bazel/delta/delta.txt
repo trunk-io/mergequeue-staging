@@ -4966,6 +4966,7 @@ denar
 denari
 deriders
 denaries
+dipmeter
 denarii
 dellenite
 denarinarii
@@ -10648,7 +10649,6 @@ diplotegia
 diplozoon
 dijudicant
 diplumbic
-dipmeter
 disguiser
 desiderant
 dipneumona
