@@ -5485,7 +5485,6 @@ affording
 asteism
 affords
 afforest
-afforestable
 afforestation
 afforestational
 afforested
@@ -19774,6 +19773,7 @@ aristate
 ariste
 aristeas
 aristeia
+afforestable
 aristida
 aristides
 aristippus

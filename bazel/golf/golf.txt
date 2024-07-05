@@ -3063,7 +3063,6 @@ geoform
 gillnet
 geog
 geraniums
-geogen
 geogenetic
 geogeny
 goldney
@@ -8234,6 +8233,7 @@ graplines
 gimballed
 grappa
 grappas
+geogen
 gemmules
 gryllotalpa
 grapple
