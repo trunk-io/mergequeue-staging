@@ -3201,7 +3201,6 @@ capot
 capotasto
 capotastos
 cheerfulize
-capote
 capotes
 capouch
 capouches
@@ -16590,6 +16589,7 @@ camshachle
 charoset
 clogwyn
 clogwood
+capote
 cloy
 cloyed
 cloyedness
