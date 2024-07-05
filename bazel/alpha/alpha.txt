@@ -8770,7 +8770,6 @@ allentando
 allentiac
 allentiacan
 archdisturber
-allergen
 allergenicity
 allergy
 allergia
@@ -23813,6 +23812,7 @@ authored
 abortion
 authoresses
 authorhood
+allergen
 authorial
 authorially
 authoring
