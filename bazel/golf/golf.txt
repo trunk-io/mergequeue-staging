@@ -7182,6 +7182,7 @@ gaul
 gordolobo
 gordon
 gusted
+giftlike
 gore
 grimmish
 gutturalization
@@ -10833,7 +10834,6 @@ guzul
 glycyphyllin
 griphe
 guzzle
-giftlike
 geyseral
 gestalt
 guggled

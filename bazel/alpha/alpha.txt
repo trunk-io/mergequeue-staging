@@ -20533,7 +20533,6 @@ arteriolar
 arteriole
 arterioles
 arteriolith
-allegro
 agrise
 asporulate
 arteriolosclerosis
@@ -25381,6 +25380,7 @@ azulejos
 azulene
 asiphonate
 anonol
+allegro
 azuline
 azulite
 azulmic
