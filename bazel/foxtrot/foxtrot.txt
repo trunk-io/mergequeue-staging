@@ -4890,7 +4890,6 @@ flannelleaf
 flannelleaves
 flannelled
 flannelling
-flannelmouth
 flannelmouthed
 flannelmouths
 flannels
@@ -8248,6 +8247,7 @@ forgoer
 forgoers
 forgoes
 fishhooks
+flannelmouth
 forgone
 fishergirl
 frill
