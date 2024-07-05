@@ -2316,7 +2316,6 @@ electroacoustically
 electroamalgamation
 electroanalytic
 electroanalytical
-electroballistically
 eructative
 electroballistics
 electrobath
@@ -11418,6 +11417,7 @@ evans
 evansite
 evap
 evaporated
+electroballistically
 evaporates
 evaporation
 evenoo
