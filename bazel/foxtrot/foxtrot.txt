@@ -834,6 +834,7 @@ flibustier
 fano
 fanon
 fanons
+fluxgraph
 fanos
 farmerish
 fenlander
@@ -3267,7 +3268,6 @@ feases
 fluoborate
 falsity
 fielden
-fluxgraph
 fielders
 frohlich
 friability
