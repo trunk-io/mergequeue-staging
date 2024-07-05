@@ -8645,7 +8645,6 @@ formicarium
 forthinking
 forthought
 forthputting
-forthright
 forthrightly
 feinschmecker
 forthrightness
@@ -11489,6 +11488,7 @@ fogging
 furrowed
 furrower
 furrowers
+forthright
 furrowing
 furrowless
 furrowlike
