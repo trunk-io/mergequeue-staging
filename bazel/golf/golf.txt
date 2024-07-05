@@ -5184,7 +5184,6 @@ glandulose
 glanis
 gypsologist
 glans
-glare
 glared
 glareless
 glareola
@@ -5325,6 +5324,7 @@ gleams
 glean
 gleanable
 gleaned
+glare
 gleaner
 gleaning
 growl
