@@ -6582,7 +6582,6 @@ birthless
 berates
 bandana
 berattle
-beraunite
 berbamine
 berber
 borickite
@@ -10985,6 +10984,7 @@ blobs
 bigotry
 blocage
 blockade
+beraunite
 bhikshu
 brunch
 blockader
