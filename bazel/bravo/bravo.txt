@@ -874,7 +874,6 @@ burls
 bafflingness
 bedene
 bowsaw
-buffoon
 baffs
 bonzery
 bafta
@@ -14101,6 +14100,7 @@ bracketed
 bracketing
 brackets
 bracketted
+buffoon
 boarcite
 bracking
 barrelmaker
