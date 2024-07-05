@@ -2272,6 +2272,7 @@ cancelment
 cancels
 cancer
 cheekpiece
+chiral
 cancerated
 cancerating
 canceration
@@ -10941,7 +10942,6 @@ chiquito
 chiragra
 chiragrical
 chirayta
-chiral
 chiralgia
 chirality
 chirapsia
