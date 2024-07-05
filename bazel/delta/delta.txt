@@ -5967,7 +5967,6 @@ depurge
 depurging
 depursement
 deputable
-deputation
 deputational
 deputations
 deputative
@@ -9694,6 +9693,7 @@ dilated
 dilatedly
 dug
 demythologized
+deputation
 dilatedness
 dilatement
 dilates
