@@ -28360,6 +28360,7 @@ crawlie
 crawlier
 crawliest
 crawling
+crosshand
 crawlingly
 crawls
 circumambient
@@ -29872,7 +29873,6 @@ crossfoot
 crossgrainedness
 crosshackle
 crosshair
-crosshand
 crosshatch
 crosshatched
 crosshatcher
