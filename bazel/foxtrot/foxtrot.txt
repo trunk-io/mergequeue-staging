@@ -1076,7 +1076,6 @@ floribunda
 farmyard
 fluffed
 flytail
-focalized
 firebrand
 farmyards
 funs
@@ -3051,6 +3050,7 @@ flock
 fibromyoma
 flashbacks
 fibromyxosarcoma
+focalized
 frissons
 fightable
 foveolet
