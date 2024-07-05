@@ -86,7 +86,6 @@ facial
 facially
 facials
 facias
-faciata
 facie
 faciend
 faciends
@@ -6018,6 +6017,7 @@ floriken
 florilage
 florilegia
 florimanist
+faciata
 florin
 florins
 folios
