@@ -10028,7 +10028,6 @@ byzants
 bedrench
 bizardite
 bizarre
-bizarreness
 bizarrerie
 bitterless
 bizarres
@@ -15838,6 +15837,7 @@ bromoacetone
 bromoaurate
 bromoaurates
 becovet
+bizarreness
 bromoauric
 bouncier
 bromochloromethane
