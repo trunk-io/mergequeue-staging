@@ -27334,7 +27334,6 @@ coupure
 courage
 courageous
 chantable
-courager
 courages
 courant
 courante
@@ -31370,6 +31369,7 @@ curlews
 curly
 curlicue
 curlicued
+courager
 curlicues
 curlycues
 curlicuing
