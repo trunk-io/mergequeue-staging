@@ -3250,6 +3250,7 @@ geoscopy
 gonopod
 gowan
 geoselenic
+geodetic
 geoside
 geosynchronous
 gulfiest
@@ -10729,7 +10730,6 @@ gutsier
 gruffier
 gotiglacial
 gallup
-geodetic
 gibber
 glucuronic
 gutsiest
