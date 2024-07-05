@@ -4631,6 +4631,7 @@ carpiodes
 carpium
 carpocace
 carpocapsa
+cloghead
 carpocarpal
 carpocephala
 clementine
@@ -16588,7 +16589,6 @@ circumtropical
 clogging
 cloghad
 cloghaun
-cloghead
 cloglike
 clogmaker
 clogmaking
