@@ -7575,6 +7575,7 @@ epibiotic
 epiblast
 epicheirema
 emboites
+escharine
 excreation
 epiblastema
 epiblastic
@@ -9555,7 +9556,6 @@ elvish
 eschar
 endosmometer
 eschara
-escharine
 extraovate
 escharoid
 escharotic
