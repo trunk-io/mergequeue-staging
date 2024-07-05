@@ -13874,7 +13874,6 @@ anoil
 anoine
 anoint
 anointed
-anointer
 anointments
 anoints
 anoli
@@ -16014,6 +16013,7 @@ antipyryl
 antipyrin
 antipyrine
 antipyrotic
+anointer
 antiplanet
 antiplastic
 antiplatelet
