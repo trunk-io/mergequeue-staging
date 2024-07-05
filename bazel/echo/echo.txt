@@ -4461,7 +4461,6 @@ enantiosis
 enantiotropy
 enantiotropic
 exometritis
-enapt
 enarbor
 engraving
 enarbour
@@ -11917,6 +11916,7 @@ excandescent
 excantation
 elucidation
 edaciously
+enapt
 excardination
 explicableness
 excathedral
