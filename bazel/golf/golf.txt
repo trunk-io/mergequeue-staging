@@ -943,7 +943,6 @@ grapy
 gamestress
 gashest
 gametal
-gobby
 gametange
 gilds
 gametangium
@@ -10010,6 +10009,7 @@ guenon
 geikia
 gueparde
 greenback
+gobby
 gentianaceae
 griddling
 guerdoner
