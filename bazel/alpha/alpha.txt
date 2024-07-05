@@ -2025,7 +2025,6 @@ acescent
 acescents
 acesodynous
 acestes
-acestoma
 aldoxime
 aceta
 acetable
@@ -6919,6 +6918,7 @@ acron
 ayous
 antrocele
 air
+acestoma
 aira
 airable
 airampo
