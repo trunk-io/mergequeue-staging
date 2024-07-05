@@ -2437,6 +2437,7 @@ barbican
 beckets
 barbicel
 bloodworthy
+bombable
 bloodlines
 batster
 barbicels
@@ -12274,7 +12275,6 @@ bomarea
 bomb
 bonce
 bromiodide
-bombable
 bombacaceae
 bombace
 ballaster
