@@ -661,7 +661,6 @@ food
 fructoses
 familia
 forceable
-familiary
 familiarise
 familiarised
 familiariser
@@ -6296,6 +6295,7 @@ fluidizes
 fileted
 fluidly
 fluidmeter
+familiary
 fluidness
 fluidounce
 factordom
