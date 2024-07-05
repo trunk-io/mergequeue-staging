@@ -3173,7 +3173,6 @@ adenomyofibroma
 actinomeric
 axoplasm
 actinometers
-actinometry
 actinometric
 actinometricy
 actinomyces
@@ -6248,6 +6247,7 @@ agilely
 agileness
 arioso
 agility
+actinometry
 agilities
 agilmente
 agin
