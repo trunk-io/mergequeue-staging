@@ -4705,7 +4705,6 @@ demivotary
 dihydronicotine
 demiwivern
 demiwolf
-demiworld
 demnition
 demob
 dismaying
@@ -8279,6 +8278,7 @@ dialectical
 diphenol
 dialectician
 dialecticism
+demiworld
 dialecticize
 dialectics
 dialectologer
