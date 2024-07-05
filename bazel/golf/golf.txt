@@ -5236,7 +5236,6 @@ ganosis
 glassophone
 glassrope
 glassteel
-glassware
 gnathic
 glasswork
 guider
@@ -6478,6 +6477,7 @@ gonnardite
 gobioidea
 gullibility
 gobioidei
+glassware
 glutin
 gobleted
 gastriloquous
