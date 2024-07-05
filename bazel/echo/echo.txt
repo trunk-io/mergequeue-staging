@@ -4036,7 +4036,6 @@ emoter
 emotes
 epibasal
 emoting
-emotiometabolic
 emotiomotor
 eskers
 ebonized
@@ -7309,6 +7308,7 @@ eohippuses
 eoith
 eoiths
 entamebae
+emotiometabolic
 embrasures
 endromis
 eyepoints
