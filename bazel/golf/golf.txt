@@ -3963,7 +3963,6 @@ gibs
 graveled
 gnathostomatous
 graduate
-gibstaff
 galli
 gibuses
 giddap
@@ -7693,6 +7692,7 @@ graeae
 gastroenteroptosis
 gernitz
 glutaeous
+gibstaff
 graecian
 graecizing
 graecomania
