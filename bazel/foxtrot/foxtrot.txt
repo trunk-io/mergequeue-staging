@@ -150,7 +150,6 @@ factionalist
 factionaries
 fulicine
 fielded
-factionate
 factioneer
 factionism
 faradopalpation
@@ -10841,6 +10840,7 @@ fulcruming
 fibrinoplastic
 fulcrums
 foolhardihood
+factionate
 fulfil
 fulfill
 faithfuls
