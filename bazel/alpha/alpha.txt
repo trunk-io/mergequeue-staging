@@ -8111,7 +8111,6 @@ alfione
 antifreeze
 alfirk
 alfoncino
-alexandrina
 alfonsin
 alforge
 alforja
@@ -19326,6 +19325,7 @@ ardu
 accessit
 arduinite
 arduously
+alexandrina
 arduousness
 agnates
 ardure
