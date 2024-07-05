@@ -4787,7 +4787,6 @@ gelid
 guidage
 gyroceran
 goodwills
-gyrochrome
 gaskings
 gisant
 gonostyle
@@ -9660,6 +9659,7 @@ grumblesome
 grumbletonian
 grumbly
 grumbling
+gyrochrome
 grume
 grumium
 grummel

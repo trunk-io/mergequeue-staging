@@ -10336,7 +10336,6 @@ autocrats
 ameliorate
 ameliorated
 ameliorates
-ameliorating
 apocenter
 amelioration
 ameliorations
@@ -25284,6 +25283,7 @@ autosign
 azohumic
 azoic
 azole
+ameliorating
 azoles
 azolla
 achievability
