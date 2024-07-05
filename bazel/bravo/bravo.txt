@@ -4631,7 +4631,6 @@ bedels
 bedelve
 bedeman
 bedemen
-brute
 beden
 bedesman
 bunchiness
@@ -15625,6 +15624,7 @@ broadswords
 basenet
 boolies
 broadway
+brute
 broadwayite
 broadways
 beknight
