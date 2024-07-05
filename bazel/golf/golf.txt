@@ -1090,7 +1090,6 @@ galvanothermy
 gravitating
 gubbins
 ganger
-gangers
 gadaea
 ganging
 gefilte
@@ -1962,6 +1961,7 @@ garnishing
 gauged
 gravidate
 gauges
+gangers
 gaupus
 genitives
 glucoses
