@@ -14787,7 +14787,6 @@ cystorrhea
 cystosarcoma
 cystoschisis
 cystoscope
-cystoscopy
 cystoscopic
 cystoscopies
 cystose
@@ -28103,6 +28102,7 @@ crania
 craniacromial
 cancerate
 craniad
+cystoscopy
 cranial
 cranially
 cranian
