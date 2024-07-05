@@ -6281,7 +6281,6 @@ benthamite
 boomkin
 benthic
 benthon
-benthonic
 bicentenarnaries
 bridleman
 benthopelagic
@@ -16381,6 +16380,7 @@ brutalism
 brainstone
 bihourly
 brutalist
+benthonic
 bichromatic
 brutality
 brechan
