@@ -9999,7 +9999,6 @@ biwa
 byway
 byways
 bywalk
-befleck
 byward
 bespy
 biweeklies
@@ -16927,6 +16926,7 @@ baloskionaceae
 bulbiferous
 bulbiform
 bulbil
+befleck
 bulbilis
 bulbilla
 bacteremic
