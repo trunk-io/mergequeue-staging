@@ -1047,7 +1047,6 @@ bocklogged
 beinly
 brutes
 baiginet
-blackgum
 baignet
 blain
 baigneuse
@@ -11134,6 +11133,7 @@ bloodshotten
 bloodspiller
 bloodstained
 bloodstainedness
+blackgum
 bloodstains
 bloodstanch
 bloodstock
