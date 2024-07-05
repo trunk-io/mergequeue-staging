@@ -1134,7 +1134,6 @@ edinburgh
 economicalness
 edit
 enwiden
-editable
 edital
 edited
 enlightenments
@@ -7146,6 +7145,7 @@ enunciatively
 encamps
 eradiates
 enunciator
+editable
 enunciatory
 enure
 enured
