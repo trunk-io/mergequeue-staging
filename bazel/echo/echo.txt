@@ -2438,7 +2438,6 @@ electrograving
 ectypography
 electrohemostasis
 electrohorticulture
-electroimpulse
 electroindustrial
 electroing
 entireness
@@ -12376,6 +12375,7 @@ extravaganza
 exemplifications
 exemplificative
 exemplificator
+electroimpulse
 exemplified
 exemplifier
 exemplifiers
