@@ -5403,7 +5403,6 @@ fleshquake
 flet
 fletched
 foraneen
-fletcher
 fluoridised
 fletcherism
 fletcherite
@@ -7196,6 +7195,7 @@ foots
 farraginous
 footscraper
 footsy
+fletcher
 fennoman
 footsies
 floodway
