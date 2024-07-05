@@ -5907,7 +5907,6 @@ depressors
 deathshot
 depressurize
 deprest
-depreter
 depriment
 deprint
 depriorize
@@ -11640,6 +11639,7 @@ discordous
 discords
 discorporate
 discorrespondency
+depreter
 discos
 discost
 dep
