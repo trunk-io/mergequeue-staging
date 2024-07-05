@@ -1751,7 +1751,6 @@ camass
 camasses
 congregationalism
 camata
-camatina
 canacuas
 camauro
 camauros
@@ -17466,6 +17465,7 @@ cobbling
 cobbra
 cobbs
 cobcab
+camatina
 cobego
 cobelief
 cobeliever
