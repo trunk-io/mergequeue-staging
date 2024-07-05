@@ -659,6 +659,7 @@ ferruminated
 food
 fructoses
 familia
+forceable
 familiary
 familiarise
 familiarised
@@ -7371,7 +7372,6 @@ forecited
 forcarve
 forcat
 force
-forceable
 fishwife
 focussing
 forceful

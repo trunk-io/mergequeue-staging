@@ -6757,7 +6757,6 @@ ephod
 entheate
 enthelminthes
 enthelminthic
-entheos
 enthetic
 enthymematic
 enthymematical
@@ -13156,6 +13155,7 @@ expiscating
 esotrope
 eschewed
 expiscation
+entheos
 expiscator
 expiscatory
 explain
