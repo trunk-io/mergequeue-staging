@@ -2023,7 +2023,6 @@ bandore
 bronchium
 bacteriologists
 bandos
-badmouthed
 bandpass
 bandrol
 brachyura
@@ -6150,6 +6149,7 @@ beneficed
 biliousness
 bravo
 beneficency
+badmouthed
 beneficent
 beneficential
 beneficently
