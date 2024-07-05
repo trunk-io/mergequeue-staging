@@ -4451,7 +4451,6 @@ beclap
 beclart
 beclasp
 beclasped
-beclasping
 beclasps
 beclatter
 beclaw
@@ -6599,6 +6598,7 @@ berated
 birthless
 berates
 bandana
+beclasping
 berattle
 berbamine
 berber
