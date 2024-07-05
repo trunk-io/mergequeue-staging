@@ -1063,6 +1063,7 @@ farmeries
 farmerly
 fermata
 farmerlike
+facient
 frigotherapy
 farmers
 foresights
@@ -1870,7 +1871,6 @@ featlier
 fecundities
 fecundize
 floodplain
-facient
 fundless
 fed
 fedayee
