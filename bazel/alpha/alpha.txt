@@ -8813,7 +8813,6 @@ allhallow
 allhallowtide
 allheal
 armoried
-autoactive
 ally
 arithmeticians
 alliable
@@ -25224,6 +25223,7 @@ azygote
 azygous
 azilian
 azilut
+autoactive
 azimech
 azimene
 acromiocoracoid
