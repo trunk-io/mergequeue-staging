@@ -8359,7 +8359,6 @@ formalith
 formalities
 formalizations
 formalize
-formalized
 formalizer
 formalizes
 formalizing
@@ -10288,6 +10287,7 @@ froeman
 froes
 ferrado
 frog
+formalized
 frogbit
 frogeye
 frogeyed
