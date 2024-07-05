@@ -9525,7 +9525,6 @@ digitus
 digladiated
 digladiating
 digladiator
-diglyphic
 diglossia
 diglot
 diglottic
@@ -18676,6 +18675,7 @@ dwt
 dx
 dz
 dzeren
+diglyphic
 dziggetai
 donatary
 dzo
