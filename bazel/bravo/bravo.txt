@@ -2280,7 +2280,6 @@ beresite
 baptist
 baptistery
 baptistry
-baptists
 baptizable
 baptizee
 baptizement
@@ -16690,6 +16689,7 @@ buddles
 buddling
 budge
 budgeree
+baptists
 budgereegah
 budgerigah
 budgerygah

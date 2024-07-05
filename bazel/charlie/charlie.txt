@@ -6392,7 +6392,6 @@ caverning
 cavernitis
 cavernlike
 cavernoma
-cavernous
 commelinaceae
 cavernously
 caverns
@@ -28321,6 +28320,7 @@ craters
 crates
 craticular
 cratinean
+cavernous
 crating
 cratometer
 cratometry
