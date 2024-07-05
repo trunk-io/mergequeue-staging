@@ -4620,6 +4620,7 @@ encephaloscopy
 excerptive
 encephalosepsis
 encephalospinal
+excitableness
 externize
 encephalothlipsis
 encephalotome
@@ -12058,7 +12059,6 @@ excyst
 excystment
 excitabilities
 excitable
-excitableness
 excitably
 economy
 excitancy
