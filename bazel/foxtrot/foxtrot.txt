@@ -4892,7 +4892,6 @@ flannelleaves
 flannelled
 flannelling
 flannelmouthed
-flannelmouths
 flannels
 flanning
 flanque
@@ -8411,6 +8410,7 @@ formful
 formy
 formiate
 feoffers
+flannelmouths
 formica
 formicary
 formicaria
