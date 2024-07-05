@@ -3887,7 +3887,6 @@ frightenable
 fingerberry
 fingerboard
 fingerboards
-fingered
 fingerer
 fructiculture
 fingerers
@@ -10747,6 +10746,7 @@ ferules
 ferventness
 favorer
 frutex
+fingered
 fayalite
 fluorobenzene
 fosterable
