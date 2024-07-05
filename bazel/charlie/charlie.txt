@@ -3358,7 +3358,6 @@ cisgangetic
 collegatary
 capsulectomy
 capsuled
-capsuler
 capsules
 capsuliferous
 capsuliform
@@ -7749,6 +7748,7 @@ cermet
 cheatable
 cern
 cerning
+capsuler
 cernuous
 cero
 cerograph
