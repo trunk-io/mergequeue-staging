@@ -4684,7 +4684,6 @@ bediapers
 bedizening
 bedight
 bedighted
-bedighting
 bedights
 bedikah
 bedim
@@ -14420,6 +14419,7 @@ bram
 bramah
 bramantesque
 bramantip
+bedighting
 bramble
 brambleberry
 brambleberries
