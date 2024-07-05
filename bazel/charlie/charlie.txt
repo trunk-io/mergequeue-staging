@@ -16303,6 +16303,7 @@ clinkering
 clinking
 clinks
 clinkstone
+coffeepot
 clinkum
 clinocephaly
 clinocephalic
@@ -24192,7 +24193,6 @@ convictor
 convicts
 convince
 convincedly
-coffeepot
 convincedness
 craneman
 convincers
