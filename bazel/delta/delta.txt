@@ -2892,7 +2892,6 @@ dedenda
 dedentition
 digitron
 dedicant
-dedicate
 dedicated
 disputants
 dedicatedly
@@ -8357,6 +8356,7 @@ defervescent
 dialogistical
 dialogistically
 dialogite
+dedicate
 dialogize
 decouple
 divia

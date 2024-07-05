@@ -7106,7 +7106,6 @@ besped
 bespeech
 broid
 buccan
-bespelled
 bespend
 bowlin
 bulled
@@ -17182,6 +17181,7 @@ bullsnake
 bullsticker
 bullswool
 bulltoad
+bespelled
 blackit
 bossa
 bullweed
