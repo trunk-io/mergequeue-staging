@@ -7084,7 +7084,6 @@ favilla
 fooner
 foosterer
 fungicolous
-foot
 footage
 footages
 footback
@@ -8586,6 +8585,7 @@ forseen
 forshape
 flay
 followership
+foot
 forsythia
 forsythias
 forslow
