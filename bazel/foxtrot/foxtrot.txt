@@ -1071,6 +1071,7 @@ farawayness
 floribunda
 farmyard
 fluffed
+flytail
 focalized
 firebrand
 farmyards
@@ -5674,7 +5675,6 @@ flyswat
 formulization
 flyswatter
 flit
-flytail
 flitch
 flitched
 flitchen
