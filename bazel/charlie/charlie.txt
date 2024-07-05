@@ -7454,7 +7454,6 @@ ceramiaceae
 ceramiaceous
 ceramic
 coilers
-ceramicist
 ceramicists
 ceramics
 ceramidium
@@ -14207,6 +14206,7 @@ circinate
 circinately
 circiter
 circle
+ceramicist
 circled
 carotene
 cardcastle
