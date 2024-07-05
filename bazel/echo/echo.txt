@@ -12481,7 +12481,6 @@ engrossment
 exhaustibility
 exhaustion
 exhaustive
-enterosepsis
 exhaustiveness
 exhaustivity
 exhaustless
@@ -13276,6 +13275,7 @@ esparsette
 ectocyst
 exponentiates
 exponentiation
+enterosepsis
 exponents
 exponible
 enation
