@@ -11684,7 +11684,6 @@ choliamb
 choliambist
 cholick
 choline
-cholinergic
 cholines
 cholinesterase
 cholinic
@@ -13597,6 +13596,7 @@ cylindrenchyma
 cylindric
 cylindrically
 cylindricalness
+cholinergic
 commented
 cryptanalyzing
 cylindricity
