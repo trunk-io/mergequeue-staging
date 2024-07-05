@@ -922,7 +922,6 @@ breakfasted
 baggings
 boardwalk
 basseted
-baggit
 baggywrinkle
 bagh
 bistratal
@@ -1235,6 +1234,7 @@ bakerlike
 boleros
 belauder
 bakers
+baggit
 beslaver
 bakership
 bakeshop
