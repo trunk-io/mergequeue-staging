@@ -591,6 +591,7 @@ damascened
 damascener
 damascenes
 damascening
+doormat
 damascus
 damask
 damasked
@@ -15614,7 +15615,6 @@ doorless
 doormaid
 disbranched
 doormaker
-doormat
 doormats
 doormen
 doornboom
