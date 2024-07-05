@@ -1864,7 +1864,6 @@ gastrostege
 gastrostenosis
 gastrostomies
 gastrostomus
-girandola
 goodyear
 gyrotheca
 gastrotaxis
@@ -4807,6 +4806,7 @@ galleass
 gyromele
 gyrometer
 gymnasisiums
+girandola
 grandpapa
 gnawers
 giron
