@@ -5835,6 +5835,7 @@ belloot
 bellota
 bellote
 bellovaci
+boxcar
 bellow
 bellowed
 bellowers
@@ -13859,7 +13860,6 @@ boxboard
 bretons
 bitted
 boxboards
-boxcar
 boxcars
 boxed
 boxen
