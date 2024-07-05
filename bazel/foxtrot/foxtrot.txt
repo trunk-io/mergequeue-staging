@@ -2438,6 +2438,7 @@ fermorite
 fibra
 fern
 fernandinite
+flexured
 fernando
 fernbird
 fernbrake
@@ -5462,7 +5463,6 @@ fumy
 floccing
 flexure
 flanerie
-flexured
 falsie
 flingy
 flyaway
