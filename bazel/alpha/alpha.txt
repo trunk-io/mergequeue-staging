@@ -342,7 +342,6 @@ abend
 abends
 absmho
 aberdavine
-aberdeen
 aberdevine
 aberdonian
 aberduvine
@@ -9724,6 +9723,7 @@ aluminosis
 aluminosity
 aluminothermics
 antaios
+aberdeen
 aluminous
 alumins
 aluminum
