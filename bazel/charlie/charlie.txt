@@ -2098,6 +2098,7 @@ caesura
 campman
 campmaster
 campo
+cognitives
 campodea
 campodean
 campodeid
@@ -18381,7 +18382,6 @@ cognition
 cognitional
 cognitive
 cognitively
-cognitives
 cognitivity
 cognitum
 cognizable
