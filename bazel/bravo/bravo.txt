@@ -1714,6 +1714,7 @@ binocs
 ballup
 broadtail
 ballute
+barbecuer
 ballweed
 balm
 belaboured
@@ -2387,7 +2388,6 @@ bogbean
 barbecue
 barbecued
 bellyfull
-barbecuer
 barbecues
 barbecuing
 boosy
