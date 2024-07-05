@@ -4905,7 +4905,6 @@ cartonnage
 cartonnier
 cartons
 cartooned
-cartooning
 cartoonist
 cartoonists
 cartop
@@ -17315,6 +17314,7 @@ coarbitrator
 coarct
 coarctate
 coarctation
+cartooning
 coarcted
 coarcting
 coardent
