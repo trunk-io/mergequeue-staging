@@ -6427,6 +6427,7 @@ enslaved
 enslavements
 ekka
 enslaver
+evincing
 enslavers
 enslaves
 espave
@@ -11630,7 +11631,6 @@ evinces
 evincible
 elitist
 epicoela
-evincing
 evincingly
 evirate
 eviration
