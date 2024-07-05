@@ -3443,6 +3443,7 @@ fiked
 fikey
 fikh
 flinchers
+freightless
 ferrocyanic
 freeways
 feasten
@@ -9739,7 +9740,6 @@ freightage
 fabulist
 flagmaking
 freightyard
-freightless
 freightment
 flocculent
 foreorlop
