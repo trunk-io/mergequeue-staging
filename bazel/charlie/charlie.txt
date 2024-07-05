@@ -13408,7 +13408,6 @@ cyclonologist
 cautionry
 cyclonometer
 cycloolefin
-cycloolefine
 cycloolefinic
 cyclopaedia
 cyclopaedias
@@ -26581,6 +26580,7 @@ cougher
 coughers
 coughing
 coughroot
+cycloolefine
 coughs
 coughweed
 coughwort
