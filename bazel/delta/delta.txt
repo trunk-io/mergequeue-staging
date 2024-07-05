@@ -3947,7 +3947,6 @@ delatinization
 delatinize
 delation
 delations
-delator
 delatorian
 delators
 dissipater
@@ -7750,6 +7749,7 @@ devotee
 devoteeism
 devotees
 diplococcocci
+delator
 devotement
 devoter
 devotes
