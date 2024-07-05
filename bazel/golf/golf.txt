@@ -267,7 +267,6 @@ gainpain
 guttles
 geobotanist
 gainsay
-gainsayer
 gubat
 grayness
 gainsays
@@ -7584,6 +7583,7 @@ gillie
 grabs
 grace
 graced
+gainsayer
 graceful
 garpike
 gerontes
