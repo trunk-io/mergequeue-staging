@@ -12910,6 +12910,7 @@ angiogeny
 angiogenic
 angioglioma
 angiogram
+antidiphtheria
 angiography
 angiographic
 angiohemophilia
@@ -15225,7 +15226,6 @@ antidiffuser
 antidynastic
 antidynastical
 antidinic
-antidiphtheria
 ascenders
 antidiphtheric
 antidiphtherin
