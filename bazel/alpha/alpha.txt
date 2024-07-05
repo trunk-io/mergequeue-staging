@@ -6792,6 +6792,7 @@ awards
 aswing
 aidless
 aidman
+automative
 aidmanmen
 aeronomist
 aidmen
@@ -24202,7 +24203,6 @@ autunite
 automation
 automatism
 automatist
-automative
 automatization
 automatize
 automatized
