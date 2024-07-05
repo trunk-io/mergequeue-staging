@@ -4950,7 +4950,6 @@ carvage
 carval
 carved
 carvels
-carvene
 carver
 carvers
 carvership
@@ -14945,6 +14944,7 @@ cailcedra
 cytococcus
 cytoderm
 cytodiagnosis
+carvene
 cytodieresis
 cytodieretic
 cytoecology
