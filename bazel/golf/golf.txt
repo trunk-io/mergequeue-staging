@@ -5941,6 +5941,7 @@ gland
 glossoepiglottic
 glossograph
 glossographer
+greatened
 getid
 glossohyal
 gizzards
@@ -8593,7 +8594,6 @@ gamelin
 genuses
 greatcoat
 greatcoated
-greatened
 gurnetty
 greatening
 greatens
