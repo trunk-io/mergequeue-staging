@@ -6516,7 +6516,6 @@ bepinch
 bepistoled
 bepity
 beplaided
-beplaster
 beplumed
 berycomorphi
 bepray
@@ -6703,6 +6702,7 @@ bendingly
 beryllia
 berylliosis
 beryllium
+beplaster
 beryllonate
 beryllosis
 beryls
