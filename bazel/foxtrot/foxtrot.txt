@@ -1223,7 +1223,6 @@ fashes
 flneur
 fashing
 fashion
-fascinate
 fashionability
 fashionable
 furor
@@ -2900,6 +2899,7 @@ fewnes
 focalising
 feasibly
 fewneses
+fascinate
 fewness
 flamberg
 fewnesses
