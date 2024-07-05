@@ -1461,7 +1461,6 @@ gelatinization
 garnishees
 galleypot
 garnisheing
-garnishes
 gastight
 garnishment
 getfd
@@ -2931,6 +2930,7 @@ gaetulan
 gentleman
 gentlemanism
 gyracanthus
+garnishes
 grasped
 girderage
 genos
