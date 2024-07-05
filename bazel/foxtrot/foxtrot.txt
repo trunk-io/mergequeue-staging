@@ -4865,6 +4865,7 @@ fishbolt
 footers
 flan
 fishbed
+fulcrumed
 fellsman
 flancard
 flanch
@@ -10835,7 +10836,6 @@ fulciment
 fulcra
 fulcral
 fulcrum
-fulcrumed
 fulcruming
 fibrinoplastic
 fulcrums
