@@ -937,7 +937,6 @@ foresay
 farandoles
 farasula
 fieldbird
-farawayness
 farced
 farcelike
 farcemeat
@@ -1068,6 +1067,7 @@ farmers
 foresights
 farmership
 farmhouse
+farawayness
 floribunda
 farmyard
 fluffed
