@@ -13093,7 +13093,6 @@ echuca
 expert
 ennuyante
 electively
-eigenvalues
 expertised
 excretion
 expertism
@@ -13584,6 +13583,7 @@ excess
 extensor
 ephemeralness
 exaristate
+eigenvalues
 extensors
 extent
 epistropheus
