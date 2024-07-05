@@ -2066,6 +2066,7 @@ camphorphorone
 camphors
 cerebellifugal
 camphorwood
+corruptible
 campier
 campiest
 chlorguanide
@@ -25845,7 +25846,6 @@ corruptedness
 corrupter
 corruptest
 corruptibilities
-corruptible
 corruptibleness
 corruptibly
 corrupting

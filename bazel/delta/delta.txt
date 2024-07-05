@@ -2431,7 +2431,6 @@ decke
 decked
 deckedout
 dauberies
-dobbed
 deckel
 dedan
 deckels
@@ -10151,6 +10150,7 @@ dingman
 dingmaul
 dinamode
 dingo
+dobbed
 dings
 dingus
 dinic
