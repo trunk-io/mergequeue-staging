@@ -5988,7 +5988,6 @@ groundbreaker
 glottalized
 gestures
 glottalizing
-glottic
 gomphocarpus
 geography
 glottid
@@ -9275,6 +9274,7 @@ galipot
 graille
 gonagia
 groomishly
+glottic
 groomlet
 garran
 geomys
