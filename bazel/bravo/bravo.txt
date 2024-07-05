@@ -2186,7 +2186,6 @@ bivinyl
 bannerets
 backachy
 bannerette
-bannerless
 bannerlike
 bannerman
 bannerole
@@ -17228,6 +17227,7 @@ bawdries
 bumbleberry
 bumblebomb
 bumbled
+bannerless
 bumbledom
 biorhythmic
 bumblekite
