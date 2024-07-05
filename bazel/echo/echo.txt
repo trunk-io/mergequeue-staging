@@ -5426,7 +5426,6 @@ endothelioma
 endotheliomas
 epitheton
 endotheliomyoma
-endotheliotoxin
 endotheliulia
 endotheloid
 endotherm
@@ -12591,6 +12590,7 @@ exinanite
 exinanition
 exindusiate
 earthquake
+endotheliotoxin
 exine
 epidermical
 estragon
