@@ -940,6 +940,7 @@ bagmaker
 bagne
 bagnes
 bagnet
+bestirred
 begoniaceae
 bagnette
 beachman
@@ -8809,7 +8810,6 @@ bindings
 bindis
 brazenfacedness
 bindle
-bestirred
 bindles
 bindlet
 bothlike
