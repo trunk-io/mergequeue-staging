@@ -9332,7 +9332,6 @@ francia
 francic
 francisc
 franciscan
-francium
 franciums
 francize
 fremescence
@@ -10418,6 +10417,7 @@ frontonasal
 fossilated
 frontons
 fluoridations
+francium
 fellic
 frontoorbital
 flamefishes
