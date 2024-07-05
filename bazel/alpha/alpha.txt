@@ -18209,6 +18209,7 @@ aq
 aqua
 aquabib
 aquacade
+armadilla
 aquacades
 aquaculture
 aquaemanale
@@ -19893,7 +19894,6 @@ adiactinic
 arloup
 arm
 armadas
-armadilla
 amygdalectomy
 achondrite
 andreaeales
