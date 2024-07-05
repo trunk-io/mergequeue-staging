@@ -4824,7 +4824,6 @@ encolumn
 encolure
 encomendero
 encomy
-encomia
 encomiast
 encomiastic
 encomiastical
@@ -6486,6 +6485,7 @@ ensues
 ensuing
 electrochemically
 emarcid
+encomia
 englishman
 ensuingly
 estheriidae
