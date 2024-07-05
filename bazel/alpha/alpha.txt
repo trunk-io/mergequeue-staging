@@ -1382,7 +1382,6 @@ acappella
 acapsular
 acarari
 acardiac
-acardite
 acari
 acarian
 acariasis
@@ -24308,6 +24307,7 @@ autoplastic
 autoplastically
 atonies
 admensuration
+acardite
 autopneumatic
 autopoisonous
 autopolar
