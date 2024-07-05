@@ -2654,7 +2654,6 @@ canoeing
 canoeiro
 cointers
 canoeist
-canoeists
 canoeload
 curlier
 canoeman
@@ -21002,6 +21001,7 @@ compromissary
 cremone
 compromission
 compromit
+canoeists
 compromitment
 compromitted
 composting
