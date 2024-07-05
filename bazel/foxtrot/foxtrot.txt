@@ -3514,7 +3514,6 @@ filer
 filers
 filesave
 filemaker
-foliature
 filespec
 fibro
 fossores
@@ -6495,6 +6494,7 @@ flusterated
 futtocks
 flusterating
 flustered
+foliature
 flusterer
 flustery
 floodlighting
