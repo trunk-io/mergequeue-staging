@@ -1432,7 +1432,6 @@ dazedness
 dazement
 dazes
 dazy
-dazing
 dazzle
 dazzler
 dazzlers
@@ -16159,6 +16158,7 @@ dovecotes
 disarrest
 dramaticule
 dovecots
+dazing
 doveflower
 dovefoot
 decadarch
