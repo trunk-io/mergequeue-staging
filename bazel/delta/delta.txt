@@ -2302,6 +2302,7 @@ dechemicalize
 dechlog
 dechlore
 dechloridation
+descent
 dechloridize
 duscle
 dechloridized
@@ -6477,7 +6478,6 @@ descensionist
 descensive
 descensory
 descensories
-descent
 demarcator
 deschampsia
 deschool
