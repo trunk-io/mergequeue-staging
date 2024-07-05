@@ -3549,6 +3549,7 @@ electrorefine
 embolectomy
 embolectomies
 emboli
+epepophysis
 embolic
 emboliform
 engraphy
@@ -10996,7 +10997,6 @@ euonymous
 euornithes
 exsuperate
 euripos
-epepophysis
 effectuates
 etymologizing
 eupad
