@@ -2698,7 +2698,6 @@ festivally
 flidder
 foredoomed
 festivals
-fwd
 festively
 festiveness
 festivity
@@ -3788,6 +3787,7 @@ finale
 finales
 finalis
 footlessly
+fwd
 finalist
 finality
 fundament
