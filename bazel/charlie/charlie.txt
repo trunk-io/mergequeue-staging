@@ -27533,6 +27533,7 @@ coverages
 coverall
 coveralled
 coveralls
+crookheaded
 coverchief
 cardings
 cerberean
@@ -29754,7 +29755,6 @@ crookeries
 crookesite
 crookfingered
 constellatory
-crookheaded
 crooking
 corroboration
 concatervate
