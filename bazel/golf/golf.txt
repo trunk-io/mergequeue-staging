@@ -4282,6 +4282,7 @@ gymnocidium
 gershom
 gymnoderinae
 gymnodiniaceae
+guttera
 gymnodinium
 gymnodontes
 goatling
@@ -10746,7 +10747,6 @@ guttate
 guttated
 gutte
 gutted
-guttera
 granulite
 ganoidean
 gutterblood
