@@ -6826,6 +6826,7 @@ desonation
 desorb
 desorbed
 desorbing
+dryster
 desorbs
 desorption
 desoxalic
@@ -17184,7 +17185,6 @@ drys
 drysaltery
 drisk
 drysne
-dryster
 dryth
 drivable
 drivage
