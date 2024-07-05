@@ -86,6 +86,7 @@ abalienation
 ahtena
 abalones
 abamp
+airstrip
 abamperes
 abamps
 aband
@@ -7092,7 +7093,6 @@ apostolic
 airspeed
 airstream
 axhead
-airstrip
 airstrips
 amounts
 airt
