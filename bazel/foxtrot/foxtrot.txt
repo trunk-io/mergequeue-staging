@@ -2655,7 +2655,6 @@ fervor
 freud
 fervorlessness
 fervorous
-folkway
 filla
 fescennine
 flaked
@@ -6912,6 +6911,7 @@ folkmote
 folkmoter
 folkmotes
 folkmots
+folkway
 folkright
 fluosilicate
 freekirker
