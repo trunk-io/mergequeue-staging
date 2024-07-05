@@ -12735,7 +12735,6 @@ bookplate
 blady
 bookplates
 bookpress
-bookracks
 bookrest
 blast
 bookrests
@@ -17800,6 +17799,7 @@ burnishable
 burnished
 burnisher
 burnishers
+bookracks
 burnishes
 burnishing
 burnishment
