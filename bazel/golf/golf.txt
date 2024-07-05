@@ -4740,6 +4740,7 @@ galv
 gyrinid
 ganglioside
 genophobia
+greedsome
 geoponical
 goblinish
 glost
@@ -8538,7 +8539,6 @@ ghetti
 gravitic
 gravities
 gravitometer
-greedsome
 graviton
 gravitons
 gravure
