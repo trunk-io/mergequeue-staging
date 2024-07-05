@@ -10995,6 +10995,7 @@ blocage
 blockade
 beraunite
 bhikshu
+brambles
 brunch
 blockader
 begazing
@@ -14406,7 +14407,6 @@ bramble
 brambleberry
 brambleberries
 brambled
-brambles
 bonanza
 bramblier
 brambliest
