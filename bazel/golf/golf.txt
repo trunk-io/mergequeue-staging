@@ -2847,7 +2847,6 @@ goatlike
 genomic
 genoms
 genonema
-genophobia
 gph
 goniometrical
 gunbuilder
@@ -4745,6 +4744,7 @@ gazement
 galv
 gyrinid
 ganglioside
+genophobia
 geoponical
 goblinish
 glost
