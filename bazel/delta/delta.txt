@@ -1754,7 +1754,6 @@ debarment
 debarrance
 debarration
 debarred
-debars
 debased
 dramatiser
 debasedness
@@ -6831,6 +6830,7 @@ desorbs
 desorption
 desoxalic
 desoxyanisoin
+debars
 desoxybenzoin
 desoxycinchonine
 dhoolies
