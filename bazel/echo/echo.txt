@@ -5038,6 +5038,7 @@ endemism
 endemisms
 endenization
 endenize
+endostylar
 endenizen
 eviscerate
 ender
@@ -5383,7 +5384,6 @@ estrangement
 endosteitis
 endosteomas
 endosteum
-endostylar
 emarginula
 ewing
 endostyle
