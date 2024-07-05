@@ -3327,6 +3327,7 @@ capsid
 capsidae
 capsids
 capsizable
+collatress
 capsizal
 capsize
 capsizes
@@ -18978,7 +18979,6 @@ collative
 curatial
 collator
 collators
-collatress
 collaud
 collaudation
 colleague
