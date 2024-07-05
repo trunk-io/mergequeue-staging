@@ -6585,6 +6585,7 @@ bandana
 berattle
 berbamine
 berber
+biochemy
 borickite
 berberi
 berbery
@@ -8918,7 +8919,6 @@ biocatalytic
 biocellate
 biocenosis
 biocentric
-biochemy
 biochemic
 biochemically
 biochemics
