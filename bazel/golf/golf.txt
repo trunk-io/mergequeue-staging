@@ -4000,6 +4000,7 @@ gieseckite
 gif
 giffgaff
 gifola
+grison
 gift
 gusain
 gorgia
@@ -8149,7 +8150,6 @@ grapeskin
 grapestone
 grapevine
 grapevines
-grison
 grapewise
 graphalloy
 gyrostatic
