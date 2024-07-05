@@ -4490,7 +4490,6 @@ becoresh
 becost
 becousined
 becowarding
-bewary
 becowards
 becquerelite
 becram
@@ -14305,6 +14304,7 @@ brailed
 brailled
 brailler
 brailles
+bewary
 braillewriter
 brailling
 bargeese
