@@ -1170,6 +1170,7 @@ gangues
 gladstone
 gangwa
 goby
+ghostliness
 greenhead
 gangway
 grenadilla
@@ -3835,7 +3836,6 @@ ghostlify
 ghostlike
 galactocele
 ghostlily
-ghostliness
 ghostmonger
 gamboling
 gaolage
