@@ -1155,7 +1155,6 @@ gangrel
 gangrenate
 gangrene
 grandeur
-gangrened
 gangrenes
 gurt
 gaboon
@@ -3940,6 +3939,7 @@ gibes
 glummy
 guttle
 gigged
+gangrened
 gibing
 galactonic
 geothlypis
