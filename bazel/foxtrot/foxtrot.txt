@@ -1439,7 +1439,6 @@ furbishing
 fatness
 ferie
 fatnesses
-furcular
 fats
 fatsia
 fatalize
@@ -4013,6 +4012,7 @@ finnochio
 finns
 fino
 finochio
+furcular
 finochios
 fins
 fregatidae
