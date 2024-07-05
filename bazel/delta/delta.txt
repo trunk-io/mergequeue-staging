@@ -4769,7 +4769,6 @@ demolished
 demolishes
 demolishing
 demolishment
-demolition
 demolitionary
 demolitionist
 demolitions
@@ -7403,6 +7402,7 @@ doggier
 deuced
 diocletian
 deuces
+demolition
 deucing
 deul
 deunam
