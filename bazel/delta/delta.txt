@@ -600,7 +600,6 @@ demophobe
 damaskeening
 damaskin
 damaskine
-damasks
 damasse
 dolcinist
 damassin
@@ -5732,6 +5731,7 @@ darksome
 depolarising
 depolarization
 desulphurizer
+damasks
 depolarize
 depolarized
 depolarizers
