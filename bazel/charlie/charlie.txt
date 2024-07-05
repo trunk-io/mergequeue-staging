@@ -2184,6 +2184,7 @@ canal
 canalage
 canalatura
 canalboat
+commissionership
 canale
 canaler
 canales
@@ -20196,7 +20197,6 @@ commissioned
 commissioner
 craftly
 commissioners
-commissionership
 commissionerships
 commissioning
 commissions
