@@ -3378,6 +3378,7 @@ fight
 fighter
 fighteress
 frontomalar
+founds
 fighters
 forcibleness
 fightings
@@ -8916,7 +8917,6 @@ feluccas
 fossicker
 foundationary
 forgeman
-founds
 foundationer
 fussiest
 forestcraft
