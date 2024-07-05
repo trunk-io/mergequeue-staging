@@ -8286,6 +8286,7 @@ fileable
 fusty
 frey
 foiler
+fumeroot
 fork
 forkable
 forked
@@ -11010,7 +11011,6 @@ fumelike
 fonts
 fusillades
 fumerel
-fumeroot
 fumers
 fritts
 fumet
