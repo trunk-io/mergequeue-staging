@@ -6731,7 +6731,6 @@ acetolysis
 aholds
 aholt
 ahom
-ahong
 ahorse
 ahrendahronon
 ahriman
@@ -15788,6 +15787,7 @@ antinepotic
 apocryphon
 antineuralgic
 antineuritic
+ahong
 aburabozu
 antineurotoxin
 antineutral

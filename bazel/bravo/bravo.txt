@@ -1235,6 +1235,7 @@ belauder
 bakers
 baggit
 beslaver
+brawly
 bakership
 bakeshop
 bakeshops
@@ -14692,7 +14693,6 @@ butcher
 brawler
 beveller
 biomicroscopies
-brawly
 bedown
 brawlier
 brawliest
