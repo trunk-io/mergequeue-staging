@@ -9960,6 +9960,7 @@ chemosynthesis
 compatibility
 chevy
 chemosynthetic
+chromatoptometer
 chemosynthetically
 chemosis
 cheepiest
@@ -12471,7 +12472,6 @@ cyanohermidin
 cnidophobia
 chromatoplasm
 chromatopsia
-chromatoptometer
 ccesser
 chromatoptometry
 chromatoscope
