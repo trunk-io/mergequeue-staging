@@ -5096,7 +5096,6 @@ beflagged
 burkers
 benumbedness
 beflagging
-beflags
 beflannel
 beflea
 befleaing
@@ -9675,6 +9674,7 @@ bish
 bishareen
 bishari
 bisharin
+beflags
 bishydroxycoumarin
 bishop
 bishopbird
