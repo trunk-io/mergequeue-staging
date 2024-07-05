@@ -1035,7 +1035,6 @@ absolve
 absolved
 absolvent
 alaite
-absolver
 almsgiving
 absolvers
 absolving
@@ -3966,6 +3965,7 @@ adipate
 acetyl
 adipescent
 adiphenine
+absolver
 adipic
 adipocele
 adipocellulose
