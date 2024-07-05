@@ -685,6 +685,7 @@ bacterioagglutinin
 botchier
 bacterioblast
 bacteriochlorophyll
+brachistocephalic
 bacteriocidal
 bacteriocyte
 bacteriofluorescin
@@ -14059,7 +14060,6 @@ brachysm
 brachystegia
 brachistocephali
 brachistocephaly
-brachistocephalic
 brachistochrone
 brachistochronous
 brachystomata
