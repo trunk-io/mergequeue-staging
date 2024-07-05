@@ -8149,7 +8149,6 @@ foreworn
 forewritten
 filigrained
 forewrought
-forecloses
 forfairn
 forfalt
 fielding
@@ -8413,6 +8412,7 @@ formfeed
 formfitting
 farenheit
 formful
+forecloses
 formy
 formiate
 feoffers
