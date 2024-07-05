@@ -1539,7 +1539,6 @@ fragmentized
 fessewise
 faunistical
 faunlike
-fauns
 fauntleroy
 faunula
 forst
@@ -2320,6 +2319,7 @@ feodatory
 feodum
 feoff
 forsakenness
+fauns
 feoffee
 fruiterers
 feoffees
