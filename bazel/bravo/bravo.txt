@@ -8773,7 +8773,6 @@ barycentre
 bimuscular
 bin
 bearskins
-binal
 binaphthyl
 binapthyl
 bombshells
@@ -17421,6 +17420,7 @@ bunker
 bunkerage
 bunkered
 basidiospore
+binal
 bunkery
 blackouts
 bunkerman
