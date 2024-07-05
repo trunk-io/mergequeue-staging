@@ -4037,7 +4037,6 @@ eskers
 ebonized
 enciente
 emotion
-emotional
 encheson
 emotionalise
 epanalepsis
@@ -13325,6 +13324,7 @@ expostulation
 expostulations
 extemporizing
 expostulator
+emotional
 expostulatory
 erythroderma
 epanaphoral
