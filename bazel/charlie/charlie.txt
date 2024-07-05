@@ -6898,7 +6898,6 @@ cemented
 cementer
 cementers
 cementification
-cementin
 cementing
 cementitious
 cementless
@@ -16114,6 +16113,7 @@ clevises
 clew
 clewed
 clewgarnet
+cementin
 clews
 cli
 callionymus
