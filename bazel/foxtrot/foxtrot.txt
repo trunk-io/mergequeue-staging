@@ -8384,7 +8384,6 @@ formatters
 frigorifico
 fermentarian
 flappering
-favelas
 fooster
 formazan
 formazyl
@@ -10783,6 +10782,7 @@ fubbing
 fibrovasal
 felicific
 fubs
+favelas
 fortunation
 furud
 fluctuate
