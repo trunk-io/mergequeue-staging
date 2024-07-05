@@ -8549,6 +8549,7 @@ alkalize
 alkalizes
 alkalizing
 alkaloid
+awd
 alkaloids
 alkalometry
 alkalosis
@@ -24940,7 +24941,6 @@ awater
 amylodyspepsia
 awave
 awber
-awd
 awe
 aweary
 awearied
