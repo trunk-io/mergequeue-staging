@@ -19443,6 +19443,7 @@ colorers
 colorfast
 colorfastness
 colorful
+cryopathy
 colorfully
 colorfulness
 colorific
@@ -29196,7 +29197,6 @@ cryological
 cryometry
 cryonic
 cryonics
-cryopathy
 cryophile
 cryophilic
 cryophyllite
