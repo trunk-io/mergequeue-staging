@@ -4964,7 +4964,6 @@ aether
 aerials
 aeric
 antedon
-aerical
 aerides
 aerie
 armours
@@ -12142,6 +12141,7 @@ anatabine
 anatase
 anatases
 aration
+aerical
 anatexis
 anathem
 anathema
