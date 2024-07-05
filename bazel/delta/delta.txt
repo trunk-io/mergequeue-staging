@@ -1891,6 +1891,7 @@ debtful
 debtless
 diegueno
 debtors
+diathesis
 debtorship
 debts
 debuggers
@@ -8663,7 +8664,6 @@ diathermotherapy
 diathermous
 duenas
 diatheses
-diathesis
 diapered
 diathetic
 diatom
