@@ -1600,6 +1600,7 @@ favn
 filaments
 forcedness
 flatfishes
+frabous
 forestays
 fulmine
 favonius
@@ -9207,7 +9208,6 @@ fractostratus
 fractuosity
 fractur
 fracturable
-frabous
 fractural
 fractured
 fractures

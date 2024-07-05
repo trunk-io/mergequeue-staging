@@ -21935,7 +21935,6 @@ confessable
 confessant
 confessary
 confessarius
-confessed
 confessedly
 cornballs
 confesser
@@ -24726,6 +24725,7 @@ copra
 copraemia
 copraemic
 coprah
+confessed
 coprahs
 copras
 caneva
