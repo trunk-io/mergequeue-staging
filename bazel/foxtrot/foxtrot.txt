@@ -3712,6 +3712,7 @@ foreview
 flourisher
 filosus
 fils
+fletching
 flakelet
 farmy
 figurings
@@ -11256,7 +11257,6 @@ fleerish
 familiarisation
 funks
 forbid
-fletching
 foretrysail
 funli
 funmaker
