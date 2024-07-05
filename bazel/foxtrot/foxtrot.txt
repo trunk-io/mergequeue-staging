@@ -126,7 +126,6 @@ faconne
 fluorane
 facsimile
 featherman
-facsimileing
 facsimiles
 faitor
 forehooves
@@ -3060,6 +3059,7 @@ fibromucous
 fibromuscular
 fibronuclear
 fibronucleated
+facsimileing
 fibropapilloma
 fibropericarditis
 fibroplasia
