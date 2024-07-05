@@ -8241,6 +8241,7 @@ chaired
 chairer
 chairing
 chairlady
+cometarium
 chairladies
 collectivum
 chairless
@@ -19869,7 +19870,6 @@ comestion
 comet
 cometary
 cometaria
-cometarium
 cometh
 comether
 cotemporary
