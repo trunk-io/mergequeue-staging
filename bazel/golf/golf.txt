@@ -2012,7 +2012,6 @@ gauntlets
 gauntness
 gauntry
 gaur
-gryphaea
 gaurian
 gunbright
 gauric
@@ -4662,6 +4661,7 @@ gelasimus
 gypsywise
 gipsywort
 gypsography
+gryphaea
 gipsology
 gypsology
 grossing
