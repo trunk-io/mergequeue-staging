@@ -4528,7 +4528,6 @@ demigardebras
 demigauntlet
 demigentleman
 demiglace
-demigods
 demigorge
 diagnoses
 demigriffin
@@ -8848,6 +8847,7 @@ duckmole
 draftier
 dicentrine
 dogmaticalness
+demigods
 dobule
 ductal
 dicephalism
