@@ -1088,7 +1088,6 @@ fisc
 farmplace
 finials
 farmstead
-farmsteads
 fascine
 farmtown
 farnesol
@@ -11178,6 +11177,7 @@ funerealness
 funfair
 fungaceous
 fungal
+farmsteads
 fungales
 fungals
 fungation
