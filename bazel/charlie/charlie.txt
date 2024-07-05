@@ -4048,6 +4048,7 @@ cardiopericarditis
 cardiophobe
 cardiophrenia
 cardiopyloric
+confusedness
 cardioplegia
 cardiopneumatic
 cardiopneumograph
@@ -22190,7 +22191,6 @@ confusably
 confuse
 confused
 confusedly
-confusedness
 confuser
 confuses
 confusing
