@@ -5119,7 +5119,6 @@ entities
 endocellular
 exposition
 enshrine
-edacious
 endoceras
 endoceratidae
 endoceratite
@@ -9817,6 +9816,7 @@ excusive
 endognathal
 espinillo
 espino
+edacious
 espinos
 exhaustingly
 exodos

@@ -1190,6 +1190,7 @@ abundancy
 abundant
 abundantia
 abundantly
+abate
 abune
 actine
 abura
@@ -21079,7 +21080,6 @@ ascribes
 ascribing
 ascript
 ascription
-abate
 ascriptions
 ascriptitious
 amgarn
