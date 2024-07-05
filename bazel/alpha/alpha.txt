@@ -1341,7 +1341,6 @@ acct
 acanthodes
 acanthodian
 acanthodidae
-acanthodii
 acanthodini
 acanthoid
 acantholimon
@@ -18504,6 +18503,7 @@ araneologist
 araneous
 aranga
 arango
+acanthodii
 arangoes
 aranyaka
 arank
