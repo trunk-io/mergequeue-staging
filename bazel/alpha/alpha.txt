@@ -15296,7 +15296,6 @@ antiejaculation
 acoelomata
 antielectron
 antielectrons
-antiemetic
 antiemperor
 antiempiric
 antiempirically
@@ -22509,6 +22508,7 @@ atelomyelia
 anisospore
 anticrotalic
 atelomitic
+antiemetic
 atelophobia
 atelopodia
 ateloprosopia
