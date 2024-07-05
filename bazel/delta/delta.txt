@@ -3048,6 +3048,7 @@ deermeat
 daker
 deerskin
 deerstalker
+disavail
 deerstalkers
 deerstalking
 deerstand
@@ -11144,7 +11145,6 @@ disauthentic
 disauthenticate
 disauthorize
 dysautonomia
-disavail
 do
 disavouch
 disavowable
