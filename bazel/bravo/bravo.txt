@@ -3508,7 +3508,6 @@ bastonet
 bastonite
 basts
 basurale
-basuto
 bat
 bataan
 batable
@@ -7546,6 +7545,7 @@ bemixed
 bewash
 bewaste
 bewater
+basuto
 beweary
 bewearying
 beweep
