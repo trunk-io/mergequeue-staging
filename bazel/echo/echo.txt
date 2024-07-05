@@ -7856,7 +7856,6 @@ epigyne
 emeraldine
 epigyny
 epigynies
-epigynum
 endosteomata
 epiglot
 eugenicists
@@ -14106,6 +14105,7 @@ excussion
 extrude
 extruded
 extruder
+epigynum
 entrails
 extruders
 extrudes
