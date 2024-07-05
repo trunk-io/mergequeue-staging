@@ -8066,7 +8066,6 @@ bicolor
 bicolorous
 bicolors
 bicolour
-bicolourous
 bicolours
 bicompact
 biconcave
@@ -9169,6 +9168,7 @@ biosynthetically
 bacteriological
 biosis
 biosystematy
+bicolourous
 benumbment
 biosystematic
 biosystematics
