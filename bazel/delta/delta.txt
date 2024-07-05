@@ -2074,7 +2074,6 @@ decapodan
 decapodiform
 downpours
 decapods
-decapsulate
 dangleberries
 decarbonated
 decarbonating
@@ -6312,6 +6311,7 @@ dermol
 dermomycosis
 dermomuscular
 dermoneural
+decapsulate
 drassid
 dermonosology
 dermoosseous
