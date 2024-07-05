@@ -8804,7 +8804,6 @@ charlie
 chapapote
 cottagey
 chaparajos
-carcinomatous
 chaparejos
 chaparral
 chaparrals
@@ -28972,6 +28971,7 @@ cricetid
 cricetidae
 cricetids
 cricetus
+carcinomatous
 crick
 cricke
 cricked

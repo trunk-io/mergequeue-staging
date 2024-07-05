@@ -3113,6 +3113,7 @@ defamed
 doweries
 defamer
 defamers
+dialypetalae
 defames
 defamy
 defaming
@@ -8304,7 +8305,6 @@ deadpanner
 dialings
 dorking
 dorbie
-dialypetalae
 dialypetalous
 dogtooth
 dialyphyllous
