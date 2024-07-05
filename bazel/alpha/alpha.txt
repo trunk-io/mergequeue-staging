@@ -8253,6 +8253,7 @@ algores
 acknowledgement
 algorism
 algorisms
+antisymmetrical
 algorist
 algoristic
 algorithm
@@ -16291,7 +16292,6 @@ antisideric
 antisilverite
 anthol
 antisymmetry
-antisymmetrical
 antisimoniacal
 antisyndicalism
 asked

@@ -2171,6 +2171,7 @@ deathblow
 dona
 decede
 desugared
+detribalizing
 decedent
 decedents
 deuteroelastose
@@ -7364,7 +7365,6 @@ detribalization
 detribalize
 detribalized
 distributedly
-detribalizing
 detriment
 dibranch
 detrimentally
