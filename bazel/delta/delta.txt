@@ -2102,7 +2102,6 @@ decarburisation
 decarburise
 dialyzation
 decarburised
-decarburising
 decarburize
 decarburized
 decarburizing
@@ -5237,6 +5236,7 @@ densifier
 densifies
 densifying
 densimeter
+decarburising
 densimetry
 defilade
 disclaims
