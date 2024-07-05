@@ -7240,7 +7240,6 @@ determinator
 determined
 daresay
 drearly
-determinedness
 determiner
 determining
 determinism
@@ -10142,6 +10141,7 @@ dinglebird
 dingled
 deprecator
 dingledangle
+determinedness
 doff
 dingles
 dingly
