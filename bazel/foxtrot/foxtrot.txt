@@ -8460,6 +8460,7 @@ feedable
 formylated
 formylating
 formin
+freeholds
 forminate
 fixtures
 forming
@@ -9629,7 +9630,6 @@ freeholder
 freeholders
 freeholdership
 freeholding
-freeholds
 fosters
 freeing
 flashiest
