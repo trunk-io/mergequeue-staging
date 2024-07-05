@@ -5771,6 +5771,7 @@ depopulates
 depopulation
 decolours
 drepane
+discomforted
 deliberator
 depopulations
 depopulative
@@ -11483,7 +11484,6 @@ discomfiting
 discomfiture
 discomfort
 discomfortable
-discomforted
 disload
 discomforter
 discomfortingly
