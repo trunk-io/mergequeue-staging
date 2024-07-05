@@ -13302,7 +13302,6 @@ beveling
 brender
 botherheaded
 boxfishes
-bothering
 bothers
 bothersome
 bothersomely
@@ -15913,6 +15912,7 @@ bronchoconstriction
 bronchoconstrictor
 bronchodilatation
 bronchoegophony
+bothering
 bronchoesophagoscopy
 bronchogenic
 baghouse
