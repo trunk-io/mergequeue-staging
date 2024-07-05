@@ -544,7 +544,6 @@ gizzards
 gardenias
 grallae
 gallbush
-groomed
 galleasses
 gastness
 galled
@@ -10193,6 +10192,7 @@ guildite
 guildship
 guileful
 gamogenesis
+groomed
 grouters
 gaeldom
 guilelessly
