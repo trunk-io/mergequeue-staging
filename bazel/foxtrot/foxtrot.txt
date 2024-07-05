@@ -1498,7 +1498,6 @@ fluters
 filch
 fauconnier
 faujasite
-faulds
 faultage
 faulted
 filix
@@ -8909,6 +8908,7 @@ foulsome
 foumart
 foun
 frond
+faulds
 floury
 fertilizations
 fibrolitic
