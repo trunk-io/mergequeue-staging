@@ -681,7 +681,6 @@ flavoring
 familiars
 fausen
 families
-familyish
 familism
 familist
 familistere
@@ -9745,6 +9744,7 @@ freightment
 flocculent
 foreorlop
 freights
+familyish
 freinage
 forehandsel
 freir
