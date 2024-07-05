@@ -5883,7 +5883,6 @@ cathartidae
 cathartides
 cathartin
 cathartolinum
-cathead
 cathect
 cathected
 cathectic
@@ -28585,6 +28584,7 @@ creeker
 creekfish
 cricketing
 creekfishes
+cathead
 creeky
 creeks
 creekside
