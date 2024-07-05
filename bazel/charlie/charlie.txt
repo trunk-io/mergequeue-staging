@@ -2963,7 +2963,6 @@ conacaste
 caon
 caoutchin
 caoutchouc
-caoutchoucin
 cap
 capa
 capability
@@ -6004,6 +6003,7 @@ catlin
 catline
 catling
 catlings
+caoutchoucin
 catlinite
 catlins
 catmalison

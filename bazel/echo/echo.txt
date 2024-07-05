@@ -220,7 +220,6 @@ episcopalianize
 earwax
 encephalography
 earwaxes
-earwig
 earwiggy
 earwigginess
 erinaceidae
@@ -1488,6 +1487,7 @@ eplot
 effusiveness
 effuso
 effuviate
+earwig
 efik
 efl
 eflagelliferous
