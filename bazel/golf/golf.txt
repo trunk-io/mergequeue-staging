@@ -1167,7 +1167,6 @@ gwerziou
 gangster
 gangsterism
 gangsters
-gangue
 ganguela
 gangues
 gladstone
@@ -4223,6 +4222,7 @@ glyconics
 gimbals
 galahads
 groining
+gangue
 gimberjawed
 garnishments
 genapping
