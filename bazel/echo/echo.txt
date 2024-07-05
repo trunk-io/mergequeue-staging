@@ -10530,7 +10530,6 @@ ecdyson
 ethnographical
 ethnographically
 ethnohistory
-ethnohistoric
 ethnohistorically
 expropriatory
 entwisted
@@ -11592,6 +11591,7 @@ evictee
 evictees
 eviction
 evictions
+ethnohistoric
 evictor
 evicts
 evidences

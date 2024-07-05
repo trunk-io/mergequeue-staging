@@ -8062,7 +8062,6 @@ alexanders
 alexandra
 alexandreid
 alexandria
-alexandrianism
 alexandrine
 alexandrines
 alexia
@@ -19785,6 +19784,7 @@ aristocracies
 aristocrat
 anhydremia
 aristocratic
+alexandrianism
 archives
 aristocratically
 amphophilous
