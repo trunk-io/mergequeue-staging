@@ -3894,6 +3894,7 @@ fallers
 fingerlet
 florescence
 fingerling
+formatters
 fuliguline
 factorization
 fingerlings
@@ -8377,7 +8378,6 @@ flingdust
 formats
 fogbows
 formatter
-formatters
 frigorifico
 fermentarian
 flappering
