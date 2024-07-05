@@ -5248,6 +5248,7 @@ fleckered
 fleckering
 flecky
 facsim
+floaty
 floriferousness
 fluocerine
 falangist
@@ -5760,7 +5761,6 @@ flashtester
 floated
 floater
 floaters
-floaty
 felines
 floatier
 fitter
