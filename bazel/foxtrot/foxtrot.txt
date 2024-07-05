@@ -7321,7 +7321,6 @@ floorshifts
 fruitarianism
 forbecause
 fourteens
-forbesite
 footbaths
 foreplot
 fruitful
@@ -8599,6 +8598,7 @@ forsloth
 forslow
 forsooth
 forspeak
+forbesite
 forspend
 forspent
 farstepped
