@@ -2190,6 +2190,7 @@ geometric
 gnomons
 gravigrade
 gazy
+gutterwise
 gear
 gambodic
 gearcase
@@ -10760,7 +10761,6 @@ gutterman
 gutters
 guttersnipe
 gutterspout
-gutterwise
 gutti
 guideline
 gutty
