@@ -7971,7 +7971,6 @@ dhanvantari
 demigod
 dharani
 dharma
-dharmas
 dharmashastra
 dharmasutra
 dithionous
@@ -12516,6 +12515,7 @@ disinter
 disinterest
 disinterested
 disinterestedness
+dharmas
 disintermediation
 disrobe
 disinterment
