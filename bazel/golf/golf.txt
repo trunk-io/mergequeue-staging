@@ -5054,7 +5054,6 @@ gladify
 gladii
 gladiola
 gramenite
-gladiolas
 gladiole
 gladioli
 galvanized
@@ -8564,6 +8563,7 @@ greably
 gorgonlike
 gorkhali
 greaselessness
+gladiolas
 groaners
 greasepaint
 greasers
