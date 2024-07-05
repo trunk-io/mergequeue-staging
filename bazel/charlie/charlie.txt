@@ -3364,7 +3364,6 @@ capsulorrhaphy
 capsulotomy
 capsumin
 captacula
-captaculum
 captain
 cornuses
 captaincy
@@ -17172,6 +17171,7 @@ coagulability
 coagulant
 coagulants
 coagulate
+captaculum
 coagulated
 coagulating
 coagulation
