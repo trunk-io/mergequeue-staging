@@ -9643,7 +9643,6 @@ engrid
 esculent
 esculents
 esculetin
-epidiascope
 extremital
 escutcheoned
 escutcheons
@@ -13104,6 +13103,7 @@ equilibrial
 enwinding
 expeditiousness
 expertly
+epidiascope
 equiaxed
 electrooptics
 enfeature
