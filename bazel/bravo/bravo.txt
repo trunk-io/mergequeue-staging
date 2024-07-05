@@ -754,7 +754,6 @@ balsamize
 bactriticone
 blup
 bacula
-bassia
 baculi
 baculine
 backhoes
@@ -5372,6 +5371,7 @@ behatted
 besauce
 behaved
 behaver
+bassia
 behaving
 brachioradial
 behavior
