@@ -141,7 +141,6 @@ gaed
 gaedelian
 gael
 gaelic
-ghostlikeness
 gleemaiden
 grampus
 gaelicist
@@ -10656,6 +10655,7 @@ gushes
 gyrons
 gur
 gnostic
+ghostlikeness
 gregarinosis
 gushiness
 geomorphologically

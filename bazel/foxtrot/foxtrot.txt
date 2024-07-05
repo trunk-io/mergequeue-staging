@@ -1587,7 +1587,6 @@ fargoing
 faveoluli
 faveolus
 festinance
-faverole
 faviform
 flamandize
 foretopman
@@ -8201,6 +8200,7 @@ forge
 forinsec
 forgeability
 forgeable
+faverole
 forged
 forgeful
 forger
