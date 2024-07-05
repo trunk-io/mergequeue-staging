@@ -2587,7 +2587,6 @@ ferrugo
 fordo
 futilize
 ferruled
-ferruler
 ferrules
 ferrum
 ferruminate
@@ -10086,6 +10085,7 @@ ferngrower
 federalised
 frilly
 flavored
+ferruler
 frilliest
 fibromyxoma
 frillily

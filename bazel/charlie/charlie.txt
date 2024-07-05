@@ -845,6 +845,7 @@ cakewalking
 carnotite
 cakewalks
 caky
+chantment
 cakier
 cakiest
 cakile
@@ -11876,7 +11877,6 @@ chophouses
 chopin
 cereus
 chopine
-chantment
 chopins
 choplogic
 choplogical
