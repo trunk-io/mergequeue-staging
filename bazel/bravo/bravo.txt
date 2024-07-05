@@ -2210,6 +2210,7 @@ banovina
 banque
 becard
 banquet
+basenet
 banqueted
 banqueter
 banqueting
@@ -15623,7 +15624,6 @@ barrelfish
 ballyrags
 bluesman
 broadswords
-basenet
 boolies
 broadway
 brute
