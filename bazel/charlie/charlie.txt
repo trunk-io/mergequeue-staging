@@ -2250,7 +2250,6 @@ cancel
 cancelability
 cancelable
 cancelation
-canceleer
 canceler
 copperization
 cancelers
@@ -15349,6 +15348,7 @@ claystone
 claithes
 clayton
 claytonia
+canceleer
 capsidal
 contortedness
 claiver
