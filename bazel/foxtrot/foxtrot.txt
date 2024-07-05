@@ -6723,7 +6723,6 @@ fibrine
 foggier
 flitters
 foggiest
-fogging
 foggish
 foghorn
 freewheel
@@ -11482,6 +11481,7 @@ foldstool
 furriness
 furrings
 feudist
+fogging
 furrow
 furrowed
 furrower
