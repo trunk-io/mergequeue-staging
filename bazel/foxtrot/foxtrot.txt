@@ -4779,7 +4779,6 @@ flakeless
 flaky
 fractionated
 flakiest
-favouredness
 flakiness
 flaking
 firefighter
@@ -5075,6 +5074,7 @@ flatteries
 farrago
 flatters
 flattest
+favouredness
 flattie
 flatting
 flatulences
