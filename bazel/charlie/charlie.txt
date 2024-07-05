@@ -5160,6 +5160,7 @@ caspar
 calantas
 caspian
 casque
+condylura
 casqued
 clanger
 casques
@@ -21699,7 +21700,6 @@ condylopoda
 condylopodous
 condylos
 condylotomy
-condylura
 contraplex
 condylure
 condiment
