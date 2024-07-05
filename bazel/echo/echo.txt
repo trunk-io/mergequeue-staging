@@ -6115,7 +6115,6 @@ enmuffle
 enneacontahedron
 ennead
 enneadic
-enneads
 enneaeteric
 enneagonal
 enneagons
@@ -7933,6 +7932,7 @@ epihydrinic
 exponent
 epiky
 epikia
+enneads
 epiklesis
 eightsmen
 exclamatorily

@@ -3511,7 +3511,6 @@ defrost
 defroster
 defrosters
 defrosting
-defs
 defter
 defterdar
 dizain
@@ -8085,6 +8084,7 @@ diacaustic
 diacetamide
 diacetic
 diceplay
+defs
 diacetyl
 dichloroacetic
 dipsetic
