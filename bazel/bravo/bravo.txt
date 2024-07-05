@@ -3762,6 +3762,7 @@ batting
 battish
 battled
 backslapper
+breacher
 becursing
 battledore
 battledores
@@ -14744,7 +14745,6 @@ brazils
 brazilwood
 breach
 breached
-breacher
 breachers
 breaches
 breachful

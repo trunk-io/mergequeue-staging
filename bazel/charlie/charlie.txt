@@ -9939,7 +9939,6 @@ chemoreceptivities
 chemoreceptor
 chemoresistance
 chemosensitive
-chemosensitivity
 chemosensitivities
 chemoserotherapy
 chemoses
@@ -21295,6 +21294,7 @@ coffeebush
 concertantes
 casal
 concertanti
+chemosensitivity
 concertati
 contraposita
 callainite
