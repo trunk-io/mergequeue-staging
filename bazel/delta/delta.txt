@@ -2785,6 +2785,7 @@ decresc
 dictyota
 decrescendo
 decrescendos
+disjunct
 decrescent
 decretal
 demon
@@ -12573,7 +12574,6 @@ disjointing
 disjoints
 disjointure
 disjudication
-disjunct
 disjunctions
 disjunctive
 disjuncts
