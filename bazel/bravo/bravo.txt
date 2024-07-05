@@ -6270,6 +6270,7 @@ benshea
 benshee
 boltonia
 bensil
+boathouse
 bullrushes
 benson
 bent
@@ -11598,7 +11599,6 @@ boatfalls
 boatful
 boathead
 boathook
-boathouse
 boathouses
 boatyard
 boatyards

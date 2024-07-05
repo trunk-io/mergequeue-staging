@@ -8944,7 +8944,6 @@ gospellike
 griffon
 griffonage
 griffons
-gumphion
 gattine
 grift
 grifted
@@ -8996,6 +8995,7 @@ granulocytic
 gyromitra
 grime
 grimed
+gumphion
 greenlandman
 grimes
 grimful
