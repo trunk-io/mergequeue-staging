@@ -3138,7 +3138,6 @@ elongations
 externalist
 enplanement
 elope
-eloped
 elopement
 elopements
 eurithermophilic
@@ -4308,6 +4307,7 @@ erythric
 emulator
 embattles
 enumeration
+eloped
 edificant
 emulatory
 erasable
