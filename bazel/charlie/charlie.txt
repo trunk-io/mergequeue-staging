@@ -3459,7 +3459,6 @@ chisellike
 cara
 carabao
 cioppino
-carabaos
 carabeen
 codefendant
 carabid
@@ -12444,6 +12443,7 @@ confidentiality
 chromatography
 chiropody
 chromatographic
+carabaos
 chromatographically
 chromatoid
 chromatolysis

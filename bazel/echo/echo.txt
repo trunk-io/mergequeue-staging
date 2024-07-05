@@ -5007,7 +5007,6 @@ endball
 endboard
 endbrains
 enddamage
-enddamaged
 enddamaging
 endear
 endearance
@@ -11078,6 +11077,7 @@ encoil
 euphorbine
 euphorbium
 euphoriant
+enddamaged
 euphorias
 euphoric
 eskimauan
