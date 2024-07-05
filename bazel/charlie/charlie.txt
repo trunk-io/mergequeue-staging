@@ -11806,6 +11806,7 @@ chondromyxoma
 chondromyxosarcoma
 chondromucoid
 chondropharyngeal
+circumvolution
 chondropharyngeus
 chondrophyte
 chondrophore
@@ -14515,7 +14516,6 @@ circumvest
 chattier
 circumvoisin
 circumvolant
-circumvolution
 circumvolutory
 contextive
 circumvolve
