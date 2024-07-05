@@ -6873,6 +6873,7 @@ ailurophilic
 ailurophobe
 ailurophobia
 aracana
+apofenchene
 ailurophobic
 architis
 ailuropoda
@@ -17260,7 +17261,6 @@ apodosis
 apods
 apoembryony
 apoenzyme
-apofenchene
 apoferritin
 apogaeic
 atropa
