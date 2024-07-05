@@ -3042,7 +3042,6 @@ acropolis
 acropolises
 acropolitan
 acropora
-acropore
 acrorrheuma
 acrosarc
 addlebrain
@@ -8198,6 +8197,7 @@ algidness
 algieba
 algiers
 atame
+acropore
 algific
 algin
 alginate
