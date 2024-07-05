@@ -8987,7 +8987,6 @@ allomorphite
 allomucic
 allonge
 anglish
-allonges
 arybballi
 allonym
 allonymous
@@ -15366,6 +15365,7 @@ antifelony
 antifeminist
 antifeministic
 antiferment
+allonges
 antifermentative
 argyrythrose
 antiferroelectric

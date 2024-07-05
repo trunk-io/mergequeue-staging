@@ -3318,6 +3318,7 @@ basilics
 basilidan
 basilidian
 brevicauda
+bedsore
 basilinna
 basiliscine
 basiliscus
@@ -11958,7 +11959,6 @@ bohawn
 bohea
 boheas
 bohemia
-bedsore
 bickern
 beauish
 bohemianism
