@@ -9321,7 +9321,6 @@ chatoyant
 chaton
 countesses
 chatons
-chats
 chatta
 chattack
 cocao
@@ -28048,6 +28047,7 @@ cramp
 crampbit
 cager
 cramped
+chats
 crampedness
 cramper
 crampet

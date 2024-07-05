@@ -20055,7 +20055,6 @@ armrest
 armrests
 arms
 armscye
-armseye
 armsful
 atestine
 actualistic
@@ -23902,6 +23901,7 @@ autobusses
 autocab
 autocade
 autocamp
+armseye
 autocamper
 antidecalogue
 ateuchus
