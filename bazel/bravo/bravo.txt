@@ -12272,7 +12272,6 @@ boltwork
 bradylogia
 boluses
 bom
-boma
 bomarea
 bomb
 bonce
@@ -18146,6 +18145,7 @@ bindable
 butanol
 babish
 butanolide
+boma
 briscola
 butanols
 butanone
