@@ -6010,7 +6010,6 @@ agave
 arkosic
 agaves
 admiralships
-agaz
 agaze
 agazed
 agba
@@ -18872,6 +18871,7 @@ archemastry
 anthropogenesis
 archencephala
 archencephalic
+agaz
 anthroponomy
 archenemy
 archenemies
