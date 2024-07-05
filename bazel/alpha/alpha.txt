@@ -15693,7 +15693,6 @@ antimetropia
 antimetropic
 antimycotic
 antimicrobial
-antimicrobic
 antimilitary
 aerothermodynamic
 antimilitarism
@@ -20671,6 +20670,7 @@ arthrosis
 aethered
 arthrospore
 arthrosporic
+antimicrobic
 anteprostatic
 arthrosteitis
 arthrosterigma
