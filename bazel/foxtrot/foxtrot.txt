@@ -1594,6 +1594,7 @@ flamandize
 foretopman
 flappet
 foretackle
+foretype
 favillae
 favissa
 favissae
@@ -8082,7 +8083,6 @@ forethoughtfulness
 firedamps
 forethrift
 foretime
-foretype
 foretoken
 fucused
 foretokens
