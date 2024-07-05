@@ -145,7 +145,6 @@ benzimidazole
 babka
 babkas
 bablah
-bable
 babloh
 burble
 babongo
@@ -15760,6 +15759,7 @@ brachiferous
 bromauric
 brombenzene
 brombenzyl
+bable
 bromcamphor
 bloomsburian
 brome
