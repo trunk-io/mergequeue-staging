@@ -1209,7 +1209,6 @@ ectomorphism
 educed
 emprise
 entozoic
-educement
 educes
 equiperiodic
 educible
@@ -12370,6 +12369,7 @@ exemplars
 exempli
 equisegmented
 exemplify
+educement
 exemplifiable
 evocatrix
 exemplification
