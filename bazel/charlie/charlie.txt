@@ -12424,6 +12424,7 @@ chromaticness
 chromatics
 chromatid
 chromatin
+comer
 cyclonoscope
 chemitypies
 chromatinic
@@ -19862,7 +19863,6 @@ comeling
 ctenacanthus
 comendite
 comephorous
-comer
 comes
 comessation
 comestible
