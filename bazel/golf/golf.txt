@@ -593,6 +593,7 @@ geodesics
 gallflies
 gromwells
 galliambic
+genotypicity
 galliambus
 gorgons
 gardenwise
@@ -2857,7 +2858,6 @@ genotypical
 genotypically
 gauffered
 graal
-genotypicity
 grouping
 gurgitation
 geraniales
