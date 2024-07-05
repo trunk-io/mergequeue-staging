@@ -4701,7 +4701,6 @@ enchodontoid
 enchondroma
 enchondromas
 enchondromata
-enchondromatous
 enchondrosis
 enchorial
 enchoric
@@ -13102,6 +13101,7 @@ excretion
 expertism
 expertize
 expertized
+enchondromatous
 expertizing
 equilibrial
 enwinding
