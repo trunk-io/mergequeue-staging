@@ -2145,7 +2145,6 @@ gazer
 gazes
 gazet
 gulden
-gazettal
 gazette
 gazetted
 gazetteerage
@@ -8409,6 +8408,7 @@ gemote
 gratuitousness
 glim
 gamecock
+gazettal
 gratulant
 ganef
 gratulate
