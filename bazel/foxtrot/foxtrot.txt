@@ -3215,7 +3215,6 @@ fortunous
 fertilizable
 fidelis
 fidelity
-fidelities
 fideos
 fidepromission
 fidepromissor
@@ -9661,6 +9660,7 @@ forewarmer
 florilege
 freen
 femineity
+fidelities
 freeness
 freak
 fastigiums
