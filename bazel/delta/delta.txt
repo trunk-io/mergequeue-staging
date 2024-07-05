@@ -10310,7 +10310,6 @@ dioptomiter
 dioptoscopy
 dioptra
 dioptral
-dioptrate
 dioptre
 dioptres
 dioptric
@@ -15793,6 +15792,7 @@ dianoetic
 dorsalmost
 diphenhydramine
 dorsals
+dioptrate
 dorsalward
 dissever
 dorse
