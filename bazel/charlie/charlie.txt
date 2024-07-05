@@ -9190,7 +9190,6 @@ chartered
 charterer
 charterers
 charterhouse
-chartering
 charterism
 charterist
 charterless
@@ -17187,6 +17186,7 @@ coagulated
 coagulating
 coagulation
 coagulations
+chartering
 communicableness
 coagulative
 coagulator
