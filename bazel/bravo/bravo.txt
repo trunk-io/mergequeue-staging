@@ -474,7 +474,6 @@ backsaw
 beltman
 brickle
 bristly
-byblis
 backsaws
 backscatter
 backscattered
@@ -12520,6 +12519,7 @@ blacklists
 bonhomously
 boni
 bony
+byblis
 boniata
 bonier
 boniest
