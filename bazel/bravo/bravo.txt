@@ -1795,6 +1795,7 @@ banalize
 balsamo
 balsamodendron
 balsamorrhiza
+bourgs
 balsamous
 balsamroot
 balsams
@@ -4908,7 +4909,6 @@ beefeaters
 beefed
 beefer
 beefers
-bourgs
 beefhead
 beefy
 beefier
