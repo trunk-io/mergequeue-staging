@@ -8909,7 +8909,6 @@ bioastronautical
 biobibliographer
 biobibliography
 biobibliographic
-biobibliographical
 bioblast
 bioblastic
 bilateralism
@@ -14644,6 +14643,7 @@ brattle
 brattled
 brattles
 brattling
+biobibliographical
 bratwurst
 brauna
 brauneberger
