@@ -9811,6 +9811,7 @@ bisubstitution
 bisulc
 bisulcate
 bisulfate
+brandywine
 bisulfid
 bisulfide
 bisulphate
@@ -14510,7 +14511,6 @@ biochron
 brandishes
 brandishing
 brandisite
-brandywine
 brandle
 brandling
 brandreth
