@@ -6451,7 +6451,6 @@ desc
 descale
 descaling
 descamisado
-descant
 deranged
 descanted
 descanting
@@ -13908,6 +13907,7 @@ dentistries
 daubreelite
 distomatous
 dystome
+descant
 distomes
 distomian
 dodecagonal
