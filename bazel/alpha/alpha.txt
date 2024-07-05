@@ -6121,7 +6121,6 @@ agglutinate
 agglutinated
 alehoof
 arboresque
-accidie
 agglutination
 agglutinationist
 agglutinations
@@ -8625,6 +8624,7 @@ alkoran
 alkoxid
 alkoxide
 all
+accidie
 allabuta
 allachesthesia
 allactite
