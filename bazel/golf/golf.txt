@@ -2382,6 +2382,7 @@ gelation
 greaves
 gablewindowed
 gelations
+guzzled
 geld
 geldable
 geldant
@@ -10832,7 +10833,6 @@ guzul
 glycyphyllin
 griphe
 guzzle
-guzzled
 giftlike
 geyseral
 gestalt
