@@ -7754,6 +7754,7 @@ delator
 devotement
 devoter
 devotes
+dropsonde
 devoting
 dioicously
 devotion
@@ -17401,7 +17402,6 @@ decream
 dialyze
 dropsies
 dropsywort
-dropsonde
 dismarshall
 dropvie
 disembitter
