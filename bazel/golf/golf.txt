@@ -2332,7 +2332,6 @@ gekkonidae
 grolier
 gekkonoid
 gallivanter
-gekkota
 gel
 gelada
 geladas
@@ -2763,6 +2762,7 @@ gorgeous
 globoids
 grubless
 genioglossi
+gekkota
 genioglossus
 goas
 geniohyoglossal
