@@ -5030,6 +5030,7 @@ fissirostres
 flatette
 federationist
 flatfeet
+foaly
 fieldfare
 flatfoot
 flatfooted
@@ -6612,7 +6613,6 @@ forewinning
 fele
 foalfoots
 foalhood
-foaly
 foals
 foam
 foambow
