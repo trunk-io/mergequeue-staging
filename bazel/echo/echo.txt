@@ -361,6 +361,7 @@ elasmosaurus
 eben
 ebenaceae
 ebenaceous
+encrusts
 ebenales
 evilmouthed
 ebenezer
@@ -4920,7 +4921,6 @@ encrustation
 encrusted
 etch
 encrusting
-encrusts
 enculturate
 enculturative
 epikleses
