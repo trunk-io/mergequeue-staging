@@ -7018,7 +7018,6 @@ droshky
 destool
 destour
 dulcitol
-doctrinable
 destress
 destressed
 destry
@@ -11974,6 +11973,7 @@ deities
 disenchantress
 dignosce
 disenchants
+doctrinable
 disencharm
 disenclose
 dunnock
