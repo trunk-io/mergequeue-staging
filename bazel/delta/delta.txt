@@ -7214,7 +7214,6 @@ deteriorating
 deterioration
 deteriorationist
 deteriorative
-deteriorator
 deteriorism
 determ
 drifty
@@ -18305,6 +18304,7 @@ duodenojejunostomies
 duodenoscopy
 duodenostomy
 difda
+deteriorator
 dinnery
 duodenotomy
 duodenums
