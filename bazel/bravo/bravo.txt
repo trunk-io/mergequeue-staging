@@ -9336,7 +9336,6 @@ byplace
 byplay
 biplanal
 bottonhook
-biplanar
 bagman
 biplane
 bobolink
@@ -11678,6 +11677,7 @@ bobbins
 bobbinwork
 bobbish
 bobbishly
+biplanar
 bobbysocks
 balanoplasty
 bobbysoxer
