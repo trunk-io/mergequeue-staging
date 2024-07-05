@@ -3833,7 +3833,6 @@ adams
 adessive
 adeste
 adeuism
-adevism
 adffroze
 adffrozen
 adfluxion
@@ -24889,6 +24888,7 @@ aways
 appanagist
 await
 awaited
+adevism
 alphabetary
 awaiter
 awaiters
