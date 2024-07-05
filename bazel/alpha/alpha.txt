@@ -229,6 +229,7 @@ abbrev
 abbreviatable
 abbreviate
 abbreviately
+alexandria
 archapostle
 afdecho
 abbreviates
@@ -8059,7 +8060,6 @@ alex
 alexanders
 alexandra
 alexandreid
-alexandria
 alexandrine
 alexandrines
 alexia

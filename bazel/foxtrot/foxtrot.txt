@@ -8084,6 +8084,7 @@ ferling
 foretop
 foretopmast
 foretopmen
+frequencies
 foretops
 foretrace
 foretriangle
@@ -9803,7 +9804,6 @@ frenzily
 freon
 freq
 frequency
-frequencies
 frenchily
 forgiveably
 frequent
