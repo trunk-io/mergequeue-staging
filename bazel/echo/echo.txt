@@ -3479,7 +3479,6 @@ epicedium
 embittered
 egoizer
 embitterer
-embitterment
 embitterments
 embitters
 emblanch
@@ -8247,6 +8246,7 @@ epispadia
 epispadiac
 epitrochoid
 epispermic
+embitterment
 endoesophagitis
 epispinal
 epispore
