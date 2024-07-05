@@ -12670,7 +12670,6 @@ anemophily
 anemoses
 anemosis
 anemotactic
-anemotaxis
 anemotropic
 anemotropism
 angiolith
@@ -17492,6 +17491,7 @@ apostatized
 altschin
 apostatizes
 apostatizing
+anemotaxis
 apostaxis
 apostem
 apostemate
