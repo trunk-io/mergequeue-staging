@@ -11314,6 +11314,7 @@ chlorinate
 chlorinated
 chlorinates
 chlorinating
+cantoned
 chlorination
 chlorinator
 chlorinators
@@ -13203,7 +13204,6 @@ cessions
 cycadeoid
 cycadeoidea
 cycadeous
-cantoned
 cicadid
 cicadidae
 cycadiform
