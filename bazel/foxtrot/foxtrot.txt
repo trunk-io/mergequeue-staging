@@ -7683,7 +7683,6 @@ forehew
 forehock
 forehoof
 forehoofs
-footplate
 fibular
 foreyard
 foreyear
@@ -9621,6 +9620,7 @@ freehandedly
 freehandedness
 fairness
 freehearted
+footplate
 fidation
 fricandoes
 facedown
