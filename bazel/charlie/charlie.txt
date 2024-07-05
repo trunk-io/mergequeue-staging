@@ -18850,7 +18850,6 @@ colfox
 coli
 coly
 coliander
-colibacillosis
 colibert
 colibertus
 colibri
@@ -26872,6 +26871,7 @@ counterfallacy
 counterfaller
 counterfeisance
 counterfeit
+colibacillosis
 counterfeited
 counterfeiter
 counterfeiters
