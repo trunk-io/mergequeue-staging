@@ -4957,6 +4957,7 @@ endamebic
 endamnify
 endamoeba
 epitheloid
+evolves
 ephemerality
 engendure
 electronographic
@@ -11714,7 +11715,6 @@ evolved
 electroretinogram
 evolvent
 evolvers
-evolves
 evolving
 evomit
 eager
