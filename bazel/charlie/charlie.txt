@@ -14103,6 +14103,7 @@ cipherhood
 ciphering
 cyphering
 ciphers
+crocked
 cyphers
 ciphertext
 ciphertexts
@@ -29627,7 +29628,6 @@ crocine
 compages
 crock
 crockard
-crocked
 confed
 crocker
 crockery
