@@ -8184,6 +8184,7 @@ cloes
 chagrin
 chagrined
 chagrining
+commune
 changeover
 chagrinned
 chagrinning
@@ -20346,7 +20347,6 @@ communalizing
 communally
 communard
 chorographies
-commune
 communed
 communicability
 communicable
