@@ -4925,7 +4925,6 @@ gyttja
 gastroscopist
 giunta
 giuseppe
-giust
 grecoue
 gastrohysterectomy
 goutier
@@ -9693,6 +9692,7 @@ gnomed
 grusinian
 grundsil
 grunerite
+giust
 glasshouses
 gaggling
 geodes
