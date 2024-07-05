@@ -23837,6 +23837,7 @@ authorities
 authorization
 authorizations
 authorize
+auxeses
 authorized
 aphorism
 anticommunist
@@ -24508,7 +24509,6 @@ adenotyphus
 auxamylase
 auxanogram
 auxanometer
-auxeses
 auxesis
 auxetic
 auxetically
