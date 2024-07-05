@@ -5451,6 +5451,7 @@ apodous
 affixial
 affixion
 affixment
+aspidium
 affixt
 affixture
 alymphia
@@ -21509,7 +21510,6 @@ aspidistra
 alluviate
 aspidistras
 adinvention
-aspidium
 aspidobranchia
 aspidobranchiata
 aspidobranchiate
