@@ -6936,7 +6936,6 @@ entomotaxy
 entomotomy
 entone
 epitrchelia
-emptysis
 emblema
 entonement
 entonic
@@ -9360,6 +9359,7 @@ erratas
 encephalometric
 erratic
 erratically
+emptysis
 elsewhither
 emollient
 erraticalness
