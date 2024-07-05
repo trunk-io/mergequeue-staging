@@ -4788,7 +4788,6 @@ demonetised
 demonetize
 deductory
 demonetized
-demonetizes
 dittographic
 demonetizing
 demoniac
@@ -6215,6 +6214,7 @@ dermatologies
 dermatologist
 dermatologists
 dermatoma
+demonetizes
 dermatomic
 diumvirate
 dermatomyces
