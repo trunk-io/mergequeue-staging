@@ -2776,6 +2776,7 @@ cantatrices
 communer
 chestily
 cantatrici
+chromocentral
 cantboard
 cantdog
 cantdogs
@@ -12524,7 +12525,6 @@ chromobacterieae
 chromobacterium
 chromoblast
 chromocenter
-chromocentral
 chromochalcography
 chromochalcographic
 chromocyte
