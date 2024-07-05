@@ -5716,6 +5716,7 @@ catchpoleship
 cavefishes
 catchpoling
 catchpoll
+chemotherapeuticness
 catchpolled
 catchpollery
 catchpolling
@@ -8153,7 +8154,6 @@ cruller
 chaff
 chaffed
 chaffer
-chemotherapeuticness
 chaffered
 chafferer
 chafferers
