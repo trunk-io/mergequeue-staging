@@ -4448,6 +4448,7 @@ coccostean
 carnic
 carnie
 carnied
+continuate
 carnies
 carnifex
 carnifexes
@@ -23569,7 +23570,6 @@ continuances
 continuancy
 continuando
 continuantly
-continuate
 continuately
 continuateness
 continuation
