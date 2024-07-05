@@ -3468,6 +3468,7 @@ caraboid
 carabus
 caracal
 caracara
+chacoli
 carack
 caracks
 caracoa
@@ -8065,7 +8066,6 @@ chacma
 chacmas
 chickadee
 chaco
-chacoli
 chacona
 chaconne
 chaconnes
