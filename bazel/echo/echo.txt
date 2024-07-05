@@ -5528,7 +5528,6 @@ enemyship
 enent
 enepidermic
 energeia
-energesis
 energetic
 energetical
 euonymuses
@@ -8583,6 +8582,7 @@ equals
 eireannach
 erotylidae
 exponency
+energesis
 equanimous
 equanimously
 equanimousness
