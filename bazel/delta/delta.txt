@@ -4711,7 +4711,6 @@ demobilizations
 demobilize
 demobilized
 demobilizes
-democracy
 democracies
 democrat
 democratian
@@ -15549,6 +15548,7 @@ doodad
 doodads
 doodah
 diaspora
+democracy
 disgruntled
 doodle
 dermatomere
