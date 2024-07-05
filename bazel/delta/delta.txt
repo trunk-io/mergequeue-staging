@@ -5503,7 +5503,6 @@ deoxygenized
 deoxygenizing
 deoxyribonucleotide
 deoxyribose
-deozonization
 deozonize
 dan
 deozonizer
@@ -15265,6 +15264,7 @@ dolous
 dolph
 dolphin
 dolphinfish
+deozonization
 dolphinlike
 discohexaster
 dolphins
