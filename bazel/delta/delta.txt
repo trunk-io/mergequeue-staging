@@ -1075,6 +1075,7 @@ dovey
 distritbuting
 disporum
 dartagnan
+diastemata
 dartars
 darted
 darter
@@ -8630,7 +8631,6 @@ diastem
 dendrolite
 demibrute
 darktown
-diastemata
 diastematic
 diaster
 dyaster
