@@ -419,6 +419,7 @@ cadastral
 churnstaff
 cadastration
 cadastre
+conusant
 cadastres
 cadaver
 cadaveric
@@ -23975,7 +23976,6 @@ conurus
 conus
 conusable
 conusance
-conusant
 conusee
 conuses
 crouse
