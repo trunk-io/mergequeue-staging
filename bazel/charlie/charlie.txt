@@ -2962,6 +2962,7 @@ conacaste
 caon
 caoutchin
 caoutchouc
+crithomancy
 caoutchoucin
 cap
 capa
@@ -29551,7 +29552,6 @@ criterions
 criterium
 crithidia
 crithmene
-crithomancy
 critic
 corrects
 critical

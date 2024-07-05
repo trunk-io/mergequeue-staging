@@ -21658,7 +21658,6 @@ assembly
 assemblies
 assemblyman
 assemblymen
-assembling
 actuaries
 assemblywoman
 assemblywomen
@@ -22945,6 +22944,7 @@ attack
 aerophilic
 advocated
 arterialisation
+assembling
 attackable
 attacked
 attacker
