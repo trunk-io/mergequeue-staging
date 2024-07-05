@@ -9564,7 +9564,6 @@ checkerboards
 checkerbreast
 checkered
 catboat
-checkery
 checkering
 checkerist
 checkers
@@ -11352,6 +11351,7 @@ chlorocalcite
 chlorocarbon
 certifiable
 chlorocarbonate
+checkery
 congeals
 chlorochromates
 chlorochromic
