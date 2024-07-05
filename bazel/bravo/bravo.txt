@@ -8240,7 +8240,6 @@ biff
 biffies
 biffin
 brilliantness
-biffs
 bifid
 benincasa
 bookend
@@ -10170,6 +10169,7 @@ blacklead
 blackleg
 blacklegged
 blacklegging
+biffs
 blacklegism
 befriender
 blacklegs
