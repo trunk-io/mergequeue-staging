@@ -7335,7 +7335,6 @@ graminaceous
 gospodin
 gosport
 gosports
-goss
 gossamer
 guillevat
 greenwoods
@@ -10221,6 +10220,7 @@ gribble
 gardencraft
 guiltiness
 gastroptosis
+goss
 guilts
 goniometer
 guiltsick
