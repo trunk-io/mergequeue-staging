@@ -2480,7 +2480,6 @@ ferrates
 ferrean
 ferredoxin
 ferreled
-ferreling
 ferrelled
 ferrels
 fluxure
@@ -9967,6 +9966,7 @@ frictional
 flowable
 frictionized
 frictionlessness
+ferreling
 frictionproof
 frictions
 friday

@@ -14514,6 +14514,7 @@ circumvoisin
 circumvolant
 circumvolution
 circumvolutory
+contextive
 circumvolve
 circumvolved
 circumvolving
@@ -23514,7 +23515,6 @@ contests
 contex
 context
 coappellee
-contextive
 contexts
 contextual
 contextualize
