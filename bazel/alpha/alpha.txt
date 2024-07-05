@@ -1461,7 +1461,6 @@ acceder
 acceders
 accedes
 acceding
-accel
 accelerable
 accelerando
 accelerant
@@ -15129,6 +15128,7 @@ anticommercial
 anticommercialism
 anticommercialist
 anticommercialistic
+accel
 anticommerciality
 anticommercially
 antiroyal
