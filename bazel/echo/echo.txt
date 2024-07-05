@@ -5410,7 +5410,6 @@ endothecal
 euchite
 endothecia
 episterna
-endothecial
 empoisoner
 endothecium
 eliminable
@@ -8189,6 +8188,7 @@ episcopalism
 episcopality
 episcopally
 episcopant
+endothecial
 episcoparian
 edenic
 episcopates
