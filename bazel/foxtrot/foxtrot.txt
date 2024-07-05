@@ -4154,6 +4154,7 @@ firetop
 firebrats
 forhaile
 foaled
+forewisdom
 fatless
 firetower
 faquirs
@@ -8131,7 +8132,6 @@ foreweigh
 foregleam
 forewind
 forewings
-forewisdom
 flabbiest
 fructify
 forewish
