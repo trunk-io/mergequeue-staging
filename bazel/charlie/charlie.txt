@@ -8734,7 +8734,6 @@ channelizes
 channelizing
 channelled
 channeller
-channellers
 channelly
 channelling
 channels
@@ -21366,6 +21365,7 @@ conchy
 conchie
 conchies
 confirmative
+channellers
 conchifera
 conchiferous
 conchyle
