@@ -7811,7 +7811,6 @@ alcove
 alcoved
 analyticities
 alcoves
-alcuinian
 axmaster
 alcumy
 alday
@@ -24117,6 +24116,7 @@ allopelagic
 autoimmunities
 autoimmunization
 autoimmunize
+alcuinian
 autoimmunizing
 autoincrement
 autoincremented
