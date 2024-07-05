@@ -1253,7 +1253,6 @@ calyciflorous
 caliciform
 calycinal
 calycine
-calicle
 cabellerote
 calycled
 calicles
@@ -25801,6 +25800,7 @@ corroder
 corroders
 corrodes
 corrody
+calicle
 corrodiary
 crucifige
 corrodibility
