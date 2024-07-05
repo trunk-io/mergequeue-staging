@@ -844,7 +844,6 @@ gamaliel
 gamari
 gleam
 gamashes
-gareth
 gordonia
 galas
 gamasidae
@@ -937,6 +936,7 @@ guruship
 gamesome
 gamesomely
 gamesomeness
+gareth
 gamest
 gamesters
 guaiol
