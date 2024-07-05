@@ -8378,6 +8378,7 @@ dialogues
 dialoguing
 dialonian
 dials
+demographics
 dialup
 dialuric
 diam
@@ -16677,7 +16678,6 @@ draintile
 drainway
 dialist
 draisene
-demographics
 draisine
 drake
 drakelet
