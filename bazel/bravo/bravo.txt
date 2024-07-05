@@ -2008,7 +2008,6 @@ bonfire
 borrel
 bandoleer
 bandoleered
-bumf
 bandolerismo
 bandolero
 bandoleros
@@ -18315,6 +18314,7 @@ buttoner
 buttoners
 buttonhold
 buttonholder
+bumf
 buttonholed
 buttonholer
 berried
