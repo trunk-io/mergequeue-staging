@@ -7251,7 +7251,6 @@ deterministic
 decennially
 determinists
 diachoresis
-deterrability
 deterred
 deterrence
 deterrent
@@ -13432,6 +13431,7 @@ disruptiveness
 disruptment
 disruptor
 disturbor
+deterrability
 drused
 disrupture
 debarking
