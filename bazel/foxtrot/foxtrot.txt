@@ -5435,7 +5435,6 @@ flexionless
 flexions
 flail
 flexitime
-ferdiad
 flexive
 fevertwitch
 flexo
@@ -8909,6 +8908,7 @@ fossicker
 foundationary
 forgeman
 foundationer
+ferdiad
 fussiest
 forestcraft
 foundationlessness
