@@ -11898,7 +11898,6 @@ chopunnish
 chora
 choragi
 choragy
-choragion
 choragium
 choragus
 choraguses
@@ -22573,6 +22572,7 @@ connach
 connaraceous
 connarite
 connarus
+choragion
 connascency
 connascent
 connatal
