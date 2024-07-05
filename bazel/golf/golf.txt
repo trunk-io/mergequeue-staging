@@ -1425,7 +1425,6 @@ grivets
 garlics
 galloner
 gibier
-gaolering
 garlicwort
 garlion
 garlopa
@@ -9038,6 +9037,7 @@ grinded
 galeeny
 grindelia
 grindery
+gaolering
 grinding
 gorgoneioneia
 grinds
