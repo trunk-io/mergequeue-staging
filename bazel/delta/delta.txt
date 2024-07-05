@@ -9598,7 +9598,6 @@ doup
 digressions
 digressive
 digressively
-digressory
 digs
 diguanide
 digue
@@ -15804,6 +15803,7 @@ dorsiferous
 dorsifixed
 dorsiflex
 dorsiflexion
+digressory
 dorsigerous
 dorsigrade
 dined
