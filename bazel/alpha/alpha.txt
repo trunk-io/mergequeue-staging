@@ -6216,7 +6216,6 @@ aggry
 aggrievance
 aggrieve
 aggrieved
-aggrievedly
 aggrievedness
 aggrievement
 aggrieving
@@ -17024,6 +17023,7 @@ aphthongia
 apiaca
 astoundable
 ascetta
+aggrievedly
 apiaceous
 apiales
 apian
