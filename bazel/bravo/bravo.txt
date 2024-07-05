@@ -1050,7 +1050,6 @@ beinly
 brutes
 baiginet
 blackgum
-baign
 baignet
 blain
 baigneuse
@@ -1915,6 +1914,7 @@ band
 bandaged
 baragouinish
 bassoons
+baign
 bandager
 bluetop
 bootleg
