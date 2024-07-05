@@ -12903,7 +12903,6 @@ bop
 batture
 bopeep
 bopyrid
-bopyridae
 bopyridian
 bopped
 brigadiers
@@ -14139,6 +14138,7 @@ bracteole
 bractless
 braize
 bractlet
+bopyridae
 blowzily
 bracts
 bradawl
