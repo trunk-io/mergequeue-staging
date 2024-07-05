@@ -184,6 +184,7 @@ bedplate
 bacalao
 bacalaos
 bacao
+brevetting
 bacauan
 bookdealer
 bacbakiri
@@ -16344,7 +16345,6 @@ boart
 brushless
 brushlet
 bimotors
-brevetting
 brushlike
 bises
 brushmaking
