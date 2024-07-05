@@ -3893,7 +3893,6 @@ giantsize
 giaour
 giaours
 giardia
-giarre
 gyascutus
 gyassa
 gib
@@ -4766,6 +4765,7 @@ girling
 girlish
 gravedo
 gamboge
+giarre
 globetrotter
 giulio
 gigger
