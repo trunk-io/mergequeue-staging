@@ -5011,7 +5011,6 @@ faecal
 flugelhorn
 flasklet
 foreshoe
-flasks
 flasque
 flat
 flatbed
@@ -11197,6 +11196,7 @@ formability
 fibrinous
 fellside
 fungillus
+flasks
 fungistat
 frenzelite
 flabbiness
