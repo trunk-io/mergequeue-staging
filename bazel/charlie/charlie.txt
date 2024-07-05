@@ -21582,7 +21582,6 @@ choice
 concubitancy
 concubitant
 concubitous
-concubitus
 conculcate
 conculcation
 concumbency
@@ -23786,6 +23785,7 @@ contraprogressist
 contraprop
 contraproposal
 contaminable
+concubitus
 contraprovectant
 contraption
 contraptions
