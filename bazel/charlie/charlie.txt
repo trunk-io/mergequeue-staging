@@ -5804,7 +5804,6 @@ catepuce
 cacozyme
 cater
 cateran
-chemung
 caterans
 caterbrawl
 catercap
@@ -15363,6 +15362,7 @@ claiver
 clayware
 claywares
 clayweed
+chemung
 clake
 coxcomical
 chromophore
