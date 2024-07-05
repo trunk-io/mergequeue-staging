@@ -1047,7 +1047,6 @@ fucation
 fossilation
 farley
 farles
-farls
 farm
 firstfruits
 firnismalerei
@@ -2567,6 +2566,7 @@ ferrotyper
 fraxinella
 froebelian
 forte
+farls
 ferrotypes
 ferrotungsten
 ferrovanadium
