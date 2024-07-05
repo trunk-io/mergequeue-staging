@@ -19161,6 +19161,7 @@ archpresbyterate
 amendable
 archpresbytery
 axonemal
+axhammered
 archpretender
 archpriest
 archpriesthood
@@ -25052,7 +25053,6 @@ axes
 axfetch
 axhammer
 antimaterialism
-axhammered
 axial
 axiality
 axialities
