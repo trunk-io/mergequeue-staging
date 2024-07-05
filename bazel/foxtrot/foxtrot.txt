@@ -2340,6 +2340,7 @@ feracious
 feracities
 fraktur
 ferahan
+fieldstrip
 feralin
 feramorz
 ferbams
@@ -3295,7 +3296,6 @@ fieldmice
 fieldmouse
 fieldsmen
 fieldstone
-fieldstrip
 fashery
 frondiform
 fieldworker
