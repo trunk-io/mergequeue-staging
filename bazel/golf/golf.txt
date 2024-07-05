@@ -5628,6 +5628,7 @@ glitch
 generously
 glittered
 glittery
+gulfweeds
 grotian
 gripgrass
 glumous
@@ -10305,7 +10306,6 @@ gulfing
 gulflike
 gulfside
 gulfwards
-gulfweeds
 globigerinas
 goldsmithing
 gulgul
