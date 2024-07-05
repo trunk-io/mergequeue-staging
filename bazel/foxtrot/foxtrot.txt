@@ -5113,6 +5113,7 @@ floatstone
 flaunched
 flaunt
 flaunted
+foggage
 flaunter
 flaunters
 flappier
@@ -6711,7 +6712,6 @@ foge
 fogeater
 fogey
 fogfruit
-foggage
 foggages
 fogged
 fogger
