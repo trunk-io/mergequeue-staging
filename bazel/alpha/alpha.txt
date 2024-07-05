@@ -7941,7 +7941,6 @@ alee
 alef
 alefnull
 aleft
-alefzero
 alegar
 aleger
 alehouse
@@ -20998,6 +20997,7 @@ ascidicolous
 ascidiferous
 archebiosis
 ascidiform
+alefzero
 ascidiia
 ascidioid
 ascidioida
