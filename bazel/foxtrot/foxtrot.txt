@@ -4898,7 +4898,6 @@ flanneling
 flannelleaf
 flannelleaves
 flannelled
-floc
 flannelling
 flannelmouth
 flannelmouthed
@@ -10725,6 +10724,7 @@ formulating
 fiberglas
 frustrates
 frustrating
+floc
 foretokened
 frustration
 frustrations
