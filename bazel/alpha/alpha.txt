@@ -24780,7 +24780,6 @@ avion
 avionic
 avionics
 avions
-avirulence
 avirulent
 avis
 aflare
@@ -25345,6 +25344,7 @@ aloelike
 apolytikion
 antipopulism
 azotize
+avirulence
 azotizing
 azotobacterieae
 azotoluene
