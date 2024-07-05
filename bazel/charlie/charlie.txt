@@ -1409,6 +1409,7 @@ callbacks
 celery
 callboy
 callboys
+champion
 called
 caller
 callers
@@ -8587,7 +8588,6 @@ champignon
 champignons
 champine
 champing
-champion
 championed
 championing
 championize
