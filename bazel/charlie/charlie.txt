@@ -13014,7 +13014,6 @@ chuvash
 carcaneted
 chuzwi
 chwana
-cy
 carburizer
 cia
 cyaathia
@@ -13488,6 +13487,7 @@ cyclotosaurus
 choloidic
 cyclotron
 cyclotrons
+cy
 cyclovertebral
 cyclus
 cicone
