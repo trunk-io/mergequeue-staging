@@ -11614,6 +11614,7 @@ boatkeeper
 boatless
 beclamoring
 boatlip
+besiegers
 boatload
 boatloader
 boatloading
@@ -17614,7 +17615,6 @@ burgh
 botherment
 burghal
 burghalpenny
-besiegers
 broilery
 burghbote
 burgher
