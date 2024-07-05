@@ -4364,6 +4364,7 @@ adopts
 ador
 adorability
 adorable
+argentometer
 adorableness
 adorably
 archontia
@@ -19493,7 +19494,6 @@ argentinize
 argentino
 argention
 argentol
-argentometer
 argentometry
 argentometric
 argentometrically
