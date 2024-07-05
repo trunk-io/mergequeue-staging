@@ -3331,6 +3331,7 @@ emasculatory
 emasculators
 embace
 embacle
+ensilability
 embadomonas
 embay
 embayed
@@ -4741,7 +4742,6 @@ emforth
 encipher
 enciphered
 enciphering
-ensilability
 encipherment
 enciphers
 encircle
