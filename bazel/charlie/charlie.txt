@@ -2765,6 +2765,7 @@ cantatas
 cantate
 cantation
 carbolate
+carrells
 cantator
 cantatory
 cantatrice
@@ -4709,7 +4710,6 @@ carreau
 carree
 carrefour
 carrel
-carrells
 carrels
 carreta
 carreton
