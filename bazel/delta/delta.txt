@@ -5789,7 +5789,6 @@ dornick
 deposable
 divulsive
 deposal
-detachments
 depose
 deposed
 dissolvative
@@ -6006,6 +6005,7 @@ distend
 dequeue
 dequeued
 dequeues
+detachments
 disgracia
 dropshots
 der
