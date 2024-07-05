@@ -2452,7 +2452,6 @@ deckswabber
 decl
 declaim
 disanimated
-declaimant
 declaimed
 declaimer
 declaimers
@@ -12037,6 +12036,7 @@ disentitle
 disentitlement
 disentomb
 disentombment
+declaimant
 dories
 disentraced
 discommendable
