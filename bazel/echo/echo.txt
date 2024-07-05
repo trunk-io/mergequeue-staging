@@ -284,6 +284,7 @@ easternmost
 easters
 elne
 ectotheca
+exiles
 eastertide
 eastings
 electrotechnician
@@ -12577,7 +12578,6 @@ energeticist
 equisetums
 excursion
 exilement
-exiles
 exilian
 exilic
 exiling
