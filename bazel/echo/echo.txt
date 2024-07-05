@@ -772,7 +772,6 @@ ecotypic
 excurvate
 entrapped
 ecotipically
-ecotypically
 extensure
 ecotonal
 explida
@@ -3894,6 +3893,7 @@ extrabulbar
 earable
 emetology
 eupnea
+ecotypically
 eelback
 emetomorphine
 everybody
