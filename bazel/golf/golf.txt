@@ -60,7 +60,6 @@ gable
 gableboard
 gabled
 gableended
-graecizes
 gablelike
 gabler
 greable
@@ -9526,6 +9525,7 @@ growingly
 genetoid
 growlery
 growliest
+graecizes
 growleries
 growlers
 gregariousness
