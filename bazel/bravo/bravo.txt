@@ -6479,7 +6479,6 @@ benzoxy
 banda
 benzoxyacetic
 benzoxycamphor
-bongo
 bibliog
 benzoxyphenanthrene
 benzpinacone
@@ -14103,6 +14102,7 @@ bracketted
 boarcite
 bracking
 barrelmaker
+bongo
 belk
 brandon
 brackmard

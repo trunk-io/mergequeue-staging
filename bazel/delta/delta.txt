@@ -1424,7 +1424,6 @@ dawt
 dawted
 dawtie
 dawties
-dawting
 dawtit
 dawts
 dawut
@@ -6149,6 +6148,7 @@ derivations
 derivatist
 derivatively
 derivativeness
+dawting
 derivatives
 derive
 derivedly
