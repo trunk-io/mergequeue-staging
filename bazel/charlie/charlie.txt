@@ -15627,7 +15627,6 @@ claspt
 class
 classable
 classbook
-classed
 ceasmic
 classer
 chacra
@@ -25829,6 +25828,7 @@ corrumpable
 corrupable
 clockmutch
 commorant
+classed
 corrupt
 conhydrin
 corrupted
