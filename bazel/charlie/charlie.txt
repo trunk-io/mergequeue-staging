@@ -11163,6 +11163,7 @@ conceptualistic
 chivachee
 chivalresque
 chivalry
+cultivatability
 chaum
 chivalric
 chivalries
@@ -30833,7 +30834,6 @@ cultivable
 cultivably
 cultivar
 cultivars
-cultivatability
 cultivatable
 cultivate
 cultivates
