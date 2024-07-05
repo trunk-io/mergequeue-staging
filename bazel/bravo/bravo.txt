@@ -2887,7 +2887,6 @@ byrls
 barophobia
 baroque
 baroquely
-baroqueness
 baroques
 blowsily
 baroscope
@@ -12572,6 +12571,7 @@ bonnier
 bonniest
 bonnyish
 bonnily
+baroqueness
 bonniness
 bonnive
 bonnnes
