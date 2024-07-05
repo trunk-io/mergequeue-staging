@@ -60,6 +60,7 @@ gable
 gableboard
 gabled
 gableended
+graecizes
 gablelike
 gabler
 greable
@@ -7686,7 +7687,6 @@ gastroenteroptosis
 gernitz
 glutaeous
 graecian
-graecizes
 graecizing
 graecomania
 greater
