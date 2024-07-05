@@ -482,7 +482,6 @@ epodic
 ecclesiastes
 epibenthos
 ecclesiastic
-ecclesiastical
 ecclesiastically
 ecclesiasticism
 ecclesiasticize
@@ -10362,6 +10361,7 @@ ethicist
 ethicize
 eastland
 ethicizes
+ecclesiastical
 emicate
 ethicoaesthetic
 endotheliomyxoma
