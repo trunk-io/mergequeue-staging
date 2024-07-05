@@ -5324,6 +5324,7 @@ afetal
 aff
 affa
 affability
+antisepticism
 autopoint
 affable
 affableness
@@ -16260,7 +16261,6 @@ antisepticise
 antisepticised
 activistic
 antisepticising
-antisepticism
 antisepticize
 antisepticized
 antisepticizing
