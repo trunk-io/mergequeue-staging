@@ -2176,7 +2176,6 @@ begad
 banksman
 banksmen
 bankweed
-banlieu
 banlieue
 bannack
 bannat
@@ -7537,6 +7536,7 @@ bewailer
 bewailers
 brimstone
 bewailing
+banlieu
 bewailingly
 bewailment
 bewake
