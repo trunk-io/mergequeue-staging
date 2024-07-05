@@ -134,6 +134,7 @@ earshell
 eremochaeta
 earshot
 earsore
+escadrille
 earsplitting
 earspool
 earstone
@@ -9466,7 +9467,6 @@ esbatement
 enlock
 esc
 esca
-escadrille
 emperorship
 emmets
 escalade
