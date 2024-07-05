@@ -14048,7 +14048,6 @@ barest
 brachiosaur
 bosuns
 brachiosaurus
-brachiotomy
 brachyoura
 babuina
 brachyphalangia
@@ -18325,6 +18324,7 @@ buttonhook
 buttony
 buttoning
 buttonless
+brachiotomy
 buttonmold
 buttonmould
 buttons
