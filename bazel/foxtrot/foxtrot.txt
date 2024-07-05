@@ -5491,7 +5491,6 @@ fatling
 flickeringly
 forefin
 fait
-flickerproof
 flickers
 fatigating
 flickertail
@@ -10272,6 +10271,7 @@ froebelism
 froebelist
 froeman
 froes
+flickerproof
 ferrado
 frog
 formalized
