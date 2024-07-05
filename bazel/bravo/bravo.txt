@@ -1870,7 +1870,6 @@ bambuk
 bambusa
 bambuseae
 bambute
-biteless
 bamming
 biolite
 brees
@@ -7275,6 +7274,7 @@ bestride
 brilliantly
 banisterine
 bestrided
+biteless
 bestrides
 bestriding
 bestripe
