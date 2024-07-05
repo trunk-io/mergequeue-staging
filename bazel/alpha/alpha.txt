@@ -17510,6 +17510,7 @@ apostils
 apostle
 aviator
 apostles
+automat
 anomoeomery
 apostleship
 apostleships
@@ -24184,7 +24185,6 @@ automan
 automania
 automanipulation
 automanual
-automat
 automata
 automatable
 automate
