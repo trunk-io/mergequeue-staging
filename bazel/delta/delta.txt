@@ -4172,6 +4172,7 @@ dcbname
 dianthuses
 dividedness
 deliration
+dependence
 delire
 deliria
 deliriant
@@ -5577,7 +5578,6 @@ dependancy
 disproportionately
 dependant
 dependantly
-dependence
 duckeries
 dependency
 dependencies
