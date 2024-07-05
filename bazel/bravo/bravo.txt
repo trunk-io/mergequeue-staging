@@ -5393,7 +5393,6 @@ beheld
 behelp
 behemoth
 behemothic
-beater
 behemoths
 behen
 behenate
@@ -14886,6 +14885,7 @@ breathiness
 breathing
 breathingly
 breathless
+beater
 breathlessly
 breathtakingly
 breba
