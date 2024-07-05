@@ -7622,7 +7622,6 @@ albuminiform
 albuminimeter
 albuminiparous
 albuminised
-albuminising
 advertising
 albuminization
 albuminize
@@ -18716,6 +18715,7 @@ archaeologian
 archaeologic
 archaeological
 archaeologically
+albuminising
 archaeologist
 archaeologists
 archaeomagnetism
