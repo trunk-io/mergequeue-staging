@@ -2111,6 +2111,7 @@ campodeid
 campodeidae
 campodeiform
 campodeoid
+chelatable
 counterstatant
 campody
 campongs
@@ -9802,7 +9803,6 @@ chekker
 chekmak
 chela
 chelaship
-chelatable
 cupreous
 citronellal
 chelated
