@@ -2841,7 +2841,6 @@ feudary
 feudatary
 feudatory
 filtrating
-feudatorial
 feudatories
 feudee
 feuder
@@ -5662,6 +5661,7 @@ flirts
 flisk
 flisked
 flisky
+feudatorial
 fliskier
 forkful
 fliskiest
