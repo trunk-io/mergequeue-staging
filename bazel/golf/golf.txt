@@ -965,7 +965,6 @@ gonopodium
 gametophyte
 gametophytic
 gametophobia
-gametophoric
 gamgia
 gnatter
 giglio
@@ -4123,6 +4122,7 @@ gigue
 gigues
 granddaddies
 gildings
+gametophoric
 goldenmouth
 gasogenes
 gila
