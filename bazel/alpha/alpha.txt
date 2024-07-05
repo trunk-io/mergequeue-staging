@@ -1033,6 +1033,7 @@ absolvatory
 absolve
 absolved
 absolvent
+alaite
 absolver
 almsgiving
 absolvers
@@ -7356,7 +7357,6 @@ alai
 alay
 autophon
 alain
-alaite
 arrowsmith
 anteflexed
 alaki
