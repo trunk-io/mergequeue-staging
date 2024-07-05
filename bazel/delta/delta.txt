@@ -4975,7 +4975,6 @@ draped
 denat
 denationalisation
 denationalise
-dramatisable
 denationalised
 denationalising
 denationalization
@@ -6367,6 +6366,7 @@ derogator
 derogatory
 derogatorily
 dyspneal
+dramatisable
 dinero
 deuterosy
 deromanticize
