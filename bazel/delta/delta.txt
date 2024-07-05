@@ -482,7 +482,6 @@ daytimes
 dayton
 daiva
 daywork
-daywrit
 dakerhens
 descartes
 dinanderie
@@ -2359,6 +2358,7 @@ deciles
 decylic
 diffusion
 deciliter
+daywrit
 deciliters
 decilitre
 decillion
