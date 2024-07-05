@@ -14253,6 +14253,7 @@ antecoxal
 antecubital
 antecurvature
 anted
+autographometer
 antedate
 antedated
 antedates
@@ -24095,7 +24096,6 @@ acanthous
 autographing
 autographism
 autographist
-autographometer
 autogravure
 autoharp
 autoheader
