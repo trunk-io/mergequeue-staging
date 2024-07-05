@@ -6702,6 +6702,7 @@ foetus
 foetuses
 fofarraw
 fog
+furrow
 feyer
 fogas
 fogbank
@@ -11485,7 +11486,6 @@ furriness
 furrings
 feudist
 fogging
-furrow
 furrowed
 furrower
 furrowers
