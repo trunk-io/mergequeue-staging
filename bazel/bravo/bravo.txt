@@ -4946,7 +4946,6 @@ beeish
 beeishness
 beek
 beekeepers
-beekeeping
 becater
 beekite
 beelbow
@@ -10781,6 +10780,7 @@ baroscopic
 blepharorrhaphy
 blepharosymphysis
 blepharosynechia
+beekeeping
 blepharospasm
 blepharosphincterectomy
 betweenness
