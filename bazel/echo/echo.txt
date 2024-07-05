@@ -7328,7 +7328,6 @@ extols
 explorable
 eon
 enscroll
-eonisms
 eons
 eopalaeozoic
 eopaleozoic
@@ -12402,6 +12401,7 @@ exenterated
 exenterating
 exenteration
 exenteritis
+eonisms
 exequatur
 exequy
 exequial
