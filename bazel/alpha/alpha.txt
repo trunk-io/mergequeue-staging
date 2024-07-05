@@ -6305,6 +6305,7 @@ aromaticness
 agitators
 aeroelastics
 agitatrix
+antineutron
 agitprop
 agitpropist
 agitpunkt
@@ -15797,7 +15798,6 @@ adfected
 antineutrality
 antineutrally
 antineutrinos
-antineutron
 antineutrons
 anting
 antings
