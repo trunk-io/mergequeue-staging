@@ -915,7 +915,6 @@ far
 farad
 fideicommissaries
 faraday
-faradaic
 faradays
 faradic
 fratchy
@@ -3688,6 +3687,7 @@ filmlands
 filmmake
 filmmaker
 fullword
+faradaic
 filmography
 films
 fascicularly
