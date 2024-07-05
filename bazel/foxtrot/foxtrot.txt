@@ -5135,7 +5135,6 @@ fidfad
 faded
 flavo
 fluoridise
-flavone
 flavonoid
 floss
 foreshadow
@@ -5476,6 +5475,7 @@ flycatchers
 flicflac
 flichtered
 fumaric
+flavone
 flichtering
 flichters
 fartherer
