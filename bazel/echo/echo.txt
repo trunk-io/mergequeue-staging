@@ -3593,7 +3593,6 @@ essoinee
 embossman
 embossment
 embossments
-entrada
 embost
 enterozoa
 exembryonate
@@ -12801,6 +12800,7 @@ equivocacies
 exorcized
 elongates
 enzymically
+entrada
 exorcizement
 exorcizing
 exordia
