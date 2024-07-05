@@ -11384,7 +11384,6 @@ amphodiplopia
 abyssolith
 amphogeny
 arete
-amphogenic
 amphogenous
 ampholyte
 amphophil
@@ -23914,6 +23913,7 @@ anatherum
 autocatalepsy
 autocatalyses
 autocatalysis
+amphogenic
 autocatalytic
 antidromal
 adopt
