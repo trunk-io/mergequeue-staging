@@ -3227,6 +3227,7 @@ frontages
 faery
 flyboy
 fingian
+facadal
 fourbagger
 fidessa
 fidge
@@ -3902,7 +3903,6 @@ factorization
 fingerlings
 fingernail
 firmly
-facadal
 fingernails
 fingerpost
 functionalize
