@@ -5318,7 +5318,6 @@ afebrile
 afenil
 afer
 apposition
-aerograph
 afernan
 afetal
 aff
@@ -10645,6 +10644,7 @@ amylo
 algogenic
 astrolater
 amylocoagulase
+aerograph
 amylogen
 amylogenesis
 amylogenic
