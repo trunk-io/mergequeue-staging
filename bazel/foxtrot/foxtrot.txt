@@ -811,7 +811,6 @@ fack
 fraternate
 falconiform
 fanions
-fanit
 fibrinopurulent
 fanjet
 fanjets
@@ -11306,6 +11305,7 @@ furan
 forecasted
 furane
 fulsamic
+fanit
 furanes
 furanoid
 furanose
