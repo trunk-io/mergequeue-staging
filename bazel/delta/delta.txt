@@ -4065,7 +4065,6 @@ delicense
 delichon
 deliciae
 deliciate
-delicious
 deliciouses
 deliciousness
 delict
@@ -10222,6 +10221,7 @@ dinotherian
 dinotherium
 dyslogistically
 dint
+delicious
 diana
 dinting
 dintless
