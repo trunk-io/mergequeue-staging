@@ -6582,7 +6582,6 @@ bandana
 berattle
 berbamine
 berber
-biochemy
 borickite
 berberi
 berbery
@@ -15341,6 +15340,7 @@ briming
 brimless
 brimly
 breakdowns
+biochemy
 brimmed
 blockages
 brimmer
