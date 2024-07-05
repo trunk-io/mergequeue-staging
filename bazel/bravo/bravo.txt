@@ -7721,7 +7721,6 @@ bhistie
 bhisties
 bhoy
 bhojpuri
-bhokra
 brogans
 bhoosa
 bhoots
@@ -13694,6 +13693,7 @@ blakeite
 bachelors
 boviculture
 bovid
+bhokra
 bovidae
 bovids
 boviform
