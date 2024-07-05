@@ -5078,7 +5078,6 @@ gladius
 gumby
 gladly
 gibbets
-gladlier
 gladness
 gladnesses
 greenable
@@ -7758,6 +7757,7 @@ grayfly
 grayhead
 gracious
 grayhound
+gladlier
 gere
 gaycat
 grail
