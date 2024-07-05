@@ -5970,7 +5970,6 @@ cleg
 catholyte
 cathood
 cathop
-cathouse
 cathouses
 cathrin
 crocks
@@ -29226,6 +29225,7 @@ cryostase
 cryostat
 cryostats
 cryosurgeon
+cathouse
 cryosurgery
 cryosurgical
 conformist
