@@ -97,7 +97,6 @@ diapason
 dactyli
 dactylic
 dactylics
-dactylioglyph
 dactylioglyphy
 dactylioglyphist
 diazeutic
@@ -15368,6 +15367,7 @@ dominee
 domineered
 domineerer
 domineering
+dactylioglyph
 dividends
 domineeringly
 domineeringness
