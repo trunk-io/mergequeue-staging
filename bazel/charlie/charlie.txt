@@ -8777,7 +8777,6 @@ curiousness
 chanties
 chantilly
 chanting
-chantlate
 cornflag
 chantor
 chantress
@@ -16539,6 +16538,7 @@ clockmaker
 clockmaking
 crewer
 clockroom
+chantlate
 clocks
 clocksmith
 clockwatcher
