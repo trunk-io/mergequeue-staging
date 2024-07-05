@@ -1662,7 +1662,6 @@ gasteromycete
 guess
 gypsoplast
 geomorphologist
-gasteropoda
 gasterosteidae
 gasterosteiform
 gasifying
@@ -9983,6 +9982,7 @@ gudame
 gastroesophagostomy
 guddled
 gumdigger
+gasteropoda
 guddler
 guddling
 gudebrother

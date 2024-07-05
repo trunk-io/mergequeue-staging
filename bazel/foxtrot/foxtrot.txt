@@ -1795,7 +1795,6 @@ featliest
 flocculency
 featliness
 flirtations
-fissiparous
 felucca
 feats
 fouldre
@@ -5532,6 +5531,7 @@ flighthead
 franked
 flighty
 forpit
+fissiparous
 featherwise
 flightier
 falangism
