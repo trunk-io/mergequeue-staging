@@ -824,6 +824,7 @@ dangerless
 decapper
 dangerous
 dangerously
+duelling
 dangerousness
 dangers
 dangle
@@ -17896,7 +17897,6 @@ duelistic
 duelists
 duelled
 duelli
-duelling
 duellist
 dinarchy
 duellize
