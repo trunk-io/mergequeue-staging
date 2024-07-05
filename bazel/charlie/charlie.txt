@@ -4920,7 +4920,6 @@ cartwright
 cartwrighting
 carua
 caruage
-carucage
 carucarius
 carucate
 carucated
@@ -23635,6 +23634,7 @@ contoured
 contouring
 contourne
 contours
+carucage
 contr
 contra
 contraband
