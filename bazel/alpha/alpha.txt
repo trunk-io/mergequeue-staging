@@ -5499,7 +5499,6 @@ affrayers
 affraying
 affrays
 affranchise
-affranchised
 affranchisement
 affranchising
 affrap
@@ -15052,6 +15051,7 @@ anticipative
 anticipatively
 abnormalised
 anticipator
+affranchised
 anticipatorily
 anticipators
 anticity
