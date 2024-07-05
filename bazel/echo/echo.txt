@@ -5704,7 +5704,6 @@ epistles
 engaol
 engarb
 engarland
-engarment
 engarrison
 engastrimythic
 engaze
@@ -13134,6 +13133,7 @@ expirations
 expirator
 estival
 ectropionized
+engarment
 expiratory
 enamourment
 exhaustable

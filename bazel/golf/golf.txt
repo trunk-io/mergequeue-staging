@@ -1169,7 +1169,6 @@ gwerziou
 gangster
 gangsterism
 gangsters
-gangtide
 gangue
 ganguela
 gangues
@@ -3551,6 +3550,7 @@ genes
 gershonite
 graptolitha
 gersum
+gangtide
 gertie
 gertrude
 gibbous
