@@ -2469,7 +2469,6 @@ fernsick
 fernticle
 ferocactus
 feroce
-ferocious
 ferociously
 flections
 flatboat
@@ -3399,6 +3398,7 @@ frangi
 future
 figshell
 fury
+ferocious
 faitours
 faithful
 filoselle
