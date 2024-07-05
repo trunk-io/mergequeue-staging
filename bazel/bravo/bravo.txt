@@ -15483,6 +15483,7 @@ bescurf
 balloonish
 briskish
 briskly
+buzzer
 brisling
 brislings
 batophobia
@@ -18379,7 +18380,6 @@ buzz
 buzzardly
 buzzbomb
 buzzed
-buzzer
 buzzerphone
 bothridium
 buzzers
