@@ -195,7 +195,6 @@ earthrise
 earthset
 electroplated
 earthsets
-emptores
 extrasystole
 earthshaking
 earthshakingly
@@ -8099,6 +8098,7 @@ epiphytes
 epiphytically
 epiphytism
 epiphytology
+emptores
 estivage
 epiphytotic
 epiphytous
