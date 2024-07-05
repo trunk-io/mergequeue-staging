@@ -7761,7 +7761,6 @@ devotional
 devotionalist
 devotionality
 devotionally
-devotionalness
 devotionary
 devotionate
 devotionist
@@ -10532,6 +10531,7 @@ dubitative
 douched
 dodecasemic
 diplochlamydeous
+devotionalness
 diplococcal
 decolourize
 diplococcemia
