@@ -483,7 +483,6 @@ falco
 flophouse
 falconbill
 fiscally
-falconidae
 foreignization
 falconiformes
 falconlike
@@ -5978,6 +5977,7 @@ flory
 floria
 floriage
 floriate
+falconidae
 florican
 floricin
 floricomous
