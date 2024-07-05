@@ -1093,7 +1093,6 @@ brutalizes
 bailies
 bailieship
 bailiff
-bailiffry
 bailiffs
 bailiffship
 bailiffwick
@@ -17720,6 +17719,7 @@ burke
 barde
 burked
 burker
+bailiffry
 burkes
 biffed
 bywoner
