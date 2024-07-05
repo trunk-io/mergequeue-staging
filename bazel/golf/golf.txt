@@ -4048,7 +4048,6 @@ gardinol
 gibberellin
 gobstopper
 gigantine
-gigantism
 gastroschisis
 grieving
 giantlike
@@ -5469,6 +5468,7 @@ guha
 groan
 grilles
 gamete
+gigantism
 glycogeny
 glycogenolytic
 glycogenosis

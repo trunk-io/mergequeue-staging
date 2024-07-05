@@ -15154,7 +15154,6 @@ civicisms
 civics
 civie
 civies
-civil
 convalescency
 civiler
 civilest
@@ -27291,6 +27290,7 @@ countree
 countreeman
 country
 countrify
+civil
 countrification
 countrifiedness
 countryfiedness
