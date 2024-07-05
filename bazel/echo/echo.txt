@@ -5046,7 +5046,6 @@ endenization
 endenize
 endostylar
 endenizen
-eviscerate
 ender
 endergonic
 epirotic
@@ -8127,6 +8126,7 @@ epiplankton
 epiplanktonic
 epiplasmic
 epiplastral
+eviscerate
 epiplastron
 epipleurae
 epipleural
