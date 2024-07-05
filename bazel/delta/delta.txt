@@ -1363,6 +1363,7 @@ dovecote
 dogedoms
 davenport
 destemper
+degasifier
 daver
 daverdy
 database
@@ -3539,7 +3540,6 @@ disulphuric
 debacles
 demipriest
 degasification
-degasifier
 dustbin
 degass
 degassed
