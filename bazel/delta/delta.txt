@@ -5960,6 +5960,7 @@ depurator
 depure
 depurge
 depurging
+ditchers
 depursement
 deputable
 deputational
@@ -14139,7 +14140,6 @@ ditchdigging
 ditchdown
 ditched
 ditcher
-ditchers
 dietted
 ditching
 ditchside
