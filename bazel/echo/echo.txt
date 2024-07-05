@@ -7807,6 +7807,7 @@ epidotiferous
 epidural
 epifascial
 epifaunae
+eyebeam
 epifaunal
 epifaunas
 emulate
@@ -9924,7 +9925,6 @@ essorant
 explorate
 est
 eigenvectors
-eyebeam
 estab
 estable
 establish
