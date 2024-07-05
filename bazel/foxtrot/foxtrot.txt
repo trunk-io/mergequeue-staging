@@ -3870,7 +3870,6 @@ formularized
 finest
 finestra
 finew
-flechette
 finewed
 finfish
 finfishes
@@ -11729,6 +11728,7 @@ fibdom
 fuze
 fuzed
 ferreiro
+flechette
 fuzee
 fanaloka
 fuzes
