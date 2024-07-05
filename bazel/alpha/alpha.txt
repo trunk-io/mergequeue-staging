@@ -3286,7 +3286,6 @@ anchisaurus
 actor
 actory
 atactic
-actorish
 actorship
 actos
 actress
@@ -5727,6 +5726,7 @@ aftergrind
 afterguns
 amputative
 afterhand
+actorish
 afterhatch
 afterheat
 afterhelp
