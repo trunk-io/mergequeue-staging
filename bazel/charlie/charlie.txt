@@ -4609,7 +4609,6 @@ carpeting
 carpetlayer
 carpetless
 carpetmaker
-carpetmaking
 carpetweed
 carpetwork
 carpetwoven
@@ -20752,6 +20751,7 @@ complex
 complexation
 complexedness
 complexer
+carpetmaking
 complexes
 complexest
 complexify
