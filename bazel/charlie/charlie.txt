@@ -18605,7 +18605,6 @@ coincidents
 coincider
 coinciding
 coinclination
-coincline
 coinclude
 coincorporate
 coindicant
@@ -28711,6 +28710,7 @@ creodonts
 creole
 creoleize
 creoles
+coincline
 chuted
 creolian
 creolin
