@@ -5675,7 +5675,6 @@ deplasmolysis
 duodecahedral
 disposit
 dolisie
-deplenish
 depletable
 deplete
 depleted
@@ -13328,6 +13327,7 @@ disquietudes
 disquiparancy
 disquiparant
 disquisit
+deplenish
 disagreing
 disquisite
 deposure
