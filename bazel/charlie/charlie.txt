@@ -14097,6 +14097,7 @@ cyperus
 cyphella
 crystallographic
 cyphellae
+cryptostoma
 cyphellate
 cipher
 cipherable
@@ -29395,7 +29396,6 @@ cryptoscopy
 cryptosplenetic
 cryptostegia
 calix
-cryptostoma
 cryptostomate
 cryptostome
 cryptotaenia
