@@ -20244,6 +20244,7 @@ commodate
 commode
 commodes
 commodious
+cubits
 commodiously
 commodiousness
 coattestation
@@ -30502,7 +30503,6 @@ cubitometacarpal
 cubitopalmar
 cubitoplantar
 cubitoradial
-cubits
 cubitus
 cubla
 cubmaster
