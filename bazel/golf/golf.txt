@@ -1854,7 +1854,6 @@ gastrorrhaphy
 gynura
 gastroscopic
 gastroscopies
-gastrular
 gocart
 gastrosoph
 gastrosopher
@@ -10179,6 +10178,7 @@ gorefish
 guilandina
 gelatinotype
 groundline
+gastrular
 guild
 guilder
 guilders
