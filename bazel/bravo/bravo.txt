@@ -6742,7 +6742,6 @@ breeding
 bilharzial
 bermes
 bacchiuchii
-berms
 bermuda
 bermudian
 bilocular
@@ -13736,6 +13735,7 @@ bowelless
 bowellike
 bowelling
 bowels
+berms
 beothuk
 bowenite
 bower
