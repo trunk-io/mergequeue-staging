@@ -1778,6 +1778,7 @@ apyrous
 accountably
 accountancy
 accountant
+airships
 accountants
 archon
 accountantship
@@ -7089,7 +7090,6 @@ augurer
 airscrews
 airshed
 airsheds
-airships
 airsick
 airsickness
 airspace
