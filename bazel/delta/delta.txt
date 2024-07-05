@@ -2815,7 +2815,6 @@ decriminalize
 discoids
 decrypt
 decrypted
-dekare
 decrypting
 decryption
 decryptions
@@ -2904,6 +2903,7 @@ dedications
 dedicator
 deployable
 dedicatorily
+dekare
 dedicators
 dedicature
 dedifferentiate
