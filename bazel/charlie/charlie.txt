@@ -2942,6 +2942,7 @@ canvassers
 canvasses
 canvassy
 canzo
+chocking
 canzon
 canzona
 canzonas
@@ -11486,7 +11487,6 @@ chockablock
 chocked
 chocker
 chockful
-chocking
 chockman
 chocks
 chockstone
