@@ -1730,7 +1730,6 @@ gastrochaena
 gastrochaenidae
 giltheads
 gastrocystic
-goralog
 gastrocnemii
 gastrocnemius
 gastrocoel
@@ -5255,6 +5254,7 @@ guider
 gaius
 glassworks
 gasbags
+goralog
 glassworm
 glaswegian
 gees
