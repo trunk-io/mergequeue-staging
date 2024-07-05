@@ -1519,7 +1519,6 @@ deadener
 deadeners
 dotations
 deadening
-didymis
 deadeningly
 drillmaster
 deadest
@@ -3844,6 +3843,7 @@ deionizer
 deionizes
 deionizing
 deiphobus
+didymis
 deipnophobia
 deipnosophism
 deipnosophist
