@@ -6536,7 +6536,6 @@ cecomorphae
 capillaries
 cecomorphic
 cecostomy
-cecotomy
 cecropia
 cecrops
 cecum
@@ -14979,6 +14978,7 @@ cloisonn
 cytologic
 cytologically
 cytologies
+cecotomy
 cytologist
 cytologists
 cytoma
