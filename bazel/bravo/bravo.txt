@@ -2217,7 +2217,6 @@ becard
 banquet
 basenet
 banqueted
-banqueter
 banqueting
 banquets
 ballote
@@ -17663,6 +17662,7 @@ burglarproofs
 burglars
 bursiculate
 burgled
+banqueter
 burgles
 blay
 beefburger
