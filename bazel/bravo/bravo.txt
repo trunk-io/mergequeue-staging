@@ -5292,6 +5292,7 @@ beglooms
 begloze
 begluc
 beelines
+brining
 breviers
 begnaw
 begnawn
@@ -15404,7 +15405,6 @@ brinie
 brinier
 brinies
 brininess
-brining
 brinish
 brinishness
 brinjal
