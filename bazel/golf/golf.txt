@@ -3975,7 +3975,6 @@ gibraltar
 gibs
 graveled
 gnathostomatous
-graduate
 galli
 gibuses
 giddap
@@ -10449,6 +10448,7 @@ garbles
 guestwise
 gumtrees
 gumweed
+graduate
 gumweeds
 gumwoods
 glitter
