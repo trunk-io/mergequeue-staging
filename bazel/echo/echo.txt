@@ -6470,7 +6470,6 @@ eanlings
 enterohepatitis
 ensouling
 exploitatory
-ensouls
 exquisitely
 ensphere
 ensphered
@@ -14106,6 +14105,7 @@ extruder
 epigynum
 entrails
 extruders
+ensouls
 encephalolith
 extrudes
 extrusible
