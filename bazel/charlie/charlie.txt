@@ -26878,7 +26878,6 @@ counterfire
 counterfix
 counterflange
 counterflashing
-counterfleury
 counterflight
 counterflux
 counterfoil
@@ -27072,6 +27071,7 @@ counterpull
 counterpunch
 chinaman
 capturer
+counterfleury
 counterpuncture
 counterpush
 counterquartered
