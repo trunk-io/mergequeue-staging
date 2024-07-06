@@ -901,7 +901,6 @@ gambol
 gamboled
 gambolled
 gambolling
-gambols
 goliath
 gunstocking
 goldweed
@@ -4798,6 +4797,7 @@ girning
 gripless
 gathering
 gyro
+gambols
 gyrocar
 glossopharyngeus
 glomeration

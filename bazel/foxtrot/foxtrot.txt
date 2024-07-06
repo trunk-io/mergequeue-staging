@@ -6399,6 +6399,7 @@ fleeter
 fluoride
 fluoridisation
 fittings
+fixe
 fluoridization
 fluoridize
 frowy
@@ -10477,7 +10478,6 @@ favose
 fantast
 fascinery
 frostwort
-fixe
 frot
 froth
 frothed
