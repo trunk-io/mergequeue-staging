@@ -8580,7 +8580,6 @@ exponency
 energesis
 equanimous
 equanimously
-equanimousness
 equant
 equatability
 equatable
@@ -11620,6 +11619,7 @@ eviller
 evilly
 evilnesses
 erbium
+equanimousness
 ethereous
 evils
 estrapade
