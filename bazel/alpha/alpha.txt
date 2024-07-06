@@ -7476,6 +7476,7 @@ aspidiaria
 albata
 albatas
 albation
+amperometric
 agrostographic
 azarole
 albatros
@@ -11127,7 +11128,6 @@ adornos
 ampery
 amperian
 amperometer
-amperometric
 abstinent
 ampersand
 ampheclexis

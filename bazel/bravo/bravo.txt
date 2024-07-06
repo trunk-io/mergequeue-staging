@@ -5741,7 +5741,6 @@ bunyan
 bellarmine
 bellatrix
 bellbind
-buckjump
 bellbinder
 bachelorlike
 bellbird
@@ -7639,6 +7638,7 @@ bandages
 bakeout
 belton
 bewormed
+buckjump
 beworming
 bindweeds
 beworn
