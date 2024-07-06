@@ -12004,6 +12004,7 @@ dignosce
 disenchants
 doctrinable
 disencharm
+denaturalise
 disenclose
 dunnock
 disencourage
@@ -18091,7 +18092,6 @@ dumble
 dumbly
 dumbnesses
 dumbstruck
-denaturalise
 dodecatyl
 dumdum
 dumdums
