@@ -14245,7 +14245,6 @@ circulariser
 circularising
 cynipidae
 coelection
-circularity
 circularities
 circularization
 circularizations
@@ -22909,6 +22908,7 @@ collated
 carli
 consy
 consider
+circularity
 considerability
 considerable
 celesta
