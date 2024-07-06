@@ -7859,7 +7859,6 @@ cervicide
 cartful
 cerviciplex
 cervicispinal
-cervicitis
 cervicoaxillary
 cervicobasilar
 cervicobregmatic
@@ -9122,6 +9121,7 @@ charmer
 charmers
 charmeuse
 charmfully
+cervicitis
 charmfulness
 charming
 charminger
