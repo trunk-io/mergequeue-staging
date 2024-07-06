@@ -982,6 +982,7 @@ darger
 darghin
 dargo
 darya
+diapausing
 daribah
 daric
 darics
@@ -8512,7 +8513,6 @@ disindividualize
 disnaturing
 diapause
 diapauses
-diapausing
 deadmen
 distills
 diapedesis
