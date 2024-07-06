@@ -5454,7 +5454,6 @@ cookeries
 catadupe
 catafalco
 catafalque
-catafalques
 catagenesis
 catagenetic
 catagmatic
@@ -13233,6 +13232,7 @@ cicatrisate
 cicatrised
 cicatriser
 crackability
+catafalques
 cicatrising
 cicatrisive
 cicatrix
