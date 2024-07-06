@@ -2530,7 +2530,6 @@ bardolphian
 bards
 bardship
 bactritoid
-bardulph
 backlands
 bullition
 bareback
@@ -3310,6 +3309,7 @@ brevicauda
 bedsore
 basilinna
 basiliscine
+bardulph
 basiliscus
 brawling
 basilosauridae
