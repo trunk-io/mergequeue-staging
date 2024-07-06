@@ -4660,7 +4660,6 @@ epistolean
 enchantments
 enchants
 encharge
-encharged
 encharging
 exopodite
 epirogenic
@@ -10539,6 +10538,7 @@ ethnology
 ethnologically
 evansite
 ethnologist
+encharged
 ethnologists
 ethnomanic
 ethnomusicological
