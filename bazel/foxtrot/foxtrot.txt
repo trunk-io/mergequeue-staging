@@ -85,6 +85,7 @@ facial
 facially
 facials
 facias
+flambeau
 facie
 faciend
 faciends
@@ -4783,7 +4784,6 @@ flamb
 flambage
 flambant
 fungible
-flambeau
 flambeaus
 flambeaux
 flambee
