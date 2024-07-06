@@ -848,6 +848,7 @@ gam
 gryphon
 gelatiniser
 gamaliel
+gypsying
 gamari
 gleam
 gamashes
@@ -2580,7 +2581,6 @@ genarchaship
 gamin
 gendarmery
 gendarmes
-gypsying
 genderless
 glides
 genteelize
