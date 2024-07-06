@@ -2403,7 +2403,6 @@ ferme
 forespeed
 forefeeling
 ferment
-fermentability
 furzechat
 fellowlike
 fermentable
@@ -3206,6 +3205,7 @@ fideicommissor
 fideism
 frijoles
 fideisms
+fermentability
 fideist
 fideists
 fidejussionary
