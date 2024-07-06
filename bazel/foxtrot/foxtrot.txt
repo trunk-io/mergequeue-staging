@@ -138,7 +138,6 @@ factfinder
 firman
 facty
 facticide
-facticity
 factional
 furnacite
 forfeit
@@ -2917,6 +2916,7 @@ fatbird
 fiancailles
 fiance
 fianced
+facticity
 fiancee
 flexing
 fiancees
