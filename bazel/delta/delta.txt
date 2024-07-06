@@ -6458,6 +6458,7 @@ desalts
 desamidase
 drossier
 desaminase
+deblock
 desanded
 desands
 desaturation
@@ -18558,7 +18559,6 @@ demythologization
 dustiest
 dustyfoot
 dustily
-deblock
 dustin
 dusting
 delaminate
