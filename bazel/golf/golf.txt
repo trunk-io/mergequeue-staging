@@ -2033,7 +2033,6 @@ garrets
 gluconate
 gaussian
 gaussmeter
-gentling
 geometrical
 gausterer
 gaut
@@ -4325,6 +4324,7 @@ gymnosoph
 gymnosophy
 gymnosophist
 gymnospermae
+gentling
 gymnospermal
 gymnospermy
 gymnospermic
