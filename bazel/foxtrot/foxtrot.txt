@@ -113,7 +113,6 @@ flyspeck
 facilitative
 froe
 fromfile
-facility
 facilities
 forefelt
 facings
@@ -10897,6 +10896,7 @@ fulleries
 fullering
 fullers
 fluorbenzene
+facility
 fullfaces
 frowzled
 frauds
