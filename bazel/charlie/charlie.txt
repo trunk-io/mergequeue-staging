@@ -5233,6 +5233,7 @@ cassone
 cuspidated
 cassons
 cassoon
+creatable
 cassoulet
 cassowaries
 cryohydric
@@ -28450,7 +28451,6 @@ concomitantly
 creasing
 creasol
 creasot
-creatable
 crosier
 create
 created
