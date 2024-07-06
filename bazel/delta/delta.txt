@@ -7876,6 +7876,7 @@ didgeridoo
 dewcup
 dewdamp
 dewdrop
+dmod
 dewdropper
 dewdrops
 dewed
@@ -14612,7 +14613,6 @@ dlvy
 deservedness
 dm
 dmarche
-dmod
 dnieper
 doa
 doab
