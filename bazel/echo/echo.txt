@@ -4942,6 +4942,7 @@ encup
 encushion
 endable
 endamageable
+esterifiable
 endamaged
 epigraphist
 endamages
@@ -9986,7 +9987,6 @@ epilabra
 esteriferous
 esterify
 electrohydraulically
-esterifiable
 esterification
 esterified
 esterifies
