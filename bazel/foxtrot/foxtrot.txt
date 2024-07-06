@@ -4316,7 +4316,6 @@ farers
 fleeten
 fightingly
 fishingly
-fullerboard
 fishlet
 fishlike
 fishline
@@ -5558,6 +5557,7 @@ flimsies
 flimsiest
 flimsily
 florist
+fullerboard
 frequenters
 fellowshiped
 flinch
