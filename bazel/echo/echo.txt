@@ -6473,6 +6473,7 @@ ensphere
 ensphered
 enspheres
 ensphering
+exteriorization
 enspirit
 ensporia
 ediya
@@ -10338,7 +10339,6 @@ etherous
 ethers
 ethic
 ethical
-exteriorization
 ethicalism
 execrates
 ethicalities
