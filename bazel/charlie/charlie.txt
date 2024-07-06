@@ -17716,6 +17716,7 @@ cocoanuts
 cocoas
 cobles
 cocoawood
+colligative
 cocobola
 cocobolas
 cocobolo
@@ -19124,7 +19125,6 @@ colligance
 colligate
 colligating
 colligation
-colligative
 colligible
 collying
 collylyria
