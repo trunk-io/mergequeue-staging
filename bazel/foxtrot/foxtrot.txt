@@ -5263,7 +5263,6 @@ florette
 frigefact
 flectional
 flectionless
-farolito
 fledged
 fulminant
 fistlike
@@ -10328,6 +10327,7 @@ figboy
 fronde
 fruitages
 finnish
+farolito
 frondent
 foredoing
 frondesce
