@@ -2385,6 +2385,7 @@ electrodeposition
 electrodepositor
 electrodes
 embolite
+enweaved
 electrodesiccation
 ettling
 electrodiagnosis
@@ -5207,7 +5208,6 @@ epigrammatized
 eunice
 endodontologist
 endogenetic
-enweaved
 endoenteritis
 endoergic
 endogalvanism
