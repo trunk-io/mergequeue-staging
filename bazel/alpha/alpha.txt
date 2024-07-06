@@ -12995,7 +12995,6 @@ anglesmith
 angletouch
 angletwitch
 anglewing
-anglewise
 autocarpous
 angleworms
 anglian
@@ -15249,6 +15248,7 @@ acquophonia
 antidominican
 antidora
 antidoron
+anglewise
 ansa
 antidotal
 antidotally
