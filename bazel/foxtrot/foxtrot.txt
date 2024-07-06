@@ -3715,7 +3715,6 @@ flakelet
 farmy
 ferruginate
 figurings
-faked
 fishpond
 filterability
 fauxbourdon
@@ -5201,6 +5200,7 @@ flaxboard
 flaxen
 freaky
 flips
+faked
 flaxy
 fulful
 flaxiest
