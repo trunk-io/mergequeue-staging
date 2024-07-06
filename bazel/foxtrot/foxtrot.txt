@@ -906,7 +906,6 @@ fluorenes
 faq
 foreshots
 faqir
-faquir
 far
 farad
 fideicommissaries
@@ -2270,6 +2269,7 @@ fendable
 following
 fendered
 fendering
+faquir
 fenderless
 fenders
 fendillation
