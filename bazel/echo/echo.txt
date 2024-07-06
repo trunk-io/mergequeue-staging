@@ -5458,7 +5458,6 @@ endpiece
 endplate
 endplates
 endpleasure
-endrin
 endromididae
 endrudge
 electroballistic
@@ -10785,6 +10784,7 @@ epithecial
 extracranial
 eudemony
 eudemonia
+endrin
 eudemonic
 eudemonism
 eudemonist

@@ -760,6 +760,7 @@ baculites
 baculitic
 bronchophony
 baculiticone
+bdrm
 baculums
 baculus
 bacury
@@ -1236,7 +1237,6 @@ bakeshop
 bakeshops
 bakestone
 bakhtiari
-bdrm
 baking
 bedwards
 bimensal
