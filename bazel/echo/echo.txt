@@ -2813,7 +2813,6 @@ eleuin
 eldorado
 eleusinia
 eleusinian
-eleusinion
 environments
 eleutherarch
 eleutheria
@@ -4376,6 +4375,7 @@ enaliosauria
 enaliosaurian
 externum
 enalite
+eleusinion
 enallachrome
 enallage
 echinochloa
