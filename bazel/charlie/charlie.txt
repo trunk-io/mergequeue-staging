@@ -2491,7 +2491,6 @@ cangia
 cangle
 cangue
 childbed
-canham
 canhoop
 cany
 covets
@@ -17687,6 +17686,7 @@ cocineras
 cocinero
 cocircular
 cocircularity
+canham
 cocitizenship
 cocytus
 cockade
