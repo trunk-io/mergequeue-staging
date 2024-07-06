@@ -14702,7 +14702,6 @@ anthropometry
 anthropometric
 anthropometrical
 anthropometrically
-anthropometrist
 anthropomophitism
 anthropomorph
 anthropomorpha
@@ -16643,6 +16642,7 @@ anxiolytic
 anxious
 anxiously
 anticontagion
+anthropometrist
 aldermanity
 anxiousness
 anzac
