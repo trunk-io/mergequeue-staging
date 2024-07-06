@@ -1115,7 +1115,6 @@ farreation
 farrel
 farrier
 ferrimagnetically
-fastback
 farriery
 farrieries
 forereport
@@ -2913,6 +2912,7 @@ fgrid
 fireplugs
 flunkeys
 fiacre
+fastback
 fiacres
 fatbird
 fiancailles
