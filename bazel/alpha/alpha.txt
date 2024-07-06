@@ -3262,7 +3262,6 @@ antifreezing
 activations
 activators
 active
-actively
 activeness
 actives
 activin
@@ -24521,6 +24520,7 @@ auxamylase
 auxanogram
 auxanometer
 auxesis
+actively
 auxetic
 auxetically
 auxil
