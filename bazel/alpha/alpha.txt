@@ -19184,7 +19184,6 @@ archseducer
 archsee
 archsewer
 archshepherd
-archsin
 archsynagogue
 archspy
 archspirit
@@ -24386,6 +24385,7 @@ autoscience
 autoscope
 autoscopy
 autoscopic
+archsin
 autobahnen
 autosender
 autosensitization
