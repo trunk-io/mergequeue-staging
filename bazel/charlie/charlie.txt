@@ -6773,7 +6773,6 @@ cello
 cace
 cellobiose
 cubit
-celloid
 celloidin
 celloist
 cellophane
@@ -7308,6 +7307,7 @@ cephalanthous
 cephalanthus
 cephalaspis
 cephalata
+celloid
 cephalate
 celtillyrians
 cephaldemae
