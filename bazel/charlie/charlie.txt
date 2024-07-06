@@ -18552,7 +18552,6 @@ coifed
 coiffed
 coiffes
 crofts
-coiffeur
 coiffeurs
 coiffeuses
 coiffing
@@ -22141,6 +22140,7 @@ conformity
 columbiformes
 conformities
 cottonwick
+coiffeur
 cynoid
 conforms
 confort
