@@ -2274,6 +2274,7 @@ baptistery
 baptistry
 baptizable
 baptizee
+besmother
 baptizement
 baptizer
 baptizers
@@ -7050,7 +7051,6 @@ besmooth
 besmoothed
 besmoothing
 brattishing
-besmother
 bannermen
 besmottered
 bawl
