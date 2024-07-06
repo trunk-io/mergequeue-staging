@@ -2424,7 +2424,6 @@ gomlah
 gelignite
 gunfight
 gahrwali
-gelinotte
 gellants
 gonoblastidium
 gelly
@@ -6877,6 +6876,7 @@ goniatitid
 gadling
 gonycampsis
 greenlet
+gelinotte
 gonidangium
 gonydeal
 gonidial
