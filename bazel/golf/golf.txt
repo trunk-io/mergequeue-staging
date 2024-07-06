@@ -1155,7 +1155,6 @@ gangplanks
 gelatia
 gangplow
 gastrodisc
-gangrel
 gangrenate
 gangrene
 grandeur
@@ -10223,6 +10222,7 @@ guiltier
 gribble
 gardencraft
 guiltiness
+gangrel
 gastroptosis
 goss
 guilts
