@@ -17,7 +17,6 @@ baals
 baalshem
 boyuna
 baar
-baas
 baaskaap
 bethinking
 baaskaaps
@@ -5120,6 +5119,7 @@ befluster
 boasting
 birma
 befoam
+baas
 befog
 befogged
 befogging
