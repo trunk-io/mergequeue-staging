@@ -16156,7 +16156,6 @@ douzieme
 douziemes
 dezymotize
 dove
-dovecot
 dovecotes
 dramaticule
 dovecots
@@ -17186,6 +17185,7 @@ drisk
 drysne
 dryth
 drivable
+dovecot
 drivage
 drive
 deciding
