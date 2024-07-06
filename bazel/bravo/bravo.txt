@@ -5582,7 +5582,6 @@ bastion
 biface
 belam
 belamcanda
-belamy
 bonne
 belanda
 belander
@@ -6255,6 +6254,7 @@ berettas
 backwoodsy
 benne
 bennel
+belamy
 blabbermouths
 bennet
 bennets
