@@ -2407,7 +2407,6 @@ barbera
 barberess
 barberfish
 barbery
-barbering
 barberry
 barberries
 bluestone
@@ -16457,6 +16456,7 @@ bubblebow
 bubbled
 bardel
 bubbleless
+barbering
 bubblelike
 bubbler
 bubblers
