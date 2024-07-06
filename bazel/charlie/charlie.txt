@@ -5031,7 +5031,6 @@ casebox
 calcinable
 caseconv
 cased
-casefy
 casefies
 casefying
 caseful
@@ -7380,6 +7379,7 @@ cephalometer
 cephalometry
 cephalomyitis
 cephalomotor
+casefy
 cephalon
 cephalonasal
 cephalopathy
