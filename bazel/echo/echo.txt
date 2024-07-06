@@ -6862,6 +6862,7 @@ emblements
 enwombing
 entocranial
 ethnopsychic
+esthesiometry
 eyehook
 extramusical
 entodermal
@@ -10015,7 +10016,6 @@ esthesiogeny
 esthesiogenic
 esthesiography
 esthesiometer
-esthesiometry
 educts
 esthesiometric
 esthesioneurosis
