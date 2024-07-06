@@ -5907,7 +5907,6 @@ cathedratically
 cathedraticum
 cathepsin
 cutheal
-catheptic
 catherine
 cathern
 catheterisation
@@ -22036,6 +22035,7 @@ confinity
 confirm
 confirmability
 chivying
+catheptic
 confirmable
 confirmand
 confirmation
