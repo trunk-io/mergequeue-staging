@@ -1549,7 +1549,6 @@ demitasses
 deadlocks
 derider
 deadmelt
-deadmen
 deadness
 deadnesses
 dustproof
@@ -8496,6 +8495,7 @@ disnaturing
 diapause
 diapauses
 diapausing
+deadmen
 distills
 diapedesis
 diapedetic
