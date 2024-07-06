@@ -3373,6 +3373,7 @@ basketballs
 behusband
 basketful
 basketfuls
+brooklike
 basketmaker
 bazars
 basketry
@@ -16066,7 +16067,6 @@ baline
 beatille
 brooklet
 brooklets
-brooklike
 bilgy
 brooks
 brookweed
