@@ -7193,6 +7193,7 @@ dualities
 detective
 detectivism
 detector
+doxa
 detectors
 detects
 detenant
@@ -16415,7 +16416,6 @@ dowsing
 drolled
 diestrus
 dowve
-doxa
 doxastic
 doxasticon
 doxy
