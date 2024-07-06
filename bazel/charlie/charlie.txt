@@ -15,7 +15,6 @@ cabala
 cabalas
 cabalassou
 cabaletta
-cabalic
 cabalism
 cabalisms
 cabalistic
@@ -25144,6 +25143,7 @@ contrapositive
 coresidence
 coresidual
 coresonant
+cabalic
 coresort
 corespect
 corespondent
