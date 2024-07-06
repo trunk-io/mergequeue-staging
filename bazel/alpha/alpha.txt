@@ -5197,7 +5197,6 @@ atrabilar
 aerotonometric
 aerotropic
 aerotropism
-aeroview
 aeruginous
 aerugo
 aerugos
@@ -8921,6 +8920,7 @@ allodial
 advena
 allodialism
 allodially
+aeroview
 agitatedly
 allodian
 allodiary
