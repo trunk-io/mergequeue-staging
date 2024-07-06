@@ -26396,7 +26396,6 @@ chopines
 cothurnni
 cothurns
 crowl
-cothurnus
 cotice
 coticed
 coticing
@@ -26673,6 +26672,7 @@ counteractivity
 counteractor
 counteracts
 counterintelligence
+cothurnus
 counteraddress
 counteradvance
 counteradvantage
