@@ -10,7 +10,6 @@ cab
 caba
 cabaa
 caback
-cabaho
 cabal
 cabala
 cabalas
@@ -13907,6 +13906,7 @@ cinematographies
 cinematographist
 cinemelodrama
 cinemese
+cabaho
 circular
 cinemize
 cinemograph
