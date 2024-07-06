@@ -2372,6 +2372,7 @@ achromacyte
 achromasia
 achromat
 achromatiaceae
+articulare
 achromatic
 achromatically
 achromaticity
@@ -12705,7 +12706,6 @@ allowableness
 anesthesiologists
 anesthesiometer
 anesthesis
-articulare
 allergens
 anesthetic
 anesthetically
