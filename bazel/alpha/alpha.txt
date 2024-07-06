@@ -1355,7 +1355,6 @@ acantholysis
 acanthology
 acanthological
 acanthoma
-acanthomas
 acanthon
 aristologist
 acanthopanax
@@ -18737,6 +18736,7 @@ archaises
 archaising
 archaisms
 archaist
+acanthomas
 archaistic
 archaists
 archaized
