@@ -144,7 +144,6 @@ booted
 bablah
 babloh
 burble
-babongo
 baboo
 branles
 baboon
@@ -15463,6 +15462,7 @@ bryophytic
 bryozoans
 bryozoon
 bywalker
+babongo
 bryozoum
 briquets
 briquette
