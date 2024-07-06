@@ -4150,7 +4150,6 @@ buoyage
 bronchomotor
 bearfoot
 bearfoots
-bearhug
 bearhugs
 bearing
 bearings
@@ -10833,6 +10832,7 @@ blesse
 bedward
 boul
 blessed
+bearhug
 blesseder
 blessedest
 blessedly
