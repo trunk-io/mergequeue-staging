@@ -4109,7 +4109,6 @@ evanesce
 empest
 empetraceae
 esculic
-empexa
 emphase
 emphases
 embioptera
@@ -12656,6 +12655,7 @@ extricates
 exocytosis
 exoclinal
 exocline
+empexa
 exocoelar
 exocoelic
 exocoelum
