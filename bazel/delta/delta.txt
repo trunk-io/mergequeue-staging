@@ -5339,6 +5339,7 @@ dentigerous
 dentilabial
 dentilated
 dentilation
+dissection
 dryophyllum
 dentiled
 dentilingual
@@ -13481,7 +13482,6 @@ disseated
 disseating
 dex
 dissected
-dissection
 dissections
 dissector
 dissectors
