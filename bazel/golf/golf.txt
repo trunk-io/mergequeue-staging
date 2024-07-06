@@ -1832,7 +1832,6 @@ gastromyces
 gastromycosis
 gastronephritis
 gastronomer
-gastronomes
 gastronomical
 gubernacular
 gastronomically
@@ -8981,6 +8980,7 @@ grillee
 glomming
 grillers
 grillework
+gastronomes
 grylli
 gobinist
 geopolitically
