@@ -10815,6 +10815,7 @@ amitroles
 amitular
 amixia
 amlacra
+agoraphobic
 amlong
 amma
 ammanite
@@ -24127,7 +24128,6 @@ autoincrement
 autoincremented
 autoincrements
 autoindex
-agoraphobic
 autoindexing
 alloploidy
 armadillididae
