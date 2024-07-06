@@ -7358,7 +7358,6 @@ cephalodiscida
 cardiotomy
 cephalodium
 cephalofacial
-cephalogenesis
 cephalogram
 cephalograph
 cephalohumeral
@@ -9024,6 +9023,7 @@ chargeling
 chargeman
 chargers
 charges
+cephalogenesis
 chargeship
 charybdian
 charybdis
