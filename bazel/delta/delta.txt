@@ -11231,7 +11231,6 @@ drisheen
 disbind
 disblame
 decisional
-disboard
 dabb
 disbody
 disbodied
@@ -11884,6 +11883,7 @@ divineness
 disdiapason
 defoamer
 dowcote
+disboard
 disdiazo
 disdiplomatize
 disdodecahedroid
