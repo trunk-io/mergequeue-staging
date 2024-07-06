@@ -5265,7 +5265,6 @@ formedon
 florette
 frigefact
 flectional
-flectionless
 fledged
 fulminant
 fleyland
@@ -7438,6 +7437,7 @@ finesser
 foreannouncement
 flutidae
 foraminifera
+flectionless
 fido
 filatory
 foreanswer
