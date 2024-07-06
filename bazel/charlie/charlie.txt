@@ -8453,7 +8453,6 @@ comacine
 chamaenerion
 chamaepericlymenum
 chamaephyte
-chamaeprosopic
 chamaerops
 chignons
 clarkeites
@@ -18939,6 +18938,7 @@ collapsibility
 cubism
 collapsing
 collar
+chamaeprosopic
 collarband
 compatriotic
 collarbird
