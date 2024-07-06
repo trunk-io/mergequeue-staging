@@ -3815,7 +3815,6 @@ electropism
 emendates
 enterocystoma
 emendator
-emended
 enthuses
 exedrae
 evirato
@@ -5377,6 +5376,7 @@ endostea
 epigean
 endosteal
 estrangement
+emended
 endosteitis
 endosteomas
 endosteum
