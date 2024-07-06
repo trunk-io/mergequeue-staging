@@ -13382,7 +13382,6 @@ botryomycotic
 botryopteriaceae
 botryopterid
 botryopteris
-botryose
 bepester
 botrytis
 botrytises
@@ -13765,6 +13764,7 @@ bower
 bowerbird
 bowery
 bastions
+botryose
 boweries
 boweryish
 bowering
