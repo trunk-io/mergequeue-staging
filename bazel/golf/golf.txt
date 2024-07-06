@@ -9626,7 +9626,6 @@ gruelings
 graminivore
 gaudies
 gruelled
-grueller
 gruellers
 gruellings
 gruesomely
@@ -10352,6 +10351,7 @@ gerundial
 gulliver
 gadaria
 gulllike
+grueller
 gr
 gulls
 gulmohar
