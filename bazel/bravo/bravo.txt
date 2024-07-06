@@ -4099,6 +4099,7 @@ beaning
 beanlike
 beano
 beanos
+biconvexity
 beanpoles
 beans
 beansetter
@@ -8106,7 +8107,6 @@ biconnected
 bossily
 biconsonantal
 biconvex
-biconvexity
 bicorn
 bicornate
 bicornes
