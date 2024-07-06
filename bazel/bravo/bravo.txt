@@ -12138,6 +12138,7 @@ babble
 bolete
 boletes
 boleti
+burnishing
 blindish
 byrled
 boletus
@@ -17805,7 +17806,6 @@ burnisher
 burnishers
 bookracks
 burnishes
-burnishing
 burnishment
 baneberries
 burnoose
