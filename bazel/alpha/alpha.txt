@@ -3457,6 +3457,7 @@ adamantoid
 adamantoma
 alfred
 adamants
+aryls
 adamas
 adamastor
 adamellite
@@ -19744,7 +19745,6 @@ arilloid
 autometamorphosis
 arils
 ateuchi
-aryls
 arimaspian
 arimathaean
 ariocarpus
