@@ -3732,7 +3732,6 @@ glosses
 ghafir
 ghan
 gibbously
-gisel
 ghana
 ghanaian
 gastronomy
@@ -6109,6 +6108,7 @@ gluconeogenetic
 geebung
 gimmick
 gluconeogenic
+gisel
 glucoprotein
 goback
 glucosamine
