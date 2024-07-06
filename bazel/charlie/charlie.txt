@@ -4871,7 +4871,6 @@ cholesterinic
 cartilagines
 cartilaginification
 cartilaginoid
-cartilaginous
 carting
 cartisane
 cartist
@@ -24804,6 +24803,7 @@ coprose
 coprosma
 coprostasia
 catting
+cartilaginous
 coprostasis
 coprostasophobia
 coprozoic
