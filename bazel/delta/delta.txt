@@ -16592,7 +16592,6 @@ draggled
 draggletail
 draggletailed
 draggletailedly
-draggly
 draggling
 draghound
 draglines
@@ -16877,6 +16876,7 @@ dentirostres
 dreadnought
 dreadnoughts
 dreads
+draggly
 dream
 designees
 dreamage
