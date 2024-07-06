@@ -4475,7 +4475,6 @@ feme
 favourite
 fitroot
 fits
-fittage
 fytte
 fitted
 fitters
@@ -7884,6 +7883,7 @@ foreseeing
 foreseeingly
 foreseen
 filea
+fittage
 foreseer
 ferrotyping
 flirtational
