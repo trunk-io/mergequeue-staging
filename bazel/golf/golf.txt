@@ -5809,7 +5809,6 @@ gelose
 glomerulus
 glommed
 glommox
-glomus
 gasconaded
 guidon
 glucaemia
@@ -7521,6 +7520,7 @@ griffs
 goutwort
 gallwort
 gouvernante
+glomus
 giddea
 gouvernantes
 governability
