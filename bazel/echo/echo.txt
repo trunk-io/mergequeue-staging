@@ -5057,7 +5057,6 @@ endhand
 endiablee
 endiadem
 eyer
-endiaper
 elided
 erasures
 endymal
@@ -5983,6 +5982,7 @@ enjoin
 expilate
 enjoinder
 enjoined
+endiaper
 enjoiner
 enjoiners
 enjoining
