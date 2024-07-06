@@ -1764,7 +1764,6 @@ dismayingness
 debated
 debateful
 debatefully
-debatement
 divas
 debater
 debaters
@@ -6699,6 +6698,7 @@ desilverizer
 desilverizing
 desilvers
 declinature
+debatement
 desynaptic
 desynchronize
 desinence
