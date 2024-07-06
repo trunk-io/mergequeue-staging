@@ -2003,7 +2003,6 @@ graphical
 giber
 gavelmen
 gaumed
-gaumy
 gaumlike
 gaums
 gaunt
@@ -7496,6 +7495,7 @@ gourmand
 gourmander
 gourmanderie
 gourmandize
+gaumy
 gyppery
 gourmandizer
 gomerals
