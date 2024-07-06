@@ -1937,7 +1937,6 @@ feeding
 fdname
 feedings
 frosk
-fibratus
 flummoxing
 feedlots
 felicitously
@@ -2453,6 +2452,7 @@ fernleaf
 fovea
 fusiform
 fernseed
+fibratus
 faucalize
 fernsick
 fernticle
