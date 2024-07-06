@@ -2441,7 +2441,6 @@ canelike
 canell
 canella
 canellaceae
-canellaceous
 canellas
 canelo
 canelos
@@ -6232,6 +6231,7 @@ causalities
 causally
 causals
 causans
+canellaceous
 causata
 causate
 causational
