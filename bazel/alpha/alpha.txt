@@ -2990,7 +2990,6 @@ acromioscapular
 amphibalus
 acromiosternal
 acromiothoracic
-acromyotonia
 acromyotonus
 acromonogrammatic
 acromphalus
@@ -18775,6 +18774,7 @@ archbeadle
 archbishopess
 acutiator
 archbishopry
+acromyotonia
 archbishopric
 archbishoprics
 archbishops
