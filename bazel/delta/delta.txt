@@ -2472,7 +2472,6 @@ diadochokinetic
 delivering
 declaration
 declarative
-declaratively
 deprevation
 deutzias
 declarator
@@ -6023,6 +6022,7 @@ dequeen
 distend
 dequeue
 dequeued
+declaratively
 dequeues
 detachments
 disgracia
