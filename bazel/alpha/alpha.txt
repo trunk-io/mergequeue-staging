@@ -10473,7 +10473,6 @@ anaesthetization
 amex
 amhar
 afterbirths
-amharic
 amherstite
 amhran
 attribute
@@ -17379,6 +17378,7 @@ anodontia
 autoregressive
 aponia
 archimperialism
+amharic
 aponic
 aponogeton
 arks
