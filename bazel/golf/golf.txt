@@ -3842,7 +3842,6 @@ ghostily
 galah
 gabelles
 ghostish
-ghostism
 ghostlet
 gigantic
 ghostly
@@ -7847,6 +7846,7 @@ gramineae
 greenier
 gramineal
 gramineous
+ghostism
 gramineousness
 graminicolous
 gallophile
