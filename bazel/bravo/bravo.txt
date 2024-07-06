@@ -2177,6 +2177,7 @@ bannat
 bel
 banned
 banner
+bottlehead
 bannerer
 bivinyl
 bannerets
@@ -13403,7 +13404,6 @@ bottled
 bottleful
 baggara
 bottlefuls
-bottlehead
 bottleholder
 bottlelike
 bottommost
