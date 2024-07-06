@@ -7414,7 +7414,6 @@ earthkin
 endomitotic
 epeira
 endotheliomata
-epeiric
 epeirid
 expounded
 epeiridae
@@ -10541,6 +10540,7 @@ electrometallurgy
 ethnolinguist
 ethnolinguistic
 ethnolinguistics
+epeiric
 enrockment
 ethnologer
 ethnology

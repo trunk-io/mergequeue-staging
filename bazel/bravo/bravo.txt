@@ -1661,7 +1661,6 @@ ballonne
 ballonnes
 balloon
 ballooned
-ballooner
 balloonery
 bushmanship
 ballooners
@@ -11936,6 +11935,7 @@ bepart
 bogsucker
 bangiaceous
 bogtrot
+ballooner
 bogtrotter
 bilixanthin
 beowulf
