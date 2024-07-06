@@ -2411,7 +2411,6 @@ geldesprung
 gaseosity
 gelding
 geldings
-grumpier
 gelds
 gelechia
 geleem
@@ -3963,6 +3962,7 @@ gibing
 gelandejump
 geothlypis
 gybing
+grumpier
 gaveling
 gibingly
 gruesome
