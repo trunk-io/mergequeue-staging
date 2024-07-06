@@ -5294,6 +5294,7 @@ castigate
 coincidency
 castigated
 castigates
+copolymerizations
 castigating
 citraconic
 castigation
@@ -24672,7 +24673,6 @@ copolymer
 copolymeric
 copolymerism
 copolymerization
-copolymerizations
 copolymerize
 copolymerized
 copolymerizing
