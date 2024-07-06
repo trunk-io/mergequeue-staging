@@ -5474,7 +5474,6 @@ endura
 exotisms
 endurability
 elaeodochon
-endurable
 endurably
 estopping
 endurance
@@ -12643,6 +12642,7 @@ exocardia
 ejected
 exocardiac
 extracardial
+endurable
 exocardial
 exocarps
 exocataphoria
