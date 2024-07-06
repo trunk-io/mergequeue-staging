@@ -5661,7 +5661,6 @@ enfoul
 extolls
 enfoulder
 enfrai
-enframe
 enframed
 enframement
 enframes
@@ -13090,6 +13089,7 @@ experimenting
 ejectee
 experimentize
 experimentor
+enframe
 etiquettical
 expermentized
 experrection
