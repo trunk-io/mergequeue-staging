@@ -3603,7 +3603,6 @@ bathysophic
 bethabara
 baudery
 bathysphere
-bathyspheres
 bister
 beneplacit
 bathythermogram
@@ -10596,6 +10595,7 @@ blawort
 blaws
 balletic
 binoxalate
+bathyspheres
 blaze
 blazer
 beartongue
