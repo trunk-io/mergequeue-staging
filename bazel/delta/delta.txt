@@ -5539,6 +5539,7 @@ depart
 departed
 differentiated
 disincorporating
+discovenant
 departement
 departer
 departing
@@ -11717,7 +11718,6 @@ dichromate
 disgout
 discomedusan
 discous
-discovenant
 discoverability
 discoverable
 discoverably
