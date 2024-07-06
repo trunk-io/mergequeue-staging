@@ -4699,7 +4699,6 @@ enchiridion
 enchiridions
 exterous
 entamoebiasis
-enchytraeus
 enchodontid
 enchodontidae
 enchodontoid
@@ -10911,6 +10910,7 @@ eulogically
 eulogies
 eulogious
 eulogise
+enchytraeus
 eulogises
 eulogising
 etrog
