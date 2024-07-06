@@ -1491,7 +1491,6 @@ garotter
 gravest
 garous
 garpikes
-garrafa
 garrat
 garret
 garreteer
@@ -7579,6 +7578,7 @@ gasthauses
 gowks
 gowl
 gowlan
+garrafa
 galavanted
 gownlet
 gownsmen
