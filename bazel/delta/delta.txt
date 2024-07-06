@@ -10266,7 +10266,6 @@ dinornithoid
 dactylically
 dinosaur
 dobbins
-disterr
 dinosauria
 dinosauric
 dinothere
@@ -16797,6 +16796,7 @@ draw
 dispositive
 drawarm
 drawback
+disterr
 drawbacks
 drawbench
 drawboard
