@@ -5293,7 +5293,6 @@ fleeches
 foreseat
 floristic
 fortieth
-featherbedding
 flanders
 fideles
 fixage
@@ -10279,6 +10278,7 @@ frogfish
 fiendliness
 formnail
 flubs
+featherbedding
 fancify
 forboded
 frogger
