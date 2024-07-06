@@ -1726,7 +1726,6 @@ feasibilities
 feasible
 flopping
 feasibleness
-frosteds
 feasing
 feasor
 forlana
@@ -11746,6 +11745,7 @@ fuzzily
 fuzzing
 fuzztail
 fw
+frosteds
 fwelling
 fritterer
 fish
