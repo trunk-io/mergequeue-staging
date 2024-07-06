@@ -1998,7 +1998,6 @@ bandlimiting
 bandman
 bandmaster
 bandmasters
-bandobust
 bandog
 bicarburetted
 bonfire
@@ -17624,6 +17623,7 @@ burgher
 burgherage
 burgherdom
 beguine
+bandobust
 burgherhood
 blake
 blowtubes
