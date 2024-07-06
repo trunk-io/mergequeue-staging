@@ -11193,7 +11193,6 @@ amphicentric
 amphichromatic
 amphichrome
 amphichromy
-amphicyon
 arrent
 amphicyrtous
 amphicytula
@@ -20601,6 +20600,7 @@ arthrobacterium
 aggressive
 arthrobranch
 arthrobranchia
+amphicyon
 arthrocarcinoma
 arthrochondritis
 arthroclasia
