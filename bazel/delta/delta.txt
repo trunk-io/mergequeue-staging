@@ -2792,7 +2792,6 @@ disciplinable
 decreet
 decreing
 dunkled
-decremental
 decrements
 decremeter
 decrepit
@@ -16200,6 +16199,7 @@ doveweed
 dovewood
 dovyalis
 dunches
+decremental
 dow
 drubble
 dowable
