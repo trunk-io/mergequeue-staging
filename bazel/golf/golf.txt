@@ -6340,7 +6340,6 @@ gnawer
 gnawing
 gelatinobromide
 gnawings
-glucase
 gnaws
 glacis
 gladnesses
@@ -8542,6 +8541,7 @@ gitanemuck
 gravitationally
 gravitations
 ghetti
+glucase
 gravitic
 gravitometer
 graviton
