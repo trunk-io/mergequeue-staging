@@ -5348,7 +5348,6 @@ beguiling
 beadsman
 beguilingly
 beguilingness
-beguin
 bridesman
 beguines
 becarve
@@ -6153,6 +6152,7 @@ beneficed
 biliousness
 bravo
 beneficency
+beguin
 beneficent
 beneficential
 beneficently
