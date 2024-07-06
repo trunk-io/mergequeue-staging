@@ -3733,6 +3733,7 @@ glosses
 ghafir
 ghan
 gibbously
+gisel
 ghana
 ghanaian
 gastronomy
@@ -4894,7 +4895,6 @@ gnocchetti
 gisants
 gisarme
 gise
-gisel
 gisement
 gish
 gismo
