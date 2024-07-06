@@ -9426,7 +9426,6 @@ erugo
 erugos
 erupt
 erupted
-encoronal
 eruptible
 erupting
 eruption
@@ -11154,6 +11153,7 @@ eurycerotidae
 eurychoric
 euryclea
 eurydice
+encoronal
 edenize
 eurygnathic
 electromagnetic
