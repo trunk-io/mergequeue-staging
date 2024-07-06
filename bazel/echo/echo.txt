@@ -4584,7 +4584,6 @@ encephalograph
 encephalographic
 encephalographically
 encephaloid
-encephalolith
 effronted
 electroscopes
 encephalomalacosis
@@ -14108,6 +14107,7 @@ extruder
 epigynum
 entrails
 extruders
+encephalolith
 extrudes
 extrusible
 edaphodont
