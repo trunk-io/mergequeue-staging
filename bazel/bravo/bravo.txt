@@ -414,6 +414,7 @@ bribegiver
 backheel
 backhoe
 backhooker
+baubling
 backhouse
 biblioklept
 backhouses
@@ -3822,7 +3823,6 @@ bethunder
 bauble
 baublery
 baubles
-baubling
 bauch
 bauchle
 bauckiebird

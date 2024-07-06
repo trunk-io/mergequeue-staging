@@ -7319,6 +7319,7 @@ eon
 eurhodine
 enscroll
 eons
+enorganic
 eopalaeozoic
 eopaleozoic
 eophyte
@@ -7960,7 +7961,6 @@ entropium
 epilobium
 epilog
 epilogation
-enorganic
 epilogic
 exposture
 epilogism
