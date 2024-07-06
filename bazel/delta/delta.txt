@@ -3446,7 +3446,6 @@ defoams
 defocusses
 defoedation
 defog
-defogged
 disyllable
 defogger
 defoggers
@@ -7544,6 +7543,7 @@ devaluing
 devanagari
 devance
 devant
+defogged
 dipsaceae
 devaporation
 devaraja
