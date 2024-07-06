@@ -15634,7 +15634,6 @@ classicalist
 classicality
 crannoges
 classicalities
-classicalize
 classically
 classicalness
 classicise
@@ -27348,6 +27347,7 @@ cyancarbonic
 courie
 courier
 couriers
+classicalize
 couril
 courlan
 couronne
