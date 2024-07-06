@@ -17466,7 +17466,6 @@ aposporogony
 aposporous
 apostacy
 apostacies
-apostacize
 apostasy
 apostasies
 aberr
@@ -19850,6 +19849,7 @@ aphthartodocetic
 arithmetize
 arithmetized
 arithmetizes
+apostacize
 ataxaphasia
 arithmic
 applicably
