@@ -38,6 +38,7 @@ fabrique
 fabronia
 florulent
 fabroniaceae
+fendered
 fabula
 frostings
 fermatas
@@ -2266,7 +2267,6 @@ fencibles
 fend
 fendable
 following
-fendered
 fendering
 faquir
 fenderless
