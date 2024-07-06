@@ -5405,6 +5405,7 @@ glessite
 glew
 gallied
 gliadine
+gride
 gliadines
 glib
 glycerinated
@@ -8898,7 +8899,6 @@ griddle
 giddiness
 griddler
 griddles
-gride
 guttersnipes
 gryde
 germanophobe

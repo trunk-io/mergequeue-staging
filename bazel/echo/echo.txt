@@ -4542,6 +4542,7 @@ excluder
 encasserole
 entoderm
 encastre
+epitaphical
 encastrement
 encauma
 erythorbate
@@ -8315,7 +8316,6 @@ epit
 epitapher
 epitaphial
 epitaphic
-epitaphical
 epitaphless
 epitaphs
 epitases
