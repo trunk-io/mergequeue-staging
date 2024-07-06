@@ -4243,7 +4243,6 @@ delph
 delphacidae
 delphian
 delphically
-dermophobe
 delphin
 dispread
 delphinapterus
@@ -11005,6 +11004,7 @@ disalign
 disgorgement
 disaligned
 disaligning
+dermophobe
 disalignment
 disalike
 disassociable

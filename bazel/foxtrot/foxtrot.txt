@@ -6790,6 +6790,7 @@ foldboat
 fare
 foldboater
 flanked
+ficin
 felting
 fluke
 farmings
@@ -6897,7 +6898,6 @@ freekirker
 forwearied
 frontiersman
 folksay
-ficin
 fumishing
 folksey
 folksy
