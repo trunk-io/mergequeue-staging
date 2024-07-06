@@ -3741,6 +3741,7 @@ dehydrogenization
 duolog
 disbench
 dehydrogenized
+dalar
 dehydrogenizer
 dehydromucic
 dehydroretinol
@@ -10511,7 +10512,6 @@ demobilizing
 diphthongisation
 diddest
 diphthongise
-dalar
 diphthongised
 downset
 diphthongization
