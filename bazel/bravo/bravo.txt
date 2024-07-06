@@ -2641,6 +2641,7 @@ biped
 broomweed
 basinful
 barid
+bunolophodont
 brusquest
 breezily
 baryecoia
@@ -17456,7 +17457,6 @@ bunning
 bezants
 bunodont
 bulletins
-bunolophodont
 bunomastodontidae
 bunoselenodont
 bunraku
