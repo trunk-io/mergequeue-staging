@@ -2671,7 +2671,6 @@ adulterants
 acomia
 acomous
 aconative
-acondylose
 aconelline
 aconic
 aconin
@@ -4859,6 +4858,7 @@ aegises
 aegisthus
 aegithalos
 aegithognathae
+acondylose
 aegithognathism
 aegithognathous
 aegle
