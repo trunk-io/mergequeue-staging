@@ -2777,6 +2777,7 @@ acquisite
 acquisited
 acquisition
 acquisitional
+autosuggest
 acquisitive
 acquisitiveness
 acquisitor
@@ -24418,7 +24419,6 @@ autostylism
 autostoper
 autostrada
 autostradas
-autosuggest
 autosuggestibility
 autosuggestible
 autosuggestion
