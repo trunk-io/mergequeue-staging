@@ -6216,7 +6216,6 @@ aggros
 aggroup
 aggroupment
 aggur
-aghanee
 americanisms
 aghast
 aghlabite
@@ -8118,6 +8117,7 @@ alfridary
 alfur
 alfurese
 alfuro
+aghanee
 antefact
 alga
 algae
