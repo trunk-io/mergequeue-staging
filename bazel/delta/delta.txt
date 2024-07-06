@@ -6491,7 +6491,6 @@ descendable
 descendance
 descendant
 descendants
-decomposing
 descended
 descendence
 dani
@@ -14848,6 +14847,7 @@ dodecanoic
 demiplate
 dinheiro
 duplicator
+decomposing
 dodecapartite
 dodecapetalous
 dodecaphony
