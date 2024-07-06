@@ -5214,7 +5214,6 @@ endoenteritis
 endoergic
 endogalvanism
 endogamy
-endogamous
 endogastrically
 endogastritis
 endogen
@@ -5845,6 +5844,7 @@ engrasp
 educ
 extractiform
 engraulis
+endogamous
 engrave
 explainable
 engravement

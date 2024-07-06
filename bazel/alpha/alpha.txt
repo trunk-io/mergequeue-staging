@@ -11572,6 +11572,7 @@ anabas
 anabases
 anabasin
 anabasine
+assemblable
 anabasis
 anabata
 anabathmoi
@@ -21654,7 +21655,6 @@ assegaiing
 assegais
 asseize
 assembl
-assemblable
 assemblance
 assemble
 assembled
