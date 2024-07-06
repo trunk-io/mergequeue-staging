@@ -8124,7 +8124,6 @@ diabrotica
 dissemination
 diacanthous
 diacatholicon
-diacaustic
 diacetamide
 diacetic
 diceplay
@@ -8479,6 +8478,7 @@ diamondlike
 dunites
 diamonds
 dandled
+diacaustic
 diamondwise
 diamondwork
 diamorphine
