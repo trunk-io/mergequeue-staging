@@ -3905,7 +3905,6 @@ fingering
 fingerings
 fingerleaf
 fingerless
-fallers
 fingerlet
 florescence
 formatters
@@ -4724,6 +4723,7 @@ filesniff
 forechurch
 flaglike
 flotation
+fallers
 flagmaker
 flagmen
 frilling
