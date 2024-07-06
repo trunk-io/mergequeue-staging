@@ -5851,6 +5851,7 @@ flood
 floodable
 fluoaluminate
 floodage
+fondus
 favorless
 floodboard
 floodcock
@@ -7001,7 +7002,6 @@ fondu
 fondues
 flunkeyism
 fonduk
-fondus
 fone
 fonnish
 fono
