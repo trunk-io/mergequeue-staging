@@ -9426,7 +9426,6 @@ alphabetize
 alphabetized
 alphabetizer
 alphabetizers
-alphabetizes
 allylic
 alibangbang
 alphabetizing
@@ -19874,6 +19873,7 @@ arizonians
 arizonite
 arjun
 ankylostomiasis
+alphabetizes
 archaeus
 ark
 arkansan
