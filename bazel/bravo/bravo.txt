@@ -12331,7 +12331,6 @@ blandishers
 bombes
 bombesin
 bombesins
-bombycid
 bombycidae
 batterable
 bombycids
@@ -14614,6 +14613,7 @@ brassey
 behap
 borages
 breezeway
+bombycid
 brasseries
 brasses
 brakehand
