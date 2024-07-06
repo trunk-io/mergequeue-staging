@@ -8340,7 +8340,6 @@ chalcopyrite
 canelle
 chalcosiderite
 chalcosine
-chalcostibite
 centralised
 chalcotrichite
 chalcotript
@@ -25750,6 +25749,7 @@ corresponder
 corresponding
 corresponds
 caecum
+chalcostibite
 corresponsion
 corresponsively
 corridas
