@@ -6098,7 +6098,6 @@ agglomerates
 agglomeratic
 armada
 agglomerating
-agglomeration
 agglomerator
 autoing
 agglutinable
@@ -14351,6 +14350,7 @@ anteportico
 anteporticoes
 anteporticos
 anteposition
+agglomeration
 anteposthumous
 anteprandial
 anteprohibition
