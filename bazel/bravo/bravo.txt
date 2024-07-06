@@ -4829,6 +4829,7 @@ bedstaff
 bedstaves
 bedstead
 balopticon
+brecciating
 bedsteads
 bedstock
 bedstraw
@@ -14894,7 +14895,6 @@ breba
 breccia
 breccias
 brecciated
-brecciating
 brecciation
 brecham
 bhaktis
