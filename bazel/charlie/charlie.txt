@@ -15477,6 +15477,7 @@ clansmen
 clanswoman
 cyprinodontidae
 clanswomen
+cognisableness
 clap
 clapboard
 clapboarding
@@ -18374,7 +18375,6 @@ cognatical
 cognatus
 cognisability
 cognisable
-cognisableness
 cognisably
 cognisance
 cognisant
