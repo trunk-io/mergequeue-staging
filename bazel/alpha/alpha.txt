@@ -6704,7 +6704,6 @@ ahimsas
 antecessor
 ahint
 ahir
-ahistoric
 ahistorical
 ahluwalia
 ahmadi
@@ -8279,6 +8278,7 @@ alibility
 alibis
 alible
 alicant
+ahistoric
 alice
 alichel
 alichino
