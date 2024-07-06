@@ -2814,7 +2814,6 @@ elephantlike
 elephantoid
 elephantoidal
 eyestone
-elephantopus
 elephantous
 emetically
 elephantry
@@ -11611,6 +11610,7 @@ evildoers
 evildoing
 eyebridled
 eviler
+elephantopus
 euryte
 enquicken
 evilest
