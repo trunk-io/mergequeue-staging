@@ -944,7 +944,6 @@ etherealized
 esdras
 expelled
 ectotherm
-ectothermic
 elytrous
 ectotoxin
 ectotrophi
@@ -3890,6 +3889,7 @@ eorhyolite
 elicitory
 emetins
 easiness
+ectothermic
 emetocathartic
 extrabulbar
 earable
