@@ -6957,6 +6957,7 @@ beshouting
 beshouts
 boar
 beshow
+bisabol
 beshower
 beshrew
 beshrewing
@@ -9617,7 +9618,6 @@ births
 bisque
 birthstones
 birthwort
-bisabol
 bysacki
 bisacromial
 bisagre
