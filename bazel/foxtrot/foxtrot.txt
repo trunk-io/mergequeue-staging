@@ -2282,7 +2282,6 @@ fendillation
 fending
 fends
 fenestellae
-fenester
 fenestral
 fenestration
 fenestrule
@@ -3437,6 +3436,7 @@ footprints
 figurial
 flushy
 figurine
+fenester
 figurist
 formalins
 figurize
