@@ -2712,7 +2712,6 @@ gainst
 genesitic
 genet
 genethliacal
-gripper
 glycans
 genethliacs
 genethlialogy
@@ -10702,6 +10701,7 @@ gustatory
 gustatorially
 gustavus
 gustful
+gripper
 gustfulness
 gusty
 gustier
