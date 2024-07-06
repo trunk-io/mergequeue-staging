@@ -5129,7 +5129,6 @@ endocervical
 endocervicitis
 endochylous
 endochorionic
-endochrome
 endocycle
 endocyclic
 endocyemate
@@ -5763,6 +5762,7 @@ englify
 english
 englishable
 enfoil
+endochrome
 eadi
 englisher
 enhalo
