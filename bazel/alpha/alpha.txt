@@ -10819,7 +10819,6 @@ ammelin
 ammeline
 ammeos
 ammer
-ammeter
 ammeters
 ammi
 ammiaceous
@@ -20626,6 +20625,7 @@ arthroendoscopy
 arthrogastra
 arthrogastran
 arthrogenous
+ammeter
 antarala
 arthrography
 arthrogryposis
