@@ -1287,7 +1287,6 @@ anagrammatism
 academized
 acadia
 acadialite
-acadian
 acadie
 acaena
 acajou
@@ -24799,6 +24798,7 @@ avocado
 avocadoes
 avocados
 avocat
+acadian
 avocate
 avocation
 avocational
