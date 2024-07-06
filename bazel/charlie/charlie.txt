@@ -13319,7 +13319,6 @@ cyclian
 crookbilled
 cyclic
 cyclical
-cyclicality
 cyclicalness
 cyclide
 cyclindroid
@@ -23615,6 +23614,7 @@ contorno
 contorsive
 contort
 contorta
+cyclicality
 contortae
 contorted
 contortedly
