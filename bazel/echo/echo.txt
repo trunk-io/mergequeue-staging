@@ -305,7 +305,6 @@ euphoniousness
 eastward
 eastwardly
 eat
-eatability
 eatableness
 eatables
 eatberry
@@ -4227,6 +4226,7 @@ emplume
 emplunge
 empocket
 empodia
+eatability
 eupolidean
 executable
 endameba
