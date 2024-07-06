@@ -7788,7 +7788,6 @@ forepad
 forepayment
 forepale
 forepaled
-foreparent
 foreparents
 forepart
 foreparts
@@ -11711,6 +11710,7 @@ futurity
 futurities
 florideous
 frightable
+foreparent
 futurition
 futurize
 frocks

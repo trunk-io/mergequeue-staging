@@ -5090,7 +5090,6 @@ gumby
 gladly
 gibbets
 gladness
-gladnesses
 greenable
 glenoid
 glads
@@ -6335,6 +6334,7 @@ gnawings
 glucase
 gnaws
 glacis
+gladnesses
 gneiss
 gneissy
 garau
