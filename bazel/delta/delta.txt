@@ -1270,7 +1270,6 @@ dattos
 doitrified
 datum
 dardanarius
-datura
 daturic
 dyophysitic
 dispetal
@@ -18324,6 +18323,7 @@ duopoly
 duopolies
 duopolist
 duopolistic
+datura
 duopsony
 deception
 dreamscape
