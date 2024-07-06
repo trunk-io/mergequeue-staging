@@ -2294,6 +2294,7 @@ cancerweed
 cancerwort
 canch
 cancha
+checkbird
 canchalagua
 crocard
 canchas
@@ -9543,7 +9544,6 @@ check
 checkable
 checkage
 checkback
-checkbird
 checkbit
 checkbite
 checkbits
