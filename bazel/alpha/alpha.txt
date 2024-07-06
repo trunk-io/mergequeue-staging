@@ -14127,7 +14127,6 @@ antagonise
 antagonised
 antagonising
 antagonism
-antagonisms
 antagonist
 antagonistic
 antagonistical
@@ -22850,6 +22849,7 @@ atresia
 atresic
 arythmias
 atretic
+antagonisms
 atreus
 apotelesm
 atry
