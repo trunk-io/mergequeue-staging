@@ -4757,7 +4757,6 @@ bedouins
 bedouse
 bradding
 bedpan
-bibliographer
 besmirching
 bedpans
 bedplates
@@ -16717,6 +16716,7 @@ budling
 budmash
 budorcas
 buds
+bibliographer
 biorythmic
 billbug
 budtime
