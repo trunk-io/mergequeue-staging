@@ -8886,6 +8886,7 @@ allocates
 allocating
 allocation
 allocations
+autorotation
 allocator
 allocators
 allocatur
@@ -24369,7 +24370,6 @@ autorhythmus
 autoriser
 autorotate
 amastia
-autorotation
 autorotational
 autoroute
 autorrhaphy
