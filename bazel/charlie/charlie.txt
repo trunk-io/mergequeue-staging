@@ -1243,7 +1243,6 @@ calyceal
 cyprinus
 croupon
 calyceraceae
-cyclosporous
 calyceraceous
 calices
 calyces
@@ -9778,6 +9777,7 @@ cheirolin
 cheiroline
 cheirology
 cheiromancy
+cyclosporous
 cheiromegaly
 cheiropatagium
 cheiropod
