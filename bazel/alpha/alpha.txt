@@ -16669,7 +16669,6 @@ acetopyrin
 aortarctia
 aortas
 aortectasia
-aortectasis
 aortic
 aorticorenal
 aortitis
@@ -21339,6 +21338,7 @@ askos
 aslake
 aslantwise
 aslaver
+aortectasis
 asleep
 antetemple
 aslope
