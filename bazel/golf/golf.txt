@@ -2602,7 +2602,6 @@ grottos
 genecor
 geneki
 groupage
-genepi
 genera
 generable
 geisotherm
@@ -5002,6 +5001,7 @@ gounau
 grease
 glaceing
 glaces
+genepi
 glaciable
 gastromenia
 glacialism
