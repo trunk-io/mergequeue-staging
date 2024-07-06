@@ -14369,7 +14369,6 @@ clinorhombic
 circumgyratory
 circumhorizontal
 circumincession
-circuminsular
 circumjacence
 circumjacency
 circumjacencies
@@ -17145,6 +17144,7 @@ coadnate
 corneter
 coadore
 coadsorbent
+circuminsular
 compupil
 coadunate
 coadunated
