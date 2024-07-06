@@ -552,6 +552,7 @@ backstage
 backstay
 backstairs
 backstays
+bungs
 berend
 backstamp
 borghese
@@ -9499,7 +9500,6 @@ birdstone
 birdwatch
 browpiece
 birdweed
-bungs
 birdwise
 birdwitted
 birdwoman
