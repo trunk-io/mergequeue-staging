@@ -5509,6 +5509,7 @@ deoxidisation
 depopulator
 disulfids
 deoxidise
+djellab
 deoxidised
 deoxidiser
 deoxidize
@@ -14584,7 +14585,6 @@ djebels
 djehad
 djelfa
 desmocytoma
-djellab
 deferens
 djellaba
 dichasia
