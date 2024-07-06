@@ -8297,7 +8297,6 @@ bifolia
 bifoliate
 brant
 bifoliolate
-bifolium
 bifollicular
 biforate
 biforin
@@ -11571,6 +11570,7 @@ boaedon
 boagane
 boanergean
 boanerges
+bifolium
 boanthropy
 bibbed
 bediamonded
