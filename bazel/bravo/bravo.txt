@@ -11137,6 +11137,7 @@ bloodstainedness
 blackgum
 bloodstains
 bloodstanch
+brother
 bloodstock
 bloodstones
 bloodstream
@@ -16106,7 +16107,6 @@ brothel
 brotheler
 brothelry
 brothels
-brother
 brothered
 brotherhood
 brothering

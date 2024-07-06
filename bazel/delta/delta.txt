@@ -6060,7 +6060,6 @@ derangeable
 derangement
 deranger
 deranges
-deader
 derat
 derate
 derated
@@ -13109,6 +13108,7 @@ displays
 displant
 displanted
 disgust
+deader
 disgrace
 displanting
 disentanglements
