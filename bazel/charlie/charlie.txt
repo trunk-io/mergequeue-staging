@@ -2218,7 +2218,6 @@ canallers
 canalling
 canalman
 canals
-canalside
 clairschacher
 canamo
 cananaean
@@ -11485,6 +11484,7 @@ choco
 chocoan
 chocolate
 chocolatey
+canalside
 chocolates
 chocolaty
 chucked
