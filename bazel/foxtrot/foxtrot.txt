@@ -3960,7 +3960,6 @@ fortunetell
 finishing
 finitesimal
 frab
-fervidor
 finity
 finitism
 finitude
@@ -6592,6 +6591,7 @@ frumenties
 fluxroot
 frostweed
 fn
+fervidor
 flashet
 footcloth
 foalfoot
