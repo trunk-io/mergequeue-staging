@@ -1486,7 +1486,6 @@ demilune
 disform
 distastefulness
 deaconing
-deaconry
 deaconries
 deacons
 deaconship
@@ -15011,6 +15010,7 @@ downweigh
 doglegging
 disintegrating
 dogless
+deaconry
 dribbed
 diabetometer
 dogly
