@@ -1341,7 +1341,6 @@ acanthocephala
 acanthocephalan
 acanthocephalous
 acanthocereus
-acanthocladous
 acanthodea
 acanthodean
 acct
@@ -10418,6 +10417,7 @@ anthologizes
 americanitis
 americanize
 americanized
+acanthocladous
 antitangent
 automated
 adjustation
