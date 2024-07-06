@@ -5355,6 +5355,7 @@ affections
 affectious
 affective
 affectively
+anfractuous
 affectless
 affectlessness
 affector
@@ -12754,7 +12755,6 @@ anfract
 anfractuose
 anfractuosity
 aloddia
-anfractuous
 anfractuousness
 anfracture
 anga
