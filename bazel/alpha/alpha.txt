@@ -5467,6 +5467,7 @@ affloof
 affluence
 affluency
 affluent
+analgesidae
 affluently
 affluentness
 affluents
@@ -11831,7 +11832,6 @@ analgene
 analgesia
 analgesic
 analgesics
-analgesidae
 analgesist
 apocalyptism
 acetylenogen

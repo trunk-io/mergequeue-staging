@@ -1554,7 +1554,6 @@ dustproof
 deadpay
 deadpan
 deadpans
-deadrise
 deadrize
 ditting
 deadtongue
@@ -14769,6 +14768,7 @@ decidedness
 doctrinate
 doctrine
 doctrines
+deadrise
 doctrinism
 duties
 demain
