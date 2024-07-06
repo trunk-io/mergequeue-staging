@@ -4157,6 +4157,7 @@ firesafe
 firesafeness
 firesafety
 flagellation
+fmt
 faufel
 fireside
 firesider
@@ -5500,7 +5501,6 @@ foreigners
 flicky
 flidge
 flyeater
-fmt
 flied
 foetiferous
 flyer
