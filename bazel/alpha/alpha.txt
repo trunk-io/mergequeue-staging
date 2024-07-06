@@ -3103,7 +3103,6 @@ arenas
 acheilary
 actin
 actinal
-actinally
 actinautography
 actinautographic
 actinenchyma
@@ -3176,6 +3175,7 @@ actinometric
 actinometricy
 actinomyces
 actinomycese
+actinally
 actinomycesous
 actinomycestal
 actinomycetaceae
