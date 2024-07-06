@@ -1410,7 +1410,6 @@ baldy
 baldish
 baldling
 baldmoney
-baldness
 baldnesses
 baldoquin
 baldpate
@@ -10203,6 +10202,7 @@ blacklegging
 binturong
 biffs
 blacklegism
+baldness
 befriender
 blacklegs
 ballbuster
