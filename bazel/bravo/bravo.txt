@@ -3712,6 +3712,7 @@ batsmen
 batswing
 batt
 bammed
+blicky
 battable
 brakemen
 battailant
@@ -10864,7 +10865,6 @@ bliaut
 blick
 blickey
 blickeys
-blicky
 betone
 blickies
 blier

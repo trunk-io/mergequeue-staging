@@ -1399,6 +1399,7 @@ callan
 callans
 callants
 callas
+checked
 callat
 callate
 callback
@@ -9550,7 +9551,6 @@ checkbits
 checkbook
 checkbooks
 checke
-checked
 checker
 checkerbelly
 checkerbellies
