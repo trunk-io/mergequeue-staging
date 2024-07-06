@@ -2353,7 +2353,6 @@ barbarise
 barbarising
 barbarism
 barbarisms
-barbarity
 benniseed
 barbarities
 barbarization
@@ -12111,6 +12110,7 @@ boldacious
 bravest
 bolder
 bolderian
+barbarity
 boldface
 bostrychoid
 boldfaced
