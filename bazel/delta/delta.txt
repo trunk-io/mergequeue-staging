@@ -6262,7 +6262,6 @@ daguerreotyped
 demounting
 diploneural
 dermatophytic
-dermatophytosis
 dermatophobia
 dermatophone
 dermatophony
@@ -15482,6 +15481,7 @@ dongolese
 dongon
 doni
 desponds
+dermatophytosis
 dendritically
 donjon
 departements
