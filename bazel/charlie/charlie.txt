@@ -5076,6 +5076,7 @@ casettes
 caseum
 cystenchymatous
 casework
+chartroom
 caseworker
 caseworkers
 communes
@@ -9209,7 +9210,6 @@ chartophylacium
 chartophylax
 chartophylaxes
 chartreux
-chartroom
 charts
 chartula
 chartulae
