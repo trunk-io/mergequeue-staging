@@ -7589,7 +7589,6 @@ fgn
 fretter
 filigraned
 flaneur
-foredooms
 foredune
 forefaces
 fescenninity
@@ -10266,6 +10265,7 @@ fringillid
 frock
 frockless
 frocklike
+foredooms
 froebelism
 froebelist
 froeman

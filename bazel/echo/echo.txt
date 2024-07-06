@@ -2350,7 +2350,6 @@ enterochromaffin
 electrochronometric
 electrocystoscope
 erythrophore
-electrocoating
 electrocolloidal
 electrocontractility
 electroconvulsive
@@ -12600,6 +12599,7 @@ endsweep
 existence
 existentialism
 existentialist
+electrocoating
 existentialistic
 enteropneustal
 embezzled
