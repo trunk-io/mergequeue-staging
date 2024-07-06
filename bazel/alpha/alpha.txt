@@ -8606,7 +8606,6 @@ alkyloxy
 amianthium
 alkin
 alkine
-alkynes
 alkitran
 alkool
 aucuba
@@ -22021,6 +22020,7 @@ asteam
 asteep
 asteer
 astel
+alkynes
 astely
 astelic
 azymite
