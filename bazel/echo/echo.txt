@@ -6737,6 +6737,7 @@ epilogs
 entertake
 entertissue
 entete
+ectrogenic
 erudit
 empyrical
 exantlate
@@ -12291,7 +12292,6 @@ exect
 executant
 exostome
 execute
-ectrogenic
 executed
 exoarteritis
 executes
