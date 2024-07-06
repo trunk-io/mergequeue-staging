@@ -3794,7 +3794,6 @@ deicidal
 deicide
 deicides
 deicing
-deidealize
 durmast
 deidesheimer
 description
@@ -15214,6 +15213,7 @@ dollie
 discoursed
 dollied
 dollier
+deidealize
 dollies
 dollying
 dollymen
