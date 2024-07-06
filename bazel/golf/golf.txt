@@ -1370,6 +1370,7 @@ gov
 gardy
 gardyloo
 gardnap
+giher
 gaufrettes
 gamesmanship
 gare
@@ -6716,7 +6717,6 @@ gnathopod
 goldthread
 goldtit
 goldurn
-giher
 galeopithecus
 goldworker
 grimness
