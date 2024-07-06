@@ -20247,6 +20247,7 @@ arreption
 arrest
 arrestable
 arrestant
+arval
 arrestation
 arrested
 arrestee
@@ -20857,7 +20858,6 @@ archpapist
 aruspice
 aruspices
 aruspicy
-arval
 arvejon
 arvel
 acquiescence

@@ -4310,7 +4310,6 @@ beaverite
 bigeyes
 bipedal
 beaverize
-beaverkill
 beaverlike
 beaverpelt
 backplanes
@@ -5627,6 +5626,7 @@ beleaguers
 bisognio
 beleap
 backbends
+beaverkill
 belitter
 beleaps
 beleapt
