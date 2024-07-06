@@ -17150,7 +17150,6 @@ dryness
 dognaping
 drink
 drinkability
-drinkable
 drinkably
 deuteric
 discriminations
@@ -17838,6 +17837,7 @@ dissertation
 diasystem
 duct
 ducted
+drinkable
 dravidic
 ductibility
 ductible
