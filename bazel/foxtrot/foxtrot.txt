@@ -742,7 +742,6 @@ fieldpieces
 fancier
 fanciers
 fleshlessness
-fanciest
 foliot
 fancifully
 fancying
@@ -6411,6 +6410,7 @@ frowl
 fluorimeter
 fluorimetry
 fermila
+fanciest
 fluorin
 fittingly
 fenestrate
