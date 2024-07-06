@@ -5844,7 +5844,6 @@ boxcar
 bellow
 bellowed
 bellowers
-bellows
 bellowsful
 bellowslike
 bellowsmaker
@@ -6618,6 +6617,7 @@ berbers
 berceaunette
 bercelet
 bathochromy
+bellows
 berceuse
 blithesome
 berchta
