@@ -11390,7 +11390,6 @@ chloromycetin
 columbate
 chloronitrate
 chloropal
-chloropalladates
 chloropalladic
 chlorophaeite
 chlorophane
@@ -12077,6 +12076,7 @@ choroti
 chorous
 chorten
 chorti
+chloropalladates
 chortle
 chares
 chortled
