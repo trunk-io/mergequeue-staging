@@ -9420,6 +9420,7 @@ dogbane
 diffuse
 diffused
 diffusely
+dashplate
 divulsion
 diffuseness
 demisacrilege
@@ -11967,7 +11968,6 @@ disemploy
 disemployed
 disemploying
 dorados
-dashplate
 disemployment
 devilship
 dispeace
