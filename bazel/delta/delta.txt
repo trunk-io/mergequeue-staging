@@ -2940,7 +2940,6 @@ deducer
 deduces
 deducibility
 deducibly
-dogtrick
 dolce
 deducing
 deducive
@@ -16434,6 +16433,7 @@ doxologize
 doxologized
 doz
 defectible
+dogtrick
 doze
 dozed
 dozened
