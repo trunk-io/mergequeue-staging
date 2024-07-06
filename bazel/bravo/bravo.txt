@@ -5581,7 +5581,6 @@ bastion
 biface
 belam
 belamcanda
-bonne
 belanda
 belander
 baser
@@ -6206,6 +6205,7 @@ bytownitite
 bengalese
 bengaline
 bengals
+bonne
 bengola
 besing
 beni
