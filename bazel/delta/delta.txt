@@ -3480,7 +3480,6 @@ deformative
 deformed
 deformedly
 deformedness
-dashwheel
 deformer
 deformeter
 deforming
@@ -5792,6 +5791,7 @@ devastates
 decastich
 depopulators
 deport
+dashwheel
 deportability
 deportation
 deporte
