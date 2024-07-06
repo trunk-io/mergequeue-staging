@@ -3268,7 +3268,6 @@ capricornus
 caprid
 caprificate
 caprification
-caprificator
 caprifig
 caprifigs
 caprifoil
@@ -3911,6 +3910,7 @@ cardamons
 cardamum
 cheeseparer
 cardamums
+caprificator
 cardanic
 cardanol
 cercle
