@@ -1375,7 +1375,6 @@ acanthoses
 acanthosis
 acanthotic
 acanthuridae
-acanthurus
 aarrgh
 acanthuses
 acanthuthi
@@ -23596,6 +23595,7 @@ auriflamme
 auriform
 advisy
 auriga
+acanthurus
 aurigal
 aurigation
 aurigerous
