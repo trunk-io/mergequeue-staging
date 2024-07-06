@@ -7760,7 +7760,6 @@ alcohol
 alcoholature
 alcoholemia
 alcoholic
-alcoholically
 alcoholicity
 alcoholics
 animalhood
@@ -14972,6 +14971,7 @@ anticentralization
 astrogony
 anticephalalgic
 anticeremonial
+alcoholically
 anticeremonialist
 anticeremonially
 arabesquely
