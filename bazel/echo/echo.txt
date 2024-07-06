@@ -3777,7 +3777,6 @@ embrutes
 embruting
 embubble
 eulamellibranchiata
-embuia
 embolomerism
 embulk
 embus
@@ -8087,6 +8086,7 @@ epiphysis
 electroaffinity
 epiphytal
 epiphyte
+embuia
 emerize
 epiphytes
 epiphytically
