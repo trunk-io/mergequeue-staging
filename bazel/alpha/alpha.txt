@@ -3447,6 +3447,7 @@ asaraceae
 adamantoblast
 aethalium
 adamantoblastoma
+aerotactic
 adamantoid
 adamantoma
 alfred
@@ -5182,7 +5183,6 @@ antisepticist
 aerostation
 aerostats
 aerosteam
-aerotactic
 aerotaxis
 aerotechnical
 aerotechnics
