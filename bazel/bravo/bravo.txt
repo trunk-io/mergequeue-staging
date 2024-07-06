@@ -2811,6 +2811,7 @@ barns
 barnstorm
 bothropic
 barnstormed
+bastiles
 barnstormer
 barnstormers
 barnstorming
@@ -12785,7 +12786,6 @@ boomlet
 boomlets
 booms
 boomslang
-bastiles
 boomslange
 boomster
 boon
