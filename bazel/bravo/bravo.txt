@@ -5095,7 +5095,6 @@ befitted
 bing
 befitting
 befittingly
-bipunctal
 blooming
 befittingness
 beflag
@@ -16737,6 +16736,7 @@ buffability
 buffalo
 buffaloback
 blasty
+bipunctal
 buffaloes
 buffalofishes
 bannerfish
