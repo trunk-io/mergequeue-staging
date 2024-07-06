@@ -2848,7 +2848,6 @@ enorm
 elevatingly
 equiprobability
 elevation
-elevational
 eucalypt
 epitactic
 eyren
@@ -4251,6 +4250,7 @@ empresario
 empress
 empresse
 empresses
+elevational
 empressment
 emprint
 ennoblingly
