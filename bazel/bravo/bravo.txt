@@ -445,7 +445,6 @@ bowdlerizer
 backlings
 backlists
 briefness
-backlit
 backlogged
 backlogging
 backlogs
@@ -4236,6 +4235,7 @@ beatitudes
 beatles
 burgle
 beatless
+backlit
 beatnik
 beatrix
 brattice
