@@ -5899,6 +5899,7 @@ floors
 folkways
 floorshift
 floorwalker
+functioned
 floorwalkers
 floorward
 furniment
@@ -11097,7 +11098,6 @@ functionals
 functionary
 fremd
 functionation
-functioned
 functioning
 featural
 functionize
