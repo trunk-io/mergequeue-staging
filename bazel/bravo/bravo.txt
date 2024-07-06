@@ -4813,7 +4813,6 @@ bedsheet
 blackboards
 brookflower
 bedside
-bedsit
 bedsite
 bedsitter
 bedsonia
@@ -10834,6 +10833,7 @@ bless
 blesse
 bedward
 boul
+bedsit
 blessed
 bearhug
 blesseder
