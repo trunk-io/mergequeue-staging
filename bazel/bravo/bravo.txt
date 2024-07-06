@@ -893,7 +893,6 @@ bagatelles
 bagatine
 biparasitic
 bagattino
-bagaudae
 bagdi
 bagels
 bagful
@@ -14882,6 +14881,7 @@ brevi
 breastwood
 breastworks
 bandh
+bagaudae
 batara
 brothership
 breath
