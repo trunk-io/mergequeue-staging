@@ -2666,6 +2666,7 @@ datos
 draconic
 decomposable
 decompose
+doab
 decomposed
 decomposer
 derog
@@ -14616,7 +14617,6 @@ dm
 dmarche
 dnieper
 doa
-doab
 dissceptred
 doability
 doable
