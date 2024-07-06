@@ -3041,7 +3041,6 @@ acropolises
 acropolitan
 acropora
 acropore
-acrosarc
 addlebrain
 acrosarca
 acrosarcum
@@ -23932,6 +23931,7 @@ autocatalyses
 autocatalysis
 amphogenic
 autocatalytic
+acrosarc
 antidromal
 adopt
 autocatalyze

@@ -9089,7 +9089,6 @@ foxhole
 foxhound
 filigrane
 fayles
-foxhounds
 freenesses
 filterer
 foxie
@@ -9575,6 +9574,7 @@ fleetful
 freeboot
 fencing
 frithborh
+foxhounds
 ferrometer
 freebooter
 faroeish
