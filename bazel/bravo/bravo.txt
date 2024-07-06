@@ -3529,7 +3529,6 @@ bumbass
 brachycephalous
 batched
 batchers
-batches
 bargemen
 batea
 bateaux
@@ -16019,6 +16018,7 @@ bronze
 bronzed
 bronzer
 bronzers
+batches
 bronzes
 bronzewing
 bronzify
