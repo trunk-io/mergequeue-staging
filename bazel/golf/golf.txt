@@ -3594,7 +3594,6 @@ garnisher
 glebal
 gotta
 gesneriaceae
-granulator
 grotesquerie
 gesneriaceous
 gess
@@ -7911,6 +7910,7 @@ granadillo
 granadine
 granado
 granage
+granulator
 granam
 granary
 gapping
