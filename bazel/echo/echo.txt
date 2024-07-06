@@ -3706,7 +3706,6 @@ embryotegae
 endocarditis
 embryotic
 embryotome
-embryotomy
 embryotomies
 embryotroph
 embryotrophic
@@ -13333,6 +13332,7 @@ exposure
 envassalage
 exposures
 expound
+embryotomy
 expounder
 episcenium
 expounding
