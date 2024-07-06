@@ -10290,7 +10290,6 @@ furfuramide
 fridge
 frogginess
 frogging
-froggish
 froghood
 froghopper
 frogleaf
@@ -11539,6 +11538,7 @@ fusariose
 fusariosis
 fusarium
 fusate
+froggish
 fuscescent
 fuscin
 fuscous
