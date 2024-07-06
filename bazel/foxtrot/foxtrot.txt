@@ -3420,7 +3420,6 @@ figurants
 fulgurantly
 figurately
 figuration
-figurations
 figuratively
 forby
 figured
@@ -9340,6 +9339,7 @@ francophil
 francophile
 flaunts
 frogmouths
+figurations
 francophobe
 flatbrod
 francophone
