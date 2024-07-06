@@ -375,7 +375,6 @@ autopsist
 avalanched
 abet
 abetment
-abetments
 abets
 abettal
 abettals
@@ -13519,6 +13518,7 @@ anywhere
 antisepsis
 anywhereness
 anywise
+abetments
 anywither
 adenoses
 anhalonium
