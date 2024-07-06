@@ -20574,7 +20574,6 @@ arthemis
 arthogram
 arthra
 arterialising
-arthral
 arthrectomy
 atrede
 arthrectomies
@@ -22141,6 +22140,7 @@ astylosternus
 astint
 astipulate
 astipulation
+arthral
 astir
 astite
 astogeny
