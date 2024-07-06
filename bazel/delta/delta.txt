@@ -4114,6 +4114,7 @@ deligation
 delightable
 dichroic
 delighted
+disguise
 delightedly
 deceleration
 delighter
@@ -12278,7 +12279,6 @@ disguisable
 dank
 darwinian
 disguisal
-disguise
 disguised
 disguisedly
 disguisedness
