@@ -5354,7 +5354,6 @@ flemishing
 flenched
 famine
 frontispieces
-flinging
 flensed
 frangulin
 flenser
@@ -11096,6 +11095,7 @@ functionals
 functionary
 fremd
 functionation
+flinging
 functioning
 featural
 functionize
