@@ -6562,7 +6562,6 @@ cerographer
 ceded
 corpulence
 cedens
-ceder
 ceders
 cedes
 cedi
@@ -10506,6 +10505,7 @@ chilaria
 clerics
 chilarium
 chilblained
+ceder
 chilblains
 child
 childage
