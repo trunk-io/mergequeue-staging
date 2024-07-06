@@ -1582,7 +1582,6 @@ favel
 filosofe
 favelidium
 favella
-favellae
 fen
 favellidium
 favellilidia
@@ -6701,6 +6700,7 @@ fogbow
 fogdogs
 fogdom
 foge
+favellae
 fogeater
 fogey
 fogfruit

@@ -14062,7 +14062,6 @@ brachyphalangia
 brachyphyllum
 brachypinacoid
 brachypinacoidal
-brachypleural
 benin
 balanoglossida
 blastoporic
@@ -17331,6 +17330,7 @@ bunch
 bunchberries
 buncher
 blankness
+brachypleural
 boho
 bunchflower
 bunchy
