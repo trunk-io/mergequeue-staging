@@ -6065,7 +6065,6 @@ glowworms
 grille
 gibbeting
 gloxinias
-glozed
 glozer
 glozes
 grummels
@@ -8075,6 +8074,7 @@ getter
 granitiferous
 gramercies
 granitification
+glozed
 grandnephew
 garbling
 granitite
