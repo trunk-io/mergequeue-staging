@@ -2564,7 +2564,6 @@ ferrotype
 ferrotyper
 fraxinella
 froebelian
-forte
 farls
 ferrotypes
 ferrotungsten
@@ -10422,6 +10421,7 @@ frontosphenoidal
 feazes
 frontotemporal
 frontozygomatic
+forte
 footling
 frictionally
 fcy
