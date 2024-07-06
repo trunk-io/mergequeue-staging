@@ -2536,7 +2536,6 @@ graniferous
 gestening
 gemologies
 gemologist
-geranomorph
 gemologists
 gemonies
 gemot
@@ -8762,6 +8761,7 @@ greeted
 ginward
 greeter
 glorifier
+geranomorph
 groff
 gneissic
 greetingly
