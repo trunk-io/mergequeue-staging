@@ -5607,6 +5607,7 @@ flavorfully
 flip
 focalise
 findable
+forepaws
 frayn
 flypaper
 ferns
@@ -7810,7 +7811,6 @@ forepart
 foreparts
 forepass
 forepaw
-forepaws
 fragmentariness
 frailties
 fireworks
