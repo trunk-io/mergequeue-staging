@@ -10509,6 +10509,7 @@ diddest
 diphthongise
 dalar
 diphthongised
+downset
 diphthongization
 diphthongize
 diphthongized
@@ -16353,7 +16354,6 @@ downright
 downrightly
 downrightness
 downrush
-downset
 downshift
 degradability
 downshifts
