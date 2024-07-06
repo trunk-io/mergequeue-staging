@@ -3644,6 +3644,7 @@ adduce
 antilyssic
 aberuncator
 adduceable
+afferently
 adduced
 adducent
 adducer
@@ -20468,7 +20469,6 @@ arsonic
 arsonist
 antalgic
 aedegi
-afferently
 arsonists
 arsonite
 arsonium
