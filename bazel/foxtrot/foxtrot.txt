@@ -3163,7 +3163,6 @@ fidawi
 fidded
 ferroinclave
 fidding
-fiddle
 fiddleback
 fretty
 fiddlebow
@@ -9799,6 +9798,7 @@ fream
 frenular
 frenulum
 featherbedded
+fiddle
 frenums
 frenuna
 fanwright
