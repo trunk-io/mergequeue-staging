@@ -459,7 +459,6 @@ backpack
 backpacked
 borosalicylic
 backpackers
-backpacking
 backpedal
 backpedaling
 backpiece
@@ -5879,6 +5878,7 @@ belong
 belonging
 belongings
 belongs
+backpacking
 belonid
 belonidae
 belonite
