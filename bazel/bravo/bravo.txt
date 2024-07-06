@@ -1453,7 +1453,6 @@ barratries
 bales
 balestra
 balete
-bark
 balewort
 bali
 battening
@@ -16708,6 +16707,7 @@ bacaba
 boophilus
 budgeters
 budgets
+bark
 budgie
 budgies
 budless
