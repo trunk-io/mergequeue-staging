@@ -2342,6 +2342,7 @@ grolier
 gekkonoid
 gallivanter
 gel
+gossans
 gelada
 gliffing
 geladas
@@ -7368,7 +7369,6 @@ gossamered
 good
 gunfights
 gossaniferous
-gossans
 gossard
 gossy
 gossipdom
