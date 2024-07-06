@@ -3232,7 +3232,6 @@ gestations
 geoprumnon
 georama
 georgette
-georgia
 georgiadesite
 georgian
 georgiana
@@ -5740,6 +5739,7 @@ globs
 gaplessness
 globular
 grata
+georgia
 grein
 gconvert
 globularia
