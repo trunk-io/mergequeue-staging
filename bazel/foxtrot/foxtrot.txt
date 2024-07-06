@@ -5361,7 +5361,6 @@ flensing
 flerry
 flerried
 fleshbrush
-fleshen
 fogydom
 furlers
 fleshers
@@ -10109,6 +10108,7 @@ frypan
 frypans
 friponerie
 flamelet
+fleshen
 fripperer
 featherlet
 fragilariaceae
