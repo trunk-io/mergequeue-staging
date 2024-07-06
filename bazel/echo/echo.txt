@@ -3353,7 +3353,6 @@ echards
 embannered
 emmarvel
 embaphium
-embarcadero
 embarcation
 efformation
 embarge
@@ -7957,6 +7956,7 @@ epilimnion
 epilimnionia
 epilithic
 epyllia
+embarcadero
 excipula
 epilobe
 entropium
