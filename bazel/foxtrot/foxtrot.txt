@@ -5012,6 +5012,7 @@ flatbottom
 fosslify
 flatcaps
 flatcar
+favorless
 flatcars
 fatalism
 flatdom
@@ -5847,7 +5848,6 @@ floodable
 fluoaluminate
 floodage
 fondus
-favorless
 floodboard
 floodcock
 flooded
