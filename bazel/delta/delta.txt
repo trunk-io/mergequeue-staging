@@ -4483,7 +4483,6 @@ demerse
 demersed
 demesgne
 demesman
-deticker
 dialyse
 demesne
 demesnes
@@ -7348,6 +7347,7 @@ diancecht
 detoxicate
 detoxicated
 detoxication
+deticker
 detoxicator
 diageotropic
 detoxify
