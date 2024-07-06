@@ -77,7 +77,6 @@ euclidian
 enneahedra
 earlish
 earlywood
-earlocks
 earls
 earlship
 euryalean
@@ -13241,6 +13240,7 @@ exploratively
 explorator
 epiphysial
 exploratory
+earlocks
 epistolized
 explore
 explored

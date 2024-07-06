@@ -4856,7 +4856,6 @@ fishbed
 fulcrumed
 fellsman
 flancard
-flanch
 flanchard
 flanche
 flanconnade
@@ -8789,6 +8788,7 @@ fossilisable
 fossilised
 feuterer
 financiers
+flanch
 fyttes
 fetes
 fantasist
