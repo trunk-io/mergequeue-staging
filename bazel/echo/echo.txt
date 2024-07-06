@@ -8680,7 +8680,6 @@ equilateral
 equilibrant
 equilibrate
 epitrochlear
-equilibrates
 equilibrating
 explantation
 exonerates
@@ -12797,6 +12796,7 @@ equivocacies
 exorcized
 elongates
 enzymically
+equilibrates
 entrada
 exorcizement
 exorcizing
