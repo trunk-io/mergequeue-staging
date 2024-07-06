@@ -11737,6 +11737,7 @@ bobstays
 bobtail
 bobtailed
 bobtailing
+barricaded
 bobwhite
 bobwood
 brassic
@@ -16012,7 +16013,6 @@ bloodleaf
 banquette
 brontoscopy
 brontotherium
-barricaded
 brei
 bronze
 bronzed
