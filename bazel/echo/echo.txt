@@ -2678,7 +2678,6 @@ electrotypist
 electrotitration
 etherean
 electrotonicity
-electrotonize
 electrotropism
 egoize
 excheat
@@ -12494,6 +12493,7 @@ exhibit
 edict
 exhibitable
 exhibiter
+electrotonize
 exoperidium
 encephalology
 emda
