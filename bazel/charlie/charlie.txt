@@ -1720,7 +1720,6 @@ chelate
 camaldolensian
 camaldolese
 cambuscan
-camaldolesian
 camaldolite
 chilcat
 camaldule
@@ -17621,6 +17620,7 @@ coccoids
 coccolite
 coccolithophorid
 coccoloba
+camaldolesian
 chalazogam
 coccolobis
 coccomyces
