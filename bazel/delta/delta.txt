@@ -369,6 +369,7 @@ daikon
 dail
 diaphony
 dailamite
+depredicate
 dayless
 daily
 distr
@@ -5900,7 +5901,6 @@ depredation
 depredationist
 depredations
 depredatory
-depredicate
 deprehend
 deprehensible
 disdaining
