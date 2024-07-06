@@ -17359,6 +17359,7 @@ coastman
 coasts
 coastside
 coastwaiter
+completion
 coastward
 coastwards
 coastwise
@@ -20728,7 +20729,6 @@ completers
 censureless
 completest
 completing
-completion
 completions
 completive
 completively
