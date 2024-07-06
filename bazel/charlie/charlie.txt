@@ -5701,7 +5701,6 @@ congressmen
 catchpenny
 catchpennies
 catchphrase
-catchplate
 catchpoled
 canavalin
 catchpolery
@@ -10605,6 +10604,7 @@ csects
 chillest
 campimeter
 chilli
+catchplate
 crank
 chilly
 circination
