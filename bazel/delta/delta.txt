@@ -6190,7 +6190,6 @@ diazole
 dermacentor
 dermad
 dermal
-dermalgia
 dermalith
 dermamycosis
 dactylopodite
@@ -14826,6 +14825,7 @@ deltidium
 disgorges
 doddie
 doddies
+dermalgia
 dextrorotation
 deciceronize
 dodding
