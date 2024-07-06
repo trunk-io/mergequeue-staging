@@ -11644,7 +11644,6 @@ entomofauna
 enneatic
 eviscerates
 eviscerating
-eviscerator
 erythrochaete
 evisite
 evitable
@@ -13437,6 +13436,7 @@ engin
 exsanguinating
 encounter
 eggs
+eviscerator
 evergreenite
 etruscologist
 ecardinal
