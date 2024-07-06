@@ -3733,7 +3733,6 @@ carbones
 carbonic
 carbonide
 carbonify
-carbonification
 carbonigenous
 carbonyl
 carbonylate
@@ -6114,6 +6113,7 @@ catwalks
 crunching
 catwise
 catwort
+carbonification
 catzerie
 cauboge
 caucasian
