@@ -9502,6 +9502,7 @@ cheapened
 cheapener
 cheapening
 cheapens
+condensary
 cheaper
 cheapery
 cheapest
@@ -21633,7 +21634,6 @@ connaisseur
 condensability
 condensable
 condensance
-condensary
 condensaries
 condensates
 condensation
