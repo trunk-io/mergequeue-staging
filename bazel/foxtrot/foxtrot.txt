@@ -7077,7 +7077,6 @@ fleapit
 foolmonger
 fools
 fatherling
-foemen
 foolscaps
 favilla
 fooner
@@ -11404,6 +11403,7 @@ furless
 furling
 flannelly
 fiscality
+foemen
 furlong
 formalise
 furlongs
