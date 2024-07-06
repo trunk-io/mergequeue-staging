@@ -4149,7 +4149,6 @@ cares
 caress
 caressable
 caressed
-caresser
 caressers
 caresses
 caressingly
@@ -4940,6 +4939,7 @@ carvels
 carver
 carvers
 carvership
+caresser
 carves
 complexly
 capercally
