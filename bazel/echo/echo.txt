@@ -1989,7 +1989,6 @@ ejections
 ejective
 ejectively
 espigle
-ejectors
 ejectum
 ejicient
 exonship
@@ -4601,6 +4600,7 @@ encephalomyocarditis
 encephalopathy
 encephalopathia
 encephalopathic
+ejectors
 enmoss
 encephalopyosis
 endogenesis
