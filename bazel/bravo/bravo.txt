@@ -8902,7 +8902,6 @@ bishops
 binoculate
 bracingness
 binode
-binodose
 binodous
 binomen
 binomenclature
@@ -12168,6 +12167,7 @@ bolivar
 bolivares
 bolivars
 bolivia
+binodose
 boliviano
 bolivians
 buccula
