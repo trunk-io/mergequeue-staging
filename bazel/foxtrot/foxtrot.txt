@@ -6816,7 +6816,6 @@ folder
 folderol
 folderols
 folders
-foldy
 foldless
 frowzy
 foldouts
@@ -8073,6 +8072,7 @@ faldetta
 fretless
 foretold
 ferling
+foldy
 foretop
 foretopmast
 foretopmen
