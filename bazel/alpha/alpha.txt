@@ -8416,6 +8416,7 @@ aliner
 aliners
 alining
 alinit
+atomies
 alintatao
 aliofar
 alioth
@@ -22771,7 +22772,6 @@ atomically
 atomicism
 atomicity
 antiqueness
-atomies
 atomises
 atomising
 atomism
