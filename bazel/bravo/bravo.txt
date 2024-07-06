@@ -2605,7 +2605,6 @@ bargelli
 bargello
 bargellos
 bargeload
-bargemaster
 bargepole
 booklice
 barger
@@ -3675,6 +3674,7 @@ batman
 batmen
 batocrinidae
 bleeze
+bargemaster
 batoidei
 baton
 batoneer
