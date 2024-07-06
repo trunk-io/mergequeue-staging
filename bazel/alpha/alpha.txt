@@ -11878,6 +11878,7 @@ analyzer
 atimy
 analyzers
 analyzes
+angulous
 analyzing
 analkalinity
 anallagmatic
@@ -13125,7 +13126,6 @@ acarinosis
 angulose
 aquiform
 angulosity
-angulous
 angulus
 anguria
 anguses
