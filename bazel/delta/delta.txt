@@ -11131,7 +11131,6 @@ disard
 disarm
 digitise
 disarmature
-disarmed
 disarmer
 disarmers
 disarming
@@ -15554,6 +15553,7 @@ drumlike
 donzels
 doo
 doob
+disarmed
 doodab
 diesel
 doodad
