@@ -4032,7 +4032,6 @@ aubretia
 adjournal
 adjourned
 adjourning
-adjournment
 adjournments
 adjourns
 adjoust
@@ -16354,6 +16353,7 @@ antistrophal
 antistrophe
 antistrophic
 antistrophically
+adjournment
 antistrophize
 antispiritualist
 antistrophon
