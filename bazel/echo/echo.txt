@@ -4496,7 +4496,6 @@ encapsulations
 excresence
 encapsule
 encapsuled
-enjeopardy
 eleutheromorph
 encapsules
 externalization
@@ -13574,6 +13573,7 @@ extensimeter
 ergate
 extension
 extensional
+enjeopardy
 extensionality
 extensionally
 extensionist
