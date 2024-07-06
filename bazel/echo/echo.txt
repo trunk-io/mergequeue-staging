@@ -2842,7 +2842,6 @@ experimented
 elevating
 enorm
 elevatingly
-equiprobability
 elevation
 eucalypt
 epitactic
@@ -8983,6 +8982,7 @@ ergatogynous
 ergatoid
 ergatomorph
 euhemerizing
+equiprobability
 erysiphaceae
 ergatomorphic
 ergo
