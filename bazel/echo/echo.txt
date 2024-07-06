@@ -2221,6 +2221,7 @@ estriche
 eldermen
 eldern
 enunciators
+enfeature
 elders
 ephraimitish
 encephalosis
@@ -13113,7 +13114,6 @@ expertly
 epidiascope
 equiaxed
 electrooptics
-enfeature
 expertship
 expetible
 eliminates

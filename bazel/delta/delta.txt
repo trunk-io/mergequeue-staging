@@ -10003,7 +10003,6 @@ dimming
 dimmit
 drostden
 dimna
-dimness
 dimnesses
 dimolecular
 debriefs
@@ -17640,6 +17639,7 @@ drupal
 drupe
 dotardy
 drupel
+dimness
 drupelet
 drupelets
 drupeole
