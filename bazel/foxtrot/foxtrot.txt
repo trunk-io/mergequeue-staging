@@ -3761,6 +3761,7 @@ fimbrillae
 fod
 feyest
 forspoke
+fohat
 ferash
 fany
 fig
@@ -6731,7 +6732,6 @@ forksmith
 fogscoffer
 fogus
 foh
-fohat
 fohn
 firked
 fohns
