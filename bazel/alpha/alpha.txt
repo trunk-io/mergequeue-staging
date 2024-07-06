@@ -3119,7 +3119,6 @@ actinias
 actinic
 actinical
 actinically
-actinide
 actinides
 actinidia
 actinidiaceae
@@ -8947,6 +8946,7 @@ allograph
 allographic
 alloy
 alloyage
+actinide
 alloyed
 alloimmune
 alloiogenesis
