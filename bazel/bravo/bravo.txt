@@ -4636,7 +4636,6 @@ bedel
 bedell
 bedells
 bedels
-bedelve
 bedeman
 bedemen
 beden
@@ -5727,6 +5726,7 @@ beliquor
 beliquors
 boggard
 belite
+bedelve
 belittlement
 bulbocodium
 belittler
