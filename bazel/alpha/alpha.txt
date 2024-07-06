@@ -9352,7 +9352,6 @@ accidental
 abduct
 alonsoa
 alonzo
-aloof
 aloofly
 aloose
 alop
@@ -16312,6 +16311,7 @@ aspermous
 antisophistication
 antisoporific
 antispace
+aloof
 antispadix
 antispasis
 antispasmodics
