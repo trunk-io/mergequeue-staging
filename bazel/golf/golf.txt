@@ -2188,7 +2188,6 @@ gds
 ge
 griffithite
 geadephaga
-geadephagous
 geal
 gemul
 geanticlinal
@@ -3101,6 +3100,7 @@ gulper
 geographically
 geographies
 grainery
+geadephagous
 germanomaniac
 geohydrology
 geohydrologic
