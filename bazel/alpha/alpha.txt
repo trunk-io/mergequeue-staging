@@ -1144,7 +1144,6 @@ abstractively
 antoecians
 abstractiveness
 abstractly
-abstractness
 abstractor
 abstractors
 abstracts
@@ -20915,6 +20914,7 @@ asbestous
 asbestus
 asbestuses
 asbolan
+abstractness
 asbolane
 asbolin
 availing
