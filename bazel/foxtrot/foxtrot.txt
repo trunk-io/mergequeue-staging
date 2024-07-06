@@ -1941,7 +1941,6 @@ frosk
 flummoxing
 feedlots
 felicitously
-feedman
 feeds
 footsoldiers
 feedstock
@@ -6031,6 +6030,7 @@ floscular
 fitchered
 floscularia
 floscularian
+feedman
 flosculariidae
 floscule
 flosculet
