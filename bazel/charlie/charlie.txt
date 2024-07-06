@@ -5892,7 +5892,6 @@ cathedra
 cathedrae
 coiffe
 cathedral
-cathedraled
 cathedralesque
 cathedralic
 cathedrallike
@@ -29822,6 +29821,7 @@ crosne
 crosnes
 cross
 crossability
+cathedraled
 crossarm
 crossarms
 crossband
