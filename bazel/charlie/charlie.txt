@@ -2292,7 +2292,6 @@ cancerization
 cancerogenic
 cancerophobe
 cancerophobia
-cancerous
 cancerously
 cancerousness
 competitors
@@ -28628,6 +28627,7 @@ cremasteric
 cremate
 cremated
 cremates
+cancerous
 cremating
 cremation
 cremationism
