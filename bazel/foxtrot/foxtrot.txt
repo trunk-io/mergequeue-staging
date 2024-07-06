@@ -9924,7 +9924,6 @@ fribourg
 fluoridates
 fricandeaux
 fricandel
-fides
 featureless
 fishhook
 fricando
@@ -10733,6 +10732,7 @@ foundry
 frutescent
 fluoridized
 fumulus
+fides
 ferules
 ferventness
 favorer

@@ -738,7 +738,6 @@ blockship
 biolysis
 bacteririum
 bacteritic
-bacteriuria
 bacterization
 bacterize
 bacterized
@@ -11394,6 +11393,7 @@ bluely
 blueline
 bluelines
 bogbeans
+bacteriuria
 bosnisch
 blueness
 bluenesses
