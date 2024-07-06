@@ -8273,6 +8273,7 @@ dishmaking
 diagraph
 diagraphics
 diagraphs
+decastyle
 diagredium
 desand
 disastimeter
@@ -11687,7 +11688,6 @@ discountable
 discountenance
 discountenancer
 discountenances
-decastyle
 discountenancing
 discounter
 diverticulate
