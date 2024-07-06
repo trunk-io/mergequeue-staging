@@ -2646,7 +2646,6 @@ endplay
 electrotellurograph
 electrotest
 electrothanasia
-electrothanatosis
 expressionful
 electrotherapeutist
 electrotheraputic
@@ -6745,6 +6744,7 @@ erudit
 empyrical
 exantlate
 enthalpy
+electrothanatosis
 electroacoustics
 elotillo
 epilogate
