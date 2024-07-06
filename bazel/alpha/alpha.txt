@@ -199,6 +199,7 @@ abbey
 abbeys
 azophen
 abbeystead
+affront
 abbeystede
 abbes
 abbess
@@ -9381,7 +9382,6 @@ agonises
 alouettes
 alout
 alow
-affront
 ake
 alowe
 aloxite
