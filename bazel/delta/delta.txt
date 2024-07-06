@@ -10891,6 +10891,7 @@ dirling
 dirls
 doorplate
 dirndl
+devoirs
 dirndls
 dirtbird
 dirtboard
@@ -15535,7 +15536,6 @@ donsie
 donum
 donut
 dactylis
-devoirs
 donuts
 donzel
 donzella
