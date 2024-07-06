@@ -3858,7 +3858,6 @@ carceration
 costothoracic
 carcerist
 carcharhinus
-carcharias
 carchariid
 carchariidae
 carcharioid
@@ -8198,6 +8197,7 @@ chainbearer
 circumducted
 conceptions
 chaine
+carcharias
 chained
 chainer
 chaines
