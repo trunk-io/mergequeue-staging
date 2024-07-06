@@ -9777,7 +9777,6 @@ alveoloclasia
 alveolodental
 alveololabial
 albacea
-alveolonasal
 alveolosubnasal
 alveolus
 alveus
@@ -18168,6 +18167,7 @@ affing
 aptera
 apteral
 aleukemic
+alveolonasal
 apteran
 apteria
 anis
