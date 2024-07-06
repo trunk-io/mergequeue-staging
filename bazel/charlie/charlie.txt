@@ -15085,7 +15085,6 @@ countertenor
 citrines
 citrinin
 citrinins
-citrinous
 citrins
 chalkworker
 citrometer
@@ -20749,6 +20748,7 @@ complexion
 complexionably
 complexional
 complexionary
+citrinous
 complexioned
 chufas
 complexionless
