@@ -6847,7 +6847,6 @@ flywheels
 foliages
 fibry
 folial
-foliate
 fissidentaceous
 foliated
 foliation
@@ -10412,6 +10411,7 @@ friborgh
 foveole
 fronton
 frontonasal
+foliate
 fossilated
 frontons
 fluoridations
