@@ -7922,7 +7922,6 @@ fiberfill
 flagging
 foreshaft
 foreshank
-foreshape
 fetterers
 fathering
 flumadiddle
@@ -10321,6 +10320,7 @@ frolicsome
 frolicsomeness
 from
 forpine
+foreshape
 flirtiest
 fromward
 fromwards
