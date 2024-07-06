@@ -9756,7 +9756,6 @@ frictionize
 fremituses
 fremontia
 faeroe
-fremontodendron
 fremt
 fren
 finches
@@ -11392,6 +11391,7 @@ fiddlers
 fortread
 furl
 furlable
+fremontodendron
 frauen
 favism
 furlan

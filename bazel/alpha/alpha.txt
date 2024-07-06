@@ -11072,7 +11072,6 @@ amortissement
 amortisseur
 auresca
 acres
-arsis
 amortizable
 amortization
 amortizement
@@ -15817,6 +15816,7 @@ artus
 antinormalness
 antinosarian
 antinous
+arsis
 antinovel
 antinovelist
 antinovels
