@@ -6352,7 +6352,6 @@ agnathia
 agnathostomata
 archprotopope
 agnathostomatous
-agnathous
 agnatic
 arrased
 agnatical
@@ -19906,6 +19905,7 @@ arling
 adiactinic
 arm
 armadas
+agnathous
 amygdalectomy
 achondrite
 andreaeales
