@@ -1242,7 +1242,6 @@ gavottes
 gant
 gantangs
 gantelope
-gantlet
 gantleted
 gantleting
 gewgaw
@@ -3210,6 +3209,7 @@ geophysical
 gamboler
 gellert
 geophone
+gantlet
 geophones
 gayish
 geoplana
