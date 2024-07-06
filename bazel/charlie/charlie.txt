@@ -6957,7 +6957,6 @@ cenotes
 cenozoic
 cenozoology
 cense
-censes
 censitaire
 censive
 censor
@@ -8581,6 +8580,7 @@ champine
 champing
 championed
 championing
+censes
 championize
 championless
 champions
