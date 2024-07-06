@@ -5996,7 +5996,6 @@ glossospasm
 glossosteresis
 glossotomy
 glottal
-glottalite
 gynecomania
 glottalization
 gablock
@@ -8613,6 +8612,7 @@ guisards
 grebo
 grecale
 glenwood
+glottalite
 grece
 grossularia
 grecians
