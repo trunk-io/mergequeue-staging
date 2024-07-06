@@ -7008,6 +7008,7 @@ besleeve
 beslime
 beslimer
 beslimes
+bout
 backtalk
 barricaders
 breadbasket
@@ -15435,7 +15436,6 @@ bryologist
 bryon
 briony
 bryony
-bout
 borborygmic
 bogles
 bourrasque
