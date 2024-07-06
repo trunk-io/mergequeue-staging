@@ -843,7 +843,6 @@ ecthymata
 emmies
 ecthymatous
 ecthlipses
-ecthlipsis
 ectype
 ectypes
 epidemiographist
@@ -8139,6 +8138,7 @@ extracorporeal
 epipodium
 epipolic
 ectoplacenta
+ecthlipsis
 enjoyer
 encomiologic
 exagitation
