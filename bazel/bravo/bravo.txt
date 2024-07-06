@@ -5573,7 +5573,6 @@ belay
 belayed
 bacteriaemia
 bedticking
-belayer
 belaying
 belays
 benzalethylamine
@@ -10136,6 +10135,7 @@ blackbutt
 blaeness
 boxer
 blackcap
+belayer
 blackcoat
 blackcod
 blackcods
