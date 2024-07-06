@@ -8972,7 +8972,6 @@ averager
 allometry
 acerola
 allomorph
-allomorphic
 antimedievalism
 allomorphism
 allomorphite
@@ -23949,6 +23948,7 @@ autochthonism
 autochthonous
 autochthonously
 autochthonousness
+allomorphic
 adumbral
 autochthons
 autochton
