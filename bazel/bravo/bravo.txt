@@ -1747,7 +1747,6 @@ barbels
 baloch
 baloghia
 balolo
-balon
 balonea
 briskness
 baloney
@@ -7825,6 +7824,7 @@ biasses
 biasteric
 biaswise
 biathlon
+balon
 biaural
 biauricular
 butyryls

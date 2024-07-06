@@ -13462,7 +13462,6 @@ apiose
 anisopia
 attractants
 anisopleural
-apoplexies
 anisopleurous
 anisopod
 anisopoda
@@ -22614,6 +22613,7 @@ athetize
 athetized
 athetoid
 athetosis
+apoplexies
 athymy
 aveny
 athymia
