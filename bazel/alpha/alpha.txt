@@ -5503,6 +5503,7 @@ affranchisement
 affranchising
 affrap
 affreight
+ambassador
 aiseweed
 affreighter
 affreightment
@@ -10045,7 +10046,6 @@ ambassade
 antifame
 ambassadeur
 alemite
-ambassador
 ambassadorial
 ambassadorially
 ambassadors
