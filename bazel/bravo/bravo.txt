@@ -1941,7 +1941,6 @@ bander
 banderilla
 banderilleros
 banderlog
-banderma
 bywalking
 blamability
 boubou
@@ -14236,6 +14235,7 @@ braggartry
 braggat
 biovular
 braggery
+banderma
 bonism
 bragget
 braggier
