@@ -2619,6 +2619,7 @@ barghest
 brachydomal
 barghests
 bargir
+bugara
 bassetite
 bargoose
 barguest
@@ -16808,7 +16809,6 @@ bullionless
 bugan
 brisque
 barons
-bugara
 bugbane
 bugbanes
 bugbear
