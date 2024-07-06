@@ -3629,6 +3629,7 @@ gestate
 gestated
 gristy
 gestates
+gundeck
 gestating
 gestation
 gestative
@@ -10469,7 +10470,6 @@ giddily
 gunboats
 guncotton
 gunda
-gundeck
 gundelet
 gundelow
 ghiblis
