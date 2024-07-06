@@ -5010,7 +5010,6 @@ dramatizations
 denaturalizing
 denaturant
 denaturants
-denaturate
 denaturation
 denaturational
 discure
@@ -10368,6 +10367,7 @@ dioramic
 dulciana
 diordinal
 disassimilate
+denaturate
 diorite
 diorites
 dioritic
