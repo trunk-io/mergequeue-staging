@@ -17430,7 +17430,6 @@ cupbearer
 cobaea
 cobalamin
 cobalamine
-cobaltamine
 cobaltammine
 continuist
 cobaltic
@@ -21459,6 +21458,7 @@ conclamation
 conclave
 conclaves
 coccous
+cobaltamine
 concludable
 copyrighted
 concluded
