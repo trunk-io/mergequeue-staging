@@ -3012,7 +3012,6 @@ barrenest
 barrenly
 barrenness
 barrens
-barrenwort
 barrer
 barres
 barret
@@ -16980,6 +16979,7 @@ bulgar
 bulgari
 bourgeoning
 bulgarians
+barrenwort
 bulgaric
 burgau
 bulgarophil
