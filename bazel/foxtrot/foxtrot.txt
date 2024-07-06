@@ -4268,6 +4268,7 @@ flatware
 flannel
 fishberries
 fishboat
+fusses
 fishbolts
 faultless
 fishbone
@@ -11607,7 +11608,6 @@ fussbudgets
 farcers
 fussed
 fusser
-fusses
 fussy
 fussier
 fussification
