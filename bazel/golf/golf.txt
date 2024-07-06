@@ -8446,7 +8446,6 @@ gliffs
 gravamens
 gravamina
 girthed
-gravat
 grave
 grattoirs
 gravecloth
@@ -9807,6 +9806,7 @@ guamuchil
 gleeked
 guanabana
 guanabano
+gravat
 guapilla
 guanacos
 girdle
