@@ -7678,7 +7678,6 @@ deviscerate
 devise
 devised
 dressership
-devisee
 dubitatingly
 devisees
 defecting
@@ -15881,6 +15880,7 @@ dysenteries
 dissilience
 dosimeter
 dosimetric
+devisee
 disciplinary
 dosimetrician
 dosimetries
