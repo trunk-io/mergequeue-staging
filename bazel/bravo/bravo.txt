@@ -4793,7 +4793,6 @@ bedrift
 bedrip
 bedrivel
 buddy
-bedrivelled
 bedrivels
 bedrizzle
 bedrock
@@ -5447,6 +5446,7 @@ behorror
 behoved
 behoves
 behoving
+bedrivelled
 behowl
 behowling
 blurrer
