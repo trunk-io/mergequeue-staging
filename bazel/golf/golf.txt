@@ -4876,7 +4876,6 @@ gastroplenic
 gunnysack
 girouette
 girouettism
-gyrous
 greeting
 gyrovagues
 gapeworms
@@ -7129,6 +7128,7 @@ greensward
 gooseboy
 goosebone
 goosed
+gyrous
 grandfathership
 goosefishes
 gooseflesh
