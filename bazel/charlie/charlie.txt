@@ -15966,7 +15966,6 @@ cleidoic
 cleidomancy
 cleidomastoid
 cleidorrhexis
-collegiateness
 cleidoscapular
 cleidosternal
 cleidotomy
@@ -25236,6 +25235,7 @@ coryphaenid
 coryphaenidae
 coryphaenoid
 coryphaenoididae
+collegiateness
 coryphaeus
 coryphee
 coryphees
