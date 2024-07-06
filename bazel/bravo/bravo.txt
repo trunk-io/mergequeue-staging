@@ -2205,6 +2205,7 @@ banovina
 banque
 becard
 banquet
+blader
 basenet
 banqueted
 banqueting
@@ -10275,7 +10276,6 @@ bladed
 bladelet
 bladelike
 buccate
-blader
 blades
 bladesmith
 bladewise
