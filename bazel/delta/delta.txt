@@ -4601,7 +4601,6 @@ deminudity
 demioctagonal
 demioctangular
 disspirit
-demiofficial
 demiorbit
 demiowl
 demiox
@@ -10742,6 +10741,7 @@ ducs
 dips
 dipsacaceae
 dipsacaceous
+demiofficial
 dipsaceous
 dipsacus
 dipsades
