@@ -11081,6 +11081,7 @@ bloodbath
 bloodbeat
 bloodberry
 bloodbird
+batfowling
 befrets
 bloodcurdling
 bloodcurdlingly
@@ -15956,7 +15957,6 @@ bronchospasm
 bronchostenosis
 bronchostomy
 bronchostomies
-batfowling
 bronchotetany
 blankmindedness
 bronchotyphus
