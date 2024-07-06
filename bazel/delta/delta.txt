@@ -3470,7 +3470,6 @@ deforestation
 deforested
 deforesting
 deform
-deformability
 dighting
 deformable
 deputationist
@@ -6178,6 +6177,7 @@ dawting
 derivatives
 derive
 derivedly
+deformability
 derivedness
 deriver
 dispensatory
