@@ -12703,6 +12703,7 @@ allowableness
 anesthesiologists
 anesthesiometer
 anesthesis
+articulare
 allergens
 anesthetic
 anesthetically
@@ -20709,7 +20710,6 @@ articulant
 antibody
 anesthesiologies
 actuators
-articulare
 attestative
 articulary
 allelomorph
