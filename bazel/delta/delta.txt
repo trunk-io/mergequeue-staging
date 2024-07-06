@@ -1208,7 +1208,6 @@ dataflow
 datakit
 datamation
 datana
-datapac
 disported
 disenfranchise
 datapunch
@@ -4074,6 +4073,7 @@ daubs
 delicatesse
 delicatessen
 desensitizations
+datapac
 delicatessens
 diploglossate
 delice
