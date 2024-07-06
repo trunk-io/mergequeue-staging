@@ -2156,7 +2156,6 @@ felstones
 flirters
 felt
 felted
-fragilaria
 felter
 flexion
 felty
@@ -4600,6 +4599,7 @@ focuses
 flabella
 flecnode
 ferryway
+fragilaria
 flabellate
 flagrant
 favus
