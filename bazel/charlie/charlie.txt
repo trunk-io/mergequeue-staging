@@ -8012,7 +8012,6 @@ cetonian
 cetoniinae
 chaster
 cetorhinid
-cetorhinoid
 cetorhinus
 cetotolite
 cetraric
@@ -29029,6 +29028,7 @@ crimeful
 crimeless
 crimelessness
 crimeproof
+cetorhinoid
 crimes
 criminalese
 criminalism
