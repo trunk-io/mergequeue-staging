@@ -2519,6 +2519,7 @@ ferrimagnet
 forewing
 ferrimagnetic
 footbath
+forkedly
 ferrimagnetism
 footcloths
 ferryman
@@ -8289,7 +8290,6 @@ fumeroot
 fork
 forkable
 forked
-forkedly
 forkedness
 frontomaxillary
 fret
