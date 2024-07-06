@@ -3233,6 +3233,7 @@ bashlyks
 bashment
 bullfist
 basial
+befoulment
 basialveolar
 balmy
 blindages
@@ -5152,7 +5153,6 @@ befouled
 befouler
 befoulers
 befouling
-befoulment
 befountained
 befraught
 befreckle
