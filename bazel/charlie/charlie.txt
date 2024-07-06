@@ -13589,7 +13589,6 @@ cylinderer
 cylindering
 cylinders
 cylindraceous
-cylindrarthrosis
 cylindrella
 cylindrenchyma
 cylindric
@@ -17771,6 +17770,7 @@ cocurator
 cocurrent
 cocurricular
 cocus
+cylindrarthrosis
 cocuswood
 centrifugalized
 cod
