@@ -12515,7 +12515,6 @@ demireps
 disintegrate
 disintegrated
 disintegrates
-disintegrating
 dipterological
 disguises
 decarboniser
@@ -15007,6 +15006,7 @@ dogleg
 doglegged
 downweigh
 doglegging
+disintegrating
 dogless
 dribbed
 diabetometer
