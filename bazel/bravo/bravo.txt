@@ -873,7 +873,6 @@ baffs
 bonzery
 bafta
 baftah
-bag
 baga
 bitmap
 boistously
@@ -4663,6 +4662,7 @@ bedfast
 bedfellows
 bacterin
 bedford
+bag
 bedfordshire
 brobdingnag
 bedframe

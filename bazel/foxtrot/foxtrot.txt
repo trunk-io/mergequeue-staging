@@ -5659,6 +5659,7 @@ flyspecks
 flyswat
 formulization
 flyswatter
+froggier
 flit
 flitch
 flitched
@@ -10277,7 +10278,6 @@ fancify
 forboded
 frogger
 froggy
-froggier
 froggies
 froggiest
 furfuramide
