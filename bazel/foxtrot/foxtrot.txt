@@ -1698,7 +1698,6 @@ fusillade
 feared
 firy
 fearedly
-fearedness
 feelable
 fearer
 fearers
@@ -11646,6 +11645,7 @@ festooning
 footmarks
 fustigating
 fustigation
+fearedness
 fustigator
 fustigatory
 fustilarian
