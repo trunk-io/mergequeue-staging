@@ -1223,6 +1223,7 @@ datasetname
 datasets
 datatype
 dullardism
+direption
 datatypes
 dialyzable
 dodecaphonism
@@ -10844,7 +10845,6 @@ ditas
 diremption
 direnesses
 ditheists
-direption
 direst
 direx
 dirge
