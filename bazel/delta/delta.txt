@@ -5644,7 +5644,6 @@ dephlogisticate
 dephlogisticated
 depickle
 depict
-dag
 dechloridizing
 depicted
 denuclearize
@@ -5713,6 +5712,7 @@ deplorabilia
 diopsis
 deplorability
 drawknot
+dag
 deplorable
 deducts
 dorsobranchiata
