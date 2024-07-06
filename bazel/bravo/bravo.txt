@@ -6851,7 +6851,6 @@ biconjugate
 blackings
 berzeliite
 bontee
-brownier
 besnowed
 besa
 besagne
@@ -12971,6 +12970,7 @@ bucklers
 borborygmies
 borborygmus
 blockaded
+brownier
 bord
 bordage
 blaring
