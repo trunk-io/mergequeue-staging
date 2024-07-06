@@ -4106,7 +4106,6 @@ beansetter
 beanstalk
 bacteroidal
 bibbs
-beaproned
 bear
 bearableness
 bearably
@@ -10846,6 +10845,7 @@ blet
 blethe
 blether
 bletheration
+beaproned
 blethered
 blethering
 bletia
