@@ -1936,7 +1936,6 @@ britishers
 banded
 bandel
 bandelet
-bavian
 bandelette
 bowlful
 beanies
@@ -9592,6 +9591,7 @@ berycid
 birsy
 birsit
 byrsonima
+bavian
 birth
 birthbed
 birthdays
