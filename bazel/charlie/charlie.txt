@@ -2608,7 +2608,6 @@ cannibalization
 cannibalize
 cawquaw
 cloned
-cannibalizes
 cannibalizing
 cannibally
 cannibals
@@ -8286,6 +8285,7 @@ chakdar
 cymbling
 chakra
 chakram
+cannibalizes
 chakras
 chakravartin
 chaksi
