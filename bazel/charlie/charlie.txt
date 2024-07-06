@@ -9618,6 +9618,7 @@ checksumming
 checkup
 checkups
 checkweigher
+crackling
 checkweighman
 checkweighmen
 checkwork
@@ -27907,7 +27908,6 @@ circumstantial
 crackly
 cracklier
 crackliest
-crackling
 cracklings
 crackmans
 cracknel
