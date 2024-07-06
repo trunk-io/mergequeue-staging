@@ -9820,7 +9820,6 @@ centas
 chelidonian
 chelidonic
 chelidonin
-chelidonine
 chelidosaurus
 chelydra
 chelydre
@@ -12917,6 +12916,7 @@ condensative
 churchly
 churchlier
 churchliest
+chelidonine
 churchlike
 churchliness
 churchman
