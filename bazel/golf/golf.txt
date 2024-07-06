@@ -1215,7 +1215,6 @@ globulousness
 ganodont
 ganodus
 genus
-ganoid
 ganoidal
 ganoidei
 griphosaurus
@@ -10414,6 +10413,7 @@ gumming
 geographic
 galatic
 gramophonist
+ganoid
 garbing
 governorate
 goblinesque
