@@ -1693,7 +1693,6 @@ feaking
 foreflank
 fogmen
 feal
-flowages
 fealty
 fearable
 fearbabe
@@ -4326,6 +4325,7 @@ fabular
 fishify
 fishified
 frustulent
+flowages
 fishifying
 fishily
 fishiness
