@@ -3415,6 +3415,7 @@ deflorations
 desmarestia
 deflore
 deflorescence
+demiquaver
 dropforged
 deflower
 deflowered
@@ -4617,7 +4618,6 @@ demipremiss
 demipuppet
 defloration
 domesticized
-demiquaver
 deforcing
 disbursable
 draegermen
