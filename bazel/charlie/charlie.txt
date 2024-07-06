@@ -11593,6 +11593,7 @@ cholecystogram
 cholecystography
 cholecystojejunostomy
 cholecystokinin
+coenogamete
 cholecystonephrostomy
 cholecystopexy
 cholecystorrhaphy
@@ -18120,7 +18121,6 @@ cotehardie
 cardigan
 coenoecic
 coenoecium
-coenogamete
 cerealose
 coenogenesis
 club
