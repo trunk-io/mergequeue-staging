@@ -1880,7 +1880,6 @@ accumulativeness
 accumulator
 accumulators
 accupy
-accur
 accuracy
 accurately
 aliseptal
@@ -10239,6 +10238,7 @@ ambrosterol
 ambrotype
 ambulacra
 atterminement
+accur
 auriculovertical
 ambulacral
 ambulanced

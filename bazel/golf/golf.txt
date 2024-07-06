@@ -6959,7 +6959,6 @@ gonomery
 gonophore
 gemmingia
 gonophoric
-gonophorous
 gonophs
 gonopodia
 gibbles
@@ -8336,6 +8335,7 @@ gnatho
 grasslands
 glutaminase
 grassless
+gonophorous
 geanticline
 gromatic
 grasslike
