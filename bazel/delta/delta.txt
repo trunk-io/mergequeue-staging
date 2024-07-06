@@ -3286,7 +3286,6 @@ defiber
 defibrillated
 defibrillating
 defibrillation
-defibrillative
 dragoons
 defibrillatory
 defibrinate
@@ -10105,6 +10104,7 @@ dynastinae
 dynasts
 dynatron
 dinder
+defibrillative
 dominiums
 dilative
 dindymus
