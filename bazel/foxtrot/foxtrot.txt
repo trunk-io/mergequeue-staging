@@ -3163,7 +3163,6 @@ fretty
 fiddlebow
 fiddlebrained
 fiddled
-freebootery
 fiddlefaced
 fewest
 fiddlehead
@@ -4323,6 +4322,7 @@ fishlet
 fishlike
 fishline
 fishlines
+freebootery
 fishling
 fishmeal
 fabliaux
