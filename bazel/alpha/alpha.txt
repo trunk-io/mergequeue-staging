@@ -17622,7 +17622,6 @@ acrocera
 appanages
 appanaging
 audiogenic
-allothogenic
 appar
 apparance
 apparat
@@ -24975,6 +24974,7 @@ attaching
 aweto
 awfu
 awful
+allothogenic
 ametabole
 awfuller
 awfully
