@@ -3147,6 +3147,7 @@ actinochemistry
 actinocrinidae
 actinocrinite
 actinocrinus
+ampullula
 actinocutitis
 actinodrome
 actinodromous
@@ -11459,7 +11460,6 @@ ampullate
 ampullated
 ampulliform
 ampullosity
-ampullula
 ampullulae
 ampuls
 amputate
