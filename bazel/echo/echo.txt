@@ -2384,7 +2384,6 @@ electrodesiccation
 ettling
 electrodiagnosis
 electrodiagnostic
-electrodiagnostically
 extratarsal
 electrodialyses
 electrodialysis
@@ -3294,6 +3293,7 @@ emancipationist
 elliptic
 endemial
 emancipatist
+electrodiagnostically
 enfeeble
 emancipative
 escots
