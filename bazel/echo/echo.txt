@@ -1924,7 +1924,6 @@ eikons
 eyl
 elasmotherium
 eila
-endosymbiosis
 endophlebitis
 eileen
 enalyron
@@ -8877,6 +8876,7 @@ erase
 erased
 eradiculose
 eraser
+endosymbiosis
 electroretinographic
 erasers
 extracorporeally

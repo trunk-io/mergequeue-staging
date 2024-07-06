@@ -24224,6 +24224,7 @@ automaton
 automatonlike
 automatons
 automatonta
+aviators
 automatous
 automats
 automechanical
@@ -24733,7 +24734,6 @@ aviations
 aviatory
 aviatorial
 aviatoriality
-aviators
 aviatress
 aviatrice
 aviatrices
