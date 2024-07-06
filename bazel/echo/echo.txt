@@ -681,7 +681,6 @@ eclipsation
 eclipse
 echinuliform
 eclipsed
-eclipser
 eclipses
 erudite
 eupeptic
@@ -2083,6 +2082,7 @@ elain
 epic
 elains
 ensmall
+eclipser
 elaioleucite
 epizzoa
 eightball
