@@ -4061,7 +4061,6 @@ eponymize
 emp
 enrapture
 empaestic
-empaistic
 efficaciously
 empalement
 empaler
@@ -8155,6 +8154,7 @@ epirogeny
 epirote
 epirrhema
 ectosome
+empaistic
 earthward
 epirrhematic
 epirrheme
