@@ -14948,7 +14948,6 @@ cytogenous
 cytohyaloplasm
 castigable
 commiserate
-citoyenne
 citoyens
 cytokinesis
 cytokinetic
@@ -19382,6 +19381,7 @@ colonizer
 colonizers
 colonnade
 colonnaded
+citoyenne
 colonnades
 colonnette
 colonopathy
