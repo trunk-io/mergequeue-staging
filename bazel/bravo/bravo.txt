@@ -5004,7 +5004,6 @@ beestings
 beestride
 beeswax
 beeswaxes
-beeswinged
 beeswings
 beet
 beetewk
@@ -7150,6 +7149,7 @@ bespousing
 bespout
 bespray
 bromlite
+beeswinged
 bespreng
 besprent
 blowy
