@@ -2366,6 +2366,7 @@ ferforth
 fremescent
 ferganite
 fergus
+female
 ferguson
 fergusonite
 feria
@@ -8761,7 +8762,6 @@ fossage
 fratch
 fevery
 flaxes
-female
 fossane
 falutin
 frailty
