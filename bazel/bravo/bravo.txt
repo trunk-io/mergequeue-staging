@@ -11163,6 +11163,7 @@ blooie
 bloomage
 bloomed
 brachydome
+belief
 bloomer
 bloomery
 bricks
@@ -16998,7 +16999,6 @@ bulimiform
 bulimoid
 bulimulidae
 bulimus
-belief
 bulk
 bulkage
 bedflower
