@@ -2473,7 +2473,6 @@ funge
 firebox
 ferrateen
 ferrates
-ferrean
 ferredoxin
 ferreled
 ferrelled
@@ -11737,6 +11736,7 @@ ferfathmur
 fuzils
 fuzing
 fuzz
+ferrean
 fuzzed
 fuzzes
 fuzziest
