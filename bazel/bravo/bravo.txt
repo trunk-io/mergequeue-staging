@@ -15624,7 +15624,6 @@ bangup
 broadsides
 broadspread
 bellyfish
-banked
 broadsword
 barrelfish
 ballyrags
@@ -15993,6 +15992,7 @@ beekeeper
 brontophobia
 brontops
 burgages
+banked
 bacillophobia
 butcheress
 brew
