@@ -2607,6 +2607,7 @@ decolorizer
 decolorizing
 decolors
 decolour
+defenselessness
 decolouration
 decolourisation
 decolourised
@@ -3229,7 +3230,6 @@ doricism
 diurnal
 defenseless
 defenselessly
-defenselessness
 defenseman
 duckboard
 defensemen
