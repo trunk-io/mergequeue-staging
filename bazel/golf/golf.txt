@@ -1800,7 +1800,6 @@ gastrohysteropexy
 gastrohysterotomy
 gastroid
 gruelingly
-gastrojejunostomy
 gonyaulax
 groow
 gastrojejunostomies
@@ -2222,6 +2221,7 @@ geb
 gebanga
 gebbie
 geoethnic
+gastrojejunostomy
 gecarcinian
 gecarcinidae
 gecarcinus
