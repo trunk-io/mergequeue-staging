@@ -776,7 +776,6 @@ enfurrow
 ecotypic
 excurvate
 entrapped
-ecotipically
 extensure
 ecotonal
 ecotone
@@ -3093,6 +3092,7 @@ extralateral
 elocation
 emmarbled
 elocular
+ecotipically
 elocute
 elocutionist
 elod
