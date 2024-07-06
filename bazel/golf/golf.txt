@@ -14,7 +14,6 @@ geckos
 germantown
 generating
 gabbards
-gabbarts
 galvanolysis
 galanga
 gabber
@@ -2694,6 +2693,7 @@ generous
 glial
 generousness
 geneserin
+gabbarts
 geneserine
 geneses
 gapper
