@@ -7596,7 +7596,6 @@ epicanthus
 epicardium
 epicarid
 epicaridan
-epicaridea
 epicarides
 epicarp
 epicarpal
@@ -13191,6 +13190,7 @@ expletive
 expletively
 eglestonite
 eelskin
+epicaridea
 expletiveness
 emulations
 expletives
