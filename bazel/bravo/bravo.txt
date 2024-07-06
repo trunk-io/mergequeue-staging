@@ -8484,7 +8484,6 @@ bilabe
 bilabial
 bilabials
 bilaciniate
-bilayer
 bias
 bookmen
 bilalo
@@ -15794,6 +15793,7 @@ bromethylene
 bromgelatin
 batcher
 bromhydrate
+bilayer
 bromhydric
 bromhidrosis
 bromic
