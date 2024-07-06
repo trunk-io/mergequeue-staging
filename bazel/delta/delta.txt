@@ -14736,7 +14736,6 @@ docs
 doctor
 doctoral
 doctorally
-doctorate
 dorian
 doctorates
 doctorbird
@@ -15303,6 +15302,7 @@ danner
 deaness
 domal
 domanial
+doctorate
 domatophobia
 domba
 dombeya
