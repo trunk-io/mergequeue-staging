@@ -11326,7 +11326,6 @@ chlorize
 chlormethane
 chlormethylic
 chlornal
-chloro
 chloroacetate
 chloroacetone
 chloroacetophenone
@@ -23960,6 +23959,7 @@ conumerous
 crajuru
 conundrum
 conundrumize
+chloro
 conundrums
 conurbation
 coombe
