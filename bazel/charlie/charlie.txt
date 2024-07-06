@@ -5044,6 +5044,7 @@ caseins
 casekeeper
 casel
 caseless
+countergauge
 caselessly
 caseload
 caseloads
@@ -26894,7 +26895,6 @@ countergager
 countergambit
 countergarrison
 catjang
-countergauge
 countergauger
 countergift
 countergirded
