@@ -2883,7 +2883,6 @@ fulimart
 floating
 feverishness
 fulminate
-feverless
 feverlike
 feverous
 feverroot
@@ -4333,6 +4332,7 @@ fishlet
 fishlike
 fishline
 fishlines
+feverless
 freebootery
 fishling
 fishmeal
