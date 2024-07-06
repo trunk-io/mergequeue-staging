@@ -4516,6 +4516,7 @@ demideity
 dexterously
 demidigested
 demidistance
+dirged
 demiditone
 demidoctor
 discriminability
@@ -10841,7 +10842,6 @@ direption
 direst
 direx
 dirge
-dirged
 dirgelike
 dirgeman
 desamidization

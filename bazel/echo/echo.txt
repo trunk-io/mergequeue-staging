@@ -4224,6 +4224,7 @@ eupolidean
 executable
 endameba
 empodium
+entrancer
 esophagotomy
 empoison
 encaustes
@@ -13084,7 +13085,6 @@ experimenter
 experimenters
 experimenting
 ejectee
-entrancer
 experimentize
 experimentor
 etiquettical
