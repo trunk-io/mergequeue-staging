@@ -2031,6 +2031,7 @@ bandstand
 bandstands
 bartering
 braunschweiger
+beg
 bandster
 blackfire
 bandstop
@@ -5193,7 +5194,6 @@ blateration
 befurbelowed
 befurred
 bicondylar
-beg
 begabled
 begay
 begalled
