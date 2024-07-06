@@ -4386,6 +4386,7 @@ adoretus
 adoring
 adoringly
 attestations
+annotative
 adorn
 adornation
 adorned
@@ -13722,7 +13723,6 @@ annotates
 acker
 annotating
 annotation
-annotative
 annotatively
 annotativeness
 annotator
