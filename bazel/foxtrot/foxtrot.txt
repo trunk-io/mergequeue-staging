@@ -5358,6 +5358,7 @@ flenser
 fielder
 flensers
 fumaroidal
+flinching
 flensing
 flerry
 flerried
@@ -5565,7 +5566,6 @@ frequenters
 fellowshiped
 flinch
 flinched
-flinching
 factice
 flinchingly
 franseria
