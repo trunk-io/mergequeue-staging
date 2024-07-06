@@ -530,7 +530,6 @@ echar
 echard
 elaeococca
 eched
-echelle
 echelon
 echeloned
 erysiphe
@@ -9588,6 +9587,7 @@ esclavage
 escoba
 escobadura
 escocheon
+echelle
 escolar
 estuarian
 escolars
