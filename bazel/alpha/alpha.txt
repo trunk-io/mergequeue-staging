@@ -6675,7 +6675,6 @@ aguilawood
 aguinaldo
 aguinaldos
 aguirage
-aguise
 aguish
 aguishly
 agujon
@@ -11831,6 +11830,7 @@ analepsis
 analeptic
 amphiuma
 analeptical
+aguise
 antiphrasis
 analgen
 analgene
