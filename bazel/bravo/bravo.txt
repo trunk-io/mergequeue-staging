@@ -4300,7 +4300,6 @@ birdnest
 beautyship
 beaux
 beaver
-beavered
 beaverette
 burgonet
 bandeaux
@@ -6092,6 +6091,7 @@ burnout
 benchmarked
 bloodlessness
 benchmarking
+beavered
 benchwarmer
 bend
 brachyceral
