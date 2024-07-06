@@ -4221,7 +4221,6 @@ endameba
 empodium
 entrancer
 esophagotomy
-empoison
 encaustes
 empoisonment
 empolder
@@ -11612,6 +11611,7 @@ euryte
 enquicken
 evilest
 exoergic
+empoison
 empressements
 enwrapt
 eviller
