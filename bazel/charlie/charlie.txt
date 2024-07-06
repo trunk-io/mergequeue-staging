@@ -4568,7 +4568,6 @@ carpellum
 carpels
 cytinaceous
 carpent
-carpenter
 carpentered
 carpenteria
 carpentering
@@ -10923,6 +10922,7 @@ chippings
 chipproof
 chypre
 chips
+carpenter
 chipwood
 chiquero
 chiquest
