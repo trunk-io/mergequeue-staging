@@ -4130,7 +4130,6 @@ delim
 delimed
 deliming
 dislocations
-delimit
 delimitated
 deletory
 deboise
@@ -16649,6 +16648,7 @@ doodia
 drags
 dragsaw
 dragsman
+delimit
 dragsmen
 dragster
 drahthaar
