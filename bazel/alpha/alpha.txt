@@ -2339,7 +2339,6 @@ azurites
 achondritic
 archdevil
 achondroplasia
-achondroplastic
 achoo
 angiography
 achor
@@ -6324,6 +6323,7 @@ aglypha
 aristocratical
 ahousaht
 aglisten
+achondroplastic
 asteatosis
 aglobulism
 aglossa
