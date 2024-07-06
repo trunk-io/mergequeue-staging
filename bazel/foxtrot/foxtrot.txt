@@ -1257,7 +1257,6 @@ fasinite
 fass
 felonwood
 federarie
-fenchone
 frost
 fastbacks
 fastballs
@@ -6603,6 +6602,7 @@ fele
 foalfoots
 foalhood
 foals
+fenchone
 foam
 foambow
 foamed
