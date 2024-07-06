@@ -590,7 +590,6 @@ abler
 amphipyrenin
 ables
 ablesse
-ablest
 ably
 ablings
 ablins
@@ -7675,6 +7674,7 @@ alcalde
 alcaldes
 alcaldeship
 asway
+ablest
 alcaldia
 alcali
 alcaligenes
