@@ -4629,7 +4629,6 @@ carpocephalum
 cuss
 cryoscopies
 carpocerite
-carpocervical
 carpodacus
 carpodetus
 coulters
@@ -14183,6 +14182,7 @@ circadian
 circaea
 closeable
 chingpaw
+carpocervical
 circaetus
 circar
 coriandrol
