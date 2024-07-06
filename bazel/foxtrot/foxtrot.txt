@@ -7397,7 +7397,6 @@ forcipulata
 frisii
 foxed
 figent
-forcite
 forcive
 fauvist
 forclose
@@ -11637,6 +11636,7 @@ fustics
 forearming
 fustie
 fustigate
+forcite
 fursemide
 fustigated
 foggily
