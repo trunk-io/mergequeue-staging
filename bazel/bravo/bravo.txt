@@ -9880,7 +9880,6 @@ browpost
 bitingness
 bitless
 bitmapped
-bitnet
 bito
 bitonal
 bitonality
@@ -16147,6 +16146,7 @@ brachyure
 browd
 browden
 browet
+bitnet
 browis
 browless
 belvedere
