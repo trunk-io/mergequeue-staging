@@ -6148,7 +6148,6 @@ flowcontrol
 flowe
 flowed
 flower
-flowerage
 flowerbed
 flowerers
 floweret
@@ -7251,6 +7250,7 @@ ferr
 flypast
 forage
 foraged
+flowerage
 forager
 fidelio
 foragers
