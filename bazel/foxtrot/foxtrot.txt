@@ -504,7 +504,6 @@ finnicky
 falderols
 faldfee
 falding
-floorings
 fourling
 faldstool
 faldworth
@@ -6645,6 +6644,7 @@ focsle
 focused
 focusless
 fantad
+floorings
 focussed
 fluminose
 focusses
