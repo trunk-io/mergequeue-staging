@@ -6563,6 +6563,7 @@ bequeathal
 bequeathed
 bravadoes
 bequeather
+bibulosity
 bemoan
 bequeathing
 brawled
@@ -12870,7 +12871,6 @@ bootlegger
 bootlegging
 bootlegs
 bramblebush
-bibulosity
 bootless
 bootlessly
 bootlick

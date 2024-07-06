@@ -1410,7 +1410,6 @@ efflower
 effluences
 effluent
 effluents
-effluve
 endow
 effluvia
 estafette
@@ -9643,6 +9642,7 @@ escutcheons
 escutellate
 eugenesis
 esd
+effluve
 eccentrate
 esdragol
 esebrias
