@@ -9106,7 +9106,6 @@ allower
 aseptol
 allowing
 anhingas
-allows
 alloxan
 alloxanate
 alloxanic
@@ -23985,6 +23984,7 @@ autocorrelate
 autocorrelation
 autocorrosion
 autocosm
+allows
 autocracy
 autocracies
 archsnob
