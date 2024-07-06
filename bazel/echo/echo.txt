@@ -401,7 +401,6 @@ ebulliometer
 ebulliometry
 ebullioscope
 exclaimer
-extratellurian
 ebullioscopic
 ebullitions
 eburated
@@ -5920,6 +5919,7 @@ enhemospore
 effectuation
 enzymotic
 evilhearted
+extratellurian
 erinaceus
 enneastylar
 enheritance
