@@ -1990,7 +1990,6 @@ fissurella
 feign
 feigned
 feignedly
-fiduciaries
 fumose
 feigner
 feigners
@@ -6242,6 +6241,7 @@ forslake
 fluid
 fabliau
 fluidacetextract
+fiduciaries
 fluidal
 furtherest
 fluidally
