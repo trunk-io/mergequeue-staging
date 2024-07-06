@@ -6575,7 +6575,6 @@ goggled
 goggler
 gogglers
 gogglier
-goggliest
 goggling
 goglet
 goglets
@@ -9910,6 +9909,7 @@ guardable
 grisons
 guardage
 glycerolyses
+goggliest
 guardant
 guardants
 guardedness
