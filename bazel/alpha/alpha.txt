@@ -863,7 +863,6 @@ anisotropical
 abridgement
 abridgements
 abridger
-abridgers
 abstractionism
 actinopteran
 abridges
@@ -3162,6 +3161,7 @@ actinogram
 actinograph
 actinographic
 apomorphin
+abridgers
 actinoida
 actinoidea
 actinoids
