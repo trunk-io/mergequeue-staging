@@ -2240,7 +2240,6 @@ canariote
 canarium
 centers
 canarsee
-canastas
 canaster
 canaut
 canavali
@@ -25275,6 +25274,7 @@ corkmaker
 corkmaking
 corks
 corkscrew
+canastas
 corkscrewed
 corkscrewy
 corkscrewing
