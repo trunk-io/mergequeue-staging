@@ -7752,7 +7752,6 @@ foremade
 foremarch
 foremark
 foremartyr
-foremasthand
 faceharden
 foremastmen
 fleshlike
@@ -11418,6 +11417,7 @@ furmint
 freeboard
 fica
 factions
+foremasthand
 featherpated
 fourteenthly
 flatlet
