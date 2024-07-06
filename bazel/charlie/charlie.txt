@@ -4265,7 +4265,6 @@ clypei
 carillonneurs
 carillonning
 carillons
-carinae
 carinal
 carinaria
 carinas
@@ -9751,6 +9750,7 @@ cheiceral
 cheyenne
 cheilanthes
 cheilion
+carinae
 cheilodipteridae
 cheilodipterus
 cheiloplasty
