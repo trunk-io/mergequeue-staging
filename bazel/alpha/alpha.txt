@@ -10695,6 +10695,7 @@ adulterateness
 aminoacetal
 aminoacetanilide
 aminoacetic
+aphenoscope
 aminoacetone
 arbitrary
 aminoacetophenetidine
@@ -16891,7 +16892,6 @@ aphemia
 aphemic
 aphengescope
 aphengoscope
-aphenoscope
 apheresis
 apheretic
 apheses
