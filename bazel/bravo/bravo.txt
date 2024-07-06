@@ -6348,7 +6348,6 @@ benzanthracene
 benzanthrone
 benzantialdoxime
 bellwort
-benzazimide
 bowyer
 benzazine
 benzazole
@@ -9627,6 +9626,7 @@ beryllonite
 bisalt
 bisaltae
 bisantler
+benzazimide
 bisaxillary
 bisbeeite
 biscacha
