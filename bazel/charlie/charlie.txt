@@ -14804,7 +14804,6 @@ cystotomies
 cystotrachelotomy
 cystoureteritis
 chalcophyllite
-cystourethritis
 counterfeitness
 cystourethrography
 cistron
@@ -28522,6 +28521,7 @@ credencive
 credenda
 credendum
 credens
+cystourethritis
 credensive
 credent
 cholum
