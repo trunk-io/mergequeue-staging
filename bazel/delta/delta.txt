@@ -1711,7 +1711,6 @@ dacryocystotomy
 dari
 deathlessly
 deathlessness
-deathlike
 disconcerting
 deathlikeness
 disappears
@@ -5760,6 +5759,7 @@ depolarize
 depolarized
 depolarizers
 depolarizes
+deathlike
 depolarizing
 depolymerization
 depolymerize
