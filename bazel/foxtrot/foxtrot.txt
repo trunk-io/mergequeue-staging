@@ -2420,7 +2420,6 @@ fermentescible
 fermenting
 frankfurters
 fiendly
-fermentor
 ferments
 fermentum
 fermerer
@@ -4420,6 +4419,7 @@ featherbrained
 furs
 festivities
 fishgigs
+fermentor
 fissuring
 fist
 fister
