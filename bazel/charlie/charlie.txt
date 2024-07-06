@@ -1167,7 +1167,6 @@ calelectrical
 calembour
 calemes
 calendal
-calendar
 calendared
 calendarer
 calendarian
@@ -19972,6 +19971,7 @@ comitia
 comitial
 chlorid
 comitium
+calendar
 comitiva
 comitje
 comitragedy
