@@ -1474,7 +1474,6 @@ baling
 balinghasay
 bodeful
 balisaurs
-balistarii
 balistarius
 balister
 balistes
@@ -6163,6 +6162,7 @@ benefices
 brairo
 beneficial
 bathochromic
+balistarii
 beneficialness
 beneficiary
 beneficiaries
