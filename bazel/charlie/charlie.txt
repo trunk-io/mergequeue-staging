@@ -11388,6 +11388,7 @@ chlorometry
 chlorometric
 coulombic
 chloromycetin
+copepod
 columbate
 chloronitrate
 chloropal
@@ -24553,7 +24554,6 @@ copenhagen
 copens
 copeognatha
 cecopexy
-copepod
 copepoda
 copepodan
 copepodous
