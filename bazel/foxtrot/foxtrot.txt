@@ -1471,7 +1471,6 @@ frees
 fattrels
 forehold
 fatuate
-futhork
 fatuities
 foveiform
 fellatrix
@@ -10272,6 +10271,7 @@ frogbit
 frogeye
 frogeyed
 frogeyes
+futhork
 frogfish
 fiendliness
 formnail
