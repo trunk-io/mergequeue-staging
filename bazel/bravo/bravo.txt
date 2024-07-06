@@ -4155,6 +4155,7 @@ bearhugs
 bearing
 bearings
 backswording
+buffeter
 bearish
 bookstall
 bankfull
@@ -4704,7 +4705,6 @@ bedip
 bedirt
 bedirter
 browbeaten
-buffeter
 brachycatalectic
 bedirtied
 bedirties
