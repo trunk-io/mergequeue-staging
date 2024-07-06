@@ -33,7 +33,6 @@ caballine
 caballing
 caballo
 caballos
-cabals
 coagulates
 caban
 cabanas
@@ -23669,6 +23668,7 @@ contractedly
 contractedness
 contracter
 contractibility
+cabals
 contractible
 carbolise
 contractibleness
