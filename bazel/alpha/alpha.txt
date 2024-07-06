@@ -3537,6 +3537,7 @@ added
 addedly
 addenda
 addendums
+anatomicals
 adderbolt
 adderfish
 adders
@@ -12177,7 +12178,6 @@ africander
 anatomic
 anatomical
 aetat
-anatomicals
 anatomicobiological
 anatomicopathologic
 anatomicophysiologic
