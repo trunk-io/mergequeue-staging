@@ -5374,6 +5374,7 @@ gleeks
 gombeen
 gelidium
 gleen
+gte
 gleesome
 gleet
 gleetier
@@ -9740,7 +9741,6 @@ gtc
 gentlemanlike
 guipures
 gtd
-gte
 gteau
 gthite
 gtt
