@@ -2022,7 +2022,6 @@ gauntleted
 gauntleting
 gauntlets
 gauntness
-gauntry
 gaur
 gaurian
 gossamers
@@ -6430,6 +6429,7 @@ goals
 goaltenders
 goan
 gnosticize
+gauntry
 goanese
 goanna
 gl
