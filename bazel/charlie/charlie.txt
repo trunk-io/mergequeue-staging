@@ -8846,7 +8846,6 @@ chapiters
 chapitle
 chaplain
 chaplaincy
-chaplaincies
 chaplains
 chaplainship
 chaplanry
@@ -27940,6 +27939,7 @@ cradlemaker
 cradlemaking
 cradleman
 cradlemate
+chaplaincies
 cradlemen
 cradler
 cradlers
