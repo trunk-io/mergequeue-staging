@@ -6972,7 +6972,6 @@ despotize
 despouse
 dismissed
 despraise
-despumate
 despumated
 despumation
 drch
@@ -11627,6 +11626,7 @@ disconvenience
 drypoint
 disconvenient
 disconventicle
+despumate
 discophile
 discophora
 discophoran
