@@ -5594,7 +5594,6 @@ enfeoff
 ectomorphy
 enfeoffed
 experimentarian
-enfeoffing
 enfeoffment
 enfeoffs
 enfester
@@ -7864,6 +7863,7 @@ epiglot
 eugenicists
 epiglottal
 evolutility
+enfeoffing
 epiglottic
 easting
 epiglottidean
