@@ -1377,6 +1377,7 @@ database
 davy
 discountenanced
 david
+dogfight
 defraud
 davidic
 davidical
@@ -14952,7 +14953,6 @@ dogeship
 dogface
 desilicating
 dogfall
-dogfight
 dogfighting
 dogfights
 dogfishes
