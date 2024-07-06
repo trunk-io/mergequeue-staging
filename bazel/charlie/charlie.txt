@@ -5276,6 +5276,7 @@ casten
 caster
 casterless
 casters
+crossfish
 casteth
 cepter
 castice
@@ -29870,7 +29871,6 @@ crossfertilizable
 crossfired
 cooption
 crossfiring
-crossfish
 crossflow
 crossflower
 crossfoot

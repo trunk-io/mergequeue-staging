@@ -8786,7 +8786,6 @@ equispaced
 equisufficiency
 extradicting
 embladder
-equitable
 equitably
 equitangential
 elberta
@@ -12998,6 +12997,7 @@ expedition
 expeditionary
 expeditionist
 expeditious
+equitable
 expeditiously
 expeditive
 expeditor
