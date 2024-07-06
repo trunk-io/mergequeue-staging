@@ -1190,7 +1190,6 @@ bern
 bajada
 bajan
 baseband
-bajardo
 bajarigar
 basaltoid
 bajocco
@@ -12255,6 +12254,7 @@ blendcorn
 boltcutter
 bodysurfed
 bolted
+bajardo
 blatter
 benefic
 boltel
