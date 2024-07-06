@@ -1704,6 +1704,7 @@ cam
 camaca
 camacan
 camachile
+chelidonic
 camagon
 camay
 camaieu
@@ -9812,7 +9813,6 @@ cysts
 chelydidae
 centas
 chelidonian
-chelidonic
 chelidonin
 chelidosaurus
 chelydra

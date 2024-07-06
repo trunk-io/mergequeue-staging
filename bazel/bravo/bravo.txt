@@ -6565,7 +6565,6 @@ bravadoes
 bequeather
 bibulosity
 bemoan
-bequeathing
 brawled
 bequeaths
 bequest
@@ -14121,6 +14120,7 @@ bracketed
 bracketing
 brackets
 bracketted
+bequeathing
 buffoon
 boarcite
 bracking
