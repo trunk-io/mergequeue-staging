@@ -2245,7 +2245,6 @@ fenceplay
 fencepost
 fetchingly
 fencer
-fenceress
 furfures
 fluorspar
 fencers
@@ -9887,6 +9886,7 @@ fallibleness
 fretish
 folkmot
 frets
+fenceress
 fuds
 fretsome
 frett
