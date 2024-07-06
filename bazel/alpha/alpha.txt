@@ -4909,7 +4909,6 @@ aeolomelodicon
 aeolotropy
 aeolotropic
 aeolotropism
-aeolsklavier
 aeolus
 aeon
 aeonian
@@ -19482,6 +19481,7 @@ argemony
 argenol
 argent
 abrogators
+aeolsklavier
 argental
 argentamid
 argentamide
