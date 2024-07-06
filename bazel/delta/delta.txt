@@ -4408,7 +4408,6 @@ demasculinise
 demasculinised
 demasculinising
 demasculinization
-demasculinize
 demasculinized
 demasculinizing
 demast
@@ -17307,6 +17306,7 @@ dromonds
 discothque
 dromophobia
 dromornis
+demasculinize
 dromos
 dromotropic
 drona
