@@ -1757,6 +1757,7 @@ gangliomata
 gastroduodenal
 genarchship
 gastroduodenitis
+gaolbird
 gastroduodenostomy
 gastroduodenostomies
 gastroduodenotomy
@@ -8660,7 +8661,6 @@ geranials
 glycerine
 gonys
 greenalite
-gaolbird
 greenbacks
 greenbelt
 glockenspiel
