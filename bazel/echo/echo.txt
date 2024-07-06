@@ -5436,7 +5436,6 @@ endotys
 enzyms
 endotoxic
 emboscata
-endotoxin
 endotrophic
 endoubt
 endoute
@@ -6258,6 +6257,7 @@ educabilian
 enragement
 ejaculatory
 enrages
+endotoxin
 enraging
 ethoxy
 eburnean
