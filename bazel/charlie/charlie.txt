@@ -4725,6 +4725,7 @@ carryable
 carriage
 carriageful
 carriageless
+comportable
 caline
 catallactic
 carriages
@@ -20842,7 +20843,6 @@ certitudes
 components
 compony
 comport
-comportable
 comportance
 catelectrotonus
 comported
