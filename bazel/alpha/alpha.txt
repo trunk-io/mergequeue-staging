@@ -7868,7 +7868,6 @@ aldm
 anthozooid
 aldoheptose
 antatrophic
-antiphrastical
 aldohexose
 aldoketene
 aldol
@@ -25268,6 +25267,7 @@ avulsing
 autocoids
 azodicarboxylic
 azoerythrin
+antiphrastical
 azofy
 azofication
 afibrinogenemia
