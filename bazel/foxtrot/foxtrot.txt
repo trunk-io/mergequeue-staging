@@ -2354,6 +2354,7 @@ fluorinations
 firearmed
 fodders
 frontes
+folkvang
 ferfel
 fregit
 flutterless
@@ -6909,7 +6910,6 @@ folksong
 folksongs
 folktale
 folktales
-folkvang
 folkvangr
 foll
 foller
