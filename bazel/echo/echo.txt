@@ -1193,6 +1193,7 @@ ethologies
 educate
 educated
 educatedly
+elegiacally
 educating
 education
 educationable
@@ -7846,7 +7847,6 @@ epigee
 epigeic
 epigenesist
 effigurate
-elegiacally
 epigenetic
 epigenic
 ensilation
