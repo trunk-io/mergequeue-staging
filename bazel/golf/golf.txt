@@ -1492,7 +1492,6 @@ garotter
 gravest
 garous
 garpikes
-garrat
 garret
 garreteer
 giinwale
@@ -3750,6 +3749,7 @@ gharris
 gdinfo
 ghassanid
 ghast
+garrat
 garreted
 gummous
 ghastful
