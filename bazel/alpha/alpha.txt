@@ -14518,7 +14518,6 @@ anthologised
 anthologising
 anthologist
 anthologists
-anthologize
 anthologizer
 anthologizing
 anthomania
@@ -17180,6 +17179,7 @@ apoblast
 apocaffeine
 armlets
 apocalypse
+anthologize
 abdicating
 apocalypst
 apocalyptic
