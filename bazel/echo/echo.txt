@@ -2866,6 +2866,7 @@ elevators
 entradas
 embrued
 elevatory
+evaporize
 expoundable
 elevenfold
 euphemism
@@ -11423,7 +11424,6 @@ engrain
 evaporite
 evaporitic
 exhibitive
-evaporize
 eluctate
 evaporometer
 evapotranspiration
