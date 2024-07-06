@@ -10575,7 +10575,6 @@ amie
 amyelencephalia
 amyelencephalic
 amyelencephalous
-amyelia
 amyelic
 amyelinic
 amyelonic
@@ -13944,6 +13943,7 @@ anophthalmia
 anophthalmos
 anophthalmus
 anopia
+amyelia
 anopias
 anopisthograph
 anthroponomical
