@@ -654,7 +654,6 @@ goitrogenicity
 gallinaginous
 gallinago
 gallinazo
-galline
 germanity
 galliney
 gallingly
@@ -4039,6 +4038,7 @@ galleries
 giftwrap
 granularity
 giftwrapping
+galline
 giga
 gigabyte
 gigabytes
