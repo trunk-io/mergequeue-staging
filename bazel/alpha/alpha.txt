@@ -17786,7 +17786,6 @@ appert
 appertained
 appertaining
 appertainment
-appertains
 appertinent
 appestat
 appestats
@@ -21990,6 +21989,7 @@ assuringly
 acridine
 adaptorial
 assuror
+appertains
 aggressing
 asswage
 asswaged
