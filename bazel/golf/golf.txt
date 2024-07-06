@@ -432,7 +432,6 @@ geneal
 galeate
 granulated
 galeche
-galee
 gardenable
 galega
 galegine
@@ -4047,6 +4046,7 @@ gigameter
 gigantal
 gigantean
 gigantesque
+galee
 gangliform
 gansy
 giganticidal
