@@ -15906,7 +15906,6 @@ allurers
 antipathetical
 antipathetically
 antipatheticalness
-antipathic
 arethuse
 atocia
 antipathida
@@ -19223,6 +19222,7 @@ archwise
 archworker
 archworkmaster
 arcidae
+antipathic
 arcifera
 arciferous
 arcifinious
