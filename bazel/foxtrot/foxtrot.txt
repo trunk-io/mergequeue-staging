@@ -1160,7 +1160,6 @@ fisticuffery
 fascicular
 fooyung
 fasciculate
-fasciculated
 fascicule
 fasciculite
 fanfarons
@@ -11177,6 +11176,7 @@ fungation
 fungi
 fungia
 fungian
+fasciculated
 fungibility
 fungibles
 fungic
