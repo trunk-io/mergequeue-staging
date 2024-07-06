@@ -14300,6 +14300,7 @@ antemask
 antemeridian
 antemetic
 antemillennial
+antidyscratic
 antemingent
 antemortal
 antemortem
@@ -15236,7 +15237,6 @@ antidiphtheric
 antidiphtherin
 antidiphtheritic
 antidisciplinarian
-antidyscratic
 antidysenteric
 antidisestablishmentarian
 antidisestablishmentarianism
