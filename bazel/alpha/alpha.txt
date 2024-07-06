@@ -6946,6 +6946,7 @@ aircraft
 aircraftman
 acetonylacetone
 aircrafts
+amenta
 aircraftsman
 assessee
 agamospore
@@ -10368,7 +10369,6 @@ amenorrheic
 amenorrhoea
 amenorrhoeal
 ament
-amenta
 artemisin
 amentaceous
 amental
