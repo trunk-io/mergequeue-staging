@@ -5352,7 +5352,6 @@ dissection
 dryophyllum
 dentiled
 dentilingual
-dentiloguy
 dentiloquy
 dentiloquist
 dobbies
@@ -5469,6 +5468,7 @@ deodorants
 deodorisation
 dayberry
 deodorise
+dentiloguy
 dehumanising
 deodorised
 deodoriser
