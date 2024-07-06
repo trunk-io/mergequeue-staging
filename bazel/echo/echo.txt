@@ -4841,7 +4841,6 @@ encomimiums
 encomium
 explicators
 elatives
-encomiums
 eggshell
 ectosteal
 encommon
@@ -11205,6 +11204,7 @@ eurythmic
 eurythmical
 eurythmics
 eurythmies
+encomiums
 emprizes
 eurytomidae
 eurytopicity
