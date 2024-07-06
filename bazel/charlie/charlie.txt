@@ -5077,7 +5077,6 @@ communes
 caseworm
 caseworms
 cash
-casha
 cashable
 cashableness
 cashaw
@@ -15681,6 +15680,7 @@ classlessness
 classman
 classmanship
 classmate
+casha
 classroom
 classwise
 coccidioidomycosis
