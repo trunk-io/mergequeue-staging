@@ -23955,7 +23955,6 @@ contund
 contune
 conturb
 conturbation
-contuse
 contused
 contusing
 contusion
@@ -24235,6 +24234,7 @@ convoke
 convoker
 convokers
 convokes
+contuse
 convoluta
 convoluted
 convolutedly
