@@ -10416,7 +10416,6 @@ americanized
 antitangent
 automated
 adjustation
-americanizer
 americanizes
 americanizing
 americanoid
@@ -17721,6 +17720,7 @@ appellor
 appels
 append
 appendage
+americanizer
 appendaged
 appendages
 appendalgia
