@@ -4036,7 +4036,6 @@ gigabytes
 glacon
 gigacycle
 gigahertz
-gests
 gigahertzes
 gigameter
 gigantal
@@ -6940,6 +6939,7 @@ grocerwise
 gonococcoid
 glumaceae
 gonocoel
+gests
 gonocoele
 gonogenesis
 gonomere
