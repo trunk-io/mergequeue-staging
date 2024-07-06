@@ -5490,7 +5490,6 @@ afforestational
 afforested
 afforesting
 afforestment
-afforests
 awnless
 affray
 accentuality
@@ -19445,6 +19444,7 @@ arethusa
 arethusas
 arette
 arew
+afforests
 arf
 arfillite
 arfvedsonite
