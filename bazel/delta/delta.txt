@@ -12587,6 +12587,7 @@ disjoints
 disjointure
 disjudication
 disjunctions
+downbeat
 disjunctive
 disjuncts
 dereferences
@@ -16248,7 +16249,6 @@ downbear
 depurant
 directrixes
 downbeard
-downbeat
 dragstaff
 downbeats
 downbent
