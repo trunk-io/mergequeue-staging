@@ -14925,7 +14925,6 @@ ceased
 cytoblastemous
 chelonid
 cytocentrum
-cytochalasin
 cytochemical
 cytochemistry
 cytochylema
@@ -30526,6 +30525,7 @@ cubomedusan
 cubometatarsal
 cubs
 cubti
+cytochalasin
 cuca
 cucaracha
 cuchan
