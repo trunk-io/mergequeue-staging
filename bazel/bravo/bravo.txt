@@ -3007,7 +3007,6 @@ boomable
 barrelsful
 brigantines
 barrelwise
-burbled
 barren
 babyhoods
 barrenest
@@ -10822,6 +10821,7 @@ blepharotomy
 blephillia
 blere
 bloop
+burbled
 blitzes
 blesbok
 blesboks
