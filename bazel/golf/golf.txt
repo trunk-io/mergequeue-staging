@@ -7641,7 +7641,6 @@ gracer
 gracilaria
 gracilariidae
 graciles
-gracilis
 gracility
 gracing
 graciosity
@@ -9473,6 +9472,7 @@ grouseward
 gyle
 giglets
 glioma
+gracilis
 gnomon
 graptolithida
 grandstanded
