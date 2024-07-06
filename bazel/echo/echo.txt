@@ -768,7 +768,6 @@ ecostate
 ecotype
 ecotypes
 enfurrow
-ecotypic
 excurvate
 entrapped
 extensure
@@ -12664,6 +12663,7 @@ emaciating
 exocone
 exocrine
 endokaryogamy
+ecotypic
 exocrines
 ephetic
 ellagitannin
