@@ -3578,7 +3578,6 @@ buriti
 bathygraphic
 belatticed
 bosomy
-bathyl
 bathylimnetic
 bathylite
 beltwise
@@ -4262,6 +4261,7 @@ beaupers
 beaus
 beauseant
 bullshots
+bathyl
 beausire
 berakot
 beaut

@@ -5401,7 +5401,6 @@ affiliates
 affiliating
 affiliation
 affiliations
-apery
 affinal
 affined
 affinely
@@ -8148,6 +8147,7 @@ algebraically
 addled
 algebraist
 algebraists
+apery
 abalone
 algebraized
 algebras
