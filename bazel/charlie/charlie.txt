@@ -5151,6 +5151,7 @@ casks
 caspar
 calantas
 caspian
+cromlech
 casque
 condylura
 casqued
@@ -26910,7 +26911,6 @@ counterideal
 counterimagination
 counterimitate
 counterimitation
-cromlech
 cyclomyarian
 counterindentation
 counterindented
