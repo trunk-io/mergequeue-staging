@@ -3817,7 +3817,6 @@ agile
 adeptness
 adepts
 adequacy
-adequacies
 adequate
 abasements
 adequately
@@ -10445,6 +10444,7 @@ agast
 acidize
 amerinds
 avoids
+adequacies
 anthracotherium
 amerveil
 amesaces
