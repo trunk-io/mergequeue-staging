@@ -4768,7 +4768,6 @@ encl
 enclaret
 enclasp
 extracathedral
-enclasped
 enclasping
 enclasps
 encephalos
@@ -9226,6 +9225,7 @@ extrascripturality
 erizo
 erke
 erliche
+enclasped
 erlking
 erlkings
 erma
