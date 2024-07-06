@@ -5089,7 +5089,6 @@ endmost
 exemplum
 experientially
 endoaortitis
-endoappendicitis
 endoauscultation
 enterauxe
 exodermis
@@ -10843,6 +10842,7 @@ eugenie
 eugenists
 eugenols
 eugeosynclinal
+endoappendicitis
 eugeosyncline
 euglandina
 euglenales
