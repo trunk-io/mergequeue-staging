@@ -25257,7 +25257,6 @@ corkages
 corkboard
 conventionalized
 carina
-corke
 comsomol
 corked
 corker
@@ -25387,6 +25386,7 @@ cornfloor
 cornflour
 cornflower
 corngrower
+corke
 cornhole
 cornhusk
 cornhusker
