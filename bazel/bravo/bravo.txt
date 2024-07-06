@@ -8905,7 +8905,6 @@ bromochlorophenol
 bulwark
 breviary
 binotic
-binous
 binormal
 bint
 bintangor
@@ -15334,6 +15333,7 @@ brillolette
 brills
 brim
 brimborion
+binous
 brimful
 benzdioxdiazine
 brimfully
