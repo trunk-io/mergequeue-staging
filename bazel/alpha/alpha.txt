@@ -3759,6 +3759,7 @@ adenolymphocele
 adenolymphoma
 adenoliomyofibroma
 adenolipoma
+aimable
 antiwedge
 adenolipomatosis
 adenologaditis
@@ -6876,7 +6877,6 @@ ailuropoda
 ailurus
 aim
 aoudads
-aimable
 aimak
 aymara
 aymaran
