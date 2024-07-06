@@ -17820,6 +17820,7 @@ applauders
 applauding
 armoire
 applaudingly
+archcount
 applauds
 applause
 applauses
@@ -18789,7 +18790,6 @@ anakinetic
 archconspirator
 archcorrupter
 archcorsair
-archcount
 antifeudal
 archcozener
 accensed
