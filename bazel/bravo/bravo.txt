@@ -366,7 +366,6 @@ biorgan
 backdown
 backdrops
 backed
-butteris
 backen
 backened
 backening
@@ -10473,6 +10472,7 @@ blastodermatic
 blastodermic
 balcone
 blastodisc
+butteris
 blastodisk
 bobfly
 blastoff

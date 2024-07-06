@@ -74,7 +74,6 @@ dacryocystoptosis
 dacryocystorhinostomy
 dacryocystosyringotomy
 dacryocystotome
-dacryocystotomy
 dacryohelcosis
 dorsolateral
 dacryohemorrhea
@@ -1702,6 +1701,7 @@ deathify
 deathin
 deathiness
 deathless
+dacryocystotomy
 dari
 deathlessly
 deathlessness
