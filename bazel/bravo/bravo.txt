@@ -1153,7 +1153,6 @@ bais
 baisemain
 boardable
 baysmelt
-baister
 bait
 boopic
 baiter
@@ -4145,6 +4144,7 @@ beardom
 beards
 booleans
 bearer
+baister
 buttled
 buoyage
 bronchomotor
