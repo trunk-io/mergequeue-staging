@@ -423,6 +423,7 @@ faring
 frist
 faithbreach
 faithbreaker
+freeholders
 formatted
 fouett
 feater
@@ -9621,7 +9622,6 @@ farinhas
 flancards
 freehold
 freeholder
-freeholders
 freeholdership
 freeholding
 fosters
