@@ -3888,7 +3888,6 @@ carcinoid
 carcinolysin
 carcinolytic
 corradial
-carcinology
 carcinological
 carcinologist
 carcinoma
@@ -12174,6 +12173,7 @@ chowsed
 careened
 chowses
 comus
+carcinology
 chowsing
 chowtimes
 chozar
