@@ -986,6 +986,7 @@ daric
 darics
 darien
 daryl
+depaint
 daphnin
 deject
 decurring
@@ -4905,7 +4906,6 @@ demoralization
 demoralize
 demoralized
 demoralizers
-depaint
 demoralizes
 demoralizing
 demoralizingly
