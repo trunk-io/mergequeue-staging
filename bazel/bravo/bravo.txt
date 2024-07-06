@@ -2146,7 +2146,6 @@ bankmen
 banknote
 bankrider
 bankroll
-bankrolls
 bankrupcy
 bureaucratese
 bankrupt
@@ -12982,6 +12981,7 @@ borderer
 borderers
 borderies
 bordering
+bankrolls
 borderings
 borderland
 borderlander
