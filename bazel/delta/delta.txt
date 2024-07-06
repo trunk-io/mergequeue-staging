@@ -9622,6 +9622,7 @@ digressingly
 deerskins
 digression
 digressional
+draws
 doup
 digressions
 digressive
@@ -16849,7 +16850,6 @@ drawout
 drawpoint
 dusks
 drawrod
-draws
 drawshave
 drawsheet
 drawspan
