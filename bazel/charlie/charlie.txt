@@ -8318,7 +8318,6 @@ chalcidicum
 chalcididae
 chalcidoid
 cidarid
-chalcidoidea
 chalcids
 chalcioecus
 chalcis
@@ -13954,6 +13953,7 @@ cingulum
 cynhyena
 cynias
 cyniatria
+chalcidoidea
 cynic
 cynical
 coastguard
