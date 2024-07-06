@@ -7819,6 +7819,7 @@ devotionist
 devotions
 devoto
 devour
+dom
 devourable
 doctorfish
 devourer
@@ -15291,7 +15292,6 @@ doltishness
 deformations
 displeases
 dolus
-dom
 defaulter
 domage
 domain
