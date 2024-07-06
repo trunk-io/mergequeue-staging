@@ -2975,7 +2975,6 @@ fundamentality
 fiberous
 fiberscope
 fiberware
-fibration
 fibreboard
 fibred
 fibreless
@@ -10907,6 +10906,7 @@ fullhearted
 fulling
 fullish
 foraminated
+fibration
 foulmouthedly
 fullmouthed
 fullnesses
