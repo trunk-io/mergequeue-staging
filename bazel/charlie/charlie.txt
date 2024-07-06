@@ -12960,7 +12960,6 @@ churlishness
 culpableness
 churm
 churn
-churnability
 churnable
 churned
 churner
@@ -16453,6 +16452,7 @@ clition
 clitoral
 clitoria
 cribration
+churnability
 clitoric
 clitoridauxe
 clitoridean
