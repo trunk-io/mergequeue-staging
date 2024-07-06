@@ -3352,7 +3352,6 @@ genyoplasty
 gerb
 gerbe
 gummite
-gerbilles
 gerbillinae
 gunbearer
 gerbils
@@ -6884,6 +6883,7 @@ gonidiose
 gonidium
 gonifs
 gripment
+gerbilles
 ghyll
 gropers
 glassworker
