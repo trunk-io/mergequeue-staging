@@ -5709,7 +5709,6 @@ filaze
 fromages
 footrill
 foundery
-ferninst
 fluidglycerate
 filmdom
 fungoid
@@ -11059,6 +11058,7 @@ fun
 fatal
 funambulant
 funambulate
+ferninst
 frequence
 forceps
 funambulated
