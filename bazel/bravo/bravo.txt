@@ -4580,7 +4580,6 @@ bedaubs
 bedlike
 bedawee
 bockerel
-bryozoa
 bedawn
 bedaze
 bedazed
@@ -17251,6 +17250,7 @@ blackfin
 bumblings
 bumbo
 bumboat
+bryozoa
 bumboatman
 bumboatmen
 bumboats
