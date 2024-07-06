@@ -1639,6 +1639,7 @@ apokreos
 acclimatize
 acclimatized
 acclimatizer
+amygdalolith
 acclimatizes
 acclimatizing
 acclimature
@@ -10605,7 +10606,6 @@ amygdalitis
 antidromic
 amygdaloid
 amygdaloidal
-amygdalolith
 amygdalothripsis
 amygdalotome
 appaloosas
