@@ -4263,7 +4263,6 @@ fise
 fisetin
 fulgurous
 fish
-fishpotter
 fishability
 fishable
 friezing
@@ -8427,6 +8426,7 @@ fratricides
 festination
 furtively
 formicide
+fishpotter
 flourishing
 freighter
 fasciculi
