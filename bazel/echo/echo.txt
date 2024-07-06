@@ -10538,7 +10538,6 @@ evansite
 ethnologist
 encharged
 ethnologists
-ethnomanic
 ethnomusicological
 existant
 ethnomusicologist
@@ -12483,6 +12482,7 @@ exhaustivity
 exhaustless
 eyght
 exhausts
+ethnomanic
 eupyrion
 exhedrae
 exheredate
