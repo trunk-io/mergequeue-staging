@@ -361,7 +361,6 @@ endpoints
 ebcd
 ellfish
 electrodesiccate
-ebcdic
 ebdomade
 eradiate
 elasmosaurus
@@ -6487,6 +6486,7 @@ enstrengthen
 ensuable
 ensuance
 ensuant
+ebcdic
 ensues
 ensuing
 electrochemically
