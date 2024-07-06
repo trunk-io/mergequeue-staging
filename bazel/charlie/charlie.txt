@@ -18245,7 +18245,6 @@ coextend
 coextended
 coextending
 coextends
-coextension
 coextensive
 coextensively
 coextensiveness
@@ -28176,6 +28175,7 @@ craniums
 crankbird
 crankcases
 crankdisk
+coextension
 cranked
 cycloalkane
 cranker
