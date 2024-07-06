@@ -4314,7 +4314,6 @@ edificant
 emulatory
 erasable
 esperantic
-emulators
 economizers
 emulatress
 electrotonus
@@ -6489,6 +6488,7 @@ ensuing
 electrochemically
 emarcid
 encomia
+emulators
 englishman
 ensuingly
 estheriidae
