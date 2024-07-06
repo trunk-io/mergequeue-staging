@@ -13589,7 +13589,6 @@ extensometer
 excess
 extensor
 ephemeralness
-exaristate
 eigenvalues
 extensors
 extent
@@ -13978,6 +13977,7 @@ extraspectral
 extraspherical
 extraspinal
 extrastapedial
+exaristate
 emigratory
 extrasterile
 extrastomachal
