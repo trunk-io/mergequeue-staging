@@ -2417,6 +2417,7 @@ electroforming
 electrofuse
 electrofusion
 electrogalvanic
+exsiccant
 electrogenesis
 electrogenic
 electrogild
@@ -13482,7 +13483,6 @@ esparto
 exsibilation
 efformative
 entreatment
-exsiccant
 exsiccatae
 enomotarch
 exsiccate
