@@ -1166,7 +1166,6 @@ fascicule
 fasciculite
 fanfarons
 fasciculus
-fiascoes
 fascili
 fissipalmate
 footbridge
@@ -3936,6 +3935,7 @@ fistula
 fooling
 fingram
 fingu
+fiascoes
 fini
 faldage
 finically
