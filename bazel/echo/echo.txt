@@ -1196,6 +1196,7 @@ educatedly
 educating
 education
 educationable
+emboldened
 educational
 educationalist
 educationese
@@ -12259,7 +12260,6 @@ excuseless
 excuser
 excusing
 ephah
-emboldened
 easing
 excusively
 excussed
