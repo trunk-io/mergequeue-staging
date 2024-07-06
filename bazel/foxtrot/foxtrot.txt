@@ -1063,7 +1063,6 @@ farmeries
 farmerly
 fermata
 farmerlike
-facient
 frigotherapy
 farmers
 foresights
@@ -2736,6 +2735,7 @@ fetalization
 fribbles
 fetations
 fetched
+facient
 filanders
 featherbed
 fetcher
