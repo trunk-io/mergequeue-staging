@@ -10584,7 +10584,6 @@ crosslet
 chylify
 cropweed
 chylific
-chylification
 crossbill
 chylified
 chylifying
@@ -15322,6 +15321,7 @@ clairce
 claire
 clairecole
 clairecolle
+chylification
 catamneses
 claires
 clairseach
