@@ -7514,7 +7514,6 @@ betweens
 betweentimes
 betweenwhiles
 bleedings
-betwit
 betwixen
 betwixt
 booteries
@@ -16267,6 +16266,7 @@ brulyie
 brulyiement
 brulyies
 brulot
+betwit
 brulots
 brulzie
 bankroller
