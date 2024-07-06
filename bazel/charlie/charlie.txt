@@ -11167,6 +11167,7 @@ chivalrous
 chivalrously
 chivaree
 corruptless
+ct
 chivareeing
 chivarees
 chivari
@@ -22193,7 +22194,6 @@ confusion
 chirm
 confusions
 confusive
-ct
 confusticate
 confustication
 confutability
