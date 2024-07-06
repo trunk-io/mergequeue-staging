@@ -6074,7 +6074,6 @@ ageratum
 ageratums
 amahs
 agers
-ages
 aget
 agete
 ageusia
@@ -10839,6 +10838,7 @@ ammochaetae
 ammochryse
 ammocoete
 ammocoetes
+ages
 ammocoetid
 ammocoetidae
 asa
