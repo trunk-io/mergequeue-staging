@@ -4613,7 +4613,6 @@ becrush
 byplays
 brinston
 bedcovers
-beddable
 bedder
 bedding
 beddingroll
@@ -5850,6 +5849,7 @@ bellowsmaking
 bilaciniate
 bellowsman
 bellpull
+beddable
 bellpulls
 bellrags
 botchers
