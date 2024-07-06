@@ -2597,7 +2597,6 @@ awkwardest
 acknowledgment
 absentee
 acknowledgments
-acknown
 adelphous
 ackton
 acle
@@ -8473,6 +8472,7 @@ aliturgical
 antipodeans
 aliunde
 aliveness
+acknown
 alives
 alivincular
 alix
