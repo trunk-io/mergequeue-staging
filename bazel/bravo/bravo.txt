@@ -11651,6 +11651,7 @@ boatloading
 baske
 boatloads
 boatman
+bodybuilder
 boatmanship
 boatmaster
 boatmen
@@ -11806,7 +11807,6 @@ bodger
 bodgery
 bodybending
 bakshis
-bodybuilder
 bilges
 bodybuilders
 bodybuilding
