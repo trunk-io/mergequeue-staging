@@ -2229,7 +2229,6 @@ fimicolous
 femororotulian
 friskets
 forehard
-femur
 femurs
 fenagled
 fenagler
@@ -10581,6 +10580,7 @@ fructescence
 fructiculose
 fructicultural
 friended
+femur
 fructidor
 fenestrae
 fructiferous
