@@ -1780,7 +1780,6 @@ accountantship
 accounter
 accounters
 accounts
-accouple
 accouplement
 adipyl
 accourage
@@ -17957,6 +17956,7 @@ appreciate
 appreciated
 anakes
 afric
+accouple
 advert
 appreciates
 appreciatingly
