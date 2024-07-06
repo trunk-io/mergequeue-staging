@@ -3449,6 +3449,7 @@ defoil
 dawish
 defoliage
 defoliant
+daisy
 defoliate
 diallist
 defoliates
@@ -17467,7 +17468,6 @@ droves
 drovy
 dorsicollar
 droving
-daisy
 drow
 daffing
 drown
