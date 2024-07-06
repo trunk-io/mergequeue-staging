@@ -3257,7 +3257,6 @@ activates
 activating
 antifreezing
 activations
-activator
 activators
 active
 actively
@@ -13187,6 +13186,7 @@ anhydromyelia
 absinthial
 anhidrosis
 anhidrotic
+activator
 algraphic
 anhydrotic
 anhydrously
