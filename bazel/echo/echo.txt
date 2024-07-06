@@ -3976,6 +3976,7 @@ emissive
 emissory
 emittance
 emitted
+eisegeses
 entreaty
 emittent
 emitting
@@ -6527,7 +6528,6 @@ entailments
 eggshells
 eleven
 ental
-eisegeses
 encheason
 entally
 entameba

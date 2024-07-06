@@ -5249,7 +5249,6 @@ filenames
 fleckered
 fleckering
 flecky
-facsim
 floaty
 floriferousness
 fluocerine
@@ -7671,6 +7670,7 @@ foreheater
 forehew
 forehock
 forehoof
+facsim
 forehoofs
 fibular
 foreyard
