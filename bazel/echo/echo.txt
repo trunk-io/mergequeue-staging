@@ -4367,7 +4367,6 @@ enablers
 enabling
 enact
 enactable
-excursioner
 enacted
 epiphysitis
 epithelioglandular
@@ -11479,6 +11478,7 @@ evensongs
 expiation
 eventail
 eventful
+excursioner
 eventfulness
 eventide
 exuvia
