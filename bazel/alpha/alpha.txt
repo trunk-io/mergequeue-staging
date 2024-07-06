@@ -6689,7 +6689,6 @@ asthenias
 aha
 ahab
 auras
-attemper
 ahamkara
 ahankara
 ahantchuyuk
@@ -23103,6 +23102,7 @@ attinge
 attingency
 attingent
 attirail
+attemper
 attire
 attired
 abrasax
