@@ -14030,7 +14030,6 @@ cynomoriaceous
 cynomorium
 cynomorpha
 contraindicating
-cynomorphic
 cynomorphous
 cynophile
 cynophilic
@@ -30728,6 +30727,7 @@ culex
 culgee
 culices
 culicid
+cynomorphic
 classifiable
 culicidae
 culicidal
