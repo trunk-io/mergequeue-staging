@@ -3462,7 +3462,6 @@ buckeye
 basswoods
 bast
 basta
-bastant
 bastard
 bastardice
 bimalar
@@ -15180,6 +15179,7 @@ besetter
 bridegrooms
 bluegown
 bridegroomship
+bastant
 bridehead
 bridehood
 bridehouse
