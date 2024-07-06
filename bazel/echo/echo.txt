@@ -110,7 +110,6 @@ earmuff
 employees
 earmuffs
 earn
-earned
 earners
 earnestful
 encastered
@@ -8411,6 +8410,7 @@ epityphlon
 experienceless
 epitomate
 excubittoria
+earned
 exacerbescent
 epitomator
 equivocating
