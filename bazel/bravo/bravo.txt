@@ -3605,6 +3605,7 @@ bethabara
 baudery
 bathysphere
 bathyspheres
+bister
 beneplacit
 bathythermogram
 bravely
@@ -9806,7 +9807,6 @@ bystander
 bystanders
 bistate
 bistephanic
-bister
 bistered
 buoyancies
 bisters
