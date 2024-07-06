@@ -4436,6 +4436,7 @@ beckoned
 bedimpling
 byname
 beckoner
+bogeying
 beckoners
 beckoning
 beckoningly
@@ -14225,7 +14226,6 @@ benefactory
 braes
 brag
 bragas
-bogeying
 brager
 braggadocian
 beechdrops
