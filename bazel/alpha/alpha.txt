@@ -12712,7 +12712,6 @@ anaeretic
 anesthetizer
 ancestresses
 angering
-anesthetizes
 anesthetizing
 anesthyl
 anestri
@@ -24494,6 +24493,7 @@ aberrometer
 autoxidator
 autoxidizability
 autoxidize
+anesthetizes
 autoxidizer
 antebellum
 autozooid
