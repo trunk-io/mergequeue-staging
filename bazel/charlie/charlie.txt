@@ -352,7 +352,6 @@ cacophony
 cacophonia
 cacophonic
 contactor
-cacophonical
 cacophonically
 cardiatomy
 coetaneity
@@ -2406,6 +2405,7 @@ candlestand
 convertable
 candlestick
 candlesticked
+cacophonical
 candlesticks
 candlewaster
 candlewasting
