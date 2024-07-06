@@ -1771,7 +1771,6 @@ apyrous
 accountably
 accountancy
 accountant
-airships
 accountants
 archon
 accountantship
@@ -12137,6 +12136,7 @@ anathemas
 arcsines
 allhallows
 anathematic
+airships
 anathematical
 anathematically
 anathematisation
