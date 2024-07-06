@@ -1081,6 +1081,7 @@ farmland
 fluorosis
 farmlands
 francisca
+fractionised
 fisc
 farmplace
 finials
@@ -10254,7 +10255,6 @@ frizzled
 frizzles
 farmhouses
 frizzly
-fractionised
 frizzlier
 faults
 frizzliest
