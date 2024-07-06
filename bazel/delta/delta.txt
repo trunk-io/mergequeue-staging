@@ -279,7 +279,6 @@ daggletail
 daggletailed
 disbursement
 doek
-daggly
 daggling
 daghesh
 dagmar
@@ -2390,6 +2389,7 @@ decimator
 decime
 decimestrial
 decimeter
+daggly
 decimeters
 daybreaks
 decouples
