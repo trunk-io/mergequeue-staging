@@ -2279,7 +2279,6 @@ fends
 fenestellae
 fenester
 fenestral
-fenestrated
 fenestration
 fenestrule
 furthermost
@@ -5966,6 +5965,7 @@ florescent
 floressence
 floreta
 floreted
+fenestrated
 footworn
 faradisms
 frizette
