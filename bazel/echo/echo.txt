@@ -5037,7 +5037,6 @@ endemisms
 endenization
 endenize
 endostylar
-endenizen
 ender
 endergonic
 epirotic
@@ -12680,6 +12679,7 @@ exoderms
 exody
 exodist
 enlinked
+endenizen
 exodoi
 exodontia
 exodontic
