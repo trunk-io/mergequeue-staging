@@ -3305,7 +3305,6 @@ fiendishly
 fiendishness
 fiendism
 fiendlike
-firebolt
 feverously
 fip
 fiends
@@ -7554,6 +7553,7 @@ foredesign
 freck
 foredesignment
 foredesk
+firebolt
 foredestine
 foredestined
 foredestiny
