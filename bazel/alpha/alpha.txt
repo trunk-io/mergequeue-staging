@@ -3928,7 +3928,6 @@ adiate
 adiated
 adiathermal
 arridge
-adiathermic
 anisostaminous
 adiathetic
 adiating
@@ -12153,6 +12152,7 @@ anathematically
 anathematisation
 anathematise
 anathematised
+adiathermic
 anathematiser
 anathematising
 anathematism
