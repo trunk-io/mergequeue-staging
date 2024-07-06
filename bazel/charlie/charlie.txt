@@ -8011,7 +8011,6 @@ cetonian
 cetoniinae
 chaster
 cetorhinid
-cetorhinidae
 cetorhinoid
 cetorhinus
 cetotolite
@@ -15527,6 +15526,7 @@ clare
 clarence
 clarences
 clarenceux
+cetorhinidae
 curfewing
 clarencieux
 clares
