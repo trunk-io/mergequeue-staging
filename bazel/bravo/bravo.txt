@@ -5653,7 +5653,6 @@ belemnoidea
 bagasses
 beleper
 beletter
-beleve
 belfast
 bilio
 bismarckian
@@ -12964,6 +12963,7 @@ bordage
 blaring
 bordar
 bunches
+beleve
 baggy
 beneurous
 bordarius
