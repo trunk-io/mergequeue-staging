@@ -3269,7 +3269,6 @@ gregal
 goa
 geosynclinal
 geosynclines
-gadfly
 geosphere
 goldanged
 guacharos
@@ -7775,6 +7774,7 @@ graybeards
 graycoat
 grayed
 grayest
+gadfly
 golundauze
 grayfish
 grayhead
