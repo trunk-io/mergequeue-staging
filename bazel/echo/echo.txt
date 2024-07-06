@@ -574,7 +574,6 @@ echinochrome
 echinococcosis
 echinococcus
 echinoderidae
-echinoderm
 echinoderma
 echinodermal
 echinodermata
@@ -711,6 +710,7 @@ ecocidal
 exercisable
 ecocide
 extraparietal
+echinoderm
 ecoclimate
 empery
 exospheric
