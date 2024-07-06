@@ -5386,6 +5386,7 @@ dentition
 deputized
 dentolabial
 dentolingual
+disauthentic
 dentololabial
 dentonasal
 dentosurgical
@@ -11158,7 +11159,6 @@ disastrousness
 disattaint
 disattire
 disattune
-disauthentic
 disauthenticate
 disauthorize
 dysautonomia
