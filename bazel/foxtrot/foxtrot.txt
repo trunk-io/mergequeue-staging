@@ -3153,7 +3153,6 @@ fictious
 fouls
 folkloric
 fictive
-fictively
 ficula
 fid
 fidac
@@ -4558,6 +4557,7 @@ fixture
 frore
 fumigators
 fixtureless
+fictively
 farming
 fixup
 forwarding
