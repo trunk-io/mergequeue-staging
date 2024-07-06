@@ -14808,7 +14808,6 @@ breakax
 breakaxe
 breakback
 burghermaster
-breakbones
 brasero
 breadbox
 breaker
@@ -17478,6 +17477,7 @@ bipinnatiparted
 buoyant
 buoyantly
 balancing
+breakbones
 buoyantness
 bratticing
 brigandism
