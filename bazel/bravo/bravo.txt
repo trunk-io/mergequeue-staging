@@ -5125,7 +5125,6 @@ befoam
 befog
 befogged
 befogging
-befogs
 batoid
 brigous
 befool
@@ -8718,6 +8717,7 @@ bills
 billsticker
 burliest
 billtong
+befogs
 bacauan
 bilobated
 bilobe
