@@ -15665,7 +15665,6 @@ challengers
 classier
 classiest
 classify
-classifiable
 comoid
 classific
 classifically
@@ -30730,6 +30729,7 @@ culex
 culgee
 culices
 culicid
+classifiable
 culicidae
 culicidal
 culicids
