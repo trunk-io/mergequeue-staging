@@ -9556,7 +9556,6 @@ digitising
 desulphurise
 durneder
 digitization
-digitizer
 digitizes
 differentia
 digitogenin
@@ -18578,6 +18577,7 @@ divulgers
 dustpoint
 dustrags
 dissentient
+digitizer
 dendron
 dusts
 dustsheet

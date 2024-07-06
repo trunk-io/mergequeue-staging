@@ -1449,7 +1449,6 @@ frison
 fatsos
 fatstock
 fatted
-fatten
 fattenable
 foci
 forbearances
@@ -6897,6 +6896,7 @@ farmhold
 folkmooter
 furtherance
 fidgetation
+fatten
 folkmoots
 folkmote
 folkmoter
