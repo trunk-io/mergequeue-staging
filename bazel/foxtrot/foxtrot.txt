@@ -1945,6 +1945,7 @@ feeds
 footsoldiers
 feedstock
 feedstuff
+fewnes
 fourniture
 feedway
 feedwater
@@ -2894,7 +2895,6 @@ few
 fewmets
 fogle
 frogland
-fewnes
 focalising
 feasibly
 floriated
