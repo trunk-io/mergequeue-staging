@@ -6612,7 +6612,6 @@ endorsement
 epilate
 enterocinesia
 enterocinetic
-enterocyst
 engineery
 enterocleisis
 enteroclisis
@@ -9207,6 +9206,7 @@ erythropsin
 extraneously
 exploding
 erythrose
+enterocyst
 erythrosin
 erythrosine
 erythrosinophile
