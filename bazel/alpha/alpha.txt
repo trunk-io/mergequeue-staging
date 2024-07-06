@@ -14436,7 +14436,6 @@ aforethought
 antevocalic
 antewar
 anthdia
-anthecological
 anthecologist
 antheia
 alegars
@@ -20326,6 +20325,7 @@ arrode
 arrogance
 arrogancy
 arrogant
+anthecological
 arrogantly
 arrogate
 arrogated
