@@ -3415,7 +3415,6 @@ embelif
 embelin
 essang
 embellish
-embellished
 extendlessness
 embellisher
 epigrammatise
@@ -12390,6 +12389,7 @@ exemptions
 exempts
 exencephalia
 exencephalic
+embellished
 enacting
 excessman
 exencephalus
