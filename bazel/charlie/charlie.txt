@@ -14975,6 +14975,7 @@ cytologies
 cecotomy
 cytologist
 cytologists
+colorfast
 cytoma
 caperdewsie
 cytomegalic
@@ -19441,7 +19442,6 @@ colored
 coloreds
 colorer
 colorers
-colorfast
 colorfastness
 colorful
 cryopathy

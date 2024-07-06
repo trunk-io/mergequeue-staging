@@ -1294,7 +1294,6 @@ buffaloing
 below
 balayeuse
 balaklava
-benzothiazole
 balalaika
 balalaikas
 balan
@@ -8510,6 +8509,7 @@ bilberry
 bilberries
 bilbi
 bellmouthed
+benzothiazole
 bilbie
 begulfed
 bilbies
