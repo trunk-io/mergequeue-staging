@@ -4998,6 +4998,7 @@ denarinarii
 depolarised
 denarius
 denaro
+dislock
 denasalize
 denasalized
 draped
@@ -12686,7 +12687,6 @@ dislocation
 dislocator
 dislocatory
 depress
-dislock
 drinkables
 dislodgeable
 dislodged
