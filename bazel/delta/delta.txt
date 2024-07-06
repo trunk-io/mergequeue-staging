@@ -11712,7 +11712,6 @@ discourseless
 discoursers
 discourses
 discoursing
-discoursive
 discoursiveness
 daydreamed
 discourteous
@@ -12651,6 +12650,7 @@ dyslexias
 dyslexics
 dislikable
 dislikeable
+discoursive
 dislikeful
 dislikeness
 dislikers
