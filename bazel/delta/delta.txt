@@ -2453,6 +2453,7 @@ deckpipe
 diaplex
 deckswabber
 decl
+decigrams
 donations
 declaim
 disanimated
@@ -10033,7 +10034,6 @@ dynagraph
 dinah
 dynam
 dynameter
-decigrams
 dynametric
 dynamic
 dumas
