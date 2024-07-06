@@ -5264,7 +5264,6 @@ gasbags
 goralog
 glassworm
 glaswegian
-gees
 glathsheim
 glathsheimr
 glaucescent
@@ -6680,6 +6679,7 @@ goldhead
 greaseless
 garottes
 goldi
+gees
 goldy
 goldie
 gasolier
