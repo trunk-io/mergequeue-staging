@@ -3511,6 +3511,7 @@ emblems
 emblic
 embloom
 encryptions
+explanting
 electret
 ecclesiologic
 eringoes
@@ -13179,7 +13180,6 @@ equippers
 explant
 explantation
 explanted
-explanting
 equiponderated
 elsa
 explement
