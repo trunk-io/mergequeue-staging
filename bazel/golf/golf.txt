@@ -2180,6 +2180,7 @@ griskins
 gazzetta
 gconv
 gd
+gangrened
 gds
 ge
 griffithite
@@ -3954,7 +3955,6 @@ gibers
 gibes
 guttle
 gigged
-gangrened
 gibing
 gelandejump
 galactonic

@@ -8370,7 +8370,6 @@ bigfoot
 baldmoneys
 bigg
 bigged
-biggened
 biggening
 bisie
 bigger
@@ -13004,6 +13003,7 @@ boread
 boreades
 bunged
 bops
+biggened
 brogan
 boreal
 borealis
