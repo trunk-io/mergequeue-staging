@@ -10461,7 +10461,6 @@ chields
 cruciferae
 chien
 chievance
-chieve
 chiffchaff
 chiffer
 cynocephalus
@@ -18261,6 +18260,7 @@ coffea
 centrolineal
 coffeeberry
 coffeeberries
+chieve
 coffeecake
 coffeecup
 coffeegrower
