@@ -17087,6 +17087,7 @@ coachmaster
 conglobulate
 coachs
 coachsmith
+compearance
 coachway
 coevolving
 coachwise
@@ -20563,7 +20564,6 @@ compatriotism
 compatriots
 compd
 compear
-compearance
 compearant
 comped
 compeer
