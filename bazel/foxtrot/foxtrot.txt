@@ -4079,6 +4079,7 @@ fireburn
 fireclay
 fireclays
 firecoat
+foresaw
 federatist
 firecracker
 firecrackers
@@ -7867,7 +7868,6 @@ foresaddle
 foresails
 fantastical
 foresays
-foresaw
 forescene
 foreschool
 forescript
