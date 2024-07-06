@@ -5728,7 +5728,6 @@ flyways
 fissicostate
 further
 flyweight
-flyweights
 forthon
 flywheel
 flywinch
@@ -9554,6 +9553,7 @@ frecklish
 fred
 fantasias
 fredaine
+flyweights
 freddy
 freddie
 freddo
