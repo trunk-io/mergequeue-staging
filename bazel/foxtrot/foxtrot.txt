@@ -3453,7 +3453,6 @@ feedlot
 feringhee
 fusilade
 fungicides
-filament
 filamentary
 felworts
 filamented
@@ -9473,6 +9472,7 @@ fraud
 frauder
 fraudlessly
 fraudlessness
+filament
 furcate
 fyces
 foretimed
