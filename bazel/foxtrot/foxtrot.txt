@@ -709,7 +709,6 @@ famulative
 famulus
 fana
 foetors
-fanakalo
 falcation
 fanam
 fanatic
@@ -9999,6 +9998,7 @@ frigage
 frigate
 frigates
 foilable
+fanakalo
 frigatoon
 februarius
 freshman
