@@ -13451,7 +13451,6 @@ asyllabical
 anisomelia
 anisomelus
 anisomeric
-anisomerous
 anisometric
 anisometrope
 anisometropic
@@ -20491,6 +20490,7 @@ artemas
 affidare
 artemia
 artemis
+anisomerous
 artemisia
 apiolin
 artemisic
