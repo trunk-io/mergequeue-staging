@@ -2623,7 +2623,6 @@ decolorizer
 decolorizing
 decolors
 decolour
-defenselessness
 decolouration
 decolourisation
 decolourised
@@ -13080,6 +13079,7 @@ dysphasia
 dysphasic
 denazify
 dysphemia
+defenselessness
 dysphemistic
 dimpsy
 diddered
