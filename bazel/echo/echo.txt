@@ -2419,6 +2419,7 @@ electroengrave
 eudalene
 electroergometer
 electroetching
+emborders
 electroethereal
 electroextraction
 expedient
@@ -3568,7 +3569,6 @@ embolus
 emborder
 embordered
 endict
-emborders
 embosked
 educables
 embosking
