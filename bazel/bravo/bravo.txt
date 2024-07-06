@@ -3709,6 +3709,7 @@ bats
 batsman
 batsmanship
 broncs
+biograph
 bedlamic
 batsmen
 batswing
@@ -7055,7 +7056,6 @@ besmudges
 besmudging
 besweeten
 besmut
-biograph
 besmutch
 boxes
 besnare
