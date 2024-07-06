@@ -5295,7 +5295,6 @@ begluc
 beelines
 breviers
 begnaw
-begnawed
 begnawn
 begob
 begobs
@@ -11951,6 +11950,7 @@ bohairic
 bohawn
 bohea
 boheas
+begnawed
 bohemia
 bickern
 beauish

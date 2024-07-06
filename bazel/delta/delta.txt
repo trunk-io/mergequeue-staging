@@ -5672,7 +5672,6 @@ deplaceable
 deplane
 deplaned
 dragonfish
-denumeration
 deplaning
 deplant
 deplantation
@@ -13599,6 +13598,7 @@ dissyllabising
 dissyllabism
 dipterologist
 dissyllabize
+denumeration
 doth
 discoglossidae
 domicilii
