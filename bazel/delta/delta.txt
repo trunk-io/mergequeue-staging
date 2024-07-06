@@ -15301,7 +15301,6 @@ domer
 domes
 domesday
 domesdays
-domesticality
 domesticate
 domesticated
 domesticates
@@ -18432,6 +18431,7 @@ duraspinalis
 duration
 durational
 durationless
+domesticality
 dulcifluous
 durations
 duratives
