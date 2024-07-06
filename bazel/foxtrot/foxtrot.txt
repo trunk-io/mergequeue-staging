@@ -3748,7 +3748,6 @@ filtre
 filum
 fimbria
 fimbrial
-fimbriate
 feeblemindedly
 fimbriating
 finises
@@ -6021,6 +6020,7 @@ floristics
 floristry
 florisugent
 florivorous
+fimbriate
 florizine
 floroon
 floroscope

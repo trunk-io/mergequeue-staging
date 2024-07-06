@@ -22172,7 +22172,6 @@ confraternities
 confrere
 confreres
 confrerie
-confriar
 chorography
 confricamentum
 confrication
@@ -28836,6 +28835,7 @@ cresset
 cressets
 cressy
 cressida
+confriar
 cressiest
 cressweed
 cresswort
