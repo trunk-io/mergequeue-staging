@@ -14303,6 +14303,7 @@ antennary
 antennaria
 antennariid
 antennarius
+auletai
 antennas
 antennata
 antennate
@@ -23435,7 +23436,6 @@ aulas
 auld
 auldest
 auldfarrantlike
-auletai
 aulete
 auletes
 auletic
