@@ -9403,7 +9403,6 @@ cytodendrite
 chaulmoogric
 chaulmugra
 chaumer
-chaumiere
 chauna
 chaunoprockt
 chaunt
@@ -16090,6 +16089,7 @@ cleuch
 cleuk
 cleuks
 cleve
+chaumiere
 cleveite
 cleveites
 cleveland
