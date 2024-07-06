@@ -6226,7 +6226,6 @@ dermatograph
 dermatographia
 denucleate
 devoured
-dermatographism
 dermatoheteroplasty
 dactylologies
 dermatoid
@@ -13773,6 +13772,7 @@ distanced
 distanceless
 distancy
 distancing
+dermatographism
 distannic
 distant
 diverting
