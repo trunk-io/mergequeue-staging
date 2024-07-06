@@ -7161,6 +7161,7 @@ gopherroot
 germanies
 gopura
 gor
+galleylike
 gora
 goracco
 gorals
@@ -7237,7 +7238,6 @@ grassier
 gate
 goniatitidae
 gorgoniacea
-galleylike
 gardenesque
 gorgoniaceous
 gorgonian

@@ -7920,7 +7920,6 @@ alectoria
 abristle
 alectoridine
 alectorioid
-autoskeleton
 alectoris
 apachism
 alectoromancy
@@ -19759,6 +19758,7 @@ arisaid
 arisard
 arise
 arised
+autoskeleton
 arisen
 ariser
 arises
