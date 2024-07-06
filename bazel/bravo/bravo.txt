@@ -5143,7 +5143,6 @@ bagpod
 beforesaid
 beforested
 beforetime
-befortune
 braeside
 befoul
 befouled
@@ -5322,6 +5321,7 @@ begrimmed
 begrimming
 begripe
 begroan
+befortune
 begroaned
 begrown
 begrudge
