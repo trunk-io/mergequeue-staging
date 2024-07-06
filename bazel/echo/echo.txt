@@ -933,7 +933,6 @@ ectorganism
 ectorhinal
 ectosarc
 excavated
-endive
 ectoskeleton
 eggcupful
 ectosomal
@@ -4603,6 +4602,7 @@ encephalomyocarditis
 encephalopathy
 encephalopathia
 encephalopathic
+endive
 ejectors
 enmoss
 encephalopyosis
