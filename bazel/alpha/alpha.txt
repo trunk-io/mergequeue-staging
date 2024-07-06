@@ -2188,7 +2188,6 @@ acetophenetidine
 acetophenin
 asitia
 acetophenine
-acetophenone
 acetopiperone
 acetosalicylic
 acetose
@@ -4042,6 +4041,7 @@ adjoust
 adjudge
 adjudgeable
 adjudged
+acetophenone
 advehent
 adjudger
 adjudges
