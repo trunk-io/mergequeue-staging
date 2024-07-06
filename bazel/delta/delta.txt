@@ -6851,7 +6851,6 @@ desoxybenzoin
 desoxycinchonine
 dhoolies
 desoxycorticosterone
-desoxymorphine
 desoxyribonuclease
 desoxyribonucleoprotein
 desoxyribose
@@ -7887,6 +7886,7 @@ dewooling
 dewools
 deworm
 dozens
+desoxymorphine
 deworming
 dewret
 dewrot
