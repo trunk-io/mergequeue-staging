@@ -296,7 +296,6 @@ eastlake
 eastlander
 encharnel
 eastlin
-electrosynthesis
 eastling
 eastlings
 eastlins
@@ -13564,6 +13563,7 @@ extenders
 extending
 extends
 extense
+electrosynthesis
 extensible
 extensibleness
 extensile
