@@ -7633,7 +7633,6 @@ bewitchery
 buchite
 bewitchful
 bewitching
-bewitchingly
 bewitchingness
 bewizard
 bewonder
@@ -13531,6 +13530,7 @@ boardinghouse
 bespouse
 boules
 boulevard
+bewitchingly
 boulevardier
 boulevardize
 bouleversement
