@@ -5816,7 +5816,6 @@ achromatium
 artistdom
 afterthought
 afterthoughts
-aftertime
 arain
 apastron
 aftertrial
@@ -19448,6 +19447,7 @@ arethusas
 arette
 arew
 afforests
+aftertime
 arf
 arfillite
 arfvedsonite
