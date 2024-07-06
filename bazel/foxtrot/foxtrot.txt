@@ -2546,6 +2546,7 @@ ferroglass
 ferrogoslarite
 ferrohydrocyanic
 framesmith
+frustula
 ferromagnesian
 ferromagnet
 ferromagneticism
@@ -10719,7 +10720,6 @@ frustrations
 frogface
 frustrative
 frustratory
-frustula
 frustule
 frustules
 feedy
