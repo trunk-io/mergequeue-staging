@@ -18198,6 +18198,7 @@ coes
 coesite
 complicator
 coessential
+conf
 coessentiality
 coessentially
 coestablishment
@@ -21852,7 +21853,6 @@ circumnutatory
 cones
 conessine
 conestoga
-conf
 confab
 confabbed
 confabbing

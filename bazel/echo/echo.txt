@@ -6744,7 +6744,6 @@ entertake
 entertissue
 entete
 erudit
-entfaoilff
 empyrical
 exantlate
 enthalpy
@@ -12196,6 +12195,7 @@ extensionless
 ectropionizing
 excriminate
 epaulet
+entfaoilff
 exacerbate
 ejusd
 epurate
