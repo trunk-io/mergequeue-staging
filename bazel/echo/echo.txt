@@ -2856,7 +2856,6 @@ entradas
 embrued
 elevatory
 expoundable
-escalators
 elevenfold
 euphemism
 eleventhly
@@ -6139,6 +6138,7 @@ elamp
 enniche
 euconic
 ennoblements
+escalators
 exorbitate
 ennobler
 ennoblers
