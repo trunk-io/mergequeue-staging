@@ -7010,6 +7010,7 @@ centaurium
 cnidophore
 centauromachy
 centauromachia
+chits
 centaurs
 corr
 cerulignol
@@ -11139,7 +11140,6 @@ chytridiosis
 chytridium
 cirsocele
 chytroi
-chits
 chittack
 chittak
 chittamwood

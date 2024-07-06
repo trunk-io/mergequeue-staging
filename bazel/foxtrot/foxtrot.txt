@@ -2906,6 +2906,7 @@ fascinate
 fewness
 flamberg
 fewnesses
+followings
 fewter
 fewterer
 fewtrils
@@ -6944,7 +6945,6 @@ followed
 followers
 friezer
 followeth
-followings
 filmiform
 follows
 fomalhaut
