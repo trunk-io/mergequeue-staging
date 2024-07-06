@@ -4828,7 +4828,6 @@ geologise
 gyromancy
 galleass
 gyromele
-gyrometer
 gymnasisiums
 girandola
 grandpapa
@@ -10755,6 +10754,7 @@ ganoidean
 gutterblood
 guttery
 greenboard
+gyrometer
 gemeinde
 guttering
 gutterize
