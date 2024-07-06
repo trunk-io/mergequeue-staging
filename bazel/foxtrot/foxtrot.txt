@@ -1788,7 +1788,6 @@ featliest
 flocculency
 featliness
 felucca
-feats
 fouldre
 feature
 featured
@@ -5840,6 +5839,7 @@ flokite
 ferter
 fondish
 fonly
+feats
 flon
 flong
 flood
