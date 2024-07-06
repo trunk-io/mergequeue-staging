@@ -5082,7 +5082,6 @@ aquavalent
 armamentarium
 autological
 aerohydrous
-aeroides
 anodine
 aerolite
 aerolites
@@ -12577,6 +12576,7 @@ androsphinx
 androsphinxes
 androsporangium
 androspore
+aeroides
 autogiros
 alala
 androtomy
