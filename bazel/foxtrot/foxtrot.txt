@@ -2505,7 +2505,6 @@ familistery
 ferricyanic
 farina
 ferricyanide
-ferried
 ferrier
 ferries
 ferriferous
@@ -7475,6 +7474,7 @@ forebooms
 forebowels
 fumbulator
 feverish
+ferried
 fomites
 forebowline
 forebrace
