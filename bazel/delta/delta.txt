@@ -1025,7 +1025,6 @@ darkling
 deess
 darkmans
 darkness
-darkroom
 darkrooms
 duplicate
 drunkensome
@@ -5475,6 +5474,7 @@ deontologist
 dicey
 drubbers
 deoppilate
+darkroom
 deoppilation
 decantation
 deorganization
