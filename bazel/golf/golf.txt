@@ -7182,7 +7182,6 @@ galleylike
 gora
 goracco
 gorals
-gorb
 glazes
 gemmiest
 glooming
@@ -9716,6 +9715,7 @@ gassers
 genip
 gemmates
 gruntle
+gorb
 gruntles
 gruntling
 grunts
