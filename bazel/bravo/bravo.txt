@@ -691,7 +691,6 @@ bacteriogenic
 bacteriogenous
 bacteriohemolysin
 bacterioid
-bacterioidal
 bacteriolysin
 boohooed
 bacteriolysis
@@ -6737,6 +6736,7 @@ berkeleian
 burlap
 berkeleyism
 beleaping
+bacterioidal
 berkeleyite
 berkelium
 berkovets
