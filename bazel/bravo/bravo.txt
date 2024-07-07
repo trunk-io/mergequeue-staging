@@ -8468,7 +8468,6 @@ bylaw
 bylawman
 bylaws
 bilberry
-bilberries
 bilbi
 benzothiazole
 bilbie
@@ -11115,6 +11114,7 @@ bloodspiller
 bloodstained
 bloodstainedness
 blackgum
+bilberries
 bloodstains
 bloodstanch
 brother
