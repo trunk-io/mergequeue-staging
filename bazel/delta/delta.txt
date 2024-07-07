@@ -3486,6 +3486,7 @@ deformer
 deformeter
 deforming
 depeople
+doodads
 disinteress
 destroyingly
 deformism
@@ -15556,7 +15557,6 @@ disarmed
 doodab
 diesel
 doodad
-doodads
 doodah
 diaspora
 democracy
