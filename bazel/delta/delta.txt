@@ -806,6 +806,7 @@ diff
 dishelm
 dangerful
 denominatively
+datasets
 deodara
 dangerless
 decapper
@@ -1221,7 +1222,6 @@ dataries
 duction
 dataset
 datasetname
-datasets
 datatype
 dullardism
 direption
