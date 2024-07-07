@@ -4702,7 +4702,6 @@ brigantia
 ba
 bedims
 bedip
-bedirt
 bedirter
 browbeaten
 brachycatalectic
@@ -7640,6 +7639,7 @@ buckjump
 beworming
 bindweeds
 beworn
+bedirt
 beworry
 bushi
 briquetting
