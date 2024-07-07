@@ -2732,6 +2732,7 @@ cantab
 cantabank
 cantabile
 cantabri
+chloryl
 choppered
 cantabrian
 cantabrigian
@@ -11290,7 +11291,6 @@ ctenii
 chere
 chloridized
 chlorids
-chloryl
 chlorimeter
 chlorimetry
 combinate
