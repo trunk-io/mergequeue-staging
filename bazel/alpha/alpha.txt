@@ -10056,6 +10056,7 @@ ambassade
 antifame
 ambassadeur
 alemite
+aphasics
 ambassadorial
 ambassadorially
 ambassadors
@@ -16874,7 +16875,6 @@ aphasia
 aphasias
 accordantly
 aphasic
-aphasics
 aphelandra
 aphelenchus
 aphelian
