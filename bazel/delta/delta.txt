@@ -2653,7 +2653,6 @@ datos
 draconic
 decomposable
 decompose
-doab
 decomposed
 decomposer
 derog
@@ -8076,6 +8075,7 @@ deeding
 dhoby
 diggable
 dhurrie
+doab
 dhuti
 dhutis
 dy
