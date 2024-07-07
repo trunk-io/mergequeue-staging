@@ -6665,7 +6665,6 @@ foederati
 foeffment
 foehn
 foehnlike
-foeish
 foeless
 foelike
 forenotice
@@ -8190,6 +8189,7 @@ faverole
 forged
 forger
 forgery
+foeish
 forgers
 forges
 furiosity
