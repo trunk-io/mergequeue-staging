@@ -9899,7 +9899,6 @@ bitterbump
 bitterbur
 bittered
 bitterender
-bitterer
 bitterest
 bitterhearted
 bittering
@@ -14886,6 +14885,7 @@ breath
 boatside
 breathability
 breathableness
+bitterer
 breatheableness
 breathed
 breathes
