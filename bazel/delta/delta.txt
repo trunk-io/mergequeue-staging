@@ -12595,7 +12595,6 @@ deforests
 disjoined
 disjoining
 dastard
-disjoins
 detachedness
 disjoint
 disjointed
@@ -16798,6 +16797,7 @@ draw
 dispositive
 drawarm
 drawback
+disjoins
 disterr
 drawbacks
 drawbench
