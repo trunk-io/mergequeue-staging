@@ -16140,7 +16140,6 @@ antiracial
 antiracing
 avoucher
 antirumor
-antiracism
 antiradiant
 antiradiation
 antiradical
@@ -24493,6 +24492,7 @@ autoturning
 autourine
 autovaccination
 autovaccine
+antiracism
 autovalet
 autovalve
 autovivisection
