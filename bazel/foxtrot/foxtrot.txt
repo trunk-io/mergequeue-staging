@@ -2483,6 +2483,7 @@ funge
 firebox
 ferrateen
 ferrates
+flourish
 ferredoxin
 ferreled
 ferrelled
@@ -6110,7 +6111,6 @@ fulani
 floured
 flouring
 forecome
-flourish
 fulminations
 felicities
 flashlike
