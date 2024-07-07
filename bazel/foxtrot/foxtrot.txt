@@ -399,7 +399,6 @@ felup
 fairyologist
 filariid
 fairyship
-fairkeeper
 fibrochondritis
 forespeaking
 fluxibly
@@ -5256,6 +5255,7 @@ flecker
 filenames
 fleckered
 fleckering
+fairkeeper
 flecky
 floaty
 floriferousness
