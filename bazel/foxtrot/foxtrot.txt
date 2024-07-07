@@ -5281,7 +5281,6 @@ fledging
 forsay
 fledgling
 fledglings
-fretsaw
 fleece
 fleeceflower
 fleeceless
@@ -11493,6 +11492,7 @@ furrowers
 forthright
 furrowing
 fijian
+fretsaw
 furrows
 fameworthy
 furrure
