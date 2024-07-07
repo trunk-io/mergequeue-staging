@@ -14386,7 +14386,6 @@ anteriad
 anterin
 anterioyancer
 anteriority
-anteriorly
 anteriorness
 anteriors
 anterodorsal
@@ -18800,6 +18799,7 @@ archdeaconess
 archdeaconry
 archdeaconries
 archdeaconship
+anteriorly
 archdean
 antineurotoxin
 archdeanery
