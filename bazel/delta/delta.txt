@@ -11203,6 +11203,7 @@ dillseed
 disbandment
 diopsimeter
 disbandments
+dringle
 disbands
 demulce
 disbar
@@ -14666,7 +14667,6 @@ docent
 docents
 dehydrates
 dockhead
-dringle
 docetae
 docetic
 docetize
