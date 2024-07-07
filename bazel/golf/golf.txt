@@ -4818,6 +4818,7 @@ geologise
 gyromancy
 galleass
 gyromele
+gunnysacks
 gymnasisiums
 girandola
 grandpapa
@@ -10067,7 +10068,6 @@ grano
 guessed
 glandula
 globiocephalus
-gunnysacks
 guessers
 guesses
 guessingly
