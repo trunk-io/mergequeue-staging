@@ -6806,7 +6806,6 @@ enthusing
 ephemerons
 epentheses
 entia
-excellences
 enticeable
 enticed
 enticeful
@@ -13755,6 +13754,7 @@ europocentric
 extortionist
 economist
 extortionists
+excellences
 extortive
 extorts
 ensurers
