@@ -9048,6 +9048,7 @@ charioteer
 charioteers
 circovarian
 charioting
+crescentwise
 chariotlike
 chariotman
 chariotry
@@ -28798,7 +28799,6 @@ crescenting
 crescentlike
 crescentoid
 crescents
-crescentwise
 crescive
 crescively
 crescograph
