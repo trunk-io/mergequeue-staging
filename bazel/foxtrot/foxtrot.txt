@@ -1099,6 +1099,7 @@ farnesol
 farness
 farnesses
 faro
+fleyland
 flaccidly
 fantastry
 foremast
@@ -5271,7 +5272,6 @@ frigefact
 flectional
 fledged
 fulminant
-fleyland
 fistlike
 fifthly
 fledgeless
