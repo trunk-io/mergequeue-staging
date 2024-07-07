@@ -2273,7 +2273,6 @@ fenderless
 fenders
 fendillation
 fending
-fends
 fenestellae
 fenestral
 fenestration
@@ -8337,6 +8336,7 @@ feltwort
 foregoes
 frush
 formaldehyde
+fends
 formaldehydesulphoxylic
 formaldoxime
 formalin
