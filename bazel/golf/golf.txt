@@ -2464,7 +2464,6 @@ gemauve
 going
 gemeinschaft
 gazellelike
-gemeinschaften
 gemel
 gemelled
 gemellion
@@ -5625,6 +5624,7 @@ glires
 gliridae
 grains
 gliriform
+gemeinschaften
 glis
 gospelize
 glisk

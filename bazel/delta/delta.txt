@@ -830,7 +830,6 @@ dangler
 danglers
 dangling
 danglingly
-dangs
 downrange
 danian
 douse
@@ -18537,6 +18536,7 @@ duskness
 dustband
 dotterel
 dustbins
+dangs
 dustblu
 dustbox
 dustcart
