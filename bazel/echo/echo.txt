@@ -1679,6 +1679,7 @@ egresses
 egressing
 estadal
 egression
+eudiometer
 egressor
 exiler
 egret
@@ -10803,7 +10804,6 @@ eudiagnostic
 eximiously
 eudiaphoresis
 eudidymite
-eudiometer
 eudiometry
 eudiometric
 echinorhinus
