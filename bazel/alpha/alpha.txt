@@ -202,7 +202,6 @@ abbeystead
 abbeystede
 abbes
 abbess
-amaranth
 abbesses
 abbest
 abbevillian
@@ -8459,6 +8458,7 @@ alison
 alisonite
 alisos
 alisp
+amaranth
 alisphenoid
 anchietea
 autograph
