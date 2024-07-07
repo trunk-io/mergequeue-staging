@@ -5055,7 +5055,6 @@ countergauge
 caselessly
 caseload
 caseloads
-caselty
 cosuggestion
 casemaker
 cardiokinetic
@@ -20758,6 +20757,7 @@ censureless
 completest
 completing
 completions
+caselty
 completive
 completively
 crannying
