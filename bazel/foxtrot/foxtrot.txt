@@ -947,7 +947,6 @@ farandoles
 farasula
 fieldbird
 farced
-farcelike
 farcemeat
 feminacy
 farcer
@@ -4082,6 +4081,7 @@ fireboxes
 firebrands
 fussock
 funker
+farcelike
 firebreaks
 firebug
 firebugs
