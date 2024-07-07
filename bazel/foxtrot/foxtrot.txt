@@ -6577,7 +6577,6 @@ fireshaft
 fluvious
 formalization
 falla
-fluviovolcanic
 flux
 fluxation
 fluxed
@@ -10726,6 +10725,7 @@ frustum
 frustums
 frutage
 frutescence
+fluviovolcanic
 frized
 foundry
 frutescent
