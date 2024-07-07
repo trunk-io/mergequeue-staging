@@ -7851,6 +7851,7 @@ alderflies
 alderliefest
 acystia
 alderling
+authorship
 alderman
 absey
 aldermanate
@@ -23863,7 +23864,6 @@ adoors
 authorizing
 authorless
 authorling
-authorship
 authotype
 autism
 autisms

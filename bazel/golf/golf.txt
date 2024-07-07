@@ -7239,7 +7239,6 @@ gorgonaceous
 girthline
 gowdie
 gorgoneia
-gorgoneion
 gorgonesque
 gorgoneum
 gorgonia
@@ -9081,6 +9080,7 @@ gryphons
 grays
 gryphosaurus
 gripy
+gorgoneion
 gripier
 gripingly
 guittonian
