@@ -1601,6 +1601,7 @@ glengarry
 gasless
 gaslight
 gaslighted
+geomorphology
 glaciaria
 gladdening
 gantlets
@@ -3168,7 +3169,6 @@ genuflections
 geomorphic
 geomorphist
 geomorphogenist
-geomorphology
 geomorphologic
 ghostless
 gadaba
