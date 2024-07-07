@@ -2037,7 +2037,6 @@ acetabular
 amasthenic
 acetabularia
 acetabuliferous
-acetabuliform
 attitudinizing
 acetabulous
 acetabulum
@@ -22289,6 +22288,7 @@ astrogeny
 akrabattine
 alinasal
 articulative
+acetabuliform
 anther
 astrogeology
 astrogeologist

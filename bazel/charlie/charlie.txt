@@ -10941,6 +10941,7 @@ chips
 carpenter
 chipwood
 chiquero
+cratometric
 chiquest
 crosses
 cocainisation
@@ -18486,7 +18487,6 @@ coheirs
 coheirship
 cohelper
 cohelpership
-cratometric
 cohen
 congregable
 cohens
