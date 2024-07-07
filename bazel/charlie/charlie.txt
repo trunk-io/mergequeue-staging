@@ -17636,7 +17636,6 @@ coccogone
 coccogoneae
 coccogonium
 coccoid
-crocus
 coccoidal
 coccoids
 coccolite
@@ -31789,6 +31788,7 @@ colias
 cutgrasses
 cuthbert
 cuticle
+crocus
 castration
 cuticles
 cuticula
