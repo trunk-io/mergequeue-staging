@@ -15378,7 +15378,6 @@ clake
 coxcomical
 chromophore
 clallam
-clam
 clamant
 clamantly
 capitally
@@ -23192,6 +23191,7 @@ constitutions
 constitutive
 constitutively
 constitutiveness
+clam
 constitutor
 chlorophyllase
 cassiri
