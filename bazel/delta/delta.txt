@@ -7192,7 +7192,6 @@ detainment
 detains
 disseats
 detar
-detassel
 detat
 detax
 detd
@@ -18367,6 +18366,7 @@ downtrend
 duplicable
 duplicand
 duplicated
+detassel
 duplicates
 duplicating
 duplication
