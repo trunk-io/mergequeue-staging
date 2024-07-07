@@ -823,7 +823,6 @@ badland
 badlands
 buba
 baalish
-badly
 badling
 badman
 bason
@@ -9507,6 +9506,7 @@ birdwitted
 birdwoman
 byre
 birectangular
+badly
 birefracting
 birefraction
 birefractive
