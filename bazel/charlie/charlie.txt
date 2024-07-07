@@ -17281,7 +17281,6 @@ coalpit
 coalpits
 coalrake
 coals
-coalsack
 coalsacks
 coalshed
 coalsheds
@@ -20414,6 +20413,7 @@ communistical
 communists
 cordovan
 communital
+coalsack
 communitary
 communitarianism
 community
