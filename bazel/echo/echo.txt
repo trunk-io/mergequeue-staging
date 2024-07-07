@@ -7044,7 +7044,6 @@ exodium
 entrec
 equidense
 entrechat
-entrechats
 entrecote
 entrecotes
 entredeux
@@ -10714,6 +10713,7 @@ euchlaena
 educationalism
 euchlorhydria
 euchloric
+entrechats
 embezzles
 euchlorite
 eleutherodactylus
