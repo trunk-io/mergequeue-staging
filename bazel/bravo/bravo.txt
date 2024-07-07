@@ -7145,7 +7145,6 @@ bespotted
 bespotting
 bespouses
 bespousing
-bespout
 bespray
 bromlite
 beeswinged
@@ -10270,6 +10269,7 @@ bladderseed
 bladderwrack
 blade
 bladebone
+bespout
 bladed
 bladelet
 bladelike
