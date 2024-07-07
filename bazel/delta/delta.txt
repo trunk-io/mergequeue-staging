@@ -2716,7 +2716,6 @@ deflectometer
 depasture
 dermahemia
 deconventionalize
-deconvolve
 dastur
 danseuse
 decopperization
@@ -12342,6 +12341,7 @@ directionless
 dishcloth
 dishcloths
 dishclout
+deconvolve
 dishearten
 disheartenedly
 disheartening

@@ -3007,7 +3007,6 @@ fibrinokinase
 fibrinolyses
 fibrinolysin
 flanconade
-fibrinolysis
 fendillate
 fulgour
 fullest
@@ -7517,6 +7516,7 @@ forechoose
 forepast
 foretooth
 foreclaw
+fibrinolysis
 foreclosable
 foreclose
 felonsetter
