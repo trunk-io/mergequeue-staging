@@ -5667,7 +5667,6 @@ afterbirth
 afterblow
 afterbody
 afterbodies
-afterbrain
 afterbreast
 afterburner
 afterburning
@@ -13455,6 +13454,7 @@ anisomelia
 anisomelus
 anisomeric
 anisometric
+afterbrain
 anisometrope
 anisometropic
 anisomyarian
