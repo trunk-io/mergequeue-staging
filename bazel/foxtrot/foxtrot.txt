@@ -893,7 +893,6 @@ forecommend
 ferries
 forebodies
 firefangs
-fanum
 fanums
 fanwe
 fantoms
@@ -5255,6 +5254,7 @@ flechettes
 flecken
 flecker
 filenames
+fanum
 fleckered
 fleckering
 fairkeeper
