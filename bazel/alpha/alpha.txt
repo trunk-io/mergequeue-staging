@@ -4094,7 +4094,6 @@ adjurer
 adjurers
 antiglobulin
 acerbated
-adjures
 autotyphization
 adjuring
 adjurors
@@ -14347,6 +14346,7 @@ antepasts
 antecornu
 antepectus
 antependia
+adjures
 archipallial
 antependium
 ammonation
