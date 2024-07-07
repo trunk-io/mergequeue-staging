@@ -4341,7 +4341,6 @@ demagnetisation
 demagnetiser
 demagnetization
 disorienting
-demagnetize
 demagnetized
 demagnetizes
 demagnetizing
@@ -15043,6 +15042,7 @@ denigrate
 dogmatising
 dogmatist
 dogmatists
+demagnetize
 dogmatization
 dogmatize
 deregulations
