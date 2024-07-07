@@ -6795,7 +6795,6 @@ guardlike
 gauchos
 geryonidae
 grusian
-gonadial
 gander
 gonadotrophic
 gonadotrophin
@@ -10158,6 +10157,7 @@ gurneys
 granduncle
 glaucosuria
 guidership
+gonadial
 gleanings
 guides
 guideway
