@@ -7938,7 +7938,6 @@ cessor
 cesspit
 cesspits
 cesspool
-cesspools
 cest
 cesta
 cestas
@@ -13404,6 +13403,7 @@ cyclometric
 cosed
 cyclometrical
 corytuberine
+cesspools
 cyclometries
 cyclomyaria
 cyclonal
