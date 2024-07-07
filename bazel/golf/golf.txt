@@ -5994,7 +5994,6 @@ guerison
 glossopteris
 genearch
 glossoptosis
-glossoscopy
 glossospasm
 glossosteresis
 glossotomy
@@ -8333,6 +8332,7 @@ grassie
 grassiest
 grassiness
 gobos
+glossoscopy
 grassland
 gelsemin
 geoisotherm
