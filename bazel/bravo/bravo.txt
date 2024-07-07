@@ -11222,7 +11222,6 @@ bandidos
 brancard
 blotless
 blots
-blotted
 blotters
 blottesque
 blotty
@@ -15127,6 +15126,7 @@ bootboy
 budgerigars
 brickbat
 brickbats
+blotted
 brickbatted
 brickbatting
 bricked
