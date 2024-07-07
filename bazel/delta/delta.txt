@@ -1984,7 +1984,6 @@ decahedra
 decahedral
 decahedrodra
 decahedrons
-decahydronaphthalene
 decay
 decayable
 decayed
@@ -12515,6 +12514,7 @@ disingenuousness
 disinhabit
 disinherit
 disinheritance
+decahydronaphthalene
 dismayfully
 disinheritances
 docentship
