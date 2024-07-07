@@ -6677,6 +6677,7 @@ enteropexia
 enteroplasty
 enteropneusta
 enteropneustan
+extractant
 enteroptotic
 evacuant
 enterorrhexis
@@ -13795,7 +13796,6 @@ extracostal
 extract
 extractability
 extractable
-extractant
 erasing
 extractibility
 emarginated

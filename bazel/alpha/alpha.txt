@@ -349,7 +349,6 @@ abends
 absmho
 aberdavine
 aberdevine
-aberdonian
 aberduvine
 aberia
 aberrance
@@ -20526,6 +20525,7 @@ arteriographic
 albert
 admeasuring
 arteriolar
+aberdonian
 arteriole
 arterioles
 arteriolith
