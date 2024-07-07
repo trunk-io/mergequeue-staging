@@ -8386,7 +8386,6 @@ chalkboard
 chalkboards
 chalkcutter
 chalker
-chalky
 chalkier
 chalkiest
 chalkiness
@@ -19103,6 +19102,7 @@ colleterial
 colleterium
 colletes
 colletic
+chalky
 colletidae
 colletin
 coccionella
