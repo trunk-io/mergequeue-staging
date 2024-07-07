@@ -5565,7 +5565,6 @@ flinch
 flinched
 factice
 flinchingly
-franseria
 flindersia
 flindosa
 flinger
@@ -9068,6 +9067,7 @@ foxes
 flysches
 foxfeet
 forecomingness
+franseria
 foxfire
 foxfires
 firepans
