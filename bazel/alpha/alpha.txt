@@ -11909,7 +11909,6 @@ analogal
 analogy
 analogia
 analogic
-analogical
 analogically
 analogicalness
 analogice
@@ -14814,6 +14813,7 @@ antiagglutinating
 antiagglutination
 antiagglutinative
 antiagglutinin
+analogical
 antiaggression
 antiaggressive
 antiaggressively
