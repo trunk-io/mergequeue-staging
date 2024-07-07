@@ -6978,6 +6978,7 @@ bardash
 bathymeter
 besieges
 besieging
+bennies
 besiegingly
 braced
 besigh
@@ -14196,7 +14197,6 @@ bronx
 bradypode
 bradypodoid
 bradypus
-bennies
 bradyseism
 bradyseismic
 bradyseismical
