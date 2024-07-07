@@ -5768,7 +5768,6 @@ allheals
 afterpart
 afterpast
 arctogaeal
-absolute
 apologize
 afterpeak
 afterpiece
@@ -23245,6 +23244,7 @@ auburns
 aubusson
 auca
 ambroids
+absolute
 aucan
 aucaner
 aucanian
