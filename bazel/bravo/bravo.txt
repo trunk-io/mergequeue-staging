@@ -3984,7 +3984,6 @@ bribability
 bureaus
 beadlet
 beadman
-beadmen
 beadroll
 beads
 beadsmen
@@ -13979,6 +13978,7 @@ brachycephali
 brachycephaly
 brachycephalic
 brachycephalies
+beadmen
 brachycephalization
 brachycephalize
 bagmaking
