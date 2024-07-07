@@ -10131,7 +10131,6 @@ ambisinister
 ambisinistrous
 ambystoma
 anamniota
-ambystomidae
 ambit
 ambital
 ambitendency
@@ -13159,6 +13158,7 @@ anhalamine
 anhaline
 agorae
 anhalonidine
+ambystomidae
 anhalonine
 anhalouidine
 anhang

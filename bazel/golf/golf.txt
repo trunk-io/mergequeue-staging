@@ -617,7 +617,6 @@ gallicization
 gallicize
 gunong
 gallicizer
-guttulae
 gallicola
 gallicolae
 gobletful
@@ -6191,6 +6190,7 @@ graecize
 gluside
 glut
 geometricize
+guttulae
 glutamate
 glutamates
 glutamic
