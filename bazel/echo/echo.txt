@@ -5507,7 +5507,6 @@ endwise
 eneas
 enecate
 except
-entosarc
 ebullient
 ehrman
 entails
@@ -9855,6 +9854,7 @@ esquamulose
 esquiline
 esquimau
 esquire
+entosarc
 esquirearchy
 esquired
 esquiredom
