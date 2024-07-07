@@ -6416,7 +6416,6 @@ goalpost
 goals
 goaltenders
 goan
-gauntry
 goanese
 goanna
 gl
@@ -8773,6 +8772,7 @@ graduals
 granivore
 gregarian
 gullability
+gauntry
 gregarina
 gregarinae
 gregarinaria
