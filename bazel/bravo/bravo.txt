@@ -5783,7 +5783,6 @@ bellyfuls
 belligerence
 belligerency
 belligerencies
-belligerent
 belligerently
 belligerents
 burghemot
@@ -17268,6 +17267,7 @@ bumkin
 bummack
 bummalos
 blubberers
+belligerent
 boning
 burgs
 bummaree
