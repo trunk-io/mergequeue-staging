@@ -1401,7 +1401,6 @@ fatiferous
 fatigability
 frayedly
 formularist
-flyblows
 fatigable
 fatigableness
 froise
@@ -2538,6 +2537,7 @@ fontes
 ferrocyanhydric
 ferroelectric
 flukeless
+flyblows
 ferroglass
 ferrogoslarite
 ferrohydrocyanic
