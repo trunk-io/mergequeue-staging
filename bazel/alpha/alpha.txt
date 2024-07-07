@@ -11522,7 +11522,6 @@ amulae
 amulas
 amulet
 amulets
-amulla
 amunam
 amurca
 amurcosity
@@ -21081,6 +21080,7 @@ ascophyllum
 atropine
 ascophorous
 ascorbate
+amulla
 ascorbic
 ascospore
 ascosporic
