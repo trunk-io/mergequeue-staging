@@ -1130,7 +1130,6 @@ farrows
 farruca
 fanfaron
 farsalah
-farse
 farseeing
 farseeingness
 farseer
@@ -7758,6 +7757,7 @@ foremilks
 foremind
 foremost
 foremostly
+farse
 foremother
 forenamed
 fumigated
