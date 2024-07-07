@@ -6582,6 +6582,7 @@ agrimony
 agrimonies
 agrin
 agriochoeridae
+antlered
 agriochoerus
 agriology
 almah
@@ -16519,7 +16520,6 @@ android
 asudden
 antjar
 antler
-antlered
 accredit
 antlerless
 antlers
