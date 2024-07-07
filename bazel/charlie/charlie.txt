@@ -10303,7 +10303,6 @@ chiasmodontid
 chiasms
 chiasmus
 chiastic
-chiastolite
 chiastoneural
 chiastoneury
 chiastoneurous
@@ -31722,6 +31721,7 @@ custom
 customable
 customableness
 customably
+chiastolite
 customance
 customary
 customaries
