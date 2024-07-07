@@ -2129,6 +2129,7 @@ acetylization
 achenodium
 acetylize
 acetylizing
+apoapsis
 acetylmethylcarbinol
 acetylperoxide
 acetylphenylhydrazine
@@ -3884,7 +3885,6 @@ adherers
 adheres
 auxohormone
 adherescence
-apoapsis
 adherescent
 adhering
 adhesion
