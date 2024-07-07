@@ -2797,7 +2797,6 @@ acquisited
 auriculare
 acquisition
 acquisitional
-autosuggest
 acquisitive
 acquisitiveness
 acquisitor
@@ -23623,6 +23622,7 @@ auriphone
 ascensions
 auriphrygia
 auriphrygiate
+autosuggest
 antsy
 auripigment
 auripuncture
