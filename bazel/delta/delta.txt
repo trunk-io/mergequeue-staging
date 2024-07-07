@@ -15610,7 +15610,6 @@ doorbells
 doorboy
 doorcase
 doorcheek
-doored
 dooring
 doorjamb
 doorjambs
@@ -16403,6 +16402,7 @@ downward
 downwardly
 downwards
 downweed
+doored
 downweight
 downweighted
 downwind
