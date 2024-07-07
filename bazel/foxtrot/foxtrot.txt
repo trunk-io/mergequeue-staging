@@ -5428,7 +5428,6 @@ flew
 flewed
 flewit
 fasc
-flex
 flexanimous
 flexed
 flexes
@@ -6781,6 +6780,7 @@ foist
 foxtongue
 fcs
 foisted
+flex
 ferroboron
 foister
 foisty
