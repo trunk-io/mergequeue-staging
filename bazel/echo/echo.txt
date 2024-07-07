@@ -7573,7 +7573,6 @@ escharine
 excreation
 epiblastema
 epiblastic
-epibole
 epiboly
 epibolic
 epibolies
@@ -12034,6 +12033,7 @@ ettirone
 exciding
 excipient
 exciple
+epibole
 exciples
 excipulaceae
 excipule
