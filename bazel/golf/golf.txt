@@ -2779,7 +2779,6 @@ genyophrynidae
 galbe
 gynophore
 glander
-grizelin
 grizzle
 glycogen
 gitalin
@@ -5507,6 +5506,7 @@ glyconian
 glycopeptide
 glycopexia
 glycopexis
+grizelin
 glycoproteid
 glycosaemia
 glycosemia
