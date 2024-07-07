@@ -4873,6 +4873,7 @@ dioptidae
 demonomy
 demonomist
 demonophobia
+derogatory
 demonry
 divines
 demonship
@@ -6396,7 +6397,6 @@ derogately
 derogating
 derogations
 derogator
-derogatory
 derogatorily
 dyspneal
 dramatisable
