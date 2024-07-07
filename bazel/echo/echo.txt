@@ -5860,6 +5860,7 @@ engrossers
 engrosses
 escaped
 engrossingly
+enturret
 engrossingness
 encroaching
 enguard
@@ -10371,7 +10372,6 @@ extortionateness
 ethicopolitical
 ethicosocial
 ethide
-enturret
 expoliate
 ethidene
 ethyl
