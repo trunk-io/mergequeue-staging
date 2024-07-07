@@ -4496,6 +4496,7 @@ encamped
 encampment
 eugenol
 encampments
+endosecretory
 endoparasite
 euthyneurous
 exameter
@@ -5340,7 +5341,6 @@ endoscopic
 endoscopically
 endoscopies
 emily
-endosecretory
 endosiphon
 endosiphonal
 endosiphonate
