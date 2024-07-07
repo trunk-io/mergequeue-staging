@@ -3107,7 +3107,6 @@ geoidal
 grammontine
 geoids
 gadoid
-glauberite
 geolatry
 gadrooned
 geobiology
@@ -9298,6 +9297,7 @@ grope
 groped
 gamb
 gasworks
+glauberite
 glist
 groper
 gropes
