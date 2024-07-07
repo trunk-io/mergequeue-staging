@@ -8222,7 +8222,6 @@ bienvenue
 byepath
 banco
 bier
-bierbalk
 bidri
 byerite
 bierkeller
@@ -12570,6 +12569,7 @@ bonnes
 bonnet
 bulbus
 bonneter
+bierbalk
 bowdlerizer
 bimonthly
 bioral
