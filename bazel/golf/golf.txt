@@ -7566,7 +7566,6 @@ gorinesses
 gasthauses
 gowks
 gowl
-gowlan
 garrafa
 galavanted
 gownlet
@@ -8229,6 +8228,7 @@ graphometry
 guahiban
 graphometric
 graphometrical
+gowlan
 graphometrist
 graphomotor
 graphonomy
