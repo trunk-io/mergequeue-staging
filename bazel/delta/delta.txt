@@ -1695,7 +1695,6 @@ deathblows
 deathcup
 doublethink
 deathcups
-deathday
 deathful
 deathfully
 deathfulness
@@ -8237,6 +8236,7 @@ diagnoseable
 dragoonage
 debilitated
 diagnostically
+deathday
 diagnosticate
 diagnosticated
 diagnosticating
