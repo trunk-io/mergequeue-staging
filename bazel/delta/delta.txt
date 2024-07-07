@@ -16035,6 +16035,7 @@ detestable
 doublethinking
 doublethought
 doubleton
+downstate
 divides
 doubletone
 doublette
@@ -16378,7 +16379,6 @@ downslip
 downslope
 downsome
 downfold
-downstate
 downstreet
 downstroke
 downswing
