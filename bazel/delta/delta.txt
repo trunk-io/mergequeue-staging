@@ -7106,7 +7106,6 @@ delicti
 desulfuration
 desulfuring
 desulfurisation
-desulfurise
 driest
 deforester
 desulfuriser
@@ -14767,6 +14766,7 @@ doctrinaire
 doctrinairism
 delime
 demobilise
+desulfurise
 doctrinalism
 doctrinary
 doctrinarian
