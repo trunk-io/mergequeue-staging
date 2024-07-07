@@ -3757,6 +3757,7 @@ battles
 battleships
 battlesome
 battlestead
+beadle
 battlewagon
 battleward
 battlewise
@@ -3969,7 +3970,6 @@ beadiest
 bidiurnal
 beading
 beadings
-beadle
 beadledom
 beshamed
 banderillas
