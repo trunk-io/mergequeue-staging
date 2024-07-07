@@ -1244,6 +1244,7 @@ feedback
 fashioner
 flagellosis
 fashioners
+forefit
 furnishment
 fashioning
 flywort
@@ -8502,7 +8503,6 @@ focusers
 flotage
 formulised
 formulising
-forefit
 flajolotite
 fanwise
 formably
