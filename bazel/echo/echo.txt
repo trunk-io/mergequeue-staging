@@ -1382,7 +1382,6 @@ epiprecoracoid
 epitaphize
 estragons
 efficacies
-efficaciousness
 epicauta
 efficience
 efficiency
@@ -6745,6 +6744,7 @@ electrothanatosis
 electroacoustics
 elotillo
 epilogate
+efficaciousness
 enthalpies
 entheal
 explete
