@@ -1087,7 +1087,6 @@ edginesses
 edging
 envine
 edh
-electrokinematics
 equipper
 edibility
 eassel
@@ -4077,6 +4076,7 @@ explorativeness
 empannel
 electrologic
 emparl
+electrokinematics
 empasm
 empassion
 empathetic
