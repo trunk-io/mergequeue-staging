@@ -10050,7 +10050,6 @@ autochthony
 antiquers
 ambari
 ambary
-ambaris
 ambas
 ambash
 ambassade
@@ -25199,6 +25198,7 @@ azedarac
 azedarach
 azelate
 azelfafage
+ambaris
 azeotrope
 azeotropy
 azeotropic
