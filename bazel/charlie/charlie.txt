@@ -2383,7 +2383,6 @@ candlefishes
 candleholder
 candlelight
 candlelighted
-candlelighter
 candlelit
 candlemaker
 closure
@@ -8121,6 +8120,7 @@ chaetognathan
 chaetognathous
 chaetophobia
 chaetophoraceae
+candlelighter
 chaetophoraceous
 chaetopod
 chaetopodan
