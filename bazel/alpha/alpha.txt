@@ -5387,7 +5387,6 @@ affenspalte
 affere
 afferent
 affettuoso
-aspirated
 affettuosos
 affy
 affianced
@@ -21843,6 +21842,7 @@ assistors
 assists
 assith
 assyth
+aspirated
 assize
 assized
 assizer
