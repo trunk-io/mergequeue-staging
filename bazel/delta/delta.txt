@@ -2246,7 +2246,6 @@ decent
 decenter
 decentered
 decentering
-decenters
 decentness
 decentralisation
 decentralise
@@ -10483,6 +10482,7 @@ diphyzooid
 dizzard
 dyphone
 diphonia
+decenters
 diphosgene
 diphosphate
 diphosphid
