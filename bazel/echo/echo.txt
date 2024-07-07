@@ -7383,7 +7383,6 @@ epanthous
 enjoyingly
 epapophysis
 epappose
-eparch
 eparchean
 eparchy
 eparchial
@@ -9205,6 +9204,7 @@ erythrosin
 erythrosine
 erythrosinophile
 eugenics
+eparch
 excursions
 envelopes
 erythroxylaceae
