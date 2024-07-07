@@ -2053,6 +2053,7 @@ brambly
 bassoon
 bangala
 bangalow
+bratticed
 bangash
 boodling
 bangboard
@@ -4108,7 +4109,6 @@ bearbind
 bearcats
 beriberi
 bearcoot
-bratticed
 biassing
 beard
 bearded
