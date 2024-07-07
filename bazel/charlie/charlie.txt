@@ -4828,7 +4828,6 @@ cartel
 cartelism
 cakemaker
 commonage
-cartelist
 cartelistic
 cartelization
 cartelize
@@ -9344,6 +9343,7 @@ chattelization
 chattelize
 chattelized
 chattelizing
+cartelist
 chattels
 cautivo
 chattelship
