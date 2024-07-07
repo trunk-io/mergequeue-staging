@@ -5288,7 +5288,6 @@ begoniaceous
 borschts
 begoniales
 begonias
-breechless
 begorah
 begorra
 begorry
@@ -15430,6 +15429,7 @@ bryogenin
 briolet
 briolettes
 bryology
+breechless
 bryological
 beneficences
 bryologist
