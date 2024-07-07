@@ -16004,7 +16004,6 @@ antipyrine
 antipyrotic
 anointer
 antiplanet
-antiplastic
 antiplatelet
 antipleion
 antiplenist
@@ -23510,6 +23509,7 @@ aural
 augmentor
 aurally
 auramin
+antiplastic
 auramine
 aurang
 aurantia
