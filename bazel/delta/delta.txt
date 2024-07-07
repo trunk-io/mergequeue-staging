@@ -9033,6 +9033,7 @@ dicotyls
 dicots
 dicoumarin
 dyophysite
+drawdown
 dicoumarol
 dicranaceous
 dicranoid
@@ -15255,7 +15256,6 @@ derries
 dolomitic
 dolomitization
 dolomitize
-drawdown
 dolomitized
 devonport
 dolomization
