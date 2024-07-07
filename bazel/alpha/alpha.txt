@@ -1046,7 +1046,6 @@ alaite
 almsgiving
 acoustical
 absolvers
-absolving
 abiegh
 absolvitor
 absolvitory
@@ -18036,6 +18035,7 @@ appropriament
 arrogantness
 appropriated
 appropriately
+absolving
 abraded
 appropriateness
 appropriating
