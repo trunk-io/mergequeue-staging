@@ -14188,7 +14188,6 @@ chinologist
 cypselid
 cypselidae
 cypseliform
-cypseliformes
 cypseline
 colorist
 cypselomorph
@@ -18027,6 +18026,7 @@ coeliorrhoea
 coelioscopy
 coeliotomy
 coeloblastic
+cypseliformes
 cotransduction
 coeloblastula
 coelococcus
