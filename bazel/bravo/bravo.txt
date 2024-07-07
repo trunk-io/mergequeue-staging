@@ -1046,6 +1046,7 @@ baignoire
 baying
 bitterbush
 baikalite
+bloomed
 baikerinite
 baikie
 bailable
@@ -11142,7 +11143,6 @@ blooey
 blooie
 bloomage
 bram
-bloomed
 brachydome
 belief
 bloomer
