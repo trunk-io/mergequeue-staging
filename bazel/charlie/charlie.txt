@@ -11313,7 +11313,6 @@ chlorimeter
 chlorimetry
 combinate
 chlorimetric
-chlorin
 chlorinate
 chlorinated
 chlorinates
@@ -26153,6 +26152,7 @@ cosmologists
 cosmometry
 cosmonaut
 cosmonautic
+chlorin
 cosmonautical
 cosmonautically
 cladocerous
