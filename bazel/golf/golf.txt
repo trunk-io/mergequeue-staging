@@ -580,7 +580,6 @@ greekist
 galleta
 guiltier
 galletas
-galleting
 graminiform
 glaister
 gallfly
@@ -10521,6 +10520,7 @@ gerbil
 gunnen
 gunner
 growthiness
+galleting
 gunnera
 gunneraceae
 gunnery
