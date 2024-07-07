@@ -4616,7 +4616,6 @@ centrobarical
 carphophis
 carphosiderite
 carpi
-carpidium
 carpincho
 carpings
 carpintero
@@ -20377,6 +20376,7 @@ centaur
 communicative
 communicatively
 communicativeness
+carpidium
 charlatanism
 communicatory
 communicators
