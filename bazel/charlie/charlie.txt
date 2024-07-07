@@ -4649,6 +4649,7 @@ choanoflagellata
 carpogonial
 cograil
 carpogonium
+congestion
 carpoidea
 cystinosis
 chlorohydrocarbon
@@ -22285,7 +22286,6 @@ congestedness
 champacol
 congestible
 congesting
-congestion
 congestions
 chordophone
 congestive
