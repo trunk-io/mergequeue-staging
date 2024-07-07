@@ -1545,7 +1545,6 @@ bivalence
 ballahou
 ballam
 bedoctor
-ballarag
 ballas
 ballastage
 ballasted
@@ -9174,6 +9173,7 @@ becharm
 bacteriological
 biosis
 biosystematy
+ballarag
 bicolourous
 benumbment
 biosystematic
