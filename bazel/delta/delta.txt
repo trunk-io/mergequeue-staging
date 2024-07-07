@@ -5265,7 +5265,6 @@ densities
 densitometer
 densitometers
 densitometric
-dharmic
 densus
 dent
 dental
@@ -5373,6 +5372,7 @@ denting
 deers
 decays
 dispensatress
+dharmic
 delineatory
 depatriate
 dimiss
