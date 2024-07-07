@@ -18865,7 +18865,6 @@ anthroponomy
 archenemy
 archenemies
 archenia
-archenteric
 archenteron
 archeocyte
 archeol
@@ -21000,6 +20999,7 @@ asci
 ascian
 asseveration
 ascians
+archenteric
 ascicidia
 animus
 ascidia
