@@ -3177,7 +3177,6 @@ basella
 basellaceae
 baseman
 basemen
-beggary
 bloom
 bearcat
 basement
@@ -16156,6 +16155,7 @@ browet
 bitnet
 browis
 browless
+beggary
 belvedere
 belladonna
 browman
