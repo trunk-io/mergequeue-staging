@@ -6639,7 +6639,6 @@ baals
 beretta
 brocage
 berewick
-bemeal
 bergamasche
 bheesty
 biogenies
@@ -16808,6 +16807,7 @@ bug
 bugaboo
 bugaboos
 bullionless
+bemeal
 bugan
 brisque
 barons
