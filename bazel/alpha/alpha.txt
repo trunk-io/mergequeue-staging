@@ -7651,6 +7651,7 @@ asterwort
 albumoid
 actomyosin
 albumoscope
+autohemotherapy
 anomurous
 albumose
 albumosuria
@@ -24112,7 +24113,6 @@ autoheader
 autohemic
 autohemolysin
 autohemorrhage
-autohemotherapy
 autoheterodyne
 autoheterosis
 autohexaploid
