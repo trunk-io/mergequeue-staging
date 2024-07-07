@@ -6032,7 +6032,6 @@ fadeout
 fertilisability
 floroun
 floruit
-floruits
 florula
 florulae
 flinder
@@ -8045,6 +8044,7 @@ forgetters
 foretastes
 frontopontine
 foretasting
+floruits
 foreteach
 fistuliform
 fogfruits
