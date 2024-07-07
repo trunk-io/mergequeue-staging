@@ -2567,7 +2567,6 @@ genarch
 genarcha
 granddad
 genarchaship
-gamin
 gendarmery
 gendarmes
 genderless
@@ -5173,6 +5172,7 @@ glanditerous
 gorgonacea
 gildhall
 goyim
+gamin
 glandlike
 giggles
 gaberdines
