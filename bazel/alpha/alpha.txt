@@ -3193,7 +3193,6 @@ anointment
 actinomycosis
 actinomycosistic
 actinomyxidiida
-actinomorphic
 actinomorphous
 actinon
 antignostic
@@ -6754,6 +6753,7 @@ ahungered
 ahungry
 absistos
 ahunt
+actinomorphic
 ahura
 asymptotically
 ahurewa
