@@ -7862,7 +7862,6 @@ bibiri
 bibiru
 bibitory
 bible
-bibles
 bibless
 biblic
 biblicality
@@ -11901,6 +11900,7 @@ bogeys
 boget
 bogfern
 baculine
+bibles
 bogged
 boggier
 bogginess
