@@ -3702,6 +3702,7 @@ battalion
 battalions
 battarism
 battarismus
+brawls
 batteau
 batted
 battel
@@ -14709,7 +14710,6 @@ brawlier
 brawliest
 benzobis
 brawlys
-brawls
 bezzling
 brawlsome
 brawn
