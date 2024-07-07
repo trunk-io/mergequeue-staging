@@ -1582,7 +1582,6 @@ glimed
 gypsyweed
 grasses
 gashes
-gashing
 grievants
 gashly
 gashouses
@@ -2386,6 +2385,7 @@ gelatinizer
 gelatinizing
 grudgeful
 gallanting
+gashing
 gymnolaema
 gelatinoid
 gelatinous
