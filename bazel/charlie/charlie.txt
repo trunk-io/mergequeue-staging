@@ -10011,7 +10011,6 @@ corporealist
 convent
 chemotherapeutically
 chemotherapeutics
-chemotherapy
 chemotherapies
 chemotherapist
 chemotherapists
@@ -30911,6 +30910,7 @@ cumberers
 centrifuging
 cumberland
 cumberlandite
+chemotherapy
 cumberless
 cumberment
 cumbers
