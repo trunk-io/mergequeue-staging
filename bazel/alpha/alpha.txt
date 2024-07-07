@@ -3236,7 +3236,6 @@ actinostome
 audits
 actinotherapeutic
 actinotherapeutics
-actinotherapy
 actinotoxemia
 actinotrichium
 actinotrocha
@@ -11980,6 +11979,7 @@ anapaestical
 anapaestically
 anapaests
 anapaganize
+actinotherapy
 academization
 anapaite
 anapest
