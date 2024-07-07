@@ -6403,6 +6403,7 @@ ensigncies
 ensignry
 ensigns
 ensilaged
+expense
 evenworthy
 ensilages
 epicranius
@@ -13045,7 +13046,6 @@ elegits
 expenditure
 enfonced
 expends
-expense
 expensed
 expenseful
 expensefully
