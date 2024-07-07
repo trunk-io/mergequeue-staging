@@ -9605,6 +9605,7 @@ checkroll
 centgrave
 checkroom
 checkrooms
+cyanhydrate
 checkrope
 checkrowed
 checkrower
@@ -13046,7 +13047,6 @@ cyaneous
 cyanephidrosis
 cyanformate
 cyanformic
-cyanhydrate
 cyanhydric
 cyanhydrin
 cyanhidrosis
