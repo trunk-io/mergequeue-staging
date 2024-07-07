@@ -1622,7 +1622,6 @@ deallocate
 discontentments
 deallocated
 deallocates
-deallocating
 deallocation
 deals
 deambulate
@@ -18082,6 +18081,7 @@ dumbest
 dumbfish
 downheartedly
 dumbfounder
+deallocating
 diastrophe
 dumbfounderment
 dumbfoundment
