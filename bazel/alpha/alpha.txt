@@ -9767,7 +9767,6 @@ alveolar
 alveolary
 antiwhite
 alveolariform
-alveolars
 alveolate
 agio
 alveolated
@@ -13166,6 +13165,7 @@ anhele
 anhelose
 anhelous
 anhemitonic
+alveolars
 anhemolytic
 anhyd
 anhydraemia
