@@ -5971,7 +5971,6 @@ faradisms
 fundraise
 frizette
 floretty
-forsloth
 flory
 floria
 floriage
@@ -10296,6 +10295,7 @@ frogs
 frogskin
 frogskins
 frogspawn
+forsloth
 frogtongue
 floccosely
 frogwort

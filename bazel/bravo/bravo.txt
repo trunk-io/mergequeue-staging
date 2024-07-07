@@ -9323,7 +9323,6 @@ biphase
 biphasic
 biphenyl
 biphenylene
-biphenyls
 boomerang
 biphenol
 bipinnaria
@@ -11799,6 +11798,7 @@ bodge
 bodger
 bodgery
 bodybending
+biphenyls
 bakshis
 bilges
 bodybuilders
