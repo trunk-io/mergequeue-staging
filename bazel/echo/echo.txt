@@ -5850,7 +5850,6 @@ empiry
 engrieve
 embroiderers
 electrized
-engross
 engrossed
 engrossedly
 erythrolysin
@@ -12879,6 +12878,7 @@ exotism
 exotospore
 exotoxins
 exotropia
+engross
 erosionally
 exotropism
 exp
