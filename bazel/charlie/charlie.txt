@@ -12940,7 +12940,6 @@ chromeplate
 churchscot
 churchway
 churchward
-churchwarden
 churchwardenism
 churchwardenize
 churchwardens
@@ -31550,6 +31549,7 @@ curtnesses
 curtsey
 curtseying
 curtsy
+churchwarden
 curtsied
 curtsies
 curtsying
