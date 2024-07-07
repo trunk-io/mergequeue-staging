@@ -10506,6 +10506,7 @@ childbeds
 childbirths
 childcrowing
 childe
+clinkant
 childed
 childermas
 childes
@@ -16288,7 +16289,6 @@ clinics
 clinid
 clinium
 clink
-clinkant
 clinked
 clinker
 clinkered
