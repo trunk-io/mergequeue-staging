@@ -1710,7 +1710,6 @@ eventuation
 eichbergite
 eicosane
 eide
-eident
 eydent
 entreatingly
 eidently
@@ -7577,6 +7576,7 @@ epiblastema
 epiblastic
 epiboly
 epibolic
+eident
 epibolies
 epibolism
 eusebian
