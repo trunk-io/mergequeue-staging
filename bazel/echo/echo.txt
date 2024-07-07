@@ -2278,7 +2278,6 @@ exotic
 electorate
 electorates
 electors
-electra
 electragy
 electre
 electrepeter
@@ -3988,6 +3987,7 @@ emittance
 emitted
 eisegeses
 entreaty
+electra
 emittent
 emitting
 emlen
