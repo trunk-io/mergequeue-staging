@@ -7885,7 +7885,6 @@ aldm
 anthozooid
 aldoheptose
 antatrophic
-aldohexose
 aldoketene
 aldol
 aldolase
@@ -13193,6 +13192,7 @@ activator
 algraphic
 anhydrotic
 anhydrously
+aldohexose
 anhydroxime
 aggerate
 anhima
