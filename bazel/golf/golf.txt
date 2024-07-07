@@ -5910,6 +5910,7 @@ glosser
 glossers
 galloway
 glossic
+gonotype
 glossier
 geomantic
 glossies
@@ -6976,7 +6977,6 @@ gonosome
 gastratrophia
 gonosphere
 gymsia
-gonotype
 gonotocont
 gonotokont
 gonotome
