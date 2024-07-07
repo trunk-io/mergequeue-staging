@@ -1806,7 +1806,6 @@ debile
 debilissima
 doulce
 disliker
-debilitates
 debilitation
 debilitations
 debilitative
@@ -3640,6 +3639,7 @@ degrade
 degraded
 deratization
 detrimentalness
+debilitates
 degradedly
 decontrolling
 degradement
