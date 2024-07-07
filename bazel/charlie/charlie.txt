@@ -11574,7 +11574,6 @@ chola
 cholaemia
 cholagogic
 cholagogue
-cholalic
 cholangiography
 cholangioitis
 cholangitis
@@ -12547,6 +12546,7 @@ cascaron
 chromodermatosis
 chromodiascope
 chromogen
+cholalic
 chromogene
 chromogenesis
 chromogenetic
