@@ -12143,7 +12143,6 @@ chouses
 choushes
 chousing
 chousingha
-chout
 chow
 chowanoc
 convalesces
@@ -25344,6 +25343,7 @@ corneas
 cornein
 corneine
 corneitis
+chout
 cornel
 cornelia
 cornelian
