@@ -4096,7 +4096,6 @@ bear
 bearableness
 bearably
 bearance
-bearbaiter
 bearbane
 bearberry
 bearbind
@@ -17544,6 +17543,7 @@ burdeners
 bala
 burdening
 burdenless
+bearbaiter
 burdenous
 burdens
 bobadilish
