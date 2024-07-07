@@ -896,7 +896,6 @@ forecommend
 ferries
 forebodies
 firefangs
-fanums
 fanwe
 fantoms
 foudroyant
@@ -3686,6 +3685,7 @@ fleeciness
 filmland
 filmlands
 filmmake
+fanums
 filmmaker
 fullword
 faradaic
