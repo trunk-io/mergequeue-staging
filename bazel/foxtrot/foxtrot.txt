@@ -4770,7 +4770,6 @@ flaite
 flaithship
 frenchless
 floatsman
-flak
 flakage
 flakeboard
 fathomableness
@@ -7753,6 +7752,7 @@ faceharden
 foremastmen
 fleshlike
 fluidify
+flak
 foremasts
 foremean
 forb
