@@ -20340,7 +20340,6 @@ arrogated
 arrogates
 arrogating
 arrogatingly
-anoxyscope
 anhydrous
 arrogation
 arrogations
@@ -23383,6 +23382,7 @@ augitite
 augitophyre
 augment
 augmentable
+anoxyscope
 augmentation
 augmentations
 augmentative
