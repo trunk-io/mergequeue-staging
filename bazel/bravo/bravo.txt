@@ -6538,6 +6538,7 @@ beprose
 bepun
 bedraping
 bepurple
+boid
 busyness
 bepuzzle
 bequalm
@@ -12005,7 +12006,6 @@ boycotting
 bocasine
 boycottism
 boycotts
-boid
 boidae
 boydom
 boyer
