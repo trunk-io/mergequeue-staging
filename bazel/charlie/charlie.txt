@@ -13709,6 +13709,7 @@ cymblings
 cymbocephaly
 cymbocephalous
 cymbopogon
+circumcallosal
 craik
 cerebroscope
 cimborio
@@ -14318,7 +14319,6 @@ circumbendibuses
 circumboreal
 circumbuccal
 circumbulbar
-circumcallosal
 circumcellion
 circumcenter
 circumcentral
