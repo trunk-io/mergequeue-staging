@@ -12677,7 +12677,6 @@ dislocate
 diffrangibility
 dislocatedly
 dislocatedness
-dislocates
 dislocating
 dislocation
 dislocator
@@ -13404,6 +13403,7 @@ disrelishable
 disremember
 disrepair
 disreport
+dislocates
 disreputability
 disreputable
 disreputableness
