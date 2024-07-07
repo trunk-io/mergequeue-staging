@@ -13637,6 +13637,7 @@ dissymmetry
 disjunction
 dissymmetric
 dowelling
+doglegged
 dissymmetrical
 dissymmettric
 dissympathize
@@ -15016,7 +15017,6 @@ deontological
 doghouses
 dogy
 dogleg
-doglegged
 downweigh
 doglegging
 disintegrating
