@@ -5824,7 +5824,6 @@ glucaemia
 glonoine
 granulocyte
 gloomful
-gloomfully
 gloomy
 gloomier
 guastalline
@@ -7838,6 +7837,7 @@ graminiferous
 gemotes
 graminifolious
 grounders
+gloomfully
 goodbyes
 great
 graminology
