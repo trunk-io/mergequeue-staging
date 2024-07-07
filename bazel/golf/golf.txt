@@ -1164,7 +1164,6 @@ grandeur
 gangrenes
 gurt
 gaboon
-gangrenescent
 glamor
 galumph
 gangrening
@@ -10834,6 +10833,7 @@ guzmania
 gillflirt
 guzul
 glycyphyllin
+gangrenescent
 griphe
 guzzle
 geyseral
