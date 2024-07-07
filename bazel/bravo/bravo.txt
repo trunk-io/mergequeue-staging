@@ -4768,6 +4768,7 @@ bedrizzle
 bedrock
 bedrocks
 bedrolls
+blanched
 bedrooms
 bridgemaker
 bedrown
@@ -10309,7 +10310,6 @@ butyrousness
 beltian
 blanch
 blanche
-blanched
 blancher
 blanches
 blanchi
