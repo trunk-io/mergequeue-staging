@@ -294,7 +294,6 @@ gait
 gaiter
 gluttonous
 gurgle
-gaiterless
 gloom
 gaiting
 gurneyite
@@ -5701,6 +5700,7 @@ globeflower
 guppies
 geissorhiza
 globelike
+gaiterless
 gravidate
 granulater
 globes
