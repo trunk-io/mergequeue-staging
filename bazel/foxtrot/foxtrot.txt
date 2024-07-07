@@ -1264,7 +1264,6 @@ federarie
 frost
 fastbacks
 fastballs
-fleetingly
 feebleheartedly
 feral
 fastened
@@ -3865,6 +3864,7 @@ fineless
 fineness
 fustianish
 federalists
+fleetingly
 finer
 finery
 fines
