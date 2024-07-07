@@ -1659,7 +1659,6 @@ calutron
 colostral
 calutrons
 calvados
-calvadoses
 calvaire
 calvary
 calvaria
@@ -7692,6 +7691,7 @@ cerer
 cererite
 ceresine
 cereuses
+calvadoses
 cerevis
 cerevisial
 cereza
