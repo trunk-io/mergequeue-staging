@@ -2177,7 +2177,6 @@ bannerette
 bannerlike
 bannerman
 bannerole
-blockwood
 bannerols
 bannet
 bryozoan
@@ -12128,6 +12127,7 @@ boldos
 boldu
 bole
 bolection
+blockwood
 boled
 boleite
 bolelia
