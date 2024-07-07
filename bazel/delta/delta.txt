@@ -2201,7 +2201,6 @@ diathesic
 deceive
 delly
 deceivers
-deceives
 deceiving
 decelerate
 decelerated
@@ -14183,6 +14182,7 @@ diterpene
 ditertiary
 dites
 ditetragonal
+deceives
 dechenite
 dithalous
 dithecal
