@@ -2071,7 +2071,6 @@ decapitations
 decapitator
 decapodal
 decapodan
-decapodiform
 downpours
 decapods
 dangleberries
@@ -5442,6 +5441,7 @@ denunciable
 denunciant
 denunciate
 denunciating
+decapodiform
 denunciation
 denunciations
 denunciative

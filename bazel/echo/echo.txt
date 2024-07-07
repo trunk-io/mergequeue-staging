@@ -3052,7 +3052,6 @@ epenla
 electrotherapist
 ellipses
 eulogias
-ecphractic
 edgeless
 ellipsis
 ellipsograph
@@ -12437,6 +12436,7 @@ exfiltrate
 exfiltration
 exflagellate
 enoch
+ecphractic
 exflagellation
 exflect
 exfodiate
