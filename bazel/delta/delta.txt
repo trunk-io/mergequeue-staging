@@ -5030,7 +5030,6 @@ denaturisation
 denaturise
 doughnut
 dryops
-denaturised
 denaturiser
 denaturising
 denaturize
@@ -6461,6 +6460,7 @@ desalting
 disserviceableness
 dobbers
 discontentedness
+denaturised
 desalts
 desamidase
 drossier
