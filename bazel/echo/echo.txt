@@ -1606,7 +1606,6 @@ eglateres
 eudromias
 enchyma
 estriol
-egling
 exocolitis
 eglomerate
 escargatoire
@@ -5415,6 +5414,7 @@ elamitic
 epigoneion
 endothelial
 embroche
+egling
 eyestones
 endotheliolytic
 endothelioma
