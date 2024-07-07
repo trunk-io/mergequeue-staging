@@ -7433,6 +7433,7 @@ ceps
 cequi
 cera
 cerago
+coalfield
 ceral
 ceramal
 circumplication
@@ -17243,7 +17244,6 @@ coalesces
 coalescing
 coalface
 cooees
-coalfield
 coalfish
 coalfishes
 coalfitter
