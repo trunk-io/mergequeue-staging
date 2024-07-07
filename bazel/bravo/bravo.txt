@@ -3755,7 +3755,6 @@ battledore
 battledores
 blazoners
 baldly
-battledoring
 biographist
 ballyrag
 battlefields
@@ -4096,6 +4095,7 @@ biconvexity
 beshame
 beanpoles
 beans
+battledoring
 beansetter
 beanstalk
 bacteroidal
