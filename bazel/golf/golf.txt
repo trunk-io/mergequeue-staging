@@ -6024,7 +6024,6 @@ glout
 glouted
 glouts
 gigamaree
-gloved
 gustation
 gloveless
 grain
@@ -7783,6 +7782,7 @@ groundly
 graymalkin
 graine
 grained
+gloved
 grainedness
 gpad
 grainer
