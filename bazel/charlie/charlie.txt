@@ -7419,7 +7419,6 @@ cephalous
 cephas
 cepheid
 cepheids
-cephen
 cepheus
 cephid
 cephidae
@@ -29194,6 +29193,7 @@ colliquativeness
 cryogenics
 cryogenies
 cryogens
+cephen
 cryolite
 chemicovital
 cryolites
