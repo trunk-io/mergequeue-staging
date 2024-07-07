@@ -5880,7 +5880,6 @@ flook
 floorage
 floorages
 floorboard
-floorboards
 foveated
 fala
 fluminous
@@ -10615,6 +10614,7 @@ fruit
 folletto
 fruitade
 flushermen
+floorboards
 fruitage
 fruitarian
 fruitbearing

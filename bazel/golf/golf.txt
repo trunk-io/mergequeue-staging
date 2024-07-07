@@ -3964,6 +3964,7 @@ gibraltar
 gibs
 graveled
 gnathostomatous
+groupwise
 galli
 gibuses
 giddap
@@ -10565,7 +10566,6 @@ gunslingers
 gunslinging
 gunsman
 grandiloquence
-groupwise
 gazetteers
 galilean
 geoscopic
