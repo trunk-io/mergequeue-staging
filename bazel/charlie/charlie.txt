@@ -9079,7 +9079,6 @@ costectomy
 charitableness
 charitably
 charitative
-catproof
 charites
 charity
 credenciveness
@@ -13727,6 +13726,7 @@ cimelia
 cimeliarch
 cimelium
 crestfallenly
+catproof
 cymenes
 cimeter
 cimex
