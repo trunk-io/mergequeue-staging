@@ -5549,7 +5549,6 @@ beladied
 beladies
 beladying
 brokenness
-beladle
 belage
 belah
 belay
@@ -13830,6 +13829,7 @@ bown
 bowne
 blurred
 barbicanage
+beladle
 bart
 bowpot
 bowpots
