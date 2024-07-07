@@ -3048,7 +3048,6 @@ geodiatropism
 geodiferous
 geodynamic
 geodynamical
-geodynamicist
 gout
 geodynamics
 gymnite
@@ -5618,6 +5617,7 @@ globeholder
 glires
 gliridae
 grains
+geodynamicist
 gliriform
 gemeinschaften
 glis
