@@ -3128,7 +3128,6 @@ actinidiaceae
 actiniferous
 actiniform
 actinine
-actiniochrome
 actiniohematin
 actiniomorpha
 actinism
@@ -9287,6 +9286,7 @@ almud
 almudes
 almuerzo
 almugs
+actiniochrome
 almuredin
 almury
 almuten
