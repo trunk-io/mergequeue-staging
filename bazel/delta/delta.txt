@@ -5032,7 +5032,6 @@ doughnut
 dryops
 denaturiser
 denaturising
-denaturize
 denaturized
 denaturizer
 denaturizing
@@ -11967,6 +11966,7 @@ disemic
 derisiveness
 disemplane
 defalcating
+denaturize
 disemploy
 disemployed
 disemploying
