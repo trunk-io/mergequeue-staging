@@ -4403,7 +4403,6 @@ enameller
 enamellers
 endent
 enamelless
-enamelling
 enamellist
 esthesiology
 enamels
@@ -12610,6 +12609,7 @@ existible
 extant
 existing
 existless
+enamelling
 eligibles
 existlessness
 exists
