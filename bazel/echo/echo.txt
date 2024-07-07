@@ -3066,7 +3066,6 @@ ellipticalness
 ellipticity
 elliptograph
 elliptoid
-ellops
 epicyte
 eighteens
 eutaxitic
@@ -12306,6 +12305,7 @@ executively
 executiveness
 entangledly
 elric
+ellops
 ehretiaceae
 executiveship
 earthfast
