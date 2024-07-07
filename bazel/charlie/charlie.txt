@@ -4166,7 +4166,6 @@ carest
 caret
 caretake
 caretaken
-caretaker
 caretakers
 cattie
 caretakes
@@ -11025,6 +11024,7 @@ chiroplasty
 chiropod
 countersignature
 chiropodial
+caretaker
 chiropodic
 chiropodical
 compressibly
