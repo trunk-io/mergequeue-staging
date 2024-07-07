@@ -10091,6 +10091,7 @@ ambicoloration
 ambidexterity
 ambidexterities
 ambidexterous
+antineutrons
 ambidextrous
 ambidextrously
 ambience
@@ -15780,7 +15781,6 @@ adfected
 antineutrality
 antineutrally
 antineutrinos
-antineutrons
 anting
 antings
 antinicotine

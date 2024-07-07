@@ -2332,7 +2332,6 @@ excurvature
 electrocapillary
 essency
 emprize
-emergently
 electrocapillarity
 emblazoner
 eradiating
@@ -6166,6 +6165,7 @@ enodation
 enode
 enoil
 enol
+emergently
 embronze
 enolase
 enteroid
