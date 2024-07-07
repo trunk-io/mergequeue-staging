@@ -14141,7 +14141,6 @@ cypraeoid
 cypre
 cypres
 cypreses
-cypress
 cypressroot
 cyprian
 cyprians
@@ -24006,6 +24005,7 @@ convalescents
 convalescing
 choloepus
 cottier
+cypress
 cicindela
 convallaria
 convallariaceae
