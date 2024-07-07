@@ -3283,6 +3283,7 @@ basilian
 basilic
 basilica
 basilical
+brandish
 basilicalike
 basilicas
 bluewoods
@@ -14522,7 +14523,6 @@ benzoglyoxaline
 branding
 brandiron
 brandise
-brandish
 brandished
 brandisher
 biochron
