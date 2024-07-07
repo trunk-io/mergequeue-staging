@@ -13039,7 +13039,6 @@ cyamus
 cyan
 cyanacetic
 cyanamid
-cyanamide
 cyanamids
 cyananthrol
 cyanastraceae
@@ -22061,6 +22060,7 @@ confirmation
 confirmational
 confirmations
 confirmatively
+cyanamide
 confirmatorily
 confirmed
 confirmedly
