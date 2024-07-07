@@ -5418,7 +5418,6 @@ affined
 affinely
 affines
 affinitative
-affinitatively
 affinity
 affinities
 affinition
@@ -9219,6 +9218,7 @@ almemar
 almemars
 almemor
 aloma
+affinitatively
 almendro
 almendron
 almery
