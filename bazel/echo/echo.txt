@@ -2442,6 +2442,7 @@ exsiccant
 electrogenesis
 electrogenic
 electrogild
+erd
 electrogilding
 electrogram
 electrograph
@@ -8892,7 +8893,6 @@ erat
 erato
 emption
 erbia
-erd
 enthronization
 ess
 erdvark
