@@ -1390,6 +1390,7 @@ backpointers
 balden
 balderdash
 blighters
+ballard
 blithebread
 baldfaced
 bemire
@@ -1544,7 +1545,6 @@ ballahou
 ballam
 bedoctor
 ballarag
-ballard
 ballas
 ballastage
 ballasted
