@@ -4838,7 +4838,6 @@ bedwarf
 bedwarfed
 bedwarfing
 bedwarfs
-bedwarmer
 bedwell
 bromal
 beearn
@@ -12137,6 +12136,7 @@ boliche
 bolide
 bellworts
 bolimba
+bedwarmer
 bolis
 bottlebrush
 bolita
