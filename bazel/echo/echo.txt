@@ -4409,6 +4409,7 @@ enamels
 enamelwork
 enamine
 epistolist
+endosomes
 enamorado
 enamorate
 enigmatized
@@ -5357,7 +5358,6 @@ endosmosis
 endosmotic
 endosmotically
 endosome
-endosomes
 endosperm
 endospermic
 endospermous
