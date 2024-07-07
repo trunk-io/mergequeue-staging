@@ -12723,7 +12723,6 @@ aficionada
 anesthetists
 anesthetization
 acclimatising
-anesthetize
 anesthetized
 anaeretic
 anesthetizer
@@ -15505,6 +15504,7 @@ antihuff
 aspergillales
 antihum
 antihuman
+anesthetize
 antihumanism
 antihumanist
 antihumanistic
