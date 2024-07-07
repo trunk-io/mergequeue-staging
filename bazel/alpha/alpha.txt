@@ -3985,6 +3985,7 @@ adipogenic
 adipogenous
 adipoid
 adipolysis
+assistency
 adipolytic
 adipoma
 adipomata
@@ -21834,7 +21835,6 @@ armadillo
 assistantship
 assistantships
 assisted
-assistency
 assister
 assisters
 assistful
