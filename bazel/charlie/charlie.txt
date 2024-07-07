@@ -5316,7 +5316,6 @@ castillo
 cinchonaceae
 castilloa
 casting
-castings
 castle
 castled
 castlelike
@@ -22276,6 +22275,7 @@ congeneric
 congenerical
 catheterizes
 congenerous
+castings
 congeners
 congenetic
 congenial
