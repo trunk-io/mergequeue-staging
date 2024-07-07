@@ -676,7 +676,6 @@ gallivants
 geoglyphic
 gallivorous
 gallywasp
-gallize
 gallnut
 gallnuts
 gizzen
@@ -5760,6 +5759,7 @@ garred
 globuliferous
 glaive
 globuliform
+gallize
 groundwall
 globulimeter
 globulins
