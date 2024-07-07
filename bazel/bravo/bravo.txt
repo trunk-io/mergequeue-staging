@@ -14681,7 +14681,6 @@ bravery
 boschboks
 bravers
 braves
-balak
 bravi
 beslimes
 benzamino
@@ -17611,6 +17610,7 @@ burgess
 brigands
 bowstrung
 burgessdom
+balak
 barrets
 burgesses
 burggrave
