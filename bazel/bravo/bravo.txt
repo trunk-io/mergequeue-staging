@@ -7998,7 +7998,6 @@ byronesque
 bicentricity
 bicep
 bicephalic
-bicephalous
 biceps
 bicepses
 bichy
@@ -12645,6 +12644,7 @@ boodles
 bottoms
 booed
 boof
+bicephalous
 boogeymen
 booger
 berlins
