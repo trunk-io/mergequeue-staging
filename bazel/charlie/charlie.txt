@@ -10309,7 +10309,6 @@ chiasmi
 chiasmic
 chiasmodontid
 chiasms
-chiasmus
 chiastic
 chiastoneural
 chiastoneury
@@ -29680,6 +29679,7 @@ croh
 croy
 croyden
 croydon
+chiasmus
 croiik
 conglutinative
 croyl
