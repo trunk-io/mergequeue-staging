@@ -1849,7 +1849,6 @@ fecundates
 fecundation
 fecundations
 fecundative
-fecundator
 freighters
 fuligula
 fecundatory
@@ -9803,6 +9802,7 @@ frequenter
 fogram
 frequentest
 frequenting
+fecundator
 foldout
 frequentness
 furanoside
