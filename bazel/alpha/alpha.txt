@@ -8242,7 +8242,6 @@ algonquian
 algonquians
 algonquin
 algonquins
-algophagous
 algophilia
 algophilist
 algophobia
@@ -10873,6 +10872,7 @@ ammoniac
 allayers
 ammoniacs
 ammoniacum
+algophagous
 ammoniaemia
 ammoniate
 ammoniated
