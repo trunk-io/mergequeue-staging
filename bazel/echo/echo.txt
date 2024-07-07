@@ -6994,6 +6994,7 @@ entrammel
 emigration
 entranced
 euryhaline
+epiplanktonic
 emprent
 entrancement
 entrancements
@@ -8109,7 +8110,6 @@ epiphora
 epiphragmal
 epipial
 epiplankton
-epiplanktonic
 epiplasmic
 epiplastral
 eviscerate
