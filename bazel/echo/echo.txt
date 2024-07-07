@@ -285,7 +285,6 @@ eastern
 easterners
 easternism
 easternized
-easternizing
 easternly
 easternmost
 easters
@@ -13804,6 +13803,7 @@ extractibility
 emarginated
 extractible
 extracting
+easternizing
 extramodal
 expressure
 extraction
