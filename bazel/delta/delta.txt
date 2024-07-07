@@ -467,7 +467,6 @@ daysides
 dilaters
 daisies
 daising
-daysmen
 daystar
 daystars
 daytale
@@ -11032,6 +11031,7 @@ disallow
 deflagrate
 disallowable
 dezincified
+daysmen
 disallowableness
 disallowance
 dimeran
