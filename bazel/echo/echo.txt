@@ -1247,7 +1247,6 @@ eelboat
 electrothermostatic
 eelcatcher
 ennoblement
-eelery
 eelfare
 eelfish
 expands
@@ -7839,6 +7838,7 @@ epigastrium
 epigastrocele
 encastage
 epigeal
+eelery
 evidence
 euectic
 epigee
