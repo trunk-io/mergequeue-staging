@@ -4195,7 +4195,6 @@ afterhope
 admirability
 admirable
 admirableness
-admirably
 athapascan
 admiral
 admirals
@@ -15441,6 +15440,7 @@ antigonon
 antigonorrheic
 antigonus
 antigorite
+admirably
 antigovernment
 acrodynia
 antigovernmentally
