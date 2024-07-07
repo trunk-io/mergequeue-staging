@@ -7541,7 +7541,6 @@ devaluation
 devaluations
 devalued
 demurrages
-devalues
 devaluing
 devanagari
 devance
@@ -11184,6 +11183,7 @@ disavowing
 disavowment
 disavows
 disawa
+devalues
 disbalance
 disbanding
 dillseed
