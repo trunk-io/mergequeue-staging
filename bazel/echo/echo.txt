@@ -5318,6 +5318,7 @@ endoradiosonde
 endoral
 evened
 equipedal
+excisable
 eyeshades
 endorhinitis
 endorphin
@@ -12043,7 +12044,6 @@ evanishes
 excipulum
 encyclic
 excircle
-excisable
 esker
 emporiums
 excise
