@@ -3903,7 +3903,6 @@ gib
 gibaro
 gibbals
 gibbartas
-gibbed
 gastromalacia
 gibbered
 gibberella
@@ -9359,6 +9358,7 @@ grossularite
 grosz
 groundwards
 groszy
+gibbed
 genocide
 grote
 graminological
