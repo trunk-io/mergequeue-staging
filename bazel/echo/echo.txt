@@ -9235,6 +9235,7 @@ ermiline
 endovaccination
 ermine
 ermined
+extrafascicular
 excellencies
 embrasuring
 exemplupla
@@ -13840,7 +13841,6 @@ extraembryonic
 extraenteric
 extraequilibrium
 extraessential
-extrafascicular
 extrafine
 extrafloral
 extrafocal
