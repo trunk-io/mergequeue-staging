@@ -10913,7 +10913,6 @@ ammonocarbonic
 ammonocarbonous
 ammonoid
 ammonoidea
-ammonoids
 ammonolyses
 ammonolitic
 ammonolytic
@@ -24798,6 +24797,7 @@ avisos
 avital
 avitaminoses
 avitaminosis
+ammonoids
 avitic
 avizandum
 avn
