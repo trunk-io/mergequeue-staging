@@ -1292,7 +1292,6 @@ fadable
 fraunch
 forestology
 fumigate
-fastigious
 fastigium
 foreswore
 fasting
@@ -10237,6 +10236,7 @@ frizzily
 forepaling
 frenum
 frizziness
+fastigious
 frostfish
 feudum
 fetisheer
