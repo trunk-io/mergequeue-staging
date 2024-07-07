@@ -3025,7 +3025,6 @@ fibroglioma
 frying
 fibrohemorrhagic
 ferromagnetic
-farfet
 figuriste
 forego
 fasciolar
@@ -4143,6 +4142,7 @@ foreturn
 firerooms
 firers
 firesafe
+farfet
 firesafeness
 firesafety
 flagellation
