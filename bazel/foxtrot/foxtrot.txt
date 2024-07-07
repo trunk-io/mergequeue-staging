@@ -4276,7 +4276,6 @@ fusses
 fishbolts
 faultless
 fishbone
-fishbones
 fishbowl
 fisheye
 fisherboat
@@ -7938,6 +7937,7 @@ foresighted
 forewarned
 foresightedly
 furiosa
+fishbones
 foresightedness
 foresightful
 finely
