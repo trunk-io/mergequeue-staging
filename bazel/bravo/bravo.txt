@@ -3353,7 +3353,6 @@ basipterygoid
 basiradial
 basirostral
 biserrate
-basis
 basiscopic
 basisidia
 ballast
@@ -15630,6 +15629,7 @@ broadsheet
 broadside
 broadsided
 broadsider
+basis
 borrovian
 bangup
 broadsides

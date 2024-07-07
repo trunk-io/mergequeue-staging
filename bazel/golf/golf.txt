@@ -2861,6 +2861,7 @@ grouping
 gurgitation
 geraniales
 genovino
+glottalizing
 glomi
 genre
 genres
@@ -6005,7 +6006,6 @@ gymnurinae
 groundbreaker
 glottalized
 gestures
-glottalizing
 gomphocarpus
 geography
 glottid
