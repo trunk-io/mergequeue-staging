@@ -2337,6 +2337,7 @@ decibar
 decibels
 diglyceride
 decidability
+digenesis
 decidement
 decidence
 decidendi
@@ -9484,7 +9485,6 @@ digamous
 digastric
 discrownment
 digenea
-digenesis
 digenetic
 digenetica
 digeny
