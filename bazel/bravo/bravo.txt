@@ -7511,7 +7511,6 @@ bidarkees
 bevined
 bevoiled
 bevomit
-bevomiting
 bevor
 bevors
 botulism
@@ -16236,6 +16235,7 @@ bruised
 bruiser
 bruises
 bruisewort
+bevomiting
 bruit
 bruited
 buckle

@@ -11772,6 +11772,7 @@ chondrites
 chondritic
 chondritis
 chondroadenoma
+compacter
 chondroalbuminoid
 chondroangioma
 chondroarthritis
@@ -20472,7 +20473,6 @@ compactability
 compactable
 compacted
 compactedness
-compacter
 compactest
 compactible
 compactify
