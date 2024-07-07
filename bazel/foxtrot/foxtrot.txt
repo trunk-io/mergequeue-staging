@@ -4711,6 +4711,7 @@ flaglike
 flotation
 fallers
 flagmaker
+franchisement
 flagmen
 frilling
 furcule
@@ -10583,7 +10584,6 @@ fructifier
 flitted
 fructifies
 fructokinase
-franchisement
 forfended
 fructosan
 fructose
