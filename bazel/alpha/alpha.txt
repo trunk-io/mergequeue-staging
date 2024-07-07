@@ -2843,7 +2843,6 @@ acridines
 acridinic
 acridinium
 acridity
-acridium
 aposaturnium
 acrydium
 acridness
@@ -20623,6 +20622,7 @@ arthrodire
 arthrodonteae
 arthroempyema
 arthroempyesis
+acridium
 arthroendoscopy
 arthrogastra
 arthrogastran
