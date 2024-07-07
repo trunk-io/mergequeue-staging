@@ -2349,6 +2349,7 @@ enneacontahedral
 electrocautery
 electroceramic
 emmensite
+electrodispersive
 electrochemical
 electrochemist
 electrochronograph
@@ -2407,7 +2408,6 @@ electrodynamic
 electrodynamical
 enter
 electrodynamism
-electrodispersive
 elses
 electrodissolution
 epithecicia
