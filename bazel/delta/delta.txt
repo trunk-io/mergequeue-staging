@@ -3086,7 +3086,6 @@ defacements
 defacer
 defacers
 defaces
-defacing
 defacingly
 diabolify
 digressiveness
@@ -13694,6 +13693,7 @@ dehydroffroze
 dissociability
 deglazed
 dissociably
+defacing
 drovers
 dissocial
 demonolatry
