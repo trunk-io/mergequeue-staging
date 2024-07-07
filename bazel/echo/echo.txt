@@ -4975,7 +4975,6 @@ endamoebidae
 endangeitis
 endanger
 embalmers
-epimere
 endangered
 endangerer
 endangering
@@ -7777,6 +7776,7 @@ espial
 epidermophyton
 evading
 epidermose
+epimere
 epidermous
 etna
 epiderms
