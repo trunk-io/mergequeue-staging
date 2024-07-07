@@ -13499,6 +13499,7 @@ disseated
 disseating
 dex
 dissected
+draughthouse
 dissections
 dissector
 dissectors
@@ -16768,7 +16769,6 @@ dratting
 diathermometer
 draughtboard
 draughted
-draughthouse
 drooping
 draughty
 deipnodiplomatic
