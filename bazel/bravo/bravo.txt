@@ -3626,7 +3626,6 @@ babbittry
 broncobusters
 barkeeps
 bathukolpian
-bathukolpic
 bathvillite
 bathwater
 bossisms
@@ -5892,6 +5891,7 @@ beltway
 baulky
 belucki
 belue
+bathukolpic
 beluga
 belugas
 belugite
