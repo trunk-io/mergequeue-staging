@@ -1270,6 +1270,7 @@ acacias
 aneath
 acaciin
 anatomizable
+antifriction
 acacin
 acad
 academe
@@ -15411,7 +15412,6 @@ apicilar
 atfalati
 antifreezes
 abortive
-antifriction
 adigei
 antifrictional
 antifrost
