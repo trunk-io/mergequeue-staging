@@ -6702,6 +6702,7 @@ aha
 ahab
 auras
 ahamkara
+amellus
 ahankara
 ahantchuyuk
 ahartalav
@@ -10348,7 +10349,6 @@ ameliorations
 academicism
 ameliorativ
 amelioratory
-amellus
 ameloblast
 ameloblastic
 amelu
