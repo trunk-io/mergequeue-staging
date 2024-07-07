@@ -6040,6 +6040,7 @@ dequeues
 detachments
 disgracia
 dropshots
+dorsulum
 der
 derabbinize
 deracialize
@@ -12122,7 +12123,6 @@ disesteemed
 divertor
 disesteemer
 disesteeming
-dorsulum
 dysesthesia
 dysesthetic
 damselfish
