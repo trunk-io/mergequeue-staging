@@ -8133,7 +8133,6 @@ granulization
 granuloadipose
 genappe
 genuclast
-gcd
 granulocytopoiesis
 granuloma
 grumpishness
@@ -9812,6 +9811,7 @@ gravat
 guapilla
 goose
 guanacos
+gcd
 girdle
 gumbotil
 gooding
