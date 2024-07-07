@@ -11086,7 +11086,6 @@ amortisseur
 auresca
 acres
 amortizable
-amortization
 amortizement
 amortizes
 amortizing
@@ -12300,6 +12299,7 @@ anchored
 alouatta
 anchorer
 anchoress
+amortization
 anchoresses
 anchoret
 anchoretic
