@@ -6201,7 +6201,6 @@ gluon
 glusid
 graecize
 gluside
-glut
 geometricize
 guttulae
 glutamate
@@ -10485,6 +10484,7 @@ graymill
 gettysburg
 goldmist
 goaf
+glut
 gundygut
 gundog
 gunebo

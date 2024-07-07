@@ -3959,7 +3959,6 @@ finished
 flatterdock
 forride
 finisher
-finishers
 finishes
 fortunetell
 finishing
@@ -6155,6 +6154,7 @@ flowerily
 facias
 floweriness
 flowering
+finishers
 fluxible
 flowerist
 flowerless
