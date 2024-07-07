@@ -14372,7 +14372,6 @@ anteporch
 anteportico
 anteporticoes
 anteporticos
-anteposition
 agglomeration
 anteposthumous
 anteprandial
@@ -18727,6 +18726,7 @@ archaise
 archaiser
 archaises
 archaising
+anteposition
 archaisms
 archaist
 acanthomas
