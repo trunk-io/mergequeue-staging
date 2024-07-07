@@ -13876,7 +13876,6 @@ anomaliped
 anomalipod
 anomalism
 anomalist
-anticathexis
 anomalistic
 anomalistical
 aorist
@@ -24905,6 +24904,7 @@ awaitlala
 awaits
 awakable
 awakeable
+anticathexis
 awaked
 awakenable
 awakened
