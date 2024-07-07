@@ -1521,7 +1521,6 @@ disaffiliates
 deaccessioned
 deadened
 deadener
-deadeners
 dotations
 deadening
 deadeningly
@@ -13330,6 +13329,7 @@ dispute
 disputed
 disputeful
 disputeless
+deadeners
 disputer
 disputers
 disputes
