@@ -5216,6 +5216,7 @@ aerugos
 aes
 aesc
 awfulness
+attendancy
 aeschylean
 aeschylus
 astronauts
@@ -23032,7 +23033,6 @@ attemptless
 attempts
 attendance
 attendances
-attendancy
 allopurinol
 akia
 attendantly
