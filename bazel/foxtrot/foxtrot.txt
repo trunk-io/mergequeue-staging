@@ -1934,7 +1934,6 @@ feedbin
 flummox
 feedboxes
 fashions
-feeded
 feedhead
 feeding
 feedings
@@ -7818,6 +7817,7 @@ foreplays
 foreplan
 flavanilin
 flattops
+feeded
 forepleasure
 forepoint
 forepointer

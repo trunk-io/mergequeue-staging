@@ -8008,7 +8008,6 @@ epimerize
 endoenzyme
 epimerized
 epimerizing
-exempla
 epimers
 epimyocardial
 extensionalism
@@ -10533,6 +10532,7 @@ ethnolinguist
 ethnolinguistic
 ethnolinguistics
 enrockment
+exempla
 ethnologer
 ethnology
 ethnologically
