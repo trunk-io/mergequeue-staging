@@ -2641,6 +2641,7 @@ acnodes
 ataxonomic
 acoasm
 acoasma
+ayudante
 antioptimistic
 acocanthera
 avile
@@ -17260,7 +17261,6 @@ auriculae
 apogamy
 apogamic
 apogamies
-ayudante
 apogamous
 apogamously
 apogeal
