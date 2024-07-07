@@ -249,7 +249,6 @@ evoked
 easeled
 easeless
 ephebeia
-easement
 easements
 easer
 easers
@@ -3574,6 +3573,7 @@ embolomerous
 embolomycotic
 embolon
 emboltement
+easement
 embolum
 embolus
 emborder
