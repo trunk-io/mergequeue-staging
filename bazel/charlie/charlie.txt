@@ -7837,7 +7837,6 @@ cervantes
 cervantist
 cervantite
 collaboration
-cervelas
 cervelases
 cervelat
 compagnie
@@ -23022,6 +23021,7 @@ consolette
 circumvents
 consolidated
 consolidates
+cervelas
 consolidating
 consolidation
 consolidationist
