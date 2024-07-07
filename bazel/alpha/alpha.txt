@@ -2790,6 +2790,7 @@ acquisible
 acousmas
 acquisite
 acquisited
+auriculare
 acquisition
 acquisitional
 autosuggest
@@ -23561,7 +23562,6 @@ auricula
 alinota
 auricular
 antiantibody
-auriculare
 americawards
 auriculares
 auriculariaceae
