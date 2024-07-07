@@ -14527,7 +14527,6 @@ antholyza
 anthology
 aerodontalgia
 anthologically
-anthologies
 anthologised
 anthologising
 anthologist
@@ -21044,6 +21043,7 @@ atomy
 asclepiadeous
 asclepiadic
 asclepian
+anthologies
 anthologise
 asclepias
 asclepidin
