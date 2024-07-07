@@ -4179,7 +4179,6 @@ administering
 administerings
 administers
 administrable
-administrant
 administrants
 administrated
 administrates
@@ -10454,6 +10453,7 @@ avoids
 adequacies
 anthracotherium
 amerveil
+administrant
 amesaces
 amesite
 amess
