@@ -1142,7 +1142,6 @@ blennometritis
 bairntime
 blastopore
 bairnwort
-bais
 baisemain
 boardable
 baysmelt
@@ -9760,6 +9759,7 @@ bucerotes
 basilarchia
 byssal
 bissellia
+bais
 bissextile
 bissextus
 byssi
