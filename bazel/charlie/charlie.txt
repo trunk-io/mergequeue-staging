@@ -24502,7 +24502,6 @@ coots
 cop
 copa
 capitations
-copable
 copacetic
 copaene
 copaiba
@@ -27172,6 +27171,7 @@ counterspies
 counterspying
 counterstain
 counterstamp
+copable
 cephalometric
 counterstatement
 counterstatute
