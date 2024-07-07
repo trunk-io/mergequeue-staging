@@ -1264,7 +1264,6 @@ felonwood
 federarie
 frost
 fastbacks
-fastballs
 feebleheartedly
 feral
 fastened
@@ -3983,6 +3982,7 @@ foulard
 fifish
 finland
 finlandization
+fastballs
 finless
 foziest
 finlike
