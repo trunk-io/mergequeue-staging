@@ -1983,7 +1983,6 @@ decayers
 diarial
 decaying
 decayless
-displat
 decal
 decalage
 decalcification
@@ -11059,6 +11058,7 @@ disannexation
 disannul
 disannuller
 degree
+displat
 disannulment
 disannuls
 disanoint
