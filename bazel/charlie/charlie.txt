@@ -1070,7 +1070,6 @@ calciocarnotite
 calcioferrite
 calcioscheelite
 calciovolborthite
-calcipexy
 clarity
 calciphylactic
 calciphylaxis
@@ -9941,6 +9940,7 @@ curlycue
 chemolyze
 chemonite
 chemopallidectomy
+calcipexy
 chemopallidectomies
 chemophysiology
 chemophysiological
