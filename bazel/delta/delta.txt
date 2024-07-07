@@ -2629,6 +2629,7 @@ dischase
 decommissioning
 dicranum
 decommissions
+drossel
 deepens
 decompensate
 decompensated
@@ -17435,7 +17436,6 @@ dipyramid
 drakonite
 dross
 drossed
-drossel
 differingly
 drosses
 drossy
