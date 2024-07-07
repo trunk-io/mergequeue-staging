@@ -7946,7 +7946,6 @@ epileptiform
 epileptogenic
 epileptoid
 expunction
-epileptology
 epileptologist
 eonism
 entomeric
@@ -11312,6 +11311,7 @@ evacuative
 evacuator
 evacuators
 exteriors
+epileptology
 evacue
 evacuee
 extinguished
