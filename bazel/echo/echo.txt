@@ -722,6 +722,7 @@ exospheric
 evanescent
 epipodia
 ecodeme
+effusive
 ecol
 ecole
 ecoles
@@ -1474,7 +1475,6 @@ effuses
 effusiometer
 espiegle
 effusions
-effusive
 effusively
 eplot
 effusiveness
