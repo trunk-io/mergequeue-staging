@@ -5616,7 +5616,6 @@ dependingly
 depends
 depeopling
 deperdit
-dedecoration
 delimiters
 deperdite
 deperition
@@ -10723,6 +10722,7 @@ dipodies
 dipodomyinae
 dipodomys
 dipolar
+dedecoration
 depectible
 discolorment
 dipolarize
