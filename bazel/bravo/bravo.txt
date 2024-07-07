@@ -4596,6 +4596,7 @@ bro
 bedeaf
 bedeafen
 bedeafened
+bowtell
 bedeafening
 bedeafens
 bedeck
@@ -13850,7 +13851,6 @@ blotchiness
 borrasca
 bowstrings
 bierstubes
-bowtell
 booboos
 bielenite
 bowwow
