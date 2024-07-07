@@ -5821,7 +5821,6 @@ gloomful
 gloomfully
 gloomy
 gloomier
-gloominess
 guastalline
 gardeen
 gloomingly
@@ -6151,6 +6150,7 @@ gluers
 guldengroschen
 glues
 glug
+gloominess
 gravegarth
 gambeson
 gluier
