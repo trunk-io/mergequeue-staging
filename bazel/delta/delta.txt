@@ -1458,7 +1458,6 @@ dbl
 denominable
 dbms
 disintensify
-dc
 dca
 deceived
 dcb
@@ -1617,6 +1616,7 @@ deallocated
 deallocates
 deallocation
 deals
+dc
 deambulate
 deambulatories
 deamidase
