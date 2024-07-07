@@ -4350,7 +4350,6 @@ emulsifying
 extermine
 epigenesis
 emulsionize
-emulsions
 emulsoid
 exterminable
 emulsoidal
@@ -7750,6 +7749,7 @@ epinician
 enaunter
 epidendrum
 epiderma
+emulsions
 epidermal
 eleutherian
 enthelmintha
