@@ -796,7 +796,6 @@ danegelt
 dyakisdodecahedron
 demiram
 dungeon
-danes
 daneweeds
 danewort
 daneworts
@@ -5731,6 +5730,7 @@ delimes
 deplored
 dextrotropous
 disperse
+danes
 deploredly
 deploredness
 deplorer
