@@ -3648,6 +3648,7 @@ attentiveness
 addrest
 adds
 addu
+armorist
 adduce
 antilyssic
 aberuncator
@@ -20044,7 +20045,6 @@ antiutilitarianism
 armories
 antherozooid
 armoring
-armorist
 accusatorial
 armorplated
 armorproof
