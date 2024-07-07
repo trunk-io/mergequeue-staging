@@ -12614,7 +12614,6 @@ disjudication
 disjunctions
 downbeat
 disjunctive
-disjuncts
 dereferences
 daybooks
 disk
@@ -13626,6 +13625,7 @@ dissyllabising
 dissyllabism
 dipterologist
 dissyllabize
+disjuncts
 denumeration
 doth
 discoglossidae
