@@ -1546,7 +1546,6 @@ bivalence
 ballahou
 ballam
 bedoctor
-ballan
 ballarag
 ballard
 ballas
@@ -2796,6 +2795,7 @@ barnlike
 bipaliidae
 barrelet
 barnman
+ballan
 barnmen
 barns
 barnstorm
