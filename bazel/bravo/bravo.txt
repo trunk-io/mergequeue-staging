@@ -5799,7 +5799,6 @@ bellote
 bellovaci
 boxcar
 bellow
-bellowed
 bellowers
 bellowsful
 bellowslike
@@ -11676,6 +11675,7 @@ biplanar
 bobbysocks
 balanoplasty
 bobbysoxer
+bellowed
 bobbysoxers
 bi
 bobble
