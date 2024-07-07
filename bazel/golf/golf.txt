@@ -1790,7 +1790,6 @@ gastrogastrotomy
 gastrogenic
 gourmandism
 goldurned
-gabeller
 gastrograph
 gastrohepatic
 gastrohepatitis
@@ -9650,6 +9649,7 @@ grugous
 graphitoidal
 gruidae
 gruyere
+gabeller
 gruiform
 gruiformes
 gruine
