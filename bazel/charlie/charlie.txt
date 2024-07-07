@@ -27408,6 +27408,7 @@ courtyard
 courtyards
 contrivances
 closter
+crateman
 courtier
 courtiery
 courtierism
@@ -28301,7 +28302,6 @@ crateful
 cratemaker
 conscribing
 cratemaking
-crateman
 clitic
 cratemen
 crater

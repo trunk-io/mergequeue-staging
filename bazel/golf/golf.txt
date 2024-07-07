@@ -3859,7 +3859,6 @@ ghoul
 gretel
 ghoulery
 gynecopathy
-gunstocks
 ghoulish
 ghoulishly
 ghoulishness
@@ -6204,6 +6203,7 @@ glutamates
 glutamic
 glutamine
 gamogony
+gunstocks
 grecianize
 gadbee
 glutaric
