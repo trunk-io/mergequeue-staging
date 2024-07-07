@@ -17140,7 +17140,6 @@ coadjacency
 coadjacent
 coadjudicator
 coadjust
-coadjustment
 coadjutant
 coadjutator
 campement
@@ -24224,6 +24223,7 @@ convivial
 convivialist
 cryingly
 convivialize
+coadjustment
 coneine
 chedites
 comrade
