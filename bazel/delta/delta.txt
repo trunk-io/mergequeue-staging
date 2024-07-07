@@ -5488,7 +5488,6 @@ deorganize
 deorientalize
 deorsum
 deorsumvergence
-deorsumversion
 deorusumduction
 deossify
 deossification
@@ -10413,6 +10412,7 @@ dioxids
 dextrorsely
 dioxime
 dioxin
+deorsumversion
 dioxindole
 delightfully
 dip
