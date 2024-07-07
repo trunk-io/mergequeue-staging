@@ -18243,7 +18243,6 @@ coiled
 cryochoric
 coevolutionary
 coevolve
-coevolvedcoevolves
 coexecutant
 coexecutor
 coexecutrices
@@ -21954,6 +21953,7 @@ conferrers
 conferring
 conferruminate
 chequy
+coevolvedcoevolves
 confers
 conferva
 confervaceous
