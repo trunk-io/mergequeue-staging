@@ -3845,6 +3845,7 @@ emerge
 escalatory
 epitheliomatous
 emergence
+epicycle
 emergencies
 eriocomi
 enteral
@@ -7643,7 +7644,6 @@ epichoric
 epichorion
 epichoristic
 essed
-epicycle
 epicycles
 epicyclic
 epicycloid
