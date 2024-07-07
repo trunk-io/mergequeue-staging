@@ -3053,7 +3053,6 @@ geodynamic
 geodynamical
 gout
 geodynamics
-gymnite
 gombroon
 geoducks
 geoemtry
@@ -4471,6 +4470,7 @@ gingersnaps
 gingerspice
 gutturalising
 gingham
+gymnite
 ginghams
 gigabit
 gingili
