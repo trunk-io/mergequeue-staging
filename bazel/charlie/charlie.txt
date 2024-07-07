@@ -8073,6 +8073,7 @@ chaco
 chacona
 chaconne
 chaconnes
+convokers
 chacte
 carousers
 chacun
@@ -24245,7 +24246,6 @@ convoying
 convoys
 convoke
 convoker
-convokers
 convokes
 contuse
 convoluta
