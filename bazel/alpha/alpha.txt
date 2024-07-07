@@ -14456,7 +14456,6 @@ anthem
 anthemas
 anthemene
 anthemia
-anthemideae
 antheming
 anthemion
 agomphious
@@ -22492,6 +22491,7 @@ ateleological
 ateles
 apokrea
 atelets
+anthemideae
 alethic
 ately
 alterocentric
