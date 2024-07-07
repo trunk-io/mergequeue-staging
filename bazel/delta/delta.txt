@@ -2601,6 +2601,7 @@ decolorisation
 drinker
 decolorise
 dipus
+dollbeer
 decoloriser
 decolorising
 decolorization
@@ -15188,7 +15189,6 @@ doling
 digitize
 davenports
 doliolum
-dollbeer
 deburse
 dolittle
 dolium
