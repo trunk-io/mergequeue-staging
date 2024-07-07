@@ -1199,7 +1199,6 @@ dastardy
 dastardly
 dastardliness
 dastards
-dastur
 dasturi
 daswen
 dorcas
@@ -2723,6 +2722,7 @@ depasture
 dermahemia
 deconventionalize
 deconvolve
+dastur
 danseuse
 decopperization
 decopperize
