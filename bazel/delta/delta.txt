@@ -7792,6 +7792,7 @@ disambiguate
 devotary
 devote
 devoted
+dribblement
 dextrans
 devotedness
 devotee
@@ -17063,7 +17064,6 @@ dehorning
 dribbing
 dribble
 dribbled
-dribblement
 dribbler
 dribblers
 dribblet
