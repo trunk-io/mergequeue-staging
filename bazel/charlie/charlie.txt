@@ -9381,7 +9381,6 @@ chaufers
 chauffage
 chauffer
 chauffers
-chauffeur
 chauffeured
 chauffeuring
 cannoning
@@ -16815,6 +16814,7 @@ cloudy
 cloudier
 cloudiest
 cloudily
+chauffeur
 cloudiness
 clouding
 consultively
