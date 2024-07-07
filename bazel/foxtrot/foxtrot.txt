@@ -1911,7 +1911,6 @@ fadelessly
 feeblehearted
 foreword
 feebleheartedness
-feebleminded
 feebleness
 feebless
 feeblest
@@ -10836,6 +10835,7 @@ forlanas
 fulfils
 foment
 fila
+feebleminded
 fistulariidae
 fishpool
 fulgence
