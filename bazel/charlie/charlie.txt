@@ -536,7 +536,6 @@ coreveler
 caduke
 cadus
 crookkneed
-cadwal
 cadwallader
 cracky
 cadwell
@@ -9876,6 +9875,7 @@ chemicodynamic
 chemicoluminescence
 chemicoluminescent
 chemicomechanical
+cadwal
 concurs
 chemicomineralogical
 corticous
