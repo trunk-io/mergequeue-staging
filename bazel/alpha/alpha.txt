@@ -11411,7 +11411,6 @@ ample
 amplect
 amplectant
 ampleness
-ampler
 antiannexation
 amplex
 amplexation
@@ -19529,6 +19528,7 @@ alliteration
 argilliferous
 ancistrodon
 argillite
+ampler
 arbtrn
 argilloarenaceous
 argillocalcareous
