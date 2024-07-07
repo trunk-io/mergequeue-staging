@@ -16878,7 +16878,6 @@ aphelian
 aphelilions
 abstricts
 australene
-aphelinus
 aphelion
 apheliotropically
 apheliotropism
@@ -23062,6 +23061,7 @@ attenuation
 attenuations
 attenuative
 attenuator
+aphelinus
 adfix
 attenuators
 atter
