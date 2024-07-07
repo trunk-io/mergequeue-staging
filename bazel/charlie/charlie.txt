@@ -9548,6 +9548,7 @@ coronagraph
 check
 checkable
 checkage
+curvet
 checkback
 checkbit
 checkbite
@@ -31589,7 +31590,6 @@ cerebrospinant
 curves
 curvesome
 curvesomeness
-curvet
 curvets
 curvette
 curvetted

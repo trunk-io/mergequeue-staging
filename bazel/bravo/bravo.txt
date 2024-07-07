@@ -522,7 +522,6 @@ backspacer
 backspaces
 backspacing
 becivet
-backspang
 backspeir
 backspier
 backpacker
@@ -3788,6 +3787,7 @@ batton
 billbroking
 bottom
 blains
+backspang
 battu
 battue
 batlike
