@@ -12915,6 +12915,7 @@ dissect
 dysoxidizable
 deconcatenate
 disoxygenate
+diamesogamous
 discourt
 disoxygenation
 disozonize
@@ -15571,7 +15572,6 @@ doohickey
 doohickeys
 doohickus
 downsteepy
-diamesogamous
 dooja
 dookit
 doolee
