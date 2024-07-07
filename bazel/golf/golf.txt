@@ -6418,7 +6418,6 @@ goalpost
 goals
 goaltenders
 goan
-goanese
 goanna
 gl
 gymnarchus
@@ -8247,6 +8246,7 @@ gulpin
 graphostatic
 guggles
 greaser
+goanese
 guti
 graphostatics
 glucina

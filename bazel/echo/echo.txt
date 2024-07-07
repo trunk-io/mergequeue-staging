@@ -6302,7 +6302,6 @@ episynthetic
 enridged
 enright
 enringed
-enringing
 enripen
 embalms
 enrobed
@@ -11286,6 +11285,7 @@ euthenic
 euthenist
 eutherian
 excorticated
+enringing
 euthycomi
 euthycomic
 emulsin
