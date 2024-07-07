@@ -12116,7 +12116,6 @@ boldface
 bostrychoid
 boldfaced
 boldfacedly
-boldfacing
 batodendron
 bedeviled
 boldheartedness
@@ -16502,6 +16501,7 @@ butcherly
 buccanned
 buccanning
 buccaro
+boldfacing
 buccellarius
 bucchero
 buccheros
