@@ -8542,7 +8542,6 @@ alkalinities
 alkalinization
 alkalinize
 alkalinized
-auchenium
 alkalis
 asunder
 alkalisable
@@ -19897,6 +19896,7 @@ arleng
 arles
 arling
 adiactinic
+auchenium
 arm
 armadas
 agnathous
