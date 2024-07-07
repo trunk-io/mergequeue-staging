@@ -11398,7 +11398,6 @@ distressed
 discipline
 discipliner
 discipliners
-dummied
 disgregation
 disciplines
 discipling
@@ -12486,6 +12485,7 @@ disinfections
 dipropellant
 disinfective
 disinfector
+dummied
 dimagnesic
 disinfestant
 disinfestation

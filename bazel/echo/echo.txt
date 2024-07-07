@@ -4902,7 +4902,6 @@ encrinite
 encrinitic
 encrinitical
 encrinoid
-encrypting
 encryption
 encrypts
 encrisp
@@ -10214,6 +10213,7 @@ eternalize
 eternalized
 evolutionarily
 eternally
+encrypting
 eternals
 eterne
 executional
