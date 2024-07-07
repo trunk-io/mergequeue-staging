@@ -6321,7 +6321,6 @@ benzamide
 benzamido
 benzamine
 benzaminic
-benzamino
 benzanalgen
 beaconage
 benzanthracene
@@ -14688,6 +14687,7 @@ bravers
 braves
 balak
 bravi
+benzamino
 beaconless
 braving
 bravissimo
