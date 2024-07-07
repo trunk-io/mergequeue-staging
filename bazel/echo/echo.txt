@@ -2126,6 +2126,7 @@ elasmobranch
 elasmobranchii
 elasmothere
 epigrammatist
+exstipulate
 elastance
 elastase
 elastases
@@ -13512,7 +13513,6 @@ encroachment
 exstill
 eurylaimi
 exstimulate
-exstipulate
 endseal
 echinozoa
 exstruct
