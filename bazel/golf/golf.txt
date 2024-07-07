@@ -4026,7 +4026,6 @@ galline
 giga
 gigabyte
 gigabytes
-glacon
 gigacycle
 gigahertz
 gigahertzes
@@ -6827,6 +6826,7 @@ gondoliere
 gone
 goney
 goneness
+glacon
 gonenesses
 gimmals
 goneoclinic
