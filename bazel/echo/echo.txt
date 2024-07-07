@@ -890,6 +890,7 @@ ectomesoblast
 encapsulates
 ectomorph
 ectonephridium
+endenization
 ectoparasite
 ectoparasitic
 ectoparasitica
@@ -5040,7 +5041,6 @@ endemiology
 endemiological
 endemism
 endemisms
-endenization
 endenize
 endostylar
 electrocauteries
