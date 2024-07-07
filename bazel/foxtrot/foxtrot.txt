@@ -2166,7 +2166,6 @@ feltings
 feltmaker
 folletage
 feltman
-foulard
 frontingly
 feltness
 fever
@@ -3985,6 +3984,7 @@ frijole
 fictionalization
 finking
 fossae
+foulard
 fifish
 finland
 finlandization
