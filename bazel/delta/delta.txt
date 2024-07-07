@@ -4935,7 +4935,6 @@ demoting
 demotions
 demotist
 demount
-demountability
 dilemi
 disadventurous
 demountable
@@ -9862,6 +9861,7 @@ diluvion
 deuteroconid
 dirgy
 dhoul
+demountability
 diluvium
 diluviums
 dim
