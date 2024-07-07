@@ -1316,7 +1316,6 @@ evoke
 effectively
 energid
 effectivity
-effector
 effectors
 effectress
 effects
@@ -5008,6 +5007,7 @@ endbrains
 enddamage
 enddamaging
 endear
+effector
 endearance
 endearedly
 endearing
