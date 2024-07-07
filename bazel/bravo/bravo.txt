@@ -1987,7 +1987,6 @@ bandlessly
 bandlessness
 bandlet
 bandlimit
-bandlimited
 bandlimiting
 bandman
 bandmaster
@@ -15243,6 +15242,7 @@ bridlers
 bridles
 bridlewise
 bridling
+bandlimited
 bridoon
 beworm
 brie
