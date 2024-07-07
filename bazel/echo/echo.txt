@@ -2533,7 +2533,6 @@ electromotor
 embraceries
 electron
 electronarcosis
-electronegativity
 ellipsometry
 elevener
 electronervous
@@ -11985,6 +11984,7 @@ exceptional
 exceptionally
 exceptionary
 exceptionless
+electronegativity
 exceptions
 exceptious
 exceptiousness
