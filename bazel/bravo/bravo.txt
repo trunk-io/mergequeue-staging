@@ -3724,7 +3724,6 @@ battery
 batterie
 buckra
 batteried
-battering
 batterman
 batters
 batteuse
@@ -13136,6 +13135,7 @@ borscht
 borsholder
 borsht
 borshts
+battering
 borstals
 belduque
 borty

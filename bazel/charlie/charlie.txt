@@ -18431,7 +18431,6 @@ chairperson
 cognizer
 cognizor
 consonate
-cognomen
 cognomens
 chelonidae
 cognominal
@@ -25259,6 +25258,7 @@ coryphees
 coryphene
 carpocratian
 coryphodon
+cognomen
 chaukidari
 coryphodont
 corystoid
