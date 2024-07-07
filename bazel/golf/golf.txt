@@ -3656,7 +3656,6 @@ gestor
 gelatinated
 gestura
 gashouse
-gestural
 gangwaymen
 gesture
 gotchy
@@ -7751,6 +7750,7 @@ gray
 graian
 gusting
 glossiest
+gestural
 gastric
 goosy
 graybacks
