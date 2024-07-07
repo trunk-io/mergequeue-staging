@@ -365,7 +365,6 @@ daikon
 dail
 diaphony
 dailamite
-depredicate
 dayless
 daily
 distr
@@ -7478,6 +7477,7 @@ deuteronomy
 deuteronomic
 deuteronomical
 deuterons
+depredicate
 deuteropathic
 deuterostoma
 deuterotoky
