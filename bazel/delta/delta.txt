@@ -5165,7 +5165,6 @@ denitrator
 denitrify
 denitrified
 denitrifying
-denitrize
 dipperful
 denizate
 denize
@@ -15875,6 +15874,7 @@ dortour
 dorts
 doruck
 dos
+denitrize
 dosa
 dosadh
 dunnaging
