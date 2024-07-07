@@ -210,7 +210,6 @@ disannulling
 daemonistic
 daemonology
 daemons
-daemonurgy
 daeva
 daff
 daffadilly
@@ -3551,6 +3550,7 @@ degage
 degames
 degami
 dogman
+daemonurgy
 desipramine
 degamis
 deganglionate
