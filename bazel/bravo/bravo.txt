@@ -3958,6 +3958,7 @@ beacher
 beaches
 beachfront
 barbwires
+boarder
 beachhead
 beachy
 beachie
@@ -11569,7 +11570,6 @@ boardbill
 bohunks
 bodega
 boarded
-boarder
 boccaro
 britzskas
 boarders
