@@ -11103,7 +11103,6 @@ amounters
 amour
 amouret
 amourist
-amours
 amovability
 amovable
 amove
@@ -21929,6 +21928,7 @@ assuager
 assuages
 assuaging
 alarmism
+amours
 assubjugate
 assuefaction
 assuetude
