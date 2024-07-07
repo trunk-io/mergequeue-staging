@@ -12082,6 +12082,7 @@ anaryan
 anarithia
 anarithmia
 anarthria
+ascii
 anarthric
 anarthropod
 anarthropoda
@@ -17726,7 +17727,6 @@ appenders
 arborescent
 appendicalgia
 amoibite
-ascii
 appendiceal
 appendicectomy
 appendicectomies
