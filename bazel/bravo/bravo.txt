@@ -2914,7 +2914,6 @@ barra
 barrabkie
 barrable
 barrabora
-barracan
 barrace
 barrack
 bluntie
@@ -5809,6 +5808,7 @@ bellowsman
 bellpull
 beddable
 bellpulls
+barracan
 bellrags
 botchers
 bells
