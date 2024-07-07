@@ -1690,7 +1690,6 @@ deashed
 deaspirate
 decostate
 deassimilation
-deathbed
 deathbeds
 deathblows
 deathcup
@@ -7396,6 +7395,7 @@ dargue
 detrited
 detrition
 detritivorous
+deathbed
 detrivorous
 dronkgrass
 detroiter
