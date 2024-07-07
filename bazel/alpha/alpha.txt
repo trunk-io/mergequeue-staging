@@ -4468,6 +4468,7 @@ adrenocortical
 adrenocorticosteroid
 adrenocorticotrophic
 ammonolysis
+aneurine
 adrenocorticotrophin
 adrenocorticotropic
 adrenolysis
@@ -12753,7 +12754,6 @@ aneuploid
 aneuria
 aneuric
 aneurin
-aneurine
 aneurysm
 aneurismal
 aneurysmal

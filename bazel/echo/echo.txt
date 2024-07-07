@@ -2740,7 +2740,6 @@ elemental
 epilogues
 elementalism
 eridanid
-elementality
 elementally
 elementaloid
 escorting
@@ -4290,6 +4289,7 @@ emptings
 erikite
 emptins
 embeds
+elementality
 emptional
 emptive
 emptor
