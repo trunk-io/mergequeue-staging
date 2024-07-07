@@ -4800,6 +4800,7 @@ excoriates
 extraretinal
 enclosed
 eryops
+equisided
 encloser
 enclosers
 encloses
@@ -8786,7 +8787,6 @@ episode
 equisetales
 equisetic
 echinital
-equisided
 equisignal
 equisized
 exceeder
