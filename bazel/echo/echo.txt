@@ -2472,7 +2472,6 @@ ethambutol
 electrolyse
 everydeal
 electrolysed
-electrolyser
 electrolyses
 electrolysing
 electrolyte
@@ -4819,6 +4818,7 @@ encoach
 encode
 eclating
 encoded
+electrolyser
 encodings
 encoffin
 exuviation
