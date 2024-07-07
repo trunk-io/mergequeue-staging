@@ -10227,7 +10227,6 @@ blacksmith
 blacksmiths
 blacksnake
 blackstick
-blacktail
 boogaloo
 blackthorn
 blackthorns
@@ -17539,6 +17538,7 @@ burdenable
 bulking
 burdened
 brawlers
+blacktail
 burdener
 boothose
 burdeners
