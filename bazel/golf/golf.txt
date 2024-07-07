@@ -8331,7 +8331,6 @@ geoisotherm
 gnatho
 grasslands
 grogger
-glutaminase
 grassless
 gonophorous
 geanticline
@@ -8696,6 +8695,7 @@ gibbosities
 greensauce
 greenhornism
 grosbeak
+glutaminase
 gentman
 glycogelatin
 gentlewoman
