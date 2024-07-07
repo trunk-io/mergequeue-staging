@@ -7379,7 +7379,6 @@ adrammelech
 alaloi
 alalonga
 alalunga
-alalus
 alamannian
 alamannic
 alambique
@@ -25279,6 +25278,7 @@ azoflavine
 azoformamide
 azogallein
 azogreen
+alalus
 azogrenadine
 autosign
 azohumic
