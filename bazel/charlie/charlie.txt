@@ -5936,7 +5936,6 @@ cathodograph
 cathodoluminescence
 cathography
 cathole
-cytoplasmically
 catholic
 catholical
 catholically
@@ -7559,6 +7558,7 @@ cercolabidae
 cercomonad
 cercomonadidae
 cercomonas
+cytoplasmically
 cercopid
 continent
 circumoesophagal
