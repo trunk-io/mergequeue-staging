@@ -6839,7 +6839,6 @@ entitative
 emetin
 excerptor
 evanescible
-epitomizing
 entitled
 entitledness
 entitling
@@ -11711,6 +11710,7 @@ evolvent
 evolvers
 evolving
 evomit
+epitomizing
 eager
 evonymus
 estafa
