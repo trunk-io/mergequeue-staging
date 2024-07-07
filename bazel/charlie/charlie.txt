@@ -1793,7 +1793,6 @@ cuplike
 chanchito
 camboose
 cambouis
-cambrel
 cambresine
 cambrian
 cambric
@@ -9982,6 +9981,7 @@ chemosorb
 chemosorption
 chemosorptive
 chemosphere
+cambrel
 chemospheric
 chemostat
 chemosterilant
