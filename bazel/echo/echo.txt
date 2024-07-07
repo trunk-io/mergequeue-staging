@@ -4942,7 +4942,6 @@ electrometeor
 encumbrancer
 encumbrous
 eblis
-encup
 encushion
 endamageable
 esterifiable
@@ -6403,6 +6402,7 @@ ensilaged
 expense
 evenworthy
 ensilages
+encup
 epicranius
 ensilaging
 encyc
