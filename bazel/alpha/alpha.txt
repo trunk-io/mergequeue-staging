@@ -8345,7 +8345,6 @@ alienisms
 ankee
 alienist
 alienists
-alienize
 alienly
 alienness
 alienor
@@ -18999,6 +18998,7 @@ archimedes
 archimime
 antitraditional
 archimorphic
+alienize
 archimorula
 archimperial
 archimpressionist

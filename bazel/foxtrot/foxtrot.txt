@@ -4355,7 +4355,6 @@ fishwoman
 fishwood
 functionalistic
 fishworker
-fishworks
 fishworm
 fisk
 firmware
@@ -6449,6 +6448,7 @@ fluoroscoping
 flamens
 firmer
 fluoroscopists
+fishworks
 fibrils
 fluorotic
 fluorouracil
