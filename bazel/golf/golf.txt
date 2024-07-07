@@ -1759,7 +1759,6 @@ gastrodidymus
 gastrodynia
 gangliomata
 gastroduodenal
-genarchship
 gastroduodenitis
 gaolbird
 gastroduodenostomy
@@ -10697,6 +10696,7 @@ gustative
 gigunu
 groundnut
 gustatory
+genarchship
 gustavus
 gustful
 gripper
