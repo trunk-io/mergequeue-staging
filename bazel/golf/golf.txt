@@ -2396,7 +2396,6 @@ greaves
 gablewindowed
 gelations
 guzzled
-geld
 geldable
 geldant
 gambit
@@ -4723,6 +4722,7 @@ gadids
 girdles
 guarantying
 gymnosperm
+geld
 girdlingly
 girds
 gire
