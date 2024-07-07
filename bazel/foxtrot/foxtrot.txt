@@ -1503,6 +1503,7 @@ filch
 fauconnier
 faujasite
 faultage
+favorless
 faulted
 filix
 faulter
@@ -5026,7 +5027,6 @@ fosslify
 flatcaps
 flatcar
 fulfill
-favorless
 flatcars
 fatalism
 flatdom
