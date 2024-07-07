@@ -4752,6 +4752,7 @@ fluidise
 footwear
 flayer
 flayers
+forensal
 fsiest
 fakirs
 flailed
@@ -10170,7 +10171,6 @@ frith
 frithbot
 frithy
 fallibilist
-forensal
 frithstool
 fairs
 fritillaria
