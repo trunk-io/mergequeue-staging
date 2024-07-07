@@ -1472,7 +1472,6 @@ garnierite
 garnishable
 garnished
 garnishee
-gelatinization
 garnishees
 galleypot
 garnisheing
@@ -2988,6 +2987,7 @@ growan
 genuinely
 genuineness
 geo
+gelatinization
 gomeril
 geoaesthesia
 geobiologic
