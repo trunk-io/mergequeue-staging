@@ -5867,7 +5867,6 @@ catharism
 catharist
 catharistic
 catharization
-coreless
 catharize
 catharizing
 catharpin
@@ -18244,6 +18243,7 @@ coexert
 coexerted
 coexerting
 coexertion
+coreless
 coexerts
 coexist
 cobleskill
