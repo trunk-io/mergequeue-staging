@@ -1542,7 +1542,6 @@ ballahoo
 bivalence
 ballahou
 ballam
-bedoctor
 ballas
 ballastage
 ballasted
@@ -8658,6 +8657,7 @@ benzo
 billjim
 billman
 bosun
+bedoctor
 billmen
 basidiomycetes
 billon
