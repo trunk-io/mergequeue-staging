@@ -6827,7 +6827,6 @@ gondolier
 gringo
 gurrah
 gondoliere
-gondoliers
 gone
 goney
 goneness
@@ -7959,6 +7958,7 @@ grandfatherly
 gruft
 gritten
 grandfathers
+gondoliers
 grandfer
 grandfilial
 grandgore
