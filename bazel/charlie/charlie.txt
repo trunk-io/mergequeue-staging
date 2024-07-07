@@ -4943,7 +4943,6 @@ carval
 carved
 carvels
 carver
-carvers
 carvership
 caresser
 carves
@@ -5322,6 +5321,7 @@ corkers
 claymores
 castlery
 castles
+carvers
 castlet
 castleward
 castlewards
