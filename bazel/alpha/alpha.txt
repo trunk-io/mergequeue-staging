@@ -14413,7 +14413,6 @@ anteroventral
 antes
 antescript
 antesignani
-anachromasis
 antesignanus
 antespring
 antestature
@@ -23810,6 +23809,7 @@ authenticalness
 authenticate
 authenticates
 authentication
+anachromasis
 antimonate
 authenticator
 arrtez
