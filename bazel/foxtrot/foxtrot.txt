@@ -5700,7 +5700,6 @@ fleuronee
 flytrap
 flytraps
 fibrocyst
-flitted
 flitterbat
 flours
 futhermore
@@ -10581,6 +10580,7 @@ freeform
 fructification
 fructificative
 fructifier
+flitted
 fructifies
 fructokinase
 franchisement
