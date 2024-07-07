@@ -673,7 +673,6 @@ damosels
 decapitalize
 damp
 dampcourse
-damped
 dampen
 diobely
 dampened
@@ -8191,6 +8190,7 @@ diadelphic
 diadelphous
 diadelphia
 diadem
+damped
 dikaryophasic
 diadema
 diademed
