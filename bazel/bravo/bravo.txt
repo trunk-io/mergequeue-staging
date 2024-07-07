@@ -2831,6 +2831,7 @@ baronage
 bespangled
 baronages
 baronduki
+brotherwort
 baroness
 baronesses
 baronet
@@ -8554,7 +8555,6 @@ bilk
 bilked
 bilkers
 belle
-brotherwort
 bishoprics
 britten
 bisinuation
