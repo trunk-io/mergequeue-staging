@@ -2915,7 +2915,6 @@ fastback
 fiacres
 fatbird
 fiancailles
-fiance
 fianced
 feminineness
 facticity
@@ -4950,6 +4949,7 @@ flashback
 fellatee
 fantasque
 flashbulb
+fiance
 flashcube
 flashcubes
 fiascoes
