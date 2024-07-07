@@ -10477,6 +10477,7 @@ chiffonniers
 chifforobe
 chifforobes
 cornetcy
+compactedly
 chigetai
 chigetais
 chigga
@@ -20455,7 +20456,6 @@ compact
 compactability
 compactable
 compacted
-compactedly
 compactedness
 compacter
 compactest
