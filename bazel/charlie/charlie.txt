@@ -7051,7 +7051,6 @@ centerpunch
 centervelic
 concernancy
 centerward
-centerwise
 centesimal
 centesimally
 centesimate
@@ -24672,6 +24671,7 @@ coplots
 coplotted
 coplotter
 coplotting
+centerwise
 coploughing
 coplowing
 cephalitis
