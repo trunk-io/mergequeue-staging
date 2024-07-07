@@ -2557,7 +2557,6 @@ decoat
 decocainize
 decocted
 decoctible
-decoction
 decoctive
 decocts
 decoctum
@@ -4728,6 +4727,7 @@ demivotary
 dihydronicotine
 demiwivern
 demiwolf
+decoction
 demnition
 demob
 dismaying
