@@ -3459,7 +3459,6 @@ daisy
 defoliate
 diallist
 defoliates
-deckhand
 defoliating
 defoliator
 deforce
@@ -4388,6 +4387,7 @@ demarcature
 demarch
 demarche
 demarches
+deckhand
 dowse
 demarchy
 demaree
