@@ -4274,6 +4274,7 @@ beautifier
 biriba
 beautifiers
 beautifies
+bellicist
 backbrand
 beautifying
 bework
@@ -5766,7 +5767,6 @@ bastinadoing
 bellic
 bldg
 bellical
-bellicist
 bellicosely
 benchmar
 bellicosity
