@@ -7157,6 +7157,7 @@ footler
 footpad
 film
 footpaths
+finises
 footpick
 footpound
 footpounds
@@ -10650,7 +10651,6 @@ fruitwood
 faence
 frumaryl
 fictitious
-finises
 frumentaceous
 fabricators
 frumentation
