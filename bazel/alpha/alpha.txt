@@ -866,7 +866,6 @@ abridgement
 abridgements
 abridger
 abstractionism
-actinopteran
 abridges
 abridging
 abridgment
@@ -23962,6 +23961,7 @@ autochthonousness
 allomorphic
 adumbral
 autochthons
+actinopteran
 autochton
 autocycle
 autocide
