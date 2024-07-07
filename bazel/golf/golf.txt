@@ -7114,7 +7114,6 @@ goops
 gooral
 geopolitic
 gooranut
-goose
 goosebeak
 gooseberry
 gooseberries
@@ -9812,6 +9811,7 @@ guanabana
 guanabano
 gravat
 guapilla
+goose
 guanacos
 girdle
 gumbotil
