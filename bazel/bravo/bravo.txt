@@ -2675,7 +2675,6 @@ biophysically
 barytocalcite
 blauboks
 baritonal
-besses
 barytones
 byres
 barytons
@@ -9653,6 +9652,7 @@ bisectors
 bisectrices
 bisects
 boredoms
+besses
 backcloth
 bisegment
 blowcase
