@@ -9034,6 +9034,7 @@ alloplasmic
 alloplast
 alloplasty
 alloplastic
+annotater
 afflation
 allopolyploid
 allopolyploidy
@@ -13719,7 +13720,6 @@ annonaceous
 annot
 annotate
 annotated
-annotater
 annotates
 acker
 annotating

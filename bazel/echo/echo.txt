@@ -6204,7 +6204,6 @@ enoptromancy
 empetrous
 eten
 enormious
-enormity
 egghot
 enormousness
 enorn
@@ -7732,6 +7731,7 @@ entomological
 epidemy
 empale
 epidemical
+enormity
 epidemically
 epidemicalness
 epitritic
