@@ -4340,6 +4340,7 @@ fishlines
 feverless
 freebootery
 fishling
+fromage
 fishmeal
 fabliaux
 fishnets
@@ -5466,7 +5467,6 @@ flybane
 flibbertigibbet
 flibbertigibbety
 flybelt
-fromage
 furcation
 flybelts
 flyby
