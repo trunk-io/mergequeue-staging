@@ -6271,7 +6271,6 @@ diploneural
 dermatophytic
 dermatophobia
 dermatophone
-dermatophony
 discounted
 dermatoplast
 dermatoplastic
@@ -10461,6 +10460,7 @@ diphenylthiourea
 diphenoxylate
 diphycercal
 diphyesis
+dermatophony
 dateableness
 diphygenic
 diphyletic
