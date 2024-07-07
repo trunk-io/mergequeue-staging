@@ -7818,6 +7818,7 @@ axmaster
 alcumy
 alday
 aldamin
+autotruck
 aldamine
 aldane
 aldazin
@@ -9999,7 +10000,6 @@ amaurosis
 amaurotic
 amaut
 amaxomania
-autotruck
 amaze
 amazed
 amazedly
