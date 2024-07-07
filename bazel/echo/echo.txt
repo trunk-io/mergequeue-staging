@@ -1734,7 +1734,6 @@ etherol
 extratensive
 eidolon
 ethnomusicologically
-equipedal
 eidoptometry
 eidouranion
 eye
@@ -5320,6 +5319,7 @@ endorachis
 endoradiosonde
 endoral
 evened
+equipedal
 eyeshades
 endorhinitis
 endorphin
