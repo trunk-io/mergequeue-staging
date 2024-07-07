@@ -2327,7 +2327,6 @@ feoffee
 fruiterers
 feoffees
 faits
-feoffeeship
 feoffer
 flies
 feoffing
@@ -10547,6 +10546,7 @@ frowze
 falderol
 frowziest
 fabled
+feoffeeship
 foreloop
 frowzily
 fascioloid
