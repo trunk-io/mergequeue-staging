@@ -3289,7 +3289,6 @@ fretfulness
 firefanging
 fieldmen
 fieldmice
-fieldmouse
 fieldsmen
 fieldstone
 fashery
@@ -3749,6 +3748,7 @@ filtre
 filum
 fimbria
 fimbrial
+fieldmouse
 feeblemindedly
 fimbriating
 fimbriatum
