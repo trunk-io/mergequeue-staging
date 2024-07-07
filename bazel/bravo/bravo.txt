@@ -1419,7 +1419,6 @@ balductum
 baldwin
 baleare
 balearian
-balearic
 bullrings
 baled
 baleens
@@ -1934,6 +1933,7 @@ banderilleros
 banderlog
 bywalking
 blamability
+balearic
 boubou
 banderol
 bolivias
