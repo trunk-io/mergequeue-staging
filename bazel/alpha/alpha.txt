@@ -11715,6 +11715,7 @@ anaerobe
 anaerobes
 anaerobia
 anaerobian
+antired
 anaerobic
 anaerobically
 anaerobies
@@ -16168,7 +16169,6 @@ antirealist
 antirealistic
 arbitrageur
 antirealistically
-antired
 antireducer
 antireducing
 antireduction
