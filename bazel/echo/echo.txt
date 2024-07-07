@@ -3844,7 +3844,6 @@ enlists
 estraying
 emeras
 emerge
-emerged
 escalatory
 epitheliomatous
 emergence
@@ -8093,6 +8092,7 @@ electroaffinity
 epiphytal
 epiphyte
 equidivision
+emerged
 embuia
 emerize
 epiphytes
