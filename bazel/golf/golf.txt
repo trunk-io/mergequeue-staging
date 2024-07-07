@@ -1725,7 +1725,6 @@ gastroadynamic
 gujarati
 garbed
 gastroalbuminorrhea
-gastroanastomosis
 gastroarthritis
 grayishness
 goosecap
@@ -4192,6 +4191,7 @@ gilling
 gillion
 gaged
 glozingly
+gastroanastomosis
 gillnets
 gillotage
 glutination
