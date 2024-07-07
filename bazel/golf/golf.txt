@@ -2573,6 +2573,7 @@ granddad
 genarchaship
 gendarmery
 gendarmes
+grizzles
 genderless
 glides
 genteelize
@@ -2606,7 +2607,6 @@ generalate
 generalcy
 gynandrarchic
 generalcies
-grizzles
 garruline
 generale
 greenhearted
