@@ -9262,7 +9262,6 @@ chasseing
 chasselas
 chassepot
 cinderella
-chassepots
 chasses
 chasseurs
 chassignite
@@ -29400,6 +29399,7 @@ cryptostegia
 calix
 cryptostomate
 cryptostome
+chassepots
 cryptotaenia
 cryptous
 cryptovalence
