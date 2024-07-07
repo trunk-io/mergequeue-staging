@@ -1014,7 +1014,6 @@ fluoroid
 floorway
 funicule
 farfetched
-farforthly
 farfugium
 fargite
 fargood
@@ -11608,6 +11607,7 @@ fussbudgety
 fussbudgets
 farcers
 fussed
+farforthly
 fusser
 fussy
 fussification
