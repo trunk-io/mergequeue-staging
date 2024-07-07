@@ -4631,7 +4631,6 @@ bunchiness
 bridgebuilder
 bedesmen
 bedeswoman
-bedeswomen
 bedeviling
 bedevilled
 bbls
@@ -7535,6 +7534,7 @@ bewail
 bewailed
 broil
 bewailer
+bedeswomen
 bewailers
 brimstone
 banlieu
