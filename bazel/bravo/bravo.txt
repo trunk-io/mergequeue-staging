@@ -4789,7 +4789,6 @@ bedrid
 bedridden
 bedrift
 bedrip
-bedrivel
 buddy
 bedrivels
 bedrizzle
@@ -6429,6 +6428,7 @@ benzoyls
 benzoin
 benzoinated
 benzoiodohydrin
+bedrivel
 benzol
 benzoles
 benzoline
