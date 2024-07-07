@@ -8117,7 +8117,6 @@ chaetognathous
 chaetophobia
 chaetophoraceae
 chaetophoraceous
-chaetophorous
 chaetopod
 chaetopodan
 contemperate
@@ -17968,6 +17967,7 @@ clammer
 coelacanthid
 coelacanthidae
 coelacanthine
+chaetophorous
 coelacanthous
 coelanaglyphic
 coelar
