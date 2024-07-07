@@ -5296,7 +5296,6 @@ begrudger
 begrudges
 bitterheartedness
 begrudgingly
-begruntle
 begrutten
 begster
 beguard
@@ -8869,6 +8868,7 @@ binodous
 binomen
 binomenclature
 bakelite
+begruntle
 binomialism
 binomially
 binomials
