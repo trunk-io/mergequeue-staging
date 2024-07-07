@@ -3555,7 +3555,6 @@ galapee
 grogshops
 gerundival
 gerunds
-gervao
 gervase
 gunslinger
 gussie
@@ -9421,6 +9420,7 @@ garrison
 groundliness
 glorious
 groundlings
+gervao
 gelled
 groundneedle
 groundout

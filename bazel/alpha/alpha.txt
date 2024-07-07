@@ -13548,7 +13548,6 @@ ankylosaur
 ankylosaurus
 ankylose
 ankylosing
-ankylosis
 ankylostoma
 ankylotia
 ankylotic
@@ -19548,6 +19547,7 @@ arginase
 argine
 ashmen
 antisophist
+ankylosis
 alborada
 assinuate
 arginine
