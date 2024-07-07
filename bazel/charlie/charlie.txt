@@ -3374,7 +3374,6 @@ captaining
 chytra
 captainly
 captainries
-captainship
 captainships
 captan
 captance
@@ -31525,6 +31524,7 @@ curtalaxes
 curtals
 curtana
 curtation
+captainship
 curtaxe
 curted
 curtein
