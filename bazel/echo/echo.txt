@@ -2686,7 +2686,6 @@ electrotitration
 etherean
 electrotonicity
 electrotropism
-egoize
 excheat
 equiponderancy
 electrovalent
@@ -4264,6 +4263,7 @@ empresario
 empress
 empresse
 empresses
+egoize
 elevational
 empressment
 emprint
