@@ -4700,7 +4700,6 @@ bedirties
 bedirtying
 becrusting
 bedivere
-bedizen
 beekmantown
 bedizenment
 bedizens
@@ -11579,6 +11578,7 @@ britzskas
 boarders
 boardy
 boardings
+bedizen
 boardly
 blitzing
 brawnily
