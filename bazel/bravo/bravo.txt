@@ -3796,7 +3796,6 @@ bauble
 baublery
 baubles
 bauch
-bauchle
 bauckiebird
 baud
 baudekin
@@ -17007,6 +17006,7 @@ bulked
 bulkhead
 bulkheaded
 bulkheads
+bauchle
 bulky
 bulkier
 bulkiest
