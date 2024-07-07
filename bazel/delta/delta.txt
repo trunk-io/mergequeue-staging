@@ -6891,6 +6891,7 @@ despecialization
 despecialize
 despecificate
 despecification
+disposed
 despect
 despeed
 despend
@@ -13195,7 +13196,6 @@ disposableness
 dorje
 disposal
 dispose
-disposed
 disposedness
 disposement
 disposers
