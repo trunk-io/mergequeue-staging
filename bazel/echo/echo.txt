@@ -819,6 +819,7 @@ ensaffron
 earcap
 ecstaticize
 ecstrophy
+entosternum
 erythrin
 ectal
 ectally
@@ -6958,7 +6959,6 @@ entosphere
 entosterna
 entosternal
 ecdysone
-entosternum
 entosthoblast
 entothorax
 entotic
