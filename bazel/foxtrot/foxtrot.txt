@@ -1540,7 +1540,6 @@ formulariser
 faunae
 frakturs
 faunal
-faunally
 feltmaking
 faunated
 faunch
@@ -5962,6 +5961,7 @@ fenestrated
 footworn
 faradisms
 fundraise
+faunally
 frizette
 floretty
 flory
