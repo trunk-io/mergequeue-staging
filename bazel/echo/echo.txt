@@ -876,7 +876,6 @@ ectodermal
 ectodermosis
 ectoentad
 ectoenzym
-ectoenzyme
 ensky
 ectogenesis
 ectogenetic
@@ -2515,6 +2514,7 @@ enage
 electrometrical
 electromyogram
 electromyograph
+ectoenzyme
 electromyography
 electromyographic
 electromyographical
