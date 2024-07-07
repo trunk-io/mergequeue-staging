@@ -2252,7 +2252,6 @@ electic
 electioneer
 electioneered
 electioneerer
-evenest
 electioneering
 electioneers
 elections
@@ -8529,6 +8528,7 @@ exogastric
 ecology
 emblematicalness
 eprise
+evenest
 enfiladed
 epizoicide
 ensorceling
