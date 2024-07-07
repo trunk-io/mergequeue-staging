@@ -9599,7 +9599,6 @@ entrenchments
 escort
 empyema
 escortee
-echinorhinus
 escorts
 excortication
 escot
@@ -10806,6 +10805,7 @@ eudidymite
 eudiometer
 eudiometry
 eudiometric
+echinorhinus
 eudiometrical
 eudiometrically
 eudipleural
