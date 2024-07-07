@@ -13674,7 +13674,6 @@ anni
 annicut
 annidalin
 annihil
-annihilable
 annihilate
 apse
 annihilated
@@ -24839,6 +24838,7 @@ avos
 avosets
 amphicyrtic
 avouch
+annihilable
 avouchable
 avouched
 avouchers
