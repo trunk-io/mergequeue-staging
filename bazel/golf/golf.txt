@@ -5946,7 +5946,6 @@ gauderies
 grizzlies
 gland
 glossoepiglottic
-glossograph
 glossographer
 greatened
 getid
@@ -6778,6 +6777,7 @@ gomer
 gomerec
 gowkit
 gomerel
+glossograph
 gomerils
 gradientia
 gomorrah
