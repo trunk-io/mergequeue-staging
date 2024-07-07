@@ -4088,7 +4088,6 @@ experimentalize
 edgrew
 empathize
 empathizes
-emulated
 empemata
 embrangled
 empennage
@@ -4697,6 +4696,7 @@ egocentricities
 espying
 enchymatous
 enchiridia
+emulated
 enchiridion
 enchiridions
 exterous
