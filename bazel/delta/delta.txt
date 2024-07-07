@@ -3302,7 +3302,6 @@ defied
 defier
 defiers
 defies
-defigure
 demythify
 defying
 driftlessness
@@ -5576,6 +5575,7 @@ depas
 depass
 delphinoid
 donataries
+defigure
 disrepute
 depasturable
 duodecane
