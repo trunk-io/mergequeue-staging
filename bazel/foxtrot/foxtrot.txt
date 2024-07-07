@@ -4888,7 +4888,6 @@ flankwise
 flannelboard
 flannelbush
 flanneled
-flannelet
 flanneling
 flannelleaf
 flannelleaves
@@ -5866,6 +5865,7 @@ forbite
 floodlit
 facioplegia
 footlessness
+flannelet
 floodproof
 fortifiable
 floodways
