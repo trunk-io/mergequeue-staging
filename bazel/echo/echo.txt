@@ -8305,7 +8305,6 @@ epistolizing
 epistolography
 epistolographic
 epistolographist
-epistoma
 epistomata
 epistome
 eagerly
@@ -10449,6 +10448,7 @@ ethmopalatal
 enlacing
 ethmopalatine
 ethmophysal
+epistoma
 epyllion
 ethmopresphenoidal
 ethmose
