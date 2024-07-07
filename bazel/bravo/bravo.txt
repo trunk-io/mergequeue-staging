@@ -7412,7 +7412,6 @@ betoss
 betrays
 betraise
 betrap
-betravel
 betread
 bassoonists
 betrend
@@ -16218,6 +16217,7 @@ brucina
 brucine
 baahling
 brucines
+betravel
 brucins
 brucite
 bruckle
