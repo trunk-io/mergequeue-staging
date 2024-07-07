@@ -1660,7 +1660,6 @@ aegis
 anaxial
 acclivitous
 acclivous
-arecolidin
 accloy
 archengineer
 amortised
@@ -9918,6 +9917,7 @@ amaranthaceous
 amaranthine
 amaranthoid
 amaranths
+arecolidin
 amaranthus
 amarantine
 amarantite
