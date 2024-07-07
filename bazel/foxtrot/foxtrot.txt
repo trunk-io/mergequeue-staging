@@ -1997,7 +1997,6 @@ flimflammer
 firelike
 firearm
 feynesses
-feinted
 feak
 feis
 farrandly
@@ -4556,6 +4555,7 @@ funerate
 fixure
 forra
 foozled
+feinted
 fane
 fixures
 fizelyite
