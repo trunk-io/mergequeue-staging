@@ -1898,7 +1898,6 @@ frazil
 federator
 farmscape
 flee
-fedifragous
 fedity
 frostbite
 feds
@@ -10660,6 +10659,7 @@ frumenty
 filigera
 firework
 frumentum
+fedifragous
 fracticipita
 frescoes
 frumpery
