@@ -1389,7 +1389,6 @@ baldberry
 baldcrown
 backpointers
 balden
-balder
 balderdash
 blighters
 blithebread
@@ -11207,6 +11206,7 @@ blotchily
 blote
 bandidos
 brancard
+balder
 blotless
 blots
 blotters
