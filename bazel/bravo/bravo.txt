@@ -4438,7 +4438,6 @@ beckoner
 bogeying
 beckoners
 beckoning
-beckoningly
 backstair
 bonairness
 beclamor
@@ -12882,6 +12881,7 @@ bootmaking
 befezzed
 bootman
 bootprint
+beckoningly
 bookmate
 boots
 bootstrapped
