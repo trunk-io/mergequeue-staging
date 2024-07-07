@@ -6483,7 +6483,6 @@ benzoxate
 benzoxy
 banda
 benzoxyacetic
-benzoxycamphor
 bibliog
 benzoxyphenanthrene
 benzpinacone
@@ -11602,6 +11601,7 @@ boarspear
 boarstaff
 boarts
 boarwood
+benzoxycamphor
 boas
 boast
 boaster
