@@ -10709,7 +10709,6 @@ dipolar
 dedecoration
 depectible
 discolorment
-dipolarize
 dipole
 dipoles
 dipolsphene
@@ -11204,6 +11203,7 @@ doorframe
 disbarments
 disbarred
 disbarring
+dipolarize
 disbars
 disbase
 disbecome
