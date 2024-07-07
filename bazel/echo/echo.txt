@@ -2308,6 +2308,7 @@ earnable
 electroacoustically
 electroamalgamation
 electroanalytic
+emersion
 electroanalytical
 eructative
 ergosterol
@@ -3863,7 +3864,6 @@ emeritus
 emerizing
 emerods
 emeroids
-emersion
 emarginately
 emerson
 emersonian
