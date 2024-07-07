@@ -7809,7 +7809,6 @@ certioration
 certis
 certitude
 certose
-certosina
 certosino
 cerule
 cerulean
@@ -15891,6 +15890,7 @@ cleansable
 cleanse
 cleansers
 cleanses
+certosina
 cleansing
 cleanskin
 cleanup
