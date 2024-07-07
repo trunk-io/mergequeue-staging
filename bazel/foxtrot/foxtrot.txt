@@ -59,7 +59,6 @@ facebow
 facebread
 farms
 facecloth
-faced
 faceless
 facelessness
 facelift
@@ -609,6 +608,7 @@ falsettist
 falsettos
 foredetermination
 fossicks
+faced
 falsies
 fenster
 falsify
