@@ -238,6 +238,7 @@ capitulations
 cachepots
 cachespell
 cagayans
+commentable
 cachet
 cacheted
 cachetic
@@ -20102,7 +20103,6 @@ commensurating
 commensuration
 commensurations
 comment
-commentable
 commentary
 commentarialism
 commentate
