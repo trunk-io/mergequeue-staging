@@ -6430,6 +6430,7 @@ benzopyrylium
 benzoquinoline
 benzoquinone
 benzoquinoxaline
+byron
 bath
 botryomycosis
 benzosulfimide
@@ -16666,7 +16667,6 @@ buddage
 buddhahood
 buddhaship
 buddhi
-byron
 buddhic
 bisections
 buddhism
