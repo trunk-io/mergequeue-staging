@@ -10628,7 +10628,6 @@ bleaches
 bleachground
 bleachhouse
 bleachyard
-bleaching
 bleachman
 bleachs
 bleachworks
@@ -13621,6 +13620,7 @@ bobs
 brashness
 bourgeoisitic
 breadlessness
+bleaching
 bourgeon
 bourgeoned
 bourgeons
