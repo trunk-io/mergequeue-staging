@@ -5777,7 +5777,6 @@ glochids
 glochis
 glockenspiels
 gongorist
-gemotes
 gesning
 gloeosporiose
 glogg
@@ -7843,6 +7842,7 @@ gramineousness
 graminicolous
 gallophile
 graminiferous
+gemotes
 graminifolious
 grounders
 goodbyes
