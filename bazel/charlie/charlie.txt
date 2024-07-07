@@ -7067,6 +7067,7 @@ centesis
 centesm
 centetes
 centetid
+corporateness
 circumradii
 centgener
 centi
@@ -25625,7 +25626,6 @@ corporalship
 corporas
 corporate
 corporately
-corporateness
 corporation
 corporational
 corporationer
