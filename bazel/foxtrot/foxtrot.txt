@@ -2590,6 +2590,7 @@ fibrinolytic
 foliiform
 fersmite
 ferther
+forgrow
 fertil
 fabrics
 faddisms
@@ -6559,7 +6560,6 @@ festerment
 fluvial
 feldspars
 fluviatile
-forgrow
 fluviation
 fluvicoline
 fluvioglacial

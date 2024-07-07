@@ -7585,6 +7585,7 @@ budbreak
 bewigged
 brokery
 bewigging
+battlements
 bioluminescent
 bewilder
 bewildered
@@ -13074,7 +13075,6 @@ borneol
 beachmen
 biometries
 borneols
-battlements
 buccolabial
 bornyl
 borning
