@@ -7601,7 +7601,6 @@ bewigged
 brokery
 bewigging
 bioluminescent
-bewigs
 bewilder
 bewildered
 bewilderedly
@@ -18192,6 +18191,7 @@ butyryl
 bestrewed
 butyrinase
 butyrins
+bewigs
 butyrochloral
 butyrometer
 butyrometric
