@@ -202,7 +202,6 @@ extrasystole
 earthshaking
 earthshakingly
 experient
-earthshine
 earthshock
 earthslide
 escopeta
@@ -3185,6 +3184,7 @@ eluated
 elucid
 esperantido
 elucidated
+earthshine
 echoed
 elucidates
 elucidating
