@@ -4920,7 +4920,6 @@ flapless
 ferrite
 flapmouthed
 flappable
-flapped
 flightworthy
 flapper
 flapperdom
@@ -6466,6 +6465,7 @@ featherlight
 fluphenazine
 fempty
 flurn
+flapped
 flurr
 flurried
 flurriedly
