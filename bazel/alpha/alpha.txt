@@ -3164,7 +3164,6 @@ actinograph
 actinographic
 apomorphin
 abridgers
-actinoida
 actinoidea
 actinoids
 actinolite
@@ -11666,6 +11665,7 @@ anaclinal
 anaclisis
 anaclitic
 anacoenoses
+actinoida
 anacoenosis
 anacolutha
 anacoluthia
