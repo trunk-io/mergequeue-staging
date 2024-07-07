@@ -5051,7 +5051,6 @@ flammiferous
 flatlong
 formatting
 feigns
-flatman
 friction
 flatmen
 flats
@@ -9686,6 +9685,7 @@ freewheelingness
 freewill
 frails
 freewoman
+flatman
 freewomen
 furzes
 figurines
