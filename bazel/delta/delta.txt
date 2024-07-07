@@ -6397,7 +6397,6 @@ derogated
 derogately
 derogating
 derogations
-derogatively
 derogator
 derogatory
 derogatorily
@@ -11858,6 +11857,7 @@ discus
 discuses
 discussed
 discusser
+derogatively
 discusses
 deflection
 dollishness
