@@ -3367,7 +3367,6 @@ basker
 baskerville
 basket
 breezing
-basketballs
 behusband
 basketful
 basketfuls
@@ -18124,6 +18123,7 @@ bustler
 bustlers
 bustles
 buyback
+basketballs
 bustling
 braunite
 brickcroft
