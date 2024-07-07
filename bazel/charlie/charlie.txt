@@ -4725,6 +4725,7 @@ carriagesmith
 carriageway
 carryall
 carryalls
+concessiveness
 carrick
 carrycot
 contrastimulation
@@ -21340,7 +21341,6 @@ catchpole
 concessit
 concessive
 concessively
-concessiveness
 cabbalism
 concessor
 concessory
