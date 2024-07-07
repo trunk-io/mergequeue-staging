@@ -1534,7 +1534,6 @@ debrominate
 deadhearted
 deadheartedly
 deadheartedness
-deadhouse
 deranging
 deady
 deading
@@ -16835,6 +16834,7 @@ deculturate
 diencephalons
 drawliest
 drawling
+deadhouse
 drawlingly
 drawlingness
 dynamotor
