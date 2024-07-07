@@ -3057,7 +3057,6 @@ ellenyard
 ellerian
 equus
 ellick
-endozoic
 elling
 ellinge
 elliot
@@ -3918,6 +3917,7 @@ exemptile
 emication
 exsculp
 enterozoan
+endozoic
 emiction
 emictory
 electroshock
