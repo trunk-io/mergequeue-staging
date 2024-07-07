@@ -9145,7 +9145,6 @@ abrogating
 allspices
 allthing
 allthorn
-alltud
 allude
 alluded
 animuses
@@ -11519,6 +11518,7 @@ amuyon
 appendical
 amuyong
 anglaise
+alltud
 amula
 amulae
 amulas
