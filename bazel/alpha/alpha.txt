@@ -5746,7 +5746,6 @@ adorner
 afterimpression
 afterings
 afterking
-afterknowledge
 afterlife
 ammonifier
 afterlifetime
@@ -14234,6 +14233,7 @@ antechapel
 antechinomys
 antechoirs
 antechurch
+afterknowledge
 anteclassical
 antecloset
 antecolic
