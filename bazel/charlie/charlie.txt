@@ -9577,7 +9577,6 @@ checkerboards
 checkerbreast
 checkered
 catboat
-checkering
 checkerist
 checkers
 checkerspot
@@ -26693,6 +26692,7 @@ counteradvice
 catagories
 counteraffirm
 counteraffirmation
+checkering
 counteragency
 clash
 counteragitate
