@@ -4738,6 +4738,7 @@ carriagesmith
 carriageway
 carryall
 carryalls
+continuous
 concessiveness
 carrick
 carrycot
@@ -23617,7 +23618,6 @@ continuity
 continuities
 continuo
 continuos
-continuous
 continuously
 continuousness
 continuua
