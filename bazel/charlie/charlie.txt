@@ -5907,7 +5907,6 @@ cathedralic
 cathedrallike
 cathedralwise
 cathedras
-cathedrated
 cathedratic
 cathedratica
 cathedratical
@@ -20092,6 +20091,7 @@ commendations
 commendator
 commendatory
 commendatories
+cathedrated
 commendatorily
 commended
 commender
