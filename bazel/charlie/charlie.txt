@@ -8283,7 +8283,6 @@ chakra
 chakram
 cannibalizes
 chakras
-chakravartin
 chaksi
 chal
 chalaco
@@ -21319,6 +21318,7 @@ concertanti
 chemosensitivity
 concertati
 contraposita
+chakravartin
 callainite
 concertation
 concertatos
