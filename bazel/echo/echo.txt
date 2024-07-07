@@ -6441,7 +6441,6 @@ enslaves
 espave
 enslaving
 enslumber
-ensnare
 ensnarement
 ensnares
 ensnarled
@@ -8625,6 +8624,7 @@ enters
 empoririums
 enchantress
 ectocarpales
+ensnare
 equestrian
 equestrianism
 equestrianship
