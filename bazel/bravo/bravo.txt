@@ -8674,6 +8674,7 @@ basted
 billposter
 billposting
 bills
+bureaucracies
 billsticker
 burliest
 billtong
@@ -17564,7 +17565,6 @@ burds
 brocading
 bure
 bureaucracy
-bureaucracies
 buckwheater
 bivalents
 bureaucratically
