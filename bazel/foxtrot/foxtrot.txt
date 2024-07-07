@@ -5126,7 +5126,6 @@ flavedo
 flavedos
 fiscals
 flaveria
-flavescence
 flavia
 flustroid
 flavian
@@ -6607,6 +6606,7 @@ foambow
 foamed
 foamer
 foamflower
+flavescence
 foamy
 foamier
 foaminess
