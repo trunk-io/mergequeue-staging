@@ -12284,7 +12284,6 @@ boltwork
 bradylogia
 boluses
 bom
-bomarea
 bomb
 bonce
 bromiodide
@@ -16642,6 +16641,7 @@ ballooning
 buckwagon
 buckwash
 buckwashing
+bomarea
 buckwheat
 biggen
 buninahua
