@@ -7725,6 +7725,7 @@ bheestie
 bhikhari
 bhikku
 bhil
+buttonholder
 bhili
 bhima
 bhindi
@@ -18314,7 +18315,6 @@ buttonbush
 buttoner
 buttoners
 buttonhold
-buttonholder
 bumf
 buttonholed
 buttonholer
