@@ -1421,7 +1421,6 @@ fatiguable
 fatigue
 fingerhook
 fatigued
-flustrated
 formicina
 fatigueless
 firetail
@@ -4379,6 +4378,7 @@ fingerhold
 flunkydom
 fissioned
 fissioning
+flustrated
 formidolous
 flamines
 fissions
