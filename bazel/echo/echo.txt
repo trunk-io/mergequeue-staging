@@ -7130,7 +7130,6 @@ enumerate
 eozoonal
 enumerates
 enumerating
-enumerations
 enumerative
 enumerator
 enumerators
@@ -11629,6 +11628,7 @@ evils
 estrapade
 evilspeaker
 evilspeaking
+enumerations
 evilwishing
 evince
 evincement

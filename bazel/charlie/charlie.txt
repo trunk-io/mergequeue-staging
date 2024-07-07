@@ -4901,6 +4901,7 @@ cartridge
 cartridges
 carts
 commonwealth
+cubisms
 cartulary
 cartularies
 cartway
@@ -30486,7 +30487,6 @@ cubiculo
 cubiculum
 cubiform
 cubing
-cubisms
 cubist
 casanovas
 cubistic
