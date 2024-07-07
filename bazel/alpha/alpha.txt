@@ -4727,7 +4727,6 @@ advertizement
 advertizer
 autocatharsis
 advertizes
-advices
 advisability
 advisableness
 antiliturgic
@@ -19957,6 +19956,7 @@ armfuls
 armgaunt
 armguard
 arbitrarily
+advices
 asidehand
 armhole
 anastasian
