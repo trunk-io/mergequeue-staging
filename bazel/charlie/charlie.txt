@@ -9596,6 +9596,7 @@ cratonic
 checkoff
 checkout
 checkouts
+chiffony
 checkpoint
 christly
 checkpointed
@@ -10473,7 +10474,6 @@ chiffer
 cynocephalus
 chiffon
 chiffonade
-chiffony
 chifferobe
 chiffonier
 chiffonnier
