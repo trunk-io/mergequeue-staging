@@ -793,7 +793,6 @@ ecphore
 earwigging
 ecphoria
 ecphoriae
-ecphorias
 epulotic
 ecphrasis
 eiffel
@@ -5552,6 +5551,7 @@ energizer
 estall
 embroilment
 exploitation
+ecphorias
 energizers
 energizes
 energizing
