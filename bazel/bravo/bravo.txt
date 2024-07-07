@@ -5310,7 +5310,6 @@ begoud
 begray
 begrain
 begrave
-begreen
 begrim
 begrimed
 begrimer
@@ -5469,6 +5468,7 @@ beylik
 beyliks
 bein
 being
+begreen
 beingless
 beingness
 beinness
