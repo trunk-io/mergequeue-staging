@@ -1976,6 +1976,7 @@ decahedrons
 decay
 decayable
 decayed
+dispread
 decayedness
 duodecimfid
 decayers
@@ -4252,7 +4253,6 @@ delphacidae
 delphian
 delphically
 delphin
-dispread
 delphinapterus
 delphine
 diddling
