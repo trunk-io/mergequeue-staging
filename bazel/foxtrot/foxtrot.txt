@@ -2141,7 +2141,6 @@ felonweed
 fels
 fumbler
 felsite
-felsites
 felsitic
 felsobanyite
 featherier
@@ -9568,6 +9567,7 @@ freebie
 fleetful
 freeboot
 fencing
+felsites
 frithborh
 foxhounds
 ferrometer
