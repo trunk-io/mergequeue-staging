@@ -10296,7 +10296,6 @@ chiarooscurist
 chiaroscuro
 carve
 codens
-chiaroscuros
 chias
 chiasma
 chiasmal
@@ -19374,6 +19373,7 @@ colonialism
 colonialist
 colonialistic
 colonialists
+chiaroscuros
 colonialization
 colonialize
 colonially
