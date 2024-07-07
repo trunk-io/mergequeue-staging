@@ -9058,7 +9058,6 @@ chariotee
 charioteer
 charioteers
 circovarian
-charioting
 crescentwise
 chariotlike
 chariotman
@@ -21934,6 +21933,7 @@ confederations
 cancellarian
 confederatism
 cyrilla
+charioting
 confederative
 confederatize
 confederator
