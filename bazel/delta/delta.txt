@@ -4583,6 +4583,7 @@ demilitarized
 demilitarizes
 demilitarizing
 devastated
+deal
 demiliterate
 disenchanted
 demilunes
@@ -6926,7 +6927,6 @@ despite
 drunt
 despited
 dwarfer
-deal
 despiteful
 despitefulness
 degasify
