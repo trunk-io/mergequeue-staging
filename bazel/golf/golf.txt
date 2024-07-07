@@ -828,7 +828,6 @@ galvanotaxis
 gozell
 galvanotherapy
 galvanothermometer
-galvanotonic
 garni
 galvanotropism
 galvo
@@ -5187,6 +5186,7 @@ guardedly
 glanduliferous
 glanduliform
 glanduligerous
+galvanotonic
 glandulose
 glanis
 goodless
