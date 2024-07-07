@@ -6781,7 +6781,6 @@ beroidae
 berouged
 beround
 berreave
-bendability
 berreaving
 berret
 berretta
@@ -10749,6 +10748,7 @@ blennorhea
 blennorrhagia
 browzer
 boolya
+bendability
 blennorrhagic
 bradburya
 blennorrhea
