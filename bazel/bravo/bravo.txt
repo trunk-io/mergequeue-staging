@@ -10907,7 +10907,6 @@ busher
 blindstory
 bobotie
 bubblingly
-blindstories
 blindweed
 begulf
 blinger
@@ -13530,6 +13529,7 @@ boules
 boulevard
 bewitchingly
 boulevardier
+blindstories
 boulevardize
 bouleversement
 boulework
