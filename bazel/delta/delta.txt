@@ -8239,7 +8239,6 @@ diagnostics
 dyscrasic
 diagonal
 damndest
-dures
 diagonalizable
 diagonalization
 disinteresting
@@ -14720,6 +14719,7 @@ dockman
 docks
 dockside
 docksides
+dures
 dockworker
 docoglossa
 docoglossate
