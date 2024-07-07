@@ -11653,6 +11653,7 @@ berk
 bodword
 boatsman
 boatsmen
+bioscience
 boatsteerer
 boatswain
 boatswains
@@ -12977,7 +12978,6 @@ bordelaise
 bordello
 bordellos
 bordels
-bioscience
 border
 bordereau
 bordereaux
