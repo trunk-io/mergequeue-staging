@@ -7485,7 +7485,6 @@ barbery
 betwixt
 booteries
 beudanite
-beudantite
 beuncled
 bevatron
 bevatrons
@@ -10171,6 +10170,7 @@ blackjack
 blackjacked
 blackjacking
 blackland
+beudantite
 blacklead
 blackleg
 blacklegged
