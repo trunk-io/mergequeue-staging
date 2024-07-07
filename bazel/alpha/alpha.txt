@@ -1275,7 +1275,6 @@ academian
 academias
 academic
 academical
-academicals
 axone
 academician
 academicians
@@ -16865,6 +16864,7 @@ aphakic
 allianced
 aphanes
 aphanesite
+academicals
 aphanipterous
 atik
 aphanisia
