@@ -13453,7 +13453,6 @@ epigaeous
 exsanguine
 erythrene
 enorthotrope
-exsanguinity
 exsanguinous
 expose
 exscind
@@ -13584,6 +13583,7 @@ enjeopardy
 extensionality
 extensionally
 extensionist
+exsanguinity
 extensions
 endorsements
 extensive
