@@ -1626,7 +1626,6 @@ deallocated
 deallocates
 deallocating
 deallocation
-deallocations
 deals
 deambulate
 deambulatories
@@ -14656,6 +14655,7 @@ discommoned
 doblas
 darjeeling
 doblon
+deallocations
 dobos
 dobra
 dobrao
