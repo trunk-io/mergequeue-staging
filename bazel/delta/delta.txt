@@ -7385,6 +7385,7 @@ decoymen
 dashpot
 detraining
 donovan
+dorsel
 detrainment
 detrect
 detribalization
@@ -15803,7 +15804,6 @@ dioptrate
 dorsalward
 dissever
 dorse
-dorsel
 dorsers
 dorsi
 dorsibranch

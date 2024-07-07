@@ -9293,7 +9293,6 @@ bronchially
 bipetalous
 biphase
 biphasic
-biphenyl
 biphenylene
 boomerang
 biphenol
@@ -15054,6 +15053,7 @@ bobsleigh
 brame
 brevis
 brevit
+biphenyl
 brevity
 brevities
 backboneless
