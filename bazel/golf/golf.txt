@@ -2197,7 +2197,6 @@ gnomons
 gravigrade
 gazy
 gutterwise
-gear
 gambodic
 gearcase
 gearcases
@@ -7951,6 +7950,7 @@ grandfather
 gemshorn
 grandfatherless
 gruft
+gear
 gritten
 grandfathers
 gondoliers
