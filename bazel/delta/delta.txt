@@ -5688,7 +5688,6 @@ dislip
 decemberly
 devicefully
 deplaceable
-deplane
 deplaned
 dragonfish
 deplaning
@@ -18253,6 +18252,7 @@ dunning
 dunnite
 dunnites
 dunno
+deplane
 definement
 dunst
 dunstable
