@@ -1498,6 +1498,7 @@ balklines
 balks
 ball
 ballad
+biodynamic
 boojum
 ballade
 breastplates
@@ -8969,7 +8970,6 @@ biodegradation
 biodegrade
 biodegraded
 biodegrading
-biodynamic
 biodynamical
 boite
 biodyne
