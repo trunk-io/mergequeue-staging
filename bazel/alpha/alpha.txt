@@ -2644,7 +2644,6 @@ acockbill
 acocotl
 acoela
 auguste
-acoelomate
 acoelomatous
 acoelomi
 acoelomous
@@ -18146,6 +18145,7 @@ apsidal
 apsides
 apsidiole
 apsinthion
+acoelomate
 abatises
 apsis
 apt
