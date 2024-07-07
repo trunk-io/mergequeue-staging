@@ -8112,7 +8112,6 @@ glaze
 geisenheimer
 grantiidae
 gratification
-grantor
 grantors
 grants
 grantsmen
@@ -9459,6 +9458,7 @@ groupies
 gomarist
 groupment
 groupoid
+grantor
 groups
 groupthink
 geitjie
