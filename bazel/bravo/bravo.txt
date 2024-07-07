@@ -2811,7 +2811,6 @@ baroclinicity
 baroco
 barodynamic
 barognosis
-barographic
 barographs
 baroko
 bicoloured
@@ -16536,6 +16535,7 @@ blastman
 buceros
 bucerotidae
 buchanan
+barographic
 bucharest
 buchloe
 buchmanism
