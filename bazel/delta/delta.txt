@@ -2424,7 +2424,6 @@ decisis
 decisive
 decisively
 darkened
-decisiveness
 dissociations
 decistere
 decisteres
@@ -15585,6 +15584,7 @@ dooly
 doolie
 doolies
 doom
+decisiveness
 doomed
 doomful
 doomfully
