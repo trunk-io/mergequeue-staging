@@ -2582,6 +2582,7 @@ barful
 bargain
 bargainable
 bargained
+brabantine
 billbugs
 bargainer
 bargaining
@@ -15884,7 +15885,6 @@ bromos
 bromouracil
 biscuit
 bromous
-brabantine
 bressomer
 brompicrin
 bromuret
