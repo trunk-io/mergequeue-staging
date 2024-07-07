@@ -6949,7 +6949,6 @@ cenogenetically
 cenogonous
 cenomanian
 chemotropic
-cenosite
 cenospecies
 custodiam
 cenospecific
@@ -31023,6 +31022,7 @@ chelator
 cunea
 cuneal
 cuneate
+cenosite
 cuneated
 chordee
 cymar
