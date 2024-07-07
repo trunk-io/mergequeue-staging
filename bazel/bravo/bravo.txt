@@ -16812,7 +16812,6 @@ bugan
 brisque
 barons
 bugbane
-bugbanes
 bugbear
 bugbeardom
 battiness
@@ -18089,6 +18088,7 @@ beardtongue
 busmen
 breviloquent
 bloaters
+bugbanes
 buss
 benda
 bussed
