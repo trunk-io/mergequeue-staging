@@ -677,7 +677,6 @@ aboil
 aboiteau
 aboiteaus
 abolish
-abolishable
 abolished
 almique
 abolishers
@@ -1425,6 +1424,7 @@ adossee
 acarologist
 acarophilous
 acarophobia
+abolishable
 acarotoxic
 audrey
 acarpelous
