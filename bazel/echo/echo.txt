@@ -2424,7 +2424,6 @@ electroforming
 electrofuse
 electrofusion
 electrogalvanic
-exsiccant
 electrogenesis
 electrogenic
 electrogild
@@ -5967,6 +5966,7 @@ ericad
 enjail
 enjamb
 enjambed
+exsiccant
 enjambement
 enjambment
 enjambments
