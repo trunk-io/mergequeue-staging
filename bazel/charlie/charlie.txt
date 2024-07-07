@@ -1136,7 +1136,6 @@ caldadaria
 cunoniaceous
 caldaria
 concordal
-caldarium
 courtnoll
 calden
 caldera
@@ -29279,6 +29278,7 @@ covings
 crypto
 cryptoagnostic
 cryptoanalyst
+caldarium
 cryptoanalytic
 cryptoanalytically
 cryptoanalytics
