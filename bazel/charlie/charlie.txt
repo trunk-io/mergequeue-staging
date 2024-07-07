@@ -2364,6 +2364,7 @@ candymaking
 candiot
 candys
 candystick
+cruelize
 candite
 candytuft
 candyweed
@@ -30158,7 +30159,6 @@ crudle
 cruds
 cruel
 cruelest
-cruelize
 crueller
 cruellest
 cruelly
