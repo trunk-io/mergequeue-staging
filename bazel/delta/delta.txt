@@ -2362,6 +2362,7 @@ deciliter
 daywrit
 deciliters
 decilitre
+dynametrical
 decillion
 deis
 decillionth
@@ -17031,7 +17032,6 @@ dressing
 dinitrocellulose
 disgarland
 dressline
-dynametrical
 dressmake
 dressmakery
 dressmakership
