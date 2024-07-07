@@ -5611,6 +5611,7 @@ dependently
 dependents
 diatrymiformes
 depender
+doketic
 depending
 dependingly
 depends
@@ -15116,7 +15117,6 @@ doits
 dojigger
 dojiggy
 doke
-doketic
 doketism
 dokhma
 dokimastic
