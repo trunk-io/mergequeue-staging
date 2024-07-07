@@ -9556,7 +9556,6 @@ alterations
 archmockery
 arabism
 alterative
-autoelectrolytic
 alteratively
 altercate
 altercated
@@ -18152,6 +18151,7 @@ affing
 aptera
 apteral
 aleukemic
+autoelectrolytic
 alveolonasal
 apteran
 apteria
