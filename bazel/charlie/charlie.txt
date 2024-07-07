@@ -16241,6 +16241,7 @@ consequence
 climbable
 caried
 climbed
+cordaites
 climber
 chirker
 climbers
@@ -25013,7 +25014,6 @@ cordaitaceae
 cordaitaceous
 cordaitalean
 cordaitales
-cordaites
 cordal
 cordant
 cordately
