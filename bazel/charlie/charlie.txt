@@ -5225,7 +5225,6 @@ cassolette
 casson
 cassonade
 cassone
-cuspidated
 cassons
 cassoon
 creatable
@@ -8764,6 +8763,7 @@ chantership
 chanteur
 chanteuse
 chanteuses
+cuspidated
 chanty
 chanticleer
 chanticleers
