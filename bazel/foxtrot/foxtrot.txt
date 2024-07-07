@@ -3690,6 +3690,7 @@ filmslide
 filmstrip
 filmstrips
 filoplume
+fenceful
 filopodia
 floorcloth
 fluoridated
@@ -4098,7 +4099,6 @@ firedrake
 firefall
 firefang
 firefanged
-fenceful
 forsakes
 firefighting
 fireflies
