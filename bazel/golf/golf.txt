@@ -8079,7 +8079,6 @@ granitite
 gendarme
 gyrocompasses
 granitized
-granivore
 granma
 grannam
 grannybush
@@ -8773,6 +8772,7 @@ gashful
 greg
 gregaloid
 graduals
+granivore
 gregarian
 gullability
 gregarina
