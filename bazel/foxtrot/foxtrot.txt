@@ -4148,7 +4148,6 @@ fireroom
 foreturn
 firerooms
 firers
-forche
 firesafe
 firesafeness
 firesafety
@@ -10978,6 +10977,7 @@ fumariaceous
 flauntiness
 fumarin
 fumarium
+forche
 fumarole
 forefatherly
 fumatoria
