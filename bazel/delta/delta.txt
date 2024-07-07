@@ -1721,6 +1721,7 @@ deaths
 deathsman
 deathsmen
 deathtime
+diallages
 deathtrap
 deathtraps
 deathwards
@@ -8374,7 +8375,6 @@ declaiming
 distorted
 dialkylamine
 dialkylic
-diallages
 diallagic
 desquamation
 dispair
