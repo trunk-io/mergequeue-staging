@@ -887,6 +887,7 @@ calamancoes
 changepocket
 cordate
 calamancos
+crum
 calamander
 calamansi
 calamar
@@ -24629,7 +24630,6 @@ cosigning
 copyholding
 copyholds
 conrail
-crum
 copihue
 copihues
 copying

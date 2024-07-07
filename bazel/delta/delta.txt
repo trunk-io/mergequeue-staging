@@ -7922,6 +7922,7 @@ dexterousness
 dextorsal
 dextrad
 dextrality
+deconcatenate
 dextran
 desiderata
 dextranase
@@ -12910,7 +12911,6 @@ disoxidate
 dysoxidation
 dissect
 dysoxidizable
-deconcatenate
 disoxygenate
 diamesogamous
 discourt
