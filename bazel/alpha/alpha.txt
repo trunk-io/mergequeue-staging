@@ -5822,7 +5822,6 @@ autotherapeutic
 afterswarm
 allegorization
 afterswell
-aftertan
 aftertask
 aftertaste
 afterthinker
@@ -18904,6 +18903,7 @@ archetto
 archettos
 archeus
 archexorcist
+aftertan
 archfelon
 archfiends
 archfire
