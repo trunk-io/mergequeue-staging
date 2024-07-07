@@ -3640,6 +3640,7 @@ fillmass
 fillmore
 fating
 flow
+frothy
 fillock
 forewent
 fortieths
@@ -10480,7 +10481,6 @@ frothed
 frothi
 frigiddaria
 filariidae
-frothy
 frothier
 frothily
 frothless
