@@ -26385,7 +26385,6 @@ coterminously
 coterminousness
 cotes
 cotesian
-coth
 cothamore
 cothe
 componency
@@ -27605,6 +27604,7 @@ cowards
 cowbane
 cowbanes
 cariosity
+coth
 cowbarn
 cowbells
 cowberry
