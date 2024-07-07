@@ -5402,7 +5402,6 @@ affiche
 affidation
 affidavy
 affidavit
-affied
 affies
 affying
 affiliable
@@ -9540,6 +9539,7 @@ atenism
 altarwise
 altazimuth
 alter
+affied
 alterability
 alterable
 annunciation
