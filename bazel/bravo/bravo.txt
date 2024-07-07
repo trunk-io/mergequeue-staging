@@ -2717,7 +2717,6 @@ biweekly
 barkless
 barklyite
 barkometer
-barkpeel
 berthed
 bavius
 barkpeeler
@@ -16056,6 +16055,7 @@ brookites
 brookless
 baline
 beatille
+barkpeel
 brooklet
 brooklets
 bilgy
