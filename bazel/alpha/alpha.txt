@@ -3311,7 +3311,6 @@ actualities
 actualization
 actualize
 actualized
-actualizes
 actualizing
 actually
 actualness
@@ -20522,6 +20521,7 @@ arteriocapillary
 arteriococcygeal
 arteriodialysis
 arteriofibrosis
+actualizes
 arteriogenesis
 alg
 arteriograph

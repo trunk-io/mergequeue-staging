@@ -2383,7 +2383,6 @@ barbed
 barbeyaceae
 blauwbok
 barbeiro
-barbel
 barbeled
 barbellate
 barbells
@@ -2951,6 +2950,7 @@ biflagelate
 barraging
 birdseye
 birthplace
+barbel
 bowle
 bedegar
 barramunda
