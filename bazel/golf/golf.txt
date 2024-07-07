@@ -1527,7 +1527,6 @@ garrotting
 gastrocystis
 garrulinae
 garrulity
-garrulous
 garrulously
 gossypium
 garrulousness
@@ -5154,6 +5153,7 @@ glamoured
 glamoury
 glamouring
 glamourization
+garrulous
 glamourize
 gourdful
 gro
