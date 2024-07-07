@@ -11404,7 +11404,6 @@ chloropalladic
 chlorophaeite
 chlorophane
 chlorophenol
-chlorophenothane
 chlorophyceae
 convenee
 chlorophyl
@@ -21152,6 +21151,7 @@ conations
 counterdisengage
 conative
 conatural
+chlorophenothane
 conatus
 contractee
 conaxial
