@@ -5155,7 +5155,6 @@ gro
 glamourizer
 glamourous
 green
-glamours
 glance
 genethliacon
 glanced
@@ -8732,6 +8731,7 @@ geraniaceae
 garrotted
 goiter
 greens
+glamours
 gastrophilist
 greensand
 glazer
