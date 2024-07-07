@@ -1914,7 +1914,6 @@ gatelike
 gatemen
 genetical
 gateposts
-gates
 gatetender
 gatewaying
 grandaddy
@@ -6071,6 +6070,7 @@ globefishes
 glucic
 glucid
 glucine
+gates
 glucinium
 guruships
 glummy
