@@ -7230,7 +7230,6 @@ bestiary
 bestiarianism
 bestiaries
 bestiarist
-bestick
 barbone
 backfiller
 bestill
@@ -10619,6 +10618,7 @@ blea
 bleaberry
 bleach
 bleachability
+bestick
 bleachable
 bleached
 bleacher
