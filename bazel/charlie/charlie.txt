@@ -3646,6 +3646,7 @@ carbineers
 carbines
 carbinyl
 carbinol
+corrugating
 countertail
 coroplasty
 carbinols
@@ -25839,7 +25840,6 @@ corrugate
 corrugated
 corrugates
 capacitively
-corrugating
 corrugation
 corrugator
 chatterers

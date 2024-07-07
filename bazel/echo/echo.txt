@@ -5350,7 +5350,6 @@ endoskeleton
 endoskeletons
 endosmic
 endosmometric
-eyr
 extraversive
 endosmos
 exsect
@@ -12834,6 +12833,7 @@ exosmotic
 enamines
 esquamate
 exosperm
+eyr
 exosphere
 evanescing
 exospherical
