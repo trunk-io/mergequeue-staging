@@ -5955,6 +5955,7 @@ geulah
 glossolabial
 glossolabiolaryngeal
 glossolabiopharyngeal
+graptolitoidea
 glossolaly
 glossolalia
 glossolaryngeal
@@ -8265,7 +8266,6 @@ grizzled
 grappling
 grapsidae
 grapsoid
-graptolitoidea
 grapsus
 gorgeable
 glutimate
