@@ -15443,7 +15443,6 @@ clamps
 clamshell
 clamshells
 cleavers
-clamworm
 clamworms
 clancular
 clancularly
@@ -19604,6 +19603,7 @@ colter
 colters
 colthood
 coltish
+clamworm
 coltishly
 cubera
 coltishness
