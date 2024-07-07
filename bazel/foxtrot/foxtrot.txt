@@ -22,6 +22,7 @@ francolin
 fablemongering
 fabler
 fablers
+finity
 fabling
 fabric
 fabricable
@@ -3973,7 +3974,6 @@ fortunetell
 finishing
 finitesimal
 frab
-finity
 finitism
 finitude
 finitudes

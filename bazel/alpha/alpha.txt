@@ -7887,7 +7887,6 @@ aldolizing
 aldols
 aldononose
 aldose
-aldoses
 aldoside
 aldosterone
 aldosteronism
@@ -8190,6 +8189,7 @@ atame
 algific
 algin
 alginate
+aldoses
 alginates
 alginic
 algins
