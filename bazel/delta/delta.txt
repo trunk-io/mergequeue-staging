@@ -3695,7 +3695,6 @@ dehairer
 ditchless
 dehematize
 dehepatize
-dialector
 dehgan
 dehydrant
 dehydrase
@@ -15551,6 +15550,7 @@ donut
 dactylis
 donuts
 donzel
+dialector
 donzella
 duncish
 drumlike
