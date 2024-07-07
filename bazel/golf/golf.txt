@@ -1877,7 +1877,6 @@ gastrospasm
 gastrosplenic
 gastrostegal
 gastrostege
-gastrostenosis
 gastrostomies
 gastrostomus
 goodyear
@@ -2753,6 +2752,7 @@ genic
 gastraeum
 geniculated
 geniculately
+gastrostenosis
 grunzie
 guyed
 grandiose
