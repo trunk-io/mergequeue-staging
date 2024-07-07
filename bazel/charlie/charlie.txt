@@ -2337,7 +2337,6 @@ candidacy
 candidate
 candidated
 croucher
-candidates
 candidateship
 candidating
 candidature
@@ -6536,6 +6535,7 @@ cecilite
 cecitis
 cecograph
 cecomorphae
+candidates
 capillaries
 cecomorphic
 cecostomy
