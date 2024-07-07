@@ -2518,6 +2518,7 @@ bardlike
 bardling
 bardo
 bellyfulls
+bassette
 bunns
 bazookas
 bardocucullus
@@ -3424,7 +3425,6 @@ bassarisk
 birlers
 basset
 basseting
-bassette
 begroans
 bassetted
 bassetting
