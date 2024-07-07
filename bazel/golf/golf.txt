@@ -3723,7 +3723,6 @@ gibbously
 ghana
 ghanaian
 gastronomy
-gharries
 gigas
 gharris
 gdinfo
@@ -10151,6 +10150,7 @@ guidelines
 guideposts
 gastrulate
 gundie
+gharries
 gamodesmy
 geonavigation
 guiders
