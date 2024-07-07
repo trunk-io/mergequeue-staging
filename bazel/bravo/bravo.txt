@@ -1667,7 +1667,6 @@ ballotist
 ballottable
 ballottine
 ballottines
-blear
 ballpark
 ballparks
 butane
@@ -15839,6 +15838,7 @@ bromo
 bromoacetone
 bromoaurate
 bromoaurates
+blear
 becovet
 bizarreness
 bromoauric
