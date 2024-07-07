@@ -3911,7 +3911,6 @@ cardamons
 cardamum
 cheeseparer
 cardamums
-caprificator
 cardanic
 cardanol
 cercle
@@ -7599,6 +7598,7 @@ cerebellocortex
 choregraphy
 cerebellopontile
 coastlines
+caprificator
 ceilidhe
 cerebellopontine
 cerebellorubral
