@@ -6248,7 +6248,6 @@ dermatologies
 dermatologist
 dermatologists
 dermatoma
-dermatomic
 diumvirate
 dermatomyces
 dermatomycosis
@@ -17199,6 +17198,7 @@ drysaltery
 drisk
 drysne
 dryth
+dermatomic
 drivable
 dovecot
 drivage
