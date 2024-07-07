@@ -1124,6 +1124,7 @@ bayong
 beamers
 bairagi
 bairam
+bedrop
 brothy
 bairn
 bursattee
@@ -4785,7 +4786,6 @@ bedrock
 bedrocks
 bedrolls
 bedrooms
-bedrop
 bridgemaker
 bedrown
 bedrowse
