@@ -1876,7 +1876,6 @@ englishing
 eyewitness
 eyewitnesses
 exponentiate
-evehood
 eigenfrequency
 eigenvalue
 eightballs
@@ -8698,6 +8697,7 @@ equilibrio
 equilibrious
 equilibrist
 equilibristat
+evehood
 elderbrotherhood
 effluvial
 extraliminal
