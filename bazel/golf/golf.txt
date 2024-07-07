@@ -3618,7 +3618,6 @@ gestate
 gestated
 gristy
 gestates
-gundeck
 gestating
 gestation
 gestative
@@ -9003,6 +9002,7 @@ grimacingly
 granulocytic
 gyromitra
 grime
+gundeck
 grimed
 gumphion
 greenlandman
