@@ -5825,7 +5825,6 @@ bellowed
 bellowers
 bellowsful
 bellowslike
-bellowsmaker
 bellowsmaking
 bilaciniate
 bellowsman
@@ -8598,6 +8597,7 @@ billage
 billard
 bremia
 buhr
+bellowsmaker
 billback
 blushers
 billbeetle
