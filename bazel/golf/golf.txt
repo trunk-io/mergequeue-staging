@@ -2006,6 +2006,7 @@ gaums
 gaunt
 gaunter
 gauntest
+grimaces
 gaunty
 gauntleted
 gauntleting
@@ -9000,7 +9001,6 @@ gotra
 grilses
 grim
 grimacers
-grimaces
 grimacing
 grimacingly
 granulocytic
