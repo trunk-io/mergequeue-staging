@@ -4407,7 +4407,6 @@ geographics
 gynecia
 gynecic
 gynecicgynecidal
-gynecide
 gynecium
 gynecocentric
 geir
@@ -9865,6 +9864,7 @@ guao
 guilty
 gibbier
 guapinol
+gynecide
 gruys
 guara
 gallinules
