@@ -201,7 +201,6 @@ gagmen
 gamodeme
 glastonbury
 gagster
-gagsters
 gagtooth
 gagwriter
 gahnites
@@ -6925,6 +6924,7 @@ gonoblast
 gonoblastic
 gonoblastidial
 gonocalycine
+gagsters
 gerocomy
 gonocalyx
 gonocheme
