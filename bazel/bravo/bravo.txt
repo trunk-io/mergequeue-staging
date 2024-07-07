@@ -3586,7 +3586,6 @@ bathymetrical
 bathinette
 birthdom
 bathing
-bathyplankton
 bathyscaph
 bathyscaphes
 bathyseism
@@ -14860,6 +14859,7 @@ breasted
 breaster
 breastfast
 breastfeeding
+bathyplankton
 breastful
 breastheight
 breasthook
