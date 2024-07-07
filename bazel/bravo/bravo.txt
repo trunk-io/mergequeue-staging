@@ -2813,7 +2813,6 @@ baroclinicity
 baroco
 barodynamic
 barognosis
-boardmanship
 barographic
 barographs
 baroko
@@ -6444,6 +6443,7 @@ botryomycosis
 benzosulfimide
 benzosulphimide
 blindstitch
+boardmanship
 batta
 benzotetrazine
 benzotetrazole
