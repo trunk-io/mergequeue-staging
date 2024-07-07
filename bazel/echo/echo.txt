@@ -4989,7 +4989,6 @@ endarch
 echopraxia
 excite
 epiphyseolysis
-endarchy
 endarterectomy
 evenforth
 endarterial
@@ -14074,6 +14073,7 @@ exsertile
 extrinsically
 entobranchiate
 equison
+endarchy
 extrinsicalness
 extromit
 extropical
