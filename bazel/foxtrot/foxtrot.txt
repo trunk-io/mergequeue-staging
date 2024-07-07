@@ -1664,6 +1664,7 @@ filaria
 faxes
 feud
 fibrocement
+finochios
 faze
 fazed
 fazenda
@@ -4012,7 +4013,6 @@ finnochio
 finns
 fino
 furcular
-finochios
 fins
 fregatidae
 fintadores
