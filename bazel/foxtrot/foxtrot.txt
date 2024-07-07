@@ -2330,6 +2330,7 @@ feoffees
 faits
 feoffeeship
 feoffer
+flies
 feoffing
 fetlow
 feoffment
@@ -5508,7 +5509,6 @@ foetiferous
 flyer
 fliers
 flyers
-flies
 fliest
 fliffus
 flyflap
