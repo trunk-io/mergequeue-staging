@@ -8986,7 +8986,6 @@ bef
 bioelectric
 byline
 bioelectrical
-bioelectricity
 bioelectricities
 blenniid
 belook
@@ -12517,6 +12516,7 @@ bonewood
 bonework
 bonewort
 bors
+bioelectricity
 bonfires
 bonging
 bongoes
