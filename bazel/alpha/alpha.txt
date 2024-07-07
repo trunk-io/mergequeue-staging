@@ -10327,6 +10327,7 @@ ameiuridae
 ameiva
 amel
 amelanchier
+authorise
 ameland
 amelcorn
 amelcorns
@@ -23832,7 +23833,6 @@ authorisable
 annexer
 alpist
 authorisation
-authorise
 authoriser
 authoritarian
 authoritarianism
