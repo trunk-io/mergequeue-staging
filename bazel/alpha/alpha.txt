@@ -23990,7 +23990,6 @@ autoconvection
 autoconverter
 autocopist
 autocoprophagous
-autocorrelate
 autocorrelation
 autocorrosion
 autocosm
@@ -24892,6 +24891,7 @@ aways
 appanagist
 await
 awaited
+autocorrelate
 adevism
 alphabetary
 awaiter
