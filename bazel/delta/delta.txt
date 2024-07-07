@@ -4214,7 +4214,6 @@ delisting
 delists
 duit
 dementis
-delit
 delitescence
 delitescency
 delitescent
@@ -18417,6 +18416,7 @@ duracine
 durain
 dural
 duramater
+delit
 duramen
 dollfish
 duramens
