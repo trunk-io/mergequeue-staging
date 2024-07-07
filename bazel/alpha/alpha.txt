@@ -10189,6 +10189,7 @@ amblyopsis
 amblyoscope
 aetiological
 amblypod
+anticolic
 amblypoda
 amblypodous
 awreak
@@ -15118,7 +15119,6 @@ airfoil
 anticoincidence
 anticold
 akkad
-anticolic
 anticomet
 anticomment
 anticommercial
