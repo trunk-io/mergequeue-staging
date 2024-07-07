@@ -138,6 +138,7 @@ fricace
 factfinder
 firman
 facty
+fictile
 facticide
 factional
 furnacite
@@ -10898,7 +10899,6 @@ fullfaces
 frowzled
 frauds
 fullfil
-fictile
 fullgrownness
 foolocracy
 ferrosilicon
