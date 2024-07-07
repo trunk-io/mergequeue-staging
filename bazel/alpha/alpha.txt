@@ -8719,7 +8719,6 @@ arsenophen
 abjections
 aglyphodontia
 allegoric
-allegorical
 asbestoidal
 allegorically
 allegoricalness
@@ -22068,6 +22067,7 @@ artarin
 agamont
 asterism
 asterismal
+allegorical
 asterisms
 adapis
 asterite
