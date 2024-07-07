@@ -4947,7 +4947,6 @@ encumbrous
 eblis
 encup
 encushion
-endable
 endamageable
 esterifiable
 endamaged
@@ -8058,6 +8057,7 @@ epiphytical
 epipastic
 epipelagic
 epiphany
+endable
 epiphanic
 epiphanies
 epiphanise
