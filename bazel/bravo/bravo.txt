@@ -9251,6 +9251,7 @@ biotypology
 biotite
 biotites
 biotitic
+bregmata
 biotome
 biotomy
 birt
@@ -14963,7 +14964,6 @@ breezy
 breezier
 breeziness
 bregma
-bregmata
 bregmate
 bregmatic
 brehon
