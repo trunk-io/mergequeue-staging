@@ -7685,7 +7685,6 @@ guilefulness
 gradiometer
 gladwin
 gradiometric
-gradometer
 goosishness
 gradual
 gradualist
@@ -8671,6 +8670,7 @@ greenbugs
 greenbul
 grandevous
 greened
+gradometer
 greenery
 greenest
 gucks
