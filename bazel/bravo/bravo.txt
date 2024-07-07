@@ -2760,7 +2760,6 @@ barmaid
 billionaire
 barmaids
 barmaster
-barmbrack
 babesiasis
 barmcloth
 biggonet
@@ -10556,6 +10555,7 @@ birles
 blathery
 blathers
 blatherskites
+barmbrack
 blatiform
 blatjang
 blats
