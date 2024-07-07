@@ -8513,7 +8513,6 @@ gravidity
 gravidly
 gies
 graviers
-gravific
 gravigrada
 gravimeter
 gravimeters
@@ -9505,6 +9504,7 @@ grove
 gentrice
 groved
 granulate
+gravific
 gastrotaxis
 gulosities
 groveler
