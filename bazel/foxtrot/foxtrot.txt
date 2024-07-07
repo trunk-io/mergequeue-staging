@@ -844,7 +844,6 @@ fanon
 fanons
 fluxgraph
 fanos
-farmerish
 fenlander
 findability
 fans
@@ -11538,6 +11537,7 @@ forays
 fusariose
 fusariosis
 fusarium
+farmerish
 fusate
 fuscescent
 fuscin
