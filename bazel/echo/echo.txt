@@ -1991,7 +1991,6 @@ ejection
 ejections
 ejective
 ejectively
-espigle
 ejectum
 ejicient
 exonship
@@ -10622,6 +10621,7 @@ etiolize
 etiology
 etiological
 elinguated
+espigle
 exteriorised
 etiologist
 etiologue
