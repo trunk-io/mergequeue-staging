@@ -7853,6 +7853,7 @@ daunomycin
 devours
 devout
 devoutful
+diskless
 derf
 disabuses
 diskindness
@@ -12629,7 +12630,6 @@ diskettes
 dyskinesia
 dyskinetic
 disking
-diskless
 decurrently
 disknow
 deploy
