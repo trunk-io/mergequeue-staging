@@ -181,7 +181,6 @@ gagelike
 gager
 gagers
 greenstone
-gagership
 gages
 gauche
 gratia
@@ -1057,6 +1056,7 @@ gyrolith
 guaranin
 gan
 ganam
+gagership
 ganancias
 ganapati
 ganch
