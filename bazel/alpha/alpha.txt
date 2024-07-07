@@ -1496,7 +1496,6 @@ accensor
 accent
 accented
 amentulum
-accenting
 accentless
 anticnemion
 airtightly
@@ -13158,6 +13157,7 @@ andirons
 anhaematopoiesis
 anhaematosis
 anhaemolytic
+accenting
 anhalamine
 anhaline
 agorae
