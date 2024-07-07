@@ -1892,6 +1892,7 @@ gastruran
 gasworker
 gat
 gateado
+gromatic
 gatecrasher
 gatecrashers
 gated
@@ -8339,7 +8340,6 @@ glutaminase
 grassless
 gonophorous
 geanticline
-gromatic
 grasslike
 gigantostraca
 grassman
