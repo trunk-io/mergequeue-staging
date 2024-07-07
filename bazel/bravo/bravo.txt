@@ -7588,7 +7588,6 @@ bewidow
 bewield
 bewig
 budbreak
-briefest
 bewigged
 brokery
 bewigging
@@ -16872,6 +16871,7 @@ bugout
 bastonet
 bugs
 belowstairs
+briefest
 bugseed
 bugsha
 bugweed
