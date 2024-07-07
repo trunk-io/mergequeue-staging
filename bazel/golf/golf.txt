@@ -3110,7 +3110,6 @@ galvayne
 geolinguistics
 geologer
 genitive
-geologers
 geologian
 geologic
 gletscher
@@ -5647,6 +5646,7 @@ glistered
 glisteringly
 glisters
 glitch
+geologers
 generously
 glittered
 glutinant
