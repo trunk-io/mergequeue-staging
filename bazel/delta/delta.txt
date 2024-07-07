@@ -6752,6 +6752,7 @@ desistive
 dividendus
 desition
 desitive
+diathetic
 desk
 deskbound
 deskill
@@ -8707,7 +8708,6 @@ duenas
 dervishlike
 diatheses
 diapered
-diathetic
 diatom
 diatoma
 diatomaceae
