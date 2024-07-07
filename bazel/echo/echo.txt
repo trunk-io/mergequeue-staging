@@ -10677,7 +10677,6 @@ emendations
 eucaine
 eclaircissement
 expositoriness
-eucaines
 eucalyn
 eucalypteol
 emporia
@@ -13154,6 +13153,7 @@ expired
 expirer
 expirers
 expires
+eucaines
 expiry
 expiries
 expostulatingly
