@@ -466,6 +466,7 @@ daisybush
 dayside
 determinoid
 daysides
+dilaters
 daisies
 daising
 daysmen
@@ -5754,7 +5755,6 @@ deplume
 deplumed
 depluming
 deplump
-dilaters
 depoetize
 depoh
 depolarisation
