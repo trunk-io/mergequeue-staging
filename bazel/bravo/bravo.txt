@@ -63,6 +63,7 @@ babblingly
 babblings
 billiardly
 babblish
+bilabials
 babblishly
 bonsai
 babbool
@@ -8481,7 +8482,6 @@ bilaan
 biogenous
 bilabe
 bilabial
-bilabials
 bias
 bookmen
 bilalo
