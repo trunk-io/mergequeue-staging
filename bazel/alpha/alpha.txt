@@ -1738,6 +1738,7 @@ accordant
 adelea
 accordatura
 accordaturas
+aftersensation
 autocomplexes
 ailuropus
 accordature
@@ -5789,7 +5790,6 @@ afterrider
 afterripening
 afterroll
 afters
-aftersensation
 aftershaft
 amoral
 aftershafted
