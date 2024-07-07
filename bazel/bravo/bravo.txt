@@ -12318,7 +12318,6 @@ bombe
 bespouse
 basin
 bombed
-backdrop
 bomber
 bedirty
 bombernickel
@@ -15087,6 +15086,7 @@ bryanite
 briar
 briarberry
 briard
+backdrop
 briards
 bandeng
 briarean
