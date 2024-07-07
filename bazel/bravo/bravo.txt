@@ -3230,6 +3230,7 @@ basichromatinic
 basicity
 basicities
 basicranial
+bauno
 basics
 basidia
 basidial
@@ -3823,7 +3824,6 @@ baume
 baumhauerite
 benedictus
 baun
-bauno
 baure
 bauson
 bausond
