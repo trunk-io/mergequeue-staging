@@ -10747,7 +10747,6 @@ esmayle
 eighty
 eucommia
 eucommiaceae
-enfranch
 eucopepoda
 eucosmid
 exacervation
@@ -11573,6 +11572,7 @@ evertors
 everts
 everwhich
 everwho
+enfranch
 escurialize
 enervous
 earthwall
