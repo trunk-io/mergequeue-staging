@@ -5006,6 +5006,7 @@ endaze
 exhaustible
 endball
 endboard
+ewe
 endbrains
 enddamage
 enddamaging
@@ -11726,7 +11727,6 @@ evovae
 ensigned
 evulsion
 ewder
-ewe
 emacerated
 ewerer
 ewery
