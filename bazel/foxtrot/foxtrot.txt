@@ -7835,6 +7835,7 @@ fovent
 forepromise
 forepromised
 foreprovided
+frogleaf
 foreprovision
 forepurpose
 frontways
@@ -10282,7 +10283,6 @@ frogginess
 froggish
 froghood
 froghopper
-frogleaf
 frogleg
 finkel
 froglike
