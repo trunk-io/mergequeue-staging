@@ -5401,7 +5401,6 @@ glene
 gauntly
 glengarries
 grassworm
-galbanum
 glenlike
 glenlivet
 goldilocks
@@ -7768,6 +7767,7 @@ genetically
 gracious
 grayhound
 gere
+galbanum
 gaycat
 grail
 graylag
