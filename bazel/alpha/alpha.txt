@@ -10265,7 +10265,6 @@ ambulantes
 antihierarchical
 ambulate
 atropinism
-ambulates
 ambulating
 ambulatio
 ambulation
@@ -15139,6 +15138,7 @@ anticommunistically
 anticommunists
 adelphophagy
 anticompetitive
+ambulates
 anticomplement
 anticomplementary
 anticomplex
