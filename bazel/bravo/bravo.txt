@@ -7689,7 +7689,6 @@ bhang
 buckwasher
 bhangi
 bhar
-belated
 bhara
 bharal
 benzophenanthrazine
@@ -12712,6 +12711,7 @@ booklike
 bookling
 booklists
 booklore
+belated
 boatheader
 booklores
 booklover
