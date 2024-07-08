@@ -4709,7 +4709,6 @@ adversifolious
 arrangement
 adversing
 adversity
-adversities
 absentia
 adversive
 adversus
@@ -16307,6 +16306,7 @@ antislip
 antismut
 antisnapper
 antisnob
+adversities
 antisocial
 antisocialist
 antisocialistic

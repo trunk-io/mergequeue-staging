@@ -965,7 +965,6 @@ farcial
 farcialize
 farcicality
 farcically
-farcicalness
 farcie
 forcelessness
 farcify
@@ -1533,6 +1532,7 @@ flakes
 fibrillated
 faultlessly
 faultlessness
+farcicalness
 faulx
 faun
 fleawort
