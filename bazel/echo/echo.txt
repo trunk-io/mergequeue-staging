@@ -1592,6 +1592,7 @@ egyptologer
 enam
 epipany
 exorcisement
+extraphysical
 eleutherodactyl
 egyptology
 egyptologist
@@ -13920,7 +13921,6 @@ extraperiodic
 embryologic
 extraperiosteal
 extraperitoneal
-extraphysical
 extrapituitary
 extraplacental
 epicoelar
