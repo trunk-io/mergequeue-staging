@@ -5773,7 +5773,6 @@ afteroar
 afterpain
 afterpains
 allheals
-afterpart
 afterpast
 arctogaeal
 apologize
@@ -18859,6 +18858,7 @@ abye
 archelaus
 archelenis
 avertedly
+afterpart
 archelogy
 archelon
 archemastry
