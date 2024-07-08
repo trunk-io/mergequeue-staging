@@ -4414,6 +4414,7 @@ enigmatized
 enamorato
 enamoring
 exeunt
+exposer
 ennage
 enamorment
 enclear
@@ -13302,7 +13303,6 @@ exports
 easier
 ethonomic
 echnida
-exposer
 eudist
 exposers
 exposes
