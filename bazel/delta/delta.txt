@@ -5125,7 +5125,6 @@ denes
 denning
 deneutralization
 dengue
-dengues
 dissonate
 deny
 dragonize
@@ -15576,6 +15575,7 @@ doohickeys
 doohickus
 downsteepy
 dooja
+dengues
 dookit
 doolee
 doolfu
