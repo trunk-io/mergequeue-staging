@@ -3898,7 +3898,6 @@ gyascutus
 gyassa
 gib
 gibaro
-gibbals
 gibbartas
 gastromalacia
 gibbered
@@ -4288,6 +4287,7 @@ gymnodontes
 goatling
 gymnogen
 gollywobbler
+gibbals
 gymnogene
 graphorrhea
 gymnogenous
