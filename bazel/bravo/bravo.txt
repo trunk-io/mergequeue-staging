@@ -12077,7 +12077,6 @@ bokmakierie
 bokom
 bola
 bolag
-bolar
 boskages
 bolas
 bolases
@@ -14784,6 +14783,7 @@ breadstuffs
 breadthen
 breadthriders
 breadths
+bolar
 blindedly
 bitting
 breadthways
