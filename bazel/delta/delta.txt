@@ -3689,7 +3689,6 @@ degumming
 degums
 degust
 degustate
-desyl
 degusted
 degusting
 dehair
@@ -5767,6 +5766,7 @@ depolarizing
 depolymerization
 depolymerize
 depolymerized
+desyl
 depolymerizing
 distributive
 depolish

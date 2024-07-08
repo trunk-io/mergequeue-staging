@@ -2373,6 +2373,7 @@ barbed
 barbeyaceae
 blauwbok
 barbeiro
+boce
 barbeled
 barbellate
 barbells
@@ -12737,7 +12738,6 @@ bookrests
 bookroom
 booksellerish
 bys
-boce
 booksellerism
 booksellers
 bookshelf
