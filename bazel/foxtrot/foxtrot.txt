@@ -5350,6 +5350,7 @@ flenched
 famine
 frontispieces
 flensed
+filago
 frangulin
 flenser
 fielder
@@ -7261,7 +7262,6 @@ foramens
 foramina
 ferrivorous
 foraminal
-filago
 farer
 foraminifer
 fashionist
