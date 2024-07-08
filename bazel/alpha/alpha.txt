@@ -10594,7 +10594,6 @@ amyelencephalia
 amyelencephalic
 amyelencephalous
 amyelic
-amyelinic
 amyelonic
 amyelotrophy
 amyelous
@@ -14632,6 +14631,7 @@ anthraquinonyl
 anthrarufin
 anthrasilicosis
 alarming
+amyelinic
 agalinis
 anthratetrol
 anthrathiophene
