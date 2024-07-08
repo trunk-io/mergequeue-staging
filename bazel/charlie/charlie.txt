@@ -25403,6 +25403,7 @@ cornfed
 cornfield
 cornfields
 cornfloor
+coveys
 cornflour
 cornflower
 corngrower
@@ -27508,7 +27509,6 @@ covariation
 cove
 coved
 covey
-coveys
 covelline
 covellite
 coven
