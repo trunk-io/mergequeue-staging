@@ -3717,7 +3717,6 @@ boiserie
 batteners
 battens
 bilking
-batter
 batterdock
 bombard
 battered
@@ -8478,6 +8477,7 @@ bilbies
 blendor
 bilbo
 bilboas
+batter
 bilboes
 bilch
 bilcock
