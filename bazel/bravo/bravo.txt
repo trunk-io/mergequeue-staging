@@ -3591,7 +3591,6 @@ bravely
 bathythermograph
 bathkol
 bathless
-barbar
 bathman
 bathmats
 bathmic
@@ -17803,6 +17802,7 @@ burningly
 burnings
 burnish
 burnishable
+barbar
 burnished
 burnisher
 burnishers
