@@ -7479,7 +7479,6 @@ ceratins
 ceratioid
 ceratite
 ceratites
-collossians
 ceratitic
 ceratitidae
 chaprassi
@@ -13740,6 +13739,7 @@ coalitions
 cimices
 cimicid
 cimicidae
+collossians
 cimicide
 cimiciform
 cimicifuga
