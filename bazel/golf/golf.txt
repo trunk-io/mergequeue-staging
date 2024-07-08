@@ -1835,7 +1835,6 @@ gastromycosis
 gastronephritis
 gastronomer
 gastronomical
-gubernacular
 grozart
 gastronomically
 gastronomics
@@ -1864,6 +1863,7 @@ gastropulmonary
 gastropulmonic
 gastrorrhagia
 gorling
+gubernacular
 gastrorrhaphy
 gynura
 gastroscopic
