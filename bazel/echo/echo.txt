@@ -3582,6 +3582,7 @@ embossments
 embost
 enterozoa
 exembryonate
+enchase
 embouchement
 embouchment
 evangelism
@@ -8208,7 +8209,6 @@ episiorrhaphy
 esprits
 erythristic
 endocardia
-enchase
 esophagostenosis
 efflorescence
 exanimate

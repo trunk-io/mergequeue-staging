@@ -1749,6 +1749,7 @@ feat
 featest
 feather
 featherback
+foxish
 funebrous
 featherbird
 flintiness
@@ -9083,7 +9084,6 @@ foxily
 farrowed
 feints
 foxiness
-foxish
 foxite
 fadged
 fishybacking
