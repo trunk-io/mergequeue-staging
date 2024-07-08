@@ -6493,7 +6493,6 @@ cearin
 ceaseless
 chausses
 ceaselessly
-ceaselessness
 ceases
 ceasing
 chiefess
@@ -30760,6 +30759,7 @@ cully
 cullibility
 cullies
 countercolored
+ceaselessness
 cullying
 culling
 cullion
