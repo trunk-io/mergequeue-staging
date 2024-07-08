@@ -5182,7 +5182,6 @@ diplomyelia
 denizen
 denizenation
 denizened
-denizening
 denizenize
 denizens
 diquats
@@ -8405,6 +8404,7 @@ dialogue
 dopes
 devesting
 dialogued
+denizening
 dialogues
 dialoguing
 dialonian
