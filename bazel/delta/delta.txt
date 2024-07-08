@@ -1496,6 +1496,7 @@ deactivated
 discontinuing
 deactivating
 downbend
+dialystaminous
 deactivation
 deactivations
 deactivator
@@ -8338,7 +8339,6 @@ defoliations
 dialysers
 dialysing
 dialysis
-dialystaminous
 dissert
 dialystely
 diatonical
