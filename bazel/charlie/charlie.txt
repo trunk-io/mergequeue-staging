@@ -4190,6 +4190,7 @@ carful
 carfuls
 carga
 cargador
+congou
 cargadores
 cargason
 cargo
@@ -22352,7 +22353,6 @@ congoese
 congoni
 congos
 carceral
-congou
 congous
 congrats
 congratulable
