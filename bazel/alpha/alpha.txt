@@ -6820,6 +6820,7 @@ aigialosaur
 aigialosauridae
 aigialosaurus
 aiglet
+aquarial
 aiglets
 aiglette
 aigre
@@ -18238,7 +18239,6 @@ aquarelles
 aquarellist
 aquaria
 acquisitions
-aquarial
 aquarian
 aquarians
 aquarid
