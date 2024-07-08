@@ -6532,6 +6532,7 @@ boid
 busyness
 bepuzzle
 bequalm
+boomster
 bequeath
 bequeathable
 bequeathal
@@ -12778,7 +12779,6 @@ boomlets
 booms
 boomslang
 boomslange
-boomster
 boon
 brumalia
 boondock
