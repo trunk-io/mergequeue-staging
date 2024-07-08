@@ -1363,7 +1363,6 @@ acantholysis
 acanthology
 acanthological
 acanthoma
-acanthon
 apocryph
 aristologist
 acanthopanax
@@ -12635,6 +12634,7 @@ aneles
 aneling
 aneurisms
 abenteric
+acanthon
 anelytrous
 anematizing
 anematosis
