@@ -13207,7 +13207,6 @@ bossdom
 baldachinos
 bossed
 beacons
-biomicroscopy
 bosseyed
 bosselated
 blastomycin
@@ -17591,6 +17590,7 @@ burfish
 burg
 burga
 burgage
+biomicroscopy
 burgality
 burgall
 bearers
