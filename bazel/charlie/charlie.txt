@@ -8222,7 +8222,6 @@ chainlike
 chainmaker
 chainmaking
 chainman
-chainomatic
 chainon
 chainsman
 chenier
@@ -24176,6 +24175,7 @@ convertive
 convertoplane
 convertor
 convertors
+chainomatic
 conveth
 convex
 convexed
