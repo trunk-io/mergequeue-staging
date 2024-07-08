@@ -1962,7 +1962,6 @@ butterers
 bandit
 baltimorean
 banditism
-banditry
 bandits
 banditti
 bandle
@@ -2126,6 +2125,7 @@ bickered
 bankmen
 banknote
 bankrider
+banditry
 bankroll
 bankrupcy
 bureaucratese
