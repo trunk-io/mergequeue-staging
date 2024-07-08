@@ -4919,7 +4919,6 @@ dormancies
 demoralise
 demoralised
 delocalizing
-demoraliser
 demoralising
 demoralization
 demoralize
@@ -12483,6 +12482,7 @@ dipropellant
 disinfective
 disinfector
 dummied
+demoraliser
 dimagnesic
 disinfestant
 disinfestation
