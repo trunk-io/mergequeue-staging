@@ -12212,7 +12212,6 @@ anatomicobiological
 anatomicopathologic
 anatomicophysiologic
 ambidextral
-anatomicophysiological
 anatomicosurgical
 anatomies
 anatomisation
@@ -17334,6 +17333,7 @@ apologies
 apologise
 apologiser
 apologising
+anatomicophysiological
 autorail
 apologist
 apologists
