@@ -1700,6 +1700,7 @@ accommodators
 accomodate
 accompanable
 accompany
+alcoholemia
 arrivage
 accompanied
 accompanier
@@ -7782,7 +7783,6 @@ alcohate
 alphabetology
 alcohol
 alcoholature
-alcoholemia
 alcoholicity
 alcoholics
 animalhood
