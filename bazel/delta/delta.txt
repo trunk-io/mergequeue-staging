@@ -378,7 +378,6 @@ daylights
 daylily
 dailiness
 daylit
-dayman
 dhunchi
 daymare
 digestional
@@ -3673,6 +3672,7 @@ degreed
 degreeing
 degreeless
 degrees
+dayman
 degreewise
 degressive
 degressively
