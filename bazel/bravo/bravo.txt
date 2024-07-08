@@ -1304,7 +1304,6 @@ broderie
 batiker
 balanite
 balanites
-balanocele
 balanoid
 boteroll
 balanophoraceous
@@ -10254,6 +10253,7 @@ bladesmith
 bladewise
 bookbinding
 bladygrass
+balanocele
 blading
 blae
 blaeberries
