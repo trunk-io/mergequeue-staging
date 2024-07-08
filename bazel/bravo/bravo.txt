@@ -1867,7 +1867,6 @@ barley
 bananaland
 bananalander
 bananas
-banande
 bananist
 bananivorous
 banat
@@ -7998,6 +7997,7 @@ bichir
 bichloride
 bichlorides
 bulbocapnine
+banande
 bichord
 bichromate
 busthead
