@@ -6047,7 +6047,6 @@ groundlessness
 gammoner
 glow
 girnel
-glowbard
 glowbird
 glowed
 glower
@@ -8341,6 +8340,7 @@ gentianic
 groucho
 grassmen
 gonyoncus
+glowbard
 grassnut
 grassplat
 guahivo
