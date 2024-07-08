@@ -11337,7 +11337,6 @@ chloritization
 chloritize
 chlorize
 chlormethane
-chlormethylic
 chlornal
 chloroacetate
 chloroacetone
@@ -17915,6 +17914,7 @@ codirector
 commonish
 codirectorship
 codirects
+chlormethylic
 codiscoverer
 codisjunct
 codist
