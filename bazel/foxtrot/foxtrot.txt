@@ -1101,7 +1101,6 @@ farnesses
 faro
 fleyland
 flaccidly
-fantastry
 foremast
 faroese
 faros
@@ -8447,6 +8446,7 @@ feedable
 formylated
 formylating
 formin
+fantastry
 freeholds
 forminate
 fixtures
