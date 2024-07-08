@@ -4046,7 +4046,6 @@ burntweed
 bulletining
 beamless
 bowpin
-beamlet
 beamroom
 beamsman
 beamster
@@ -14921,6 +14920,7 @@ bredes
 bredestitch
 bredi
 betainogen
+beamlet
 breech
 breechblock
 breechcloth
