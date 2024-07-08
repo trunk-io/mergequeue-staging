@@ -13221,6 +13221,7 @@ cicadid
 cicadidae
 cycadiform
 cycadite
+cubicontravariant
 cyanidrosis
 cycadofilicale
 cycadofilicales
@@ -30475,7 +30476,6 @@ cubicalness
 chalcidid
 cubicle
 cubicone
-cubicontravariant
 cubicovariant
 cubics
 costly
