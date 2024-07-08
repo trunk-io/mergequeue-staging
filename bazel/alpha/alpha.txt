@@ -10170,7 +10170,6 @@ ambles
 amblyacousia
 amblycephalidae
 antedorsal
-amblychromatic
 amblydactyla
 affriended
 amblygeusia
@@ -12955,6 +12954,7 @@ angioneoplasm
 angioneurosis
 angioneurotic
 angionoma
+amblychromatic
 angioparalytic
 angioparesis
 angiopathy

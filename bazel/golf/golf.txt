@@ -2543,7 +2543,6 @@ gestening
 gemologies
 gemologist
 gemologists
-gemonies
 gemot
 gemots
 gems
@@ -5639,6 +5638,7 @@ glissando
 gybe
 gompholobium
 gowning
+gemonies
 grapeless
 gebur
 gubbin
