@@ -4258,7 +4258,6 @@ beauties
 beautify
 be
 beautified
-beautifier
 biriba
 beautifiers
 beautifies
@@ -6009,6 +6008,7 @@ bemuddling
 bemuffle
 benzoid
 backsite
+beautifier
 bemurmure
 bemurmured
 bemurmuring
