@@ -4938,7 +4938,6 @@ beent
 beento
 beep
 beeped
-beeper
 beepers
 beflout
 beeping
@@ -16663,6 +16662,7 @@ bucrane
 backbit
 bucrania
 bucranium
+beeper
 bud
 buda
 buddage
