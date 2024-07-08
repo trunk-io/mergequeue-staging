@@ -644,6 +644,7 @@ faltered
 falterer
 falteringly
 finicality
+foreknowledge
 flaggingly
 falters
 falun
@@ -7711,7 +7712,6 @@ foreknowableness
 foreknower
 foreknowing
 foreknowingly
-foreknowledge
 foreknown
 foreknows
 festoons

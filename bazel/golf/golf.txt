@@ -2584,7 +2584,6 @@ genteelize
 genealogic
 guberniya
 grandfatherish
-genealogical
 glibber
 genealogists
 gladdener
@@ -3239,6 +3238,7 @@ georgian
 georgiana
 guiding
 gaslock
+genealogical
 gazetteer
 geiger
 georgians
