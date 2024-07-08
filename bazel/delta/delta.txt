@@ -4406,7 +4406,6 @@ demasculinise
 demasculinised
 demasculinising
 demasculinization
-demasculinized
 demasculinizing
 demast
 demasted
@@ -10546,6 +10545,7 @@ diplantidian
 diplarthrism
 diplarthrous
 diplasion
+demasculinized
 diplegia
 diplegias
 diarsenide

@@ -1793,6 +1793,7 @@ baltimorite
 baltis
 balu
 baluba
+billhead
 baluch
 brittle
 barytone
@@ -8608,7 +8609,6 @@ billfish
 bouillons
 billfolds
 buicks
-billhead
 billheading
 billheads
 billholder
