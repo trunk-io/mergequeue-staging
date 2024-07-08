@@ -3967,6 +3967,7 @@ emission
 emissive
 emissory
 emittance
+escapes
 emitted
 eisegeses
 entreaty
@@ -9497,7 +9498,6 @@ escapeless
 electuaries
 escapement
 escaper
-escapes
 electiveness
 escapeway
 enleaf
