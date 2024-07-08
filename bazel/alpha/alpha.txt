@@ -4023,6 +4023,7 @@ adjacently
 adjag
 astigmatometer
 adject
+assertional
 adjection
 adjectional
 acrorhagus
@@ -21701,7 +21702,6 @@ asserters
 asserting
 assertingly
 assertion
-assertional
 assertions
 appreciating
 akwapim
