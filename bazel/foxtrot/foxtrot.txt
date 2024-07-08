@@ -3889,6 +3889,7 @@ fingerberry
 fingerboard
 fingerboards
 fingerer
+foilable
 fructiculture
 fingerers
 faldistory
@@ -9986,7 +9987,6 @@ frig
 frigage
 frigate
 frigates
-foilable
 fanakalo
 frigatoon
 februarius

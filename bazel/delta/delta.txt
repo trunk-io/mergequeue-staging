@@ -1709,6 +1709,7 @@ disappears
 dioestrum
 deathrate
 deceivable
+desuvre
 deathrates
 deathroot
 deaths
@@ -7468,7 +7469,6 @@ deuterocone
 demiseason
 deuterodome
 dealer
-desuvre
 deuterofibrinose
 deuterogamy
 deuterogelatose
