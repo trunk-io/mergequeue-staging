@@ -2853,7 +2853,6 @@ genonema
 gph
 goniometrical
 gunbuilder
-grizzling
 genotype
 granulose
 genotypical
@@ -3276,6 +3275,7 @@ garote
 geostationary
 gluttonism
 geldability
+grizzling
 geostrategy
 gossamery
 geostrophic
