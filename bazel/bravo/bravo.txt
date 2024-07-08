@@ -13855,7 +13855,6 @@ bowwows
 box
 boxball
 bote
-boxberry
 bookcase
 boxberries
 boggin
@@ -17388,6 +17387,7 @@ bakie
 bungarus
 bungee
 bungey
+boxberry
 bravados
 bungerly
 bungfull
