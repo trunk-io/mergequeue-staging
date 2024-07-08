@@ -2882,7 +2882,6 @@ frostbit
 frixion
 fevertwig
 fratority
-feverweed
 feverwort
 few
 fewmets
@@ -8082,6 +8081,7 @@ fuddledness
 forwardal
 featurely
 foreuse
+feverweed
 foreutter
 forevalue
 fittable
