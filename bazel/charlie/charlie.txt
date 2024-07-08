@@ -13104,7 +13104,6 @@ cyanogenetic
 cyanogenic
 cyanogens
 cyanohydrin
-cyanol
 cyanole
 cyanomaclurin
 cyanometer
@@ -24490,6 +24489,7 @@ cosalite
 cooser
 coosers
 coost
+cyanol
 clairaudient
 coosuc
 contraremonstrant
