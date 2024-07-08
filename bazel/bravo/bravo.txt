@@ -757,6 +757,7 @@ baculums
 baculus
 bacury
 bad
+bizardite
 badaga
 busload
 badan
@@ -10032,7 +10033,6 @@ byzantinize
 byzantium
 byzants
 bedrench
-bizardite
 bizarre
 bizarrerie
 bitterless
