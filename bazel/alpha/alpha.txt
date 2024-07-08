@@ -11836,7 +11836,6 @@ analcimite
 analcite
 analcites
 adipocere
-analcitite
 analecta
 abnormal
 analemma
@@ -14962,6 +14961,7 @@ abrege
 anticapitalistic
 anticapitalists
 anticar
+analcitite
 anticardiac
 anticardium
 anticarnivorous
