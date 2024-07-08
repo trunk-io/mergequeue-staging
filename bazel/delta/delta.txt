@@ -3398,6 +3398,7 @@ deflections
 deflective
 deflector
 deflectors
+dover
 devilbird
 deflects
 deflesh
@@ -12095,7 +12096,6 @@ disequilibrate
 delinquent
 dele
 draper
-dover
 dirty
 disequilibration
 disequilibria
