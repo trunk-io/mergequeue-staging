@@ -731,6 +731,7 @@ danceability
 danceable
 danced
 dancer
+dethronable
 danceress
 dancers
 dancettee
@@ -7300,7 +7301,6 @@ driveboat
 detesters
 detests
 dethyroidism
-dethronable
 deuterostome
 dissipated
 diastral
