@@ -2446,7 +2446,6 @@ fernleaf
 fovea
 fusiform
 fernseed
-fibratus
 faucalize
 fernticle
 ferocactus
@@ -5402,6 +5401,7 @@ fattest
 fleur
 farted
 fleuret
+fibratus
 frontpiece
 fleurette
 fleury
