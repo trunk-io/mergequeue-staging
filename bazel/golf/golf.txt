@@ -2657,6 +2657,7 @@ generals
 generalships
 generalty
 gooroo
+gmelinite
 generant
 glances
 gallingness
@@ -6255,7 +6256,6 @@ gluttonously
 gluttons
 gm
 gmelina
-gmelinite
 geonoma
 gnaphalioid
 gnaphalium
