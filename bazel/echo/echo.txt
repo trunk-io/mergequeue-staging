@@ -4338,7 +4338,6 @@ emulsifiers
 emulsifying
 extermine
 epigenesis
-emulsionize
 emulsoid
 exterminable
 emulsoidal
@@ -4900,6 +4899,7 @@ entoilment
 encrinital
 encrinite
 encrinitic
+emulsionize
 encrinitical
 encrinoid
 encryption
