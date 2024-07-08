@@ -2415,6 +2415,7 @@ duo
 decipherably
 deciphered
 decipherer
+destructuralize
 deciphering
 deciphers
 decipium
@@ -7081,7 +7082,6 @@ duumvir
 destructor
 destructory
 destructs
-destructuralize
 destrudo
 destuff
 destuffing
