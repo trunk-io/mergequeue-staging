@@ -17369,7 +17369,6 @@ aponeuroses
 aponeurosis
 aponeurositis
 alliterations
-aponeurotome
 antivirus
 anodontia
 autoregressive
@@ -21544,6 +21543,7 @@ aspirer
 archont
 aspirers
 aspires
+aponeurotome
 ambulacrum
 aspirin
 aspiring
