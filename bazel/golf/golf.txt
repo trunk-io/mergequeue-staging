@@ -7889,7 +7889,6 @@ gemmiparity
 gagor
 gaddish
 grampuses
-grams
 gumless
 granada
 granadilla
@@ -9732,6 +9731,7 @@ grush
 grutch
 gutter
 gossipper
+grams
 griffith
 grutching
 grutten
