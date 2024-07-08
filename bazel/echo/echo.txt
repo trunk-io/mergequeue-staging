@@ -5007,6 +5007,7 @@ enddamaging
 endear
 effector
 endearance
+epitomate
 endearedly
 endearing
 enaliosaur
@@ -8399,7 +8400,6 @@ epitympa
 epitympanum
 epityphlon
 experienceless
-epitomate
 excubittoria
 earned
 exacerbescent
