@@ -5243,6 +5243,7 @@ endopod
 endometria
 endometrial
 endometriosis
+epithumetic
 endometritis
 endomycetaceae
 endomictic
@@ -8393,7 +8394,6 @@ epithi
 epithyme
 epithymetic
 epithymetical
-epithumetic
 epitimesis
 epitympa
 epitympanum
