@@ -1358,6 +1358,7 @@ fulvous
 fathercraft
 fathered
 fatherkin
+fevers
 fatherland
 frogged
 folkmoot
@@ -6794,7 +6795,6 @@ folcgemot
 forestery
 foremessenger
 founding
-fevers
 fluorid
 foresettle
 foldaway
