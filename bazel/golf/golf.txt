@@ -5722,7 +5722,6 @@ globy
 globicephala
 gorsier
 globigerina
-gymnadeniopsis
 gurdfish
 gyse
 gederite
@@ -6317,6 +6316,7 @@ gujerat
 gnathopodous
 gnathostegite
 grubberies
+gymnadeniopsis
 gnathostomata
 gnathostome
 gnathites
