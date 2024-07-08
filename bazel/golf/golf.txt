@@ -1932,6 +1932,7 @@ gatherable
 gastrogenous
 gathered
 gatherer
+glyceryl
 gatherers
 gatherings
 gatherum
@@ -9849,7 +9850,6 @@ gnatty
 guanize
 glorifies
 grizzlier
-glyceryl
 glideness
 guanophore
 guanos

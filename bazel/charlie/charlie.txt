@@ -8255,7 +8255,6 @@ chairmans
 chairmanship
 chairmanships
 chairmen
-chairmender
 curricle
 chairmending
 chayroot
@@ -22958,6 +22957,7 @@ considered
 considering
 consideringly
 considers
+chairmender
 calyptra
 consign
 consignable
