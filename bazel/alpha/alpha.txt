@@ -4309,6 +4309,7 @@ adnoun
 adnouns
 adnumber
 ado
+archform
 adobes
 adobo
 adobos
@@ -18919,7 +18920,6 @@ archflamen
 archflatterer
 archfoe
 archfool
-archform
 archfounder
 azlactone
 appositively
