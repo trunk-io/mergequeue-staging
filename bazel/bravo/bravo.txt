@@ -12241,6 +12241,7 @@ blatter
 benefic
 boltel
 bolter
+brandise
 bolters
 bolthead
 boltheader
@@ -14517,7 +14518,6 @@ brandyman
 benzoglyoxaline
 branding
 brandiron
-brandise
 brandished
 brandisher
 biochron
