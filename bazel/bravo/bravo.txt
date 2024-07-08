@@ -2597,6 +2597,7 @@ barger
 barges
 boehmite
 bargestone
+bibliokleptomaniac
 brevets
 bargham
 barghest
@@ -7411,7 +7412,6 @@ bequeathment
 betrayer
 betraying
 bastardising
-bibliokleptomaniac
 betrayment
 betoss
 betrays
