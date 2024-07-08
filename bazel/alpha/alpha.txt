@@ -3062,6 +3062,7 @@ acroscopic
 acrosome
 acrosomes
 acrosphacelus
+ase
 acrospire
 acrospired
 acrospiring
@@ -18369,7 +18370,6 @@ arabis
 arabist
 albertist
 arabit
-ase
 arabite
 aurigid
 arabitol
