@@ -5257,7 +5257,6 @@ glasslike
 grenadian
 gorfly
 glassman
-glassmen
 ganosis
 glassophone
 glassrope
@@ -8247,6 +8246,7 @@ graphostatics
 glucina
 graphotypic
 ghbor
+glassmen
 graphs
 grapiest
 graping
