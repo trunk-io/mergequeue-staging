@@ -2310,6 +2310,7 @@ electroamalgamation
 electroanalytic
 emersion
 electroanalytical
+epicycloidal
 eructative
 ergosterol
 electroballistics
@@ -7643,7 +7644,6 @@ epicycles
 epicyclic
 epicycloid
 enchiriridia
-epicycloidal
 epicyemate
 epicier
 epicism
