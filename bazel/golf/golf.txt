@@ -1750,7 +1750,6 @@ geoponic
 goaltender
 gastrocolpotomy
 gymel
-gastrodermal
 gingeley
 gamophagia
 gastrodermis
@@ -10650,6 +10649,7 @@ globalize
 guru
 glideless
 gurus
+gastrodermal
 gus
 guser
 guserid
