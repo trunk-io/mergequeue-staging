@@ -20860,7 +20860,6 @@ arusa
 authenticating
 archpapist
 aruspice
-aruspices
 aruspicy
 arvejon
 arvel
@@ -24617,6 +24616,7 @@ avena
 acrasy
 avenage
 avenalin
+aruspices
 avenant
 avenary
 anantherous

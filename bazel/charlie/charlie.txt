@@ -6582,7 +6582,6 @@ cedulas
 cedule
 compartmentalizing
 ceduous
-coadvice
 cee
 ceennacuelum
 cees
@@ -19887,6 +19886,7 @@ comendite
 comephorous
 comes
 comessation
+coadvice
 comestible
 cyclostrophic
 comestibles
