@@ -3279,6 +3279,7 @@ fretfulness
 firefanging
 fieldmen
 fieldmice
+foreturn
 fieldsmen
 fieldstone
 fashery
@@ -4140,7 +4141,6 @@ fireproofed
 fireproofing
 fireproofness
 fireroom
-foreturn
 firerooms
 firers
 firesafe
