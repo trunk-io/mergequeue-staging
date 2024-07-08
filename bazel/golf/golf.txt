@@ -6206,6 +6206,7 @@ glusid
 graecize
 gluside
 geometricize
+gaucher
 guttulae
 glutamate
 glutamates
@@ -9151,7 +9152,6 @@ geechee
 granatite
 gos
 gauge
-gaucher
 gateaux
 gilthead
 gristlier

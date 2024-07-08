@@ -4347,6 +4347,7 @@ adonize
 adonized
 allbone
 anlage
+ancestor
 alls
 azote
 adonizing
@@ -12271,7 +12272,6 @@ atmospherium
 anc
 arteriopalmus
 ancerata
-ancestor
 ancestorially
 ancestors
 atua
