@@ -9577,6 +9577,7 @@ eschoppe
 esclavage
 escoba
 escobadura
+ecphory
 escocheon
 echelle
 escolar
@@ -13459,7 +13460,6 @@ exscind
 exscinded
 epiclastic
 exscinding
-ecphory
 exscinds
 exscribe
 exscript
