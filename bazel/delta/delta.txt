@@ -2784,6 +2784,7 @@ decrements
 decremeter
 decrepit
 decrepitate
+desisted
 decrepitating
 decrepitation
 decrepitness
@@ -6749,7 +6750,6 @@ declaims
 desist
 deictically
 desistance
-desisted
 desistence
 dockmaster
 desisting
