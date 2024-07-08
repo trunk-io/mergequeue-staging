@@ -11806,7 +11806,6 @@ chondrolipoma
 chondrology
 chondroma
 chondromas
-chondromata
 chondromyces
 chondromyoma
 chondromyxoma
@@ -19376,6 +19375,7 @@ colonialism
 colonialist
 colonialistic
 colonialists
+chondromata
 chiaroscuros
 colonialization
 colonialize
