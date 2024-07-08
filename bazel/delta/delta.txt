@@ -7611,6 +7611,7 @@ dyadics
 deviance
 deviances
 dsnames
+ditched
 dominions
 doggrelize
 deviancy
@@ -17925,7 +17926,6 @@ duer
 dues
 dormitary
 damndests
-ditched
 duet
 depascent
 duets
