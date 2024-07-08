@@ -1286,7 +1286,6 @@ ethnobiology
 efface
 effaceable
 effaced
-effacement
 effacer
 exungulate
 effacers
@@ -9355,6 +9354,7 @@ erratums
 eccentring
 estral
 erratuta
+effacement
 erred
 errhine
 elapses
