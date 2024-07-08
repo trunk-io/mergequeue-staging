@@ -5830,6 +5830,7 @@ fraterniser
 flokite
 ferter
 fondish
+fractures
 fonly
 feats
 flon
@@ -9178,7 +9179,6 @@ fractur
 fracturable
 fractural
 fractured
-fractures
 fracturing
 fracturs
 fradicin

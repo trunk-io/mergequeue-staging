@@ -4108,6 +4108,7 @@ delieret
 delegations
 deligated
 durani
+denormalized
 deligation
 delightable
 dichroic
@@ -5208,7 +5209,6 @@ denominationalism
 denominationalist
 denominative
 denominators
-denormalized
 denotable
 denotate
 denotation
