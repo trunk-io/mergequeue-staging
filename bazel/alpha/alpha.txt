@@ -20087,7 +20087,6 @@ addendum
 arnee
 arnement
 arnica
-arnoseris
 arnotta
 arnotto
 arnottos
@@ -21877,6 +21876,7 @@ associations
 associative
 associatively
 associativity
+arnoseris
 associator
 alexandrite
 auxiliarly
