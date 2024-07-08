@@ -12743,7 +12743,6 @@ chronotropic
 chroococcaceae
 chroococcales
 chroococcoid
-chroococcus
 chrosperma
 chrotta
 chteau
@@ -17322,6 +17321,7 @@ coaration
 clicky
 coarb
 cyanidine
+chroococcus
 coarbiter
 coarbitrator
 coarct
