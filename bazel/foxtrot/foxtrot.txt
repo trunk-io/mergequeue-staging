@@ -2509,7 +2509,6 @@ ferrimagnetism
 footcloths
 ferryman
 ferring
-fault
 ferriprussiate
 ferris
 fastball
@@ -8474,6 +8473,7 @@ formula
 floristically
 featness
 formulable
+fault
 formulaically
 formulisation
 formulary
