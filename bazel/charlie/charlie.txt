@@ -3083,7 +3083,6 @@ capillitia
 capillitial
 capillitium
 capillose
-capillus
 capilotade
 caping
 componentwise
@@ -30136,6 +30135,7 @@ californium
 crucifixes
 cruciform
 cruciformity
+capillus
 cruciformly
 crucigerous
 carousel
