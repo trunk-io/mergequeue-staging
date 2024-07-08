@@ -1260,6 +1260,7 @@ abvolt
 abvolts
 anim
 abwatt
+aneuch
 abwatts
 ac
 acacatechin
@@ -12757,7 +12758,6 @@ anethols
 aftersend
 aerodontic
 anetic
-aneuch
 aneuploid
 aneuria
 aneuric
