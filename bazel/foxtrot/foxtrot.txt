@@ -1009,7 +1009,6 @@ farfara
 featheredges
 flix
 faade
-frugalism
 farfels
 farfetch
 fluoroid
@@ -6451,6 +6450,7 @@ fico
 fluoroscopy
 feasant
 focuser
+frugalism
 fluoroscopic
 fluoroscopies
 fluoroscoping
