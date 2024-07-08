@@ -3827,7 +3827,6 @@ ascesis
 adephagous
 australasian
 annihilates
-adeps
 adepter
 amentiform
 authorizable
@@ -21077,6 +21076,7 @@ ascon
 ascones
 asconia
 anthropophagi
+adeps
 asconoid
 ascophyllum
 atropine
