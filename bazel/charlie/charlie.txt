@@ -10227,6 +10227,7 @@ chevesaile
 cramoisie
 chevesne
 cassatas
+costly
 chevet
 chevetaine
 chevies
@@ -30478,7 +30479,6 @@ cubicone
 cubicontravariant
 cubicovariant
 cubics
-costly
 cubicular
 cubiculary
 cubiculo
