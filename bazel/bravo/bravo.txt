@@ -5978,6 +5978,7 @@ bemists
 bemitered
 bemitred
 bemix
+burnup
 bemixes
 bangkok
 boordly
@@ -9251,7 +9252,6 @@ byp
 bipack
 bipacks
 bipaleolate
-burnup
 bipalmate
 biparted
 bipartile
