@@ -593,6 +593,7 @@ gallfly
 geodaesia
 geodesics
 gallflies
+glike
 granitical
 gromwells
 galliambic
@@ -2158,7 +2159,6 @@ gazetted
 gazetteerage
 gazetteerish
 gazetteership
-glike
 gasteralgia
 gazetting
 glamour

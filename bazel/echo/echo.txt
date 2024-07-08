@@ -8605,7 +8605,6 @@ ecalcavate
 equators
 equatorward
 equatorwards
-entreated
 equerries
 escapers
 eques
@@ -11637,6 +11636,7 @@ eviration
 egyptological
 evirtuate
 eviscerated
+entreated
 expy
 euphemious
 entomofauna
