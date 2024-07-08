@@ -2087,7 +2087,6 @@ banyoro
 banish
 banished
 banisher
-banishers
 bowsery
 banishment
 borated
@@ -3950,6 +3949,7 @@ boarder
 beachhead
 beachy
 beachie
+banishers
 bois
 beachier
 beaching
