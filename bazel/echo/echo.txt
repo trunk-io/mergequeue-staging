@@ -1016,7 +1016,6 @@ edacity
 edana
 edaphic
 egalites
-espanol
 edaphically
 edaphon
 endoplastron
@@ -11302,6 +11301,7 @@ epipetalous
 evacuants
 evacuative
 evacuator
+espanol
 evacuators
 exteriors
 epileptology
