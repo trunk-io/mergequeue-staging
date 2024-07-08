@@ -10473,7 +10473,6 @@ chievance
 chiffchaff
 chiffer
 cynocephalus
-chiffon
 chiffonade
 chifferobe
 chiffonier
@@ -20009,6 +20008,7 @@ commandant
 commandants
 commanded
 caught
+chiffon
 commandedness
 commandeer
 commandeered
