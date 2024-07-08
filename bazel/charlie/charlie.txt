@@ -2995,7 +2995,6 @@ capataz
 capax
 capcase
 cape
-cunas
 caped
 capelan
 copperwing
@@ -30479,6 +30478,7 @@ cubicontravariant
 cubicovariant
 cubics
 costly
+cunas
 cubicular
 cubiculary
 cubiculo
