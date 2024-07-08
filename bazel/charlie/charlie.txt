@@ -14616,7 +14616,6 @@ cirsomphalos
 cirsophthalmia
 completable
 cirsotome
-cirsotomy
 cyrtandraceae
 centiliters
 cirterion
@@ -19709,6 +19708,7 @@ colures
 colusite
 colville
 colza
+cirsotomy
 chaucerianism
 comae
 comagistracy

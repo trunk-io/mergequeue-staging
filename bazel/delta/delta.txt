@@ -7871,7 +7871,6 @@ dewaxes
 dewaxing
 dewberry
 dewcap
-dewclawed
 didgeridoo
 dewcup
 dewdamp
@@ -14048,6 +14047,7 @@ demibelt
 districts
 distritbute
 distritbuted
+dewclawed
 distritbutes
 dipneedle
 dystrophy
