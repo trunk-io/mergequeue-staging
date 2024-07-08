@@ -3182,7 +3182,6 @@ guaranteers
 geon
 gabbart
 gangrels
-geonegative
 ghostland
 geonic
 geonim
@@ -6910,6 +6909,7 @@ gynophagite
 gonionia
 glumella
 gimcrackiness
+geonegative
 glioma
 gonystylaceae
 gigant
