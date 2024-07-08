@@ -22,6 +22,7 @@ francolin
 fablemongering
 fabler
 fablers
+flocker
 finity
 fabling
 fabric
@@ -5794,7 +5795,6 @@ floccus
 fraus
 flockbed
 fantasy
-flocker
 fathership
 flockings
 flockless
