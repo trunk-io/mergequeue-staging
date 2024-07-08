@@ -11348,7 +11348,6 @@ chloroanaemia
 concorporate
 chloroaurate
 chloroauric
-chloroaurite
 chlorobenzene
 chlorobromide
 chlorobromomethane
@@ -13753,6 +13752,7 @@ cymlin
 corticosteroids
 cimline
 categorematically
+chloroaurite
 cymling
 cymlings
 chlorophyllaceous
