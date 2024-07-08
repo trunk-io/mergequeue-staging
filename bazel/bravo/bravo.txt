@@ -3753,6 +3753,7 @@ battlefronts
 battleful
 battleground
 battlegrounds
+bareboat
 battlement
 battlemented
 battlepiece
@@ -8597,7 +8598,6 @@ bovicide
 billeters
 billethead
 billety
-bareboat
 backcross
 billeting
 berliner
