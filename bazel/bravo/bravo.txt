@@ -2398,6 +2398,7 @@ benegro
 barbet
 barbets
 barbette
+batoid
 barite
 barbettes
 bispore
@@ -5090,7 +5091,6 @@ baas
 befog
 befogged
 befogging
-batoid
 brigous
 befool
 befoolable
