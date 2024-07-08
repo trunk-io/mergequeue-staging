@@ -1137,7 +1137,6 @@ abstractable
 anniellidae
 abstracted
 abstractedly
-abstracter
 agitation
 abstracters
 abstracting
@@ -21103,6 +21102,7 @@ ascula
 amendableness
 asculae
 ascupart
+abstracter
 animadverting
 autolysin
 ascus
