@@ -14711,7 +14711,6 @@ cysticarpic
 cysticarpium
 cysticerci
 cysticercoid
-cysticercoidal
 cysticercosis
 cysticerus
 cystid
@@ -25514,6 +25513,7 @@ corolitic
 corybantine
 craniom
 coroll
+cysticercoidal
 corolla
 corollaceous
 corollary
