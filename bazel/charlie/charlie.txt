@@ -415,7 +415,6 @@ coresign
 cadaster
 cadasters
 cangler
-cadastral
 churnstaff
 cadastration
 cadastre
@@ -20732,6 +20731,7 @@ complementaries
 cackles
 conformed
 complementariness
+cadastral
 celebre
 complementarism
 complementarity
