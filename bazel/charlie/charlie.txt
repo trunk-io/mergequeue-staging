@@ -5632,7 +5632,6 @@ catarrhs
 catasarka
 catheretic
 catasetum
-cataspilite
 catasta
 catastaltic
 catastases
@@ -21088,6 +21087,7 @@ computationally
 computations
 cysticercerci
 computative
+cataspilite
 computatively
 computativeness
 compute
