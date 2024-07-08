@@ -14189,7 +14189,6 @@ cypris
 cyproheptadine
 cyproterone
 cyprus
-cypsela
 cypseli
 chinologist
 cypselid
@@ -18913,6 +18912,7 @@ colistins
 colytic
 commatism
 colitis
+cypsela
 colitises
 colitoxemia
 curchef
