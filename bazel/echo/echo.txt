@@ -5742,7 +5742,6 @@ engystomatidae
 engjateigur
 endyma
 englacial
-englacially
 endues
 england
 englander
@@ -6479,6 +6478,7 @@ ensuance
 ensuant
 ebcdic
 ensues
+englacially
 ensuing
 electrochemically
 emarcid
