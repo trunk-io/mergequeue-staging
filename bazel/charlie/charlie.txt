@@ -1218,7 +1218,6 @@ calibrate
 calibrater
 calibrates
 calibrating
-calibration
 calibrations
 calibrators
 causes
@@ -16230,6 +16229,7 @@ criminalness
 climatographical
 climatology
 climatologic
+calibration
 climatological
 climatologically
 climatologist
