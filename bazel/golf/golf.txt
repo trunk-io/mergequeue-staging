@@ -1260,7 +1260,6 @@ goods
 gaumish
 gantlopes
 gruffing
-gantry
 gantryman
 gorebill
 gantsl
@@ -4909,6 +4908,7 @@ germiculture
 gayety
 gazehound
 gite
+gantry
 gyte
 gravamen
 giterne
