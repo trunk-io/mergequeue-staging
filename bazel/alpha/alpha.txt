@@ -13744,7 +13744,6 @@ annotates
 acker
 annotating
 annotation
-annotatively
 annotativeness
 annotator
 annotators
@@ -17941,6 +17940,7 @@ appraisive
 apprecate
 appreciate
 appreciated
+annotatively
 anakes
 afric
 accouple
