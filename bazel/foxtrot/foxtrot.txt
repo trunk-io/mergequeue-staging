@@ -1803,7 +1803,6 @@ featurette
 featuring
 featurish
 feaze
-feazed
 feazing
 febres
 febricant
@@ -6705,6 +6704,7 @@ fogeater
 fogey
 fogfruit
 foggages
+feazed
 fogged
 fogger
 fruited
