@@ -5071,7 +5071,6 @@ befleas
 bulrushlike
 burgul
 beflecked
-beflecking
 busier
 beflecks
 beflounce
@@ -18395,6 +18394,7 @@ buzzwigs
 buzzword
 buzzwords
 bvt
+beflecking
 bwana
 banishing
 bullyrook
