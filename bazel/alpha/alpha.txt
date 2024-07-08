@@ -3250,6 +3250,7 @@ actinula
 actinulae
 actionability
 actionably
+adherent
 assoc
 actionary
 actioner
@@ -3878,7 +3879,6 @@ adherences
 adherency
 adherend
 adherends
-adherent
 adherently
 adherents
 adherer
