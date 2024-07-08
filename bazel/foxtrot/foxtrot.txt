@@ -978,7 +978,6 @@ farcinoma
 farctate
 fard
 fabes
-fardage
 foliaging
 freesia
 farded
@@ -10282,6 +10281,7 @@ frogginess
 froggish
 froghood
 froghopper
+fardage
 frogleaf
 frogleg
 finkel

@@ -13173,7 +13173,6 @@ cyathus
 cibaria
 combinative
 cibarian
-cibaries
 cibarium
 cibation
 cibbaria
@@ -28809,6 +28808,7 @@ cresive
 cresol
 cresolin
 cormel
+cibaries
 cresoline
 cresorcin
 cresorcinol
