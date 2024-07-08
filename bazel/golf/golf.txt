@@ -5618,7 +5618,6 @@ gadroons
 gasometrical
 gonake
 glyptographic
-glyptolith
 glyptology
 grayhair
 granum
@@ -5897,6 +5896,7 @@ glossaries
 galangal
 glimpser
 ghanaians
+glyptolith
 glovey
 gweducs
 geums
