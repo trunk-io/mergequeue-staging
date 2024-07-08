@@ -2189,7 +2189,6 @@ becard
 banquet
 blader
 basenet
-banqueted
 banqueting
 banquets
 ballote
@@ -2919,6 +2918,7 @@ barrace
 barrack
 bluntie
 barracked
+banqueted
 barracker
 barracking
 barraclade
