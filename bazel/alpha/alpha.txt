@@ -8009,6 +8009,7 @@ alerter
 arrivederci
 alerters
 alertest
+aestivation
 alerting
 alertly
 alertness
@@ -12450,7 +12451,6 @@ andesite
 andesytes
 andesitic
 andevo
-aestivation
 andhra
 andi
 andy
