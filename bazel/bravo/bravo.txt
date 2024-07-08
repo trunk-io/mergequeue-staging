@@ -13266,7 +13266,6 @@ brooking
 biogenetic
 botanises
 balnea
-botanist
 botanize
 botanizer
 botanizing
@@ -15843,6 +15842,7 @@ bizarreness
 bromoauric
 bouncier
 bromochloromethane
+botanist
 bromocyanid
 bromocyanidation
 burkite
