@@ -796,6 +796,7 @@ eiffel
 eddo
 ecrase
 ecraseur
+entomostracan
 ecraseurs
 ecrasite
 ecrevisse
@@ -6921,7 +6922,6 @@ entomophthoraceous
 eschalot
 entomophthorous
 entomosporium
-entomostracan
 entomotaxy
 entomotomy
 entone
