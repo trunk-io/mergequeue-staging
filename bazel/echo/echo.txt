@@ -361,7 +361,6 @@ endpoints
 ebcd
 electrodesiccate
 ebdomade
-eradiate
 elasmosaurus
 ebenaceous
 encrusts
@@ -527,6 +526,7 @@ epitheliotoxin
 equimolecular
 echappee
 echar
+eradiate
 echard
 elaeococca
 eched
