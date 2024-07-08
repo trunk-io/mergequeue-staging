@@ -7161,6 +7161,7 @@ film
 footpaths
 finises
 footpick
+featherdom
 footpound
 footpounds
 flanderkin
@@ -8139,7 +8140,6 @@ flintlocks
 forfare
 forfars
 forfault
-featherdom
 forfeitableness
 frisbees
 forfeiter
