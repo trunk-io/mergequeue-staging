@@ -2619,7 +2619,6 @@ engyscope
 expensive
 erythromania
 estramazone
-electroscopic
 electrosensitive
 electroshocks
 electrosynthetically
@@ -5142,6 +5141,7 @@ eleutheromaniac
 epeidia
 endocyst
 endocystitis
+electroscopic
 epistlar
 endocytosis
 earthsmoke
