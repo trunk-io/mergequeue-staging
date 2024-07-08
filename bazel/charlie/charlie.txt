@@ -16513,7 +16513,6 @@ cloacas
 cloacean
 cloacinean
 chs
-cloacitis
 cawky
 cloakage
 cloaked
@@ -30573,6 +30572,7 @@ charles
 cuculliform
 cucullus
 cuculoid
+cloacitis
 cuculus
 cucumaria
 cucumber
