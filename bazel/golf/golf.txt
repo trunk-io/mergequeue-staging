@@ -2848,7 +2848,6 @@ genoise
 genome
 goatlike
 genomic
-genoms
 genonema
 gph
 goniometrical
@@ -5197,6 +5196,7 @@ goodless
 gypsologist
 glans
 glared
+genoms
 glareless
 goos
 glareola
