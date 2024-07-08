@@ -6613,7 +6613,6 @@ foam
 foambow
 foamed
 foamer
-foamflower
 flavescence
 foamy
 foamier
@@ -8088,6 +8087,7 @@ fittable
 fieldman
 forever
 forevermore
+foamflower
 foreverness
 forevision
 foursome
