@@ -9584,6 +9584,7 @@ births
 bisque
 birthstones
 birthwort
+besmudged
 bysacki
 bisacromial
 bisagre
@@ -17966,7 +17967,6 @@ bivium
 bushelers
 bushelfuls
 beseeched
-besmudged
 busheling
 bushelling
 bushelman
