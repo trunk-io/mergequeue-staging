@@ -6586,6 +6586,7 @@ entered
 enterer
 enterfeat
 entergogenic
+eucarida
 enteria
 enseam
 enteric
@@ -10677,7 +10678,6 @@ epeirogenesis
 eucalyptography
 eucalyptol
 eclegma
-eucarida
 eucaryote
 eucarpic
 enweb
