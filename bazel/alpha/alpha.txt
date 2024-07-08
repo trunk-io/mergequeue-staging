@@ -3358,7 +3358,6 @@ acuity
 acuities
 aculea
 antizymic
-aculeae
 aculeata
 abbozzo
 aculeated
@@ -5592,6 +5591,7 @@ afley
 anhydrosis
 aflow
 afluking
+aculeae
 aflutter
 auscultations
 apetalose
