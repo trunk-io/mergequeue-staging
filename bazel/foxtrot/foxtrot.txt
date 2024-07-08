@@ -5451,6 +5451,7 @@ feelers
 flyback
 fruiting
 flybane
+freycinetia
 flibbertigibbet
 flibbertigibbety
 flybelt
@@ -9472,7 +9473,6 @@ flatus
 fraught
 fraughting
 fraughts
-freycinetia
 fraulein
 frauleins
 faba
