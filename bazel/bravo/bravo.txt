@@ -1216,6 +1216,7 @@ bakerly
 bakerlike
 boleros
 bakers
+barrels
 baggit
 bustics
 beslaver
@@ -2982,7 +2983,6 @@ barrelled
 barrelling
 barrelmaking
 ballistics
-barrels
 boomable
 barrelsful
 brigantines
