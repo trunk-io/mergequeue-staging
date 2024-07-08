@@ -1804,7 +1804,6 @@ eyeleting
 eyelets
 eyeletter
 eyeletting
-eyelid
 engining
 eyelight
 earscrew
@@ -13805,6 +13804,7 @@ easternizing
 extramodal
 expressure
 extraction
+eyelid
 extractions
 extractive
 extractively
