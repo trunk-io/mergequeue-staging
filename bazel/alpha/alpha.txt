@@ -6577,7 +6577,6 @@ agric
 azotizes
 archscoundrel
 abiuret
-agricolist
 agricolous
 agriculturalist
 alaudine
@@ -16161,6 +16160,7 @@ aerologic
 apprentices
 antireacting
 antireaction
+agricolist
 allophanates
 antireactionary
 antireactionaries
