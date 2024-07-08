@@ -2346,6 +2346,7 @@ barbarize
 barbarous
 barbarously
 barbarousness
+beneficiate
 barbasco
 barbascoes
 bedsheets
@@ -6133,7 +6134,6 @@ beneficialness
 beneficiary
 beneficiaries
 beneficiaryship
-beneficiate
 beneficiated
 beneficiating
 beneficiation
