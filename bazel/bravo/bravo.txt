@@ -1948,7 +1948,6 @@ bandhor
 bandhu
 bandi
 bandy
-begulfing
 bandyball
 bandicoy
 bandicoot
@@ -4443,6 +4442,7 @@ beclothe
 beclothed
 beclothes
 becloud
+begulfing
 beclouded
 beclouding
 beclout
