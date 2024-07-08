@@ -3852,7 +3852,6 @@ gazometer
 ghostwrites
 ghostwriting
 ghostwritten
-ghostwrote
 granitizing
 ghoul
 gretel
@@ -6197,6 +6196,7 @@ glunches
 guildry
 gradualistic
 glunching
+ghostwrote
 gluneamie
 guereza
 graphologies
