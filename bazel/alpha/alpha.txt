@@ -4463,6 +4463,7 @@ adrenalone
 adrenals
 adrench
 adrenergic
+animallike
 adrenin
 adrenochrome
 adrenocortical
@@ -13325,7 +13326,6 @@ animalize
 animalized
 animalizing
 animally
-animallike
 animalness
 animals
 anglicisms
