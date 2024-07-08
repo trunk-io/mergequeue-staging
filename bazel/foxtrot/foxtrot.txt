@@ -5597,6 +5597,7 @@ findable
 forepaws
 frayn
 flypaper
+fosters
 ferns
 fixedly
 flypapers
@@ -9604,7 +9605,6 @@ freehold
 freeholder
 freeholdership
 freeholding
-fosters
 freeing
 flashiest
 freeings
