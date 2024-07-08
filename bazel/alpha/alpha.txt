@@ -5369,7 +5369,6 @@ affectionless
 affections
 affectious
 affective
-affectively
 anfractuous
 affectless
 affectlessness
@@ -9128,6 +9127,7 @@ acicular
 allower
 aseptol
 allowing
+affectively
 anhingas
 alloxan
 alloxanate

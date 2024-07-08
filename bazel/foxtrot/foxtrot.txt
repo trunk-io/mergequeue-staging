@@ -1017,6 +1017,7 @@ floorway
 funicule
 farfetched
 farfugium
+fregatidae
 fargite
 fargood
 farhand
@@ -4014,7 +4015,6 @@ finns
 fino
 furcular
 fins
-fregatidae
 fintadores
 fantigue
 ferth
