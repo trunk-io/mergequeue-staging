@@ -11147,6 +11147,7 @@ disarticulator
 disasinize
 disassemble
 disassembled
+downsized
 disassembler
 disassembles
 disassembly
@@ -16372,7 +16373,6 @@ downsinking
 downsitting
 disgown
 dysmeristic
-downsized
 downsizes
 dreep
 downslide
