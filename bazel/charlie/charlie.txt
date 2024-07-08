@@ -5137,6 +5137,7 @@ casing
 cytomorphosis
 casings
 casino
+consist
 casinos
 casiri
 casita
@@ -22994,7 +22995,6 @@ consimilate
 consimilated
 consimile
 consisently
-consist
 consisted
 consistence
 consistences
