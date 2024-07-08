@@ -3622,6 +3622,7 @@ bathroomed
 bathrooms
 bathroot
 baron
+beacher
 bathtub
 by
 bathtubs
@@ -3942,7 +3943,6 @@ beachdrops
 beached
 brasserie
 basiation
-beacher
 beaches
 beachfront
 barbwires

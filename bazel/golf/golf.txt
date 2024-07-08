@@ -5504,7 +5504,6 @@ gudge
 glycollate
 guigne
 glycols
-glycoluric
 glycoluril
 gnarl
 glyconean
@@ -5969,6 +5968,7 @@ glossolalia
 glossolaryngeal
 glossoncus
 glossopalatine
+glycoluric
 girdlestead
 gametophagia
 goniotropous
