@@ -5027,7 +5027,6 @@ fieldfare
 foliobranchiate
 flatfoot
 flatfooted
-flatfootedly
 flatfooting
 flathat
 flathead
@@ -6941,6 +6940,7 @@ follying
 fostered
 follily
 followed
+flatfootedly
 followers
 friezer
 followeth
