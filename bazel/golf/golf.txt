@@ -2198,6 +2198,7 @@ gnomons
 gravigrade
 gazy
 gutterwise
+genoveva
 gambodic
 gearcase
 gearcases
@@ -9067,7 +9068,6 @@ goldseed
 grinnie
 grins
 griot
-genoveva
 gobbles
 glimmer
 gypsite
