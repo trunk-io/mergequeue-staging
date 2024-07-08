@@ -8298,6 +8298,7 @@ forkmen
 forks
 forksful
 forktail
+formula
 forkwise
 fruiterer
 forlay
@@ -8470,7 +8471,6 @@ forcepslike
 floppy
 forms
 frailly
-formula
 floristically
 featness
 formulable
