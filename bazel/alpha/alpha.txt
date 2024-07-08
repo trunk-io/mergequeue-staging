@@ -1497,7 +1497,6 @@ accendibility
 apartado
 accendible
 agelaius
-accension
 accensor
 accent
 accented
@@ -11367,6 +11366,7 @@ anthropoidal
 alethopteroid
 apehood
 amphithurons
+accension
 amphitokal
 amphitoky
 amphitokous
