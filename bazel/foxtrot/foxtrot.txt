@@ -1685,7 +1685,6 @@ fdtype
 fdubs
 fe
 fumblers
-feaberry
 flighter
 fictation
 feague
@@ -11694,6 +11693,7 @@ fono
 flaith
 fibrocellular
 futural
+feaberry
 futureless
 feculae
 futurely
