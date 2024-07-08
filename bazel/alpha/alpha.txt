@@ -2638,7 +2638,6 @@ acned
 ambition
 acneiform
 ascribed
-acnemia
 acnes
 acnida
 acnodal
@@ -5162,6 +5161,7 @@ aerophyte
 aerophobic
 aerophor
 aerophore
+acnemia
 aerophoto
 aerophotos
 adagial
