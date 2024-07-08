@@ -3347,7 +3347,6 @@ acturience
 actus
 actutate
 animates
-acuaesthesia
 acuate
 acuating
 acubens
@@ -20730,6 +20729,7 @@ adret
 articulated
 anthecology
 articulately
+acuaesthesia
 articulateness
 anemogram
 articulation

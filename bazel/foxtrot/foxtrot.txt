@@ -1685,6 +1685,7 @@ fdtype
 fdubs
 fe
 fumblers
+fleshed
 feaberry
 flighter
 fictation
@@ -2388,7 +2389,6 @@ fermal
 furnitures
 foreign
 fermate
-fleshed
 fermatian
 ferme
 forespeed
