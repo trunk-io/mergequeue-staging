@@ -5295,7 +5295,6 @@ endoplastular
 endoplastule
 endopleura
 endopleural
-endopleurite
 epiblemata
 electrometry
 endopodite
@@ -12585,6 +12584,7 @@ exinanition
 earthquake
 endotheliotoxin
 exine
+endopleurite
 epidermical
 estragon
 exactas
