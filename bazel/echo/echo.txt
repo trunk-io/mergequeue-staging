@@ -5331,6 +5331,7 @@ endosarcous
 endosarcs
 endosclerite
 exostema
+ephemeric
 emulgens
 endoscopes
 endoscopy
@@ -7494,7 +7495,6 @@ ephemeran
 ephemeras
 editchar
 engluts
-ephemeric
 ephemerid
 emotiomuscular
 ephemerida
