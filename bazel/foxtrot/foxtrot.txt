@@ -6208,7 +6208,6 @@ failures
 flatiron
 fishtail
 fluency
-fluencies
 fluently
 felones
 fluentness
@@ -10299,6 +10298,7 @@ frogtongue
 floccosely
 frogwort
 fooldom
+fluencies
 fipples
 froisse
 frokin
