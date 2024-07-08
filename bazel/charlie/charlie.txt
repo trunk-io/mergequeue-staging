@@ -1014,7 +1014,6 @@ calumnious
 calcariferous
 calcariform
 calcate
-calceate
 calcedon
 calcedony
 calcemia
@@ -25825,6 +25824,7 @@ corroders
 corrodes
 corrody
 calicle
+calceate
 corrodiary
 crucifige
 corrodibility
