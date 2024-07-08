@@ -9236,7 +9236,6 @@ biotome
 biotomy
 birt
 buoys
-biotope
 biotopes
 biotoxins
 biotransformation
@@ -11467,6 +11466,7 @@ blunger
 blungers
 blunges
 bacteriocin
+biotope
 barefacedly
 blunging
 blunk
