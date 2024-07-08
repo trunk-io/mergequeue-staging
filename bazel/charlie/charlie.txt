@@ -2705,7 +2705,6 @@ canoodles
 canoodling
 canopy
 caveated
-canopic
 canopid
 canopied
 canopies
@@ -14089,6 +14088,7 @@ cinquefoiled
 cinquepace
 cinques
 cynthia
+canopic
 cynthian
 cynthius
 cintre
