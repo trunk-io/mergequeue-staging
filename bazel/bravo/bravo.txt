@@ -4019,7 +4019,6 @@ beakless
 biogasses
 beaklike
 blanketmaker
-bombylious
 beala
 bealach
 besmirched
@@ -8213,6 +8212,7 @@ byeworker
 byeworkman
 bifaces
 bifacial
+bombylious
 brewster
 bifarious
 beadrolls
