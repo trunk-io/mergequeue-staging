@@ -1740,6 +1740,7 @@ accordancy
 accordant
 adelea
 accordatura
+advisor
 accordaturas
 aftersensation
 autocomplexes
@@ -4761,7 +4762,6 @@ advisive
 advisiveness
 adviso
 alferez
-advisor
 advisory
 advisories
 advisors
