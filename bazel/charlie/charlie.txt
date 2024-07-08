@@ -19567,6 +19567,7 @@ colours
 colourtype
 colove
 colp
+compursion
 colpenchyma
 colpeo
 colpeurynter
@@ -21076,7 +21077,6 @@ cholecyanin
 compurgation
 creepage
 compurgatorial
-compursion
 computability
 computable
 cicatrisation

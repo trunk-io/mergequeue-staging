@@ -1456,7 +1456,6 @@ dazzlingness
 db
 dbl
 denominable
-dbms
 disintensify
 dca
 deceived
@@ -4619,6 +4618,7 @@ demipagan
 demiparallel
 debussed
 delegant
+dbms
 demipauldron
 doblones
 demipike
