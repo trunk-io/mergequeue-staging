@@ -53,6 +53,7 @@ fasces
 fabulosity
 fabulous
 facade
+fisherman
 facaded
 faceable
 facebow
@@ -4292,7 +4293,6 @@ fisherfolk
 fanal
 fishery
 fisheries
-fisherman
 fishermen
 fisherpeople
 flits
