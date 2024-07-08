@@ -3895,7 +3895,6 @@ bazaar
 bazaars
 bazar
 brevilingual
-bazigar
 boltrope
 bazoo
 bazooka
@@ -13397,6 +13396,7 @@ baggara
 bottlefuls
 bottleholder
 bottlelike
+bazigar
 bottommost
 bribe
 bottlemaker
