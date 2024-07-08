@@ -9564,6 +9564,7 @@ checkbooks
 checke
 checker
 checkerbelly
+coirs
 checkerbellies
 checkerberry
 checkerboard
@@ -18707,7 +18708,6 @@ coyoting
 coypous
 coypus
 coir
-coirs
 coislander
 coistrel
 chlorophylligenous
