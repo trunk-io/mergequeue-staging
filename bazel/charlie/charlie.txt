@@ -3884,6 +3884,7 @@ carcinogenic
 carcinogenicity
 carcinogens
 carcinoid
+coffered
 carcinolysin
 carcinolytic
 corradial
@@ -18308,7 +18309,6 @@ coffeewood
 charted
 cofferdam
 cofferdams
-coffered
 chaetophorales
 cofferfish
 coffering
