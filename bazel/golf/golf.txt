@@ -1530,7 +1530,6 @@ garrulity
 garrulously
 gossypium
 garrulousness
-garrulus
 garrupa
 gars
 garse
@@ -3787,6 +3786,7 @@ guatemalan
 ghetto
 ghettoes
 gummiferous
+garrulus
 ghettoize
 gustfully
 ghettoized
