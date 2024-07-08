@@ -2466,6 +2466,7 @@ ferrate
 funge
 firebox
 ferrateen
+flopper
 ferrates
 flourish
 ferredoxin
@@ -5910,7 +5911,6 @@ flopover
 flopovers
 furnacelike
 fluorated
-flopper
 flickery
 floppier
 frustulose
