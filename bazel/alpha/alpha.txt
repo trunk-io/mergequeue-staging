@@ -22726,6 +22726,7 @@ atmidometer
 atmo
 atmocausis
 atmocautery
+aurify
 atmograph
 atmolyses
 atmolysis
@@ -23599,7 +23600,6 @@ aviaries
 anteroclusion
 auriferous
 aurifex
-aurify
 aurific
 aurification
 aurified
