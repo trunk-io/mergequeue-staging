@@ -949,7 +949,6 @@ gnathions
 grapy
 gamestress
 gashest
-gametal
 gametange
 gilds
 gametangium
@@ -9415,6 +9414,7 @@ grounder
 groundhog
 gemsbok
 groundy
+gametal
 grounding
 grumpish
 guar
