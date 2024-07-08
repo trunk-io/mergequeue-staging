@@ -3578,7 +3578,6 @@ degenerated
 degenerately
 decanate
 degenerateness
-diemaking
 degenerates
 degenerating
 degeneration
@@ -9921,6 +9920,7 @@ dimeter
 dimeters
 dexterous
 dimethyl
+diemaking
 dimethylamino
 dimethylanthranilate
 dimethylcarbinol
