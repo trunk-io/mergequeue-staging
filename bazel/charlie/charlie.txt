@@ -8818,7 +8818,6 @@ chapbook
 chapbooks
 chattered
 chape
-chapeau
 chaped
 chapel
 cobriform
@@ -17668,6 +17667,7 @@ chlorothiazide
 cartomancies
 cochairmanship
 comminuted
+chapeau
 cochairmen
 cochal
 cocher
