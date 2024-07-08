@@ -9426,6 +9426,7 @@ chaussees
 chaussure
 chaussures
 chaute
+chevener
 chauth
 cucurb
 clothbound
@@ -10217,7 +10218,6 @@ chloroquine
 coadjutrices
 chevelure
 cheven
-chevener
 cheverel
 cheveret
 cheveril
