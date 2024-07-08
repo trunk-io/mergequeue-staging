@@ -2849,7 +2849,6 @@ genome
 goatlike
 genomic
 genoms
-genonema
 gph
 goniometrical
 gunbuilder
@@ -7523,6 +7522,7 @@ governableness
 governail
 guerillaism
 governante
+genonema
 gloea
 governessdom
 governesses
