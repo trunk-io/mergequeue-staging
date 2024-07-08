@@ -3266,7 +3266,6 @@ buscarle
 bitume
 basilard
 basilary
-basilateral
 bianco
 basilect
 basileis
@@ -4800,6 +4799,7 @@ bedstaves
 bedstead
 balopticon
 brecciating
+basilateral
 bedsteads
 bedstock
 bedstraw
