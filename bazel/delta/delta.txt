@@ -247,7 +247,6 @@ daftest
 depressomotor
 daftlike
 divorcee
-daftness
 daftnesses
 dagaba
 dagassa
@@ -9414,6 +9413,7 @@ difforme
 difformed
 diffracted
 dissuading
+daftness
 diffracting
 diffractional
 diffractions

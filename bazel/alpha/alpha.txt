@@ -14124,6 +14124,7 @@ answerably
 answered
 answerers
 answering
+advancedness
 antischool
 arillus
 answeringly
@@ -17158,7 +17159,6 @@ apnea
 apneal
 apneas
 apneic
-advancedness
 apneumatic
 apneumatosis
 albarium
