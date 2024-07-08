@@ -3016,7 +3016,6 @@ engl
 enukki
 embosses
 exaggeratedness
-elkhound
 eel
 empoisoned
 elkhounds
@@ -9513,6 +9512,7 @@ escar
 escarbuncle
 escargot
 escargotieres
+elkhound
 extraparental
 escargots
 escaroles
