@@ -4664,6 +4664,7 @@ dulanganes
 demisemitone
 demises
 demisheath
+damageable
 deflexion
 demyship
 disambiguating
@@ -18113,7 +18114,6 @@ disjunctively
 dummying
 diphthonging
 dumminess
-damageable
 disusage
 donationes
 dummkopf
