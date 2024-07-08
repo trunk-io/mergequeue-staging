@@ -3285,7 +3285,6 @@ goons
 geotactically
 geotaxes
 geotaxy
-gulches
 geotechnic
 gimmicks
 geotechnics
@@ -10839,6 +10838,7 @@ guzzle
 geyseral
 gestalt
 guggled
+gulches
 garfield
 gwag
 gaited
