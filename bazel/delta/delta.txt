@@ -13319,7 +13319,6 @@ disputed
 disputeful
 disputeless
 deadeners
-disputer
 disputers
 disputes
 disputing
@@ -15691,6 +15690,7 @@ dehydrogeniser
 doppio
 doppler
 dehumidifying
+disputer
 dopplerite
 dor
 dooley
