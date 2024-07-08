@@ -3506,6 +3506,7 @@ filemot
 filename
 filer
 filers
+florification
 filesave
 filemaker
 filespec
@@ -8226,7 +8227,6 @@ fenagle
 foxfires
 forgiveness
 forgivenesses
-florification
 forgiver
 forgives
 filthifying
