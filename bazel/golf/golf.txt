@@ -627,7 +627,6 @@ gallicizer
 gallicola
 gallicolae
 gobletful
-gynaecocratic
 grandam
 gogetting
 gallicole
@@ -7275,6 +7274,7 @@ gorillian
 grittiness
 gamdia
 goriness
+gynaecocratic
 gorlin
 gormand
 gormandise
