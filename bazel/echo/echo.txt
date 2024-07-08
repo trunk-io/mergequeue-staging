@@ -850,6 +850,7 @@ episodal
 ectoblastic
 ectobronchium
 ectocardia
+extramedullary
 ectocarpaceae
 erythrine
 ectocarpaceous
@@ -4690,7 +4691,6 @@ enchylema
 enchylematous
 enlief
 eburneous
-extramedullary
 exquisitively
 embroiling
 egocentricities
