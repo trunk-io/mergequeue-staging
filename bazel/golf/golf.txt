@@ -85,7 +85,6 @@ gadabout
 gadabouts
 gyneccia
 gritstone
-gaddang
 geheimrat
 gadded
 gadder
@@ -2641,6 +2640,7 @@ generalists
 generaliter
 generality
 generalities
+gaddang
 generalizations
 generalize
 girt
