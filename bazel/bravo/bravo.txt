@@ -1548,6 +1548,7 @@ ballasting
 ballasts
 ballat
 ballata
+bendways
 ballate
 ballaton
 batikulin
@@ -10952,7 +10953,6 @@ blitzed
 bobbie
 blitzkrieg
 blitzkrieged
-bendways
 blitzkrieging
 bardelle
 blitzkriegs

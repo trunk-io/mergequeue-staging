@@ -4139,6 +4139,7 @@ faradizer
 fireproofed
 fireproofing
 fireproofness
+formalism
 fireroom
 foreturn
 firerooms
@@ -8334,7 +8335,6 @@ formaldoxime
 formalin
 forethough
 formaliser
-formalism
 fritting
 formalisms
 formalistically
