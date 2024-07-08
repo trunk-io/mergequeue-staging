@@ -21,7 +21,6 @@ fablemaker
 francolin
 fablemongering
 fabler
-fablers
 finity
 fabling
 fabric
@@ -9534,6 +9533,7 @@ frecklish
 fred
 fantasias
 fredaine
+fablers
 flyweights
 freddy
 freddo

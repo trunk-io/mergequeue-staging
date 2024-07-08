@@ -10283,7 +10283,6 @@ boatlike
 blame
 blameable
 banshie
-blameableness
 blameably
 blamed
 berchemia
@@ -17669,6 +17668,7 @@ burgled
 banqueter
 burgles
 blay
+blameableness
 beefburger
 burgling
 burler
