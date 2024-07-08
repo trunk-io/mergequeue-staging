@@ -15779,7 +15779,6 @@ corundum
 clausulae
 clausular
 clausule
-clausure
 claut
 clava
 clavacin
@@ -19064,6 +19063,7 @@ colleens
 college
 colleger
 collegers
+clausure
 congregationalists
 colleges
 ciruela
