@@ -1863,6 +1863,7 @@ basketmaking
 banalities
 banally
 banana
+bovidae
 barley
 bananaland
 bananalander
@@ -13697,7 +13698,6 @@ broadsiding
 blakeite
 bovid
 bhokra
-bovidae
 bovids
 boviform
 bovine
