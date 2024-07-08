@@ -19479,7 +19479,6 @@ colorfulness
 colorific
 colorifics
 colorimeter
-colorimetric
 colorimetrical
 colorimetrically
 colorimetrics
@@ -22375,6 +22374,7 @@ congratulatory
 congree
 congreet
 congregant
+colorimetric
 cp
 congregate
 congregates
