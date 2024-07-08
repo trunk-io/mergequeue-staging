@@ -10688,7 +10688,6 @@ frumps
 fingerprint
 forefault
 foretopsail
-frundel
 funnelling
 feretra
 flakers
@@ -11460,6 +11459,7 @@ furoid
 factorability
 furoin
 furomethyl
+frundel
 fishmen
 furomonazole
 froze
