@@ -1714,7 +1714,6 @@ flippers
 feist
 fearless
 fearnought
-fears
 frisket
 fearsome
 fearsomely
@@ -7374,6 +7373,7 @@ frillier
 forcibly
 feuilletonist
 flowk
+fears
 freezingly
 forcingly
 forcipal
