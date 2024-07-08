@@ -5627,7 +5627,6 @@ bilio
 bismarckian
 buna
 belfries
-belga
 belgae
 bided
 belgard
@@ -8188,6 +8187,7 @@ biennially
 bests
 beerocracy
 biennials
+belga
 biennium
 bienniums
 biens
