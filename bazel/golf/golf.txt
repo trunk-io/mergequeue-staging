@@ -6050,7 +6050,6 @@ girnel
 glowbard
 glowbird
 glowed
-glower
 glowered
 glowerer
 gymnadenia
@@ -9361,6 +9360,7 @@ gironde
 grossularite
 grosz
 groundwards
+glower
 groszy
 gibbed
 genocide
