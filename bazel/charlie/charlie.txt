@@ -8559,7 +8559,6 @@ champaca
 champacs
 champagne
 champagned
-champagneless
 champagnes
 champagning
 colourlessly
@@ -24428,6 +24427,7 @@ coop
 cooped
 coopee
 colombia
+champagneless
 cooperage
 contemptuous
 cooperant
