@@ -5155,7 +5155,6 @@ casking
 casklike
 casks
 caspar
-calantas
 caspian
 cromlech
 casque
@@ -6569,6 +6568,7 @@ cleruch
 cedrene
 cedry
 contravenes
+calantas
 cedrin
 crystalliform
 cedrine
