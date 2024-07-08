@@ -5275,7 +5275,6 @@ begorry
 begotten
 begoud
 begray
-begrain
 begrave
 begrim
 begrimed
@@ -15166,6 +15165,7 @@ bridebed
 bridecake
 bridechamber
 bridecup
+begrain
 bassarid
 bridegroom
 besetter
