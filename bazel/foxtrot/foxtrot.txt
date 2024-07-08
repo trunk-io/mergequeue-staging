@@ -3830,6 +3830,7 @@ finchery
 footlining
 findal
 finders
+folksong
 findfault
 findy
 finding
@@ -6915,7 +6916,6 @@ ferroelectricity
 fathearted
 flyingly
 folksinger
-folksong
 folksongs
 folktale
 folktales
