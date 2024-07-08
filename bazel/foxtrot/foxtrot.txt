@@ -1472,7 +1472,6 @@ fattiest
 fattiness
 ferromagnetism
 fatting
-fattishness
 flamboyantism
 frees
 fattrels
@@ -7750,6 +7749,7 @@ foremean
 forb
 foreyards
 foremeant
+fattishness
 frilal
 foremelt
 foremen
