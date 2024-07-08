@@ -6407,7 +6407,6 @@ encyc
 educators
 ensilate
 ensile
-ensiled
 ensiles
 ensiling
 epilogize
@@ -12059,6 +12058,7 @@ excitate
 excitatory
 excited
 excitedly
+ensiled
 excitedness
 entogenous
 exciter
