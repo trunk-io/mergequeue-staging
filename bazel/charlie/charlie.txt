@@ -9230,6 +9230,7 @@ charuk
 charvet
 charwoman
 charwomen
+clavicornes
 chasable
 chaseable
 chased
@@ -15832,7 +15833,6 @@ clavicor
 convalesce
 clavicorn
 clavicornate
-clavicornes
 clarifiable
 clavicotomy
 clavicular
