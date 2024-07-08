@@ -2561,7 +2561,6 @@ decodings
 decohere
 decoherence
 decoherer
-dissightly
 decohesion
 decoy
 decoic
@@ -2602,6 +2601,7 @@ decolorise
 dipus
 dollbeer
 decoloriser
+dissightly
 decolorising
 decolorization
 draughtier
