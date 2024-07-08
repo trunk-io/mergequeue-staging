@@ -10032,7 +10032,6 @@ byzantinize
 byzantium
 byzants
 bedrench
-bizardite
 bizarre
 bizarrerie
 bitterless
@@ -17082,6 +17081,7 @@ bullety
 bulletin
 bulletined
 bulletless
+bizardite
 bulletlike
 bulletmaker
 battalia
