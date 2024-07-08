@@ -2572,7 +2572,6 @@ bargainable
 bargained
 brabantine
 billbugs
-bargainer
 bargaining
 beraked
 bargainor
@@ -18090,6 +18089,7 @@ bloaters
 bugbanes
 buss
 benda
+bargainer
 bussed
 busser
 busses
