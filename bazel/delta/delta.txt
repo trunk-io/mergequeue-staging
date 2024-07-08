@@ -7617,7 +7617,6 @@ deviancy
 deviant
 deviate
 deviately
-deviating
 deviation
 deviations
 deviatory
@@ -8982,6 +8981,7 @@ dicyanid
 dicyanide
 dicyanine
 dicyanodiamide
+deviating
 dicyanogen
 dicycle
 dicycly
