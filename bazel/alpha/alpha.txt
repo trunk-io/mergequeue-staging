@@ -2427,6 +2427,7 @@ achtehalber
 antimixing
 achtel
 achtelthaler
+algologist
 achterveld
 achuete
 acy
@@ -8237,7 +8238,6 @@ aoul
 algological
 algologically
 algologies
-algologist
 algoman
 algometric
 algometrical
