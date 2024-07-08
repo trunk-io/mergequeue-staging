@@ -3573,6 +3573,7 @@ fordam
 fridstool
 filigrain
 fanged
+fingerlet
 franklins
 filigreed
 filigrees
@@ -3897,7 +3898,6 @@ fingering
 fingerings
 fingerleaf
 fingerless
-fingerlet
 florescence
 formatters
 fuliguline
