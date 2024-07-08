@@ -9145,7 +9145,6 @@ erythrocytes
 erythrocytolysin
 excerebrate
 erythrocytolysis
-erythrocytolytic
 erythrocytometry
 exculpations
 emparchment
@@ -11256,6 +11255,7 @@ eutannin
 eutaxy
 exocannibalism
 eutaxic
+erythrocytolytic
 eutaxie
 exercisers
 equipotent
