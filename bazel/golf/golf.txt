@@ -164,7 +164,6 @@ gnomonological
 gaffe
 golfer
 gaffers
-gaffes
 gaffing
 gauze
 gaffle
@@ -1082,6 +1081,7 @@ ganderteeth
 gandertmeeth
 gelotometer
 gunnel
+gaffes
 gandhian
 gandhism
 gandoura
