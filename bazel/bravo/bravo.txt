@@ -7139,6 +7139,7 @@ buzzard
 bencher
 besqueeze
 besquirt
+brushable
 besra
 bandores
 bess
@@ -16324,7 +16325,6 @@ bruscus
 brush
 brushability
 betrothment
-brushable
 brushback
 brushbird
 bronchoalveolar
