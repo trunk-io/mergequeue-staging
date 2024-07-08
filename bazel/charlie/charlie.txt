@@ -21943,7 +21943,6 @@ confer
 conferee
 conferees
 conference
-conferencing
 conferential
 conferment
 communbus
@@ -29516,6 +29515,7 @@ crystallophyllian
 crystallophobia
 crystallose
 crystallurgy
+conferencing
 crystals
 crystalwort
 cristate
