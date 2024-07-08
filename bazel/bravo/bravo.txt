@@ -3511,7 +3511,6 @@ batch
 bedur
 bumbass
 brachycephalous
-batched
 batchers
 bargemen
 batea
@@ -11412,6 +11411,7 @@ bluetit
 bluetongue
 bluetops
 bluets
+batched
 blueweed
 blueweeds
 bennis

@@ -4124,7 +4124,6 @@ eloquent
 emphemeralness
 entophyte
 emphysema
-emphyteusis
 emphyteuta
 emphyteutic
 emphraxis
@@ -12238,6 +12237,7 @@ excursive
 excursively
 excursiveness
 excursuses
+emphyteusis
 excurvated
 exornate
 excurvation
