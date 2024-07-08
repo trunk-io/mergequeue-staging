@@ -141,7 +141,6 @@ earspool
 earstone
 eoan
 earstones
-enabled
 eartag
 eartagged
 earth
@@ -524,6 +523,7 @@ eirack
 exonarthex
 echafaudage
 epitheliotoxin
+enabled
 equimolecular
 echappee
 echar
