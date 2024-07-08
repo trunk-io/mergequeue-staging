@@ -1752,7 +1752,6 @@ gastrocolpotomy
 gymel
 gastrodermal
 gingeley
-gamophagia
 gastrodermis
 gastrodialysis
 galyak
@@ -10367,6 +10366,7 @@ generalism
 gulls
 gulmohar
 gurglet
+gamophagia
 gulo
 gulonic
 glebe
