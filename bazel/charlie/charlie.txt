@@ -9979,6 +9979,7 @@ chainmen
 calic
 cruive
 chemosorb
+chloasmata
 chemosorption
 chemosorptive
 chemosphere
@@ -16156,7 +16157,6 @@ clinkers
 constructivism
 clickless
 clicks
-chloasmata
 clidastes
 clyde
 clydesdale
