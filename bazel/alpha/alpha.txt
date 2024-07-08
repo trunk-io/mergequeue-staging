@@ -6972,6 +6972,7 @@ aircrafts
 amenta
 aircraftsman
 assessee
+anteroposterior
 agamospore
 aircraftswoman
 aerogeology
@@ -14421,7 +14422,6 @@ anteroom
 anterooms
 anteroparietal
 anteropygal
-anteroposterior
 anteroposteriorly
 anterospinal
 anterosuperior
