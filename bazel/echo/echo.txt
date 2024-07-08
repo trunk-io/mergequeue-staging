@@ -3178,6 +3178,7 @@ eciton
 eryngium
 entrance
 elucubration
+etherial
 elude
 electrophoresis
 eluded
@@ -8598,7 +8599,6 @@ expunge
 equative
 endopolyploidy
 equator
-etherial
 equatoreal
 equatorial
 ecalcavate
