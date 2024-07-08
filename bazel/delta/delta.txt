@@ -1216,7 +1216,6 @@ disinvolve
 datary
 dataria
 disgracefully
-dataries
 duction
 dataset
 datasetname
@@ -3902,6 +3901,7 @@ dissyllabised
 dejeration
 decidedly
 ditheisms
+dataries
 dejerator
 dejeuner
 dejeuners
