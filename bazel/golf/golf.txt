@@ -1368,7 +1368,6 @@ graphite
 govern
 gardevin
 gardevisure
-gov
 gardy
 gardyloo
 gardnap
@@ -7547,6 +7546,7 @@ governor
 governors
 grype
 governs
+gov
 gowans
 grinagog
 gowd
