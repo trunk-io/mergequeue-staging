@@ -3568,6 +3568,7 @@ bathylite
 beltwise
 bouillon
 bathylith
+bizel
 bathylithic
 bathylitic
 bathymetry
@@ -10038,7 +10039,6 @@ bizarrerie
 bitterless
 bizarres
 bize
-bizel
 bizen
 bizes
 bizet
