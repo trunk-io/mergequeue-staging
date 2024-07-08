@@ -4544,7 +4544,6 @@ billons
 bedamned
 bedamning
 belches
-bedamp
 bedangled
 bedare
 bedarken
@@ -4833,6 +4832,7 @@ beknow
 bedunced
 bedunces
 bedunch
+bedamp
 beduncing
 bedway
 bedways
