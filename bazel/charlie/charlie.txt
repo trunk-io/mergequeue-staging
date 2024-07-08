@@ -11531,6 +11531,7 @@ choil
 choiler
 choir
 choirboy
+cleaving
 choirboys
 choired
 choirgirl
@@ -15961,7 +15962,6 @@ cleavelandite
 cleaver
 cleaverwort
 cleaves
-cleaving
 cleavingly
 cleche
 clechee
