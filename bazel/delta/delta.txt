@@ -6504,7 +6504,6 @@ descendents
 denumerant
 descender
 descenders
-dungon
 descendibility
 descendible
 descending
@@ -10264,6 +10263,7 @@ dinosaur
 dobbins
 dinosauria
 dinosauric
+dungon
 dinothere
 dinotherium
 dyslogistically
