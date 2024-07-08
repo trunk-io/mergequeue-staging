@@ -11394,6 +11394,7 @@ ampholyte
 amphophil
 amphophile
 amphophilic
+annealed
 amphora
 amphorae
 aphthonite
@@ -13637,7 +13638,6 @@ adital
 annattos
 anne
 anneal
-annealed
 axanthopsia
 antinganting
 anaptyxes
