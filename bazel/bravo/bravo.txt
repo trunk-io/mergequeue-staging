@@ -8905,6 +8905,7 @@ bioassaying
 bioassays
 bioastronautical
 biobibliographer
+briony
 biobibliography
 biobibliographic
 bioblast
@@ -15433,7 +15434,6 @@ bryological
 beneficences
 bryologist
 bryon
-briony
 bryony
 borborygmic
 bogles
