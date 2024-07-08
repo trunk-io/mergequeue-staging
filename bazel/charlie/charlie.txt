@@ -14589,7 +14589,6 @@ cirribranch
 cirriferous
 cirriform
 cirrigerous
-cirrigrade
 cirriped
 cirripede
 catstone
@@ -29767,6 +29766,7 @@ crookneck
 crooknecked
 crooknecks
 cityfolk
+cirrigrade
 crooknosed
 crooks
 crookshouldered
