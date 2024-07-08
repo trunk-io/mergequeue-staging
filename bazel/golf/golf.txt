@@ -4140,7 +4140,6 @@ grithbreach
 gildable
 gildedness
 gilden
-gilder
 geckotoid
 gilding
 gildship
@@ -4513,6 +4512,7 @@ gyniatrics
 gyniatries
 gentlemanhood
 gink
+gilder
 gizmo
 gastraeadae
 galbanums

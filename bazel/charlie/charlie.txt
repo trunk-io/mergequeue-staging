@@ -16421,6 +16421,7 @@ cliqueiest
 cliqueyness
 cytome
 cliqueless
+corselet
 cliques
 cliquy
 cliquier
@@ -25889,7 +25890,6 @@ corsaint
 corsair
 corsairs
 corse
-corselet
 corselets
 corsepresent
 corseque
