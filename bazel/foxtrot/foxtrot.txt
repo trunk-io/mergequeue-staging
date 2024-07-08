@@ -223,6 +223,7 @@ fattened
 facultate
 facultatively
 faculty
+feodum
 faculties
 facultize
 facundity
@@ -2310,7 +2311,6 @@ feodary
 forehearth
 feodaries
 feodatory
-feodum
 feoff
 forsakenness
 fauns
