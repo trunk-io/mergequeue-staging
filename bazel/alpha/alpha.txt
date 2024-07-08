@@ -18360,7 +18360,6 @@ arabicism
 arabiyeh
 arability
 arabine
-arabinic
 arabinose
 anabaena
 arabinosic
@@ -23977,6 +23976,7 @@ autoclaving
 autocoder
 autocoenobium
 autocoherer
+arabinic
 autocollimate
 autocollimation
 autocollimator
