@@ -58,6 +58,7 @@ babbly
 babbling
 babblingly
 babblings
+begattal
 billiardly
 babblish
 bilabials
@@ -5173,7 +5174,6 @@ begash
 begass
 begat
 begats
-begattal
 begaud
 baronizing
 begaudy
