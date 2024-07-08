@@ -4925,7 +4925,6 @@ encrustant
 engenders
 encrustation
 encrusted
-etch
 encrusting
 enculturate
 enculturative
@@ -5731,6 +5730,7 @@ encyclopaedia
 engirdles
 eurhodol
 engirdling
+etch
 engirds
 engirt
 entreats
