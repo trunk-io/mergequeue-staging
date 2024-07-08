@@ -2126,6 +2126,7 @@ elasmobranchii
 elasmothere
 epigrammatist
 exstipulate
+extrafloral
 elastance
 elastase
 elastases
@@ -13839,7 +13840,6 @@ extraenteric
 extraequilibrium
 extraessential
 extrafine
-extrafloral
 extrafocal
 extrafoliaceous
 eschel
