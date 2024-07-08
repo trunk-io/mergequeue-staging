@@ -9925,7 +9925,6 @@ chemisette
 chemism
 chemisorb
 chemisorption
-cloam
 chemist
 conglution
 chemistries
@@ -13807,6 +13806,7 @@ claye
 ciliophora
 cynanthropy
 chiolite
+cloam
 cynara
 cynaraceous
 cynarctomachy
