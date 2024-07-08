@@ -2200,7 +2200,6 @@ gazy
 gutterwise
 gambodic
 gearcase
-gearcases
 geared
 gearing
 gearings
@@ -3296,6 +3295,7 @@ ghillie
 governmentish
 gingelly
 geothermic
+gearcases
 geoty
 gyrations
 geotic
