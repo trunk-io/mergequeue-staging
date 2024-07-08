@@ -3562,7 +3562,6 @@ femme
 flanched
 filicornia
 filiferous
-filiform
 faxing
 flaunching
 flammigerous
@@ -10430,6 +10429,7 @@ frontwards
 froom
 froppish
 fontlet
+filiform
 fully
 feateous
 froren

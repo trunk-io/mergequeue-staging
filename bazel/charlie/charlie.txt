@@ -13330,7 +13330,6 @@ cycler
 cyclers
 cycles
 clodpated
-cyclesmith
 cycliae
 cyclian
 crookbilled
@@ -19555,6 +19554,7 @@ colourful
 colourfulness
 coloury
 colourific
+cyclesmith
 colouring
 colourist
 colouristic
