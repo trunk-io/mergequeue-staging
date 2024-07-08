@@ -1558,6 +1558,7 @@ eggcups
 egged
 eighteenfold
 egger
+electrodispersive
 eggers
 eggfruit
 exterminatory
@@ -2340,7 +2341,6 @@ enneacontahedral
 electrocautery
 electroceramic
 emmensite
-electrodispersive
 electrochemical
 electrochemist
 electrochronograph
