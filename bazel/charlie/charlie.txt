@@ -10044,7 +10044,6 @@ crews
 cephalochordate
 chenopodiaceous
 chenopodiales
-chenopodium
 chenopods
 cheongsam
 cheoplastic
@@ -15076,6 +15075,7 @@ cobhead
 cytotechnology
 chymification
 cytotechnologist
+chenopodium
 cytotoxic
 cytotoxicity
 cytotoxin
