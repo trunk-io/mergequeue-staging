@@ -2376,7 +2376,6 @@ barbeiro
 barbeled
 barbellate
 barbells
-barbellula
 barbellulae
 belecture
 ballroom
@@ -11348,6 +11347,7 @@ bluecoats
 bluecup
 bluecurls
 bluefin
+barbellula
 boutique
 ballist
 bluefish
