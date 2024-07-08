@@ -2151,6 +2151,7 @@ begad
 banksman
 banksmen
 bankweed
+berkovets
 banlieue
 bannack
 bannat
@@ -6722,7 +6723,6 @@ beleaping
 bacterioidal
 berkeleyite
 berkelium
-berkovets
 berkovtsi
 berkowitz
 berkshire

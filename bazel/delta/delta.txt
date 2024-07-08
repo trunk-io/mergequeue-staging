@@ -1543,7 +1543,6 @@ deadliness
 deadlock
 deadlocked
 dissenters
-deadlocking
 demitasses
 deadlocks
 derider
@@ -12083,6 +12082,7 @@ depicture
 depotentiation
 disentwined
 disenvelop
+deadlocking
 despiteous
 disepalous
 dysepulotical
