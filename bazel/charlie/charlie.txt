@@ -13032,7 +13032,6 @@ chuvash
 carcaneted
 chuzwi
 chwana
-carburizer
 cia
 cyaathia
 cyamelid
@@ -17727,6 +17726,7 @@ cockpaddle
 cockpit
 cockpits
 cockroach
+carburizer
 cockroaches
 cockscomb
 cockscombed
