@@ -416,7 +416,6 @@ galcha
 galchic
 gravata
 gale
-galeae
 gelidness
 galeage
 galeas
@@ -4742,6 +4741,7 @@ gyres
 gyrfalcon
 gyrfalcons
 guillotiner
+galeae
 grimalkin
 grandson
 girgashite
