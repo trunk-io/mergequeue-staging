@@ -11097,7 +11097,6 @@ chis
 chisedec
 chiseled
 chiseler
-cafuso
 chiseling
 chiselled
 chiseller
@@ -17917,6 +17916,7 @@ codirectorship
 codirects
 codiscoverer
 codisjunct
+cafuso
 codist
 codivine
 codlin
