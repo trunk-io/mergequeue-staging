@@ -817,6 +817,7 @@ badlands
 buba
 baalish
 badly
+breakpoint
 badling
 badman
 bason
@@ -1595,7 +1596,6 @@ ballyhoo
 ballyhooed
 ballyhooer
 boarish
-breakpoint
 ballyhoos
 balling
 ballised
