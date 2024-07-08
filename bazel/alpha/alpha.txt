@@ -7104,6 +7104,7 @@ adeptship
 apostolic
 airspeed
 axhead
+angulosity
 airstrips
 amounts
 airt
@@ -13143,7 +13144,6 @@ angulometer
 acarinosis
 angulose
 aquiform
-angulosity
 angulus
 anguria
 anguses
