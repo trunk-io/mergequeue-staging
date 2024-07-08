@@ -9198,7 +9198,6 @@ eparch
 excursions
 envelopes
 erythroxylaceae
-erythroxylaceous
 evulgation
 erythroxylon
 erythroxylum
@@ -11529,6 +11528,7 @@ enactive
 everylike
 everymen
 everyness
+erythroxylaceous
 everyone
 everyplace
 everything

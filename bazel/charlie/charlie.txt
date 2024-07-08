@@ -3252,7 +3252,6 @@ capri
 capric
 capriccetto
 capriccettos
-capricci
 capriccio
 capriccios
 capriccioso
@@ -31761,6 +31760,7 @@ cutaway
 cutaways
 cutback
 cutbacks
+capricci
 cutbank
 cutch
 cutcha
