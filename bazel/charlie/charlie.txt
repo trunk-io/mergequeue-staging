@@ -492,7 +492,6 @@ carbuilder
 cadge
 cadged
 cadger
-cadgers
 cadges
 cadgy
 cadgily
@@ -4631,6 +4630,7 @@ carpintero
 carpinus
 carpiodes
 carpium
+cadgers
 carpocace
 carpocapsa
 cloghead

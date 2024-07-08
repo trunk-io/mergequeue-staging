@@ -4875,7 +4875,6 @@ dioptidae
 demonomy
 demonomist
 demonophobia
-derogatory
 demonry
 divines
 demonship
@@ -6607,6 +6606,7 @@ deserter
 deserters
 dishtowel
 desertful
+derogatory
 desertfully
 desertic
 dudelsack
