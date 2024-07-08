@@ -1373,6 +1373,7 @@ flouriness
 fatherless
 foveolets
 fatherlessness
+foreground
 fatherly
 fatherlike
 fathers
@@ -7636,7 +7637,6 @@ fables
 foreclosures
 foregone
 flaperon
-foreground
 foregrounds
 foreguess
 farrier
