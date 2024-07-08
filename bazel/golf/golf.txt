@@ -3731,7 +3731,6 @@ gigas
 gharris
 gdinfo
 ghassanid
-ghast
 garrat
 garreted
 gummous
@@ -10585,6 +10584,7 @@ gaugeably
 glaziness
 gunstone
 gunther
+ghast
 gynobase
 galactosis
 guntub
