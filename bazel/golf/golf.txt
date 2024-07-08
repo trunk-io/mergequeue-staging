@@ -951,7 +951,6 @@ gamestress
 gashest
 gametal
 gametange
-gilds
 gametangium
 gotha
 gametes
@@ -8622,6 +8621,7 @@ grecomaniac
 garbs
 grecque
 gree
+gilds
 greece
 ghosts
 greed
