@@ -2563,7 +2563,6 @@ electrophonically
 entrochus
 enquires
 electrophore
-electrophorese
 electrophoresing
 electrophoretically
 electrophoretogram
@@ -12429,6 +12428,7 @@ exerts
 exes
 exesion
 enlisters
+electrophorese
 evulge
 exfetation
 exfiguration
