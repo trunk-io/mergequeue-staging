@@ -7164,6 +7164,7 @@ barie
 bestarve
 bracelet
 bestatued
+burhead
 boba
 bestead
 besteaded
@@ -17697,7 +17698,6 @@ burgwere
 beadleism
 brothier
 burh
-burhead
 burhel
 bourbonism
 burhinidae
