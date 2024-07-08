@@ -8983,7 +8983,6 @@ gyrene
 gryllus
 guan
 gigantostracan
-grilse
 gotra
 grilses
 grim
@@ -10412,6 +10411,7 @@ growthless
 gummed
 gummer
 gummers
+grilse
 gowany
 gauily
 gummy
