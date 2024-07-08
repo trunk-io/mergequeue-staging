@@ -6093,6 +6093,7 @@ enmeshment
 enmew
 enmity
 enmities
+entrusted
 enmove
 enmuffle
 enneacontahedron
@@ -7093,7 +7094,6 @@ entrochite
 entropion
 entropionize
 entrough
-entrusted
 eliminated
 emote
 energy
