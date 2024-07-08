@@ -6777,6 +6777,7 @@ bandage
 berrybush
 bromophenol
 berrichon
+bud
 berries
 benzalhydrazine
 berrigan
@@ -16663,7 +16664,6 @@ bucrane
 backbit
 bucrania
 bucranium
-bud
 buda
 buddage
 buddhahood
