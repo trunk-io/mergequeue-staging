@@ -15906,7 +15906,6 @@ cleanlier
 cleanliest
 cleanness
 cleansable
-cleanse
 cleansers
 cleanses
 certosina
@@ -27538,6 +27537,7 @@ coverchief
 cerberean
 covercle
 coverer
+cleanse
 coverers
 covering
 coverings
