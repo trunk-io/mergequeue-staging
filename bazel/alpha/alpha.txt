@@ -18151,7 +18151,6 @@ ardassine
 agnomen
 aptal
 aptate
-avulsed
 avogram
 aptenodytes
 apter
@@ -20246,6 +20245,7 @@ asymmetrocarpous
 arreption
 arrest
 arrestable
+avulsed
 arrestant
 arval
 arrestation
