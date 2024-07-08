@@ -4487,7 +4487,6 @@ encages
 encaging
 encake
 erythrosiderite
-exploitable
 encalendar
 encamp
 encamped
@@ -10307,6 +10306,7 @@ ectromelian
 electroharmonic
 engrege
 etheriform
+exploitable
 etheriidae
 emboweled
 etherin

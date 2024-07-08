@@ -2764,7 +2764,6 @@ decreaseless
 decreases
 drivepipe
 decreasing
-decreasingly
 decreation
 decreative
 decreeable
@@ -17204,6 +17203,7 @@ deciding
 driveable
 disassimilation
 dumbfounding
+decreasingly
 drivebolt
 drivecap
 drivehead
