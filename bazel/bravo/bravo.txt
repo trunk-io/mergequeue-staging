@@ -2631,7 +2631,6 @@ bunolophodont
 brusquest
 breezily
 baryecoia
-baryglossia
 barih
 birk
 burlet
@@ -9303,6 +9302,7 @@ bipinnariae
 bipinnarias
 bipinnate
 bipinnatifid
+baryglossia
 bipinnatipartite
 basest
 bipinnatisect
