@@ -7412,7 +7412,6 @@ betrayer
 betraying
 bastardising
 bibliokleptomaniac
-betrayment
 betoss
 betrays
 betraise
@@ -7624,6 +7623,7 @@ bewrayed
 bewrayers
 bewraying
 biacetylene
+betrayment
 bewrayingly
 bewrayment
 bewrays
