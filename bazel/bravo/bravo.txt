@@ -1949,7 +1949,6 @@ bandhu
 bandi
 bandy
 begulfing
-bandyball
 bandicoy
 bandicoot
 bandicoots
@@ -2567,6 +2566,7 @@ barfly
 barflies
 barfs
 barful
+bandyball
 bargain
 bargainable
 bargained
