@@ -12014,7 +12014,6 @@ carbaryls
 chorioepithelioma
 chorioepitheliomas
 covens
-chorioepitheliomata
 chorioid
 coorg
 chorioiditis
@@ -30523,6 +30522,7 @@ cubs
 cubti
 cytochalasin
 cuca
+chorioepitheliomata
 cucaracha
 cuchan
 cuchia
