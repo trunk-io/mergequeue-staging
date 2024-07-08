@@ -6202,7 +6202,6 @@ derma
 diazole
 dermacentor
 dermad
-dermal
 dermalith
 dermamycosis
 dactylopodite
@@ -18058,6 +18057,7 @@ dullsome
 dullsville
 dulness
 dulnesses
+dermal
 dyscrystalline
 dongs
 deictical

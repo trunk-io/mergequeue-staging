@@ -12331,7 +12331,6 @@ anchors
 anchorwise
 anchoveta
 anchovy
-anchovies
 anchtherium
 anchusa
 anchusas
@@ -13003,6 +13002,7 @@ angleberry
 angled
 asps
 angledog
+anchovies
 arterioversion
 angledozer
 anglehook
