@@ -7150,7 +7150,6 @@ envaye
 envapor
 envassal
 eglatere
-envault
 enveigle
 exempt
 enveil
@@ -8502,6 +8501,7 @@ epopoean
 epopoeia
 epopoeias
 ende
+envault
 epopoeist
 epoptist
 ensignship
