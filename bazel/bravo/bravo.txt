@@ -2218,6 +2218,7 @@ bilos
 bedragglement
 bantings
 bantling
+bunkhouses
 bantlings
 bantoid
 bantu
@@ -17752,7 +17753,6 @@ burled
 burley
 burleys
 burlesk
-bunkhouses
 bolometer
 burlesks
 burlesquely
