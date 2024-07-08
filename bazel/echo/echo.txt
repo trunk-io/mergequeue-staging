@@ -789,7 +789,6 @@ emersed
 ecphore
 earwigging
 ecphoria
-ecphoriae
 epulotic
 ecphrasis
 eiffel
@@ -13652,6 +13651,7 @@ externalize
 externalized
 epiglottitis
 externalizes
+ecphoriae
 excursionary
 elaterite
 externalness
