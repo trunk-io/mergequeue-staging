@@ -2059,6 +2059,7 @@ elaeocarpus
 entamebas
 elaeodendron
 elaeometer
+evading
 elaeopten
 elaeosaccharum
 ethos
@@ -7765,7 +7766,6 @@ echiuroidea
 epidermoidal
 espial
 epidermophyton
-evading
 epidermose
 epimere
 epidermous
