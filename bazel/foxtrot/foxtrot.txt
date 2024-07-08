@@ -2578,7 +2578,6 @@ ferruled
 ferrules
 ferrum
 ferruminate
-fruz
 ferruminating
 ferrumination
 ferrums
@@ -7859,6 +7858,7 @@ foreright
 foredates
 foreroyal
 forerunner
+fruz
 freckliness
 forerunning
 forerunnings
