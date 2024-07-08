@@ -6760,7 +6760,6 @@ foyboat
 foyer
 foyers
 foil
-foiling
 fauld
 foin
 foined
@@ -11327,6 +11326,7 @@ furciferine
 figural
 furciferous
 furcilia
+foiling
 fawning
 furcraea
 furcula

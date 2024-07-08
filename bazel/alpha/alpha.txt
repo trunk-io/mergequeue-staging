@@ -8162,7 +8162,6 @@ algate
 algazel
 algebar
 algebra
-algebraical
 algebraically
 addled
 algebraist
@@ -22365,6 +22364,7 @@ astropectinidae
 astrophel
 antipapacy
 astrophyllite
+algebraical
 astrophysical
 astrophysicist
 aphanapteryx
