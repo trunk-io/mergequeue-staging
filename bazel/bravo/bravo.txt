@@ -2930,7 +2930,6 @@ barracudas
 barracudina
 barrad
 barragan
-binomial
 barrage
 barraged
 barrages
@@ -4738,6 +4737,7 @@ beancod
 bedpost
 bedposts
 bedquilt
+binomial
 bedquilts
 bourree
 bluffing

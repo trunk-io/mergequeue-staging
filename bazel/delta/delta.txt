@@ -5605,7 +5605,6 @@ dependancy
 disproportionately
 dependant
 dependantly
-duckeries
 dependency
 dependencies
 dosimeters
@@ -11221,6 +11220,7 @@ disbeliever
 disbelievers
 dazingly
 defectuous
+duckeries
 disbelieves
 disavowals
 disbenched
