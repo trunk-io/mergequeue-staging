@@ -2875,7 +2875,6 @@ debarked
 decurrence
 dinus
 decurrences
-decurrency
 decurrencies
 dodos
 decurrent
@@ -6204,6 +6203,7 @@ dermacentor
 dermad
 dermal
 dermalith
+decurrency
 dermamycosis
 dactylopodite
 dermamyiasis
