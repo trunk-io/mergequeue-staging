@@ -1424,7 +1424,6 @@ balefires
 baleful
 bronchopneumonia
 balefully
-balefulness
 benevolently
 baleise
 baleless
@@ -14894,6 +14893,7 @@ breathiness
 breathing
 breathingly
 breathless
+balefulness
 beater
 breathlessly
 breathtakingly
