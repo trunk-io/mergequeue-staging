@@ -3360,7 +3360,6 @@ gerefa
 gerenda
 gerendum
 guardiancy
-gluts
 gerent
 gerenuks
 gyral
@@ -7108,6 +7107,7 @@ gardant
 gooney
 gooneys
 grandpappy
+gluts
 giarra
 gushy
 goonie
