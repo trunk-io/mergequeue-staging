@@ -5892,7 +5892,6 @@ agallochs
 agallop
 agalma
 agalmatolite
-arctically
 agalwood
 agalwoods
 agamas
@@ -21568,6 +21567,7 @@ aspread
 aspredinidae
 aspredo
 asprete
+arctically
 aspring
 asprout
 asquare

@@ -645,7 +645,6 @@ endopleuritic
 echolocation
 echometer
 exaltate
-echopractic
 ecumenopolis
 echos
 episcia
@@ -8362,6 +8361,7 @@ exacerbations
 epitheliogenetic
 epitheliolysin
 erava
+echopractic
 euro
 epitheliolysis
 epitheliolytic
