@@ -4872,7 +4872,6 @@ fathoms
 flaneries
 flanes
 flaneurs
-flang
 flanged
 flangeless
 flangers
@@ -6744,6 +6743,7 @@ forksmith
 fogscoffer
 fogus
 foh
+flang
 fohn
 firked
 frailty
