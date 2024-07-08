@@ -10887,7 +10887,6 @@ dirks
 dirled
 delver
 dimmer
-dirling
 dirls
 doorplate
 dirndl
@@ -18209,6 +18208,7 @@ dungeoner
 dungeons
 dunger
 dunghilly
+dirling
 dunghills
 diaphany
 discolored
