@@ -3099,7 +3099,6 @@ geographies
 grainery
 gallanting
 geadephagous
-geohydrology
 geohydrologic
 gnashingly
 geoid
@@ -4507,6 +4506,7 @@ ginglymostomoid
 granny
 ginglymus
 genuflects
+geohydrology
 gaults
 gyniatry
 gyniatrics
