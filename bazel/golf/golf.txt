@@ -3602,6 +3602,7 @@ growler
 galactostasis
 gunfighters
 gideonite
+gr
 gestalten
 gratuities
 gladhearted
@@ -10362,7 +10363,6 @@ gulliver
 gadaria
 gulllike
 grueller
-gr
 generalism
 gulls
 gulmohar
