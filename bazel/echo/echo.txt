@@ -3957,7 +3957,6 @@ equinovarus
 emissary
 emissaria
 eikon
-emissaries
 emissaryship
 emissarium
 eels
@@ -4730,6 +4729,7 @@ encyclopedial
 envyingly
 encyclopedian
 explodent
+emissaries
 encyclopedias
 encyclopediast
 encyclopedic
