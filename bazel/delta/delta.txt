@@ -2233,7 +2233,6 @@ diselder
 decene
 decener
 decenyl
-decennal
 decennary
 decennaries
 drawbeam
@@ -7066,6 +7065,7 @@ dissyllabized
 destruct
 destructibility
 destructible
+decennal
 destructibleness
 destructing
 destruction

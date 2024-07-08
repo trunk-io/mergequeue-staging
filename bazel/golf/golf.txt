@@ -1415,7 +1415,6 @@ gargol
 garhwali
 garial
 garibaldian
-galenoid
 garland
 gastrojejunal
 garlandage
@@ -6314,6 +6313,7 @@ glossodynia
 grayouts
 glyoxylic
 gujerat
+galenoid
 gnathopodous
 gnathostegite
 grubberies
