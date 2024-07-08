@@ -2051,7 +2051,6 @@ acetacetic
 acetal
 acetaldehyde
 acetaldehydrase
-acetaldol
 acetalize
 acetals
 acetamid
@@ -18700,6 +18699,7 @@ archaeolatry
 archaeolith
 archaeolithic
 archaeologer
+acetaldol
 archaeologic
 archaeological
 archaeologically
