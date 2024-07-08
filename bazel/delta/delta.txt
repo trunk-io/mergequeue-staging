@@ -3844,7 +3844,6 @@ deino
 deinocephalia
 deinos
 deinosaur
-deinosauria
 daydreamy
 deinotherium
 demagnetizable
@@ -10840,6 +10839,7 @@ dioscuri
 dolphinlike
 directorates
 disfigurer
+deinosauria
 directory
 dumbwaiter
 dodging
