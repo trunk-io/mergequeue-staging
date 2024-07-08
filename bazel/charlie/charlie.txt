@@ -580,7 +580,6 @@ caeremoniarius
 caesalpiniaceae
 caesalpiniaceous
 caesar
-caesardom
 caesarean
 caesareanize
 caesareans
@@ -4848,6 +4847,7 @@ cartesian
 carthaginian
 carthame
 celiosalpingotomy
+caesardom
 carthamic
 conicoid
 carthamus
