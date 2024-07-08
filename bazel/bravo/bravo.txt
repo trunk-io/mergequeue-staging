@@ -3693,7 +3693,6 @@ batsmen
 batswing
 batt
 bammed
-blicky
 battable
 brakemen
 battailant
@@ -13457,6 +13456,7 @@ bergylt
 breakneck
 bouchee
 boucher
+blicky
 boucherize
 bouchette
 blate
