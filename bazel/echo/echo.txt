@@ -3467,7 +3467,6 @@ emblazer
 edifices
 emblazers
 euphoria
-emblazing
 emblazon
 engrossing
 emblazoned
@@ -8153,6 +8152,7 @@ episarkine
 episclera
 extinguishing
 episcleral
+emblazing
 episcleritis
 erections
 episcopacies
