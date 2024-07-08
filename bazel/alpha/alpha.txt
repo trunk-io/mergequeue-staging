@@ -15397,7 +15397,6 @@ antiflux
 antifoam
 antifoaming
 antilabor
-antiforeign
 arachnomorphae
 anconitis
 avulsions
@@ -21640,6 +21639,7 @@ assault
 assaultable
 assaulted
 assaulter
+antiforeign
 assaulters
 attainably
 assaultive
