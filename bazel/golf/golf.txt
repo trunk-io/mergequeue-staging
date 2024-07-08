@@ -1449,6 +1449,7 @@ garmenting
 garmentless
 glutael
 glycollide
+gouge
 garmenture
 gieaways
 garmentworker
@@ -3952,7 +3953,6 @@ gaveling
 gibingly
 gruesome
 gibleh
-gouge
 gillbird
 giblet
 giblets
