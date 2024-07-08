@@ -933,6 +933,7 @@ ectorganism
 ectorhinal
 ectosarc
 excavated
+epiphyses
 ectoskeleton
 eggcupful
 ectosomal
@@ -8073,7 +8074,6 @@ epiphysary
 elaborator
 epiphyseal
 estuarine
-epiphyses
 elemi
 epanisognathism
 epiphysis
