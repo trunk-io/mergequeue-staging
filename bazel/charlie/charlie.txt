@@ -3720,7 +3720,6 @@ carbonates
 carbonating
 carbonation
 cheapside
-carbonator
 carbondale
 carboned
 catalyzed
@@ -11157,6 +11156,7 @@ chytridiales
 chytridiose
 chytridiosis
 chytridium
+carbonator
 cirsocele
 chytroi
 chittack
