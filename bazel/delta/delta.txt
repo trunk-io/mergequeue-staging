@@ -6294,7 +6294,6 @@ dermatoscopy
 demurringly
 dermatosiophobia
 degausses
-dermatosis
 dermatoskeleton
 devocalize
 dermatotherapy
@@ -8715,6 +8714,7 @@ diatoma
 diatomaceae
 diatomacean
 diatomaceous
+dermatosis
 diatomales
 dacoity
 diatomean
