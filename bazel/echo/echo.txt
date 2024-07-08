@@ -5540,7 +5540,6 @@ energized
 energizer
 estall
 embroilment
-exploitation
 ecphorias
 energizers
 energizes
@@ -7478,6 +7477,7 @@ entropies
 epheboi
 ephebos
 edification
+exploitation
 ephebus
 ephedraceae
 ephedras
