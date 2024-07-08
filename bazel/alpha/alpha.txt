@@ -1656,7 +1656,6 @@ acclimatizes
 acclimatizing
 acclimature
 acclinate
-acclivities
 aegis
 anaxial
 acclivitous
@@ -10218,6 +10217,7 @@ ambones
 ambonnay
 ambos
 ambosexous
+acclivities
 aluconidae
 avengeful
 anematize

@@ -3829,6 +3829,7 @@ gigantic
 ghostly
 grabbling
 grots
+goldarns
 geometrising
 ganglionic
 guestimate
@@ -6633,7 +6634,6 @@ goldang
 goldarn
 goldarned
 goldarnedest
-goldarns
 goldbeater
 goldbeating
 genoblastic
