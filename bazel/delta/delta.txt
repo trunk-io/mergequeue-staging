@@ -9105,7 +9105,6 @@ dictyopteran
 dictyopteris
 dictyosiphonaceae
 dictyosiphonaceous
-dictyosome
 dictyotaceae
 delimitate
 dictyotaceous
@@ -17801,6 +17800,7 @@ duckfoot
 delegatee
 denominationalize
 duckfooted
+dictyosome
 diomedes
 duckhearted
 dominate
