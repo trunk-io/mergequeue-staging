@@ -537,6 +537,7 @@ gallamine
 gombo
 gallantize
 gallantry
+glutael
 gallants
 gallates
 gallature
@@ -1447,7 +1448,6 @@ garmented
 gunyang
 garmenting
 garmentless
-glutael
 glycollide
 garmenture
 gieaways
