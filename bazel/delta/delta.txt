@@ -5768,7 +5768,6 @@ depolymerization
 depolymerize
 depolymerized
 depolymerizing
-distributive
 depolish
 depiction
 dragomanate
@@ -14706,6 +14705,7 @@ dock
 divinise
 dooms
 docked
+distributive
 docken
 docker
 docket
