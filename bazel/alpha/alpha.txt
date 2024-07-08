@@ -5586,7 +5586,6 @@ aflat
 antiguggler
 aflatoxin
 ambulatorial
-aflatus
 aflaunt
 afley
 anhydrosis
@@ -9097,6 +9096,7 @@ allotropes
 allotropy
 allotropic
 agariciform
+aflatus
 allotropical
 adiapneustia
 autosoterism
