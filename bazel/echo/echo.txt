@@ -4380,7 +4380,6 @@ enajim
 enalid
 enaliornis
 enaliosauria
-enaliosaurian
 externum
 enalite
 eleusinion
@@ -6859,6 +6858,7 @@ entocranial
 ethnopsychic
 esthesiometry
 eyehook
+enaliosaurian
 extramusical
 entodermal
 entoderms
