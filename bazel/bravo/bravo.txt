@@ -3680,7 +3680,6 @@ birostrated
 batrachium
 barotropic
 batrachoididae
-batrachophagous
 batrachophidia
 batrachoplasty
 batrachospermum
@@ -12246,6 +12245,7 @@ bolthead
 boltheader
 braggy
 bagge
+batrachophagous
 bloodcurdler
 bolti
 bolty
