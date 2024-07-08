@@ -2623,7 +2623,6 @@ generalific
 generalisable
 gringolee
 generalisation
-generalise
 generalised
 gnus
 groomsman
@@ -7599,6 +7598,7 @@ grabby
 grabbiest
 grabble
 grabbled
+generalise
 gentlemens
 grabbler
 genicular
