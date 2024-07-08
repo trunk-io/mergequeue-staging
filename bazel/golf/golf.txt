@@ -1344,7 +1344,6 @@ gatha
 gymnasiarchy
 gardenership
 gardenful
-gardenhood
 gender
 grandesque
 grenadierly
@@ -6643,6 +6642,7 @@ granulite
 gastropodous
 goldcrest
 goldenback
+gardenhood
 goldeney
 goldeneye
 goldeneyes
