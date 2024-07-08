@@ -7095,7 +7095,6 @@ besped
 bespeech
 broid
 buccan
-bespend
 bowlin
 bulled
 bespete
@@ -18148,6 +18147,7 @@ bindable
 butanol
 butanolide
 boma
+bespend
 briscola
 butanols
 butanone
