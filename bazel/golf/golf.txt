@@ -5521,6 +5521,7 @@ glycosemia
 glycosidase
 glycoside
 glutaraldehyde
+gastrulas
 greet
 glycosides
 glutenous
@@ -7046,7 +7047,6 @@ goodness
 germanizer
 goodnesses
 goodnight
-gastrulas
 goodrich
 gipseian
 goodship
