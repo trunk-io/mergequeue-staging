@@ -9010,7 +9010,6 @@ charcutiers
 chard
 chards
 chare
-chared
 cheeseboard
 charely
 charet
@@ -27264,6 +27263,7 @@ crushableness
 counterwork
 counterworker
 counterworking
+chared
 counterwrite
 committee
 centare
