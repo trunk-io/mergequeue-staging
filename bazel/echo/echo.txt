@@ -6925,6 +6925,7 @@ entomostracan
 entomotaxy
 entomotomy
 entone
+epiproct
 epitrchelia
 emblema
 entonement
@@ -7794,7 +7795,6 @@ elbowchair
 evidentiary
 euphorbiaceae
 epidote
-epiproct
 epidotic
 epidotiferous
 epidural
