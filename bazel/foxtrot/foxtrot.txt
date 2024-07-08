@@ -2164,7 +2164,6 @@ felwort
 fem
 females
 femalist
-furciform
 fireflaught
 femes
 flier
@@ -3330,6 +3329,7 @@ familistical
 fiestas
 ficus
 fieulamort
+furciform
 fifed
 fifer
 fifes
