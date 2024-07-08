@@ -4750,7 +4750,6 @@ enciphered
 enciphering
 encipherment
 enciphers
-encircle
 endorsing
 encircled
 encirclements
@@ -6566,6 +6565,7 @@ egress
 entelechial
 entellus
 entelluses
+encircle
 emanator
 entelodon
 entemple
