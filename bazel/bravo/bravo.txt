@@ -7373,7 +7373,6 @@ backbiter
 betiding
 balate
 betimber
-bullwhip
 betime
 betimes
 betinge
@@ -12108,6 +12107,7 @@ boldnesses
 boldo
 boldoine
 biophor
+bullwhip
 boys
 boldos
 boldu
