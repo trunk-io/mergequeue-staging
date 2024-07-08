@@ -4522,7 +4522,6 @@ fierte
 fivepins
 fives
 fivescore
-fivesome
 fivestones
 fivish
 fix
@@ -9357,6 +9356,7 @@ frankeniaceous
 franker
 fantoddish
 frankest
+fivesome
 frankfold
 factitious
 frankfort
