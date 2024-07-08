@@ -6477,7 +6477,6 @@ dunkirk
 desaurin
 dedicatory
 diabolarch
-desc
 descale
 descaling
 descamisado
@@ -14265,6 +14264,7 @@ dittography
 dittoing
 dittology
 dittologies
+desc
 ditton
 dittos
 diuranate
