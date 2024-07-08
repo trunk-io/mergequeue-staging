@@ -304,7 +304,6 @@ backaching
 backadation
 backare
 backarrow
-backarrows
 backband
 backbear
 balanorrhagia
@@ -15797,6 +15796,7 @@ bilayer
 bromhydric
 bromhidrosis
 bromic
+backarrows
 bromid
 bromidic
 bromidically
