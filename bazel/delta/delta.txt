@@ -12112,7 +12112,6 @@ dysergia
 disert
 disespouse
 disestablish
-disestablished
 diencephalon
 disestablisher
 dispersions
@@ -17691,6 +17690,7 @@ dtset
 du
 duadic
 duads
+disestablished
 duala
 diandria
 duali
