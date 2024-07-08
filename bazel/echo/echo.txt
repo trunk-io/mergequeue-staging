@@ -1058,6 +1058,7 @@ edentata
 edentate
 encyclopedically
 edentulate
+enterogastrone
 edentulous
 edeology
 edeoscopy
@@ -6627,7 +6628,6 @@ edenite
 efflate
 enterodynia
 enterogastritis
-enterogastrone
 enterogenous
 enterogram
 enterography

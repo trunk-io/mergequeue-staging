@@ -12995,6 +12995,7 @@ bordrag
 bordroom
 bordun
 blackeye
+browning
 bordure
 bordured
 bordures
@@ -16166,7 +16167,6 @@ bioclean
 beggiatoa
 browniest
 browniness
-browning
 browningesque
 brownish
 brownishness
