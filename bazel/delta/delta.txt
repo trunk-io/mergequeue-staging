@@ -11913,7 +11913,6 @@ disedge
 disedify
 disedification
 diseducate
-detuned
 disegno
 diselectrification
 diselenid
@@ -14059,6 +14058,7 @@ distrouser
 distruss
 distrust
 distruster
+detuned
 disfame
 distrusting
 dominule
