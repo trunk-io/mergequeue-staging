@@ -737,6 +737,7 @@ bacterize
 bacterized
 bacterizing
 bacteroid
+bequalm
 bacteroideae
 bacteroides
 bactetiophage
@@ -6531,7 +6532,6 @@ bepurple
 boid
 busyness
 bepuzzle
-bequalm
 bequeath
 bequeathable
 bequeathal
