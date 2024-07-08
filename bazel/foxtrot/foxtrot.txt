@@ -1175,7 +1175,6 @@ fanfarons
 fasciculus
 fascili
 forbearers
-fissipalmate
 footbridge
 fluegelhorn
 figeaters
@@ -4847,6 +4846,7 @@ flaminical
 flamless
 finesses
 flammable
+fissipalmate
 floorers
 flammant
 flouncey
