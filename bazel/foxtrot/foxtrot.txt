@@ -2865,6 +2865,7 @@ fjeld
 foisting
 feverberries
 feverbush
+forgoing
 fevered
 feveret
 feverfew
@@ -8381,7 +8382,6 @@ formed
 formee
 formel
 formelt
-forgoing
 fieldpiece
 formene
 formenic
