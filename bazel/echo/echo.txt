@@ -1092,6 +1092,7 @@ equipper
 edibility
 eassel
 edible
+epiphenomenalist
 edibleness
 edibles
 edictally
@@ -8174,7 +8175,6 @@ essenize
 episcoparian
 edenic
 episcopates
-epiphenomenalist
 episcopation
 exceedingness
 ectosteally
