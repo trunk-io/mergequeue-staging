@@ -766,6 +766,7 @@ ecospecies
 ellipsometer
 ecospecific
 exposits
+exheredate
 ecospecifically
 ecosphere
 edriophthalmous
@@ -12487,7 +12488,6 @@ exhausts
 ethnomanic
 eupyrion
 exhedrae
-exheredate
 electrotherapy
 exheredation
 extraorganismal
