@@ -2153,7 +2153,6 @@ gazer
 gazes
 gruel
 gulden
-gazette
 gazetted
 gazetteerage
 gazetteerish
@@ -3716,6 +3715,7 @@ giro
 gewgawry
 gewgaws
 gez
+gazette
 gezerah
 ggr
 glade
