@@ -9294,7 +9294,6 @@ composture
 capnoides
 chastises
 chastising
-chastity
 chastize
 chastizer
 chasuble
@@ -21415,6 +21414,7 @@ conchometer
 conchometry
 conchospiral
 conchostraca
+chastity
 curatize
 crossopterygian
 conchotome
