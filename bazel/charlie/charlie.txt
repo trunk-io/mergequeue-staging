@@ -5855,6 +5855,7 @@ creeled
 catfish
 catfishes
 catfoot
+circumambulations
 corinthiac
 constatations
 clinty
@@ -14312,7 +14313,6 @@ circumambulate
 circumambulated
 circumambulates
 circumambulation
-circumambulations
 circumambulator
 chrysotherapy
 circumantarctic
