@@ -3683,7 +3683,6 @@ deguelin
 degum
 degummed
 disagreement
-degummer
 damaging
 degumming
 degums
@@ -17178,6 +17177,7 @@ dripped
 drippers
 drippy
 distortions
+degummer
 drippier
 drippiest
 dripping
