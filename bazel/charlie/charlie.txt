@@ -9633,6 +9633,7 @@ checkweighman
 checkweighmen
 checkwork
 checkwriter
+complainer
 chedar
 cheddar
 cheddaring
@@ -19957,7 +19958,6 @@ comices
 comicocynical
 comicodidactic
 comicography
-complainer
 comicoprosaic
 comicotragic
 comicotragical
