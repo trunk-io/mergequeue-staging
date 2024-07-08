@@ -734,7 +734,6 @@ bemoaner
 bacteritic
 bacterization
 bacterize
-bacterized
 bacterizing
 bacteroid
 bacteroideae
@@ -16677,6 +16676,7 @@ buddhist
 buddhology
 bedizened
 buddie
+bacterized
 beflower
 buddies
 buddle
