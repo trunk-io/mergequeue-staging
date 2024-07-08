@@ -3868,7 +3868,6 @@ emersonian
 emes
 emesa
 emesidae
-emesis
 emetia
 emetic
 emetical
@@ -10643,6 +10642,7 @@ etuis
 ephedra
 etuvee
 evelina
+emesis
 employed
 etwite
 endoangiitis
