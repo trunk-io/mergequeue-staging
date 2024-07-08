@@ -3925,6 +3925,7 @@ carder
 carders
 cardholder
 cardholders
+conveyable
 cardia
 cardiac
 cardiacal
@@ -17569,7 +17570,6 @@ cocanucos
 cocarboxylase
 cocarde
 cocas
-conveyable
 cocash
 cocashweed
 cocause
