@@ -5321,7 +5321,6 @@ castlelike
 consociating
 corkers
 claymores
-castlery
 castles
 carvers
 castlet
@@ -26017,6 +26016,7 @@ coscet
 coscinodiscus
 condurangin
 coscinomancy
+castlery
 chloranthy
 chilkat
 chn
