@@ -2399,7 +2399,6 @@ gelatins
 gelation
 greaves
 gablewindowed
-gelations
 guzzled
 geldable
 geldant
@@ -6960,6 +6959,7 @@ gonophoric
 gonophs
 gonopodia
 gibbles
+gelations
 gryph
 gonopodial
 gefulltefish
