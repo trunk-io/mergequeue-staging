@@ -5334,6 +5334,7 @@ exostema
 emulgens
 endoscopes
 endoscopy
+embar
 endoscopic
 endoscopically
 endoscopies
@@ -11203,7 +11204,6 @@ exorcisms
 eurocentric
 encaustic
 euroclydon
-embar
 equiradical
 engorgement
 embark
