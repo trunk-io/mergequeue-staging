@@ -2250,7 +2250,6 @@ achamoth
 antiseptics
 achape
 achaque
-achar
 acharya
 achariaceae
 achariaceous
@@ -14748,6 +14747,7 @@ anthroponym
 anthroponomics
 anthroponomist
 anthropopathy
+achar
 autotransplantation
 anthropopathically
 anoopsia
