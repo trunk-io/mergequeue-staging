@@ -458,7 +458,6 @@ galeodidae
 galeoid
 gofferer
 galeorchis
-goner
 galeorhinidae
 galeorhinus
 galeproof
@@ -9812,6 +9811,7 @@ gleeked
 guanabana
 guanabano
 gravat
+goner
 guapilla
 goose
 guanacos
