@@ -3104,7 +3104,6 @@ capitalistic
 capitalizable
 capitalization
 capitalizations
-circuses
 capitalize
 capitalized
 capitalizer
@@ -19471,6 +19470,7 @@ colored
 coloreds
 colorer
 colorers
+circuses
 colorfastness
 colorful
 cryopathy
