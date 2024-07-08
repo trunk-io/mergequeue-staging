@@ -1487,7 +1487,6 @@ fatuous
 fatuus
 fatwa
 fairtime
-fatwood
 flavid
 forwhy
 footpath
@@ -8390,6 +8389,7 @@ fleshmonger
 formentation
 former
 formeret
+fatwood
 formers
 formes
 formfeed
