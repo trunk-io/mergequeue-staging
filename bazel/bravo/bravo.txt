@@ -1932,6 +1932,7 @@ banderol
 bolivias
 banderole
 banderoled
+biodegradation
 banderols
 banders
 bandersnatch
@@ -8944,7 +8945,6 @@ biocontrol
 biodegradability
 billowed
 biodegradable
-biodegradation
 biodegrade
 biodegraded
 biodegrading
