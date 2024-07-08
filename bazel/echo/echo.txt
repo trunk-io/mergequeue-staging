@@ -3541,6 +3541,7 @@ eases
 embolisms
 empathized
 embolium
+electrotherapeutical
 embolization
 embolize
 embolo
@@ -5195,7 +5196,6 @@ endodermal
 endodermic
 endodermis
 emphasized
-electrotherapeutical
 endoderms
 endodynamomorphic
 ecchymoses
