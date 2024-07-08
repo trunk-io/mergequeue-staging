@@ -2343,7 +2343,6 @@ grolier
 gekkonoid
 gallivanter
 gel
-gossans
 gelada
 gliffing
 geladas
@@ -8895,6 +8894,7 @@ griding
 gridiron
 gowland
 gentled
+gossans
 globulariaceae
 griecep
 glossitic

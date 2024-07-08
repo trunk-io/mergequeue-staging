@@ -1919,7 +1919,6 @@ feeblest
 feebly
 fontanelle
 frolicks
-feedbag
 feedbags
 feedbin
 flummox
@@ -7241,6 +7240,7 @@ fopping
 fops
 for
 ferr
+feedbag
 flypast
 forage
 foraged
