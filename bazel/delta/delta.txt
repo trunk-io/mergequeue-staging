@@ -7299,6 +7299,7 @@ dragonne
 driveboat
 detesters
 detests
+dispaint
 dethyroidism
 dethronable
 deuterostome
@@ -7505,7 +7506,6 @@ deutomerite
 deuton
 dekarch
 deutonephron
-dispaint
 dermatolysis
 disazo
 deutonymphal
