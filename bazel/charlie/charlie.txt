@@ -5932,7 +5932,6 @@ cathetometric
 cathetus
 cathexes
 cathexion
-ceptor
 cathin
 cathine
 cathisma
@@ -6538,6 +6537,7 @@ candidates
 capillaries
 cecomorphic
 cecostomy
+ceptor
 cecropia
 cecrops
 cecum
