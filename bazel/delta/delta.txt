@@ -6647,6 +6647,7 @@ desiatin
 desicate
 desiccant
 desiccants
+disilluminate
 desiccate
 disprove
 desiccated
@@ -15350,7 +15351,6 @@ domiciliate
 diesinker
 domiciliating
 domiciliation
-disilluminate
 domiciling
 domify
 domina
