@@ -3034,6 +3034,7 @@ dorsipinal
 deepsome
 deepwater
 deepwaterman
+dogmen
 deer
 deerberry
 deerdog
@@ -14278,7 +14279,6 @@ diurna
 defunctness
 diurnalness
 diurnals
-dogmen
 diurnation
 diurne
 diurnule
