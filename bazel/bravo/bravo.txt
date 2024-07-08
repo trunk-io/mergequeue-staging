@@ -5262,7 +5262,6 @@ begnawn
 begob
 begobs
 bodeword
-begod
 begohm
 begone
 begoniaceous
@@ -9076,6 +9075,7 @@ backwoodsmen
 boysenberries
 bionomies
 biont
+begod
 biontic
 bionts
 biophagy
