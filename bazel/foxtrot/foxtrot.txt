@@ -6773,7 +6773,6 @@ farsightedly
 faden
 foys
 foison
-foisonless
 foisons
 foist
 foxtongue
@@ -9012,6 +9011,7 @@ formative
 fortran
 foute
 fouth
+foisonless
 fouty
 foutra
 fanflower
