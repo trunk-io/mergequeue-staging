@@ -3884,7 +3884,6 @@ durance
 deitate
 deity
 deityship
-deywoman
 deixis
 deja
 decamps
@@ -17509,6 +17508,7 @@ drubs
 drucken
 drudged
 drudgery
+deywoman
 drudges
 downstair
 drudging
