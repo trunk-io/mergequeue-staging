@@ -11423,6 +11423,7 @@ discloak
 discloister
 debug
 dine
+dother
 discloser
 disclosing
 disclosive
@@ -15958,7 +15959,6 @@ datives
 deline
 doters
 dipterist
-dother
 desolating
 dothideaceous
 dothideales
