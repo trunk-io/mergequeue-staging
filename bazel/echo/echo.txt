@@ -1114,7 +1114,6 @@ exotheca
 edificial
 edificing
 edified
-exopt
 ergotisms
 edictal
 edifiers
@@ -7047,6 +7046,7 @@ enlightenedness
 entree
 epiglottides
 entrees
+exopt
 excisor
 encomiendas
 eulogizing
