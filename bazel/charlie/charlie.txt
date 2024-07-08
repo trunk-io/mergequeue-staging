@@ -4741,7 +4741,6 @@ concessiveness
 carrick
 carrycot
 contrastimulation
-carried
 carryed
 carriers
 carries
@@ -15777,6 +15776,7 @@ clausula
 coypu
 corundum
 clausulae
+carried
 clausular
 clausule
 clausure
