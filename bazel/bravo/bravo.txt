@@ -1493,6 +1493,7 @@ balks
 ball
 baddish
 ballad
+bipunctual
 biodynamic
 boojum
 ballade
@@ -9349,7 +9350,6 @@ byproduct
 byproducts
 bipropellant
 bipunctate
-bipunctual
 bewet
 bipupillate
 boutel
