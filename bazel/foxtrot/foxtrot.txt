@@ -2327,7 +2327,6 @@ feoffor
 feoffs
 fer
 feracious
-feracities
 fraktur
 ferahan
 fieldstrip
@@ -10163,6 +10162,7 @@ friss
 frisson
 fraudfully
 frisure
+feracities
 frit
 fuzees
 framing
