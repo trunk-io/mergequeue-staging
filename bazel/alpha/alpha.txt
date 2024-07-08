@@ -1995,7 +1995,6 @@ anematized
 acequiador
 acequias
 acer
-aceraceous
 acerate
 acerated
 antienthusiasm
@@ -7052,6 +7051,7 @@ airliners
 airlines
 airlock
 airlocks
+aceraceous
 airmailed
 airman
 airmanship
