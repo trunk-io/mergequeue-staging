@@ -101,6 +101,7 @@ cabilliau
 cabin
 cabinda
 cabinet
+chirping
 cabineted
 cabinetmake
 cabinetmaker
@@ -11065,7 +11066,6 @@ chirpier
 chirpiest
 chirpily
 chirpiness
-chirping
 chirpingly
 commentated
 chirps
