@@ -3207,6 +3207,7 @@ bargainers
 bashlyks
 bashment
 bullfist
+bisects
 basial
 befoulment
 basialveolar
@@ -9635,7 +9636,6 @@ bisectionally
 bisector
 bisectors
 bisectrices
-bisects
 boredoms
 besses
 backcloth

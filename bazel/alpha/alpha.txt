@@ -8762,7 +8762,6 @@ anticous
 adelphi
 agamobia
 allelism
-allelocatalytic
 allelomorphism
 allelotropic
 aggrege
@@ -16523,6 +16522,7 @@ antjar
 acetonylacetone
 antler
 accredit
+allelocatalytic
 antlerless
 antlers
 antlia
