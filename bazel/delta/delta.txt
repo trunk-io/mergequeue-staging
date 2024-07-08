@@ -8191,7 +8191,6 @@ diadem
 damped
 dikaryophasic
 diadema
-diademed
 duppies
 diadems
 diaderm
@@ -11123,6 +11122,7 @@ disarm
 digitise
 disarmature
 disarmer
+diademed
 disarmers
 disarming
 disarmingly
