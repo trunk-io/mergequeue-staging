@@ -1249,7 +1249,6 @@ gavottes
 gant
 gantangs
 gantelope
-gantleted
 gantleting
 gewgaw
 growlingly
@@ -9428,6 +9427,7 @@ gervao
 gelled
 groundneedle
 groundplot
+gantleted
 getah
 grounds
 geomorphological
