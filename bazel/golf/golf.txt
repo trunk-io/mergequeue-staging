@@ -1372,6 +1372,7 @@ gov
 gardy
 gardyloo
 gardnap
+geotropism
 giher
 gaufrettes
 gamesmanship
@@ -3307,7 +3308,6 @@ geordie
 geotropy
 geotropic
 geotropically
-geotropism
 giveaways
 gepeoo
 gephyrea
