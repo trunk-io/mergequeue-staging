@@ -8601,6 +8601,7 @@ forswear
 forswearer
 forswearing
 falterers
+frenchiness
 forswears
 farmable
 forswornness
@@ -10525,7 +10526,6 @@ frown
 frowned
 footpads
 fissure
-frenchiness
 frownful
 frowning
 fireworky
