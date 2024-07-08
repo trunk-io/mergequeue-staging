@@ -5863,7 +5863,6 @@ belotte
 belouke
 belove
 beloved
-benzalcyanhydrin
 belast
 belowdecks
 belleter
@@ -6662,6 +6661,7 @@ bergy
 berginize
 berglet
 bergman
+benzalcyanhydrin
 bergmannite
 bergomask
 bergs
