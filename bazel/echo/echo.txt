@@ -502,7 +502,6 @@ eccritic
 eccrine
 ecderon
 ecderonic
-excerptible
 exitial
 eccentrometer
 eruditional
@@ -2642,6 +2641,7 @@ enchronicle
 electrophoresed
 end
 electrotechnical
+excerptible
 electrotechnics
 embellishes
 electrotelegraphy
