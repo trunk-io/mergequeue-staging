@@ -12679,7 +12679,6 @@ chronics
 chronique
 chronisotherm
 chronist
-chronobarometer
 cesurae
 chronobiology
 chronocarator
@@ -21792,6 +21791,7 @@ condone
 condoned
 condonement
 condoner
+chronobarometer
 condoners
 condones
 condoning

@@ -2186,7 +2186,6 @@ deceivability
 deceivableness
 deceivably
 deceivance
-diathesic
 deceive
 delly
 deceivers
@@ -18273,6 +18272,7 @@ decagrams
 duodecillion
 derives
 duodecillionth
+diathesic
 dodged
 disinclinations
 duodecimality
