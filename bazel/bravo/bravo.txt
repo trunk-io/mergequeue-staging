@@ -10477,7 +10477,6 @@ blastomas
 blastomata
 beachcombing
 blastomere
-blastomeric
 blastomycete
 blastomycetes
 beheader
@@ -18304,6 +18303,7 @@ buttinskies
 buttle
 boiseries
 buttling
+blastomeric
 buttock
 buckling
 bicolored
