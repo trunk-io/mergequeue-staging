@@ -7854,7 +7854,6 @@ biblioclasm
 biblioclast
 bibliofilm
 bibliogenesis
-bibliognost
 biskop
 benzophenanthroline
 bibliognostic
@@ -10697,6 +10696,7 @@ blenchingly
 blencorn
 blend
 blende
+bibliognost
 blended
 blender
 bottleneck
