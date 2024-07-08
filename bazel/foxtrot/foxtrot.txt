@@ -2486,7 +2486,6 @@ flatbread
 ferreting
 ferrets
 ferry
-ferriages
 ferryboats
 favela
 ferric
@@ -5486,6 +5485,7 @@ fatigating
 flickertail
 formicid
 floppers
+ferriages
 foreigners
 flicky
 flidge
