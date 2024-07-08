@@ -15713,7 +15713,6 @@ brogues
 broiden
 broider
 broidered
-broiderer
 broidery
 broideries
 broiders
@@ -18184,6 +18183,7 @@ bimasty
 bencite
 butyne
 butyr
+broiderer
 butyral
 butyrals
 butyrate
