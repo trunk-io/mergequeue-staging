@@ -2731,6 +2731,7 @@ fetcher
 fetchers
 fetches
 fetching
+fiats
 fete
 feteless
 feterita
@@ -2938,7 +2939,6 @@ fiascos
 fiat
 fiatconfirmatio
 fibrous
-fiats
 fiaunt
 fairyism
 fib
