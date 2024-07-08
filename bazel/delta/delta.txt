@@ -6602,7 +6602,6 @@ desentimentalize
 deseret
 desert
 deserted
-desertedly
 deserter
 deserters
 dishtowel
@@ -13730,6 +13729,7 @@ dissolver
 dissolving
 dissolvingly
 dissonances
+desertedly
 dissonancy
 dhangar
 dissonancies
