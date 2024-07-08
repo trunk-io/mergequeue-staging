@@ -10158,6 +10158,7 @@ equalable
 etalage
 etalon
 etamin
+evades
 ever
 etamines
 equilobed
@@ -11313,7 +11314,6 @@ evadable
 entoolitic
 enserfed
 evader
-evades
 evadingly
 evadne
 evagation

@@ -9037,7 +9037,6 @@ bioluminescence
 biomagnetic
 biomagnetism
 biomass
-biomasses
 biomaterial
 biomathematics
 biome
@@ -12516,6 +12515,7 @@ beeregar
 bonhomies
 bunder
 bonhomme
+biomasses
 bonhommie
 bloodripe
 bastnaesite
