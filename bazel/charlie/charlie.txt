@@ -11234,7 +11234,6 @@ clithral
 chlamydoselachus
 chlamydosporic
 chlamydozoa
-chlamydozoan
 chlamyphore
 chlamys
 chlamyses
@@ -12331,6 +12330,7 @@ chrysosperm
 chrysosplenium
 chrysostomic
 chrysothamnus
+chlamydozoan
 coyotes
 chrysothrix
 chrysotile
