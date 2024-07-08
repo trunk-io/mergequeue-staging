@@ -8236,7 +8236,6 @@ adjuster
 aoul
 algological
 algologically
-algologies
 algologist
 algoman
 algometric
@@ -9074,6 +9073,7 @@ allothigenetically
 allothigenous
 allothimorph
 allothimorphic
+algologies
 allothogenous
 anthropodus
 allotype
