@@ -4923,7 +4923,6 @@ embolden
 encrust
 encrustant
 engenders
-encrustation
 encrusted
 etch
 encrusting
@@ -5373,6 +5372,7 @@ ersar
 epigean
 endosteal
 estrangement
+encrustation
 emended
 endosteitis
 endosteomas
