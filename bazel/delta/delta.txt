@@ -285,7 +285,6 @@ dagswain
 daguerreotype
 daguerreotyper
 daguerreotypic
-dissait
 daguerreotyping
 daguilla
 dah
@@ -3638,6 +3637,7 @@ degradation
 degradational
 degradative
 degrade
+dissait
 degraded
 deratization
 detrimentalness
