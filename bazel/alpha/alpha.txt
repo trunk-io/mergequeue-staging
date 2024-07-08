@@ -19921,7 +19921,6 @@ armado
 aldeia
 armageddonist
 armagnacs
-armament
 armamentary
 armamentaria
 armangite
@@ -24103,6 +24102,7 @@ autografting
 autogram
 autographal
 autographer
+armament
 appenzell
 autographic
 autographically
