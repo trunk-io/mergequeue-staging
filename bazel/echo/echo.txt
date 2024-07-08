@@ -5990,7 +5990,6 @@ ectasia
 exequies
 enkennel
 enkerchief
-enkernel
 enki
 enkidu
 enkindler
@@ -8271,6 +8270,7 @@ epistylar
 epistilbite
 epistyles
 epistylis
+enkernel
 exulcerate
 epistle
 estoppal
