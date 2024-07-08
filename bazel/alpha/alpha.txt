@@ -9861,7 +9861,6 @@ amalgam
 appealing
 amalgamable
 amalgamate
-amalgamated
 afloat
 amalgamater
 amalgamates
@@ -24803,6 +24802,7 @@ avocado
 avocadoes
 avocados
 avocat
+amalgamated
 acadian
 avocation
 avocational
