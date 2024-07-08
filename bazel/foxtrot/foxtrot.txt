@@ -3848,6 +3848,7 @@ fineable
 fineableness
 finebent
 franchisal
+fitter
 finecomb
 finedrawing
 fineer
@@ -5748,7 +5749,6 @@ floaters
 felines
 foggara
 floatier
-fitter
 forgeries
 forementioned
 floatiness
