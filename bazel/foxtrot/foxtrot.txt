@@ -6013,6 +6013,7 @@ fantasts
 famines
 floriscope
 floristics
+fluctuosity
 floristry
 florisugent
 florivorous
@@ -6192,7 +6193,6 @@ forenames
 flatfoots
 fluctuating
 fluctuational
-fluctuosity
 footroom
 floatplane
 fluctuous
