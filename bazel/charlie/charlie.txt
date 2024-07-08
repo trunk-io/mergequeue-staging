@@ -6538,7 +6538,6 @@ candidates
 capillaries
 cecomorphic
 cecostomy
-cecropia
 cecrops
 cecum
 cecums
@@ -20912,6 +20911,7 @@ compost
 corrodingly
 complected
 composts
+cecropia
 composure
 compotation
 compotationship
