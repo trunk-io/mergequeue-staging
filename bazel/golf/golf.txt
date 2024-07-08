@@ -2662,7 +2662,6 @@ glances
 gallingness
 gilt
 gormandizing
-goto
 gilbertian
 gelatinized
 generate
@@ -3415,6 +3414,7 @@ germanistic
 glede
 germanium
 gavelling
+goto
 geniuses
 germanization
 goran
