@@ -1695,7 +1695,6 @@ balmily
 balminess
 balmlike
 balsamer
-brocardic
 balmony
 boko
 balmonies
@@ -3920,6 +3919,7 @@ beal
 bdelloid
 bdelloida
 bdellometer
+brocardic
 bdellostoma
 bagmen
 bdellostomatidae
