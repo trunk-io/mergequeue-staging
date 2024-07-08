@@ -5831,7 +5831,6 @@ flokite
 ferter
 fondish
 fonly
-feats
 flon
 flong
 fimbriated
@@ -9972,6 +9971,7 @@ fleawood
 friendship
 fuciphagous
 fryer
+feats
 fluoborite
 flirted
 fries
