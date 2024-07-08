@@ -23574,7 +23574,6 @@ continency
 continentaler
 continentalist
 continentality
-continentalize
 continentally
 continents
 contineu
@@ -31223,6 +31222,7 @@ curatorium
 charkha
 consitutional
 curators
+continentalize
 curatorship
 curatrices
 curatrix
