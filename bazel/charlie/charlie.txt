@@ -6042,7 +6042,6 @@ catostomid
 catostomoid
 catostomus
 catouse
-catpiece
 catrigged
 cats
 catskin
@@ -21609,6 +21608,7 @@ concupiscible
 circumflexes
 concupiscibleness
 concur
+catpiece
 concurbit
 creambush
 concurrence
