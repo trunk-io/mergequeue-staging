@@ -8911,7 +8911,6 @@ arrhizal
 allochetite
 allochezia
 allophylus
-allochiral
 allochiria
 allochlorophyll
 allochroic
@@ -19898,6 +19897,7 @@ arkansite
 arkie
 arkite
 aceologic
+allochiral
 arkoses
 arksutite
 anagrammatised
