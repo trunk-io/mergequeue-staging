@@ -1875,6 +1875,7 @@ blotter
 banausic
 beerbelly
 banba
+buttressless
 banbury
 banc
 banca
@@ -17375,7 +17376,6 @@ boleweed
 bundts
 bundu
 bundweed
-buttressless
 bunemost
 beltane
 boned

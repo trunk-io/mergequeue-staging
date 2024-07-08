@@ -2839,7 +2839,6 @@ elevate
 elevated
 elevatedly
 electrionic
-elevates
 experimented
 elevating
 enorm
@@ -12426,6 +12425,7 @@ exerted
 exertionless
 enstatitic
 exerts
+elevates
 exes
 exesion
 enlisters
