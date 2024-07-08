@@ -1576,7 +1576,6 @@ gaselier
 gelatose
 gaseous
 gaseously
-gases
 graphiola
 genealogically
 gash
@@ -5633,6 +5632,7 @@ glis
 gospelize
 glisk
 glisky
+gases
 glissader
 glissades
 glissando
