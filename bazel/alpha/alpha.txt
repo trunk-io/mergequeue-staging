@@ -15361,6 +15361,7 @@ antiexpressiveness
 antiface
 antifaction
 antifat
+approve
 antifatigue
 antifebrin
 antifederal
@@ -18939,7 +18940,6 @@ archheresy
 archheretic
 archhypocrite
 angulinerved
-approve
 archhost
 archhouse
 archhumbug
