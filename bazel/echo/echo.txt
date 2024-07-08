@@ -2191,6 +2191,7 @@ elbuck
 emendating
 empyreans
 erastian
+epos
 egesta
 elcaja
 elchee
@@ -6775,7 +6776,6 @@ enthronement
 enduro
 epipteric
 enthrong
-epos
 exogastritis
 enthroning
 enthronise
