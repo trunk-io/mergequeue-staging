@@ -6713,7 +6713,6 @@ choak
 cosmati
 celiectomy
 celiemia
-celiocele
 celiocentesis
 celiocyesis
 celiocolpotomy
@@ -30605,6 +30604,7 @@ cuddled
 cuddles
 cuddlesome
 cuddlier
+celiocele
 cuddliest
 cuddling
 cudeigh

@@ -4588,7 +4588,6 @@ flab
 flabbella
 flabbergast
 flabbergasted
-flabbergastingly
 flabbergasts
 filterable
 fluorinated
@@ -6662,6 +6661,7 @@ fustiest
 frangibility
 fudder
 foederati
+flabbergastingly
 foeffment
 foehn
 foehnlike
