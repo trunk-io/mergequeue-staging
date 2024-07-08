@@ -272,6 +272,7 @@ easter
 eversive
 eastering
 easterly
+elixirs
 exospores
 ectodermic
 easterliness
@@ -9478,7 +9479,6 @@ escallop
 esseda
 escalloped
 equiponderation
-elixirs
 escalop
 escalope
 escaloping
