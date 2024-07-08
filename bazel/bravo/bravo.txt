@@ -6663,7 +6663,6 @@ berginize
 berglet
 bergman
 bergmannite
-bergomask
 bergs
 bergschrund
 bergsonian
@@ -8411,6 +8410,7 @@ biham
 balladwise
 byhand
 bihari
+bergomask
 buckishly
 bihydrazine
 beribbon
