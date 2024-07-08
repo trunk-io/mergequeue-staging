@@ -13630,7 +13630,6 @@ cylindrite
 cylindrocellular
 cylindrocephalic
 cylindrocylindric
-cylindroconical
 cylindroconoidal
 coloraturas
 cylindrodendrite
@@ -26705,6 +26704,7 @@ counterargue
 counterargument
 counterartillery
 counterassociation
+cylindroconical
 counterassurance
 coalbox
 cammock
