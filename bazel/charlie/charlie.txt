@@ -12655,6 +12655,7 @@ crocketing
 chron
 chronal
 chronaxy
+cofeature
 chronaxia
 chronaxie
 chronaxies
@@ -18280,7 +18281,6 @@ cofane
 cofaster
 cofather
 cofathership
-cofeature
 cofeatures
 cofeoffee
 coferment
