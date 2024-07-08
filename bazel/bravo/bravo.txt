@@ -742,6 +742,7 @@ bacteroides
 bactetiophage
 bactrian
 bactrites
+bisegment
 balsamize
 bactriticone
 blup
@@ -9639,7 +9640,6 @@ bisects
 boredoms
 besses
 backcloth
-bisegment
 blowcase
 barringer
 bisellia
