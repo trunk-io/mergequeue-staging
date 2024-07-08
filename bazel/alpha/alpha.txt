@@ -3085,6 +3085,7 @@ acrostolium
 acrotarsial
 acrotarsium
 acroteleutic
+atlantomastoid
 acroteral
 acroteria
 articulus
@@ -22700,7 +22701,6 @@ atlantis
 atlantite
 atlantoaxial
 atlantodidymus
-atlantomastoid
 atlantoodontoid
 atlantosaurus
 atlaslike
