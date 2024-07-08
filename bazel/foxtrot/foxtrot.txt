@@ -7634,6 +7634,7 @@ flatteners
 foreglow
 fables
 foreclosures
+filariidae
 foregone
 flaperon
 foreground
@@ -10477,7 +10478,6 @@ froth
 frothed
 frothi
 frigiddaria
-filariidae
 frothier
 frothily
 frothless
