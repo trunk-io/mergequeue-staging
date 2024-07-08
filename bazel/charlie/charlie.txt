@@ -9902,7 +9902,6 @@ chemiculture
 chemigraph
 chemigrapher
 chemigraphy
-chemigraphically
 chemiloon
 chemiluminescence
 chemiluminescent
@@ -13906,6 +13905,7 @@ cinemagoer
 cinemagoers
 colubrinae
 cinemas
+chemigraphically
 cinemascope
 cinematheque
 cinematheques
