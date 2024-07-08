@@ -1503,6 +1503,7 @@ expulsions
 eligent
 egal
 egalitarian
+elaboratory
 ebracteate
 encephalomere
 estuate
@@ -2039,7 +2040,6 @@ elaboration
 elaborations
 elaborative
 elaboratively
-elaboratory
 enform
 ethicoreligious
 embolismus
