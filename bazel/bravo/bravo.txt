@@ -2598,6 +2598,7 @@ barges
 boehmite
 bargestone
 brevets
+bunnies
 bargham
 barghest
 brachydomal
@@ -17452,7 +17453,6 @@ beelbow
 boron
 bunny
 bunnia
-bunnies
 bunning
 bezants
 bunodont
