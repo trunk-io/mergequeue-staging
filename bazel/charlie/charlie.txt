@@ -7789,6 +7789,7 @@ certhiidae
 certie
 certif
 certify
+connectional
 certifiability
 certifiableness
 certifiably
@@ -20988,7 +20989,6 @@ compriest
 comprint
 comprisable
 comprise
-connectional
 comprised
 comprises
 comprising
