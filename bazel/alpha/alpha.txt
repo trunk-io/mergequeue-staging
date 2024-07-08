@@ -8205,6 +8205,7 @@ algiers
 atame
 algific
 algin
+amyelinic
 alginate
 aldoses
 alginates
@@ -10594,7 +10595,6 @@ amyelencephalia
 amyelencephalic
 amyelencephalous
 amyelic
-amyelinic
 amyelonic
 amyelotrophy
 amyelous
