@@ -1980,7 +1980,6 @@ eject
 ejecta
 ejectable
 extraregularly
-etrogs
 ejectamenta
 endomyces
 entailers
@@ -2393,6 +2392,7 @@ extratarsal
 electrodialyses
 electrodialysis
 electrodialitic
+etrogs
 endaseh
 electrodialyze
 electrodynamic
