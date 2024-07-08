@@ -7977,7 +7977,6 @@ alembicate
 alembroth
 alemmal
 alen
-alencon
 alencons
 alenge
 alength
@@ -11811,6 +11810,7 @@ anagrammatize
 anagrammatized
 anagrammatizing
 anagrammed
+alencon
 anagraph
 anagua
 aphorismer
