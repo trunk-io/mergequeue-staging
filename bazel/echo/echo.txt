@@ -6541,6 +6541,7 @@ entangled
 entangledness
 eggfish
 endotrachelitis
+ensouls
 eulachons
 entanglement
 eyestrings
@@ -14107,7 +14108,6 @@ extruder
 epigynum
 entrails
 extruders
-ensouls
 encephalolith
 extrudes
 extrusible
