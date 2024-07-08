@@ -3863,6 +3863,7 @@ adfreezing
 antiangular
 apozema
 adfroze
+ade
 adfrozen
 apoplectic
 adhafera
@@ -11751,7 +11752,6 @@ acalyculate
 anaesthesis
 animadverts
 anaesthetic
-ade
 anaesthetics
 almida
 anaesthetize
