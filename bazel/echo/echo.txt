@@ -4543,7 +4543,6 @@ eminency
 encasing
 empark
 excluder
-encasserole
 entoderm
 encastre
 epitaphical
@@ -13235,6 +13234,7 @@ exploded
 exploders
 exploit
 evasible
+encasserole
 exploitage
 exploitatively
 exploited
