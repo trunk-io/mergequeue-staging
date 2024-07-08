@@ -13647,6 +13647,7 @@ bourride
 bourrides
 bourse
 bourses
+breakax
 bourtree
 befiddle
 bourtrees
@@ -14803,7 +14804,6 @@ branchage
 brobdingnag
 breakaway
 brennschluss
-breakax
 breakaxe
 breakback
 burghermaster
