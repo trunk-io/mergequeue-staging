@@ -11190,7 +11190,6 @@ extrait
 eurithermophile
 eurythermous
 eurythmic
-eurythmical
 eurythmics
 eurythmies
 encomiums
@@ -12434,6 +12433,7 @@ exfetation
 exfiguration
 exfigure
 exfiltrate
+eurythmical
 exfiltration
 exflagellate
 enoch
