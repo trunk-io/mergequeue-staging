@@ -14104,7 +14104,6 @@ brackens
 bracker
 bracketed
 bracketing
-brackets
 bracketted
 bequeathing
 basketing
@@ -15469,6 +15468,7 @@ brisances
 brisbane
 bracken
 brise
+brackets
 blastostylar
 battologist
 briseis
