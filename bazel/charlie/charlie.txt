@@ -8570,7 +8570,6 @@ champain
 champak
 champaka
 champaks
-champart
 champe
 champed
 champer
@@ -13339,6 +13338,7 @@ cyclical
 cyclicalness
 cyclide
 cyclindroid
+champart
 ceresin
 citramontane
 cycling

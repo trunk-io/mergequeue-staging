@@ -3578,6 +3578,7 @@ birthdom
 bathing
 bathyscaph
 bathyscaphes
+butyrolactone
 bathyseism
 bathysmal
 bathysophic
@@ -5873,7 +5874,6 @@ belshazzar
 belshazzaresque
 belswagger
 bimetalic
-butyrolactone
 beltcourse
 belted
 beltene
