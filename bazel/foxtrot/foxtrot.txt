@@ -2517,6 +2517,7 @@ forweep
 floorshow
 ferrites
 focusable
+folkmots
 ferritins
 frolics
 ferritization
@@ -6896,7 +6897,6 @@ folkmoots
 folkmote
 folkmoter
 folkmotes
-folkmots
 folkway
 fructuary
 folkright
