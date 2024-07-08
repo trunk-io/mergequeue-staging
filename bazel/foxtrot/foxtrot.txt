@@ -1412,7 +1412,6 @@ freightliner
 flagrante
 fibrilliform
 fatigate
-fructus
 fourteener
 fatigated
 fatigation
@@ -6432,6 +6431,7 @@ fourthly
 fluoroborate
 fluorocarbon
 fluoroform
+fructus
 frittata
 fibrinoalbuminous
 falter
