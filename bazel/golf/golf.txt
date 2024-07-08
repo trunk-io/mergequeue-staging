@@ -2791,7 +2791,6 @@ genipap
 greenstuff
 gentes
 guzzler
-gossip
 genipaps
 genyplasty
 genips
@@ -5579,6 +5578,7 @@ grandisonian
 glink
 glint
 guatuso
+gossip
 goustie
 glinting
 gliomatous

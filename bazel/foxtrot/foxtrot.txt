@@ -8135,7 +8135,6 @@ forewrought
 forfairn
 forfalt
 fielding
-flintlocks
 forfare
 forfars
 forfault
@@ -11735,6 +11734,7 @@ facingly
 ferfathmur
 fuzils
 fuzing
+flintlocks
 fuzz
 ferrean
 fuzzed
