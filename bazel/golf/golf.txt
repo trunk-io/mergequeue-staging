@@ -3481,6 +3481,7 @@ germling
 germon
 gaskets
 gelatigenous
+gusle
 germproof
 germule
 greenslade
@@ -7145,7 +7146,6 @@ gooseherd
 goosehouse
 geezer
 grouch
-gusle
 gooselike
 gooseliver
 goosemouth
