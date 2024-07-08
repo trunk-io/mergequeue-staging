@@ -242,7 +242,6 @@ gaincome
 gelandesprung
 glaciers
 gramme
-getling
 gainer
 glumal
 gainers
@@ -3811,6 +3810,7 @@ gobbin
 ghosted
 ghostfishes
 glali
+getling
 grewhound
 ghostflower
 ghosthood
