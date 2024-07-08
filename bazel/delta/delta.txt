@@ -3288,7 +3288,6 @@ defiantness
 defiatory
 defiber
 defibrillated
-defibrillating
 defibrillation
 dragoons
 defibrillatory
@@ -16400,6 +16399,7 @@ downtrod
 downtrodden
 downturn
 downway
+defibrillating
 downward
 downwardly
 downwards
