@@ -18202,7 +18202,6 @@ cynips
 coercibleness
 coercibly
 coercion
-coercionary
 coercionist
 coercions
 caulis
@@ -24211,6 +24210,7 @@ convictor
 convicts
 convince
 convincedly
+coercionary
 convincedness
 craneman
 convincers
