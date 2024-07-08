@@ -9101,7 +9101,6 @@ caulosarc
 chilliness
 charlatanic
 charlatanical
-charlatanistic
 charlatanry
 charlatanries
 charlatans
@@ -21962,6 +21961,7 @@ confers
 conferva
 confervaceous
 confervae
+charlatanistic
 conferval
 confervalike
 confervas
