@@ -349,6 +349,7 @@ fetch
 faint
 filicic
 fainted
+flanks
 frills
 fainter
 fainters
@@ -2293,7 +2294,6 @@ faradocontractility
 fennig
 forficulate
 florist
-flanks
 fenrir
 flamboyer
 filially
