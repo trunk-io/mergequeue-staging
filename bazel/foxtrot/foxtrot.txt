@@ -324,6 +324,7 @@ fatiguing
 filagreing
 fails
 failsoft
+fogie
 fiador
 failure
 fain
@@ -3497,7 +3498,6 @@ fadme
 fizzer
 filelike
 farewells
-fogie
 fanti
 filemark
 fasciated
