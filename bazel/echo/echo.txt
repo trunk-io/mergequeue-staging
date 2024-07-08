@@ -9623,7 +9623,6 @@ emblemize
 encysted
 eulogizer
 engrid
-esculent
 esculents
 esculetin
 extremital
@@ -10520,6 +10519,7 @@ electrometallurgy
 ethnolinguist
 ethnolinguistic
 ethnolinguistics
+esculent
 enrockment
 exempla
 ethnologer
