@@ -5916,7 +5916,6 @@ glosseme
 glossemic
 glosser
 glossers
-galloway
 glossic
 gonotype
 glossier
@@ -9662,6 +9661,7 @@ globulinuria
 grumbles
 grumblesome
 grumbletonian
+galloway
 grumbly
 grumbling
 gyrochrome
