@@ -5824,6 +5824,7 @@ engramme
 engrammes
 engrammic
 epocha
+exon
 ergographic
 engraphia
 engraphic
@@ -12724,7 +12725,6 @@ exomorphic
 exomorphism
 exomphalous
 electrowin
-exon
 exoner
 exonerate
 exhibited
