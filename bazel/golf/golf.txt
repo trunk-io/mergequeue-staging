@@ -1823,7 +1823,6 @@ glasgow
 geistlich
 gastrologists
 goodwives
-gaultheria
 gubernia
 guebucu
 gormands
@@ -5613,6 +5612,7 @@ glyptodont
 geniting
 gletty
 glyptodontoid
+gaultheria
 glyptography
 gadroons
 gasometrical

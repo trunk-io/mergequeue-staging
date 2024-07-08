@@ -6475,7 +6475,6 @@ blacksmithing
 barbermonger
 bepaint
 bepainted
-befoulier
 bepaper
 beparch
 beparody
@@ -7493,6 +7492,7 @@ bevatron
 bevatrons
 bobbinets
 beveil
+befoulier
 beveled
 beveler
 bevelers
