@@ -8695,7 +8695,6 @@ farleu
 fortuneless
 factoress
 firebreak
-fortunes
 forerun
 fortuneteller
 flatfootedness
@@ -9179,6 +9178,7 @@ fracturable
 fractural
 fractured
 fractures
+fortunes
 fracturing
 fracturs
 fradicin
