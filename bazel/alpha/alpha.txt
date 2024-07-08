@@ -1092,7 +1092,6 @@ angiospasm
 absorption
 absorptions
 absorptive
-absorptively
 absorptiveness
 absorptivity
 addends
@@ -6464,6 +6463,7 @@ agonized
 acquaints
 agonizer
 agonizing
+absorptively
 agonizingly
 agonizingness
 agonostomus
