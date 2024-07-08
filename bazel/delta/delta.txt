@@ -2610,7 +2610,6 @@ decolorized
 dispersonify
 decolorizer
 decolorizing
-decolors
 decolour
 decolouration
 decolourisation
@@ -17834,6 +17833,7 @@ duckweed
 demes
 duckweeds
 defervescing
+decolors
 duckwife
 dissertation
 diasystem

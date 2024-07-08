@@ -251,7 +251,6 @@ garnetz
 gainfulness
 gaingiving
 gainyield
-gaining
 gainlessness
 gainlier
 gainliest
@@ -10569,6 +10568,7 @@ gazetteers
 geoscopic
 gunsmithing
 gloomiest
+gaining
 groovier
 globing
 glycocholic
