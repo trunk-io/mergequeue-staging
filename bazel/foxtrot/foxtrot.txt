@@ -1593,7 +1593,6 @@ fainness
 fargoing
 faveoluli
 faveolus
-festinance
 fictionised
 faviform
 foretopman
@@ -6192,6 +6191,7 @@ forenames
 flatfoots
 fluctuating
 fluctuational
+festinance
 fluctuosity
 footroom
 floatplane
