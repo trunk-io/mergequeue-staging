@@ -8077,6 +8077,7 @@ foretopmen
 frequencies
 foretops
 foretrace
+flatlet
 foretriangle
 fuddledness
 forwardal
@@ -11421,7 +11422,6 @@ factions
 foremasthand
 featherpated
 fourteenthly
-flatlet
 furmity
 furnace
 furnaces
