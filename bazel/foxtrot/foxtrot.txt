@@ -3849,6 +3849,7 @@ fineableness
 finebent
 franchisal
 finecomb
+flusher
 finedrawing
 fineer
 fineless
@@ -6481,7 +6482,6 @@ foamily
 fictionisation
 flushboard
 flushed
-flusher
 flusherman
 flushers
 flushes
