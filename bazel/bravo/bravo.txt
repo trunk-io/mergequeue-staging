@@ -4807,6 +4807,7 @@ batwing
 bovate
 beneighbored
 biliteral
+byard
 bedstring
 bedswerver
 bedtick
@@ -15895,7 +15896,6 @@ bronc
 boomtowns
 bronchadenitis
 bronchi
-byard
 bundle
 brooding
 bronchiloquy
