@@ -3558,7 +3558,6 @@ disulphuric
 debacles
 demipriest
 degasification
-dustbin
 degass
 degassed
 degassers
@@ -7825,6 +7824,7 @@ devouress
 datagrams
 devouring
 defiances
+dustbin
 doubtfully
 distater
 devouringly
