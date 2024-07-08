@@ -3293,7 +3293,6 @@ defibrillation
 dragoons
 defibrillatory
 defibrinate
-depletion
 deficiency
 dealated
 deficient
@@ -18559,6 +18558,7 @@ dustheap
 dustheaps
 dustier
 demythologization
+depletion
 dustiest
 dustyfoot
 dustily
