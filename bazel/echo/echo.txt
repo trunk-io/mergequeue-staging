@@ -2286,7 +2286,6 @@ electricalness
 electrican
 electrician
 electricians
-electricity
 electricize
 electrics
 electriferous
@@ -12159,6 +12158,7 @@ excrementally
 excrementary
 excrementitial
 enami
+electricity
 excrementitious
 evzone
 excrementitiousness
