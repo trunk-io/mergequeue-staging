@@ -322,7 +322,6 @@ failingness
 failles
 fatiguing
 filagreing
-fails
 failsoft
 fiador
 failure
@@ -8460,6 +8459,7 @@ forelimb
 formolit
 formols
 formonitrile
+fails
 formosan
 formose
 formous
