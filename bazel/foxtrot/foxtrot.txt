@@ -4336,7 +4336,6 @@ fabliaux
 fishnets
 florid
 fishpole
-fishpoles
 fishponds
 fishskin
 fishspear
@@ -5825,6 +5824,7 @@ flogmaster
 femoropopliteal
 flogs
 feronia
+fishpoles
 floyt
 fraterniser
 flokite
