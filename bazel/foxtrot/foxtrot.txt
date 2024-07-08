@@ -29,7 +29,6 @@ fabricable
 fabricant
 fruticous
 fabricates
-fabrication
 fabrications
 flentes
 fabricative
@@ -3681,6 +3680,7 @@ fullword
 faradaic
 filmography
 films
+fabrication
 fascicularly
 filmset
 fluxion
