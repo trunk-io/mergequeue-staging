@@ -600,7 +600,6 @@ ablution
 ablutionary
 ablutions
 abluvion
-abmho
 aggravation
 assai
 abmhos
@@ -1311,6 +1310,7 @@ assentors
 acalepha
 acalephae
 acalephan
+abmho
 acalephe
 acalephes
 acalephoid
