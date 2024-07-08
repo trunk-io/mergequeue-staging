@@ -8275,7 +8275,6 @@ graptolite
 graptolithina
 graptoloidea
 grasni
-gunmaking
 gradatory
 grasp
 graspable
@@ -8686,6 +8685,7 @@ gladiatorism
 greenheaded
 greenheart
 graphitizable
+gunmaking
 gladful
 greenhide
 gestational
