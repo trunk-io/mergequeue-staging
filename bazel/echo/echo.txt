@@ -5117,7 +5117,6 @@ endocarditic
 embrittled
 endocardium
 endocarp
-endocarpic
 endocarps
 escuages
 epimenidean
@@ -11672,6 +11671,7 @@ epanorthotic
 emendated
 evoe
 eleut
+endocarpic
 evokers
 eldmother
 evokes
