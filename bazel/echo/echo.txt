@@ -4598,7 +4598,6 @@ encephalometer
 endocardiac
 encephalomyelitic
 ethylamine
-encephalomyelitis
 escapements
 entrepreneurial
 encephalomyocarditis
@@ -11960,6 +11959,7 @@ expeditions
 excentricity
 equaeval
 excepable
+encephalomyelitis
 exobasidiaceae
 eppes
 excepter
