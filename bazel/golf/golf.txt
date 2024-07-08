@@ -1782,7 +1782,6 @@ gonfalcon
 gwen
 gastroenterostomy
 gastroenterostomies
-gastroepiploic
 guebre
 gonotyl
 glazieries
@@ -6363,6 +6362,7 @@ gnomes
 gnomesque
 glycerols
 gnomic
+gastroepiploic
 gnomical
 greyhound
 gnomologic
