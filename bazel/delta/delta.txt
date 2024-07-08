@@ -68,7 +68,6 @@ disaccustom
 digestively
 dacryocystocele
 defailance
-dacryocystoptosis
 dacryocystorhinostomy
 dacryocystosyringotomy
 dacryocystotome
@@ -17905,6 +17904,7 @@ dueler
 duelist
 duelistic
 duelers
+dacryocystoptosis
 duelists
 duelled
 duelli
