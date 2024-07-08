@@ -8024,6 +8024,7 @@ flossiness
 foreswear
 foreswearing
 fumacious
+frasier
 foret
 faipule
 foretack
@@ -9417,7 +9418,6 @@ falsen
 ferfet
 frontoparietal
 files
-frasier
 frass
 frasse
 frat
