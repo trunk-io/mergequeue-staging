@@ -6798,7 +6798,6 @@ berskin
 bert
 bugshas
 boaters
-berth
 bertha
 berther
 berthierite
@@ -9133,6 +9132,7 @@ byordinary
 bidented
 bioresearch
 biorhythm
+berth
 bios
 bitanhol
 biosatellite
