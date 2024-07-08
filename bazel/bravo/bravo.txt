@@ -9321,7 +9321,6 @@ biplanal
 bottonhook
 bagman
 biplane
-bobolink
 buckish
 bemuzzle
 biplanes
@@ -17083,6 +17082,7 @@ bulletin
 bulletined
 bulletless
 bulletlike
+bobolink
 bulletmaker
 battalia
 bulletmaking
