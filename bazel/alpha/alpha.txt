@@ -962,7 +962,6 @@ agglutinating
 absences
 absyrtus
 absentation
-absented
 absentees
 acanthopteri
 ascocarp
@@ -23111,6 +23110,7 @@ atticisms
 atticists
 atticize
 aeromantic
+absented
 atticizing
 atticomastoid
 attics

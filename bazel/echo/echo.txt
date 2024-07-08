@@ -10222,7 +10222,6 @@ eternize
 esguard
 elflike
 eternized
-eternizes
 etesian
 endomysium
 etesians
@@ -12363,6 +12362,7 @@ exempli
 equisegmented
 exemplify
 educement
+eternizes
 exemplifiable
 evocatrix
 exemplification
