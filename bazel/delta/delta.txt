@@ -6072,7 +6072,6 @@ derails
 derays
 derange
 derangeable
-derangement
 deranger
 deranges
 derat
@@ -7237,6 +7236,7 @@ detering
 deteriorate
 deteriorated
 deteriorates
+derangement
 deteriorating
 deterioration
 deteriorationist
