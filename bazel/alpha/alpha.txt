@@ -20064,7 +20064,6 @@ armpits
 armplate
 armrack
 armrest
-armrests
 arms
 armscye
 armsful
@@ -23863,6 +23862,7 @@ authorizers
 authorizes
 adoors
 authorizing
+armrests
 authorless
 authorling
 authotype
