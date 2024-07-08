@@ -19252,7 +19252,6 @@ arctation
 atty
 almain
 arctic
-arctician
 arcticize
 atheris
 arcticized
@@ -23994,6 +23993,7 @@ autoconduction
 autoconvection
 autoconverter
 autocopist
+arctician
 autocoprophagous
 autocorrelation
 autocorrosion
