@@ -6478,7 +6478,6 @@ ensuable
 ensuance
 ensuant
 ebcdic
-ensues
 ensuing
 electrochemically
 emarcid
@@ -9453,6 +9452,7 @@ esbay
 emarginating
 esbatement
 enlock
+ensues
 esc
 esca
 emperorship

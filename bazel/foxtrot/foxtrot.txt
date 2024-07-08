@@ -1359,7 +1359,6 @@ fathercraft
 fathered
 fatherkin
 fatherland
-frogged
 folkmoot
 fluoroscopically
 fender
@@ -7318,6 +7317,7 @@ forbidder
 finback
 foolishness
 forbidding
+frogged
 forbye
 forbysen
 flammulated
