@@ -15406,7 +15406,6 @@ clamer
 clamflat
 clamjamfery
 clamjamfry
-clamjamphrie
 clamlike
 clammersome
 clammy
@@ -26811,6 +26810,7 @@ counterdemand
 counterdemonstrate
 counterdemonstration
 counterdemonstrator
+clamjamphrie
 counterdevelopment
 cochairman
 counterdifficulty
