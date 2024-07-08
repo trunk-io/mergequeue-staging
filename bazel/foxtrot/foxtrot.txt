@@ -3852,7 +3852,6 @@ finecomb
 finedrawing
 fineer
 fineless
-fineness
 fustianish
 federalists
 fleetingly
@@ -5475,6 +5474,7 @@ flichters
 fartherer
 flicked
 formication
+fineness
 flickered
 flickering
 fatling
