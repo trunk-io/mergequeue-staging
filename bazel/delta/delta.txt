@@ -11422,7 +11422,6 @@ drawbars
 discloak
 discloister
 debug
-dine
 discloser
 disclosing
 disclosive
@@ -14827,6 +14826,7 @@ decollete
 dodder
 doddered
 discussion
+dine
 disembarrassed
 dodderer
 dallies
