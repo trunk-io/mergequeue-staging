@@ -15625,7 +15625,6 @@ detachableness
 doorless
 doormaid
 disbranched
-doormaker
 doormats
 doornboom
 doorplates
@@ -16159,6 +16158,7 @@ dousing
 dout
 domestication
 douter
+doormaker
 doux
 douzaine
 dissectible

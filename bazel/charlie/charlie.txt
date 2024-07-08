@@ -1395,7 +1395,6 @@ callable
 callaesthetic
 callais
 civilisations
-callaloo
 callaloos
 callan
 callans
@@ -25728,6 +25727,7 @@ coordinates
 corregimientos
 correl
 correlatable
+callaloo
 circumintestinal
 coastways
 correlate
