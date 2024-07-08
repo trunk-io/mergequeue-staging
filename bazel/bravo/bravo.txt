@@ -4438,7 +4438,6 @@ bottleflower
 becloaks
 beclog
 beclogged
-beclose
 beclothe
 beclothed
 beclothes
@@ -8847,6 +8846,7 @@ binits
 bink
 binman
 binmen
+beclose
 barracks
 binnacle
 binnacles
