@@ -5281,6 +5281,7 @@ ff
 fledging
 forsay
 fledgling
+fluorin
 fledglings
 fleece
 fleeceflower
@@ -6414,7 +6415,6 @@ fluorimeter
 fluorimetry
 fermila
 fanciest
-fluorin
 fittingly
 fenestrate
 foresleeve
