@@ -977,6 +977,7 @@ fiefdoms
 farcinoma
 farctate
 fard
+familic
 fabes
 fardage
 foliaging
@@ -6809,7 +6810,6 @@ foldboating
 frampler
 foldboats
 foldcourse
-familic
 folded
 fascistic
 fado
