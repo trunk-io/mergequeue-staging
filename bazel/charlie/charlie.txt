@@ -3321,6 +3321,7 @@ capsian
 capsicin
 capsicum
 capsicums
+chamber
 capsid
 capsidae
 capsids
@@ -8475,7 +8476,6 @@ chamaesiphonales
 copiousness
 chamal
 chamar
-chamber
 chamberdeacon
 chamberer
 chamberfellow
