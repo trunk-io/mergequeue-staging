@@ -1357,7 +1357,6 @@ calyptoblastea
 calyptoblastic
 calyptorhynchus
 calyptraea
-calyptranthes
 calyptras
 calyptrata
 challah
@@ -13696,6 +13695,7 @@ cymbaleer
 costaea
 cymbaler
 cymbalist
+calyptranthes
 cymbalists
 cymballed
 cymballike
