@@ -7865,7 +7865,6 @@ bibliographers
 bibliography
 blenniidae
 burthenman
-bibliographic
 bibliographical
 blepharocera
 bibliographically
@@ -17829,6 +17828,7 @@ burp
 burping
 blindfish
 burps
+bibliographic
 burr
 burrah
 bedright
