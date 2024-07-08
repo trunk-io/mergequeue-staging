@@ -446,7 +446,6 @@ dairymaids
 dairyman
 dairymen
 doorbrand
-dairywoman
 dairywomen
 dayroom
 dayrooms
@@ -5196,6 +5195,7 @@ dorsimesal
 dennis
 disembed
 dennstaedtia
+dairywoman
 denom
 decursion
 denominant
