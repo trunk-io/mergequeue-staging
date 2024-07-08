@@ -1153,7 +1153,6 @@ abstractively
 antoecians
 abstractiveness
 abstractly
-abstractness
 abstractor
 abstractors
 abstracts
@@ -4442,6 +4441,7 @@ adradially
 adradius
 airs
 adramelech
+abstractness
 adread
 adreamed
 antlerite
