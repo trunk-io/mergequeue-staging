@@ -3025,7 +3025,6 @@ byous
 bracteolate
 barrio
 barrios
-botts
 barristers
 barristership
 barristress
@@ -9202,6 +9201,7 @@ biotechnology
 barrett
 biotechnological
 biotechnologicaly
+botts
 biotechnologically
 biotechs
 bracherer
