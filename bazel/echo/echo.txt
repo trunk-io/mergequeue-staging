@@ -4064,6 +4064,7 @@ empall
 enteradenological
 empanel
 empaneled
+explicative
 enkolpia
 empaneling
 empanelled
@@ -13215,7 +13216,6 @@ explicated
 explicating
 explications
 exudate
-explicative
 exhilarated
 endothelioid
 explicatively
