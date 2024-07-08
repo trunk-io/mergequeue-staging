@@ -3884,7 +3884,6 @@ fiant
 frenzying
 fingent
 fingerable
-frightenable
 fingerberry
 fingerboard
 fingerboards
@@ -10258,6 +10257,7 @@ fecund
 froeman
 flickerproof
 ferrado
+frightenable
 formalized
 frogbit
 frogeye

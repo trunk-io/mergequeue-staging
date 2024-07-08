@@ -4298,7 +4298,6 @@ deltiology
 deltohedron
 deltoid
 deltoidei
-deltoids
 delubra
 delubrubra
 deluce
@@ -17687,6 +17686,7 @@ dsri
 dt
 dtd
 dtente
+deltoids
 dtset
 du
 duadic
