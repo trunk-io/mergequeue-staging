@@ -8329,7 +8329,6 @@ chalcididae
 chalcidoid
 cidarid
 chalcids
-chalcioecus
 chalcis
 chalcocite
 chalcogenide
@@ -21723,6 +21722,7 @@ condylos
 condylotomy
 contraplex
 condylure
+chalcioecus
 condiment
 condimental
 condimentary
