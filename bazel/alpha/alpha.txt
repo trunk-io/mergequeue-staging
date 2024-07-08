@@ -11686,7 +11686,6 @@ anacondas
 anacoustic
 anacreontic
 anacrisis
-anacrogynae
 anacrogynous
 anacromyodian
 anacrotism
@@ -21666,6 +21665,7 @@ assemblance
 assemble
 assembled
 assemblee
+anacrogynae
 assemblement
 anniv
 assembler
