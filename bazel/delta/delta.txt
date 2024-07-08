@@ -6760,6 +6760,7 @@ desitive
 diathetic
 desk
 deskbound
+djersa
 deskill
 desklike
 disposure
@@ -17485,7 +17486,6 @@ drowning
 demagog
 drownings
 drownproofing
-djersa
 drowns
 drowse
 drowsed
