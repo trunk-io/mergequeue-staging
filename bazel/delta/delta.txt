@@ -3562,7 +3562,6 @@ dustbin
 degass
 degassed
 degassers
-degasses
 degassing
 degauss
 degaussing
@@ -8198,6 +8197,7 @@ diaderm
 diadermic
 dromons
 diadic
+degasses
 dyadic
 dyadically
 diadkokinesia
