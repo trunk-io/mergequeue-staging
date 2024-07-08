@@ -881,7 +881,6 @@ abrogable
 abrogate
 abrogates
 accomplishable
-acrogynous
 abrogations
 abrogative
 abrogator
@@ -10479,6 +10478,7 @@ avener
 abnormalized
 amethystine
 amethystlike
+acrogynous
 amethysts
 anthropographic
 amethodical
