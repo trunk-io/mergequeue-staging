@@ -12945,7 +12945,6 @@ churchliness
 churchman
 churchmanly
 churchmanship
-churchmaster
 churchmen
 churchreeve
 chromeplate
@@ -19522,6 +19521,7 @@ colossi
 colossians
 colosso
 colossochelys
+churchmaster
 colossus
 colossuses
 colossuswise
