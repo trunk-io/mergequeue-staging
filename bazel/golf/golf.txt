@@ -4203,7 +4203,6 @@ gilo
 gilpy
 ginkgoes
 gilse
-gazettes
 gilsonite
 gilten
 gilty
@@ -6312,6 +6311,7 @@ gnathophorous
 gowaned
 glossodynia
 grayouts
+gazettes
 glyoxylic
 gujerat
 gnathopodous
