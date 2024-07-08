@@ -5787,6 +5787,7 @@ daint
 depopularize
 depopulate
 depicturing
+digestibility
 dopaoxidase
 depopulated
 depopulates
@@ -9490,7 +9491,6 @@ digestant
 digestedness
 digester
 digesters
-digestibility
 digestible
 digestibleness
 digestibly

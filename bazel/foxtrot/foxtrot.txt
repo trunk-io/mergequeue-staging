@@ -8674,6 +8674,7 @@ frowst
 feus
 fortnightly
 fortnightlies
+funnelform
 fortnights
 flounders
 feedingstuff
@@ -11260,7 +11261,6 @@ flambeing
 forefield
 funnel
 funneled
-funnelform
 funneling
 funnelled
 finickingly
