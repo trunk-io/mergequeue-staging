@@ -11469,7 +11469,6 @@ evennesses
 evensong
 evensongs
 expiation
-eventail
 eventful
 excursioner
 eventfulness
@@ -13059,6 +13058,7 @@ expensiveness
 elatedness
 expergefacient
 embreastment
+eventail
 expergefaction
 ebonize
 enwall
