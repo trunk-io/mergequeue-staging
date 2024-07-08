@@ -2595,6 +2595,7 @@ fertilely
 fertilisable
 fertilise
 fertilising
+fullgrownness
 fertility
 fertilities
 fertilizability
@@ -10898,7 +10899,6 @@ fullfaces
 frowzled
 frauds
 fullfil
-fullgrownness
 foolocracy
 ferrosilicon
 fullhearted
