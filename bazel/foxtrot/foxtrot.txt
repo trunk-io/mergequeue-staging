@@ -284,7 +284,6 @@ faena
 faenas
 faenus
 foreboder
-faerie
 faeries
 faeryland
 freedstool
@@ -1765,6 +1764,7 @@ figurante
 fallage
 faintheartedly
 featheriness
+faerie
 featherleaf
 fungated
 flatterers
