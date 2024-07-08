@@ -293,6 +293,7 @@ exiles
 eastertide
 eastings
 electrotechnician
+earthquake
 eastlake
 eastlander
 encharnel
@@ -12582,7 +12583,6 @@ eximidus
 eximiousness
 exinanite
 exinanition
-earthquake
 endotheliotoxin
 exine
 epidermical
