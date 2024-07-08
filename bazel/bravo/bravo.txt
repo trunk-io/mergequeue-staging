@@ -6038,7 +6038,6 @@ benchboard
 blachong
 benched
 benchers
-benchership
 benches
 benchfellow
 benchful
@@ -8526,6 +8525,7 @@ blunderful
 bylina
 bilinear
 bilineate
+benchership
 bilineated
 bylined
 billfold
