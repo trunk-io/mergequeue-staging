@@ -4595,7 +4595,6 @@ aduncate
 aduncated
 aduncity
 aduncous
-adure
 autos
 adurent
 adust
@@ -24282,6 +24281,7 @@ autonomously
 achoke
 autonomousness
 autooxidation
+adure
 ablegates
 autopathy
 autopathic
