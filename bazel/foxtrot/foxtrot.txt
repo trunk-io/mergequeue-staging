@@ -3845,7 +3845,6 @@ font
 fixes
 fine
 fineable
-fineableness
 finebent
 franchisal
 finecomb
@@ -7189,6 +7188,7 @@ footsies
 floodway
 footslog
 footslogged
+fineableness
 footslogger
 footslogging
 furnage
