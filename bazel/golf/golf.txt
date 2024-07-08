@@ -1501,7 +1501,6 @@ garrigue
 gemology
 garring
 gerated
-garrisoned
 garrisonian
 grided
 gleeman
@@ -10315,6 +10314,7 @@ gules
 gutting
 gallification
 genesial
+garrisoned
 glareous
 gulf
 grat

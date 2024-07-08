@@ -11017,7 +11017,6 @@ disagreements
 disagreer
 disalicylide
 dilutedness
-disalign
 disgorgement
 disaligned
 disaligning
@@ -15322,6 +15321,7 @@ domesticated
 domesticates
 domesticating
 domesticative
+disalign
 diagnostic
 domesticator
 domesticity
