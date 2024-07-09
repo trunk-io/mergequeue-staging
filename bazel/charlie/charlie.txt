@@ -3865,7 +3865,6 @@ carcels
 campania
 carcer
 coalizer
-carcerate
 carcerated
 carcerating
 cantharidized
@@ -5288,6 +5287,7 @@ castellum
 casten
 caster
 casterless
+carcerate
 casters
 crossfish
 casteth
