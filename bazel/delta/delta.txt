@@ -1762,7 +1762,6 @@ debatable
 debate
 dismayingness
 debated
-debateful
 debatefully
 divas
 debater
@@ -4765,6 +4764,7 @@ democratizes
 democratizing
 defer
 democrats
+debateful
 democraw
 democritean
 demode
