@@ -5427,7 +5427,6 @@ disaffiliating
 denuder
 denuders
 denudes
-denuding
 denumerability
 denumerable
 denumerably
@@ -7318,6 +7317,7 @@ derelictly
 detick
 deticked
 disconnective
+denuding
 detickers
 deticking
 deticks
