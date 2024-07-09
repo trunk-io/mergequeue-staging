@@ -2145,6 +2145,7 @@ fastidiously
 felspars
 felspath
 friezy
+fraze
 felstone
 felstones
 flirters
@@ -9485,7 +9486,6 @@ feminizes
 fretworks
 friesic
 fenbank
-fraze
 frazed
 frazing
 frazzle
