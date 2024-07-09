@@ -983,7 +983,6 @@ gaminesque
 gasifiable
 granivorous
 galeiform
-gasholder
 gangmaster
 gascon
 gamings
@@ -5658,6 +5657,7 @@ glisters
 glitch
 geologers
 generously
+gasholder
 glittered
 glutinant
 glittery
