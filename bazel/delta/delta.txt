@@ -564,6 +564,7 @@ damageably
 damaged
 damagement
 damageous
+duenesses
 disyllabizing
 dao
 damager
@@ -17915,7 +17916,6 @@ duello
 duellos
 duels
 dueness
-duenesses
 duenna
 duennadom
 datism
