@@ -1123,7 +1123,6 @@ ganglier
 gleemen
 guayule
 gorlois
-ganglioblast
 goblet
 gangliocyte
 galavant
@@ -8913,6 +8912,7 @@ grievable
 grievance
 goliad
 grievant
+ganglioblast
 grieved
 grievedly
 griever
