@@ -3358,7 +3358,6 @@ capsuler
 capsules
 capsuliferous
 capsuliform
-capsuligerous
 capsuling
 capsulitis
 capsulize
@@ -5521,6 +5520,7 @@ catalyzer
 catalyzers
 catalyzes
 catallactically
+capsuligerous
 catallactics
 clangoured
 catallum
