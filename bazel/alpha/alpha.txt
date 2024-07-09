@@ -2242,6 +2242,7 @@ antiseptics
 achape
 achaque
 achar
+ana
 acharya
 achariaceae
 achariaceous
@@ -11547,7 +11548,6 @@ amuzzle
 amvis
 amzel
 attorneys
-ana
 appendages
 anabaenas
 apotropaism
