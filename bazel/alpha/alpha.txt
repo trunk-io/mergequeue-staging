@@ -3269,7 +3269,6 @@ activates
 activating
 antifreezing
 activations
-activators
 active
 activeness
 actives
@@ -9031,6 +9030,7 @@ allophanate
 allophane
 aspidosperma
 allophyle
+activators
 allophylian
 allophylic
 allophite

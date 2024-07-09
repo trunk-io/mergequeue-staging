@@ -9537,7 +9537,6 @@ endosmometer
 eschara
 extraovate
 escharoid
-escharotic
 eschars
 ericetal
 eschatocol
@@ -10002,6 +10001,7 @@ estheses
 esthesia
 elastics
 esthacyte
+escharotic
 edituate
 esthesiogen
 esthesiogeny
