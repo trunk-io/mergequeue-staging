@@ -10919,6 +10919,7 @@ chipolata
 chippable
 coequals
 chippage
+customization
 chipped
 chippendale
 chipper
@@ -31733,7 +31734,6 @@ customers
 customhouse
 customhouses
 customizable
-customization
 customizations
 customize
 customized
