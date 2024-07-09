@@ -4033,6 +4033,7 @@ fiques
 fir
 fadeless
 firbolg
+fumarate
 firca
 fyrd
 fortyfold
@@ -10969,7 +10970,6 @@ fumarase
 flagellar
 finally
 fumarases
-fumarate
 fumaria
 formulatory
 fungivorous

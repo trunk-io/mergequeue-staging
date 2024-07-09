@@ -4490,7 +4490,6 @@ demetricize
 demi
 demy
 demiadult
-diffinity
 dingoes
 demiangel
 demiassignation
@@ -6000,6 +5999,7 @@ depurative
 depurator
 depure
 depurge
+diffinity
 depurging
 ditchers
 depursement
