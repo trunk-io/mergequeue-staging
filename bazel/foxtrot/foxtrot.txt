@@ -6286,6 +6286,7 @@ flotations
 fluidizes
 fileted
 fluidly
+fluorometer
 fluidmeter
 familiary
 fluidness
@@ -6445,7 +6446,6 @@ fluorogen
 formicivorous
 fluorogenic
 fluorography
-fluorometer
 flaser
 folklore
 fluoroscopes
