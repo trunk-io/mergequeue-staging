@@ -4855,6 +4855,7 @@ flammation
 flammed
 flammeous
 flamming
+fare
 foramination
 fishbolt
 footers
@@ -6801,7 +6802,6 @@ fluorid
 foresettle
 foldaway
 foldboat
-fare
 foldboater
 ficin
 felting
