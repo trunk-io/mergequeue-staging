@@ -10729,7 +10729,6 @@ chymia
 chymic
 chymics
 chymiferous
-chymify
 chymified
 chymifying
 chiming
@@ -28201,6 +28200,7 @@ cranny
 crannia
 crannied
 crannies
+chymify
 compiler
 crannock
 corvktte
