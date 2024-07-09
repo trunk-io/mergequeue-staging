@@ -6530,6 +6530,7 @@ bepurple
 boid
 busyness
 bepuzzle
+blurrier
 bequalm
 bequeath
 bequeathable
@@ -11499,7 +11500,6 @@ blurbs
 blurredly
 blurredness
 blurry
-blurrier
 bridal
 blurriness
 blurringly
