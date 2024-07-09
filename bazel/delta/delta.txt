@@ -5164,7 +5164,6 @@ denitrate
 depopulating
 denitrated
 denitrating
-denitration
 denitrator
 denitrify
 denitrified
@@ -15174,6 +15173,7 @@ dolichocephal
 decants
 depencil
 dolichocephali
+denitration
 dolichocephalic
 dolichocephalism
 damnit
