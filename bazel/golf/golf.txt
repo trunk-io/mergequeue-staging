@@ -5327,7 +5327,6 @@ genuclast
 gona
 gleamily
 ginneries
-gleaminess
 gleaming
 gleamless
 gleams
@@ -10366,6 +10365,7 @@ gulllike
 grueller
 gr
 generalism
+gleaminess
 gulls
 gulmohar
 gurglet
