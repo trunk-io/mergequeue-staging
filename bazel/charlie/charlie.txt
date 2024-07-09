@@ -16410,7 +16410,6 @@ clipse
 clipsheet
 clipsheets
 clipsome
-clipt
 capernoited
 clique
 cliqued
@@ -19071,6 +19070,7 @@ collegese
 collegia
 collegial
 collegialism
+clipt
 collegiality
 collegially
 collegian
