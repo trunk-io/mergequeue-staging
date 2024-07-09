@@ -4339,6 +4339,7 @@ fishlike
 fishline
 fishlines
 feverless
+fragment
 freebootery
 fishling
 fromage
@@ -9207,7 +9208,6 @@ fragility
 fleams
 fragilities
 fluemen
-fragment
 fragmental
 fumously
 fragmentalize
