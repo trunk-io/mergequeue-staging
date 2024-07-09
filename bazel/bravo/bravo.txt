@@ -2862,6 +2862,7 @@ baronial
 baronies
 burry
 byspell
+bewilders
 baronize
 baronized
 baronry
@@ -7585,7 +7586,6 @@ bewilderingly
 bairdi
 bewilderment
 backup
-bewilders
 bestink
 bewimple
 bewinged
