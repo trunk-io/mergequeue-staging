@@ -19053,7 +19053,6 @@ archivolt
 archizoic
 archjockey
 advertizing
-archknave
 archlet
 archleveler
 archlexicographer
@@ -22105,6 +22104,7 @@ asthenope
 asthenophobia
 asthenopia
 asthenopic
+archknave
 asthma
 asthmas
 asthmatic
