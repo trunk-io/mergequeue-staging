@@ -9063,6 +9063,7 @@ chariotry
 chariots
 commercialised
 chromophane
+consimilar
 charism
 coked
 charisma
@@ -22988,7 +22989,6 @@ consigns
 consiliary
 consilience
 consilient
-consimilar
 consimilarity
 consimilate
 consimilated

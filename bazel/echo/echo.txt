@@ -9949,7 +9949,6 @@ estaminet
 estaminets
 estamp
 estampage
-estampede
 estancia
 estancias
 ecclesiast
@@ -10630,6 +10629,7 @@ etrogim
 etruria
 effluvium
 etrurian
+estampede
 etruscology
 etta
 empory
