@@ -6299,7 +6299,6 @@ fluidness
 fluidounce
 factordom
 fluidrams
-fifteenths
 fluigram
 frankincensed
 feriation
@@ -10682,6 +10681,7 @@ foul
 funiculi
 findhorn
 frumpily
+fifteenths
 februaries
 frumpishly
 frumpishness
