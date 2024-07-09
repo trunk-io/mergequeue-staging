@@ -18839,7 +18839,6 @@ coleplant
 colera
 coles
 coleseed
-coleseeds
 coleslaw
 coleslaws
 colessees
@@ -30226,6 +30225,7 @@ crumpet
 codlings
 crumpets
 circumventions
+coleseeds
 crumpy
 crumping
 crumple
