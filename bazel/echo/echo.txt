@@ -2018,7 +2018,6 @@ ekphory
 electroscission
 epithelioceptor
 enwood
-ekphoria
 ekphorias
 ekronite
 eutomous
@@ -12963,6 +12962,7 @@ ellebore
 expection
 expectorant
 expectorate
+ekphoria
 eyebath
 expectorated
 enbibe

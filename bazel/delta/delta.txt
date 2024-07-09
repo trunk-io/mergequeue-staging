@@ -1974,6 +1974,7 @@ decahedra
 decahedral
 decahedrodra
 decahedrons
+dekalitre
 decay
 decayed
 dispread
@@ -3907,7 +3908,6 @@ dekadrachm
 dekagram
 daphnad
 dekaliters
-dekalitre
 dekametre
 dekaparsec
 dekapode
