@@ -8944,7 +8944,6 @@ biodegradation
 biodegrade
 biodegraded
 biodegrading
-biodynamical
 boite
 biodyne
 bioecology
@@ -15767,6 +15766,7 @@ burys
 bromated
 bromates
 brachiferous
+biodynamical
 bromauric
 brombenzene
 brombenzyl
