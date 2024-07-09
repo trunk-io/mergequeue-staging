@@ -5803,6 +5803,7 @@ bello
 bialystoker
 blennostasis
 bellona
+bathycurrent
 bellonion
 belloot
 bellota
@@ -7630,7 +7631,6 @@ bewrapping
 briggsian
 beclamors
 bewraps
-bathycurrent
 bewrapt
 bewrathed
 bewreath
