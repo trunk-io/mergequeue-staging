@@ -5275,7 +5275,6 @@ glaucescent
 glaucin
 glaucionetta
 glaucium
-glaucochroite
 glaucodot
 glaucoma
 gorilline
@@ -7144,6 +7143,7 @@ grassless
 goosehouse
 geezer
 grouch
+glaucochroite
 gusle
 gooselike
 gooseliver
