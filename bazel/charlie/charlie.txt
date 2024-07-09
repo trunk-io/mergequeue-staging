@@ -7361,7 +7361,6 @@ cephalodymus
 cephalodynia
 cephalodiscid
 cephalodiscida
-cardiotomy
 cephalodium
 cephalofacial
 cephalogram
@@ -30755,6 +30754,7 @@ cullers
 cullet
 cullets
 cede
+cardiotomy
 cadettes
 cully
 cullibility
