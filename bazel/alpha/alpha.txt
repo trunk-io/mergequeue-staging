@@ -6691,6 +6691,7 @@ agunah
 agura
 aguroth
 aerobic
+anelectrotonus
 ah
 asthenias
 aha
@@ -12622,7 +12623,6 @@ anelasticity
 anele
 anelectrode
 anelectrotonic
-anelectrotonus
 aneles
 aneling
 aneurisms
