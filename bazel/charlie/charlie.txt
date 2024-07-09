@@ -11416,7 +11416,6 @@ chlorophenol
 chlorophyceae
 convenee
 chlorophyl
-chlorophyll
 clarshech
 chlorophyllian
 captainry
@@ -29332,6 +29331,7 @@ cryptograph
 cryptographal
 cryptographer
 cryptography
+chlorophyll
 cryptographic
 cryptographical
 cryptoheresy
