@@ -1657,7 +1657,6 @@ bradyseismal
 ballotist
 ballottable
 ballottine
-ballottines
 ballpark
 ballparks
 butane
@@ -2991,6 +2990,7 @@ barren
 babyhoods
 barrenest
 barrenly
+ballottines
 barrenness
 barrens
 barrer
