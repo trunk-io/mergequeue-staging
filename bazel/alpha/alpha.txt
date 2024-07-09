@@ -3242,7 +3242,6 @@ actins
 actinula
 actinulae
 actionability
-actionably
 assoc
 actionary
 actioner
@@ -9315,6 +9314,7 @@ alodiality
 alodially
 alodialty
 alodiary
+actionably
 alodies
 amphicarpium
 anteaters
