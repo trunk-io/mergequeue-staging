@@ -3356,7 +3356,6 @@ fined
 fifties
 fiftieth
 fiftyfold
-forebow
 fiftypenny
 figaro
 figeter
@@ -10579,6 +10578,7 @@ fructidor
 fenestrae
 fructiferous
 fructiferously
+forebow
 freeform
 fructification
 fructificative
