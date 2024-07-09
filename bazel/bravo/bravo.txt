@@ -6439,7 +6439,6 @@ benzoquinoline
 benzoquinone
 benzoquinoxaline
 byron
-bath
 botryomycosis
 benzosulfimide
 benzosulphimide
@@ -7019,6 +7018,7 @@ besmirchers
 besmirchment
 besmoked
 besmokes
+bath
 besmoking
 besmooth
 besmoothed

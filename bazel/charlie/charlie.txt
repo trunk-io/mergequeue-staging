@@ -27247,7 +27247,6 @@ counterweights
 counterwheel
 counterwilling
 counterwind
-counterwitness
 crushableness
 counterwork
 counterworker
@@ -28695,6 +28694,7 @@ creodonta
 creodonts
 creole
 creoleize
+counterwitness
 creoles
 coincline
 chuted
