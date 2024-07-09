@@ -935,6 +935,7 @@ ectosarc
 excavated
 ectoskeleton
 eggcupful
+emitter
 ectosomal
 ectoplasy
 escamoteur
@@ -3078,7 +3079,6 @@ exhance
 elms
 elmwood
 eloah
-emitter
 exorcizer
 emerse
 extralateral
