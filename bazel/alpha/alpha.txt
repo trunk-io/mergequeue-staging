@@ -10079,6 +10079,7 @@ aggregational
 amberies
 amberina
 amberjack
+automata
 amberjacks
 architypographer
 amberoid
@@ -24199,7 +24200,6 @@ automan
 automania
 automanipulation
 automanual
-automata
 automatable
 automate
 atomistics
