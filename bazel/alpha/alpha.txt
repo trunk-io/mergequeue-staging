@@ -2784,7 +2784,6 @@ acquirement
 acquirements
 acquirer
 acquires
-acquiring
 acquisible
 acousmas
 acquisite
@@ -5373,6 +5372,7 @@ affectum
 affectuous
 affectus
 affeeble
+acquiring
 atresias
 affeer
 affeerer
