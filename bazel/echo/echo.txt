@@ -1853,7 +1853,6 @@ eyespot
 eyess
 eyestalk
 eyestrain
-eyestring
 empyreumata
 ethics
 eyeteeth
@@ -13755,6 +13754,7 @@ extortioner
 europocentric
 extortionist
 economist
+eyestring
 extortionists
 excellences
 extortive
