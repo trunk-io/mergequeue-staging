@@ -3694,7 +3694,6 @@ fenceful
 filopodia
 floorcloth
 fluoridated
-filopodium
 filosa
 frankify
 foreview
@@ -11030,6 +11029,7 @@ figworm
 funster
 fuming
 fumingly
+filopodium
 frankhearted
 fumish
 fluoroscopist
