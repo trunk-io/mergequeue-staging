@@ -8307,6 +8307,7 @@ dialectics
 dialectologer
 dialectology
 dialectologic
+drifty
 dialectological
 dialectologically
 dialectologies
@@ -16159,7 +16160,6 @@ douser
 dousers
 douses
 delineable
-drifty
 dousing
 dout
 domestication
