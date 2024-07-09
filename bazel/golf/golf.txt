@@ -1226,7 +1226,6 @@ genus
 ganoidal
 ganoidei
 griphosaurus
-ganoidian
 greathead
 goniunia
 ganoin
@@ -1499,6 +1498,7 @@ garous
 garpikes
 garret
 garreteer
+ganoidian
 giinwale
 garridge
 garrigue
