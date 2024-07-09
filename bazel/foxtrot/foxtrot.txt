@@ -5526,6 +5526,7 @@ footgrip
 flightiness
 flightless
 forepassed
+furler
 flights
 flightshot
 flying
@@ -11399,7 +11400,6 @@ floggings
 furlane
 fastigiated
 flatworms
-furler
 furless
 furling
 flannelly
