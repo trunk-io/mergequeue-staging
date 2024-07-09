@@ -3854,7 +3854,6 @@ finecomb
 finedrawing
 fineer
 fineless
-fineness
 fustianish
 federalists
 fleetingly
@@ -5512,6 +5511,7 @@ flight
 fanmaker
 flagelliform
 flightful
+fineness
 frisky
 flighthead
 franked
