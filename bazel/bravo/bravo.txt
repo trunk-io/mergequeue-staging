@@ -796,7 +796,6 @@ badgerer
 badgering
 baccarats
 blundersome
-badgerly
 badgerlike
 badgers
 badging
@@ -15610,6 +15609,7 @@ broadens
 bummery
 broadest
 broadgage
+badgerly
 broadhead
 broadhorn
 beholder
