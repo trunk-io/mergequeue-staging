@@ -2379,7 +2379,6 @@ decimally
 decimals
 decimate
 decimated
-decimates
 decimating
 decimal
 decimation
@@ -3592,6 +3591,7 @@ degerming
 dungier
 disruptive
 degged
+decimates
 delft
 degger
 degging

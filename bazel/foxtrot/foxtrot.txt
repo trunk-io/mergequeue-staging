@@ -1009,7 +1009,6 @@ faade
 frugalism
 farfels
 farfetch
-fluoroid
 floorway
 funicule
 farfetched
@@ -3620,6 +3619,7 @@ fluviology
 faceoff
 fluormeter
 fillers
+fluoroid
 fillet
 filletster
 foreflipper
