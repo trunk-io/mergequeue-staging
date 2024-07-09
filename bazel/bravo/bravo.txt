@@ -1392,7 +1392,6 @@ bemire
 baldhead
 baldheaded
 baldheads
-baldy
 baldish
 baldling
 baldmoney
@@ -8208,6 +8207,7 @@ bierstube
 bierstuben
 byestreet
 bietle
+baldy
 bemoaned
 byeworker
 byeworkman
