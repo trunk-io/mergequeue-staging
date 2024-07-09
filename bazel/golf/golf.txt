@@ -4646,6 +4646,7 @@ genders
 gipsyhead
 gipsyhood
 gypsyhood
+gunsmithery
 gonoplasm
 gipsyish
 gastrostaxis
@@ -9209,7 +9210,6 @@ giottesque
 gammer
 groatsworth
 gemmuliferous
-gunsmithery
 gloater
 grobianism
 greyhounds
