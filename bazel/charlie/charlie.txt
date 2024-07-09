@@ -10916,6 +10916,7 @@ chipmunk
 chipmunks
 chipolata
 chippable
+coequals
 chippage
 chipped
 chippendale
@@ -18172,7 +18173,6 @@ coequality
 coequalize
 coequally
 coequalness
-coequals
 coequated
 coequates
 coequation
