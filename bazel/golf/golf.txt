@@ -4956,7 +4956,6 @@ gyve
 gammexane
 glaciologic
 guianan
-givey
 given
 givens
 guarabu
@@ -9438,6 +9437,7 @@ groundneedle
 groundplot
 getah
 grounds
+givey
 geomorphological
 gastornis
 gros
