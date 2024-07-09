@@ -253,6 +253,7 @@ gaingiving
 gainyield
 gaining
 gainlessness
+ghoul
 gainlier
 gainliest
 gainliness
@@ -3856,7 +3857,6 @@ ghostwriting
 ghostwritten
 ghostwrote
 granitizing
-ghoul
 gretel
 ghoulery
 gynecopathy
