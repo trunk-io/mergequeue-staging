@@ -255,6 +255,7 @@ dagassa
 dagesh
 derbukka
 dagestan
+devocalized
 dagga
 daggar
 dagged
@@ -7745,7 +7746,6 @@ devocalised
 devocalising
 dissertations
 devocalization
-devocalized
 devocalizing
 devocate
 deadweight
