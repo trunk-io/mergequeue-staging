@@ -1147,6 +1147,7 @@ dichloride
 dashmaker
 deerstealer
 dikaryophase
+degrade
 drapeable
 dashnak
 dashnakist
@@ -3637,7 +3638,6 @@ degradable
 degradation
 degradational
 degradative
-degrade
 degraded
 deratization
 detrimentalness
