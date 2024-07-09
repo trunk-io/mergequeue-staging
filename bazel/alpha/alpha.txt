@@ -11366,7 +11366,6 @@ amphodarch
 anthyllis
 amphodelite
 amphodiplopia
-abyssolith
 amphogeny
 arete
 amphogenous
@@ -22034,6 +22033,7 @@ asteria
 aglets
 ava
 asterial
+abyssolith
 asterias
 articulates
 asteriated

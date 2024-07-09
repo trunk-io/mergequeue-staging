@@ -3616,7 +3616,6 @@ carbamine
 carbamino
 carbamoyl
 carbanil
-carbanilic
 clotho
 carbanilid
 carbanilide
@@ -29005,6 +29004,7 @@ cerotype
 collisional
 crile
 crim
+carbanilic
 crimble
 crime
 crimea
