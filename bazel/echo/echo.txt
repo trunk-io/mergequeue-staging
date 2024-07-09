@@ -1196,6 +1196,7 @@ education
 educationable
 emboldened
 educational
+explainers
 educationalist
 educationese
 educationist
@@ -13181,7 +13182,6 @@ explained
 electrotropic
 explainer
 euglandina
-explainers
 explainingly
 explanate
 explanation
