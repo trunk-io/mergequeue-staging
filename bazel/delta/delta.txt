@@ -494,7 +494,6 @@ dryermen
 dalapons
 dalarnian
 doughiest
-disquisitor
 dalbergia
 dale
 dalecarlian
@@ -3852,6 +3851,7 @@ deinsularize
 delocalise
 deynt
 deintellectualization
+disquisitor
 deintellectualize
 deionization
 deionize
