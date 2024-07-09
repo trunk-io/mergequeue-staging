@@ -5505,6 +5505,7 @@ glycollate
 guigne
 glycols
 glycoluric
+gloms
 glycoluril
 gnarl
 glyconean
@@ -8184,7 +8185,6 @@ gallantries
 gulleting
 graphically
 graphicalness
-gloms
 gratitude
 goofier
 graphicly
