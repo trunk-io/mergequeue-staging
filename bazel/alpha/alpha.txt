@@ -13438,7 +13438,6 @@ anisocratic
 anisodactyl
 anisodactyla
 anisodactyle
-anisodactylic
 androphagous
 anisodactylous
 anisogamete
@@ -16459,6 +16458,7 @@ antitrope
 antitropy
 antitropic
 antitropical
+anisodactylic
 antitropous
 antitrust
 antitruster
