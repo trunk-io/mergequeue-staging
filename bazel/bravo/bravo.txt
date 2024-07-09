@@ -3804,7 +3804,6 @@ batwomen
 batz
 baubees
 bethunder
-bauble
 baublery
 baubles
 bauch
@@ -5933,6 +5932,7 @@ bemaster
 bemat
 bembecidae
 beme
+bauble
 backswordsman
 bemean
 bemeaned
