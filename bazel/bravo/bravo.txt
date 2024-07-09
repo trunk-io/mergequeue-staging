@@ -6304,6 +6304,7 @@ benzacridine
 benzalacetone
 benzalacetophenone
 benzalazine
+borrowed
 batlet
 benzalcohol
 bakupari
@@ -13769,7 +13770,6 @@ bowfins
 bowfront
 bowgrace
 bowhead
-borrowed
 bowheads
 bowyang
 bowyangs
