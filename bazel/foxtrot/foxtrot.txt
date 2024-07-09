@@ -1086,6 +1086,7 @@ farmland
 fluorosis
 farmlands
 francisca
+forestaffs
 fractionised
 fisc
 farmplace
@@ -7974,7 +7975,6 @@ flueman
 forespoken
 frailejon
 forestaff
-forestaffs
 forestage
 futurisms
 forestaysail
