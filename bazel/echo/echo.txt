@@ -9253,7 +9253,6 @@ erode
 eroded
 erodent
 erodes
-eroding
 erodium
 erogate
 erogeneity
@@ -9524,6 +9523,7 @@ escarps
 embryony
 etaerio
 escars
+eroding
 eptatretus
 escarteled
 electrogalvanize
