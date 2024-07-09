@@ -6080,6 +6080,7 @@ derangement
 deranger
 deranges
 derat
+dorsibranchiata
 derate
 derated
 derater
@@ -15813,7 +15814,6 @@ dorse
 dorsers
 dorsi
 dorsibranch
-dorsibranchiata
 defensible
 dorsibranchiate
 dorsicolumn
