@@ -8694,6 +8694,7 @@ allegations
 allegator
 allegeable
 alleged
+automolite
 allegedly
 alleger
 alleges
@@ -20368,7 +20369,6 @@ arrowlet
 anguille
 arrowlike
 arrowplate
-automolite
 ablare
 arrowroots
 arrows
