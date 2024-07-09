@@ -8377,7 +8377,6 @@ dialler
 dialling
 diallings
 diallists
-dialoger
 dialogers
 dialogged
 devitalised
@@ -14937,6 +14936,7 @@ doeuvre
 daddock
 doffed
 dissention
+dialoger
 doffer
 doffers
 depictive
