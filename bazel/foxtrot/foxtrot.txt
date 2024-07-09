@@ -8394,6 +8394,7 @@ formentation
 former
 formeret
 formers
+frows
 formes
 formfeed
 formfitting
@@ -10532,7 +10533,6 @@ fireworky
 frowningly
 frowns
 fireguard
-frows
 frowsy
 flaxier
 frowsier
