@@ -5597,7 +5597,6 @@ aforegoing
 aforehand
 aforementioned
 aforenamed
-aforesaid
 aforetime
 aforeward
 afortiori
@@ -17156,6 +17155,7 @@ apnoeas
 apnoeic
 apoapsides
 apoatropine
+aforesaid
 apobiotic
 apoblast
 apocaffeine
