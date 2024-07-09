@@ -13329,7 +13329,6 @@ cyclian
 crookbilled
 cyclic
 cyclical
-cyclicalness
 cyclide
 cyclindroid
 ceresin
@@ -17539,6 +17538,7 @@ cocaine
 cocaines
 cocainised
 cocainising
+cyclicalness
 cocainism
 cocainist
 cocainization
