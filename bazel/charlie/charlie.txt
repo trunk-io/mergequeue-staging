@@ -6664,7 +6664,6 @@ celebrious
 celebrity
 celebs
 celemin
-celemines
 celeomorph
 celeomorphae
 celeomorphic
@@ -25640,6 +25639,7 @@ corps
 corpselike
 corage
 corpselikeness
+celemines
 corpses
 corpsy
 corpsman
