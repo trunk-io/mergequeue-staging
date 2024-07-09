@@ -20236,7 +20236,6 @@ commissurotomies
 commistion
 caulite
 commit
-commitment
 commits
 committable
 committed
@@ -30912,6 +30911,7 @@ cumberless
 cumberment
 cumbers
 cumbersome
+commitment
 cumbersomely
 cumbersomeness
 cameramen
