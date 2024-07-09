@@ -3730,6 +3730,7 @@ disponer
 dehydrogenisation
 dodecahedra
 dehydrogenised
+drifter
 dehydrogenising
 dehydrogenization
 duolog
@@ -17101,7 +17102,6 @@ driftages
 driftbolt
 diatomin
 drifted
-drifter
 draught
 drifters
 driftfish
