@@ -8322,7 +8322,6 @@ deadpanner
 dialings
 dorking
 dorbie
-dialypetalous
 dogtooth
 dialyphyllous
 dialysability
@@ -17175,6 +17174,7 @@ deviator
 drypoints
 dripolator
 drippage
+dialypetalous
 dripped
 drippers
 drippy
