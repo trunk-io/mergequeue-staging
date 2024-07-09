@@ -5638,7 +5638,6 @@ glissader
 glissades
 glissando
 gybe
-gompholobium
 gowning
 grapeless
 gebur
@@ -8012,6 +8011,7 @@ gingerwort
 grandpa
 girths
 grandparent
+gompholobium
 grandparentage
 grandparental
 grandparents
