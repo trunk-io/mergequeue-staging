@@ -1718,6 +1718,7 @@ deathsman
 deathsmen
 deathtime
 diallages
+drouk
 deathtrap
 deathtraps
 deathwards
@@ -17455,7 +17456,6 @@ droughtiness
 droughts
 displeasingness
 drygoodsman
-drouk
 droukan
 drouked
 drouket
