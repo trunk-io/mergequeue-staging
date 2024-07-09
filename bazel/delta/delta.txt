@@ -11340,7 +11340,6 @@ discourser
 discerptive
 discession
 discharacter
-dischargeable
 discharged
 dischargee
 dischargers
@@ -18094,6 +18093,7 @@ drumroll
 dumble
 dumbly
 dumbnesses
+dischargeable
 dumbstruck
 dodecatyl
 dumdum
