@@ -7042,6 +7042,7 @@ besodden
 besogne
 besognier
 besiren
+bandylegged
 bardiness
 burundians
 besoil
@@ -12183,7 +12184,6 @@ bolognese
 bolography
 becrusts
 bolographic
-bandylegged
 bolographically
 boloing
 boloism
