@@ -11296,7 +11296,6 @@ annually
 amphirhinal
 amphirhine
 amphisarca
-amphisbaena
 amphisbaenae
 actinoneuritis
 amphisbaenas
@@ -17572,6 +17571,7 @@ allotted
 apotropous
 anatropous
 apoxesis
+amphisbaena
 apoxyomenos
 apozem
 archleader
