@@ -1844,6 +1844,7 @@ glob
 gastropathy
 glycerols
 gastropathic
+gnomish
 gastroperiodynia
 groundskeep
 grasswards
@@ -5533,7 +5534,6 @@ gunmetal
 glycosyl
 glycosyls
 galliot
-gnomish
 glycosine
 glycosuria
 gazeboes
