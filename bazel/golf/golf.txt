@@ -1230,7 +1230,6 @@ ganoidian
 greathead
 goniunia
 ganoin
-ganoine
 ganophyllite
 gell
 gastrolavage
@@ -10497,6 +10496,7 @@ gunfought
 gung
 gunyah
 gunyeh
+ganoine
 gunite
 guniter
 gunja
