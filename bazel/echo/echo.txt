@@ -4580,7 +4580,6 @@ excuseful
 encephalocele
 encephalocoele
 encephalodialysis
-elotherium
 encephalograph
 encephalographic
 encephalographically
@@ -6635,6 +6634,7 @@ encompasser
 enterohydrocele
 escarped
 emanative
+elotherium
 etiotropically
 enteroischiocele
 echo
