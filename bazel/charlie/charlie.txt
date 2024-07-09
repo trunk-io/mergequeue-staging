@@ -4005,6 +4005,7 @@ cardiodysesthesia
 cardiodysneuria
 cardiogenesis
 cardiogenic
+culture
 cardiograms
 cardiograph
 cardiographer
@@ -30850,7 +30851,6 @@ cultual
 culturable
 culturalist
 culturally
-culture
 cultured
 cystoneuralgia
 cultureless
