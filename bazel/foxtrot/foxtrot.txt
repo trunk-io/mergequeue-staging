@@ -1327,7 +1327,6 @@ fatales
 felonous
 factorist
 flotsen
-fatalisms
 fatalist
 fatalistically
 fatalists
@@ -2879,6 +2878,7 @@ feverlike
 feverous
 feverroot
 furmities
+fatalisms
 fevertrap
 frostbit
 frixion
