@@ -3014,6 +3014,7 @@ barricadoes
 barricados
 barrico
 barricoes
+biologicohumanistic
 barriers
 barriguda
 barrigudos
@@ -9019,7 +9020,6 @@ botanophilist
 bethwack
 biologic
 biologically
-biologicohumanistic
 biologics
 biologies
 biologism
