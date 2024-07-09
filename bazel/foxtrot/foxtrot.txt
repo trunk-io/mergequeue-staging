@@ -6262,6 +6262,7 @@ fluidified
 fluidifier
 fogramite
 fluidifying
+fadedness
 folklorish
 fluidimeter
 frostbow
@@ -11048,7 +11049,6 @@ fumous
 fumuli
 footblower
 fitchering
-fadedness
 fud
 focimetry
 fun

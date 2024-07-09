@@ -2155,7 +2155,6 @@ acetize
 acetla
 acetmethylanilide
 acetnaphthalide
-acetoacetanilide
 acetoacetic
 acetoarsenite
 amic
@@ -15477,6 +15476,7 @@ antihemorrhagic
 antihero
 antiheroes
 antiheroic
+acetoacetanilide
 antiheroism
 azulejo
 antihydropic
