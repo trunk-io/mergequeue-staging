@@ -5757,7 +5757,6 @@ darksome
 depolarising
 depolarization
 desulphurizer
-damasks
 depolarize
 depolarized
 depolarizers
@@ -16698,6 +16697,7 @@ drakelet
 drakes
 drakestone
 dram
+damasks
 dramalogue
 dramas
 devisers
