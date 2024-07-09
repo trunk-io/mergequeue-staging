@@ -3256,7 +3256,6 @@ capriccettos
 capricci
 capriccio
 capriccios
-capriccioso
 caprices
 capricious
 capriciously
@@ -23720,6 +23719,7 @@ conceptism
 caproyl
 curdled
 contradicts
+capriccioso
 contradiscriminate
 contradistinct
 consummates
