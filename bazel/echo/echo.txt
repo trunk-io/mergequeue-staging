@@ -3478,7 +3478,6 @@ emblazoned
 emery
 epiphegus
 emblazonment
-emblazonments
 electrotrephine
 emblazons
 emblem
@@ -5011,6 +5010,7 @@ enddamage
 enddamaging
 endear
 effector
+emblazonments
 endearance
 endearedly
 endearing
