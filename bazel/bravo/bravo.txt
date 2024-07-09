@@ -6309,6 +6309,7 @@ benzaldiphenyl
 benzaldoxime
 bandeaus
 benzalphenylhydrazone
+belis
 benzalphthalide
 bahada
 benzamide
@@ -17674,7 +17675,6 @@ burgling
 burler
 burgoyne
 buddleias
-belis
 belabour
 burgomaster
 befriendment
