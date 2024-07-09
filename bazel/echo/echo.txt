@@ -3758,7 +3758,6 @@ ensiform
 eliminative
 embroidery
 embroideries
-embroidering
 erythrophilous
 embroiders
 embroil
@@ -13295,6 +13294,7 @@ exportation
 ecumenacy
 exported
 exporter
+embroidering
 exporters
 entireties
 exporting
