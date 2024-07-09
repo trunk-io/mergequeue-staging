@@ -11771,7 +11771,6 @@ chondrites
 chondritic
 chondritis
 chondroadenoma
-compacter
 chondroalbuminoid
 chondroangioma
 chondroarthritis
@@ -18836,6 +18835,7 @@ coleopteroid
 coleopteron
 coleopterous
 chosing
+compacter
 coleoptile
 coleoptilum
 coleopttera
