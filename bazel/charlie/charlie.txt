@@ -12934,7 +12934,6 @@ churchliest
 chelidonine
 churchlike
 churchliness
-churchman
 churchmanly
 churchmanship
 churchmaster
@@ -15354,6 +15353,7 @@ camptosorus
 clairvoyantly
 clairvoyants
 cartoons
+churchman
 clays
 claystone
 claithes
