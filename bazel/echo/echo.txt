@@ -8218,7 +8218,6 @@ endark
 episiotomy
 episiotomies
 episkeletal
-episodes
 exscriptural
 episodic
 episodical
@@ -13049,6 +13048,7 @@ expends
 expenseful
 expensefully
 expensefulness
+episodes
 excusingly
 expenselessness
 expenses
