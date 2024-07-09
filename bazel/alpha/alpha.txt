@@ -12619,7 +12619,6 @@ abenteric
 anelytrous
 anematizing
 anematosis
-anemias
 anemic
 anemically
 acuteness
@@ -23873,6 +23872,7 @@ autistic
 ataman
 abbasid
 autoactivation
+anemias
 autoaddress
 autoagglutinin
 autoalarm
