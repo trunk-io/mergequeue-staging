@@ -3088,7 +3088,6 @@ defacer
 defacers
 defaces
 defacingly
-diabolify
 digressiveness
 deliriate
 defade
@@ -11688,6 +11687,7 @@ discountenances
 discountenancing
 discounter
 diverticulate
+diabolify
 discounters
 discounting
 discounts
