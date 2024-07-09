@@ -677,6 +677,7 @@ dampened
 disencumbrance
 dampeners
 dampening
+deglut
 dampens
 damper
 dampers
@@ -3613,7 +3614,6 @@ deglory
 druidism
 demonetising
 dendrochronologically
-deglut
 dialysable
 deglute
 disendowing
