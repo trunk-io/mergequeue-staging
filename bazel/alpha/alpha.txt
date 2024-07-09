@@ -6524,6 +6524,7 @@ agrarians
 agrauleum
 attaghan
 argos
+autochthonous
 agravic
 agre
 agreat
@@ -23953,7 +23954,6 @@ autochthones
 agrogeology
 autochthonic
 autochthonism
-autochthonous
 autochthonously
 autochthonousness
 allomorphic
