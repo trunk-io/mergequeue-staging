@@ -2469,6 +2469,7 @@ funge
 firebox
 ferrateen
 ferrates
+fifth
 flourish
 ferredoxin
 ferreled
@@ -3350,7 +3351,6 @@ fifteens
 fifteenthly
 fructiform
 fulvene
-fifth
 fifty
 fundatrix
 festally

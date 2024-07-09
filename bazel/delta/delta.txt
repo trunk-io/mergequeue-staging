@@ -15443,7 +15443,6 @@ daira
 donat
 donate
 donated
-donatee
 donates
 diversified
 donatiaceae
@@ -17819,6 +17818,7 @@ ducking
 drouthy
 ducklar
 ducklet
+donatee
 ducklings
 ducklingship
 duckmeat
