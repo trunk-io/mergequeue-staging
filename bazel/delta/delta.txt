@@ -9386,7 +9386,6 @@ differentiate
 differentiates
 differentiating
 differentiation
-differentiations
 differentiative
 differentiator
 differentiators
@@ -10949,6 +10948,7 @@ disaccustomedness
 disacidify
 disacidified
 disacknowledgements
+differentiations
 dysacousia
 dysacousis
 dysacousma
