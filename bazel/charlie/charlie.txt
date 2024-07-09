@@ -14040,7 +14040,6 @@ cynodont
 cynodontia
 cinofoil
 cynogale
-cynogenealogy
 cynogenealogist
 cynoglossum
 cynognathus
@@ -25875,6 +25874,7 @@ clerklike
 corruptious
 clubstart
 corruptive
+cynogenealogy
 corruptively
 corruptly
 corruptness
