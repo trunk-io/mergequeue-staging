@@ -2959,7 +2959,6 @@ deductio
 dubb
 deduction
 deductions
-deductively
 deduit
 deduplication
 dee
@@ -18659,6 +18658,7 @@ dwellers
 damaskeen
 dwelling
 dwellings
+deductively
 demicircle
 dwells
 darkey
