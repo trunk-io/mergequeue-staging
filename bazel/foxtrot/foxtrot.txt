@@ -4736,7 +4736,6 @@ flagpole
 flagrance
 fulminurate
 flagrantly
-flagrate
 fratched
 firepower
 fabricator
@@ -6899,6 +6898,7 @@ furtherance
 fidgetation
 fatten
 folkmoots
+flagrate
 folkmote
 folkmoter
 folkmotes
