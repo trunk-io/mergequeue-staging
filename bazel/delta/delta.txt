@@ -12690,6 +12690,7 @@ dislocatory
 depress
 drinkables
 dislodgeable
+dissolveability
 dislodged
 dislodges
 dislodging
@@ -13731,7 +13732,6 @@ dissolvable
 dissolvableness
 dissolve
 darnings
-dissolveability
 dissolved
 dissolves
 dissolver
