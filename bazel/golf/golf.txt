@@ -2692,7 +2692,6 @@ gummata
 garoting
 ghizite
 generification
-generosity
 generosities
 generous
 glial
@@ -6986,6 +6985,7 @@ gonosome
 gastratrophia
 gonosphere
 gymsia
+generosity
 gonotocont
 gonotokont
 gonotome
