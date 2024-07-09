@@ -778,7 +778,6 @@ badaud
 badawi
 badaxe
 badchan
-briquetted
 beggarliness
 baddest
 baddy
@@ -14731,6 +14730,7 @@ bats
 blockiness
 brazened
 brazenface
+briquetted
 brazening
 brazenly
 basiophitic

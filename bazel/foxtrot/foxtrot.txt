@@ -6713,7 +6713,6 @@ favellae
 fogeater
 fogey
 fogfruit
-foggages
 fogged
 fogger
 fruited
@@ -11436,6 +11435,7 @@ flatway
 furnish
 forerank
 furnishable
+foggages
 fascines
 foregather
 frondesced
