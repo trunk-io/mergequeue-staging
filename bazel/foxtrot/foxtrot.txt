@@ -483,6 +483,7 @@ falces
 falchion
 fanweed
 falcial
+fogproof
 falcidian
 falciform
 fichu
@@ -6737,7 +6738,6 @@ fogo
 fogou
 fairyhood
 floatiest
-fogproof
 fogramity
 fogrum
 forksmith
