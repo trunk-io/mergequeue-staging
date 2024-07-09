@@ -11954,7 +11954,6 @@ caviare
 chapter
 choreal
 choreas
-choreatic
 chored
 choregy
 choregic
@@ -23260,6 +23259,7 @@ camalig
 consuetitude
 consuetude
 consuetudinary
+choreatic
 consul
 churl
 consulary
