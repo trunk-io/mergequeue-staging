@@ -15975,7 +15975,6 @@ antiphlogistian
 antiphlogistic
 antiphon
 antiphona
-antiphonal
 antiphonaries
 antiphonetic
 antiphony
@@ -22145,6 +22144,7 @@ anthropogeny
 appears
 astylosternus
 astint
+antiphonal
 astipulate
 astipulation
 arthral
