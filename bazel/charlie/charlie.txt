@@ -1663,7 +1663,6 @@ calutrons
 calvados
 calvaire
 calvary
-calvaria
 calvarial
 cervantic
 calvaries
@@ -30505,6 +30504,7 @@ cubla
 cubmaster
 cubocalcaneal
 cuboctahedron
+calvaria
 cubocube
 cubocuneiform
 caterers
