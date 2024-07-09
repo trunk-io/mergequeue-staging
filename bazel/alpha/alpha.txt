@@ -2809,6 +2809,7 @@ acquittals
 acquitted
 acquitter
 acquitting
+adaptive
 acrab
 acracy
 acraldehyde
@@ -3505,7 +3506,6 @@ adaptionism
 adaptions
 adaptitude
 appassionate
-adaptive
 adaptiveness
 adaptivity
 adaptometer
