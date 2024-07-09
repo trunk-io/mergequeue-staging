@@ -3478,6 +3478,7 @@ carabus
 caracal
 caracara
 chacoli
+columnate
 carack
 caracks
 caracoa
@@ -5147,7 +5148,6 @@ cask
 caskanet
 casked
 casket
-columnate
 casketed
 casketlike
 caskets

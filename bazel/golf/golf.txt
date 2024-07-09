@@ -3778,7 +3778,6 @@ gadinic
 gheraoed
 grasshouse
 germanesque
-glassworking
 gardenwards
 gorbet
 galany
@@ -10744,6 +10743,7 @@ galerite
 guttae
 glaciological
 ganomalite
+glassworking
 glimmerous
 guttate
 guttated
