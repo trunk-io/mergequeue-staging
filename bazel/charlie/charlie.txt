@@ -11130,6 +11130,7 @@ chitin
 coappears
 chitinized
 chitinocalcareous
+cypraeoid
 chitinogenous
 calopogon
 chitinous
@@ -14150,7 +14151,6 @@ cypraea
 cypraeid
 cypraeidae
 cypraeiform
-cypraeoid
 cypre
 cypres
 cypreses

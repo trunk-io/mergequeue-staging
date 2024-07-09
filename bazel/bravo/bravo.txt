@@ -1093,6 +1093,7 @@ baillone
 baillonella
 bailment
 bessemerize
+byreman
 byssin
 bailments
 bailo
@@ -9479,7 +9480,6 @@ birefraction
 birefractive
 birefringence
 birefringent
-byreman
 bireme
 brisket
 bongar
