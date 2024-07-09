@@ -4204,7 +4204,6 @@ admirableness
 athapascan
 admiral
 admirals
-admiralship
 azygobranchiate
 admiralty
 admiralties
@@ -9226,6 +9225,7 @@ aminotriazole
 almice
 almicore
 almight
+admiralship
 arpanet
 almighty
 angularia
