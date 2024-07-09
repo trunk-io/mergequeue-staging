@@ -4306,6 +4306,7 @@ gambas
 gierfalcon
 gatteridge
 gymnolaemata
+gradiometer
 germinability
 gymnonoti
 gymnopaedes
@@ -7685,7 +7686,6 @@ gusto
 globated
 gradins
 guilefulness
-gradiometer
 gladwin
 gradiometric
 goosishness

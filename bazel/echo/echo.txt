@@ -5229,7 +5229,6 @@ endolemma
 endolymphangial
 endolymphatic
 electrolyzable
-etiotropic
 endolymphic
 endolysin
 endome
@@ -9899,6 +9898,7 @@ endopericarditis
 essentiate
 ethnopsychology
 essenwood
+etiotropic
 enuring
 essera
 essexite
