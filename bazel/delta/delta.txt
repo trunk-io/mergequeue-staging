@@ -4737,7 +4737,6 @@ demobilising
 demobilizations
 demobilize
 demobilized
-demobilizes
 democracies
 democrat
 democratian
@@ -9033,6 +9032,7 @@ dicotyls
 dicots
 dicoumarin
 dyophysite
+demobilizes
 drawdown
 dicoumarol
 dicranaceous
