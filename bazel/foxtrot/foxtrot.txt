@@ -6675,7 +6675,6 @@ firker
 foemanship
 foeniculum
 flareless
-foenngreek
 flysch
 foes
 followable
@@ -7733,6 +7732,7 @@ flavobacterium
 fiber
 forelooper
 feint
+foenngreek
 foulnesses
 fillingly
 forelouper
