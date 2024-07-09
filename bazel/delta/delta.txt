@@ -6164,6 +6164,7 @@ deripia
 demoralizer
 derisible
 derision
+dispose
 derisive
 derisively
 derisory
@@ -13207,7 +13208,6 @@ disposable
 disposableness
 dorje
 disposal
-dispose
 disposedness
 disposement
 disposers
