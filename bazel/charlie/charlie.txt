@@ -3186,7 +3186,6 @@ capoc
 capocchia
 capoche
 capomo
-cogware
 capon
 caponata
 capone
@@ -27145,6 +27144,7 @@ countersigned
 countersigning
 countersigns
 countersink
+cogware
 countersinking
 countrywide
 countersinks
