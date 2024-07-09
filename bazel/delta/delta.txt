@@ -670,7 +670,6 @@ damosel
 damosels
 decapitalize
 damp
-dampcourse
 dampen
 diobely
 dampened
@@ -14159,6 +14158,7 @@ disvaluing
 discographically
 disventure
 disvisor
+dampcourse
 disvoice
 disvouch
 disvulnerability

@@ -2928,6 +2928,7 @@ acrochordon
 acrocyst
 achenocarp
 acrock
+anticritical
 acroclinium
 acrocomia
 acroconidium
@@ -15199,7 +15200,6 @@ anticryptic
 anticryptically
 anticrisis
 anticritic
-anticritical
 anticritically
 anticriticalness
 anticritique
