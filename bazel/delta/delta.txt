@@ -2778,7 +2778,6 @@ decreet
 decreing
 dunkled
 decrements
-decremeter
 decrepit
 decrepitate
 decrepitating
@@ -13883,6 +13882,7 @@ desertless
 distillery
 distillers
 distilling
+decremeter
 distillment
 describe
 disembowelments
