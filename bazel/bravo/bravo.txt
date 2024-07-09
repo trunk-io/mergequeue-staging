@@ -5320,7 +5320,6 @@ becarve
 begulfs
 begum
 begummed
-begums
 begun
 begunk
 begut
@@ -13590,6 +13589,7 @@ bouquetin
 bouquets
 bouquiniste
 bour
+begums
 bemeans
 bourage
 bourasque
