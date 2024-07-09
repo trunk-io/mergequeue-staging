@@ -4813,7 +4813,6 @@ demonetisation
 demonetise
 demonetised
 demonetize
-deductory
 demonetized
 doyle
 dittographic
@@ -11432,6 +11431,7 @@ disclout
 disclusion
 disco
 delphinius
+deductory
 discoactine
 documentation
 discoast
