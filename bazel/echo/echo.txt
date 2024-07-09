@@ -2716,7 +2716,6 @@ elegise
 elegised
 elegises
 epigraph
-elegising
 enlinkment
 elegist
 elegists
@@ -13810,6 +13809,7 @@ extractive
 extractively
 extracts
 extracultural
+elegising
 extracurial
 echeneid
 eeriness
