@@ -6450,6 +6450,7 @@ bullyragger
 benzothiazine
 bellipotent
 benzothiazoline
+begirdled
 bien
 benzothiofuran
 benzothiophene
@@ -17823,7 +17824,6 @@ burnside
 burnsides
 burnt
 burntly
-begirdled
 burntness
 bandfiling
 burp

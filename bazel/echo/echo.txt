@@ -9556,7 +9556,6 @@ escheated
 escheating
 escheatment
 escheator
-escheatorship
 escheats
 eschele
 escheve
@@ -12934,6 +12933,7 @@ extortion
 expatriates
 expatriating
 equulei
+escheatorship
 expatriation
 expatriatism
 enicuridae
