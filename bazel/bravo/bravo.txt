@@ -3992,7 +3992,6 @@ beadles
 beadleship
 bribability
 bureaus
-beadlet
 beadman
 beadroll
 beads
@@ -11547,6 +11546,7 @@ blutwurst
 bascology
 bm
 bn
+beadlet
 bnf
 bo
 boa
