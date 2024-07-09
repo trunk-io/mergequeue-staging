@@ -6478,6 +6478,7 @@ birler
 benzpyrene
 borinqueno
 blacksmithing
+blomstrandine
 barbermonger
 bepainted
 befoulier
@@ -6486,7 +6487,6 @@ beparch
 beparody
 beparse
 bepaste
-blomstrandine
 bepastured
 bepat
 bromometric
