@@ -11002,7 +11002,6 @@ fonts
 fusillades
 fumerel
 fumers
-fritts
 fumet
 flaxlike
 file
@@ -11203,6 +11202,7 @@ farmerette
 fungoes
 fungological
 fungologist
+fritts
 fungose
 fungus
 flaminica

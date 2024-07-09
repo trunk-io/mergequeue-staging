@@ -9666,6 +9666,7 @@ altrose
 altruism
 autoionization
 altruisms
+always
 altruist
 altruistic
 alpaca
@@ -24465,7 +24466,6 @@ autotoxemia
 autotoxic
 autotoxication
 autotoxin
-always
 autotoxis
 autotractor
 addle
