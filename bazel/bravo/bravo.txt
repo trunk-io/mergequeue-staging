@@ -3499,6 +3499,7 @@ bitstalk
 bezazzes
 batarde
 batardeau
+bidry
 batata
 boodle
 batatas
@@ -8154,7 +8155,6 @@ bidpai
 besquib
 begets
 bidree
-bidry
 bids
 bidstand
 babcock
