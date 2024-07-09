@@ -16852,7 +16852,6 @@ drawnness
 drawnwork
 drawoff
 drawout
-drawpoint
 dusks
 drawrod
 drawshave
@@ -18019,6 +18018,7 @@ dulcin
 dulcinea
 dulcinist
 dulcite
+drawpoint
 dulcity
 denouncement
 deergrass
