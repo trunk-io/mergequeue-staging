@@ -1318,7 +1318,6 @@ fasts
 faunus
 fatiguability
 fastuous
-fastuousness
 fastus
 foreking
 finishable
@@ -2639,6 +2638,7 @@ finalizations
 fervor
 freud
 forcing
+fastuousness
 finnip
 fervorlessness
 fervorous
