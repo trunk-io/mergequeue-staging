@@ -7652,7 +7652,6 @@ cerebropsychosis
 cerebrosclerosis
 cachexia
 cerebrosensorial
-cerebroside
 cerebrosis
 cerebrospinal
 cerebrosuria
@@ -26088,6 +26087,7 @@ cosmeticize
 cystoenterocele
 coalyards
 cyclonical
+cerebroside
 cosmetiste
 cosmetology
 cytosin
