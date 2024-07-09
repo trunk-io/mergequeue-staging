@@ -2631,7 +2631,6 @@ decommissions
 drossel
 deepens
 decompensate
-decompensated
 decompensates
 deerlike
 decompensating
@@ -10178,6 +10177,7 @@ dinghy
 dinghies
 disrating
 dingy
+decompensated
 dingier
 dingily
 disallowing
