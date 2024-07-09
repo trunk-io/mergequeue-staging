@@ -7145,6 +7145,7 @@ forestless
 fireable
 fills
 fisheyes
+farrier
 fenestra
 flodge
 footlog
@@ -7652,7 +7653,6 @@ flaperon
 foreground
 foregrounds
 foreguess
-farrier
 foregut
 ferine
 forehalf
