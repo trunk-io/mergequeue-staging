@@ -3070,6 +3070,7 @@ ellipticity
 elliptograph
 elliptoid
 epicyte
+epistolography
 eighteens
 eutaxitic
 elm
@@ -8297,7 +8298,6 @@ enstar
 electrohomeopathy
 earsh
 epistolizing
-epistolography
 epistolographic
 epistolographist
 epistomata
