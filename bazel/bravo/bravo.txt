@@ -765,7 +765,6 @@ baculums
 baculus
 bacury
 bad
-badaga
 busload
 badan
 badarrah
@@ -9103,6 +9102,7 @@ biopyribole
 bioplasm
 bunkering
 bioplasms
+badaga
 benefice
 boos
 byzantinism
