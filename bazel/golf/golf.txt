@@ -4950,7 +4950,6 @@ gantries
 gyve
 gammexane
 glaciologic
-guianan
 givey
 given
 givens
@@ -9317,6 +9316,7 @@ gallegan
 galey
 groroilite
 grorudite
+guianan
 gonads
 ganglioid
 geophysicists
