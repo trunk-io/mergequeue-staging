@@ -3249,7 +3249,6 @@ assoc
 actionary
 actioner
 actiones
-actionist
 actionized
 actionizing
 anotus
@@ -21314,6 +21313,7 @@ asker
 alcamine
 askers
 ajivika
+actionist
 askeses
 ampelite
 askesis
