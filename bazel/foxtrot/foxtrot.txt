@@ -10330,7 +10330,6 @@ farolito
 frondent
 frondesce
 faultier
-frondesced
 fluoridising
 finks
 frondescent
@@ -11439,6 +11438,7 @@ forerank
 furnishable
 fascines
 foregather
+frondesced
 furnished
 furnishes
 functionated
