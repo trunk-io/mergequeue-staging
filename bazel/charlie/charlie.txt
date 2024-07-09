@@ -21600,7 +21600,6 @@ crashworthy
 concurrently
 concurrentness
 concurring
-concursion
 concurso
 concursus
 congregated
@@ -25251,6 +25250,7 @@ coryphees
 coryphene
 carpocratian
 coryphodon
+concursion
 cognomen
 chaukidari
 coryphodont
