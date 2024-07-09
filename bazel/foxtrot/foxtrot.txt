@@ -1099,7 +1099,6 @@ foremast
 faroese
 faros
 filmgoer
-fordone
 flighted
 farragos
 farrand
@@ -4928,6 +4927,7 @@ flapperism
 fruticulture
 flappers
 flappy
+fordone
 fellator
 flare
 forjudgment
