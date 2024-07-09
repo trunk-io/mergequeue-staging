@@ -6771,7 +6771,6 @@ celling
 cellipetal
 cellist
 cellists
-cellite
 continua
 cello
 cace
@@ -7971,6 +7970,7 @@ cestuses
 cesura
 cesural
 cesuras
+cellite
 conciliabulum
 cesure
 crummable
