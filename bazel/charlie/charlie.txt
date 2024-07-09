@@ -12520,7 +12520,6 @@ chromidium
 chromidrosis
 chromiferous
 chromyl
-chrominance
 colloquized
 chroming
 chromiole
@@ -13243,6 +13242,7 @@ cicatricula
 cicatriculae
 cicatricule
 cicatrisant
+chrominance
 cromorna
 cicatrisate
 cicatrised
