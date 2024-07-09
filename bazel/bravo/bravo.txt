@@ -11180,6 +11180,7 @@ blossom
 bechalk
 breakfasting
 blossomhead
+bracteal
 buttercup
 biprong
 blossomy
@@ -14126,7 +14127,6 @@ braconids
 braconniere
 bentstar
 bract
-bracteal
 bracteate
 bracted
 bracteiform
