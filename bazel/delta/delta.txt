@@ -5650,6 +5650,7 @@ dephysicalization
 dephysicalize
 dephlegm
 dephlegmate
+diplodia
 dephlegmatize
 dephlegmator
 dephlegmatory
@@ -10588,7 +10589,6 @@ diplococcoid
 downsize
 diplococcus
 diplocoria
-diplodia
 diplodocus
 diplodocuses
 dago
