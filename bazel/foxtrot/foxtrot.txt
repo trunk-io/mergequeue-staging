@@ -5658,7 +5658,6 @@ flyswatter
 froggier
 flit
 flitch
-flitched
 flitchen
 flitchplate
 flite
@@ -11556,6 +11555,7 @@ fuseplug
 funariaceous
 fuses
 foxing
+flitched
 fusetron
 fusht
 fusibility
