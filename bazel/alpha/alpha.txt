@@ -7362,6 +7362,7 @@ alahee
 amang
 alai
 alay
+amperometer
 autophon
 alain
 arrowsmith
@@ -11135,7 +11136,6 @@ amperemeter
 adornos
 ampery
 amperian
-amperometer
 abstinent
 ampersand
 ampheclexis

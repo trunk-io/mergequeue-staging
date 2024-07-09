@@ -1220,7 +1220,6 @@ bakers
 baggit
 bustics
 beslaver
-brawly
 bakership
 bakeshop
 bakeshops
@@ -11102,6 +11101,7 @@ bloodlettings
 bloodline
 bloodlusting
 bedazzles
+brawly
 busybody
 bertholletia
 bloodmobiles
