@@ -20943,7 +20943,6 @@ cacothansia
 collophanite
 comprehensively
 comprehensiveness
-ceilometer
 comprehensives
 comprehensor
 comprend
@@ -25717,6 +25716,7 @@ corregimiento
 coordinates
 corregimientos
 correl
+ceilometer
 correlatable
 circumintestinal
 coastways
