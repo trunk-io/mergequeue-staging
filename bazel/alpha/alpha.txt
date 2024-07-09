@@ -744,7 +744,6 @@ aborsement
 armillary
 aborsive
 abort
-aborted
 aborters
 arborary
 aborticide
@@ -18549,6 +18548,7 @@ arbela
 arber
 arbitrage
 anchorites
+aborted
 arbitrager
 arbitragers
 abacisci
