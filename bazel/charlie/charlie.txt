@@ -4679,7 +4679,6 @@ carpopedal
 carpophagous
 carpophalangeal
 carpophyl
-capreolus
 conchylium
 charrette
 carpophyll
@@ -16409,6 +16408,7 @@ clipt
 capernoited
 clique
 cliqued
+capreolus
 cliquedom
 cliquey
 cretinize
