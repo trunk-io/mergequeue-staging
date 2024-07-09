@@ -2578,7 +2578,6 @@ dubs
 decollating
 decollator
 dominican
-decollimate
 decolonisation
 decolonise
 decolonised
@@ -12292,6 +12291,7 @@ disguisedly
 disguisedness
 deodorant
 disguiseless
+decollimate
 discernably
 disguisement
 deirdre
