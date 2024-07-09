@@ -4418,7 +4418,6 @@ fissura
 fattish
 foliocellosis
 footprint
-fissuration
 fuzzy
 fissured
 fissureless
@@ -7123,6 +7122,7 @@ faithing
 flatcap
 footholds
 foothot
+fissuration
 frutify
 flippantness
 footy
