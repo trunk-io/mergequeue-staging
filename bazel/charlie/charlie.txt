@@ -6497,7 +6497,6 @@ cearin
 ceaseless
 chausses
 ceaselessly
-ceaselessness
 ceases
 ceasing
 chiefess
@@ -15285,6 +15284,7 @@ creem
 cladoselachea
 cladoselachian
 cladoselachidae
+ceaselessness
 cladosiphonic
 cladothrix
 colyba
