@@ -12673,6 +12673,7 @@ chronicles
 chronicling
 chronicon
 chronics
+counteragency
 chronique
 chronisotherm
 chronist
@@ -26675,7 +26676,6 @@ catagories
 counteraffirm
 counteraffirmation
 checkering
-counteragency
 clash
 counteragitate
 counterambush
