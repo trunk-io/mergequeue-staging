@@ -2639,6 +2639,7 @@ acnodes
 ataxonomic
 acoasm
 acoasma
+alterer
 ayudante
 antioptimistic
 acocanthera
@@ -9563,7 +9564,6 @@ altered
 alteregoism
 aparthrosis
 alteregoistic
-alterer
 alterers
 altering
 acupunctuate
