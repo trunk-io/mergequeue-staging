@@ -17491,7 +17491,6 @@ apostles
 automat
 anomoeomery
 apostleship
-apostleships
 apostoile
 apostoless
 apostoli
@@ -18216,6 +18215,7 @@ abdicated
 aquaplaned
 aquaplaner
 antilactase
+apostleships
 aquaplanes
 aquaplaning
 aquapuncture
