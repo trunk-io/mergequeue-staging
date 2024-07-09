@@ -3048,7 +3048,6 @@ exhumes
 ellipse
 electrotherapies
 excavate
-epenla
 electrotherapist
 ellipses
 eulogias
@@ -12161,6 +12160,7 @@ excrementitial
 enami
 excrementitious
 evzone
+epenla
 excrementitiousness
 electroanesthesia
 excrementive
