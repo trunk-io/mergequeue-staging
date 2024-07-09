@@ -5340,7 +5340,6 @@ affair
 affaire
 affairs
 affaite
-affamish
 affect
 affectability
 affectable
@@ -24550,6 +24549,7 @@ auxochromism
 aetiologies
 auxochromous
 auxocyte
+affamish
 auxoflore
 auxofluor
 auxograph
