@@ -778,7 +778,6 @@ duvetyne
 dactyliographic
 dandler
 dandlers
-dandles
 dandling
 dandriff
 dandriffy
@@ -5202,6 +5201,7 @@ denominates
 denomination
 denominational
 denominationalism
+dandles
 denominationalist
 denominative
 denominators
