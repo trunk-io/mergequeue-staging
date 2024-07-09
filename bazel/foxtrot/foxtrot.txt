@@ -2507,7 +2507,6 @@ footcloths
 ferryman
 ferring
 fault
-ferriprussiate
 ferris
 fastball
 forweep
@@ -9541,6 +9540,7 @@ freddy
 freddo
 frederic
 frederica
+ferriprussiate
 freespac
 federative
 frederik
