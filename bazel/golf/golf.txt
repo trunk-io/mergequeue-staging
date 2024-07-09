@@ -163,7 +163,6 @@ golkakra
 gnomonological
 gaffe
 golfer
-gaffers
 gaffes
 gaffing
 gauze
@@ -991,6 +990,7 @@ gaminish
 ghaut
 grenatite
 gamma
+gaffers
 gammacism
 gammacismus
 garmentmaker
