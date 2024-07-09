@@ -3254,6 +3254,7 @@ feuded
 fief
 fiefdom
 fractional
+foehn
 fiel
 filatures
 field
@@ -6667,7 +6668,6 @@ frangibility
 fudder
 foederati
 foeffment
-foehn
 foehnlike
 foeless
 foelike
