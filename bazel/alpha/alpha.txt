@@ -17138,7 +17138,6 @@ aplitic
 awake
 aplobasalt
 aplodiorite
-aplodontiidae
 aplombs
 awned
 aplopappus
@@ -20698,6 +20697,7 @@ artiad
 artichoke
 artichokes
 article
+aplodontiidae
 articled
 acidimetrical
 articles
