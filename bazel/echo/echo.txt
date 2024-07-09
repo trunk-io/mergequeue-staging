@@ -7046,7 +7046,6 @@ entrecotes
 entredeux
 ethnohistorian
 enlightenedness
-entree
 epiglottides
 entrees
 excisor
@@ -9537,6 +9536,7 @@ eschalots
 elvish
 eschar
 endosmometer
+entree
 eschara
 extraovate
 escharoid
