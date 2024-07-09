@@ -5776,6 +5776,7 @@ depoliticizes
 depone
 deponed
 disinheritable
+disembody
 deponents
 depones
 deponing
@@ -11939,7 +11940,6 @@ disembattle
 disembellish
 deflexionize
 disembocation
-disembody
 disembodied
 disembodying
 disembodiment
