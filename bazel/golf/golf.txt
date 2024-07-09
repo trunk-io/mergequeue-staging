@@ -848,7 +848,6 @@ gryphon
 gelatiniser
 gamaliel
 gypsying
-gamari
 gleam
 gamashes
 gordonia
@@ -8716,6 +8715,7 @@ gangion
 gage
 greenlander
 gramaryes
+gamari
 glissandi
 greenleaf
 gamostelic
