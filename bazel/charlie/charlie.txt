@@ -12667,7 +12667,6 @@ colory
 chrismons
 chronicle
 chronicled
-chronicler
 chroniclers
 chronicles
 chronicling
@@ -22972,6 +22971,7 @@ consilient
 consimilar
 consimilarity
 consimilate
+chronicler
 consimilated
 consimile
 consisently
