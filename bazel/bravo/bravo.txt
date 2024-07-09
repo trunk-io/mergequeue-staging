@@ -9043,7 +9043,6 @@ bewitches
 biomes
 biometeorology
 biometer
-biometry
 biometric
 bushwhacked
 biometrically
@@ -17710,6 +17709,7 @@ boulevards
 burhinus
 burhmoot
 bury
+biometry
 bombic
 bestialise
 burial
