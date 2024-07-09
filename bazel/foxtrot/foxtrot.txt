@@ -6551,6 +6551,7 @@ fautorship
 frouzier
 flutist
 flutists
+formful
 flutter
 flutterable
 footscald
@@ -8399,7 +8400,6 @@ formes
 formfeed
 formfitting
 farenheit
-formful
 formy
 formiate
 feoffers
