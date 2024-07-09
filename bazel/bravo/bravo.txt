@@ -10964,7 +10964,6 @@ blksize
 blo
 bloat
 bloated
-bloater
 botling
 bobsledder
 bloats
@@ -18086,6 +18085,7 @@ buskined
 buskins
 busks
 busman
+bloater
 beardtongue
 busmen
 breviloquent
