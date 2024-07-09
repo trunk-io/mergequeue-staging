@@ -5461,7 +5461,6 @@ glycine
 gnathal
 glycines
 glycinin
-glycins
 glycyrrhiza
 gipsyry
 glycyrrhizin
@@ -7789,6 +7788,7 @@ graveward
 guahibo
 geront
 grainiest
+glycins
 graininess
 gavelman
 graining
