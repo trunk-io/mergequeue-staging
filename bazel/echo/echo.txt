@@ -7281,7 +7281,6 @@ eleemosynary
 enzymologies
 enzymologist
 enzone
-enzooty
 ethnobotanic
 essling
 enzootic
@@ -10560,6 +10559,7 @@ ethonomics
 espinillo
 ethonone
 ethopoeia
+enzooty
 exorcization
 ethopoetic
 ethoxide
