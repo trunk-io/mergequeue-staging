@@ -3731,6 +3731,7 @@ dehydrogenisation
 dodecahedra
 dehydrogenised
 dehydrogenising
+distater
 dehydrogenization
 duolog
 disbench
@@ -7829,7 +7830,6 @@ datagrams
 devouring
 defiances
 doubtfully
-distater
 devouringly
 drengage
 drumbling
