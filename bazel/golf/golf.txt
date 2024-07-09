@@ -3023,7 +3023,6 @@ geochronometry
 grufted
 geochronometric
 geocyclic
-goal
 geocline
 goldwork
 geococcyx
@@ -7513,6 +7512,7 @@ graisse
 goutily
 goutiness
 goutish
+goal
 goutweed
 gluconeogenesis
 griffs
