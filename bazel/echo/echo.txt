@@ -5619,7 +5619,6 @@ embattling
 enfolden
 enfolder
 enfolding
-enfolds
 electrobrasser
 enfonce
 enforce
@@ -9400,6 +9399,7 @@ eructance
 endeavor
 eructating
 eructation
+enfolds
 eructed
 employable
 eructing
