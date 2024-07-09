@@ -272,7 +272,6 @@ gainstand
 gombroons
 grayish
 gamont
-gainturn
 goalee
 gonoph
 gobiesocidae
@@ -335,6 +334,7 @@ glebes
 goth
 galactolipin
 galactometry
+gainturn
 grandmama
 galactopathy
 galactophagist
