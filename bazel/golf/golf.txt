@@ -6233,7 +6233,6 @@ gangling
 gasbag
 glutinize
 glutinose
-glutinosity
 gumlah
 gavelkind
 glutinous
@@ -7020,6 +7019,7 @@ goodheartedness
 goodhumoredness
 geostrophically
 glyptograph
+glutinosity
 gomarite
 greyish
 gutturotetany
