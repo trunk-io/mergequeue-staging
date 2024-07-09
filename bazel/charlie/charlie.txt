@@ -11674,7 +11674,6 @@ cholesteremia
 cholesteric
 cholesteryl
 cholesterin
-cholesterinemia
 cholesterinuria
 cholesterol
 cholesterolemia
@@ -31533,6 +31532,7 @@ curtesy
 cremule
 curtesies
 cogence
+cholesterinemia
 curtest
 confraternization
 creep
