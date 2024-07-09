@@ -12655,7 +12655,6 @@ chroncmeter
 chronic
 chronical
 chronically
-crystallography
 cismarine
 chronicity
 cousiny
@@ -31366,6 +31365,7 @@ curly
 curlicue
 creaking
 curlicued
+crystallography
 courager
 curlicues
 curlycues
