@@ -1866,7 +1866,6 @@ fed
 fedayee
 fedarie
 feddan
-feddans
 federal
 federalese
 federalisation
@@ -6755,6 +6754,7 @@ foible
 faverel
 foibles
 flenses
+feddans
 foiblesse
 foyboat
 foyer
