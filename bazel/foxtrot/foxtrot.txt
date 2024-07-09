@@ -144,7 +144,6 @@ fictile
 facticide
 factional
 furnacite
-forejudge
 forfeit
 factionalism
 factionalist
@@ -3696,6 +3695,7 @@ filmslide
 filmstrip
 filmstrips
 filoplume
+forejudge
 fenceful
 filopodia
 floorcloth
