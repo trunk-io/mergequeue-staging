@@ -2160,7 +2160,6 @@ exploiters
 elater
 elatery
 elaterid
-elaterin
 elaterins
 ergatandry
 ejector
@@ -5830,6 +5829,7 @@ engraphia
 engraphic
 exacerbates
 engrapple
+elaterin
 engrasp
 educ
 extractiform
