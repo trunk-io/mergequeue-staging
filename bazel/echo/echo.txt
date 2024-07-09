@@ -3468,6 +3468,7 @@ emblazer
 edifices
 emblazers
 euphoria
+entablement
 emblazing
 emblazon
 engrossing
@@ -11363,7 +11364,6 @@ evangelicity
 evangeline
 earwitness
 evangelisation
-entablement
 evangelise
 electrifier
 ensnared
