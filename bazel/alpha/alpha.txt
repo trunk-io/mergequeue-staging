@@ -7933,7 +7933,6 @@ alectorioid
 alectoris
 apachism
 alectoromorphae
-alectoromorphous
 alectoropodes
 alectoropodous
 alectryomancy
@@ -20638,6 +20637,7 @@ alkalinizing
 arthrolite
 apparelling
 arthrolith
+alectoromorphous
 artificially
 arthrolithiasis
 arthrology
