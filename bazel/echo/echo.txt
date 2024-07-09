@@ -6864,7 +6864,6 @@ entodermal
 entoderms
 enstyle
 entoglossal
-epithelilia
 epigones
 entohyal
 eupnoea
@@ -12542,6 +12541,7 @@ exhumator
 exhumatory
 epimerise
 exhumed
+epithelilia
 exhumer
 exhumers
 exibilate
