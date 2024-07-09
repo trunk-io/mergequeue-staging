@@ -9039,6 +9039,7 @@ biomaterial
 biomathematics
 biome
 biomechanical
+botanizer
 biomechanics
 bewitches
 biomes
@@ -13271,7 +13272,6 @@ botanises
 balnea
 botanist
 botanize
-botanizer
 botanizing
 botanomancy
 botanophile
