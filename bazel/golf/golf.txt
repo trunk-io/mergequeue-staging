@@ -134,7 +134,6 @@ gaduin
 gadus
 gadwall
 gadwell
-gobies
 gaed
 gaedelian
 gael
@@ -5009,6 +5008,7 @@ glacialism
 glaucophane
 glacialist
 gurkha
+gobies
 guerdonable
 goldstone
 glaciarium
