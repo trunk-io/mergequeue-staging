@@ -19941,7 +19941,6 @@ complainer
 comicoprosaic
 comicotragic
 comicotragical
-comicry
 comid
 comida
 crts
@@ -20539,6 +20538,7 @@ compartments
 compartner
 circuits
 cellmates
+comicry
 compass
 compassability
 compassed
