@@ -816,7 +816,6 @@ guary
 galvanometrical
 galvanoplasty
 galvanoplastic
-galvanoplastical
 galactophygous
 galvanoplastically
 galvanoplastics
@@ -7013,6 +7012,7 @@ goodeniaceous
 grip
 gooder
 gooders
+galvanoplastical
 guardroom
 gaps
 goodhap
