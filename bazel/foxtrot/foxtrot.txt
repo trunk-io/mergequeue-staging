@@ -5120,7 +5120,6 @@ flav
 fluidiser
 flavaniline
 firebrick
-fogon
 fakement
 forth
 fellas
@@ -8161,6 +8160,7 @@ falconnoid
 forfication
 forficiform
 fiercening
+fogon
 forficula
 furiously
 fluster
