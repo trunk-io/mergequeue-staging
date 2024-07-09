@@ -1941,7 +1941,6 @@ feedway
 feedwater
 feeing
 feel
-fennici
 feely
 feelies
 fellowcraft
@@ -7669,6 +7668,7 @@ forehew
 forehock
 forehoof
 facsim
+fennici
 forehoofs
 fibular
 foreyard
