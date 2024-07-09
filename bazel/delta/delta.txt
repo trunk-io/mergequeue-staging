@@ -1557,7 +1557,6 @@ dedolomitization
 disenact
 deadwort
 determinability
-decelerometer
 disappoint
 deaerates
 deaeration
@@ -10803,6 +10802,7 @@ directable
 directcarving
 directed
 diastereoisomeric
+decelerometer
 directer
 directeur
 directexamination
