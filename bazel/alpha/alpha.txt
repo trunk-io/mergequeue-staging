@@ -1848,7 +1848,6 @@ accrues
 accruing
 accts
 accubation
-accubita
 accubitum
 accubitus
 accueil
@@ -21529,6 +21528,7 @@ aspiratae
 aspirate
 aspiration
 apidae
+accubita
 adversatively
 aspirations
 agglutogenic
