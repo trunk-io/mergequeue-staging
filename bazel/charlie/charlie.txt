@@ -16708,7 +16708,6 @@ clos
 closable
 close
 closecross
-closed
 closedown
 closefistedly
 closefistedness
@@ -20340,6 +20339,7 @@ communal
 communalise
 communalised
 communaliser
+closed
 communalism
 communalist
 communicatee
