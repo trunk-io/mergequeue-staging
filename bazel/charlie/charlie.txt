@@ -1409,7 +1409,6 @@ callat
 callate
 callback
 callbacks
-celery
 callboy
 callboys
 champion
@@ -17109,6 +17108,7 @@ coachwise
 coachwoman
 coachwood
 coachwright
+celery
 cytocyst
 coact
 coaction
