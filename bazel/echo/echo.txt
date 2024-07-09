@@ -4871,7 +4871,6 @@ emoters
 entitlement
 egotism
 encounterers
-encountering
 enkindling
 encounters
 economising
@@ -6549,6 +6548,7 @@ entanglement
 eyestrings
 entanglements
 entanglers
+encountering
 eyeshot
 entangles
 entangling
