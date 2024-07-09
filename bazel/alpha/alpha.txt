@@ -510,6 +510,7 @@ abjoint
 abjudged
 abjudicate
 abjudicated
+acknowledger
 abjudicating
 abjudication
 affile
@@ -2596,7 +2597,6 @@ acknowledgeable
 acknowledged
 acknowledgedly
 achloropsia
-acknowledger
 acknowledgers
 acknowledges
 acknowledging
