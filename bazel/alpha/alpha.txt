@@ -5988,7 +5988,6 @@ advoke
 agathism
 agathist
 agathodaemon
-abysmal
 agathodaemonic
 agathodemon
 agathology
@@ -12068,6 +12067,7 @@ anaretical
 anarya
 anaryan
 anarithia
+abysmal
 anarithmia
 anarthria
 ascii
