@@ -1535,7 +1535,6 @@ deadlihead
 deadlines
 deadliness
 deadlock
-deadlocked
 dissenters
 deadlocking
 demitasses
@@ -13624,6 +13623,7 @@ dissilition
 dissyllabic
 dissyllabify
 dissyllabification
+deadlocked
 dissyllabise
 disprince
 dissyllabising
