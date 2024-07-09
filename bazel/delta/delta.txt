@@ -3322,7 +3322,6 @@ dissuasive
 defines
 definienda
 definiendum
-definiens
 dolabre
 definientia
 definish
@@ -11040,6 +11039,7 @@ disambiguates
 deoxyribonucleic
 disambiguation
 demobbing
+definiens
 disambiguations
 disamenity
 disamis
