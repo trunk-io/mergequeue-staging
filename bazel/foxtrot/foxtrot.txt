@@ -2813,7 +2813,6 @@ foreknowable
 feudalising
 fendy
 fundamentals
-feudalism
 finagling
 foehns
 feudalistic
@@ -4844,6 +4843,7 @@ flamingo
 flamingoes
 flamingos
 fantaseid
+feudalism
 fishy
 flaminical
 flamless
