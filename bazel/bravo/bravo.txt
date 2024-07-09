@@ -4921,7 +4921,6 @@ beeyard
 bixaceous
 barbarianism
 beeish
-beeishness
 beek
 beekeepers
 becater
@@ -9461,6 +9460,7 @@ birdsall
 birdseeds
 birdseyes
 birdshots
+beeishness
 braehead
 birdsnest
 birdsong
