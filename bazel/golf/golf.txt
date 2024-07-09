@@ -8009,7 +8009,6 @@ girths
 grandparent
 grandparentage
 grandparental
-grandparenthood
 grandparents
 granitoid
 gyronny
@@ -10057,6 +10056,7 @@ guerrillaism
 gurjun
 guaranty
 guerrillas
+grandparenthood
 germanomania
 guerrillaship
 gorgeret
