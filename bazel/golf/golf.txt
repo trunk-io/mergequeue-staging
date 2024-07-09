@@ -6050,7 +6050,6 @@ glovemaking
 gloveman
 glovers
 groundlessness
-gammoner
 glow
 girnel
 glowbard
@@ -9583,6 +9582,7 @@ ganton
 grubble
 guaranteeship
 gossypols
+gammoner
 galtonian
 glosts
 grubhood

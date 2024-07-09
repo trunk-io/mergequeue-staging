@@ -2397,7 +2397,6 @@ electrodialysis
 electrodialitic
 endaseh
 electrodialyze
-electrodynamic
 electrodynamical
 enter
 electrodynamism
@@ -8924,6 +8923,7 @@ enterorrhaphy
 eremopteris
 eremuri
 eremurus
+electrodynamic
 erenach
 erenow
 eczematoid
