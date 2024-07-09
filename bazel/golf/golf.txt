@@ -5498,6 +5498,7 @@ glycolyl
 glycolylurea
 glycolipid
 geod
+gonochorismal
 glycolipin
 glycolipine
 glycolysis
@@ -6937,7 +6938,6 @@ gerocomy
 gonocalyx
 gonocheme
 goaling
-gonochorismal
 giesel
 gonocyte
 gingals
