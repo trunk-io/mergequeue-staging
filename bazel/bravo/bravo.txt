@@ -1080,6 +1080,7 @@ ballweed
 bank
 bailieship
 bailiff
+barware
 bailiffs
 bailiffship
 bailiffwick
@@ -3108,7 +3109,6 @@ bullit
 barways
 backrests
 barwal
-barware
 barwares
 barwin
 barwise
