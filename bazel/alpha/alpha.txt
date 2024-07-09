@@ -2590,7 +2590,6 @@ apocodeine
 abattoir
 acknow
 acknowledgeable
-acknowledged
 acknowledgedly
 achloropsia
 acknowledger
@@ -4398,6 +4397,7 @@ adorningly
 adornment
 amusively
 antagonisation
+acknowledged
 adornments
 adorno
 adorns
