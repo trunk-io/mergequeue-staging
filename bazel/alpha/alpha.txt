@@ -17958,7 +17958,6 @@ apprehensively
 apprend
 apprense
 apprenticed
-apprenticehood
 apprenticement
 apprenticeship
 apprenticeships
@@ -24928,6 +24927,7 @@ awardable
 adroit
 awarded
 awardee
+apprenticehood
 awardees
 awarders
 aminity
