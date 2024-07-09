@@ -5001,7 +5001,6 @@ denaro
 dislock
 denasalize
 denasalized
-draped
 denat
 denationalisation
 denationalise
@@ -15730,6 +15729,7 @@ dipropyl
 distyle
 doryanthes
 dorical
+draped
 doricize
 dorididae
 dorylinae
