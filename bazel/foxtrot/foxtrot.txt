@@ -6684,7 +6684,6 @@ flysch
 foes
 followable
 fast
-foetalism
 frankable
 foetalization
 foetation
@@ -8819,6 +8818,7 @@ fittedness
 fossils
 fosslfying
 fosslology
+foetalism
 fourierist
 flawed
 fossoria
