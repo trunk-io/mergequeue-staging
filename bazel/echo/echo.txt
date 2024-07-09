@@ -5185,7 +5185,6 @@ embosser
 endocrinopathy
 endocrinopathic
 electrolysis
-endocrinotherapy
 endocrinous
 endocritic
 endoderm
@@ -12873,6 +12872,7 @@ exotically
 exoticalness
 exoticness
 edwardian
+endocrinotherapy
 exotics
 exotism
 exotospore
