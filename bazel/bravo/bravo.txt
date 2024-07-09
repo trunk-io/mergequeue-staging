@@ -2561,7 +2561,6 @@ baresma
 baresthesia
 baretta
 barf
-barfed
 barff
 barfy
 breakshugh
@@ -8397,6 +8396,7 @@ bigroot
 becompass
 bigthatch
 biguanide
+barfed
 bigwig
 bluenoser
 bigwigged
