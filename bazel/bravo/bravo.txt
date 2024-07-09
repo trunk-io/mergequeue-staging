@@ -7220,6 +7220,7 @@ bestove
 bestow
 bestowable
 bestowal
+bioclimatology
 bestowals
 bestir
 bestower
@@ -12811,7 +12812,6 @@ boose
 boosies
 balcony
 boost
-bioclimatology
 bariatrician
 booster
 barrelage
