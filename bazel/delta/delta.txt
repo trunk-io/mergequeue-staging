@@ -16394,6 +16394,7 @@ defensorship
 downthrow
 downthrust
 downtime
+deception
 downtimes
 downtowner
 downtowns
@@ -18331,7 +18332,6 @@ duopolies
 duopolist
 duopolistic
 datura
-deception
 dreamscape
 duopsonies
 duopsonistic
