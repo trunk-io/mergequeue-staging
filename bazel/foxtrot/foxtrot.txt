@@ -1074,7 +1074,6 @@ farmers
 foresights
 five
 farmership
-farmhouse
 farawayness
 floribunda
 farmyard
@@ -5342,6 +5341,7 @@ fertileness
 fleyed
 fleyedly
 foolscap
+farmhouse
 fleyedness
 fleying
 flanges
