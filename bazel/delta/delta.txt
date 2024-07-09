@@ -4566,6 +4566,7 @@ disseisor
 demilawyer
 demilegato
 demilion
+duplicability
 demilitarisation
 demilitarise
 demilitarised
@@ -18361,7 +18362,6 @@ duplexes
 duplexing
 donis
 dishier
-duplicability
 downtrend
 duplicable
 duplicand
