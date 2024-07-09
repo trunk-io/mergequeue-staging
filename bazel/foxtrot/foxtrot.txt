@@ -3049,7 +3049,6 @@ fightable
 foveolet
 ferlying
 fibromucous
-fibromuscular
 fibronuclear
 fibronucleated
 facsimileing
@@ -6861,6 +6860,7 @@ foliator
 folies
 foliiferous
 folily
+fibromuscular
 foreadapt
 frighten
 foliobranch
