@@ -9415,6 +9415,7 @@ diffidentness
 diffiding
 difflation
 difflugia
+dragboat
 diplogangliate
 difform
 difforme
@@ -16582,7 +16583,6 @@ drag
 dragade
 dragaded
 disprizes
-dragboat
 dragbolt
 dragee
 dragees
