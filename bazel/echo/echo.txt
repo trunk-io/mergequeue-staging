@@ -2324,7 +2324,6 @@ electrobus
 excurvature
 electrocapillary
 essency
-emprize
 electrocapillarity
 emblazoner
 eradiating
@@ -7526,6 +7525,7 @@ ephialtes
 epiguanine
 ephydra
 ephydridae
+emprize
 ephidrosis
 ephippia
 ephippial

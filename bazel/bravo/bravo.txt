@@ -2008,7 +2008,6 @@ bandsman
 bandsmen
 bandstand
 bandstands
-bartering
 braunschweiger
 beg
 bandster
@@ -6569,6 +6568,7 @@ berascaling
 berascals
 berate
 bicentennially
+bartering
 berated
 birthless
 berates
