@@ -6511,7 +6511,6 @@ fondnesses
 filariids
 facades
 flusters
-fascet
 flustra
 flustrate
 flurry
@@ -7218,6 +7217,7 @@ frontal
 footways
 flannelflower
 forbids
+fascet
 footwall
 footwalls
 footwarmer
