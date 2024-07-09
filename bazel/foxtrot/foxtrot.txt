@@ -8599,6 +8599,7 @@ forstand
 forsterite
 forsung
 fussers
+foretrysail
 forswat
 forswear
 forswearer
@@ -11248,7 +11249,6 @@ fleerish
 familiarisation
 funks
 forbid
-foretrysail
 funli
 funmaker
 funmaking
