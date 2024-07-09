@@ -16550,7 +16550,6 @@ bucharest
 buchloe
 buchmanism
 beant
-buchmanite
 bayish
 buchnerite
 buchonite
@@ -17171,6 +17170,7 @@ bullocks
 bullose
 bullous
 bullpen
+buchmanite
 bullpens
 bighorns
 bullpoll
