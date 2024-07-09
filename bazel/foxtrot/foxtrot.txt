@@ -4147,6 +4147,7 @@ fireplug
 faradizer
 fireproofed
 fireproofing
+fluctuosity
 fireproofness
 fireroom
 foreturn
@@ -6200,7 +6201,6 @@ forenames
 flatfoots
 fluctuating
 fluctuational
-fluctuosity
 footroom
 floatplane
 fluctuous
