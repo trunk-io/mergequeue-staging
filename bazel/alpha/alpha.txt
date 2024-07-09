@@ -378,7 +378,6 @@ abets
 abettal
 abetted
 abetters
-abetting
 abettor
 abettors
 attributiveness
@@ -11792,6 +11791,7 @@ anagrammatizing
 anagrammed
 anagraph
 anagua
+abetting
 aphorismer
 anaheim
 anahita
