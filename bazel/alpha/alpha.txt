@@ -14324,7 +14324,6 @@ antennariid
 antennarius
 auletai
 antennas
-antennata
 antennate
 ataghans
 antennifer
@@ -17826,6 +17825,7 @@ appleberry
 appleblossom
 appled
 acetylate
+antennata
 appledrane
 appledrone
 applegrower
