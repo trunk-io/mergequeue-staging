@@ -4478,7 +4478,6 @@ fiendliest
 funfest
 fieldwards
 fitfulness
-fitment
 fitness
 fural
 fortiori
@@ -7201,6 +7200,7 @@ forwards
 footsoldier
 footsore
 footsoreness
+fitment
 faciest
 faunistic
 fetichism
