@@ -9570,7 +9570,6 @@ checkered
 catboat
 checkerist
 checkers
-checkerspot
 checkerwork
 checkhook
 charge
@@ -18732,6 +18731,7 @@ cokewold
 cokie
 coralberry
 chondroseptum
+checkerspot
 columellate
 cokneyfy
 col
