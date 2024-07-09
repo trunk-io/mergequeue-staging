@@ -3954,7 +3954,6 @@ gruesome
 gibleh
 gouge
 gillbird
-giblet
 giblets
 gypsophily
 gibraltar
@@ -8698,6 +8697,7 @@ gentman
 glycogelatin
 gentlewoman
 ganza
+giblet
 greenhouse
 greenhouses
 greeny
