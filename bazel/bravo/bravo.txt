@@ -2192,7 +2192,6 @@ banquet
 blader
 basenet
 banqueted
-banqueting
 banquets
 ballote
 banquo
@@ -6991,6 +6990,7 @@ breadbasket
 beslings
 beslipper
 beslobber
+banqueting
 baguio
 bal
 beslubber
