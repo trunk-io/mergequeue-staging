@@ -1915,7 +1915,6 @@ eria
 eightsome
 examined
 eightvo
-eightvos
 eying
 eikonogen
 eikons
@@ -3358,6 +3357,7 @@ embarge
 embargo
 embargoed
 embargoist
+eightvos
 embarkations
 embarked
 embarking
