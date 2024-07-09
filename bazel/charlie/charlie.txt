@@ -7236,7 +7236,6 @@ centrodorsal
 centrodorsally
 centroidal
 centroids
-centrolecithal
 centrolepidaceae
 centrolepidaceous
 controverts
@@ -23888,6 +23887,7 @@ cephalob
 contributional
 contributions
 contributively
+centrolecithal
 contributor
 contributory
 contributorial
