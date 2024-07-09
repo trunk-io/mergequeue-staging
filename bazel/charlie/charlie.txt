@@ -12292,7 +12292,6 @@ chrysomelid
 chrysomelidae
 chrisomloosing
 colorin
-chrysomonad
 chrysomonadales
 chrysomonadina
 chrysomonadine
@@ -21827,6 +21826,7 @@ conductor
 contingentialness
 conductory
 cancered
+chrysomonad
 conductorial
 conductorless
 conductorship
