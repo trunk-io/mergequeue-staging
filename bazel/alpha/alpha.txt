@@ -4178,7 +4178,6 @@ administer
 administerial
 administering
 administerings
-administers
 administrable
 administrants
 administrated
@@ -4676,6 +4675,7 @@ adventuring
 agrypnode
 adventurish
 adventurism
+administers
 adventurist
 adventuristic
 adventurous
