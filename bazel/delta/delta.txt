@@ -6320,7 +6320,6 @@ dynamoscope
 dermestidae
 dermestoid
 dermic
-dermises
 demurs
 disimmure
 dermitis
@@ -7117,6 +7116,7 @@ desulfuriser
 desulfurising
 desulfurization
 dinotheriidae
+dermises
 diuretically
 distained
 desulfurize
