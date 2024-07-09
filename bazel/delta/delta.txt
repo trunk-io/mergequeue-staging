@@ -10828,7 +10828,6 @@ directive
 directiveness
 dotes
 directives
-directivity
 directly
 directness
 directoire
@@ -17355,6 +17354,7 @@ droopily
 droopiness
 disserve
 diethylstilboestrol
+directivity
 droopingly
 droopingness
 disphenoid
