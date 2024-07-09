@@ -1086,7 +1086,6 @@ farmyards
 funs
 farmland
 fluorosis
-farmlands
 francisca
 fractionised
 fisc
@@ -7380,6 +7379,7 @@ forcipal
 funfairs
 fistularioid
 forcipial
+farmlands
 forcipiform
 forcipulata
 frisii
