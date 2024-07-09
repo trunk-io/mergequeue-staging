@@ -962,7 +962,6 @@ gametogeny
 gametogenous
 gametogonium
 gametoid
-gorge
 gonopodium
 gauster
 gametophyte
@@ -2518,6 +2517,7 @@ gemmating
 gemmation
 governed
 gemmed
+gorge
 gemmel
 gemmeous
 griffinage
