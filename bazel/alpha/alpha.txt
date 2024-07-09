@@ -14861,6 +14861,7 @@ allesthesia
 antiarchi
 antiarins
 antiaristocracy
+assistants
 antiaristocracies
 antiaristocrat
 antiaristocratic
@@ -21823,7 +21824,6 @@ assistance
 assistances
 assistant
 assistanted
-assistants
 armadillo
 assistantship
 assistantships
