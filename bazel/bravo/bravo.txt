@@ -1882,7 +1882,6 @@ banba
 banbury
 banc
 banca
-bancal
 bancales
 blanchers
 bancha
@@ -7638,6 +7637,7 @@ buntlines
 bewreck
 boomage
 bewwept
+bancal
 bezaleel
 beatster
 bezant
