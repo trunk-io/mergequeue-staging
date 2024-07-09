@@ -1786,6 +1786,7 @@ felucca
 fouldre
 feature
 featured
+ficoid
 featureful
 featurelessness
 fattening
@@ -3102,7 +3103,6 @@ ficklewise
 fasten
 fillowite
 ficoes
-ficoid
 ficoidaceae
 fontainea
 franchisers

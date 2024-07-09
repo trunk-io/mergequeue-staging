@@ -9003,6 +9003,7 @@ cienaga
 charcoaling
 charcoalist
 charcuteries
+copyfitting
 colzas
 charcutiers
 chard
@@ -24607,7 +24608,6 @@ copier
 copiers
 copies
 copyfitter
-copyfitting
 consentfully
 copygraph
 copygraphed
