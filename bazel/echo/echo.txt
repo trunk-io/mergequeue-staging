@@ -2029,7 +2029,6 @@ elaborate
 elaborated
 elaborately
 epilatory
-emancipates
 elaborates
 elaboration
 endure
@@ -9282,6 +9281,7 @@ embattled
 evanid
 erosiveness
 erosivity
+emancipates
 extravaganzas
 encumbers
 electroresection
