@@ -10749,7 +10749,6 @@ epibatholithic
 eucre
 emendable
 eucryphiaceous
-eucrite
 eucrites
 entamebic
 euctical
@@ -10845,6 +10844,7 @@ evocations
 euglenoid
 epistrophic
 euglenoidina
+eucrite
 eugonic
 eugregarinida
 eugubine
