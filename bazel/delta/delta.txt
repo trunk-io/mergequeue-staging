@@ -7707,7 +7707,6 @@ devisees
 defecting
 deviser
 devising
-devisings
 devisor
 devisors
 devitalisation
@@ -13140,6 +13139,7 @@ displeased
 displeasedly
 dryopithecus
 dispost
+devisings
 debase
 deprivative
 displeaser

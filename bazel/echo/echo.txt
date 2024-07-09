@@ -2680,6 +2680,7 @@ electrotonicity
 electrotropism
 excheat
 equiponderancy
+ethnog
 electrovalent
 electrovection
 electrum
@@ -10488,7 +10489,6 @@ exhausting
 ethiops
 enneastyle
 ethnoflora
-ethnog
 ethnogeny
 ethnogenies
 ethnogenist
