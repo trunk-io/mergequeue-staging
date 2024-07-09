@@ -5118,6 +5118,7 @@ etacist
 eppie
 entities
 endocellular
+enfolds
 exposition
 enshrine
 endoceras
@@ -5614,7 +5615,6 @@ embattling
 enfolden
 enfolder
 enfolding
-enfolds
 electrobrasser
 enfonce
 elbowboard
