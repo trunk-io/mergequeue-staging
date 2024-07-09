@@ -4186,6 +4186,7 @@ carful
 carfuls
 carga
 cargador
+cumulene
 cargadores
 cargason
 cargo
@@ -30966,7 +30967,6 @@ cherup
 cumulative
 cumulatively
 cumulativeness
-cumulene
 cumulet
 covolume
 cumuli
