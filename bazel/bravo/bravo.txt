@@ -1740,7 +1740,6 @@ benediction
 balor
 baloskion
 bermuda
-bluestem
 bulbels
 bodhisat
 balotade
@@ -10676,6 +10675,7 @@ bleinerite
 blellum
 blellums
 blemish
+bluestem
 blemished
 blemishes
 bohorok
