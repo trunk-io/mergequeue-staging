@@ -3811,7 +3811,6 @@ deifications
 deificatory
 deified
 distributionist
-deifier
 deifies
 deifying
 deiform
@@ -6444,6 +6443,7 @@ drysalteries
 desacralization
 desacralize
 desagrement
+deifier
 desalinate
 desalinated
 desalinates
