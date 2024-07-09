@@ -281,6 +281,7 @@ abdominoanterior
 abdominocardiac
 abdominocentesis
 aerogels
+airish
 abdominocystic
 abdominohysterectomy
 abdominoposterior
@@ -7023,7 +7024,6 @@ airing
 airings
 alkalizer
 allometric
-airish
 airless
 amelioratively
 acock
