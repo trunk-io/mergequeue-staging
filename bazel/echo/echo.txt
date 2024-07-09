@@ -2508,7 +2508,6 @@ electromyography
 electromyographic
 electromyographical
 eunuchoid
-electromyographically
 electromobile
 electromotion
 electromotive
@@ -9942,6 +9941,7 @@ estadel
 electivity
 estadio
 estafet
+electromyographically
 endothys
 estafetted
 elegize
