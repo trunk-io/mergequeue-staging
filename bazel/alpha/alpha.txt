@@ -20246,7 +20246,6 @@ arrestable
 arrestant
 arval
 arrestation
-arrested
 arrestee
 arrestees
 arrester
@@ -24613,6 +24612,7 @@ avellano
 avelonge
 aveloz
 avena
+arrested
 acrasy
 avenage
 avenalin
