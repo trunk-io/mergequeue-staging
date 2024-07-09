@@ -13512,6 +13512,7 @@ cyclotron
 cyclotrons
 cy
 cyclovertebral
+cryostase
 cyclus
 cicone
 ciconia
@@ -29219,7 +29220,6 @@ cryospheric
 coquicken
 criosphinx
 criosphinxes
-cryostase
 cryostat
 cryostats
 cryosurgeon
