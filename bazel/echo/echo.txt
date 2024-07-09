@@ -6090,7 +6090,6 @@ enmarbling
 enmask
 ergotist
 engravings
-enmesh
 enmeshed
 enmeshes
 enmeshing
@@ -7490,6 +7489,7 @@ ephelcystic
 ephemeral
 ephemeralities
 epigrapher
+enmesh
 ephemerally
 electrocardiograph
 euscaro
