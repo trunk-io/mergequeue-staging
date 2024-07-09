@@ -5956,7 +5956,6 @@ gizzards
 glossokinesthetic
 geulah
 glossolabial
-glossolabiolaryngeal
 glossolabiopharyngeal
 graptolitoidea
 glossolaly
@@ -9298,6 +9297,7 @@ genghis
 garnishry
 gliadines
 gymnoplast
+glossolabiolaryngeal
 grooviest
 ganglionless
 grooviness
