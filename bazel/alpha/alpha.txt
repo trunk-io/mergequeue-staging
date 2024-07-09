@@ -10661,7 +10661,6 @@ arawakan
 aswoon
 amyloidoses
 amyloidosis
-amyloids
 amyloleucite
 amylolysis
 amylolytic
@@ -22359,6 +22358,7 @@ astronomien
 astronomize
 alangiaceae
 autoeducation
+amyloids
 astropectinidae
 astrophel
 antipapacy
