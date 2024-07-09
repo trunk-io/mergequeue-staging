@@ -1184,7 +1184,6 @@ edriophthalmatous
 edriophthalmian
 eds
 educabilia
-educability
 educable
 educand
 espathate
@@ -7072,6 +7071,7 @@ emotionality
 entrepreneuse
 embryotega
 entrer
+educability
 entresalle
 entomologically
 elytrum
