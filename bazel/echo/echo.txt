@@ -6920,7 +6920,6 @@ endangers
 entomophthoraceous
 eschalot
 entomophthorous
-entomosporium
 entomostracan
 entomotaxy
 entomotomy
@@ -11620,6 +11619,7 @@ evilspeaker
 evilspeaking
 enumerations
 evilwishing
+entomosporium
 evince
 evincement
 evincible
