@@ -3865,7 +3865,6 @@ campania
 carcer
 coalizer
 carcerated
-carcerating
 cantharidized
 carceration
 costothoracic
@@ -6817,6 +6816,7 @@ celluloided
 cellulolytic
 cosheath
 cellulomonadeae
+carcerating
 crack
 cellulomonas
 cellulose
