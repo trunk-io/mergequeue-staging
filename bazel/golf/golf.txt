@@ -5015,7 +5015,6 @@ glacialist
 gurkha
 guerdonable
 goldstone
-glaciarium
 gloomless
 glaciate
 gideon
@@ -6519,6 +6518,7 @@ gristle
 gladkaite
 gynecocracies
 generalist
+glaciarium
 garnet
 graphologists
 gonnardite
