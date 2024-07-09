@@ -57,7 +57,6 @@ faceable
 facebow
 facebread
 farms
-facecloth
 faceless
 facelessness
 facelift
@@ -3465,6 +3464,7 @@ filar
 fowells
 fezzes
 filariae
+facecloth
 fundmongering
 fattily
 filariasis
