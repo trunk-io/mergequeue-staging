@@ -9883,6 +9883,7 @@ bits
 bitser
 bitsy
 bitstock
+booklore
 blaeberry
 bitstocks
 bitstone
@@ -12711,7 +12712,6 @@ booklift
 booklike
 bookling
 booklists
-booklore
 boatheader
 booklores
 booklover

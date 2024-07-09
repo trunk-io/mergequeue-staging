@@ -3003,7 +3003,6 @@ capelans
 capelet
 capelin
 capeline
-capelins
 capella
 capellane
 capelline
@@ -27580,6 +27579,7 @@ callipees
 covillager
 covillea
 covin
+capelins
 covine
 coving
 covinous
