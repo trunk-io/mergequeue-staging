@@ -977,7 +977,6 @@ darger
 darghin
 dargo
 darya
-diapausing
 daribah
 daric
 darics
@@ -2585,6 +2584,7 @@ decolonised
 decolonising
 decolonization
 decolonize
+diapausing
 dominant
 datsuns
 decolonizes
