@@ -456,6 +456,7 @@ glottologies
 galeod
 galeodes
 galeodidae
+gareh
 galeoid
 gofferer
 galeorchis
@@ -8377,7 +8378,6 @@ glory
 gordiid
 graylags
 glinse
-gareh
 ginglyni
 graticule
 glucosaemia
