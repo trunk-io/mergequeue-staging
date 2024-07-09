@@ -1191,7 +1191,6 @@ ethologies
 educate
 educated
 educatedly
-elegiacally
 educating
 education
 educationable
@@ -2917,6 +2916,7 @@ enameloma
 enameler
 eliding
 elydoric
+elegiacally
 eligenda
 eligibility
 eligibilities
