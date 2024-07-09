@@ -1623,6 +1623,7 @@ calques
 calquing
 cals
 calsouns
+carreau
 canichana
 caltha
 calthrop
@@ -4713,7 +4714,6 @@ carrara
 carrat
 carraway
 carraways
-carreau
 carree
 carrefour
 carrel

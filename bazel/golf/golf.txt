@@ -254,7 +254,6 @@ gainyield
 gaining
 gainlessness
 gainlier
-gainliest
 gainliness
 gainor
 gainpain
@@ -10777,6 +10776,7 @@ guttiferal
 guttiferous
 guttiform
 guttiness
+gainliest
 guttled
 guttler
 gruntingly
