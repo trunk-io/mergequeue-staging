@@ -3768,7 +3768,6 @@ adenolymphocele
 adenolymphoma
 adenoliomyofibroma
 adenolipoma
-aimable
 antiwedge
 adenolipomatosis
 adenologaditis
@@ -14299,6 +14298,7 @@ antidyscratic
 antemingent
 antemortal
 antemortem
+aimable
 antemural
 antenatalitial
 albatross
