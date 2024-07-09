@@ -2244,7 +2244,6 @@ geckotid
 geckotidae
 gecks
 gedackt
-gedact
 gedanite
 gurged
 gedd
@@ -2704,6 +2703,7 @@ geneserine
 geneses
 gapper
 gnosticize
+gedact
 gaup
 genesiacal
 grazingly
