@@ -7744,7 +7744,6 @@ enaunter
 epidendrum
 epiderma
 emulsions
-epidermal
 eleutherian
 enthelmintha
 epidermatic
@@ -8890,6 +8889,7 @@ erecting
 erectness
 erectopatent
 erectors
+epidermal
 erects
 elechi
 erelong
