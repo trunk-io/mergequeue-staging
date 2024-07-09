@@ -2524,7 +2524,6 @@ daer
 dilli
 declivent
 declivity
-declivities
 declivitous
 dilleniaceous
 declivitously
@@ -8784,6 +8783,7 @@ diazotizability
 diazotizable
 diazotization
 diazotize
+declivities
 diazotized
 diazotizing
 dib
