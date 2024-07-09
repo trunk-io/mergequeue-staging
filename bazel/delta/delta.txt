@@ -4412,7 +4412,6 @@ demast
 demasted
 demasting
 dishfuls
-demasts
 dematerialisation
 dematerialise
 decubation
@@ -11611,6 +11610,7 @@ disconsolately
 disconsolateness
 disconsolation
 dunkle
+demasts
 discontented
 discontentedly
 discontentful

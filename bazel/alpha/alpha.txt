@@ -10085,7 +10085,6 @@ amberfishes
 anthotropism
 ambergris
 ambery
-aggregational
 amberies
 amberina
 amberjack
@@ -23154,6 +23153,7 @@ attourne
 attract
 attractability
 attractable
+aggregational
 attractancy
 attractant
 attracted
