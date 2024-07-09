@@ -5593,6 +5593,7 @@ flintlike
 flints
 flintstone
 fervescence
+fluidly
 frontspiece
 flyoff
 felis
@@ -6290,7 +6291,6 @@ followup
 flotations
 fluidizes
 fileted
-fluidly
 fluidmeter
 familiary
 fluidness
