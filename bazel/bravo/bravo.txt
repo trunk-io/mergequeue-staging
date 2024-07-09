@@ -10280,6 +10280,7 @@ blairmorite
 backset
 bioastronautics
 boatlike
+brythonic
 blame
 blameable
 banshie
@@ -15534,7 +15535,6 @@ bleaks
 burins
 brither
 brython
-brythonic
 blimy
 british
 britishism
