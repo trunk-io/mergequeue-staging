@@ -2686,7 +2686,6 @@ generator
 generators
 generatrices
 generic
-generical
 grad
 generically
 globosphaerite
@@ -2960,6 +2959,7 @@ gladfully
 galloptious
 gentlemouthed
 gentleness
+generical
 gentlepeople
 gaucherie
 gentles
