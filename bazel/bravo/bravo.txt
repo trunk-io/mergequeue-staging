@@ -2595,6 +2595,7 @@ bargellos
 bargeload
 bargepole
 booklice
+barmkin
 barger
 barges
 boehmite
@@ -13781,7 +13782,6 @@ bowlder
 bearbaiting
 battleplane
 bowlderhead
-barmkin
 bowldering
 bowlders
 bowleg
