@@ -1850,6 +1850,7 @@ epencephalic
 eyespot
 eyess
 eyestalk
+everywhere
 eyestrain
 eyestring
 empyreumata
@@ -10423,7 +10424,6 @@ erpetoichthys
 ethion
 evadible
 ethionine
-everywhere
 ethions
 ergal
 ethiopian
