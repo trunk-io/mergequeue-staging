@@ -766,7 +766,6 @@ grizzliness
 greywacke
 galopin
 geerah
-galoping
 galops
 galore
 galosh
@@ -2917,6 +2916,7 @@ grucche
 garlicmonger
 gentilitial
 gentilitian
+galoping
 ganisters
 gliocyte
 gentilization

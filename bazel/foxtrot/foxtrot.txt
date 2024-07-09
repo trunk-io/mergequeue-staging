@@ -1496,6 +1496,7 @@ faubourgs
 flannelette
 faucal
 fingerprinted
+forleft
 faucals
 faucet
 faucets
@@ -9935,7 +9936,6 @@ fricassees
 fecula
 fenian
 fricatrice
-forleft
 formyls
 frictionable
 fractionate
