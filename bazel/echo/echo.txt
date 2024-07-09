@@ -2337,7 +2337,6 @@ electrocataphoresis
 electrocataphoretic
 enneacontahedral
 electrocautery
-electroceramic
 emmensite
 electrodispersive
 electrochemical
@@ -14094,6 +14093,7 @@ extrovertive
 extrovertively
 eyesore
 exclusively
+electroceramic
 epitaphist
 extroverts
 extruct
