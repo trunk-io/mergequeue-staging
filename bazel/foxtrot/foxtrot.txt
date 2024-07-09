@@ -2731,6 +2731,7 @@ fetches
 fetching
 fete
 feteless
+formalizing
 feterita
 fetial
 fetialis
@@ -8354,7 +8355,6 @@ formalizations
 formalize
 formalizer
 formalizes
-formalizing
 fraudulently
 formally
 formalness
