@@ -1872,7 +1872,6 @@ eyewinker
 englishing
 eyewitness
 eyewitnesses
-exponentiate
 eigenfrequency
 eigenvalue
 eightballs
@@ -13443,6 +13442,7 @@ exsanguinate
 exsanguinated
 engin
 exsanguinating
+exponentiate
 encounter
 eggs
 eviscerator
