@@ -7135,7 +7135,6 @@ gooseflower
 goosefoot
 gavall
 gubernance
-ganglionless
 goosefoots
 gunlayer
 grainy
@@ -9293,6 +9292,7 @@ garnishry
 gliadines
 gymnoplast
 grooviest
+ganglionless
 grooviness
 grooving
 graces
