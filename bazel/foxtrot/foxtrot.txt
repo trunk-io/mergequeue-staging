@@ -4108,7 +4108,6 @@ fumblingness
 firedrake
 firefall
 firefang
-firefanged
 forsakes
 firefighting
 fireflies
@@ -6301,6 +6300,7 @@ fluidounce
 factordom
 fluidrams
 fifteenths
+firefanged
 fluigram
 frankincensed
 feriation
