@@ -11506,7 +11506,6 @@ alltud
 amula
 amulae
 amulas
-amulet
 amunam
 amurca
 amurcosity
@@ -17481,6 +17480,7 @@ aposteriori
 assertress
 aerocar
 aposthia
+amulet
 apostil
 apostille
 apostils
