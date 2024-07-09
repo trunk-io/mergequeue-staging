@@ -883,7 +883,6 @@ gambir
 galactorrhoea
 gristles
 gambirs
-gambist
 gambits
 gambler
 gamblers
@@ -1981,6 +1980,7 @@ gaupus
 genitives
 glucoses
 getters
+gambist
 grantia
 gainless
 gaulding
