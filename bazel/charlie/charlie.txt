@@ -5151,7 +5151,6 @@ casked
 casket
 casketed
 casketlike
-caskets
 casky
 clepsine
 casking
@@ -14695,6 +14694,7 @@ cisternal
 cisterns
 cistic
 cystic
+caskets
 cysticarpic
 cysticarpium
 cysticerci
