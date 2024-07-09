@@ -22329,7 +22329,6 @@ astromancy
 astromantic
 astrometeorological
 aphrodisian
-astrometeorologist
 astrometer
 astrometry
 astrometrical
@@ -23277,6 +23276,7 @@ alighten
 autography
 audaciously
 audaciousness
+astrometeorologist
 audacity
 audacities
 audads
