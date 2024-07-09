@@ -7938,7 +7938,6 @@ enlimn
 epileny
 epilepsy
 epilepsies
-epileptically
 emptio
 epileptics
 epileptiform
@@ -12794,6 +12793,7 @@ exorcises
 exorcising
 ejusdem
 exorcism
+epileptically
 exorcisory
 exorcist
 exorcista
