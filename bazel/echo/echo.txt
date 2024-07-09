@@ -3461,6 +3461,7 @@ emblazer
 edifices
 emblazers
 euphoria
+entertake
 entablement
 emblazing
 emblazon
@@ -6728,7 +6729,6 @@ entertainments
 entertains
 ebullitive
 epilogs
-entertake
 entertissue
 entete
 ectrogenic
