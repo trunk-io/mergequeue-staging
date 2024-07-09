@@ -1451,7 +1451,6 @@ clammed
 callipering
 callipers
 calliphora
-calliphorid
 calliphorine
 callipygian
 callipygous
@@ -5035,6 +5034,7 @@ clewing
 casebook
 casebooks
 casebound
+calliphorid
 casebox
 calcinable
 caseconv
