@@ -2556,6 +2556,7 @@ acinetic
 acinetiform
 acinetina
 acing
+aftershocks
 acini
 acinic
 aciniform
@@ -5793,7 +5794,6 @@ anzac
 aftershine
 aftership
 anthemy
-aftershocks
 aftersong
 afterspeech
 afterspring
