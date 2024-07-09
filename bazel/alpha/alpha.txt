@@ -4288,7 +4288,6 @@ adnerval
 adnescent
 aditus
 armsize
-adneural
 arteriodiastasis
 adnex
 adnexal
@@ -15740,6 +15739,7 @@ antimoral
 antimoralism
 antimoralist
 antimoralistic
+adneural
 antimosquito
 anorthographic
 actinozoa
