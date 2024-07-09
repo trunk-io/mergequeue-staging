@@ -6179,7 +6179,6 @@ caulerpa
 caulerpaceae
 caules
 cauli
-caulicle
 caulicles
 caulicolous
 cauliculi
@@ -31355,6 +31354,7 @@ cholecystoileostomy
 curl
 curled
 curledly
+caulicle
 curledness
 curler
 curlew
