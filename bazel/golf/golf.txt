@@ -2234,7 +2234,6 @@ gebbie
 geoethnic
 gecarcinian
 gecarcinidae
-gecarcinus
 graywall
 geck
 gecked
@@ -4036,6 +4035,7 @@ gigantean
 gigantesque
 galee
 gangliform
+gecarcinus
 gansy
 giganticidal
 gains
