@@ -3519,7 +3519,6 @@ batch
 bedur
 bumbass
 brachycephalous
-batched
 batchers
 bargemen
 batea
@@ -12133,6 +12132,7 @@ bellworts
 bolimba
 bedwarmer
 bolis
+batched
 bottlebrush
 bolita
 bolivar
