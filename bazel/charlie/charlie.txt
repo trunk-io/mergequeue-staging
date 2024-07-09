@@ -19427,7 +19427,6 @@ colopuncture
 coloquintid
 color
 colorability
-colorableness
 colorably
 coloradans
 colorado
@@ -28143,6 +28142,7 @@ craniopathy
 craniopathic
 craniopharyngeal
 craniophore
+colorableness
 cranioplasty
 craniopuncture
 craniorhachischisis
