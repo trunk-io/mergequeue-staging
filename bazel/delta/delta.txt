@@ -5877,7 +5877,6 @@ deprecates
 deprecating
 deprecation
 deprecations
-disconcert
 deprecatively
 deprecatory
 deprecatorily
@@ -11932,6 +11931,7 @@ disembark
 disembarkation
 disembarkations
 disembarked
+disconcert
 disembarking
 decentralist
 disembarks
