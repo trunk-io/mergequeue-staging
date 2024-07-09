@@ -7787,7 +7787,6 @@ alcoholimeter
 alcoholisation
 alcoholise
 assuming
-adactyl
 alcoholysis
 alcoholism
 alcoholist
@@ -13387,6 +13386,7 @@ asmolder
 anyplace
 aniridia
 anisado
+adactyl
 artamus
 anisal
 anisaldehyde
