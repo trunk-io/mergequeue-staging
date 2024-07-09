@@ -19371,7 +19371,6 @@ arenariae
 arenation
 arend
 arendalite
-arendator
 arenga
 arenicole
 arenicolite
@@ -21666,6 +21665,7 @@ assemblymen
 actuaries
 assemblywoman
 assemblywomen
+arendator
 assent
 assentaneous
 assentation
