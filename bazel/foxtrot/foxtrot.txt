@@ -805,7 +805,6 @@ fangy
 fanging
 fricative
 fangle
-forwardness
 fangless
 fingerparted
 footwalk
@@ -9820,6 +9819,7 @@ firmation
 freshed
 freshen
 farrantly
+forwardness
 footlockers
 freshener
 fresheners
