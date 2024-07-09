@@ -1511,7 +1511,6 @@ accentual
 accentually
 arerola
 accentuated
-accentuates
 accentuator
 accentus
 accept
@@ -6786,6 +6785,7 @@ aidenn
 aiders
 aides
 aidful
+accentuates
 anthropozoic
 awards
 aswing
