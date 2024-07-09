@@ -8630,7 +8630,6 @@ bateman
 boatbill
 billyer
 billies
-billyhood
 billikin
 behammer
 barotse
@@ -9394,6 +9393,7 @@ bird
 birdbath
 birdbaths
 birdberry
+billyhood
 birdbrained
 birdbrains
 birdcage
