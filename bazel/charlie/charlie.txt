@@ -9605,7 +9605,6 @@ checkrack
 checkroll
 centgrave
 checkroom
-checkrooms
 cyanhydrate
 checkrope
 checkrowed
@@ -10724,6 +10723,7 @@ chimers
 chimes
 chymes
 chimesmaster
+checkrooms
 chymia
 chymic
 chymics
