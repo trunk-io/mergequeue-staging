@@ -465,7 +465,6 @@ determinoid
 daysides
 dilaters
 daisies
-daising
 daystar
 daystars
 daytale
@@ -7323,6 +7322,7 @@ detinue
 detinuit
 detn
 downs
+daising
 detonability
 detonable
 detonatable
