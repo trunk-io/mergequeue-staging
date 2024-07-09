@@ -2805,7 +2805,6 @@ exocoelom
 euphonism
 elephantlike
 elephantoid
-elephantoidal
 eyestone
 elephantous
 emetically
@@ -3556,6 +3555,7 @@ emborder
 embordered
 endict
 embosked
+elephantoidal
 educables
 embosking
 embosks

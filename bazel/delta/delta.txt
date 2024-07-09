@@ -5485,7 +5485,6 @@ drubbers
 deoppilate
 darkroom
 deoppilation
-decantation
 deorganization
 deorganize
 deorientalize
@@ -18497,6 +18496,7 @@ duroy
 debriefed
 durometer
 duroquinone
+decantation
 durr
 durra
 destains
