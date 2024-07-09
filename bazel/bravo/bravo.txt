@@ -4205,7 +4205,6 @@ bort
 bedrabbling
 beatings
 brookite
-beatitude
 beatitudes
 beatles
 burgle
@@ -8360,6 +8359,7 @@ bighead
 bigheaded
 brake
 bighearted
+beatitude
 bigheartedly
 bavenite
 bighorn
