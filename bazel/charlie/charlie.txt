@@ -20909,6 +20909,7 @@ compotier
 compotiers
 compotor
 compoundable
+cosubject
 choaty
 compounded
 compoundedness
@@ -26324,7 +26325,6 @@ costumiers
 costuming
 costumist
 cassican
-cosubject
 cosubordinate
 coconqueror
 cosuffer
