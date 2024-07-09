@@ -1992,7 +1992,6 @@ firelike
 firearm
 feynesses
 foreshadowed
-feak
 feis
 farrandly
 feisty
@@ -6492,6 +6491,7 @@ foamily
 fictionisation
 flushboard
 flushed
+feak
 flusher
 flusherman
 flushers
