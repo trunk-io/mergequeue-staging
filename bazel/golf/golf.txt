@@ -1680,7 +1680,6 @@ gasterosteidae
 gasterosteiform
 gasifying
 grubstaked
-gasterosteoid
 gasterotheca
 gaffer
 gyrostatics
@@ -4776,6 +4775,7 @@ glycyl
 girlies
 girliness
 gamodesmic
+gasterosteoid
 girling
 girlish
 gravedo
