@@ -645,7 +645,6 @@ echolocate
 endopleuritic
 echolocation
 echometer
-exaltate
 echopractic
 ecumenopolis
 echos
@@ -2642,6 +2641,7 @@ electrophoresed
 end
 extraneity
 electrotechnical
+exaltate
 electrotechnics
 embellishes
 electrotelegraphy
