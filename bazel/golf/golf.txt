@@ -5528,7 +5528,6 @@ glycoside
 glutaraldehyde
 greet
 glycosides
-glutenous
 girlchild
 glees
 grant
@@ -8522,6 +8521,7 @@ gravimetrically
 graving
 getups
 gingeli
+glutenous
 guests
 gravipause
 gravisphere
