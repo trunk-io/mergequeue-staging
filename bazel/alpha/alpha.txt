@@ -2779,7 +2779,6 @@ acquirability
 adenopharyngeal
 acquirable
 antares
-acquire
 acquirement
 acquirements
 acquirer
@@ -19202,6 +19201,7 @@ archwise
 archworker
 archworkmaster
 arcidae
+acquire
 antipathic
 arcifera
 arciferous
