@@ -5787,7 +5787,6 @@ categorised
 categorising
 categorist
 categorization
-categorizations
 categorize
 categorizer
 categorizers
@@ -28225,6 +28224,7 @@ crapefish
 crapehanger
 carafes
 crapelike
+categorizations
 cercopithecoid
 crapes
 crapette
