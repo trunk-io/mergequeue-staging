@@ -2359,7 +2359,6 @@ glossology
 guaican
 gelate
 gelated
-gelates
 gallinaceae
 gelatification
 gelatin
@@ -8628,6 +8627,7 @@ greed
 greedy
 greediest
 ginkgoaceae
+gelates
 greedily
 greediness
 greedless
