@@ -2358,6 +2358,7 @@ feria
 feriae
 forayers
 ferias
+frized
 fantods
 feridgi
 feridjee
@@ -10729,7 +10730,6 @@ frustums
 frutage
 frutescence
 fluviovolcanic
-frized
 foundry
 frutescent
 fluoridized

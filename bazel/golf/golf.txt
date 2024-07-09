@@ -4896,7 +4896,6 @@ gyrus
 gromet
 gnocchetti
 gisants
-gisarme
 gise
 gisement
 gismo
@@ -5580,6 +5579,7 @@ glimpsers
 glimpses
 glims
 glyn
+gisarme
 grandisonian
 glink
 glint
