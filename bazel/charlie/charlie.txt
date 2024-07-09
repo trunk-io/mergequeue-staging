@@ -6009,7 +6009,6 @@ catlings
 catlinite
 catlins
 catmalison
-castrensial
 catmints
 catnache
 chowder
@@ -23198,6 +23197,7 @@ cawnie
 constrict
 constricted
 constricting
+castrensial
 constriction
 constrictions
 constrictive
