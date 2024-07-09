@@ -2311,7 +2311,6 @@ feoffer
 flies
 feoffing
 fetlow
-feoffment
 feoffor
 feoffs
 fer
@@ -7755,6 +7754,7 @@ fleshlike
 fluidify
 flak
 foremasts
+feoffment
 foremean
 forb
 foreyards
