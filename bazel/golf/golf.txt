@@ -1687,6 +1687,7 @@ gaffer
 gyrostatics
 gasterothecal
 gasterotrichan
+gers
 gastightness
 gimping
 gasting
@@ -3541,7 +3542,6 @@ gerrymanderer
 gerrymandering
 galactoma
 gerrymanders
-gers
 gersdorffite
 gaussbergite
 garbled
