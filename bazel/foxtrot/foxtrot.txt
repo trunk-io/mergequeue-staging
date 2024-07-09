@@ -143,6 +143,7 @@ fictile
 facticide
 factional
 furnacite
+forejudge
 forfeit
 factionalism
 factionalist
@@ -7704,7 +7705,6 @@ flaw
 fac
 foreiron
 fjords
-forejudge
 forejudged
 foreteller
 forejudger
