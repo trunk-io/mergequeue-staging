@@ -3849,7 +3849,6 @@ fineable
 fineableness
 finebent
 franchisal
-finecomb
 finedrawing
 fineer
 fineless
@@ -4104,6 +4103,7 @@ fireflies
 ferroelectrically
 fireflirt
 fireflower
+finecomb
 fleshy
 firehall
 fanion
