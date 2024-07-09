@@ -5936,6 +5936,7 @@ ferthumlungur
 felliducous
 floramor
 floran
+furnage
 floras
 fitful
 florate
@@ -7198,7 +7199,6 @@ footslog
 footslogged
 footslogger
 footslogging
-furnage
 forwards
 footsoldier
 footsore
