@@ -5795,7 +5795,6 @@ glochids
 glochis
 glockenspiels
 gongorist
-gesning
 gloeosporiose
 glogg
 gainstrive
@@ -6120,6 +6119,7 @@ gluconeogenic
 gisel
 grapnels
 glucoprotein
+gesning
 goback
 glucosamine
 glucosazone
