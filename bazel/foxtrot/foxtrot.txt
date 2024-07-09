@@ -4529,7 +4529,6 @@ fivepence
 fivepenny
 fierte
 fivepins
-fives
 fivescore
 fivesome
 fivestones
@@ -11591,6 +11590,7 @@ fusinist
 floodometer
 flunkyize
 fusion
+fives
 fusionism
 fluviolacustrine
 fatstocks
