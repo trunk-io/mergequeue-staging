@@ -15779,6 +15779,7 @@ clausure
 claut
 clava
 clavacin
+curvilineal
 chainlet
 clavae
 claval
@@ -31601,7 +31602,6 @@ curviest
 curviform
 crotching
 curvilinead
-curvilineal
 carpingly
 cusparia
 celesta
