@@ -5282,6 +5282,7 @@ castellet
 castelli
 castellum
 casten
+cloghaun
 caster
 casterless
 carcerate
@@ -16600,7 +16601,6 @@ cloggily
 clogginess
 circumtropical
 clogging
-cloghaun
 cloglike
 clogmaker
 clogmaking
