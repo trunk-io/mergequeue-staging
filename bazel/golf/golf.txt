@@ -3604,7 +3604,6 @@ garrya
 growler
 galactostasis
 gunfighters
-gideonite
 gestalten
 gratuities
 gladhearted
@@ -6634,6 +6633,7 @@ golcondas
 goodly
 goldang
 goldarn
+gideonite
 goldarned
 goldarnedest
 goldarns
