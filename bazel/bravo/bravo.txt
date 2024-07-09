@@ -874,7 +874,6 @@ baga
 bitmap
 boistously
 bagani
-bagass
 bagasse
 bagataway
 bagatelle
@@ -6706,6 +6705,7 @@ beryllonate
 beryllosis
 beryls
 berime
+bagass
 berimed
 berimes
 bibliomaniacal
