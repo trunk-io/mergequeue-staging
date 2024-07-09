@@ -4393,7 +4393,6 @@ enambush
 enamdar
 enamel
 enamelers
-enameling
 enamelist
 equiped
 egocentristic
@@ -7056,6 +7055,7 @@ entrelac
 entremess
 eudaimonist
 entremets
+enameling
 entresols
 entomophthora
 entrenching
