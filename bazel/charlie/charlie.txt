@@ -12,6 +12,7 @@ caback
 cabal
 cabala
 cabalas
+culicide
 cabalassou
 cabaletta
 cabalism
@@ -21197,7 +21198,6 @@ concavities
 concavo
 conceal
 concealable
-culicide
 concealed
 concealedly
 concealedness
