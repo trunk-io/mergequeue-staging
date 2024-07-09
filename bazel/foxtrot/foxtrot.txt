@@ -3653,6 +3653,7 @@ filmable
 fritillary
 filmcard
 filmcards
+furoin
 fleeching
 foreshoulder
 firebases
@@ -11458,7 +11459,6 @@ farcy
 flyness
 furoid
 factorability
-furoin
 furomethyl
 fishmen
 furomonazole
