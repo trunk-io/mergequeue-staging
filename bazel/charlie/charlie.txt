@@ -7606,7 +7606,6 @@ cerebellospinal
 cerebellum
 cerebellums
 cerebra
-cerebral
 cerebralgia
 cerebralism
 caramelization
@@ -11858,6 +11857,7 @@ choochoo
 chook
 choom
 choop
+cerebral
 choora
 choosable
 concausal
