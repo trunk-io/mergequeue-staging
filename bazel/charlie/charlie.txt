@@ -17467,7 +17467,6 @@ cobbing
 cobble
 cobbled
 cobblerfish
-cobblerism
 concertize
 cobblers
 cobblership
@@ -27530,6 +27529,7 @@ coverer
 coverers
 covering
 coverings
+cobblerism
 cribber
 coverless
 coverlet
