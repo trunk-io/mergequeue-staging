@@ -6440,7 +6440,6 @@ flisky
 fluorites
 fourthly
 fluoroborate
-fluorocarbon
 fluoroform
 frittata
 fibrinoalbuminous
@@ -10924,6 +10923,7 @@ fulmar
 fulmars
 fulmarus
 fulmen
+fluorocarbon
 fulmicotton
 fulmina
 frillery
