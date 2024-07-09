@@ -16310,7 +16310,6 @@ cotswold
 counterleague
 corone
 clinkering
-clinking
 clinks
 clinkstone
 coffeepot
@@ -26744,6 +26743,7 @@ countercathexis
 countercause
 counteragent
 counterchange
+clinking
 counterchanged
 counterchanging
 countercharge
