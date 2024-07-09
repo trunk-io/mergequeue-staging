@@ -1288,6 +1288,7 @@ balalaikas
 balan
 balance
 balanceable
+burhmoot
 balanced
 balancedness
 balancelle
@@ -17704,7 +17705,6 @@ burhinidae
 blockishness
 boulevards
 burhinus
-burhmoot
 bury
 bombic
 bestialise
