@@ -2379,6 +2379,7 @@ extraprofessional
 electrode
 exhaustively
 electrodeposit
+erythrochaete
 electrodeposition
 electrodepositor
 electrodes
@@ -11643,7 +11644,6 @@ entomofauna
 enneatic
 eviscerates
 eviscerating
-erythrochaete
 evisite
 evitable
 evitation

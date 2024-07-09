@@ -21060,7 +21060,6 @@ ascoma
 ascomata
 ascomycetal
 ascomycete
-ascomycetes
 ascomycetous
 ascon
 ascones
@@ -23512,6 +23511,7 @@ augmentor
 aurally
 auramin
 antiplastic
+ascomycetes
 auramine
 aurang
 aurantia
