@@ -5266,7 +5266,6 @@ castano
 calibered
 castanospermum
 castaway
-compilable
 casted
 casteism
 casteless
@@ -25415,6 +25414,7 @@ cornicing
 cornicle
 cherishing
 cornicular
+compilable
 corniculate
 corniculer
 cornier
