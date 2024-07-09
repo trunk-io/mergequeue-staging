@@ -1240,7 +1240,6 @@ datemark
 dater
 daterman
 daters
-dates
 demembration
 datil
 dating
@@ -2540,6 +2539,7 @@ deco
 decoagulate
 decoagulated
 dorms
+dates
 dacryon
 decoat
 decocainize

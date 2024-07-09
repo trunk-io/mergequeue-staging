@@ -10448,7 +10448,6 @@ amerikani
 amerimnon
 amerindian
 amerindians
-anatomisable
 agast
 acidize
 amerinds
@@ -18731,6 +18730,7 @@ archaized
 archaizer
 archaizes
 accounting
+anatomisable
 archangel
 agonista
 archangelic
