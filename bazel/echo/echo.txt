@@ -7541,7 +7541,6 @@ evanesces
 ephoral
 ephoralty
 ephorate
-emandibulate
 ephorates
 ephori
 ephoric
@@ -13001,6 +13000,7 @@ ecus
 expeditate
 expeditated
 exagitate
+emandibulate
 expeditation
 ethnographist
 expedited
