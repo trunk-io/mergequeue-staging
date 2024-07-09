@@ -1061,7 +1061,6 @@ calcine
 calcined
 cirsectomy
 calciner
-calcines
 calcining
 calcinize
 calcino
@@ -5644,6 +5643,7 @@ catastases
 catastasis
 catastate
 catastatic
+calcines
 catasterism
 catastrophal
 catastrophe

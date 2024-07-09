@@ -10653,7 +10653,6 @@ amyloidal
 arawakan
 aswoon
 amyloidoses
-amyloidosis
 amyloids
 amyloleucite
 amylolysis
@@ -13004,6 +13003,7 @@ anglians
 anglic
 arctia
 antiphonary
+amyloidosis
 anglican
 anglicanism
 anglicanize
