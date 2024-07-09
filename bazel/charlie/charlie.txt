@@ -6627,6 +6627,7 @@ celadon
 copters
 celadonite
 celadons
+connectionism
 celaeno
 celandines
 celanese
@@ -22630,7 +22631,6 @@ collyria
 connectible
 connectibly
 connection
-connectionism
 connectionless
 connectival
 connective
