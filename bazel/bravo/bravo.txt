@@ -4149,7 +4149,6 @@ bearlet
 bellower
 bearnaise
 bearpaw
-bears
 bearship
 bearskin
 bearward
@@ -17133,6 +17132,7 @@ bullydom
 bullier
 batteries
 bulldozed
+bears
 bulliform
 bullyhuff
 bullying
