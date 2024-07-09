@@ -4128,7 +4128,6 @@ emphyteusis
 emphyteuta
 emphyteutic
 emphraxis
-empicture
 empididae
 epinicion
 empiecement
@@ -13730,6 +13729,7 @@ endocrine
 extol
 extoled
 extoll
+empicture
 extolled
 ensigncy
 errancy
