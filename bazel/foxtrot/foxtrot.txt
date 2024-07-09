@@ -3305,6 +3305,7 @@ falchions
 flo
 flagellum
 frilliness
+frundel
 fierasferidae
 fierasferoid
 febricitation
@@ -10687,7 +10688,6 @@ frumps
 fingerprint
 forefault
 foretopsail
-frundel
 funnelling
 feretra
 flakers
