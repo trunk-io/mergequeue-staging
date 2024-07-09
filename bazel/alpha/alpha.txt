@@ -6026,7 +6026,6 @@ ageable
 antilles
 agedly
 agedness
-agednesses
 alloantibody
 ageing
 ageings
@@ -12020,6 +12019,7 @@ anaphroditous
 anaplasia
 anaplasis
 alembics
+agednesses
 adducible
 anaplasma
 anaplasmoses
