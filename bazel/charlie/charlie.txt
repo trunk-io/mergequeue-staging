@@ -6952,7 +6952,6 @@ cenogenetic
 cenogenetically
 cenogonous
 cenomanian
-chemotropic
 cenospecies
 custodiam
 cenospecific
@@ -14482,6 +14481,7 @@ circumspheral
 circumstance
 circumstanced
 circumstances
+chemotropic
 craniata
 circumstancing
 circumstantiability
