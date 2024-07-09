@@ -2582,6 +2582,7 @@ bargainor
 bargains
 bargainwise
 barge
+bepaint
 bargeboard
 barged
 bargeer
@@ -6477,7 +6478,6 @@ benzpyrene
 borinqueno
 blacksmithing
 barbermonger
-bepaint
 bepainted
 befoulier
 bepaper
