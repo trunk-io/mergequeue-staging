@@ -1247,7 +1247,6 @@ electrothermostatic
 eelcatcher
 ennoblement
 eelfare
-eelfish
 expands
 eelgrass
 eely
@@ -2124,6 +2123,7 @@ elargement
 elasmobranch
 elasmobranchii
 elasmothere
+eelfish
 epigrammatist
 exstipulate
 elastance
