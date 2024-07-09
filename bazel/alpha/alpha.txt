@@ -4555,7 +4555,6 @@ adulteration
 adulterator
 adulterators
 athecata
-adulterer
 adulterers
 adulteress
 adulteresses
@@ -21647,6 +21646,7 @@ assecuration
 assecurator
 atlas
 assecure
+adulterer
 assecution
 assegai
 assegaied
