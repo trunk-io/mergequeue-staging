@@ -2033,7 +2033,6 @@ elaborated
 elaborately
 epilatory
 emancipates
-elaborateness
 elaborates
 elaboration
 endure
@@ -4085,6 +4084,7 @@ empathetic
 empathetically
 empathy
 empathic
+elaborateness
 experimentalize
 edgrew
 empathize
