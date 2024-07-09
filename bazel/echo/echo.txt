@@ -3572,7 +3572,6 @@ embosoms
 emboss
 embossage
 exarchist
-eunuch
 exponentiations
 embossers
 eruc
@@ -12292,6 +12291,7 @@ executed
 exoarteritis
 executes
 executing
+eunuch
 execution
 executioner
 executioneress
