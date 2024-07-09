@@ -4712,7 +4712,6 @@ girba
 gird
 girded
 girder
-girdering
 girders
 girding
 gamuts
@@ -6025,6 +6024,7 @@ glottises
 glottitis
 glottochronology
 gymnemic
+girdering
 glottochronological
 glottogony
 glottogonist
