@@ -9995,7 +9995,6 @@ esters
 eponymy
 excuses
 emplead
-elsehow
 estevin
 esth
 entoplastic
@@ -10396,6 +10395,7 @@ epithelial
 ethylic
 ethylidene
 ethylidyne
+elsehow
 ethylin
 ethylmorphine
 ethyls
