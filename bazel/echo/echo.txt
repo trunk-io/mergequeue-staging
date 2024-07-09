@@ -5293,6 +5293,7 @@ endoplast
 euconjugatae
 endoplastular
 endoplastule
+equiprobably
 endopleura
 endopleural
 endopleurite
@@ -8760,7 +8761,6 @@ equipped
 eloigners
 equipping
 equiprobable
-equiprobably
 equiproportional
 equiproportionality
 equips
