@@ -8823,7 +8823,6 @@ foetalism
 fourierist
 flawed
 fossoria
-fossulae
 fossulate
 fossule
 flowchart
@@ -11691,6 +11690,7 @@ futtah
 ferretto
 futter
 forerigging
+fossulae
 fono
 flaith
 fibrocellular

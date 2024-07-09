@@ -9607,7 +9607,6 @@ collies
 checkrack
 checkroll
 centgrave
-checkroom
 checkrooms
 cyanhydrate
 checkrope
@@ -14163,6 +14162,7 @@ caponette
 cypridina
 cypridinidae
 cypridinoid
+checkroom
 cyprina
 cyprine
 cyprinid
