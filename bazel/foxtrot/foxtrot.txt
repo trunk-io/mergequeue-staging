@@ -811,7 +811,6 @@ fangless
 fingerparted
 footwalk
 fanglet
-fanglike
 fanglomerate
 frizado
 fango
@@ -3262,6 +3261,7 @@ feases
 fluoborate
 falsity
 fielden
+fanglike
 fielders
 frohlich
 friability
