@@ -4602,6 +4602,7 @@ bowtell
 bedeafening
 bedeafens
 bedeck
+buddleia
 bedecked
 blintz
 bedecking
@@ -16687,7 +16688,6 @@ buddies
 buddle
 barramundas
 buddled
-buddleia
 buddler
 buddles
 buddling
