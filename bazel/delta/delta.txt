@@ -3329,7 +3329,6 @@ dissuasive
 defines
 definienda
 definiendum
-dippy
 definiens
 dolabre
 definientia
@@ -11677,6 +11676,7 @@ discos
 discost
 dep
 discostate
+dippy
 discostomatous
 discotheque
 deconsecrate
