@@ -4903,7 +4903,6 @@ beefs
 beefsteak
 briarroot
 beefsteaks
-beefwood
 beefwoods
 beegerite
 beehead
@@ -7633,6 +7632,7 @@ briggsian
 beclamors
 bewraps
 bathycurrent
+beefwood
 bewrapt
 bewrathed
 bewreath
