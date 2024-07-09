@@ -22024,7 +22024,6 @@ configurative
 configure
 configured
 configures
-configuring
 cymbate
 coxcombry
 confinable
@@ -29615,6 +29614,7 @@ crochet
 crocheted
 crocheter
 crocheters
+configuring
 crocheting
 croci
 crociary

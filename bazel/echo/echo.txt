@@ -2255,7 +2255,6 @@ electioneered
 electioneerer
 electioneering
 electioneers
-elections
 elective
 electives
 electivism
@@ -5094,6 +5093,7 @@ exodermis
 excitations
 endobatholithic
 everett
+elections
 endobiotic
 endoblast
 endoblastic
