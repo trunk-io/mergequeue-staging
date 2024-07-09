@@ -1502,6 +1502,7 @@ faulter
 fragmentization
 faultfind
 faultfinder
+flinted
 fissiparously
 fouquieriaceous
 faultfinders
@@ -5569,7 +5570,6 @@ flings
 flinkite
 fator
 flint
-flinted
 flinter
 forbreak
 flintier
