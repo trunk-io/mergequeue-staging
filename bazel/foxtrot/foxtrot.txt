@@ -4051,7 +4051,6 @@ fire
 fireback
 favourably
 fireball
-foothook
 fireballs
 flanky
 firebird
@@ -8323,6 +8322,7 @@ forloin
 frontosquamosal
 frayedness
 forlornest
+foothook
 forlornly
 fishbowls
 fishings
