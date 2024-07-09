@@ -799,7 +799,6 @@ galvanizers
 galvanizing
 galvanocautery
 galvanocauteries
-galvanocontractility
 gedder
 galvanoglyph
 gatekeeper
@@ -10026,6 +10025,7 @@ guenon
 geikia
 gueparde
 guanine
+galvanocontractility
 greenback
 gentility
 gobby
