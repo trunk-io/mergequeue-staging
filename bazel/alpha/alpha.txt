@@ -10272,7 +10272,6 @@ acetocinnamene
 aphanitism
 ambulatories
 ambulatorily
-ambulatorium
 ambulatoriums
 ambulia
 ambuling
@@ -24659,6 +24658,7 @@ averin
 averish
 averment
 apholate
+ambulatorium
 averments
 admove
 avern
