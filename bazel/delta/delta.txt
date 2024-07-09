@@ -3017,6 +3017,7 @@ delimitized
 deepfrozen
 deepgoing
 deeping
+depullulation
 deepish
 deeply
 down
@@ -13457,7 +13458,6 @@ disruptability
 disrupter
 deserve
 disrupting
-depullulation
 disruption
 disruptions
 disruptiveness
