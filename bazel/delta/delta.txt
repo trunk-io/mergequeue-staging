@@ -3413,6 +3413,7 @@ deflocculant
 debasement
 deflocculate
 deflocculating
+dimyary
 deflocculator
 deflocculent
 deflorate
@@ -9943,7 +9944,6 @@ dimetria
 dimetric
 dimetrodon
 dehkan
-dimyary
 dimyaria
 decemviri
 dimication
