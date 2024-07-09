@@ -2876,6 +2876,7 @@ feverlike
 feverous
 feverroot
 furmities
+foreran
 fevertrap
 frostbit
 frixion
@@ -7846,7 +7847,6 @@ forequarter
 forequarters
 fleet
 forerake
-foreran
 foreranks
 forereaching
 fellest
