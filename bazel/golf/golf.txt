@@ -814,7 +814,6 @@ gradations
 galvanomagnetic
 galvanometer
 guary
-galvanometrical
 galvanoplasty
 galvanoplastic
 galactophygous
@@ -6479,6 +6478,7 @@ gidyea
 girl
 gambone
 gesnerian
+galvanometrical
 gobans
 gobbe
 glycemic
