@@ -14581,6 +14581,7 @@ citrons
 cirri
 cirribranch
 cirriferous
+coacted
 cirriform
 cirrigerous
 cirrigrade
@@ -17111,7 +17112,6 @@ coachwood
 coachwright
 cytocyst
 coact
-coacted
 coaction
 coactive
 coactively
