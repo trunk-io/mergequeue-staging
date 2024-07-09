@@ -1187,7 +1187,6 @@ educability
 educable
 educand
 espathate
-eluviate
 ethologies
 educate
 educated
@@ -11643,6 +11642,7 @@ entomofauna
 enneatic
 eviscerates
 eviscerating
+eluviate
 evisite
 evitable
 evitation
