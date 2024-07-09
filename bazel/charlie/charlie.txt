@@ -19433,7 +19433,6 @@ cowhouse
 crabs
 coloptosis
 colopuncture
-coloquies
 coloquintid
 color
 colorability
@@ -28592,6 +28591,7 @@ creepered
 creeperless
 counterdesire
 creepers
+coloquies
 chicos
 creephole
 creepy
