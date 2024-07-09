@@ -2547,7 +2547,6 @@ gemmule
 graniferous
 gestening
 gemologies
-gemologist
 gemologists
 gemonies
 gemot
@@ -7940,6 +7939,7 @@ gladiate
 gallanted
 granddaughterly
 grandees
+gemologist
 girlishness
 grandeeship
 glycosidically
