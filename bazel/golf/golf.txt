@@ -922,7 +922,6 @@ gamekeeper
 gamekeepers
 gamekeeping
 gamelans
-gedecktwork
 gameless
 gathers
 gamely
@@ -4914,6 +4913,7 @@ gyte
 gravamen
 giterne
 gibsons
+gedecktwork
 gith
 gitksan
 geswarp
