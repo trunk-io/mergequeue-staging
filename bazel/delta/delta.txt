@@ -8543,6 +8543,7 @@ dollar
 dispender
 diaphyseal
 diaphyses
+datacell
 diacope
 defeasance
 dorsointercostal
@@ -16999,7 +17000,6 @@ drenchers
 disgustedly
 drenches
 dehumidification
-datacell
 drenching
 deboistness
 drenchingly
