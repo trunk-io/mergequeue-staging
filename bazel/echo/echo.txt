@@ -4306,6 +4306,7 @@ erythric
 emulator
 embattles
 enumeration
+equipartile
 eloped
 edificant
 emulatory
@@ -8717,7 +8718,6 @@ ethrogs
 equip
 equipaga
 equipage
-equipartile
 equipartisan
 equipartition
 equipede
