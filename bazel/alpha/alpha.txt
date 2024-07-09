@@ -8212,7 +8212,6 @@ alginic
 algins
 airsheet
 alginuresis
-algiomuscular
 algist
 algivorous
 aeschynite
@@ -13919,6 +13918,7 @@ amphicyonidae
 anomite
 anomodont
 anomodontia
+algiomuscular
 aphesis
 autacoid
 anomoean
