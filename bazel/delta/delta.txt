@@ -8939,7 +8939,6 @@ dichotomies
 dichotomise
 dichotomising
 dimethoxymethane
-dichotomistic
 dichotomization
 dichotomize
 dichotomized
@@ -14329,6 +14328,7 @@ dive
 discussable
 divebomb
 dedicatee
+dichotomistic
 dived
 divekeeper
 divel
