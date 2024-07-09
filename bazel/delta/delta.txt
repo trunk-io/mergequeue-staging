@@ -5512,6 +5512,7 @@ disulfids
 deoxidise
 djellab
 deoxidised
+duotriacontane
 deoxidiser
 deoxidize
 deoxidizer
@@ -18341,7 +18342,6 @@ duotype
 duotoned
 diagnostical
 duke
-duotriacontane
 duotriode
 duoviri
 dupability
