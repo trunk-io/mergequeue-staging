@@ -3815,7 +3815,6 @@ emend
 emendandum
 ekerite
 eucaryotic
-escutcheon
 electropism
 emendates
 enterocystoma
@@ -12283,6 +12282,7 @@ elapse
 epihippus
 execratively
 enterochlorophyll
+escutcheon
 execrators
 exect
 executant
