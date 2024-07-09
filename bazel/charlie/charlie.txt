@@ -18124,7 +18124,6 @@ coenenchymal
 coenenchymata
 coenenchymatous
 compesce
-coenenchyme
 coenesthesia
 coenesthesis
 coenflame
@@ -31208,6 +31207,7 @@ curat
 curate
 curatel
 curates
+coenenchyme
 curateship
 curatess
 curatic
