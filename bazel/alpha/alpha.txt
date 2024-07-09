@@ -646,7 +646,6 @@ abnormalness
 abnormals
 abnormity
 abnormous
-abnumerable
 abo
 aboard
 aboardage
@@ -5588,6 +5587,7 @@ aflaunt
 afley
 anhydrosis
 aflow
+abnumerable
 afluking
 aflutter
 auscultations
