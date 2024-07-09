@@ -2599,7 +2599,6 @@ forewaters
 failings
 forgeful
 featherlike
-flabellinerved
 fertilizers
 feru
 ferula
@@ -6455,6 +6454,7 @@ fico
 fluoroscopy
 feasant
 focuser
+flabellinerved
 fluoroscopic
 fluoroscopies
 fluoroscoping
