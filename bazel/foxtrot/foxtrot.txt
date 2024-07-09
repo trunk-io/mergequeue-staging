@@ -8319,7 +8319,6 @@ forlet
 frosts
 fissionable
 forlive
-forloin
 frontosquamosal
 frayedness
 forlornest
@@ -9902,6 +9901,7 @@ fry
 fougade
 friable
 friand
+forloin
 freighting
 flagship
 francophobia
