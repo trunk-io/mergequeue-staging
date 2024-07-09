@@ -3026,7 +3026,6 @@ geochronometric
 geocyclic
 goal
 geocline
-goldwork
 geococcyx
 gesnera
 galvanical
@@ -9945,6 +9944,7 @@ guardsman
 guarea
 guarico
 garancine
+goldwork
 guarish
 guarneri
 goldenest
