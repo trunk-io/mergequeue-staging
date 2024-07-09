@@ -13745,7 +13745,6 @@ boweled
 boweling
 bowelled
 bowelless
-bowellike
 bowelling
 bowels
 berms
@@ -15070,6 +15069,7 @@ bobcoat
 brewhouse
 brewhouses
 benedictionale
+bowellike
 brewing
 brewings
 brewis
