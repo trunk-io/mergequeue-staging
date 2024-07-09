@@ -2660,7 +2660,6 @@ brigadier
 baryte
 baritenor
 barites
-barytes
 barythymia
 barytic
 barytine
@@ -16165,6 +16164,7 @@ birthstone
 brownian
 bioclean
 beggiatoa
+barytes
 browniest
 browniness
 browning
