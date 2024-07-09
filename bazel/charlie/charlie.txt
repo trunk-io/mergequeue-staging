@@ -25910,7 +25910,6 @@ corsets
 corsican
 circumscribes
 corsie
-corsite
 corslet
 corslets
 corsned
@@ -31573,6 +31572,7 @@ curval
 crevasses
 curvant
 curvate
+corsite
 curvated
 curvation
 curvative

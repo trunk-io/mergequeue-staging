@@ -9402,6 +9402,7 @@ difficulty
 difficulties
 difficultly
 difficultness
+disconnectedly
 diffide
 diffided
 diffidence
@@ -11590,7 +11591,6 @@ discongruity
 disconjure
 disconnect
 disconnected
-disconnectedly
 disconnectedness
 disconnecter
 disconnecting
