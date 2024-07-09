@@ -2484,7 +2484,6 @@ acidoid
 acidolysis
 acidology
 acidometry
-acidophil
 acidophile
 acidophilic
 affiant
@@ -19973,6 +19972,7 @@ armied
 abradant
 armies
 adminiculary
+acidophil
 armiferous
 avidins
 armiger
