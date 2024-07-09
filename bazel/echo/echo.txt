@@ -4815,6 +4815,7 @@ encoded
 electrolyser
 encodings
 encoffin
+essene
 exuviation
 encolden
 encollar
@@ -9873,7 +9874,6 @@ explodes
 essenced
 essencing
 extubate
-essene
 essenian
 essenic
 essenical
