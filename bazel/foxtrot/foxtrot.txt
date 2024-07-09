@@ -4827,7 +4827,6 @@ flameouts
 fackeltanz
 flameproof
 formolite
-finaglers
 flameproofer
 flamer
 flames
@@ -5566,6 +5565,7 @@ flindosa
 flinger
 furole
 flingers
+finaglers
 featherworker
 fets
 flings
