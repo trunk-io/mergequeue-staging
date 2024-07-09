@@ -6318,6 +6318,7 @@ dynamoscope
 dermestidae
 dermestoid
 dermic
+drapery
 dermises
 demurs
 disimmure
@@ -17600,7 +17601,6 @@ dispersively
 drumlin
 drumline
 drumlinoid
-drapery
 drumlins
 demiglobe
 drumloid
