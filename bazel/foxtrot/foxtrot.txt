@@ -7688,7 +7688,6 @@ frontignac
 floodlights
 foreigneering
 frontispiece
-foreigner
 forgivers
 foetor
 forspeaking
@@ -10754,6 +10753,7 @@ fdnames
 fs
 ft
 flirty
+foreigner
 fthm
 forwardation
 ftncmd

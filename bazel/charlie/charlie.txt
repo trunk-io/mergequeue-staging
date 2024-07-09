@@ -3317,6 +3317,7 @@ caps
 capsa
 capsaicin
 capsella
+chivarras
 catnapper
 capshore
 capsian
@@ -11191,7 +11192,6 @@ caproin
 chivariing
 chivaris
 chivarra
-chivarras
 chivarro
 chive
 chivey
