@@ -6817,6 +6817,7 @@ aiglets
 aiglette
 aigre
 aigremore
+affectivity
 arteriometer
 aigret
 aigrets
@@ -15759,7 +15760,6 @@ antinatural
 antinaturalism
 antinaturalistic
 antinaturally
-affectivity
 amulets
 acropolis
 amebas
