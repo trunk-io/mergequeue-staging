@@ -1082,7 +1082,6 @@ bailieship
 bailiff
 bailiffs
 bailiffship
-bailiffwick
 baylike
 bailing
 bailiwick
@@ -2365,6 +2364,7 @@ bullyrags
 barbe
 barbeau
 bogbean
+bailiffwick
 barbecue
 barbecued
 bellyfull
