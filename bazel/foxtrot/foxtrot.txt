@@ -3432,6 +3432,7 @@ freightless
 ferrocyanic
 freeways
 feasten
+frogtongue
 fil
 filace
 feedlot
@@ -10300,7 +10301,6 @@ frogskin
 frogskins
 frogspawn
 forsloth
-frogtongue
 floccosely
 frogwort
 fooldom
