@@ -5827,7 +5827,6 @@ geometrise
 gelose
 glomerulus
 glommed
-glommox
 gasconaded
 guidon
 glucaemia
@@ -10506,6 +10505,7 @@ gunk
 gluttonousness
 gunkholing
 grandiosely
+glommox
 gunks
 geraty
 gunlaying

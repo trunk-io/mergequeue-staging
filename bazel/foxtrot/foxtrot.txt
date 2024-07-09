@@ -3113,6 +3113,7 @@ ficoes
 ficoid
 ficoidaceae
 fontainea
+franchisers
 ficoidal
 fulfillers
 ficoides
@@ -9309,7 +9310,6 @@ foeti
 ferfel
 franchisee
 franchisees
-franchisers
 fireworms
 francia
 francic
