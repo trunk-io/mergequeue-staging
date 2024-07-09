@@ -643,7 +643,6 @@ abnormalizing
 abnormally
 abnormalness
 abnormals
-abnormity
 abnormous
 abo
 aboard
@@ -5689,6 +5688,7 @@ aftercure
 afterdays
 absinthiated
 arightly
+abnormity
 acrorrheuma
 afterdamp
 afterdate
