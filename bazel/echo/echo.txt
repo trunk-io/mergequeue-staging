@@ -6475,7 +6475,6 @@ enstranged
 enstrengthen
 ensuable
 ensuance
-ensuant
 ebcdic
 ensues
 ensuing
@@ -7126,6 +7125,7 @@ enumerative
 enumerator
 enumerators
 enunciability
+ensuant
 enunciable
 enunciated
 endochondral
