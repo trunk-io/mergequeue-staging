@@ -6358,7 +6358,6 @@ benzylamine
 benzilic
 benzylidene
 benzylpenicillin
-benzyls
 benziminazole
 benzin
 benzinduline
@@ -17860,6 +17859,7 @@ burrock
 burros
 bayoneting
 burroughs
+benzyls
 burrow
 burrowed
 burroweed
