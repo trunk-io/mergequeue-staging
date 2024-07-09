@@ -7010,7 +7010,6 @@ franks
 fons
 fidgetiness
 flatwise
-feetfirst
 fontal
 fontanel
 flapdock
@@ -10944,6 +10943,7 @@ flavous
 fulmined
 forking
 fulminic
+feetfirst
 fulmining
 fulmines
 fluffier
