@@ -15135,7 +15135,6 @@ crudeness
 counterprotection
 civet
 civetlike
-civetone
 civets
 civy
 claves
@@ -19862,6 +19861,7 @@ comely
 comelier
 comeliest
 comelily
+civetone
 comeliness
 candroy
 comeling
