@@ -3196,7 +3196,6 @@ defects
 defectum
 defedation
 defeise
-defeit
 defeminise
 defeminization
 defeminize
@@ -7030,6 +7029,7 @@ destination
 destinations
 destine
 demagnetizer
+defeit
 desoxyribonucleic
 decussately
 drawgear
