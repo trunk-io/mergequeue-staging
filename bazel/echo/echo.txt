@@ -8815,7 +8815,6 @@ euosmite
 equivalvular
 equivelocity
 equivocacy
-equivocal
 ensconced
 equivocally
 equivocalness
@@ -11202,6 +11201,7 @@ eurocentric
 encaustic
 euroclydon
 embar
+equivocal
 equiradical
 engorgement
 embark
