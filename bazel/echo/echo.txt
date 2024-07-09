@@ -7143,7 +7143,6 @@ enures
 enureses
 enuresis
 enuresises
-equiform
 enurny
 env
 envaye
@@ -12955,6 +12954,7 @@ expected
 expectedly
 expectedness
 expecter
+equiform
 endowed
 expecters
 expecting
