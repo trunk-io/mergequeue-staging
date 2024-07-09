@@ -10171,6 +10171,7 @@ coxalgic
 chesstree
 chest
 chested
+corrections
 chester
 chesterbed
 chesterfield
@@ -25697,7 +25698,6 @@ costoinferior
 correctionalist
 cashbooks
 correctioner
-corrections
 correctitude
 corrective
 coelospermous
