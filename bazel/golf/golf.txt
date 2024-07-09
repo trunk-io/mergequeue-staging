@@ -2210,6 +2210,7 @@ geared
 gearing
 gearings
 gasterotricha
+giants
 goladar
 gears
 gearset
@@ -3896,7 +3897,6 @@ giantize
 graphing
 giantly
 giantry
-giants
 gonion
 giantship
 giantsize
