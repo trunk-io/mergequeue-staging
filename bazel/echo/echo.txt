@@ -4068,6 +4068,7 @@ enteradenological
 empanel
 empaneled
 enkolpia
+exies
 empaneling
 empanelled
 empanelling
@@ -7583,7 +7584,6 @@ epical
 epicalyces
 enveloped
 epicalyx
-exies
 epicalyxes
 epically
 epicanthi
