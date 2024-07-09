@@ -8099,7 +8099,6 @@ forevouch
 futureness
 forevouched
 forevow
-foreward
 fiddlededee
 ferreiro
 forewarm
@@ -11558,6 +11557,7 @@ fuses
 foxing
 fusetron
 fusht
+foreward
 fusibility
 footlight
 forebodings
