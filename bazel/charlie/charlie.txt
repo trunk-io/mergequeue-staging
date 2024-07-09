@@ -2993,7 +2993,6 @@ caparisoning
 caparisons
 capataz
 capax
-capcase
 cape
 cunas
 caped
@@ -14676,6 +14675,7 @@ cystectomies
 cisted
 cysted
 cysteine
+capcase
 colipyuria
 cysteines
 cucuyo
