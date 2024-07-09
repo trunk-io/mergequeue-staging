@@ -5285,7 +5285,6 @@ dentality
 dentalium
 dentaliums
 dauber
-dentalization
 dentalize
 decimetres
 detinues
@@ -13882,6 +13881,7 @@ disembowelments
 distillmint
 distilment
 daliance
+dentalization
 descript
 dropwort
 dypnone
