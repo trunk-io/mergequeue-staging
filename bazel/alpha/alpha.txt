@@ -4823,7 +4823,6 @@ aedeagi
 aedeagus
 aedes
 aedicula
-aediculae
 aedicule
 aedile
 aediles
@@ -5168,6 +5167,7 @@ aeroplane
 aeroplanes
 aeroplanist
 aeroplankton
+aediculae
 aeropleustic
 aeroporotomy
 aeropulse
