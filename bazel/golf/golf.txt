@@ -2760,7 +2760,6 @@ gastrostenosis
 grunzie
 guyed
 grandiose
-geniculation
 genies
 genii
 genin
@@ -10492,6 +10491,7 @@ gunebo
 gunfighting
 gunfire
 gunfires
+geniculation
 gunflint
 gunfought
 gung
