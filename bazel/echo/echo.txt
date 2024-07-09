@@ -10409,6 +10409,7 @@ ensheathing
 epicondylian
 ethynes
 ethinyl
+extraperitoneal
 ethynyl
 ethynylation
 ethinyls
@@ -13919,7 +13920,6 @@ extraperineal
 extraperiodic
 embryologic
 extraperiosteal
-extraperitoneal
 extraphysical
 extrapituitary
 extraplacental
