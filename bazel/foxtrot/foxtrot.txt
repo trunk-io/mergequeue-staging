@@ -2614,6 +2614,7 @@ ferula
 ferulae
 feticide
 fuchsite
+foamy
 ferular
 ferulas
 ferule
@@ -6621,7 +6622,6 @@ foamed
 foamer
 foamflower
 flavescence
-foamy
 foamier
 foaminess
 foamingly
