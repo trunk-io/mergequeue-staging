@@ -973,7 +973,6 @@ absentmindedly
 absentmindedness
 assonantly
 absentness
-absents
 absfarad
 abshenry
 absi
@@ -12392,6 +12391,7 @@ ancones
 anconeus
 ancony
 anconoid
+absents
 accessary
 ancor
 ancora
