@@ -6290,7 +6290,6 @@ fluidize
 fluidized
 followup
 flotations
-fluidizes
 fileted
 fluidmeter
 familiary
@@ -8883,6 +8882,7 @@ foulings
 fname
 foulish
 foully
+fluidizes
 foulmart
 foulmouthedness
 foulness
