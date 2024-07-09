@@ -7087,7 +7087,6 @@ footages
 footback
 football
 footballist
-footballs
 footboard
 feeders
 footboards
@@ -8360,6 +8359,7 @@ fibers
 formants
 format
 firedogs
+footballs
 foresey
 formates
 formations
