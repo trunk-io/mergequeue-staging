@@ -1406,7 +1406,6 @@ gargled
 gargler
 groinery
 gravemaker
-gargoyle
 glycide
 gargoyley
 gobs
@@ -8264,6 +8263,7 @@ grapsidae
 grapsoid
 grapsus
 gorgeable
+gargoyle
 glutimate
 grapta
 gasthaus
