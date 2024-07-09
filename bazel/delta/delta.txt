@@ -602,7 +602,6 @@ dimethylamine
 defibrillator
 damenization
 damewort
-dameworts
 damfool
 damfoolish
 damgalnunna
@@ -3486,6 +3485,7 @@ depeople
 doodads
 disinteress
 destroyingly
+dameworts
 deformism
 deformities
 deforms
