@@ -4600,7 +4600,6 @@ encephalomyelitis
 escapements
 entrepreneurial
 encephalomyocarditis
-encephalopathy
 encephalopathia
 encephalopathic
 endive
@@ -4948,6 +4947,7 @@ endamaging
 endamask
 endamebas
 esurine
+encephalopathy
 englerophoenix
 euglobulin
 endamebiasis
