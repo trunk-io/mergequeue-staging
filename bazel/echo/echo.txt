@@ -2380,7 +2380,6 @@ extraprofessional
 electrode
 exhaustively
 electrodeposit
-electrodepositable
 electrodeposition
 electrodepositor
 electrodes
@@ -11358,6 +11357,7 @@ evangelically
 exploder
 evangelicals
 evangelican
+electrodepositable
 evangelicism
 exorbitantly
 extramoralist

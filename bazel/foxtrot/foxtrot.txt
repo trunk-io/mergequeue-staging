@@ -833,7 +833,6 @@ fanjet
 fanjets
 fanleaf
 fanlight
-fringes
 fulminous
 foreseize
 fanlights
@@ -10417,6 +10416,7 @@ feazes
 frontotemporal
 frontozygomatic
 forte
+fringes
 frictionally
 fcy
 fronts
