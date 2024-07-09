@@ -798,7 +798,6 @@ dungeon
 daneweeds
 danewort
 daneworts
-disembowels
 danged
 danger
 diff
@@ -6123,6 +6122,7 @@ davyne
 dereign
 dereism
 dereistically
+disembowels
 derek
 derelict
 dereliction
