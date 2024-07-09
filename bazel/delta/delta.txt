@@ -6866,7 +6866,6 @@ desoxybenzoin
 desoxycinchonine
 duendes
 dhoolies
-desoxycorticosterone
 desoxyribonuclease
 desoxyribonucleoprotein
 desoxyribose
@@ -15697,6 +15696,7 @@ dehydrogeniser
 doppio
 doppler
 dehumidifying
+desoxycorticosterone
 dopplerite
 dor
 dooley
