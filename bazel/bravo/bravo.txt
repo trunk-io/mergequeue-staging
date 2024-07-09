@@ -14885,7 +14885,6 @@ breath
 boatside
 battutas
 breathability
-breathableness
 bitterer
 breatheableness
 breathed
@@ -17299,6 +17298,7 @@ brachistochronic
 bumpiness
 bumping
 bumpingly
+breathableness
 bumpity
 bumpkin
 bumpkinet
