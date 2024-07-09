@@ -5352,7 +5352,6 @@ behaviourally
 behaviourism
 behead
 beheadal
-beheaded
 beheading
 beheads
 behear
@@ -8057,6 +8056,7 @@ bicolorous
 bicolors
 bicolour
 bicolours
+beheaded
 bicompact
 biconcave
 biconcavity
