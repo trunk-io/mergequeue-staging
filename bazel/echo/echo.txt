@@ -2098,7 +2098,6 @@ elaphodus
 elaphomyces
 elaphomycetaceae
 elaphrium
-elaphure
 encrinoidea
 echinorhynchus
 elaphurine
@@ -7585,6 +7584,7 @@ epiboulangerite
 epibranchial
 epical
 epicalyces
+elaphure
 enveloped
 epicalyx
 epicalyxes

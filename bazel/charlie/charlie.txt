@@ -1815,7 +1815,6 @@ cataractous
 cameleon
 camelhair
 camelia
-camelias
 countermeet
 camelid
 camelidae
@@ -7624,6 +7623,7 @@ cerebrasthenia
 competitioner
 cerebrasthenic
 cerebrate
+camelias
 cerebrated
 cerebrates
 cerebration
