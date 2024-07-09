@@ -4193,6 +4193,7 @@ cargador
 cargadores
 cargason
 cargo
+colewort
 cargoes
 cargoose
 cargos
@@ -12823,7 +12824,6 @@ chugged
 chughole
 chugs
 chuje
-colewort
 chukar
 chukka
 chukkar
