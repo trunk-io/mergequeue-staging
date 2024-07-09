@@ -9572,7 +9572,6 @@ alterers
 altering
 acupunctuate
 alterity
-alterius
 alterman
 alternacy
 alternance
@@ -13178,6 +13177,7 @@ anhelous
 anhemitonic
 alveolars
 anhemolytic
+alterius
 anhyd
 anhydraemia
 anhydraemic
