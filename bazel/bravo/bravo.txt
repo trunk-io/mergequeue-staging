@@ -2824,7 +2824,6 @@ barometry
 barometric
 barometrical
 barometrically
-beelzebub
 baromotor
 baronage
 bespangled
@@ -10935,6 +10934,7 @@ blithehearted
 blithelike
 blithemeat
 blitheness
+beelzebub
 blither
 blithered
 blithering
