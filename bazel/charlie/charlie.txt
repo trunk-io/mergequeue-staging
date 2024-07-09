@@ -8855,7 +8855,6 @@ chapes
 chapfallen
 chapfallenly
 chapin
-chapiter
 chapiters
 chapitle
 chaplain
@@ -11383,6 +11382,7 @@ calumnies
 chloroformed
 chloroformic
 chloroforming
+chapiter
 chloroformism
 chloroformist
 chloroformization
