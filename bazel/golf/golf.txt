@@ -3235,6 +3235,7 @@ gliomata
 gerberas
 grainage
 geopolitist
+gyros
 gasalier
 geopony
 ganzie
@@ -4855,7 +4856,6 @@ gyroplane
 gastropneumatic
 gazers
 giros
-gyros
 gyroscope
 gyroscopes
 gyroscopic
