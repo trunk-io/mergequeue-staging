@@ -15869,7 +15869,6 @@ clawless
 clawlike
 claws
 claxon
-claxons
 cleach
 cibarial
 clead
@@ -21521,6 +21520,7 @@ consolidant
 chwas
 concordantial
 cankerworm
+claxons
 concordantly
 concordat
 concordatory
