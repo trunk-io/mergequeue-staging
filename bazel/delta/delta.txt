@@ -1269,6 +1269,7 @@ datum
 dardanarius
 daturic
 dyophysitic
+detruss
 dispetal
 daub
 daubed
@@ -10136,7 +10137,6 @@ dineros
 diparentum
 diners
 definiteness
-detruss
 dines
 dynes
 disinherison
