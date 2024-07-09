@@ -2345,7 +2345,6 @@ gallivanter
 gel
 gossans
 gelada
-gliffing
 geladas
 gelandelaufer
 goldurns
@@ -9922,6 +9921,7 @@ gamboller
 guarder
 guardhouse
 guardhouses
+gliffing
 gastrotricha
 gasconism
 guardians
