@@ -8113,7 +8113,6 @@ forewarn
 floit
 fibroblast
 florence
-forewarner
 forewarning
 forewarningly
 forewarns
@@ -10425,6 +10424,7 @@ frontotemporal
 frontozygomatic
 forte
 fringes
+forewarner
 frictionally
 fcy
 fronts
