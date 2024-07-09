@@ -4124,7 +4124,6 @@ firehouses
 flemishing
 fireless
 frenchism
-firelight
 forfar
 firelit
 firelock
@@ -10606,6 +10605,7 @@ flatnesses
 frugally
 fourre
 frugalness
+firelight
 fruggan
 frugged
 frugging
