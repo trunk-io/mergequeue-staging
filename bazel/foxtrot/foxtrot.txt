@@ -4139,7 +4139,6 @@ fireplaces
 facultied
 forfaulture
 fireplow
-fleeceable
 fireplug
 faradizer
 fireproofed
@@ -6037,6 +6036,7 @@ florula
 florulae
 flinder
 floscular
+fleeceable
 fitchered
 floscularia
 floscularian
