@@ -1921,7 +1921,6 @@ britishers
 banded
 bandel
 bandelet
-bandelette
 bowlful
 beanies
 bander
@@ -13399,6 +13398,7 @@ bottlebird
 bottled
 bottleful
 baggara
+bandelette
 bottlefuls
 bottleholder
 bottlelike
