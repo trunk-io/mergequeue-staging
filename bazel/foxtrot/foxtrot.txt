@@ -3045,6 +3045,7 @@ flock
 flashbacks
 fibromyxosarcoma
 focalized
+fistulose
 fleerer
 fightable
 foveolet
@@ -4458,7 +4459,6 @@ frugality
 fistule
 fistulina
 fistulized
-fistulose
 ferryway
 fitch
 fessed
