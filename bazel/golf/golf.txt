@@ -4815,7 +4815,6 @@ golliwogg
 gyrodactylidae
 gyrodactylus
 gastrocoele
-gyrofrequency
 gyrogonite
 graffias
 gyrograph
@@ -7104,6 +7103,7 @@ gools
 gooma
 guavaberry
 goombay
+gyrofrequency
 goon
 goonch
 gardant
