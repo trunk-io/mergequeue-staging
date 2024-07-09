@@ -2259,7 +2259,6 @@ decentration
 deviascope
 drogh
 decentres
-decentring
 decephalization
 decephalize
 deceptibility
@@ -8375,6 +8374,7 @@ dialling
 diallings
 diallists
 dialoger
+decentring
 dialogers
 dialogged
 devitalised
