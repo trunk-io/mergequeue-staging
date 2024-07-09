@@ -5323,7 +5323,6 @@ begunk
 begut
 behale
 behallow
-behalves
 behang
 behatted
 besauce
@@ -15791,6 +15790,7 @@ brasque
 bromes
 bromethyl
 bromethylene
+behalves
 batcher
 bromhydrate
 bilayer
