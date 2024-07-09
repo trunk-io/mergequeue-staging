@@ -1322,7 +1322,6 @@ fatales
 felonous
 factorist
 flustrated
-flotsen
 fatalist
 fatalistically
 fatalists
@@ -4249,6 +4248,7 @@ firsthand
 filii
 firstly
 fust
+flotsen
 firstling
 firstlings
 fossick
