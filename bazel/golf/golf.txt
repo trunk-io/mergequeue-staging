@@ -4062,7 +4062,6 @@ graplin
 gigatons
 gigavolt
 gigawatt
-genetor
 gigawatts
 gigeria
 gyges
@@ -5572,6 +5571,7 @@ glimmerings
 glossematics
 gutt
 glimmers
+genetor
 gallies
 glimpsed
 glimpsers
