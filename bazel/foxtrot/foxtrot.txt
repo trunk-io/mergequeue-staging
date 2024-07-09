@@ -4062,6 +4062,7 @@ ferroalloy
 funky
 flimsiness
 firebombing
+fabricating
 firebombs
 firebote
 frogflower
@@ -4395,7 +4396,6 @@ fissiped
 fissipeda
 fissipedate
 frump
-fabricating
 fissipedia
 flyted
 fissipedial
