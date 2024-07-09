@@ -1120,7 +1120,6 @@ ganglier
 gleemen
 guayule
 gorlois
-ganglioblast
 goblet
 gangliocyte
 galavant
@@ -6486,6 +6485,7 @@ gesnerian
 gobans
 gobbe
 glycemic
+ganglioblast
 gobbed
 geisha
 gobbet
