@@ -1843,6 +1843,7 @@ gastroparietal
 gaunch
 glob
 gastropathy
+glycerols
 gastropathic
 gastroperiodynia
 groundskeep
@@ -6361,7 +6362,6 @@ gallstones
 gnome
 gnomes
 gnomesque
-glycerols
 gnomic
 gnomical
 greyhound

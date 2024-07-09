@@ -7385,6 +7385,7 @@ alamannic
 alambique
 alameda
 alamedas
+archaisms
 alamiqui
 alamire
 armpiece
@@ -18730,7 +18731,6 @@ archaiser
 archaises
 archaising
 anteposition
-archaisms
 archaist
 acanthomas
 archaistic
