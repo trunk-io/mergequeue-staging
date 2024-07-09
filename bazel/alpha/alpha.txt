@@ -759,7 +759,6 @@ atule
 abortogenic
 aborts
 abortus
-abos
 aboudikro
 abought
 acettoluide
@@ -22304,6 +22303,7 @@ astrography
 antependiums
 astrohatch
 astroid
+abos
 astroite
 arseno
 astrol
