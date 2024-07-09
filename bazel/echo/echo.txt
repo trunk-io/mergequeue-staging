@@ -5652,6 +5652,7 @@ enfoul
 extolls
 enfoulder
 enfrai
+esthesiogen
 enframed
 enframement
 enframes
@@ -10003,7 +10004,6 @@ esthesia
 elastics
 esthacyte
 edituate
-esthesiogen
 esthesiogeny
 esthesiogenic
 esthesiography

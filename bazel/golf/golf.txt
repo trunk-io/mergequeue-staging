@@ -6015,7 +6015,6 @@ gestures
 gomphocarpus
 geography
 glottid
-gynerium
 glottises
 glottitis
 glottochronology
@@ -6175,6 +6174,7 @@ gluishness
 gaincope
 galvanomagnetism
 glumaceous
+gynerium
 glumales
 geniolatry
 glumes
