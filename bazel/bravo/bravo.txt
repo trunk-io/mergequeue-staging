@@ -7498,7 +7498,6 @@ beveled
 beveler
 bevelers
 blastophore
-bkpt
 bevelling
 bevelment
 bevenom
@@ -11745,6 +11744,7 @@ beewort
 batboys
 bockey
 bockeret
+bkpt
 backwrap
 bocking
 bocks
