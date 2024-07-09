@@ -9990,6 +9990,7 @@ contractors
 cambrel
 chemospheric
 chemostat
+chilopodan
 chemosterilant
 chemosterilants
 chemosurgery
@@ -10662,7 +10663,6 @@ chylophyllous
 chylophyllously
 chiloplasty
 chilopoda
-chilopodan
 chilopodous
 calodemon
 chylopoetic
