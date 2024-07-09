@@ -3918,7 +3918,6 @@ bchs
 bd
 bdellatomy
 bdellid
-bdellidae
 bdellium
 bigram
 berylloid
@@ -9078,6 +9077,7 @@ biophagy
 biophagism
 biophagous
 begartered
+bdellidae
 biophilous
 ballutes
 biophysic
