@@ -2014,6 +2014,7 @@ decalvation
 decamp
 demitone
 decamped
+dialyzability
 decamping
 decampment
 decan
@@ -8347,7 +8348,6 @@ dialists
 diapasm
 dialytic
 directories
-dialyzability
 dossels
 dacryops
 delimitating
