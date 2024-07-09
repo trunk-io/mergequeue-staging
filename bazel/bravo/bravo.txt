@@ -717,7 +717,6 @@ bacterioscopy
 bristliest
 burglariously
 bacterioscopic
-bacterioscopical
 bacterioscopist
 bacteriosis
 bacteriosolvent
@@ -16591,6 +16590,7 @@ beneficence
 buckets
 basilisk
 bephrase
+bacterioscopical
 bucketsful
 bucketshop
 buckhounds
