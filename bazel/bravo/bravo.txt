@@ -3775,7 +3775,6 @@ bronchiectasis
 battology
 battological
 battologise
-battologised
 battologising
 battologize
 battologized
@@ -7373,6 +7372,7 @@ betides
 bespottedness
 backbiter
 betiding
+battologised
 balate
 betimber
 bullwhip
