@@ -6456,7 +6456,6 @@ agonostomus
 agonothet
 agonothete
 agonothetic
-agons
 agora
 agoramania
 appunctuation
@@ -17645,6 +17644,7 @@ appear
 ambidextrousness
 appearances
 appeared
+agons
 appearers
 appearing
 appeasable
