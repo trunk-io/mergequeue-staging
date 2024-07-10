@@ -6955,7 +6955,6 @@ airbusses
 aircheck
 airchecks
 aircraftman
-aircrafts
 amenta
 aircraftsman
 assessee
@@ -13386,6 +13385,7 @@ anisette
 anisettes
 anisic
 anisidin
+aircrafts
 anisidine
 anisidino
 antrum
