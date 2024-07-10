@@ -7007,7 +7007,6 @@ centauress
 centauri
 centauric
 centaurid
-centauridium
 centauries
 centaurium
 cnidophore
@@ -13262,6 +13261,7 @@ cicero
 ciceronage
 cicerone
 cicerones
+centauridium
 ciceroni
 ciceronian
 ciceronianism
