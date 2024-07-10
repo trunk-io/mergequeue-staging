@@ -273,7 +273,6 @@ fados
 feere
 fadridden
 fiasco
-fads
 fae
 federation
 faeces
@@ -11746,6 +11745,7 @@ fuzzing
 fuzztail
 fw
 frosteds
+fads
 fwelling
 fritterer
 fish
