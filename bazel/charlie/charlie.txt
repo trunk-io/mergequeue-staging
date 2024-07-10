@@ -1126,7 +1126,6 @@ calculational
 calculations
 calculator
 calculatory
-calculators
 calculer
 calculi
 calculiform
@@ -4150,6 +4149,7 @@ carefully
 carefulness
 carey
 careys
+calculators
 careless
 carelessly
 carelessness
