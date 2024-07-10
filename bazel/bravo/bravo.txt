@@ -1195,7 +1195,6 @@ bajury
 baka
 bakairi
 bonytail
-bakalai
 bakalei
 bombyx
 bakeboard
@@ -1748,6 +1747,7 @@ balotade
 balow
 balr
 bals
+bakalai
 barrator
 batching
 brachycephalism
