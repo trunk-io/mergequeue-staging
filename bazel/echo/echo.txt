@@ -3841,7 +3841,6 @@ emerge
 escalatory
 epitheliomatous
 emergence
-epicycle
 emergencies
 eriocomi
 emergers
@@ -5122,6 +5121,7 @@ etacist
 eppie
 entities
 endocellular
+epicycle
 exposition
 enshrine
 endoceras
