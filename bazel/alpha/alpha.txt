@@ -1587,7 +1587,6 @@ accidentally
 accidentalness
 accidentals
 accidentary
-accidentarily
 anonymous
 accidented
 accidential
@@ -15916,6 +15915,7 @@ anaspida
 alchitran
 antiperistasis
 antiperistatic
+accidentarily
 antiperistatical
 angelique
 antipersonnel
