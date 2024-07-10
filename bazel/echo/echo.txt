@@ -2916,7 +2916,6 @@ eliding
 elydoric
 elegiacally
 eligenda
-eligibility
 eligibilities
 eligible
 eligibleness
@@ -8151,6 +8150,7 @@ epirrheme
 episarcine
 episporangium
 episarkine
+eligibility
 episclera
 extinguishing
 euchre
