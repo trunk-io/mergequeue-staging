@@ -15022,6 +15022,7 @@ chalcophanite
 cytopenia
 cytophaga
 cytophagy
+cuspis
 cytophagic
 cytophagous
 cytopharynges
@@ -31684,7 +31685,6 @@ cuspidor
 cuspidors
 cuspids
 cusping
-cuspis
 counterindoctrination
 cusps
 cuspule
