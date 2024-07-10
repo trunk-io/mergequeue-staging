@@ -886,6 +886,7 @@ ectogenetic
 ectogenic
 ectoglia
 empedoclean
+endoabdominal
 ectognatha
 entempest
 ectolecithal
@@ -4334,7 +4335,6 @@ exterminable
 emulsoidal
 exsuccous
 emulsoids
-endoabdominal
 emunct
 emunctories
 emundation
