@@ -11471,6 +11471,7 @@ evensong
 evensongs
 expiation
 eventail
+examinee
 eventful
 excursioner
 eventfulness
@@ -11827,7 +11828,6 @@ examinatory
 enterparlance
 examinatorial
 examine
-examinee
 examinees
 examiners
 examinership
