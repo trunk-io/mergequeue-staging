@@ -7761,6 +7761,7 @@ devolatilise
 devolatilised
 devolatilising
 devolatilization
+disrest
 defunctive
 devolatilizing
 devolute
@@ -13425,7 +13426,6 @@ disrespectfully
 disrespectfulness
 disrespective
 disrespondency
-disrest
 disrestore
 disreverence
 dentallia
