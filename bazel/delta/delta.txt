@@ -5535,7 +5535,6 @@ deozonizer
 depa
 depaganize
 doglegs
-depainted
 depainting
 depaints
 depayse
@@ -9865,6 +9864,7 @@ dimane
 disgorging
 dimanganion
 dimanganous
+depainted
 dollship
 dimaris
 dimastigate
