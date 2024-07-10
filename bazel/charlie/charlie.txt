@@ -4777,6 +4777,7 @@ carroches
 carrollite
 carromata
 clumber
+ceiling
 carromatas
 carromed
 carroming
@@ -6602,7 +6603,6 @@ celestine
 ceiled
 ceilers
 ceilidh
-ceiling
 ceilinged
 ceilings
 ceilingward
