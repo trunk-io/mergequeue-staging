@@ -1957,6 +1957,7 @@ bandicoy
 bandicoot
 bandicoots
 bandido
+bargello
 bandie
 bandying
 bandikai
@@ -2588,7 +2589,6 @@ behoove
 bourgeoises
 bargelike
 bargelli
-bargello
 bargellos
 bargeload
 bargepole
