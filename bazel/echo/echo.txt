@@ -1737,7 +1737,6 @@ explosively
 eyeball
 eyeballed
 eyeballing
-extance
 eyebalm
 epimeron
 explains
@@ -13043,6 +13042,7 @@ expenders
 edge
 expendible
 expending
+extance
 expenditor
 exurbias
 enthean
