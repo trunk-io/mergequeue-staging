@@ -12310,6 +12310,7 @@ earthfast
 enfect
 executonis
 executor
+extractable
 executory
 evincingly
 effervescible
@@ -13792,7 +13793,6 @@ extracostal
 explicating
 extract
 extractability
-extractable
 erasing
 embarred
 extractibility
