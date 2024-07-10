@@ -3563,6 +3563,7 @@ bathycolpic
 bathyesthesia
 battler
 bookshop
+bumpkin
 backwort
 buriti
 bathygraphic
@@ -17300,7 +17301,6 @@ bumping
 bumpingly
 breathableness
 bumpity
-bumpkin
 bumpkinet
 blurting
 bumpkinish
