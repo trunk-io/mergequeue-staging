@@ -18231,7 +18231,6 @@ coexecutant
 coexecutor
 coexecutrices
 coexecutrix
-coexert
 coexerted
 coexerting
 coexertion
@@ -27894,6 +27893,7 @@ cracking
 crackings
 crackjaw
 contrafacture
+coexert
 crackle
 crackled
 cicadellidae
