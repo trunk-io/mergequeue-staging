@@ -1478,7 +1478,6 @@ garnishable
 garnished
 garnishee
 garnishees
-galleypot
 garnisheing
 gastight
 garnishment
@@ -6563,6 +6562,7 @@ gisler
 gogga
 garibaldi
 greenhood
+galleypot
 gnomist
 geopolitik
 glossoplegia
