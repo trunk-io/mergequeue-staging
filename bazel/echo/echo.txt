@@ -702,7 +702,6 @@ eclogue
 eclogues
 entomoid
 eremacausis
-eclosion
 evaluating
 eclosions
 ecmnesia
@@ -12071,6 +12070,7 @@ excitomotor
 excitomotory
 exciton
 excitonic
+eclosion
 excitons
 excitonutrient
 eyeglasses
