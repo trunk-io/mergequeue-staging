@@ -3733,7 +3733,6 @@ glosses
 ghafir
 ghan
 gibbously
-ghana
 ghanaian
 gastronomy
 gigas
@@ -6379,6 +6378,7 @@ gnosiology
 gravels
 gnosiological
 galoshed
+ghana
 gunung
 gnostically
 gnosticity
