@@ -8796,6 +8796,7 @@ allhallowtide
 allheal
 armoried
 ally
+antherids
 arithmeticians
 alliable
 alliaceae
@@ -21533,7 +21534,6 @@ asplenioid
 asplenium
 asporogenic
 asporogenous
-antherids
 asporous
 antigovernmental
 avarice
