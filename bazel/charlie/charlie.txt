@@ -4750,7 +4750,6 @@ carriers
 carries
 carrying
 carryings
-cardiometric
 carriole
 carrion
 carryon
@@ -26262,6 +26261,7 @@ costellate
 costerdom
 costermonger
 costers
+cardiometric
 corporationism
 costicartilage
 costicervical
