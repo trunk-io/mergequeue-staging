@@ -6452,7 +6452,6 @@ goatpox
 gephyrocercal
 goatroot
 goatsbane
-goatsbeard
 goatsfoot
 goatskins
 goatstone
@@ -10281,6 +10280,7 @@ guerickian
 guitarfishes
 guitarist
 gytrash
+goatsbeard
 ganching
 ghazies
 gateage
