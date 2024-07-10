@@ -7144,7 +7144,6 @@ centripetally
 checkle
 conditionals
 centralization
-centralize
 centralized
 centralizer
 centralizers
@@ -9625,6 +9624,7 @@ checkups
 checkweigher
 crackling
 checkweighman
+centralize
 checkweighmen
 checkwork
 checkwriter
