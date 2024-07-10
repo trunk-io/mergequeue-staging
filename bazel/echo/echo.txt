@@ -11810,7 +11810,6 @@ exalts
 exam
 examen
 examens
-examinability
 examinable
 economical
 examinant
@@ -13735,6 +13734,7 @@ ensigncy
 errancy
 elementariness
 epididymectomy
+examinability
 extolling
 extollingly
 epidotes
