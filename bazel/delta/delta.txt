@@ -4335,7 +4335,6 @@ dioptrometer
 demagnetisation
 demagnetiser
 demagnetization
-disorienting
 demagnetized
 demagnetizes
 demagnetizing
@@ -10192,6 +10191,7 @@ dingly
 depilous
 diagrydium
 dingman
+disorienting
 dingmaul
 dinamode
 dingo
