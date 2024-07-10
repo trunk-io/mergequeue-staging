@@ -13159,6 +13159,7 @@ displeasurable
 displeasurably
 displeasureable
 displeasureably
+drawpoint
 displeasured
 displeasuring
 disputatively
@@ -16847,7 +16848,6 @@ drawnness
 drawnwork
 drawoff
 drawout
-drawpoint
 dusks
 drawrod
 drawshave
