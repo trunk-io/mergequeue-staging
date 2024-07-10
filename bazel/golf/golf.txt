@@ -6453,6 +6453,7 @@ goatskins
 goatstone
 granulitic
 goatsucker
+graylags
 grapelike
 gaum
 goatweed
@@ -8376,7 +8377,6 @@ gangerel
 graticulate
 glory
 gordiid
-graylags
 glinse
 ginglyni
 graticule
