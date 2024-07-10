@@ -18578,7 +18578,6 @@ coigned
 cazique
 coignes
 coigny
-coigning
 coigns
 coigue
 coying
@@ -31609,6 +31608,7 @@ celesta
 curvilinear
 curvilinearly
 curvinervate
+coigning
 curviness
 curving
 cryocautery
