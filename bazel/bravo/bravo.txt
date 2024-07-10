@@ -8764,7 +8764,6 @@ bimorphs
 bimotor
 bimotored
 bimucronate
-barycentre
 bimuscular
 bin
 bimaculate
@@ -10327,6 +10326,7 @@ blancmanges
 blanco
 bodybuild
 bland
+barycentre
 blanda
 blandation
 banes
