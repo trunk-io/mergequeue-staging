@@ -8306,7 +8306,6 @@ chalazian
 cranely
 chalaziferous
 chalazogamic
-chalazoidite
 chalazoin
 chalcanth
 chalcanthite
@@ -12656,6 +12655,7 @@ chronaxies
 chroncmeter
 chronic
 chronical
+chalazoidite
 chronically
 cismarine
 chronicity
