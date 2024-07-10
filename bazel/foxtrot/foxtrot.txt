@@ -1495,7 +1495,6 @@ fauconnier
 faujasite
 faultage
 favorless
-faulted
 filix
 faulter
 fragmentization
@@ -9712,6 +9711,7 @@ faticableness
 fabricature
 fistic
 formularising
+faulted
 factionally
 freightage
 fabulist
