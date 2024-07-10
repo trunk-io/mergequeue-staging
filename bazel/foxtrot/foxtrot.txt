@@ -2128,6 +2128,7 @@ felspars
 felspath
 friezy
 fraze
+frame
 felstone
 felstones
 flirters
@@ -9280,7 +9281,6 @@ foliolate
 framable
 flandan
 frambesia
-frame
 faunological
 fiendhead
 filiating
