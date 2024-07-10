@@ -2482,7 +2482,6 @@ blesmol
 bianchite
 bardee
 bardes
-bardesanite
 bardess
 billowier
 bardic
@@ -16537,6 +16536,7 @@ ballyhack
 bucephalus
 briquet
 blacking
+bardesanite
 blastman
 buceros
 bucerotidae
