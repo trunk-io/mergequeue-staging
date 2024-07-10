@@ -10961,7 +10961,6 @@ amoebic
 amoebicidal
 amoebicide
 amoebida
-amoebidae
 amoebiform
 arbitrer
 anglomaniac
@@ -20348,6 +20347,7 @@ arrowless
 arrowlet
 anguille
 arrowlike
+amoebidae
 arrowplate
 automolite
 ablare
