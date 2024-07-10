@@ -4683,7 +4683,6 @@ gypsum
 gamelang
 grilling
 gypsums
-genevois
 gatchwork
 greatest
 giraffa
@@ -8047,6 +8046,7 @@ grangerism
 grangerite
 glossolalist
 greengrocer
+genevois
 grangerization
 gargling
 glandiform
