@@ -12719,7 +12719,6 @@ chronon
 couchette
 chronopher
 chronophotograph
-chronos
 chronoscope
 chronoscopy
 chronoscopic
@@ -21703,6 +21702,7 @@ condylos
 condylotomy
 contraplex
 condylure
+chronos
 condiment
 condimental
 condimentary
