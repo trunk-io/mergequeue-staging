@@ -8877,7 +8877,6 @@ binormal
 bint
 bintangor
 bromoil
-brack
 binuclear
 binucleate
 besnow
@@ -15183,6 +15182,7 @@ bridehouse
 brideknot
 broad
 brideless
+brack
 bridelike
 bridelope
 bridemaid
