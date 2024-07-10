@@ -11544,7 +11544,6 @@ bascology
 bm
 bn
 bnf
-bo
 boa
 boaedon
 boagane
@@ -12963,6 +12962,7 @@ bordello
 bordellos
 bordels
 border
+bo
 bordereau
 bordereaux
 bordered
