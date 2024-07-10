@@ -1515,7 +1515,6 @@ eragrostis
 externs
 evelyn
 equationally
-eyrar
 exiledom
 egality
 espalier
@@ -5277,6 +5276,7 @@ ecliptics
 endophyte
 endophytic
 equivocalities
+eyrar
 endophytically
 extincting
 entocuneiform
