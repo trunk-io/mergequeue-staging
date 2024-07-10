@@ -7060,6 +7060,7 @@ destroyed
 destroyer
 dyslexic
 destroying
+deul
 destroys
 domesticable
 dissyllabized
@@ -7441,7 +7442,6 @@ diocletian
 deuces
 demolition
 deucing
-deul
 deunam
 dovened
 deuniting
