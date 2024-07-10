@@ -958,7 +958,6 @@ farcialize
 farcicality
 farcically
 farcicalness
-farcie
 forcelessness
 farcify
 farcing
@@ -5837,6 +5836,7 @@ flon
 flong
 fimbriated
 flood
+farcie
 floodable
 fluoaluminate
 fondus
