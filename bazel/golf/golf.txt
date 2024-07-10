@@ -6154,7 +6154,6 @@ girns
 gluepot
 gluers
 guldengroschen
-glues
 glug
 gloominess
 gravegarth
@@ -7495,6 +7494,7 @@ gourmandize
 gaumy
 gyppery
 gourmandizer
+glues
 gomerals
 gourmands
 gypsydoms
