@@ -7576,6 +7576,7 @@ cercopithecus
 cimbri
 cercopod
 corybantish
+corynine
 cramberry
 cercospora
 camsteery
@@ -25219,7 +25220,6 @@ coryneform
 corineus
 coring
 corynid
-corynine
 corynite
 cotillions
 corinna
