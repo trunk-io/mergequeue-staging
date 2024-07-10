@@ -3647,7 +3647,6 @@ greatcoats
 gestes
 glunch
 gestic
-gestical
 gesticular
 garshuni
 gesticulated
@@ -5725,6 +5724,7 @@ galravitch
 guapena
 globins
 gluttony
+gestical
 gastrea
 galusha
 glaucolite
