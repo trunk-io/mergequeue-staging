@@ -5858,6 +5858,7 @@ belostoma
 biparty
 belostomatidae
 belostomidae
+bockeret
 belotte
 belouke
 belove
@@ -11740,7 +11741,6 @@ boches
 beewort
 batboys
 bockey
-bockeret
 bkpt
 backwrap
 bocking
