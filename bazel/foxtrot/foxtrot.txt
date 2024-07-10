@@ -2098,7 +2098,6 @@ fellowred
 fellows
 fellowshiping
 fellowshipping
-fellowships
 fells
 finger
 feloness
@@ -2431,6 +2430,7 @@ fernier
 ferniest
 fernleaf
 fovea
+fellowships
 fusiform
 fernseed
 fibratus
