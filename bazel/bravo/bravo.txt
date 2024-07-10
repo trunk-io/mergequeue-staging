@@ -3184,7 +3184,6 @@ baseplug
 basepoint
 bookstores
 bases
-bash
 bashara
 bashaw
 bashawdom
@@ -12216,6 +12215,7 @@ bolstered
 bolsterer
 blauwbok
 bolsterers
+bash
 bolstering
 bolsters
 bolsterwork
