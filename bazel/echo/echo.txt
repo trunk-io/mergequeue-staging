@@ -4705,7 +4705,6 @@ enantiomeride
 encycl
 experimentalist
 encyclical
-encyclopaediac
 epinephrin
 encyclopaedial
 embosk
@@ -7116,6 +7115,7 @@ ensuer
 enucleated
 enucleation
 enucleator
+encyclopaediac
 enumerability
 episcope
 epris
