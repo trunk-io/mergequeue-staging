@@ -23931,7 +23931,6 @@ controlment
 controls
 controversal
 controversed
-controversial
 controversialism
 controversialist
 controversially
@@ -29891,6 +29890,7 @@ caulicule
 crossite
 crossjack
 cordewane
+controversial
 cryoprobe
 crossley
 crossleted
