@@ -12236,7 +12236,6 @@ blatter
 benefic
 boltel
 bolter
-bolters
 bolthead
 boltheader
 braggy
@@ -13936,6 +13935,7 @@ bazoos
 barkle
 brach
 brache
+bolters
 brachelytra
 brachering
 braches
