@@ -12600,7 +12600,6 @@ dkg
 disjointedly
 deviates
 disjointedness
-disjointing
 disjoints
 disjudication
 disjunctions
@@ -15793,6 +15792,7 @@ dorsabdominally
 dihybrid
 dorsale
 dorsales
+disjointing
 dorsalgia
 dorsalis
 duodecimomos

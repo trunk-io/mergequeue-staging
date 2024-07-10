@@ -15169,7 +15169,6 @@ benevolent
 bridebed
 bridecake
 bridechamber
-bridecup
 bassarid
 bridegroom
 besetter
@@ -16709,6 +16708,7 @@ budgeter
 buttonlike
 batiked
 byliner
+bridecup
 bacaba
 boophilus
 budgeters
