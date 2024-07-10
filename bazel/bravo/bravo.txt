@@ -6090,7 +6090,6 @@ benedicite
 benedick
 benedicks
 benedict
-benedicta
 benedictine
 benedictinism
 brimborium
@@ -14931,6 +14930,7 @@ breechloader
 bletonism
 breechloading
 breed
+benedicta
 breedable
 breedbate
 breeders
