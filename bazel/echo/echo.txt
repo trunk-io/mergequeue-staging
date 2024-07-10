@@ -2457,6 +2457,7 @@ euge
 extensum
 ethambutol
 electrolyse
+epenthesis
 everydeal
 electrolysed
 electrolyses
@@ -7435,7 +7436,6 @@ encamping
 ependymitis
 ependymoma
 epenetic
-epenthesis
 engore
 epenthesize
 encores
