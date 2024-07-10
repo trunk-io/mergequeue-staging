@@ -6824,6 +6824,7 @@ blackings
 berzeliite
 bontee
 besnowed
+berry
 besa
 besagne
 bestiarian
@@ -13719,7 +13720,6 @@ birches
 bowdlerised
 bowdlerising
 bowdlerization
-berry
 bemoans
 bonbonniere
 bowdlerize
