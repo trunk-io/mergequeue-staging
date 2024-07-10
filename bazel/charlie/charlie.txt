@@ -1670,7 +1670,6 @@ calvaries
 calvarium
 calvatia
 calve
-calved
 calver
 calves
 calvin
@@ -6118,6 +6117,7 @@ cloddy
 caucasic
 caucasoid
 caucasoids
+calved
 caucasus
 conioselinum
 cauchemar
