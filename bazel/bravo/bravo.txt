@@ -5663,7 +5663,6 @@ belieffulness
 beliefless
 belier
 betallow
-beliers
 belies
 believability
 believable
@@ -12645,6 +12644,7 @@ boogum
 boohoo
 boucl
 boohooing
+beliers
 boohoos
 book
 bookable
