@@ -3748,6 +3748,7 @@ battled
 backslapper
 breacher
 becursing
+bowdlerization
 battledore
 battledores
 blazoners
@@ -13718,7 +13719,6 @@ bowdlerise
 birches
 bowdlerised
 bowdlerising
-bowdlerization
 bemoans
 bonbonniere
 bowdlerize
