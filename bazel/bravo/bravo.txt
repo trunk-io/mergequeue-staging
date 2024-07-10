@@ -2216,7 +2216,6 @@ banteringly
 banters
 bantin
 bilos
-bedragglement
 bantings
 bantling
 bantlings
@@ -8059,6 +8058,7 @@ bicolour
 bicolours
 beheaded
 bicompact
+bedragglement
 biconcave
 biconcavity
 bidder
