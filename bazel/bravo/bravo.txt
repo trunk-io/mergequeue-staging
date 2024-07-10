@@ -4470,7 +4470,6 @@ bronzelike
 becompliment
 becoom
 becoresh
-becost
 becousined
 becowarding
 becowards
@@ -7301,6 +7300,7 @@ betaine
 betaines
 betake
 busera
+becost
 betakes
 byzantine
 bronchorrhaphy
