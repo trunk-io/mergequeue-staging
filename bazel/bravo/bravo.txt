@@ -8942,7 +8942,6 @@ biodegradability
 billowed
 biodegradable
 biodegradation
-biodegrade
 biodegraded
 biodegrading
 boite
@@ -17845,6 +17844,7 @@ burrers
 browbeating
 burrfish
 burrgrailer
+biodegrade
 burrhead
 burrheaded
 bedriveling
