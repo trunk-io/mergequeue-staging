@@ -1856,7 +1856,6 @@ ban
 bana
 banaba
 banago
-blancmanger
 banagos
 bagpipe
 banak
@@ -8756,6 +8755,7 @@ blippers
 bimodality
 bimodule
 bimodulus
+blancmanger
 bimong
 bimonthlies
 bimorph
