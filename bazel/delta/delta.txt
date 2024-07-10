@@ -10906,7 +10906,6 @@ dis
 demideify
 detruck
 dys
-despumating
 disability
 disabilities
 disable
@@ -12322,6 +12321,7 @@ dishallucination
 disharmony
 demophobia
 disharmonic
+despumating
 devastavit
 disharmonical
 dithyrambically
