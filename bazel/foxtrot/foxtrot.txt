@@ -1763,6 +1763,7 @@ feathers
 freshmanic
 floods
 feathertop
+fringepod
 featherway
 featherweight
 featherweights
@@ -10081,7 +10082,6 @@ fringeless
 fringelet
 fringelike
 fringent
-fringepod
 fringetail
 fringier
 fringiest

@@ -13510,7 +13510,6 @@ ciconian
 ciconiform
 charkas
 ciconiid
-ciconiidae
 ciconiiform
 ciconiiformes
 ciconine
@@ -29002,6 +29001,7 @@ cullible
 crig
 crying
 cerotype
+ciconiidae
 collisional
 crile
 crim
