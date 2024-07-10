@@ -9927,7 +9927,6 @@ amarillos
 amarine
 abstractest
 acetyltannin
-amarity
 amarna
 amaroid
 amaroidal
@@ -11472,6 +11471,7 @@ amtrac
 amtrack
 awkwardness
 amtracs
+amarity
 amtrak
 amu
 aweather
