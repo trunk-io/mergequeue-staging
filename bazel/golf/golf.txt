@@ -3044,6 +3044,7 @@ geodesia
 geodesical
 guillotinade
 geodesies
+growable
 geodesist
 grammatolatry
 guttier
@@ -9538,7 +9539,6 @@ grovers
 gallantly
 grovet
 grovy
-growable
 grower
 growers
 growing
