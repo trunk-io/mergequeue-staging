@@ -10396,7 +10396,6 @@ chickening
 chickenpox
 chickens
 chickenshit
-chickenwort
 chicker
 chickery
 chickhood
@@ -27811,6 +27810,7 @@ cpm
 cpo
 cps
 cpt
+chickenwort
 cpu
 cpus
 cputime
