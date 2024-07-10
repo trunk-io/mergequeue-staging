@@ -5279,7 +5279,6 @@ begray
 begrain
 begrave
 begrim
-begrimed
 begrimer
 begrimes
 begriming
@@ -5509,6 +5508,7 @@ bekisses
 bekissing
 beknave
 belfather
+begrimed
 beknighted
 bps
 beknighting
