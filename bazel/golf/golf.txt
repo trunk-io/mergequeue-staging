@@ -1714,6 +1714,7 @@ gastrectasis
 gasfiring
 gastrectomy
 gastrelcosis
+gorefish
 gonadectomizing
 gastrilegous
 granodiorite
@@ -10197,7 +10198,6 @@ glycoprotein
 ghoster
 guignol
 gelototherapy
-gorefish
 gelatinotype
 groundline
 gastrular
