@@ -13084,6 +13084,7 @@ cyanochroic
 cyanocitta
 cyanocobalamin
 cyanocobalamine
+clearance
 cyanocrystallin
 cyanoderma
 cyanoethylate
@@ -15911,7 +15912,6 @@ clear
 counterswing
 clearable
 clearage
-clearance
 clearances
 clearcole
 cleared
