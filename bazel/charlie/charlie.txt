@@ -7199,7 +7199,6 @@ centrifuge
 centrifuged
 centrifugence
 centrifuges
-centring
 centrings
 centriole
 centripetal
@@ -28928,6 +28927,7 @@ cribble
 crusile
 cribbling
 cribellum
+centring
 crible
 chrysomyia
 cribo
