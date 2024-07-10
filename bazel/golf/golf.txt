@@ -5018,7 +5018,6 @@ glacialist
 gurkha
 goldstone
 gloomless
-glaciate
 gideon
 glaciated
 genial
@@ -7295,6 +7294,7 @@ glycic
 greedyguts
 gangsa
 gariba
+glaciate
 gormed
 gormless
 gorra
