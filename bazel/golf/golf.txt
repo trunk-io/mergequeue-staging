@@ -58,6 +58,7 @@ graecism
 gable
 gableboard
 gymnetrous
+grabbling
 gabled
 gableended
 gablelike
@@ -3833,7 +3834,6 @@ ghostish
 ghostlet
 gigantic
 ghostly
-grabbling
 grots
 geometrising
 ganglionic
