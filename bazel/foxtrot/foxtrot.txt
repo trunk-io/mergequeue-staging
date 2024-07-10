@@ -4953,7 +4953,6 @@ fellatee
 fantasque
 flashbulb
 fiance
-flashcube
 flashcubes
 fiascoes
 flashed
@@ -11746,6 +11745,7 @@ fuzzing
 fuzztail
 fw
 frosteds
+flashcube
 fwelling
 fritterer
 fish
