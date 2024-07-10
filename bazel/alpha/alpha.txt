@@ -8880,7 +8880,6 @@ allocators
 allocatur
 aoli
 allocheiria
-allochetia
 arrhizal
 allochetite
 allochezia
@@ -15359,6 +15358,7 @@ avocets
 amphimorulae
 antifire
 abjectly
+allochetia
 antiflash
 antiflattering
 antiflatulent
