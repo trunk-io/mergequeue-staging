@@ -5286,7 +5286,6 @@ aetomorphae
 aetosaur
 aetosaurian
 aetosaurus
-aettekees
 aevia
 aeviternal
 aevum
@@ -21429,6 +21428,7 @@ asperses
 aulostoma
 aegerian
 aspersing
+aettekees
 aspersion
 aspersions
 aspersive
