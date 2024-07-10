@@ -2255,7 +2255,6 @@ fenderless
 fenders
 fendillation
 fending
-fenestellae
 fenestral
 fenestration
 fenestrule
@@ -7531,6 +7530,7 @@ forecount
 forecourt
 forecourts
 forecover
+fenestellae
 fouling
 fers
 formation
