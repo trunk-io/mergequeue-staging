@@ -1487,7 +1487,6 @@ deaconing
 deaconries
 deacons
 deaconship
-deactivate
 deactivated
 discontinuing
 deactivating
@@ -7852,6 +7851,7 @@ devvel
 devwsor
 dew
 dofunny
+deactivate
 dewanee
 dewani
 dewanny
