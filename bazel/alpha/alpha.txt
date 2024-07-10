@@ -2546,7 +2546,6 @@ acinaces
 acinacifoliate
 acinacifolious
 acinaciform
-adscriptive
 acinacity
 acinar
 acinary
@@ -24999,6 +24998,7 @@ anachronisms
 awl
 awlessness
 awls
+adscriptive
 apocyneous
 aluminizing
 awlwort
