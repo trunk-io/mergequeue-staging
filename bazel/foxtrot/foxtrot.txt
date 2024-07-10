@@ -1429,6 +1429,7 @@ fatiscent
 fatly
 flinch
 fatlike
+floatstone
 feelingful
 furbishing
 fatness
@@ -5098,7 +5099,6 @@ flaughter
 fingerbreadth
 flaughts
 flaunche
-floatstone
 flaunched
 flaunt
 flaunted
