@@ -6206,7 +6206,6 @@ caulomer
 caulomic
 caulophylline
 caulophyllum
-caulotaxy
 caulotaxis
 caulote
 cauls
@@ -6318,6 +6317,7 @@ cautio
 caution
 cautionary
 cautionaries
+caulotaxy
 cautioned
 cautioners
 cautiones
