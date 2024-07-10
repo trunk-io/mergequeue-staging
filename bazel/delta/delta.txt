@@ -8510,7 +8510,6 @@ diapause
 diapauses
 deadmen
 distills
-diapedesis
 diapedetic
 diapensia
 diplomatized
@@ -13712,6 +13711,7 @@ dedolent
 dissociated
 dissociates
 dissociating
+diapedesis
 dissoconch
 dyssodia
 dogwatches
