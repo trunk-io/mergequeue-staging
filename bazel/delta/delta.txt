@@ -1077,7 +1077,6 @@ darter
 darters
 dartingly
 dartle
-deprovincialize
 dartled
 dartles
 dartlike
@@ -2368,6 +2367,7 @@ dundee
 dueling
 decimalist
 decimalization
+deprovincialize
 decimalize
 decimalized
 decimalizes
