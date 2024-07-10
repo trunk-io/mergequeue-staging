@@ -5880,7 +5880,6 @@ depreciable
 depreciate
 depreciated
 depreciates
-depreciatingly
 demimondaines
 depreciation
 depreciative
@@ -10226,6 +10225,7 @@ diagonalize
 dinner
 dispiritedly
 dispersoidology
+depreciatingly
 dinnerless
 dinnertime
 dinnerware
