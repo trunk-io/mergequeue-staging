@@ -10143,7 +10143,6 @@ chese
 cheselip
 cheshire
 cupidon
-chesil
 cheskey
 cheskeys
 cheson
@@ -31207,6 +31206,7 @@ curates
 coenenchyme
 curateship
 curatess
+chesil
 curatic
 curatical
 curative
