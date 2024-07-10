@@ -6958,7 +6958,6 @@ airbuses
 airbusses
 aircheck
 airchecks
-aircraft
 aircraftman
 aircrafts
 amenta
@@ -11009,6 +11008,7 @@ amolish
 amollish
 amomal
 apnoeal
+aircraft
 amomales
 amomis
 amomum
