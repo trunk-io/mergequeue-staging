@@ -4486,7 +4486,6 @@ encalendar
 encamp
 encamped
 encampment
-eugenol
 encampments
 endosecretory
 endoparasite
@@ -11305,6 +11304,7 @@ evacuators
 exteriors
 epileptology
 evacue
+eugenol
 evacuee
 extinguished
 evacuees
