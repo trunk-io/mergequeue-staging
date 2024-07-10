@@ -5107,7 +5107,6 @@ antimasque
 aerometeorograph
 aerometer
 acardia
-anolytes
 aerometric
 aeromotor
 aeron
@@ -14974,6 +14973,7 @@ anticeremoniousness
 antichamber
 antichance
 ancress
+anolytes
 anticheater
 att
 ambiens
