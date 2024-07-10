@@ -1185,6 +1185,7 @@ eds
 educabilia
 educability
 educable
+enquires
 educand
 espathate
 ethologies
@@ -2556,7 +2557,6 @@ electrophobia
 electrophone
 electrophonically
 entrochus
-enquires
 electrophore
 electrophorese
 electrophoresing
