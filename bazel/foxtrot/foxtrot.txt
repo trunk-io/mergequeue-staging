@@ -3451,7 +3451,6 @@ fulcrumage
 folletage
 filamentous
 frogmen
-filamentule
 filander
 filao
 filar
@@ -8920,6 +8919,7 @@ foundrymen
 fickly
 foundrous
 fount
+filamentule
 fountain
 floative
 fraternizes
