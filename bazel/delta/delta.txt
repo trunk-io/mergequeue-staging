@@ -13306,7 +13306,6 @@ disputability
 disputableness
 deprivations
 disputably
-disputacity
 doddery
 dodonian
 disputation
@@ -15289,6 +15288,7 @@ dolphus
 dols
 dolt
 dolthead
+disputacity
 downshifted
 dugdug
 doltish
