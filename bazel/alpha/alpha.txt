@@ -1273,6 +1273,7 @@ acad
 academe
 academes
 academia
+atlaslike
 academian
 academias
 academic
@@ -22693,7 +22694,6 @@ atlantodidymus
 atlantomastoid
 atlantoodontoid
 atlantosaurus
-atlaslike
 atlatl
 avulsion
 atlatls

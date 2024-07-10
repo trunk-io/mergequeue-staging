@@ -2502,7 +2502,6 @@ bunns
 bazookas
 bardocucullus
 bardolater
-bardolatry
 blindman
 buffooneries
 bardolphian
@@ -16064,6 +16063,7 @@ bilgy
 brooks
 brookweed
 broom
+bardolatry
 broomball
 broomballer
 broombush
