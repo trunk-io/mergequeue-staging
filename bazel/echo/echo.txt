@@ -879,7 +879,6 @@ expatiates
 ectodactylism
 ectoderm
 ectodermal
-ectodermosis
 ectoentad
 ectoenzym
 ensky
@@ -7950,6 +7949,7 @@ epilimnetic
 epilimnia
 epilimnion
 epilimnionia
+ectodermosis
 epilithic
 epyllia
 embarcadero
