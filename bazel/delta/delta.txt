@@ -7583,7 +7583,6 @@ droud
 develed
 develin
 develing
-develop
 develope
 developed
 defervescence
@@ -16079,6 +16078,7 @@ douc
 driving
 daun
 douce
+develop
 doucely
 discriminoid
 douceness
