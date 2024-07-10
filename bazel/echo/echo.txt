@@ -8349,7 +8349,6 @@ enquirer
 epithalline
 epithamia
 epitheca
-everybody
 epithecal
 epithecia
 epithecium
@@ -12910,6 +12909,7 @@ expansionism
 equilibrium
 ecophysiology
 expansionist
+everybody
 expansionistic
 exhusband
 expansionists
