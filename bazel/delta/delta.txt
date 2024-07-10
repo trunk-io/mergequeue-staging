@@ -3409,7 +3409,6 @@ deflowered
 deflowerer
 disbelieved
 deflowering
-deflowerment
 deflowers
 defluent
 defluous
@@ -12411,6 +12410,7 @@ dishwares
 dishwash
 diplocephalous
 dishwasher
+deflowerment
 dishwashers
 dishwashings
 dishwater
