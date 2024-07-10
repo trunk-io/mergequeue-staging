@@ -8421,7 +8421,6 @@ alimonies
 abbate
 antenarial
 alin
-agricultor
 aline
 alineation
 approximant
@@ -17496,6 +17495,7 @@ apostolicism
 antiloquy
 apostolicity
 annunciative
+agricultor
 arnusian
 apostolos
 anemony
