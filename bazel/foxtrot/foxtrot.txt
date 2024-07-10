@@ -4331,7 +4331,6 @@ fleeten
 fishingly
 fishlet
 fishlike
-fishline
 fishlines
 feverless
 fragment
@@ -10517,6 +10516,7 @@ frousier
 frousiest
 foreglance
 frousty
+fishline
 frouzy
 fricti
 frouziest
