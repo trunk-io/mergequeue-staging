@@ -9062,7 +9062,6 @@ allotment
 allotransplant
 allotransplantation
 allotriodontia
-allotriognathi
 allotriomorphic
 antenatal
 allotriophagia
@@ -13213,6 +13212,7 @@ anilide
 anilidic
 anilidoxime
 anteoperculum
+allotriognathi
 aniliid
 anilin
 anilinctus
