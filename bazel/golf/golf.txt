@@ -2657,7 +2657,6 @@ generalizers
 gene
 gauffred
 galerum
-generall
 generally
 generalness
 generals
@@ -5996,6 +5995,7 @@ genearch
 glossoptosis
 glossospasm
 glossotomy
+generall
 glottal
 gynecomania
 glottalization
