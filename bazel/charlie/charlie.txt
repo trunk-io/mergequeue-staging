@@ -4764,6 +4764,7 @@ cloverleaves
 carryovers
 crossbelt
 carrys
+cobblestones
 carritch
 carritches
 carriwitchet
@@ -17476,7 +17477,6 @@ cobbles
 cobblestone
 cheekfuls
 cobblestoned
-cobblestones
 cobbly
 cobbling
 cobbra
