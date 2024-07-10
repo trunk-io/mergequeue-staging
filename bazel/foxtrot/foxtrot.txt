@@ -1449,6 +1449,7 @@ fatstock
 fatted
 fattenable
 foci
+firestopping
 forbearances
 fatteners
 fabaceous
@@ -11584,7 +11585,6 @@ frim
 fissive
 fusilly
 fusing
-firestopping
 forestry
 fumattoria
 forcipes
