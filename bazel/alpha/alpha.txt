@@ -14428,7 +14428,6 @@ antethem
 antetype
 antetypes
 anteva
-antevenient
 anteversion
 anteverted
 apasttra
@@ -17217,6 +17216,7 @@ apodeictic
 apodeictically
 apodeipna
 artocarpus
+antevenient
 apodeipnon
 apodema
 apodemal
