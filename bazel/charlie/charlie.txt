@@ -25077,7 +25077,6 @@ cholates
 cordwood
 cordwoods
 core
-coreceiver
 corecipient
 coreciprocal
 corectome
@@ -25939,6 +25938,7 @@ corticospinal
 corticosteroid
 corticosterone
 corticostriate
+coreceiver
 corticotrophin
 cortile
 cortin
