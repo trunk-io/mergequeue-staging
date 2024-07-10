@@ -6839,7 +6839,6 @@ besanctify
 besand
 bescab
 bescarf
-belout
 bescent
 befringing
 bescorch
@@ -14827,6 +14826,7 @@ breakout
 breakouts
 bicuspids
 breakover
+belout
 breakpoints
 breaks
 breakstone
