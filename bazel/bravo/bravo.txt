@@ -4260,7 +4260,6 @@ beautifier
 biriba
 beautifiers
 beautifies
-bellicist
 backbrand
 beautifying
 bework
@@ -9991,6 +9990,7 @@ bevies
 blights
 bield
 biventral
+bellicist
 biverb
 biverbal
 bivial
