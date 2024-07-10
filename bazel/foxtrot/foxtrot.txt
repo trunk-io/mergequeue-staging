@@ -1099,6 +1099,7 @@ faros
 filmgoer
 flighted
 farragos
+fulling
 farrand
 flyaways
 fractureproof
@@ -10901,7 +10902,6 @@ fullgrownness
 foolocracy
 ferrosilicon
 fullhearted
-fulling
 fullish
 foraminated
 fibration
