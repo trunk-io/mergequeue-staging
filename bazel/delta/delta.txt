@@ -14441,6 +14441,7 @@ divid
 dividableness
 dividant
 divide
+decardinalize
 dividedly
 demulsification
 dividend
@@ -15704,7 +15705,6 @@ dorado
 doralium
 doraphobia
 dorask
-decardinalize
 descantist
 dorbel
 dorbug
