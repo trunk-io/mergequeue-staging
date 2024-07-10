@@ -8883,7 +8883,6 @@ allocatable
 allocate
 apollo
 allocated
-allocatee
 adglutinate
 allocates
 allocating
@@ -15567,6 +15566,7 @@ antilocapridae
 antilochus
 antiloemic
 antilog
+allocatee
 antilogarithmic
 antilogarithms
 antilogy

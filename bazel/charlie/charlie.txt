@@ -7409,7 +7409,6 @@ cephalotaceous
 chatot
 cephalotaxus
 cephalotheca
-countergabion
 cephalothecal
 cephalothoraces
 cephalothoracic
@@ -15213,6 +15212,7 @@ cize
 ck
 ckw
 cl
+countergabion
 codiaceous
 clabber
 compellation
