@@ -4633,7 +4633,6 @@ carpinus
 carpiodes
 carpium
 carpocace
-carpocapsa
 cloghead
 carpocarpal
 clementine
@@ -13003,6 +13002,7 @@ chutes
 chuting
 chutist
 chutists
+carpocapsa
 chutnee
 chondromatous
 chutney
