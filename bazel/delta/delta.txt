@@ -8803,7 +8803,6 @@ demotists
 dibbers
 dibble
 dibbled
-dibbler
 dibblers
 directionally
 disgruntling
@@ -17853,6 +17852,7 @@ decursive
 disimbitter
 ducts
 ductule
+dibbler
 dermosclerite
 ductules
 ductus
