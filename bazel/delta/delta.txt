@@ -8130,7 +8130,6 @@ diacetic
 defs
 diacetyl
 dichloroacetic
-dipsetic
 diacetylene
 diacetylmorphine
 demote
@@ -15778,6 +15777,7 @@ desize
 desiccating
 dorosternal
 dorothea
+dipsetic
 decorement
 dorothy
 dorp
