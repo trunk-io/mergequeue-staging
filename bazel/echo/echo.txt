@@ -783,6 +783,7 @@ entoptical
 ecotones
 emotive
 euskera
+expectation
 ecphasis
 ecphonema
 ecphorable
@@ -12945,7 +12946,6 @@ epiphragm
 expectancies
 expectant
 expectantly
-expectation
 expectations
 engagedness
 expected
