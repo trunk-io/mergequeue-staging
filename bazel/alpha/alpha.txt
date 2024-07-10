@@ -17128,6 +17128,7 @@ apneic
 apneumatic
 apneumatosis
 albarium
+arecaceous
 apneumona
 apneumonous
 apneusis
@@ -19324,7 +19325,6 @@ awk
 areawide
 areca
 arecaceae
-arecaceous
 arecaidine
 arecain
 arecaine
