@@ -4035,7 +4035,6 @@ adjoins
 alaund
 adjoint
 adjoints
-adjourn
 aubretia
 adjournal
 adjourned
@@ -7646,6 +7645,7 @@ advices
 albuminousness
 albumins
 asterwort
+adjourn
 albumoid
 actomyosin
 albumoscope
