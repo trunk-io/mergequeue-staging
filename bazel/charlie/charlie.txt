@@ -7620,7 +7620,6 @@ cerebrasthenia
 competitioner
 cerebrasthenic
 cerebrate
-cerebrated
 cerebrates
 cerebration
 cerebrations
@@ -25661,6 +25660,7 @@ corpuscularity
 corpusculated
 corpuscule
 corpusculous
+cerebrated
 corpusculum
 corrade
 compassivity
