@@ -8525,7 +8525,6 @@ bilineated
 bylined
 billfold
 bylines
-brave
 bilingual
 bilingualism
 bilinguality
@@ -14963,6 +14962,7 @@ bregmatic
 brehon
 brehonia
 brehonship
+brave
 bohemian
 brouillon
 breislakite
