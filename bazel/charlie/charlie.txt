@@ -2266,6 +2266,7 @@ cancelled
 canceller
 cancelli
 chasseur
+ceremonialist
 cyclogram
 cancelling
 cancellous
@@ -7674,7 +7675,6 @@ convincingness
 ceremony
 ceremonial
 ceremonialism
-ceremonialist
 ceremonialists
 ceremonialize
 ceremonially
