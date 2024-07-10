@@ -4475,7 +4475,6 @@ carnivores
 carnivority
 carnivorous
 carnivorously
-carnivorousness
 carnose
 carnosin
 carnosine
@@ -25464,6 +25463,7 @@ cornuate
 cornuated
 cornubianite
 circumambulating
+carnivorousness
 cornucopia
 cornucopiae
 cornucopian
