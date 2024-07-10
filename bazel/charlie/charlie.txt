@@ -4082,7 +4082,6 @@ cardiotrophia
 cardiotrophotherapy
 cardiovascular
 cardiovisceral
-cardipaludism
 cardipericarditis
 cardita
 carditic
@@ -25875,6 +25874,7 @@ corsage
 corsages
 corsaint
 corsair
+cardipaludism
 corsairs
 corse
 corselet
