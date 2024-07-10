@@ -3394,7 +3394,6 @@ frag
 figurants
 fulgurantly
 figurately
-figuration
 figuratively
 forby
 figuredly
@@ -4260,6 +4259,7 @@ fallalery
 frizzle
 falbalas
 fischerite
+figuration
 filibranch
 fise
 fisetin
