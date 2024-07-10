@@ -12913,7 +12913,6 @@ angiokinesis
 anisogynous
 anthocerotales
 amen
-angioleucitis
 angiolymphitis
 angiolymphoma
 angiolipoma
@@ -20650,6 +20649,7 @@ arthropoda
 arthropodal
 alamos
 arthropody
+angioleucitis
 arthropodous
 atlantal
 arthropods

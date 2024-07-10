@@ -1182,7 +1182,6 @@ calendering
 calenders
 calendric
 cleanser
-calendrical
 calends
 calendula
 calentural
@@ -29911,6 +29910,7 @@ crosspoint
 civilisation
 crossroading
 crossroads
+calendrical
 crossruff
 cardinals
 crosstail
