@@ -3889,7 +3889,6 @@ dejectile
 dysphemism
 dejecting
 disobeyer
-dejections
 dejectly
 dejectory
 dejects
@@ -12096,6 +12095,7 @@ draper
 dover
 dirty
 disequilibration
+dejections
 disequilibria
 dialyzing
 disequilibrium
