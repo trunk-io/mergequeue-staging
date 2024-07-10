@@ -6498,7 +6498,6 @@ emissile
 espontoon
 ermitophobia
 ensures
-ensuring
 enswathe
 enswathement
 effective
@@ -12686,6 +12685,7 @@ enthrill
 epruinose
 exoderms
 exody
+ensuring
 exodist
 enlinked
 endenizen
