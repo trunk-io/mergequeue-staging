@@ -2838,7 +2838,6 @@ genitors
 genitourinary
 geniture
 genius
-genizah
 glossalgia
 grogs
 genl
@@ -5942,6 +5941,7 @@ glossocele
 glossocoma
 glossocomon
 glossodynamometer
+genizah
 gauderies
 grizzlies
 gland
