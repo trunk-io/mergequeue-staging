@@ -1145,7 +1145,6 @@ courtnoll
 calden
 caldera
 calderas
-calderium
 caldron
 caldrons
 calean
@@ -7200,6 +7199,7 @@ centrifuged
 centrifugence
 centrifuges
 centring
+calderium
 centrings
 centriole
 centripetal

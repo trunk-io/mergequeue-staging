@@ -2950,6 +2950,7 @@ electrotypic
 elinguation
 elingued
 eleatic
+endosome
 elinor
 equestrienne
 eliot
@@ -5350,7 +5351,6 @@ endosmoses
 endosmosis
 endosmotic
 endosmotically
-endosome
 endosperm
 endospermic
 endospermous
