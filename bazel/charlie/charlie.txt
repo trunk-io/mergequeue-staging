@@ -2692,6 +2692,7 @@ canonizations
 canonize
 canonized
 catapult
+compelled
 canonizer
 canonizing
 canonlike
@@ -20586,7 +20587,6 @@ compellable
 compellably
 constellate
 compellative
-compelled
 cipherdom
 compellent
 compeller
