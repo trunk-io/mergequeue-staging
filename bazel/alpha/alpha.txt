@@ -3968,7 +3968,6 @@ adipocellulose
 anthropological
 adipocerite
 adipocerous
-adipocyte
 adipofibroma
 adipogenic
 adipogenous
@@ -20419,6 +20418,7 @@ animating
 arsenotungstates
 arsenotungstic
 alefs
+adipocyte
 arsenous
 arsenoxide
 arses
