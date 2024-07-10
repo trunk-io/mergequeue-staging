@@ -1795,7 +1795,6 @@ baltis
 balu
 baluba
 baluch
-brittle
 barytone
 baluchitheria
 benty
@@ -12238,6 +12237,7 @@ boltel
 bolter
 bolters
 bolthead
+brittle
 boltheader
 braggy
 bagge
