@@ -1579,7 +1579,6 @@ ballett
 ballfield
 bummie
 browny
-ballgame
 breakfasts
 ballgown
 ballgowns
@@ -9736,6 +9735,7 @@ bismuthal
 bismuthic
 bismuthide
 bismuthiferous
+ballgame
 bureau
 bismuthine
 bismuthinite
