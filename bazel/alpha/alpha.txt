@@ -1671,7 +1671,6 @@ accolated
 anabo
 affidavits
 antileague
-accoll
 accolle
 alfaquins
 accollee
@@ -7828,6 +7827,7 @@ alday
 aldamin
 autotruck
 aldamine
+accoll
 aldane
 aldazin
 aldazine

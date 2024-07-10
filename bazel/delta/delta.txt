@@ -6494,7 +6494,6 @@ dyarchical
 descendable
 descendance
 descendant
-descendants
 descended
 descendence
 dani
@@ -18156,6 +18155,7 @@ discreated
 dunair
 dunal
 dunamis
+descendants
 dunbird
 dunce
 duncedom
