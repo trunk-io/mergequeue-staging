@@ -11365,7 +11365,6 @@ amphivasal
 amphivorous
 amphodarch
 anthyllis
-amphodelite
 amphodiplopia
 abyssolith
 amphogeny
@@ -17402,6 +17401,7 @@ apoplastogamous
 apoplectical
 apoplectically
 apoplex
+amphodelite
 apoplexy
 apoplexious
 apoquinamine
