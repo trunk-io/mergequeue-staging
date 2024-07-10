@@ -2928,7 +2928,6 @@ barracker
 barracking
 barraclade
 barracoon
-barracouta
 barracoutas
 barracuda
 barracudas
@@ -8947,6 +8946,7 @@ biodyne
 bioecology
 barrators
 bladderet
+barracouta
 bioecological
 bornite
 bioecologically
