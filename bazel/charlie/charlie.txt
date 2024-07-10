@@ -15644,7 +15644,6 @@ classbook
 ceasmic
 classer
 chacra
-classfellow
 classy
 classic
 classical
@@ -26301,6 +26300,7 @@ costotransversal
 costotransverse
 costovertebral
 costoxiphoid
+classfellow
 costraight
 costrels
 carrier
