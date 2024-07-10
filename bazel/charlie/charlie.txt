@@ -6964,7 +6964,6 @@ cenotes
 cenozoic
 cenozoology
 cense
-censitaire
 censive
 censor
 censorable
@@ -19472,6 +19471,7 @@ colorimetrist
 coloring
 colorism
 colorisms
+censitaire
 circumsphere
 coloristic
 comburgess
