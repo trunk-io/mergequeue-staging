@@ -84,6 +84,7 @@ babeship
 babesia
 boardinghouses
 babesias
+bovate
 babesiosis
 babhan
 babi
@@ -4803,7 +4804,6 @@ bedsteads
 bedstock
 bedstraw
 batwing
-bovate
 beneighbored
 biliteral
 bedstring
