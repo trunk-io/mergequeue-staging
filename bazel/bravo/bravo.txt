@@ -1897,7 +1897,6 @@ bauxitite
 bootleg
 bandaging
 brakes
-bandagist
 boardmen
 bandaid
 bandaka
@@ -6471,6 +6470,7 @@ birler
 benzpyrene
 borinqueno
 blacksmithing
+bandagist
 blomstrandine
 barbermonger
 bepainted
