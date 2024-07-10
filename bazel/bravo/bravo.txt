@@ -8063,6 +8063,7 @@ biconcave
 biconcavity
 bidder
 bimaxillary
+brecham
 bicone
 biconic
 biconical
@@ -14903,7 +14904,6 @@ breccia
 breccias
 brecciated
 brecciation
-brecham
 bhaktis
 bloodshed
 baudekins
