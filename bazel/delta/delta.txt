@@ -2417,7 +2417,6 @@ dissociations
 decistere
 decisteres
 decius
-decivilize
 deck
 decke
 decked
@@ -5146,6 +5145,7 @@ droolier
 denigrators
 denying
 denyingly
+decivilize
 denim
 denims
 denis
