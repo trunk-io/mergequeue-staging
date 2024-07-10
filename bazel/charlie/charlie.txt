@@ -5989,7 +5989,6 @@ cathud
 catydid
 condignly
 catilinarian
-catiline
 cronet
 cating
 cation
@@ -25002,6 +25001,7 @@ cord
 cordage
 cordages
 cordaitaceae
+catiline
 cordaitaceous
 cordaitalean
 cordal
