@@ -2566,7 +2566,6 @@ foughten
 ferrugo
 fordo
 ferruled
-ferrules
 ferrum
 ferruminate
 fruz
@@ -10546,6 +10545,7 @@ frowsiest
 frowsiness
 frowsty
 frowstier
+ferrules
 flatuous
 frowstiest
 frowze
