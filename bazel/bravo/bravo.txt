@@ -2881,7 +2881,6 @@ barosma
 barosmin
 bruta
 bain
-baroswitch
 barotactic
 barotaxis
 barothermogram
@@ -14775,6 +14774,7 @@ breadmaking
 breadman
 breadness
 breadnut
+baroswitch
 breadnuts
 breadseller
 brusque
