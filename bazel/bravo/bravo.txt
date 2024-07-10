@@ -2827,6 +2827,7 @@ baromotor
 baronage
 bespangled
 baronages
+bleachman
 baronduki
 brotherwort
 baroness
@@ -10606,7 +10607,6 @@ bleaches
 bleachground
 bleachhouse
 bleachyard
-bleachman
 bleachs
 bleachworks
 bogeyman
