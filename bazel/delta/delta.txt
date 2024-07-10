@@ -5720,7 +5720,6 @@ dag
 deplorable
 deducts
 dorsobranchiata
-deplorableness
 deplorably
 deplorate
 deploration
@@ -12837,6 +12836,7 @@ disobligation
 disobligatory
 disoblige
 disobliged
+deplorableness
 disobliger
 disobliges
 disobliging
