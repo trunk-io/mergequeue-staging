@@ -9645,6 +9645,7 @@ always
 altruist
 altruistic
 alpaca
+autonomousness
 altruists
 alts
 altumal
@@ -24276,7 +24277,6 @@ autonomous
 antenniferous
 autonomously
 achoke
-autonomousness
 autooxidation
 ablegates
 autopathy
