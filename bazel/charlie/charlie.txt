@@ -13626,7 +13626,6 @@ cylindrite
 cylindrocellular
 cylindrocephalic
 cylindrocylindric
-cylindroconical
 cylindroconoidal
 coloraturas
 cylindrodendrite
@@ -24004,6 +24003,7 @@ choloepus
 cottier
 cypress
 cicindela
+cylindroconical
 convallaria
 convallariaceae
 convallariaceous
