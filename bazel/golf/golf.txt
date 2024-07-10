@@ -1337,7 +1337,6 @@ glossography
 gonadotrope
 girdler
 gardbrace
-ganglioneuroma
 gardebras
 garden
 gardener
@@ -1708,6 +1707,7 @@ goldbug
 gastralgia
 grouselike
 gastralgic
+ganglioneuroma
 gastraneuria
 gastreas
 ghostcraft
