@@ -3758,7 +3758,6 @@ adenohypophysial
 adenoid
 adenoidal
 adenoidectomy
-adenoidectomies
 adenoidism
 adroitest
 adenoiditis
@@ -8607,6 +8606,7 @@ alkylarylsulfonate
 alkylate
 alkylated
 alkylates
+adenoidectomies
 alkylation
 alkylbenzenesulfonate
 appointed
