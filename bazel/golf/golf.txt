@@ -5809,7 +5809,6 @@ geneticist
 geminis
 glomerular
 gigglish
-glomerule
 glomerulitis
 gymnasic
 glaucous
@@ -6980,6 +6979,7 @@ generosity
 gonotocont
 gonotokont
 gonotome
+glomerule
 greenwood
 gympie
 gametocyte
