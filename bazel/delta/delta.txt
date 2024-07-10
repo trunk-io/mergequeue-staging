@@ -2518,6 +2518,7 @@ dialin
 declines
 declining
 declinograph
+disulphid
 declinometer
 declivate
 declive
@@ -14107,7 +14108,6 @@ dames
 disulfuret
 disulfuric
 disulphate
-disulphid
 decompressing
 diapyetic
 disulphide
