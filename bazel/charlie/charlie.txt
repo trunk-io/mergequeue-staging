@@ -3297,7 +3297,6 @@ caprioled
 caprioles
 caprioling
 capriote
-capripede
 capris
 caprizant
 caproate
@@ -8549,6 +8548,7 @@ chamosite
 chamotte
 champ
 coherence
+capripede
 champa
 champac
 champaca
