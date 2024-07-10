@@ -3600,6 +3600,7 @@ concelebrating
 caravanserial
 caravel
 caravelle
+corrido
 caravels
 caraway
 condignity
@@ -29755,7 +29756,6 @@ crookle
 circule
 crooklegged
 crookneck
-corrido
 crooknecked
 crooknecks
 cityfolk
