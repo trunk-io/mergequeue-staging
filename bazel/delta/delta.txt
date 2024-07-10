@@ -11443,7 +11443,6 @@ discobolus
 docity
 discocarp
 discocarpium
-discocarpous
 druses
 discocephalous
 delineations
@@ -18666,6 +18665,7 @@ displaced
 dwelt
 dwight
 dwindled
+discocarpous
 dwindlement
 dwindles
 dwindling
