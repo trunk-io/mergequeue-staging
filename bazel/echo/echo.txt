@@ -6240,7 +6240,6 @@ enqueues
 enquire
 enquired
 enquiries
-enrace
 enraged
 esemplasy
 excludible
@@ -10887,6 +10886,7 @@ eulogy
 eardrops
 endmatcher
 eulogia
+enrace
 eulogiae
 eulogic
 encephala
