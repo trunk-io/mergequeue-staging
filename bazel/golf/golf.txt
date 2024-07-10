@@ -3649,7 +3649,6 @@ gester
 greatcoats
 gestes
 glunch
-gestic
 gesticular
 garshuni
 gesticulated
@@ -6055,6 +6054,7 @@ gloweringly
 glowfly
 glowingly
 gynandromorph
+gestic
 glows
 gnetums
 glowworms

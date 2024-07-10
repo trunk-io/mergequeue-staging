@@ -10297,7 +10297,6 @@ chiarooscurist
 chiaroscuro
 carve
 codens
-chias
 chiasma
 chiasmal
 chiasmas
@@ -15031,6 +15030,7 @@ cytophil
 cytophilic
 carets
 cytophysics
+chias
 cozens
 clinandrium
 crink
