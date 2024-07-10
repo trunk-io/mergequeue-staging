@@ -4652,7 +4652,6 @@ bints
 bedgery
 bedgoer
 bedgown
-bedgowns
 bediademed
 bediaper
 bediapered
@@ -10339,6 +10338,7 @@ blandished
 blossomry
 blandishing
 blandishingly
+bedgowns
 blandishments
 blandly
 blandness
