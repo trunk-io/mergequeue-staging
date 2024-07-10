@@ -9683,7 +9683,6 @@ alumbloom
 austerity
 alumbrado
 appartement
-alumetize
 alumian
 alumic
 alumiferous
@@ -12190,6 +12189,7 @@ anatomicopathologic
 anatomicophysiologic
 ambidextral
 anatomicophysiological
+alumetize
 anatomicosurgical
 anatomies
 anatomisation

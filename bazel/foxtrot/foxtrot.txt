@@ -7718,7 +7718,6 @@ foreknows
 festoons
 forelady
 foreladies
-forelay
 forelaying
 figary
 fleuretty
@@ -10233,6 +10232,7 @@ frizzily
 forepaling
 frenum
 frizziness
+forelay
 fastigious
 frostfish
 feudum
