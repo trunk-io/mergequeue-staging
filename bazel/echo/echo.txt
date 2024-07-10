@@ -847,7 +847,6 @@ ecthlipses
 ectype
 ectypes
 ectoblast
-episodal
 ectoblastic
 ectobronchium
 ectocardia
@@ -13678,6 +13677,7 @@ extima
 expressness
 extinct
 extincted
+episodal
 elect
 extincteur
 egyptians
