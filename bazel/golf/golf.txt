@@ -1475,7 +1475,6 @@ garnett
 garnetter
 garniec
 garnierite
-garnishable
 garnished
 garnishee
 garnishees
@@ -8410,6 +8409,7 @@ gratuitous
 gneissitic
 gratuitously
 gemote
+garnishable
 gratuitousness
 glim
 gamecock
