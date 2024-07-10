@@ -1254,7 +1254,6 @@ extorters
 eellike
 eternal
 expurgation
-eelpout
 eelpouts
 extensive
 endothelium
@@ -3996,6 +3995,7 @@ ecchymotic
 emodin
 emodins
 emollescence
+eelpout
 emolliate
 emollience
 emollition
