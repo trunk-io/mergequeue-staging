@@ -716,6 +716,7 @@ ecoclimate
 empery
 exospheric
 evanescent
+enshade
 epipodia
 ecodeme
 effusive
@@ -6212,7 +6213,6 @@ enviroment
 epimorphic
 enosist
 enough
-enshade
 endogonidium
 erugatory
 enoughs
