@@ -2352,7 +2352,6 @@ deciles
 decylic
 diffusion
 deciliter
-daywrit
 deciliters
 decilitre
 dynametrical
@@ -10791,6 +10790,7 @@ dircaean
 dendrology
 decempeda
 dird
+daywrit
 daturas
 dirdum
 dirdums
