@@ -7028,6 +7028,7 @@ besmouch
 bows
 besmudge
 besmudges
+bunkos
 besmudging
 besweeten
 besmut
@@ -7127,7 +7128,6 @@ blowy
 bespring
 billyo
 besprinkle
-bunkos
 besprinkler
 besprinkles
 besprizorni
