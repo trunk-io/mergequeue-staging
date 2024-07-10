@@ -464,6 +464,7 @@ fusain
 faking
 fakir
 fakofo
+fiberfill
 falafel
 falange
 falasha
@@ -7907,7 +7908,6 @@ foreshadower
 foreshadowing
 fringilline
 fingery
-fiberfill
 flagging
 foreshaft
 foreshank

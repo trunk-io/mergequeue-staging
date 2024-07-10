@@ -1493,7 +1493,6 @@ accendibility
 apartado
 accendible
 agelaius
-accension
 accensor
 accent
 accented
@@ -16223,6 +16222,7 @@ antiscolic
 antiscorbutic
 anemophilous
 antiscorbutical
+accension
 antiscriptural
 antiscripturism
 antiseismic
