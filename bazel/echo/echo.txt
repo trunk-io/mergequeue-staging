@@ -5238,7 +5238,6 @@ endometry
 entocuniform
 endopod
 endometria
-endometrial
 endometriosis
 endometritis
 endomycetaceae
@@ -8358,6 +8357,7 @@ erer
 endofaradism
 exosporous
 epithelialize
+endometrial
 ejectives
 engild
 exacerbations
