@@ -5779,7 +5779,6 @@ categorem
 categorematic
 categorematical
 category
-categorial
 concaulescence
 categorical
 categories
@@ -12476,6 +12475,7 @@ chalukya
 cyanohermidin
 cnidophobia
 chromatoplasm
+categorial
 clinkery
 chromatopsia
 ccesser
