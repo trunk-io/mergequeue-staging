@@ -2923,7 +2923,6 @@ dedit
 deditician
 dediticiancy
 dedoggerelize
-dedogmatize
 dedolation
 dedolence
 dedolency
@@ -16868,6 +16867,7 @@ dreadable
 dubiocrystalline
 dreaded
 dreader
+dedogmatize
 digladiation
 despairingness
 decrassify
