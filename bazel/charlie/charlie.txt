@@ -11939,7 +11939,6 @@ cabiri
 chordate
 coenoblast
 chordates
-chorded
 choriso
 chordeiles
 coronaries
@@ -13738,6 +13737,7 @@ cimicide
 cimiciform
 cimicifuga
 cimicifugin
+chorded
 circumvoisin
 cimier
 cymiferous
