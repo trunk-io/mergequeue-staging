@@ -1626,7 +1626,6 @@ deaminating
 durango
 deamination
 deaminization
-deaminize
 deaminized
 deaminizing
 deammonation
@@ -8411,6 +8410,7 @@ dialogued
 dialogues
 dialoguing
 dialonian
+deaminize
 dials
 dialup
 dialuric

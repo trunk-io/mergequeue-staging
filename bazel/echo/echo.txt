@@ -13586,7 +13586,6 @@ endorsements
 emberizine
 extensiveness
 empathizing
-extensivity
 extensometer
 excess
 extensor
@@ -13660,6 +13659,7 @@ externals
 electrostereotype
 externat
 effectiveness
+extensivity
 epitrochoidal
 externes
 externization
