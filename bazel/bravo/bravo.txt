@@ -1176,7 +1176,6 @@ burkers
 brawlingly
 baize
 baized
-baizes
 baizing
 bern
 bajan
@@ -5160,6 +5159,7 @@ befurred
 bicondylar
 begabled
 begalled
+baizes
 baptized
 begalling
 backsight
