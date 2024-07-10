@@ -10903,7 +10903,6 @@ ammoniureted
 ammoniuria
 ammonization
 ammono
-ammonobasic
 ammonocarbonic
 ammonocarbonous
 ammonoid
@@ -16479,6 +16478,7 @@ avodires
 antivenomous
 antivibrating
 antivibrator
+ammonobasic
 antivibratory
 antivice
 antivirotic
