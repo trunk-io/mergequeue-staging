@@ -5014,7 +5014,6 @@ aerobious
 aerobium
 aeroboat
 aerobranchia
-aerobranchiate
 aerobus
 aerocamera
 aerocartograph
@@ -20612,6 +20611,7 @@ arthroendoscopy
 arthrogastra
 arthrogastran
 arthrogenous
+aerobranchiate
 ammeter
 antarala
 arthrography

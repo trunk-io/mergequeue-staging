@@ -2830,7 +2830,6 @@ eleutherophobia
 emblazoning
 enantiopathia
 eleutherozoa
-eleutherozoan
 encydlopaedic
 elev
 elevate
@@ -5804,6 +5803,7 @@ epsilons
 engraffed
 engraft
 engrafted
+eleutherozoan
 engrafter
 engrafting
 electorally
