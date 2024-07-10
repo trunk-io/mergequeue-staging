@@ -9187,7 +9187,6 @@ burdeners
 biostratigraphy
 biostrome
 biota
-biotas
 baryes
 biotaxy
 biotech
@@ -13572,6 +13571,7 @@ bounty
 bountied
 bountiful
 bountifully
+biotas
 bountifulness
 bountyless
 baxtone
