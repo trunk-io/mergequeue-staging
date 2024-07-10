@@ -918,6 +918,7 @@ abscam
 abscessed
 abscessing
 abscession
+autodetector
 airdrops
 abscind
 acanthocephali
@@ -24020,7 +24021,6 @@ autodepolymerization
 autodermic
 autodestruction
 analcimes
-autodetector
 autodiagnosis
 autodiagnostic
 arcubos
