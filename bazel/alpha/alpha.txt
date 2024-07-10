@@ -14818,7 +14818,6 @@ aggrandized
 antiaircraft
 antialbumid
 antialbumin
-antialbumose
 antialcoholic
 antialcoholist
 antialdoxime
@@ -18522,6 +18521,7 @@ arbacia
 arbacin
 arbalest
 arbalester
+antialbumose
 antiresonance
 arbalestre
 arbalestrier
