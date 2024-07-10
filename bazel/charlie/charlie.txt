@@ -11259,7 +11259,6 @@ chloramide
 counterculturist
 contorsion
 chloramin
-centroid
 chloramine
 chloramphenicol
 chiffre
@@ -14528,6 +14527,7 @@ circumvolutory
 contextive
 circumvolve
 circumvolved
+centroid
 circumvolving
 circumzenithal
 circus
