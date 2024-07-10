@@ -6410,7 +6410,6 @@ benzoline
 benzolize
 benzols
 benzonaphthol
-bonds
 bedded
 benzonitrile
 benzonitrol
@@ -11144,6 +11143,7 @@ blooey
 blooie
 bloomage
 bram
+bonds
 brachydome
 belief
 bloomer
