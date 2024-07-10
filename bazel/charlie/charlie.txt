@@ -11773,7 +11773,6 @@ chondroangioma
 chondroarthritis
 chondroblastoma
 chondrocarcinoma
-chondrocyte
 chondrocoracoid
 chondrocostal
 chondrocranial
@@ -26339,6 +26338,7 @@ cosufferer
 cosuretyship
 cosustain
 coswearer
+chondrocyte
 cot
 cotabulate
 cotan
