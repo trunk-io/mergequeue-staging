@@ -2861,6 +2861,7 @@ burry
 byspell
 bewilders
 baronize
+beliefful
 baronized
 baronry
 briggs
@@ -5657,7 +5658,6 @@ brassicaceous
 belie
 belied
 baulea
-beliefful
 belieffulness
 beliefless
 belier
