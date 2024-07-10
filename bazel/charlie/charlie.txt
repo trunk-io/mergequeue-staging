@@ -1320,7 +1320,6 @@ calymene
 calimeris
 calymma
 calin
-calina
 calinago
 cops
 clochards
@@ -21830,6 +21829,7 @@ chrysomonad
 conductorial
 conductorless
 conductorship
+calina
 conducts
 conductus
 condue

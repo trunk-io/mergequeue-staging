@@ -4556,6 +4556,7 @@ frore
 fixtureless
 fictively
 farming
+footslog
 fixup
 forwarding
 fixups
@@ -7185,7 +7186,6 @@ fletcher
 fennoman
 footsies
 floodway
-footslog
 footslogged
 footslogger
 footslogging
