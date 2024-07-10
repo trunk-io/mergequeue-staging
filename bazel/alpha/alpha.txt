@@ -11449,7 +11449,6 @@ ampullar
 ampullary
 anselmian
 ampullaria
-aclinic
 ampullariidae
 ampullate
 ampullated
@@ -22039,6 +22038,7 @@ armures
 aldehydic
 asterikos
 asterina
+aclinic
 asterinidae
 asterioid
 annerodite
