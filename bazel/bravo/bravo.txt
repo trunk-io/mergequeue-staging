@@ -6661,7 +6661,6 @@ bathymetrically
 berghaan
 bergy
 berginize
-berglet
 bergman
 bergmannite
 bergomask
@@ -11264,6 +11263,7 @@ blowlamp
 blown
 bookrack
 ballow
+berglet
 boychicks
 blowout
 blowouts
