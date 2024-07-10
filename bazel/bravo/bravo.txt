@@ -2564,7 +2564,6 @@ breakshugh
 barfly
 barflies
 barfs
-barful
 bargain
 bargainable
 bargained
@@ -3287,6 +3286,7 @@ basilicalike
 basilicas
 bluewoods
 basilicate
+barful
 basilicock
 brotula
 basilics
