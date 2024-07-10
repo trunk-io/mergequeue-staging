@@ -146,7 +146,6 @@ enabled
 eartag
 eartagged
 earth
-exudes
 earthboard
 expostulatively
 earthbound
@@ -839,6 +838,7 @@ equinumerally
 ecteron
 ectethmoid
 ectethmoidal
+exudes
 ecthesis
 ecthetically
 enclose
