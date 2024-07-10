@@ -4197,6 +4197,7 @@ cargadores
 cargason
 cargo
 colewort
+clangor
 cargoes
 cargoose
 cargos
@@ -15460,7 +15461,6 @@ clavicittern
 clangful
 clanging
 cattle
-clangor
 clangored
 clangoring
 clangorous
