@@ -7616,7 +7616,6 @@ deviable
 dyadics
 deviance
 deviances
-dsnames
 dominions
 doggrelize
 deviancy
@@ -12047,6 +12046,7 @@ disentangled
 disentanglement
 disentangler
 disarchbishop
+dsnames
 disentangling
 domineers
 disenter
