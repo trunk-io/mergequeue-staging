@@ -6359,6 +6359,7 @@ cavallies
 cavalry
 cavalries
 cavalryman
+convulsiveness
 cavalrymen
 cavascope
 cavate
@@ -24287,7 +24288,6 @@ conveyance
 chaka
 convulsions
 convulsive
-convulsiveness
 coo
 cooba
 coobah
