@@ -2936,7 +2936,6 @@ abying
 acrodermatitis
 acrodont
 acrodontism
-acrodonts
 appositional
 acrodrome
 acrodromous
@@ -19475,6 +19474,7 @@ argentinize
 argentino
 argention
 argentol
+acrodonts
 argentometry
 argentometric
 argentometrically
