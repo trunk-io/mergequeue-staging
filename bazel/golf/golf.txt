@@ -4509,7 +4509,6 @@ ginglymodi
 ginglymoid
 guildsmen
 gravic
-gyroceras
 ginglymostoma
 ginglymostomoid
 granny
@@ -7625,6 +7624,7 @@ gracilaria
 gracilariidae
 graciles
 gracility
+gyroceras
 gracing
 graciosity
 gracioso
