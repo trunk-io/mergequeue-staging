@@ -1928,7 +1928,6 @@ bander
 banderilla
 banderilleros
 banderlog
-bywalking
 blamability
 balearic
 boubou
@@ -7855,6 +7854,7 @@ biskop
 benzophenanthroline
 bibliognostic
 bibliogony
+bywalking
 baggiest
 bibliograph
 bibliographers
