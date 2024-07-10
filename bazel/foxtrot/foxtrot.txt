@@ -398,6 +398,7 @@ fraxin
 fixers
 fairily
 fairing
+fluencies
 fairings
 felup
 fairyologist
@@ -6207,7 +6208,6 @@ failures
 flatiron
 fishtail
 fluency
-fluencies
 fluently
 felones
 fluentness
