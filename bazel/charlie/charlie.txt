@@ -4030,6 +4030,7 @@ cardiologists
 cardiomalacia
 cardiomegaly
 cardiomelanosis
+cataractine
 cardiometer
 cardiomyoliposis
 cardiomyomalacia
@@ -5621,7 +5622,6 @@ catapults
 cataract
 cataracted
 cataracteg
-cataractine
 cataracts
 cephalophorous
 cataractwise

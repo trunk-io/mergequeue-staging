@@ -3207,7 +3207,6 @@ eranthis
 evocative
 esphresis
 elution
-elutriated
 elutriating
 elutriation
 elutriator
@@ -9769,6 +9768,7 @@ espadrilles
 espagnole
 espagnolette
 elops
+elutriated
 euryalida
 eupterotidae
 emigrative
