@@ -6298,6 +6298,7 @@ caustify
 caustification
 caustified
 caustifying
+cutline
 cautel
 cautela
 cautelously
@@ -14003,7 +14004,6 @@ cinnamic
 cinnamyl
 cinnamylidene
 cinnamodendron
-cutline
 cinnamoyl
 cinnamol
 cinnamomic
