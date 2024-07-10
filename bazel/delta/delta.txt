@@ -6491,7 +6491,6 @@ descendants
 descended
 descendence
 dani
-descendent
 descendentalist
 demigoddess
 descendents
@@ -9694,6 +9693,7 @@ dishorner
 devilling
 dilacerated
 dilacerating
+descendent
 dikaryotic
 dilaceration
 diobolon
