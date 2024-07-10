@@ -570,7 +570,6 @@ echinidea
 echiniform
 echinite
 echinocactus
-echinocaris
 echinocereus
 echinochrome
 echinococcosis
@@ -2336,6 +2335,7 @@ electrocataphoresis
 electrocataphoretic
 enneacontahedral
 electrocautery
+echinocaris
 emmensite
 electrodispersive
 electrochemical
