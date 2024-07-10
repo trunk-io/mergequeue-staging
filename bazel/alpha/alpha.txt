@@ -17174,7 +17174,6 @@ apocarps
 apocatastasis
 apocatastatic
 apocatharsis
-apocathartic
 apocentre
 apocentric
 apocentricity
@@ -18142,6 +18141,7 @@ aleukemic
 autoelectrolytic
 alveolonasal
 apteran
+apocathartic
 apteria
 anis
 apteryges
