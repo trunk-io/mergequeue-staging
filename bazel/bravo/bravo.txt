@@ -5783,7 +5783,6 @@ bellite
 blancs
 bellmaker
 biliverdin
-bellmaking
 bimillenium
 bellman
 bellmanship
@@ -15324,6 +15323,7 @@ brigue
 basifiers
 bibelot
 briguing
+bellmaking
 brill
 brillante
 brilliance
