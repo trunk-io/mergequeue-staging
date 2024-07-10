@@ -5146,6 +5146,7 @@ glamorousness
 glamors
 groundsheet
 governesshood
+glucosemia
 guardianess
 glamoured
 glamouring
@@ -6114,7 +6115,6 @@ goback
 glucosamine
 glucosazone
 glucose
-glucosemia
 glucosid
 glucosidal
 glucosidase
