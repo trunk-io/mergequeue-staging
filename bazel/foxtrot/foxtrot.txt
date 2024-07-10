@@ -4368,6 +4368,7 @@ fishworm
 fisk
 firmware
 fisnoga
+figureless
 fissate
 frostbiting
 fissidactyl
@@ -7780,7 +7781,6 @@ forensic
 forensical
 forensicality
 forensically
-figureless
 forensics
 foreordainment
 foreordainments
