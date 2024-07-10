@@ -8764,6 +8764,7 @@ equiproportional
 equiproportionality
 equips
 equipt
+expectoration
 equiradial
 equiradiate
 equiseta
@@ -12969,7 +12970,6 @@ eyebath
 expectorated
 enbibe
 expectorating
-expectoration
 eumenidae
 expectorations
 expectorative
