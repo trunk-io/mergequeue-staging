@@ -5739,7 +5739,6 @@ catclaw
 catdom
 cacoepistic
 catechesis
-catechetic
 congenator
 catechetical
 catechetically
@@ -9843,6 +9842,7 @@ chelys
 chellean
 crenae
 chello
+catechetic
 chelodina
 chelodine
 cheloids
