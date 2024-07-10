@@ -9634,6 +9634,7 @@ esd
 effluve
 eccentrate
 esdragol
+exhaustive
 esebrias
 evangelised
 esemplastic
@@ -12478,7 +12479,6 @@ engrossment
 exhaustibility
 exhaustion
 ethnize
-exhaustive
 exhaustiveness
 exhaustivity
 exhaustless
