@@ -2210,7 +2210,6 @@ banter
 bakshishes
 banterers
 bantery
-banteringly
 banters
 bantin
 bilos
@@ -3284,6 +3283,7 @@ basilic
 basilica
 basilical
 brandish
+banteringly
 basilicalike
 basilicas
 bluewoods
