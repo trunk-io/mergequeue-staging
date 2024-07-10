@@ -22578,7 +22578,6 @@ conkers
 conky
 conking
 conks
-conli
 conn
 coaevals
 connach
@@ -25975,6 +25974,7 @@ corv
 corve
 corvee
 corvees
+conli
 commesso
 corver
 corves
