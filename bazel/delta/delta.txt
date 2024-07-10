@@ -14979,7 +14979,6 @@ doges
 dogeship
 dogface
 desilicating
-dogfall
 dogfighting
 dogfights
 dogfishes
@@ -15808,6 +15807,7 @@ dorsalward
 dissever
 dorse
 dorsers
+dogfall
 dorsi
 dorsibranch
 defensible
