@@ -1922,6 +1922,7 @@ bandelet
 bandelette
 bowlful
 beanies
+ballote
 bander
 banderilla
 banderilleros
@@ -2191,7 +2192,6 @@ basenet
 banqueted
 banqueting
 banquets
-ballote
 banquo
 bans
 bansalague
