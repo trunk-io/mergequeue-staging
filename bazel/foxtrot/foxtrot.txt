@@ -3635,6 +3635,7 @@ fortieths
 filmable
 fritillary
 filmcard
+famine
 filmcards
 furoin
 fleeching
@@ -5341,7 +5342,6 @@ flemings
 fluviomarine
 flemish
 flenched
-famine
 frontispieces
 flensed
 frangulin
