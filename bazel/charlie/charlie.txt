@@ -3870,7 +3870,6 @@ carchariid
 carchariidae
 carcharioid
 catogene
-carcharodon
 congredient
 carcharodont
 carcinemia
@@ -28261,6 +28260,7 @@ craspedota
 craspedotal
 craspedum
 crassament
+carcharodon
 crassamentum
 crasser
 crassest
