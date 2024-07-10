@@ -5626,7 +5626,6 @@ gospelize
 glisk
 glisky
 glissader
-glissades
 glissando
 gybe
 gowning
@@ -7953,6 +7952,7 @@ gemshorn
 grandfatherless
 gruft
 gear
+glissades
 gritten
 grandfathers
 gondoliers
