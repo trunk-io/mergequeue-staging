@@ -708,7 +708,6 @@ clearskins
 cahows
 cahuilla
 conning
-cahuita
 copilots
 cai
 cay
@@ -28996,6 +28995,7 @@ criddle
 cried
 criey
 criers
+cahuita
 cries
 cryesthesia
 cullible
