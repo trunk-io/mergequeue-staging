@@ -5227,6 +5227,7 @@ endolymphic
 endolysin
 endome
 echinostomiasis
+exits
 endomesoderm
 endometry
 entocuniform
@@ -6507,7 +6508,6 @@ ensweep
 ensweeten
 evenlight
 entablature
-exits
 emigrations
 emigrated
 entablements
