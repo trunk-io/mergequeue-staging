@@ -6785,6 +6785,7 @@ debone
 demiplacate
 desmidian
 desmidiology
+dtd
 definitional
 desmidiologist
 desmids
@@ -17678,7 +17679,6 @@ dsp
 dsr
 dsri
 dt
-dtd
 dtente
 dtset
 du
