@@ -5583,7 +5583,6 @@ beldame
 beldames
 beldams
 beldamship
-beleaf
 bombazeen
 bodgie
 beleaguered
@@ -6034,6 +6033,7 @@ boothes
 benami
 benamidar
 benasty
+beleaf
 bench
 benchboard
 blachong
