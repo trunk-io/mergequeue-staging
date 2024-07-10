@@ -4121,7 +4121,6 @@ forfar
 firelit
 firelock
 finishers
-firelocks
 flyblow
 fortissimo
 fetterless
@@ -7047,6 +7046,7 @@ foodstuffs
 foofaraw
 figged
 fooyoung
+firelocks
 fool
 flamandization
 foolable

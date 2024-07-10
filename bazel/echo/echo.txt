@@ -3082,7 +3082,6 @@ extralateral
 elocation
 emmarbled
 elocular
-ecotipically
 elocute
 elocutionist
 elod
@@ -12885,6 +12884,7 @@ exotropia
 engross
 erosionally
 exotropism
+ecotipically
 exp
 expand
 expandable
