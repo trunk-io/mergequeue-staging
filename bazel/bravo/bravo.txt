@@ -5304,6 +5304,7 @@ beguilement
 beguilements
 beguiler
 beguilers
+burrio
 beguiles
 beguiling
 beadsman
@@ -12984,7 +12985,6 @@ bryndza
 bordermark
 backstitch
 barristerial
-burrio
 bordman
 bordrag
 bordroom
