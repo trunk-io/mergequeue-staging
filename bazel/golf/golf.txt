@@ -1003,6 +1003,7 @@ ganoid
 gammed
 genospecies
 gammelost
+glunch
 gammers
 gamelote
 gammy
@@ -3644,7 +3645,6 @@ gastroxynsis
 gester
 greatcoats
 gestes
-glunch
 gestic
 gesticular
 garshuni
