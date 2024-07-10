@@ -5633,7 +5633,6 @@ glissader
 glissades
 glissando
 gybe
-gowning
 grapeless
 gebur
 gubbin
@@ -6235,6 +6234,7 @@ glutter
 gluttery
 glutting
 gluttingly
+gowning
 glutton
 gluttoness
 girlery
