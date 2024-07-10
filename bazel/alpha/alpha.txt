@@ -360,7 +360,6 @@ aploperistomatous
 aberrants
 aberrate
 aberrated
-aberrating
 aberration
 aberrational
 aberrations
@@ -16623,6 +16622,7 @@ ao
 aob
 aogiri
 atmid
+aberrating
 aoife
 aonach
 aonian
