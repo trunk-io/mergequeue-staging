@@ -5162,7 +5162,6 @@ endocrin
 equilibrations
 ember
 ensembles
-endocrinal
 enteradenography
 emphrensy
 endocrines
@@ -9114,6 +9113,7 @@ electro
 erythrean
 erythremia
 erythrina
+endocrinal
 erythrinidae
 erythrinus
 erythrism
