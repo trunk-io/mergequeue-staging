@@ -4311,7 +4311,6 @@ caryophyllus
 caryopilite
 caryopsides
 caryopsis
-caryota
 caryotin
 carboxyhemoglobin
 caryotins
@@ -31713,6 +31712,7 @@ custody
 custodia
 connivances
 custodial
+caryota
 custodian
 custodianship
 custodier
