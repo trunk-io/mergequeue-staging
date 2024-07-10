@@ -7266,7 +7266,6 @@ enwreathed
 enwreathing
 enwwove
 euphonym
-eyepit
 enwwoven
 enzygotic
 explat
@@ -7627,6 +7626,7 @@ empatron
 epicheiremata
 emusify
 epichil
+eyepit
 epichile
 epichilia
 epibolies
