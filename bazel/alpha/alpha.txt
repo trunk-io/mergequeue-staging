@@ -10711,6 +10711,7 @@ amynodon
 amynodont
 antiacid
 aminoformic
+atropisms
 antilocapra
 aminogen
 aminoglutaric
@@ -22924,7 +22925,6 @@ atropin
 atropines
 atropinization
 atropins
-atropisms
 atropos
 atrorubent
 atrosanguineous
