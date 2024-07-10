@@ -2502,7 +2502,6 @@ electromerism
 electrometallurgical
 electrometer
 enage
-electrometrical
 electromyogram
 electromyograph
 ectoenzyme
@@ -13172,6 +13171,7 @@ eschewers
 eschewed
 entheos
 expiscator
+electrometrical
 expiscatory
 explain
 enumerable
