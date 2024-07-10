@@ -7065,7 +7065,6 @@ destructible
 destructibleness
 destructing
 destruction
-defacement
 destructionist
 destructions
 destructive
@@ -16675,6 +16674,7 @@ donating
 dichroiscopic
 drainboard
 drainer
+defacement
 drainerman
 disulfonic
 drainfield
