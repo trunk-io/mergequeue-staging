@@ -1724,7 +1724,6 @@ feaster
 flashflood
 feasters
 feastfully
-fubsy
 fortressed
 feastly
 feastraw
@@ -9108,6 +9107,7 @@ foziness
 faddier
 frithsoken
 fp
+fubsy
 fplot
 fiendship
 fibrocartilaginous
