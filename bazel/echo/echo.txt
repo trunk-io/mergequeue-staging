@@ -3059,7 +3059,6 @@ ellipsoidal
 entoproctous
 ellipsone
 ellipsonic
-elliptical
 ellipticalness
 ellipticity
 elliptograph
@@ -6948,6 +6947,7 @@ els
 entophytal
 entophytic
 entoplasm
+elliptical
 entoplastron
 entopopliteal
 entoprocta
