@@ -3785,7 +3785,6 @@ embus
 exprobate
 erie
 embush
-embusy
 embusk
 embusqu
 erythroxyline
@@ -5907,6 +5906,7 @@ evilhearted
 exhaustlessly
 extratellurian
 erinaceus
+embusy
 enneastylar
 enheritance
 enhydra
