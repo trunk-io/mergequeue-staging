@@ -4734,7 +4734,6 @@ encinillo
 ergometer
 elkhorn
 extroverted
-ethnobotanical
 emforth
 encipher
 enciphered
@@ -13609,6 +13608,7 @@ eventuate
 extenuative
 extenuator
 extenuatory
+ethnobotanical
 exter
 exterior
 escrows
