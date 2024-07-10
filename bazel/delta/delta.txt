@@ -1227,7 +1227,6 @@ datchas
 datebook
 datedly
 datedness
-dateless
 datelessness
 dateline
 datelined
@@ -6421,6 +6420,7 @@ disruptionist
 doorways
 derride
 derriere
+dateless
 decree
 dispersedly
 dakotans
