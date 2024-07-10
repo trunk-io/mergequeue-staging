@@ -3002,7 +3002,6 @@ fibrocyte
 fibrocytic
 fibrocrystalline
 fibroelastic
-fibroenchondroma
 fibroferrite
 fibroglioma
 frying
@@ -9921,6 +9920,7 @@ fricandeaux
 fricandel
 featureless
 fishhook
+fibroenchondroma
 fricando
 fricassee
 fungistatic
