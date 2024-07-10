@@ -2270,7 +2270,6 @@ bobbiner
 baragouin
 baraita
 barajillo
-barging
 baralipton
 baramika
 barangay
@@ -17477,6 +17476,7 @@ bunuelo
 buoy
 borid
 buoyages
+barging
 buoyance
 bipinnatiparted
 buoyant

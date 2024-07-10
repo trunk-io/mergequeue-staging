@@ -6830,7 +6830,6 @@ foldskirt
 foldwards
 freelage
 foreplanting
-fole
 foleye
 feerie
 formulations
@@ -10001,6 +10000,7 @@ frighteningness
 frightens
 frighter
 frightfully
+fole
 frightfulness
 frighty
 frighting
