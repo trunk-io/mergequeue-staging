@@ -4858,7 +4858,6 @@ events
 encoronate
 encounterable
 encountered
-enfortune
 emoters
 entitlement
 egotism
@@ -5494,6 +5493,7 @@ enduros
 endwise
 eneas
 enecate
+enfortune
 except
 ebullient
 ehrman
