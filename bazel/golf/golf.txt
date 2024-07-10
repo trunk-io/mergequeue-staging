@@ -193,7 +193,6 @@ gaggery
 goric
 gaggers
 gagging
-gaggle
 gaggles
 gaging
 gagman
@@ -5058,6 +5057,7 @@ gard
 gomphosis
 gladiator
 gladiatory
+gaggle
 gelatinize
 gladiators
 ginhound
