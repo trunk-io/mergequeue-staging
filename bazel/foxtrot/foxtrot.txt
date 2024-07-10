@@ -2490,7 +2490,6 @@ ferrihydrocyanic
 ferryhouse
 ferrimagnet
 forewing
-ferrimagnetic
 footbath
 forkedly
 ferrimagnetism
@@ -10612,6 +10611,7 @@ frugiferous
 frugiferousness
 floccular
 frugivora
+ferrimagnetic
 frugivorous
 frugs
 fruit
