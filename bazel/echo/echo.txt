@@ -5252,7 +5252,6 @@ endomorph
 endomorphic
 endomorphism
 endonuclear
-endonuclease
 endonucleolus
 endoparasitica
 exhilaration
@@ -11624,6 +11623,7 @@ evilly
 erbium
 equanimousness
 ethereous
+endonuclease
 evils
 evilspeaker
 evilspeaking
