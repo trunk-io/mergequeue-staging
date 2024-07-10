@@ -1549,7 +1549,6 @@ gilders
 grothine
 gregorianize
 garth
-garths
 garum
 grocerdom
 garvance
@@ -3687,6 +3686,7 @@ getae
 glycolide
 getas
 gluttei
+garths
 getatable
 giansar
 getatableness
