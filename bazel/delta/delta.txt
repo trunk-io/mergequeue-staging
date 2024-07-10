@@ -3552,7 +3552,6 @@ degassed
 degassers
 degasses
 degassing
-degauss
 degaussing
 dollardom
 degelatinize
@@ -16516,6 +16515,7 @@ dephlegmated
 dracocephalum
 dracone
 draconian
+degauss
 draconianism
 draconid
 draconin
