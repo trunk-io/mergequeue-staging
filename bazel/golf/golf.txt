@@ -3369,7 +3369,6 @@ gerefa
 gerenda
 gerendum
 guardiancy
-gluts
 gerent
 gerenuks
 gyral
@@ -5106,6 +5105,7 @@ grivois
 glaieul
 glaik
 grammaticalness
+gluts
 gracilariid
 gavotted
 glaiketness
