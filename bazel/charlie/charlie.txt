@@ -8883,6 +8883,7 @@ commentaries
 chappie
 chappies
 chappin
+changer
 chapping
 chappow
 chaprasi
@@ -20120,7 +20121,6 @@ commerceless
 commercer
 cithren
 commerces
-changer
 cenosity
 commercial
 commercialisation

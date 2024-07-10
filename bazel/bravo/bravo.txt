@@ -5800,7 +5800,6 @@ blennostasis
 bellona
 bellonion
 belloot
-bellota
 bellote
 bellovaci
 boxcar
@@ -12229,6 +12228,7 @@ breakwaters
 boltant
 blendcorn
 boltcutter
+bellota
 bodysurfed
 bolted
 bajardo
