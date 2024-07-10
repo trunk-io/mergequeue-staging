@@ -384,6 +384,7 @@ agacerie
 abfarad
 abfarads
 abhenry
+alkahestica
 abhenries
 abhenrys
 abhinaya
@@ -8501,7 +8502,6 @@ aljofaina
 alk
 alkahest
 alkahestic
-alkahestica
 alkahestical
 alkahests
 anhematopoiesis
