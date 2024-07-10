@@ -3282,7 +3282,6 @@ caprylin
 cetraria
 caprylone
 caprimulgi
-caprimulgidae
 ceroma
 caprimulgiformes
 caprimulgine
@@ -19719,6 +19718,7 @@ comarca
 calorimetrically
 comart
 comarum
+caprimulgidae
 comas
 comate
 comates
