@@ -4968,7 +4968,6 @@ dishonourary
 dutchmen
 dename
 denar
-denari
 deriders
 denaries
 dipmeter
@@ -16193,6 +16192,7 @@ doolees
 doveling
 discepting
 dovening
+denari
 dovens
 doddy
 debating
