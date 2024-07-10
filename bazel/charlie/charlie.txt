@@ -10302,7 +10302,6 @@ chiasms
 chiastic
 chiastoneural
 chiastoneury
-chiastoneurous
 chiaus
 chiauses
 choragic
@@ -22452,6 +22451,7 @@ conines
 charases
 conynge
 coninidia
+chiastoneurous
 coniogramme
 coniology
 coniomycetes
