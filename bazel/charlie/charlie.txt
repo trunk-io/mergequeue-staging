@@ -9051,7 +9051,6 @@ cougar
 chariot
 compotator
 charioted
-chariotee
 charioteer
 charioteers
 circovarian
@@ -20550,6 +20549,7 @@ compassability
 compassed
 compasses
 compassing
+chariotee
 compassion
 compassionable
 compassionate

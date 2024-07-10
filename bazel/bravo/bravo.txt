@@ -3337,7 +3337,6 @@ basipterygium
 bookings
 bisks
 blindless
-basipterygoid
 basiradial
 basirostral
 biserrate
@@ -17604,6 +17603,7 @@ brightwork
 burgensic
 burgeon
 burgeoned
+basipterygoid
 burgeoning
 burger
 burgers
