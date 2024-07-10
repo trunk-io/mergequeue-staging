@@ -376,7 +376,6 @@ gangboard
 galago
 galagos
 galahad
-gnotobiotic
 galanas
 galangals
 gynaecoid
@@ -6822,6 +6821,7 @@ gondite
 gondolas
 gondoletta
 gondolier
+gnotobiotic
 gringo
 gurrah
 gone

@@ -3095,6 +3095,7 @@ capita
 curvilinearity
 capital
 capitaled
+conferrer
 capitaling
 capitalisable
 capitalised
@@ -21936,7 +21937,6 @@ conferral
 conferred
 conferree
 conferrence
-conferrer
 cainogenesis
 conferrers
 conferring
