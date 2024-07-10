@@ -6771,7 +6771,6 @@ endolithic
 educationally
 enthralled
 enthralling
-enthrallment
 enthrallments
 enthralls
 enthralment
@@ -13217,6 +13216,7 @@ explicated
 explications
 exudate
 explicative
+enthrallment
 exhilarated
 endothelioid
 explicatively
