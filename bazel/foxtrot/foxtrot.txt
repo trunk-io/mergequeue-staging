@@ -5520,7 +5520,6 @@ flightless
 forepassed
 flights
 flightshot
-flying
 flyings
 flyleaf
 frivolizing
@@ -6265,6 +6264,7 @@ fluidised
 fallal
 fluidises
 fluidising
+flying
 furfurans
 fluidism
 flittered
