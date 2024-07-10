@@ -2388,6 +2388,7 @@ barbera
 barberess
 barberfish
 barberry
+blender
 barberries
 bluestone
 bubaline
@@ -10700,7 +10701,6 @@ blencorn
 blend
 blende
 blended
-blender
 bottleneck
 blenders
 blendes
