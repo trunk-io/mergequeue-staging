@@ -3965,6 +3965,7 @@ butterball
 bittier
 beaconing
 beaconwise
+buoyages
 blasphemers
 beadeye
 beader
@@ -17474,7 +17475,6 @@ bunts
 bunuelo
 buoy
 borid
-buoyages
 buoyance
 bipinnatiparted
 buoyant
