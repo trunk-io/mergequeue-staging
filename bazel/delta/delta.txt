@@ -10584,6 +10584,7 @@ demos
 diplococcoid
 downsize
 diplococcus
+dizzy
 diplocoria
 diplodocus
 diplodocuses
@@ -14582,7 +14583,6 @@ dizens
 dizoic
 dizz
 dizzen
-dizzy
 disentitling
 dizzied
 dizzies
