@@ -1282,7 +1282,6 @@ academician
 academicians
 academicianship
 academics
-academies
 academise
 academising
 academist
@@ -2843,6 +2842,7 @@ acrididae
 acridiidae
 acridyl
 acridin
+academies
 acridines
 acridinic
 acridinium
