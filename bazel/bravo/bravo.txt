@@ -5854,6 +5854,7 @@ bioavailability
 baseheartedness
 biharmonic
 belord
+biflecnode
 belorussian
 belostoma
 biparty
@@ -8242,7 +8243,6 @@ brosy
 biflabellate
 blackguardry
 battle
-biflecnode
 broil
 braze
 biflected

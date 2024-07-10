@@ -12438,7 +12438,6 @@ chromatist
 compares
 chromatium
 chromatize
-chromatocyte
 chromatogenous
 chromatogram
 chromatograph
@@ -17569,6 +17568,7 @@ coccerin
 coccic
 classing
 cystis
+chromatocyte
 coccid
 coccidae
 coccidial
