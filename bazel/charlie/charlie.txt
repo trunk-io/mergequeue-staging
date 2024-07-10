@@ -12055,7 +12055,6 @@ choristoma
 choristoneura
 cruiser
 choristry
-chorization
 corindon
 chorizo
 coactions
@@ -21473,6 +21472,7 @@ concludendi
 concludent
 cochlitis
 concludently
+chorization
 concluder
 concluders
 concludes
