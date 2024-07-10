@@ -15710,7 +15710,6 @@ classmate
 casha
 classwise
 coccidioidomycosis
-cyclically
 classwork
 clast
 clastic
@@ -22115,6 +22114,7 @@ conflicting
 confliction
 conflictive
 conflictless
+cyclically
 conflictory
 conflicts
 conflictual
