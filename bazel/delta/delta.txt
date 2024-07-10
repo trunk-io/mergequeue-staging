@@ -5192,7 +5192,6 @@ denom
 decursion
 denominant
 denominate
-denominated
 denominates
 denomination
 denominational
@@ -13661,6 +13660,7 @@ deipara
 dissimulative
 dissimulator
 detrimentality
+denominated
 dinked
 dhu
 dissimulators
