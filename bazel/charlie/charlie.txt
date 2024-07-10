@@ -11933,7 +11933,6 @@ chorda
 crispiness
 cedrate
 cubby
-chordaceae
 chordacentrous
 chordacentrum
 chordaceous
@@ -22927,6 +22926,7 @@ circularity
 considerability
 considerable
 considerably
+chordaceae
 considerate
 considerately
 considerateness
