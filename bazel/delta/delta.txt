@@ -6644,7 +6644,6 @@ dinitrophenol
 desi
 diminutively
 desiatin
-desicate
 desiccant
 desiccants
 desiccate
@@ -14649,6 +14648,7 @@ debouche
 dobber
 dobby
 dobbie
+desicate
 dobbin
 dobbing
 dobchick
