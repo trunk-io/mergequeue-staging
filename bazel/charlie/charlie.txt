@@ -4461,7 +4461,6 @@ carnifex
 carnifexes
 carnify
 carnification
-carnificial
 carnifying
 carniform
 carniolan
@@ -29626,6 +29625,7 @@ compages
 crock
 crockard
 confed
+carnificial
 crocker
 crockery
 crockeries
