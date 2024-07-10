@@ -3761,7 +3761,6 @@ battlegrounds
 battlement
 battlemented
 battlepiece
-beatus
 battlers
 battles
 battleships
@@ -17342,6 +17341,7 @@ buncoed
 buncombe
 buncombes
 buncos
+beatus
 buttony
 bund
 blepharosyndesmitis
