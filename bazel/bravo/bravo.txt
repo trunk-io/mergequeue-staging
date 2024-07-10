@@ -1368,7 +1368,6 @@ bedders
 brookie
 balconies
 bald
-biorhythmicity
 baldacchino
 bacule
 breakfaster
@@ -6349,6 +6348,7 @@ benzidine
 benzidino
 benzidins
 benzil
+biorhythmicity
 benzyl
 benzylamine
 benzilic

@@ -3958,7 +3958,6 @@ eikon
 emissaries
 emissaryship
 emissarium
-eels
 emissi
 eudialyte
 emission
@@ -8989,6 +8988,7 @@ ergometric
 egrimony
 ergometrine
 ergonomic
+eels
 ergonomically
 ergonomics
 ergonovine
