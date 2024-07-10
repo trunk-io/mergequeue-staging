@@ -4815,7 +4815,6 @@ flamenco
 fooless
 foremastman
 flashier
-flamenship
 fingerprinting
 faburden
 fuzzle
@@ -5739,6 +5738,7 @@ floatation
 floatboard
 firesides
 formulas
+flamenship
 flashtester
 floated
 floater
