@@ -4629,7 +4629,6 @@ gearboxes
 gutterlike
 gipsied
 gypsied
-gipsies
 gypsies
 gipsyesque
 gainfully
@@ -10685,6 +10684,7 @@ goburra
 gawkish
 gussied
 gussies
+gipsies
 gloeosporium
 gratiano
 gunsel
