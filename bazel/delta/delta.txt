@@ -6312,7 +6312,6 @@ darknesses
 dynamoscope
 dermestidae
 dermestoid
-dermic
 demurs
 disimmure
 dermitis
@@ -15252,6 +15251,7 @@ dolman
 dorsiduct
 dicotyledones
 dolmans
+dermic
 dolmen
 dolomedes
 dolomite
