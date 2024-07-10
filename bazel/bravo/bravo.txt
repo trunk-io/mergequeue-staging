@@ -3429,7 +3429,6 @@ bassist
 bassists
 bassly
 bassness
-bassnesses
 basson
 bedash
 bremeness
@@ -11993,6 +11992,7 @@ boycottism
 boycotts
 boidae
 boydom
+bassnesses
 boyer
 boiette
 bizarrely
