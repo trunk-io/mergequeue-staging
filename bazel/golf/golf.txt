@@ -1633,6 +1633,7 @@ gasohol
 griffado
 gasoliery
 gangland
+gnatproof
 gasoliers
 garrisonism
 gasoline
@@ -6322,7 +6323,6 @@ goosing
 gillot
 gnatlike
 gnatoo
-gnatproof
 gnats
 gnattiest
 gnatworm
