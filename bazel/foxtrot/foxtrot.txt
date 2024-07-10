@@ -3896,6 +3896,7 @@ fingerings
 fingerleaf
 fingerless
 fingerlet
+fleuret
 florescence
 formatters
 fuliguline
@@ -5399,7 +5400,6 @@ fletton
 fattest
 fleur
 farted
-fleuret
 frontpiece
 fleurette
 fleury
