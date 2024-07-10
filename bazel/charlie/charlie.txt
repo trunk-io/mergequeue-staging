@@ -10168,7 +10168,6 @@ chesterbed
 chesterfield
 chesterfields
 chesterlite
-chestful
 chesty
 chestiest
 chestiness
@@ -14295,6 +14294,7 @@ circumambiently
 circumambulate
 circumambulated
 circumambulates
+chestful
 circumambulation
 circumambulations
 circumambulator
