@@ -3284,7 +3284,6 @@ defibrillation
 dragoons
 defibrillatory
 defibrinate
-depletion
 deficiency
 dealated
 deficient
@@ -15163,6 +15162,7 @@ doles
 dolf
 doli
 dolia
+depletion
 dolichocephal
 decants
 depencil
