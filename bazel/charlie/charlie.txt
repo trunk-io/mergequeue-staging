@@ -12722,7 +12722,6 @@ chronometer
 chronometers
 chronometry
 corin
-chronometric
 chronometrical
 chronometrically
 chronon
@@ -29716,6 +29715,7 @@ crones
 crony
 cuckoo
 cronian
+chronometric
 cronie
 cronied
 cronies
