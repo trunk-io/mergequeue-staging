@@ -854,7 +854,6 @@ funori
 fenestrato
 fecit
 frieze
-figgle
 foredawn
 fantasied
 firedamps
@@ -3606,6 +3605,7 @@ filler
 fillercap
 fluviology
 faceoff
+figgle
 fluormeter
 fillers
 fillet

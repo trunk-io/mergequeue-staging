@@ -4907,7 +4907,6 @@ alpigene
 aeolomelodicon
 aeolotropy
 aeolotropic
-aeolotropism
 aeolus
 aeon
 aeonian
@@ -9879,6 +9878,7 @@ amamau
 amampondo
 amanda
 amandine
+aeolotropism
 amandus
 attorns
 amania
