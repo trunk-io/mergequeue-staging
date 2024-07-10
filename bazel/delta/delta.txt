@@ -425,6 +425,7 @@ daintiest
 decompound
 daintify
 daintified
+dogcatcher
 daintifying
 daintily
 daintiness
@@ -14966,7 +14967,6 @@ dogbodies
 dogbolt
 dogbush
 dogcart
-dogcatcher
 dogcatchers
 dogdom
 dogear
