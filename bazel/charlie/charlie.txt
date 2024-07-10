@@ -2734,7 +2734,6 @@ canst
 canstick
 chargable
 cant
-cantab
 cantabank
 cantabile
 cantabri
@@ -21639,6 +21638,7 @@ coms
 condemnor
 connaisseur
 condensability
+cantab
 condensable
 condensance
 condensaries
