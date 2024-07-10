@@ -11912,6 +11912,7 @@ choragy
 choragium
 choragus
 chorai
+copulative
 choral
 chorale
 choraleon
@@ -24833,7 +24834,6 @@ crang
 copulated
 copulates
 copulating
-copulative
 copulatively
 conquian
 copulatory
