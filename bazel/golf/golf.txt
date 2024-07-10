@@ -2790,7 +2790,6 @@ galbe
 gynophore
 glander
 grizzle
-glycogen
 gitalin
 genipap
 greenstuff
@@ -10211,6 +10210,7 @@ guildic
 giboia
 guildite
 guildship
+glycogen
 guileful
 gamogenesis
 groomed
