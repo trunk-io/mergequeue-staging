@@ -5791,7 +5791,6 @@ aftershaft
 amoral
 aftershafted
 aftershave
-aftershaves
 anzac
 aftershine
 aftership
@@ -24226,6 +24225,7 @@ aviators
 automatous
 automats
 automechanical
+aftershaves
 automechanism
 automelon
 autometry
