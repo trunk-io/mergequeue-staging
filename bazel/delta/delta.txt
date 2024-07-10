@@ -3049,6 +3049,7 @@ deerlet
 deermeat
 daker
 deerskin
+doggrel
 deerstalker
 disavail
 deerstalkers
@@ -15020,7 +15021,6 @@ doggoner
 doggones
 doggonest
 doggoning
-doggrel
 doggrels
 duettino
 dianoetically
