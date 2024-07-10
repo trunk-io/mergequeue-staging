@@ -2829,7 +2829,6 @@ beelzebub
 baromotor
 baronage
 bespangled
-baronages
 baronduki
 brotherwort
 baroness
@@ -13236,6 +13235,7 @@ batakan
 bostonian
 bostrychidae
 boswell
+baronages
 boswellia
 boswellian
 boistous
