@@ -1987,7 +1987,6 @@ ejections
 ejective
 ejectively
 ejectum
-ejicient
 exonship
 ejidal
 ejido
@@ -9359,6 +9358,7 @@ erroneously
 erroneousness
 error
 errordump
+ejicient
 errorful
 errorist
 explicably
