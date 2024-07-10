@@ -1260,6 +1260,7 @@ gantline
 gantlines
 guarnieri
 goods
+goustrous
 gaumish
 gantlopes
 gruffing
@@ -5279,7 +5280,6 @@ glaucium
 glaucodot
 glaucoma
 gorilline
-goustrous
 goldcup
 gabbroic
 galipots
