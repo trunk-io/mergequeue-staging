@@ -5824,6 +5824,7 @@ belluine
 becobweb
 bellwaver
 bellweather
+bocage
 bellweed
 bellwether
 bellwethers
@@ -11719,7 +11720,6 @@ boc
 boggle
 brushoffs
 bocaccio
-bocage
 bocal
 bocardo
 bocasin
