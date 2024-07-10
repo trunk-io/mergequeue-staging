@@ -1917,7 +1917,6 @@ grapefruits
 gourmandise
 gatehouse
 gatekeep
-gatekeepers
 gastrostomize
 griphus
 glutinously
@@ -2411,6 +2410,7 @@ gablewindowed
 gelations
 guzzled
 geldable
+gatekeepers
 geldant
 gambit
 galvanographic
