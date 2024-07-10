@@ -21456,7 +21456,6 @@ conciseness
 conciser
 concisest
 concision
-concitation
 concite
 concitizen
 chattable
@@ -26142,6 +26141,7 @@ cosmometry
 cosmonaut
 cosmonautic
 chlorin
+concitation
 cosmonautical
 cosmonautically
 cladocerous
