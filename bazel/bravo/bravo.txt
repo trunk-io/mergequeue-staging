@@ -5277,7 +5277,6 @@ begray
 begrain
 begrave
 begrim
-begrimer
 begrimes
 begriming
 begrimmed
@@ -17823,6 +17822,7 @@ burnside
 burnsides
 burnt
 burntly
+begrimer
 begirdled
 burntness
 bandfiling
