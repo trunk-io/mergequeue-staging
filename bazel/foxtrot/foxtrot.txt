@@ -7077,6 +7077,7 @@ foolmonger
 fools
 fatherling
 foolscaps
+forches
 favilla
 fooner
 foosterer
@@ -7367,7 +7368,6 @@ fenerate
 forcer
 forcers
 forchase
-forches
 forcedly
 forcy
 forcibility
