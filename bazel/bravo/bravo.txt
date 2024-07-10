@@ -11357,7 +11357,6 @@ bluefishes
 bluegill
 bluegills
 bemingled
-bactris
 bluegrass
 bluegum
 broma
@@ -15903,6 +15902,7 @@ bronchiloquy
 bronchiocele
 bronchiocrisis
 bronchiolar
+bactris
 bronchiospasm
 bronchiostenosis
 bronchitic
