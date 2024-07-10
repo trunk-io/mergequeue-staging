@@ -260,6 +260,7 @@ bach
 brickliner
 bached
 bachel
+boxwork
 bachelor
 bathypelagic
 bachelorhood
@@ -2463,7 +2464,6 @@ barcas
 biofog
 bosons
 beja
-boxwork
 barchan
 barche
 barcolongo
