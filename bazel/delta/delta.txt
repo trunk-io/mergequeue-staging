@@ -556,7 +556,6 @@ dirk
 daltonism
 daltonist
 dam
-dama
 damage
 damageability
 damageableness
@@ -15952,6 +15951,7 @@ dispenser
 dollying
 disdeceive
 detestably
+dama
 dote
 doted
 divaporation
