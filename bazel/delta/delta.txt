@@ -635,7 +635,6 @@ damnable
 damnableness
 damnably
 damnation
-damnatory
 desterilizing
 damnedest
 dolmens
@@ -4821,6 +4820,7 @@ despatch
 demonised
 demonstrationist
 demonises
+damnatory
 demonish
 dons
 demonishness
