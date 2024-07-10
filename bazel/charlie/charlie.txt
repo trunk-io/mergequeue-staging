@@ -5933,6 +5933,7 @@ clothmaker
 catheti
 cathetometer
 cathetometric
+coccygomorphae
 cathetus
 cathexes
 cathexion
@@ -17608,7 +17609,6 @@ cyclocoelic
 coccygine
 coccygodynia
 coccygomorph
-coccygomorphae
 coccygotomy
 coccin
 coccinella
