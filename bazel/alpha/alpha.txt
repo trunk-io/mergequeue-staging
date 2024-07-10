@@ -8193,7 +8193,6 @@ algesiometer
 acquittance
 algy
 algicides
-algid
 anargyros
 algidity
 algidities
@@ -20671,6 +20670,7 @@ annuitant
 arthrosporic
 antimicrobic
 anteprostatic
+algid
 arthrosteitis
 arthrosterigma
 arthrostomy
