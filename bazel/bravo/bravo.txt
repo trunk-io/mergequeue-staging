@@ -5679,6 +5679,7 @@ bipolar
 bienne
 belight
 btl
+bepun
 bulldozer
 belying
 belyingly
@@ -6523,7 +6524,6 @@ bepreach
 bepretty
 bepride
 beprose
-bepun
 bedraping
 bepurple
 boid
