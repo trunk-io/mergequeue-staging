@@ -4967,7 +4967,6 @@ glaver
 grainfield
 giveth
 garments
-gyrally
 giving
 geneura
 gyving
@@ -7679,6 +7678,7 @@ gradino
 gusto
 globated
 gradins
+gyrally
 guilefulness
 gradiometer
 gladwin
