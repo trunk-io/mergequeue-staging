@@ -8472,7 +8472,6 @@ diamondize
 diamondized
 diamondizing
 diamondlike
-dunites
 diamonds
 dandled
 diacaustic
@@ -18532,6 +18531,7 @@ disruddered
 duskly
 duskness
 dustband
+dunites
 dotterel
 dustbins
 dangs

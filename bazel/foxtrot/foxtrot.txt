@@ -9169,7 +9169,6 @@ fractostratus
 fratery
 fractuosity
 fractur
-fracturable
 fractural
 fractured
 fractures
@@ -11434,6 +11433,7 @@ flatway
 furnish
 forerank
 furnishable
+fracturable
 foggages
 fascines
 floush
