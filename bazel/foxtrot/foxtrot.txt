@@ -222,7 +222,6 @@ femerell
 fattened
 facultate
 facultatively
-faculty
 faculties
 facultize
 facundity
@@ -4902,6 +4901,7 @@ fairish
 flapcake
 fluviatic
 freeloader
+faculty
 feroher
 farsightedness
 foreproffer
