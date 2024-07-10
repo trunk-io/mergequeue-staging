@@ -4953,7 +4953,6 @@ aerial
 aerialist
 aerialists
 aeriality
-aerially
 aerialness
 aether
 aerials
@@ -25338,6 +25337,7 @@ azotine
 azotise
 azotises
 azotising
+aerially
 axletree
 aloelike
 apolytikion
