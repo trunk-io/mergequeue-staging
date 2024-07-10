@@ -3764,7 +3764,6 @@ adenoidism
 adroitest
 adenoiditis
 adenoids
-adenolymphocele
 adenolymphoma
 adenoliomyofibroma
 adenolipoma
@@ -13966,6 +13965,7 @@ anopluriform
 anopsy
 awakes
 anopsia
+adenolymphocele
 agrah
 audiotape
 anoraks
