@@ -9069,7 +9069,6 @@ allotrope
 allotropes
 allotropy
 allotropic
-agariciform
 allotropical
 archosyrinx
 adiapneustia
@@ -15499,6 +15498,7 @@ antiketogen
 antiketogenesis
 antiketogenic
 antikinase
+agariciform
 antiking
 antikings
 antiknock
