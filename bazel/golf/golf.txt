@@ -2404,7 +2404,6 @@ gashing
 gymnolaema
 gelatinoid
 gelatinous
-gelatins
 gelation
 greaves
 gablewindowed
@@ -9308,6 +9307,7 @@ garnishry
 gliadines
 gymnoplast
 glossolabiolaryngeal
+gelatins
 grooviest
 ganglionless
 grooviness
