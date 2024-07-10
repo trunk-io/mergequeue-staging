@@ -3955,7 +3955,6 @@ finis
 finish
 figure
 finished
-flatterdock
 forride
 finisher
 finishes
@@ -5816,6 +5815,7 @@ floggers
 flogging
 facilely
 foreman
+flatterdock
 floggingly
 frustratingly
 flogmaster
