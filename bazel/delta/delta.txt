@@ -1453,7 +1453,6 @@ dazzlingness
 db
 dbl
 denominable
-dbms
 disintensify
 dca
 deceived
@@ -10623,6 +10622,7 @@ diplois
 diplokaryon
 diploma
 diplomacies
+dbms
 diplomaing
 diplomas
 dermatomuscular
