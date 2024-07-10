@@ -624,7 +624,6 @@ desynonymize
 dammer
 dammers
 disclassify
-damming
 durous
 dammit
 damn
@@ -4828,6 +4827,7 @@ definitude
 demonism
 demonisms
 demonize
+damming
 demonized
 demonizes
 demonizing
