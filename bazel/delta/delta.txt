@@ -3294,7 +3294,6 @@ dealated
 deficient
 deficits
 defied
-defier
 defiers
 defies
 demythify
@@ -9440,6 +9439,7 @@ demisacrilege
 diffuser
 diffuses
 diffusibility
+defier
 dreigh
 duplexs
 doomster
