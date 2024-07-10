@@ -484,7 +484,6 @@ galga
 galgal
 galgulidae
 galyac
-gynomonoecious
 galyaks
 galibi
 galician
@@ -4854,6 +4853,7 @@ gyropigeon
 gyroplane
 gastropneumatic
 gazers
+gynomonoecious
 giros
 gyroscope
 gyroscopes

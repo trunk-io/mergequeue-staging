@@ -4554,6 +4554,7 @@ encave
 encefalon
 enceinte
 enceintes
+exsuction
 encelia
 exoccipital
 exposed
@@ -13518,7 +13519,6 @@ exstimulate
 endseal
 echinozoa
 exstruct
-exsuction
 exsudate
 eight
 epacmaic
