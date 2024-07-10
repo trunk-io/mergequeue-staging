@@ -6555,6 +6555,7 @@ collocation
 cedar
 cedared
 clavatin
+communicates
 cedary
 careering
 cedarn
@@ -23116,7 +23117,6 @@ const
 constable
 chapatti
 chintzes
-communicates
 constablery
 cowgate
 constables
