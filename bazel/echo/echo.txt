@@ -6099,7 +6099,6 @@ enmew
 enmity
 enmities
 enmove
-enmuffle
 enneacontahedron
 ennead
 enneadic
@@ -12173,6 +12172,7 @@ excrescencies
 excrescent
 excrescential
 emphasising
+enmuffle
 excrescently
 excreta
 excretal
