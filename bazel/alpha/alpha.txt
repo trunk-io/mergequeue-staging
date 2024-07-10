@@ -949,7 +949,6 @@ absconding
 absconds
 absconsa
 abscound
-absee
 anatto
 abseiled
 abseiling
@@ -5407,6 +5406,7 @@ affinal
 affined
 affinely
 affines
+absee
 affinitative
 affinity
 affinities
