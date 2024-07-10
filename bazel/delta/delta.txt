@@ -16786,7 +16786,6 @@ draughtsmanship
 derived
 draughtsmen
 draughtswomanship
-digram
 drave
 dravya
 dravidian
@@ -17613,6 +17612,7 @@ drumsler
 diphthongising
 drumstick
 drumsticks
+digram
 dealfishes
 drung
 drunk
