@@ -1625,7 +1625,6 @@ embryonically
 egohood
 egoism
 ennoble
-egoist
 egoistic
 egoistical
 egoisticalness
@@ -9402,6 +9401,7 @@ employable
 eructing
 exaggerated
 extensibility
+egoist
 eructs
 eruditical
 erudition
