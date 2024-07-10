@@ -4679,6 +4679,7 @@ carpopedal
 carpophagous
 carpophalangeal
 carpophyl
+copia
 capreolus
 conchylium
 charrette
@@ -24589,7 +24590,6 @@ cophetua
 cophosis
 cophouse
 copy
-copia
 copiability
 copiable
 copiapite
