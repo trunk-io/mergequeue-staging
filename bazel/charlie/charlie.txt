@@ -16116,7 +16116,6 @@ clever
 cleverer
 cleverest
 cleverish
-cleverishly
 cleverness
 clevis
 claosaurus
@@ -22584,6 +22583,7 @@ coaevals
 connach
 connaraceous
 connarite
+cleverishly
 connarus
 choragion
 connascency
