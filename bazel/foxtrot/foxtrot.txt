@@ -5038,7 +5038,6 @@ flexor
 flatlander
 flatlanders
 flatlets
-flatly
 flatling
 flatlings
 flammiferous
@@ -6541,6 +6540,7 @@ frouzier
 flutist
 flutists
 formful
+flatly
 flutter
 flutterable
 footscald
