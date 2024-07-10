@@ -4175,6 +4175,7 @@ cattie
 caretakes
 caretaking
 caretook
+commoning
 caretta
 carettochelydidae
 careworn
@@ -20291,7 +20292,6 @@ commoners
 curupira
 commonership
 columbus
-commoning
 commonition
 commonize
 catheads
