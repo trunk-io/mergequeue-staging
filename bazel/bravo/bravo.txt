@@ -5402,7 +5402,6 @@ bureaucratic
 bacterioprotein
 bean
 bezzants
-behorror
 behoved
 behoves
 behoving
@@ -11114,6 +11113,7 @@ bloodstainedness
 blackgum
 bilberries
 bloodstains
+behorror
 bloodstanch
 brother
 bloodstock
