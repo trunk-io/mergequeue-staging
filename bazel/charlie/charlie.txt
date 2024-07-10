@@ -11025,6 +11025,7 @@ caretaker
 chiropodic
 chiropodical
 compressibly
+compressive
 chiropodist
 chiropodistry
 chiropodists
@@ -20963,7 +20964,6 @@ compressing
 compressingly
 compression
 compressional
-compressive
 compressively
 compressometer
 compressor

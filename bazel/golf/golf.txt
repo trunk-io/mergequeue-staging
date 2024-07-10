@@ -5912,6 +5912,7 @@ glossers
 galloway
 glossic
 gonotype
+gula
 glossier
 geomantic
 glossies
@@ -6845,7 +6846,6 @@ gonfanon
 gonfanons
 gong
 gelidity
-gula
 gonging
 glycerolate
 gonglike
