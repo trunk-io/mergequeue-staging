@@ -9106,6 +9106,7 @@ allowing
 anhingas
 alloxan
 alloxanate
+artemia
 alloxanic
 alloxans
 archaeology
@@ -20467,7 +20468,6 @@ anticonservatively
 artels
 artemas
 affidare
-artemia
 artemis
 anisomerous
 artemisia
