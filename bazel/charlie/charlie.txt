@@ -3599,7 +3599,6 @@ concelebrating
 caravanserial
 caravel
 caravelle
-corrido
 caravels
 caraway
 condignity
@@ -27639,6 +27638,7 @@ cowheart
 cowhearted
 cowheel
 cowherb
+corrido
 cowherbs
 cowherd
 cumulates
