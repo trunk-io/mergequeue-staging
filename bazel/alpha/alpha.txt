@@ -13533,7 +13533,6 @@ ankh
 attainer
 apsidally
 asianic
-ankhs
 ankylenteron
 ankylocheilia
 ankylodactylia
@@ -15081,6 +15080,7 @@ anticly
 anticlimactic
 anticlimactically
 anticlimax
+ankhs
 anticlimaxes
 anticlinal
 anticlines

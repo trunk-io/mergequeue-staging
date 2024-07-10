@@ -4808,6 +4808,7 @@ demonetisation
 demonetise
 demonetised
 demonetize
+duchy
 deductory
 demonetized
 doyle
@@ -17782,7 +17783,6 @@ duchesse
 duchesses
 duchesslike
 dilleniaceae
-duchy
 define
 duchies
 duckbill
