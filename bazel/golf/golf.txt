@@ -2868,7 +2868,6 @@ graal
 grouping
 gurgitation
 geraniales
-genovino
 glottalizing
 gnosticism
 glomi
@@ -9432,6 +9431,7 @@ glorious
 groundlings
 gervao
 gelled
+genovino
 groundneedle
 groundplot
 getah
