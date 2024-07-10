@@ -191,7 +191,6 @@ duckhouse
 daedalian
 daedalic
 daedalidae
-daedalist
 dozen
 daedalous
 daedalus
@@ -6335,6 +6334,7 @@ dermococcus
 dichlorodifluoromethane
 dewooled
 dermography
+daedalist
 dermographia
 dikast
 discretionarily
