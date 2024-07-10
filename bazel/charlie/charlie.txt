@@ -17487,7 +17487,6 @@ cobbs
 cobcab
 camatina
 cobego
-cobelief
 cobeliever
 cobenignity
 coberger
@@ -23304,6 +23303,7 @@ consume
 consumed
 consumedly
 courageousness
+cobelief
 consumer
 consumerist
 consumes
