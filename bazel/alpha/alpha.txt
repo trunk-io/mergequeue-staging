@@ -85,7 +85,6 @@ ahtena
 abalones
 abamp
 airstrip
-abamperes
 abamps
 aband
 abandon
@@ -4246,6 +4245,7 @@ apiary
 admixtion
 admixture
 acridly
+abamperes
 admixtures
 admonish
 admonished
