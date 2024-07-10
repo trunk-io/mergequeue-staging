@@ -1525,7 +1525,6 @@ garrote
 glacises
 gassier
 garroter
-garroters
 garroting
 gn
 gastrolatrous
@@ -10766,6 +10765,7 @@ guttersnipe
 gutterspout
 gutti
 guideline
+garroters
 guttide
 guttie
 goniatitoid
