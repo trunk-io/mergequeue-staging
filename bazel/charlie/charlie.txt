@@ -1226,7 +1226,6 @@ calibrations
 calibrators
 causes
 calibred
-calibres
 canafistula
 caliburn
 chutnees
@@ -3694,6 +3693,7 @@ carbolising
 concatervate
 carbolize
 carbolized
+calibres
 conjunct
 carbolizing
 chatterboxes

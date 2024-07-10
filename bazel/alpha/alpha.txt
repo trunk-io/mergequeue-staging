@@ -11830,7 +11830,6 @@ atypy
 analyse
 analysed
 analyser
-analysers
 analyses
 abigeat
 analysis
@@ -12556,6 +12555,7 @@ androscoggin
 alacran
 androsin
 androsphinges
+analysers
 androsphinx
 androsphinxes
 androsporangium
