@@ -986,7 +986,6 @@ chimpanzee
 camphenes
 calcanei
 consummation
-calcaneoastragalar
 calcaneoastragaloid
 calcaneocuboid
 calcaneonavicular
@@ -21225,6 +21224,7 @@ concent
 concenter
 countenances
 candies
+calcaneoastragalar
 concentered
 concentering
 clamors
