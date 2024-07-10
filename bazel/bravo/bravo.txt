@@ -4219,6 +4219,7 @@ boss
 beau
 beauclerc
 beaucoup
+byon
 beaued
 beauetry
 beaconed
@@ -15955,7 +15956,6 @@ bronchoscopically
 bronchoscopist
 bronchospasm
 bronchostenosis
-byon
 bronchostomy
 bronchostomies
 bronchotetany
