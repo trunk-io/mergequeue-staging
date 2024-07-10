@@ -9397,7 +9397,6 @@ chaui
 cyprinids
 chauk
 chauldron
-chaule
 committer
 chauliodes
 chaulmaugra
@@ -28986,6 +28985,7 @@ cricoids
 cricopharyngeal
 cricothyreoid
 cricothyreotomy
+chaule
 cricothyroid
 cricothyroidean
 cricotomy
