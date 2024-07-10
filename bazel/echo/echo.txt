@@ -5943,7 +5943,6 @@ electrophori
 enigmata
 enigmatic
 enigmatically
-enzymatic
 enigmaticalness
 enigmatist
 enigmatize
@@ -6895,6 +6894,7 @@ entombs
 entomere
 entomic
 entomical
+enzymatic
 encarditis
 exasperation
 entomogenous
