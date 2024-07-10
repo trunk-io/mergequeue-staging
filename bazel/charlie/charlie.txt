@@ -6613,7 +6613,6 @@ correctiveness
 certosa
 ceylon
 cassiopeid
-ceylonese
 ceylonite
 cybele
 coosify
@@ -7402,6 +7401,7 @@ cutout
 cephalospinal
 cephalosporin
 cephalosporium
+ceylonese
 cephalostyle
 cephalotaceae
 cephalotaceous
