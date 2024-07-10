@@ -1628,7 +1628,6 @@ bergalith
 ballocks
 babies
 balloen
-ballogan
 ballon
 ballone
 ballones
@@ -13816,6 +13815,7 @@ bowne
 blurred
 barbicanage
 beladle
+ballogan
 bart
 bowpot
 bowpots
