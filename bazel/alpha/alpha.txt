@@ -6696,7 +6696,6 @@ ahamkara
 amellus
 ahankara
 ahantchuyuk
-ahartalav
 ahead
 aheap
 ahey
@@ -12747,6 +12746,7 @@ aloddia
 anfractuousness
 anfracture
 anga
+ahartalav
 angakoks
 angakut
 angami
