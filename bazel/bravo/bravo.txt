@@ -7425,6 +7425,7 @@ betrend
 betrim
 betrinket
 betroth
+blunts
 betrothals
 begalls
 betrothing
@@ -11489,7 +11490,6 @@ bodhi
 bluntish
 bluntishness
 bluntly
-blunts
 bacteriophagy
 brotulid
 blur
