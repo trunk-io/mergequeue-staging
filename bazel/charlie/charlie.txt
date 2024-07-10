@@ -9807,7 +9807,6 @@ chela
 chelaship
 cupreous
 citronellal
-chelated
 chelates
 chelating
 chelation
@@ -21706,6 +21705,7 @@ condylotomy
 contraplex
 condylure
 condiment
+chelated
 condimental
 condimentary
 chloralide
