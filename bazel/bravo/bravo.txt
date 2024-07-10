@@ -891,6 +891,7 @@ bagfuls
 boudoirs
 baggage
 baggageman
+birde
 biarcuated
 baggagemaster
 baggager
@@ -9404,7 +9405,6 @@ bowdlerisation
 bibbers
 birdcraft
 birddom
-birde
 beboss
 blithely
 bealtine
