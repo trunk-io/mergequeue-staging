@@ -3232,7 +3232,6 @@ duckboard
 defensemen
 defenser
 defensibility
-defensibleness
 defensibly
 defensing
 defension
@@ -18612,6 +18611,7 @@ dismoded
 dutuburi
 duumviral
 duumvirate
+defensibleness
 despitefully
 duumviri
 duvet
