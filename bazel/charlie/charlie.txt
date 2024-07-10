@@ -3125,7 +3125,6 @@ capite
 capiteaux
 capitellar
 capitellate
-capitellum
 capitle
 colature
 capito
@@ -4141,6 +4140,7 @@ careful
 carefull
 comparts
 carefuller
+capitellum
 carefullest
 carefully
 carefulness
