@@ -401,7 +401,6 @@ drungar
 diazoamine
 duboisin
 daimioate
-daimios
 daimyos
 daimiote
 daimones
@@ -6753,6 +6752,7 @@ desisted
 desistence
 dockmaster
 desisting
+daimios
 desistive
 dividendus
 desition
