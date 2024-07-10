@@ -2746,6 +2746,7 @@ barmcloth
 biggonet
 barmecidal
 barmecide
+binuclear
 barmfel
 becoward
 barmybrained
@@ -8879,7 +8880,6 @@ bint
 bintangor
 bromoil
 brack
-binuclear
 binucleate
 besnow
 brechans
