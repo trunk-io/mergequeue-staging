@@ -10082,6 +10082,7 @@ ambiances
 ambicolorate
 ambicoloration
 ambidexterity
+adharma
 ambidexterities
 ambidexterous
 antineutrons
@@ -19420,7 +19421,6 @@ aretalogy
 aretes
 agrimonia
 anhydrization
-adharma
 arethusa
 arethusas
 arette
