@@ -3090,7 +3090,6 @@ blathered
 bartletts
 barton
 bartonella
-bartonia
 burucha
 bartramia
 bartramiaceae
@@ -5845,6 +5844,7 @@ belonid
 belonidae
 belonite
 belonoid
+bartonia
 blotching
 beman
 belonosphaerite
