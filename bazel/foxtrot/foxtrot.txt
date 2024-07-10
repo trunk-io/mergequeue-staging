@@ -3953,7 +3953,6 @@ finiking
 filiation
 fruitgrower
 finca
-fining
 finings
 finis
 finish
@@ -6642,6 +6641,7 @@ fockle
 flanken
 fumage
 focoids
+fining
 focometry
 focsle
 focused
