@@ -357,7 +357,6 @@ angstroms
 alibiing
 aberrant
 aploperistomatous
-aberrantly
 aberrants
 aberrate
 aberrated
@@ -6347,6 +6346,7 @@ aglutition
 agma
 agmas
 agmatine
+aberrantly
 anystidae
 agmatology
 agminated
