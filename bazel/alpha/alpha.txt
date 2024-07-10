@@ -7554,7 +7554,6 @@ albinal
 assafoetida
 albines
 albiness
-albinism
 albinisms
 albinistic
 albino
@@ -15938,6 +15937,7 @@ acrodactylum
 antiphase
 amateurism
 antiphylloxeric
+albinism
 antiphilosophy
 avaremotemo
 antiphilosophic

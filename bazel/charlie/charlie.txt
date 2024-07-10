@@ -11674,7 +11674,6 @@ cholestene
 cholesteremia
 cholesteric
 cholesteryl
-cholesterin
 cholesterinuria
 cholesterol
 cholesterolemia
@@ -31507,6 +31506,7 @@ curtail
 curtailed
 curtailedly
 curtailer
+cholesterin
 curtailing
 curtailments
 cirques
