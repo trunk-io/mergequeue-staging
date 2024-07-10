@@ -1751,6 +1751,7 @@ accordion
 accordionist
 abrased
 accordionists
+anaglypta
 accordions
 accords
 axilemmata
@@ -11744,7 +11745,6 @@ amazingly
 anaglyphical
 anaglyphics
 anaglyphs
-anaglypta
 anaglyptic
 anaglyptical
 anaglyptography
