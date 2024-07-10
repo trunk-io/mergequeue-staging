@@ -3042,7 +3042,6 @@ ellenyard
 ellerian
 equus
 ellick
-elling
 ellinge
 elliot
 elliott
@@ -11401,6 +11400,7 @@ evans
 evap
 evaporated
 electroballistically
+elling
 evaporates
 evaporation
 evenoo
