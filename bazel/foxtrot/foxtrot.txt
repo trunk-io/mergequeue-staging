@@ -958,7 +958,6 @@ farcialize
 farcicality
 farcically
 farcicalness
-farcie
 forcelessness
 farcify
 farcing
@@ -1097,6 +1096,7 @@ faros
 filmgoer
 flighted
 farragos
+farcie
 farrand
 flyaways
 fractureproof
