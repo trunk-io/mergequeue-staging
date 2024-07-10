@@ -652,7 +652,6 @@ baconic
 baconist
 becharming
 baconize
-bacons
 baconweed
 bonjour
 bacopa
@@ -17403,6 +17402,7 @@ bungle
 bungled
 bunglers
 bungles
+bacons
 bungling
 bunglingly
 bullnose
