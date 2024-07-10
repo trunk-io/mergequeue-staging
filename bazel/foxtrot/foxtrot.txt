@@ -2512,7 +2512,6 @@ ferroaluminum
 ferrocalcite
 ferrocene
 factual
-ferrocerium
 ferrochrome
 ferrochromium
 ferrocyanate
@@ -8817,6 +8816,7 @@ fossulae
 fossulate
 fossule
 flowchart
+ferrocerium
 forgette
 fedn
 flintlock
