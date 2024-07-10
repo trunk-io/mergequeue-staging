@@ -8784,7 +8784,6 @@ bafyot
 bermensch
 binational
 binaural
-binauricular
 binbashi
 binder
 binderies
@@ -9337,6 +9336,7 @@ bipolarization
 bipont
 bipontine
 biporose
+binauricular
 broddle
 brachiofacial
 beltmen
