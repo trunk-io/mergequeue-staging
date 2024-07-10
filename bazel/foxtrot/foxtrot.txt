@@ -6764,6 +6764,7 @@ foil
 foiling
 fauld
 foin
+fevery
 foined
 faugh
 foining
@@ -8753,7 +8754,6 @@ flapdragon
 flunks
 fossage
 fratch
-fevery
 flaxes
 fossane
 falutin
