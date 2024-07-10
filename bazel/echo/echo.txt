@@ -5181,6 +5181,7 @@ endocrinopath
 embosser
 endocrinopathy
 endocrinopathic
+etherizes
 electrolysis
 endocrinous
 endocritic
@@ -10318,7 +10319,6 @@ euphuisms
 etherize
 etherized
 ear
-etherizes
 etherizing
 eremic
 etherlike
