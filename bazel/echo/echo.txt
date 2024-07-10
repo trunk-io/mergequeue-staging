@@ -2091,7 +2091,6 @@ elamite
 elamitish
 elan
 elance
-eland
 elands
 elans
 eperlan
@@ -7015,6 +7014,7 @@ entrant
 entrants
 entrap
 expansible
+eland
 experiments
 entrapments
 entrapper
