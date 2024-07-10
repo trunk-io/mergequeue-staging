@@ -10442,6 +10442,7 @@ ethmophysal
 epistoma
 epyllion
 ethmopresphenoidal
+embryogenic
 ethmose
 ethmosphenoid
 ethmosphenoidal
@@ -13904,7 +13905,6 @@ extraordinary
 expropriation
 extraordinarily
 espichellite
-embryogenic
 extraovular
 extraparenchymal
 ecphova
