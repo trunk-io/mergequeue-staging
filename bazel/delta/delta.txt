@@ -10183,7 +10183,6 @@ disyllabized
 dingleberry
 dinglebird
 dingled
-deprecator
 dingledangle
 determinedness
 doff
@@ -16897,6 +16896,7 @@ dreamed
 dreamery
 dreamers
 dreamful
+deprecator
 dentation
 deviancies
 dreamfully
