@@ -4733,7 +4733,6 @@ gyred
 girella
 girellidae
 gyrencephala
-gyrencephalic
 grisliest
 groundward
 greatheart
@@ -6350,6 +6349,7 @@ gnetaceous
 gageite
 gnetum
 geisothermal
+gyrencephalic
 gneu
 gallstones
 gnome
