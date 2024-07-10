@@ -3895,6 +3895,7 @@ giantry
 giants
 gonion
 giantship
+gulpin
 giantsize
 giaour
 giaours
@@ -8239,7 +8240,6 @@ gastrin
 groundberry
 graphophone
 graphoscope
-gulpin
 graphostatic
 guggles
 greaser
