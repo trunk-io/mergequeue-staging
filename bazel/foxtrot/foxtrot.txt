@@ -4740,6 +4740,7 @@ fluidise
 footwear
 flayer
 flayers
+foreshown
 forensal
 fsiest
 fakirs
@@ -7930,7 +7931,6 @@ foreshow
 fevering
 foreshowed
 foreshower
-foreshown
 foreshows
 foreside
 foresight
