@@ -1481,6 +1481,7 @@ demurrable
 deaconhood
 demilune
 disform
+digressive
 deaconing
 deaconries
 deacons
@@ -9621,7 +9622,6 @@ digressional
 draws
 doup
 digressions
-digressive
 digressively
 digs
 diguanide
