@@ -571,7 +571,6 @@ glassite
 galleyworm
 galleons
 gallera
-grubbier
 gallerian
 gentisate
 gomerels
@@ -1255,6 +1254,7 @@ gantleting
 gewgaw
 growlingly
 gantline
+grubbier
 gantlines
 guarnieri
 goods
