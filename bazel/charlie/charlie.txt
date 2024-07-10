@@ -6932,7 +6932,6 @@ cenesthesia
 cenesthesis
 cenesthetic
 cenizo
-cenobe
 cineangiography
 cupuliferae
 cenoby
@@ -31735,6 +31734,7 @@ customhouse
 customhouses
 customizable
 customizations
+cenobe
 customize
 customized
 customizer
