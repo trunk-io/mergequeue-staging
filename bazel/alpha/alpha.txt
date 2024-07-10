@@ -8644,7 +8644,6 @@ allantochorion
 advisatory
 allantoid
 allantoidal
-allantoidea
 automatictacessing
 amble
 allantoidean
@@ -10075,6 +10074,7 @@ ambidexterities
 ambidexterous
 antineutrons
 ambidextrous
+allantoidea
 ambidextrously
 ambience
 ambiences
