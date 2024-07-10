@@ -3042,7 +3042,6 @@ deerhound
 deeryard
 deeryards
 deerlet
-deermeat
 daker
 deerskin
 doggrel
@@ -6546,6 +6545,7 @@ descriptionist
 dogsled
 descriptionless
 descriptions
+deermeat
 descriptive
 descriptively
 descriptiveness
