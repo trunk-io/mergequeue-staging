@@ -7684,7 +7684,6 @@ autoabstract
 applicators
 alcalde
 alcaldes
-alcaldeship
 asway
 ablest
 alcaldia
@@ -24291,6 +24290,7 @@ autophagy
 autophagia
 autophagous
 anorganology
+alcaldeship
 autophyte
 adits
 autophytic
