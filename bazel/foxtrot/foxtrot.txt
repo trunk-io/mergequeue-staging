@@ -1079,7 +1079,6 @@ fluorosis
 farmlands
 francisca
 fractionised
-fisc
 farmplace
 finials
 farmstead
@@ -9878,6 +9877,7 @@ frett
 faultiness
 frettation
 frette
+fisc
 fretted
 formularism
 fretten
