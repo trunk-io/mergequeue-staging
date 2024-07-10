@@ -2348,7 +2348,6 @@ decylene
 decylenic
 deciles
 decylic
-diffusion
 deciliter
 deciliters
 decilitre
@@ -10073,6 +10072,7 @@ distingue
 dumous
 dynamogeny
 dynamogenic
+diffusion
 dynamogenous
 dynamogenously
 dynamograph
