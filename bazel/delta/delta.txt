@@ -12934,6 +12934,7 @@ disparageable
 diffusibleness
 disparagement
 disparagements
+dropseed
 disparager
 disparages
 disparaging
@@ -17395,7 +17396,6 @@ dutiable
 diosmosis
 decentred
 doge
-dropseed
 decoration
 dropsy
 dhyana
