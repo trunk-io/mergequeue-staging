@@ -3166,6 +3166,7 @@ baselike
 baselines
 bondship
 blackfisher
+bannerwise
 basella
 basellaceae
 baseman
@@ -4819,7 +4820,6 @@ beduke
 bedull
 bedumb
 brucellosis
-bannerwise
 brighella
 becripple
 bonebinder
