@@ -5074,6 +5074,7 @@ geophilidae
 gladiole
 gladioli
 galvanized
+goldworker
 gemmery
 geeing
 glacieret
@@ -6704,7 +6705,6 @@ goldthread
 goldtit
 goldurn
 galeopithecus
-goldworker
 grimness
 golee
 golem
