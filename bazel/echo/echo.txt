@@ -7316,7 +7316,6 @@ eolopile
 eundem
 eolopiles
 ecumenicist
-eom
 engilds
 eomecon
 extols
@@ -8255,6 +8254,7 @@ epistemologist
 excel
 equiprobabilist
 eigenfunction
+eom
 epistemophiliac
 epistemophilic
 enfamous
