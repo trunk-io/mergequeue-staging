@@ -11255,7 +11255,6 @@ funmaker
 funmaking
 funned
 frameableness
-frameable
 flambeing
 forefield
 funnel
@@ -11595,6 +11594,7 @@ fusion
 fusionism
 fluviolacustrine
 fatstocks
+frameable
 floral
 fusions
 fusobacterium
