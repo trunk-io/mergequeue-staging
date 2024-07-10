@@ -4026,7 +4026,6 @@ enciente
 emotion
 encheson
 emotionalise
-epanalepsis
 electrifies
 emotionalist
 emotionalistic
@@ -9814,6 +9813,7 @@ exodos
 esplanade
 esplees
 evaluators
+epanalepsis
 esponton
 enfirm
 essie
