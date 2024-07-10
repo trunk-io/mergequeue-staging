@@ -233,7 +233,6 @@ fragrant
 faddy
 faddiness
 fairyfolk
-fadding
 faddish
 fungin
 fussock
@@ -6321,6 +6320,7 @@ fieldsman
 fluming
 flummadiddle
 flummer
+fadding
 flebotomy
 fusiformis
 flocculus
