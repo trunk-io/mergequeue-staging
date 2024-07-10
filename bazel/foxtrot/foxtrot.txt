@@ -2787,6 +2787,7 @@ fogproof
 fetuses
 ferrichloride
 feucht
+formatters
 feudal
 feudalisation
 foreassurance
@@ -3897,7 +3898,6 @@ fingerleaf
 fingerless
 fingerlet
 florescence
-formatters
 fuliguline
 factorization
 fingerlings
