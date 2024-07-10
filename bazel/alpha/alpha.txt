@@ -10727,7 +10727,6 @@ antilocapra
 aminogen
 aminoglutaric
 aminoguanidine
-aminoid
 aminoketone
 aminolipin
 antitheistical
@@ -11074,6 +11073,7 @@ acres
 amortizable
 amortizement
 amortizes
+aminoid
 amortizing
 achaemenid
 amorua
