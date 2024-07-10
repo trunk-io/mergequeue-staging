@@ -5041,7 +5041,6 @@ glowflies
 glad
 gulix
 gyrostatically
-gladatorial
 glowers
 gladded
 gladden
@@ -8526,6 +8525,7 @@ guests
 gravipause
 gravisphere
 gravispheric
+gladatorial
 gravitate
 gaura
 gravitated
