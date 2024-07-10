@@ -3637,6 +3637,7 @@ addrest
 adds
 addu
 armorist
+angelique
 adduce
 antilyssic
 aberuncator
@@ -15917,7 +15918,6 @@ alchitran
 antiperistasis
 antiperistatic
 antiperistatical
-angelique
 antipersonnel
 antiperspirant
 antiperthite
