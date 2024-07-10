@@ -4042,7 +4042,6 @@ furazane
 fowage
 fire
 fireback
-favourably
 fireball
 fireballs
 flanky
@@ -9617,6 +9616,7 @@ fardo
 fashioned
 flabbergastation
 freelances
+favourably
 freelancing
 farouk
 freeload
