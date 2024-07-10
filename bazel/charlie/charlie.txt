@@ -7933,7 +7933,6 @@ cessible
 cessing
 cessio
 cession
-cessionaire
 cessionary
 cessionaries
 cessionee
@@ -22707,6 +22706,7 @@ conoidically
 camphanyl
 conoids
 conolophus
+cessionaire
 conominee
 cononintelligent
 conopholis
