@@ -560,7 +560,6 @@ backstick
 backstitched
 backstitches
 backstone
-balding
 backstop
 bringing
 bathoses
@@ -15278,6 +15277,7 @@ brigades
 bhangs
 barhal
 bitripartite
+balding
 brigading
 brigalow
 bouk
