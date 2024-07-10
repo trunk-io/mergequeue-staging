@@ -1984,6 +1984,7 @@ gaupus
 genitives
 glucoses
 getters
+grasschat
 gambist
 grantia
 gainless
@@ -8289,7 +8290,6 @@ graspingness
 graspless
 grass
 grassbird
-grasschat
 grasscut
 grasscutter
 grassed
