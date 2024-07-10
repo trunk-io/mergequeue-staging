@@ -3690,7 +3690,6 @@ embryonary
 embryonated
 elutriate
 embryonic
-embryoniferous
 emgalla
 embryoniform
 embryons
@@ -13878,6 +13877,7 @@ exhalation
 extrametrical
 extrametropolitan
 encapsuling
+embryoniferous
 exudative
 ennuyante
 enfolders
