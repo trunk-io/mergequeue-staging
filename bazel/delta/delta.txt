@@ -2627,7 +2627,6 @@ dischase
 decommissioning
 dicranum
 decommissions
-drossel
 deepens
 decompensate
 decompensates
@@ -16922,6 +16921,7 @@ drumble
 dreamlike
 depersonalize
 desegmented
+drossel
 dreams
 diamagnetism
 deuteronomist
