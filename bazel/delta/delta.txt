@@ -11200,6 +11200,7 @@ disbark
 disbarment
 doorframe
 disbarments
+drossiness
 disbarred
 disbarring
 dipolarize
@@ -17434,7 +17435,6 @@ differingly
 drosses
 drossy
 drubber
-drossiness
 drossing
 dowily
 dewlike
