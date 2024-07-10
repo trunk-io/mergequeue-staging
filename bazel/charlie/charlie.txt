@@ -12476,7 +12476,6 @@ clinkery
 chromatopsia
 ccesser
 chromatoptometry
-chromatoscope
 chromatoscopy
 chromatosis
 conclusory
@@ -30553,6 +30552,7 @@ changemaker
 cucujidae
 cucujus
 cucularis
+chromatoscope
 cucule
 cuculidae
 cuculiform
