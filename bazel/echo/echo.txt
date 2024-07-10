@@ -13125,6 +13125,7 @@ epidiascope
 equiaxed
 electrooptics
 expertship
+enc
 expetible
 eliminates
 expiable
@@ -13263,7 +13264,6 @@ elutor
 enigmatization
 explosimeter
 englishmen
-enc
 efforce
 explosion
 explosionist
