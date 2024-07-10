@@ -2131,7 +2131,6 @@ decastylar
 designatum
 delocalized
 decasualisation
-decasualise
 decasualised
 decasualising
 decasualization
@@ -15545,6 +15544,7 @@ donorship
 diplomatics
 donought
 donsy
+decasualise
 donsie
 donum
 donut

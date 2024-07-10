@@ -6641,6 +6641,7 @@ focoids
 focometry
 focsle
 focused
+fruited
 focusless
 fantad
 floorings
@@ -6706,7 +6707,6 @@ fogey
 fogfruit
 fogged
 fogger
-fruited
 foggy
 farandole
 fibrine
