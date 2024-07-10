@@ -5236,7 +5236,6 @@ charlatanish
 cassock
 cassocked
 cassocks
-cassolette
 casson
 cassonade
 cassone
@@ -17036,6 +17035,7 @@ cluttered
 clutterer
 cluttery
 cluttering
+cassolette
 clutterment
 clutters
 cortices
