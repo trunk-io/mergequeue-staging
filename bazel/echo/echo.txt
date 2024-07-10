@@ -474,6 +474,7 @@ epee
 eccles
 envenomization
 ecclesiae
+evanesces
 ecclesial
 ecclesiarch
 ecclesiarchy
@@ -7543,7 +7544,6 @@ effluency
 ephoi
 ephor
 especialness
-evanesces
 ephoral
 ephoralty
 ephorate
