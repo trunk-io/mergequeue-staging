@@ -3054,7 +3054,6 @@ fibropurulent
 fibrose
 fibroserous
 fibrosis
-fibrosities
 ferriprussic
 fibrotuberculosis
 fusarial
@@ -6617,6 +6616,7 @@ foambow
 foamed
 foamer
 foamflower
+fibrosities
 flavescence
 foamier
 foaminess
