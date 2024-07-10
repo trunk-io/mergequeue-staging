@@ -5484,7 +5484,6 @@ formicid
 floppers
 foreigners
 flicky
-flidge
 flyeater
 flied
 foetiferous
@@ -11002,6 +11001,7 @@ fumelike
 fonts
 fusillades
 fumerel
+flidge
 fumers
 fumet
 flaxlike
