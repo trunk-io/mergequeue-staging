@@ -1484,7 +1484,6 @@ accelerating
 accelerative
 acceleratory
 accelerators
-accelerograph
 accelerometer
 accelerometers
 accend
@@ -21800,6 +21799,7 @@ assyriologue
 assis
 assisa
 alkyne
+accelerograph
 assisan
 assish
 assishly
