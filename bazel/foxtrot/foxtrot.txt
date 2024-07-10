@@ -6042,7 +6042,6 @@ fragmentise
 flosser
 formuliser
 flosses
-flossflower
 flossy
 flossie
 flossies
@@ -8636,6 +8635,7 @@ failsafe
 feinschmecker
 forthrightness
 forthset
+flossflower
 foeticidal
 forthtell
 forthteller
