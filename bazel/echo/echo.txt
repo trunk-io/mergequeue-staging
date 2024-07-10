@@ -502,6 +502,7 @@ eccritic
 eccrine
 ecderon
 ecderonic
+epithelioglandular
 excerptible
 exitial
 eccentrometer
@@ -4359,7 +4360,6 @@ enact
 enactable
 enacted
 epiphysitis
-epithelioglandular
 electrotaxis
 effectualize
 enactments
