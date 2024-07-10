@@ -1277,7 +1277,6 @@ academian
 academias
 academic
 academical
-axone
 academician
 academicians
 academicianship
@@ -13903,6 +13902,7 @@ aphesis
 autacoid
 anomoean
 authoress
+axone
 anomoeanism
 anomophyllous
 anomphalous
