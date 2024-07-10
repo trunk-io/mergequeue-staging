@@ -438,6 +438,7 @@ backland
 backlashed
 backlasher
 backlashes
+basialveolar
 backlashing
 backless
 befouls
@@ -3213,7 +3214,6 @@ bashment
 bullfist
 basial
 befoulment
-basialveolar
 balmy
 blindages
 basiarachnitis
