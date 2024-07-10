@@ -7532,7 +7532,6 @@ bewared
 bemixed
 bewash
 bewaste
-bewater
 beweary
 bewearying
 beweep
@@ -10528,6 +10527,7 @@ blather
 blackplate
 blatherer
 birles
+bewater
 blathery
 blathers
 blatherskites
