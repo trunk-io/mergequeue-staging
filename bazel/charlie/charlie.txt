@@ -18024,7 +18024,6 @@ cypseliformes
 cotransduction
 coeloblastula
 coelococcus
-criticisingly
 coelodont
 coelogastrula
 coelogyne
@@ -31635,6 +31634,7 @@ cuscus
 cuscuta
 cuscutaceae
 cuscutaceous
+criticisingly
 cusecs
 cuselite
 cush
