@@ -6341,7 +6341,6 @@ dikast
 discretionarily
 dermohemal
 dermohemia
-dermohumeral
 dermoid
 dermoidal
 despiteously
@@ -14028,6 +14027,7 @@ distributaries
 distribute
 distributee
 diabolisation
+dermohumeral
 distributer
 distributes
 detailism
