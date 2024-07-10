@@ -5604,7 +5604,6 @@ afortiori
 afoul
 afounde
 afray
-aspirator
 afraid
 afraidness
 afrasia
@@ -20008,6 +20007,7 @@ aquifer
 armlock
 armoires
 armomancy
+aspirator
 armoniac
 antineutrino
 armonica
