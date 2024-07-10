@@ -5651,7 +5651,6 @@ extolls
 enfoulder
 enfrai
 enframed
-enframement
 enframes
 earbob
 enframing
@@ -12755,6 +12754,7 @@ edificable
 ensorcel
 exophoria
 exophoric
+enframement
 exophthalmic
 exophthalmos
 emotionalism
