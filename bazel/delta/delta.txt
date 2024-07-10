@@ -561,6 +561,7 @@ damageability
 damageableness
 damageably
 damaged
+delightable
 damagement
 damageous
 disyllabizing
@@ -4098,7 +4099,6 @@ delegations
 deligated
 durani
 deligation
-delightable
 dichroic
 delighted
 disguise
