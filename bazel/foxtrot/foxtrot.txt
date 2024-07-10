@@ -2308,6 +2308,7 @@ faits
 feoffer
 flies
 feoffing
+forepass
 fetlow
 feoffor
 feoffs
@@ -7801,7 +7802,6 @@ forepaled
 foreparents
 forepart
 foreparts
-forepass
 forepaw
 fragmentariness
 frailties

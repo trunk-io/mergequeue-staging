@@ -3846,7 +3846,6 @@ carcasing
 crueler
 carcass
 correct
-cellmate
 carcassed
 carcassing
 carcassless
@@ -12089,6 +12088,7 @@ choroti
 chorous
 ceratitis
 chorten
+cellmate
 chorti
 chloropalladates
 chortle
