@@ -2428,6 +2428,7 @@ erd
 electrogilding
 electrogram
 electrograph
+epistolography
 electrometrically
 endosarc
 electrography
@@ -8296,7 +8297,6 @@ enstar
 electrohomeopathy
 earsh
 epistolizing
-epistolography
 epistolographic
 epistolographist
 epistomata
