@@ -9747,7 +9747,6 @@ alvearium
 alveated
 aquilon
 alveola
-acetoxyphthalide
 alveolae
 alveolar
 alveolary
@@ -10988,6 +10987,7 @@ amolilla
 amolish
 amollish
 amomal
+acetoxyphthalide
 apnoeal
 aircraft
 amomales
