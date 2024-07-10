@@ -5346,7 +5346,6 @@ affectibility
 affectible
 affecting
 antigen
-affection
 affectional
 autotheism
 affectionally
@@ -17401,6 +17400,7 @@ apoplex
 amphodelite
 apoplexy
 apoplexious
+affection
 apoquinamine
 aporhyolite
 aporiae
