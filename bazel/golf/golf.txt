@@ -5719,7 +5719,6 @@ globigerina
 gymnadeniopsis
 gurdfish
 gyse
-gederite
 galravitch
 guapena
 globins
@@ -7627,6 +7626,7 @@ gracer
 gracilaria
 gracilariidae
 graciles
+gederite
 gracility
 gracing
 graciosity
