@@ -1894,7 +1894,6 @@ frostbite
 feds
 fee
 feeable
-funguses
 forane
 flavin
 feeb
@@ -6889,6 +6888,7 @@ footman
 flatmate
 farmhold
 folkmooter
+funguses
 furtherance
 fidgetation
 fatten
