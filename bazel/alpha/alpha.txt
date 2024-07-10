@@ -507,7 +507,6 @@ abjectedness
 abjection
 abjective
 abjectness
-abjoint
 abjudged
 abjudicate
 abjudicated
@@ -10332,6 +10331,7 @@ ameliorativ
 amelioratory
 ameloblast
 ameloblastic
+abjoint
 amelu
 amelus
 amenability
