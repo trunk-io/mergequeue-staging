@@ -5830,7 +5830,6 @@ depositary
 distome
 deeses
 depositaries
-depositation
 deposited
 depositee
 depositing
@@ -16450,6 +16449,7 @@ dozed
 dozened
 disembarkment
 derbylite
+depositation
 distemperure
 dozener
 dozening
