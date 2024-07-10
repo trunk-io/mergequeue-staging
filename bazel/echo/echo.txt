@@ -2677,7 +2677,6 @@ excheat
 equiponderancy
 ethnog
 electrovalent
-electrovection
 electrum
 elects
 electuary
@@ -13589,6 +13588,7 @@ empathizing
 extensivity
 extensometer
 excess
+electrovection
 extensor
 ephemeralness
 eigenvalues
