@@ -2149,7 +2149,6 @@ begad
 banksman
 banksmen
 bankweed
-banlieue
 bannack
 bannat
 bel
@@ -17362,6 +17361,7 @@ bateau
 bundler
 bona
 bundlers
+banlieue
 bundles
 bundlet
 ballons
