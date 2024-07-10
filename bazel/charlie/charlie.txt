@@ -10152,6 +10152,7 @@ cheskeys
 cheson
 chesoun
 chess
+covey
 chessboard
 chessboards
 chessdom
@@ -27496,7 +27497,6 @@ covariates
 covariation
 cove
 coved
-covey
 coveys
 covelline
 covellite
