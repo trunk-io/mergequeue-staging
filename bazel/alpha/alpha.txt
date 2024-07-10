@@ -4512,7 +4512,6 @@ adstipulate
 adstipulating
 adstipulation
 adstipulator
-adulterately
 adstrict
 adstringe
 adsum
@@ -18113,6 +18112,7 @@ apses
 apsychia
 arthralgic
 apsid
+adulterately
 apsidal
 apsides
 apsidiole

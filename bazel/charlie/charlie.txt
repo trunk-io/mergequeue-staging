@@ -27541,7 +27541,6 @@ covers
 coversed
 coverside
 coversine
-coverslip
 covertical
 covertly
 covertness
@@ -31350,6 +31349,7 @@ curites
 curitis
 curium
 curiums
+coverslip
 cholecystoileostomy
 curl
 curled
