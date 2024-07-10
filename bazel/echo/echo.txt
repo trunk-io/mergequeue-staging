@@ -5677,6 +5677,7 @@ engager
 engagers
 encumbrances
 eviternal
+epoche
 elastometer
 esplanades
 engagingness
@@ -8468,7 +8469,6 @@ epizootology
 epoch
 epithelioid
 evangels
-epoche
 eggy
 epochism
 enantobiosis
