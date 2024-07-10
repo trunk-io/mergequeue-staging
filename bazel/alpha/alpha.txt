@@ -11904,7 +11904,6 @@ amperage
 anamite
 anammonid
 ancestral
-anammonide
 asarite
 anamneses
 anamnestic
@@ -22580,6 +22579,7 @@ atheological
 atheologically
 athericera
 athericeran
+anammonide
 abrogated
 antisiccative
 athericerous
