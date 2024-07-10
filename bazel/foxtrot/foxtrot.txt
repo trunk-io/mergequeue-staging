@@ -1285,7 +1285,6 @@ fadable
 fraunch
 forestology
 fumigate
-fastigium
 foreswore
 fasting
 finalists
@@ -4017,6 +4016,7 @@ fregatidae
 fintadores
 fantigue
 ferth
+fastigium
 fionnuala
 fiorin
 fiorite
