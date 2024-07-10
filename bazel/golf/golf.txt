@@ -3551,7 +3551,6 @@ galactoma
 gerrymanders
 gers
 gersdorffite
-gaussbergite
 garbled
 gerate
 genes
@@ -3829,6 +3828,7 @@ ghostily
 galah
 gedanite
 gabelles
+gaussbergite
 ghostish
 ghostlet
 gigantic
