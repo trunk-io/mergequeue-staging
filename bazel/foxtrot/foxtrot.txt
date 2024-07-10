@@ -4822,7 +4822,6 @@ fuzzle
 forehood
 flameout
 forcleave
-flameouts
 fackeltanz
 flameproof
 formolite
@@ -6493,6 +6492,7 @@ focalize
 flushness
 fluors
 flusk
+flameouts
 floodtime
 flusterated
 futtocks
