@@ -8011,6 +8011,7 @@ alertly
 alertness
 alerts
 ales
+ampulliform
 alesan
 aleshot
 alestake
@@ -11456,7 +11457,6 @@ aclinic
 ampullariidae
 ampullate
 ampullated
-ampulliform
 ampullosity
 ampullulae
 ampuls
