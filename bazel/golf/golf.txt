@@ -1375,6 +1375,7 @@ gov
 gardy
 gardyloo
 gardnap
+germling
 giher
 gaufrettes
 gamesmanship
@@ -3492,7 +3493,6 @@ goldsinny
 geminating
 germless
 germlike
-germling
 germon
 gelatigenous
 germproof
