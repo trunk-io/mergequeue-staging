@@ -1650,7 +1650,6 @@ amygdalolith
 acclimatizes
 acclimatizing
 acclimature
-acclinate
 acclivities
 aegis
 anaxial
@@ -18033,6 +18032,7 @@ approvement
 approver
 approvers
 approves
+acclinate
 approving
 approvingly
 approx
