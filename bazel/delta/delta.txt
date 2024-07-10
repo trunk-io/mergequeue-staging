@@ -5261,6 +5261,7 @@ disclaims
 densities
 densitometer
 densitometers
+droplight
 densitometric
 densus
 dent
@@ -17370,7 +17371,6 @@ diosma
 dropheads
 damie
 droplets
-droplight
 dropline
 dropling
 dropmeal
