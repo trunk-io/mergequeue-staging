@@ -8925,7 +8925,6 @@ biocycle
 biocycles
 botan
 biocidal
-biocide
 backstabbing
 biocides
 bioclimatic
@@ -18273,6 +18272,7 @@ butterroot
 betuckered
 butters
 bulkheading
+biocide
 butterscotch
 bearbush
 bergamo
