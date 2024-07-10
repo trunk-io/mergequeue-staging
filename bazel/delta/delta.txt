@@ -395,6 +395,7 @@ daimiate
 dn
 didacticality
 disillusion
+dulias
 daimio
 daimyo
 drungar
@@ -13962,7 +13963,6 @@ dolichosaur
 distort
 deterration
 distortable
-dulias
 daggy
 distortedness
 dominion

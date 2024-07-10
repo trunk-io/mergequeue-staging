@@ -2805,7 +2805,6 @@ baroclinicity
 baroco
 barodynamic
 barognosis
-barographs
 baroko
 bicoloured
 barolo
@@ -8533,6 +8532,7 @@ bilingualism
 bilinguality
 bilinguist
 bedaubed
+barographs
 bully
 byliny
 bulger
