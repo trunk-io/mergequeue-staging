@@ -2294,7 +2294,6 @@ chasubled
 curare
 cancers
 cancerweed
-cancerwort
 canch
 cancha
 checkbird
@@ -23718,6 +23717,7 @@ contradictious
 contradictiously
 contradictiousness
 contradictive
+cancerwort
 contradictorily
 contradictoriness
 conceptism
