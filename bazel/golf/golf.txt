@@ -8436,6 +8436,7 @@ galvanization
 gravamem
 gales
 ganodonta
+gravure
 gliffs
 gravamens
 gravamina
@@ -8543,7 +8544,6 @@ gravitic
 gravitometer
 graviton
 gravitons
-gravure
 groundwater
 gossameriness
 graze
