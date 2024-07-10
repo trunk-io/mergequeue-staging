@@ -1978,7 +1978,6 @@ garnishing
 gauged
 gauges
 gangers
-gaupus
 genitives
 glucoses
 getters
@@ -5683,6 +5682,7 @@ goles
 glossarist
 globalism
 globalist
+gaupus
 globalists
 guidances
 globality
