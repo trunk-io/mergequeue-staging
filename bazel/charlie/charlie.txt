@@ -11560,6 +11560,7 @@ chaste
 cannibalized
 chokered
 chokerman
+countertime
 chokers
 chokestrap
 chokeweed
@@ -27193,7 +27194,6 @@ countertheory
 counterthought
 counterthwarting
 countertierce
-countertime
 countertype
 countertouch
 countertraction
