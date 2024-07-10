@@ -2999,7 +2999,6 @@ barrens
 barrer
 barres
 barret
-barretor
 barretors
 barretry
 boundaries
@@ -15460,6 +15459,7 @@ bywalker
 babongo
 bryozoum
 briquets
+barretor
 briquette
 brisa
 brisance
