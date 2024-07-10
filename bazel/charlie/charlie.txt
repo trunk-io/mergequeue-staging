@@ -20393,6 +20393,7 @@ communising
 carrotier
 communism
 communist
+confervalike
 communistery
 communisteries
 communistic
@@ -21945,7 +21946,6 @@ conferva
 confervaceous
 confervae
 conferval
-confervalike
 confervas
 confervoid
 confervoideae
