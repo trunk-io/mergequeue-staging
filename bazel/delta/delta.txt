@@ -3657,7 +3657,6 @@ degravate
 dunking
 deoxidized
 degrease
-degreased
 degreaser
 degreases
 degreasing
@@ -10695,6 +10694,7 @@ dipneustal
 dipnoi
 dipnoid
 deceptitious
+degreased
 dipode
 dipody
 dipodic

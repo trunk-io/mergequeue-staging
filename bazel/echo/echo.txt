@@ -13252,6 +13252,7 @@ evaporimeter
 exploratively
 explorator
 epiphysial
+extrude
 exploratory
 earlocks
 epistolized
@@ -14100,7 +14101,6 @@ extruct
 extrudability
 extrudable
 excussion
-extrude
 extruder
 epigynum
 entrails
