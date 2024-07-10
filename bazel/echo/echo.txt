@@ -6842,7 +6842,6 @@ extraformal
 evanescible
 entitled
 entitledness
-entitling
 entoblast
 entobronchium
 ebbman
@@ -13886,6 +13885,7 @@ extramolecular
 europiums
 extramoral
 extramundane
+entitling
 extramurally
 extirpationist
 extranational
