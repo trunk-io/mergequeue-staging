@@ -6889,7 +6889,6 @@ beseemly
 beseems
 beseen
 beseige
-beset
 besetment
 besets
 bummel
@@ -10777,6 +10776,7 @@ blepharohematidrosis
 blepharolithiasis
 blepharomelasma
 blepharoncosis
+beset
 blepharoncus
 blepharophyma
 blepharophryplasty
