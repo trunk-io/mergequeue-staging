@@ -7187,7 +7187,6 @@ daishiki
 dogshore
 detectable
 detectaphone
-deferrable
 detected
 detecter
 detecters
@@ -17639,6 +17638,7 @@ drupel
 dimness
 drupelet
 drupelets
+deferrable
 drupeole
 drupes
 drupetum
