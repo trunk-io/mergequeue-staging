@@ -2039,7 +2039,6 @@ decannulation
 decanoyl
 decanol
 disables
-duping
 desmogenous
 decanonization
 decanonize
@@ -16943,6 +16942,7 @@ dragline
 drearisome
 dictyosiphon
 dreche
+duping
 dreck
 droich
 dwarfishness
