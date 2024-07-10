@@ -297,7 +297,6 @@ eastertide
 eastings
 electrotechnician
 eastlake
-eastlander
 encharnel
 eastlin
 eastling
@@ -4771,6 +4770,7 @@ eutexia
 enclaved
 entailing
 enclaves
+eastlander
 enclaving
 enclitical
 enclitically
