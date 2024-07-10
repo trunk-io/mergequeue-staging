@@ -13833,6 +13833,7 @@ distends
 deblock
 distensibility
 distensibilities
+decimolar
 distensile
 distension
 distensions
@@ -17131,7 +17132,6 @@ drill
 drillability
 demosthenic
 drillable
-decimolar
 drilled
 driller
 dromaeognathous
