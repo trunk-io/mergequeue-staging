@@ -2478,7 +2478,6 @@ declarer
 declarers
 declares
 declaring
-declass
 declassed
 divisibly
 destrer
@@ -11972,6 +11971,7 @@ denaturize
 disemploy
 disemployed
 disemploying
+declass
 dorados
 disemployment
 devilship
