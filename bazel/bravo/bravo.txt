@@ -3471,7 +3471,6 @@ bankbooks
 biggah
 bastiment
 bastinaded
-bastinades
 baroi
 bastinading
 burbots
@@ -3572,6 +3571,7 @@ bathylimnetic
 bathylite
 beltwise
 bouillon
+bastinades
 bathylith
 bathylithic
 bathylitic
