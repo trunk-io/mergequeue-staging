@@ -12062,6 +12062,7 @@ deled
 disentitle
 disentitlement
 disentomb
+domoid
 disentombment
 declaimant
 dories
@@ -15419,7 +15420,6 @@ dryopteris
 domitic
 dryhouse
 domn
-domoid
 dompt
 dompteuse
 doms
