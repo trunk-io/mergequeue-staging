@@ -843,7 +843,6 @@ baedekerian
 biosynthesis
 baste
 barbary
-baeria
 baetyl
 baetylus
 baetulus
@@ -1795,6 +1794,7 @@ baltis
 balu
 baluba
 baluch
+baeria
 brittle
 barytone
 baluchitheria
