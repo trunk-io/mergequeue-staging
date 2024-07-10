@@ -2419,7 +2419,6 @@ dissociations
 decistere
 decisteres
 decius
-decivilization
 decivilize
 deck
 decke
@@ -3496,6 +3495,7 @@ deraigns
 defrauder
 defrauding
 defraudment
+decivilization
 dusttight
 drammage
 dagame
