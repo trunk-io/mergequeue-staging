@@ -2428,7 +2428,6 @@ acyanoblepsia
 acyanopsia
 acichlorid
 acichloride
-acyclic
 acicula
 aciculae
 antiutilitarian
@@ -9693,6 +9692,7 @@ annulations
 alumin
 alumina
 aluminaphone
+acyclic
 aluminas
 aluminate
 alumines
