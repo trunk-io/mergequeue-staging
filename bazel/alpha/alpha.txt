@@ -1356,7 +1356,6 @@ acantholimon
 acantholysis
 acanthology
 acanthological
-acanthoma
 acanthon
 apocryph
 aristologist
@@ -23721,6 +23720,7 @@ austerities
 austerlitz
 austerus
 anglicist
+acanthoma
 abrogation
 austin
 areason
