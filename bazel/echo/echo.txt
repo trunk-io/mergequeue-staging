@@ -555,7 +555,6 @@ eggcrate
 entopic
 evocate
 echimys
-emergent
 echinacea
 echinate
 exteriorizing
@@ -11416,6 +11415,7 @@ evaporitic
 exhibitive
 eluctate
 evaporometer
+emergent
 evapotranspiration
 evase
 evasion
