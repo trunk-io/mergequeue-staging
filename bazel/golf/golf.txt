@@ -2896,6 +2896,7 @@ giantlikeness
 geysers
 goodhearted
 gentian
+gastrostaxis
 gentiana
 globousness
 gryphite
@@ -4650,7 +4651,6 @@ gypsyhood
 gunsmithery
 gonoplasm
 gipsyish
-gastrostaxis
 gypsyish
 grot
 glucke
