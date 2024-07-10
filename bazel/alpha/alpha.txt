@@ -3354,7 +3354,6 @@ aculea
 antizymic
 aculeae
 aculeata
-aculeated
 ambassiate
 aculei
 adonian
@@ -14269,6 +14268,7 @@ antelope
 antelopine
 antelucan
 antelude
+aculeated
 apaesthesia
 anteluminary
 antemarginal
