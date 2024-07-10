@@ -331,7 +331,6 @@ galactogogue
 galactohemia
 galactoid
 gametophyll
-galactolipide
 glebes
 goth
 galactolipin
@@ -5210,6 +5209,7 @@ grazer
 gastronome
 gyrose
 garbages
+galactolipide
 gurjara
 graminous
 glariest
