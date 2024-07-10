@@ -1113,7 +1113,6 @@ farrieries
 forereport
 farris
 farrisite
-farrowing
 farrows
 farruca
 fanfaron
@@ -6275,6 +6274,7 @@ fisheater
 fluidity
 finestill
 fluidities
+farrowing
 fluidization
 fluidize
 fluidized
