@@ -1143,7 +1143,6 @@ gullible
 gurgled
 ganglionated
 ganglionectomy
-ganglionectomies
 ganglioneural
 glyptotherium
 girderless
@@ -6177,6 +6176,7 @@ glaniostomi
 glumness
 glumnesses
 guarders
+ganglionectomies
 glaucodote
 gyrovagi
 glumose
