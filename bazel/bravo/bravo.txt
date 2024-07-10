@@ -6957,6 +6957,7 @@ bosniac
 besiege
 besieged
 bardash
+brawlier
 bathymeter
 besieges
 besieging
@@ -14701,7 +14702,6 @@ brawler
 beveller
 biomicroscopies
 bedown
-brawlier
 brawliest
 benzobis
 brawlys
