@@ -10117,7 +10117,6 @@ cherty
 chertiest
 cherts
 cherub
-cherubfish
 cherubfishes
 cherubic
 cherubical
@@ -13479,6 +13478,7 @@ cyclostomes
 conversi
 cyclostomi
 cyclostomidae
+cherubfish
 cyclostomous
 contradictories
 cyclotella
