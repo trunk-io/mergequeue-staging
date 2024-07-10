@@ -3479,6 +3479,7 @@ columnate
 carack
 caracks
 caracoa
+chesstree
 caracole
 caracoled
 caracoler
@@ -10167,7 +10168,6 @@ chessmen
 chessner
 chessom
 coxalgic
-chesstree
 chest
 chested
 chester
