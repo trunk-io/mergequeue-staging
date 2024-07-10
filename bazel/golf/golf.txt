@@ -5993,7 +5993,6 @@ glossopteris
 genearch
 glossoptosis
 glossospasm
-glossosteresis
 glossotomy
 glottal
 gynecomania
@@ -9891,6 +9890,7 @@ guarani
 guaranian
 guaranies
 guaranine
+glossosteresis
 guaranis
 grindingly
 gossiping
