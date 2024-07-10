@@ -56,7 +56,6 @@ facaded
 faceable
 facebow
 facebread
-farms
 facecloth
 faceless
 facelessness
@@ -1775,6 +1774,7 @@ featishness
 featless
 featly
 featliest
+farms
 flocculency
 featliness
 felucca

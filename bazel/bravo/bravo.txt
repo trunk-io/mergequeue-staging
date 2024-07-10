@@ -6134,7 +6134,6 @@ beneficialness
 beneficiary
 beneficiaries
 beneficiaryship
-beneficiate
 beneficiated
 beneficiating
 beneficiation
@@ -15429,6 +15428,7 @@ brioches
 bryogenin
 briolet
 briolettes
+beneficiate
 bryology
 breechless
 bechalks
