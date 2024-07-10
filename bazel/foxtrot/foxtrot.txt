@@ -7605,6 +7605,7 @@ fungicide
 forefeet
 foiled
 forefence
+forloin
 forefend
 forefending
 forefends
@@ -9900,7 +9901,6 @@ fry
 fougade
 friable
 friand
-forloin
 freighting
 flagship
 francophobia
