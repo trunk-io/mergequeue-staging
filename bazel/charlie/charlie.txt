@@ -17275,6 +17275,7 @@ coalpit
 coalpits
 coalrake
 coals
+customized
 coalsacks
 coalshed
 coalsheds
@@ -31736,7 +31737,6 @@ customhouses
 customizable
 customizations
 customize
-customized
 customizer
 customizers
 customizes
