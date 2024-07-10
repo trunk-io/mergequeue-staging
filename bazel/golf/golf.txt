@@ -5241,7 +5241,6 @@ glassen
 glassfish
 glassfuls
 glassy
-glassie
 gravelstone
 gommelin
 glassies
@@ -7593,6 +7592,7 @@ guitermanite
 gingerbread
 gehlenite
 grabbots
+glassie
 grabber
 grabbers
 gesundheit
