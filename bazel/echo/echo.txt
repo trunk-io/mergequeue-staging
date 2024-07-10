@@ -10056,7 +10056,6 @@ estive
 edema
 estmark
 estoc
-estocada
 estoil
 estoile
 exude
@@ -13882,6 +13881,7 @@ encapsuling
 exudative
 ennuyante
 enfolders
+estocada
 extramolecular
 europiums
 extramoral
