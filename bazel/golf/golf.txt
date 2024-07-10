@@ -5264,7 +5264,6 @@ glassophone
 glassrope
 glassteel
 gnathic
-glasswork
 guider
 glassworks
 gasbags
@@ -9401,6 +9400,7 @@ granges
 grouchy
 gageable
 gearbox
+glasswork
 gogmagog
 galopades
 grouchier
