@@ -6432,7 +6432,6 @@ cavilingness
 cavillation
 cavillatory
 chancelloress
-cavilled
 caviller
 cavillers
 carbon
@@ -28524,6 +28523,7 @@ credibilities
 credible
 credibleness
 credibly
+cavilled
 credit
 cady
 creditability
