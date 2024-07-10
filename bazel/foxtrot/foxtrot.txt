@@ -3360,7 +3360,6 @@ fighteress
 frontomalar
 founds
 fighters
-forcibleness
 fightings
 fascio
 fightwite
@@ -9064,6 +9063,7 @@ foxfeet
 forecomingness
 franseria
 foxfire
+forcibleness
 firepans
 franciscans
 foxfish
