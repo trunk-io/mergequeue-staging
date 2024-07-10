@@ -6620,7 +6620,6 @@ ceyx
 ceja
 celadon
 copters
-celadonite
 celadons
 celaeno
 celandines
@@ -25187,6 +25186,7 @@ corycavidine
 corycia
 corydalin
 corydaline
+celadonite
 corydalis
 corydon
 corydora
