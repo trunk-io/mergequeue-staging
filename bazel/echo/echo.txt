@@ -798,7 +798,6 @@ ecphrasis
 eiffel
 eddo
 ecrase
-ecraseur
 ecraseurs
 ecrasite
 ecrevisse
@@ -9680,6 +9679,7 @@ epigastrial
 emoted
 eve
 etiologically
+ecraseur
 esnecy
 esoanhydride
 effigiate
