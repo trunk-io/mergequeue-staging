@@ -4459,7 +4459,6 @@ demerse
 demersed
 demesgne
 demesman
-dialyse
 demesne
 demesnes
 demesnial
@@ -14038,6 +14037,7 @@ distributions
 distributival
 distributively
 distributiveness
+dialyse
 distributivity
 distributor
 dirtying
