@@ -6988,7 +6988,6 @@ goodsire
 gunky
 gloomed
 grisliness
-gonzalo
 glaciologist
 goo
 galesaurus
@@ -7256,6 +7255,7 @@ gorgonise
 gorgonising
 gorgonizing
 gravity
+gonzalo
 gorgosaurus
 gorhen
 goriest
