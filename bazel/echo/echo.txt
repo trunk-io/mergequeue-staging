@@ -4853,6 +4853,7 @@ events
 encoronate
 encounterable
 encountered
+encouraged
 emoters
 entitlement
 egotism
@@ -4861,7 +4862,6 @@ enkindling
 encounters
 economising
 encourage
-encouraged
 encouragement
 extremist
 excavatory
