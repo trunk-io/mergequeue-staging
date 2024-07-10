@@ -3897,6 +3897,7 @@ bazaars
 bazar
 brevilingual
 bazigar
+bluethroat
 boltrope
 bazoo
 bazooka
@@ -11404,7 +11405,6 @@ bluestoner
 brougham
 bluet
 blueth
-bluethroat
 bluetit
 bluetongue
 bluetops
