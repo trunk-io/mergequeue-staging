@@ -954,6 +954,7 @@ abseils
 absence
 amidoplast
 agglutinating
+ampul
 absences
 absyrtus
 absentation
@@ -11428,7 +11429,6 @@ ampollosity
 accurate
 ampoule
 amps
-ampul
 ampulate
 ampulated
 ampulating
