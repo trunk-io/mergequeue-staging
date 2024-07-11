@@ -2840,7 +2840,6 @@ brotherwort
 baroness
 baronesses
 baronet
-baronetage
 baronetcy
 baroneted
 baronetical
@@ -9526,6 +9525,7 @@ byroad
 byroads
 birodo
 biron
+baronetage
 byronian
 byroniana
 byronic
