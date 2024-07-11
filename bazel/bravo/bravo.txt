@@ -7195,7 +7195,6 @@ blackcaps
 betulaceae
 bene
 bestially
-bestials
 bestian
 bestiary
 bestiarianism
@@ -8817,6 +8816,7 @@ bindweed
 bindwith
 bromol
 ballistocardiography
+bestials
 bindwood
 bines
 binful
