@@ -2352,7 +2352,6 @@ electrochronometer
 enterochromaffin
 electrochronometric
 electrocystoscope
-erythrophore
 electrocolloidal
 electrocontractility
 electroconvulsive
@@ -7621,6 +7620,7 @@ epicenters
 epicentral
 epicentre
 eelpot
+erythrophore
 excommunicative
 electrization
 exr
