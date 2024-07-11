@@ -6239,7 +6239,6 @@ defeaters
 dermatogen
 dermatoglyphic
 dermatoglyphics
-dermatograph
 dermatographia
 denucleate
 devoured
@@ -15825,6 +15824,7 @@ dorsicolumn
 decayable
 dorsicommissure
 dorsiferous
+dermatograph
 dorsifixed
 dorsiflex
 dorsiflexion
