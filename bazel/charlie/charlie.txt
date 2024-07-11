@@ -16736,7 +16736,6 @@ createdness
 closest
 closet
 closeted
-closeting
 cymbium
 closets
 closeup
@@ -24180,6 +24179,7 @@ convexo
 convexoconcave
 counterscale
 conviciate
+closeting
 convicinity
 convict
 convictable
