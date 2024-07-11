@@ -481,6 +481,7 @@ funestal
 fervors
 falces
 falchion
+featherers
 fanweed
 falcial
 falcidian
@@ -2052,7 +2053,6 @@ fellowshipped
 fricandeaus
 fellagha
 fellah
-featherers
 fellahin
 fellahs
 foreslack
