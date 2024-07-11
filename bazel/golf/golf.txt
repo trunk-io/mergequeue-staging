@@ -6044,7 +6044,6 @@ gammoner
 glow
 girnel
 glowbard
-glowbird
 glowed
 glower
 glowered
@@ -6213,6 +6212,7 @@ gangway
 grecianize
 gadbee
 glutaric
+glowbird
 ghastliest
 glutch
 glutelin
