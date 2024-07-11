@@ -1519,6 +1519,7 @@ externs
 evelyn
 empestic
 equationally
+embottle
 exiledom
 egality
 espalier
@@ -3184,7 +3185,6 @@ elude
 electrophoresis
 eluded
 eluder
-embottle
 eludes
 epaleaceous
 epilegomenon
