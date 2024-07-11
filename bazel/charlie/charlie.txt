@@ -2728,6 +2728,7 @@ casuists
 canotier
 canreply
 canroy
+capcase
 canroyer
 cansful
 canso
@@ -14690,7 +14691,6 @@ cystectomies
 cisted
 cysted
 cysteine
-capcase
 colipyuria
 cysteines
 cucuyo
