@@ -3349,7 +3349,6 @@ acubens
 acuchi
 acuerdo
 acuesthesia
-acuity
 acuities
 aculea
 antizymic
@@ -21800,6 +21799,7 @@ assyriology
 assyriological
 assyriologist
 aliases
+acuity
 assyriologue
 assis
 assisa
