@@ -3132,7 +3132,6 @@ bewares
 basalt
 basaltes
 basaltic
-basaltiform
 batetela
 basaltine
 basalts
@@ -13211,6 +13210,7 @@ bosselated
 blastomycin
 bosselation
 bronchiectatic
+basaltiform
 bosses
 bosset
 bossy

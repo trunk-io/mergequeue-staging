@@ -1655,6 +1655,7 @@ egos
 egosyntonic
 encoronet
 entier
+eisegeses
 es
 egotheism
 egotisms
@@ -3975,7 +3976,6 @@ emissive
 emissory
 emittance
 emitted
-eisegeses
 electra
 emittent
 emitting
