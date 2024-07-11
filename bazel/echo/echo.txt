@@ -8124,7 +8124,6 @@ epipodialia
 epigonous
 epipoditic
 extracorporeal
-epipodium
 epipolic
 ectoplacenta
 ecthlipsis
@@ -8705,6 +8704,7 @@ equilocation
 equilucent
 equimolal
 equinal
+epipodium
 enfant
 equinate
 emerging
