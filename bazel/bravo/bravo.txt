@@ -8754,6 +8754,7 @@ breadboards
 bilicyanin
 blippers
 bimodality
+broadway
 bimodule
 bimodulus
 blancmanger
@@ -15639,7 +15640,6 @@ ballyrags
 bluesman
 broadswords
 boolies
-broadway
 brute
 bidiurnal
 broadwayite
