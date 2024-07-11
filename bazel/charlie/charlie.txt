@@ -2309,7 +2309,6 @@ canchas
 cancion
 cancionero
 canciones
-cancri
 cancrid
 cancriform
 cancrine
@@ -15405,6 +15404,7 @@ clamjamphrie
 clamlike
 clammersome
 clammy
+cancri
 clammier
 clammiest
 clammily
