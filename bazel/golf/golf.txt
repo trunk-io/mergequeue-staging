@@ -6668,7 +6668,6 @@ griffade
 glagolitic
 gaus
 goldenrod
-gabionade
 gucked
 goldentop
 garage
@@ -8930,6 +8929,7 @@ ganglioblast
 grieved
 grievedly
 griever
+gabionade
 guardful
 gibli
 grieveship
