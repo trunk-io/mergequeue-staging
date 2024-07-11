@@ -8271,7 +8271,6 @@ chaise
 could
 chaiseless
 chaises
-chait
 chaitya
 chaityas
 chaitra
@@ -24677,6 +24676,7 @@ copolymerism
 copolymerization
 copolymerize
 copolymerized
+chait
 copolymerizing
 copolymers
 copopoda
