@@ -4796,6 +4796,7 @@ clashes
 carrotiness
 congregants
 carrotins
+chestful
 clarions
 carrots
 cubiti
@@ -10181,7 +10182,6 @@ chesterbed
 chesterfield
 chesterfields
 chesterlite
-chestful
 chesty
 chestiest
 chestiness
