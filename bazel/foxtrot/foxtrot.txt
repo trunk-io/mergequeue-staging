@@ -3756,7 +3756,6 @@ fimbricated
 fimbrilla
 fimbrillae
 fod
-feyest
 forspoke
 fohat
 ferash
@@ -5697,6 +5696,7 @@ fishnet
 flytings
 futharks
 fleuronee
+feyest
 flytrap
 flytraps
 fibrocyst
