@@ -1735,7 +1735,6 @@ goosecap
 gastroblennorrhea
 gastrocatarrhal
 gastrocele
-gastrochaena
 goldfish
 gastrochaenidae
 giltheads
@@ -4833,6 +4832,7 @@ golliwogg
 gyrodactylidae
 gyrodactylus
 gastrocoele
+gastrochaena
 gyrogonite
 graffias
 gyrograph
