@@ -5342,7 +5342,6 @@ endosmic
 endosmometric
 extraversive
 endosmos
-exsect
 endosmose
 endosmoses
 endosmosis
@@ -11626,6 +11625,7 @@ erbium
 equanimousness
 ethereous
 evils
+exsect
 evilspeaker
 evilspeaking
 enumerations
