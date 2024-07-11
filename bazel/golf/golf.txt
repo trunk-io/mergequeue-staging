@@ -4040,7 +4040,6 @@ giga
 gigabyte
 gigabytes
 gigacycle
-gigahertz
 gigameter
 gigantal
 gigantean
@@ -9937,6 +9936,7 @@ gasconism
 grocerymen
 guardianship
 guardianships
+gigahertz
 guarding
 galliardise
 gumminess

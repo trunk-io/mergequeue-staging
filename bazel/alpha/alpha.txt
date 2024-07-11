@@ -4027,7 +4027,6 @@ adjoinant
 adjoined
 adjoinedly
 analphabetism
-architecturalist
 adjoiner
 adjoining
 adjoiningness
@@ -9726,6 +9725,7 @@ alumni
 alumniate
 alumnol
 alumnus
+architecturalist
 alumohydrocalcite
 alumroot
 alumroots
