@@ -5125,7 +5125,6 @@ etacist
 eppie
 entities
 endocellular
-epicycle
 exposition
 enshrine
 endoceras
@@ -5768,6 +5767,7 @@ enfoil
 endochrome
 eadi
 englisher
+epicycle
 enhalo
 endoplasmic
 englishes
