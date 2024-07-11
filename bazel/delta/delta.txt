@@ -1503,7 +1503,6 @@ discoid
 deadbeat
 deadbeats
 deadborn
-deadcenter
 discussant
 dilemmas
 deadeye
@@ -9792,6 +9791,7 @@ diligentia
 diligentness
 dunker
 debited
+deadcenter
 dilis
 dilker
 dillenia
