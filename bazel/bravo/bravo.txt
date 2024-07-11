@@ -6420,6 +6420,7 @@ benzonaphthol
 bedded
 benzonitrile
 benzonitrol
+brownishness
 bluebuck
 benzoperoxide
 benzophenazine
@@ -16175,7 +16176,6 @@ browniness
 browning
 browningesque
 brownish
-brownishness
 brownism
 brownist
 biocenology
