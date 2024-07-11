@@ -3024,7 +3024,6 @@ barricades
 barricadoed
 barricadoes
 barricados
-barrico
 barricoes
 biologicohumanistic
 barriers
@@ -7728,6 +7727,7 @@ buses
 bhuts
 bimilllennia
 biabo
+barrico
 biacetyl
 bioecologist
 biacetyls
