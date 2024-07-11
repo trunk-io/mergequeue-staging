@@ -2983,7 +2983,6 @@ capacitation
 conrector
 capacitations
 childes
-capacitative
 capacitativly
 capacity
 capacities
@@ -9202,6 +9201,7 @@ chartlet
 chartographer
 chartography
 carnifices
+capacitative
 chartographic
 chartographical
 chartographist
