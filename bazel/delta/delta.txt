@@ -2839,7 +2839,6 @@ detections
 decubiti
 decubitus
 didascaly
-disemboweled
 decuman
 decumani
 decumanus
@@ -9326,6 +9325,7 @@ diethylamide
 diethylamine
 diethylaminoethanol
 diethylenediamine
+disemboweled
 diethylethanolamine
 dalton
 dysepulotic

@@ -1318,7 +1318,6 @@ effectors
 effectress
 effects
 effectual
-electrizable
 effectuality
 enrib
 extracystic
@@ -7869,6 +7868,7 @@ easting
 eos
 epiglottidean
 egging
+electrizable
 economite
 exosmosis
 epiglottiditis
