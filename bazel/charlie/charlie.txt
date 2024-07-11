@@ -2986,7 +2986,6 @@ capacitations
 childes
 capacitative
 capacitativly
-capacity
 capacities
 capanne
 cystolithectomy
@@ -22773,6 +22772,7 @@ consarn
 conscience
 cattlehide
 conscienceless
+capacity
 consciencelessly
 convallamarin
 consciencelessness
