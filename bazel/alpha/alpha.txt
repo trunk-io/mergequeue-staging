@@ -15503,7 +15503,6 @@ antikamnia
 antikathode
 antikenotoxin
 antiketogen
-antiketogenesis
 antiketogenic
 antikinase
 agariciform
@@ -19463,6 +19462,7 @@ argentation
 argenteous
 anguilla
 argenter
+antiketogenesis
 argenteum
 albolite
 argentic
