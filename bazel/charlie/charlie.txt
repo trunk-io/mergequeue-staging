@@ -3145,6 +3145,7 @@ capitulate
 capitulated
 conclude
 capitulates
+cloisonn
 capitulating
 capitulation
 capitulator
@@ -14990,7 +14991,6 @@ cytolysis
 cytolist
 cytolytic
 cytology
-cloisonn
 cytologic
 cytologically
 cytologies
