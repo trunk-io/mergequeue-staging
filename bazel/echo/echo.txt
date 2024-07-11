@@ -5432,7 +5432,6 @@ endothermy
 endothermic
 endothermism
 endothermous
-endothia
 endothoracic
 endothrix
 ergodic
@@ -10527,6 +10526,7 @@ enrockment
 exempla
 ethnologer
 ethnology
+endothia
 ethnologically
 evansite
 ethnologist
