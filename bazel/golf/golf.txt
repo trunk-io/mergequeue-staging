@@ -1503,7 +1503,6 @@ garrigue
 gastroenteroanastomosis
 gemology
 gerated
-garrisoned
 garrisonian
 grided
 gleeman
@@ -7132,6 +7131,7 @@ gyrous
 grandfathership
 gains
 goosefishes
+garrisoned
 gooseflesh
 gooseflower
 goosefoot
