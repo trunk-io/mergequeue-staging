@@ -2427,7 +2427,6 @@ electrogenesis
 electrogenic
 electrogild
 erd
-electrogilding
 electrogram
 electrograph
 electrometrically
@@ -5355,6 +5354,7 @@ endosmose
 endosmoses
 endosmosis
 endosmotic
+electrogilding
 endosmotically
 endosome
 endosperm
