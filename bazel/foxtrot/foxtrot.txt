@@ -3276,7 +3276,6 @@ firefanging
 fieldmen
 fieldmice
 fieldsmen
-fieldstone
 fashery
 frondiform
 fieldworker
@@ -3415,6 +3414,7 @@ figury
 footprints
 figurial
 flushy
+fieldstone
 figurine
 fenester
 figurist
