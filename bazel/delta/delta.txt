@@ -2359,7 +2359,6 @@ decillion
 deis
 decillionth
 decima
-decimalisation
 decimalise
 decimalised
 derivative
@@ -15219,6 +15218,7 @@ deepener
 dollardee
 dollarfish
 dollarfishes
+decimalisation
 dysphemized
 dollarleaf
 deeny
