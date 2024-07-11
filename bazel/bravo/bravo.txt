@@ -2512,7 +2512,6 @@ bellyfulls
 bassette
 bunns
 bazookas
-bardocucullus
 bardolater
 bardolatry
 blindman
@@ -7718,6 +7717,7 @@ bhoots
 borrowing
 bhotia
 bhotiya
+bardocucullus
 boogymen
 bhowani
 bhumij
