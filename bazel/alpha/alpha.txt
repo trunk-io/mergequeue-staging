@@ -541,7 +541,6 @@ abkhas
 apposite
 abkhasian
 abl
-ablactated
 ablactating
 argentide
 ablactation
@@ -6100,6 +6099,7 @@ agger
 aggeration
 aggerose
 aggest
+ablactated
 abulia
 aggie
 aggies
