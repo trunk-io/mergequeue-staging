@@ -2524,7 +2524,6 @@ electromotor
 electron
 electronarcosis
 elevener
-electronervous
 electroneutral
 electroneutrality
 embryonate
@@ -8339,6 +8338,7 @@ evolutionarily
 embryological
 eschynite
 erythrocytometer
+electronervous
 equability
 epithalamic
 epithalamium
