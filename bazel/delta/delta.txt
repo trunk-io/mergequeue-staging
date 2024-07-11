@@ -4948,7 +4948,6 @@ demulsifier
 demulsion
 demultiplex
 demultiplexed
-demultiplexer
 demultiplexers
 disroot
 diazepam
@@ -10237,6 +10236,7 @@ dispiritedly
 dispersoidology
 dinnerless
 dinnertime
+demultiplexer
 dinnerware
 dinning
 dinobryon
