@@ -2214,7 +2214,6 @@ gazy
 gutterwise
 gambodic
 gearcase
-gearcases
 geared
 gearing
 gearings
@@ -10581,6 +10580,7 @@ galvanoscopic
 guaycuruan
 gunstick
 gunstock
+gearcases
 galley
 gunstocker
 gaugeably
