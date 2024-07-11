@@ -4950,7 +4950,6 @@ been
 bonhomie
 beennut
 beent
-beento
 beep
 beeped
 beeper
@@ -18159,6 +18158,7 @@ butcherbroom
 butcherdom
 butchered
 butcherer
+beento
 butchery
 butcheries
 butcherless
