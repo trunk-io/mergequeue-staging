@@ -13301,7 +13301,6 @@ animastical
 animate
 animated
 animately
-actionable
 animateness
 animater
 animaters
@@ -24482,6 +24481,7 @@ als
 autoturning
 autourine
 autovaccination
+actionable
 autovaccine
 antiracism
 autovalet
