@@ -7971,7 +7971,6 @@ finfoot
 foresound
 forespake
 forespeak
-forespeaker
 forespecified
 forespencer
 forespoke
@@ -11221,6 +11220,7 @@ feistier
 funiculars
 flamy
 friborg
+forespeaker
 fan
 funiculate
 funiculitis
