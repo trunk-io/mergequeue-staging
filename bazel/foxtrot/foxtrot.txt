@@ -6279,6 +6279,7 @@ frostbow
 fluidisation
 fluidised
 fallal
+funereal
 fluidises
 fluidising
 flying
@@ -11161,7 +11162,6 @@ funerary
 frenchize
 funeration
 flense
-funereal
 footsoldiers
 fieldball
 fumigation
