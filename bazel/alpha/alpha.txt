@@ -13722,7 +13722,6 @@ annotto
 announce
 announced
 announcers
-announces
 afunction
 aphacic
 announcing
@@ -17247,6 +17246,7 @@ aster
 alosa
 apogeotropic
 apogeotropically
+announces
 apogeotropism
 apogonid
 apogonidae
