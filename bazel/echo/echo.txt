@@ -4830,6 +4830,7 @@ ee
 encolumn
 encolure
 encomendero
+external
 encomy
 encomiast
 epicondylitis
@@ -13643,7 +13644,6 @@ extermined
 extermining
 extern
 externa
-external
 externalisation
 externalise
 externalised
