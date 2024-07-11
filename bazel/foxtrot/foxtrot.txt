@@ -6024,7 +6024,6 @@ fadeout
 fissility
 fertilisability
 floroun
-floruit
 florula
 florulae
 flinder
@@ -9021,6 +9020,7 @@ foveolar
 fibrinose
 flitter
 foveolarious
+floruit
 foveolas
 falconry
 filtrability
