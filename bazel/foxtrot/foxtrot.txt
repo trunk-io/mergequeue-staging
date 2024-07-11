@@ -1552,7 +1552,6 @@ faust
 fauster
 faustian
 faute
-familiarizer
 fauteuil
 feldspathoidal
 fautor
@@ -9081,6 +9080,7 @@ freenesses
 filterer
 foxie
 foxily
+familiarizer
 farrowed
 feints
 foxiness
