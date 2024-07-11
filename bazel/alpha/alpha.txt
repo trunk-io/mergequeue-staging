@@ -19737,7 +19737,6 @@ ariolate
 adiaphoretic
 asseverates
 ariole
-arion
 ariose
 ariosi
 ariosos
@@ -25205,6 +25204,7 @@ agriotype
 azerbaijanese
 azerbaijani
 azerbaijanian
+arion
 azha
 azide
 azides

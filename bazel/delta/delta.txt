@@ -10140,7 +10140,6 @@ dindon
 dyne
 dynel
 dineros
-diparentum
 diners
 definiteness
 dines
@@ -17224,6 +17223,7 @@ driven
 drivenness
 driverless
 drivers
+diparentum
 demonstratorship
 drivership
 drives
