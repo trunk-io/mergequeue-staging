@@ -3701,7 +3701,6 @@ foreview
 flourisher
 filosus
 fils
-fletching
 flakelet
 farmy
 ferruginate
@@ -8404,6 +8403,7 @@ formfitting
 farenheit
 formy
 formiate
+fletching
 feoffers
 formica
 formicary
