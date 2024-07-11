@@ -981,6 +981,7 @@ galeiform
 gangmaster
 gascon
 gamings
+gears
 gript
 gaminish
 ghaut
@@ -2220,7 +2221,6 @@ gearing
 gearings
 gasterotricha
 goladar
-gears
 gearset
 gearshift
 gearshifts
