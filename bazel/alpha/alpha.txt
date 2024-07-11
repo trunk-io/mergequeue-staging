@@ -2984,7 +2984,6 @@ acromiohyoid
 arctium
 areometer
 acromiohumeral
-acromion
 avg
 acromioscapular
 amphibalus
@@ -18149,6 +18148,7 @@ apterygiformes
 apterygogenea
 amniotic
 arace
+acromion
 apterygota
 apterygote
 apteryla
