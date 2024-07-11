@@ -21568,7 +21568,6 @@ concretist
 concretive
 concretively
 concretization
-concretize
 concretized
 concretizing
 concretor
@@ -25383,6 +25382,7 @@ cornetti
 cornettino
 caponized
 cornettist
+concretize
 cornetto
 corneule
 corneum
