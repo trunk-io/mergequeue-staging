@@ -949,6 +949,7 @@ gametal
 gametange
 gilds
 gametangium
+gesturers
 gotha
 gametes
 gametocyst
@@ -3680,7 +3681,6 @@ gotchy
 gratinated
 gestureless
 gesturer
-gesturers
 gesturing
 gil
 glycogenolysis

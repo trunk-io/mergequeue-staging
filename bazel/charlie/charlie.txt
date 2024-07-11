@@ -11331,7 +11331,6 @@ chlorination
 chlorinator
 chlorinators
 chlorines
-credere
 chlorinity
 chlorinize
 cyclamates
@@ -25839,6 +25838,7 @@ clockmutch
 commorant
 classed
 corrupt
+credere
 conhydrin
 corrupted
 corruptedly
