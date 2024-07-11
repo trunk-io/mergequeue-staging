@@ -2993,7 +2993,6 @@ barrelhouse
 barrelhouses
 barreling
 beslash
-barrelled
 barrelling
 bellyfuls
 belong
@@ -15205,6 +15204,7 @@ bothnic
 bridgeable
 bridgeboard
 bhutan
+barrelled
 bridgebote
 bridgebuilding
 bridged
