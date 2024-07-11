@@ -534,7 +534,6 @@ echafaudage
 epitheliotoxin
 equimolecular
 echappee
-echar
 echard
 elaeococca
 eched
@@ -10029,6 +10028,7 @@ expenthesis
 emit
 exasperating
 eucharist
+echar
 estimably
 estimated
 echidnidae
