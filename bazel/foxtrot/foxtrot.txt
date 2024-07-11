@@ -7702,6 +7702,7 @@ fruticant
 fleetness
 fertilisation
 foreimpression
+fellowing
 foreinstruct
 flaw
 fac
@@ -9951,7 +9952,6 @@ ferreling
 frictionproof
 frictions
 friday
-fellowing
 fridays
 fastuously
 fridges
