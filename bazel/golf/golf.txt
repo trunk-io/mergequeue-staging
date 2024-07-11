@@ -698,7 +698,6 @@ garnish
 gallon
 gallonage
 gallons
-galloon
 gepoun
 greeneries
 galilee
@@ -4019,6 +4018,7 @@ giffgaff
 gifola
 grison
 gift
+galloon
 gusain
 gorgia
 guglet
