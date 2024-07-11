@@ -5153,6 +5153,7 @@ aeroplanist
 aeroplankton
 aediculae
 aeropleustic
+antiblack
 aeroporotomy
 aeropulse
 aerosat
@@ -14895,7 +14896,6 @@ amberite
 antibiotics
 antibishop
 abusious
-antiblack
 antiblackism
 anisomeric
 antiblastic
