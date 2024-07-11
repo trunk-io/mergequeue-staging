@@ -994,7 +994,6 @@ fascias
 farewell
 farewelled
 feridji
-farewelling
 fuchsin
 farfal
 farfara
@@ -5092,6 +5091,7 @@ flattest
 favouredness
 flattie
 flatting
+farewelling
 flatulences
 flatulencies
 freeheartedness
