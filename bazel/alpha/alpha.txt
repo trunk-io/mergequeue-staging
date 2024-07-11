@@ -3448,7 +3448,6 @@ antitheological
 adamantine
 adamantinoma
 adamantly
-adamantness
 arty
 asaraceae
 anthropology
@@ -10872,6 +10871,7 @@ ammonion
 ammonite
 ammonites
 ammonitess
+adamantness
 aminoacidemia
 aortosclerosis
 ammonitic
