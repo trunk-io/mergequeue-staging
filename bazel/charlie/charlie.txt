@@ -16790,6 +16790,7 @@ clothespins
 clothespress
 clothespresses
 clothy
+confabulator
 clothier
 clothiers
 clothify
@@ -21877,7 +21878,6 @@ confabulates
 confabulating
 confabulation
 confabulations
-confabulator
 confabulatory
 confact
 confarreate
