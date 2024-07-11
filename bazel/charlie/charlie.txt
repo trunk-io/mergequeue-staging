@@ -27110,7 +27110,6 @@ counterruin
 counters
 countersalient
 countersank
-counterscalloped
 counterscarp
 counterscoff
 countersconce
@@ -28916,6 +28915,7 @@ cryaesthesia
 cephalhydrocele
 cryalgesia
 crossword
+counterscalloped
 criance
 cryanesthesia
 criant
