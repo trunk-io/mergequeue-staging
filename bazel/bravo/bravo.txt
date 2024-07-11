@@ -8211,7 +8211,6 @@ bierkeller
 byerlite
 bierstube
 bierstuben
-byestreet
 bietle
 bemoaned
 byeworker
@@ -14263,6 +14262,7 @@ brahman
 brahmanaspati
 brahmanda
 brahmaness
+byestreet
 brahmani
 buttermaking
 bobooti
