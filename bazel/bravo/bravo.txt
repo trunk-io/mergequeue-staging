@@ -350,7 +350,6 @@ backcap
 backcast
 bantamweight
 bonapartist
-backchain
 backchat
 backchats
 bulls
@@ -515,6 +514,7 @@ backslapping
 backslaps
 belinda
 barrier
+backchain
 blind
 backslash
 backslashes
