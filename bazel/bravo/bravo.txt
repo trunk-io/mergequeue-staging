@@ -10378,7 +10378,6 @@ backflash
 bottine
 branning
 blanking
-bounties
 blankish
 beray
 blankit
@@ -15266,6 +15265,7 @@ briery
 brierroot
 briers
 brierwood
+bounties
 bries
 brieve
 brig

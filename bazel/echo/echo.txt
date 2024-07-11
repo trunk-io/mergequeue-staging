@@ -3073,7 +3073,6 @@ ellipsonic
 elliptical
 ellipticalness
 ellipticity
-elliptograph
 elliptoid
 epicyte
 eighteens
@@ -4852,6 +4851,7 @@ ectosteal
 encommon
 encompassment
 encopreses
+elliptograph
 enfeoffed
 encorbelment
 encore
