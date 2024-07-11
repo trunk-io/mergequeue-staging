@@ -994,7 +994,6 @@ garmentmaker
 grattoir
 gammadia
 gammadion
-gammarine
 gammaroid
 gammarus
 gammation
@@ -8279,6 +8278,7 @@ glutimate
 grapta
 gasthaus
 graptolite
+gammarine
 graptolithina
 graptoloidea
 grasni

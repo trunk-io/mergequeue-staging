@@ -9562,7 +9562,6 @@ alternariose
 alternat
 alternate
 abhorrently
-abstractedness
 assyroid
 alternated
 alternately
@@ -16078,6 +16077,7 @@ antiq
 antiqua
 antiquary
 anapeiratic
+abstractedness
 antiquarian
 apoplectiform
 antiquarianize
