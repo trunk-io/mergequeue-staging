@@ -6661,6 +6661,7 @@ celebrationis
 celebrations
 celebrative
 celebrator
+conspectus
 celebrators
 celebres
 celebret
@@ -23083,7 +23084,6 @@ conspecies
 conspecific
 conspecifics
 conspection
-conspectus
 conspectuses
 courtling
 cornetcies
