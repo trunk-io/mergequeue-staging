@@ -14337,7 +14337,6 @@ circumcinct
 circumcincture
 circumcise
 circumcised
-circumciser
 circumcises
 circumcisions
 ceratothecal
@@ -23739,6 +23738,7 @@ contrafissura
 contrafissure
 contrafocal
 contragredience
+circumciser
 capillatus
 contragredient
 contrahent
