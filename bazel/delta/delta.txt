@@ -8870,7 +8870,6 @@ dicasts
 dicatalectic
 diccon
 dice
-dehorner
 decolor
 disillusionising
 diceboard
@@ -9932,6 +9931,7 @@ dimethylcarbinol
 dimethyldiketone
 dimethylhydrazine
 dimethylketol
+dehorner
 dimethylketone
 dimethylnitrosamine
 dreamsiness
