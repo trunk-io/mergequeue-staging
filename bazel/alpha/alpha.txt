@@ -11072,7 +11072,6 @@ amotion
 amotions
 amotus
 amouli
-amount
 amounter
 amounters
 amour
@@ -14855,6 +14854,7 @@ antiascetic
 antiasthmatic
 accentuate
 antiastronomical
+amount
 antiatheism
 antiatheist
 antiatheistic

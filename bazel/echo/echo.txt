@@ -5462,6 +5462,7 @@ endpaper
 endpapers
 eulalia
 endpiece
+exampleless
 endplate
 endplates
 endpleasure
@@ -11835,7 +11836,6 @@ examplar
 equestrians
 example
 exampled
-exampleless
 embliss
 enteron
 echinoderes
