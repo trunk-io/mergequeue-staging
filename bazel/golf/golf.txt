@@ -274,6 +274,7 @@ gainturn
 goalee
 gonoph
 gobiesocidae
+gunslinging
 gasking
 granulometric
 gaintwist
@@ -10565,7 +10566,6 @@ gunship
 gunships
 gunshop
 gunslingers
-gunslinging
 gunsman
 grandiloquence
 gazetteers

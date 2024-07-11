@@ -11608,7 +11608,6 @@ cholecystis
 cholecystitis
 cozies
 cholecystnephrostomy
-cholecystocolostomy
 cholecystocolotomy
 cholecystogastrostomy
 cholecystogram
@@ -26802,6 +26801,7 @@ counterdifficulty
 counterdigged
 cerebroscopy
 chiaroscurist
+cholecystocolostomy
 counterdike
 craniofacial
 counterdisengagement
