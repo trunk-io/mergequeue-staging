@@ -1616,7 +1616,6 @@ acclaimers
 astringence
 auriculars
 acclaiming
-acclaims
 acclamations
 acclamator
 acclamatory
@@ -13753,6 +13752,7 @@ annule
 annuler
 ambsace
 appropriations
+acclaims
 asyndeta
 annulet
 annulets
