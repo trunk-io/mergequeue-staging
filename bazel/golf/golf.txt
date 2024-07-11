@@ -990,7 +990,6 @@ gamma
 gaffers
 gammacism
 gammacismus
-garmentmaker
 grattoir
 gammadia
 gammadion
@@ -7211,6 +7210,7 @@ gordolobo
 gordon
 gusted
 giftlike
+garmentmaker
 gore
 grimmish
 giddap
