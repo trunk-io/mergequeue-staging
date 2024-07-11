@@ -1655,7 +1655,6 @@ entier
 es
 egotheism
 egotisms
-egotist
 egotistic
 egotistical
 egotistically
@@ -13187,6 +13186,7 @@ explanatory
 essences
 euryalus
 explanatoriness
+egotist
 explanitory
 eyemark
 explant
