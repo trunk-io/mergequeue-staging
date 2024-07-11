@@ -1385,7 +1385,6 @@ garefowls
 garetta
 garewaite
 giveaway
-garfish
 glyphograph
 gymnocarpous
 garg
@@ -8805,6 +8804,7 @@ gregor
 gregorian
 glassless
 granolite
+garfish
 greyback
 gonapod
 greycoat
