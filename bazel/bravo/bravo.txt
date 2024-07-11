@@ -602,6 +602,7 @@ bestness
 backswordmen
 behav
 backtack
+bontee
 backtender
 blumea
 backtenter
@@ -6829,7 +6830,6 @@ berwick
 biconjugate
 blackings
 berzeliite
-bontee
 besnowed
 berry
 besa
