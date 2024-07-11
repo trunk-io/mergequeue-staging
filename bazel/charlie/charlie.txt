@@ -20352,7 +20352,6 @@ communicatee
 crystallomancy
 communalistic
 communalization
-commutative
 communalize
 communalized
 communalizer
@@ -25316,6 +25315,7 @@ chalazae
 cornage
 contrivance
 cornamute
+commutative
 cornball
 cornbell
 cornbin
