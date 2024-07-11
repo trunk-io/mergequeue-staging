@@ -2991,6 +2991,7 @@ beslash
 barrelled
 barrelling
 bellyfuls
+belong
 barrelmaking
 ballistics
 barrels
@@ -5839,7 +5840,6 @@ beloeilite
 belomancy
 belone
 belonephobia
-belong
 belonging
 belongings
 belongs
