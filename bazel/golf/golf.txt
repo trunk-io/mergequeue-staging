@@ -8270,7 +8270,6 @@ globulous
 grizzled
 grappling
 grapsidae
-grapsoid
 grapsus
 gorgeable
 glutimate
@@ -8849,6 +8848,7 @@ gremmies
 grenade
 guffy
 grenadier
+grapsoid
 ghostified
 grenadierial
 gaillard
