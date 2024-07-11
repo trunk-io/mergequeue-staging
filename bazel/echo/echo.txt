@@ -2148,7 +2148,6 @@ elasticize
 elasticized
 elasticizing
 elasticness
-elasticum
 elastin
 encompassed
 elastivity
@@ -4485,6 +4484,7 @@ electrobioscopy
 encaged
 encages
 encaging
+elasticum
 encake
 erythrosiderite
 exploitable
