@@ -17439,6 +17439,7 @@ aposporogony
 aposporous
 apostacy
 apostacies
+arenosity
 apostasy
 apostasies
 aberr
@@ -19372,7 +19373,6 @@ arenite
 appeach
 arenites
 arenose
-arenosity
 arenous
 archegonia
 arent
