@@ -19394,7 +19394,6 @@ colonizations
 colonize
 colonized
 colonizer
-colonizers
 colonnade
 colonnaded
 citoyenne
@@ -24076,6 +24075,7 @@ conventionalizing
 conventionally
 conventioneer
 conventioneers
+colonizers
 conventioner
 conventionist
 conventionize
