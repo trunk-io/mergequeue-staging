@@ -3966,6 +3966,7 @@ deleads
 deleatur
 deleble
 dredged
+drawshave
 delectability
 dialysepalous
 domesticability
@@ -16857,7 +16858,6 @@ drawout
 drawpoint
 dusks
 drawrod
-drawshave
 drawsheet
 drawspan
 drawspring
