@@ -9896,7 +9896,6 @@ chemicomechanical
 cadwal
 concurs
 chemicomineralogical
-corticous
 chemicophysical
 canion
 coryphylly
@@ -28511,6 +28510,7 @@ credal
 creddock
 credences
 credenda
+corticous
 credendum
 credens
 cystourethritis
