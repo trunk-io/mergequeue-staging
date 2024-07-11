@@ -9101,7 +9101,6 @@ brunellia
 biophotometer
 biopic
 biangular
-biopyribole
 bioplasm
 bunkering
 bioplasms
@@ -11083,6 +11082,7 @@ bloodguiltiness
 bloodguiltless
 bridely
 bloodhounds
+biopyribole
 bloodybones
 bloodied
 bloodier
