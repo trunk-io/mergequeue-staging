@@ -1026,7 +1026,6 @@ favellidia
 farinas
 feretrum
 fellow
-farine
 facily
 farinha
 frenula
@@ -10056,6 +10055,7 @@ floret
 fregatae
 frillback
 fumigants
+farine
 footganger
 frillers
 ferngrower
