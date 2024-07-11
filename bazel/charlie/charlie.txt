@@ -5470,6 +5470,7 @@ catadupe
 catafalco
 catafalque
 catagenesis
+coaggregation
 catagenetic
 catagmatic
 capacitive
@@ -17182,7 +17183,6 @@ coaged
 cornmonger
 coagency
 coagent
-coaggregation
 coagitate
 coagitator
 cury
