@@ -2094,7 +2094,6 @@ fusc
 fluoranthene
 fellowly
 fellowman
-fellowmen
 friszka
 forebear
 fellowred
@@ -4839,6 +4838,7 @@ flames
 footiest
 flamethrower
 flamethrowers
+fellowmen
 frankpledge
 flamiest
 fluent
