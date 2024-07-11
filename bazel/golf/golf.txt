@@ -5768,6 +5768,7 @@ globulicide
 garred
 globuliferous
 glaive
+galavanted
 globuliform
 gallize
 groundwall
@@ -7569,7 +7570,6 @@ gasthauses
 gowks
 gowl
 garrafa
-galavanted
 gownlet
 gownsmen
 gowpen
