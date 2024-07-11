@@ -5906,7 +5906,6 @@ floors
 folkways
 floorshift
 floorwalker
-functioned
 floorwalkers
 floorward
 furniment
@@ -6052,6 +6051,7 @@ fitchered
 floscularia
 floscularian
 feedman
+functioned
 flosculariidae
 floscule
 flosculet
