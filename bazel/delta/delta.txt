@@ -4510,7 +4510,6 @@ demideity
 dexterously
 demidigested
 demidistance
-dirged
 demiditone
 demidoctor
 discriminability
@@ -14069,6 +14068,7 @@ demibelt
 districts
 distritbute
 distritbuted
+dirged
 distritbutes
 dipneedle
 dystrophy
