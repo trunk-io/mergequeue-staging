@@ -2714,7 +2714,6 @@ fetalization
 fribbles
 fetations
 fetched
-facient
 filanders
 featherbed
 fetcher
@@ -7202,6 +7201,7 @@ footslogging
 furnage
 forwards
 footsoldier
+facient
 footsore
 footsoreness
 fitment
