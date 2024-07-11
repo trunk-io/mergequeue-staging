@@ -58,6 +58,7 @@ graecism
 gable
 gableboard
 gymnetrous
+growers
 gabled
 gallophobia
 gableended
@@ -9541,7 +9542,6 @@ grovet
 grovy
 growable
 grower
-growers
 growing
 genetoid
 growlery
