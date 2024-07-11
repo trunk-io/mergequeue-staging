@@ -2480,6 +2480,7 @@ ferry
 ferriages
 ferryboats
 favela
+freehanded
 ferric
 fopperly
 familistery
@@ -9588,7 +9589,6 @@ febrifugal
 freedwoman
 freedwomen
 freefd
-freehanded
 freehandedly
 freehandedness
 fairness
