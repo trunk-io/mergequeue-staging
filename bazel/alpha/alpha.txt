@@ -241,7 +241,6 @@ abbreviations
 abbreviator
 abbreviature
 abc
-alackaday
 ambonite
 anhydrating
 aquamarines
@@ -4245,6 +4244,7 @@ ascriptitius
 apiary
 admixtion
 admixture
+alackaday
 acridly
 admixtures
 admonish
