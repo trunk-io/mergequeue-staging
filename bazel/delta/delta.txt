@@ -7061,7 +7061,6 @@ destructing
 destruction
 destructionist
 destructions
-destructive
 destructively
 destructiveness
 destructivism
@@ -16062,6 +16061,7 @@ doubtably
 doubtance
 doubtedly
 doubters
+destructive
 doubtfulness
 doubty
 doubting
