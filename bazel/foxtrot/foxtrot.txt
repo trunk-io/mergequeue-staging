@@ -678,7 +678,6 @@ familia
 flatfeet
 forceable
 familiarise
-familiarised
 familiariser
 familiarising
 familiarity
@@ -1062,6 +1061,7 @@ farmeries
 farmerly
 fermata
 farmerlike
+familiarised
 frigotherapy
 foresights
 five
