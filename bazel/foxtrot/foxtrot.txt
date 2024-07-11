@@ -2387,7 +2387,6 @@ fermentable
 fermental
 forlie
 fermentate
-fermentation
 fermentatively
 fermentativeness
 forechamber
@@ -3792,6 +3791,7 @@ final
 finale
 finales
 fastest
+fermentation
 finalis
 footlessly
 finalist
