@@ -8890,7 +8890,6 @@ commercia
 chapstick
 chapt
 chaptalization
-chaptalized
 chaptalizing
 chapteral
 chaptered
@@ -27884,6 +27883,7 @@ courtzilite
 conveyors
 crackerberry
 crackerjacks
+chaptalized
 crackers
 cracket
 crackhemp
