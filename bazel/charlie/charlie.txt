@@ -583,7 +583,6 @@ caeomas
 caeremoniarius
 caesalpiniaceae
 caesalpiniaceous
-caesar
 caesardom
 caesarean
 caesareanize
@@ -8638,6 +8637,7 @@ chancery
 cyetic
 chancewise
 chanche
+caesar
 chancy
 chancier
 cutover
