@@ -8918,7 +8918,6 @@ characid
 characids
 characin
 characine
-characinid
 cocitizen
 characinidae
 characinoid
@@ -26128,6 +26127,7 @@ cosmolined
 cosmolining
 cosmology
 cosmologic
+characinid
 cosmological
 cosmologically
 cosmologies
