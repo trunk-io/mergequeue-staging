@@ -2038,7 +2038,6 @@ campestrian
 campfight
 campfire
 campfires
-campground
 campgrounds
 cephalomenia
 congenite
@@ -20270,6 +20269,7 @@ commodes
 commodious
 cubits
 commodiously
+campground
 commodiousness
 coattestation
 commoditable
