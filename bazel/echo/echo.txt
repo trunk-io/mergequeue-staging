@@ -2682,7 +2682,6 @@ electrotropism
 excheat
 equiponderancy
 ethnog
-electrovalent
 electrovection
 electrum
 elects
@@ -4184,6 +4183,7 @@ emplaced
 exacum
 emplacement
 emceed
+electrovalent
 effectuous
 ekistic
 emplacements
