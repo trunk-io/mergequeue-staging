@@ -21770,6 +21770,7 @@ attention
 assigners
 assigning
 assignment
+autopotent
 assignments
 assignor
 assignors
@@ -24332,7 +24333,6 @@ autopore
 autoportrait
 autoportraiture
 autopotamic
-autopotent
 autoprogressive
 autoproteolysis
 autopsy

@@ -14639,7 +14639,6 @@ cis
 coction
 cisalpine
 cisalpinism
-cisandine
 confidentiary
 cisatlantic
 cisco
@@ -23534,6 +23533,7 @@ contests
 contex
 context
 coappellee
+cisandine
 contexts
 contextual
 contextualize
