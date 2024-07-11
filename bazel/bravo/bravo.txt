@@ -4756,6 +4756,7 @@ bedrail
 bogway
 bedrails
 bedral
+bivial
 bedraped
 bedravel
 bedread
@@ -9993,7 +9994,6 @@ bield
 biventral
 biverb
 biverbal
-bivial
 bivinyls
 bivittate
 bivocal
