@@ -2951,7 +2951,6 @@ fernlike
 fiberized
 farce
 fiberizer
-fiberizes
 fiberless
 flagonet
 fogyish
@@ -6407,6 +6406,7 @@ fluorescing
 filagree
 fraudproof
 fluoric
+fiberizes
 fluoridate
 foreignize
 flour

@@ -12237,7 +12237,6 @@ chrysanthemum
 chrysanthemums
 chrysanthous
 chrysaor
-chrysarobin
 chrysatropic
 collodiotype
 clumpst
@@ -27940,6 +27939,7 @@ cradler
 cradlers
 cradles
 cradleside
+chrysarobin
 cradlesong
 cradlesongs
 cradletime
