@@ -9038,6 +9038,7 @@ allelisms
 allose
 allosematic
 allosyndesis
+atomizer
 allosyndetic
 allosome
 allosteric
@@ -22791,7 +22792,6 @@ atomize
 allicient
 atlases
 atomized
-atomizer
 antiheterolysin
 atomizers
 atomizing

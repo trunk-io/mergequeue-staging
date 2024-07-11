@@ -2867,7 +2867,6 @@ expoundable
 elevenfold
 euphemism
 eleventhly
-elevenths
 expediential
 elevons
 elf
@@ -6972,6 +6971,7 @@ entosclerite
 enjoyableness
 entosphenoid
 encina
+elevenths
 entosphere
 entosterna
 ecdysone
