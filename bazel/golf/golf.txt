@@ -2550,7 +2550,6 @@ gemmule
 graniferous
 gestening
 gemologies
-gemologist
 gemologists
 gemonies
 gemot
@@ -7775,6 +7774,7 @@ gere
 gaycat
 grail
 graylag
+gemologist
 grailer
 gospelers
 grayly
