@@ -7668,7 +7668,6 @@ epiclesis
 epicly
 epiclike
 epicnemial
-epicoele
 epicoeliac
 emerod
 epicoelian
@@ -9910,6 +9909,7 @@ essonite
 essorant
 explorate
 est
+epicoele
 eigenvectors
 estab
 estable
