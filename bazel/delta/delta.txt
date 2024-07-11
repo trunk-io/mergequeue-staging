@@ -3728,7 +3728,6 @@ dalar
 dehydrogenizer
 dehydromucic
 dehydroretinol
-dehydrosparteine
 dehydrotestosterone
 dehypnotized
 dehypnotizing
@@ -9006,6 +9005,7 @@ dicodeine
 dutifully
 dicoelous
 dicolic
+dehydrosparteine
 docimasia
 dicolon
 disagglomeration
