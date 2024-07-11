@@ -2558,7 +2558,6 @@ gemsbucks
 gheg
 gemse
 gemuetlich
-gemuti
 gemutlich
 galtonia
 gemutlichkeit
@@ -2936,6 +2935,7 @@ gentleheartedly
 gentleheartedness
 gaetulan
 gentleman
+gemuti
 gentlemanism
 garnishes
 grasped
