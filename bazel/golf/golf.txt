@@ -7321,7 +7321,6 @@ gosh
 glucosidically
 grippit
 goshawk
-greaved
 goshawks
 goshdarn
 garbanzos
@@ -9224,6 +9223,7 @@ gloater
 grobianism
 greyhounds
 grocery
+greaved
 groceries
 groceryman
 gopherberries
