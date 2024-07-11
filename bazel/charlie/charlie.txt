@@ -11287,7 +11287,6 @@ chlorates
 churnful
 chimars
 chlorcosane
-chlordan
 chlordans
 chlore
 chlored
@@ -11821,6 +11820,7 @@ chondromyoma
 chondromyxoma
 chondromyxosarcoma
 chondromucoid
+chlordan
 chondropharyngeal
 circumvolution
 chondropharyngeus
