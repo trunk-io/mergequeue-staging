@@ -955,7 +955,6 @@ farceurs
 forecasters
 farci
 farcial
-farcialize
 farcicality
 farcically
 farcicalness
@@ -11013,6 +11012,7 @@ fonts
 fusillades
 fumerel
 fumers
+farcialize
 fumet
 flaxlike
 file
