@@ -3336,7 +3336,6 @@ backbeat
 bookshops
 bescouring
 basipetally
-basiphobia
 basipodite
 basipoditic
 basipterygial
@@ -6382,6 +6381,7 @@ benzofluorene
 benzofulvene
 benzofuran
 benzofuryl
+basiphobia
 biozone
 benzofuroquinoxaline
 benzoglycolic
