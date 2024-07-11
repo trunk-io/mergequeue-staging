@@ -6568,7 +6568,6 @@ cedes
 cedi
 cedilla
 cedillas
-ceding
 cedis
 cedrat
 cleruch
@@ -30105,6 +30104,7 @@ crucialness
 crucianella
 crucians
 cruciate
+ceding
 cruciated
 cruciately
 cruciating
