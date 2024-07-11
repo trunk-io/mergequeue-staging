@@ -3008,7 +3008,6 @@ fibroferrite
 fibroglioma
 frying
 fibrohemorrhagic
-ferromagnetic
 figuriste
 forego
 fasciolar
@@ -6586,6 +6585,7 @@ fluxation
 fluxed
 fluxes
 fluxibility
+ferromagnetic
 floatmen
 fluxibleness
 fowls
