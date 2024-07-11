@@ -9018,6 +9018,7 @@ asklepios
 allophore
 alloplasm
 alloplasmatic
+automatizing
 alloplasmic
 alloplast
 aluminise
@@ -24218,7 +24219,6 @@ automatization
 automatize
 automatized
 automatizes
-automatizing
 automaton
 automatonlike
 automatons
