@@ -4497,6 +4497,7 @@ becquerelite
 bullneck
 biles
 becramp
+baculum
 becrawl
 becrawled
 becrawling
@@ -5427,7 +5428,6 @@ behung
 besmeared
 boviculture
 boisseau
-baculum
 bey
 beice
 beydom
