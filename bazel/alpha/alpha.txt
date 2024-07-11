@@ -806,7 +806,6 @@ aposporic
 abram
 appertain
 abramis
-abranchial
 abranchialism
 abranchian
 adjudicated
@@ -25308,6 +25307,7 @@ azorubine
 azosulphine
 aouad
 azosulphonic
+abranchial
 azotaemia
 azotate
 albanenses
