@@ -4771,6 +4771,7 @@ encl
 enclaret
 etherol
 enclasp
+enneasyllabic
 extracathedral
 enclasping
 enclasps
@@ -7270,7 +7271,6 @@ enwrapping
 enwraps
 ensorceled
 enwreath
-enneasyllabic
 enwreathed
 enwreathing
 enwwove
