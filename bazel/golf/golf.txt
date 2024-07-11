@@ -4664,6 +4664,7 @@ gipsyish
 gastrostaxis
 gypsyish
 grot
+glamoured
 glucke
 geogony
 gypsyisms
@@ -5161,7 +5162,6 @@ glamors
 groundsheet
 governesshood
 guardianess
-glamoured
 glamouring
 glamourization
 garrulous
