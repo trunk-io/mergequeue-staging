@@ -15848,6 +15848,7 @@ dihexagonal
 dorsoabdominal
 dorsoapical
 dorsocaudad
+disinclinations
 dorsocaudal
 dorsocentral
 dorsocephalad
@@ -18277,7 +18278,6 @@ duodecillion
 derives
 duodecillionth
 dodged
-disinclinations
 duodecimality
 dhurry
 desertress
