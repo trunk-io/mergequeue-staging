@@ -9038,7 +9038,6 @@ cyprinidae
 chargeling
 compliable
 chargeman
-chargers
 charges
 cephalogenesis
 chargeship
@@ -27159,6 +27158,7 @@ counterstain
 counterstamp
 copable
 cephalometric
+chargers
 counterstatement
 counterstatute
 counterstep
