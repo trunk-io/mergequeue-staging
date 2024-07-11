@@ -2180,7 +2180,6 @@ elator
 enmist
 englute
 elbert
-engendure
 elbowed
 eutropic
 elbowy
@@ -7736,6 +7735,7 @@ epidemiology
 epidemiologic
 etchers
 epidemiological
+engendure
 epicondylar
 epidemiologically
 esophagoplasty
