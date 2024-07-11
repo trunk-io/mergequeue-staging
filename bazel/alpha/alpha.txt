@@ -4578,7 +4578,6 @@ adumbrations
 allemande
 adumbrative
 adumbrellar
-adunation
 aduncate
 aduncated
 aduncity
@@ -4958,6 +4957,7 @@ aerialness
 aether
 aerials
 aeric
+adunation
 antedon
 aerides
 aerie
