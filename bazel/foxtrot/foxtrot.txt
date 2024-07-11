@@ -4782,7 +4782,6 @@ frondosely
 friulian
 flays
 flaite
-flaithship
 frenchless
 floatsman
 flakage
@@ -8399,6 +8398,7 @@ formers
 formes
 formfeed
 formfitting
+flaithship
 farenheit
 formy
 formiate
