@@ -10243,7 +10243,6 @@ ambulantes
 antihierarchical
 ambulate
 atropinism
-ambulates
 ambulating
 ambulatio
 ambulation
@@ -21414,6 +21413,7 @@ asperifoliae
 asperifoliate
 asperifolious
 asperite
+ambulates
 asperity
 asperly
 amphiprostyle
