@@ -6046,6 +6046,7 @@ amyloid
 agenesias
 agenesic
 agenesis
+asterisk
 agenetic
 agenize
 azotobacter
@@ -22043,7 +22044,6 @@ asterion
 asterionella
 arabicize
 asteriscuses
-asterisk
 asterisking
 asteriskless
 asteriskos
