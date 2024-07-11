@@ -21640,7 +21640,6 @@ assegaied
 assegaiing
 assegais
 asseize
-assembl
 amas
 assemblance
 assemble
@@ -23925,6 +23924,7 @@ autocade
 autocamp
 armseye
 autocamper
+assembl
 antidecalogue
 ateuchus
 autocamping

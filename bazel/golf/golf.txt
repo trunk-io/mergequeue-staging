@@ -4316,6 +4316,7 @@ genep
 gyppo
 gambas
 gierfalcon
+gnattiest
 gatteridge
 gymnolaemata
 germinability
@@ -6321,7 +6322,6 @@ gillot
 gnatlike
 gnatoo
 gnats
-gnattiest
 gnatworm
 gauleiter
 grank
