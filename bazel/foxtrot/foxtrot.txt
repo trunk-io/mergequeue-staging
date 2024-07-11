@@ -789,6 +789,7 @@ fibula
 fumets
 fanfold
 feower
+forlay
 fanfolds
 fanfoot
 floatative
@@ -8300,7 +8301,6 @@ forksful
 forktail
 forkwise
 fruiterer
-forlay
 forlain
 forlane
 forleave
