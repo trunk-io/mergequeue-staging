@@ -680,6 +680,7 @@ flatfeet
 forceable
 familiarise
 familiarised
+flocculi
 familiariser
 familiarising
 familiarity
@@ -5800,7 +5801,6 @@ foreship
 frequentage
 floccules
 fur
-flocculi
 foursomes
 frigidoreceptor
 flocculous
