@@ -3296,6 +3296,7 @@ artal
 actu
 actual
 actualisation
+alchemistry
 anagogic
 adult
 actualise
@@ -7719,7 +7720,6 @@ alchemising
 alutaceous
 alchemister
 alchemistical
-alchemistry
 autopositive
 alchemists
 alchemize
