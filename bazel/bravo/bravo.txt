@@ -5555,7 +5555,6 @@ bastion
 biface
 belam
 belamcanda
-belanda
 belander
 blearier
 baser
@@ -7843,6 +7842,7 @@ byblidaceae
 biblike
 biblioclasm
 biblioclast
+belanda
 bibliofilm
 bibliogenesis
 bibliognost
