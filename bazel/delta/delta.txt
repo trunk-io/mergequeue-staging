@@ -2066,7 +2066,6 @@ decapitate
 direfully
 decapitated
 decapitation
-decapitations
 decapitator
 decapodal
 decapodan
@@ -11964,6 +11963,7 @@ disembower
 diabolist
 dioscoreaceous
 disembrangle
+decapitations
 disembroil
 disembroilment
 disemburden
