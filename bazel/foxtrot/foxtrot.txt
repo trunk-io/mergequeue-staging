@@ -3571,6 +3571,7 @@ franklins
 filigreed
 filigrees
 filigreing
+functors
 filing
 filings
 filionymic
@@ -11106,7 +11107,6 @@ fervanite
 functor
 folksinging
 fistulization
-functors
 flexuously
 functus
 fund
