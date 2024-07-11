@@ -5378,6 +5378,7 @@ ersar
 epigean
 endosteal
 estrangement
+erythraea
 emended
 endosteitis
 endosteomas
@@ -9110,7 +9111,6 @@ erythematous
 erythemic
 euboic
 eutheria
-erythraea
 echeneidid
 erythraean
 erythraeidae
