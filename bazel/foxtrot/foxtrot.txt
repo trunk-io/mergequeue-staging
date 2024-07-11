@@ -4422,7 +4422,6 @@ falconinae
 fissura
 fattish
 foliocellosis
-footprint
 fuzzy
 fissured
 fissureless
@@ -11117,6 +11116,7 @@ forslack
 fundamental
 filcher
 frumpish
+footprint
 fundamentalistic
 fundamentalists
 fundamentally
