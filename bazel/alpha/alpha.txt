@@ -5659,6 +5659,7 @@ afterbirth
 afterblow
 afterbody
 afterbodies
+archae
 afterbreast
 afterburner
 afterburning
@@ -18661,7 +18662,6 @@ arceuthobium
 antephialtic
 arcform
 archabomination
-archae
 archaean
 archaeoceti
 archaeocyathidae
