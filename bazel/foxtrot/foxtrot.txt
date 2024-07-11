@@ -4335,6 +4335,7 @@ fleeten
 fishingly
 fishlet
 fishlike
+formicivorous
 fishline
 fishlines
 feverless
@@ -6444,7 +6445,6 @@ falter
 flaminian
 fluoroformol
 fluorogen
-formicivorous
 fluorogenic
 fluorography
 fluorometer
