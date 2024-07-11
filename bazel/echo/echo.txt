@@ -11155,6 +11155,7 @@ evestar
 emplanes
 endrumpf
 eozoic
+exemptions
 euripides
 eurypyga
 eurypygae
@@ -12378,7 +12379,6 @@ exemption
 exemptionist
 eduskunta
 euphonical
-exemptions
 endotheloid
 exempts
 exencephalia
