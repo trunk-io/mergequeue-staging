@@ -6519,7 +6519,6 @@ ensweeten
 evenlight
 entablature
 emigrations
-emigrated
 entablements
 entach
 enneasemic
@@ -8684,6 +8683,7 @@ equilibrious
 equilibrist
 equilibristat
 entreaty
+emigrated
 elderbrotherhood
 effluvial
 extraliminal
