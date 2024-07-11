@@ -1263,6 +1263,7 @@ extensive
 endothelium
 eelshop
 epitympanic
+emball
 eelware
 eelworm
 een
@@ -5507,7 +5508,6 @@ ened
 eneid
 enemas
 enemata
-emball
 enemy
 enemied
 excitements
