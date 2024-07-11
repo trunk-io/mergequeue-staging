@@ -1342,7 +1342,6 @@ gardbrace
 gardebras
 garden
 gardener
-gardeners
 gatha
 gymnasiarchy
 gardenership
@@ -1483,6 +1482,7 @@ gastight
 garnishment
 gesticulacious
 getfd
+gardeners
 garnison
 garniture
 garon
