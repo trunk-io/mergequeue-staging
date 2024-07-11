@@ -7260,6 +7260,7 @@ apiaceae
 acquired
 akim
 abreactions
+apicular
 akimbo
 akin
 akindle
@@ -17025,7 +17026,6 @@ apickback
 apickpack
 apicoectomy
 apicolysis
-apicular
 apiculate
 apiculated
 apiculi
