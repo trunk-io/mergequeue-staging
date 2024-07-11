@@ -3536,6 +3536,7 @@ embole
 electrorefine
 embolectomy
 embolectomies
+exion
 emboli
 embolic
 emboliform
@@ -6231,7 +6232,6 @@ estella
 enouncement
 eggberries
 enouncing
-exion
 elaterids
 enphytotic
 enpia
