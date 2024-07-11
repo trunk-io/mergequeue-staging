@@ -1704,7 +1704,6 @@ flippers
 feist
 fearless
 fearnought
-fears
 frisket
 fearsome
 fearsomely
@@ -1842,6 +1841,7 @@ fecundations
 fecundative
 freighters
 fuligula
+fears
 fecundatory
 fecundify
 fourrag
