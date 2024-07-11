@@ -2180,7 +2180,6 @@ bannets
 bannimus
 bannister
 backdoor
-bannisters
 bannition
 bubber
 bannock
@@ -5717,6 +5716,7 @@ belive
 bell
 bella
 backwood
+bannisters
 bellabella
 bunyan
 bellarmine
