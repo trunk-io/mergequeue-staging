@@ -5948,7 +5948,6 @@ dactylotheca
 disloyalties
 depressors
 deathshot
-depressurize
 deprest
 depriment
 deprint
@@ -8443,6 +8442,7 @@ diametric
 diamicton
 dacryuria
 diamides
+depressurize
 diamido
 diamidogen
 diamyl
