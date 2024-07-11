@@ -12485,6 +12485,7 @@ clinkery
 chromatopsia
 ccesser
 chromatoptometry
+crispers
 chromatoscope
 chromatoscopy
 chromatosis
@@ -19570,7 +19571,6 @@ colpoperineoplasty
 colpoperineorrhaphy
 colpoplasty
 colpoptosis
-crispers
 colporrhagia
 colporrhaphy
 colporrhea
