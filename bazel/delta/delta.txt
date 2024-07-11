@@ -8473,7 +8473,6 @@ detrains
 dayment
 diamondize
 diamondized
-diamondizing
 diamondlike
 dunites
 diamonds
@@ -14790,6 +14789,7 @@ doctrinaire
 doctrinairism
 delime
 demobilise
+diamondizing
 desulfurise
 desolates
 doctrinalism
