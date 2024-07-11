@@ -1727,6 +1727,7 @@ eider
 existential
 eiderdown
 electromagnetics
+equability
 electropult
 eidograph
 eidolic
@@ -8342,7 +8343,6 @@ evolutionarily
 embryological
 eschynite
 erythrocytometer
-equability
 epithalamic
 epithalamium
 epithalamiumia
