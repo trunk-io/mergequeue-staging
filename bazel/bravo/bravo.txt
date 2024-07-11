@@ -3451,7 +3451,6 @@ basson
 bedash
 bremeness
 bassorin
-bassos
 bassus
 basswood
 borders
@@ -14547,6 +14546,7 @@ branle
 birgus
 branner
 brannerite
+bassos
 breadearning
 bidet
 brachyfacial
