@@ -5228,7 +5228,6 @@ endolaryngeal
 epitheliliums
 expiring
 endolemma
-endolymphangial
 endolymphatic
 electrolyzable
 etiotropic
@@ -8125,6 +8124,7 @@ epigonous
 epipoditic
 extracorporeal
 epipodium
+endolymphangial
 epipolic
 ectoplacenta
 ecthlipsis
