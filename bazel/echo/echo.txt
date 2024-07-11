@@ -7468,7 +7468,6 @@ emberiza
 ephahs
 ecphorize
 ephas
-ephebe
 egers
 enrols
 experting
@@ -9135,6 +9134,7 @@ erythroblast
 erythroblastic
 erythroblastosis
 erythrocarpous
+ephebe
 erythrocatalysis
 evisceration
 eurygnathism
