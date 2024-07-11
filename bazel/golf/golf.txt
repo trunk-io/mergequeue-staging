@@ -1706,7 +1706,6 @@ gastralgia
 grouselike
 gastralgic
 ganglioneuroma
-gastraneuria
 gastreas
 ghostcraft
 gastrectasis
@@ -5810,6 +5809,7 @@ gradative
 geneticist
 geminis
 glomerular
+gastraneuria
 gigglish
 glomerulitis
 gymnasic
