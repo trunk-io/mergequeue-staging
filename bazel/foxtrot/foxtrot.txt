@@ -357,7 +357,6 @@ fainter
 fainters
 faintful
 faintheart
-fainthearted
 floodmark
 faintheartedness
 faintingly
@@ -3164,6 +3163,7 @@ faciendum
 firefight
 flags
 fiddlerfishes
+fainthearted
 flirtish
 fiddles
 flauntily
