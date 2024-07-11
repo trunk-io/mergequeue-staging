@@ -2424,6 +2424,7 @@ decisteres
 decius
 deck
 decke
+disadvantageousness
 decked
 deckedout
 dauberies
@@ -10965,7 +10966,6 @@ disadvantaged
 disadvantagedness
 disadvantageous
 disadvantageously
-disadvantageousness
 disadvantaging
 disadventure
 depair
