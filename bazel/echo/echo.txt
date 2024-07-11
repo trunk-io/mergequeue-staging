@@ -8298,7 +8298,6 @@ electrohomeopathy
 earsh
 epistolizing
 epistolography
-epistolographic
 epistolographist
 epistomata
 epistome
@@ -11847,6 +11846,7 @@ exampleship
 extracapsular
 exampless
 exanguin
+epistolographic
 exanimation
 exannulate
 exult
