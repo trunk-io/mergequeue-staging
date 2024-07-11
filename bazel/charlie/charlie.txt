@@ -5210,7 +5210,6 @@ cassididae
 cassidinae
 cassidoine
 cassidony
-cassiduloid
 cassie
 cassiepeia
 cassine
@@ -10521,6 +10520,7 @@ childage
 childbearing
 childbeds
 childbirths
+cassiduloid
 childcrowing
 childe
 clinkant
