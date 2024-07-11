@@ -5788,6 +5788,7 @@ deponed
 disinheritable
 deponents
 depones
+diazotize
 deponing
 daint
 depopularize
@@ -8785,7 +8786,6 @@ diazotype
 diazotizability
 diazotizable
 diazotization
-diazotize
 declivities
 diazotized
 diazotizing
