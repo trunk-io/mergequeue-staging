@@ -1803,7 +1803,6 @@ baltis
 balu
 baluba
 baluch
-brittle
 barytone
 baluchitheria
 benty
@@ -2184,6 +2183,7 @@ backdoor
 bannisters
 bannition
 bubber
+brittle
 bannock
 bannockburn
 bannocks
