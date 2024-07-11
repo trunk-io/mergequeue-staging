@@ -2314,7 +2314,6 @@ bunda
 bubby
 bailage
 barbaloin
-bottlenose
 blinter
 beno
 badder
@@ -10963,6 +10962,7 @@ blizzardous
 blizzards
 blk
 blksize
+bottlenose
 blo
 bloat
 bloated
