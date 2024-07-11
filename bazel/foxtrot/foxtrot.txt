@@ -2302,6 +2302,7 @@ freaks
 feodality
 forehearth
 feodaries
+firespout
 feodatory
 feodum
 forsakenness
@@ -4168,7 +4169,6 @@ fireside
 firesider
 firesideship
 forestalled
-firespout
 firestone
 firestop
 firestorm
