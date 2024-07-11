@@ -11588,7 +11588,6 @@ anacampsis
 anacamptic
 alleviations
 anacamptically
-anacamptics
 anacamptometer
 amices
 anacanthine
@@ -24257,6 +24256,7 @@ autonavigators
 apair
 autonetics
 autoneurotoxin
+anacamptics
 autonym
 autonitridation
 autonoetic
