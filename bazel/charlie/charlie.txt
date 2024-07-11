@@ -14671,7 +14671,6 @@ cissoidal
 chateaubriand
 cissoids
 cissus
-cist
 cyst
 cista
 cistaceae
@@ -22221,6 +22220,7 @@ confutations
 confutator
 confute
 confuters
+cist
 confutes
 cincholoiponic
 cong
