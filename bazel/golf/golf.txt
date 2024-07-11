@@ -6946,7 +6946,6 @@ glumaceae
 gonocoel
 gests
 gonocoele
-gonogenesis
 gonomere
 gonomery
 gonophore
@@ -9941,6 +9940,7 @@ guardless
 guardo
 guardrail
 guardrails
+gonogenesis
 guards
 guardsman
 guarea

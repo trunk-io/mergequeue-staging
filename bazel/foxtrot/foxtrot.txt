@@ -3748,7 +3748,6 @@ fimbria
 fimbrial
 fieldmouse
 feeblemindedly
-fimbriating
 fimbriatum
 ferrule
 favous
@@ -10576,6 +10575,7 @@ friended
 femur
 fructidor
 fenestrae
+fimbriating
 fructiferous
 fructiferously
 freeform
