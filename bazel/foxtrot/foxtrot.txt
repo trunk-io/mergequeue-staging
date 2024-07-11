@@ -4747,7 +4747,6 @@ fasciolaria
 fiord
 fleadock
 flagpole
-flagrance
 fulminurate
 flagrantly
 fratched
@@ -5141,6 +5140,7 @@ fogon
 fakement
 forth
 fellas
+flagrance
 flavedo
 flavedos
 fiscals
