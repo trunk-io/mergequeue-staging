@@ -2479,7 +2479,6 @@ ferreting
 ferrets
 ferry
 ferriages
-ferryboats
 favela
 ferric
 fopperly
@@ -8616,6 +8615,7 @@ fortepiano
 fortes
 fortescue
 fortescure
+ferryboats
 furcae
 forthbring
 fantasmal

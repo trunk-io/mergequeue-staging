@@ -1025,7 +1025,6 @@ bayamo
 boat
 bayamos
 bayano
-bayardly
 bayberry
 bayberries
 boiler
@@ -2360,6 +2359,7 @@ barbastel
 bastilles
 bandanas
 barbastelle
+bayardly
 blackbrush
 banalize
 breadroot
