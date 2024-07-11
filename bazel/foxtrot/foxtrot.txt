@@ -6480,7 +6480,6 @@ fluosilicic
 fluotantalic
 fluotitanic
 featherlight
-fluphenazine
 fempty
 flurn
 flaxbird
@@ -10929,6 +10928,7 @@ fullwords
 forking
 flecks
 fulmars
+fluphenazine
 fulmarus
 fulmen
 fluorocarbon
