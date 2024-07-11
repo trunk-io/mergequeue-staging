@@ -6821,6 +6821,7 @@ aiguelle
 aiguiere
 aiguille
 aiguilles
+astroscope
 aiguillesque
 aiguillette
 aiguilletted
@@ -22372,7 +22373,6 @@ accessarily
 astrophotometrical
 azolitmin
 alcoholdom
-astroscope
 astroscopy
 autocratorical
 astrospectral
