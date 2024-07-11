@@ -2079,6 +2079,7 @@ equiangle
 explodable
 estates
 elaic
+entrecotes
 economiser
 elaidate
 elaidic
@@ -7057,7 +7058,6 @@ equidense
 exaspidean
 entrechat
 entrecote
-entrecotes
 entredeux
 ethnohistorian
 enlightenedness
