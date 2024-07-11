@@ -1990,7 +1990,6 @@ gyniolatry
 gloveman
 gaulic
 gaulish
-gaullism
 glints
 gargoylish
 germanomaniac
@@ -3587,6 +3586,7 @@ gunslinger
 gussie
 geminorum
 guilds
+gaullism
 gesan
 gyre
 geshurites
