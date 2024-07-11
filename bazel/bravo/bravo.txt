@@ -4726,7 +4726,6 @@ bedlamize
 bloody
 bedlamized
 bedlamizing
-bedlamp
 bedlamps
 bedlams
 banjuke
@@ -10638,6 +10637,7 @@ besneer
 bleariest
 besee
 bebeerine
+bedlamp
 blearness
 bleat
 bleated
