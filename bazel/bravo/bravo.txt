@@ -10475,7 +10475,6 @@ blastomata
 beachcombing
 blastomere
 blastomeric
-blastomycete
 blastomycetes
 beheader
 blastomycetic
@@ -11566,6 +11565,7 @@ boarders
 boardy
 boardings
 bedizen
+blastomycete
 boardly
 blitzing
 brawnily
