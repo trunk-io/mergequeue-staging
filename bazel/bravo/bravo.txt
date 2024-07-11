@@ -3509,7 +3509,6 @@ bitstalk
 bezazzes
 batarde
 batardeau
-batata
 boodle
 batatas
 babiana
@@ -13638,6 +13637,7 @@ bourns
 bourout
 bipalium
 bourre
+batata
 bourreau
 bourrees
 bourrelet
