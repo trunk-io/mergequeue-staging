@@ -4498,6 +4498,7 @@ becrawling
 becreep
 boomeranged
 boobyish
+beslings
 becry
 bleery
 becrime
@@ -6983,7 +6984,6 @@ bout
 backtalk
 barricaders
 breadbasket
-beslings
 beslipper
 beslobber
 bandsawing
