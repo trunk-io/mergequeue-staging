@@ -4492,6 +4492,7 @@ euthyneurous
 exameter
 encanker
 encanthis
+epit
 encapsulate
 encapsulation
 encapsulations
@@ -8304,7 +8305,6 @@ epistrophe
 epistropheal
 extravagate
 epistrophy
-epit
 epitapher
 epitaphial
 epitaphic
