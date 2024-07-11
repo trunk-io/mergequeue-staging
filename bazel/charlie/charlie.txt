@@ -2344,7 +2344,6 @@ croucher
 candidateship
 candidating
 candidature
-candidatures
 candide
 churls
 codecree
@@ -8104,6 +8103,7 @@ chaetetes
 chaetetidae
 chaetifera
 chaetiferous
+candidatures
 chaetites
 chaetitidae
 chaetochloa
