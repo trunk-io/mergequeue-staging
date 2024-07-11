@@ -3256,7 +3256,6 @@ feases
 fluoborate
 falsity
 fielden
-fanglike
 fielders
 frohlich
 friability
@@ -8489,6 +8488,7 @@ formularistic
 formularization
 formularizing
 fingrigo
+fanglike
 fibrefill
 formulated
 foliating
