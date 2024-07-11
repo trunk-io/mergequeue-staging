@@ -11567,7 +11567,6 @@ discomposingly
 disconanthae
 disconanthous
 disconcerted
-disconcertedness
 disconcertingly
 disconcertingness
 destabilization
@@ -14998,6 +14997,7 @@ dogged
 doggedly
 doggedness
 diter
+disconcertedness
 dogger
 disarrangements
 doggerel
