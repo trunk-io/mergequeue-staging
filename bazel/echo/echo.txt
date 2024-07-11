@@ -6946,6 +6946,7 @@ entone
 epitrchelia
 emblema
 entonement
+egestion
 entonic
 entoparasite
 escarole
@@ -11537,7 +11538,6 @@ everywhen
 everywhence
 everywhereness
 erica
-egestion
 eftest
 everywheres
 everywoman
