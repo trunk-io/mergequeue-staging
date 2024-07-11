@@ -759,6 +759,7 @@ abortogenic
 aborts
 abortus
 aboudikro
+adherent
 abought
 acettoluide
 aboulia
@@ -3866,7 +3867,6 @@ adherences
 adherency
 adherend
 adherends
-adherent
 adherently
 adherents
 adherer
