@@ -2289,6 +2289,7 @@ enigua
 electricalness
 electrican
 electrician
+exchanger
 electricians
 electricity
 electricize
@@ -12018,7 +12019,6 @@ exchanged
 epoptes
 evacuations
 exchangee
-exchanger
 elbowing
 exchanges
 exchequer
