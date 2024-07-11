@@ -6447,6 +6447,7 @@ enslaving
 ensnarement
 ensnares
 ensnarled
+examining
 empanels
 ensnarling
 ensnarls
@@ -12971,7 +12972,6 @@ expectoration
 eumenidae
 expectorations
 expectorative
-examining
 electral
 extill
 electrical
