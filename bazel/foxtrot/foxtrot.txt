@@ -5187,7 +5187,6 @@ flavoury
 forearmed
 flavouring
 flavourless
-flavourous
 foreboot
 flavours
 forehinting
@@ -5457,6 +5456,7 @@ fevertwitch
 flexo
 flexographic
 flexographically
+flavourous
 flexors
 flexuosely
 flexuoseness
