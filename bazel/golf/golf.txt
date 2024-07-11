@@ -5150,7 +5150,6 @@ glamorizing
 gutty
 geology
 glamorous
-glamorously
 glamorousness
 glamors
 groundsheet
@@ -7409,6 +7408,7 @@ gothic
 gyromitra
 gothically
 gothicity
+glamorously
 gunflints
 gothicize
 gothicizer
