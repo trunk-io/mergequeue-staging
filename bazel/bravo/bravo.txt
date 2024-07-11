@@ -2722,7 +2722,6 @@ bemurmur
 browsers
 bothroi
 barkingly
-biweekly
 barkless
 barklyite
 barkometer
@@ -6082,6 +6081,7 @@ bosher
 bendee
 byte
 bendees
+biweekly
 bendell
 bender
 bendies
