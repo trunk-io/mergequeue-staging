@@ -7061,7 +7061,6 @@ destroys
 domesticable
 dissyllabized
 destruct
-destructibility
 destructible
 destructibleness
 destructing
@@ -16611,6 +16610,7 @@ dragging
 draggle
 draggled
 draggletail
+destructibility
 draggletailedly
 draggling
 draghound
