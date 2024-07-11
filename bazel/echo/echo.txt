@@ -7593,7 +7593,6 @@ epically
 embraceries
 epicanthi
 epicanthic
-epicanthus
 epicardium
 epicarid
 epicaridan
@@ -8170,6 +8169,7 @@ episcopalism
 episcopality
 episcopally
 episcopant
+epicanthus
 endothecial
 essenize
 episcoparian
