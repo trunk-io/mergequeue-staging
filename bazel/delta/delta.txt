@@ -1081,7 +1081,6 @@ deprovincialize
 dartled
 dartles
 dartlike
-dartling
 dissecting
 disher
 dartman
@@ -3483,6 +3482,7 @@ defortify
 diplomatic
 defray
 deficiently
+dartling
 defrayable
 defrayal
 defrayals
