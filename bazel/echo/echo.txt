@@ -2233,7 +2233,6 @@ engelmannia
 emraud
 eldred
 eldress
-eldritch
 eleanor
 eleazar
 elec
@@ -3403,6 +3402,7 @@ embolies
 embedment
 embelic
 embelif
+eldritch
 embelin
 essang
 embellish
