@@ -8634,7 +8634,6 @@ emulsible
 equicohesive
 equicontinuous
 euskaldun
-equiconvex
 equicostate
 equicrural
 emulgence
@@ -13582,6 +13581,7 @@ enjeopardy
 extensionality
 extensionally
 extensionist
+equiconvex
 exsanguinity
 extensions
 endorsements
