@@ -11890,7 +11890,6 @@ chophouses
 chopin
 cereus
 chopine
-chopins
 choplogic
 choplogical
 chalcography
@@ -16094,6 +16093,7 @@ clernly
 clerodendron
 cleromancy
 castanopsis
+chopins
 cleronomy
 clerstory
 cleruchy
