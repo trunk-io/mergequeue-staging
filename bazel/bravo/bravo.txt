@@ -3981,7 +3981,6 @@ beadhouse
 beady
 beadier
 beadiest
-bidiurnal
 beading
 beadings
 beadledom
@@ -15639,6 +15638,7 @@ broadswords
 boolies
 broadway
 brute
+bidiurnal
 broadwayite
 broadways
 beknight
