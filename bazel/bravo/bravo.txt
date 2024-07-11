@@ -11711,7 +11711,6 @@ bobstays
 bobtail
 bobtailed
 bobtailing
-barricaded
 bobwhite
 bobwood
 brassic
@@ -15481,6 +15480,7 @@ brisked
 bamboo
 brisken
 briskened
+barricaded
 briskening
 basilican
 briskest
