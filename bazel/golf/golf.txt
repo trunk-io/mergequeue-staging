@@ -1773,7 +1773,6 @@ geomedicine
 gunshot
 gastroenterocolitis
 gastroenterocolostomy
-gastroenterologic
 gesneria
 gastroenterological
 gonfalcon
@@ -6888,6 +6887,7 @@ gerbilles
 ghyll
 gropers
 glassworker
+gastroenterologic
 gonimic
 globulariaceous
 grivna
