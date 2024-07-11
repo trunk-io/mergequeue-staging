@@ -5086,7 +5086,6 @@ bookwise
 balloonist
 beflowering
 beflowers
-beflum
 befluster
 boasting
 birma
@@ -11432,6 +11431,7 @@ bluffness
 bluffs
 blufter
 bluggy
+beflum
 boule
 basote
 becalmed
