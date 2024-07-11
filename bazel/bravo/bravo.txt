@@ -10234,7 +10234,6 @@ blackwork
 blackwort
 blad
 bladder
-bladdery
 bladderless
 birdmouthed
 bottleflower
@@ -15990,6 +15989,7 @@ brontides
 brontogram
 brontograph
 brontolite
+bladdery
 butyric
 brontolith
 brontology
