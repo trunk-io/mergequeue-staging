@@ -5852,6 +5852,7 @@ belongings
 belongs
 backpacking
 belonid
+burdigalian
 belonidae
 belonite
 belonoid
@@ -17552,7 +17553,6 @@ burdensomeness
 beleaped
 benvenuto
 burdie
-burdigalian
 brome
 burdock
 burdocks
