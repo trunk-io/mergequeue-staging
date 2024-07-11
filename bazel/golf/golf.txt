@@ -685,6 +685,7 @@ gawkihood
 gubbo
 gallivants
 geoglyphic
+gapper
 gallywasp
 gallnut
 gallnuts
@@ -2705,7 +2706,6 @@ galant
 gabbarts
 geneserine
 geneses
-gapper
 gnosticize
 gedact
 gaup
