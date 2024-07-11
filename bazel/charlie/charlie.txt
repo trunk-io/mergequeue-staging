@@ -3585,7 +3585,6 @@ caratch
 carate
 carates
 carats
-carauna
 caravan
 caravaneer
 caravaning
@@ -10449,6 +10448,7 @@ chiefage
 chiefdoms
 chiefer
 chiefery
+carauna
 chiefest
 chiefish
 chiefless
