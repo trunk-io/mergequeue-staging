@@ -8418,6 +8418,7 @@ dialonian
 dials
 dialup
 dialuric
+dural
 diam
 diamagnet
 diamagnetic
@@ -18417,7 +18418,6 @@ durables
 durably
 duracine
 durain
-dural
 duramater
 delit
 duramen
