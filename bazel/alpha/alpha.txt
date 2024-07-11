@@ -9023,7 +9023,6 @@ allophonic
 asklepios
 allophore
 alloplasm
-alloplasmatic
 automatizing
 alloplasmic
 alloplast
@@ -21015,6 +21014,7 @@ ascyphous
 airstream
 ascyrum
 ascitan
+alloplasmatic
 ascitb
 ascite
 ascites
