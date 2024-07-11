@@ -14235,7 +14235,6 @@ circling
 circocele
 circuit
 choledocholithotomy
-circuital
 circuited
 circuiteer
 circuiter
@@ -25988,6 +25987,7 @@ corvinas
 corvine
 corviser
 corvisor
+circuital
 corvo
 corvoid
 caecias
