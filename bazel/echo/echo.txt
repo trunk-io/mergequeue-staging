@@ -5446,6 +5446,7 @@ enrank
 enclavement
 endovasculitis
 equinox
+enemy
 epitaph
 ecdemic
 endowing
@@ -5505,7 +5506,6 @@ eneid
 enemas
 enemata
 emball
-enemy
 enemied
 excitements
 enemies
