@@ -4164,7 +4164,6 @@ caressable
 caressed
 caressers
 caresses
-caressingly
 caressive
 carest
 caret
@@ -23349,6 +23348,7 @@ contagia
 contagion
 contagionist
 computation
+caressingly
 cloamer
 contagions
 contagiosity
