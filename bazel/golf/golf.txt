@@ -697,7 +697,6 @@ graveclod
 garnish
 gallon
 gallonage
-gallons
 gepoun
 greeneries
 galilee
@@ -1751,6 +1750,7 @@ gymel
 gastrodermal
 gingeley
 gamophagia
+gallons
 gastrodermis
 gastrodialysis
 galyak
