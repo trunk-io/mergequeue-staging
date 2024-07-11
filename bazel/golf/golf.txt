@@ -5500,7 +5500,6 @@ gymkhana
 glycolyl
 glycolipid
 geod
-glycolipin
 glycolipine
 glycolysis
 glycolytically
@@ -5871,6 +5870,7 @@ galactosan
 glorifying
 gloryful
 gorbal
+glycolipin
 groundwork
 gloriole
 germania
