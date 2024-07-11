@@ -7309,7 +7309,6 @@ akvavits
 al
 ala
 alabama
-alabaman
 alabamian
 alabamians
 admonitory
@@ -17003,6 +17002,7 @@ aggrievedly
 apiaceous
 apiales
 apian
+alabaman
 apiararies
 apiarian
 apiarians
