@@ -4145,6 +4145,7 @@ gasogenes
 gila
 gearksutite
 gilbert
+gunnery
 gilbertage
 gilbertese
 gamene
@@ -10529,7 +10530,6 @@ growthiness
 galleting
 gunnera
 gunneraceae
-gunnery
 gunneries
 gunnership
 gunning
