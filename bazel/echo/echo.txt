@@ -12098,6 +12098,7 @@ exclude
 exergonic
 excludes
 excommunicated
+exobasidiales
 evoker
 esperantism
 exclusionary
@@ -12632,7 +12633,6 @@ exmoor
 exoascaceae
 exoascaceous
 exoascales
-exobasidiales
 exclam
 exclaim
 epileptic
