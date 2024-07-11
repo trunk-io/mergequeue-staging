@@ -1485,6 +1485,7 @@ accelerograph
 accelerometer
 accelerometers
 accend
+aeolis
 accendibility
 apartado
 accendible
@@ -4893,7 +4894,6 @@ aeolididae
 aeoline
 aeolipile
 aeolipyle
-aeolis
 achira
 amylocellulose
 aeolism
