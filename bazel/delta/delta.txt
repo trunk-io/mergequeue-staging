@@ -10674,7 +10674,6 @@ diplopods
 dermochrome
 diplopteryga
 diplopterous
-defiler
 diplosis
 dynamostatic
 diplosome
@@ -15128,6 +15127,7 @@ doing
 doings
 disutility
 doit
+defiler
 doited
 doitkin
 decurvation
