@@ -944,6 +944,7 @@ beamman
 bagnut
 bagobo
 bagonet
+barrowcoat
 bagong
 bagoong
 bagpiped
@@ -3052,7 +3053,6 @@ barroom
 basibregmatic
 barrooms
 barrow
-barrowcoat
 barrowist
 barrowman
 balanitis
