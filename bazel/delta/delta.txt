@@ -9433,7 +9433,6 @@ diffusate
 dogbane
 drupe
 diffuse
-diffused
 diffusely
 dashplate
 divulsion
@@ -14636,6 +14635,7 @@ dlr
 dlvy
 deservedness
 dm
+diffused
 dmarche
 dnieper
 doa
