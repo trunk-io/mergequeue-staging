@@ -4799,7 +4799,6 @@ barytocelestite
 bumblefoot
 bedsores
 bedspread
-butteriness
 bedspreads
 bedspring
 bedsprings
@@ -8833,6 +8832,7 @@ buckram
 bynin
 biniodide
 biniou
+butteriness
 binit
 binitarian
 binitarianism
