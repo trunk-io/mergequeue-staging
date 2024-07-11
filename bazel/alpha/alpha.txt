@@ -14326,6 +14326,7 @@ angelicize
 archliar
 assentive
 alectoromancy
+asgmt
 antistes
 anteopercle
 anteorbital
@@ -21135,7 +21136,6 @@ asfetida
 asg
 asgard
 arguable
-asgmt
 adenohypophysis
 asha
 acetonate
