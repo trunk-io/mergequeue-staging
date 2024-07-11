@@ -5453,7 +5453,6 @@ afflicter
 afflicting
 afflictingly
 afflictionless
-afflictions
 afflictive
 afflictively
 avadavats
@@ -11887,6 +11886,7 @@ analogice
 analogies
 analogions
 analogise
+afflictions
 analogism
 analogized
 analogizing
