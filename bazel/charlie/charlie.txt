@@ -7887,7 +7887,6 @@ cervid
 cervidae
 cervinae
 cervine
-convoked
 comme
 cervisia
 cervisial
@@ -18565,6 +18564,7 @@ coiffeuses
 coiffing
 cowleech
 coiffure
+convoked
 coiffured
 coiffures
 coiffuring
