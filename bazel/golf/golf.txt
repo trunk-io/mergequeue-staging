@@ -4663,7 +4663,6 @@ glucke
 geogony
 gypsyisms
 graveyards
-gipsylike
 glowworm
 gypsine
 gipsiologist
@@ -5265,6 +5264,7 @@ gorfly
 glassman
 glassmen
 ganosis
+gipsylike
 glassophone
 glassrope
 glassteel
