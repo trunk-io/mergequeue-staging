@@ -4394,7 +4394,6 @@ demast
 demasted
 demasting
 dishfuls
-demasts
 dematerialisation
 dematerialise
 decubation
@@ -4641,6 +4640,7 @@ dulanganes
 demisemitone
 demises
 demisheath
+demasts
 deflexion
 disambiguating
 demishirt
