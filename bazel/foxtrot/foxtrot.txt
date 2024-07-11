@@ -7757,6 +7757,7 @@ feoffment
 foremean
 forb
 foreyards
+ferrels
 foremeant
 frilal
 foremelt
@@ -8743,7 +8744,6 @@ femicide
 forworden
 forwork
 frailer
-ferrels
 forwrap
 fleecier
 forz
