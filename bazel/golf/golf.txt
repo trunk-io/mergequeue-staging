@@ -3738,6 +3738,7 @@ gewgawry
 gewgaws
 gez
 gezerah
+garmentmaker
 ggr
 glade
 ghaffir
@@ -7211,7 +7212,6 @@ gordolobo
 gordon
 gusted
 giftlike
-garmentmaker
 gore
 grimmish
 giddap
