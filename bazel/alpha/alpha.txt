@@ -5388,7 +5388,6 @@ affich
 animize
 affiche
 affidation
-affidavy
 affidavit
 affies
 affying
@@ -15455,6 +15454,7 @@ antiheroism
 azulejo
 antihydropic
 ambitionlessly
+affidavy
 antihydropin
 antihidrotic
 aristotelism
