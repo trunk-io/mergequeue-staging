@@ -1415,7 +1415,6 @@ fingerhook
 fario
 fatigued
 formicina
-fatigueless
 firetail
 fatiguesome
 furiant
@@ -2482,6 +2481,7 @@ ferryboats
 favela
 ferric
 fopperly
+fatigueless
 familistery
 ferricyanic
 farina
