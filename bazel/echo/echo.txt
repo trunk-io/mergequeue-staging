@@ -7101,7 +7101,6 @@ emmove
 entryways
 enfoldings
 esophago
-electrodeless
 energises
 eyedrop
 entrochite
@@ -13536,6 +13535,7 @@ electrodialytic
 extancy
 extatic
 equinoctially
+electrodeless
 extbook
 enterobiasis
 extemporal
