@@ -11767,7 +11767,6 @@ doronicum
 discrepant
 discrepantly
 discrepate
-discrepated
 discrepating
 drainman
 discrepation
@@ -15078,6 +15077,7 @@ dogs
 dogsbody
 dogsbodies
 dogship
+discrepated
 dehiscence
 deliberate
 dogskin
