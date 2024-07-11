@@ -7029,7 +7029,6 @@ fontanges
 fonted
 fontful
 fonticulus
-footgeld
 feltmonger
 fontina
 fontinal
@@ -7900,6 +7899,7 @@ fructed
 foresees
 fistify
 foresend
+footgeld
 farmhand
 faience
 fdname
