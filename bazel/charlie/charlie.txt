@@ -5188,7 +5188,6 @@ cassareep
 cassata
 chesterfieldian
 cassava
-cassavas
 casse
 cassegrain
 cassegrainian
@@ -20856,6 +20855,7 @@ compony
 comport
 comportance
 catelectrotonus
+cassavas
 comported
 comporting
 centres
