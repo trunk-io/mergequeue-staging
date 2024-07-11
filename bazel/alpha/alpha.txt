@@ -4437,6 +4437,7 @@ adrectal
 adenalgia
 adrenal
 adrenalectomy
+agglutinations
 abrash
 adrenalectomies
 adrenalectomize
@@ -6122,7 +6123,6 @@ arboresque
 agglutination
 antiquity
 agglutinationist
-agglutinations
 agglutinative
 agglutinatively
 antiempirical
