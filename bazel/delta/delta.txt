@@ -5331,6 +5331,7 @@ denticete
 denticeti
 denticles
 denticular
+diachoresis
 denticulate
 delegare
 denticulated
@@ -7279,7 +7280,6 @@ determinist
 deterministic
 decennially
 determinists
-diachoresis
 deterrability
 deterred
 deterrence
