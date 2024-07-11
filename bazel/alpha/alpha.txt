@@ -4625,7 +4625,6 @@ advective
 advects
 axillars
 advenae
-advene
 allelotropy
 advenient
 advent
@@ -9753,6 +9752,7 @@ alvearies
 alvearium
 alveated
 aquilon
+advene
 alveola
 acetoxyphthalide
 alveolae
