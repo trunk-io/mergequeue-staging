@@ -3579,7 +3579,6 @@ gerund
 gastropyloric
 gorkun
 grogshops
-gerundival
 gerunds
 gervase
 gunslinger
@@ -8227,6 +8226,7 @@ gardenmaking
 grouty
 gisarmes
 goodwilies
+gerundival
 grapholite
 guayaberas
 girlishly
