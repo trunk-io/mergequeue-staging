@@ -3872,7 +3872,6 @@ emes
 emesa
 emesidae
 emesis
-emetia
 emetic
 emetical
 emetines
@@ -5694,6 +5693,7 @@ expatriations
 engallant
 epistles
 engaol
+emetia
 engarb
 engarland
 engarrison
