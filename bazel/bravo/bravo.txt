@@ -1265,6 +1265,7 @@ balaam
 balabos
 buddha
 block
+bequest
 balaclava
 balada
 baladine
@@ -6545,7 +6546,6 @@ bibulosity
 bemoan
 brawled
 bequeaths
-bequest
 bridgewall
 bequests
 bequote
