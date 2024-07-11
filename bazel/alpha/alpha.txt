@@ -847,7 +847,6 @@ abreption
 audiometers
 allottees
 abret
-abreuvoir
 abri
 abrico
 abricock
@@ -2784,6 +2783,7 @@ acquirement
 acquirements
 acquirer
 acquires
+abreuvoir
 acquisible
 acousmas
 acquisite
