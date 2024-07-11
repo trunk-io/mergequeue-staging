@@ -22223,6 +22223,7 @@ confute
 confuters
 confutes
 cong
+crossbolt
 conga
 congaing
 congas
@@ -29834,7 +29835,6 @@ crossbeam
 crossbearer
 crossbench
 crossbencher
-crossbolt
 crossbolted
 crossbones
 crossbow

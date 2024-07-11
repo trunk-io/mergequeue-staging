@@ -1628,7 +1628,6 @@ gasohol
 griffado
 gasoliery
 gangland
-gnatproof
 gasoliers
 garrisonism
 gasoline
@@ -6202,6 +6201,7 @@ gluside
 geometricize
 guttulae
 glutamate
+gnatproof
 glutamates
 glutamic
 glutamine
