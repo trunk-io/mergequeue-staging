@@ -5594,7 +5594,6 @@ flint
 flinter
 forbreak
 flintier
-fadedly
 flintiest
 flappiest
 flintifying
@@ -9810,6 +9809,7 @@ frequenter
 fogram
 frequentest
 frequenting
+fadedly
 fecundator
 foldout
 frequentness
