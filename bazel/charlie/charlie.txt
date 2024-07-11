@@ -18948,7 +18948,6 @@ collapsability
 collapsar
 cascado
 collapse
-collapsed
 collapses
 collapsibility
 cubism
@@ -20302,6 +20301,7 @@ columbus
 commonition
 commonize
 catheads
+collapsed
 commonly
 commonness
 ctrl
