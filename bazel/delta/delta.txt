@@ -3331,7 +3331,6 @@ definitions
 definitise
 dankly
 definitised
-disunifying
 definitising
 definitive
 dunned
@@ -6086,6 +6085,7 @@ dorsibranchiata
 derate
 derated
 derater
+disunifying
 derating
 derationalization
 derationalize
