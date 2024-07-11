@@ -1412,7 +1412,6 @@ finickier
 fatiguable
 fatigue
 fingerhook
-fario
 fatigued
 formicina
 fatigueless
@@ -5853,6 +5852,7 @@ flon
 flong
 fimbriated
 flood
+fario
 floodable
 fluoaluminate
 fondus

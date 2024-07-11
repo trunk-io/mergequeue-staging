@@ -4248,7 +4248,6 @@ estimableness
 empowering
 empowerment
 empresa
-empresario
 empress
 empresse
 empresses
@@ -11979,6 +11978,7 @@ exceptional
 exceptionally
 exceptionary
 exceptionless
+empresario
 electronegativity
 exceptions
 exceptious
