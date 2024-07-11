@@ -1518,7 +1518,6 @@ eragrostis
 externs
 evelyn
 empestic
-equationally
 embottle
 exiledom
 egality
@@ -10904,6 +10903,7 @@ etrog
 eulogistically
 eulogiums
 eulogization
+equationally
 embarkation
 eulogize
 eulogizers

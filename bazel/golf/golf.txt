@@ -2218,7 +2218,6 @@ gearings
 gasterotricha
 goladar
 gears
-gearset
 gearshift
 gearshifts
 genethliacally
@@ -6042,6 +6041,7 @@ gammoner
 glow
 girnel
 glowbard
+gearset
 glowbird
 glowed
 glower
