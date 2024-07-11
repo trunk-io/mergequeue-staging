@@ -16349,7 +16349,6 @@ clinographic
 clinohedral
 clinohedrite
 clinohumite
-clinoid
 cardiopathic
 coprolalia
 clinology
@@ -23299,6 +23298,7 @@ consultory
 consults
 consumable
 consumables
+clinoid
 consumate
 consumated
 consumating
