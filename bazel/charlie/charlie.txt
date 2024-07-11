@@ -21631,7 +21631,6 @@ condemnations
 condemnatory
 condemner
 chortles
-condemners
 condemning
 condemningly
 coms
@@ -31304,6 +31303,7 @@ curfewed
 curfews
 curfs
 curia
+condemners
 curiae
 curiage
 curialism

@@ -3199,7 +3199,6 @@ gabbart
 gangrels
 geonegative
 ghostland
-geonic
 geonim
 glarier
 ganglion
@@ -7849,6 +7848,7 @@ gloomfully
 goodbyes
 great
 graminology
+geonic
 grubbiest
 grammalogue
 greffotome
