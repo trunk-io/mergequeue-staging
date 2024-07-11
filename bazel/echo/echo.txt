@@ -2499,7 +2499,6 @@ electromer
 equivalenced
 electromeric
 electromerism
-electrometallurgical
 electrometer
 enage
 electrometrical
@@ -4697,6 +4696,7 @@ exterous
 enchodontidae
 enchodontoid
 enchondroma
+electrometallurgical
 enchondromas
 enchondromata
 enchondrosis

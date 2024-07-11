@@ -18333,7 +18333,6 @@ arabicism
 arabiyeh
 arability
 arabine
-arabinic
 arabinose
 anabaena
 arabinosic
@@ -24413,6 +24412,7 @@ autosomes
 autosoteric
 amounted
 autosporic
+arabinic
 autospray
 autostability
 autostarter
