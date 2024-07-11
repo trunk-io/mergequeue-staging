@@ -5915,7 +5915,6 @@ floosies
 floozie
 flop
 floperoo
-flophouses
 foreknow
 fatals
 fluidizer
@@ -9378,6 +9377,7 @@ frankist
 franklin
 founder
 fendered
+flophouses
 franklinian
 furmeties
 franklinic
