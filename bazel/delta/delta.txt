@@ -397,6 +397,7 @@ daimiate
 dn
 didacticality
 disillusion
+doest
 daimio
 daimyo
 drungar
@@ -11482,7 +11483,6 @@ discoloration
 discolorations
 discoloredness
 discoloring
-doest
 disdainful
 discolorization
 discolors
