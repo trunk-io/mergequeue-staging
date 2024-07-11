@@ -4348,6 +4348,7 @@ fragment
 freebootery
 fishling
 fromage
+finableness
 fishmeal
 fabliaux
 fishnets
@@ -11502,7 +11503,6 @@ fluky
 fopling
 foreglimpse
 furstone
-finableness
 furthered
 furtherer
 flirt
