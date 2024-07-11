@@ -419,6 +419,7 @@ backhooker
 baubling
 backhouse
 biblioklept
+bebusy
 bushelful
 backhouses
 backy
@@ -4369,7 +4370,6 @@ bebreech
 bebrush
 bidactyle
 bebump
-bebusy
 bebuttoned
 bec
 becafico
