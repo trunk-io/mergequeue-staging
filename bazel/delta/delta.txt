@@ -1893,6 +1893,7 @@ diathesis
 debtorship
 debts
 debuggers
+diaconicum
 distinctive
 decide
 debugs
@@ -2475,7 +2476,6 @@ declaratory
 declaratorily
 declare
 declaredly
-diaconicum
 declaredness
 declarer
 declarers
