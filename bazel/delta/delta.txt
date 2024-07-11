@@ -2199,7 +2199,6 @@ decelerator
 decelerators
 deceleron
 december
-diachoretic
 decemcostate
 decemdentate
 diple
@@ -12477,6 +12476,7 @@ dustour
 disinclines
 disinclining
 dramatizer
+diachoretic
 dormitory
 decolorate
 demersal
