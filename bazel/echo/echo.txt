@@ -4321,6 +4321,7 @@ economizers
 emulatress
 electrotonus
 embouchures
+eques
 emulous
 expresser
 escambio
@@ -8605,7 +8606,6 @@ equatorwards
 entreated
 equerries
 escapers
-eques
 equestrial
 empyreal
 epimysium
