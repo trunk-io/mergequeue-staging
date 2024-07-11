@@ -4595,7 +4595,6 @@ advaita
 advanceable
 accursedly
 advanced
-advancement
 advancements
 advancer
 ashkoko
@@ -8653,6 +8652,7 @@ allantoidea
 automatictacessing
 amble
 allantoidean
+advancement
 allantoides
 allantoidian
 apomecometry
