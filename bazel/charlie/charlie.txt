@@ -3378,7 +3378,6 @@ captaincy
 captaincies
 captained
 captainess
-captaining
 chytra
 captainly
 captainries
@@ -10603,6 +10602,7 @@ chylific
 crossbill
 chylified
 chylifying
+captaining
 cocci
 chilina
 chilindre
