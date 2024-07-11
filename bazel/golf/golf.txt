@@ -2835,6 +2835,7 @@ grails
 genitofemoral
 grisset
 grasps
+gestical
 genitor
 gendering
 genitory
@@ -10751,7 +10752,6 @@ guttated
 gutte
 gutted
 ganoidean
-gestical
 gutterblood
 guttery
 greenboard
