@@ -2317,7 +2317,6 @@ feoffs
 fer
 feracious
 feracities
-fraktur
 fieldstrip
 feralin
 feramorz
@@ -4552,6 +4551,7 @@ footslogs
 fixative
 fixator
 fixedness
+fraktur
 fibroreticulate
 fling
 fixer
