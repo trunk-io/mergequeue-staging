@@ -1852,7 +1852,6 @@ fundless
 fed
 fedayee
 fedarie
-feddan
 feddans
 federal
 federalese
@@ -9569,6 +9568,7 @@ freebooting
 fusils
 freeboots
 flenches
+feddan
 freeborn
 freechurchism
 floretum
