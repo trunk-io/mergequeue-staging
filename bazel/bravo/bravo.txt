@@ -2204,7 +2204,6 @@ bans
 bansalague
 bevilled
 bansela
-banshies
 bant
 bantay
 bego
@@ -5925,6 +5924,7 @@ bema
 batfowled
 bemad
 bemadam
+banshies
 bemadamed
 bilharziosis
 bemaddening
