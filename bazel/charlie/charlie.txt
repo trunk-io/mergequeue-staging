@@ -10465,7 +10465,6 @@ chieftain
 chieftaincy
 conure
 chieftaincies
-chieftainess
 chieftainries
 chieftainship
 chieftainships
@@ -16958,6 +16957,7 @@ clubweed
 clubwoman
 clubwomen
 clubwood
+chieftainess
 cluck
 clucked
 clucky
