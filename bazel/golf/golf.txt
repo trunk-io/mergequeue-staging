@@ -7557,7 +7557,6 @@ gowdy
 gowdnook
 gowds
 gowf
-gowfer
 gowiddie
 gerbera
 gowked
@@ -9538,6 +9537,7 @@ glumosity
 grover
 grovers
 gallantly
+gowfer
 grovet
 grovy
 growable
