@@ -999,7 +999,6 @@ dark
 darked
 darkeys
 drabbles
-darken
 darkener
 darraign
 darkening
@@ -4963,6 +4962,7 @@ defunctionalize
 demurrals
 demurrant
 demurrer
+darken
 demurrers
 demephitize
 demurring
