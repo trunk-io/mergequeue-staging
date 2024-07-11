@@ -1054,7 +1054,6 @@ eden
 epitomizer
 estoppage
 equivalence
-emule
 enacts
 edental
 edgers
@@ -4852,6 +4851,7 @@ encorbelment
 encore
 enantiomorphic
 emulsifiable
+emule
 expatriated
 excitive
 events

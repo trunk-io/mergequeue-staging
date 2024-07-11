@@ -10466,7 +10466,6 @@ chieftainries
 chieftainship
 chieftainships
 chieftess
-chiefty
 chiel
 chield
 chields
@@ -22459,6 +22458,7 @@ coniogramme
 coniology
 coniomycetes
 coniophora
+chiefty
 coannexing
 coniopterygidae
 coniosis
