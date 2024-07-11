@@ -39,6 +39,7 @@ fakers
 firebrat
 filters
 fabrique
+formalise
 fabronia
 florulent
 fabroniaceae
@@ -11407,7 +11408,6 @@ furling
 fiscality
 foemen
 furlong
-formalise
 furlongs
 fluoroscope
 fandangle

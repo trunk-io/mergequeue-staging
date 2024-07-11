@@ -6517,7 +6517,6 @@ bepray
 baculoid
 bossism
 bepraise
-bergall
 bepimpled
 bepraiser
 billed
@@ -14310,6 +14309,7 @@ barcelonas
 brailed
 brailled
 brailler
+bergall
 brailles
 bewary
 braillewriter
