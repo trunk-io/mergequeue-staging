@@ -5469,6 +5469,7 @@ endrudge
 electroballistic
 endsheet
 endship
+eternalize
 edgier
 erose
 endue
@@ -10194,7 +10195,6 @@ eternalised
 eternalising
 eternalist
 eternality
-eternalize
 eternalized
 eternally
 encrypting
