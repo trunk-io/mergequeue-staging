@@ -5169,7 +5169,6 @@ aerose
 aerosiderite
 aerosiderolite
 aerosinusitis
-aerosol
 aerosolization
 aerosolize
 aerosolized
@@ -17981,6 +17980,7 @@ asterisked
 anethum
 apprizement
 armozeen
+aerosol
 apprizers
 apprizes
 apprizing

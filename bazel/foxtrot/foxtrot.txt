@@ -4830,6 +4830,7 @@ farthest
 flameless
 flamelike
 fellowess
+foelike
 flamen
 formicidae
 flamenco
@@ -6681,7 +6682,6 @@ foeffment
 foehn
 foehnlike
 foeless
-foelike
 forenotice
 foeman
 filial
