@@ -6419,7 +6419,6 @@ fluoridisation
 fittings
 fixe
 fluoridization
-fluoridize
 frowy
 fluoridizing
 flimflammed
@@ -8352,6 +8351,7 @@ formalize
 formalizer
 felliducous
 formalizes
+fluoridize
 formalizing
 fraudulently
 formally
