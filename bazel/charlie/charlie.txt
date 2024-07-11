@@ -479,6 +479,7 @@ cadential
 cadenza
 cadenzas
 cader
+christly
 caderas
 cadere
 cades
@@ -9600,7 +9601,6 @@ checkout
 checkouts
 chiffony
 checkpoint
-christly
 checkpointed
 checkpointing
 coparallel
