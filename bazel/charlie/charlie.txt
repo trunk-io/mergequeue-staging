@@ -13775,7 +13775,6 @@ cymographic
 cymoid
 cysticercus
 cymoidium
-centaurial
 cymol
 cimolite
 cymols
@@ -23502,6 +23501,7 @@ conterminal
 conterminant
 crimsonly
 conterminate
+centaurial
 caste
 contermine
 coach
