@@ -2323,7 +2323,6 @@ fieldstrip
 feralin
 feramorz
 ferbams
-fadingness
 ferberite
 ferdwit
 flagellate
@@ -3434,6 +3433,7 @@ feasten
 frogtongue
 fil
 filace
+fadingness
 feedlot
 feringhee
 fusilade
