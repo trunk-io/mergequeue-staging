@@ -8357,6 +8357,7 @@ dialyzer
 dialyzes
 duped
 declaiming
+docimasies
 distorted
 dialkylamine
 dialkylic
@@ -14704,7 +14705,6 @@ druidical
 directionize
 delimitative
 dionaea
-docimasies
 docimastical
 dalk
 docimology

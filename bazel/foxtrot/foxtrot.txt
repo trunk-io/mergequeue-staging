@@ -2538,6 +2538,7 @@ ferrophosphorus
 ferroprint
 filicologist
 ferroprussic
+fungologist
 fording
 ferrotype
 ferrotyper
@@ -11202,7 +11203,6 @@ flor
 farmerette
 fungoes
 fungological
-fungologist
 fritts
 fungose
 fungus
