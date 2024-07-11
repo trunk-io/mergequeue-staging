@@ -9423,7 +9423,6 @@ dogbane
 drupe
 diffuse
 diffused
-diffusely
 dashplate
 divulsion
 diffuseness
@@ -11470,6 +11469,7 @@ discolorations
 discoloredness
 discoloring
 doest
+diffusely
 disdainful
 discolorization
 discolors
