@@ -880,6 +880,7 @@ gristles
 gambirs
 gambits
 gambler
+gynobase
 gamblers
 gardon
 galapee
@@ -10586,7 +10587,6 @@ gaugeably
 glaziness
 gunstone
 gunther
-gynobase
 galactosis
 guntub
 gunwale
