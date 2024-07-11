@@ -16911,7 +16911,6 @@ archbishop
 aphyllies
 alpinists
 airiness
-aphyllous
 aphyric
 aphis
 aphislion
@@ -24350,6 +24349,7 @@ advocation
 autoput
 autor
 autoradiograph
+aphyllous
 autoradiography
 aestival
 autoreduction
