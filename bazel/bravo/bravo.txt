@@ -12767,7 +12767,6 @@ booming
 boomless
 boomlet
 boomlets
-booms
 boomslang
 boomslange
 boomster
@@ -15360,6 +15359,7 @@ brimmingly
 beclowned
 brims
 broaden
+booms
 brimse
 bantamize
 brimstonewort
