@@ -14229,7 +14229,6 @@ antecurvature
 anted
 autographometer
 antedate
-antedated
 antedates
 antedating
 antedawn
@@ -21049,6 +21048,7 @@ ascogonidia
 adminstration
 anthropopathism
 abstinency
+antedated
 ascogonidium
 ascogonium
 ascoma
