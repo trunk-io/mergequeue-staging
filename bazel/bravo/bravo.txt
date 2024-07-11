@@ -1765,7 +1765,6 @@ brucin
 balsamed
 balsamic
 balsamically
-balsamiferous
 bigotries
 balsamina
 balsaminaceae
@@ -10214,6 +10213,7 @@ blackthorn
 blackthorns
 blacktongue
 blacktopped
+balsamiferous
 blacktopping
 blacktops
 boothite
