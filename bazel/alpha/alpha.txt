@@ -4147,7 +4147,6 @@ admeasure
 admeasured
 admeasurement
 admeasurer
-adumbrant
 admedian
 asquat
 afforced
@@ -22787,6 +22786,7 @@ abrocoma
 atomization
 apochromat
 anthills
+adumbrant
 atomize
 allicient
 atlases
