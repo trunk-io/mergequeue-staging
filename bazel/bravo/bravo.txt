@@ -8399,7 +8399,6 @@ bigthatch
 biguanide
 bigwig
 bluenoser
-bigwigged
 bigwiggedness
 boghole
 bigwiggery
@@ -17733,6 +17732,7 @@ burka
 burke
 burked
 burker
+bigwigged
 bailiffry
 burkes
 biffed

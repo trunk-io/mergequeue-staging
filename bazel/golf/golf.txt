@@ -182,7 +182,6 @@ gager
 gagers
 greenstone
 gages
-gauche
 gratia
 gasterosteus
 gagged
@@ -5635,6 +5634,7 @@ gospelize
 glisk
 glisky
 glissader
+gauche
 glissando
 gybe
 gowning
