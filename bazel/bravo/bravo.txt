@@ -1449,7 +1449,6 @@ balestra
 balete
 balewort
 bali
-browband
 battening
 balibuntal
 balibuntl
@@ -2024,6 +2023,7 @@ beg
 bandster
 blackfire
 bandstop
+browband
 bandura
 bandurria
 bandurrias

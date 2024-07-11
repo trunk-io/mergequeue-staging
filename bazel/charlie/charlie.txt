@@ -7835,7 +7835,6 @@ cerumens
 ceruminal
 casa
 ceruminiferous
-cerumniparous
 ceruse
 ceruses
 cerusite
@@ -27611,6 +27610,7 @@ carbonadoed
 cowboy
 cowboys
 cowcatcher
+cerumniparous
 cowcatchers
 cowdie
 cromwell
