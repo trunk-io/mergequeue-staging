@@ -2707,7 +2707,6 @@ barken
 beknights
 barkening
 barkentine
-barkentines
 barker
 barkery
 barkers
@@ -9630,6 +9629,7 @@ butomaceous
 benevolency
 bridgeheads
 babbitter
+barkentines
 bisdimethylamino
 bise
 bisect
