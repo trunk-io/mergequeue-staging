@@ -15664,6 +15664,7 @@ class
 classable
 classbook
 ceasmic
+collieries
 classer
 chacra
 classfellow
@@ -19127,7 +19128,6 @@ collied
 collielike
 collier
 colliery
-collieries
 cuber
 colliers
 collieshangie
