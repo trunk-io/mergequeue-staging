@@ -5038,7 +5038,6 @@ casebound
 calliphorid
 casebox
 calcinable
-caseconv
 cased
 casefies
 casefying
@@ -30340,6 +30339,7 @@ caprifoliaceae
 checklists
 crux
 cruxes
+caseconv
 cruzado
 cruzadoes
 cruzeiro
