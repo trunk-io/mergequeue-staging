@@ -2758,7 +2758,6 @@ elements
 elemicin
 elemin
 elemis
-elemong
 expressivism
 eulamellibranch
 elench
@@ -12052,6 +12051,7 @@ excitancy
 excitant
 excitate
 excitatory
+elemong
 excited
 excitedly
 excitedness
