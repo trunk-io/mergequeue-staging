@@ -1326,7 +1326,6 @@ fatality
 fatalities
 furrowless
 fatally
-fatalness
 friggle
 flawflower
 friendlessness
@@ -8810,6 +8809,7 @@ fossilized
 fossilizes
 frowziness
 fossilogy
+fatalness
 fossilology
 fossilological
 frosty
