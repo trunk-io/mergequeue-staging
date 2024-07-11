@@ -1934,7 +1934,6 @@ banderlog
 blamability
 balearic
 boubou
-banderol
 bolivias
 banderole
 banderoled
@@ -13016,6 +13015,7 @@ boredom
 boree
 boreen
 boreens
+banderol
 borehole
 boreholes
 boreiad
