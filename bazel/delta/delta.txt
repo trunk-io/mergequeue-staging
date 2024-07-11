@@ -2886,6 +2886,7 @@ decussation
 decussion
 decussis
 decussoria
+disabled
 decussorium
 decwriter
 dedal
@@ -10918,7 +10919,6 @@ dys
 disability
 disabilities
 disable
-disabled
 disablement
 disableness
 demonstrativeness
