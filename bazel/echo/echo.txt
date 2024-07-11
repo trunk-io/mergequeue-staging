@@ -2276,7 +2276,6 @@ electors
 electragy
 electre
 electress
-experiences
 electrets
 exostosis
 electric
@@ -5615,6 +5614,7 @@ enfilading
 enfiled
 eyebolt
 enticing
+experiences
 enfire
 eyases
 enflame
