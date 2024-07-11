@@ -4755,6 +4755,7 @@ groundward
 greatheart
 grouplet
 gallus
+gustatory
 gyrencephalous
 gallivat
 gyres
@@ -10696,7 +10697,6 @@ gustables
 gustard
 gigunu
 groundnut
-gustatory
 genarchship
 gustavus
 gripper
