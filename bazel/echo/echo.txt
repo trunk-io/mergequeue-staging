@@ -2879,7 +2879,6 @@ endogeny
 epinard
 elfic
 educative
-elfins
 elfinwood
 elfish
 euphemist
@@ -4108,6 +4107,7 @@ eightyfold
 esculic
 emphase
 emphases
+elfins
 expirable
 embioptera
 enterrologist
