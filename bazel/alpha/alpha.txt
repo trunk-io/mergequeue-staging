@@ -6817,7 +6817,6 @@ affectivity
 arteriometer
 aigret
 aigrets
-aigrette
 agnotozoic
 aiguelle
 aiguiere
@@ -6984,6 +6983,7 @@ aire
 ayre
 aired
 airedale
+aigrette
 airedales
 airers
 airest
