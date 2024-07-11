@@ -11364,6 +11364,7 @@ arete
 amphogenous
 ampholyte
 amphophil
+asterioid
 amphophile
 amphophilic
 amphora
@@ -22039,7 +22040,6 @@ asterikos
 asterina
 aclinic
 asterinidae
-asterioid
 annerodite
 asterion
 asterionella
