@@ -7507,6 +7507,7 @@ allots
 albergatrice
 alberghi
 albergo
+astrography
 alberta
 albertin
 albertina
@@ -22290,7 +22291,6 @@ astroglia
 astrognosy
 astrogonic
 astrograph
-astrography
 antependiums
 astrohatch
 astroid
