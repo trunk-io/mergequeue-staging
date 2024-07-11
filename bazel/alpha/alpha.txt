@@ -8615,7 +8615,6 @@ alkyloxy
 amianthium
 alkin
 alkitran
-anticlimactical
 alkool
 aucuba
 alkoran
@@ -14809,6 +14808,7 @@ antialdoxime
 antialexin
 algine
 antiamylase
+anticlimactical
 antiamusement
 antianaphylactogen
 antianaphylaxis
