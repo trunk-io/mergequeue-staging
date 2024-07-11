@@ -4711,7 +4711,6 @@ demobilisation
 demobilised
 demobilising
 demobilizations
-demobilize
 demobilized
 demobilizes
 democracies
@@ -9109,6 +9108,7 @@ did
 drearness
 didache
 devouringness
+demobilize
 didachist
 didact
 didactic
