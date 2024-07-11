@@ -9625,6 +9625,7 @@ checkstring
 checksum
 construct
 checksummed
+cosmoline
 coffin
 checksumming
 checkup
@@ -26123,7 +26124,6 @@ cosmography
 cosmographic
 cosmographical
 cosmographist
-cosmoline
 cosmolined
 cosmolining
 cosmology
