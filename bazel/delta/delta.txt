@@ -726,7 +726,6 @@ danburite
 dancalite
 diobolons
 diplanetic
-danceability
 danceable
 danced
 dancer
@@ -15034,6 +15033,7 @@ diabetometer
 dogly
 doglike
 dogmas
+danceability
 dufrenite
 dogmata
 dogmatic
