@@ -1241,6 +1241,7 @@ baptism
 bimensal
 baklava
 baklavas
+brownier
 baklawa
 barege
 baklawas
@@ -12948,7 +12949,6 @@ bucklers
 borborygmies
 borborygmus
 blockaded
-brownier
 bord
 bordage
 blaring
