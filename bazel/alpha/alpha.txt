@@ -1491,7 +1491,6 @@ accendible
 agelaius
 accension
 accensor
-accent
 accented
 amentulum
 accentless
@@ -10404,6 +10403,7 @@ amercing
 america
 american
 arrayed
+accent
 americanese
 anthologizes
 americanitis

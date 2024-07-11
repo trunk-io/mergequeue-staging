@@ -2099,7 +2099,6 @@ elaioplast
 elamite
 elamitish
 elan
-elance
 elands
 elans
 eperlan
@@ -4309,6 +4308,7 @@ emulative
 emulatively
 enthronements
 erythric
+elance
 emulator
 embattles
 enumeration
