@@ -3563,7 +3563,6 @@ gers
 gersdorffite
 gaussbergite
 garbled
-gerate
 genes
 gershonite
 graptolitha
@@ -8507,6 +8506,7 @@ gadgety
 grendel
 gravidation
 ginkgoales
+gerate
 gravidity
 gravidly
 gies
