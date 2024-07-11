@@ -6313,7 +6313,6 @@ benzalacetone
 benzalacetophenone
 benzalazine
 batlet
-benzalcohol
 bakupari
 brachiolaria
 benzaldehyde
@@ -11154,6 +11153,7 @@ baluchi
 bloomers
 borderlines
 bloomfell
+benzalcohol
 bloomier
 bloomiest
 bloomingly
