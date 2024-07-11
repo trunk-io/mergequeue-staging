@@ -7983,7 +7983,6 @@ byronesque
 bicentricity
 bicep
 bicephalic
-bicephalous
 biceps
 bicepses
 busting
@@ -18229,6 +18228,7 @@ butterbird
 butterbough
 butterbump
 butterbur
+bicephalous
 butterbush
 buttercups
 butterer

@@ -887,6 +887,7 @@ ectoentad
 ectoenzym
 ensky
 ectogenesis
+endogalvanism
 ectogenetic
 ectogenic
 ectoglia
@@ -5214,7 +5215,6 @@ endodontologist
 endogenetic
 endoenteritis
 endoergic
-endogalvanism
 endogastrically
 endogastritis
 endogen
