@@ -1771,7 +1771,6 @@ gastroduodenotomy
 gastroelytrotomy
 gastroenteric
 gastroenteritic
-genetta
 geomedicine
 gunshot
 gastroenterocolitis
@@ -5573,6 +5572,7 @@ glimpses
 glims
 gisarme
 grandisonian
+genetta
 glink
 glint
 guatuso
