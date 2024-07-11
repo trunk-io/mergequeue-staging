@@ -4046,7 +4046,6 @@ gigabyte
 gigabytes
 gigacycle
 gigahertz
-gigahertzes
 gigameter
 gigantal
 gigantean
@@ -6091,6 +6090,7 @@ graduateship
 gluck
 gynaecologic
 glucocorticoid
+gigahertzes
 gyracanthus
 guilelessness
 glucogene
