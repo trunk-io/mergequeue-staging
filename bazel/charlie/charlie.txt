@@ -2592,7 +2592,6 @@ cannet
 cannetille
 canny
 cannibal
-cannibalish
 cannibalism
 cannibalistically
 cannibality
@@ -18916,6 +18915,7 @@ courtiership
 colla
 collab
 csnet
+cannibalish
 collabent
 collaborate
 collaborated
