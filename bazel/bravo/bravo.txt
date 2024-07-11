@@ -2614,6 +2614,7 @@ brachydomal
 barghests
 bargir
 bugara
+boomer
 bassetite
 bargoose
 barguest
@@ -16441,7 +16442,6 @@ bubales
 bubalises
 bubals
 bubas
-boomer
 bullbird
 baw
 bubastid
