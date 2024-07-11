@@ -3441,7 +3441,6 @@ defoliate
 diallist
 defoliates
 defoliating
-defoliator
 deforce
 dalasis
 deuteroprism
@@ -7185,6 +7184,7 @@ detainingly
 detainment
 detains
 disseats
+defoliator
 detar
 detat
 detax
