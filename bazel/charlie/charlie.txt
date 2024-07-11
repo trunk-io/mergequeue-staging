@@ -6136,7 +6136,6 @@ caudae
 caudal
 caudata
 capsulotome
-chateus
 caudate
 caudated
 caudation
@@ -27900,6 +27899,7 @@ crackle
 crackled
 cicadellidae
 crackles
+chateus
 crackless
 crackleware
 circumstantial
