@@ -8397,7 +8397,6 @@ chalkiness
 chalking
 chalkline
 chalkone
-chalkos
 chalkosideric
 chalkotheke
 chalkrail
@@ -17342,6 +17341,7 @@ coarsens
 coarser
 coarsest
 coart
+chalkos
 coarticulation
 coascend
 coassert
