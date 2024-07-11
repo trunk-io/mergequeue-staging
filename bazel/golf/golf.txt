@@ -1341,7 +1341,6 @@ garden
 gardener
 gardeners
 gatha
-gymnasiarchy
 gardenership
 gardenful
 gardenhood
@@ -7846,6 +7845,7 @@ grounders
 gloomfully
 goodbyes
 great
+gymnasiarchy
 graminology
 grubbiest
 grammalogue
