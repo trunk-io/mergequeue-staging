@@ -6147,7 +6147,6 @@ dissensualize
 derelinquish
 derencephalus
 dunghill
-derepress
 drawtubes
 derepression
 derequisition
@@ -15826,6 +15825,7 @@ dorsibranchiate
 dorsicolumn
 decayable
 dorsicommissure
+derepress
 dorsiferous
 dorsifixed
 dorsiflex
