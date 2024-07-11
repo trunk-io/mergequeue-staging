@@ -9253,7 +9253,6 @@ annexes
 almsfolk
 almsful
 almsgiver
-ataigal
 almshouse
 almshouses
 almsman
@@ -18967,6 +18966,7 @@ archigonic
 archigonocyte
 autonegation
 archikaryon
+ataigal
 archil
 archilithic
 archilochian
