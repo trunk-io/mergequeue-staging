@@ -1408,7 +1408,6 @@ callan
 callans
 callants
 callas
-checked
 callat
 callate
 callback
@@ -11132,6 +11131,7 @@ chitchats
 chitchatted
 chitchatty
 crossbirth
+checked
 chitchatting
 chitimacha
 chitimachan
