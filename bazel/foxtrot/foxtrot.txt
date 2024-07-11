@@ -6754,7 +6754,6 @@ frailty
 fohns
 foy
 fanny
-foyaitic
 foible
 faverel
 foibles
@@ -8301,6 +8300,7 @@ forlay
 forlain
 forlane
 forleave
+foyaitic
 forleit
 flutterers
 forlese
