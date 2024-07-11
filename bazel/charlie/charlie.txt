@@ -21699,7 +21699,6 @@ cystamine
 condyloid
 condyloma
 condylomata
-condylomatous
 condylome
 condylopoda
 condylopodous
@@ -29369,6 +29368,7 @@ cryptopine
 companyless
 cryptopyrrole
 cryptoprocta
+condylomatous
 cryptoproselyte
 cryptoproselytism
 cryptorchid
