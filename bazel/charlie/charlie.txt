@@ -25836,7 +25836,6 @@ chatterers
 corrugent
 corrump
 corrumpable
-corrupable
 clockmutch
 commorant
 classed
@@ -31187,6 +31186,7 @@ covariate
 curace
 curacy
 curacies
+corrupable
 curacoa
 curacoas
 curage
