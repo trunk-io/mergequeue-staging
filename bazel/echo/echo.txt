@@ -149,7 +149,6 @@ earstone
 eoan
 earstones
 enabled
-eartag
 eartagged
 earth
 exudes
@@ -13568,6 +13567,7 @@ eosaurus
 extendable
 extended
 epidermic
+eartag
 extenders
 extends
 extense

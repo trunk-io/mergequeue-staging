@@ -3533,7 +3533,6 @@ batch
 bedur
 bumbass
 brachycephalous
-batched
 batchers
 bargemen
 batea
@@ -12280,6 +12279,7 @@ bombardiers
 bombarding
 bombardman
 bombardmen
+batched
 bombardment
 bombardments
 bombardo
