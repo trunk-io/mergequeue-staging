@@ -3044,7 +3044,6 @@ ellan
 elle
 entrep
 elleck
-ellen
 ellenyard
 ellerian
 equus
@@ -12687,6 +12686,7 @@ exodoi
 edeodynia
 ellfish
 educing
+ellen
 exodontia
 exodontic
 ethicals
