@@ -15519,7 +15519,6 @@ clapotis
 clappe
 clapped
 clapper
-clapperboard
 clapperclaw
 clapperclawer
 clapperdudgeon
@@ -16703,6 +16702,7 @@ cloques
 cloragen
 coachwork
 cleanly
+clapperboard
 cataphrenia
 clorargyrite
 clorinator
