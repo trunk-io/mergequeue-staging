@@ -2004,6 +2004,7 @@ feldspath
 feldspathization
 feldspathoid
 forehook
+flintlike
 feldspathose
 fecche
 felichthys
@@ -5585,7 +5586,6 @@ flintily
 fabulousness
 floe
 flintless
-flintlike
 flints
 flintstone
 fervescence
