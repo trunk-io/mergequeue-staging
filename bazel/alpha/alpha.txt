@@ -4298,7 +4298,6 @@ adobo
 adobos
 adod
 advisership
-adolesce
 aullay
 adolescence
 ambaries
@@ -15211,6 +15210,7 @@ antidynastic
 antidynastical
 antidinic
 ascenders
+adolesce
 antidiphtheric
 antidiphtherin
 antidiphtheritic
