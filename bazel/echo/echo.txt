@@ -12204,7 +12204,6 @@ excubitoria
 enteroscope
 excubitorium
 etyma
-excudate
 epiderm
 excuderunt
 excudit
@@ -14009,6 +14008,7 @@ extender
 extratubal
 enjoinders
 extrauterine
+excudate
 extravagance
 extravagances
 extravagancies

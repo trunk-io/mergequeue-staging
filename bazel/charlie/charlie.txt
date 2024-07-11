@@ -8897,7 +8897,6 @@ chapt
 chaptalization
 chaptalizing
 chapteral
-chaptered
 chaptering
 chapters
 chaptrel
@@ -10893,6 +10892,7 @@ chintses
 chintz
 chintze
 chintzy
+chaptered
 chintzier
 chintziest
 chintziness
