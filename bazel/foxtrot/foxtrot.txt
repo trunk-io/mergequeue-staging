@@ -5695,7 +5695,6 @@ fishberry
 faire
 fliting
 fishnet
-flyting
 flytings
 futharks
 fleuronee
@@ -10685,6 +10684,7 @@ facetiation
 forelaid
 frumpy
 frumpier
+flyting
 frumpiest
 foul
 funiculi
