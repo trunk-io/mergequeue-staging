@@ -5353,7 +5353,6 @@ bathmotropism
 behaviorist
 behaviorists
 behaviors
-behaviour
 behavioural
 behenic
 brabbler
@@ -16352,6 +16351,7 @@ brushing
 brushite
 brushless
 bimotors
+behaviour
 brushlike
 bises
 brushmaking
