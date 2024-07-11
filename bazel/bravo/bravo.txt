@@ -4450,7 +4450,6 @@ beclap
 beclart
 beclasp
 beclasped
-beclasps
 beclatter
 beclaw
 brassarts
@@ -13953,6 +13952,7 @@ brachet
 blankly
 bar
 barrows
+beclasps
 brachets
 brachial
 besotter
