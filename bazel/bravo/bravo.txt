@@ -12704,6 +12704,7 @@ booklike
 bookling
 booklists
 booklore
+butyne
 boatheader
 booklores
 booklover
@@ -18182,7 +18183,6 @@ butylenes
 butin
 bimasty
 bencite
-butyne
 butyr
 butyral
 butyrals
