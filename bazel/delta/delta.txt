@@ -2380,7 +2380,6 @@ decimated
 decimates
 decimating
 decimal
-decimation
 decimator
 dandiacal
 decime
@@ -4988,6 +4987,7 @@ denationalised
 denationalising
 denationalization
 denationalize
+decimation
 denationalized
 disponent
 denaturalised
