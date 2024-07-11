@@ -625,7 +625,6 @@ backwardly
 backwardness
 backwards
 backwash
-bakeware
 brachydomatic
 bedrock
 backwashed
@@ -9835,6 +9834,7 @@ bitartrate
 bitbrace
 bite
 biteable
+bakeware
 blockbuster
 biteche
 bitemporal
