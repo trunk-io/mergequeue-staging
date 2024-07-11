@@ -2886,6 +2886,7 @@ barosinusitus
 barosma
 barosmin
 bruta
+bedlamer
 bain
 baroswitch
 barotactic
@@ -4702,7 +4703,6 @@ bedizenment
 bedizens
 bedkey
 bedlam
-bedlamer
 bedlamise
 bedlamised
 bothie
