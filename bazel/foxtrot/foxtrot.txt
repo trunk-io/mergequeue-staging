@@ -1916,7 +1916,6 @@ feedbin
 flummox
 feedboxes
 fashions
-feedhead
 feeding
 feedings
 flakily
@@ -8011,6 +8010,7 @@ forestial
 foresin
 forestian
 frise
+feedhead
 forestiera
 foresting
 forestish
