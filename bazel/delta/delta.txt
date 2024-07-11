@@ -9235,6 +9235,7 @@ die
 dye
 dyeability
 dyeable
+dysaesthesia
 ditriglyph
 dieb
 dieback
@@ -10975,7 +10976,6 @@ disadvise
 disadvised
 duodecimal
 disadvising
-dysaesthesia
 dysaesthetic
 disaffect
 disaffectation
