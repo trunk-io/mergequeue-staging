@@ -2677,7 +2677,6 @@ canonicate
 canonici
 canonicity
 canonics
-canonisation
 canonise
 consumptiveness
 canonised
@@ -6045,6 +6044,7 @@ catostomoid
 catostomus
 catouse
 catpiece
+canonisation
 catrigged
 cats
 catskin
