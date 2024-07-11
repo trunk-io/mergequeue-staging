@@ -1931,7 +1931,6 @@ gatewards
 guariba
 gatewise
 gatewoman
-gatewright
 genethliac
 gather
 gatherable
@@ -7083,6 +7082,7 @@ goofiest
 gereagle
 goofily
 goofiness
+gatewright
 goofing
 goofs
 goog

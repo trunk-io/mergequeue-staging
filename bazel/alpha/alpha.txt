@@ -226,7 +226,6 @@ abbots
 abbotship
 abbotships
 asperated
-abbott
 abbr
 abbrev
 abbreviatable
@@ -22189,6 +22188,7 @@ astraeid
 astraeiform
 astragal
 astragalar
+abbott
 azotite
 albuminogenous
 astragalectomy
