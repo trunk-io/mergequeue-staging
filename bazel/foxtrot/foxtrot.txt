@@ -5727,6 +5727,7 @@ flitwite
 flivvers
 fornices
 flagstone
+forepast
 flyway
 flyways
 fissicostate
@@ -7513,7 +7514,6 @@ forbar
 foregame
 fordays
 forechoose
-forepast
 foretooth
 foreclaw
 fibrinolysis
