@@ -8095,7 +8095,6 @@ epiphytism
 epiphytology
 emptores
 epiphytotic
-epiphytous
 epiphloedal
 epiphloedic
 eudemon
@@ -13655,6 +13654,7 @@ egretta
 externalities
 externalize
 externalized
+epiphytous
 epiglottitis
 externalizes
 excursionary
