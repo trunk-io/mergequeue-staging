@@ -19774,7 +19774,6 @@ anacephalize
 aristo
 aristocracy
 aristocracies
-aristocrat
 anhydremia
 aristocratic
 alexandrianism
@@ -21821,6 +21820,7 @@ assister
 assisters
 assistful
 assistive
+aristocrat
 assistless
 antilogarithm
 assistor
