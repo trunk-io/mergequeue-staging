@@ -1918,7 +1918,6 @@ bandboxes
 breakers
 bandcase
 bandcutter
-believably
 bande
 britishers
 banded
@@ -4613,6 +4612,7 @@ bedeafened
 bowtell
 bedeafening
 bedeafens
+believably
 bedeck
 buddleia
 bedecked
