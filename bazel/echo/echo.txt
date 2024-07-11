@@ -6250,6 +6250,7 @@ enquire
 enquired
 enquiries
 enrace
+exacter
 enraged
 encourages
 esemplasy
@@ -11750,7 +11751,6 @@ exactable
 exacted
 electrification
 escorted
-exacter
 exacters
 exacting
 evangelising
