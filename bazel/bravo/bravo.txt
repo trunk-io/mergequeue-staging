@@ -3473,6 +3473,7 @@ barabra
 bastillion
 bankbooks
 biggah
+boras
 bastiment
 bastinaded
 bastinades
@@ -12927,7 +12928,6 @@ borana
 borane
 boranes
 borani
-boras
 borasca
 borasqueborate
 borate
