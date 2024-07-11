@@ -2235,6 +2235,7 @@ canary
 canarian
 canaries
 canarin
+clangored
 canarine
 cosmoid
 canariote
@@ -15472,7 +15473,6 @@ clangful
 clanging
 cattle
 clangor
-clangored
 clangoring
 clangorous
 clangorously
