@@ -4805,7 +4805,6 @@ cheth
 carrotweed
 carrotwood
 carrousel
-carrousels
 carrow
 carrozza
 carrs
@@ -11648,6 +11647,7 @@ cholelithotripsy
 cholelithotrity
 cholecystectomies
 cholemia
+carrousels
 cholent
 cholents
 choleokinase
