@@ -9988,7 +9988,6 @@ chemosphere
 contractors
 cambrel
 chemospheric
-chemostat
 chemosterilant
 chemosterilants
 chemosurgery
@@ -24413,6 +24412,7 @@ coonskin
 coonskins
 coontah
 coontail
+chemostat
 coontie
 coop
 cooped
