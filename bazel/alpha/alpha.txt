@@ -6989,7 +6989,6 @@ airfoils
 airframe
 airframes
 airfreight
-airfreighter
 airglow
 airglows
 acondylous
@@ -21369,6 +21368,7 @@ asparaginic
 asparaginous
 asparamic
 aspartame
+airfreighter
 aspartate
 annulata
 aspartyl
