@@ -2272,7 +2272,6 @@ electorates
 electors
 electragy
 electre
-electrepeter
 electress
 experiences
 electrets
@@ -2718,6 +2717,7 @@ elegise
 elegised
 elegises
 epigraph
+electrepeter
 enlinkment
 elegist
 elegists
