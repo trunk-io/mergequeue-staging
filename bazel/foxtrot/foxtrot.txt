@@ -1270,7 +1270,6 @@ fastening
 faster
 fondest
 fishhouse
-flumed
 fastgoing
 farnovian
 feudaries
@@ -4118,6 +4117,7 @@ fleshy
 firehall
 fanion
 firehouse
+flumed
 flaunch
 fluff
 firehouses
