@@ -7946,7 +7946,6 @@ cesta
 cestas
 ceste
 cestidae
-cestodaria
 chickweed
 cestode
 cestodes
@@ -21550,6 +21549,7 @@ choupic
 concrescive
 concrete
 concreted
+cestodaria
 concretely
 concreteness
 concreter
