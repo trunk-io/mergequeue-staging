@@ -8239,7 +8239,6 @@ chaired
 chairer
 chairing
 chairlady
-cometarium
 chairladies
 collectivum
 chairless
@@ -18682,6 +18681,7 @@ cajoles
 candlelighting
 cointerring
 cointersecting
+cometarium
 cointise
 cointreau
 coinventor
