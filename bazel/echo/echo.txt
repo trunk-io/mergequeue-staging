@@ -6354,7 +6354,6 @@ enscene
 ensconces
 ensconcing
 ethiopia
-enscrolled
 enscrolls
 ensculpture
 ense
@@ -9118,6 +9117,7 @@ electro
 erythrean
 erythremia
 erythrina
+enscrolled
 erythrinidae
 ebraick
 estampage

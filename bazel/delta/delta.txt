@@ -1032,6 +1032,7 @@ darks
 darkskin
 darksomeness
 denouement
+denotable
 darlingness
 darlings
 darlingtonia
@@ -5197,7 +5198,6 @@ denominationalist
 denominative
 denominators
 denormalized
-denotable
 denotate
 denotation
 denotational
