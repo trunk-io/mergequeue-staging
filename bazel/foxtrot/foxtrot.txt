@@ -5301,7 +5301,6 @@ flourishment
 ff
 forsay
 fledgling
-fledglings
 fleece
 fleeceflower
 fleeceless
@@ -10981,6 +10980,7 @@ flavones
 fluorate
 fuminess
 fumarase
+fledglings
 flagellar
 finally
 fumarases
