@@ -1257,7 +1257,6 @@ decemberish
 deuterotype
 dativogerundial
 datolite
-datolitic
 doless
 deadly
 datsun
@@ -9607,6 +9606,7 @@ discharger
 discriminatory
 digoxins
 digraph
+datolitic
 digraphic
 digraphs
 digredience
