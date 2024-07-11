@@ -10613,7 +10613,6 @@ chilitis
 chill
 chilla
 chillagite
-conter
 chiller
 chillers
 csects
@@ -21693,6 +21692,7 @@ condylarth
 condylarthra
 campaigns
 condyle
+conter
 condylectomy
 condyles
 condylion
