@@ -5252,6 +5252,7 @@ densimetry
 defilade
 disclaims
 densities
+diplopodic
 densitometer
 densitometers
 droplight
@@ -10664,7 +10665,6 @@ diplopod
 diplopoda
 discorrespondent
 decalcify
-diplopodic
 diplopodous
 diplopods
 dermochrome
