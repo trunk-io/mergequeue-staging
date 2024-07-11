@@ -7759,7 +7759,6 @@ bedless
 benelux
 biangulate
 bonair
-biangulated
 blaggard
 baldacchini
 biangulous
@@ -13522,6 +13521,7 @@ boardinghouse
 boules
 boulevard
 bewitchingly
+biangulated
 boulevardier
 blindstories
 boulevardize
