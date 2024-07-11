@@ -4619,7 +4619,6 @@ des
 demiracle
 demirelief
 dourahs
-demirep
 demirevetment
 dasiphora
 demirobe
@@ -18114,6 +18113,7 @@ diphthonging
 dumminess
 damageable
 disusage
+demirep
 donationes
 dummkopf
 defalcates
