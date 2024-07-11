@@ -3381,7 +3381,6 @@ deuterostomatous
 deflections
 deflective
 deflector
-deflectors
 devilbird
 deflects
 deflesh
@@ -4465,6 +4464,7 @@ demerse
 demersed
 demesgne
 demesman
+deflectors
 dialyse
 demesne
 demesnes
