@@ -4733,7 +4733,6 @@ carriageful
 carriageless
 comportable
 caline
-catallactic
 carriages
 carriagesmith
 carriageway
@@ -17219,6 +17218,7 @@ chicaneries
 coagulator
 coagulatory
 coagulators
+catallactic
 coagule
 coagulin
 coaguline

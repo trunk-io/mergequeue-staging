@@ -4720,7 +4720,6 @@ epinephrin
 encyclopaedial
 embosk
 eloge
-encyclopaedic
 encyclopaedical
 encyclopaedism
 encyclopaedist
@@ -5992,6 +5991,7 @@ enjoin
 expilate
 enjoinder
 enjoined
+encyclopaedic
 endiaper
 enjoiner
 enjoiners
