@@ -2352,6 +2352,7 @@ gekkonidae
 gasproof
 grolier
 gekkonoid
+glirine
 gallivanter
 gel
 gossans
@@ -7693,7 +7694,6 @@ graduality
 gradually
 gynarchies
 graduand
-glirine
 graduands
 graduated
 goloshes
