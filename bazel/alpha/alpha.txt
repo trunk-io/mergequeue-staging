@@ -2005,6 +2005,7 @@ acerbities
 acerbitude
 acerbly
 acerdol
+assayers
 aceric
 acerin
 acerli
@@ -21571,7 +21572,6 @@ assay
 assayable
 assayed
 assayer
-assayers
 assaying
 assail
 assailability
