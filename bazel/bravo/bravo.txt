@@ -2604,6 +2604,7 @@ bargellos
 bargeload
 bargepole
 booklice
+bricklaying
 barmkin
 barger
 barges
@@ -15143,7 +15144,6 @@ brickish
 brickkiln
 bricklayer
 bricklayers
-bricklaying
 brickleness
 brickly
 bricklike
