@@ -12250,7 +12250,6 @@ chrysid
 chrysidid
 chrysididae
 chrysin
-cavern
 cymbiform
 chrysippus
 chrysis
@@ -22999,6 +22998,7 @@ complicated
 consociationism
 consociative
 cage
+cavern
 consocies
 consol
 consolableness
