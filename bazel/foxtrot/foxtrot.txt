@@ -849,7 +849,6 @@ fanos
 fenlander
 findability
 fans
-fant
 fantaddish
 funori
 fenestrato
@@ -7197,6 +7196,7 @@ fennoman
 footsies
 floodway
 footslogged
+fant
 footslogger
 footslogging
 furnage
