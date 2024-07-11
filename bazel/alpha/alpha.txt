@@ -4619,6 +4619,7 @@ advantaging
 advect
 advecting
 advection
+aeger
 advectitious
 advective
 advects
@@ -24470,7 +24471,6 @@ autotrepanation
 autotriploid
 autotriploidy
 autotrophy
-aeger
 autotrophic
 autotrophically
 autotropic
