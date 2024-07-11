@@ -2521,7 +2521,6 @@ electromotograph
 electromotor
 electron
 electronarcosis
-ellipsometry
 elevener
 electronervous
 electroneutral
@@ -12450,6 +12449,7 @@ exfoliating
 exfoliation
 equijacent
 elpidite
+ellipsometry
 exfoliative
 egally
 endovenous
