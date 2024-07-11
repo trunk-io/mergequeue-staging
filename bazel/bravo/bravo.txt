@@ -3612,6 +3612,7 @@ bathythermograph
 bathkol
 bathless
 barbar
+buoyances
 bathman
 bathmats
 bathmic
@@ -14070,7 +14071,6 @@ brachystomous
 brachytic
 brachytypous
 brachytmema
-buoyances
 brachium
 brachyuranic
 brachyurous
