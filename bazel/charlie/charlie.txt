@@ -2764,7 +2764,6 @@ cantare
 care
 cantaro
 chunks
-cantata
 cantatas
 cantate
 cantation
@@ -18508,6 +18507,7 @@ cohibition
 cohibitive
 cohibitor
 calculative
+cantata
 chemiotaxis
 cohitre
 coho
