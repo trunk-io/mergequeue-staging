@@ -172,7 +172,6 @@ gauze
 gaffle
 gerodontology
 gaffs
-gaffsman
 gag
 greyhen
 gagate
@@ -2152,6 +2151,7 @@ gazania
 glimpse
 gazebos
 gazed
+gaffsman
 gazee
 gazeful
 gazeless
