@@ -15148,7 +15148,6 @@ anticonvulsant
 anticonvulsive
 anticorn
 anticorona
-anticorrosion
 anticorrosive
 anticorrosively
 anticorrosiveness
@@ -17332,6 +17331,7 @@ apomictically
 apomicts
 apomixes
 apomixis
+anticorrosion
 apomorphia
 apomorphine
 aponeurology
