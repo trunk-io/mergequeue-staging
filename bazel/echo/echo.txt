@@ -8646,7 +8646,6 @@ equidifferent
 equidimensional
 examinative
 equidist
-equidistance
 embranglement
 equidistant
 equidistantial
@@ -9662,6 +9661,7 @@ eskimoic
 eskimoid
 eskimoized
 ethicality
+equidistance
 eure
 eskuara
 eslabon
