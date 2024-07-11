@@ -2556,7 +2556,6 @@ gemots
 gems
 gained
 gemsboks
-gastrohelcosis
 gemsbucks
 gheg
 gemse
@@ -7068,6 +7067,7 @@ goofah
 goofball
 goofballs
 gummas
+gastrohelcosis
 goofed
 goofer
 galaxias
