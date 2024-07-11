@@ -6673,6 +6673,7 @@ bergy
 berginize
 bergman
 bergmannite
+benzoid
 bergomask
 bergs
 bergschrund
@@ -17111,7 +17112,6 @@ basil
 beggar
 bullheaded
 balanophoraceae
-benzoid
 bullheadedly
 bullheads
 bullhide
