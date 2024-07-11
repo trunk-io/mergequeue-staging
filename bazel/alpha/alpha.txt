@@ -13828,7 +13828,6 @@ anodynia
 anodynic
 anodized
 aseismatic
-annat
 aristogenesis
 anodizes
 anodizing
@@ -19944,6 +19943,7 @@ armer
 armeria
 armeriaceae
 armers
+annat
 armet
 armfuls
 armgaunt
