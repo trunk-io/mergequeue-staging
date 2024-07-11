@@ -6498,7 +6498,6 @@ bepastured
 bepat
 bromometric
 bepatched
-bepaw
 bepearl
 breakwater
 bepen
@@ -13830,6 +13829,7 @@ blitheful
 bowralite
 blightbird
 blueblood
+bepaw
 bowse
 bowsed
 bowser
