@@ -8750,7 +8750,6 @@ agamobia
 allelism
 allelocatalytic
 allelomorphism
-allelotropic
 aggrege
 allelotropism
 alleluia
@@ -21208,6 +21207,7 @@ ashstone
 asquint
 asteroidean
 ashthroat
+allelotropic
 ashtrays
 ananism
 anticatholic
