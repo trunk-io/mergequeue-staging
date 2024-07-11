@@ -2102,7 +2102,6 @@ decarburise
 dialyzation
 decarburised
 decarburize
-decarburized
 decarburizing
 decarchy
 decarnate
@@ -10545,6 +10544,7 @@ dipladenia
 diplanar
 diplanetism
 diplantidian
+decarburized
 diplarthrism
 diplarthrous
 diplasion
