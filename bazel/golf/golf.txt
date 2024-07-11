@@ -9623,7 +9623,6 @@ grudgery
 grudges
 gulas
 gardened
-grudging
 grudgingness
 gadis
 grue
@@ -10493,6 +10492,7 @@ gundygut
 gundog
 gunebo
 gunfighting
+grudging
 gunfire
 gunfires
 gunflint
