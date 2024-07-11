@@ -4513,7 +4513,6 @@ becrippled
 becrippling
 becroak
 becrowd
-becrowded
 becrowding
 becrowds
 becrust
@@ -17415,6 +17414,7 @@ bunya
 bunyas
 bunyip
 bunion
+becrowded
 bunions
 bunyoro
 bunjara

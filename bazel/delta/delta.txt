@@ -1168,7 +1168,6 @@ downtreading
 droopy
 dasypygal
 dasypod
-dasypodidae
 dasypodoid
 dasyproctidae
 dasystephana
@@ -17621,6 +17620,7 @@ drunkard
 desaturate
 drunkards
 drunkelew
+dasypodidae
 drunken
 drunkeness
 dispeople
