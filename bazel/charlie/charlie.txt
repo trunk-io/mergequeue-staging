@@ -15251,6 +15251,7 @@ clacket
 crispbread
 clackety
 clacks
+cosubject
 clactonian
 clad
 cladanthous
@@ -26322,7 +26323,6 @@ costumiers
 costuming
 costumist
 cassican
-cosubject
 cosubordinate
 coconqueror
 cosuffer
