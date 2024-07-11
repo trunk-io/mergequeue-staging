@@ -560,7 +560,6 @@ echidnas
 eggcrate
 entopic
 evocate
-echimys
 emergent
 echinacea
 echinate
@@ -2272,6 +2271,7 @@ elector
 exotic
 electorate
 electorates
+echimys
 electors
 electragy
 electre
