@@ -626,6 +626,7 @@ backwards
 backwash
 bakeware
 brachydomatic
+bedrock
 backwashed
 backwashes
 backwashing
@@ -4776,7 +4777,6 @@ bedrip
 buddy
 bedrivels
 bedrizzle
-bedrock
 bedrocks
 bedrolls
 blanched
