@@ -6004,7 +6004,6 @@ generall
 glottal
 gynecomania
 glottalization
-gablock
 glottalize
 grumphie
 gymnurinae
@@ -8607,6 +8606,7 @@ greatmouthed
 grapeshot
 gaylussite
 greats
+gablock
 groundway
 grebes
 guisards

@@ -10642,7 +10642,6 @@ fruitless
 fribbled
 fishmeals
 fossorial
-fruitlessly
 fruitlessness
 fruitlet
 fruitlets
@@ -11285,6 +11284,7 @@ furacity
 fluxile
 freedmen
 fhrer
+fruitlessly
 formfeeds
 fumigates
 fumigant
