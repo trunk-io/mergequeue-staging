@@ -10810,7 +10810,6 @@ blesse
 bedward
 boul
 blessed
-bearhug
 blesseder
 blessedest
 blessedly
@@ -14818,6 +14817,7 @@ breakfasters
 breakfastless
 breakfront
 breakfronts
+bearhug
 breaking
 breakings
 breaklist
