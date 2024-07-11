@@ -4525,7 +4525,6 @@ becrust
 bayou
 blatherskite
 blackfishes
-becrusted
 blessers
 becudgel
 becudgeled
@@ -8915,6 +8914,7 @@ biocentric
 bryophyte
 biochemic
 biochemically
+becrusted
 biochemics
 biochemist
 biochemistry
