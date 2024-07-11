@@ -5508,6 +5508,7 @@ depopulator
 disulfids
 deoxidise
 djellab
+diffide
 deoxidised
 duotriacontane
 deoxidiser
@@ -9397,7 +9398,6 @@ difficulty
 difficulties
 difficultly
 difficultness
-diffide
 diffided
 diffidence
 diffidentness
