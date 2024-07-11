@@ -9295,7 +9295,6 @@ alocasia
 alochia
 alody
 alodial
-alodialist
 alodiality
 alodially
 alodialty
@@ -23021,6 +23020,7 @@ amphithere
 attempted
 attempter
 anisophylly
+alodialist
 attempters
 attemptive
 attemptless
