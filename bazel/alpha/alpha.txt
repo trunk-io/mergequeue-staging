@@ -16753,7 +16753,6 @@ apatites
 awanyu
 apatornis
 anabrosis
-apatosaurus
 apaturia
 ape
 apectomy
@@ -25294,6 +25293,7 @@ azons
 anemology
 azoology
 azoospermia
+apatosaurus
 apigenin
 azoparaffin
 azophenetole
