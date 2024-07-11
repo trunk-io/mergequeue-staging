@@ -1786,7 +1786,6 @@ featliest
 flocculency
 featliness
 felucca
-fouldre
 feature
 featured
 ficoid
@@ -4710,6 +4709,7 @@ flaggella
 fumiferana
 flaggery
 flap
+fouldre
 flaggers
 flaggy
 folacins
