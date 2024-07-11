@@ -2948,7 +2948,6 @@ dartsman
 deductio
 dubb
 deduction
-deductions
 deductively
 deduit
 deduplication
@@ -7208,6 +7207,7 @@ detector
 doxa
 detectors
 detects
+deductions
 detenant
 detenebrate
 detent

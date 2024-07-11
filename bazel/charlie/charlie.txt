@@ -2108,7 +2108,6 @@ campman
 campmaster
 campo
 cognitives
-campodea
 campodean
 campodeid
 campodeidae
@@ -11259,6 +11258,7 @@ chloragogen
 chloragogue
 chloral
 chloralformamide
+campodea
 chloralism
 chloralization
 chukars
