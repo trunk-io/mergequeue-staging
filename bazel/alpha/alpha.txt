@@ -6573,7 +6573,6 @@ agricolist
 agricolous
 agriculturalist
 alaudine
-agriculturalists
 agriculture
 agriculturer
 agricultures
@@ -11483,6 +11482,7 @@ avenue
 amt
 amtman
 amtrac
+agriculturalists
 amtrack
 awkwardness
 amtracs
