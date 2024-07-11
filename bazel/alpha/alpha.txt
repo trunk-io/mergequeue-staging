@@ -2234,7 +2234,6 @@ achaemenidae
 achaemenidian
 achaenocarp
 achaeta
-achaetous
 achafe
 achage
 achakzai
@@ -23604,6 +23603,7 @@ aurification
 aurified
 aurifying
 auriflamme
+achaetous
 auriform
 advisy
 auriga
