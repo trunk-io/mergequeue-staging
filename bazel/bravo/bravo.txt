@@ -8753,7 +8753,6 @@ bimmeler
 bimodal
 breadboards
 bilicyanin
-blippers
 bimodality
 bimodule
 bimodulus
@@ -15337,6 +15336,7 @@ brilliolette
 brillolette
 brills
 brim
+blippers
 brimborion
 binous
 brimful
