@@ -5108,6 +5108,7 @@ dissonate
 deny
 dragonize
 disboscation
+downtime
 deniable
 deniably
 denial
@@ -16398,7 +16399,6 @@ downtake
 defensorship
 downthrow
 downthrust
-downtime
 downtimes
 downtowner
 downtowns
