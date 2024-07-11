@@ -6037,7 +6037,6 @@ fimbriate
 florizine
 floroon
 floroscope
-fadeout
 fissility
 fertilisability
 floroun
@@ -8040,6 +8039,7 @@ fumacious
 foret
 faipule
 foretack
+fadeout
 fumette
 foretalk
 foretalking
