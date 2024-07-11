@@ -4865,6 +4865,7 @@ floorers
 flammant
 flouncey
 flammation
+foresee
 flammed
 flammeous
 flamming
@@ -9955,7 +9956,6 @@ fridges
 fried
 friedcake
 friedelite
-foresee
 fstore
 fencings
 friedrichsdor
