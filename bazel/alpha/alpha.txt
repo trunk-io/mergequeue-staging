@@ -13391,7 +13391,6 @@ anisidino
 antrum
 anisil
 anisyl
-anisylidene
 adigranth
 aerographer
 anisobranchiate
@@ -24160,6 +24159,7 @@ autolaryngoscope
 athar
 autolaryngoscopy
 autolaryngoscopic
+anisylidene
 autolatry
 atwin
 autolavage
