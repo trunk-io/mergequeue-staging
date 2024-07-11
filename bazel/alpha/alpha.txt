@@ -11289,7 +11289,6 @@ amphirhinal
 amphirhine
 amphisarca
 amphisbaenae
-actinoneuritis
 amphisbaenas
 ascribable
 amphisbaenian
@@ -14297,6 +14296,7 @@ antennae
 antennal
 antennary
 antennaria
+actinoneuritis
 antennariid
 antennarius
 auletai
