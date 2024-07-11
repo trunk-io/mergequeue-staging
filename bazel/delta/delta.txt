@@ -3551,7 +3551,6 @@ degassed
 degassers
 degasses
 degassing
-degaussing
 dollardom
 degelatinize
 degender
@@ -4176,6 +4175,7 @@ deliration
 dependence
 delire
 deliria
+degaussing
 deliriant
 delirifacient
 delirious

@@ -3345,6 +3345,7 @@ embalmer
 embalmment
 embank
 embanked
+effector
 eozoon
 embanking
 embankment
@@ -5001,7 +5002,6 @@ ensilist
 enddamage
 enddamaging
 endear
-effector
 emblazonments
 endearance
 endearedly
