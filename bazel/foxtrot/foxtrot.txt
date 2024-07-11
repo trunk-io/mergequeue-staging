@@ -4342,6 +4342,7 @@ fishlet
 fishlike
 fishline
 fishlines
+fluxionally
 feverless
 fragment
 freebootery
@@ -6601,7 +6602,6 @@ fluxibleness
 fowls
 fiddlerfish
 fluxing
-fluxionally
 forletting
 fluxionary
 fluxionist
