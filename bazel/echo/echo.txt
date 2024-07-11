@@ -2289,7 +2289,6 @@ electrics
 electriferous
 editorialist
 electrifiable
-electrification
 electrified
 esthetophore
 electrifiers
@@ -11747,6 +11746,7 @@ electrolytes
 exacta
 exactable
 exacted
+electrification
 escorted
 exacter
 exacters
