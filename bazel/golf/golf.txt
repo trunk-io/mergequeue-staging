@@ -4995,6 +4995,7 @@ gelatinousness
 glabellous
 gymnosporangium
 glabellum
+grassiness
 gld
 gemmaceous
 glabrate
@@ -8327,7 +8328,6 @@ grassy
 gateau
 grassie
 grassiest
-grassiness
 gobos
 glossoscopy
 grassland
