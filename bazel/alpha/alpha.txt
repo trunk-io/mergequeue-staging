@@ -11855,7 +11855,6 @@ antinational
 analytics
 analytique
 analyzability
-analyzable
 analyzation
 analyze
 analyzed
@@ -25221,6 +25220,7 @@ atterr
 azygospore
 azygote
 azygous
+analyzable
 azilian
 azilut
 autoactive
