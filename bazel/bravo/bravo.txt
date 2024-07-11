@@ -806,7 +806,6 @@ badgerer
 badgering
 baccarats
 blundersome
-badgerlike
 badgers
 badging
 badgir
@@ -10238,6 +10237,7 @@ bladderless
 birdmouthed
 bottleflower
 bastardization
+badgerlike
 bladdernut
 brawest
 bladderpod
