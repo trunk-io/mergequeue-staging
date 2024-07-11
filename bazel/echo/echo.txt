@@ -579,6 +579,7 @@ echiniform
 echinite
 echinocactus
 echinocereus
+ependymoma
 echinochrome
 echinococcosis
 echinococcus
@@ -7441,7 +7442,6 @@ equiglacial
 ependyme
 encamping
 ependymitis
-ependymoma
 epenetic
 epenthesis
 engore
