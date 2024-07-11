@@ -4750,7 +4750,6 @@ enciphers
 encircle
 endorsing
 encircled
-encirclements
 encircler
 ecize
 encircles
@@ -6074,6 +6073,7 @@ enlive
 environmental
 enliven
 enlivened
+encirclements
 enlivener
 elisor
 entrept
