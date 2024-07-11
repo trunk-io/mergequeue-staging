@@ -1350,6 +1350,7 @@ fathered
 fatherkin
 fatherland
 frogged
+formose
 folkmoot
 fluoroscopically
 fender
@@ -8464,7 +8465,6 @@ formolit
 formols
 formonitrile
 formosan
-formose
 formous
 femorofibular
 formoxime
