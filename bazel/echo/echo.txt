@@ -6754,7 +6754,6 @@ exantlate
 enthalpy
 electrothanatosis
 electroacoustics
-elotillo
 epilogate
 efficaciousness
 enthalpies
@@ -14026,6 +14025,7 @@ exostotic
 extravasating
 elasmosaur
 extravasation
+elotillo
 extravehicular
 extravenate
 extraventricular

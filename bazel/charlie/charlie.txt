@@ -1577,7 +1577,6 @@ calorie
 connotate
 calories
 calorifacient
-calorify
 calorific
 correspondents
 calorifical
@@ -25948,6 +25947,7 @@ cortine
 cortins
 cortisol
 cortisols
+calorify
 corved
 cortisone
 cortlandtite
