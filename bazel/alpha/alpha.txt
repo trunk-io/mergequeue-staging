@@ -6327,7 +6327,6 @@ acacine
 aglycon
 aglycone
 abusable
-adjectitious
 aglycones
 aglycons
 anankastic
@@ -11897,6 +11896,7 @@ analogously
 analogousness
 analogs
 analogue
+adjectitious
 analogues
 analphabete
 analphabetic

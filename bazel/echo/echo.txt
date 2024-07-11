@@ -320,6 +320,7 @@ eatables
 eatberry
 eatche
 eaten
+eparterial
 eater
 etherializing
 eatery
@@ -7395,7 +7396,6 @@ eparchy
 eparchial
 eparchies
 eparchs
-eparterial
 ericius
 engrail
 epaule
