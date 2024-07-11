@@ -2156,7 +2156,6 @@ camuses
 camwood
 can
 canaan
-canaanite
 cycadlike
 chub
 canaanites
@@ -8631,6 +8630,7 @@ chaffier
 chancelor
 chancelry
 chancels
+canaanite
 chanceman
 chancemen
 chancer
