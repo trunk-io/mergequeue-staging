@@ -1232,7 +1232,6 @@ datedly
 datedness
 dateless
 datelessness
-dateline
 datelined
 datelines
 duckboat
@@ -12376,6 +12375,7 @@ dishful
 dishy
 dustoori
 debones
+dateline
 dishiest
 dishing
 dulcianas
