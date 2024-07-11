@@ -2566,7 +2566,6 @@ electrophorese
 electrophoresing
 electrophoretically
 electrophoretogram
-eave
 ervil
 extund
 electrophoric
@@ -8349,6 +8348,7 @@ epithalamus
 enquirer
 epithalline
 epithamia
+eave
 epitheca
 everybody
 epithecal
