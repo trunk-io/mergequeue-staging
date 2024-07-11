@@ -5965,7 +5965,6 @@ catholicized
 catholicizer
 concurringly
 catholicizing
-catholicly
 catholicness
 catholicoi
 catholicos
@@ -13180,6 +13179,7 @@ cibaria
 combinative
 cibarian
 cibaries
+catholicly
 cibarium
 cibation
 cibbaria
