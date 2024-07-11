@@ -4441,7 +4441,6 @@ excels
 enantiomorph
 enantiomorphy
 enantiomorphism
-encopresis
 enantiomorphously
 enantiopathy
 episodial
@@ -8392,6 +8391,7 @@ erethism
 epithesis
 epithet
 epithetic
+encopresis
 epithetical
 enterers
 etherifying
