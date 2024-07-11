@@ -5369,6 +5369,7 @@ emended
 endosteitis
 endosteomas
 endosteum
+endopolyploidy
 emarginula
 ewing
 endostyle
@@ -8593,7 +8594,6 @@ equations
 essentia
 expunge
 equative
-endopolyploidy
 equator
 etherial
 equatoreal
