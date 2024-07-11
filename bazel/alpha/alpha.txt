@@ -6556,7 +6556,6 @@ agrest
 agrestal
 agrestial
 agrestian
-agrestic
 agrestical
 agrestis
 agria
@@ -15066,6 +15065,7 @@ anticlea
 anticlergy
 anticlerical
 anticlericalism
+agrestic
 anticly
 anticlimactic
 anticlimactically
