@@ -3352,7 +3352,6 @@ gloucester
 geranin
 graftage
 geraniol
-geranium
 geranomorphae
 goulan
 geranomorphic
@@ -8318,6 +8317,7 @@ grumblers
 grasshopper
 grasshopperdom
 gry
+geranium
 gerundive
 grasshopperish
 gauntlet
