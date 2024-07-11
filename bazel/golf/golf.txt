@@ -6571,7 +6571,6 @@ gogglebox
 goggled
 goggler
 gogglers
-gogglier
 goggling
 goglet
 goglets
@@ -10562,6 +10561,7 @@ gilly
 gunship
 gunships
 gunshop
+gogglier
 gunslingers
 gunslinging
 gunsman
