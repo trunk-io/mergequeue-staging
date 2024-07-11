@@ -18366,7 +18366,6 @@ cavidae
 cogitation
 cogitations
 cogitative
-cogitativity
 cogitator
 cogitators
 celiitis
@@ -20699,6 +20698,7 @@ complaints
 complaisance
 complaisant
 congregationally
+cogitativity
 complaisantly
 complaisantness
 complanate
