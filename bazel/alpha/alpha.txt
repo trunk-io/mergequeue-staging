@@ -3847,6 +3847,7 @@ adfluxion
 adfreeze
 adfreezing
 antiangular
+anguille
 apozema
 adfroze
 adfrozen
@@ -20349,7 +20350,6 @@ arrowing
 arrowleaf
 arrowless
 arrowlet
-anguille
 arrowlike
 arrowplate
 automolite
