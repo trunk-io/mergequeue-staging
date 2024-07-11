@@ -18262,6 +18262,7 @@ aqueoglacial
 aqueoigneous
 aqueomercurial
 aqueous
+attemptable
 aqueously
 aqueousness
 antiprotease
@@ -23013,7 +23014,6 @@ attempered
 attempering
 attempers
 attempt
-attemptable
 amphithere
 attempted
 attempter
