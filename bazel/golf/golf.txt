@@ -291,7 +291,6 @@ gaysome
 gaist
 gangliar
 gait
-gaiter
 gluttonous
 gurgle
 gloom
@@ -3355,6 +3354,7 @@ geranomorphic
 gerara
 gormandizer
 glutinative
+gaiter
 geometrine
 gerardia
 goodman
