@@ -1555,7 +1555,6 @@ ballasting
 ballasts
 ballat
 ballata
-ballate
 ballaton
 batikulin
 ballatoon
@@ -12673,6 +12672,7 @@ bookful
 bookholder
 bookie
 bookies
+ballate
 bejel
 bladderweed
 begonia
