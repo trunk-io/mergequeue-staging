@@ -7868,7 +7868,6 @@ evolutility
 enfeoffing
 epiglottic
 easting
-eos
 epiglottidean
 egging
 economite
@@ -11839,6 +11838,7 @@ embliss
 enteron
 echinoderes
 euglena
+eos
 entocone
 edulcorate
 examples

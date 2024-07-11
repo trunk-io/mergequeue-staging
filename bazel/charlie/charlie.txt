@@ -12754,7 +12754,6 @@ chronotropic
 chroococcaceae
 chroococcales
 chroococcoid
-chroococcus
 chrosperma
 chrotta
 chteau
@@ -23142,6 +23141,7 @@ constatation
 constate
 constatory
 constellating
+chroococcus
 constellations
 conster
 countercultural
