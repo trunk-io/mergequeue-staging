@@ -7369,7 +7369,6 @@ gossipee
 guested
 gossiper
 gossipers
-gossiphood
 geodic
 gentianal
 gaudeamuses
@@ -10313,6 +10312,7 @@ gularis
 gnathonic
 grulla
 girshes
+gossiphood
 guld
 genericalness
 gule
