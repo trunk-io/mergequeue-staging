@@ -5123,7 +5123,6 @@ floatstone
 flaunched
 flaunt
 flaunted
-foggage
 flaunter
 flaunters
 flappier
@@ -5912,6 +5911,7 @@ furniment
 functionaries
 floorwise
 floosy
+foggage
 foreconsent
 floosies
 floozie
