@@ -4717,6 +4717,7 @@ demobilize
 demobilized
 demobilizes
 democracies
+domiciliate
 democrat
 democratian
 democratic
@@ -15351,7 +15352,6 @@ domicilement
 domiciles
 domiciliar
 domiciliary
-domiciliate
 diesinker
 domiciliating
 domiciliation
