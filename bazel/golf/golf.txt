@@ -6312,7 +6312,6 @@ gnathopodous
 gnathostegite
 gymnoconia
 grubberies
-gnathostomata
 gnathostome
 gnathites
 geckoid
@@ -8842,6 +8841,7 @@ giraffes
 gremial
 gremiale
 gremials
+gnathostomata
 gremlin
 gremlins
 gremmy

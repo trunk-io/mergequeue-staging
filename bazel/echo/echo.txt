@@ -10459,6 +10459,7 @@ ethnarchs
 ensignment
 ethnic
 esthesias
+exponentiated
 ethnical
 ethnically
 exogamy
@@ -13280,7 +13281,6 @@ exponence
 exponential
 exponentially
 exponentials
-exponentiated
 esparsette
 ectocyst
 exponentiates
