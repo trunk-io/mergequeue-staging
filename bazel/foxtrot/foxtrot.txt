@@ -4486,6 +4486,7 @@ fitness
 fural
 fortiori
 feme
+furls
 favourite
 fitroot
 fits
@@ -11413,7 +11414,6 @@ fluoroscope
 fandangle
 furloughed
 furloughing
-furls
 furmenties
 furmint
 freeboard
