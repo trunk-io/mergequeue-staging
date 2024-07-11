@@ -2834,6 +2834,7 @@ boroughship
 bulldog
 barometers
 barometry
+bromes
 barometric
 barometrical
 barometrically
@@ -15791,7 +15792,6 @@ bonus
 befrogged
 benefactor
 brasque
-bromes
 bromethyl
 batcher
 bromhydrate
