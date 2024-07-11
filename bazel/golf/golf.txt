@@ -1485,6 +1485,7 @@ gesticulacious
 getfd
 garnison
 garniture
+gazzetta
 garon
 garoo
 garoter
@@ -2191,7 +2192,6 @@ graunt
 germiparity
 gazump
 griskins
-gazzetta
 gconv
 gd
 gangrened
