@@ -166,6 +166,7 @@ elds
 ethologic
 earthfall
 earthgall
+expressions
 earthgrubber
 earthy
 earthian
@@ -13364,7 +13365,6 @@ expressionists
 expressionlessly
 expressionlessness
 ergasia
-expressions
 erstwhile
 escribing
 expressive
