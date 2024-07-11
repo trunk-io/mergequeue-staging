@@ -4653,7 +4653,6 @@ adventures
 adventuresome
 adventuresomeness
 averrer
-adventuresomes
 adventuress
 adventuresses
 adventuring
@@ -9352,6 +9351,7 @@ alongst
 alonso
 accidental
 abduct
+adventuresomes
 aloofly
 aloose
 alop
