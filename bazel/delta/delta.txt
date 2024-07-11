@@ -8364,7 +8364,6 @@ diapirs
 discapacitate
 dialyzator
 dialyzed
-dialyzer
 dialyzes
 duped
 declaiming
@@ -15426,6 +15425,7 @@ dominos
 dominus
 domitable
 dirtfarmer
+dialyzer
 dryopteris
 domitic
 dryhouse
