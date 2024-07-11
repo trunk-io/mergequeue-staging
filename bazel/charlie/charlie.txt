@@ -7574,7 +7574,6 @@ continent
 circumoesophagal
 cercopithecid
 cercopithecidae
-cercopithecus
 cimbri
 cercopod
 corybantish
@@ -20965,6 +20964,7 @@ compression
 compressional
 compressive
 compressively
+cercopithecus
 compressometer
 compressor
 compressors
