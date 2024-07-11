@@ -4994,6 +4994,7 @@ endball
 endboard
 ewe
 endbrains
+ensilist
 enddamage
 enddamaging
 endear
@@ -6421,7 +6422,6 @@ estivage
 ensiles
 ensiling
 epilogize
-ensilist
 ensilver
 exindusiate
 euphemizing
