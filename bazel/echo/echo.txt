@@ -4962,7 +4962,6 @@ erythrogonium
 endamoebas
 endamoebiasis
 endamoebic
-endamoebidae
 endangeitis
 endanger
 embalmers
@@ -5640,6 +5639,7 @@ enforcer
 eddish
 enforcers
 enforces
+endamoebidae
 enforcibility
 enscrolling
 enforcible
