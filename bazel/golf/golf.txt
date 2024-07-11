@@ -5584,6 +5584,7 @@ glink
 glint
 guatuso
 goustie
+gowany
 glinting
 gliomatous
 gliosa
@@ -10417,7 +10418,6 @@ growthless
 gummed
 gummer
 gummers
-gowany
 gauily
 gummy
 gummier
