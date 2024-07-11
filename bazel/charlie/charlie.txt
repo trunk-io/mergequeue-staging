@@ -18184,6 +18184,7 @@ coercibility
 coercible
 ciceros
 cynips
+convocate
 coercibleness
 coercibly
 coercion
@@ -24221,7 +24222,6 @@ comrade
 convivially
 convivio
 convocant
-convocate
 convocated
 convocating
 cornopean
