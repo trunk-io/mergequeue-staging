@@ -12992,7 +12992,6 @@ bordroom
 bordun
 blackeye
 bordure
-bordured
 bordures
 bore
 boreable
@@ -16431,6 +16430,7 @@ bruxism
 bruzz
 bs
 bsf
+bordured
 bsh
 bskt
 btise
