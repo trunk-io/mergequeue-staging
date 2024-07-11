@@ -1536,6 +1536,7 @@ engineership
 eucharistize
 egbo
 ergophile
+extrusible
 egence
 entasia
 eger
@@ -14111,7 +14112,6 @@ extruders
 ensouls
 encephalolith
 extrudes
-extrusible
 edaphodont
 extrusile
 extrusion
