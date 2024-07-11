@@ -2652,7 +2652,6 @@ fessing
 fessways
 festae
 festal
-feste
 fester
 fourdrinier
 forestress
@@ -8831,6 +8830,7 @@ fossulae
 fossulate
 fossule
 flowchart
+feste
 ferrocerium
 forgette
 fedn
