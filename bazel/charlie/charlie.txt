@@ -6929,7 +6929,6 @@ castock
 cenchrus
 cendre
 cene
-conductibility
 cenesthesia
 cenesthesis
 cenesthetic
@@ -16830,6 +16829,7 @@ cloudful
 cloudy
 cloudier
 cloudiest
+conductibility
 cloudily
 chauffeur
 cloudiness
