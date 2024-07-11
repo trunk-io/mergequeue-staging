@@ -13750,7 +13750,6 @@ disanagrammatize
 dissonantly
 dissoul
 dissour
-desultor
 dysspermatism
 disspread
 disspreading
@@ -15480,6 +15479,7 @@ donee
 deceiver
 disporum
 donees
+desultor
 doney
 doneness
 delint
