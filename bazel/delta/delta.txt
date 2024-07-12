@@ -8242,6 +8242,7 @@ diagonalization
 disinteresting
 diagnosing
 dispoint
+draghound
 diagonally
 diagonals
 diagonalwise
@@ -16611,7 +16612,6 @@ draggletail
 destructibility
 draggletailedly
 draggling
-draghound
 draglines
 dispirit
 drago
