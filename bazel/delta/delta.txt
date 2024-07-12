@@ -6676,7 +6676,6 @@ designates
 drouks
 designating
 designation
-designative
 designator
 desoxyephedrine
 designatory
@@ -11166,6 +11165,7 @@ disattaint
 disattire
 disattune
 disauthenticate
+designative
 disauthorize
 dysautonomia
 do
