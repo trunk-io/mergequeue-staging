@@ -14004,7 +14004,6 @@ anoscopy
 attracter
 anosia
 anosmatic
-anosmia
 anosmias
 anosmic
 anosognosia
@@ -18336,6 +18335,7 @@ arabian
 arabianize
 apophis
 arabians
+anosmia
 arabic
 azodisulphonic
 arabica

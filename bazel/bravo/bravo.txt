@@ -1671,7 +1671,6 @@ ballottable
 ballottine
 ballpark
 ballparks
-butane
 ballplayer
 ballplayers
 ballplatz
@@ -16948,6 +16947,7 @@ bedead
 bulbomedullary
 blinker
 bulbonuclear
+butane
 bulbophyllum
 bulborectal
 belonesite
