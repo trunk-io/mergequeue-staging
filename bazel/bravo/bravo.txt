@@ -10137,7 +10137,6 @@ blackflies
 bibliothecarian
 bibasic
 blackfriars
-blackguard
 blackguardism
 baya
 blackguardize
@@ -10994,6 +10993,7 @@ blockaders
 blockboard
 blebs
 brey
+blackguard
 blockbusters
 blockbusting
 blocked
