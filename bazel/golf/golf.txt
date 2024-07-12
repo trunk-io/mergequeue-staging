@@ -2420,7 +2420,6 @@ genua
 galvanothermy
 globin
 gelders
-geldesprung
 gaseosity
 gelding
 geldings
@@ -4251,6 +4250,7 @@ glyconics
 gimbals
 galahads
 groining
+geldesprung
 gangue
 gimberjawed
 garnishments

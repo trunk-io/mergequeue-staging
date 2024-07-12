@@ -1521,7 +1521,6 @@ deadfalls
 deadhead
 deadheading
 deadheadism
-deadheads
 debrominate
 deadhearted
 deadheartedly
@@ -14818,6 +14817,7 @@ decussate
 documentable
 damas
 documental
+deadheads
 documentalist
 delimer
 decadenza
