@@ -1281,7 +1281,6 @@ fourths
 flanned
 fastidium
 fastigia
-fideicommissum
 fadable
 fraunch
 forestology
@@ -10316,6 +10315,7 @@ frogwort
 fooldom
 fipples
 froisse
+fideicommissum
 frokin
 fletch
 flicks
