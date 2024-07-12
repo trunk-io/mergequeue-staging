@@ -3521,7 +3521,6 @@ apogon
 adati
 arborical
 adaty
-adatis
 adatom
 adaunt
 adawe
@@ -22400,6 +22399,7 @@ aswirl
 aswithe
 aswough
 at
+adatis
 ata
 atabal
 atabals
