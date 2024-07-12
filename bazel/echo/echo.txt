@@ -3553,6 +3553,7 @@ embolum
 embolus
 emborder
 embordered
+exhumatory
 endict
 embosked
 elephantoidal
@@ -12528,7 +12529,6 @@ exhorts
 exhumations
 ethnogeographer
 exhumator
-exhumatory
 epimerise
 exhumed
 epithelilia
