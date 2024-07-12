@@ -1953,6 +1953,7 @@ acerb
 acenaphthene
 acenaphthenyl
 areopagus
+actinide
 anomorhomboid
 acenesthesia
 acensuada
@@ -8954,7 +8955,6 @@ allograph
 allographic
 alloy
 alloyage
-actinide
 alloyed
 alloimmune
 alloiogenesis
