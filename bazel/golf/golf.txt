@@ -5082,7 +5082,6 @@ gladiatory
 gelatinize
 gladiators
 ginhound
-gladiatorship
 gladier
 graywether
 gazel
@@ -6215,6 +6214,7 @@ graecize
 gluside
 geometricize
 guttulae
+gladiatorship
 glutamate
 glutamates
 glutamic
