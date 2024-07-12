@@ -9297,6 +9297,7 @@ chasubles
 chat
 canasta
 coconuts
+counterimitate
 chataka
 chatchka
 chatchkas
@@ -26900,7 +26901,6 @@ counterhypothesis
 counteridea
 counterideal
 counterimagination
-counterimitate
 counterimitation
 cyclomyarian
 counterindentation
