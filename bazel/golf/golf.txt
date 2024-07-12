@@ -3137,7 +3137,6 @@ genitive
 geologian
 geologic
 gletscher
-geological
 geologically
 geologician
 geologies
@@ -4031,6 +4030,7 @@ galloon
 gusain
 gorgia
 guglet
+geological
 giftbook
 gifted
 giftedly

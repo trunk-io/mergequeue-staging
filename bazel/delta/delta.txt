@@ -5605,6 +5605,7 @@ depeculate
 depel
 depend
 dependableness
+disseise
 dependably
 dependance
 dependancy
@@ -13520,7 +13521,6 @@ dissections
 dissector
 dissectors
 drierman
-disseise
 disseisee
 disseises
 disseisoress
