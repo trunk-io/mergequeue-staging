@@ -16836,7 +16836,6 @@ aph
 antilogical
 aphacia
 aphacial
-aphaeresis
 aphagia
 aphagias
 azotemia
@@ -22365,6 +22364,7 @@ aphanapteryx
 anteal
 antinihilist
 astrophysicists
+aphaeresis
 astrophysics
 astrophyton
 almeriite
