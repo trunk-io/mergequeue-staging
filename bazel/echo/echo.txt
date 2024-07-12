@@ -7890,7 +7890,6 @@ egriot
 epigonichthys
 epigonism
 epigonium
-epigonos
 epigonus
 escalops
 epigram
@@ -12634,6 +12633,7 @@ ejected
 exocardiac
 extracardial
 endurable
+epigonos
 exhumating
 exocardial
 exocarps
