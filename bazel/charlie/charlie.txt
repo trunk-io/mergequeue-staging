@@ -7401,7 +7401,6 @@ cephalosporium
 cephalostyle
 cephalotaceae
 cephalotaceous
-chatot
 cephalotaxus
 cephalotheca
 cephalothecal
@@ -29572,6 +29571,7 @@ compassable
 criticsm
 cheesiness
 criticule
+chatot
 caffeate
 critique
 calcivorous
