@@ -2403,7 +2403,6 @@ candlerent
 candlers
 candleshine
 candleshrift
-candlesnuffer
 candlestand
 convertable
 candlestick
@@ -7685,6 +7684,7 @@ ceremonies
 ceremonious
 ceremoniously
 ceremoniousness
+candlesnuffer
 cereous
 cryptaesthesia
 cerer
