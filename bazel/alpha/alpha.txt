@@ -1493,7 +1493,6 @@ agelaius
 accension
 accensor
 accent
-accented
 amentulum
 accentless
 anticnemion
@@ -24714,6 +24713,7 @@ anhedonia
 aviarists
 ashamedly
 appast
+accented
 aviate
 aviated
 aviates
