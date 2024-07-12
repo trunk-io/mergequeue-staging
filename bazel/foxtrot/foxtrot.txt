@@ -5483,7 +5483,6 @@ flibbertigibbety
 flybelt
 furcation
 flybelts
-flyby
 flybys
 fluctisonous
 flyblown
@@ -7844,6 +7843,7 @@ fractals
 franchiser
 foreprise
 foreprize
+flyby
 fovent
 forepromise
 forepromised
