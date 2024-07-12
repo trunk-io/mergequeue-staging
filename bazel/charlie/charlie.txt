@@ -5390,7 +5390,6 @@ casula
 commie
 casule
 casus
-crosswise
 casusistry
 coabode
 cyzicene
@@ -22461,6 +22460,7 @@ coniroster
 croupy
 conirostral
 conirostres
+crosswise
 conisance
 conium
 coniums
