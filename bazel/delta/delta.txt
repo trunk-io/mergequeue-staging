@@ -945,6 +945,7 @@ deadflat
 digitaliform
 dard
 dardan
+deratting
 dardani
 dardaol
 dominants
@@ -6105,7 +6106,6 @@ disencumbering
 decidingly
 dummyism
 damozels
-deratting
 disscussive
 decrement
 derby

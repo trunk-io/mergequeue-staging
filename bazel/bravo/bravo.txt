@@ -3794,7 +3794,6 @@ battological
 battologise
 battologising
 battologize
-battologized
 batton
 billbroking
 bottom
@@ -8160,6 +8159,7 @@ bids
 bidstand
 babcock
 bye
+battologized
 bieberite
 brichette
 biedermeier
