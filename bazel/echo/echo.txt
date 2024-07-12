@@ -633,7 +633,6 @@ exosmose
 echoes
 ebonising
 echogram
-echoic
 echoing
 echoingly
 engelmann
@@ -3966,6 +3965,7 @@ emissi
 eudialyte
 emission
 emissive
+echoic
 emissory
 emittance
 emitted
