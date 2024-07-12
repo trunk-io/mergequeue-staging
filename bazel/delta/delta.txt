@@ -794,7 +794,6 @@ disprovable
 danegelt
 dyakisdodecahedron
 demiram
-dungeon
 daneweeds
 danewort
 disembowels
@@ -15546,6 +15545,7 @@ donning
 dedo
 donnishly
 dangles
+dungeon
 donnishness
 donnism
 donnock

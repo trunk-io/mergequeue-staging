@@ -7740,7 +7740,6 @@ esophagoplasty
 equidensity
 embroider
 edematous
-epidendral
 elwood
 erysipelothrix
 eumenorrhea
@@ -12439,6 +12438,7 @@ equijacent
 elpidite
 ellipsometry
 exfoliative
+epidendral
 egally
 endovenous
 exgorgitation
