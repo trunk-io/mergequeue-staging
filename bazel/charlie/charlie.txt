@@ -16754,7 +16754,6 @@ closings
 closish
 closkey
 clupeoid
-clostridia
 clostridial
 clostridian
 clostridium
@@ -22140,6 +22139,7 @@ carthamin
 conformational
 conformationally
 conformations
+clostridia
 conformator
 conformer
 coiffeuse
