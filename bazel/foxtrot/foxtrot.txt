@@ -4847,7 +4847,6 @@ fuzzle
 forehood
 flameout
 forcleave
-flameouts
 fackeltanz
 flameproof
 formolite
@@ -7936,6 +7935,7 @@ fluctuate
 foreshift
 faineance
 foreshock
+flameouts
 foreshop
 foreshore
 foreshortened
