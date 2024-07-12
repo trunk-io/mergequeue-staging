@@ -10722,7 +10722,6 @@ blennioidea
 blennocele
 blennogenous
 bandoliered
-blennoid
 blennophlogisma
 blennophlogosis
 blennophobia
@@ -14518,6 +14517,7 @@ branding
 brandiron
 brandise
 brandished
+blennoid
 brandisher
 biochron
 brandishes
