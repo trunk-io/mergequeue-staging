@@ -5630,6 +5630,7 @@ deperm
 depermed
 donax
 demibastion
+didromy
 daunders
 deperms
 depersonalise
@@ -9206,7 +9207,6 @@ didrachm
 discepted
 didrachmas
 didric
-didromy
 didromies
 didst
 diduce
