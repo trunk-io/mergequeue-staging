@@ -2272,7 +2272,6 @@ fenestral
 fenestration
 fenestrule
 furthermost
-ficaria
 florilage
 forthbringing
 farmyardy
@@ -8708,6 +8707,7 @@ farleu
 fortuneless
 factoress
 firebreak
+ficaria
 fortunes
 forerun
 fortuneteller

@@ -41,7 +41,6 @@ enlay
 electrodissolution
 ecphonesis
 eardropper
-embrasure
 eardrum
 eardrums
 egyptize
@@ -1877,6 +1876,7 @@ eyewitnesses
 exponentiate
 eigenfrequency
 eigenvalue
+embrasure
 eightballs
 ethrogim
 eighteen
