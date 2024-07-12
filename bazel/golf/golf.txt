@@ -6149,7 +6149,6 @@ gudok
 gemmological
 galvanometric
 ginkgo
-glue
 grisailles
 glued
 gangsman
@@ -8793,6 +8792,7 @@ gastroparalysis
 gregatim
 grege
 gregg
+glue
 gladsomely
 greggriffin
 gourmet
