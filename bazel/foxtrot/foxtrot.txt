@@ -1971,7 +1971,6 @@ fissurella
 feign
 feigned
 feignedly
-forayed
 fumose
 feigner
 feigners
@@ -7120,6 +7119,7 @@ footfall
 footfalls
 finnick
 footfault
+forayed
 filical
 footfeed
 footfolk

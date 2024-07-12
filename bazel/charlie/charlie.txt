@@ -2323,7 +2323,6 @@ communalising
 cancrums
 cand
 candace
-candelabra
 candelabras
 candelabrum
 candelabrums
@@ -29627,6 +29626,7 @@ crocidolite
 crocidura
 crocine
 compages
+candelabra
 crock
 carlines
 crockard
