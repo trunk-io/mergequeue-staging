@@ -6511,7 +6511,6 @@ ensweep
 ensweeten
 evenlight
 entablature
-emigrations
 entablements
 entach
 enneasemic
@@ -8224,6 +8223,7 @@ episodic
 episodical
 episodically
 enthrallingly
+emigrations
 emersonianism
 ethicists
 episomes
