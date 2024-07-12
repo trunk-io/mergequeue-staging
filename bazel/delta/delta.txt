@@ -3036,6 +3036,7 @@ deerhound
 deeryard
 deeryards
 deerlet
+diazoalkane
 deermeat
 daker
 deerskin
@@ -4297,7 +4298,6 @@ deluging
 divisive
 decorticator
 deluminize
-diazoalkane
 dory
 delusion
 delusional
