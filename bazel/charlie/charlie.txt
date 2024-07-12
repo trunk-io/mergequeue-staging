@@ -3559,6 +3559,7 @@ caranx
 carap
 carapa
 carapaced
+chilblains
 couloirs
 carapaces
 carapache
@@ -10506,7 +10507,6 @@ clerics
 chilarium
 chilblained
 ceder
-chilblains
 child
 childage
 childbearing
