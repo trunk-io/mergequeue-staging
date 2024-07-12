@@ -8891,6 +8891,7 @@ chaptalization
 chaptalizing
 chapteral
 chaptered
+crownless
 chaptering
 chapters
 chaptrel
@@ -8922,7 +8923,6 @@ charactered
 characterful
 charactery
 characterial
-crownless
 characteries
 charactering
 cobwebbier
