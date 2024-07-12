@@ -2459,6 +2459,7 @@ ethambutol
 electrolyse
 everydeal
 electrolysed
+elenchus
 electrolyses
 electrolysing
 electrolyte
@@ -2766,7 +2767,6 @@ elenchize
 electrovital
 expandibility
 elenchtical
-elenchus
 elenctic
 elenctical
 ectocornea
