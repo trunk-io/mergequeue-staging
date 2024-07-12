@@ -2949,7 +2949,6 @@ garnishes
 grasped
 girderage
 genos
-galeopsis
 gentlemanly
 gentlemanlikeness
 generalistic
@@ -9989,6 +9988,7 @@ guazuti
 gastrimargy
 gubbings
 graphic
+galeopsis
 guberla
 gametic
 grayer
