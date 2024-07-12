@@ -1861,7 +1861,6 @@ cameos
 camera
 camerae
 cameral
-cameralism
 cameralist
 cameralistic
 cameralistics
@@ -11340,6 +11339,7 @@ chlorinous
 chlorins
 chloriodide
 chlorion
+cameralism
 chlorioninae
 chlorite
 censurer
