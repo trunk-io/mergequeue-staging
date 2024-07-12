@@ -9782,6 +9782,7 @@ alveoloclasia
 alveolodental
 alveololabial
 albacea
+authorcraft
 alveolosubnasal
 alveolus
 alveus
@@ -23830,7 +23831,6 @@ authigenetic
 authigenic
 authigenous
 antiquatedness
-authorcraft
 authored
 abortion
 authoresses
