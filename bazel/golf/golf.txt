@@ -910,6 +910,7 @@ gamey
 gamekeeper
 gamekeepers
 gamekeeping
+glories
 gamelans
 gedecktwork
 gameless
@@ -5349,7 +5350,6 @@ glean
 gleanable
 gleaned
 glare
-glories
 gymnolaematous
 gleaner
 gleaning
