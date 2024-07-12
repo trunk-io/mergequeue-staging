@@ -4157,6 +4157,7 @@ bearing
 bearings
 buffeter
 bearish
+booleys
 bookstall
 bankfull
 bearlet
@@ -11759,7 +11760,6 @@ boddle
 battels
 boded
 bodefully
-booleys
 baccara
 blubbered
 bodegon
