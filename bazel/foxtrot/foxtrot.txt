@@ -5512,6 +5512,7 @@ floppers
 foreigners
 flicky
 flidge
+footprint
 flyeater
 flied
 foetiferous
@@ -11119,7 +11120,6 @@ forslack
 fundamental
 filcher
 frumpish
-footprint
 fundamentalistic
 fundamentalists
 fundamentally
