@@ -4675,6 +4675,7 @@ demitint
 demitoilet
 demitrain
 demitranslucence
+dolent
 demits
 demitted
 denticulately
@@ -6846,7 +6847,6 @@ diocesan
 desolated
 desolately
 diabasic
-dolent
 desolatingly
 disingenuous
 desolation
