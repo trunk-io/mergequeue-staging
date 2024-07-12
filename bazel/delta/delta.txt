@@ -1724,6 +1724,7 @@ deathtrap
 deathtraps
 deathwards
 deathweed
+debitor
 deathworm
 deaurate
 deave
@@ -9043,7 +9044,6 @@ defiliation
 dicrotal
 dicrotic
 dicrotism
-debitor
 dicrotous
 dicruridae
 dyable
