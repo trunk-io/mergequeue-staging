@@ -4739,7 +4739,6 @@ enciphered
 enciphering
 encipherment
 enciphers
-encircle
 endorsing
 encircled
 encirclements
@@ -10939,6 +10938,7 @@ eunicid
 epil
 eunomy
 exormia
+encircle
 eunomia
 eunomian
 empiriological

@@ -1398,7 +1398,6 @@ acariatre
 acaricidal
 acaricide
 assise
-acarid
 acarida
 acaridae
 armoracia
@@ -22156,6 +22155,7 @@ astoned
 astony
 astonying
 actinonema
+acarid
 astonish
 astonished
 astonisher
