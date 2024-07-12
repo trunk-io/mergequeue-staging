@@ -3946,7 +3946,6 @@ calla
 cardialgic
 cilioretinal
 cardiameter
-cardiamorphia
 cobaea
 cardianesthesia
 cardianeuria
@@ -11021,6 +11020,7 @@ chirometer
 chiromyidae
 chiromys
 chiron
+cardiamorphia
 chinpiece
 chironym
 chironomy
