@@ -592,7 +592,6 @@ abloom
 alkalinuria
 ablow
 ablude
-annealer
 abluent
 abluents
 ablush
@@ -14514,6 +14513,7 @@ anthology
 aerodontalgia
 anthologically
 anthologised
+annealer
 anthologising
 anthologist
 anthologists
