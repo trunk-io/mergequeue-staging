@@ -21,7 +21,6 @@ francolin
 fablemongering
 fabler
 fablers
-finity
 fabling
 fabric
 fabricable
@@ -9209,6 +9208,7 @@ fallibilism
 frenal
 fragging
 fraggings
+finity
 fragile
 firetraps
 fragileness
