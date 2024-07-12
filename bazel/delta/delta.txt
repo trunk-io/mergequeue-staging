@@ -2863,6 +2863,7 @@ decurrences
 decurrency
 dissaving
 decurrencies
+desmodium
 dodos
 decurrent
 detenus
@@ -17677,7 +17678,6 @@ ds
 dschubba
 dsect
 dsects
-desmodium
 dsname
 dsp
 dsr
