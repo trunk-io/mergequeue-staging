@@ -16749,7 +16749,6 @@ antiwit
 allelvia
 apathetic
 afar
-apathetical
 asseverations
 apathetically
 apathy
@@ -20966,6 +20965,7 @@ ascensive
 ascensor
 ascent
 acescence
+apathetical
 ascertained
 ascertainer
 ascertaining
