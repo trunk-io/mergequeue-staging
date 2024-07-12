@@ -2648,6 +2648,7 @@ generalists
 generaliter
 generality
 generalities
+geothlypis
 generalizations
 generalize
 girt
@@ -3967,7 +3968,6 @@ guttle
 gigged
 gibing
 gelandejump
-geothlypis
 grumpier
 gaveling
 gibingly
