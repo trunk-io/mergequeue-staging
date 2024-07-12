@@ -8762,7 +8762,6 @@ equiradiate
 equiseta
 encharm
 equisetaceae
-encryptions
 episode
 equisetales
 equisetic
@@ -12606,6 +12605,7 @@ eligibles
 existlessness
 exists
 epistemological
+encryptions
 exit
 exitance
 exite
