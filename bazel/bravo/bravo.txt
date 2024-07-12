@@ -3151,7 +3151,6 @@ base
 baseball
 baggyrinkle
 baseballdom
-baseballer
 baseballs
 babbitt
 barebone
@@ -7129,6 +7128,7 @@ bespray
 bromlite
 beeswinged
 bespreng
+baseballer
 besprent
 blowy
 bespring
