@@ -3298,7 +3298,6 @@ fierasfer
 falchions
 flo
 flagellum
-frilliness
 frundel
 fierasferidae
 fierasferoid
@@ -6504,6 +6503,7 @@ flusherman
 flushers
 flushes
 feruling
+frilliness
 focalize
 flushness
 fluors

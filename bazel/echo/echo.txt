@@ -6198,7 +6198,6 @@ erasion
 eusynchite
 enoplan
 entrainer
-enoplion
 enoptromancy
 empetrous
 eten
@@ -13455,6 +13454,7 @@ exsanguinous
 expose
 exscind
 exscinded
+enoplion
 epiclastic
 exscinding
 ecphory
