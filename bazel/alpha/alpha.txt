@@ -4351,7 +4351,6 @@ adoptee
 adoptees
 adopter
 adoptian
-adoptianist
 adopting
 adoption
 adoptional
@@ -19294,6 +19293,7 @@ ardennite
 ardently
 ardentness
 attila
+adoptianist
 arder
 ardhamagadhi
 ardhanari
