@@ -7561,7 +7561,6 @@ bewhite
 bewhiten
 bewhore
 bewidow
-bigothero
 bitterns
 bewield
 bewig
@@ -9194,6 +9193,7 @@ bisync
 biotechnics
 biotechnology
 barrett
+bigothero
 biotechnological
 biotechnologicaly
 biotechnologically
