@@ -10506,7 +10506,6 @@ demifarthing
 diphtherotoxin
 diphthong
 diphthongalize
-diphthongally
 dillesk
 diphthongation
 diphthonged
@@ -17689,6 +17688,7 @@ duadic
 duads
 duala
 diandria
+diphthongally
 duali
 diclinism
 dualin

@@ -18633,7 +18633,6 @@ coyness
 coynesses
 coinfeftment
 coinfer
-coinferred
 coinferring
 complied
 coinfers
@@ -30364,6 +30363,7 @@ csmp
 congees
 cst
 csw
+coinferred
 cte
 ctelette
 ctene
