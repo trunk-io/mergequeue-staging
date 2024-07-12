@@ -2495,7 +2495,6 @@ ferricyanide
 ferrier
 ferriferous
 ferison
-ferrihydrocyanic
 ferryhouse
 ferrimagnet
 forewing
@@ -6287,6 +6286,7 @@ fluidises
 fluidising
 flying
 furfurans
+ferrihydrocyanic
 fluidism
 flittered
 fluidist
