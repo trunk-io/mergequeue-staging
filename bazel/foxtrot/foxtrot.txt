@@ -3426,7 +3426,6 @@ flinchers
 freightless
 ferrocyanic
 freeways
-feasten
 frogtongue
 fil
 filace
@@ -6544,6 +6543,7 @@ filagreeing
 flutelike
 fluter
 fibroglia
+feasten
 foolisher
 flutes
 fluther
