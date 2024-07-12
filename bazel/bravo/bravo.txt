@@ -1081,6 +1081,7 @@ bailiaries
 becky
 beauclerk
 backplate
+blindfoldly
 bailie
 bailiery
 bailieries
@@ -10865,7 +10866,6 @@ blindfold
 blindfolded
 blindfoldedly
 blindfolder
-blindfoldly
 blindism
 balaenoptera
 blindly
