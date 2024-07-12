@@ -10531,6 +10531,7 @@ euclidean
 ethnozoology
 evacuating
 ethnozoological
+extendability
 ethography
 etholide
 ebauchoir
@@ -13562,7 +13563,6 @@ ephelis
 eking
 extend
 envision
-extendability
 eosaurus
 extendable
 extended
