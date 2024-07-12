@@ -146,7 +146,6 @@ gaelicist
 gaelicization
 gundelow
 glump
-gaelicize
 goatskin
 glareproof
 gaels
@@ -7811,6 +7810,7 @@ graith
 graithly
 grakle
 grallatores
+gaelicize
 grallatory
 grallatorial
 ghazism
