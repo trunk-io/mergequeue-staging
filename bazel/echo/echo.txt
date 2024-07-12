@@ -143,6 +143,7 @@ earsore
 escadrille
 earsplitting
 earspool
+embryos
 earstone
 eoan
 earstones
@@ -3696,7 +3697,6 @@ embryophagous
 embryophyta
 embryophyte
 embryophore
-embryos
 enkindle
 embryoscopic
 enslavement

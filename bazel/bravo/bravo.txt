@@ -3640,7 +3640,6 @@ bathrobes
 bathroom
 bathroomed
 bathrooms
-bathroot
 baron
 bathtub
 by
@@ -14485,6 +14484,7 @@ branchipodidae
 befriz
 branchipus
 bullsucker
+bathroot
 branchireme
 branchiurous
 barfing
