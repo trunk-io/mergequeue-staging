@@ -1511,7 +1511,6 @@ chiauses
 calluna
 callus
 camorras
-callused
 calluses
 cauch
 callusing
@@ -5284,6 +5283,7 @@ caster
 casterless
 carcerate
 casters
+callused
 crossfish
 casteth
 cepter
