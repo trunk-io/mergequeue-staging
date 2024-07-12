@@ -128,7 +128,6 @@ cablelike
 cableman
 cablemen
 cables
-cablese
 cablet
 cableways
 cabling
@@ -3874,6 +3873,7 @@ carchariid
 carchariidae
 carcharioid
 catogene
+cablese
 carcharodon
 congredient
 carcharodont
