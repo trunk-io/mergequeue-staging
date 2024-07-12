@@ -5189,7 +5189,6 @@ disembed
 dennstaedtia
 dryinid
 denom
-decursion
 denominant
 denominate
 denominated
@@ -15375,6 +15374,7 @@ dominatingly
 dolomitising
 difficult
 domination
+decursion
 dominations
 dominative
 disendowed

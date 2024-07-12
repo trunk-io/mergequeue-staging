@@ -1781,7 +1781,6 @@ gastroenterostomy
 gastroenterostomies
 gastroepiploic
 guebre
-gonotyl
 glazieries
 gastroesophageal
 gastrogastrotomy
@@ -9493,6 +9492,7 @@ gyle
 giglets
 gracilis
 gnomon
+gonotyl
 graptolithida
 grandstanded
 geophytes
