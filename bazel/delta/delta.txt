@@ -2372,6 +2372,7 @@ decimalist
 decimalization
 decimalize
 decimalized
+disfortune
 decimalizes
 decimally
 decimals
@@ -7631,7 +7632,6 @@ dobies
 dissectional
 deviceful
 disthroned
-disfortune
 devicefulness
 devices
 devide
