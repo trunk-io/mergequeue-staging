@@ -2059,7 +2059,6 @@ gavel
 gaveled
 gilia
 gaveler
-gosplan
 gavelet
 gopherwood
 gazogenes
@@ -4996,6 +4995,7 @@ givingness
 gizz
 glossanthrax
 gizzard
+gosplan
 gloeocapsoid
 gizzened
 gizzern

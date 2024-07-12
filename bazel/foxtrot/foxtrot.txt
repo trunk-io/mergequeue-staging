@@ -5239,7 +5239,6 @@ fld
 fldxt
 futile
 flea
-fusible
 fleabanes
 frickle
 flashproof
@@ -10366,6 +10365,7 @@ frizzy
 facewise
 frontalis
 fuzziness
+fusible
 frontally
 feigher
 fellinic
