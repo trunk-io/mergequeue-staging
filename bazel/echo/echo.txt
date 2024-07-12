@@ -7653,7 +7653,6 @@ ethylated
 etymologicon
 eirene
 epicystotomy
-epicleidian
 epicleidium
 epicleses
 enmass
@@ -13567,6 +13566,7 @@ extendable
 extended
 epidermic
 extenders
+epicleidian
 extends
 extense
 electrosynthesis

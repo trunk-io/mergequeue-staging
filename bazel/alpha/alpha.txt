@@ -7220,7 +7220,6 @@ akania
 akaroa
 antidorcas
 akasa
-akasha
 akawai
 akazga
 akazgine
@@ -14029,6 +14028,7 @@ anostraca
 aurichlorohydric
 anoterite
 another
+akasha
 anotherguess
 antacids
 anotia
