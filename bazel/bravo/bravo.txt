@@ -10477,7 +10477,6 @@ blastomycetes
 beheader
 blastomycetic
 bergamots
-blastomycetous
 blastomycotic
 blastoneuropore
 blastophaga
@@ -13089,6 +13088,7 @@ borosilicic
 borotungstate
 borotungstic
 borough
+blastomycetous
 boroughlet
 boroughmaster
 bacteriotherapy

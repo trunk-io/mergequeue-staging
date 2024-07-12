@@ -4478,6 +4478,7 @@ encamped
 encampment
 encampments
 endosecretory
+ersar
 endoparasite
 euthyneurous
 exameter
@@ -5356,7 +5357,6 @@ exocentric
 endosporous
 endosporously
 endoss
-ersar
 epigean
 endosteal
 estrangement
