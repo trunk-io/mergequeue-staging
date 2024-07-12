@@ -6782,6 +6782,7 @@ cubit
 celloidin
 celloist
 cellophane
+chladnite
 cellos
 constative
 cellose
@@ -11223,7 +11224,6 @@ chizzel
 chkalik
 capretto
 cotys
-chladnite
 chondrite
 chlamyd
 chlamydate
