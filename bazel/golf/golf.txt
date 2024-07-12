@@ -6005,7 +6005,6 @@ greedygut
 gebang
 grossular
 geophagy
-guerison
 glossopteris
 genearch
 glossoptosis
@@ -8013,6 +8012,7 @@ grandparental
 grandparents
 granitoid
 gyronny
+guerison
 ghettos
 grandpas
 globalized
