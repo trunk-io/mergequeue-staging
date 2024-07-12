@@ -4110,7 +4110,6 @@ beanstalk
 bacteroidal
 bibbs
 bear
-bearableness
 bearably
 bearance
 bearberry
@@ -11154,6 +11153,7 @@ bloomfell
 bloomier
 bloomiest
 bloomingly
+bearableness
 bloomingness
 bloomkin
 burbs
