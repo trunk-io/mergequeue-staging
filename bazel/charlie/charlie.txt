@@ -9300,7 +9300,6 @@ canasta
 coconuts
 chataka
 chatchka
-chatchkas
 chatchke
 chatchkes
 chateau
@@ -22590,6 +22589,7 @@ connascent
 connate
 connately
 connateness
+chatchkas
 connation
 connatural
 connaturality
