@@ -1129,6 +1129,7 @@ calculation
 calculational
 calculations
 calculator
+cloke
 calculatory
 calculer
 calculi
@@ -3176,7 +3177,6 @@ capman
 capmint
 capnodium
 capnomancy
-cloke
 capnomor
 capo
 capoc
