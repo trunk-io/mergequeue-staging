@@ -4055,7 +4055,6 @@ gangliform
 gansy
 giganticidal
 giganticide
-giganticness
 grayback
 glandular
 glittersome
@@ -9045,6 +9044,7 @@ grimoire
 grubs
 grimsir
 grimsire
+giganticness
 grinch
 groupers
 grippier
