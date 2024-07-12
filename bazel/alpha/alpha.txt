@@ -10288,6 +10288,7 @@ amdahl
 amdt
 aphra
 ame
+avestan
 ameba
 amebae
 ameban
@@ -24694,7 +24695,6 @@ aves
 acephalia
 avesta
 agarita
-avestan
 avestruz
 aveugle
 avgas
