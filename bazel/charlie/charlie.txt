@@ -15745,6 +15745,7 @@ coquin
 clatters
 claustrophobiac
 clattertrap
+cryptanalytics
 clattertraps
 clatty
 claudent
@@ -29254,7 +29255,6 @@ cryptanalysis
 cryptanalyst
 cryptanalytic
 cryptanalytically
-cryptanalytics
 colorimetry
 cryptanalyzed
 couchings
