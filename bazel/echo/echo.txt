@@ -13360,7 +13360,6 @@ expressionistic
 expressionistically
 expressionists
 expressionlessly
-expressionlessness
 ergasia
 expressions
 erstwhile
@@ -13461,6 +13460,7 @@ exscind
 exscinded
 epiclastic
 exscinding
+expressionlessness
 ecphory
 exscinds
 exscribe
