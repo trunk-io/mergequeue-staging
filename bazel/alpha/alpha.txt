@@ -2763,7 +2763,6 @@ acquiescent
 apocalypt
 acquiescently
 acquiescer
-acquiesces
 amygdalotomy
 acquiescing
 acquiescingly
@@ -19907,6 +19906,7 @@ amygdalectomy
 achondrite
 andreaeales
 armadillidium
+acquiesces
 armadillos
 araucarian
 armado
