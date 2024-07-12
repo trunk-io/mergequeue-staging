@@ -3892,7 +3892,6 @@ ghoulish
 ghoulishly
 ghoulishness
 glorified
-glutin
 growingupness
 ghouls
 ghuz
@@ -8507,6 +8506,7 @@ gravigrada
 gravimeter
 gravimeters
 gravimetry
+glutin
 greesagh
 grutched
 gravimetrical
