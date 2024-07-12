@@ -1864,7 +1864,6 @@ eyetooth
 elaphurus
 eyewaiter
 eyewash
-eyewashes
 extradomestic
 eyewater
 evolvement
@@ -6099,6 +6098,7 @@ enmeshment
 enmew
 enmity
 enmities
+eyewashes
 enmove
 enmuffle
 enneacontahedron
