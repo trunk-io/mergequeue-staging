@@ -5536,7 +5536,6 @@ glycosides
 girlchild
 glees
 grant
-glycosidic
 gunmetal
 glycosyl
 glycosyls
@@ -7605,6 +7604,7 @@ genicular
 grabblers
 graben
 grabens
+glycosidic
 grabman
 graphologist
 gillie
