@@ -4927,7 +4927,6 @@ encumbrancer
 encumbrous
 eblis
 encushion
-endamageable
 esterifiable
 endamaged
 epigraphist
@@ -9670,6 +9669,7 @@ elasmobranchiate
 eisell
 epizoisms
 esmeraldan
+endamageable
 esne
 epigastrial
 eve
