@@ -1769,7 +1769,6 @@ floods
 feathertop
 featherway
 featherweight
-featherweights
 featherwing
 featherwood
 featherwork
@@ -5758,6 +5757,7 @@ firesides
 formulas
 flashtester
 floated
+featherweights
 floater
 floaters
 felines
