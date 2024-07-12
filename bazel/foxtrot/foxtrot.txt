@@ -4242,7 +4242,6 @@ firn
 ferity
 furrier
 flammability
-firstborn
 firstcomer
 forbearer
 fraxinus
@@ -8908,6 +8907,7 @@ foundationary
 forgeman
 foundationer
 ferdiad
+firstborn
 fussiest
 forestcraft
 foundationlessness
