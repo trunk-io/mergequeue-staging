@@ -19838,7 +19838,6 @@ combwright
 comd
 comdg
 comdia
-chatsome
 comdr
 comdt
 come
@@ -25492,6 +25491,7 @@ corodiary
 corodiastasis
 corodiastole
 corojo
+chatsome
 corol
 classicize
 condemns
