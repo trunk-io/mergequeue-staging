@@ -8160,7 +8160,6 @@ chaffron
 cobblerless
 chaffs
 carapace
-chaffwax
 crunched
 clochard
 chaffweed
@@ -23965,6 +23964,7 @@ conflexure
 conule
 conumerary
 conumerous
+chaffwax
 crajuru
 conundrum
 conundrumize
