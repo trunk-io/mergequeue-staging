@@ -3918,6 +3918,7 @@ delacerate
 delacrimation
 delay
 delayable
+distantness
 darr
 delayage
 delayed
@@ -13802,7 +13803,6 @@ diverting
 distantly
 disincarnate
 dignosle
-distantness
 distaste
 distasted
 distasteful
