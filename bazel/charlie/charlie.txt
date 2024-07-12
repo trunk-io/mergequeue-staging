@@ -2926,7 +2926,6 @@ canun
 canvas
 canvasado
 canvasback
-contradictional
 canvasbacks
 canvased
 canvaser
@@ -10484,6 +10483,7 @@ chiffonnier
 chiffonnieres
 chiffonniers
 chifforobe
+contradictional
 chifforobes
 cornetcy
 compactedly
