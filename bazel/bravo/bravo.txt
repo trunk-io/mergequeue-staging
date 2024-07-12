@@ -6422,7 +6422,6 @@ benzoles
 benzoline
 benzolize
 benzols
-benzonaphthol
 bedded
 benzonitrile
 benzonitrol
@@ -7822,6 +7821,7 @@ brevetted
 bibelots
 buskin
 bechirp
+benzonaphthol
 boogerman
 bahut
 bibenzyl
