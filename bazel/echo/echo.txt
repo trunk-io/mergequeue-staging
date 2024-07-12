@@ -10886,6 +10886,7 @@ eulogical
 eulogically
 eulogies
 eulogious
+external
 eulogise
 enchytraeus
 eulogises
@@ -13641,7 +13642,6 @@ extermined
 extermining
 extern
 externa
-external
 externalisation
 externalise
 externalised
