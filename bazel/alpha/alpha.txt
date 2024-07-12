@@ -180,7 +180,6 @@ acarapis
 abaxial
 abaxile
 abaze
-abb
 abba
 abbacy
 abbacies
@@ -20043,6 +20042,7 @@ armoured
 armourer
 armourers
 armoury
+abb
 armouries
 armouring
 acidimetry
