@@ -4717,6 +4717,7 @@ carraways
 carreau
 carree
 carrefour
+cigar
 carrel
 carrels
 carreta
@@ -13562,7 +13563,6 @@ cyesiology
 cyesis
 cig
 cigale
-cigar
 cigaresque
 cigarette
 cigarettes

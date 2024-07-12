@@ -8842,7 +8842,6 @@ binit
 binitarian
 binitarianism
 binits
-bink
 binman
 binmen
 barracks
@@ -17406,6 +17405,7 @@ bungling
 bunglingly
 bullnose
 blenny
+bink
 bunglings
 bioclimatologist
 bungstarter
