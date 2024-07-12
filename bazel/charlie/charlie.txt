@@ -6901,7 +6901,6 @@ cupiuba
 cements
 cementum
 chambellan
-cemetary
 cemetaries
 cemetery
 cemeterial
@@ -30697,6 +30696,7 @@ cuittled
 cuittles
 cuittling
 cuj
+cemetary
 countermining
 cujam
 cukes
