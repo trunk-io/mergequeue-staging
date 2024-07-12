@@ -14353,7 +14353,6 @@ chordata
 circumdate
 circumdenudation
 circumdiction
-circumduce
 circumducing
 circumduct
 circumduction
@@ -24317,6 +24316,7 @@ cookable
 cookbook
 cookbooks
 classist
+circumduce
 cricket
 carucal
 cookdom
