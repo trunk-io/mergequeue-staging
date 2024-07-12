@@ -4725,7 +4725,6 @@ carri
 carry
 carriable
 carryable
-carriage
 carriageful
 carriageless
 comportable
@@ -24488,6 +24487,7 @@ cop
 copa
 capitations
 copacetic
+carriage
 copaene
 copaiba
 copaibic
