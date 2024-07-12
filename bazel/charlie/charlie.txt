@@ -5781,7 +5781,6 @@ concaulescence
 categorical
 categories
 cultism
-categorisation
 categorise
 categorised
 categorising
@@ -18133,6 +18132,7 @@ coenoecium
 cerealose
 coenogenesis
 club
+categorisation
 coenogenetic
 coenomonoecism
 coenosarc
