@@ -15146,7 +15146,6 @@ bricking
 brickish
 brickkiln
 bricklayer
-bricklayers
 brickleness
 brickly
 bricklike
@@ -17231,6 +17230,7 @@ bleaunt
 bawdries
 bumbleberry
 bumblebomb
+bricklayers
 bumbled
 bannerless
 bumbledom

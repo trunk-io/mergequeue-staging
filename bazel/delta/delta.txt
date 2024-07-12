@@ -2433,7 +2433,6 @@ dauberies
 deckel
 dedan
 deckels
-decken
 decker
 dragsawing
 deckie
@@ -5928,6 +5927,7 @@ depresses
 depressibility
 depressibilities
 depressible
+decken
 depressing
 depressingly
 dermatography
