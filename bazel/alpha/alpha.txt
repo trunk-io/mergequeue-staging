@@ -10515,6 +10515,7 @@ amicron
 amictus
 amid
 amidase
+autotrophic
 amidases
 amidate
 amide
@@ -24473,7 +24474,6 @@ autotriploid
 autotriploidy
 autotrophy
 aeger
-autotrophic
 autotrophically
 autotropic
 apostolate
