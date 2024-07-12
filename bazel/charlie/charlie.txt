@@ -3832,6 +3832,7 @@ carburize
 carburized
 carburizes
 carburizing
+compellable
 carburometer
 carcajou
 carcajous
@@ -20580,7 +20581,6 @@ compeering
 compeers
 compel
 compellability
-compellable
 compellably
 constellate
 compellative
