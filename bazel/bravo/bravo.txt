@@ -2763,7 +2763,6 @@ barmybrained
 barmie
 barmiest
 barming
-barmote
 barms
 barmskin
 barn
@@ -5682,6 +5681,7 @@ believability
 believable
 believed
 believer
+barmote
 billbergia
 believes
 bewith
