@@ -3071,7 +3071,6 @@ defaceable
 defacements
 defacer
 defacers
-defaces
 defacingly
 diabolify
 digressiveness
@@ -15422,6 +15421,7 @@ druidess
 dominoes
 dewanship
 dominos
+defaces
 dominus
 domitable
 dirtfarmer
