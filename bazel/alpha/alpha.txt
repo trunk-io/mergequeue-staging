@@ -13412,7 +13412,6 @@ adonises
 anisocotyledonous
 anisocotyly
 anisocratic
-anisodactyl
 anisodactyla
 anisodactyle
 anisodactylic
@@ -13953,6 +13952,7 @@ anoplotherium
 anoplotheroid
 arrowed
 anoplura
+anisodactyl
 anopluriform
 anopsy
 awakes
