@@ -2984,6 +2984,7 @@ environs
 espousal
 eucrystalline
 epopee
+evacue
 elitists
 elytral
 elatrometer
@@ -11292,7 +11293,6 @@ evacuator
 evacuators
 exteriors
 epileptology
-evacue
 eugenol
 evacuee
 extinguished
