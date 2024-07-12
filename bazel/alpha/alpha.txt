@@ -936,6 +936,7 @@ atwitch
 acrobates
 abscond
 adjiger
+archrogue
 absconded
 atherine
 abscondedly
@@ -19160,7 +19161,6 @@ archreactionary
 archrebel
 archrepresentative
 archrobber
-archrogue
 archruler
 astrologer
 archsacrificator
