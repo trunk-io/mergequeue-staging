@@ -16052,7 +16052,6 @@ clergess
 clergy
 clergyable
 calcic
-clergylike
 cyclos
 clergymen
 clergion
@@ -28529,6 +28528,7 @@ cyul
 credential
 credentialed
 congressman
+clergylike
 credentials
 credenza
 credenzas
