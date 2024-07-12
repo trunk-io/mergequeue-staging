@@ -28755,7 +28755,6 @@ creping
 crepis
 crepitacula
 crepitaculum
-crepitant
 crepitate
 crepitated
 crepitating
@@ -30570,6 +30569,7 @@ cuculliform
 cucullus
 cuculoid
 cuculus
+crepitant
 cucumaria
 cucumber
 coesites
