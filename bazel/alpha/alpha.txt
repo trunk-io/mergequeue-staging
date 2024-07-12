@@ -5376,7 +5376,6 @@ affeer
 affeerer
 affeerment
 affeeror
-achromaturia
 affeir
 affenpinscher
 affenspalte
@@ -16403,6 +16402,7 @@ antitypes
 aspect
 aureity
 antityphoid
+achromaturia
 antitypy
 antitypical
 antitypically
