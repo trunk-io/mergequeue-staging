@@ -3690,6 +3690,7 @@ filopodia
 floorcloth
 fluoridated
 filopodium
+fleece
 filosa
 fetis
 frankify
@@ -5301,7 +5302,6 @@ ff
 forsay
 fledgling
 fledglings
-fleece
 fleeceflower
 fleeceless
 fascinations
