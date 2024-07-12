@@ -2619,7 +2619,6 @@ decolourized
 daggles
 decolourizing
 decommission
-decommissioned
 dischase
 decommissioning
 dicranum
@@ -16180,6 +16179,7 @@ dinging
 douzaines
 dinkies
 douzainier
+decommissioned
 douzepers
 douzieme
 douziemes
