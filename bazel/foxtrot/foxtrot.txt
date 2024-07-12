@@ -233,7 +233,6 @@ faddy
 faddiness
 fairyfolk
 fadding
-faddish
 fungin
 fussock
 faverole
@@ -1589,6 +1588,7 @@ faveoluli
 faveolus
 festinance
 fictionised
+faddish
 faviform
 foretopman
 flappet
