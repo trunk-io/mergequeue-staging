@@ -8550,7 +8550,6 @@ groundwater
 gossameriness
 graze
 grazed
-gradus
 grovelingly
 glycerinize
 garcinia
@@ -9790,6 +9789,7 @@ glistening
 guaguanche
 guayaba
 guayabera
+gradus
 ginghamed
 guayabi
 guayabo

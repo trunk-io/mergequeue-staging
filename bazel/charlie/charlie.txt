@@ -2788,7 +2788,6 @@ cantefable
 canter
 canterburian
 canterburianism
-chalcosiderite
 cheken
 cladosporium
 canterburies
@@ -13588,6 +13587,7 @@ cyl
 cilantro
 cilantros
 cilectomy
+chalcosiderite
 correctress
 cornichon
 coffle
