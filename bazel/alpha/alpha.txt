@@ -307,7 +307,6 @@ abducts
 abe
 abeam
 abear
-analemmata
 annexing
 abearance
 abecedaire
@@ -661,6 +660,7 @@ abodement
 anterior
 abodes
 apostrophation
+analemmata
 abody
 ailurophilia
 armpit
