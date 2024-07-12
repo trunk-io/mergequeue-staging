@@ -791,6 +791,7 @@ euskera
 expectation
 ecphasis
 ecphonema
+evenglome
 ecphorable
 emersed
 ecphore
@@ -10789,7 +10790,6 @@ eudorina
 eudoxian
 explemental
 endowers
-evenglome
 episomal
 eglogue
 entopical
