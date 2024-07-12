@@ -3075,7 +3075,6 @@ elmwood
 eloah
 emitter
 exorcizer
-emerse
 extralateral
 elocation
 emmarbled
@@ -13231,6 +13230,7 @@ exploded
 exploders
 exploit
 evasible
+emerse
 exploitage
 exploitatively
 exploited
