@@ -5852,7 +5852,6 @@ belomancy
 belone
 belonephobia
 belonging
-belongings
 belongs
 backpacking
 belonid
@@ -12671,6 +12670,7 @@ bookie
 bookies
 bejel
 bladderweed
+belongings
 begonia
 bagleaves
 bookish
