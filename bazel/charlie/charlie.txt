@@ -8959,7 +8959,6 @@ characterstring
 colometric
 charades
 charadrii
-charadriidae
 charadriiformes
 charadrine
 charadrioid
@@ -17286,6 +17285,7 @@ coalternation
 coalternative
 coaltitude
 cutleriaceous
+charadriidae
 coambassador
 coambulant
 constrainers

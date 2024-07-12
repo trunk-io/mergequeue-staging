@@ -5120,7 +5120,6 @@ endoceratite
 endoceratitic
 endocervical
 endocervicitis
-endochylous
 endochorionic
 endocycle
 endocyclic
@@ -6236,6 +6235,7 @@ existent
 enquarter
 exogonium
 enqueue
+endochylous
 enqueued
 enqueues
 enquire
