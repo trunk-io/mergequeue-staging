@@ -11278,6 +11278,7 @@ chloramine
 chloramphenicol
 chiffre
 chloranaemia
+coperception
 chloranemia
 chloranemic
 chloranhydride
@@ -25576,7 +25577,6 @@ coronopus
 coronule
 cyamelide
 coroparelcysis
-coperception
 coroplast
 coroplastae
 coroplastic
