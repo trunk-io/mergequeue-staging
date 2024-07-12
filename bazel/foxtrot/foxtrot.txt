@@ -2372,7 +2372,6 @@ fermacy
 fermage
 fibrillate
 fermal
-furnitures
 foreign
 fermate
 fleshed
@@ -10789,6 +10788,7 @@ fluctuate
 florulas
 fubsiest
 flaming
+furnitures
 fucaceae
 fucales
 flocculate
