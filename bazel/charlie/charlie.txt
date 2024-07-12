@@ -20597,7 +20597,6 @@ compend
 compendency
 compendent
 compendia
-compendiary
 compendiate
 compendious
 compendiously
@@ -27552,6 +27551,7 @@ covertly
 covertness
 coverts
 coverup
+compendiary
 cadency
 cephalopodan
 coves
