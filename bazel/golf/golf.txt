@@ -2080,7 +2080,6 @@ guanin
 gaviiformes
 grotesquely
 gavot
-gavotte
 galliferous
 goniostat
 gastronosus
@@ -6366,6 +6365,7 @@ gnome
 gnomes
 gnomesque
 gnomic
+gavotte
 gnomical
 greyhound
 gnomologic
