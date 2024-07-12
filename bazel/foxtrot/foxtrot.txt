@@ -1655,6 +1655,7 @@ faxed
 filaria
 faxes
 feud
+forcite
 fibrocement
 finochios
 faze
@@ -11638,7 +11639,6 @@ fustics
 forearming
 fustie
 fustigate
-forcite
 fursemide
 fustigated
 foggily
