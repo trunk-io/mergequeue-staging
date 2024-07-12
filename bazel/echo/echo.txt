@@ -8580,7 +8580,6 @@ equant
 equatability
 equatable
 equates
-equating
 equation
 equational
 equationist
@@ -12381,6 +12380,7 @@ embellished
 enacting
 excessman
 exencephalus
+equating
 exenterate
 ethenoid
 exenterated
