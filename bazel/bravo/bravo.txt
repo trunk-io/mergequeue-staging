@@ -2396,6 +2396,7 @@ barberry
 barberries
 bluestone
 bubaline
+beaky
 barbers
 banquetings
 backout
@@ -4036,7 +4037,6 @@ beakerful
 beakerman
 beakermen
 beakful
-beaky
 beakier
 bandonion
 beakiron
