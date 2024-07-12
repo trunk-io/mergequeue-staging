@@ -21619,7 +21619,6 @@ condemnably
 condemnate
 condemnation
 condemnations
-condemnatory
 condemner
 chortles
 condemners
@@ -25646,6 +25645,7 @@ corpulentness
 corpus
 corpuscle
 cleruchic
+condemnatory
 corpuscularian
 corpuscularity
 corpusculated
