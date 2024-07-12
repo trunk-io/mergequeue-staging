@@ -7251,7 +7251,6 @@ enworthed
 enworthy
 enwove
 enchisel
-equipotential
 enwrap
 enwrapment
 enwrapped
@@ -13671,6 +13670,7 @@ exteroceptive
 elephant
 ethanamide
 exteroceptor
+equipotential
 exterraneous
 exterritorial
 exterritorialize
