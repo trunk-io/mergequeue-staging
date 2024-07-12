@@ -2056,7 +2056,6 @@ gavages
 gave
 geographer
 gavel
-gaveled
 gilia
 gaveler
 gosplan
@@ -7434,6 +7433,7 @@ glyceride
 gawsy
 gratifyingly
 gorgelet
+gaveled
 gouaree
 goudy
 gemmative
