@@ -2574,7 +2574,6 @@ bargain
 bargainable
 bargained
 brabantine
-billbugs
 bargainer
 bargaining
 beraked
@@ -5385,6 +5384,7 @@ behindsight
 behint
 bemolt
 behypocrite
+billbugs
 behither
 behn
 behold
