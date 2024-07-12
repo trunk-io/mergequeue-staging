@@ -1268,7 +1268,6 @@ acacin
 acad
 academe
 autographic
-academes
 academia
 academian
 academias
@@ -10910,6 +10909,7 @@ ammonolitic
 ammonolytic
 ammonolyze
 ammonolyzed
+academes
 ammonolyzing
 ammophilous
 ammoreslinol
