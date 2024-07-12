@@ -6659,7 +6659,6 @@ desiccate
 disprove
 desiccated
 desiccation
-desiccations
 deerfly
 desiccative
 desiccator
@@ -7278,6 +7277,7 @@ dandiprat
 determining
 determinism
 determinist
+desiccations
 deterministic
 decennially
 determinists

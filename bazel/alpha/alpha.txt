@@ -2746,7 +2746,6 @@ acquaintancy
 acquaintant
 acquainted
 acquaintedness
-acquainting
 alogism
 acquent
 acquereur
@@ -20352,6 +20351,7 @@ arround
 arrouse
 arrow
 arrowbush
+acquainting
 arrowheaded
 arrowheads
 arrowy
