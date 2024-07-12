@@ -5678,6 +5678,7 @@ aftercataract
 afterchance
 afterchrome
 afterchurch
+automatograph
 afterclap
 afterclause
 aftercomer
@@ -5876,7 +5877,6 @@ agalactic
 agalawood
 agalaxy
 agalaxia
-automatograph
 agalenidae
 agalite
 agalloch

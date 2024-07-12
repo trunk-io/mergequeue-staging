@@ -7605,7 +7605,6 @@ expurgations
 equitation
 epicele
 epicene
-epicenism
 epicenity
 epicenter
 ermines
@@ -12071,6 +12070,7 @@ excitors
 excitovascular
 excl
 exclaimed
+epicenism
 erucic
 exclaimers
 encincturing
