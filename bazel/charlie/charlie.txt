@@ -1006,7 +1006,6 @@ calcareoargillaceous
 canonizes
 calcareobituminous
 calcareosiliceous
-calcareosulphurous
 carpetmonger
 clavers
 calcareous
@@ -24095,6 +24094,7 @@ convergences
 convergency
 convergent
 convergently
+calcareosulphurous
 converges
 converginerved
 converging
