@@ -5045,7 +5045,6 @@ dendritical
 dendrobates
 dendrobatinae
 dendrobium
-dendrocalamus
 depilatories
 dendroceratina
 diamesogamous
@@ -14152,6 +14151,7 @@ drongo
 dysury
 deltarium
 dysuria
+dendrocalamus
 dysuric
 disuse
 disuses
