@@ -21058,7 +21058,6 @@ abstinency
 ascogonidium
 ascogonium
 ascoma
-ascomata
 ascomycetal
 ascomycete
 ascomycetous
@@ -22545,6 +22544,7 @@ athanasianism
 athanasies
 ammonionitrate
 athanor
+ascomata
 atharvan
 athecae
 athecate
