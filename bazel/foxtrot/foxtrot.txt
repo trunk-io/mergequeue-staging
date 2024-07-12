@@ -2518,7 +2518,6 @@ ferrochromium
 ferrocyanate
 fontes
 ferrocyanhydric
-ferroelectric
 flukeless
 flyblows
 ferroglass
@@ -4766,6 +4765,7 @@ flayers
 foreshown
 forensal
 fsiest
+ferroelectric
 fakirs
 flailed
 flaying
