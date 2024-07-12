@@ -6656,7 +6656,6 @@ flanken
 fumage
 focoids
 fining
-focometry
 focsle
 focused
 focusless
@@ -11620,6 +11619,7 @@ fussing
 fatigues
 fusspot
 forthcall
+focometry
 fusspots
 fustanella
 fratricide
