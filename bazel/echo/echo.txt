@@ -1625,7 +1625,6 @@ empetrum
 everlastingly
 embryonically
 egohood
-egoism
 ennoble
 egoistic
 egoistical
@@ -4746,6 +4745,7 @@ encircler
 ecize
 encircles
 encircling
+egoism
 encyrtid
 eriobotrya
 encyrtidae
