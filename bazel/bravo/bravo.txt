@@ -6984,7 +6984,6 @@ beslave
 besleeve
 beslime
 beslimer
-bout
 backtalk
 barricaders
 breadbasket
@@ -11579,6 +11578,7 @@ blueprinting
 boarfish
 boarishness
 boars
+bout
 boarship
 boarskin
 boarspear
