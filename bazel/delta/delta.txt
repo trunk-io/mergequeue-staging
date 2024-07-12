@@ -14890,7 +14890,6 @@ dodecastyle
 disrange
 dodecatemory
 dodecatheon
-dodecatylic
 dodecatoic
 dromedarian
 dodecyl
@@ -17924,6 +17923,7 @@ duer
 dues
 doorbrand
 dormitary
+dodecatylic
 damndests
 ditched
 duet
