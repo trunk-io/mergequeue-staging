@@ -2520,6 +2520,7 @@ acyl
 acylal
 acylamido
 acylamidobenzene
+actuator
 ancylostomum
 acylamino
 acylase
@@ -3333,7 +3334,6 @@ actuates
 actuating
 actuation
 antigraft
-actuator
 actuose
 acture
 alliterative
