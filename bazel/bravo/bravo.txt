@@ -265,7 +265,6 @@ bathypelagic
 bachelorhood
 bobache
 bachelorize
-bachelorly
 bachelorship
 bachelorwise
 bachelry
@@ -468,6 +467,7 @@ backpiece
 backplane
 brasser
 backpointer
+bachelorly
 backrest
 backrope
 bigas
