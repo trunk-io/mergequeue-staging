@@ -1306,6 +1306,7 @@ faunus
 fatiguability
 fastuous
 fastuousness
+ferroprint
 fastus
 foreking
 finishable
@@ -2542,7 +2543,6 @@ fontanels
 ferronatrite
 friend
 ferrophosphorus
-ferroprint
 filicologist
 ferroprussic
 fungologist

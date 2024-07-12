@@ -7313,7 +7313,6 @@ celloid
 cephalate
 celtillyrians
 cephaldemae
-cephalemia
 cephaletron
 cephaleuros
 crouched
@@ -24997,6 +24996,7 @@ cordaitalean
 cordal
 cordant
 cordately
+cephalemia
 crumbcloth
 cordax
 cordeau
