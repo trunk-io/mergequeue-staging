@@ -1435,6 +1435,7 @@ galloner
 gibier
 garlicwort
 garlion
+goethites
 garment
 gerrhosaurid
 galop
@@ -6559,7 +6560,6 @@ glacon
 goetae
 goethe
 gimlety
-goethites
 goety
 goetic
 gofer
