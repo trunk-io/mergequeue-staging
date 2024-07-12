@@ -4522,6 +4522,7 @@ goidel
 ginglyform
 ginglymi
 ginglymoarthrodial
+graphophone
 ginglymodi
 ginglymoid
 guildsmen
@@ -8236,7 +8237,6 @@ graphomotor
 graphonomy
 gastrin
 groundberry
-graphophone
 graphoscope
 gulpin
 graphostatic
