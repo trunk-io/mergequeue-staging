@@ -8818,7 +8818,6 @@ equivocatory
 equivocators
 ephydrid
 equivoke
-equivoluminal
 equivorous
 equivote
 entangle
@@ -9923,6 +9922,7 @@ establishment
 establishmentarian
 explants
 establishmentarianism
+equivoluminal
 establishmentism
 establishments
 establismentarianism
