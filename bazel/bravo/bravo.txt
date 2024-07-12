@@ -5865,6 +5865,7 @@ biharmonic
 belord
 belorussian
 belostoma
+burgling
 biparty
 belostomatidae
 belostomidae
@@ -17672,7 +17673,6 @@ banqueter
 burgles
 blay
 beefburger
-burgling
 burler
 burgoyne
 buddleias
