@@ -3464,7 +3464,6 @@ adamantoid
 adamantoma
 alfred
 adamants
-aryls
 adamas
 adamastor
 adamellite
@@ -12139,6 +12138,7 @@ anathema
 anathemas
 arcsines
 allhallows
+aryls
 anathematic
 airships
 anathematical
