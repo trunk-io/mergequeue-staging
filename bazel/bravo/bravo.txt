@@ -1100,7 +1100,6 @@ bailiffwick
 baylike
 bailing
 bailiwick
-bailiwicks
 bourlaw
 bailliage
 baillone
@@ -15110,6 +15109,7 @@ bailsman
 bulblet
 brickmaking
 bribeable
+bailiwicks
 bribed
 bribees
 bribegiving
