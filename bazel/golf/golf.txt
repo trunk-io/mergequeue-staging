@@ -8842,7 +8842,6 @@ gremlin
 gremlins
 gremmy
 gremmies
-grenade
 guffy
 grenadier
 grapsoid
@@ -9904,6 +9903,7 @@ grindingly
 gossiping
 ganancial
 guarantee
+grenade
 guaranteed
 guarantees
 gametophore
