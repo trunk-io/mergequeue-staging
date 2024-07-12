@@ -1875,7 +1875,6 @@ eyewink
 eyewinker
 englishing
 eyewitness
-eyewitnesses
 exponentiate
 eigenfrequency
 eigenvalue
@@ -7817,6 +7816,7 @@ empanoply
 epigaea
 esmeraldite
 epigamic
+eyewitnesses
 epigaster
 epigastraeum
 evonymus
