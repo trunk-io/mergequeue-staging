@@ -4761,7 +4761,6 @@ encystment
 encystments
 encysts
 encl
-enclaret
 etherol
 enclasp
 enneasyllabic
@@ -8215,6 +8214,7 @@ exanimate
 episiostenosis
 entoiling
 endark
+enclaret
 episiotomy
 episiotomies
 episkeletal
