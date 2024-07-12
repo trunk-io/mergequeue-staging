@@ -2769,7 +2769,6 @@ disciplinable
 decreet
 decreing
 dunkled
-decrements
 decrepit
 decrepitate
 decrepitating
@@ -8096,6 +8095,7 @@ derelictness
 diablery
 diablerie
 diableries
+decrements
 diablo
 diabolarchy
 diabolatry
