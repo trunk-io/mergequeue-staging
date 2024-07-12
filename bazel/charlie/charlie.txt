@@ -7080,7 +7080,6 @@ centifolious
 centigrade
 centigrado
 centigram
-centigramme
 confluences
 centigrams
 cajaput
@@ -22017,6 +22016,7 @@ configurationally
 configurationism
 configurationist
 configurations
+centigramme
 configurative
 configure
 configured
