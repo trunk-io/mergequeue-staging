@@ -4395,7 +4395,6 @@ adorned
 algebraization
 adorners
 adorning
-adorningly
 adornment
 amusively
 antagonisation
@@ -9413,6 +9412,7 @@ anhalonin
 alphabeted
 alphabetic
 alphabetical
+adorningly
 alphabetically
 accessions
 alphabetiform
