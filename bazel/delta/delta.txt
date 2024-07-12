@@ -5288,7 +5288,6 @@ dentalium
 dentaliums
 dauber
 dentalization
-dentalize
 decimetres
 detinues
 dentally
@@ -15802,6 +15801,7 @@ dorsa
 dorsabdominal
 dorsabdominally
 dihybrid
+dentalize
 dorsale
 dorsales
 disjointing
