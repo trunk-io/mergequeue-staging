@@ -2371,6 +2371,7 @@ decimalization
 decimalize
 decimalized
 decimalizes
+drowned
 decimally
 decimals
 decimate
@@ -8025,7 +8026,6 @@ dhikr
 dhikrs
 dhobee
 dhobey
-drowned
 dhobi
 dehnstufe
 dhobie
