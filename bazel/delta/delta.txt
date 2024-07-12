@@ -5216,7 +5216,6 @@ denotatum
 denote
 denoted
 denotement
-disrupted
 denotes
 denoting
 denouements
@@ -10605,6 +10604,7 @@ diploetic
 dependable
 demulsifying
 duplexed
+disrupted
 doxographical
 diplogenetic
 diplogenic
