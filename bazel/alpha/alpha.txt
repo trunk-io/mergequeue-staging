@@ -2585,7 +2585,6 @@ argentojarosite
 acknew
 apocodeine
 abattoir
-acknow
 acknowledgeable
 acknowledgedly
 achloropsia
@@ -4044,6 +4043,7 @@ aubretia
 adjournal
 adjourned
 adjourning
+acknow
 adjournments
 adjourns
 adjoust
