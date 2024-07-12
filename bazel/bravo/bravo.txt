@@ -2260,6 +2260,7 @@ baptizement
 baptizer
 baptizers
 baptizes
+bear
 baptizing
 baptornis
 bare
@@ -4105,7 +4106,6 @@ beansetter
 beanstalk
 bacteroidal
 bibbs
-bear
 bearableness
 bearably
 bearance
