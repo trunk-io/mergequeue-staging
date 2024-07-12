@@ -5858,7 +5858,6 @@ derailleur
 depot
 defecter
 drillers
-depotentiate
 depots
 dying
 delated
@@ -15856,6 +15855,7 @@ dorsocervical
 dorsocervically
 dorsoepitrochlear
 dorsolumbar
+depotentiate
 dorsomedial
 dorsomedian
 dorsomesal

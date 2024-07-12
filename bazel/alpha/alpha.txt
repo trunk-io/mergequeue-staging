@@ -2580,6 +2580,7 @@ ackey
 aeriferous
 ackeys
 ackman
+agenesis
 ackmen
 argentojarosite
 acknew
@@ -6050,7 +6051,6 @@ agenesia
 amyloid
 agenesias
 agenesic
-agenesis
 asterisk
 agenetic
 agenize
