@@ -12113,7 +12113,6 @@ cloverlay
 conceivable
 chortler
 cucoline
-chortlers
 chortling
 chortosterol
 ceca
@@ -27841,6 +27840,7 @@ crabbers
 chaetangium
 carnivaler
 crabby
+chortlers
 crabbier
 crabbiest
 crabbily
