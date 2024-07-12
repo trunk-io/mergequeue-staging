@@ -2456,6 +2456,7 @@ funge
 firebox
 ferrateen
 ferrates
+furors
 fifth
 flourish
 ferredoxin
@@ -11471,7 +11472,6 @@ froze
 forgemen
 furores
 falconries
-furors
 furphy
 fearingly
 fratching
