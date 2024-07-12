@@ -3444,7 +3444,6 @@ bassists
 bassly
 bassness
 basson
-bedash
 bremeness
 bassorin
 bassos
@@ -4722,6 +4721,7 @@ bedlamite
 broomstick
 bedlamitish
 bedlamize
+bedash
 bloody
 bedlamized
 bedlamizing
