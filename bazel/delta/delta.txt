@@ -9967,7 +9967,6 @@ diactinic
 diminishments
 diminuendo
 diminuendoed
-diminuendoes
 diminuendos
 denticulation
 diminuent
@@ -18511,6 +18510,7 @@ durums
 durzada
 dusack
 dermographism
+diminuendoes
 dusenwind
 dush
 dusio
