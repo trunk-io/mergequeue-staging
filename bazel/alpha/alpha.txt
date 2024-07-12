@@ -1198,7 +1198,6 @@ albertustaler
 aminophylline
 anglogaea
 abuna
-abundance
 abundancy
 abundant
 abundantia
@@ -5808,6 +5807,7 @@ afterstudy
 aftersupper
 anatomicochirurgical
 antidynamic
+abundance
 adversed
 aftermarket
 autotherapeutic
