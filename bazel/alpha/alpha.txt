@@ -8072,6 +8072,7 @@ ameliorative
 alexinic
 alexins
 alexipharmacon
+autolyzes
 alexipharmic
 alexipharmical
 alexipyretic
@@ -24181,7 +24182,6 @@ autolyzate
 autolyze
 auks
 autolyzed
-autolyzes
 autolyzing
 autoloader
 autoloaders
