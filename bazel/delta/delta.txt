@@ -1862,7 +1862,6 @@ deboshment
 deboss
 deyhouse
 detractive
-debouches
 debouching
 debouchment
 debout
@@ -11928,6 +11927,7 @@ disembargo
 deluges
 discriminatorily
 disembargoing
+debouches
 disembark
 disembarkation
 disembarkations
