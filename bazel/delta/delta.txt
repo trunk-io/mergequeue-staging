@@ -1313,7 +1313,6 @@ daughterless
 daughterly
 daughterlike
 daughterliness
-daughterling
 daughters
 daughtership
 dhundia
@@ -4822,6 +4821,7 @@ demonises
 damnatory
 demonish
 dons
+daughterling
 demonishness
 definitude
 demonism
