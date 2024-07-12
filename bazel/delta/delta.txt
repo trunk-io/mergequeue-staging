@@ -3077,7 +3077,6 @@ demikindred
 defaillance
 defailment
 defaitisme
-defalcate
 deliberativeness
 defalcated
 diethyltryptamine
@@ -7610,6 +7609,7 @@ dsnames
 dominions
 doggrelize
 deviancy
+defalcate
 deviant
 deviate
 drollishness
