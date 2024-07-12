@@ -9305,7 +9305,6 @@ bonneter
 bipinnatifid
 beanpoles
 bipinnatipartite
-basest
 bipinnatisect
 blinding
 bins
@@ -14437,6 +14436,7 @@ branchery
 branches
 branchful
 bilimbi
+basest
 branchy
 branchia
 berakah
