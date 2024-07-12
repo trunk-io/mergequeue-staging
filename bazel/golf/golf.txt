@@ -1926,7 +1926,6 @@ galosh
 gatetender
 grandaddy
 gateward
-gatewards
 guariba
 gatewise
 gatewoman
@@ -4719,6 +4718,7 @@ giraffa
 gustativeness
 granodioritic
 giraffesque
+gatewards
 giraffine
 glueyness
 giraffish
