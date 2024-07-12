@@ -4977,7 +4977,6 @@ epiphyseolysis
 endarterectomy
 evenforth
 endarterial
-endarteritis
 endarterium
 endarteteria
 enquiry
@@ -5175,6 +5174,7 @@ endocrinologists
 endocrinopath
 embosser
 endocrinopathy
+endarteritis
 endocrinopathic
 electrolysis
 endocrinous
