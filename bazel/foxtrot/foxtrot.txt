@@ -5439,7 +5439,6 @@ flew
 flewed
 flewit
 fasc
-flexanimous
 flexed
 flexes
 ferroboron
@@ -5779,6 +5778,7 @@ flobby
 flocced
 flocci
 floccillation
+flexanimous
 floccose
 focusing
 fasciate
