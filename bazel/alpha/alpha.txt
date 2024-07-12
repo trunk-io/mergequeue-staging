@@ -12180,7 +12180,6 @@ anatomical
 aetat
 anatomicobiological
 anatomicopathologic
-anatomicophysiologic
 ambidextral
 anatomicophysiological
 anatomicosurgical
@@ -21119,6 +21118,7 @@ athreptic
 asemia
 asepalous
 antidemocracies
+anatomicophysiologic
 asepses
 anagogical
 aseptate
