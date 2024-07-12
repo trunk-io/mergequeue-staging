@@ -2372,7 +2372,6 @@ decimalize
 decimalized
 decimalizes
 decimally
-decimals
 decimate
 decimated
 decimates
@@ -4804,6 +4803,7 @@ demoniacism
 demoniacs
 demonial
 demonian
+decimals
 drawcansir
 demonianism
 demoniast
