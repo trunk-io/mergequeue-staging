@@ -7544,7 +7544,6 @@ ephor
 ecraseur
 especialness
 ephoral
-ephoralty
 ephorate
 emandibulate
 ephori
@@ -7663,6 +7662,7 @@ enmass
 encyclics
 epiclesis
 epicly
+ephoralty
 epiclike
 epicnemial
 epicoele
