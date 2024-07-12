@@ -1729,7 +1729,6 @@ feaster
 flashflood
 feasters
 feastfully
-fubsy
 fortressed
 feastly
 feastraw
@@ -9807,6 +9806,7 @@ frequent
 falcon
 frequentable
 foresinger
+fubsy
 frequentative
 farrierlike
 frequenter
