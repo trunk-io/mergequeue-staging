@@ -1242,7 +1242,6 @@ calycanthine
 calycanthus
 calicate
 calyceal
-cyprinus
 croupon
 calyceraceae
 calyceraceous
@@ -3396,6 +3395,7 @@ cornutus
 captious
 captiously
 captiousness
+cyprinus
 corolliferous
 captivance
 captivate

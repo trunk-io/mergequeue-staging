@@ -5770,6 +5770,7 @@ depolarising
 depolarization
 desulphurizer
 damasks
+diaphanometry
 depolarize
 depolarized
 depolarizers
@@ -8529,7 +8530,6 @@ diapering
 diapers
 diaphane
 dethrone
-diaphanometry
 diaphanometric
 dirties
 diaphanotype
