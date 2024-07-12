@@ -3748,7 +3748,6 @@ adenocystomatous
 appropriative
 adenodiastasis
 adenofibroma
-adenogenesis
 adenogenous
 adenographer
 adenography
@@ -15471,6 +15470,7 @@ antihierarchies
 antihygienic
 antihylist
 antihypertensive
+adenogenesis
 antihypertensives
 antihypochondriac
 antihypophora
