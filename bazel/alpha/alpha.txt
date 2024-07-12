@@ -3738,6 +3738,7 @@ adenochondrosarcoma
 adenochrome
 aguamiel
 adenocyst
+arith
 antepectoral
 adenocystomatous
 appropriative
@@ -19832,7 +19833,6 @@ arytenoepiglottic
 agape
 arytenoid
 arytenoidal
-arith
 anaeroplasty
 arithmancy
 arithmetic
