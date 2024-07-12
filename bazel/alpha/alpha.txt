@@ -13929,6 +13929,7 @@ anophthalmia
 anophthalmos
 anophthalmus
 anopia
+antilevelling
 amyelia
 anopias
 anopisthograph
@@ -23257,7 +23258,6 @@ auchlet
 aucht
 angiosteosis
 auckland
-antilevelling
 auctary
 antimitotic
 auction
