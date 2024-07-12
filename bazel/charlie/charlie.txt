@@ -12668,7 +12668,6 @@ chronical
 chalazoidite
 chronically
 cismarine
-chronicity
 corixa
 cousiny
 colory
@@ -14922,6 +14921,7 @@ chains
 citizenries
 citizenship
 cytoanalyzer
+chronicity
 cytoarchitectural
 cytoarchitecturally
 cytoarchitecture
