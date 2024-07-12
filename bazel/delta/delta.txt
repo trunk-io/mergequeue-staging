@@ -1458,7 +1458,6 @@ db
 dbl
 denominable
 dbms
-disintensify
 dca
 deceived
 dcb
@@ -4203,6 +4202,7 @@ deliverables
 deliverance
 delivered
 dressmaker
+disintensify
 deliverer
 deliverers
 deliveress
