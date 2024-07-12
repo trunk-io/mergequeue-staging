@@ -628,7 +628,6 @@ backwards
 backwash
 bakeware
 brachydomatic
-bedrock
 backwashed
 backwashes
 backwashing
@@ -17146,6 +17145,7 @@ bullyragging
 boomers
 buckramed
 bullyrock
+bedrock
 bullish
 boneen
 bullishness
