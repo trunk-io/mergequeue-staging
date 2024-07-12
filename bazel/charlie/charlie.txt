@@ -13157,7 +13157,6 @@ ciao
 cyaphenine
 cyath
 cyathaspis
-cyathea
 cyatheaceae
 cyatheaceous
 cyathia
@@ -13957,6 +13956,7 @@ cinerea
 cinereal
 cinereous
 cinerin
+cyathea
 cineritious
 cinerous
 cines
