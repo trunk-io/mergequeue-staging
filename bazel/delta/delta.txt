@@ -9706,7 +9706,6 @@ dilaceration
 diobolon
 dilactone
 dilambdodont
-dilamination
 dilaniate
 dieselize
 dilantin
@@ -11145,6 +11144,7 @@ disarticulation
 disarticulator
 disasinize
 disassemble
+dilamination
 disassembled
 disassembler
 disassembles
