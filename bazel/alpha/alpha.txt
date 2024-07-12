@@ -5451,7 +5451,6 @@ afflatus
 afflatuses
 afflict
 algesireceptor
-afflicter
 afflicting
 afflictingly
 afflictionless
@@ -13417,6 +13416,7 @@ anisocotyly
 anisocratic
 anisodactyl
 anisodactyla
+afflicter
 anisodactyle
 anisodactylic
 androphagous
