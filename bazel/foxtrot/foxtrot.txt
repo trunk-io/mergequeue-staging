@@ -4534,7 +4534,6 @@ forbiddingness
 fivebar
 fivefold
 fiveling
-fivepence
 fivepenny
 fierte
 fivepins
@@ -9751,6 +9750,7 @@ flake
 fremdness
 founded
 fremitus
+fivepence
 fallout
 frictionize
 fremituses
