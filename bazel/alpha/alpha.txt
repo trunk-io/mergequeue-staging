@@ -18385,7 +18385,6 @@ arachnephobia
 arachnid
 amylome
 arachnidan
-arachnidism
 arachnidium
 arachnids
 analysability
@@ -22772,6 +22771,7 @@ atomechanics
 atomerg
 atomic
 atomical
+arachnidism
 atomically
 atomicism
 atomicity
