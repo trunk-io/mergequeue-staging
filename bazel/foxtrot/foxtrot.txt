@@ -2242,6 +2242,7 @@ fencers
 ferronickel
 firebricks
 fences
+forelaying
 forestallment
 fenestellidae
 fibroses
@@ -7736,7 +7737,6 @@ forelady
 foreladies
 forelay
 felons
-forelaying
 figary
 fleuretty
 forelands
