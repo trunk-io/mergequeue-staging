@@ -2820,6 +2820,7 @@ dejeune
 debouchure
 decrypted
 decrypting
+dihexahedral
 decryption
 decryptions
 deplumated
@@ -9636,7 +9637,6 @@ dihedron
 dihely
 dihelios
 dihelium
-dihexahedral
 dihexahedron
 dolichuric
 dilater
