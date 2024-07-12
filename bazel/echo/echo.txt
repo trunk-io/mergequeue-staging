@@ -8034,7 +8034,6 @@ epionychia
 epionychium
 epiopticon
 epiotic
-epipactis
 eriophorum
 epilator
 extinguishable
@@ -13295,6 +13294,7 @@ exporter
 exporters
 entireties
 exporting
+epipactis
 exports
 easier
 ethonomic
