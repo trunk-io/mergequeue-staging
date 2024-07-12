@@ -5011,6 +5011,7 @@ beetles
 bubal
 beetlestock
 beetlestone
+burrower
 beetleweed
 beetlike
 beetling
@@ -17864,7 +17865,6 @@ burrow
 burrowed
 burroweed
 barleycorn
-burrower
 bodyshirt
 burrowing
 burrows
