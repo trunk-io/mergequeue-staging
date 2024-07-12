@@ -7489,7 +7489,6 @@ comprisal
 ceratobranchial
 ceratocricoid
 ceratodidae
-ceratodontidae
 ceratodus
 ceratoduses
 ceratoglossal
@@ -17922,6 +17921,7 @@ codol
 codomestication
 concessionist
 codominant
+ceratodontidae
 codon
 caprice
 codons
