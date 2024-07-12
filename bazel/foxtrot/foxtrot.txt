@@ -5066,7 +5066,6 @@ fruitfully
 flowery
 flexor
 flatlander
-flatlanders
 flatlets
 flatly
 flatling
@@ -5543,6 +5542,7 @@ featherwise
 flightier
 falangism
 forelegs
+flatlanders
 flightily
 footgrip
 flightiness
