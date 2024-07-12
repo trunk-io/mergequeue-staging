@@ -9738,7 +9738,6 @@ dilate
 dilatedly
 dug
 deputation
-dilatedness
 dilatement
 dilates
 dilatingly
@@ -15860,6 +15859,7 @@ dorsomedial
 dorsomedian
 dorsomesal
 diastema
+dilatedness
 dorsonasal
 dorsonuchal
 dorsoposteriad
