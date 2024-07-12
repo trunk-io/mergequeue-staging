@@ -4126,7 +4126,6 @@ empiecement
 edgrow
 empyemas
 empyemata
-empyemic
 empierce
 empiercement
 evolution
@@ -10297,6 +10296,7 @@ editorializing
 etherification
 etherified
 etherifies
+empyemic
 ectromelian
 electroharmonic
 engrege
