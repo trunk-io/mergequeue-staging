@@ -3074,6 +3074,7 @@ fichteanism
 fettler
 fichus
 faubourg
+frontwise
 fedora
 ficiform
 fiddley
@@ -10602,7 +10603,6 @@ fructose
 fiches
 fructuarius
 floralia
-frontwise
 fructuose
 fructuosity
 fructuous

@@ -9284,7 +9284,6 @@ chastiment
 chastisable
 chastise
 creepers
-chastised
 clarissimo
 coxopodite
 chastiser
@@ -18470,6 +18469,7 @@ cohanims
 coharmonious
 coharmonize
 cohead
+chastised
 coheading
 coheads
 cheeser
