@@ -2183,7 +2183,6 @@ deceitfully
 doomer
 divergently
 deceitfulness
-deceivability
 deceivableness
 deceivably
 deceivance
@@ -13260,6 +13259,7 @@ dispreading
 dispreads
 disprejudice
 disprepare
+deceivability
 defraying
 disprison
 disprivacied
