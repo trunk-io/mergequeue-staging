@@ -1495,7 +1495,6 @@ gravest
 garous
 garpikes
 garret
-garreteer
 ganoidian
 giinwale
 garridge
@@ -2894,6 +2893,7 @@ garotters
 gerasene
 gondolet
 genteelism
+garreteer
 gushing
 grouse
 galactophthysis
