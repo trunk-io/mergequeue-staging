@@ -2156,7 +2156,6 @@ feltness
 fever
 felts
 felwort
-fem
 females
 femalist
 furciform
@@ -3062,6 +3061,7 @@ fomento
 fibulare
 ficaries
 freighted
+fem
 forecasts
 fice
 ficelle
