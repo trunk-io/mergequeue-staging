@@ -1967,7 +1967,6 @@ glossotype
 glycogenic
 gaufrette
 glyptologist
-gaugeable
 garnishing
 gauged
 gauges
@@ -5736,6 +5735,7 @@ galravitch
 guapena
 globins
 gluttony
+gaugeable
 gastrea
 galusha
 glaucolite
