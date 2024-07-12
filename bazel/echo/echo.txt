@@ -2259,7 +2259,6 @@ electioneering
 electioneers
 elective
 electives
-electivism
 electo
 extracalendar
 elector
@@ -4386,6 +4385,7 @@ enamdar
 enamel
 enamelers
 enamelist
+electivism
 equiped
 egocentristic
 enameller
