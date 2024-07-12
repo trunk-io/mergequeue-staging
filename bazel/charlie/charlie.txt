@@ -20001,7 +20001,6 @@ commandant
 commandants
 commanded
 caught
-commandedness
 commandeer
 commandeered
 commandeering
@@ -30539,6 +30538,7 @@ cuckoldry
 cuckolds
 circuitously
 cuckooed
+commandedness
 cuckooflower
 cuckooing
 complementers
