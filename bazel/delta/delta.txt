@@ -1605,7 +1605,6 @@ dealcoholization
 dealcoholize
 dealerdom
 dealership
-dealerships
 dealfish
 dealing
 dealings
@@ -14515,6 +14514,7 @@ dewberries
 divisively
 divisiveness
 depleting
+dealerships
 divisor
 divisory
 divisorial
