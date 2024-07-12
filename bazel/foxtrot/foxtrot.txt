@@ -4235,7 +4235,6 @@ firmisternial
 fezzy
 frivoller
 fingerstall
-facebar
 firmity
 firmitude
 firmness
@@ -10452,6 +10451,7 @@ froppish
 fontlet
 fully
 froren
+facebar
 frosh
 foregoer
 frostation
