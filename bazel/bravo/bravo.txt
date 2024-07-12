@@ -9813,7 +9813,6 @@ bisubstituted
 bisulc
 bisulcate
 blowline
-bisulfate
 brandywine
 bisulfid
 bisulfide
@@ -16984,6 +16983,7 @@ bridges
 bulginess
 bulging
 bulgur
+bisulfate
 bulgurs
 bulies
 bulimy
