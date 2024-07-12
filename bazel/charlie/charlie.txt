@@ -19307,7 +19307,6 @@ colocentesis
 colocephali
 colocephalous
 colocynth
-colocynthin
 coloclysis
 colocola
 colocolic
@@ -23576,6 +23575,7 @@ continuancy
 continuando
 continuantly
 continuately
+colocynthin
 continuateness
 continuation
 continuations
