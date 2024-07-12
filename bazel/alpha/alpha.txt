@@ -14692,7 +14692,6 @@ anthropometer
 anthropometry
 anthropometric
 anthropometrical
-anthropometrically
 anthropomophitism
 anthropomorph
 anthropomorpha
@@ -21713,6 +21712,7 @@ assessor
 assessory
 assessorial
 assessors
+anthropometrically
 asset
 assever
 annabel
