@@ -11444,7 +11444,6 @@ east
 ethnarch
 endotracheal
 evenhand
-evenhanded
 evenhandedly
 evenhandedness
 evenhead
@@ -12394,6 +12393,7 @@ eonisms
 exequatur
 exequial
 egre
+evenhanded
 evg
 endorsed
 exerce
