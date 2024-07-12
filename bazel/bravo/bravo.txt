@@ -2672,7 +2672,6 @@ barytas
 brigadier
 baryte
 baritenor
-barites
 barythymia
 barytic
 barytine
@@ -9472,6 +9471,7 @@ birdwitted
 birdwoman
 byre
 birectangular
+barites
 birefraction
 birefractive
 birefringence
