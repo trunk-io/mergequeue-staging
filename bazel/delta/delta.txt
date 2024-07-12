@@ -7066,7 +7066,6 @@ dissyllabized
 destruct
 destructible
 destructibleness
-destructing
 destruction
 destructionist
 destructions
@@ -16454,6 +16453,7 @@ doxological
 doxologically
 doxologies
 damasking
+destructing
 downheartedness
 doxologize
 doz

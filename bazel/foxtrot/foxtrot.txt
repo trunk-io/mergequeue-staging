@@ -480,7 +480,6 @@ falcate
 fracted
 frescoist
 funestal
-fervors
 falces
 falchion
 featherers
@@ -5830,6 +5829,7 @@ floey
 flavorers
 floerkea
 flayed
+fervors
 fermis
 floes
 flog
