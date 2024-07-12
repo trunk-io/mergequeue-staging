@@ -2018,7 +2018,6 @@ gaunter
 gauntest
 grimaces
 gaunty
-gauntleted
 gauntleting
 gauntlets
 gauntness
@@ -9952,6 +9951,7 @@ guards
 guardsman
 guarea
 guarico
+gauntleted
 garancine
 guarish
 guarneri
