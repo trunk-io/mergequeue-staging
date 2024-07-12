@@ -499,7 +499,6 @@ falconlike
 frillies
 folium
 frizer
-forpined
 falcons
 falcopern
 festination
@@ -6090,6 +6089,7 @@ flotsam
 flotsams
 froust
 flotsan
+forpined
 folio
 foaling
 flotson
