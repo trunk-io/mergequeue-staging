@@ -2260,6 +2260,7 @@ cancelation
 canceler
 copperization
 cancelers
+commissariat
 capping
 cancelier
 canceling
@@ -20194,7 +20195,6 @@ commiseratively
 commiserator
 commissar
 commissary
-commissariat
 ceratopteridaceous
 commissariats
 commissaries
