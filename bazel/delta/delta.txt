@@ -5207,7 +5207,6 @@ denormalized
 denotable
 denotate
 denotation
-denotational
 denotationally
 denotative
 denotativeness
@@ -12241,6 +12240,7 @@ disglory
 disglut
 deathling
 disquieting
+denotational
 dysgnosia
 dysgonic
 disgood

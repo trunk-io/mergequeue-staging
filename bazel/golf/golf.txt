@@ -7157,7 +7157,6 @@ gigartinaceae
 goosery
 gooserumped
 gooses
-gooseskin
 goosetongue
 gooseweed
 goosewing
@@ -10442,6 +10441,7 @@ greenbacker
 gyroidal
 gump
 gumption
+gooseskin
 gumptionless
 gumptions
 gibbon
