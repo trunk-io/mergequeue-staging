@@ -3165,7 +3165,6 @@ fiddles
 flauntily
 fiddlestick
 fiddlesticks
-foreallot
 fubbery
 ferulaic
 flimflamming
@@ -5615,6 +5614,7 @@ focalise
 findable
 forepaws
 frayn
+foreallot
 flypaper
 ferns
 fixedly
