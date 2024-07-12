@@ -3874,6 +3874,7 @@ forblow
 fallows
 finew
 finewed
+fluxer
 finfish
 finfishes
 finfoots
@@ -8206,7 +8207,6 @@ forgers
 forges
 furiosity
 forget
-fluxer
 fianna
 forgetful
 fraps
