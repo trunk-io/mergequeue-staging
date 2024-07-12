@@ -7404,7 +7404,6 @@ detrited
 detrition
 detritivorous
 deathbed
-detrivorous
 dronkgrass
 detroiter
 dux
@@ -7669,6 +7668,7 @@ devilman
 devilment
 devilments
 devilmonger
+detrivorous
 devolatilize
 devilry
 dyce
