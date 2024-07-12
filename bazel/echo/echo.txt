@@ -2118,7 +2118,6 @@ elapidae
 enunciating
 elapine
 extortionate
-elapoid
 exteriorate
 exemplifying
 esophagal
@@ -6766,6 +6765,7 @@ enthymematical
 enthymeme
 exterminist
 enthral
+elapoid
 emmanuel
 enthralldom
 eveners
