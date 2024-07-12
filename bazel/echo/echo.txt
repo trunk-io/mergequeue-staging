@@ -4908,7 +4908,6 @@ embolden
 encrust
 encrustant
 engenders
-encrustation
 encrusted
 etch
 encrusting
@@ -12775,6 +12774,7 @@ exorbitance
 exorbitancy
 exorbitant
 ensignhood
+encrustation
 exorbitation
 exorcisation
 exorcise
