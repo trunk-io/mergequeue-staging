@@ -6759,7 +6759,6 @@ cellated
 cellblock
 cellblocks
 centennium
-cellepora
 cellepore
 cellfalcicula
 celli
@@ -11453,6 +11452,7 @@ chlorozincate
 chlorpheniramine
 congresswomen
 chlorphenol
+cellepora
 chlorpicrin
 chlorpromazine
 chlorpropamide

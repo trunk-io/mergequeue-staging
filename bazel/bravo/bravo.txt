@@ -1300,6 +1300,7 @@ balanced
 balancedness
 balancelle
 balancers
+bromoform
 bakerdom
 balandra
 balandrana
@@ -4074,7 +4075,6 @@ beanbags
 beanball
 brutalitarian
 beanballs
-bromoform
 beaned
 beaner
 beaneries
