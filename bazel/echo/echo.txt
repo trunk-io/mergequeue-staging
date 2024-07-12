@@ -11281,7 +11281,6 @@ excreted
 ectoderms
 eutrophies
 euxanthate
-euxanthic
 euxanthin
 euxanthone
 euxenite
@@ -12733,6 +12732,7 @@ evangelion
 exoneration
 exonerative
 exonerator
+euxanthic
 exonerators
 empaled
 exoneretur
