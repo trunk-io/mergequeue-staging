@@ -1809,7 +1809,6 @@ barytone
 baluchitheria
 benty
 baluchitherium
-balun
 balunda
 balushai
 balusters
@@ -8360,6 +8359,7 @@ biggins
 biggish
 biggishness
 biggity
+balun
 bigha
 bighead
 bigheaded
