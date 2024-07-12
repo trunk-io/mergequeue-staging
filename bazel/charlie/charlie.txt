@@ -3991,6 +3991,7 @@ cardinalities
 comers
 cardines
 cyrenian
+cocircularity
 crocky
 cardioaccelerator
 cardioarterial
@@ -17704,7 +17705,6 @@ cylindrelloid
 cocineras
 cocinero
 cocircular
-cocircularity
 canham
 cocitizenship
 cocytus
