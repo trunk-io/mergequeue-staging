@@ -2405,6 +2405,7 @@ gelation
 greaves
 gablewindowed
 gelations
+gestureless
 guzzled
 geldable
 geldant
@@ -3683,7 +3684,6 @@ gillot
 gesture
 gotchy
 gratinated
-gestureless
 gesturer
 grimmiaceae
 gesturers
