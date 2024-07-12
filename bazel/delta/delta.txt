@@ -1320,7 +1320,6 @@ dauke
 daukin
 daulias
 dault
-daunch
 dauncy
 doxantha
 dunniewassel
@@ -6181,6 +6180,7 @@ derivability
 derivable
 derivably
 derival
+daunch
 duellers
 deoxyribonuclease
 docetically
