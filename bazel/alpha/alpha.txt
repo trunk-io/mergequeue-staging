@@ -22453,6 +22453,7 @@ atavisms
 aumbry
 atavistic
 aseptic
+attackable
 ablatives
 atavistically
 atavists
@@ -22959,7 +22960,6 @@ aerophilic
 advocated
 arterialisation
 assembling
-attackable
 attacked
 attacker
 argonauta
