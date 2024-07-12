@@ -8895,7 +8895,6 @@ allochezia
 allophylus
 allochiral
 allochiria
-allochlorophyll
 allochroic
 allochroite
 allochromatic
@@ -14974,6 +14973,7 @@ anticentralism
 anticentralist
 anticentralization
 astrogony
+allochlorophyll
 anticephalalgic
 anticeremonial
 alcoholically
