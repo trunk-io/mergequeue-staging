@@ -2627,7 +2627,6 @@ acned
 ambition
 acneiform
 ascribed
-acnemia
 acnes
 acnida
 acnodal
@@ -2710,6 +2709,7 @@ acor
 acorea
 acoria
 acorned
+acnemia
 amritas
 acorns
 acosmic
