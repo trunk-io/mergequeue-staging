@@ -6211,7 +6211,6 @@ graphologies
 guaniferous
 gluon
 glusid
-graecize
 gluside
 geometricize
 guttulae
@@ -10121,6 +10120,7 @@ gossampine
 gladfulness
 guggle
 gharnao
+graecize
 glossarially
 gugglet
 gimirrai
