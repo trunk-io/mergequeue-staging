@@ -2262,6 +2262,7 @@ cancelers
 commissariat
 capping
 cancelier
+colopuncture
 canceling
 cancellability
 cancellable
@@ -19420,7 +19421,6 @@ chrimsel
 cowhouse
 crabs
 coloptosis
-colopuncture
 coloquintid
 color
 colorability

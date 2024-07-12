@@ -5878,6 +5878,7 @@ deprecated
 demythologise
 deprecates
 deprecating
+dertrotheca
 deprecation
 deprecations
 disconcert
@@ -10011,7 +10012,6 @@ dimoric
 dimorph
 dimorphism
 dimorphisms
-dertrotheca
 dispeaceful
 dimorphotheca
 dimorphous
