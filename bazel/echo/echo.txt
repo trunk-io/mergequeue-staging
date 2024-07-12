@@ -2509,7 +2509,6 @@ electromyographic
 electromyographical
 eunuchoid
 electromobile
-electromotion
 electromotive
 embue
 electromotivity
@@ -12553,6 +12552,7 @@ exequy
 elachista
 endomysial
 erewhile
+electromotion
 energeticist
 equisetums
 excursion
