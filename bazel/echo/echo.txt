@@ -10956,7 +10956,6 @@ epimerised
 endarteria
 eupatory
 eupatorin
-eupatorine
 eupatorium
 enoint
 eupatrid
@@ -12825,6 +12824,7 @@ eventualize
 exosmic
 enterocolostomy
 empty
+eupatorine
 exosmotic
 enamines
 exosperm
