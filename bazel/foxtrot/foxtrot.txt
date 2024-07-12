@@ -4288,6 +4288,7 @@ fishability
 fishable
 friezing
 fishback
+florimania
 forded
 fistulatous
 flatware
@@ -7185,7 +7186,6 @@ fricandeau
 fellatios
 footraces
 footrail
-florimania
 fibrilation
 fictitiously
 footrope
