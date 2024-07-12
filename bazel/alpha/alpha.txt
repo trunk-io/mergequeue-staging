@@ -6665,7 +6665,6 @@ agent
 agsam
 aerophilatelist
 agst
-aeroneurosis
 agt
 agtbasic
 agua
@@ -18929,6 +18928,7 @@ archhost
 archhouse
 archhumbug
 attars
+aeroneurosis
 avolate
 archy
 archibald
