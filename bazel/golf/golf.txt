@@ -1160,7 +1160,6 @@ gyrocompass
 gangplanks
 gelatia
 gangplow
-gastrodisc
 gangrenate
 gangrene
 gangrenes
@@ -2984,6 +2983,7 @@ gentrification
 gents
 gokuraku
 genu
+gastrodisc
 genual
 genuflect
 genuflected
