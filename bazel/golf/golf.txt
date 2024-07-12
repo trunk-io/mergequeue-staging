@@ -6570,7 +6570,6 @@ generation
 goffered
 gnars
 goffle
-gog
 gisler
 gogga
 garibaldi
@@ -10635,6 +10634,7 @@ gurmukhi
 gurnard
 gigabits
 gurnards
+gog
 gurney
 gurnets
 gigmanism
