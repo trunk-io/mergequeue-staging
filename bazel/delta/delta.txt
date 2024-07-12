@@ -5404,7 +5404,6 @@ disauthentic
 dentololabial
 dentonasal
 dentosurgical
-disrate
 dentulous
 dentural
 disturbative
@@ -11082,6 +11081,7 @@ dipsosis
 disappeared
 determinably
 disappearer
+disrate
 disarticulated
 disappearing
 deedy
