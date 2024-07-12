@@ -344,6 +344,7 @@ backboned
 blossoming
 backbones
 bunnymouth
+behaviors
 bloomy
 blindworm
 backcap
@@ -5352,7 +5353,6 @@ behaviorally
 bathmotropism
 behaviorist
 behaviorists
-behaviors
 behavioural
 behenic
 brabbler
