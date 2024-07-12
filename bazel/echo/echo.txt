@@ -3208,7 +3208,6 @@ eranthis
 evocative
 esphresis
 elution
-elutriated
 elutriating
 elutriation
 elutriator
@@ -9334,6 +9333,7 @@ errantries
 errants
 erratas
 encephalometric
+elutriated
 erratic
 emptysis
 elsewhither

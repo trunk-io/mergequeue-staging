@@ -7959,7 +7959,6 @@ alejandro
 alem
 alemana
 alemanni
-alemannian
 alemannic
 alemannish
 alembic
@@ -8025,6 +8024,7 @@ aletris
 alette
 aleucaemic
 augmentive
+alemannian
 aleucemic
 aleukaemic
 autoerotically
