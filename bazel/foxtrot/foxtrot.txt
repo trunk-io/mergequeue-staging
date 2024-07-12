@@ -3756,7 +3756,6 @@ fimbriatum
 ferrule
 favous
 fimbricate
-frettage
 fimbricated
 fimbrilla
 fimbrillae
@@ -6172,6 +6171,7 @@ fluxible
 flowerist
 flowerless
 frivolers
+frettage
 flowerlessness
 flowerlike
 flowerpot
