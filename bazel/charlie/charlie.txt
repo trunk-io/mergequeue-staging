@@ -1078,7 +1078,6 @@ calcioscheelite
 calciovolborthite
 clarity
 calciphylactic
-calciphylaxis
 calciphile
 calciphilic
 calciphobe
@@ -22592,6 +22591,7 @@ connascency
 connascent
 connate
 connately
+calciphylaxis
 connateness
 connation
 connatural
