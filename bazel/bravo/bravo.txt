@@ -1062,6 +1062,7 @@ bitterbush
 baikalite
 bloomed
 baikerinite
+bedquilt
 baikie
 bailable
 berrier
@@ -4759,7 +4760,6 @@ bedplates
 beancod
 bedpost
 bedposts
-bedquilt
 bedquilts
 bourree
 bluffing
