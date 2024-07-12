@@ -626,6 +626,7 @@ backwardly
 backwardness
 backwards
 backwash
+bookbinder
 bakeware
 brachydomatic
 bedrock
@@ -12648,7 +12649,6 @@ boohoos
 book
 bookable
 bookbind
-bookbinder
 bookbindery
 baianism
 bookbinderies
