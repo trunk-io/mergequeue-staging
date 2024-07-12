@@ -1060,7 +1060,6 @@ calcination
 cindery
 calcinatory
 calcine
-calcined
 cirsectomy
 calciner
 calcines
@@ -11108,6 +11107,7 @@ chiseling
 chiselled
 chiseller
 chisellers
+calcined
 chiselly
 chiselling
 chiselmouth
