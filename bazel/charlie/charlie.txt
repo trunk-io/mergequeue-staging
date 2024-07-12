@@ -4606,6 +4606,7 @@ conormal
 carpetbags
 courageously
 carpetbeater
+coagulator
 carpeted
 cfh
 chlamydospore
@@ -17209,7 +17210,6 @@ chartering
 communicableness
 coagulative
 chicaneries
-coagulator
 coagulatory
 coagulators
 coagule
