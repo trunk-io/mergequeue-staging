@@ -7567,7 +7567,6 @@ devastators
 devaster
 devata
 devaul
-devaunt
 devchar
 degaussed
 devein
@@ -15273,6 +15272,7 @@ dolomitize
 dolomitized
 devonport
 dolomization
+devaunt
 dolomize
 dolor
 dolores
