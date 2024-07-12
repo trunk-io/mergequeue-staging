@@ -4122,7 +4122,6 @@ emphraxis
 empididae
 epinicion
 empiecement
-edgrow
 empyemas
 empyemata
 empyemic
@@ -11317,6 +11316,7 @@ endangitis
 enfranchise
 evaluate
 evaluates
+edgrow
 evaluation
 evaluations
 enormous
