@@ -1035,6 +1035,7 @@ baybolt
 baycuru
 baraca
 baidar
+barbascoes
 baidarka
 baidarkas
 baidya
@@ -2349,7 +2350,6 @@ barbarous
 barbarously
 barbarousness
 barbasco
-barbascoes
 bedsheets
 barbascos
 barbastel
