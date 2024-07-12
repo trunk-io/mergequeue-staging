@@ -6489,7 +6489,6 @@ agra
 agrace
 ahold
 agrafe
-appoints
 anticlimactical
 agrafes
 agraffe
@@ -21671,6 +21670,7 @@ assentor
 assents
 asseour
 assert
+appoints
 asserta
 assertable
 assertative
