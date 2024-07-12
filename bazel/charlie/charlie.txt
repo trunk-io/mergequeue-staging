@@ -485,7 +485,6 @@ cades
 cadesse
 clappering
 ceremoniary
-cadet
 cadets
 cadetship
 cadette
@@ -20741,6 +20740,7 @@ completeness
 croftland
 completer
 completers
+cadet
 censureless
 completest
 completing
