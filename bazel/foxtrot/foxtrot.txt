@@ -7774,7 +7774,6 @@ foremention
 foremilk
 foremilks
 foremind
-foremost
 foremostly
 farse
 foremother
@@ -10045,6 +10044,7 @@ frigorify
 footrest
 flacourtia
 fusinite
+foremost
 fibrillating
 fashed
 freemen
