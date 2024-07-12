@@ -2159,7 +2159,6 @@ bel
 banned
 banner
 bottlehead
-bannerer
 bivinyl
 bannerets
 backachy
@@ -5850,6 +5849,7 @@ belonephobia
 belonging
 belongings
 belongs
+bannerer
 backpacking
 belonid
 burdigalian
