@@ -3823,6 +3823,7 @@ emender
 emendicate
 excluded
 embowl
+erratums
 expansometer
 exurbia
 electrowinning
@@ -9344,7 +9345,6 @@ erraticism
 excessive
 erratics
 erratum
-erratums
 eccentring
 estral
 erratuta
