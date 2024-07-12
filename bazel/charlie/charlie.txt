@@ -6878,7 +6878,6 @@ celts
 celtuce
 celure
 cembali
-cembalist
 cembalon
 cembalos
 cement
@@ -12057,6 +12056,7 @@ choriphyllous
 chorisepalous
 chorisis
 candles
+cembalist
 curarized
 convection
 chorism
