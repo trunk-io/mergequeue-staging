@@ -5175,6 +5175,7 @@ endocrinopathy
 endocrinopathic
 electrolysis
 endocrinous
+encephaloma
 endocritic
 endoderm
 escheat
@@ -7195,7 +7196,6 @@ equibalance
 extime
 environ
 environage
-encephaloma
 environal
 exhibition
 extenuations
