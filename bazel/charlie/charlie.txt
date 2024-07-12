@@ -19449,7 +19449,6 @@ colorcasts
 colorectostomy
 colored
 coloreds
-colorer
 colorers
 colorfastness
 colorful
@@ -21478,6 +21477,7 @@ carcinomorphic
 concludible
 concluding
 conclusible
+colorer
 conclusion
 conclusional
 conclusionally
