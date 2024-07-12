@@ -1618,7 +1618,6 @@ ballismus
 ballista
 bigoted
 ballistae
-begrims
 bijous
 ballistician
 ballisticians
@@ -12740,6 +12739,7 @@ bedcover
 bookstore
 bollixing
 bookways
+begrims
 bookward
 bookwards
 bookwork

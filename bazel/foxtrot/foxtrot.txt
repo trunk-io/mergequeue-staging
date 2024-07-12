@@ -8708,7 +8708,6 @@ fortuneless
 factoress
 firebreak
 fortunes
-forerun
 fortuneteller
 flatfootedness
 fluvialist
@@ -9734,6 +9733,7 @@ freightyard
 freightment
 flocculent
 foreorlop
+forerun
 freights
 familyish
 freinage
