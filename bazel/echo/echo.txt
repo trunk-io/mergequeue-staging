@@ -104,7 +104,6 @@ eprosy
 earmark
 earmarked
 earmarkings
-earmarks
 epitheliosis
 earmindedness
 epithelioblastoma
@@ -10674,6 +10673,7 @@ enweb
 earlier
 eucarpous
 eucatropine
+earmarks
 eucgia
 eucharis
 eucharises
