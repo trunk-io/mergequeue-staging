@@ -9332,7 +9332,6 @@ clepsydra
 chattanoogan
 chattation
 cheeriness
-chatted
 chattel
 chattelhood
 chattelism
@@ -22692,6 +22691,7 @@ conodont
 conodonts
 conoy
 conoid
+chatted
 conoidal
 conoidally
 comically
