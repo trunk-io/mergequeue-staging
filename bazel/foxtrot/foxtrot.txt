@@ -2319,7 +2319,6 @@ fetlow
 feoffor
 feoffs
 fer
-feracious
 feracities
 fieldstrip
 feralin
@@ -7259,6 +7258,7 @@ fawnery
 foppy
 fopping
 fops
+feracious
 for
 ferr
 flypast
