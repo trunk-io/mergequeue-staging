@@ -2999,7 +2999,6 @@ fairwater
 fibrocyte
 fibrocytic
 fibrocrystalline
-fibroelastic
 fibroferrite
 fibroglioma
 frying
@@ -4233,6 +4232,7 @@ firmity
 firmitude
 firmness
 firms
+fibroelastic
 firn
 ferity
 furrier
