@@ -453,7 +453,6 @@ galeodidae
 gareh
 galeoid
 gofferer
-galeorchis
 goner
 galeorhinidae
 galeorhinus
@@ -2661,6 +2660,7 @@ generally
 generalness
 generals
 generalships
+galeorchis
 generalty
 gooroo
 generant
