@@ -8804,6 +8804,7 @@ guile
 grego
 gregor
 gregorian
+glutose
 glassless
 granolite
 greyback
@@ -9416,7 +9417,6 @@ galopades
 grouchier
 grouchiest
 gradation
-glutose
 grundyist
 glyoxyl
 geochronology
