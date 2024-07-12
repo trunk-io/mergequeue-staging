@@ -2778,7 +2778,6 @@ fetterbush
 fettered
 flagellist
 fettering
-fetterlock
 fetters
 fetticus
 fettled
@@ -6774,6 +6773,7 @@ flenses
 foiblesse
 foyboat
 foyer
+fetterlock
 foyers
 foil
 foiling
