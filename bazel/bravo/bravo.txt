@@ -6027,6 +6027,7 @@ bemuffle
 backsite
 bemurmure
 bemurmured
+bastardise
 bemurmuring
 bulbomembranous
 bemurmurs
@@ -7940,7 +7941,6 @@ bibliotist
 biblism
 biblists
 biblos
-bastardise
 biborate
 bibracteolate
 bibs

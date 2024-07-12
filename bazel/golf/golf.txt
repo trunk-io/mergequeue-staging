@@ -799,7 +799,6 @@ gentilish
 galvanologist
 goldylocks
 gradations
-galvanomagnetic
 galvanometer
 guary
 galvanoplasty
@@ -5032,6 +5031,7 @@ glacialism
 glaucophane
 glacialist
 gurkha
+galvanomagnetic
 goldstone
 gloomless
 gideon
