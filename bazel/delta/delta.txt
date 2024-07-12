@@ -3537,7 +3537,6 @@ debacles
 demipriest
 degasification
 dustbin
-degass
 degassed
 degassers
 degasses
@@ -11503,6 +11502,7 @@ discomfiting
 discomfiture
 discomfort
 discomfortable
+degass
 disload
 discomforter
 discomfortingly
