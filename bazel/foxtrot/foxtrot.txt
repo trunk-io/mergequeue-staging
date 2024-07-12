@@ -3972,7 +3972,6 @@ finishing
 finitesimal
 frab
 finitism
-finitude
 fink
 finked
 frigidities
@@ -6297,6 +6296,7 @@ fluidize
 fluidized
 followup
 flotations
+finitude
 fileted
 fluidmeter
 familiary
