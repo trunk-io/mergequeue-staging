@@ -3971,7 +3971,6 @@ finitesimal
 frab
 finitism
 finitude
-finitudes
 fink
 finked
 frigidities
@@ -11442,6 +11441,7 @@ furnishable
 foggages
 fascines
 foregather
+finitudes
 frondesced
 furnished
 furnishes
