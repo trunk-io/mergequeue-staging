@@ -6650,7 +6650,6 @@ goldenback
 goldeney
 goldeneye
 goldeneyes
-goldener
 goldenhair
 granitiform
 goldenknop
@@ -10327,6 +10326,7 @@ grat
 gulfy
 gulfier
 gulfing
+goldener
 gulflike
 gulfwards
 globigerinas
