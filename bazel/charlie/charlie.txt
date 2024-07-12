@@ -7837,7 +7837,6 @@ ceruse
 ceruses
 cerusite
 cerusites
-cerussite
 cervalet
 cervantes
 cervantist
@@ -15218,6 +15217,7 @@ cixo
 cizar
 cize
 ck
+cerussite
 ckw
 cl
 countergabion
