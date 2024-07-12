@@ -3742,6 +3742,7 @@ batter
 batterdock
 bombard
 battered
+bedfellowship
 batterer
 battery
 batterie
@@ -8495,7 +8496,6 @@ bilged
 bootjack
 bilgeway
 bilgier
-bedfellowship
 bilgiest
 bilging
 bilharziasis
