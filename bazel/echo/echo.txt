@@ -6961,7 +6961,6 @@ entosthoblast
 entothorax
 entotic
 entotympanic
-equiaxial
 entotrophi
 entourage
 entourages
@@ -7831,6 +7830,7 @@ epigenesist
 effigurate
 epigenetic
 epigenic
+equiaxial
 ensilation
 embryologist
 epigenous
