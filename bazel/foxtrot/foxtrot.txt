@@ -6045,7 +6045,6 @@ florula
 florulae
 flinder
 floscular
-fleeceable
 fitchered
 floscularia
 floscularian
@@ -7538,6 +7537,7 @@ flagger
 fc
 foreconsider
 fazendas
+fleeceable
 forecount
 forecourt
 forecourts
