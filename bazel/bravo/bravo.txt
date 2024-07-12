@@ -2513,7 +2513,6 @@ bassette
 bunns
 bazookas
 bardolater
-bardolatry
 blindman
 buffooneries
 bardolphian
@@ -5910,6 +5909,7 @@ beltmaker
 beltmaking
 binervate
 beltway
+bardolatry
 baulky
 belucki
 belue
