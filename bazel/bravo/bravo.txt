@@ -1965,7 +1965,6 @@ bandicoots
 bandido
 bargello
 bandie
-bandying
 bandikai
 banding
 butterers
@@ -17485,6 +17484,7 @@ buoyantly
 balancing
 baggages
 breakbones
+bandying
 buoyantness
 bratticing
 brigandism
