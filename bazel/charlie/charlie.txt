@@ -4578,7 +4578,6 @@ chide
 carbolated
 carpellate
 carpellum
-carpels
 cytinaceous
 carpent
 carpentered
@@ -28772,6 +28771,7 @@ crepuscule
 crepusculum
 canzonets
 cres
+carpels
 cresc
 cicrumspections
 crescence

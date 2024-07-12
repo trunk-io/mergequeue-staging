@@ -228,6 +228,7 @@ abbotships
 asperated
 abbr
 abbrev
+aper
 abbreviatable
 abbreviate
 anthropobiologist
@@ -16778,7 +16779,6 @@ apepsy
 abernethy
 apepsinia
 apeptic
-aper
 arean
 apercus
 acetiam
