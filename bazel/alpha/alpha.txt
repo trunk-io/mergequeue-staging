@@ -5876,7 +5876,6 @@ agalactic
 agalawood
 agalaxy
 agalaxia
-automatograph
 agalenidae
 agalite
 agalloch
@@ -20015,6 +20014,7 @@ armonica
 armor
 armorbearer
 armored
+automatograph
 armorer
 armorers
 armorial
