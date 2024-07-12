@@ -8854,7 +8854,6 @@ chapiters
 chapitle
 chaplain
 chaplaincy
-chaplains
 chaplainship
 chaplanry
 chapless
@@ -22599,6 +22598,7 @@ connateness
 connation
 connatural
 connaturality
+chaplains
 chinbone
 cryptographically
 connaturally
