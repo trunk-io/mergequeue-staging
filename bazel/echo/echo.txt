@@ -3583,7 +3583,6 @@ embossments
 embost
 enterozoa
 exembryonate
-embouchement
 embouchment
 evangelism
 eccl
@@ -11714,6 +11713,7 @@ eweries
 eruditely
 ewes
 ewest
+embouchement
 ewound
 ewry
 excur
