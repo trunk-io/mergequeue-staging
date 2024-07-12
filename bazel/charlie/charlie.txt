@@ -12574,7 +12574,6 @@ chromolysis
 cannat
 chromolithic
 concanavalin
-chromolithograph
 chromolithographer
 chromolithography
 coonjine
@@ -21366,6 +21365,7 @@ conchinin
 chigoe
 conchinine
 conchiolin
+chromolithograph
 caerphilly
 conchite
 conchitic
