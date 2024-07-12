@@ -7004,6 +7004,7 @@ formly
 ferryage
 fondness
 foochow
+fosh
 frequentation
 forecontrive
 factitude
@@ -8761,7 +8762,6 @@ forz
 forzando
 forzandos
 forzato
-fosh
 fosie
 fosite
 freckleproof
