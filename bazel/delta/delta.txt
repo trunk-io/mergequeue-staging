@@ -584,7 +584,6 @@ damascening
 doormat
 damascus
 damask
-damasked
 demophobe
 damaskeening
 damaskin
@@ -17455,6 +17454,7 @@ droughtiest
 droughtiness
 droughts
 displeasingness
+damasked
 drygoodsman
 droukan
 drouked
