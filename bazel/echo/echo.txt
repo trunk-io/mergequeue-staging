@@ -9723,6 +9723,7 @@ explida
 endorsor
 enteromycosis
 esophagotome
+extracivic
 esophoria
 esopus
 exendospermous
@@ -13775,7 +13776,6 @@ extracellular
 extracerebral
 examines
 extrachromosomal
-extracivic
 extracivically
 extraclassroom
 extraclaustral
