@@ -7605,6 +7605,7 @@ expurgations
 equitation
 epicele
 epicene
+extraembryonic
 epicenism
 epicenity
 epicenter
@@ -13837,7 +13838,6 @@ extradural
 extraembryonal
 exams
 eltime
-extraembryonic
 extraenteric
 extraequilibrium
 extraessential
