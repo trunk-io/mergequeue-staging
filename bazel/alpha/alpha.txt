@@ -6096,7 +6096,6 @@ ageusia
 ageusic
 antesternal
 animadvert
-ageustia
 aggadic
 aggelation
 aggenerate
@@ -15038,6 +15037,7 @@ anticipant
 anticipatable
 anticipated
 anticipates
+ageustia
 algicide
 anticipating
 anticipatingly
