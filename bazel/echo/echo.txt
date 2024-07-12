@@ -2539,6 +2539,7 @@ equanimity
 emptory
 electroosmosis
 electroosmotic
+enterotomy
 expiatoriness
 electropathy
 electropathic
@@ -6695,7 +6696,6 @@ extravert
 enterostomy
 enterostomies
 enterotome
-enterotomy
 enterotoxemia
 enterotoxication
 essence
