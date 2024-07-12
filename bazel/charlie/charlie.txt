@@ -4005,7 +4005,6 @@ corduroying
 cardiodilator
 cardiodynamics
 cardiodynia
-cardiodysesthesia
 cardiodysneuria
 cardiogenesis
 cardiogenic
@@ -8565,6 +8564,7 @@ champaks
 champart
 champe
 champed
+cardiodysesthesia
 champer
 champerator
 champers
