@@ -2946,7 +2946,6 @@ deduction
 deductively
 deduit
 deduplication
-dee
 deecodder
 deed
 disliken
@@ -16293,6 +16292,7 @@ distaff
 downcasts
 downcome
 downcomes
+dee
 downcoming
 downcourt
 deediest
