@@ -357,6 +357,7 @@ bulls
 backcomb
 backcourt
 backcourtman
+betrap
 biorhythmicities
 backdate
 backdated
@@ -7419,7 +7420,6 @@ betrayment
 betoss
 betrays
 betraise
-betrap
 betread
 bassoonists
 betrend
