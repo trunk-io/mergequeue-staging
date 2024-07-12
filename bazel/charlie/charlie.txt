@@ -7881,7 +7881,6 @@ cervicothoracic
 cervicovesical
 cervid
 cervidae
-cervinae
 cervine
 comme
 cervisia
@@ -15366,6 +15365,7 @@ capsidal
 contortedness
 claiver
 clayware
+cervinae
 claywares
 clayweed
 contraindicated
