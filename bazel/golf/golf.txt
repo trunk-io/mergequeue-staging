@@ -3077,6 +3077,7 @@ geodynamic
 geodynamical
 gout
 geodynamics
+gelidium
 gombroon
 geoducks
 geoemtry
@@ -5389,7 +5390,6 @@ gleeking
 gleeks
 gombeen
 glyphs
-gelidium
 gleen
 gte
 gleesome
