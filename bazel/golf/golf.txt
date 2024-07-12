@@ -4561,6 +4561,7 @@ ginmill
 gaonic
 gorce
 ginned
+goma
 ginney
 goldbricks
 grovelled
@@ -6763,7 +6764,6 @@ goloch
 goloe
 goloka
 golpe
-goma
 gomari
 gomarian
 gateworks
