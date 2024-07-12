@@ -13056,7 +13056,6 @@ cyanephidrosis
 cyanformate
 cyanformic
 cyanhydric
-cyanhydrin
 cyanhidrosis
 cyanicide
 cyanid
@@ -14048,6 +14047,7 @@ cynomys
 cynomolgus
 cynomoriaceae
 cynomoriaceous
+cyanhydrin
 cynomorium
 cynomorpha
 contraindicating
