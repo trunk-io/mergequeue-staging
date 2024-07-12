@@ -281,7 +281,6 @@ abdominally
 abdominals
 abdominoanterior
 abdominocardiac
-abdominocentesis
 aerogels
 abdominocystic
 abdominohysterectomy
@@ -12283,6 +12282,7 @@ acroasphyxia
 anchorages
 anchorate
 anchored
+abdominocentesis
 alouatta
 anchorer
 anchoress
