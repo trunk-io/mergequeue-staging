@@ -1180,7 +1180,6 @@ eddyroot
 edriophthalmatous
 edriophthalmian
 eds
-educabilia
 educability
 educable
 educand
@@ -6910,6 +6909,7 @@ excellently
 entombing
 entomologies
 entomologise
+educabilia
 engorge
 entomologised
 entomologist
