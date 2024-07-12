@@ -4573,7 +4573,6 @@ fixtureless
 fictively
 farming
 footslog
-fixup
 forwarding
 fixups
 fossilizing
@@ -11030,6 +11029,7 @@ fumiduct
 frondless
 fumiest
 fumify
+fixup
 fumigations
 fumigator
 fumigatories
