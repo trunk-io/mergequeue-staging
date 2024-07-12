@@ -22516,6 +22516,7 @@ anisospore
 anticrotalic
 atelomitic
 antiemetic
+autosign
 atelophobia
 atelopodia
 ateloprosopia
@@ -25278,7 +25279,6 @@ azogallein
 azogreen
 alalus
 azogrenadine
-autosign
 azohumic
 azoic
 azole
