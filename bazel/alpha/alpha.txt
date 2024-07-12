@@ -4145,7 +4145,6 @@ adm
 adman
 admarginate
 admass
-admeasure
 admeasured
 admeasurement
 admeasurer
@@ -21162,6 +21161,7 @@ ashen
 aethon
 asher
 asherah
+admeasure
 alectoriae
 ashery
 asherim
