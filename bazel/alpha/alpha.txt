@@ -8269,6 +8269,7 @@ algraphy
 alguacil
 alguazil
 alguifou
+authoring
 algum
 alhagi
 alhambra
@@ -23833,7 +23834,6 @@ authorhood
 allergen
 authorial
 authorially
-authoring
 authorisable
 annexer
 alpist
