@@ -2386,7 +2386,6 @@ achromatope
 achromatophil
 achromatophile
 achromatophilic
-achromatopia
 achromatopsia
 achromatosis
 arylation
@@ -5604,6 +5603,7 @@ afray
 aspirator
 afraid
 afraidness
+achromatopia
 afrasia
 afrasian
 antiphonically
