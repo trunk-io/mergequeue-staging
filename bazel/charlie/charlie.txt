@@ -20445,6 +20445,7 @@ cistae
 choosy
 compact
 compactability
+cotyledonoid
 compactable
 compacted
 compactedness
@@ -26404,7 +26405,6 @@ cotyledon
 cotyledonal
 cotyledonar
 cotyledonary
-cotyledonoid
 cotyledonous
 cotyledons
 cotyliform
