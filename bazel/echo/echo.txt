@@ -6241,7 +6241,6 @@ enqueued
 enqueues
 enquire
 enquired
-enquiries
 enrace
 enraged
 encourages
@@ -9542,6 +9541,7 @@ eschatologist
 electroencephalographical
 epistemology
 eschaunge
+enquiries
 embraces
 exploitations
 escheatage
