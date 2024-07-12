@@ -3992,7 +3992,6 @@ beadflush
 batik
 beccaccia
 beadhouse
-beady
 beadier
 beadiest
 beading
@@ -10969,6 +10968,7 @@ bricksetter
 blobby
 blobbier
 bricklay
+beady
 balsamical
 blobbiest
 besmirches
