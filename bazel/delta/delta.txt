@@ -4528,7 +4528,6 @@ demiflouncing
 demigardebras
 demigauntlet
 demigentleman
-demiglace
 dinornithoid
 demigorge
 diagnoses
@@ -5768,6 +5767,7 @@ desulphurizer
 damasks
 depolarize
 depolarized
+demiglace
 depolarizers
 depolarizes
 deathlike
