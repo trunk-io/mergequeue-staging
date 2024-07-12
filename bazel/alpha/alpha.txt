@@ -4865,6 +4865,7 @@ archiving
 aegrotat
 achromophilous
 aeipathy
+affliction
 alkyds
 antiaesthetic
 autotoxicity
@@ -10385,7 +10386,6 @@ amentia
 amentias
 amentiferous
 aments
-affliction
 amentula
 amentum
 amenuse

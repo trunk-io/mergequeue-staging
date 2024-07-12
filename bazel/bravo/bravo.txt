@@ -515,7 +515,6 @@ benzthiophen
 backslapping
 backslaps
 belinda
-barrier
 backchain
 blind
 backslash
@@ -10574,6 +10573,7 @@ blazes
 blazy
 bauhinias
 blazing
+barrier
 blazingly
 beaked
 blazon
