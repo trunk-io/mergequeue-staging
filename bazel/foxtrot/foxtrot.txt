@@ -4538,7 +4538,6 @@ forbiddingness
 fivebar
 fivefold
 fiveling
-fivepenny
 fierte
 fivepins
 fives
@@ -5439,6 +5438,7 @@ fleuronne
 fleuronnee
 flew
 flewed
+fivepenny
 flewit
 fasc
 flexed
