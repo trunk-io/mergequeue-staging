@@ -2433,7 +2433,6 @@ electrometrically
 endosarc
 electrography
 electrographic
-electrograving
 ectypography
 electrohemostasis
 electrohorticulture
@@ -13478,6 +13477,7 @@ eild
 erogeny
 eisegesis
 embolomeri
+electrograving
 exserting
 exsertion
 engages
