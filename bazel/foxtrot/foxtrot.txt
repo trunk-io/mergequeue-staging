@@ -2306,6 +2306,7 @@ forsakenness
 fauns
 feoffee
 fruiterers
+forepaws
 feoffees
 faits
 feoffer
@@ -5614,7 +5615,6 @@ flavorfully
 flip
 focalise
 findable
-forepaws
 frayn
 flypaper
 ferns
