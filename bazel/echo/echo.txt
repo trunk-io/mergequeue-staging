@@ -1110,7 +1110,6 @@ edificed
 exotheca
 edificial
 edificing
-edified
 exopt
 ergotisms
 edictal
@@ -2272,6 +2271,7 @@ electre
 electress
 electrets
 exostosis
+edified
 electric
 entrapment
 expenditures

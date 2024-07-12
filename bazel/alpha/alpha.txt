@@ -20126,7 +20126,6 @@ aromatize
 aromatized
 aromatizer
 aromatizing
-aromatophor
 aromatophore
 aromatous
 aronia
@@ -21665,6 +21664,7 @@ assented
 assentient
 assenting
 assentingly
+aromatophor
 assentiveness
 alphyn
 assentor
