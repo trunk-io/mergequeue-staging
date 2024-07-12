@@ -3263,7 +3263,6 @@ georgiana
 guiding
 gaslock
 gazetteer
-geiger
 georgians
 georgic
 gangetic
@@ -7029,6 +7028,7 @@ goodyship
 goodishness
 glassful
 gracilescent
+geiger
 giddiest
 gheber
 goodlier
