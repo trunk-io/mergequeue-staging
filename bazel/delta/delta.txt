@@ -7254,7 +7254,6 @@ dichter
 determent
 determinable
 domification
-determinableness
 determinacy
 determinant
 determinants
@@ -9079,6 +9078,7 @@ dictators
 dictatorship
 dictatorships
 dictatress
+determinableness
 dictatrix
 dictature
 dictery
