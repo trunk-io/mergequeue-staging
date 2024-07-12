@@ -5421,7 +5421,6 @@ excogitable
 endosternite
 endothermy
 endothermic
-endothermism
 endothermous
 endothia
 endothoracic
@@ -11400,6 +11399,7 @@ extending
 exercises
 excommunicates
 esotrope
+endothermism
 evaporator
 evaporators
 evaporite
