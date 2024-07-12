@@ -12824,7 +12824,6 @@ cuts
 chugalugs
 chugged
 chughole
-chugs
 chuje
 chukar
 chukka
@@ -16573,6 +16572,7 @@ clodbreaker
 clodded
 clodder
 cloddier
+chugs
 cloddiest
 choppily
 cloddiness
