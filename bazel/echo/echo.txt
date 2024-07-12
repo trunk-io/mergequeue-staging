@@ -9917,7 +9917,6 @@ establishable
 established
 establisher
 establishes
-establishing
 erymanthian
 establishment
 establishmentarian
@@ -10257,6 +10256,7 @@ ethenol
 ethmolachrymal
 etheostoma
 etheostomoid
+establishing
 ether
 etherate
 etherealisation
