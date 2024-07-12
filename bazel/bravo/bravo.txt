@@ -5337,6 +5337,7 @@ begums
 begun
 begunk
 begut
+behear
 behale
 behallow
 behalves
@@ -5363,7 +5364,6 @@ behead
 beheadal
 beheading
 beheads
-behear
 behears
 behearse
 beheld

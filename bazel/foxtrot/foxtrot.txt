@@ -4242,6 +4242,7 @@ firn
 ferity
 furrier
 flammability
+fleshpot
 firstborn
 firstcomer
 forbearer
@@ -6009,7 +6010,6 @@ filicineae
 floridness
 flogger
 floriferous
-fleshpot
 facsimiled
 floriform
 flycatcher
