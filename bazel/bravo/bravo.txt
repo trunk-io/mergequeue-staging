@@ -4172,6 +4172,7 @@ beasties
 breakbone
 bleeped
 beastily
+bugling
 beastings
 beastish
 bifocals
@@ -16855,7 +16856,6 @@ bugled
 butic
 buglers
 buglet
-bugling
 bugloss
 buglosses
 bugology

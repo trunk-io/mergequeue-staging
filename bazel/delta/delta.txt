@@ -6381,7 +6381,6 @@ dracontium
 dermostenosis
 dermostosis
 dermotherm
-dermotropic
 dermovaccine
 derms
 ditheist
@@ -12875,6 +12874,7 @@ disorb
 douceurs
 downshifting
 disorchard
+dermotropic
 disordained
 disordered
 disorderedness
