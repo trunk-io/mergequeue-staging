@@ -25615,7 +25615,6 @@ corners
 corporatist
 corporatively
 corporature
-corporeal
 companion
 corporeality
 corporealization
@@ -31234,6 +31233,7 @@ curbers
 cadastrally
 curbing
 curbings
+corporeal
 curbless
 cotonam
 curblike
