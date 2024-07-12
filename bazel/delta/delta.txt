@@ -5502,7 +5502,6 @@ deoxidation
 deoxidative
 dibbles
 deoxidator
-deoxidisation
 depopulator
 disulfids
 deoxidise
@@ -6585,6 +6584,7 @@ dipsadinae
 desegregation
 duststorm
 deselect
+deoxidisation
 deselected
 deselecting
 deselects
