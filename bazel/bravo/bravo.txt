@@ -2645,7 +2645,6 @@ bunolophodont
 brusquest
 breezily
 baryecoia
-baryglossia
 barih
 birk
 burlet
@@ -10502,6 +10501,7 @@ blastozooid
 blastplate
 blasts
 blastula
+baryglossia
 blastulae
 blastular
 blastulation
