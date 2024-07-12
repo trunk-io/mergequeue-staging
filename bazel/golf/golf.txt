@@ -846,7 +846,6 @@ gamba
 greys
 garnice
 gambado
-gambadoes
 gambados
 galvaniser
 guydom
@@ -3244,6 +3243,7 @@ gayety
 geopolitical
 gallant
 gellant
+gambadoes
 geopolitics
 gliomata
 gerberas
