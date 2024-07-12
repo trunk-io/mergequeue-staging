@@ -10053,6 +10053,7 @@ chepster
 cheque
 chequebook
 chequeen
+compares
 chequer
 chequered
 chequering
@@ -12451,7 +12452,6 @@ chromatinic
 chromatioideae
 chromatism
 chromatist
-compares
 chromatium
 chromatize
 chromatocyte
