@@ -2540,7 +2540,6 @@ electroosmotic
 expiatoriness
 electropathy
 electropathic
-electropathology
 extramorainic
 electrophilic
 electrophysicist
@@ -11580,6 +11579,7 @@ evident
 evidential
 eyebolts
 evidentially
+electropathology
 emydosauria
 evidently
 evidentness
