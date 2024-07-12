@@ -4873,6 +4873,7 @@ floorers
 flammant
 flouncey
 flammation
+flatfooting
 foresee
 flammed
 flammeous
@@ -5052,7 +5053,6 @@ foliobranchiate
 flatfoot
 flatfooted
 flatfootedly
-flatfooting
 flathat
 flathead
 flatheads
