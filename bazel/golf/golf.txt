@@ -5500,7 +5500,6 @@ glycogenous
 glycohaemia
 glycol
 glycolaldehyde
-glycolate
 glycolic
 gymkhana
 glycolyl
@@ -9483,6 +9482,7 @@ groupoid
 grantor
 groups
 groupthink
+glycolate
 gunsmith
 grooms
 gnashing
