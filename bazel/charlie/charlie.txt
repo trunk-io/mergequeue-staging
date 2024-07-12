@@ -1459,6 +1459,7 @@ callipygous
 callippic
 callirrhoe
 callisaurus
+cero
 callisteia
 callistemon
 callistephus
@@ -7742,7 +7743,6 @@ cheatable
 cern
 cerning
 cernuous
-cero
 cerograph
 cerography
 cerographical
