@@ -484,6 +484,7 @@ brickle
 bristly
 backsaws
 backscatter
+boldos
 backscattered
 backscattering
 backscraper
@@ -12102,7 +12103,6 @@ boldo
 boldoine
 biophor
 boys
-boldos
 boldu
 bole
 bolection
