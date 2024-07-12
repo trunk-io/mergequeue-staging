@@ -2975,7 +2975,6 @@ fibrinogen
 fibrinogenetic
 fistulizing
 fibrinokinase
-fibrinolyses
 fibrinolysin
 flanconade
 fendillate
@@ -3566,6 +3565,7 @@ franklins
 filigreed
 filigrees
 filigreing
+fibrinolyses
 functors
 filing
 filings
