@@ -9455,7 +9455,6 @@ geomorphological
 gastornis
 gros
 glossematic
-griots
 gaullist
 groundsel
 groundsill
@@ -9970,6 +9969,7 @@ guatibero
 graphophobia
 guativere
 governorship
+griots
 guatoan
 gordius
 graziers
