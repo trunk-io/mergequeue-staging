@@ -1479,7 +1479,6 @@ garnishees
 galleypot
 garnisheing
 gastight
-garnishment
 gesticulacious
 getfd
 garnison
@@ -10319,6 +10318,7 @@ girshes
 guld
 genericalness
 gule
+garnishment
 gules
 gutting
 gallification
