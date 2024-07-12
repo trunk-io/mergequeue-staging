@@ -6164,7 +6164,6 @@ genealogy
 galvanotropic
 genitival
 gluelikeness
-gluemaker
 ganta
 girns
 gluepot
@@ -10488,6 +10487,7 @@ graymill
 gettysburg
 goldmist
 goaf
+gluemaker
 glut
 gundygut
 gundog
