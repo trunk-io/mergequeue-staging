@@ -818,7 +818,6 @@ gustiness
 galvanosurgery
 garnetlike
 gelogenic
-galvanotaxis
 gozell
 galvanotherapy
 galvanothermometer
@@ -2732,6 +2731,7 @@ granuliform
 genetika
 genetmoil
 genetous
+galvanotaxis
 gregariously
 gametangia
 genetrix
