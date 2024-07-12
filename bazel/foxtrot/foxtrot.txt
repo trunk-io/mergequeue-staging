@@ -9733,7 +9733,6 @@ flagmaking
 freightyard
 freightment
 flocculent
-foreorlop
 freights
 freinage
 forehandsel
@@ -10972,6 +10971,7 @@ fulzie
 flub
 fum
 flummeries
+foreorlop
 fumade
 fumado
 flaccidities
