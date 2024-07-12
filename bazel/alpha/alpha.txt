@@ -5849,7 +5849,6 @@ aftonian
 aftosa
 aftosas
 aftward
-afunctional
 ag
 agacante
 arylated
@@ -15524,6 +15523,7 @@ antigalactic
 acervately
 agillawood
 antepredicament
+afunctional
 antileak
 antilemic
 antilens
