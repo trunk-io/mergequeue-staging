@@ -2363,7 +2363,6 @@ foolhead
 ferities
 ferk
 ferkin
-ferly
 frangulinic
 ferlies
 festellae
@@ -5702,6 +5701,7 @@ futharks
 fleuronee
 flytrap
 flytraps
+ferly
 fibrocyst
 flitterbat
 flours

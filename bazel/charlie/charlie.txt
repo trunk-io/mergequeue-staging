@@ -17684,7 +17684,6 @@ chammy
 cochliodont
 cochliodontidae
 cochliodus
-cochlite
 cochlospermaceae
 capelets
 cochlospermum
@@ -27599,6 +27598,7 @@ cowbanes
 cariosity
 coth
 cowbarn
+cochlite
 cowbells
 cowberry
 cowberries
