@@ -4626,6 +4626,7 @@ flecnode
 fragilaria
 flabellate
 flagrant
+finlet
 favus
 flabellifoliate
 flagitiousness
@@ -7597,7 +7598,6 @@ flowerful
 foredoom
 feeblish
 foredoomer
-finlet
 fraischeur
 fgn
 fretter
