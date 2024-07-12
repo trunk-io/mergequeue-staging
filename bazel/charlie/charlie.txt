@@ -4120,6 +4120,7 @@ corta
 careen
 careenage
 careener
+consignataries
 coriparian
 careeners
 camellin
@@ -22940,7 +22941,6 @@ calyptra
 consign
 consignable
 consignatary
-consignataries
 cladonioid
 consignatory
 consignee

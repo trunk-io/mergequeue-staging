@@ -8038,7 +8038,6 @@ foresummon
 federalizations
 flossiness
 foreswear
-foreswearing
 fumacious
 foret
 faipule
@@ -8913,6 +8912,7 @@ forestcraft
 foundationlessness
 foundations
 frigged
+foreswearing
 frostiest
 foundered
 foundering
