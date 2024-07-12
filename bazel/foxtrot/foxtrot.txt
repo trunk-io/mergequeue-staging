@@ -211,7 +211,6 @@ facture
 factures
 facula
 faculae
-facular
 faculative
 fertilised
 fosterer
@@ -8781,6 +8780,7 @@ fibromyomatous
 fosset
 fossette
 fossettes
+facular
 fossicked
 fossicking
 fossified
