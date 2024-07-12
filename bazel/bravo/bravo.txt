@@ -3159,6 +3159,7 @@ basinlike
 boodledom
 baseboards
 birthstool
+besieging
 baseborn
 basebred
 baseburner
@@ -6966,7 +6967,6 @@ besieged
 bardash
 bathymeter
 besieges
-besieging
 bennies
 besiegingly
 braced

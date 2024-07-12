@@ -6144,7 +6144,6 @@ caudicle
 caudiform
 cheesery
 caudillism
-caudillo
 caudillos
 catty
 chiviatite
@@ -8468,6 +8467,7 @@ chamber
 chamberdeacon
 chamberer
 chamberfellow
+caudillo
 chambering
 caterership
 chamberlain
