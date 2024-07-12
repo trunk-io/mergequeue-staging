@@ -1342,7 +1342,6 @@ daunton
 dissympathy
 daunts
 dauphin
-dauphines
 dauphiness
 dauphins
 daur
@@ -11805,6 +11804,7 @@ discriminately
 discriminateness
 discriminates
 dogie
+dauphines
 discriminating
 discriminatingness
 discriminational
