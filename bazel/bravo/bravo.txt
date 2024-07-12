@@ -4625,6 +4625,7 @@ blintz
 bedecking
 beck
 bedecks
+bulbilla
 bedecorate
 bedeen
 bumblebees
@@ -16930,7 +16931,6 @@ bulbiform
 bulbil
 befleck
 bulbilis
-bulbilla
 bacteremic
 bulbils
 bulbine
