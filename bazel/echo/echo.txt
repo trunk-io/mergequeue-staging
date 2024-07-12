@@ -6496,7 +6496,6 @@ ensure
 emissile
 espontoon
 ermitophobia
-ensures
 ensuring
 enswathe
 enswathement
@@ -7438,6 +7437,7 @@ epenthetic
 epephragmal
 epepophysial
 expansure
+ensures
 epergne
 epergnes
 eperotesis
