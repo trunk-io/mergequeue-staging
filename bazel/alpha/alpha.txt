@@ -1066,6 +1066,7 @@ absorbedness
 afterhold
 absorbefacient
 absorbency
+amphioxus
 absorbent
 adenylpyrophosphate
 absorbents
@@ -11271,7 +11272,6 @@ amphioxidae
 amphioxides
 amphioxididae
 amphioxis
-amphioxus
 amphioxuses
 amphipeptone
 amphiphithyra
