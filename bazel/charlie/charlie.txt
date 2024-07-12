@@ -8889,7 +8889,6 @@ chapstick
 chapt
 chaptalization
 chaptalizing
-chapteral
 chaptered
 chaptering
 chapters
@@ -14810,6 +14809,7 @@ cystotome
 cicadae
 cystotomy
 cystotomies
+chapteral
 cystoureteritis
 chalcophyllite
 counterfeitness
