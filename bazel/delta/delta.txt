@@ -561,7 +561,6 @@ damageability
 damageableness
 damageably
 damaged
-delightable
 damagement
 damageous
 disyllabizing
@@ -18656,6 +18655,7 @@ demidevil
 dwell
 dollop
 dwellers
+delightable
 damaskeen
 dwelling
 dwellings
