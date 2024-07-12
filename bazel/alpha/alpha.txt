@@ -3282,7 +3282,6 @@ armets
 activities
 activize
 activized
-activizing
 actless
 anchisaurus
 actor
@@ -7806,6 +7805,7 @@ alcoran
 alcoranic
 alcoranist
 alcosol
+activizing
 abepithymia
 alcove
 antiminsia
