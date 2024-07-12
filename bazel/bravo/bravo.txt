@@ -6155,6 +6155,7 @@ beneficient
 baulk
 beneficium
 benefit
+bedroom
 benefited
 benefiter
 bothros
@@ -17683,7 +17684,6 @@ burgomasters
 burgonets
 burgoo
 burgoos
-bedroom
 bashed
 burgouts
 burgraves
