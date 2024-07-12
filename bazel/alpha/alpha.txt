@@ -4653,6 +4653,7 @@ adventurer
 adventures
 adventuresome
 adventuresomeness
+atheneum
 averrer
 adventuress
 adventuresses
@@ -12898,7 +12899,6 @@ angiohydrotomy
 angiohypotonia
 angioid
 arbalister
-atheneum
 angiokeratoma
 angiokinesis
 anisogynous
