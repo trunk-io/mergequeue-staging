@@ -3048,7 +3048,6 @@ capework
 capeworks
 capful
 capfuls
-commentative
 caphar
 candider
 cypressed
@@ -22313,6 +22312,7 @@ conspicuousness
 conglutin
 conglutinant
 conglutinate
+commentative
 conglutinated
 cierzo
 ceruminous
