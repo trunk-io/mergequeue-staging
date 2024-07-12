@@ -3339,6 +3339,7 @@ embalmment
 embank
 embanked
 eozoon
+equippers
 embanking
 embankment
 ebionize
@@ -11606,7 +11607,6 @@ entheos
 euryte
 enquicken
 evilest
-equippers
 exoergic
 empoison
 empressements
