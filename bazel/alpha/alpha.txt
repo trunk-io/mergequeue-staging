@@ -17800,6 +17800,7 @@ archcount
 applauds
 applause
 applauses
+augmented
 applausive
 applausively
 angulatogibbous
@@ -23386,7 +23387,6 @@ augmentation
 augmentations
 augmentative
 augmentatively
-augmented
 augmentedly
 augmenter
 augmenters
