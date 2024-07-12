@@ -6152,7 +6152,6 @@ flowage
 flowcharted
 flowcharting
 fulicinae
-flowcharts
 flutey
 flowcontrol
 flowe
@@ -10525,6 +10524,7 @@ frousy
 frousier
 frousiest
 foreglance
+flowcharts
 frousty
 frouzy
 fricti

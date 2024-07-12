@@ -16336,7 +16336,6 @@ ceration
 clinocephalous
 clinocephalus
 clinochlore
-clinoclase
 compurgatory
 clinoclasite
 clinodiagonal
@@ -22536,6 +22535,7 @@ conjuncted
 chamm
 circumcision
 conjunction
+clinoclase
 conjunctional
 coohee
 conjunctionally
