@@ -3286,7 +3286,6 @@ buscarle
 bitume
 basilard
 basilary
-basilateral
 bianco
 basilect
 basileis
@@ -11431,6 +11430,7 @@ bluffly
 bluffness
 bluffs
 blufter
+basilateral
 bluggy
 beflum
 boule
