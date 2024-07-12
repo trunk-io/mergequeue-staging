@@ -6588,7 +6588,6 @@ fluvanna
 fluvial
 feldspars
 fluviatile
-fluviation
 fluvicoline
 fluvioglacial
 fireshaft
@@ -7208,6 +7207,7 @@ footsoldier
 facient
 footsore
 footsoreness
+fluviation
 fitment
 faciest
 faunistic
