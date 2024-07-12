@@ -2991,7 +2991,6 @@ genuflex
 genuflexion
 goorals
 genuflexuous
-genuine
 growan
 genuinely
 genuineness
@@ -3661,6 +3660,7 @@ garshuni
 gesticulated
 gesticulates
 glunimie
+genuine
 gesticulations
 gimlet
 gazed
