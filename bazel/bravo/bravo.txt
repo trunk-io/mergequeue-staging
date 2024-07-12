@@ -4872,6 +4872,7 @@ buildingless
 beebread
 beebreads
 baptistries
+bollard
 bedraggle
 beech
 breastsummer
@@ -12136,7 +12137,6 @@ bolivians
 buccula
 bolk
 brineman
-bollard
 bollards
 brahms
 bolled
