@@ -7030,6 +7030,7 @@ bannermen
 besmottered
 bawl
 besmouch
+bevelling
 bows
 besmudge
 besmudges
@@ -7499,7 +7500,6 @@ beveled
 beveler
 bevelers
 blastophore
-bevelling
 bevelment
 bevenom
 bullom

@@ -10314,7 +10314,6 @@ chiaus
 choragic
 chiave
 chiavetta
-chyazic
 chibcha
 chibchan
 corvetto
@@ -17113,6 +17112,7 @@ coachway
 coevolving
 coachwise
 coachwoman
+chyazic
 coachwood
 coachwright
 celery
