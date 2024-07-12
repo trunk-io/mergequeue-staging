@@ -28354,7 +28354,6 @@ crawl
 crawled
 crawley
 canapes
-crawleyroot
 crawler
 crawlerize
 crawly
@@ -31809,6 +31808,7 @@ cutinised
 cutinising
 cutinization
 cutinized
+crawleyroot
 cutinizes
 cutinizing
 cutins

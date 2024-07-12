@@ -366,6 +366,7 @@ ebcasc
 endpoints
 ebcd
 electrodesiccate
+emitting
 ebdomade
 eradiate
 elasmosaurus
@@ -3973,7 +3974,6 @@ eisegeses
 electra
 enwreathe
 emittent
-emitting
 emlen
 emmarble
 emmarbling
