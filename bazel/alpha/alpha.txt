@@ -8564,6 +8564,7 @@ alkalurops
 alkamin
 antherless
 alkamine
+amylase
 annexation
 alkanal
 alkane
@@ -10615,7 +10616,6 @@ amyl
 amylaceous
 amylamine
 amylan
-amylase
 antiroll
 amylases
 amildar
