@@ -3591,7 +3591,6 @@ additions
 addititious
 additive
 aeginetic
-additively
 abound
 afforce
 ammoniacal
@@ -8732,6 +8731,7 @@ allegretto
 allegrettos
 allegros
 alley
+additively
 alleyed
 apostolize
 alleyite
