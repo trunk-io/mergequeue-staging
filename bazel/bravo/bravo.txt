@@ -950,7 +950,6 @@ bagong
 bagoong
 bagpiped
 bijou
-bagpiper
 breviradiate
 bagpipes
 bagpiping
@@ -4740,6 +4739,7 @@ bedmaking
 bedman
 bedmate
 bedmates
+bagpiper
 bednighted
 buildup
 bourbons
