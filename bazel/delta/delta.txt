@@ -6505,7 +6505,6 @@ descendants
 descended
 descendence
 dani
-descendentalist
 demigoddess
 descendents
 denumerant
@@ -12433,6 +12432,7 @@ disilicate
 disyllabic
 disyllabism
 disyllabize
+descendentalist
 dovishness
 divorceuse
 decarch
