@@ -410,7 +410,6 @@ gossep
 geatas
 galcha
 galchic
-gravata
 gale
 galeae
 gelidness
@@ -4194,6 +4193,7 @@ grossers
 groundout
 gillaroo
 gigerium
+gravata
 gilled
 gillenia
 gali
