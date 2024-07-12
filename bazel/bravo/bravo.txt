@@ -3894,7 +3894,6 @@ bawds
 bawdship
 bawdstrot
 bawhorse
-bawled
 bawley
 bawler
 bawlers
@@ -9903,6 +9902,7 @@ bitterender
 bitterest
 bitterhearted
 bittering
+bawled
 bitterish
 bursectomy
 bitterishness
