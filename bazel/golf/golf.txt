@@ -7608,7 +7608,6 @@ graphologist
 gillie
 grace
 gainsayer
-graceful
 garpike
 gerontes
 ghostship
@@ -8367,6 +8366,7 @@ gnostical
 graters
 grates
 gaumless
+graceful
 glace
 grather
 gangerel
