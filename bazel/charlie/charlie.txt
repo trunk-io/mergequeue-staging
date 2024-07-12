@@ -8785,7 +8785,6 @@ chants
 chaogenous
 chaology
 chaos
-chaotical
 chaotically
 chaoticness
 chaoua
@@ -17710,6 +17709,7 @@ canham
 cocitizenship
 cocytus
 cockade
+chaotical
 cockaded
 cockades
 cockadoodledoo
