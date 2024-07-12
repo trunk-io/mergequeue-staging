@@ -1163,7 +1163,6 @@ gangplow
 gastrodisc
 gangrenate
 gangrene
-grandeur
 gangrenes
 gurt
 gaboon
@@ -7006,6 +7005,7 @@ girtline
 grossulaceous
 goodenia
 goodeniaceous
+grandeur
 grip
 gooder
 gooders
