@@ -3575,7 +3575,6 @@ carapidae
 cathari
 carapo
 cestrum
-carapus
 carara
 carassow
 carassows
@@ -22709,6 +22708,7 @@ conolophus
 cessionaire
 conominee
 cononintelligent
+carapus
 conopholis
 chisel
 conopid
