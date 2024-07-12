@@ -3504,6 +3504,7 @@ fossores
 filestatus
 fanning
 float
+fabiform
 furaldehyde
 filet
 fileting
@@ -7193,7 +7194,6 @@ furriered
 footropes
 frenchmen
 faucre
-fabiform
 fripperies
 foots
 farraginous
