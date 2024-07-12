@@ -9541,6 +9541,7 @@ chebecs
 chebel
 cornhusks
 chebog
+coxalgic
 chebule
 clitelliferous
 chebulic
@@ -10170,7 +10171,6 @@ chessman
 chessmen
 chessner
 chessom
-coxalgic
 chesstree
 chest
 chested
