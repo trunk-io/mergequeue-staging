@@ -8245,7 +8245,6 @@ automanipulative
 algorab
 algores
 acknowledgement
-algorism
 algorisms
 antisymmetrical
 algorist
@@ -18609,6 +18608,7 @@ azoimide
 arbour
 arboured
 arbours
+algorism
 arbovirus
 arbs
 arbuscle

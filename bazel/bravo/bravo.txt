@@ -2189,6 +2189,7 @@ banns
 bannut
 banovina
 banque
+bulleting
 becard
 banquet
 blader
@@ -16084,7 +16085,6 @@ brooming
 broommaker
 broommaking
 broomrape
-bulleting
 broomroot
 brooms
 bathmat
