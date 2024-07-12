@@ -10251,7 +10251,6 @@ ambulante
 ambulantes
 antihierarchical
 ambulate
-atropinism
 ambulates
 ambulating
 ambulatio
@@ -15167,6 +15166,7 @@ anticosine
 anticosmetics
 anticouncil
 anticourt
+atropinism
 adoptianism
 anticreational
 anticreationism
