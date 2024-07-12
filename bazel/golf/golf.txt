@@ -4662,6 +4662,7 @@ gourdiness
 gleefulness
 genders
 gipsyhead
+gulonic
 gipsyhood
 gypsyhood
 gunsmithery
@@ -10374,7 +10375,6 @@ gulls
 gulmohar
 gurglet
 gulo
-gulonic
 glebe
 gulosity
 greasebush
