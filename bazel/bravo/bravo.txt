@@ -1336,7 +1336,6 @@ balantidiasis
 balantidic
 backsettler
 balantidiosis
-balantidium
 backstroked
 balao
 balaos
@@ -12947,6 +12946,7 @@ bucklers
 borborygmies
 borborygmus
 blockaded
+balantidium
 brownier
 bord
 bordage
