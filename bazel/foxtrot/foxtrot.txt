@@ -2248,6 +2248,7 @@ ferronickel
 firebricks
 fences
 forelaying
+forborne
 forestallment
 fenestellidae
 fibroses
@@ -7358,7 +7359,6 @@ fluvioterrestrial
 forbode
 flagman
 forbore
-forborne
 forbow
 forbruise
 forbs
