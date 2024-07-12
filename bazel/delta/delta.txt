@@ -3041,7 +3041,6 @@ daker
 deerskin
 doggrel
 deerstalker
-disavail
 deerstalkers
 deerstalking
 deerstand
@@ -13994,6 +13993,7 @@ distractedness
 distracter
 diethylstilbestrol
 distractibility
+disavail
 distractible
 distracting
 distractions
