@@ -4743,7 +4743,6 @@ girba
 gird
 glossoscopia
 girded
-girder
 girders
 girding
 gamuts
@@ -5866,6 +5865,7 @@ gloriette
 groomsmen
 girlism
 glorify
+girder
 glorifiable
 glorification
 gastroscope
