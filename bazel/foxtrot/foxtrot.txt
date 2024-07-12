@@ -2575,7 +2575,6 @@ fibrinolytic
 foliiform
 ferther
 forgrow
-fertil
 fabrics
 faddisms
 fertile
@@ -4169,6 +4168,7 @@ firespout
 firestone
 firestop
 firestorm
+fertil
 figwort
 firetop
 firebrats
