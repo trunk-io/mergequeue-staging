@@ -2130,7 +2130,6 @@ campsites
 campstools
 camptonite
 chefs
-campulitropal
 complicant
 campus
 campuses
@@ -18904,6 +18903,7 @@ cyanuric
 colius
 coll
 courtiership
+campulitropal
 colla
 collab
 csnet

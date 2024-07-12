@@ -3270,6 +3270,7 @@ fieldfight
 fluctuations
 filmdoms
 ficoideae
+foiling
 fieldy
 feedstuffs
 fieldish
@@ -6778,7 +6779,6 @@ foyer
 fetterlock
 foyers
 foil
-foiling
 fauld
 foin
 fevery
