@@ -2115,7 +2115,6 @@ counterstatant
 campody
 campongs
 camponotus
-campoo
 campoody
 camporee
 cumberworld
@@ -18320,6 +18319,7 @@ cofreighter
 coft
 cofunction
 cog
+campoo
 cogboat
 cogences
 cogencies
