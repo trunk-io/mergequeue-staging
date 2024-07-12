@@ -8772,7 +8772,6 @@ curiousness
 chanties
 chantilly
 chanting
-cornflag
 chantor
 chantress
 contratulations
@@ -23909,6 +23908,7 @@ controled
 chiba
 catenaries
 cripplingly
+cornflag
 controling
 controllability
 controllable
