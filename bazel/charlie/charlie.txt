@@ -3488,7 +3488,6 @@ caracoles
 caracoling
 caracolite
 crummiest
-caracolled
 caracoller
 caracolling
 caracols
@@ -28897,6 +28896,7 @@ crevassing
 crevet
 crevette
 crevice
+caracolled
 creviced
 crevices
 crevis
