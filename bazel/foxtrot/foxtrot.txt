@@ -2234,6 +2234,7 @@ fencelike
 frolickly
 fenceplay
 fencepost
+flavored
 fetchingly
 fencer
 furfures
@@ -10074,7 +10075,6 @@ ferngrower
 federalised
 fervence
 frilly
-flavored
 ferruler
 frilliest
 fibromyxoma
