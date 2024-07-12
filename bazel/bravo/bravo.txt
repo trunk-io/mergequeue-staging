@@ -3819,7 +3819,6 @@ batz
 baubees
 bethunder
 baublery
-baubles
 bauch
 bauckiebird
 bearbane
@@ -11613,6 +11612,7 @@ boathouses
 boatyard
 boatyards
 boatie
+baubles
 boatings
 boation
 boatkeeper
