@@ -25838,7 +25838,6 @@ corrump
 corrumpable
 clockmutch
 commorant
-classed
 corrupt
 conhydrin
 corrupted
@@ -26156,6 +26155,7 @@ cosmopolises
 cosmopolitan
 cosmopolitanisation
 coastline
+classed
 cosmopolitanise
 cosmopolitanised
 cosmopolitanism
