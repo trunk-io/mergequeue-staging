@@ -8793,6 +8793,7 @@ alleviater
 alleviates
 alleviating
 alleviatingly
+ambilateral
 alleviation
 alleviative
 alleviator
@@ -10106,7 +10107,6 @@ ambiguous
 adviceful
 ambiguously
 ambiguousness
-ambilateral
 ambilateralaterally
 anticonservative
 ambilian

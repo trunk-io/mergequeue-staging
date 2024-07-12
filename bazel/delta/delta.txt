@@ -2929,7 +2929,6 @@ defoam
 deduced
 differentiant
 deducement
-deducer
 deduces
 deducibility
 deducibly
@@ -6578,6 +6577,7 @@ desecrations
 desecrator
 devels
 deseed
+deducer
 desegmentation
 disordination
 desegregate
