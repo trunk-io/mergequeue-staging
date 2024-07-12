@@ -160,7 +160,6 @@ abatis
 abatised
 abatjour
 abatjours
-appreciative
 abaton
 abator
 abators
@@ -8855,6 +8854,7 @@ alliteral
 alliterated
 alliterates
 alliterating
+appreciative
 alliterational
 anabantid
 alliteratively
