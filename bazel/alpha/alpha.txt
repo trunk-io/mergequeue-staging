@@ -8603,7 +8603,6 @@ alkyd
 alkide
 agone
 alkies
-alkyl
 alkylamine
 alkylamino
 alkylarylsulfonate
@@ -17813,6 +17812,7 @@ appledrone
 applegrower
 applejack
 applejohn
+alkyl
 atrichous
 applemonger
 appleroot

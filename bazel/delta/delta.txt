@@ -1308,7 +1308,6 @@ detonators
 daughterhood
 daughterkin
 daughterless
-daughterly
 daughterlike
 daughterliness
 daughterling
@@ -13041,6 +13040,7 @@ dyspeptically
 dyspeptics
 displacer
 duddle
+daughterly
 dugongs
 dirgler
 diplococci
