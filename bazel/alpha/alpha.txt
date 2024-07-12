@@ -1600,7 +1600,6 @@ accipenser
 accipient
 accipiter
 asperness
-accipitral
 accipitrary
 accipter
 accise
@@ -24359,6 +24358,7 @@ autoreflection
 autoregenerator
 autoregulation
 autoregulative
+accipitral
 autoregulatory
 arg
 autoretardation

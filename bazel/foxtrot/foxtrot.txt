@@ -178,7 +178,6 @@ factor
 friths
 factorable
 fruitcakey
-factory
 factorially
 factorials
 frangipanis
@@ -10510,6 +10509,7 @@ fungid
 favosite
 filles
 fenceless
+factory
 frottages
 frotteur
 frotting
