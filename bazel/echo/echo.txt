@@ -3824,7 +3824,6 @@ exedrae
 evirato
 emender
 emendicate
-excluded
 embowl
 expansometer
 exurbia
@@ -7643,6 +7642,7 @@ epichoric
 epichorion
 epichoristic
 essed
+excluded
 epicycles
 epicyclic
 epicycloid
