@@ -66,7 +66,6 @@ formlessly
 facellite
 facemaker
 facemaking
-faceman
 facepiece
 faceplate
 furfuraceously
@@ -6713,6 +6712,7 @@ fogas
 fogbank
 fogbound
 frankenstein
+faceman
 fibrinogenically
 fogbow
 fogdogs
