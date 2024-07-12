@@ -3787,7 +3787,6 @@ avidous
 adenopharyngitis
 adenophyma
 almeh
-adenophlegmon
 adenophora
 adenopodous
 adenosarcoma
@@ -15032,6 +15031,7 @@ anticynically
 aminate
 antimnemonic
 anticynicism
+adenophlegmon
 anticipant
 anticipatable
 anticipated
