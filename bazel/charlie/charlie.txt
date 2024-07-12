@@ -1415,7 +1415,6 @@ callboy
 callboys
 champion
 called
-caller
 callers
 calles
 callet
@@ -10738,6 +10737,7 @@ chymic
 chymics
 chymiferous
 chymified
+caller
 chymifying
 chiming
 chymist
