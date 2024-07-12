@@ -3043,6 +3043,7 @@ doggrel
 deerstalker
 disavail
 deerstalkers
+diminished
 deerstalking
 deerstand
 deertongue
@@ -8459,7 +8460,6 @@ daglocks
 distingu
 diamins
 diammine
-diminished
 diamminobromide
 diamminonitrate
 diammonium
