@@ -1363,6 +1363,7 @@ balatte
 balau
 balausta
 balaustine
+bergmannite
 balawa
 balawu
 balboa
@@ -6674,7 +6675,6 @@ berghaan
 bergy
 berginize
 bergman
-bergmannite
 bergomask
 bergs
 bergschrund
