@@ -818,7 +818,6 @@ gelogenic
 galvanotaxis
 gozell
 galvanotherapy
-galvanothermometer
 garni
 galvanotropism
 galvo
@@ -1575,6 +1574,7 @@ gases
 graphiola
 genealogically
 giraffe
+galvanothermometer
 glimed
 gargety
 gypsyweed
