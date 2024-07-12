@@ -2216,6 +2216,7 @@ gearings
 gasterotricha
 goladar
 gears
+gauger
 gearset
 gearshift
 gearshifts
@@ -6081,7 +6082,6 @@ gynostemiumia
 glub
 grieben
 gata
-gauger
 glucagons
 gnar
 glucemia
