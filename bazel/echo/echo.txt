@@ -7932,7 +7932,6 @@ epilation
 euthanasy
 epilemma
 epilemmal
-enfollow
 enlimn
 epileny
 epilepsy
@@ -10151,6 +10150,7 @@ etageres
 excrescency
 equalable
 etalage
+enfollow
 etalon
 etamin
 ever
