@@ -640,7 +640,6 @@ faltboats
 faltche
 faltere
 filarial
-fusarole
 faltered
 falterer
 falteringly
@@ -1700,6 +1699,7 @@ fearedly
 feelable
 fearer
 fearers
+fusarole
 focimeter
 fearful
 fearfuller
