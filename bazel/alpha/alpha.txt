@@ -11391,7 +11391,6 @@ amphotericin
 amphrysian
 ampyces
 ampicillin
-ampyx
 ampyxes
 ample
 amplect
@@ -14592,6 +14591,7 @@ anthracoxen
 anthradiol
 anthradiquinone
 anthragallol
+ampyx
 anthrahydroquinone
 anthralin
 anthramin
