@@ -2949,6 +2949,7 @@ binomial
 barrage
 barraged
 barrages
+begriming
 biflagelate
 barraging
 birdseye
@@ -5295,7 +5296,6 @@ begrave
 begrim
 begrimer
 begrimes
-begriming
 begrimmed
 begrimming
 begripe
