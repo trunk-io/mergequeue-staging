@@ -755,7 +755,6 @@ galoots
 griller
 gastroatonia
 grizzliness
-greywacke
 galopin
 geerah
 galoping
@@ -5025,6 +5024,7 @@ grease
 glaceing
 gnathism
 glaces
+greywacke
 genepi
 glaciable
 gastromenia
