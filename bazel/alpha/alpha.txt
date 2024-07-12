@@ -11187,7 +11187,6 @@ amphicarpus
 amphicentric
 amphichromatic
 amphichrome
-amphichromy
 amphicyrtous
 amphicytula
 amphicoelian
@@ -23622,6 +23621,7 @@ auriphrygiate
 autosuggest
 antsy
 auripigment
+amphichromy
 auripuncture
 auriscalp
 auriscalpia
