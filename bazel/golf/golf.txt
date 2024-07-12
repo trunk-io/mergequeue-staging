@@ -3866,7 +3866,6 @@ ghostmonger
 gamboling
 glucolysis
 gaolage
-gol
 ghostweed
 guileless
 geniculate
@@ -9517,6 +9516,7 @@ griqua
 gymnocerata
 grove
 gentrice
+gol
 groved
 granulate
 gravific
