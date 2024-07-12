@@ -3034,7 +3034,6 @@ geochronometric
 geocyclic
 goal
 geocline
-goldwork
 geococcyx
 goral
 gesnera
@@ -5182,6 +5181,7 @@ glanced
 gynecomazia
 glancer
 guaxima
+goldwork
 glancing
 glancingly
 growled
