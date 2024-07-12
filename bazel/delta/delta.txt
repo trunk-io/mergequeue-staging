@@ -11222,7 +11222,6 @@ disbenchment
 disbend
 drisheen
 disbind
-disblame
 decisional
 dabb
 disbody
@@ -13300,6 +13299,7 @@ disprovement
 disproven
 disprover
 disproves
+disblame
 disprovide
 disproving
 dumbledore
