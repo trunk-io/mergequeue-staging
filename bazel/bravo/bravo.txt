@@ -8343,7 +8343,6 @@ bigfoot
 baldmoneys
 bigg
 bigged
-biggening
 bisie
 bigger
 biggy
@@ -11740,6 +11739,7 @@ bockey
 bkpt
 backwrap
 bocking
+biggening
 bocks
 bocoy
 bodach
