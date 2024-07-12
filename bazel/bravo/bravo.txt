@@ -802,7 +802,6 @@ badgeless
 berrendo
 badgeman
 badgered
-badgerer
 badgering
 baccarats
 blundersome
@@ -6363,6 +6362,7 @@ billsticking
 benzhydroxamic
 benzidine
 benzidino
+badgerer
 benzidins
 benzil
 benzyl
