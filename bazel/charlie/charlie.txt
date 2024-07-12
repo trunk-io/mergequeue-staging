@@ -1077,7 +1077,6 @@ calcioscheelite
 calciovolborthite
 clarity
 calciphylactic
-calciphylaxis
 calciphile
 calciphilic
 calciphobe
@@ -10579,6 +10578,7 @@ chiliastic
 chiliasts
 chilicote
 chilicothe
+calciphylaxis
 chilidium
 chilidog
 chilidogs

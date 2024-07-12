@@ -17753,7 +17753,6 @@ burlaps
 burlecue
 burled
 burley
-burleys
 burlesk
 bunkhouses
 bolometer
@@ -18390,6 +18389,7 @@ bromcamphor
 buzzing
 buzzingly
 balas
+burleys
 blossomtime
 buzzsaw
 buzzwigs
