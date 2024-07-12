@@ -6808,6 +6808,7 @@ ayes
 aeroplaner
 aigialosaur
 aigialosauridae
+ametabolic
 aigialosaurus
 aiglet
 aiglets
@@ -10451,7 +10452,6 @@ amess
 ametaboly
 adipopexis
 ametabolia
-ametabolic
 ametabolous
 antievolutionistic
 ametallous

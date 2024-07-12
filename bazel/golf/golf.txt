@@ -5649,7 +5649,6 @@ glissando
 gybe
 gowning
 grapeless
-gebur
 gubbin
 glisten
 groundedness
@@ -8114,6 +8113,7 @@ glaze
 geisenheimer
 grantiidae
 gametophoric
+gebur
 gratification
 grantors
 grants
