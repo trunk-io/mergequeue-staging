@@ -2049,7 +2049,6 @@ decanormal
 disselboom
 druttle
 decant
-decantate
 decanted
 decanter
 decanting
@@ -14683,6 +14682,7 @@ doblon
 deallocations
 dobos
 dobra
+decantate
 dobrao
 dobroes
 dobson
