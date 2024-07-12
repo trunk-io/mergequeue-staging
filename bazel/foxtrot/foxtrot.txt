@@ -2404,7 +2404,6 @@ fermenting
 frankfurters
 fiendly
 ferments
-fermentum
 fermerer
 fermi
 fermillet
@@ -3213,6 +3212,7 @@ farcied
 frostbites
 fetation
 frontages
+fermentum
 faery
 flyboy
 fingian
