@@ -2232,7 +2232,6 @@ bandon
 banxring
 banzais
 bovoid
-baobab
 baobabs
 bap
 baphomet
@@ -16220,6 +16219,7 @@ bruchidae
 bruchus
 brucia
 brucina
+baobab
 brucine
 baahling
 brucines
