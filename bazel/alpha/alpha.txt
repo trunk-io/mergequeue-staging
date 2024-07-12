@@ -24309,7 +24309,6 @@ autophonous
 autophotoelectric
 autophotograph
 aconine
-autophotometry
 autophthalmoscope
 autopilot
 abluted
@@ -25115,6 +25114,7 @@ axle
 axled
 axles
 axlesmith
+autophotometry
 axletrees
 archeostome
 axmaking
