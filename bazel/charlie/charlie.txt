@@ -3377,7 +3377,6 @@ captaincies
 captained
 captainess
 captaining
-chytra
 captainly
 captainries
 captainships
@@ -27118,6 +27117,7 @@ countersank
 counterscalloped
 counterscarp
 counterscoff
+chytra
 countersconce
 claddings
 counterscrutiny
