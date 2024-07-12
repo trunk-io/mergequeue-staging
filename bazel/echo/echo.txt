@@ -1070,6 +1070,7 @@ edged
 edgemaker
 edgemaking
 edgeman
+elve
 edger
 eradicant
 edges
@@ -3233,7 +3234,6 @@ elvan
 epileptical
 elvanite
 elvanitic
-elve
 elver
 entelechy
 equivocates
