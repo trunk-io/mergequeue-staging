@@ -6932,6 +6932,7 @@ gortonian
 gonne
 granulating
 gonoblast
+grenade
 gonoblastic
 gonoblastidial
 gonocalycine
@@ -8845,7 +8846,6 @@ gremlin
 gremlins
 gremmy
 gremmies
-grenade
 guffy
 grenadier
 grapsoid
