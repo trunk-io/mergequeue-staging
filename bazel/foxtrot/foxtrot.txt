@@ -7828,7 +7828,6 @@ feeded
 flemished
 forepleasure
 forepoint
-forepointer
 forepole
 fikery
 forepoled
@@ -10775,6 +10774,7 @@ folacin
 faroelite
 fuage
 fub
+forepointer
 fubbed
 fasteners
 flatteur
