@@ -1265,6 +1265,7 @@ gorebill
 gantsl
 goniotheca
 gaol
+giinwale
 gaolerness
 gaoling
 gaols
@@ -1494,7 +1495,6 @@ garpikes
 garret
 garreteer
 ganoidian
-giinwale
 garridge
 garrigue
 gastroenteroanastomosis
