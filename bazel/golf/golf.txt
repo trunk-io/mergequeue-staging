@@ -1760,6 +1760,7 @@ gastroduodenitis
 gaolbird
 gastroduodenostomy
 gingelly
+gelinotte
 gastroduodenostomies
 gastroduodenotomy
 gastroelytrotomy
@@ -6873,7 +6874,6 @@ goniatitid
 gadling
 gonycampsis
 greenlet
-gelinotte
 geikielite
 gonidangium
 gonydeal
