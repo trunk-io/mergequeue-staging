@@ -912,6 +912,7 @@ ectopy
 ellipsoids
 exstrophy
 ectopia
+electrical
 ety
 ectoplasm
 esthetically
@@ -12967,7 +12968,6 @@ expectorations
 expectorative
 electral
 extill
-electrical
 expects
 expeded
 eucommia
