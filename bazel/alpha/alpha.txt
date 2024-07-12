@@ -11689,6 +11689,7 @@ axialities
 anaematosis
 anaemia
 anaemias
+anthozoan
 adapa
 anaemic
 anaemotropy
@@ -14548,7 +14549,6 @@ anthotaxy
 anthotropic
 anthoxanthum
 anthozoa
-anthozoan
 anthozoic
 allopathy
 anthozoon
