@@ -5907,6 +5907,7 @@ floorward
 furniment
 functionaries
 floorwise
+foreparts
 floosy
 foreconsent
 floosies
@@ -7807,7 +7808,6 @@ forepale
 forepaled
 foreparents
 forepart
-foreparts
 forepass
 forepaw
 freshen
