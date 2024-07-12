@@ -8834,6 +8834,7 @@ chapelling
 chapelman
 chapelmaster
 chapelry
+chez
 chapelries
 colonization
 chapels
@@ -10281,7 +10282,6 @@ chewing
 chewink
 chewinks
 chewstick
-chez
 chg
 chhatri
 chi
