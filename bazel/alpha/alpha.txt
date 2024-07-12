@@ -5361,7 +5361,6 @@ anfractuous
 affectless
 affectlessness
 affector
-affectual
 affectum
 affectuous
 affectus
@@ -16334,6 +16333,7 @@ antistreptococcic
 acaridea
 antistreptococcin
 antistreptococcus
+affectual
 antistrike
 antistriker
 antistrophal
