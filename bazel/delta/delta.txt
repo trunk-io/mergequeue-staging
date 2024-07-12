@@ -2432,7 +2432,6 @@ dogget
 dauberies
 deckel
 dedan
-deckels
 decken
 decker
 dragsawing
@@ -14824,6 +14823,7 @@ drainpipe
 documentarily
 documentarist
 documentational
+deckels
 documentations
 documented
 documenter
