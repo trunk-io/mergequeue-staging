@@ -11181,7 +11181,6 @@ chivachee
 chivalresque
 chivalry
 cultivatability
-chaum
 chivalric
 chivalries
 chivalrous
@@ -20273,6 +20272,7 @@ commodore
 commodores
 counterpuncher
 commolition
+chaum
 common
 commonable
 commonality
