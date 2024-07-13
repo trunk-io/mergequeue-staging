@@ -1022,7 +1022,6 @@ edana
 edaphic
 egalites
 espanol
-edaphically
 edaphon
 endoplastron
 edaphosaurus
@@ -12535,6 +12534,7 @@ escortment
 exigenter
 exigible
 exiguity
+edaphically
 exiguously
 exiguousness
 exilarch
