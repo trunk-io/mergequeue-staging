@@ -2491,7 +2491,6 @@ electromagnetist
 electromagnets
 electromassage
 electromechanical
-electromechanically
 electromer
 equivalenced
 electromeric
@@ -11343,6 +11342,7 @@ evangelicism
 exorbitantly
 extramoralist
 evangelicity
+electromechanically
 evangeline
 earwitness
 evangelisation
