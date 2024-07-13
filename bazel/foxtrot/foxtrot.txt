@@ -3975,6 +3975,7 @@ figure
 finished
 flatterdock
 forride
+foretack
 finisher
 finishes
 fortunetell
@@ -8044,7 +8045,6 @@ foreswearing
 fumacious
 foret
 faipule
-foretack
 fadeout
 fumette
 foretalk

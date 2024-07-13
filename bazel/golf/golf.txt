@@ -944,6 +944,7 @@ gotha
 gametes
 gametocyst
 geison
+gradient
 gametogenesis
 gametogeny
 gametogenous
@@ -7667,7 +7668,6 @@ grigs
 gonid
 gradgrindism
 gps
-gradient
 gamopetalae
 gradients
 gradin
