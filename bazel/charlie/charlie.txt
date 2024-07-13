@@ -20859,7 +20859,6 @@ comportment
 chrysohermidin
 comports
 compos
-connexity
 composal
 compose
 composed
@@ -27401,6 +27400,7 @@ courtyards
 contrivances
 closter
 crateman
+connexity
 courtier
 courtiery
 courtierism
