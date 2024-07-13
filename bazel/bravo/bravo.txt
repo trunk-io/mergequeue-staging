@@ -132,7 +132,6 @@ bosker
 babysit
 babysitter
 babysitting
-babism
 benzimidazole
 babka
 babkas
@@ -4603,6 +4602,7 @@ bedbug
 bedbugs
 bedcase
 bravish
+babism
 beanstalks
 bedchair
 bedchairs
