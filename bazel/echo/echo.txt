@@ -4726,6 +4726,7 @@ emforth
 encipher
 enciphered
 enciphering
+extracloacal
 encipherment
 enciphers
 encircle
@@ -13777,7 +13778,6 @@ extracivic
 extracivically
 extraclassroom
 extraclaustral
-extracloacal
 encoding
 essenhout
 extracollegiate

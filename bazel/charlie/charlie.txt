@@ -3672,7 +3672,6 @@ carbohemoglobin
 carbohydrase
 carbohydrate
 carbohydrates
-carbohydraturia
 carbohydrazide
 carbohydride
 chapatties
@@ -23278,6 +23277,7 @@ consult
 consulta
 consultable
 consultancy
+carbohydraturia
 consultant
 consultants
 crinet
