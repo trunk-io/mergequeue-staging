@@ -8285,7 +8285,6 @@ fluxmeter
 fileable
 fusty
 frey
-foiler
 fumeroot
 fork
 forkable
@@ -9939,6 +9938,7 @@ featureless
 fishhook
 fricando
 fricassee
+foiler
 fungistatic
 flintwood
 forethoughtfully
