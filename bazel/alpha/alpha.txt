@@ -9272,7 +9272,6 @@ antizymotic
 antiperiodic
 amenities
 alnaschar
-alnascharism
 alnein
 alnico
 alnicoes
@@ -18070,6 +18069,7 @@ apraxic
 apreynte
 aprendiz
 apricate
+alnascharism
 aprication
 antiferromagnetism
 asyndeton
