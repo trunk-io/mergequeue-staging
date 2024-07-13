@@ -2617,7 +2617,6 @@ daggles
 decolourizing
 decommission
 decommissioned
-dischase
 decommissioning
 dicranum
 decommissions
@@ -3103,6 +3102,7 @@ defang
 defassa
 defat
 defatigable
+dischase
 danai
 defatigation
 discommodate
