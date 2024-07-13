@@ -3251,6 +3251,7 @@ basicranial
 bauno
 basics
 basidia
+branchiostegal
 boneshaker
 basidial
 bacteriophobia
@@ -14473,7 +14474,6 @@ branchiosaur
 branchiosauria
 branchiosaurian
 branchiosaurus
-branchiostegal
 branchiostegan
 bumpsy
 branchiostege
