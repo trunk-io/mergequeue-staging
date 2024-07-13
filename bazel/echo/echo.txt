@@ -779,7 +779,6 @@ ecotype
 enfurrow
 excurvate
 entrapped
-extensure
 ecotonal
 ecotone
 entoptical
@@ -7497,6 +7496,7 @@ ephemeromorph
 ephemeromorphic
 empight
 ectobatic
+extensure
 ephemeron
 ephemeroptera
 earthlike
