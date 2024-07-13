@@ -11672,6 +11672,7 @@ discos
 discost
 dep
 discostate
+dredger
 dippy
 discostomatous
 discotheque
@@ -16954,7 +16955,6 @@ dwarfishness
 drecks
 dredge
 dredgeful
-dredger
 dredges
 dredging
 dree

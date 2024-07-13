@@ -6737,7 +6737,6 @@ enthalpy
 electrothanatosis
 electroacoustics
 epilogate
-efficaciousness
 enthalpies
 entheal
 explete
@@ -10728,6 +10727,7 @@ exacervation
 eucosmidae
 eucrasy
 eucrasia
+efficaciousness
 eucrasite
 epibatholithic
 eucre
