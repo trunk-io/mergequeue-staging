@@ -6940,7 +6940,6 @@ folksong
 folksongs
 folktale
 folktales
-folkvangr
 foll
 folles
 folly
@@ -10707,6 +10706,7 @@ frumple
 finalisms
 frumpled
 frumpling
+folkvangr
 frumps
 fingerprint
 forefault
