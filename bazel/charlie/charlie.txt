@@ -7729,7 +7729,6 @@ cowfishes
 cerionidae
 ceriops
 ceriornis
-ceriph
 ceriphs
 cerise
 charivaris
@@ -16191,6 +16190,7 @@ calefactories
 cliffside
 cliffweed
 clift
+ceriph
 coaptation
 cornhouse
 clifty
