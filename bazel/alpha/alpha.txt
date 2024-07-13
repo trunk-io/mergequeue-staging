@@ -6335,7 +6335,6 @@ achondroplastic
 asteatosis
 aglobulism
 aglossa
-aglossal
 aglossate
 aglossia
 aglucon
@@ -11570,6 +11569,7 @@ anabathrum
 anaberoga
 anabia
 anabibazon
+aglossal
 anablepidae
 anableps
 abaddon
