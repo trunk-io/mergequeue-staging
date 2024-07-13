@@ -11548,7 +11548,6 @@ choirlike
 choirman
 choirmaster
 convects
-choirmasters
 choyroot
 choirwise
 choise
@@ -31498,6 +31497,7 @@ cursorial
 cursoriidae
 cursorily
 cursorious
+choirmasters
 commissionaire
 cursorius
 cursors
