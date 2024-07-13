@@ -2595,7 +2595,6 @@ bargees
 bargehouse
 behoove
 bourgeoises
-bargelike
 bargelli
 bargellos
 bargeload
@@ -2641,6 +2640,7 @@ barid
 bunolophodont
 brusquest
 breezily
+bargelike
 baryecoia
 baryglossia
 barih
