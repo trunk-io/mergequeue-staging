@@ -14143,7 +14143,6 @@ cyphosis
 cipo
 cipolin
 cipolins
-cipollino
 cippi
 cippus
 cypraea
@@ -17334,6 +17333,7 @@ coarsen
 coarsened
 coarseness
 coarsening
+cipollino
 coarsens
 coarser
 coarsest
