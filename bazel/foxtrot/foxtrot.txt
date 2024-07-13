@@ -4328,6 +4328,7 @@ fisherpeople
 flits
 fishers
 fisherwoman
+foulmart
 fantastic
 factionary
 fishes
@@ -8892,7 +8893,6 @@ fname
 foulish
 foully
 fluidizes
-foulmart
 foulmouthedness
 foulness
 foulsome
