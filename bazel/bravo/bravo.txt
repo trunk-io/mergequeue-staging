@@ -8147,6 +8147,7 @@ bidi
 benton
 bidialectal
 bidialectalism
+bombsight
 bidimensional
 biding
 bidirectional
@@ -12351,7 +12352,6 @@ bombora
 bombous
 bombproof
 bombs
-bombsight
 bombsights
 bombus
 bomi
