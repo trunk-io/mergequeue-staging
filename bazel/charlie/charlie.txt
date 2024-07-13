@@ -2621,7 +2621,6 @@ cannings
 cannister
 cannisters
 cannoli
-cannon
 concubinarian
 cannonade
 cannonaded
@@ -19002,6 +19001,7 @@ comedically
 collectable
 collectables
 cubica
+cannon
 collectanea
 collectarium
 correctives
