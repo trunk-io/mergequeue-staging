@@ -2558,7 +2558,6 @@ gained
 gemsboks
 gemsbucks
 gheg
-gemse
 gemuetlich
 gemuti
 gemutlich
@@ -4717,6 +4716,7 @@ gypsophilous
 gypster
 gypsum
 gamelang
+gemse
 grilling
 gypsums
 genevois
