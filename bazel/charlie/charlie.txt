@@ -17015,7 +17015,6 @@ clusia
 castellanus
 chizz
 clusiaceae
-cluster
 clusterberry
 clustered
 clusterfist
@@ -27537,6 +27536,7 @@ cobblerism
 cribber
 coverless
 coverlet
+cluster
 coverlets
 coverlid
 coverlids
