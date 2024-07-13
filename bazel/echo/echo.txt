@@ -10892,7 +10892,6 @@ eulogiums
 eulogization
 embarkation
 eulogize
-eulogizers
 eulogizes
 ebeneous
 enabler
@@ -13121,6 +13120,7 @@ electrooptics
 expertship
 enc
 expetible
+eulogizers
 expiable
 expiate
 expiated
