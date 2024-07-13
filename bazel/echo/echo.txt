@@ -5252,7 +5252,6 @@ endophyllaceae
 esoterist
 eavesdroppers
 eurycerous
-endophyllous
 endophyllum
 endophytal
 enrolled
@@ -7952,6 +7951,7 @@ epilog
 epilogation
 epilogic
 exposture
+endophyllous
 epilogism
 epilogist
 evaginated

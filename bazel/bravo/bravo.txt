@@ -2867,6 +2867,7 @@ baronial
 baronies
 burry
 byspell
+bichord
 bewilders
 baronize
 beliefful
@@ -7994,7 +7995,6 @@ bichir
 bichloride
 bichlorides
 bulbocapnine
-bichord
 bichromate
 busthead
 bichromated
