@@ -17625,7 +17625,6 @@ catamited
 coccyzus
 cocco
 coccobaccilli
-coccobacillus
 coccochromatic
 coccogone
 coccogoneae
@@ -24767,6 +24766,7 @@ coprodaeum
 cummer
 coproduce
 coproducer
+coccobacillus
 coproduct
 coproduction
 coproite
