@@ -4611,6 +4611,7 @@ deathwatches
 dighter
 demipremiss
 demipuppet
+denotations
 defloration
 domesticized
 deforcing
@@ -16629,7 +16630,6 @@ deda
 damnonians
 drywall
 dactylopius
-denotations
 dragonesque
 dragoness
 dragonet
