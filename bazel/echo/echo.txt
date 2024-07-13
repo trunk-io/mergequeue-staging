@@ -2252,7 +2252,6 @@ electable
 electary
 elected
 enthraldom
-electees
 electic
 electioneer
 electioneered
@@ -7846,6 +7845,7 @@ epiglot
 eugenicists
 epiglottal
 evolutility
+electees
 enfeoffing
 epiglottic
 easting
