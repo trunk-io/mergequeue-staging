@@ -1666,6 +1666,7 @@ germanize
 gassings
 gassit
 gast
+generalizers
 goliardeys
 gossamer
 ghoulie
@@ -2657,7 +2658,6 @@ generalize
 girt
 generalizeable
 generalizer
-generalizers
 gene
 gauffred
 galerum
