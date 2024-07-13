@@ -2620,6 +2620,7 @@ etymons
 evanescible
 electrostatical
 electrosteel
+evaporator
 electrostenolysis
 electrostenolytic
 electrostriction
@@ -11388,7 +11389,6 @@ exercises
 excommunicates
 esotrope
 exceedingly
-evaporator
 euryalae
 evaporators
 evaporite
