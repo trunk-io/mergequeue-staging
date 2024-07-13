@@ -14079,7 +14079,6 @@ dystrophies
 drawlatch
 distrouser
 distruss
-distrust
 distruster
 disfame
 distrusting
@@ -16290,6 +16289,7 @@ downbye
 downcastness
 distaff
 downcasts
+distrust
 downcome
 downcomes
 dee
