@@ -12062,7 +12062,6 @@ chorister
 choristers
 choristership
 choristic
-choristoblastoma
 choristoma
 choristoneura
 cruiser
@@ -30811,6 +30810,7 @@ cultches
 cabombas
 ceratopsid
 cultelli
+choristoblastoma
 cultellus
 culti
 cultigen
