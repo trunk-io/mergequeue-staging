@@ -7776,7 +7776,6 @@ foremilk
 foremilks
 foremind
 foremost
-foremostly
 farse
 foremother
 forenamed
@@ -8898,6 +8897,7 @@ foulsome
 foumart
 foun
 frond
+foremostly
 faulds
 floury
 fertilizations
