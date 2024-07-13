@@ -727,7 +727,6 @@ diobolons
 diplanetic
 danceable
 danced
-dancer
 danceress
 dancers
 dancettee
@@ -8128,6 +8127,7 @@ diacetamide
 diacetic
 defs
 diacetyl
+dancer
 dichloroacetic
 dipsetic
 diacetylene
