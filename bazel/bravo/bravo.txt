@@ -3313,6 +3313,7 @@ bardulph
 basiliscus
 brawling
 basilosauridae
+bimotors
 basilweed
 basimesostasis
 basinal
@@ -16347,7 +16348,6 @@ brushiness
 brushing
 brushite
 brushless
-bimotors
 behaviour
 brushlike
 bises
