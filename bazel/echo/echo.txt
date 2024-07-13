@@ -6295,7 +6295,6 @@ enrollee
 emissions
 euphemise
 exhalant
-efoliolate
 endognath
 exsanguious
 enroller
@@ -9742,6 +9741,7 @@ esotericism
 ephemera
 esotericist
 esoterics
+efoliolate
 endoneurium
 esothyropexy
 esotropia
