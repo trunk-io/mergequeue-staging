@@ -12998,7 +12998,6 @@ eosins
 ecus
 expeditate
 expeditated
-exagitate
 expeditation
 ethnographist
 expedited
@@ -13336,6 +13335,7 @@ expound
 embryotomy
 expounder
 episcenium
+exagitate
 expounding
 expounds
 enrut
