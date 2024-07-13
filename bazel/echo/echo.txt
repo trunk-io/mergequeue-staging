@@ -5845,6 +5845,7 @@ engrossed
 engrossedly
 erythrolysin
 engrosser
+errorful
 engrossers
 engrosses
 escaped
@@ -9348,7 +9349,6 @@ erroneousness
 error
 errordump
 ejicient
-errorful
 errorist
 explicably
 ebriosity
