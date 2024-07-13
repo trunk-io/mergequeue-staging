@@ -2945,7 +2945,6 @@ fiaschi
 flossification
 fiascos
 fiat
-fiatconfirmatio
 fibrous
 fiats
 fiaunt
@@ -3346,6 +3345,7 @@ fiestas
 ficus
 fieulamort
 fifed
+fiatconfirmatio
 fifer
 fifes
 fifie
