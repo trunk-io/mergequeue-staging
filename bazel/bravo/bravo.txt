@@ -3119,6 +3119,7 @@ barways
 backrests
 barwal
 barware
+boilerhouse
 barwares
 barwin
 barwise
@@ -12010,7 +12011,6 @@ boildown
 boiled
 blackamoor
 boilerful
-boilerhouse
 boilerless
 boilermaker
 bridelace

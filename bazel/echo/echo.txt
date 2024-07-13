@@ -5345,7 +5345,6 @@ entozoa
 encrypt
 ecthyma
 endosporia
-endosporium
 exocentric
 endosporous
 endosporously
@@ -12249,6 +12248,7 @@ extromit
 excussio
 eggar
 electrometallurgist
+endosporium
 estradiot
 exdelicto
 exdie
