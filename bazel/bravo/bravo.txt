@@ -3785,7 +3785,6 @@ battlegrounds
 battlement
 battlemented
 battlepiece
-battlers
 battles
 battleships
 battlesome
@@ -15999,6 +15998,7 @@ brontophobia
 brontops
 burgages
 banked
+battlers
 bacillophobia
 butcheress
 brew
