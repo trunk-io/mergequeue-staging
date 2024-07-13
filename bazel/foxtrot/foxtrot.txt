@@ -1654,7 +1654,6 @@ fawningly
 fawnlike
 fieldward
 fawns
-fawnskin
 fax
 faxed
 filaria
@@ -3145,6 +3144,7 @@ fid
 fidac
 fishplate
 fidate
+fawnskin
 floodgate
 functorial
 fidawi
