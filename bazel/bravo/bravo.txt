@@ -4795,6 +4795,7 @@ bedrizzle
 bedrocks
 bedrolls
 blanched
+brightening
 bedrooms
 bridgemaker
 bedrown
@@ -15299,7 +15300,6 @@ brighteyes
 bemadams
 brightener
 brighteners
-brightening
 brightens
 brighter
 brightest
