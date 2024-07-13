@@ -13132,7 +13132,6 @@ conelet
 cyanophile
 cyanophilous
 cyanophoric
-cyanophose
 chorus
 cyanopia
 colloquize
@@ -27586,6 +27585,7 @@ cow
 cowage
 cowages
 coward
+cyanophose
 cowardy
 cowardice
 cumulatist
