@@ -3621,7 +3621,6 @@ booky
 bathochromatism
 bathochrome
 bendayed
-bathoflore
 batholith
 braciole
 batholithic
@@ -14546,6 +14545,7 @@ brannerite
 breadearning
 bidet
 brachyfacial
+bathoflore
 branners
 brannier
 branniest
