@@ -3612,7 +3612,6 @@ carbamide
 carbamidine
 carbamido
 carbamyl
-carbamyls
 carbamine
 carbamino
 carbamoyl
@@ -12713,6 +12712,7 @@ coauditor
 chronologer
 cassina
 chronology
+carbamyls
 chronologic
 chronological
 chronologically
