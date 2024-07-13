@@ -7875,6 +7875,7 @@ cervicomuscular
 cerviconasal
 concordant
 cervicorn
+cushionlike
 cardshark
 cervicoscapular
 cervicothoracic
@@ -31658,7 +31659,6 @@ cushioniness
 cushioning
 cushionless
 cannibalistic
-cushionlike
 cushions
 consumptivity
 cushite
