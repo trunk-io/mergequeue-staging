@@ -10638,7 +10638,6 @@ blearness
 bleat
 bleated
 bleater
-bleaty
 bleating
 brainwork
 bleatingly
@@ -15619,6 +15618,7 @@ broadly
 broadling
 broadlings
 broadloom
+bleaty
 broadmindedly
 broadmouth
 broadpiece
