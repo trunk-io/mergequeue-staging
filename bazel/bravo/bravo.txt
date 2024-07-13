@@ -3641,6 +3641,7 @@ bathrobe
 bathrobes
 bathroom
 bathroomed
+bacillary
 bathrooms
 bathroot
 baron
@@ -16475,7 +16476,6 @@ bubo
 blinkered
 buboed
 buboes
-bacillary
 bubonalgia
 bubonic
 bubonidae
