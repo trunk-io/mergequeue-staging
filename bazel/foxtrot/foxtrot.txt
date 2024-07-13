@@ -3373,6 +3373,7 @@ fightings
 fascio
 fightwite
 figitidae
+footrest
 figless
 figlike
 figmental
@@ -10043,7 +10044,6 @@ farde
 functionalities
 freshets
 frigorify
-footrest
 flacourtia
 fusinite
 fibrillating
