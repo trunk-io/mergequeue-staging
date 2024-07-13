@@ -5071,7 +5071,6 @@ aerogun
 aerohydrodynamic
 aerohydropathy
 aerohydroplane
-aerohydrotherapy
 apotheosise
 aquavalent
 armamentarium
@@ -13915,6 +13914,7 @@ anoperineal
 anophele
 anopheles
 anophelinae
+aerohydrotherapy
 anopheline
 anophyte
 anophoria
