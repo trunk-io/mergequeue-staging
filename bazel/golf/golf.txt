@@ -819,7 +819,6 @@ galvanoscopy
 gustiness
 galvanosurgery
 garnetlike
-gelogenic
 galvanotaxis
 gozell
 galvanotherapy
@@ -8661,6 +8660,7 @@ greenbelt
 glockenspiel
 glucide
 galabia
+gelogenic
 greenbone
 gaudsman
 greenbottle
