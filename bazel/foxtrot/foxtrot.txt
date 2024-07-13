@@ -626,6 +626,7 @@ fondlings
 falsificator
 falsified
 fiefs
+fringepod
 formalist
 figeater
 fiard
@@ -10090,7 +10091,6 @@ fringeless
 fringelet
 fringelike
 fringent
-fringepod
 fringetail
 fringier
 fringiest
