@@ -1880,7 +1880,6 @@ decarbonate
 dualistically
 debruised
 debruises
-debruising
 debs
 debt
 debted
@@ -3609,6 +3608,7 @@ deglutitory
 degold
 degorder
 descriptory
+debruising
 degradable
 degradation
 degradational
