@@ -7381,6 +7381,7 @@ engrail
 epaulement
 epauleted
 epaulets
+emboldening
 epaulette
 exerting
 epaxial
@@ -11422,7 +11423,6 @@ evener
 extraversion
 errite
 errands
-emboldening
 evenglow
 enfavor
 epagomenous
