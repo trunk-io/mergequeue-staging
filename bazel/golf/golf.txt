@@ -2250,6 +2250,7 @@ geckoes
 geckotid
 geckotidae
 gecks
+gussets
 gedackt
 gradientia
 gurged
@@ -10682,7 +10683,6 @@ gusseted
 genupectoral
 gusseting
 gwely
-gussets
 goburra
 gawkish
 gussied
