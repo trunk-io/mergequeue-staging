@@ -1673,6 +1673,7 @@ ballottine
 ballpark
 ballparks
 ballplayer
+bise
 ballplayers
 ballplatz
 bedrabbled
@@ -9627,7 +9628,6 @@ benevolency
 bridgeheads
 babbitter
 bisdimethylamino
-bise
 bisect
 bucko
 bisected
