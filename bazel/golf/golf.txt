@@ -8170,6 +8170,7 @@ grapewise
 graphalloy
 gyrostatic
 groover
+graphitizable
 graphed
 gelatines
 grapheme
@@ -8690,7 +8691,6 @@ glucoside
 greybeard
 greenheaded
 greenheart
-graphitizable
 gladful
 greenhide
 gestational
