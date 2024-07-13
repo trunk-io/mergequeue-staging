@@ -3196,7 +3196,6 @@ defend
 defendable
 defendant
 defendants
-defended
 disaccharidase
 defender
 defenders
@@ -5155,6 +5154,7 @@ delight
 displeases
 denigrator
 delies
+defended
 denigratory
 droolier
 denigrators

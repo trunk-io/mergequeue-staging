@@ -1094,7 +1094,6 @@ foremast
 faroese
 faros
 filmgoer
-flighted
 farragos
 farcie
 farrand
@@ -5624,6 +5623,7 @@ flypaper
 foolfish
 ferns
 fixedly
+flighted
 flypapers
 flypasts
 flipe
