@@ -2595,7 +2595,6 @@ cannet
 cannetille
 canny
 cannibal
-cannibalish
 cannibalism
 cannibalistically
 cannibality
@@ -21957,6 +21956,7 @@ confesses
 confessing
 confessingly
 confession
+cannibalish
 confessional
 confessionalian
 cloggier
