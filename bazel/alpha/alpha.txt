@@ -2790,7 +2790,6 @@ acquital
 acquitment
 areng
 acquittal
-acquittals
 acquitted
 acquitter
 acquitting
@@ -17540,6 +17539,7 @@ apotheose
 apotheoses
 apotheosis
 archaism
+acquittals
 apotheosised
 apotheosized
 allylamine
