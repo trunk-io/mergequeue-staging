@@ -5444,7 +5444,6 @@ affixture
 alymphia
 afflate
 afflated
-afflatus
 afflatuses
 afflict
 algesireceptor
@@ -15591,6 +15590,7 @@ atherosperma
 antimale
 antilogous
 antimallein
+afflatus
 asterin
 antimaniac
 antepagments
