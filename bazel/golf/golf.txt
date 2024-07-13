@@ -2034,7 +2034,6 @@ gaussian
 gaussmeter
 geometrical
 gausterer
-gaut
 greedier
 geognostically
 gauteite
@@ -6500,6 +6499,7 @@ gobbledygook
 gobbler
 gobbling
 gobelin
+gaut
 gooey
 gobemouche
 gobet
