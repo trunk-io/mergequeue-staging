@@ -3597,7 +3597,6 @@ embowelled
 empyrosis
 emboweller
 embowelling
-embowelment
 endocarpoid
 embower
 embowered
@@ -8983,6 +8982,7 @@ ergotamine
 extrathecal
 experientialistic
 eyecup
+embowelment
 epidermatous
 ergothioneine
 ergotic
