@@ -13452,7 +13452,6 @@ bouchon
 bisphenoid
 bouchons
 bothered
-boucle
 boucles
 bouderie
 boudeuse
@@ -16613,6 +16612,7 @@ buckles
 barse
 balanta
 buckoes
+boucle
 buckone
 bemocks
 buckpot
