@@ -5255,6 +5255,7 @@ aesture
 aestus
 aet
 artillery
+avouch
 aethalia
 aethalioid
 abstriction
@@ -24832,7 +24833,6 @@ avolitional
 avondbloem
 avosets
 amphicyrtic
-avouch
 annihilable
 avouchable
 avouched
