@@ -5850,6 +5850,7 @@ depositor
 depository
 depositories
 depositum
+didle
 depositure
 derailleur
 depot
@@ -9194,7 +9195,6 @@ didynamic
 didynamous
 didine
 didinium
-didle
 didler
 diffund
 didn
