@@ -5826,6 +5826,7 @@ catercorner
 catercornered
 catercornerways
 catercousin
+constitutiveness
 catered
 caterer
 chichili
@@ -23177,7 +23178,6 @@ constitutionless
 constitutions
 constitutive
 constitutively
-constitutiveness
 clam
 constitutor
 chlorophyllase
