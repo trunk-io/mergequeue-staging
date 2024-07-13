@@ -12541,7 +12541,6 @@ exilarch
 endarchies
 exilarchate
 exile
-excogitated
 excambion
 earlduck
 emergency
@@ -13056,6 +13055,7 @@ expensiveness
 elatedness
 expergefacient
 embreastment
+excogitated
 expergefaction
 ebonize
 enwall
