@@ -3041,7 +3041,6 @@ deerstalker
 deerstalkers
 deerstalking
 deerstand
-deertongue
 destructors
 deervetch
 deerweed
@@ -9495,6 +9494,7 @@ digestibleness
 digestibly
 digestif
 distrito
+deertongue
 digesting
 digestion
 dingling
