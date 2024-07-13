@@ -1152,7 +1152,6 @@ courtnoll
 calden
 caldera
 calderas
-calderium
 caldron
 caldrons
 calean
@@ -11014,6 +11013,7 @@ chiromance
 chiromancy
 chiromancist
 chiromant
+calderium
 chiromantic
 chiromantical
 chiromantis
