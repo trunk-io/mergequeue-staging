@@ -610,7 +610,6 @@ groundwood
 galliasses
 gallybagger
 gallybeggar
-gunman
 gallic
 galoisian
 gonk
@@ -10252,6 +10251,7 @@ guinea
 gorsehatch
 guinean
 guazzo
+gunman
 guineapig
 gazoz
 gup
