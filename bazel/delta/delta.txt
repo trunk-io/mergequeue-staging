@@ -5345,7 +5345,6 @@ durability
 denticule
 dentiferous
 dentiform
-dentifrice
 dentigerous
 dentilabial
 dentilated
@@ -10283,6 +10282,7 @@ descanter
 diocesian
 dolcian
 deejays
+dentifrice
 decares
 dioctahedral
 dioctophyme
