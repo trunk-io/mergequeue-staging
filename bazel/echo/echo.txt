@@ -7557,7 +7557,6 @@ epibenthic
 epibiotic
 epiblast
 epicheirema
-emboites
 escharine
 excreation
 engrandize
@@ -9866,6 +9865,7 @@ essenical
 essenis
 essenism
 essentialism
+emboites
 elastica
 essentialist
 eugenia
