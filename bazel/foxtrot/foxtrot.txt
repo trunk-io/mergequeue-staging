@@ -1773,6 +1773,7 @@ freshmanic
 floods
 feathertop
 featherway
+feverlike
 featherweight
 featherweights
 featherwing
@@ -2872,7 +2873,6 @@ filea
 floating
 feverishness
 fulminate
-feverlike
 feverous
 feverroot
 furmities
