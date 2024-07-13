@@ -8174,7 +8174,6 @@ emplaned
 episcopicide
 episcopise
 episcopised
-episcopising
 episcopization
 episcopize
 episcopized
@@ -12317,6 +12316,7 @@ embrectomy
 executrix
 executrixes
 executrixship
+episcopising
 exede
 extendibility
 exedent
