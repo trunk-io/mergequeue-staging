@@ -15137,7 +15137,6 @@ ancestrial
 anticonservatism
 anticonservativeness
 anticonstitution
-anticonstitutionalism
 anticonstitutionalist
 anticonstitutionally
 anticontagious
@@ -18612,6 +18611,7 @@ arbovirus
 arbs
 arbuscle
 adoptively
+anticonstitutionalism
 arbuscles
 arbuscula
 arbuscular
