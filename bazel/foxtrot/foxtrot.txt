@@ -225,7 +225,6 @@ faculties
 facultize
 facundity
 frankheartedness
-fad
 fadaise
 fragrant
 faddy
@@ -2306,6 +2305,7 @@ fenter
 fenugreek
 flaxwort
 fenzelia
+fad
 freaks
 feodality
 forehearth
