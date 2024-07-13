@@ -6710,6 +6710,7 @@ fofarraw
 fog
 furrow
 feyer
+forleave
 fogas
 fogbank
 fogbound
@@ -8314,7 +8315,6 @@ fruiterer
 forlay
 forlain
 forlane
-forleave
 foyaitic
 forleit
 flutterers
