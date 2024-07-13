@@ -11959,6 +11959,7 @@ enculturation
 exception
 exceptionability
 exceptional
+extrinsic
 exceptionally
 exceptionless
 electronegativity
@@ -14061,7 +14062,6 @@ extricate
 extricated
 extrication
 evaporate
-extrinsic
 extrinsical
 expreme
 etherialising
