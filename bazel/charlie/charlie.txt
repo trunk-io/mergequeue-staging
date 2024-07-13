@@ -3005,6 +3005,7 @@ capelan
 copperwing
 capelans
 capelet
+chipwood
 capelin
 capeline
 capelins
@@ -10952,7 +10953,6 @@ chipproof
 chypre
 chips
 carpenter
-chipwood
 chiquero
 chiquest
 crosses
