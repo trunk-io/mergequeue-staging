@@ -11424,7 +11424,6 @@ furmint
 freeboard
 fica
 factions
-foremasthand
 featherpated
 fourteenthly
 flatlet
@@ -11591,6 +11590,7 @@ forestry
 fumattoria
 forcipes
 fusinist
+foremasthand
 floodometer
 flunkyize
 fusion

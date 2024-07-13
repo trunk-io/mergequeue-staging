@@ -11147,7 +11147,6 @@ disasinize
 disassemble
 disassembled
 disassembler
-disassembles
 disassembly
 durwaun
 disassembling
@@ -16931,6 +16930,7 @@ dreamlet
 daybill
 drumble
 dreamlike
+disassembles
 depersonalize
 desegmented
 dreams
