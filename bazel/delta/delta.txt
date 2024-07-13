@@ -3504,6 +3504,7 @@ defroster
 defrosters
 defrosting
 defter
+drugman
 defterdar
 dizain
 deftly
@@ -17537,7 +17538,6 @@ druggist
 druggister
 drugless
 disloyalist
-drugman
 delicateness
 drugs
 drugstores
