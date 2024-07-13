@@ -2050,7 +2050,6 @@ elabrate
 elachistaceae
 elachistaceous
 encodes
-elaeagnus
 ephebeum
 elaeis
 elaeoblastic
@@ -2590,6 +2589,7 @@ electropolish
 electropositive
 electropower
 epizoan
+elaeagnus
 electropsychrometer
 embrasured
 electropuncturation
