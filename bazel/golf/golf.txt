@@ -2583,7 +2583,6 @@ guardsmen
 genal
 genapp
 genapped
-gater
 genarch
 genarcha
 granddad
@@ -7374,6 +7373,7 @@ gossiper
 gossipers
 gossiphood
 geodic
+gater
 gentianal
 gaudeamuses
 gravicembalo

@@ -1541,7 +1541,6 @@ accersitor
 access
 accessability
 accessable
-agamae
 autogyros
 accessaries
 accessed
@@ -17093,6 +17092,7 @@ aplacentaria
 aplacophora
 aplacophoran
 aplanat
+agamae
 aplanatic
 aplanatically
 aplanatism
