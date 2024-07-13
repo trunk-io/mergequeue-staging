@@ -3989,7 +3989,6 @@ emolliate
 emollience
 emollition
 emoloa
-emolumentary
 emoluments
 emong
 emony
@@ -8740,6 +8739,7 @@ equipotentiality
 equipped
 eloigners
 equipping
+emolumentary
 equiprobable
 equiprobably
 equiproportional
