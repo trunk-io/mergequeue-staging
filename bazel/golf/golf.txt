@@ -2837,7 +2837,6 @@ genitivally
 genitocrural
 gaolers
 grails
-genitofemoral
 grisset
 grasps
 genitor
@@ -3762,6 +3761,7 @@ ghanaian
 gastronomy
 gigas
 gharris
+genitofemoral
 gdinfo
 ghassanid
 ghast
