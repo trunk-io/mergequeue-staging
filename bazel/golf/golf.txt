@@ -902,7 +902,6 @@ gamdeboo
 gasteropod
 gamebag
 gauby
-gamecraft
 grimly
 gibbetwise
 gameful
@@ -2106,6 +2105,7 @@ gawkhammer
 gawky
 grunters
 gawkier
+gamecraft
 gawkies
 grissons
 gynecium
