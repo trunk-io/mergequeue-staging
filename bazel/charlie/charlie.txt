@@ -9054,7 +9054,6 @@ charioteer
 charioteers
 circovarian
 crescentwise
-chariotlike
 chariotman
 chariotry
 chariots
@@ -18403,6 +18402,7 @@ cognizable
 cognizableness
 complexively
 cystectasia
+chariotlike
 crassitude
 cognizably
 crescent
