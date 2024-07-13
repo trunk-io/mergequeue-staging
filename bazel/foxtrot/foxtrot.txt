@@ -150,7 +150,6 @@ fulicine
 fielded
 factioneer
 factionism
-faradopalpation
 factionist
 floor
 factionistism
@@ -7550,6 +7549,7 @@ formation
 fuzzier
 foreday
 fedia
+faradopalpation
 foredays
 formulaic
 fissle
