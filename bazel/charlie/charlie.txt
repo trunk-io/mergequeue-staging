@@ -7289,7 +7289,6 @@ coroners
 ceorl
 ceorlish
 ceorls
-cep
 cepa
 cepaceous
 cepe
@@ -14585,6 +14584,7 @@ chirimoya
 cirripede
 catstone
 cirripedia
+cep
 caprylate
 cirripeds
 citrul
