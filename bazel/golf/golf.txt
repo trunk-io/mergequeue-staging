@@ -6688,7 +6688,6 @@ goldfinch
 greillade
 goldfinny
 goldflower
-goldhammer
 goldhead
 greaseless
 garottes
@@ -10160,6 +10159,7 @@ guided
 guideless
 giallolino
 grout
+goldhammer
 guidelines
 guideposts
 gastrulate
