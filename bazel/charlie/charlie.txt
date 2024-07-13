@@ -14715,7 +14715,6 @@ cystidean
 cystidia
 cystidium
 cystidiums
-cystiferous
 caftan
 cystiform
 cystigerous
@@ -18979,6 +18978,7 @@ collationer
 collations
 cesti
 compartimento
+cystiferous
 collatitious
 collative
 curatial
