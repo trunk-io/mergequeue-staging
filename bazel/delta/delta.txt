@@ -2367,7 +2367,6 @@ dundee
 dueling
 decimalist
 decimalization
-decimalize
 decimalized
 decimalizes
 decimally
@@ -11427,6 +11426,7 @@ discloser
 disclosing
 disclosive
 disclosure
+decimalize
 discloud
 disclout
 disclusion
