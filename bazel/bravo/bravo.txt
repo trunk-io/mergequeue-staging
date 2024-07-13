@@ -3687,7 +3687,6 @@ batonnier
 batons
 brazier
 batoon
-batrachia
 batrachian
 batrachians
 batrachiate
@@ -12674,6 +12673,7 @@ bookit
 bookkeep
 bookkeeper
 bookkeepers
+batrachia
 basiliscan
 bookkeeps
 bearhide
