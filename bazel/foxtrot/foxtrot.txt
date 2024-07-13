@@ -2547,7 +2547,6 @@ fontanels
 ferronatrite
 friend
 ferrophosphorus
-ferroprint
 filicologist
 ferroprussic
 fungologist
@@ -9929,6 +9928,7 @@ fertilisational
 fribbleism
 fribblers
 friskle
+ferroprint
 flaglet
 fructiculose
 fribblish
