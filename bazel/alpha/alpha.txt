@@ -3639,6 +3639,7 @@ attentiveness
 addrest
 adds
 addu
+appt
 armorist
 adduce
 antilyssic
@@ -18044,7 +18045,6 @@ application
 amyxorrhea
 approximative
 approximativeness
-appt
 apptd
 appui
 axoneme
