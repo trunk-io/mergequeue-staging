@@ -3314,7 +3314,6 @@ geldability
 geostrategy
 gossamery
 grenadiership
-geostrophic
 ganglands
 geotactic
 goons
@@ -5404,6 +5403,7 @@ gleesome
 gleet
 gleetier
 gleetiest
+geostrophic
 gleeting
 gleewoman
 gerbillus
