@@ -7483,6 +7483,7 @@ editchar
 engluts
 ephemeric
 ephemerid
+enoint
 emotiomuscular
 ephemerida
 epoptist
@@ -10963,7 +10964,6 @@ eupatory
 eupatorin
 eupatorine
 eupatorium
-enoint
 eupatrid
 ebenaceae
 eupatridae
