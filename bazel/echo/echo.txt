@@ -1092,7 +1092,6 @@ edging
 envine
 equipper
 edibility
-eassel
 edible
 edibleness
 edibles
@@ -1581,6 +1580,7 @@ eggplant
 electrochronographic
 educatee
 eschrufe
+eassel
 encradle
 enwallow
 eggroll
