@@ -3919,7 +3919,6 @@ cycle
 cardcase
 cardcases
 cardecu
-carded
 carders
 cardholder
 cardholders
@@ -30181,6 +30180,7 @@ crullers
 crumb
 cuniculus
 crumbable
+carded
 crumbed
 coordinate
 crumber
