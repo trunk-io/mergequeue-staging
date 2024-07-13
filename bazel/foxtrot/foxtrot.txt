@@ -2421,7 +2421,6 @@ fibra
 fern
 fernandinite
 flexured
-fernando
 fernbird
 fernbrake
 fascist
@@ -11469,6 +11468,7 @@ factorability
 furomethyl
 fishmen
 furomonazole
+fernando
 froze
 forgemen
 falconries
