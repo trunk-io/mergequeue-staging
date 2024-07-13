@@ -1589,7 +1589,6 @@ eggwhisk
 egypt
 egyptian
 egyptianism
-egyptianize
 egyptologer
 enam
 epipany
@@ -6377,6 +6376,7 @@ enshrined
 ectomorphic
 enshrines
 enshroud
+egyptianize
 enshrouded
 elementalistically
 enshrouds
