@@ -1676,6 +1676,7 @@ frontierman
 fchar
 fipenny
 fcomp
+furling
 fractal
 fconvert
 farcin
@@ -11408,7 +11409,6 @@ fastigiated
 flatworms
 furler
 furless
-furling
 fiscality
 foemen
 furlong
