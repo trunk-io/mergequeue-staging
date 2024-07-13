@@ -15683,7 +15683,6 @@ antimodel
 antimodern
 altitudinal
 antimodernist
-antimodernistic
 antimodernization
 antimodernly
 antimodernness
@@ -18874,6 +18873,7 @@ asepticism
 archeries
 archers
 archership
+antimodernistic
 archespore
 archespores
 angeronalia
