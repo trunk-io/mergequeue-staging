@@ -6208,6 +6208,7 @@ deformability
 derivedness
 deriver
 dispensatory
+drawcard
 derivers
 deriving
 derk
@@ -16815,7 +16816,6 @@ dibenzyl
 deoxygenated
 drawbores
 drawbridges
-drawcard
 drawcut
 dolichostylous
 drawdowns
