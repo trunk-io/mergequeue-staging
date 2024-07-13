@@ -6330,7 +6330,6 @@ enscale
 erostrate
 enscene
 ensconces
-ensconcing
 ethiopia
 enscrolled
 enscrolls
@@ -7375,6 +7374,7 @@ eparchy
 eparchial
 eparchies
 eparchs
+ensconcing
 ericius
 engrail
 epaulement
