@@ -4902,7 +4902,6 @@ gyroscopic
 glutetei
 gumboils
 gyroscopics
-girosol
 gyrostabilized
 ghat
 gyrostachys
@@ -7149,6 +7148,7 @@ goosegog
 gashy
 galvanometers
 gooseherd
+girosol
 grassless
 goosehouse
 geezer
