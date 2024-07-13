@@ -16354,6 +16354,7 @@ behaviour
 brushlike
 bises
 brushmaking
+buffets
 brushman
 bodyplate
 brushmen
@@ -16765,7 +16766,6 @@ bibliokelpt
 buffeters
 buffeting
 berating
-buffets
 buffy
 bromatium
 buffier
