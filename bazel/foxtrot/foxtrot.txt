@@ -3694,6 +3694,7 @@ fluxion
 filmsetter
 filmsetting
 filmslide
+fellest
 filmstrip
 filmstrips
 filoplume
@@ -7863,7 +7864,6 @@ forerake
 foreran
 foreranks
 forereaching
-fellest
 foreread
 farsakh
 forereckon
