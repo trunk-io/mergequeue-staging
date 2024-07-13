@@ -4742,6 +4742,7 @@ advisers
 advises
 advising
 advisive
+acrose
 advisiveness
 adviso
 alferez
@@ -7966,7 +7967,6 @@ alength
 ak
 alentours
 alenu
-acrose
 alephs
 alephzero
 alepidote
