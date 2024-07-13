@@ -5775,7 +5775,6 @@ bellicosity
 bellicosities
 bellied
 bellyer
-bemba
 bellies
 belliferous
 bellyflaught
@@ -10999,6 +10998,7 @@ blocked
 blocker
 blockhead
 blockheaded
+bemba
 backfields
 blockheadedly
 blockheadedness
