@@ -315,7 +315,6 @@ eastre
 easts
 euphoniousness
 eastward
-eat
 eatableness
 eatables
 eatberry
@@ -9534,6 +9533,7 @@ electroencephalographical
 epistemology
 eschaunge
 embraces
+eat
 exploitations
 escheatage
 escheated
