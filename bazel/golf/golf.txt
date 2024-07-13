@@ -2912,7 +2912,6 @@ gibberellin
 giantlikeness
 geysers
 goodhearted
-gentian
 gentiana
 globousness
 gryphite
@@ -5526,6 +5525,7 @@ glycols
 glycoluric
 gloms
 glycoluril
+gentian
 gnarl
 glyconean
 glyconeogenesis
