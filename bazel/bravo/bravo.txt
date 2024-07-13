@@ -9701,6 +9701,7 @@ bontok
 bisilicate
 bisyllabic
 bisyllabism
+bocasine
 bisimine
 bisymmetry
 bisymmetric
@@ -11971,7 +11972,6 @@ boycott
 bargeman
 boycottage
 boycotting
-bocasine
 boycottism
 boycotts
 boidae

@@ -1778,7 +1778,6 @@ gastroenterocolitis
 gastroenterocolostomy
 gesneria
 gastroenterological
-gonfalcon
 gwen
 gastroenterostomy
 gastroenterostomies
@@ -3053,6 +3052,7 @@ grummest
 geocronite
 gnoff
 gillbird
+gonfalcon
 geodesy
 gaits
 geodesia
