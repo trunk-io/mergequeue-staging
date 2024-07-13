@@ -9164,7 +9164,6 @@ charquid
 crankcase
 charquis
 charr
-charras
 charre
 cephalagra
 charred
@@ -9688,6 +9687,7 @@ cheer
 cheered
 clauber
 cecil
+charras
 cheerer
 cheerfuller
 cheerfullest
