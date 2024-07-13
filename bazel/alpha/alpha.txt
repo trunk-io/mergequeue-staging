@@ -7871,7 +7871,6 @@ aldm
 anthozooid
 aldoheptose
 antatrophic
-aldoketene
 aldol
 aldolase
 aldolases
@@ -16769,6 +16768,7 @@ apelet
 apelike
 apeling
 apellous
+aldoketene
 apeman
 apemantus
 apennine
