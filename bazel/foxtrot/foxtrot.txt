@@ -5451,7 +5451,6 @@ flexed
 flexes
 ferroboron
 flexibilities
-flexible
 flexibleness
 frumpiness
 flavic
@@ -6834,6 +6833,7 @@ fado
 falconets
 foldedly
 feverishly
+flexible
 folden
 fuliginous
 fluorins
