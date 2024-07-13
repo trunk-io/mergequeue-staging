@@ -479,6 +479,7 @@ boskets
 backrush
 backsaw
 beltman
+bisaxillary
 brickle
 bristly
 backsaws
@@ -9599,7 +9600,6 @@ bisaltae
 becoiffed
 bisantler
 benzazimide
-bisaxillary
 bisbeeite
 biscacha
 biscayan
