@@ -3602,6 +3602,7 @@ baudery
 bathysphere
 bister
 beneplacit
+bands
 bravely
 bathythermograph
 bathkol
@@ -3858,7 +3859,6 @@ bavardage
 bavary
 besugar
 bavarian
-bands
 bavaroy
 bavarois
 bavette
