@@ -11904,7 +11904,6 @@ analogs
 analogue
 adjectitious
 analogues
-analphabete
 analphabetic
 awink
 administrate
@@ -23420,6 +23419,7 @@ augure
 augured
 augurers
 auguries
+analphabete
 auguring
 accountment
 augurous
