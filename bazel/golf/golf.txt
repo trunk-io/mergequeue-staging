@@ -4386,7 +4386,6 @@ gyms
 gaunted
 gin
 gyn
-gynaecea
 governess
 genapper
 gynaecia
@@ -9899,6 +9898,7 @@ guarand
 guarani
 guaranian
 guaranies
+gynaecea
 guaranine
 glossosteresis
 gegg
