@@ -4782,6 +4782,7 @@ gyrencephalous
 gallivat
 gyres
 gyrfalcon
+guarache
 gyrfalcons
 guillotiner
 grimalkin
@@ -5706,7 +5707,6 @@ globalism
 globalist
 globalists
 globality
-guarache
 globalizing
 galloflavin
 globally
