@@ -8563,7 +8563,6 @@ champak
 champaka
 champaks
 champart
-champe
 champed
 cardiodysesthesia
 champer
@@ -16505,6 +16504,7 @@ clivias
 clivis
 clivus
 clk
+champe
 clo
 cloaca
 cloacae
