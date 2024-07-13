@@ -10643,7 +10643,6 @@ expositoriness
 eucalyn
 eucalypteol
 emporia
-eucalypti
 eucalyptic
 emetine
 eveline
@@ -13198,6 +13197,7 @@ emulations
 expletives
 exestuate
 expletory
+eucalypti
 explicability
 elocution
 explicandum
