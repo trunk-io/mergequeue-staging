@@ -11273,6 +11273,7 @@ chloramine
 chloramphenicol
 chiffre
 chloranaemia
+cryptocarp
 coperception
 chloranemia
 chloranemic
@@ -29285,7 +29286,6 @@ cryptobranchus
 complain
 cryptocarya
 cabas
-cryptocarp
 cryptocarpic
 cryptocarpous
 cryptocephala
