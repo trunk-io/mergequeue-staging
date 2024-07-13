@@ -15806,7 +15806,6 @@ codeless
 clavellated
 cacaxte
 chenopod
-claver
 clavered
 clavering
 clavi
@@ -29724,6 +29723,7 @@ crony
 cuckoo
 cronian
 cronie
+claver
 cronied
 cronies
 cronying
