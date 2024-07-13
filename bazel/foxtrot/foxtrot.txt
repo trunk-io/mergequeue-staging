@@ -954,7 +954,6 @@ farceurs
 forecasters
 farci
 farcial
-farcialize
 farcicality
 farcically
 farcicalness
@@ -7368,6 +7367,7 @@ force
 fishwife
 focussing
 forceful
+farcialize
 forcefully
 forceless
 forcelet
