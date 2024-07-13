@@ -12591,7 +12591,6 @@ corollas
 chromonema
 chromonemal
 chromonemata
-cassinoid
 chromonematic
 chromonemic
 chalcolithic
@@ -16811,6 +16810,7 @@ cloudberry
 chindi
 crotalinae
 cloudberries
+cassinoid
 chautauquan
 cloudbursts
 cloudcap
