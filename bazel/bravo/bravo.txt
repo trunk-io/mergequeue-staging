@@ -1692,6 +1692,7 @@ ballsiest
 brotherly
 ballstock
 baptize
+breakable
 bullterrier
 binocs
 ballup
@@ -14794,7 +14795,6 @@ breadwinners
 breadwinning
 breaghe
 break
-breakable
 breakables
 butadiene
 breakage
