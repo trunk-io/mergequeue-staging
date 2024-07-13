@@ -1622,7 +1622,6 @@ grammatic
 greenlandish
 gasman
 gleyde
-gasogene
 galeenies
 gasohol
 griffado
@@ -10445,6 +10444,7 @@ gyroidal
 gump
 gumption
 gumptionless
+gasogene
 gumptions
 gibbon
 gumptious
