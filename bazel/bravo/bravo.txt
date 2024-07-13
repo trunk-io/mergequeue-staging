@@ -4030,6 +4030,7 @@ beak
 backset
 bluishness
 buhl
+bondswoman
 beakerful
 beakerman
 beakermen
@@ -12437,7 +12438,6 @@ bondsman
 bondsmen
 bondstone
 beslimed
-bondswoman
 bondswomen
 bonduc
 bonducnut
