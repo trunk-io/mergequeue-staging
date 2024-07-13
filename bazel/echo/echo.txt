@@ -293,6 +293,7 @@ elne
 ectotheca
 expiringly
 exiles
+exhaustiveness
 eastertide
 eastings
 electrotechnician
@@ -12464,7 +12465,6 @@ exhaustibility
 ekistic
 exhaustion
 ethnize
-exhaustiveness
 exhaustivity
 exhaustless
 eyght
