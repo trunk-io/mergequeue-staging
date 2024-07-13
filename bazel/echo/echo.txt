@@ -5494,7 +5494,6 @@ enent
 enepidermic
 energeia
 entad
-energetic
 energetical
 emyd
 euonymuses
@@ -9094,6 +9093,7 @@ erythraea
 echeneidid
 erythraean
 erythraeidae
+energetic
 electro
 erythrean
 erythremia
