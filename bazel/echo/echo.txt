@@ -9262,7 +9262,6 @@ erosive
 embattled
 evanid
 erosiveness
-erosivity
 emancipates
 extravaganzas
 encumbers
@@ -13125,6 +13124,7 @@ expetible
 expiable
 expiate
 expiated
+erosivity
 epicedia
 exopterygota
 expiational
