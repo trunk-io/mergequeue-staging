@@ -6292,7 +6292,6 @@ banchi
 benthon
 bicentenarnaries
 bridleman
-benthopelagic
 benthos
 brigandage
 benthoscope
@@ -17143,6 +17142,7 @@ bullyrag
 bullyragged
 bullyragging
 boomers
+benthopelagic
 buckramed
 bullyrock
 bullish
