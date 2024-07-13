@@ -8052,7 +8052,6 @@ gonotome
 glandiform
 grangerize
 greenling
-grangerizing
 gold
 grangers
 granilla
@@ -8439,6 +8438,7 @@ gravamina
 girthed
 grave
 grattoirs
+grangerizing
 gravecloth
 graveclothes
 gravedigger

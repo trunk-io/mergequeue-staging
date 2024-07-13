@@ -4208,6 +4208,7 @@ deliverers
 deliveress
 deliveryman
 dekameters
+dipcoat
 deliverymen
 deliverly
 delivers
@@ -10716,7 +10717,6 @@ depudorate
 duvetine
 diaspidine
 dippable
-dipcoat
 dufrenoysite
 dope
 derestrict
