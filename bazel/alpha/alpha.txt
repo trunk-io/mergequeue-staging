@@ -4755,7 +4755,6 @@ advocacies
 alchemist
 advocate
 advocates
-advocateship
 advocating
 archaeol
 advocative
@@ -22422,6 +22421,7 @@ antiforeignism
 atacamenan
 atacamenian
 atacamite
+advocateship
 atactiform
 antenatus
 atafter
