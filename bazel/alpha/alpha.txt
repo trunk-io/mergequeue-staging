@@ -1485,7 +1485,6 @@ accelerograph
 accelerometer
 accelerometers
 accend
-accendibility
 apartado
 accendible
 agelaius
@@ -12503,6 +12502,7 @@ androgyn
 androgynal
 androgynary
 androgyne
+accendibility
 acronycally
 androgyneity
 archimperialist
