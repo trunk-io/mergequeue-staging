@@ -13412,7 +13412,6 @@ androphagous
 anisodactylous
 anisogamete
 admissible
-anisogametes
 anisogametic
 anisogamy
 anisogamic
@@ -14419,6 +14418,7 @@ antetype
 antetypes
 anteva
 anteversion
+anisogametes
 anteverted
 apasttra
 anteverting
