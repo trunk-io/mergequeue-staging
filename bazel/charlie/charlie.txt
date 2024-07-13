@@ -9355,7 +9355,6 @@ cerned
 chatterbag
 chatterbox
 chatterer
-chattererz
 chattering
 chatteringly
 cardioplasty
@@ -27565,6 +27564,7 @@ cumulophyric
 covetous
 covetously
 covetousness
+chattererz
 covibrate
 covibration
 covid

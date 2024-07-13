@@ -2704,7 +2704,6 @@ barken
 beknights
 barkening
 barkentine
-barkentines
 barker
 barkery
 barkers
@@ -13984,6 +13983,7 @@ brachydactylia
 brachydactylic
 brachydactylism
 brachydactylous
+barkentines
 brachydiagonal
 bevels
 brachydodrome
