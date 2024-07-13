@@ -5662,7 +5662,6 @@ flirting
 flirtingly
 flirts
 flisk
-flisked
 feudatorial
 fliskier
 forkful
@@ -6145,6 +6144,7 @@ flowage
 flowcharted
 flowcharting
 fulicinae
+flisked
 flowcharts
 flutey
 flowcontrol
