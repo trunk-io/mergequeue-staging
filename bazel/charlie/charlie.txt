@@ -2772,6 +2772,7 @@ cantate
 cantation
 carbolate
 carrells
+cereless
 cantator
 cantatory
 cantatrice
@@ -7669,7 +7670,6 @@ cerecloth
 cellarway
 cerecloths
 cered
-cereless
 cerement
 cerements
 convincingness
