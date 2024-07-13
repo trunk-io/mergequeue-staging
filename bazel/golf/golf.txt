@@ -5146,6 +5146,7 @@ gendered
 guige
 glauconite
 glaymore
+gnomide
 grubbiness
 glair
 glumiferous
@@ -7876,7 +7877,6 @@ gramoches
 geocentrically
 gramophonic
 gitanemuk
-gnomide
 graphometer
 gauzes
 gratiolin
