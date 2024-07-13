@@ -16172,7 +16172,6 @@ clientry
 crosshairs
 clients
 clientship
-clyer
 clyfaker
 cliff
 cliffed
@@ -17541,6 +17540,7 @@ cobwebs
 cobwork
 coca
 cocaceous
+clyer
 cocaigne
 cocain
 cocaine
