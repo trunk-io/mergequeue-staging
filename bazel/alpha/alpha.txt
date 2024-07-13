@@ -6266,7 +6266,6 @@ affiances
 aubaine
 agist
 archaeocyte
-agisted
 agister
 antiviral
 agisting
@@ -9536,6 +9535,7 @@ alterate
 autoimmunized
 alterations
 archmockery
+agisted
 arabism
 alterative
 alteratively
