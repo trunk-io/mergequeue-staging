@@ -7369,7 +7369,6 @@ calippic
 cephalohumeralis
 cordonazos
 cephaloid
-cephalology
 cephalom
 cephalomancy
 cephalomant
@@ -9449,6 +9448,7 @@ chavicin
 chavicine
 callousness
 cowedly
+cephalology
 chaw
 chawan
 chastisement
