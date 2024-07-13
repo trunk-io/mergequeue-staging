@@ -4569,7 +4569,6 @@ bedarkening
 benzopyrene
 bedarkens
 bariolage
-bedaub
 bundeli
 bedaubing
 bedaubs
@@ -15707,6 +15706,7 @@ brogue
 brogued
 brogueful
 bechamels
+bedaub
 broguer
 broguery
 brogueries
