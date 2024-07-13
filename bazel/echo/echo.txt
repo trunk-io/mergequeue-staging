@@ -2536,7 +2536,6 @@ equanimity
 emptory
 electroosmosis
 egoity
-electroosmotic
 electropathy
 electropathic
 extramorainic
@@ -5061,6 +5060,7 @@ exemplum
 erythropoietin
 experientially
 endoaortitis
+electroosmotic
 endoauscultation
 enterauxe
 exodermis
