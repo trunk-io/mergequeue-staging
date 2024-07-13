@@ -3537,7 +3537,6 @@ degases
 disulphuric
 debacles
 demipriest
-degasification
 dustbin
 degass
 degassed
@@ -13226,6 +13225,7 @@ disposing
 diascopy
 disposingly
 disposition
+degasification
 drawplate
 dispositional
 dispositionally
