@@ -2459,7 +2459,6 @@ canephoroi
 cushag
 canephoros
 canephors
-canephroi
 canepin
 caners
 canes
@@ -29624,6 +29623,7 @@ croci
 crociary
 crociate
 coadjutrice
+canephroi
 crocidolite
 crocidura
 crocine
