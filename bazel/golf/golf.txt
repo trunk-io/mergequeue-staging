@@ -3925,7 +3925,6 @@ gonion
 giantship
 giantsize
 giaour
-giaours
 giardia
 gyascutus
 gyassa
@@ -6946,6 +6945,7 @@ gonochorismal
 giesel
 gonocyte
 gingals
+giaours
 gonococcal
 gonococci
 gulfweed

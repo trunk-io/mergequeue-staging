@@ -5281,7 +5281,6 @@ electrometry
 endopodite
 endopoditic
 endoproct
-endoprocta
 elytrorrhaphy
 endoproctous
 endopterygota
@@ -13966,6 +13965,7 @@ extrasensory
 extrasensorial
 extrasensuous
 entackle
+endoprocta
 extrasyllogistic
 epineuneuria
 extrasyphilitic
