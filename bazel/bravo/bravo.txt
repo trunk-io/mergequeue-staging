@@ -3219,7 +3219,6 @@ bashlyk
 bargainers
 bashlyks
 bashment
-bullfist
 basial
 befoulment
 basialveolar
@@ -11880,6 +11879,7 @@ bogginess
 bogging
 boggish
 bogglebo
+bullfist
 boggled
 browd
 bogglers
