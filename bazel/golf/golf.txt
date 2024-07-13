@@ -19,7 +19,6 @@ galanga
 gabber
 gabbers
 gabbier
-gabbiness
 geosphere
 gabbled
 gabblement
@@ -8307,6 +8306,7 @@ grassflat
 grasshop
 goniometrically
 grumblers
+gabbiness
 grasshopper
 grasshopperdom
 gry
