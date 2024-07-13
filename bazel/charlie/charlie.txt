@@ -8084,6 +8084,7 @@ conchologize
 chadacryst
 chadar
 chadarim
+confession
 chadars
 chadelle
 chadless
@@ -21952,7 +21953,6 @@ confesser
 confesses
 confessing
 confessingly
-confession
 confessional
 confessionalian
 cloggier
