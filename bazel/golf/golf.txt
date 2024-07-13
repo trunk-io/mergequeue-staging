@@ -949,7 +949,6 @@ gametocyst
 geison
 gametogenesis
 gametogeny
-gametogenous
 gametogonium
 gametoid
 gonopodium
@@ -4585,6 +4584,7 @@ gigging
 gloriam
 gadflies
 genear
+gametogenous
 ginners
 groceries
 ginny
