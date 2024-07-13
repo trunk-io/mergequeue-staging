@@ -1267,7 +1267,6 @@ antifriction
 acacin
 acad
 academe
-autographic
 academes
 academia
 academian
@@ -7177,6 +7176,7 @@ ajee
 ajenjo
 ajhar
 ajitter
+autographic
 ajiva
 ajivas
 ajog
