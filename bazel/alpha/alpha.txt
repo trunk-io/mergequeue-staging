@@ -4833,6 +4833,7 @@ aegagropilae
 aegagropile
 aegagropiles
 aegagrus
+arbuscle
 andouillet
 aegean
 aegemony
@@ -18604,7 +18605,6 @@ arboured
 arbours
 arbovirus
 arbs
-arbuscle
 adoptively
 arbuscles
 arbuscula
