@@ -762,7 +762,6 @@ fanciness
 fancysick
 fancywork
 fandango
-follicule
 forkbeard
 fandangos
 fandom
@@ -8959,6 +8958,7 @@ foeship
 fouquieria
 fouquieriaceae
 forspread
+follicule
 four
 fourb
 fourball
