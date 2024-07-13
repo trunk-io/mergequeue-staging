@@ -5561,7 +5561,6 @@ enfeeblement
 enfeeblements
 enfeebler
 espiritual
-enfeebles
 enfeebling
 enfelon
 emissivity
@@ -7189,6 +7188,7 @@ extenuations
 empties
 environed
 expunging
+enfeebles
 environic
 environing
 environment
