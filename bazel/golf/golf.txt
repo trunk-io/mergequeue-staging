@@ -4096,7 +4096,6 @@ guaranteer
 gigasecond
 gigaton
 grommet
-graplin
 gigatons
 gigavolt
 gigawatt
@@ -9285,6 +9284,7 @@ gluttingly
 groomer
 groot
 galiots
+graplin
 grooming
 groomish
 gemmulation
