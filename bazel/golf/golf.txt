@@ -1508,7 +1508,6 @@ gouts
 grammars
 garrisons
 garrnishable
-garron
 garrons
 garroo
 goring
@@ -2622,6 +2621,7 @@ generalcy
 gynandrarchic
 gastrosplenic
 generalcies
+garron
 garruline
 generale
 greenhearted
