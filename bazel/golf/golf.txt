@@ -1266,6 +1266,7 @@ gorebill
 gantsl
 goniotheca
 gaol
+genomes
 gaolerness
 gaoling
 gaols
@@ -2325,7 +2326,6 @@ geisa
 geyser
 geyseric
 gedunk
-genomes
 guatemalans
 geishas
 gentlewomanliness
