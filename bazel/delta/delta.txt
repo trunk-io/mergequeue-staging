@@ -13550,7 +13550,6 @@ distally
 dissemblingly
 dissemilative
 disseminated
-disseminates
 disseminating
 drupose
 disseminator
@@ -17907,6 +17906,7 @@ duelist
 duelistic
 duelers
 duelists
+disseminates
 duelled
 duelli
 duellist
