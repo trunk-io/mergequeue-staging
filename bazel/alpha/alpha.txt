@@ -15674,7 +15674,6 @@ aiming
 antiminsion
 antimissile
 antimissionary
-antimissioner
 antimystic
 antimysticalness
 antimysticism
@@ -20046,6 +20045,7 @@ armourbearer
 armoured
 armourer
 armourers
+antimissioner
 armoury
 armouries
 armouring
