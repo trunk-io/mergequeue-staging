@@ -3522,7 +3522,6 @@ bezazzes
 batarde
 batata
 boodle
-batatas
 babiana
 batatilla
 batavi
@@ -4430,6 +4429,7 @@ burgee
 becker
 beckie
 beckiron
+batatas
 beckon
 beckoned
 bedimpling
