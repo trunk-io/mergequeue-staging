@@ -9130,6 +9130,7 @@ emparchment
 erythrocytoschisis
 ethaldehyde
 erythrocytosis
+exceptio
 erythroclasis
 exacinate
 erythrodegenerative
@@ -11953,7 +11954,6 @@ exportability
 enterate
 excepting
 excisions
-exceptio
 erythrons
 enculturation
 exception

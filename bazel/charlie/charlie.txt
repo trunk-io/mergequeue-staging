@@ -3435,7 +3435,6 @@ capuched
 capuches
 capuchins
 capucine
-capuli
 capulin
 caput
 catenoid
@@ -25228,6 +25227,7 @@ corinthianesque
 corinthianism
 corinthians
 coriolanus
+capuli
 coryph
 coryphaei
 coryphaena
