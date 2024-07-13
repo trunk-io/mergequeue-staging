@@ -4199,6 +4199,7 @@ employment
 emmenia
 electroviscous
 employments
+escribe
 employs
 ensured
 emplume
@@ -9588,7 +9589,6 @@ eaux
 escout
 enspell
 escribano
-escribe
 escribed
 escribiente
 escritoire
