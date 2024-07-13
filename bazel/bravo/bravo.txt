@@ -2366,7 +2366,6 @@ bogbean
 barbecue
 barbecued
 bullberry
-bellyfull
 barbecues
 barbecuing
 boosy
@@ -17593,6 +17592,7 @@ burfish
 burg
 burga
 burgage
+bellyfull
 burgality
 burgall
 bearers
