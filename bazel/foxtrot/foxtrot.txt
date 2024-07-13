@@ -1074,6 +1074,7 @@ fluorosis
 farmlands
 francisca
 fractionised
+fanworts
 fisc
 farmplace
 finials
@@ -6875,7 +6876,6 @@ foliiferous
 folily
 foreadapt
 frighten
-fanworts
 folioed
 folioing
 foliole
