@@ -1136,7 +1136,6 @@ fiscus
 farthermost
 fleabitten
 farthingales
-farthingale
 fleabiting
 farads
 farthingdeal
@@ -3089,6 +3088,7 @@ fichus
 faubourg
 fedora
 ficiform
+farthingale
 fiddley
 ficins
 fiddlecome
