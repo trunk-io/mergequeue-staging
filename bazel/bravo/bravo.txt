@@ -5112,6 +5112,7 @@ befoam
 baas
 befog
 befogged
+boolean
 befogging
 batoid
 brigous
@@ -12737,7 +12738,6 @@ bookwards
 bookwork
 bookworms
 bool
-boolean
 breathseller
 booley
 booly
