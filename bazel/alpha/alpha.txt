@@ -11451,7 +11451,6 @@ ampuls
 amputate
 adjusts
 attendingly
-amputated
 amends
 amputating
 angiostomize
@@ -13937,6 +13936,7 @@ antiepicenter
 anoplonemertean
 aleck
 anoplothere
+amputated
 anoplotheriidae
 anoplotherioid
 anapnoeic
