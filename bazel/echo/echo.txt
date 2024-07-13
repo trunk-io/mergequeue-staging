@@ -3060,7 +3060,6 @@ ellipticity
 elliptograph
 elliptoid
 epicyte
-eighteens
 eutaxitic
 elm
 elmy
@@ -10667,6 +10666,7 @@ eucarpous
 eucatropine
 earmarks
 eucgia
+eighteens
 eucharis
 eucharises
 executers
