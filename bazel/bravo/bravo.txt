@@ -3453,7 +3453,6 @@ borders
 buckeye
 basswoods
 basta
-bastard
 bastardice
 bimalar
 bredstitch
@@ -13454,6 +13453,7 @@ boudeuse
 badgerweed
 boudin
 boudoir
+bastard
 boudoiresque
 balbutiate
 bouet
