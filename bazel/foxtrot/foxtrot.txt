@@ -7987,7 +7987,6 @@ forespoken
 frailejon
 forestaff
 forestaffs
-forestage
 futurisms
 forestaysail
 fireshine
@@ -11367,6 +11366,7 @@ forebode
 furfuryl
 furfurylidene
 floppily
+forestage
 fished
 furfurine
 furfuroid

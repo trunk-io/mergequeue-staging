@@ -3174,7 +3174,6 @@ eryngium
 entrance
 elucubration
 elude
-electrophoresis
 eluded
 eluder
 eludes
@@ -4549,6 +4548,7 @@ encenter
 ensilage
 encephalalgia
 encephalartos
+electrophoresis
 encephalasthenia
 essayical
 ecu
