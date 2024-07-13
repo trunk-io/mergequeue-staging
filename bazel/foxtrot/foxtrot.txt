@@ -4140,7 +4140,6 @@ forfar
 firelit
 firelock
 finishers
-firelocks
 flyblow
 fortissimo
 fetterless
@@ -4814,6 +4813,7 @@ flamb
 flambage
 flambant
 fungible
+firelocks
 flambeaus
 flambeaux
 flambee
