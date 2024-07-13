@@ -692,6 +692,7 @@ bacteriemia
 bacteriform
 bacterioagglutinin
 botchier
+biotypes
 bacterioblast
 bacteriochlorophyll
 brachistocephalic
@@ -9224,7 +9225,6 @@ biotin
 biotins
 biotype
 babel
-biotypes
 biotypic
 beds
 biotypology
