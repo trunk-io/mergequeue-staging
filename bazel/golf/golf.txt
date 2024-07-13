@@ -6244,6 +6244,7 @@ glutoid
 glutted
 glutter
 gluttery
+gegenschein
 glutting
 glutton
 gluttoness
@@ -8675,7 +8676,6 @@ gradometer
 greenery
 greenest
 gucks
-gegenschein
 greenfishes
 greenfly
 galenites
