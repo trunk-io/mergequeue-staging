@@ -4763,7 +4763,6 @@ cloverleaves
 carryovers
 crossbelt
 carrys
-carritch
 carritches
 carriwitchet
 carrizo
@@ -12922,6 +12921,7 @@ church
 churchanity
 churchdom
 churched
+carritch
 churchgo
 churchgoer
 churchgoers
