@@ -6859,7 +6859,6 @@ flinty
 ferruginated
 fructiparous
 firewood
-folia
 foliaceous
 foliaceousness
 foliage
@@ -7469,6 +7468,7 @@ fistfuls
 flaucht
 forebitten
 fishwives
+folia
 feignedness
 fayal
 fullface
