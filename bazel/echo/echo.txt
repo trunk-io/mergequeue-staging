@@ -777,7 +777,6 @@ ecosphere
 edriophthalmous
 ecostate
 ecotype
-ecotypes
 enfurrow
 excurvate
 entrapped
@@ -10554,6 +10553,7 @@ epituberculous
 etymography
 egueiite
 etymologically
+ecotypes
 etymologies
 etymologisable
 etymologised

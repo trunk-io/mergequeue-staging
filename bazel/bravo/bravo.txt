@@ -12972,6 +12972,7 @@ borderlight
 borderline
 brilliantine
 bryndza
+bulletmaker
 bordermark
 backstitch
 barristerial
@@ -17080,7 +17081,6 @@ bulletin
 bulletined
 bulletless
 bulletlike
-bulletmaker
 battalia
 bulletmaking
 bis
