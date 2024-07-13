@@ -2826,7 +2826,6 @@ barolong
 baromacrometer
 bioelectrogenetically
 barometer
-boxfish
 boroughship
 bulldog
 barometers
@@ -8028,6 +8027,7 @@ bicyclo
 bicycular
 biciliated
 bisulcated
+boxfish
 boyaux
 bibionidae
 bicipital

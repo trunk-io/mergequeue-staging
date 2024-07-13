@@ -11888,6 +11888,7 @@ conics
 choosier
 choosing
 chop
+comether
 chopa
 chopas
 chopboat
@@ -19879,7 +19880,6 @@ comet
 cometary
 cometaria
 cometh
-comether
 cotemporary
 cavum
 chartermaster
