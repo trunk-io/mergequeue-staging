@@ -13921,7 +13921,6 @@ alkedavy
 anoopsias
 anoperineal
 anophele
-anopheles
 anophelinae
 aerohydrotherapy
 anopheline
@@ -18572,6 +18571,7 @@ arborean
 aint
 arboreous
 arborer
+anopheles
 arbores
 arborescence
 arborescently
