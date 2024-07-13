@@ -1475,6 +1475,7 @@ fatuitous
 fatuoid
 fatuous
 fatuus
+foreignness
 fatwa
 fairtime
 fatwood
@@ -7700,7 +7701,6 @@ foreignism
 foreignly
 furfurol
 footbeat
-foreignness
 foreimagination
 fogeys
 flagellator
