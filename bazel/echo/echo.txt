@@ -10565,7 +10565,6 @@ ecotypes
 etymologies
 etymologisable
 etymologised
-equators
 execrate
 extraessentially
 etymologising
@@ -12699,6 +12698,7 @@ exactest
 exogen
 estimates
 eyeshine
+equators
 exogenetic
 ekaha
 exogeny
