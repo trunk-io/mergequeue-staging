@@ -577,7 +577,6 @@ echinite
 echinocactus
 echinocereus
 echinochrome
-echinococcosis
 echinococcus
 echinoderidae
 echinoderma
@@ -4613,6 +4612,7 @@ enchaining
 eluvia
 enchainments
 encrinus
+echinococcosis
 ellagate
 enchalice
 epiblema
