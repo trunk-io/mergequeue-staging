@@ -10507,7 +10507,6 @@ chikara
 chil
 chilacayote
 chylangioma
-chylaqueous
 chilaria
 clerics
 chilarium
@@ -15140,6 +15139,7 @@ civetlike
 civets
 civy
 claves
+chylaqueous
 comintern
 civic
 cupeled
