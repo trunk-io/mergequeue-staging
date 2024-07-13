@@ -2235,7 +2235,6 @@ canaries
 canarin
 clangored
 canarine
-cosmoid
 canariote
 canarium
 centers
@@ -10500,6 +10499,7 @@ chigoes
 chih
 conquered
 chihfu
+cosmoid
 chihuahua
 chihuahuas
 chikara
