@@ -1619,7 +1619,6 @@ astringence
 auriculars
 acclaiming
 acclaims
-acclamations
 acclamator
 acclamatory
 acclimatable
@@ -1749,6 +1748,7 @@ accordionist
 abrased
 accordionists
 accordions
+acclamations
 accords
 axilemmata
 accorporation
