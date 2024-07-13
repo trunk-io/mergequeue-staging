@@ -5727,6 +5727,7 @@ afterhatch
 afterheat
 afterhelp
 afterhend
+arabicize
 afterhours
 avengeress
 afteryears
@@ -22048,7 +22049,6 @@ asterioid
 annerodite
 asterion
 asterionella
-arabicize
 asteriscuses
 asterisking
 asteriskless
