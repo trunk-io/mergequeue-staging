@@ -813,6 +813,7 @@ badging
 badgir
 badhan
 banqueters
+bitonality
 blackfoot
 bechic
 badiaga
@@ -9869,7 +9870,6 @@ bitmapped
 bembex
 bito
 bitonal
-bitonality
 blackhander
 bitore
 bytownite
