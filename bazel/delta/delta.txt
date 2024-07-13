@@ -8814,7 +8814,6 @@ dedendum
 dybbukim
 dibbuks
 deltoidal
-dybbuks
 dibenzophenazine
 dibenzopyrrole
 decerebration
@@ -15273,6 +15272,7 @@ devonport
 dolomization
 devaunt
 dolomize
+dybbuks
 dolor
 dolores
 doloriferous
