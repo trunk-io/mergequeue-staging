@@ -5775,7 +5775,6 @@ deathlike
 depolymerization
 depolymerize
 depolymerized
-depolymerizing
 distributive
 depolish
 depiction
@@ -6321,6 +6320,7 @@ dermatrophia
 dermenchysis
 dermestes
 depreciating
+depolymerizing
 dermestid
 darknesses
 dynamoscope
