@@ -11717,7 +11717,6 @@ cholo
 cholochrome
 chockler
 chologenetic
-choloid
 choloidinic
 chololith
 chololithic
@@ -23479,6 +23478,7 @@ contendingly
 contendress
 contenement
 content
+choloid
 contentable
 consummate
 contentation
