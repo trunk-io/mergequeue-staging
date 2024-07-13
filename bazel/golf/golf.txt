@@ -2182,7 +2182,6 @@ gown
 graunt
 gazump
 griskins
-gazzetta
 gconv
 gd
 gangrened
@@ -5563,6 +5562,7 @@ glidewort
 germanely
 gliding
 glidingly
+gazzetta
 gliffy
 glime
 glimes
