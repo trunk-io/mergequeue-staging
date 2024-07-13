@@ -7343,6 +7343,7 @@ eosphorite
 ep
 epa
 enricher
+ephippia
 edriophthalmic
 epacrid
 engird
@@ -7517,7 +7518,6 @@ ephydra
 ephydridae
 exceptionably
 ephidrosis
-ephippia
 ephippial
 ephippium
 ephyra

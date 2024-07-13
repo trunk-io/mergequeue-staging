@@ -24095,7 +24095,6 @@ convergence
 convergences
 convergency
 convergent
-convergently
 converges
 converginerved
 converging
@@ -29988,6 +29987,7 @@ crouches
 crouchie
 cahnite
 clinoprism
+convergently
 crouchingly
 castors
 crouchmas
