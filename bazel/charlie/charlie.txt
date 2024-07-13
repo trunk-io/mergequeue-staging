@@ -9957,6 +9957,7 @@ chemoprophylactic
 chemoprophylaxis
 chemoreception
 chemoreceptive
+commandant
 chemoreceptivity
 chemoreceptivities
 chemoreceptor
@@ -19988,7 +19989,6 @@ camphorweed
 claim
 command
 commandable
-commandant
 commandants
 commanded
 caught
