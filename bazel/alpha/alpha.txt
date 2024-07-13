@@ -16875,7 +16875,6 @@ abbreviators
 adumbrate
 antiphoner
 apheta
-aphetic
 aphetically
 aphetize
 aphicide
@@ -25240,6 +25239,7 @@ azimuth
 azimuthal
 antrectomy
 azimuthally
+aphetic
 azimuths
 azine
 azines
