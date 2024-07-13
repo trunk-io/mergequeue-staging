@@ -11767,7 +11767,6 @@ chondrilla
 chondrin
 chondrinous
 cyprian
-chondriocont
 chondrioma
 chondriome
 chondriomere
@@ -27130,6 +27129,7 @@ countershade
 clione
 countershading
 countershaft
+chondriocont
 circumfusing
 calicoes
 countershear
