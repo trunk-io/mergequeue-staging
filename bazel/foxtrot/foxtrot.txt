@@ -8666,6 +8666,7 @@ fortification
 fasola
 flesher
 facetiously
+fulcra
 fortifications
 fortifier
 fortifiers
@@ -10835,7 +10836,6 @@ fulah
 fulciform
 frier
 fulciment
-fulcra
 fulcral
 fulcrum
 fulcruming
