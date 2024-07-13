@@ -39,7 +39,6 @@ dachshunde
 dacian
 dacyorrhea
 dacite
-dacitic
 denuclearized
 dacker
 dackered
@@ -2637,6 +2636,7 @@ decompensations
 decoloured
 decompensatory
 decompile
+dacitic
 decompiler
 decomplex
 decomponent
