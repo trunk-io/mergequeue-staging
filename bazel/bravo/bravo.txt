@@ -2132,6 +2132,7 @@ bankmen
 banknote
 bankrider
 bankroll
+barnstorm
 bankrupcy
 bureaucratese
 bankrupt
@@ -2793,7 +2794,6 @@ barrelet
 ballan
 barnmen
 barns
-barnstorm
 bothropic
 barnstormed
 bastiles
