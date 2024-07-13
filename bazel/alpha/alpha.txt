@@ -864,7 +864,6 @@ abridgements
 abridger
 abstractionism
 abridges
-abridging
 abridgment
 abridgments
 abrin
@@ -10833,6 +10832,7 @@ anakinetomer
 ammochaetae
 ammochryse
 ammocoete
+abridging
 ammocoetes
 ages
 ammocoetid
