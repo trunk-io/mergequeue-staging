@@ -25543,7 +25543,6 @@ corrosible
 coronations
 coronatorial
 coronel
-coroner
 coronership
 coronet
 coroneted
@@ -29913,6 +29912,7 @@ crosspiece
 crosspieces
 crosspoint
 civilisation
+coroner
 crossroading
 crossruff
 cardinals

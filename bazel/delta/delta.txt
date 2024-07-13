@@ -3341,6 +3341,7 @@ dimissorial
 delicate
 defis
 defix
+detonating
 desalt
 deflagrable
 deflagrated
@@ -7331,7 +7332,6 @@ detonatable
 detonated
 detonates
 definition
-detonating
 detonation
 detonational
 detonations
