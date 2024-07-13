@@ -4353,7 +4353,6 @@ farers
 fleeten
 fishingly
 fishlet
-fishlike
 fishline
 fishlines
 fluxionally
@@ -7866,6 +7865,7 @@ forerehearsed
 forerequest
 forerib
 footsie
+fishlike
 foreribs
 foreright
 foredates
