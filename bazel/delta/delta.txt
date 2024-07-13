@@ -3980,7 +3980,6 @@ delectated
 distune
 dermographic
 delectating
-delectation
 drains
 downstrokes
 deerdrive
@@ -13306,6 +13305,7 @@ disproval
 disprovement
 disproven
 disprover
+delectation
 disproves
 disblame
 disprovide
