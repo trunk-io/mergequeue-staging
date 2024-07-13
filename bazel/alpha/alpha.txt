@@ -17810,7 +17810,6 @@ applejack
 applejohn
 atrichous
 applemonger
-appleroot
 apples
 applesauce
 applesnits
@@ -24494,6 +24493,7 @@ autovivisection
 autoxeny
 autoxidation
 aberrometer
+appleroot
 autoxidator
 autoxidizability
 autoxidize
