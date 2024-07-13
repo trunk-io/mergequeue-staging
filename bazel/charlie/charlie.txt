@@ -14283,7 +14283,6 @@ circulates
 cdr
 circulation
 circulations
-circulative
 catatonia
 circulator
 circulatory
@@ -22736,6 +22735,7 @@ conqueringly
 conquerment
 conqueror
 conquers
+circulative
 conquest
 componentry
 conquians
