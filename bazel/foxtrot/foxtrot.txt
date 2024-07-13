@@ -5546,7 +5546,6 @@ forpit
 fissiparous
 featherwise
 flightier
-falangism
 forelegs
 flightily
 footgrip
@@ -6138,6 +6137,7 @@ federalization
 flout
 flouted
 frisk
+falangism
 featherhead
 flouter
 flouters
