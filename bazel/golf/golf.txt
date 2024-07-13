@@ -2867,6 +2867,7 @@ genomic
 genoms
 genonema
 gph
+glimpses
 goniometrical
 gunbuilder
 grizzling
@@ -5584,7 +5585,6 @@ glimmers
 gallies
 glimpsed
 glimpsers
-glimpses
 glims
 gisarme
 grandisonian
