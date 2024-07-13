@@ -5745,7 +5745,6 @@ englishable
 enfoil
 endochrome
 eadi
-englisher
 epicycle
 enhalo
 endoplasmic
@@ -8245,6 +8244,7 @@ excel
 equiprobabilist
 eigenfunction
 epistemophiliac
+englisher
 epistemophilic
 enfamous
 expugn
