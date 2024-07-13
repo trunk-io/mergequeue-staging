@@ -7008,7 +7008,6 @@ formly
 ferryage
 fondness
 foochow
-fosh
 frequentation
 forecontrive
 factitude
@@ -9438,6 +9437,7 @@ frat
 fratcher
 fratchety
 frate
+fosh
 femcee
 frater
 frateries
