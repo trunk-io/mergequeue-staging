@@ -6007,6 +6007,7 @@ grimnesses
 glossopodium
 groggeries
 greedygut
+grapier
 gebang
 grossular
 geophagy
@@ -8874,7 +8875,6 @@ grewsome
 grooty
 grewsomely
 giddied
-grapier
 grewsomeness
 grewsomer
 grewsomest
