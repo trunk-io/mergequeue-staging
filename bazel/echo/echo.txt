@@ -3058,7 +3058,6 @@ ellipsoidal
 entoproctous
 ellipsone
 ellipsonic
-elliptical
 ellipticalness
 ellipticity
 elliptograph
@@ -9360,6 +9359,7 @@ endocrinology
 errorless
 errors
 errs
+elliptical
 ersatz
 ersatzes
 erse
