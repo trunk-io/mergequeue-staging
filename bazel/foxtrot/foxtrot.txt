@@ -2536,7 +2536,6 @@ ferrocyanhydric
 ferroelectric
 flukeless
 flyblows
-ferroglass
 ferrogoslarite
 ferrohydrocyanic
 farles
@@ -8736,6 +8735,7 @@ fains
 fluidizing
 frescoer
 forwarded
+ferroglass
 fetishes
 forwarder
 futurists
