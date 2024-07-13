@@ -7341,7 +7341,6 @@ cephalocentesis
 cephalocercal
 cephalocereus
 cephalochord
-cephalochorda
 cephalochordal
 cephalochordata
 cephalocyst
@@ -12565,6 +12564,7 @@ chromoctye
 cascaron
 chromodermatosis
 chromodiascope
+cephalochorda
 chromogen
 cholalic
 chromogene
