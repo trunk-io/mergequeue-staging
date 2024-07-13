@@ -4375,7 +4375,6 @@ bebrush
 bidactyle
 bebump
 bebuttoned
-bec
 becafico
 becall
 becalming
@@ -8461,6 +8460,7 @@ borassus
 beneventan
 bulgaria
 boomeranging
+bec
 bilateralities
 bilaterally
 bilateralness
