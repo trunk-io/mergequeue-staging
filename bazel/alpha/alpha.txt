@@ -6412,7 +6412,6 @@ abases
 agomphiasis
 agomphosis
 assessorship
-agon
 agonal
 agony
 agonia
@@ -17337,6 +17336,7 @@ anticorrosion
 apomorphia
 apomorphine
 aponeurology
+agon
 aponeurorrhaphy
 ahypnia
 aponeuroses
