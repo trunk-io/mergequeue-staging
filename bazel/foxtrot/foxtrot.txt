@@ -3455,7 +3455,6 @@ forefended
 filamentoid
 filamentose
 fulcrumage
-folletage
 filamentous
 frogmen
 filander
@@ -7967,6 +7966,7 @@ foresign
 foresignify
 foresing
 foreskin
+folletage
 fondue
 foreskins
 frication

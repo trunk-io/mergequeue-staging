@@ -19160,7 +19160,6 @@ archrebel
 archrepresentative
 archrobber
 archrogue
-archruler
 astrologer
 archsacrificator
 archsacrificer
@@ -20910,6 +20909,7 @@ asbestoses
 alcae
 asbestosis
 asbestous
+archruler
 asbestus
 asbestuses
 asbolan
