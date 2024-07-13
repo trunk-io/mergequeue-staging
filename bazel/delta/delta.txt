@@ -364,7 +364,6 @@ daikon
 dail
 diaphony
 dailamite
-dayless
 daily
 distr
 diaphragmed
@@ -18633,6 +18632,7 @@ dvorak
 dwayberry
 dragomanish
 dwaible
+dayless
 dwaibly
 dwayne
 dwale
