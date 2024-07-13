@@ -23187,7 +23187,6 @@ constrain
 constrainable
 constrained
 constrainedness
-cerambycid
 carroll
 constrainer
 constraining
@@ -27066,6 +27065,7 @@ cetylene
 counterprophet
 counterproposition
 counterprotest
+cerambycid
 counterprove
 counterpull
 counterpunch
