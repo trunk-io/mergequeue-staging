@@ -33,7 +33,6 @@ daces
 deformers
 deplorers
 dacha
-dachas
 dachshund
 dachshunde
 dacian
@@ -11217,6 +11216,7 @@ disbenched
 disbenchment
 disbend
 drisheen
+dachas
 disbind
 decisional
 dabb
