@@ -470,6 +470,7 @@ daytime
 daytimes
 dayton
 daiva
+doubtance
 daywork
 dakerhens
 descartes
@@ -16067,7 +16068,6 @@ doubt
 doubtable
 duros
 doubtably
-doubtance
 doubtedly
 doubters
 doubtfulness
