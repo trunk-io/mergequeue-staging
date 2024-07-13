@@ -1644,7 +1644,6 @@ deaneries
 deanimalize
 deans
 deforced
-doorhead
 detersion
 deanship
 deanships
@@ -11966,6 +11965,7 @@ disembrangle
 disembroil
 disembroilment
 disemburden
+doorhead
 diseme
 disemic
 derisiveness
