@@ -14896,6 +14896,7 @@ cytinus
 corbels
 cytioderm
 cytioderma
+cloches
 cityscape
 cityscapes
 cytitis
@@ -16536,7 +16537,6 @@ clobbers
 counterlocking
 cloche
 cabdriver
-cloches
 clochette
 clockbird
 clockcase
