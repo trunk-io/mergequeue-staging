@@ -335,7 +335,6 @@ elementalize
 entrench
 eaved
 eavedrop
-estado
 eavedropper
 evenings
 enunciate
@@ -9992,6 +9991,7 @@ esthesiography
 esthesiometer
 educts
 esthesiometric
+estado
 esthesioneurosis
 enstore
 enchytraeidae
