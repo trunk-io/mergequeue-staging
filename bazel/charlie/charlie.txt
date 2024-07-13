@@ -13726,6 +13726,7 @@ cyme
 carapacial
 cymelet
 cimelia
+cohesive
 cimeliarch
 cimelium
 crestfallenly
@@ -18498,7 +18499,6 @@ cohesibility
 cohesible
 cohesion
 cohesionless
-cohesive
 caschielawis
 cohesively
 cohesiveness
