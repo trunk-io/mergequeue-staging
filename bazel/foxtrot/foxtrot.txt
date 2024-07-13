@@ -227,7 +227,6 @@ fadaise
 fragrant
 faddy
 faddiness
-fairyfolk
 fadding
 faddish
 fungin
@@ -5821,6 +5820,7 @@ flockwise
 favouredly
 flocs
 flutterboard
+fairyfolk
 floeberg
 floey
 flavorers
