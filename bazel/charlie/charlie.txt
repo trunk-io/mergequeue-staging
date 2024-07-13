@@ -2003,6 +2003,7 @@ campanulaceae
 campanulaceous
 campanulales
 campanular
+cl
 campanularia
 campanulariae
 clayish
@@ -15212,7 +15213,6 @@ cize
 ck
 cerussite
 ckw
-cl
 countergabion
 codiaceous
 clabber
