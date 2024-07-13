@@ -8554,7 +8554,6 @@ diaphone
 diaphones
 diaphonic
 diaphonical
-diaphonies
 diaphorase
 diaphoreses
 diaphoretic
@@ -18215,6 +18214,7 @@ dungeoner
 dungeons
 dunger
 dunghilly
+diaphonies
 dunghills
 diaphany
 discolored
