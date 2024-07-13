@@ -15323,6 +15323,7 @@ clayman
 claimant
 claimants
 clepe
+contreface
 claimed
 claimer
 claiming
@@ -23866,7 +23867,6 @@ contrawise
 contrecoup
 contredanse
 contredanses
-contreface
 contrefort
 countershafting
 coenobitic
