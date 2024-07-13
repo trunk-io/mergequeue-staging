@@ -7650,7 +7650,6 @@ encyclics
 epiclesis
 epicly
 epiclike
-epicnemial
 epicoele
 epicoeliac
 emerod
@@ -12303,6 +12302,7 @@ extractable
 executory
 evincingly
 effervescible
+epicnemial
 elopes
 eyeleteer
 erodable
