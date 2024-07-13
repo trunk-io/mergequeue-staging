@@ -3917,6 +3917,7 @@ cercle
 corndodger
 cardboard
 cacodemon
+cycle
 cardcase
 cardcases
 cardecu
@@ -13323,7 +13324,6 @@ cyclas
 cyclase
 cyclases
 cyclazocine
-cycle
 cyclecar
 cyclecars
 cycled
