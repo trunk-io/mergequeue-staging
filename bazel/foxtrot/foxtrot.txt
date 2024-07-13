@@ -1412,7 +1412,6 @@ fatiguable
 fatigue
 fingerhook
 fario
-fatigued
 formicina
 fatigueless
 firetail
@@ -2225,6 +2224,7 @@ fabulously
 figured
 firmans
 fimicolous
+fatigued
 femororotulian
 friskets
 forehard
