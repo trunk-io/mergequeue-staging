@@ -2159,7 +2159,6 @@ bankweed
 banlieue
 bannack
 bannat
-bel
 banned
 banner
 bottlehead
@@ -15264,6 +15263,7 @@ besiclometer
 bleeds
 brier
 briered
+bel
 briery
 brierroot
 briers
