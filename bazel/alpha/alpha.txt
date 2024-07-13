@@ -3480,7 +3480,6 @@ adamsites
 acceptedly
 adangle
 adansonia
-adapid
 adapt
 adaptability
 adaptableness
@@ -15201,6 +15200,7 @@ antidepressant
 antidepressants
 antidetonant
 antidetonating
+adapid
 ancyrene
 antidiabetic
 antidiastase
