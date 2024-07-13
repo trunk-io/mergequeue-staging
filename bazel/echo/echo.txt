@@ -9605,7 +9605,6 @@ envisages
 escudero
 escudos
 escuela
-esculapian
 emblemize
 encysted
 eulogizer
@@ -12050,6 +12049,7 @@ exciters
 exciting
 excitingly
 excitometabolic
+esculapian
 excitomotor
 excitomotory
 exciton
