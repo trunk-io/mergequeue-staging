@@ -3386,7 +3386,6 @@ captan
 captance
 captandum
 captans
-captate
 captation
 caption
 captioned
@@ -23958,6 +23957,7 @@ cordiform
 contumely
 contumelies
 contumelious
+captate
 coliplication
 contumeliousness
 contund

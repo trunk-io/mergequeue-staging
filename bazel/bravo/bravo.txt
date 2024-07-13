@@ -2146,7 +2146,6 @@ bankrupts
 bankrupture
 banks
 banksia
-blueprinter
 buzzgloak
 basilissa
 bandboxical
@@ -11009,6 +11008,7 @@ blockhouse
 blockhouses
 beveto
 bororoan
+blueprinter
 boigid
 barbedness
 blocky
