@@ -6607,7 +6607,6 @@ desensitizes
 desensitizing
 dinos
 desentimentalize
-deseret
 desert
 deserted
 desertedly
@@ -15360,6 +15359,7 @@ domiciled
 domicilement
 domiciles
 domiciliar
+deseret
 domiciliary
 diesinker
 domiciliating
