@@ -6929,6 +6929,7 @@ exoticity
 enthelmintha
 entoparasitic
 endocrinological
+exopterygota
 els
 entophytal
 entophytic
@@ -13127,7 +13128,6 @@ expiate
 expiated
 epicedia
 ethnography
-exopterygota
 expiational
 executorship
 expiations
