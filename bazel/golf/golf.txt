@@ -1344,7 +1344,6 @@ gardbrace
 gardebras
 garden
 gardener
-gardeners
 gatha
 gardenership
 gardenful
@@ -2148,6 +2147,7 @@ gazania
 glimpse
 gazebos
 gaffsman
+gardeners
 gazee
 gazeful
 gazeless
