@@ -10206,6 +10206,7 @@ cheval
 chevalet
 chevalets
 cryptozonate
+chromatic
 chevalier
 chevaliers
 chevaline
@@ -12437,7 +12438,6 @@ chromas
 cystofibroma
 coffeeweed
 chromates
-chromatic
 chromatical
 chromatically
 chromatician
