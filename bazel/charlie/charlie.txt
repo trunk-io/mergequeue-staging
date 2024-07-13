@@ -634,7 +634,6 @@ cathodofluorescence
 caffeina
 caffeine
 colane
-caffeines
 caffeinic
 caffeinism
 caffeins
@@ -1494,6 +1493,7 @@ callosities
 callosomarginal
 callosum
 callot
+caffeines
 callous
 crutches
 calloused
