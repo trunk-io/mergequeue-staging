@@ -8430,7 +8430,6 @@ biked
 biker
 buoyed
 bikeway
-bikeways
 bioclimatologically
 byrthynsak
 bikh
@@ -12038,6 +12037,7 @@ boyship
 boisseaux
 boist
 boisterous
+bikeways
 boisterously
 boisterousness
 biffing
