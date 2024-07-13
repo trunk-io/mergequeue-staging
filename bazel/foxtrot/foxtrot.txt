@@ -994,6 +994,7 @@ faradize
 fascias
 farewell
 farewelled
+fabricating
 feridji
 fuchsin
 farfal
@@ -4424,7 +4425,6 @@ fissiped
 fissipeda
 fissipedate
 frump
-fabricating
 flyted
 fissipedial
 fibrillous
