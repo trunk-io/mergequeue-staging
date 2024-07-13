@@ -9277,7 +9277,6 @@ amenities
 alnaschar
 alnein
 alnico
-alnicoes
 alnilam
 alniresinol
 alnitak
@@ -21826,6 +21825,7 @@ assistant
 assistanted
 armadillo
 assistantship
+alnicoes
 assistantships
 assisted
 assister
