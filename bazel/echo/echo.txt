@@ -1196,7 +1196,6 @@ education
 educationable
 emboldened
 educational
-educationalist
 educationese
 educationist
 efflorescing
@@ -1728,6 +1727,7 @@ eyn
 eidolism
 epistolizable
 emplastic
+educationalist
 extratensive
 etrenne
 eidolon
