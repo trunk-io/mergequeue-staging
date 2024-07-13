@@ -2903,6 +2903,7 @@ galactophthysis
 gravemaking
 genteelness
 grogginess
+gibberellin
 giantlikeness
 geysers
 goodhearted
@@ -4068,7 +4069,6 @@ grayback
 glandular
 glittersome
 gardinol
-gibberellin
 gobstopper
 gigantine
 gastroschisis
