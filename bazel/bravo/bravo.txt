@@ -952,7 +952,6 @@ bagong
 bagoong
 bagpiped
 bijou
-bagpiper
 breviradiate
 bagpipes
 bagpiping
@@ -17201,6 +17200,7 @@ biyearly
 bult
 bultey
 bultell
+bagpiper
 bulten
 bulter
 bultong
