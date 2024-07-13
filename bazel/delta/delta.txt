@@ -2474,7 +2474,6 @@ declaratorily
 declare
 declaredly
 diaconicum
-declaredness
 declarer
 declarers
 declares
@@ -14094,6 +14093,7 @@ disturbances
 disturbation
 devisals
 disturbed
+declaredness
 data
 dosimetry
 disturbedly
