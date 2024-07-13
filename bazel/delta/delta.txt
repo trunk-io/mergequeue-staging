@@ -1636,7 +1636,6 @@ deamination
 deaminization
 deaminize
 deaminized
-deaminizing
 deammonation
 despin
 dean
@@ -8781,6 +8780,7 @@ diazohydroxide
 diazoic
 diazoimide
 diazoma
+deaminizing
 diazomethane
 diazonium
 diazotate
