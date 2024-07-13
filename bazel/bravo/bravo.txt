@@ -3683,7 +3683,6 @@ batonist
 batonistic
 burlesque
 batonne
-batonnier
 batons
 brazier
 batoon
@@ -8927,6 +8926,7 @@ biocide
 backstabbing
 biocides
 bioclimatic
+batonnier
 bioclimatician
 bioclimatological
 biocoenose
