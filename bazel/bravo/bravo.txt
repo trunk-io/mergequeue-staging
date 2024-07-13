@@ -7216,7 +7216,6 @@ bestiary
 bestiarianism
 bestiaries
 bestiarist
-barbone
 babyship
 backfiller
 bestill
@@ -7238,6 +7237,7 @@ bestowals
 bestir
 bestower
 bestowing
+barbone
 bestowment
 bestows
 bestraddle
