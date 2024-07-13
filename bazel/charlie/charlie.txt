@@ -15951,7 +15951,6 @@ clearweed
 cleat
 cleated
 capitalists
-cleating
 cleats
 cleavability
 cleavable
@@ -18029,6 +18028,7 @@ coelogastrula
 coelogyne
 coeloglossum
 coelom
+cleating
 coeloma
 coelomate
 coelomatic
