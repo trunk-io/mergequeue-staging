@@ -5086,7 +5086,6 @@ cystenchymatous
 casework
 chartroom
 caseworker
-caseworkers
 communes
 caseworm
 caseworms
@@ -10754,6 +10753,7 @@ chimneyed
 coxcombs
 chimneyhead
 chimneying
+caseworkers
 chimneyless
 chimneylike
 chimneyman
