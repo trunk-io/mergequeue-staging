@@ -4272,7 +4272,6 @@ deltal
 deltalike
 deleerit
 deltas
-deltation
 delthyrial
 delthyrium
 deltidia
@@ -15229,6 +15228,7 @@ degusts
 dolley
 dollface
 dehull
+deltation
 dollhood
 dollhouse
 dollhouses
