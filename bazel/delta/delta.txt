@@ -1325,7 +1325,6 @@ dault
 dauncy
 doxantha
 dunniewassel
-daunder
 daundered
 discogastrula
 disciplined
@@ -16037,6 +16036,7 @@ declarations
 dreamworld
 doubleprecision
 doubler
+daunder
 doublers
 doubles
 doublets
