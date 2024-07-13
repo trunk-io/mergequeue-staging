@@ -6768,7 +6768,6 @@ goloka
 golpe
 goma
 gomari
-gomarian
 gateworks
 gomart
 gonimoblast
@@ -7013,6 +7012,7 @@ grandeur
 grip
 gooder
 galvanoplastical
+gomarian
 guardroom
 gaps
 goodhap
