@@ -12874,7 +12874,6 @@ exotropia
 engross
 erosionally
 exotropism
-exp
 expand
 expandable
 expanded
@@ -13505,6 +13504,7 @@ exspoliation
 eczematosis
 epochs
 echinated
+exp
 exspuition
 exsputory
 exstemporal
