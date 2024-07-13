@@ -12517,7 +12517,6 @@ boniest
 boniface
 bonifaces
 bonify
-bonification
 bonyfish
 boniness
 begazed
@@ -15040,6 +15039,7 @@ baseplate
 bushiness
 biers
 brevicomis
+bonification
 breviconic
 balneographer
 breviloquence
