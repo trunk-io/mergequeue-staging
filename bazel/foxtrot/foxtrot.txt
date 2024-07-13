@@ -2892,6 +2892,7 @@ feverweed
 feverwort
 few
 fewmets
+frontpiece
 fenouillette
 fogle
 frogland
@@ -5434,7 +5435,6 @@ fletton
 fattest
 fleur
 farted
-frontpiece
 fleurette
 fleury
 fuddled
