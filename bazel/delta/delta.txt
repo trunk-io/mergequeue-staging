@@ -1463,6 +1463,7 @@ deceived
 dcb
 dclass
 dcollet
+digested
 dcolletage
 dcor
 ddname
@@ -8058,7 +8059,6 @@ dhritarashtra
 dhunchee
 disproportionates
 dekagramme
-digested
 dhurna
 dhurnas
 derbend
