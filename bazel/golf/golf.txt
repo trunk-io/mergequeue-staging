@@ -1036,6 +1036,7 @@ gamori
 gamostele
 gamostely
 gamotropism
+gutturalized
 grandeurs
 gribbles
 grimmer
@@ -10807,7 +10808,6 @@ gastrointestinal
 gumbo
 glycerolize
 grouted
-gutturalized
 guerdons
 gutturalness
 gregorianist
