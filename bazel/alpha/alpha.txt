@@ -14354,7 +14354,6 @@ antepileptic
 antepyretic
 antepirrhema
 antepone
-anteporch
 anteportico
 anteporticoes
 anteporticos
@@ -14499,6 +14498,7 @@ anthogenous
 anthography
 anthoid
 anthokyan
+anteporch
 antholite
 auricularia
 antholyza
