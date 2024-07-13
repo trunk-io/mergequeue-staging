@@ -4048,7 +4048,6 @@ fiques
 fir
 fadeless
 firbolg
-fumarate
 frimaire
 firca
 fyrd
@@ -11733,6 +11732,7 @@ facingly
 ferfathmur
 fuzils
 fuzing
+fumarate
 fuzz
 fayumic
 famines
