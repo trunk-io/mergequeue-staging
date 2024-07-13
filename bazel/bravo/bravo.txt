@@ -2175,7 +2175,6 @@ bannerols
 bannet
 bryozoan
 bannets
-bannimus
 bannister
 backdoor
 bannition
@@ -15443,6 +15442,7 @@ bogles
 bryonia
 bryonidin
 bilinite
+bannimus
 brionies
 bryonies
 bhishti
