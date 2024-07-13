@@ -5008,6 +5008,7 @@ cruelhearted
 comatic
 cascan
 cascara
+consulter
 chinooks
 cascaras
 cephalopagus
@@ -23285,7 +23286,6 @@ consultations
 consultative
 consultatively
 consultee
-consulter
 consultive
 consulto
 contravene
