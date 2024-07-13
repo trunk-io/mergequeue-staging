@@ -7547,6 +7547,7 @@ devaluations
 devalued
 demurrages
 devaluing
+dispositive
 devanagari
 devance
 devant
@@ -16805,7 +16806,6 @@ dravya
 dravidian
 dolven
 draw
-dispositive
 dowiness
 drawarm
 drawback
