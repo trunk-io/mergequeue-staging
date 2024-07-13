@@ -5783,7 +5783,6 @@ floccillation
 flexanimous
 floccose
 focusing
-fasciate
 farsang
 freestyle
 flocculable
@@ -8619,6 +8618,7 @@ forswearing
 falterers
 forswears
 farmable
+fasciate
 forswornness
 fort
 fortake
