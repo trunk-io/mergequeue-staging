@@ -8848,7 +8848,6 @@ affixer
 allis
 alliteral
 alliterated
-alliterates
 alliterating
 alliterational
 anabantid
@@ -19680,6 +19679,7 @@ aribin
 aribine
 ariboflavinosis
 arid
+alliterates
 arided
 arider
 aridest
