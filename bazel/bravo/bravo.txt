@@ -2236,7 +2236,6 @@ bapt
 baptanodon
 baptise
 baptised
-baptises
 baptisia
 betanaphthol
 baptisin
@@ -17505,6 +17504,7 @@ buprestis
 buqsha
 bandboxy
 buqshas
+baptises
 bur
 buran
 barkinji
