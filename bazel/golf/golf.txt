@@ -3447,7 +3447,6 @@ germanistic
 glede
 germanium
 gavelling
-geniuses
 germanization
 goran
 graphotype
@@ -8072,6 +8071,7 @@ granitification
 glozed
 grandnephew
 garbling
+geniuses
 granitite
 gendarme
 gyrocompasses
