@@ -3929,6 +3929,7 @@ evaders
 eminences
 extraboldface
 eminencies
+enterocele
 eminent
 erythrol
 eminently
@@ -6587,7 +6588,6 @@ exolemma
 entermise
 entranceway
 enterobacterial
-enterocele
 enterocentesis
 enteroceptor
 enterochirurgia
