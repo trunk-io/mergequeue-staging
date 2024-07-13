@@ -4628,7 +4628,6 @@ bedecks
 bulbilla
 bedecorate
 bedeen
-bumblebees
 bloodwood
 bedehouse
 bedehouses
@@ -7556,6 +7555,7 @@ bewhiskered
 bewhistle
 bynedestin
 bromalbumin
+bumblebees
 bacilliculture
 bewhite
 bewhiten
