@@ -5168,7 +5168,6 @@ geochemistry
 glam
 glamberry
 glamorized
-glamorizer
 glamorizes
 glamorizing
 gutty
@@ -8336,6 +8335,7 @@ grassman
 gentianic
 groucho
 grassmen
+glamorizer
 gonyoncus
 grassnut
 grassplat
