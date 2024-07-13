@@ -13336,7 +13336,6 @@ disputativeness
 dissipation
 dispute
 disputed
-disputeful
 disputeless
 deadeners
 disputer
@@ -16276,6 +16275,7 @@ distancy
 dowless
 diphthongic
 dowly
+disputeful
 diffraction
 diaglyphic
 dowment
