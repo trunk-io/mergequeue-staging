@@ -3922,7 +3922,6 @@ cardcase
 cardcases
 cardecu
 carded
-carder
 carders
 cardholder
 cardholders
@@ -30093,6 +30092,7 @@ crozzle
 crozzly
 crpe
 crs
+carder
 cru
 crub
 cruce
