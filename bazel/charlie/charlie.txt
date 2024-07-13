@@ -6212,6 +6212,7 @@ caulote
 cauls
 cauma
 caumatic
+counterscalloped
 caunch
 caunos
 cohost
@@ -27111,7 +27112,6 @@ counterruin
 counters
 countersalient
 countersank
-counterscalloped
 counterscarp
 counterscoff
 countersconce
