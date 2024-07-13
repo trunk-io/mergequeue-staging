@@ -9256,6 +9256,7 @@ chasms
 chass
 chasse
 chassed
+convinced
 chasseing
 chasselas
 chassepot
@@ -19367,7 +19368,6 @@ colonies
 colonisability
 colonisable
 colonisation
-convinced
 colonisationist
 colonise
 colonised
