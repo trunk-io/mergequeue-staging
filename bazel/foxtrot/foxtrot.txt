@@ -429,6 +429,7 @@ freelancer
 faisceau
 flagships
 faith
+funnel
 faring
 frist
 faithbreach
@@ -11265,7 +11266,6 @@ frameableness
 frameable
 flambeing
 forefield
-funnel
 funneled
 funneling
 funnelled
