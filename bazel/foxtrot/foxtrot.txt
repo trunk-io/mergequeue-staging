@@ -7674,7 +7674,6 @@ forehatch
 forehatchway
 forehead
 foreheaded
-foreheads
 forehear
 fairest
 foollike
@@ -9798,6 +9797,7 @@ fanwright
 frenzic
 ferned
 frenzily
+foreheads
 freon
 freq
 frequency
