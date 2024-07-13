@@ -360,7 +360,6 @@ alibiing
 aberrant
 aploperistomatous
 aberrants
-aberrate
 astrol
 aberrated
 aberrating
@@ -20954,6 +20953,7 @@ ascendancy
 ascendant
 ascendantly
 ascendence
+aberrate
 ascendency
 ascendent
 aggregatae
