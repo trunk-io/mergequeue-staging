@@ -11430,6 +11430,7 @@ accurate
 ampoule
 amps
 ampul
+aranein
 ampulate
 ampulated
 ampulating
@@ -18460,7 +18461,6 @@ araneidan
 araneids
 araneiform
 araneiformes
-aranein
 araneina
 araneology
 araneologist
