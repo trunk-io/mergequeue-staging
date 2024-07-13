@@ -9930,6 +9930,7 @@ chemism
 chemisorb
 chemisorption
 cloam
+cordless
 chemist
 conglution
 chemistries
@@ -25044,7 +25045,6 @@ choiring
 cordis
 cordite
 cordleaf
-cordless
 cementwork
 cordlessly
 chalcone
