@@ -1762,7 +1762,6 @@ featherfoil
 featherheaded
 feathery
 figurante
-fallage
 faintheartedly
 featheriness
 featherleaf
@@ -5650,6 +5649,7 @@ flipped
 flipper
 flippery
 flipperling
+fallage
 flippest
 faveoli
 fermentive
