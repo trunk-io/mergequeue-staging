@@ -2448,7 +2448,6 @@ glycolytic
 geloscopy
 gridirons
 garabato
-gelosie
 glaucic
 geordie
 gels
@@ -6059,6 +6058,7 @@ gammoner
 girnel
 glowbard
 glowbird
+gelosie
 glowed
 glower
 glowered
