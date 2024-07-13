@@ -4022,7 +4022,6 @@ belgians
 brankie
 beagling
 beak
-beaker
 backset
 bluishness
 buhl
@@ -13873,6 +13872,7 @@ boxmaker
 boxmaking
 boxman
 boxroom
+beaker
 boxthorns
 boxty
 boxtop
