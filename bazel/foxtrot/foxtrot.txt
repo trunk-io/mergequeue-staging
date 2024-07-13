@@ -5714,7 +5714,6 @@ filaze
 fromages
 footrill
 foundery
-filmdom
 fungoid
 foxinesses
 flitty
@@ -7667,6 +7666,7 @@ forehand
 forehanded
 forehandedly
 forehandedness
+filmdom
 forehands
 freeman
 futteret
