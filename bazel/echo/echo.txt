@@ -8085,7 +8085,6 @@ eudemon
 epiphloeum
 epiphonema
 epiphonemae
-epiphora
 epiphragmal
 epipial
 epiplankton
@@ -12283,6 +12282,7 @@ executed
 exoarteritis
 executes
 executing
+epiphora
 execution
 executioner
 executioneress
