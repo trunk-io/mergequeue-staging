@@ -1675,7 +1675,6 @@ ballparks
 ballplayer
 ballplayers
 ballplatz
-bedrabbled
 ballpoint
 ballpoints
 bespoken
@@ -3535,6 +3534,7 @@ bumbass
 brachycephalous
 batched
 batchers
+bedrabbled
 bargemen
 batea
 bateaux
