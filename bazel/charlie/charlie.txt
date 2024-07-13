@@ -5732,7 +5732,6 @@ catchwords
 catchwork
 catclaw
 catdom
-cacoepistic
 catechesis
 congenator
 catechetical
@@ -20526,6 +20525,7 @@ comparsa
 compart
 comparted
 compartimenti
+cacoepistic
 creakiest
 companionless
 comparting
