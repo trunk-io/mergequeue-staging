@@ -2034,7 +2034,6 @@ gluconate
 gaussian
 gaussmeter
 geometrical
-gausterer
 greedier
 geognostically
 gauteite
@@ -3708,6 +3707,7 @@ gluttei
 garths
 getatable
 giansar
+gausterer
 getatableness
 gahnite
 gauffers
