@@ -5662,7 +5662,6 @@ afterblow
 afterbody
 afterbodies
 archae
-afterbreast
 afterburner
 afterburning
 aftercare
@@ -20929,6 +20928,7 @@ ascare
 ascariasis
 ascaricidal
 ascaricide
+afterbreast
 ascarid
 ascarides
 ascaridia
