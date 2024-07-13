@@ -4385,6 +4385,7 @@ dactylist
 demarkation
 decollation
 demarking
+diacritics
 demarks
 demasculinisation
 demasculinise
@@ -8176,7 +8177,6 @@ diacrisis
 diacritic
 dendrography
 diacritically
-diacritics
 diacromyodi
 diacromyodian
 diactin
