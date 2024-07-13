@@ -10001,7 +10001,6 @@ bivouacked
 bivouacking
 bivouacks
 befetter
-bivvy
 biwa
 byway
 byways
@@ -13798,6 +13797,7 @@ barbotine
 bowled
 bowline
 bowlines
+bivvy
 bowling
 bowlings
 bowllike
