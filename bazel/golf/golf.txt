@@ -497,7 +497,6 @@ grub
 gaufre
 gardenwise
 golliwogs
-galimatias
 gastriloquist
 garterless
 galingale
@@ -1844,6 +1843,7 @@ gaunch
 glob
 gastropathy
 glycerols
+galimatias
 gastropathic
 gnomish
 gastroperiodynia
