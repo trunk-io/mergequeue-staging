@@ -10134,7 +10134,6 @@ cherubimic
 cherubimical
 calusa
 cherubin
-cherublike
 cherubs
 cherusci
 chervante
@@ -21502,6 +21501,7 @@ concolor
 cocin
 concolorous
 carraran
+cherublike
 concomitance
 concomitancy
 concomitant
