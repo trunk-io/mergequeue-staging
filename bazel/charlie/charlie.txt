@@ -7860,6 +7860,7 @@ cervicide
 cartful
 cerviciplex
 cervicispinal
+customizable
 cervicoaxillary
 cervicobasilar
 cervicobregmatic
@@ -31734,7 +31735,6 @@ charger
 customers
 customhouse
 customhouses
-customizable
 customizations
 cenobe
 customize
