@@ -42,7 +42,6 @@ gravers
 gabi
 gaby
 gasket
-gabies
 gabion
 goatbush
 grime
@@ -8527,6 +8526,7 @@ gravipause
 gravisphere
 gravispheric
 gravitate
+gabies
 gaura
 gravitated
 guanare
