@@ -7266,7 +7266,6 @@ determinative
 determinator
 determined
 daresay
-drearly
 determiner
 dandiprat
 determining
@@ -12417,6 +12416,7 @@ dishwashers
 dishwashings
 dishwater
 dishwatery
+drearly
 dunderhead
 dishwiper
 dysidrosis

@@ -6479,7 +6479,6 @@ benzotriazole
 benzotrichloride
 benzotrifluoride
 benzotrifuran
-benzoxate
 benzoxy
 banda
 benzoxyacetic
@@ -9574,6 +9573,7 @@ birthmark
 birthmarks
 birthmate
 birthnight
+benzoxate
 banalness
 birthrate
 brink
