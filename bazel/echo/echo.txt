@@ -4747,7 +4747,6 @@ encystment
 encystments
 encysts
 encl
-enclaret
 etherol
 enclasp
 enneasyllabic
@@ -11402,6 +11401,7 @@ evasive
 evasively
 evasiveness
 evechurr
+enclaret
 eveck
 evectant
 evected
