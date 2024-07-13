@@ -5222,7 +5222,6 @@ cassiopeian
 cassiopeium
 cassique
 cassis
-cassises
 cassiterite
 cassites
 charlatanish
@@ -21223,6 +21222,7 @@ concelebrations
 concent
 concenter
 countenances
+cassises
 candies
 concentered
 concentering
