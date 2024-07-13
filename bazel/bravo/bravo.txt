@@ -9768,7 +9768,6 @@ byssi
 bijouterie
 byssinosis
 bisso
-byssogenous
 byssoid
 byssolite
 bisson
@@ -16725,6 +16724,7 @@ budling
 budmash
 budorcas
 buds
+byssogenous
 biorythmic
 billbug
 budtime
