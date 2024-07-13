@@ -3894,7 +3894,6 @@ fallows
 finew
 finewed
 finfish
-finfishes
 finfoots
 friers
 festoonery
@@ -6574,6 +6573,7 @@ franco
 furnacer
 frondlet
 freshened
+finfishes
 flutteriness
 fluttering
 funeral
