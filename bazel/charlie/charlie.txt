@@ -1561,7 +1561,6 @@ comedones
 calool
 calophyllum
 calor
-caloreceptor
 cochairs
 calorescence
 calorescent
@@ -10241,6 +10240,7 @@ cheviot
 cheviots
 chevise
 chevon
+caloreceptor
 chevre
 chevres
 chevret
