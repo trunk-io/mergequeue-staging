@@ -2495,7 +2495,6 @@ declensional
 declensionally
 declensions
 declimatize
-declinable
 declinal
 declinate
 declination
@@ -15723,6 +15722,7 @@ defeatist
 duodecimals
 diecase
 dorcatherium
+declinable
 dorcopsis
 doree
 dorey
