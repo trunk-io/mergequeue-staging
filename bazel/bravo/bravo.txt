@@ -1922,7 +1922,6 @@ bandcutter
 bande
 britishers
 banded
-bandel
 bandelet
 bandelette
 bowlful
@@ -7516,6 +7515,7 @@ bevillain
 bidarkees
 bevined
 bevoiled
+bandel
 bevomit
 bevor
 bevors
