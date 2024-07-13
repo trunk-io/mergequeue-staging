@@ -83,7 +83,6 @@ babeship
 babesia
 beaconless
 boardinghouses
-babesias
 bovate
 babesiosis
 babhan
@@ -2917,6 +2916,7 @@ bogberry
 barques
 barquest
 bedust
+babesias
 barquette
 beerily
 bridebowl
