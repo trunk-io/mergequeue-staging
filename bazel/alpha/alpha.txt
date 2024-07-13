@@ -18144,7 +18144,6 @@ apterygiformes
 apterygogenea
 amniotic
 arace
-apterygota
 apterygote
 apteryla
 apterium
@@ -18870,6 +18869,7 @@ appassionatamente
 archerfishes
 archery
 asepticism
+apterygota
 archeries
 archers
 archership

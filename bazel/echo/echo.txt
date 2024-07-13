@@ -3531,6 +3531,7 @@ empathized
 embolium
 embolization
 embolize
+enteroparesis
 embolo
 embololalia
 extortions
@@ -6658,7 +6659,6 @@ ewelease
 eyeblink
 enterons
 enteroparalysis
-enteroparesis
 enteropathy
 enteropathogenic
 enteropexy
