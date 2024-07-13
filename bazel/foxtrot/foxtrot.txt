@@ -5520,7 +5520,6 @@ fliers
 flyers
 fliest
 fliffus
-flyflap
 flyflapper
 flyflower
 flocculant
@@ -6654,6 +6653,7 @@ fockle
 flanken
 fumage
 focoids
+flyflap
 fining
 focometry
 focsle
