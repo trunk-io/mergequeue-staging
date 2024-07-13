@@ -8251,7 +8251,6 @@ graphs
 grapiest
 graping
 grapline
-graplines
 gimballed
 grappa
 grappas
@@ -9167,6 +9166,7 @@ gristbite
 globiferous
 geechee
 granatite
+graplines
 gos
 gauge
 gaucher
