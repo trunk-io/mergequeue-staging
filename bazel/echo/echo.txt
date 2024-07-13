@@ -778,6 +778,7 @@ ecostate
 ecotype
 enfurrow
 excurvate
+envire
 entrapped
 extensure
 ecotonal
@@ -7175,7 +7176,6 @@ envineyard
 enviously
 eruciform
 eleusine
-envire
 equibalance
 extime
 environ
