@@ -780,7 +780,6 @@ cutweed
 corseleting
 cairo
 cays
-caisse
 caisson
 caissoned
 caissons
@@ -18022,6 +18021,7 @@ cotransduction
 coeloblastula
 coelococcus
 criticisingly
+caisse
 coelodont
 coelogastrula
 coelogyne
