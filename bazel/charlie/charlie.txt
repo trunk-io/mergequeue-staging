@@ -184,6 +184,7 @@ cabriolets
 cabrit
 cabs
 cabstand
+cheerfuller
 cabstands
 cabuya
 cabuyas
@@ -9689,7 +9690,6 @@ cheered
 clauber
 cecil
 cheerer
-cheerfuller
 cheerfullest
 cheerfully
 cobaltine

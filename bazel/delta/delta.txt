@@ -5647,7 +5647,6 @@ depetalize
 depetticoat
 derencephalocele
 dephased
-dephasing
 diapedeses
 dovelet
 dephycercal
@@ -15354,6 +15353,7 @@ domicella
 domicil
 dacrycystalgia
 domicile
+dephasing
 domiciled
 domicilement
 domiciles
