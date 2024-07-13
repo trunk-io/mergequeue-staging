@@ -410,6 +410,7 @@ brigs
 backhatch
 backhaul
 backhauls
+bathythermogram
 bribegiver
 backheel
 backhoe
@@ -3604,7 +3605,6 @@ baudery
 bathysphere
 bister
 beneplacit
-bathythermogram
 bravely
 bathythermograph
 bathkol
