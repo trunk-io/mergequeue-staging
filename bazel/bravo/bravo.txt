@@ -1395,7 +1395,6 @@ baldcrown
 backpointers
 balden
 balderdash
-blighters
 ballard
 blithebread
 baldfaced
@@ -3193,6 +3192,7 @@ behove
 breads
 basenesses
 basenji
+blighters
 basenjis
 bonnetmen
 baseplug
