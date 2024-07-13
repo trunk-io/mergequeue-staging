@@ -10749,6 +10749,7 @@ aminta
 amintor
 amyosthenia
 amyosthenic
+auscultoscope
 alternize
 amyotonia
 amyotrophy
@@ -23685,7 +23686,6 @@ auscultation
 auscultative
 autographical
 auscultatory
-auscultoscope
 auditioned
 anisostemonous
 ausformed
