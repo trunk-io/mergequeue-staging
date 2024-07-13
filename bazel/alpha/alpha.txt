@@ -3772,7 +3772,6 @@ adenolipomatosis
 adenologaditis
 adenology
 allalinite
-adenological
 antagonists
 adenoma
 adenomas
@@ -9686,6 +9685,7 @@ alumines
 aluminic
 aluminide
 amphibological
+adenological
 aluminiform
 aluminyl
 aluminised
