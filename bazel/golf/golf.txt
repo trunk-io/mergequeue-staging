@@ -743,6 +743,7 @@ galls
 goatherds
 gallstone
 gnatsnapper
+gol
 galluot
 goosey
 geometer
@@ -9520,7 +9521,6 @@ griqua
 gymnocerata
 grove
 gentrice
-gol
 groved
 granulate
 gravific
