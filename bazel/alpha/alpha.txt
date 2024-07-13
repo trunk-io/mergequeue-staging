@@ -5343,6 +5343,7 @@ affecting
 antigen
 affection
 affectional
+antihemophilic
 autotheism
 affectionally
 acreages
@@ -15444,7 +15445,6 @@ antihelminthic
 antihemisphere
 ampullae
 antihemolytic
-antihemophilic
 antihemorrhagic
 antihero
 antiheroes
