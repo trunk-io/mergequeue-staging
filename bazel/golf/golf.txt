@@ -6699,7 +6699,6 @@ goldish
 gleamier
 goldlike
 goldminer
-goldonian
 golds
 goldsmith
 goosepimply
@@ -10818,6 +10817,7 @@ gutturopalatal
 gutturopalatine
 gonitis
 guttus
+goldonian
 gutwise
 gangplank
 gutwort
