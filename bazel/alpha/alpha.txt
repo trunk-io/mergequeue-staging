@@ -10533,7 +10533,6 @@ amidoaldehyde
 amidoazo
 amidocyanogen
 adjudicating
-amidofluoride
 amidogen
 amidogens
 amidoguaiacol
@@ -20622,6 +20621,7 @@ arthrogastran
 arthrogenous
 aerobranchiate
 ammeter
+amidofluoride
 antarala
 arthrography
 arthrogryposis
