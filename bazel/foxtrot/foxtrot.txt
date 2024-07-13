@@ -4291,7 +4291,6 @@ frizzle
 falbalas
 fischerite
 filibranch
-fise
 fisetin
 fulgurous
 fish
@@ -5773,6 +5772,7 @@ fenetre
 floatman
 flobby
 flocced
+fise
 flocci
 floccillation
 flexanimous
