@@ -1471,6 +1471,7 @@ fattrels
 forehold
 fatuities
 foveiform
+flect
 fellatrix
 frenzy
 fatuitous
@@ -5293,7 +5294,6 @@ fleckless
 flinthead
 flecklessly
 flecnodal
-flect
 formedon
 florette
 frigefact
