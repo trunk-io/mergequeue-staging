@@ -14112,7 +14112,6 @@ antagony
 antagonisable
 antagonise
 antagonised
-antagonising
 antagonism
 antagonist
 antagonistic
@@ -24593,6 +24592,7 @@ avantage
 avanters
 avantlay
 avanturine
+antagonising
 avaram
 albumin
 avarian
