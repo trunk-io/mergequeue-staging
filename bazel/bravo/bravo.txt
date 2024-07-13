@@ -2792,7 +2792,6 @@ bipaliidae
 barrelet
 ballan
 barnmen
-barns
 barnstorm
 bothropic
 barnstormed
@@ -16684,6 +16683,7 @@ buddle
 barramundas
 buddled
 buddler
+barns
 buddles
 buddling
 budge
