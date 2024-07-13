@@ -3731,7 +3731,6 @@ dehisces
 dehiscing
 dehonestation
 dharana
-dehorn
 dehorned
 dehorners
 dehorns
@@ -11329,6 +11328,7 @@ depolarizer
 discerp
 discerped
 discerpible
+dehorn
 discerpibleness
 discerping
 discerptible
