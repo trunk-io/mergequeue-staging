@@ -15099,7 +15099,6 @@ dichromaticism
 dogtail
 dogteeth
 dogtrotting
-dogvanes
 dogwatch
 dogwinkle
 dogwood
@@ -16988,6 +16987,7 @@ dreyfusism
 dreyfusist
 dreikanter
 dreikanters
+dogvanes
 dreiling
 dreynt
 duppy
