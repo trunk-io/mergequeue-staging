@@ -10635,7 +10635,6 @@ amylohydrolytic
 amyloidal
 arawakan
 aswoon
-amyloidoses
 amyloidosis
 amyloids
 amyloleucite
@@ -10659,6 +10658,7 @@ amyloses
 amylosynthesis
 amylosis
 amiloun
+amyloidoses
 abnormities
 amyls
 amylum
