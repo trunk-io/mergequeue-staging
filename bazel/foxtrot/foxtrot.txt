@@ -2151,7 +2151,6 @@ felted
 felter
 flexion
 felty
-feltyfare
 furivae
 feltyflier
 feltings
@@ -5863,6 +5862,7 @@ flooder
 fluids
 fishway
 flooders
+feltyfare
 furred
 floody
 floodless
