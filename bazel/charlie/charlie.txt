@@ -5120,7 +5120,6 @@ cashiering
 cashierment
 cashiers
 cashkeeper
-cashless
 cashment
 cashmere
 cashmeres
@@ -22311,6 +22310,7 @@ conglomerative
 conglomerator
 conglomeritic
 conspicuousness
+cashless
 conglutin
 conglutinant
 conglutinate
