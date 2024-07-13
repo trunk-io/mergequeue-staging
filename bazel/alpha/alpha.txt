@@ -1449,7 +1449,6 @@ acatharsia
 acatholic
 acaudal
 apiculus
-acaudate
 acaudelescent
 aminosis
 acaulescence
@@ -19362,6 +19361,7 @@ aren
 arena
 adjutrice
 arenaceous
+acaudate
 arenae
 arenariae
 arenation
