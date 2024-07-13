@@ -3798,6 +3798,7 @@ deiform
 deiformity
 deign
 deigned
+dropout
 deigning
 deignous
 deathwatch
@@ -17376,7 +17377,6 @@ dropling
 dropmeal
 duotones
 dewormed
-dropout
 dwining
 disinfectant
 droppage
