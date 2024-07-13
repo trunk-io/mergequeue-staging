@@ -4601,7 +4601,6 @@ excruciating
 electrotheraputics
 encephalotome
 encephalotomy
-exothermicity
 earths
 endoplasma
 enchafe
@@ -13678,6 +13677,7 @@ exterritorialize
 extg
 extima
 expressness
+exothermicity
 extinct
 extincted
 elect
