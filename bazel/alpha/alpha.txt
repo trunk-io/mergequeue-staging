@@ -4807,6 +4807,7 @@ aecioteliospore
 aecium
 aedeagal
 aedeagi
+animacule
 aedeagus
 aedes
 aedicula
@@ -13240,7 +13241,6 @@ anima
 animability
 animableness
 approximated
-animacule
 animadversal
 animadversion
 animadversional
