@@ -2205,7 +2205,6 @@ diple
 decemfid
 decemflorous
 decemfoliate
-decemfoliolate
 decemjugate
 decemlocular
 dodona
@@ -17702,6 +17701,7 @@ dualized
 demoiselle
 devachan
 dualizes
+decemfoliolate
 dermatopnagic
 dualizing
 dressages
