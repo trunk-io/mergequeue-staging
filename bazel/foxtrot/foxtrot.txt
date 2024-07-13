@@ -4366,6 +4366,7 @@ fishling
 fromage
 fishmeal
 fabliaux
+foliator
 fishnets
 florid
 fishpole
@@ -6871,7 +6872,6 @@ folial
 fissidentaceous
 foliated
 foliation
-foliator
 folies
 foliiferous
 folily
