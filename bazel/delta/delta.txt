@@ -818,6 +818,7 @@ danglement
 dangler
 danglers
 deproceduring
+derog
 dangling
 danglingly
 downrange
@@ -2647,7 +2648,6 @@ decomposable
 decompose
 decomposed
 decomposer
-derog
 decomposers
 decomposes
 dehache
