@@ -11512,7 +11512,6 @@ amatories
 advertisee
 amusedly
 amusee
-amusement
 amusements
 amuser
 aider
@@ -23147,6 +23146,7 @@ audio
 attourne
 attract
 attractability
+amusement
 attractable
 attractancy
 attractant
