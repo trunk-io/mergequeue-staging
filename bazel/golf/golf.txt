@@ -665,7 +665,6 @@ grunions
 gallinule
 grateful
 gallinulelike
-gallinulinae
 gallinuline
 garboards
 galliots
@@ -10193,6 +10192,7 @@ guids
 guidwife
 guidwilly
 glycan
+gallinulinae
 guyer
 gaming
 gasterozooid
