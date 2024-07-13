@@ -6115,7 +6115,6 @@ dignifiedly
 diwan
 dere
 derealization
-dereference
 drawings
 dereferenced
 dereferencing
@@ -14489,6 +14488,7 @@ divinization
 divinize
 drugstore
 decachord
+dereference
 dunkling
 divinized
 divinizes

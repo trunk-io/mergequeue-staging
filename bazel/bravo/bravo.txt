@@ -4831,6 +4831,7 @@ bedstring
 bedswerver
 bedtick
 bedticks
+bromuret
 bices
 bedtime
 bedub
@@ -15893,7 +15894,6 @@ biscuit
 bromous
 bressomer
 brompicrin
-bromuret
 blousiest
 bromus
 bromvoel
