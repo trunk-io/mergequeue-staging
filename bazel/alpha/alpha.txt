@@ -6962,7 +6962,6 @@ aircraftswoman
 aerogeology
 aircraftwoman
 allotments
-aircrew
 aircrewman
 aircrews
 aleikum
@@ -18207,6 +18206,7 @@ aquaplaning
 aquapuncture
 aquaregia
 aquarelles
+aircrew
 aquarellist
 aquaria
 acquisitions
