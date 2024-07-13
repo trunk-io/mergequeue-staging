@@ -4218,7 +4218,6 @@ freeport
 firk
 firkins
 falconoid
-fitchy
 firlot
 firma
 firmament
@@ -7260,6 +7259,7 @@ forage
 foraged
 flowerage
 forager
+fitchy
 fidelio
 foragers
 fodientia
