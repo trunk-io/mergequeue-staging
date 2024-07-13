@@ -7893,7 +7893,6 @@ cervix
 cervixes
 cervoid
 cervuline
-cervulus
 cervus
 cesar
 cesare
@@ -21811,6 +21810,7 @@ conductitious
 conductive
 corrosives
 conductively
+cervulus
 cyanomethemoglobin
 conductivity
 conductivities
