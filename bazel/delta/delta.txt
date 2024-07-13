@@ -9852,6 +9852,7 @@ dirgy
 dhoul
 demountability
 diluvium
+drawboy
 diluviums
 dim
 dimane
@@ -16808,7 +16809,6 @@ disterr
 drawbacks
 drawbench
 drawboard
-drawboy
 drawbolt
 drawbore
 drawbored
