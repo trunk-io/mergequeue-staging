@@ -8763,7 +8763,6 @@ bimodule
 bimodulus
 blancmanger
 bimong
-bimonthlies
 bimorph
 bimorphemic
 bimorphs
@@ -14498,6 +14497,7 @@ brandenburger
 brandenburgh
 brandering
 branders
+bimonthlies
 brandi
 bepale
 begani
