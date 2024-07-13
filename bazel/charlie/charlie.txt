@@ -2698,6 +2698,7 @@ canonize
 canonized
 catapult
 canonizer
+coop
 canonizing
 canonlike
 canonry
@@ -24412,7 +24413,6 @@ coonskins
 coontah
 coontail
 coontie
-coop
 cooped
 coopee
 colombia
