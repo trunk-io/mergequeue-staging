@@ -7556,7 +7556,6 @@ epibenthic
 epibiotic
 epiblast
 epicheirema
-emboites
 escharine
 excreation
 engrandize
@@ -13303,6 +13302,7 @@ exposit
 exposited
 expositing
 electroengraving
+emboites
 earing
 exterminates
 expositive
