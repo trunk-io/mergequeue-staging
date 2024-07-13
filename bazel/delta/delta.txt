@@ -8355,6 +8355,7 @@ dialists
 diapasm
 dialytic
 directories
+dysbarism
 dossels
 dacryops
 delimitating
@@ -11194,7 +11195,6 @@ dringle
 disbands
 demulce
 disbar
-dysbarism
 dasypaedal
 designators
 dult
