@@ -8453,7 +8453,6 @@ bias
 bookmen
 bilalo
 bilamellate
-bilamellated
 bilaminar
 biland
 byland
@@ -9171,6 +9170,7 @@ bicolourous
 benumbment
 biosystematic
 biosystematics
+bilamellated
 biosystematist
 brazilians
 biosocial
