@@ -1724,6 +1724,7 @@ deathsmen
 deathtime
 diallages
 drouk
+drumsticks
 deathtrap
 deathtraps
 deathwards
@@ -17607,7 +17608,6 @@ drumskin
 drumsler
 diphthongising
 drumstick
-drumsticks
 dealfishes
 drung
 decals
