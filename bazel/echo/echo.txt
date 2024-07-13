@@ -7634,7 +7634,6 @@ epicycles
 epicyclic
 epicycloid
 enchiriridia
-epicycloidal
 epicyemate
 epicier
 epicism
@@ -14169,6 +14168,7 @@ exults
 exumbral
 exumbrella
 exundance
+epicycloidal
 exundate
 earlesss
 exuperable
