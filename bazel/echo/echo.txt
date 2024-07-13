@@ -455,7 +455,6 @@ ecca
 eccaleobion
 ecce
 electrocardiographic
-eccentric
 eccentrically
 eccentricity
 eccentricities
@@ -12530,6 +12529,7 @@ exhumer
 exhumers
 exibilate
 exigeant
+eccentric
 embitter
 elocutionists
 exigences
