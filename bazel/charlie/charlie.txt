@@ -9265,6 +9265,7 @@ chasseurs
 chassignite
 chemisorptive
 cancerroot
+coursers
 chastacosta
 chastelain
 chastely
@@ -27352,7 +27353,6 @@ couronne
 course
 coursey
 courser
-coursers
 clints
 courses
 consolate
