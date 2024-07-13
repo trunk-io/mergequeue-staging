@@ -9521,6 +9521,7 @@ cheatableness
 cheated
 cheatee
 cheater
+cribbage
 cheatery
 cheateries
 cheaters
@@ -28931,7 +28932,6 @@ crybaby
 conductility
 cebatha
 crybabies
-cribbage
 cribbages
 cribbers
 cribbiter
