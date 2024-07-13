@@ -14885,7 +14885,6 @@ breathability
 bitterer
 breatheableness
 breathed
-breathes
 breathful
 bradford
 breathily
@@ -17440,6 +17439,7 @@ butea
 bini
 bartramian
 bunking
+breathes
 bunkload
 bunkmate
 bunkmates
