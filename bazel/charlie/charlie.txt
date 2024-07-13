@@ -11,6 +11,7 @@ cabaa
 caback
 cabal
 cabala
+corpsy
 cabalas
 cabalassou
 cabaletta
@@ -25633,7 +25634,6 @@ corpselike
 corage
 corpselikeness
 corpses
-corpsy
 corpsman
 corpsmen
 corpulences
