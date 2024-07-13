@@ -2613,6 +2613,7 @@ fertilizers
 feru
 ferula
 ferulae
+formals
 feticide
 fuchsite
 foamy
@@ -8366,7 +8367,6 @@ formalizing
 fraudulently
 formally
 formalness
-formals
 formamide
 formamido
 formamidoxime
