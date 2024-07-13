@@ -17401,7 +17401,6 @@ coatroom
 coatrooms
 coats
 coattail
-coattailed
 cheloid
 contends
 coattails
@@ -18503,6 +18502,7 @@ cohesiveness
 cohibit
 cohibition
 cohibitive
+coattailed
 cohibitor
 calculative
 cantata
