@@ -3264,6 +3264,7 @@ bedung
 baclava
 basidiophore
 bifrontal
+baalite
 belesprit
 belauds
 basidorsal
@@ -11836,7 +11837,6 @@ bewrite
 bodrage
 bods
 bodstick
-baalite
 boe
 boedromion
 boehmenism

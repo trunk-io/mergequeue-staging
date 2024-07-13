@@ -5393,7 +5393,6 @@ affies
 affying
 affiliable
 anthraces
-affiliate
 affiliated
 affiliates
 affiliating
@@ -13374,6 +13373,7 @@ anise
 aniseeds
 aniseikonia
 awreck
+affiliate
 aniselike
 anemoscope
 amphigoric
