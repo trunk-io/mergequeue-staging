@@ -2912,6 +2912,7 @@ fewtrils
 fezes
 fanterie
 fezzan
+fregata
 fezzed
 facets
 fezziwig
@@ -9707,7 +9708,6 @@ freezer
 freezy
 freezing
 fawnier
-fregata
 fortitude
 francas
 frammit
