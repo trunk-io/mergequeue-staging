@@ -1913,7 +1913,6 @@ accused
 accuser
 accusers
 accuses
-accusing
 accusingly
 accusive
 accusor
@@ -14504,6 +14503,7 @@ antholite
 auricularia
 antholyza
 anthology
+accusing
 aerodontalgia
 anthologically
 anthologised
