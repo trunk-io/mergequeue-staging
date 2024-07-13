@@ -10427,7 +10427,6 @@ chicnesses
 chico
 coryneum
 chicories
-chicot
 chicote
 chicqued
 chicquer
@@ -15624,6 +15623,7 @@ clarseth
 clart
 commensality
 campaigner
+chicot
 cofinal
 coffins
 clarty
