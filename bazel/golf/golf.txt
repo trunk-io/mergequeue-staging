@@ -3746,7 +3746,6 @@ gewgawry
 gewgaws
 gez
 gezerah
-garmentmaker
 ggr
 glade
 ghaffir
@@ -6864,6 +6863,7 @@ gonglike
 gymnosophical
 gigelira
 gongs
+garmentmaker
 gony
 gimpy
 gozzard

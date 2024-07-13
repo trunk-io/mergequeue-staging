@@ -4117,6 +4117,7 @@ firedragon
 fumblingness
 firedrake
 firefall
+fixtures
 firefang
 forsakes
 firefighting
@@ -8461,7 +8462,6 @@ formylating
 formin
 freeholds
 forminate
-fixtures
 forming
 flicker
 formism
