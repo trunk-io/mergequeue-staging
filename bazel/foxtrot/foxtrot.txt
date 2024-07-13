@@ -2535,6 +2535,7 @@ ferrochromium
 ferrocyanate
 fontes
 ferrocyanhydric
+forwaked
 ferroelectric
 flukeless
 flyblows
@@ -11535,7 +11536,6 @@ furzy
 farandine
 furzier
 facund
-forwaked
 forays
 fusariosis
 fennels
