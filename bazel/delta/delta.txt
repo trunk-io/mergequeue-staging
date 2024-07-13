@@ -3908,7 +3908,6 @@ del
 duckish
 delabialization
 delabialize
-delabialized
 delabializing
 divisi
 desperadoes
@@ -9622,6 +9621,7 @@ dihalid
 dihalide
 dihalo
 dihalogen
+delabialized
 dihdroxycholecalciferol
 dihedral
 dihedrals
