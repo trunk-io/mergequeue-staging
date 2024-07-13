@@ -5520,7 +5520,6 @@ affrication
 agrimotor
 affricative
 aborting
-antrotome
 affright
 affrighted
 affrightedly
@@ -21625,6 +21624,7 @@ assation
 assaugement
 academically
 aquacultural
+antrotome
 assault
 assaultable
 assaulted
