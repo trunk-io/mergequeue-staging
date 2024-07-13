@@ -2168,6 +2168,7 @@ bannerets
 backachy
 bannerette
 bannerlike
+belief
 bannerman
 bannerole
 bannerols
@@ -11139,7 +11140,6 @@ bloomage
 bram
 bonds
 brachydome
-belief
 bloomer
 begnawed
 bloomery
