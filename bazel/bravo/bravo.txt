@@ -701,6 +701,7 @@ bacteriocyte
 bacteriofluorescin
 bara
 bacteriogenic
+braids
 bacteriogenous
 bacteriohemolysin
 bacterioid
@@ -14317,7 +14318,6 @@ braillist
 brails
 brain
 brainache
-braids
 braincase
 brainchildren
 braincraft
