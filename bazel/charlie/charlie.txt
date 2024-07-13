@@ -9279,7 +9279,6 @@ chastest
 chasteweed
 chasty
 coefficient
-chastiment
 chastisable
 chastise
 creepers
@@ -15251,6 +15250,7 @@ clade
 cladine
 caingang
 cladistic
+chastiment
 cladocarpous
 cladocera
 cladoceran
