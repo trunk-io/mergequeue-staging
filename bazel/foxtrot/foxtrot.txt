@@ -2852,7 +2852,6 @@ feuillet
 feuilleton
 feuilletonism
 feuilletons
-figurate
 farfel
 floccilation
 frederick
@@ -10030,6 +10029,7 @@ foolfishes
 frigidity
 fluate
 frigidly
+figurate
 fylgja
 flabel
 frigiferous
