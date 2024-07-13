@@ -2621,7 +2621,6 @@ barguests
 barhop
 buzylene
 barhopping
-barhops
 baria
 brandies
 buzzwig
@@ -14691,6 +14690,7 @@ bravoite
 bravuraish
 bravuras
 bravure
+barhops
 brawer
 brawl
 balanopsidaceae
