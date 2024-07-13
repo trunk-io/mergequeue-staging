@@ -3373,6 +3373,7 @@ deflections
 deflective
 deflector
 deflectors
+dendrobates
 devilbird
 deflects
 deflesh
@@ -5050,7 +5051,6 @@ dendrites
 dendritic
 derailer
 dendritical
-dendrobates
 dendrobatinae
 dendrobium
 dendrocalamus
