@@ -12756,6 +12756,7 @@ disman
 decoke
 dismantle
 deceptiously
+doomfulness
 dismantlement
 dismantler
 dismantles
@@ -15603,7 +15604,6 @@ decisiveness
 doomed
 doomful
 doomfully
-doomfulness
 dooming
 duci
 doomsayer
