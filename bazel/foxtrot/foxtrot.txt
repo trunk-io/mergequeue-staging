@@ -3271,6 +3271,7 @@ friability
 fieldfight
 fluctuations
 filmdoms
+folktales
 ficoideae
 fieldy
 feedstuffs
@@ -6933,7 +6934,6 @@ folksinger
 folksong
 folksongs
 folktale
-folktales
 folkvangr
 foll
 folles

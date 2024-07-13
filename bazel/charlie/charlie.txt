@@ -16597,7 +16597,6 @@ clodpoll
 clodpolls
 clods
 clof
-cloff
 clofibrate
 clog
 clogdogdo
@@ -17058,6 +17057,7 @@ cnemidophorus
 cnemis
 cneorum
 cnibophore
+cloff
 cnicin
 cnicus
 cnida
