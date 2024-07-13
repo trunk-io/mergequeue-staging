@@ -2543,7 +2543,6 @@ extramorainic
 electrophilic
 electrophysicist
 electrophysics
-epalpate
 electrophysiology
 electrophysiologically
 evulsions
@@ -10505,6 +10504,7 @@ enrockment
 exempla
 ethnologer
 ethnologically
+epalpate
 evansite
 ethnologist
 encharged
