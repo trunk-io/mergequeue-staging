@@ -8079,6 +8079,7 @@ alf
 alfa
 allotters
 alfaje
+ashcan
 alfaki
 alfakis
 alfalfa
@@ -18651,7 +18652,6 @@ ald
 arcanite
 arcanum
 arcate
-ashcan
 arcature
 arcatures
 arccos
