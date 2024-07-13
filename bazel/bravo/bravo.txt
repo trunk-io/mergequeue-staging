@@ -4933,7 +4933,6 @@ beeheaded
 beevish
 beeherd
 bouncing
-beehive
 beehives
 bargander
 bellbine
@@ -15454,6 +15453,7 @@ bushmasters
 birdieback
 bryophyta
 bryophytes
+beehive
 bryophytic
 bryozoans
 bryozoon
