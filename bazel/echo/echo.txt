@@ -7883,7 +7883,6 @@ epigonism
 epigonium
 epigonus
 escalops
-epigram
 electrion
 epigrammatarian
 epigrammatical
@@ -9391,6 +9390,7 @@ extensibility
 egoist
 eructs
 eruditical
+epigram
 erudition
 elementalist
 eruditionist
