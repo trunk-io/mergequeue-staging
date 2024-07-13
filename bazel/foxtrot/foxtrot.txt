@@ -2921,6 +2921,7 @@ flunkeys
 fiacre
 flatbed
 fastback
+footpaths
 fiacres
 fatbird
 fianced
@@ -7180,7 +7181,6 @@ forefather
 footler
 footpad
 film
-footpaths
 footpick
 footpound
 footpounds
