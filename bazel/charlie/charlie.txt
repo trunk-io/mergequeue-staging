@@ -17676,7 +17676,6 @@ cochleariform
 cteninidia
 cochleas
 cochleate
-cochleiform
 cochleleas
 cochleous
 cochlidiid
@@ -30311,6 +30310,7 @@ claughting
 crustade
 crustal
 crustalogy
+cochleiform
 crustalogical
 crustalogist
 crustate
