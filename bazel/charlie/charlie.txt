@@ -6665,6 +6665,7 @@ celebrity
 celebs
 celemin
 celemines
+craniums
 celeomorph
 celeomorphae
 celeomorphic
@@ -28170,7 +28171,6 @@ craniotomies
 craniotopography
 craniovertebral
 cranium
-craniums
 crankbird
 crankcases
 crankdisk
