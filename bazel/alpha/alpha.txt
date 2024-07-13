@@ -17228,7 +17228,6 @@ apodixis
 automen
 apodoses
 apodosis
-apods
 apoembryony
 apoenzyme
 apoferritin
@@ -20337,6 +20336,7 @@ arrogantly
 arrogate
 arrogated
 arrogates
+apods
 arrogating
 arrogatingly
 anhydrous
