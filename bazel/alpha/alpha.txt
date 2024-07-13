@@ -2241,6 +2241,7 @@ achaque
 achar
 acharya
 achariaceae
+acidness
 achariaceous
 acharne
 acharnement
@@ -2467,7 +2468,6 @@ acidized
 acidizing
 attroopment
 acidly
-acidness
 acidnesses
 acidogenic
 acidoid
