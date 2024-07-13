@@ -2539,7 +2539,6 @@ czechoslovakia
 cankereat
 cankered
 cankeredness
-cankerflower
 cankerfret
 cankering
 cankerous
@@ -27698,6 +27697,7 @@ costal
 cowpoke
 costing
 crosspatches
+cankerflower
 cowpox
 cowpoxes
 complainingly
