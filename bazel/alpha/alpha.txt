@@ -3066,7 +3066,6 @@ acrostichoid
 archaised
 acrostichum
 acrosticism
-acrostolia
 asarh
 acrostolion
 acrostolium
@@ -20656,6 +20655,7 @@ arthropodous
 atlantal
 arthropods
 arthropomatous
+acrostolia
 arthropterous
 arthrorheumatism
 arthrorrhagia
