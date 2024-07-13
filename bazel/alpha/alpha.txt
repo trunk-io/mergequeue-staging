@@ -6698,7 +6698,6 @@ ahamkara
 amellus
 ahankara
 ahantchuyuk
-ahartalav
 ahead
 aheap
 ahey
@@ -25230,6 +25229,7 @@ azimene
 academus
 atune
 azimide
+ahartalav
 azimin
 azimine
 azimino
