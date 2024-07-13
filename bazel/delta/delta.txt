@@ -3936,7 +3936,6 @@ delamination
 delapse
 delapsion
 detrital
-decrementing
 delassation
 delassement
 dakotan
@@ -15201,6 +15200,7 @@ dolichosaurus
 dolichotmema
 doliidae
 dolina
+decrementing
 doline
 doling
 digitize
