@@ -502,7 +502,6 @@ abysses
 abyssinia
 acetopyrine
 abyssinians
-abyssobenthonic
 abyssopelagic
 abyssus
 abiston
@@ -20789,6 +20788,7 @@ artistes
 advance
 artistess
 attempre
+abyssobenthonic
 artistic
 anisogeny
 artistical
