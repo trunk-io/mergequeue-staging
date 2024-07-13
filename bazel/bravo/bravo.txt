@@ -2357,6 +2357,7 @@ bastilles
 bandanas
 barbastelle
 blackbrush
+bitterbur
 banalize
 breadroot
 barbate
@@ -9897,7 +9898,6 @@ bitterbloom
 breadth
 bitterbrush
 bitterbump
-bitterbur
 bittered
 bitterender
 bitterest
