@@ -1360,7 +1360,6 @@ counselorship
 calypter
 calypters
 calyptoblastea
-calyptoblastic
 calyptorhynchus
 calyptraea
 calyptranthes
@@ -5875,6 +5874,7 @@ catharist
 catharistic
 catharization
 catharize
+calyptoblastic
 catharizing
 catharpin
 catharping
