@@ -4300,7 +4300,6 @@ gymnasium
 gymnasiums
 gemarist
 gymnast
-geonyctinastic
 grimaced
 gymnastic
 gravidas
@@ -5235,6 +5234,7 @@ glareworm
 glary
 grazer
 gyrose
+geonyctinastic
 garbages
 galactolipide
 gurjara
