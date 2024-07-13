@@ -22210,7 +22210,6 @@ confusticate
 confustication
 confutability
 confutation
-confutations
 confutator
 confute
 confuters
@@ -24426,6 +24425,7 @@ cooperates
 crutcher
 cooperating
 cantered
+confutations
 cooperatingly
 cooperation
 cooperationist
