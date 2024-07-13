@@ -4041,6 +4041,7 @@ fino
 furcular
 fins
 fregatidae
+foredeclare
 fintadores
 fantigue
 ferth
@@ -7558,7 +7559,6 @@ fivefoldness
 foredated
 folliful
 foredecks
-foredeclare
 foredeem
 fallotomy
 flyspecked
