@@ -1888,7 +1888,6 @@ gastrotympanites
 gastrotome
 gastrotomy
 gastrotomies
-gastrotrich
 gastrovascular
 gastrozooid
 gastrulating
@@ -4013,6 +4012,7 @@ germiparous
 graders
 gidjee
 gids
+gastrotrich
 gie
 gye
 glazework
