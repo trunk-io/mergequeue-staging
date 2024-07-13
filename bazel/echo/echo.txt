@@ -3783,7 +3783,6 @@ erie
 embush
 embusy
 embusk
-embusqu
 erythroxyline
 embusque
 exode
@@ -7447,6 +7446,7 @@ epigene
 epha
 emberiza
 ephahs
+embusqu
 ecphorize
 ephas
 ephebe
