@@ -2413,7 +2413,6 @@ fermillet
 fermion
 flexity
 fermions
-fermium
 fermorite
 fibra
 fern
@@ -7752,6 +7751,7 @@ foulnesses
 forelouper
 foremade
 foremarch
+fermium
 foremark
 foremartyr
 faceharden
