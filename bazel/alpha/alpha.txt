@@ -9700,7 +9700,6 @@ aluminoferric
 aluminography
 aluminographic
 aluminose
-aluminosilicate
 arcadia
 aluminosis
 aladinist
@@ -12359,6 +12358,7 @@ ancistrocladaceae
 ancistrocladaceous
 ancistrocladus
 ancistroid
+aluminosilicate
 ancle
 ancodont
 ancoly
