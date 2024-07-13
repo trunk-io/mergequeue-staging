@@ -7818,7 +7818,6 @@ epigastriocele
 estrin
 epigastrium
 encastage
-epigeal
 eelery
 evidence
 euectic
@@ -10840,6 +10839,7 @@ earflaps
 euhyostyly
 euhyostylic
 elides
+epigeal
 eukairite
 ectochondral
 eukaryote
