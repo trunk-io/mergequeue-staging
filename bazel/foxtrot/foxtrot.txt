@@ -5616,6 +5616,7 @@ findable
 forepaws
 frayn
 flypaper
+foolfish
 ferns
 fixedly
 flypapers
@@ -7074,7 +7075,6 @@ fooler
 ferreters
 filth
 fooleries
-foolfish
 foolhardy
 foolhardily
 footful
