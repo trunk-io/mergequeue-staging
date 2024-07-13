@@ -12933,7 +12933,6 @@ angiospermae
 ahaunch
 angiospermal
 angiospermic
-aistopod
 angiospermous
 allerion
 angiosperms
@@ -21938,6 +21937,7 @@ acuductor
 assumers
 assumes
 assumingly
+aistopod
 assumingness
 assummon
 assumpsit
