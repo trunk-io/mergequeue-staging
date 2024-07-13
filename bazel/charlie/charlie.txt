@@ -15354,7 +15354,6 @@ clairvoyancies
 cotham
 cabiritic
 clairvoyant
-camptosorus
 clairvoyantly
 clairvoyants
 cartoons
@@ -25226,6 +25225,7 @@ corynteria
 corinth
 corinthes
 corinthianesque
+camptosorus
 corinthianism
 corinthians
 coriolanus
