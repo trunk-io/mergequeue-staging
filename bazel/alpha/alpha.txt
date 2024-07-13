@@ -1647,7 +1647,6 @@ acclimature
 acclinate
 acclivities
 aegis
-anaxial
 acclivitous
 acclivous
 accloy
@@ -7784,6 +7783,7 @@ alcogene
 alcoholmeter
 airmass
 alcoholmetric
+anaxial
 adad
 autecologically
 adelpholite

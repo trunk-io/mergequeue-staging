@@ -20875,6 +20875,7 @@ compositeness
 compositing
 composition
 compositional
+connectible
 compositionally
 compositions
 compositive
@@ -22606,7 +22607,6 @@ connectedly
 connecter
 connectibility
 collyria
-connectible
 connectibly
 connection
 connectionism
