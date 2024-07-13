@@ -2093,6 +2093,7 @@ albatrosses
 acetylator
 acetylbenzoate
 acetylbenzoic
+alternariose
 acetylbiuret
 acetylcarbazole
 acetylcellulose
@@ -9560,7 +9561,6 @@ alternance
 alternanthera
 absolvable
 alternaria
-alternariose
 alternat
 alternate
 abhorrently
