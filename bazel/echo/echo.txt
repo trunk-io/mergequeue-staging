@@ -2254,6 +2254,7 @@ electioneered
 electioneerer
 electioneering
 electioneers
+encoded
 elective
 electives
 electivism
@@ -4790,7 +4791,6 @@ encloud
 encoach
 encode
 eclating
-encoded
 electrolyser
 encodings
 encoffin
