@@ -1644,6 +1644,7 @@ ballones
 ballonet
 ballonets
 basisphenoidal
+biologically
 ballonette
 ballonne
 ballonnes
@@ -9012,7 +9013,6 @@ bludgeoneer
 botanophilist
 bethwack
 biologic
-biologically
 biologics
 biologies
 biologism
