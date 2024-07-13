@@ -3781,7 +3781,6 @@ deicides
 deicing
 durmast
 deidesheimer
-description
 deific
 diurnally
 deifical
@@ -15763,6 +15762,7 @@ dormered
 dormers
 dormette
 dormeuse
+description
 dormy
 dunlap
 dormice
