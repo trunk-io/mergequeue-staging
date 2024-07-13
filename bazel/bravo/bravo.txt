@@ -4616,7 +4616,6 @@ bedcovers
 bedder
 bedding
 beddingroll
-beddings
 bede
 batrachoid
 bro
@@ -12978,6 +12977,7 @@ barristerial
 bordman
 bordrag
 bordroom
+beddings
 bordun
 blackeye
 bordure
