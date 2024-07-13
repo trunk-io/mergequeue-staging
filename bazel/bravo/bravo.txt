@@ -5558,7 +5558,6 @@ belah
 belay
 belayed
 bacteriaemia
-bedticking
 belaying
 belays
 benzalethylamine
@@ -8608,6 +8607,7 @@ berliner
 billetty
 broadband
 billetwood
+bedticking
 billfish
 bouillons
 billfolds
