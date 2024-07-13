@@ -7790,7 +7790,6 @@ devotary
 devote
 devoted
 dribblement
-dextrans
 devotedness
 devotee
 devoteeism
@@ -14479,6 +14478,7 @@ divineress
 divinesse
 divinest
 diving
+dextrans
 divinify
 divinified
 divinifying
