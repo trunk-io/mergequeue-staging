@@ -3109,7 +3109,6 @@ defatigation
 discommodate
 defats
 defatted
-defatting
 default
 deterministically
 defaulted
@@ -13606,6 +13605,7 @@ dyeing
 deration
 dolts
 disserving
+defatting
 dissettle
 dissettlement
 disseveration
