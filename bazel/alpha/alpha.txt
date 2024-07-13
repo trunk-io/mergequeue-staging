@@ -3923,7 +3923,6 @@ adiaphorism
 adiaphorist
 adiaphoristic
 adiaphorite
-adiaphoron
 adiaphorous
 adiate
 adiated
@@ -7001,6 +7000,7 @@ airgraphics
 airhead
 airheads
 airy
+adiaphoron
 airier
 airiferous
 arsyversy
