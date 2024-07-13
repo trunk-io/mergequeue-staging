@@ -12611,6 +12611,7 @@ exitance
 exite
 exited
 exiting
+extrameridian
 exition
 exitious
 exiture
@@ -13866,7 +13867,6 @@ extrality
 extramatrical
 exaggerating
 extramental
-extrameridian
 employless
 enterostenosis
 evade
