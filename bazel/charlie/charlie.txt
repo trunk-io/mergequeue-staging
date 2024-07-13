@@ -1674,7 +1674,6 @@ calvaries
 calvarium
 calvatia
 calve
-calved
 calver
 calves
 calvin
@@ -24079,6 +24078,7 @@ conventionally
 conventioneer
 conventioneers
 conventioner
+calved
 conventionist
 conventionize
 conventions
