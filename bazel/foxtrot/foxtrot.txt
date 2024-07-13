@@ -2870,6 +2870,7 @@ fevered
 feveret
 feverfew
 flamier
+formals
 fulimart
 filea
 floating
@@ -8362,7 +8363,6 @@ formalizing
 fraudulently
 formally
 formalness
-formals
 formamide
 formamido
 formamidoxime
