@@ -4579,6 +4579,7 @@ fictively
 farming
 footslog
 fixup
+fatling
 forwarding
 fixups
 fossilizing
@@ -5501,7 +5502,6 @@ flicked
 formication
 flickered
 flickering
-fatling
 flickeringly
 forefin
 fait
