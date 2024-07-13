@@ -8242,6 +8242,7 @@ algores
 acknowledgement
 algorism
 algorisms
+axillant
 antisymmetrical
 algorist
 algoristic
@@ -25066,7 +25067,6 @@ axilemma
 allottee
 axilemmas
 axillae
-axillant
 axillar
 axillary
 acaridans

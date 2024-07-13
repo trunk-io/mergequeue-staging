@@ -9453,7 +9453,6 @@ escalading
 escalado
 elocutionize
 escalan
-escalate
 escalates
 escalating
 externate
@@ -11388,6 +11387,7 @@ evaporation
 evenoo
 expositional
 evaporatively
+escalate
 enzymatically
 extending
 exercises
