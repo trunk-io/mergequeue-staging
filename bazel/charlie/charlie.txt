@@ -7049,7 +7049,6 @@ centerfold
 centerfolds
 centering
 centerline
-centermost
 centerpiece
 centerpieces
 centerpunch
@@ -9566,6 +9565,7 @@ checker
 checkerbelly
 checkerbellies
 checkerberry
+centermost
 checkerboard
 climates
 checkerboarded

@@ -11660,7 +11660,6 @@ dejerate
 discord
 discordance
 discordancy
-discordancies
 discordant
 deratizing
 discordantly
@@ -18115,6 +18114,7 @@ dumfounds
 dupper
 dumka
 dummy
+discordancies
 dummies
 diagrammatician
 disjunctively
