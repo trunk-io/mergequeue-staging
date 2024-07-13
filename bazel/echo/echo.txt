@@ -6564,6 +6564,7 @@ entelodon
 entemple
 entender
 entendre
+exaun
 entendres
 elucidators
 entente
@@ -11880,7 +11881,6 @@ exaudi
 endeavoring
 exauguration
 eadish
-exaun
 exauthorize
 excalation
 excalcarate
