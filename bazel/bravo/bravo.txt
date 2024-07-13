@@ -4546,6 +4546,7 @@ becurses
 becurtained
 bonier
 becushioned
+burrower
 baramin
 becut
 bed
@@ -5016,7 +5017,6 @@ beetles
 bubal
 beetlestock
 beetlestone
-burrower
 beetleweed
 beetlike
 beetling
