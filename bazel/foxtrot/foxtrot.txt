@@ -1811,7 +1811,6 @@ febres
 febricant
 febricity
 febricula
-febrifacient
 fascinatedly
 febriferous
 febrifuge
@@ -3984,6 +3983,7 @@ finished
 flatterdock
 forride
 finisher
+febrifacient
 finishes
 fortunetell
 finishing
