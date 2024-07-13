@@ -1560,7 +1560,6 @@ ballasts
 ballat
 ballata
 ballate
-ballaton
 batikulin
 ballatoon
 balldom
@@ -16542,6 +16541,7 @@ barographic
 bucharest
 buchloe
 buchmanism
+ballaton
 beant
 bayish
 buchnerite
