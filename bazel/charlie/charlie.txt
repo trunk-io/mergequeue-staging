@@ -5789,6 +5789,7 @@ categorist
 categorization
 categorize
 categorizer
+cyclecars
 categorizers
 childless
 categorizes
@@ -13326,7 +13327,6 @@ cyclase
 cyclases
 cyclazocine
 cyclecar
-cyclecars
 cycled
 cycledom
 cyclene
