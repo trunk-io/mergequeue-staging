@@ -7713,7 +7713,6 @@ cerigerous
 ceryl
 cerillo
 ceriman
-chirino
 cerimans
 coinhere
 cerin
@@ -16051,6 +16050,7 @@ clergymen
 clergion
 clergywoman
 cleric
+chirino
 clerical
 clericalism
 clericalist
