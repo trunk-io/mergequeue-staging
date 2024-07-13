@@ -4452,6 +4452,7 @@ festivities
 fishgigs
 fermentor
 fist
+fluoaluminic
 fister
 flinders
 fistfight
@@ -6375,7 +6376,6 @@ flunkyhood
 formality
 flunkyite
 felonsetting
-fluoaluminic
 fluoboric
 fluoborid
 fleamy
