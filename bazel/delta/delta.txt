@@ -5927,7 +5927,6 @@ depressed
 depresses
 depressibility
 depressibilities
-depressible
 depressing
 depressingly
 dermatography
@@ -7479,6 +7478,7 @@ deuteronomy
 deuteronomic
 deuteronomical
 deuterons
+depressible
 diacodium
 depredicate
 deuteropathic
