@@ -6176,7 +6176,6 @@ aggregable
 autoloading
 aggregant
 aggregata
-aggregatae
 ardeidae
 aggregated
 aggregately
@@ -20950,6 +20949,7 @@ ascendantly
 ascendence
 ascendency
 ascendent
+aggregatae
 ascender
 ascendible
 ascending
