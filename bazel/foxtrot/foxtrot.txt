@@ -210,7 +210,6 @@ futilize
 facture
 factures
 facula
-faculae
 facular
 faculative
 fertilised
@@ -8239,6 +8238,7 @@ fenagle
 foxfires
 forgiveness
 forgivenesses
+faculae
 florification
 forgiver
 forgives
