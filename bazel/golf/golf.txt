@@ -850,6 +850,7 @@ gambados
 galvaniser
 guydom
 greenage
+glided
 gooseneck
 gambeer
 gambeered
@@ -10395,7 +10396,6 @@ gumdrop
 girnal
 goings
 gitanos
-glided
 glucase
 gristle
 gigantocyte
