@@ -587,6 +587,7 @@ damask
 damasked
 demophobe
 damaskeening
+disembarkment
 damaskin
 damaskine
 damasse
@@ -16458,7 +16459,6 @@ dogtrick
 doze
 dozed
 dozened
-disembarkment
 derbylite
 distemperure
 dozener
