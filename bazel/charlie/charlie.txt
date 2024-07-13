@@ -13837,7 +13837,6 @@ cinchonin
 cinchonine
 cinchoninic
 cinchonisation
-cinchonise
 cinchonised
 cinchonising
 colorings
@@ -20270,6 +20269,7 @@ commodores
 counterpuncher
 commolition
 chaum
+cinchonise
 common
 commonable
 commonality
