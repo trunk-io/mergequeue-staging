@@ -1481,7 +1481,6 @@ acceleratory
 accelerators
 accelerograph
 accelerometer
-accelerometers
 accend
 apartado
 accendible
@@ -8489,6 +8488,7 @@ aljama
 aljamado
 aljamia
 aljamiah
+accelerometers
 aljoba
 aljofaina
 alk
