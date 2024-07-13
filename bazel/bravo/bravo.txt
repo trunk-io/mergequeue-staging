@@ -1641,6 +1641,7 @@ balloen
 ballogan
 ballon
 ballone
+borderland
 ballones
 ballonet
 ballonets
@@ -12962,7 +12963,6 @@ borderies
 bordering
 bankrolls
 borderings
-borderland
 borderlander
 borderless
 borderlight
