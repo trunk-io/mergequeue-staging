@@ -3338,7 +3338,6 @@ dimissorial
 delicate
 defis
 defix
-desalt
 deflagrable
 deflagrated
 deflagrates
@@ -15206,6 +15205,7 @@ digitize
 davenports
 doliolum
 deburse
+desalt
 dolittle
 dolium
 doll
