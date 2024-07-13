@@ -299,6 +299,7 @@ eastings
 electrotechnician
 eastlake
 eastlander
+excipulum
 encharnel
 eastlin
 eastling
@@ -12020,7 +12021,6 @@ excipulaceae
 excipule
 excipuliform
 evanishes
-excipulum
 encyclic
 excircle
 esker
