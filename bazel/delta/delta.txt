@@ -11585,7 +11585,6 @@ disconjure
 disconnect
 disconnected
 disconnectedly
-disconnectedness
 disconnecter
 disconnecting
 dentalgia
@@ -14272,6 +14271,7 @@ dittoes
 dittogram
 designated
 dinitrophenylhydrazine
+disconnectedness
 dittograph
 danoranja
 destour
