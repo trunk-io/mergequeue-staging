@@ -2439,6 +2439,7 @@ decken
 decker
 dragsawing
 deckie
+diatomacean
 decking
 deckings
 deckle
@@ -8715,7 +8716,6 @@ diapered
 diatom
 diatoma
 diatomaceae
-diatomacean
 diatomaceous
 diatomales
 dacoity
