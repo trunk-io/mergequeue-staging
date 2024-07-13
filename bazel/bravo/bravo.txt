@@ -5920,7 +5920,6 @@ bibliographers
 beluga
 belugas
 belugite
-belve
 belvedered
 belvederes
 belzebub
@@ -16522,6 +16521,7 @@ bakeapple
 berme
 buccocervical
 butte
+belve
 buccogingival
 buccolingual
 bides
