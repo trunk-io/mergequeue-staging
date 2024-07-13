@@ -7121,7 +7121,6 @@ desulfurizing
 desulfurs
 desulphurate
 desulphurated
-deadens
 desulphuration
 desulphuret
 desulphurising
@@ -16835,6 +16834,7 @@ drawing
 drawknife
 disjune
 disjointness
+deadens
 dais
 drawknives
 drawl
