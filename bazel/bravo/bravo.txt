@@ -3790,7 +3790,6 @@ battlestead
 beadle
 battlewagon
 battleward
-battlewise
 balita
 bronchiectasis
 battology
@@ -5911,6 +5910,7 @@ biparous
 beltlines
 beltmaker
 beltmaking
+battlewise
 binervate
 beltway
 baulky
