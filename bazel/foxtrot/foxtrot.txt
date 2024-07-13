@@ -5631,7 +5631,6 @@ flype
 foredeep
 fconv
 filths
-fribbler
 first
 freezers
 fullmouth
@@ -9361,6 +9360,7 @@ franticness
 formic
 frank
 frankly
+fribbler
 favonian
 forest
 frankalmoign

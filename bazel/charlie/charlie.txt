@@ -161,6 +161,7 @@ cristineaux
 cabotinage
 cabots
 cabouca
+castling
 cabre
 cabree
 chimaeroidei
@@ -5329,7 +5330,6 @@ castlet
 castleward
 cowpony
 castlewise
-castling
 castoff
 castoffs
 castor
