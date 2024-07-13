@@ -5165,7 +5165,6 @@ glaistig
 gulash
 glaives
 geochemistry
-glam
 glamberry
 glamorized
 glamorizer
@@ -6162,6 +6161,7 @@ gluelike
 ginger
 gyrosyn
 gallicisms
+glam
 geognost
 genealogy
 galvanotropic
