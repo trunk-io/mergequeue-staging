@@ -3904,6 +3904,7 @@ ghuz
 gi
 gane
 gavialoid
+glycogenosis
 greylags
 giant
 gilver
@@ -5500,7 +5501,6 @@ glomerulate
 gigantism
 glycogeny
 glycogenolytic
-glycogenosis
 glycogenous
 glycohaemia
 glycol
