@@ -4933,7 +4933,6 @@ demothball
 demotic
 demoting
 demotions
-demount
 dilemi
 disadventurous
 demountable
@@ -7037,6 +7036,7 @@ drawgear
 destines
 destiny
 destinism
+demount
 daystreak
 destructed
 destituted

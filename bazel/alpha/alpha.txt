@@ -10855,7 +10855,6 @@ ammoniacum
 algophagous
 ammoniate
 ammoniated
-ammoniating
 ammoniation
 ammonic
 ammonical
@@ -11815,6 +11814,7 @@ analeptical
 aguise
 antiphrasis
 analgen
+ammoniating
 analgene
 analgesia
 analgesic
