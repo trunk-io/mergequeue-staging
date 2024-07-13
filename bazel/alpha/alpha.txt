@@ -6617,7 +6617,6 @@ agrologically
 agrologies
 amphistomum
 agrom
-agromyza
 agromyzid
 agromyzidae
 agron
@@ -14351,6 +14350,7 @@ allaeanthus
 antepenultima
 antepenultimate
 antepenults
+agromyza
 antepileptic
 antepyretic
 antepirrhema
