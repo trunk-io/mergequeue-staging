@@ -8562,6 +8562,7 @@ forrel
 forril
 foresworn
 forritsome
+furunculus
 fervency
 forsado
 fulminatory
@@ -11524,7 +11525,6 @@ furcates
 furuncles
 furuncular
 furunculoid
-furunculus
 fora
 faintling
 furzed
