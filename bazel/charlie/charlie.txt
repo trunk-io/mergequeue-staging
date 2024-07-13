@@ -24638,7 +24638,6 @@ copyreaders
 copyreading
 copyright
 copyrightable
-copyrighter
 copyrighting
 colotomies
 copyrights
@@ -28645,6 +28644,7 @@ crematorial
 crematories
 crematoririums
 crematorium
+copyrighter
 crematoriums
 cremators
 crembalum
