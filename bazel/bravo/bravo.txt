@@ -2404,6 +2404,7 @@ barbets
 barbette
 barite
 barbettes
+battlefront
 bispore
 bryanthus
 barbican
@@ -3777,7 +3778,6 @@ biographist
 bridgewards
 ballyrag
 battlefields
-battlefront
 battlefronts
 battleful
 battleground
