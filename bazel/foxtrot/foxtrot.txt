@@ -4549,7 +4549,6 @@ fiveling
 forwardation
 fivepenny
 fierte
-fivepins
 fives
 fivescore
 fivesome
@@ -9002,6 +9001,7 @@ fourragere
 fourrageres
 fourrier
 forlore
+fivepins
 flaps
 fours
 foreplace
