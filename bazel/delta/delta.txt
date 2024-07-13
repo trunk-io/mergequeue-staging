@@ -14939,6 +14939,7 @@ doeg
 doeglic
 doegling
 doer
+doubleganger
 does
 doeskin
 doeskins
@@ -16020,7 +16021,6 @@ doub
 decrepitude
 double
 doubled
-doubleganger
 doublegear
 doublehandedly
 doublehandedness
