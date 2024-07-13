@@ -5256,7 +5256,6 @@ aestus
 aet
 artillery
 aethalia
-aethalioid
 abstriction
 aetheling
 accouterment
@@ -24499,6 +24498,7 @@ aberrometer
 autoxidator
 autoxidizability
 autoxidize
+aethalioid
 anesthetizes
 autoxidizer
 antebellum
