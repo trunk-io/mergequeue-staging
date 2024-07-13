@@ -1103,7 +1103,6 @@ ediface
 edify
 echolalia
 edificate
-edificative
 edificator
 expatiator
 elderhood
@@ -12701,6 +12700,7 @@ estimates
 eyeshine
 exogenetic
 ekaha
+edificative
 exogeny
 exogenic
 exogyra
