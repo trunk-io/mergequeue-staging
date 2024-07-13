@@ -3879,6 +3879,7 @@ adherescence
 adherescent
 adhering
 adhesion
+advantageous
 adhesional
 adhesions
 adhesive
@@ -4610,7 +4611,6 @@ aclinal
 anaglyphoscope
 afflictedness
 advantaged
-advantageous
 advantageously
 advantageousness
 advantages
