@@ -8849,6 +8849,7 @@ extraposition
 erasmus
 erastianize
 erastus
+extg
 erat
 erato
 emption
@@ -13674,7 +13675,6 @@ exterraneous
 exterritorial
 exterritorialize
 extersive
-extg
 extima
 expressness
 extinct
