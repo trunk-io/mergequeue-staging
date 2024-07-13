@@ -525,7 +525,6 @@ falerian
 ferineness
 feasance
 flamed
-falernian
 falerno
 faliscan
 falisci
@@ -10182,6 +10181,7 @@ fuzees
 framing
 feasible
 frith
+falernian
 frithbot
 frithy
 fallibilist
