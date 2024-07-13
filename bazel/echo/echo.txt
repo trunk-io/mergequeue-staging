@@ -5427,7 +5427,6 @@ enclavement
 endovasculitis
 equinox
 enemy
-epitaph
 ecdemic
 endowing
 endoerythrocytic
@@ -13528,6 +13527,7 @@ engineries
 exsufflation
 exsuperance
 exsurge
+epitaph
 exsurgent
 exsuscitate
 ext
