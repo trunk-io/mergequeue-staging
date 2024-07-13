@@ -2464,7 +2464,6 @@ electrolysing
 electrolyte
 episcopable
 electrolithotrity
-electrolytic
 electrolytical
 electrolytically
 electrolyzability
@@ -2899,6 +2898,7 @@ elegiacal
 elicitable
 eurodollars
 elicited
+electrolytic
 eliciting
 endosepsis
 elaeagnaceae
