@@ -6775,7 +6775,6 @@ desklike
 disposure
 deskman
 deskmen
-desks
 desktop
 deslime
 desmachymatous
@@ -16462,6 +16461,7 @@ disembarkment
 derbylite
 distemperure
 dozener
+desks
 dozening
 dozent
 dowdyism
