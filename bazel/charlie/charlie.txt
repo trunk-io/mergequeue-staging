@@ -6786,7 +6786,6 @@ cellophane
 chladnite
 cellos
 constative
-cellose
 cells
 cellucotton
 cellular
@@ -10693,6 +10692,7 @@ chilver
 chimachima
 chimaera
 counteraverment
+cellose
 chimaeras
 chimaerid
 chimaeroid
