@@ -1985,7 +1985,6 @@ diarial
 decaying
 decayless
 decal
-decalage
 decalcification
 decalcified
 decalcifier
@@ -9277,6 +9276,7 @@ darogha
 diencephalic
 diener
 dier
+decalage
 damoiselle
 dyer
 dysgenesic
