@@ -2484,7 +2484,6 @@ bardcraft
 baruch
 beribboned
 barded
-blesmol
 bianchite
 bardee
 bardes
@@ -15956,6 +15955,7 @@ bronchos
 bronchoscope
 biforous
 bronchoscopy
+blesmol
 bronchoscopic
 bronchoscopically
 bronchoscopist
