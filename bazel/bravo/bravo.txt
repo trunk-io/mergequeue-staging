@@ -12212,7 +12212,6 @@ blauwbok
 bolsterers
 bash
 bolstering
-bolsters
 bolsterwork
 besmiling
 bolt
@@ -13650,6 +13649,7 @@ bouses
 bousy
 bousing
 besteads
+bolsters
 bousoukia
 bousoukis
 bushings
