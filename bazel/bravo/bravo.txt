@@ -10133,6 +10133,7 @@ blueprint
 boobishness
 blackguardly
 beseechers
+bohunks
 blackguards
 benedicts
 blackgums
@@ -11542,7 +11543,6 @@ behavers
 breaths
 board
 boardbill
-bohunks
 bodega
 boarded
 boccaro
