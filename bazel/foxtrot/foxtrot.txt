@@ -5092,7 +5092,6 @@ floodgates
 flattercap
 foliobranch
 foolheadedness
-flatterer
 flatteries
 farrago
 flatters
@@ -11734,6 +11733,7 @@ fuzils
 fuzing
 fumarate
 fuzz
+flatterer
 fayumic
 famines
 ferrean
