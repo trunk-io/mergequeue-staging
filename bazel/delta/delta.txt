@@ -5801,6 +5801,7 @@ depopularize
 depopulate
 depicturing
 dopaoxidase
+descendability
 depopulated
 depopulates
 depopulation
@@ -6501,7 +6502,6 @@ descants
 donas
 dook
 descend
-descendability
 dyarchical
 descendable
 descendance
