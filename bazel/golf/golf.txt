@@ -2157,7 +2157,6 @@ gauzewing
 gyring
 gazer
 gormaw
-gazes
 gruel
 gulden
 gazette
@@ -3833,6 +3832,7 @@ gummiferous
 ghettoize
 gustfully
 ghettoized
+gazes
 galvanocauterization
 ghettoizing
 ghibellinism
