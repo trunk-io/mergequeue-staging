@@ -3610,7 +3610,6 @@ enteralgia
 embrace
 embraceably
 embraced
-embracement
 enameled
 embracer
 embracers
@@ -10849,6 +10848,7 @@ earflaps
 euhyostyly
 euhyostylic
 elides
+embracement
 eukairite
 ectochondral
 eukaryote
