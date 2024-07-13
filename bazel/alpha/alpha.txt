@@ -10709,7 +10709,6 @@ autotoxicosis
 amynodon
 amynodont
 antiacid
-aminoformic
 antilocapra
 aminogen
 aminoglutaric
@@ -16992,6 +16991,7 @@ aphthae
 abscissin
 aphthartodocetism
 aphthic
+aminoformic
 autoracemization
 aphthitalite
 aphthoid
