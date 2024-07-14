@@ -1626,7 +1626,6 @@ ballistocardiogram
 ballistocardiograph
 ballistocardiographic
 bead
-ballistophobia
 ballium
 ballywack
 ballywrack
@@ -11059,6 +11058,7 @@ befrets
 bloodcurdling
 bloodcurdlingly
 blooddrop
+ballistophobia
 bura
 blooddrops
 breathier
