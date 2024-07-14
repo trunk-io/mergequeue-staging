@@ -4153,7 +4153,6 @@ carers
 cares
 caress
 caressable
-caressed
 caressers
 caresses
 chimere
@@ -7882,6 +7881,7 @@ cervid
 cervidae
 cervinae
 cervine
+caressed
 comme
 cervisia
 cervisial
