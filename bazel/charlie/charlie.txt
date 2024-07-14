@@ -7763,7 +7763,6 @@ ceroplastic
 ceroplastics
 ceros
 cerosin
-cerotate
 cerote
 cerotin
 cerotypes
@@ -17812,6 +17811,7 @@ codebook
 codebooks
 codebreak
 codebreaker
+cerotate
 codebtor
 contraparallelogram
 codebtors
