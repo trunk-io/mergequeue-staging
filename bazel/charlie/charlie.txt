@@ -17926,7 +17926,6 @@ codpitchings
 codrus
 cods
 creeper
-codswallop
 comediette
 codworm
 coe
@@ -20915,6 +20914,7 @@ compounding
 cecity
 compoundness
 compounds
+codswallop
 comprachico
 comprachicos
 comprador

@@ -3759,7 +3759,6 @@ echappe
 epichristian
 excerpt
 embrues
-embruing
 embruted
 embrutes
 exclaimed
@@ -5390,6 +5389,7 @@ eyestones
 endotheliolytic
 endothelioma
 endotheliomas
+embruing
 epitheton
 endotheliomyoma
 endotherm
