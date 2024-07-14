@@ -2830,7 +2830,6 @@ acridest
 acridid
 agglutinability
 acrididae
-acridiidae
 acridyl
 acridin
 acridines
@@ -20560,6 +20559,7 @@ arteriostosis
 arteriostrepsis
 arteriotome
 arteriotomy
+acridiidae
 arteriotomies
 apparation
 arteriotrepsis

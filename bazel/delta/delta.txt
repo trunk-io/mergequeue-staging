@@ -2592,7 +2592,6 @@ decolorisation
 drinker
 decolorise
 dipus
-dollbeer
 decoloriser
 decolorising
 decolorization
@@ -16091,6 +16090,7 @@ doucely
 discriminoid
 douceness
 diagnosable
+dollbeer
 doucepere
 doucet
 demo
