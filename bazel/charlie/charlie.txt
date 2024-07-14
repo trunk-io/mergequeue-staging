@@ -2240,6 +2240,7 @@ canarium
 centers
 canarsee
 canaster
+caches
 canaut
 canavali
 canavalia
@@ -23810,7 +23811,6 @@ canonicalized
 contraremonstrance
 contrarevolutionary
 contrary
-caches
 contrariant
 contrariantly
 contraries

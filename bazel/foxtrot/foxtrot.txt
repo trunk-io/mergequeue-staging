@@ -4255,7 +4255,6 @@ firms
 fibroelastic
 firn
 ferity
-furrier
 flammability
 firstborn
 firstcomer
@@ -9378,6 +9377,7 @@ frankfurt
 frankheartedly
 frankheartness
 fouter
+furrier
 frankincense
 franking
 frenzied
