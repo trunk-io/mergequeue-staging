@@ -4458,7 +4458,6 @@ beclogged
 beclose
 beclothe
 beclothed
-beclothes
 becloud
 beclouded
 beclouding
@@ -12265,6 +12264,7 @@ beltie
 baetylic
 bombarder
 bombardier
+beclothes
 blottesquely
 bombardiers
 bombarding
