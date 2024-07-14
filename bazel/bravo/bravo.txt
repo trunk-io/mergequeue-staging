@@ -6648,6 +6648,7 @@ bemixing
 berengarian
 broacher
 berengelite
+bipunctal
 berengena
 berenice
 browed
@@ -16745,7 +16746,6 @@ buffability
 buffalo
 buffaloback
 blasty
-bipunctal
 buffaloes
 buffalofishes
 bannerfish
