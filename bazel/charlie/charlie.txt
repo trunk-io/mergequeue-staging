@@ -885,6 +885,7 @@ calade
 caladium
 cloisters
 caladiums
+cultivable
 calahan
 calais
 calamanco
@@ -30824,7 +30825,6 @@ cultist
 cultistic
 cultists
 cultivability
-cultivable
 cultivably
 cultivar
 cultivars
