@@ -3550,7 +3550,6 @@ batfowl
 batfowler
 batfowls
 batful
-bordeaux
 batheable
 bathed
 barbulate
@@ -8713,6 +8712,7 @@ bimanous
 bimanual
 bedriveled
 balanic
+bordeaux
 bournless
 bimarginate
 bimarine
