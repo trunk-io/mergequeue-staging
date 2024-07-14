@@ -7282,7 +7282,6 @@ deterrer
 domiciliated
 deterrers
 deters
-detersiveness
 detest
 detestability
 detestableness
@@ -13735,6 +13734,7 @@ dirtiest
 dissolutionism
 dissolutionist
 dissolutions
+detersiveness
 dissolutive
 dissolvability
 dissolvable
