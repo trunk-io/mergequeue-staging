@@ -2898,7 +2898,6 @@ barotraumata
 barouche
 blepharoplegia
 barouches
-barouchet
 barouchette
 barouni
 baroxyton
@@ -10360,6 +10359,7 @@ bantam
 blanketless
 blanketmaking
 blankets
+barouchet
 birthday
 blanketweed
 burgout
