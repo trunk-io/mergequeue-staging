@@ -5045,7 +5045,6 @@ bloodthirst
 befamilied
 bagpipers
 billowing
-befamine
 butcherous
 befanned
 baalath
@@ -8481,6 +8480,7 @@ blendor
 bilbo
 bilboas
 bilboes
+befamine
 bilch
 bilcock
 bildar

@@ -5846,7 +5846,6 @@ caters
 caterva
 caterwauled
 celioenterotomy
-caterwauler
 caterwauling
 caterwauls
 catesbaea
@@ -29910,6 +29909,7 @@ crossopterygii
 crossosoma
 crossover
 crossovers
+caterwauler
 crosspatch
 crosspath
 crosspiece
