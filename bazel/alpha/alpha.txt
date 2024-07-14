@@ -2143,7 +2143,6 @@ acetite
 acetize
 acetmethylanilide
 acetnaphthalide
-acetoacetanilide
 acetoacetic
 acetoarsenite
 amic
@@ -2165,6 +2164,7 @@ acetomorphin
 acetomorphine
 acetonaemia
 acetonaemic
+acetoacetanilide
 acetonaphthone
 amphipneust
 acetonation
