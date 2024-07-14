@@ -10232,6 +10232,7 @@ cheveril
 cheveron
 celioncus
 chevesaile
+cognisability
 cramoisie
 chevesne
 chevet
@@ -18382,7 +18383,6 @@ cognati
 cognatic
 cognatical
 cognatus
-cognisability
 cognisable
 cognisably
 cognisance
