@@ -2881,6 +2881,7 @@ filea
 floating
 feverishness
 fulminate
+flocker
 feverlike
 feverous
 feverroot
@@ -5810,7 +5811,6 @@ floccus
 fraus
 flockbed
 fantasy
-flocker
 fathership
 flockings
 flockless
