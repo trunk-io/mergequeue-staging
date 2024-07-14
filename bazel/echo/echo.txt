@@ -3133,7 +3133,6 @@ elroquite
 extracurriculum
 estus
 endemic
-elseways
 elsewhat
 elsewhen
 elsewhere
@@ -13025,6 +13024,7 @@ eoliths
 extrameridional
 expend
 expendable
+elseways
 estacade
 edifier
 expender
