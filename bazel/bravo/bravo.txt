@@ -6073,6 +6073,7 @@ bks
 benchland
 benchless
 benchlet
+biobibliographer
 benchman
 banterer
 benchmark
@@ -8907,7 +8908,6 @@ biglenoid
 bioassaying
 bioassays
 bioastronautical
-biobibliographer
 biobibliography
 biobibliographic
 bioblast
