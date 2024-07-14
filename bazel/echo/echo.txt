@@ -5846,6 +5846,7 @@ engrossingness
 encroaching
 enguard
 engulf
+entocondyle
 engulfed
 engulfing
 engulfment
@@ -6839,7 +6840,6 @@ entocoel
 entocoele
 entocoelic
 entocondylar
-entocondyle
 electrums
 elegiast
 entoconid

@@ -3504,6 +3504,7 @@ defroster
 defrosters
 defrosting
 defter
+dermopathy
 defterdar
 dizain
 deftly
@@ -6362,7 +6363,6 @@ drassid
 dermonosology
 dermoosseous
 dermoossification
-dermopathy
 dermopathic
 deresinize
 ductilimeter
