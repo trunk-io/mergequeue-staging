@@ -5642,7 +5642,6 @@ enfroward
 enfuddle
 enfume
 eng
-engage
 engagedly
 executive
 engagee
@@ -12516,6 +12515,7 @@ exhorted
 exhorter
 exhorters
 exhorting
+engage
 exhortingly
 exhorts
 exhumations
