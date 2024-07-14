@@ -370,6 +370,7 @@ flair
 faints
 fair
 fairbanks
+furlough
 flunkeyize
 farmhousey
 faired
@@ -3865,7 +3866,6 @@ findjan
 findon
 finds
 ferntickled
-furlough
 fixes
 francophile
 fine
