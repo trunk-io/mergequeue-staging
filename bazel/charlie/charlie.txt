@@ -28166,7 +28166,6 @@ craniota
 craniotabes
 craniognomy
 craniotome
-craniotomy
 craniotomies
 craniotopography
 craniovertebral
@@ -28763,6 +28762,7 @@ county
 crepitation
 copalchi
 crepitus
+craniotomy
 creply
 cataclastic
 cupeler
