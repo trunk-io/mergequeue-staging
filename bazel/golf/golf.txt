@@ -4837,7 +4837,6 @@ gathering
 gyro
 gyrocar
 glossopharyngeus
-glomeration
 guidage
 gyroceran
 gerontogeous
@@ -5137,6 +5136,7 @@ gendered
 guige
 glauconite
 glaymore
+glomeration
 grubbiness
 glair
 glumiferous
