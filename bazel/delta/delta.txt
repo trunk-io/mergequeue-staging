@@ -3509,6 +3509,7 @@ dizain
 deftly
 deftness
 deftnesses
+demythologise
 defunct
 defunction
 drillbit
@@ -5883,7 +5884,6 @@ demoniacally
 depravingly
 depravities
 deprecated
-demythologise
 deprecates
 deprecating
 deprecation

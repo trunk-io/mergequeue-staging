@@ -10950,7 +10950,6 @@ archregent
 arrah
 amniotitis
 acetylfluoride
-amniotome
 amobarbital
 appro
 amober
@@ -23859,6 +23858,7 @@ authoriser
 authoritarian
 authoritarianism
 authoritarianisms
+amniotome
 apulian
 authoritative
 aspidiotus
