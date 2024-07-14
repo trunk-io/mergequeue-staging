@@ -1673,6 +1673,7 @@ fb
 frontierman
 fchar
 fipenny
+fume
 fcomp
 furling
 fractal
@@ -11011,7 +11012,6 @@ fumbles
 fichtelite
 fumblingly
 fetterer
-fume
 flitches
 fumed
 fumelike
