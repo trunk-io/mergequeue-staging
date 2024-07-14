@@ -2443,7 +2443,6 @@ canelas
 canelike
 canell
 canella
-canellaceae
 canellas
 canelo
 canelos
@@ -13884,6 +13883,7 @@ cine
 centerless
 catmint
 cineangiocardiography
+canellaceae
 cineangiocardiographic
 cineangiographic
 cineast
