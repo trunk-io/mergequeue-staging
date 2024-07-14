@@ -3526,6 +3526,7 @@ filemot
 filename
 filer
 filers
+fireproofness
 filesave
 filemaker
 filespec
@@ -4172,7 +4173,6 @@ faradizer
 fireproofed
 fireproofing
 fluctuosity
-fireproofness
 fireroom
 firerooms
 firers
