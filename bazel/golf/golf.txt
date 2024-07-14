@@ -4287,7 +4287,6 @@ gymnanthes
 gymnanthous
 gymnarchidae
 gymnasia
-gymnasial
 gymnasiarch
 gymnasisia
 gymnasium
@@ -6095,6 +6094,7 @@ glucocorticoid
 gigahertzes
 gyracanthus
 guilelessness
+gymnasial
 glucogene
 glucogenesis
 glucokinase
