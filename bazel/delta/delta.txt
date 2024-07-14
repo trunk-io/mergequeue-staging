@@ -757,7 +757,6 @@ dandifying
 dandyish
 dracma
 dandyism
-dandily
 dandyling
 demographics
 dandilly
@@ -2816,6 +2815,7 @@ decrypt
 dejeune
 debouchure
 decrypted
+dandily
 decrypting
 decryption
 decryptions
