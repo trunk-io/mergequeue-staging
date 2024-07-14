@@ -5601,6 +5601,7 @@ beldame
 bewrayment
 beldames
 beldams
+broadswords
 beldamship
 bombazeen
 bodgie
@@ -15640,7 +15641,6 @@ broadsword
 barrelfish
 ballyrags
 bluesman
-broadswords
 boolies
 brute
 bidiurnal
