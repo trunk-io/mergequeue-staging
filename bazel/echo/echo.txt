@@ -3569,7 +3569,6 @@ embouchment
 evangelism
 eccl
 embouchure
-embound
 essive
 epithermal
 embourgeoisement
@@ -12601,6 +12600,7 @@ extant
 existing
 existless
 enamelling
+embound
 eligibles
 existlessness
 exists
