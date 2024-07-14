@@ -10707,7 +10707,6 @@ dipolar
 dedecoration
 depectible
 discolorment
-dipole
 dipoles
 dipolsphene
 depudorate
@@ -16734,6 +16733,7 @@ dilatatory
 desmarestiaceae
 dramatizing
 derangements
+dipole
 dramaturgic
 dramaturgical
 dramaturgically
