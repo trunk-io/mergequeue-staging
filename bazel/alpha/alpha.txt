@@ -1663,6 +1663,7 @@ anabo
 affidavits
 antileague
 accoll
+autonomize
 accolle
 alfaquins
 accollee
@@ -24282,7 +24283,6 @@ amusing
 autonomical
 autonomically
 autonomies
-autonomize
 autonomous
 antenniferous
 autonomously
