@@ -7070,6 +7070,7 @@ centetid
 corporateness
 circumradii
 centgener
+convexedness
 centi
 cohesions
 centiar
@@ -24170,7 +24171,6 @@ conveth
 convex
 convexed
 convexedly
-convexedness
 convexes
 convexity
 convexities

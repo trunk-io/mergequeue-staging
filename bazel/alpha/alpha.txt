@@ -9070,7 +9070,6 @@ allotrope
 allotropes
 allotropy
 allotropic
-allotropical
 archosyrinx
 adiapneustia
 autosoterism
@@ -11488,6 +11487,7 @@ aweather
 assemblage
 amuchco
 amueixa
+allotropical
 amugis
 amuguis
 amuyon
