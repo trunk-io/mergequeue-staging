@@ -3982,7 +3982,6 @@ adipopectic
 adipopexia
 adipopexic
 adiposeness
-adiposes
 anthesterion
 ambrose
 adiposis
@@ -6501,6 +6500,7 @@ agrammatism
 agrammatologia
 agrania
 agranulocyte
+adiposes
 agranulocytosis
 agranuloplastic
 agrapha
