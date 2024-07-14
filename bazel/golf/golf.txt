@@ -2555,6 +2555,7 @@ gemsboks
 gemsbucks
 gheg
 gemse
+gaelicize
 gemuetlich
 gemuti
 gemutlich
@@ -7804,7 +7805,6 @@ graith
 graithly
 grakle
 grallatores
-gaelicize
 grallatory
 grallatorial
 ghazism
