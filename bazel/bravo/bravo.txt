@@ -293,7 +293,6 @@ bacillicidic
 bacilliform
 bacilligenic
 bacilliparous
-bacillogenic
 bacillogenous
 bacillosis
 bossies
@@ -9480,6 +9479,7 @@ birdwitted
 birdwoman
 byre
 birectangular
+bacillogenic
 birefraction
 birefractive
 birefringence
