@@ -10030,6 +10030,7 @@ ambari
 ambary
 ambas
 ambash
+afterbrain
 ambassade
 antifame
 ambassadeur
@@ -13442,7 +13443,6 @@ asyllabical
 anisomelia
 anisomelus
 anisometric
-afterbrain
 anisometrope
 anisometropic
 anisomyarian
