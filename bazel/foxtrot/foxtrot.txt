@@ -2386,7 +2386,6 @@ festellae
 fermacy
 fermage
 fibrillate
-fermal
 furnitures
 foreign
 fermate
@@ -3988,6 +3987,7 @@ figure
 finished
 flatterdock
 forride
+fermal
 finisher
 febrifacient
 finishes
