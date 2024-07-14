@@ -3594,7 +3594,6 @@ gesneraceae
 gesneraceous
 gesnerad
 guimpe
-guttation
 garnisher
 glebal
 gotta
@@ -10206,6 +10205,7 @@ gastrular
 guild
 guilder
 guilders
+guttation
 graduating
 guildhall
 guildic
