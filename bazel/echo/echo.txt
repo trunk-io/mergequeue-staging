@@ -11333,7 +11333,6 @@ evangeliaries
 evangeliarium
 evangelic
 evangelical
-enzymosis
 evangelically
 exploder
 evangelicals
@@ -11791,6 +11790,7 @@ emends
 exaltation
 essentials
 exaltations
+enzymosis
 elfland
 exaltative
 exaltedness
