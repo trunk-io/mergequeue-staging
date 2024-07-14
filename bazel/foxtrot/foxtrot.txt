@@ -3159,7 +3159,6 @@ fidac
 fishplate
 fidate
 floodgate
-functorial
 fidawi
 fidded
 ferroinclave
@@ -10098,6 +10097,7 @@ fannon
 footstall
 fringilla
 fringillaceous
+functorial
 fascial
 fledges
 fringillidae
