@@ -3840,6 +3840,7 @@ emerita
 exert
 emeriti
 emeritus
+evector
 emerizing
 emerods
 emeroids
@@ -11417,7 +11418,6 @@ effectible
 evection
 enargite
 evectional
-evector
 evejar
 eveless
 evelight
