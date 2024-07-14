@@ -5198,7 +5198,6 @@ begash
 begass
 begat
 begats
-begattal
 begaud
 baronizing
 begaudy
@@ -17877,6 +17876,7 @@ berberine
 burs
 bursa
 bursae
+begattal
 bursar
 bursary
 bursaries
