@@ -4480,7 +4480,6 @@ demiassignation
 demiatheist
 demibarrel
 demibath
-demibeast
 demibob
 demibrassart
 demibrigade
@@ -18133,6 +18132,7 @@ dumortierite
 dumosity
 dump
 dumpage
+demibeast
 dumpcart
 dumpcarts
 dumped
