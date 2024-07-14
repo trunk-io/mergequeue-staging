@@ -2489,7 +2489,6 @@ deliquesces
 declassee
 declasses
 dicoelious
-declassify
 declassifications
 declassifying
 declassing
@@ -18295,6 +18294,7 @@ duodedenums
 duodena
 duodenal
 duodenary
+declassify
 duodenas
 duodenate
 discontiguousness
