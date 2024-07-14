@@ -4426,7 +4426,6 @@ enantiomorphism
 encopresis
 enantiomorphously
 enantiopathy
-episodial
 exanthine
 enantioses
 earthborn
@@ -12511,6 +12510,7 @@ exhort
 exhortations
 escrime
 exhortator
+episodial
 exhorted
 exhorter
 exhorters
