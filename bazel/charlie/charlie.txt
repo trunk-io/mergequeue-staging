@@ -8619,6 +8619,7 @@ chancelled
 chancellery
 chancelleries
 chancellor
+convoluting
 chancellorate
 centaury
 chancellory
@@ -24248,7 +24249,6 @@ convolutedly
 convolutedness
 culter
 convolutely
-convoluting
 convolutional
 convolutive
 convolve
