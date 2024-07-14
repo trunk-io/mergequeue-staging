@@ -4559,6 +4559,7 @@ fivepins
 fives
 fivescore
 fivesome
+figulines
 fivestones
 fivish
 fix
@@ -10380,7 +10381,6 @@ fantasie
 fifteenth
 forgivableness
 fausant
-figulines
 foothold
 fusk
 flowerfence
