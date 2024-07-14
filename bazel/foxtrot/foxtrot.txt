@@ -38,7 +38,6 @@ fakers
 firebrat
 filters
 fabrique
-formalise
 fabronia
 florulent
 fabula
@@ -6153,6 +6152,7 @@ flisked
 flowcharts
 flutey
 flowcontrol
+formalise
 flowe
 flowed
 flower
