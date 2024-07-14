@@ -10111,7 +10111,6 @@ blackened
 blackener
 brindisi
 blackeners
-barless
 blackening
 blackens
 blacker
@@ -10961,6 +10960,7 @@ bloat
 bloated
 botling
 bobsledder
+barless
 bloats
 boatel
 beehouse
