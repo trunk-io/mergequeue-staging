@@ -11600,7 +11600,6 @@ boatels
 boater
 brunonian
 boatfalls
-boatful
 boathead
 boathook
 boathouses
@@ -16902,6 +16901,7 @@ buildups
 baret
 builtin
 buyout
+boatful
 buyouts
 buirdly
 bombards
