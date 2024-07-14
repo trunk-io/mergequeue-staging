@@ -5533,7 +5533,6 @@ beknighted
 bps
 beknighting
 beknived
-bostal
 ballistite
 beknotted
 beknottedly
@@ -8087,6 +8086,7 @@ bicorporal
 backlighting
 botaniser
 beanbag
+bostal
 bicorporeal
 bicrenate
 bicrofarad
