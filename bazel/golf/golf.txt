@@ -711,7 +711,6 @@ genae
 gallopade
 galloped
 goalposts
-grottolike
 galloper
 galloperdix
 grocers
@@ -3473,6 +3472,7 @@ gymnophobia
 germigenous
 germin
 germinable
+grottolike
 gogo
 guanidine
 gauds
