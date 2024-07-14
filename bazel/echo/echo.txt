@@ -1757,7 +1757,6 @@ eyebrows
 eyednesses
 eyedot
 extusion
-elanus
 epicureanism
 experimentally
 eyedropper
@@ -8746,6 +8745,7 @@ equiseta
 encharm
 equisetaceae
 episode
+elanus
 equisetales
 equisetic
 echinital
