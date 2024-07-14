@@ -5811,7 +5811,6 @@ depopulators
 deport
 dashwheel
 deportability
-deportation
 deporte
 deported
 deportee
@@ -13202,6 +13201,7 @@ disclaimer
 disponge
 dispopularize
 dysporomorph
+deportation
 disporous
 delian
 disporting
