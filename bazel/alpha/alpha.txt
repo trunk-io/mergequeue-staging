@@ -3275,6 +3275,7 @@ activize
 activized
 activizing
 actless
+animable
 anchisaurus
 actor
 actory
@@ -8150,7 +8151,6 @@ algebraically
 addled
 algebraist
 algebraists
-animable
 apery
 abalone
 algebraized
