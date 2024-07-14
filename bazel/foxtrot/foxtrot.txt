@@ -1193,6 +1193,7 @@ fasciolariidae
 fasciole
 fenite
 freely
+formalizer
 fakirism
 fascioliasis
 fascism
@@ -8353,7 +8354,6 @@ formalith
 formalities
 formalizations
 formalize
-formalizer
 felliducous
 formalizes
 fluoridize
