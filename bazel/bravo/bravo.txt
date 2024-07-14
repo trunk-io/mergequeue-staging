@@ -7317,7 +7317,6 @@ betangle
 betanglement
 balisier
 barotaxy
-betask
 betatron
 betatrons
 betattered
@@ -14027,6 +14026,7 @@ beamage
 brachiopode
 benamee
 bathetic
+betask
 brachiopodist
 brachiopodous
 brachioradialis
