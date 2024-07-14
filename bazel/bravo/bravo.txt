@@ -842,7 +842,6 @@ bilipyrrhin
 badmen
 badmouth
 badmouthing
-badmouths
 badness
 badon
 bads
@@ -5820,6 +5819,7 @@ belloot
 bellota
 bellote
 bellovaci
+badmouths
 boxcar
 bellow
 bellowers
