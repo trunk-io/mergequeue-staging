@@ -5248,7 +5248,6 @@ aesture
 aestus
 aet
 artillery
-aethalia
 aethalioid
 abstriction
 aetheling
@@ -16504,6 +16503,7 @@ antlia
 antliate
 antlid
 antling
+aethalia
 antlion
 antlions
 antlophobia
