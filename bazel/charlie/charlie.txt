@@ -941,7 +941,6 @@ calamopitys
 calamospermae
 calamostachys
 calamumi
-calamus
 calander
 calando
 calandra
@@ -4060,6 +4059,7 @@ cardiorrheuma
 cardiorrhexis
 cardioschisis
 cardiosclerosis
+calamus
 cardioscope
 cardiosymphysis
 cardiospasm

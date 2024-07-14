@@ -2986,7 +2986,6 @@ broguing
 barrelhouse
 barrelhouses
 barreling
-beslash
 barrelled
 barrelling
 bellyfuls
@@ -15259,6 +15258,7 @@ briefly
 bonbon
 bogier
 birky
+beslash
 besiclometer
 bleeds
 brier
