@@ -5051,7 +5051,6 @@ butcherous
 befanned
 baalath
 baluchistan
-befathered
 befavour
 befeather
 befell
@@ -17364,6 +17363,7 @@ bundler
 bona
 bundlers
 bundles
+befathered
 bundlet
 ballons
 benefaction
