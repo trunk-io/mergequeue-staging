@@ -3675,7 +3675,6 @@ elevenses
 endoscope
 escortage
 englishly
-embryologically
 embryomas
 embryomata
 embryon
@@ -11982,6 +11981,7 @@ encapsulated
 excerebration
 excern
 excerp
+embryologically
 excerpta
 excerpted
 ectosarcous
