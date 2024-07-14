@@ -173,6 +173,7 @@ factive
 fleshling
 fecks
 factor
+firbolg
 friths
 factorable
 fruitcakey
@@ -4057,7 +4058,6 @@ fique
 fiques
 fir
 fadeless
-firbolg
 frimaire
 firca
 fyrd
