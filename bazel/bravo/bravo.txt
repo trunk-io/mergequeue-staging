@@ -3516,7 +3516,6 @@ bitstalk
 bezazzes
 batarde
 batata
-boodle
 batatas
 babiana
 batatilla
@@ -17092,6 +17091,7 @@ bullets
 bulletwood
 bullfice
 bullfight
+boodle
 byssiferous
 bullfighting
 bullfinches
