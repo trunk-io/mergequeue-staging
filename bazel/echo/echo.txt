@@ -2414,6 +2414,7 @@ electroforming
 electrofuse
 electrofusion
 electrogalvanic
+encomy
 electrogenesis
 electrogenic
 electrogild
@@ -4803,7 +4804,6 @@ ee
 encolumn
 encolure
 encomendero
-encomy
 encomiast
 epicondylitis
 encomiastic
