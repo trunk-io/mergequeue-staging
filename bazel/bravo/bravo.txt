@@ -700,7 +700,6 @@ botchier
 biotypes
 bacterioblast
 bacteriochlorophyll
-brachistocephalic
 bacteriocidal
 bacteriocyte
 bacteriofluorescin
@@ -11332,6 +11331,7 @@ bluebooks
 bluebottles
 bluebush
 bluebutton
+brachistocephalic
 bluecap
 bulak
 bluecaps
