@@ -2755,6 +2755,7 @@ formwork
 floats
 feticides
 fetid
+flit
 fetidity
 filamentule
 flauntingly
@@ -5678,7 +5679,6 @@ feastless
 flyswat
 formulization
 flyswatter
-flit
 flitch
 flitched
 flitchen
