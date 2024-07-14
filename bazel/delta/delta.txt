@@ -3415,6 +3415,7 @@ defluxion
 defoaming
 defoams
 defocusses
+determinator
 defoedation
 defog
 disyllable
@@ -7261,7 +7262,6 @@ determinating
 determination
 determinations
 determinative
-determinator
 determined
 daresay
 drearly
