@@ -4763,7 +4763,6 @@ flagons
 fasciolaria
 fiord
 fleadock
-flagpole
 flagrance
 fulminurate
 flagrantly
@@ -6702,6 +6701,7 @@ frankable
 foetalization
 foetation
 foetiparous
+flagpole
 foppishly
 foetus
 foetuses
