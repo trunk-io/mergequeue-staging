@@ -4671,7 +4671,6 @@ adverbs
 adversa
 adversary
 atwain
-adversaria
 adversarial
 adversaries
 adversariness
@@ -18126,6 +18125,7 @@ apter
 affing
 aptera
 apteral
+adversaria
 aleukemic
 autoelectrolytic
 alveolonasal
