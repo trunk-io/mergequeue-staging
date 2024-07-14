@@ -9422,7 +9422,6 @@ divulsion
 diffuseness
 demisacrilege
 diffuser
-diffuses
 diffusibility
 defier
 dreigh
@@ -18373,6 +18372,7 @@ duplicated
 detassel
 duplicates
 duplicating
+diffuses
 duplication
 duplications
 duplicative

@@ -7721,7 +7721,6 @@ ceriomyces
 cowfishes
 cerionidae
 ceriops
-ceriornis
 ceriphs
 cerise
 charivaris
@@ -23047,6 +23046,7 @@ camels
 consomme
 consommes
 consonance
+ceriornis
 consonances
 consonancy
 consonant
