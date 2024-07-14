@@ -368,7 +368,6 @@ faintly
 faintness
 flair
 faints
-fair
 fairbanks
 flunkeyize
 farmhousey
@@ -5978,6 +5977,7 @@ floretty
 flory
 floria
 floriage
+fair
 floriate
 falconidae
 florican
