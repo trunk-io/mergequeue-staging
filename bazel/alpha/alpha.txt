@@ -5194,7 +5194,6 @@ atrabilar
 aerotonometric
 aerotropic
 aerotropism
-aeruginous
 aerugo
 aerugos
 aes
@@ -13913,6 +13912,7 @@ anonym
 anonyma
 anonyme
 anonymity
+aeruginous
 anonymously
 anonymousness
 alkedavy
