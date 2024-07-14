@@ -2356,6 +2356,7 @@ fremescent
 ferganite
 fergus
 female
+ferrichloride
 ferguson
 fergusonite
 feria
@@ -2809,7 +2810,6 @@ fetus
 fusariose
 fogproof
 fetuses
-ferrichloride
 feucht
 feudal
 feudalisation

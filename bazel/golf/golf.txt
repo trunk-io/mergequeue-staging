@@ -4870,7 +4870,6 @@ girandola
 grandpapa
 gnawers
 giron
-gyron
 glycose
 girondism
 geoparallelotropic
@@ -9466,6 +9465,7 @@ garde
 gorging
 groundwave
 genderer
+gyron
 groupable
 guaranteeing
 grayhound
