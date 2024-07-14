@@ -15807,6 +15807,7 @@ dorsalgia
 dorsalis
 duodecimomos
 dulse
+drawpoint
 dorsally
 dianoetic
 dorsalmost
@@ -16856,7 +16857,6 @@ dermatoplasm
 drawnness
 drawoff
 drawout
-drawpoint
 dusks
 drawrod
 drawshave
