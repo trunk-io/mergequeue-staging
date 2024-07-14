@@ -4472,7 +4472,6 @@ fistinut
 frictionlessly
 fistle
 fistmele
-fistnote
 forecounsel
 fistnotes
 fishhold
@@ -5631,6 +5630,7 @@ flype
 foredeep
 formidableness
 fconv
+fistnote
 filths
 fribbler
 first

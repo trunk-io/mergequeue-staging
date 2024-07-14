@@ -1598,7 +1598,6 @@ egyptologist
 egis
 excruciation
 eglamore
-eglandular
 eglandulose
 eglantine
 eglantines
@@ -9756,6 +9755,7 @@ emcees
 esp
 espacement
 espadrille
+eglandular
 espadrilles
 espagnole
 espagnolette
