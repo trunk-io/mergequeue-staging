@@ -2095,7 +2095,6 @@ campions
 cojudices
 calcspar
 convoking
-campit
 conclusively
 calcaneus
 chaetopoda
@@ -19473,6 +19472,7 @@ coloristic
 comburgess
 coloristically
 colorists
+campit
 covariance
 colorization
 colorize
