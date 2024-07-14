@@ -3512,6 +3512,7 @@ embole
 electrorefine
 embolectomy
 embolectomies
+ersar
 emboli
 embolic
 emboliform
@@ -5342,7 +5343,6 @@ exocentric
 endosporous
 endosporously
 endoss
-ersar
 epigean
 endosteal
 estrangement
