@@ -5189,7 +5189,6 @@ endogastrically
 endogastritis
 endogen
 endogenicity
-endogenies
 endogenously
 effodientia
 endogens
@@ -7345,6 +7344,7 @@ engird
 epacridaceae
 epacris
 epact
+endogenies
 epactal
 epaenetic
 epagogic
