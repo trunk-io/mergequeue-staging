@@ -2393,7 +2393,6 @@ decimosexto
 decimus
 disquietedness
 decine
-decyne
 decinormal
 decipher
 decipherability
@@ -10939,6 +10938,7 @@ disaccordance
 disaccordant
 decaedron
 disaccredit
+decyne
 diswarren
 disaccustomedness
 disacidify
