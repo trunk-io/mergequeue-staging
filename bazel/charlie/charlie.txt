@@ -17471,6 +17471,7 @@ cobbier
 cobbiest
 cobbin
 cobbing
+consumptivity
 cobble
 cobbled
 cobblerfish
@@ -31660,7 +31661,6 @@ cushioning
 cushionless
 cannibalistic
 cushions
-consumptivity
 cushite
 cushitic
 cusie

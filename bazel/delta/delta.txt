@@ -9513,7 +9513,6 @@ demiurge
 dights
 digynian
 digit
-digital
 digitalic
 digitalin
 desiccates
@@ -11706,6 +11705,7 @@ discourseless
 discoursers
 discourses
 discoursing
+digital
 discoursiveness
 daydreamed
 discourteous
