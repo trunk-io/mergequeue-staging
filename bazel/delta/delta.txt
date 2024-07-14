@@ -4992,7 +4992,6 @@ denationalise
 denationalised
 denationalising
 denationalization
-denationalize
 denationalized
 disponent
 denaturalised
@@ -10014,6 +10013,7 @@ dimorphous
 dimorphs
 dimout
 dimouts
+denationalize
 dimple
 dimplement
 dimples
