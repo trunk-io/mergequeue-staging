@@ -1747,7 +1747,6 @@ eyeballing
 eyebalm
 epimeron
 explains
-eyebeams
 eyeberry
 eyeblack
 eyebree
@@ -11310,6 +11309,7 @@ evaluation
 evaluations
 enormous
 evaluative
+eyebeams
 entailer
 electrocardiography
 endothelia
