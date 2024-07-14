@@ -8088,7 +8088,6 @@ alkoxid
 alferes
 alfet
 aluminiferous
-alfilaria
 antholysis
 alcoholometer
 alfilerilla
@@ -20147,6 +20146,7 @@ arose
 around
 ataxic
 arousal
+alfilaria
 arousals
 arouse
 akrochordite
