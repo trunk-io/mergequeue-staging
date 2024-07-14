@@ -6872,7 +6872,6 @@ desorption
 desoxalic
 desoxyanisoin
 debars
-desoxybenzoin
 desoxycinchonine
 duendes
 dhoolies
@@ -18679,5 +18678,6 @@ diglyphic
 dziggetai
 donatary
 dzo
+desoxybenzoin
 dinucleotide
 dzungar
