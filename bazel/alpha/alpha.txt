@@ -5445,7 +5445,6 @@ afflict
 algesireceptor
 afflicter
 afflicting
-afflictingly
 afflictions
 afflictively
 avadavats
@@ -11640,6 +11639,7 @@ anaclinal
 anaclisis
 anaclitic
 anacoenoses
+afflictingly
 actinoida
 anacoenosis
 anacolutha
