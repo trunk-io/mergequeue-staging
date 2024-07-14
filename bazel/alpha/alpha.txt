@@ -565,7 +565,6 @@ apostrophus
 anatomopathological
 atweel
 atypical
-ablatively
 ablator
 ablaut
 ablaze
@@ -24170,6 +24169,7 @@ autokinesis
 autokrator
 autolaryngoscope
 athar
+ablatively
 autolaryngoscopy
 autolaryngoscopic
 anisylidene
