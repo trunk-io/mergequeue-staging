@@ -7446,7 +7446,6 @@ ceramic
 coilers
 ceramicists
 ceramics
-ceramidium
 ceramist
 capitasti
 ceramists
@@ -9109,6 +9108,7 @@ charlesworth
 cassabanana
 charlet
 charlies
+ceramidium
 charlock
 charlocks
 charlottesville
