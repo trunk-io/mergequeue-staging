@@ -1409,7 +1409,6 @@ baldling
 baldmoney
 baldnesses
 baldoquin
-baldpate
 baldpated
 baldpatedness
 baldpates
@@ -16537,6 +16536,7 @@ ballyhack
 bucephalus
 briquet
 blacking
+baldpate
 blastman
 buceros
 bucerotidae
