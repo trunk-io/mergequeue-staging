@@ -5764,7 +5764,6 @@ depolarise
 depolariser
 darksome
 depolarising
-depolarization
 desulphurizer
 damasks
 depolarize
@@ -13761,6 +13760,7 @@ disvertebrate
 deathliness
 dissuade
 dispersion
+depolarization
 dissuades
 desilverize
 dictyonine
