@@ -1784,7 +1784,6 @@ gastrogastrotomy
 gastrogenic
 gourmandism
 goldurned
-gastrograph
 gastrohepatic
 gastrohepatitis
 gastrohyperneuria
@@ -3463,6 +3462,7 @@ guardstone
 germanophobia
 germanophobic
 germanophobist
+gastrograph
 giliak
 grumblingly
 grids
