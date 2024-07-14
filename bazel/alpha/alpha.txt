@@ -197,7 +197,6 @@ abbasside
 abbatical
 abbatie
 abbe
-abbey
 abbeys
 azophen
 abbeystead
@@ -10401,6 +10400,7 @@ american
 arrayed
 americanese
 anthologizes
+abbey
 americanitis
 americanize
 americanized
