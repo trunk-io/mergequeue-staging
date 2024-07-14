@@ -1094,6 +1094,7 @@ bailies
 ballweed
 bank
 bailieship
+bulkily
 bailiff
 bailiffs
 bailiffship
@@ -17013,7 +17014,6 @@ bauchle
 bulky
 bulkier
 bulkiest
-bulkily
 bulkin
 bulkiness
 brickset
