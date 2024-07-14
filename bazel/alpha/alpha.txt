@@ -4931,6 +4931,7 @@ anapaest
 aequorin
 aequorins
 alimentiveness
+aloesol
 aer
 aerage
 alborak
@@ -9303,7 +9304,6 @@ aloemodin
 alar
 aloeroot
 aloes
-aloesol
 aloeswood
 aloetic
 aloetical
