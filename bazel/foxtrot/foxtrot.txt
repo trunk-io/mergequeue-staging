@@ -227,7 +227,6 @@ fad
 fadaise
 fragrant
 faddy
-faddiness
 fadding
 faddish
 fungin
@@ -10377,6 +10376,7 @@ frontenis
 fronter
 frontier
 fronds
+faddiness
 frontierless
 fictor
 fantasie
