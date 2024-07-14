@@ -5043,6 +5043,7 @@ flugelhorn
 flasklet
 foreshoe
 flasque
+forenotice
 flat
 fulfullment
 faciobrachial
@@ -6686,7 +6687,6 @@ foeffment
 foehn
 foehnlike
 foeless
-forenotice
 foeman
 filial
 foretypified
