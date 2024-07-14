@@ -8376,6 +8376,7 @@ formates
 formations
 formativeness
 fibrofatty
+fretted
 flingdust
 formats
 fogbows
@@ -9889,7 +9890,6 @@ frett
 faultiness
 frettation
 frette
-fretted
 formularism
 fretten
 fretters
