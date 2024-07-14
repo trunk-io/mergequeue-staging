@@ -8375,7 +8375,6 @@ bight
 brigued
 bighted
 bighting
-biglenoid
 belabouring
 bigmouths
 blacktongue
@@ -8903,6 +8902,7 @@ bioactivities
 bioassay
 bearbine
 bioassayed
+biglenoid
 bioassaying
 bioassays
 bioastronautical
