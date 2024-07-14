@@ -1096,7 +1096,6 @@ faros
 filmgoer
 flighted
 farragos
-farcie
 farrand
 flyaways
 fractureproof
@@ -11514,6 +11513,7 @@ flutings
 furthering
 forehammer
 furthermore
+farcie
 forgetting
 furthers
 furtive
