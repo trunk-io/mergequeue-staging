@@ -5354,7 +5354,6 @@ glean
 gleanable
 gleaned
 glare
-gymnolaematous
 gleaner
 gleaning
 gigartina
@@ -9951,6 +9950,7 @@ gonogenesis
 guards
 guardsman
 guarea
+gymnolaematous
 guarico
 garancine
 guarish
