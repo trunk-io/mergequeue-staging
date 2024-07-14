@@ -8030,7 +8030,6 @@ expedientist
 epiparasite
 epiphytical
 epipastic
-epipelagic
 epiphany
 endable
 epiphanic
@@ -11349,6 +11348,7 @@ evangelisation
 evangelise
 electrifier
 ensnared
+epipelagic
 evangelist
 evangelistaries
 eunuchoidism
