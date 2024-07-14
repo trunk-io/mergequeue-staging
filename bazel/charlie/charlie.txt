@@ -3336,7 +3336,6 @@ caririan
 capstan
 capstans
 couplets
-capstone
 capstones
 capsula
 cholangiographic
@@ -18425,6 +18424,7 @@ cognoscent
 cognoscente
 cognoscenti
 cognoscibility
+capstone
 counterengine
 cognoscing
 cognoscitive
