@@ -2558,6 +2558,7 @@ gemse
 gemuetlich
 gemuti
 gemutlich
+gelechiid
 gripple
 galtonia
 gemutlichkeit
@@ -3685,7 +3686,6 @@ gesture
 gotchy
 gratinated
 gesturer
-gelechiid
 grimmiaceae
 gesturers
 gesturing
