@@ -6886,7 +6886,6 @@ bosniak
 beseech
 beseecher
 beseeching
-beseechingness
 beseechment
 beseek
 beseem
@@ -12530,6 +12529,7 @@ boogeyman
 bonitas
 besluit
 bonito
+beseechingness
 bonitoes
 bouge
 bronchial
