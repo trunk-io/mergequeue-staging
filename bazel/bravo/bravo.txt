@@ -1919,6 +1919,7 @@ bandcutter
 bande
 britishers
 banded
+bulldozing
 bandel
 bandelet
 bandelette
@@ -17037,7 +17038,6 @@ bullary
 bullaries
 bullarium
 bullate
-bulldozing
 bullated
 bullation
 botfly
