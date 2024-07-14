@@ -1479,7 +1479,6 @@ garnison
 garniture
 garon
 garoo
-garoter
 garotes
 garotte
 geogenesis
@@ -7155,6 +7154,7 @@ gooseweed
 goosewing
 goosier
 gurgles
+garoter
 goosiest
 gunny
 gootee
