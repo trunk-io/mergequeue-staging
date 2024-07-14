@@ -2148,7 +2148,6 @@ fastidiously
 felspars
 felspath
 friezy
-fraze
 felstone
 felstones
 flirters
@@ -5186,6 +5185,7 @@ flavorer
 flavorful
 flavorfulness
 flavory
+fraze
 flavoriness
 farrow
 forsworn
