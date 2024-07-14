@@ -4980,7 +4980,6 @@ gammexane
 glaciologic
 guianan
 given
-givens
 guarabu
 givers
 glutaminic
@@ -8124,6 +8123,7 @@ granulators
 granules
 granulet
 granulitis
+givens
 gossan
 granulitize
 granulization
