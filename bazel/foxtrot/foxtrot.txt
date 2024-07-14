@@ -10086,7 +10086,6 @@ fringelet
 fringelike
 fringent
 fringepod
-fringetail
 fringier
 fringiest
 forworn
@@ -11444,6 +11443,7 @@ fascines
 foregather
 finitudes
 frondesced
+fringetail
 furnished
 furnishes
 functionated
