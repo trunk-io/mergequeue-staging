@@ -1985,7 +1985,6 @@ feigner
 feigners
 font
 fibrilliferous
-farmost
 feigning
 feigningly
 feijoa
@@ -2181,6 +2180,7 @@ femic
 feminal
 foreffelt
 feminate
+farmost
 forgie
 feminie
 feminility
