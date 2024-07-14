@@ -741,7 +741,6 @@ dandelion
 dandelions
 dander
 dandered
-dingthrift
 dandering
 danders
 dandy
@@ -9081,6 +9080,7 @@ dictic
 dictynid
 dictynidae
 dictyoceratine
+dingthrift
 dictyodromous
 dictyogen
 delumbate
