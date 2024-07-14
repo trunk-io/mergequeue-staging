@@ -1472,7 +1472,6 @@ cenotaphic
 callisto
 callithrix
 callithump
-callithumpian
 callityped
 callityping
 callitrichaceae
@@ -30837,6 +30836,7 @@ cultivations
 cultivative
 cultivator
 cultivators
+callithumpian
 cultive
 clavel
 clubrooms
