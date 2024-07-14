@@ -2383,6 +2383,7 @@ dandiacal
 decime
 decimestrial
 decimeter
+drupelets
 daggly
 decimeters
 daybreaks
@@ -17635,7 +17636,6 @@ dotardy
 drupel
 dimness
 drupelet
-drupelets
 drupeole
 drupes
 drupetum
