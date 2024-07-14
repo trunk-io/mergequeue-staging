@@ -10287,7 +10287,6 @@ chez
 chg
 chhatri
 chi
-chia
 chiack
 chyack
 chiam
@@ -25736,6 +25735,7 @@ cusconin
 correo
 correption
 camelopardus
+chia
 circumrotating
 casuarinaceae
 correspond
