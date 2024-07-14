@@ -1466,7 +1466,6 @@ baling
 balinghasay
 bodeful
 balisaurs
-balistarius
 balister
 balistes
 balistid
@@ -18280,6 +18279,7 @@ bearbush
 bergamo
 barnier
 butterweed
+balistarius
 boldest
 butterwife
 bloodletting
