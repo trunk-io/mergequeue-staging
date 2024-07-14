@@ -1741,7 +1741,6 @@ accordion
 accordionist
 abrased
 accordionists
-accordions
 acclamations
 accords
 axilemmata
@@ -22507,6 +22506,7 @@ atelic
 aias
 atelier
 assumptively
+accordions
 arteriorrhexis
 ascaridol
 ateliosis
