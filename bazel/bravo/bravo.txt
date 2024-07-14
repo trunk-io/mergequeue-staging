@@ -3486,6 +3486,7 @@ bastinades
 baroi
 bastinading
 burbots
+buttonholed
 bastinado
 bastinadoed
 bastinadoes
@@ -18316,7 +18317,6 @@ buttoner
 buttoners
 buttonhold
 bumf
-buttonholed
 buttonholer
 berried
 buttonholes
