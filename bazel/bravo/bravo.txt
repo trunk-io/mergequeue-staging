@@ -5848,7 +5848,6 @@ bellweed
 bellwether
 bellwethers
 bellwind
-bellwine
 bellwood
 befret
 belock
@@ -16107,6 +16106,7 @@ brose
 bloodhound
 bitesheep
 barthian
+bellwine
 brotany
 brotel
 broth

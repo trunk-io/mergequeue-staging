@@ -2665,7 +2665,6 @@ expressible
 electrotypy
 electrotyping
 electrotypist
-electrotitration
 etherean
 electrotonicity
 electrotropism
@@ -4104,6 +4103,7 @@ esthesises
 emphatically
 emblematise
 emphaticalness
+electrotitration
 eloquent
 emphemeralness
 entophyte
