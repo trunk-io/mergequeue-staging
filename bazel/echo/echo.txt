@@ -847,7 +847,6 @@ enamors
 enclose
 ecthymata
 emmies
-ecthymatous
 ecthlipses
 ectype
 ectypes
@@ -12882,6 +12881,7 @@ exsomatic
 expandedness
 emblossom
 expanders
+ecthymatous
 expandingly
 enchannel
 explosible
