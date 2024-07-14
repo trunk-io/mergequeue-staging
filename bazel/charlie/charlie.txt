@@ -276,7 +276,6 @@ caci
 cacicus
 caneva
 cacidrosis
-cacimbo
 cacimbos
 caciocavallo
 cacique
@@ -3027,6 +3026,7 @@ capering
 caperingly
 choosers
 capernaite
+cacimbo
 columnarity
 capuchin
 capernaitic
