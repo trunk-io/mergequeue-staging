@@ -863,6 +863,7 @@ danta
 dungol
 dante
 dantean
+duplation
 dantesque
 danthonia
 dantist
@@ -15765,7 +15766,6 @@ description
 dormy
 dunlap
 dormice
-duplation
 dogvane
 dormie
 daneflower
