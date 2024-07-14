@@ -718,7 +718,6 @@ bacteriolyze
 bacteriology
 bacteriologic
 bedlids
-bacteriologically
 bacteriologies
 bacteriologist
 bacteriophages
@@ -2318,6 +2317,7 @@ barbara
 barbaralalia
 barbarea
 barbaresque
+bacteriologically
 baculiferous
 bouncers
 barbarianize
