@@ -12055,7 +12055,6 @@ excitomotor
 excitomotory
 exciton
 excitonic
-eclosion
 excitons
 excitonutrient
 excitory
@@ -12775,6 +12774,7 @@ exorcisation
 exorcise
 exorcised
 euthanatize
+eclosion
 endoplasm
 exorcisers
 epithelization
