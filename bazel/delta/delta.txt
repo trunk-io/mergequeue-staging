@@ -3422,7 +3422,6 @@ defogger
 defoggers
 defogging
 defogs
-defoil
 dawish
 defoliage
 defoliant
@@ -15756,6 +15755,7 @@ dorlach
 dorm
 doctrinalist
 dormant
+defoil
 dormer
 dormered
 dormers
