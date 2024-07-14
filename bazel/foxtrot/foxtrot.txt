@@ -4314,7 +4314,6 @@ formful
 fusses
 fishbolts
 faultless
-fishbone
 fishbowl
 fisheye
 fisherboat
@@ -7685,6 +7684,7 @@ foreyard
 foreyear
 forward
 fibres
+fishbone
 furuncle
 frontignac
 floodlights
