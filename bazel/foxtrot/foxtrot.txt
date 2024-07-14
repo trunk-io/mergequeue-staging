@@ -4965,7 +4965,6 @@ framableness
 flapperism
 fruticulture
 flappers
-flappy
 fordone
 fellator
 flare
@@ -11610,6 +11609,7 @@ fretting
 fussbudgety
 fussbudgets
 farcers
+flappy
 fussed
 farforthly
 fusser
