@@ -20933,7 +20933,6 @@ cleanout
 cyclonology
 comprehendingly
 comprehense
-comprehensibility
 comprehensibleness
 comprehensibly
 comprehensive
@@ -24344,6 +24343,7 @@ cookies
 cookings
 cookish
 cookishly
+comprehensibility
 countermands
 cookmaid
 cookout
