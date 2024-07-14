@@ -4523,7 +4523,6 @@ becrowded
 becrowding
 becrowds
 becrust
-bayou
 blatherskite
 blackfishes
 becrusted
@@ -7653,6 +7652,7 @@ bezel
 baritone
 bezetta
 brook
+bayou
 bezette
 bezil
 bivoltine
