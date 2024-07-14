@@ -1879,7 +1879,6 @@ debridement
 debriding
 debrief
 debriefing
-debriefings
 debris
 debromination
 debruise
@@ -8215,6 +8214,7 @@ dyads
 diadumenus
 diaereses
 diaeresis
+debriefings
 diaeretic
 diaetetae
 diag
