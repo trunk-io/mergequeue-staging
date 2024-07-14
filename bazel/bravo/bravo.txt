@@ -1973,7 +1973,6 @@ bandle
 bandleader
 bandless
 booked
-bejabers
 bandlessly
 bandlessness
 bandlet
@@ -5523,6 +5522,7 @@ bekinkinite
 belder
 bekiss
 bekissed
+bejabers
 bekisses
 bekissing
 belfather
