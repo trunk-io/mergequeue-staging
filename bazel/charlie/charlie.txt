@@ -7417,6 +7417,7 @@ cephalotomy
 contrate
 cephalotractor
 condemn
+checkstrap
 cephalotribe
 cephalotrocha
 cephalotus
@@ -9615,7 +9616,6 @@ checkrower
 castoridae
 checkrowing
 checks
-checkstrap
 cyrtosis
 checkstring
 checksum
