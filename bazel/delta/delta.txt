@@ -1310,6 +1310,7 @@ daughter
 detonators
 daughterhood
 daughterkin
+dialoguer
 daughterless
 daughterly
 daughterlike
@@ -8314,7 +8315,6 @@ dialycarpous
 dialiness
 dialing
 descensional
-dialoguer
 deadpanner
 dialings
 dorking
