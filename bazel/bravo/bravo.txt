@@ -5838,6 +5838,7 @@ botchers
 bells
 becowarded
 belltopper
+bephrase
 belluine
 becobweb
 bellwaver
@@ -16583,7 +16584,6 @@ bucketmaking
 beneficence
 buckets
 basilisk
-bephrase
 bucketsful
 bucketshop
 buckhounds
