@@ -1471,7 +1471,6 @@ effusely
 effuses
 effusiometer
 espiegle
-effusions
 effusively
 eplot
 effuso
@@ -10663,6 +10662,7 @@ eucarpic
 enweb
 earlier
 eucarpous
+effusions
 eucatropine
 earmarks
 eucgia
