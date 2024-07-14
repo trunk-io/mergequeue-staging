@@ -2266,7 +2266,6 @@ funereality
 flection
 fencibles
 felahin
-fend
 fendable
 following
 fendering
@@ -7141,6 +7140,7 @@ footier
 footings
 fusus
 forechase
+fend
 footled
 footlers
 footles
