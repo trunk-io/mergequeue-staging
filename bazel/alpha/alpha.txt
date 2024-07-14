@@ -8286,7 +8286,6 @@ alichel
 alichino
 ablactate
 alicia
-alicyclic
 alick
 alicoche
 alycompaine
@@ -17507,6 +17506,7 @@ apotactic
 arc
 alarmisms
 apotactici
+alicyclic
 araca
 apotactite
 apotelesmatic
