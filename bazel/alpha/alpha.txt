@@ -5476,7 +5476,6 @@ asteism
 affords
 afforest
 afridi
-afforestation
 afforestational
 afforested
 afforesting
@@ -25198,6 +25197,7 @@ azedarac
 azedarach
 azelate
 azelfafage
+afforestation
 ambaris
 azeotrope
 azeotropy
