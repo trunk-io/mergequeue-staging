@@ -1008,7 +1008,6 @@ floorway
 funicule
 farfetched
 farfugium
-fargite
 fill
 fargood
 farhand
@@ -2538,6 +2537,7 @@ ferrocyanate
 fontes
 ferrocyanhydric
 ferroelectric
+fargite
 flukeless
 flyblows
 ferroglass
