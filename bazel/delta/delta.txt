@@ -1983,6 +1983,7 @@ decahedral
 decahedrodra
 decahedrons
 dekalitre
+dissimilatory
 decay
 decayed
 dispread
@@ -17645,7 +17646,6 @@ disenroll
 druse
 drusean
 drusedom
-dissimilatory
 diaplasma
 demibuckram
 duteousness
