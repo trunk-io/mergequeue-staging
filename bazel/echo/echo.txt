@@ -3320,6 +3320,7 @@ embalmed
 embalmer
 embalmment
 embank
+endochorionic
 embanked
 eozoon
 embanking
@@ -5104,7 +5105,6 @@ endoceratitic
 endocervical
 endocervicitis
 endochylous
-endochorionic
 endocycle
 endocyclic
 endocyemate
