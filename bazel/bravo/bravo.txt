@@ -3220,7 +3220,6 @@ bashlyk
 bargainers
 bashlyks
 bashment
-bullfist
 basial
 befoulment
 basialveolar
@@ -14622,6 +14621,7 @@ brassier
 brassiere
 brassieres
 brassiest
+bullfist
 baboen
 brassily
 bisti
