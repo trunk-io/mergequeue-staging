@@ -1312,7 +1312,6 @@ daughterless
 daughterly
 daughterlike
 daughterliness
-daughters
 daughtership
 dhundia
 dauk
@@ -12985,6 +12984,7 @@ dispellable
 dispelled
 dekagrams
 dorsimedian
+daughters
 dispells
 dispend
 diagraming
