@@ -4171,6 +4171,7 @@ fireplug
 faradizer
 fireproofed
 fireproofing
+foiler
 fluctuosity
 fireproofness
 fireroom
@@ -8276,7 +8277,6 @@ forjudged
 fluxmeter
 fileable
 frey
-foiler
 fumeroot
 fork
 forkable
