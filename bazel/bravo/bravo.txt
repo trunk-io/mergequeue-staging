@@ -6438,7 +6438,6 @@ benzoperoxide
 benzophenazine
 buffos
 benzophenone
-benzophenothiazine
 baysmelts
 benzophenoxazine
 benzophloroglucinol
@@ -15558,6 +15557,7 @@ britskas
 britt
 brittlebush
 brittled
+benzophenothiazine
 benefactrices
 brittlely
 brittleness
