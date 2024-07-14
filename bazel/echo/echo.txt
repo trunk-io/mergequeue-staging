@@ -855,7 +855,6 @@ ectoblastic
 ectobronchium
 ectocardia
 ectocarpaceae
-erythrine
 ectocarpaceous
 ectocarpic
 ectocarpous
@@ -11719,6 +11718,7 @@ etherialism
 eweries
 eruditely
 ewes
+erythrine
 ewest
 ewound
 ewry

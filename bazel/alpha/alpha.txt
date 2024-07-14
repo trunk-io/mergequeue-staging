@@ -6101,6 +6101,7 @@ agglomerate
 agglomerated
 agglomerates
 agglomeratic
+amphogeny
 armada
 agglomerating
 agglomerator
@@ -11357,7 +11358,6 @@ amphodarch
 anthyllis
 amphodiplopia
 abyssolith
-amphogeny
 arete
 amphogenous
 ampholyte
