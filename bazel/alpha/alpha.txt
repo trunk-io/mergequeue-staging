@@ -1946,6 +1946,7 @@ athena
 acemila
 acerb
 acenaphthene
+airlines
 acenaphthenyl
 areopagus
 anomorhomboid
@@ -7025,7 +7026,6 @@ airline
 acidophilus
 airliner
 airliners
-airlines
 airlock
 airlocks
 airmailed
