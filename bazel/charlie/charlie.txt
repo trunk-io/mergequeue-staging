@@ -7945,6 +7945,7 @@ cest
 cesta
 cestas
 ceste
+coting
 cestidae
 chickweed
 cestode
@@ -26429,7 +26430,6 @@ cotylosacral
 cotylosaur
 cotylosauria
 cotylosaurian
-coting
 cotingid
 cotingidae
 cotinus
