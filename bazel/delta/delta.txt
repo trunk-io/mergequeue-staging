@@ -1465,7 +1465,6 @@ dcollet
 digested
 dcolletage
 dcor
-ddname
 ddt
 divine
 dea
@@ -5928,6 +5927,7 @@ depressibilities
 depressing
 depressingly
 dermatography
+ddname
 depressingness
 dacrydium
 depression
