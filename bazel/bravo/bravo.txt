@@ -411,6 +411,7 @@ brigs
 backhatch
 backhaul
 backhauls
+bailie
 bathythermogram
 bribegiver
 backheel
@@ -1086,7 +1087,6 @@ becky
 beauclerk
 backplate
 blindfoldly
-bailie
 bailiery
 bailieries
 brutalizes
