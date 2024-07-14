@@ -4643,7 +4643,6 @@ demises
 demisheath
 deflexion
 disambiguating
-demishirt
 demising
 decem
 demisolde
@@ -9606,6 +9605,7 @@ digredient
 digressed
 digresser
 digressing
+demishirt
 digressingly
 deerskins
 digression

@@ -884,7 +884,6 @@ ectoentad
 ectoenzym
 ensky
 ectogenesis
-ectogenetic
 ectogenic
 ectoglia
 empedoclean
@@ -11012,6 +11011,7 @@ euphonious
 euphoniously
 euphonise
 epizoism
+ectogenetic
 entrepot
 earthshattering
 epimyocardium
