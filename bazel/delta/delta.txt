@@ -7811,7 +7811,6 @@ devotions
 devoto
 devour
 dom
-devourable
 doctorfish
 divorced
 developmentist
@@ -16858,6 +16857,7 @@ dusks
 drawrod
 drawshave
 drawsheet
+devourable
 drawspan
 drawspring
 drawstop
