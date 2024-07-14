@@ -3178,7 +3178,6 @@ eluents
 excression
 enterological
 elusions
-elusive
 elusively
 elusiveness
 elizabeth
@@ -5676,6 +5675,7 @@ extravertish
 engenderer
 ecardinal
 emblazonment
+elusive
 engendering
 eucharists
 engendrure
