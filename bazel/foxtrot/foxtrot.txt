@@ -9406,7 +9406,6 @@ furazan
 facing
 fratercula
 fanes
-flagitious
 frantic
 frantically
 freeloading
@@ -11741,6 +11740,7 @@ fuzzed
 fuzzes
 fuzziest
 fluctuation
+flagitious
 fuzzily
 fuzzing
 fuzztail
