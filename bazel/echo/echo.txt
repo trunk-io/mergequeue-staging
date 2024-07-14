@@ -644,7 +644,6 @@ erectile
 echolalic
 ekka
 echoless
-echolocate
 endopleuritic
 echolocation
 echometer
@@ -2500,6 +2499,7 @@ ectoenzyme
 electromyography
 electromyographic
 electromyographical
+echolocate
 eunuchoid
 electromobile
 electromotive

@@ -2656,7 +2656,6 @@ baryphonic
 bucketer
 baris
 barysilite
-barysphere
 barit
 basoche
 baryta
@@ -16865,6 +16864,7 @@ buglosses
 bugology
 bugologist
 bugong
+barysphere
 bugout
 bastonet
 bugs
