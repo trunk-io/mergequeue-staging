@@ -7071,7 +7071,6 @@ endoscopist
 encallow
 entria
 entries
-entrike
 elaterite
 entryman
 entrymen
@@ -11637,6 +11636,7 @@ entomofauna
 enneatic
 eviscerates
 eviscerating
+entrike
 eluviate
 evisite
 evitable
