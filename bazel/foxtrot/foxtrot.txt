@@ -626,6 +626,7 @@ figeater
 fiard
 falsifies
 falsifying
+fatal
 fictility
 frape
 falsiteit
@@ -11063,7 +11064,6 @@ fadedness
 fud
 focimetry
 fun
-fatal
 funambulant
 funambulate
 ferninst
