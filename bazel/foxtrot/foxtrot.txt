@@ -2520,6 +2520,7 @@ fault
 ferriprussiate
 ferris
 fastball
+footlers
 forweep
 floorshow
 ferrites
@@ -7143,7 +7144,6 @@ footings
 fusus
 forechase
 footled
-footlers
 footles
 footless
 footlights
