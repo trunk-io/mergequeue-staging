@@ -8418,7 +8418,6 @@ diamagnet
 diamagnetic
 diamagnetically
 duskier
-diamagnetometer
 diamant
 dogtoothing
 diamante
@@ -17772,6 +17771,7 @@ duce
 dyings
 douanes
 disentangles
+diamagnetometer
 duces
 duchan
 duchery
