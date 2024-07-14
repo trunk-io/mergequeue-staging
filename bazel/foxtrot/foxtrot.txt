@@ -1685,6 +1685,7 @@ fumblers
 feaberry
 flighter
 fictation
+fretty
 feague
 foreflank
 fogmen
@@ -3168,7 +3169,6 @@ fidded
 ferroinclave
 fidding
 fiddleback
-fretty
 fiddlebow
 fiddlebrained
 fack
