@@ -4373,7 +4373,6 @@ enamelist
 equiped
 egocentristic
 enameller
-enamellers
 endent
 enamelless
 enamellist
@@ -11533,6 +11532,7 @@ epistemonic
 everly
 evermore
 evernia
+enamellers
 eloigned
 evernioid
 eversible
