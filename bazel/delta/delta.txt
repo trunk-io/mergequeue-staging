@@ -10749,7 +10749,6 @@ dipt
 dipter
 dipteraceae
 dipteraceous
-dipterad
 ditch
 dipteral
 dipterans
@@ -17397,6 +17396,7 @@ dropseed
 decoration
 dropsy
 dhyana
+dipterad
 dropsically
 dropsicalness
 dropsied
