@@ -11065,7 +11065,6 @@ chiropterous
 chiros
 chirospasm
 conditions
-chirotes
 chirothesia
 chirotype
 chirotony
@@ -29273,6 +29272,7 @@ covings
 crypto
 cryptoagnostic
 cryptoanalyst
+chirotes
 caldarium
 cryptoanalytic
 cryptoanalytically
