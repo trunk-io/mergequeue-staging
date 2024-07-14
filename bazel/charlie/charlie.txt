@@ -2962,7 +2962,6 @@ caoutchin
 caoutchouc
 crithomancy
 caoutchoucin
-cap
 capa
 capability
 capabilities
@@ -15212,6 +15211,7 @@ conferences
 ciwies
 cixiid
 cixiidae
+cap
 cixo
 cizar
 cize
