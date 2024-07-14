@@ -3070,7 +3070,6 @@ geodetics
 geodiatropism
 geodiferous
 geodynamic
-geodynamical
 gout
 geodynamics
 gelidium
@@ -5619,6 +5618,7 @@ glyptodontoid
 glyptography
 gadroons
 gonake
+geodynamical
 glyptographic
 glyptolith
 glyptology
