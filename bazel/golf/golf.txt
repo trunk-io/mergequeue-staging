@@ -2010,7 +2010,6 @@ giber
 gavelmen
 gaumed
 gaumlike
-gonapophysial
 gaums
 gaunt
 gaunter
@@ -9562,6 +9561,7 @@ growlier
 growliness
 gemses
 growling
+gonapophysial
 gargoyled
 growls
 grown
