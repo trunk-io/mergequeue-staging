@@ -17776,7 +17776,6 @@ cocrucify
 coct
 coctile
 coctoantigen
-coctoprecipitin
 cocuyo
 cocuisa
 cocuiza
@@ -24637,6 +24636,7 @@ copiosity
 copious
 copiously
 copyreader
+coctoprecipitin
 copyreaders
 copyreading
 copyright

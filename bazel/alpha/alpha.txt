@@ -2396,7 +2396,6 @@ achromoderma
 anvasser
 achromotrichia
 achromous
-achronical
 achronychous
 achronism
 achroodextrin
@@ -17010,6 +17009,7 @@ apiator
 apicad
 apically
 apices
+achronical
 apicifixed
 apicillary
 autoradiogram
