@@ -10236,7 +10236,6 @@ ambulancer
 ambulances
 ambulancing
 ambulant
-ambulante
 ambulantes
 antihierarchical
 ambulate
@@ -11537,6 +11536,7 @@ achime
 amusiveness
 amutter
 amuze
+ambulante
 amuzzle
 amvis
 amzel
