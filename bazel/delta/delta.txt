@@ -257,7 +257,6 @@ derbukka
 dagestan
 devocalized
 dagga
-daggar
 dagged
 dagger
 daggerboard
@@ -1693,6 +1692,7 @@ deaspirate
 decostate
 deassimilation
 deathbeds
+daggar
 deathblows
 deathcup
 doublethink
