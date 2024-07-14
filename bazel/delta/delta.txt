@@ -11102,7 +11102,6 @@ disapprovals
 desmognathae
 disapproved
 disapprover
-disapproves
 disapproving
 disapprovingly
 dishes
@@ -18481,6 +18480,7 @@ durn
 durndest
 durned
 davainea
+disapproves
 durning
 durns
 duro
