@@ -5538,6 +5538,7 @@ deoxyribose
 deozonize
 dan
 deozonizer
+deregister
 depa
 depaganize
 doglegs
@@ -6118,7 +6119,6 @@ drawings
 dereferenced
 dereferencing
 disaccord
-deregister
 deshabille
 deregulate
 dineuric
