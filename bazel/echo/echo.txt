@@ -1239,7 +1239,6 @@ esters
 eelcatcher
 ennoblement
 eelfare
-expands
 eelgrass
 eely
 eelier
@@ -12715,6 +12714,7 @@ exomorphism
 exomphalous
 electrowin
 exon
+expands
 exoner
 exonerate
 exhibited
