@@ -5622,7 +5622,6 @@ brominated
 benzdioxazine
 belection
 beledgered
-belee
 besoin
 beleed
 biloxi
@@ -7858,6 +7857,7 @@ bibliograph
 bibliography
 blenniidae
 burthenman
+belee
 bibliographic
 bibliographical
 blepharocera
