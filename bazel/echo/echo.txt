@@ -2533,7 +2533,6 @@ electropathic
 extramorainic
 electrophilic
 electrophysicist
-electrophysics
 electrophysiology
 electrophysiologically
 evulsions
@@ -4966,6 +4965,7 @@ endboard
 ewe
 endbrains
 ensilist
+electrophysics
 enddamage
 enddamaging
 endear
