@@ -2869,6 +2869,7 @@ ducture
 decurvature
 decurve
 dino
+dihedral
 decurves
 decurving
 destinist
@@ -9620,7 +9621,6 @@ dihalide
 dihalo
 dihalogen
 dihdroxycholecalciferol
-dihedral
 dihedrals
 dihedron
 dihely

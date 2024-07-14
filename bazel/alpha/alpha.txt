@@ -8065,7 +8065,6 @@ alexinic
 alexins
 alexipharmacon
 autolyzes
-alexipharmic
 alexipharmical
 alexipyretic
 alexis
@@ -20563,6 +20562,7 @@ arteriotomy
 arteriotomies
 apparation
 arteriotrepsis
+alexipharmic
 arterious
 assegaing
 arcticology
