@@ -1332,7 +1332,6 @@ glossography
 gonadotrope
 girdler
 gardbrace
-gardebras
 garden
 gardener
 gardeners
@@ -3296,6 +3295,7 @@ guacharos
 glamourousness
 geospiza
 geostatic
+gardebras
 garote
 geostationary
 gluttonism
