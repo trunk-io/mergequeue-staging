@@ -2553,7 +2553,6 @@ canmaking
 canman
 cann
 cusparidine
-canna
 crystallomagnetic
 cannabic
 cannabidiol
@@ -8915,6 +8914,7 @@ characinidae
 characinoid
 characins
 charact
+canna
 character
 cutouts
 charactered

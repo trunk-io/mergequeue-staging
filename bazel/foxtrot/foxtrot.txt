@@ -1004,6 +1004,7 @@ farfels
 farfetch
 fashion
 fluoroid
+favourably
 floorway
 funicule
 farfetched
@@ -4069,7 +4070,6 @@ furazane
 fowage
 fire
 fireback
-favourably
 fireball
 fireballs
 flanky
