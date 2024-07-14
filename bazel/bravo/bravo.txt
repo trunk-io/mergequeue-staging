@@ -9614,6 +9614,7 @@ bruchid
 biscotin
 biscuiting
 biscuitlike
+branchless
 biscuitmaker
 bislings
 biscuitmaking
@@ -15886,7 +15887,6 @@ bromopikrin
 bluchers
 bromopnea
 bromoprotein
-branchless
 bromos
 bromouracil
 biscuit
