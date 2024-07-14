@@ -2430,7 +2430,6 @@ deckedout
 dogget
 dauberies
 deckel
-dedan
 deckels
 decker
 dragsawing
@@ -13223,6 +13222,7 @@ daemonian
 disposing
 diascopy
 disposingly
+dedan
 disposition
 degasification
 drawplate
