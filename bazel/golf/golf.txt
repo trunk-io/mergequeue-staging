@@ -1357,7 +1357,6 @@ gardenlike
 gardenmaker
 gaudete
 gloppen
-gardens
 garderobe
 gardeviance
 graphite
@@ -8319,6 +8318,7 @@ gelsemin
 geoisotherm
 gnatho
 grasslands
+gardens
 genealogies
 grogger
 gonophorous
