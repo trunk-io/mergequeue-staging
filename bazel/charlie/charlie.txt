@@ -7571,7 +7571,6 @@ circumoesophagal
 cercopithecid
 cercopithecidae
 cimbri
-cercopod
 corybantish
 cramberry
 clunking
@@ -16753,6 +16752,7 @@ clostridia
 clostridial
 clostridian
 clostridium
+cercopod
 closured
 closuring
 clot
