@@ -1506,6 +1506,7 @@ faulter
 fragmentization
 faultfind
 faultfinder
+fretize
 flinted
 fissiparously
 fouquieriaceous
@@ -3640,7 +3641,6 @@ fillet
 filletster
 foreflipper
 filly
-fretize
 flauntiest
 farand
 foliot
