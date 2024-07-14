@@ -5628,7 +5628,6 @@ delimiters
 deperdite
 deperition
 deperm
-depermed
 donax
 demibastion
 didromy
@@ -12255,6 +12254,7 @@ disgracement
 disgracer
 dynast
 disgracers
+depermed
 disregardance
 driver
 disgraces

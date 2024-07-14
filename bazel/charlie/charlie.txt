@@ -1922,7 +1922,6 @@ camisoles
 camister
 camize
 cosmolabe
-camla
 camlet
 camleted
 camleteen
@@ -16057,6 +16056,7 @@ clerical
 clericalism
 clericalist
 clericalists
+camla
 clericality
 clericals
 clericate
