@@ -5914,6 +5914,7 @@ enhydros
 enhypostasia
 equitability
 enhypostasis
+entailable
 enhypostatic
 enhypostatize
 enhorror
@@ -6505,7 +6506,6 @@ enneasemic
 expendability
 embrocate
 entail
-entailable
 epinasties
 entailed
 evangelized
