@@ -1900,6 +1900,7 @@ camillus
 crenallation
 camino
 camion
+chalumeau
 camions
 correligionist
 camis
@@ -8432,7 +8433,6 @@ chaloupe
 chalta
 chaluka
 chalukyan
-chalumeau
 chalutzim
 cham
 chamacea
