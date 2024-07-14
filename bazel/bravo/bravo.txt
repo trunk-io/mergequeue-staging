@@ -113,6 +113,7 @@ bauld
 backtrace
 babylonite
 babylonize
+bink
 babine
 babingtonite
 bacteriotrypsin
@@ -8843,7 +8844,6 @@ binit
 binitarian
 binitarianism
 binits
-bink
 binman
 binmen
 barracks
