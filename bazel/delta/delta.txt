@@ -6682,7 +6682,6 @@ designate
 designates
 drouks
 designating
-designation
 designator
 desoxyephedrine
 designatory
@@ -18441,6 +18440,7 @@ duration
 durational
 domesticality
 dulcifluous
+designation
 durations
 duratives
 durax
