@@ -11242,7 +11242,6 @@ chlamydoselachidae
 clithral
 chlamydoselachus
 chlamydosporic
-chlamydozoa
 chlamydozoan
 chlamyphore
 confiding
@@ -17807,6 +17806,7 @@ coglorify
 coddlers
 calory
 cinchonas
+chlamydozoa
 corbiculate
 coddling
 code
