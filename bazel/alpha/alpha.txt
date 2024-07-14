@@ -6454,7 +6454,6 @@ appunctuation
 agoranome
 adductive
 agoranomus
-agoraphobia
 agoraphobiac
 agoras
 acervate
@@ -19506,6 +19505,7 @@ argentums
 argestes
 argh
 alonzo
+agoraphobia
 arghan
 axifera
 arghel

@@ -5412,7 +5412,6 @@ behooved
 bepuzzlement
 behooveful
 butterfish
-behoovefulness
 behooves
 behorn
 basked
@@ -12274,6 +12273,7 @@ bombardment
 bombardments
 bombardo
 brainchild
+behoovefulness
 buttocks
 bombasine
 butlerdom
