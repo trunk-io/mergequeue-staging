@@ -5627,6 +5627,7 @@ deperdite
 deperition
 deperm
 depermed
+diurnalness
 donax
 demibastion
 didromy
@@ -14285,7 +14286,6 @@ diureticalness
 diurn
 diurna
 defunctness
-diurnalness
 diurnals
 dogmen
 diurnation
