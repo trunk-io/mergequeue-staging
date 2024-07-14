@@ -162,7 +162,6 @@ cabotinage
 cabots
 cabouca
 cabre
-cabree
 chimaeroidei
 cabrerite
 committal
@@ -16724,6 +16723,7 @@ closehauled
 closely
 closelipped
 closemouth
+cabree
 closemouthed
 closen
 closeness
