@@ -1339,7 +1339,6 @@ acanthite
 allophytoid
 arch
 acanthocarpous
-acanthocephala
 acanthocephalan
 acanthocephalous
 acanthocereus
@@ -17220,6 +17219,7 @@ apodidae
 apodioxis
 apodyteria
 apodyterium
+acanthocephala
 amil
 apodixis
 automen
