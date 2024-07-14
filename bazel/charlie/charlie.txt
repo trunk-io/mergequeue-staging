@@ -8812,7 +8812,6 @@ chapattis
 chapbook
 chapbooks
 chattered
-chape
 chapeau
 chaped
 chapel
@@ -17398,6 +17397,7 @@ coation
 coatis
 coatless
 coatrack
+chape
 calumnia
 coatroom
 coatrooms
