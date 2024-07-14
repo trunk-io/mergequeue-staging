@@ -1132,7 +1132,6 @@ flioma
 fluellite
 farther
 feeler
-fiscus
 farthermost
 fleabitten
 farthingales
@@ -10445,6 +10444,7 @@ fronture
 frontwards
 froom
 froppish
+fiscus
 fontlet
 fully
 froren
