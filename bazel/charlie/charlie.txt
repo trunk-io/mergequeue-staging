@@ -14356,7 +14356,6 @@ circumduct
 circumduction
 circumesophagal
 circumesophageal
-circumfer
 checkline
 circumference
 circumferences
@@ -27573,6 +27572,7 @@ covillager
 covillea
 covin
 covine
+circumfer
 coving
 covinous
 covinously
