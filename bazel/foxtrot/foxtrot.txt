@@ -2252,7 +2252,6 @@ followers
 fluorspar
 fencers
 ferronickel
-firebricks
 fences
 forelaying
 forestallment
@@ -2881,6 +2880,7 @@ filea
 floating
 feverishness
 fulminate
+firebricks
 feverlike
 feverous
 feverroot
