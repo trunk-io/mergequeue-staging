@@ -716,7 +716,6 @@ galloper
 galloperdix
 grocers
 gallopers
-geogonic
 gallophobe
 galloping
 gallops
@@ -8477,6 +8476,7 @@ geotectonic
 graveship
 glottiscope
 gravestead
+geogonic
 gravestones
 gonochoristic
 gravette
