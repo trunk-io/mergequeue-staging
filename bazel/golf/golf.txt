@@ -2582,7 +2582,6 @@ genapp
 genarch
 genarcha
 granddad
-gendarmery
 gendarmes
 grizzles
 genderless
@@ -8951,6 +8950,7 @@ galeid
 geyserine
 griffinesque
 granolite
+gendarmery
 griffinhood
 glagah
 gymnosperms
