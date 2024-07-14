@@ -11840,7 +11840,6 @@ exampless
 exanguin
 epistolographic
 exanimation
-exannulate
 exult
 exanthem
 ekename
@@ -11871,6 +11870,7 @@ exarticulate
 exceptant
 exarticulation
 electroencephalography
+exannulate
 exasper
 exasperate
 exasperatedly

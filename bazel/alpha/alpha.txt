@@ -11638,7 +11638,6 @@ ambrosiate
 anacletica
 anacleticum
 anaclinal
-anaclisis
 anaclitic
 anacoenoses
 actinoida
@@ -23193,6 +23192,7 @@ attributional
 annabergite
 attributions
 accordances
+anaclisis
 attributive
 arborized
 attributively
