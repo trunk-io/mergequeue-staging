@@ -5098,7 +5098,6 @@ flattercap
 foliobranch
 foolheadedness
 flatterer
-flatteries
 farrago
 flatters
 flattest
@@ -8941,6 +8940,7 @@ fountaineer
 fountainhead
 flavanthrene
 fountainheads
+flatteries
 fountaining
 fountainlet
 factorial
