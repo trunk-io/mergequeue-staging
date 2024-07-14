@@ -1921,7 +1921,6 @@ frolicks
 feedbag
 feedbags
 feedbin
-flummox
 feedboxes
 fashions
 feeding
@@ -4146,6 +4145,7 @@ flemishing
 fireless
 frenchism
 forfar
+flummox
 firelit
 firelock
 finishers
