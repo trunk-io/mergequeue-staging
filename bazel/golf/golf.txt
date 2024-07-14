@@ -1853,7 +1853,6 @@ gastropleuritis
 gastroplication
 gastropneumonic
 gastropod
-gastropodan
 gastropore
 gastroptosia
 gastropulmonary
@@ -8461,6 +8460,7 @@ graven
 graveness
 gravenstein
 gaping
+gastropodan
 graveolence
 gemmily
 graveolency
