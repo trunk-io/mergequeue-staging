@@ -4779,6 +4779,7 @@ flagworm
 felinophobe
 fluorhydric
 fluidise
+fondants
 footwear
 flayer
 flayers
@@ -6977,7 +6978,6 @@ fleets
 fond
 fondaco
 fondant
-fondants
 fraena
 fetlocks
 foliicolous
