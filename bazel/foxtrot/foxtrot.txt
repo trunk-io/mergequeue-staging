@@ -4434,6 +4434,7 @@ fabricating
 flyted
 fissipedial
 fibrillous
+furnacelike
 fissipeds
 fissirostral
 fissirostrate
@@ -5924,7 +5925,6 @@ fatals
 fluidizer
 flopover
 flopovers
-furnacelike
 fluorated
 flopper
 flickery
