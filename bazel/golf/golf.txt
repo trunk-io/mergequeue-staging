@@ -5465,7 +5465,6 @@ glyceroxide
 glycidic
 gharial
 greenwax
-glycin
 gigantoblast
 glycine
 gnathal
@@ -7691,6 +7690,7 @@ goloshes
 granulous
 goldbrick
 graduates
+glycin
 graduatical
 graduation
 gormand
