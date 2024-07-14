@@ -2651,7 +2651,6 @@ derog
 decomposers
 decomposes
 dehache
-decomposition
 decapod
 decompositional
 doodskop
@@ -8453,6 +8452,7 @@ diminished
 diamminobromide
 diamminonitrate
 diammonium
+decomposition
 diamond
 diamondback
 diamondbacked
