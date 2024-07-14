@@ -4475,7 +4475,6 @@ encamped
 encampment
 encampments
 endosecretory
-endoparasite
 euthyneurous
 exameter
 encanker
@@ -7239,6 +7238,7 @@ enworthy
 enwove
 enchisel
 equipotential
+endoparasite
 enwrap
 enwrapment
 enwrapped

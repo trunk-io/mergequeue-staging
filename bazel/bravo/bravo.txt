@@ -8202,7 +8202,6 @@ bowwoman
 bienvenu
 bienvenue
 byepath
-banco
 bier
 bidri
 byerite
@@ -16742,6 +16741,7 @@ bufagin
 buff
 buffa
 buffability
+banco
 buffalo
 buffaloback
 blasty
