@@ -3210,7 +3210,6 @@ gangrels
 geonegative
 gratefuller
 ghostland
-geonic
 geonim
 glarier
 ganglion
@@ -10751,6 +10750,7 @@ gutte
 gutted
 ganoidean
 gestical
+geonic
 gutterblood
 guttery
 greenboard

@@ -5484,6 +5484,7 @@ flybane
 flibbertigibbet
 flibbertigibbety
 flybelt
+farmsteads
 furcation
 flybelts
 flybys
@@ -11177,7 +11178,6 @@ funerealness
 funfair
 fungaceous
 fungal
-farmsteads
 fungales
 fungals
 fungation
