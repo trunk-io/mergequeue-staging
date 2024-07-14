@@ -2700,7 +2700,6 @@ canonizer
 canonizing
 canonlike
 canonry
-canonries
 canons
 canonship
 cafe
@@ -30303,6 +30302,7 @@ crustacean
 crustaceans
 crustaceology
 crustaceological
+canonries
 crustaceologist
 crustaceorubrin
 crustaceous
