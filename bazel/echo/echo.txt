@@ -7260,7 +7260,6 @@ enzym
 exceed
 enzyme
 enzymes
-enzymic
 ectotropic
 enzymolysis
 enzymolytic
@@ -9806,6 +9805,7 @@ esponton
 enfirm
 essie
 extrapyramidal
+enzymic
 espousage
 espousals
 espouse
