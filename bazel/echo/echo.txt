@@ -5193,7 +5193,6 @@ endogenies
 endogenously
 effodientia
 endogens
-endognathion
 endolaryngeal
 epitheliliums
 expiring
@@ -12033,6 +12032,7 @@ exciseman
 emetatrophia
 excisemen
 excising
+endognathion
 excision
 excystment
 excitabilities
