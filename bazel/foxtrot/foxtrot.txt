@@ -2864,7 +2864,6 @@ feuillet
 feuilleton
 feuilletonism
 feuilletons
-figurate
 farfel
 floccilation
 frederick
@@ -3815,6 +3814,7 @@ floutingly
 flickermouse
 final
 finale
+figurate
 finales
 fastest
 fermentation
