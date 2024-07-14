@@ -15262,7 +15262,6 @@ birky
 besiclometer
 bleeds
 brier
-briered
 bel
 briery
 brierroot
@@ -17359,6 +17358,7 @@ bundists
 bundled
 bateau
 bundler
+briered
 bona
 bundlers
 bundles

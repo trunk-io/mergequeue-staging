@@ -1906,7 +1906,6 @@ correligionist
 camis
 camisade
 camisado
-camisadoes
 camisados
 camisard
 camisas
@@ -16051,6 +16050,7 @@ calcic
 cyclos
 clergymen
 clergion
+camisadoes
 clergywoman
 cleric
 clerical
