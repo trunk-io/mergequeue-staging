@@ -3705,7 +3705,6 @@ adendritic
 adenectomy
 adenectomies
 adenectopia
-adenectopic
 asaphus
 adenemphractic
 adenemphraxis
@@ -20713,6 +20712,7 @@ aplodontiidae
 articled
 acidimetrical
 articles
+adenectopic
 articling
 articulability
 astrogeologist
