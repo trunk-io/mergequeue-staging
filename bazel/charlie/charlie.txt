@@ -2719,7 +2719,6 @@ canopus
 curricled
 canorous
 canorously
-canorousness
 collards
 canos
 canossa
@@ -10993,6 +10992,7 @@ chirmed
 chirming
 chirms
 chiro
+canorousness
 chirocosmetics
 coapprentice
 chirogale
