@@ -1682,7 +1682,6 @@ fcp
 fdtype
 fdubs
 fumblers
-feaberry
 flighter
 fictation
 feague
@@ -8066,6 +8065,7 @@ foretellers
 foretelling
 foretells
 fineish
+feaberry
 filacer
 forethink
 forethinking
