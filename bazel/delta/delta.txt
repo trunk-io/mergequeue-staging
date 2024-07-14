@@ -11929,7 +11929,6 @@ deluges
 discriminatorily
 disembargoing
 debouches
-disembark
 disembarkation
 disembarkations
 disembarked
@@ -17384,6 +17383,7 @@ dropped
 dropper
 droppers
 droppy
+disembark
 dropping
 dorab
 droppingly
