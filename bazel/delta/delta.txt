@@ -6225,6 +6225,7 @@ dermanaplasty
 dermapostasis
 dermaptera
 dermas
+diffidence
 downlinked
 dermaskeleton
 dermatagra
@@ -9390,7 +9391,6 @@ difficulties
 difficultly
 difficultness
 diffided
-diffidence
 diffidentness
 diffiding
 difflation
