@@ -8771,7 +8771,6 @@ equitemporaneous
 equites
 exopterygota
 equity
-equitriangular
 equiv
 equivale
 electrootiatrics
@@ -12145,6 +12144,7 @@ enami
 excrementitious
 evzone
 epenla
+equitriangular
 excrementitiousness
 electroanesthesia
 excrementive
