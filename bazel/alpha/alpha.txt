@@ -1946,6 +1946,7 @@ aceldama
 acellular
 acemetae
 athena
+affecting
 acemila
 acerb
 acenaphthene
@@ -5339,7 +5340,6 @@ affecter
 affecters
 affectibility
 affectible
-affecting
 antigen
 affection
 affectional
