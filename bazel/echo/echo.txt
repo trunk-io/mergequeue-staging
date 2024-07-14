@@ -6332,6 +6332,7 @@ enscrolled
 enscrolls
 ensculpture
 ense
+expositive
 enseal
 ensealing
 extolment
@@ -13303,7 +13304,6 @@ electroengraving
 emboites
 earing
 exterminates
-expositive
 expositively
 expositor
 expository
