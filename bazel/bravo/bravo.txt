@@ -6968,7 +6968,6 @@ besides
 bosniac
 besiege
 besieged
-bardash
 bathymeter
 besieges
 besieging
@@ -12911,6 +12910,7 @@ bronchitis
 boral
 bulimia
 banting
+bardash
 boulderhead
 boran
 borana
