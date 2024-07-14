@@ -1613,7 +1613,6 @@ acclaimers
 astringence
 auriculars
 acclaiming
-acclaims
 acclamator
 acclamatory
 acclimatable
@@ -19215,6 +19214,7 @@ asexualise
 aerolitics
 arcked
 arcking
+acclaims
 arclike
 allatrate
 amahuaca
