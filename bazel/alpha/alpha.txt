@@ -3255,7 +3255,6 @@ actipylea
 actium
 activated
 activates
-activating
 antifreezing
 activations
 activators
@@ -15629,6 +15628,7 @@ antimedicative
 antimedievalist
 antimedievally
 antimellin
+activating
 antimeningococcic
 anthemed
 acroamatic
