@@ -8680,6 +8680,7 @@ billsticker
 burliest
 billtong
 befogs
+broomroot
 bacauan
 bilobated
 bilobe
@@ -16089,7 +16090,6 @@ broommaker
 broommaking
 broomrape
 bulleting
-broomroot
 brooms
 bathmat
 broomshank
