@@ -5055,6 +5055,7 @@ glacify
 glacification
 glacioaqueous
 glaciology
+grandtotal
 goffer
 glaciomarine
 genoa
@@ -8017,7 +8018,6 @@ glossemes
 grandstand
 galivanting
 grandstanding
-grandtotal
 granduncles
 gentlemen
 germanhood
