@@ -18346,7 +18346,6 @@ cogida
 cogie
 chackling
 cogitability
-cogitable
 cogitabund
 cogitabundity
 chromatopathia
@@ -21711,6 +21710,7 @@ conditional
 conditionalism
 conditionalist
 cassytha
+cogitable
 conditionality
 conditionalize
 conditionate
