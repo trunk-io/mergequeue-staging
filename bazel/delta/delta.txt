@@ -7327,7 +7327,6 @@ detonable
 detonatable
 detonated
 detonates
-definition
 detonating
 detonation
 detonational
@@ -17660,6 +17659,7 @@ druther
 distendedly
 diabetogenic
 dismaler
+definition
 disadjust
 druthers
 druxey
