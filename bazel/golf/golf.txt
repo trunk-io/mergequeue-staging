@@ -6431,7 +6431,6 @@ guitarists
 goalpost
 goals
 goaltenders
-goan
 goanna
 gl
 gymnarchus
@@ -10315,6 +10314,7 @@ guld
 genericalness
 gule
 garnishment
+goan
 gules
 gutting
 gallification
