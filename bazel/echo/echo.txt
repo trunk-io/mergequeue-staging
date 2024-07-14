@@ -3131,7 +3131,6 @@ extracurriculum
 estus
 endemic
 elseways
-elsewhat
 elsewhen
 elsewhere
 externally
@@ -6033,6 +6032,7 @@ enlisted
 enlistee
 earphones
 experientialist
+elsewhat
 envisioned
 eternalism
 enlistees
