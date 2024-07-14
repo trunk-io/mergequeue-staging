@@ -2012,7 +2012,6 @@ campanularidae
 campanulatae
 campanulate
 campanulated
-campanulous
 campaspe
 campbell
 campbellism
@@ -9936,6 +9935,7 @@ chemitype
 chemitypy
 chemmy
 chemoautotrophy
+campanulous
 chemoautotrophic
 chemoautotrophically
 chemoceptor

@@ -5592,7 +5592,6 @@ depasturage
 depasturing
 dispergation
 depauperate
-depauperation
 depauperize
 depauperized
 depe
@@ -13923,6 +13922,7 @@ distinguishes
 dewar
 distinguishing
 distinguishingly
+depauperation
 demoid
 distinguishment
 distintion
