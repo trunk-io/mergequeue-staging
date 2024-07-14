@@ -2849,6 +2849,7 @@ genizah
 glossalgia
 grogs
 guilandina
+galenian
 genl
 genny
 genoas
@@ -6875,7 +6876,6 @@ gonidangium
 gonydeal
 gonidial
 gonydial
-galenian
 gonidic
 gonidiferous
 gonidiogenous
