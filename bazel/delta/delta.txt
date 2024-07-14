@@ -7563,6 +7563,7 @@ devaul
 devchar
 degaussed
 devein
+donk
 deveined
 deveining
 deveins
@@ -15505,7 +15506,6 @@ dendritically
 donjon
 departements
 donjons
-donk
 dockage
 donkey
 donkeyback
