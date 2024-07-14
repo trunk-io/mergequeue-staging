@@ -12682,7 +12682,6 @@ chrismons
 chronicle
 chronicled
 chronicler
-chroniclers
 chronicles
 chronicling
 chronicon
@@ -31822,6 +31821,7 @@ calcarium
 cutitis
 cutization
 cutlas
+chroniclers
 cutlass
 cadish
 citrocola
