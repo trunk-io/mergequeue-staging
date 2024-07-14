@@ -1526,6 +1526,7 @@ acceptilation
 accepting
 acceptingness
 acception
+allocated
 acceptor
 acceptors
 acceptress
@@ -8870,7 +8871,6 @@ allocaffeine
 allocatable
 allocate
 apollo
-allocated
 adglutinate
 allocates
 allocating
