@@ -14270,7 +14270,6 @@ antelegal
 antelocation
 antelope
 antelopine
-antelucan
 antelude
 aculeated
 apaesthesia
@@ -23814,6 +23813,7 @@ autecological
 acurative
 autecologist
 autem
+antelucan
 auteurism
 autexousy
 auth
