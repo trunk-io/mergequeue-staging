@@ -892,7 +892,6 @@ ectognatha
 entempest
 ectolecithal
 ectomere
-ectomeres
 ectomeric
 ectomesoblast
 encapsulates
@@ -6099,6 +6098,7 @@ enneagons
 enneahedral
 enantiopathic
 electrizer
+ectomeres
 enneahedria
 enneahedron
 enneahedrons

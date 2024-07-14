@@ -3726,7 +3726,6 @@ fraternise
 fils
 fletching
 flakelet
-farmy
 ferruginate
 figurings
 fishpond
@@ -6351,6 +6350,7 @@ flautist
 flumped
 fidgeter
 forecastles
+farmy
 flumping
 flumps
 favouring
