@@ -2410,7 +2410,6 @@ fermentescible
 fermenting
 frankfurters
 fiendly
-ferments
 fermentum
 fermerer
 fermi
@@ -6537,6 +6536,7 @@ flustration
 farmhands
 flustrine
 flustrum
+ferments
 flute
 flutebird
 filagreeing
