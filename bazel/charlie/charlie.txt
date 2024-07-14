@@ -11208,6 +11208,7 @@ chive
 chivey
 chiveret
 chives
+corporeal
 chivy
 chivied
 chivies
@@ -25616,7 +25617,6 @@ corners
 corporatist
 corporatively
 corporature
-corporeal
 companion
 corporeality
 corporealization
