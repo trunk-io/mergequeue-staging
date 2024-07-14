@@ -15708,7 +15708,6 @@ antimonic
 antimonid
 antimonide
 antimonies
-antimoniferous
 antimonyl
 antimonious
 accinge
@@ -22112,6 +22111,7 @@ asthenope
 asthenophobia
 asthenopia
 asthenopic
+antimoniferous
 archknave
 asthma
 asthmas
