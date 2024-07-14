@@ -1869,7 +1869,6 @@ deyhouse
 detractive
 debouching
 debouchment
-debout
 debowel
 dextrality
 debride
@@ -5930,6 +5929,7 @@ depressibilities
 depressing
 depressingly
 dermatography
+debout
 depressingness
 dacrydium
 depression
