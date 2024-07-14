@@ -23136,7 +23136,6 @@ constantinopolitan
 constantly
 constantness
 constat
-constatation
 constate
 constatory
 constellating
@@ -26586,6 +26585,7 @@ coulomb
 coulombmeter
 coulombs
 continental
+constatation
 cramponnee
 coulometry
 coulometrically
