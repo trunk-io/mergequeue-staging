@@ -919,7 +919,6 @@ gameless
 gathers
 gamely
 glyster
-gory
 gamelike
 gonfalonier
 guiro
@@ -1658,6 +1657,7 @@ germanize
 gassings
 gassit
 gast
+gory
 goliardeys
 gossamer
 ghoulie
