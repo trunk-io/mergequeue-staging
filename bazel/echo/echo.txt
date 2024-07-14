@@ -3575,7 +3575,6 @@ embourgeoisement
 eliminability
 embow
 ensnarements
-embowed
 embowel
 emboweler
 exhume
@@ -11162,6 +11161,7 @@ emulsification
 eurytherm
 elevon
 eurythermal
+embowed
 engines
 epimeral
 exuviate
