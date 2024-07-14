@@ -2474,6 +2474,7 @@ barche
 barcolongo
 barcone
 barcoo
+bhokra
 befop
 bard
 bemuse
@@ -13682,7 +13683,6 @@ bovenland
 broadsiding
 blakeite
 bovid
-bhokra
 bovidae
 bovids
 boviform
