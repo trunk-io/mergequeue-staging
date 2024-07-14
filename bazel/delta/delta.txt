@@ -5801,7 +5801,6 @@ depopulates
 depopulation
 decolours
 drepane
-discomforted
 deliberator
 depopulations
 depopulative
@@ -17039,6 +17038,7 @@ drest
 dretch
 drevel
 drew
+discomforted
 drewite
 dry
 dryable
