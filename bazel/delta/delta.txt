@@ -8798,7 +8798,6 @@ demotists
 dibbers
 dibble
 dibbled
-dibbler
 dibblers
 directionally
 disgruntling
@@ -12655,6 +12654,7 @@ deckhouses
 dislevelment
 dyslexia
 dyslexias
+dibbler
 dyslexics
 dislikable
 dislikeable
