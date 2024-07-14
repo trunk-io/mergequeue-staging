@@ -441,7 +441,6 @@ ecb
 ecballium
 ecbasis
 ecbatic
-ecblastesis
 ecblastpsis
 ecbole
 epiphanizing
@@ -11858,6 +11857,7 @@ exarchy
 elemol
 exarchic
 excides
+ecblastesis
 exarchies
 escadrilles
 exarchs
