@@ -11230,7 +11230,6 @@ chlamydate
 chlamydeous
 chlamydes
 cliftonia
-chlamydobacteriaceae
 chlamydobacteriales
 chlamydomonadidae
 cornflakes
@@ -21929,6 +21928,7 @@ conferment
 communbus
 conferral
 conferred
+chlamydobacteriaceae
 conferree
 conferrence
 cainogenesis
