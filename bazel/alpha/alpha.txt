@@ -3966,6 +3966,7 @@ adipocerous
 adipocyte
 adipofibroma
 adipogenic
+arterial
 adipogenous
 adipoid
 adipolysis
@@ -20495,7 +20496,6 @@ arteria
 arteriac
 arteriae
 arteriagra
-arterial
 arterialise
 arterialization
 arterialize
