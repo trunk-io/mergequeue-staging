@@ -14394,6 +14394,7 @@ circumlocution
 circumlocutionary
 circumlocutionist
 circumlocutions
+cons
 circumlocutory
 circumlunar
 circummeridian
@@ -22758,7 +22759,6 @@ conrey
 conringia
 consubsist
 cyclist
-cons
 consacre
 consanguine
 consanguineal
