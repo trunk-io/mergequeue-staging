@@ -3377,7 +3377,6 @@ animalculist
 apprehensions
 acupressure
 acupunctuation
-acupuncturator
 acupuncture
 acupunctured
 acupuncturing
@@ -17771,6 +17770,7 @@ appetitost
 aladfar
 appetize
 avocate
+acupuncturator
 appetized
 appetizement
 appetizers
