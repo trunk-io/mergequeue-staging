@@ -3255,7 +3255,6 @@ capricci
 capriccio
 capriccios
 caprices
-capricious
 capriciously
 capriciousness
 calorized
@@ -28389,6 +28388,7 @@ crazing
 crazingmill
 cleansed
 crazyweed
+capricious
 crcao
 crche
 cre
