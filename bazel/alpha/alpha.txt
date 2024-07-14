@@ -1255,7 +1255,6 @@ abwatts
 ac
 acacatechin
 albuminimetry
-acacetin
 acacia
 admittance
 acacian
@@ -18778,6 +18777,7 @@ archcupbearer
 anthoecologist
 archd
 amici
+acacetin
 archdapifer
 archdapifership
 archdeaconate
