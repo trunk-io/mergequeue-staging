@@ -5451,7 +5451,6 @@ algesireceptor
 afflicter
 afflicting
 afflictingly
-afflictionless
 afflictions
 afflictive
 afflictively
@@ -18873,6 +18872,7 @@ archerfishes
 archery
 asepticism
 archeries
+afflictionless
 archers
 archership
 archespore
