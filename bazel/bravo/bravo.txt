@@ -9393,7 +9393,6 @@ birchers
 birching
 birchism
 birchman
-birchwood
 bird
 birdbath
 birdbaths
@@ -11283,6 +11282,7 @@ blub
 blubber
 blubberer
 blubberhead
+birchwood
 blubbery
 blubberman
 branchway
