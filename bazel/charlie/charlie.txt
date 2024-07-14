@@ -13364,7 +13364,6 @@ coconspirator
 cycloaddition
 cycloaliphatic
 cyclobothra
-cyclobutane
 cyclocephaly
 cyclocoelous
 cycloconium
@@ -29797,6 +29796,7 @@ cropper
 croppers
 croppy
 croppies
+cyclobutane
 cropping
 cropplecrown
 crops
