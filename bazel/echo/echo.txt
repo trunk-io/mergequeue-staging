@@ -7115,7 +7115,6 @@ enumerating
 enumerative
 enumerator
 enumerators
-enunciability
 ensuant
 enunciable
 enunciated
@@ -13736,6 +13735,7 @@ extersive
 errancy
 epididymectomy
 extolling
+enunciability
 extollingly
 enneastyle
 epidotes
