@@ -192,7 +192,6 @@ diamorphosis
 duckhouse
 daedalian
 daedalic
-daedalist
 dozen
 daedalous
 daedalus
@@ -8383,6 +8382,7 @@ dialling
 diallings
 diallists
 dialoger
+daedalist
 decentring
 dialogers
 dialogged
