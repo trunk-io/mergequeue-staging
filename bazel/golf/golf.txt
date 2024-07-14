@@ -4973,7 +4973,6 @@ gyrinus
 give
 goaltending
 gantries
-gyve
 gammexane
 glaciologic
 guianan
@@ -8094,6 +8093,7 @@ granophyric
 granose
 grantable
 granted
+gyve
 galler
 grantedly
 grantee
