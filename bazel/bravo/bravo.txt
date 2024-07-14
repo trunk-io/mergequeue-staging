@@ -2871,7 +2871,6 @@ baronize
 beliefful
 baronized
 baronry
-briggs
 byrls
 barophobia
 baroque
@@ -3653,6 +3652,7 @@ babbittry
 broncobusters
 barkeeps
 beknave
+briggs
 bathukolpian
 bathvillite
 bathwater
