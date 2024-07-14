@@ -12973,7 +12973,6 @@ arterioversion
 angledozer
 anglehook
 anglemeter
-anglepod
 anglepods
 angler
 anglers
@@ -21408,6 +21407,7 @@ asperge
 asperger
 achatinella
 atonable
+anglepod
 asperggilla
 aspergil
 aspergill
