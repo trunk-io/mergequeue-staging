@@ -5506,7 +5506,6 @@ allegorister
 atticism
 affret
 arhythmia
-affrettando
 affreux
 affricate
 affricated
@@ -10621,6 +10620,7 @@ amylenes
 amylenol
 amylic
 autarkik
+affrettando
 assertive
 amylidene
 airplay
