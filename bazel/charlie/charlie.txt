@@ -9232,7 +9232,6 @@ chasable
 chaseable
 chased
 chasers
-chases
 chashitsu
 chasid
 chasidim
@@ -28187,6 +28186,7 @@ crankiness
 cranking
 crankish
 crankism
+chases
 crankle
 crankled
 crankles
