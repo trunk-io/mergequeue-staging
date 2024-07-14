@@ -10570,7 +10570,6 @@ amyelencephalous
 amyelic
 amyelinic
 artel
-amyelonic
 amyelotrophy
 amyelous
 amies
@@ -14455,6 +14454,7 @@ anthemis
 anthems
 antheraea
 antheral
+amyelonic
 anthericum
 antherid
 antheridia
