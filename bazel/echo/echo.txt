@@ -11894,7 +11894,6 @@ excalibur
 epopt
 enlighteningly
 ernesse
-eavedropping
 enigma
 endrins
 excandescent
@@ -13642,6 +13641,7 @@ extern
 externa
 external
 externalisation
+eavedropping
 externalise
 externalised
 externalising
