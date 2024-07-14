@@ -1170,7 +1170,6 @@ footbridge
 fluegelhorn
 figeaters
 fascinated
-fascinates
 fibropolypus
 filtration
 fascinating
@@ -4098,6 +4097,7 @@ firebombing
 firebombs
 firebote
 frogflower
+fascinates
 fluavil
 flavescent
 frankability
