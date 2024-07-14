@@ -4683,7 +4683,6 @@ adverse
 adversely
 actinoid
 adverseness
-angularization
 adversifolious
 arrangement
 adversing
@@ -13920,6 +13919,7 @@ anopheles
 anophelinae
 aerohydrotherapy
 anopheline
+angularization
 anophyte
 anophoria
 anophthalmia
