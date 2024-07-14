@@ -220,7 +220,6 @@ facultatively
 faculty
 faculties
 facultize
-facundity
 frankheartedness
 fad
 fadaise
@@ -1107,6 +1106,7 @@ fruitions
 forekeel
 farreate
 fernland
+facundity
 farreation
 farrel
 farriery
