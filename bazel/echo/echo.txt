@@ -724,7 +724,6 @@ ecol
 ecole
 ecoles
 eremacausis
-ecologic
 ecologist
 ecologists
 ecomomist
@@ -7624,6 +7623,7 @@ endogamic
 epexegetic
 epichoric
 epichoristic
+ecologic
 essed
 epicycles
 epicyclic
