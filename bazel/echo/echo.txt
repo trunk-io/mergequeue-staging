@@ -11513,7 +11513,6 @@ elvis
 everydayness
 enactive
 everylike
-everymen
 everyness
 everyone
 everyplace
@@ -12502,6 +12501,7 @@ exhibitory
 egrimonle
 exhibitorial
 exhibitors
+everymen
 exhibits
 exhilarant
 exhilarates
