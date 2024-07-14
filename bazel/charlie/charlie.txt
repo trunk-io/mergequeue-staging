@@ -9581,7 +9581,6 @@ checky
 checklaton
 checkless
 checklist
-charadriiform
 checkman
 checkmark
 checkmate
@@ -11708,6 +11707,7 @@ choline
 cholines
 cholinesterase
 cholinic
+charadriiform
 confronting
 cholinolytic
 chalcites
