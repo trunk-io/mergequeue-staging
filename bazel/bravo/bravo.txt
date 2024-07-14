@@ -6688,7 +6688,6 @@ bergut
 bacteriostat
 bilingually
 berhyme
-berhymed
 berhymes
 benempted
 beri
@@ -14615,6 +14614,7 @@ brassia
 brassicas
 blighter
 brownies
+berhymed
 brassier
 brassiere
 brassieres
