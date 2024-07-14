@@ -6025,7 +6025,6 @@ faciata
 florin
 florins
 folios
-floriparous
 floripondio
 fantasts
 floriscope
@@ -6542,6 +6541,7 @@ flute
 flutebird
 filagreeing
 flutelike
+floriparous
 fluter
 fibroglia
 foolisher
