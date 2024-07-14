@@ -4087,7 +4087,6 @@ durani
 deligation
 dichroic
 delighted
-disguise
 delightedly
 deceleration
 delighter
@@ -8871,6 +8870,7 @@ diceboard
 dicebox
 dicecup
 diced
+disguise
 dicellate
 didna
 dicentra
