@@ -751,7 +751,6 @@ fieldpieces
 fancier
 fanciers
 fleshlessness
-foliot
 fancifully
 fancying
 fanciless
@@ -3640,6 +3639,7 @@ filly
 fretize
 flauntiest
 farand
+foliot
 filling
 fillings
 fluttery
