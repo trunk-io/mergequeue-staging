@@ -725,7 +725,6 @@ ecoles
 eremacausis
 ecologic
 ecologist
-ecologists
 ecomomist
 econometer
 econometric
@@ -5003,6 +5002,7 @@ endorsable
 endemiology
 endemiological
 endemisms
+ecologists
 endenize
 endostylar
 electrocauteries
