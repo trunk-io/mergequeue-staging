@@ -11150,7 +11150,6 @@ borderlines
 bloomfell
 bloomier
 bloomiest
-bloomingly
 bloomingness
 bloomkin
 burbs
@@ -11518,6 +11517,7 @@ blustered
 banquettes
 blusterer
 blusterers
+bloomingly
 blustery
 blustering
 blusteringly
