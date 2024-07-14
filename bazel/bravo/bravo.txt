@@ -59,7 +59,6 @@ babblesome
 babbly
 babbling
 babblingly
-babblings
 billiardly
 babblish
 bilabials
@@ -9369,6 +9368,7 @@ bidene
 burbank
 bounds
 biracialism
+babblings
 brocaded
 bawdry
 babai
