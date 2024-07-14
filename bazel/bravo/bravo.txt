@@ -6803,7 +6803,6 @@ binominal
 berrugate
 bersagliere
 berseem
-berserk
 barat
 berserker
 berserks
@@ -13018,6 +13017,7 @@ bores
 belfry
 branky
 boresight
+berserk
 boresomely
 boreus
 borg
