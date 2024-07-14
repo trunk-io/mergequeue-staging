@@ -5592,7 +5592,6 @@ aforementioned
 aforenamed
 aforesaid
 aforetime
-aforeward
 afortiori
 afoul
 afounde
@@ -18931,6 +18930,7 @@ attars
 avolate
 archy
 archibald
+aforeward
 archibenthal
 aged
 archibenthos
