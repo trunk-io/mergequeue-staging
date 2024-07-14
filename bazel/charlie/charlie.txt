@@ -9338,7 +9338,6 @@ clepsydra
 chattanoogan
 chattation
 cheeriness
-chatted
 chattel
 chattelhood
 chattelism
@@ -16408,6 +16407,7 @@ clipse
 clipsheet
 clipsheets
 clipsome
+chatted
 clipt
 capernoited
 clique
