@@ -11373,7 +11373,6 @@ congeals
 chlorochromates
 chlorochromic
 chlorochrous
-chlorococcaceae
 chlorococcales
 chlorococcum
 caulicole
@@ -16355,6 +16354,7 @@ clinopinacoid
 cephalin
 clinopyramid
 clinopyroxene
+chlorococcaceae
 clinopodium
 clinospore
 clinquant
