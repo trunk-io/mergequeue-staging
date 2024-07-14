@@ -7586,6 +7586,7 @@ grabbed
 guitermanite
 gingerbread
 gehlenite
+germarium
 grabbots
 grabber
 grabbers
@@ -10255,7 +10256,6 @@ gup
 guineas
 girondin
 gul
-germarium
 greensick
 guinevere
 guinfo
