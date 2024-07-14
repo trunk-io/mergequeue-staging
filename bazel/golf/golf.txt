@@ -1756,7 +1756,6 @@ gangliomata
 gastroduodenal
 grunts
 gaolbird
-gastroduodenostomy
 gingelly
 gastroduodenostomies
 gastroduodenotomy
@@ -7472,6 +7471,7 @@ gourd
 gourde
 gourded
 gourdes
+gastroduodenostomy
 gristmiller
 gourdy
 guidable
