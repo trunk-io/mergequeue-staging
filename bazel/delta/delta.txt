@@ -6265,7 +6265,6 @@ dermatologist
 dermatologists
 dermatoma
 diumvirate
-dermatomyces
 dermatomycosis
 donia
 dermatomyoma
@@ -11479,6 +11478,7 @@ dummerer
 discolour
 diphysite
 discoloured
+dermatomyces
 discolouring
 dissonous
 discolourization
