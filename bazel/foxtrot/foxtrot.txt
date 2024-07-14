@@ -3062,6 +3062,7 @@ fistulose
 fleerer
 fourteenth
 fightable
+flourescent
 ferlying
 fibromucous
 fibromuscular
@@ -4408,7 +4409,6 @@ flagfish
 foreshorten
 fissile
 fissilingual
-flourescent
 fissilinguia
 facemark
 fission
