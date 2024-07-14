@@ -622,6 +622,7 @@ cafetal
 cafeteria
 cafeterias
 cafetiere
+calyculus
 copperas
 cafetorium
 caff
@@ -21802,7 +21803,6 @@ conductible
 conductimetric
 conducting
 conduction
-calyculus
 conductional
 conductitious
 conductive
