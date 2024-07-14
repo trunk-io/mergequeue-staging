@@ -604,7 +604,6 @@ echinospermum
 echinosphaeritidae
 elkesaite
 echinostome
-echinulate
 echinulated
 endotheliocyte
 elaphine
@@ -6657,6 +6656,7 @@ enteroparesis
 enteropathy
 enteropathogenic
 enteropexy
+echinulate
 enteropexia
 enteroplasty
 enteropneusta

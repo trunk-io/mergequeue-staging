@@ -5449,7 +5449,6 @@ afflicter
 afflicting
 afflictingly
 afflictions
-afflictive
 afflictively
 avadavats
 allied
@@ -10262,6 +10261,7 @@ ambuscaded
 ambuscader
 ambuscades
 ambuscading
+afflictive
 ambuscadoed
 ambuscados
 assarion
