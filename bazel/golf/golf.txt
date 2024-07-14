@@ -695,6 +695,7 @@ gallocyanine
 galloglass
 greekish
 galloman
+gyric
 gallomaniac
 graveclod
 garnish
@@ -4451,7 +4452,6 @@ gynecologic
 gynecologies
 gynecologist
 gremmie
-gyric
 grindle
 getspace
 gymnospermism
