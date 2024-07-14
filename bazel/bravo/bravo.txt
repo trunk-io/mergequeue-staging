@@ -2245,6 +2245,7 @@ beresite
 baptist
 baptistery
 baptistry
+bondminder
 baptizable
 buttered
 baptizee
@@ -12427,7 +12428,6 @@ bondmaid
 bondman
 bondmanship
 bondmen
-bondminder
 bondoc
 bondon
 brooders

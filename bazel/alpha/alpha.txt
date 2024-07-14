@@ -12185,7 +12185,6 @@ anatomicosurgical
 anatomies
 anatomisation
 anatomised
-anatomiser
 anatomising
 anatomism
 anatomist
@@ -22644,6 +22643,7 @@ athyris
 athyrium
 athyroid
 athyroidism
+anatomiser
 athyrosis
 acroterion
 athirst
