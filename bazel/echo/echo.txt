@@ -330,7 +330,6 @@ eatings
 el
 enthronised
 edhs
-eats
 elementalize
 entrench
 eaved
@@ -10819,6 +10818,7 @@ eugenists
 eugeosynclinal
 endoappendicitis
 eugeosyncline
+eats
 euglenales
 enterokinetic
 eradication
