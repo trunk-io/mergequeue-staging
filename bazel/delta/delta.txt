@@ -1227,6 +1227,7 @@ datatypes
 dialyzable
 dodecaphonism
 datcha
+destroy
 datchas
 datebook
 datedly
@@ -7049,7 +7050,6 @@ destressed
 destrier
 dethronements
 destriers
-destroy
 dysmnesia
 destroyable
 destroyed
