@@ -1298,7 +1298,6 @@ fastish
 fastland
 fastly
 fastnacht
-fastnesses
 foreseing
 filicin
 fasts
@@ -8865,6 +8864,7 @@ femaleness
 funerate
 folksiness
 fraternisation
+fastnesses
 fotched
 fother
 fothergilla

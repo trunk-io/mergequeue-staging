@@ -1211,7 +1211,6 @@ emprise
 entozoic
 educes
 equiperiodic
-educible
 educive
 educt
 elytrostenosis
@@ -10503,6 +10502,7 @@ entozoologically
 ethnol
 emulant
 electrometallurgy
+educible
 ethnolinguist
 ethnolinguistic
 ethnolinguistics
