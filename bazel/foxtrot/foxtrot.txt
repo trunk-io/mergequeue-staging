@@ -5821,7 +5821,6 @@ flockmaster
 florigraphy
 flockowner
 frangent
-flockwise
 favouredly
 flocs
 flutterboard
@@ -10418,6 +10417,7 @@ fronton
 frontonasal
 foliate
 fossilated
+flockwise
 frontons
 fluoridations
 francium

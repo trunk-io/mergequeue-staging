@@ -21088,7 +21088,6 @@ amulla
 ascorbic
 ascospore
 ascosporic
-ascosporous
 ascothoracica
 ascots
 ascribe
@@ -24038,6 +24037,7 @@ autodecrements
 autodepolymerization
 autodermic
 autodestruction
+ascosporous
 analcimes
 autodetector
 autodiagnosis
