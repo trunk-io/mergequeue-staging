@@ -6990,7 +6990,6 @@ airframe
 airframes
 airfreight
 airglow
-airglows
 acondylous
 airgraph
 airgraphics
@@ -12994,6 +12993,7 @@ anglicanize
 anglicanly
 anglicans
 attitudes
+airglows
 anglicanum
 anglicisation
 acknowledgements

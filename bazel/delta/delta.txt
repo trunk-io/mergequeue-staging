@@ -3342,6 +3342,7 @@ delicate
 defis
 defix
 deflagrable
+duplicando
 deflagrated
 deflagrates
 deflagrating
@@ -18450,7 +18451,6 @@ durbars
 durdum
 duree
 dureful
-duplicando
 durene
 durenol
 dureresque
