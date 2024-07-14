@@ -4382,7 +4382,6 @@ grayness
 gimped
 giddyish
 gimpier
-gimpiest
 gyms
 gaunted
 gin
@@ -8634,6 +8633,7 @@ gelates
 greedily
 greediness
 greedless
+gimpiest
 grundyite
 greeing
 greek
