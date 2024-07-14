@@ -18267,7 +18267,6 @@ cofeature
 cofeatures
 cofeoffee
 coferment
-cofermentation
 coff
 coffea
 centrolineal
@@ -19989,6 +19988,7 @@ camphorweed
 claim
 command
 commandable
+cofermentation
 commandants
 commanded
 caught

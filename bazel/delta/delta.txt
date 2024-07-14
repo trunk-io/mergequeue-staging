@@ -2891,7 +2891,6 @@ dedenda
 dedentition
 digitron
 dedicant
-dedicated
 disputants
 dedicatedly
 dedicating
@@ -9638,6 +9637,7 @@ dihydrite
 dihydrocupreine
 dihydrocuprin
 dunlins
+dedicated
 decore
 dollyman
 deficience
