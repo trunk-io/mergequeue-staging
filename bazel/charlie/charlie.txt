@@ -1830,7 +1830,6 @@ camelidae
 camelina
 cameline
 cardinalship
-corcopali
 chirimia
 camelion
 camelish
@@ -22878,6 +22877,7 @@ conservable
 chumpy
 conservancy
 conservant
+corcopali
 consigned
 conservate
 catfaces
