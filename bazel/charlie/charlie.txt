@@ -11242,7 +11242,6 @@ comparograph
 chlamydoselachidae
 clithral
 chlamydoselachus
-chlamydosporic
 chlamydozoan
 chlamyphore
 confiding
@@ -20800,6 +20799,7 @@ complicity
 complicities
 complicitous
 complier
+chlamydosporic
 compliers
 commodatum
 ceilingwards
