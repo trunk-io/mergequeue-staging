@@ -8025,7 +8025,6 @@ glossemes
 grandstand
 galivanting
 grandstanding
-grandtotal
 granduncles
 gentlemen
 germanhood
@@ -9530,6 +9529,7 @@ groveless
 groveling
 gonna
 gypsyism
+grandtotal
 grovelling
 grovellingly
 greeds
