@@ -5492,7 +5492,6 @@ flybys
 fluctisonous
 flyblown
 flyboat
-flybrush
 facsimiling
 fishless
 flic
@@ -9000,6 +8999,7 @@ filariform
 fourquine
 frizzing
 fourragere
+flybrush
 fourrageres
 fourrier
 forlore

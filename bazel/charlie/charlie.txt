@@ -7509,7 +7509,6 @@ ceratophyte
 ceratophrys
 crozier
 ceratopsia
-ceratopsian
 ceratopsidae
 convertoplane
 ceratopteridaceae
@@ -22998,6 +22997,7 @@ consociational
 complicated
 consociationism
 consociative
+ceratopsian
 cage
 cavern
 consocies
