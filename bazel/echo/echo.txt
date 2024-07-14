@@ -2265,6 +2265,7 @@ electrets
 exostosis
 electric
 entrapment
+expediment
 expenditures
 exosmoses
 electricalize
@@ -12986,7 +12987,6 @@ expediently
 ethernets
 evacuation
 expedients
-expediment
 enteritis
 earthmover
 expeding
