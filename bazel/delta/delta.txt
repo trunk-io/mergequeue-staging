@@ -4151,7 +4151,6 @@ delinter
 disjunctor
 deliquate
 deliquesce
-deludable
 deliquesced
 deliquescent
 depuratory
@@ -11894,6 +11893,7 @@ dentalisation
 diseased
 diseasedly
 diseasedness
+deludable
 diseaseful
 diseasefulness
 dolichosoma
