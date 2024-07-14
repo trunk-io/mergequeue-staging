@@ -4681,7 +4681,6 @@ charrette
 carpophyll
 carpophyte
 carpophore
-carpopodite
 carpoptosia
 carfuffle
 carpoptosis
@@ -10647,6 +10646,7 @@ creeded
 chylocauly
 chylocaulous
 chylocaulously
+carpopodite
 chylocele
 chylocyst
 chilodon
