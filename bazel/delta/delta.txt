@@ -13775,7 +13775,6 @@ dissuasory
 dissuit
 dissunder
 disinvestiture
-dissweeten
 dist
 distad
 distaffs
@@ -15443,6 +15442,7 @@ donacidae
 donaciform
 donack
 donal
+dissweeten
 desecrating
 donald
 donar
