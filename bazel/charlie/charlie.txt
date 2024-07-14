@@ -18393,7 +18393,6 @@ cognises
 cognising
 carburant
 catchflies
-cognition
 cognitive
 cognitively
 cognitivity
@@ -21052,6 +21051,7 @@ compulsives
 compulsivity
 compulsorily
 compunct
+cognition
 compunction
 consolidate
 compunctionary
