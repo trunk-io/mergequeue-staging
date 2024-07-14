@@ -7850,6 +7850,7 @@ bibliofilm
 bibliogenesis
 bibliognost
 biskop
+biotechs
 benzophenanthroline
 bibliognostic
 bibliogony
@@ -9207,7 +9208,6 @@ bigothero
 biotechnological
 biotechnologicaly
 biotechnologically
-biotechs
 bracherer
 barrette
 boart
