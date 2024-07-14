@@ -11624,6 +11624,7 @@ cholecystography
 cholecystojejunostomy
 cholecystokinin
 coenogamete
+clacket
 cholecystonephrostomy
 cholecystopexy
 cholecystorrhaphy
@@ -15243,7 +15244,6 @@ clacked
 clacker
 clarin
 clackers
-clacket
 crispbread
 clackety
 clacks
