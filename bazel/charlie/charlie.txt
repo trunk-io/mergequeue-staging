@@ -7960,6 +7960,7 @@ cestraciontes
 cestraciontidae
 cestraction
 cestrian
+crossed
 cestui
 cestuy
 cestus
@@ -29862,7 +29863,6 @@ crosscutter
 confutative
 crosscutting
 crosse
-crossed
 crosser
 crossest
 crossette
