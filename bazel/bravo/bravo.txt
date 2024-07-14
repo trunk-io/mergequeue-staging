@@ -1208,7 +1208,6 @@ bakalei
 bombyx
 bakeboard
 baked
-bakehouse
 brachycrany
 ballflower
 bakehouses
@@ -17780,6 +17779,7 @@ burling
 berain
 burlington
 britzska
+bakehouse
 burma
 burman
 burmannia
