@@ -11569,7 +11569,6 @@ evibrate
 ectopias
 enshrinement
 evicke
-evicted
 evictee
 evictees
 eviction
@@ -11663,6 +11662,7 @@ evocators
 evodia
 epanorthotic
 emendated
+evicted
 evoe
 eleut
 evokers
