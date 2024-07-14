@@ -2420,7 +2420,6 @@ electrogild
 erd
 electrogilding
 electrogram
-electrograph
 electrometrically
 endosarc
 electrography
@@ -8092,6 +8091,7 @@ epipleural
 exceeds
 epiploce
 epiploic
+electrograph
 epiploitis
 epiploon
 epiplopexy
