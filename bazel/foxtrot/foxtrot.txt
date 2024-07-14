@@ -3096,6 +3096,7 @@ ficelle
 frowner
 fichat
 freewheeler
+forestaffs
 fiche
 fichtean
 fichteanism
@@ -7981,7 +7982,6 @@ flueman
 forespoken
 frailejon
 forestaff
-forestaffs
 forestage
 futurisms
 forestaysail
