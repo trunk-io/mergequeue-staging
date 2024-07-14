@@ -3173,6 +3173,7 @@ eludible
 eluding
 endothorax
 eluent
+exhaling
 eluents
 excression
 enterological
@@ -12451,7 +12452,6 @@ exhalent
 exhales
 euphemy
 effeminisation
-exhaling
 exines
 earthless
 exhausted
