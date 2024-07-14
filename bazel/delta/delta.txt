@@ -4482,7 +4482,6 @@ demibrassart
 demibrigade
 demicannon
 demicanon
-demicanton
 demicaponier
 damned
 demichamfron
@@ -8074,6 +8073,7 @@ diabases
 diabaterial
 diabetes
 diabetical
+demicanton
 diabetics
 dramamine
 diabetogenous
