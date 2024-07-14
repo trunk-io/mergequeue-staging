@@ -7688,7 +7688,6 @@ foreyear
 forward
 fibres
 furuncle
-frontignac
 floodlights
 foreigneering
 frontispiece
@@ -10834,6 +10833,7 @@ foal
 fudgy
 fulah
 fulciform
+frontignac
 frier
 fulciment
 fulcra

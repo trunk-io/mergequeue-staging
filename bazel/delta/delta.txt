@@ -2111,6 +2111,7 @@ decarchy
 decarnate
 decarnated
 decart
+description
 dislodgement
 debiteuse
 drilled
@@ -15763,7 +15764,6 @@ dormered
 dormers
 dormette
 dormeuse
-description
 dormy
 dunlap
 dormice
