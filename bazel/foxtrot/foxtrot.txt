@@ -2709,7 +2709,6 @@ feston
 fracturableness
 festoon
 festooneries
-fathometer
 federalism
 flutemouth
 fastigate
@@ -6777,6 +6776,7 @@ foyboat
 foyer
 fetterlock
 foyers
+fathometer
 foil
 foiling
 fauld
