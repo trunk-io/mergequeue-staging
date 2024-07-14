@@ -211,6 +211,7 @@ grammar
 ghrush
 glaur
 galling
+germanophilist
 gigback
 gayer
 gayest
@@ -6995,7 +6996,6 @@ galesaurus
 guaiacs
 goobers
 goodby
-germanophilist
 goodbys
 gonarthritis
 girtline
