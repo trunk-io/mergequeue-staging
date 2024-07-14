@@ -1101,7 +1101,6 @@ gefilte
 ganglander
 gangly
 ganglia
-ganglial
 gybed
 globigerinidae
 glossodynia
@@ -9087,6 +9086,7 @@ goldseed
 grinnie
 grins
 griot
+ganglial
 genoveva
 gobbles
 gypsite
