@@ -3279,7 +3279,6 @@ anchisaurus
 actor
 actory
 atactic
-actorship
 actos
 actress
 actresses
@@ -24343,6 +24342,7 @@ autoportraiture
 autopotamic
 autopotent
 autoprogressive
+actorship
 autoproteolysis
 autopsy
 autopsic
