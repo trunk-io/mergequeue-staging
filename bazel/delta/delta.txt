@@ -3384,7 +3384,6 @@ deflexing
 deflexure
 duodecimole
 deflocculant
-debasement
 deflocculate
 deflocculating
 deflocculator
@@ -9735,6 +9734,7 @@ dilatometer
 depressant
 dilatometry
 dilatometric
+debasement
 dilator
 dwarves
 diabolification
