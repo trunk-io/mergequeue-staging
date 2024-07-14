@@ -755,7 +755,6 @@ greasehorn
 goniatite
 galoch
 galoots
-griller
 gastroatonia
 grizzliness
 greywacke
@@ -1587,6 +1586,7 @@ gashouses
 groundskeeping
 gasification
 gasified
+griller
 gasifier
 gasifiers
 gasiform
