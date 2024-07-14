@@ -3200,6 +3200,7 @@ bashawism
 bashawship
 basher
 bashers
+bordered
 bashes
 bashful
 barbarian
@@ -12956,7 +12957,6 @@ border
 bo
 bordereau
 bordereaux
-bordered
 booklet
 borderer
 borderers

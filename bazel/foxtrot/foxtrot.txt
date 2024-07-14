@@ -3154,6 +3154,7 @@ fictionistic
 fictious
 fouls
 flanked
+fining
 folkloric
 fictive
 ficula
@@ -6657,7 +6658,6 @@ flanken
 fumage
 focoids
 flyflap
-fining
 focometry
 focsle
 focused
