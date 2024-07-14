@@ -4915,7 +4915,6 @@ flang
 flanged
 flangeless
 flangers
-flangeway
 flankard
 flanker
 flankers
@@ -8700,6 +8699,7 @@ filed
 forts
 fortuitism
 fortuitist
+flangeway
 fortuitous
 fortuitously
 fortuitus
