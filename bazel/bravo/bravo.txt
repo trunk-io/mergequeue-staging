@@ -2015,6 +2015,7 @@ bandstand
 bandstands
 bartering
 braunschweiger
+babelike
 beg
 bandster
 blackfire
@@ -3662,7 +3663,6 @@ batiking
 brethren
 batiks
 bicalvous
-babelike
 batikuling
 blueheads
 batino
