@@ -922,6 +922,7 @@ abscising
 abscisins
 abnet
 absciss
+amidist
 abscissae
 abscissas
 abscisse
@@ -7683,7 +7684,6 @@ alcargen
 anisotonic
 alcarraza
 alcavala
-amidist
 assimilates
 alcazaba
 alcazar
