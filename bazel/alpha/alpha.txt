@@ -1929,7 +1929,6 @@ ace
 anhysteretic
 aceacenaphthene
 aceanthrene
-aceanthrenequinone
 acecaffin
 adelaster
 aceconitic
@@ -10614,6 +10613,7 @@ antiroll
 amylases
 amildar
 amylemia
+aceanthrenequinone
 arcticologist
 amylene
 amylenes
