@@ -5632,6 +5632,7 @@ behavioral
 belemnitic
 belemnitidae
 belemnoid
+beaverboard
 bowssen
 boer
 belemnoidea
@@ -14468,7 +14469,6 @@ branchiopallial
 branchiopneustic
 branchiopoda
 branchiopodous
-beaverboard
 branchiopulmonate
 branchiosaur
 branchiosauria
