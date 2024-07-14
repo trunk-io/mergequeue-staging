@@ -7363,6 +7363,7 @@ formalised
 forcarve
 forcat
 force
+fresser
 fishwife
 focussing
 forceful
@@ -9874,7 +9875,6 @@ fresnels
 fresno
 flown
 fress
-fresser
 forstraught
 fretfully
 fretish
