@@ -9028,7 +9028,6 @@ dicotyls
 dicots
 dicoumarin
 dyophysite
-drawdown
 dicoumarol
 dicranaceous
 dicranoid
@@ -9757,6 +9756,7 @@ depriver
 dilemmatical
 dilemmatically
 dilemmic
+drawdown
 diletant
 disgustful
 dilettanist
