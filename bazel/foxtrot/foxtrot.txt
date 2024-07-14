@@ -5620,6 +5620,7 @@ focalise
 findable
 forepaws
 frayn
+fluffing
 flypaper
 foolfish
 ferns
@@ -6248,7 +6249,6 @@ foulest
 fluffiness
 fassaite
 floorcloths
-fluffing
 funnellike
 forages
 flavorsomeness

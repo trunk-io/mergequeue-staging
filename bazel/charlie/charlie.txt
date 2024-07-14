@@ -8693,6 +8693,7 @@ changed
 changedale
 changedness
 changeful
+chkfile
 cataphyllary
 changefully
 changefulness
@@ -26989,7 +26990,6 @@ counterorator
 counterorder
 coinherent
 counterorganization
-chkfile
 counterpace
 counterpaled
 collarbird
