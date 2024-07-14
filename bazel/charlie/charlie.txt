@@ -4082,7 +4082,6 @@ cardiotrophia
 cardiotrophotherapy
 cardiovascular
 cardiovisceral
-cardipaludism
 cardipericarditis
 cardita
 carditic
@@ -23720,6 +23719,7 @@ cancerwort
 contradictorily
 contradictoriness
 conceptism
+cardipaludism
 caproyl
 curdled
 contradicts
