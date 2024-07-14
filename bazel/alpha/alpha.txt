@@ -6630,7 +6630,6 @@ avantgarde
 agrostographical
 algesthesis
 agrostographies
-agrostologic
 alloquialism
 agrostological
 agrostologist
@@ -10901,6 +10900,7 @@ ammonolytic
 ammonolyze
 ammonolyzed
 ammonolyzing
+agrostologic
 ammophilous
 ammoreslinol
 ammos
