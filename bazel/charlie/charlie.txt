@@ -16288,7 +16288,6 @@ coak
 clines
 clinged
 clinger
-clingers
 clingfish
 clingfishes
 clingier
@@ -29176,6 +29175,7 @@ circulate
 crioceratite
 crioceratitic
 crioceris
+clingers
 chicken
 cryoconite
 cryogeny
