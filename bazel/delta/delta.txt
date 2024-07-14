@@ -7329,7 +7329,6 @@ detonates
 definition
 detonating
 detonation
-detonational
 detonations
 detonative
 detonize
@@ -14154,6 +14153,7 @@ disvaluation
 dungiest
 disvalued
 doses
+detonational
 disvalues
 disvaluing
 discographically

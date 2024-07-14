@@ -7252,7 +7252,6 @@ gorgonin
 gorgonise
 gorgonising
 gorgonizing
-gravity
 gonzalo
 gorgosaurus
 gorhen
@@ -8805,6 +8804,7 @@ greycoat
 glottis
 gehenna
 glaived
+gravity
 greyest
 glycocin
 glyoxilin
