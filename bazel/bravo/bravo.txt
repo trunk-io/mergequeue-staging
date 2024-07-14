@@ -1784,6 +1784,7 @@ balsamodendron
 balsamorrhiza
 bourgs
 balsamous
+blackcap
 balsamroot
 balsams
 balsamum
@@ -10095,7 +10096,6 @@ blackbuck
 blackbutt
 blaeness
 boxer
-blackcap
 bruise
 belayer
 blackcoat
