@@ -23076,7 +23076,6 @@ consortitia
 consortium
 consortiums
 consorts
-consortship
 consoude
 consound
 conspecies
@@ -30687,6 +30686,7 @@ cuisse
 cuisten
 coeval
 cuit
+consortship
 cuitlateco
 cuitle
 cuitled
