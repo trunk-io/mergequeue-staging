@@ -12949,7 +12949,6 @@ angiosperms
 angiostenosis
 angiostomy
 angiotasis
-angiotelectasia
 angiotenosis
 angiotensin
 angiotensinase
@@ -13437,6 +13436,7 @@ anisokonia
 angiospermatous
 anisole
 anisoles
+angiotelectasia
 anisoleucocytosis
 anisomeles
 asyllabical
