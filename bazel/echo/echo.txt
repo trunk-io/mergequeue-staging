@@ -2067,7 +2067,6 @@ explodable
 estates
 elaic
 entrecotes
-economiser
 elaidate
 elaidic
 excludability
@@ -2381,6 +2380,7 @@ electrodialysis
 electrodialitic
 extracivic
 endaseh
+economiser
 electrodialyze
 electrodynamic
 electrodynamical
