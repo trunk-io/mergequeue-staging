@@ -6222,6 +6222,7 @@ exogonium
 enqueue
 enqueued
 enqueues
+evangelary
 enquire
 enquired
 enquiries
@@ -13077,7 +13078,6 @@ extrapleural
 eeliest
 espier
 experiment
-evangelary
 experimental
 essentia
 experimentalism
