@@ -3434,7 +3434,6 @@ figurial
 flushy
 fieldstone
 figurine
-fenester
 figurist
 formalins
 figurize
@@ -11307,6 +11306,7 @@ furanes
 furanoid
 furanose
 flavanthrone
+fenester
 furanoses
 flyable
 furazolidone
