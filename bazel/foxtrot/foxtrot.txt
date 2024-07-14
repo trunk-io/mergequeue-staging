@@ -2271,6 +2271,7 @@ following
 fendering
 faquir
 fenderless
+forcible
 fenders
 fendillation
 fending
@@ -7385,7 +7386,6 @@ forcedly
 forcy
 forcibility
 frictionless
-forcible
 frillier
 forcibly
 feuilletonist
