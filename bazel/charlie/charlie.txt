@@ -6689,6 +6689,7 @@ compulsory
 celestify
 celestina
 celestinian
+cryptographer
 celestite
 celestitude
 celeusma
@@ -29331,7 +29332,6 @@ craggedly
 cryptograms
 cryptograph
 cryptographal
-cryptographer
 cryptography
 chlorophyll
 cryptographic

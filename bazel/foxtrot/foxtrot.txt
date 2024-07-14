@@ -2111,7 +2111,6 @@ friszka
 forebear
 fellowred
 fellows
-fellowshiping
 fellowshipping
 fells
 finger
@@ -9213,6 +9212,7 @@ foundationless
 fallibilism
 frenal
 fragging
+fellowshiping
 fraggings
 fragile
 firetraps
