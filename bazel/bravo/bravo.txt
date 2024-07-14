@@ -4856,7 +4856,6 @@ beduncing
 bedway
 bedways
 bogies
-bedwarf
 bedwarfed
 bedwarfing
 bedwarfs
@@ -13403,6 +13402,7 @@ bottler
 bifront
 bottlers
 bottles
+bedwarf
 bottlesful
 bottlestone
 bottling
