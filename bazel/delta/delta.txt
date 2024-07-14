@@ -3170,6 +3170,7 @@ darg
 decorament
 defectology
 defector
+dynastic
 defectors
 defectoscope
 defects
@@ -10104,7 +10105,6 @@ dynastes
 dartrose
 dynasty
 dossel
-dynastic
 disengage
 dynastically
 disadvantage
