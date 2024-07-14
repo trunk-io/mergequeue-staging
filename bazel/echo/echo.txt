@@ -11285,7 +11285,6 @@ evacue
 eugenol
 evacuee
 extinguished
-evacuees
 evadable
 entoolitic
 enserfed
@@ -13039,6 +13038,7 @@ exurbias
 enthean
 evocator
 elegits
+evacuees
 expenditure
 enfonced
 expends
