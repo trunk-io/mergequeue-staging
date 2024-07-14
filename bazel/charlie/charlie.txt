@@ -11331,6 +11331,7 @@ cantoned
 chlorination
 chlorinator
 chlorinators
+chokes
 chlorines
 credere
 chlorinity
@@ -20016,7 +20017,6 @@ commandry
 commandrie
 circue
 clunk
-chokes
 crossbred
 commandries
 commands
