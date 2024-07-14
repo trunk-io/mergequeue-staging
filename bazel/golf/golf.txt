@@ -944,7 +944,6 @@ gametangium
 gotha
 gametes
 gametocyst
-geison
 gametogenesis
 gametogeny
 gametogonium
@@ -9463,6 +9462,7 @@ gemological
 greyflies
 galactolytic
 groundswell
+geison
 garde
 gorging
 groundwave
