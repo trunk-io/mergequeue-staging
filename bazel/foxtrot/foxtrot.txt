@@ -7222,7 +7222,6 @@ footstock
 functionating
 footstone
 footstools
-footway
 frontal
 footways
 flannelflower
@@ -11004,6 +11003,7 @@ fumatorium
 fumatoriums
 fumble
 fixature
+footway
 fumbled
 feceris
 flashy
