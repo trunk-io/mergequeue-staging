@@ -2980,6 +2980,7 @@ acromiohyoid
 arctium
 areometer
 acromiohumeral
+aghan
 acromion
 avg
 acromioscapular
@@ -7259,7 +7260,6 @@ akin
 akindle
 akinesia
 akinesic
-aghan
 appet
 akinete
 aking
