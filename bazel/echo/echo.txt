@@ -5447,7 +5447,6 @@ endpleasure
 endromididae
 endrudge
 electroballistic
-endsheet
 endship
 edgier
 erose
@@ -6291,6 +6290,7 @@ elfin
 enrobes
 enrol
 enroll
+endsheet
 errantness
 enrolle
 ergots
