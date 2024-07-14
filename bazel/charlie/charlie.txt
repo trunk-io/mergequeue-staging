@@ -3478,7 +3478,6 @@ carack
 caracks
 caracoa
 caracole
-caracoled
 caracoler
 caracoles
 caracoling
@@ -20555,6 +20554,7 @@ compassionating
 compassionless
 compassive
 compassless
+caracoled
 columbotitanate
 compassment
 compatibilities
