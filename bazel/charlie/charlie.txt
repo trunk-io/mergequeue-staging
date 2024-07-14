@@ -18512,6 +18512,7 @@ chemiotaxis
 cohitre
 coho
 comebacker
+compaction
 contingencies
 cohoba
 cohobated
@@ -20459,7 +20460,6 @@ compactible
 compactify
 compactile
 compacting
-compaction
 compactions
 compactly
 compactness
