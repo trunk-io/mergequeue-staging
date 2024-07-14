@@ -10221,6 +10221,7 @@ braider
 blackweed
 blackwork
 blackwort
+boomerangs
 blad
 bladder
 bladderless
@@ -12745,7 +12746,6 @@ boomboat
 boombox
 boomdas
 barehanded
-boomerangs
 boomy
 boomier
 brewst
