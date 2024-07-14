@@ -7288,7 +7288,6 @@ dragonne
 driveboat
 detesters
 detests
-dethyroidism
 dethronable
 deuterostome
 dissipated
@@ -12798,6 +12797,7 @@ dismisses
 dismissible
 dismissing
 dismissingly
+dethyroidism
 dismission
 dodrantal
 dismissive

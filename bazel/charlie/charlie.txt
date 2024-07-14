@@ -2647,6 +2647,7 @@ cannula
 cannular
 cannulas
 cannulated
+carrycot
 cannulating
 cannulation
 canoe
@@ -4736,7 +4737,6 @@ carryalls
 continuous
 concessiveness
 carrick
-carrycot
 contrastimulation
 carried
 carryed
