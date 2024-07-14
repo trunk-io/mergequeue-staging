@@ -936,7 +936,6 @@ ermit
 eleve
 ectorganism
 ectorhinal
-ectosarc
 excavated
 ectoskeleton
 eggcupful
@@ -9154,6 +9153,7 @@ erythromelalgia
 erythromycin
 electionary
 erythron
+ectosarc
 erythroneocytosis
 erythronium
 erythropenia
