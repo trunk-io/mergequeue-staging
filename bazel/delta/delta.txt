@@ -3691,7 +3691,6 @@ dehydroascorbic
 demonstrating
 dehydrochlorinase
 dehydrochlorinate
-dehydrochlorination
 dehydrocorydaline
 dehydrocorticosterone
 dehydroffrozen
@@ -16287,6 +16286,7 @@ downbye
 downcastness
 distaff
 downcasts
+dehydrochlorination
 downcome
 downcomes
 dee

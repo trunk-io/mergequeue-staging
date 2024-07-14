@@ -11524,6 +11524,7 @@ choes
 choffer
 curtseyed
 choga
+callicebus
 chogak
 coexclusive
 chogset
@@ -27081,7 +27082,6 @@ counterquip
 counterradiation
 counterraid
 counterraising
-callicebus
 counterrampant
 counterrate
 counterreason
