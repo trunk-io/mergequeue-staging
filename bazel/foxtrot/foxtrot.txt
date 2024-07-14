@@ -888,7 +888,6 @@ ferries
 forebodies
 firefangs
 fanwe
-fantoms
 furthy
 fv
 flincher
@@ -9444,6 +9443,7 @@ frater
 frateries
 fraternal
 fraternalism
+fantoms
 fulhams
 fictionizing
 fraternalist
