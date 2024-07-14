@@ -19186,6 +19186,7 @@ archsteward
 archt
 archtempter
 archthief
+antimicrobic
 archtyrant
 archtraitor
 archtreasurer
@@ -20684,7 +20685,6 @@ aethered
 arthrospore
 annuitant
 arthrosporic
-antimicrobic
 anteprostatic
 algid
 arthrosteitis
