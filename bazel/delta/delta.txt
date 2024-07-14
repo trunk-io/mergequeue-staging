@@ -5885,7 +5885,6 @@ depravingly
 depravities
 deprecated
 demythologise
-deprecates
 deprecating
 deprecation
 deprecations
@@ -6806,6 +6805,7 @@ desmitis
 desmodactyli
 desmodont
 desmodontidae
+deprecates
 desmodus
 desmognathism
 dryworker
