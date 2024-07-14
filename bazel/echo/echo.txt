@@ -2136,7 +2136,6 @@ elasticize
 elasticized
 elasticizing
 elasticness
-elasticum
 elastin
 encompassed
 elastivity
@@ -11445,6 +11444,7 @@ evenlong
 evenminded
 ewers
 evenmindedness
+elasticum
 evenness
 embellishments
 evennesses
