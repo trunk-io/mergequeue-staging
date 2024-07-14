@@ -8351,7 +8351,6 @@ dialists
 diapasm
 dialytic
 directories
-dysbarism
 dossels
 dacryops
 delimitating
@@ -9837,6 +9836,7 @@ dilutes
 dumbness
 dilution
 dunderfunk
+dysbarism
 duetted
 dilutive
 darndests
