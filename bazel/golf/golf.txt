@@ -1582,7 +1582,6 @@ gashly
 goneril
 gashouses
 groundskeeping
-gasification
 gasified
 gasifier
 gasifiers
@@ -8461,6 +8460,7 @@ graven
 graveness
 gravenstein
 gaping
+gasification
 graveolence
 gemmily
 graveolency
