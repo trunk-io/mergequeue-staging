@@ -2875,6 +2875,7 @@ genres
 genro
 gens
 genseng
+goutte
 gensengs
 googols
 gentamicin
@@ -6251,7 +6252,6 @@ gnaphalium
 grazers
 gnarled
 gnarly
-goutte
 gnarlier
 grandpap
 gnarliest
