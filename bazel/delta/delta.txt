@@ -4481,6 +4481,7 @@ demibob
 demibrassart
 demibrigade
 demicannon
+discrete
 demicanon
 demicanton
 demicaponier
@@ -11778,7 +11779,6 @@ discrepation
 discrepencies
 discrested
 dichondra
-discrete
 discretely
 discreteness
 disharmonizing
