@@ -5720,7 +5720,6 @@ episcias
 engystomatidae
 engjateigur
 endyma
-englacial
 endellionite
 englacially
 endues
@@ -13440,6 +13439,7 @@ engin
 exsanguinating
 encounter
 eggs
+englacial
 eviscerator
 evergreenite
 etruscologist

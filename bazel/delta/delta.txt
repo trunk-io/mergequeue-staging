@@ -3113,6 +3113,7 @@ defatted
 defatting
 default
 deterministically
+descale
 defaulted
 doryphorus
 defaulters
@@ -6488,7 +6489,6 @@ desaurin
 dedicatory
 diabolarch
 desc
-descale
 descaling
 descamisado
 deranged
