@@ -6228,7 +6228,6 @@ felones
 fluentness
 fervour
 fluer
-flueric
 fissileness
 flowers
 febrifuges
@@ -10236,6 +10235,7 @@ formerness
 frizzers
 finitary
 frizzes
+flueric
 finning
 flattish
 fomented
