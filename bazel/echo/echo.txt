@@ -9914,7 +9914,6 @@ establishment
 establishmentarian
 explants
 establishmentarianism
-establishmentism
 establishments
 establismentarianism
 estadel
@@ -10567,6 +10566,7 @@ ecotypes
 etymologies
 etymologisable
 etymologised
+establishmentism
 equators
 execrate
 extraessentially

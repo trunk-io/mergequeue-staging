@@ -6321,7 +6321,6 @@ dermatotropic
 dermatozoon
 dermatozoonosis
 dermatozzoa
-dependability
 dermatrophia
 dermenchysis
 dermestes
@@ -10494,6 +10493,7 @@ diphtheritic
 diphtheroid
 devadasi
 demifarthing
+dependability
 diphtherotoxin
 diphthong
 diphthongalize
