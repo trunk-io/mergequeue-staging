@@ -1698,7 +1698,6 @@ fimbles
 fusillade
 feared
 firy
-fearedly
 feelable
 fearer
 fearers
@@ -10998,6 +10997,7 @@ fumarole
 forefatherly
 fumatoria
 fumatorium
+fearedly
 fumatoriums
 fumble
 fixature
