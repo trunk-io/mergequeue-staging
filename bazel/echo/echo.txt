@@ -3639,7 +3639,6 @@ escribientes
 embreathe
 expressio
 embrica
-embryectomy
 embryectomies
 embright
 embrighten
@@ -9698,6 +9697,7 @@ explicans
 emerges
 esophagi
 esophagism
+embryectomy
 ers
 esophagitis
 eurythmy
