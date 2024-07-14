@@ -2191,6 +2191,7 @@ banqueted
 banqueting
 banquets
 ballote
+bedstraw
 banquo
 bans
 bansalague
@@ -4822,7 +4823,6 @@ balopticon
 brecciating
 bedsteads
 bedstock
-bedstraw
 batwing
 beneighbored
 biliteral

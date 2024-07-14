@@ -4571,7 +4571,6 @@ encephalometer
 endocardiac
 encephalomyelitic
 ethylamine
-encephalomyelitis
 escapements
 entrepreneurial
 encephalomyocarditis
@@ -9691,6 +9690,7 @@ esoneural
 esopgi
 esophagalgia
 esophageal
+encephalomyelitis
 esophagean
 esophagectasia
 esophagectomy
