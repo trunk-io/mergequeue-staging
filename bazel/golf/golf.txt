@@ -329,6 +329,7 @@ galactohemia
 galactoid
 gametophyll
 glebes
+graduating
 goth
 galactolipin
 galactometry
@@ -10202,7 +10203,6 @@ gastrular
 guild
 guilder
 guilders
-graduating
 guildhall
 guildic
 giboia
