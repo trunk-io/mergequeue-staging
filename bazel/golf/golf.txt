@@ -4845,7 +4845,6 @@ gonostyle
 golliwogg
 gyrodactylidae
 gyrodactylus
-gastrocoele
 gastrochaena
 gyrogonite
 graffias
@@ -10594,6 +10593,7 @@ gretchen
 gabeler
 gunwales
 gunwhale
+gastrocoele
 gunz
 glood
 gramashes
