@@ -516,7 +516,6 @@ dali
 dispurvey
 dalibarda
 dalis
-dallack
 dallan
 dallas
 dalle
@@ -3174,6 +3173,7 @@ defectors
 defectoscope
 defects
 defectum
+dallack
 defedation
 defeise
 defeit
