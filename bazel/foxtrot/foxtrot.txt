@@ -5158,6 +5158,7 @@ forth
 fellas
 flavedo
 flavedos
+frenchification
 fiscals
 flaveria
 flavia
@@ -9765,7 +9766,6 @@ festival
 flatterable
 frenches
 frenchify
-frenchification
 flubbing
 falcer
 flourless
