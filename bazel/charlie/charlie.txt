@@ -4869,7 +4869,6 @@ cartilaginification
 cartilaginoid
 carting
 cartisane
-cartist
 cartload
 cartloads
 cartmaker
@@ -19406,6 +19405,7 @@ colophane
 colophany
 colophene
 cloudland
+cartist
 colophon
 colophonate
 colophony
