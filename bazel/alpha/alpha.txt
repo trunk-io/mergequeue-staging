@@ -24232,7 +24232,6 @@ automatized
 automatizes
 automaton
 automatonlike
-automatons
 automatonta
 aviators
 automatous
@@ -24690,6 +24689,7 @@ avertable
 abruptio
 averter
 avertible
+automatons
 avertiment
 averting
 avertive
