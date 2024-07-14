@@ -4060,7 +4060,6 @@ cardiorrheuma
 cardiorrhexis
 cardioschisis
 cardiosclerosis
-cardioscope
 cardiosymphysis
 cardiospasm
 catapan
@@ -7896,6 +7895,7 @@ cesar
 cesare
 cesarean
 condolers
+cardioscope
 cesareans
 cesarevitch
 cesarian
