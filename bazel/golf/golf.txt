@@ -536,7 +536,6 @@ gallah
 gallamine
 gombo
 gallantize
-gallantry
 gallants
 gallates
 gallbladders
@@ -8635,6 +8634,7 @@ greeing
 greek
 group
 greekdom
+gallantry
 greenfish
 greekery
 greekess
