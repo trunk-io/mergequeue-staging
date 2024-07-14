@@ -802,6 +802,7 @@ eiffel
 eddo
 ecrase
 ecraseurs
+endangerer
 ecrasite
 ecrevisse
 evolutionistically
@@ -4937,7 +4938,6 @@ endangeitis
 endanger
 embalmers
 endangered
-endangerer
 endangering
 endangerment
 exululate
