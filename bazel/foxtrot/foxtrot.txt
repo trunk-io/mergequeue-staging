@@ -1065,7 +1065,6 @@ foresights
 five
 farmership
 farawayness
-floribunda
 farmyard
 fluffed
 flytail
@@ -2127,6 +2126,7 @@ forests
 foreshortening
 facette
 fates
+floribunda
 felonies
 felonious
 feloniously
