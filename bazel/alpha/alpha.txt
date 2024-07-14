@@ -1827,6 +1827,7 @@ accroides
 accruable
 accrual
 accruals
+affectible
 accrue
 accrued
 accruement
@@ -5336,7 +5337,6 @@ affectedness
 affecter
 affecters
 affectibility
-affectible
 affecting
 antigen
 affection
