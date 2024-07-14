@@ -124,7 +124,6 @@ cablecast
 catholici
 cabled
 cablegrams
-cablelaid
 cableless
 cablelike
 cableman
@@ -3194,6 +3193,7 @@ caponization
 cloakless
 caponize
 caponizer
+cablelaid
 caponizes
 caponniere
 collectiveness
