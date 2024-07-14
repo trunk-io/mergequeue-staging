@@ -2122,7 +2122,6 @@ acetylmethylcarbinol
 acetylperoxide
 acetylphenylhydrazine
 acetylphenol
-alluring
 aporose
 acetyls
 acetylsalicylic
@@ -20317,6 +20316,7 @@ arrivals
 arrive
 arrived
 arrivederla
+alluring
 arrivers
 ambergrease
 alectoromachy
