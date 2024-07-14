@@ -10384,6 +10384,7 @@ ethyls
 ethylsulphuric
 ethylthioethane
 eupepticity
+enwall
 extensity
 ethylthioether
 ethinamate
@@ -13058,7 +13059,6 @@ embreastment
 excogitated
 expergefaction
 ebonize
-enwall
 experience
 epizoic
 enkindled
