@@ -20017,6 +20017,7 @@ commandrie
 circue
 clunk
 chokes
+crucificial
 crossbred
 commandries
 commands
@@ -30119,7 +30120,6 @@ crucifer
 cruciferous
 crucifers
 crucify
-crucificial
 crucifier
 crucifies
 crucifyfied
