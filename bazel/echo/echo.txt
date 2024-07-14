@@ -6581,7 +6581,6 @@ enterer
 enterfeat
 entergogenic
 enteria
-enseam
 enteric
 exolemma
 entermise
@@ -9838,6 +9837,7 @@ esquires
 esquisse
 esrogim
 esrogs
+enseam
 essay
 essayed
 essayer
