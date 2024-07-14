@@ -3944,6 +3944,7 @@ bdellometer
 bdellostoma
 bagmen
 bdellostomatidae
+bespatter
 bdellostomidae
 bdellotomy
 bdelloura
@@ -13873,7 +13874,6 @@ boxiness
 boxing
 boxings
 boxkeeper
-bespatter
 boxmaker
 boxmaking
 boxman

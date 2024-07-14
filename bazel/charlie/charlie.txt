@@ -18457,7 +18457,6 @@ cohabitation
 cohabitations
 cohabited
 cohabiter
-collational
 cohabiting
 cohabits
 cohanim
@@ -29726,6 +29725,7 @@ cronie
 claver
 cronied
 cronies
+collational
 cronying
 cronyism
 cronyisms
