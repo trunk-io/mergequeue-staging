@@ -3732,6 +3732,7 @@ fils
 fletching
 flakelet
 farmy
+freakiness
 ferruginate
 figurings
 fishpond
@@ -9511,7 +9512,6 @@ favouritism
 freakier
 facetious
 fairground
-freakiness
 fourpence
 freaking
 freakishly
