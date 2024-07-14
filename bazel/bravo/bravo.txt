@@ -5720,7 +5720,6 @@ belittler
 belittlers
 bowieful
 belittling
-belive
 bell
 bella
 backwood
@@ -7355,6 +7354,7 @@ bethink
 barquentine
 bethlehem
 barpost
+belive
 bethorn
 bethorned
 bettongia
