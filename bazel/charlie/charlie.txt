@@ -9240,6 +9240,7 @@ chasings
 copyread
 chasm
 chasma
+cryptophyceae
 chasmal
 conidium
 chasmic
@@ -29366,7 +29367,6 @@ cryptonymous
 cryptopapist
 cryptoperthite
 cryptophagidae
-cryptophyceae
 cryptophytic
 cryptophthalmos
 cryptopyic
