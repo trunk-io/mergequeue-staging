@@ -1668,7 +1668,6 @@ gasteromycete
 guess
 gypsoplast
 geomorphologist
-gasterosteidae
 gasterosteiform
 gasifying
 grubstaked
@@ -2417,6 +2416,7 @@ gelders
 geldesprung
 gaseosity
 gelding
+gasterosteidae
 geldings
 gelds
 gelechia
