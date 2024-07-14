@@ -1728,6 +1728,7 @@ diallages
 drouk
 drumsticks
 deathtrap
+dullness
 deathtraps
 deathwards
 deathweed
@@ -18051,7 +18052,6 @@ daneworts
 dullish
 dullishly
 dullity
-dullness
 dullnesses
 dionise
 debatably
