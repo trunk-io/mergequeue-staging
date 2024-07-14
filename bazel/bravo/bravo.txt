@@ -3805,7 +3805,6 @@ blains
 backspang
 battu
 battue
-batlike
 battues
 battuta
 batholite
@@ -13455,6 +13454,7 @@ bothered
 boucle
 boucles
 bouderie
+batlike
 boudeuse
 badgerweed
 boudin
