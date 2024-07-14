@@ -67,7 +67,6 @@ bilabials
 babblishly
 bonsai
 babbool
-babbools
 bignonia
 boxhaul
 babe
@@ -3076,6 +3075,7 @@ barter
 bartered
 barterer
 barterers
+babbools
 bangia
 barters
 barth
