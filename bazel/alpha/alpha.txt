@@ -4159,7 +4159,6 @@ adenomatous
 admin
 adminicle
 adminicula
-adminicular
 adminiculate
 adminiculation
 administer
@@ -8472,6 +8471,7 @@ adoptionist
 aliturgic
 aliturgical
 antipodeans
+adminicular
 aliunde
 aliveness
 acknown
