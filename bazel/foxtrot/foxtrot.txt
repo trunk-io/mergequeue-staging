@@ -3039,7 +3039,6 @@ fibroin
 fibrointestinal
 faults
 falsum
-fimbrillate
 foyaite
 fibrolite
 formicative
@@ -4638,6 +4637,7 @@ flabbier
 flailing
 footwarmers
 flabbily
+fimbrillate
 fullbodied
 focuses
 flecnode
