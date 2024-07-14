@@ -2856,7 +2856,6 @@ coeligenous
 cantinas
 canting
 clairschach
-cantinier
 cantino
 cantion
 cantish
@@ -30637,6 +30636,7 @@ cuerpo
 cues
 cuesta
 cuestas
+cantinier
 cueva
 cervicobuccal
 credentialism

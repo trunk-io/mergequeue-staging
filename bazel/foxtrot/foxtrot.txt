@@ -1322,7 +1322,6 @@ fatalists
 fatality
 fatalities
 furrowless
-fatally
 fatalness
 friggle
 flawflower
@@ -6435,6 +6434,7 @@ fluorimeter
 fluorimetry
 fermila
 fanciest
+fatally
 fluorin
 fittingly
 fenestrate
