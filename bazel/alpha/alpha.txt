@@ -14600,7 +14600,6 @@ alarge
 anthranilate
 anthranilic
 anthranoyl
-anthranol
 anthranone
 anthraphenone
 anthrapyridine
@@ -22092,6 +22091,7 @@ asterospondylic
 anisodactyli
 asterospondylous
 asteroxylaceae
+anthranol
 asteroxylon
 asterozoa
 asters
