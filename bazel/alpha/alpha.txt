@@ -3769,7 +3769,6 @@ adenometritis
 adenomycosis
 adenomyoma
 adenomyxoma
-adenomyxosarcoma
 adenoncus
 adenoneural
 adenopathy
@@ -13976,6 +13975,7 @@ anorexics
 anorexies
 anorexigenic
 anorganism
+adenomyxosarcoma
 alcornoque
 anormal
 antrotomy
