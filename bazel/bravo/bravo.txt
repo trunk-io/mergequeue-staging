@@ -4044,7 +4044,6 @@ bealach
 besmirched
 beallach
 bulletproofed
-bealtared
 beam
 beamer
 beamful
@@ -6928,6 +6927,7 @@ beshell
 brontosauri
 beshield
 beshine
+bealtared
 budging
 beshiver
 beshivering
