@@ -4344,7 +4344,6 @@ gymnospermal
 gymnospermy
 gymnospermic
 gymnospermous
-gymnospore
 gavials
 gymnostomata
 goosander
@@ -4887,6 +4886,7 @@ gyroscope
 gyroscopes
 gyroscopic
 glutetei
+gymnospore
 gumboils
 gyroscopics
 gyrostabilized
