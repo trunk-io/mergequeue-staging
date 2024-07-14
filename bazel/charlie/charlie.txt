@@ -9324,7 +9324,6 @@ chathamites
 chati
 chatino
 chatoyance
-chatoyancy
 chatoyant
 chaton
 countesses
@@ -27175,6 +27174,7 @@ counterstrike
 coracopectoral
 counterstroke
 counterstruggle
+chatoyancy
 countersubject
 countersuit
 countersun
