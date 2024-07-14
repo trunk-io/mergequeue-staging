@@ -7073,6 +7073,7 @@ entrymen
 emmove
 entryways
 epidesmine
+extrusible
 enfoldings
 esophago
 electrodeless
@@ -14110,7 +14111,6 @@ extruders
 ensouls
 encephalolith
 extrudes
-extrusible
 edaphodont
 extrusile
 extrusion
