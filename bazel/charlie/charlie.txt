@@ -14879,7 +14879,6 @@ citycism
 citicorp
 cytidines
 citydom
-citied
 cities
 citify
 citification
@@ -25702,6 +25701,7 @@ correctness
 countertaste
 corrector
 correctrice
+citied
 corregidor
 corregidores
 consolute
