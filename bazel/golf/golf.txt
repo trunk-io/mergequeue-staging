@@ -65,7 +65,6 @@ greable
 gables
 gazet
 gablet
-gablewise
 generis
 gabling
 gabon
@@ -1872,6 +1871,7 @@ gastrospasm
 gastrostegal
 gastrostomies
 glucosan
+gablewise
 gastrostomus
 grapefruits
 glycidol
