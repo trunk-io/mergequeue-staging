@@ -8621,7 +8621,6 @@ fort
 fortake
 fortalice
 fortepiano
-filaze
 fortes
 fortescue
 flasket
@@ -10003,6 +10002,7 @@ freshman
 frigging
 fright
 frightened
+filaze
 filator
 frightener
 flourished
