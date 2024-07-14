@@ -4965,7 +4965,6 @@ demurest
 demurrage
 demurral
 defunctionalize
-demurrals
 demurrant
 demurrer
 demurrers
@@ -5007,6 +5006,7 @@ dissociate
 denaturalized
 doohinkey
 dramatizations
+demurrals
 denaturalizing
 diplospondylic
 denaturant
