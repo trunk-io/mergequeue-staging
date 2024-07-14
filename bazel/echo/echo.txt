@@ -4731,6 +4731,7 @@ encipherment
 enciphers
 encircle
 endorsing
+enduro
 encircled
 encirclements
 encircler
@@ -6765,7 +6766,6 @@ enthralment
 erotology
 enthrone
 enthronement
-enduro
 epipteric
 everard
 enthrong
