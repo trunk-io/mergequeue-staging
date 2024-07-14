@@ -4969,7 +4969,6 @@ aeried
 aerier
 aeries
 aerifaction
-aerify
 atrocity
 aerification
 aerified
@@ -18629,6 +18628,7 @@ arecaidin
 antanemic
 arca
 arcabucero
+aerify
 apophorometer
 arcacea
 arcade

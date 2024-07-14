@@ -3529,6 +3529,7 @@ fossores
 filestatus
 fanning
 float
+fascinery
 fabiform
 furaldehyde
 filet
@@ -10488,7 +10489,6 @@ forcet
 favose
 fantast
 fossorious
-fascinery
 frostwort
 frot
 froth
