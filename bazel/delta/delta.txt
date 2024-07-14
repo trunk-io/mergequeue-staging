@@ -8713,7 +8713,6 @@ diatoma
 diatomaceae
 diatomaceous
 diatomales
-dacoity
 diatomean
 diatomic
 diatomicity
@@ -15276,6 +15275,7 @@ doloriferous
 dolorific
 dolorifuge
 dolorimeter
+dacoity
 dolorimetrically
 deordination
 deinoceras
