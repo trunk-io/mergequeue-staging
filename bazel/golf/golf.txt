@@ -826,7 +826,6 @@ galvanotaxis
 gozell
 galvanotherapy
 galvanothermometer
-garni
 galvanotropism
 galvo
 giojoso
@@ -3634,6 +3633,7 @@ gestapos
 gestate
 gerontotherapies
 gestated
+garni
 gristy
 gestates
 gestating
