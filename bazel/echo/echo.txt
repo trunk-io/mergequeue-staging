@@ -9876,7 +9876,6 @@ essentialization
 euphrosyne
 essentialized
 essentially
-endamage
 essentialness
 endopericarditis
 essentiate
@@ -13633,6 +13632,7 @@ elixir
 extermination
 exterminator
 exterminators
+endamage
 exterminatress
 exterminatrix
 extermined
