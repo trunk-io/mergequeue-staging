@@ -5275,6 +5275,7 @@ beglide
 beglitter
 begloom
 begloomed
+bethumb
 berceau
 beglooming
 beglooms
@@ -7367,7 +7368,6 @@ bethrall
 bethreaten
 bethroot
 beths
-bethumb
 bethump
 bethumped
 bethumping
