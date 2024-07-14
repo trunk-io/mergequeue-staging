@@ -4575,7 +4575,6 @@ bedaubing
 bedaubs
 bedlike
 bedawee
-bockerel
 bridaler
 bedawn
 bedaze
@@ -8209,6 +8208,7 @@ bierkeller
 byerlite
 bierstube
 bierstuben
+bockerel
 bietle
 bemoaned
 byeworker
