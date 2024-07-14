@@ -443,7 +443,6 @@ cantlet
 cnidosis
 caddiced
 caddicefly
-caddices
 caddie
 caddied
 caddies
@@ -19835,6 +19834,7 @@ comd
 comdg
 comdia
 chatsome
+caddices
 comdr
 comdt
 come
