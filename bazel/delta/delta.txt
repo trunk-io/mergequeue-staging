@@ -1629,7 +1629,6 @@ deambulate
 deambulatories
 deamidase
 deamidate
-deamidation
 deamidization
 deamidize
 deaminase
@@ -1927,6 +1926,7 @@ debussing
 downligging
 debutante
 debutantes
+deamidation
 dragbar
 debutants
 dishpanful
