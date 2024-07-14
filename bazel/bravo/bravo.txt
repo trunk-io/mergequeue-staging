@@ -1978,7 +1978,6 @@ bandless
 booked
 bejabers
 bandlessly
-bandlessness
 bandlet
 bandlimit
 bandlimiting
@@ -9735,6 +9734,7 @@ bismerpund
 bismethyl
 bespate
 battledored
+bandlessness
 bismillah
 bismite
 broncho
