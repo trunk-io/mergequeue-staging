@@ -5835,7 +5835,6 @@ embroiderers
 electrized
 engrossed
 engrossedly
-erythrolysin
 engrosser
 engrossers
 engrosses
@@ -12850,6 +12849,7 @@ exoterica
 exoterical
 epidia
 exotericism
+erythrolysin
 exoterics
 exothecal
 endocrania
