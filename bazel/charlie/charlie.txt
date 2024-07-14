@@ -5031,7 +5031,6 @@ casebooks
 casebound
 calliphorid
 casebox
-calcinable
 cased
 casefies
 casefying
@@ -8131,6 +8130,7 @@ columbid
 chafery
 chafers
 chafes
+calcinable
 chafewax
 chafeweed
 copleased
