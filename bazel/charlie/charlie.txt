@@ -10343,6 +10343,7 @@ comandantes
 cladautoicous
 chicagoan
 chicagoans
+counteropposite
 chicayote
 chicalote
 claude
@@ -26986,7 +26987,6 @@ counterobligation
 counteroffer
 counteropening
 candiel
-counteropposite
 counterorator
 counterorder
 coinherent
