@@ -9192,7 +9192,6 @@ fratery
 fractuosity
 fractur
 fracturable
-fractural
 fractured
 fractures
 fracturing
@@ -11532,6 +11531,7 @@ flapperhood
 forgettery
 fathmur
 furzeling
+fractural
 furzetop
 furzy
 farandine
