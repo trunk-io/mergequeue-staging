@@ -3088,7 +3088,6 @@ elohist
 eloign
 externalizing
 eloigner
-eloigning
 eloin
 entrustment
 eloine
@@ -11971,6 +11970,7 @@ exceptions
 exterminating
 exceptious
 exceptiousness
+eloigning
 exceptive
 eyehole
 exceptiveness
