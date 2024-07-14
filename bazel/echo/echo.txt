@@ -3214,7 +3214,6 @@ epoptic
 ephrathite
 ewhow
 eluvivia
-erk
 elvan
 epileptical
 elvanite
@@ -6628,6 +6627,7 @@ etiotropically
 enteroischiocele
 echo
 enterokinase
+erk
 enterokinesia
 esurient
 enterolysis
