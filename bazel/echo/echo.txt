@@ -4041,7 +4041,6 @@ explorers
 empall
 enteradenological
 empanel
-empaneled
 enkolpia
 exies
 empaneling
@@ -7323,6 +7322,7 @@ extirpating
 eosines
 elbower
 elusion
+empaneled
 eosinlike
 enmeshments
 eosinoblast
