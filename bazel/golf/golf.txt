@@ -4527,7 +4527,6 @@ glutelins
 gays
 goidel
 ginglyform
-ginglymi
 ginglymoarthrodial
 ginglymodi
 ginglymoid
@@ -6207,6 +6206,7 @@ guttulae
 glutamate
 glutamates
 glutamic
+ginglymi
 genapped
 glutamine
 gamogony
