@@ -12816,7 +12816,6 @@ demarked
 devises
 dismortgaging
 dismount
-dismountable
 dismounted
 dismounting
 dismounts
@@ -18345,6 +18344,7 @@ duke
 duotriode
 duoviri
 dupability
+dismountable
 dupable
 decresc
 dupe
