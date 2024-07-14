@@ -1988,7 +1988,6 @@ duodecimfid
 decayers
 diarial
 decaying
-decayless
 decal
 decalcification
 decalcified
@@ -17758,6 +17757,7 @@ daman
 denshire
 duc
 ducal
+decayless
 ducally
 ducamara
 ducape
