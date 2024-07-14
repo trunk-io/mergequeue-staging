@@ -1120,7 +1120,6 @@ farrows
 farruca
 fanfaron
 farsalah
-farseeing
 farseeingness
 farseer
 farset
@@ -3934,6 +3933,7 @@ fingering
 fingerings
 fingerleaf
 fingerless
+farseeing
 fingerlet
 fleuret
 florescence
