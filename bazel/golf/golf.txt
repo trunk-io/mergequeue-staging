@@ -2051,7 +2051,6 @@ galactometer
 gavages
 gave
 geographer
-gavel
 gilia
 gaveler
 gosplan
@@ -6413,6 +6412,7 @@ gosther
 goaded
 grenades
 gawks
+gavel
 grammaticize
 goadlike
 goads
