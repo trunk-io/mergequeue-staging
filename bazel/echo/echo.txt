@@ -4606,6 +4606,7 @@ enchafe
 enchain
 esth
 enchained
+escalloped
 enchainements
 enchaining
 eluvia
@@ -9466,7 +9467,6 @@ escalin
 escalloniaceae
 escallop
 esseda
-escalloped
 equiponderation
 elixirs
 escalop
