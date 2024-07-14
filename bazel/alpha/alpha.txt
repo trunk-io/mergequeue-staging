@@ -4009,7 +4009,6 @@ amberiferous
 adjacently
 adjag
 astigmatometer
-adject
 adjection
 adjectional
 acrorhagus
@@ -4953,6 +4952,7 @@ aflush
 antisaloon
 aery
 aerial
+adject
 aerialist
 aerialists
 aeriality
