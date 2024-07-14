@@ -9996,7 +9996,6 @@ artilleryship
 amazeful
 amazer
 amazers
-accreditations
 aniseikonic
 amazes
 aceturic
@@ -24454,6 +24453,7 @@ autothaumaturgist
 autotherapy
 autothermy
 autotimer
+accreditations
 autotypes
 autotypy
 autotypic
