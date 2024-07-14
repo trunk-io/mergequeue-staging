@@ -546,6 +546,7 @@ backspins
 backsplice
 bladed
 backspliced
+bridler
 backsplicing
 backspringing
 backstab
@@ -8219,7 +8220,6 @@ bifacial
 brewster
 bifarious
 beadrolls
-bridler
 bifariously
 bifer
 beggable
