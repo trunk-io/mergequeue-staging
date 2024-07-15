@@ -5929,7 +5929,6 @@ agaphite
 arcadians
 agapornis
 agar
-agaric
 agaricaceae
 agaricaceous
 agaricales
@@ -25351,6 +25350,7 @@ azotometer
 azotorrhoea
 azotous
 azoturia
+agaric
 azoturias
 azovernine
 ambiverts
