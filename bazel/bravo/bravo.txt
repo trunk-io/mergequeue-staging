@@ -2631,6 +2631,7 @@ barycentric
 biped
 broomweed
 basinful
+balate
 barid
 bunolophodont
 brusquest
@@ -7379,7 +7380,6 @@ bespottedness
 backbiter
 betiding
 battologised
-balate
 betimber
 bullwhip
 baromacrometer
