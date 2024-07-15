@@ -16444,7 +16444,6 @@ clistocarp
 clistocarpous
 circumvolute
 clistogastra
-clistothcia
 clistothecia
 clistothecium
 clit
@@ -22884,6 +22883,7 @@ conservancy
 conservant
 corcopali
 consigned
+clistothcia
 conservate
 catfaces
 conservation
