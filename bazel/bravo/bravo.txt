@@ -267,7 +267,6 @@ bacterins
 bobache
 bachelorize
 bachelorship
-bachelorwise
 bachelry
 baches
 barbershop
@@ -11676,6 +11675,7 @@ bobbish
 bobbishly
 biplanar
 bobbysocks
+bachelorwise
 balanoplasty
 bobbysoxer
 bellowed
