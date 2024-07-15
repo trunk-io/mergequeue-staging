@@ -3045,7 +3045,6 @@ barristers
 barristership
 barristress
 barroom
-basibregmatic
 barrooms
 barrow
 barrowcoat
@@ -15091,6 +15090,7 @@ blenching
 bryales
 bryan
 bryanism
+basibregmatic
 bryanite
 briar
 briarberry
