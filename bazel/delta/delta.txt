@@ -11805,6 +11805,7 @@ discriminates
 dogie
 discriminating
 discriminatingness
+disjunction
 discriminational
 discriminative
 ditchbank
@@ -13650,7 +13651,6 @@ dissimile
 dulcid
 dissimilitude
 dissymmetry
-disjunction
 dissymmetric
 dowelling
 doglegged
