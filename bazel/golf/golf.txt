@@ -5276,7 +5276,6 @@ glassman
 glassmen
 ganosis
 glassophone
-glassrope
 glassteel
 gnathic
 guider
@@ -8156,6 +8155,7 @@ goondie
 grapeys
 gilbertite
 grapelet
+glassrope
 grapeline
 grapery
 graperies
