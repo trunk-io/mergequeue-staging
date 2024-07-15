@@ -3796,7 +3796,6 @@ gauging
 gaucheness
 gherao
 gadinic
-gheraoed
 grasshouse
 germanesque
 gardenwards
@@ -6859,6 +6858,7 @@ gadling
 gonycampsis
 greenlet
 gelinotte
+gheraoed
 geikielite
 gonidangium
 gonydeal
