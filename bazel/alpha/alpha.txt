@@ -8747,6 +8747,7 @@ allelotropic
 aggrege
 allelotropism
 alleluia
+autolyzing
 anadicrotic
 alleluiah
 alleluiatic
@@ -24193,7 +24194,6 @@ autolyzate
 autolyze
 auks
 autolyzed
-autolyzing
 autoloader
 autoloaders
 autology
