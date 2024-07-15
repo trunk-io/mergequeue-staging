@@ -1439,6 +1439,7 @@ garment
 gerrhosaurid
 galop
 garmented
+gastornithidae
 gunyang
 garmenting
 garmentless
@@ -2211,7 +2212,6 @@ gearset
 gearshift
 gearshifts
 genethliacally
-gastornithidae
 glaringness
 gearwheel
 gearwheels
