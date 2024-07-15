@@ -1519,7 +1519,6 @@ deaccessioned
 deadened
 deadener
 dotations
-deadening
 deadeningly
 drillmaster
 deadest
@@ -14411,6 +14410,7 @@ divertimenti
 dottel
 divertimento
 divertimentos
+deadening
 divertingly
 divertingness
 deforciant

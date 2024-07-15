@@ -863,7 +863,6 @@ gambetta
 gambette
 gambia
 gambiae
-garnetwork
 garamond
 gambian
 glanderous
@@ -5436,6 +5435,7 @@ gyne
 gamenesses
 goozle
 glyceral
+garnetwork
 geostrategist
 gaoler
 glyceria
