@@ -13027,7 +13027,6 @@ boreus
 borg
 borghi
 blissom
-borh
 bori
 boric
 boryl
@@ -13887,6 +13886,7 @@ boxtops
 boxtree
 boxwood
 boxwoods
+borh
 boza
 beadeyes
 bozine
