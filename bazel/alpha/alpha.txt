@@ -879,6 +879,7 @@ abrogable
 abrogate
 abrogates
 accomplishable
+anoestrus
 acrogynous
 abrogations
 abrogative
@@ -13833,7 +13834,6 @@ anoegenetic
 anoesia
 anoestrous
 anoestrum
-anoestrus
 anoetic
 anogenic
 anogenital
