@@ -777,6 +777,7 @@ dandlers
 dandling
 dandriff
 dandriffy
+deallocating
 dandriffs
 dandruffy
 dandruffs
@@ -18084,7 +18085,6 @@ dumbest
 dumbfish
 downheartedly
 dumbfounder
-deallocating
 diastrophe
 dumbfounderment
 dumbfoundment
