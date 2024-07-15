@@ -3617,7 +3617,6 @@ growler
 galactostasis
 gunfighters
 gestalten
-gratuities
 gladhearted
 gestalter
 glykopectic
@@ -9240,6 +9239,7 @@ grocerly
 guarded
 guric
 gedanken
+gratuities
 guernsey
 graptomancy
 glycerol
