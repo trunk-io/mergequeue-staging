@@ -3695,7 +3695,6 @@ embryotroph
 enramada
 embryotrophic
 embryous
-eucosia
 embrittle
 espouser
 embrittling
@@ -12273,6 +12272,7 @@ exostome
 execute
 executed
 exoarteritis
+eucosia
 executes
 executing
 execution
