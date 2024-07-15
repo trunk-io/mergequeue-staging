@@ -6412,7 +6412,6 @@ assessorship
 agonal
 agony
 agonia
-agoniada
 agoniadin
 agoniatite
 agoniatites
@@ -17001,6 +17000,7 @@ apiarian
 apiarians
 apiaries
 arvicolous
+agoniada
 apiarists
 afars
 apiator
