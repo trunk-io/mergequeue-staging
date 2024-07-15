@@ -2194,6 +2194,7 @@ geometric
 gnomons
 gravigrade
 gazy
+gambas
 gutterwise
 gambodic
 gearcase
@@ -4324,7 +4325,6 @@ gymnoglossate
 genep
 gigolo
 gyppo
-gambas
 gierfalcon
 gnattiest
 gatteridge
