@@ -5289,7 +5289,6 @@ begob
 begobs
 bodeword
 begod
-begohm
 begone
 begoniaceous
 borschts
@@ -15778,6 +15777,7 @@ brombenzyl
 bable
 bloomsburian
 bromeikon
+begohm
 betail
 bibliomane
 bromelia
