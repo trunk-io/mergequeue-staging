@@ -149,7 +149,6 @@ fielded
 factioneer
 factionism
 factionist
-floor
 factionistism
 forgiveness
 forecatharping
@@ -3346,6 +3345,7 @@ flashlamps
 flapping
 fiercer
 frowstiness
+floor
 fieri
 fiery
 footle
