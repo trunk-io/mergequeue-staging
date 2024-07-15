@@ -15280,7 +15280,6 @@ cladoselachidae
 correctiveness
 ceaselessness
 cladosiphonic
-cladothrix
 colyba
 cladrastis
 clads
@@ -15726,6 +15725,7 @@ clatsop
 clatter
 clattered
 clatterer
+cladothrix
 clattery
 clattering
 chromograph
