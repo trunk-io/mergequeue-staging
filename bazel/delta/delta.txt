@@ -6857,6 +6857,7 @@ desole
 desonation
 desorb
 desorbed
+dimeters
 desorbing
 dryster
 desorbs
@@ -9906,7 +9907,6 @@ dimerous
 dimes
 dimetallic
 dimeter
-dimeters
 dexterous
 dimethyl
 dimethylamino

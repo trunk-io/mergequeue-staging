@@ -1134,7 +1134,6 @@ flioma
 fluellite
 farther
 feeler
-fiscus
 farthermost
 fleabitten
 farthingales
@@ -10675,6 +10674,7 @@ frumentum
 fount
 fedifragous
 fracticipita
+fiscus
 frescoes
 frumpery
 fibulae
