@@ -2738,6 +2738,7 @@ filanders
 featherbed
 fetcher
 fetchers
+forkfuls
 fetches
 fetching
 fete
@@ -8288,7 +8289,6 @@ forkedness
 frontomaxillary
 fret
 forkers
-forkfuls
 forkhead
 flagon
 flashtube
