@@ -1482,7 +1482,6 @@ fairtime
 fatwood
 flavid
 forwhy
-footpath
 forbade
 faubourgs
 flannelette
@@ -10822,6 +10821,7 @@ frogfoot
 fuddlement
 finlander
 fuddler
+footpath
 fuddles
 fuddling
 fudged
