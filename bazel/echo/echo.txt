@@ -2844,7 +2844,6 @@ elevator
 elevators
 entradas
 embrued
-elevatory
 evaporize
 expoundable
 elevenfold
@@ -9876,6 +9875,7 @@ essenwood
 essera
 epipterous
 essexite
+elevatory
 essoign
 essoin
 encyclopediac
