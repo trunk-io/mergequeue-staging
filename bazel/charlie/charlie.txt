@@ -7861,7 +7861,6 @@ cervicobregmatic
 cervicodorsal
 cervicofacial
 cabob
-cervicohumeral
 cervicolabial
 cervicolingual
 cervicolumbar
@@ -9743,6 +9742,7 @@ cheesing
 cheet
 cheetah
 convector
+cervicohumeral
 cheeter
 cheetie
 cheetul
