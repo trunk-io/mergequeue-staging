@@ -1972,7 +1972,6 @@ banditti
 bandle
 bandleader
 bandless
-booked
 bejabers
 bandlessly
 bandlessness
@@ -3510,6 +3509,7 @@ batable
 bilaminate
 batad
 bataleur
+booked
 beshout
 batamote
 bitstalk
