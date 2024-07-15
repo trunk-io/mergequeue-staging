@@ -919,7 +919,6 @@ baggers
 baggie
 baggier
 baggies
-baggily
 bagging
 breakfasted
 baggings
@@ -6166,6 +6165,7 @@ benefited
 benefiter
 bothros
 benefiting
+baggily
 basilemma
 bussock
 benefits
