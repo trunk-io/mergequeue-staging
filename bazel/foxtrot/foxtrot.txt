@@ -1170,6 +1170,7 @@ fissipalmate
 footbridge
 fluegelhorn
 figeaters
+firer
 fascinated
 fascinates
 fibropolypus
@@ -1719,7 +1720,6 @@ fearsomely
 fortuity
 fearsomeness
 floristry
-firer
 feasances
 fireguard
 feased
