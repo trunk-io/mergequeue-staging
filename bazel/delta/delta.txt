@@ -8316,7 +8316,6 @@ dialing
 descensional
 dialoguer
 deadpanner
-dialings
 dorking
 danzon
 dorbie
@@ -11734,6 +11733,7 @@ discoverers
 discovery
 discoveries
 discovering
+dialings
 dravida
 discovers
 discovert
