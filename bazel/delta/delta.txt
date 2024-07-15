@@ -5199,7 +5199,6 @@ denominant
 denominate
 denominated
 denominates
-denominational
 denominationalism
 dandles
 denominationalist
@@ -8772,6 +8771,7 @@ diazoimide
 diazoma
 diazomethane
 diazonium
+denominational
 diazotate
 deposits
 debasing
