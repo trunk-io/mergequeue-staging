@@ -1857,7 +1857,6 @@ gastroptosia
 gastropulmonary
 gastropulmonic
 gastrorrhagia
-gorling
 gastrorrhaphy
 gynura
 gastroscopic
@@ -7431,6 +7430,7 @@ gorgelet
 gaveled
 gouaree
 goudy
+gorling
 gemmative
 granjeno
 gouged
