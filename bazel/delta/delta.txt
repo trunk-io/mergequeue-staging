@@ -4603,6 +4603,7 @@ deafen
 demipique
 demipomada
 demipremise
+discarnation
 depurated
 deathwatches
 dighter
@@ -11289,7 +11290,6 @@ discardment
 discards
 dispensing
 discarnate
-discarnation
 discase
 discased
 discases
