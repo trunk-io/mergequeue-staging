@@ -4866,6 +4866,7 @@ dicyclic
 dismast
 demonstrability
 demonstrable
+distributing
 demonstrableness
 demonstrably
 demonstrance
@@ -14031,7 +14032,6 @@ dermohumeral
 distributer
 distributes
 detailism
-distributing
 distribution
 distributional
 dispensable
