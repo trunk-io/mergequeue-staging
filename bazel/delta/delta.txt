@@ -8434,7 +8434,6 @@ dacryuria
 diamides
 diamido
 diamidogen
-diamyl
 diamylene
 diamin
 diamines
@@ -10400,6 +10399,7 @@ deaerating
 dyotheletical
 diothelism
 dioti
+diamyl
 diotic
 diotocardia
 diotrephes
