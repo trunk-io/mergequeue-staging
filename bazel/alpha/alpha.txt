@@ -6638,7 +6638,6 @@ agrotechny
 agrotype
 agrotis
 asiatical
-aberroscope
 aground
 agrufe
 agruif
@@ -15482,6 +15481,7 @@ antihumanism
 antihumanist
 antihumanistic
 antihumbuggist
+aberroscope
 antihunting
 antiinflammatory
 aceratosis
