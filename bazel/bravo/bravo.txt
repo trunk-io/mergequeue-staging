@@ -4452,7 +4452,6 @@ beclatter
 beclaw
 brassarts
 becloak
-becloaking
 becloaks
 beclog
 beclogged
@@ -15276,6 +15275,7 @@ bel
 briery
 brierroot
 briers
+becloaking
 brierwood
 bries
 brig
