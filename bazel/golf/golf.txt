@@ -2176,7 +2176,6 @@ gown
 graunt
 gazump
 griskins
-gconv
 gd
 gangrened
 gds
@@ -5641,6 +5640,7 @@ gebur
 gubbin
 glisten
 groundedness
+gconv
 globalization
 gonidia
 gaeltacht
