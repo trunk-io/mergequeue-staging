@@ -2830,6 +2830,7 @@ feudalistic
 feathering
 filarees
 fingerfishes
+freeholds
 feudalists
 feudality
 fractiously
@@ -8456,7 +8457,6 @@ feedable
 formylated
 formylating
 formin
-freeholds
 forminate
 fixtures
 foretellableness
