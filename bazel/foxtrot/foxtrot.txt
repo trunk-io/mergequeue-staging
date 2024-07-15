@@ -85,7 +85,6 @@ facial
 facially
 flambeau
 facie
-faciend
 faciends
 facies
 ficary
@@ -10068,6 +10067,7 @@ ferngrower
 federalised
 fervence
 frilly
+faciend
 ferruler
 frilliest
 fibromyxoma
