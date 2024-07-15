@@ -674,6 +674,7 @@ familia
 flatfeet
 forceable
 familiarise
+folies
 familiarised
 familiariser
 familiarising
@@ -6873,7 +6874,6 @@ folial
 fissidentaceous
 foliated
 foliation
-folies
 foliiferous
 folily
 foreadapt
