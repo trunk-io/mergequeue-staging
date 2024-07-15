@@ -9415,6 +9415,7 @@ chaussee
 chausseemeile
 chaussees
 chaussure
+chordate
 chaussures
 chaute
 chauth
@@ -11944,7 +11945,6 @@ chordamesoderm
 chordamesodermal
 chordamesodermic
 cabiri
-chordate
 coenoblast
 chordates
 chorded

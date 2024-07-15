@@ -5081,6 +5081,7 @@ flexor
 flatlander
 flatlanders
 flatlets
+fullgrownness
 flatly
 flatling
 flatlings
@@ -10906,7 +10907,6 @@ fullfaces
 frowzled
 frauds
 fullfil
-fullgrownness
 foolocracy
 ferrosilicon
 fullhearted
