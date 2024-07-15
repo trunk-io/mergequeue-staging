@@ -5367,6 +5367,7 @@ affeerer
 affeerment
 affeeror
 achromaturia
+annotated
 affeir
 affenpinscher
 affenspalte
@@ -13707,7 +13708,6 @@ annonaceous
 annot
 abscised
 annotate
-annotated
 annotater
 annotates
 acker
