@@ -17090,7 +17090,6 @@ cannoneer
 comparatives
 coachbuilder
 coachbuilding
-coachee
 coacher
 coachers
 coaches
@@ -20472,6 +20471,7 @@ compadres
 compage
 cinclidae
 cif
+coachee
 compaginate
 compagnies
 cresols
