@@ -4034,7 +4034,6 @@ forwarders
 familiarize
 finnesko
 fulvidness
-farthings
 furnacemen
 finites
 fiddledeedee
@@ -8696,6 +8695,7 @@ feedingstuff
 fortress
 fortresses
 fortressing
+farthings
 filed
 forts
 fortuitism
