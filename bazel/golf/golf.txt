@@ -3462,7 +3462,6 @@ gossipry
 guacho
 germen
 germens
-germfree
 germy
 goyazite
 germicides
@@ -4929,6 +4928,7 @@ gambled
 gismondite
 ghawazi
 gispin
+germfree
 gist
 geomorphogenic
 gists

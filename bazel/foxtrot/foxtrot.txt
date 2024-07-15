@@ -8099,7 +8099,6 @@ foreutter
 forevalue
 fittable
 fieldman
-forever
 forevermore
 foreverness
 forevision
@@ -11211,6 +11210,7 @@ flor
 farmerette
 fungoes
 fungological
+forever
 fritts
 fungose
 fungus
