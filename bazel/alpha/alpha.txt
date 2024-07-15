@@ -12138,7 +12138,6 @@ anathematise
 anathematised
 adiathermic
 anathematising
-anathematism
 anathematization
 anticyclone
 anathematize
@@ -12914,6 +12913,7 @@ angiomyocardiac
 angiomyoma
 angiomyosarcoma
 angioneoplasm
+anathematism
 angioneurosis
 angioneurotic
 angionoma
