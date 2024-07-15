@@ -5153,7 +5153,6 @@ cromlech
 casque
 condylura
 casqued
-clanger
 casques
 casquet
 casquette
@@ -12677,6 +12676,7 @@ chronicling
 chronicon
 chronics
 chronique
+clanger
 chronisotherm
 chronist
 chronobarometer
