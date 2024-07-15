@@ -3049,7 +3049,6 @@ ellipsone
 ellipsonic
 elliptical
 ellipticalness
-ellipticity
 elliptograph
 elliptoid
 epicyte
@@ -10495,6 +10494,7 @@ enrockment
 exempla
 ethnologer
 ethnologically
+ellipticity
 epalpate
 evansite
 ethnologist

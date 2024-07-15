@@ -8939,6 +8939,7 @@ biocide
 backstabbing
 biocides
 bioclimatic
+brand
 bioclimatician
 bioclimatological
 biocoenose
@@ -14498,7 +14499,6 @@ barfing
 branchling
 branchman
 bothrenchyma
-brand
 branded
 brandenburg
 bacchanalian
