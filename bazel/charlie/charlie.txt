@@ -7102,6 +7102,7 @@ convincement
 centinormal
 centipedal
 centipede
+cnemial
 centipedes
 cootie
 centiplume
@@ -12594,7 +12595,6 @@ chromophage
 chromophil
 chromophile
 chromophilia
-cnemial
 chromophilic
 chromophyll
 chromophilous
