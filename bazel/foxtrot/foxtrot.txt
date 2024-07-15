@@ -886,7 +886,6 @@ ferries
 forebodies
 firefangs
 fanwe
-fantoms
 furthy
 fv
 flincher
@@ -5352,6 +5351,7 @@ freend
 falbelo
 fusibly
 fth
+fantoms
 fancical
 fleers
 flees
