@@ -13524,7 +13524,6 @@ ankylenteron
 ankylocheilia
 ankylodactylia
 ankylodontia
-ankyloglossia
 antipleuritic
 ankylomerism
 ankylophobia
@@ -17793,6 +17792,7 @@ applauds
 applause
 applauses
 applausive
+ankyloglossia
 applausively
 angulatogibbous
 apple
