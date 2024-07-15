@@ -7104,7 +7104,6 @@ bespeaking
 blague
 bespeaks
 bespecked
-brooklyn
 bespeckled
 bespectacled
 besped
@@ -13856,6 +13855,7 @@ bretons
 bitted
 boxboards
 boxcars
+brooklyn
 boxed
 boxen
 boxerism
