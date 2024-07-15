@@ -1397,7 +1397,6 @@ calkins
 calks
 call
 callable
-callaesthetic
 callais
 civilisations
 callaloo
@@ -5533,6 +5532,7 @@ capitulary
 cataloguer
 catalogues
 cataloguing
+callaesthetic
 cataloguish
 cryptologist
 cataloguist
