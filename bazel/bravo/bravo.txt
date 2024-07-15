@@ -1864,7 +1864,6 @@ banaba
 banago
 banagos
 bancales
-bagpipe
 banak
 banal
 banality
@@ -5439,6 +5438,7 @@ bey
 beice
 beydom
 beyerite
+bagpipe
 beige
 brahmsite
 beigel

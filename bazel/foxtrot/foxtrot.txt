@@ -2598,6 +2598,7 @@ foliiform
 ferther
 forgrow
 fertil
+forebar
 fabrics
 faddisms
 fertile
@@ -7453,7 +7454,6 @@ foreassign
 forebackwardly
 forebay
 forebays
-forebar
 forebears
 firefighters
 falconine
