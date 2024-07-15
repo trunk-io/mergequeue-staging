@@ -814,7 +814,6 @@ galvanoplastically
 galvanopsychic
 galvanopuncture
 goatherd
-gyrostabilizer
 galvanoscope
 gibbers
 galvanoscopy
@@ -3497,6 +3496,7 @@ germling
 germon
 gelatigenous
 germproof
+gyrostabilizer
 germule
 greenslade
 gernative
