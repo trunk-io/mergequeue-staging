@@ -9853,7 +9853,6 @@ cheltenham
 chem
 chemakuan
 chemasthenia
-chemawinite
 chemehuevi
 chemesthesis
 chemiatry
@@ -24233,6 +24232,7 @@ convocant
 convocate
 convocated
 convocating
+chemawinite
 cornopean
 convocation
 convocational
