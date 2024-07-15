@@ -11368,7 +11368,6 @@ chlorococcum
 caulicole
 chlorocresol
 chlorocruorin
-chlorodyne
 chlorodize
 chlorodized
 chlorodizing
@@ -11701,6 +11700,7 @@ cholines
 cholinesterase
 cholinic
 confronting
+chlorodyne
 cholinolytic
 chalcites
 courtesans
