@@ -5684,7 +5684,6 @@ flit
 flitch
 flitched
 flitchen
-flitchplate
 feverfews
 flite
 formating
@@ -6527,6 +6526,7 @@ flusters
 flustra
 flustrate
 flurry
+flitchplate
 fluctiferous
 forcipated
 fortitudes

@@ -5211,7 +5211,6 @@ ann
 amoebous
 aesculapius
 aesculetin
-appendicitis
 amphitene
 aesir
 aesop
@@ -17872,6 +17871,7 @@ agyrophobia
 appointor
 archisperm
 appomatox
+appendicitis
 appomattoc
 appomattox
 apport
