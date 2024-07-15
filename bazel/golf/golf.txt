@@ -8067,7 +8067,6 @@ garbling
 geniuses
 granitite
 gendarme
-gyrocompasses
 granitized
 guelphish
 gregarinidal
@@ -8886,6 +8885,7 @@ grid
 greatish
 gadge
 gridded
+gyrocompasses
 gridder
 gyration
 gastroenterology

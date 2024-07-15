@@ -2925,7 +2925,6 @@ acrocoracoid
 acrodactyla
 abying
 acrodermatitis
-acrodont
 acrodontism
 appositional
 acrodrome
@@ -17233,6 +17232,7 @@ auriculae
 apogamy
 apogamic
 apogamous
+acrodont
 apogamously
 apogeal
 apogean
