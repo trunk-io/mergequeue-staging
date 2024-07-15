@@ -305,7 +305,6 @@ abducing
 abducted
 abduction
 abductions
-abducts
 abe
 abeam
 abear
@@ -2207,6 +2206,7 @@ aurantiaceous
 ascriptitii
 acetoveratrone
 affrontingness
+abducts
 autoradiographic
 acetoxyl
 antipathogene
