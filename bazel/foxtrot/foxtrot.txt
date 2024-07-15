@@ -2321,6 +2321,7 @@ forehearth
 feodaries
 feodatory
 feodum
+frogwort
 forsakenness
 fauns
 feoffee
@@ -10304,7 +10305,6 @@ frogskin
 frogskins
 frogspawn
 forsloth
-frogwort
 fooldom
 fipples
 froisse
