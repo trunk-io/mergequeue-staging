@@ -2084,7 +2084,6 @@ fellatrice
 fellatrices
 felled
 flrie
-feller
 fellers
 fellfare
 felly
@@ -6734,6 +6733,7 @@ fibrine
 foggier
 flitters
 festivals
+feller
 foggiest
 foggish
 foghorn
