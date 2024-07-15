@@ -1101,7 +1101,6 @@ edify
 echolalia
 edificate
 edificative
-edificator
 expatiator
 elderhood
 emancipating
@@ -12933,6 +12932,7 @@ expectancy
 epiphragm
 expectancies
 expectant
+edificator
 expectantly
 expectations
 engagedness

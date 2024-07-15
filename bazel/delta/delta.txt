@@ -5528,7 +5528,6 @@ deoxygenation
 deprecate
 deoxygenization
 deoxygenize
-deprisure
 deoxygenized
 deoxyribonucleotide
 deoxyribose
@@ -16709,6 +16708,7 @@ devisers
 dramatic
 demonolatrous
 dramatical
+deprisure
 dramatically
 deflocculated
 dramaticle
