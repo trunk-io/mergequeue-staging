@@ -10120,7 +10120,6 @@ blackface
 blackfeet
 blackfellow
 blackfellows
-blackfigured
 blackfins
 blackfish
 bloodlessly
@@ -14478,6 +14477,7 @@ branchiopodous
 beaverboard
 branchiopulmonate
 branchiosaur
+blackfigured
 branchiosauria
 branchiosaurian
 branchiosaurus
