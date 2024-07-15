@@ -1658,7 +1658,6 @@ egotist
 egotistic
 egotistical
 egotistically
-egotisticalness
 erection
 egotists
 evictors
@@ -7190,6 +7189,7 @@ encrotchet
 environmentalists
 electromagnetism
 everyman
+egotisticalness
 envisage
 earthquave
 embarrassingly
