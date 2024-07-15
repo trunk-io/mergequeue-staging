@@ -8190,7 +8190,6 @@ grasset
 graphis
 guanaco
 guzzlers
-graphiter
 graphites
 guanidins
 graphitic
@@ -10590,6 +10589,7 @@ gunstone
 gunther
 galactosis
 guntub
+graphiter
 gunwale
 gretchen
 gabeler
