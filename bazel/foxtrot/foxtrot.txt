@@ -8669,7 +8669,6 @@ fortify
 fortification
 fasola
 flesher
-facetiously
 fortifications
 fortifier
 fortifiers
@@ -10595,6 +10594,7 @@ fructifier
 flitted
 fructifies
 fructokinase
+facetiously
 familyish
 forfended
 fructosan
