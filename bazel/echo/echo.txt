@@ -6210,6 +6210,7 @@ exogonium
 enqueue
 enqueued
 enqueues
+exfoliated
 evangelary
 enquire
 enquired
@@ -12424,7 +12425,6 @@ exfodiate
 eulachon
 exfoliate
 estrus
-exfoliated
 exfoliating
 exfoliation
 equijacent
