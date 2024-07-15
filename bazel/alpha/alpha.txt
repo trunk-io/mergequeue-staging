@@ -7511,7 +7511,6 @@ albespyne
 albeston
 albi
 albian
-assertoric
 albicans
 autolater
 albicant
@@ -8241,6 +8240,7 @@ algorism
 algorisms
 antisymmetrical
 algorist
+assertoric
 algoristic
 algorithm
 algorithmic
