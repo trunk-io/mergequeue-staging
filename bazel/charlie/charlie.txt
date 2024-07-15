@@ -22102,7 +22102,6 @@ conflict
 conflicted
 cassius
 conflicting
-confliction
 conflictive
 conflictless
 cyclically
@@ -29695,6 +29694,7 @@ croises
 croisette
 croissant
 croissante
+confliction
 cervicobrachial
 croissants
 crojiks
