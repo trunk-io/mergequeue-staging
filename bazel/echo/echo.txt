@@ -4618,7 +4618,6 @@ enchanters
 epineuria
 ejacula
 enchanting
-enchantingness
 enchantment
 epicarp
 epicoelia
@@ -12303,6 +12302,7 @@ encounterer
 extracted
 executorial
 evenmete
+enchantingness
 executress
 executry
 executrices
