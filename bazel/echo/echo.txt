@@ -3378,7 +3378,6 @@ emphractic
 embden
 embeam
 extinction
-embed
 enlargeableness
 embedded
 embedder
@@ -9989,6 +9988,7 @@ edituate
 esthesiogen
 esthesiogeny
 esthesiogenic
+embed
 esthesiography
 esthesiometer
 educts
