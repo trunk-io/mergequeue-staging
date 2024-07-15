@@ -5648,6 +5648,7 @@ engager
 engagers
 encumbrances
 eviternal
+eczematosis
 elastometer
 esplanades
 engagingness
@@ -13496,7 +13497,6 @@ exsolve
 exsolved
 exsolving
 exspoliation
-eczematosis
 epochs
 echinated
 exp
