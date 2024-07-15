@@ -7155,7 +7155,6 @@ besquirt
 besra
 bandores
 bess
-beriberis
 bessel
 besselian
 bessemer
@@ -15208,6 +15207,7 @@ bridewell
 backups
 bridewort
 bothnic
+beriberis
 bridgeable
 bridgeboard
 bhutan
