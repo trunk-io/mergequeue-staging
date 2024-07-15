@@ -705,7 +705,6 @@ aboma
 abomasal
 asecretory
 abomasi
-abomasus
 abomasusi
 abominability
 abominableness
@@ -6112,6 +6111,7 @@ annunciators
 agglutinate
 agglutinated
 alehoof
+abomasus
 arboresque
 agglutination
 antiquity
