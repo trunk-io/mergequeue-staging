@@ -260,6 +260,7 @@ fadges
 fustle
 fadingly
 fadings
+fps
 fadmonger
 fadmongery
 fairlead
@@ -10527,7 +10528,6 @@ frouzy
 fricti
 frouziest
 frow
-fps
 formulise
 frowardness
 flocks

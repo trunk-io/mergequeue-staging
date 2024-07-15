@@ -4617,7 +4617,6 @@ bro
 bedeaf
 bedeafen
 bedeafened
-bowtell
 bedeafening
 bedeafens
 believably
@@ -8404,6 +8403,7 @@ bigotty
 bigroot
 bove
 becompass
+bowtell
 bigthatch
 biguanide
 bigwig
