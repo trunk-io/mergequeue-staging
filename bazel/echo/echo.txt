@@ -2384,7 +2384,6 @@ electrodialitic
 extracivic
 endaseh
 economiser
-electrodialyze
 electrodynamic
 electrodynamical
 earlobe
@@ -12513,6 +12512,7 @@ exhortations
 escrime
 exhortator
 exhorted
+electrodialyze
 exhorter
 exhorters
 exhorting
