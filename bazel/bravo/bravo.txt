@@ -8866,7 +8866,6 @@ bubba
 binocle
 binocular
 binocularly
-binoculars
 bishops
 binoculate
 bracingness
@@ -14129,6 +14128,7 @@ bracted
 bracteiform
 bracteole
 bractless
+binoculars
 braize
 bractlet
 bude
