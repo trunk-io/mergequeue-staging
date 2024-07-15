@@ -7204,7 +7204,6 @@ footslogger
 footslogging
 furnage
 forwards
-footsoldier
 facient
 footsore
 footsoreness
@@ -10872,6 +10871,7 @@ fastingly
 fulgurant
 fyrdung
 fulgurata
+footsoldier
 francisco
 fulgurate
 fulgurated
