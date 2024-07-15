@@ -3346,6 +3346,7 @@ basipterygium
 bookings
 bisks
 blindless
+bengalic
 basipterygoid
 basiradial
 basirostral
@@ -16798,7 +16799,6 @@ buffoons
 butanoic
 buffs
 buffware
-bengalic
 bloodguilty
 bufidin
 bufo
