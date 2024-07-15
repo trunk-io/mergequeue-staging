@@ -4831,6 +4831,7 @@ bedswerver
 bedtick
 bedticks
 bices
+baselard
 bedub
 beduchess
 beduck
@@ -6576,7 +6577,6 @@ bitreadle
 bookstack
 belittles
 basilyst
-baselard
 beraking
 bachelors
 berakoth
