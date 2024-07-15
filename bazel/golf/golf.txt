@@ -3127,7 +3127,6 @@ geologian
 geologic
 gletscher
 geological
-geologically
 geologician
 geologies
 geologised
@@ -8170,6 +8169,7 @@ graphed
 gelatines
 grapheme
 graphemes
+geologically
 graphemic
 graphemically
 graphy
