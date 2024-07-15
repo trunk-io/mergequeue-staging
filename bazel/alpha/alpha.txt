@@ -19177,7 +19177,6 @@ ambivalently
 archseducer
 archsee
 archsewer
-archshepherd
 archsynagogue
 archspy
 archspirit
@@ -22130,6 +22129,7 @@ asthorin
 asteroid
 angulateness
 astyanax
+archshepherd
 astichous
 astigmat
 astigmatic
