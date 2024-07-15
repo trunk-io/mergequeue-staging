@@ -6096,7 +6096,6 @@ aggie
 aggies
 aggiornamenti
 agglomerant
-agglomerate
 agglomerated
 agglomerates
 agglomeratic
@@ -16093,6 +16092,7 @@ ablepharous
 antiquaries
 apometabolous
 antiquarism
+agglomerate
 antiquarium
 antiquated
 antiquates
