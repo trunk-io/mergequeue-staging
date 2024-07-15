@@ -5812,7 +5812,6 @@ depopulators
 deport
 dashwheel
 deportability
-deportation
 deporte
 deported
 deportee
@@ -13370,6 +13369,7 @@ disquisite
 deposure
 disquisited
 disimagine
+deportation
 disquisiting
 disquisition
 disquisitional
