@@ -11638,7 +11638,6 @@ boatshop
 berk
 bodword
 boatsman
-boatsmen
 bioscience
 boatsteerer
 boatswain
@@ -17726,6 +17725,7 @@ burier
 buriers
 billeter
 buries
+boatsmen
 blurriest
 burin
 burk
