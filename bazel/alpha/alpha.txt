@@ -6109,7 +6109,6 @@ agglutinable
 agglutinant
 apical
 annunciators
-agglutinate
 agglutinated
 alehoof
 arboresque
@@ -10941,6 +10940,7 @@ amniota
 adda
 amniotes
 amniotin
+agglutinate
 archregent
 arrah
 amniotitis
