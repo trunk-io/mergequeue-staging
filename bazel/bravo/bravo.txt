@@ -2697,6 +2697,7 @@ bolivian
 barkey
 barken
 beknights
+blueth
 barkening
 barkentine
 barker
@@ -11402,7 +11403,6 @@ bluestockings
 bluestoner
 brougham
 bluet
-blueth
 bluethroat
 bluetit
 bluetongue
