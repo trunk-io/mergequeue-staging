@@ -7199,7 +7199,6 @@ doxa
 detects
 deductions
 detenant
-detenebrate
 detent
 detentes
 detention
@@ -10149,6 +10148,7 @@ depletes
 dinged
 dependabilities
 deepnesses
+detenebrate
 dingee
 dishevelled
 dermochelys
