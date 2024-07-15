@@ -11100,7 +11100,6 @@ brawly
 busybody
 bertholletia
 bloodmobiles
-barragon
 bloodmonger
 bloodred
 bloodroot
@@ -11748,6 +11747,7 @@ bocoy
 bistres
 bodach
 bodacious
+barragon
 bergama
 boddagh
 bela
