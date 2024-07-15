@@ -9171,7 +9171,6 @@ gos
 gauge
 gaucher
 gateaux
-gilthead
 gristlier
 gristliest
 gristliness
@@ -10635,6 +10634,7 @@ gurly
 gurmukhi
 gurnard
 gigabits
+gilthead
 gurnards
 gog
 gurney
