@@ -1407,6 +1407,7 @@ generatrix
 gargol
 garhwali
 garial
+gusset
 garibaldian
 galenoid
 garland
@@ -10680,7 +10681,6 @@ galleon
 goldfishes
 gymnorhininae
 gasometrical
-gusset
 gusseted
 genupectoral
 gusseting
