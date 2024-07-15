@@ -8732,6 +8732,7 @@ eloigners
 equipping
 emolumentary
 equiprobable
+exacerbating
 equiprobably
 equiproportional
 equiproportionality
@@ -11722,7 +11723,6 @@ ewte
 ex
 enrolling
 exacerbated
-exacerbating
 exacerbatingly
 exacerbation
 exacerbescence
