@@ -2255,7 +2255,6 @@ fluorspar
 frippery
 fencers
 ferronickel
-firebricks
 fences
 forelaying
 featherwise
@@ -5653,6 +5652,7 @@ flerrying
 flipped
 flipper
 flippery
+firebricks
 flipperling
 flippest
 faveoli
