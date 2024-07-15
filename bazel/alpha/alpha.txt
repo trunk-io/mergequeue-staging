@@ -2935,7 +2935,6 @@ acrodontism
 appositional
 acrodrome
 acrodromous
-acrodus
 acroesthesia
 acrogamy
 acrogamous
@@ -22183,6 +22182,7 @@ astore
 astound
 astounded
 amygdala
+acrodus
 astounding
 astoundingly
 astoundment
