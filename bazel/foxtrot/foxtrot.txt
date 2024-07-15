@@ -4175,7 +4175,6 @@ faradizer
 fireproofed
 fireproofing
 fluctuosity
-fireroom
 firerooms
 firers
 firesafe
@@ -8388,6 +8387,7 @@ formazyl
 formboard
 faradmeter
 fleay
+fireroom
 formed
 formee
 formel
