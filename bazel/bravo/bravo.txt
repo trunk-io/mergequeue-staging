@@ -5639,7 +5639,6 @@ belemnoidea
 bagasses
 beleper
 beletter
-belfast
 bilio
 bismarckian
 buna
@@ -13851,6 +13850,7 @@ boxberries
 boggin
 boxboard
 bretons
+belfast
 bitted
 boxboards
 boxcars

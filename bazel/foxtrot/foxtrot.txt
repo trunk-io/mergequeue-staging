@@ -1483,6 +1483,7 @@ fatwood
 flavid
 forwhy
 footpath
+fosterlings
 forbade
 faubourgs
 flannelette
@@ -6744,7 +6745,6 @@ feeder
 flaggily
 fogyishness
 fogyism
-fosterlings
 fogyisms
 flatulentness
 fertilized
