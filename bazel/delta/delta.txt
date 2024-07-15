@@ -3177,7 +3177,6 @@ defects
 defectum
 defedation
 defeise
-defeit
 defeminise
 defeminization
 defeminize
@@ -10968,6 +10967,7 @@ depair
 disadvise
 disadvised
 duodecimal
+defeit
 disadvising
 dysaesthetic
 disaffect
