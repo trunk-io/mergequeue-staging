@@ -2276,7 +2276,6 @@ enigua
 electricalness
 eutaxite
 electrican
-electrician
 electricians
 electricity
 electricize
@@ -6704,6 +6703,7 @@ entertainable
 eccentrical
 ecclesiasticus
 entertaining
+electrician
 externity
 emblaze
 entertainingness
