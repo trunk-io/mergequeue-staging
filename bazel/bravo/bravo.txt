@@ -3555,6 +3555,7 @@ bordeaux
 batheable
 bathed
 barbulate
+bywork
 bather
 barbered
 bathers
@@ -10014,7 +10015,6 @@ biwinter
 bronchioles
 byword
 bywords
-bywork
 byworks
 bixaceae
 bixbyite
