@@ -14082,7 +14082,6 @@ disturbances
 disturbation
 devisals
 disturbed
-data
 dosimetry
 disturbedly
 disturber
@@ -17417,6 +17416,7 @@ droseraceous
 droseras
 drosky
 droskies
+data
 drosograph
 decocting
 drosophila
