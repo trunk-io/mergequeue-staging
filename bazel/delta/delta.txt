@@ -5865,6 +5865,7 @@ dying
 delated
 desiodothyroxine
 disbosomed
+decayer
 depravate
 depravation
 deprave
@@ -13187,7 +13188,6 @@ dyspnoea
 dextrocular
 dyspnoeal
 dyspnoeas
-decayer
 dyspnoic
 dispondaic
 dispondee
