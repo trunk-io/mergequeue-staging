@@ -5481,7 +5481,6 @@ flanerie
 falsie
 flingy
 flyaway
-feelers
 flyback
 fruiting
 flybane
@@ -6299,6 +6298,7 @@ fluidized
 followup
 flotations
 finitude
+feelers
 fileted
 fluidmeter
 familiary
