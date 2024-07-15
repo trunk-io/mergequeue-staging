@@ -3823,7 +3823,6 @@ footlessly
 finalist
 finality
 fundament
-focus
 finalities
 finalization
 finalized
@@ -9613,6 +9612,7 @@ freeheartedly
 farinhas
 flancards
 freehold
+focus
 freeholder
 freeholdership
 freeholding

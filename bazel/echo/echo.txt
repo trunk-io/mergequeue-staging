@@ -10075,6 +10075,7 @@ euphory
 estrange
 estranged
 eocene
+evasible
 endimanche
 exurbanites
 estrangedness
@@ -13225,7 +13226,6 @@ ephapse
 exploded
 exploders
 exploit
-evasible
 exploitage
 exploitatively
 exploited
