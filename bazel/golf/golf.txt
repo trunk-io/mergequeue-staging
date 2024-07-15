@@ -2566,7 +2566,6 @@ gen
 gastrology
 gena
 guilloche
-glyptal
 guardsmen
 genal
 genapp
@@ -7279,6 +7278,7 @@ gormandising
 geranial
 gormandism
 gormandizers
+glyptal
 genesiac
 gormandizes
 globulolysis
