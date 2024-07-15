@@ -8878,7 +8878,6 @@ binomenclature
 bakelite
 begruntle
 binomialism
-binomially
 binomials
 bunchbacked
 binominated
@@ -11173,6 +11172,7 @@ byes
 blooping
 balachan
 blooth
+binomially
 blosmy
 blossom
 bechalk
