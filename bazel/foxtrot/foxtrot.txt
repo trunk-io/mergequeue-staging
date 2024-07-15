@@ -302,7 +302,6 @@ fag
 farsighted
 fagaceae
 foists
-fagaceous
 fassalite
 fayalites
 fayence
@@ -11018,6 +11017,7 @@ fumerel
 fumers
 fumet
 flaxlike
+fagaceous
 file
 fumettes
 folic
