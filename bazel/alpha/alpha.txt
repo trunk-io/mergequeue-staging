@@ -5098,6 +5098,7 @@ aeromarine
 agitprops
 aeromechanic
 aeromechanical
+apsinthion
 aeromechanics
 aeromedical
 aeromedicine
@@ -18111,7 +18112,6 @@ apsid
 apsidal
 apsides
 apsidiole
-apsinthion
 acoelomate
 abatises
 apsis
