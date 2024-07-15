@@ -3949,7 +3949,6 @@ eudialyte
 emission
 emissive
 echoic
-emissory
 emittance
 emitted
 eisegeses
@@ -12321,6 +12320,7 @@ exede
 extendibility
 exedent
 ecyphellate
+emissory
 exedral
 epipsychidion
 ephererist
