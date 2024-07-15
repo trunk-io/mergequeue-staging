@@ -8965,6 +8965,7 @@ four
 fourb
 fourball
 fourche
+frontcourt
 fourchee
 flanger
 flowing
@@ -10368,7 +10369,6 @@ frontally
 feigher
 fellinic
 frontals
-frontcourt
 fronted
 frontenis
 fronter

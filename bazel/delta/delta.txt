@@ -10250,7 +10250,6 @@ doubtful
 dinoflagellida
 dinomic
 dwarfish
-dinophyceae
 dinophilea
 dinophilus
 dinornis
@@ -16591,6 +16590,7 @@ drag
 dragade
 dragaded
 disprizes
+dinophyceae
 dragbolt
 dragee
 dragees
