@@ -5123,6 +5123,7 @@ flatweed
 frogmarch
 fenman
 foliolose
+flyeater
 flatwoods
 fishboats
 flatworks
@@ -5521,7 +5522,6 @@ floppers
 foreigners
 flicky
 flidge
-flyeater
 flied
 foetiferous
 flyer
