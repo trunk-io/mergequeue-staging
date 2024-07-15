@@ -8427,7 +8427,6 @@ galvanization
 gravamem
 gales
 ganodonta
-gliffs
 gravamina
 girthed
 grave
@@ -10024,6 +10023,7 @@ grypanian
 gudrun
 gauntree
 ged
+gliffs
 gulped
 grene
 gustily

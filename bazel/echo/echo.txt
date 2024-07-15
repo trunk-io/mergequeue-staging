@@ -5723,6 +5723,7 @@ endues
 england
 englander
 eisegetic
+eemis
 englanders
 englante
 engleim
@@ -10400,7 +10401,6 @@ ethiopians
 ethysulphuric
 ethmyphitis
 ethmofrontal
-eemis
 edestosaurus
 ethmoid
 ethmoidal
