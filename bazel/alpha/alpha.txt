@@ -3289,6 +3289,7 @@ aminic
 artal
 actu
 actual
+appositions
 actualisation
 alchemistry
 anagogic
@@ -17897,7 +17898,6 @@ apposiopestic
 appositeness
 aperients
 appositionally
-appositions
 appositive
 apppetible
 appraisal

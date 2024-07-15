@@ -2618,7 +2618,6 @@ evaporator
 electrostenolysis
 electrostenolytic
 electrostriction
-electrosurgery
 electrosurgeries
 electrosurgical
 electrosurgically
@@ -4882,6 +4881,7 @@ encroacher
 encroaches
 ependytes
 encroachingly
+electrosurgery
 eupion
 eophyton
 ecotopic
