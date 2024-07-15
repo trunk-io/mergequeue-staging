@@ -6294,7 +6294,6 @@ gillotype
 gnathobdellida
 gnathometer
 groomling
-gnathonical
 gnathonically
 gnathonism
 grincome
@@ -9763,6 +9762,7 @@ gs
 gt
 gtc
 gentlemanlike
+gnathonical
 guipures
 gtd
 gthite
