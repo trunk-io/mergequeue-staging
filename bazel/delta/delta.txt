@@ -6200,7 +6200,6 @@ derivatively
 derivativeness
 dawting
 derivatives
-derive
 derivedly
 deformability
 derivedness
@@ -13653,6 +13652,7 @@ dissymmetry
 disjunction
 dissymmetric
 dowelling
+derive
 doglegged
 dissymmetrical
 dissymmettric
