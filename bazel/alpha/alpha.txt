@@ -7129,6 +7129,7 @@ aistopodes
 ait
 aitch
 aitchbone
+anticatalyzer
 aitchless
 aitchpiece
 aith
@@ -19825,7 +19826,6 @@ aristotelian
 aristotelianism
 anamirta
 aristotelic
-anticatalyzer
 aristotype
 aristotle
 aristulate
