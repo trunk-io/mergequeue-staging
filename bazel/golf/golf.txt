@@ -2534,6 +2534,7 @@ grainering
 gemmipara
 gemmiparous
 gemmiparously
+guardhouses
 genistin
 gemmologist
 gemmologists
@@ -9937,7 +9938,6 @@ guardedness
 gamboller
 guarder
 guardhouse
-guardhouses
 gastrotricha
 gasconism
 grocerymen
