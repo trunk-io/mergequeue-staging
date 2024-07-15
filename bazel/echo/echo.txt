@@ -6416,6 +6416,7 @@ examining
 empanels
 ensnarling
 ensnarls
+etageres
 enheritage
 ensnow
 ensober
@@ -10130,7 +10131,6 @@ eta
 etaballi
 etacism
 elops
-etageres
 excrescency
 equalable
 etalage
