@@ -11608,6 +11608,7 @@ cholecyst
 cholecystectasia
 consulted
 cholecystectomy
+ciborium
 cholecystectomized
 cholecystenterorrhaphy
 cholecystenterostomy
@@ -13208,7 +13209,6 @@ cyborg
 cyborgs
 cibory
 ciboria
-ciborium
 ciboule
 ciboules
 cyc
