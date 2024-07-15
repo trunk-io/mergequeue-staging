@@ -2927,7 +2927,6 @@ deduced
 differentiant
 deducement
 deducer
-deduces
 deducibility
 deducibly
 dolce
@@ -13314,6 +13313,7 @@ dispurpose
 dispurse
 disputability
 disputableness
+deduces
 deprivations
 drent
 disputably
