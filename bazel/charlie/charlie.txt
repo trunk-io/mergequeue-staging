@@ -1280,7 +1280,6 @@ canis
 calycozoon
 calicular
 calycular
-columelliform
 caliculate
 calyculate
 calyculated
@@ -16606,6 +16605,7 @@ clogging
 cloglike
 clogmaker
 clogmaking
+columelliform
 clogs
 chroatol
 checkerberries
