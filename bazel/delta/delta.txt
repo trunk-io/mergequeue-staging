@@ -9276,7 +9276,6 @@ dysgenesic
 diereses
 decarburation
 dieresis
-dieretic
 dieri
 dyes
 dieses
@@ -16919,6 +16918,7 @@ desi
 dreamless
 dreamlessly
 doubleheader
+dieretic
 dreamlet
 daybill
 drumble
