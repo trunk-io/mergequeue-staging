@@ -5308,7 +5308,6 @@ forjudger
 fledged
 fulminant
 fistlike
-fifthly
 fledgeless
 fledgeling
 filterman
@@ -5704,6 +5703,7 @@ fishberry
 faire
 fliting
 fishnet
+fifthly
 flytings
 futharks
 fleuronee
