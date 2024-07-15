@@ -1447,7 +1447,6 @@ feasibility
 fluffily
 frison
 fatsos
-fatstock
 fatted
 fattenable
 foci
@@ -10532,6 +10531,7 @@ formulise
 frowardness
 flocks
 ferocities
+fatstock
 frower
 frown
 frowned
