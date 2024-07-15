@@ -6110,7 +6110,6 @@ gisel
 grapnels
 glucoprotein
 gesning
-goback
 glucosamine
 glucosazone
 glucose
@@ -10807,6 +10806,7 @@ gastrointestinal
 gumbo
 glycerolize
 grouted
+goback
 guerdons
 gutturalness
 gregorianist
