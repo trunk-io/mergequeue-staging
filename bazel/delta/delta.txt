@@ -5856,6 +5856,7 @@ depositum
 didle
 depositure
 derailleur
+diverts
 depot
 defecter
 drillers
@@ -14419,7 +14420,6 @@ divertise
 dawdler
 divertissements
 didrachmal
-diverts
 dives
 discorder
 digitizing
