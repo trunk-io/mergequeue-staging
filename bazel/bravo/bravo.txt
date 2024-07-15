@@ -2735,7 +2735,6 @@ barleymow
 barleys
 barleysick
 barly
-barling
 barlock
 ballant
 barlow
@@ -15268,6 +15267,7 @@ briered
 bel
 briery
 brierroot
+barling
 briers
 brierwood
 bries
