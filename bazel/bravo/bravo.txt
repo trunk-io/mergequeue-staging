@@ -606,6 +606,7 @@ backsword
 bettergates
 bestness
 backswordmen
+bole
 behav
 backtack
 backtender
@@ -12105,7 +12106,6 @@ boldoine
 biophor
 boys
 boldu
-bole
 bolection
 blockwood
 boled
