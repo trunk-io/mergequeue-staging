@@ -961,7 +961,6 @@ grumble
 guesser
 gamiest
 gamily
-girasole
 gnashes
 gamines
 gaminesque
@@ -3161,6 +3160,7 @@ gambesons
 geomancer
 geomancy
 grandmotherhood
+girasole
 geomancies
 geomant
 geomantically
