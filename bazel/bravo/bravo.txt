@@ -4814,6 +4814,7 @@ bedsonia
 barytocelestite
 bumblefoot
 bedsores
+bestir
 bedspread
 bedspreads
 bedspring
@@ -7237,7 +7238,6 @@ bestowable
 bestowal
 broadener
 bestowals
-bestir
 bestower
 bestowing
 bestowment
