@@ -4453,7 +4453,6 @@ adrench
 adrenergic
 adrenin
 adrenochrome
-adrenocortical
 adrenocorticosteroid
 adrenocorticotrophic
 ammonolysis
@@ -15953,6 +15952,7 @@ antiphysicalness
 antiphysician
 antiphlogistian
 antiphlogistic
+adrenocortical
 atour
 antiphon
 antiphona
