@@ -1651,6 +1651,7 @@ egos
 egosyntonic
 encoronet
 entier
+enbaissing
 es
 egotheism
 egotisms
@@ -4443,7 +4444,6 @@ enascent
 enates
 enatic
 enations
-enbaissing
 enbloc
 enbranglement
 enbusshe
