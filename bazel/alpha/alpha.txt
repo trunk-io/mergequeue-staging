@@ -5697,7 +5697,6 @@ afterfame
 afterfermentation
 afterform
 afterfruits
-afterfuture
 aftergame
 aftergas
 agglutinoid
@@ -25330,6 +25329,7 @@ azoth
 azothionium
 alastrim
 azoths
+afterfuture
 ancylodactyla
 azotic
 azotin

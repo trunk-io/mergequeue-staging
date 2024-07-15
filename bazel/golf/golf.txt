@@ -640,7 +640,6 @@ grunswel
 greetingless
 galligaskin
 gallberries
-galligaskins
 gallygaskins
 gallying
 galempung
@@ -4613,6 +4612,7 @@ gins
 glum
 ginseng
 gargarize
+galligaskins
 grammatology
 graphiological
 gaucho
