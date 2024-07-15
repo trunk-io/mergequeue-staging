@@ -6557,6 +6557,7 @@ dablet
 dorhawk
 descriptives
 descriptivism
+disambiguation
 dermititis
 descriptor
 descriptors
@@ -11031,7 +11032,6 @@ disallows
 disaltern
 disambiguates
 deoxyribonucleic
-disambiguation
 demobbing
 disambiguations
 disamenity
