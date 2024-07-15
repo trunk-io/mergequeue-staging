@@ -2396,7 +2396,6 @@ decimole
 decimosexto
 decimus
 disquietedness
-decine
 decyne
 decinormal
 decipher
@@ -12557,6 +12556,7 @@ disinterested
 disinterestedness
 dharmas
 disintermediation
+decine
 disrobe
 disinterment
 dorbeetle
