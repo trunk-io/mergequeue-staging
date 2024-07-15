@@ -94,7 +94,6 @@ abandon
 abandonable
 abandoned
 abandonedly
-abandonee
 abandoner
 abandoning
 ablend
@@ -5811,6 +5810,7 @@ afterthinker
 achromatium
 artistdom
 afterthought
+abandonee
 afterthoughts
 arain
 apastron
