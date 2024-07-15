@@ -759,6 +759,7 @@ bacterization
 bacterize
 bacterized
 bacterizing
+benzothiazoline
 bacteroid
 bacteroideae
 bacteroides
@@ -6469,7 +6470,6 @@ benzotetrazole
 bullyragger
 benzothiazine
 bellipotent
-benzothiazoline
 bien
 benzothiofuran
 benzothiophene
