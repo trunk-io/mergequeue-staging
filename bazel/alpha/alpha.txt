@@ -1637,7 +1637,6 @@ acclimatisable
 acclimatise
 acclimatised
 albuminometer
-asclepieion
 acclimatiser
 acclimatization
 apokreos
@@ -12559,6 +12558,7 @@ androsace
 anthocephalous
 apostrophizing
 androscoggin
+asclepieion
 alacran
 androsin
 androsphinges
