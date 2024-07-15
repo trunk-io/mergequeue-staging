@@ -819,7 +819,6 @@ footfalls
 fibrinopurulent
 fanjet
 fanjets
-fanleaf
 fanlight
 fulminous
 foreseize
@@ -1015,6 +1014,7 @@ furrowlike
 farhands
 farinaceous
 farinaceously
+fanleaf
 fooster
 faceteness
 farinacious
