@@ -5615,6 +5615,7 @@ dependents
 diatrymiformes
 depender
 dysnomy
+dorsocephalad
 doketic
 depending
 dependingly
@@ -15842,7 +15843,6 @@ dorsoabdominal
 dorsoapical
 dorsocaudad
 dorsocaudal
-dorsocephalad
 dorsocephalic
 diervilla
 dorsocervical
