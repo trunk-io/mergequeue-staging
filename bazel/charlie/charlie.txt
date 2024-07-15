@@ -9408,7 +9408,6 @@ cohenite
 chaunter
 chaunters
 chauri
-cpi
 chaus
 chausse
 chaussee
@@ -26328,6 +26327,7 @@ costuming
 costumist
 cassican
 cosubject
+cpi
 cosubordinate
 coconqueror
 cosuffer
