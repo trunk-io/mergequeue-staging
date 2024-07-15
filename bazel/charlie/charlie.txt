@@ -7062,7 +7062,6 @@ centesimi
 cenotaph
 centesimo
 centesimos
-centesis
 centesm
 centetes
 centetid
@@ -24837,6 +24836,7 @@ copulating
 copulative
 copulatively
 conquian
+centesis
 copulatory
 copunctal
 copurchaser
