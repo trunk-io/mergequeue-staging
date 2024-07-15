@@ -5140,7 +5140,6 @@ diplostemonous
 deflater
 deniers
 denies
-denigrated
 denigrates
 dobsonfly
 denigrating
@@ -16718,6 +16717,7 @@ dramatis
 doorstone
 dramatising
 dramatism
+denigrated
 disvantage
 dramatist
 dramatizable
