@@ -4938,7 +4938,6 @@ endanger
 embalmers
 endangered
 endangering
-endangerment
 exululate
 endangerments
 endearedness
@@ -5332,6 +5331,7 @@ endospermic
 eserines
 endospermous
 enslave
+endangerment
 entozoa
 encrypt
 ecthyma
