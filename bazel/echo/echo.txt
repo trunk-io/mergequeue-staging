@@ -3192,7 +3192,6 @@ eranthis
 evocative
 esphresis
 elution
-elutriated
 elutriating
 everich
 elutriation
@@ -12801,6 +12800,7 @@ equilibrates
 entrada
 exorcizement
 exorcizing
+elutriated
 exordial
 exordium
 exordiums
