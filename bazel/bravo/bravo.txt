@@ -4923,6 +4923,7 @@ beeflower
 bristle
 beefs
 beefsteak
+bookbind
 briarroot
 beefsteaks
 beefwood
@@ -12642,7 +12643,6 @@ boohooing
 boohoos
 book
 bookable
-bookbind
 bookbinder
 bookbindery
 baianism
