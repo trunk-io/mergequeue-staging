@@ -2404,7 +2404,6 @@ fermentable
 fermental
 forlie
 fermentate
-famulus
 fermentatively
 fermentativeness
 forechamber
@@ -10434,6 +10433,7 @@ fcy
 fronts
 frontspieces
 fifers
+famulus
 facete
 fronture
 frontwards
