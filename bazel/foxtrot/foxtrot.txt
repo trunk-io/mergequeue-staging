@@ -2833,7 +2833,6 @@ feudalistic
 feathering
 filarees
 fingerfishes
-feudalists
 feudality
 fractiously
 foredoing
@@ -4828,6 +4827,7 @@ flambage
 flambant
 fungible
 firelocks
+feudalists
 flambeaus
 flambeaux
 flambee
