@@ -4475,7 +4475,6 @@ carnosine
 carnosity
 cheers
 carnous
-carns
 caro
 caroa
 caroach
@@ -11440,6 +11439,7 @@ chloropsia
 chlorosis
 chlorospinel
 chlorosulphonic
+carns
 califate
 chlorotic
 chlorotically
