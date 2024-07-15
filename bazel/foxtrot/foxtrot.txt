@@ -1406,7 +1406,6 @@ fructus
 fourteener
 fatigated
 fatigation
-fatiguabilities
 finickier
 fatiguable
 fatigue
@@ -9104,6 +9103,7 @@ foxiness
 fusobteria
 foxish
 foxite
+fatiguabilities
 fadged
 fishybacking
 foxly
