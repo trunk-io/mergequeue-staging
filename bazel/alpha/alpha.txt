@@ -6641,6 +6641,7 @@ agrotype
 agrotis
 asiatical
 aberroscope
+anthozoic
 aground
 agrufe
 agruif
@@ -14547,7 +14548,6 @@ anthotropic
 anthoxanthum
 anthozoa
 anthozoan
-anthozoic
 allopathy
 anthozoon
 anthracemia

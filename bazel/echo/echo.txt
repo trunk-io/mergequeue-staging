@@ -7747,7 +7747,6 @@ epilogs
 epidermophyton
 evading
 epidermose
-epimere
 epidermous
 etna
 epiderms
@@ -11499,6 +11498,7 @@ electroionic
 evocating
 enfevers
 elegizing
+epimere
 evergreen
 every
 everyday
