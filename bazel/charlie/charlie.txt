@@ -6675,7 +6675,6 @@ celestas
 celeste
 corned
 celestes
-celestial
 coolheaded
 celestiality
 celestialized
@@ -8118,6 +8117,7 @@ chaetopodous
 chaetopterus
 chaetosomatidae
 chaetosomidae
+celestial
 chaetotactic
 chaetotaxy
 chaetura
