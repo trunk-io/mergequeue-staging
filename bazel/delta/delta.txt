@@ -5433,7 +5433,6 @@ denude
 disaffiliating
 denuder
 denuders
-denudes
 denuding
 denumerability
 denumerable
@@ -16324,6 +16323,7 @@ defeasive
 downgone
 downiness
 downgrade
+denudes
 downgraded
 downgrading
 downhanging
