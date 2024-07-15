@@ -3797,6 +3797,7 @@ batton
 billbroking
 bottom
 blains
+bivariant
 backspang
 battu
 battue
@@ -9983,7 +9984,6 @@ bivalvian
 bivalvous
 backlog
 bivane
-bivariant
 bivariate
 bivascular
 bivector
