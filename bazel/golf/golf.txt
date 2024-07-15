@@ -700,6 +700,7 @@ graveclod
 garnish
 gallon
 gallonage
+gunnar
 gepoun
 greeneries
 galilee
@@ -10522,7 +10523,6 @@ gynopara
 gonof
 gunmetals
 gunnage
-gunnar
 gerbil
 gunnen
 gunner
