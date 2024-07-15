@@ -2890,6 +2890,7 @@ galactophthysis
 gravemaking
 genteelness
 grogginess
+goety
 gibberellin
 giantlikeness
 geysers
@@ -6545,7 +6546,6 @@ glacon
 goetae
 goethe
 gimlety
-goety
 goetic
 gofer
 goff
