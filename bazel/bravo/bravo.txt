@@ -1900,7 +1900,6 @@ baign
 bandager
 bauxitite
 bootleg
-bandaging
 brakes
 bandagist
 boardmen
@@ -12053,6 +12052,7 @@ boisterously
 boisterousness
 biffing
 boistousness
+bandaging
 boites
 backage
 bibliothecae
