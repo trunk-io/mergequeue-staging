@@ -404,7 +404,6 @@ ebulliently
 eutechnics
 ebulliometer
 ebulliometry
-ebullioscope
 exclaimer
 empery
 ebullioscopic
@@ -4557,6 +4556,7 @@ emollients
 encephalitogenic
 encephalocele
 encephalocoele
+ebullioscope
 encephalodialysis
 encephalograph
 encephalographic
