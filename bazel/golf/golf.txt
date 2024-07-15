@@ -7855,7 +7855,6 @@ grumousness
 grammatical
 grammaticality
 glossate
-grammatically
 galways
 grammaticaster
 glazy
@@ -10388,6 +10387,7 @@ gulp
 gulpers
 gulpy
 gulping
+grammatically
 gulpingly
 gulsach
 gult
