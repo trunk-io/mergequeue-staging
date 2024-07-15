@@ -2386,7 +2386,6 @@ endaseh
 economiser
 electrodialyze
 electrodynamic
-electrodynamical
 earlobe
 enter
 electrodynamism
@@ -9055,6 +9054,7 @@ eriometer
 eryon
 eriophyid
 encephalopathy
+electrodynamical
 eriophyidae
 echeneidae
 eryopid
