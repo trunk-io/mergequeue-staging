@@ -1470,7 +1470,6 @@ dcollet
 digested
 dcolletage
 dcor
-ddname
 ddt
 divine
 dea
@@ -8410,6 +8409,7 @@ dialuric
 dural
 diam
 diamagnet
+ddname
 diamagnetic
 diamagnetically
 duskier
