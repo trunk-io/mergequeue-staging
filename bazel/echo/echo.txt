@@ -2705,7 +2705,6 @@ ejulation
 elegious
 extratropical
 elegise
-elegised
 elegises
 epigraph
 electrepeter
@@ -7449,6 +7448,7 @@ ephebi
 excelsitude
 elasticizer
 ephebic
+elegised
 entropies
 epheboi
 ephebos
