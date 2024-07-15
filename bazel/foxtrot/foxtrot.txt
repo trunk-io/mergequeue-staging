@@ -267,7 +267,6 @@ funguslike
 frogstool
 fadmongering
 forjudging
-fados
 feere
 fadridden
 fiasco
@@ -7509,6 +7508,7 @@ fisticuffs
 forecasting
 faujdar
 forecastingly
+fados
 forecastle
 fishpound
 falsifiers
