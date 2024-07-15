@@ -6515,7 +6515,6 @@ cardmaker
 cecidium
 cecidogenous
 cecidology
-cecidologist
 cecidomyian
 cecidomyiid
 cecidomyiidae
@@ -31895,6 +31894,7 @@ cutworks
 collow
 cutworm
 cutworms
+cecidologist
 cuvage
 cuve
 cuvee
