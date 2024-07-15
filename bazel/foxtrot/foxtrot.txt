@@ -6304,6 +6304,7 @@ fluidmeter
 familiary
 fluidness
 fluidounce
+fascicle
 factordom
 fluidrams
 fifteenths
@@ -7161,7 +7162,6 @@ flodge
 footlog
 footloose
 footmanhood
-fascicle
 footmanship
 footmark
 fideicommission
