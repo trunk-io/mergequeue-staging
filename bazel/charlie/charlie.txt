@@ -178,7 +178,6 @@ cabrillas
 clock
 cabriole
 cabrioles
-cabriolet
 cabriolets
 cabrit
 cabs
@@ -12324,6 +12323,7 @@ chrysopidae
 chrysopoeia
 chrysopoetic
 chrysoprase
+cabriolet
 coenduring
 chrysoprasus
 chrysops
