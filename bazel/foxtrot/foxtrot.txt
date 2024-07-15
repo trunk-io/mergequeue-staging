@@ -282,7 +282,6 @@ faenus
 foreboder
 faerie
 faeries
-faeryland
 freedstool
 faeroese
 favellilidia
@@ -8271,6 +8270,7 @@ forint
 forints
 forisfamiliation
 forjaskit
+faeryland
 forjesket
 forjudge
 featherlessness
