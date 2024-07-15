@@ -1177,6 +1177,7 @@ baits
 battement
 baittle
 bambuba
+bandages
 baywood
 blennorrhinia
 blandishes
@@ -7605,7 +7606,6 @@ baubo
 bewitching
 bewitchingness
 bewonder
-bandages
 butterflied
 bakeout
 belton
