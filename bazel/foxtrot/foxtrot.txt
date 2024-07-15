@@ -6932,6 +6932,7 @@ fierding
 ferroelectricity
 fathearted
 flyingly
+formalizer
 folksinger
 folksong
 folksongs
@@ -8355,7 +8356,6 @@ formalith
 formalities
 formalizations
 formalize
-formalizer
 felliducous
 formalizes
 fluoridize

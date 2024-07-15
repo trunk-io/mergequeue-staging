@@ -5703,7 +5703,6 @@ btl
 bulldozer
 belying
 belyingly
-belike
 belikely
 belili
 belime
@@ -6783,6 +6782,7 @@ beroe
 berogue
 beroida
 beroidae
+belike
 berouged
 beround
 berreave
