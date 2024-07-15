@@ -13353,7 +13353,6 @@ cyclists
 cyclitic
 cyclitol
 cyclitols
-cyclization
 cyclize
 cyclizes
 cyclizing
@@ -20723,6 +20722,7 @@ complementation
 complementative
 complemented
 complementer
+cyclization
 cylindrenchema
 complementing
 ceremonialness
