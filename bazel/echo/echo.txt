@@ -2342,6 +2342,7 @@ electrocystoscope
 electrocolloidal
 electrocontractility
 electroconvulsive
+electroscope
 electrocorticogram
 elocutioner
 emeus
@@ -10029,7 +10030,6 @@ estivate
 estivates
 estivation
 encipherments
-electroscope
 exterminations
 estivator
 estive
