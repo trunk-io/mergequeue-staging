@@ -139,7 +139,6 @@ gobies
 gaed
 gaedelian
 gael
-gaelic
 gleemaiden
 grampus
 gaelicist
@@ -4001,6 +4000,7 @@ gongorist
 giddying
 grecing
 girny
+gaelic
 gidgea
 germiparous
 graders
