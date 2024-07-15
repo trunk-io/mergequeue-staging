@@ -6345,7 +6345,6 @@ ensellure
 eupione
 ensepulchered
 ensepulchering
-ensepulchre
 enamoredness
 enserf
 exomphalos
@@ -13066,6 +13065,7 @@ experienceable
 experienced
 experiencer
 experiencible
+ensepulchre
 extrametaphysical
 exponention
 experiencing
