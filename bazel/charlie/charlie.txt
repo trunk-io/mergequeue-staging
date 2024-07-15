@@ -14302,7 +14302,6 @@ circumambulations
 circumambulator
 chrysotherapy
 circumantarctic
-circumarctic
 circumarticular
 circumaviate
 circumaviation
@@ -16201,6 +16200,7 @@ climacus
 circuitable
 climant
 climata
+circumarctic
 climatal
 climatarchic
 climate
