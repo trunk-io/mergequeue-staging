@@ -5771,7 +5771,6 @@ depolarize
 depolarized
 depolarizers
 depolarizes
-deathlike
 depolymerization
 displeasurably
 depolymerize
@@ -11992,6 +11991,7 @@ diseasy
 disemprison
 disenabled
 deferable
+deathlike
 disenablement
 disenabling
 disenamor

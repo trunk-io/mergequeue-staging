@@ -13192,6 +13192,7 @@ brockage
 bosque
 bosquet
 bosquets
+bedright
 bossage
 bossboy
 bossdom
@@ -17833,7 +17834,6 @@ blindfish
 burps
 burr
 burrah
-bedright
 burratine
 burrawang
 burrbark
