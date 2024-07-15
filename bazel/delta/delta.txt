@@ -9851,7 +9851,6 @@ demountability
 diluvium
 drawboy
 diluviums
-dim
 dimane
 disgorging
 dimanganion
@@ -11447,6 +11446,7 @@ discoglossoid
 discographer
 discographic
 discographical
+dim
 dekaliter
 discographies
 discoidal
