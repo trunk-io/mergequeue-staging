@@ -1077,6 +1077,7 @@ edges
 edgeshot
 edgestone
 edgeway
+electroimpulse
 erythropia
 edgewise
 edgy
@@ -12358,7 +12359,6 @@ extravaganza
 exemplifications
 exemplificative
 exemplificator
-electroimpulse
 exemplified
 exemplifier
 exemplifiers
