@@ -1508,7 +1508,6 @@ accentual
 accentually
 arerola
 accentuated
-accentuator
 accentus
 accept
 acceptability
@@ -7322,6 +7321,7 @@ alabastrum
 autokinetic
 alabastrums
 alachah
+accentuator
 alack
 alacreatine
 alacreatinin
