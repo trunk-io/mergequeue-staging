@@ -4638,7 +4638,6 @@ bedel
 bedell
 bedells
 bedels
-bedeman
 bedemen
 beden
 bedesman
@@ -12952,6 +12951,7 @@ baggy
 beneurous
 bordarius
 bordel
+bedeman
 bordelaise
 bordello
 bordellos
