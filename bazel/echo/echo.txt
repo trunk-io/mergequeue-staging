@@ -4913,6 +4913,7 @@ endamages
 endamaging
 endamask
 esurine
+executancy
 englerophoenix
 emotion
 euglobulin
@@ -7822,7 +7823,6 @@ ensilation
 embryologist
 epigenous
 evinces
-executancy
 epigeous
 epigeum
 epistasis
