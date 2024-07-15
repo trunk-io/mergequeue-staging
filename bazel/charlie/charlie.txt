@@ -9787,7 +9787,6 @@ cyclosporous
 cheiromegaly
 cheiropatagium
 cheiropod
-cheiropody
 cheiropodist
 cheiropompholyx
 cheiroptera
@@ -11355,6 +11354,7 @@ chloroamine
 chloroanaemia
 concorporate
 chloroaurate
+cheiropody
 chloroauric
 chloroaurite
 chlorobenzene
