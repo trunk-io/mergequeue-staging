@@ -22570,7 +22570,6 @@ conjuror
 cricetine
 conk
 conked
-conker
 conkers
 conky
 conking
@@ -26372,6 +26371,7 @@ coterminous
 chaoses
 coterminously
 coterminousness
+conker
 cotes
 cotesian
 cothamore
