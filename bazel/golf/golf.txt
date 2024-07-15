@@ -4899,6 +4899,7 @@ gyrostat
 giusto
 greystone
 gastroplenic
+gramineous
 gunnysack
 guarrau
 girouette
@@ -7827,7 +7828,6 @@ gramineae
 greenier
 guitarfishes
 gramineal
-gramineous
 ghostism
 graminicolous
 gallophile
