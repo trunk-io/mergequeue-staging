@@ -11360,7 +11360,6 @@ bluegum
 broma
 bluegums
 bluehead
-bluehearted
 bluehearts
 bluey
 blueing
@@ -15375,6 +15374,7 @@ brince
 brinded
 brindlish
 butanolid
+bluehearted
 brined
 brinehouse
 barbotte
