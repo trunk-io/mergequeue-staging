@@ -3612,7 +3612,6 @@ bilos
 buoyances
 bathman
 bathmats
-bathmic
 bathmism
 bathochromatic
 boscages
@@ -11066,6 +11065,7 @@ bura
 blooddrops
 breathier
 blooded
+bathmic
 bradyuria
 backs
 bloodflower
