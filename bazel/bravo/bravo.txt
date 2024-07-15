@@ -1225,6 +1225,7 @@ bimillenniums
 bakery
 bakeries
 bakerite
+bookmobiles
 bakerless
 bakerly
 bakerlike
@@ -12712,7 +12713,6 @@ blips
 bifara
 bookmarks
 bookmobile
-bookmobiles
 bookmonger
 bookplate
 blady
