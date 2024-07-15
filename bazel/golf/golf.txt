@@ -566,7 +566,6 @@ glassite
 galleyworm
 galleons
 gallera
-grubbier
 gallerian
 gentisate
 gomerels
@@ -6831,6 +6830,7 @@ gonozooid
 gonepoietic
 goners
 gonfalon
+grubbier
 gashed
 gammaridae
 gonfalonierate
