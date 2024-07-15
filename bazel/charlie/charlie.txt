@@ -2481,6 +2481,7 @@ canfields
 crystic
 canfuls
 cangan
+cardiocele
 cangenet
 cangy
 cangle
@@ -3987,7 +3988,6 @@ cardioaccelerator
 cardioarterial
 cardioblast
 cardiocarpum
-cardiocele
 clodpole
 cardiocirrhosis
 cardioclasia

@@ -1988,7 +1988,6 @@ bonfire
 borrel
 bandoleer
 bandoleered
-bandolerismo
 bandolero
 bandoleros
 bandolier
@@ -6283,6 +6282,7 @@ benson
 bent
 brandsolder
 benthal
+bandolerismo
 baldie
 benthamic
 betire
