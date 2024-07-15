@@ -3383,7 +3383,6 @@ forebow
 fiftypenny
 figaro
 figeter
-figgery
 foofaraws
 figgier
 figgum
@@ -8283,6 +8282,7 @@ foiler
 fumeroot
 fork
 forkable
+figgery
 forked
 forkedness
 frontomaxillary
