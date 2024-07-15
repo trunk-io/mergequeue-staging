@@ -6698,7 +6698,6 @@ gnathopod
 goldthread
 goldtit
 goldurn
-galeopithecus
 goldworker
 grimness
 golee
@@ -7045,6 +7044,7 @@ goodwily
 goodwill
 greenleek
 goodwillie
+galeopithecus
 goodwillies
 gunkhole
 goodwillit
