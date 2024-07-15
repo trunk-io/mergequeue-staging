@@ -3351,7 +3351,6 @@ etoiles
 ecchondrotome
 embarrassedly
 embarrasses
-embarrassing
 embarrassment
 embarrassments
 embarrel
@@ -8418,6 +8417,7 @@ epitrachelion
 epitria
 epitrichial
 extratelluric
+embarrassing
 epitrite
 enthraller
 epitrope

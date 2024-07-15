@@ -469,7 +469,6 @@ falafel
 falange
 falasha
 fatlings
-flaxman
 fireboy
 fosterling
 falcade
@@ -6874,6 +6873,7 @@ fissidentaceous
 foliated
 foliation
 folies
+flaxman
 foliiferous
 folily
 foreadapt
