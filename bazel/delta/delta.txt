@@ -406,7 +406,6 @@ daimyos
 daimiote
 daimones
 daimonic
-daimonion
 daimonistic
 daimonology
 dain
@@ -5887,6 +5886,7 @@ deprecating
 deprecations
 disconcert
 deprecatively
+daimonion
 deprecatory
 deprecatorily
 deprecatoriness
