@@ -6898,7 +6898,6 @@ cementoma
 cupiuba
 cements
 cementum
-chambellan
 cemetary
 cemetaries
 cemetery
@@ -15726,6 +15725,7 @@ clathrate
 clathrina
 clathrinidae
 clathrose
+chambellan
 clathrulate
 clathrus
 clatsop
