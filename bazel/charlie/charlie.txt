@@ -3750,7 +3750,6 @@ corinthian
 carbonization
 carbonize
 carbonized
-counterdoctrine
 carbonizers
 chylificatory
 carbonizes
@@ -9962,6 +9961,7 @@ chemoreceptor
 chemoresistance
 chemosensitive
 chemosensitivities
+counterdoctrine
 chemoserotherapy
 chemoses
 chemosynthesis
