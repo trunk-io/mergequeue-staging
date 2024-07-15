@@ -6661,7 +6661,6 @@ golder
 goldest
 glucagon
 getatability
-goldfields
 greengroceries
 goldfinch
 greillade
@@ -10276,6 +10275,7 @@ guirlande
 guisarme
 guise
 guiser
+goldfields
 gustatorially
 guisian
 guitar
