@@ -14737,7 +14737,6 @@ cystocolostomy
 cribrose
 cystodynia
 cystoelytroplasty
-cystoepiplocele
 cystoepithelioma
 cystoflagellata
 cystoflagellate
@@ -31467,6 +31466,7 @@ counterinvective
 cursa
 cursal
 cursaro
+cystoepiplocele
 curse
 cursed
 cleistogeny
