@@ -7195,7 +7195,6 @@ dualities
 detective
 detector
 doxa
-detectors
 detects
 deductions
 detenant
@@ -12067,6 +12066,7 @@ disenthronement
 deled
 disentitle
 disentitlement
+detectors
 disentomb
 disentombment
 declaimant
