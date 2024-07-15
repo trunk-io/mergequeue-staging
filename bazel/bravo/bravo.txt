@@ -3221,7 +3221,6 @@ bargainers
 bashlyks
 bashment
 basial
-befoulment
 basialveolar
 balmy
 blindages
@@ -12061,6 +12060,7 @@ boithrin
 bojite
 bojo
 bromaurate
+befoulment
 bokadam
 behaviored
 bokard
