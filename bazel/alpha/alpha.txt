@@ -1803,6 +1803,7 @@ accreditate
 accreditation
 accredited
 accreditee
+acicular
 accrediting
 accreditment
 accredits
@@ -9096,7 +9097,6 @@ anchieutectic
 allowancing
 allowed
 allowedly
-acicular
 allower
 allowing
 anhingas
