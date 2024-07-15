@@ -1217,6 +1217,7 @@ bakehouses
 bactericidin
 bakelize
 bakemeat
+bursicle
 bakemeats
 bootlicks
 bakeoven
@@ -17892,7 +17893,6 @@ burseeds
 balaic
 burseraceous
 bedsonias
-bursicle
 briefs
 betrunk
 berrypicking
