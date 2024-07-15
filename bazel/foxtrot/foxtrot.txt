@@ -1787,7 +1787,6 @@ featishness
 featless
 featly
 featliest
-flocculency
 featliness
 felucca
 fornent
@@ -3414,6 +3413,7 @@ forevers
 figulate
 figulated
 figuline
+flocculency
 figurability
 forgat
 figurable
