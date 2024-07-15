@@ -7389,7 +7389,6 @@ gossoons
 goster
 growsome
 got
-gotch
 gotched
 gote
 goter
@@ -8655,6 +8654,7 @@ greenbelt
 glockenspiel
 glucide
 galabia
+gotch
 greenbone
 gaudsman
 greenbottle
