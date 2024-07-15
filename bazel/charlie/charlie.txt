@@ -2640,7 +2640,6 @@ cannonries
 cannons
 cannophori
 cannot
-cannstatt
 cannula
 cannular
 cannulas
@@ -24132,6 +24131,7 @@ converse
 conversed
 cratchens
 conversely
+cannstatt
 conjugally
 converser
 converses
