@@ -6886,6 +6886,7 @@ boondogglers
 bescutcheon
 burgrave
 beseam
+bearhug
 bosniak
 beseech
 beseecher
@@ -14828,7 +14829,6 @@ breakfasters
 breakfastless
 breakfront
 breakfronts
-bearhug
 breaking
 breakings
 breaklist
