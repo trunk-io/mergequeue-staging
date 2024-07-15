@@ -1947,7 +1947,6 @@ fellowcraft
 fornical
 fledgier
 feeling
-frippery
 formylation
 furnisher
 fondon
@@ -2254,6 +2253,7 @@ fencer
 furfures
 followers
 fluorspar
+frippery
 fencers
 ferronickel
 firebricks
