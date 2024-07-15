@@ -4470,7 +4470,6 @@ carnivoral
 carnivore
 carnivores
 carnivority
-carnivorous
 carnivorously
 carnivorousness
 carnose
@@ -20354,6 +20353,7 @@ communard
 chorographies
 communed
 communicability
+carnivorous
 communicable
 cacochymia
 communicably
