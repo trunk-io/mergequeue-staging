@@ -4616,6 +4616,7 @@ epiblema
 enchant
 enchanted
 enchanter
+extrafloral
 extramission
 enchantery
 excavationist
@@ -13842,7 +13843,6 @@ extraenteric
 extraequilibrium
 extraessential
 extrafine
-extrafloral
 extrafocal
 extrafoliaceous
 eschel
