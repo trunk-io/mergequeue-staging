@@ -3380,6 +3380,7 @@ acupunctuation
 acupuncturator
 acupuncture
 acupunctured
+asters
 acupuncturing
 acus
 acusection
@@ -22094,7 +22095,6 @@ asterospondylous
 asteroxylaceae
 asteroxylon
 asterozoa
-asters
 asthamatic
 astheny
 abjudge
