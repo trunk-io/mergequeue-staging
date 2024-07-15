@@ -4907,7 +4907,6 @@ electrometeor
 encumbrancer
 encumbrous
 eblis
-encushion
 endamageable
 esterifiable
 endamaged
@@ -12636,6 +12635,7 @@ exhumating
 exocardial
 exocarps
 exocataphoria
+encushion
 exochorda
 exochorion
 exocyclic

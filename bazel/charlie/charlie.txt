@@ -6205,7 +6205,6 @@ caulotaxis
 caulote
 cauls
 cauma
-caumatic
 counterscalloped
 caunch
 caunos
@@ -9228,6 +9227,7 @@ chaseable
 chased
 chasers
 chases
+caumatic
 chashitsu
 chasid
 chasidim
