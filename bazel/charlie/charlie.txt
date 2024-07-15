@@ -9999,7 +9999,6 @@ chemotherapeutic
 chemotherapeutical
 corporealist
 convent
-chemotherapeutically
 chemotherapeutics
 chemotherapies
 chemotherapist
@@ -23692,6 +23691,7 @@ contractibly
 contractile
 contractility
 crasher
+chemotherapeutically
 contracting
 contraction
 contractional
