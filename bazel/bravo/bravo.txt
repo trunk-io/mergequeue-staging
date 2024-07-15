@@ -4401,7 +4401,6 @@ beccaficoes
 becchi
 becco
 becense
-bechained
 bechalked
 bechalking
 binarium
@@ -12586,6 +12585,7 @@ brigantine
 bonser
 bonsoir
 bonspell
+bechained
 bonspells
 brike
 bonspiel
