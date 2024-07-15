@@ -16032,7 +16032,6 @@ cleoid
 cleome
 cleped
 cleping
-clepsydras
 clept
 cleptobioses
 cleptobiosis
@@ -30457,6 +30456,7 @@ cubbyu
 cubdom
 cube
 cubebs
+clepsydras
 cubed
 cubehead
 candied
