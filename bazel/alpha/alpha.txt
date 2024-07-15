@@ -6994,6 +6994,7 @@ airgraph
 airgraphics
 airhead
 airheads
+atopic
 airy
 airier
 airiferous
@@ -22834,7 +22835,6 @@ atop
 atopen
 atophan
 atopy
-atopic
 atopies
 atopite
 aplodontia
