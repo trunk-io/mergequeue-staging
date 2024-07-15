@@ -12466,6 +12466,7 @@ andrite
 androcentric
 androcephalous
 assenter
+artificer
 androcyte
 addr
 androclclinia
@@ -20760,7 +20761,6 @@ aeschynomene
 autoxidizable
 amman
 artifice
-artificer
 artificership
 artifices
 artificial
