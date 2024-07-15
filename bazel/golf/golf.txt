@@ -3712,7 +3712,6 @@ gummaker
 goshenite
 grottesco
 glossopalatinus
-grooveless
 gatter
 getpenny
 getspa
@@ -8466,6 +8465,7 @@ gate
 graver
 gravery
 gastrotubotomy
+grooveless
 graverobbing
 geminal
 gallivanted
