@@ -5036,7 +5036,6 @@ caseharden
 casehardened
 casehardening
 casehardens
-caseic
 casein
 caseinate
 caseine
@@ -20684,6 +20683,7 @@ complaining
 complainingness
 complains
 complaint
+caseic
 complaintive
 complaintiveness
 complaints
