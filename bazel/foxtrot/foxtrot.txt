@@ -8035,7 +8035,6 @@ flashlights
 flimsilyst
 foresummon
 federalizations
-flossiness
 foreswear
 foreswearing
 fumacious
@@ -10587,6 +10586,7 @@ fructiferous
 fructiferously
 freeform
 fructification
+flossiness
 fructificative
 fructifier
 flitted
