@@ -6753,7 +6753,6 @@ desist
 deictically
 desistance
 desisted
-desistence
 dockmaster
 desisting
 desistive
@@ -11416,6 +11415,7 @@ discloister
 debug
 dine
 discloser
+desistence
 disclosing
 disclosive
 disclosure

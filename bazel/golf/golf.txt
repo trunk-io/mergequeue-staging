@@ -2070,7 +2070,6 @@ guanin
 gaviiformes
 grotesquely
 gavot
-gavotte
 galliferous
 goniostat
 gastronosus
@@ -5966,6 +5965,7 @@ glossoncus
 glossopalatine
 girdlestead
 gametophagia
+gavotte
 goniotropous
 glossarize
 geepound
