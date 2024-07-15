@@ -3399,7 +3399,6 @@ acutenaculum
 acuter
 acutest
 acutifoliate
-acutilingual
 acutilobate
 acutiplantar
 acutish
@@ -20014,6 +20013,7 @@ armlike
 armload
 armloads
 aquifer
+acutilingual
 armlock
 armoires
 armomancy
