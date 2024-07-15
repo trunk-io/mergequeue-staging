@@ -3187,6 +3187,7 @@ fiddleneck
 fluviometer
 fountainlike
 fiddler
+floras
 faciendum
 firefight
 flags
@@ -5940,7 +5941,6 @@ floralize
 ferthumlungur
 floramor
 floran
-floras
 fitful
 florate
 floreal
