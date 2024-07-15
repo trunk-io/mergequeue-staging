@@ -1560,7 +1560,6 @@ deadpay
 deadpan
 deadpans
 deadrize
-ditting
 deadtongue
 deadwood
 deadwork
@@ -9472,6 +9471,7 @@ digest
 disparateness
 digestant
 digestedness
+ditting
 digester
 digesters
 digestibility
