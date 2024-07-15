@@ -6714,7 +6714,6 @@ celiolymph
 celiomyalgia
 celiomyomectomy
 celiomyositis
-celioparacentesis
 celiopyosis
 celiorrhea
 celioschisis
@@ -14394,6 +14393,7 @@ circummigration
 cyclometry
 circummundane
 canalizing
+celioparacentesis
 circummure
 circummured
 circummuring
