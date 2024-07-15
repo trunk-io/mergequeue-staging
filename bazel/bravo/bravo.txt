@@ -8006,7 +8006,6 @@ banderillero
 bichrome
 bichromic
 bicyanide
-bicycle
 bicycled
 bicycler
 bedusk
@@ -12642,6 +12641,7 @@ boohooing
 boohoos
 book
 bookable
+bicycle
 bookbind
 bookbinder
 bookbindery
