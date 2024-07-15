@@ -7959,7 +7959,6 @@ cestui
 cestuy
 cestus
 cestuses
-cesura
 cesural
 cesuras
 cellite
@@ -14551,6 +14550,7 @@ cyrillic
 cyriologic
 cyriological
 cirmcumferential
+cesura
 cirque
 cirrate
 cirrated
