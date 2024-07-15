@@ -1695,7 +1695,6 @@ aphasiac
 aludra
 accompaniment
 accompanimental
-accompaniments
 accompanist
 agrestis
 accompanists
@@ -15721,6 +15720,7 @@ aus
 antimoniuretted
 antimonopoly
 antimonopolist
+accompaniments
 apiculation
 antimonopolistic
 antimonopolization
