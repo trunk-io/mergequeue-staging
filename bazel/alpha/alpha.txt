@@ -2239,6 +2239,7 @@ achamoth
 antiseptics
 achape
 achaque
+algebraic
 achar
 acharya
 achariaceae
@@ -5290,7 +5291,6 @@ aeviternal
 aevum
 af
 anemometry
-algebraic
 aface
 afaced
 afacing

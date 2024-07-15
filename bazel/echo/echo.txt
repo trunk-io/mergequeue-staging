@@ -7801,7 +7801,6 @@ epigamic
 epigaster
 epigastraeum
 evonymus
-erethizontidae
 epigastral
 epigastria
 envelopment
@@ -13320,6 +13319,7 @@ extemporizing
 expostulator
 emotional
 expostulatory
+erethizontidae
 erythroderma
 epanaphoral
 exposure
