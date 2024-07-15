@@ -3708,6 +3708,7 @@ filmography
 films
 fascicularly
 filmset
+fillagree
 fluxion
 filmsetter
 filmsetting
@@ -7457,7 +7458,6 @@ forebar
 forebears
 firefighters
 falconine
-fillagree
 forebemoan
 forebemoaned
 forebespeak
