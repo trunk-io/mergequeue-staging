@@ -5281,7 +5281,6 @@ flechettes
 flecken
 flecker
 filenames
-fanum
 fleckering
 fairkeeper
 flecky
@@ -5620,6 +5619,7 @@ flip
 focalise
 findable
 forepaws
+fanum
 frayn
 fluffing
 flypaper
