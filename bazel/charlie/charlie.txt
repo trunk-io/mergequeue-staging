@@ -7268,7 +7268,6 @@ centuplication
 centupling
 chamicuro
 centure
-century
 centuria
 centurial
 counterseal
@@ -16734,6 +16733,7 @@ closers
 closes
 createdness
 closest
+century
 closet
 closeted
 cymbium
