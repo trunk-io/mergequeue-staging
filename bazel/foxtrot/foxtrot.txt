@@ -1044,6 +1044,7 @@ fucation
 fossilation
 farley
 farm
+foreglow
 firstfruits
 firnismalerei
 farmage
@@ -9070,7 +9071,6 @@ foxbane
 foxberry
 frictionizing
 foxberries
-foreglow
 foxer
 foxery
 foxes
