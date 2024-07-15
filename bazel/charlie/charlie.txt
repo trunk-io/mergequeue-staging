@@ -2825,7 +2825,6 @@ canthus
 canthuthi
 canty
 cantic
-coenamors
 canticle
 canticles
 cantico
@@ -9822,6 +9821,7 @@ chelidonin
 chelidosaurus
 chelydra
 chelydre
+coenamors
 chelydridae
 chelydroid
 chelifer
