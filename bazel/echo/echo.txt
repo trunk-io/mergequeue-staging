@@ -326,6 +326,7 @@ espousers
 eaters
 eath
 eathly
+enepidermic
 eatings
 el
 enthronised
@@ -5486,7 +5487,6 @@ enemylike
 enemyship
 etherially
 enent
-enepidermic
 energeia
 entad
 energetical
