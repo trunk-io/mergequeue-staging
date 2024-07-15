@@ -27,7 +27,6 @@ gabbler
 gabblers
 gabbles
 gayal
-gabbling
 globuloid
 gabbros
 gabe
@@ -2878,6 +2877,7 @@ genseng
 gensengs
 googols
 gentamicin
+gabbling
 genteel
 garotters
 gorilla
