@@ -35,7 +35,6 @@ daces
 deformers
 deplorers
 dacha
-dachshund
 dachshunde
 dacian
 dacyorrhea
@@ -10943,6 +10942,7 @@ differentiations
 dysacousia
 dysacousis
 dysacousma
+dachshund
 disacquaint
 disacquaintance
 disacryl
