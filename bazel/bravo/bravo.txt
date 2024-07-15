@@ -620,7 +620,6 @@ backtracking
 backtracks
 backtrick
 backus
-backveld
 backvelder
 babbit
 backway
@@ -718,6 +717,7 @@ bletherskate
 bacteriolytic
 bacteriolyze
 bacteriology
+backveld
 bacteriologic
 bedlids
 bacteriologically
