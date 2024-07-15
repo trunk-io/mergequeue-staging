@@ -4124,7 +4124,6 @@ foretoken
 federatist
 firecracker
 firecrackers
-fizzling
 fired
 firedamp
 firedog
@@ -5920,6 +5919,7 @@ floozie
 flop
 floperoo
 foreknow
+fizzling
 fatals
 fluidizer
 flopover
