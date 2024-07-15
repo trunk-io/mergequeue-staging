@@ -12690,7 +12690,6 @@ amperes
 anesthesimeter
 anesthesiology
 anesthesiologist
-allowableness
 anesthesiologists
 anesthesiometer
 anesthesis
@@ -20962,6 +20961,7 @@ ascendence
 ascendency
 ascendent
 aggregatae
+allowableness
 ascender
 ascendible
 ascending
