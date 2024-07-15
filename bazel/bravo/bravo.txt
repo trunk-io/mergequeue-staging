@@ -6110,6 +6110,7 @@ beneception
 blockman
 benedicite
 benedick
+befriz
 benedicks
 benedict
 benedictine
@@ -14487,7 +14488,6 @@ branchiostoma
 branchiostomid
 branchiostomous
 branchipodidae
-befriz
 branchipus
 bullsucker
 branchireme
