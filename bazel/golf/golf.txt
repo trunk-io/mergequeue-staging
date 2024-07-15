@@ -6749,7 +6749,6 @@ goloe
 goloka
 golpe
 goma
-gomari
 gomarian
 gateworks
 gomart
@@ -8132,6 +8131,7 @@ givens
 gossan
 granulitize
 granulization
+gomari
 granuloadipose
 genappe
 granulocytopoiesis
