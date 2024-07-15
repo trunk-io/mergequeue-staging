@@ -1079,6 +1079,7 @@ farmlands
 francisca
 fractionised
 fanworts
+fantasque
 fisc
 farmplace
 finials
@@ -4993,7 +4994,6 @@ forceps
 forestal
 flashback
 fellatee
-fantasque
 flashbulb
 flashcube
 flashcubes
