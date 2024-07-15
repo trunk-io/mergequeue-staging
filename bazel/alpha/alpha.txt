@@ -4035,6 +4035,7 @@ adjourned
 adjourning
 adjournments
 adjourns
+aquatinta
 adjoust
 ahchoo
 adjudge
@@ -18235,7 +18236,6 @@ aquatics
 ahom
 anarch
 aquatile
-aquatinta
 aquatinted
 aquatinter
 altimeter
