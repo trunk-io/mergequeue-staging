@@ -83,7 +83,6 @@ facework
 facy
 facial
 facially
-facials
 flambeau
 facie
 faciend
@@ -5427,6 +5426,7 @@ failingly
 fingerlike
 fleshliness
 fostell
+facials
 fleshquake
 flet
 fletched
