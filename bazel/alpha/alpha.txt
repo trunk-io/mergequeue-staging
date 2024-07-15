@@ -3262,7 +3262,6 @@ activations
 activators
 active
 activeness
-actives
 activin
 activism
 activisms
@@ -16116,6 +16115,7 @@ avoucher
 antirumor
 antiradiant
 antiradiation
+actives
 antiradical
 antiradicalism
 antiradically
