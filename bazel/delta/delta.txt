@@ -4931,7 +4931,6 @@ demotions
 demount
 dilemi
 disadventurous
-demountable
 demounted
 diffusively
 disgage
@@ -7516,6 +7515,7 @@ deutschemark
 dilactic
 deutschland
 deutzia
+demountable
 deuzan
 doyen
 dev
