@@ -528,7 +528,6 @@ firmarius
 faut
 foreshadows
 florets
-falkland
 fall
 fallace
 fallacy
@@ -8187,6 +8186,7 @@ forgab
 forgather
 forgathered
 forgathering
+falkland
 forgathers
 frontomental
 filmily
