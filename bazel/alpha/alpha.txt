@@ -2580,7 +2580,6 @@ apocodeine
 abattoir
 acknow
 acknowledgeable
-acknowledgedly
 achloropsia
 acknowledger
 acknowledgers
@@ -10812,6 +10811,7 @@ ammeos
 ammer
 ammeters
 ammi
+acknowledgedly
 ammiaceous
 ankou
 ammines
