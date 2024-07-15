@@ -4199,7 +4199,6 @@ deliverance
 delivered
 dressmaker
 deliverer
-deliverers
 deliveress
 deliveryman
 dekameters
@@ -16622,6 +16621,7 @@ dothideacea
 dragomen
 dragon
 dragonade
+deliverers
 deda
 damnonians
 drywall
