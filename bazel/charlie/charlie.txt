@@ -12482,7 +12482,6 @@ chromatone
 chromatopathy
 chromatopathic
 chromatophil
-chromatophile
 chromatophilia
 confidentness
 chromatophilic
@@ -17352,6 +17351,7 @@ coassist
 coassistant
 coassisted
 coassisting
+chromatophile
 coassists
 coassume
 coassumed
