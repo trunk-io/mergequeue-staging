@@ -9814,7 +9814,6 @@ espouse
 ethize
 espoused
 espousement
-espouses
 espousing
 espressivo
 electrochemistry
@@ -14017,6 +14016,7 @@ extravagation
 extravasate
 extravasated
 edition
+espouses
 exostotic
 extravasating
 elasmosaur
