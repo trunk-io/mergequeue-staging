@@ -5143,7 +5143,6 @@ generalistic
 ghettoing
 gedeckt
 glairin
-glairiness
 glairing
 glairs
 gade
@@ -8818,6 +8817,7 @@ greying
 grister
 greylag
 gunfighter
+glairiness
 guessing
 greynesses
 greing
