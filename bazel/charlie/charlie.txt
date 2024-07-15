@@ -3167,7 +3167,6 @@ caplins
 corruptibility
 caplock
 capmaker
-capmakers
 cordmaker
 capmaking
 capman
@@ -23558,6 +23557,7 @@ continentality
 continentalize
 continentally
 continents
+capmakers
 contineu
 contingence
 contingency
