@@ -6707,7 +6707,6 @@ arni
 aftercause
 ahmadiya
 ahmed
-ahmet
 ahnfeltia
 aho
 ahoy
@@ -7844,6 +7843,7 @@ anabasse
 agama
 aldermanry
 aldermanries
+ahmet
 aldermanship
 aldermen
 amphichrom
