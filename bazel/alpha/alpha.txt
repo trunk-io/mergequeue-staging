@@ -12121,7 +12121,6 @@ anomatheca
 anat
 aesopic
 anatabine
-anatase
 aration
 aerical
 anatexis
@@ -13261,6 +13260,7 @@ animal
 afterfeed
 ammoniaemia
 animalcula
+anatase
 animalcular
 animalcule
 animalcules
