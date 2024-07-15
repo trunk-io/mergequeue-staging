@@ -764,7 +764,6 @@ grizzliness
 greywacke
 galopin
 geerah
-galoping
 galops
 galore
 galoshe
@@ -9298,6 +9297,7 @@ groomishly
 glottic
 groomlet
 garran
+galoping
 geomys
 glandulation
 gulps
