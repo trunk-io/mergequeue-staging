@@ -2721,7 +2721,6 @@ acouometer
 acouophonia
 acoup
 acoupa
-acoupe
 acousmata
 acousmatic
 artar
@@ -21783,6 +21782,7 @@ assignats
 assigned
 assignee
 assignees
+acoupe
 assigner
 attention
 assigners
