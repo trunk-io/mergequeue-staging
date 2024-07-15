@@ -10934,6 +10934,7 @@ eunomy
 exormia
 eunomia
 eunomian
+encoders
 empiriological
 eunuchise
 eunuchised
@@ -13214,7 +13215,6 @@ explicator
 explicatory
 eucalyptus
 explicit
-encoders
 explicitly
 explicitness
 enchantingly
