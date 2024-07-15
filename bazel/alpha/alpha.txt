@@ -218,7 +218,6 @@ antitypic
 aneled
 abbogada
 abbot
-abbotcy
 abbotcies
 atherosclerotically
 antirape
@@ -10159,6 +10158,7 @@ antiparticle
 amblyopsis
 amblyoscope
 aetiological
+abbotcy
 amblypod
 anticolic
 amblypoda
