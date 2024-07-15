@@ -3077,7 +3077,6 @@ adoxaceae
 antrotympanic
 acroterteria
 acrothoracica
-acrotism
 abstracted
 acrotisms
 acrotreta
@@ -17829,6 +17828,7 @@ applicant
 applicants
 accommodations
 applicate
+acrotism
 applications
 applicative
 applicatively

@@ -368,6 +368,7 @@ dailamite
 daily
 distr
 diaphragmed
+disambiguated
 dailies
 daylight
 daylighted
@@ -4240,7 +4241,6 @@ diddling
 delphinia
 discing
 delphinic
-disambiguated
 delphinid
 delphinidae
 debouch
