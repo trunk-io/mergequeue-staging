@@ -2914,6 +2914,7 @@ fewness
 flamberg
 fewnesses
 followings
+fossiled
 fewter
 fewterer
 fewtrils
@@ -8795,7 +8796,6 @@ femalely
 fossil
 fossilage
 fossildom
-fossiled
 fossiliferous
 footgears
 flukey
