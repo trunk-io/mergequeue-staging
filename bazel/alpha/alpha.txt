@@ -1044,7 +1044,6 @@ absolvatory
 absolve
 anana
 absolved
-absolvent
 alaite
 almsgiving
 acoustical
@@ -15396,6 +15395,7 @@ antigene
 adminiculum
 antigenes
 aerators
+absolvent
 accoyed
 aurothiosulphate
 antigenic
