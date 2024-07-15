@@ -23873,7 +23873,6 @@ authorized
 aphorism
 anticommunist
 authorizer
-authorizers
 adoors
 authorizing
 authorless
@@ -24604,6 +24603,7 @@ avars
 avascular
 avast
 avatar
+authorizers
 avatara
 avatars
 avaunt
