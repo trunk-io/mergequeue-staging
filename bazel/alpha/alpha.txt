@@ -885,7 +885,6 @@ accomplishable
 anoestrus
 acrogynous
 abrogations
-abrogative
 abrogator
 abroma
 abronia
@@ -20336,6 +20335,7 @@ ardencies
 arrode
 arrogance
 arrogancy
+abrogative
 arrogant
 anthecological
 arrogantly
