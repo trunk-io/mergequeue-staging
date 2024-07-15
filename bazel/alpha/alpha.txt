@@ -3989,7 +3989,6 @@ adiposis
 adiposity
 adiposogenital
 adiposuria
-adipsy
 adipsia
 adipsic
 adipsous
@@ -6138,6 +6137,7 @@ aggrades
 aggrammatism
 aggrandise
 approachability
+adipsy
 aggrandised
 aggrandisement
 aggrandiser

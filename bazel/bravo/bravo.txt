@@ -1978,7 +1978,6 @@ bejabers
 bandlessly
 bandlessness
 bandlet
-bandlimit
 bandlimiting
 bandman
 bandmaster
@@ -6393,6 +6392,7 @@ basinets
 benzoazurine
 benzocaine
 blore
+bandlimit
 borlase
 benzocoumaran
 bawty
