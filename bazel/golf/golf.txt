@@ -6754,7 +6754,6 @@ gomart
 gonimoblast
 ghenting
 gaugership
-gomashta
 gomasta
 gomavel
 gome
@@ -9561,6 +9560,7 @@ growly
 germinally
 grouchily
 growlier
+gomashta
 growliness
 gemses
 growling
