@@ -7004,7 +7004,6 @@ entrapments
 entrapper
 entrapping
 entrappingly
-entraps
 entre
 ectopistes
 entreasure
@@ -8391,6 +8390,7 @@ epitomator
 equivocating
 epikouros
 epitomatory
+entraps
 epitome
 epitomes
 euchology
