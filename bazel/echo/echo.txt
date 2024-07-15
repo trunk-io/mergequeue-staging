@@ -7325,7 +7325,6 @@ enharbor
 eosinophile
 eosinophilia
 eosinophilic
-extratension
 eosinophilous
 eosophobia
 eosphorite
@@ -10638,6 +10637,7 @@ emendations
 eucaine
 eclaircissement
 expositoriness
+extratension
 eucalyn
 eucalypteol
 emporia
