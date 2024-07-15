@@ -7006,6 +7006,7 @@ airinesses
 airing
 airings
 alkalizer
+arcade
 allometric
 airish
 airless
@@ -18628,7 +18629,6 @@ arca
 arcabucero
 apophorometer
 arcacea
-arcade
 arcaded
 arcades
 arcady
