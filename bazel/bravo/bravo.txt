@@ -4476,7 +4476,6 @@ becombed
 become
 brutifying
 becomed
-becomes
 becometh
 becoming
 becomingly
@@ -11621,6 +11620,7 @@ beclamoring
 boatlip
 besiegers
 boatload
+becomes
 boatloader
 boatloading
 baske
