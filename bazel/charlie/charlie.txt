@@ -515,7 +515,6 @@ cadmium
 cadmiumize
 cadmiums
 cadmus
-columnal
 cadouk
 cadrans
 coercer
@@ -22499,6 +22498,7 @@ conjointment
 conjointness
 conjoints
 conjon
+columnal
 conjubilant
 conjuctiva
 conjugably
