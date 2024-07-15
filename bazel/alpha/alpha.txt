@@ -3210,6 +3210,7 @@ alogia
 actinophorous
 actinophryan
 actinophrys
+anthodium
 alumstone
 actinopoda
 actinopraxis
@@ -14489,7 +14490,6 @@ anthocyanidin
 anthocyanin
 anthoclinium
 additamentary
-anthodium
 anthoecological
 actinocarp
 anthogenesis
