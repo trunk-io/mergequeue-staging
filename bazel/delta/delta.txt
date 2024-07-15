@@ -5197,7 +5197,6 @@ denominant
 denominate
 denominated
 denominates
-denomination
 denominational
 denominationalism
 dandles
@@ -8760,6 +8759,7 @@ depeter
 diazoamino
 diazoanhydride
 disciplelike
+denomination
 diazoate
 diazobenzene
 diazohydroxide
