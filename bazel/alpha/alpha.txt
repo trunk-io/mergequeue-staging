@@ -4277,7 +4277,6 @@ adnerval
 adnescent
 aditus
 armsize
-arteriodiastasis
 adnex
 adnexal
 adnexed
@@ -7104,6 +7103,7 @@ airwave
 airwaves
 airwise
 abstruseness
+arteriodiastasis
 airwoman
 alveolarly
 airwomen
