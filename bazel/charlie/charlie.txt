@@ -16561,6 +16561,7 @@ clockwatcher
 clockwise
 clockwork
 cytotropism
+contestee
 clockworked
 clockworks
 counterinfluence
@@ -23526,7 +23527,6 @@ contestants
 contestate
 contestation
 contested
-contestee
 contesters
 contesting
 contestingly
