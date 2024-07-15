@@ -4040,6 +4040,7 @@ gneisses
 genson
 galleries
 giftwrap
+gravimeters
 granularity
 giftwrapping
 galline
@@ -8500,7 +8501,6 @@ gies
 graviers
 gravigrada
 gravimeter
-gravimeters
 gravimetry
 glutin
 greesagh

@@ -4812,7 +4812,6 @@ ettarre
 encomimia
 eniac
 encomimiums
-encomium
 explicators
 elatives
 eggshell
@@ -7555,6 +7554,7 @@ engrandize
 epiblastema
 epiblastic
 epiboly
+encomium
 epibolic
 eident
 epibolism
