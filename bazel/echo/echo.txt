@@ -898,7 +898,6 @@ ectomorph
 ectonephridium
 endenization
 ectoparasite
-ectoparasitic
 ectoparasitica
 ectopatagia
 exceptioner
@@ -4114,6 +4113,7 @@ empyemata
 empyemic
 empierce
 empiercement
+ectoparasitic
 evolution
 empyesis
 exalted
