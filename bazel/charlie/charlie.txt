@@ -1164,7 +1164,6 @@ craunched
 calefaction
 calefactive
 calefactor
-calefactory
 calefy
 calelectric
 calelectrical
@@ -25883,6 +25882,7 @@ corset
 corseted
 cottonopolis
 corsetier
+calefactory
 corsetiere
 corseting
 corsetless
