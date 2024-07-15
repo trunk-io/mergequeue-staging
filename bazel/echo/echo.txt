@@ -341,7 +341,6 @@ evenings
 enunciate
 eaver
 eaves
-eavesdrop
 eavesdropper
 edingtonite
 eavesdropping
@@ -6041,6 +6040,7 @@ enlisting
 enlistment
 extremes
 eighths
+eavesdrop
 enlive
 environmental
 endogalvanism
