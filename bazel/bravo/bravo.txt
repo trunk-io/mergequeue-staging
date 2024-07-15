@@ -1917,7 +1917,6 @@ braces
 bandboxes
 breakers
 bandcase
-bandcutter
 bande
 britishers
 banded
@@ -1929,6 +1928,7 @@ bander
 banderilla
 banderilleros
 banderlog
+bandcutter
 blamability
 bolsons
 balearic
