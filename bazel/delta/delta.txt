@@ -1528,7 +1528,6 @@ deadfalls
 deadhead
 deadheading
 deadheadism
-deadheads
 debrominate
 deadhearted
 deadheartedly
@@ -15508,6 +15507,7 @@ donk
 dockage
 donkey
 donkeyback
+deadheads
 donkeyish
 decennial
 donkeyism
