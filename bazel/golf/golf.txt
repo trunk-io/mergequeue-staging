@@ -8928,7 +8928,6 @@ goliad
 grievant
 ganglioblast
 grieved
-grievedly
 griever
 guardful
 gibli
@@ -8956,6 +8955,7 @@ glagah
 gymnosperms
 griffins
 gospellike
+grievedly
 griffon
 griffonage
 griffons
