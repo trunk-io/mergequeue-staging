@@ -20359,7 +20359,6 @@ cacochymia
 communicably
 communicant
 communicants
-communicate
 communicated
 compliably
 communicating
@@ -27856,6 +27855,7 @@ chirotherian
 crabeater
 crabeating
 craber
+communicate
 crabfish
 crabgrass
 crabier
