@@ -5263,7 +5263,6 @@ frickle
 flashproof
 fleabite
 fleabites
-fossilify
 fleabug
 fleabugs
 fleahopper
@@ -6951,6 +6950,7 @@ folliculin
 folliculitis
 follyer
 follying
+fossilify
 fostered
 follily
 followed
