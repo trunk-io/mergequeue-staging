@@ -13871,7 +13871,6 @@ anomalistical
 aorist
 anomalistically
 anomalocephalus
-anomaloflorous
 anomalogonatous
 anomalon
 anomalous
@@ -18645,6 +18644,7 @@ arcadings
 arcae
 arcana
 arcane
+anomaloflorous
 arcanist
 ald
 arcanite
