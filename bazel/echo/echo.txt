@@ -3588,7 +3588,6 @@ ethnography
 embowelling
 embowelment
 endocarpoid
-embower
 embowered
 embowering
 embowerment
@@ -10399,6 +10398,7 @@ enlaces
 entincture
 enumerated
 erpetoichthys
+embower
 ethion
 evadible
 ethionine
