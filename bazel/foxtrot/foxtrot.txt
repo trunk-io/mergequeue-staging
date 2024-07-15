@@ -2854,6 +2854,7 @@ feuding
 feudists
 foglietto
 feudovassalism
+forche
 flittern
 feuds
 feuillage
@@ -10991,7 +10992,6 @@ fumariaceae
 fumariaceous
 flauntiness
 fumarium
-forche
 fumarole
 forefatherly
 fumatoria
