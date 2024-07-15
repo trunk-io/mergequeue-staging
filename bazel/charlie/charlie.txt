@@ -7379,7 +7379,6 @@ cephalonasal
 cephalopathy
 cephalopharyngeal
 cephalophyma
-cephalophine
 cephalophus
 cephaloplegia
 cephaloplegic
@@ -23225,6 +23224,7 @@ connectant
 constructible
 contusioned
 constructional
+cephalophine
 constructionism
 constructionist
 constructionists
