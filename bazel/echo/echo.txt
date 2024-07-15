@@ -10751,7 +10751,6 @@ euphemize
 eudaimonia
 eudaimonism
 eurasia
-eudemian
 epithecial
 extracranial
 eudemony
@@ -13009,6 +13008,7 @@ expeditious
 equitable
 expeditiously
 expeditive
+eudemian
 expeditor
 expel
 expellable
