@@ -8809,7 +8809,6 @@ dibbuks
 deltoidal
 dybbuks
 dibenzophenazine
-dibenzopyrrole
 decerebration
 dibhole
 diblastula
@@ -12352,6 +12351,7 @@ disheartenment
 disheartens
 disheaven
 dishelms
+dibenzopyrrole
 disherent
 disherison
 disherit
