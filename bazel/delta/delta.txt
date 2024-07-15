@@ -12850,7 +12850,6 @@ disheveling
 disannulled
 disoccluded
 dominae
-deponer
 disoccluding
 drawlink
 disoccupation
@@ -17733,6 +17732,7 @@ dubiosity
 dourah
 dubiously
 dubiousness
+deponer
 dubitable
 dubitant
 disenorm
