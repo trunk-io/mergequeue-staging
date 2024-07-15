@@ -9393,7 +9393,6 @@ difflugia
 dragboat
 diplogangliate
 difform
-difforme
 difformed
 diffracted
 dissuading
@@ -17135,6 +17134,7 @@ drills
 drylot
 drylots
 ditation
+difforme
 drilvis
 dockyard
 dryness
