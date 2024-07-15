@@ -5552,7 +5552,6 @@ depardieu
 depark
 deparliament
 delighting
-depart
 dedifferentiate
 departed
 differentiated
@@ -8160,6 +8159,7 @@ diaconicon
 disordain
 diaconus
 diacoustics
+depart
 diacranterian
 diacranteric
 diacrisis

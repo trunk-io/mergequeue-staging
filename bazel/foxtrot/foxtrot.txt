@@ -1587,7 +1587,6 @@ favella
 fen
 footballs
 favellidium
-favelloid
 faveolate
 fainness
 fargoing
@@ -10617,6 +10616,7 @@ frugalness
 firelight
 fruggan
 frugged
+favelloid
 frugging
 frugiferousness
 floccular
