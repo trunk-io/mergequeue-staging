@@ -5432,7 +5432,6 @@ denuder
 denuders
 denudes
 denuding
-denumerability
 denumerable
 denumerably
 denumeral
@@ -13978,6 +13977,7 @@ distortionist
 dogears
 distortionless
 distortive
+denumerability
 distorts
 distract
 dyingly
