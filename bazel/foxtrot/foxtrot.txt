@@ -5704,7 +5704,6 @@ fishberry
 faire
 fliting
 fishnet
-flytings
 futharks
 fleuronee
 flytrap
@@ -10296,6 +10295,7 @@ froghopper
 frogleaf
 frogleg
 finkel
+flytings
 froglike
 frogling
 frognose
