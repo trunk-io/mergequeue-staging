@@ -1757,7 +1757,6 @@ accost
 accostable
 antiscrofulous
 accosted
-accosting
 accosts
 accouche
 accouchement
@@ -20759,6 +20758,7 @@ autoxidizable
 amman
 artifice
 artificership
+accosting
 artifices
 artificial
 acop
