@@ -2138,7 +2138,6 @@ fels
 fumbler
 felsite
 felsitic
-felsobanyite
 featherier
 flywire
 formatively
@@ -10101,6 +10100,7 @@ fledges
 fringillidae
 fringilliform
 falls
+felsobanyite
 fringilliformes
 fopship
 faultsman
