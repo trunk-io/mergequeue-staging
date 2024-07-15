@@ -4069,6 +4069,7 @@ fiques
 fir
 fadeless
 firbolg
+frogginess
 frimaire
 firca
 fyrd
@@ -7882,7 +7883,6 @@ foresails
 fantastical
 foresays
 forescene
-frogginess
 foreschool
 forescript
 fibulas
