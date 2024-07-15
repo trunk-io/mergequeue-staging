@@ -3397,6 +3397,7 @@ deflore
 deflorescence
 demiquaver
 dropforged
+discussion
 deflower
 deflowered
 deflowerer
@@ -14836,7 +14837,6 @@ doddart
 decollete
 dodder
 doddered
-discussion
 disembarrassed
 dodderer
 dallies
