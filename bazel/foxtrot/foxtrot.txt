@@ -4871,6 +4871,7 @@ formolite
 finaglers
 flameproofer
 flamer
+fc
 flames
 footiest
 flamethrower
@@ -7533,7 +7534,6 @@ forebearing
 foreconceive
 foreconclude
 flagger
-fc
 foreconsider
 fazendas
 forecount
