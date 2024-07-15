@@ -11185,7 +11185,6 @@ amphichromy
 amphicyrtous
 amphicytula
 amphicoelian
-amphicoelous
 alienable
 amphicondyla
 amphicondylous
@@ -16722,6 +16721,7 @@ abulic
 apartment
 apartmental
 apartments
+amphicoelous
 anorganic
 apartness
 apass

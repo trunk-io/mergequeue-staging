@@ -339,7 +339,6 @@ estado
 eavedropper
 evenings
 enunciate
-eaver
 eaves
 eavesdrop
 eavesdropper
@@ -4081,6 +4080,7 @@ eightyfold
 esculic
 emphase
 emphases
+eaver
 expirable
 embioptera
 enterrologist
