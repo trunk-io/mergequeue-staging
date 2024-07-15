@@ -5947,7 +5947,6 @@ floran
 floras
 fitful
 florate
-floreal
 fleetwing
 floreat
 floreated
@@ -6303,6 +6302,7 @@ fileted
 fluidmeter
 familiary
 fluidness
+floreal
 fluidounce
 factordom
 fluidrams
