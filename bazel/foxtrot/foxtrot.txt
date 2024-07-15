@@ -1099,7 +1099,6 @@ filmgoer
 flighted
 farragos
 farcie
-farrand
 flyaways
 fractureproof
 fo
@@ -3375,6 +3374,7 @@ fiftieth
 fiftyfold
 forebow
 fiftypenny
+farrand
 figaro
 figeter
 figgery
