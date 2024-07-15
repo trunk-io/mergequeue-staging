@@ -4060,7 +4060,6 @@ empathetically
 empathy
 empathic
 elaborateness
-experimentalize
 empathize
 empathizes
 empemata
@@ -5566,6 +5565,7 @@ enfetter
 enfettered
 enfettering
 enfetters
+experimentalize
 enfevered
 enfevering
 egomaniacally
