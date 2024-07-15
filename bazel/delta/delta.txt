@@ -6766,6 +6766,7 @@ deskbound
 deskill
 desklike
 disposure
+draffier
 deskman
 deskmen
 desktop
@@ -16549,7 +16550,6 @@ dodecant
 dradge
 draffy
 disconvenience
-draffier
 despisement
 decelerating
 disconnection
