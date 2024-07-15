@@ -1109,7 +1109,6 @@ cotwal
 calctufa
 crucian
 calctufas
-calctuff
 calctuffs
 calculability
 calculabilities
@@ -15426,6 +15425,7 @@ cobaltocyanide
 clamours
 clamoursome
 clamp
+calctuff
 clampdown
 clamped
 chinatown
