@@ -16560,7 +16560,6 @@ clocksmith
 clockwatcher
 clockwise
 clockwork
-cytotropism
 clockworked
 clockworks
 counterinfluence
@@ -21938,6 +21937,7 @@ conferruminate
 chequy
 coevolvedcoevolves
 confers
+cytotropism
 conferva
 chrestomathics
 confervaceous
