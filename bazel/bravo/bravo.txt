@@ -12361,6 +12361,7 @@ bombsight
 bombsights
 bombus
 bomi
+boxiness
 bomos
 bon
 bonace
@@ -13874,7 +13875,6 @@ bepuffed
 bluffable
 boxy
 boxier
-boxiness
 boxing
 boxings
 boxkeeper
