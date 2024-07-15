@@ -1272,6 +1272,7 @@ flumed
 fastgoing
 farnovian
 feudaries
+fairyfolk
 fastidiosity
 fastidious
 fusional
@@ -5828,7 +5829,6 @@ flockwise
 favouredly
 flocs
 flutterboard
-fairyfolk
 floeberg
 floey
 flavorers
