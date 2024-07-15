@@ -8953,7 +8953,6 @@ griffinhood
 glagah
 gymnosperms
 griffins
-gospellike
 griffon
 griffonage
 griffons
@@ -10517,6 +10516,7 @@ gunlaying
 genitalial
 gunlock
 gue
+gospellike
 glossagra
 gunmaker
 gynopara
