@@ -2476,7 +2476,6 @@ bardcraft
 baruch
 beribboned
 barded
-bianchite
 bardee
 bardes
 bardesanite
@@ -14000,6 +13999,7 @@ bjorne
 brachyglossal
 brachygnathia
 bainite
+bianchite
 brachygnathism
 brachygnathous
 beblubber
