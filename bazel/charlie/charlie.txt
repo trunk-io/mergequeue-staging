@@ -14950,7 +14950,6 @@ cytogenesis
 cytogenetic
 cytogenetical
 cytogenetically
-cytogenetics
 cytogeny
 cytogenic
 corody
@@ -31661,6 +31660,7 @@ cushioning
 cushionless
 cannibalistic
 cushions
+cytogenetics
 consumptivity
 cushite
 cushitic
