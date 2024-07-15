@@ -6701,7 +6701,6 @@ goldurn
 galeopithecus
 goldworker
 grimness
-golee
 golem
 golems
 golet
@@ -8395,6 +8394,7 @@ gratins
 gratiola
 gephyrocercy
 gratiosolin
+golee
 grattage
 gratuitant
 gratuity
