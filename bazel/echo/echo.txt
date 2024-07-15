@@ -3334,6 +3334,7 @@ excerpter
 embarcation
 efformation
 embarge
+epitrichial
 embargo
 embargoed
 embargoist
@@ -8416,7 +8417,6 @@ epitonium
 epitrachelia
 epitrachelion
 epitria
-epitrichial
 extratelluric
 epitrite
 enthraller
