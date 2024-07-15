@@ -3467,7 +3467,6 @@ carabins
 caraboa
 caraboid
 carabus
-caracal
 caracara
 chacoli
 columnate
@@ -18353,6 +18352,7 @@ chromatopathia
 cogitabundly
 chainstitch
 cogitabundous
+caracal
 commeasure
 cogitant
 cogitantly
