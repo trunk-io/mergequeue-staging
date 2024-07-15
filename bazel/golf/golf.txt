@@ -6091,7 +6091,6 @@ gyracanthus
 guilelessness
 gymnasial
 glucogene
-glucogenesis
 glucokinase
 glucokinin
 generalia
@@ -9212,6 +9211,7 @@ grizzel
 grizzly
 goodeniaceae
 grizzliest
+glucogenesis
 gonorrhea
 gatepost
 gaslights
