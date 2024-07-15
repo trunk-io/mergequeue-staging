@@ -12255,7 +12255,6 @@ chrysididae
 chrysin
 cymbiform
 chrysippus
-chrysis
 chrysler
 charters
 chryslers
@@ -21680,6 +21679,7 @@ condign
 condigness
 condignness
 condylar
+chrysis
 condylarth
 condylarthra
 campaigns
