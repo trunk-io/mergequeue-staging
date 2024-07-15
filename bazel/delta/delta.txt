@@ -7959,7 +7959,6 @@ dextroglucose
 defi
 dialog
 dislodgment
-dextrolactic
 dextrolimonene
 dextropinene
 doven
@@ -10649,6 +10648,7 @@ diplonts
 diploperistomic
 diplophase
 diplophyte
+dextrolactic
 dictional
 diploidies
 diplophonia
