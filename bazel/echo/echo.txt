@@ -4833,7 +4833,6 @@ encoronate
 encounterable
 encountered
 encouraged
-emoters
 entitlement
 egotism
 encounterers
@@ -10841,6 +10840,7 @@ ectochondral
 eukaryote
 entryway
 euktolite
+emoters
 eulachan
 eulachans
 eumorphous
