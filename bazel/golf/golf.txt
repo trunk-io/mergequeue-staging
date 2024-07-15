@@ -904,6 +904,7 @@ gamebag
 gauby
 grimly
 gibbetwise
+glucaemia
 gameful
 gamey
 gamekeeper
@@ -5822,7 +5823,6 @@ gelose
 glomerulus
 gasconaded
 guidon
-glucaemia
 glonoine
 granulocyte
 gloomful
