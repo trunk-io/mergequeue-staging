@@ -21525,7 +21525,6 @@ claxons
 concordat
 concordatory
 concordats
-concordatum
 concorder
 concordial
 concordity
@@ -22002,6 +22001,7 @@ collyba
 curatively
 confider
 confiders
+concordatum
 confides
 clarion
 confidingness
