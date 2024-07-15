@@ -20356,6 +20356,7 @@ communicability
 communicable
 cacochymia
 communicably
+connoting
 communicant
 communicants
 communicate
@@ -22675,7 +22676,6 @@ connotatively
 connote
 connoted
 connotes
-connoting
 connotive
 connotively
 conns
