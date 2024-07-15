@@ -3305,7 +3305,6 @@ ganglands
 geotactic
 goons
 geotactically
-geotaxes
 geotaxy
 gulches
 geotechnic
@@ -3861,6 +3860,7 @@ grots
 geometrising
 ganglionic
 guestimate
+geotaxes
 ghostliest
 ghostlify
 ghostlike
