@@ -1778,6 +1778,7 @@ chrisms
 cambio
 cambiogenetic
 cambion
+candled
 crown
 casewood
 cambism
@@ -2380,7 +2381,6 @@ candleball
 candlebeam
 candleberry
 candleberries
-candled
 candlefishes
 candleholder
 candlelight
