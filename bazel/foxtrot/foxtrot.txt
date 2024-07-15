@@ -4064,6 +4064,7 @@ fiques
 fir
 fadeless
 firbolg
+forenoons
 frimaire
 firca
 fyrd
@@ -7783,7 +7784,6 @@ forenews
 forenight
 fringiness
 falsities
-forenoons
 forenoted
 foreface
 forensic
