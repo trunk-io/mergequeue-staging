@@ -7505,7 +7505,6 @@ ceratopteridaceae
 ceratopteris
 cabana
 ceratorhine
-coprocessors
 ceratosa
 ceratosaurus
 ceratospongiae
@@ -13975,6 +13974,7 @@ cynicisms
 cynics
 companionableness
 ciniphes
+coprocessors
 cynipid
 cholerophobia
 cynipidous
