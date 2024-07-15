@@ -8234,7 +8234,6 @@ diagonal
 damndest
 diagonalizable
 diagonalization
-disinteresting
 diagnosing
 dispoint
 draghound
@@ -9358,6 +9357,7 @@ differed
 difference
 differences
 differency
+disinteresting
 differencing
 differencingly
 different

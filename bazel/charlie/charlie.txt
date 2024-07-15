@@ -13794,7 +13794,6 @@ coccidia
 cymous
 cymraeg
 coxarthritis
-cymry
 cymric
 cymrite
 cymtia
@@ -20298,6 +20297,7 @@ commonness
 ctrl
 commonplace
 commonplaceism
+cymry
 crucifixion
 catharized
 commonplaceness
