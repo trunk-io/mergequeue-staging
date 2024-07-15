@@ -7411,7 +7411,6 @@ epenthesis
 engore
 epenthesize
 encores
-epenthetic
 epephragmal
 epepophysial
 expansure
@@ -11486,6 +11485,7 @@ eventuations
 evenwise
 ephectic
 ebriate
+epenthetic
 eveque
 eugenism
 exculpating
