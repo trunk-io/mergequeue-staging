@@ -11244,7 +11244,6 @@ amphigouri
 amphikaryon
 amphikaryotic
 amphilogy
-amphilogism
 amphimictic
 amphimictical
 angulatosinuous
@@ -20123,6 +20122,7 @@ aromatical
 aromatically
 aromaticity
 actinosoma
+amphilogism
 aromatics
 aromatise
 adjectives
