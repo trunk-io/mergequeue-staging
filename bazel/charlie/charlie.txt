@@ -4463,7 +4463,6 @@ carnivals
 carnivora
 carnivoracity
 carnivoral
-carnivore
 carnivores
 carnivority
 carnivorous
@@ -11302,6 +11301,7 @@ chloridation
 chloride
 chloridella
 chlorider
+carnivore
 chlorides
 chloridic
 chloridize
