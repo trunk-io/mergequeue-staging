@@ -648,6 +648,7 @@ go
 glaringly
 gallimaufry
 gladless
+glosseme
 gallinacean
 gastrocnemian
 gallinacei
@@ -5907,7 +5908,6 @@ gadidae
 glossectomy
 glossed
 glossem
-glosseme
 glossemic
 glosser
 glossers
