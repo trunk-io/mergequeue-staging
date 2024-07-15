@@ -3984,7 +3984,6 @@ beaconwise
 buoyages
 blasphemers
 beadeye
-beader
 beadflush
 batik
 beccaccia
@@ -15138,6 +15137,7 @@ blotted
 brickbatted
 brickbatting
 bricked
+beader
 bootblacks
 brickel
 bricken
