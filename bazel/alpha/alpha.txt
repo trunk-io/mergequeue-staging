@@ -2728,6 +2728,7 @@ artar
 acoustic
 acoustically
 antaean
+allegeable
 acoustician
 acousticolateral
 acousticon
@@ -8677,7 +8678,6 @@ allegate
 allegation
 allegations
 allegator
-allegeable
 alleged
 allegedly
 alleger
