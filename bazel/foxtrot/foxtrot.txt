@@ -1517,7 +1517,6 @@ faultfinding
 floriferously
 faultful
 faultfully
-faulty
 fanback
 faultiest
 fruitwise
@@ -6188,6 +6187,7 @@ flowoff
 flowstone
 flu
 finalize
+faulty
 fluavile
 feudalize
 flubbed
