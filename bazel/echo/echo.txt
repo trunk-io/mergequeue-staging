@@ -2650,7 +2650,6 @@ encroachments
 electrothermancy
 electrothermic
 electrothermics
-enschedule
 estuant
 electrothermotic
 electrotype
@@ -13058,6 +13057,7 @@ embreastment
 excogitated
 expergefaction
 ebonize
+enschedule
 enwall
 experience
 epizoic
