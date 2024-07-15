@@ -4911,7 +4911,6 @@ epigraphist
 endamages
 endamaging
 endamask
-endamebas
 esurine
 englerophoenix
 emotion
@@ -12140,6 +12139,7 @@ excrementitious
 evzone
 epenla
 equitriangular
+endamebas
 excrementitiousness
 electroanesthesia
 excrementive
