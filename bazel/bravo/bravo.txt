@@ -4313,7 +4313,6 @@ backplanes
 beaverroot
 beavers
 beaverskin
-beaverteen
 blackbirds
 beinly
 beaverwood
@@ -12781,6 +12780,7 @@ boong
 boongary
 boonies
 boonk
+beaverteen
 bourignonist
 boonless
 boons
