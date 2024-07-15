@@ -3297,7 +3297,6 @@ bluewoods
 basilicate
 basilicock
 brotula
-basilics
 basilidan
 basilidian
 brevicauda
@@ -5582,6 +5581,7 @@ belatedness
 belating
 belaud
 bodies
+basilics
 burbling
 blepharopyorrhea
 boulangist

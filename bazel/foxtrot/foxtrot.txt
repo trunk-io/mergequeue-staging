@@ -825,7 +825,6 @@ fulminous
 foreseize
 fanlights
 fanmaking
-fanman
 fannel
 fanner
 fustiness
@@ -8507,6 +8506,7 @@ formulator
 formicaries
 frags
 fiduciary
+fanman
 fogs
 fumigating
 fifing
