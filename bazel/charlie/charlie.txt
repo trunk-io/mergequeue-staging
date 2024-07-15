@@ -2000,7 +2000,6 @@ campanulaceae
 campanulaceous
 campanulales
 campanular
-campanularia
 campanulariae
 clayish
 cruth
@@ -18845,6 +18844,7 @@ coliander
 colibert
 colibertus
 colibri
+campanularia
 colic
 colical
 colichemarde
