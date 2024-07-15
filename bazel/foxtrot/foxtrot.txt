@@ -547,6 +547,7 @@ fitchets
 fallals
 fallaway
 fallback
+fouled
 fallbacks
 fallectomy
 fallenness
@@ -8886,7 +8887,6 @@ fougue
 foujdar
 forestine
 foulards
-fouled
 foulings
 fname
 foulish
