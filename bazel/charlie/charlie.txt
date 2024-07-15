@@ -2801,7 +2801,6 @@ commutations
 cantharidal
 cantharidate
 cantharidated
-cantharidating
 cantharidean
 cantharides
 cantharidian
@@ -21601,6 +21600,7 @@ concurrentness
 concurring
 concurso
 concursus
+cantharidating
 congregated
 concuss
 concussant
