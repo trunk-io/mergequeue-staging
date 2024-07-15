@@ -8807,6 +8807,7 @@ glottis
 gehenna
 glaived
 gravity
+gunfires
 greyest
 glycocin
 glyoxilin
@@ -10495,7 +10496,6 @@ gundog
 gunebo
 gunfighting
 gunfire
-gunfires
 gunflint
 gung
 gimmerpet

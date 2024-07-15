@@ -86,6 +86,7 @@ facially
 facials
 flambeau
 facie
+fenceless
 faciend
 faciends
 facies
@@ -10501,7 +10502,6 @@ fainty
 fungid
 favosite
 filles
-fenceless
 frottages
 frotteur
 frotting
