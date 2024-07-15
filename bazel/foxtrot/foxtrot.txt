@@ -1672,6 +1672,7 @@ fazendeiro
 forehill
 fb
 frontierman
+fishability
 fchar
 fipenny
 fcomp
@@ -4304,7 +4305,6 @@ fise
 fisetin
 fulgurous
 fish
-fishability
 fishable
 friezing
 fishback
