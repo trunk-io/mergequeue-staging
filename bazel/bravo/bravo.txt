@@ -1353,7 +1353,6 @@ balases
 bunton
 balat
 balata
-binocularity
 balatas
 balatong
 balatron
@@ -10827,6 +10826,7 @@ bletilla
 blets
 bodikin
 bletted
+binocularity
 balneologist
 burdies
 bleu
