@@ -1669,7 +1669,6 @@ geomorphologist
 gasterosteiform
 gasifying
 grubstaked
-gasterosteoid
 gasterotheca
 gaffer
 gyrostatics
@@ -4965,6 +4964,7 @@ gitterns
 guiled
 gyttja
 giunta
+gasterosteoid
 giuseppe
 grecoue
 gastrohysterectomy
