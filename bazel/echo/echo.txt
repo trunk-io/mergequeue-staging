@@ -6651,7 +6651,6 @@ enteropexy
 echinulate
 enteropexia
 enteroplasty
-enteropneusta
 enteropneustan
 extractant
 enteroptotic
@@ -7452,6 +7451,7 @@ ephebic
 entropies
 epheboi
 ephebos
+enteropneusta
 edification
 ephebus
 ephedraceae

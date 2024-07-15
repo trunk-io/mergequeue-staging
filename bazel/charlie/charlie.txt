@@ -5111,7 +5111,6 @@ cashiering
 cashierment
 cashiers
 cashkeeper
-cashless
 cashment
 cashmere
 cashmeres
@@ -17891,6 +17890,7 @@ coding
 codiniac
 codirect
 codirected
+cashless
 codirectional
 codirector
 commonish
