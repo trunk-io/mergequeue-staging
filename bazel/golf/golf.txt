@@ -909,7 +909,6 @@ gamey
 gamekeeper
 gamekeepers
 gamekeeping
-glories
 gamelans
 gedecktwork
 gameless
@@ -8968,6 +8967,7 @@ grignet
 grulla
 grigris
 goncalo
+glories
 gulph
 grihyasutra
 grike
