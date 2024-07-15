@@ -3948,6 +3948,7 @@ emissive
 echoic
 emissory
 emittance
+entocyst
 emitted
 eisegeses
 electra
@@ -6826,7 +6827,6 @@ entocalcaneal
 entocarotid
 entocele
 entocyemate
-entocyst
 enows
 ensheaths
 entocoel
