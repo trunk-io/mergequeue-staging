@@ -15,7 +15,6 @@ eagled
 eaglelike
 eagless
 eaglestone
-eaglet
 eaglets
 emenders
 eagling
@@ -2560,6 +2559,7 @@ electrophoridae
 ethynyl
 electrophorus
 epidermomycosis
+eaglet
 electrophotographic
 electrophotometry
 eventuates
