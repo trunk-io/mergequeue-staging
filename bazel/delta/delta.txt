@@ -4041,6 +4041,7 @@ delibate
 deliberalization
 deliberandum
 deliberant
+deprecation
 deliberated
 deliberately
 denudement
@@ -5884,7 +5885,6 @@ deprecated
 demythologise
 deprecates
 deprecating
-deprecation
 deprecations
 disconcert
 deprecatively
