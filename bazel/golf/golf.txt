@@ -2598,7 +2598,6 @@ genecologic
 gradienter
 genecologically
 genecologist
-grabhook
 grottos
 genecor
 geneki
@@ -9721,6 +9720,7 @@ grungy
 grungier
 grungiest
 glossologies
+grabhook
 gallophilism
 glycerize
 grunion
