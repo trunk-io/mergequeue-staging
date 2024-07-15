@@ -3795,7 +3795,6 @@ gherao
 gadinic
 gheraoed
 grasshouse
-germanesque
 gardenwards
 galany
 genericness
@@ -5453,6 +5452,7 @@ gaudiest
 glycerophosphoric
 gramineousness
 glycerose
+germanesque
 glyceroxide
 glycidic
 gharial
