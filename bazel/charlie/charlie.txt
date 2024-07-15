@@ -2413,7 +2413,6 @@ candlewicking
 candlewicks
 candlewright
 candling
-cirl
 candollea
 colliform
 cantillated
@@ -17234,6 +17233,7 @@ coaled
 coaler
 calabaza
 coalers
+cirl
 coalesce
 coalescence
 cleanable
