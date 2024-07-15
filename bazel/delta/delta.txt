@@ -3651,7 +3651,6 @@ degreeing
 degreeless
 degrees
 degreewise
-degressive
 degressively
 degringolade
 degu
@@ -12569,6 +12568,7 @@ diacope
 disintrench
 dysyntribite
 disintricate
+degressive
 disli
 disinure
 disinvagination
