@@ -703,7 +703,6 @@ gallonage
 gepoun
 greeneries
 galilee
-galloons
 galabiya
 galloot
 galloots
@@ -10748,6 +10747,7 @@ glassworking
 glimmerous
 guttate
 guttated
+galloons
 gutte
 gutted
 ganoidean
