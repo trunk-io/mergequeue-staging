@@ -3458,6 +3458,7 @@ genically
 germans
 gonfalons
 gossipry
+glasses
 guacho
 germen
 germens
@@ -5857,7 +5858,6 @@ glorify
 glorifiable
 glorification
 gastroscope
-glasses
 greathearted
 geodesic
 glorifiers

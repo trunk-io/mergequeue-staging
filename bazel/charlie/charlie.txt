@@ -3172,6 +3172,7 @@ capman
 capmint
 capnodium
 capnomancy
+cheapens
 cloke
 capnomor
 capo
@@ -9487,7 +9488,6 @@ cheapen
 cheapened
 cheapener
 cheapening
-cheapens
 cozey
 condensary
 cheaper
