@@ -5977,6 +5977,7 @@ enkindler
 enkindles
 electrocution
 evacuated
+echinulate
 euhemerism
 earlobes
 enkraal
@@ -6654,7 +6655,6 @@ enteroparesis
 enteropathy
 enteropathogenic
 enteropexy
-echinulate
 enteropexia
 enteroplasty
 enteropneusta
