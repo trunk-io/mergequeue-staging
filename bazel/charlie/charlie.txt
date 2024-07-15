@@ -12446,7 +12446,6 @@ chromatic
 chromatical
 chromatically
 chromatician
-chromaticity
 chromaticness
 chromatics
 chromatid
@@ -17546,6 +17545,7 @@ cocaines
 cocainised
 cocainising
 cocainism
+chromaticity
 cocainist
 cocainization
 cathograph
