@@ -19416,7 +19416,6 @@ chrimsel
 cowhouse
 crabs
 coloptosis
-colopuncture
 coloquintid
 color
 colorability
@@ -27191,6 +27190,7 @@ circumcising
 countertack
 countertally
 countertechnicality
+colopuncture
 countertendencies
 countertenors
 counterterm
