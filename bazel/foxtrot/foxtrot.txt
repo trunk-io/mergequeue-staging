@@ -537,7 +537,6 @@ fallacia
 fallacies
 forerunners
 fadlike
-feltlike
 flounced
 fallacious
 fallaciously
@@ -3283,6 +3282,7 @@ fluoborate
 falsity
 fielden
 fanglike
+feltlike
 fielders
 friability
 fieldfight
