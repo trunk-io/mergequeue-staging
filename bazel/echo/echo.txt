@@ -3794,7 +3794,6 @@ emeers
 epupillate
 emeership
 emeline
-emend
 emendandum
 ekerite
 eucaryotic
@@ -9513,6 +9512,7 @@ escarpment
 escarpments
 earlock
 escarps
+emend
 embryony
 etaerio
 eptatretus
