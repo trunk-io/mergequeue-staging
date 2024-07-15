@@ -3379,7 +3379,6 @@ deflex
 deflexed
 deflexibility
 damascenine
-deflexible
 deflexing
 deflexure
 duodecimole
@@ -14180,6 +14179,7 @@ ditali
 ditchbur
 downmost
 dumbing
+deflexible
 ditchdigging
 ditchdown
 ditcher
