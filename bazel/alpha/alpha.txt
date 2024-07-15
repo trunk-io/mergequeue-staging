@@ -13480,7 +13480,6 @@ anisotropy
 anisotropically
 anencephalotrophia
 anisotropies
-anisotropism
 anisuria
 anita
 anither
@@ -23727,6 +23726,7 @@ atomician
 austemper
 austenitize
 auster
+anisotropism
 austere
 austerely
 austereness
