@@ -1399,7 +1399,6 @@ fatigable
 fatigableness
 froise
 freightliner
-flagrante
 fibrilliform
 fatigate
 fructus
@@ -10828,6 +10827,7 @@ fudged
 fraenular
 foal
 fudgy
+flagrante
 fulah
 fulciform
 frier
