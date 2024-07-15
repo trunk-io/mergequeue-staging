@@ -9411,7 +9411,6 @@ chausse
 chaussee
 chausseemeile
 chaussees
-chaussure
 chaussures
 chaute
 chauth
@@ -10602,6 +10601,7 @@ circumstancing
 chill
 chilla
 chillagite
+chaussure
 conter
 chiller
 chillers
