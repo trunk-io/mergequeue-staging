@@ -7139,6 +7139,7 @@ beeswinged
 bespreng
 besprent
 blowy
+betokenment
 bespring
 billyo
 besprinkle
@@ -7400,7 +7401,6 @@ betoken
 bagworm
 betokened
 betokening
-betokenment
 betokens
 beton
 betongue
