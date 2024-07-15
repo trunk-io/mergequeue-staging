@@ -9601,6 +9601,7 @@ checkroll
 centgrave
 checkroom
 cyanhydrate
+cliver
 checkrope
 checkrowed
 checkrower
@@ -16489,7 +16490,6 @@ clupien
 counterboring
 clival
 clive
-cliver
 clivers
 clivia
 clivias

@@ -424,7 +424,6 @@ decompound
 deyship
 daintify
 daintified
-daintifying
 daintily
 daintiness
 diasper
@@ -3579,6 +3578,7 @@ delft
 dragomans
 degger
 degging
+daintifying
 deglaciation
 deglamorization
 driddle
