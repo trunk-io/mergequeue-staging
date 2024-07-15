@@ -689,7 +689,6 @@ geoglyphic
 gallywasp
 gallnut
 gallnuts
-gizzen
 grooverhead
 gallocyanine
 galloglass
@@ -6221,6 +6220,7 @@ gasbag
 glutinize
 glutinose
 gumlah
+gizzen
 gavelkind
 glutinous
 glutinousness
