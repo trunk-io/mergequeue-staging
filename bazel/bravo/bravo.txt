@@ -1647,7 +1647,6 @@ ballonet
 ballonets
 basisphenoidal
 ballonette
-ballonne
 ballonnes
 balloon
 ballooned
@@ -10359,6 +10358,7 @@ bimanually
 bronchotyphoid
 blanketflower
 blankety
+ballonne
 blanketing
 betowel
 bantam
