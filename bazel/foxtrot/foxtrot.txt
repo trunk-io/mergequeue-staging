@@ -9992,7 +9992,6 @@ flavanone
 frilled
 fromenty
 frig
-frigate
 frigates
 foilable
 fanakalo
@@ -10559,6 +10558,7 @@ frowstiest
 frowze
 falderol
 frowziest
+frigate
 fabled
 feoffeeship
 flashboard
