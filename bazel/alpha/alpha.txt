@@ -6206,6 +6206,7 @@ aggrieve
 aggrieved
 aggrievedness
 aggrievement
+appendicularian
 aggrieving
 allegatum
 aggro
@@ -17710,7 +17711,6 @@ appendicle
 appendicocaecostomy
 appendicostomy
 appendicularia
-appendicularian
 appendiculariidae
 aerocurve
 appendiculata
