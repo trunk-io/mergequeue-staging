@@ -15731,6 +15731,7 @@ clattering
 chromograph
 coquin
 clatters
+coequates
 claustrophobiac
 clattertrap
 clattertraps
@@ -18161,7 +18162,6 @@ coequalize
 coequally
 coequalness
 coequated
-coequates
 coequation
 coerce
 coerceable
