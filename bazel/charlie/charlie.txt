@@ -13827,7 +13827,6 @@ cinchonidia
 cinchonidine
 cinchonin
 cinchonine
-cinchoninic
 cinchonisation
 cinchonise
 cinchonised
@@ -30504,6 +30503,7 @@ cubla
 cubmaster
 cubocalcaneal
 cuboctahedron
+cinchoninic
 cubocube
 cubocuneiform
 caterers
