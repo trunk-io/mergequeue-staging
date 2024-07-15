@@ -6312,7 +6312,6 @@ ensalada
 ensample
 elenchtic
 ethological
-ensampler
 ensamples
 ensanguine
 ensanguining
@@ -8532,6 +8531,7 @@ equably
 equal
 editorials
 epitrochlea
+ensampler
 equaled
 equalisation
 equalise
