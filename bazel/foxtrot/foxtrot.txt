@@ -3596,7 +3596,6 @@ filiform
 faxing
 flaunching
 flammigerous
-fumarolic
 filiformed
 filigerous
 fordam
@@ -7568,6 +7567,7 @@ foredenounce
 forgoer
 flus
 foliose
+fumarolic
 foredescribe
 foredesign
 freck
