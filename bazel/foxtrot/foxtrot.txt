@@ -5777,7 +5777,6 @@ floatiness
 floatless
 floatmaker
 fenetre
-floatman
 flobby
 flocced
 flocci
@@ -5993,6 +5992,7 @@ fuscohyaline
 floriculturist
 florida
 floridan
+floatman
 fervours
 froggier
 frighteningly
