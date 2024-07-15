@@ -4831,6 +4831,7 @@ events
 encoronate
 encounterable
 encountered
+extractable
 encouraged
 emoters
 entitlement
@@ -12292,7 +12293,6 @@ earthfast
 enfect
 executonis
 executor
-extractable
 executory
 evincingly
 effervescible
