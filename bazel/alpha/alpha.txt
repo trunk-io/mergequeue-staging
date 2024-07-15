@@ -6482,6 +6482,7 @@ agraffee
 agraffes
 analemmatic
 anapests
+ambiguities
 androphobia
 attractors
 abruptedly
@@ -10086,7 +10087,6 @@ ambigenous
 ambigu
 aelodicon
 ambiguity
-ambiguities
 ambiguous
 adviceful
 ambiguously
