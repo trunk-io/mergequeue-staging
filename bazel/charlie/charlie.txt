@@ -17136,7 +17136,6 @@ campement
 coadjute
 coadjutement
 continuable
-coadjutive
 coadjutor
 coadjutors
 coadjutorship
@@ -27412,6 +27411,7 @@ capacitator
 courtly
 courtlier
 courtliest
+coadjutive
 chapaties
 croppie
 comboy
