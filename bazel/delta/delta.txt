@@ -5495,7 +5495,6 @@ deorganization
 deorganize
 deorientalize
 deorsum
-deorsumvergence
 deorusumduction
 deossify
 deossification
@@ -15144,6 +15143,7 @@ dole
 doleance
 doled
 dolefish
+deorsumvergence
 dolefuller
 denitrifier
 dolefully
