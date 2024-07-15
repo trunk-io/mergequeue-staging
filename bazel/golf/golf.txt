@@ -1253,6 +1253,7 @@ gantlopes
 gruffing
 gantry
 gantryman
+generically
 gorebill
 gantsl
 goniotheca
@@ -2678,7 +2679,6 @@ generators
 generatrices
 generic
 grad
-generically
 globosphaerite
 generics
 gummata
