@@ -3488,7 +3488,6 @@ germinator
 germing
 gilgai
 germiniparous
-germinogony
 goldsinny
 geminating
 germless
@@ -5522,6 +5521,7 @@ glycosaemia
 glycosemia
 glycosidase
 glycoside
+germinogony
 glutaraldehyde
 greet
 girlchild
