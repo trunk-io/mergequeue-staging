@@ -8848,6 +8848,7 @@ clamer
 chapiters
 chapitle
 chaplain
+curarization
 chaplaincy
 chaplainship
 chaplanry
@@ -31528,7 +31529,6 @@ captainship
 curtaxe
 curted
 curtein
-curarization
 curteous
 curter
 curtesy
