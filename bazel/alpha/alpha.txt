@@ -427,7 +427,6 @@ abidingness
 abie
 arrenotokous
 abience
-abient
 abies
 abyes
 abietate
@@ -3057,6 +3056,7 @@ adnexa
 across
 acrostic
 acrostichal
+abient
 acrosticheae
 acrostichic
 amidocaffeine
