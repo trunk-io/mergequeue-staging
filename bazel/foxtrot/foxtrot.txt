@@ -4774,7 +4774,6 @@ firepower
 fabricator
 flagstaves
 facioscapulohumeral
-ferrotyped
 flagstick
 flagstones
 flagworm
@@ -5764,6 +5763,7 @@ flashtester
 floated
 floater
 floaters
+ferrotyped
 felines
 fluorobenzene
 farasula
