@@ -6052,7 +6052,6 @@ gossy
 gynandromorph
 glows
 gnetums
-glowworms
 grille
 gibbeting
 gloxinias
@@ -6429,6 +6428,7 @@ geodetical
 goat
 goatbeard
 goatbrush
+glowworms
 guacacoa
 glynn
 goatfish
