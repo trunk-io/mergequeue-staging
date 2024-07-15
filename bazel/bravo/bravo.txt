@@ -10480,7 +10480,6 @@ blastophaga
 bullweeds
 blastophyllum
 blastophitic
-blastophoral
 blastophoric
 blastophthoric
 brewers
@@ -12853,6 +12852,7 @@ bootlick
 bootlicking
 bootloader
 bradyseismism
+blastophoral
 bayz
 barks
 bootmaking
