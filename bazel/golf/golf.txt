@@ -4884,7 +4884,6 @@ gastropneumatic
 gazers
 giros
 gyroscope
-gyroscopes
 gyroscopic
 glutetei
 gumboils
@@ -8092,6 +8091,7 @@ glauke
 govt
 granomerite
 geometries
+gyroscopes
 granophyric
 granose
 grantable
