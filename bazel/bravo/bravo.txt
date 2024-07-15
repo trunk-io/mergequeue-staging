@@ -3773,7 +3773,6 @@ battlefronts
 battleful
 battleground
 battlegrounds
-battlement
 battlemented
 battlepiece
 battlers
@@ -13425,6 +13424,7 @@ bottomlessness
 brimmimg
 bottomry
 bottomried
+battlement
 bottomries
 bottomrying
 bottstick
