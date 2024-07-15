@@ -18,7 +18,6 @@ fableland
 fablemaker
 francolin
 fablemongering
-fabler
 fablers
 finity
 fabling
@@ -3505,6 +3504,7 @@ filches
 faventine
 filching
 filchingly
+fabler
 febris
 filecard
 freethinking
