@@ -7554,6 +7554,7 @@ albitization
 albitophyre
 albizia
 albizias
+asper
 abundances
 albizzia
 albizzias
@@ -21402,7 +21403,6 @@ aspen
 assimilate
 antismoking
 aspens
-asper
 amnesties
 asperate
 asperating
