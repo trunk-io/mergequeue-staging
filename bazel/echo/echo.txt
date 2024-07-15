@@ -6593,7 +6593,6 @@ enterocleisis
 enteroclisis
 enterococcal
 enterococcus
-enterocoel
 easygoingness
 enterocoela
 enterocoele
@@ -8149,6 +8148,7 @@ episcopalians
 electroencephalographic
 exordia
 episcopalism
+enterocoel
 episcopality
 episcopally
 episcopant
