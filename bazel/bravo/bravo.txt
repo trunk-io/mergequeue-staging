@@ -7150,6 +7150,7 @@ bespurred
 brumbie
 bespurt
 besputter
+beweeps
 beeball
 buzzard
 bencher
@@ -7545,7 +7546,6 @@ beweep
 butein
 beweeper
 beweeping
-beweeps
 bewelcome
 bastardize
 babblers
