@@ -4743,7 +4743,6 @@ advisor
 advisory
 advisories
 advisors
-advitant
 advocacy
 advocacies
 alchemist
@@ -23908,6 +23907,7 @@ autoaspiration
 autobahn
 autobahns
 autobasidia
+advitant
 autobasidiomycetes
 autobasidiomycetous
 autobasidium
