@@ -1525,7 +1525,6 @@ acceptilation
 accepting
 acceptingness
 acception
-allocated
 acceptor
 acceptors
 acceptress
@@ -2289,6 +2288,7 @@ ardor
 achiever
 achievers
 amplifier
+allocated
 achieves
 achieving
 achigan
