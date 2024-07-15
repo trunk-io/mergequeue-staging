@@ -1555,7 +1555,6 @@ ballas
 ballastage
 ballasted
 bouton
-ballastic
 botflies
 ballasting
 ballasts
@@ -7713,6 +7712,7 @@ bhisti
 bhistie
 bhisties
 bhoy
+ballastic
 bhojpuri
 brogans
 bhoots
