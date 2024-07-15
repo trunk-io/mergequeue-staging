@@ -6589,6 +6589,7 @@ enteroclisis
 enterococcal
 enterococcus
 enterocoel
+escharoid
 easygoingness
 enterocoela
 enterocoele
@@ -9519,7 +9520,6 @@ endosmometer
 entree
 eschara
 extraovate
-escharoid
 escharotic
 eschars
 ericetal
