@@ -2219,6 +2219,7 @@ angles
 argyrodite
 acetphenetid
 acetphenetidin
+arapunga
 acetract
 acetum
 astrologian
@@ -18473,7 +18474,6 @@ araphorostic
 araphostic
 anopsias
 araponga
-arapunga
 araquaju
 arar
 arara
