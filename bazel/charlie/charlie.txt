@@ -16967,7 +16967,6 @@ clum
 combinatoric
 counterclaimed
 clumbers
-clump
 clumped
 clumper
 clumpy
@@ -17416,6 +17415,7 @@ circuminsession
 courteously
 coattestator
 coattested
+clump
 coattesting
 coattests
 coaudience
