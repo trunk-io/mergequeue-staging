@@ -7177,7 +7177,6 @@ bestand
 bestar
 bestare
 barie
-bestarve
 bracelet
 bestatued
 boba
@@ -10573,6 +10572,7 @@ blazy
 bauhinias
 blazing
 barrier
+bestarve
 blazingly
 beaked
 blazon
