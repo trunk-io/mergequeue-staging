@@ -7986,7 +7986,6 @@ astragalocentral
 arrivederci
 alerters
 alertest
-alerting
 alertly
 alertness
 alerts
@@ -17410,6 +17409,7 @@ aporrhaoid
 aporrhea
 aporrhegma
 aussie
+alerting
 aporrhoea
 aport
 aportlast
