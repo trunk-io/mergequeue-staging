@@ -3743,7 +3743,6 @@ gewgaws
 gez
 gezerah
 garmentmaker
-ggr
 glade
 ghaffir
 glosses
@@ -4921,6 +4920,7 @@ girts
 gyrus
 gromet
 gnocchetti
+ggr
 gisants
 gise
 gisement
