@@ -5737,7 +5737,6 @@ catechisable
 catechisation
 catechise
 catechiser
-catechising
 calipered
 catechism
 catechismal
@@ -15201,6 +15200,7 @@ chantors
 civitan
 civite
 civvy
+catechising
 civvies
 cywydd
 conferences
