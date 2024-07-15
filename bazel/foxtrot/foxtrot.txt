@@ -4173,7 +4173,6 @@ fireplow
 fireplug
 faradizer
 fireproofed
-fireproofing
 fluctuosity
 fireroom
 firerooms
@@ -9276,6 +9275,7 @@ frailish
 frailness
 fitches
 frayne
+fireproofing
 frayproof
 fraise
 friendliest
