@@ -3053,7 +3053,6 @@ deescalated
 diphtheriaphor
 deescalates
 deescalating
-deescalation
 dumbstricken
 deesis
 deewan
@@ -17769,6 +17768,7 @@ duce
 dyings
 douanes
 disentangles
+deescalation
 diamagnetometer
 duces
 duchan
