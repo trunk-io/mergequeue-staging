@@ -10056,6 +10056,7 @@ chequerwork
 cheques
 consultantship
 caracals
+confessorship
 clitelline
 chronica
 chequin
@@ -21975,7 +21976,6 @@ confessions
 confessor
 confessory
 confessors
-confessorship
 confest
 confetti
 confetto
