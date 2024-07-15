@@ -16469,6 +16469,7 @@ avodires
 antivenomous
 antivibrating
 antivibrator
+autoxidizability
 antivibratory
 antivice
 antivirotic
@@ -24499,7 +24500,6 @@ autoxeny
 autoxidation
 aberrometer
 autoxidator
-autoxidizability
 autoxidize
 anesthetizes
 autoxidizer
