@@ -15928,7 +15928,6 @@ clearish
 clearly
 clearness
 clears
-clearsighted
 clearsightedness
 clearstarch
 clearstarcher
@@ -27359,6 +27358,7 @@ courses
 consolate
 countersworn
 calkage
+clearsighted
 coursing
 coursings
 court
