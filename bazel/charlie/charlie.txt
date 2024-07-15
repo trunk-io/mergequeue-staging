@@ -6478,7 +6478,6 @@ cc
 ccid
 ccitt
 cubage
-cckw
 ccm
 ccoya
 ccw
@@ -25178,6 +25177,7 @@ corybantiasm
 corybantic
 corybulbin
 corybulbine
+cckw
 corycavamine
 corycavidin
 corycia
