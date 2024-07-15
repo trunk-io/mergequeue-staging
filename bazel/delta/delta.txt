@@ -2472,6 +2472,7 @@ declarative
 deprevation
 deutzias
 declarator
+disconnected
 declaratory
 declaratorily
 declare
@@ -11581,7 +11582,6 @@ degasser
 disconformities
 disconjure
 disconnect
-disconnected
 disconnectedly
 disconnectedness
 disconnecter
