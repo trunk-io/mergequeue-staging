@@ -5733,7 +5733,6 @@ flitwite
 flivvers
 fornices
 flagstone
-flyway
 flyways
 fissicostate
 further
@@ -10773,6 +10772,7 @@ frenetic
 folacin
 faroelite
 fuage
+flyway
 fub
 fubbed
 fasteners
