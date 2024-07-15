@@ -1418,7 +1418,6 @@ bloops
 baldric
 baldrick
 baldricks
-baldrics
 baldricwise
 biocenotic
 balds
@@ -5402,6 +5401,7 @@ bronchiolitis
 branchstand
 beggarhood
 beholds
+baldrics
 behoney
 boomed
 behoof
