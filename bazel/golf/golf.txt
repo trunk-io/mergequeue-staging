@@ -290,6 +290,7 @@ gangliar
 gait
 gluttonous
 gurgle
+gonopodia
 gloom
 grouchiness
 gaiting
@@ -10790,7 +10791,6 @@ gagaku
 guttulate
 guttule
 gulpier
-gonopodia
 grand
 gateman
 guttulous
