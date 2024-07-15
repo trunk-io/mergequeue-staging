@@ -3428,7 +3428,6 @@ bassy
 bescatter
 backstrap
 blowtorch
-boasts
 bassie
 bedolt
 bassinet
@@ -9437,6 +9436,7 @@ biogeographic
 bewrap
 birdies
 birding
+boasts
 bracky
 bulbochaete
 begottenness
