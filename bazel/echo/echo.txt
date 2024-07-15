@@ -3935,6 +3935,7 @@ emirates
 erecters
 emirs
 emirship
+erdvark
 equinovarus
 emissary
 emissaria
@@ -8858,7 +8859,6 @@ emption
 erbia
 enthronization
 ess
-erdvark
 erebus
 erechtheum
 emolument
