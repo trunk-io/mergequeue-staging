@@ -5954,7 +5954,6 @@ anomaloscope
 agastache
 arthrostome
 anoplocephalic
-agastreae
 albacore
 anhydroglocose
 agastric
@@ -7522,6 +7521,7 @@ albiculi
 albify
 albification
 albified
+agastreae
 argand
 archeological
 albifying
