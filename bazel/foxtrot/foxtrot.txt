@@ -1324,7 +1324,6 @@ fatalities
 furrowless
 fatally
 fatalness
-friggle
 flawflower
 friendlessness
 fatback
@@ -4983,6 +4982,7 @@ flares
 fusionist
 forsakers
 feloid
+friggle
 flarfish
 foldage
 flarfishes
