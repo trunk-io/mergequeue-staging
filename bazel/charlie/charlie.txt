@@ -12661,7 +12661,6 @@ chroncmeter
 chronic
 chronical
 chalazoidite
-chronically
 cismarine
 chronicity
 corixa
@@ -14777,6 +14776,7 @@ coannexed
 calligraphically
 cystopyelography
 combattants
+chronically
 cystopyelonephritis
 cystoplegia
 cystoproctostomy
