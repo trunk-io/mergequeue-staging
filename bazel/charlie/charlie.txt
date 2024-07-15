@@ -5012,6 +5012,7 @@ cephalopagus
 cascavel
 caschrom
 casco
+cautioning
 cascrom
 cascrome
 case
@@ -6316,7 +6317,6 @@ cautionaries
 cautioned
 cautioners
 cautiones
-cautioning
 cautions
 cindered
 cautiously
