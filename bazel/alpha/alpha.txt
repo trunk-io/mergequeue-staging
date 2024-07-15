@@ -3029,7 +3029,6 @@ acropathy
 aleuronic
 acropathology
 acropetal
-acropetally
 acrophobia
 acrophonetic
 acrophony
@@ -5311,6 +5310,7 @@ afetal
 aff
 affa
 affability
+acropetally
 antisepticism
 autopoint
 affable
