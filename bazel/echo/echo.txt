@@ -3523,6 +3523,7 @@ embolium
 embolization
 embolize
 embolo
+explainable
 embololalia
 extortions
 equivalency
@@ -5816,7 +5817,6 @@ extractiform
 engraulis
 endogamous
 engrave
-explainable
 engravement
 engraven
 engraver
