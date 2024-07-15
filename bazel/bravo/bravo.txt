@@ -5390,7 +5390,6 @@ behinds
 behindsight
 behint
 bemolt
-behypocrite
 behither
 behn
 behold
@@ -13740,6 +13739,7 @@ bower
 bowerbird
 bowery
 bastions
+behypocrite
 botryose
 boweries
 boweryish
