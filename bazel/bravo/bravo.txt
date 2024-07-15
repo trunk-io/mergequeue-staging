@@ -2992,7 +2992,6 @@ barrelled
 barrelling
 bellyfuls
 belong
-barrelmaking
 ballistics
 barrels
 boomable
@@ -3730,6 +3729,7 @@ batted
 battel
 bonnering
 bronchotomist
+barrelmaking
 battened
 baalisms
 battener
