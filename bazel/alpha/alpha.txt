@@ -6779,7 +6779,6 @@ aidless
 aidman
 automative
 aidmanmen
-aeronomist
 acapulco
 aidmen
 aids
@@ -15441,6 +15440,7 @@ antihectic
 antihelices
 antihelix
 antihelixes
+aeronomist
 antihelminthic
 antihemisphere
 ampullae

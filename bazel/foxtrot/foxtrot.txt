@@ -2020,7 +2020,6 @@ feldspathoid
 forehook
 flintlike
 feldspathose
-fecche
 felichthys
 felicide
 felicify
@@ -3642,6 +3641,7 @@ feedbox
 fibreware
 filler
 fillercap
+fecche
 fluviology
 faceoff
 fluormeter
