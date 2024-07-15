@@ -11046,6 +11046,7 @@ disannex
 disannexation
 disannul
 disannuller
+dripped
 degree
 displat
 disannulment
@@ -17164,7 +17165,6 @@ deviator
 drypoints
 dripolator
 drippage
-dripped
 drippers
 drippy
 distortions
