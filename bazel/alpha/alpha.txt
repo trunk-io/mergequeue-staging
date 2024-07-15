@@ -3283,6 +3283,7 @@ actor
 actory
 atactic
 actorship
+altimeter
 actos
 actress
 actresses
@@ -18237,7 +18238,6 @@ aquatile
 aquatinta
 aquatinted
 aquatinter
-altimeter
 aquatints
 aquatone
 abampere

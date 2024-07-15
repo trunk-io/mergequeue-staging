@@ -7930,7 +7930,6 @@ bibliothecas
 bannered
 bibliotheke
 bibliotheque
-bibliotherapies
 blaunner
 bibliothetic
 bibliothque
@@ -13193,6 +13192,7 @@ brockage
 bosque
 bosquet
 bosquets
+bibliotherapies
 bossage
 bossboy
 bossdom
