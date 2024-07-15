@@ -1355,7 +1355,6 @@ bunton
 balat
 balata
 binocularity
-balatas
 balatong
 balatron
 balatronic
@@ -8062,6 +8061,7 @@ bicolors
 bicolour
 bicolours
 beheaded
+balatas
 bicompact
 bedragglement
 biconcave
