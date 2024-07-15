@@ -1176,6 +1176,7 @@ bermudas
 bra
 baits
 battement
+brachypyramid
 baittle
 bambuba
 baywood
@@ -17767,7 +17768,6 @@ burlesquely
 burlesques
 burlesquing
 bedsides
-brachypyramid
 braciola
 blissfulness
 burletta
