@@ -2811,7 +2811,6 @@ baroclinicity
 baroco
 barodynamic
 barognosis
-barographs
 baroko
 bicoloured
 barolo
@@ -17214,6 +17213,7 @@ bulwarks
 bumaree
 bumbailiff
 bumbailiffship
+barographs
 bumbard
 bumbaste
 biaxially
