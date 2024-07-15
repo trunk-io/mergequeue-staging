@@ -2228,7 +2228,6 @@ bovoid
 baobab
 baobabs
 bap
-baphomet
 baphometic
 bapistery
 bapt
@@ -5421,6 +5420,7 @@ bureaucratic
 bacterioprotein
 bean
 bezzants
+baphomet
 behorror
 behoves
 behoving
