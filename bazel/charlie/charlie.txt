@@ -6467,7 +6467,6 @@ cazibi
 cazimi
 cosmographies
 cb
-chervils
 cc
 ccid
 ccitt
@@ -15778,6 +15777,7 @@ chainlet
 clavae
 claval
 clavaria
+chervils
 clavariaceous
 capsicins
 cheezit
