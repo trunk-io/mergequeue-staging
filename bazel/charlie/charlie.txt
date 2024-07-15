@@ -11691,7 +11691,6 @@ cholesterin
 cholesterinuria
 cholesterol
 cholesterolemia
-cholesteroluria
 cholesterosis
 choletelin
 choletherapy
@@ -12636,6 +12635,7 @@ chromosomes
 chromosomic
 chromosphere
 chromospheres
+cholesteroluria
 clarigate
 calciphylactically
 chromotherapy
