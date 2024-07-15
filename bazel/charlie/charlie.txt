@@ -15491,6 +15491,7 @@ clanship
 cachemic
 clansman
 clansmanship
+conidia
 clansmen
 clanswoman
 cyprinodontidae
@@ -22421,7 +22422,6 @@ conicine
 colluders
 conicle
 conidae
-conidia
 conidial
 conidian
 conidiiferous
