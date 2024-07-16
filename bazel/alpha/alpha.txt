@@ -12554,6 +12554,7 @@ aeroides
 autogiros
 alala
 androtomy
+apophorometer
 ands
 adroitness
 andvari
@@ -18618,7 +18619,6 @@ arecaidin
 antanemic
 arca
 arcabucero
-apophorometer
 arcacea
 arcade
 arcaded
