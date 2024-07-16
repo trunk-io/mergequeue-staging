@@ -12583,7 +12583,6 @@ anele
 anelectrode
 anelectrotonic
 anelectrotonus
-aneles
 aneling
 aneurisms
 abenteric
@@ -17679,6 +17678,7 @@ appendalgia
 appendance
 aspermatism
 appendant
+aneles
 ankyloblepharon
 accoying
 appended
