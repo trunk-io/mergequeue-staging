@@ -4159,7 +4159,6 @@ deliquiesce
 deliquium
 deliracy
 densely
-delirant
 delirate
 dcbname
 doorman
@@ -12049,6 +12048,7 @@ deferentiality
 disentail
 disentailment
 disentangled
+delirant
 disentanglement
 disentangler
 disarchbishop
