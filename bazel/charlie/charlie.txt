@@ -1912,7 +1912,6 @@ camisados
 camisard
 camisas
 camiscia
-camise
 circumambulatory
 camises
 camisia
@@ -18354,6 +18353,7 @@ cogitates
 cogitating
 cavidae
 cogitation
+camise
 cogitations
 cogitative
 cogitator
