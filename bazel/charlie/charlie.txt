@@ -2025,7 +2025,6 @@ campephilus
 camper
 channeler
 campers
-campership
 campesino
 campesinos
 campestral
@@ -18400,6 +18399,7 @@ cognizance
 cognizant
 cognize
 cognized
+campership
 chairperson
 cognizer
 cognizor
