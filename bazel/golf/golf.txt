@@ -1199,7 +1199,6 @@ greyly
 ganoblast
 ganocephala
 gadbush
-ganocephalan
 gnotobiotics
 ginsengs
 ganocephalous
@@ -3657,6 +3656,7 @@ gesticulates
 glunimie
 genuine
 gesticulations
+ganocephalan
 gimlet
 gazed
 groundless

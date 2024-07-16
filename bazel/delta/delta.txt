@@ -2551,7 +2551,6 @@ decodes
 dispiriting
 dominantly
 decoding
-decodings
 decohere
 decoherence
 decoherer
@@ -8252,6 +8251,7 @@ diagrammatic
 diagrammatical
 diagrammatically
 diagrammatize
+decodings
 diagrammed
 diagrammer
 dipsosaurus
