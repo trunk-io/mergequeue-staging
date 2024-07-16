@@ -4041,7 +4041,6 @@ delibate
 deliberalization
 deliberandum
 deliberant
-deprecation
 deliberated
 deliberately
 denudement
@@ -5103,6 +5102,7 @@ dendrophil
 dendrophile
 dendrophilous
 dermatosclerosis
+deprecation
 deneb
 denebola
 denegation
