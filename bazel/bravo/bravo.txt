@@ -3950,7 +3950,6 @@ bdle
 bds
 bea
 beach
-beachcomb
 beachcomber
 beachdrops
 beached
@@ -9209,6 +9208,7 @@ biotelemetries
 biotherapy
 breaststroker
 blistery
+beachcomb
 biotical
 bromogelatin
 biotically
