@@ -624,7 +624,6 @@ backus
 backveld
 backvelder
 babbit
-backway
 backwall
 backward
 backwardation
@@ -8060,6 +8059,7 @@ bicolorous
 bicolors
 bicolour
 bicolours
+backway
 beheaded
 balatas
 bicompact
