@@ -396,7 +396,6 @@ beknot
 backfriend
 backfurrow
 budukha
-bicorne
 backgammon
 backgeared
 backgrounds
@@ -1256,6 +1255,7 @@ bluefin
 briber
 biohazard
 bakunda
+bicorne
 babouvist
 bakuninist
 bakutu
