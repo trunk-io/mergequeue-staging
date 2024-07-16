@@ -3684,6 +3684,7 @@ fames
 filmet
 filmgoers
 fop
+flattie
 filmgoing
 filmy
 filmic
@@ -5100,7 +5101,6 @@ farrago
 flatters
 flattest
 favouredness
-flattie
 flatting
 farewelling
 flatulences

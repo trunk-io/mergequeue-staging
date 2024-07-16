@@ -1227,7 +1227,6 @@ bakery
 bakeries
 bakerite
 bakerless
-bakerly
 bakerlike
 boleros
 bakers
@@ -8818,6 +8817,7 @@ bidets
 bothlike
 bestializes
 bindoree
+bakerly
 binds
 bopyrus
 biparietal
