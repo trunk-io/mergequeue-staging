@@ -2919,7 +2919,6 @@ dedolomitize
 dedolomitized
 deduce
 defoam
-deduced
 differentiant
 deducement
 deducibility
@@ -12759,6 +12758,7 @@ dismantles
 dismarble
 dismarch
 dismark
+deduced
 dietical
 dismarket
 dismarketed
