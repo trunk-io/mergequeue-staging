@@ -138,7 +138,6 @@ firman
 facty
 fictile
 facticide
-factional
 furnacite
 forfeit
 factionalism
@@ -10451,6 +10450,7 @@ fulminuric
 foozle
 frostbitten
 frostbound
+factional
 frosted
 flameflower
 fordable
