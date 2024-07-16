@@ -24108,7 +24108,6 @@ coexchangeable
 constancy
 converged
 convergement
-convergence
 convergences
 convergency
 convergent
@@ -29580,6 +29579,7 @@ calcivorous
 critiqued
 critiquing
 critize
+convergence
 critling
 critter
 crittur

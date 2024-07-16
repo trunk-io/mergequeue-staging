@@ -5578,6 +5578,7 @@ belavendered
 belch
 belched
 belcher
+brigadiers
 belchers
 blowpipes
 belching
@@ -12875,7 +12876,6 @@ bopeep
 bopyrid
 bopyridian
 bopped
-brigadiers
 bopper
 boppers
 buttstrapped
