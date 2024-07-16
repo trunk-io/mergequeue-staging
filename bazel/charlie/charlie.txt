@@ -6706,7 +6706,6 @@ choak
 cosmati
 celiectomy
 celiemia
-celiocele
 celiocentesis
 celiocyesis
 celiocolpotomy
@@ -30903,6 +30902,7 @@ cumarin
 cumarins
 cumarone
 cumaru
+celiocele
 cumber
 cumbered
 cumberer
