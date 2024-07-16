@@ -8826,6 +8826,7 @@ chapelman
 chapelmaster
 chapelry
 chapelries
+convulsiveness
 colonization
 chapels
 chapelward
@@ -24299,7 +24300,6 @@ conveyance
 chaka
 convulsions
 convulsive
-convulsiveness
 coo
 cooba
 coobah
