@@ -1987,7 +1987,6 @@ freebooted
 flimflammer
 firelike
 firearm
-feynesses
 foreshadowed
 feak
 feis
@@ -8056,6 +8055,7 @@ foretasted
 foretaster
 forgetters
 foretastes
+feynesses
 floruits
 foreteach
 fistuliform
