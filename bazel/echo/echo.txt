@@ -761,7 +761,6 @@ earclip
 ecorch
 epiphanize
 ecorche
-ecosystem
 ecospecies
 ellipsometer
 ecospecific
@@ -5762,6 +5761,7 @@ englue
 englut
 englutted
 englutting
+ecosystem
 engobe
 enneagon
 engold
