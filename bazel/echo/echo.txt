@@ -4277,6 +4277,7 @@ emrode
 ems
 emu
 emulable
+exposers
 emulates
 emulation
 etymological
@@ -13289,7 +13290,6 @@ ethonomic
 echnida
 exposer
 eudist
-exposers
 exposes
 exposing
 exposit

@@ -3071,7 +3071,6 @@ fibropapilloma
 fibropericarditis
 fibroplasia
 fibropsammoma
-fibropurulent
 fibrose
 fibroserous
 fractionise
@@ -8720,6 +8719,7 @@ flatfootedness
 fluvialist
 fortunetellers
 fipple
+fibropurulent
 fittiest
 fortuning
 fortunize
