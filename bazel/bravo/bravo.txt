@@ -572,7 +572,6 @@ backstick
 backstitched
 backstitches
 backstone
-balding
 backstop
 bringing
 bathoses
@@ -12918,6 +12917,7 @@ borago
 borak
 bedamn
 bronchitis
+balding
 boral
 bulimia
 banting
