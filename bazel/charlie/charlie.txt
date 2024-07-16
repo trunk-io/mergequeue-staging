@@ -15695,7 +15695,6 @@ classism
 classisms
 classists
 classless
-classlessness
 classman
 classmanship
 classmate
@@ -23812,6 +23811,7 @@ contaminable
 cytosome
 concubitus
 contraprovectant
+classlessness
 contraption
 contraptions
 contraptious
