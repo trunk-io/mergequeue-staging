@@ -15075,6 +15075,7 @@ breakableness
 brewed
 brewer
 brewery
+bhutan
 bunglesome
 bobcoat
 brewhouse
@@ -15217,7 +15218,6 @@ bridewort
 bothnic
 bridgeable
 bridgeboard
-bhutan
 bridgebote
 bridgebuilding
 bridged
