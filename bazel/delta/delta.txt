@@ -4643,7 +4643,6 @@ deflexion
 disambiguating
 demishirt
 demising
-decem
 demisolde
 demisovereign
 desecate
@@ -13881,6 +13880,7 @@ distiller
 desertless
 distillery
 distillers
+decem
 distilling
 decremeter
 distillment
