@@ -4579,6 +4579,7 @@ enmoss
 encephalopyosis
 endogenesis
 encolour
+exists
 encephalosclerosis
 encephaloscope
 establismentarian
@@ -12598,7 +12599,6 @@ existless
 enamelling
 eligibles
 existlessness
-exists
 epistemological
 encryptions
 exit
