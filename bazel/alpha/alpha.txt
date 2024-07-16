@@ -14683,7 +14683,6 @@ archarchitect
 anthropomantic
 anthropomantist
 anthropometer
-anthropometry
 anthropometric
 anthropometrical
 anthropometrically
@@ -15174,6 +15173,7 @@ anticrepuscular
 ascertainable
 anticryptic
 anticryptically
+anthropometry
 anticrisis
 avile
 anticritic
