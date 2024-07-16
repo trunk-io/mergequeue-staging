@@ -4602,7 +4602,6 @@ anaglyphoscope
 afflictedness
 advantaged
 advantageous
-advantageously
 advantageousness
 advantages
 aspiringness
@@ -6583,6 +6582,7 @@ agrypnia
 agrypniai
 acetify
 agrypnias
+advantageously
 agrypnotic
 agrito
 agritos
