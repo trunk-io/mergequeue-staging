@@ -10395,7 +10395,6 @@ blas
 blaseness
 blash
 berne
-blashy
 blasia
 blason
 blaspheme
@@ -13511,6 +13510,7 @@ boardinghouse
 boules
 boulevard
 bewitchingly
+blashy
 boulevardier
 blindstories
 boulevardize
