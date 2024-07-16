@@ -5635,7 +5635,6 @@ enfrenzy
 enfroward
 enfuddle
 enfume
-eng
 engage
 engagedly
 executive
@@ -7029,6 +7028,7 @@ ethnohistorian
 enlightenedness
 epiglottides
 entrees
+eng
 excisor
 encomiendas
 eulogizing
