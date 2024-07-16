@@ -18782,7 +18782,6 @@ archdeaconate
 aiding
 archdeaconess
 archdeaconry
-anaclastic
 archdeaconries
 archdeaconship
 anteriorly
@@ -23984,6 +23983,7 @@ autocytolysis
 aerobion
 autocytolytic
 autoclasis
+anaclastic
 autoclave
 autoclaves
 autoclaving
