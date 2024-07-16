@@ -10913,7 +10913,6 @@ disable
 disabled
 disableness
 demonstrativeness
-disabler
 disablers
 decahedron
 disabling
@@ -13459,6 +13458,7 @@ dustrag
 disrudder
 disruly
 disrump
+disabler
 disruptability
 disrupter
 deserve
