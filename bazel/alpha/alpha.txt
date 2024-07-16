@@ -2972,6 +2972,7 @@ acromial
 acromicria
 acromiodeltoid
 acromyodian
+allegatum
 acromyodic
 acromyodous
 acromiohyoid
@@ -6201,7 +6202,6 @@ aggrieved
 aggrievedness
 aggrievement
 aggrieving
-allegatum
 aggro
 aggros
 aggroup
