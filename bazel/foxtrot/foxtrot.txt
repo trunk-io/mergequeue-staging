@@ -4923,7 +4923,6 @@ flanged
 flangeless
 flangers
 flangeway
-flankard
 flanker
 flankers
 flanking
@@ -9806,6 +9805,7 @@ forgiveably
 frequent
 falcon
 frequentable
+flankard
 foresinger
 fubsy
 frequentative
