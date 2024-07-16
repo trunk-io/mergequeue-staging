@@ -1278,6 +1278,7 @@ gapo
 gapped
 gapperi
 gappy
+groundable
 golosh
 geophytic
 garner
@@ -9422,7 +9423,6 @@ grouf
 gloriosa
 grough
 ground
-groundable
 groundably
 groundage
 goosishly
