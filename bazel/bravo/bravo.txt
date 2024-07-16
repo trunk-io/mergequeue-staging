@@ -2791,7 +2791,6 @@ ballan
 barnmen
 barns
 barnstorm
-bothropic
 barnstormed
 bastiles
 barnstormer
@@ -10303,6 +10302,7 @@ blanche
 blancher
 blanches
 blanchi
+bothropic
 bassetta
 blanchimeter
 bourock
