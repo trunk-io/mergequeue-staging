@@ -1952,7 +1952,6 @@ camorristi
 camote
 camoudie
 camouflage
-camouflageable
 camouflaged
 camouflager
 camouflagers
@@ -31906,6 +31905,7 @@ cuzceno
 cv
 cwierc
 cwms
+camouflageable
 cwo
 cwrite
 cwt
