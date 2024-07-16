@@ -8190,7 +8190,6 @@ forsook
 forgave
 forge
 forinsec
-forgeability
 forgeable
 forged
 forger
@@ -8511,6 +8510,7 @@ flotage
 formulised
 formulising
 flajolotite
+forgeability
 fanwise
 formably
 ferrety
