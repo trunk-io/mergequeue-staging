@@ -3538,6 +3538,7 @@ bouchal
 babelic
 batement
 bater
+blend
 bates
 batfishes
 broader
@@ -10677,7 +10678,6 @@ blenchers
 blenches
 blenchingly
 blencorn
-blend
 blende
 blended
 blender
