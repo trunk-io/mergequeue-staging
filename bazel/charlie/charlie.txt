@@ -1153,6 +1153,7 @@ caldron
 caldrons
 calean
 calebites
+centrodorsal
 caleche
 caleches
 caledonia
@@ -7213,7 +7214,6 @@ centrobaric
 cyanastrum
 controversionalism
 centrode
-centrodorsal
 centrodorsally
 centroidal
 centroids
