@@ -1813,6 +1813,7 @@ gretel
 goodwives
 gaultheria
 gubernia
+glutton
 guebucu
 gormands
 gearman
@@ -6230,7 +6231,6 @@ glutted
 glutter
 gluttery
 glutting
-glutton
 gluttoness
 girlery
 gluttonies
