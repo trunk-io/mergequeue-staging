@@ -819,7 +819,6 @@ fibrinopurulent
 fanjet
 fanjets
 fanleaf
-fanlight
 fulminous
 foreseize
 fanlights
@@ -2996,6 +2995,7 @@ fibrillations
 forky
 fabraea
 fibrination
+fanlight
 fierily
 fids
 fibrinocellular

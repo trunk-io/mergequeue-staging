@@ -14203,6 +14203,7 @@ antecede
 anteceded
 antecedence
 antecedency
+avianize
 antecedent
 antecedental
 antecedes
@@ -24704,7 +24705,6 @@ avgas
 avgasses
 avyayibhava
 avian
-avianize
 arguments
 avianizes
 avians
