@@ -6992,7 +6992,6 @@ despraise
 despumated
 despumation
 drch
-despume
 desquamate
 dextrorsal
 desquamated
@@ -17654,6 +17653,7 @@ duteousness
 decatholicize
 dishevels
 dubhe
+despume
 drusy
 druther
 distendedly
