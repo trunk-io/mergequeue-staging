@@ -4859,7 +4859,6 @@ archiving
 aegrotat
 achromophilous
 aeipathy
-affliction
 alkyds
 antiaesthetic
 autotoxicity
@@ -4978,6 +4977,7 @@ aeriness
 aero
 antinuke
 aerobacter
+affliction
 aftergood
 aerobacteriology
 ammonoidean
