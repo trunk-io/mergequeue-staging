@@ -11775,7 +11775,6 @@ boden
 baluga
 backflap
 bodenbenderite
-boder
 balanophora
 bascule
 boffo
@@ -13345,6 +13344,7 @@ botone
 botonee
 bokmakierie
 botony
+boder
 botonnee
 blastomycosis
 botonny

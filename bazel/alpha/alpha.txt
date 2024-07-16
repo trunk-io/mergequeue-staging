@@ -18025,7 +18025,6 @@ approvers
 approves
 approving
 approvingly
-approx
 approximable
 approximal
 achill
@@ -21957,6 +21956,7 @@ ambassage
 assumptions
 axiomatically
 assumptious
+approx
 assumptiousness
 assumptive
 assumptiveness
