@@ -2892,6 +2892,7 @@ gentiana
 globousness
 gryphite
 gentianella
+grasper
 gentians
 gentianwort
 gristly
@@ -9171,7 +9172,6 @@ gristlier
 gristliest
 gristliness
 gristmill
-grasper
 gristmilling
 grists
 grit
