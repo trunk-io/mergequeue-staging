@@ -14641,7 +14641,6 @@ anthropogony
 anthropography
 anthropoid
 amphistyly
-appendicectasis
 anthropoidea
 alicoche
 anthropoidean
@@ -25115,6 +25114,7 @@ axle
 axled
 axles
 axlesmith
+appendicectasis
 autophotometry
 axletrees
 archeostome

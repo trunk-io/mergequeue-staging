@@ -950,7 +950,6 @@ farci
 farcial
 farcialize
 farcicality
-farcically
 farcicalness
 forcelessness
 farcify
@@ -6697,6 +6696,7 @@ foetalization
 foetation
 foetiparous
 foppishly
+farcically
 foetus
 foetuses
 fofarraw
