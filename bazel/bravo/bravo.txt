@@ -717,7 +717,6 @@ bacteriolysis
 betaken
 bulllike
 bletherskate
-bacteriolytic
 bacteriolyze
 bacteriology
 bacteriologic
@@ -1926,6 +1925,7 @@ bandelet
 bandelette
 beanies
 bander
+bacteriolytic
 banderilla
 banderilleros
 banderlog
