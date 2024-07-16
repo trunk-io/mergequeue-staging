@@ -15133,7 +15133,6 @@ dol
 dopamine
 dola
 dolabrate
-dolabriform
 dolcan
 dolcemente
 dolci
@@ -18603,6 +18602,7 @@ dechoralize
 dutiful
 dutifulness
 dolmenic
+dolabriform
 dutymonger
 dutra
 dismoded
