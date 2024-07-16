@@ -2236,7 +2236,6 @@ baptismal
 baptisms
 beresite
 baptist
-baptistery
 baptistry
 baptizable
 buttered
@@ -11076,6 +11075,7 @@ bloodier
 bloodies
 bronzed
 bloodiest
+baptistery
 bloodying
 barbell
 bloodily

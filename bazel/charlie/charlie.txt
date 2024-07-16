@@ -535,7 +535,6 @@ caduceus
 catenated
 caduciaries
 caducibranch
-caducibranchiata
 caducities
 caducous
 coreveler
@@ -7513,6 +7512,7 @@ ceratorhine
 ceratosa
 ceratosaurus
 ceratospongiae
+caducibranchiata
 colada
 ceratospongian
 ceratostomataceae
