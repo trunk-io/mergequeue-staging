@@ -2001,6 +2001,7 @@ bandpass
 bandrol
 brachyura
 bandsaw
+butyrometric
 bandsawed
 bandsawn
 breastmark
@@ -18197,7 +18198,6 @@ bestrewed
 butyrinase
 butyrins
 butyrometer
-butyrometric
 brast
 butyrone
 bradypod
