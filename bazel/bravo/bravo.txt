@@ -80,7 +80,6 @@ babelish
 barbecueing
 bilith
 babelism
-babelize
 babels
 babeship
 babesia
@@ -9341,6 +9340,7 @@ barricadoing
 blackmailer
 biprism
 byproduct
+babelize
 byproducts
 bipropellant
 bipunctate
