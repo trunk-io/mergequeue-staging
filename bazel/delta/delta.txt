@@ -4637,6 +4637,7 @@ demised
 demisemiquaver
 dulanganes
 demisemitone
+discarding
 demises
 demisheath
 deflexion
@@ -10811,7 +10812,6 @@ dawed
 decalescent
 direction
 directional
-discarding
 disanchor
 dolichocranial
 drain
