@@ -12656,7 +12656,6 @@ ellagitannin
 elastic
 exoculate
 epicoracohumeral
-exoculating
 exoderm
 exodermal
 exhalents
@@ -14009,6 +14008,7 @@ extravagancies
 extravagantes
 extravagantly
 extravagantness
+exoculating
 ends
 extravagating
 enterointestinal
