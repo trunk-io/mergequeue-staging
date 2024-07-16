@@ -2447,7 +2447,6 @@ diaplex
 deckswabber
 decl
 decigrams
-donations
 declaim
 disanimated
 declaimed
@@ -11761,6 +11760,7 @@ discredits
 dogeships
 decorator
 damascened
+donations
 discreetest
 discreetly
 durry
