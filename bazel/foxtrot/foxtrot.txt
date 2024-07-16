@@ -1896,7 +1896,6 @@ flee
 fedity
 frostbite
 feds
-fee
 feeable
 forane
 flavin
@@ -3380,6 +3379,7 @@ fiftypenny
 figaro
 figeter
 figgery
+fee
 foofaraws
 figgier
 figgum
