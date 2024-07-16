@@ -11319,7 +11319,6 @@ chlorinating
 cantoned
 chlorination
 chlorinator
-chlorinators
 chlorines
 credere
 chlorinity
@@ -19173,6 +19172,7 @@ collocated
 collocates
 collocating
 calorimetrical
+chlorinators
 collocationable
 collocational
 collocations
