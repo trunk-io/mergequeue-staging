@@ -10144,6 +10144,7 @@ cheshire
 cupidon
 chesil
 cheskey
+croisade
 cheskeys
 cheson
 chesoun
@@ -29686,7 +29687,6 @@ croyl
 crois
 croisad
 cannonproof
-croisade
 croisard
 croise
 croisee
