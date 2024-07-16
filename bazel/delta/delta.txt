@@ -4355,6 +4355,7 @@ demands
 demantoid
 demarcate
 demarcates
+disposers
 demarcating
 dormancy
 demarcation
@@ -13210,7 +13211,6 @@ dorje
 disposal
 disposedness
 disposement
-disposers
 disposes
 daemonian
 disposing
