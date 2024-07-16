@@ -8970,7 +8970,6 @@ allonym
 allonymous
 amiral
 allonymously
-alloo
 allopalladium
 allopath
 allopathetic
@@ -24559,6 +24558,7 @@ auxoflore
 auxofluor
 auxograph
 auxographic
+alloo
 auxology
 auxospore
 auxosubstance
