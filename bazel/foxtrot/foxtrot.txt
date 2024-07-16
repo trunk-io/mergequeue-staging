@@ -592,7 +592,6 @@ fallway
 false
 falsedad
 formby
-falseface
 falseheartedness
 falsehood
 flatulently
@@ -8929,6 +8928,7 @@ foundering
 foremistress
 foundership
 forechoir
+falseface
 forel
 foundlings
 fusicladium
