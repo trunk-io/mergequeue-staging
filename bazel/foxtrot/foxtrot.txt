@@ -531,6 +531,7 @@ florets
 falkland
 fall
 fallace
+fibromyomatous
 fallacy
 fallacia
 fallacies
@@ -8782,7 +8783,6 @@ fomentation
 fosses
 frappe
 frayn
-fibromyomatous
 fosset
 fossette
 fossettes
