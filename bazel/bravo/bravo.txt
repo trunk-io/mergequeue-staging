@@ -5351,7 +5351,6 @@ besauce
 behaved
 behaver
 bassia
-behaving
 brachioradial
 behavior
 butcherbird
@@ -13837,6 +13836,7 @@ bowstaff
 buri
 buzane
 bowstringing
+behaving
 blotchiness
 borrasca
 bowstrings
