@@ -1152,7 +1152,6 @@ calderium
 caldron
 caldrons
 calean
-calebites
 caleche
 caleches
 caledonia
@@ -2301,6 +2300,7 @@ checkbird
 canchalagua
 crocard
 canchas
+calebites
 cancion
 cancionero
 canciones
