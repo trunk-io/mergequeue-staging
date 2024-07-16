@@ -7155,6 +7155,7 @@ fraidycat
 footlock
 footlocker
 forestless
+friending
 fireable
 fills
 fisheyes
@@ -9972,7 +9973,6 @@ fstore
 fencings
 friedrichsdor
 fattener
-friending
 friendly
 friendlike
 formerly
