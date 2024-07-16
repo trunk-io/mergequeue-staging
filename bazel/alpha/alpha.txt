@@ -8551,7 +8551,6 @@ alkanethiol
 alkanets
 arbutase
 alkannin
-alkanol
 alkaphrah
 alkapton
 alkaptone
@@ -20169,6 +20168,7 @@ arpent
 arpenteur
 arpents
 arquated
+alkanol
 amalaita
 arquebus
 arquebuses
