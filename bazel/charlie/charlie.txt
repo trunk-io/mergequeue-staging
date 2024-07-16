@@ -7764,7 +7764,6 @@ clep
 cert
 certain
 certainest
-certainly
 certainness
 certainty
 certainties
@@ -22844,6 +22843,7 @@ consentable
 consentaneity
 consentaneous
 cryptoanalysis
+certainly
 cayugan
 civory
 consentaneousness
