@@ -24144,7 +24144,6 @@ conversazioni
 converse
 conversed
 cratchens
-conversely
 conjugally
 converser
 converses
@@ -31846,6 +31845,7 @@ calcarea
 cutlings
 cutlips
 cutocellulose
+conversely
 cutoff
 cutoffs
 cutose
