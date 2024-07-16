@@ -6052,7 +6052,6 @@ dequeue
 dequeued
 declaratively
 dequeues
-detachments
 disgracia
 dropshots
 dorsulum
@@ -14735,6 +14734,7 @@ docksides
 dures
 dockworker
 docoglossa
+detachments
 docoglossate
 disring
 devotionalism
