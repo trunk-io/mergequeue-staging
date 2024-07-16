@@ -12691,7 +12691,6 @@ anesthetization
 acclimatising
 anesthetized
 anaeretic
-anesthetizer
 ancestresses
 angering
 anesthetizing
@@ -15323,6 +15322,7 @@ antifaction
 antifat
 antifatigue
 antifebrin
+anesthetizer
 antifederal
 associability
 agad
