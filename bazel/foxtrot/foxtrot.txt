@@ -3889,6 +3889,7 @@ franchisal
 famille
 finecomb
 finedrawing
+farer
 fineer
 fineless
 fustianish
@@ -7277,7 +7278,6 @@ foramina
 ferrivorous
 foraminal
 filago
-farer
 foraminifer
 functionalizing
 foreworld
