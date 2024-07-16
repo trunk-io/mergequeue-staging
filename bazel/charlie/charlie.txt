@@ -1195,7 +1195,6 @@ calentural
 calenture
 calentured
 calenturing
-calenturish
 calepin
 cutlash
 calesa
@@ -26738,6 +26737,7 @@ counterbond
 counterborder
 counterbore
 counterbored
+calenturish
 counterborer
 convalesced
 counterboulle
