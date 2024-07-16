@@ -477,7 +477,6 @@ frescoist
 funestal
 fervors
 falces
-falchion
 featherers
 fanweed
 falcial
@@ -6285,6 +6284,7 @@ fragmentitious
 fisheater
 fluidity
 finestill
+falchion
 fluidities
 fluidization
 fluidize
