@@ -11655,7 +11655,6 @@ anacrustic
 anaculture
 arienzo
 anacusic
-anacusis
 albicore
 anadem
 admonitions
@@ -18936,6 +18935,7 @@ aged
 archibenthos
 archiblast
 archiblastic
+anacusis
 archiblastoma
 archiblastula
 archibuteo
