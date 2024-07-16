@@ -5989,6 +5989,7 @@ exiguities
 enlarge
 esox
 enlargeable
+epitases
 enlarged
 eyed
 enhaloed
@@ -8298,7 +8299,6 @@ escalloniaceous
 epitaphic
 epitaphless
 epitaphs
-epitases
 epispore
 expurgative
 excentral
