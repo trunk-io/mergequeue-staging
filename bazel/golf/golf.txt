@@ -1658,7 +1658,6 @@ graphology
 gutturals
 gasteria
 gasterolichenes
-gasteromycete
 guess
 gypsoplast
 geomorphologist
@@ -4701,6 +4700,7 @@ gelasimus
 gypsywise
 gipsywort
 gypsography
+gasteromycete
 gryphaea
 gypsology
 grossing
