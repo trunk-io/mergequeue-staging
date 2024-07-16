@@ -11034,7 +11034,6 @@ anhedral
 amort
 amortise
 araeostyle
-amortises
 amortising
 amortissement
 amortisseur
@@ -23123,6 +23122,7 @@ abrasax
 attirement
 attires
 attiring
+amortises
 attitude
 attitudinarian
 attitudinised
