@@ -1813,7 +1813,6 @@ gretel
 goodwives
 gaultheria
 gubernia
-guebucu
 gormands
 gearman
 gastromancy
@@ -6336,6 +6335,7 @@ glacis
 gladnesses
 gneissy
 garau
+guebucu
 gneissose
 gnetaceae
 gnetaceous
