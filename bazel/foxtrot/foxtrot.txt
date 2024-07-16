@@ -218,7 +218,6 @@ faculty
 faculties
 facultize
 facundity
-frankheartedness
 fad
 fadaise
 fragrant
@@ -5161,6 +5160,7 @@ flavedo
 fiance
 flavedos
 frenchification
+frankheartedness
 fiscals
 flaveria
 flavia
