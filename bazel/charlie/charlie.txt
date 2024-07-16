@@ -3380,7 +3380,6 @@ captainships
 captan
 captance
 captandum
-captans
 captation
 caption
 captioned
@@ -19312,6 +19311,7 @@ cologarithm
 cologne
 cologned
 calathisci
+captans
 cologs
 colola
 colomb
