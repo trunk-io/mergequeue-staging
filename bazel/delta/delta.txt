@@ -14728,7 +14728,6 @@ dockland
 dobras
 docklands
 daggling
-dockmackie
 dockman
 docks
 dockside
@@ -16744,6 +16743,7 @@ dramme
 drammed
 dramseller
 dramshop
+dockmackie
 dysphemize
 dramshops
 debarbarize
