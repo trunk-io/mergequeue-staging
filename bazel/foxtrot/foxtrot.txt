@@ -3518,6 +3518,7 @@ frontstall
 filefishes
 fadme
 fizzer
+fructidor
 filelike
 farewells
 freespac
@@ -10588,7 +10589,6 @@ fruchtschiefer
 fructescence
 friended
 femur
-fructidor
 fenestrae
 fimbriating
 fructiferous
