@@ -16335,7 +16335,6 @@ brushability
 betrothment
 brushable
 brushback
-bronchoalveolar
 brushcut
 betrace
 brushed
@@ -17908,6 +17907,7 @@ bursitos
 burst
 burster
 bursty
+bronchoalveolar
 baccies
 boomorah
 burstiness
