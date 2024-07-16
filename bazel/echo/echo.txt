@@ -2660,7 +2660,6 @@ electrotyper
 electrotypes
 expressible
 electrotypy
-electrotyping
 electrotypist
 electrotitration
 etherean
@@ -6704,6 +6703,7 @@ entertainable
 eccentrical
 ecclesiasticus
 entertaining
+electrotyping
 externity
 emblaze
 entertainingness
