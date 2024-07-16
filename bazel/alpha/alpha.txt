@@ -6978,6 +6978,7 @@ airfare
 airfares
 airfield
 airfields
+albertype
 airflow
 appearance
 airflows
@@ -7497,7 +7498,6 @@ alberta
 albertin
 albertina
 albertine
-albertype
 alderwomen
 albertite
 alberto

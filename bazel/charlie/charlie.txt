@@ -11819,7 +11819,6 @@ chondropharyngeal
 circumvolution
 chondropharyngeus
 chondrophyte
-chondrophore
 chondroplasty
 chondroplastic
 chondroprotein
@@ -25992,6 +25991,7 @@ corviser
 corvisor
 circuital
 corvo
+chondrophore
 corvoid
 caecias
 constructure
