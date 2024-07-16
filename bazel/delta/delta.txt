@@ -9337,7 +9337,6 @@ darbies
 diane
 dorr
 dietotherapy
-dietotoxicity
 doomlike
 dietrichite
 dietzeite
@@ -11780,6 +11779,7 @@ discrepation
 discrepencies
 discrested
 dichondra
+dietotoxicity
 discrete
 discretely
 discreteness
