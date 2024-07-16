@@ -17177,6 +17177,7 @@ coaged
 cornmonger
 coagency
 coagent
+culex
 coagitate
 coagitator
 cury
@@ -30726,7 +30727,6 @@ culet
 culets
 culett
 culeus
-culex
 culgee
 culices
 culicid
