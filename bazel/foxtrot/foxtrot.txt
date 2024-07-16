@@ -2451,6 +2451,7 @@ fellowships
 fusiform
 fernseed
 fibratus
+foundery
 faucalize
 fernticle
 ferocactus
@@ -5715,7 +5716,6 @@ faciation
 flittermmice
 fromages
 footrill
-foundery
 filmdom
 fungoid
 foxinesses
