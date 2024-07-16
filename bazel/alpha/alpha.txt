@@ -1915,7 +1915,6 @@ accuser
 accusers
 accuses
 accusing
-accusingly
 accusive
 accusor
 accustom
@@ -6704,6 +6703,7 @@ ahmet
 ahnfeltia
 aho
 ahoy
+accusingly
 aeneous
 acetolysis
 aholds
