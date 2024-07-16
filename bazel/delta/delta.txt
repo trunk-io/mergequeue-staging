@@ -1189,7 +1189,6 @@ dextral
 disport
 dasyuroid
 dasyurus
-dasyus
 dassent
 dendrobe
 diiamb
@@ -5062,6 +5061,7 @@ dendrocoela
 dieted
 dendrocoelan
 dendrocoelous
+dasyus
 dendrocolaptidae
 doggeries
 dissective
