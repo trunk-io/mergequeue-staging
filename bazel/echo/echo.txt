@@ -2138,7 +2138,6 @@ elasticized
 elasticizing
 eulogiae
 elasticness
-elastin
 encompassed
 elastivity
 epigastric
@@ -8632,6 +8631,7 @@ enherit
 edulcorated
 equidistribution
 elaenia
+elastin
 equidominant
 equidurable
 equielliptical
