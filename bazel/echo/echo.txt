@@ -836,7 +836,6 @@ ectene
 ectental
 ectepicondylar
 equinumerally
-ecteron
 ectethmoid
 ectethmoidal
 ecthesis
@@ -2402,6 +2401,7 @@ electroencephalograph
 electroendosmose
 electroendosmosis
 electroendosmotic
+ecteron
 electroengrave
 eudalene
 electroergometer
