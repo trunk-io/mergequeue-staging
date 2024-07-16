@@ -2924,7 +2924,6 @@ defoam
 deduced
 differentiant
 deducement
-deducer
 deducibility
 deducibly
 dolce
@@ -17850,6 +17849,7 @@ ductless
 ductor
 defaced
 debat
+deducer
 decursive
 disimbitter
 ducts
