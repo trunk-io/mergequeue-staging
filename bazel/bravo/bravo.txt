@@ -7144,7 +7144,6 @@ besra
 bandores
 bess
 beriberis
-bessel
 besselian
 bessemer
 bessemerized
@@ -12087,6 +12086,7 @@ boldface
 bostrychoid
 boldfaced
 boldfacedly
+bessel
 batodendron
 bedeviled
 boldin
