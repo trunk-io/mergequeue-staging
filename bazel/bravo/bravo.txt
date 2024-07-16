@@ -1915,7 +1915,6 @@ braces
 bandboxes
 bandcase
 bandcutter
-bande
 britishers
 banded
 bandel
@@ -7635,6 +7634,7 @@ bezante
 bishopess
 bulrushy
 bezantee
+bande
 bezanty
 bummalo
 buttress
