@@ -1785,7 +1785,6 @@ balsamroot
 balsams
 balsamum
 balsamweed
-balsas
 balsawood
 balt
 baltei
@@ -17497,6 +17496,7 @@ buonamani
 bondmaids
 buonamano
 brevifoliate
+balsas
 batten
 buphaga
 buphthalmum
