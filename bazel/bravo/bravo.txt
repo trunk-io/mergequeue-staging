@@ -396,6 +396,7 @@ beknot
 backfriend
 backfurrow
 budukha
+bicorne
 backgammon
 backgeared
 backgrounds
@@ -4120,7 +4121,6 @@ beardy
 bedazement
 beardie
 bearding
-bicorne
 bosporus
 balander
 beardless
