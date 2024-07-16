@@ -11148,7 +11148,6 @@ disproofs
 disoccupied
 disassociated
 disassociates
-disassociation
 disaster
 daunii
 disastrous
@@ -16068,6 +16067,7 @@ doubtable
 duros
 doubtably
 doubtedly
+disassociation
 doubters
 doubtfulness
 doubty
