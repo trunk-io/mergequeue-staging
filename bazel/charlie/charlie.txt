@@ -20746,6 +20746,7 @@ canful
 completory
 completories
 complex
+corollary
 complexation
 complexedness
 complexer
@@ -25509,7 +25510,6 @@ craniom
 coroll
 corolla
 corollaceous
-corollary
 corollarial
 chlorazide
 corollarially
