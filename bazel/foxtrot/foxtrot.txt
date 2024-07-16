@@ -6858,6 +6858,7 @@ feerie
 formulations
 flinty
 ferruginated
+feoffment
 fructiparous
 firewood
 foliaceous
@@ -7761,7 +7762,6 @@ fleshlike
 fluidify
 flak
 foremasts
-feoffment
 foremean
 forb
 foreyards
