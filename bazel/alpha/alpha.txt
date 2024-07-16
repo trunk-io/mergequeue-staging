@@ -5687,6 +5687,7 @@ accoutres
 afterdated
 afterdeath
 afterdeck
+anaesthesiology
 afterdecks
 afterdinner
 afterdischarge
@@ -11708,7 +11709,6 @@ anaeroplastic
 anaesthatic
 anaesthesiant
 aglitter
-anaesthesiology
 anaesthesiologist
 acalyculate
 anaesthesis
