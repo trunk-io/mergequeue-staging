@@ -5967,7 +5967,6 @@ frontooccipital
 flameholder
 florescent
 floressence
-floreta
 floreted
 fenestrated
 footworn
@@ -6623,6 +6622,7 @@ frontoauricular
 fought
 forewinning
 fele
+floreta
 foalfoots
 foalhood
 foals
