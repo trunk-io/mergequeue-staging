@@ -141,7 +141,6 @@ babkas
 booted
 bablah
 babloh
-burble
 baboo
 branles
 baboon
@@ -2039,6 +2038,7 @@ brambly
 bassoon
 bangalow
 bratticed
+burble
 bangash
 boodling
 bangboard
