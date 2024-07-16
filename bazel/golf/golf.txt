@@ -6003,7 +6003,6 @@ groundbreaker
 glottalized
 gestures
 gomphocarpus
-geography
 glottid
 gynerium
 glottises
@@ -7431,6 +7430,7 @@ granjeno
 gouged
 gouger
 graphemics
+geography
 geotaxis
 gougers
 gouges
