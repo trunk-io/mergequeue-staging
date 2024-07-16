@@ -12912,7 +12912,6 @@ bankshall
 boraginaceae
 bionomics
 boraginaceous
-boragineous
 bygoing
 borago
 borak
@@ -14467,6 +14466,7 @@ boggy
 branchiogenous
 branchiomere
 branchiomeric
+boragineous
 branchiomerism
 brazing
 boeotarch
