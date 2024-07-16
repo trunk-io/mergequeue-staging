@@ -1664,7 +1664,6 @@ ballota
 ballotage
 balloter
 balloting
-bradyseismal
 ballotist
 ballottable
 ballottine
@@ -2089,6 +2088,7 @@ banishment
 borated
 banister
 banisters
+bradyseismal
 baniva
 baniwa
 betweenity
