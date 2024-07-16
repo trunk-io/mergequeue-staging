@@ -9573,7 +9573,6 @@ alternity
 alterum
 altesse
 alteza
-altezza
 althaea
 althaeas
 althaein
@@ -22480,6 +22479,7 @@ ataxiameter
 ataxiaphasia
 ataxias
 ataxies
+altezza
 ataxinomic
 acrostics
 ataxophemia
