@@ -2373,6 +2373,7 @@ electrode
 exhaustively
 electrodeposit
 erythrochaete
+emulgence
 electrodeposition
 electrodepositor
 electrodes
@@ -8618,7 +8619,6 @@ equicontinuous
 equiconvex
 equicostate
 equicrural
-emulgence
 equid
 eupnoeas
 equidiagonal

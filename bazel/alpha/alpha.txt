@@ -6201,6 +6201,7 @@ aggrievance
 aggrieve
 aggrieved
 aggrievedness
+amoke
 aggrievement
 aggrieving
 allegatum
@@ -10967,7 +10968,6 @@ amoyan
 alcoholised
 anerotic
 amok
-amoke
 amoks
 amoles
 araeosystyle
