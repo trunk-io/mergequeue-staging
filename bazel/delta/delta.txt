@@ -3386,7 +3386,6 @@ deflexure
 duodecimole
 deflocculant
 debasement
-deflocculate
 deflocculating
 deflocculator
 deflocculent
@@ -10541,6 +10540,7 @@ diplantidian
 decarburized
 diplarthrism
 diplarthrous
+deflocculate
 diplasion
 diplegia
 diplegias
