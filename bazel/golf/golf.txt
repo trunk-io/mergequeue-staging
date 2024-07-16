@@ -7401,7 +7401,6 @@ girdled
 greyness
 gramma
 gallinula
-gothonic
 goths
 guised
 gelilah
@@ -9823,6 +9822,7 @@ guanabana
 guanabano
 gravat
 guapilla
+gothonic
 goose
 giovanni
 guanacos
