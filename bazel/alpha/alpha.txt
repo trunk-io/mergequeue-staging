@@ -11901,7 +11901,6 @@ anamnionata
 anamnionic
 accolled
 anamniote
-algerita
 anamniotic
 anamorphic
 acutes
@@ -20555,6 +20554,7 @@ arteriostosis
 arteriostrepsis
 arteriotome
 arteriotomy
+algerita
 arteriotomies
 apparation
 arteriotrepsis
