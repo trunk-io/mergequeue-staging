@@ -7849,7 +7849,6 @@ aldhafara
 aldhafera
 aldide
 adolescents
-aldim
 aldime
 aldimin
 aldimine
@@ -24454,6 +24453,7 @@ autothermy
 autotimer
 autotypes
 autotypy
+aldim
 autotypic
 autotypies
 autotypography
