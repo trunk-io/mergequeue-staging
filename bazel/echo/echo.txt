@@ -4567,7 +4567,6 @@ encephalomalacosis
 encephalomalaxis
 encephalomeningocele
 encephalomeric
-encephalometer
 endocardiac
 encephalomyelitic
 ethylamine
@@ -7011,6 +7010,7 @@ ectopistes
 entreasure
 exalting
 entreasured
+encephalometer
 erythrogenic
 entreasuring
 entreat
