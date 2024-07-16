@@ -282,7 +282,6 @@ eastermost
 eastern
 easterners
 easternism
-easternized
 easternly
 easternmost
 easters
@@ -4462,6 +4461,7 @@ electrobioscopy
 encaged
 encages
 encaging
+easternized
 encake
 erythrosiderite
 exploitable
