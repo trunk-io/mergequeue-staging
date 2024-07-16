@@ -4483,7 +4483,6 @@ caroch
 coumarinic
 caroche
 caroigne
-cliqueier
 carol
 carolan
 carole
@@ -29939,6 +29938,7 @@ crossweb
 crosswind
 crosswiseness
 crossworder
+cliqueier
 crosswords
 crost
 crostarie
