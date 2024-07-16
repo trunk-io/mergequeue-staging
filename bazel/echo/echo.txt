@@ -2335,6 +2335,7 @@ emmensite
 electrodispersive
 electrochemical
 electrochemist
+equatorward
 electrochronograph
 electrochronometer
 enterochromaffin
@@ -8580,7 +8581,6 @@ etherial
 equatoreal
 equatorial
 ecalcavate
-equatorward
 equatorwards
 entreated
 equerries
