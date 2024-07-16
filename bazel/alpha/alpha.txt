@@ -16827,7 +16827,6 @@ atik
 aphanisia
 aphanisis
 aphanite
-aphanites
 aphanitic
 akebi
 aphanomyces
@@ -24900,6 +24899,7 @@ anticathexis
 awaked
 awakenable
 awakened
+aphanites
 awakener
 awakeners
 awakening

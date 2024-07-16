@@ -1043,7 +1043,6 @@ calcicolous
 calcicosis
 calcydon
 calciferol
-calciferous
 calcify
 calcific
 calcified
@@ -29487,6 +29486,7 @@ crystallized
 crystallizer
 crystallizes
 crystallizing
+calciferous
 crystalloblastic
 crystallochemical
 crystallochemistry
