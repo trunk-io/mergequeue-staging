@@ -4320,7 +4320,6 @@ fishbolts
 faultless
 fishbone
 fishbowl
-fisheye
 fisherboat
 fisherboy
 fingerwise
@@ -8765,6 +8764,7 @@ fosite
 freckleproof
 foss
 flapdragon
+fisheye
 flunks
 fossage
 fratch
