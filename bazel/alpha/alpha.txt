@@ -1221,7 +1221,6 @@ abusage
 abuse
 abused
 abusedly
-acrita
 abohm
 abusee
 amuletic
@@ -3775,6 +3774,7 @@ avidous
 adenopharyngitis
 adenophyma
 almeh
+acrita
 adenophlegmon
 adenophora
 adenopodous
