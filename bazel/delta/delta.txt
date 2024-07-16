@@ -8709,7 +8709,6 @@ diatomaceae
 diatomaceous
 diatomales
 dacoity
-diatomean
 diatomic
 diatomicity
 diatomine
@@ -16168,6 +16167,7 @@ delineable
 dousing
 dout
 domestication
+diatomean
 douter
 doux
 douzaine

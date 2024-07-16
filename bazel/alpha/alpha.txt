@@ -10537,7 +10537,6 @@ amidols
 amidomyelin
 amidon
 amydon
-amidone
 amidophenol
 amidophosphoric
 amidoplastid
@@ -13075,6 +13074,7 @@ aspidobranchiata
 anguishing
 anguishous
 airn
+amidone
 anguishously
 angula
 angular
