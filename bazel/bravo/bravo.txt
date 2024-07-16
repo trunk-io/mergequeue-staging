@@ -2971,6 +2971,7 @@ barre
 bangles
 bantering
 bueno
+bedragglement
 barred
 brutification
 barrel
@@ -8064,7 +8065,6 @@ bicolours
 beheaded
 balatas
 bicompact
-bedragglement
 biconcave
 biconcavity
 bidder
