@@ -1475,7 +1475,6 @@ fatuous
 fatuus
 fatwa
 fairtime
-fatwood
 flavid
 forwhy
 footpath
@@ -7114,6 +7113,7 @@ footer
 footfall
 finnick
 footfault
+fatwood
 forayed
 filical
 footfeed
