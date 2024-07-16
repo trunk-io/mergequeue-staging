@@ -5060,7 +5060,6 @@ dendrochronology
 dendrochronological
 dendrochronologist
 dendrocygna
-dendroclastic
 dendrocoela
 dieted
 dendrocoelan
@@ -12977,6 +12976,7 @@ dispauper
 drabbletailed
 dispauperize
 diverging
+dendroclastic
 depersonize
 dittying
 duetto
