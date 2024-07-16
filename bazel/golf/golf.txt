@@ -2198,6 +2198,7 @@ gearcase
 gearcases
 geared
 gearing
+glutaeous
 gearings
 gasterotricha
 goladar
@@ -7701,7 +7702,6 @@ gobblers
 graeae
 gastroenteroptosis
 glick
-glutaeous
 gibstaff
 graecian
 graecomania
