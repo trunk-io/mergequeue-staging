@@ -4049,7 +4049,6 @@ denudement
 deliberateness
 deliberates
 diacoele
-detester
 deliberating
 deliberation
 deliberations
@@ -17856,6 +17855,7 @@ ducts
 ductule
 dermosclerite
 ductules
+detester
 ductus
 ductwork
 ducula
