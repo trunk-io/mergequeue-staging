@@ -3061,7 +3061,6 @@ acrostichic
 amidocaffeine
 acrostichoid
 archaised
-acrostichum
 acrosticism
 acrostolia
 asarh
@@ -6793,6 +6792,7 @@ aigialosaurus
 aiglet
 aiglets
 aiglette
+acrostichum
 aigre
 aigremore
 affectivity
