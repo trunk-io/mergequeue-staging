@@ -3281,6 +3281,7 @@ emane
 emanent
 entoperipheral
 emanium
+epaxial
 emarginate
 euboean
 eroses
@@ -7379,7 +7380,6 @@ epaulets
 emboldening
 epaulette
 exerting
-epaxial
 epaxially
 epedaphic
 endevil
