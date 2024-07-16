@@ -2608,7 +2608,6 @@ electrosensitive
 electroshocks
 electrosynthetically
 eyeful
-electrosmosis
 electrostatic
 etymons
 evanescible
@@ -4422,6 +4421,7 @@ enantiomorphism
 encopresis
 enantiomorphously
 enantiopathy
+electrosmosis
 episodial
 exanthine
 enantioses
