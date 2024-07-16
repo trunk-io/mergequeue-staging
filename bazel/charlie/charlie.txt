@@ -2958,7 +2958,6 @@ caoutchin
 caoutchouc
 crithomancy
 caoutchoucin
-capa
 capability
 capabilities
 capable
@@ -5214,6 +5213,7 @@ cassis
 cassises
 cassiterite
 cassites
+capa
 charlatanish
 cassock
 cassocked
