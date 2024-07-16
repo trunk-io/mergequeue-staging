@@ -1626,7 +1626,6 @@ genouillere
 gasparillo
 granulomata
 gates
-gravamens
 gaspereaus
 gaspergou
 gaspers
@@ -2454,6 +2453,7 @@ gemara
 germs
 guidonian
 gemaric
+gravamens
 graverobber
 gorier
 gematria
