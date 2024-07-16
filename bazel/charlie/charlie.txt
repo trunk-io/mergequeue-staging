@@ -20965,7 +20965,6 @@ compressively
 cercopithecus
 compressometer
 compressor
-compressors
 compressure
 comprest
 compriest
@@ -25017,6 +25016,7 @@ cordately
 crumbcloth
 cordax
 cordeau
+compressors
 cordel
 cordelia
 cordelier
