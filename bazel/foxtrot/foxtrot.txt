@@ -2840,7 +2840,6 @@ forelock
 feudalized
 footrace
 fulmar
-feudalizing
 feudary
 feudatary
 feudatory
@@ -6983,6 +6982,7 @@ fraena
 fetlocks
 foliicolous
 fondateur
+feudalizing
 furziest
 fonder
 fonding

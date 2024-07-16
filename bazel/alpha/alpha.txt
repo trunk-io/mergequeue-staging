@@ -3335,7 +3335,6 @@ ascents
 aerodromics
 acturience
 actus
-actutate
 animates
 acuaesthesia
 acuate
@@ -5159,6 +5158,7 @@ alkaligen
 aeroscopically
 aerose
 aerosiderite
+actutate
 aerosiderolite
 aerosinusitis
 aerosolization
