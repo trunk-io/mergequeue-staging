@@ -2621,7 +2621,6 @@ ferulae
 feticide
 fuchsite
 foamy
-ferular
 ferulas
 falsifiable
 ferule
@@ -9663,6 +9662,7 @@ fullered
 freer
 fibroligamentous
 footrests
+ferular
 figment
 fulminates
 freers
