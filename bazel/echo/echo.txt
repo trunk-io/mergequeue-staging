@@ -5197,7 +5197,6 @@ endolymphangial
 endolymphatic
 electrolyzable
 etiotropic
-endolymphic
 endolysin
 endome
 echinostomiasis
@@ -5226,6 +5225,7 @@ endonucleolus
 endoparasitica
 exhilaration
 enteral
+endolymphic
 extradicted
 expiratory
 endoparasitism
