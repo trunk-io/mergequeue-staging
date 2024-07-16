@@ -1453,6 +1453,7 @@ grysbok
 garners
 goldtail
 goi
+gelfomino
 gummier
 garnetberry
 garneter
@@ -7369,7 +7370,6 @@ gossipy
 gossypin
 gossypine
 gossipiness
-gelfomino
 grama
 gossipingly
 glaucopis
