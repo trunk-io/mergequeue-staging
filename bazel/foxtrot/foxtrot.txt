@@ -754,7 +754,6 @@ fanciness
 fancysick
 fancywork
 fandango
-follicule
 forkbeard
 fandangos
 fandom
@@ -11661,6 +11660,7 @@ fustin
 fustinella
 footfarer
 filleted
+follicule
 flagstaff
 fulgid
 fustoc
