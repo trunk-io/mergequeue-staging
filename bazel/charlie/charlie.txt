@@ -11539,6 +11539,7 @@ choirman
 choirmaster
 convects
 choyroot
+colytic
 choirwise
 choise
 caw
@@ -18886,7 +18887,6 @@ colistin
 coypou
 craniometrist
 colistins
-colytic
 commatism
 colitis
 colitises
