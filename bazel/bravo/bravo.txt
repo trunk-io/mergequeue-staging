@@ -550,6 +550,7 @@ backspins
 backsplice
 bladed
 backspliced
+bissext
 backsplicing
 backspringing
 backstab
@@ -1540,7 +1541,6 @@ bradyphrasia
 bullragging
 balladry
 boarding
-bissext
 balladries
 biophore
 balladromic
