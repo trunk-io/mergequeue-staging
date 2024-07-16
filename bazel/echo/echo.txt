@@ -4618,7 +4618,6 @@ enchant
 enchanted
 enchanter
 extramission
-enchantery
 excavationist
 enchanters
 epineuria
@@ -11050,6 +11049,7 @@ eagles
 euphuistically
 euphuize
 euphuized
+enchantery
 euphuizing
 eupyrene
 eupittone
