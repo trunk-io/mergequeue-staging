@@ -950,7 +950,6 @@ begoniaceae
 bagnette
 beachman
 bagnio
-bagnios
 beamman
 bagnut
 bagobo
@@ -6851,6 +6850,7 @@ bounded
 besayle
 besaint
 besan
+bagnios
 besanctify
 besand
 bescab
