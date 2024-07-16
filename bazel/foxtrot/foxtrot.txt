@@ -2529,7 +2529,6 @@ foreact
 ferrocalcite
 ferrocene
 fluxibility
-factual
 ferrochrome
 ferrochromium
 ferrocyanate
@@ -10307,6 +10306,7 @@ fooldom
 fipples
 froisse
 frokin
+factual
 fletch
 flicks
 frolickers
