@@ -1528,7 +1528,6 @@ garston
 garten
 garter
 gartered
-garters
 gratten
 gilders
 grothine
@@ -5458,6 +5457,7 @@ glycins
 glycyrrhiza
 gipsyry
 glycyrrhizin
+garters
 groundman
 garvey
 glycocoll
