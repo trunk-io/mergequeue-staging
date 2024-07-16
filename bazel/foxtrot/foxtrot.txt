@@ -7100,6 +7100,7 @@ footages
 footback
 football
 footballist
+footblower
 footboard
 feeders
 footboards
@@ -11059,7 +11060,6 @@ forsteal
 fummle
 fumous
 fumuli
-footblower
 fadedness
 fud
 focimetry
