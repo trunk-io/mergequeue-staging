@@ -14366,7 +14366,6 @@ circumgyrate
 circumgyration
 clinorhombic
 circumgyratory
-circumhorizontal
 circumincession
 circumjacence
 circumjacencies
@@ -23843,6 +23842,7 @@ contrasted
 contrastedly
 contraster
 contrasters
+circumhorizontal
 contrasty
 curativeness
 contrastimulant
