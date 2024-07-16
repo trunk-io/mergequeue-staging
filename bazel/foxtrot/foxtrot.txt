@@ -1587,6 +1587,7 @@ fainness
 fargoing
 faveolus
 festinance
+fleams
 fictionised
 faviform
 foretopman
@@ -9215,7 +9216,6 @@ firetraps
 fragileness
 fragility
 friaries
-fleams
 fragilities
 fluemen
 fragmental
