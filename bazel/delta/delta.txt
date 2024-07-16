@@ -15545,7 +15545,6 @@ donor
 donorship
 diplomatics
 donought
-donsy
 donsie
 donum
 donut
@@ -16191,6 +16190,7 @@ decadarch
 dovehouse
 dovekey
 dovekeys
+donsy
 dactyliology
 dovekie
 dovekies
