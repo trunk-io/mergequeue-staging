@@ -9038,7 +9038,6 @@ biomes
 biometeorology
 biometer
 biometric
-bushwhacked
 biometrically
 biometrician
 biometricist
@@ -15580,6 +15579,7 @@ brittlewort
 brittonic
 braccia
 britts
+bushwhacked
 britzka
 britzkas
 bosporanic
