@@ -7715,7 +7715,6 @@ ceriornis
 ceriphs
 cerise
 charivaris
-cerises
 circumnavigatory
 cerite
 clarts
@@ -18155,6 +18154,7 @@ coenzymes
 coequal
 coequality
 coequalize
+cerises
 coequally
 coequalness
 coequated
