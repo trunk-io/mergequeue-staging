@@ -4283,6 +4283,7 @@ firth
 fusilier
 firths
 fathomless
+foresightedly
 fiscal
 ferri
 foysen
@@ -7949,7 +7950,6 @@ foreside
 foresight
 foresighted
 forewarned
-foresightedly
 furiosa
 feateous
 fishbones
