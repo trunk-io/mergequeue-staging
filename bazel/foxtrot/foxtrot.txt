@@ -3787,6 +3787,7 @@ fimbriatum
 ferrule
 favous
 fimbricate
+freeport
 fimbricated
 fimbrilla
 fimbrillae
@@ -4225,7 +4226,6 @@ festa
 firings
 frays
 follower
-freeport
 firk
 firkins
 falconoid
