@@ -8294,7 +8294,6 @@ expurgative
 excentral
 epitasis
 epitaxy
-epitaxial
 epitaxic
 epitaxies
 eucyclic
@@ -13238,6 +13237,7 @@ exploratively
 explorator
 epiphysial
 exploratory
+epitaxial
 earlocks
 expositionary
 epistolized
