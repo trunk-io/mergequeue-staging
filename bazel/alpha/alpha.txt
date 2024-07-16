@@ -5585,7 +5585,6 @@ aforehand
 aforementioned
 aforenamed
 aforesaid
-aforetime
 afortiori
 afoul
 afounde
@@ -19452,6 +19451,7 @@ argel
 argema
 argemone
 argemony
+aforetime
 argenol
 argent
 abrogators
