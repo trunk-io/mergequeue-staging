@@ -5000,7 +5000,6 @@ comatic
 cascan
 cascara
 consulter
-chinooks
 cascaras
 cephalopagus
 cascavel
@@ -23123,6 +23122,7 @@ const
 constable
 chapatti
 chintzes
+chinooks
 constablery
 cowgate
 constables
