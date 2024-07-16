@@ -3286,7 +3286,6 @@ acts
 aminic
 artal
 actu
-actual
 actualisation
 alchemistry
 anagogic
@@ -9733,6 +9732,7 @@ alveolariform
 alveolate
 agio
 alveolated
+actual
 alveolation
 archdolt
 alveole
