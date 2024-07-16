@@ -4356,6 +4356,7 @@ enalid
 enaliornis
 enaliosauria
 enaliosaurian
+epigynies
 externum
 enalite
 eleusinion
@@ -7841,7 +7842,6 @@ epistasis
 epigyne
 emeraldine
 epigyny
-epigynies
 endosteomata
 epiglot
 eugenicists
