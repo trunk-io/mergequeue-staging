@@ -9827,7 +9827,6 @@ bitable
 bitake
 bytalk
 bytalks
-bitangent
 bitangential
 bitartrate
 bitbrace
@@ -14252,6 +14251,7 @@ buffered
 bragite
 bragless
 banners
+bitangent
 bragly
 bragozzo
 brags
