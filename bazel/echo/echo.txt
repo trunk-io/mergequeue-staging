@@ -9782,7 +9782,6 @@ exactions
 extrabureau
 euryon
 espinal
-espinel
 espingole
 enrobe
 excusive
@@ -10506,6 +10505,7 @@ ethnopsychological
 ethnoses
 emboscata
 ethnotechnics
+espinel
 epiplasm
 ethnotechnography
 euclidean
