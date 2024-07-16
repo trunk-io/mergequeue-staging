@@ -3448,6 +3448,7 @@ bassos
 bassus
 basswood
 borders
+bedticks
 buckeye
 basswoods
 basta
@@ -4829,7 +4830,6 @@ biliteral
 bedstring
 bedswerver
 bedtick
-bedticks
 bices
 bedub
 beduchess
