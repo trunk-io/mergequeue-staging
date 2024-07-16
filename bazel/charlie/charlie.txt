@@ -25358,7 +25358,6 @@ corner
 cornerback
 cornerbind
 cornercap
-cornered
 cornerer
 cornering
 cornerman
@@ -28081,6 +28080,7 @@ cramps
 clatchy
 crams
 cuckoomate
+cornered
 cranage
 cranberry
 cranberries
