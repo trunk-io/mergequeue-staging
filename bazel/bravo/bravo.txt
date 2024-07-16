@@ -3574,7 +3574,6 @@ bathyesthesia
 battler
 bookshop
 backwort
-buriti
 bathygraphic
 belatticed
 bosomy
@@ -15257,6 +15256,7 @@ bridles
 bridlewise
 bridling
 bandlimited
+buriti
 bridoon
 beworm
 brief
