@@ -648,6 +648,7 @@ abnormally
 abnormalness
 abnormals
 abnormity
+adverse
 abnormous
 abo
 aboard
@@ -4676,7 +4677,6 @@ amphineura
 archeologic
 ashpan
 adversative
-adverse
 adversely
 actinoid
 adverseness
