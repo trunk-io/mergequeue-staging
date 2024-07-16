@@ -628,6 +628,7 @@ backward
 backwardation
 backwardly
 backwardness
+beforetime
 backwards
 backwash
 bakeware
@@ -5125,7 +5126,6 @@ beforementioned
 bagpod
 beforesaid
 beforested
-beforetime
 braeside
 befoul
 befouled
