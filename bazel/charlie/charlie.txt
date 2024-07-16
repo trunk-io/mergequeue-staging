@@ -14891,7 +14891,6 @@ cityscape
 cityscapes
 cytitis
 cityward
-citywards
 chasmy
 citywide
 connaturalize
@@ -21776,6 +21775,7 @@ condoning
 condor
 condores
 cavalierly
+citywards
 condors
 criniculture
 campanological
