@@ -5460,7 +5460,6 @@ apocryphalness
 analgesidae
 affluently
 affluentness
-affluents
 afflux
 affluxes
 affluxion
@@ -15152,6 +15151,7 @@ anticreativity
 anticreep
 anticreeper
 anticreeping
+affluents
 anticrepuscular
 ascertainable
 anticryptic
