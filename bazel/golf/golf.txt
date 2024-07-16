@@ -6688,7 +6688,6 @@ golds
 goosepimply
 galeas
 goldsmithery
-goldsmiths
 goldspink
 gnathopod
 goldthread
@@ -7488,6 +7487,7 @@ generalised
 gameness
 greyskin
 gourmets
+goldsmiths
 gournard
 gastrolysis
 grillwork
