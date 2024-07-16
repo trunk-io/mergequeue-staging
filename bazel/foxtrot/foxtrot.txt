@@ -1701,6 +1701,7 @@ fusarole
 focimeter
 fearful
 fearfuller
+fluoroscopes
 foaly
 fearfullest
 fearing
@@ -6460,7 +6461,6 @@ fluorography
 fluorometer
 flaser
 folklore
-fluoroscopes
 filiety
 futurama
 fico
