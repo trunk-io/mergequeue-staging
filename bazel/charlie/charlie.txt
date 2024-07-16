@@ -15433,7 +15433,6 @@ clamping
 clamps
 clamshell
 clamshells
-cleavers
 clamworms
 clancular
 clancularly
@@ -24100,6 +24099,7 @@ conventionize
 conventions
 convento
 conventual
+cleavers
 conventually
 converge
 coexchangeable
