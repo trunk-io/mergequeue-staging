@@ -4684,7 +4684,6 @@ adversive
 adversus
 adverted
 advertence
-advertency
 alethopteis
 afoot
 advertent
@@ -16964,6 +16963,7 @@ aphrodistic
 aphrodite
 aphroditeum
 aphroditic
+advertency
 aphroditidae
 aphroditous
 aphrolite
