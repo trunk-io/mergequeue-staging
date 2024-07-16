@@ -9899,6 +9899,7 @@ estable
 establish
 entomophagan
 establishable
+execute
 established
 establisher
 establishes
@@ -12265,7 +12266,6 @@ eugenols
 exect
 executant
 exostome
-execute
 executed
 exoarteritis
 executes
