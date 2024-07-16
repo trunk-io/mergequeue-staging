@@ -1249,7 +1249,6 @@ cyprinus
 croupon
 calyceraceae
 calyceraceous
-calices
 chalons
 calyces
 caliches
@@ -25127,6 +25126,7 @@ corelation
 corelational
 crewe
 corelative
+calices
 coreligionist
 cooperancy
 corelysis
