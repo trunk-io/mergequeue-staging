@@ -3738,7 +3738,6 @@ adenogenesis
 adenogenous
 adenographer
 adenography
-adenographic
 astrobiological
 adenographical
 adenohypersthenia
@@ -13676,6 +13675,7 @@ alantol
 aquiparous
 annoying
 andoroba
+adenographic
 annoyingly
 annoyingness
 annoyment
