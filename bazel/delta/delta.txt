@@ -420,7 +420,6 @@ dainteth
 dainty
 dainties
 daintiest
-decompound
 deyship
 daintify
 daintified
@@ -7114,6 +7113,7 @@ desulfurizing
 desulfurs
 desulphurate
 desulphurated
+decompound
 deadens
 desulphuration
 desulphuret
