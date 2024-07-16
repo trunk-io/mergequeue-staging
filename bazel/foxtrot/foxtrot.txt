@@ -5890,7 +5890,6 @@ floorages
 foveated
 fala
 fluminous
-floored
 floorer
 falderals
 floorhead
@@ -6628,6 +6627,7 @@ fenchone
 foam
 foambow
 foamed
+floored
 foamer
 foamflower
 flavescence
