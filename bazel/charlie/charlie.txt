@@ -6545,7 +6545,6 @@ colobin
 cedars
 cedarwood
 cerographer
-ceded
 corpulence
 cedens
 ceders
@@ -6652,6 +6651,7 @@ celebrious
 celebrity
 celebs
 celemin
+ceded
 celemines
 celeomorph
 celeomorphae
