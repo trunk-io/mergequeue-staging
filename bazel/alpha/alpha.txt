@@ -5168,6 +5168,7 @@ aerosphere
 aerosporin
 aerostat
 aerostatic
+anthracomartian
 aerostatical
 aerostatics
 antisepticist
@@ -14557,7 +14558,6 @@ anthracolithic
 anthracomancy
 anthracomarti
 asaphic
-anthracomartian
 anthracomartus
 anthracometer
 anthracometric
