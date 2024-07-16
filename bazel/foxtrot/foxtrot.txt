@@ -9248,7 +9248,6 @@ fragrance
 fermentations
 framboise
 fragrancy
-fragrancies
 fragrantly
 fulcraceous
 fragrantness
@@ -11582,6 +11581,7 @@ fusile
 fusileer
 fatalistic
 fusiliers
+fragrancies
 fusilladed
 fusillading
 frim
