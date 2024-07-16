@@ -4978,7 +4978,6 @@ flarer
 flares
 fusionist
 forsakers
-feloid
 flarfish
 foldage
 flarfishes
@@ -6441,6 +6440,7 @@ frabjous
 fluorindin
 faunas
 funambulatory
+feloid
 fluorines
 fluorite
 flisky

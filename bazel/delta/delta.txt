@@ -8955,7 +8955,6 @@ dichromasia
 dichromat
 diester
 doublehanded
-dichromatic
 dichromatism
 dichromic
 dichromism
@@ -11837,6 +11836,7 @@ disavow
 discursive
 discursively
 discursiveness
+dichromatic
 diadematoida
 discursory
 discursus
