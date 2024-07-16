@@ -1528,7 +1528,6 @@ deadfalls
 deadhead
 deadheading
 deadheadism
-debrominate
 deadhearted
 deadheartedly
 deadheartedness
@@ -5382,6 +5381,7 @@ depatriate
 dimiss
 dentinoblast
 dentinocemental
+debrominate
 dentinoma
 dentins
 dentiparous

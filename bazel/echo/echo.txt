@@ -5643,7 +5643,6 @@ engagee
 ecanda
 engagement
 emolumental
-engagements
 engager
 engagers
 encumbrances
@@ -7288,6 +7287,7 @@ eolipiles
 eduction
 eolith
 eundem
+engagements
 eolopiles
 ecumenicist
 eom
