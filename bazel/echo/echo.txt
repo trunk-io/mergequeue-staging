@@ -6450,7 +6450,6 @@ ediya
 ensteel
 ensteep
 enstool
-enstranged
 ensuable
 ensuance
 ebcdic
@@ -9207,6 +9206,7 @@ exemplupla
 erminette
 ermining
 empeople
+enstranged
 erminites
 erminois
 ern
