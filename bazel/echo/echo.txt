@@ -5498,7 +5498,6 @@ energetics
 enantiobiosis
 exorcizes
 enterohemorrhage
-entapophysial
 energetistic
 energic
 enchancement
@@ -7836,6 +7835,7 @@ epigeous
 epigeum
 epistasis
 epigyne
+entapophysial
 emeraldine
 epigyny
 epigynies
