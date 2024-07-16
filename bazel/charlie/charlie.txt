@@ -2146,7 +2146,6 @@ camuse
 camused
 camuses
 camwood
-can
 canaan
 cycadlike
 chub
@@ -2326,6 +2325,7 @@ candelabrums
 candelilla
 candency
 candent
+can
 candescence
 carbarns
 candescent
