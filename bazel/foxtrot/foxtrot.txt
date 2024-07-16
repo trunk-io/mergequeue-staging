@@ -10279,7 +10279,6 @@ flubs
 featherbedding
 fancify
 forboded
-frogger
 froggy
 froggies
 froggiest
@@ -11016,6 +11015,7 @@ fonts
 fusillades
 fumerel
 fumers
+frogger
 fumet
 flaxlike
 file
