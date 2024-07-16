@@ -2472,6 +2472,7 @@ electrolyzer
 elbowpiece
 electrology
 electrological
+embryophyte
 electrologist
 eroticomania
 electrologists
@@ -3682,7 +3683,6 @@ embryons
 embryopathology
 embryophagous
 embryophyta
-embryophyte
 embryophore
 embryos
 enkindle
