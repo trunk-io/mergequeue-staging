@@ -776,7 +776,6 @@ baculites
 baculitic
 bronchophony
 baculiticone
-bdrm
 baculums
 baculus
 bacury
@@ -10387,6 +10386,7 @@ berkeleyite
 blaoners
 blare
 backyarder
+bdrm
 blares
 boredness
 bosks
