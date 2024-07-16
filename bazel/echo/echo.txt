@@ -10135,7 +10135,6 @@ etageres
 excrescency
 equalable
 etalage
-etalon
 etamin
 ever
 etamines
@@ -12508,6 +12507,7 @@ electrodialyze
 exhorter
 exhorters
 exhorting
+etalon
 exhortingly
 exhorts
 exhumations
