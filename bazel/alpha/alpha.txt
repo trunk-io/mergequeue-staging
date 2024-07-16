@@ -4835,7 +4835,6 @@ aeginetan
 aegipan
 aegyptilla
 agonisingly
-aegir
 aegirine
 aegirinolite
 aegirite
@@ -5807,6 +5806,7 @@ aftertask
 aftertaste
 afterthinker
 achromatium
+aegir
 artistdom
 afterthought
 afterthoughts
