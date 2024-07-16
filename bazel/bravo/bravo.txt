@@ -2971,7 +2971,6 @@ barreled
 bowmaker
 barreleyes
 barreler
-barrelful
 birdcatcher
 barrelfuls
 byss
@@ -6318,6 +6317,7 @@ benzalphthalide
 bahada
 benzamide
 benzamido
+barrelful
 benzamine
 benzaminic
 benzanalgen
