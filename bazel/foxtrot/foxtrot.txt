@@ -2141,7 +2141,6 @@ fearnaught
 felspar
 fastidiously
 felspars
-felspath
 friezy
 fraze
 felstone
@@ -10352,6 +10351,7 @@ factored
 frondeurs
 framers
 fumarase
+felspath
 frondiferous
 fagald
 frondigerous
