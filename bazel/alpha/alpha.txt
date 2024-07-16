@@ -4510,7 +4510,6 @@ adulterately
 adstrict
 adstringe
 adsum
-anomouran
 adterminal
 adtevac
 aduana
@@ -11968,6 +11967,7 @@ anaphylatoxin
 anaphylaxis
 anaphyte
 anaphora
+anomouran
 anaphoral
 anaphoras
 aftertouch
