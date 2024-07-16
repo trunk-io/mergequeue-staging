@@ -2517,7 +2517,6 @@ electroneutrality
 embryonate
 embleming
 electronics
-electronography
 ecad
 electrons
 epipubic
@@ -14016,6 +14015,7 @@ extravagation
 extravasate
 extravasated
 edition
+electronography
 exostotic
 extravasating
 elasmosaur
