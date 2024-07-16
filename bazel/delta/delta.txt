@@ -1176,7 +1176,6 @@ dasyproctidae
 dasystephana
 dasyure
 dasyures
-dasyurid
 dystonias
 desexing
 dipleurula
@@ -13535,6 +13534,7 @@ dissemblance
 decodon
 danda
 drawloom
+dasyurid
 depr
 dissemblers
 dissembles
