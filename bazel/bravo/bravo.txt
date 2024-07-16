@@ -1547,7 +1547,6 @@ balladries
 biophore
 balladromic
 ballads
-ballahoo
 bivalence
 ballahou
 ballam
@@ -13110,6 +13109,7 @@ borromean
 bathyhypesthesia
 bortz
 borrow
+ballahoo
 borrowable
 bulgingly
 batussi
