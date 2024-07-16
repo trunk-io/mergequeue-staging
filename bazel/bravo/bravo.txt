@@ -2269,7 +2269,6 @@ baragouin
 baraita
 barajillo
 boghole
-barging
 baralipton
 baramika
 barangay
@@ -6146,6 +6145,7 @@ beneficently
 brairo
 beneficial
 bathochromic
+barging
 balistarii
 beneficialness
 beneficiary
