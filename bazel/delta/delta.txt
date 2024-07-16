@@ -3228,7 +3228,6 @@ decontrols
 dairt
 defensively
 defensiveness
-defensor
 defensory
 deference
 deferent
@@ -3578,6 +3577,7 @@ degged
 delft
 dragomans
 degger
+defensor
 degging
 deglaciation
 deglamorization
