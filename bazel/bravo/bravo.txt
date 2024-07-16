@@ -3963,7 +3963,6 @@ beachfront
 barbwires
 boarder
 beachhead
-beachy
 beachie
 bois
 beaching
@@ -16575,6 +16574,7 @@ buckeens
 balded
 bontebucks
 buckeyed
+beachy
 buckeyes
 bucker
 buckeroo
