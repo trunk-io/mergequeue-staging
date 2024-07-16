@@ -3431,6 +3431,7 @@ germanistic
 glede
 germanium
 gavelling
+gossipee
 germanization
 goran
 graphotype
@@ -7352,7 +7353,6 @@ gunfights
 gossaniferous
 gossard
 gossiped
-gossipee
 guested
 gossiper
 gossipers
