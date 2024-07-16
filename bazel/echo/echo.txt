@@ -2385,6 +2385,7 @@ electrodialysis
 electrodialitic
 extracivic
 endaseh
+ensnow
 economiser
 electrodynamic
 electrodynamical
@@ -6416,7 +6417,6 @@ empanels
 ensnarling
 ensnarls
 enheritage
-ensnow
 ensober
 ensophic
 emitters
