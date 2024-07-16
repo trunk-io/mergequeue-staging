@@ -858,7 +858,6 @@ biosynthesis
 baste
 barbary
 baeria
-baetyl
 baetylus
 baetulus
 baetzner
@@ -13865,6 +13864,7 @@ boxfuls
 boxhauled
 boxhauling
 boxhauls
+baetyl
 boodler
 boxhead
 bepuffed
