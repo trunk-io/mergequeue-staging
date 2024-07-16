@@ -982,6 +982,7 @@ ganoid
 gammed
 genospecies
 gammelost
+gurl
 gammers
 gamelote
 gammy
@@ -10631,7 +10632,6 @@ gratton
 gurk
 gelatinise
 glyconin
-gurl
 guama
 gurle
 gurlet
