@@ -9081,7 +9081,6 @@ biophagous
 begartered
 biophilous
 ballutes
-biophysic
 biophysical
 blindage
 bullseye
@@ -10448,6 +10447,7 @@ bribery
 blastodermatic
 blastodermic
 balcone
+biophysic
 blastodisc
 butteris
 blastodisk
