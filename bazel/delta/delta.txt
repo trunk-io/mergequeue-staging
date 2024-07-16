@@ -11121,7 +11121,6 @@ disarrayed
 disarraying
 disarrays
 disarrange
-disarranged
 disarrangement
 disarranges
 douppioni
@@ -18325,6 +18324,7 @@ duologue
 duomachy
 duomi
 duomos
+disarranged
 duopod
 doyst
 duopoly

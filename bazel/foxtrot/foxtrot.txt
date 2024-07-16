@@ -2271,6 +2271,7 @@ following
 fendering
 faquir
 fenderless
+foamlike
 fenders
 fendillation
 fending
@@ -6635,7 +6636,6 @@ foamier
 foaminess
 foamingly
 foutre
-foamlike
 feods
 foams
 fobbing
