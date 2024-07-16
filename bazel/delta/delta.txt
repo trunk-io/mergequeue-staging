@@ -4948,7 +4948,6 @@ demulsified
 dextrogyre
 demulsifier
 demulsion
-demultiplex
 demultiplexed
 demultiplexers
 disroot
@@ -16116,6 +16115,7 @@ doughfoot
 dotant
 dhaks
 dispersoid
+demultiplex
 doughy
 doughiness
 doughlike
