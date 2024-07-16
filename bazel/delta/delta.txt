@@ -12384,7 +12384,6 @@ dishonest
 dishonesty
 dishonesties
 dishonestly
-dishonor
 dishonorary
 dishonored
 dishonorer
@@ -15771,6 +15770,7 @@ dormins
 dormition
 dormitories
 dormouse
+dishonor
 dorn
 dorneck
 dornecks
