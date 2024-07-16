@@ -2072,7 +2072,6 @@ bellyband
 bangwaketsi
 banya
 banyai
-bimester
 banians
 banig
 baniya
@@ -8868,6 +8867,7 @@ binomials
 bunchbacked
 binominated
 bromochlorophenol
+bimester
 bendy
 bulwark
 breviary

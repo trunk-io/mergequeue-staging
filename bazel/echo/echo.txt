@@ -3544,7 +3544,6 @@ embosking
 embosks
 emotionalised
 erythrophyll
-espadon
 embosom
 embosomed
 embosoms
@@ -4806,6 +4805,7 @@ encomy
 encomiast
 epicondylitis
 encomiastic
+espadon
 encomiastical
 encomiastically
 enfile
