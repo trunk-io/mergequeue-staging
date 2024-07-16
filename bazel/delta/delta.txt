@@ -8610,7 +8610,6 @@ diffusiometer
 diarrhetic
 directively
 diarrhoea
-diarrhoeal
 diarrhoeic
 diarrhoetic
 diarthric
@@ -10579,6 +10578,7 @@ diplococcemia
 disincorporated
 diabrotic
 demos
+diarrhoeal
 diplococcoid
 downsize
 diplococcus
