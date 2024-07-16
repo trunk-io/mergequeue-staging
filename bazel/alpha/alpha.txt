@@ -3622,7 +3622,6 @@ addressees
 addresser
 addressers
 aroideous
-addresses
 auxetics
 angered
 addressful
@@ -8090,6 +8089,7 @@ alferes
 alfet
 aluminiferous
 alfilaria
+addresses
 antholysis
 alcoholometer
 alfilerilla
