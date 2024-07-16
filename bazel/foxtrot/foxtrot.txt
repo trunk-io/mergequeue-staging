@@ -6145,7 +6145,6 @@ flowcharted
 flowcharting
 fulicinae
 flisked
-flowcharts
 flutey
 flowcontrol
 formalise
@@ -7117,6 +7116,7 @@ footfault
 forayed
 filical
 footfeed
+flowcharts
 footfolk
 footgear
 fillingness
