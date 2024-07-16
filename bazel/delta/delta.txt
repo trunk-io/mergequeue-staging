@@ -7203,7 +7203,6 @@ doxa
 detects
 deductions
 detenant
-detent
 detentes
 detention
 detentive
@@ -15722,6 +15721,7 @@ doree
 dorey
 dorestane
 doyleys
+detent
 disentrain
 dori
 desegregated
