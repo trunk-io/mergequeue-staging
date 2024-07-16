@@ -12175,7 +12175,6 @@ anatomizer
 anatomizes
 anatomizing
 accursed
-amphibiontic
 anatomopathologic
 aumaga
 amblyocarpous
@@ -16651,6 +16650,7 @@ ap
 antidogmatism
 apa
 apabhramsa
+amphibiontic
 apace
 apache
 apaches
