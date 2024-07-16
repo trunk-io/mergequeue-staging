@@ -7946,6 +7946,7 @@ foreshower
 foreshows
 foreside
 foresight
+frithbot
 foresighted
 forewarned
 furiosa
@@ -10183,7 +10184,6 @@ framing
 feasible
 frith
 falernian
-frithbot
 frithy
 fallibilist
 frithstool
