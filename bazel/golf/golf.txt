@@ -2605,7 +2605,6 @@ geisotherm
 generalate
 generalcy
 gynandrarchic
-gastrosplenic
 generalcies
 garruline
 generale
@@ -2972,6 +2971,7 @@ genuflecting
 genuflection
 genuflector
 genuflex
+gastrosplenic
 genuflexion
 goorals
 genuflexuous
