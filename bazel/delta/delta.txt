@@ -4395,7 +4395,6 @@ dishfuls
 demasts
 dematerialisation
 dematerialise
-dematerialised
 dematerialize
 dematerialized
 dematerializing
@@ -11636,6 +11635,7 @@ denitrificator
 drypoint
 disordinate
 disconvenient
+dematerialised
 disconventicle
 despumate
 discophile
