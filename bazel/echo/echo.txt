@@ -324,7 +324,6 @@ eatery
 eateries
 espousers
 eaters
-eath
 eathly
 eatings
 el
@@ -13634,6 +13633,7 @@ exterminatress
 exterminatrix
 extermined
 extermining
+eath
 extern
 externa
 external
