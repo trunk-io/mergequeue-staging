@@ -3007,6 +3007,7 @@ capellane
 capelline
 claimsmen
 chitted
+cawk
 caperbush
 capercailye
 capitols
@@ -6450,7 +6451,6 @@ cavu
 cavus
 cawed
 cawing
-cawk
 cymes
 cawker
 cawl
