@@ -28996,7 +28996,6 @@ cricoid
 chorisos
 cricoids
 cricopharyngeal
-cricothyreoid
 cricothyreotomy
 chaule
 cricothyroid
@@ -31451,6 +31450,7 @@ curried
 currier
 curriery
 currieries
+cricothyreoid
 calcrete
 curries
 curryfavel
