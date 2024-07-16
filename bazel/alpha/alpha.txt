@@ -1274,7 +1274,6 @@ academe
 autographic
 academes
 academia
-academian
 academias
 academic
 academical
@@ -18953,6 +18952,7 @@ archicontinent
 apomictical
 archidiaconal
 archidiaconate
+academian
 archididascalos
 agly
 archidiskodon
