@@ -9386,7 +9386,6 @@ eructs
 eruditical
 epigram
 erudition
-elementalist
 eruditionist
 enshrinements
 erugate
@@ -13950,6 +13949,7 @@ extrarhythmical
 europa
 extras
 extrasacerdotal
+elementalist
 extrascholastic
 eavesdropped
 extraschool
