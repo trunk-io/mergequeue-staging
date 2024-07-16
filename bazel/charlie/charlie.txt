@@ -5108,6 +5108,7 @@ cashes
 cashew
 cashgirl
 cashier
+cheet
 cashiered
 cashierer
 courlans
@@ -9735,7 +9736,6 @@ cheesier
 cheesiest
 condensation
 cheesing
-cheet
 cheetah
 convector
 cheeter
