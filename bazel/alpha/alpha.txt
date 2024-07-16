@@ -12875,7 +12875,6 @@ angiogenic
 angioglioma
 angiogram
 antidiphtheria
-angiographic
 angiohemophilia
 angiohyalinosis
 angiohydrotomy
@@ -19880,6 +19879,7 @@ archigenesis
 alphabetizes
 archaeus
 ark
+angiographic
 arkansan
 arkansans
 alkalized
