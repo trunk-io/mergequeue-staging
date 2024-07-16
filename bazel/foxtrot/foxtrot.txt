@@ -8121,7 +8121,6 @@ foreween
 fundus
 foreweep
 foreweigh
-foregleam
 foreknee
 forewind
 forewings
@@ -10024,6 +10023,7 @@ frightsome
 frigid
 fossarian
 frigidaire
+foregleam
 frigidaria
 fontinalis
 frigidarium
