@@ -2979,6 +2979,7 @@ birdcatcher
 barrelfuls
 byss
 barrelhead
+boldacious
 broguing
 barrelhouse
 barrelhouses
@@ -12075,7 +12076,6 @@ bolbanac
 bolbonac
 bolboxalis
 bold
-boldacious
 bravest
 bolder
 bolderian
