@@ -5209,7 +5209,6 @@ goodless
 gypsologist
 galravage
 glans
-glared
 glareless
 goos
 glareola
@@ -10024,6 +10023,7 @@ gauntree
 ged
 gulped
 grene
+glared
 gustily
 guelf
 goalers
