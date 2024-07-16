@@ -6095,6 +6095,7 @@ generalia
 golaseccan
 glucolipide
 glucolipin
+gammerstang
 galbula
 granuloblastic
 glucolipine
@@ -6713,7 +6714,6 @@ golfing
 golfs
 golgi
 galeated
-gammerstang
 guttatim
 garrick
 golgothas
