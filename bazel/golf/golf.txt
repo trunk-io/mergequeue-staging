@@ -7582,6 +7582,7 @@ grabbed
 guitermanite
 gingerbread
 gehlenite
+gutterspout
 grabbots
 grabber
 grabbers
@@ -10763,7 +10764,6 @@ gutterling
 gutterman
 gutters
 guttersnipe
-gutterspout
 gutti
 guideline
 garroters
