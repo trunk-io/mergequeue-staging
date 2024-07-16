@@ -4883,7 +4883,6 @@ aeolidae
 aeolididae
 aeoline
 aeolipile
-aeolipyle
 aeolis
 achira
 amylocellulose
@@ -17055,6 +17054,7 @@ aroids
 apyrexial
 aerophilia
 apyrotype
+aeolipyle
 articulating
 apis
 apish
