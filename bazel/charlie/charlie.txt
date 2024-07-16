@@ -18446,7 +18446,6 @@ cohabitancy
 cohabitant
 cohabitate
 cohabitation
-cohabitations
 cohabited
 cohabiter
 collational
@@ -26951,6 +26950,7 @@ counterlode
 consociated
 counterlove
 countermachination
+cohabitations
 countermaid
 cliffsman
 carles

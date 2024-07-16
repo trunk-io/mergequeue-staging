@@ -600,7 +600,6 @@ ablins
 abloom
 alkalinuria
 ablow
-annealer
 abluent
 abluents
 ablush
@@ -13076,6 +13075,7 @@ angulate
 angulated
 angulately
 angulates
+annealer
 acromastitis
 angulating
 aquaduct
