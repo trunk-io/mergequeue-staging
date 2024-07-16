@@ -6850,7 +6850,6 @@ biggies
 bounded
 besayle
 besaint
-besan
 besanctify
 besand
 bescab
@@ -9744,6 +9743,7 @@ broncho
 bismosol
 bismuthal
 bismuthic
+besan
 bismuthide
 bismuthiferous
 ballgame
