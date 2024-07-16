@@ -1748,6 +1748,7 @@ gastroduodenotomy
 gastroelytrotomy
 gastroenteric
 gastroenteritic
+graceless
 geomedicine
 gunshot
 gastroenterocolitis
@@ -3792,7 +3793,6 @@ gardenwards
 galany
 genericness
 glutathione
-graceless
 gaga
 groupie
 gherkin

@@ -22575,7 +22575,6 @@ athenaeums
 athenee
 atheneums
 athenian
-athenianly
 athenians
 asperges
 athenor
@@ -24839,6 +24838,7 @@ avouchers
 avouches
 avouching
 avouchment
+athenianly
 avour
 avourneen
 avouter
