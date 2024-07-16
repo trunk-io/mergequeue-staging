@@ -14375,6 +14375,7 @@ anterodorsal
 anteroexternal
 anteroflexion
 anterofrontal
+agyiomania
 anterograde
 anteroinferior
 avichi
@@ -23466,7 +23467,6 @@ aulete
 auletes
 auletic
 anemologic
-agyiomania
 auletris
 aulic
 aulical
