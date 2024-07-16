@@ -24,6 +24,7 @@ electrophoretic
 ebbet
 eagre
 eagres
+ecclesiarch
 ealderman
 ealdorman
 eam
@@ -478,7 +479,6 @@ envenomization
 ecclesiae
 evanesces
 ecclesial
-ecclesiarch
 ecclesiarchy
 erective
 epodic

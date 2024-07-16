@@ -20,7 +20,6 @@ francolin
 fablemongering
 fabler
 fablers
-finity
 fabling
 fabric
 fabricable
@@ -3251,6 +3250,7 @@ featous
 fidgeted
 filibustrous
 fumer
+finity
 fractile
 flitching
 fidgeting
