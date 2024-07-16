@@ -3874,7 +3874,6 @@ carcinogenicity
 carcinogens
 carcinoid
 carcinolysin
-carcinolytic
 carcinological
 carcinologist
 carcinoma
@@ -12855,6 +12854,7 @@ chump
 cougars
 chumpa
 chumpaka
+carcinolytic
 chumped
 communalisation
 chumping
