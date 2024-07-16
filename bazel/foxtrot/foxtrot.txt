@@ -4048,7 +4048,6 @@ finnochio
 finns
 furcular
 fins
-fregatidae
 fintadores
 fantigue
 ferth
@@ -4076,6 +4075,7 @@ fireback
 favourably
 fireball
 fireballs
+fregatidae
 flanky
 firebird
 fishmouth
