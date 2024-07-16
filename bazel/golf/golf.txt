@@ -451,7 +451,6 @@ galeoid
 gofferer
 galeorchis
 goner
-galeorhinidae
 galeorhinus
 galeproof
 garcons
@@ -5222,6 +5221,7 @@ glareworm
 glary
 grazer
 garbages
+galeorhinidae
 galactolipide
 gurjara
 graminous
