@@ -3831,6 +3831,7 @@ delocalise
 deynt
 deintellectualization
 deintellectualize
+delvers
 deionization
 deionize
 deionized
@@ -4311,7 +4312,6 @@ dermoneurosis
 delustrant
 deluxe
 delve
-delvers
 delves
 derricks
 dodecamerous
