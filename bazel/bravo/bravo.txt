@@ -15090,7 +15090,6 @@ brewises
 busked
 brewmaster
 bibliopolistic
-brews
 braveries
 brewsterite
 brezhnev
@@ -18197,6 +18196,7 @@ butyrinase
 butyrins
 butyrometer
 butyrometric
+brews
 brast
 butyrone
 bradypod
