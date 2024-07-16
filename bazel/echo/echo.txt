@@ -4753,7 +4753,6 @@ enclave
 eutexia
 enclaved
 entailing
-enclaves
 enclaving
 enclitical
 enclitically
@@ -5536,6 +5535,7 @@ earthquaked
 enface
 enfaced
 eclectism
+enclaves
 enfacing
 extoller
 elatedly
