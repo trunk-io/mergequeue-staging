@@ -2546,7 +2546,6 @@ framesmith
 frankmarriage
 frustula
 ferromagnesian
-ferromagnet
 ferromagneticism
 fungicidally
 ferromanganese
@@ -11177,6 +11176,7 @@ face
 funerealness
 funfair
 fungaceous
+ferromagnet
 fungal
 farmsteads
 fungales

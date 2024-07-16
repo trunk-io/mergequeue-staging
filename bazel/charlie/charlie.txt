@@ -17529,6 +17529,7 @@ crusader
 carbonero
 cobwebs
 cobwork
+counterquestion
 coca
 cocaceous
 cocaigne
@@ -27075,7 +27076,6 @@ counterpuncture
 counterpush
 counterquartered
 counterquery
-counterquestion
 counterquip
 counterradiation
 counterraid
