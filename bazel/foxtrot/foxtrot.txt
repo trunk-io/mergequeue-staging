@@ -5698,7 +5698,6 @@ flytime
 formagenic
 fishberry
 faire
-filterable
 fliting
 fishnet
 flytings
@@ -7747,6 +7746,7 @@ flammably
 forelocks
 fewer
 forelook
+filterable
 flowerets
 flavobacterium
 fiber
