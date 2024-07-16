@@ -21625,7 +21625,6 @@ anaclete
 assassinated
 assassinates
 assassinating
-assassinations
 assassinative
 araneose
 assassinist
@@ -23064,6 +23063,7 @@ adusk
 attenuated
 agacant
 axunge
+assassinations
 ariettes
 attenuating
 attenuation
