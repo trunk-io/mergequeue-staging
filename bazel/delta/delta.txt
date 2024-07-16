@@ -4127,6 +4127,7 @@ delimits
 delineament
 deblocked
 danelaw
+dualogue
 delineate
 delineated
 delineates
@@ -17703,7 +17704,6 @@ dressages
 dually
 dualmutef
 developable
-dualogue
 duals
 duan
 duarch
