@@ -736,7 +736,6 @@ foeticide
 fenchol
 fringefoot
 feudalise
-fanbearer
 fancy
 fanciable
 flammule
@@ -5821,6 +5820,7 @@ frangent
 flockwise
 favouredly
 flocs
+fanbearer
 flutterboard
 fairyfolk
 floeberg
