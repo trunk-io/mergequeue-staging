@@ -4324,7 +4324,6 @@ fishbolts
 faultless
 fishbone
 fishbowl
-fisheye
 fisherboat
 fisherboy
 fingerwise
@@ -11740,6 +11739,7 @@ ferrean
 fuzzed
 fuzzes
 fuzziest
+fisheye
 fluctuation
 fuzzily
 fuzzing
