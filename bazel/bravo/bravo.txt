@@ -1231,7 +1231,6 @@ bustics
 beslaver
 bakership
 bakeshop
-bakeshops
 bakestone
 bakhtiari
 baking
@@ -14310,6 +14309,7 @@ brayette
 braying
 barcelonas
 brailed
+bakeshops
 brailled
 brailler
 bergall
