@@ -21087,7 +21087,6 @@ amulla
 ascorbic
 ascospore
 ascosporic
-ascosporous
 ascothoracica
 ascots
 ascribe
@@ -21833,6 +21832,7 @@ assistant
 assistanted
 armadillo
 assistantship
+ascosporous
 assistantships
 assisted
 assisters
