@@ -1989,7 +1989,6 @@ decay
 decayed
 dispread
 decayedness
-duodecimfid
 decayers
 diarial
 decaying
@@ -13084,6 +13083,7 @@ dassies
 diplopy
 dulcely
 dysphasia
+duodecimfid
 dysphasic
 denazify
 dysphemia
