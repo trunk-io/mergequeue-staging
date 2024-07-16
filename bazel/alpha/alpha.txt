@@ -179,7 +179,6 @@ abatua
 abature
 abave
 acarapis
-abaxial
 abaxile
 abaze
 abb
@@ -22158,6 +22157,7 @@ astir
 astite
 astogeny
 astomatal
+abaxial
 astomatous
 astomia
 astomous
