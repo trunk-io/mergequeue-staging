@@ -9991,7 +9991,6 @@ bivittate
 bivocal
 bivoluminous
 bivouac
-bivouaced
 bivouacked
 bivouacking
 bivouacks
@@ -10023,6 +10022,7 @@ bedrench
 bizardite
 bizarre
 bizarrerie
+bivouaced
 bitterless
 bizarres
 bize
