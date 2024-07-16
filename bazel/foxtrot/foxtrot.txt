@@ -3124,6 +3124,7 @@ franchisers
 ficoidal
 fulfillers
 ficoides
+forsooth
 fleabane
 fixates
 fleshless
@@ -8589,7 +8590,6 @@ foot
 forsythia
 forsythias
 forslow
-forsooth
 forspeak
 forbesite
 forspend
