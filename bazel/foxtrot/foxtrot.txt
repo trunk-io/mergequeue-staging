@@ -2898,7 +2898,6 @@ fratority
 feverweed
 feverwort
 few
-fewmets
 frontpiece
 fenouillette
 fogle
@@ -11134,6 +11133,7 @@ fellowless
 freeloving
 flowerpecker
 ffa
+fewmets
 fundi
 fundic
 fictionmonger
