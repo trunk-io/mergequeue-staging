@@ -5026,6 +5026,7 @@ endhand
 endiablee
 endiadem
 eyer
+epistolary
 elided
 erasures
 endymal
@@ -8265,7 +8266,6 @@ epistler
 ells
 embodiments
 extralinguistic
-epistolary
 eldest
 epistolarian
 espinette
