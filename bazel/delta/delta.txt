@@ -2569,7 +2569,6 @@ disseizin
 dervish
 decollated
 dubs
-decollating
 decollator
 dominican
 decollimate
@@ -3869,6 +3868,7 @@ decamps
 dejectedly
 dejectile
 dysphemism
+decollating
 dejecting
 disobeyer
 dejectly
