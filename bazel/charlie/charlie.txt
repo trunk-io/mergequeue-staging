@@ -3091,7 +3091,6 @@ curvilinearity
 capital
 capitaled
 conferrer
-capitaling
 capitalisable
 capitalised
 citoyen
@@ -4395,6 +4394,7 @@ carminite
 carminophilous
 carmoisin
 carmot
+capitaling
 carn
 carnac
 carnacian
