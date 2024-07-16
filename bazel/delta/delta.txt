@@ -1563,7 +1563,6 @@ deadrize
 ditting
 deadtongue
 deadwood
-deadwork
 dedolomitization
 diphyes
 disenact
@@ -18557,6 +18556,7 @@ dustheap
 dustheaps
 dustier
 demythologization
+deadwork
 dustiest
 dustyfoot
 dustily
