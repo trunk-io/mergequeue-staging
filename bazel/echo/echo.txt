@@ -3581,6 +3581,7 @@ exhume
 expensilation
 embowelled
 empyrosis
+episode
 emboweller
 ethnography
 embowelling
@@ -8746,7 +8747,6 @@ equiradiate
 equiseta
 encharm
 equisetaceae
-episode
 equisetales
 equisetic
 echinital
