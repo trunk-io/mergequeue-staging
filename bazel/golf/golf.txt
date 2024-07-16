@@ -3629,7 +3629,6 @@ gerontotherapies
 gestated
 garni
 gristy
-gestates
 gestating
 gestation
 grapenuts
@@ -7552,6 +7551,7 @@ gasthauses
 gowks
 gowl
 garrafa
+gestates
 galavanted
 gownlet
 gownsmen
