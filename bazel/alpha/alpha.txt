@@ -2555,7 +2555,6 @@ aciniform
 angiosclerosis
 acinotubular
 acinous
-acinuni
 acinus
 acipenser
 acipenseres
@@ -17326,6 +17325,7 @@ aponeurorrhaphy
 ahypnia
 aponeuroses
 aponeurosis
+acinuni
 aponeurositis
 alliterations
 aponeurotome
