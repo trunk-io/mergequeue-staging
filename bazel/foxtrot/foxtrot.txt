@@ -7130,6 +7130,7 @@ flatcap
 footholds
 foothot
 fleshier
+fibrilla
 fissuration
 frutify
 flippantness
@@ -10879,7 +10880,6 @@ fulgurate
 fulgurated
 forcipulate
 fists
-fibrilla
 fulgurating
 fulguration
 firmless
