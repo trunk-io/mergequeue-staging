@@ -16,7 +16,6 @@ fibriform
 fold
 fableland
 fablemaker
-francolin
 fablemongering
 fabler
 fablers
@@ -1486,6 +1485,7 @@ faucal
 fingerprinted
 faucals
 faucet
+francolin
 faucets
 flirter
 fauchards
