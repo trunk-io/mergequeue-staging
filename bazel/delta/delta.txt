@@ -5326,7 +5326,6 @@ dividual
 diplomaed
 demicadence
 dentes
-dentex
 denty
 docketing
 dentical
@@ -13512,6 +13511,7 @@ dissected
 draughthouse
 dissections
 dissector
+dentex
 dissectors
 drierman
 disseise
