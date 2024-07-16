@@ -279,7 +279,6 @@ abdomina
 abdominal
 abdominalia
 abdominalian
-abdominally
 abdominals
 abdominoanterior
 abdominocardiac
@@ -13108,6 +13107,7 @@ acarinosis
 angulose
 aquiform
 angulosity
+abdominally
 angulus
 annum
 anguria
