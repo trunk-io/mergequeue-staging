@@ -7326,6 +7326,7 @@ cephalocereus
 cephalochord
 cephalochorda
 cephalochordal
+croziers
 cephalochordata
 cephalocyst
 cephaloclasia
@@ -30090,7 +30091,6 @@ crozer
 commodation
 crozers
 crozes
-croziers
 consumers
 crozing
 crozle
