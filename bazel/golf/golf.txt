@@ -1886,7 +1886,6 @@ guardeen
 gastruran
 gasworker
 gat
-gateado
 gromatic
 gatecrasher
 gatecrashers
@@ -6123,6 +6122,7 @@ gyrohorizon
 grievances
 glucosine
 glucosulfone
+gateado
 groaned
 glucuronide
 gumshoeing
