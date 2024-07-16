@@ -9313,7 +9313,6 @@ chatino
 chatoyance
 chatoyancy
 chatoyant
-chaton
 countesses
 chatons
 chatta
@@ -25711,6 +25710,7 @@ corregimientos
 correl
 ceilometer
 correlatable
+chaton
 circumintestinal
 coastways
 correlate
