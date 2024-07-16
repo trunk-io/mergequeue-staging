@@ -8250,6 +8250,7 @@ gemmules
 gryllotalpa
 grapple
 grappled
+gallooned
 grapples
 globulous
 grizzled
@@ -8637,7 +8638,6 @@ greekless
 goldfinnies
 glead
 greekling
-gallooned
 gleir
 geoblast
 geranials
