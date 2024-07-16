@@ -423,7 +423,6 @@ biblioklept
 bebusy
 bushelful
 backhouses
-backy
 brindle
 blanketlike
 bristler
@@ -3489,6 +3488,7 @@ bastings
 bastionary
 begari
 bastionet
+backy
 bastite
 borborus
 bastnasite
