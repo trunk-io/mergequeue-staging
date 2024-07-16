@@ -2267,6 +2267,7 @@ exostosis
 electric
 entrapment
 expediment
+ensuance
 expenditures
 exosmoses
 electricalize
@@ -6458,7 +6459,6 @@ ensteep
 enstool
 enstranged
 ensuable
-ensuance
 ebcdic
 ensues
 ensuing
