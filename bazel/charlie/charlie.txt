@@ -14108,7 +14108,6 @@ crystallographic
 cyphellae
 cryptostoma
 cipher
-cipherable
 cyphered
 cipherer
 cipherhood
@@ -30410,6 +30409,7 @@ ctn
 cto
 ctr
 chlorellaceous
+cipherable
 cts
 cu
 carniferous
