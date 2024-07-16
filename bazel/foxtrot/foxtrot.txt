@@ -2240,6 +2240,7 @@ fenceplay
 fencepost
 flavored
 fetchingly
+fudged
 fencer
 furfures
 followers
@@ -10828,7 +10829,6 @@ finlander
 fuddler
 fuddles
 fuddling
-fudged
 fraenular
 foal
 fudgy
