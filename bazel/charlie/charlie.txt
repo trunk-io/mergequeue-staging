@@ -14585,7 +14585,6 @@ cirrocumulous
 cirrolite
 cirropodous
 cirrose
-cirrostome
 cirrostomi
 cirrostrative
 cuttanee
@@ -24940,6 +24939,7 @@ coralligenous
 corallike
 corallin
 corallina
+cirrostome
 corallinaceae
 coralline
 corallita
