@@ -447,7 +447,6 @@ dairymaids
 dairyman
 dairymen
 dairywoman
-dairywomen
 dayroom
 dayrooms
 dhal
@@ -5540,6 +5539,7 @@ depa
 depaganize
 doglegs
 depainted
+dairywomen
 depainting
 depaints
 depayse
