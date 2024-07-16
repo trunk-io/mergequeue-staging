@@ -709,7 +709,6 @@ abomasus
 abomasusi
 abominability
 abominableness
-abominably
 almogavar
 abominate
 abominated
@@ -6567,6 +6566,7 @@ agrilus
 agrimonies
 agrin
 agriochoeridae
+abominably
 antlered
 agriochoerus
 agriology
