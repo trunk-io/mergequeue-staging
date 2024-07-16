@@ -11854,7 +11854,6 @@ chondrules
 chondrus
 chonk
 calfhood
-coagulable
 chuvashes
 chonta
 chontal
@@ -31610,6 +31609,7 @@ celesta
 chloroanemia
 curvilinear
 curvilinearly
+coagulable
 curvinervate
 curviness
 curving
