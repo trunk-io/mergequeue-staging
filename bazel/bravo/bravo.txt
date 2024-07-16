@@ -6508,7 +6508,6 @@ bepastured
 bepat
 bromometric
 bepatched
-bepaw
 bepearl
 breakwater
 bepen
@@ -16597,6 +16596,7 @@ bucking
 bolides
 bandyman
 briquettes
+bepaw
 buckishness
 buckism
 benefices
