@@ -4025,7 +4025,6 @@ beakerful
 beakerman
 beakermen
 beakful
-beaky
 beakier
 bandonion
 beakiron
@@ -15646,6 +15645,7 @@ broadsheet
 broadside
 broadsided
 broadsider
+beaky
 basis
 borrovian
 bangup
