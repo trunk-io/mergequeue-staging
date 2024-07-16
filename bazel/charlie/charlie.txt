@@ -391,7 +391,6 @@ cleopatra
 cacoxene
 cacoxenite
 cacozeal
-cacozealous
 cacqueteuse
 cacqueteuses
 cactaceous
@@ -4041,6 +4040,7 @@ cardiophrenia
 cardiopyloric
 confusedness
 cardioplegia
+cacozealous
 cardiopneumatic
 cardiopneumograph
 cardiopulmonary
