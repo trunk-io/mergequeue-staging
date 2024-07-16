@@ -16160,7 +16160,6 @@ clientry
 crosshairs
 clients
 clientship
-clyer
 clyfaker
 cliff
 cliffed
@@ -17430,6 +17429,7 @@ coaxy
 coaxial
 coaxing
 coazervate
+clyer
 coazervation
 cob
 cupbearer
