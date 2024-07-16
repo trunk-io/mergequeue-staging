@@ -4412,6 +4412,7 @@ foreshorten
 fissile
 fissilingual
 flourescent
+fescues
 fissilinguia
 facemark
 fission
@@ -7472,7 +7473,6 @@ foreboded
 forebodement
 forebody
 frigage
-fescues
 foreboding
 forebodingness
 fluorometry

@@ -1818,7 +1818,6 @@ balustrade
 balustraded
 balustrades
 balwarra
-balzacian
 balzarine
 bondhold
 bam
@@ -6316,6 +6315,7 @@ bertrandite
 benumbs
 benward
 benzacridine
+balzacian
 benzalacetone
 benzalacetophenone
 benzalazine
