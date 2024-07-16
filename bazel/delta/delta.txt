@@ -774,7 +774,6 @@ dactyliographic
 dandler
 dandlers
 dandling
-dandriff
 dandriffy
 deallocating
 dandriffs
@@ -1616,6 +1615,7 @@ dealfish
 dealing
 dealings
 dealkylate
+dandriff
 dislustring
 dealkylation
 deallocate
