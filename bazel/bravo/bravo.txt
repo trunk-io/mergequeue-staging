@@ -10682,7 +10682,6 @@ blende
 blended
 blender
 bottleneck
-blenders
 blendes
 blends
 buffet
@@ -16578,6 +16577,7 @@ buckeyes
 bucker
 buckeroo
 buckers
+blenders
 bucket
 bucketed
 bucketeer
