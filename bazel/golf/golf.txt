@@ -1880,6 +1880,7 @@ geographically
 guardeen
 gastruran
 gasworker
+gospelmonger
 gat
 gateado
 gromatic
@@ -7328,7 +7329,6 @@ gelded
 gnathobase
 gyrectomy
 genys
-gospelmonger
 gospels
 gospelwards
 geylies
