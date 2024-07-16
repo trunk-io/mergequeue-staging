@@ -425,6 +425,7 @@ faisceau
 flagships
 faith
 funnel
+frontispiecing
 faring
 frist
 faithbreach
@@ -10394,7 +10395,6 @@ frisette
 filchery
 frenziedly
 fableist
-frontispiecing
 frontlash
 frontless
 frontlessly
