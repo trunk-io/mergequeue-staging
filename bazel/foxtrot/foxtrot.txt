@@ -2312,7 +2312,6 @@ feodality
 forehearth
 feodaries
 feodatory
-feodum
 forsakenness
 fauns
 feoffee
@@ -7945,6 +7944,7 @@ foreshower
 foreshows
 foreside
 foresight
+feodum
 frithbot
 foresighted
 forewarned
