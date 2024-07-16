@@ -4627,6 +4627,7 @@ bedecks
 bulbilla
 bedecorate
 bedeen
+beady
 bumblebees
 bloodwood
 bedehouse
@@ -10966,7 +10967,6 @@ bricksetter
 blobby
 blobbier
 bricklay
-beady
 balsamical
 blobbiest
 besmirches
