@@ -999,7 +999,6 @@ frugalism
 farfels
 farfetch
 fashion
-fluoroid
 floorway
 funicule
 farfetched
@@ -4521,6 +4520,7 @@ favourite
 fitroot
 fits
 fytte
+fluoroid
 fitted
 fitters
 fitty
