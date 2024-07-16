@@ -3959,7 +3959,6 @@ gibers
 gibes
 grader
 guttle
-gigged
 gibing
 gelandejump
 geothlypis
@@ -6678,6 +6677,7 @@ goldin
 graveyard
 gongorism
 golding
+gigged
 goldish
 greencoat
 gleamier
