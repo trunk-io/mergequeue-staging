@@ -3508,7 +3508,6 @@ caraja
 carajas
 carajo
 carambola
-cobitis
 carambole
 caramboled
 caramboling
@@ -15250,6 +15249,7 @@ cladodont
 cerographies
 cladodontid
 cladodontidae
+cobitis
 confect
 centerboard
 cladodus
