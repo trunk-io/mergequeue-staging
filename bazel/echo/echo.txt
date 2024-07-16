@@ -8741,7 +8741,6 @@ equiproportional
 equiproportionality
 equips
 equipt
-equiradial
 equiradiate
 equiseta
 encharm
@@ -11658,6 +11657,7 @@ evokers
 endothermically
 eldmother
 ergs
+equiradial
 evoking
 evolate
 evolute
