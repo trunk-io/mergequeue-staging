@@ -4265,7 +4265,6 @@ flammability
 firstborn
 firstcomer
 forbearer
-fraxinus
 firster
 firsthand
 filii
@@ -8630,6 +8629,7 @@ fortescue
 flasket
 fortescure
 furcae
+fraxinus
 forthbring
 fantasmal
 forthfare
