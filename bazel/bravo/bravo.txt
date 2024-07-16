@@ -3039,7 +3039,6 @@ bracteolate
 barrio
 barrios
 botts
-barristers
 barristership
 barristress
 barroom
@@ -7162,6 +7161,7 @@ besselian
 bessemer
 bessemerized
 bessemerizing
+barristers
 bessera
 bessi
 bessie
