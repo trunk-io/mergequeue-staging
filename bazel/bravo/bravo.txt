@@ -2748,6 +2748,7 @@ barmie
 barmiest
 barming
 barmote
+beltane
 barms
 barmskin
 barn
@@ -17382,7 +17383,6 @@ bundu
 bundweed
 buttressless
 bunemost
-beltane
 boned
 breakless
 basidiocarp
