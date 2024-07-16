@@ -4469,6 +4469,7 @@ carnivores
 carnivority
 carnivorous
 carnivorously
+cricothyroidean
 carnivorousness
 carnose
 carnosin
@@ -29002,7 +29003,6 @@ cricothyreoid
 cricothyreotomy
 chaule
 cricothyroid
-cricothyroidean
 cricotomy
 cricotracheotomy
 crossbowman
