@@ -5951,7 +5951,6 @@ disloyalties
 depressors
 deathshot
 depressurize
-deprest
 depriment
 deprint
 depriorize
@@ -11052,6 +11051,7 @@ disannulment
 disannuls
 disanoint
 disanswerable
+deprest
 decided
 dysaphia
 disapostle
