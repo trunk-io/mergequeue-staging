@@ -5840,7 +5840,6 @@ bellweather
 bellweed
 bellwether
 bellwethers
-bellwind
 bellwine
 bellwood
 befret
@@ -9450,6 +9449,7 @@ birdliming
 birdling
 birdlore
 bayhead
+bellwind
 birdman
 bimolecularly
 birdmen
