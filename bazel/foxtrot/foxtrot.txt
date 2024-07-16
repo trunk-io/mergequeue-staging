@@ -2384,7 +2384,6 @@ ferlies
 festellae
 fermacy
 fermage
-fibrillate
 fermal
 furnitures
 foreign
@@ -7496,6 +7495,7 @@ forebush
 forecabin
 fleetings
 forecaddie
+fibrillate
 forecar
 fairy
 forecarriage
