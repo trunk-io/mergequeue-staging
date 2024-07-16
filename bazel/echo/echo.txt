@@ -5027,6 +5027,7 @@ exlex
 endhand
 endiablee
 endiadem
+epulation
 eyer
 elided
 erasures
@@ -8518,7 +8519,6 @@ effigiated
 ethnohistorical
 epulary
 eleutherosepalous
-epulation
 electroosmotically
 epulo
 eggless

@@ -1982,6 +1982,7 @@ anematized
 acequiador
 acequias
 acer
+archvagabond
 aceraceous
 acerate
 acerated
@@ -19190,7 +19191,6 @@ archtreasurer
 archtreasurership
 archturncoat
 archurger
-archvagabond
 atomics
 algorismic
 archvestryman
