@@ -20913,7 +20913,6 @@ compounders
 compounding
 cecity
 compoundness
-compounds
 comprachico
 comprachicos
 comprador
@@ -26888,6 +26887,7 @@ counterflight
 counterflux
 counterfoil
 counterforce
+compounds
 counterformula
 counterfort
 counterfugue
