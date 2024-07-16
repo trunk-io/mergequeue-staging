@@ -6473,7 +6473,6 @@ gobbed
 geisha
 gobbet
 gobbing
-gobbledegook
 gobbledygook
 gobbler
 gobbling
@@ -8332,6 +8331,7 @@ gonyoncus
 grassnut
 grassplat
 guahivo
+gobbledegook
 grassplot
 gratewise
 grassweed
