@@ -5884,6 +5884,7 @@ depravingly
 depravities
 deprecated
 demythologise
+dm
 deprecates
 deprecating
 deprecations
@@ -14627,7 +14628,6 @@ dl
 dlr
 dlvy
 deservedness
-dm
 dmarche
 dnieper
 doa
