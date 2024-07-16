@@ -618,6 +618,7 @@ fondlings
 falsificator
 falsified
 fiefs
+finecomb
 formalist
 figeater
 fiard
@@ -3883,7 +3884,6 @@ fineableness
 finebent
 franchisal
 famille
-finecomb
 finedrawing
 fineer
 fineless
