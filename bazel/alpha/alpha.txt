@@ -2241,7 +2241,6 @@ achariaceae
 achariaceous
 acharne
 acharnement
-achate
 achates
 achatina
 anthraceniferous
@@ -24611,6 +24610,7 @@ avaunt
 avdp
 avellan
 avellane
+achate
 avellano
 avelonge
 aveloz
