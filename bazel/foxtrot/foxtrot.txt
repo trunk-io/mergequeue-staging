@@ -3820,7 +3820,6 @@ flickermouse
 final
 finale
 finales
-fastest
 fermentation
 finalis
 footlessly
@@ -10461,6 +10460,7 @@ frostbound
 frosted
 flameflower
 fordable
+fastest
 flamers
 fadging
 frostier
