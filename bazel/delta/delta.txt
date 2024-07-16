@@ -6037,6 +6037,7 @@ douzeper
 deputised
 deputyship
 deputising
+dogfighting
 dungeonlike
 deputization
 deputize
@@ -14975,7 +14976,6 @@ dogeless
 dogeship
 dogface
 desilicating
-dogfighting
 dogfights
 dogfishes
 dogfoot
