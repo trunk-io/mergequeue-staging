@@ -12503,6 +12503,7 @@ bongoist
 bowable
 bongrace
 bineweed
+bricklike
 bongs
 beeregar
 bonhomies
@@ -15161,7 +15162,6 @@ bricklayer
 bricklayers
 brickleness
 brickly
-bricklike
 bricklining
 brickmaker
 brickmason
