@@ -951,7 +951,6 @@ farci
 farcial
 farcialize
 farcicality
-farcically
 farcicalness
 forcelessness
 farcify
@@ -10492,6 +10491,7 @@ filariidae
 frothier
 frothily
 frothless
+farcically
 fide
 froths
 frothsome
