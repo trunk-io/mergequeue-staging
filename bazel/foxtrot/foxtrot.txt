@@ -1661,7 +1661,6 @@ feud
 forcite
 fibrocement
 faze
-fazed
 fazenda
 fazendeiro
 forehill
@@ -4468,6 +4467,7 @@ fisty
 fistical
 fertilitate
 fisticuff
+fazed
 fisticuffer
 fisticuffing
 fistiness
