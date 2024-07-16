@@ -5491,7 +5491,6 @@ deoppilate
 darkroom
 deoppilation
 deorganization
-deorganize
 deorientalize
 deorsum
 deorsumvergence
@@ -16049,6 +16048,7 @@ doubleton
 dawsoniaceae
 downstate
 divides
+deorganize
 doubletone
 doublette
 doublewidth
