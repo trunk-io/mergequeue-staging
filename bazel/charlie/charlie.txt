@@ -1256,7 +1256,6 @@ caliciform
 calycinal
 calycine
 cabellerote
-calycled
 calicles
 calycli
 calico
@@ -10717,6 +10716,7 @@ chimeras
 complutensian
 chimerical
 chimerically
+calycled
 clinostat
 chimericalness
 chimerism
