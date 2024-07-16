@@ -2556,7 +2556,6 @@ barfed
 barff
 barfy
 breakshugh
-barfly
 barflies
 barfs
 barful
@@ -13776,6 +13775,7 @@ bearbaiting
 battleplane
 bowlderhead
 bowldering
+barfly
 bowlders
 bowleg
 bowlegged
