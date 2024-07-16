@@ -4067,6 +4067,7 @@ gillies
 gunnies
 gigantomachy
 gigantosaurus
+graticule
 guaranteer
 gigasecond
 gigaton
@@ -8360,7 +8361,6 @@ glory
 gordiid
 glinse
 ginglyni
-graticule
 glucosaemia
 gracias
 guarri
