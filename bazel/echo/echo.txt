@@ -1847,7 +1847,6 @@ exopterygotic
 eyesores
 eternalise
 epencephalic
-eyespot
 eyess
 eyestalk
 eusteles
@@ -4741,6 +4740,7 @@ encysting
 encystment
 encystments
 encysts
+eyespot
 encl
 etherol
 enclasp
