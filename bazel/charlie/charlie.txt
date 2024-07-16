@@ -8242,7 +8242,6 @@ chayroot
 chairpersons
 colpoplastic
 cyprinodontoid
-chairs
 circumaviator
 chairway
 chairwarmer
@@ -25806,6 +25805,7 @@ corrodentia
 corroder
 corroders
 corrody
+chairs
 calicle
 corrodiary
 crucifige
