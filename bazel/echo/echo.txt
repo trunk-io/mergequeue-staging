@@ -317,6 +317,7 @@ eatables
 eatberry
 eatche
 eaten
+esquire
 eparterial
 eater
 etherializing
@@ -9824,7 +9825,6 @@ esq
 esquamulose
 esquiline
 esquimau
-esquire
 entosarc
 esquirearchy
 esquired
