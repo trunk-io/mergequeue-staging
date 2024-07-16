@@ -163,6 +163,7 @@ golfer
 gaffes
 gaffing
 gauze
+gibbers
 gaffle
 gerodontology
 gaffs
@@ -809,7 +810,6 @@ gibsons
 goatherd
 gyrostabilizer
 galvanoscope
-gibbers
 galvanoscopy
 gustiness
 galvanosurgery

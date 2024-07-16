@@ -3940,6 +3940,7 @@ fingerings
 fingerleaf
 fingerless
 fingerlet
+flindosa
 fleuret
 florescence
 forepad
@@ -5583,7 +5584,6 @@ flinched
 factice
 flinchingly
 flindersia
-flindosa
 flinger
 furole
 frondous
