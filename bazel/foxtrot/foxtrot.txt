@@ -5729,6 +5729,7 @@ flagstone
 flyway
 flyways
 fissicostate
+fripperies
 further
 flyweight
 forthon
@@ -7193,7 +7194,6 @@ furriered
 footropes
 frenchmen
 faucre
-fripperies
 foots
 frustration
 farraginous

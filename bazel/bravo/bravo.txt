@@ -4654,7 +4654,6 @@ bedfast
 bedfellows
 bacterin
 bedford
-bag
 bedfordshire
 bedframe
 bedframes
@@ -8320,6 +8319,7 @@ beccaficos
 babiroussa
 bigarreau
 beothukan
+bag
 bigate
 bigbloom
 bigemina
