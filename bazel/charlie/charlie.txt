@@ -5013,7 +5013,6 @@ casearia
 casease
 caseases
 caseate
-caseated
 conformability
 caseates
 caseation
@@ -8233,6 +8232,7 @@ chairmaning
 chairmanned
 chairmans
 chairmanship
+caseated
 chairmanships
 chairmen
 chairmender
