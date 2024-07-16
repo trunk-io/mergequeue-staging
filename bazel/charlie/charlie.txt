@@ -530,7 +530,6 @@ caducean
 chloroprene
 caduceus
 catenated
-caduciary
 caduciaries
 caducibranch
 caducibranchiata
@@ -21314,6 +21313,7 @@ concertinos
 concertion
 concertise
 concertised
+caduciary
 concertiser
 concertising
 carcasses
