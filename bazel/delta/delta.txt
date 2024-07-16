@@ -3652,6 +3652,7 @@ degreeless
 degrees
 degreewise
 degressive
+drakefly
 degressively
 degringolade
 degu
@@ -12150,7 +12151,6 @@ disfavors
 disorganised
 davoch
 disfavour
-drakefly
 diddle
 disfavourable
 discorded
