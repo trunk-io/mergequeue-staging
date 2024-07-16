@@ -4147,7 +4147,6 @@ bearlet
 bellower
 bearnaise
 bearpaw
-bearship
 bearskin
 bearward
 bearwood
@@ -10639,6 +10638,7 @@ batel
 blechnoid
 bleck
 bled
+bearship
 borderlands
 blee
 bleed
