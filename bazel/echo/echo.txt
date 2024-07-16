@@ -3039,7 +3039,6 @@ excavate
 electrotherapist
 ellipses
 eulogias
-edgeless
 ellipsis
 ellipsograph
 ellipsoid
@@ -11283,6 +11282,7 @@ evadingly
 evadne
 evagation
 evaginable
+edgeless
 ergotism
 evaginating
 evagination
