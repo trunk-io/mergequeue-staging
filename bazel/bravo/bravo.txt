@@ -6426,6 +6426,7 @@ benzoyls
 benzoin
 benzoinated
 benzoiodohydrin
+bactericidal
 bedrivel
 benzol
 benzoles
@@ -15436,7 +15437,6 @@ brinny
 brins
 brinsell
 brioche
-bactericidal
 brioches
 bryogenin
 briolet
