@@ -5894,7 +5894,6 @@ foveated
 fala
 fluminous
 floored
-floorer
 falderals
 floorhead
 flooring
@@ -7252,6 +7251,7 @@ feracious
 for
 ferr
 flypast
+floorer
 forage
 foraged
 flowerage
