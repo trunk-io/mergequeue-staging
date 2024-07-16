@@ -5765,7 +5765,6 @@ arctogaeal
 apologize
 afterpeak
 afterpiece
-afterplay
 afterplanting
 afterpotential
 archidium
@@ -17761,6 +17760,7 @@ appetiser
 areroscope
 appetit
 accumulates
+afterplay
 appetite
 appetitional
 aux
