@@ -5522,7 +5522,6 @@ circumspection
 catalogize
 catalogs
 catalogue
-catalogued
 capitulary
 cataloguer
 catalogues
@@ -12863,6 +12862,7 @@ chumps
 chums
 credensiveness
 chumship
+catalogued
 conjuncts
 chumships
 chumulu
