@@ -3780,7 +3780,6 @@ filum
 fimbria
 fimbrial
 fieldmouse
-feeblemindedly
 fimbriatum
 ferrule
 favous
@@ -5100,6 +5099,7 @@ flatteries
 farrago
 flatters
 flattest
+feeblemindedly
 favouredness
 flattie
 flatting
