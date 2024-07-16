@@ -6421,6 +6421,7 @@ benzols
 bedded
 benzonitrile
 benzonitrol
+byssoid
 bluebuck
 benzoperoxide
 benzophenazine
@@ -9766,7 +9767,6 @@ byssi
 bijouterie
 byssinosis
 bisso
-byssoid
 byssolite
 bisson
 bissonata
