@@ -3017,7 +3017,6 @@ geochronologist
 gelatinity
 geochronometry
 geochronometric
-geocyclic
 goal
 geocline
 grandeeism
@@ -8079,6 +8078,7 @@ grabbing
 gherkins
 glossologist
 grape
+geocyclic
 granola
 gernitz
 guff

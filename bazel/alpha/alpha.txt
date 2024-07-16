@@ -5934,7 +5934,6 @@ agaric
 agaricaceae
 agaricaceous
 agaricales
-agaricic
 agaricin
 agaricine
 agaricinic
@@ -20671,6 +20670,7 @@ arthropods
 arthropomatous
 arthropterous
 arthrorheumatism
+agaricic
 arthrorrhagia
 agistor
 arthrosclerosis
