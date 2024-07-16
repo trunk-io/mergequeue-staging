@@ -1976,7 +1976,6 @@ dabbers
 decagon
 decagonal
 decagonally
-decagram
 decagramme
 decahedra
 decahedral
@@ -7192,6 +7191,7 @@ detectaphone
 deferrable
 detected
 detecter
+decagram
 detecters
 detectible
 detection
