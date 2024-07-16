@@ -2503,6 +2503,7 @@ ferrier
 ferriferous
 ferison
 ferrihydrocyanic
+fluviatic
 ferryhouse
 ferrimagnet
 forewing
@@ -4944,7 +4945,6 @@ flanque
 flans
 fernery
 fairish
-fluviatic
 freeloader
 fumily
 feroher
