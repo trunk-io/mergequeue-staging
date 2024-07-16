@@ -6478,7 +6478,6 @@ drossier
 desaminase
 desanded
 desands
-desaturation
 dunkirk
 desaurin
 dedicatory
@@ -9360,6 +9359,7 @@ doglegging
 differ
 differed
 difference
+desaturation
 differences
 differency
 differencing
