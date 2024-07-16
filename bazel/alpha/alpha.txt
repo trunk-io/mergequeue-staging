@@ -433,7 +433,6 @@ abience
 abient
 abies
 abyes
-abietate
 abietene
 abietic
 abietin
@@ -10734,6 +10733,7 @@ alternize
 amyotonia
 amyotrophy
 anthracin
+abietate
 amyotrophia
 aciliated
 amyotrophic
