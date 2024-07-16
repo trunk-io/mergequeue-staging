@@ -14384,7 +14384,6 @@ circumlocutory
 circumlunar
 circummeridian
 circummeridional
-circummigrate
 cassoni
 carretela
 chider
@@ -15908,6 +15907,7 @@ cleanups
 clear
 counterswing
 clearable
+circummigrate
 clearage
 clearance
 clearances
