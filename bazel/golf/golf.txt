@@ -2409,7 +2409,6 @@ genua
 galvanothermy
 globin
 gelders
-geldesprung
 gaseosity
 gelding
 gasterosteidae
@@ -3933,6 +3932,7 @@ gibbered
 gibberella
 garroted
 gibbering
+geldesprung
 gibberosity
 grouching
 gallotannate

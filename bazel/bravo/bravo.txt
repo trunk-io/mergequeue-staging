@@ -9024,6 +9024,7 @@ biologistic
 bedstands
 ballyragged
 biologize
+bedsick
 bivocalized
 bioluminescence
 biomagnetic
@@ -12725,7 +12726,6 @@ boce
 booksellerism
 booksellers
 bookshelf
-bedsick
 bookstand
 bedcover
 bookstore
