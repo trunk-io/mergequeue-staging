@@ -1547,6 +1547,7 @@ faunistical
 faunlike
 fauntleroy
 faunula
+followup
 forst
 faurd
 forwean
@@ -6289,7 +6290,6 @@ fluidities
 fluidization
 fluidize
 fluidized
-followup
 flotations
 finitude
 fileted

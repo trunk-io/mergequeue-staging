@@ -2716,7 +2716,6 @@ acouasm
 acouchi
 acouchy
 acoumetry
-aceship
 acounter
 acouometer
 acouophonia
@@ -7833,6 +7832,7 @@ agama
 aldermanry
 aldermanries
 aldermanship
+aceship
 aldermen
 amphichrom
 aldern
