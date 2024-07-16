@@ -5989,7 +5989,6 @@ deviationism
 depthing
 decry
 depthless
-depths
 disfigures
 depthways
 depthwise
@@ -8229,6 +8228,7 @@ diagnosticate
 diagnosticated
 diagnosticating
 dumpfile
+depths
 diagnostication
 diagnostics
 dyscrasic
