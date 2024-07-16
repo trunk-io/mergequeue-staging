@@ -193,6 +193,7 @@ archking
 abbandono
 abbas
 abbasi
+antecessor
 abbassi
 abbasside
 abbatical
@@ -6697,7 +6698,6 @@ ahet
 ahi
 ahimsa
 ahimsas
-antecessor
 ahint
 ahir
 ahistorical
