@@ -4730,7 +4730,6 @@ encircled
 encirclements
 ectypal
 encircler
-ecize
 encircles
 encircling
 encyrtid
@@ -12159,6 +12158,7 @@ endued
 excretions
 excretitious
 excretive
+ecize
 excretory
 esthesio
 epuration
