@@ -4542,7 +4542,6 @@ adulteress
 adulteresses
 adultery
 antifebrile
-acridonium
 akkadist
 adulteries
 adulterous
@@ -23814,6 +23813,7 @@ autexousy
 auth
 authentical
 almeries
+acridonium
 authentically
 arterializing
 authenticalness
