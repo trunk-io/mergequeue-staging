@@ -18176,6 +18176,7 @@ armadilla
 aquacades
 aquaculture
 aquaemanale
+autocar
 aquaemanalia
 aquafer
 aquafortis
@@ -23939,7 +23940,6 @@ assembl
 antidecalogue
 ateuchus
 autocamping
-autocar
 autocarpian
 autocarpic
 anatherum
