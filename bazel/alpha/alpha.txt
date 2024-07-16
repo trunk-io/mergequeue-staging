@@ -7973,7 +7973,6 @@ arrivederci
 alerters
 alertest
 alertly
-alertness
 alerts
 antienergistic
 ales
@@ -24384,6 +24383,7 @@ autoschediastic
 autoschediastical
 affodill
 autoschediastically
+alertness
 autoschediaze
 autoscience
 autoscope
