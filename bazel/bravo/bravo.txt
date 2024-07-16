@@ -8952,7 +8952,6 @@ bemuddy
 bef
 bioelectric
 byline
-bioelectrical
 bioelectricities
 blenniid
 belook
@@ -9533,6 +9532,7 @@ byronic
 byronically
 byronics
 biosatellites
+bioelectrical
 brushland
 bodycheck
 besmuts
