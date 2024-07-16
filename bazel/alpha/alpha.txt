@@ -4001,7 +4001,6 @@ angelet
 adyton
 agastroneuria
 adytta
-adytum
 adj
 adjacency
 adjacencies
@@ -18509,6 +18508,7 @@ arba
 adeona
 arbacia
 arbacin
+adytum
 arbalest
 arbalester
 antiresonance
