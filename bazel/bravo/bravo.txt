@@ -543,7 +543,6 @@ backspacing
 becivet
 backspeir
 backspier
-backpacker
 backspierer
 backspins
 backsplice
@@ -9846,6 +9845,7 @@ biti
 bityite
 bytime
 biting
+backpacker
 bhp
 butterflower
 bitingly
