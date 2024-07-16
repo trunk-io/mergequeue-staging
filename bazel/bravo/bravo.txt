@@ -5547,7 +5547,6 @@ belah
 belay
 booky
 belayed
-bacteriaemia
 belaying
 belays
 benzalethylamine
@@ -10135,6 +10134,7 @@ blackgums
 bayadeer
 boating
 blackheads
+bacteriaemia
 blackheart
 blackhearted
 blackheartedly
