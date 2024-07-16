@@ -1429,7 +1429,6 @@ grivets
 garlics
 galloner
 gibier
-garlicwort
 garlion
 goethites
 garment
@@ -6989,6 +6988,7 @@ girtline
 grossulaceous
 goodenia
 goodeniaceous
+garlicwort
 grandeur
 grip
 gooder
