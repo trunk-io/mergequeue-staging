@@ -5128,7 +5128,6 @@ befoul
 befouled
 befouler
 befoulers
-befouling
 befountained
 befraught
 befreckle
@@ -18238,6 +18237,7 @@ buttercups
 butterer
 butterfat
 butterfingered
+befouling
 butterfingers
 butterfishes
 butterfly
