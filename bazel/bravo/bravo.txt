@@ -10601,7 +10601,6 @@ bleaches
 bleachground
 bleachhouse
 bleachyard
-bleachman
 bleachs
 bleachworks
 bogeyman
@@ -11344,6 +11343,7 @@ bluecoat
 bluecoated
 bluecoats
 bluecup
+bleachman
 bluecurls
 boutique
 ballist
