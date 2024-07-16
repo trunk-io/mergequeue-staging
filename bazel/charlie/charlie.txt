@@ -4907,6 +4907,7 @@ cartouche
 cartouches
 cartridge
 cartridges
+channelization
 carts
 commonwealth
 cubisms
@@ -7863,7 +7864,6 @@ cervicolumbar
 colorectitis
 crystal
 coquinas
-channelization
 cervicomuscular
 cerviconasal
 concordant
