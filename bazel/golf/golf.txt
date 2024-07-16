@@ -1561,7 +1561,6 @@ gasconading
 gascons
 gascromh
 gliosis
-gaselier
 gelatose
 gaseous
 gaseously
@@ -4743,6 +4742,7 @@ girder
 girders
 girding
 gamuts
+gaselier
 girdingly
 goldy
 girdlecake
