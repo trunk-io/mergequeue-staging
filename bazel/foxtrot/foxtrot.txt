@@ -6251,7 +6251,6 @@ flavorsomeness
 fluffs
 flugel
 flugelman
-fluible
 fluid
 fabliau
 foster
@@ -11475,6 +11474,7 @@ froze
 forgemen
 falconries
 furors
+fluible
 furphy
 fearingly
 fratching
