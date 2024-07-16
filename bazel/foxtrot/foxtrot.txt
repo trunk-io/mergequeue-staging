@@ -4308,7 +4308,6 @@ fisetin
 fulgurous
 fish
 fishability
-fishable
 friezing
 fishback
 forded
@@ -11066,6 +11065,7 @@ focimetry
 fun
 fatal
 funambulant
+fishable
 funambulate
 ferninst
 frequence
