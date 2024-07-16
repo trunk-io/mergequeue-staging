@@ -13966,7 +13966,6 @@ deterration
 distortable
 dulias
 daggy
-distortedness
 dominion
 distorter
 distorting
@@ -17185,6 +17184,7 @@ dweeble
 dripstone
 dript
 drys
+distortedness
 dreep
 drisk
 drysne
