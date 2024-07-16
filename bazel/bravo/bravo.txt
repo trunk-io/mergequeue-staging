@@ -778,7 +778,6 @@ bronchophony
 baculiticone
 bdrm
 baculums
-baculus
 bacury
 bad
 busload
@@ -10990,6 +10989,7 @@ blockaders
 blockboard
 blebs
 brey
+baculus
 blackguard
 blockbusters
 blockbusting
