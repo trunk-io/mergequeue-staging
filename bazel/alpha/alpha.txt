@@ -20802,6 +20802,7 @@ artistry
 artistries
 assurate
 artists
+asserters
 artize
 artless
 artlessly
@@ -21688,7 +21689,6 @@ assertable
 assertative
 asserted
 assertedly
-asserters
 asserting
 assertingly
 assertion
