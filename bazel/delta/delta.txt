@@ -76,7 +76,6 @@ dacryocystosyringotomy
 dacryocystotome
 dacryohelcosis
 dorsolateral
-dacryohemorrhea
 dacryolin
 dacryolith
 dacryolithiasis
@@ -2195,6 +2194,7 @@ deceive
 delly
 deceivers
 duodenectomy
+dacryohemorrhea
 deceiving
 decelerated
 doorpiece
