@@ -2596,7 +2596,6 @@ electroreceptive
 electroreduction
 electragist
 electrorefining
-electroretinograph
 endorsation
 ecophobia
 engyscope
@@ -8741,6 +8740,7 @@ encharm
 equisetaceae
 episode
 equisetales
+electroretinograph
 equisetic
 echinital
 equisignal
