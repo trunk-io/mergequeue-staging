@@ -913,6 +913,7 @@ ellipsoids
 exstrophy
 ectopia
 electrical
+erasure
 ety
 ectoplasm
 esthetically
@@ -12810,7 +12811,6 @@ exorhason
 endopods
 embryo
 exornation
-erasure
 etwees
 exortion
 euthytatic
