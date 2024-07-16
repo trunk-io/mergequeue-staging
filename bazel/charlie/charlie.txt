@@ -9286,6 +9286,7 @@ coxopodite
 chastiser
 chastisers
 cupulae
+clockings
 caluptra
 composture
 capnoides
@@ -16536,7 +16537,6 @@ clocker
 clockface
 clockhouse
 clocking
-clockings
 clockkeeper
 clockless
 cuon
