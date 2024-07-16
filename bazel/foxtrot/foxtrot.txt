@@ -8081,6 +8081,7 @@ fretless
 foretold
 ferling
 foldy
+figurines
 foretop
 foretopmast
 foretopmen
@@ -9696,7 +9697,6 @@ frails
 freewoman
 flatman
 freewomen
-figurines
 fluorographic
 freeze
 flumerin
