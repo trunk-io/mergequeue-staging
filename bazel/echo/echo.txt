@@ -2441,7 +2441,6 @@ electrokinetic
 edestin
 enkolpion
 electrokinetics
-electroless
 electrogalvanization
 evict
 excitability
@@ -5247,6 +5246,7 @@ eavesdroppers
 eurycerous
 endophyllous
 endophyllum
+electroless
 endophytal
 enrolled
 eternish
