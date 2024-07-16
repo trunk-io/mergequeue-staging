@@ -5216,7 +5216,6 @@ aestethic
 aesthesia
 aesthesis
 aesthete
-aesthetic
 aesthetical
 aesthetically
 antiministerially
@@ -17285,6 +17284,7 @@ apologetics
 apology
 adrenolytic
 apologia
+aesthetic
 apologiae
 alphitomancy
 apological
