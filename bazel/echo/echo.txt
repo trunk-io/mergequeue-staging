@@ -8355,7 +8355,6 @@ epitheliolysin
 erava
 euro
 epitheliolysis
-epitheliolytic
 epithelioma
 epitheliomas
 epitheliomata
@@ -9781,6 +9780,7 @@ espy
 earhead
 espials
 eartab
+epitheliolytic
 espieglerie
 espiegleries
 exactions
