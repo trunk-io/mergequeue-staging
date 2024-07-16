@@ -17323,7 +17323,6 @@ coarsened
 coarseness
 coarsening
 cipollino
-coarsens
 coarser
 coarsest
 coart
@@ -20415,6 +20414,7 @@ commutation
 commutatively
 commutativity
 commutator
+coarsens
 commutators
 commuted
 commuters
