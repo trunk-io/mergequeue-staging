@@ -2380,7 +2380,6 @@ genom
 gelatinizable
 guerre
 greenfinch
-glumpier
 gruppetto
 gelatinizer
 grutch
@@ -7350,6 +7349,7 @@ greenwoods
 gossamered
 good
 gunfights
+glumpier
 gossaniferous
 gossard
 gossiped
