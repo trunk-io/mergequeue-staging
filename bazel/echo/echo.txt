@@ -4905,7 +4905,6 @@ encumbrancer
 encumbrous
 eblis
 encushion
-endamageable
 esterifiable
 endamaged
 epigraphist
@@ -7027,6 +7026,7 @@ entrecote
 entredeux
 ethnohistorian
 enlightenedness
+endamageable
 epiglottides
 entrees
 excisor
