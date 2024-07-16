@@ -2239,7 +2239,6 @@ emulsin
 elecives
 enterograph
 electability
-electable
 electary
 elected
 enthraldom
@@ -12725,6 +12724,7 @@ electrolytes
 empaled
 exoneretur
 emparadise
+electable
 endromididae
 ensanguined
 exoneural
