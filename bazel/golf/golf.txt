@@ -5688,7 +5688,6 @@ globally
 goffering
 gallimaufries
 globe
-globed
 globefish
 globeflower
 guppies
@@ -7422,6 +7421,7 @@ gaveled
 gouaree
 goudy
 gemmative
+globed
 granjeno
 gouged
 grudgeless
