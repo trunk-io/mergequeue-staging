@@ -7276,7 +7276,6 @@ akroasis
 anorchus
 alisier
 akroter
-akroterial
 arithmetization
 akroterion
 akrteria
@@ -21002,6 +21001,7 @@ asci
 ascian
 asseveration
 ascians
+akroterial
 archenteric
 ascicidia
 animus
