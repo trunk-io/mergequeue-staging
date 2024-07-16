@@ -2859,6 +2859,7 @@ bewilders
 baronize
 beliefful
 baronized
+bells
 baronry
 briggs
 byrls
@@ -5825,7 +5826,6 @@ barracan
 betterness
 bellrags
 botchers
-bells
 becowarded
 belltopper
 belluine
