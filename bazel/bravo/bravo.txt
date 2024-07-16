@@ -13742,6 +13742,7 @@ bowenite
 bower
 bowerbird
 bowery
+brushy
 bastions
 botryose
 boweries
@@ -16349,7 +16350,6 @@ brushet
 brushfire
 brushful
 barcella
-brushy
 brushiest
 brushiness
 brushing
