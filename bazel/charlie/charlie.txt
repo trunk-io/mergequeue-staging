@@ -9180,7 +9180,6 @@ chartered
 charterers
 charterhouse
 charterism
-charterist
 charterless
 charthouse
 charting
@@ -15762,6 +15761,7 @@ claustrum
 clausula
 coypu
 corundum
+charterist
 clausulae
 clausular
 clausule
