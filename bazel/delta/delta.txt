@@ -4710,7 +4710,6 @@ demobbed
 duply
 demobilisation
 demobilised
-demobilising
 demobilizations
 demobilize
 demobilized
@@ -10021,6 +10020,7 @@ dimply
 dimplier
 dodman
 dimpling
+demobilising
 dimps
 diatesseron
 dimwit

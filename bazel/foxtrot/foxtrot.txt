@@ -3429,7 +3429,6 @@ figurately
 figuration
 figuratively
 forby
-figuredly
 figureheadless
 figureheads
 figurer
@@ -11549,6 +11548,7 @@ fuscescent
 fuscin
 fuscous
 fuse
+figuredly
 fuseau
 fuseboard
 fusee
