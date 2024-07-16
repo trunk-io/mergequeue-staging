@@ -2020,6 +2020,7 @@ gluconate
 gaussian
 gaussmeter
 geometrical
+glaciological
 greedier
 geognostically
 gauteite
@@ -10741,7 +10742,6 @@ general
 guttable
 galerite
 guttae
-glaciological
 gurnetty
 ganomalite
 glassworking
