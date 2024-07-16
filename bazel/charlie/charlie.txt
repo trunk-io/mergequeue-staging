@@ -631,6 +631,7 @@ caffein
 cathodofluorescence
 caffeina
 caffeine
+coprocessor
 colane
 caffeines
 caffeinic
@@ -24766,7 +24767,6 @@ coprincipate
 coprinus
 coprisoner
 coprocessing
-coprocessor
 coprodaeum
 cummer
 coproduce
