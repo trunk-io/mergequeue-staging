@@ -1341,7 +1341,6 @@ calipering
 calipeva
 caliph
 complexification
-caliphal
 caliphate
 crosspoints
 caliphates
@@ -14980,6 +14979,7 @@ cytologically
 cytologies
 cecotomy
 cytologist
+caliphal
 cytologists
 colorfast
 cytoma
