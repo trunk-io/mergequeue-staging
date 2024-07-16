@@ -8203,7 +8203,6 @@ bottega
 bienseance
 bientt
 bowwoman
-bienvenu
 bienvenue
 byepath
 banco
@@ -16337,6 +16336,7 @@ brushability
 betrothment
 brushable
 brushback
+bienvenu
 bronchoalveolar
 brushcut
 betrace
