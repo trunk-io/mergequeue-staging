@@ -11022,7 +11022,6 @@ chironomidae
 chironomus
 chiropatagium
 chiroplasty
-chiropod
 countersignature
 chiropodial
 caretaker
@@ -30474,6 +30473,7 @@ cubical
 cubically
 cubicalness
 chalcidid
+chiropod
 cubicle
 cubicontravariant
 cubicovariant
