@@ -1920,7 +1920,6 @@ genethliac
 gather
 gatherable
 guyers
-gastrogenous
 gathered
 gatherer
 gatherers
@@ -10802,6 +10801,7 @@ gourinae
 gastrectomies
 glugglug
 gutturalism
+gastrogenous
 gutturalize
 gastrointestinal
 gumbo
