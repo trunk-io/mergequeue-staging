@@ -18621,7 +18621,6 @@ coynesses
 coinfeftment
 coinfer
 coinferred
-coinferring
 complied
 coinfers
 coinfinite
@@ -18922,6 +18921,7 @@ collada
 collage
 collagen
 caponising
+coinferring
 collagenase
 caryl
 collagens
