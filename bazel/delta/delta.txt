@@ -90,6 +90,7 @@ diviners
 dactylar
 diacetate
 dactylate
+ddt
 diapason
 dactyli
 dacryostenosis
@@ -1471,7 +1472,6 @@ dcollet
 digested
 dcolletage
 dcor
-ddt
 divine
 dea
 deaccession
