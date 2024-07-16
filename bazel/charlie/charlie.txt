@@ -629,7 +629,6 @@ convolution
 caffeic
 correption
 carolina
-caffein
 cathodofluorescence
 caffeina
 caffeine
@@ -10293,6 +10292,7 @@ chias
 chiasma
 chiasmal
 chiasmas
+caffein
 chiasmata
 chiasmatic
 chiasmatype
