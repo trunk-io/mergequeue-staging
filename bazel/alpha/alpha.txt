@@ -6343,7 +6343,6 @@ agnathia
 agnathostomata
 archprotopope
 agnathostomatous
-agnatic
 arrased
 agnatical
 agnation
@@ -13964,6 +13963,7 @@ alcornoque
 anormal
 antrotomy
 anormality
+agnatic
 anorn
 anorogenic
 anorth
