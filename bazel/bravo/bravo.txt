@@ -3235,7 +3235,6 @@ basicity
 basicities
 basicranial
 bauno
-basics
 basidia
 boneshaker
 basidial
@@ -16455,6 +16454,7 @@ bullbird
 baw
 bubastid
 backorder
+basics
 bubbybush
 bubble
 bubblebow
