@@ -1858,7 +1858,6 @@ gorling
 gastrorrhaphy
 gynura
 gastroscopic
-gastroscopies
 giggly
 gocart
 gastrosoph
@@ -10396,6 +10395,7 @@ grizel
 gumdigging
 gumdrop
 girnal
+gastroscopies
 goings
 gitanos
 glided
