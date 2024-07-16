@@ -1437,7 +1437,6 @@ fatnesses
 fats
 fatsia
 fatalize
-fairways
 frigger
 feasibility
 fluffily
@@ -6549,6 +6548,7 @@ flutier
 floorthrough
 flutiest
 flutina
+fairways
 fluting
 fairgoer
 florikan
