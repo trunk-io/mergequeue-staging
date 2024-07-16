@@ -3835,7 +3835,6 @@ adffroze
 adffrozen
 adfluxion
 adfreeze
-adfreezing
 antiangular
 anguille
 apozema
@@ -13892,6 +13891,7 @@ anon
 anonaceous
 anonad
 adambulacral
+adfreezing
 anoncillo
 anonychia
 arcticizing
