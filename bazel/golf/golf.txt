@@ -2332,7 +2332,6 @@ ghostology
 gekkones
 gekkonid
 gnarrs
-gekkonidae
 gasproof
 grolier
 gekkonoid
@@ -8769,6 +8768,7 @@ gullability
 gauntry
 gregarina
 gregarinae
+gekkonidae
 gregarinaria
 gregarine
 gleeful
