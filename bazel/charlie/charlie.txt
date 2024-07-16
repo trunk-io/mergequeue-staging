@@ -15854,6 +15854,7 @@ clavodeltoideus
 clavola
 clavolet
 clavus
+combinantive
 clavuvi
 claw
 clawback
@@ -19765,7 +19766,6 @@ combinableness
 collectability
 combinably
 combinant
-combinantive
 combination
 carbonise
 combinational
