@@ -7878,7 +7878,6 @@ cervisial
 cervix
 cervixes
 cervoid
-cervuline
 cervus
 cesar
 cesare
@@ -13684,6 +13683,7 @@ cymbalist
 cymbalists
 cymballed
 cymballike
+cervuline
 cymballing
 costogenic
 cymbalo
