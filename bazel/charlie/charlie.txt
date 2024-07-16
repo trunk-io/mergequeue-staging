@@ -17610,7 +17610,6 @@ coccinellidae
 coccyodynia
 coccyx
 coccyxes
-catamited
 coccyzus
 cocco
 coccobaccilli
@@ -27258,6 +27257,7 @@ caplan
 counterweights
 counterwheel
 counterwilling
+catamited
 counterwind
 crushableness
 counterwork
