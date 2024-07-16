@@ -5330,7 +5330,6 @@ begun
 begunk
 begut
 behale
-behallow
 behalves
 behang
 behatted
@@ -15413,6 +15412,7 @@ brinish
 brinishness
 bagios
 bagatine
+behallow
 brinjal
 blacklisting
 brinjaree
