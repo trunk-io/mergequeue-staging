@@ -12942,7 +12942,6 @@ churchmen
 churchreeve
 chromeplate
 churchscot
-churchway
 churchward
 churchwardenism
 churchwardenize
@@ -19208,6 +19207,7 @@ cinerins
 caducicorn
 colloidal
 colloidality
+churchway
 colloider
 colloidize
 colloidochemical
