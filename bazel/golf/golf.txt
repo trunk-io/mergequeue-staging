@@ -5281,7 +5281,6 @@ glassworks
 gasbags
 goralog
 glassworm
-glaswegian
 glathsheim
 glathsheimr
 glaucescent
@@ -9839,6 +9838,7 @@ guanajuatite
 gyrophoric
 guanamine
 guanase
+glaswegian
 griddlecakes
 guanases
 guanche
