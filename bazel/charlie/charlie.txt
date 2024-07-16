@@ -5737,7 +5737,6 @@ catechismal
 catechist
 catechistic
 catechistical
-catechistically
 catechists
 catechization
 catechize
@@ -16233,6 +16232,7 @@ colima
 curvaceousness
 consequence
 climbable
+catechistically
 caried
 cyclesmith
 climbed
