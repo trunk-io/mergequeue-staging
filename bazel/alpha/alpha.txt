@@ -16794,7 +16794,6 @@ aperitive
 apers
 apersee
 apert
-apertion
 apertly
 apertness
 apertometer
@@ -18224,6 +18223,7 @@ aquarium
 actability
 aquarius
 aquarter
+apertion
 amidoazobenzol
 aquas
 aquascope
