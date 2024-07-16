@@ -6208,7 +6208,6 @@ aggroup
 aggroupment
 aggur
 americanisms
-aghast
 aghlabite
 aghorapanthi
 aghori
@@ -8632,6 +8631,7 @@ allan
 altimetrical
 algesia
 allanite
+aghast
 allanites
 allanitic
 allantochorion
