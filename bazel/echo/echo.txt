@@ -10558,6 +10558,7 @@ ecotypes
 etymologies
 etymologisable
 etymologised
+eugenical
 equators
 execrate
 extraessentially
@@ -10796,7 +10797,6 @@ exclosure
 eugenetic
 elephantic
 eugenic
-eugenical
 eudyptes
 eugenically
 eugenicist
