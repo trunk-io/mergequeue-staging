@@ -3519,7 +3519,6 @@ defuse
 defuses
 defusing
 defusion
-defuze
 dims
 defuzes
 deg
@@ -11525,6 +11524,7 @@ discommodes
 discommoding
 discommodious
 deficiencies
+defuze
 disputatiousness
 discommodiously
 dermatopathology
