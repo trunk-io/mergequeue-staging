@@ -1340,7 +1340,6 @@ balantidiasis
 balantidic
 backsettler
 balantidiosis
-balantidium
 backstroked
 balao
 balaos
@@ -3568,6 +3567,7 @@ bathyanesthesia
 braggest
 bathybius
 bathycentesis
+balantidium
 bathychrome
 bathycolpian
 bathycolpic

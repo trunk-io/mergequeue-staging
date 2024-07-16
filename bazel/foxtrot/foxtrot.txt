@@ -1057,7 +1057,6 @@ farmeries
 farmerly
 fermata
 farmerlike
-frigotherapy
 foresights
 five
 farmership
@@ -8926,6 +8925,7 @@ foundership
 forechoir
 forel
 foundlings
+frigotherapy
 fusicladium
 foundress
 fooled
