@@ -7589,7 +7589,6 @@ bewitch
 bewitched
 bewitchedness
 bewitcher
-bewitchery
 buchite
 bewitchful
 baubo
@@ -11487,6 +11486,7 @@ blurb
 blurbist
 blurbs
 bilked
+bewitchery
 blurredly
 blurredness
 blurry
