@@ -1788,6 +1788,7 @@ eyehooks
 ecch
 eyey
 eyeing
+enraged
 eyeish
 endungeon
 eyelash
@@ -6215,7 +6216,6 @@ enquire
 enquired
 enquiries
 enrace
-enraged
 encourages
 esemplasy
 excludible
