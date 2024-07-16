@@ -2882,7 +2882,6 @@ feveret
 fishful
 feverfew
 flamier
-formals
 fulimart
 filea
 floating
@@ -6030,6 +6029,7 @@ fantasts
 floriscope
 floristics
 florisugent
+formals
 florivorous
 fimbriate
 florizine
