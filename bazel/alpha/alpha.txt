@@ -5233,7 +5233,6 @@ aestivated
 aestivates
 alphamerical
 aestivating
-aestivator
 abitibi
 aestive
 aestuary
@@ -13969,6 +13968,7 @@ anorogenic
 anorth
 anorthic
 anorthite
+aestivator
 anorthitic
 anorthitite
 anorthoclase
