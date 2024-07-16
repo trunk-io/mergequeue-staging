@@ -1735,7 +1735,6 @@ gastrocnemius
 gastrocoel
 gastrocolostomy
 gastrocolotomy
-geoponic
 goaltender
 gastrocolpotomy
 gymel
@@ -10832,6 +10831,7 @@ guzmania
 gillflirt
 guzul
 glycyphyllin
+geoponic
 gangrenescent
 griphe
 guzzle
