@@ -1805,7 +1805,6 @@ debellation
 deviants
 debellator
 defrayers
-debenture
 debentured
 debentures
 debi
@@ -15467,6 +15466,7 @@ decagons
 doncella
 doncy
 dondia
+debenture
 dreggish
 dondine
 disshiver
