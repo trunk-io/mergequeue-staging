@@ -3844,7 +3844,6 @@ gabelles
 ghostish
 ghostlet
 gigantic
-ghostly
 grabbling
 grots
 geometrising
@@ -9562,6 +9561,7 @@ gemses
 growling
 gargoyled
 growls
+ghostly
 grown
 grappler
 grownup
