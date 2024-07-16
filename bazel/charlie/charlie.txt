@@ -2544,7 +2544,6 @@ cankerweed
 cankerworms
 cankerwort
 canli
-canmaker
 canmaking
 canman
 cann
@@ -16936,6 +16935,7 @@ crossrail
 clubster
 catonically
 clubweed
+canmaker
 clubwoman
 clubwomen
 clubwood
