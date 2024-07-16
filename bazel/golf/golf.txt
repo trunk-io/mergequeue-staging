@@ -3124,7 +3124,6 @@ genitive
 geologian
 geologic
 gletscher
-geological
 geologician
 geologies
 geologised
@@ -4613,6 +4612,7 @@ ginseng
 gargarize
 grammatology
 graphiological
+geological
 gaucho
 guitars
 gauchest
