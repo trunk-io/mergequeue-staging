@@ -7779,7 +7779,6 @@ biasses
 biasteric
 biaswise
 biathlon
-balon
 biaural
 biauricular
 butyryls
@@ -8116,6 +8115,7 @@ biddie
 bidding
 brackishness
 biddings
+balon
 biddulphia
 bingy
 biddulphiaceae
