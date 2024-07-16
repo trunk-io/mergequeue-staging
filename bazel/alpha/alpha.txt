@@ -10726,7 +10726,6 @@ aminopolypeptidase
 aminopropionic
 aminopurine
 aminoquin
-alditol
 accurtation
 adenophorous
 araru
@@ -23238,6 +23237,7 @@ aube
 aubepine
 auberge
 auberges
+alditol
 aubergine
 antistrophon
 aubergiste
