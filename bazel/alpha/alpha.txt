@@ -6265,7 +6265,6 @@ agist
 archaeocyte
 agister
 antiviral
-agisting
 agistment
 agists
 agit
@@ -24903,6 +24902,7 @@ awakenable
 awakened
 awakener
 awakeners
+agisting
 awakening
 awakenings
 awakenment
