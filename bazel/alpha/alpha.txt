@@ -4540,6 +4540,7 @@ adulterant
 adulterate
 adulterates
 adulterating
+animating
 adulteration
 adulterator
 adulterators
@@ -20430,7 +20431,6 @@ arsenophagy
 arsenophenol
 arsenopyrite
 arsenostyracol
-animating
 arsenotungstates
 arsenotungstic
 alefs

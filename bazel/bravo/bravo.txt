@@ -6858,7 +6858,6 @@ bescarf
 bescent
 befringing
 bescorch
-bescorches
 bescorching
 bescorn
 bescoundrel
@@ -8296,6 +8295,7 @@ benefactrix
 benweed
 bifurcately
 bifurcates
+bescorches
 benzoate
 bifurcating
 bifurcation
