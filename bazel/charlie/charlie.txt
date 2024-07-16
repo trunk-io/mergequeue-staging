@@ -18314,7 +18314,6 @@ cofounds
 cofreighter
 coft
 cofunction
-cog
 cogboat
 cogences
 cogencies
@@ -24065,6 +24064,7 @@ convenient
 conveniently
 convenientness
 convening
+cog
 convented
 conventical
 cinnamene
