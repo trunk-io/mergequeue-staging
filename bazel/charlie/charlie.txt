@@ -7444,7 +7444,6 @@ cathodegraph
 ceramographic
 cerargyrite
 cerasein
-cerasin
 cerastes
 caucasians
 cerasus
@@ -22850,6 +22849,7 @@ consentaneousness
 cuvette
 consented
 consenter
+cerasin
 cadinene
 cirrocumulus
 consenters
