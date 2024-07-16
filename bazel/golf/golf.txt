@@ -8950,7 +8950,6 @@ gospellike
 griffon
 griffonage
 griffons
-gattine
 grift
 garroter
 glasslikeness
@@ -10607,6 +10606,7 @@ gerbo
 guptavidya
 gurdle
 gurge
+gattine
 gurgeon
 gurgeons
 glossopyrosis
