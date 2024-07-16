@@ -2403,7 +2403,6 @@ electroencephalograph
 electroendosmose
 electroendosmosis
 electroendosmotic
-electroengrave
 eudalene
 electroergometer
 electroetching
@@ -10724,6 +10723,7 @@ emendable
 eucryphiaceous
 eucrite
 eucrites
+electroengrave
 entamebic
 euctical
 euda
