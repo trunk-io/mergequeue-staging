@@ -4601,6 +4601,7 @@ cfh
 chlamydospore
 carpeting
 carpetlayer
+commodious
 carpetless
 carpetmaker
 carpetweed
@@ -20254,7 +20255,6 @@ crossers
 commodate
 commode
 commodes
-commodious
 cubits
 commodiously
 commodiousness
