@@ -19476,7 +19476,6 @@ colorlessness
 colormaker
 colormaking
 crc
-coloroto
 colorrhaphy
 colors
 colortype
@@ -30581,6 +30580,7 @@ coesites
 cowhides
 characterise
 cucumiform
+coloroto
 cyanic
 cucumis
 cucupha
