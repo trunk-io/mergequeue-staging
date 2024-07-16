@@ -3133,7 +3133,6 @@ fictileness
 frostflower
 fiction
 fictional
-fictionalize
 fictionalized
 funorin
 fictionalizing
@@ -7266,6 +7265,7 @@ fidelio
 foragers
 fodientia
 fearlessness
+fictionalize
 foraying
 foralite
 foram
