@@ -10095,7 +10095,6 @@ ambisinister
 ambisinistrous
 ambystoma
 anamniota
-ambit
 ambital
 ambitendency
 ambitendencies
@@ -25371,6 +25370,7 @@ azoxytoluidine
 aircoaches
 azrael
 aztec
+ambit
 azteca
 aztecan
 aztecs
