@@ -2161,7 +2161,6 @@ bivinyl
 bannerets
 backachy
 bannerette
-bannerlike
 bannerman
 bannerole
 bannerols
@@ -11092,6 +11091,7 @@ bloodletter
 bloodlettings
 bloodline
 bloodlusting
+bannerlike
 bedazzles
 brawly
 busybody
