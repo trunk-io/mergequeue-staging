@@ -13854,6 +13854,7 @@ anticline
 anomaly
 arvicoline
 anomalies
+aregenerative
 anomaliflorous
 anteoccupation
 anomaliped
@@ -19359,7 +19360,6 @@ areel
 arefaction
 arblast
 areg
-aregenerative
 areic
 areito
 athonite

@@ -8544,7 +8544,6 @@ diaphones
 diaphonic
 diaphonical
 diaphonies
-diaphorase
 diaphoreses
 diaphoretic
 diaphoretical
@@ -13661,6 +13660,7 @@ dissympathize
 dissimulate
 dolefuls
 dissimulates
+diaphorase
 duneland
 dissimulating
 dissimulation
