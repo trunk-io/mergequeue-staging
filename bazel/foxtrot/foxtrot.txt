@@ -890,7 +890,6 @@ furfurals
 fanwork
 fanwort
 funtumia
-fanzine
 fanzines
 faon
 fapesmo
@@ -6660,6 +6659,7 @@ focometry
 focsle
 focused
 focusless
+fanzine
 fantad
 floorings
 focussed
