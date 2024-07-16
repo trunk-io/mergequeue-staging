@@ -444,7 +444,6 @@ cnidosis
 caddiced
 caddicefly
 caddices
-caddie
 caddied
 caddies
 cottons
@@ -3999,6 +3998,7 @@ cardiodynia
 cardiodysneuria
 cardiogenesis
 cardiogenic
+caddie
 cardiograms
 cardiograph
 cardiographer
