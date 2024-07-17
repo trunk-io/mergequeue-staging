@@ -5422,7 +5422,6 @@ endowing
 endoerythrocytic
 endowment
 endowments
-electrophonic
 equispatial
 endows
 endozoa
@@ -6663,6 +6662,7 @@ enterorrhexis
 etatisms
 enteroscopy
 enterosyphilis
+electrophonic
 enterospasm
 enterostasis
 evolutionally
