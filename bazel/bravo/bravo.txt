@@ -7261,7 +7261,6 @@ bestseller
 bestsellerdom
 bestsellers
 bestselling
-bodhisattva
 bestubble
 bestuck
 bestud
@@ -10506,6 +10505,7 @@ blackplate
 blatherer
 birles
 bewater
+bodhisattva
 blathery
 blathers
 blatherskites
