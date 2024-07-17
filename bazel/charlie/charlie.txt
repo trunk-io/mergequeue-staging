@@ -2670,6 +2670,7 @@ canonicalness
 canonicate
 canonici
 canonicity
+cwms
 canonics
 canonise
 consumptiveness
@@ -31905,7 +31906,6 @@ cuvies
 cuzceno
 cv
 cwierc
-cwms
 cwo
 cwrite
 cwt
