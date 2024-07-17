@@ -2559,7 +2559,6 @@ barfy
 breakshugh
 barflies
 barfs
-barful
 bargain
 bargainable
 bargained
@@ -7634,6 +7633,7 @@ bezel
 baritone
 bezetta
 brook
+barful
 bezette
 bezil
 bivoltine
