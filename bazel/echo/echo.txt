@@ -2298,6 +2298,7 @@ earnable
 electroacoustically
 electroamalgamation
 electroanalytic
+erk
 emersion
 electroanalytical
 eructative
@@ -6620,7 +6621,6 @@ etiotropically
 enteroischiocele
 echo
 enterokinase
-erk
 enterokinesia
 esurient
 enterolysis
