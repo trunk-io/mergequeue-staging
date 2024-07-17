@@ -15024,7 +15024,6 @@ anticivic
 anticivil
 anticivilian
 anticivism
-anticize
 antick
 anticked
 anticker
@@ -20726,6 +20725,7 @@ adret
 articulated
 anthecology
 articulately
+anticize
 articulateness
 anemogram
 articulation
