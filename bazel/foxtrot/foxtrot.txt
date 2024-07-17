@@ -1767,6 +1767,7 @@ freshmanhood
 farthing
 feathers
 freshmanic
+frigorifico
 floods
 feathertop
 featherway
@@ -8380,7 +8381,6 @@ flingdust
 formats
 fogbows
 formatter
-frigorifico
 fermentarian
 flappering
 formazan
