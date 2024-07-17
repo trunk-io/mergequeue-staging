@@ -5675,6 +5675,7 @@ elsewise
 engilded
 engilding
 empacket
+exhaustivity
 engine
 engineer
 engineering
@@ -12457,7 +12458,6 @@ exhaustion
 eiry
 ethnize
 exhaustiveness
-exhaustivity
 exhaustless
 eyght
 exhausts
