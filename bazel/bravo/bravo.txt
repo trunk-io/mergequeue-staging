@@ -4514,7 +4514,6 @@ becurry
 becurse
 becursed
 becurses
-becurtained
 bonier
 becushioned
 baramin
@@ -6180,6 +6179,7 @@ benighten
 benighter
 barbre
 benign
+becurtained
 benignancy
 benignant
 beatus
