@@ -9052,7 +9052,6 @@ eriometer
 eryon
 eriophyid
 eriophyidae
-echeneidae
 eryopid
 eryopsid
 eriosoma
@@ -12303,6 +12302,7 @@ executry
 executrices
 embrectomy
 executrix
+echeneidae
 executrixes
 executrixship
 exede
