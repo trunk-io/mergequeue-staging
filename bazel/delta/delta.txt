@@ -7744,6 +7744,7 @@ devoiced
 devoices
 dinkum
 devoicing
+dorsifixed
 devoid
 devoir
 dissymmetrically
@@ -15818,7 +15819,6 @@ dorsicolumn
 decayable
 dorsicommissure
 dorsiferous
-dorsifixed
 dorsiflex
 dorsiflexion
 digressory
