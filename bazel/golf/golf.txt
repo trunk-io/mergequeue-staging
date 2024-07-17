@@ -3341,7 +3341,6 @@ geranomorphae
 goulan
 gerara
 gormandizer
-glutinative
 gaiter
 geometrine
 gerardia
@@ -5824,6 +5823,7 @@ gloomth
 grippal
 gasper
 glop
+glutinative
 glopnen
 glops
 glor
