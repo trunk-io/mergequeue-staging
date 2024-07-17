@@ -7062,7 +7062,6 @@ bespangling
 bespattered
 bespattering
 bespatterment
-bespatters
 bespawl
 bespeak
 biremes
@@ -16287,6 +16286,7 @@ brumous
 brumstane
 brumstone
 brunches
+bespatters
 benchmarks
 brunching
 brune
