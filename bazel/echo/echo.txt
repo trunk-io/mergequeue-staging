@@ -2239,7 +2239,6 @@ elecives
 enterograph
 electability
 electary
-elected
 enthraldom
 electic
 electioneer
@@ -13060,6 +13059,7 @@ experience
 epizoic
 enkindled
 experienceable
+elected
 experienced
 experiencer
 experiencible
