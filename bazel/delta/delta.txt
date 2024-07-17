@@ -4379,7 +4379,6 @@ demark
 dactylist
 demarkation
 decollation
-demarking
 demarks
 demasculinisation
 demasculinise
@@ -8336,6 +8335,7 @@ dialysation
 dialysed
 defoliations
 dialysers
+demarking
 dialysing
 dialysis
 dialystaminous
