@@ -2667,7 +2667,6 @@ basalia
 barium
 bariums
 barkan
-bagheli
 barkbound
 bleacherite
 barkcutter
@@ -9608,6 +9607,7 @@ bassaris
 burnets
 biscuits
 biscutate
+bagheli
 bisdiapason
 bucklandite
 butomaceous
