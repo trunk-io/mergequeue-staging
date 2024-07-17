@@ -836,7 +836,6 @@ fans
 fant
 fantaddish
 funori
-fenestrato
 fecit
 frieze
 figgle
@@ -11134,6 +11133,7 @@ fundi
 fundic
 fictionmonger
 fundiform
+fenestrato
 foraging
 funding
 funditor
