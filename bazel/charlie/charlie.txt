@@ -2620,7 +2620,6 @@ cannonade
 cannonaded
 cannonades
 cannonarchy
-cannonball
 cannonballed
 cannonballing
 cannonballs
@@ -28220,6 +28219,7 @@ crannies
 chymify
 compiler
 crannock
+cannonball
 corvktte
 chalkography
 canephorus
