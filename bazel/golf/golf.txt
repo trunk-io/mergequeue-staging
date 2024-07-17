@@ -3048,6 +3048,7 @@ glossotherium
 gelts
 geomechanics
 geodetics
+globulous
 geodiatropism
 geodiferous
 geodynamic
@@ -8241,7 +8242,6 @@ grapple
 grappled
 gallooned
 grapples
-globulous
 grizzled
 grappling
 grapsidae
