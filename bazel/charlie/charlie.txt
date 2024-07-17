@@ -3260,7 +3260,6 @@ caprification
 caprifig
 caprifigs
 caprifoil
-caprifole
 caprifoliaceous
 caprifolium
 capriform
@@ -24115,6 +24114,7 @@ convergences
 convergency
 convergent
 convergently
+caprifole
 converges
 converginerved
 converging
