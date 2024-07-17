@@ -6671,7 +6671,6 @@ enterostomy
 enterostomies
 enterotome
 enterotomy
-enterotoxemia
 enterotoxication
 essence
 enterotoxin
@@ -11420,6 +11419,7 @@ evenglow
 enfavor
 epagomenous
 east
+enterotoxemia
 ethnarch
 endotracheal
 evenhand
