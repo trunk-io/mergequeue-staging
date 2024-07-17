@@ -8597,6 +8597,7 @@ farstepped
 ferally
 footing
 forspoken
+forweend
 fowk
 floccipend
 fumistery
@@ -8749,7 +8750,6 @@ fumaroles
 filicinian
 forweary
 forwearying
-forweend
 forwelk
 forwent
 forwoden
