@@ -10934,7 +10934,6 @@ divertissant
 disaccharose
 disaccommodate
 disaccommodation
-disaccomodate
 disaccordance
 disaccordant
 decaedron
@@ -13783,6 +13782,7 @@ dreamt
 distain
 daikering
 distains
+disaccomodate
 distal
 deonerate
 distalia
