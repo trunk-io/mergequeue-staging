@@ -20562,7 +20562,6 @@ compatible
 compatibleness
 compatibles
 compatience
-compatient
 compatriot
 compatriotism
 compatriots
@@ -24811,6 +24810,7 @@ coprophyte
 coprophobia
 coprophobic
 coproprietor
+compatient
 congruence
 coproprietorship
 coprose
