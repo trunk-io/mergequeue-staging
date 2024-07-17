@@ -9586,7 +9586,6 @@ flenches
 feddan
 freeborn
 freechurchism
-floretum
 freed
 fabricated
 fibroins
@@ -11285,6 +11284,7 @@ funnymen
 funniment
 funniness
 forebreast
+floretum
 funt
 furacana
 furaciousness
