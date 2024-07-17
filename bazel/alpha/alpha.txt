@@ -4022,6 +4022,7 @@ adjoints
 adjourn
 aubretia
 adjournal
+arsenicking
 adjourned
 adjourning
 adjournments
@@ -20387,7 +20388,6 @@ arsenicating
 arsenicism
 arsenicize
 arsenicked
-arsenicking
 arsenicophagy
 alpasotes
 arsenics
