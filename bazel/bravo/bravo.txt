@@ -3013,7 +3013,6 @@ barricados
 barricoes
 biologicohumanistic
 barriers
-barriguda
 barrigudos
 broadaxe
 backropes
@@ -15544,6 +15543,7 @@ bleaks
 burins
 brither
 brython
+barriguda
 brythonic
 blimy
 british
