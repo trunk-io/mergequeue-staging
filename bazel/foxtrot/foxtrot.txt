@@ -4376,7 +4376,6 @@ foliator
 fishnets
 florid
 fishpole
-foreproduct
 fishpoles
 fishponds
 fishskin
@@ -5721,6 +5720,7 @@ flitwite
 flivvers
 fornices
 flagstone
+foreproduct
 flyway
 flyways
 fissicostate
