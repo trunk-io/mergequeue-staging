@@ -4528,6 +4528,7 @@ carotenes
 chaser
 carotenoid
 carotic
+chemicked
 carotid
 carotidal
 carotidean
@@ -9868,7 +9869,6 @@ chemicalize
 chemically
 chemicals
 chemick
-chemicked
 chemicker
 chemicking
 chemicoastrological
