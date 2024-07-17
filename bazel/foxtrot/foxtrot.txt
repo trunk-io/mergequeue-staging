@@ -6614,6 +6614,7 @@ frostweed
 fn
 fervidor
 flashet
+fameworthy
 footcloth
 foalfoot
 fleing
@@ -11499,7 +11500,6 @@ fijian
 funking
 fretsaw
 furrows
-fameworthy
 fluky
 foreglimpse
 furstone

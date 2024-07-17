@@ -1310,7 +1310,6 @@ girdler
 gardbrace
 garden
 gardener
-gardeners
 gatha
 gardenership
 gardenful
@@ -7277,6 +7276,7 @@ gasmetophytic
 gentlemanship
 giles
 gorse
+gardeners
 givenness
 gorsebird
 gorsechat
