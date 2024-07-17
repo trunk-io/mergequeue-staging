@@ -2517,7 +2517,6 @@ bareca
 bared
 barefaced
 bombacaceous
-barefacedness
 bedrugging
 barefisted
 branchiopodan
@@ -3587,6 +3586,7 @@ bathysmal
 bathysophic
 bethabara
 baudery
+barefacedness
 bathysphere
 bister
 beneplacit
