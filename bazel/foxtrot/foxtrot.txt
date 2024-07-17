@@ -4307,6 +4307,7 @@ fish
 fishability
 fishable
 friezing
+floury
 fishback
 forded
 fistulatous
@@ -8905,7 +8906,6 @@ foumart
 foun
 frond
 faulds
-floury
 fermentitious
 fertilizations
 fibrolitic
