@@ -4548,7 +4548,6 @@ akkadist
 adulteries
 adulterous
 adulterousness
-adulthood
 adulticidal
 adulticide
 appetibility
@@ -15354,6 +15353,7 @@ antiformant
 altometer
 antiformin
 antifouler
+adulthood
 afterdrops
 androseme
 antiaggressionist
