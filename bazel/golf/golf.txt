@@ -3688,7 +3688,6 @@ glycolide
 getas
 gluttei
 garths
-getatable
 giansar
 gausterer
 getatableness
@@ -8137,6 +8136,7 @@ grossness
 grapeflower
 grapefruit
 grossierete
+getatable
 geminiform
 grapeful
 grapey
