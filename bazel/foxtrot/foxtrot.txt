@@ -250,7 +250,6 @@ faders
 fruitful
 fortyfive
 fowlerite
-fadges
 fustle
 fadingly
 fadings
@@ -1670,6 +1669,7 @@ fipenny
 fcomp
 furling
 fractal
+fadges
 fconvert
 farcin
 fcp
