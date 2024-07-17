@@ -2029,7 +2029,6 @@ felicitous
 flunkyish
 felicitousness
 felid
-felids
 feliform
 felinae
 feline
@@ -3314,6 +3313,7 @@ flaubert
 fiendlike
 feverously
 fip
+felids
 fiends
 frontiers
 fient
