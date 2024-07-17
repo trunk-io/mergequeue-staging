@@ -2300,7 +2300,6 @@ electroanalytic
 emersion
 electroanalytical
 eructative
-ergosterol
 electroballistics
 electrobath
 electrobiological
@@ -13340,6 +13339,7 @@ experts
 expressibly
 elboic
 expression
+ergosterol
 epitomate
 expressionable
 expressional
