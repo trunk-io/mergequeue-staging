@@ -6573,7 +6573,6 @@ cedrol
 cedron
 centibar
 cedrus
-cedula
 cedulas
 cedule
 compartmentalizing
@@ -10980,6 +10979,7 @@ chirks
 chirl
 cadetcy
 chirmed
+cedula
 chirming
 chirms
 chiro
