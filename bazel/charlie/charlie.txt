@@ -3138,6 +3138,7 @@ clankingness
 capitulars
 curr
 cacomixl
+cope
 capitulate
 capitulated
 conclude
@@ -24554,7 +24555,6 @@ copatron
 copatroness
 contraflow
 copatrons
-cope
 copeck
 copecks
 captivatrix
