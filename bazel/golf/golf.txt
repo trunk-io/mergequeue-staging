@@ -2719,7 +2719,6 @@ geneva
 gibbsite
 genevan
 gassendist
-genevas
 genevese
 genevieve
 genevoise
@@ -4210,6 +4209,7 @@ ginkgoes
 gilse
 gazettes
 gilsonite
+genevas
 gilten
 gilty
 gilttail
