@@ -5227,7 +5227,6 @@ begird
 begirding
 badinerie
 begirdling
-begirds
 baillie
 begirt
 blued
@@ -13632,6 +13631,7 @@ boused
 bouser
 bogomil
 bouses
+begirds
 bousy
 bousing
 besteads
