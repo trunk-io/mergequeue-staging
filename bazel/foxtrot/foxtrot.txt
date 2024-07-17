@@ -2716,7 +2716,6 @@ forwaste
 freight
 flots
 femalize
-festshrifts
 festuca
 frusla
 filefish
@@ -9878,6 +9877,7 @@ fress
 fresser
 forstraught
 fretfully
+festshrifts
 fretish
 feeless
 folkmot
