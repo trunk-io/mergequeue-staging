@@ -1969,6 +1969,7 @@ bandlet
 bandlimit
 bandlimiting
 bandman
+bicornous
 bandmaster
 bandmasters
 bandog
@@ -8056,7 +8057,6 @@ biconvex
 bicornate
 bicornes
 bochur
-bicornous
 bicornuate
 bicornuous
 bicornute
