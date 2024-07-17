@@ -3162,6 +3162,7 @@ corruptibility
 caplock
 capmaker
 cordmaker
+coelomate
 capmaking
 capman
 capmint
@@ -18018,7 +18019,6 @@ coelogyne
 coeloglossum
 coelom
 coeloma
-coelomate
 coelomatic
 coelomatous
 coelome
