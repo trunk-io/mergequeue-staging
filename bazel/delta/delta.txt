@@ -7191,7 +7191,6 @@ detecter
 detecters
 detectible
 detection
-depleteable
 dualities
 detective
 detector
@@ -7263,6 +7262,7 @@ determining
 determinism
 determinist
 deterministic
+depleteable
 decennially
 determinists
 deterrability

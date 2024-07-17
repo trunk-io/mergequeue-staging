@@ -8527,7 +8527,6 @@ biliprasin
 bilipurpurin
 bond
 bilirubinic
-bitwise
 bilirubinuria
 biliteralism
 bilithon
@@ -11200,6 +11199,7 @@ beglobed
 bracer
 blackboy
 blouse
+bitwise
 bloused
 blouselike
 blouses
