@@ -812,7 +812,6 @@ gelogenic
 galvanotaxis
 gozell
 galvanotherapy
-galvanothermometer
 galvanotropism
 galvo
 gunfight
@@ -9740,6 +9739,7 @@ gruntles
 gruntling
 galvanoplastics
 gamasid
+galvanothermometer
 galaxiidae
 gruppo
 goldbugs
