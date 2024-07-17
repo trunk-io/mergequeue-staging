@@ -4115,7 +4115,6 @@ deletory
 deboise
 delimitation
 delimitations
-delimited
 delimiter
 derelicts
 delimiting
@@ -4865,6 +4864,7 @@ demonstrability
 demonstrable
 demonstrableness
 demonstrably
+delimited
 demonstrance
 demonstrandum
 daddy
