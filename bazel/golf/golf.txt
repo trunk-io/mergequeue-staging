@@ -4903,7 +4903,6 @@ gromet
 gnocchetti
 gisants
 gise
-gisement
 gismo
 gambled
 gismondite
@@ -6223,6 +6222,7 @@ gluttonise
 gluttonish
 gluttonize
 gluttonized
+gisement
 gluttonizing
 gluttonously
 gluttons
