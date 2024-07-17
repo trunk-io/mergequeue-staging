@@ -701,7 +701,6 @@ genae
 gallopade
 galloped
 goalposts
-grottolike
 galloper
 galloperdix
 grocers
@@ -2319,6 +2318,7 @@ gasproof
 grolier
 gekkonoid
 gallivanter
+grottolike
 gel
 gossans
 gliffing
