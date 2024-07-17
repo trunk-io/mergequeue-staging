@@ -4858,7 +4858,6 @@ gyroplane
 gastropneumatic
 gazers
 giros
-gyroscope
 gyroscopes
 gyred
 gyroscopic
@@ -5821,6 +5820,7 @@ glopnen
 glops
 glor
 glore
+gyroscope
 gigglers
 gerontocratic
 gileno
