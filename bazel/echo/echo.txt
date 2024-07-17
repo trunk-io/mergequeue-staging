@@ -4986,7 +4986,6 @@ echovirus
 enskyed
 endemics
 endorsable
-endemiology
 endemiological
 endemisms
 endenize
@@ -7554,6 +7553,7 @@ epibolic
 eident
 epibolism
 eusebian
+endemiology
 epiboulangerite
 epibranchial
 epical
