@@ -1132,7 +1132,6 @@ barograms
 bayonetted
 bayonetting
 bayong
-beamers
 bairagi
 bedrop
 brothy
@@ -9035,6 +9034,7 @@ biometrist
 brendan
 biomicroscope
 bulbous
+beamers
 baseline
 brulee
 biomorphic
