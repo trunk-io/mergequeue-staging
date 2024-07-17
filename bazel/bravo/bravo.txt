@@ -112,7 +112,6 @@ babylonism
 bauld
 backtrace
 babylonite
-babylonize
 babine
 babingtonite
 bacteriotrypsin
@@ -12105,6 +12104,7 @@ boletaceae
 batell
 bolete
 blepharitic
+babylonize
 boletes
 boleti
 burnishing
