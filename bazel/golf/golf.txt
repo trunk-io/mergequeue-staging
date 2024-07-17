@@ -1986,6 +1986,7 @@ grimaces
 gaunty
 gauntleted
 gauntleting
+governor
 gauntlets
 gauntness
 gaur
@@ -7518,7 +7519,6 @@ greensickness
 gynecocratic
 gambrelled
 governmentally
-governor
 governors
 grype
 governs
