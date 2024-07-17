@@ -6940,7 +6940,6 @@ chemotropic
 cenospecies
 custodiam
 consentient
-cenospecific
 cenospecifically
 cenotaphy
 cenotaphies
@@ -27778,6 +27777,7 @@ condemned
 coxodynia
 coupee
 coxofemoral
+cenospecific
 coxswain
 coxswained
 cultic
