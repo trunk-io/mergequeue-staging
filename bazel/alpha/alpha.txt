@@ -420,7 +420,6 @@ abidance
 abidances
 abidden
 abided
-abider
 abides
 abidi
 abiding
@@ -23849,6 +23848,7 @@ authoriser
 authoritarian
 authoritarianism
 authoritarianisms
+abider
 apulian
 authoritative
 aspidiotus
