@@ -3698,7 +3698,6 @@ embrittle
 espouser
 embrittling
 embryulci
-embryulcia
 embryulculci
 embryulcus
 excursionists
@@ -10335,6 +10334,7 @@ ethicosocial
 ethide
 expoliate
 ethidene
+embryulcia
 ethyl
 exuviated
 electroplates
