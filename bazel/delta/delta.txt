@@ -5736,7 +5736,6 @@ deducts
 dorsobranchiata
 deplorably
 deplorate
-deploration
 delimes
 deplored
 du
@@ -14203,6 +14202,7 @@ dithecal
 dithecous
 ditheism
 dimorphite
+deploration
 depthometer
 ditheistic
 ditheistical
