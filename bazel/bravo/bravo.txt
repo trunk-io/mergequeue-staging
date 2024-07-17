@@ -4164,7 +4164,6 @@ beasts
 beckelite
 bruiters
 beat
-beata
 beatable
 beatably
 beatas
@@ -17972,6 +17971,7 @@ besmudged
 busheling
 bushelling
 bushelman
+beata
 bushelmen
 beerhouse
 bowl
