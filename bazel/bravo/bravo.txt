@@ -6703,7 +6703,6 @@ beriming
 bering
 beringed
 beringite
-berith
 berytidae
 beryx
 berkeley
@@ -12655,6 +12654,7 @@ bladderweed
 begonia
 bagleaves
 bookish
+berith
 bismuth
 bookishly
 bolus

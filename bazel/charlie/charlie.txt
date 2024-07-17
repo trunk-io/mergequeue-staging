@@ -11774,6 +11774,7 @@ chondroalbuminoid
 chondroangioma
 chondroarthritis
 chondroblastoma
+clapdish
 chondrocarcinoma
 chondrocoracoid
 chondrocostal
@@ -15496,7 +15497,6 @@ clapboarding
 clapboards
 clapbread
 clapcake
-clapdish
 clape
 clapholt
 carrigeen
