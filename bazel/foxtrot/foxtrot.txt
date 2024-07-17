@@ -4322,7 +4322,6 @@ fishbolts
 faultless
 fishbone
 fishbowl
-fisherboat
 fisherboy
 fingerwise
 fisheress
@@ -6018,6 +6017,7 @@ floriparous
 floripondio
 fantasts
 floriscope
+fisherboat
 floristics
 florisugent
 formals
