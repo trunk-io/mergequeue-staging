@@ -10730,7 +10730,6 @@ checkrooms
 chymia
 chymic
 chymics
-chymiferous
 chymified
 chymifying
 chiming
@@ -18086,6 +18085,7 @@ catalatic
 coenamorment
 coenamourment
 coenanthium
+chymiferous
 coendidae
 coendou
 crawlers
