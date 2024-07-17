@@ -1697,7 +1697,6 @@ aludra
 accompaniment
 accompanimental
 accompaniments
-accompanist
 agrestis
 accompanists
 accomplement
@@ -19349,6 +19348,7 @@ arblast
 areg
 aregenerative
 areic
+accompanist
 areito
 athonite
 aren
