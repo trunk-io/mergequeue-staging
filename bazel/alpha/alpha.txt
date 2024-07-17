@@ -2571,7 +2571,6 @@ ack
 ackees
 ackey
 aeriferous
-ackeys
 ackman
 ackmen
 argentojarosite
@@ -16063,6 +16062,7 @@ antiqua
 antiquary
 anapeiratic
 antiquarian
+ackeys
 apoplectiform
 antiquarianize
 antiquarianly
