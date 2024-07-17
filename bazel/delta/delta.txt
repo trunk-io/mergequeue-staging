@@ -9251,6 +9251,7 @@ deviated
 dielectric
 dielectrical
 dielectrics
+decemplex
 debarkation
 dilating
 dilated
@@ -14517,7 +14518,6 @@ divorcer
 defiguration
 divorcers
 divorces
-decemplex
 damourite
 divorcible
 divorcing
