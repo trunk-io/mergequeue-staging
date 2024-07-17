@@ -1462,7 +1462,6 @@ garnison
 garniture
 garon
 garoo
-garotes
 garotte
 geogenesis
 garotted
@@ -5395,6 +5394,7 @@ glent
 glessite
 glew
 gallied
+garotes
 gliadine
 gride
 glib

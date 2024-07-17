@@ -2640,7 +2640,6 @@ electrotheraputic
 electrotheraputical
 electrotheraputically
 expurgates
-electrothermally
 encroachments
 electrothermancy
 electrothermic
@@ -9342,6 +9341,7 @@ error
 errordump
 ejicient
 errorful
+electrothermally
 errorist
 explicably
 ebriosity
