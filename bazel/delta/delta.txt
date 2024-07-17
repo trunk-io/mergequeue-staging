@@ -8785,7 +8785,6 @@ diazotizability
 diazotizable
 diazotization
 diazotize
-declivities
 diazotized
 diazotizing
 dib
@@ -10609,6 +10608,7 @@ diplohedron
 diploic
 diploid
 diploidic
+declivities
 diploidion
 disney
 doryman
