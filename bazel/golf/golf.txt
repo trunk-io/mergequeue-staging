@@ -5417,6 +5417,7 @@ geostrategist
 gaoler
 glyceria
 glyceric
+getatability
 glyceridic
 gumlike
 glyceryls
@@ -6647,7 +6648,6 @@ goldenwing
 golder
 goldest
 glucagon
-getatability
 goldfields
 greengroceries
 goldfinch

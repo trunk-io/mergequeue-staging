@@ -534,6 +534,7 @@ eched
 echelon
 echeloned
 erysiphe
+experimental
 echelonment
 ekron
 echelons
@@ -13078,7 +13079,6 @@ extrapleural
 eeliest
 espier
 experiment
-experimental
 essentia
 embroilments
 extradited
