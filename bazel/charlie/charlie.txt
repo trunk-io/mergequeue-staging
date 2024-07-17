@@ -2166,6 +2166,7 @@ canadite
 canadol
 canafistola
 complanar
+chiliaedron
 craftsmanly
 canafistolo
 canafistulo
@@ -10563,7 +10564,6 @@ chili
 climbingfishes
 chiliadic
 chiliads
-chiliaedron
 chiliagon
 closterium
 chiliahedron
