@@ -7278,7 +7278,6 @@ endromis
 eyepoints
 eole
 eolian
-eolipiles
 eduction
 eolith
 eundem
@@ -9609,6 +9608,7 @@ eugenesis
 esd
 effluve
 excogitated
+eolipiles
 eccentrate
 esdragol
 exhaustive
