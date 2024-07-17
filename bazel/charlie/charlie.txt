@@ -8996,7 +8996,6 @@ charcuteries
 carniferrin
 copyfitting
 colzas
-charcutiers
 chard
 chards
 chiliadal
@@ -11401,6 +11400,7 @@ checkrail
 chloromelanite
 chlorometer
 chlorometry
+charcutiers
 chlorometric
 coulombic
 chloromycetin
