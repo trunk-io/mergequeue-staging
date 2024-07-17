@@ -6074,7 +6074,6 @@ eyewashes
 enmove
 enmuffle
 enneacontahedron
-ennead
 enneadic
 enneaeteric
 enneagonal
@@ -8573,6 +8572,7 @@ egipto
 equations
 expunge
 equative
+ennead
 equator
 etherial
 equatoreal
