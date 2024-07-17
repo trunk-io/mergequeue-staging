@@ -11600,7 +11600,6 @@ boathouses
 boatyard
 boatyards
 boatie
-boatings
 boation
 boatkeeper
 boatless
@@ -14933,6 +14932,7 @@ breechloading
 breed
 benedicta
 breedable
+boatings
 breedbate
 breeders
 breedy

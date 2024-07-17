@@ -517,6 +517,7 @@ cadmiumize
 cadmiums
 cadmus
 cadouk
+colorate
 cadrans
 coercer
 cadre
@@ -19419,7 +19420,6 @@ colorably
 coloradans
 colorado
 colorant
-colorate
 coloration
 colorational
 colorationally
