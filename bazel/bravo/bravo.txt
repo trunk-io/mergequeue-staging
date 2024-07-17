@@ -7403,7 +7403,6 @@ betrim
 betrinket
 betroth
 blunts
-betrothals
 begalls
 betrothing
 berinse
@@ -12388,6 +12387,7 @@ borghalpenny
 bradypepsy
 breviger
 bezels
+betrothals
 brachiofaciolingual
 bonchief
 berberins
