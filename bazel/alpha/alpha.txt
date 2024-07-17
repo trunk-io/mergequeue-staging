@@ -5928,7 +5928,6 @@ agaricine
 agaricinic
 agaricoid
 agarics
-agaricus
 agaristidae
 astronautics
 agarose
@@ -10662,6 +10661,7 @@ aminoacetanilide
 aminoacetic
 aphenoscope
 aminoacetone
+agaricus
 arbitrary
 aminoacetophenetidine
 aminoacetophenone
