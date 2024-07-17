@@ -913,6 +913,7 @@ gamelike
 gonfalonier
 guiro
 gamelion
+gauntness
 gamelotte
 glomeroporphyritic
 guruship
@@ -2000,7 +2001,6 @@ gaunty
 gauntleted
 gauntleting
 gauntlets
-gauntness
 gaur
 gaurian
 gunbright
