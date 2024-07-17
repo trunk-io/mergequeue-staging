@@ -1000,7 +1000,6 @@ fluoroid
 floorway
 funicule
 farfetched
-farfugium
 fargite
 fill
 fargood
@@ -1096,6 +1095,7 @@ flyaways
 fractureproof
 fo
 farrant
+farfugium
 fruitions
 forekeel
 farreate
