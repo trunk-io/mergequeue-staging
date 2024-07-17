@@ -738,7 +738,6 @@ bacterioscopical
 bacterioscopist
 bacteriosis
 bacteriosolvent
-bacteriostasis
 bacteriostatic
 bacteriostatically
 bacteriotherapeutic
@@ -7810,6 +7809,7 @@ benzonaphthol
 boogerman
 bahut
 bibenzyl
+bacteriostasis
 bibio
 books
 bibionid
