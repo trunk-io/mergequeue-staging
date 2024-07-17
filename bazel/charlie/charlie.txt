@@ -15410,7 +15410,6 @@ clamorous
 clamorously
 clamorousness
 clamorsome
-clamour
 chrysochloridae
 clamoured
 clamourer
@@ -29851,6 +29850,7 @@ crossbones
 crossbow
 crossbowmen
 crossbows
+clamour
 crossbreds
 crossbreed
 crossbreeding
