@@ -5615,6 +5615,7 @@ glisk
 glisky
 glissader
 gauche
+grulla
 glissando
 gybe
 gowning
@@ -8957,7 +8958,6 @@ grifter
 gluttonised
 grig
 grignet
-grulla
 grigris
 goncalo
 gleesomeness
