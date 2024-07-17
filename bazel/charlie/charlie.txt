@@ -24118,7 +24118,6 @@ convergent
 convergently
 converges
 converginerved
-converging
 conversable
 conversableness
 conversably
@@ -27527,6 +27526,7 @@ coverages
 coverall
 coveralled
 coveralls
+converging
 crookheaded
 coverchief
 cerberean
