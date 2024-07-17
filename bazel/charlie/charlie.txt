@@ -11224,7 +11224,6 @@ chlamydomonas
 chlamydophore
 cussword
 chlamydosaurus
-comparograph
 chlamydoselachidae
 clithral
 chlamydoselachus
@@ -15716,6 +15715,7 @@ clathrinidae
 clathrose
 clathrulate
 clathrus
+comparograph
 clatsop
 clatter
 clattered
