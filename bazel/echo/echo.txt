@@ -6818,7 +6818,6 @@ entocalcaneal
 entocarotid
 entocele
 entocyemate
-entocyst
 enows
 ensheaths
 entocoel
@@ -7992,6 +7991,7 @@ epinephelidae
 epinette
 epineural
 enosises
+entocyst
 epineurial
 epineurium
 ezba
