@@ -6226,7 +6226,6 @@ dermas
 downlinked
 dermaskeleton
 dermatagra
-dermatalgia
 demifusion
 dermatatrophia
 darii
@@ -8926,6 +8925,7 @@ dichotic
 dichotically
 dichotomy
 displeasurement
+dermatalgia
 divagating
 dipotassic
 declarators
