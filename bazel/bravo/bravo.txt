@@ -15084,7 +15084,6 @@ brewhouses
 benedictionale
 bowellike
 brewing
-brewings
 brewis
 brewises
 busked
@@ -17949,6 +17948,7 @@ busboy
 busboys
 buscarl
 bused
+brewings
 bushbashing
 bewreak
 badgeringly
