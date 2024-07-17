@@ -1498,7 +1498,6 @@ faultage
 favorless
 faulted
 filix
-faulter
 fragmentization
 faultfinder
 fretize
@@ -8956,6 +8955,7 @@ fountainwise
 freeing
 fountful
 founts
+faulter
 fikie
 figbird
 foeship
