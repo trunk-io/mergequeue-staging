@@ -5381,7 +5381,6 @@ animize
 affiche
 affidation
 affidavy
-affidavit
 affies
 affying
 affiliable
@@ -12029,6 +12028,7 @@ astrocompass
 anaretical
 anarya
 anaryan
+affidavit
 anarithia
 anarithmia
 anarthria
