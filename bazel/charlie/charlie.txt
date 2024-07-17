@@ -15008,7 +15008,6 @@ cytopenia
 cytophaga
 cytophagy
 cytophagic
-cytophagous
 cytopharynges
 cytopharynxes
 cytophil
@@ -22503,6 +22502,7 @@ chutneys
 cuvierian
 conjointly
 conjointment
+cytophagous
 conjointness
 conjoints
 conjon
