@@ -1789,7 +1789,6 @@ enforces
 eyehooks
 ecch
 eyey
-eyeing
 eyeish
 endungeon
 eyelash
@@ -12786,6 +12785,7 @@ ejusdem
 exorcism
 epileptically
 exorcisory
+eyeing
 exorcist
 exorcista
 emporium
