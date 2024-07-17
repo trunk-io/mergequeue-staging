@@ -3037,7 +3037,6 @@ barroom
 basibregmatic
 barrooms
 barrow
-barrowcoat
 barrowist
 barrowman
 balanitis
@@ -15025,6 +15024,7 @@ batholiths
 brev
 breve
 breves
+barrowcoat
 brevet
 bushlike
 basementward
