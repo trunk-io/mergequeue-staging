@@ -12591,7 +12591,6 @@ anemoclastic
 agee
 anemograph
 anemography
-anemographic
 anemographically
 avidious
 aphasiacs
@@ -18321,6 +18320,7 @@ arabica
 arabicism
 adynamic
 arabiyeh
+anemographic
 arability
 arabine
 arabinose
