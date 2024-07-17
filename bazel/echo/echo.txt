@@ -4927,7 +4927,6 @@ endamoebas
 endamoebiasis
 endamoebic
 endangeitis
-endanger
 embalmers
 endangered
 endangering
@@ -5372,6 +5371,7 @@ empoisoner
 eliminable
 extralinguistically
 ennui
+endanger
 encaptivate
 elaps
 emerituti
