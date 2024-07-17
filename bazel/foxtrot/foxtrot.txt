@@ -1748,7 +1748,6 @@ feathered
 featherer
 featherfoil
 featherheaded
-feathery
 figurante
 fallage
 faintheartedly
@@ -11309,6 +11308,7 @@ furanoid
 furanose
 flavanthrone
 furanoses
+feathery
 foolmonger
 flyable
 furazolidone
