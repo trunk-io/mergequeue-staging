@@ -4220,7 +4220,6 @@ beaufet
 bedlar
 buglewort
 beaufin
-beaufort
 beaugregory
 beaugregories
 boordly
@@ -8948,6 +8947,7 @@ bioelectronics
 bioenergetics
 bioengineering
 bioenvironmental
+beaufort
 bioenvironmentaly
 bioethic
 bioethics
