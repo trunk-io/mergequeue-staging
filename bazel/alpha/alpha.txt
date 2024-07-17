@@ -2979,6 +2979,7 @@ arctium
 areometer
 acromiohumeral
 acromion
+akinesis
 avg
 acromioscapular
 amphibalus
@@ -21890,7 +21891,6 @@ assonant
 assonantal
 assonantic
 assonants
-akinesis
 assonate
 assoria
 assort
