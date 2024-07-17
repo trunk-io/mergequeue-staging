@@ -3142,7 +3142,6 @@ gladiola
 geomaly
 geomalic
 geomalism
-gambesons
 geomancer
 geomancy
 grandmotherhood
@@ -9448,6 +9447,7 @@ groundplot
 getah
 grounds
 givey
+gambesons
 geomorphological
 gastornis
 gros
