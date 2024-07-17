@@ -4707,6 +4707,7 @@ carree
 carrefour
 carrel
 carrels
+coercibly
 carreta
 carreton
 carretta
@@ -18170,7 +18171,6 @@ coercible
 ciceros
 cynips
 coercibleness
-coercibly
 coercion
 coercionary
 coercionist
