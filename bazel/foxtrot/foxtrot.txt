@@ -8282,7 +8282,6 @@ fluxmeter
 fileable
 frey
 foiler
-fumeroot
 fork
 forkable
 forked
@@ -8529,6 +8528,7 @@ forgiven
 fornaxid
 forncast
 fornicate
+fumeroot
 fornicated
 fornicating
 fizzes

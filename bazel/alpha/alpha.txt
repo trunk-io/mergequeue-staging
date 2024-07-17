@@ -22561,7 +22561,6 @@ atheize
 atheizer
 athel
 atheling
-attroupement
 athelings
 accommodating
 athematic
@@ -25198,6 +25197,7 @@ azedarach
 azelate
 azelfafage
 ambaris
+attroupement
 azeotrope
 azeotropy
 azeotropic
