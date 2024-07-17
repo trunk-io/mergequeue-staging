@@ -4073,6 +4073,7 @@ antimetathesis
 adjured
 adjurer
 adjurers
+analyze
 antiglobulin
 acerbated
 autotyphization
@@ -11828,7 +11829,6 @@ analytique
 analyzability
 analyzable
 analyzation
-analyze
 analyzed
 anticoagulants
 analyzer
