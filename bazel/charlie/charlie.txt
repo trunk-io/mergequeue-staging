@@ -6831,7 +6831,6 @@ celoms
 celoscope
 celosia
 celosias
-celotex
 celotomy
 celotomies
 celsia
@@ -16324,6 +16323,7 @@ clinodomatic
 clinodome
 clinograph
 clinographic
+celotex
 clinohedral
 clinohedrite
 clinohumite
