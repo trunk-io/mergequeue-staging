@@ -6675,7 +6675,6 @@ ensemble
 enfoncee
 erepsins
 equilibriria
-epitrophic
 enterozoic
 enterozoon
 enterpillar
@@ -6825,6 +6824,7 @@ entocoel
 entocoele
 entocoelic
 entocondylar
+epitrophic
 entocondyle
 electrums
 elegiast
