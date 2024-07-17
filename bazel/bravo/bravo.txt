@@ -2972,6 +2972,7 @@ broguing
 barrelhouse
 barrelhouses
 barreling
+blacky
 beslash
 barrelled
 barrelling
@@ -4967,7 +4968,6 @@ beerothite
 beerpull
 bees
 beest
-blacky
 beestings
 bawled
 beestride
