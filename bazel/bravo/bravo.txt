@@ -11771,6 +11771,7 @@ boder
 balanophora
 bascule
 boffo
+brickmaking
 bodes
 bodewash
 bodge
@@ -15115,7 +15116,6 @@ barbes
 bribeability
 bailsman
 bulblet
-brickmaking
 bribeable
 bailiwicks
 bribed
