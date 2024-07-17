@@ -1274,7 +1274,6 @@ garad
 gallish
 gyved
 glume
-garageman
 gilgie
 garaging
 garance
@@ -3025,6 +3024,7 @@ geodesy
 gaits
 geodesia
 geodesical
+garageman
 grooviest
 guillotinade
 geodesies
