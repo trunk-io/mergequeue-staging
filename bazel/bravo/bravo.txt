@@ -4785,6 +4785,7 @@ brookflower
 bedside
 bedsit
 bedsite
+barmbrack
 bedsitter
 bedsonia
 barytocelestite
@@ -10504,7 +10505,6 @@ bewater
 blathery
 blathers
 blatherskites
-barmbrack
 blatiform
 blatjang
 blats
