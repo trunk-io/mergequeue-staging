@@ -3573,7 +3573,6 @@ belatticed
 bosomy
 bathylimnetic
 bathylite
-beltwise
 bouillon
 bathylith
 bathylithic
@@ -9398,6 +9397,7 @@ babus
 birdcraft
 birddom
 birde
+beltwise
 blastogenetic
 beboss
 blithely
