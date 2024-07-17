@@ -18164,6 +18164,7 @@ coerced
 coercement
 coercend
 coercends
+cowpen
 coercers
 coerces
 coercibility
@@ -27694,7 +27695,6 @@ cowpats
 cowpea
 cowpeas
 codbank
-cowpen
 cowper
 cowperian
 circumscribable
