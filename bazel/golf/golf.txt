@@ -2001,7 +2001,6 @@ gauntlets
 gauntness
 gaur
 gaurian
-gunbright
 gauric
 gaurs
 gauss
@@ -4978,6 +4977,7 @@ gluey
 gizz
 glossanthrax
 gizzard
+gunbright
 gloeocapsoid
 gizzened
 gizzern
