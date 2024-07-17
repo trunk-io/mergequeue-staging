@@ -15562,7 +15562,6 @@ clarifiers
 clarifies
 clarifying
 clarigation
-computerese
 clarina
 clarinda
 clarine
@@ -19776,6 +19775,7 @@ catholicising
 combinator
 combinatory
 combinatorial
+computerese
 combinatorially
 combinatorics
 combinators
