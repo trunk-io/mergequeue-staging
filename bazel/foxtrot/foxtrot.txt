@@ -895,6 +895,7 @@ faq
 foreshots
 faqir
 far
+folksong
 farad
 fideicommissaries
 faraday
@@ -6929,7 +6930,6 @@ fathearted
 flyingly
 formalizer
 folksinger
-folksong
 folksongs
 folktale
 folktales
