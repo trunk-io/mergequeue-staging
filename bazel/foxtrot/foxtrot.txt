@@ -4129,6 +4129,7 @@ fizzling
 fired
 firedamp
 firedog
+fluidly
 firedragon
 fumblingness
 firedrake
@@ -5601,7 +5602,6 @@ flintless
 flints
 flintstone
 fervescence
-fluidly
 frontspiece
 flyoff
 forestick
