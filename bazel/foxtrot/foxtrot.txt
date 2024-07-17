@@ -5611,6 +5611,7 @@ findable
 forepaws
 frayn
 fluffing
+fumble
 flypaper
 foolfish
 ferns
@@ -10997,7 +10998,6 @@ fumatoria
 fumatorium
 fearedly
 fumatoriums
-fumble
 fixature
 fumbled
 feceris
