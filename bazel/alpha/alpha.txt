@@ -5873,7 +5873,6 @@ arctically
 agalwood
 agalwoods
 agamas
-agamemnon
 annona
 agamete
 aspermatic
@@ -20864,6 +20863,7 @@ acquiescence
 abthain
 arvicole
 arvicolinae
+agamemnon
 aller
 atka
 arviculture
