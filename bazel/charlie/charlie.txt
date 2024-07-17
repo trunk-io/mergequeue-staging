@@ -2147,6 +2147,7 @@ canaan
 cycadlike
 chub
 canaanites
+convolve
 campanero
 canaanitess
 canaanitic
@@ -24267,7 +24268,6 @@ convolutely
 convoluting
 convolutional
 convolutive
-convolve
 convolved
 convolvement
 convolves
