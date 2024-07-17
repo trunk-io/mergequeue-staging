@@ -4441,6 +4441,7 @@ dictionally
 dorsigerous
 dementie
 dementing
+doublette
 diathermy
 dements
 demeore
@@ -16049,7 +16050,6 @@ downstate
 divides
 deorganize
 doubletone
-doublette
 doublewidth
 diiodoform
 doublewords
