@@ -5676,7 +5676,6 @@ flitchen
 flitchplate
 feverfews
 flite
-formating
 flyte
 flites
 functionalist
@@ -8710,6 +8709,7 @@ farleu
 fortuneless
 factoress
 firebreak
+formating
 fortunes
 forerun
 fortuneteller
