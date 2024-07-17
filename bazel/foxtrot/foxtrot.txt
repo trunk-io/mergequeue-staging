@@ -1529,7 +1529,6 @@ faun
 fleawort
 fauna
 formulariser
-faunae
 frakturs
 fishfall
 faunal
@@ -3985,6 +3984,7 @@ ferrelling
 finickingness
 finify
 finific
+faunae
 finikin
 finiking
 filiation
