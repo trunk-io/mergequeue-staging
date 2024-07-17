@@ -4308,6 +4308,7 @@ fish
 fishability
 fishable
 friezing
+fronting
 fishback
 forded
 fistulatous
@@ -10396,7 +10397,6 @@ formularize
 fitter
 furze
 flatuosity
-fronting
 frisette
 filchery
 frenziedly
