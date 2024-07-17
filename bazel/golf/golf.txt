@@ -1950,7 +1950,6 @@ glucoses
 getters
 gambist
 gainless
-gaulding
 geobotany
 gyniolatry
 gloveman
@@ -7386,6 +7385,7 @@ gothicizer
 gambades
 gothish
 gabbroitic
+gaulding
 gothism
 gothite
 girdled
