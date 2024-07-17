@@ -1455,7 +1455,6 @@ acaudal
 apiculus
 acaudelescent
 aminosis
-acaulescence
 acaulescent
 acauline
 acaulose
@@ -5967,6 +5966,7 @@ abada
 agathis
 advoke
 agathism
+acaulescence
 agathist
 agathodaemon
 abysmal
