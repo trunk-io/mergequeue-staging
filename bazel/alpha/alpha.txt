@@ -10066,6 +10066,7 @@ ambiguities
 ambiguous
 adviceful
 ambiguously
+armenoid
 ambiguousness
 ambilateral
 ambilateralaterally
@@ -19939,7 +19940,6 @@ armenian
 armenians
 armenite
 angolese
-armenoid
 armer
 armeria
 armeriaceae
