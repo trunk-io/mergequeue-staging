@@ -5852,6 +5852,7 @@ floodboard
 floodcock
 flooded
 flooder
+frontward
 fluids
 fishway
 flooders
@@ -9310,7 +9311,6 @@ fudging
 framer
 fussify
 frameshift
-frontward
 forebodes
 fetiales
 federations
