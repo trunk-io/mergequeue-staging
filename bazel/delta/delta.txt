@@ -565,6 +565,7 @@ damageably
 damaged
 delightable
 damagement
+decagram
 damageous
 disyllabizing
 dao
@@ -1975,7 +1976,6 @@ dabbers
 decagon
 decagonal
 decagonally
-decagram
 decagramme
 decahedra
 decahedral
