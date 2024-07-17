@@ -1283,7 +1283,6 @@ academicianship
 academics
 academies
 academise
-academising
 academist
 akov
 academite
@@ -14100,6 +14099,7 @@ antagonizable
 anadiplosis
 aeriform
 antagonize
+academising
 antagonized
 antagonizer
 acquests
