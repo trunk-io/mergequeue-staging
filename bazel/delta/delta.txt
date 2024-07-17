@@ -2575,6 +2575,7 @@ decolonisation
 decolonise
 decolonised
 decolonising
+dicast
 decolonization
 decolonize
 dominant
@@ -8857,7 +8858,6 @@ dicaryophyte
 disquantity
 dicaryotic
 dicarpellary
-dicast
 delegative
 dicastery
 dicasteries
