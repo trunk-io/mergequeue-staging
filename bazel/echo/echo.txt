@@ -1718,7 +1718,6 @@ entreatingly
 eidently
 endearments
 expropriations
-eider
 existential
 eiderdown
 electromagnetics
@@ -12591,6 +12590,7 @@ existibility
 existible
 extant
 existing
+eider
 existless
 enamelling
 eligibles
