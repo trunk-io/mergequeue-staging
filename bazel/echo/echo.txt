@@ -2869,7 +2869,6 @@ encatarrhaphy
 elfkin
 enterorrhea
 elderwoman
-elflock
 elflocks
 elfship
 elfwife
@@ -10371,6 +10370,7 @@ ethylmorphine
 ethyls
 ethylsulphuric
 ethylthioethane
+elflock
 eupepticity
 extensity
 ethylthioether

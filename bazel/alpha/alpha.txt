@@ -1633,7 +1633,6 @@ acclimatise
 acclimatised
 albuminometer
 asclepieion
-acclimatiser
 acclimatization
 apokreos
 acclimatize
@@ -6002,6 +6001,7 @@ agedly
 agedness
 alloantibody
 ageing
+acclimatiser
 ageings
 ageism
 ageist
