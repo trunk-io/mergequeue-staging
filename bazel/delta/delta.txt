@@ -2909,7 +2909,6 @@ dedit
 dermophobe
 deditician
 dediticiancy
-dedoggerelize
 dedogmatize
 dedolation
 disconformable
@@ -7558,6 +7557,7 @@ devastators
 devaster
 devata
 devaul
+dedoggerelize
 devchar
 degaussed
 devein
