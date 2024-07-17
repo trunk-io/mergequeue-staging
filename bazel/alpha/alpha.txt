@@ -1440,6 +1440,7 @@ asyndesis
 acataphasia
 acatastasia
 acatastatic
+arrowing
 acate
 acategorical
 acater
@@ -20355,7 +20356,6 @@ arrowbush
 arrowheaded
 arrowheads
 arrowy
-arrowing
 arrowleaf
 arrowless
 arrowlet

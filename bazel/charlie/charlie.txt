@@ -27544,7 +27544,6 @@ coverlets
 coverlid
 coverlids
 cachucho
-covers
 coversed
 coverside
 coversine
@@ -28872,6 +28871,7 @@ cretinic
 cretinism
 cretinistic
 cretinization
+covers
 cretinized
 cretinizing
 cretinoid
