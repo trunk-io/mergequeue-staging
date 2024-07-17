@@ -3049,7 +3049,6 @@ gelts
 geomechanics
 geodetics
 geodiatropism
-geodiferous
 geodynamic
 geodynamical
 gout
@@ -5807,6 +5806,7 @@ guidon
 glonoine
 granulocyte
 gloomful
+geodiferous
 gloomy
 gloomier
 guastalline
