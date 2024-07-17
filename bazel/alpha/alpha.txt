@@ -13906,6 +13906,7 @@ anophthalmus
 anopia
 amyelia
 anopias
+ataxiaphasia
 anopisthograph
 anthroponomical
 anopisthographic
@@ -22467,7 +22468,6 @@ ataxiagram
 ataxiagraph
 antievolution
 ataxiameter
-ataxiaphasia
 ataxias
 ataxies
 altezza
