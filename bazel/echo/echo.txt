@@ -1283,6 +1283,7 @@ effaced
 effacement
 effacer
 exungulate
+epenthesis
 effacers
 effluxes
 effaces
@@ -7412,7 +7413,6 @@ encamping
 ependymitis
 ependymoma
 epenetic
-epenthesis
 engore
 epenthesize
 encores
