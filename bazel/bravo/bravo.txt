@@ -230,7 +230,6 @@ bacchantic
 bigmouth
 bacchants
 bacchar
-birders
 baccharis
 baccharoid
 brisks
@@ -15273,6 +15272,7 @@ briers
 brierwood
 bries
 brig
+birders
 bryaceous
 brigade
 brigaded
