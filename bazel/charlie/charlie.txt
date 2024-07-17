@@ -1963,7 +1963,6 @@ camp
 campa
 campagi
 coquettes
-crosslets
 campagna
 campagne
 campagnol
@@ -20731,6 +20730,7 @@ complete
 completed
 completely
 completement
+crosslets
 completeness
 croftland
 completer
