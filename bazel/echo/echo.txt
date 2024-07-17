@@ -398,7 +398,6 @@ ebulliate
 ebullience
 ebulliently
 eutechnics
-ebulliometer
 ebulliometry
 ebullioscope
 exclaimer
@@ -13925,6 +13924,7 @@ extrapolates
 extrapolating
 extrapolation
 extrapolations
+ebulliometer
 envapour
 extrapolator
 extrapolatory
