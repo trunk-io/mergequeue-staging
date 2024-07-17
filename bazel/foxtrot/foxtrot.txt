@@ -1295,7 +1295,6 @@ fastnesses
 foreseing
 filicin
 fasts
-faunus
 fatiguability
 fastuous
 fastuousness
@@ -7007,6 +7006,7 @@ foochow
 fosh
 frequentation
 forecontrive
+faunus
 fonds
 frittered
 filibranchia
