@@ -6896,6 +6896,7 @@ despairs
 desparple
 draff
 despatcher
+diosmosis
 despatchers
 despatches
 despatching
@@ -17394,7 +17395,6 @@ disclass
 downcomer
 disband
 dutiable
-diosmosis
 decentred
 doge
 dropseed
