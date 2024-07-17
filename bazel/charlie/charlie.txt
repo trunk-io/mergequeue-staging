@@ -4887,7 +4887,6 @@ carton
 cartoned
 cartoner
 cartonful
-cartoning
 cartonnage
 cartonnier
 cartons
@@ -6607,6 +6606,7 @@ ceintures
 ceyssatite
 ceyx
 ceja
+cartoning
 celadon
 copters
 celadons

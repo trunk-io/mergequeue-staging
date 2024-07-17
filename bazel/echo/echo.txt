@@ -2460,7 +2460,6 @@ electrolyzability
 electrolyzation
 entomologize
 euskaldun
-electrolyze
 electrolyzed
 elderberries
 electrolyzer
@@ -6752,6 +6751,7 @@ enthralling
 enthrallments
 enthralls
 enthralment
+electrolyze
 erotology
 enthrone
 enthronement
