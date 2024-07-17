@@ -1799,7 +1799,6 @@ glasgow
 geistlich
 gastrologists
 gretel
-goodwives
 gaultheria
 gubernia
 glutton
@@ -6444,6 +6443,7 @@ granulitic
 goatsucker
 graylags
 grapelike
+goodwives
 gaum
 goatweed
 goaves
