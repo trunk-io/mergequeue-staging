@@ -4910,7 +4910,6 @@ cartway
 cartware
 cartwheel
 cartwheels
-cartwhip
 cartwright
 cartwrighting
 carua
@@ -5273,6 +5272,7 @@ casterless
 carcerate
 casters
 crossfish
+cartwhip
 casteth
 cepter
 castice
