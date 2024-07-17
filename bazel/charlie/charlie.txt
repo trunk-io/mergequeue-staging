@@ -6693,7 +6693,6 @@ carminative
 celialgia
 celibacies
 celibatarian
-coccaceae
 celibate
 celibates
 celibatic
@@ -9194,6 +9193,7 @@ chartographer
 chartography
 carnifices
 chartographic
+coccaceae
 chartographical
 chartographist
 chartology
