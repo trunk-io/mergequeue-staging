@@ -6194,7 +6194,6 @@ benim
 beniseed
 benison
 boninesses
-benisons
 batfish
 benitier
 benitoite
@@ -12423,6 +12422,7 @@ bondminder
 bondoc
 bondon
 brooders
+benisons
 bondservant
 bondslave
 bondsman
