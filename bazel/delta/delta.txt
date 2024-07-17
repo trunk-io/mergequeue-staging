@@ -330,7 +330,6 @@ dayal
 dayan
 dayanim
 daybeacon
-daybeam
 daybed
 doddle
 daybeds
@@ -12235,6 +12234,7 @@ disglory
 disglut
 deathling
 disquieting
+daybeam
 digressionary
 dysgnosia
 dysgonic
