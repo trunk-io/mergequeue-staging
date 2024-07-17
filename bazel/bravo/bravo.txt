@@ -63,7 +63,6 @@ babbling
 babblingly
 babblings
 billiardly
-babblish
 bilabials
 babblishly
 bonsai
@@ -15799,6 +15798,7 @@ bromes
 bromethyl
 batcher
 bromhydrate
+babblish
 bilayer
 bromhydric
 bromhidrosis
