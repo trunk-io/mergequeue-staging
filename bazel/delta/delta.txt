@@ -4040,6 +4040,7 @@ delhi
 deli
 dely
 delia
+disassemble
 delibate
 deliberalization
 deliberandum
@@ -11127,7 +11128,6 @@ disarticulating
 disarticulation
 disarticulator
 disasinize
-disassemble
 disassembled
 disassembler
 disassembles
