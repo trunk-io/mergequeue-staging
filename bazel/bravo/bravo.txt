@@ -7097,7 +7097,6 @@ bespice
 butterlike
 bespin
 bastardies
-bespirit
 bespit
 binodal
 besplit
@@ -16037,6 +16036,7 @@ brooched
 brooches
 brood
 balladizing
+bespirit
 brooded
 brooder
 broody
