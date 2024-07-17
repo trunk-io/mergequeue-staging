@@ -6143,7 +6143,6 @@ caudillo
 caudillos
 catty
 chiviatite
-concussively
 caudle
 caudles
 caudocephalad
@@ -25411,6 +25410,7 @@ cornice
 corniced
 cornices
 corniche
+concussively
 corniches
 climograph
 cornicing

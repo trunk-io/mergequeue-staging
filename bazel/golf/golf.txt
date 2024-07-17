@@ -7348,6 +7348,7 @@ gossiphood
 geodic
 gater
 gentianal
+geothermometer
 gaudeamuses
 gravicembalo
 gatehouses
@@ -10265,7 +10266,6 @@ guinfo
 genian
 guinness
 ganggang
-geothermometer
 gillers
 guyot
 guipure
