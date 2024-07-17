@@ -5915,7 +5915,6 @@ glossist
 gewgawish
 glucofrangulin
 glossitis
-glossless
 glossmeter
 gliriformia
 ganymedes
@@ -8790,6 +8789,7 @@ glottis
 gehenna
 glaived
 gravity
+glossless
 greyest
 glycocin
 glyoxilin
