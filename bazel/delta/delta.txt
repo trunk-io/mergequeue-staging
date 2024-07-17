@@ -2503,7 +2503,6 @@ dundreary
 declinational
 declinations
 doctordom
-declinator
 declinatory
 decline
 declinedness
@@ -13650,6 +13649,7 @@ dissimilitude
 dissymmetry
 disjunction
 dissymmetric
+declinator
 dowelling
 doglegged
 dissymmetrical
