@@ -15727,7 +15727,6 @@ clattering
 chromograph
 coquin
 clatters
-claustrophobiac
 clattertrap
 clattertraps
 clatty
@@ -19640,6 +19639,7 @@ columbo
 columboid
 columbotantalate
 columbous
+claustrophobiac
 columel
 columella
 columellae
