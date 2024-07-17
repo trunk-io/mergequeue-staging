@@ -9895,7 +9895,6 @@ chemigraphy
 chemigraphically
 chemiloon
 chemiluminescence
-chemiluminescent
 chemin
 chicomecoatl
 chemins
@@ -27991,6 +27990,7 @@ craglike
 crags
 cragsman
 cragsmen
+chemiluminescent
 cragwork
 cray
 culprits
