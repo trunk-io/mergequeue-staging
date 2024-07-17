@@ -1376,7 +1376,6 @@ biorhythmicity
 baldacchino
 bacule
 breakfaster
-baldachin
 baldachined
 baldachini
 babblative
@@ -6087,6 +6086,7 @@ benedicite
 benedick
 benedicks
 benedict
+baldachin
 benedictine
 benedictinism
 brimborium

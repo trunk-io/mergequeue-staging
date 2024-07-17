@@ -10535,6 +10535,7 @@ childlikeness
 childminder
 childness
 codex
+clues
 childproof
 childre
 children
@@ -25870,7 +25871,6 @@ corruptor
 corruptress
 corrupts
 corsac
-clues
 corsacs
 corsage
 corsages
