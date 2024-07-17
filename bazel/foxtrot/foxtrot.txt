@@ -394,7 +394,6 @@ fixers
 fivesome
 fairily
 fairing
-fluencies
 fairings
 felup
 fairyologist
@@ -6368,6 +6367,7 @@ fluoaluminic
 fluoboric
 fluoborid
 fleamy
+fluencies
 firepot
 fob
 fluocarbonate
