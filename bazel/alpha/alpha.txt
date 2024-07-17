@@ -5316,7 +5316,6 @@ affectability
 affectable
 affectate
 affectation
-affectationist
 affected
 affectedly
 astigmia
@@ -13869,6 +13868,7 @@ anomphalous
 anomura
 amphimacer
 ayegreen
+affectationist
 anomural
 anomuran
 anon
