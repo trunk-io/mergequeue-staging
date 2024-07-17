@@ -5070,7 +5070,6 @@ furnaceman
 fruitfully
 flowery
 flexor
-flatlander
 flatlanders
 flatlets
 flatly
@@ -5506,6 +5505,7 @@ flickeringly
 forefin
 fait
 flickers
+flatlander
 fatigating
 flickertail
 formicid
