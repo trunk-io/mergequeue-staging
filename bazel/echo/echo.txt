@@ -5240,7 +5240,6 @@ endophyllaceae
 esoterist
 eavesdroppers
 eurycerous
-endophyllous
 endophyllum
 electroless
 endophytal
@@ -13386,6 +13385,7 @@ exptl
 expugnable
 expuition
 expulsatory
+endophyllous
 enrooting
 expulse
 expulser
