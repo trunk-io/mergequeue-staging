@@ -4147,7 +4147,6 @@ carers
 cares
 caress
 caressable
-caressed
 caressers
 caresses
 chimere
@@ -7287,6 +7286,7 @@ cepa
 cepaceous
 cepe
 cepes
+caressed
 counterabut
 cephadia
 cephaeline
