@@ -4154,7 +4154,6 @@ firehouses
 flemishing
 fireless
 frenchism
-forfar
 firelit
 firelock
 finishers
@@ -5545,6 +5544,7 @@ flightier
 falangism
 forelegs
 flightily
+forfar
 footgrip
 flightiness
 flightless
