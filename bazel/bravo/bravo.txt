@@ -7785,7 +7785,6 @@ bib
 bibacious
 bungler
 bibaciousness
-boggart
 bibation
 bibb
 bibbery
@@ -16388,6 +16387,7 @@ besant
 bolded
 brutalising
 brontometer
+boggart
 brutalism
 brainstone
 bihourly

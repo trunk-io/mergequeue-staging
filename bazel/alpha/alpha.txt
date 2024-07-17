@@ -6315,7 +6315,6 @@ aglisten
 achondroplastic
 asteatosis
 aglobulism
-aglossa
 aglossate
 aglossia
 aglucon
@@ -9638,6 +9637,7 @@ alumbrado
 appartement
 alumetize
 alumian
+aglossa
 alumic
 alumiferous
 annulations
