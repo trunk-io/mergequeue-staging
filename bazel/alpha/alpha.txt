@@ -1898,7 +1898,6 @@ accusation
 accusations
 abhorrible
 angularly
-accusatival
 accusative
 accusatively
 accusativeness
@@ -17635,6 +17634,7 @@ appeasably
 appease
 appeasement
 appeaser
+accusatival
 archigaster
 appeasers
 appeases
