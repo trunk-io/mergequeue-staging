@@ -1309,7 +1309,6 @@ evoke
 effectively
 energid
 effectivity
-effectors
 effectress
 effects
 effectual
@@ -12610,6 +12609,7 @@ exiting
 extrameridian
 exition
 exitious
+effectors
 epizoite
 exiture
 exmeridian
