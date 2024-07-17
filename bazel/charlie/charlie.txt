@@ -12759,6 +12759,7 @@ chubascos
 colporrhexis
 chubb
 chubbedness
+command
 chubby
 chubbier
 chubbiest
@@ -19983,7 +19984,6 @@ commaes
 commaing
 camphorweed
 claim
-command
 commandable
 commandants
 commanded
