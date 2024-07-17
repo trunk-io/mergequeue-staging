@@ -2084,7 +2084,6 @@ fellfare
 felly
 fellifluous
 fellingbird
-fellmonger
 fellmongered
 fellmongery
 fantasizing
@@ -9864,6 +9863,7 @@ freshness
 facts
 freesp
 freshwater
+fellmonger
 freshwoman
 fortitudinous
 fresison
