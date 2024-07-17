@@ -7206,7 +7206,6 @@ furnage
 forwards
 footsoldier
 facient
-footsore
 footsoreness
 fitment
 faciest
@@ -11172,6 +11171,7 @@ footsoldiers
 fieldball
 fumigation
 flintwork
+footsore
 funereally
 face
 funerealness
