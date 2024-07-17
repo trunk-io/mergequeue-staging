@@ -8250,7 +8250,6 @@ dispoint
 draghound
 diagonally
 diagonals
-diagonalwise
 dedans
 dicatalexis
 diagram
@@ -16535,6 +16534,7 @@ doctrinate
 degauss
 draconianism
 draconid
+diagonalwise
 draconin
 draconism
 draconites
