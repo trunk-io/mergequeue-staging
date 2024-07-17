@@ -4081,6 +4081,7 @@ fire
 fireback
 favourably
 fireball
+forsteal
 fireballs
 flanky
 firebird
@@ -11055,7 +11056,6 @@ faltboats
 fumitories
 fummel
 fustier
-forsteal
 fummle
 fumous
 fadedness
