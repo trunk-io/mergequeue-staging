@@ -1677,7 +1677,6 @@ gastreas
 ghostcraft
 gastrectasis
 gasfiring
-gastrectomy
 gastrelcosis
 gorefish
 gonadectomizing
@@ -8311,6 +8310,7 @@ genealogies
 grogger
 gonophorous
 geanticline
+gastrectomy
 grasslike
 gigantostraca
 grassman
