@@ -11290,7 +11290,6 @@ asyllabic
 amphithalmi
 aeronomies
 amphitheater
-amphitheatered
 amphitheaters
 amphitheatral
 amphitheatre
@@ -17693,6 +17692,7 @@ appendiceal
 appendicectomy
 appendicectomies
 appendices
+amphitheatered
 appendicial
 appendicle
 appendicocaecostomy
