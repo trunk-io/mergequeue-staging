@@ -1775,7 +1775,6 @@ featy
 featishly
 featishness
 featless
-featly
 featliest
 flocculency
 featliness
@@ -9451,6 +9450,7 @@ fulhams
 fictionizing
 fraternalist
 filose
+featly
 fraternally
 fraternation
 fraternised
