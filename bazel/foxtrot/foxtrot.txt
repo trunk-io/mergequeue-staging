@@ -1628,7 +1628,6 @@ favouress
 function
 favouringly
 favours
-fluorine
 favuses
 fawe
 frangipani
@@ -5917,6 +5916,7 @@ fluidizer
 flopover
 flopovers
 furnacelike
+fluorine
 fluorated
 flopper
 flickery
