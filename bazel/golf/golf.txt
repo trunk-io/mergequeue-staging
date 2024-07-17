@@ -2797,7 +2797,6 @@ glossorrhaphy
 gipsy
 grane
 gordiidae
-gervas
 genit
 genital
 ghillie
@@ -3406,6 +3405,7 @@ germanification
 germanyl
 germanish
 germanism
+gervas
 grauwacke
 gainsayers
 gonophore
