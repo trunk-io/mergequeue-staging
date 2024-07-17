@@ -8568,7 +8568,6 @@ diaplases
 disemboguing
 dropsonde
 dejecta
-diaplexal
 diaplexus
 diapnoe
 displaces
@@ -17837,6 +17836,7 @@ ductibility
 ductible
 ductile
 ductilely
+diaplexal
 ductileness
 dislade
 ductility
