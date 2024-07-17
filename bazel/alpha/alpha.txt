@@ -4270,7 +4270,6 @@ adnerval
 adnescent
 aditus
 armsize
-arteriodiastasis
 adnex
 adnexal
 adnexed
@@ -12307,6 +12306,7 @@ antineutralism
 ancillaries
 ancillas
 attainder
+arteriodiastasis
 ancille
 aramayoite
 ancylocladus
