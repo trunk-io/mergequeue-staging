@@ -3318,6 +3318,7 @@ capsids
 capsizable
 collatress
 capsizal
+cleidotomy
 capsize
 capsizes
 cotylophorous
@@ -15984,7 +15985,6 @@ cleidomastoid
 cleidorrhexis
 cleidoscapular
 cleidosternal
-cleidotomy
 cleidotripsy
 cleistocarp
 cleistogamic
