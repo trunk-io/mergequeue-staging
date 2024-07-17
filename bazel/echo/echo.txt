@@ -1089,7 +1089,6 @@ edibility
 eassel
 edible
 edibleness
-edibles
 edictally
 edicts
 exalters
@@ -3687,6 +3686,7 @@ embryoscopic
 enslavement
 endocarditis
 embryotic
+edibles
 embryotome
 embryotomies
 embryotroph
