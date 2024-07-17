@@ -8208,7 +8208,6 @@ chainless
 chainlike
 chainmaker
 chainmaking
-chainman
 chainomatic
 chainon
 chainsman
@@ -9581,6 +9580,7 @@ checklaton
 checkless
 checklist
 charadriiform
+chainman
 checkman
 checkmark
 checkmate
