@@ -17840,7 +17840,6 @@ applosion
 applosive
 applotment
 appmt
-antithrombin
 appoggiatura
 appoggiaturas
 appoint
@@ -20740,6 +20739,7 @@ articulatorily
 articulators
 articulite
 artie
+antithrombin
 artier
 artiest
 artifact
