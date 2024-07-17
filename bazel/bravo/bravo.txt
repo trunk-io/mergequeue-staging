@@ -12255,6 +12255,7 @@ bombace
 ballaster
 bombay
 bombarde
+buckeroo
 bombarded
 bombardelle
 byssine
@@ -16570,7 +16571,6 @@ buckeyed
 beachy
 buckeyes
 bucker
-buckeroo
 buckers
 bucket
 bucketed
