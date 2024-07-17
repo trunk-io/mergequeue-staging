@@ -7850,7 +7850,6 @@ geocentrically
 gramophonic
 grails
 gitanemuk
-graphometer
 gauzes
 gratiolin
 grampa
@@ -9528,6 +9527,7 @@ groveler
 groveless
 groveling
 gonna
+graphometer
 gypsyism
 grovelling
 grovellingly
