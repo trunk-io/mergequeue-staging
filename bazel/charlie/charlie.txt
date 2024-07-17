@@ -140,7 +140,6 @@ cabobs
 caboceer
 caboche
 caboched
-cabochon
 cabochons
 cabocle
 caboclo
@@ -23927,6 +23926,7 @@ contrivers
 contrives
 contriving
 control
+cabochon
 controled
 chiba
 catenaries
