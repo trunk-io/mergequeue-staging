@@ -3328,7 +3328,6 @@ clarissa
 caririan
 capstan
 capstans
-couplets
 capstone
 capstones
 capsula
@@ -21911,6 +21910,7 @@ confederated
 confederater
 confederates
 confederating
+couplets
 confederatio
 confederationism
 confederationist
