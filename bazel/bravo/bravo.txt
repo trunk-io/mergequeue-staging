@@ -8606,6 +8606,7 @@ baptisteries
 bimillenial
 boulevardiers
 becolor
+blipping
 billiard
 billiardist
 baldicoot
@@ -10887,7 +10888,6 @@ blintze
 batete
 blype
 blipped
-blipping
 barkeep
 bolthole
 blirt
