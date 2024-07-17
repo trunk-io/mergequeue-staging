@@ -450,7 +450,6 @@ dairyman
 dairymen
 dairywoman
 dairywomen
-dayroom
 dayrooms
 dhal
 dairous
@@ -3290,6 +3289,7 @@ defyingly
 dolcissimo
 defiladed
 denuded
+dayroom
 defile
 defeatment
 defilement
