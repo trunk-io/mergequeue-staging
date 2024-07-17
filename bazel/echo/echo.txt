@@ -3418,7 +3418,6 @@ enchodontid
 empt
 embiid
 erf
-evalue
 evergreenery
 empathically
 ectogenous
@@ -8068,6 +8067,7 @@ epiphyte
 equidivision
 emerged
 embuia
+evalue
 emerize
 epiphytes
 epiphytically
