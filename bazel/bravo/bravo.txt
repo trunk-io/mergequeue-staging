@@ -4623,7 +4623,6 @@ bunchiness
 bridgebuilder
 bedesmen
 bigeminum
-bedeswoman
 bedeviling
 bisubstitution
 bedevilled
@@ -12004,6 +12003,7 @@ boiled
 blackamoor
 boilerful
 boilerhouse
+bedeswoman
 boilerless
 bridelace
 barchans

@@ -5466,7 +5466,6 @@ catalanganes
 catalanist
 catalase
 coendear
-catalases
 chrysalid
 continuality
 cotemporarily
@@ -17086,6 +17085,7 @@ coacher
 coachers
 coaches
 coachfellow
+catalases
 coachful
 coachy
 coaching
