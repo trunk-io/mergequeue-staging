@@ -5934,6 +5934,7 @@ exsiccant
 enjambement
 enjambment
 enjambments
+epitonic
 enjelly
 enjewel
 embowels
@@ -8403,7 +8404,6 @@ egency
 epitomize
 epitomizes
 explicanda
-epitonic
 epitonion
 epitonium
 epitrachelia
