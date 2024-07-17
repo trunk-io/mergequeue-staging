@@ -3033,6 +3033,7 @@ eulogias
 ellipsis
 ellipsograph
 ellipsoid
+euclid
 ellipsoidal
 entoproctous
 ellipsone
@@ -10695,7 +10696,6 @@ euphemization
 euclea
 examination
 eucleid
-euclid
 euclideanism
 eucnemidae
 evokes
