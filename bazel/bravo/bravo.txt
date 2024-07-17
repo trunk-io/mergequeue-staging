@@ -10505,7 +10505,6 @@ blathery
 blathers
 blatherskites
 barmbrack
-blatiform
 blatjang
 blats
 blatta
@@ -12424,6 +12423,7 @@ bondmanship
 bondmen
 bondminder
 bondoc
+blatiform
 bondon
 brooders
 bondservant

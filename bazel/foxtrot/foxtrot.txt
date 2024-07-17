@@ -4320,6 +4320,7 @@ formful
 fusses
 fishbolts
 faultless
+foraminous
 fishbone
 fishbowl
 fisherboat
@@ -5553,7 +5554,6 @@ flyings
 flyleaf
 frivolizing
 flyless
-foraminous
 flyman
 fructoside
 fantee
