@@ -7673,7 +7673,6 @@ futteret
 forehatch
 forehatchway
 forehead
-foreheaded
 forehear
 fairest
 foollike
@@ -11615,6 +11614,7 @@ fussy
 fussification
 fruitworm
 fussiness
+foreheaded
 frogmouth
 fussing
 fatigues
