@@ -646,7 +646,6 @@ abnormalize
 abnormalizing
 abnormally
 abnormalness
-abnormals
 abnormity
 abnormous
 abo
@@ -6202,6 +6201,7 @@ aggrieved
 aggrievedness
 amoke
 aggrievement
+abnormals
 aggrieving
 allegatum
 aggro
