@@ -4213,7 +4213,6 @@ booksy
 burgle
 beatless
 backlit
-beatnik
 beatrix
 brattice
 barkantine
@@ -7762,6 +7761,7 @@ biarticulated
 bemata
 biasedly
 biases
+beatnik
 bronchotome
 biasing
 biasness
