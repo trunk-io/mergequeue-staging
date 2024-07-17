@@ -2181,7 +2181,6 @@ blader
 basenet
 banqueted
 banqueting
-banquets
 ballote
 banquo
 bans
@@ -14844,6 +14843,7 @@ breakweather
 bream
 breaming
 breards
+banquets
 breast
 breastband
 breastbones
