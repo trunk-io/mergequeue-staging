@@ -3902,7 +3902,6 @@ bazaars
 bazar
 brevilingual
 bazigar
-boltrope
 bazoo
 bazooka
 bazookaman
@@ -15872,6 +15871,7 @@ bromoiodide
 bromoiodism
 beforehandedness
 bromoiodized
+boltrope
 bromoketone
 bangalay
 bromomania
