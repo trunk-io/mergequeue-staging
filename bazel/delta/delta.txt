@@ -1729,6 +1729,7 @@ diallages
 drouk
 drumsticks
 deathtrap
+dumbheaded
 deathtraps
 deathwards
 deathweed
@@ -18086,7 +18087,6 @@ diastrophe
 dumbfounderment
 dumbfoundment
 dumbhead
-dumbheaded
 defenestrate
 dumby
 drumroll
