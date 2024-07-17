@@ -8860,6 +8860,7 @@ bint
 bintangor
 bromoil
 brack
+bolivares
 binuclear
 binucleate
 besnow
@@ -12126,7 +12127,6 @@ bolis
 bottlebrush
 bolita
 bolivar
-bolivares
 bolivars
 bolivia
 binodose
