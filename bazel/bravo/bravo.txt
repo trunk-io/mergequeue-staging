@@ -974,7 +974,6 @@ bagwig
 bagwigged
 bagwigs
 bagwyn
-bagwoman
 bagwork
 boundlessness
 bagworms
@@ -3860,6 +3859,7 @@ bawd
 bawdy
 bawdier
 bawdies
+bagwoman
 bawdiest
 barkhan
 bawdyhouse
