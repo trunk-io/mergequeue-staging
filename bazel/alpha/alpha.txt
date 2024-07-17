@@ -12695,7 +12695,6 @@ anethol
 albites
 amphidromic
 adhaka
-anethole
 anetholes
 avitaminotic
 anethols
@@ -22464,6 +22463,7 @@ aphorismos
 ataxia
 artolater
 ataxiagram
+anethole
 ataxiagraph
 antievolution
 ataxiameter
