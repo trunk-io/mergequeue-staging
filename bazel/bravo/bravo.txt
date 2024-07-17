@@ -195,7 +195,6 @@ baccalaurean
 baccalaureat
 beachmaster
 breather
-baccalaureate
 baccalaureates
 beadily
 baccalaureus
@@ -16761,6 +16760,7 @@ brankier
 bufferrer
 bufferrers
 buffers
+baccalaureate
 breva
 buffeted
 bibliokelpt
