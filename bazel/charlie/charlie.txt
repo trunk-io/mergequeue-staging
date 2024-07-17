@@ -3358,7 +3358,6 @@ circumlocutional
 capsulolenticular
 capsulorrhaphy
 capsulotomy
-capsumin
 captacula
 captain
 cornuses
@@ -14574,6 +14573,7 @@ cirripedia
 cep
 caprylate
 cirripeds
+capsumin
 citrul
 cirrocumulative
 cirrocumulous
