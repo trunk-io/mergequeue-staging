@@ -4912,7 +4912,6 @@ flanged
 flangeless
 flangers
 flangeway
-flankard
 flanker
 flankers
 flanking
@@ -9225,6 +9224,7 @@ fragmental
 fumously
 fragmentalize
 fragmentary
+flankard
 fragmentarily
 fragmentation
 fragmented
