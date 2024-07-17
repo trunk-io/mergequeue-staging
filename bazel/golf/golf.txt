@@ -9002,6 +9002,7 @@ grim
 genealogist
 grimacers
 grimacing
+gunrunning
 grimacingly
 granulocytic
 gundeck
@@ -10561,7 +10562,6 @@ gunreach
 gunrooms
 globelet
 gunrunner
-gunrunning
 gunsels
 gilly
 gunship
