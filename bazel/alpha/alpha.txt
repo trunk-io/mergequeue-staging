@@ -4499,6 +4499,7 @@ adsorbs
 adsorption
 adsorptive
 adsorptively
+artificialize
 antiradiating
 aedilian
 adspiration
@@ -20757,7 +20758,6 @@ artificial
 acop
 artificialism
 artificialities
-artificialize
 artificious
 artily
 artilize
