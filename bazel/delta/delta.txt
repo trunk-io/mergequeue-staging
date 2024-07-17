@@ -5204,7 +5204,6 @@ dennstaedtia
 dryinid
 denom
 denominant
-denominate
 denominated
 denominates
 denominationalism
@@ -5220,6 +5219,7 @@ denotational
 denotationally
 denotative
 dratted
+denominate
 denotatum
 denote
 denoted
