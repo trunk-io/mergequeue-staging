@@ -2499,7 +2499,6 @@ electromyography
 electromyographic
 electromyographical
 eunuchoid
-electromobile
 electromotive
 embue
 electromotivity
@@ -13718,6 +13717,7 @@ extirpator
 extirpatory
 extispex
 extispicy
+electromobile
 extispicious
 elytron
 ecstatics

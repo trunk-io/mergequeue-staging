@@ -15253,6 +15253,7 @@ confect
 centerboard
 cladodus
 critters
+comptoir
 cladogenesis
 catodont
 cladogenetic
@@ -21021,7 +21022,6 @@ caramelen
 cryptogrammatist
 comptly
 comptness
-comptoir
 comptometer
 comptonite
 comptrol
