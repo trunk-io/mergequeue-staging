@@ -4994,7 +4994,6 @@ dellenite
 denarinarii
 depolarised
 denarius
-denaro
 dislock
 denasalize
 denasalized
@@ -7803,6 +7802,7 @@ devoting
 dioicously
 devotion
 drowningly
+denaro
 devotional
 devotionalist
 dilutors
