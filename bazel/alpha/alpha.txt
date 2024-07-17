@@ -5729,7 +5729,6 @@ afterimage
 afterimages
 adorner
 afterimpression
-afterings
 afterking
 afterlife
 ammonifier
@@ -12388,6 +12387,7 @@ andante
 andantes
 andantini
 andantino
+afterings
 andantinos
 andaquian
 andarko

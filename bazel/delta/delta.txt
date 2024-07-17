@@ -1507,7 +1507,6 @@ deactivation
 deactivations
 deactivator
 dibstones
-dolores
 discoid
 deadbeat
 deadbeats
@@ -17726,6 +17725,7 @@ dubhgall
 dubiety
 dubieties
 dubio
+dolores
 determinatively
 diastase
 datch
