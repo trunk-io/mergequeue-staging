@@ -13852,7 +13852,6 @@ combo
 contakionkia
 cinclus
 cinct
-cincture
 cinctured
 cincturing
 cinder
@@ -22261,6 +22260,7 @@ congenetic
 congenial
 congeniality
 congenialize
+cincture
 congenially
 cylindered
 congenialness
