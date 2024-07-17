@@ -12723,7 +12723,6 @@ booksellerism
 booksellers
 bookshelf
 bedsick
-bookstand
 bedcover
 bookstore
 bollixing
@@ -13181,6 +13180,7 @@ bosoms
 bosonic
 bosporan
 bosporian
+bookstand
 brockage
 bosque
 bosquet
