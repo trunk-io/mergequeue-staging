@@ -3044,6 +3044,7 @@ acroscopic
 acrosome
 acrosomes
 acrosphacelus
+alightment
 acrospire
 acrospired
 acrospiring
@@ -8334,7 +8335,6 @@ alight
 appendicate
 alighted
 alighting
-alightment
 algicidal
 angioataxia
 alights
