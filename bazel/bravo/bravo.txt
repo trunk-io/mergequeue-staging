@@ -9758,7 +9758,6 @@ byssi
 bijouterie
 byssinosis
 bisso
-byssolite
 bisson
 bissonata
 byssus
@@ -13464,6 +13463,7 @@ bouffante
 breakthroughes
 bouffe
 bouffes
+byssolite
 bouffon
 bougainvillaea
 blepharedema

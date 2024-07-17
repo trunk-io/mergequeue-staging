@@ -4448,6 +4448,7 @@ enations
 enbaissing
 enbloc
 enbranglement
+exciter
 enbusshe
 eddie
 encadre
@@ -12034,7 +12035,6 @@ excited
 excitedly
 excitedness
 entogenous
-exciter
 exciters
 exciting
 excitingly
