@@ -2818,7 +2818,6 @@ fendy
 fundamentals
 feudalism
 finagling
-foehns
 feudalistic
 feathering
 filarees
@@ -10851,6 +10850,7 @@ foment
 fila
 feebleminded
 fistulariidae
+foehns
 foundling
 fishpool
 fulgence
