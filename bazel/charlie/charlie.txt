@@ -8094,7 +8094,6 @@ candidatures
 chaetites
 chaetitidae
 chaetochloa
-chaetodon
 chaetodont
 chaetodontid
 chaetodontidae
@@ -29404,6 +29403,7 @@ cryptovalence
 concatenator
 cryptovalency
 cryptovolcanic
+chaetodon
 coning
 cryptovolcanism
 cobhead
