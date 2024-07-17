@@ -17811,7 +17811,6 @@ contraparallelogram
 codebtors
 codec
 codeclination
-codecs
 coded
 codefendants
 codeias
@@ -18527,6 +18526,7 @@ cohoshes
 chronosemic
 copartiment
 cohosted
+codecs
 chaenactis
 cohosting
 conversancy
