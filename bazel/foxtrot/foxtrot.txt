@@ -3411,7 +3411,6 @@ felspathose
 frangi
 figshell
 fury
-ferocious
 faitours
 faithful
 filoselle
@@ -6789,6 +6788,7 @@ foys
 foison
 foisonless
 foisons
+ferocious
 foist
 foxtongue
 fcs
