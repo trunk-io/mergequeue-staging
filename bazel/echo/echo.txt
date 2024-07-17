@@ -2057,7 +2057,6 @@ ejaculators
 elaeocarpus
 entamebas
 elaeodendron
-elaeometer
 elaeopten
 elaeosaccharum
 ethos
@@ -12740,6 +12739,7 @@ exonuclease
 exopathic
 exophagy
 exophasia
+elaeometer
 edgingly
 eclaircise
 edison
