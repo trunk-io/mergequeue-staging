@@ -1670,6 +1670,7 @@ fcp
 fdtype
 fdubs
 fumblers
+forestallment
 feaberry
 flighter
 fictation
@@ -2244,7 +2245,6 @@ firebricks
 fences
 forelaying
 featherwise
-forestallment
 fenestellidae
 fibroses
 fenchyl
