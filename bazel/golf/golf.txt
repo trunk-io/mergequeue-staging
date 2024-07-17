@@ -549,7 +549,6 @@ gamodemes
 glassite
 galleyworm
 galleons
-gallera
 grubbier
 gallerian
 gentisate
@@ -4222,6 +4221,7 @@ giglot
 gimballing
 goalless
 glyconics
+gallera
 gimbals
 galahads
 groining
