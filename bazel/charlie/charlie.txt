@@ -14148,7 +14148,6 @@ cyprididae
 caponette
 cypridina
 cypridinidae
-cypridinoid
 cyprina
 cyprine
 cyprinid
@@ -15232,6 +15231,7 @@ clad
 cladanthous
 cladding
 cacoenthes
+cypridinoid
 conducta
 clade
 cladine
