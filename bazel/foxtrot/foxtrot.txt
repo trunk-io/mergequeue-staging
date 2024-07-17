@@ -3388,6 +3388,7 @@ figgum
 filagreed
 fight
 fighter
+final
 fighteress
 frontomalar
 fighters
@@ -3821,7 +3822,6 @@ fairstead
 foresettled
 floutingly
 flickermouse
-final
 finale
 finales
 fermentation
