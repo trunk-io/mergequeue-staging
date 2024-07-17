@@ -1161,7 +1161,6 @@ editorships
 editress
 emydinae
 editresses
-edits
 edmund
 edo
 edomite
@@ -7433,6 +7432,7 @@ enfasten
 epexegetical
 epexegetically
 epigene
+edits
 epha
 emberiza
 ephahs
