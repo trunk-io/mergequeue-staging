@@ -1737,7 +1737,6 @@ feat
 featest
 feather
 featherback
-funebrous
 featherbird
 flintiness
 featherbone
@@ -2420,6 +2419,7 @@ flexured
 fernbird
 fernbrake
 fascist
+funebrous
 fiscs
 fellowship
 fixatif
