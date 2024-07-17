@@ -12575,6 +12575,7 @@ cannat
 chromolithic
 concanavalin
 chromolithographer
+colorblind
 chromolithography
 coonjine
 chamisos
@@ -19427,7 +19428,6 @@ colorative
 colorature
 comicocratic
 colorbearer
-colorblind
 colorblindness
 colorbreed
 colorcast
