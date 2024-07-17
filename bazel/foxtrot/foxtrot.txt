@@ -6814,7 +6814,6 @@ flared
 foldboat
 fare
 foldboater
-ficin
 felting
 fluke
 farmings
@@ -7425,6 +7424,7 @@ fordoing
 fordrive
 futtock
 fords
+ficin
 fordull
 foreadmonish
 flashpan
