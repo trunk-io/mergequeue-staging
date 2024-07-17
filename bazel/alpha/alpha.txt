@@ -8931,7 +8931,6 @@ alloys
 amins
 alloisomer
 areometry
-alloisomeric
 alloisomerism
 allokinetic
 allokurtic
@@ -17685,6 +17684,7 @@ accoying
 appended
 appendence
 alkoxy
+alloisomeric
 archvillain
 appendent
 appender
