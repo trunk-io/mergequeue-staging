@@ -1512,6 +1512,7 @@ acceptable
 acceptance
 acceptances
 acceptancy
+afterwash
 acceptancies
 acceptant
 antidynasty
@@ -12448,7 +12449,6 @@ androclinium
 androclus
 androconia
 androcracy
-afterwash
 antiberiberin
 androcratic
 androdynamous
