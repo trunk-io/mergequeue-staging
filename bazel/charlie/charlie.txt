@@ -5042,7 +5042,6 @@ caseinogen
 caseins
 casekeeper
 casel
-caseless
 countergauge
 caselessly
 caseload
@@ -10360,6 +10359,7 @@ chichicaste
 cirrocumular
 cuerda
 chichipe
+caseless
 chichis
 coregonine
 chichling
