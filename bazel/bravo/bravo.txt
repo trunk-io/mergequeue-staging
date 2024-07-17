@@ -680,7 +680,6 @@ bibracteate
 bacterial
 behaviours
 bacterially
-bacterian
 bacteric
 bactericholia
 basommatophorous
@@ -12723,6 +12722,7 @@ bookward
 bookwards
 bookwork
 bookworms
+bacterian
 bool
 breathseller
 booley
