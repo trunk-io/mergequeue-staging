@@ -2438,7 +2438,6 @@ gemara
 germs
 guidonian
 gemaric
-gravamens
 graverobber
 gorier
 gematria
@@ -7297,6 +7296,7 @@ goshawk
 greaved
 goshawks
 goshdarn
+gravamens
 garbanzos
 gismos
 goshen
