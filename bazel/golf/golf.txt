@@ -368,7 +368,6 @@ gangboard
 galago
 galagos
 galahad
-galanas
 galangals
 gynobasic
 galangin
@@ -9149,6 +9148,7 @@ grisled
 gambes
 glaucomas
 gruf
+galanas
 gingras
 gonococcus
 globulysis
