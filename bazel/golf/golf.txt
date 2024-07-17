@@ -788,7 +788,6 @@ graphophonic
 galvanizers
 galvanocautery
 galvanocauteries
-galvanocontractility
 gedder
 galvanoglyph
 gatekeeper
@@ -2932,6 +2931,7 @@ gentleman
 garnishes
 grasped
 girderage
+galvanocontractility
 genos
 galeopsis
 gentlemanly
