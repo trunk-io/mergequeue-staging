@@ -960,7 +960,6 @@ amidoplast
 agglutinating
 absences
 absyrtus
-absentation
 absented
 absentees
 acanthopteri
@@ -18124,6 +18123,7 @@ apteran
 apteria
 anis
 apteryges
+absentation
 apterygial
 apterygidae
 apterygiformes

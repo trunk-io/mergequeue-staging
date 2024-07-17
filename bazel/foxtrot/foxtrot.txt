@@ -1067,7 +1067,6 @@ farmland
 fluorosis
 farmlands
 francisca
-fractionised
 fanworts
 fantasque
 fisc
@@ -3591,6 +3590,7 @@ fougade
 filiferous
 filiform
 faxing
+fractionised
 flaunching
 flammigerous
 filiformed
