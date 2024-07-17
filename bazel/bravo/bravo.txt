@@ -12230,7 +12230,6 @@ bolter
 bolthead
 boltheader
 braggy
-bagge
 bolti
 bolty
 boyarism
@@ -13852,6 +13851,7 @@ broquineer
 boxful
 busulfan
 beliing
+bagge
 boxfuls
 boxhauled
 boxhauling

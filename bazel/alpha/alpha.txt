@@ -1059,7 +1059,6 @@ absonant
 absonous
 absorb
 adiathermanous
-absorbability
 absorbable
 absorbance
 absorbancy
@@ -18003,6 +18002,7 @@ appropriativeness
 appropriator
 appropriators
 approvability
+absorbability
 approvable
 adenomeningeal
 approvableness
