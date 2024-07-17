@@ -1952,7 +1952,6 @@ camouflageable
 camouflaged
 camouflager
 camouflagers
-capetonian
 camouflagic
 camouflaging
 camouflet
@@ -23215,6 +23214,7 @@ constricted
 constricting
 castrensial
 constriction
+capetonian
 constrictions
 constrictive
 chumawi
