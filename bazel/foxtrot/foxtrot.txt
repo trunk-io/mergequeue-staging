@@ -3136,7 +3136,6 @@ fiction
 fictional
 fictionalize
 fictionalized
-funorin
 fingerable
 fictionalizing
 farcical
@@ -9543,6 +9542,7 @@ freckly
 frecklier
 freckliest
 foregoneness
+funorin
 flighting
 filigrees
 frecklish
