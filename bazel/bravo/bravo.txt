@@ -10524,7 +10524,6 @@ blattid
 blattidae
 blattiform
 blatting
-blattodea
 blattoid
 balneal
 blaubok
@@ -16959,6 +16958,7 @@ bulbospinal
 bulbotuber
 brahmanist
 bulbourethral
+blattodea
 bulbously
 bulbs
 bulbul

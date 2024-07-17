@@ -1475,6 +1475,7 @@ gambe
 garous
 garpikes
 garret
+gleewoman
 ganoidian
 gobleted
 giinwale
@@ -5365,7 +5366,6 @@ grudgeons
 gleetier
 gleetiest
 gleeting
-gleewoman
 gleg
 glegness
 glegnesses
