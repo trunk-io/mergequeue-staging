@@ -14365,7 +14365,6 @@ circumgenital
 circumgyrate
 circumgyration
 clinorhombic
-circumgyratory
 circumincession
 circumjacence
 circumjacencies
@@ -19209,6 +19208,7 @@ colloider
 colloidize
 colloidochemical
 colloids
+circumgyratory
 circum
 collomia
 choregrapher
