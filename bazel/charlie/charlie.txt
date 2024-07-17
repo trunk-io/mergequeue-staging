@@ -6590,7 +6590,6 @@ celestine
 ceiled
 ceilers
 ceilidh
-ceilinged
 ceilings
 ceilingward
 chlorapatite
@@ -18734,6 +18733,7 @@ colacobiosis
 colacobiotic
 colage
 colling
+ceilinged
 colalgia
 clyfaking
 colament
