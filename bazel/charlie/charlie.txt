@@ -1977,7 +1977,6 @@ campal
 campana
 campane
 campanella
-cryptogame
 cecils
 campanian
 campaniform
@@ -2340,6 +2339,7 @@ candidating
 candidature
 candide
 churls
+cryptogame
 codecree
 candidiasis
 candidly
