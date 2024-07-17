@@ -5686,6 +5686,7 @@ afterdeck
 afterdecks
 afterdinner
 afterdischarge
+anotropia
 afterdrain
 aftereffect
 aftereffects
@@ -13998,7 +13999,6 @@ akasha
 anotherguess
 antacids
 anotia
-anotropia
 amniatic
 anotto
 aphonous

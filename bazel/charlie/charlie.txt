@@ -19538,7 +19538,6 @@ colourlessness
 cushewbird
 colourman
 colours
-colourtype
 colove
 colp
 colpenchyma
@@ -31264,6 +31263,7 @@ conscionably
 curd
 curded
 curdy
+colourtype
 coagents
 commutuality
 curdier
