@@ -2988,7 +2988,6 @@ acromioscapular
 amphibalus
 acromiosternal
 acromiothoracic
-acromyotonus
 acromonogrammatic
 althea
 acromphalus
@@ -9241,6 +9240,7 @@ almuce
 almuces
 almud
 almudes
+acromyotonus
 almuerzo
 almugs
 actiniochrome
