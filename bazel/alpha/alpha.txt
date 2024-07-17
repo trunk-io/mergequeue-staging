@@ -2714,6 +2714,7 @@ acotyledonous
 acouasm
 acouchi
 acouchy
+antheridia
 acoumetry
 aceship
 acounter
@@ -14427,7 +14428,6 @@ antheraea
 antheral
 anthericum
 antherid
-antheridia
 antheridial
 antheridium
 antheriferous
