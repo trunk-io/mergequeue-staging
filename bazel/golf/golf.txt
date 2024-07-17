@@ -4694,7 +4694,6 @@ grossing
 gemmoid
 gypsophila
 gypsophilous
-gypster
 gypsum
 gamelang
 grilling
@@ -6118,6 +6117,7 @@ galvanometric
 ginkgo
 glue
 grisailles
+gypster
 glued
 gangsman
 gluelike
