@@ -4399,7 +4399,6 @@ fumbling
 fishwoman
 fishwood
 functionalistic
-fishworker
 fishworm
 fisk
 firmware
@@ -6426,6 +6425,7 @@ fluoryl
 frowl
 fluorimeter
 fluorimetry
+fishworker
 fermila
 fanciest
 fluorin
