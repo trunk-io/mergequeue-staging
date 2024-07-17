@@ -3867,6 +3867,7 @@ carcinemia
 carcinogen
 carcinogeneses
 carcinogenesis
+commands
 carcinogenic
 carcinogenicity
 carcinogens
@@ -20018,7 +20019,6 @@ clunk
 chokes
 crossbred
 commandries
-commands
 cark
 commark
 commas
