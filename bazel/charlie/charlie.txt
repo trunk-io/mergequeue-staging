@@ -1015,7 +1015,6 @@ calumnious
 calcariferous
 calcariform
 calcate
-calceate
 calcedon
 calcedony
 calcemia
@@ -21880,6 +21879,7 @@ confarreation
 cardiometry
 confated
 confected
+calceate
 confecting
 confection
 confectionary
