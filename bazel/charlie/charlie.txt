@@ -9553,7 +9553,6 @@ checkbits
 checkbook
 checkbooks
 checke
-checker
 checkerbelly
 checkerbellies
 checkerberry
@@ -21421,6 +21420,7 @@ conciliates
 circumgestation
 conciliating
 conciliatingly
+checker
 cuminic
 conciliation
 conciliations
