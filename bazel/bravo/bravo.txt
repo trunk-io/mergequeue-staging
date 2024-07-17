@@ -13140,6 +13140,7 @@ boshbok
 beamlike
 boshvark
 bonked
+bundlings
 boshvarks
 bosjesman
 boskage
@@ -17720,7 +17721,6 @@ botryllus
 buriat
 buskers
 buriels
-bundlings
 burier
 buriers
 billeter
