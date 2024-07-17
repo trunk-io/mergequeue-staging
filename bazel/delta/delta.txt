@@ -3421,7 +3421,6 @@ defocusses
 defoedation
 defog
 disyllable
-defogger
 defoggers
 defogging
 defogs
@@ -16211,6 +16210,7 @@ disagio
 disgallant
 dovetails
 dovetailwise
+defogger
 doveweed
 dovewood
 dovyalis
