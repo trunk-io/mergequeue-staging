@@ -1423,7 +1423,6 @@ baleare
 balearian
 bullrings
 baled
-baleens
 balefire
 balefires
 baleful
@@ -14965,6 +14964,7 @@ brehonia
 brehonship
 brave
 bohemian
+baleens
 brouillon
 breislakite
 breithauptite
