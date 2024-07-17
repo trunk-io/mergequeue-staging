@@ -6115,7 +6115,6 @@ caucasus
 conioselinum
 cauchemar
 caucho
-carpid
 caucused
 caucuses
 caucusing
@@ -18900,6 +18899,7 @@ coll
 courtiership
 colla
 collab
+carpid
 csnet
 collabent
 collaborate
