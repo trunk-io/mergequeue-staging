@@ -10650,7 +10650,6 @@ chiloma
 chilomastix
 chilomata
 chylomicron
-chiloncus
 chylopericardium
 chylophyllous
 chylophyllously
@@ -29413,6 +29412,7 @@ cudbear
 cryptozygosity
 cloudburst
 cryptozygous
+chiloncus
 cryptozonia
 crypturi
 crypturidae
