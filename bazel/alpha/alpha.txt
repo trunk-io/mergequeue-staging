@@ -17814,7 +17814,6 @@ applewood
 apply
 appliable
 appliableness
-appliance
 accommodation
 aphyllose
 appliant
@@ -18221,6 +18220,7 @@ aquarist
 aquarium
 actability
 aquarius
+appliance
 aquarter
 amidoazobenzol
 aquas
