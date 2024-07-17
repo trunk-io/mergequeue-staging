@@ -4889,7 +4889,6 @@ foresee
 flammed
 flammeous
 flamming
-fishbolt
 footers
 flan
 fishbed
@@ -10758,6 +10757,7 @@ fayalite
 fosterable
 frutices
 fruticeta
+fishbolt
 fruticetum
 fruticose
 feedboard
