@@ -3441,7 +3441,6 @@ deforce
 dalasis
 deuteroprism
 deforcement
-deforceor
 deforcer
 deforces
 deforestation
@@ -10675,6 +10674,7 @@ doradilla
 diplospondylism
 disheartener
 diplostemony
+deforceor
 diplostichous
 diplotaxis
 dinette
