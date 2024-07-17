@@ -5580,6 +5580,7 @@ departmentize
 duddies
 departure
 depas
+desalinator
 depass
 deodar
 delphinoid
@@ -6455,7 +6456,6 @@ desalinated
 dustiness
 desalinates
 desalinating
-desalinator
 duck
 desalinize
 dendrogaean
