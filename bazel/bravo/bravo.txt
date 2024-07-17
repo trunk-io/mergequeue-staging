@@ -2439,7 +2439,6 @@ barbut
 barbute
 baned
 belts
-barbwire
 bergeret
 barcan
 barcarole
@@ -12039,6 +12038,7 @@ boist
 boisterous
 bikeways
 boisterously
+barbwire
 boisterousness
 biffing
 boistousness
