@@ -12102,7 +12102,6 @@ englishness
 excogitative
 excogitator
 excommenge
-excommune
 excommunicable
 excommunicant
 extempory
@@ -13031,6 +13030,7 @@ edifier
 expender
 expenders
 edge
+excommune
 expendible
 expending
 extance
