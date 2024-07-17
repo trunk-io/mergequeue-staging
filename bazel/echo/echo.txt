@@ -2304,7 +2304,6 @@ eructative
 ergosterol
 electroballistics
 electrobath
-electrobiological
 electrobiologically
 electrobiologist
 electroblasting
@@ -7609,6 +7608,7 @@ emusify
 epichile
 epichilia
 epibolies
+electrobiological
 epichilium
 eluviated
 epichindrotic

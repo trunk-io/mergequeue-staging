@@ -5582,7 +5582,6 @@ beldame
 bewrayment
 beldames
 beldams
-broadswords
 beldamship
 bombazeen
 bodgie
@@ -9134,6 +9133,7 @@ banksides
 biose
 biosensor
 buttinsky
+broadswords
 ballyragging
 bioseston
 boebera
