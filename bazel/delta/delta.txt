@@ -4687,7 +4687,6 @@ demitube
 demiturned
 diglyph
 demiurgic
-distributed
 demiurgically
 demiurgus
 demivambrace
@@ -15660,6 +15659,7 @@ dop
 dopa
 depeinct
 dopamelanin
+distributed
 displumed
 dopaminergic
 dopamines

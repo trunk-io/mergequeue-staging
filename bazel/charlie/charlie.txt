@@ -2612,6 +2612,7 @@ cannings
 cannister
 cannisters
 cannoli
+checkwork
 cannon
 concubinarian
 cannonade
@@ -9622,7 +9623,6 @@ crackling
 checkweighman
 centralize
 checkweighmen
-checkwork
 checkwriter
 chedar
 cheddar
