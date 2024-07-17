@@ -10589,7 +10589,6 @@ bleachground
 bleachhouse
 bleachyard
 bleachman
-bleachs
 bleachworks
 bogeyman
 bleak
@@ -14631,6 +14630,7 @@ brassylic
 brassiness
 brassware
 brasswork
+bleachs
 brassworker
 bodegas
 butylamine
