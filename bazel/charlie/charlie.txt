@@ -15693,7 +15693,6 @@ classism
 classisms
 classists
 classless
-classlessness
 classman
 classmanship
 classmate
@@ -16730,6 +16729,7 @@ cymbium
 closets
 closeup
 closeups
+classlessness
 closewing
 closh
 closing
