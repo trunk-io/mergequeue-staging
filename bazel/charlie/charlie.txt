@@ -27869,7 +27869,6 @@ crabman
 crabsidle
 crabstick
 crabut
-cosmo
 crabweed
 conservator
 crabwise
@@ -30403,6 +30402,7 @@ ctetology
 ctf
 ctg
 ctge
+cosmo
 ctn
 cto
 ctr

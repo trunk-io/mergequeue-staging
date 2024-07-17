@@ -450,6 +450,7 @@ faker
 farmed
 formicariidae
 fakery
+follows
 fakeries
 feetage
 faki
@@ -6954,7 +6955,6 @@ friezer
 followeth
 filmiform
 fibroadenoma
-follows
 fomalhaut
 frontager
 falconers
