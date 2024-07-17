@@ -2426,7 +2426,6 @@ ectypography
 electrohemostasis
 electrohorticulture
 electroindustrial
-electroing
 entireness
 endocrinologies
 eudemonistically
@@ -4890,6 +4889,7 @@ engenders
 encrusted
 etch
 encrusting
+electroing
 enculturate
 enculturative
 epikleses
