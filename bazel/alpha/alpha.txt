@@ -1374,7 +1374,6 @@ acanthopteran
 acetylenic
 acanthopterygian
 acanthopterygii
-acanthopterous
 acanthoses
 acanthosis
 acanthotic
@@ -8131,6 +8130,7 @@ algebra
 algebraical
 algebraically
 addled
+acanthopterous
 algebraist
 algebraists
 animable
