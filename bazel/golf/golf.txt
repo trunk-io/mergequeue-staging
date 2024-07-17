@@ -2924,6 +2924,7 @@ gentlefolk
 gentlefolks
 gentleheartedly
 gentleheartedness
+geckotoid
 gaetulan
 gentleman
 garnishes
@@ -4152,7 +4153,6 @@ gildable
 gildedness
 gilden
 gilder
-geckotoid
 gilding
 gildship
 gobioid
