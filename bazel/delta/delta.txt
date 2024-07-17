@@ -3204,7 +3204,6 @@ defendants
 defended
 disaccharidase
 defender
-defenders
 defending
 defendress
 defends
@@ -8076,6 +8075,7 @@ dy
 dia
 diabantite
 diabase
+defenders
 diabases
 diabaterial
 diabetes
