@@ -4941,7 +4941,6 @@ aeration
 aerations
 aerator
 aerenchyma
-anisogametes
 aerenterectasia
 aflush
 antisaloon
@@ -19323,6 +19322,7 @@ areae
 aspartic
 areal
 areality
+anisogametes
 areally
 arear
 areas
