@@ -6043,7 +6043,6 @@ catskinner
 cuartino
 catslide
 catso
-catsos
 catspaw
 catspaws
 catstane
@@ -13006,6 +13005,7 @@ chutes
 chuting
 chutist
 chutists
+catsos
 carpocapsa
 chutnee
 chondromatous

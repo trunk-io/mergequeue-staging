@@ -9015,6 +9015,7 @@ global
 grimgribber
 gigantopithecus
 grimy
+guardants
 genizero
 gibbing
 grimier
@@ -9927,7 +9928,6 @@ glycerolyses
 generalissima
 goggliest
 guardant
-guardants
 guardedness
 gamboller
 guarder
