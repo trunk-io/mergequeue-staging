@@ -11455,7 +11455,6 @@ chlorprophenpyridamine
 chlorsalol
 chlortetracycline
 chm
-chmn
 chnuphis
 cho
 choachyte
@@ -20947,6 +20946,7 @@ comprend
 carminatives
 compresbyter
 compresbyterial
+chmn
 compresence
 compress
 caboodles
