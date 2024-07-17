@@ -16214,7 +16214,6 @@ climatize
 criminalness
 climatographical
 climatology
-climatologic
 climatological
 climatologically
 climatologist
@@ -24693,6 +24692,7 @@ copolymer
 copolymeric
 copolymerism
 copolymerization
+climatologic
 copolymerize
 copolymerized
 copolymerizing
