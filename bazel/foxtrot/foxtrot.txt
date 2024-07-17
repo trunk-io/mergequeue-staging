@@ -7169,7 +7169,6 @@ footnote
 footnoted
 footnotes
 footpace
-fantails
 forefather
 footler
 footpad
@@ -10773,6 +10772,7 @@ ft
 flirty
 foreigner
 fthm
+fantails
 ftncmd
 frenetic
 folacin
