@@ -3206,7 +3206,6 @@ geophysical
 gamboler
 glamoury
 gellert
-geophone
 gantlet
 geophones
 geoplana
@@ -8462,6 +8461,7 @@ geminal
 gallivanted
 gyroidally
 geotectonic
+geophone
 graveship
 glottiscope
 gravestead
