@@ -3158,7 +3158,6 @@ fid
 fidac
 fishplate
 fidate
-floodgate
 functorial
 fidawi
 fidded
@@ -4309,6 +4308,7 @@ fishable
 friezing
 fishback
 forded
+floodgate
 fistulatous
 flatware
 flannel
