@@ -3779,7 +3779,6 @@ dynamiting
 devaporate
 deicidal
 deicide
-deicides
 deicing
 durmast
 deidesheimer
@@ -5176,6 +5175,7 @@ dipperful
 denizate
 denize
 diplomyelia
+deicides
 denizen
 denizenation
 denizened
