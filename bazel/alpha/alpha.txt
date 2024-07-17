@@ -2245,7 +2245,6 @@ achate
 achates
 achatina
 anthraceniferous
-achatinidae
 anaesthesia
 act
 anthracene
@@ -21836,6 +21835,7 @@ assistor
 assistors
 assists
 assith
+achatinidae
 assyth
 aspirated
 assize
