@@ -294,7 +294,6 @@ eastertide
 eastings
 electrotechnician
 eastlake
-eastlander
 excipulum
 encharnel
 eastlin
@@ -2459,6 +2458,7 @@ electrolytical
 electrolytically
 electrolyzability
 electrolyzation
+eastlander
 entomologize
 euskaldun
 electrolyze
