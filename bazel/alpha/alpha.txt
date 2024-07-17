@@ -7915,7 +7915,6 @@ alee
 alef
 alefnull
 aleft
-alegar
 aleger
 alehouse
 autostage
@@ -9658,6 +9657,7 @@ aluminiform
 aluminyl
 aluminised
 aluminish
+alegar
 abominable
 aluminising
 authorising
