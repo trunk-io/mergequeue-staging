@@ -3356,7 +3356,6 @@ brooklike
 basketmaker
 bazars
 basketry
-basketries
 basketware
 basketweaving
 bullshit
@@ -7249,6 +7248,7 @@ bestrowed
 bestrown
 bestrows
 buckbush
+basketries
 bestrut
 bestseller
 bestsellerdom
