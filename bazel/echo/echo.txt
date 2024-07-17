@@ -11847,7 +11847,6 @@ exarchy
 elemol
 exarchic
 excides
-exarchies
 escadrilles
 exarchs
 exercised
@@ -11951,6 +11950,7 @@ erythrons
 enculturation
 exception
 exceptionability
+exarchies
 exceptional
 exceptionally
 exceptionless

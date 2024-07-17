@@ -14134,7 +14134,6 @@ cypraea
 cypraeid
 cypraeidae
 cypraeiform
-cypraeoid
 cypre
 cypres
 cypreses
@@ -27450,6 +27449,7 @@ circumstant
 coutel
 coutelle
 complimenter
+cypraeoid
 couter
 combativity
 conveyancer
