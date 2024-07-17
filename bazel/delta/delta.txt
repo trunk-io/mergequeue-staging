@@ -5765,7 +5765,6 @@ depolarization
 desulphurizer
 damasks
 depolarize
-depolarized
 depolarizers
 depolarizes
 deathlike
@@ -13146,6 +13145,7 @@ dispost
 devisings
 debase
 deprivative
+depolarized
 displeaser
 dadouchos
 dubbings
