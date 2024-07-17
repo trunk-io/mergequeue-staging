@@ -5275,7 +5275,6 @@ begorah
 begorry
 begotten
 begray
-begrain
 begrave
 begrim
 begrimer
@@ -8000,6 +7999,7 @@ blatters
 bicyclist
 bicyclists
 bicyclo
+begrain
 bicycular
 biciliated
 bisulcated
