@@ -382,7 +382,6 @@ chaperno
 cacotheline
 cacothes
 cacothesis
-cacothymia
 cacotype
 cacotopia
 cacotrophia
@@ -13152,6 +13151,7 @@ cyaphenine
 cyath
 cyathaspis
 cyatheaceae
+cacothymia
 cyatheaceous
 cyathia
 countrypeople
