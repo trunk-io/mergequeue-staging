@@ -7526,7 +7526,6 @@ especialness
 ephoral
 ephoralty
 ephorate
-emandibulate
 ephori
 ephoric
 ephors
@@ -12629,6 +12628,7 @@ extracardial
 endurable
 epigonos
 exhumating
+emandibulate
 exocardial
 exocarps
 exocataphoria
