@@ -1556,7 +1556,6 @@ derider
 deadmelt
 deadness
 deadnesses
-dustproof
 deadpay
 deadpan
 deadpans
@@ -10023,6 +10022,7 @@ dimout
 dimouts
 dimple
 dimplement
+dustproof
 dimples
 dimply
 dimplier
