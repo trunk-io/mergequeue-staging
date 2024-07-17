@@ -553,7 +553,6 @@ fluidram
 faller
 familarity
 fallfish
-fally
 fallibility
 fractious
 fusileers
@@ -4320,6 +4319,7 @@ faultless
 fishbone
 fishbowl
 fisherboat
+fally
 fisherboy
 fingerwise
 fisheress
