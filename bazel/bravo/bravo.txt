@@ -11814,6 +11814,7 @@ bodysuit
 bodysuits
 bodysurf
 bodysurfer
+blastoporic
 bodysurfing
 bodysurfs
 bodywear
@@ -14039,7 +14040,6 @@ brachypinacoid
 brachypinacoidal
 benin
 balanoglossida
-blastoporic
 brachypodine
 brachyprism
 brachyprosopic

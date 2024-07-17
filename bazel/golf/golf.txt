@@ -4814,7 +4814,6 @@ gneiss
 gaddis
 girned
 girnie
-gripless
 gathering
 gyro
 gyrocar
@@ -6780,6 +6779,7 @@ guardlike
 gauchos
 geryonidae
 grusian
+gripless
 gander
 glimmer
 gonadotrophic
