@@ -3060,7 +3060,6 @@ barstools
 bartended
 barhopped
 bartender
-bartenders
 bartending
 bartends
 brothers
@@ -15912,6 +15911,7 @@ byard
 bundle
 brooding
 bronchiloquy
+bartenders
 bronchiocele
 bronchiocrisis
 bronchiolar
