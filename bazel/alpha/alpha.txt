@@ -4668,6 +4668,7 @@ archeologic
 ashpan
 adversative
 adverse
+autographical
 adversely
 actinoid
 adverseness
@@ -23681,7 +23682,6 @@ auscultated
 auscultates
 auscultation
 auscultative
-autographical
 auscultoscope
 auditioned
 anisostemonous
