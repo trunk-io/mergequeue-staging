@@ -1296,7 +1296,6 @@ filicin
 fasts
 faunus
 fatiguability
-fastuous
 fastuousness
 fastus
 foreking
@@ -7479,6 +7478,7 @@ foreboding
 forebodingness
 frivolize
 fluorometry
+fastuous
 folliculose
 forlornness
 foreboom
