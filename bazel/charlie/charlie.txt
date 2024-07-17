@@ -7948,7 +7948,6 @@ cestoidean
 cestoids
 ceston
 cestraciont
-charas
 cestraciontes
 cestraciontidae
 cestraction
@@ -20560,6 +20559,7 @@ compassment
 compatibilities
 compatible
 compatibleness
+charas
 compatibles
 compatience
 compatriot
