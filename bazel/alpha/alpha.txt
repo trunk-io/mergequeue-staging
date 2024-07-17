@@ -8519,7 +8519,6 @@ alkalinity
 alkalinities
 alkalinization
 alkalinize
-alkalinized
 alkalis
 asunder
 alkalisable
@@ -12438,6 +12437,7 @@ andreas
 andrena
 andrenid
 andrew
+alkalinized
 andrewsite
 andria
 andriana
