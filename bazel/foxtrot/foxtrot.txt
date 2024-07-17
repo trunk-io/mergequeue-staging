@@ -3670,7 +3670,6 @@ fillock
 forewent
 fortieths
 filmable
-fritillary
 filmcard
 filmcards
 furoin
@@ -10392,6 +10391,7 @@ forgrown
 foresaid
 frontiersmen
 formularize
+fritillary
 fitter
 furze
 flatuosity
