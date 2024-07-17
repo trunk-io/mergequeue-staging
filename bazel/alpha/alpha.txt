@@ -15227,7 +15227,6 @@ antidromous
 antidrug
 antidumping
 antiecclesiastic
-antiecclesiastical
 antiecclesiastically
 antiecclesiasticism
 antiedemic
@@ -17102,6 +17101,7 @@ awned
 aplopappus
 aplostemonous
 aplotomy
+antiecclesiastical
 apluda
 aclemon
 aplustra
