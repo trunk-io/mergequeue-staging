@@ -13225,7 +13225,6 @@ biographic
 boswellizing
 bouleuteria
 bota
-bitypic
 botanic
 botanica
 botanical
@@ -16454,6 +16453,7 @@ bubbled
 bardel
 bubbleless
 barbering
+bitypic
 bubblelike
 bubbler
 bubblers
