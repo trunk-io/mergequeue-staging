@@ -3307,6 +3307,7 @@ embale
 emballonurid
 emballonuridae
 embalm
+escadrilles
 embalmed
 embalmer
 embalmment
@@ -11846,7 +11847,6 @@ elemol
 exarchic
 excides
 exarchies
-escadrilles
 exarchs
 exercised
 eth

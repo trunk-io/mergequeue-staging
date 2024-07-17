@@ -1086,7 +1086,6 @@ gefilte
 ganglander
 gangly
 ganglia
-ganglial
 gybed
 globigerinidae
 glossodynia
@@ -6536,6 +6535,7 @@ goff
 generation
 goffered
 gnars
+ganglial
 goffle
 gisler
 gogga
