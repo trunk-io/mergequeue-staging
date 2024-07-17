@@ -6671,6 +6671,7 @@ golding
 gigged
 goldish
 greencoat
+getah
 gleamier
 goldlike
 goldminer
@@ -9443,7 +9444,6 @@ gervao
 gelled
 groundneedle
 groundplot
-getah
 grounds
 givey
 geomorphological
