@@ -2279,7 +2279,6 @@ electricize
 electrics
 electriferous
 editorialist
-electrifiable
 electrified
 esthetophore
 electrifiers
@@ -12122,6 +12121,7 @@ exophthalmia
 enterectomies
 eldrich
 excorticating
+electrifiable
 explainability
 excrement
 excrementally
