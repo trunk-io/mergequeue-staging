@@ -929,7 +929,6 @@ gametal
 gametange
 gilds
 gametangium
-gotha
 gametes
 gametocyst
 geison
@@ -2479,6 +2478,7 @@ glucate
 gleanings
 gilgul
 gingal
+gotha
 geminations
 galvanizations
 gemini
