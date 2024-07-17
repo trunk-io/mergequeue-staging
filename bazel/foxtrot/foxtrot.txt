@@ -610,6 +610,7 @@ falsies
 fenster
 falsify
 falsifiability
+friezes
 falsificate
 falsification
 fourchee
@@ -9163,7 +9164,6 @@ flatwork
 fingall
 fractionalize
 fractionalized
-friezes
 fractionalizing
 fnese
 fractionally
