@@ -6079,7 +6079,6 @@ enneadic
 enneaeteric
 enneagonal
 enneagons
-enneahedral
 enantiopathic
 electrizer
 enneahedria
@@ -11456,6 +11455,7 @@ epanaleptic
 effuse
 eventime
 entosternite
+enneahedral
 entrepas
 eventlessly
 eberthella
