@@ -7897,7 +7897,6 @@ begoggled
 bibliothec
 bibliotheca
 bibliothecaire
-bibliothecal
 bibliothecary
 bibliothecas
 bannered
@@ -14893,6 +14892,7 @@ breathingly
 beche
 breathless
 beater
+bibliothecal
 breathlessly
 breba
 breccia
