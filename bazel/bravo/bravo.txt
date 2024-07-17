@@ -5602,7 +5602,6 @@ besoin
 beleed
 biloxi
 belemnid
-belemnites
 behavioral
 belemnitic
 belemnitidae
@@ -11527,6 +11526,7 @@ bascology
 bm
 bn
 bnf
+belemnites
 boa
 boaedon
 boagane
