@@ -11994,7 +11994,6 @@ chorial
 choriamb
 choriambic
 cajoler
-choriambize
 choriambs
 choriambus
 choriambuses
@@ -20687,6 +20686,7 @@ complaisance
 complaisant
 congregationally
 cogitativity
+choriambize
 complaisantly
 complaisantness
 complanate
