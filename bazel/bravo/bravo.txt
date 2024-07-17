@@ -544,7 +544,6 @@ backspierer
 backsplice
 bladed
 backspliced
-backsplicing
 backspringing
 backstab
 backstabbed
@@ -11833,6 +11832,7 @@ baalite
 boe
 boedromion
 boehmenism
+backsplicing
 boehmenist
 boehmenite
 bluetop
