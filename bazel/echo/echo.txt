@@ -7974,7 +7974,6 @@ epimerite
 epimeritic
 evidenced
 eigenvector
-epimerize
 endoenzyme
 epimerized
 epimerizing
@@ -9591,6 +9590,7 @@ escrow
 exertion
 esterlin
 escrowed
+epimerize
 escuage
 envisages
 escudero
