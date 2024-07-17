@@ -2625,7 +2625,6 @@ gasmaker
 granita
 generalissimo
 generalissimos
-glandered
 generalists
 generaliter
 generality
@@ -2985,6 +2984,7 @@ geobiont
 geobios
 glossography
 geobotanic
+glandered
 gloppy
 geobotanically
 gurgulation
