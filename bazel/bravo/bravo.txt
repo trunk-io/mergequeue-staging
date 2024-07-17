@@ -6862,7 +6862,6 @@ beseam
 bosniak
 beseech
 beseecher
-beseeching
 beseechingness
 beseechment
 beseek
@@ -12775,6 +12774,7 @@ bizel
 boorish
 boorishness
 boors
+beseeching
 boort
 bushment
 boose
