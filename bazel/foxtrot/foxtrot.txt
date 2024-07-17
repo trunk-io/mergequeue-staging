@@ -6145,7 +6145,6 @@ flutey
 flowcontrol
 formalise
 flowe
-flowed
 flower
 flowerbed
 flowerers
@@ -6318,6 +6317,7 @@ fa
 flukier
 flukiest
 feists
+flowed
 flukiness
 fisted
 funebre
