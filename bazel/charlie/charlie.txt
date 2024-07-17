@@ -11614,7 +11614,6 @@ clacket
 cholecystonephrostomy
 cholecystopexy
 cholecystorrhaphy
-cholecystostomy
 cholecystostomies
 cholecystotomy
 cholecystotomies
@@ -23365,6 +23364,7 @@ contagionist
 computation
 cloamer
 contagions
+cholecystostomy
 contagiosity
 contagious
 contagiousness
