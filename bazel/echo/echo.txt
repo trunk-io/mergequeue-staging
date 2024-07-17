@@ -3139,7 +3139,6 @@ enterophthisis
 eluants
 eluate
 eluated
-elucid
 esperantido
 elucidated
 echoed
@@ -6158,6 +6157,7 @@ enolizing
 extollers
 exertions
 enologist
+elucid
 enols
 enomaniac
 erysipelous
