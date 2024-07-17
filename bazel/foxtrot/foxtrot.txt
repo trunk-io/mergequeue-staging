@@ -1744,7 +1744,6 @@ faunology
 featherbrain
 fitified
 feathercut
-feathered
 featherer
 featherfoil
 featherheaded
@@ -8612,6 +8611,7 @@ forswat
 forswear
 forswearer
 forswearing
+feathered
 falterers
 forswears
 farmable
