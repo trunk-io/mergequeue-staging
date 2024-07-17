@@ -3646,7 +3646,6 @@ entoptoscopy
 embryoferous
 embryogenesis
 embryogenetic
-embryogony
 embryographer
 embryography
 embryographic
@@ -7759,6 +7758,7 @@ epidermous
 etna
 epiderms
 enshield
+embryogony
 embracing
 estafet
 ebullioscopy
