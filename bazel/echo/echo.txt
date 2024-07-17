@@ -4060,7 +4060,6 @@ embrangled
 empennage
 empennages
 empeo
-epicranial
 emperess
 emperies
 emperil
@@ -8723,6 +8722,7 @@ equiponderate
 equipondious
 equipostile
 electroacoustical
+epicranial
 eulogistical
 ethylating
 equipotentiality
