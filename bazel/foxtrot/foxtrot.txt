@@ -2865,7 +2865,6 @@ frederick
 fleches
 feulamort
 feuter
-feverberry
 fjeld
 foisting
 feverbush
@@ -11005,6 +11004,7 @@ flashy
 fumbles
 fichtelite
 fumblingly
+feverberry
 fetterer
 fume
 flitches
