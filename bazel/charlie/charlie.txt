@@ -1612,6 +1612,7 @@ calottes
 calp
 clerkery
 calpac
+compulsorily
 calpack
 calpacked
 calpacks
@@ -21047,7 +21048,6 @@ compulsiveness
 culiciform
 compulsives
 compulsivity
-compulsorily
 compunct
 compunction
 consolidate
