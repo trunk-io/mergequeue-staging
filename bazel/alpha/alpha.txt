@@ -8928,7 +8928,6 @@ alloyed
 alloimmune
 alloiogenesis
 alloiometry
-alloiometric
 alloys
 amins
 alloisomer
@@ -20852,6 +20851,7 @@ arupa
 arusa
 authenticating
 archpapist
+alloiometric
 aruspice
 aruspices
 aruspicy
