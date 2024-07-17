@@ -8951,7 +8951,6 @@ allomorphite
 allomucic
 allonge
 anglish
-arbitrable
 arybballi
 allonym
 allonymous
@@ -15647,6 +15646,7 @@ aegophony
 antimilitarist
 antimilitaristic
 antiministerial
+arbitrable
 aiming
 antiminsion
 antimissile
