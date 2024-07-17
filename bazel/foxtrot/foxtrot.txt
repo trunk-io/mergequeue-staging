@@ -2508,6 +2508,7 @@ footcloths
 ferryman
 ferring
 fault
+fidepromission
 ferriprussiate
 ferris
 fastball
@@ -3223,7 +3224,6 @@ fertilizable
 fidelis
 fidelity
 fideos
-fidepromission
 fidepromissor
 fluxweed
 farcied
