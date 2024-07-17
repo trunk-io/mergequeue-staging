@@ -2909,6 +2909,7 @@ fewneses
 fraternism
 fascinate
 fewness
+flanker
 flamberg
 fewnesses
 followings
@@ -4917,7 +4918,6 @@ flangeless
 flangers
 flangeway
 flankard
-flanker
 flankers
 flanking
 flankwise

@@ -10238,7 +10238,6 @@ afflictive
 ambuscadoed
 ambuscados
 assarion
-ambushed
 ambusher
 acetaldehydase
 ambushers
@@ -17278,6 +17277,7 @@ apologia
 aesthetic
 apologiae
 alphitomancy
+ambushed
 acatharsy
 apological
 apologies
