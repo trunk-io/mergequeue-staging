@@ -5185,7 +5185,6 @@ endogastritis
 endogen
 endogenicity
 endogenies
-endogenously
 effodientia
 endogens
 endognathion
@@ -8089,6 +8088,7 @@ epiplasmic
 eonisms
 epiplastral
 eviscerate
+endogenously
 epiplastron
 epipleurae
 epipleural
