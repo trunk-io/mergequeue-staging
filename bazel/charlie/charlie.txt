@@ -8901,6 +8901,7 @@ characid
 characids
 characin
 characine
+creamery
 characinid
 cocitizen
 characinidae
@@ -28423,7 +28424,6 @@ creamcup
 creamcups
 creamed
 creamer
-creamery
 creameries
 creameryman
 creamers
