@@ -1240,7 +1240,6 @@ datedly
 datedness
 dateless
 datelessness
-dateline
 datelined
 datelines
 duckboat
@@ -1940,6 +1939,7 @@ decadarchy
 decompressed
 decadary
 decade
+dateline
 decadency
 diuretic
 desolateness
