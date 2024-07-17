@@ -2542,7 +2542,6 @@ bares
 baresark
 baresarks
 baresma
-baresthesia
 baretta
 barf
 barfed
@@ -10129,6 +10128,7 @@ blackheart
 blackhearted
 blackheartedly
 bitters
+baresthesia
 blackheartedness
 blackies
 bobbles
