@@ -15535,7 +15535,6 @@ allocatee
 antilogarithmic
 antilogarithms
 antilogy
-antilogic
 atropinize
 antilogies
 antilogism
@@ -18242,6 +18241,7 @@ afterbay
 aqueoglacial
 aqueoigneous
 aqueomercurial
+antilogic
 aqueous
 aqueously
 aqueousness
