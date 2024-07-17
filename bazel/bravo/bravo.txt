@@ -7589,6 +7589,7 @@ bedirt
 beworry
 bushi
 briquetting
+barkstone
 beworried
 beworries
 beworrying
@@ -14734,7 +14735,6 @@ bulldogging
 brazes
 braziery
 burgheress
-barkstone
 buster
 bilgewater
 brazilette
