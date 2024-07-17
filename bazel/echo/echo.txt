@@ -888,6 +888,7 @@ ectolecithal
 ectomere
 ectomeres
 ectomeric
+escheatable
 ectomesoblast
 encapsulates
 ectomorph
@@ -6540,7 +6541,6 @@ expunger
 entastic
 entea
 erns
-escheatable
 entelam
 egress
 empetraceae
