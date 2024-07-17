@@ -1468,7 +1468,6 @@ callisthenics
 cenotaphic
 callisto
 callithrix
-callithump
 callithumpian
 callityped
 callityping
@@ -4714,6 +4713,7 @@ carri
 carry
 carriable
 carryable
+callithump
 carriage
 carriageful
 carriageless
