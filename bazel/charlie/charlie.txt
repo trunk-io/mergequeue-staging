@@ -1919,7 +1919,6 @@ camister
 camize
 cosmolabe
 camla
-camlet
 camleted
 camleteen
 camletine
@@ -8424,6 +8423,7 @@ chalon
 chalone
 chalones
 chalot
+camlet
 chaloth
 chaloupe
 chalta
