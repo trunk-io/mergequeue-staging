@@ -6114,7 +6114,6 @@ agglutinogen
 aphorismical
 agglutinogenic
 an
-agglutinoscope
 actinologous
 aggrace
 aggradation
@@ -14466,6 +14465,7 @@ anthochlor
 anthochlorine
 anthocyan
 anthocyanidin
+agglutinoscope
 anthocyanin
 anthoclinium
 additamentary

@@ -4622,7 +4622,6 @@ feezed
 fuzil
 fluorocarbons
 freighting
-fjorded
 fjorgyn
 fl
 flabbella
@@ -11167,6 +11166,7 @@ funerals
 funerary
 frenchize
 funeration
+fjorded
 flense
 footsoldiers
 fieldball
