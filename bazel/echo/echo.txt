@@ -2255,7 +2255,6 @@ elector
 exotic
 electorate
 electorates
-electors
 electragy
 electre
 electress
@@ -11998,6 +11997,7 @@ exchanger
 elbowing
 exchanges
 exchequer
+electors
 exchequers
 excide
 endophragm
