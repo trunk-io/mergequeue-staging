@@ -2244,6 +2244,7 @@ fencers
 ferronickel
 firebricks
 fences
+frithwork
 forelaying
 featherwise
 forestallment
@@ -8423,7 +8424,6 @@ formicated
 fragments
 fishing
 fluffy
-frithwork
 formicating
 forbiddingly
 fideicommissumissa
