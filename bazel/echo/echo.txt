@@ -3139,7 +3139,6 @@ eluated
 elucid
 esperantido
 elucidated
-echoed
 elucidates
 elucidating
 elucidations
@@ -7699,6 +7698,7 @@ epitritic
 epidemicity
 exoascus
 epidemics
+echoed
 epidemiography
 ethynyls
 epidemiology
