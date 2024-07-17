@@ -1887,6 +1887,7 @@ bancus
 band
 bandaged
 baragouinish
+barters
 bassoons
 baign
 bandager
@@ -3063,7 +3064,6 @@ bartered
 barterer
 barterers
 bangia
-barters
 barth
 barthite
 bucketmaker
