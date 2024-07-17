@@ -3083,7 +3083,6 @@ fusarial
 fullterm
 fracture
 framed
-fibrovascular
 fibs
 fibster
 fomento
@@ -8802,6 +8801,7 @@ fossiliferous
 footgears
 flukey
 foregallery
+fibrovascular
 fossilification
 fossilisable
 fossilised
