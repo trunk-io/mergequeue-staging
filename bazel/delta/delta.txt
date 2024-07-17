@@ -3817,7 +3817,6 @@ deimos
 deincrustant
 deindividualization
 deindividualize
-deindividuate
 dicarboxylate
 dodonaeaceae
 deink
@@ -8209,6 +8208,7 @@ diaereses
 diaeresis
 diaeretic
 diaetetae
+deindividuate
 diag
 diner
 diagenesis
