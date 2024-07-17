@@ -2625,6 +2625,7 @@ generalities
 generalizations
 generalize
 girt
+giganticness
 generalizeable
 generalizer
 generalizers
@@ -4039,7 +4040,6 @@ gangliform
 gansy
 giganticidal
 giganticide
-giganticness
 grayback
 glandular
 glittersome
