@@ -6576,7 +6576,6 @@ enterobacterial
 enterocele
 enterocentesis
 enteroceptor
-enterochirurgia
 expandability
 equimultiple
 erotopathy
@@ -9733,6 +9732,7 @@ eichhornia
 entitule
 esoterically
 extranidal
+enterochirurgia
 esotericism
 ephemera
 esotericist
