@@ -6547,7 +6547,6 @@ agricolous
 agriculturalist
 alaudine
 agriculture
-agriculturer
 agricultures
 agriculturists
 agrief
@@ -14513,6 +14512,7 @@ anthophora
 anthophorous
 anthorine
 anthos
+agriculturer
 anthospermum
 anthotaxy
 anthotropic
