@@ -4390,7 +4390,6 @@ flumes
 fasted
 foreseers
 fishtailed
-fitten
 fishtails
 fishways
 fishweed
@@ -9677,6 +9676,7 @@ freesilverism
 folliculosis
 freesilverite
 freespace
+fitten
 freest
 freestanding
 freestone
