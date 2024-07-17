@@ -2450,7 +2450,6 @@ electrolysed
 electrolyses
 electrolysing
 electrolyte
-episcopable
 electrolithotrity
 electrolytic
 electrolytical
@@ -12515,6 +12514,7 @@ exhortingly
 exhorts
 exhumations
 ethnogeographer
+episcopable
 exhumator
 exhumatory
 epimerise
