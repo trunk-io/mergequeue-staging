@@ -20543,6 +20543,7 @@ arteriosclerotic
 arteriosympathectomy
 arteriostenosis
 asst
+asphyxiated
 antifelony
 arteriostosis
 arteriostrepsis
@@ -21484,7 +21485,6 @@ asphyxia
 asphyxial
 asphyxias
 asphyxiate
-asphyxiated
 asphyxiates
 asphyxiating
 asphyxiative
