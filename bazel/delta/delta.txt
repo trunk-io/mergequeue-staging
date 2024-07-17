@@ -8700,7 +8700,6 @@ diastrophism
 diatessaron
 diathermal
 diathermance
-diathermancy
 diathermaneity
 diathermanous
 diathermic
@@ -15366,6 +15365,7 @@ dominated
 dominating
 dominatingly
 dolomitising
+diathermancy
 difficult
 domination
 decursion
