@@ -2486,7 +2486,6 @@ electromechanical
 electromechanically
 electromer
 equivalenced
-electromeric
 electromerism
 electrometer
 enage
@@ -13949,6 +13948,7 @@ europa
 extras
 extrasacerdotal
 extrascholastic
+electromeric
 eavesdropped
 extraschool
 ere

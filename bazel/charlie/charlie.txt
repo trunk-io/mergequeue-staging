@@ -3330,7 +3330,6 @@ caririan
 capstan
 capstans
 couplets
-capstone
 capstones
 capsula
 cholangiographic
@@ -20822,6 +20821,7 @@ complimenting
 complimentingly
 compliments
 complin
+capstone
 compline
 complines
 complins
