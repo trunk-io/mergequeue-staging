@@ -2577,6 +2577,7 @@ bargellos
 bargeload
 bargepole
 booklice
+brigsail
 bricklaying
 barmkin
 barges
@@ -15317,7 +15318,6 @@ befingers
 bosom
 bilker
 borasco
-brigsail
 brigue
 basifiers
 bibelot
