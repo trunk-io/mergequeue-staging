@@ -6630,6 +6630,7 @@ celebesian
 celebrant
 compendium
 celebrants
+curvedness
 celebrate
 celebrated
 celebratedly
@@ -8247,7 +8248,6 @@ circumaviator
 chairway
 chairwarmer
 chairwoman
-curvedness
 chrysalis
 chairwomen
 chais
