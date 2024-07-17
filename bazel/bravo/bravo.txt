@@ -5112,7 +5112,6 @@ bullfights
 beforested
 braeside
 befoul
-befouled
 befouler
 befoulers
 befountained
@@ -18252,6 +18251,7 @@ butterflying
 butterflylike
 butterhead
 butterier
+befouled
 barbarizes
 butteriest
 butteryfingered
