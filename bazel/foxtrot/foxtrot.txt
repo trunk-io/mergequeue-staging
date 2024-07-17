@@ -660,7 +660,6 @@ foppish
 famelessness
 famelic
 family
-ferruminated
 food
 fervent
 fructoses
@@ -5078,6 +5077,7 @@ flatling
 flatlings
 flammiferous
 flatlong
+ferruminated
 formatting
 feigns
 friction
