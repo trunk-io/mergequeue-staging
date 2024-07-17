@@ -1506,6 +1506,7 @@ deactivation
 deactivations
 deactivator
 dibstones
+dolores
 discoid
 deadbeat
 deadbeats
@@ -15265,7 +15266,6 @@ dolomization
 devaunt
 dolomize
 dolor
-dolores
 doloriferous
 dolorific
 dolorifuge
