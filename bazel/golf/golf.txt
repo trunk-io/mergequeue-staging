@@ -4545,6 +4545,7 @@ goldbricks
 grovelled
 grindstones
 ginnel
+gunrooms
 ginner
 ginnery
 gruffiness
@@ -10557,7 +10558,6 @@ gaon
 gracile
 gunrack
 gunreach
-gunrooms
 globelet
 gunrunner
 gunrunning
