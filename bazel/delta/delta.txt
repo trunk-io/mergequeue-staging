@@ -2605,6 +2605,7 @@ decolors
 decolour
 decolouration
 decolourisation
+draws
 decolourised
 dispending
 decolouriser
@@ -9606,7 +9607,6 @@ digressingly
 deerskins
 digression
 digressional
-draws
 doup
 digressions
 digressive
