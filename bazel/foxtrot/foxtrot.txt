@@ -2093,7 +2093,6 @@ furrings
 fluidglycerate
 felloes
 fitout
-felidae
 fusc
 fluoranthene
 fellowly
@@ -8346,6 +8345,7 @@ formalin
 forethough
 formaliser
 formalism
+felidae
 formalisms
 formalistically
 fibromyositis
