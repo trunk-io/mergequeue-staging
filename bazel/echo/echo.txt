@@ -2442,7 +2442,6 @@ evict
 excitability
 epistolize
 euge
-extensum
 eardrop
 ethambutol
 electrolyse
@@ -2528,6 +2527,7 @@ electroosmosis
 egoity
 execrator
 electropathy
+extensum
 electropathic
 extramorainic
 electrophilic
