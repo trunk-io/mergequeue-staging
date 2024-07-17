@@ -2028,7 +2028,6 @@ felicitation
 finetop
 firmland
 fluorene
-felicitator
 felicity
 felicitous
 flunkyish
@@ -11416,6 +11415,7 @@ furlong
 furlongs
 fandangle
 furloughed
+felicitator
 furloughing
 furmenties
 furmint
