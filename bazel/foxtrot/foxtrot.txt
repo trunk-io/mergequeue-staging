@@ -3999,6 +3999,7 @@ finish
 figure
 finished
 flatterdock
+fiber
 forride
 finisher
 febrifacient
@@ -7748,7 +7749,6 @@ forelook
 filterable
 flowerets
 flavobacterium
-fiber
 forelooper
 feint
 foulnesses
