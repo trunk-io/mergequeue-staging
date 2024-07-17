@@ -5503,7 +5503,6 @@ bekiss
 bekissed
 bekisses
 bekissing
-belfather
 begrimed
 beknighted
 bps
@@ -8065,6 +8064,7 @@ bicornous
 bicornuate
 bicornuous
 bicornute
+belfather
 bicorporal
 backlighting
 botaniser
