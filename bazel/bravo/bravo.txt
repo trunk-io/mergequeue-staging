@@ -11595,7 +11595,6 @@ brunonian
 boatfalls
 boatful
 boathead
-boathook
 boathouses
 boatyard
 boatyards
@@ -17311,6 +17310,7 @@ bumpoff
 bondwoman
 bumpology
 bumps
+boathook
 boilerworks
 bumptiously
 belimousined
