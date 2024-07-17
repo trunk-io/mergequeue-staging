@@ -4754,7 +4754,6 @@ enclaves
 enclaving
 enclitical
 enclitically
-enclitics
 encloak
 enclog
 eclipsis
@@ -11214,6 +11213,7 @@ eustele
 eustyle
 epidendric
 eusuchian
+enclitics
 eutaenia
 endorser
 eutannin
