@@ -6986,7 +6986,6 @@ census
 caecitis
 censuses
 censusing
-cent
 centage
 contaminants
 centai
@@ -27483,6 +27482,7 @@ coaeval
 couve
 condescend
 couvert
+cent
 couverte
 couveuse
 couxia
