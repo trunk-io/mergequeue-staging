@@ -1201,6 +1201,7 @@ calesin
 calfbound
 controversies
 calfdozer
+chiasmic
 calfish
 calfkill
 calfless
@@ -10297,7 +10298,6 @@ chiasmatype
 chaliced
 chiasmatypy
 chiasmi
-chiasmic
 chiasmodontid
 chiasms
 chiastic
