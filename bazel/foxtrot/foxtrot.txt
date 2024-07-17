@@ -3525,6 +3525,7 @@ fanti
 filemark
 fasciated
 filemarks
+flagmen
 filemot
 filename
 filer
@@ -4749,7 +4750,6 @@ flaglike
 fallers
 flagmaker
 franchisement
-flagmen
 frilling
 furcule
 flagons
