@@ -4672,7 +4672,6 @@ enchodontidae
 enchodontoid
 enchondroma
 electrometallurgical
-enchondromas
 enchondromata
 enchondrosis
 enchorial
@@ -8069,6 +8068,7 @@ equidivision
 emerged
 embuia
 emerize
+enchondromas
 epiphytes
 epiphytically
 epiphytism
