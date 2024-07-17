@@ -16908,6 +16908,7 @@ clubfooted
 cutin
 clubhand
 curvimeter
+corpulentness
 clubhands
 clubhauled
 cassation
@@ -25651,7 +25652,6 @@ corpulencies
 corpulent
 corpulently
 cascabels
-corpulentness
 corpus
 corpuscle
 cleruchic
