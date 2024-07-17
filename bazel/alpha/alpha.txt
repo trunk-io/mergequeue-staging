@@ -10561,7 +10561,6 @@ amygdales
 amygdalic
 anticyclones
 amygdaliferous
-amygdalin
 amygdaline
 amygdalinic
 amygdalitis
@@ -12411,6 +12410,7 @@ andiron
 andoke
 andor
 andorite
+amygdalin
 andorobo
 andorran
 andouille
