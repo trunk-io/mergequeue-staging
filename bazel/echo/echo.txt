@@ -7982,7 +7982,6 @@ eigenvector
 epimerize
 endoenzyme
 epimerized
-epimerizing
 epimers
 epimyocardial
 extensionalism
@@ -14153,6 +14152,7 @@ exulding
 exultance
 exultancy
 excandescence
+epimerizing
 exultant
 exultantly
 ectropion
