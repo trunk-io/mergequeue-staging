@@ -4816,7 +4816,6 @@ girnie
 gripless
 gathering
 gyro
-gyrocar
 glossopharyngeus
 glomeration
 guidage
@@ -9794,6 +9793,7 @@ guna
 guaiac
 gair
 guayacan
+gyrocar
 guaiacol
 guaiacolize
 guaiacols
