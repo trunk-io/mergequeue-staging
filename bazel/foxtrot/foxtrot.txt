@@ -4391,6 +4391,7 @@ fishways
 fishweed
 forechoice
 foothils
+foresummer
 fishweir
 fiddlery
 fumbling
@@ -8076,7 +8077,6 @@ feu
 forethoughtfulness
 forethrift
 friableness
-foresummer
 foretime
 fucused
 foretokens
