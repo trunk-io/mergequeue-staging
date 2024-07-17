@@ -681,6 +681,7 @@ gratins
 gubbo
 gallivants
 geoglyphic
+gyrochrome
 gallywasp
 gallnut
 gallnuts
@@ -9678,7 +9679,6 @@ grumblesome
 grumbletonian
 grumbly
 grumbling
-gyrochrome
 grume
 grumium
 grummel

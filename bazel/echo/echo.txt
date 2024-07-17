@@ -5412,6 +5412,7 @@ endoubt
 endoute
 enrank
 enclavement
+epiplectic
 endovasculitis
 equinox
 enemy
@@ -12106,7 +12107,6 @@ excommune
 excommunicable
 excommunicant
 extempory
-epiplectic
 excommunicating
 excommunication
 excommunications
