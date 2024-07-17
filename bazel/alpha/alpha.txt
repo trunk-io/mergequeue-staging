@@ -2155,6 +2155,7 @@ acetol
 anthophyta
 archicleistogamy
 acetometer
+ampullate
 acetometry
 axiomatized
 acetometric
@@ -11423,7 +11424,6 @@ ampullary
 anselmian
 ampullaria
 ampullariidae
-ampullate
 ampullated
 ampulliform
 ampullosity
