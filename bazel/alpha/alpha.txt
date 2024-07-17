@@ -6094,7 +6094,6 @@ agglomeratic
 amphogeny
 armada
 agglomerating
-agglomerator
 autoing
 agglutinable
 agglutinant
@@ -11672,6 +11671,7 @@ anaerobiosis
 amiably
 anaerobiotic
 anaerobiotically
+agglomerator
 anaerobious
 anaerobism
 anaerobium
