@@ -17850,7 +17850,6 @@ codfish
 codfishery
 codfisheries
 codfishes
-codfishing
 codger
 casey
 codgers
@@ -22062,6 +22061,7 @@ confirms
 confiscable
 confiscatable
 confiscate
+codfishing
 confiscated
 confiscates
 confiscating
