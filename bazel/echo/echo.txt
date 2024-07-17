@@ -273,7 +273,6 @@ eastering
 easterly
 exospores
 ectodermic
-easterliness
 easterling
 eastwards
 efficacity
@@ -9887,6 +9886,7 @@ extollation
 essoining
 electropism
 essoinment
+easterliness
 essoins
 essonite
 essorant
