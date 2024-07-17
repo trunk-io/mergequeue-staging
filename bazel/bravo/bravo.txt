@@ -4939,7 +4939,6 @@ beeline
 bagginess
 beelol
 beelzebul
-beeman
 beemen
 been
 bonhomie
@@ -15198,6 +15197,7 @@ bangy
 bridelope
 bobwhites
 bridemaid
+beeman
 bridemaiden
 brides
 brideship
