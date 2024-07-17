@@ -15959,7 +15959,6 @@ antipyresis
 antipyretic
 antipyretics
 antipyryl
-antipyrine
 antipyrotic
 anointer
 antiplanet
@@ -18013,6 +18012,7 @@ approver
 approvers
 approves
 approving
+antipyrine
 approvingly
 approx
 approximable

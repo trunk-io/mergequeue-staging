@@ -20598,7 +20598,6 @@ compendiousness
 compendiums
 compends
 compenetrate
-compenetration
 compensability
 compensable
 compensated
@@ -25034,6 +25033,7 @@ cordial
 cordiality
 cordialities
 cordialize
+compenetration
 convulsed
 cordialness
 cordials
