@@ -9556,7 +9556,6 @@ alternator
 alternifoliate
 autotheater
 alternipinnate
-alternisepalous
 alternity
 alterum
 altesse
@@ -19834,6 +19833,7 @@ agape
 arytenoid
 arytenoidal
 arith
+alternisepalous
 anaeroplasty
 arithmancy
 arithmetic
