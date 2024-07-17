@@ -9406,7 +9406,6 @@ alphecca
 alphenic
 alpheratz
 alphyl
-alphyls
 alphin
 alphitomorphous
 alphol
@@ -21580,6 +21579,7 @@ aroon
 assahy
 attenuate
 assay
+alphyls
 assayable
 assayed
 assayer
