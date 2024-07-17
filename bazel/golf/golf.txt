@@ -1962,7 +1962,6 @@ genitives
 glucoses
 getters
 gambist
-gainless
 gaulding
 geobotany
 gyniolatry
@@ -4430,6 +4429,7 @@ gunned
 giraffoid
 gynecoid
 grillading
+gainless
 gynecol
 geognosis
 gynecolatry
