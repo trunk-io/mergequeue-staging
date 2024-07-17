@@ -6022,7 +6022,6 @@ agendum
 agendums
 appealable
 agene
-agenes
 ageneses
 agenesia
 amyloid
@@ -21442,6 +21441,7 @@ aegerian
 accipient
 aspersing
 aspersion
+agenes
 aspersions
 aspersive
 aspersively
