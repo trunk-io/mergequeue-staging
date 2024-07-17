@@ -1664,7 +1664,6 @@ ballottable
 ballottine
 ballpark
 ballparks
-ballplayer
 bise
 ballplayers
 ballplatz
@@ -8629,6 +8628,7 @@ billionth
 baudrons
 billitonite
 billywix
+ballplayer
 bilobular
 benzo
 billjim
