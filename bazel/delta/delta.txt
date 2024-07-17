@@ -9518,7 +9518,6 @@ digitalis
 digitalization
 digitalize
 digitally
-digitals
 digraphically
 digitaria
 digitate
@@ -15273,6 +15272,7 @@ dolors
 dolose
 dolour
 dolous
+digitals
 dolph
 dolphin
 dolphinfish
