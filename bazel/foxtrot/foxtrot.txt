@@ -3555,7 +3555,6 @@ fylgjur
 filiality
 filiate
 filiated
-filibeg
 filibegs
 feute
 filibranchiate
@@ -7367,6 +7366,7 @@ forcat
 force
 fishwife
 focussing
+filibeg
 forceful
 forcefully
 forceless
