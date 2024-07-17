@@ -6942,6 +6942,7 @@ entosthoblast
 entothorax
 entotic
 entotympanic
+extralegal
 entrenching
 equiaxial
 entotrophi
@@ -13855,7 +13856,6 @@ extrajudicial
 extrajudicially
 extirpates
 extracalicular
-extralegal
 estrapade
 extralegally
 ethiop

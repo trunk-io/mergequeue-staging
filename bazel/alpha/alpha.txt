@@ -6922,6 +6922,7 @@ airbrasive
 airbrick
 airbrush
 airbrushed
+allergy
 airbrushing
 airburst
 airbursts
@@ -8747,7 +8748,6 @@ allentiac
 allentiacan
 archdisturber
 allergenicity
-allergy
 accolent
 allergia
 allergies
