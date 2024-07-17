@@ -5211,7 +5211,6 @@ denotation
 denotational
 denotationally
 denotative
-denotativeness
 dratted
 denotatum
 denote
@@ -17257,6 +17256,7 @@ droiture
 droiturel
 drokpa
 drolerie
+denotativeness
 droll
 deemphasis
 domini
