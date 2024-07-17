@@ -3737,7 +3737,6 @@ gastronomy
 gigas
 gharris
 genitofemoral
-gdinfo
 ghassanid
 ghast
 garrat
@@ -4948,6 +4947,7 @@ giuseppe
 grecoue
 gastrohysterectomy
 goutier
+gdinfo
 grudgment
 gruelling
 gyrinus
