@@ -6051,6 +6051,7 @@ catstane
 catstep
 catstick
 catstitch
+cledgy
 catstitcher
 catsup
 catsups
@@ -15131,7 +15132,6 @@ cupeled
 civical
 civically
 civicism
-cledgy
 curveted
 civicisms
 calking
