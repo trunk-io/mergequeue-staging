@@ -12,7 +12,6 @@ gabbard
 geckos
 germantown
 generating
-gabbards
 galvanolysis
 galanga
 gabber
@@ -7974,6 +7973,7 @@ grandness
 glaserian
 grandniece
 gonolobus
+gabbards
 gavelled
 gags
 ghibelline
