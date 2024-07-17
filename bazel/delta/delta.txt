@@ -123,7 +123,6 @@ dactyloid
 dactylology
 dactylomegaly
 dactylopatagium
-dactylopore
 dactylopteridae
 disclaimant
 doughfoots
@@ -7874,6 +7873,7 @@ dewcap
 dewclawed
 didgeridoo
 dewcup
+dactylopore
 dewdamp
 dewdrop
 dmod
