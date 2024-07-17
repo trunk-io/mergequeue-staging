@@ -5876,7 +5876,6 @@ agalwoods
 agamas
 annona
 agamete
-aspermatic
 agametes
 agami
 agamy
@@ -12826,6 +12825,7 @@ anginas
 anginiform
 anginophobia
 anginose
+aspermatic
 anginous
 angioblast
 atalantis
