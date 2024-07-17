@@ -1845,7 +1845,6 @@ accultural
 acculturate
 acculturated
 acculturates
-acculturating
 acculturation
 acculturationist
 acculturative
@@ -7464,6 +7463,7 @@ axlike
 abashedly
 albedo
 albedograph
+acculturating
 albedometer
 albedos
 aviador
