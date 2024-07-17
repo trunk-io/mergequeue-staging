@@ -2621,6 +2621,7 @@ barycentric
 biped
 broomweed
 basinful
+burlies
 balate
 barid
 bunolophodont
@@ -17771,7 +17772,6 @@ braciola
 blissfulness
 burletta
 burly
-burlies
 burlily
 burliness
 bimetallists
