@@ -3748,7 +3748,6 @@ batting
 battish
 battled
 backslapper
-breacher
 becursing
 battledore
 battledores
@@ -8999,6 +8998,7 @@ biokinetics
 biol
 balei
 biolinguistics
+breacher
 bludgeoneer
 botanophilist
 bethwack
