@@ -3772,6 +3772,7 @@ allalinite
 antagonists
 adenoma
 adenomas
+apokatastasis
 adenomata
 adenometritis
 adenomycosis
@@ -17250,7 +17251,6 @@ apoise
 apojove
 autolithographic
 aftertax
-apokatastasis
 apokatastatic
 apolar
 apolarity
