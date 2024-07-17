@@ -8947,6 +8947,7 @@ belook
 bioelectrogenesis
 bioelectronics
 bioenergetics
+babery
 bioengineering
 bioenvironmental
 bioenvironmentaly
@@ -14150,7 +14151,6 @@ bradykinesis
 brachylogy
 biunity
 barillas
-babery
 bumblebeefish
 bradylalia
 badgemen
