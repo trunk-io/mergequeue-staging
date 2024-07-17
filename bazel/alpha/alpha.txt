@@ -5311,6 +5311,7 @@ affair
 affaire
 affairs
 affaite
+archbishopry
 affect
 affectability
 affectable
@@ -18728,7 +18729,6 @@ archbeacon
 archbeadle
 archbishopess
 acutiator
-archbishopry
 acromyotonia
 archbishopric
 archbishoprics
