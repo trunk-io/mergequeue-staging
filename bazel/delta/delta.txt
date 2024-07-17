@@ -9592,7 +9592,6 @@ digoxin
 discharger
 discriminatory
 digoxins
-digraph
 digraphic
 digraphs
 digredience
@@ -13448,6 +13447,7 @@ disroots
 disrout
 dustrag
 disrudder
+digraph
 disruly
 disrump
 disabler
