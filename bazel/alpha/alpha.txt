@@ -10785,7 +10785,6 @@ ammer
 ammeters
 ammi
 ankou
-ammines
 ammino
 amminochloride
 amminolysis
@@ -21372,6 +21371,7 @@ asparagin
 arachnactis
 asparagine
 asparaginic
+ammines
 asparaginous
 asparamic
 aspartame
