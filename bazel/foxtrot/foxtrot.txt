@@ -1058,6 +1058,7 @@ foresights
 five
 farmership
 farawayness
+forthinking
 farmyard
 fluffed
 flytail
@@ -8648,7 +8649,6 @@ filter
 forthy
 forthink
 formicarium
-forthinking
 forthought
 forthputting
 forthrightly
