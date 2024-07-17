@@ -14290,7 +14290,6 @@ diureticalness
 diurn
 diurna
 defunctness
-diurnalness
 diurnals
 dogmen
 diurnation
@@ -15543,6 +15542,7 @@ donnot
 disturbance
 dysmerogenetic
 donor
+diurnalness
 donorship
 diplomatics
 donought
