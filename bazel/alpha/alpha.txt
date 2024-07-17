@@ -9491,6 +9491,7 @@ altars
 atenism
 altarwise
 altazimuth
+autodrome
 ahems
 alter
 affied
@@ -24056,7 +24057,6 @@ autodynamic
 autodyne
 antisplitting
 autodrainage
-autodrome
 autoecholalia
 autoecy
 autoecic
