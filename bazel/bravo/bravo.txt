@@ -1208,6 +1208,7 @@ bakehouses
 bactericidin
 bakelize
 bakemeat
+besmiling
 bakemeats
 bootlicks
 bakeoven
@@ -12210,7 +12211,6 @@ bolsterers
 bash
 bolstering
 bolsterwork
-besmiling
 bolt
 bittocks
 boltage

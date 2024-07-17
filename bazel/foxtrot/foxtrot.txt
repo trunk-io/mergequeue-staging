@@ -1086,7 +1086,6 @@ fantastry
 foremast
 faroese
 faros
-filmgoer
 flighted
 farragos
 farcie
@@ -10506,6 +10505,7 @@ frottage
 fainty
 fungid
 favosite
+filmgoer
 filles
 fenceless
 frottages
