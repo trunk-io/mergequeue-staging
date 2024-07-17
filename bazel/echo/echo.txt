@@ -5280,7 +5280,6 @@ endoradiosonde
 endoral
 evened
 equipedal
-excisable
 eructing
 emboil
 eyeshades
@@ -9483,6 +9482,7 @@ escapes
 electiveness
 escapeway
 enleaf
+excisable
 excepted
 escapingly
 escapist
