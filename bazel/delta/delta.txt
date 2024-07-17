@@ -4565,7 +4565,6 @@ demilitarizes
 demilitarizing
 devastated
 deal
-demiliterate
 disenchanted
 demilunes
 disgruntles
@@ -11578,6 +11577,7 @@ disconformity
 degasser
 disconformities
 disconjure
+demiliterate
 disconnect
 disconnected
 disconnectedly
