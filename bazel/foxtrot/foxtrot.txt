@@ -1751,6 +1751,7 @@ feathercut
 feathered
 featherer
 featherfoil
+flexions
 featherheaded
 feathery
 figurante
@@ -5456,7 +5457,6 @@ flavic
 forgedly
 flexility
 flexionless
-flexions
 flail
 flexitime
 flexive
