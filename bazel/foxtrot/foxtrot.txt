@@ -5201,7 +5201,6 @@ flavoury
 forearmed
 flavouring
 flavourless
-flavourous
 foreboot
 flavours
 forehinting
@@ -7029,6 +7028,7 @@ fibrositis
 frothing
 fraenums
 fontange
+flavourous
 fontanges
 fonted
 fontful
