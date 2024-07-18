@@ -1237,7 +1237,6 @@ gaol
 genomes
 gaolerness
 gaoling
-gaols
 gaonate
 gaped
 gaper
@@ -9642,6 +9641,7 @@ gruellers
 gruellings
 gruesomely
 gur
+gaols
 gruesomeness
 greeks
 goaling
