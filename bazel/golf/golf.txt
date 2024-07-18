@@ -3631,7 +3631,6 @@ greatcoats
 gestes
 glunch
 gestic
-gesticular
 garshuni
 gesticulated
 gesticulates
@@ -8565,6 +8564,7 @@ greasiest
 gormandised
 greasing
 gibbergunyah
+gesticular
 gamelin
 genuses
 greatcoat
