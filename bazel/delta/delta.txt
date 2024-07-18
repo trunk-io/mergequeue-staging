@@ -1337,6 +1337,7 @@ demissive
 daunting
 diglottism
 dauntingly
+digest
 distastes
 dauntingness
 dauntless
@@ -9482,7 +9483,6 @@ digenite
 digerent
 dewtry
 diolefin
-digest
 disparateness
 digestant
 digestedness
