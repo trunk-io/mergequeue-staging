@@ -7447,7 +7447,6 @@ alations
 alauda
 alaudidae
 alaunt
-alawi
 alba
 albacora
 albacores
@@ -10828,6 +10827,7 @@ ammonate
 ammonea
 ammonia
 ammoniac
+alawi
 allayers
 ammoniacs
 ammoniacum
