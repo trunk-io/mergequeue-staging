@@ -17931,7 +17931,6 @@ appredicate
 apprehend
 apprehendable
 apprehended
-apprehender
 apprehending
 apprehendingly
 apprehends
@@ -23864,6 +23863,7 @@ authorize
 auxeses
 authorized
 aphorism
+apprehender
 anticommunist
 authorizer
 authorizers
