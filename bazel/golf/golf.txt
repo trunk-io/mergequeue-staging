@@ -7846,7 +7846,6 @@ grammaticality
 glossate
 galways
 grammaticaster
-glazy
 gonytheca
 girse
 grammatication
@@ -8409,6 +8408,7 @@ gratulating
 gratulation
 gratulatory
 gratulatorily
+glazy
 graupel
 grudgers
 gconv
