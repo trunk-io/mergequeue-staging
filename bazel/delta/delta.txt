@@ -509,7 +509,6 @@ dales
 dalesfolk
 dalesman
 dalesmen
-demonist
 dalespeople
 daleswoman
 daleth
@@ -3051,6 +3050,7 @@ dimercuric
 deerwood
 deescalate
 diaculum
+demonist
 deckhead
 deescalated
 diphtheriaphor
