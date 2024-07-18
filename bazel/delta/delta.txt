@@ -11194,7 +11194,6 @@ disbark
 disbarment
 doorframe
 disbarments
-drossiness
 disbarred
 disbarring
 dipolarize
@@ -16151,6 +16150,7 @@ drawability
 deflagrations
 doundake
 douper
+drossiness
 douping
 doupioni
 dour
