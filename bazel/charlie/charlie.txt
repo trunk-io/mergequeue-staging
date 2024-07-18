@@ -17053,7 +17053,6 @@ cnemic
 cnemides
 cnemidium
 cnemidophorus
-cnemis
 cneorum
 cnibophore
 cnicin
@@ -18540,6 +18539,7 @@ cohosts
 cohow
 closetful
 cohue
+cnemis
 cohune
 callianassa
 cohunes

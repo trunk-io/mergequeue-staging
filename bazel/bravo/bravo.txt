@@ -8858,7 +8858,6 @@ bulwark
 breviary
 binotic
 binormal
-bint
 bintangor
 bromoil
 brack
@@ -15553,6 +15552,7 @@ britoness
 britons
 brits
 britska
+bint
 britskas
 britt
 brittlebush
