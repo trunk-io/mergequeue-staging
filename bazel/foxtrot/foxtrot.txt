@@ -2493,7 +2493,6 @@ ferricyanic
 farina
 ferricyanide
 ferrier
-ferriferous
 ferison
 ferrihydrocyanic
 ferryhouse
@@ -4265,6 +4264,7 @@ firstcomer
 forbearer
 firster
 firsthand
+ferriferous
 filii
 firstly
 fust
