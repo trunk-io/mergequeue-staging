@@ -1945,6 +1945,7 @@ geodetician
 gangers
 gaupus
 genitives
+galenite
 glucoses
 getters
 gambist
@@ -6373,7 +6374,6 @@ gnu
 gryllidae
 glazing
 glassweed
-galenite
 glouting
 ghatwal
 goad
