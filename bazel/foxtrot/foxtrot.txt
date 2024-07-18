@@ -4110,7 +4110,6 @@ funker
 farcelike
 firebreaks
 firebug
-firebugs
 forenoon
 forgot
 fireburn
@@ -6854,6 +6853,7 @@ foleye
 feerie
 formulations
 flinty
+firebugs
 ferruginated
 feoffment
 fructiparous
