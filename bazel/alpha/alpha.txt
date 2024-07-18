@@ -202,6 +202,7 @@ abbeys
 azophen
 abbeystead
 abbeystede
+antifascism
 abbes
 abbess
 abbesses
@@ -792,7 +793,6 @@ abrachia
 abrachias
 acromioclavicular
 abradable
-antifascism
 abrade
 abrader
 aspartokinase
