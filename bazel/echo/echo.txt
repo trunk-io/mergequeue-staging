@@ -4411,7 +4411,6 @@ eggeater
 enantiomeric
 excels
 enantiomorph
-enantiomorphy
 enantiomorphism
 encopresis
 enantiomorphously
@@ -10719,6 +10718,7 @@ emendable
 eucryphiaceous
 eucrite
 eucrites
+enantiomorphy
 electroengrave
 entamebic
 euda
