@@ -2439,7 +2439,6 @@ enkolpion
 electrokinetics
 electrogalvanization
 evict
-excitability
 epistolize
 euge
 extensum
@@ -9951,6 +9950,7 @@ epitomised
 entophytically
 epilabra
 esteriferous
+excitability
 esterify
 electrohydraulically
 esterification

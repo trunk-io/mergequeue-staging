@@ -1014,7 +1014,6 @@ dekameter
 darkful
 darkhaired
 darkhearted
-dimethylbenzene
 darkheartedness
 darky
 darkie
@@ -2166,6 +2165,7 @@ decd
 deceased
 donnish
 dhyal
+dimethylbenzene
 diseur
 dipchick
 deceases
