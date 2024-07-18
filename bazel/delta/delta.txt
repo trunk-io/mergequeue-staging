@@ -3114,6 +3114,7 @@ defats
 defatted
 defatting
 default
+didelph
 deterministically
 defaulted
 doryphorus
@@ -9157,7 +9158,6 @@ discounsel
 dominancy
 diddlers
 diddles
-didelph
 didelphia
 didelphian
 dodders
