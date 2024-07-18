@@ -1638,7 +1638,6 @@ gastaldite
 graphology
 gutturals
 gasteria
-gasterolichenes
 gasteromycete
 guess
 gypsoplast
@@ -4023,6 +4022,7 @@ granularity
 giftwrapping
 galline
 giga
+gasterolichenes
 gigabyte
 gigabytes
 gigacycle
