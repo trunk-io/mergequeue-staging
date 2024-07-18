@@ -1793,7 +1793,6 @@ eyeish
 endungeon
 eyelash
 etude
-eyelashes
 eyelast
 eikones
 epicenes
@@ -4978,6 +4977,7 @@ endebt
 ergothioneine
 endecha
 ended
+eyelashes
 endeictic
 endeign
 endemical
