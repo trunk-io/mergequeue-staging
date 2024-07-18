@@ -3138,7 +3138,6 @@ geomalic
 geomalism
 gambesons
 geomancer
-geomancy
 grandmotherhood
 geomancies
 geomant
@@ -9445,6 +9444,7 @@ gervao
 groundneedle
 groundplot
 getah
+geomancy
 grounds
 givey
 geomorphological
