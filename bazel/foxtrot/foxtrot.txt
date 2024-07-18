@@ -996,7 +996,6 @@ fluoroid
 floorway
 funicule
 farfetched
-fargite
 fill
 fargood
 farhand
@@ -8230,6 +8229,7 @@ flowingness
 foundational
 fusains
 faroff
+fargite
 forgiveless
 fimetic
 fenagle
