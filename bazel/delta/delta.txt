@@ -11286,7 +11286,6 @@ drainageway
 discardment
 discards
 dispensing
-discarnate
 discarnation
 discase
 discased
@@ -17377,6 +17376,7 @@ droplets
 dropline
 dropling
 dropmeal
+discarnate
 duotones
 dewormed
 dropout
