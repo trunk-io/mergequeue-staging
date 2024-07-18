@@ -3043,6 +3043,7 @@ elliptical
 ellipticalness
 ellipticity
 elliptograph
+emboweller
 elliptoid
 epicyte
 eutaxitic
@@ -3577,7 +3578,6 @@ exhume
 expensilation
 embowelled
 empyrosis
-emboweller
 ethnography
 embowelling
 embowelment
