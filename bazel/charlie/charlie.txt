@@ -23184,6 +23184,7 @@ constituents
 constitute
 cozinesses
 constituted
+curlpaper
 constituter
 constitutes
 constitution
@@ -31382,7 +31383,6 @@ curliness
 curling
 curlingly
 curlings
-curlpaper
 curls
 countervallation
 curmudgeon
