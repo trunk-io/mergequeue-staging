@@ -739,7 +739,6 @@ bacteriosis
 bacteriosolvent
 bacteriostasis
 bacteriostatic
-bacteriostatically
 bacteriotherapeutic
 bacteriotoxin
 bacteriotropic
@@ -17194,6 +17193,7 @@ bulrush
 bibliophobe
 bulrushes
 biform
+bacteriostatically
 blintzes
 bult
 bultey
