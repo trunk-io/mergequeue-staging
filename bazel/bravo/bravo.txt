@@ -2822,6 +2822,7 @@ brotherwort
 baroness
 baronesses
 baronet
+bejel
 baronetcy
 baroneted
 baronetical
@@ -12653,7 +12654,6 @@ bookful
 bookholder
 bookie
 bookies
-bejel
 bladderweed
 begonia
 bagleaves
