@@ -6119,7 +6119,6 @@ agglutinins
 agglutinize
 agglutinogen
 aphorismical
-agglutinogenic
 an
 agglutinoscope
 actinologous
@@ -14817,6 +14816,7 @@ ameristic
 antiarcha
 allesthesia
 antiarchi
+agglutinogenic
 antiarins
 antiaristocracy
 assistants
