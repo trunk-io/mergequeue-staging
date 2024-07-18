@@ -4558,7 +4558,6 @@ adulteries
 adulterous
 adulterousness
 adulticidal
-adulticide
 appetibility
 adultlike
 assessment
@@ -20245,6 +20244,7 @@ arrestable
 arrestant
 arval
 arrestation
+adulticide
 arrested
 arrestee
 arrestees
