@@ -2595,7 +2595,6 @@ ecophobia
 engyscope
 expensive
 estramazone
-electroscopic
 electrosensitive
 electroshocks
 electrosynthetically
@@ -8970,6 +8969,7 @@ eyers
 ergophobia
 equinecessary
 ergophobic
+electroscopic
 ergoplasm
 enquere
 ergosterin
