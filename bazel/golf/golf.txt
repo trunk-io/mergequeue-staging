@@ -6688,6 +6688,7 @@ goldtit
 goldurn
 galeopithecus
 goldworker
+gunrack
 grimness
 golee
 golem
@@ -10561,7 +10562,6 @@ goldeyes
 gunpower
 gaon
 gracile
-gunrack
 gunreach
 gunrooms
 globelet
