@@ -3143,7 +3143,6 @@ curr
 cacomixl
 capitulate
 capitulated
-conclude
 capitulates
 capitulating
 capitulation
@@ -24961,6 +24960,7 @@ corallita
 corallium
 coralloid
 coralloidal
+conclude
 corallorhiza
 castelet
 corallus

@@ -7121,7 +7121,6 @@ footfault
 forayed
 filical
 footfeed
-footfolk
 footgear
 fillingness
 footglove
@@ -11543,6 +11542,7 @@ fusarium
 farmerish
 fusate
 fuscescent
+footfolk
 fuscin
 fuscous
 fuse
