@@ -1759,7 +1759,6 @@ feathers
 freshmanic
 frigorifico
 floods
-feathertop
 featherway
 featherweight
 featherweights
@@ -2862,6 +2861,7 @@ floccilation
 frederick
 fleches
 feulamort
+feathertop
 feuter
 feverberry
 fjeld

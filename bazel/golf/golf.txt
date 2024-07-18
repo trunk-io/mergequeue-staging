@@ -2131,7 +2131,6 @@ gazes
 gruel
 gulden
 gazette
-gazetted
 gazetteerage
 gazetteerish
 giustamente
@@ -3774,6 +3773,7 @@ gauging
 gaucheness
 gherao
 gadinic
+gazetted
 gheraoed
 grasshouse
 germanesque
