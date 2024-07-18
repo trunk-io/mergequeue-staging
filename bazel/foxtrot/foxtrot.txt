@@ -2098,7 +2098,6 @@ friszka
 forebear
 fellowred
 fellows
-fellowshiping
 fellowshipping
 fells
 finger
@@ -6307,6 +6306,7 @@ forerecited
 fluyts
 fluked
 freakful
+fellowshiping
 flukes
 foujdary
 flukeworm

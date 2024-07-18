@@ -1423,6 +1423,7 @@ garmentless
 glutael
 glycollide
 garmenture
+grottowork
 gieaways
 garmentworker
 garn
@@ -2484,7 +2485,6 @@ gemitores
 gemitorial
 gateways
 gorgoniacean
-grottowork
 guardian
 gemless
 gemlich
