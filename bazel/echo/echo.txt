@@ -6450,6 +6450,7 @@ ensteel
 ensteep
 enstool
 enstranged
+everywhence
 ensuable
 ensuance
 ebcdic
@@ -11511,7 +11512,6 @@ everyone
 everyplace
 everything
 everywhen
-everywhence
 everywhereness
 erica
 egestion
