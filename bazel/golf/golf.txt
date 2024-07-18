@@ -1158,6 +1158,7 @@ goby
 ghostliness
 greenhead
 gnaeus
+gomerec
 grenadilla
 genteelest
 gastrostomy
@@ -6744,7 +6745,6 @@ grazable
 gapy
 gomeisa
 gomer
-gomerec
 gowkit
 gomerel
 glossograph
