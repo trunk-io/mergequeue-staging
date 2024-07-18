@@ -6008,7 +6008,6 @@ agba
 agcy
 agdistis
 age
-ageable
 antilles
 agedly
 agedness
@@ -14664,6 +14663,7 @@ anthropologic
 anthropologically
 archimycetes
 anthropologist
+ageable
 anthropologists
 anthropomancy
 archarchitect
