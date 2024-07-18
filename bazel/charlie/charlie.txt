@@ -3465,6 +3465,7 @@ caraboa
 caraboid
 carabus
 caracal
+chloridic
 caracara
 chacoli
 columnate
@@ -11307,7 +11308,6 @@ chloride
 chloridella
 chlorider
 chlorides
-chloridic
 chloridize
 ctenii
 chere
