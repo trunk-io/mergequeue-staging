@@ -13060,7 +13060,6 @@ expergefaction
 ebonize
 enwall
 experience
-epizoic
 enkindled
 experienceable
 elected
@@ -13122,6 +13121,7 @@ equiaxed
 electrooptics
 expertship
 enc
+epizoic
 expetible
 expiable
 expiate

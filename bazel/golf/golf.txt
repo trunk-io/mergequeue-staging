@@ -1870,7 +1870,6 @@ gastruran
 gasworker
 gat
 gateado
-gromatic
 gatecrasher
 gatecrashers
 gated
@@ -3766,6 +3765,7 @@ ghaznevid
 ghebeta
 guaza
 ghee
+gromatic
 gallowsmaker
 ghees
 ghegish
