@@ -2353,6 +2353,7 @@ bogbean
 barbecue
 barbecued
 bullberry
+behears
 bellyfull
 barbecues
 boosy
@@ -5340,7 +5341,6 @@ beheadal
 beheading
 beheads
 behear
-behears
 behearse
 beheld
 behelp
