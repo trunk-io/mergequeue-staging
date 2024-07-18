@@ -5893,7 +5893,6 @@ belugas
 belugite
 belvedered
 belvederes
-badarian
 belzebub
 beclogs
 belzebuth
@@ -15721,6 +15720,7 @@ broiderer
 broidery
 broideries
 broiders
+badarian
 broigne
 bicentenaries
 broiled
