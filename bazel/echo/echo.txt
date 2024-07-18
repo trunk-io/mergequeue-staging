@@ -2515,7 +2515,6 @@ embleming
 electronics
 electronography
 ecad
-electrons
 epipubic
 electronvolt
 electrooptic
@@ -9888,6 +9887,7 @@ extollation
 essoining
 electropism
 essoinment
+electrons
 essoins
 essonite
 essorant

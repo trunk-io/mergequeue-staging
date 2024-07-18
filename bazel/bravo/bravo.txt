@@ -13587,6 +13587,7 @@ bourdon
 bourg
 bourgeois
 bourgeoisie
+breathiness
 bobs
 brashness
 bourgeoisitic
@@ -14886,7 +14887,6 @@ breathed
 breathful
 bradford
 breathily
-breathiness
 breathing
 breathingly
 beche
