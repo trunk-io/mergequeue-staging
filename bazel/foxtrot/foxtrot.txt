@@ -9972,7 +9972,6 @@ fridges
 fried
 friedcake
 friedelite
-fstore
 fencings
 friedrichsdor
 fattener
@@ -11606,6 +11605,7 @@ ferrying
 fussbudget
 fretting
 fussbudgety
+fstore
 fussbudgets
 farcers
 flappy
