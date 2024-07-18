@@ -2332,6 +2332,7 @@ candescently
 candy
 candid
 candida
+cerebellums
 candidacy
 candidate
 candidated
@@ -7599,7 +7600,6 @@ cerebellopontine
 cerebellorubral
 cerebellospinal
 cerebellum
-cerebellums
 cerebra
 cerebral
 cerebralgia

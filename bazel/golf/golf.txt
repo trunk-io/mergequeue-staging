@@ -4494,7 +4494,6 @@ graypate
 gingival
 glaciolacustrine
 gingivectomy
-gingivitis
 gingivoglossitis
 gingivolabial
 gingko
@@ -6550,6 +6549,7 @@ gipped
 gohila
 greyer
 gonoph
+gingivitis
 girdlers
 goy
 glares
