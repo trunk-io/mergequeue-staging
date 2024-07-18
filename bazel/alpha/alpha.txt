@@ -14468,7 +14468,6 @@ anthocerote
 anthochlor
 anthochlorine
 anthocyan
-anthocyanidin
 anthocyanin
 anthoclinium
 additamentary
@@ -19532,6 +19531,7 @@ annuli
 announcements
 argillomagnesian
 argillous
+anthocyanidin
 autosomal
 argylls
 argils
