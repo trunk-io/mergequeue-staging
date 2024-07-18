@@ -5030,6 +5030,7 @@ fulfullment
 flatbeds
 fingertips
 flatboats
+fuzes
 flatbottom
 flatcaps
 flatcar
@@ -11726,7 +11727,6 @@ fuzed
 flechette
 fuzee
 fanaloka
-fuzes
 freijo
 facingly
 ferfathmur
