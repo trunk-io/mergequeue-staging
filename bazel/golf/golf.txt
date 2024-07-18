@@ -8952,6 +8952,7 @@ gymnosperms
 griffins
 griffon
 griffonage
+ganoids
 griffons
 gattine
 grift
@@ -9916,7 +9917,6 @@ gnamma
 guarantor
 guarantors
 geode
-ganoids
 guarapucu
 gowns
 gushily
