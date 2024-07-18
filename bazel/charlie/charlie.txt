@@ -10463,7 +10463,6 @@ chiefless
 chiefling
 chiefry
 chiefs
-chiefship
 chieftain
 chieftaincy
 conure
@@ -11768,6 +11767,7 @@ chondrification
 chondrified
 chondrigen
 clarkias
+chiefship
 clothings
 cygnine
 chondrigenous
