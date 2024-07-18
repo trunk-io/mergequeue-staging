@@ -5190,7 +5190,6 @@ electrolyzable
 etiotropic
 endolymphic
 endolysin
-endome
 echinostomiasis
 exits
 endomesoderm
@@ -11221,6 +11220,7 @@ eutannin
 eutaxy
 exocannibalism
 embattlement
+endome
 eutaxic
 eutaxie
 equipotent
