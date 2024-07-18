@@ -12450,7 +12450,6 @@ assenter
 artificer
 androcyte
 addr
-androclclinia
 anisotropic
 androcles
 androclinia
@@ -24102,6 +24101,7 @@ autogenic
 autogenous
 ado
 autogenously
+androclclinia
 autogenuous
 autogiro
 autogyro
