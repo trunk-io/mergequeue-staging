@@ -463,7 +463,6 @@ falafel
 falange
 falasha
 fatlings
-flaxman
 fireboy
 fosterling
 falcade
@@ -6863,6 +6862,7 @@ foliaceousness
 foliage
 foliaged
 filleting
+flaxman
 flywheels
 foliages
 fibry
