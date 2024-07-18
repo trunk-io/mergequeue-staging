@@ -9892,7 +9892,6 @@ cadwal
 concurs
 chemicomineralogical
 chemicophysical
-canion
 coryphylly
 chemicophysics
 chemicophysiological
@@ -18882,6 +18881,7 @@ colinus
 colyonic
 coliphage
 colipyelitis
+canion
 condiddle
 colisepsis
 coliseum
