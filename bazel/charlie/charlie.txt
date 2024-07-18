@@ -6556,7 +6556,6 @@ careering
 cedarn
 colobin
 cedars
-cedarwood
 cerographer
 ceded
 corpulence
@@ -28915,6 +28914,7 @@ crew
 crewcut
 crewed
 chirolas
+cedarwood
 crewelist
 crewels
 crewelwork
