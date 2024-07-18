@@ -2393,7 +2393,6 @@ decimosexto
 decimus
 disquietedness
 decine
-decyne
 decinormal
 decipher
 decipherability
@@ -18360,6 +18359,7 @@ dupla
 dysurias
 debutant
 duplet
+decyne
 duplex
 duplexer
 duplexers

@@ -3708,7 +3708,6 @@ elfwort
 embrocated
 embrocates
 entocornea
-embrocating
 erythroid
 embrocation
 evectic
@@ -7960,6 +7959,7 @@ epimacus
 encephalogram
 expectorators
 epimandibular
+embrocating
 epimanikia
 epimanikion
 epimedium
