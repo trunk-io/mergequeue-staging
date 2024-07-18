@@ -19393,6 +19393,7 @@ areographer
 areographical
 areographically
 areola
+assert
 areolar
 areolas
 areolate
@@ -21680,7 +21681,6 @@ assentiveness
 alphyn
 assentor
 assents
-assert
 asserta
 assertable
 assertative

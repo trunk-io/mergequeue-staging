@@ -47,7 +47,6 @@ cabassou
 cabbage
 cabbaged
 cabbagehead
-cabbageheaded
 cabbageheadedness
 cabbagelike
 cabbages
@@ -11180,6 +11179,7 @@ chitters
 chitty
 chitties
 chitting
+cabbageheaded
 choicy
 chiule
 chiurm
