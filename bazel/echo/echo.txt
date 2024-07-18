@@ -3136,6 +3136,7 @@ enterophthisis
 eluants
 eluate
 eluated
+endotrophic
 elucid
 esperantido
 elucidated
@@ -5401,7 +5402,6 @@ endotys
 enzyms
 endotoxic
 embryotegae
-endotrophic
 endoubt
 endoute
 enrank
