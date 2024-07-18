@@ -18940,7 +18940,6 @@ collapsability
 collapsar
 cowroid
 cascado
-collapse
 collapses
 collapsibility
 cubism
@@ -28801,6 +28800,7 @@ crescenting
 crescentlike
 crescentoid
 crescents
+collapse
 crescive
 crescively
 crescograph

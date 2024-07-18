@@ -4203,6 +4203,7 @@ deliveryman
 dekameters
 dipcoat
 deliverymen
+diastereomer
 deliverly
 delivers
 dell
@@ -8688,7 +8689,6 @@ dorsiflexor
 diastereoisomer
 diastereoisomerism
 dreamlore
-diastereomer
 diasters
 diastyle
 diastimeter
