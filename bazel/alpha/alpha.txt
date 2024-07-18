@@ -5107,6 +5107,7 @@ aeromechanical
 aeromechanics
 aeromedical
 aeromedicine
+assiento
 antimasque
 aerometeorograph
 amphophilic
@@ -21761,7 +21762,6 @@ assiduousness
 assiege
 assientist
 austroasiatic
-assiento
 assiette
 assify
 antaiva
