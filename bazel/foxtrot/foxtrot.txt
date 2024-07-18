@@ -7951,7 +7951,6 @@ foreside
 foresight
 feodum
 frithbot
-foresighted
 forewarned
 furiosa
 feateous
@@ -10404,6 +10403,7 @@ fableist
 frontlash
 frontless
 frontlessly
+foresighted
 frontlessness
 fizzing
 frontlet
