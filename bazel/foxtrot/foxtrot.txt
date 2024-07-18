@@ -9862,7 +9862,6 @@ freshmanship
 fierabras
 fundable
 freshmen
-freshness
 facts
 freesp
 freshwater
@@ -11192,6 +11191,7 @@ fungiferous
 faldage
 fillagreing
 fungify
+freshness
 furacious
 fatcake
 fibrinous
