@@ -6675,7 +6675,6 @@ goosepimply
 galeas
 goldsmithery
 goldsmiths
-goldspink
 gnathopod
 goldthread
 goldtit
@@ -7615,6 +7614,7 @@ grackles
 graculus
 gradable
 gradate
+goldspink
 gradating
 grisping
 gradational
