@@ -2220,7 +2220,6 @@ futuramic
 fenagles
 furoate
 fenberry
-fence
 fideicommissary
 fencelessness
 fencelet
@@ -3384,6 +3383,7 @@ fighter
 fighteress
 frontomalar
 fighters
+fence
 forcibleness
 fightings
 fascio

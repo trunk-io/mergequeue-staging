@@ -6744,7 +6744,6 @@ garrooka
 grazable
 gapy
 gomeisa
-gomer
 gomerec
 gowkit
 gomerel
@@ -8425,6 +8424,7 @@ gravedigger
 gleba
 gunneress
 gemsbuck
+gomer
 gravediggers
 gravel
 geotic
