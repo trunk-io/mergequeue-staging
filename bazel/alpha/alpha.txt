@@ -6947,7 +6947,6 @@ ashlers
 agamospore
 aircraftswoman
 aerogeology
-aircraftwoman
 allotments
 aircrew
 aircrewman
@@ -18079,6 +18078,7 @@ aprioristic
 apriority
 apritif
 aprocta
+aircraftwoman
 avowable
 aproctia
 aproctous
