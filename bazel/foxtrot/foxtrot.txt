@@ -7976,6 +7976,7 @@ flathe
 foreslow
 finfoot
 foresound
+fulgently
 forespake
 forespeak
 forespecified
@@ -10858,7 +10859,6 @@ fulgence
 fulgency
 fieldie
 fulgent
-fulgently
 fulgentness
 fulgidity
 fanciful
