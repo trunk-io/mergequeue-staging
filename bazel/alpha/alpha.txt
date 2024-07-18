@@ -3025,7 +3025,6 @@ acronyms
 acronomy
 acrook
 acroparesthesia
-acropathy
 aleuronic
 acropathology
 acropetal
@@ -14357,6 +14356,7 @@ anterevolutionary
 antergic
 anteriad
 anterin
+acropathy
 agglutogenic
 anterioyancer
 anteriority
