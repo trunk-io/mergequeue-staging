@@ -3831,6 +3831,7 @@ emeriti
 emeritus
 emerizing
 emerods
+erodable
 emeroids
 emarginately
 emerson
@@ -12294,7 +12295,6 @@ evincingly
 effervescible
 elopes
 eyeleteer
-erodable
 encounterer
 extracted
 executorial
