@@ -6492,7 +6492,6 @@ bookless
 bepewed
 betray
 brisant
-bepicture
 bepierce
 bepimple
 bepimples
@@ -17483,6 +17482,7 @@ buoyance
 bipinnatiparted
 buoyant
 buoyantly
+bepicture
 balancing
 baggages
 breakbones
