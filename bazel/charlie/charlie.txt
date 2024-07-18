@@ -12684,6 +12684,7 @@ chronicling
 chronicon
 chronics
 chronique
+comagmatic
 chronisotherm
 chronist
 chronobarometer
@@ -19697,7 +19698,6 @@ chaucerianism
 carpidium
 comae
 comagistracy
-comagmatic
 comake
 comaker
 comaking
