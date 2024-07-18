@@ -10192,6 +10192,7 @@ boothite
 bridgetin
 blacktree
 befleaed
+burrow
 blackwasher
 blackwashing
 blackwater
@@ -17860,7 +17861,6 @@ burros
 bayoneting
 burroughs
 benzyls
-burrow
 burrowed
 burroweed
 barleycorn
