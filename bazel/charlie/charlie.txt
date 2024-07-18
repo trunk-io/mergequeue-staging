@@ -16925,7 +16925,6 @@ capel
 clubhouses
 companionship
 clubionid
-clubionidae
 clunist
 clubland
 clubman
@@ -18380,6 +18379,7 @@ cognati
 cognatic
 cognatical
 cognatus
+clubionidae
 cognisability
 cognisable
 cognisably
