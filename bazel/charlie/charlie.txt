@@ -17399,7 +17399,6 @@ coation
 coatis
 coatless
 calumnia
-coatroom
 coatrooms
 coats
 coattail
@@ -25690,6 +25689,7 @@ carditis
 correctable
 correctant
 corrected
+coatroom
 correctedness
 correctest
 correctify
