@@ -2999,7 +2999,6 @@ fibrinogenetic
 fistulizing
 fibrinokinase
 fibrinolyses
-fibrinolysin
 flanconade
 fendillate
 fulgour
@@ -4578,6 +4577,7 @@ fixities
 fixive
 forpet
 fixt
+fibrinolysin
 fixture
 frore
 fixtureless
