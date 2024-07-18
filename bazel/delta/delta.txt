@@ -670,6 +670,7 @@ damonico
 damosel
 damosels
 decapitalize
+disenablement
 damp
 dampcourse
 dampen
@@ -11996,7 +11997,6 @@ diseasy
 disemprison
 disenabled
 deferable
-disenablement
 disenabling
 disenamor
 disenchain
