@@ -8199,7 +8199,6 @@ forinsec
 forgeability
 forgeable
 forged
-forger
 forgery
 foeish
 forgers
@@ -10277,6 +10276,7 @@ frogeye
 frogeyed
 frogeyes
 futhork
+forger
 frogfish
 fiendliness
 formnail
