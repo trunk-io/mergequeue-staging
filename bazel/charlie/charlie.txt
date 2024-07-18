@@ -10564,6 +10564,7 @@ chyle
 capillaire
 coevals
 chilean
+counterquestion
 chileanization
 chileanize
 chileans
@@ -27086,7 +27087,6 @@ counterpuncture
 counterpush
 counterquartered
 counterquery
-counterquestion
 counterquip
 counterradiation
 counterraid

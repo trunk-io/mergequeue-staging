@@ -6518,7 +6518,6 @@ beprank
 bepranked
 bepreach
 bepretty
-bepride
 beprose
 bepun
 bedraping
@@ -10522,6 +10521,7 @@ blattidae
 blattiform
 blatting
 blattodea
+bepride
 blattoid
 balneal
 blaubok
