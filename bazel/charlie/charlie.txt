@@ -15851,6 +15851,7 @@ clavilux
 claviol
 coy
 clavipectoral
+cathead
 clavis
 casuistical
 clavises
@@ -28594,7 +28595,6 @@ creeker
 creekfish
 cricketing
 creekfishes
-cathead
 creeky
 creekstuff
 creel
