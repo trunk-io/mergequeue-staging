@@ -138,6 +138,7 @@ fictile
 facticide
 factional
 furnacite
+fidalgo
 forfeit
 factionalism
 factionalist
@@ -6359,7 +6360,6 @@ fizgig
 fixing
 flunky
 flunkies
-fidalgo
 flunkyhood
 formality
 foliolose
