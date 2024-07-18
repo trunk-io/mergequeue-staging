@@ -4761,7 +4761,6 @@ fratched
 firepower
 fabricator
 flagstaves
-facioscapulohumeral
 ferrotyped
 flagstick
 flagstones
@@ -5522,6 +5521,7 @@ flyflapper
 flyflower
 flocculant
 fligged
+facioscapulohumeral
 fligger
 fibrilations
 flight

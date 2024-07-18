@@ -2061,6 +2061,7 @@ grandsire
 guava
 glottogonic
 goony
+gymkhana
 gunport
 gileadite
 gawby
@@ -5470,7 +5471,6 @@ glycol
 glycolaldehyde
 glycolate
 glycolic
-gymkhana
 glycolyl
 glycolipid
 geod
