@@ -2352,7 +2352,6 @@ decylic
 deciliter
 deciliters
 decilitre
-dynametrical
 decillion
 deis
 decillionth
@@ -4274,6 +4273,7 @@ deltal
 deltalike
 deleerit
 deltas
+dynametrical
 deltation
 delthyrial
 delthyrium
