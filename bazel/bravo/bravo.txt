@@ -12615,7 +12615,6 @@ boof
 booger
 berlins
 blockout
-boogie
 boogies
 boogiewoogie
 boogyman
@@ -17925,6 +17924,7 @@ burtonization
 bkcy
 burtonize
 burtons
+boogie
 burtree
 burundi
 bakersfield
