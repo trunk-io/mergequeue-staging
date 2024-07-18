@@ -1647,7 +1647,6 @@ engrailing
 egomaniac
 egomaniacal
 enrichment
-egomanias
 egophony
 egos
 egosyntonic
@@ -9585,6 +9584,7 @@ ethiopic
 eaux
 escout
 enspell
+egomanias
 escribano
 escribiente
 escritoire
