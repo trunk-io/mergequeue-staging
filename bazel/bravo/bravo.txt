@@ -3945,7 +3945,6 @@ beaches
 beachfront
 barbwires
 boarder
-beachhead
 beachie
 bois
 beaching
@@ -8427,6 +8426,7 @@ bilanders
 bilateral
 bilateralistic
 borassus
+beachhead
 beneventan
 bulgaria
 boomeranging
