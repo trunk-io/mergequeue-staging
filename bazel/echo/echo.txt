@@ -5913,7 +5913,6 @@ effetely
 enif
 enigmas
 electrophori
-enigmata
 enigmatic
 enigmatically
 enigmaticalness
@@ -7310,6 +7309,7 @@ extirpating
 exponentials
 eosines
 elbower
+enigmata
 elusion
 eosinlike
 enmeshments
