@@ -10527,6 +10527,7 @@ blaubok
 blaugas
 bedin
 beshlik
+bobstay
 blautok
 blaw
 brummagen
@@ -11696,7 +11697,6 @@ bobsleded
 beechiest
 bobsleding
 bobsleds
-bobstay
 bobtail
 bobtailed
 bobtailing
