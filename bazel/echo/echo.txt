@@ -6287,7 +6287,6 @@ enrollment
 enrollments
 enrolls
 extreme
-eisteddfod
 eriophyes
 entertainer
 enrooted
@@ -7944,6 +7943,7 @@ epilog
 epilogation
 exposture
 epilogism
+eisteddfod
 epilogist
 elocutionists
 evaginated
