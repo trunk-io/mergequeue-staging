@@ -2457,6 +2457,7 @@ beja
 boxwork
 barchan
 barche
+bishoplike
 barcolongo
 barcone
 barcoo
@@ -9680,7 +9681,6 @@ bishophood
 bishopless
 banyuls
 bishoplet
-bishoplike
 bishopling
 bishopscap
 bishopstool
