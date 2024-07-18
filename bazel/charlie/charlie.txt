@@ -20918,6 +20918,7 @@ compotes
 compotier
 compotiers
 compotor
+cicatrisation
 compoundable
 choaty
 compounded
@@ -21072,7 +21073,6 @@ compurgatorial
 compursion
 computability
 computable
-cicatrisation
 computably
 computate
 counterdash
