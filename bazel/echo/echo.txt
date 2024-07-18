@@ -4025,6 +4025,7 @@ emp
 empaestic
 efficaciously
 empalement
+endophytous
 empaler
 empalers
 evert
@@ -8495,7 +8496,6 @@ ectiris
 epoxides
 epoxidize
 epoxied
-endophytous
 epoxyed
 epoxies
 erythrocytoblast
