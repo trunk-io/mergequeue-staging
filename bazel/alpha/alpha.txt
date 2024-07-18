@@ -2714,7 +2714,6 @@ acost
 acotyledon
 acotyledonous
 acouasm
-acouchi
 acouchy
 antheridia
 acoumetry
@@ -8326,6 +8325,7 @@ alienist
 alienists
 alienly
 alienness
+acouchi
 amphibiousness
 alienor
 alienors
