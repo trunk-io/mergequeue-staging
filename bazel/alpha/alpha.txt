@@ -8859,7 +8859,6 @@ americanization
 allocaffeine
 allocatable
 allocate
-apollo
 adglutinate
 allocates
 allocating
@@ -17670,6 +17669,7 @@ appellative
 appellatived
 amaritude
 alcovinometer
+apollo
 appellatively
 appellativeness
 anelectric
