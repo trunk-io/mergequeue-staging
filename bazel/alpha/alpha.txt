@@ -3156,7 +3156,6 @@ ampullula
 actinocutitis
 actinodrome
 actinodromous
-actinoelectric
 actinoelectrically
 axbreaker
 anaesthetist
@@ -10794,6 +10793,7 @@ ammeters
 ammi
 ankou
 ammines
+actinoelectric
 ammino
 amminochloride
 amminolysis
