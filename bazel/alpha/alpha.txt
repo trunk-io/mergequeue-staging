@@ -6443,7 +6443,6 @@ agonothete
 agonothetic
 agora
 agoramania
-appunctuation
 agoranome
 adductive
 agoranomus
@@ -8895,6 +8894,7 @@ allodesmism
 allodge
 allody
 amplication
+appunctuation
 allodia
 allodial
 advena
