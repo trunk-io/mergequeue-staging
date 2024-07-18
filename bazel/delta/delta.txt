@@ -6047,7 +6047,6 @@ dicyan
 disregards
 douzeper
 deputised
-deputyship
 deputising
 dungeonlike
 deputization
@@ -17531,6 +17530,7 @@ druggy
 depurates
 druggier
 druggiest
+deputyship
 dui
 drugging
 dormitive
