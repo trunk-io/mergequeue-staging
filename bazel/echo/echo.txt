@@ -3798,7 +3798,6 @@ emender
 emendicate
 excluded
 embowl
-expansometer
 exurbia
 electrowinning
 emending
@@ -9424,6 +9423,7 @@ ervipiame
 etchimin
 ervum
 erwin
+expansometer
 ethologists
 erwinia
 esuriency
