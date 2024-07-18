@@ -704,7 +704,6 @@ grocers
 gallopers
 geogonic
 gallophobe
-galloping
 gallops
 geotherm
 gallotannic
@@ -10390,6 +10389,7 @@ gulpingly
 gulsach
 gult
 griffinism
+galloping
 gumboots
 gumbos
 gumchewer
