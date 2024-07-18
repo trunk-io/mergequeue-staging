@@ -6869,7 +6869,6 @@ exasperation
 entomogenous
 entomol
 entomolegist
-ecoid
 entomolite
 entomology
 excellently
@@ -7401,6 +7400,7 @@ excelse
 equiglacial
 ependyme
 encamping
+ecoid
 ependymitis
 ependymoma
 epenetic
