@@ -1723,7 +1723,6 @@ accompt
 accord
 accordable
 armonicas
-accordance
 accordancy
 accordant
 adelea
@@ -1886,6 +1885,7 @@ accurse
 accursedness
 accursing
 adrenine
+accordance
 accurst
 accus
 accusable
