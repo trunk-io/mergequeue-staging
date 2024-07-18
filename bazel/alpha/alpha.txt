@@ -10873,7 +10873,6 @@ ammonobasic
 ammonocarbonic
 ammonocarbonous
 ammonoid
-ammonoidea
 ammonolyses
 ammonolitic
 ammonolytic
@@ -22941,6 +22940,7 @@ affrighting
 attacca
 antistater
 attach
+ammonoidea
 attachable
 alberge
 attachableness
