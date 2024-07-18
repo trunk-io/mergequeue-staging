@@ -6218,7 +6218,6 @@ fervour
 fluer
 flueric
 fissileness
-flowers
 febrifuges
 forgiveable
 fluerics
@@ -9578,6 +9577,7 @@ fastwalk
 forthward
 freebooters
 freebooty
+flowers
 freebooting
 fusils
 freeboots
