@@ -1061,6 +1061,7 @@ absorbable
 absorbance
 absorbancy
 absorbant
+airlock
 absorbed
 aerobian
 absorbedly
@@ -7024,7 +7025,6 @@ acidophilus
 airliner
 airliners
 airlines
-airlock
 airlocks
 antitradition
 airmailed
