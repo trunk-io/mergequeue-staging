@@ -14473,7 +14473,6 @@ circumstantiable
 circumstantiality
 circumstantialities
 circumstantialness
-circumstantiate
 circumstantiates
 circumstantiating
 cotorture
@@ -25659,6 +25658,7 @@ corpus
 corpuscle
 cleruchic
 condemnatory
+circumstantiate
 corpuscularian
 corpuscularity
 corpusculated
