@@ -4055,7 +4055,6 @@ aborning
 adjudicate
 adjudicates
 antisplenetic
-adjudication
 adjudications
 agrimony
 acta
@@ -22640,6 +22639,7 @@ athlete
 athletehood
 athletes
 athletic
+adjudication
 athletical
 achromate
 athletically
