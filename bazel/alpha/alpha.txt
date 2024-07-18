@@ -2255,7 +2255,6 @@ anaesthesia
 act
 anthracene
 ache
-abbreviated
 autopsychology
 acheat
 achech
@@ -16785,6 +16784,7 @@ aperitive
 apers
 apersee
 apert
+abbreviated
 apertion
 apertly
 apertness
