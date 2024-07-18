@@ -1226,6 +1226,7 @@ gantline
 gantlines
 guarnieri
 goods
+gastroenterologist
 goustrous
 gaumish
 gantlopes
@@ -9349,7 +9350,6 @@ giltcup
 groser
 groset
 gravemaster
-gastroenterologist
 grosgrained
 glomerella
 grosgrains

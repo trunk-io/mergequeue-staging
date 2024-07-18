@@ -6299,6 +6299,7 @@ eucritic
 enround
 elodeas
 ensafe
+exclaves
 ericeticolous
 ensalada
 ensample
@@ -12067,7 +12068,6 @@ exclamations
 exclamative
 exclamatory
 exclave
-exclaves
 excludable
 exclude
 exergonic
