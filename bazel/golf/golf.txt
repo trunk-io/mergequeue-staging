@@ -1228,6 +1228,7 @@ gantlines
 guarnieri
 goods
 goustrous
+gladiators
 gaumish
 gantlopes
 gruffing
@@ -5059,7 +5060,6 @@ gomphosis
 gladiator
 gladiatory
 gelatinize
-gladiators
 ginhound
 gladiatorship
 gladier
