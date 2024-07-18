@@ -6056,7 +6056,6 @@ dungeonlike
 deputization
 deputize
 deputizes
-deputizing
 dampener
 dequantitate
 distend
@@ -18509,6 +18508,7 @@ durums
 durzada
 dusack
 dermographism
+deputizing
 dusenwind
 dush
 dusio
