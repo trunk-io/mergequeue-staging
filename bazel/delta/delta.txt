@@ -3417,7 +3417,6 @@ defog
 disyllable
 defogger
 defoggers
-defogging
 defogs
 defoil
 dawish
@@ -14732,6 +14731,7 @@ dockman
 docks
 dockside
 docksides
+defogging
 dures
 dockworker
 docoglossa
