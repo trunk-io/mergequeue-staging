@@ -2170,6 +2170,7 @@ complanar
 chiliaedron
 craftsmanly
 canafistolo
+comparcioner
 canafistulo
 canaglia
 chrysopoetics
@@ -20517,7 +20518,6 @@ comparativeness
 comparativist
 comparator
 comparators
-comparcioner
 compared
 comparer
 comparers
