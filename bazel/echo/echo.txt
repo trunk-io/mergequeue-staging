@@ -880,7 +880,6 @@ ensky
 ectogenesis
 ectogenetic
 ectogenic
-ectoglia
 empedoclean
 ectognatha
 entempest
@@ -13190,6 +13189,7 @@ elsa
 explement
 explementary
 expletive
+ectoglia
 expletively
 eelskin
 epicaridea
