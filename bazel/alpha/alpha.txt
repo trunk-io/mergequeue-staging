@@ -9753,7 +9753,6 @@ alveololabial
 albacea
 authorcraft
 alveolosubnasal
-alveolus
 alveus
 alvin
 agnosia
@@ -24311,6 +24310,7 @@ ambrica
 autophonoscope
 aragonese
 autophonous
+alveolus
 autophotoelectric
 autophotograph
 aconine
