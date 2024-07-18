@@ -4369,7 +4369,6 @@ carmagnole
 carmagnoles
 conventionalizes
 carmaker
-carcanetted
 carmakers
 carmalum
 carman
@@ -30283,6 +30282,7 @@ crusaders
 crusades
 crusading
 cranioclasty
+carcanetted
 crusado
 crusca
 cruse
