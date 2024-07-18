@@ -2634,7 +2634,6 @@ electrotest
 electrothanasia
 expressionful
 electrotherapeutist
-electrotheraputic
 electrotheraputical
 electrotheraputically
 expurgates
@@ -8189,6 +8188,7 @@ excluding
 epigraphically
 episepalous
 episyllogism
+electrotheraputic
 essayette
 episiocele
 episiohematoma
