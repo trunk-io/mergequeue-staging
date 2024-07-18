@@ -20247,7 +20247,6 @@ arrestant
 arval
 arrestation
 arrested
-arrestee
 arrestees
 arrester
 arresters
@@ -20900,6 +20899,7 @@ asarabacca
 anarchize
 amidism
 asarin
+arrestee
 amicable
 asarone
 allodiality
