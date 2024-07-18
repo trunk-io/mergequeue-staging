@@ -3680,7 +3680,6 @@ blackwash
 batrachophagous
 batrachophidia
 batrachoplasty
-batrachospermum
 batsman
 batsmanship
 broncs
@@ -8209,6 +8208,7 @@ bifistular
 bike
 baedekers
 brosy
+batrachospermum
 biflabellate
 blackguardry
 battle
