@@ -3393,7 +3393,6 @@ duodecimole
 deflocculant
 debasement
 deflocculate
-deflocculating
 deflocculator
 deflocculent
 deflorate
@@ -16795,6 +16794,7 @@ draughtman
 draughtmanship
 draughts
 draughtsboard
+deflocculating
 draughtsman
 draughtsmanship
 derived
