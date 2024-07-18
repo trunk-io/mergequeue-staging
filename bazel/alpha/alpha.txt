@@ -2149,6 +2149,7 @@ acetize
 acetmethylanilide
 acetnaphthalide
 acetoacetanilide
+ambushlike
 acetoacetic
 acetoarsenite
 amic
@@ -10245,7 +10246,6 @@ acetaldehydase
 ambushers
 anticapitalistically
 autotomize
-ambushlike
 ambushment
 ambustion
 arcuate
