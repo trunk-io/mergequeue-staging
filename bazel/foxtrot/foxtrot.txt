@@ -1780,7 +1780,6 @@ feature
 featured
 ficoid
 featureful
-featurelessness
 fattening
 features
 firing
@@ -9748,6 +9747,7 @@ flagonless
 fremdly
 flake
 fremdness
+featurelessness
 founded
 fremitus
 fivepence
