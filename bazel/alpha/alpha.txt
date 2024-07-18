@@ -9054,7 +9054,6 @@ amphipodous
 allotropicity
 ancilla
 allotropies
-allotropism
 allotropize
 aguilt
 allotropous
@@ -14792,6 +14791,7 @@ antialdoxime
 antialexin
 algine
 antiamylase
+allotropism
 antiamusement
 antianaphylactogen
 antianaphylaxis
