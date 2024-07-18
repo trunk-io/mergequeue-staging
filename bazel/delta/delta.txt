@@ -8245,7 +8245,6 @@ diagonalizable
 diagonalization
 disinteresting
 diagnosing
-dispoint
 draghound
 diagonally
 diagonals
@@ -17558,6 +17557,7 @@ druidry
 druids
 druith
 densified
+dispoint
 drukpa
 disemplaned
 drumbeat
