@@ -2110,7 +2110,6 @@ balmier
 banky
 bumbling
 banking
-bankings
 bankman
 bucketfull
 budder
@@ -5851,6 +5850,7 @@ belotte
 belouke
 belove
 beloved
+bankings
 benzalcyanhydrin
 belast
 belowdecks
