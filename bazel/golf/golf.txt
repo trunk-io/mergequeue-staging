@@ -3121,7 +3121,6 @@ gausses
 geologists
 geologize
 geologizing
-geom
 gulfs
 geomagnetic
 gadwalls
@@ -10827,6 +10826,7 @@ guvacoline
 guz
 guze
 guzerat
+geom
 guzmania
 gillflirt
 guzul
