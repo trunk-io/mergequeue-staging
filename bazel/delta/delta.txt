@@ -5726,7 +5726,6 @@ depletable
 deplete
 depleted
 deplethoric
-ducting
 depletions
 depletive
 depletory
@@ -17739,6 +17738,7 @@ dubitante
 dubitate
 deltahedron
 disharmonism
+ducting
 dubitation
 dreamlessness
 dubitatively
