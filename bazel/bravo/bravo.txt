@@ -4549,7 +4549,6 @@ bedaubs
 bedlike
 bedawee
 bockerel
-bridaler
 bedawn
 bedaze
 bedazed
@@ -13135,6 +13134,7 @@ bosh
 baham
 boshas
 boshbok
+bridaler
 beamlike
 boshvark
 bonked
