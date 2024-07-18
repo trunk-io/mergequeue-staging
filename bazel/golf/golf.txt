@@ -9123,6 +9123,7 @@ grippleness
 grippotoxin
 grips
 glycans
+grouting
 gripsack
 grumbled
 gripsacks
@@ -9502,7 +9503,6 @@ grouter
 grouthead
 gubbertush
 groutiest
-grouting
 groutite
 gelee
 gymnastics
