@@ -1525,7 +1525,6 @@ deadest
 deadfall
 deadfalls
 deadhead
-deadheading
 deadheadism
 debrominate
 deadhearted
@@ -1741,6 +1740,7 @@ deaves
 deaving
 davies
 debacle
+deadheading
 debadge
 debagged
 deservingness
