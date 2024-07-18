@@ -5311,6 +5311,7 @@ ff
 forsay
 fledgling
 fledglings
+furl
 fleece
 fleeceflower
 fleeceless
@@ -11395,7 +11396,6 @@ furiousness
 fiddlers
 frivoller
 fortread
-furl
 furlable
 fremontodendron
 frauen
