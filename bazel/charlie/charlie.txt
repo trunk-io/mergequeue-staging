@@ -929,7 +929,6 @@ calamites
 calamity
 castlewards
 calamities
-connexiva
 calamitoid
 calamitous
 calamitously
@@ -20882,6 +20881,7 @@ compositing
 composition
 compositional
 compositionally
+connexiva
 compositions
 compositive
 compositively
