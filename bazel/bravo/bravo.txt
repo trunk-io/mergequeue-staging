@@ -9032,6 +9032,7 @@ brendan
 biomicroscope
 bulbous
 beamers
+boardwalks
 baseline
 brulee
 biomorphic
@@ -11560,7 +11561,6 @@ boardman
 boardroom
 balsamation
 boards
-boardwalks
 blueprinting
 boarfish
 boarishness
