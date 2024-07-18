@@ -1994,7 +1994,6 @@ gauntlets
 gauntness
 gaur
 gaurian
-gunbright
 gauric
 gaurs
 gauss
@@ -5454,6 +5453,7 @@ gouging
 glendale
 geocoronium
 glycogenase
+gunbright
 gutta
 glycogenesis
 glycogenetic
