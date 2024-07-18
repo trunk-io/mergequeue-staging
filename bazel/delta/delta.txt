@@ -558,7 +558,6 @@ dirk
 daltonism
 daltonist
 dam
-damage
 damageability
 damageableness
 damageably
@@ -13236,6 +13235,7 @@ dispossess
 dispossessed
 dispossesses
 diaphanometer
+damage
 dispenses
 dispossessing
 dispossessor
