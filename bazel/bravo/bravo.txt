@@ -3094,6 +3094,7 @@ beduin
 barway
 bullit
 barways
+brightsmith
 backrests
 barwal
 barware
@@ -15308,7 +15309,6 @@ brightest
 brightish
 brightness
 brights
-brightsmith
 brightsomeness
 bixa
 bikers
