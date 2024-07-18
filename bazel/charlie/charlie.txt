@@ -7936,7 +7936,6 @@ cessor
 cesspit
 cesspits
 cesspool
-cest
 cesta
 cestas
 ceste
@@ -25576,6 +25575,7 @@ coronobasilar
 coronofacial
 coronofrontal
 coronograph
+cest
 coronographic
 coronoid
 costopulmonary

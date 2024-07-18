@@ -6027,7 +6027,6 @@ bench
 benchboard
 benched
 benchers
-benchership
 benches
 benchfellow
 benchful
@@ -6649,6 +6648,7 @@ bergh
 baxterian
 bathymetrically
 bergy
+benchership
 berginize
 bergman
 bergmannite
