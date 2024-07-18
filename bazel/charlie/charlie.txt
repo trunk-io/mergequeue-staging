@@ -4132,7 +4132,6 @@ carefree
 carefreeness
 congestus
 careful
-carefull
 comparts
 carefuller
 capitellum
@@ -5495,6 +5494,7 @@ countess
 cataleptic
 cataleptically
 cataleptics
+carefull
 cataleptiform
 cataleptize
 cataleptoid
