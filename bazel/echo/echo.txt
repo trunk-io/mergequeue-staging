@@ -2252,6 +2252,7 @@ electivism
 electo
 extracalendar
 elector
+electrochemistry
 exotic
 electorate
 electorates
@@ -9806,7 +9807,6 @@ espousement
 espouses
 espousing
 espressivo
-electrochemistry
 engraining
 epileptogenous
 espressos
