@@ -622,7 +622,6 @@ galliform
 grunswel
 greetingless
 galligaskin
-gallberries
 galligaskins
 gallygaskins
 gallying
@@ -6445,6 +6444,7 @@ gnocchi
 gobang
 gidyea
 girl
+gallberries
 gambone
 gesnerian
 galvanometrical
