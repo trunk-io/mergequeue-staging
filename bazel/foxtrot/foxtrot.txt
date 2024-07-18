@@ -6211,7 +6211,6 @@ failures
 flatiron
 fishtail
 fluency
-fluently
 felones
 fluentness
 fervour
@@ -9902,6 +9901,7 @@ faradization
 fretwise
 fretwork
 futuristically
+fluently
 freudian
 freudians
 freudist
