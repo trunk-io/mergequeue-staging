@@ -3453,6 +3453,7 @@ carabidoid
 carabids
 carabin
 carabine
+chondrophore
 cycloaliphatic
 carabiner
 carabineros
@@ -11828,7 +11829,6 @@ chondropharyngeal
 circumvolution
 chondropharyngeus
 chondrophyte
-chondrophore
 chondroplasty
 chondroplastic
 chondroprotein
