@@ -11565,6 +11565,7 @@ fusetron
 fusht
 fusibility
 footlight
+fuzzing
 forebodings
 felling
 forestem
@@ -11742,7 +11743,6 @@ fuzzes
 fisheye
 fluctuation
 fuzzily
-fuzzing
 fuzztail
 fw
 frosteds
