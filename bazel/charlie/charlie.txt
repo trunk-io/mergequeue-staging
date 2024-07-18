@@ -3310,7 +3310,6 @@ capsaicin
 capsella
 chivarras
 catnapper
-capshore
 capsian
 capsicin
 capsicum
@@ -14716,6 +14715,7 @@ carlo
 cystiform
 cystigerous
 cystignathidae
+capshore
 cystignathine
 cystin
 cystine
