@@ -2380,7 +2380,6 @@ decimal
 decimation
 decimator
 dandiacal
-decime
 decimestrial
 decimeter
 daggly
@@ -14368,6 +14367,7 @@ dzerin
 diverse
 dictyonina
 diversely
+decime
 doggone
 diversicolored
 demitasse
