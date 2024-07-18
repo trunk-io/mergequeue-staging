@@ -9945,7 +9945,6 @@ biunivocal
 biurate
 blackwood
 biuret
-bivalency
 brownouts
 bivalent
 begumming
@@ -11311,6 +11310,7 @@ boatwise
 bluebill
 bluebottle
 bluebirds
+bivalency
 backlist
 behovely
 bluebonnet
