@@ -3990,6 +3990,7 @@ delegalize
 delegalized
 delegalizing
 dependants
+diatomales
 delegate
 delegated
 delegates
@@ -8715,7 +8716,6 @@ diatom
 diatoma
 diatomaceae
 diatomaceous
-diatomales
 dacoity
 diatomean
 diatomic
