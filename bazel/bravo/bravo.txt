@@ -3658,7 +3658,6 @@ batocrinidae
 bargemaster
 batoidei
 baton
-batoneer
 batonga
 biologese
 batonist
@@ -15492,6 +15491,7 @@ balloonish
 briskish
 beano
 briskly
+batoneer
 buzzer
 brisling
 brislings

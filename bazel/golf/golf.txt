@@ -1836,7 +1836,6 @@ granulomatous
 gastropulmonic
 gastrorrhagia
 gorling
-gastrorrhaphy
 gynura
 gastroscopic
 gastroscopies
@@ -4085,6 +4084,7 @@ gentlehood
 gownsman
 gigglier
 giggliest
+gastrorrhaphy
 golp
 gentlehearted
 glitzy
