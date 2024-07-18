@@ -1311,7 +1311,6 @@ garcon
 gonadotrope
 girdler
 gardbrace
-garden
 gardener
 gardeners
 gatha
@@ -2864,6 +2863,7 @@ gorilla
 gerasene
 gondolet
 genteelism
+garden
 garreteer
 gushing
 grouse
