@@ -17462,6 +17462,7 @@ crosstrees
 cobberer
 copals
 cobbers
+constablewick
 cobby
 cobbier
 cobbiest
@@ -23146,7 +23147,6 @@ cowgate
 constables
 constableship
 consecratedness
-constablewick
 constabular
 conchae
 constabulary
