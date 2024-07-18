@@ -2547,7 +2547,6 @@ ferronatrite
 friend
 ferrophosphorus
 filicologist
-ferroprussic
 fungologist
 fording
 ferrotype
@@ -10230,6 +10229,7 @@ frizz
 frizzante
 frizzed
 frizzen
+ferroprussic
 frizzer
 formerness
 frizzers
