@@ -2976,7 +2976,6 @@ deemphasizes
 departmentalisation
 deems
 deemster
-deemsters
 disobliged
 deemstership
 doubtsome
@@ -3550,6 +3549,7 @@ degassers
 degasses
 degassing
 degaussing
+deemsters
 dollardom
 degelatinize
 degender

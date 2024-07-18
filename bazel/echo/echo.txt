@@ -10554,6 +10554,7 @@ ecotypes
 etymologies
 etymologisable
 etymologised
+euflavine
 equators
 execrate
 extraessentially
@@ -10783,7 +10784,6 @@ entopical
 eucgia
 euemerism
 euergetes
-euflavine
 egoisms
 epitomized
 eutaxies
