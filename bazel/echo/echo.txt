@@ -2424,7 +2424,6 @@ erd
 electrogilding
 electrogram
 electrometrically
-endosarc
 electrography
 electrographic
 ectypography
@@ -12740,6 +12739,7 @@ exoneural
 exonian
 exonuclease
 exopathic
+endosarc
 exophagy
 exophasia
 edgingly

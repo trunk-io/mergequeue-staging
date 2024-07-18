@@ -1641,7 +1641,6 @@ famished
 fathead
 fawningly
 fawnlike
-fieldward
 fawns
 fawnskin
 fax
@@ -2454,6 +2453,7 @@ ferocity
 ferox
 ferrara
 flockier
+fieldward
 ferrarese
 ferrary
 ferrash
