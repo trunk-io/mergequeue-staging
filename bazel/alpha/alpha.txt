@@ -2744,7 +2744,6 @@ acquaintanceship
 acquaintanceships
 acquaintancy
 acquaintant
-acquainted
 acquaintedness
 acquainting
 alogism
@@ -19114,6 +19113,7 @@ animas
 archplagiarist
 allowance
 archplayer
+acquainted
 archplotter
 apio
 archplunderer
