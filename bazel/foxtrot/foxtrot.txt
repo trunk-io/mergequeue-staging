@@ -5902,6 +5902,7 @@ floozie
 floperoo
 foreknow
 fatals
+forfairn
 fluidizer
 flopover
 flopovers
@@ -8148,7 +8149,6 @@ flitfold
 floodage
 filigrained
 forewrought
-forfairn
 forfalt
 fielding
 flintlocks
