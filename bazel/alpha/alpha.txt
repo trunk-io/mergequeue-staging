@@ -4002,7 +4002,6 @@ adyton
 agastroneuria
 adytta
 adj
-adjacency
 adjacencies
 amberiferous
 adjacently
@@ -19022,6 +19021,7 @@ asteriscus
 archispore
 archistome
 archisupreme
+adjacency
 autere
 archit
 architective
