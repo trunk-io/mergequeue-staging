@@ -3041,6 +3041,7 @@ ellipticalness
 ellipticity
 elliptograph
 elliptoid
+epembryonic
 epicyte
 eutaxitic
 elm
@@ -7507,7 +7508,6 @@ ephippial
 ephippium
 ephyra
 ephyrae
-epembryonic
 expressway
 etheostomoid
 effluency
