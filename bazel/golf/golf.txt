@@ -1518,7 +1518,6 @@ gregorianize
 garth
 garum
 grocerdom
-garvance
 garvanzo
 gallerying
 garvie
@@ -10594,6 +10593,7 @@ galley
 gustier
 gunstocker
 gaugeably
+garvance
 glaziness
 gunstone
 galactosis
