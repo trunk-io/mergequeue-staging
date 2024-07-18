@@ -4294,7 +4294,6 @@ gymnoderinae
 gymnodiniaceae
 gemstone
 guttera
-gymnodinium
 gymnodontes
 goatling
 gollywobbler
@@ -8213,6 +8212,7 @@ graphometrist
 graphomotor
 graphonomy
 gastrin
+gymnodinium
 groundberry
 graphophone
 graphoscope

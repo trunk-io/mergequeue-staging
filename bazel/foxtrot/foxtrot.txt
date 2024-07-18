@@ -145,6 +145,7 @@ factionaries
 fulicine
 fielded
 factioneer
+frumaryl
 factionism
 factionist
 floor
@@ -10666,7 +10667,6 @@ fluoridating
 fretworked
 fruitwood
 faence
-frumaryl
 fictitious
 frumentaceous
 ferrugination
