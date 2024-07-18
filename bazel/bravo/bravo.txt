@@ -7707,7 +7707,6 @@ buses
 bhuts
 bimilllennia
 biabo
-barrico
 biacetyl
 bioecologist
 biacetyls
@@ -12513,6 +12512,7 @@ bonyfish
 boniness
 bacilluria
 boninite
+barrico
 bonita
 bepress
 bonitary
