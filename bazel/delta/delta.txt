@@ -10626,7 +10626,6 @@ dowf
 djelab
 diplois
 diplokaryon
-diploma
 diplomacies
 diplomaing
 diplomas
@@ -18298,6 +18297,7 @@ duodenas
 duodenate
 discontiguousness
 duodenation
+diploma
 degelation
 duodene
 duodenitis
