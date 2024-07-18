@@ -3305,6 +3305,7 @@ embalmer
 embalmment
 embank
 embanked
+excusing
 eozoon
 embanking
 embankment
@@ -12231,7 +12232,6 @@ excusatory
 excuse
 excused
 excuser
-excusing
 ephah
 easing
 excusively
