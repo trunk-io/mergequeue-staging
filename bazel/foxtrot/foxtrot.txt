@@ -3384,6 +3384,7 @@ fighter
 fighteress
 frontomalar
 fighters
+fecials
 forcibleness
 fightings
 fascio
@@ -4799,7 +4800,6 @@ floatsman
 fathomableness
 foghorns
 financiered
-fecials
 furring
 forgivingly
 flakeless
