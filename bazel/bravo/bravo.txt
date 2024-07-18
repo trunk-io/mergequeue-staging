@@ -2544,7 +2544,6 @@ bares
 baresark
 baresarks
 baresma
-baresthesia
 baretta
 barf
 barfed
@@ -11156,6 +11155,7 @@ binomially
 blosmy
 blossom
 bechalk
+baresthesia
 breakfasting
 blossomhead
 buttercup

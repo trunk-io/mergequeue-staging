@@ -691,7 +691,6 @@ galloons
 galabiya
 galloot
 galloots
-gallop
 genae
 gallopade
 galloped
@@ -8645,6 +8644,7 @@ gleek
 greener
 greenbugs
 greenbul
+gallop
 groatsworth
 grandevous
 greened
