@@ -7611,7 +7611,6 @@ deviances
 dsnames
 dominions
 doggrelize
-deviancy
 defalcate
 deviant
 deviate
@@ -17219,6 +17218,7 @@ driven
 driverless
 drivers
 diparentum
+deviancy
 demonstratorship
 drivership
 drives
