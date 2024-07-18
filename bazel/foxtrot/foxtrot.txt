@@ -4575,6 +4575,7 @@ fixion
 fixities
 fixive
 forpet
+fdname
 fixt
 fixture
 frore
@@ -7908,7 +7909,6 @@ fistify
 foresend
 farmhand
 faience
-fdname
 foresense
 fobbed
 formaldehydesulphoxylate
