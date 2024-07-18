@@ -8423,7 +8423,6 @@ bilabial
 bias
 bookmen
 bilalo
-bilamellate
 bilaminar
 biland
 byland
@@ -17997,6 +17996,7 @@ bacterioscopy
 bleb
 berkeleianism
 bushily
+bilamellate
 bromthymol
 bushland
 bushlands

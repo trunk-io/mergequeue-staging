@@ -2837,7 +2837,6 @@ cantilena
 cantilene
 cantilenes
 cantilever
-cantilevered
 cantilevering
 combfish
 cantily
@@ -11153,6 +11152,7 @@ chitons
 chitosamine
 chitosan
 chitose
+cantilevered
 chitra
 cloaklet
 chitrali
