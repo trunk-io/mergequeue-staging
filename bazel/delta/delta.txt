@@ -3436,6 +3436,7 @@ dawish
 defoliage
 defoliant
 daisy
+disposition
 defoliate
 diallist
 defoliates
@@ -13217,7 +13218,6 @@ daemonian
 disposing
 diascopy
 dedan
-disposition
 degasification
 drawplate
 dispositional
