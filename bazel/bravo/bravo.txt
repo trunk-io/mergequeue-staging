@@ -10294,7 +10294,6 @@ besnows
 blancmanges
 blanco
 bodybuild
-bland
 boodles
 barycentre
 blanda
@@ -11529,6 +11528,7 @@ blutwurst
 bascology
 bm
 bn
+bland
 bnf
 belemnites
 boa
