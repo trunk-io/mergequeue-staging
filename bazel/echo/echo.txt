@@ -1944,7 +1944,6 @@ ectad
 ethmovomer
 entitle
 eyras
-eire
 eyre
 eirenarch
 eirenic
@@ -6007,6 +6006,7 @@ enlength
 enlevement
 embuskin
 estrum
+eire
 eyewinks
 enlife
 escallonia
