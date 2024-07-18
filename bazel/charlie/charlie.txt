@@ -4056,6 +4056,7 @@ catchland
 cardiorrheuma
 cardiorrhexis
 cardioschisis
+casuist
 cardiosclerosis
 cardioscope
 cardiosymphysis
@@ -5383,7 +5384,6 @@ casuarina
 casuarinaceous
 casuarinales
 casuarius
-casuist
 chamaecyparis
 cytozoon
 casuistess

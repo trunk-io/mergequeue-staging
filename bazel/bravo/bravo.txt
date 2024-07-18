@@ -6310,6 +6310,7 @@ benzanalgen
 beaconage
 benzanthracene
 benzanthrone
+buchite
 benzantialdoxime
 bellwort
 bowyer
@@ -7564,7 +7565,6 @@ bewitch
 bewitched
 bewitchedness
 bewitcher
-buchite
 bewitchful
 baubo
 bewitching
