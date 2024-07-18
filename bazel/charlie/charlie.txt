@@ -12142,7 +12142,6 @@ chott
 chotts
 chou
 chouan
-chouanize
 choucroute
 chouette
 choufleur
@@ -15331,6 +15330,7 @@ caducei
 clairce
 claire
 clairecole
+chouanize
 clairecolle
 chylification
 catamneses
