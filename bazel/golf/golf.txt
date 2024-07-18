@@ -2211,7 +2211,6 @@ graywall
 geck
 gecked
 guardfish
-gecking
 gaseliers
 gecko
 geckoes
@@ -4093,6 +4092,7 @@ greenhorn
 giglots
 gigi
 gygis
+gecking
 grebe
 glucosuria
 giglet
