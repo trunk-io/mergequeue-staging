@@ -9800,7 +9800,6 @@ enfirm
 essie
 extrapyramidal
 espousage
-espousals
 espouse
 ethize
 espoused
@@ -12031,6 +12030,7 @@ excising
 excystment
 excitabilities
 excitable
+espousals
 excitably
 economy
 excitancy
