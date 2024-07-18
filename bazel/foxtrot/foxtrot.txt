@@ -4925,7 +4925,6 @@ flannelling
 flannelmouthed
 flakeboard
 flannels
-flanning
 flanque
 flans
 fernery
@@ -11141,6 +11140,7 @@ fenestrato
 foraging
 funding
 funditor
+flanning
 funditores
 fundmonger
 funds
