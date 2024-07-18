@@ -722,7 +722,6 @@ geographize
 gastraeas
 germinal
 gantlope
-gobonee
 gallows
 gallowses
 gar
@@ -6277,6 +6276,7 @@ gnathometer
 groomling
 gnathonically
 gnathonism
+gobonee
 grincome
 gnathonize
 gnathophorous

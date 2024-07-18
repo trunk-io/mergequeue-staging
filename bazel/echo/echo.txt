@@ -2325,7 +2325,6 @@ exundancy
 electrocardiograms
 electrocardiographically
 entrepas
-electrocardiographs
 electrocatalysis
 electrocataphoresis
 electrocataphoretic
@@ -8094,6 +8093,7 @@ exceeds
 epiploce
 epiploic
 electrograph
+electrocardiographs
 epiploitis
 eskimo
 epiploon
