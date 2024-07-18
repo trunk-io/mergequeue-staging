@@ -2720,6 +2720,7 @@ acouasm
 acouchy
 antheridia
 acoumetry
+atap
 aceship
 acounter
 acouometer
@@ -18406,7 +18407,6 @@ aragonspath
 araguane
 araguato
 arayne
-atap
 arains
 apotheosizing
 araise
