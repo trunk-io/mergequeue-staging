@@ -5218,6 +5218,7 @@ denormalized
 denotable
 denotate
 denotation
+drachmal
 denotational
 denotationally
 denotative
@@ -16520,7 +16521,6 @@ denization
 drachmai
 dhoti
 disguisements
-drachmal
 decastellate
 drachmas
 diplomata
