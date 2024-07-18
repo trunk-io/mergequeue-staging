@@ -9615,7 +9615,6 @@ freeheartedly
 farinhas
 flancards
 freehold
-freeholder
 freeholdership
 freeholding
 fosters
@@ -10129,6 +10128,7 @@ fife
 frisch
 fiendlier
 furbish
+freeholder
 frisco
 ferrous
 fussed
