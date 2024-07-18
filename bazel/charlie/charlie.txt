@@ -3579,7 +3579,6 @@ caravan
 caravaneer
 caravaning
 caravanist
-caravanned
 caravanner
 caravanning
 caravans
@@ -18484,6 +18483,7 @@ coherent
 coherently
 coherer
 cronk
+caravanned
 coherers
 coheres
 coheretic
