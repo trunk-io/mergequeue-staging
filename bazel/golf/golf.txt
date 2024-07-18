@@ -653,7 +653,6 @@ galvanizer
 gallinule
 grateful
 gallinulelike
-gallinulinae
 gallinuline
 garboards
 galliots
@@ -4909,6 +4908,7 @@ ghawazi
 gispin
 gist
 geomorphogenic
+gallinulinae
 gists
 git
 genioplasty
