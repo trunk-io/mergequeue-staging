@@ -1952,6 +1952,7 @@ drysalter
 decadic
 decadist
 decadrachma
+duressor
 decadrachmae
 diceman
 decaesarize
@@ -18458,7 +18459,6 @@ dureresque
 duress
 depreciator
 duresses
-duressor
 deadline
 desmodynia
 duret
