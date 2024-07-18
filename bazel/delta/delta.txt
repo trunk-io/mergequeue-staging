@@ -1544,6 +1544,7 @@ deadlocking
 demitasses
 deadlocks
 derider
+delph
 deadmelt
 deadness
 deadnesses
@@ -4226,7 +4227,6 @@ deloused
 delouses
 desmic
 delousing
-delph
 delphacidae
 deedfully
 delphically
