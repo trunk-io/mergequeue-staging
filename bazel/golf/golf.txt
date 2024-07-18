@@ -1853,6 +1853,7 @@ goodyear
 gastrotheca
 gastrotympanites
 gastrotome
+guinfo
 gastrotomy
 gastrotomies
 gardevin
@@ -10264,7 +10265,6 @@ gul
 germarium
 greensick
 guinevere
-guinfo
 genian
 guinness
 ganggang

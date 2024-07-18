@@ -3868,7 +3868,6 @@ finds
 ferntickled
 furlough
 fixes
-francophile
 fine
 fusty
 fineable
@@ -5665,6 +5664,7 @@ flitch
 flitched
 flitchen
 flitchplate
+francophile
 feverfews
 flite
 formating
