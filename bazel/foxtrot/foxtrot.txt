@@ -4311,7 +4311,6 @@ flatware
 flannel
 fishberries
 fishboat
-formful
 fusses
 fishbolts
 faultless
@@ -9321,6 +9320,7 @@ franchise
 forced
 flambeed
 franchised
+formful
 foeti
 ferfel
 franchisee
