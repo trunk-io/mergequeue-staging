@@ -30800,7 +30800,6 @@ conquerors
 culottic
 culp
 culpa
-culpabilis
 culpability
 culpable
 culpably
@@ -31749,6 +31748,7 @@ customs
 customshouse
 custos
 counterdeclaration
+culpabilis
 custrel
 custron
 custroun
