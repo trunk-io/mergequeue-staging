@@ -1932,6 +1932,7 @@ bandfile
 bandfiled
 bandfish
 bandgap
+beseen
 blanketry
 bandhava
 bandhook
@@ -6867,7 +6868,6 @@ browse
 beseemingness
 beseemly
 beseems
-beseen
 beseige
 besetment
 besets
