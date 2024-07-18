@@ -2193,7 +2193,6 @@ gearwheel
 gearwheels
 gease
 geason
-ganofs
 grammatolator
 gripey
 ginhouse
@@ -2436,6 +2435,7 @@ gluttonising
 gelt
 griffe
 gheraoes
+ganofs
 gem
 gemara
 germs
