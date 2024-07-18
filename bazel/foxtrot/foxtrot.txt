@@ -7517,6 +7517,7 @@ fishpound
 falsifiers
 forecatching
 fourflusher
+fiddlestring
 forbar
 foregame
 fordays
@@ -11448,7 +11449,6 @@ functionated
 furnishing
 feebler
 flatfish
-fiddlestring
 fenestellid
 fortune
 furnishings
