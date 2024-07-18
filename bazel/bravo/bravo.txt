@@ -2100,7 +2100,6 @@ bankcard
 bankcards
 bronchiogenic
 banker
-burghership
 botulisms
 bewitchments
 bankera
@@ -3707,6 +3706,7 @@ batted
 battel
 bonnering
 bronchotomist
+burghership
 battened
 baalisms
 battener
