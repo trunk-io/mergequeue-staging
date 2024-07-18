@@ -4573,7 +4573,6 @@ endive
 ejectors
 enmoss
 encephalopyosis
-endogenesis
 encolour
 encephalosclerosis
 encephaloscope
@@ -7644,6 +7643,7 @@ epicoele
 epicoeliac
 emerod
 epicoelian
+endogenesis
 efoliolate
 exegetist
 epicoeloma
