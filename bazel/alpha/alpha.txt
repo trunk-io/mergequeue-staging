@@ -18487,7 +18487,6 @@ araucanian
 arcturus
 algomic
 araucaria
-araucarioxylon
 arauna
 arawa
 arawak
@@ -21944,6 +21943,7 @@ assummon
 assumpsit
 assumpt
 aviatrix
+araucarioxylon
 ambassage
 assumptions
 axiomatically
