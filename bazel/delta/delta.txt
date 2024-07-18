@@ -1724,7 +1724,6 @@ deathtrap
 deathtraps
 deathwards
 deathweed
-deathworm
 deaurate
 deave
 deaved
@@ -5023,6 +5022,7 @@ denatured
 dissentism
 denaturing
 denaturisation
+deathworm
 denaturise
 doughnut
 dryops
