@@ -6312,6 +6312,7 @@ gnawable
 gnawed
 gufought
 gnawer
+globus
 gnawing
 gelatinobromide
 gnawings
@@ -9141,7 +9142,6 @@ grisettes
 guising
 glumpish
 grisgris
-globus
 gaieties
 glomerate
 grassquit
