@@ -1523,7 +1523,6 @@ fleawort
 fauna
 formulariser
 frakturs
-fishfall
 faunal
 feltmaking
 flapcake
@@ -5537,6 +5536,7 @@ flighthead
 franked
 flighty
 forpit
+fishfall
 fissiparous
 flightier
 falangism
