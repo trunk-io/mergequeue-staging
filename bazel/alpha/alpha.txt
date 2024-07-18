@@ -5846,7 +5846,6 @@ aftosa
 aftosas
 aftward
 afunctional
-ag
 agacante
 arylated
 agacella
@@ -11579,6 +11578,7 @@ anacathartic
 antimoniureted
 anacephalaeosis
 acclinal
+ag
 acidiferous
 anaces
 anachoret
