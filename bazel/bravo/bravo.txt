@@ -4990,7 +4990,6 @@ bajoire
 bubal
 beetlestock
 beetlestone
-burrower
 beetleweed
 beetlike
 beetling
@@ -11375,6 +11374,7 @@ bogus
 bluer
 blues
 bombes
+burrower
 bluesy
 bluesides
 bluesmen
