@@ -2860,7 +2860,6 @@ feuilletonism
 feuilletons
 figurate
 farfel
-floccilation
 frederick
 fleches
 feulamort
@@ -10613,6 +10612,7 @@ fructuose
 fructuosity
 fructuous
 fructure
+floccilation
 frugalist
 fuliginously
 favorableness
