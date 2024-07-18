@@ -6352,7 +6352,6 @@ benzinduline
 benzine
 benzines
 bridie
-benzins
 bittor
 bronchially
 bisectrix
@@ -17874,6 +17873,7 @@ burrstone
 berberine
 burs
 bursa
+benzins
 bursar
 bursary
 bursaries
