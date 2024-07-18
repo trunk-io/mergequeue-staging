@@ -12167,6 +12167,7 @@ drainpipes
 diploconical
 disfen
 disfiguration
+desmodium
 disfigurative
 dedolomitizing
 disfigure
@@ -17671,7 +17672,6 @@ ds
 dschubba
 dsect
 dsects
-desmodium
 dsname
 dsp
 dsr
