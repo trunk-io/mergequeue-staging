@@ -5917,7 +5917,6 @@ electrophori
 enigmata
 enigmatic
 enigmatically
-enigmaticalness
 enigmatist
 enigmatize
 enigmatizing
@@ -11523,6 +11522,7 @@ everywheres
 everywoman
 earthed
 enwoman
+enigmaticalness
 everlasting
 epistemonic
 everly
