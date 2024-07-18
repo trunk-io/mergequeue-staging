@@ -5523,7 +5523,6 @@ clangoured
 catallum
 catalo
 cataloes
-catalog
 cataloged
 catalogers
 catalogia
@@ -11807,6 +11806,7 @@ chondrogenetic
 chondrogeny
 chondrogenous
 chiropterite
+catalog
 chondroglossal
 chondroglossus
 coquito
