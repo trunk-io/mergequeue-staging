@@ -15757,6 +15757,7 @@ dormered
 dormers
 dormette
 dormeuse
+dorsiflex
 description
 dormy
 dunlap
@@ -15825,7 +15826,6 @@ disposingly
 decayable
 dorsicommissure
 dorsiferous
-dorsiflex
 dorsiflexion
 digressory
 dorsigrade
