@@ -2540,7 +2540,6 @@ baraka
 bouw
 bejewels
 barer
-bares
 baresark
 baresarks
 baresma
@@ -15750,6 +15749,7 @@ boogeymen
 bowge
 brolga
 broll
+bares
 brolly
 balled
 bedfoot
