@@ -2383,6 +2383,7 @@ barbershops
 benegro
 barbet
 barbets
+byre
 barbette
 barite
 barbettes
@@ -9458,7 +9459,6 @@ birdweed
 birdwise
 birdwitted
 birdwoman
-byre
 birectangular
 bacillogenic
 birefraction
