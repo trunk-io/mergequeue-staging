@@ -1265,6 +1265,7 @@ eer
 eery
 eerie
 elatedness
+enrolment
 eeriest
 eerily
 eerinesses
@@ -5682,7 +5683,6 @@ empacket
 engine
 engineer
 engineering
-enrolment
 engineers
 enginehouse
 engineless
