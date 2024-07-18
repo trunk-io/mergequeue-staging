@@ -7283,7 +7283,6 @@ eolian
 eolipiles
 eduction
 eolith
-eundem
 eolopiles
 ecumenicist
 eom
@@ -9013,6 +9012,7 @@ eclecticize
 ericophyte
 extraditions
 eucalyptian
+eundem
 endways
 erigenia
 eradicates

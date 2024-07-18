@@ -886,7 +886,6 @@ gamebag
 gauby
 grimly
 gibbetwise
-gameful
 gamey
 gamekeeper
 gamekeepers
@@ -1950,6 +1949,7 @@ genitives
 galenite
 glucoses
 getters
+gameful
 gambist
 gainless
 gaulding
