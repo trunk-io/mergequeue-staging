@@ -737,7 +737,6 @@ bacterioscopical
 bacterioscopist
 bacteriosis
 bacteriosolvent
-bacteriostasis
 bacteriostatic
 bacteriostatically
 bacteriotherapeutic
@@ -11537,6 +11536,7 @@ bronzers
 bifolium
 boanthropy
 bibbed
+bacteriostasis
 bediamonded
 beauism
 behavers
