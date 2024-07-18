@@ -3658,7 +3658,6 @@ forehorse
 fioretti
 fillister
 fillmass
-fillmore
 fating
 flow
 frothy
@@ -10529,6 +10528,7 @@ frounced
 frounces
 frightenedness
 frouncing
+fillmore
 frousy
 floatation
 frousier
