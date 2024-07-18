@@ -4300,7 +4300,6 @@ filibranch
 fise
 fisetin
 fulgurous
-fish
 fishability
 fishable
 friezing
@@ -9798,6 +9797,7 @@ fanwright
 frenzic
 ferned
 frenzily
+fish
 foreheads
 freon
 freq
