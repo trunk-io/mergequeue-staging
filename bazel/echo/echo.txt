@@ -1252,6 +1252,7 @@ expurgation
 eelpout
 eelpouts
 extensive
+exorability
 endothelium
 eelshop
 epitympanic
@@ -6620,7 +6621,6 @@ enterokinesia
 esurient
 enterolysis
 eddies
-exorability
 enterolith
 enterolobium
 extraocular
