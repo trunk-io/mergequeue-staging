@@ -10501,6 +10501,7 @@ algenib
 amido
 amidoacetal
 amidoacetic
+arthropyosis
 amidoacetophenone
 amidoaldehyde
 amidoazo
@@ -20649,7 +20650,6 @@ arthropathy
 arthropathic
 arthropathology
 arthrophlogosis
-arthropyosis
 arthroplasty
 arthroplastic
 arthropleura
