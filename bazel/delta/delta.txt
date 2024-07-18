@@ -14736,7 +14736,6 @@ docks
 dockside
 docksides
 dures
-dockworker
 docoglossa
 docoglossate
 disring
@@ -17607,6 +17606,7 @@ drumskin
 drumsler
 diphthongising
 drumstick
+dockworker
 dealfishes
 drung
 decals
