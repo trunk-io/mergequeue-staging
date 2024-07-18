@@ -6995,7 +6995,6 @@ besmokes
 bath
 besmoking
 besmooth
-besmoothed
 besmoothing
 brattishing
 bannermen
@@ -7350,6 +7349,7 @@ bespottedness
 backbiter
 betiding
 battologised
+besmoothed
 betimber
 bullwhip
 betime
