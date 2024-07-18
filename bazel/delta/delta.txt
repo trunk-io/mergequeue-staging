@@ -6770,6 +6770,7 @@ diathetic
 desk
 deskbound
 deskill
+delimit
 desklike
 disposure
 deskman
@@ -16660,7 +16661,6 @@ doodia
 drags
 dragsaw
 dragsman
-delimit
 dragsmen
 dragster
 drahthaar
