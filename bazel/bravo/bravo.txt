@@ -5754,7 +5754,6 @@ belligerencies
 belligerently
 belligerents
 burghemot
-bellyland
 bellylike
 bellyman
 brunched
@@ -15718,6 +15717,7 @@ broguery
 brogueries
 bedismal
 brogues
+bellyland
 broiden
 broider
 broidered
