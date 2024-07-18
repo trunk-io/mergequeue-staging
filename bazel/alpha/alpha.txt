@@ -8916,7 +8916,6 @@ allogeneity
 allogeneous
 allogenic
 allogenically
-allograft
 allograph
 allographic
 alloy
@@ -10904,6 +10903,7 @@ amniochorial
 amniomancy
 acquiet
 apoaconitine
+allograft
 amnionata
 anhydric
 amylodextrin
