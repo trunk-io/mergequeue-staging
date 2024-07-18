@@ -9609,6 +9609,7 @@ checkrack
 checkroll
 centgrave
 checkroom
+ceratodontidae
 cyanhydrate
 checkrope
 checkrowed
@@ -17916,7 +17917,6 @@ codol
 codomestication
 concessionist
 codominant
-ceratodontidae
 codon
 caprice
 codons
