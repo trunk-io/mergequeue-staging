@@ -5570,6 +5570,7 @@ gushier
 greenwing
 galliwasp
 glyoxime
+gluelike
 gummic
 glyph
 glyphic
@@ -6120,7 +6121,6 @@ glue
 grisailles
 glued
 gangsman
-gluelike
 ginger
 gyrosyn
 gallicisms
