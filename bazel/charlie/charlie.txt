@@ -154,7 +154,6 @@ cabooses
 caboshed
 cabossed
 cabot
-cabotage
 cabotages
 cabotin
 cabotinage
@@ -4265,6 +4264,7 @@ carillonneur
 clypei
 carillonneurs
 carillonning
+cabotage
 carillons
 carinal
 carinaria
