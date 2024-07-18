@@ -3541,6 +3541,7 @@ genes
 gershonite
 graptolitha
 gersum
+glandiform
 gangtide
 gertie
 gertrude
@@ -8024,7 +8025,6 @@ grangerization
 gargling
 guises
 gonotome
-glandiform
 grangerize
 greenling
 gold
