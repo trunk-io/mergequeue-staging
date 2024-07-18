@@ -13931,6 +13931,7 @@ anoplotherium
 anoplotheroid
 arrowed
 anoplura
+antennular
 anisodactyl
 anopluriform
 anopsy
@@ -14292,7 +14293,6 @@ ataghans
 antennifer
 antenniform
 antiromantic
-antennular
 antimiscegenation
 adventitial
 antennulary

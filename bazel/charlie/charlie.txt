@@ -3072,7 +3072,6 @@ cochins
 capillariomotor
 capillarity
 capillarities
-capillaritis
 capillation
 capilliculture
 capilliform
@@ -15121,6 +15120,7 @@ cytula
 cytulae
 ciudad
 civ
+capillaritis
 chudder
 crudeness
 counterprotection
