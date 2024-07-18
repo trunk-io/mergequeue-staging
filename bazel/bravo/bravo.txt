@@ -11347,6 +11347,7 @@ bluegrass
 bluegum
 broma
 bluegums
+brushable
 bluehead
 bluehearted
 bluehearts
@@ -16329,7 +16330,6 @@ bruscus
 brush
 brushability
 betrothment
-brushable
 brushback
 brushcut
 betrace
