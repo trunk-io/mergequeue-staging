@@ -9742,7 +9742,6 @@ alveolectomy
 asceses
 alveoli
 azotorrhea
-alveoliform
 alveolite
 alveolitis
 alveoloclasia
@@ -23842,6 +23841,7 @@ authorially
 authoring
 authorisable
 annexer
+alveoliform
 alpist
 authorisation
 authoriser
