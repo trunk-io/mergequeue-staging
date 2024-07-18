@@ -3121,6 +3121,7 @@ fulfillers
 ficoides
 forsooth
 fleabane
+feinted
 fixates
 fleshless
 foveolet
@@ -4589,7 +4590,6 @@ fossilizing
 fixure
 forra
 foozled
-feinted
 fane
 fixures
 fizelyite
