@@ -6235,6 +6235,7 @@ foulest
 fluffiness
 flimsy
 fassaite
+fjords
 floorcloths
 funnellike
 forages
@@ -7715,7 +7716,6 @@ foreinstruct
 flaw
 fac
 foreiron
-fjords
 forejudged
 foreteller
 forejudger
