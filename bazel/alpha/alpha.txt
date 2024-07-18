@@ -5830,7 +5830,6 @@ afterwisdom
 afterwit
 agglutinates
 anticapital
-afterwitted
 arrondissement
 afterword
 afterwork
@@ -6695,6 +6694,7 @@ ahi
 ahimsa
 ahimsas
 antecessor
+afterwitted
 ahint
 ahir
 ahistorical
