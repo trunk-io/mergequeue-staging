@@ -7162,6 +7162,7 @@ fenestra
 flodge
 footlog
 footloose
+facing
 footmanhood
 fascicle
 footmanship
@@ -9405,7 +9406,6 @@ frankness
 ferritic
 faitery
 furazan
-facing
 fratercula
 fanes
 flagitious
