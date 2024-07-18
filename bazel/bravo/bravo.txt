@@ -4128,7 +4128,6 @@ bearlet
 bellower
 bearnaise
 bearpaw
-bearship
 bearskin
 bearward
 bearwood
@@ -6127,6 +6126,7 @@ beneficiation
 beneficience
 birr
 beneficient
+bearship
 baulk
 beneficium
 benefit

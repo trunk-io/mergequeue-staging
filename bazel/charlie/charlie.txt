@@ -9902,6 +9902,7 @@ chemicophysiological
 chemics
 chemigraph
 chemigrapher
+climacium
 chemigraphy
 chemigraphically
 chemiloon
@@ -16196,7 +16197,6 @@ clima
 climaciaceae
 catechumens
 climaciaceous
-climacium
 climactery
 climacterial
 climacteric
