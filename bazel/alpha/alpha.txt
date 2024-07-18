@@ -7231,7 +7231,6 @@ aketon
 akha
 akhara
 akhyana
-arraying
 akhissar
 akhlame
 akhmimic
@@ -14040,6 +14039,7 @@ ansar
 amino
 ansarian
 ansarie
+arraying
 ansate
 ansated
 archaeostomatous
