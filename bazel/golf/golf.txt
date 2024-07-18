@@ -5201,7 +5201,6 @@ gromatical
 glareolidae
 guanayes
 glareworm
-glary
 grazer
 garbages
 galactolipide
@@ -8494,6 +8493,7 @@ gravidity
 gravidly
 gies
 graviers
+glary
 gravigrada
 gravimeter
 gravimeters
