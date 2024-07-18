@@ -1832,7 +1832,6 @@ gastropodan
 gastropore
 gastroptosia
 gastropulmonary
-granulomatous
 gastropulmonic
 gastrorrhagia
 gorling
@@ -3324,6 +3323,7 @@ geranic
 generousness
 geranyl
 gloucester
+granulomatous
 geranin
 graftage
 gelled
