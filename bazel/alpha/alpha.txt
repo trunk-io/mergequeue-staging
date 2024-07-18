@@ -16973,7 +16973,6 @@ aminoformic
 autoracemization
 aphthitalite
 aphthoid
-aphthong
 aphthongal
 aphthongia
 apiaca
@@ -17807,6 +17806,7 @@ apply
 appliable
 appliableness
 appliance
+aphthong
 accommodation
 aphyllose
 appliant
