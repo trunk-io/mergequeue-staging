@@ -5010,7 +5010,6 @@ flashingly
 flashings
 fleeting
 fdub
-fairly
 flashlamp
 flashlight
 funambulator
@@ -7234,6 +7233,7 @@ frequently
 fascet
 footwall
 footwalls
+fairly
 footwarmer
 footwears
 footwork
