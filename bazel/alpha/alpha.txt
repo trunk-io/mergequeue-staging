@@ -6313,7 +6313,6 @@ acacine
 aglycon
 aglycone
 abusable
-aglycones
 aglycons
 anankastic
 aglycosuric
@@ -24736,6 +24735,7 @@ avicenniaceae
 avicennism
 autogeny
 avicide
+aglycones
 antigravitational
 avick
 avicolous

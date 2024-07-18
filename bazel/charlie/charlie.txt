@@ -4588,7 +4588,6 @@ carper
 carpers
 carpet
 carpetbag
-covariables
 carpetbagged
 carpetbagger
 carpetbaggery
@@ -19758,6 +19757,7 @@ combatter
 combatting
 combed
 combes
+covariables
 congregative
 combfishes
 combflower
