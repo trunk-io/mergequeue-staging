@@ -491,7 +491,6 @@ falconiformes
 falconlike
 folium
 frizer
-falcons
 fatigation
 falcopern
 festination
@@ -6718,6 +6717,7 @@ formicine
 fogdom
 foge
 favellae
+falcons
 fogeater
 fogey
 fogfruit
