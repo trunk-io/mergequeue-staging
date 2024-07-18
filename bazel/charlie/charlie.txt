@@ -11828,7 +11828,6 @@ chondropharyngeal
 circumvolution
 chondropharyngeus
 chondrophyte
-chondrophore
 chondroplasty
 chondroplastic
 chondroprotein
@@ -27322,6 +27321,7 @@ couponed
 couponless
 carboluria
 coupons
+chondrophore
 coups
 centrifugal
 coupstick
