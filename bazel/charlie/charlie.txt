@@ -4180,7 +4180,6 @@ carfour
 carfuffling
 carful
 carfuls
-carga
 cargador
 cumulene
 cargadores
@@ -20465,6 +20464,7 @@ compaction
 compactions
 compactly
 compactness
+carga
 compactor
 compactors
 compacts
