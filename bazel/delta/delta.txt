@@ -4057,7 +4057,6 @@ denudement
 deliberateness
 deliberates
 diacoele
-detester
 deliberating
 deliberation
 deliberations
@@ -5756,6 +5755,7 @@ dextrotropous
 disperse
 danes
 deploredly
+detester
 deploredness
 deplorer
 disulphonate
