@@ -6627,6 +6627,7 @@ extraocular
 enterology
 enterologic
 enteromegaly
+eldrich
 engrains
 enteromegalia
 enteromesenteric
@@ -12122,7 +12123,6 @@ excoriating
 excoriation
 exophthalmia
 enterectomies
-eldrich
 excorticating
 electrifiable
 explainability
