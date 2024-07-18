@@ -1815,7 +1815,6 @@ eatage
 eyeliners
 eyen
 eyeopener
-eyepiece
 evilnesses
 exposable
 epotation
@@ -3583,6 +3582,7 @@ embower
 embowered
 embowering
 embowerment
+eyepiece
 embowers
 embowing
 embowment
