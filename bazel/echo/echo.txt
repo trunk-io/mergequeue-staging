@@ -1945,7 +1945,6 @@ eyra
 ectad
 ethmovomer
 entitle
-emergents
 eyras
 eire
 eyre
@@ -5502,6 +5501,7 @@ energism
 energize
 energized
 energizer
+emergents
 estall
 embroilment
 exploitation
