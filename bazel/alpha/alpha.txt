@@ -6654,7 +6654,6 @@ aguacate
 aguacateca
 aguada
 aguador
-aguardiente
 aguavina
 agudist
 ague
@@ -19311,6 +19310,7 @@ ardors
 ardours
 ardri
 ardrigh
+aguardiente
 andorra
 ardu
 accessit
