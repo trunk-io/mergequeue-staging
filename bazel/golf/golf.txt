@@ -5472,7 +5472,6 @@ glycogenosis
 glycogenous
 glycohaemia
 glycol
-glycolaldehyde
 glycolate
 glycolic
 gymkhana
@@ -5941,6 +5940,7 @@ glossohyal
 glossokinesthetic
 geulah
 glossolabial
+glycolaldehyde
 glossolabiopharyngeal
 graptolitoidea
 glossolaly
