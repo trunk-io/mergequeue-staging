@@ -1558,6 +1558,7 @@ goneril
 gashouses
 groundskeeping
 gasification
+gusher
 gasified
 gasifier
 gasifiers
@@ -10670,7 +10671,6 @@ gush
 goniale
 gushed
 guepard
-gusher
 geohydrologist
 gushes
 gregarinosis
