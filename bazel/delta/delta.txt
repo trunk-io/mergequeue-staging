@@ -8170,7 +8170,6 @@ diacoustics
 depart
 diacranterian
 diacranteric
-diacrisis
 diacritic
 dendrography
 diacritically
@@ -9761,6 +9760,7 @@ depriver
 dilemmatical
 dilemmatically
 dilemmic
+diacrisis
 diletant
 disgustful
 dilettanist
