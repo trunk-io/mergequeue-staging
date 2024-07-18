@@ -684,7 +684,6 @@ damper
 dampers
 dampy
 damping
-dampish
 debitumenize
 dampishness
 damply
@@ -2880,6 +2879,7 @@ decussation
 decussion
 decussis
 decussoria
+dampish
 decussorium
 decwriter
 dedal
