@@ -1556,7 +1556,6 @@ gargety
 gypsyweed
 grasses
 gashes
-grievants
 gashly
 goneril
 gashouses
@@ -7045,6 +7044,7 @@ goofiest
 gereagle
 goofily
 gatewright
+grievants
 goofing
 goofs
 glandless
