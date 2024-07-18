@@ -5446,7 +5446,6 @@ fasc
 flexed
 flexes
 ferroboron
-flexibilities
 flexibleness
 frumpiness
 flavic
@@ -10086,6 +10085,7 @@ frimitts
 foredevote
 fringehead
 featherwing
+flexibilities
 fringeless
 fringelet
 fringelike
