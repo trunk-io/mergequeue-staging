@@ -130,6 +130,7 @@ gaduin
 gadus
 gadwall
 gadwell
+gearwheel
 galactohemia
 gobies
 gaed
@@ -2190,7 +2191,6 @@ gearshifts
 genethliacally
 gastornithidae
 glaringness
-gearwheel
 gearwheels
 gease
 geason
