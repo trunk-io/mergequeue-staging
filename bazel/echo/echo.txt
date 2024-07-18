@@ -2438,7 +2438,6 @@ eposes
 extispices
 electrokinetic
 edestin
-enkolpion
 electrokinetics
 electrogalvanization
 evict
@@ -8796,6 +8795,7 @@ excoriable
 equivocated
 equivocatingly
 equivocations
+enkolpion
 equivocatory
 equivocators
 ephydrid
