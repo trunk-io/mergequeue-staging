@@ -2637,7 +2637,6 @@ baryons
 baryphony
 baryphonia
 boxholder
-baryphonic
 bucketer
 baris
 barysilite
@@ -12651,6 +12650,7 @@ bookful
 bookholder
 bookie
 bookies
+baryphonic
 bejel
 bladderweed
 begonia
