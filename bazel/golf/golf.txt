@@ -9951,7 +9951,6 @@ guards
 guardsman
 guarea
 guarico
-garancine
 guarish
 guarneri
 goldenest
@@ -10156,6 +10155,7 @@ gravimetric
 gracileness
 guided
 guideless
+garancine
 giallolino
 grout
 guidelines
