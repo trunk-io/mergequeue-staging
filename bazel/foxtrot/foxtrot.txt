@@ -7620,7 +7620,6 @@ forefeelingly
 forefeels
 fungicide
 forefeet
-foiled
 forefence
 forefend
 forefending
@@ -10674,6 +10673,7 @@ fabricators
 frumentation
 forestay
 frumenty
+foiled
 filigera
 firework
 frumentum
