@@ -1613,6 +1613,7 @@ favosites
 favositidae
 favositoid
 fpm
+fickly
 fertilizer
 favour
 favourable
@@ -8934,7 +8935,6 @@ foundress
 fooled
 foundryman
 foundrymen
-fickly
 foundrous
 fountain
 floative
