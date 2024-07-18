@@ -22538,7 +22538,6 @@ conduplicated
 conjugation
 conjugational
 conjugationally
-conjugations
 conjugative
 conjugator
 conjugators
@@ -23201,6 +23200,7 @@ constitutionless
 constitutions
 constitutive
 corocleisis
+conjugations
 constitutively
 clam
 constitutor
