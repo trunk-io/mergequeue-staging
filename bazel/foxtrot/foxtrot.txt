@@ -6568,7 +6568,6 @@ frondlet
 freshened
 finfishes
 flutteriness
-fluttering
 funeral
 flebile
 firkin
@@ -7262,6 +7261,7 @@ ferr
 flypast
 forage
 foraged
+fluttering
 flowerage
 forager
 fitchy
