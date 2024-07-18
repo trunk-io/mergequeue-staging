@@ -6640,7 +6640,6 @@ goldentop
 garage
 goldenwing
 golder
-goldest
 glucagon
 getatability
 goldfields
@@ -10505,6 +10504,7 @@ gimmerpet
 gunyah
 gunyeh
 ganoine
+goldest
 gunite
 guniter
 galactagoguic
