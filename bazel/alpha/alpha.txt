@@ -5017,6 +5017,7 @@ aerocamera
 aerocartograph
 aerocartography
 amboinese
+agrologies
 aerocharidae
 aerocyst
 aerocraft
@@ -6598,7 +6599,6 @@ agrology
 agrologic
 agrological
 agrologically
-agrologies
 amphistomum
 agrom
 agromyza
