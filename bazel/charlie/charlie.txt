@@ -12551,7 +12551,6 @@ chromize
 chromized
 chromizes
 coelacanthoid
-chromizing
 chromo
 chromobacterieae
 chromobacterium
@@ -29423,6 +29422,7 @@ cryptozygous
 cryptozonia
 crypturi
 crypturidae
+chromizing
 cris
 crisic
 crisis
