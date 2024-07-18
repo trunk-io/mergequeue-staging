@@ -6566,6 +6566,7 @@ franco
 furnacer
 frondlet
 freshened
+farmable
 finfishes
 flutteriness
 fluttering
@@ -8614,7 +8615,6 @@ forswearer
 forswearing
 falterers
 forswears
-farmable
 fasciate
 forswornness
 fort
