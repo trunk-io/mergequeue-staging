@@ -1061,6 +1061,7 @@ adiathermanous
 absorbable
 absorbance
 absorbancy
+apprenticehood
 absorbant
 absorbed
 aerobian
@@ -24921,7 +24922,6 @@ awardable
 adroit
 awarded
 awardee
-apprenticehood
 awardees
 awarders
 aminity
