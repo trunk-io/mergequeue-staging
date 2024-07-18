@@ -1637,7 +1637,6 @@ asclepieion
 acclimatiser
 acclimatization
 apokreos
-acclimatize
 acclimatized
 acclimatizer
 amygdalolith
@@ -6746,6 +6745,7 @@ ayah
 autosymbiontic
 ayahausca
 ayahs
+acclimatize
 ayahuca
 ayapana
 ayatollah

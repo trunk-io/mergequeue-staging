@@ -6427,6 +6427,7 @@ benzopyrylium
 benzoquinoline
 benzoquinone
 benzoquinoxaline
+besayle
 byron
 benzosulfimide
 benzosulphimide
@@ -6817,7 +6818,6 @@ bestiarian
 besaiel
 biggies
 bounded
-besayle
 besaint
 besan
 besanctify
