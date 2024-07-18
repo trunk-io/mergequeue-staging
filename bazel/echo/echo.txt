@@ -9582,7 +9582,6 @@ eaux
 escout
 enspell
 escribano
-escribed
 escribiente
 escritoire
 escritorial
@@ -11620,6 +11619,7 @@ evincible
 excludingly
 elitist
 epicoela
+escribed
 evirate
 eviration
 egyptological

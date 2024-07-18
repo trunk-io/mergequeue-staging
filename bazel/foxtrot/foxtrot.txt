@@ -4749,7 +4749,6 @@ fallers
 flagmaker
 franchisement
 flagmen
-frilling
 furcule
 flagons
 fasciolaria
@@ -8935,6 +8934,7 @@ foundress
 fooled
 foundryman
 foundrymen
+frilling
 fickly
 foundrous
 fountain
