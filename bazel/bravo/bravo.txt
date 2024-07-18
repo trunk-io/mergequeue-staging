@@ -5499,6 +5499,7 @@ begrimed
 beknighted
 bps
 beknighting
+broadax
 beknived
 bostal
 ballistite
@@ -15582,7 +15583,6 @@ broach
 broached
 broachers
 broaching
-broadax
 broadaxes
 broadbill
 broadbrim
