@@ -3528,7 +3528,6 @@ bater
 bates
 batfishes
 broader
-batfowl
 batfowler
 batfowls
 batful
@@ -3923,6 +3922,7 @@ bdellostoma
 bagmen
 bdellostomatidae
 bdellostomidae
+batfowl
 bdellotomy
 bdelloura
 bhutia

@@ -4449,7 +4449,6 @@ enbloc
 enbranglement
 enbusshe
 eddie
-encadre
 encaenia
 encage
 excided
@@ -8589,6 +8588,7 @@ escapers
 equestrial
 empyreal
 epimysium
+encadre
 enters
 empoririums
 enchantress
