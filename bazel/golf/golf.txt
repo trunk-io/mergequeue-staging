@@ -1087,7 +1087,6 @@ ganglial
 gybed
 globigerinidae
 glossodynia
-gangliasthenia
 gangliate
 gangliectomy
 ganglier
@@ -7467,6 +7466,7 @@ gourmanderie
 gourmandize
 gaumy
 gyppery
+gangliasthenia
 gourmandizer
 glues
 gomerals

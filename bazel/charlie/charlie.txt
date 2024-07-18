@@ -15109,7 +15109,6 @@ citropten
 citrous
 catawba
 citrullin
-citrulline
 citrullus
 citruses
 cittern
@@ -23415,6 +23414,7 @@ contaminates
 contaminating
 contamination
 contaminations
+citrulline
 chelicere
 contaminative
 contaminator
