@@ -8242,7 +8242,6 @@ grapple
 grappled
 gallooned
 grapples
-globulous
 grizzled
 grappling
 grapsidae
@@ -8935,6 +8934,7 @@ grilled
 griff
 gigantomachia
 griffaun
+globulous
 griffes
 galeid
 geyserine
