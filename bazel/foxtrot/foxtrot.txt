@@ -25,7 +25,6 @@ fabricable
 fabricant
 fruticous
 fabricates
-fabrication
 fabrications
 flentes
 fabricative
@@ -8568,6 +8567,7 @@ forsado
 fulminatory
 fatuously
 forsake
+fabrication
 fruticeous
 fullams
 fleaseed
