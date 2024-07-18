@@ -9246,7 +9246,6 @@ diecious
 died
 decanters
 dyed
-diedric
 darneder
 diegesis
 diego
@@ -15059,6 +15058,7 @@ dogmatizer
 dogmeat
 dogmouth
 dognap
+diedric
 dognaped
 dexterity
 dognaper
