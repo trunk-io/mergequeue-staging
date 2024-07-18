@@ -8469,7 +8469,6 @@ enneagynous
 epomophorus
 ectosphere
 eponge
-eponychium
 eponym
 eponymic
 eponymies
@@ -8657,6 +8656,7 @@ elateridae
 equilibrator
 equilibria
 equilibriate
+eponychium
 equilibrio
 equilibrious
 equilibrist
