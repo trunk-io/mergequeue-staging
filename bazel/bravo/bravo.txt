@@ -8556,6 +8556,7 @@ billbeetle
 boffs
 bilinguar
 bullions
+blockmaker
 billboard
 billboards
 brazens
@@ -11002,7 +11003,6 @@ blockiest
 blockishly
 blocklayer
 blocklike
-blockmaker
 blockmaking
 blockpate
 bosc
