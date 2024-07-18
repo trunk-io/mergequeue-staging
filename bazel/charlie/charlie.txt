@@ -25834,6 +25834,7 @@ clamminess
 corrosiving
 corrosivity
 corrugant
+curtise
 corrugate
 corrugated
 corrugates
@@ -31540,7 +31541,6 @@ creep
 curtilage
 capacitance
 curtis
-curtise
 curtlax
 curtness
 curtnesses
