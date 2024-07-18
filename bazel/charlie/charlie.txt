@@ -9601,7 +9601,6 @@ chiffony
 checkpoint
 christly
 checkpointed
-checkpointing
 coparallel
 checkpoints
 collies
@@ -26996,6 +26995,7 @@ counternoise
 counternotice
 counterobligation
 counteroffer
+checkpointing
 counteropening
 candiel
 counterorator

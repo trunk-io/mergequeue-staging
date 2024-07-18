@@ -6906,7 +6906,6 @@ funguses
 furtherance
 fidgetation
 fatten
-folkmoots
 flagrate
 folkmote
 folkmoter
@@ -7530,6 +7529,7 @@ foreclosable
 foreclose
 felonsetter
 foreclosed
+folkmoots
 foreclosing
 foreclosure
 freebies
