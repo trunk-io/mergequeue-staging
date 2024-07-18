@@ -7440,7 +7440,6 @@ bengal
 briolette
 bipyramidal
 backcasts
-bimolecular
 betulinol
 beturbaned
 butternut
@@ -15837,6 +15836,7 @@ bromizer
 basified
 bromizes
 bromo
+bimolecular
 bromoacetone
 bromoaurate
 bromoaurates
