@@ -3907,7 +3907,6 @@ bch
 bchs
 bd
 bdellatomy
-bdellid
 bdellidae
 bdellium
 bentinck
@@ -10914,6 +10913,7 @@ bkgd
 burnishment
 blithest
 blitter
+bdellid
 blitum
 babied
 basiophthalmous
