@@ -620,6 +620,7 @@ greeters
 gallicolous
 gallify
 grisettish
+gilgie
 galliform
 grunswel
 greetingless
@@ -1266,7 +1267,6 @@ garad
 gallish
 gyved
 glume
-gilgie
 garaging
 garance
 garava
