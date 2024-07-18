@@ -12284,7 +12284,6 @@ anchtherium
 anchusa
 anchusas
 anchusin
-anchusine
 anandrious
 asphaltum
 anciency
@@ -21853,6 +21852,7 @@ associates
 associateship
 associating
 association
+anchusine
 anientise
 associational
 associationalism
