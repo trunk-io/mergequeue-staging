@@ -4057,7 +4057,6 @@ agrimony
 acta
 adjudicative
 affiants
-adjudicator
 adjudicatory
 adjudicators
 adjudicature
@@ -11618,6 +11617,7 @@ anacolutha
 anacoluthia
 ametabolism
 anacoluthic
+adjudicator
 anacoluthon
 anacoluthons
 anacoluttha
