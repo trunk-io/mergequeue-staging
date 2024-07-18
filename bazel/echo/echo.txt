@@ -2817,7 +2817,6 @@ emblazoning
 enantiopathia
 eleutherozoa
 encydlopaedic
-elev
 elevate
 elevated
 elevatedly
@@ -5448,6 +5447,7 @@ endures
 excitement
 enduring
 enduringly
+elev
 eulogized
 enduringness
 enduros
