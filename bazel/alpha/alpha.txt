@@ -5107,6 +5107,7 @@ aeromedical
 aeromedicine
 antimasque
 aerometeorograph
+amphophilic
 aerometer
 acardia
 anolytes
@@ -11342,7 +11343,6 @@ amphogenous
 ampholyte
 amphophil
 amphophile
-amphophilic
 amphora
 amphorae
 aphthonite
