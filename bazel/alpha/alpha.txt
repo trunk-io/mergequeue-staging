@@ -12215,7 +12215,6 @@ alstonidine
 anba
 artifactual
 atmospherium
-anc
 antritis
 arteriopalmus
 ancerata
@@ -14938,6 +14937,7 @@ anticoagulator
 anticensorial
 anticensorious
 anticensoriously
+anc
 anticensoriousness
 anticensorship
 amucks
