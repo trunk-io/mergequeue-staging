@@ -5472,7 +5472,6 @@ estancieros
 eburnification
 enemying
 enemylike
-enemyship
 etherially
 enent
 enepidermic
@@ -6704,6 +6703,7 @@ emblaze
 entertainingness
 edeomania
 entertainment
+enemyship
 enfacement
 enthrones
 eeler
