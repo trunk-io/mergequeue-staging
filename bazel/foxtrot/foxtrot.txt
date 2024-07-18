@@ -944,7 +944,6 @@ farceurs
 forecasters
 farci
 farcial
-farcialize
 farcicality
 farcicalness
 forcelessness
@@ -7349,6 +7348,7 @@ forset
 fading
 fibrously
 faithfully
+farcialize
 foreland
 frenched
 fishgrass
