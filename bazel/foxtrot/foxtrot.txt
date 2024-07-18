@@ -1667,7 +1667,6 @@ fconvert
 farcin
 fcp
 fdtype
-fdubs
 fumblers
 feaberry
 flighter
@@ -6662,6 +6661,7 @@ floorings
 focussed
 fluminose
 focusses
+fdubs
 functional
 fodder
 forbear
