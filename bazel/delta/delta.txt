@@ -11998,7 +11998,6 @@ disemprison
 disenabled
 deferable
 disenablement
-disenabling
 disenamor
 disenchain
 disenchant
@@ -12771,6 +12770,7 @@ donatress
 daguerreotypes
 diminue
 dismask
+disenabling
 dismasted
 dismastment
 davidian
