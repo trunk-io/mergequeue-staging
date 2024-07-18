@@ -2205,7 +2205,6 @@ gecarcinian
 gecarcinidae
 gecarcinus
 graywall
-geck
 gecked
 guardfish
 gaseliers
@@ -8152,6 +8151,7 @@ grapewise
 graphalloy
 gyrostatic
 groover
+geck
 graphed
 gelatines
 grapheme
