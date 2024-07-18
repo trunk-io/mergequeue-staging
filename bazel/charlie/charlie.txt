@@ -11775,7 +11775,6 @@ chondriosome
 chondriosomes
 communize
 chondriosphere
-chondrites
 chondritic
 chondritis
 chondroadenoma
@@ -26644,6 +26643,7 @@ caperer
 combretaceae
 counselee
 counselful
+chondrites
 counseling
 counsellable
 counselled
