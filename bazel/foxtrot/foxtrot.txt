@@ -5256,6 +5256,7 @@ fossilify
 fleabug
 fleabugs
 fleahopper
+fribbler
 fleak
 frameless
 fleam
@@ -5622,7 +5623,6 @@ foredeep
 formidableness
 fconv
 filths
-fribbler
 first
 fullmouth
 flipflop
