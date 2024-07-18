@@ -4662,7 +4662,6 @@ gipsyish
 gastrostaxis
 gypsyish
 grot
-glamoured
 glucke
 geogony
 graveyards
@@ -7629,6 +7628,7 @@ gugu
 gradeless
 gradely
 grademark
+glamoured
 gentilities
 glutei
 guillotinist
