@@ -245,6 +245,7 @@ energumenon
 euripus
 enflaming
 evoked
+extrameridian
 easeled
 easeless
 ephebeia
@@ -12609,7 +12610,6 @@ exitance
 exite
 exited
 exiting
-extrameridian
 exition
 exitious
 epizoite
