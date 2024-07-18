@@ -4035,7 +4035,6 @@ empaneling
 empanelled
 empanelling
 empanelment
-explorativeness
 empannel
 electrologic
 emparl
@@ -13501,6 +13500,7 @@ eczematosis
 epochs
 echinated
 exp
+explorativeness
 earners
 exspuition
 exsputory
