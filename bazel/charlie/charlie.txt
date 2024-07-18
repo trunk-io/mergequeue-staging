@@ -14560,6 +14560,7 @@ cirrhosed
 comblessness
 cirrhosis
 cirrhotic
+commenter
 cirrhous
 cirrhus
 citrons
@@ -20113,7 +20114,6 @@ commentator
 commentatorial
 commentatorially
 commentatorship
-commenter
 commenting
 commentitious
 comments
