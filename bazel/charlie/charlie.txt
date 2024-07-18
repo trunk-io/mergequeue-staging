@@ -1898,7 +1898,6 @@ crenallation
 camino
 camion
 chalumeau
-camions
 correligionist
 camis
 camisade
@@ -10069,6 +10068,7 @@ chronica
 chequin
 centriciput
 chequinn
+camions
 craniopharyngioma
 cherchez
 chercock
