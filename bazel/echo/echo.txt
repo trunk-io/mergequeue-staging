@@ -1643,7 +1643,6 @@ empoisons
 egomania
 enrage
 engrailing
-ecuelle
 egomaniac
 egomaniacal
 enrichment
@@ -5387,6 +5386,7 @@ endotherm
 eucalyptuses
 endothermal
 excogitable
+ecuelle
 endosternite
 endothermy
 endothermic
