@@ -7478,7 +7478,6 @@ ephemeris
 endshake
 ephemerist
 ephemeromorph
-ephemeromorphic
 empight
 ectobatic
 ephemeron
@@ -12877,6 +12876,7 @@ exotropism
 expand
 expandable
 expanded
+ephemeromorphic
 encapsulating
 escropulo
 effeminately
