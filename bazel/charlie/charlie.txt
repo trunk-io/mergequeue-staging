@@ -9885,7 +9885,6 @@ chemicobiologic
 chemicobiological
 chemicocautery
 chemicodynamic
-chemicoluminescence
 chemicoluminescent
 chemicomechanical
 cadwal
@@ -19216,6 +19215,7 @@ colloidal
 colloidality
 colloider
 colloidize
+chemicoluminescence
 colloidochemical
 colloids
 circum
