@@ -7036,7 +7036,6 @@ destination
 destinations
 destine
 demagnetizer
-desoxyribonucleic
 decussately
 drawgear
 destines
@@ -9250,6 +9249,7 @@ diedric
 darneder
 diegesis
 diego
+desoxyribonucleic
 diehards
 dyehouse
 dieyerie
