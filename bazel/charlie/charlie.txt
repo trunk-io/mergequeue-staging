@@ -1210,7 +1210,6 @@ calfless
 cuneoscaphoid
 calflike
 calfling
-calfs
 calfskin
 calfskins
 calgary
@@ -24374,6 +24373,7 @@ cookroom
 cookshop
 cookshops
 cookstove
+calfs
 cognizee
 cookware
 cookwares
