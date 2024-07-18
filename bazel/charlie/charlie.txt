@@ -24619,7 +24619,6 @@ copybook
 copybooks
 copycat
 copycats
-copycatted
 copycutter
 concerned
 copydesk
@@ -27794,6 +27793,7 @@ coxswains
 coxwain
 coxwaining
 coxwains
+copycatted
 coze
 cozed
 cozeier
