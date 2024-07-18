@@ -5633,7 +5633,6 @@ availabilities
 afrit
 afrite
 afro
-afrogaea
 afrogaean
 afront
 abaters
@@ -13463,6 +13462,7 @@ anisotropism
 anisuria
 anita
 anither
+afrogaea
 anything
 anythingarian
 anythingarianism
