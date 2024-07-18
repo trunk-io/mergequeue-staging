@@ -295,7 +295,6 @@ eastings
 electrotechnician
 eastlake
 eastlander
-excipulum
 encharnel
 eastlin
 eastling
@@ -10499,6 +10498,7 @@ evansite
 ethnologist
 encharged
 ethoxide
+excipulum
 ethnomusicological
 existant
 erythrocytorrhexis
