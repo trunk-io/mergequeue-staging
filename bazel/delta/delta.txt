@@ -4024,7 +4024,6 @@ delesseria
 dishumor
 delesseriaceae
 delesseriaceous
-delete
 deleter
 deletery
 deleterious
@@ -6369,6 +6368,7 @@ drassid
 dermonosology
 dermoosseous
 dermoossification
+delete
 dermopathy
 dermopathic
 deresinize
