@@ -3474,7 +3474,6 @@ destroyingly
 dameworts
 deformism
 deformities
-deforms
 deforse
 defortify
 diplomatic
@@ -16026,6 +16025,7 @@ doubled
 doublegear
 doublehandedly
 doublehandedness
+deforms
 doublehatching
 degradations
 doublehearted

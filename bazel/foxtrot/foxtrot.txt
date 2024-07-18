@@ -534,7 +534,6 @@ fallacies
 forerunners
 fadlike
 feltlike
-flounced
 fallacious
 fallaciously
 flyability
@@ -7789,6 +7788,7 @@ forenoons
 forenoted
 foreface
 forensic
+flounced
 forensical
 forensicality
 forensically
