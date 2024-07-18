@@ -1791,6 +1791,7 @@ acrotic
 acemetic
 accouters
 accoutre
+afterattack
 antineologian
 accoutrement
 accoutrements
@@ -5648,7 +5649,6 @@ amberous
 afteract
 anarcestean
 afterage
-afterattack
 angelon
 afterband
 antinegro
