@@ -2525,7 +2525,6 @@ gemmule
 graniferous
 gemologist
 gemologists
-gemonies
 gemot
 gemots
 gems
@@ -4508,6 +4507,7 @@ goidel
 ginglyform
 ginglymi
 ginglymoarthrodial
+gemonies
 ginglymodi
 ginglymoid
 guildsmen
