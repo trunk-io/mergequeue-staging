@@ -164,7 +164,6 @@ factitiously
 factitive
 factitively
 fight
-flyproof
 factive
 fleshling
 fecks
@@ -8964,6 +8963,7 @@ foeship
 fouquieria
 fouquieriaceae
 forspread
+flyproof
 four
 fourb
 fourball
