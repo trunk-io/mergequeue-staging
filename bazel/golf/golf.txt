@@ -267,6 +267,7 @@ gainturn
 goalee
 gobiesocidae
 gunslinging
+giftwrap
 gasking
 girosols
 granulometric
@@ -4019,7 +4020,6 @@ guanins
 gifts
 gneisses
 galleries
-giftwrap
 granularity
 giftwrapping
 galline
