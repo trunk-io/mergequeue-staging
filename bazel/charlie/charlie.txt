@@ -6919,7 +6919,6 @@ cencerro
 cencerros
 castock
 cenchrus
-cendre
 cene
 conductibility
 cenesthesia
@@ -15003,6 +15002,7 @@ cytomorphological
 cyton
 cytone
 cytovirin
+cendre
 cytons
 cytopahgous
 cytoparaplastin
