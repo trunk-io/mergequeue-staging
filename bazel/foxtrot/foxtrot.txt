@@ -4390,7 +4390,6 @@ forechoice
 foothils
 fishweir
 fiddlery
-fumbling
 fishwoman
 fishwood
 functionalistic
@@ -10196,6 +10195,7 @@ fritter
 frittering
 fritters
 frivol
+fumbling
 fluochloride
 frivoled
 floatsmen
