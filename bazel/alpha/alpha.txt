@@ -4686,7 +4686,6 @@ adversifolious
 arrangement
 adversing
 adversity
-adversities
 absentia
 adversive
 adversus
@@ -18809,6 +18808,7 @@ archducal
 archduchesses
 archduchies
 archduke
+adversities
 archdukedom
 archdukes
 archduxe

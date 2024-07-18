@@ -2492,7 +2492,6 @@ bunns
 bazookas
 bardolater
 bardolatry
-blindman
 buffooneries
 bardolphian
 bards
@@ -8967,6 +8966,7 @@ broadwives
 biogenesist
 biogenetics
 bingo
+blindman
 biogenic
 biogens
 biogeochemical
