@@ -9492,6 +9492,7 @@ altars
 atenism
 altarwise
 altazimuth
+anele
 ahems
 alter
 affied
@@ -12575,7 +12576,6 @@ anecdotist
 anechoic
 adjustable
 anelasticity
-anele
 anelectrode
 anelectrotonic
 anelectrotonus
