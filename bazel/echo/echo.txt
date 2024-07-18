@@ -23,7 +23,6 @@ extradotal
 electrophoretic
 ebbet
 eagre
-eagres
 ealderman
 ealdorman
 eam
@@ -9680,6 +9679,7 @@ esonarthex
 esoneural
 esopgi
 esophagalgia
+eagres
 esophageal
 esophagean
 esophagectasia
