@@ -4170,6 +4170,7 @@ commoning
 caretta
 carettochelydidae
 careworn
+chondrosteous
 carex
 cravening
 carf
@@ -11856,7 +11857,6 @@ chondroskeleton
 chondrostean
 chondrostei
 chondrosteoma
-chondrosteous
 caracore
 cyathoid
 chaffseed
