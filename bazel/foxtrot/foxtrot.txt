@@ -5882,6 +5882,7 @@ floored
 floorer
 falderals
 floorhead
+fungation
 flooring
 floorless
 floormen
@@ -11182,7 +11183,6 @@ flanked
 farmsteads
 fungales
 fungals
-fungation
 fungi
 fungia
 freestones
