@@ -2053,6 +2053,7 @@ gavot
 gavotte
 gape
 goniostat
+ganglioblast
 gastronosus
 gavotting
 grandsire
@@ -8917,7 +8918,6 @@ grievable
 grievance
 goliad
 grievant
-ganglioblast
 grieved
 grievedly
 griever
