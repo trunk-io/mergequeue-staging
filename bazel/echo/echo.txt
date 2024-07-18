@@ -5836,7 +5836,6 @@ engrossingly
 enturret
 engrossingness
 encroaching
-enguard
 engulf
 engulfed
 engulfing
@@ -13452,6 +13451,7 @@ exscind
 exscinded
 epiclastic
 exscinding
+enguard
 ecphory
 exscinds
 exscribe
