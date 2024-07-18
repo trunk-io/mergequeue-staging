@@ -2098,7 +2098,6 @@ elands
 elans
 eperlan
 elaphe
-estating
 elaphebolion
 elaphodus
 elaphomycetaceae
@@ -8622,6 +8621,7 @@ eupnoeas
 equidiagonal
 equidifferent
 equidimensional
+estating
 examinative
 equidist
 embranglement
