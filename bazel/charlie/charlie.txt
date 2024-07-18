@@ -2915,7 +2915,6 @@ canula
 canulae
 canular
 canulas
-canulate
 canulated
 chorioallantoic
 canulates
@@ -15778,6 +15777,7 @@ corundum
 charterist
 clausulae
 clausular
+canulate
 coletit
 clausule
 clausure
