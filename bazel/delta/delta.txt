@@ -2405,7 +2405,6 @@ drowners
 duo
 decipherably
 disestimation
-deciphered
 decipherer
 deciphering
 deciphers
@@ -16414,6 +16413,7 @@ downtowns
 dreamy
 downtrampling
 downtrends
+deciphered
 downtrod
 downtrodden
 downturn
