@@ -11672,7 +11672,6 @@ cholericly
 cholericness
 cholerigenous
 cholerine
-choleroid
 choleromania
 conservations
 cholerrhagia
@@ -18417,6 +18416,7 @@ cognominal
 cognominally
 cognominate
 cognominated
+choleroid
 cognomination
 cognosce
 cognoscent
