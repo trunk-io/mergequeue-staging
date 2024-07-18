@@ -3547,7 +3547,6 @@ exercisers
 embossers
 eruc
 embossing
-essoinee
 embossman
 embossment
 embossments
@@ -7745,6 +7744,7 @@ epilogs
 epidermophyton
 evading
 epidermose
+essoinee
 epimere
 epidermous
 etna

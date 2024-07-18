@@ -1865,7 +1865,6 @@ accumulable
 achagua
 accumulate
 accumulated
-accumulating
 accumulation
 azophosphore
 accumulativ
@@ -12708,6 +12707,7 @@ anethols
 aerodontic
 anetic
 aneuch
+accumulating
 aneuploid
 aneuria
 aneuric
