@@ -2845,6 +2845,7 @@ feudists
 foglietto
 feudovassalism
 flittern
+foresheets
 feuds
 feuillage
 feuillants
@@ -7927,7 +7928,6 @@ fathering
 flumadiddle
 firewoods
 foresheet
-foresheets
 frangulaceae
 fluctuate
 foreshift

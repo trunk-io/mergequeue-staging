@@ -5765,7 +5765,6 @@ bellypinch
 bellis
 beroll
 bladeless
-bellite
 beaverish
 blancs
 bellmaker
@@ -8454,6 +8453,7 @@ bilbo
 bilboas
 bilboes
 befamine
+bellite
 bilch
 bilcock
 bildar
