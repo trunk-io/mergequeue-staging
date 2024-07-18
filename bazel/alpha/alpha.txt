@@ -10501,7 +10501,6 @@ algenib
 amido
 amidoacetal
 amidoacetic
-amidoacetophenone
 amidoaldehyde
 amidoazo
 amidocyanogen
@@ -16173,6 +16172,7 @@ antiritualistic
 antiroyalist
 antiromance
 antiromanticism
+amidoacetophenone
 antirun
 antirust
 aguara
