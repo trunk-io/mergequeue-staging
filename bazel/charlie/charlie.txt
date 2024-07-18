@@ -9766,6 +9766,7 @@ cheilodipteridae
 cheilodipterus
 cheiloplasty
 cheiloplasties
+columbate
 cheilostomata
 cheilostomatous
 cheilotomy
@@ -11411,7 +11412,6 @@ chlorometric
 coulombic
 chloromycetin
 copepod
-columbate
 chloronitrate
 chloropal
 chloropalladic
