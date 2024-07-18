@@ -3534,7 +3534,6 @@ filespec
 fibro
 fossores
 filestatus
-fanning
 float
 fabiform
 furaldehyde
@@ -9116,6 +9115,7 @@ foxlike
 fromenties
 frumety
 festinately
+fanning
 foxproof
 fraghan
 foxship
