@@ -1769,7 +1769,6 @@ divas
 debater
 debaters
 debates
-debatingly
 debauch
 debauchee
 debauchees
@@ -7359,6 +7358,7 @@ denasalizing
 detract
 detracted
 detracting
+debatingly
 dixits
 derivation
 detractions

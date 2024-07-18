@@ -561,7 +561,6 @@ gouache
 glee
 galleriidae
 generalized
-grf
 gallerylike
 goldwater
 gastronomist
@@ -10785,6 +10784,7 @@ gruntingly
 gentilic
 guttlers
 guttling
+grf
 guttula
 gagaku
 guttulate
