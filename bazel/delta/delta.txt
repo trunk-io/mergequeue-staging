@@ -13210,7 +13210,6 @@ disposement
 disposes
 daemonian
 disposing
-diascopy
 dedan
 disposition
 degasification
@@ -15396,6 +15395,7 @@ doohickey
 dominicale
 dominicans
 details
+diascopy
 dominick
 dominicker
 disdain
