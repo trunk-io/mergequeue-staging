@@ -12752,6 +12752,7 @@ doomfulness
 dismantlement
 dismantler
 dismantles
+duncish
 dismarble
 dismarch
 dismark
@@ -15556,7 +15557,6 @@ donuts
 donzel
 dialector
 donzella
-duncish
 donzels
 doo
 doob
