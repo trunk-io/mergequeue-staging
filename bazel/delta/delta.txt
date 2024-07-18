@@ -3514,7 +3514,6 @@ defter
 defterdar
 deftly
 deftness
-deftnesses
 defunct
 defunction
 drillbit
@@ -5971,6 +5970,7 @@ dioptase
 deprive
 deprived
 disenfranchisements
+deftnesses
 deprivement
 deprivers
 depriving
