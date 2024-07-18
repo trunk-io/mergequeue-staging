@@ -2982,6 +2982,7 @@ belong
 barrelmaking
 ballistics
 barrels
+besottingly
 boomable
 barrelsful
 brigantines
@@ -9774,7 +9775,6 @@ baidak
 bradshaw
 brocade
 bistipular
-besottingly
 bistipulate
 bistipuled
 bistort
