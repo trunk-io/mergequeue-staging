@@ -1467,6 +1467,7 @@ dcb
 dclass
 dcollet
 digested
+dozily
 dcolletage
 dcor
 ddt
@@ -16482,7 +16483,6 @@ dozier
 dardanium
 dactyliomancy
 doziest
-dozily
 dozinesses
 dozing
 deacon
