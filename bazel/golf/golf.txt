@@ -83,6 +83,7 @@ gaddang
 geheimrat
 gadded
 gadder
+glucagon
 gadders
 gaddishness
 gader
@@ -6646,7 +6647,6 @@ goldentop
 garage
 goldenwing
 golder
-glucagon
 getatability
 goldfields
 greengroceries
