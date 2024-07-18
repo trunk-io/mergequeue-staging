@@ -15503,7 +15503,6 @@ clapboards
 clapbread
 clapcake
 clapdish
-clape
 clapholt
 carrigeen
 clapmatch
@@ -15755,6 +15754,7 @@ clausilia
 cosmogonal
 clausiliidae
 curricularize
+clape
 clausthalite
 claustra
 claustral
