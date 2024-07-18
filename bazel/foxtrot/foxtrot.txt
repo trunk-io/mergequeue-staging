@@ -1019,7 +1019,6 @@ fellow
 farinha
 frenula
 farinometer
-farinose
 farinosel
 farinosely
 farinulent
@@ -10980,6 +10979,7 @@ fluorate
 fuminess
 flagellar
 finally
+farinose
 fumarases
 fumaria
 formulatory
