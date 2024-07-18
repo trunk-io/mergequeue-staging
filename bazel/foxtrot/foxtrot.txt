@@ -6657,7 +6657,6 @@ focometry
 focsle
 focused
 focusless
-fantad
 floorings
 focussed
 fluminose
@@ -8881,6 +8880,7 @@ fossilisation
 fou
 foud
 floridity
+fantad
 fouette
 foolhardiness
 forum
