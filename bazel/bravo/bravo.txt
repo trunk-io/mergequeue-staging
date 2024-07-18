@@ -1398,7 +1398,6 @@ baldheads
 baldy
 baldish
 baldling
-baldmoney
 baldnesses
 baldoquin
 baldpate
@@ -17458,6 +17457,7 @@ bunny
 bunnia
 bunnies
 bunning
+baldmoney
 bezants
 bunodont
 bulletins
