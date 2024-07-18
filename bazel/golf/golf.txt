@@ -6407,7 +6407,6 @@ goar
 goatherdess
 goasila
 geodetical
-goat
 goatbeard
 goatbrush
 guacacoa
@@ -7157,6 +7156,7 @@ glooming
 gallflower
 gorbelly
 gorbellies
+goat
 gorbit
 gorble
 goldbricker
