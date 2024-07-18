@@ -8299,7 +8299,6 @@ alids
 asafoetida
 alien
 alienability
-anthryl
 alienabilities
 alienage
 alienages
@@ -15709,6 +15708,7 @@ antimonopolist
 apiculation
 antimonopolistic
 antimonopolization
+anthryl
 antimonsoon
 antimoral
 antimoralism
