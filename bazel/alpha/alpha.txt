@@ -7879,7 +7879,6 @@ aldoside
 aldosterone
 aldosteronism
 aldrin
-aldrins
 arthritism
 aldrovanda
 aldus
@@ -22220,6 +22219,7 @@ astrals
 astonies
 astrand
 astrantia
+aldrins
 astraphobia
 astrapophobia
 astream
