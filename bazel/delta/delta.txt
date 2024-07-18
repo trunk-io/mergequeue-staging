@@ -383,6 +383,7 @@ dailiness
 daylit
 dayman
 dhunchi
+deterged
 daymare
 digestional
 daymares
@@ -7218,7 +7219,6 @@ detenues
 diphthongia
 deter
 deterge
-deterged
 detergence
 detergency
 detergent
