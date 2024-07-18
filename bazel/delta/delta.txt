@@ -1460,7 +1460,6 @@ deceived
 dcb
 dclass
 dcollet
-digested
 dcolletage
 dcor
 ddt
@@ -11840,6 +11839,7 @@ diadematoida
 discursory
 discursus
 discurtain
+digested
 discus
 discuses
 discussed
