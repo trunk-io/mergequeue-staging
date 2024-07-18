@@ -1492,6 +1492,7 @@ callosities
 callosomarginal
 callosum
 callot
+countries
 callous
 crutches
 calloused
@@ -6514,7 +6515,6 @@ cebus
 cecal
 cecca
 cecchine
-countries
 cecidiology
 cecidiologist
 cardmaker
