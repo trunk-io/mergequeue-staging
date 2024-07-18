@@ -24609,7 +24609,6 @@ cophosis
 cophouse
 copy
 copia
-copiability
 copiable
 copiapite
 copyboy
@@ -27909,6 +27908,7 @@ crackers
 cracket
 crackhemp
 crackiness
+copiability
 cracking
 crackings
 crackjaw
