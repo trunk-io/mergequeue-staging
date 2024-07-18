@@ -9984,6 +9984,7 @@ chainmen
 calic
 cruive
 chemosorb
+cornettino
 chemosorption
 chemosorptive
 chemosphere
@@ -25387,7 +25388,6 @@ cornett
 cornette
 cornetter
 cornetti
-cornettino
 caponized
 cornettist
 concretize
