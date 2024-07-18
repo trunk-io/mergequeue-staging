@@ -20054,7 +20054,6 @@ commemorations
 commemorative
 commemoratively
 commemorativeness
-commemorator
 chronographical
 commemoratory
 concupiscent
@@ -29332,6 +29331,7 @@ cryptogamous
 cryptogenetic
 cryptogenic
 cryptogenous
+commemorator
 cryptoglaux
 cryptoglioma
 cryptogram
