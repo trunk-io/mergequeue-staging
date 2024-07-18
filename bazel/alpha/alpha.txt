@@ -9037,7 +9037,6 @@ allotransplant
 allotransplantation
 allotriodontia
 allotriognathi
-allotriomorphic
 antenatal
 allotriophagia
 aeger
@@ -12812,6 +12811,7 @@ angiasthenia
 angico
 angie
 angiectasis
+allotriomorphic
 angiectopia
 angiemphraxis
 angiitis

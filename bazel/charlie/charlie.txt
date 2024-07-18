@@ -7338,7 +7338,6 @@ cephalocaudal
 cephalocele
 curvous
 cephalocentesis
-cephalocercal
 cephalocereus
 cephalochord
 cephalochorda
@@ -8758,6 +8757,7 @@ chanteys
 chanter
 chanterelle
 chanters
+cephalocercal
 crimple
 chantership
 chanteur
