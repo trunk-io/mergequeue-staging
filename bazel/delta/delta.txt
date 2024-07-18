@@ -3328,7 +3328,6 @@ diabetic
 definitions
 definitise
 dankly
-definitised
 definitising
 definitive
 dunned
@@ -10815,6 +10814,7 @@ direction
 directional
 discarding
 disanchor
+definitised
 dolichocranial
 drain
 directionalize
