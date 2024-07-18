@@ -10781,7 +10781,6 @@ blesse
 bedward
 boul
 blessed
-blesseder
 blessedest
 blessedly
 blessedness
@@ -17885,6 +17884,7 @@ biter
 bursch
 barmy
 burse
+blesseder
 banjoes
 burseed
 burseeds
