@@ -8272,6 +8272,7 @@ downsizing
 dishmaking
 diagraph
 diagraphics
+demigrate
 diagraphs
 decastyle
 diagredium
@@ -16518,7 +16519,6 @@ drachm
 drachmae
 diplocardia
 devolatilisation
-demigrate
 doutous
 denization
 drachmai
