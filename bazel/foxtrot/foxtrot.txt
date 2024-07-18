@@ -349,7 +349,6 @@ frills
 fainter
 fainters
 faintful
-faintheart
 fainthearted
 floodmark
 faintheartedness
@@ -6542,6 +6541,7 @@ floorboard
 flexural
 fluty
 flutier
+faintheart
 floorthrough
 flutiest
 flutina
