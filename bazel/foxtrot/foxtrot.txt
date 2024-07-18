@@ -3152,7 +3152,6 @@ frolicsomely
 folkloric
 fictive
 ficula
-fid
 fidac
 fishplate
 fidate
@@ -6319,6 +6318,7 @@ flowed
 flukiness
 fisted
 funebre
+fid
 flumdiddle
 flume
 fieldsman
