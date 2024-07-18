@@ -479,7 +479,6 @@ featherers
 fanweed
 falcial
 falcidian
-falciform
 fichu
 falcinellus
 fleta
@@ -9132,6 +9131,7 @@ futtermassel
 fpsps
 footed
 fr
+falciform
 fra
 follow
 fameuse
