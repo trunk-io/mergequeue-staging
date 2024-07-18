@@ -2099,7 +2099,6 @@ acetylcarbazole
 acetylcellulose
 acetylcholine
 acetylcholinesterase
-acetylcholinic
 atmogenic
 acetylcyanide
 alodiaries
@@ -11823,6 +11822,7 @@ adermine
 analytical
 alamanni
 adulates
+acetylcholinic
 analytically
 analyticity
 antinational
