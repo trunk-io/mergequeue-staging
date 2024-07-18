@@ -1502,6 +1502,7 @@ expulsions
 eligent
 egal
 egalitarian
+embolum
 ebracteate
 encephalomere
 estuate
@@ -3524,7 +3525,6 @@ embolomycotic
 embolon
 emboltement
 easement
-embolum
 embolus
 emborder
 embordered
