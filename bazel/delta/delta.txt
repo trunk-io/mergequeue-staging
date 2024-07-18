@@ -5681,7 +5681,6 @@ darling
 depictured
 depiedmontize
 depigment
-depigmentate
 depigmentation
 depigmentize
 disomaty
@@ -9860,6 +9859,7 @@ dhoul
 demountability
 demonographies
 diluvium
+depigmentate
 drawboy
 dimane
 disgorging
