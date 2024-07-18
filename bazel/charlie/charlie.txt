@@ -7598,7 +7598,6 @@ caprificator
 ceilidhe
 cerebellopontine
 cerebellorubral
-cerebellospinal
 cerebellum
 cerebellums
 cerebra
@@ -21744,6 +21743,7 @@ conditoria
 conditorium
 condivision
 cincinnatian
+cerebellospinal
 condo
 condog
 condolatory
