@@ -1279,6 +1279,7 @@ fraunch
 forestology
 fumigate
 foreswore
+fractable
 fasting
 finalists
 fibroids
@@ -9156,7 +9157,6 @@ fracid
 frack
 foxfinger
 footeite
-fractable
 fairyology
 fractabling
 fraction
