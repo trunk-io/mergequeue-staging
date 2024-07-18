@@ -10490,7 +10490,6 @@ diphosgene
 diphosphate
 diphosphid
 diphosphoric
-determinantal
 deeded
 diphosphothiamine
 damans
@@ -15900,6 +15899,7 @@ dosimeter
 dosimetric
 devisee
 disciplinary
+determinantal
 dosimetrician
 dosimetries
 dosimetrist

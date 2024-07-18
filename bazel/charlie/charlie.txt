@@ -3167,6 +3167,7 @@ corruptibility
 caplock
 capmaker
 cordmaker
+carpolith
 capmaking
 capman
 capmint
@@ -4658,7 +4659,6 @@ carpoidea
 cystinosis
 chlorohydrocarbon
 carpolite
-carpolith
 carpology
 crenelled
 carpological
