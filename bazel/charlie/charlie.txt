@@ -2887,7 +2887,6 @@ cantorian
 cantoris
 caxton
 cantorous
-cantors
 cantorship
 cantos
 cantraip
@@ -20101,6 +20100,7 @@ commensurability
 commensurableness
 commensurably
 clan
+cantors
 commensurated
 commensurately
 commensurateness
