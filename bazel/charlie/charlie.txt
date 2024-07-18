@@ -7750,7 +7750,6 @@ circumanal
 cobbler
 ceroid
 ceroline
-cerolite
 ceromancy
 ceroon
 cerophilous
@@ -20461,6 +20460,7 @@ compactible
 compactify
 compactile
 compacting
+cerolite
 compaction
 compactions
 compactly
