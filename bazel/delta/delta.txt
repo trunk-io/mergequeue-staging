@@ -3028,7 +3028,6 @@ daker
 deerskin
 doggrel
 deerstalker
-deerstalkers
 deerstalking
 deerstand
 deertongue
@@ -7229,6 +7228,7 @@ deteriorated
 deteriorates
 deteriorating
 deterioration
+deerstalkers
 deteriorationist
 deteriorative
 deteriorism
