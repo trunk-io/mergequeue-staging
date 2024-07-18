@@ -14579,7 +14579,6 @@ dempne
 dizaine
 desquamative
 dropkicker
-dizdar
 dizen
 dizened
 dizenment
@@ -15138,6 +15137,7 @@ dolcan
 dolcemente
 dolci
 diapaused
+dizdar
 dolciano
 dolcino
 doldrums
