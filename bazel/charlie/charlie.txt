@@ -2466,7 +2466,6 @@ controverse
 caneware
 calci
 canewares
-cellifugal
 canewise
 canework
 chemotactic
@@ -27291,6 +27290,7 @@ countrify
 civil
 countrification
 countrifiedness
+cellifugal
 countryfiedness
 countryfolk
 countryish
