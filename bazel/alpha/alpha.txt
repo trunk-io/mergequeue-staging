@@ -2853,7 +2853,6 @@ acrylaldehyde
 acrylate
 acrylates
 acrylic
-acrylics
 acrylyl
 acrylonitrile
 acrimony
@@ -11105,6 +11104,7 @@ ampheclexis
 ampherotoky
 anotus
 assigns
+acrylics
 amphetamines
 amphi
 amphiarthrodial
