@@ -1757,7 +1757,6 @@ debarment
 debarrance
 debarration
 desirously
-debarred
 debased
 dramatiser
 debasedness
@@ -13393,6 +13392,7 @@ disregardable
 dacryocystitis
 dicerion
 disregardant
+debarred
 disregarded
 disregarder
 disregardful
