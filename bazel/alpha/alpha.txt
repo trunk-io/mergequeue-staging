@@ -1967,7 +1967,6 @@ alkaliferous
 acephali
 acephalina
 acephaline
-acephalism
 acephalist
 acephalite
 acephalocyst
@@ -7675,6 +7674,7 @@ alcazars
 alcazava
 alce
 astrophil
+acephalism
 alcedinidae
 allative
 alcedininae
