@@ -5879,7 +5879,6 @@ demoniacally
 depravingly
 diphonia
 depravities
-deprecated
 demythologise
 dm
 deprecates
@@ -15946,6 +15945,7 @@ dost
 dostoevsky
 dot
 dinosaurian
+deprecated
 dotage
 doubleword
 dotal

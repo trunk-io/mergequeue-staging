@@ -10094,7 +10094,6 @@ ambitions
 ambitious
 ambitiously
 ambitiousness
-ambits
 antiquities
 ambitty
 ambitus
@@ -18166,6 +18165,7 @@ aquagreen
 aquake
 aqualung
 aqualunger
+ambits
 astrocytic
 aquamanile
 aquamaniles
