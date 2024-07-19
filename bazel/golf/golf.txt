@@ -2217,7 +2217,6 @@ gecarcinian
 gecarcinidae
 gecarcinus
 graywall
-gecked
 guardfish
 gaseliers
 gecko
@@ -7524,6 +7523,7 @@ glossiness
 gophers
 gaminess
 governmental
+gecked
 governmentalism
 greensickness
 gynecocratic
