@@ -628,7 +628,6 @@ exosmose
 echoes
 ebonising
 echogram
-echoing
 echoingly
 engelmann
 echoisms
@@ -5058,6 +5057,7 @@ enounce
 eroded
 epitomisation
 endobronchial
+echoing
 empathizing
 enunciation
 euphonicalness
