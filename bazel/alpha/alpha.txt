@@ -7362,6 +7362,7 @@ alamode
 assaugement
 auslaut
 alamodes
+arrowheads
 antigalactagogue
 aneroid
 alamosite
@@ -20352,7 +20353,6 @@ arrouse
 arrow
 arrowbush
 arrowheaded
-arrowheads
 arrowy
 arrowing
 arrowleaf

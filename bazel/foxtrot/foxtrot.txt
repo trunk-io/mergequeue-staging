@@ -354,7 +354,6 @@ fainthearted
 floodmark
 faintheartedness
 faintingly
-faintise
 faintish
 faintishness
 fidejussor
@@ -10093,6 +10092,7 @@ fringehead
 featherwing
 flexibilities
 fringeless
+faintise
 fringelet
 fringelike
 fringent
