@@ -439,6 +439,7 @@ ecballium
 ecbasis
 ecbatic
 ecblastesis
+electromyogram
 ecblastpsis
 ecbole
 epiphanizing
@@ -2495,7 +2496,6 @@ electromerism
 electrometer
 enage
 electrometrical
-electromyogram
 electromyograph
 ectoenzyme
 electromyography

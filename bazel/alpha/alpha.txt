@@ -10387,7 +10387,6 @@ americanoid
 americans
 americanum
 ascry
-americanumancestors
 armorless
 americas
 americaward
@@ -23866,6 +23865,7 @@ authorizer
 authorizers
 adoors
 authorizing
+americanumancestors
 authorless
 authorling
 algonquins
