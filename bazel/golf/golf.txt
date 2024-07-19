@@ -5903,7 +5903,6 @@ glossectomy
 glossed
 glossem
 glosseme
-glossemic
 glosser
 glossers
 galloway
@@ -6185,6 +6184,7 @@ gluneamie
 guereza
 graphologies
 guaniferous
+glossemic
 gluon
 glusid
 graecize
