@@ -135,6 +135,7 @@ gobies
 gaed
 gaedelian
 gael
+granaries
 gleemaiden
 grampus
 gaelicist
@@ -7902,7 +7903,6 @@ gunless
 grapplers
 gelsemium
 gully
-granaries
 gratias
 groins
 ghostess
