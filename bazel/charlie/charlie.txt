@@ -7364,6 +7364,7 @@ cottiers
 cephalodia
 cannikins
 cephalodymus
+character
 cephalodynia
 cephalodiscid
 cephalodiscida
@@ -8919,7 +8920,6 @@ characinidae
 characinoid
 characins
 charact
-character
 cutouts
 charactered
 characterful
