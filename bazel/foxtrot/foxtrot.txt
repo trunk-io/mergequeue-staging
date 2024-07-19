@@ -82,6 +82,7 @@ facy
 facial
 facially
 flambeau
+finalized
 facie
 faciend
 faciends
@@ -3818,7 +3819,6 @@ fundament
 focus
 finalities
 finalization
-finalized
 finalizes
 fraternized
 farcist

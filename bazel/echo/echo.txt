@@ -5198,6 +5198,7 @@ endometry
 entocuniform
 endopod
 ecliptics
+electrotropic
 endometria
 endometriosis
 endometritis
@@ -13169,7 +13170,6 @@ explain
 enumerable
 explainableness
 explained
-electrotropic
 explainer
 euglandina
 explainers
