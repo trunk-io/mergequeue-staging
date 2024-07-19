@@ -1229,7 +1229,6 @@ datebook
 datedly
 datedness
 dateless
-datelessness
 dateline
 datelined
 datelines
@@ -4571,6 +4570,7 @@ dystrophic
 demilustre
 demimark
 demimentoniere
+datelessness
 demimillionaire
 darbyism
 demimondain
