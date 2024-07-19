@@ -2457,7 +2457,6 @@ electrolysing
 electrolyte
 electrolithotrity
 electrolytic
-electrolytical
 electrolytically
 electrolyzability
 electrolyzation
@@ -3331,6 +3330,7 @@ exsert
 extortioners
 electronic
 embarras
+electrolytical
 embarrased
 etoiles
 ecchondrotome
