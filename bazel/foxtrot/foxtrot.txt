@@ -1919,6 +1919,7 @@ feely
 feelies
 fellowcraft
 fucaceae
+forehalf
 fornical
 fledgier
 feeling
@@ -7664,7 +7665,6 @@ foreground
 foregrounds
 foreguess
 foregut
-forehalf
 forehall
 forehand
 forehanded
