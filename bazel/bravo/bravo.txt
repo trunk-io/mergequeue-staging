@@ -2333,7 +2333,6 @@ barbarize
 barbarous
 barbarously
 barbarousness
-barbasco
 bedsheets
 barbascos
 barbastel
@@ -5761,6 +5760,7 @@ belligerencies
 belligerently
 belligerents
 burghemot
+barbasco
 bellylike
 bellyman
 brunched
