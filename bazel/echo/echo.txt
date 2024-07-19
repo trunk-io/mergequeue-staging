@@ -4418,7 +4418,6 @@ excels
 enantiomorph
 enantiomorphism
 encopresis
-enantiomorphously
 enantiopathy
 episodial
 exanthine
@@ -5437,6 +5436,7 @@ ergmeter
 enduement
 enduing
 endura
+enantiomorphously
 exotisms
 endurability
 eurycephalous
