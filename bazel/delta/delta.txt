@@ -7281,7 +7281,6 @@ detestability
 detestableness
 dasein
 detestation
-detestations
 detested
 dragonne
 driveboat
@@ -18675,6 +18674,7 @@ dwt
 dx
 dz
 dzeren
+detestations
 diglyphic
 dziggetai
 donatary

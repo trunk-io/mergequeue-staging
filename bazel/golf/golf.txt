@@ -3509,7 +3509,6 @@ geronto
 gerontocracies
 gynandromorphous
 glorioso
-gerontology
 gerontologic
 gerontological
 gerontologies
@@ -8616,6 +8615,7 @@ gree
 greece
 ghosts
 greed
+gerontology
 greedy
 greediest
 ginkgoaceae
