@@ -5188,7 +5188,6 @@ endolemma
 endolymphangial
 endolymphatic
 electrolyzable
-etiotropic
 endolymphic
 endolysin
 endome
@@ -5349,6 +5348,7 @@ extractor
 emotionalising
 endostylic
 excarnate
+etiotropic
 endostitis
 endostoma
 endostomata
