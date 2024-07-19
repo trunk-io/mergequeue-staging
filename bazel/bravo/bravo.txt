@@ -3710,6 +3710,7 @@ battener
 boiserie
 batteners
 battens
+begripe
 bilking
 batter
 batterdock
@@ -5280,7 +5281,6 @@ begrimer
 begrimes
 begrimmed
 begrimming
-begripe
 begroan
 befortune
 begroaned
