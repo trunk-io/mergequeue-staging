@@ -604,7 +604,6 @@ ablutionary
 ablutions
 abluvion
 abmho
-aggravation
 assai
 abmhos
 abmodality
@@ -5437,6 +5436,7 @@ affixes
 apodous
 affixial
 affixion
+aggravation
 affixment
 acromania
 aspidium
