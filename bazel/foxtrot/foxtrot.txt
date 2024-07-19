@@ -801,6 +801,7 @@ faniente
 flamencos
 forfeiting
 footlike
+footers
 fanioned
 fraternate
 fablemonger
@@ -4876,7 +4877,6 @@ flammed
 flammeous
 flamming
 fishbolt
-footers
 flan
 fishbed
 fulcrumed

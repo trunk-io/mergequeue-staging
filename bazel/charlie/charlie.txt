@@ -788,7 +788,6 @@ caissons
 caitanyas
 caite
 caitif
-consigne
 caitiff
 caitiffs
 caitifty
@@ -24654,6 +24653,7 @@ copintank
 chaplainry
 copiopsia
 copiosity
+consigne
 copious
 copiously
 copyreader
