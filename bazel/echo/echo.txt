@@ -3494,7 +3494,6 @@ embodies
 eastness
 eboe
 embodying
-electrofused
 embogue
 emboite
 emboitement
@@ -8109,6 +8108,7 @@ epipoditic
 extracorporeal
 epipodium
 epipolic
+electrofused
 ectoplacenta
 ecthlipsis
 experimentist
