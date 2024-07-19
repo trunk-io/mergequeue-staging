@@ -2418,7 +2418,6 @@ dragsawing
 deckie
 diatomacean
 decking
-deckings
 deckle
 deckman
 despicable
@@ -14759,6 +14758,7 @@ doctorial
 doctorially
 doctoring
 downcastly
+deckings
 doctorization
 doctorize
 doctorless
