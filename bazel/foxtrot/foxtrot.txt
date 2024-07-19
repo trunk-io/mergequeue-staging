@@ -5006,6 +5006,7 @@ flashlight
 funambulator
 fluorinating
 flusteration
+frontwards
 forellenstein
 fable
 flashtubes
@@ -10446,7 +10447,6 @@ frontspieces
 fifers
 facete
 fronture
-frontwards
 froom
 froppish
 fontlet
