@@ -15633,7 +15633,6 @@ antimethodically
 antimethodicalness
 antimetrical
 antimetropia
-antimetropic
 antimycotic
 antimicrobial
 antimilitary
@@ -22624,6 +22623,7 @@ adlumin
 athyria
 appendancy
 athyrid
+antimetropic
 athyris
 athyrium
 athyroid
