@@ -8030,6 +8030,7 @@ alewives
 alex
 ascigerous
 alexanders
+aux
 alexandra
 alexandreid
 alexandrines
@@ -17744,7 +17745,6 @@ accumulates
 appetite
 appetitional
 akelas
-aux
 appetitious
 appetitiveness
 appetitost

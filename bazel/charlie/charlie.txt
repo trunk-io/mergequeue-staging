@@ -5232,7 +5232,6 @@ cassone
 cassons
 cassoon
 creatable
-cassoulet
 cassowaries
 cryohydric
 cassumunar
@@ -8136,6 +8135,7 @@ chafers
 chafes
 calcinable
 chafewax
+cassoulet
 chafeweed
 copleased
 cakebread
