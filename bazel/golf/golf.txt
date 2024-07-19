@@ -13,7 +13,6 @@ germantown
 generating
 galvanolysis
 galanga
-gabber
 gabbers
 gabbier
 gabbiness
@@ -4677,6 +4676,7 @@ gipsylike
 geggee
 glowworm
 giarre
+gabber
 gypsine
 gipsiologist
 gaster
