@@ -4047,6 +4047,7 @@ fioriture
 fippence
 flyball
 fiqh
+frameable
 fique
 fiques
 fir
@@ -11265,7 +11266,6 @@ funmaker
 funmaking
 funned
 frameableness
-frameable
 flambeing
 forefield
 funneled
