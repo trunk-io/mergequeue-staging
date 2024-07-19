@@ -7327,6 +7327,7 @@ detonating
 detonation
 detonations
 detonative
+dim
 detonize
 detort
 dextroses
@@ -11441,7 +11442,6 @@ discoglossoid
 discographer
 discographic
 discographical
-dim
 dekaliter
 discographies
 discoidal
