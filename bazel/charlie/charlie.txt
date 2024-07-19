@@ -22690,6 +22690,7 @@ connotational
 connotative
 connotatively
 connote
+crannies
 connoted
 connotes
 connoting
@@ -28225,7 +28226,6 @@ crannequin
 cranny
 crannia
 crannied
-crannies
 chymify
 compiler
 crannock
