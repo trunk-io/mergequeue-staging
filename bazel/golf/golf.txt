@@ -1122,6 +1122,7 @@ governance
 ganglioplexus
 glamourie
 grabs
+gatefolds
 gangman
 garnets
 gyrocompass
@@ -9770,7 +9771,6 @@ gtt
 gu
 guaba
 grandads
-gatefolds
 guacamole
 gentile
 guachamaca
