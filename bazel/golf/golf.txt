@@ -4770,7 +4770,6 @@ gustatory
 gyrencephalous
 gallivat
 gyres
-gyrfalcon
 guarache
 gyrfalcons
 guillotiner
@@ -6002,6 +6001,7 @@ glottalize
 grumphie
 gymnurinae
 groundbreaker
+gyrfalcon
 glottalized
 gestures
 gomphocarpus
