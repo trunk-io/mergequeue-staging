@@ -2270,6 +2270,7 @@ electress
 electrets
 exostosis
 electric
+epicanthi
 entrapment
 expediment
 expenditures
@@ -7569,7 +7570,6 @@ epicalyx
 epicalyxes
 epically
 embraceries
-epicanthi
 epicanthic
 epicardium
 epicarid
