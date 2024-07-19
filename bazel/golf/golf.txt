@@ -1060,6 +1060,7 @@ ganefs
 ganev
 ganevs
 galluses
+gulfweed
 ganga
 gangamopteris
 gangan
@@ -6914,7 +6915,6 @@ gonocyte
 gingals
 gonococcal
 gonococci
-gulfweed
 grotesco
 grocerwise
 gonococcoid
