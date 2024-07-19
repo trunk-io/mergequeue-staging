@@ -6310,6 +6310,7 @@ ensampler
 ensamples
 ensanguine
 ensanguining
+emergency
 erostrate
 enscene
 ensconces
@@ -12547,7 +12548,6 @@ exilarchate
 exile
 excambion
 earlduck
-emergency
 exequy
 elachista
 endomysial
