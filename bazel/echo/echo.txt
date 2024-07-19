@@ -8599,7 +8599,6 @@ enchantress
 ectocarpales
 equestrian
 equestrianism
-equestrianship
 entoretina
 envois
 equianchorate
@@ -11991,6 +11990,7 @@ excessiveness
 excessmen
 eternisation
 exch
+equestrianship
 exchange
 exchangeability
 exchangeable
