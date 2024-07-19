@@ -1941,7 +1941,6 @@ borer
 bandhor
 bandhu
 bandi
-begulfing
 bandyball
 bandicoy
 bandicoot
@@ -4115,6 +4114,7 @@ booleans
 bearer
 baister
 buttled
+begulfing
 buoyage
 bronchomotor
 bearfoot
