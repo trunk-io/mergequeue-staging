@@ -5012,7 +5012,6 @@ denatured
 dissentism
 denaturing
 denaturisation
-denaturise
 doughnut
 dryops
 denaturiser
@@ -8326,6 +8325,7 @@ danzon
 dorbie
 dialypetalous
 dogtooth
+denaturise
 dialyphyllous
 dialysability
 deplanes
