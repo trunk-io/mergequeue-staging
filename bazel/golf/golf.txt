@@ -4314,6 +4314,7 @@ gyppo
 gambas
 gierfalcon
 gopura
+gorget
 gnattiest
 gatteridge
 gymnolaemata
@@ -7207,7 +7208,6 @@ gorgerin
 geophysically
 gatemaker
 gladiolus
-gorget
 genesee
 gorgeted
 gorgets
