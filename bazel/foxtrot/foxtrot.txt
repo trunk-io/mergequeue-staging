@@ -3065,7 +3065,6 @@ fusarial
 fullterm
 fracture
 framed
-fibrovascular
 fibs
 fibster
 fomento
@@ -3409,6 +3408,7 @@ figurable
 figurae
 flotilla
 figurant
+fibrovascular
 frag
 figurants
 fulgurantly
