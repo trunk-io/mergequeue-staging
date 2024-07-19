@@ -4705,7 +4705,6 @@ advertisement
 automatin
 advertiser
 advertisers
-advertises
 adenofibrosis
 advertizable
 advertized
@@ -16026,6 +16025,7 @@ antipreparedness
 antiprestidigitation
 antipriest
 adnate
+advertises
 antipriestcraft
 antipriesthood
 antiprime

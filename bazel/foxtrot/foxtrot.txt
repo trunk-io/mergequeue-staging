@@ -6911,7 +6911,6 @@ folkmote
 folkmoter
 folkmotes
 folkmots
-folkway
 fructuary
 folkright
 fluosilicate
@@ -7683,6 +7682,7 @@ foollike
 forcipation
 foreheater
 forehew
+folkway
 forehock
 forehoof
 facsim
