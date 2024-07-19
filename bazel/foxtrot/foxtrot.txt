@@ -966,7 +966,6 @@ fardel
 falunian
 forgetfulness
 fiver
-fardelet
 fardels
 fourchite
 filmographies
@@ -8310,6 +8309,7 @@ forks
 forksful
 forktail
 fract
+fardelet
 forkwise
 fruiterer
 forlay
