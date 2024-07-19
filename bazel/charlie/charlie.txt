@@ -11602,7 +11602,6 @@ cholangiography
 cholangioitis
 cholangitis
 cholanic
-cholanthrene
 cholate
 choleate
 cholecalciferol
@@ -28760,6 +28759,7 @@ crepidula
 crepiest
 crepine
 crepiness
+cholanthrene
 creping
 crepis
 crepitacula
