@@ -11902,7 +11902,6 @@ chop
 chopa
 chopas
 chopboat
-chopdar
 chopfallen
 chophouse
 chophouses
@@ -29473,6 +29472,7 @@ crystalitic
 crystalize
 crystall
 crystalled
+chopdar
 crystallic
 crystallin
 crystalline
