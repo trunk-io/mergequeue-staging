@@ -13865,7 +13865,6 @@ boxroom
 beaker
 boxthorns
 boxty
-boxtop
 boxtops
 boxtree
 boxwood
@@ -17439,6 +17438,7 @@ bini
 bartramian
 bunking
 breathes
+boxtop
 bunkload
 bunkmate
 bunkmates
