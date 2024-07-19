@@ -2506,7 +2506,6 @@ bareboned
 boldfacedness
 bops
 bareca
-bared
 barefaced
 bombacaceous
 barefacedness
@@ -5745,6 +5744,7 @@ bellicosity
 bellicosities
 bellied
 bellyer
+bared
 bemba
 bellies
 belliferous
