@@ -2625,7 +2625,6 @@ acnemia
 acnes
 acnida
 acnodal
-availment
 acnode
 acnodes
 ataxonomic
@@ -4009,6 +4008,7 @@ adjectional
 acrorhagus
 adjectival
 adjectivally
+availment
 adjective
 adjectively
 adjectivism
