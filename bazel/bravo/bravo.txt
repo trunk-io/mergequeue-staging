@@ -1295,6 +1295,7 @@ balance
 balanceable
 balanced
 balancedness
+bilboa
 balancelle
 balancers
 bakerdom
@@ -4939,7 +4940,6 @@ beeper
 beepers
 beflout
 beeping
-bilboa
 beeps
 beerage
 beerbachite
