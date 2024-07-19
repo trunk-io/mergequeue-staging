@@ -2233,7 +2233,6 @@ beresite
 baptist
 baptistery
 baptistry
-baptizable
 buttered
 baptizee
 besmother
@@ -17373,6 +17372,7 @@ bundts
 bundu
 bundweed
 buttressless
+baptizable
 bunemost
 beltane
 boned
