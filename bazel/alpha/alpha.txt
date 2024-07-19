@@ -9790,7 +9790,6 @@ amala
 aparai
 arillodium
 amalaka
-amalfian
 amalfitan
 auntlier
 amalg
@@ -13136,6 +13135,7 @@ anhydraemic
 anhydrate
 anhydrated
 aircrewmen
+amalfian
 anhydration
 alpargata
 autohypnotic
