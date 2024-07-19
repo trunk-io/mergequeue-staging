@@ -10062,7 +10062,6 @@ estradiol
 expositions
 epichristian
 externation
-electrovalency
 estrado
 estragol
 estray
@@ -11342,6 +11341,7 @@ electrifier
 ensnared
 evangelist
 evangelistaries
+electrovalency
 eunuchoidism
 evangelistarion
 enaction
