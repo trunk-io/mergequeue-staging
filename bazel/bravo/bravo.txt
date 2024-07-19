@@ -5500,6 +5500,7 @@ beknighted
 bps
 beknighting
 beknived
+biham
 bostal
 ballistite
 beknotted
@@ -8385,7 +8386,6 @@ basions
 bihai
 botches
 bihalve
-biham
 balladwise
 byhand
 bihari
