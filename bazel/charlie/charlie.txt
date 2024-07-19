@@ -15929,6 +15929,7 @@ circummigrate
 clearage
 clearance
 clearances
+claxons
 clearcole
 cleared
 clearedness
@@ -21533,7 +21534,6 @@ consolidant
 chwas
 concordantial
 cankerworm
-claxons
 concordat
 concordatory
 concordats

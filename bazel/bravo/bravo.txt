@@ -9681,7 +9681,6 @@ bishoped
 bishopful
 beseemliness
 bishophood
-bishopless
 banyuls
 bishoplet
 bishopling
@@ -12957,6 +12956,7 @@ borderline
 brilliantine
 bryndza
 bulletmaker
+bishopless
 bordermark
 backstitch
 barristerial
