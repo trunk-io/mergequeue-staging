@@ -6099,7 +6099,6 @@ decrement
 derby
 diagenetic
 derbyshire
-diwan
 dere
 derealization
 dereference
@@ -7857,6 +7856,7 @@ dewaxing
 dewberry
 disorderedness
 dewcap
+diwan
 dewclawed
 didgeridoo
 dewcup
