@@ -4367,7 +4367,6 @@ enallage
 eupomatia
 echinochloa
 enamber
-enambush
 enamdar
 enamel
 enamelers
@@ -8355,6 +8354,7 @@ epitheliolysin
 erava
 euro
 epitheliolysis
+enambush
 epithelioma
 epitheliomas
 epitheliomata
