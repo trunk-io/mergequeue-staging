@@ -7121,7 +7121,6 @@ desulphuration
 desulphuret
 desulphurising
 desulphurization
-drawboring
 deerkill
 desulphurize
 desulphurized
@@ -12195,6 +12194,7 @@ disfrancnise
 disfrequent
 dipentene
 disfriar
+drawboring
 disfrock
 disfrocked
 disfrocking
