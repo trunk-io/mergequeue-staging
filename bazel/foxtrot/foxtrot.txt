@@ -2069,7 +2069,6 @@ fellatrices
 felled
 flrie
 feller
-fellers
 fellfare
 felly
 fellifluous
@@ -7849,6 +7848,7 @@ fractals
 franchiser
 foreprise
 foreprize
+fellers
 flyby
 fovent
 forepromise
