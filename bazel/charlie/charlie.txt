@@ -23894,7 +23894,6 @@ chondroclasis
 contravindication
 contrawise
 contrecoup
-contredanse
 contredanses
 contrefort
 countershafting
@@ -28515,6 +28514,7 @@ creatureling
 creatures
 creatureship
 creaturize
+contredanse
 creaze
 crebricostate
 crebrisulcate
