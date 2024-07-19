@@ -7648,7 +7648,6 @@ blackball
 bhagavat
 bhaiachara
 bhaiyachara
-bhakti
 bhaktimarga
 biophysicists
 bhalu
@@ -9503,6 +9502,7 @@ birling
 besmoke
 becuna
 birlings
+bhakti
 birlinn
 birls
 birmingham
