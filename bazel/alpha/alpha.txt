@@ -4055,6 +4055,7 @@ adjudicate
 adjudicates
 antisplenetic
 adjudication
+archturncoat
 adjudications
 agrimony
 acta
@@ -19180,7 +19181,6 @@ archtyrant
 archtraitor
 archtreasurer
 archtreasurership
-archturncoat
 archurger
 archvagabond
 atomics
