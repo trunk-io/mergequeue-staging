@@ -16,7 +16,6 @@ aani
 aardvark
 aardvarks
 aardwolf
-aardwolves
 agrising
 aargh
 appearer
@@ -9671,6 +9670,7 @@ arcadia
 aluminosis
 aladinist
 aluminosity
+aardwolves
 aluminothermics
 antaios
 aberdeen
