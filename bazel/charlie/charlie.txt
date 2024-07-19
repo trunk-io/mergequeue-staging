@@ -2732,7 +2732,6 @@ cansos
 catalufas
 cynomoriaceous
 canst
-canstick
 chargable
 cant
 cantabank
@@ -4650,6 +4649,7 @@ carpogenous
 carpognia
 completes
 carpogone
+canstick
 choanoflagellata
 carpogonial
 cograil
