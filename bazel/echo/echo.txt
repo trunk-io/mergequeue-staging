@@ -712,7 +712,6 @@ evanescent
 epipodia
 ecodeme
 effusive
-ecol
 ecole
 ecoles
 eremacausis
@@ -3986,6 +3985,7 @@ emony
 encarnalize
 equiomnipotent
 estampie
+ecol
 enraging
 enweave
 emory
