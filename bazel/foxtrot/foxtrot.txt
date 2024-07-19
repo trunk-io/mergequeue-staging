@@ -7792,7 +7792,6 @@ forhale
 fringiness
 falsities
 forenoons
-forenoted
 foreface
 forensic
 forensical
@@ -7956,6 +7955,7 @@ foreshows
 foreside
 foresight
 feodum
+forenoted
 frithbot
 foresighted
 forewarned
