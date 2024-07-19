@@ -6339,7 +6339,6 @@ benzenyl
 bhagavata
 benzenoid
 billsticking
-benzhydroxamic
 benzidine
 benzidino
 badgerer
@@ -16981,6 +16980,7 @@ bulginess
 bulging
 bulgur
 bisulfate
+benzhydroxamic
 bulgurs
 bulies
 bulimy
