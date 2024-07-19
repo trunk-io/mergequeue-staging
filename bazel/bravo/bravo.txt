@@ -624,7 +624,6 @@ backveld
 backvelder
 babbit
 backwall
-biriani
 backward
 backwardation
 backwardly
@@ -2924,6 +2923,7 @@ barracudina
 barrad
 barragan
 binomial
+biriani
 barrage
 barraged
 barrages
