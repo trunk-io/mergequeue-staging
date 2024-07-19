@@ -1195,7 +1195,6 @@ educationese
 educationist
 efflorescing
 educator
-educatory
 ecorticate
 educatress
 endbrain
@@ -2883,6 +2882,7 @@ elianic
 eliasite
 epimorphosis
 emprises
+educatory
 elychnious
 elicit
 elegiacal
