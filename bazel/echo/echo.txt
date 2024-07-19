@@ -1645,6 +1645,7 @@ empoisons
 egomania
 enrage
 engrailing
+estimating
 egomaniac
 egomaniacal
 enrichment
@@ -10012,7 +10013,6 @@ echar
 estimably
 estimated
 echidnidae
-estimating
 estimation
 estimations
 earpieces

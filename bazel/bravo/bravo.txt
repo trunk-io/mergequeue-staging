@@ -2583,7 +2583,6 @@ barghest
 brachydomal
 barghests
 blowby
-bargir
 bugara
 boomer
 bassetite
@@ -10409,6 +10408,7 @@ bibliotherapy
 blastide
 blastie
 blastier
+bargir
 blasties
 blasting
 blastings
