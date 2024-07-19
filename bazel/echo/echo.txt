@@ -7978,7 +7978,6 @@ epimerize
 endoenzyme
 epimerized
 epimerizing
-epimers
 epimyocardial
 erstwhiles
 equaling
@@ -11172,6 +11171,7 @@ embar
 equiradical
 engorgement
 embark
+epimers
 europasian
 europe
 european
