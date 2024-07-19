@@ -8709,7 +8709,6 @@ bimetalism
 bostonite
 bimetallic
 briguer
-bind
 bimetallist
 bimetallistic
 bimetals
@@ -14799,6 +14798,7 @@ bicorporate
 breakage
 breakages
 branchage
+bind
 brobdingnag
 breakaway
 brennschluss
