@@ -8826,7 +8826,6 @@ eradiation
 essential
 eradicable
 eradicably
-eradicate
 ebonised
 eradicating
 eradications
@@ -10234,6 +10233,7 @@ ethene
 eucti
 enigmatographer
 elmer
+eradicate
 elks
 ethenes
 ergostat
