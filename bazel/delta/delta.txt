@@ -5290,6 +5290,7 @@ divisors
 dentals
 dentaphone
 dentary
+displumes
 dentaria
 diectasis
 dentaries
@@ -13172,7 +13173,6 @@ displode
 disploded
 displodes
 displosion
-displumes
 displuviate
 dansker
 dyspnea
