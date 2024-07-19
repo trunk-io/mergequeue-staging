@@ -833,6 +833,7 @@ fenlander
 findability
 fans
 fant
+frictionlessness
 fantaddish
 funori
 fecit
@@ -9960,7 +9961,6 @@ frictional
 flowable
 frictionized
 flageolets
-frictionlessness
 ferreling
 frictionproof
 frictions
