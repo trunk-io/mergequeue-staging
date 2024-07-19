@@ -12131,7 +12131,6 @@ anatifae
 accidents
 anatifer
 anatiferous
-aeroacoustic
 anatinacea
 anatinae
 anatine
@@ -12742,6 +12741,7 @@ angaries
 angas
 angdistis
 angekkok
+aeroacoustic
 angekok
 angekut
 angel
