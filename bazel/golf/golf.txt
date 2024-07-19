@@ -1734,6 +1734,7 @@ gaolbird
 gastroduodenostomy
 gingelly
 gastroduodenostomies
+granophyric
 gastroduodenotomy
 gastroelytrotomy
 gastroenteric
@@ -8091,7 +8092,6 @@ glauke
 govt
 granomerite
 geometries
-granophyric
 granose
 grantable
 granted
