@@ -2154,6 +2154,7 @@ elastomers
 exundation
 elastometry
 episememe
+endemicity
 elastose
 engarde
 elatcha
@@ -12843,7 +12844,6 @@ enhydris
 exostra
 exostracism
 endocarpal
-endemicity
 exostracize
 exostrae
 exoterica
