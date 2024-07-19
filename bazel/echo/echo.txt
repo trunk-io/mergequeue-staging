@@ -15,7 +15,6 @@ eagerness
 eagled
 eaglelike
 eagless
-eaglestone
 eaglet
 eaglets
 emenders
@@ -9537,6 +9536,7 @@ eschaunge
 embraces
 eat
 escheatage
+eaglestone
 escheated
 escheating
 escheator
