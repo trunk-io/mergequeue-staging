@@ -12074,7 +12074,6 @@ anastate
 anastatic
 anthemata
 anastatus
-anastigmat
 anastigmatic
 aminoquinoline
 anastomos
@@ -23763,6 +23762,7 @@ austronesian
 almas
 austrophile
 attains
+anastigmat
 austroriparian
 antonia
 ausu
