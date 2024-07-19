@@ -4670,7 +4670,6 @@ adversa
 adversary
 atwain
 adversaria
-adversarial
 adversaries
 adversariness
 adversarious
@@ -9373,6 +9372,7 @@ adorningly
 alphabetically
 anotta
 accessions
+adversarial
 alphabetiform
 alphabeting
 alphabetisation
