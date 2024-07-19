@@ -1957,6 +1957,7 @@ feign
 feigned
 feignedly
 fumose
+filamentous
 feigner
 feigners
 font
@@ -3462,7 +3463,6 @@ filamentoid
 filamentose
 fulcrumage
 folletage
-filamentous
 frogmen
 filander
 filao
