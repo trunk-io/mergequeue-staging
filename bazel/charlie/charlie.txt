@@ -2618,6 +2618,7 @@ cannister
 cannisters
 cannoli
 cannon
+chemoceptor
 concubinarian
 cannonade
 columbiad
@@ -9939,7 +9940,6 @@ chemmy
 chemoautotrophy
 chemoautotrophic
 chemoautotrophically
-chemoceptor
 chemokinesis
 chemokinetic
 chemolysis
