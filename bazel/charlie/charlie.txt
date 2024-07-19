@@ -934,7 +934,6 @@ calamitean
 calamites
 calamity
 castlewards
-calamities
 calamitoid
 calamitous
 calamitously
@@ -22585,6 +22584,7 @@ culottism
 conjurer
 conjurers
 conjurership
+calamities
 conjures
 conjury
 conjuring
