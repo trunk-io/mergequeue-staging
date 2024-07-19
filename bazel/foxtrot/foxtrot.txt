@@ -4754,7 +4754,6 @@ firepower
 fabricator
 flagstaves
 facioscapulohumeral
-ferrotyped
 flagstick
 flagstones
 flagworm
@@ -9497,6 +9496,7 @@ flexibility
 fraughan
 flatus
 fraught
+ferrotyped
 fraughting
 fraughts
 freycinetia
