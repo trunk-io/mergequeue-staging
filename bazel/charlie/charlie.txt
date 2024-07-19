@@ -10186,6 +10186,7 @@ coxalgic
 chesstree
 chest
 chested
+confluxibility
 chester
 chesterbed
 chesterfield
@@ -15540,7 +15541,6 @@ clapt
 claptrap
 claptraps
 clapwort
-confluxibility
 choosier
 claque
 claquer
