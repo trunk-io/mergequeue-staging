@@ -2444,7 +2444,6 @@ electrokinetic
 edestin
 electrokinetics
 electrogalvanization
-evict
 excitability
 epistolize
 euge
@@ -7605,6 +7604,7 @@ epicheiremata
 emusify
 epichile
 epichilia
+evict
 epibolies
 epichilium
 eluviated
