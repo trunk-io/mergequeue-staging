@@ -1060,6 +1060,7 @@ farmyard
 fluffed
 flytail
 firebrand
+fidejussionary
 farmyards
 funs
 farmland
@@ -3204,7 +3205,6 @@ fideisms
 fermentability
 fideist
 fideists
-fidejussionary
 furlanas
 freshment
 florian
