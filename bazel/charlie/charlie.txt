@@ -9018,7 +9018,6 @@ chareter
 charette
 chemisms
 chargeability
-chargeable
 chargeableness
 calced
 chargeably
@@ -14652,6 +14651,7 @@ cissy
 cissies
 cissoidal
 chateaubriand
+chargeable
 cissoids
 cissus
 cist
