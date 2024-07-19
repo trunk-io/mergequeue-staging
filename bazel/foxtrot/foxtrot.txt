@@ -276,7 +276,6 @@ faenas
 faenus
 foreboder
 faerie
-faeries
 faeryland
 freedstool
 faeroese
@@ -3157,6 +3156,7 @@ fyke
 fiddlebow
 fiddlebrained
 fack
+faeries
 fiddled
 fiddlefaced
 fewest
