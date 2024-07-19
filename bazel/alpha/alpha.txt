@@ -2731,7 +2731,6 @@ acousmata
 acousmatic
 artar
 acoustic
-acoustically
 antaean
 acoustician
 acousticolateral
@@ -5427,6 +5426,7 @@ affirmativeness
 adpromission
 affirmatory
 avine
+acoustically
 antiegotistically
 affirmer
 affirmers
