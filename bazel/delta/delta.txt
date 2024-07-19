@@ -5756,6 +5756,7 @@ deplume
 deplumed
 depluming
 deplump
+descriptive
 depoetize
 depoh
 depolarise
@@ -6550,7 +6551,6 @@ dogsled
 driveway
 descriptionless
 descriptions
-descriptive
 descriptively
 descriptiveness
 decks
