@@ -4642,7 +4642,6 @@ bedford
 bag
 bedfordshire
 bedframe
-bedframes
 bints
 bedgery
 bedgoer
@@ -5639,6 +5638,7 @@ bely
 belial
 belialic
 belialist
+bedframes
 boutefeu
 belibel
 belibeled
