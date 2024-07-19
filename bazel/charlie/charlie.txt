@@ -12593,6 +12593,7 @@ colorblind
 chromolithography
 coonjine
 chamisos
+codirected
 chromolithographic
 chromomere
 chromomeric
@@ -17894,7 +17895,6 @@ codille
 coding
 codiniac
 codirect
-codirected
 codirectional
 codirector
 commonish

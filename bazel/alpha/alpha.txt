@@ -11939,7 +11939,6 @@ anabiotic
 anaphylactin
 anaphylactogen
 anaphylactogenic
-anaphylactoid
 anaphylatoxin
 anaphylaxis
 anaphyte
@@ -22955,6 +22954,7 @@ arterialisation
 assembling
 attackable
 attacked
+anaphylactoid
 attacker
 argonauta
 attackers
