@@ -85,7 +85,6 @@ beaconless
 boardinghouses
 babesias
 bovate
-babesiosis
 babhan
 babi
 barkened
@@ -2146,6 +2145,7 @@ bankweed
 banlieue
 bannack
 bannat
+babesiosis
 banned
 banner
 bottlehead
