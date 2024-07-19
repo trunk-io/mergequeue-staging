@@ -1657,7 +1657,6 @@ egosyntonic
 encoronet
 entier
 es
-egotheism
 egotisms
 egotist
 egotistic
@@ -8700,6 +8699,7 @@ equinoctial
 enhancement
 enchodus
 educatability
+egotheism
 existents
 ethrogs
 equip
