@@ -5694,7 +5694,6 @@ fliting
 fishnet
 flytings
 futharks
-fleuronee
 flytrap
 flytraps
 fibrocyst
@@ -11628,6 +11627,7 @@ fratricide
 fustee
 fusteric
 facia
+fleuronee
 fustet
 fortunite
 fustian
