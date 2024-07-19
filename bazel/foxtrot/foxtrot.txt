@@ -6906,7 +6906,6 @@ folkmoots
 flagrate
 folkmote
 folkmoter
-folkmotes
 folkmots
 folkway
 fructuary
@@ -11666,6 +11665,7 @@ fustoc
 fusula
 ferruling
 fusulas
+folkmotes
 fanout
 forerevelation
 founte
