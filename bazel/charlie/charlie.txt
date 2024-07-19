@@ -9419,7 +9419,6 @@ chaunter
 chaunters
 chauri
 cpi
-chaus
 chausse
 chaussee
 chausseemeile
@@ -26487,6 +26486,7 @@ cotsetland
 cotsetle
 cott
 cotta
+chaus
 chronogrammatic
 cottage
 cottaged
