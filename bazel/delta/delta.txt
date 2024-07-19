@@ -2858,7 +2858,6 @@ ducture
 decurvature
 decurve
 dino
-decurves
 decurving
 destinist
 decus
@@ -16998,6 +16997,7 @@ dreynt
 duppy
 dreks
 drench
+decurves
 dinnerly
 drenched
 drencher
