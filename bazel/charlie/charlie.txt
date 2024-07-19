@@ -27166,6 +27166,7 @@ countersnarl
 counterspy
 counterspies
 counterspying
+crowning
 counterstain
 counterstamp
 copable
@@ -30069,7 +30070,6 @@ crowned
 crowner
 crowners
 crownet
-crowning
 crownland
 crownlet
 cybernate
