@@ -7617,6 +7617,7 @@ bande
 bezanty
 blawing
 bummalo
+bower
 buttress
 bezel
 baritone
@@ -13717,7 +13718,6 @@ bowels
 berms
 beothuk
 bowenite
-bower
 bowerbird
 bowery
 bastions
