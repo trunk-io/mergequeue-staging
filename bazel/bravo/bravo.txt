@@ -675,7 +675,6 @@ bacteraemia
 bacteremia
 bacteria
 bobbed
-bacteriaceae
 bacteriaceous
 biblist
 bibracteate
@@ -10670,6 +10669,7 @@ blend
 blende
 blended
 blender
+bacteriaceae
 bottleneck
 blenders
 blendes
