@@ -1673,7 +1673,6 @@ feague
 foreflank
 fogmen
 feal
-fealty
 fearable
 fearbabe
 floccosely
@@ -4226,6 +4225,7 @@ firmarii
 firmed
 firmers
 furosemide
+fealty
 firmest
 firmhearted
 firming
