@@ -10716,6 +10716,7 @@ aminta
 amintor
 amyosthenia
 amyosthenic
+articulator
 alternize
 amyotonia
 amyotrophy
@@ -20736,7 +20737,6 @@ articulationes
 articulationist
 articulations
 anteroventrally
-articulator
 articulatorily
 articulators
 articulite
