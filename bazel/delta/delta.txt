@@ -5620,7 +5620,6 @@ dosimeters
 dependently
 dependents
 diatrymiformes
-depender
 dysnomy
 doketic
 depending
@@ -6325,6 +6324,7 @@ direr
 dermatrophia
 dermenchysis
 dermestes
+depender
 depreciating
 depolymerizing
 dermestid
