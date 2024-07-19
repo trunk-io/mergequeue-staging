@@ -2349,7 +2349,6 @@ bullyrags
 barbe
 barbeau
 bogbean
-barbecue
 barbecued
 bullberry
 bellyfull
@@ -11086,6 +11085,7 @@ brawly
 busybody
 bertholletia
 bloodmobiles
+barbecue
 barragon
 bloodmonger
 bloodred
