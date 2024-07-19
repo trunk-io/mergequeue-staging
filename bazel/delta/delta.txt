@@ -8293,7 +8293,6 @@ dialect
 dhooly
 dialectal
 dutchify
-dialectally
 deuteroplasm
 dialectic
 drop
@@ -9902,6 +9901,7 @@ dimeride
 dimerism
 diplasic
 dimerisms
+dialectally
 dimerization
 dimerize
 dimerized
