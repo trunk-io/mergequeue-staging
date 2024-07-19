@@ -2886,7 +2886,6 @@ giantlikeness
 geysers
 goodhearted
 gentian
-gentiana
 globousness
 gryphite
 gentianella
@@ -8494,6 +8493,7 @@ gravida
 gastropancreatic
 gadgety
 grendel
+gentiana
 gravidation
 ginkgoales
 gerate
