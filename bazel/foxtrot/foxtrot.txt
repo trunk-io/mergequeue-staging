@@ -212,7 +212,6 @@ frazzles
 faculous
 femerell
 fattened
-facultate
 facultatively
 faculty
 faculties
@@ -6301,6 +6300,7 @@ frankincensed
 feriation
 fluing
 fluyt
+facultate
 foulage
 flamant
 forerecited
