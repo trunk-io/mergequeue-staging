@@ -2466,7 +2466,6 @@ bardane
 bardcraft
 baruch
 beribboned
-barded
 bardee
 bardes
 bardesanite
@@ -11564,6 +11563,7 @@ boardroom
 balsamation
 boards
 blueprinting
+barded
 boarfish
 boarishness
 boars
