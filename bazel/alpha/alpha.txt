@@ -1529,7 +1529,6 @@ acceptilation
 accepting
 acceptingness
 allocated
-acceptor
 acceptors
 acceptress
 accepts
@@ -5427,6 +5426,7 @@ avine
 antiegotistically
 affirmer
 affirmers
+acceptor
 affirming
 affirmingly
 affirms
