@@ -9586,7 +9586,6 @@ checkers
 checkerwork
 checkhook
 charge
-checky
 checklaton
 checkless
 checklist
@@ -17599,6 +17598,7 @@ coccidioides
 coccidiomorpha
 coccidiosis
 cariogenic
+checky
 coccidium
 ctenocyst
 coccidology
