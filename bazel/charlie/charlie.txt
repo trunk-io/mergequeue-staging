@@ -11159,7 +11159,6 @@ cowpath
 chitlins
 chiton
 chitons
-chitosamine
 chitosan
 chitose
 chitra
@@ -16063,6 +16062,7 @@ clericate
 clericature
 colleen
 clericism
+chitosamine
 clericity
 clericum
 clerid
