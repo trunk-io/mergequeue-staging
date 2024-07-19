@@ -705,7 +705,6 @@ ecclesiastry
 eco
 exercisable
 ecocide
-extraparietal
 ecoclimate
 exospheric
 evanescent
@@ -4486,6 +4485,7 @@ encapsule
 encapsuled
 eleutheromorph
 encapsules
+extraparietal
 externalization
 epicurism
 encardion
