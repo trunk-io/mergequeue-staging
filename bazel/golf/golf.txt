@@ -5619,6 +5619,7 @@ gospelize
 glisk
 glisky
 glissader
+gluttonish
 gauche
 glissando
 gybe
@@ -6227,7 +6228,6 @@ gluttoness
 girlery
 gluttonies
 gluttonise
-gluttonish
 gluttonize
 gluttonized
 gluttonizing

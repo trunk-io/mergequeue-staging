@@ -5379,7 +5379,6 @@ eyestones
 endotheliolytic
 endothelioma
 endotheliomas
-epitheton
 endotheliomyoma
 endotherm
 eucalyptuses
@@ -10710,6 +10709,7 @@ eucosmidae
 eucrasy
 eucrasia
 efficaciousness
+epitheton
 eucrasite
 epibatholithic
 eucre
