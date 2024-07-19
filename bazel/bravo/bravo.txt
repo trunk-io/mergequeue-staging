@@ -8855,6 +8855,7 @@ breviary
 binotic
 binormal
 bint
+boma
 bintangor
 bromoil
 brack
@@ -18145,7 +18146,6 @@ butanes
 bindable
 butanol
 butanolide
-boma
 briscola
 butanols
 butanone
