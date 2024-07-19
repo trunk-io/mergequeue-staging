@@ -12134,7 +12134,6 @@ chortosterol
 ceca
 chorused
 choruser
-choruses
 chorusing
 cycadaceous
 cneoraceous
@@ -29513,6 +29512,7 @@ crystallograph
 crystallographer
 coordinateness
 crystallographers
+choruses
 crystallographical
 crystallographically
 crystalloid
