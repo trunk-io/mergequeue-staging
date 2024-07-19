@@ -15273,7 +15273,6 @@ cladogenous
 cladonia
 cladoniaceous
 cladophyllum
-cladophora
 contrariwise
 cladophoraceous
 cladophorales
@@ -22020,6 +22019,7 @@ configurated
 configurating
 crypts
 configuration
+cladophora
 configurationally
 configurationism
 configurationist
