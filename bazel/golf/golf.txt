@@ -5574,7 +5574,6 @@ glink
 glint
 guatuso
 goustie
-glinting
 gliomatous
 gliosa
 glyoxal
@@ -9717,6 +9716,7 @@ grunerite
 gumptions
 giust
 glasshouses
+glinting
 gaggling
 grab
 geodes
