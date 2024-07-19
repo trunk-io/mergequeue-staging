@@ -18835,7 +18835,6 @@ archencephalic
 agaz
 aiger
 anthroponomy
-archenemy
 archenemies
 archenia
 archenteron
@@ -19596,6 +19595,7 @@ argonne
 argonon
 argons
 argosy
+archenemy
 argosies
 argosine
 associations
