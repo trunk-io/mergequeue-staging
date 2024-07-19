@@ -16167,7 +16167,6 @@ cliented
 clientelage
 clientele
 clientless
-clientry
 crosshairs
 clients
 clientship
@@ -19556,6 +19555,7 @@ colpocystocele
 colpohyperplasia
 colpohysterotomy
 colpoperineoplasty
+clientry
 colpoperineorrhaphy
 colpoplasty
 colpoptosis
