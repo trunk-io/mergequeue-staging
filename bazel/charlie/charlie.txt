@@ -11524,7 +11524,6 @@ communality
 calcomp
 choctaw
 choctaws
-choenix
 creeses
 choes
 choffer
@@ -27591,6 +27590,7 @@ crematoriria
 covite
 cooter
 covotary
+choenix
 cow
 cowage
 coward
