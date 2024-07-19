@@ -2000,7 +2000,6 @@ bandsman
 bandsmen
 bandstand
 bandstands
-bartering
 braunschweiger
 beg
 bandster
@@ -12356,6 +12355,7 @@ bon
 bonace
 buggery
 bonaci
+bartering
 bubos
 bonacis
 bonagh
