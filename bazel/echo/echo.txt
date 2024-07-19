@@ -2101,7 +2101,6 @@ eperlan
 elaphe
 estating
 elaphebolion
-elaphodus
 elaphomycetaceae
 elaphrium
 elaphure
@@ -2969,6 +2968,7 @@ epopee
 elitists
 elytral
 elatrometer
+elaphodus
 elytriferous
 elytriform
 elytrin
