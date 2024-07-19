@@ -617,7 +617,6 @@ echiurus
 enalyron
 engineman
 echocardiogram
-echoey
 echoencephalography
 echoer
 encrustment
@@ -8343,6 +8342,7 @@ epithelia
 endexines
 erer
 endofaradism
+echoey
 exosporous
 epithelialize
 endometrial
