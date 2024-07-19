@@ -5151,7 +5151,6 @@ casking
 casklike
 casks
 caspar
-calantas
 caspian
 cromlech
 casque
@@ -29792,6 +29791,7 @@ crooksided
 crooksterned
 considerator
 crooktoothed
+calantas
 crool
 croomia
 croon
