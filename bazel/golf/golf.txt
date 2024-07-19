@@ -1735,7 +1735,6 @@ gastroduodenostomies
 granophyric
 gastroduodenotomy
 gastroelytrotomy
-gastroenteric
 gastroenteritic
 graceless
 geomedicine
@@ -8939,6 +8938,7 @@ grieveship
 ghi
 grainless
 growthy
+gastroenteric
 gnosis
 glunched
 grievous
