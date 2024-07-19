@@ -2634,6 +2634,7 @@ epiblasts
 endplay
 electrotellurograph
 electrotest
+ethmolith
 electrothanasia
 expressionful
 electrotherapeutist
@@ -10406,7 +10407,6 @@ ethmoidal
 enruin
 exareolate
 ethmoids
-ethmolith
 ethmomaxillary
 ethmonasal
 endopelvic
