@@ -8990,6 +8990,7 @@ alloplast
 aluminise
 alloplasty
 alloplastic
+articles
 afflation
 allopolyploid
 allopolyploidy
@@ -20703,7 +20704,6 @@ article
 aplodontiidae
 articled
 acidimetrical
-articles
 adenectopic
 articling
 articulability
