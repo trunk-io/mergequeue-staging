@@ -1372,7 +1372,6 @@ craton
 calyptrate
 calyptriform
 calyptrimorphous
-calyptro
 calyptrogyne
 calisayas
 calista
@@ -12324,6 +12323,7 @@ chrysomonadina
 corpuscles
 chrisoms
 chrysopa
+calyptro
 chrysopal
 chrysopee
 chrysophane
