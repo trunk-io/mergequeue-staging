@@ -877,7 +877,6 @@ ectoentad
 entrer
 ectoenzym
 ensky
-ectogenesis
 ectogenetic
 ectogenic
 erases
@@ -8654,6 +8653,7 @@ equilater
 egocerus
 equilateral
 elsewheres
+ectogenesis
 equilibrant
 equilibrate
 epitrochlear
