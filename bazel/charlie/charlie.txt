@@ -6837,6 +6837,7 @@ celoms
 celoscope
 celosia
 celosias
+cobaltiferous
 celotomy
 celotomies
 celsia
@@ -17453,7 +17454,6 @@ continuist
 cobaltic
 cobalticyanic
 creach
-cobaltiferous
 cobaltinitrite
 cobaltite
 cobaltocyanic
