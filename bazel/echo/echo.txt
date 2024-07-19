@@ -1947,6 +1947,7 @@ ethmovomer
 entitle
 eyras
 eire
+enterolysis
 eyre
 ermanrich
 eirenarch
@@ -6620,7 +6621,6 @@ enterokinase
 erk
 enterokinesia
 esurient
-enterolysis
 eddies
 enterolith
 enterolobium

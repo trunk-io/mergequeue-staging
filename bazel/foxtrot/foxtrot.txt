@@ -5876,7 +5876,6 @@ foveated
 fala
 fluminous
 floored
-floorer
 falderals
 floorhead
 flooring
@@ -6375,6 +6374,7 @@ farl
 fluted
 ferous
 fluohydric
+floorer
 fashional
 fluophosphate
 frocked
