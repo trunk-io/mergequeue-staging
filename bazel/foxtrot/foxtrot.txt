@@ -1397,7 +1397,6 @@ fatiguable
 fatigue
 fingerhook
 fario
-fatigued
 formicina
 fatigueless
 firetail
@@ -10717,6 +10716,7 @@ funnelling
 feretra
 frust
 frusta
+fatigued
 frustrable
 fease
 frustraneous
