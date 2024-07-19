@@ -6875,7 +6875,6 @@ celts
 celtuce
 celure
 cembali
-cembalon
 cembalos
 cement
 centrifugalisation
@@ -7779,6 +7778,7 @@ cert
 certain
 certainest
 certainly
+cembalon
 certainness
 certainty
 certainties
