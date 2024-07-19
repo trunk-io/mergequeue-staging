@@ -4700,7 +4700,6 @@ carpus
 carquaise
 corradial
 carr
-carrack
 carracks
 carrageen
 carrageenin
@@ -28387,6 +28386,7 @@ crawlway
 crawm
 craws
 crawtae
+carrack
 coloured
 crawthumper
 craze
