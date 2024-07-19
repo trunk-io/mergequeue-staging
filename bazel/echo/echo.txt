@@ -2619,7 +2619,6 @@ electrostriction
 electrosurgery
 electrosurgeries
 electrosurgical
-electrosurgically
 electrotautomerism
 electrotechnic
 electrophoresed
@@ -8957,6 +8956,7 @@ euhemerizing
 equiprobability
 erysiphaceae
 ergatomorphic
+electrosurgically
 ergo
 ergodicity
 enfamish
