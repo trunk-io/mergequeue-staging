@@ -12426,6 +12426,7 @@ bondmaid
 bondman
 bondmanship
 bondmen
+blithe
 bondminder
 bondoc
 bondon
@@ -16635,7 +16636,6 @@ buckteeth
 blears
 buckthorn
 bucktooth
-blithe
 bacterioprecipitin
 bucktoothed
 bucku
