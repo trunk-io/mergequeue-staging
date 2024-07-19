@@ -423,7 +423,6 @@ flagships
 faith
 funnel
 frontispiecing
-faring
 frist
 faithbreach
 faithbreaker
@@ -6082,6 +6081,7 @@ forpined
 folio
 freckledness
 fruitwise
+faring
 foaling
 flotson
 fidele
