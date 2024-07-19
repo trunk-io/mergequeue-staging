@@ -4556,6 +4556,7 @@ fivescore
 fivestones
 fivish
 fix
+fixt
 fixable
 fixate
 fixated
@@ -4576,7 +4577,6 @@ fixion
 fixities
 fixive
 forpet
-fixt
 fibrinolysin
 fixture
 frore
