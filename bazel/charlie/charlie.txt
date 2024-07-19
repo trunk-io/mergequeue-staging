@@ -1174,7 +1174,6 @@ calefactory
 calefy
 calelectric
 calelectrical
-calembour
 calemes
 calendal
 calendared
@@ -17085,6 +17084,7 @@ cnidogenous
 cnidophorous
 cupmate
 cnidopod
+calembour
 confoundable
 cnidoscolus
 co
