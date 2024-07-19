@@ -2488,7 +2488,6 @@ forewing
 footbath
 forkedly
 ferrimagnetism
-footcloths
 ferryman
 ferring
 fault
@@ -11305,6 +11304,7 @@ furan
 forecasted
 furane
 fulsamic
+footcloths
 fanit
 furanes
 furanoid
