@@ -12930,6 +12930,7 @@ churchgo
 churchgoer
 churchgoers
 churchgoing
+craniotome
 churchgrith
 churchy
 churchianity
@@ -28182,7 +28183,6 @@ craniostenosis
 craniota
 craniotabes
 craniognomy
-craniotome
 craniotomy
 craniotomies
 craniotopography
