@@ -3350,7 +3350,6 @@ capsuled
 capsuler
 capsules
 capsuliferous
-capsuliform
 capsuling
 convicting
 capsulitis
@@ -20639,6 +20638,7 @@ competible
 competing
 competingly
 competition
+capsuliform
 congreve
 competitions
 competitively
