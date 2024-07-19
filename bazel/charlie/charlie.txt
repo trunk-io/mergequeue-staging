@@ -4993,7 +4993,6 @@ casbah
 casbahs
 carpetbagism
 cascabel
-cascable
 cascables
 cascadable
 cascade
@@ -27582,6 +27581,7 @@ covillea
 covin
 covine
 coving
+cascable
 covinous
 covinously
 cattleman
