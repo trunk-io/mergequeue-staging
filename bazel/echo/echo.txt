@@ -8006,7 +8006,6 @@ epineurium
 ezba
 elleck
 epingle
-epinglette
 epinicia
 epinicial
 encratic
@@ -8582,6 +8581,7 @@ equative
 equator
 etherial
 equatoreal
+epinglette
 equatorial
 ecalcavate
 equatorward
