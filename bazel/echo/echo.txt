@@ -4576,7 +4576,6 @@ encephalomyelitis
 escapements
 entrepreneurial
 encephalomyocarditis
-encephalopathia
 encephalopathic
 endive
 ejectors
@@ -8050,6 +8049,7 @@ encoder
 epiphenomena
 epiphenomenal
 epiphenomenalism
+encephalopathia
 epiphenomenally
 epiphenomenon
 epiphylaxis
