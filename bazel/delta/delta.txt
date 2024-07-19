@@ -3915,7 +3915,6 @@ distantness
 darr
 delayage
 delayed
-delayer
 dropt
 delayers
 delayful
@@ -7935,6 +7934,7 @@ dextrin
 dextrinate
 dimethylmethane
 dextrine
+delayer
 dextrines
 dextrinize
 dextrinous
