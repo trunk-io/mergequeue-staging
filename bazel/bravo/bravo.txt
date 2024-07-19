@@ -4607,6 +4607,7 @@ bumblebees
 bloodwood
 bedehouse
 bedehouses
+bootboy
 bedel
 bedell
 bedells
@@ -15121,7 +15122,6 @@ bribes
 bribetaking
 bryce
 brick
-bootboy
 budgerigars
 brickbats
 blotted

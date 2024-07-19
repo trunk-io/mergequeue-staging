@@ -4245,7 +4245,6 @@ firms
 firn
 ferity
 furrier
-flammability
 firstborn
 firstcomer
 forbearer
@@ -7959,6 +7958,7 @@ feateous
 fishbones
 foresightedness
 foresightful
+flammability
 funder
 foresightless
 feasts
