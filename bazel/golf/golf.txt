@@ -144,7 +144,6 @@ glump
 goatskin
 gibbosity
 gaels
-gaen
 gaertnerian
 glutens
 gobiiformes
@@ -6998,6 +6997,7 @@ goodhumoredness
 geostrophically
 glyptograph
 glutinosity
+gaen
 gomarite
 greyish
 gastrologist
