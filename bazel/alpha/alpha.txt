@@ -10626,7 +10626,6 @@ autobiology
 amyloplastic
 amyloplastid
 amylopsase
-amylopsin
 amylose
 amyloses
 amylosynthesis
@@ -20397,6 +20396,7 @@ arsenyl
 arseniopleite
 arseniosiderite
 autodigestion
+amylopsin
 arsenious
 arsenism
 arsenite
