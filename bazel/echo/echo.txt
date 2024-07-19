@@ -322,7 +322,6 @@ eateries
 espousers
 eaters
 eathly
-eatings
 el
 enthronised
 edhs
@@ -10290,6 +10289,7 @@ electroharmonic
 engrege
 etheriform
 etheriidae
+eatings
 emboweled
 etherion
 etherish
