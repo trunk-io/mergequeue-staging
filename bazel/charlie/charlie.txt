@@ -3873,6 +3873,7 @@ carcinogeneses
 carcinogenesis
 commands
 carcinogenic
+chunky
 carcinogenicity
 carcinogens
 carcinoid
@@ -12898,7 +12899,6 @@ chunk
 chunked
 chunkhead
 chace
-chunky
 chunkier
 chunkiest
 chunkily
