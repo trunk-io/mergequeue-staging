@@ -7724,7 +7724,6 @@ forejudgment
 feminines
 figurism
 foreknowableness
-foreknower
 foreknowing
 foreknowingly
 foreknowledge
@@ -10920,6 +10919,7 @@ fibration
 ferrochromium
 foulmouthedly
 fullmouthed
+foreknower
 fullnesses
 flintify
 fulgoroidea
