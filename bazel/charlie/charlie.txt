@@ -10176,7 +10176,6 @@ chesses
 chesset
 chessylite
 chessist
-chessman
 chessmen
 chessner
 chessom
@@ -28438,6 +28437,7 @@ creamier
 creamiest
 creamily
 creaming
+chessman
 creamlaid
 creamless
 creamlike
