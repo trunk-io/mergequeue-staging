@@ -2591,7 +2591,6 @@ decolour
 decolouration
 decolourisation
 deemie
-decolourised
 dispending
 decolouriser
 disciplinative
@@ -11190,6 +11189,7 @@ disbarment
 doorframe
 disbarments
 disbarred
+decolourised
 disbarring
 dipolarize
 disbars
