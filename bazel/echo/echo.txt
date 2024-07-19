@@ -1207,7 +1207,6 @@ equiperiodic
 educible
 educive
 educt
-elytrostenosis
 eductions
 eductor
 estuosity
@@ -6969,6 +6968,7 @@ emprosthotonus
 enigmatical
 entrains
 edictum
+elytrostenosis
 entrammel
 emigration
 entranced
