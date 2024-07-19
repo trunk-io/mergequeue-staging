@@ -7566,6 +7566,7 @@ cackling
 chloromata
 cercolabes
 cercolabidae
+comptrol
 cercomonad
 cercomonadidae
 cercomonas
@@ -21040,7 +21041,6 @@ comptness
 comptoir
 comptometer
 comptonite
-comptrol
 chaptalize
 comptroller
 comptrollers
