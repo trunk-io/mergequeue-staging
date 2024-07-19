@@ -4797,7 +4797,6 @@ bedsprings
 bedstaff
 bedstaves
 bedstead
-balopticon
 brecciating
 bedsteads
 bedstock
@@ -11270,6 +11269,7 @@ bedark
 blowziness
 blowzing
 bls
+balopticon
 blub
 blubber
 blubberer
