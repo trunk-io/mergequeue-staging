@@ -888,7 +888,6 @@ fanwork
 fanwort
 funtumia
 fanzine
-fanzines
 faon
 fapesmo
 fluorenes
@@ -7447,6 +7446,7 @@ foreadvise
 foreallege
 foreannounce
 finesser
+fanzines
 fluctuable
 foreannouncement
 flutidae
