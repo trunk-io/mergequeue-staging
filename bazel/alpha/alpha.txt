@@ -6315,6 +6315,7 @@ aglycone
 abusable
 aglycones
 aglycons
+associative
 anankastic
 aglycosuric
 aglypha
@@ -21861,7 +21862,6 @@ associationism
 associationist
 associationistic
 anticlassical
-associative
 associatively
 associativity
 associator
