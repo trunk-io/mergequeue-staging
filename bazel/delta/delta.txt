@@ -8570,7 +8570,6 @@ diaphorite
 diaphototropism
 diaphragm
 diaphragmal
-diaphragmatic
 dolomitised
 diaphragming
 diaphtherin
@@ -13215,6 +13214,7 @@ disposition
 degasification
 drawplate
 dispositional
+diaphragmatic
 dispositionally
 dispositioned
 dispositions
