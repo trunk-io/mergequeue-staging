@@ -7245,7 +7245,6 @@ befriend
 basketries
 bestrut
 bestseller
-bestsellerdom
 bestsellers
 bestselling
 bodhisattva
@@ -11970,6 +11969,7 @@ boyards
 boyarisms
 boyars
 boyau
+bestsellerdom
 boyaus
 bootlicker
 boyce
