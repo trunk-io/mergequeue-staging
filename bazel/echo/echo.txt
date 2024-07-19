@@ -6413,7 +6413,6 @@ ensnarled
 examining
 empanels
 ensnarling
-ensnarls
 enheritage
 ensnow
 ensober
@@ -8931,6 +8930,7 @@ endotheliolysin
 erewhiles
 ergamine
 envergure
+ensnarls
 ergane
 ergasterion
 ergastic
