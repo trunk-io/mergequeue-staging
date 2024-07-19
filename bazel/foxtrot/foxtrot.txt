@@ -4391,7 +4391,6 @@ fissidactyl
 fissidentaceae
 flagfish
 foreshorten
-fissile
 fissilingual
 flourescent
 fissilinguia
@@ -8241,6 +8240,7 @@ fenagle
 foxfires
 forgivenesses
 faculae
+fissile
 florification
 forgiver
 forgives
