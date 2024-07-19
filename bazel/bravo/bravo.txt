@@ -9573,7 +9573,6 @@ birthrate
 brink
 bedimming
 birthright
-birthrights
 births
 bisque
 birthstones
@@ -11625,6 +11624,7 @@ boats
 boatsetter
 blackness
 boatshop
+birthrights
 berk
 bodword
 boatsman
