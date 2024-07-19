@@ -11935,7 +11935,6 @@ choragy
 choragium
 choragus
 choral
-chorale
 choraleon
 chorales
 choralist
@@ -19327,6 +19326,7 @@ colombier
 colombina
 colombo
 choroidal
+chorale
 colometrically
 colon
 colonaded
