@@ -1906,7 +1906,6 @@ gathered
 gatherer
 gatherers
 gatherings
-gatherum
 gadget
 gathic
 gating
@@ -6024,6 +6023,7 @@ gigamaree
 gustation
 gloveless
 grain
+gatherum
 glovemaker
 glovemaking
 glovers
