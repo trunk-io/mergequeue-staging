@@ -7169,7 +7169,6 @@ centrarchidae
 centrarchoid
 centration
 centraxonia
-centraxonial
 centreboard
 centred
 centref
@@ -7831,6 +7830,7 @@ cerulignone
 cerumen
 cellarman
 cerumens
+centraxonial
 ceruminal
 casa
 ceruminiferous
