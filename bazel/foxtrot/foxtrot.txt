@@ -1279,7 +1279,6 @@ forestology
 fumigate
 foreswore
 fractable
-fasting
 finalists
 fibroids
 fastings
@@ -5747,6 +5746,7 @@ floatier
 forgeries
 forementioned
 floatiness
+fasting
 flagboat
 floatless
 floatmaker
