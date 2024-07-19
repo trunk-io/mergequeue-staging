@@ -5618,7 +5618,6 @@ dependency
 dependencies
 dosimeters
 dependently
-dependents
 diatrymiformes
 depender
 dysnomy
@@ -13101,6 +13100,7 @@ denumberment
 devilries
 downspout
 dysphrenia
+dependents
 dispicion
 dispirem
 disobeying

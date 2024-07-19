@@ -4201,6 +4201,7 @@ backlit
 beatnik
 beatrix
 brattice
+boggard
 barkantine
 beatuti
 boss
@@ -5678,7 +5679,6 @@ belion
 barbas
 beliquor
 beliquors
-boggard
 belite
 bet
 bedelve
