@@ -4811,7 +4811,6 @@ aediles
 aedileship
 aedilic
 antieducationist
-aedility
 aedilities
 aedoeagi
 aedoeagus
@@ -5116,6 +5115,7 @@ anolytes
 aerometric
 aeromotor
 aeron
+aedility
 arariba
 arkose
 anatomicomedical
