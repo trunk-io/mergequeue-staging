@@ -418,7 +418,6 @@ backhoe
 backhooker
 baubling
 backhouse
-biblioklept
 bebusy
 bushelful
 backhouses
@@ -10805,6 +10804,7 @@ benni
 bletia
 bletilla
 blets
+biblioklept
 bodikin
 bletted
 balneologist
