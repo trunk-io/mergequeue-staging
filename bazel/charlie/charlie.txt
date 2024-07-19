@@ -14285,6 +14285,7 @@ circulation
 circulations
 circulative
 catatonia
+credentials
 circulator
 circulatory
 circulatories
@@ -28543,7 +28544,6 @@ credential
 credentialed
 congressman
 clergylike
-credentials
 credenza
 credenzas
 credibility
