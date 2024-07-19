@@ -1123,6 +1123,7 @@ ganglioplexus
 glamourie
 grabs
 gangman
+guzmania
 garnets
 gyrocompass
 gangplanks
@@ -10827,7 +10828,6 @@ guvacoline
 guz
 guze
 guzerat
-guzmania
 guzul
 glycyphyllin
 geoponic
