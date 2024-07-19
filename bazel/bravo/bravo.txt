@@ -2437,7 +2437,6 @@ barbute
 baned
 belts
 barbwire
-bergeret
 barcan
 barcarole
 betatter
@@ -4223,6 +4222,7 @@ bevomits
 bedeguar
 beaumont
 beaumontia
+bergeret
 beaupers
 beaus
 beauseant
