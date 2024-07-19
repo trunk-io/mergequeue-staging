@@ -1764,7 +1764,6 @@ balsaminaceae
 balsaminaceous
 basilicae
 biotic
-beldam
 balsaming
 balsamitic
 buibui
@@ -4706,6 +4705,7 @@ bedlamp
 bedlamps
 bedlams
 banjuke
+beldam
 bedabbled
 bursula
 bedlight
