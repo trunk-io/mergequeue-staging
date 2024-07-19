@@ -1253,6 +1253,7 @@ abvolt
 abvolts
 anim
 abwatt
+archbishopric
 abwatts
 ac
 acacatechin
@@ -18719,7 +18720,6 @@ archbishopess
 acutiator
 archbishopry
 acromyotonia
-archbishopric
 archbishoprics
 archbishops
 archbotcher
