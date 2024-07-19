@@ -4866,7 +4866,6 @@ gastropneumatic
 gazers
 giros
 gyroscopes
-gyred
 gyroscopic
 glutetei
 gumboils
@@ -4937,6 +4936,7 @@ gitoxigenin
 gitoxin
 glia
 grousing
+gyred
 grovelers
 galores
 gitter
