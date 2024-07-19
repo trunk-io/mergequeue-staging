@@ -1494,7 +1494,6 @@ fretize
 flinted
 fissiparously
 foundationally
-fibroelastic
 faultfinders
 faultfinding
 floriferously
@@ -5833,6 +5832,7 @@ flon
 flong
 fimbriated
 flood
+fibroelastic
 flamingo
 floodable
 fluoaluminate
