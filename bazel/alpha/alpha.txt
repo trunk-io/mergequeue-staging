@@ -20361,6 +20361,7 @@ arrowlet
 arrowlike
 arrowplate
 automolite
+assument
 ablare
 arrowroots
 arrows
@@ -21924,7 +21925,6 @@ antimetabolite
 assume
 assumed
 acorus
-assument
 atorai
 abalienate
 atomiferous
