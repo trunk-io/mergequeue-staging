@@ -5762,7 +5762,6 @@ depolarising
 depolarization
 desulphurizer
 damasks
-depolarize
 depolarized
 depolarizers
 depolarizes
@@ -11901,6 +11900,7 @@ decrees
 diseasing
 dyotheletism
 disecondary
+depolarize
 distaining
 diseconomy
 dghaisa
