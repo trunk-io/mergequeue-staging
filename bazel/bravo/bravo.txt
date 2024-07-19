@@ -16598,7 +16598,6 @@ buckjumper
 buckland
 buckled
 buckleya
-buckleless
 buckler
 bucklered
 brandless
@@ -17962,6 +17961,7 @@ bradypodidae
 busheler
 bivium
 bushelfuls
+buckleless
 beseeched
 besmudged
 busheling
