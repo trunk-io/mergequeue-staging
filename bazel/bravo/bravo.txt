@@ -6414,7 +6414,6 @@ benzophenazine
 buffos
 benzophenone
 benzophenothiazine
-baysmelts
 benzophenoxazine
 benzophloroglucinol
 benzophosphinic
@@ -15358,6 +15357,7 @@ blockages
 brimmer
 brimmered
 brimmering
+baysmelts
 brimmers
 brimming
 brimmingly

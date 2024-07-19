@@ -22602,7 +22602,6 @@ athermous
 atherogenesis
 atheroma
 atheromasia
-atheromata
 atheromatosis
 atheromatous
 atherosclerotic
@@ -23427,6 +23426,7 @@ augusti
 augustin
 augustine
 airmail
+atheromata
 augustinian
 augustinism
 augustly
