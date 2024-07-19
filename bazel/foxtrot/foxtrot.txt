@@ -218,7 +218,6 @@ faculty
 faculties
 facultize
 facundity
-fad
 fadaise
 furfurous
 fragrant
@@ -7428,6 +7427,7 @@ fullness
 fordoes
 fordoing
 fordrive
+fad
 futtock
 fords
 ficin
