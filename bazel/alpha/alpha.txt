@@ -9794,7 +9794,6 @@ amalfian
 amalfitan
 auntlier
 amalg
-amalgam
 appealing
 amalgamable
 amalgamate
@@ -21894,6 +21893,7 @@ assort
 assortative
 assortatively
 assorted
+amalgam
 anotherkins
 aromacity
 assortive
