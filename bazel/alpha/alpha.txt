@@ -8063,7 +8063,6 @@ alfa
 allotters
 alfaje
 archaeomagnetism
-alfaki
 alfakis
 alfalfa
 alfalfas
@@ -9653,6 +9652,7 @@ aluminide
 amphibological
 adenological
 aluminiform
+alfaki
 aluminyl
 aluminised
 aluminish
