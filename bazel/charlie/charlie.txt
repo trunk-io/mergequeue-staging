@@ -481,7 +481,6 @@ cadenza
 cadenzas
 cader
 caderas
-cadere
 cades
 cadesse
 clappering
@@ -18327,6 +18326,7 @@ cofunction
 cog
 cogboat
 cogences
+cadere
 cogencies
 cogener
 cogeneration
