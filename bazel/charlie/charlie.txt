@@ -1463,7 +1463,6 @@ callipygous
 callippic
 callirrhoe
 callisaurus
-callisteia
 callistemon
 callistephus
 corrasive
@@ -14792,6 +14791,7 @@ cystorrhagia
 cystorrhaphy
 cultures
 cystorrhea
+callisteia
 cystosarcoma
 cystoschisis
 cystoscope

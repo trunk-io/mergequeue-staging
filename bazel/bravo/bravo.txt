@@ -1934,7 +1934,6 @@ bandfiled
 bandfish
 bandgap
 beseen
-blanketry
 bandhava
 bandhook
 borer
@@ -10670,6 +10669,7 @@ blenchers
 blenches
 blenchingly
 blencorn
+blanketry
 blend
 blende
 blended
