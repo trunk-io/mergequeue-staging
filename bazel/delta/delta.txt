@@ -3381,7 +3381,6 @@ debasement
 deflocculate
 deflocculating
 deflocculator
-deflocculent
 deflorate
 dormantly
 deflorations
@@ -15483,6 +15482,7 @@ donee
 deceiver
 disporum
 donees
+deflocculent
 desultor
 doney
 doneness
