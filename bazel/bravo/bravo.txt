@@ -1790,7 +1790,6 @@ borophenol
 balti
 baltimore
 baltimorite
-baltis
 balu
 baluba
 baluch
@@ -14514,6 +14513,7 @@ brandisite
 brandle
 brandling
 brandreth
+baltis
 brandrith
 bathofloric
 brangle
