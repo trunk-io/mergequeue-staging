@@ -4391,7 +4391,6 @@ enigmatized
 enamorato
 enamoring
 expropriate
-exeunt
 enamorment
 enclear
 endotrophi
@@ -12441,6 +12440,7 @@ exhalations
 exhalatory
 exhale
 educationally
+exeunt
 exhaled
 exhalent
 exhales
