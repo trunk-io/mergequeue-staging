@@ -10546,6 +10546,7 @@ flotation
 flocks
 ferocities
 frower
+fruitlets
 frown
 frowned
 fainaiguer
@@ -10658,7 +10659,6 @@ fishmeals
 fossorial
 fruitlessness
 fruitlet
-fruitlets
 fruitlike
 fruitling
 fruits
