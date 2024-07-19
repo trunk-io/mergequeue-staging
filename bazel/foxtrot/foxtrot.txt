@@ -7988,7 +7988,6 @@ forespecified
 forespencer
 forespoke
 flueman
-forespoken
 frailejon
 forestaff
 forestaffs
@@ -9537,6 +9536,7 @@ frecked
 frecken
 freckened
 frecket
+forespoken
 fasciae
 fibroplastic
 forcaria
