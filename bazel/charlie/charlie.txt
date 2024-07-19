@@ -12041,7 +12041,6 @@ chorioidocyclitis
 chorioidoiritis
 chimed
 chorioidoretinitis
-chorioids
 chorioma
 choriomas
 choriomata
@@ -30479,6 +30478,7 @@ chalcidid
 chiropod
 cubicle
 cubicontravariant
+chorioids
 cubicovariant
 cubics
 costly
