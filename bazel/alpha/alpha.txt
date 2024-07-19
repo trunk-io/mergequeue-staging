@@ -5105,6 +5105,7 @@ aeromedical
 aeromedicine
 antimasque
 aerometeorograph
+apophyses
 amphophilic
 aerometer
 acardia
@@ -17354,7 +17355,6 @@ apophyllous
 apophysary
 apophysate
 apophyseal
-apophyses
 apophysial
 apophysis
 apophysitis
