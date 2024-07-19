@@ -9997,7 +9997,6 @@ contractors
 cambrel
 chemospheric
 chemostat
-chemosterilant
 chemosterilants
 chemosurgery
 chemosurgical
@@ -13392,6 +13391,7 @@ cyclogenesis
 cyclograph
 cyclographer
 cycloheptane
+chemosterilant
 cycloheptanone
 cyclohexadienyl
 cyclohexane
