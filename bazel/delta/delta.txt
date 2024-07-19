@@ -15431,7 +15431,6 @@ doms
 domus
 don
 drivel
-donable
 droughty
 donaciform
 donack
@@ -16650,6 +16649,7 @@ deedeed
 dragontail
 device
 dictyoxylon
+donable
 dragonwort
 dragoon
 dragoonable
