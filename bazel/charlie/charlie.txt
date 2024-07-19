@@ -8066,7 +8066,6 @@ chackler
 chacma
 chacmas
 chickadee
-chaco
 chacona
 copperahs
 chaconne
@@ -15728,6 +15727,7 @@ clathrarian
 catering
 clathrate
 clathrina
+chaco
 clathrinidae
 clathrose
 clathrulate
