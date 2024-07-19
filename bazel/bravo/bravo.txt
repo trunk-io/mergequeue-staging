@@ -15041,6 +15041,7 @@ baseplate
 bushiness
 biers
 brevicomis
+bunnia
 breviconic
 balneographer
 breviloquence
@@ -17455,7 +17456,6 @@ bunn
 beelbow
 boron
 bunny
-bunnia
 bunnies
 bunning
 baldmoney
