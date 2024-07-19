@@ -2678,7 +2678,6 @@ canonicity
 canonics
 canonise
 consumptiveness
-canonised
 canonises
 canonising
 canonist
@@ -24448,6 +24447,7 @@ cantered
 confutations
 cooperatingly
 cooperation
+canonised
 cooperationist
 cooperations
 cooperative
