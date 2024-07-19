@@ -3990,7 +3990,6 @@ beadsmen
 beadswoman
 beadswomen
 beadwork
-beadworks
 boca
 beagle
 beagles
@@ -8908,6 +8907,7 @@ biocycles
 botan
 biocidal
 biocide
+beadworks
 backstabbing
 biocides
 bioclimatic
