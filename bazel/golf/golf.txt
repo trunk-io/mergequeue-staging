@@ -5833,6 +5833,7 @@ gaugers
 gloomth
 grippal
 gasper
+gluconeogenesis
 glop
 glopnen
 glops
@@ -7502,7 +7503,6 @@ goutily
 goutiness
 goutish
 goutweed
-gluconeogenesis
 griffs
 gallwort
 gouvernante
