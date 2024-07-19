@@ -4502,7 +4502,6 @@ demidandiprat
 demideity
 dexterously
 demidigested
-demidistance
 dirged
 demiditone
 demidoctor
@@ -5337,6 +5336,7 @@ dentical
 denticate
 deifiers
 donnees
+demidistance
 doornail
 denticete
 denticeti
