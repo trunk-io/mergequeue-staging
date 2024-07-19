@@ -2542,6 +2542,7 @@ gemwork
 gothlander
 gastronome
 gen
+gooseherd
 gastrology
 guilloche
 guardsmen
@@ -7122,7 +7123,6 @@ goosegirl
 goosegog
 gashy
 galvanometers
-gooseherd
 girosol
 grassless
 goosehouse
