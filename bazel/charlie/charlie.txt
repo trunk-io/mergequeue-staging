@@ -8066,6 +8066,7 @@ chacmas
 chickadee
 chaco
 chacona
+copperahs
 chaconne
 chaconnes
 convokers
@@ -24708,7 +24709,6 @@ coppas
 copped
 copper
 copperah
-copperahs
 copperases
 copperhead
 copperheadism
