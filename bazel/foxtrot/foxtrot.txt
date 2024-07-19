@@ -5811,6 +5811,7 @@ floey
 flavorers
 floerkea
 flayed
+fumewort
 fermis
 floes
 flog
@@ -11022,7 +11023,6 @@ folic
 fusure
 flongs
 fumeuses
-fumewort
 fumid
 frowners
 fumidity
