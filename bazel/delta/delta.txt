@@ -13467,7 +13467,6 @@ disturbor
 drused
 disrupture
 diss
-dissatisfaction
 dissatisfactions
 dissatisfactory
 dermoidal
@@ -16877,6 +16876,7 @@ drawspring
 drawstop
 dinoceratid
 drawstring
+dissatisfaction
 drawstrings
 drawtongs
 drawtube
