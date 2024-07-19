@@ -140,6 +140,7 @@ gaelicization
 gundelow
 glump
 goatskin
+gibbosity
 glareproof
 gaels
 gaen
@@ -3942,7 +3943,6 @@ gibblegable
 gibbol
 gibbons
 gibbosely
-gibbosity
 glove
 gibbsites
 generalizable
