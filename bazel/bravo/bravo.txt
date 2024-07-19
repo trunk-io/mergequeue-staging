@@ -2636,7 +2636,6 @@ baryphony
 baryphonia
 boxholder
 baryphonic
-bucketer
 baris
 barysilite
 barysphere
@@ -7501,6 +7500,7 @@ bewailment
 bewake
 bewall
 beware
+bucketer
 bewared
 bemixed
 bosky
