@@ -18934,7 +18934,6 @@ archiblastula
 archibuteo
 archicantor
 archicarp
-adjustment
 archicerebrum
 archichlamydeae
 archichlamydeous
@@ -25127,6 +25126,7 @@ axman
 axmanship
 axmen
 axminster
+adjustment
 axodendrite
 axofugal
 axoid
