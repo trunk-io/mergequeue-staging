@@ -2201,7 +2201,6 @@ decemcostate
 decemdentate
 diple
 decemfid
-decemflorous
 decemfoliate
 decemjugate
 decemlocular
@@ -5308,6 +5307,7 @@ deked
 dentate
 dentated
 dentately
+decemflorous
 diffusivity
 delawn
 dentatoangulate
