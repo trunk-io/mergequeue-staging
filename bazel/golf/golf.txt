@@ -9091,7 +9091,6 @@ griot
 genoveva
 gobbles
 gypsite
-gripe
 genie
 gymnoblastea
 geomantical
@@ -10669,6 +10668,7 @@ guser
 guserid
 gush
 goniale
+gripe
 gushed
 guepard
 gusher
