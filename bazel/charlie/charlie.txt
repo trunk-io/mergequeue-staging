@@ -13742,7 +13742,6 @@ coalitions
 cimices
 cimicid
 cimicidae
-cimicide
 cimiciform
 cimicifuga
 cimicifugin
@@ -24559,6 +24558,7 @@ copatroness
 contraflow
 copatrons
 cope
+cimicide
 copeck
 copecks
 captivatrix
