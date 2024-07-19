@@ -7314,7 +7314,6 @@ definition
 detonating
 detonation
 detonations
-detonative
 dim
 detonize
 detort
@@ -7945,6 +7944,7 @@ dextrogyration
 dummered
 dermosynovitis
 demythologized
+detonative
 dextrogyrous
 dextroglucose
 defi
