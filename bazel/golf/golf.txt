@@ -5209,6 +5209,7 @@ gromatical
 glareolidae
 guanayes
 glareworm
+graplines
 glary
 grazer
 garbages
@@ -8245,7 +8246,6 @@ graphs
 grapiest
 graping
 grapline
-graplines
 gimballed
 grappa
 grappas
