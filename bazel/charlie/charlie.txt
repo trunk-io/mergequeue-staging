@@ -7973,6 +7973,7 @@ cesura
 cesural
 cesuras
 cellite
+counterguard
 conciliabulum
 cesure
 crummable
@@ -26908,7 +26909,6 @@ countergauger
 countergift
 countergirded
 counterglow
-counterguard
 counterguerilla
 counterguerrilla
 counterhaft
