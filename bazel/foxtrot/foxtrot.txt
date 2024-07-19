@@ -518,7 +518,6 @@ feasance
 flamed
 falerno
 faliscan
-falisci
 falk
 firmarius
 faut
@@ -4559,6 +4558,7 @@ fixation
 footslogs
 fixative
 fixator
+falisci
 fixedness
 fraktur
 fling
