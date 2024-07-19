@@ -150,7 +150,6 @@ floor
 factionistism
 forgiveness
 forecatharping
-factious
 fettle
 felonwort
 flirtatious
@@ -8411,6 +8410,7 @@ formfitting
 farenheit
 formy
 formiate
+factious
 feoffers
 formica
 formicary
