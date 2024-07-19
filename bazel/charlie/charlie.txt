@@ -11285,6 +11285,7 @@ coperception
 chloranemia
 chloranemic
 chloranhydride
+crossfiring
 chloranil
 chloranthaceae
 chloranthaceous
@@ -29884,7 +29885,6 @@ civilizer
 crossfertilizable
 crossfired
 cooption
-crossfiring
 camphire
 crossflower
 crossgrainedness
