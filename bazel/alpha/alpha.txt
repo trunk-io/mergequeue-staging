@@ -8442,7 +8442,6 @@ albuminousness
 aventurine
 analgetic
 alite
-ananta
 aliter
 alytes
 ality
@@ -17107,6 +17106,7 @@ albarium
 apneumona
 apneumonous
 apneusis
+ananta
 apneustic
 austromancy
 apnoea

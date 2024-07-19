@@ -7000,6 +7000,7 @@ centage
 contaminants
 centai
 cental
+combustor
 centals
 chock
 centares
@@ -19831,7 +19832,6 @@ combusting
 combustious
 combustive
 combustively
-combustor
 combusts
 combwise
 catapulting
