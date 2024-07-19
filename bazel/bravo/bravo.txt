@@ -7236,6 +7236,7 @@ bestriding
 bestripe
 bestrode
 bestrow
+biborate
 bestrowed
 bestrown
 bestrows
@@ -7909,7 +7910,6 @@ biblism
 biblists
 biblos
 bastardise
-biborate
 bibracteolate
 bibs
 bock

@@ -5149,7 +5149,6 @@ casket
 casketed
 casketlike
 casky
-clepsine
 casking
 casklike
 casks
@@ -27681,6 +27680,7 @@ cowleeching
 cowlick
 cowlike
 cowling
+clepsine
 cowlings
 cowlitz
 cowlstaff
