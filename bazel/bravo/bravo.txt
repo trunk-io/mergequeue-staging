@@ -2694,7 +2694,6 @@ bemurmur
 browsers
 bothroi
 barkingly
-barkless
 barklyite
 barkometer
 berthed
@@ -2709,6 +2708,7 @@ barleducs
 barleybird
 barleybrake
 broidering
+barkless
 barleybreak
 barleyhood
 barleymow
