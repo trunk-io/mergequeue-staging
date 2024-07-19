@@ -8394,6 +8394,7 @@ chalkline
 chalkone
 chalkos
 chalkosideric
+crimson
 chalkotheke
 chalkrail
 chalks
@@ -29100,7 +29101,6 @@ crimples
 crimpling
 crimpness
 crimps
-crimson
 curtly
 crimsoned
 crimsony
