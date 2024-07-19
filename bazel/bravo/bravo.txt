@@ -2494,6 +2494,7 @@ bunns
 bazookas
 bardolater
 bardolatry
+bossism
 blindman
 buffooneries
 bardolphian
@@ -6509,7 +6510,6 @@ beplumed
 berycomorphi
 bepray
 baculoid
-bossism
 bepraise
 bepimpled
 bepraiser
