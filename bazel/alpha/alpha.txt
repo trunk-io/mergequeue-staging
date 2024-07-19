@@ -6782,6 +6782,7 @@ ayes
 aeroplaner
 aigialosaur
 aigialosauridae
+auditioned
 aigialosaurus
 aiglet
 aiglets
@@ -23678,7 +23679,6 @@ auscultation
 auscultative
 autographical
 auscultoscope
-auditioned
 anisostemonous
 ausformed
 afterend
