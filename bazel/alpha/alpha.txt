@@ -9090,6 +9090,7 @@ allspice
 abrogating
 allspices
 allthing
+amperage
 allthorn
 allude
 alluded
@@ -11871,7 +11872,6 @@ administrate
 anam
 anama
 anamesite
-amperage
 anamite
 anammonid
 ancestral
