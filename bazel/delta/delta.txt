@@ -12778,7 +12778,6 @@ dismembrator
 dehypnotize
 dysmenorrhagia
 dysmenorrhea
-dysmenorrheic
 dysmenorrhoea
 dysmenorrhoeal
 dismerit
@@ -18073,6 +18072,7 @@ dum
 duma
 dryish
 dumb
+dysmenorrheic
 dumba
 dulcifies
 dumbbell
