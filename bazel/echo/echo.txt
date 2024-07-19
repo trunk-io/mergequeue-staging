@@ -142,6 +142,7 @@ earspool
 earstone
 eoan
 earstones
+englishman
 enabled
 eartag
 eartagged
@@ -6460,7 +6461,6 @@ electrochemically
 emarcid
 endorsingly
 emulators
-englishman
 ensuingly
 estheriidae
 ensulphur
