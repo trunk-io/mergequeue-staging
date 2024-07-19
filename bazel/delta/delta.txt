@@ -2416,7 +2416,6 @@ decisteres
 decius
 deck
 decke
-disadvantageousness
 decked
 deckedout
 dogget
@@ -9357,6 +9356,7 @@ druggists
 dyeweeds
 diewise
 diluvian
+disadvantageousness
 dyewood
 diezeugmenon
 dif
