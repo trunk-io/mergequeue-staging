@@ -2433,6 +2433,7 @@ amizilis
 acid
 acidaemia
 acidaspis
+agnosis
 acider
 afifi
 acidhead
@@ -6376,7 +6377,6 @@ atrabiliary
 agnomination
 agnosy
 agnosias
-agnosis
 agnostic
 aposiopesis
 agnostically
