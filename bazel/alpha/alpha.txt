@@ -2849,7 +2849,6 @@ acrylaldehyde
 acrylate
 acrylates
 acrylic
-acrylics
 acrylyl
 acrylonitrile
 acrimony
@@ -10260,6 +10259,7 @@ amebean
 amebian
 adenohypophyseal
 agentess
+acrylics
 amebicidal
 amebicide
 amebid
