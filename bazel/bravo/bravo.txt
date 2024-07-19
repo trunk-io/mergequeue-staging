@@ -1418,6 +1418,7 @@ baldwin
 baleare
 balearian
 bullrings
+baobab
 baled
 balefire
 balefires
@@ -2211,7 +2212,6 @@ banxring
 beth
 banzais
 bovoid
-baobab
 baobabs
 bap
 baphometic
