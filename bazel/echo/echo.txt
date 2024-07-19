@@ -8303,7 +8303,6 @@ epitaphless
 epitaphs
 epispore
 expurgative
-excentral
 epitasis
 epitaxy
 epitaxic
@@ -11854,6 +11853,7 @@ excides
 exarchies
 escadrilles
 exarchs
+excentral
 exercised
 eth
 exarteritis
