@@ -3512,7 +3512,6 @@ fanti
 filemark
 fasciated
 filemarks
-filemot
 filename
 filer
 filers
@@ -8404,6 +8403,7 @@ formers
 formes
 formfeed
 formfitting
+filemot
 farenheit
 formy
 formiate
