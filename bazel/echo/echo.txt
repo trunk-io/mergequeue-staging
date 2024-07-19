@@ -5829,7 +5829,6 @@ embroiderers
 electrized
 exigeante
 engrossed
-engrossedly
 erythrolysin
 engrosser
 engrossers
@@ -10308,6 +10307,7 @@ etherolate
 ettercap
 etherous
 ethers
+engrossedly
 ethic
 ethical
 ethicalism
