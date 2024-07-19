@@ -13446,7 +13446,6 @@ epigaeous
 exsanguine
 erythrene
 enorthotrope
-exsanguinous
 expose
 exscind
 exscinded
@@ -14055,6 +14054,7 @@ extremities
 extremum
 extricable
 engroove
+exsanguinous
 extricably
 ensepulcher
 extricate
