@@ -1214,7 +1214,6 @@ eductors
 edulcorating
 edulcoration
 edulcorative
-edulcorator
 edward
 elanet
 eruciform
@@ -9523,6 +9522,7 @@ eschar
 endosmometer
 entree
 eschara
+edulcorator
 extraovate
 escharoid
 escharotic
