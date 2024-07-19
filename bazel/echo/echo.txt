@@ -4729,7 +4729,6 @@ encircler
 encircles
 encircling
 encyrtid
-eriobotrya
 encyrtidae
 encist
 encyst
@@ -11398,6 +11397,7 @@ evasional
 evasions
 evasive
 evasively
+eriobotrya
 evasiveness
 evechurr
 enclaret
