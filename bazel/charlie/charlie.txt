@@ -7372,7 +7372,6 @@ cephalofacial
 cephalogram
 cephalograph
 cephalohumeral
-calippic
 cephalohumeralis
 cordonazos
 cephaloid
@@ -11668,6 +11667,7 @@ cholelithotrity
 cholecystectomies
 cholemia
 carrousels
+calippic
 cholent
 cholents
 choleokinase
