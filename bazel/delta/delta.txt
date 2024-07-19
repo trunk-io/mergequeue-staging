@@ -11136,6 +11136,7 @@ disarticulate
 disarticulating
 disarticulation
 disarticulator
+dissembles
 disasinize
 disassembled
 disassembler
@@ -13533,7 +13534,6 @@ danda
 drawloom
 depr
 dissemblers
-dissembles
 dissembly
 dissemblies
 distally
