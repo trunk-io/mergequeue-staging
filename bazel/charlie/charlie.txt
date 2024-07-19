@@ -5731,7 +5731,6 @@ catchwater
 catchweed
 catchweight
 cecally
-catchword
 catchwords
 catchwork
 catclaw
@@ -21360,6 +21359,7 @@ conceder
 calaba
 counterpronunciamento
 conchal
+catchword
 conche
 conched
 concher
