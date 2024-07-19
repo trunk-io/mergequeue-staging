@@ -7012,7 +7012,6 @@ airline
 acidophilus
 airliner
 airliners
-airlines
 airlocks
 antitradition
 airmailed
@@ -11688,6 +11687,7 @@ anaesthetic
 ade
 anaesthetics
 almida
+airlines
 anaesthetize
 anaesthetizer
 anaesthetizing

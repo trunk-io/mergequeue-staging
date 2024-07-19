@@ -3129,7 +3129,6 @@ grailing
 greenhood
 gausses
 geologists
-geologize
 geologizing
 geom
 gulfs
@@ -3436,6 +3435,7 @@ gemses
 germanized
 germanly
 germanness
+geologize
 galleine
 garnitures
 germanocentric
