@@ -4147,7 +4147,6 @@ emplace
 estriate
 entwines
 exothermically
-equangular
 emplaced
 exacum
 emplacement
@@ -12184,6 +12183,7 @@ excubant
 excubitoria
 enteroscope
 excubitorium
+equangular
 etyma
 excudate
 epiderm
