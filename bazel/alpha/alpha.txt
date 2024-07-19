@@ -10877,7 +10877,6 @@ ammophilous
 ammoreslinol
 ammos
 affiance
-ammu
 ammunition
 ascensiontide
 amnesiac
@@ -24200,6 +24199,7 @@ autologous
 autoluminescence
 automa
 automacy
+ammu
 automaker
 agerasia
 autoerotic
