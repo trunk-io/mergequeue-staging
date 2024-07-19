@@ -4138,7 +4138,6 @@ delinquency
 delinquencies
 delinquently
 delinquents
-delinter
 disjunctor
 deliquate
 deliquesce
@@ -16691,6 +16690,7 @@ drainages
 donating
 dichroiscopic
 drainboard
+delinter
 drainer
 defacement
 druxy
