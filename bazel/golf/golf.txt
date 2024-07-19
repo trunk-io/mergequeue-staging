@@ -2823,7 +2823,6 @@ genoese
 genoise
 genome
 goatlike
-genomic
 genoms
 genonema
 gph
@@ -6131,6 +6130,7 @@ glued
 gangsman
 gluelike
 ginger
+genomic
 gyrosyn
 gallicisms
 geognost
