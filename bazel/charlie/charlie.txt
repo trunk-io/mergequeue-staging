@@ -13128,7 +13128,6 @@ cyanometer
 caravaned
 cercocebus
 catalufa
-cyanomethaemoglobin
 cyanometry
 cyanometric
 cyanometries
@@ -25023,6 +25022,7 @@ cordately
 crumbcloth
 cordax
 cordeau
+cyanomethaemoglobin
 cordel
 cordelia
 cordelier
