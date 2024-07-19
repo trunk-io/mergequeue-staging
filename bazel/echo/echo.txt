@@ -1558,6 +1558,7 @@ eggbeater
 eggbeaters
 explicantia
 encashable
+encheason
 eker
 eggberry
 eggcup
@@ -6496,7 +6497,6 @@ entailments
 eggshells
 eleven
 ental
-encheason
 entally
 entameba
 enteroptosis
