@@ -13651,7 +13651,6 @@ clavicithern
 cylindrophis
 curdwort
 cylindrosporium
-cylindruria
 cilioflagellata
 chrysophan
 caracoli
@@ -27181,6 +27180,7 @@ counterstock
 counterstratagem
 counterstream
 counterstrike
+cylindruria
 coracopectoral
 counterstroke
 counterstruggle

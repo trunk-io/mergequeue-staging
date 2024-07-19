@@ -1193,6 +1193,7 @@ globulousness
 ganodont
 graphical
 garlopa
+genoms
 ganodus
 genus
 ganoidal
@@ -2835,7 +2836,6 @@ genoise
 genome
 goatlike
 genomic
-genoms
 genonema
 gph
 glimpses
