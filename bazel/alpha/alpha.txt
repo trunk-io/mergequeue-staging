@@ -2772,7 +2772,6 @@ acquiesence
 acquirability
 adenopharyngeal
 acquirable
-antares
 acquirement
 acquirements
 acquirer
@@ -3198,6 +3197,7 @@ actinomycoma
 argyropelecus
 anointment
 actinomycosis
+antares
 actinomycosistic
 actinomyxidiida
 actinomorphous
