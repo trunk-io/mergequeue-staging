@@ -142,7 +142,6 @@ gundelow
 glump
 goatskin
 gibbosity
-glareproof
 gaels
 gaen
 gaertnerian
@@ -2344,6 +2343,7 @@ gelate
 guango
 gelated
 governless
+glareproof
 gammock
 gallinaceae
 gelatification
