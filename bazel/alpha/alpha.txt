@@ -9250,7 +9250,6 @@ alnaschar
 alnein
 alnico
 alnicoes
-alnilam
 alniresinol
 alnitak
 alnitham
@@ -13781,6 +13780,7 @@ anocarpous
 attorning
 anocathartic
 anociassociation
+alnilam
 anociation
 anocithesia
 anococcygeal
