@@ -1610,7 +1610,6 @@ calotype
 calotypic
 calotypist
 calotte
-calottes
 calp
 clerkery
 calpac
@@ -22336,6 +22335,7 @@ congo
 congoese
 congoni
 congos
+calottes
 carceral
 congou
 congous
