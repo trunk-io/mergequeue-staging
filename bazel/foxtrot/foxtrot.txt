@@ -4893,6 +4893,7 @@ flan
 fishbed
 fulcrumed
 fellsman
+forewarning
 farthermore
 flancard
 flanchard
@@ -8123,7 +8124,6 @@ floit
 fibroblast
 florence
 falsism
-forewarning
 forewarningly
 forewarns
 flaxseed
