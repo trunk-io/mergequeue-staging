@@ -8572,7 +8572,6 @@ alkenna
 alkermes
 alkes
 alky
-alkyd
 alkide
 agone
 alkies
@@ -19937,6 +19936,7 @@ astrogator
 armenian
 armenians
 armenite
+alkyd
 angolese
 armer
 armeria
