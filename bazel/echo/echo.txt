@@ -2396,6 +2396,7 @@ extracivic
 endaseh
 economiser
 electrodynamic
+ened
 electrodynamical
 earlobe
 enter
@@ -5465,7 +5466,6 @@ enfortune
 except
 ebullient
 entails
-ened
 eneid
 enemas
 enemata
