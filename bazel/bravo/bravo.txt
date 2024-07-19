@@ -6530,7 +6530,6 @@ bequalm
 bequeath
 bequeathable
 bequeathal
-bequeathed
 bravadoes
 bequeather
 bibulosity
@@ -7943,6 +7942,7 @@ bicaudate
 bicched
 boeotia
 bice
+bequeathed
 bicellular
 bicentenary
 bicentennial
