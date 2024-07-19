@@ -5915,6 +5915,7 @@ glossers
 galloway
 glossic
 gonotype
+greenfly
 glossier
 geomantic
 glossies
@@ -8674,7 +8675,6 @@ greenest
 gucks
 gegenschein
 greenfishes
-greenfly
 galenites
 greengage
 greengill
