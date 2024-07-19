@@ -1730,7 +1730,6 @@ feat
 featest
 feather
 featherback
-featherbird
 flintiness
 featherbone
 footweary
@@ -8235,6 +8234,7 @@ forgive
 flowingness
 foundational
 fusains
+featherbird
 faroff
 forgiveless
 fimetic
