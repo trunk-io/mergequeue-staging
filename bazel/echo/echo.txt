@@ -8387,7 +8387,6 @@ epithumetic
 epitimesis
 epitympa
 epitympanum
-epityphlon
 experienceless
 excubittoria
 earned
@@ -13156,6 +13155,7 @@ expiries
 expostulatingly
 ensnare
 edgeways
+epityphlon
 expiscate
 erosible
 expiscating
