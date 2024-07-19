@@ -5376,7 +5376,6 @@ casuary
 concertedly
 capilli
 casuariidae
-casuarina
 casuarinaceous
 casuarinales
 casuarius
@@ -8539,6 +8538,7 @@ chamos
 chamosite
 chamotte
 champ
+casuarina
 coherence
 champa
 champac
