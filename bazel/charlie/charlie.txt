@@ -9910,7 +9910,6 @@ chemiluminescent
 chemin
 chicomecoatl
 chemins
-chemiotactic
 chemiotaxic
 chemiotropic
 claimers
@@ -13815,6 +13814,7 @@ cynaroid
 churchwise
 crinital
 cincha
+chemiotactic
 cinched
 choliambic
 cincher
