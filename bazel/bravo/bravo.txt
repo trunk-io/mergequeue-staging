@@ -1657,7 +1657,6 @@ ballotage
 balloter
 balloting
 ballotist
-ballottable
 ballottine
 ballpark
 ballparks
@@ -4529,6 +4528,7 @@ basecoat
 bedaggle
 beday
 billons
+ballottable
 bedamned
 bedamning
 belches
