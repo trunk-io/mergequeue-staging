@@ -6490,6 +6490,7 @@ bepatched
 bepaw
 bepearl
 breakwater
+butterburr
 bepen
 bepepper
 beperiwigged
@@ -16886,7 +16887,6 @@ buyer
 buying
 build
 bummerish
-butterburr
 bemaul
 buildable
 builded
