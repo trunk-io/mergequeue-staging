@@ -1555,7 +1555,6 @@ grasses
 gashes
 grievants
 gashly
-goneril
 gashouses
 groundskeeping
 gasification
@@ -6699,6 +6698,7 @@ golfed
 gastrotrichan
 golfing
 golfs
+goneril
 gallerygoer
 golgi
 galeated

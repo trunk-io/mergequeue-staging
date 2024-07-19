@@ -3193,7 +3193,6 @@ caponization
 cloakless
 caponize
 caponizer
-caponizes
 caponniere
 collectiveness
 caseose
@@ -22139,6 +22138,7 @@ conformal
 capitularies
 conformance
 conformant
+caponizes
 conformate
 conformation
 carthamin
