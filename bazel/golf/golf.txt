@@ -5267,7 +5267,6 @@ ganosis
 glassophone
 glassteel
 gnathic
-gunpapers
 guider
 glassworks
 gasbags
@@ -6724,6 +6723,7 @@ goliards
 goliathize
 grosses
 goll
+gunpapers
 glaikitness
 gingeleys
 golland
