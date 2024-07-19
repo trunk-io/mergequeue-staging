@@ -883,7 +883,6 @@ gambs
 gambusias
 gamdeboo
 gasteropod
-gamebag
 gauby
 grimly
 gibbetwise
@@ -3045,6 +3044,7 @@ gelts
 geomechanics
 geodetics
 geodiatropism
+gamebag
 geodiferous
 geodynamic
 geodynamical
