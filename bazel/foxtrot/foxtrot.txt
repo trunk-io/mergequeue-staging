@@ -8203,7 +8203,6 @@ forgeability
 forgeable
 forged
 forger
-forgery
 foeish
 forgers
 forges
@@ -8603,6 +8602,7 @@ ferally
 footing
 forspoken
 fowk
+forgery
 floccipend
 fumistery
 fellatory
