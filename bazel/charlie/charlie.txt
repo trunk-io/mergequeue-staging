@@ -6634,7 +6634,6 @@ coto
 cabler
 celative
 cathexis
-celature
 cele
 celeb
 celebe
@@ -9571,6 +9570,7 @@ checke
 checker
 checkerbelly
 checkerbellies
+celature
 checkerberry
 checkerboard
 climates
