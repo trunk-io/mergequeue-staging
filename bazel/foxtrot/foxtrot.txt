@@ -5177,7 +5177,6 @@ flavorer
 flavorful
 flavorfulness
 flavory
-flavoriness
 farrow
 forsworn
 flavorless
@@ -7284,6 +7283,7 @@ foramens
 foramina
 ferrivorous
 foraminal
+flavoriness
 filago
 farer
 foraminifer
