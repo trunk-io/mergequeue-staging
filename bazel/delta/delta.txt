@@ -2863,7 +2863,6 @@ decussoria
 decussorium
 decwriter
 dedal
-dedanite
 demigoddessship
 dedd
 deddy
@@ -8720,6 +8719,7 @@ debilitant
 diatoms
 diatonic
 diatonically
+dedanite
 divinatory
 delude
 diatonous
