@@ -6384,7 +6384,6 @@ cavey
 cavekeeper
 caveman
 cavemen
-concatenate
 caver
 cavernal
 caverned
@@ -28955,6 +28954,7 @@ cribbling
 cribellum
 crible
 chrysomyia
+concatenate
 cribo
 cribose
 cribral
