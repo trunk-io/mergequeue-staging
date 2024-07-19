@@ -869,6 +869,7 @@ baffies
 baffle
 baffled
 backspins
+burgundian
 bafflements
 baffler
 bafflers
@@ -16038,7 +16039,6 @@ brooder
 broody
 broodier
 broodiest
-burgundian
 broodily
 broodiness
 broodingly
