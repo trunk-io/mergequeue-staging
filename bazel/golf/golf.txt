@@ -4847,7 +4847,6 @@ giron
 gyron
 glycose
 girondism
-geoparallelotropic
 grifting
 gironny
 girons
@@ -7807,6 +7806,7 @@ gralline
 gram
 graphiology
 gemmae
+geoparallelotropic
 gramary
 gramarye
 granulitization
