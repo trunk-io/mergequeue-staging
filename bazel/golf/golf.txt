@@ -7299,7 +7299,6 @@ gosh
 glucosidically
 grippit
 goshawk
-greaved
 goshawks
 goshdarn
 gravamens
@@ -8122,6 +8121,7 @@ granulators
 granules
 granulet
 granulitis
+greaved
 givens
 gossan
 granulitize
