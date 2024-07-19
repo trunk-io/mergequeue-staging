@@ -307,6 +307,7 @@ backadation
 backare
 backarrow
 backarrows
+bruchid
 beanier
 backband
 backbear
@@ -9599,7 +9600,6 @@ barbal
 biscayner
 biscanism
 bischofite
-bruchid
 biscuiting
 biscuitlike
 biscuitmaker
