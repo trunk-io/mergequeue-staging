@@ -3396,6 +3396,7 @@ deflore
 deflorescence
 demiquaver
 dropforged
+donacidae
 deflower
 deflowered
 deflowerer
@@ -15433,7 +15434,6 @@ don
 drivel
 donable
 droughty
-donacidae
 donaciform
 donack
 donal
