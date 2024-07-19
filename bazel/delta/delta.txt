@@ -5788,6 +5788,7 @@ deponents
 depones
 deponing
 daint
+disaligning
 depopularize
 depopulate
 depicturing
@@ -11013,7 +11014,6 @@ disagreer
 disalicylide
 disalign
 disaligned
-disaligning
 disalignment
 disalike
 disassociable
