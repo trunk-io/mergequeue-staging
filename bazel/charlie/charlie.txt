@@ -16055,7 +16055,6 @@ clergion
 clergywoman
 cleric
 clerical
-clericalism
 clericalist
 clericalists
 clericality
@@ -25245,6 +25244,7 @@ coryphaena
 cushioncraft
 coryphaenid
 coryphaenidae
+clericalism
 coryphaenoid
 coryphaenoididae
 collegiateness
