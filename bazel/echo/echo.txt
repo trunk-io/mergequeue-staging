@@ -4339,7 +4339,6 @@ enact
 enactable
 enacted
 epiphysitis
-epithelioglandular
 electrotaxis
 effectualize
 enactments
@@ -10696,6 +10695,7 @@ euphenics
 ethanols
 eucirripedia
 euclase
+epithelioglandular
 euclases
 euphemization
 euclea
