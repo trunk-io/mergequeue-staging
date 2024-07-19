@@ -1653,7 +1653,6 @@ gaffer
 gymnospermism
 gyrostatics
 gasterothecal
-gasterotrichan
 gastightness
 gimping
 gasting
@@ -5435,6 +5434,7 @@ glyceridic
 gumlike
 glyceryls
 glycerin
+gasterotrichan
 glycerinate
 glycerinating
 glycerins

@@ -1195,7 +1195,6 @@ calentural
 calenture
 calentured
 calenturing
-calenturish
 calepin
 cutlash
 calesa
@@ -21492,6 +21491,7 @@ concludible
 concluding
 conclusible
 conclusion
+calenturish
 conclusional
 conclusionally
 conclusions
