@@ -11321,7 +11321,6 @@ ctenii
 chere
 chloridized
 chlorids
-chlorimeter
 chlorimetry
 combinate
 chlorimetric
@@ -27440,6 +27439,7 @@ cassino
 cousinage
 coloradoite
 comminate
+chlorimeter
 cousinly
 cousinry
 culicoides
