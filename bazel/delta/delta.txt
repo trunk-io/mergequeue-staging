@@ -3953,6 +3953,7 @@ diploses
 desmacyte
 delectable
 delectableness
+doormats
 delectably
 delectate
 delectated
@@ -15634,7 +15635,6 @@ doorless
 doormaid
 disbranched
 doormaker
-doormats
 doornboom
 doorplates
 doorpost
