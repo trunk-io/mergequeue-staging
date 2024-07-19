@@ -14330,7 +14330,6 @@ deheathenize
 dive
 depopulators
 discussable
-divebomb
 dedicatee
 dichotomistic
 dived
@@ -14939,6 +14938,7 @@ durdenite
 doeth
 doeuvre
 daddock
+divebomb
 doffed
 dissention
 doffer
