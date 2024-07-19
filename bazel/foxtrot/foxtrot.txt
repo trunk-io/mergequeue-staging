@@ -2546,7 +2546,6 @@ fungologist
 fording
 ferrotype
 fload
-ferrotyper
 fraxinella
 froebelian
 farls
@@ -3986,6 +3985,7 @@ finis
 finish
 figure
 finished
+ferrotyper
 flatterdock
 forride
 finisher

@@ -7201,7 +7201,6 @@ bestowable
 bestowal
 broadener
 bestowals
-bestir
 bestower
 bestowing
 bestowment
@@ -12601,6 +12600,7 @@ boobily
 boobish
 booboisie
 brigbote
+bestir
 barefit
 booboo
 boobook
