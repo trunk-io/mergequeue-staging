@@ -14185,6 +14185,7 @@ antecedaneously
 antibrachial
 antecede
 anteceded
+antiprime
 antecedence
 antecedency
 antecedent
@@ -16027,7 +16028,6 @@ antipriest
 adnate
 antipriestcraft
 antipriesthood
-antiprime
 antiprimer
 antiprinciple
 antiprism
