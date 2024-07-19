@@ -738,7 +738,6 @@ bacterioscopic
 bacterioscopical
 bacterioscopist
 bacteriosis
-bacteriosolvent
 bacteriostatic
 bacteriostatically
 bacteriotherapeutic
@@ -2252,6 +2251,7 @@ battleship
 barabora
 barad
 baradari
+bacteriosolvent
 baragnosis
 bobbiner
 baragouin
