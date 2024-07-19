@@ -9761,7 +9761,6 @@ entropy
 espanoles
 espantoon
 esparcet
-envoys
 espavel
 eryngo
 excud
@@ -13070,6 +13069,7 @@ experienced
 experiencer
 experiencible
 ensepulchre
+envoys
 extrametaphysical
 exponention
 experiencing
