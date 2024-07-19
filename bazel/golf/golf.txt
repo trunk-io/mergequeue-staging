@@ -2843,7 +2843,6 @@ genoms
 genonema
 gph
 glimpses
-goniometrical
 groot
 gunbuilder
 grizzling
@@ -3295,6 +3294,7 @@ geostrophic
 ganglands
 geotactic
 goons
+goniometrical
 geotactically
 geotaxy
 gulches
