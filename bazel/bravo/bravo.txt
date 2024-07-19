@@ -6424,7 +6424,6 @@ benzophosphinic
 benzophthalazine
 benzopinacone
 benzopyran
-benzopyranyl
 benzopyrazolone
 butyrates
 benzopyrylium
@@ -16226,6 +16225,7 @@ bruet
 brugh
 brughs
 barricado
+benzopyranyl
 brugnatellite
 bruin
 bruins
