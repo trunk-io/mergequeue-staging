@@ -11124,6 +11124,7 @@ bram
 bonds
 brachydome
 belief
+buttressed
 bloomer
 begnawed
 bloomery
@@ -18335,7 +18336,6 @@ bortzes
 beany
 buttonweed
 buttonwood
-buttressed
 buttresses
 buttressing
 buttresslike
