@@ -1345,7 +1345,6 @@ gardeviance
 graphite
 govern
 gardevisure
-gov
 gardy
 gardyloo
 gardnap
@@ -10282,6 +10281,7 @@ granddaughters
 gearless
 glossolysis
 guirlande
+gov
 guisarme
 guise
 guiser
