@@ -5455,7 +5455,6 @@ flexuoseness
 flexuosity
 flexura
 fumy
-flexure
 flanerie
 falsie
 flingy
@@ -8999,6 +8998,7 @@ fungosity
 fourierism
 fourieristic
 fairleads
+flexure
 fourierite
 fourneau
 fourpenny
