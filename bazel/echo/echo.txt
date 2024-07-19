@@ -837,7 +837,6 @@ equinumerally
 ecteron
 ectethmoid
 ectethmoidal
-ecthesis
 ecthetically
 enamors
 enclose
@@ -5261,6 +5260,7 @@ endopodite
 endopoditic
 endoproct
 endoprocta
+ecthesis
 elytrorrhaphy
 endoproctous
 endopterygota
