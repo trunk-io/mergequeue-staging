@@ -6627,7 +6627,6 @@ celandines
 celanese
 celarent
 celastraceae
-celastraceous
 celastrus
 celation
 coto
@@ -20509,6 +20508,7 @@ comparableness
 comparably
 comparascope
 comparate
+celastraceous
 craspedote
 comparatival
 comparatively
