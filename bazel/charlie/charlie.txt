@@ -6950,7 +6950,6 @@ cenogenetic
 cenogenetically
 cenogonous
 chemotropic
-cenospecies
 custodiam
 consentient
 cenospecific
@@ -19668,6 +19667,7 @@ capsulopupillary
 columnarized
 chelerythrin
 columnated
+cenospecies
 columnates
 columnating
 columnation
