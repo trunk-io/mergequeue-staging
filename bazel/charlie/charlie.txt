@@ -11896,7 +11896,6 @@ chooses
 ceramals
 calomel
 conics
-choosier
 choosing
 chop
 chopa
@@ -15541,6 +15540,7 @@ claptrap
 claptraps
 clapwort
 confluxibility
+choosier
 claque
 claquer
 concinnating
