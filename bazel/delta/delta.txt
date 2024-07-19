@@ -2501,7 +2501,6 @@ dialin
 declines
 declining
 declinograph
-declinometer
 declivate
 declive
 daer
@@ -8051,6 +8050,7 @@ dhourras
 dhow
 dhows
 dhritarashtra
+declinometer
 dhunchee
 disproportionates
 dekagramme
