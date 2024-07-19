@@ -1854,6 +1854,7 @@ banagos
 bancales
 bagpipe
 banak
+bookplates
 banal
 banality
 basketmaking
@@ -12704,7 +12705,6 @@ bookmobiles
 bookmonger
 bookplate
 blady
-bookplates
 bookpress
 bookrest
 blast
