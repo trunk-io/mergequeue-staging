@@ -6619,7 +6619,6 @@ erk
 enterokinesia
 esurient
 enterolysis
-eddies
 enterolith
 enterolobium
 extraocular
@@ -9089,6 +9088,7 @@ erythematous
 erythemic
 euboic
 eutheria
+eddies
 erythraea
 echeneidid
 erythraean
