@@ -6455,6 +6455,7 @@ gobang
 gidyea
 girl
 gambone
+guesses
 gesnerian
 galvanometrical
 gobbe
@@ -10089,7 +10090,6 @@ guessed
 glandula
 globiocephalus
 guessers
-guesses
 guessingly
 gadinine
 guessive
