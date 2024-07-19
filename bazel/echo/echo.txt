@@ -3814,6 +3814,7 @@ emer
 eucairite
 emerald
 emeralds
+enfeebling
 erratically
 emerant
 enharden
@@ -5545,7 +5546,6 @@ enfeeblements
 enfeebler
 espiritual
 enfeebles
-enfeebling
 enfelon
 emissivity
 ectomorphy
