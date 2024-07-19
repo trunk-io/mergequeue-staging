@@ -1307,6 +1307,7 @@ daughterhood
 daughterkin
 daughterless
 daughterly
+discommodities
 daughterlike
 daughterliness
 daughters
@@ -11526,7 +11527,6 @@ dermatopathology
 discommodiousness
 discommodity
 denary
-discommodities
 declaratives
 deferents
 dacryocystoblennorrhea
