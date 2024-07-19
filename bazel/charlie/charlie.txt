@@ -4103,7 +4103,6 @@ cards
 clearwing
 cardsharp
 cardsharper
-cardsharping
 cardstock
 carduaceae
 carduelis
@@ -30839,6 +30838,7 @@ cultivates
 cultivating
 cultivation
 cultivations
+cardsharping
 cultivative
 cultivator
 cultivators
