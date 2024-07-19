@@ -767,7 +767,6 @@ balsamize
 bactriticone
 blup
 bacula
-baculi
 backhoes
 baculites
 baculitic
@@ -10035,6 +10034,7 @@ brassica
 bl
 bosoming
 blaasop
+baculi
 blabbed
 bepiece
 blabbered
