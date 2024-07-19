@@ -5900,7 +5900,6 @@ gadidae
 glossectomy
 glossed
 glossem
-glosseme
 glossemic
 glosser
 glossers
@@ -6367,6 +6366,7 @@ gnosiological
 galoshed
 gillnetting
 ghana
+glosseme
 gunung
 gnostically
 gnosticity
