@@ -1811,6 +1811,7 @@ cambuca
 came
 counterobligation
 catalin
+chieftaincies
 camel
 camelback
 cameleer
@@ -10466,7 +10467,6 @@ chiefship
 chieftain
 chieftaincy
 conure
-chieftaincies
 chieftainess
 chieftainries
 chieftainship
