@@ -5795,6 +5795,7 @@ categorizer
 cyclecars
 categorizers
 childless
+clarts
 categorizes
 categorizing
 cateye
@@ -7735,7 +7736,6 @@ charivaris
 cerises
 circumnavigatory
 cerite
-clarts
 cerites
 cerithiidae
 cerithioid
