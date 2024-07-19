@@ -1508,6 +1508,7 @@ garrulousness
 garrulus
 garrupa
 gars
+gnawable
 garse
 garsil
 garston
@@ -6325,7 +6326,6 @@ genion
 gabbroic
 gigantize
 glycerizin
-gnawable
 gnawed
 gufought
 gnawer
