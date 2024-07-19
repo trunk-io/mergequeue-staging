@@ -3689,6 +3689,7 @@ bedlamic
 batsmen
 batswing
 batt
+boardmanship
 bammed
 blicky
 battable
@@ -6432,7 +6433,6 @@ byron
 benzosulfimide
 benzosulphimide
 blindstitch
-boardmanship
 batta
 benzotetrazine
 benzotetrazole
