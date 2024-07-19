@@ -4352,6 +4352,7 @@ disposers
 demarcating
 dormancy
 demarcation
+dragonhood
 dadaist
 declutch
 demarcatordemarcators
@@ -16645,7 +16646,6 @@ dragonfishes
 dragonfly
 dragonflies
 dragonhead
-dragonhood
 dragonish
 diminutive
 dragonroot
