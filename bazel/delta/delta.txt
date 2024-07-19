@@ -7742,7 +7742,6 @@ devocation
 devoice
 decandently
 devoiced
-devoices
 dinkum
 devoicing
 dorsifixed
@@ -12146,6 +12145,7 @@ disfavored
 disfavorer
 disfavoring
 disfavors
+devoices
 disorganised
 davoch
 disfavour
