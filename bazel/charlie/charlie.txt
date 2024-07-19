@@ -16552,6 +16552,7 @@ clochette
 clockbird
 clockcase
 clocked
+cutpurses
 clusiaceous
 clocker
 clockface
@@ -31852,7 +31853,6 @@ cutpurse
 conferrable
 cared
 corruptful
-cutpurses
 cutset
 cuttable
 cuttage
