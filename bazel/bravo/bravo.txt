@@ -6312,7 +6312,6 @@ beaconage
 benzanthracene
 benzanthrone
 benzantialdoxime
-bellwort
 bowyer
 benzazine
 benzazole
@@ -13887,6 +13886,7 @@ bahar
 brabagious
 brabant
 brabanter
+bellwort
 bija
 brabble
 brabbled
