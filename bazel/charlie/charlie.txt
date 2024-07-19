@@ -9912,7 +9912,6 @@ chemigraphy
 chemigraphically
 chemiloon
 chemiluminescence
-chemiluminescent
 chemin
 chicomecoatl
 chemins
@@ -16398,6 +16397,7 @@ clypeole
 cohobate
 cachrys
 countershine
+chemiluminescent
 clypeus
 clippable
 clipper
