@@ -1547,7 +1547,6 @@ faustian
 faute
 fauteuil
 feldspathoidal
-fautor
 flogged
 fauve
 fauves
@@ -7902,6 +7901,7 @@ foreseeing
 foreseeingly
 foreseen
 fittage
+fautor
 foreseer
 ferrotyping
 flirtational
