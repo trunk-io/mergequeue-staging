@@ -64,7 +64,6 @@ babbling
 babblingly
 babblings
 billiardly
-bilabials
 babblishly
 bonsai
 babbool
@@ -8582,6 +8581,7 @@ broadband
 billetwood
 bedticking
 billfish
+bilabials
 bouillons
 billfolds
 buicks

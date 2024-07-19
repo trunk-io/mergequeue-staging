@@ -12696,7 +12696,6 @@ chronique
 chronisotherm
 chronist
 chronobarometer
-cesurae
 chronobiology
 chronocarator
 chronocyclegraph
@@ -24154,6 +24153,7 @@ cowbell
 conversazioni
 converse
 conversed
+cesurae
 cratchens
 conjugally
 converser
