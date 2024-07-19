@@ -620,7 +620,6 @@ backtracks
 backtrick
 backus
 backveld
-backvelder
 babbit
 backwall
 biriani
@@ -1943,6 +1942,7 @@ bandi
 begulfing
 bandyball
 bandicoy
+backvelder
 bandicoot
 bandicoots
 bandido
