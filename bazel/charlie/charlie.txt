@@ -22755,7 +22755,6 @@ chetrums
 conquerableness
 conquerer
 conquerers
-conquering
 conqueringly
 conquerment
 conqueror
@@ -31463,6 +31462,7 @@ currish
 currock
 calumniative
 currs
+conquering
 counterinvective
 cursa
 cursal
