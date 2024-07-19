@@ -2275,7 +2275,6 @@ acheron
 acheronian
 antipapistic
 acherontic
-acherontical
 aches
 achesoun
 achete
@@ -8698,6 +8697,7 @@ airmailing
 allegoristic
 allegorize
 allegorized
+acherontical
 aubrite
 allegorizer
 archwag
