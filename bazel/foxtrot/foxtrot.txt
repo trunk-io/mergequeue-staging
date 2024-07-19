@@ -1996,7 +1996,6 @@ felanders
 feldsher
 funebrial
 feldsparphyre
-feldspath
 feldspathization
 feldspathoid
 forehook
@@ -11340,6 +11339,7 @@ furcilia
 fawning
 furcraea
 furcula
+feldspath
 faulkland
 furdel
 fended
