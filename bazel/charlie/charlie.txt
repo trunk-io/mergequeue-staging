@@ -15361,6 +15361,7 @@ clinometric
 cabiritic
 clairvoyant
 camptosorus
+countable
 clairvoyantly
 clairvoyants
 cartoons
@@ -26657,7 +26658,6 @@ counselor
 counselors
 cypher
 count
-countable
 countdom
 costae
 countdown
