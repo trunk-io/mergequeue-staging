@@ -4761,6 +4761,7 @@ firepower
 fabricator
 flagstaves
 facioscapulohumeral
+functor
 ferrotyped
 flagstick
 flagstones
@@ -11105,7 +11106,6 @@ fluviomarine
 fersmite
 functions
 fervanite
-functor
 folksinging
 fistulization
 flexuously
