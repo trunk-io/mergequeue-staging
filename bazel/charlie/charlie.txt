@@ -9358,7 +9358,6 @@ chatterbag
 chatterbox
 chatterer
 chattering
-chatteringly
 chattermag
 chattermagging
 chatters
@@ -25660,6 +25659,7 @@ condemnatory
 corpuscularian
 corpuscularity
 corpusculated
+chatteringly
 corpuscule
 corpusculous
 corpusculum
