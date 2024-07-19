@@ -492,6 +492,7 @@ falconlike
 folium
 frizer
 falcons
+frontier
 fatigation
 falcopern
 festination
@@ -10382,7 +10383,6 @@ frontcourt
 fronted
 frontenis
 fronter
-frontier
 fronds
 frontierless
 fictor
