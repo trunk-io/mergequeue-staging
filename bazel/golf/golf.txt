@@ -566,7 +566,6 @@ gastronomist
 grovelings
 gallet
 greekist
-greenlet
 guiltier
 galletas
 graminiform
@@ -10681,6 +10680,7 @@ graveolent
 guslee
 gingersnap
 galleon
+greenlet
 goldfishes
 gymnorhininae
 gasometrical
