@@ -14348,6 +14348,7 @@ chordata
 circumdate
 circumdenudation
 circumdiction
+corelative
 circumduce
 circumducing
 circumduct
@@ -25131,7 +25132,6 @@ corelating
 corelation
 corelational
 crewe
-corelative
 coreligionist
 cooperancy
 corelysis
