@@ -1966,7 +1966,6 @@ bandlessly
 bandlessness
 bandlet
 bandlimit
-bandlimiting
 bandman
 bandmaster
 bandmasters
@@ -4222,6 +4221,7 @@ beaugregories
 boordly
 beaujolais
 beaume
+bandlimiting
 bevomits
 bedeguar
 beaumont
