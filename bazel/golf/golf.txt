@@ -3243,7 +3243,6 @@ geoprumnon
 georama
 georgette
 georgiadesite
-georgian
 glasshouse
 georgiana
 guiding
@@ -6353,6 +6352,7 @@ gnomological
 gnomologist
 globate
 gnomonia
+georgian
 gnomoniaceae
 gnomonic
 gnomonical
