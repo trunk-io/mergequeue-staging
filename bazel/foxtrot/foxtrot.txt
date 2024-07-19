@@ -1574,6 +1574,7 @@ festinance
 fictionised
 faviform
 foretopman
+foggages
 flappet
 foretackle
 foretype
@@ -11440,7 +11441,6 @@ fibrinogenous
 flatway
 furnish
 furnishable
-foggages
 fascines
 foregather
 finitudes
