@@ -2530,7 +2530,6 @@ decocted
 decoctible
 decoctive
 decocts
-decoctum
 decodable
 decode
 deprecable
@@ -18281,6 +18280,7 @@ derives
 duodecillionth
 dodged
 disinclinations
+decoctum
 duodecimality
 dhurry
 desertress
