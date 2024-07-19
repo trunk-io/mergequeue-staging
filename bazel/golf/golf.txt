@@ -1745,7 +1745,6 @@ gastroenterocolitis
 gastroenterocolostomy
 gesneria
 gastroenterological
-gonfalcon
 gwen
 gastroenterostomy
 gastroenterostomies
@@ -2086,6 +2085,7 @@ gawk
 gawked
 gawkhammer
 gawky
+gonfalcon
 grunters
 gawkier
 gamecraft
