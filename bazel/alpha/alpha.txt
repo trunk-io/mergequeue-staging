@@ -8631,7 +8631,6 @@ automatictacessing
 amble
 allantoidean
 advancement
-allantoides
 allantoidian
 apomecometry
 allantoin
@@ -9933,6 +9932,7 @@ amatol
 apathus
 alumish
 amatols
+allantoides
 amatory
 amatorial
 amatorially
