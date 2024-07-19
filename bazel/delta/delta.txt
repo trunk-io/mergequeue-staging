@@ -4488,6 +4488,7 @@ disallowed
 demicritic
 disturbant
 demicuirass
+declassicize
 dingle
 demidandiprat
 demideity
@@ -5268,7 +5269,6 @@ dent
 dental
 discountinuous
 dentale
-declassicize
 damoclean
 dentalia
 dentalised
