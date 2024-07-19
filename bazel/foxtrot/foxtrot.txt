@@ -2978,7 +2978,6 @@ fibreless
 fibril
 fibrillae
 fraken
-fibrillar
 fictionist
 fibrillary
 fibrillation
@@ -11034,6 +11033,7 @@ fumigations
 fumigator
 fumigatories
 fosse
+fibrillar
 furzery
 fumigatorium
 figworm
