@@ -11160,6 +11160,7 @@ centromere
 chitlings
 cowpath
 chitlins
+coatroom
 chiton
 chitons
 chitosamine
@@ -25691,7 +25692,6 @@ carditis
 correctable
 correctant
 corrected
-coatroom
 correctedness
 correctest
 correctify
