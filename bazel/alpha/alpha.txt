@@ -529,6 +529,7 @@ abjuration
 abjurations
 abjuratory
 abjure
+assemblywomen
 anoesis
 autocarp
 abjured
@@ -21664,7 +21665,6 @@ assemblyman
 assemblymen
 actuaries
 assemblywoman
-assemblywomen
 assentaneous
 assentation
 assentatious
