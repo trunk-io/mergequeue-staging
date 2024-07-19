@@ -922,6 +922,7 @@ gametes
 gametocyst
 geison
 gametogenesis
+giftling
 gametogeny
 gametogonium
 gametoid
@@ -4017,7 +4018,6 @@ giftedly
 germanic
 gifting
 giftless
-giftling
 guanins
 gifts
 gneisses
