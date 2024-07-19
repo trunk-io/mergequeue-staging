@@ -1168,6 +1168,7 @@ grassflower
 ganymede
 gambade
 ganja
+guid
 gallinae
 ganjas
 ganner
@@ -10081,7 +10082,6 @@ guerrillaship
 gorgeret
 guesdism
 greaseproof
-guid
 gamins
 guessable
 gyrodyne
