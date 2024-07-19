@@ -3531,6 +3531,7 @@ embolon
 emboltement
 easement
 embolus
+epiural
 emborder
 embordered
 endict
@@ -8426,7 +8427,6 @@ enthraller
 epitrope
 epitrophy
 evocable
-epiural
 extradecretal
 epivalve
 extraordinariness
