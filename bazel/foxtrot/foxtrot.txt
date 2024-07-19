@@ -1672,7 +1672,6 @@ flighter
 fictation
 feague
 foreflank
-fogmen
 feal
 fealty
 fearable
@@ -9403,6 +9402,7 @@ flophouses
 franklinian
 furmeties
 franklinic
+fogmen
 fraser
 finestiller
 franklinite
