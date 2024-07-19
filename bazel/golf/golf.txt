@@ -7358,7 +7358,6 @@ gaudeamuses
 gravicembalo
 gatehouses
 gossipy
-gossypin
 gossypine
 gossipiness
 gelfomino
@@ -10090,6 +10089,7 @@ guessed
 glandula
 globiocephalus
 guessers
+gossypin
 guesses
 guessingly
 gadinine
