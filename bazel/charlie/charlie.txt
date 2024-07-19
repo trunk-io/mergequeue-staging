@@ -8729,7 +8729,6 @@ channelize
 channelized
 channelizes
 channelizing
-channelled
 channeller
 channelly
 channelling
@@ -25892,6 +25891,7 @@ corset
 corseted
 cottonopolis
 corsetier
+channelled
 corsetiere
 corseting
 corsetless
