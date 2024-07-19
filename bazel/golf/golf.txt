@@ -5516,7 +5516,6 @@ glycosaemia
 glycosemia
 glycosidase
 glycoside
-glutaraldehyde
 greet
 girlchild
 gomeral
@@ -10249,6 +10248,7 @@ guillotines
 guillotinism
 gools
 guilefully
+glutaraldehyde
 gaspergous
 gribble
 gardencraft
