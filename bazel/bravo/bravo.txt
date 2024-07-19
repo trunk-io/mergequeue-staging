@@ -265,7 +265,6 @@ bachelor
 bathypelagic
 bachelorhood
 bacterins
-bobache
 bachelorize
 bachelorship
 bachelry
@@ -9165,6 +9164,7 @@ biospeleology
 batzen
 biosphere
 babs
+bobache
 biostatic
 biostatistics
 biosterin
