@@ -10783,7 +10783,6 @@ ammelin
 ammeline
 ammeos
 ammer
-ammeters
 ammi
 ankou
 ammines
@@ -14186,6 +14185,7 @@ antibrachial
 antecede
 anteceded
 antecedence
+ammeters
 antecedency
 antecedent
 antecedental
