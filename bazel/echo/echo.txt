@@ -4572,7 +4572,6 @@ encephalomyelitis
 escapements
 entrepreneurial
 encephalomyocarditis
-encephalopathia
 encephalopathic
 endive
 ejectors
@@ -7254,6 +7253,7 @@ enzymolytic
 enzymology
 eleemosynary
 enzymologies
+encephalopathia
 enzymologist
 enzone
 ethnobotanic
