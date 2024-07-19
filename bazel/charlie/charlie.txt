@@ -3095,6 +3095,7 @@ capital
 capitaled
 conferrer
 capitalisable
+chlor
 capitalised
 citoyen
 capitaliser
@@ -11254,7 +11255,6 @@ chleuh
 chloanthite
 chloasma
 chloe
-chlor
 chloracetate
 chloraemia
 chloragogen
