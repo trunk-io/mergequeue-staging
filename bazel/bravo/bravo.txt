@@ -3590,7 +3590,6 @@ bathmic
 bathmism
 bathochromatic
 boscages
-bathochromatism
 bathochrome
 bendayed
 bleymes
@@ -10883,6 +10882,7 @@ bliss
 branchiostegous
 blisses
 blissful
+bathochromatism
 blissfully
 blist
 blister
