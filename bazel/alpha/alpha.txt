@@ -1247,6 +1247,7 @@ abv
 abvolt
 abvolts
 anim
+archaeolith
 abwatt
 abwatts
 ac
@@ -18662,7 +18663,6 @@ attermine
 archaeolater
 anticlericalism
 archaeolatry
-archaeolith
 archaeolithic
 archaeologer
 archaeologic
