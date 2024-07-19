@@ -3654,7 +3654,6 @@ adduction
 adductor
 adductors
 adiposities
-addulce
 adead
 adeem
 adeemed
@@ -19712,6 +19711,7 @@ arikara
 ariki
 aril
 aryl
+addulce
 autodifferentiation
 arylamine
 arylamino
