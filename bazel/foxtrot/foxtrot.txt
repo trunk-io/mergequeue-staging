@@ -1870,7 +1870,6 @@ federals
 federate
 federated
 flashforward
-foilsmen
 federates
 fullback
 federational
@@ -10457,6 +10456,7 @@ facebar
 flighting
 frosh
 foregoer
+foilsmen
 frostation
 flyblew
 frostbiter
