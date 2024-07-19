@@ -8156,7 +8156,6 @@ grapeline
 grapery
 graperies
 grapeskin
-grapestone
 grapevine
 grapevines
 grapewise
@@ -9186,6 +9185,7 @@ grith
 griths
 gritless
 grits
+grapestone
 gritted
 gritter
 gritty
