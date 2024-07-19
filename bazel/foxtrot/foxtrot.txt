@@ -474,7 +474,6 @@ frescoist
 funestal
 fervors
 falces
-falchion
 featherers
 fanweed
 falcial
@@ -6480,6 +6479,7 @@ firmer
 fishworks
 fibrils
 fluorotic
+falchion
 fluorouracil
 fluosilicic
 fluotantalic
