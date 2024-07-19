@@ -5583,7 +5583,6 @@ glyoxalin
 gelants
 gushier
 greenwing
-galliwasp
 glyoxime
 gummic
 glyph
@@ -7947,6 +7946,7 @@ grandfilial
 grandgore
 grieshuckle
 gymnogyps
+galliwasp
 gallanilide
 grandiflora
 geneses
