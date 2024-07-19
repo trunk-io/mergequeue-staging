@@ -851,6 +851,7 @@ ectypes
 ectoblast
 episodal
 ectoblastic
+ecdysones
 ectobronchium
 ectocardia
 ectocarpaceae
@@ -2930,7 +2931,6 @@ emplore
 elinguate
 elinguating
 extraterrestrial
-ecdysones
 electrotypic
 elinguation
 elingued
