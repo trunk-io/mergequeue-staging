@@ -1224,7 +1224,6 @@ abusefully
 alloxantin
 abusefulness
 abusers
-abuses
 abush
 abusion
 abusive
@@ -12115,6 +12114,7 @@ anathematising
 anathematism
 anathematization
 anticyclone
+abuses
 anathematize
 anathematizer
 anathematizes
