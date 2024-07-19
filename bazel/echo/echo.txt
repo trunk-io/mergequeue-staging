@@ -2926,7 +2926,6 @@ eliminators
 elymus
 enantiomorphous
 evangelistary
-emplore
 elinguate
 elinguating
 extraterrestrial
@@ -3619,6 +3618,7 @@ embrangling
 egested
 embrase
 eccoprotic
+emplore
 embrave
 embrawn
 embreach
