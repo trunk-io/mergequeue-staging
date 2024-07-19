@@ -1433,7 +1433,6 @@ fluffily
 frison
 fatsos
 fatstock
-fatted
 fattenable
 foci
 firestopping
@@ -11197,6 +11196,7 @@ fungify
 freshness
 furacious
 fatcake
+fatted
 fibrinous
 fallings
 fellside
