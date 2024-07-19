@@ -1596,7 +1596,6 @@ blennoma
 bullwhack
 bally
 balliage
-ballies
 ballyhoo
 ballyhooed
 ballyhooer
@@ -6029,6 +6028,7 @@ benchers
 benchership
 benches
 benchfellow
+ballies
 benchful
 bathysophical
 baleen
