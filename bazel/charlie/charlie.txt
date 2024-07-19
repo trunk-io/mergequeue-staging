@@ -7861,6 +7861,7 @@ cervicoaxillary
 cervicobasilar
 cervicobregmatic
 cervicodorsal
+cupolaman
 cervicofacial
 cabob
 cervicohumeral
@@ -31109,7 +31110,6 @@ crojack
 cupola
 cupolaed
 cupolaing
-cupolaman
 cupolar
 cupolas
 cotman

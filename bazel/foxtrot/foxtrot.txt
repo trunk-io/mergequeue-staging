@@ -6396,7 +6396,6 @@ fogginess
 fettuccine
 fluorenyl
 facers
-fluoresced
 fluorescein
 fluoresceine
 fluorescence
@@ -8831,6 +8830,7 @@ fossilized
 fossilizes
 frowziness
 fossilogy
+fluoresced
 fossilology
 fossilological
 frosty
