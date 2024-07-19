@@ -815,7 +815,6 @@ fanleaf
 fanlight
 fulminous
 foreseize
-fanlights
 fanmaking
 fannel
 fanner
@@ -10358,6 +10357,7 @@ framers
 fumarase
 felspath
 frondiferous
+fanlights
 fagald
 frondigerous
 frondose
