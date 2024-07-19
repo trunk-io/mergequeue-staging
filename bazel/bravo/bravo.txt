@@ -4642,6 +4642,7 @@ bacterin
 bedford
 bag
 bedfordshire
+bonce
 bedframe
 bedframes
 bints
@@ -12250,7 +12251,6 @@ bradylogia
 boluses
 bom
 bomb
-bonce
 bromiodide
 bombacaceae
 bombace
