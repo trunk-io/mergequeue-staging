@@ -3643,7 +3643,6 @@ adduced
 adducent
 adducer
 adducers
-adduces
 aboiteaux
 adduct
 adducted
@@ -4642,6 +4641,7 @@ adventures
 adventuresome
 adventuresomeness
 averrer
+adduces
 adventuress
 adventuresses
 adventuring
