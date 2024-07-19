@@ -1693,7 +1693,6 @@ accompanable
 accompany
 arrivage
 accompanied
-accompanier
 australorp
 accompanyist
 aphasiac
@@ -23061,6 +23060,7 @@ attenuation
 attenuations
 attenuative
 attenuator
+accompanier
 aphelinus
 adfix
 attenuators
