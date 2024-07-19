@@ -1928,7 +1928,6 @@ banderoled
 banderols
 banders
 bandersnatch
-billets
 bandfile
 bandfiled
 bandfish
@@ -10987,6 +10986,7 @@ brainwashed
 brained
 blockholer
 blockhouse
+billets
 blockhouses
 beveto
 bororoan
