@@ -6154,6 +6154,7 @@ gluers
 guldengroschen
 glug
 gloominess
+graftproof
 gravegarth
 gambeson
 gluier
@@ -7731,7 +7732,6 @@ glissade
 glutition
 grecizing
 gonal
-graftproof
 grafts
 gragers
 graham
