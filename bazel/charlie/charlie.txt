@@ -181,6 +181,7 @@ cabriole
 cabrioles
 cabriolet
 cabriolets
+childness
 cabrit
 cabs
 cabstand
@@ -10553,7 +10554,6 @@ childliest
 childlike
 childlikeness
 childminder
-childness
 codex
 childproof
 childre
