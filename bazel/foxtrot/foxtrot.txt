@@ -8105,7 +8105,6 @@ foreuse
 foreutter
 forevalue
 fittable
-fieldman
 forever
 forevermore
 foreverness
@@ -11506,6 +11505,7 @@ foreglimpse
 foolmonger
 furstone
 finableness
+fieldman
 furtherer
 flirt
 froggery
