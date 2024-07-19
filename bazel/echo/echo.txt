@@ -2519,7 +2519,6 @@ embleming
 electronics
 electronography
 ecad
-electrons
 epipubic
 electronvolt
 electrooptic
@@ -12751,6 +12750,7 @@ exophoric
 exophthalmic
 exophthalmos
 emotionalism
+electrons
 exoplasm
 emboweling
 exopod
