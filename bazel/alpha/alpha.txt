@@ -7050,7 +7050,6 @@ airplanist
 acieral
 airplot
 airport
-airports
 airpost
 amyxorrhoea
 airposts
@@ -23843,6 +23842,7 @@ alveoliform
 alpist
 authorisation
 authoriser
+airports
 authoritarian
 authoritarianism
 authoritarianisms

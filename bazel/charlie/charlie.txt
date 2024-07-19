@@ -8938,7 +8938,6 @@ characteristical
 characteristically
 characteristicalness
 characteristicness
-characteristics
 characterizable
 characterization
 coffeehousing
@@ -11275,6 +11274,7 @@ chloramide
 counterculturist
 contorsion
 chloramin
+characteristics
 centroid
 chloramine
 chloramphenicol
