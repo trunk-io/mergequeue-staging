@@ -3450,7 +3450,6 @@ deformation
 deformational
 deformed
 deformedly
-deformedness
 deformer
 deformeter
 deforming
@@ -11520,6 +11519,7 @@ discommode
 discommodes
 discommoding
 discommodious
+deformedness
 deficiencies
 defuze
 dreamworld
