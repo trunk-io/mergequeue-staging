@@ -1037,6 +1037,7 @@ darnel
 dissatisfyingly
 darnels
 drivelling
+dialyzer
 duodenocholecystostomy
 darner
 darnex
@@ -8364,7 +8365,6 @@ diapirs
 discapacitate
 dialyzator
 dialyzed
-dialyzer
 dialyzes
 duped
 declaiming
