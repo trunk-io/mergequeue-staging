@@ -1259,7 +1259,6 @@ ac
 acacatechin
 albuminimetry
 acacia
-admittance
 acacian
 acacias
 aneath
@@ -16081,6 +16080,7 @@ antiquation
 antisabbatarian
 antique
 antiqued
+admittance
 antiquely
 autogauge
 antiquer
