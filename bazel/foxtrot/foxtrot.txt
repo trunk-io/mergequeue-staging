@@ -3493,7 +3493,6 @@ flushingly
 fleabags
 filches
 faventine
-filching
 filchingly
 febris
 filecard
@@ -5865,6 +5864,7 @@ floodproof
 fortifiable
 floodways
 floodwall
+filching
 floodwater
 floodwood
 felinities
