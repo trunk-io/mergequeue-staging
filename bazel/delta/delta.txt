@@ -11221,7 +11221,6 @@ disbody
 disbodied
 disbosoms
 disbound
-disbowel
 disboweling
 disbowelled
 desalination
@@ -14377,6 +14376,7 @@ diversifiability
 ducatoon
 diversifiable
 diversification
+disbowel
 diversifications
 diversifier
 dakota

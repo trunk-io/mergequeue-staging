@@ -5463,7 +5463,6 @@ flingy
 fanaticalness
 flyaway
 feelers
-flyback
 fruiting
 flybane
 flibbertigibbet
@@ -9054,6 +9053,7 @@ fractus
 foveolate
 foveolated
 foveoles
+flyback
 fovilla
 frangibleness
 feminists
