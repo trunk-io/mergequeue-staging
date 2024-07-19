@@ -9257,7 +9257,6 @@ dieldrin
 dieldrins
 dyeleaves
 decennia
-deviated
 dielectric
 dielectrical
 dielectrics
@@ -12115,6 +12114,7 @@ disert
 disespouse
 disestablish
 disestablished
+deviated
 diencephalon
 disestablisher
 dispersions
