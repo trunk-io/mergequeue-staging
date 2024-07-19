@@ -8504,7 +8504,6 @@ chametz
 chamfer
 chamfered
 chamferer
-chamfering
 chamfers
 chamfrain
 cradock
@@ -10939,6 +10938,7 @@ chipmunk
 chipmunks
 chipolata
 chippable
+chamfering
 coequals
 chippage
 customization
