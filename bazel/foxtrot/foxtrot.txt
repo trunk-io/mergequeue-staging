@@ -7163,7 +7163,6 @@ friending
 fireable
 fills
 fisheyes
-farrier
 fenestra
 flodge
 footlog
@@ -8211,6 +8210,7 @@ forges
 furiosity
 forget
 fluxer
+farrier
 fianna
 forgetful
 fraps
