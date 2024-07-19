@@ -4771,6 +4771,7 @@ bestowage
 bedrocks
 bedrolls
 blanched
+bridesman
 bedrooms
 bridgemaker
 bedrown
@@ -5305,7 +5306,6 @@ beguiles
 beadsman
 beguilingly
 beguilingness
-bridesman
 beguines
 becarve
 begulfs
