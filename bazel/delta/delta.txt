@@ -696,7 +696,6 @@ destinezite
 dampproofer
 dampproofing
 damps
-damselfly
 damselflies
 diligently
 distraint
@@ -18603,6 +18602,7 @@ dechoralize
 dutiful
 dutifulness
 dolmenic
+damselfly
 dutymonger
 dutra
 dismoded
