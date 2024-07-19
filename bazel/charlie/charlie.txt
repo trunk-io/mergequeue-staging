@@ -27720,7 +27720,6 @@ cowrie
 cowries
 cows
 cowshard
-cowsharn
 cowshed
 cowsheds
 cowshot
@@ -31271,6 +31270,7 @@ commutuality
 curdier
 curdiest
 curdiness
+cowsharn
 converts
 curding
 curdle
