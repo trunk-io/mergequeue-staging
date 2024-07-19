@@ -2099,7 +2099,6 @@ acetylbenzoic
 alternariose
 acetylbiuret
 acetylcarbazole
-acetylcellulose
 acetylcholine
 acetylcholinesterase
 acetylcholinic
@@ -22823,6 +22822,7 @@ atopen
 atophan
 atopy
 atopies
+acetylcellulose
 atopite
 aplodontia
 atossa
