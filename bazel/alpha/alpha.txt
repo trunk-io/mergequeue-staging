@@ -5220,7 +5220,6 @@ aesir
 aesop
 assertorily
 aestethic
-aesthesia
 aesthesis
 aesthete
 aesthetical
@@ -20113,6 +20112,7 @@ adjectives
 annalize
 aromatised
 aromatiser
+aesthesia
 aromatitae
 aromatite
 aromatites
