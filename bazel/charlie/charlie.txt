@@ -12137,6 +12137,7 @@ choruser
 choruses
 chorusing
 cycadaceous
+cneoraceous
 chanceries
 choruslike
 chorusmaster
@@ -20751,7 +20752,6 @@ completions
 completive
 completively
 crannying
-cneoraceous
 crenellated
 canful
 completory
