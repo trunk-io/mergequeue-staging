@@ -3009,6 +3009,7 @@ barry
 barricade
 barricades
 barricadoed
+bidental
 barricadoes
 barricados
 barricoes
@@ -8103,7 +8104,6 @@ biddulphiaceae
 bide
 bidens
 bident
-bidental
 bidentalia
 bubastite
 bidentate
