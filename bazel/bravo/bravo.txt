@@ -1540,7 +1540,6 @@ balladries
 biophore
 balladromic
 ballads
-bivalence
 ballahou
 ballam
 ballas
@@ -14808,6 +14807,7 @@ burghermaster
 brasero
 breadbox
 breaker
+bivalence
 breakerman
 baja
 breakermen
