@@ -3154,6 +3154,7 @@ actinoelectrically
 axbreaker
 anaesthetist
 actinoelectricity
+acuity
 antivermicular
 actinogram
 accinging
@@ -21806,7 +21807,6 @@ assyriology
 assyriological
 assyriologist
 aliases
-acuity
 assyriologue
 assis
 assisa
