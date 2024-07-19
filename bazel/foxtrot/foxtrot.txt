@@ -2452,7 +2452,6 @@ ferox
 ferrara
 flockier
 ferrarese
-ferrary
 ferrash
 ferrate
 funge
@@ -8842,6 +8841,7 @@ fossulae
 fossulate
 fossule
 flowchart
+ferrary
 ferrocerium
 forgette
 fedn
