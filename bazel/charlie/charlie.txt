@@ -16172,7 +16172,6 @@ crosshairs
 clients
 clientship
 clyer
-clyfaker
 cliff
 cliffed
 comenic
@@ -27562,6 +27561,7 @@ cadency
 cephalopodan
 coves
 claquers
+clyfaker
 covet
 coveted
 coveter
