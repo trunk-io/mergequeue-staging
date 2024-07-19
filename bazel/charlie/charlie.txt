@@ -9049,7 +9049,6 @@ chariot
 compotator
 charioted
 chariotee
-charioteer
 charioteers
 circovarian
 crescentwise
@@ -22391,6 +22390,7 @@ carnary
 congresso
 congresswoman
 congrid
+charioteer
 congridae
 congroid
 compoing
