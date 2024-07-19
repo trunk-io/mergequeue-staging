@@ -3585,6 +3585,7 @@ embowered
 embowering
 embowerment
 embowers
+endorsement
 embowing
 embowment
 embows
@@ -6573,7 +6574,6 @@ enteroceptor
 expandability
 equimultiple
 erotopathy
-endorsement
 epilate
 enterocinesia
 enterocinetic
