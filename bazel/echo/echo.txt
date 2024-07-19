@@ -2412,7 +2412,6 @@ emborders
 electroethereal
 electroextraction
 expedient
-expos
 electroform
 electroforming
 electrofuse
@@ -11948,6 +11947,7 @@ equaeval
 excepable
 exobasidiaceae
 eppes
+expos
 excepter
 exportability
 enterate
