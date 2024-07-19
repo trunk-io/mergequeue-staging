@@ -11660,7 +11660,6 @@ deglamorized
 discordful
 discordia
 discordous
-discords
 discorporate
 discorrespondency
 depreter
@@ -15690,6 +15689,7 @@ doric
 dipneusti
 dopped
 doppelganger
+discords
 doppelkummel
 dopper
 diversiflorate
