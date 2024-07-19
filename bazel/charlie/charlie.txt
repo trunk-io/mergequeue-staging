@@ -1363,7 +1363,6 @@ calypters
 calyptoblastea
 calyptorhynchus
 calyptraea
-calyptranthes
 calyptras
 calyptrata
 challah
@@ -3641,6 +3640,7 @@ counterstimulation
 carbineer
 carbineers
 carbines
+calyptranthes
 carbinyl
 carbinol
 corrugating
