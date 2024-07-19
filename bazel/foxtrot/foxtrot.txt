@@ -5872,6 +5872,7 @@ frument
 flook
 floorages
 foveated
+filaze
 fala
 fluminous
 floored
@@ -8625,7 +8626,6 @@ fort
 fortake
 fortalice
 fortepiano
-filaze
 fanlike
 fortes
 fortescue
