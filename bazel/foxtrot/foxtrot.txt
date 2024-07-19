@@ -1076,6 +1076,7 @@ farmtown
 farnesol
 farness
 farnesses
+friseur
 faro
 fleyland
 flaccidly
@@ -10140,7 +10141,6 @@ frises
 flintlock
 flaxwoman
 frisettes
-friseur
 form
 fozinesses
 friedman
