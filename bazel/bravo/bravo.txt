@@ -5174,6 +5174,7 @@ begash
 begass
 begat
 begats
+begruntle
 begattal
 begaud
 baronizing
@@ -8848,7 +8849,6 @@ binodous
 binomen
 binomenclature
 bakelite
-begruntle
 binomialism
 binomials
 bunchbacked
