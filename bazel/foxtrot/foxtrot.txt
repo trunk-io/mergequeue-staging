@@ -5874,7 +5874,6 @@ floorages
 foveated
 fala
 fluminous
-floored
 floorer
 falderals
 floorhead
@@ -6269,6 +6268,7 @@ fragmentitious
 fisheater
 fluidity
 finestill
+floored
 fluidities
 fluidization
 fluidize
