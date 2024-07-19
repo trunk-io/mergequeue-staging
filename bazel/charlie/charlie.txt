@@ -3429,6 +3429,7 @@ capucine
 capuli
 capulin
 caput
+costotomy
 catenoid
 caque
 caquet
@@ -26307,7 +26308,6 @@ costopleural
 chillo
 costoscapular
 costotome
-costotomy
 costotomies
 costotrachelian
 conduceability
