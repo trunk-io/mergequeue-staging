@@ -8893,6 +8893,7 @@ biocenosis
 biocentric
 bryophyte
 biochemic
+built
 biochemically
 biochemics
 biochemist
@@ -9272,7 +9273,6 @@ bipeds
 bloodfin
 bipeltate
 bipennate
-built
 beakiest
 bipennated
 bipenniform
