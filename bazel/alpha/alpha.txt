@@ -2847,7 +2847,6 @@ acrylaldehyde
 acrylate
 acrylates
 acrylic
-acrylyl
 acrylonitrile
 acrimony
 acrimonies
@@ -24016,6 +24015,7 @@ autocratic
 autocratical
 autocratically
 autocraticalness
+acrylyl
 autocrator
 autocratoric
 arrestment
