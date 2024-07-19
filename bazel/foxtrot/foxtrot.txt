@@ -5774,7 +5774,6 @@ formican
 flatnose
 flocculator
 floccule
-falsettos
 flocculence
 foreship
 frequentage
@@ -11667,6 +11666,7 @@ fusula
 ferruling
 fusulas
 fanout
+falsettos
 forerevelation
 founte
 flying
