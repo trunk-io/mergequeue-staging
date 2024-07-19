@@ -4019,7 +4019,6 @@ besmirched
 beallach
 bulletproofed
 bealtared
-beam
 beamer
 beamful
 bechances
@@ -16632,6 +16631,7 @@ bucktail
 bucktails
 buckteeth
 blears
+beam
 buckthorn
 bucktooth
 blithe
