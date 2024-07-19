@@ -5927,6 +5927,7 @@ florate
 floreal
 fleetwing
 floreat
+fratch
 floreated
 fliped
 furnaced
@@ -8778,7 +8779,6 @@ foss
 flapdragon
 flunks
 fossage
-fratch
 flaxes
 fossane
 falutin
