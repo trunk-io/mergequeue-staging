@@ -5901,7 +5901,6 @@ enhydros
 enhypostasia
 equitability
 enhypostasis
-enhypostatic
 enhypostatize
 enhorror
 enhort
@@ -10244,6 +10243,7 @@ ethenol
 ethmolachrymal
 etheostoma
 establishing
+enhypostatic
 ether
 etherate
 etherealisation
