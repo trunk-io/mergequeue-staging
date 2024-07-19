@@ -6843,6 +6843,7 @@ entoderms
 enstyle
 entoglossal
 ee
+enneatic
 epigones
 entohyal
 eupnoea
@@ -11635,7 +11636,6 @@ eviscerated
 expy
 euphemious
 entomofauna
-enneatic
 eviscerates
 eviscerating
 eluviate
