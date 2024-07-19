@@ -2701,7 +2701,6 @@ elegises
 epigraph
 electrepeter
 enlinkment
-elegist
 elegists
 elegit
 elegized
@@ -11713,6 +11712,7 @@ ebonizes
 etherialism
 eweries
 eruditely
+elegist
 ewes
 erythrine
 ewest
