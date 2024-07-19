@@ -8890,7 +8890,6 @@ chapstick
 chapt
 chaptalization
 chaptalizing
-chapteral
 chaptered
 chaptering
 chapters
@@ -27974,6 +27973,7 @@ craftily
 craftiness
 cattier
 crafting
+chapteral
 craftless
 craftmanship
 crafts
