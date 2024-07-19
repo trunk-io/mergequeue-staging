@@ -9838,7 +9838,6 @@ chelidosaurus
 chelydra
 chelydre
 coenamors
-chelydridae
 chelydroid
 chelifer
 cheliferous
@@ -25210,6 +25209,7 @@ corymbiated
 corymbiferous
 cassiduloidea
 corymbiform
+chelydridae
 corymblike
 corymbous
 coinquinate
