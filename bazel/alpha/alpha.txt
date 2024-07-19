@@ -7341,7 +7341,6 @@ amperometer
 autophon
 alain
 arrowsmith
-anteflexed
 alaki
 adrammelech
 alaloi
@@ -7446,6 +7445,7 @@ alaunt
 alba
 albacora
 albacores
+anteflexed
 albahaca
 alban
 albanensian

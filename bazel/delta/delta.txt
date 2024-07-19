@@ -5406,7 +5406,6 @@ disauthentic
 dentololabial
 dentonasal
 dentosurgical
-disrate
 dentulous
 dentural
 disturbative
@@ -15869,6 +15868,7 @@ dorsosternal
 drowsily
 dorsothoracic
 diablotin
+disrate
 dorsoventral
 dorsoventrality
 dorsoventrally
