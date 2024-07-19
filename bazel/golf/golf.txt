@@ -4967,6 +4967,7 @@ gantries
 gyve
 gammexane
 glaciologic
+gland
 guianan
 given
 guarabu
@@ -5943,7 +5944,6 @@ glossocoma
 glossodynamometer
 gauderies
 grizzlies
-gland
 glossoepiglottic
 glossographer
 greatened

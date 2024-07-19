@@ -15,6 +15,7 @@ aam
 aani
 aardvark
 aardvarks
+additory
 aardwolf
 agrising
 aargh
@@ -3583,7 +3584,6 @@ assertorial
 afforce
 ammoniacal
 additivity
-additory
 additur
 addlebrained
 addlehead
