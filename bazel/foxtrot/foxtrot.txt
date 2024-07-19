@@ -701,7 +701,6 @@ famishes
 frohlich
 famishing
 famose
-famous
 famously
 famp
 famular
@@ -5306,6 +5305,7 @@ fledgling
 fledglings
 furl
 fleece
+famous
 fleeceflower
 fleeceless
 fascinations
