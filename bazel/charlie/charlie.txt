@@ -2631,7 +2631,6 @@ cannonballs
 cannoned
 chittered
 cannoneering
-cannoneers
 coitus
 cannonier
 cannonry
@@ -27945,6 +27944,7 @@ cracowe
 craddy
 cradge
 checkstone
+cannoneers
 cradle
 cradleboard
 cradlechild
