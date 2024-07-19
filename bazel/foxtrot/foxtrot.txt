@@ -1136,7 +1136,6 @@ forboding
 farthingless
 filiates
 farts
-foldure
 fascia
 feudally
 fens
@@ -1662,6 +1661,7 @@ fchar
 fipenny
 fcomp
 furling
+foldure
 fractal
 fconvert
 farcin
