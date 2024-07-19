@@ -5604,7 +5604,6 @@ belemnid
 behavioral
 belemnitic
 belemnitidae
-belemnoid
 bowssen
 boer
 belemnoidea
@@ -16976,6 +16975,7 @@ bismutite
 bulge
 bulged
 bibliothecarial
+belemnoid
 bulgers
 bersim
 bulgy

@@ -8699,7 +8699,6 @@ allegoristic
 allegorize
 allegorized
 aubrite
-allegorizer
 archwag
 allegorizing
 allegresse
@@ -21977,6 +21976,7 @@ asswage
 asswaged
 asswages
 ast
+allegorizer
 asta
 admen
 astable
