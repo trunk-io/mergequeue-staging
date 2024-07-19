@@ -775,7 +775,6 @@ bronchophony
 baculiticone
 bdrm
 baculums
-bacury
 bad
 busload
 bonzian
@@ -7313,6 +7312,7 @@ bethanked
 bethankit
 bethel
 beliquored
+bacury
 bethels
 broncholith
 bibliophiles
