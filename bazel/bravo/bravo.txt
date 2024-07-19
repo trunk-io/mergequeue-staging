@@ -792,7 +792,6 @@ badasses
 badaud
 badawi
 badaxe
-badchan
 beggarliness
 baddest
 baddy
@@ -12246,6 +12245,7 @@ boltonias
 boltonite
 boltropes
 boltsmith
+badchan
 boltstrake
 boltwork
 bradylogia
