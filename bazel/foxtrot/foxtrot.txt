@@ -4767,6 +4767,7 @@ flagstaves
 facioscapulohumeral
 ferrotyped
 flagstick
+feminality
 flagstones
 flagworm
 felinophobe
@@ -11484,7 +11485,6 @@ faecal
 furrieries
 fictionising
 furriers
-feminality
 furrily
 furriner
 furriners

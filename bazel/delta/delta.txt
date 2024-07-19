@@ -15074,6 +15074,7 @@ dysodile
 dogrib
 disclosed
 dogs
+doto
 dogsbody
 dogsbodies
 discrepated
@@ -15990,7 +15991,6 @@ drabbish
 dotkin
 drepanis
 dotlet
-doto
 dispeopled
 dotonidae
 dots
