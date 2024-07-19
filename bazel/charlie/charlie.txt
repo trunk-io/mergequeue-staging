@@ -11246,7 +11246,6 @@ chlamydosaurus
 comparograph
 chlamydoselachidae
 clithral
-chlamydoselachus
 chlamydozoan
 chlamyphore
 confiding
@@ -20550,6 +20549,7 @@ compass
 compassability
 compassed
 compasses
+chlamydoselachus
 compassing
 compassion
 catechu
