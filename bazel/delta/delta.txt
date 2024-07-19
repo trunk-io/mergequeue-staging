@@ -3865,6 +3865,7 @@ dejectile
 dysphemism
 dejecting
 disobeyer
+denudating
 dejectly
 dejectory
 dejects
@@ -5416,7 +5417,6 @@ denudant
 denudate
 denudated
 denudates
-denudating
 denudation
 dehusk
 dematerialising
