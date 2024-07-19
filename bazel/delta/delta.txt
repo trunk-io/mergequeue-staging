@@ -6623,7 +6623,6 @@ desertlike
 desertrice
 deserts
 desertward
-deserved
 drumslade
 deservedly
 deserveless
@@ -11457,6 +11456,7 @@ discolorate
 discolorated
 decarburization
 discoloration
+deserved
 discolorations
 discoloredness
 discoloring
