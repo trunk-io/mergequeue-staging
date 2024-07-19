@@ -2586,7 +2586,6 @@ elaeagnus
 electropsychrometer
 embrasured
 electropuncturation
-electropuncture
 epimerised
 electropuncturing
 embarrass
@@ -12609,6 +12608,7 @@ exited
 exiting
 extrameridian
 exition
+electropuncture
 exitious
 epizoite
 exiture
