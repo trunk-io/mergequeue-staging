@@ -2451,7 +2451,6 @@ belonged
 barcas
 biofog
 bosons
-beja
 boxwork
 barchan
 barche
@@ -4797,6 +4796,7 @@ bedsprings
 bedstaff
 bedstaves
 bedstead
+beja
 balopticon
 brecciating
 bedsteads
