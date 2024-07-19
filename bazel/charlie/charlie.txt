@@ -7605,7 +7605,6 @@ cerebellum
 cerebellums
 cerebra
 cerebral
-cerebralgia
 cerebralism
 caramelization
 cerebralist
@@ -20454,6 +20453,7 @@ compacted
 compactedness
 compactest
 compactible
+cerebralgia
 compactify
 compactile
 compacting
