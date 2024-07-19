@@ -411,7 +411,6 @@ gardenable
 galegine
 galei
 gumshoes
-galempong
 gabelled
 garbel
 granat
@@ -3531,6 +3530,7 @@ gerridae
 gerrymander
 grinderman
 gerrymandered
+galempong
 gimme
 galoisian
 gleed
