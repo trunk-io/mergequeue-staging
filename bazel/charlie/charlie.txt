@@ -443,6 +443,7 @@ cantlet
 cnidosis
 caddiced
 caddicefly
+configuration
 caddices
 caddie
 caddied
@@ -22022,7 +22023,6 @@ configurate
 configurated
 configurating
 crypts
-configuration
 configurationally
 configurationism
 configurationist
