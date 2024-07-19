@@ -5998,7 +5998,6 @@ glottal
 gynecomania
 garibaldi
 glottalization
-glottalize
 grumphie
 gymnurinae
 groundbreaker
@@ -7367,6 +7366,7 @@ gossipingly
 glaucopis
 gawker
 gossipmonger
+glottalize
 gossypose
 gossipped
 gossipred
