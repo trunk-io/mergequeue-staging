@@ -4811,7 +4811,6 @@ bedticks
 bices
 bedub
 beduchess
-beduck
 beduins
 beduke
 bedull
@@ -10505,6 +10504,7 @@ blatiform
 blatjang
 blats
 blatta
+beduck
 blattariae
 blatted
 blattered
