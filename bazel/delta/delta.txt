@@ -28,6 +28,7 @@ dabs
 dabster
 dakoities
 dabsters
+drawtongs
 dace
 dacelo
 decken
@@ -16877,7 +16878,6 @@ drawstop
 dinoceratid
 drawstring
 drawstrings
-drawtongs
 drawtube
 drazel
 dread
