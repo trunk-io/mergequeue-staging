@@ -6491,7 +6491,6 @@ foamily
 fictionisation
 flushboard
 flushed
-flusher
 flusherman
 flushers
 flushes
@@ -8771,6 +8770,7 @@ forzato
 fosie
 fosite
 flagitiously
+flusher
 freckleproof
 foss
 flapdragon
