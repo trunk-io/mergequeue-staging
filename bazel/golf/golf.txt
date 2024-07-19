@@ -1855,7 +1855,6 @@ gastrotheca
 gastrotympanites
 gastrotome
 guinfo
-gastrotomy
 gastrotomies
 gardevin
 gastrovascular
@@ -5503,6 +5502,7 @@ glycopexis
 grizelin
 glycoproteid
 glycosaemia
+gastrotomy
 glycosemia
 glycosidase
 glycoside
