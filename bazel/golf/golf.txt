@@ -7877,7 +7877,6 @@ gemmiparity
 gagor
 gaddish
 grampuses
-grams
 gumless
 granada
 granadilla
@@ -8112,6 +8111,7 @@ grantiidae
 gametophoric
 gratification
 grantors
+grams
 grants
 grantsmen
 granula

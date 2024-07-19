@@ -2124,7 +2124,6 @@ elapsoidea
 exonerating
 elargement
 elasmobranch
-elasmobranchii
 elasmothere
 eelfish
 epigrammatist
@@ -8396,6 +8395,7 @@ equivocating
 epikouros
 epitomatory
 epitome
+elasmobranchii
 epitomes
 euchology
 epitomic
