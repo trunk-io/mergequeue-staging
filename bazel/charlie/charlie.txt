@@ -4312,7 +4312,6 @@ carisa
 concertina
 carisoprodol
 carissa
-caritas
 caritative
 carites
 carity
@@ -11622,6 +11621,7 @@ cozies
 cholecystnephrostomy
 cholecystocolotomy
 cholecystogastrostomy
+caritas
 cholecystogram
 cholecystography
 cholecystojejunostomy
