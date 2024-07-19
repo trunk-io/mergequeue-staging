@@ -6915,7 +6915,6 @@ els
 entophytal
 entophytic
 entoplasm
-entoplastron
 entopopliteal
 entoprocta
 exsectile
@@ -14027,6 +14026,7 @@ extravehicular
 extravenate
 extraventricular
 examinations
+entoplastron
 equisetaceous
 effable
 extrahepatic
