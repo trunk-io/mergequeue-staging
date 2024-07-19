@@ -16710,7 +16710,6 @@ cloriodid
 clos
 closable
 close
-closecross
 closedown
 closefistedly
 closefistedness
@@ -24727,6 +24726,7 @@ copperproof
 coppersidesman
 copperskin
 coppersmith
+closecross
 cabirian
 copperware
 copperworks
