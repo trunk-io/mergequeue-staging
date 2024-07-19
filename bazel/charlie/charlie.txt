@@ -8447,7 +8447,6 @@ compinge
 chamaecrista
 coppice
 chamaeleo
-chamaeleon
 chamaeleontidae
 chamaelirium
 comacine
@@ -19500,6 +19499,7 @@ colosso
 colossochelys
 colossus
 colossuses
+chamaeleon
 colossuswise
 colostomy
 colostomies
