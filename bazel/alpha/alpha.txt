@@ -5104,7 +5104,6 @@ aeromarine
 agitprops
 aeromechanic
 aeromechanical
-aeromechanics
 aeromedical
 aeromedicine
 antimasque
@@ -7998,6 +7997,7 @@ aletris
 alette
 aleucaemic
 augmentive
+aeromechanics
 aleucemic
 aleukaemic
 autoerotically
