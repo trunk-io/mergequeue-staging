@@ -5505,7 +5505,6 @@ contentful
 catalinite
 cymba
 catalyse
-catalyses
 catalysis
 carretera
 catalyst
@@ -7300,6 +7299,7 @@ counterabut
 cephadia
 cephaeline
 cephala
+catalyses
 cornic
 cephalacanthidae
 cephalacanthus
