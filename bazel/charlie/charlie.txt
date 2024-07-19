@@ -12095,7 +12095,6 @@ chorobates
 chorogi
 chorograph
 chorographer
-chorographic
 chorographical
 chorographically
 choroid
@@ -15230,6 +15229,7 @@ clachan
 clachans
 clachs
 clackama
+chorographic
 clackdish
 clacked
 clacker
