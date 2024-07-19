@@ -7078,7 +7078,6 @@ goolde
 gooma
 guavaberry
 goombay
-gyrofrequency
 goon
 goonch
 gardant
@@ -8163,6 +8162,7 @@ grapewise
 graphalloy
 gyrostatic
 groover
+gyrofrequency
 geck
 graphed
 gelatines
