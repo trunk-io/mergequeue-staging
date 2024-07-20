@@ -2975,6 +2975,7 @@ elytral
 elatrometer
 elytriferous
 elytriform
+equates
 elytrin
 ephemerae
 empathizing
@@ -8582,7 +8583,6 @@ equanimously
 equant
 equatability
 equatable
-equates
 equation
 equational
 equationist
