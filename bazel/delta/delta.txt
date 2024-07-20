@@ -6472,7 +6472,6 @@ desands
 desaturation
 dunkirk
 desaurin
-dedicatory
 diabolarch
 desc
 descale
@@ -10522,6 +10521,7 @@ dillesk
 diphthongation
 diphthonged
 dusty
+dedicatory
 demobilizing
 diphthongisation
 diddest
