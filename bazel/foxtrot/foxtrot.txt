@@ -6883,7 +6883,6 @@ folious
 foliums
 folk
 folkcraft
-folkfree
 fascistically
 folkishness
 forereading
@@ -10589,6 +10588,7 @@ frozen
 frozenhearted
 frozenly
 frozenness
+folkfree
 fatbrained
 fastenings
 frsiket
