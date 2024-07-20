@@ -7671,7 +7671,6 @@ cerecloth
 cellarway
 cerecloths
 cered
-cerement
 cerements
 convincingness
 ceremony
@@ -29804,6 +29803,7 @@ curtails
 crooned
 crooner
 crooners
+cerement
 crooning
 cerata
 crooningly
