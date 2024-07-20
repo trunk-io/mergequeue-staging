@@ -8971,7 +8971,6 @@ gulph
 grihyasutra
 grike
 grill
-grillade
 grilladed
 grillades
 grizzlers
@@ -10728,6 +10727,7 @@ geometriform
 guts
 gutser
 gigadoid
+grillade
 gutsy
 gutsier
 gruffier
