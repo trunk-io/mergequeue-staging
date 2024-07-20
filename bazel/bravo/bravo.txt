@@ -1615,7 +1615,6 @@ bipartite
 braggite
 ballismus
 ballista
-bigoted
 ballistae
 begrims
 bijous
@@ -12627,6 +12626,7 @@ bookable
 bicycle
 bookbind
 bookbinder
+bigoted
 bookbindery
 baianism
 bookbinderies
