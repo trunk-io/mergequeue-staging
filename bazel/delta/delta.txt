@@ -5628,7 +5628,6 @@ daunders
 deperms
 depersonalise
 depersonalising
-demodulator
 depersonalization
 depersonalized
 desensitized
@@ -13361,6 +13360,7 @@ disquieten
 disquieter
 disquietingness
 disquietly
+demodulator
 disquietness
 disquiets
 disquietudes
