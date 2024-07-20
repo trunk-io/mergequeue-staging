@@ -14671,7 +14671,6 @@ doblas
 darjeeling
 doblon
 deallocations
-dobos
 dobra
 dobrao
 dashing
@@ -17375,6 +17374,7 @@ dropcloth
 docmac
 dropflower
 droopingly
+dobos
 dropforge
 dropforger
 drophead
