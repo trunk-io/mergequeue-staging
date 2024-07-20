@@ -14184,7 +14184,6 @@ antecede
 anteceded
 antecedence
 antecedency
-antecedent
 antecedental
 antecedes
 antispermotoxin
@@ -19946,6 +19945,7 @@ armenite
 angolese
 armer
 armeria
+antecedent
 armeriaceae
 armers
 armet
