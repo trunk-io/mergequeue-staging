@@ -3481,7 +3481,6 @@ appassionate
 adaptiveness
 asteatosis
 adaptivity
-adaptometer
 arnold
 adaptor
 adaptors
@@ -20840,6 +20839,7 @@ aready
 arum
 arumin
 arumlike
+adaptometer
 arums
 aruncus
 arundiferous
