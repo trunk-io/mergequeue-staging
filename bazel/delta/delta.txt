@@ -9946,7 +9946,6 @@ dimethylsulfoxide
 dimethylsulphoxide
 dimethyltryptamine
 dimethoate
-dimethoxy
 dimetient
 dimetria
 dimetric
@@ -16370,6 +16369,7 @@ demilitarize
 darwinical
 downpipe
 downplay
+dimethoxy
 downplayed
 draconically
 downplays
