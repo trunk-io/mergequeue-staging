@@ -5034,7 +5034,6 @@ endited
 endites
 enditing
 electrosynthetic
-eichwaldite
 evens
 endleaf
 endleaves
@@ -5176,6 +5175,7 @@ endoergic
 endogastrically
 endogastritis
 endogen
+eichwaldite
 endogenicity
 endogenies
 endogenously
