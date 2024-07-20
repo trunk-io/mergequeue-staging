@@ -9362,7 +9362,6 @@ errorless
 errors
 errs
 ersatz
-ersatzes
 erse
 ersh
 embracery
@@ -9960,6 +9959,7 @@ esterify
 electrohydraulically
 esterification
 esterifies
+ersatzes
 esterifying
 esterize
 endore
