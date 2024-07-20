@@ -3407,7 +3407,6 @@ germanics
 germanify
 garget
 germanification
-germanyl
 germanish
 germanism
 grauwacke
@@ -9909,6 +9908,7 @@ guarantee
 grenade
 guaranteed
 guarantees
+germanyl
 gametophore
 guaranteing
 gastrogenital
