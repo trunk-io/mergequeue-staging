@@ -4410,7 +4410,6 @@ carnallite
 carnalness
 carnaria
 cura
-carnassial
 cornrick
 carnate
 carnation
@@ -20341,6 +20340,7 @@ commotions
 commotive
 counterparallel
 commove
+carnassial
 commoved
 commoves
 commulative
