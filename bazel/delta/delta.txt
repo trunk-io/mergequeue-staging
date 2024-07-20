@@ -4971,7 +4971,6 @@ denar
 disensure
 deriders
 denaries
-dipmeter
 denarii
 dellenite
 denarinarii
@@ -16283,6 +16282,7 @@ dowless
 diphthongic
 diffraction
 diaglyphic
+dipmeter
 dowment
 downbear
 depurant
