@@ -1488,7 +1488,6 @@ accent
 amentulum
 accentless
 anticnemion
-airtightly
 accentor
 accentors
 accents
@@ -16393,6 +16392,7 @@ adiabatically
 autochthon
 aluta
 apprentice
+airtightly
 antitoxic
 antitoxin
 antitoxine
