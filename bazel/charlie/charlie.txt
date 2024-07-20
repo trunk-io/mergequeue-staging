@@ -9241,7 +9241,6 @@ chasm
 chasma
 cryptophyceae
 chasmal
-conidium
 chasmic
 chasmogamy
 chimarikan
@@ -25641,6 +25640,7 @@ corporeity
 crankier
 corporeous
 corporify
+conidium
 corporosity
 corposant
 corps

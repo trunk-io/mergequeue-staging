@@ -6470,7 +6470,6 @@ gobbling
 gobelin
 gaut
 gooey
-gobemouche
 gobet
 glow
 giraffine
@@ -7104,6 +7103,7 @@ goosebeak
 gooseberry
 gooseberries
 goosebill
+gobemouche
 gooseboy
 goosebone
 goosed
