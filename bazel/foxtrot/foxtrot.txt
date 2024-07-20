@@ -2040,7 +2040,6 @@ fellable
 full
 felinity
 flocoon
-fellowshipped
 fricandeaus
 fellagha
 fellah
@@ -10764,6 +10763,7 @@ frutices
 fruticeta
 fruticetum
 fruticose
+fellowshipped
 feedboard
 frwy
 formular
