@@ -2840,7 +2840,6 @@ acrylic
 acrylonitrile
 acrimony
 acrimonies
-acrimonious
 ansulate
 acrimoniously
 acrimoniousness
@@ -6293,6 +6292,7 @@ abusable
 aglycones
 aglycons
 associative
+acrimonious
 anankastic
 aglycosuric
 aglypha
