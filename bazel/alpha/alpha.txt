@@ -1734,7 +1734,6 @@ aseptolin
 accorder
 acerval
 according
-accordingly
 accordion
 accordionist
 abrased
@@ -24530,6 +24529,7 @@ auxiliate
 auxiliation
 auxiliator
 auxilium
+accordingly
 addictive
 auxillary
 auximone
