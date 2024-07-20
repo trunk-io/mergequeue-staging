@@ -4210,6 +4210,7 @@ fireworkless
 festa
 firings
 frays
+foreglow
 follower
 freeport
 firk
@@ -9073,7 +9074,6 @@ foxbane
 foxberry
 frictionizing
 foxberries
-foreglow
 foxer
 foxery
 foxes
