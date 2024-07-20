@@ -4099,7 +4099,6 @@ delimitation
 delimitations
 delimited
 delimiter
-derelicts
 delimiting
 delimitize
 doombook
@@ -9058,6 +9057,7 @@ digeny
 disrespect
 dictating
 dimwittedly
+derelicts
 dictatingly
 derfly
 dictation
