@@ -1113,7 +1113,6 @@ fanfaron
 farsalah
 farseeing
 farseeingness
-farset
 filchers
 farsight
 familiarism
@@ -7533,6 +7532,7 @@ foreclosed
 foreclosure
 freebies
 forebearing
+farset
 foreconceive
 foreconclude
 flagger
