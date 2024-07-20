@@ -2085,7 +2085,6 @@ banya
 banyai
 bimester
 banians
-banig
 baniya
 banilad
 banyoro
@@ -14861,6 +14860,7 @@ bandh
 bagaudae
 batara
 brothership
+banig
 breath
 boatside
 battutas
