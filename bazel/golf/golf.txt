@@ -5384,7 +5384,6 @@ grassworm
 galbanum
 glenlike
 glenlivet
-gunks
 goldilocks
 gluten
 gain
@@ -7732,6 +7731,7 @@ goosy
 graybacks
 gastropancreatitis
 graybearded
+gunks
 glycidol
 graycoat
 grayed

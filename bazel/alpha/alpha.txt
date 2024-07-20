@@ -4442,6 +4442,7 @@ adrenin
 adrenochrome
 adrenocorticosteroid
 adrenocorticotrophic
+anticyclogenesis
 ammonolysis
 aneurine
 adrenocorticotrophin
@@ -14984,7 +14985,6 @@ anticyclic
 anticyclical
 anticyclically
 attributed
-anticyclogenesis
 anticyclolysis
 anticyclonic
 antinovelist
