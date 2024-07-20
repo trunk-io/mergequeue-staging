@@ -1799,6 +1799,7 @@ eyeish
 endungeon
 eyelash
 etude
+empathizes
 eyelashes
 eyelast
 eikones
@@ -4057,7 +4058,6 @@ empathic
 elaborateness
 experimentalize
 empathize
-empathizes
 empemata
 embrangled
 empennage
