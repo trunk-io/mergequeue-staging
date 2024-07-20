@@ -9431,6 +9431,7 @@ chauth
 cucurb
 clothbound
 chauve
+chlorate
 chauvin
 chauvinism
 chauvinistic
@@ -11753,7 +11754,6 @@ chomp
 chomped
 chompers
 chomping
-chlorate
 chomps
 cirterion
 commissionary
