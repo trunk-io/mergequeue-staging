@@ -7286,6 +7286,7 @@ detests
 dethyroidism
 dele
 dethronable
+draffsack
 deuterostome
 dissipated
 diastral
@@ -16570,7 +16571,6 @@ divertisement
 draffman
 defibrillate
 draffs
-draffsack
 dasyproctine
 draftable
 drafted
