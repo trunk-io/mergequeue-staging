@@ -3103,6 +3103,7 @@ geoidal
 glauber
 grammontine
 geoids
+glutted
 gadoid
 geolatry
 gadrooned
@@ -6213,7 +6214,6 @@ glutinous
 glutinousness
 gamble
 glutoid
-glutted
 glutter
 gluttery
 glutting
