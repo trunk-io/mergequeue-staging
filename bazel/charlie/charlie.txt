@@ -13390,7 +13390,6 @@ chessart
 cyclogenesis
 cyclograph
 cyclographer
-cycloheptane
 chemosterilant
 cycloheptanone
 cyclohexadienyl
@@ -14364,6 +14363,7 @@ checkline
 circumference
 circumferences
 complots
+cycloheptane
 circumferential
 circumferentially
 cuorin

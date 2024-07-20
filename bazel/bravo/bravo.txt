@@ -1231,6 +1231,7 @@ bakeshop
 bakeshops
 bakestone
 bakhtiari
+bedouins
 baking
 benet
 bedwards
@@ -4728,7 +4729,6 @@ bedotted
 bushelers
 bedouin
 bedouinism
-bedouins
 bedouse
 bradding
 bedpan
