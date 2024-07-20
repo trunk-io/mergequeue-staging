@@ -1341,7 +1341,6 @@ fatherland
 frogged
 folkmoot
 fluoroscopically
-fender
 fleckled
 foreacquaint
 fatherlandish
@@ -6934,6 +6933,7 @@ foll
 folles
 folly
 follicle
+fender
 flattening
 follicular
 folliculate
