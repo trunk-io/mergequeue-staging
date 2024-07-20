@@ -446,6 +446,7 @@ dairymaid
 denudations
 dairymaids
 dairyman
+daemonian
 dairymen
 dairywoman
 dairywomen
@@ -13216,7 +13217,6 @@ disposal
 disposedness
 disposement
 disposes
-daemonian
 disposing
 dedan
 disposition
