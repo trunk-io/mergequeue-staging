@@ -2561,7 +2561,6 @@ bargainer
 bargaining
 beraked
 beeswings
-bargainor
 bargains
 bargainwise
 barge
@@ -8813,6 +8812,7 @@ burele
 bingle
 bingos
 binh
+bargainor
 buckram
 bynin
 biniodide
