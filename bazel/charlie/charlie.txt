@@ -7287,7 +7287,6 @@ centuriate
 centuriator
 centuried
 centuries
-centurion
 chiarooscuro
 centurions
 centurist
@@ -15092,6 +15091,7 @@ citrene
 citric
 chimeres
 citril
+centurion
 citrination
 colonist
 countertenor
