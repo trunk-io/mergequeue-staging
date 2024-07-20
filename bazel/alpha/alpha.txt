@@ -3495,7 +3495,6 @@ adapts
 adar
 adarbitrium
 albitite
-adarme
 adat
 apogon
 adati
@@ -19439,6 +19438,7 @@ argali
 argalis
 antiopiumite
 argals
+adarme
 argan
 argans
 argante
