@@ -2110,7 +2110,6 @@ fates
 floribunda
 felonies
 felonious
-feloniously
 feloniousness
 fossilize
 fumatories
@@ -7292,6 +7291,7 @@ foraminose
 frugged
 frolic
 foraminulate
+feloniously
 felonry
 foraminule
 foraminulose
