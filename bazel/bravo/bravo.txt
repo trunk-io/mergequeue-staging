@@ -2982,7 +2982,6 @@ barreling
 beslash
 barrelled
 barrelling
-bellyfuls
 belong
 barrelmaking
 ballistics
@@ -16547,6 +16546,7 @@ buchonite
 buchu
 buckayros
 buckaroo
+bellyfuls
 buckaroos
 buckass
 buckberry
