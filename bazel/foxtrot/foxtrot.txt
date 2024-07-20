@@ -833,7 +833,6 @@ fenlander
 findability
 fans
 fant
-frictionlessness
 fantaddish
 funori
 fecit
@@ -3132,6 +3131,7 @@ forehent
 fictionise
 flanch
 fibroreticulate
+frictionlessness
 favoress
 feuds
 fictionistic
