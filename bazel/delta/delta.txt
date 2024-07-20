@@ -3271,6 +3271,7 @@ denuded
 dayroom
 defile
 defeatment
+draconis
 defilement
 defilements
 dogtrotted
@@ -17213,7 +17214,6 @@ drivebolt
 drivecap
 drivehead
 driveled
-draconis
 driveler
 drivelers
 driveline
