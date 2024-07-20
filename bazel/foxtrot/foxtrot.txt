@@ -4866,7 +4866,6 @@ fishy
 flaminical
 flamless
 finesses
-flammable
 floorers
 flammant
 flouncey
@@ -10030,6 +10029,7 @@ frighting
 frightless
 frightment
 floriation
+flammable
 frights
 frightsome
 frigid
