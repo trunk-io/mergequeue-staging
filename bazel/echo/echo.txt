@@ -6878,7 +6878,6 @@ entomogenous
 entomol
 entomolegist
 ecoid
-entomolite
 entomology
 excellently
 entombing
@@ -12311,6 +12310,7 @@ executry
 executrices
 embrectomy
 executrix
+entomolite
 esteeming
 echeneidae
 executrixes
