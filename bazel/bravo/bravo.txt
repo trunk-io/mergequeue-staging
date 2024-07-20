@@ -2594,7 +2594,6 @@ bargoose
 barguest
 bonailie
 barguests
-barhop
 buzylene
 barhopping
 baria
@@ -12197,6 +12196,7 @@ bolshevists
 bolshevize
 bolshevized
 bolshevizing
+barhop
 bolshy
 bania
 batonistic
