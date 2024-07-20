@@ -870,6 +870,7 @@ baffle
 baffled
 backspins
 bafflements
+brighella
 baffler
 bafflers
 baffles
@@ -4818,7 +4819,6 @@ beduke
 bedull
 bedumb
 brucellosis
-brighella
 becripple
 bonebinder
 bedumbed
