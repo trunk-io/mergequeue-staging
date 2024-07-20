@@ -1623,7 +1623,6 @@ calpul
 calpulli
 calque
 calqued
-calques
 calquing
 cals
 calsouns
@@ -4591,6 +4590,7 @@ carpetbaggism
 crossarms
 conormal
 carpetbags
+calques
 courageously
 carpetbeater
 coagulator
