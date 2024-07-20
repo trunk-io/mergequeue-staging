@@ -6027,7 +6027,6 @@ agenize
 azotobacter
 amphetamine
 antiproductiveness
-agenized
 agenizing
 agennesis
 agennetic
@@ -6786,6 +6785,7 @@ aiguilles
 astroscope
 aiguillesque
 aiguillette
+agenized
 aiguilletted
 ayield
 achyrodes
