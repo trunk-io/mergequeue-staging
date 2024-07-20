@@ -6743,6 +6743,7 @@ cellar
 contemned
 casaque
 coremium
+codas
 cellarage
 cellared
 cellarer
@@ -17804,7 +17805,6 @@ codable
 codal
 codamin
 codamine
-codas
 codder
 coddy
 codding

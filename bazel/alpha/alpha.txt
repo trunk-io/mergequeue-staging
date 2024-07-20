@@ -7281,7 +7281,6 @@ alabandite
 alabarch
 ambiverts
 alabaster
-abacaxi
 alabastoi
 alabastra
 advised
@@ -24259,6 +24258,7 @@ automotive
 automotor
 automower
 autompne
+abacaxi
 autonavigator
 autonavigators
 apair
