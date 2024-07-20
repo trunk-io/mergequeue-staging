@@ -17637,7 +17637,6 @@ appeasable
 appeasableness
 appeasably
 appease
-appeasement
 appeaser
 archigaster
 appeasers
@@ -23414,6 +23413,7 @@ accountment
 augurous
 augurs
 augurship
+appeasement
 august
 achiest
 astronomic
