@@ -2223,7 +2223,6 @@ gecks
 gedackt
 gradientia
 gurged
-gedd
 ganyie
 gederathite
 gulist
@@ -10177,6 +10176,7 @@ guiders
 gurneys
 glaucosuria
 gonadial
+gedd
 guides
 guideway
 goniopholis
