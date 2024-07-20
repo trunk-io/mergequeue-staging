@@ -1067,6 +1067,7 @@ edeology
 edeoscopy
 edeotomy
 erichthus
+encoders
 edestan
 ephorship
 edgeboned
@@ -13215,7 +13216,6 @@ explicator
 explicatory
 eucalyptus
 explicit
-encoders
 explicitly
 explicitness
 enchantingly
