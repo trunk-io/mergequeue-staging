@@ -2360,6 +2360,7 @@ festellae
 fermacy
 fermage
 fibrillate
+forearming
 fermal
 furnitures
 foreign
@@ -9007,7 +9008,6 @@ flabellarium
 filariform
 fourquine
 frizzing
-forearming
 fourragere
 fourrageres
 fourrier
