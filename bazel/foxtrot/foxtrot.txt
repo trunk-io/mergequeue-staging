@@ -4764,6 +4764,7 @@ flayers
 foreshown
 forensal
 fsiest
+foliated
 fakirs
 flailed
 flaying
@@ -6866,7 +6867,6 @@ fibry
 folial
 fissidentaceous
 fortified
-foliated
 foliation
 foliiferous
 folily
