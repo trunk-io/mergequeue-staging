@@ -8899,7 +8899,6 @@ biochemist
 biochemistry
 bifanged
 besplatter
-biochemistries
 biochemists
 biochore
 biocycle
@@ -11235,6 +11234,7 @@ barbarizing
 blowier
 blowiness
 blowing
+biochemistries
 blowings
 blowiron
 blowlamp
