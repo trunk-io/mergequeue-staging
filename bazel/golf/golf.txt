@@ -3116,7 +3116,6 @@ geolinguistics
 geologer
 genitive
 geologian
-geologic
 gletscher
 geological
 geologician
@@ -8733,6 +8732,7 @@ gastrophilist
 greensand
 glazer
 glucosuric
+geologic
 greenshank
 glycohemia
 greenskeeper
