@@ -2203,7 +2203,6 @@ canalization
 canalizes
 canalla
 canalled
-canaller
 canalling
 canalman
 canals
@@ -12955,6 +12954,7 @@ churchly
 churchliest
 chelidonine
 churchlike
+canaller
 churchliness
 churchmanly
 churchmanship
