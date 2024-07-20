@@ -1233,7 +1233,6 @@ fumigatory
 foveae
 fiddlewood
 furiousity
-footmanry
 fashionless
 fashionmonger
 forthcome
@@ -6705,6 +6704,7 @@ feyer
 fogbank
 fogbound
 frankenstein
+footmanry
 faceman
 fibrinogenically
 fogbow
