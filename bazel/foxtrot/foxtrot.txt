@@ -3404,7 +3404,6 @@ figshell
 fury
 ferocious
 faitours
-faithful
 filoselle
 forevers
 figulate
@@ -4150,6 +4149,7 @@ finishers
 faciobrachial
 flyblow
 fortissimo
+faithful
 fetterless
 foraminulous
 fumant
