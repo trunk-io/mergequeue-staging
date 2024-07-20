@@ -2536,7 +2536,6 @@ cankerflower
 cankerfret
 cankering
 cankerous
-cankerroot
 cankers
 cankerweed
 cankerworms
@@ -22135,6 +22134,7 @@ confluxes
 confluxible
 confluxibleness
 confocal
+cankerroot
 consistories
 confocally
 coheiress
