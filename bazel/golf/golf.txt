@@ -674,6 +674,7 @@ gawkihood
 glovelike
 gratins
 gubbo
+ghostified
 gallivants
 geoglyphic
 gallywasp
@@ -8832,7 +8833,6 @@ gremmies
 guffy
 grenadier
 grapsoid
-ghostified
 grenadierial
 gaillard
 gunbarrel

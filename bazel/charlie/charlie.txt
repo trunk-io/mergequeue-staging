@@ -7710,7 +7710,6 @@ cerianthus
 cerias
 ceric
 crosswort
-ceride
 ceriferous
 cerigerous
 ceryl
@@ -18829,6 +18828,7 @@ coleochaete
 conclusum
 coleophora
 coleophoridae
+ceride
 coleopter
 coleoptera
 coleopteral
