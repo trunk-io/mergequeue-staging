@@ -1034,6 +1034,7 @@ calchaqui
 cytoplastic
 calchaquian
 calchas
+chainlike
 calche
 calciclase
 calcicole
@@ -8207,7 +8208,6 @@ chaines
 chainette
 chaining
 chainless
-chainlike
 chainmaker
 chainmaking
 chainman
