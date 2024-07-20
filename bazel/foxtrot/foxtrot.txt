@@ -910,7 +910,6 @@ faradiser
 fourer
 fossilizable
 fiddly
-faradises
 fisticuffery
 fleeciness
 faradism
@@ -1903,6 +1902,7 @@ feedbags
 feedbin
 flummox
 feedboxes
+faradises
 fashions
 feeding
 feedings
