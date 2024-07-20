@@ -4203,7 +4203,6 @@ cantharic
 causticizing
 caryatid
 caryatidal
-caryatidean
 caryatides
 caryatids
 carib
@@ -30398,6 +30397,7 @@ ctenodipterini
 crochets
 ctenodont
 ctenodus
+caryatidean
 ctenoid
 ctenoidean
 climaxing
