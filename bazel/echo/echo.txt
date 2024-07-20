@@ -4043,7 +4043,6 @@ exies
 empaneling
 empanelled
 empanelling
-empanelment
 empannel
 electrologic
 emparl
@@ -8193,6 +8192,7 @@ episedia
 excluding
 epigraphically
 episepalous
+empanelment
 episyllogism
 electrotheraputic
 essayette
