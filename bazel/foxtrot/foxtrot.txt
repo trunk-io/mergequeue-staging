@@ -889,7 +889,6 @@ fanzine
 fanzines
 faon
 fapesmo
-fluorenes
 faq
 foreshots
 faqir
@@ -1543,6 +1542,7 @@ faust
 fauster
 faustian
 faute
+fluorenes
 fauteuil
 feldspathoidal
 fautor
