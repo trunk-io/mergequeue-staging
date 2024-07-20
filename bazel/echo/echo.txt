@@ -6920,7 +6920,6 @@ entoparasitic
 endocrinological
 els
 entophytal
-entophytic
 entoplasm
 entoplastron
 entopopliteal
@@ -11406,6 +11405,7 @@ evasiveness
 evechurr
 enclaret
 eveck
+entophytic
 evectant
 evected
 ensnarl
