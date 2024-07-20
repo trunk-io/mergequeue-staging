@@ -9044,7 +9044,6 @@ amphipodous
 allotropicity
 ancilla
 allotropies
-allotropism
 allotropize
 aguilt
 allotropous
@@ -19360,6 +19359,7 @@ arenaceous
 acaudate
 arenae
 arenariae
+allotropism
 arenation
 arend
 arendalite
