@@ -6208,7 +6208,6 @@ enplanes
 enplaning
 existent
 enquarter
-exogonium
 enqueue
 enqueued
 enqueues
@@ -13462,6 +13461,7 @@ exscribe
 exscript
 exsculptate
 exscutellate
+exogonium
 exsec
 exsecants
 exsected
