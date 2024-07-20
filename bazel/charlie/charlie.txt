@@ -15028,6 +15028,7 @@ cytophaga
 cytophagy
 cytophagic
 cytophagous
+crutched
 cytopharynges
 cytopharynxes
 cytophil
@@ -30347,7 +30348,6 @@ crustless
 crusts
 crut
 crutch
-crutched
 crutching
 crutchlike
 crutter
