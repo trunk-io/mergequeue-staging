@@ -549,6 +549,7 @@ geebung
 galvanography
 gamodemes
 glassite
+gelder
 galleyworm
 galleons
 gallera
@@ -2392,7 +2393,6 @@ geldable
 geldant
 gambit
 galvanographic
-gelder
 genua
 galvanothermy
 gynandria
