@@ -8613,7 +8613,6 @@ forswearing
 falterers
 forswears
 farmable
-fasciate
 forswornness
 fort
 fortake
@@ -11468,6 +11467,7 @@ furoid
 factorability
 furomethyl
 fishmen
+fasciate
 furomonazole
 fernando
 froze
