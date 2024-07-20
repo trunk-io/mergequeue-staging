@@ -2344,6 +2344,7 @@ electrochronometric
 electrocystoscope
 electrocolloidal
 electrocontractility
+exordium
 electroconvulsive
 electroscope
 electrocorticogram
@@ -12804,7 +12805,6 @@ exorcizement
 exorcizing
 elutriated
 exordial
-exordium
 exordiums
 estivating
 exordize

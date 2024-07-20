@@ -3160,7 +3160,6 @@ gamelan
 geometrically
 greenside
 geometricism
-geometrid
 gusla
 geometridae
 grushie
@@ -5110,6 +5109,7 @@ gladsomeness
 gravecloth
 gladsomer
 grandames
+geometrid
 gladsomest
 grivois
 glaieul
