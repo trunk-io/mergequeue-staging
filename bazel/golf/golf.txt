@@ -1810,7 +1810,6 @@ glob
 gastropathy
 glycerols
 galimatias
-gastropathic
 gnomish
 gastroperiodynia
 groundskeep
@@ -7360,6 +7359,7 @@ guanidine
 gossoons
 goster
 growlers
+gastropathic
 growsome
 got
 gotch
