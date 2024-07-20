@@ -5708,6 +5708,7 @@ catchlight
 cooper
 catchline
 catchment
+caputium
 congressmen
 catchpenny
 catchpennies
@@ -24741,7 +24742,6 @@ copperworks
 coppet
 colutea
 coppy
-caputium
 coppiced
 caryatic
 coppices
