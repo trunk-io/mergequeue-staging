@@ -12917,7 +12917,6 @@ disour
 dismeasured
 disown
 disownable
-disowned
 disowning
 disowns
 disoxidate
@@ -13814,6 +13813,7 @@ dysteleologist
 diatheses
 dehumidifies
 dkl
+disowned
 distemonous
 decipherment
 diagramming
