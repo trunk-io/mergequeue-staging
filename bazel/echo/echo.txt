@@ -3944,7 +3944,6 @@ emissaries
 emissaryship
 emissarium
 eels
-emissi
 eudialyte
 emission
 emissive
@@ -13321,6 +13320,7 @@ expostulator
 emotional
 expostulatory
 erythroderma
+emissi
 epanaphoral
 exposure
 envassalage
