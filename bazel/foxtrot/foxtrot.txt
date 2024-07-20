@@ -9365,7 +9365,6 @@ foreaccustom
 franciscanism
 frowny
 frangulic
-franticness
 formic
 frank
 frankly
@@ -10171,6 +10170,7 @@ friskily
 friskin
 friskiness
 farreachingly
+franticness
 frisking
 flaxbush
 friskingly
