@@ -10423,7 +10423,6 @@ diotic
 diotocardia
 diotrephes
 diovular
-dissembler
 dioxan
 dioxanes
 dioxy
@@ -13056,6 +13055,7 @@ dendrodus
 dispersals
 dispersant
 dorize
+dissembler
 dispersed
 dispersedelement
 dispersedye
