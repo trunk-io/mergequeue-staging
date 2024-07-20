@@ -17376,6 +17376,7 @@ coassists
 coassume
 coassumed
 coassumes
+countrifiedness
 coassuming
 copolymerized
 coast
@@ -27293,7 +27294,6 @@ country
 countrify
 civil
 countrification
-countrifiedness
 countryfiedness
 countryfolk
 countryish
