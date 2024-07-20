@@ -3356,7 +3356,6 @@ capsulized
 capsulizing
 capsulociliary
 circumlocutional
-capsulolenticular
 capsulorrhaphy
 capsulotomy
 captacula
@@ -17156,6 +17155,7 @@ campement
 coadjute
 coadjutement
 continuable
+capsulolenticular
 coadjutor
 coadjutorship
 coadjutress
