@@ -1357,7 +1357,6 @@ dauting
 davach
 davallia
 doyennes
-derry
 dave
 davened
 davening
@@ -5818,6 +5817,7 @@ depose
 deposed
 dissolvative
 deposer
+derry
 deposers
 deposes
 discouragement
