@@ -7946,6 +7946,7 @@ alerion
 alerse
 alert
 alerta
+astrictively
 alerted
 anomalotrophy
 alertedly
@@ -22226,7 +22227,6 @@ astricting
 astriction
 astrictive
 allround
-astrictively
 asian
 antigonococcic
 astrictiveness
