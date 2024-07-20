@@ -5140,7 +5140,6 @@ gedeckt
 glairin
 glairiness
 glairing
-glairs
 gade
 glaistig
 gulash
@@ -6784,6 +6783,7 @@ gander
 glimmer
 gonadotrophic
 gonadotrophin
+glairs
 gliss
 gonadotropic
 gonadotropin
