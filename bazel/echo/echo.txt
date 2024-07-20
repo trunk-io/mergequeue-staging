@@ -1093,7 +1093,6 @@ envine
 equipper
 edibility
 eassel
-edible
 edibleness
 edictally
 exalters
@@ -3368,6 +3367,7 @@ entrust
 embatholithic
 experimently
 embattle
+edible
 emphractic
 embden
 embeam
