@@ -2162,7 +2162,6 @@ bannerols
 bannet
 bryozoan
 bannets
-bannimus
 bannister
 backdoor
 bannition
@@ -4830,6 +4829,7 @@ beduncing
 bedway
 barbecuing
 bedways
+bannimus
 bogies
 bedwarf
 bedwarfed

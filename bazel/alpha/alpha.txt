@@ -1836,7 +1836,6 @@ accubitus
 accueil
 anisalcohol
 accultural
-acculturate
 acculturated
 acculturates
 acculturating
@@ -17960,6 +17959,7 @@ apprized
 asterisked
 anethum
 apprizement
+acculturate
 armozeen
 aerosol
 apprizers
