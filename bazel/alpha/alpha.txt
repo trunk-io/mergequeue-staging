@@ -5710,7 +5710,6 @@ afterhand
 actorish
 afterhatch
 afterheat
-afterhelp
 afterhend
 afterhours
 avengeress
@@ -15250,6 +15249,7 @@ antiempirically
 antiempiricism
 antiempiricist
 antiendotoxin
+afterhelp
 antiendowment
 alexandrian
 antilipoid
