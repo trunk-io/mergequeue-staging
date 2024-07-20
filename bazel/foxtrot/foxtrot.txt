@@ -1536,7 +1536,6 @@ faunist
 fragmentized
 faunistical
 faunlike
-foundlings
 fauntleroy
 faunula
 forst
@@ -4197,6 +4196,7 @@ forewisdom
 fatless
 firetower
 faquirs
+foundlings
 fubsier
 fermentative
 firewall
