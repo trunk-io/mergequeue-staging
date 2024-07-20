@@ -5952,6 +5952,7 @@ glossolaryngeal
 glossoncus
 glossopalatine
 girdlestead
+gazettal
 gametophagia
 goniotropous
 glossarize
@@ -8397,7 +8398,6 @@ gratuitously
 gemote
 gratuitousness
 glim
-gazettal
 gratulant
 gratulate
 gruffs
