@@ -1211,6 +1211,7 @@ bakehouse
 brachycrany
 ballflower
 bakehouses
+bumbard
 bactericidin
 bakelize
 bakemeat
@@ -5477,7 +5478,6 @@ beadhouses
 bestowed
 bejig
 bejuco
-bumbard
 bajri
 bejuggle
 bejumble
