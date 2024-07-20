@@ -17508,7 +17508,6 @@ apothecium
 amara
 autocriticism
 apothegm
-aphasiology
 arbitrement
 applot
 airship
@@ -20826,6 +20825,7 @@ artsy
 artsman
 anicular
 artware
+aphasiology
 artwork
 artworks
 aru
