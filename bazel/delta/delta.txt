@@ -5049,7 +5049,6 @@ dendritical
 dendrobates
 dendrobatinae
 dendrobium
-dendrocalamus
 dendroceratina
 diamesogamous
 dendroceratine
@@ -12236,6 +12235,7 @@ desesperance
 disglory
 disglut
 deathling
+dendrocalamus
 disquieting
 digressionary
 dysgnosia
