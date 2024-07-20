@@ -7358,7 +7358,6 @@ betitle
 betocsin
 betoyan
 betoil
-betoken
 bagworm
 betokened
 betokening
@@ -12943,6 +12942,7 @@ borderer
 borderers
 borderies
 bordering
+betoken
 bankrolls
 borderings
 borderlander
