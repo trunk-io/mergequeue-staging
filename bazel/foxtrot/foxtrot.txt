@@ -6929,7 +6929,6 @@ fathearted
 flyingly
 formalizer
 folksinger
-folksongs
 folktale
 folktales
 foll
@@ -9599,6 +9598,7 @@ felicitations
 freedoms
 freedoot
 fumigators
+folksongs
 frettiest
 febrifugal
 freedwoman
