@@ -8165,7 +8165,6 @@ diaconica
 diaconicon
 diaconus
 diacoustics
-depart
 diacranterian
 diacranteric
 diacrisis
@@ -14276,6 +14275,7 @@ dittoing
 dittology
 dittologies
 dittos
+depart
 diuranate
 diureses
 dorty
