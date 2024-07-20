@@ -9900,7 +9900,6 @@ acetyltannin
 amarna
 amaroid
 amaroidal
-amarthritis
 amarvel
 amasesis
 amassable
@@ -15074,6 +15073,7 @@ anticodon
 anticogitative
 airfoil
 anticoincidence
+amarthritis
 anticold
 akkad
 anticomet
