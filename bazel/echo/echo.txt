@@ -2899,7 +2899,6 @@ endosepsis
 elaeagnaceae
 elicitor
 elicitors
-elicits
 expansionary
 elide
 enameloma
@@ -4790,6 +4789,7 @@ encodings
 encoffin
 exuviation
 encolden
+elicits
 encollar
 eucryptite
 encolpia
