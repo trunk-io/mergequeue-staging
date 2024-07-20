@@ -5312,6 +5312,7 @@ endoskeletal
 endoskeleton
 endoskeletons
 endosmic
+evangelistarium
 endosmometric
 extraversive
 endosmos
@@ -7148,7 +7149,6 @@ enveil
 envelop
 envelope
 enveloping
-evangelistarium
 extemporized
 envenomation
 envenomed
