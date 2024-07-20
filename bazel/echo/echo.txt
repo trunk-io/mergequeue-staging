@@ -1655,7 +1655,6 @@ encoronet
 entier
 es
 egotisms
-egotist
 egotistic
 egotistical
 egotistically
@@ -6323,6 +6322,7 @@ ense
 expositive
 enseal
 ensealing
+egotist
 extolment
 ensear
 emigating
