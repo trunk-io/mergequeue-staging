@@ -55,6 +55,7 @@ facebread
 farms
 facecloth
 faceless
+fletton
 facelessness
 facelifts
 formlessly
@@ -5417,7 +5418,6 @@ fletcherite
 fletcherize
 fletches
 fletchings
-fletton
 fattest
 fleur
 farted
