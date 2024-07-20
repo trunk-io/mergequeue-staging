@@ -341,7 +341,6 @@ fishfinger
 fantaisie
 faineants
 fainer
-fainest
 fainly
 fetch
 faint
@@ -1993,6 +1992,7 @@ felaheen
 factoryship
 felanders
 feldsher
+fainest
 funebrial
 feldsparphyre
 feldspath
