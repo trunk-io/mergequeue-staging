@@ -7646,6 +7646,7 @@ glutei
 guillotinist
 grades
 gonepoiesis
+guideposts
 gradgrind
 gradgrindish
 grigs
@@ -10170,7 +10171,6 @@ guideless
 giallolino
 grout
 guidelines
-guideposts
 gastrulate
 gundie
 gharries
