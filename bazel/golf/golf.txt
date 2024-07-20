@@ -1891,7 +1891,6 @@ galosh
 gatetender
 grandaddy
 gateward
-gatewards
 guariba
 gatewise
 gatewoman
@@ -9373,6 +9372,7 @@ geyserite
 grossly
 grumph
 grosso
+gatewards
 gynomonoecism
 gaurie
 gelatinizability
