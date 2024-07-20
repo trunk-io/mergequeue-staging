@@ -1213,7 +1213,6 @@ fontally
 fashes
 flneur
 fashing
-fashionability
 fashionable
 furor
 fashionableness
@@ -8473,6 +8472,7 @@ forcepslike
 frs
 floppy
 forms
+fashionability
 frailly
 formula
 floristically
