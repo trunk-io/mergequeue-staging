@@ -12629,7 +12629,6 @@ anemotactic
 anemotropic
 anemotropism
 angiolith
-anencephaly
 anencephalia
 anality
 anencephalic
@@ -18649,6 +18648,7 @@ arced
 arces
 animala
 arceuthobium
+anencephaly
 antephialtic
 arcform
 archabomination
