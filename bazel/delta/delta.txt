@@ -4626,6 +4626,7 @@ demised
 demisemiquaver
 dulanganes
 demisemitone
+disannex
 demises
 demisheath
 deflexion
@@ -11043,7 +11044,6 @@ dimethylaniline
 disangularize
 disanimal
 disanimation
-disannex
 disannexation
 disannuller
 dripped
