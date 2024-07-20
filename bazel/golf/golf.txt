@@ -5021,7 +5021,6 @@ glaucophane
 glacialist
 gurkha
 goldstone
-gloomless
 glaciated
 genial
 glaciates
@@ -7332,6 +7331,7 @@ gossaniferous
 gossard
 gossiped
 guested
+gloomless
 gossiper
 gossipers
 gossiphood
