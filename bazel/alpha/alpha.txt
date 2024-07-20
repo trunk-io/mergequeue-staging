@@ -5756,7 +5756,6 @@ afterplay
 afterplanting
 afterpotential
 archidium
-autolysis
 afterpressure
 afterproof
 afterrake
@@ -8503,6 +8502,7 @@ alkalinization
 alkalinize
 alkalis
 asunder
+autolysis
 alkalisable
 alkalisation
 aneuploidy
