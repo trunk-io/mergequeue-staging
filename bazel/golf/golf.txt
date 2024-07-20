@@ -1473,7 +1473,6 @@ gulfed
 garridge
 garrigue
 gastroenteroanastomosis
-gemology
 gerated
 garrisoned
 garrisonian
@@ -2998,6 +2997,7 @@ geochemical
 geochemists
 geochrony
 gravies
+gemology
 geochronologic
 geochronological
 geochronologically
