@@ -1281,7 +1281,6 @@ forestology
 fumigate
 foreswore
 fractable
-fasting
 finalists
 fibroids
 fastings
@@ -9274,6 +9273,7 @@ fraile
 footpaces
 flambe
 frankliniana
+fasting
 forecastleman
 frailero
 fit
