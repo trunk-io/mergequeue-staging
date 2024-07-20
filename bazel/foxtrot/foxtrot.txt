@@ -2226,7 +2226,6 @@ fluorspar
 frippery
 ferronickel
 firebricks
-fences
 forelaying
 featherwise
 forestallment
@@ -11355,6 +11354,7 @@ firiness
 fykes
 furfural
 fiend
+fences
 filiciform
 foxings
 falseheartedly
