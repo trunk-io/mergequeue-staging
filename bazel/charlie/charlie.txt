@@ -3456,6 +3456,7 @@ carabineros
 carabines
 carabini
 carabiniere
+ceratophrys
 carabinieri
 carabins
 caraboa
@@ -7511,7 +7512,6 @@ ceratophyllaceae
 ceratophyllum
 ceratophyta
 ceratophyte
-ceratophrys
 crozier
 ceratopsia
 ceratopsian
