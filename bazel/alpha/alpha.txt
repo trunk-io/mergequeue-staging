@@ -13,7 +13,6 @@ aals
 abscissa
 aam
 aani
-aardvark
 aardvarks
 aardwolf
 agrising
@@ -17328,6 +17327,7 @@ antivirus
 anodontia
 autoregressive
 aponia
+aardvark
 archimperialism
 amharic
 aponic
