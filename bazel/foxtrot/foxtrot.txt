@@ -78,6 +78,7 @@ faceting
 floridities
 faceup
 fouler
+forehatchway
 facework
 facy
 facial
@@ -7670,7 +7671,6 @@ forehands
 freeman
 futteret
 forehatch
-forehatchway
 forehead
 foreheaded
 forehear
