@@ -7340,7 +7340,6 @@ gossiphood
 geodic
 gater
 gentianal
-geothermometer
 gaudeamuses
 gravicembalo
 gatehouses
@@ -9231,6 +9230,7 @@ grocery
 gopherberries
 gaize
 grocerly
+geothermometer
 guarded
 guric
 gedanken
