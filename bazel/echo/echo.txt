@@ -1308,7 +1308,6 @@ effectful
 effecting
 entomologists
 easiest
-evoke
 effectively
 energid
 effectivity
@@ -12822,6 +12821,7 @@ exoskeleton
 eventualize
 exosmic
 enterocolostomy
+evoke
 empty
 exosmotic
 enamines
