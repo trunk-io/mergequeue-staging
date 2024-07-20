@@ -6843,7 +6843,6 @@ celotomy
 celotomies
 celsia
 celsian
-cubbyhouse
 celsius
 celt
 compelling
@@ -17646,6 +17645,7 @@ coccochromatic
 coccogone
 coccogoneae
 coccogonium
+cubbyhouse
 coccoid
 coccoidal
 coccoids
