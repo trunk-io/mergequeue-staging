@@ -619,6 +619,7 @@ enalyron
 engineman
 echocardiogram
 echoey
+eupnoea
 echoencephalography
 echoer
 encrustment
@@ -6849,7 +6850,6 @@ ee
 enneatic
 epigones
 entohyal
-eupnoea
 entoiled
 empleomania
 entoils
