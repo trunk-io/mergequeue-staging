@@ -2660,6 +2660,7 @@ generativeness
 generator
 generators
 generatrices
+glosser
 generic
 grad
 generically
@@ -5901,7 +5902,6 @@ glossed
 glossem
 glosseme
 glossemic
-glosser
 glossers
 galloway
 glossic

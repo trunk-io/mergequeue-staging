@@ -9800,7 +9800,6 @@ amalfian
 amalfitan
 auntlier
 amalg
-amalgam
 appealing
 amalgamable
 amalgamate
@@ -17284,6 +17283,7 @@ apologiae
 alphitomancy
 acatharsy
 apological
+amalgam
 apologies
 apologise
 apologiser
