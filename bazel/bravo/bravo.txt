@@ -4807,7 +4807,6 @@ beneighbored
 biliteral
 bedstring
 bedswerver
-bedtick
 bedticks
 bices
 bedub
@@ -8150,6 +8149,7 @@ bielding
 bields
 bielectrolysis
 bielid
+bedtick
 bielorouss
 byelorussia
 basketballs
