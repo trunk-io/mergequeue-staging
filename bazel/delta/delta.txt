@@ -8995,7 +8995,6 @@ dicyclies
 dicyclist
 dicyclopentadienyliron
 dicyema
-dicyemata
 dicyemid
 dicyemida
 diadoche
@@ -16446,6 +16445,7 @@ dowsers
 dowses
 dowset
 dowsets
+dicyemata
 dowsing
 drolled
 diestrus
