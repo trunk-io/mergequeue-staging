@@ -9944,6 +9944,7 @@ chemistries
 chemists
 chemitype
 chemitypy
+calycate
 chemmy
 chemoautotrophy
 chemoautotrophic
@@ -18387,7 +18388,6 @@ cogmen
 chenevixite
 cognac
 centime
-calycate
 cognate
 cognately
 cognates
