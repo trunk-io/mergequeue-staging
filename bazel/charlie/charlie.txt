@@ -3908,6 +3908,7 @@ cacodemon
 cycle
 cardcase
 cardcases
+conscribing
 cardecu
 carded
 carders
@@ -28313,7 +28314,6 @@ conicities
 cynopodous
 crateful
 cratemaker
-conscribing
 clitic
 cratemen
 crater
