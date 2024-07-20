@@ -10323,7 +10323,6 @@ caffein
 chiasmata
 chiasmatic
 chiasmatype
-chaliced
 chiasmatypy
 chiasmi
 chiasmodontid
@@ -26927,6 +26926,7 @@ counterindicate
 counterindication
 counterindoctrinate
 counterinsult
+chaliced
 counterinsurgency
 cocash
 counterinsurgents
