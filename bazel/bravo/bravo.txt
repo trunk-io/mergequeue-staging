@@ -5624,6 +5624,7 @@ belgas
 beneficing
 belgian
 batler
+blackness
 belgic
 birdbrain
 belgium
@@ -11619,7 +11620,6 @@ boatmen
 boatowner
 boats
 boatsetter
-blackness
 boatshop
 berk
 bodword

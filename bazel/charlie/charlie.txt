@@ -7492,7 +7492,6 @@ ceratium
 ceratobatrachinae
 comprisal
 ceratobranchial
-ceratocricoid
 ceratodidae
 ceratodus
 ceratoduses
@@ -26736,6 +26735,7 @@ counterbid
 counterblast
 counterblow
 counterboycott
+ceratocricoid
 caressant
 counterbond
 counterborder
