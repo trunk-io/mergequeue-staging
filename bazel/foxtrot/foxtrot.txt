@@ -4320,7 +4320,6 @@ fisheries
 fisherman
 fishermen
 fisherpeople
-flits
 fishers
 fisherwoman
 flattop
@@ -11175,6 +11174,7 @@ funereally
 face
 funerealness
 funfair
+flits
 fungaceous
 fungal
 flanked

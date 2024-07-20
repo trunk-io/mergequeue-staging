@@ -5098,7 +5098,6 @@ ghastily
 gladsome
 gallycrow
 gladsomeness
-gravecloth
 gladsomer
 grandames
 gladsomest
@@ -8570,6 +8569,7 @@ gladiolas
 groaners
 greasepaint
 greasers
+gravecloth
 greases
 greasier
 gormandised
