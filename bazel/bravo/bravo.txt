@@ -3003,7 +3003,6 @@ barrer
 barres
 barret
 barretor
-barretors
 barretry
 boundaries
 barretter
@@ -10869,6 +10868,7 @@ blinky
 blinkingly
 blinks
 blintze
+barretors
 batete
 blype
 blipped
