@@ -2580,7 +2580,6 @@ bargeload
 bargepole
 booklice
 brigsail
-bricklaying
 barmkin
 barges
 boehmite
@@ -14173,6 +14172,7 @@ baignet
 bradytely
 backtracked
 brad
+bricklaying
 bassing
 bibcocks
 bradytrophic

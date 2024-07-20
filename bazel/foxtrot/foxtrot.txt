@@ -4662,7 +4662,6 @@ flacks
 flacons
 flacourtiaceae
 flacourtiaceous
-flaff
 fishman
 formularizer
 fez
@@ -9365,6 +9364,7 @@ foreaccustom
 franciscanism
 frowny
 frangulic
+flaff
 franticness
 formic
 frank
