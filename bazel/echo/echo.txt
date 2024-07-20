@@ -5301,6 +5301,7 @@ endoscopes
 endoscopy
 endoscopic
 endoscopically
+expectoration
 endoscopies
 emily
 endosiphon
@@ -12959,7 +12960,6 @@ eyebath
 expectorated
 enbibe
 expectorating
-expectoration
 eumenidae
 expectorations
 expectorative
