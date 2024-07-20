@@ -3612,7 +3612,6 @@ filippo
 filipuncture
 filister
 feer
-filite
 filius
 friesish
 fillable
@@ -6130,6 +6129,7 @@ formalise
 flowe
 flower
 flowerbed
+filite
 flowerers
 floweret
 filesmith
