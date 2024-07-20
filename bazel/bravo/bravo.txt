@@ -6122,6 +6122,7 @@ beneficialness
 beneficiary
 beneficiaries
 beneficiaryship
+brachycerous
 beneficiate
 beneficiated
 beneficiating
@@ -13953,7 +13954,6 @@ bellerophon
 brachycera
 bludgeoned
 brachyceric
-brachycerous
 brachycome
 blackbush
 brachycranial
