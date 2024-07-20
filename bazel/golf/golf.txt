@@ -6905,7 +6905,6 @@ gortonian
 gonne
 granulating
 gonoblast
-gonoblastic
 gonoblastidial
 gonocalycine
 gagsters
@@ -8932,6 +8931,7 @@ goliad
 grievant
 grieved
 griever
+gonoblastic
 guardful
 gibli
 grieveship
