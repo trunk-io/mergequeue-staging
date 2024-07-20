@@ -355,7 +355,6 @@ faintful
 faintheart
 fainthearted
 floodmark
-faintheartedness
 faintingly
 faintise
 faintish
@@ -9194,6 +9193,7 @@ fratery
 fractuosity
 fractur
 fracturable
+faintheartedness
 fractured
 fractures
 fracturing
