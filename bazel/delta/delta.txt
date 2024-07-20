@@ -4112,6 +4112,7 @@ delimiting
 delimitize
 doombook
 delimitizing
+doeskin
 delimits
 delineament
 deblocked
@@ -14926,7 +14927,6 @@ doegling
 doer
 doubleganger
 does
-doeskin
 doeskins
 doesn
 doesnt
