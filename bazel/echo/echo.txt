@@ -2419,7 +2419,6 @@ electroetching
 emborders
 electroethereal
 electroextraction
-expedient
 expos
 electroform
 electroforming
@@ -12027,6 +12026,7 @@ excircle
 emporiums
 excise
 exciseman
+expedient
 emetatrophia
 excisemen
 excising
