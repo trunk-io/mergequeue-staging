@@ -883,7 +883,6 @@ flincher
 faintest
 furfurals
 fanwork
-fanwort
 funtumia
 fanzine
 fanzines
@@ -9961,6 +9960,7 @@ feruling
 faveoluli
 formyls
 frictionable
+fanwort
 fractionate
 frictional
 flowable
