@@ -279,6 +279,7 @@ abdominal
 abdominalia
 abdominalian
 abdominals
+anencephalotrophia
 abdominoanterior
 abdominocardiac
 abdominocentesis
@@ -13451,7 +13452,6 @@ affiches
 apinage
 anisotropy
 anisotropically
-anencephalotrophia
 anisotropism
 anisuria
 anita
