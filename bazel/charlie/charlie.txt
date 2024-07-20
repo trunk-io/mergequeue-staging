@@ -15157,6 +15157,7 @@ civies
 convalescency
 civiler
 civilest
+coopts
 civilian
 civilianization
 civilianize
@@ -24481,7 +24482,6 @@ coffinite
 coopting
 cooptions
 cooptive
-coopts
 coordain
 coordinal
 coordinated
