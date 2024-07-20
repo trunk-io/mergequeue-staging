@@ -6995,7 +6995,6 @@ airlight
 almug
 airlike
 airline
-acidophilus
 airliner
 airliners
 airlocks
@@ -23926,6 +23925,7 @@ autobusses
 autocab
 autocade
 autocamp
+acidophilus
 armseye
 assembl
 antidecalogue
