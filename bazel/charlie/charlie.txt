@@ -3797,7 +3797,6 @@ carbure
 carburet
 carburetant
 carbureted
-carbureter
 carburetest
 carbureting
 carburetion
@@ -14710,6 +14709,7 @@ cysticercosis
 cysticerus
 cystid
 cystidea
+carbureter
 cystidean
 cystidia
 cystidium
