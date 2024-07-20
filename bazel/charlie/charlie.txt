@@ -406,7 +406,6 @@ cactiform
 cactoid
 cactuses
 corby
-cactuslike
 cornupete
 cacumen
 cacuminal
@@ -16652,6 +16651,7 @@ cloison
 cloisonless
 cloisonne
 cloisonnism
+cactuslike
 cloister
 cloistered
 cloisterer
