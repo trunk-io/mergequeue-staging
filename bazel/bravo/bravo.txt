@@ -3056,7 +3056,6 @@ barter
 bartered
 barterer
 barterers
-bangia
 barters
 barth
 barthite
@@ -6966,6 +6965,7 @@ backtalk
 barricaders
 breadbasket
 beslings
+bangia
 bandsawing
 baguio
 bal

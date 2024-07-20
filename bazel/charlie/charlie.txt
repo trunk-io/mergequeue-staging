@@ -16767,7 +16767,6 @@ clostridian
 clostridium
 cercopod
 closured
-closuring
 clot
 cohert
 clotbur
@@ -18252,6 +18251,7 @@ coexerts
 coexist
 cobleskill
 coexisted
+closuring
 coexistence
 coexistency
 coexistent
