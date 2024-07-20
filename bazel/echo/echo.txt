@@ -3121,7 +3121,6 @@ estus
 endemic
 elseways
 elsewhat
-elsewhen
 elsewhere
 externally
 elshin
@@ -10497,6 +10496,7 @@ ethnolinguistics
 enrockment
 exempla
 ethnologer
+elsewhen
 ethnologically
 epalpate
 evansite
