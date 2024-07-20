@@ -4900,7 +4900,6 @@ beefless
 beeflower
 bristle
 beefs
-beefsteak
 briarroot
 beefsteaks
 beefwood
@@ -12117,6 +12116,7 @@ boleti
 burnishing
 byrled
 boletus
+beefsteak
 boletuses
 bolewort
 burseraceae
