@@ -9425,7 +9425,6 @@ chaussures
 chaute
 chauth
 cucurb
-clothbound
 chauve
 chlorate
 chauvin
@@ -16239,6 +16238,7 @@ craniopagus
 climatologic
 climatological
 climatologically
+clothbound
 climatologist
 climatologists
 climatometer
