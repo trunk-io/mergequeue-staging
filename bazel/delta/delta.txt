@@ -593,7 +593,6 @@ damaskine
 damasse
 dolcinist
 damassin
-dup
 damboard
 dambonite
 dambrod
@@ -11208,6 +11207,7 @@ dispensability
 deliveror
 disbeliefs
 disbelieve
+dup
 disbeliever
 disbelievers
 dazingly
