@@ -1450,7 +1450,6 @@ garnishable
 garnished
 garnishee
 garnishees
-galleypot
 garnisheing
 gastight
 gesticulacious
@@ -6534,6 +6533,7 @@ giggling
 goers
 glacon
 goetae
+galleypot
 goethe
 gimlety
 goety
