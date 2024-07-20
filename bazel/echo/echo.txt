@@ -2677,7 +2677,6 @@ eledone
 eleemosinar
 enrolles
 expels
-eleemosynarily
 eleemosynariness
 elegance
 elegances
@@ -8457,6 +8456,7 @@ epizoology
 epizoon
 epizooty
 epizootic
+eleemosynarily
 epizootiologic
 epizootiological
 electrodialitically
