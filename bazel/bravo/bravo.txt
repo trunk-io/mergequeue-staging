@@ -4857,7 +4857,6 @@ biffins
 beecher
 bauxites
 beeches
-bolograph
 beechy
 beechnuts
 beechwood
@@ -9409,6 +9408,7 @@ birdhouses
 birdyback
 birdie
 birdied
+bolograph
 belfried
 blossomed
 birdieing
