@@ -1059,7 +1059,6 @@ enacts
 edental
 edgers
 edentata
-edentate
 encyclopedically
 edentulate
 edentulous
@@ -3862,6 +3861,7 @@ emetins
 easiness
 ectothermic
 emetocathartic
+edentate
 extrabulbar
 earable
 eupnea
