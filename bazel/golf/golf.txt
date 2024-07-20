@@ -2924,6 +2924,7 @@ gentlemanly
 gentlemanlikeness
 gnathion
 gentlemanliness
+grayout
 griotte
 goodtemperedness
 giocoso
@@ -7771,7 +7772,6 @@ gouda
 grainsmen
 grainways
 gremiale
-grayout
 gypsyhead
 graip
 galleria
