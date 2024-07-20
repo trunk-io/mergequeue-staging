@@ -6875,7 +6875,6 @@ foliole
 folioliferous
 fulyie
 flakier
-foliosity
 flowmanostat
 folious
 foliums
@@ -9223,6 +9222,7 @@ fragility
 friaries
 fleams
 fragilities
+foliosity
 fluemen
 fragmental
 fumously
