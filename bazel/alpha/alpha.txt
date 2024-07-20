@@ -3640,7 +3640,6 @@ adducted
 adducting
 adduction
 adductor
-adductors
 adiposities
 addulce
 adead
@@ -12516,6 +12515,7 @@ androlepsy
 androlepsia
 andromache
 andromania
+adductors
 andromaque
 arborizes
 angioclast
