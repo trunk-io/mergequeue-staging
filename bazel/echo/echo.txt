@@ -4059,6 +4059,7 @@ empemata
 embrangled
 empennage
 empennages
+estoile
 empeo
 epicranial
 emperess
@@ -10037,7 +10038,6 @@ edema
 estmark
 estoc
 estocada
-estoile
 exude
 estolide
 estonia
