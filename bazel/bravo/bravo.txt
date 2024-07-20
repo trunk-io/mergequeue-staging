@@ -8164,6 +8164,7 @@ bowwoman
 bienvenu
 bienvenue
 byepath
+breakless
 banco
 bier
 bidri
@@ -17370,7 +17371,6 @@ baptizable
 bunemost
 beltane
 boned
-breakless
 basidiocarp
 bunga
 bungaloid
