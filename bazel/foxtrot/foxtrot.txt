@@ -9009,7 +9009,6 @@ forlore
 flaps
 fours
 foreplace
-flagellates
 fourscore
 foursquare
 faithlessness
@@ -11422,6 +11421,7 @@ furmint
 freeboard
 fica
 famuli
+flagellates
 factions
 foremasthand
 featherpated

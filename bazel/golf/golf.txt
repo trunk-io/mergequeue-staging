@@ -4694,7 +4694,6 @@ grossing
 gemmoid
 gypsophila
 gypsophilous
-gypster
 gypsum
 gamelang
 grilling
@@ -5191,6 +5190,7 @@ glanis
 goodless
 gypsologist
 glans
+gypster
 glareless
 goos
 glareola
