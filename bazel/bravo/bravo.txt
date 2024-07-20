@@ -10822,6 +10822,7 @@ blimpish
 bixin
 breccial
 blindball
+barefit
 blinded
 blindeyes
 behowled
@@ -12596,7 +12597,6 @@ boobily
 boobish
 booboisie
 brigbote
-barefit
 booboo
 boobook
 blackseed
