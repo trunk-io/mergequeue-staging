@@ -673,7 +673,6 @@ bunyah
 bact
 bacteraemia
 bacteremia
-bacteria
 bobbed
 bacteriaceae
 bacteriaceous
@@ -2364,6 +2363,7 @@ ballroom
 barbeque
 barbequed
 barbequing
+bacteria
 barbera
 barberess
 barberfish
