@@ -3366,7 +3366,6 @@ baskish
 brushbird
 basks
 basnat
-basocyte
 bozal
 basoga
 butled
@@ -4960,6 +4959,7 @@ beerishly
 beermaker
 boschveld
 beermaking
+basocyte
 bounceback
 bodier
 beermonger
