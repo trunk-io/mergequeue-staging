@@ -5815,7 +5815,6 @@ catenation
 calcaire
 catenative
 catenoids
-catenulate
 catepuce
 codirecting
 cacozyme
@@ -17070,6 +17069,7 @@ cnemidium
 cnemidophorus
 cnemis
 cneorum
+catenulate
 cnibophore
 cnicin
 cnida
