@@ -340,7 +340,6 @@ blossoming
 backbones
 bunnymouth
 bosjesman
-behaviors
 bloomy
 blay
 blindworm
@@ -3709,6 +3708,7 @@ batteners
 battens
 begripe
 bilking
+behaviors
 batter
 batterdock
 bombard
