@@ -7639,7 +7639,6 @@ feedsman
 foreflap
 finnish
 fangot
-forefront
 forefronts
 foregahger
 formulist
@@ -7781,6 +7780,7 @@ forenews
 forenight
 forhale
 fringiness
+forefront
 falsities
 forenoons
 forenoted
