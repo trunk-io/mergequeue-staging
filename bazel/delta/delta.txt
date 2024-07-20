@@ -2925,7 +2925,6 @@ dartsman
 deductio
 dubb
 deduction
-deductively
 deduit
 deduplication
 deecodder
@@ -15422,6 +15421,7 @@ dominoes
 dewanship
 dominos
 dominus
+deductively
 domitable
 dirtfarmer
 dryopteris
