@@ -1856,7 +1856,6 @@ eternalise
 epencephalic
 eyespot
 eyess
-eyestalk
 eusteles
 everywhere
 eyestrain
@@ -5267,6 +5266,7 @@ endoprocta
 elytrorrhaphy
 endoproctous
 endopterygota
+eyestalk
 endopterygote
 endopterygotic
 expletiveness
