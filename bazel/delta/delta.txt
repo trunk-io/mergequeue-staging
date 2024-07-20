@@ -558,6 +558,7 @@ daltonism
 daltonist
 dam
 damageability
+descant
 damageableness
 damageably
 damaged
@@ -13956,7 +13957,6 @@ daubreelite
 dopesheet
 distomatous
 dystome
-descant
 distomes
 distomian
 dodecagonal
