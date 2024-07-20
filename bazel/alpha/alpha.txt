@@ -1294,7 +1294,6 @@ acaleph
 assentors
 acalepha
 acalephae
-acalephan
 acalephe
 acalephes
 acalephoid
@@ -19848,6 +19847,7 @@ autostandardization
 arythmic
 arythmical
 arythmically
+acalephan
 arithmocracy
 arithmocratic
 arithmogram
