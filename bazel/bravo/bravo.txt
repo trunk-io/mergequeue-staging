@@ -1261,7 +1261,6 @@ briber
 biohazard
 bakunda
 bicorne
-babouvist
 bakuninist
 bakutu
 bakwiri
@@ -9533,6 +9532,7 @@ birota
 belows
 birotatory
 birred
+babouvist
 birri
 boorish
 birring
