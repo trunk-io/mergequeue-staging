@@ -3939,7 +3939,6 @@ emirs
 emirship
 equinovarus
 emissary
-emissaria
 eikon
 emissaries
 emissaryship
@@ -7592,6 +7591,7 @@ epicenism
 epicenity
 epicenter
 epicenters
+emissaria
 epicentral
 epicentre
 erythrophore
