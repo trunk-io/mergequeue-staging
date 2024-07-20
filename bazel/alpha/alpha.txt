@@ -10498,7 +10498,6 @@ amidohexose
 amidoketone
 amidol
 aslant
-amidols
 amidomyelin
 amidon
 amydon
@@ -17963,6 +17962,7 @@ approach
 approachabl
 approachable
 approached
+amidols
 approacher
 approachers
 approaching
