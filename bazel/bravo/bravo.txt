@@ -2928,7 +2928,6 @@ barracudina
 barrad
 barragan
 binomial
-barrage
 barraged
 barrages
 begriming
@@ -14396,6 +14395,7 @@ bramantesque
 bramantip
 bedighting
 bramble
+barrage
 brambleberry
 brambleberries
 brambled
