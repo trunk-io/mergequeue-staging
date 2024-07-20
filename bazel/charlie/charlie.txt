@@ -1163,6 +1163,7 @@ caleches
 caledonia
 caledonian
 countercarte
+completable
 caledonite
 calef
 craunched
@@ -14607,7 +14608,6 @@ crappers
 cirsoid
 cirsomphalos
 cirsophthalmia
-completable
 cirsotome
 cirsotomy
 cyrtandraceae
