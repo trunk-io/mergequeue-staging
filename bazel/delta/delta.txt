@@ -15345,7 +15345,6 @@ dress
 domically
 domicella
 domicil
-dacrycystalgia
 domicile
 domiciled
 domicilement
@@ -17503,6 +17502,7 @@ drowsihood
 drowsiness
 drowsing
 drowte
+dacrycystalgia
 drafters
 drub
 drubbed
