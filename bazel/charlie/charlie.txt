@@ -7813,7 +7813,6 @@ certifies
 certifying
 certiorate
 certiorating
-certioration
 certis
 certitude
 certose
@@ -13576,6 +13575,7 @@ cigar
 cigaresque
 cigarette
 cigarettes
+certioration
 cise
 cigarfish
 cigarillo
