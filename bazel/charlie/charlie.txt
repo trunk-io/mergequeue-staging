@@ -2928,7 +2928,6 @@ canvasing
 canvaslike
 canvasman
 caraunda
-canvass
 choromanic
 canvasser
 canvassers
@@ -11567,6 +11566,7 @@ choke
 chokeable
 chokeberry
 chokeberries
+canvass
 chokebore
 commensurableness
 chokecherry
