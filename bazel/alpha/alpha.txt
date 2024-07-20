@@ -4152,6 +4152,7 @@ administers
 administrable
 administrants
 administrated
+astigmism
 administrates
 administrating
 administration
@@ -10539,7 +10540,6 @@ amyelotrophy
 amyelous
 amies
 amiga
-astigmism
 amigas
 amygdal
 amygdalaceous
