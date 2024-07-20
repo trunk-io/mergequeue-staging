@@ -1573,7 +1573,6 @@ faveolus
 forerigging
 festinance
 fictionised
-faviform
 foretopman
 flappet
 foretackle
@@ -9591,6 +9590,7 @@ freed
 fenagler
 fibroins
 freedom
+faviform
 faming
 farnesols
 felicitations
