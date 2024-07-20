@@ -5763,7 +5763,6 @@ catecholamine
 cowishness
 catecholamines
 crazed
-catechumen
 catechumenal
 catechumenate
 catechumenically
@@ -27513,6 +27512,7 @@ covelline
 covellite
 coven
 covenable
+catechumen
 covenance
 covenant
 covenantal
