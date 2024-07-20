@@ -4429,7 +4429,6 @@ encopresis
 enantiomorphously
 enantiopathy
 episodial
-exanthine
 enantioses
 earthborn
 enantiosis
@@ -11366,6 +11365,7 @@ evanishing
 evanishment
 ethnographies
 evans
+exanthine
 evap
 evaporated
 electroballistically
