@@ -4432,6 +4432,7 @@ beclothe
 beclothed
 beclothes
 becloud
+box
 beclouded
 beclouding
 beclout
@@ -13821,7 +13822,6 @@ bielenite
 byway
 bowwow
 bowwows
-box
 boxball
 bote
 boxberry
