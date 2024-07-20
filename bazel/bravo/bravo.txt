@@ -7387,7 +7387,6 @@ bequeathment
 betrayer
 betraying
 bastardising
-betrayment
 betoss
 betrays
 betraise
@@ -9393,6 +9392,7 @@ bowdlerisation
 bibbers
 babus
 birdcraft
+betrayment
 birddom
 birde
 blastogenetic
