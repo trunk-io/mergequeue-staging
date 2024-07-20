@@ -4320,7 +4320,6 @@ gymnoglossate
 genep
 gigolo
 gyppo
-gambas
 gierfalcon
 gopura
 gorget
@@ -4833,6 +4832,7 @@ gyrodactylidae
 gyrodactylus
 gastrochaena
 gyrogonite
+gambas
 graffias
 gyrograph
 guato
