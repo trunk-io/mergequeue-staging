@@ -3629,7 +3629,6 @@ attentiveness
 addrest
 adds
 addu
-armorist
 adduce
 antilyssic
 aberuncator
@@ -12567,6 +12566,7 @@ anecdotalist
 anecdotally
 anecdote
 anecdotes
+armorist
 autocoid
 anecdotic
 anecdotically
