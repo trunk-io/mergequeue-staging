@@ -5908,7 +5908,6 @@ depredation
 depredationist
 depredations
 depredatory
-deprehend
 deprehensible
 disdaining
 diploptera
@@ -13169,6 +13168,7 @@ displenish
 deflocculation
 discomposure
 detecting
+deprehend
 displicence
 degerms
 displode
