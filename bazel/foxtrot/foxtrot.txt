@@ -4544,7 +4544,6 @@ forwardation
 fierte
 fivepins
 fives
-fivescore
 fivestones
 fix
 fixt
@@ -7471,6 +7470,7 @@ forebitten
 feminin
 fishwives
 folia
+fivescore
 feignedness
 fayal
 fullface
