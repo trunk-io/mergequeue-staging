@@ -9061,7 +9061,6 @@ eriometer
 eryon
 eriophyid
 eriophyidae
-eryopid
 eryopsid
 eriosoma
 epipodite
@@ -14117,6 +14116,7 @@ extrusile
 extrusion
 extrusions
 extrusive
+eryopid
 extubation
 equable
 energist
