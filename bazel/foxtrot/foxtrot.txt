@@ -2096,6 +2096,7 @@ fellowshipping
 fells
 finger
 feloness
+foreprovided
 felony
 fastiia
 frocking
@@ -7848,7 +7849,6 @@ flyby
 fovent
 forepromise
 forepromised
-foreprovided
 foreprovision
 forepurpose
 frontways
