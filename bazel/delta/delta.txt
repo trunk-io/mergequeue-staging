@@ -5579,6 +5579,7 @@ departure
 depas
 depass
 deodar
+disarticulate
 delphinoid
 donataries
 defigure
@@ -11139,7 +11140,6 @@ dyscrasia
 disarranging
 dysarthria
 dysarthric
-disarticulate
 disarticulating
 disarticulation
 disarticulator
