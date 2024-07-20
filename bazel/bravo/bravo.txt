@@ -939,7 +939,6 @@ bagio
 bedrenching
 bagirmi
 bagle
-baglike
 bagmaker
 bagne
 bagnes
@@ -18060,6 +18059,7 @@ businessman
 businessmen
 biophysics
 businesswoman
+baglike
 businesswomen
 boffolas
 busing
