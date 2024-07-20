@@ -412,6 +412,7 @@ galegine
 galei
 gumshoes
 galempong
+garmentworker
 gabelled
 garbel
 granat
@@ -1425,7 +1426,6 @@ glutael
 glycollide
 garmenture
 gieaways
-garmentworker
 garn
 garnerage
 gadrooning
