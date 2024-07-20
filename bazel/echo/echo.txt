@@ -1471,7 +1471,6 @@ effume
 exacts
 effused
 effusely
-effuses
 effusiometer
 espiegle
 effusions
@@ -6395,6 +6394,7 @@ exindusiate
 euphemizing
 ensindon
 ensynopticity
+effuses
 ensisternal
 ethylenic
 ergomaniac
