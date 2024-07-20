@@ -22740,7 +22740,6 @@ atmosphered
 atmosphereful
 atmospheres
 atmospheric
-atmospherical
 atmospherically
 atmospherics
 auklet
@@ -23208,6 +23207,7 @@ atween
 atwind
 atwirl
 atwist
+atmospherical
 arthragra
 automobilists
 afrete
