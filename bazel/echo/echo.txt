@@ -2459,7 +2459,6 @@ electrolyte
 electrolithotrity
 electrolytic
 electrolytical
-electrolytically
 electrolyzability
 electrolyzation
 entomologize
@@ -4444,6 +4443,7 @@ epinikian
 enchytrae
 expediente
 enarthrosis
+electrolytically
 evacuates
 enascent
 enates
