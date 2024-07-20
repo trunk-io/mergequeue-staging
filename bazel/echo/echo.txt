@@ -6097,7 +6097,6 @@ eurous
 eustomatous
 eucalyptole
 euphonium
-encase
 enneaphyllous
 enneasepalous
 enneaspermous
@@ -10071,6 +10070,7 @@ epichristian
 externation
 electrovalency
 estrado
+encase
 estragol
 estray
 endocline
