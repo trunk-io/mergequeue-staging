@@ -1739,7 +1739,6 @@ featherbird
 flintiness
 featherbone
 footweary
-faunology
 featherbrain
 fitified
 feathercut
@@ -4687,6 +4686,7 @@ fattish
 fortyish
 forebows
 fluorochrome
+faunology
 flagellata
 flagellatae
 flagellating
