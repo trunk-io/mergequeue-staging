@@ -8659,6 +8659,7 @@ bilobed
 bilobiate
 boltmaking
 bransle
+braziers
 bandlimits
 banneret
 bilocation
@@ -12846,7 +12847,6 @@ bootstraps
 boottopping
 booze
 boozed
-braziers
 boozehound
 boozer
 bushelage
