@@ -2846,7 +2846,6 @@ browniest
 bombastic
 baroni
 bake
-barony
 bassets
 baronial
 baronies
@@ -10233,6 +10232,7 @@ blagueur
 blah
 blahlaut
 blahs
+barony
 blaine
 blayne
 buttstrapping
