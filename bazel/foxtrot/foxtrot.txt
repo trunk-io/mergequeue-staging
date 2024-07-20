@@ -7893,7 +7893,6 @@ faltering
 filasse
 fibulocalcaneal
 foreseeability
-foreseeable
 foreseeing
 foreseeingly
 foreseen
@@ -9805,6 +9804,7 @@ ferned
 frenzily
 fish
 foreheads
+foreseeable
 freon
 freq
 frequency
