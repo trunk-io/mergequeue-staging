@@ -7496,6 +7496,7 @@ ceratodidae
 ceratodus
 ceratoduses
 ceratoglossal
+citharista
 claqueur
 ceratoglossus
 ceratohyal
@@ -14852,7 +14853,6 @@ citess
 citharas
 citharexylum
 citharist
-citharista
 coprophiliac
 citharoedi
 cistae
