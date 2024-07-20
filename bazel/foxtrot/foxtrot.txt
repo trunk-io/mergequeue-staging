@@ -4843,6 +4843,7 @@ forehood
 flameout
 forcleave
 flameouts
+fleckering
 fackeltanz
 flameproof
 formolite
@@ -5261,7 +5262,6 @@ flecken
 flecker
 filenames
 fanum
-fleckering
 fairkeeper
 flecky
 floaty
