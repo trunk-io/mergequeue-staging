@@ -17375,6 +17375,7 @@ coassume
 coassumed
 coassumes
 coassuming
+copolymerized
 coast
 coastally
 coasted
@@ -24702,7 +24703,6 @@ copolymer
 copolymeric
 copolymerism
 copolymerization
-copolymerized
 copolymerizing
 copolymers
 copopoda
