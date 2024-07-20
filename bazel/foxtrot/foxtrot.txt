@@ -4185,6 +4185,7 @@ forhaile
 foaled
 forewisdom
 fatless
+flanger
 firetower
 faquirs
 fubsier
@@ -8972,7 +8973,6 @@ four
 fourb
 fourball
 fourche
-flanger
 flowing
 franklinia
 festschriften
