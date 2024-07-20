@@ -616,6 +616,7 @@ backtrackers
 bechained
 backtracking
 backtracks
+botryoidal
 backtrick
 backus
 backveld
@@ -13340,7 +13341,6 @@ bandwidth
 bereaved
 botryoid
 beshrouding
-botryoidal
 botryoidally
 botryomycoma
 biquadratic
