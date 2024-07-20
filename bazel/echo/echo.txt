@@ -193,6 +193,7 @@ ean
 electrothermal
 earthquaken
 esquiring
+exposture
 earthrise
 earthset
 electroplated
@@ -7949,7 +7950,6 @@ enlight
 epilobium
 epilog
 epilogation
-exposture
 epilogism
 epilogist
 elocutionists
