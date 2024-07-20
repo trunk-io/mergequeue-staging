@@ -810,7 +810,6 @@ extensively
 ecstasy
 ecstasis
 ecstasize
-ecstatic
 ecstatica
 ecstatical
 ecstatically
@@ -6361,6 +6360,7 @@ enshielding
 enshrined
 ectomorphic
 enshrines
+ecstatic
 enshroud
 enshrouded
 elementalistically
