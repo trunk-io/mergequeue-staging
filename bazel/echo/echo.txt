@@ -6185,7 +6185,6 @@ enorn
 endosternum
 enosis
 electroencephalographically
-enviroment
 epimorphic
 enosist
 enrapture
@@ -6660,6 +6659,7 @@ enteroscopy
 enterosyphilis
 electrophonic
 enterospasm
+enviroment
 enterostasis
 earthstar
 extravert
