@@ -2385,7 +2385,6 @@ fermented
 fermenter
 fermentescible
 fermenting
-frankfurters
 fiendly
 furicane
 fermentum
@@ -10857,6 +10856,7 @@ fila
 feebleminded
 fistulariidae
 foundling
+frankfurters
 fishpool
 fulgence
 fulgency
