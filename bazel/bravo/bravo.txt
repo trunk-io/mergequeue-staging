@@ -9985,7 +9985,6 @@ bivouacking
 bivouacks
 befetter
 biwa
-byway
 byways
 bywalk
 byward
@@ -13822,6 +13821,7 @@ bowstrings
 bierstubes
 booboos
 bielenite
+byway
 bowwow
 bowwows
 box

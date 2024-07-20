@@ -16,6 +16,7 @@ fibriform
 fold
 fableland
 fablemaker
+fungian
 fablemongering
 fabler
 fablers
@@ -11183,7 +11184,6 @@ fungation
 fungi
 fungia
 freestones
-fungian
 fasciculated
 fungibility
 fungibles
