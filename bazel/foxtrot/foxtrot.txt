@@ -5187,7 +5187,6 @@ flavouring
 flavourless
 flavourous
 foreboot
-flavours
 forehinting
 foreshroud
 forayer
@@ -9213,6 +9212,7 @@ feast
 fragaria
 fragged
 foundationless
+flavours
 fallibilism
 frenal
 fragging
