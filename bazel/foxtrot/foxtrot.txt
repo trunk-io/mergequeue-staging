@@ -36,6 +36,7 @@ fakers
 firebrat
 filters
 fabrique
+flickerproof
 fabronia
 florulent
 fabula
@@ -10275,7 +10276,6 @@ froebelism
 froebelist
 fecund
 froeman
-flickerproof
 ferrado
 formalized
 frogbit
