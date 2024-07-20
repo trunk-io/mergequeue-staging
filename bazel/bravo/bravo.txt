@@ -12962,7 +12962,6 @@ bulbus
 bordroom
 bordun
 blackeye
-bordure
 bordured
 bordures
 bore
@@ -13386,6 +13385,7 @@ bottlers
 bottles
 bottlesful
 bottlestone
+bordure
 bottling
 besmooths
 bee
