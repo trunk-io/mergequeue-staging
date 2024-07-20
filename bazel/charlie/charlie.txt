@@ -21940,7 +21940,6 @@ confederatize
 confederator
 confelicity
 confer
-conferee
 conferees
 conference
 conferencing
@@ -29096,6 +29095,7 @@ crimper
 crimpers
 crimpy
 crimpiest
+conferee
 crimpiness
 crimping
 cran
