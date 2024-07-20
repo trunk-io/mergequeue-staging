@@ -204,7 +204,6 @@ facture
 factures
 facula
 facular
-faculative
 fencers
 fertilised
 fosterer
@@ -9463,6 +9462,7 @@ fraternization
 fraternize
 fraternizer
 fraternizing
+faculative
 fraticelli
 fraticellian
 fratry
