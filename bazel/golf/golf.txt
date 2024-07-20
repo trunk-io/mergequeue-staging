@@ -233,6 +233,7 @@ gelandesprung
 glaciers
 gramme
 getling
+gutterlike
 gainer
 glumal
 gainers
@@ -4647,7 +4648,6 @@ gipser
 gypsy
 gipsydom
 gearboxes
-gutterlike
 gipsied
 gypsied
 gipsies
