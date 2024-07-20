@@ -2483,7 +2483,6 @@ declensions
 declimatize
 declinable
 declinal
-dermographia
 declinate
 declination
 deiparous
@@ -18060,6 +18059,7 @@ dullish
 dullishly
 dullity
 dullness
+dermographia
 dullnesses
 dionise
 debatably
