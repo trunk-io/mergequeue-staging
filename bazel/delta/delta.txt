@@ -2864,7 +2864,6 @@ decussorium
 decwriter
 dedal
 dedanite
-demigoddessship
 dedd
 dedecorous
 dedenda
@@ -3773,6 +3772,7 @@ deification
 deifications
 deificatory
 deified
+demigoddessship
 distributionist
 deifier
 deifies
