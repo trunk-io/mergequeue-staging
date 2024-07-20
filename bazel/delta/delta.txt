@@ -5531,7 +5531,6 @@ depaganize
 doglegs
 depainted
 depainting
-depaints
 depayse
 distastefulness
 daimiel
@@ -15174,6 +15173,7 @@ dolichocephalous
 dolichocercic
 defatigate
 dolichocrany
+depaints
 dolichocranic
 dolichofacial
 dolichoglossus
