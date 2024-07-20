@@ -3999,7 +3999,6 @@ gastrotrich
 gie
 gye
 glazework
-gaelicism
 guyots
 gied
 ginzoes
@@ -5608,6 +5607,7 @@ grayhair
 granum
 globeholder
 glires
+gaelicism
 gliridae
 grains
 geodynamicist
