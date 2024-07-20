@@ -17128,7 +17128,6 @@ coachwright
 celery
 cytocyst
 coact
-coaction
 coactive
 coactively
 coactivity
@@ -17209,6 +17208,7 @@ coagula
 coagulability
 coagulant
 coagulants
+coaction
 coagulate
 captaculum
 coagulated
