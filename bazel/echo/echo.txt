@@ -4156,7 +4156,6 @@ emceed
 electrovalent
 effectuous
 emplacements
-emplane
 eggrolls
 emplanement
 equivaliant
@@ -7734,6 +7733,7 @@ erysipelothrix
 eumenorrhea
 enaunter
 epidendrum
+emplane
 epiderma
 emulsions
 eleutherian
