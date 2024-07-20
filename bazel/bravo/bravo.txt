@@ -6313,6 +6313,7 @@ benzamine
 benzaminic
 benzanalgen
 beaconage
+bitreadle
 benzanthracene
 benzanthrone
 benzantialdoxime
@@ -6547,7 +6548,6 @@ broeboe
 ber
 berairou
 bilaminated
-bitreadle
 bookstack
 belittles
 basilyst
