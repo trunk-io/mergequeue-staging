@@ -14084,7 +14084,6 @@ cinquain
 cinquains
 cinquanter
 cinque
-cabecera
 cinquecentist
 cinquecento
 cinquedea
@@ -16920,6 +16919,7 @@ clubbability
 contrafagotto
 clubbers
 clubby
+cabecera
 clubbier
 clubbily
 clubbiness
