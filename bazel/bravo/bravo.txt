@@ -3781,7 +3781,6 @@ batukite
 braza
 batule
 batuque
-batwa
 batwomen
 batz
 baubees
@@ -4581,6 +4580,7 @@ bedcovers
 bedder
 bedding
 beddingroll
+batwa
 beddings
 bede
 batrachoid
