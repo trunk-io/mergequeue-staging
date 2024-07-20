@@ -6147,6 +6147,7 @@ boarishly
 bowstring
 brot
 beneplacity
+bijective
 beneplacito
 benetted
 bronteon
@@ -8391,7 +8392,6 @@ bijasal
 booth
 bijection
 blackballed
-bijective
 bijectively
 bijoux
 bijugous
