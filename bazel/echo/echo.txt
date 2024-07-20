@@ -5600,7 +5600,6 @@ enforcers
 endamoebidae
 enforcibility
 enscrolling
-enforcible
 epiphyll
 enforcing
 enforcingly
@@ -5909,6 +5908,7 @@ ectozoic
 eolation
 exposal
 enhuile
+enforcible
 enhunger
 enhungered
 enhusk
