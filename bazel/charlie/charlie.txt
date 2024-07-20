@@ -1491,6 +1491,7 @@ callosities
 callosomarginal
 callosum
 callot
+cymas
 callous
 crutches
 calloused
@@ -13686,7 +13687,6 @@ cymaphytic
 cymaphytism
 cymarin
 cimaroon
-cymas
 cymatia
 cymation
 cymatium
