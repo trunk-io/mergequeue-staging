@@ -2001,7 +2001,6 @@ gaussage
 geniohyoglossus
 gluconate
 gaussian
-gaussmeter
 geometrical
 glaciological
 greedier
@@ -8755,6 +8754,7 @@ greffe
 greffier
 gashful
 greg
+gaussmeter
 gregaloid
 graduals
 granivore
