@@ -2418,6 +2418,7 @@ expos
 electroform
 electroforming
 electrofuse
+esterified
 electrofusion
 electrogalvanic
 electrogenesis
@@ -9958,7 +9959,6 @@ elite
 esterify
 electrohydraulically
 esterification
-esterified
 esterifies
 esterifying
 esterize
