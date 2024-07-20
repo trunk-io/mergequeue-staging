@@ -6149,7 +6149,6 @@ flowerist
 flowerless
 frivolers
 frettage
-flowerlessness
 flowerlike
 flowerpot
 flowerpots
@@ -7959,6 +7958,7 @@ flammability
 funder
 foresightless
 feasts
+flowerlessness
 flotorial
 foresign
 foresignify
