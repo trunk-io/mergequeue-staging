@@ -1631,7 +1631,6 @@ bead
 ballium
 ballywack
 ballywrack
-ballmine
 ballo
 bagdad
 ballock
@@ -16159,6 +16158,7 @@ brownback
 browned
 bucephala
 brownest
+ballmine
 birthstone
 brownian
 bioclean
