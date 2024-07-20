@@ -1594,7 +1594,6 @@ ballfield
 bummie
 browny
 breakfasts
-ballgown
 ballgowns
 ballhausplatz
 ballhawk
@@ -11648,6 +11647,7 @@ bobbinet
 bribeless
 bobbinite
 barylalia
+ballgown
 bewigs
 blackamoors
 bobbins
