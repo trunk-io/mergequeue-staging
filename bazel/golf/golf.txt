@@ -2520,7 +2520,6 @@ gemmiparously
 guardhouses
 genistin
 gemmologist
-gemmologists
 gemmule
 graniferous
 gemologist
@@ -8046,6 +8045,7 @@ getter
 granitiferous
 gramercies
 granitification
+gemmologists
 goys
 glozed
 grandnephew
