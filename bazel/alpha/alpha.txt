@@ -17876,7 +17876,6 @@ apposability
 appose
 apposed
 apposer
-apposers
 apposes
 apposing
 apposiopestic
@@ -24932,6 +24931,7 @@ airborne
 awareness
 awarn
 awaruite
+apposers
 awat
 awater
 amylodyspepsia
