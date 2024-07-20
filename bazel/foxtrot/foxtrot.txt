@@ -2826,7 +2826,6 @@ feudary
 feudatary
 feudatory
 filtrating
-feudatories
 feudee
 frogeye
 feuder
@@ -6199,6 +6198,7 @@ fireplough
 failures
 flatiron
 fishtail
+feudatories
 fluency
 fluently
 felones
