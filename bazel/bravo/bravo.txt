@@ -7061,6 +7061,7 @@ bespattering
 bespatterment
 bespawl
 bespeak
+biomagnetism
 biremes
 boson
 bushing
@@ -9003,7 +9004,6 @@ bedstands
 biologize
 bioluminescence
 biomagnetic
-biomagnetism
 biomass
 biomasses
 biomaterial
