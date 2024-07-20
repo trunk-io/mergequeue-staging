@@ -4703,6 +4703,7 @@ demobilisation
 demobilised
 demobilising
 demobilizations
+disannulment
 demobilize
 demobilized
 demobilizes
@@ -11063,7 +11064,6 @@ disannuller
 dripped
 degree
 displat
-disannulment
 disannuls
 disanoint
 disanswerable

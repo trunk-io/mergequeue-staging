@@ -1336,7 +1336,6 @@ graphite
 govern
 gardevisure
 gardy
-gardyloo
 gardnap
 giher
 gaufrettes
@@ -3260,6 +3259,7 @@ geoselenic
 geodetic
 geoside
 geosynchronous
+gardyloo
 gaminesses
 gipsyism
 gulfiest
