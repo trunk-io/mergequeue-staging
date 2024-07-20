@@ -2370,7 +2370,6 @@ gelatinizable
 guerre
 greenfinch
 gruppetto
-gelatinizer
 grutch
 gelatinizing
 grudgeful
@@ -4735,6 +4734,7 @@ girders
 girding
 gamuts
 girdingly
+gelatinizer
 goldy
 girdlecake
 gentianin
