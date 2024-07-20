@@ -3783,7 +3783,6 @@ germanesque
 gardenwards
 galany
 genericness
-glutathione
 gaga
 groupie
 gherkin
@@ -10531,6 +10530,7 @@ gunmaker
 gynopara
 gunmetals
 gunnage
+glutathione
 gunnar
 gerbil
 gunnen
