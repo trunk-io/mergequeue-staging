@@ -2472,7 +2472,6 @@ chemotactic
 canezou
 chuckle
 competitive
-canfield
 canfieldite
 calyciform
 counterprocess
@@ -18863,6 +18862,7 @@ coly
 coliander
 colibert
 colibertus
+canfield
 colibri
 colic
 colical
