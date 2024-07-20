@@ -4255,6 +4255,7 @@ beautifiers
 beautifies
 ballised
 braziery
+barbarity
 bellicist
 backbrand
 beautifying
@@ -12078,7 +12079,6 @@ bold
 bravest
 bolder
 bolderian
-barbarity
 boldface
 bostrychoid
 boldfaced
