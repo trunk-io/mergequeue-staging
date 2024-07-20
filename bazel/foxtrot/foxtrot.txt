@@ -1646,7 +1646,6 @@ fawns
 fawnskin
 fax
 faxed
-filaria
 faxes
 feud
 forcite
@@ -10056,6 +10055,7 @@ fellnesses
 farde
 functionalities
 freshets
+filaria
 frigorify
 footrest
 flacourtia
