@@ -8828,7 +8828,6 @@ barracks
 binnacle
 binnacles
 binned
-binnite
 binnogue
 bino
 bubba
@@ -9223,6 +9222,7 @@ biotron
 byously
 blackey
 biovulate
+binnite
 bioxalate
 bipolarize
 bioxide
