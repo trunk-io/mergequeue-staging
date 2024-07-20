@@ -10614,7 +10614,6 @@ empory
 ettle
 ettled
 etua
-ecumenics
 economizer
 etui
 etuis
@@ -11670,6 +11669,7 @@ evokers
 endothermically
 eldmother
 ergs
+ecumenics
 evoking
 evolate
 evolute
