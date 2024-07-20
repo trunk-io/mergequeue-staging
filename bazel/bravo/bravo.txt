@@ -7715,7 +7715,6 @@ bristliness
 biacuminate
 biacuru
 biajaiba
-bialate
 biali
 bialy
 bialis
@@ -16963,6 +16962,7 @@ barrenwort
 bulgaric
 burgau
 bulgarophil
+bialate
 bismutite
 bulge
 bulged
