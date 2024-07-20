@@ -3305,7 +3305,6 @@ etudes
 ead
 embain
 embays
-embale
 emballonurid
 emballonuridae
 embalmed
@@ -3935,6 +3934,7 @@ expressionless
 emir
 edaphology
 emirate
+embale
 exergues
 emirates
 erecters
