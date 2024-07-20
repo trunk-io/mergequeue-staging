@@ -3776,6 +3776,7 @@ carboxylase
 carboxylate
 carboxylated
 carboxylating
+chalicotheriid
 carboxylation
 coexerting
 carboxylic
@@ -8369,7 +8370,6 @@ chalices
 chalicosis
 chalicothere
 chaetophora
-chalicotheriid
 caveators
 chalicotheriidae
 cacoepist
