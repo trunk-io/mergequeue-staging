@@ -13452,7 +13452,6 @@ affiches
 apinage
 anisotropy
 anisotropically
-anencephalotrophia
 anisotropies
 anisotropism
 anisuria
@@ -20938,6 +20937,7 @@ anarchosyndicalist
 ascebc
 ascella
 ascelli
+anencephalotrophia
 ascence
 ascend
 ascendable
