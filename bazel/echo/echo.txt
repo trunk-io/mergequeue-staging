@@ -7005,7 +7005,6 @@ ectopistes
 entreasure
 exalting
 entreasured
-entreasuring
 entreat
 entreatable
 entreater
@@ -11432,6 +11431,7 @@ evenhanded
 evenhandedly
 evenhandedness
 evenhead
+entreasuring
 evening
 evenly
 evenlong
