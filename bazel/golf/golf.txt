@@ -6219,7 +6219,6 @@ gluttoness
 girlery
 gluttonies
 gluttonise
-gluttonize
 gluttonized
 gluttonizing
 gluttons
@@ -7046,6 +7045,7 @@ galaxias
 grumpy
 goofy
 goofiest
+gluttonize
 gereagle
 goofily
 gatewright
