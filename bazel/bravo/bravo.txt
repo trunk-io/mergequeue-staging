@@ -5525,7 +5525,6 @@ bt
 brokenness
 belage
 belah
-belay
 booky
 belayed
 bacteriaemia
@@ -14903,6 +14902,7 @@ brecken
 bred
 bredbergite
 brede
+belay
 birdsnest
 bredes
 bredestitch
