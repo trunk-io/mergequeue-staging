@@ -3745,7 +3745,6 @@ battledore
 battledores
 blazoners
 baldly
-biographist
 ballyrag
 battlefields
 battlefront
@@ -3877,6 +3876,7 @@ bawneen
 bawra
 bawsunt
 bawtie
+biographist
 bawties
 bolts
 baxter
