@@ -12436,6 +12436,7 @@ cladocerans
 christopher
 christos
 christs
+chiffrobe
 christward
 chroma
 chromaffin
@@ -21832,7 +21833,6 @@ conductivity
 conductivities
 counterwill
 conductometer
-chiffrobe
 conductometric
 conductor
 contingentialness
