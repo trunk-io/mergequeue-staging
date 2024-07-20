@@ -9426,7 +9426,6 @@ alpinia
 augurial
 alpiniaceae
 alpinism
-amblycephalus
 alpinisms
 alpinist
 avenaceous
@@ -15894,6 +15893,7 @@ apicitis
 anaspida
 alchitran
 antiperistasis
+amblycephalus
 antiperistatic
 antiperistatical
 angelique
