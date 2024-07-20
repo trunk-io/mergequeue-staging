@@ -12744,7 +12744,6 @@ chronon
 couchette
 chronopher
 chronophotograph
-chronos
 chronoscope
 chronoscopy
 chronoscopic
@@ -23918,6 +23917,7 @@ civilisedness
 contribution
 cephalob
 contributional
+chronos
 contributions
 centrolecithal
 contributor
