@@ -844,7 +844,6 @@ abret
 abri
 abrico
 abricock
-amphicome
 abricot
 abridgable
 abridge
@@ -20245,6 +20244,7 @@ arrestable
 arrestant
 arval
 arrestation
+amphicome
 arrested
 arrestee
 arrestees
