@@ -3162,7 +3162,6 @@ actinomere
 adenomyofibroma
 actinomeric
 axoplasm
-actinometers
 actinometric
 actinometricy
 actinomyces
@@ -25288,6 +25287,7 @@ azoles
 azolla
 achievability
 azon
+actinometers
 azonal
 azonic
 azonium

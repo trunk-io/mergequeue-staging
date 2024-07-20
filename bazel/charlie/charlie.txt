@@ -19591,6 +19591,7 @@ cytopharynx
 colpostat
 covisit
 colpotomy
+counternoise
 colpotomies
 colstaff
 colt
@@ -26997,7 +26998,6 @@ counternaiant
 counternarrative
 checkoffs
 counternecromancy
-counternoise
 counternotice
 counteroffer
 counteropening
