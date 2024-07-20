@@ -136,7 +136,6 @@ fictile
 facticide
 factional
 furnacite
-forfeit
 factionalism
 factionalist
 factionaries
@@ -10487,6 +10486,7 @@ frostnipped
 findfault
 filipiniana
 frostproof
+forfeit
 fulls
 fabricational
 ferlied
