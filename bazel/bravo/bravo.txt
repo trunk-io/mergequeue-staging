@@ -3705,7 +3705,6 @@ battalions
 battarism
 battarismus
 batteau
-batted
 battel
 bonnering
 bronchotomist
@@ -7969,6 +7968,7 @@ bichromated
 bluejackets
 bichromatize
 banderillero
+batted
 bichrome
 bichromic
 bicyanide
