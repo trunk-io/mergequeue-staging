@@ -1192,6 +1192,7 @@ educated
 educatedly
 educating
 education
+endoauscultation
 educationable
 emboldened
 educational
@@ -5048,7 +5049,6 @@ erythropoietin
 experientially
 endoaortitis
 electroosmotic
-endoauscultation
 enterauxe
 excitations
 endobatholithic

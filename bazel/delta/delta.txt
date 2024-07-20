@@ -2583,6 +2583,7 @@ decolorization
 draughtier
 disidentify
 decolorized
+drape
 dispersonify
 decolorizer
 decolorizing
@@ -16762,7 +16763,6 @@ drapability
 drapable
 draparnaldia
 defiled
-drape
 drapeability
 detonate
 draperess
