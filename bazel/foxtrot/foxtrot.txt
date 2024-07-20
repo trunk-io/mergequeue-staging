@@ -4057,6 +4057,7 @@ flyball
 fiqh
 frameable
 fique
+fumbulator
 fiques
 fadeless
 firbolg
@@ -7487,7 +7488,6 @@ forlornness
 foreboom
 forebooms
 forebowels
-fumbulator
 feverish
 ferried
 fomites
