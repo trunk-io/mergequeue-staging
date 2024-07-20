@@ -7489,6 +7489,7 @@ gameness
 greyskin
 gourmets
 gournard
+grunerite
 gastrolysis
 grillwork
 gynandry
@@ -9714,7 +9715,6 @@ gentilism
 gnomed
 grusinian
 grundsil
-grunerite
 gumptions
 giust
 glasshouses
