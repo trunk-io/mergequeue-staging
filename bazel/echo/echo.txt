@@ -2102,7 +2102,6 @@ elaphebolion
 elaphodus
 elaphomycetaceae
 elaphrium
-elaphure
 encrinoidea
 echinorhynchus
 elaphurine
@@ -13199,6 +13198,7 @@ emulations
 expletives
 exestuate
 expletory
+elaphure
 explicability
 elocution
 explicandum
