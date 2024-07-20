@@ -5030,7 +5030,6 @@ casebound
 calliphorid
 casebox
 cased
-casefies
 casefying
 caseful
 caseharden
@@ -16388,6 +16387,7 @@ clype
 carcinomatoid
 clypeal
 clypeaster
+casefies
 clypeastridea
 clypeastrina
 clypeastroid
