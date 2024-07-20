@@ -5288,6 +5288,7 @@ endorsee
 endorsees
 endere
 endorsers
+externalizes
 electrodialyzer
 enlargement
 endorses
@@ -13654,7 +13655,6 @@ euploids
 externalized
 epiphytous
 epiglottitis
-externalizes
 excursionary
 externalness
 evolvements

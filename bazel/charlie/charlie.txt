@@ -2931,6 +2931,7 @@ canvaslike
 canvasman
 caraunda
 canvass
+choromanic
 canvasser
 canvassers
 canvasses
@@ -19963,7 +19964,6 @@ comingle
 comings
 comino
 comique
-choromanic
 comism
 churlhood
 comitadji
