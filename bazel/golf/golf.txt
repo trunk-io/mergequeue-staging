@@ -465,7 +465,6 @@ galga
 galgal
 galgulidae
 galyac
-gynomonoecious
 galyaks
 galibi
 galictis
@@ -603,6 +602,7 @@ gunman
 gallic
 gonk
 graptolitic
+gynomonoecious
 gallicism
 gallicization
 gallicize
