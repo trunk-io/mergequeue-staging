@@ -2703,7 +2703,6 @@ barklyite
 barkometer
 berthed
 bavius
-barkpeeler
 barkpeeling
 barksome
 barlafumble
@@ -4661,6 +4660,7 @@ bedight
 bedighted
 bruzz
 bedights
+barkpeeler
 bedikah
 bedim
 boosterism
