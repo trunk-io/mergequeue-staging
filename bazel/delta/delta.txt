@@ -2923,7 +2923,6 @@ deductibles
 deducting
 dartsman
 deductio
-dubb
 deduction
 deductively
 deduit
@@ -16743,6 +16742,7 @@ desmarestiaceae
 dramatizing
 derangements
 dipole
+dubb
 dramaturgic
 dramaturgical
 dramaturgically
