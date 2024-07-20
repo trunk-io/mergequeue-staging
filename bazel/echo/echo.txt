@@ -4547,7 +4547,6 @@ encephalartos
 encephalasthenia
 essayical
 ecu
-encephalic
 edgebone
 ecumenicize
 encephalitic
@@ -12510,6 +12509,7 @@ electrodialyze
 exhorter
 exhorters
 exhorting
+encephalic
 etalon
 exhorts
 exhumations
