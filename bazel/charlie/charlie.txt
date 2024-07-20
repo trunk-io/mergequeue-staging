@@ -4921,7 +4921,6 @@ carua
 caruage
 carucarius
 carucate
-carucated
 carum
 correlational
 caruncle
@@ -7472,6 +7471,7 @@ cerate
 ceratectomy
 cerated
 cerates
+carucated
 ceratiasis
 ceratiid
 ceratiidae
