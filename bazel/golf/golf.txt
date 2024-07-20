@@ -16,7 +16,6 @@ gabber
 gabbers
 gabbier
 gabbiness
-geosphere
 gabbled
 gabblement
 gabbler
@@ -9762,6 +9761,7 @@ gthite
 gtt
 gu
 guaba
+geosphere
 grandads
 galvanometers
 gatefolds

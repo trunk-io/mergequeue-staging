@@ -4533,7 +4533,6 @@ basecoat
 bedaggle
 beday
 billons
-bedamned
 bedamning
 belches
 bedamp
@@ -7991,6 +7990,7 @@ bicyclo
 begrain
 bicycular
 biciliated
+bedamned
 bisulcated
 boyaux
 bibionidae
