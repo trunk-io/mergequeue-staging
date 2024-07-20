@@ -3749,7 +3749,6 @@ crab
 corinthian
 carbonization
 carbonize
-carbonized
 counterdoctrine
 carbonizers
 chylificatory
@@ -28540,6 +28539,7 @@ credensive
 credent
 cholum
 cyul
+carbonized
 credential
 credentialed
 congressman
