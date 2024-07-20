@@ -3374,7 +3374,6 @@ duodecimole
 deflocculant
 debasement
 deflocculate
-deflocculating
 deflocculator
 deflocculent
 deflorate
@@ -4727,6 +4726,7 @@ daylong
 defiledness
 democratist
 democratization
+deflocculating
 diorism
 democratize
 destaining
