@@ -2155,7 +2155,6 @@ exundation
 elastometry
 episememe
 elastose
-engarde
 elatcha
 etiologies
 empathies
@@ -4627,6 +4626,7 @@ enchantment
 epicarp
 epicoelia
 epistolean
+engarde
 enchantments
 enchants
 encharge
