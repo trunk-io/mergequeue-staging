@@ -7817,6 +7817,7 @@ epigastria
 envelopment
 extrications
 epigastriocele
+enteroclysis
 estrin
 epigastrium
 encastage
@@ -11402,7 +11403,6 @@ eveck
 evectant
 evected
 ensnarl
-enteroclysis
 effectible
 evection
 enargite
