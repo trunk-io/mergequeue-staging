@@ -5845,6 +5845,7 @@ flooder
 fluids
 fishway
 flooders
+faconne
 feltyfare
 furred
 floody
@@ -9252,7 +9253,6 @@ fragmentizing
 furled
 fragor
 fidejussion
-faconne
 ferd
 fragrance
 fermentations
