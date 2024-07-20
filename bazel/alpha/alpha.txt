@@ -183,7 +183,6 @@ abb
 abba
 abbacy
 abbacies
-abbacomes
 arvo
 abbaye
 archking
@@ -9486,6 +9485,7 @@ atenism
 altarwise
 altazimuth
 ahems
+abbacomes
 alter
 affied
 alterability
