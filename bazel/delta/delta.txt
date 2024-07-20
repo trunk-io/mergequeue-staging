@@ -6235,7 +6235,6 @@ dermatherm
 dermatine
 droving
 dermatitis
-dermatocele
 dermatocellulitis
 dermatoconiosis
 dermatocoptes
@@ -10949,6 +10948,7 @@ disaccharose
 disaccommodate
 disaccommodation
 disaccomodate
+dermatocele
 disaccordance
 disaccordant
 decaedron
