@@ -2215,7 +2215,6 @@ gecked
 guardfish
 gaseliers
 gecko
-geckoes
 geckotid
 geckotidae
 gecks
@@ -7928,6 +7927,7 @@ gravities
 grandezza
 guidances
 gynecomaniacal
+geckoes
 grandfather
 gemshorn
 grandfatherless
