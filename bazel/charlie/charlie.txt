@@ -4465,7 +4465,6 @@ carnivores
 coagulase
 carnivority
 carnivorous
-carnivorously
 cricothyroidean
 carnivorousness
 carnose
@@ -18511,6 +18510,7 @@ cohesion
 cohesionless
 cohesive
 caschielawis
+carnivorously
 cryptonemiales
 cohesively
 cohesiveness
