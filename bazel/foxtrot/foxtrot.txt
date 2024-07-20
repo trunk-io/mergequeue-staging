@@ -5312,7 +5312,6 @@ fleecelike
 fibrilled
 fleecer
 fleecers
-fleeched
 fleeches
 foreseat
 floristic
@@ -5534,6 +5533,7 @@ flightier
 falangism
 forelegs
 flightily
+fleeched
 footgrip
 flightiness
 flightless
