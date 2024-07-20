@@ -11569,6 +11569,7 @@ chokeable
 chokeberry
 chokeberries
 chokebore
+commensurableness
 chokecherry
 chokecherries
 choked
@@ -20101,7 +20102,6 @@ commensalistic
 commensally
 commensals
 commensurability
-commensurableness
 commensurably
 clan
 cantors
