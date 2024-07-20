@@ -11626,6 +11626,7 @@ cozies
 cholecystnephrostomy
 cholecystocolotomy
 cholecystogastrostomy
+choltry
 cholecystogram
 cholecystography
 cholecystojejunostomy
@@ -11744,7 +11745,6 @@ coessentialness
 cholos
 caup
 cholralosed
-choltry
 choluria
 choluteca
 chomp
