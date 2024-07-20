@@ -1971,7 +1971,6 @@ akoasma
 acephalus
 acepots
 ambitionless
-anematized
 acequiador
 acequias
 acer
@@ -18177,6 +18176,7 @@ aquamaniles
 aquamanilia
 aquamarine
 advantage
+anematized
 algometer
 aquameter
 aquanaut
