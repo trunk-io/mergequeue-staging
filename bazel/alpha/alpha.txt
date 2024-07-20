@@ -16031,7 +16031,6 @@ antipriesthood
 antiprime
 antiprimer
 antiprinciple
-antiprism
 antiproductively
 antiproductivity
 antiprofiteering
@@ -20492,6 +20491,7 @@ ascaron
 artemon
 anchoretical
 arrases
+antiprism
 autoptical
 arter
 arteriac
