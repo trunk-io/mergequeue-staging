@@ -3638,7 +3638,6 @@ degreed
 degreeing
 degreeless
 degrees
-degreewise
 degressive
 degressively
 degringolade
@@ -9703,6 +9702,7 @@ descendent
 dikaryotic
 dilaceration
 dilactone
+degreewise
 dilambdodont
 dilamination
 dilaniate

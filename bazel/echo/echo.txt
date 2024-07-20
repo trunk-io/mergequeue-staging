@@ -7297,7 +7297,6 @@ eolopiles
 ecumenicist
 eom
 engilds
-eomecon
 extols
 explorable
 epepophysis
@@ -14191,6 +14190,7 @@ exuvium
 encompany
 exxon
 exzodiacal
+eomecon
 exchangite
 epidendron
 ezekiel
