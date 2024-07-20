@@ -2829,7 +2829,6 @@ forelock
 feudalized
 footrace
 fulmar
-feudary
 feudatary
 feudatory
 filtrating
@@ -5869,6 +5868,7 @@ floodlit
 facioplegia
 footlessness
 flannelet
+feudary
 floodproof
 fortifiable
 floodways
