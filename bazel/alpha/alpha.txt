@@ -9245,7 +9245,6 @@ alnilam
 alniresinol
 alnitak
 alnitham
-alniviridol
 alnoite
 alnuin
 alnus
@@ -24356,6 +24355,7 @@ advocation
 autoput
 autor
 autoradiograph
+alniviridol
 autoradiography
 aestival
 autoreduction
