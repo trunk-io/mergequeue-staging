@@ -1179,7 +1179,6 @@ desexing
 dipleurula
 dasyuridae
 dasyurine
-dextral
 disport
 dasyuroid
 dasyurus
@@ -4555,6 +4554,7 @@ demilitarising
 demilitarized
 demilitarizes
 demilitarizing
+dextral
 devastated
 deal
 demiliterate
