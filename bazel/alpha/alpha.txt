@@ -2967,6 +2967,7 @@ acromiohumeral
 acromion
 avg
 acromioscapular
+anatomiless
 amphibalus
 acromiosternal
 acromiothoracic
@@ -10608,7 +10609,6 @@ amyloleucite
 amylolysis
 amylolytic
 amylometer
-anatomiless
 amylon
 amylopectin
 amylophagia
