@@ -180,7 +180,6 @@ clock
 cabriole
 cabrioles
 cabriolet
-cabriolets
 cabrit
 cabs
 cabstand
@@ -12786,6 +12785,7 @@ cestoda
 chuchona
 chuck
 canners
+cabriolets
 chuckfarthing
 creashaks
 chuckfull
