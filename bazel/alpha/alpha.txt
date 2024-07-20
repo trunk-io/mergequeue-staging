@@ -16796,7 +16796,6 @@ apertures
 aortotomy
 aperu
 apes
-abrim
 apesthetic
 alitrunk
 apesthetize
@@ -24555,6 +24554,7 @@ auxofluor
 auxograph
 auxographic
 alloo
+abrim
 auxology
 auxospore
 auxosubstance
