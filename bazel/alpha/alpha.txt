@@ -564,7 +564,6 @@ ablative
 apostrophus
 anatomopathological
 atweel
-atypical
 ablatively
 ablator
 ablaut
@@ -2377,6 +2376,7 @@ achromatopsia
 achromatosis
 arylation
 achromatous
+atypical
 achromats
 acloud
 achromia
