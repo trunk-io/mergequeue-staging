@@ -3546,7 +3546,6 @@ embosking
 embosks
 emotionalised
 erythrophyll
-espadon
 embosom
 embosomed
 embosoms
@@ -6496,6 +6495,7 @@ entail
 entailable
 epinasties
 entailed
+espadon
 evangelized
 entailment
 entailments
