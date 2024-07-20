@@ -859,7 +859,6 @@ ectocarpaceous
 ectocarpic
 ectocarpous
 ectocarpus
-ectocelic
 ectocinerea
 electros
 ectocinereal
@@ -14119,6 +14118,7 @@ extrusile
 extrusion
 extrusions
 extrusive
+ectocelic
 extubation
 equable
 energist
