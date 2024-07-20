@@ -3914,7 +3914,6 @@ adibasi
 assassinatress
 adicity
 adience
-adient
 adieu
 anagrammatical
 adieus
@@ -20552,6 +20551,7 @@ arteriosympathectomy
 arteriostenosis
 antifelony
 arteriostosis
+adient
 arteriostrepsis
 arteriotome
 arteriotomy
