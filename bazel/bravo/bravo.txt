@@ -8819,7 +8819,6 @@ binitarian
 binitarianism
 binits
 bink
-binman
 binmen
 barracks
 binnacle
@@ -11533,6 +11532,7 @@ bifolium
 boanthropy
 bibbed
 bacteriostasis
+binman
 bediamonded
 beauism
 behavers
