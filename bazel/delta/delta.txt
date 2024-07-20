@@ -4354,7 +4354,6 @@ deflectional
 disponing
 demarcature
 demarch
-demarche
 darners
 demarches
 deckhand
@@ -12986,6 +12985,7 @@ dispeed
 dreeing
 dispel
 dispellable
+demarche
 dispelled
 dekagrams
 dorsimedian
