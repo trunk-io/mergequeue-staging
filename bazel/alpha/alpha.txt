@@ -672,6 +672,7 @@ aboiteau
 aboiteaus
 abolish
 abolished
+almshouse
 almique
 abolishers
 abolishes
@@ -9215,7 +9216,6 @@ almsfolk
 almsful
 almsgiver
 ataigal
-almshouse
 almshouses
 almsman
 almsmen
