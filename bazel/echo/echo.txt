@@ -1661,6 +1661,7 @@ encoronet
 entier
 es
 egotisms
+encyclopedize
 egotistic
 egotistical
 egotistically
@@ -5593,7 +5594,6 @@ enforce
 enforceability
 enforced
 enforcedly
-encyclopedize
 extranatural
 enforcer
 eddish
