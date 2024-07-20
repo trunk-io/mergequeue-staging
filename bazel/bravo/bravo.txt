@@ -1560,7 +1560,6 @@ ballasts
 ballat
 ballata
 ballate
-batikulin
 ballatoon
 balldom
 battuto
@@ -8130,6 +8129,7 @@ bidree
 bidry
 bidstand
 babcock
+batikulin
 bye
 bieberite
 brichette
