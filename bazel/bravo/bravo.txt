@@ -9677,7 +9677,6 @@ banyuls
 bishoplet
 bishopling
 bishopscap
-bishopstool
 bisiliac
 bontok
 bisilicate
@@ -12377,6 +12376,7 @@ buisson
 bonasus
 bonaught
 bonaveria
+bishopstool
 bonity
 bismuthate
 bonavist

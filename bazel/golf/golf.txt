@@ -291,7 +291,6 @@ gloom
 grouchiness
 gaiting
 gurneyite
-gayway
 glaur
 gaywings
 gaj
@@ -4149,6 +4148,7 @@ gastrulas
 gild
 gingerly
 goadster
+gayway
 grithbreach
 gildable
 gildedness
