@@ -5690,7 +5690,6 @@ fliting
 fishnet
 flytings
 futharks
-fleuronee
 flytrap
 flytraps
 fibrocyst
@@ -7390,6 +7389,7 @@ forches
 forcedly
 forcy
 forcibility
+fleuronee
 frictionless
 forcible
 frillier
