@@ -3208,7 +3208,6 @@ actinosome
 actinosphaerium
 actinost
 actinostereoscopy
-actinostomal
 actinostome
 audits
 actinotherapeutic
@@ -8387,6 +8386,7 @@ antenarial
 alin
 agricultor
 aline
+actinostomal
 alineation
 approximant
 alinement
