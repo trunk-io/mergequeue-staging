@@ -8188,7 +8188,6 @@ eperva
 episcopolatry
 episcotister
 episedia
-excluding
 epigraphically
 episepalous
 empanelment
@@ -10840,6 +10839,7 @@ euhemerized
 earflaps
 euhyostyly
 euhyostylic
+excluding
 elides
 eukairite
 ectochondral
