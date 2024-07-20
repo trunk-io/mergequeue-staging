@@ -2402,7 +2402,6 @@ convertable
 candlestick
 candlesticked
 cacophonical
-candlesticks
 candlewaster
 candlewasting
 candlewick
@@ -18189,6 +18188,7 @@ coerces
 coercibility
 coercible
 ciceros
+candlesticks
 cynips
 coercibleness
 coercibly
