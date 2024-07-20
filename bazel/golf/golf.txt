@@ -929,6 +929,7 @@ gametocyst
 geison
 gametogenesis
 gametogeny
+gigge
 gametogonium
 gametoid
 gonopodium
@@ -10718,7 +10719,6 @@ ganowanian
 gutbucket
 giftie
 gutium
-gigge
 grinnellia
 goldic
 gutlike
