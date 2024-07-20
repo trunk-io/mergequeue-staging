@@ -4503,7 +4503,6 @@ graypate
 gingival
 glaciolacustrine
 gingivectomy
-gingivitis
 gingivoglossitis
 gingivolabial
 gingko
@@ -5523,6 +5522,7 @@ glycosyl
 glycosyls
 galliot
 glycosine
+gingivitis
 gazeboes
 gastroduodenoscopy
 glycuronic
