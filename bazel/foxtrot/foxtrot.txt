@@ -5411,6 +5411,7 @@ fleshquake
 flet
 fletched
 fluoridised
+frontal
 fletcherism
 flooding
 fletcherite
@@ -7224,7 +7225,6 @@ footstock
 functionating
 footstone
 footstools
-frontal
 footways
 flannelflower
 forbids
