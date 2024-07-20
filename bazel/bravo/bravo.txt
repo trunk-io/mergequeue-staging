@@ -13824,7 +13824,6 @@ bielenite
 byway
 bowwow
 bowwows
-box
 boxball
 bote
 boxberry
@@ -17519,6 +17518,7 @@ burbler
 burblers
 burbly
 bacitracin
+box
 baboo
 birdseed
 burbliest
