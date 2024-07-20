@@ -1461,7 +1461,6 @@ garotter
 gravest
 gambe
 garous
-garpikes
 garret
 ganoidian
 gobleted
@@ -5744,6 +5743,7 @@ ganges
 gaplessness
 globular
 grata
+garpikes
 gollywog
 georgia
 gconvert
