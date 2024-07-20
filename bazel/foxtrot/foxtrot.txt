@@ -1688,6 +1688,7 @@ fusillade
 feared
 firy
 feelable
+firearmed
 fearer
 fishpotter
 fearers
@@ -2325,7 +2326,6 @@ feretory
 folks
 faraon
 fluorinations
-firearmed
 fodders
 frontes
 folkvang
