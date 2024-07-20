@@ -5518,7 +5518,6 @@ glycosine
 gazeboes
 gastroduodenoscopy
 glycuronic
-glycuronid
 graph
 glidder
 gliddery
@@ -6068,6 +6067,7 @@ graduateship
 gluck
 grievedly
 gynaecologic
+glycuronid
 glucocorticoid
 ghostiest
 gigahertzes
