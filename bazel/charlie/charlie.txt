@@ -6715,7 +6715,6 @@ choak
 cosmati
 celiectomy
 celiemia
-celiocentesis
 celiocyesis
 celiocolpotomy
 celiodynia
@@ -27919,6 +27918,7 @@ cracking
 crackings
 crackjaw
 contrafacture
+celiocentesis
 cristineaux
 crackle
 crackled
