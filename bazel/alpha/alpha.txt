@@ -2468,7 +2468,6 @@ acidology
 acidometry
 acidophil
 acidophile
-acidophilic
 additum
 acidoproteolytic
 acidoses
@@ -18234,6 +18233,7 @@ aquatints
 aquatone
 abampere
 aquatones
+acidophilic
 aquavit
 aquavits
 armillate
