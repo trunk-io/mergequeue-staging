@@ -8254,6 +8254,7 @@ allotypic
 alibility
 alibis
 alible
+autocephality
 alicant
 ahistoric
 alice
@@ -23949,7 +23950,6 @@ autocephalia
 autocephalic
 apocynthions
 agouti
-autocephality
 autocephalous
 autoceptive
 autochanger
