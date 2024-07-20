@@ -7945,6 +7945,7 @@ foreshowed
 foreshower
 foreshows
 foreside
+filigera
 foresight
 feodum
 frithbot
@@ -10681,7 +10682,6 @@ ferrugination
 fabricators
 frumentation
 frumenty
-filigera
 firework
 frumentum
 fount
