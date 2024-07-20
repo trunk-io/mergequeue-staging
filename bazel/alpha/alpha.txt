@@ -860,6 +860,7 @@ abridgements
 abridger
 abstractionism
 appulsive
+agoge
 abridges
 abridgment
 abridgments
@@ -6392,7 +6393,6 @@ aeronomics
 antonym
 ago
 agog
-agoge
 agogic
 agoho
 agoing
