@@ -1714,7 +1714,6 @@ gastrocnemii
 gastrocnemius
 gastrocoel
 gastrocolostomy
-gastrocolotomy
 goaltender
 gastrocolpotomy
 gymel
@@ -5983,6 +5982,7 @@ gebang
 grossular
 geophagy
 guerison
+gastrocolotomy
 glossopteris
 genearch
 glossoptosis
