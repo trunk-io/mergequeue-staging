@@ -5135,7 +5135,6 @@ gulash
 glaives
 geochemistry
 glam
-glamberry
 glamorized
 glamorizer
 glamorizes
@@ -10018,6 +10017,7 @@ gudgeoning
 gudgeons
 gudget
 gigman
+glamberry
 grapestalk
 grypanian
 globuloid
