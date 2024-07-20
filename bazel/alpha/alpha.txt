@@ -4369,7 +4369,6 @@ adoretus
 adoring
 adoringly
 attestations
-annotative
 apiarist
 adorn
 adornation
@@ -10783,6 +10782,7 @@ ammeters
 ammi
 ankou
 ammines
+annotative
 actinoelectric
 ammino
 amminochloride
