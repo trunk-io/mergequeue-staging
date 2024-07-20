@@ -5616,6 +5616,7 @@ epistolar
 enfort
 evilnesses
 enforth
+etceteras
 enfoul
 extolls
 enfoulder
@@ -10163,7 +10164,6 @@ etatisme
 elves
 etc
 etcetera
-etceteras
 etchant
 etched
 etcher
