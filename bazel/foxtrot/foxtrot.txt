@@ -4053,7 +4053,6 @@ fiqh
 frameable
 fique
 fiques
-fir
 fadeless
 firbolg
 frimaire
@@ -6009,6 +6008,7 @@ formals
 florivorous
 fimbriate
 florizine
+fir
 floroon
 floroscope
 fissility
