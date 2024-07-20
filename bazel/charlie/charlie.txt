@@ -4999,7 +4999,6 @@ cascaded
 cascades
 cascadia
 cascadian
-cascading
 cascadite
 cascalote
 cruelhearted
@@ -10213,6 +10212,7 @@ chevachie
 cowages
 chevage
 cheval
+cascading
 chevalet
 chevalets
 cryptozonate

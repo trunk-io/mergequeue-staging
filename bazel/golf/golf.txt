@@ -4976,6 +4976,7 @@ grainfield
 giveth
 garments
 gyrally
+gyrohorizon
 giving
 geneura
 gyving
@@ -6116,7 +6117,6 @@ geoagronomic
 geostrategic
 glossocomium
 glucosin
-gyrohorizon
 grievances
 glucosine
 glucosulfone
