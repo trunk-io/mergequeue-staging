@@ -2515,7 +2515,6 @@ electromotive
 embue
 electromotivity
 electromotograph
-electromotor
 electron
 electronarcosis
 elevener
@@ -3438,6 +3437,7 @@ egoizer
 embitterer
 embitterments
 embitters
+electromotor
 emblanch
 exterminator
 emblazed

@@ -4847,7 +4847,6 @@ flamenship
 fingerprinting
 faburden
 fuzzle
-forehood
 flameout
 forcleave
 flameouts
@@ -6808,6 +6807,7 @@ fetting
 fld
 fermail
 fokker
+forehood
 folate
 folates
 folcgemot
