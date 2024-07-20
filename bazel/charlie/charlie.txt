@@ -7655,7 +7655,6 @@ cerebropedal
 cerebrophysiology
 cerebropsychosis
 cerebrosclerosis
-cachexia
 cerebrosensorial
 cerebrosis
 cerebrospinal
@@ -13438,6 +13437,7 @@ cyclopean
 curaris
 cyclopedias
 cyclopedist
+cachexia
 cyclopentanone
 controversialists
 counterdraft
