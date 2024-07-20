@@ -5473,6 +5473,7 @@ beadhouses
 bestowed
 bejig
 bejuco
+bumbard
 bajri
 bejuggle
 bejumble
@@ -17207,7 +17208,6 @@ bulwarks
 bumaree
 bumbailiff
 bumbailiffship
-bumbard
 bumbaste
 biaxially
 barometz
