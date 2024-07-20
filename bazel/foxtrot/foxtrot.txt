@@ -4909,7 +4909,6 @@ flankers
 flanking
 flankwise
 flannelboard
-flannelbush
 flanneled
 flanneling
 flannelleaf
@@ -11262,6 +11261,7 @@ forbid
 funli
 funmaker
 funmaking
+flannelbush
 funned
 frameableness
 flambeing
