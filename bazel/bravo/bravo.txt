@@ -4415,6 +4415,7 @@ beckoning
 backstair
 bonairness
 beclamor
+bringer
 backhands
 biopsies
 beclamored
@@ -15384,7 +15385,6 @@ bringall
 bringdown
 bringed
 bringela
-bringer
 bringeth
 brambling
 bullockman
