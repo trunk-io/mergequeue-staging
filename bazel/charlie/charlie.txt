@@ -5751,7 +5751,6 @@ calipered
 catechism
 catechismal
 catechist
-catechistic
 catechistical
 catechists
 catechization
@@ -11838,6 +11837,7 @@ chondromyxosarcoma
 chondromucoid
 chondropharyngeal
 circumvolution
+catechistic
 chondropharyngeus
 chondrophyte
 chondrophore
