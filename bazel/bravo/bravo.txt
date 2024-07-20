@@ -3460,6 +3460,7 @@ boras
 bastiment
 bastinaded
 bastinades
+brinier
 baroi
 bastinading
 burbots
@@ -15395,7 +15396,6 @@ bringsel
 brynhild
 briny
 brinie
-brinier
 brinies
 brininess
 brinish

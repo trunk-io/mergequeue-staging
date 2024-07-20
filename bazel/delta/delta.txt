@@ -9056,7 +9056,6 @@ dictagraph
 dub
 dictamen
 dictamina
-dictamnus
 dictaphone
 dictaphones
 digeny
@@ -17322,6 +17321,7 @@ drona
 dronage
 drone
 droned
+dictamnus
 densimetric
 dronel
 dronepipe
