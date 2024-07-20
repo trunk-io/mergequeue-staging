@@ -3081,7 +3081,6 @@ elohist
 eloign
 externalizing
 eloigner
-eloigning
 eloin
 entrustment
 eloine
@@ -4030,6 +4029,7 @@ emove
 eponymize
 emp
 empaestic
+eloigning
 efficaciously
 empalement
 empaler
