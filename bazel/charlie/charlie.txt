@@ -2783,7 +2783,6 @@ cantefable
 canter
 canterburian
 canterburianism
-chalcosiderite
 cheken
 cladosporium
 canterburies
@@ -22576,6 +22575,7 @@ cravenhearted
 coparcener
 conjunctures
 conjuration
+chalcosiderite
 conjurations
 conjurator
 conjure
