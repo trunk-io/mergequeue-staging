@@ -5103,7 +5103,6 @@ epeidia
 endocyst
 endocystitis
 epistlar
-endocytosis
 earthsmoke
 endoclinal
 evilness
@@ -8794,6 +8793,7 @@ economizing
 equivalences
 esthesiometer
 equivalencies
+endocytosis
 equivalencing
 equivalent
 equivalently
