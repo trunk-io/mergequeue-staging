@@ -398,7 +398,6 @@ daimiate
 dn
 didacticality
 daimio
-daimyo
 drungar
 diazoamine
 duboisin
@@ -4660,6 +4659,7 @@ demythologising
 demythologize
 detruncated
 demythologizer
+daimyo
 dryermen
 dees
 dellies
