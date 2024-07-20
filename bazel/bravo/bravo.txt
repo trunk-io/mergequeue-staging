@@ -2272,7 +2272,6 @@ barging
 baralipton
 baramika
 barangay
-bertat
 barani
 bararesque
 bararite
@@ -9200,6 +9199,7 @@ biotins
 biotype
 babel
 biotypic
+bertat
 beds
 biotypology
 biotite
