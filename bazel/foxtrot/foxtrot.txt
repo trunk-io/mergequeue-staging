@@ -6894,7 +6894,6 @@ ficche
 folkloristic
 folklorists
 footman
-flatmate
 farmhold
 folkmooter
 funguses
@@ -8094,6 +8093,7 @@ facilitation
 forwardal
 featurely
 foreuse
+flatmate
 foreutter
 forevalue
 fittable
