@@ -5202,7 +5202,6 @@ beggars
 beggarweed
 bonilass
 beggarwoman
-begger
 beggiatoaceae
 begging
 beggingly
@@ -13849,6 +13848,7 @@ boxhead
 bepuffed
 bluffable
 boxy
+begger
 boxier
 boxiness
 boxing
