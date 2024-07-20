@@ -2186,6 +2186,7 @@ banquet
 blader
 basenet
 banqueted
+bootlegs
 banqueting
 banquets
 ballote
@@ -12824,7 +12825,6 @@ bootleger
 bootlegged
 bootlegger
 bootlegging
-bootlegs
 bootless
 bootlessly
 bootlick
