@@ -6931,6 +6931,7 @@ antimodernism
 airdrome
 airdromes
 apulmonic
+anglicisms
 airdrop
 airdropped
 airdropping
@@ -13272,7 +13273,6 @@ animally
 animallike
 animalness
 animals
-anglicisms
 accouterments
 appl
 animando
