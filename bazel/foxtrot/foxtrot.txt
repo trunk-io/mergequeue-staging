@@ -4604,6 +4604,7 @@ fjelds
 forrue
 fjerding
 fadeaway
+fluorometry
 fjord
 feezed
 fuzil
@@ -7482,7 +7483,6 @@ frigage
 fescues
 foreboding
 forebodingness
-fluorometry
 folliculose
 forlornness
 foreboom
