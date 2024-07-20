@@ -5287,6 +5287,7 @@ afaint
 afb
 afd
 afear
+auriculovertical
 arapahite
 afeard
 afeared
@@ -10183,7 +10184,6 @@ ambrotype
 ambulacra
 atterminement
 accur
-auriculovertical
 ambulacral
 ambulanced
 ambulancer
