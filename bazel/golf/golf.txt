@@ -6096,7 +6096,6 @@ gadger
 gluconeogenetic
 gluconeogenic
 grapnels
-glucoprotein
 gesning
 goback
 glucosazone
@@ -8165,6 +8164,7 @@ grapevines
 grapewise
 graphalloy
 gyrostatic
+glucoprotein
 groover
 geck
 graphed
