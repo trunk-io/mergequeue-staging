@@ -1897,7 +1897,6 @@ debugs
 dies
 discrimination
 dithiol
-deconvolution
 debunker
 debunkers
 durances
@@ -12157,6 +12156,7 @@ disfavourer
 disfavouring
 disfeature
 disfeatured
+deconvolution
 discursion
 disjointure
 drepanaspis
