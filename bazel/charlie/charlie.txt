@@ -11336,7 +11336,6 @@ chlorinator
 chlorines
 credere
 chlorinity
-corantos
 chlorinize
 cyclamates
 chlorinous
@@ -30357,6 +30356,7 @@ checklists
 crux
 cruxes
 caseconv
+corantos
 cruzado
 cruzadoes
 cruzeiro
