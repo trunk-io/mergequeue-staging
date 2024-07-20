@@ -3970,7 +3970,6 @@ anthesterion
 ambrose
 adiposis
 adiposity
-adiposogenital
 adiposuria
 adipsy
 adipsia
@@ -14579,6 +14578,7 @@ anthrapurpurin
 anthraquinol
 anthraquinone
 appomatox
+adiposogenital
 anthraquinonyl
 anthrarufin
 anthrasilicosis
