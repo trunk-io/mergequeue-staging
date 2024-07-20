@@ -1949,7 +1949,6 @@ decadianome
 dauerlauf
 drysalter
 decadic
-decadist
 decadrachma
 duressor
 decadrachmae
@@ -15374,6 +15373,7 @@ diathermancy
 difficult
 domination
 decursion
+decadist
 dominations
 dominative
 disendowed
