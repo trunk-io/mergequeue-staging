@@ -14929,7 +14929,6 @@ citizenship
 cytoanalyzer
 cytoarchitectural
 cytoarchitecturally
-cytoarchitecture
 cytoblast
 confidences
 cytoblastema
@@ -18575,6 +18574,7 @@ coiffeuses
 coiffing
 cowleech
 coiffure
+cytoarchitecture
 convoked
 coiffured
 coiffures
