@@ -1103,6 +1103,7 @@ edify
 echolalia
 edificate
 edificative
+episcopization
 expatiator
 elderhood
 enlightenedness
@@ -8186,7 +8187,6 @@ emplaned
 episcopicide
 episcopised
 episcopising
-episcopization
 episcopize
 episcopized
 eperva
