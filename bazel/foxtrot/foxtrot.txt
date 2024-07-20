@@ -3820,6 +3820,7 @@ focus
 finalities
 finalization
 finalized
+fez
 finalizes
 fraternized
 farcist
@@ -4669,7 +4670,6 @@ flacourtiaceous
 flaff
 fishman
 formularizer
-fez
 flaffer
 flagarie
 fingertip
