@@ -4918,7 +4918,6 @@ flannelmouthed
 flakeboard
 flannels
 flanque
-flans
 fernery
 fairish
 fluviatic
@@ -9675,6 +9674,7 @@ fitters
 fodda
 fiancailles
 featherless
+flans
 fraenulum
 freesilverism
 foredoomer
