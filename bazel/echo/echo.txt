@@ -2073,7 +2073,6 @@ extradition
 elaeothesia
 elaeothesium
 equiangle
-explodable
 estates
 elaic
 entrecotes
@@ -6551,6 +6550,7 @@ entea
 erns
 entelam
 egress
+explodable
 empetraceae
 entelechial
 entellus
