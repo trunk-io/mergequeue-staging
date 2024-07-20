@@ -5479,7 +5479,6 @@ afforesting
 afforestment
 awnless
 affray
-accentuality
 affrayed
 affrayer
 affrayers
@@ -16274,6 +16273,7 @@ antisophistication
 antisoporific
 antispace
 aloof
+accentuality
 antispadix
 antispasis
 antispastic
