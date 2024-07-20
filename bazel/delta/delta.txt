@@ -2436,6 +2436,7 @@ declaim
 disanimated
 declaimed
 declaimer
+dyers
 declaimers
 declamando
 declamation
@@ -10586,7 +10587,6 @@ diplobacillus
 diplobacterium
 diploblastic
 diplocaulescent
-dyers
 developability
 diplocephalus
 dubitative
