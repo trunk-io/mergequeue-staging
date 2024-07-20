@@ -3363,7 +3363,6 @@ gerbillinae
 gerbils
 glycogens
 gerefa
-gerenda
 gerendum
 gluts
 gerent
@@ -6493,6 +6492,7 @@ gordyaean
 gobiid
 gobiidae
 gobylike
+gerenda
 gobinism
 gushet
 gobio
