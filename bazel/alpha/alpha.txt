@@ -5803,7 +5803,6 @@ afterthoughts
 arain
 apastron
 aftertrial
-advisable
 afterturn
 ammophila
 aftervision
@@ -10773,6 +10772,7 @@ ammelide
 ammelin
 ammeline
 ammeos
+advisable
 ammer
 ammeters
 ammi
