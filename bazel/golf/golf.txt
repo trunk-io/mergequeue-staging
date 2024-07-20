@@ -1313,7 +1313,6 @@ garcon
 gonadotrope
 girdler
 gardbrace
-gardener
 gardeners
 gatha
 gardenership
@@ -2488,6 +2487,7 @@ grottowork
 guardian
 gemless
 grizzliest
+gardener
 gemlich
 gladelike
 gemlike
