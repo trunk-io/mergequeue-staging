@@ -1039,7 +1039,6 @@ calciclase
 calcicole
 cretaceous
 calcicolous
-calcicosis
 calcydon
 cinctures
 calciferol
@@ -14521,6 +14520,7 @@ coking
 circumventive
 circumventor
 citrus
+calcicosis
 circumvest
 chattier
 circumvolant
