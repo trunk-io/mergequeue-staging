@@ -2403,7 +2403,6 @@ gaseosity
 gelding
 gasterosteidae
 geldings
-gelds
 gelechia
 geleem
 gurgoyl
@@ -2534,6 +2533,7 @@ graniferous
 gemologist
 gemologists
 gemot
+gelds
 gemots
 gems
 gained
