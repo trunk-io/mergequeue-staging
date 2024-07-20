@@ -11797,6 +11797,7 @@ chondroangioma
 chondroarthritis
 chondroblastoma
 chondrocarcinoma
+charkha
 chondrocoracoid
 chondrocostal
 chondrocranial
@@ -31225,7 +31226,6 @@ curatory
 curatorial
 catoblepas
 curatorium
-charkha
 consitutional
 curators
 curatorship
