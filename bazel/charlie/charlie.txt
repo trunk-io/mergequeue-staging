@@ -17601,6 +17601,7 @@ coccid
 coccidae
 coccidial
 coccidian
+cragged
 coccidiidea
 coccidioidal
 coccidioides
@@ -27995,7 +27996,6 @@ craftwork
 craftworker
 crag
 craggan
-cragged
 calciphilous
 craggy
 craggier
