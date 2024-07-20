@@ -15232,7 +15232,6 @@ antidromically
 antidromous
 antidrug
 antidumping
-antiecclesiastic
 antiecclesiastical
 antiecclesiastically
 antiecclesiasticism
@@ -19228,6 +19227,7 @@ arcsin
 apotypic
 arcsine
 arctalia
+antiecclesiastic
 arctalian
 arctamerican
 arctan

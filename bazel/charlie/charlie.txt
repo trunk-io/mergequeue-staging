@@ -8759,6 +8759,7 @@ chanteys
 chanter
 chanterelle
 chanters
+conchyle
 crimple
 chantership
 chanteur
@@ -21379,7 +21380,6 @@ confirmative
 channellers
 conchifera
 conchiferous
-conchyle
 conchylia
 conchyliated
 conchyliferous
