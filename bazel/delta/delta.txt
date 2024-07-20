@@ -5354,7 +5354,6 @@ debar
 drouthier
 dentinal
 diaporthe
-dentinalgia
 dentinasal
 denaturization
 discomposing
@@ -8338,6 +8337,7 @@ disceptation
 dephlegmation
 doughs
 docibleness
+dentinalgia
 dialysation
 dialysed
 defoliations
