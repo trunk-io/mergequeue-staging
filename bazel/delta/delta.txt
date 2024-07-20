@@ -6679,7 +6679,6 @@ designatory
 designed
 designedly
 degradand
-designee
 designer
 designful
 designfully
@@ -9845,6 +9844,7 @@ diluters
 dilutes
 dumbness
 dilution
+designee
 dunderfunk
 daredevilry
 dysbarism
