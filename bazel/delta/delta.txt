@@ -5802,6 +5802,7 @@ dashwheel
 deportability
 deportation
 deporte
+doom
 deported
 deportee
 deporting
@@ -15595,7 +15596,6 @@ documents
 dooly
 doolie
 doolies
-doom
 decisiveness
 doomed
 doomful
