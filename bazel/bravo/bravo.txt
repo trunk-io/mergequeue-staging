@@ -5513,7 +5513,6 @@ briareus
 beknown
 belabor
 belabored
-belaboring
 beastbane
 belabors
 belabours
@@ -10282,6 +10281,7 @@ bourock
 bisischiadic
 buffable
 blanching
+belaboring
 butine
 blancmange
 besnows
