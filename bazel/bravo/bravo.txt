@@ -7218,7 +7218,6 @@ bestrewn
 brownistical
 basses
 bestrid
-bestridden
 bittacle
 blockaderunning
 bathala
@@ -10515,6 +10514,7 @@ blattidae
 blattiform
 blatting
 blattodea
+bestridden
 blattoid
 balneal
 blaubok
