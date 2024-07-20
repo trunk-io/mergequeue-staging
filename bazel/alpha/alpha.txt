@@ -13755,7 +13755,6 @@ annumerate
 annunciable
 annunciade
 anstoss
-annunciate
 annunciated
 absolutistic
 annunciates
@@ -21961,6 +21960,7 @@ assurer
 assures
 assurge
 anchithere
+annunciate
 assurgency
 assurgent
 assuring
