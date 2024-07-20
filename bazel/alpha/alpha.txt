@@ -2189,7 +2189,6 @@ acetophenine
 acetopiperone
 acetosalicylic
 acetose
-amidoazobenzene
 acetosity
 acetosoluble
 acetostearin
@@ -6758,6 +6757,7 @@ aide
 acarocecidium
 aydendron
 aidenn
+amidoazobenzene
 aiders
 aides
 aidful
