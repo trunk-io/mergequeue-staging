@@ -2386,7 +2386,6 @@ greaves
 gablewindowed
 gelations
 gestureless
-guzzled
 geldable
 geldant
 gambit
@@ -4075,6 +4074,7 @@ grommet
 graplin
 gigatons
 gigavolt
+guzzled
 gigawatt
 genetor
 gigawatts
