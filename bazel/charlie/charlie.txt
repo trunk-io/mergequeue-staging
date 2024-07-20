@@ -1976,7 +1976,6 @@ campane
 campanella
 cecils
 campanian
-campaniform
 campanile
 campaniles
 campanili
@@ -26850,6 +26849,7 @@ counterestablishment
 cordoning
 counterexaggeration
 ctenophoric
+campaniform
 counterexample
 campulitropous
 counterexamples
