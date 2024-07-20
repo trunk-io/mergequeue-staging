@@ -10469,7 +10469,6 @@ chiefling
 chiefry
 chiefs
 chiefship
-chieftain
 chieftaincy
 conure
 chieftaincies
@@ -12626,6 +12625,7 @@ chromophotolithograph
 chromoplasm
 chromoplasmic
 chromoplast
+chieftain
 chromoplastid
 chromoprotein
 chinas
