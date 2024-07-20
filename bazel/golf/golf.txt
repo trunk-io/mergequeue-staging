@@ -6645,7 +6645,6 @@ grinningly
 griffade
 glagolitic
 gaus
-goldenrod
 gabionade
 gucked
 goldentop
@@ -9340,6 +9339,7 @@ gropes
 guisard
 graves
 groping
+goldenrod
 girdling
 gropple
 guss
