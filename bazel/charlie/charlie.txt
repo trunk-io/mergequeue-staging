@@ -2747,6 +2747,7 @@ cantala
 cantalas
 cantalever
 cantalite
+clipper
 cantaliver
 cantaloup
 cantaloupe
@@ -16411,7 +16412,6 @@ cachrys
 countershine
 clypeus
 clippable
-clipper
 clipperman
 cocoach
 clippie
