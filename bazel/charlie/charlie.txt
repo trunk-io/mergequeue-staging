@@ -18857,7 +18857,6 @@ coleuses
 capitonidae
 coleworts
 colfox
-coli
 coly
 coliander
 colibert
@@ -29185,6 +29184,7 @@ crinosity
 crinula
 crinums
 cogwheel
+coli
 cryobiologically
 cryobiologist
 crioboly
