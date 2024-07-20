@@ -2104,7 +2104,6 @@ dislodgement
 debiteuse
 drilled
 decartelization
-decartelize
 dysodyle
 decartelized
 decartelizing
@@ -10039,6 +10038,7 @@ dodman
 dimpling
 dimps
 diatesseron
+decartelize
 dimwit
 dimwitted
 dimmock
