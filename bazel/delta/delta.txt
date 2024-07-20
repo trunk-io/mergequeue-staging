@@ -11919,7 +11919,6 @@ disegno
 diselectrification
 diselenid
 dihybrids
-dato
 diselenide
 disematism
 dustrags
@@ -16360,6 +16359,7 @@ downline
 dooryard
 downlink
 downlinks
+dato
 download
 documentaries
 deceptiveness
