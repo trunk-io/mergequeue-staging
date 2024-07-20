@@ -6457,6 +6457,7 @@ believableness
 benzotriazole
 benzotrichloride
 benzotrifluoride
+bastioned
 benzotrifuran
 benzoxate
 benzoxy
@@ -6739,7 +6740,6 @@ bernardine
 blateness
 bernese
 bernicle
-bastioned
 bernicles
 bernie
 berninesque
