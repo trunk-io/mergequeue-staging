@@ -2076,6 +2076,7 @@ acetylacetonates
 acetylacetone
 acetylamine
 acetylaminobenzene
+affirmatives
 acetylaniline
 acetylasalicylic
 acetylated
@@ -22255,7 +22256,6 @@ analysable
 addy
 abdominogenital
 astrobiology
-affirmatives
 astrobiologically
 astrobiologies
 astrobiologists
