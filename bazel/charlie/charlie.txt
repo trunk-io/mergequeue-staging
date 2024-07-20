@@ -8814,6 +8814,7 @@ chattered
 chape
 chapeau
 chaped
+crambidae
 chapel
 cobriform
 chapeled
@@ -17507,7 +17508,6 @@ cobhouse
 cobia
 cobias
 cobiron
-crambidae
 cobishop
 cobleman
 coblentzian
