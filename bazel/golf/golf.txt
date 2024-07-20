@@ -728,7 +728,6 @@ gastraeas
 germinal
 gantlope
 gallows
-gallowses
 gar
 gallowsness
 gallowsward
@@ -2974,6 +2973,7 @@ gomeril
 geoaesthesia
 geobiologic
 geobiont
+gallowses
 geobios
 glossography
 geobotanic

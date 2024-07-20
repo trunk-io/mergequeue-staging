@@ -1973,7 +1973,6 @@ caballeros
 campal
 campana
 campane
-campanella
 cecils
 campanian
 campanile
@@ -19131,6 +19130,7 @@ colliding
 collie
 collied
 collielike
+campanella
 collier
 colliery
 collieries
