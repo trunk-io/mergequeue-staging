@@ -7887,7 +7887,6 @@ bibliotaphe
 bibliotaphic
 begoggled
 bibliothec
-bibliotheca
 bibliothecaire
 bibliothecal
 bibliothecary
@@ -17652,6 +17651,7 @@ burglarising
 burglarize
 burglarized
 bitolyl
+bibliotheca
 burglarizes
 burglarizing
 burglarproof
