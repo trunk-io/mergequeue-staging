@@ -3026,6 +3026,7 @@ columnarity
 capuchin
 capernaitic
 capernaitically
+cmd
 capernoity
 capernoitie
 capernutie
@@ -17061,7 +17062,6 @@ clutterment
 clutters
 cortices
 cm
-cmd
 catalecta
 cmdr
 crankness
