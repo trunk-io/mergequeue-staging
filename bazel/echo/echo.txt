@@ -3080,7 +3080,6 @@ elohism
 elohist
 eloign
 externalizing
-eloigner
 eloigning
 eloin
 entrustment
@@ -9583,6 +9582,7 @@ escoted
 escoting
 endothecate
 ethiopic
+eloigner
 eaux
 escout
 enspell
