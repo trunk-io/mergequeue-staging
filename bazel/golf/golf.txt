@@ -5241,7 +5241,6 @@ guerinet
 geometrised
 gobiesociform
 gambet
-glassed
 glasseye
 glassen
 glassfuls
@@ -6853,6 +6852,7 @@ gonidangium
 gonydeal
 gonidial
 gonydial
+glassed
 galenian
 gonidic
 gonidiferous
