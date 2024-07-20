@@ -300,7 +300,6 @@ abducent
 abducentes
 abduces
 apparels
-abducing
 abduction
 abductions
 abducts
@@ -13957,6 +13956,7 @@ anorganism
 adenomyxosarcoma
 alcornoque
 anormal
+abducing
 antrotomy
 anormality
 anorn
