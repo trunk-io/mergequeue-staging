@@ -4434,7 +4434,6 @@ discoherent
 demeritorious
 depressants
 demerits
-desertion
 demerse
 demersed
 demesgne
@@ -8626,6 +8625,7 @@ dissoluble
 diarthroses
 diarthrosis
 diarticular
+desertion
 dias
 dumbfound
 diametrically
