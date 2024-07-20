@@ -2501,7 +2501,6 @@ bunns
 bazookas
 bardolater
 bardolatry
-blindman
 buffooneries
 bardolphian
 bards
@@ -16352,6 +16351,7 @@ bodyplate
 brushmen
 bulbuls
 brushoff
+blindman
 brushpopper
 brushproof
 brushup
