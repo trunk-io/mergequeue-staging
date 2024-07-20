@@ -10759,7 +10759,6 @@ amitabha
 amytal
 amitate
 amities
-amitoses
 amitotic
 amitotically
 amitriptyline
@@ -15936,6 +15935,7 @@ antiphon
 antiphona
 antiphonaries
 antiphonetic
+amitoses
 antiphony
 autodialling
 asepsis
