@@ -2991,7 +2991,6 @@ caparisoned
 caparisoning
 caparisons
 capataz
-capax
 cape
 cunas
 caped
@@ -22696,6 +22695,7 @@ connoting
 connotive
 connotively
 conns
+capax
 connu
 connubial
 connubialism
