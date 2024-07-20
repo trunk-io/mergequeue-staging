@@ -897,6 +897,7 @@ gamelans
 gedecktwork
 gameless
 gathers
+graphics
 gamely
 glyster
 gory
@@ -8192,7 +8193,6 @@ gratitude
 goofier
 graphicly
 groggier
-graphics
 graphidiaceae
 graphiologist
 grasset
