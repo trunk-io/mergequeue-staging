@@ -4942,6 +4942,7 @@ carvacrol
 convolvulinic
 carvage
 carval
+curblike
 carved
 carvels
 carver
@@ -31241,7 +31242,6 @@ curbing
 curbings
 curbless
 cotonam
-curblike
 curbline
 curbs
 curbside
