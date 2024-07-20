@@ -5106,7 +5106,6 @@ gravecloth
 gladsomer
 grandames
 gladsomest
-grivois
 glaieul
 glaik
 gimmick
@@ -5763,6 +5762,7 @@ globulet
 globulicide
 garred
 globuliferous
+grivois
 glaive
 globuliform
 gallize
