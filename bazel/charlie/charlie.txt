@@ -7772,7 +7772,6 @@ cerotypes
 cerous
 ceroxyle
 cerrero
-cerrial
 cerris
 clep
 cert
@@ -30611,6 +30610,7 @@ cudbears
 cudden
 cuddy
 cuddie
+cerrial
 cuddies
 cuddyhole
 cofferer
