@@ -2382,6 +2382,7 @@ barbette
 barite
 barbettes
 bispore
+bookbind
 bryanthus
 barbican
 beckets
@@ -12630,7 +12631,6 @@ boohoos
 book
 bookable
 bicycle
-bookbind
 bookbinder
 bookbindery
 baianism
