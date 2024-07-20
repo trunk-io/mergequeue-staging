@@ -16552,7 +16552,6 @@ clobbers
 counterlocking
 cloche
 cabdriver
-clochette
 clockbird
 clockcase
 clocked
@@ -31493,6 +31492,7 @@ cursives
 cursor
 cursorary
 cursores
+clochette
 cursory
 cursorial
 cursoriidae
