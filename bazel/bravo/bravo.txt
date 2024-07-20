@@ -4776,7 +4776,6 @@ bestowage
 bedrocks
 bedrolls
 blanched
-bedrooms
 bridgemaker
 bedrown
 bedrowse
@@ -11270,6 +11269,7 @@ blubberhead
 blubbery
 blubberman
 branchway
+bedrooms
 blubberous
 blubbers
 basiparachromatin
