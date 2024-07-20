@@ -433,7 +433,6 @@ galeod
 galeodes
 galeodidae
 gareh
-galeoid
 gofferer
 galeorchis
 goner
@@ -10618,6 +10617,7 @@ gurgeon
 gurgeons
 glossopyrosis
 gershon
+galeoid
 gurglets
 gelatinochloride
 gurgling
