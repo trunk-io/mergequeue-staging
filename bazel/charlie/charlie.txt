@@ -19980,7 +19980,6 @@ comitatus
 comite
 coachmanship
 caziques
-comites
 cited
 choanocytal
 comity
@@ -30785,6 +30784,7 @@ culls
 culm
 culmen
 culmy
+comites
 culmiferous
 culmigenous
 culminal

@@ -7196,7 +7196,6 @@ depleteable
 dualities
 detective
 detector
-doxa
 detects
 deductions
 detenant
@@ -8163,6 +8162,7 @@ diaconate
 diaconia
 ditertiary
 diaconica
+doxa
 diaconicon
 diaconus
 diacoustics
