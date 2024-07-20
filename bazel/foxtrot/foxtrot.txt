@@ -1000,7 +1000,6 @@ fargite
 fill
 fargood
 farhand
-furrowlike
 farhands
 frisker
 farinaceous
@@ -5223,6 +5222,7 @@ flaxy
 fulful
 flaxiest
 frizes
+furrowlike
 falsehearted
 feh
 flaxseeds
