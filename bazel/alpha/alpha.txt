@@ -3849,6 +3849,7 @@ adherences
 adherency
 adherend
 adherends
+achorion
 adherent
 adherently
 adherents
@@ -18238,7 +18239,6 @@ armillate
 aqueducts
 aqueity
 appetizingly
-achorion
 aquench
 afterbay
 aqueoglacial
