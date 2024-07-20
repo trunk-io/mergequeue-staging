@@ -5756,7 +5756,6 @@ depolariser
 darksome
 depolarising
 depolarization
-desulphurizer
 damasks
 depolarized
 depolarizers
@@ -10441,6 +10440,7 @@ dioxindole
 delightfully
 dipala
 drachma
+desulphurizer
 dipartite
 dipartition
 diversionist
