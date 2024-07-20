@@ -1883,7 +1883,6 @@ frazil
 federator
 farmscape
 flee
-fedity
 frostbite
 feds
 feeable
@@ -6937,6 +6936,7 @@ follicle
 flattening
 follicular
 folliculate
+fedity
 fibrousness
 fundatrices
 folliculated
