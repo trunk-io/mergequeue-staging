@@ -9945,7 +9945,6 @@ biunivocal
 biurate
 blackwood
 biuret
-brownouts
 bivalent
 begumming
 bivalve
@@ -10377,6 +10376,7 @@ blash
 berne
 blasia
 blason
+brownouts
 blaspheme
 blasphemed
 blasphemes

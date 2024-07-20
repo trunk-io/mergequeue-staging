@@ -4338,7 +4338,6 @@ gymnospermic
 gymnospermous
 gymnospore
 gavials
-gymnostomata
 goosander
 gymnostomina
 gymnostomous
@@ -5500,6 +5499,7 @@ glycopexia
 glycopexis
 grizelin
 glycoproteid
+gymnostomata
 glycosaemia
 glycosemia
 glycosidase
