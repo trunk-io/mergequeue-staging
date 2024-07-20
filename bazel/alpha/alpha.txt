@@ -15421,7 +15421,6 @@ antihelixes
 antihelminthic
 antihemisphere
 ampullae
-antihemolytic
 antihemorrhagic
 antihero
 antiheroes
@@ -23858,6 +23857,7 @@ announceable
 authorities
 authorization
 authorizations
+antihemolytic
 authorize
 auxeses
 authorized
