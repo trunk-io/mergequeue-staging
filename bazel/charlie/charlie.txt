@@ -10121,7 +10121,6 @@ cheroots
 cherryblossom
 cherried
 cherries
-cherrying
 cherrylike
 cherrystone
 cherrystones
@@ -15321,6 +15320,7 @@ clayiest
 clayiness
 chromospheric
 claik
+cherrying
 claylike
 claimable
 clayman
