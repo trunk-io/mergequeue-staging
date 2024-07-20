@@ -6694,7 +6694,6 @@ foenngreek
 flysch
 foes
 followable
-fast
 frankable
 foetalization
 foetation
@@ -8724,6 +8723,7 @@ fortunize
 flyleaves
 floppers
 fortuuned
+fast
 forumize
 festucine
 forums
