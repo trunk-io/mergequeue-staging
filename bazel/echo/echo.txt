@@ -4992,7 +4992,6 @@ echovirus
 enskyed
 endemics
 endorsable
-endemiological
 endenize
 endostylar
 electrocauteries
@@ -10516,6 +10515,7 @@ ethnopsychological
 ethnoses
 emboscata
 epiplasm
+endemiological
 ethnotechnography
 euclidean
 ethnozoology
