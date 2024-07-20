@@ -1905,6 +1905,7 @@ camisard
 camisas
 camiscia
 camise
+contriturate
 circumambulatory
 camises
 camisia
@@ -31176,7 +31177,6 @@ cupula
 cupular
 cupulate
 cupule
-contriturate
 cupuliferous
 citrine
 cupuliform
