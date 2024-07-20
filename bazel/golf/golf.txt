@@ -5567,7 +5567,6 @@ glyoxal
 gazelle
 glyoxalase
 gallification
-glyoxalic
 glyoxalin
 gelants
 gushier
@@ -9242,6 +9241,7 @@ gaslighting
 grazeable
 gladdy
 groggery
+glyoxalic
 groggy
 gatling
 groggily
