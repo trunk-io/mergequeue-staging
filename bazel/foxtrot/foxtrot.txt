@@ -1608,7 +1608,6 @@ favorers
 favoring
 familiarizes
 favorites
-favors
 favosely
 fatuism
 favosites
@@ -3233,6 +3232,7 @@ fidged
 flogster
 fidges
 flubdubbery
+favors
 fidget
 freightment
 featous
