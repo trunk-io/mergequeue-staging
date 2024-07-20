@@ -3578,7 +3578,6 @@ bathyscaph
 bathyscaphes
 bathyseism
 bathysmal
-bathysophic
 bethabara
 baudery
 bathysphere
@@ -3932,6 +3931,7 @@ benjamins
 backfill
 bdle
 bds
+bathysophic
 beach
 beachcomb
 beachcomber
