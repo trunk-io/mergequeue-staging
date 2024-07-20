@@ -476,7 +476,6 @@ backpedaling
 backpiece
 backplane
 brasser
-backpointer
 bachelorly
 backrest
 backrope
@@ -7911,6 +7910,7 @@ bibs
 bock
 billing
 bibulosities
+backpointer
 bibulous
 bibulously
 bibulousness
