@@ -2642,7 +2642,6 @@ gelatinized
 generate
 generated
 generater
-goave
 generates
 generational
 generations
@@ -7833,6 +7832,7 @@ grumousness
 grammatical
 grammaticality
 glossate
+goave
 galways
 grammaticaster
 glazy
