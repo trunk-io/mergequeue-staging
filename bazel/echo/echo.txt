@@ -4868,6 +4868,7 @@ encrinoid
 encryption
 encrypts
 encrisp
+ensorcerize
 encroach
 entrenchment
 encroached
@@ -6432,7 +6433,6 @@ elegancy
 eutony
 epochal
 ensorcels
-ensorcerize
 ensorrow
 ensoul
 ensouled
