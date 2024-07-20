@@ -2419,6 +2419,7 @@ electroextraction
 expedient
 expos
 electroform
+epitomes
 electroforming
 electrofuse
 electrofusion
@@ -8400,7 +8401,6 @@ equivocating
 epikouros
 epitomatory
 epitome
-epitomes
 euchology
 epitomic
 enshade
