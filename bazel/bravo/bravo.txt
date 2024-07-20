@@ -3098,7 +3098,6 @@ bas
 basad
 basale
 bewares
-basalt
 basaltes
 basaltic
 basaltiform
@@ -18371,6 +18370,7 @@ bristleless
 buxomly
 buxomness
 buxus
+basalt
 burstwort
 buzuki
 blearedness
