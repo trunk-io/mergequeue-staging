@@ -2613,7 +2613,6 @@ cannister
 cannisters
 cannoli
 cannon
-cuckoos
 chemoceptor
 concubinarian
 cannonade
@@ -29478,6 +29477,7 @@ cristae
 crystaled
 crystaling
 compts
+cuckoos
 crystalitic
 crystalize
 crystall
