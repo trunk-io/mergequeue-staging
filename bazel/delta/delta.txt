@@ -15620,7 +15620,6 @@ dooring
 doorjamb
 doorjambs
 diallage
-doorkeeper
 doorknob
 doorknobs
 derecho
@@ -15664,6 +15663,7 @@ dopaminergic
 dopamines
 determine
 dopants
+doorkeeper
 dopas
 dopchick
 doped
