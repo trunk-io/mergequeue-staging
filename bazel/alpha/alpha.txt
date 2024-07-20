@@ -9804,7 +9804,6 @@ appealing
 amalgamable
 amalgamate
 amalgamated
-afloat
 amalgamater
 amalgamates
 amalgamating
@@ -17092,6 +17091,7 @@ aplenty
 amesace
 aplysia
 aplite
+afloat
 aplites
 aventails
 aplitic
