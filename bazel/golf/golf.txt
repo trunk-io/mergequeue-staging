@@ -1988,7 +1988,6 @@ gaumed
 gaumlike
 gonapophysial
 gaums
-gaunt
 gaunter
 gauntest
 grimaces
@@ -9131,6 +9130,7 @@ glycans
 gripsack
 grumbled
 gripsacks
+gaunt
 geochronic
 gayyou
 griquaite
