@@ -13951,7 +13951,6 @@ brachycephal
 brachycephales
 brachycephali
 brachycephaly
-brachycephalic
 beadmen
 brachycephalization
 brachycephalize
@@ -17245,6 +17244,7 @@ bumboatman
 bumboatmen
 bumboats
 bayous
+brachycephalic
 bumboatwoman
 bumclock
 bumelia
