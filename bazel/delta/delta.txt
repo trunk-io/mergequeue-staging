@@ -7371,7 +7371,6 @@ dashpot
 detraining
 donovan
 dorsel
-detrainment
 detribalization
 detribalize
 detribalized
@@ -10982,6 +10981,7 @@ disaffiliation
 disaffiliations
 disaffinity
 disaffirm
+detrainment
 dipnoans
 domesticize
 disaffirmance
