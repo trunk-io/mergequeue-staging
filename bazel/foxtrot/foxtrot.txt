@@ -5030,7 +5030,6 @@ flatbeds
 fingertips
 flatboats
 flatbottom
-flatcaps
 flatcar
 fulfill
 flatcars
@@ -5573,6 +5572,7 @@ flinchingly
 flindersia
 flinger
 furole
+flatcaps
 flingers
 featherworker
 fets
