@@ -2316,7 +2316,6 @@ gekkonidae
 gasproof
 grolier
 greekize
-gekkonoid
 gallivanter
 gel
 gossans
@@ -8191,6 +8190,7 @@ graphitize
 galerie
 graced
 gynecotelic
+gekkonoid
 goats
 gnawn
 gybes
