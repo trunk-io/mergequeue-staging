@@ -441,6 +441,7 @@ goner
 galeorhinidae
 galeorhinus
 galeproof
+gula
 garcons
 galere
 galericulate
@@ -6812,7 +6813,6 @@ gonfanon
 gonfanons
 gong
 gelidity
-gula
 gonging
 glycerolate
 gonglike
