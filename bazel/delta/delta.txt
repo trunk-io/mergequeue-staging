@@ -5809,6 +5809,7 @@ deportability
 deportation
 deporte
 doom
+devotionist
 deported
 deportee
 deporting
@@ -7807,7 +7808,6 @@ devotionally
 drinking
 devotionary
 devotionate
-devotionist
 devotions
 devoto
 devour
