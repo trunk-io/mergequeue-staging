@@ -3114,7 +3114,6 @@ defeasanced
 dictyoceratina
 detersive
 dewan
-defeasibility
 defeasible
 delphacid
 defeatee
@@ -4711,6 +4710,7 @@ demobilizations
 demobilize
 demobilized
 demobilizes
+defeasibility
 democracies
 domiciliate
 democrat
