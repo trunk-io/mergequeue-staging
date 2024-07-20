@@ -523,7 +523,6 @@ falerno
 faliscan
 falisci
 falk
-firmarius
 faut
 foreshadows
 florets
@@ -6674,6 +6673,7 @@ fodient
 foe
 fustiest
 frangibility
+firmarius
 fudder
 foederati
 foeffment
