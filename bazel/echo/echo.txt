@@ -3683,6 +3683,7 @@ embryoniform
 embryons
 embryopathology
 embryophagous
+energetic
 embryophyta
 embryophyte
 embryophore
@@ -9104,7 +9105,6 @@ erythraea
 echeneidid
 erythraean
 erythraeidae
-energetic
 electro
 erythrean
 erythremia
