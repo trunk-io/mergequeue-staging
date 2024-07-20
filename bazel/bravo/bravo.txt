@@ -2729,6 +2729,7 @@ bartonella
 billionaire
 barmaids
 barmaster
+blipping
 babesiasis
 barmcloth
 bulbilis
@@ -10865,7 +10866,6 @@ blintze
 batete
 blype
 blipped
-blipping
 barkeep
 bolthole
 blirt
