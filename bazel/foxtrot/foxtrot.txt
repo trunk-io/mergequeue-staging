@@ -1776,7 +1776,6 @@ flocculency
 featliness
 felucca
 fornent
-fouldre
 feature
 featured
 ficoid
@@ -8235,6 +8234,7 @@ forgivenesses
 faculae
 florification
 forgiver
+fouldre
 forgives
 filthifying
 ferrament
