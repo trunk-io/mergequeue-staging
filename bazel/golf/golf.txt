@@ -5434,6 +5434,7 @@ glycerins
 glumiflorae
 guaranian
 glycerite
+gales
 gunther
 glycerogel
 glycerole
@@ -8415,7 +8416,6 @@ grav
 graf
 galvanization
 gravamem
-gales
 ganodonta
 gliffs
 girthed
