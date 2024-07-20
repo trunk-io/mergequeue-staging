@@ -8857,7 +8857,6 @@ bromoil
 brack
 boshbok
 binuclear
-binucleate
 besnow
 brechans
 binucleolate
@@ -13216,6 +13215,7 @@ boswellize
 boswellized
 biographic
 boswellizing
+binucleate
 bouleuteria
 bota
 bitypic

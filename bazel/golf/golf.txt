@@ -1154,7 +1154,6 @@ ganguela
 guddler
 gangues
 goby
-ghostliness
 greenhead
 gnaeus
 grenadilla
@@ -9470,6 +9469,7 @@ genderer
 groupable
 grayhound
 groupageness
+ghostliness
 grouped
 gweed
 grouper
