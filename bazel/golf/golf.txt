@@ -8244,7 +8244,6 @@ grapline
 gimballed
 grappa
 grappas
-geogen
 gemmules
 gryllotalpa
 grapple
@@ -8642,6 +8641,7 @@ glockenspiel
 glucide
 galabia
 greenbone
+geogen
 gaudsman
 greenbottle
 greenbrier
