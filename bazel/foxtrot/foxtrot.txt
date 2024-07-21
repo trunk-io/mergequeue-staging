@@ -1280,6 +1280,7 @@ fastigia
 fideicommissum
 fadable
 fraunch
+formulizer
 forestology
 fumigate
 foreswore
@@ -8527,7 +8528,6 @@ formulistic
 fumier
 formulize
 flaker
-formulizer
 formulizing
 fornacic
 forgiven
