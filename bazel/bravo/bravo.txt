@@ -15746,7 +15746,6 @@ buy
 begirdle
 bromamide
 bromate
-burys
 bromated
 bromates
 brachiferous
@@ -17599,6 +17598,7 @@ burgeon
 burgeoned
 burgeoning
 burgers
+burys
 burgess
 brigands
 bowstrung
