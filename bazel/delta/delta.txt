@@ -7185,7 +7185,6 @@ disequalizer
 detained
 detainee
 detainees
-detainer
 detainers
 drawled
 detaining
@@ -17075,6 +17074,7 @@ dribber
 dk
 dribbet
 dehorning
+detainer
 dribbing
 dribble
 dustpan
