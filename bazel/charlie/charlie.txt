@@ -5394,6 +5394,7 @@ casuistries
 casula
 commie
 casule
+chopfallen
 casus
 casusistry
 coabode
@@ -11908,7 +11909,6 @@ chopa
 chopas
 chopboat
 chopdar
-chopfallen
 chophouse
 chophouses
 chopin
