@@ -3477,7 +3477,6 @@ filamentoid
 filamentose
 fulcrumage
 folletage
-filamentous
 frogmen
 filander
 filao
@@ -8324,6 +8323,7 @@ forlese
 frotteurs
 forlet
 frosts
+filamentous
 fissionable
 firth
 forlive
