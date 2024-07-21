@@ -6063,7 +6063,6 @@ fairer
 finite
 flot
 flota
-flotages
 flotant
 futurism
 favorability
@@ -6743,6 +6742,7 @@ foghorn
 fervours
 freewheel
 fogy
+flotages
 flaxdrop
 fogies
 fluoarsenate
