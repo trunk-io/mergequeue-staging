@@ -2706,7 +2706,6 @@ genetika
 genetous
 gregariously
 gametangia
-genetrix
 gangplows
 guardingly
 groceteria
@@ -4880,6 +4879,7 @@ gyroscopes
 gyred
 gyroscopic
 glutetei
+genetrix
 gumboils
 gyroscopics
 gyrostabilized
