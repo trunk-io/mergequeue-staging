@@ -3689,7 +3689,6 @@ batsmanship
 broncs
 biograph
 bedlamic
-batsmen
 batswing
 batt
 bammed
@@ -10971,6 +10970,7 @@ blockhouse
 blockhouses
 beveto
 bororoan
+batsmen
 blueprinter
 boigid
 barbedness
