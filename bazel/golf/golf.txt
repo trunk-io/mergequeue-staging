@@ -2710,7 +2710,6 @@ genetrix
 gangplows
 guardingly
 groceteria
-guemul
 genettes
 geneva
 gibbsite
@@ -3734,6 +3733,7 @@ grub
 gewgawy
 glycosides
 giro
+guemul
 gewgawry
 gewgaws
 gez
