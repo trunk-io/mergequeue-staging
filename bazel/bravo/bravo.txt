@@ -2095,6 +2095,7 @@ banisher
 banishers
 bowsery
 banishment
+banqueting
 borated
 banister
 banisters
@@ -2193,7 +2194,6 @@ blader
 basenet
 banqueted
 bootlegs
-banqueting
 banquets
 ballote
 banquo

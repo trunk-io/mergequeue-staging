@@ -1097,6 +1097,7 @@ guayule
 genarchaship
 gorlois
 goblet
+gyttja
 gangliocyte
 galavant
 galinsoga
@@ -4952,7 +4953,6 @@ gittern
 groat
 gitterns
 guiled
-gyttja
 giunta
 giuseppe
 grecoue
