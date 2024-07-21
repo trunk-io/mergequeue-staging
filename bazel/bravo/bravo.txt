@@ -14032,7 +14032,6 @@ brachistocephali
 brachistocephaly
 brachistochrone
 biophotophone
-brachistochronous
 brachystomatous
 brachystomous
 brachytic
@@ -15436,6 +15435,7 @@ briony
 borborygmic
 bogles
 bryonia
+brachistochronous
 bryonidin
 bilinite
 brionies
