@@ -8654,6 +8654,7 @@ braziers
 bandlimits
 banneret
 bilocation
+byrled
 bilocellate
 biloculate
 biloculina
@@ -12110,7 +12111,6 @@ balsam
 boletes
 boleti
 burnishing
-byrled
 boletus
 beefsteak
 boletuses
