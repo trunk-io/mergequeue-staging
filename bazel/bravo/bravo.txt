@@ -1420,6 +1420,7 @@ bloops
 baldric
 baldrick
 baldricks
+beseecher
 baldrics
 baldricwise
 biocenotic
@@ -6848,7 +6849,6 @@ burgrave
 beseam
 bosniak
 beseech
-beseecher
 beseechingness
 beseechment
 beseek
