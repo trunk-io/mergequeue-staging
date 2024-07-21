@@ -7805,6 +7805,7 @@ certificates
 collisions
 capsulogenous
 certification
+counterfugue
 certifications
 certificative
 choriambi
@@ -26913,7 +26914,6 @@ counterforce
 compounds
 counterformula
 counterfort
-counterfugue
 countergabble
 countergage
 countergager
