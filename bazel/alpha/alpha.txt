@@ -609,7 +609,6 @@ abn
 abnaki
 agriculturist
 already
-abnegates
 abnegating
 aerometry
 aslop
@@ -12838,6 +12837,7 @@ angiocarp
 angiocarpian
 angiocarpous
 angiocavernous
+abnegates
 angiocholecystitis
 angiocholitis
 angiochondroma
