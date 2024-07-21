@@ -3599,7 +3599,6 @@ cancerigenic
 coryzas
 carbamide
 carbamidine
-carbamido
 carbamyl
 carbamine
 carbamino
@@ -26205,6 +26204,7 @@ cosmopolitics
 cosmopolitism
 cosmorama
 cook
+carbamido
 cosmos
 canoodled
 cuticolor
