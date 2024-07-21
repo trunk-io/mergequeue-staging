@@ -4949,7 +4949,6 @@ enquiry
 endaspidean
 endaze
 exhaustible
-endball
 endboard
 ewe
 endbrains
@@ -7125,6 +7124,7 @@ enured
 enures
 enureses
 enuresis
+endball
 enuresises
 enurny
 env
