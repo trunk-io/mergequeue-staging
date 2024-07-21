@@ -741,7 +741,6 @@ brangle
 bacterioscopist
 bacteriosis
 bacteriosolvent
-bacteriostatic
 bacteriostatically
 bacteriotherapeutic
 bacteriotoxin
@@ -13476,6 +13475,7 @@ bouldery
 bouldering
 boardinghouse
 boules
+bacteriostatic
 boulevard
 bewitchingly
 blashy
