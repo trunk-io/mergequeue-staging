@@ -11426,7 +11426,6 @@ east
 ethnarch
 endotracheal
 evenhand
-evenhanded
 evenhandedly
 evenhandedness
 evenhead
@@ -11650,6 +11649,7 @@ emprison
 endgame
 extrasystolic
 emerized
+evenhanded
 evocation
 exauctorate
 evocatively
