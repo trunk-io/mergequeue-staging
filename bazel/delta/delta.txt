@@ -5606,7 +5606,6 @@ depauperation
 depauperize
 depauperized
 depe
-depeche
 depeculate
 depel
 depend
@@ -5976,6 +5975,7 @@ deprivers
 depriving
 distemper
 deprocedured
+depeche
 discussible
 deprogram
 deprogrammed
