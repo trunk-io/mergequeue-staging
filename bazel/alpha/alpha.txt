@@ -8789,7 +8789,6 @@ allying
 allylate
 allylation
 allylene
-allyls
 allylthiourea
 allineate
 allineation
@@ -10695,6 +10694,7 @@ aminosulphonic
 aquabelle
 aminothiophen
 aminotransferase
+allyls
 aminoxylol
 angareb
 aminta
