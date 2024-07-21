@@ -5401,7 +5401,6 @@ disorganiser
 deputized
 dentolabial
 dentolingual
-disauthentic
 dentololabial
 dentonasal
 dentosurgical
@@ -17168,6 +17167,7 @@ drilvis
 dockyard
 dryness
 dognaping
+disauthentic
 drink
 drinkability
 drinkably
