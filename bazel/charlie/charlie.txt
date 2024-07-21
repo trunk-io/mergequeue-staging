@@ -7074,7 +7074,6 @@ centerward
 centesimal
 centesimally
 centesimate
-centesimation
 creeshed
 centesimi
 cenotaph
@@ -20221,6 +20220,7 @@ commissariats
 commissaries
 commissaryship
 cnidosac
+centesimation
 commissars
 commission
 commissional
