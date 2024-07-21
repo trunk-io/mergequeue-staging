@@ -3191,6 +3191,7 @@ actinophrys
 actinopoda
 actinopraxis
 actinopteri
+anastomosis
 auxometer
 actinopterygian
 actinopterygii
@@ -12066,7 +12067,6 @@ anastomos
 anastomose
 anastomoses
 anastomosing
-anastomosis
 alternating
 animalisation
 anastomotic
