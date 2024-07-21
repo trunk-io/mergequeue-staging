@@ -8478,6 +8478,7 @@ distingu
 diamins
 droplet
 diammine
+diacritical
 diminished
 diamminobromide
 diamminonitrate
@@ -14148,7 +14149,6 @@ disuniter
 disuniters
 disunites
 disunity
-diacritical
 disunities
 drongo
 dysury
