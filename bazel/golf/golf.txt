@@ -243,6 +243,7 @@ gaingiving
 gainyield
 gaining
 gainlessness
+groundsel
 ghoul
 gainlier
 gramashes
@@ -9453,7 +9454,6 @@ gros
 glossematic
 griots
 gaullist
-groundsel
 groundsill
 gemological
 greyflies
