@@ -10807,7 +10807,6 @@ chinaware
 chinband
 chinbones
 chincapin
-chinch
 chincha
 chinchayote
 chinche
@@ -11322,6 +11321,7 @@ chloric
 chloridate
 chloridated
 chloridation
+chinch
 chloride
 chloridella
 chlorider
