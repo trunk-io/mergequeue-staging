@@ -7020,7 +7020,6 @@ absorbancy
 acieral
 airplot
 airport
-airports
 airpost
 amyxorrhoea
 airposts
@@ -22219,6 +22218,7 @@ astraphobia
 astrapophobia
 astream
 astrean
+airports
 aurae
 astrer
 astrict
