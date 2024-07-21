@@ -3447,6 +3447,7 @@ deformable
 deputationist
 decrementless
 deformalize
+defunction
 deformation
 deformational
 deformed
@@ -3505,7 +3506,6 @@ deftly
 deftness
 deftnesses
 defunct
-defunction
 drillbit
 defunctionalization
 defuse
