@@ -433,7 +433,6 @@ galeod
 galeodes
 galeodidae
 gareh
-galeoid
 gofferer
 galeorchis
 goner
@@ -7600,6 +7599,7 @@ graciles
 gracing
 graciosity
 groveller
+galeoid
 graciosos
 gargles
 graciously
