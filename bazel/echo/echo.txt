@@ -1243,7 +1243,6 @@ electrothermostatic
 esters
 eelcatcher
 ennoblement
-eelfare
 expands
 electroretinographic
 eelgrass
@@ -3855,6 +3854,7 @@ emesa
 emesidae
 emesis
 emetic
+eelfare
 emetical
 emetines
 epigynous
