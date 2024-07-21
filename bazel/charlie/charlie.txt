@@ -13719,7 +13719,6 @@ cymbopogon
 circumcallosal
 craik
 cerebroscope
-cimborio
 cimbrian
 cimbric
 cyme
@@ -20354,6 +20353,7 @@ carnassial
 commoved
 commoves
 commulative
+cimborio
 communa
 communal
 communalise
