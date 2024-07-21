@@ -4741,6 +4741,7 @@ beancod
 bedpost
 bedposts
 bedquilt
+byrlawman
 bedquilts
 bourree
 bluffing
@@ -9484,7 +9485,6 @@ bughead
 bourr
 byrlakin
 byrlaw
-byrlawman
 bronziest
 bloodstreams
 birle
