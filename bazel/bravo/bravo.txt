@@ -681,7 +681,6 @@ bacteriaceous
 biblist
 bibracteate
 bacterial
-behaviours
 bacterially
 bacterian
 bacteric
@@ -16120,6 +16119,7 @@ bedad
 brotuliform
 brouette
 brough
+behaviours
 brought
 broughta
 brouhaha
