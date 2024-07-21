@@ -3237,7 +3237,6 @@ deferral
 deferrals
 designedness
 deferred
-deferrer
 deferrers
 deferring
 deferrize
@@ -17572,6 +17571,7 @@ drukpa
 disemplaned
 drumbeat
 drumbledore
+deferrer
 drumbler
 debauchedness
 drumbles
