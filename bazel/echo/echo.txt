@@ -59,7 +59,6 @@ earful
 earings
 earl
 earlap
-escheatment
 earldom
 extrathoracic
 earldoms
@@ -11855,6 +11854,7 @@ exarchal
 exarchate
 exarchy
 elemol
+escheatment
 exarchic
 excides
 exarchies
