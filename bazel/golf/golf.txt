@@ -2565,7 +2565,6 @@ gulp
 genderless
 glides
 genteelize
-gymnonoti
 genealogical
 glibber
 genealogists
@@ -5375,6 +5374,7 @@ gleetier
 gleetiest
 gleeting
 gleewoman
+gymnonoti
 gleg
 glegness
 glegnesses
