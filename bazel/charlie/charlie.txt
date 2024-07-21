@@ -12549,7 +12549,6 @@ chromiole
 chromism
 chromite
 chromites
-chromitite
 chromium
 chromiums
 cristobalite
@@ -24652,6 +24651,7 @@ copyholder
 copyholders
 cosigning
 copyholding
+chromitite
 copyholds
 conrail
 copihue
