@@ -1363,7 +1363,6 @@ acanthopore
 acanthopteran
 acetylenic
 acanthopterygian
-acanthopterygii
 acanthopterous
 acanthoses
 acanthosis
@@ -8926,6 +8925,7 @@ allometry
 acerola
 allomorph
 antimedievalism
+acanthopterygii
 allomorphism
 allomorphite
 allomucic
