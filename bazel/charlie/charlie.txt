@@ -19157,7 +19157,6 @@ collying
 collylyria
 circumscription
 collimate
-collimates
 collimating
 collimation
 collimator
@@ -26116,6 +26115,7 @@ curs
 cosmeticize
 cystoenterocele
 coalyards
+collimates
 cyclonical
 cerebroside
 cosmetiste
