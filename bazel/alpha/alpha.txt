@@ -5958,7 +5958,6 @@ agathodemon
 agathology
 agathosma
 agaty
-agatiferous
 agatiform
 aly
 adverb
@@ -15469,6 +15468,7 @@ antiinsurrectionists
 antijam
 antikamnia
 antikathode
+agatiferous
 antikenotoxin
 antiketogen
 antiketogenesis
