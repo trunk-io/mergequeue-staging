@@ -831,7 +831,6 @@ fano
 fanon
 fanons
 fluxgraph
-fanos
 fenlander
 findability
 fans
@@ -2670,6 +2669,7 @@ filemaking
 festine
 festing
 fedelini
+fanos
 filthify
 festino
 foisted
