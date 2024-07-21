@@ -14252,7 +14252,6 @@ clochan
 cosmolatry
 circulable
 cinclis
-circulant
 circularisation
 circularise
 circularised
@@ -26818,6 +26817,7 @@ counterculture
 countercultures
 cardinal
 countercurrent
+circulant
 countercurrently
 countercurrentwise
 counterdance
