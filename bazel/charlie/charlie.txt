@@ -12089,6 +12089,7 @@ cruiser
 choristry
 chorization
 corindon
+chromoisomeric
 chorizo
 coactions
 chorizont
@@ -12586,7 +12587,6 @@ chromogene
 chromogenesis
 chromogenetic
 chromoisomer
-chromoisomeric
 chromoisomerism
 chromoleucite
 chromolipoid
