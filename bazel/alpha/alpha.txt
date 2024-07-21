@@ -1574,7 +1574,6 @@ anthracitism
 accidentality
 accidentally
 accidentalness
-accidentals
 accidentary
 accidentarily
 anonymous
@@ -20593,6 +20592,7 @@ arthresthesia
 arthritic
 arthritical
 arthritically
+accidentals
 arthritics
 arthritides
 arthritis
