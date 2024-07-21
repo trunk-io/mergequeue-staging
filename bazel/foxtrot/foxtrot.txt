@@ -3229,6 +3229,7 @@ fetation
 frontages
 faery
 flyboy
+foremastmen
 fingian
 facadal
 fourbagger
@@ -7761,7 +7762,6 @@ foremade
 foremarch
 foremark
 foremartyr
-foremastmen
 fleshlike
 fluidify
 flak

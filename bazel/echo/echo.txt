@@ -2600,6 +2600,7 @@ electroretinograph
 endorsation
 ecophobia
 engyscope
+embolo
 expensive
 estramazone
 electroscopic
@@ -3521,7 +3522,6 @@ empathized
 embolium
 embolization
 embolize
-embolo
 exploitations
 embololalia
 extortions
