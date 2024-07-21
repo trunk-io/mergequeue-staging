@@ -6293,6 +6293,7 @@ fluidity
 finestill
 floored
 fluidities
+fremdly
 fluidization
 fluidize
 fluidized
@@ -9766,7 +9767,6 @@ fritillaries
 freyr
 foins
 flagonless
-fremdly
 flake
 fremdness
 featurelessness
