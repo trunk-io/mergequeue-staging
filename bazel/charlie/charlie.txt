@@ -6962,7 +6962,6 @@ cenotaphs
 cenote
 chloral
 counterobjection
-collotype
 cenotes
 cenozoic
 cenozoology
@@ -18183,6 +18182,7 @@ coenzymatic
 coenzymatically
 coenzymes
 coequal
+collotype
 coequality
 coequalize
 coequally
