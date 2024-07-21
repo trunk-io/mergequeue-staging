@@ -8085,6 +8085,7 @@ friableness
 foresummer
 foretime
 fucused
+fiddlestring
 faldetta
 fretless
 foretold
@@ -11450,7 +11451,6 @@ functionated
 furnishing
 feebler
 flatfish
-fiddlestring
 fenestellid
 fortune
 furnishings
