@@ -3202,7 +3202,6 @@ caponize
 caponizer
 caponizes
 caponniere
-collectiveness
 caseose
 capons
 causativity
@@ -9947,6 +9946,7 @@ conglution
 chemistries
 chemists
 chemitype
+collectiveness
 chemitypy
 calycate
 chemmy
