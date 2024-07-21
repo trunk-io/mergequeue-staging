@@ -4362,6 +4362,7 @@ attestations
 apiarist
 adorn
 adornation
+arsyl
 adorned
 algebraization
 adorners
@@ -20442,7 +20443,6 @@ arsheen
 arshin
 arshine
 arshins
-arsyl
 arsylene
 arsine
 angus
