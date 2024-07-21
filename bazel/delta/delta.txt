@@ -3063,7 +3063,6 @@ deliberativeness
 defalcated
 diethyltryptamine
 defalcation
-defalcations
 defalcator
 defalk
 drepanididae
@@ -4845,6 +4844,7 @@ demonology
 demonologic
 demonological
 dextrose
+defalcations
 demonologically
 demonologist
 demonomancy
