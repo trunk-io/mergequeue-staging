@@ -5366,7 +5366,6 @@ fertileness
 fleyed
 fleyedly
 farmhouse
-fleyedness
 fleying
 flanges
 fleys
@@ -10511,6 +10510,7 @@ frostwort
 fulvous
 froth
 frothed
+fleyedness
 frothi
 frigiddaria
 filariidae
