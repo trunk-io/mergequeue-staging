@@ -2378,6 +2378,7 @@ erythrochaete
 emulgence
 electrodeposition
 electrodepositor
+eelgrasses
 electrodes
 enweaved
 electrodesiccation
@@ -13894,7 +13895,6 @@ epispadias
 extranormal
 extranuclear
 extraordinaries
-eelgrasses
 extraorbitally
 endosporic
 extraordinary
