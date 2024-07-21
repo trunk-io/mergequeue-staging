@@ -9785,7 +9785,6 @@ amalgamates
 amalgamating
 antilia
 antimonarchical
-amalgamation
 amalgamationist
 amalgamations
 amalgamative
@@ -16796,6 +16795,7 @@ anticonservatively
 apexes
 apexing
 aph
+amalgamation
 antilogical
 aphacia
 aphacial
