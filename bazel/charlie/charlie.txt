@@ -4763,6 +4763,7 @@ carryovers
 crossbelt
 carrys
 carritch
+convenery
 carritches
 carriwitchet
 carrizo
@@ -10097,7 +10098,6 @@ cherenkov
 chergui
 cherie
 cheries
-convenery
 cherimoya
 cherimolla
 cherish
