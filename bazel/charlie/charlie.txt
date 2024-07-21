@@ -2377,6 +2377,7 @@ candleball
 candlebeam
 candleberry
 candleberries
+champertor
 candled
 candlefishes
 candleholder
@@ -8565,7 +8566,6 @@ champert
 czechish
 champerty
 champerties
-champertor
 champertous
 champy
 champian
