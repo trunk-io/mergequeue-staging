@@ -476,7 +476,6 @@ daytimes
 dayton
 daiva
 doubtance
-daywork
 dakerhens
 descartes
 dinanderie
@@ -14876,6 +14875,7 @@ dodecarch
 dodecarchy
 dreamtime
 dodecasyllabic
+daywork
 downers
 dodecasyllable
 dodecastylar
