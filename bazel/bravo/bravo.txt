@@ -1703,7 +1703,6 @@ balm
 benacus
 balmiest
 balmily
-balminess
 balmlike
 balsamer
 brocardic
@@ -15064,6 +15063,7 @@ brewery
 bhutan
 bunglesome
 bobcoat
+balminess
 brewhouse
 brewhouses
 benedictionale

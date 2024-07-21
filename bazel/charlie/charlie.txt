@@ -10607,7 +10607,6 @@ chylifaction
 chylifactive
 chylifactory
 crosslet
-chylify
 cropweed
 chylific
 crossbill
@@ -28069,6 +28068,7 @@ ciliform
 crammers
 cramming
 crammingly
+chylify
 codfisher
 crotalus
 cramoisies
