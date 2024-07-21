@@ -1465,7 +1465,6 @@ disintensify
 dca
 deceived
 dcb
-dclass
 dcollet
 digested
 dcolletage
@@ -1634,6 +1633,7 @@ deaminase
 deaminating
 durango
 deamination
+dclass
 deaminization
 deaminize
 deaminized
