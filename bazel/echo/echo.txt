@@ -7562,7 +7562,6 @@ epiboulangerite
 epibranchial
 epical
 epicalyces
-enveloped
 epicalyx
 epicalyxes
 epically
@@ -12111,6 +12110,7 @@ excommunicable
 extempory
 epiplectic
 excommunicating
+enveloped
 excommunication
 excommunications
 endotoxoid
