@@ -2553,7 +2553,6 @@ baresma
 baretta
 barf
 barfed
-barff
 barfy
 breakshugh
 barflies
@@ -9150,6 +9149,7 @@ biosociological
 biosome
 biospeleology
 batzen
+barff
 biosphere
 babs
 biostatic
