@@ -1012,6 +1012,7 @@ beings
 bahuts
 bubalis
 bahutu
+belligerencies
 bahuvrihi
 bahuvrihis
 bai
@@ -5747,7 +5748,6 @@ bellyflaught
 bellyful
 belligerence
 belligerency
-belligerencies
 belligerently
 belligerents
 burghemot
