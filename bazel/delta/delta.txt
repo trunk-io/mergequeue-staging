@@ -3410,7 +3410,6 @@ defogger
 defoggers
 defogs
 defoil
-dawish
 defoliage
 defoliant
 daisy
@@ -6194,6 +6193,7 @@ derivatively
 derivativeness
 dawting
 derive
+dawish
 derivedly
 deformability
 derivedness
