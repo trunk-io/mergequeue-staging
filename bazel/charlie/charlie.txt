@@ -8169,6 +8169,7 @@ chaffs
 chaffwax
 crunched
 clochard
+constantness
 chaffweed
 covado
 clicking
@@ -23194,7 +23195,6 @@ constantinian
 constantinopolitan
 celiosalpingotomy
 constantly
-constantness
 constat
 constatation
 constate
