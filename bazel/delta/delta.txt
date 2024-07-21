@@ -5216,7 +5216,6 @@ denominative
 denominators
 dipolarization
 denormalized
-denotable
 denotate
 denotation
 denotational
@@ -8805,6 +8804,7 @@ deadlily
 diazotizable
 diazotization
 diazotize
+denotable
 declivities
 diazotized
 diazotizing
