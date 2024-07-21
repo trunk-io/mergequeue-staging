@@ -5402,7 +5402,6 @@ affirmations
 anura
 affirmative
 affirmatively
-affirmativeness
 adpromission
 affirmatory
 avine
@@ -25115,6 +25114,7 @@ axled
 axles
 axlesmith
 anaplasis
+affirmativeness
 appendicectasis
 autophotometry
 axletrees
