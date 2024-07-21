@@ -7338,7 +7338,6 @@ engird
 epacridaceae
 epacris
 epact
-epactal
 epaenetic
 epagogic
 evincive
@@ -13650,6 +13649,7 @@ external
 externalisation
 eavedropping
 externalise
+epactal
 engrailed
 enviably
 externalised
