@@ -7333,7 +7333,6 @@ gunfights
 guano
 gossaniferous
 gossard
-gossiped
 guested
 gossiper
 gossipers
@@ -8776,6 +8775,7 @@ gregg
 gladsomely
 greggriffin
 gourmet
+gossiped
 gimp
 gentianaceous
 gonged
