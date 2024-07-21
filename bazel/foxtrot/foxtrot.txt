@@ -6828,7 +6828,6 @@ foldboat
 fare
 foldboater
 felting
-fluke
 farmings
 foldboating
 frampler
@@ -11338,6 +11337,7 @@ furciferous
 furcilia
 fawning
 furcraea
+fluke
 furcula
 faulkland
 furdel
