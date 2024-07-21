@@ -596,6 +596,7 @@ dolcinist
 damassin
 damboard
 dambonite
+diss
 dambrod
 dame
 dizzardly
@@ -13470,7 +13471,6 @@ disruptor
 disturbor
 drused
 disrupture
-diss
 dissatisfaction
 dissatisfactions
 dissatisfactory
