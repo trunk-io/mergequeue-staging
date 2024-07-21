@@ -554,7 +554,6 @@ gelder
 galleyworm
 galleons
 gallera
-grubbier
 graybeards
 gallerian
 gentisate
@@ -8262,6 +8261,7 @@ grapta
 gasthaus
 graptolite
 graptolithina
+grubbier
 graptoloidea
 gradatory
 grasp
