@@ -228,7 +228,6 @@ abbotships
 asperated
 abbr
 abbrev
-aper
 abbreviatable
 abbreviate
 anthropobiologist
@@ -20298,6 +20297,7 @@ arrie
 arriet
 arryish
 arrimby
+aper
 arrises
 arrish
 arriswise
