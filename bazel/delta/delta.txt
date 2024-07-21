@@ -5606,7 +5606,6 @@ disproportionately
 dependant
 dependantly
 duckeries
-dependency
 dependencies
 dosimeters
 dependently
@@ -15681,6 +15680,7 @@ dopester
 dopy
 dopier
 dopiest
+dependency
 dopiness
 dopinesses
 doping
