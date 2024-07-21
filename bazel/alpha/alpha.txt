@@ -6365,7 +6365,6 @@ aeronomics
 antonym
 ago
 agog
-agogic
 agoho
 agoing
 antinegroism
@@ -10460,6 +10459,7 @@ amicicide
 antiagglutinant
 allogamies
 amicous
+agogic
 amicrobic
 amicron
 amictus

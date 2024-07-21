@@ -5885,7 +5885,6 @@ extratellurian
 erinaceus
 enneastylar
 enheritance
-enhydra
 easygoing
 elegy
 enhydrinae
@@ -11582,6 +11581,7 @@ evident
 evidential
 eyebolts
 evidentially
+enhydra
 electropathology
 eccentricity
 emydosauria
