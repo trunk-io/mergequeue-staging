@@ -2611,6 +2611,7 @@ acnemia
 acnes
 acnida
 acnodal
+archaeologic
 acnode
 acnodes
 ataxonomic
@@ -18658,7 +18659,6 @@ archaeolatry
 archaeolith
 archaeolithic
 archaeologer
-archaeologic
 archaeological
 archaeologically
 albuminising
