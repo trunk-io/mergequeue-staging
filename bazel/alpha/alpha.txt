@@ -6288,7 +6288,6 @@ avowter
 aerodynamicist
 acacine
 aglycon
-aglycone
 abusable
 aglycones
 aglycons
@@ -17208,6 +17207,7 @@ apoembryony
 apoenzyme
 apoferritin
 apogaeic
+aglycone
 atropa
 apogaic
 apogalacteum
