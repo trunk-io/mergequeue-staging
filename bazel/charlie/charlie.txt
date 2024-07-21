@@ -12947,6 +12947,7 @@ churchlike
 canaller
 churchliness
 churchmanly
+cassiri
 churchmanship
 churchmaster
 churchmen
@@ -23236,7 +23237,6 @@ corocleisis
 constitutively
 clam
 chlorophyllase
-cassiri
 constr
 constrain
 constrainable
