@@ -1510,7 +1510,6 @@ calls
 clericalize
 chiauses
 calluna
-callus
 camorras
 callused
 calluses
@@ -14521,6 +14520,7 @@ circumvent
 circumventable
 circumvented
 circumventer
+callus
 circumvention
 coking
 circumventive

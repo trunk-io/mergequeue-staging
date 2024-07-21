@@ -1140,7 +1140,6 @@ epacts
 ectosarcs
 elephantine
 editions
-electoral
 editor
 exilition
 editorial
@@ -9049,6 +9048,7 @@ eringos
 eryngos
 erinys
 erinite
+electoral
 erinize
 empiristic
 exudatory
