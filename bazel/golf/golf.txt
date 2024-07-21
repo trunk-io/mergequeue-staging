@@ -8687,7 +8687,6 @@ greenings
 greenish
 gladeye
 gaydiang
-greenishness
 greenkeeper
 gapers
 genets
@@ -10710,6 +10709,7 @@ gusty
 gustless
 gustoes
 galvanometry
+greenishness
 gourmetism
 gustoish
 gustoso
