@@ -7960,7 +7960,6 @@ cestraction
 cestrian
 crossed
 cestui
-cestuy
 cestus
 cestuses
 cesura
@@ -8731,6 +8730,7 @@ channels
 channelure
 channelwards
 channer
+cestuy
 criticizable
 chanoyu
 chansonette
