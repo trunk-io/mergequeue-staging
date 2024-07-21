@@ -293,7 +293,6 @@ abdominoposterior
 abdominoscope
 abdominoscopy
 abdominothoracic
-abdominous
 abdominovaginal
 abdominovesical
 abduce
@@ -7022,6 +7021,7 @@ absorbancy
 acieral
 airplot
 airport
+abdominous
 airpost
 amyxorrhoea
 airposts
