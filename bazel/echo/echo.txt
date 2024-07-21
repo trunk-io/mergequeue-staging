@@ -3774,6 +3774,7 @@ exprobate
 erie
 embush
 embusy
+etchant
 embusk
 erythroxyline
 embusque
@@ -10163,7 +10164,6 @@ elves
 etc
 etcetera
 etceteras
-etchant
 etched
 etcher
 etches
