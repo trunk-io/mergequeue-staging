@@ -3702,7 +3702,6 @@ eucosia
 embrittle
 espouser
 embrittling
-embryulci
 embryulcia
 embryulculci
 embryulcus
@@ -6726,6 +6725,7 @@ enthalpies
 entheal
 explete
 entheasm
+embryulci
 ephod
 entheate
 enthelminthes
