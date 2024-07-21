@@ -7842,6 +7842,7 @@ egging
 electrizable
 entfaoilff
 economite
+evangelium
 exosmosis
 epiglottiditis
 epiglottis
@@ -11346,7 +11347,6 @@ enaction
 evangelistic
 evangelistics
 evangelistship
-evangelium
 ethnos
 evangelization
 ectoloph

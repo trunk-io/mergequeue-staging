@@ -4878,7 +4878,6 @@ gyropigeon
 gyroplane
 gastropneumatic
 gazers
-giros
 gyroscopes
 gyred
 gyroscopic
@@ -10092,6 +10091,7 @@ grano
 guessed
 glandula
 globiocephalus
+giros
 guessers
 gossypin
 guesses
