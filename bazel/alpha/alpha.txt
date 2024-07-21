@@ -7243,7 +7243,6 @@ akroterion
 akrteria
 aktistetae
 aktistete
-aktivist
 aku
 akuammin
 akuammine
@@ -23396,6 +23395,7 @@ augmenting
 augments
 andropetalar
 alarbus
+aktivist
 albetad
 augrim
 augur
