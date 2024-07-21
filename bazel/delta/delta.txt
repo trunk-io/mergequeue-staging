@@ -7892,7 +7892,6 @@ dewed
 dewey
 deweylite
 dewer
-dewfall
 dewfalls
 dewflower
 dewy
@@ -10591,6 +10590,7 @@ disorderliness
 diplobacillus
 diplobacterium
 diploblastic
+dewfall
 diplocaulescent
 dyers
 developability
