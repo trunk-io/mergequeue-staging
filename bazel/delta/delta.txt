@@ -4980,7 +4980,6 @@ denaries
 denarii
 dellenite
 denarinarii
-depolarised
 denarius
 denaro
 dislock
@@ -16076,6 +16075,7 @@ doubty
 doubting
 doubtingness
 disparition
+depolarised
 doubtless
 doubtlessly
 doubtlessness

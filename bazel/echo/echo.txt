@@ -8049,7 +8049,6 @@ epiphanous
 exocataphoria
 eschaufe
 epipharynx
-encoder
 epiphenomena
 epiphenomenal
 epiphenomenalism
@@ -13797,6 +13796,7 @@ embosture
 extracosmical
 extracostal
 explicating
+encoder
 extract
 extractability
 erasing
