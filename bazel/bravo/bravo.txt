@@ -4901,6 +4901,7 @@ bristle
 beefs
 briarroot
 beefsteaks
+bartlett
 beefwood
 beefwoods
 beegerite
@@ -17992,7 +17993,6 @@ bushily
 bromthymol
 bushland
 bushlands
-bartlett
 bambacciata
 bushlet
 bushmaker
