@@ -1949,7 +1949,6 @@ acentric
 annexable
 acentrous
 aceology
-auxin
 acephal
 ageless
 acephalan
@@ -11371,6 +11370,7 @@ afterwards
 amplificator
 amplificatory
 anaphrodisiac
+auxin
 amplified
 amplifiers
 amplifies
