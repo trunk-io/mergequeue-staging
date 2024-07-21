@@ -3055,7 +3055,6 @@ beneceptor
 berber
 barsac
 belverdian
-barsom
 barspoon
 barstool
 barstools
@@ -7365,6 +7364,7 @@ betokening
 betokenment
 betokens
 beton
+barsom
 betongue
 bigae
 betony
