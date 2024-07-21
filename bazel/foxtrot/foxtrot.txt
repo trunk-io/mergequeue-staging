@@ -1577,7 +1577,6 @@ fen
 footballs
 favellidium
 faveolate
-fainness
 fargoing
 faveolus
 forerigging
@@ -2607,6 +2606,7 @@ foamy
 ferulas
 falsifiable
 ferule
+fainness
 funariaceae
 feruled
 freakery
