@@ -7071,6 +7071,7 @@ foods
 foodservices
 fountainous
 featheredged
+fortuitous
 foodstuffs
 foofaraw
 fooyoung
@@ -8707,7 +8708,6 @@ filed
 forts
 fortuitism
 fortuitist
-fortuitous
 fortuitously
 fortuitus
 fortunateness
