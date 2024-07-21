@@ -4182,7 +4182,6 @@ admired
 autumnal
 admiredly
 admirer
-alchemise
 admirers
 antemundane
 admiring
@@ -18418,6 +18417,7 @@ aralkyl
 aralkylated
 aramaic
 aramaicize
+alchemise
 aramaism
 anisosthenic
 aramid

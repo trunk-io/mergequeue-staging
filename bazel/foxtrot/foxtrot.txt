@@ -1107,7 +1107,6 @@ fucate
 farrieries
 forereport
 farris
-farrisite
 farrowing
 farrows
 farruca
@@ -1996,6 +1995,7 @@ feldsparphyre
 feldspath
 feldspathization
 feldspathoid
+farrisite
 forehook
 flintlike
 feldspathose
