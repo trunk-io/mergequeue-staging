@@ -4762,7 +4762,6 @@ carryovers
 crossbelt
 carrys
 carritch
-convenery
 carritches
 carriwitchet
 carrizo
@@ -9153,6 +9152,7 @@ charpais
 charpie
 charpit
 charpoy
+convenery
 charpoys
 charque
 charqued
