@@ -3702,7 +3702,6 @@ dak
 demesmerize
 disproved
 dehydrogenates
-dehydrogenating
 disponer
 dehydrogenisation
 dodecahedra
@@ -8571,6 +8570,7 @@ diaphysis
 diaphone
 diaphones
 diaphonic
+dehydrogenating
 diaphonical
 diaphonies
 diaphorase
