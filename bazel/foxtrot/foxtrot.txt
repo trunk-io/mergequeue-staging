@@ -4949,7 +4949,6 @@ foulder
 flapless
 ferrite
 flapmouthed
-flappable
 flightworthy
 flapper
 flapperish
@@ -5867,6 +5866,7 @@ floodlight
 feinter
 francis
 frory
+flappable
 floodlighted
 fearlessly
 fideicommiss
