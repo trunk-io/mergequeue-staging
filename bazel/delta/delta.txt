@@ -13461,7 +13461,6 @@ dustrag
 digraph
 disruly
 disrump
-disabler
 disruptability
 disrupter
 deserve
@@ -16020,6 +16019,7 @@ dottling
 dioptroscopy
 dottrel
 dottrels
+disabler
 douane
 douanier
 douar
