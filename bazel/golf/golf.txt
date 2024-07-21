@@ -1480,6 +1480,7 @@ grided
 gleeman
 gouts
 grammars
+gallingness
 garrisons
 garrnishable
 garron
@@ -2641,7 +2642,6 @@ generalty
 gooroo
 generant
 glances
-gallingness
 gilt
 gaminesque
 genetmoil
