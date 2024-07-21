@@ -3586,7 +3586,6 @@ barbar
 belaboured
 bilos
 buoyances
-bathman
 bathmats
 bathmic
 bathmism
@@ -17071,6 +17070,7 @@ bulletin
 bulletless
 bulletlike
 battalia
+bathman
 bulletmaking
 bis
 britishhood
