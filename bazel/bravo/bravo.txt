@@ -7773,6 +7773,7 @@ bibation
 bibb
 bibbery
 bibberies
+burps
 bountihead
 beggarer
 bandannaed
@@ -17819,7 +17820,6 @@ burntness
 burp
 burping
 blindfish
-burps
 burr
 burrah
 bedright
