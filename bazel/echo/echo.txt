@@ -6892,7 +6892,6 @@ entomophthorous
 entomostracan
 entomotaxy
 entomotomy
-entone
 epitrchelia
 emblema
 entonement
@@ -13165,6 +13164,7 @@ expiscating
 erzahler
 eschewers
 eschewed
+entone
 expiscator
 elections
 expiscatory
