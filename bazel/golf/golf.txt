@@ -2561,6 +2561,7 @@ genarcha
 gendarmery
 gendarmes
 grizzles
+gulp
 genderless
 glides
 genteelize
@@ -10388,7 +10389,6 @@ gulosity
 greasebush
 gorillalike
 grissens
-gulp
 gulpers
 gulpy
 gulping
