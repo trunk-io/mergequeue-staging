@@ -3624,7 +3624,6 @@ filister
 feer
 filius
 friesish
-fillable
 flyspecking
 filled
 fourfold
@@ -3993,6 +3992,7 @@ finisher
 febrifacient
 finishes
 fortunetell
+fillable
 finishing
 finitesimal
 frab
