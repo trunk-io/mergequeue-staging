@@ -2861,7 +2861,6 @@ feulamort
 feuter
 feverberry
 fjeld
-foisting
 feverbush
 fevered
 faqir
@@ -9095,6 +9094,7 @@ franciscans
 foxfish
 foxfishes
 foregoing
+foisting
 foxglove
 foxgloves
 feoffed
