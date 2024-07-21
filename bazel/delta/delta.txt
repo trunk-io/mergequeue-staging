@@ -5737,7 +5737,6 @@ deducts
 dorsobranchiata
 deplorably
 deplorate
-deploration
 delimes
 deplored
 du
@@ -10863,6 +10862,7 @@ dumbwaiter
 dodging
 directorial
 directorially
+deploration
 directors
 directorship
 directorships
