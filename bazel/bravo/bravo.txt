@@ -803,7 +803,6 @@ baddishness
 baddock
 bade
 badenite
-badge
 badged
 badgeless
 berrendo
@@ -4630,6 +4629,7 @@ bedevilled
 bbls
 bipectinate
 bedew
+badge
 bedewed
 bewreck
 brusker
