@@ -7419,7 +7419,6 @@ alauda
 alaudidae
 alaunt
 alba
-albacora
 albacores
 albahaca
 alban
@@ -9133,6 +9132,7 @@ alimentativeness
 almander
 almandine
 almandines
+albacora
 almanner
 auturgy
 alme
