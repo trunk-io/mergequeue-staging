@@ -2713,6 +2713,7 @@ guemul
 genettes
 geneva
 gibbsite
+gumshield
 genevan
 gassendist
 genevas
@@ -10462,7 +10463,6 @@ gibbon
 gumptious
 gumpus
 gentler
-gumshield
 gosling
 gumshoe
 gentium
