@@ -145,6 +145,7 @@ forfeit
 factionalism
 factionalist
 factionaries
+fivescore
 fulicine
 fielded
 factioneer
@@ -4554,7 +4555,6 @@ forwardation
 fierte
 fivepins
 fives
-fivescore
 fix
 fixt
 fixable
