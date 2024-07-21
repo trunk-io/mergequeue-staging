@@ -2165,6 +2165,7 @@ bannat
 banned
 banner
 bottlehead
+buckteeth
 bannerets
 backachy
 bannerette
@@ -9311,7 +9312,6 @@ bipod
 bipods
 bipolarization
 bipont
-buckteeth
 bipontine
 biporose
 binauricular
