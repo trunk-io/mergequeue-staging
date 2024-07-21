@@ -4781,6 +4781,7 @@ bedrugs
 bipyridyl
 bedscrew
 bedsheet
+broom
 blackboards
 brookflower
 bedside
@@ -16059,7 +16060,6 @@ barkpeel
 brooklet
 brooks
 brookweed
-broom
 broomball
 broomballer
 broombush
