@@ -7545,7 +7545,6 @@ foreconclude
 flagger
 fc
 foreconsider
-fazendas
 forecount
 forecourt
 forecourts
@@ -11539,6 +11538,7 @@ forwaked
 forays
 fractionalizing
 fusariosis
+fazendas
 fennels
 fusarium
 farmerish
