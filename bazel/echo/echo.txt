@@ -103,7 +103,6 @@ eremitish
 eprosy
 earmark
 earmarked
-earmarkings
 epitheliosis
 epithelioblastoma
 enormously
@@ -5351,6 +5350,7 @@ endostylic
 excarnate
 endostitis
 endostoma
+earmarkings
 endostomata
 educations
 endostosis
