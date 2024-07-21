@@ -11153,7 +11153,6 @@ blossomless
 blossoms
 blot
 beclogging
-borable
 blotched
 benzoglyoxaline
 blotches
@@ -14666,6 +14665,7 @@ bravers
 braves
 bissabol
 brouille
+borable
 bravi
 beslimes
 burnish
