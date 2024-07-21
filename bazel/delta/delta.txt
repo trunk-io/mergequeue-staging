@@ -3859,6 +3859,7 @@ dejectile
 dysphemism
 dejecting
 disobeyer
+decider
 dejectly
 dejectory
 dejects
@@ -14818,7 +14819,6 @@ documenting
 documentize
 documentor
 dewal
-decider
 dod
 dittamy
 dominator
