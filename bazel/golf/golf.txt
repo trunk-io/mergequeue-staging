@@ -239,7 +239,6 @@ garnetz
 gelling
 gainfulness
 gaingiving
-gainyield
 gaining
 gainlessness
 ghoul
@@ -6769,6 +6768,7 @@ grecized
 gedds
 garnisheement
 genealogist
+gainyield
 gentianose
 gonadal
 graduses
