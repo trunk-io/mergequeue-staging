@@ -29,6 +29,7 @@ bridesmen
 bowtie
 baaskap
 baba
+bool
 babaylan
 babaylanes
 bisection
@@ -12714,7 +12715,6 @@ bookward
 bookwards
 bookwork
 bookworms
-bool
 breathseller
 booley
 beety
