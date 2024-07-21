@@ -2358,7 +2358,6 @@ achromatise
 amity
 achromatising
 anodynic
-achromatism
 achromatizable
 achromatization
 achromatize
@@ -13945,6 +13944,7 @@ anorexies
 anorexigenic
 anorganism
 adenomyxosarcoma
+achromatism
 alcornoque
 anormal
 antrotomy
