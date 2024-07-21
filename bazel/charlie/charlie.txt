@@ -2380,7 +2380,6 @@ candlebeam
 candleberry
 candleberries
 candled
-candlefishes
 candleholder
 candlelight
 candlelighted
@@ -30577,6 +30576,7 @@ cuculiform
 cuculiformes
 capabler
 cuculine
+candlefishes
 cuculla
 cucullated
 cucullately
