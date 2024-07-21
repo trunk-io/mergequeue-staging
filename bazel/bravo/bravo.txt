@@ -2987,7 +2987,6 @@ beslash
 barrelled
 barrelling
 belong
-barrelmaking
 ballistics
 barrels
 besottingly
@@ -14704,6 +14703,7 @@ brawny
 bespreads
 brawniness
 brooklets
+barrelmaking
 braws
 braxy
 braxies

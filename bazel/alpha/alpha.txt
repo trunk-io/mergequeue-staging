@@ -11015,7 +11015,6 @@ araeostyle
 amortises
 amortising
 amortissement
-amortisseur
 auresca
 acres
 amortizable
@@ -20580,6 +20579,7 @@ adhesivemeter
 artfulness
 artgum
 arthel
+amortisseur
 arthemis
 amyloclastic
 arthogram
