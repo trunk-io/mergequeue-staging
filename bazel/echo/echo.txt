@@ -2650,7 +2650,6 @@ expurgates
 encroachments
 electrothermancy
 electrothermic
-electrothermics
 enschedule
 estuant
 electrothermotic
@@ -7523,6 +7522,7 @@ etheostomoid
 edrioasteroid
 effluency
 ephoi
+electrothermics
 enlargedly
 ephor
 especialness
