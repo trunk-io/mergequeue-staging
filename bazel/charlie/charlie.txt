@@ -8494,6 +8494,7 @@ chamfer
 chamfered
 chamferer
 chamfers
+creeky
 chamfrain
 cradock
 chamfron
@@ -28610,7 +28611,6 @@ creekfish
 cricketing
 creekfishes
 cathead
-creeky
 creekstuff
 creel
 climatography

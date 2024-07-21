@@ -2121,7 +2121,6 @@ elastases
 exclusivism
 ethnology
 elastically
-endable
 elasticate
 elastician
 elasticin
@@ -2706,6 +2705,7 @@ elementalism
 eridanid
 elementally
 elementaloid
+endable
 epithetize
 escorting
 escript
