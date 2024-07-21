@@ -9077,6 +9077,7 @@ charitableness
 charitably
 charitative
 charites
+coinferring
 charity
 credenciveness
 charities
@@ -18654,7 +18655,6 @@ coynesses
 coinfeftment
 coinfer
 coinferred
-coinferring
 complied
 coinfers
 coinfinite
