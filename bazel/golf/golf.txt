@@ -6191,7 +6191,6 @@ geometricize
 guttulae
 glutamate
 glutamates
-glutamic
 genapped
 glutamine
 gamogony
@@ -7579,6 +7578,7 @@ graben
 grabens
 glycosidic
 grabman
+glutamic
 graphologist
 gillie
 grace

@@ -2057,6 +2057,7 @@ acetars
 attend
 acetate
 acetated
+applies
 acetates
 acetation
 acetenyl
@@ -17816,7 +17817,6 @@ appliedly
 applier
 akroteria
 appliers
-applies
 applying
 applyment
 appling
