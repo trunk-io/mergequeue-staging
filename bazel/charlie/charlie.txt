@@ -13248,7 +13248,6 @@ cicadidae
 cycadiform
 cycadite
 cyanidrosis
-cycadofilicale
 cycadofilices
 cycadophyta
 cycadophyte
@@ -30235,6 +30234,7 @@ cannulae
 crumminess
 carpsucker
 crumming
+cycadofilicale
 crummock
 crumper
 conductors
