@@ -6134,7 +6134,6 @@ benefitting
 brollies
 benempt
 barbless
-boarishly
 bowstring
 brot
 beneplacity
@@ -8999,6 +8998,7 @@ biome
 biomechanical
 botanizer
 biomechanics
+boarishly
 bewitches
 biomes
 biometeorology
