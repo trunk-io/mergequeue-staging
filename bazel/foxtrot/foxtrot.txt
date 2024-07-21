@@ -8189,7 +8189,6 @@ forfoughen
 forfoughten
 forgab
 forgather
-forgathered
 forgathering
 forgathers
 frontomental
@@ -10732,6 +10731,7 @@ formulating
 fernsick
 fiberglas
 frustrates
+forgathered
 frustrating
 floc
 foretokened
