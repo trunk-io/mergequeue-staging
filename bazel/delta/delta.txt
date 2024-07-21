@@ -3296,6 +3296,7 @@ defines
 definienda
 definiendum
 definiens
+desmology
 dolabre
 definientia
 definish
@@ -6805,7 +6806,6 @@ desmoids
 dramaturge
 desmolase
 drab
-desmology
 desmoma
 desmomyaria
 desmon
