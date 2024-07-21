@@ -12824,7 +12824,6 @@ alumel
 anginal
 angrily
 anginas
-anginiform
 anginophobia
 anginose
 anginous
@@ -13380,6 +13379,7 @@ anisochromia
 amebiasis
 anisocycle
 anisocytosis
+anginiform
 anisocoria
 adonises
 anisocotyledonous
