@@ -3796,7 +3796,6 @@ enterocystoma
 emendator
 exedrae
 evirato
-emender
 emendicate
 excluded
 embowl
@@ -6073,6 +6072,7 @@ enneaeteric
 enneagonal
 enneagons
 enneahedral
+emender
 enantiopathic
 electrizer
 enneahedria
