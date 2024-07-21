@@ -566,6 +566,7 @@ backster
 backstick
 backstitched
 backstitches
+bankrolls
 backstone
 balding
 backstop
@@ -12940,7 +12941,6 @@ borderer
 borderers
 borderies
 bordering
-bankrolls
 borderings
 borderlander
 borderless
