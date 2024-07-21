@@ -3822,7 +3822,6 @@ enfeebling
 erratically
 emerant
 enharden
-enlists
 estraying
 emeras
 emerge
@@ -4673,6 +4672,7 @@ enchiridia
 emulated
 enchiridions
 exterous
+enlists
 enchodontidae
 enchodontoid
 enchondroma
