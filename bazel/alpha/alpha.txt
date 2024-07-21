@@ -2816,7 +2816,6 @@ acridest
 acridid
 agglutinability
 acrididae
-acridiidae
 acridyl
 acridin
 acridines
@@ -20926,6 +20925,7 @@ asbolite
 ascabart
 ascan
 ascanian
+acridiidae
 ascanius
 ascape
 ascare
