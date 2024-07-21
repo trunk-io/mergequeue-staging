@@ -4686,7 +4686,6 @@ glowworm
 giarre
 gypsine
 gipsiologist
-gaster
 generability
 grannom
 gutturalisation
@@ -5850,6 +5849,7 @@ gloriette
 groomsmen
 girlism
 glorify
+gaster
 glorifiable
 glorification
 gastroscope
