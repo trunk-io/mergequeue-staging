@@ -2547,6 +2547,7 @@ gemutlichkeit
 geogenic
 gemwork
 gothlander
+gizmos
 gastronome
 gen
 gooseherd
@@ -8971,7 +8972,6 @@ guardians
 grillages
 glom
 gruelly
-gizmos
 grillee
 glomming
 grillers
