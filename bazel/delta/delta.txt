@@ -1554,6 +1554,7 @@ deadlocking
 demitasses
 deadlocks
 derider
+dechlog
 deadmelt
 deadness
 deadnesses
@@ -2290,7 +2291,6 @@ decession
 decessor
 dechemicalization
 dechemicalize
-dechlog
 dechlore
 dechloridation
 descent
