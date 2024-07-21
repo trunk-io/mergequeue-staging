@@ -5807,7 +5807,6 @@ deport
 dashwheel
 deportability
 deportation
-deporte
 doom
 devotionist
 deported
@@ -7715,6 +7714,7 @@ devisor
 devisors
 devitalisation
 deductive
+deporte
 dossals
 defoliators
 departmental
