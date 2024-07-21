@@ -4094,6 +4094,7 @@ fireboats
 fuzzball
 firebolted
 ferrated
+fontal
 firebomb
 firebombed
 funky
@@ -7033,7 +7034,6 @@ fons
 fortemente
 fidgetiness
 flatwise
-fontal
 fontanel
 flapdock
 fraenums
