@@ -4937,7 +4937,6 @@ beent
 beep
 beeped
 beeper
-beepers
 beflout
 beeping
 beeps
@@ -9085,6 +9084,7 @@ bowdichia
 bioplast
 bioplastic
 biopoiesis
+beepers
 biopotential
 bioprecipitation
 biopsy
