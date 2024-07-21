@@ -7761,6 +7761,7 @@ foremarch
 foremark
 foremartyr
 fleshlike
+fabled
 fluidify
 flak
 foremasts
@@ -10578,7 +10579,6 @@ flatuous
 frowstiest
 frowze
 falderol
-fabled
 feoffeeship
 flashboard
 foreloop
