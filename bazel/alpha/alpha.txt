@@ -3201,6 +3201,7 @@ actinotherapeutic
 actinotherapeutics
 actinotoxemia
 actinotrichium
+amphithuron
 actinotrocha
 actinouranium
 actinozoan
@@ -11293,7 +11294,6 @@ antialien
 amphithecium
 antepartum
 amphithura
-amphithuron
 anthropoidal
 alethopteroid
 apehood
