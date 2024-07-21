@@ -38,7 +38,6 @@ gaby
 gasket
 gabion
 goatbush
-grime
 ganister
 gruels
 gabionage
@@ -3395,6 +3394,7 @@ geryon
 geryonia
 geryonid
 gonidiophore
+grime
 gonosomal
 geryoniidae
 gerip
