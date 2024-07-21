@@ -299,7 +299,6 @@ abduce
 abduced
 abducens
 abducent
-abducentes
 abduces
 apparels
 abducing
@@ -12611,6 +12610,7 @@ atheists
 anemophily
 anemoses
 anemosis
+abducentes
 anemotactic
 anemotropic
 anemotropism
