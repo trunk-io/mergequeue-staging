@@ -16210,7 +16210,6 @@ antisepticizing
 antiseption
 antiseptize
 antisera
-antiserum
 antiserums
 aletocyte
 antiserumsera
@@ -25013,6 +25012,7 @@ awninged
 awnings
 awnlike
 awns
+antiserum
 awoke
 anacyclus
 awoken
