@@ -188,7 +188,6 @@ baccae
 battycake
 beflagged
 behymn
-baccalaurean
 baccalaureat
 beachmaster
 breather
@@ -1811,6 +1810,7 @@ benty
 baluchitherium
 balun
 balunda
+baccalaurean
 balushai
 balusters
 beewise
