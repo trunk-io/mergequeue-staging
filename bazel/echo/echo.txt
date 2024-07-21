@@ -4688,7 +4688,6 @@ experimentalist
 encyclical
 encyclopaediac
 epinephrin
-encyclopaedial
 embosk
 eloge
 encyclopaedic
@@ -11145,6 +11144,7 @@ emulsifies
 embarren
 eurystomatous
 eurite
+encyclopaedial
 emulsification
 eurytherm
 elevon
