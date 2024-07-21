@@ -6752,7 +6752,6 @@ fosterlings
 fogyisms
 flatulentness
 fertilized
-fogless
 fimble
 fogman
 fogo
@@ -9492,6 +9491,7 @@ fyces
 fetography
 foretimed
 fraudulence
+fogless
 fraudulency
 flexibility
 fraughan
