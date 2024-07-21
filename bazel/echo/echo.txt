@@ -1882,7 +1882,6 @@ englishing
 eyewitness
 eyewitnesses
 exponentiate
-eigenfrequency
 eigenvalue
 eightballs
 ethrogim
@@ -13591,6 +13590,7 @@ extensions
 endorsements
 emberizine
 extensiveness
+eigenfrequency
 extensivity
 extensometer
 excess
