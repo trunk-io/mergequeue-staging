@@ -2568,7 +2568,6 @@ decollimate
 decolonisation
 decolonise
 decolonised
-decolonising
 decolonization
 decolonize
 dominant
@@ -11306,6 +11305,7 @@ dispensing
 discarnate
 discarnation
 discase
+decolonising
 discased
 discases
 discasing
