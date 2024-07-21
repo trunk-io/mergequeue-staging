@@ -9021,7 +9021,6 @@ aeger
 allotriuria
 allotrope
 allotropes
-allotropy
 allotropic
 allotropical
 archosyrinx
@@ -12481,6 +12480,7 @@ anesthetically
 androgynic
 androgynies
 androginous
+allotropy
 adaptively
 amphicreatinine
 akinetic
