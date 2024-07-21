@@ -6165,6 +6165,7 @@ alethiologist
 arachnidial
 asbest
 aqueduct
+arenae
 aggressively
 aggressiveness
 aggressivity
@@ -19355,7 +19356,6 @@ aren
 arena
 arenaceous
 acaudate
-arenae
 arenariae
 arenation
 arend
