@@ -5752,6 +5752,7 @@ afterpeak
 afterpiece
 afterplay
 afterplanting
+armband
 afterpotential
 accordancy
 archidium
@@ -19933,7 +19934,6 @@ aminize
 armatured
 aerophysicist
 aristos
-armband
 armbands
 armbone
 armchair
