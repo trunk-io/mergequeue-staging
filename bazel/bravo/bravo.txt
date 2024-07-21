@@ -15507,7 +15507,6 @@ bluelegs
 bristlemouth
 bristlemouths
 bristles
-bristletail
 bristlewort
 bristlier
 bristling
@@ -18244,6 +18243,7 @@ brabbles
 brindles
 blamable
 butterflyer
+bristletail
 bimetallism
 bandidos
 butterflies
