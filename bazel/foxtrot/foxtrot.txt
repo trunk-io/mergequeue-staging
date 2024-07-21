@@ -8065,7 +8065,6 @@ foretastes
 feynesses
 floruits
 foreteach
-fistuliform
 fogfruits
 fathogram
 foretellers
@@ -10769,6 +10768,7 @@ fruticeta
 fruticetum
 fruticose
 feedboard
+fistuliform
 frwy
 formular
 fdnames
