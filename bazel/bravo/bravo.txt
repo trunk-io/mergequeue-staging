@@ -6220,6 +6220,7 @@ benomyls
 benorth
 benote
 bens
+bottomless
 bureaucrat
 bensail
 bde
@@ -13389,7 +13390,6 @@ bottomer
 bottomers
 bottoming
 bottomland
-bottomless
 bottomlessly
 bottomlessness
 brimmimg
