@@ -6068,7 +6068,6 @@ bearer
 beneath
 beneception
 blockman
-benedicite
 benedick
 benedicks
 benedict
@@ -12218,6 +12217,7 @@ blendcorn
 boltcutter
 bodysurfed
 bolted
+benedicite
 bajardo
 blatter
 benefic
