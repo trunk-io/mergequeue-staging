@@ -11643,7 +11643,6 @@ anaemia
 anaemias
 adapa
 anaemic
-anaemotropy
 anaerobation
 anaerobe
 anaerobes
@@ -13639,6 +13638,7 @@ annihilative
 annihilator
 annihilatory
 arousers
+anaemotropy
 annihilators
 anniversalily
 anniversaries
