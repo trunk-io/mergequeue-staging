@@ -8745,6 +8745,7 @@ channer
 criticizable
 chanoyu
 chansonette
+commutatively
 chansonnette
 chansonnier
 chansonniers
@@ -20442,7 +20443,6 @@ cuckquean
 commutate
 commutated
 commutation
-commutatively
 commutativity
 commutator
 commutators
