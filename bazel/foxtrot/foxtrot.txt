@@ -7446,7 +7446,6 @@ fitly
 fifo
 foreadvertise
 foreadvice
-foreadvise
 foreallege
 foreannounce
 finesser
@@ -8367,6 +8366,7 @@ formalness
 formamide
 formamido
 formamidoxime
+foreadvise
 formanilide
 fibers
 formants
