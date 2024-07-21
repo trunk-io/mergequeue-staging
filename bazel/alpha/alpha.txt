@@ -4914,6 +4914,7 @@ aequorin
 aequorins
 alimentiveness
 aloesol
+animine
 aer
 aerage
 alborak
@@ -13300,7 +13301,6 @@ animi
 ararao
 animikean
 animikite
-animine
 animis
 animism
 animisms
