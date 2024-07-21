@@ -3464,6 +3464,7 @@ defrayal
 defrayals
 dehydrogenate
 dulocracy
+dashpot
 defrayed
 defrayer
 defrayment
@@ -7380,7 +7381,6 @@ duodenum
 determiners
 dimyaric
 decoymen
-dashpot
 detraining
 donovan
 dorsel
