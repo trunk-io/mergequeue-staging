@@ -4300,7 +4300,6 @@ caryophyllene
 camphoid
 chingma
 caryophylleous
-caryophyllin
 caryophyllous
 caryophyllus
 caryopilite
@@ -13291,6 +13290,7 @@ cicelies
 cicero
 ciceronage
 cicerone
+caryophyllin
 cicerones
 ciceroni
 ciceronian
