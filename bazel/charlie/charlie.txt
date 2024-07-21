@@ -1849,7 +1849,6 @@ cameoed
 cameograph
 cameography
 cameos
-camera
 camerae
 cameral
 cameralism
@@ -17434,6 +17433,7 @@ coauthered
 coauthor
 coauthored
 coauthoring
+camera
 connectedness
 creators
 coauthority
