@@ -4889,7 +4889,6 @@ gyrostat
 giusto
 greystone
 gastroplenic
-gunnysack
 guarrau
 girouettism
 gilliflower
@@ -9117,6 +9116,7 @@ grippotoxin
 grips
 glycans
 gripsack
+gunnysack
 grumbled
 gripsacks
 gaunt
