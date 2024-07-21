@@ -5550,6 +5550,7 @@ footgrip
 flightiness
 flightless
 forepassed
+faroeish
 flights
 flightshot
 flyings
@@ -9587,7 +9588,6 @@ frithborh
 foxhounds
 ferrometer
 freebooter
-faroeish
 fastwalk
 forthward
 freebooters
