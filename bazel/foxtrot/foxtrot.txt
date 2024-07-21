@@ -4399,7 +4399,6 @@ fiddlery
 fumbling
 fishwoman
 fishwood
-functionalistic
 fishworm
 fisk
 firmware
@@ -6738,6 +6737,7 @@ fogged
 fogger
 fruited
 foggy
+functionalistic
 farandole
 fibrine
 foggier
