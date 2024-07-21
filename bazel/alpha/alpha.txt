@@ -19943,7 +19943,6 @@ armatured
 aerophysicist
 aristos
 armbands
-armbone
 armchair
 armchaired
 armed
@@ -23370,6 +23369,7 @@ acrobatics
 aufgabe
 aufklarung
 auftakt
+armbone
 alang
 aug
 auganite
