@@ -2666,7 +2666,6 @@ barytosulphate
 botonn
 basalia
 barium
-bariums
 barkan
 bagheli
 barkbound
@@ -10000,6 +9999,7 @@ boom
 bizonia
 bizz
 bizzarro
+bariums
 bk
 bkbndr
 bkg
