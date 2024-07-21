@@ -2776,7 +2776,6 @@ genipap
 greenstuff
 gentes
 guzzler
-gossip
 genipaps
 genyplasty
 genips
@@ -8126,6 +8125,7 @@ granulomatosis
 granulosa
 granulosis
 gobioidei
+gossip
 granville
 gangwa
 granzita
