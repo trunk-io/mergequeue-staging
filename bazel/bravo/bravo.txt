@@ -199,7 +199,6 @@ baccalaureus
 barger
 bacteriotoxic
 baccar
-brahui
 baccaras
 broadthroat
 belvidere
@@ -6076,6 +6075,7 @@ benedicks
 benedict
 benedictine
 benedictinism
+brahui
 brimborium
 benedictional
 bleaters

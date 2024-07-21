@@ -3989,7 +3989,6 @@ finis
 finish
 figure
 finished
-flatterdock
 forride
 finisher
 febrifacient
@@ -5946,6 +5945,7 @@ florences
 florent
 florentine
 forerank
+flatterdock
 florentines
 florentinism
 fiercehearted
