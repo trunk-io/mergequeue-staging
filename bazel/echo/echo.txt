@@ -501,7 +501,6 @@ eccrisis
 eccritic
 eccrine
 ecderon
-ecderonic
 excerptible
 exitial
 eccentrometer
@@ -9895,6 +9894,7 @@ explorate
 est
 eigenvectors
 estab
+ecderonic
 estable
 establish
 entomophagan
