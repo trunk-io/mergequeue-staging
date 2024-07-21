@@ -12516,7 +12516,6 @@ chromatosis
 chromatosphere
 chromatospheric
 chromatrope
-chromaturia
 chromazurine
 chromdiagnosis
 chrome
@@ -30416,6 +30415,7 @@ ctenostome
 ctetology
 ctf
 ctg
+chromaturia
 ctge
 ctn
 cto
