@@ -4257,7 +4257,6 @@ gallowglass
 garapata
 gimbri
 gymnosporangium
-gametogenic
 gunpaper
 gimcrackery
 goggly
@@ -6896,6 +6895,7 @@ gortonian
 gonne
 granulating
 gonoblast
+gametogenic
 gonoblastic
 gonoblastidial
 gonocalycine

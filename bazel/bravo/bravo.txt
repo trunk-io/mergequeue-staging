@@ -2159,7 +2159,6 @@ backway
 begad
 banksman
 banksmen
-bankweed
 banlieue
 bannack
 bannat
@@ -11170,6 +11169,7 @@ blotto
 blottto
 bloubiskop
 battalias
+bankweed
 beglobed
 bracer
 blackboy
