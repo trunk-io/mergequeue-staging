@@ -4650,7 +4650,6 @@ coost
 carpogenous
 carpognia
 completes
-carpogone
 choanoflagellata
 carpogonial
 cograil
@@ -7332,6 +7331,7 @@ cephalemia
 cephaletron
 cephaleuros
 crouched
+carpogone
 cephalhematoma
 cephalic
 cephalically
