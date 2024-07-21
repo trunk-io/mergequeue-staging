@@ -2736,7 +2736,6 @@ elementarism
 elementarist
 egyptianization
 elementarity
-elementate
 engrailment
 embrue
 elementish
@@ -5432,6 +5431,7 @@ endpiece
 endplate
 endplates
 endpleasure
+elementate
 endrudge
 electroballistic
 endsheet
