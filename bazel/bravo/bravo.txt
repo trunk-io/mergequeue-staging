@@ -6862,6 +6862,7 @@ beastie
 browse
 beseemly
 beseems
+bailsman
 beseige
 besetment
 besets
@@ -15100,7 +15101,6 @@ briarwood
 bribable
 barbes
 bribeability
-bailsman
 bulblet
 brickmaking
 bribeable
