@@ -10477,7 +10477,6 @@ birles
 bewater
 blathery
 blathers
-burt
 blatherskites
 barmbrack
 blatiform
@@ -12214,6 +12213,7 @@ bajardo
 blatter
 benefic
 boltel
+burt
 bolter
 bolthead
 boltheader
