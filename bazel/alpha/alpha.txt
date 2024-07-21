@@ -9682,7 +9682,6 @@ alure
 alurgite
 alushtite
 alvah
-alvan
 alvar
 alveary
 alvearies
@@ -25112,6 +25111,7 @@ axisymmetrically
 axite
 axites
 axle
+alvan
 axled
 axles
 axlesmith
