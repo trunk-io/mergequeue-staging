@@ -3128,6 +3128,7 @@ foveolet
 fict
 fictileness
 frostflower
+fictionalization
 fictional
 fictionalize
 fictionalized
@@ -3473,7 +3474,6 @@ filamentary
 felworts
 filamented
 filamentiferous
-fictionalization
 forefended
 filamentoid
 filamentose
