@@ -8965,7 +8965,6 @@ dichroism
 demihearse
 dichroite
 dichroitic
-dichromasy
 dichromasia
 dichromat
 diester
@@ -17242,6 +17241,7 @@ drizzle
 drizzled
 drizzly
 drizzlier
+dichromasy
 drizzliest
 dialogized
 drizzling
