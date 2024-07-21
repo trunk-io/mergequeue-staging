@@ -7572,6 +7572,7 @@ buckjump
 beworming
 bindweeds
 beworn
+brachydiagonal
 bedirt
 beworry
 bushi
@@ -13960,7 +13961,6 @@ brachydactylic
 brachydactylism
 brachydactylous
 barkentines
-brachydiagonal
 bevels
 brachydodrome
 brachydodromous

@@ -3828,7 +3828,6 @@ adhara
 adhere
 angstroms
 adhered
-adherence
 adherences
 adherency
 adherend
@@ -9385,6 +9384,7 @@ alphanumerically
 alphanumerics
 alphard
 alphas
+adherence
 alphatoluic
 alphean
 alphecca
