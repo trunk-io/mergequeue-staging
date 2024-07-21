@@ -1640,6 +1640,7 @@ acclinate
 archibenthic
 acclivities
 aegis
+althaea
 anaxial
 acclivitous
 acclivous
@@ -9529,7 +9530,6 @@ alternisepalous
 alternity
 altesse
 alteza
-althaea
 althaeas
 althaein
 altheas
