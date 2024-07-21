@@ -3557,7 +3557,6 @@ genes
 gershonite
 graptolitha
 gersum
-gangtide
 gertie
 gertrude
 gibbous
@@ -9734,6 +9733,7 @@ gruntle
 gorb
 griece
 grazingly
+gangtide
 gruntles
 gruntling
 galvanoplastics
