@@ -4849,7 +4849,6 @@ gyroma
 gyromagnetic
 geologise
 gyromancy
-galleass
 gyromele
 gunnysacks
 gymnasisiums
@@ -8064,6 +8063,7 @@ griffado
 grannyknot
 grabbing
 gherkins
+galleass
 glossologist
 grape
 granola
