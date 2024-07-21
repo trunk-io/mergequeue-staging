@@ -1700,7 +1700,6 @@ flippers
 feist
 fearless
 fearnought
-frisket
 fearsome
 fearsomely
 fortuity
@@ -3212,6 +3211,7 @@ fidejussory
 fidel
 fidelia
 fortunous
+frisket
 fertilizable
 fidelis
 fidelity

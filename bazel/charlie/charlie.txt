@@ -12762,7 +12762,6 @@ chronoscopv
 chronostichon
 chronothermal
 chronothermometer
-chronotropic
 chroococcaceae
 chroococcales
 chroococcoid
@@ -22657,6 +22656,7 @@ connex
 connexion
 connexional
 connexionalism
+chronotropic
 connexities
 connexive
 connexivum
