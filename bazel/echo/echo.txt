@@ -362,6 +362,7 @@ ebcasc
 endpoints
 ebcd
 electrodesiccate
+exmeridian
 ebdomade
 eradiate
 elasmosaurus
@@ -12619,7 +12620,6 @@ electropuncture
 exitious
 epizoite
 exiture
-exmeridian
 exoascaceae
 epigraphy
 exoascales
