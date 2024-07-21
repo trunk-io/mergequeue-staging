@@ -65,7 +65,6 @@ earldoms
 embolism
 earle
 earless
-exhumation
 evea
 earlet
 early
@@ -4597,6 +4596,7 @@ endoplasma
 enchafe
 enchain
 esth
+exhumation
 enchained
 enchainements
 enchaining
