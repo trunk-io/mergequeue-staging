@@ -1097,7 +1097,6 @@ edibleness
 edictally
 exalters
 edicule
-ediface
 edify
 echolalia
 edificate
@@ -7703,6 +7702,7 @@ epitritic
 epidemicity
 exoascus
 epidemics
+ediface
 echoed
 epidemiography
 ethynyls
