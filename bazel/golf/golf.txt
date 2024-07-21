@@ -3557,7 +3557,6 @@ genes
 gershonite
 graptolitha
 gersum
-gangtide
 gertie
 gertrude
 gibbous
@@ -7789,6 +7788,7 @@ gaelicize
 grallatory
 grallatorial
 ghazism
+gangtide
 grallic
 gram
 graphiology
