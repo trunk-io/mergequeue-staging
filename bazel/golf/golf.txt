@@ -4667,7 +4667,6 @@ genders
 gipsyhead
 gipsyhood
 gypsyhood
-gunsmithery
 gonoplasm
 gipsyish
 gastrostaxis
@@ -8424,6 +8423,7 @@ grangerizing
 graveclothes
 gravedigger
 gleba
+gunsmithery
 gunneress
 gemsbuck
 gravediggers
