@@ -3325,7 +3325,6 @@ bisks
 blindless
 basipterygoid
 basiradial
-basirostral
 biserrate
 bushbuck
 basiscopic
@@ -8777,6 +8776,7 @@ bougie
 bopyrus
 biparietal
 bindweb
+basirostral
 bindweed
 bindwith
 bromol
