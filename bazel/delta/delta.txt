@@ -4467,7 +4467,6 @@ demetricize
 demi
 demy
 diode
-demiadult
 doughbelly
 dingoes
 demiangel
@@ -15091,6 +15090,7 @@ dogtrotting
 dogvanes
 dogwatch
 dogwinkle
+demiadult
 dogwood
 doh
 deft
