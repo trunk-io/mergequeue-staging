@@ -8254,7 +8254,6 @@ fishhooks
 flannelmouth
 forgone
 frill
-forgotten
 forgottenness
 foussa
 fevercup
@@ -8892,6 +8891,7 @@ foud
 floridity
 fouette
 foolhardiness
+forgotten
 forum
 fouettee
 fluoresce
