@@ -9242,6 +9242,7 @@ bypass
 bypassed
 bypasser
 bypasses
+briefly
 basehearted
 bypassing
 brocatels
@@ -15254,7 +15255,6 @@ briefings
 brieflessly
 brieflessness
 bullring
-briefly
 bonbon
 bogier
 birky
