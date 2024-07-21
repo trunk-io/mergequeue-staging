@@ -488,6 +488,7 @@ caderas
 cadere
 cades
 cadesse
+colorable
 clappering
 ceremoniary
 cadets
@@ -9204,7 +9205,6 @@ chartographical
 chartographist
 chartology
 chamoisette
-colorable
 chartometer
 chartophylacia
 chartophylacium
