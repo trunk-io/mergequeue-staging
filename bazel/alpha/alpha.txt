@@ -2819,7 +2819,6 @@ acridid
 agglutinability
 acrididae
 acridyl
-acridin
 acridines
 acridinic
 acridinium
@@ -3804,6 +3803,7 @@ adequateness
 adequation
 adequative
 adermin
+acridin
 avidity
 abstainment
 adesmy
