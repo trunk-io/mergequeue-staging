@@ -1851,7 +1851,6 @@ fedarie
 feddans
 federal
 federalese
-federalisation
 federalise
 flexors
 flattery
@@ -2318,6 +2317,7 @@ ferbams
 ferberite
 ferdwit
 flagellate
+federalisation
 fere
 feres
 feasting
