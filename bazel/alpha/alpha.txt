@@ -11004,7 +11004,6 @@ acrocephalia
 amorphophallus
 amorphophyte
 amorphotae
-amorphous
 amorphously
 amorphozoa
 amorphus
@@ -22358,6 +22357,7 @@ astrophel
 antipapacy
 astrophyllite
 astrophysical
+amorphous
 astrophysicist
 aphanapteryx
 anteal
