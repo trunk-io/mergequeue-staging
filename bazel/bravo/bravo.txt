@@ -2815,7 +2815,6 @@ boroughship
 bulldog
 barometers
 benefactresses
-barometry
 barometric
 barometrical
 barometrically
@@ -7888,6 +7887,7 @@ bibliotaphe
 bibliotaphic
 begoggled
 bibliothec
+barometry
 bibliothecaire
 bibliothecal
 bibliothecary
