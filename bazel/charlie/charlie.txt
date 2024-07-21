@@ -2852,6 +2852,7 @@ cantina
 coeligenous
 cantinas
 canting
+chored
 clairschach
 cantinier
 cantino
@@ -11983,7 +11984,6 @@ caviare
 chapter
 choreal
 choreas
-chored
 choregy
 choregraphic
 choregus
