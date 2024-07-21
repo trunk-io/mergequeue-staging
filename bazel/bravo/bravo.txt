@@ -2607,6 +2607,7 @@ barguest
 bonailie
 barguests
 buzylene
+belamcanda
 barhopping
 baria
 buzzwig
@@ -5536,7 +5537,6 @@ belait
 bastion
 biface
 belam
-belamcanda
 belander
 blearier
 baser
