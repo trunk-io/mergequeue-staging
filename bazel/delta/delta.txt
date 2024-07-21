@@ -661,7 +661,6 @@ damns
 diazotic
 damnum
 damocles
-damoetas
 disordering
 divined
 damon
@@ -14128,6 +14127,7 @@ deepness
 disencrease
 disunify
 disunified
+damoetas
 disuniform
 disunion
 disunionism
