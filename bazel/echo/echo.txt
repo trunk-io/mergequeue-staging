@@ -4420,7 +4420,6 @@ episodial
 enantioses
 earthborn
 enantiosis
-enantiotropy
 enantiotropic
 exometritis
 engraving
@@ -6385,6 +6384,7 @@ ensynopticity
 ensisternal
 ethylenic
 ergomaniac
+enantiotropy
 ensisternum
 enskied
 enskies
