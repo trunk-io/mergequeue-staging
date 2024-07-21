@@ -8204,7 +8204,6 @@ erythristic
 endocardia
 enchase
 esophagostenosis
-efflorescence
 exanimate
 episiostenosis
 entoiling
@@ -12547,6 +12546,7 @@ exiguity
 exiguously
 exiguousness
 exilarch
+efflorescence
 endarchies
 exilarchate
 exile
