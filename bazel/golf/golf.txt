@@ -7394,7 +7394,6 @@ gaum
 gelilah
 gotos
 gonia
-gotraja
 gotten
 gottfried
 givin
@@ -9354,6 +9353,7 @@ gravemaster
 grosgrained
 glomerella
 grosgrains
+gotraja
 gross
 gyneolater
 grackle

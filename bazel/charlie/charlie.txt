@@ -18879,7 +18879,6 @@ colibri
 colic
 colical
 colichemarde
-colicin
 colicine
 colicystitis
 colicystopyelitis
@@ -28812,6 +28811,7 @@ crescenting
 crescentlike
 crescentoid
 crescents
+colicin
 crescive
 crescively
 crescograph
