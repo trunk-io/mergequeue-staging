@@ -1101,7 +1101,6 @@ baillonella
 bailment
 bessemerize
 byssin
-bailments
 bailo
 bailors
 bailouts
@@ -6396,6 +6395,7 @@ benzoiodohydrin
 bedrivel
 benzol
 benzoles
+bailments
 benzoline
 benzolize
 benzols
