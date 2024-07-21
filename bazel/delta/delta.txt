@@ -4483,7 +4483,6 @@ demibrigade
 demicannon
 demicanon
 demicanton
-demicaponier
 damned
 demichamfron
 dottore
@@ -5431,6 +5430,7 @@ defaultless
 doubledamn
 denudative
 diggers
+demicaponier
 denudatory
 denude
 disaffiliating
