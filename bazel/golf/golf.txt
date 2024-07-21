@@ -8099,7 +8099,6 @@ geisenheimer
 grantiidae
 gametophoric
 gratification
-grantors
 grants
 grantsmen
 granula
@@ -10346,6 +10345,7 @@ gratillity
 guly
 gulinulae
 gulinular
+grantors
 gull
 gurnet
 garretmaster
