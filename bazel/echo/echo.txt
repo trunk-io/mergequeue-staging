@@ -2561,7 +2561,6 @@ ethynyl
 electrophorus
 epidermomycosis
 electrophotographic
-electrophotometry
 eventuates
 elaphoglossum
 electrophotomicrography
@@ -9317,6 +9316,7 @@ erpetology
 errability
 engramme
 errable
+electrophotometry
 errableness
 errabund
 errand
