@@ -10414,7 +10414,6 @@ ethmomaxillary
 eviscerations
 ethmonasal
 endopelvic
-ethmopalatal
 enlacing
 ethmopalatine
 ethmophysal
@@ -11146,6 +11145,7 @@ emulsifies
 embarren
 eurystomatous
 eurite
+ethmopalatal
 emulsification
 eurytherm
 elevon
