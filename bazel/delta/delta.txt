@@ -5531,7 +5531,6 @@ deprecate
 deoxygenization
 deoxygenize
 deoxygenized
-deoxyribonucleotide
 deoxyribose
 deozonize
 dan
@@ -15043,6 +15042,7 @@ dogmatic
 dogmatical
 dogmatically
 dogmatician
+deoxyribonucleotide
 dogmatics
 dogmatisation
 dogmatised
