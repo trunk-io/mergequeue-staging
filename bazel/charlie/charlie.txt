@@ -2856,6 +2856,7 @@ canting
 chored
 clairschach
 cantinier
+chemicoengineering
 cantino
 cantion
 cantish
@@ -3304,7 +3305,6 @@ caprock
 caprocks
 caproic
 capromys
-chemicoengineering
 chaffcutter
 capron
 caprone
