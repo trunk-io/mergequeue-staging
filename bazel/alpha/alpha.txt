@@ -4093,7 +4093,6 @@ adjutorious
 anonymuncule
 arloup
 areopagitica
-adjutrix
 adjuvant
 adjuvants
 adjuvate
@@ -11185,6 +11184,7 @@ arriver
 archecclesiastic
 amphigen
 ascertainment
+adjutrix
 amphigenesis
 amphigenetic
 amphigenous
