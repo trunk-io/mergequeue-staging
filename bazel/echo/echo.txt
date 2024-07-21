@@ -6294,7 +6294,6 @@ enrolls
 extreme
 eisteddfod
 eriophyes
-entertainer
 enrooted
 enroots
 escars
@@ -7781,6 +7780,7 @@ epidiorthosis
 ellwand
 epidiplosis
 epidosite
+entertainer
 enspangle
 elbowchair
 evidentiary
