@@ -4114,7 +4114,6 @@ adlumidine
 adlumine
 adm
 adman
-admarginate
 admass
 admeasure
 admeasured
@@ -13717,6 +13716,7 @@ annuler
 ambsace
 appropriations
 asyndeta
+admarginate
 annulet
 annulets
 annulettee

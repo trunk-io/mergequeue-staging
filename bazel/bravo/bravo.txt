@@ -3723,7 +3723,6 @@ buckra
 batteried
 batterman
 batters
-batteuse
 battier
 batties
 bardash
@@ -14933,6 +14932,7 @@ breeks
 breekums
 breenge
 brinjal
+batteuse
 breenger
 breeze
 brakeage
