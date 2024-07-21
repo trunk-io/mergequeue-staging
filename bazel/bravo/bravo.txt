@@ -2743,6 +2743,7 @@ barmiest
 barming
 barmote
 barms
+besmoked
 barmskin
 barn
 barnaby
@@ -6980,7 +6981,6 @@ besmircher
 backlashed
 besmirchers
 besmirchment
-besmoked
 besmokes
 bath
 besmoking
