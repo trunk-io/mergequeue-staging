@@ -1941,7 +1941,6 @@ glyphography
 glossotype
 glycogenic
 gaufrette
-glyptologist
 gaugeable
 gamond
 garnishing
@@ -8824,6 +8823,7 @@ guffy
 grenadier
 grapsoid
 grenadierial
+glyptologist
 gaillard
 gunbarrel
 gymkhanas
