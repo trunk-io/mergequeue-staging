@@ -7384,6 +7384,7 @@ earthkin
 endomitotic
 epeira
 endotheliomata
+epithelium
 epeirid
 expounded
 etourderie
@@ -11840,7 +11841,6 @@ ekename
 exterritoriality
 exanthema
 exanthematic
-epithelium
 ecclesiasticalness
 euphenic
 exantlation
