@@ -6513,7 +6513,6 @@ ganders
 glycocholate
 ganged
 gettable
-gobline
 goblinry
 goblins
 gobmouthed
@@ -6621,6 +6620,7 @@ goldcrest
 goldenback
 goldeney
 guytrash
+gobline
 goldeneye
 goldeneyes
 goldenhair
