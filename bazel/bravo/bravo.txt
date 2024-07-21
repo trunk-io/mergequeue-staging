@@ -83,7 +83,6 @@ babesia
 beaconless
 boardinghouses
 babesias
-bovate
 babesiosis
 babhan
 babi
@@ -10483,6 +10482,7 @@ blately
 bromothymol
 bilo
 blateroon
+bovate
 blather
 blatherer
 birles

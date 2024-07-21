@@ -1979,7 +1979,6 @@ decahedral
 decahedrodra
 decahedrons
 dekalitre
-decay
 decayed
 dispread
 decayedness
@@ -17264,6 +17263,7 @@ droguet
 dulses
 droil
 droyl
+decay
 droit
 droits
 dosis
