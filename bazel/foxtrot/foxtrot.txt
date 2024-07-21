@@ -247,7 +247,6 @@ faddists
 faddle
 fade
 footballer
-fadeaways
 funest
 fadednyess
 feuillants
@@ -10636,6 +10635,7 @@ favelloid
 frugging
 frugiferousness
 floccular
+fadeaways
 frugivora
 ferrimagnetic
 frugivorous
