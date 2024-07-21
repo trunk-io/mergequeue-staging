@@ -5759,6 +5759,7 @@ afterroll
 afters
 aftershaft
 amoral
+atomatic
 aftershafted
 aftershave
 aftershaves
@@ -22762,7 +22763,6 @@ anda
 apraxia
 atolls
 atom
-atomatic
 autospore
 alchemistic
 atomechanics
