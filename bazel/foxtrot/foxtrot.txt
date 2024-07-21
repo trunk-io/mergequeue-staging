@@ -845,7 +845,6 @@ fans
 fant
 frictionlessness
 fantaddish
-funori
 fecit
 frieze
 foredawn
@@ -10711,6 +10710,7 @@ frumpled
 frumpling
 folkvangr
 frumps
+funori
 fingerprint
 forefault
 foretopsail
