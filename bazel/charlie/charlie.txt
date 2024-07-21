@@ -16759,7 +16759,6 @@ closeups
 closewing
 closh
 closing
-closings
 closish
 closkey
 clupeoid
@@ -18250,6 +18249,7 @@ cryochoric
 codify
 coevolutionary
 coevolve
+closings
 corectome
 coexecutor
 coexecutrices

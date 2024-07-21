@@ -51,6 +51,7 @@ facade
 facaded
 faceable
 facebow
+footslogs
 facebread
 farms
 facecloth
@@ -4568,7 +4569,6 @@ fixated
 fineleaf
 fixatifs
 fixation
-footslogs
 fixative
 fixator
 fixedness
