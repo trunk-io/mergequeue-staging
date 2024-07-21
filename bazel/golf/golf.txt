@@ -3841,7 +3841,6 @@ ghostier
 gallate
 gramophone
 gymnorhinal
-geranomorphic
 gingellies
 ghostily
 galah
@@ -7210,6 +7209,7 @@ gorgets
 gorgio
 greatness
 gorglin
+geranomorphic
 gorgon
 geoduck
 gorgonaceous
