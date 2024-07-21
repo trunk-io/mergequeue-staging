@@ -8819,7 +8819,6 @@ cineastes
 coolest
 chapeless
 chapelet
-chapelgoer
 chapelgoing
 chapeling
 chapelize
@@ -26235,6 +26234,7 @@ coss
 chatteration
 cossack
 cossacks
+chapelgoer
 cossaean
 cossas
 cosse
