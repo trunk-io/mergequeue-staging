@@ -6731,7 +6731,6 @@ desipience
 desipiency
 desipient
 desirability
-desirable
 desire
 desireable
 deprome
@@ -18541,6 +18540,7 @@ dustcart
 dustcloth
 detectably
 dustcover
+desirable
 decurved
 downton
 dusted
