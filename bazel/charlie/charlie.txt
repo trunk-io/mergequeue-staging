@@ -20593,6 +20593,7 @@ compatibles
 compatience
 compatriot
 compatriotism
+corallike
 compatriots
 compd
 compear
@@ -24974,7 +24975,6 @@ cerniture
 coralliform
 coralligena
 coralligenous
-corallike
 corallin
 corallina
 corallinaceae
