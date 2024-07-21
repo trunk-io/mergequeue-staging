@@ -5652,7 +5652,6 @@ afterchrome
 afterchurch
 afterclap
 afterclause
-aftercomer
 aftercoming
 aftercooler
 aftercourse
@@ -21375,6 +21374,7 @@ antimetabole
 asparamic
 aspartame
 airfreighter
+aftercomer
 aspartate
 annulata
 aspartyl
