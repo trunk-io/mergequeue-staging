@@ -7919,7 +7919,6 @@ epilated
 epilating
 epilation
 euthanasy
-epilemma
 epilemmal
 enfollow
 enlimn
@@ -13225,6 +13224,7 @@ explicit
 encoders
 explicitly
 explicitness
+epilemma
 enchantingly
 eelcake
 episplenitis
