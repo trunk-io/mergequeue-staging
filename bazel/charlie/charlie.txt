@@ -14774,7 +14774,6 @@ cystopyelonephritis
 cystoplegia
 cystoproctostomy
 cystopteris
-cystoptosis
 cystoradiography
 cistori
 cystorrhagia
@@ -29075,6 +29074,7 @@ criminogenesis
 criminol
 criminologic
 coventries
+cystoptosis
 criminological
 cunners
 criminologically
