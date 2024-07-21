@@ -1876,6 +1876,7 @@ basuto
 barley
 bananaland
 bananalander
+blighters
 bananas
 banande
 bananist
@@ -3175,7 +3176,6 @@ basename
 behove
 basenesses
 basenji
-blighters
 basenjis
 bonnetmen
 baseplug
