@@ -427,6 +427,7 @@ forethinker
 faisan
 freelancer
 faisceau
+footslogged
 flagships
 faith
 funnel
@@ -5676,7 +5677,6 @@ formulization
 flyswatter
 flitch
 flitched
-footslogged
 flitchen
 flitchplate
 francophile
