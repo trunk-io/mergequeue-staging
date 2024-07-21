@@ -4474,7 +4474,6 @@ fistiness
 fannell
 fistinut
 frictionlessly
-fistle
 felted
 fistmele
 fistnote
@@ -5905,6 +5904,7 @@ floorshift
 floorwalker
 floorwalkers
 floorward
+fistle
 furniment
 functionaries
 floorwise
