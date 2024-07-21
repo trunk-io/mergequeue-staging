@@ -2482,7 +2482,6 @@ gemini
 geminid
 gendering
 gaia
-geminous
 gemitores
 gemitorial
 gateways
@@ -5958,6 +5957,7 @@ glossolabiopharyngeal
 graptolitoidea
 glossolaly
 glossolalia
+geminous
 glossolaryngeal
 glossoncus
 glossopalatine
