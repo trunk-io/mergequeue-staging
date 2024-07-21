@@ -1631,7 +1631,6 @@ acclimatiser
 acclimatization
 apokreos
 acclimatize
-acclimatized
 acclimatizer
 amygdalolith
 acclimatizes
@@ -12247,6 +12246,7 @@ anchorets
 antidynastically
 anchory
 anchorite
+acclimatized
 araucariaceae
 anchoritess
 anchoritic
