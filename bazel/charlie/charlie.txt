@@ -12685,7 +12685,6 @@ chronist
 chronobarometer
 cesurae
 chronobiology
-chronocarator
 chronocyclegraph
 chronocinematography
 chronocrator
@@ -14284,6 +14283,7 @@ circulus
 circumadjacent
 circumagitate
 circumagitation
+chronocarator
 circumambages
 circumambagious
 cinematography

@@ -2991,7 +2991,6 @@ geocarpic
 gallivorous
 geocentric
 glycollic
-geocentrical
 geissospermin
 guenons
 geocerite
@@ -9690,6 +9689,7 @@ grummet
 grumness
 grumose
 grumous
+geocentrical
 geopotential
 grump
 grumphy
