@@ -3222,7 +3222,6 @@ basibranchiate
 basic
 browner
 basicerite
-biotrons
 basichromatic
 basichromatinic
 basicity
@@ -17191,6 +17190,7 @@ bultell
 bagpiper
 bulten
 bulter
+biotrons
 bultong
 bultow
 bulwand
