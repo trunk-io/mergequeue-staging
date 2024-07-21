@@ -6779,7 +6779,6 @@ celli
 celliferous
 counteroffensive
 celliform
-celling
 cellipetal
 cellist
 cellists
@@ -25189,6 +25188,7 @@ corevolve
 cryometer
 corf
 corfiote
+celling
 corflambo
 corge
 corgi
