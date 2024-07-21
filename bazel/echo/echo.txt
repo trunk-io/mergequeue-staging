@@ -4707,7 +4707,6 @@ explodent
 encyclopedias
 encyclopediast
 encyclopedic
-encyclopedical
 enteritidis
 escaping
 encyclopedism
@@ -14111,6 +14110,7 @@ epigynum
 entrails
 extruders
 ensouls
+encyclopedical
 encephalolith
 extrudes
 extrusible
