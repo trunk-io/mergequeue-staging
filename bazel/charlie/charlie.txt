@@ -4817,6 +4817,7 @@ carses
 cacaesthesia
 carshop
 carshops
+chemisms
 carsick
 carsickness
 carsmith
@@ -17674,7 +17675,6 @@ coccothrinax
 chromatodysopia
 coccule
 cocculiferous
-chemisms
 cocculus
 chalazogamy
 cocentric
