@@ -6270,7 +6270,6 @@ causelessness
 causerie
 causers
 causeur
-causeuse
 causeuses
 causeway
 causewayed
@@ -24015,6 +24014,7 @@ cordiform
 contumely
 contumelies
 contumelious
+causeuse
 captate
 contumeliousness
 contund
