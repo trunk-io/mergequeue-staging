@@ -8852,7 +8852,6 @@ chapitle
 chaplain
 chaplaincy
 chaplainship
-chaplanry
 chapless
 chaplet
 chapleted
@@ -9284,6 +9283,7 @@ coefficient
 chastiment
 chastisable
 chastise
+chaplanry
 creepers
 chastised
 clarissimo
