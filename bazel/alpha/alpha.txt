@@ -11285,7 +11285,6 @@ amphitheatre
 ane
 amphitheatrical
 amphitheatrically
-amphitheccia
 amphithecia
 alismoid
 amphithecial
@@ -15805,6 +15804,7 @@ antioxidase
 antioxidizer
 antioxidizing
 antioxygenating
+amphitheccia
 antioxygenation
 abbroachment
 antioxygenator
