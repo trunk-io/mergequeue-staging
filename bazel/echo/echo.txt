@@ -6989,6 +6989,7 @@ expansible
 eland
 experiments
 entrapments
+eucalyptus
 entrapper
 entrapping
 endocrinologist
@@ -13215,7 +13216,6 @@ endothelioid
 explicatively
 explicator
 explicatory
-eucalyptus
 explicit
 encoders
 explicitly
