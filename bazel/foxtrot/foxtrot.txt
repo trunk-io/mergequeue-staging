@@ -184,6 +184,7 @@ factories
 factoring
 foujdarry
 fleshlier
+foraminated
 factorize
 factorized
 factors
@@ -10918,7 +10919,6 @@ ferrosilicon
 fullhearted
 fulling
 fullish
-foraminated
 fibration
 ferrochromium
 foulmouthedly
