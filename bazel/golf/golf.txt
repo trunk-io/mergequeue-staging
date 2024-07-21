@@ -6192,7 +6192,6 @@ geometricize
 guttulae
 glutamate
 glutamates
-glutamic
 genapped
 glutamine
 gamogony
@@ -8221,6 +8220,7 @@ graphometrical
 gowlan
 graphometrist
 graphomotor
+glutamic
 graphonomy
 gastrin
 groundberry
