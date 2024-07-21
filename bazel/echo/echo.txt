@@ -9323,7 +9323,6 @@ erratas
 encephalometric
 erratic
 emptysis
-elsewhither
 episporium
 emollient
 erraticalness
@@ -11754,6 +11753,7 @@ exactly
 electrolysation
 exactment
 exactness
+elsewhither
 exactor
 exactus
 exacuate
