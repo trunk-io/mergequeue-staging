@@ -942,7 +942,6 @@ darat
 darb
 darbha
 darby
-darbyite
 darbs
 darci
 darcy
@@ -14071,6 +14070,7 @@ demibelt
 districts
 distritbute
 distritbuted
+darbyite
 dipneedle
 dystrophy
 dystrophia

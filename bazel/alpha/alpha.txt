@@ -1723,7 +1723,6 @@ accordant
 adelea
 accordatura
 accordaturas
-aftersensation
 autocomplexes
 ailuropus
 accordature
@@ -13025,6 +13024,7 @@ anguidae
 anguillaria
 abey
 anguilliform
+aftersensation
 anguilloid
 anguillula
 anguillulidae
