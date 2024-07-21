@@ -3164,7 +3164,6 @@ defeminise
 defeminization
 defeminize
 decenary
-defeminized
 defeminizing
 defence
 defenceable
@@ -16196,6 +16195,7 @@ dovekey
 dovekeys
 dactyliology
 dovekie
+defeminized
 divaricating
 dovekies
 dovelike
