@@ -6087,7 +6087,6 @@ gyracanthus
 guilelessness
 gymnasial
 granulate
-glucogene
 glucokinase
 glucokinin
 generalia
@@ -8531,6 +8530,7 @@ gossameriness
 graze
 grazed
 gradus
+glucogene
 grovelingly
 glycerinize
 gasan
