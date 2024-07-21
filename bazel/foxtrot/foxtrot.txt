@@ -1449,7 +1449,6 @@ fattens
 foreset
 fatter
 fatty
-fattiest
 fattiness
 ferromagnetism
 fatting
@@ -5382,6 +5381,7 @@ frontispieces
 frangulin
 flenser
 fielder
+fattiest
 flensers
 forklike
 fumaroidal
