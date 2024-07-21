@@ -10561,7 +10561,6 @@ bleacheries
 bleacherman
 bleachers
 basilisks
-bleaches
 bleachground
 bleachhouse
 bleachyard
@@ -10682,6 +10681,7 @@ brahmism
 billy
 blennioidea
 blennocele
+bleaches
 blennogenous
 bandoliered
 blennophlogisma
