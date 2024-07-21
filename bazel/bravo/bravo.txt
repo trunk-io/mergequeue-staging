@@ -920,7 +920,6 @@ baggie
 baggier
 baggies
 baggily
-bagging
 breakfasted
 baggings
 boardwalk
@@ -16576,6 +16575,7 @@ bucketing
 bucketmaking
 beneficence
 basilisk
+bagging
 bephrase
 bucketsful
 bucketshop
