@@ -9124,7 +9124,6 @@ erythrocytes
 erythrocytolysin
 excerebrate
 erythrocytolysis
-erythrocytolytic
 erythrocytometry
 exculpations
 emparchment
@@ -12422,6 +12421,7 @@ exfigure
 exfiltrate
 enukki
 exfiltration
+erythrocytolytic
 exflagellate
 enoch
 ecphractic
