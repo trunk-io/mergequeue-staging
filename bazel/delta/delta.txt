@@ -1244,7 +1244,6 @@ datemark
 dater
 daterman
 daters
-demembration
 datil
 dating
 dation
@@ -5349,6 +5348,7 @@ dentilation
 dissection
 dryophyllum
 dentiled
+demembration
 dentilingual
 dentiloquy
 dentiloquist
