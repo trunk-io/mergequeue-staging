@@ -1432,6 +1432,7 @@ anaclasis
 acatamathesia
 asyndesis
 acataphasia
+alterate
 acatastasia
 acatastatic
 acate
@@ -9480,7 +9481,6 @@ annunciation
 alterably
 alterant
 alterants
-alterate
 autoimmunized
 alterations
 archmockery
