@@ -5383,7 +5383,6 @@ endotheliomas
 endotheliomyoma
 endotherm
 eucalyptuses
-endothermal
 excogitable
 ecuelle
 endosternite
@@ -8501,6 +8500,7 @@ epoxied
 endophytous
 epoxyed
 epoxies
+endothermal
 erythrocytoblast
 elderberry
 exogastric
