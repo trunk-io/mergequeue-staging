@@ -1231,7 +1231,6 @@ dialyzable
 datcha
 destroy
 datchas
-datebook
 datedly
 datedness
 dateless
@@ -14182,6 +14181,7 @@ dolorogenic
 dit
 digeneous
 dita
+datebook
 ditali
 ditchbur
 downmost
