@@ -2844,7 +2844,6 @@ baroni
 bake
 bassets
 baronial
-baronies
 burry
 byspell
 bewilders
@@ -7876,6 +7875,7 @@ bibliopolic
 bibliopolical
 budding
 bacile
+baronies
 bibliopolically
 bibliopolism
 bibliosoph
