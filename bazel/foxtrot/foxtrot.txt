@@ -3903,7 +3903,6 @@ finfish
 finfoots
 friers
 festoonery
-ferroalloy
 fastigiately
 foism
 fulfulde
@@ -11429,6 +11428,7 @@ flatlet
 furmity
 furnace
 furnaces
+ferroalloy
 furnacing
 formol
 furnariidae
