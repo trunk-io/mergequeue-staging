@@ -10428,7 +10428,6 @@ chicks
 crippler
 chickstone
 conkanee
-chickweeds
 chickwit
 chemolytic
 chicle
@@ -11123,6 +11122,7 @@ chiseler
 cafuso
 chiseling
 chiselled
+chickweeds
 chiseller
 chisellers
 chiselly
