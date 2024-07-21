@@ -1248,6 +1248,7 @@ datemark
 dater
 daterman
 daters
+distrust
 demembration
 datil
 dating
@@ -14079,7 +14080,6 @@ dystrophies
 drawlatch
 distrouser
 distruss
-distrust
 distruster
 disfame
 distrusting
