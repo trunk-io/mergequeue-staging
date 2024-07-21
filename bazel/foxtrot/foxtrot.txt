@@ -5255,7 +5255,6 @@ futile
 flea
 fusible
 fleabanes
-frickle
 flashproof
 fleabite
 fleabites
@@ -8769,6 +8768,7 @@ ferrels
 forwrap
 fleecier
 forz
+frickle
 flaxtail
 fortranh
 forzandos

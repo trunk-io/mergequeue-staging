@@ -4087,7 +4087,6 @@ adjutancies
 adjutantship
 adjute
 attacco
-adjutor
 adjutory
 adjutorious
 anonymuncule
@@ -12013,6 +12012,7 @@ anarthria
 ascii
 anarthric
 anarthropod
+adjutor
 anarthropoda
 armagnac
 anarthrosis
