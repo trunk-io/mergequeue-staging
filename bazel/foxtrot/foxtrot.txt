@@ -6423,7 +6423,6 @@ fluoridation
 fleeter
 fluoride
 fluoridisation
-fittings
 fixe
 fluoridization
 frowy
@@ -6641,6 +6640,7 @@ foamed
 foamer
 flavescence
 foamier
+fittings
 foaminess
 foamingly
 foamlike
