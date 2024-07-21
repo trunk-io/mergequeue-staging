@@ -5048,7 +5048,6 @@ casehardening
 casehardens
 caseic
 casein
-caseinate
 caseine
 caseinogen
 caseins
@@ -19802,6 +19801,7 @@ combinant
 combinantive
 combination
 carbonise
+caseinate
 combinational
 combinations
 cinchonized
