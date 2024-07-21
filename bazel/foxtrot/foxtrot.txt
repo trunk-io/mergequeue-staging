@@ -5529,6 +5529,7 @@ fligger
 fullage
 fibrilations
 flight
+fuzzier
 fanmaker
 flagelliform
 frigate
@@ -7559,7 +7560,6 @@ forecover
 fouling
 fers
 formation
-fuzzier
 foreday
 fedia
 faradopalpation

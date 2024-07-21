@@ -8476,7 +8476,6 @@ diammine
 diminished
 diamminobromide
 diamminonitrate
-diammonium
 diamond
 diamondback
 diamondbacked
@@ -8744,6 +8743,7 @@ diatonous
 decasualization
 deistical
 diatoric
+diammonium
 diatreme
 diatribe
 diatribes
