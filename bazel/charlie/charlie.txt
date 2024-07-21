@@ -9303,7 +9303,6 @@ chasubles
 chat
 canasta
 coconuts
-counterimitate
 chataka
 chatchka
 chatchkas
@@ -19375,6 +19374,7 @@ colonialise
 cinenchym
 colonialised
 crystallology
+counterimitate
 colonialising
 colonialism
 colonialist
