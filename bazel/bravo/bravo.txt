@@ -902,7 +902,6 @@ biparasitic
 bagattino
 bagdi
 bagels
-bagful
 bagfuls
 boudoirs
 baggage
@@ -13541,6 +13540,7 @@ beslaved
 bounty
 bountied
 bountiful
+bagful
 bountifully
 bountifulness
 bountyless
