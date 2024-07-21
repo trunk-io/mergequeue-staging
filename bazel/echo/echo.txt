@@ -4948,7 +4948,6 @@ enquiry
 endaspidean
 endaze
 exhaustible
-endboard
 ewe
 endbrains
 ensilist
@@ -6311,6 +6310,7 @@ enscrolled
 enscrolls
 ensculpture
 ense
+endboard
 expositive
 enseal
 ensealing
