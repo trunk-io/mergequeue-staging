@@ -3224,7 +3224,6 @@ basic
 browner
 basicerite
 biotrons
-basichromatic
 basichromatinic
 basicity
 basicities
@@ -11658,6 +11657,7 @@ bachelorwise
 balanoplasty
 bobbysoxer
 bellowed
+basichromatic
 bobbysoxers
 bi
 bobble
