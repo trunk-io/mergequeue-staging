@@ -672,7 +672,6 @@ aboiteaus
 abolish
 abolished
 almshouse
-almique
 abolishers
 abolishes
 abolishing
@@ -11264,6 +11263,7 @@ ambilevous
 abohms
 amphisilidae
 amphispermous
+almique
 amphisporangiate
 amphispore
 amphistylar
