@@ -7989,7 +7989,6 @@ epimyocardial
 erstwhiles
 equaling
 epimysia
-exposit
 epimyth
 epimorpha
 epimorphism
@@ -10009,6 +10008,7 @@ euthymy
 esthiomene
 enarthrodia
 esthiomenus
+exposit
 estimable
 expenthesis
 emit
