@@ -4103,7 +4103,6 @@ bv
 beardom
 beards
 booleans
-bearer
 baister
 buttled
 buoyage
@@ -6065,6 +6064,7 @@ bendsome
 bendwise
 beneaped
 balmawhapple
+bearer
 beneath
 beneception
 blockman
