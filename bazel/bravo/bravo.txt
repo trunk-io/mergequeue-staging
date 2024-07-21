@@ -5088,7 +5088,6 @@ befogging
 batoid
 brigous
 befool
-befoolable
 beggiatoaceous
 befooled
 befooling
@@ -18133,6 +18132,7 @@ bum
 braystone
 busulfans
 busuuti
+befoolable
 but
 benzhydrol
 butacaine
