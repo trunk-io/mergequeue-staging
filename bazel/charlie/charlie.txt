@@ -9888,7 +9888,6 @@ chemicoastrological
 chemicobiology
 chemicobiologic
 chemicobiological
-chemicocautery
 chemicodynamic
 chemicoluminescence
 chemicoluminescent
@@ -17701,6 +17700,7 @@ cochlidiidae
 chammy
 cochliodont
 cochliodontidae
+chemicocautery
 cochliodus
 cochlite
 cochlospermaceae
