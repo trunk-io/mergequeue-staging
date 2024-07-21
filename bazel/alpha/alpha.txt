@@ -10572,7 +10572,6 @@ amylenes
 amylenol
 amylic
 autarkik
-assertive
 amylidene
 airplay
 amylo
@@ -20525,6 +20524,7 @@ attid
 arteriococcygeal
 arteriodialysis
 arteriofibrosis
+assertive
 actualizes
 arteriogenesis
 alg
