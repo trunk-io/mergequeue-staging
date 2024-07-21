@@ -3720,7 +3720,6 @@ batterer
 battery
 batterie
 buckra
-batteried
 batterman
 batters
 batteuse
@@ -4417,6 +4416,7 @@ backhands
 biopsies
 beclamored
 beclamour
+batteried
 beclang
 beclap
 beclart
