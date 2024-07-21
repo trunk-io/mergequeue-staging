@@ -559,7 +559,6 @@ daltonian
 dirk
 daltonism
 daltonist
-dam
 damageability
 descant
 damageableness
@@ -16435,6 +16434,7 @@ downweight
 downweighted
 downwind
 dogma
+dam
 dowp
 dowress
 dowries

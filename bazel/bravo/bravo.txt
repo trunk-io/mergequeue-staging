@@ -334,6 +334,7 @@ backboard
 backboards
 bandwagons
 barodynamics
+bpt
 backdates
 backboned
 blossoming
@@ -6010,7 +6011,6 @@ ben
 bena
 benab
 bename
-bpt
 boothes
 benami
 brachycephalies
