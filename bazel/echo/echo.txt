@@ -207,6 +207,7 @@ earthshock
 earthslide
 escopeta
 enfranchising
+entraps
 earthtongue
 enteroclisis
 elaterist
@@ -7003,7 +7004,6 @@ entrapper
 entrapping
 endocrinologist
 entrappingly
-entraps
 entre
 ectopistes
 entreasure
