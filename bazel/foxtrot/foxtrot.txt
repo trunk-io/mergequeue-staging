@@ -3168,7 +3168,6 @@ fack
 faeries
 fiddled
 fiddlefaced
-fewest
 fiddlehead
 firry
 fasthold
@@ -4222,6 +4221,7 @@ firings
 frays
 foreglow
 follower
+fewest
 freeport
 firk
 firkins
