@@ -7288,7 +7288,6 @@ foralite
 foram
 fuligulinae
 foramen
-filtrable
 foramens
 foramina
 ferrivorous
@@ -7344,6 +7343,7 @@ forbidals
 forbiddal
 faddiest
 forbidden
+filtrable
 fractions
 forbiddenly
 fissidens

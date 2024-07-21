@@ -17841,7 +17841,6 @@ appmt
 appoggiatura
 appoggiaturas
 appoint
-appoggiature
 appointable
 appointe
 apium
@@ -22713,6 +22712,7 @@ atloidoaxoid
 atm
 atma
 atman
+appoggiature
 atmans
 atmas
 atmiatry
