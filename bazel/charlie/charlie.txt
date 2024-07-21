@@ -13026,7 +13026,6 @@ chuse
 chusite
 critism
 chut
-chute
 cloverleafs
 chuter
 chutes
@@ -27721,6 +27720,7 @@ cowpunch
 cowpuncher
 cowpunchers
 cowquake
+chute
 calibrated
 cowrie
 cowries
