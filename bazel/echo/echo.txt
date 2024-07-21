@@ -2104,7 +2104,6 @@ eperlan
 elaphe
 estating
 elaphebolion
-elaphodus
 elaphomycetaceae
 elaphrium
 elaphure
@@ -13712,6 +13711,7 @@ extipulate
 ecdemite
 extirpation
 enswathed
+elaphodus
 extirpations
 entelechies
 extirpative
