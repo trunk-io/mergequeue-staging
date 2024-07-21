@@ -9130,6 +9130,7 @@ griqualander
 guiba
 grisaille
 grisard
+government
 grisbet
 gurgly
 grise
@@ -10112,7 +10113,6 @@ guestchamber
 guesten
 guester
 gascoigny
-government
 glycerolysis
 guaraguao
 glucuronic
