@@ -3187,7 +3187,6 @@ firefight
 flags
 fiddlerfishes
 flirtish
-fiddles
 flauntily
 fiddlestick
 fiddlesticks
@@ -6218,6 +6217,7 @@ fluency
 fluently
 felones
 fluentness
+fiddles
 fervour
 fluer
 flueric
