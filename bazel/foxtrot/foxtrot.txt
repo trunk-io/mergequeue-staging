@@ -3142,7 +3142,6 @@ fictioneer
 fictioner
 forehent
 fictionise
-flanch
 fibroreticulate
 favoress
 feuds
@@ -8291,6 +8290,7 @@ forkedness
 frontomaxillary
 fret
 forkers
+flanch
 forkfuls
 forkhead
 flagon
