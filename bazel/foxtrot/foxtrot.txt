@@ -5272,7 +5272,6 @@ foments
 fleas
 fleaweed
 farfetchedness
-fleaworts
 fleche
 foreknew
 flechettes
@@ -9400,6 +9399,7 @@ fouter
 frankincense
 franking
 frenzied
+fleaworts
 feed
 frankish
 fumosity
