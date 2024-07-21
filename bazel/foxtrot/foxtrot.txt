@@ -1746,7 +1746,6 @@ featherfoil
 featherheaded
 figurante
 fallage
-faintheartedly
 featheriness
 featherleaf
 fungated
@@ -10966,6 +10965,7 @@ fainting
 fulsomely
 fulsomeness
 follis
+faintheartedly
 fulup
 formate
 fulvescent
