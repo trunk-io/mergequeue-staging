@@ -4263,7 +4263,6 @@ emptins
 embeds
 elementality
 emptional
-emptor
 empurple
 eskar
 empurples
@@ -5088,6 +5087,7 @@ endocellular
 exposition
 enshrine
 endoceras
+emptor
 endoceratidae
 endoceratite
 endoceratitic
