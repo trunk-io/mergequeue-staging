@@ -1084,7 +1084,6 @@ absorptions
 absorptive
 absorptively
 absorptiveness
-absorptivity
 azobacter
 absquatulation
 abstain
@@ -8082,6 +8081,7 @@ alfur
 alfurese
 alfuro
 aghanee
+absorptivity
 antefact
 alga
 algae
