@@ -1051,7 +1051,6 @@ absorb
 adiathermanous
 absorbable
 absorbance
-absorbancy
 absorbant
 airlock
 absorbed
@@ -7021,6 +7020,7 @@ airplaned
 airplaner
 airplanes
 airplanist
+absorbancy
 acieral
 airplot
 airport
