@@ -2357,6 +2357,7 @@ achromatisation
 achromatise
 amity
 achromatising
+anodynic
 achromatism
 achromatizable
 achromatization
@@ -13781,7 +13782,6 @@ anodyne
 aglobulia
 anodynes
 anodynia
-anodynic
 anodized
 aseismatic
 annat
