@@ -8430,7 +8430,6 @@ chalones
 chalot
 camlet
 chaloth
-chaloupe
 chalta
 chaluka
 chalukyan
@@ -11544,6 +11543,7 @@ choicelessness
 categoricalness
 choicely
 choiceness
+chaloupe
 choicer
 choices
 choicier
