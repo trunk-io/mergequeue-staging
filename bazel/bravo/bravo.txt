@@ -3061,7 +3061,6 @@ bartending
 bartends
 brothers
 barter
-bartered
 barterer
 barterers
 barters
@@ -16310,6 +16309,7 @@ brunt
 brunts
 butling
 bruscha
+bartered
 beurre
 bruscus
 brush
