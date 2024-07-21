@@ -14006,7 +14006,6 @@ cinnamate
 cinnamein
 covert
 cinnamenyl
-coax
 cinnamic
 cinnamyl
 codeina
@@ -20686,6 +20685,7 @@ compiling
 comping
 calf
 compital
+coax
 compitalia
 compitum
 complacence
