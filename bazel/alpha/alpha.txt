@@ -1717,7 +1717,6 @@ accord
 accordable
 armonicas
 accordance
-accordancy
 accordant
 adelea
 accordatura
@@ -5751,6 +5750,7 @@ afterpiece
 afterplay
 afterplanting
 afterpotential
+accordancy
 archidium
 afterpressure
 afterproof
