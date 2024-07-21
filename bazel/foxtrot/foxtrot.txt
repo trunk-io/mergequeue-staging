@@ -4522,7 +4522,6 @@ feme
 furls
 favourite
 fitroot
-fits
 fytte
 fitted
 fitty
@@ -4931,6 +4930,7 @@ flannelling
 flakeboard
 flannels
 flanque
+fits
 fernery
 fairish
 fluviatic
