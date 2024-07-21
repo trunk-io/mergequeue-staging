@@ -4778,7 +4778,6 @@ forensal
 fsiest
 fakirs
 flailed
-flaying
 flaillike
 flails
 flain
@@ -11628,6 +11627,7 @@ fusteric
 facia
 fustet
 fortunite
+flaying
 fustian
 fas
 fibrosity
