@@ -3169,7 +3169,6 @@ actinomycetal
 actinomycetales
 actinomycete
 actinomycin
-actinomycoma
 argyropelecus
 anointment
 actinomycosis
@@ -7010,6 +7009,7 @@ airmonger
 airns
 aseptol
 airohydrogen
+actinomycoma
 airometer
 airpark
 actinophore
