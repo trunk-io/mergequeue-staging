@@ -3738,7 +3738,6 @@ dehorts
 dehumanisation
 dramatise
 dachshound
-dehumanise
 dehumanize
 dehumanized
 dehumanizing
@@ -14716,6 +14715,7 @@ dockhand
 dockhands
 dockhouse
 dockyardman
+dehumanise
 dockyards
 docking
 dockization
