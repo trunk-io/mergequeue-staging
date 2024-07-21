@@ -5796,7 +5796,6 @@ fylker
 freckle
 floccus
 fraus
-flockbed
 fantasy
 flocker
 fathership
@@ -11644,6 +11643,7 @@ foggily
 festooning
 footmarks
 fustigating
+flockbed
 fustigation
 fearedness
 fustigator
