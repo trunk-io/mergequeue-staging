@@ -5832,7 +5832,6 @@ gloomth
 grippal
 gasper
 glop
-glopnen
 glops
 glor
 glore
@@ -5909,6 +5908,7 @@ glossemic
 glossers
 galloway
 glossic
+glopnen
 gonotype
 greenfly
 glossier

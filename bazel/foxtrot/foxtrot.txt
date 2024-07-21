@@ -1657,6 +1657,7 @@ fazendeiro
 forehill
 fb
 frontierman
+favourably
 fchar
 fipenny
 fcomp
@@ -4077,7 +4078,6 @@ fowage
 fire
 facks
 fireback
-favourably
 fireball
 fireballs
 flanky
