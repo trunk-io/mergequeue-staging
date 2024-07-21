@@ -22220,7 +22220,6 @@ chemicked
 clipped
 confrontations
 crucifixions
-confronted
 confronter
 confronters
 confrontment
@@ -28577,6 +28576,7 @@ creditors
 creditorship
 creditress
 creditrix
+confronted
 crednerite
 credo
 credos
