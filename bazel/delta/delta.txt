@@ -3732,7 +3732,6 @@ disapprobations
 dehorted
 dehorter
 daubery
-dactyl
 dehorting
 demeaned
 dehorts
@@ -10909,6 +10908,7 @@ disincline
 dermatrophy
 dirten
 dirtied
+dactyl
 dirtier
 dioxane
 dirtily
