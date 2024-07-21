@@ -8174,7 +8174,6 @@ bierkeller
 byerlite
 bierstube
 bierstuben
-bietle
 bemoaned
 byeworker
 byeworkman
@@ -10220,6 +10219,7 @@ blah
 blahlaut
 blahs
 barony
+bietle
 blaine
 blayne
 buttstrapping
