@@ -2325,7 +2325,6 @@ candelilla
 candency
 candent
 candescence
-carbarns
 candescent
 candescently
 candy
@@ -14125,6 +14124,7 @@ crystallographic
 conspires
 cyphellae
 cryptostoma
+carbarns
 curet
 cipher
 cyphered
