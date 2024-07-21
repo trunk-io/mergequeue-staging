@@ -4971,7 +4971,6 @@ beestings
 bawled
 beestride
 beeswax
-beeswaxes
 beet
 beetewk
 beetfly
@@ -14518,6 +14517,7 @@ branglement
 brangler
 brangling
 boomingly
+beeswaxes
 brank
 blitzkriegs
 buzzards
