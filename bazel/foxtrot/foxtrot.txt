@@ -746,7 +746,6 @@ foeticide
 fenchol
 fringefoot
 feudalise
-fancy
 fanciable
 flammule
 factionally
@@ -6789,6 +6788,7 @@ foyer
 fetterlock
 foyers
 foil
+fancy
 foiling
 fauld
 foin
