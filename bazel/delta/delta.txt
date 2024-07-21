@@ -6613,6 +6613,7 @@ disordain
 desensitizing
 dinos
 desert
+desiccation
 deserted
 desertedly
 deserter
@@ -6662,7 +6663,6 @@ desiccate
 disprove
 dardanium
 desiccated
-desiccation
 desiccations
 deerfly
 desiccative
