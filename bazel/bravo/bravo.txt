@@ -940,7 +940,6 @@ bagle
 baglike
 bagmaker
 bagne
-bagnes
 bagnet
 bestirred
 begoniaceae
@@ -5265,6 +5264,7 @@ bodeword
 begod
 begohm
 begone
+bagnes
 begoniaceous
 borschts
 begoniales
