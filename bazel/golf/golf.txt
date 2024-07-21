@@ -676,7 +676,6 @@ gallivants
 geoglyphic
 gallywasp
 gallnut
-gallnuts
 gizzen
 grooverhead
 ganowanian
@@ -7601,6 +7600,7 @@ graciosity
 groveller
 graciosos
 gargles
+gallnuts
 graciously
 globularness
 glommed
