@@ -827,7 +827,6 @@ cajoleries
 cajolers
 commuter
 clavolae
-cajoling
 cajolingly
 cajones
 calving
@@ -30702,6 +30701,7 @@ cuisines
 cuisinier
 cuissart
 cuisse
+cajoling
 cuisten
 coeval
 cuit
