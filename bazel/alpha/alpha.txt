@@ -1506,7 +1506,6 @@ acceptable
 acceptance
 acceptances
 acceptancy
-acceptancies
 acceptant
 antidynasty
 acceptavit
@@ -15156,6 +15155,7 @@ antidepressant
 antidepressants
 antidetonant
 antidetonating
+acceptancies
 adapid
 ancyrene
 avarian
