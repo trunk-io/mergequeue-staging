@@ -4112,7 +4112,6 @@ carecloth
 corta
 careen
 careenage
-careener
 cassiopeian
 coriparian
 careeners
@@ -21166,6 +21165,7 @@ conationalistic
 conations
 counterdisengage
 conative
+careener
 conatural
 chlorophenothane
 conatus
