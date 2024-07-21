@@ -736,6 +736,7 @@ gnatsnapper
 galluot
 goosey
 geometer
+gtd
 gillnetted
 gallweed
 greasehorn
@@ -9761,7 +9762,6 @@ gt
 gentlemanlike
 gnathonical
 guipures
-gtd
 gthite
 gtt
 gu
