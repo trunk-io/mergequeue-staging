@@ -665,7 +665,6 @@ gooks
 gallium
 galliums
 gallivant
-gallivanters
 gallivanting
 garotting
 gawkihood
@@ -7812,6 +7811,7 @@ graminiferous
 gemotes
 graminifolious
 grounders
+gallivanters
 gloomfully
 goodbyes
 great
