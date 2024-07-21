@@ -16554,6 +16554,7 @@ clockings
 clockkeeper
 clockless
 clockmaker
+comprehensibleness
 clockmaking
 clubbiest
 crewer
@@ -20966,7 +20967,6 @@ cyclonology
 comprehendingly
 comprehense
 comprehensibility
-comprehensibleness
 comprehensibly
 comprehensive
 cacothansia
