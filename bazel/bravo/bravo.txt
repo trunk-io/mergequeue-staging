@@ -7971,7 +7971,6 @@ banderillero
 bichrome
 bichromic
 bicyanide
-bicycled
 bicycler
 bedusk
 bicyclers
@@ -15874,6 +15873,7 @@ bromonaphthalene
 borgh
 bromopicrin
 bromopikrin
+bicycled
 bluchers
 bromopnea
 bromoprotein
