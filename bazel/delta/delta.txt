@@ -8276,6 +8276,7 @@ dishmaking
 diagraph
 diagraphics
 demigrate
+duplication
 diagraphs
 decastyle
 diagredium
@@ -18379,7 +18380,6 @@ duplicated
 detassel
 duplicates
 duplicating
-duplication
 duplications
 duplicative
 duplicators
