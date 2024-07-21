@@ -13154,7 +13154,6 @@ expired
 expirer
 expirers
 expires
-expiry
 expiries
 expostulatingly
 ensnare
@@ -13838,6 +13837,7 @@ extraduction
 extra
 extradural
 extraembryonal
+expiry
 exams
 eltime
 extraenteric
