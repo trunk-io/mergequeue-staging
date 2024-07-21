@@ -1088,7 +1088,6 @@ bank
 bailieship
 bailiff
 bailiffs
-bailiffship
 bailiffwick
 baylike
 bailing
@@ -15636,6 +15635,7 @@ bluesman
 boolies
 brute
 bidiurnal
+bailiffship
 broadwayite
 broadways
 beknight
