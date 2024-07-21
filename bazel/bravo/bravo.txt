@@ -7453,6 +7453,7 @@ bevatron
 bevatrons
 bobbinets
 beveil
+brither
 beveled
 beveler
 bevelers
@@ -15534,7 +15535,6 @@ brite
 brith
 bleaks
 burins
-brither
 brython
 brythonic
 blimy
