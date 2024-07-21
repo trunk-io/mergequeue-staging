@@ -9974,7 +9974,6 @@ ambari
 ambary
 ambas
 ambash
-ambassade
 antifame
 ambassadeur
 alemite
@@ -22372,6 +22371,7 @@ astrophotography
 astrophotographic
 astrophotometer
 accessarily
+ambassade
 abyss
 astrophotometrical
 azolitmin
