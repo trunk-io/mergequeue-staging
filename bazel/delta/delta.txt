@@ -1195,6 +1195,7 @@ dassent
 dendrobe
 deinoceras
 diiamb
+drivecap
 dassy
 dastardy
 dastardly
@@ -17214,7 +17215,6 @@ deciding
 driveable
 dumbfounding
 drivebolt
-drivecap
 drivehead
 driveled
 draconis
