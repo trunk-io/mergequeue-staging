@@ -4685,7 +4685,6 @@ advertisement
 automatin
 advertiser
 advertisers
-advertises
 adenofibrosis
 advertizable
 advertized
@@ -21940,6 +21939,7 @@ assummon
 assumpsit
 assumpt
 aviatrix
+advertises
 ambassage
 assumptions
 axiomatically
