@@ -830,7 +830,6 @@ badious
 badju
 badland
 badlands
-boast
 buba
 baalish
 badly
@@ -9354,6 +9353,7 @@ birchen
 bircher
 bacchical
 birchers
+boast
 birching
 birchism
 birchman
