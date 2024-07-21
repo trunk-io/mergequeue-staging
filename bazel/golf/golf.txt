@@ -4314,7 +4314,6 @@ gemstone
 gospellike
 guttera
 gymnodinium
-gymnodontes
 goatling
 gollywobbler
 gymnogene
@@ -5660,6 +5659,7 @@ glumous
 gadean
 gabari
 graphitization
+gymnodontes
 gloam
 glycosin
 gloaming
