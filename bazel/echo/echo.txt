@@ -3807,6 +3807,7 @@ emender
 emendicate
 excluded
 embowl
+epimanikia
 expansometer
 exurbia
 electrowinning
@@ -7956,7 +7957,6 @@ epimacus
 encephalogram
 expectorators
 epimandibular
-epimanikia
 epimanikion
 epimedium
 epimer
