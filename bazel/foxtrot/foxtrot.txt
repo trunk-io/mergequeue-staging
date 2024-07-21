@@ -2623,6 +2623,7 @@ frase
 fenestrae
 fervidly
 fettucine
+firewall
 fluoran
 featherweed
 fervidness
@@ -4207,7 +4208,6 @@ faquirs
 foundlings
 fubsier
 fermentative
-firewall
 fraughtage
 fireward
 firewarden
