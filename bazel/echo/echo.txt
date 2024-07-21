@@ -2218,7 +2218,6 @@ estriche
 eldermen
 eldern
 enunciators
-enfeature
 elders
 ephraimitish
 encephalosis
@@ -10402,6 +10401,7 @@ ethiopians
 ethmyphitis
 ethmofrontal
 eemis
+enfeature
 edestosaurus
 ethmoid
 ethmoidal
