@@ -10815,7 +10815,6 @@ bixin
 breccial
 blindball
 blinded
-blindeyes
 behowled
 blindest
 blindfast
@@ -11191,6 +11190,7 @@ broguer
 bespread
 blouson
 becrusting
+blindeyes
 blout
 bloviate
 bloviated
