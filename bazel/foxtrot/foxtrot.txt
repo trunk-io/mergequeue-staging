@@ -5027,6 +5027,7 @@ folky
 fanfish
 flaskets
 fasnacht
+forelook
 fozier
 feteritas
 flugelhorn
@@ -7745,7 +7746,6 @@ foreleader
 frontad
 flammably
 fewer
-forelook
 filterable
 flowerets
 flavobacterium
