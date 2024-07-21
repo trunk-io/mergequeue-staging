@@ -3929,6 +3929,7 @@ edaphology
 emirate
 embale
 exergues
+entitlement
 emirates
 erecters
 emirs
@@ -4824,7 +4825,6 @@ encounterable
 encountered
 encouraged
 emoters
-entitlement
 egotism
 encounterers
 enkindling
