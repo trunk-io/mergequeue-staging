@@ -19358,6 +19358,7 @@ arefaction
 arblast
 areg
 aregenerative
+astrograph
 areic
 areito
 athonite
@@ -22299,7 +22300,6 @@ anther
 astroglia
 astrognosy
 astrogonic
-astrograph
 astrography
 antependiums
 astrohatch
