@@ -1843,7 +1843,6 @@ eyesores
 eternalise
 epencephalic
 eyespot
-eyess
 eusteles
 everywhere
 eyestrain
@@ -9171,6 +9170,7 @@ exploding
 erythrose
 enterocyst
 erythrosin
+eyess
 erythrosine
 erythrosinophile
 eugenics
