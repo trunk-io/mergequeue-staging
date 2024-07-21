@@ -5219,7 +5219,6 @@ dratted
 denominate
 denotatum
 denote
-denoted
 denotement
 disrupted
 denoting
@@ -6766,6 +6765,7 @@ deskill
 delimit
 desklike
 disposure
+denoted
 deskman
 deskmen
 desktop
