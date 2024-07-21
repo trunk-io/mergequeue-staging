@@ -4305,7 +4305,6 @@ caryophyllous
 caryophyllus
 caryopilite
 caryopsides
-caryopsis
 caryota
 caryotin
 carboxyhemoglobin
@@ -15236,6 +15235,7 @@ cimaise
 clach
 clachan
 clachans
+caryopsis
 clachs
 clackama
 clackdish
