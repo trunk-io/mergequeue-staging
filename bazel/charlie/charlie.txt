@@ -9582,7 +9582,6 @@ checkmark
 checkmate
 checkmated
 checkmates
-checkmating
 cupressaceae
 cratonic
 checkoff
@@ -20731,6 +20730,7 @@ complection
 complects
 carlishness
 complement
+checkmating
 complemental
 complementally
 complementalness
