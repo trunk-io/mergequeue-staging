@@ -3251,7 +3251,6 @@ georama
 georgette
 georgiadesite
 georgian
-glasshouse
 georgiana
 guiding
 gaslock
@@ -6421,6 +6420,7 @@ goatbeard
 goatbrush
 guacacoa
 glynn
+glasshouse
 goatfish
 goatfishes
 gelastocoridae
