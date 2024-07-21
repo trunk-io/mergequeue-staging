@@ -4295,7 +4295,6 @@ ferryboat
 fertilizing
 frousty
 fallalery
-finner
 frizzle
 falbalas
 fischerite
@@ -7596,6 +7595,7 @@ foredestine
 foredestined
 foredestiny
 foresentence
+finner
 foredestining
 flintified
 foredetermine

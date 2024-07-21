@@ -1228,7 +1228,6 @@ gravecloth
 gantline
 gantlines
 guarnieri
-goods
 gastroenterologist
 goustrous
 gaumish
@@ -3030,6 +3029,7 @@ geodesy
 gaits
 geodesia
 geodesical
+goods
 garageman
 grooviest
 guillotinade
