@@ -2944,7 +2944,6 @@ generical
 gentlepeople
 gaucherie
 gentles
-gentlewomanhood
 gentlewomanish
 gentlewomanly
 gastroenterotomy
@@ -4764,6 +4763,7 @@ girds
 gire
 gyrectomies
 girella
+gentlewomanhood
 girellidae
 gyrencephala
 gyrencephalic
