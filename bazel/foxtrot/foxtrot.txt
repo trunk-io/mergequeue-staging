@@ -1323,7 +1323,6 @@ fatally
 fatalness
 friggle
 flawflower
-friendlessness
 fatbirds
 fate
 factitiously
@@ -9470,6 +9469,7 @@ filose
 fraternally
 fraternation
 fraternised
+friendlessness
 fraternity
 forbiddenness
 farmhands
