@@ -2915,7 +2915,6 @@ gonimous
 gentisin
 gent
 geroderma
-gentle
 gentlefolk
 gentlefolks
 gentleheartedly
@@ -10852,6 +10851,7 @@ grandeval
 gagroot
 gwendolen
 girlishly
+gentle
 goatees
 groutier
 glorifications
