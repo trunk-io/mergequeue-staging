@@ -2955,7 +2955,6 @@ fibbers
 falcones
 founds
 fiberboard
-fibered
 fiberglass
 fiberization
 fiberize
@@ -8907,6 +8906,7 @@ foulish
 foully
 fluidizes
 foulmart
+fibered
 foulness
 foulsome
 foumart

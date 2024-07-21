@@ -1782,7 +1782,6 @@ cambism
 cambisms
 cambist
 containers
-cambistry
 cambists
 cambium
 caliculus
@@ -16485,6 +16484,7 @@ clitellum
 clitellus
 compile
 chloronaphthalene
+cambistry
 cobridgehead
 clites
 clithe
