@@ -9748,7 +9748,6 @@ granitiform
 grus
 grush
 gutter
-gossipper
 griffith
 grutching
 guildite
@@ -10506,6 +10505,7 @@ gunfire
 gunfires
 gunflint
 gung
+gossipper
 gynecocratical
 gimmerpet
 gunyah
