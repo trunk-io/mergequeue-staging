@@ -6890,7 +6890,6 @@ chapeaux
 cementatory
 crotonization
 cemented
-cementer
 cementers
 cementing
 cementitious
@@ -30639,6 +30638,7 @@ cuds
 cudweed
 cudwort
 coequate
+cementer
 cue
 cueball
 cueca

@@ -3730,7 +3730,6 @@ filosus
 fraternise
 funders
 fils
-fletching
 flakelet
 farmy
 ferruginate
@@ -11561,6 +11560,7 @@ funariaceous
 fuses
 foxing
 fusetron
+fletching
 fusht
 fusibility
 footlight
