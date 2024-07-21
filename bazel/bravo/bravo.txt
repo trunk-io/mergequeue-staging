@@ -10554,7 +10554,6 @@ buck
 bleachery
 bleacheries
 bleacherman
-bleachers
 basilisks
 bleachground
 bleachhouse
@@ -18382,6 +18381,7 @@ buzzardly
 buzzbomb
 buzzed
 buzzerphone
+bleachers
 bothridium
 buzzers
 buzzes
