@@ -1383,7 +1383,6 @@ balconies
 bald
 biorhythmicity
 baldacchino
-bacule
 breakfaster
 baldachin
 baldachined
@@ -6584,6 +6583,7 @@ berbers
 bibliotics
 berceaunette
 bercelet
+bacule
 bathochromy
 bellows
 bentincks
