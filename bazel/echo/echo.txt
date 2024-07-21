@@ -4536,7 +4536,6 @@ englad
 encense
 encenter
 ensilage
-encephalalgia
 encephalartos
 encephalasthenia
 essayical
@@ -7046,6 +7045,7 @@ entrepots
 entrepreneur
 extractors
 entrepreneurship
+encephalalgia
 emotionality
 entrepreneuse
 embryotega
