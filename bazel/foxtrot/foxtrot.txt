@@ -4817,6 +4817,7 @@ fungible
 fluorids
 firelocks
 flambeaus
+frittering
 flambeaux
 flambee
 finitive
@@ -10203,7 +10204,6 @@ forgivably
 fritt
 fritted
 fritter
-frittering
 fritters
 frivol
 fluochloride
