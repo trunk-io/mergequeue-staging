@@ -5284,7 +5284,6 @@ casteth
 cepter
 castice
 castigate
-coincidency
 castigated
 copaljocote
 castigates
@@ -28572,6 +28571,7 @@ creditive
 creditor
 creditors
 creditorship
+coincidency
 creditress
 creditrix
 crednerite

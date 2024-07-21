@@ -2389,7 +2389,6 @@ forechamber
 fermented
 fermenter
 fermentescible
-fermenting
 frankfurters
 fiendly
 furicane
@@ -4245,6 +4244,7 @@ firmers
 furosemide
 fealty
 firmest
+fermenting
 firmhearted
 firming
 flask
