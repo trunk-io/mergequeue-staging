@@ -11788,7 +11788,6 @@ exaltation
 essentials
 exaltations
 elfland
-exaltative
 exaltedness
 enstatolite
 exalter
@@ -12236,6 +12235,7 @@ excusatory
 excuse
 excused
 excuser
+exaltative
 excusing
 ephah
 easing
