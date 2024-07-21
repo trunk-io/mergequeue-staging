@@ -2908,7 +2908,6 @@ abying
 acrodermatitis
 acrodont
 acrodontism
-appositional
 acrodrome
 acrodromous
 acrodus
@@ -24695,6 +24694,7 @@ avertive
 averts
 aves
 acephalia
+appositional
 avesta
 agarita
 avestruz
