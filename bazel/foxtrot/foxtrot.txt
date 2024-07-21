@@ -4465,7 +4465,6 @@ flinders
 fistfight
 fisty
 fistical
-fertilitate
 fisticuff
 fisticuffer
 fisticuffing
@@ -11163,6 +11162,7 @@ funerary
 frenchize
 funeration
 flense
+fertilitate
 footsoldiers
 fieldball
 fumigation
