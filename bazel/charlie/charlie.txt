@@ -2121,6 +2121,7 @@ campsite
 campsites
 campstools
 camptonite
+copyright
 chefs
 campulitropal
 complicant
@@ -24686,7 +24687,6 @@ copyreader
 coctoprecipitin
 copyreaders
 copyreading
-copyright
 copyrightable
 copyrighter
 copyrighting
