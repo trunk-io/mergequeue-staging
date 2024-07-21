@@ -2938,6 +2938,7 @@ canvaslike
 canvasman
 caraunda
 choromanic
+cubera
 canvasser
 canvassers
 canvasses
@@ -19618,7 +19619,6 @@ colthood
 coltish
 clamworm
 coltishly
-cubera
 coltishness
 clubdom
 coltoria
