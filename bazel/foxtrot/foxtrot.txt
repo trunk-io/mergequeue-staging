@@ -2383,7 +2383,6 @@ fermentable
 fermental
 forlie
 fermentate
-famulus
 fermentatively
 fermentativeness
 forechamber
@@ -4124,6 +4123,7 @@ firecoat
 foresaw
 foretoken
 federatist
+famulus
 firecracker
 fizzling
 fired
