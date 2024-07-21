@@ -5082,6 +5082,7 @@ caserios
 casern
 caserne
 casernes
+crawdads
 caserns
 casette
 casettes
@@ -28369,7 +28370,6 @@ cardiosphygmograph
 crawberry
 chandleries
 crawdad
-crawdads
 crawfish
 collector
 crawfishing
