@@ -8907,7 +8907,6 @@ alloys
 amins
 alloisomer
 areometry
-alloisomerism
 allokinetic
 allokurtic
 allolalia
@@ -15292,6 +15291,7 @@ antifaction
 antifat
 antifatigue
 antifebrin
+alloisomerism
 anesthetizer
 alined
 antifederal
