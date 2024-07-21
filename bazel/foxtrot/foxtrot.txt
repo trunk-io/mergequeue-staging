@@ -1069,6 +1069,7 @@ farmland
 fluorosis
 farmlands
 fractionised
+fustigation
 fanworts
 fantasque
 fisc
@@ -11646,7 +11647,6 @@ festooning
 footmarks
 fustigating
 flockbed
-fustigation
 fearedness
 fustigator
 fustilarian
