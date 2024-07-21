@@ -5492,6 +5492,7 @@ flyboat
 flybrush
 facsimiling
 fishless
+fences
 flic
 felsophyre
 flycatchers
@@ -11353,7 +11354,6 @@ firiness
 fykes
 furfural
 fiend
-fences
 filiciform
 foxings
 falseheartedly

@@ -5651,7 +5651,6 @@ afterchance
 afterchrome
 afterchurch
 afterclap
-afterclause
 aftercomer
 aftercoming
 aftercooler
@@ -12226,6 +12225,7 @@ artmobile
 anchises
 anchistopoda
 anchitherioid
+afterclause
 androphorous
 anchor
 anchorable
