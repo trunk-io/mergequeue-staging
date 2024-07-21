@@ -2397,7 +2397,6 @@ gaseosity
 gelding
 gasterosteidae
 geldings
-gelechia
 geleem
 gurgoyl
 geophila
@@ -9517,6 +9516,7 @@ gastrotaxis
 gulosities
 gamogenetically
 groveler
+gelechia
 groveless
 groveling
 gesseron
