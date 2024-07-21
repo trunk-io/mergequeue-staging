@@ -952,7 +952,6 @@ gamily
 girasole
 gnashes
 gamines
-gaminesque
 gasifiable
 granivorous
 galeiform
@@ -2641,6 +2640,7 @@ generant
 glances
 gallingness
 gilt
+gaminesque
 genetmoil
 gormandizing
 goto
