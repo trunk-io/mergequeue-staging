@@ -1271,7 +1271,6 @@ electroanalysis
 eer
 eery
 eerie
-elatedness
 eeriest
 eerily
 endamaging
@@ -6791,6 +6790,7 @@ enwrite
 enticers
 ethinyls
 enticingly
+elatedness
 enticingness
 enties
 enlister
