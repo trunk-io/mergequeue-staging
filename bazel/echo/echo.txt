@@ -1983,7 +1983,6 @@ ejam
 expatiated
 eject
 ejecta
-ejectable
 extraregularly
 endomyces
 entailers
@@ -6171,6 +6170,7 @@ eten
 enormious
 enormity
 egghot
+ejectable
 encephalopathy
 enormousness
 enorn
