@@ -1308,6 +1308,7 @@ garbologist
 grammarless
 garbure
 garce
+guildsman
 goaled
 garcon
 gonadotrope
@@ -10234,7 +10235,6 @@ guiles
 guilfat
 guyline
 guiling
-guildsman
 guillemet
 gynecophore
 gammick
