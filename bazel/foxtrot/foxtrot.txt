@@ -5781,7 +5781,6 @@ flocculated
 flocculation
 formican
 flocculator
-floccule
 falsettos
 flocculence
 foreship
@@ -11362,6 +11361,7 @@ fantasticism
 feued
 furfuramid
 flocculently
+floccule
 foolify
 fashionist
 furfuran
