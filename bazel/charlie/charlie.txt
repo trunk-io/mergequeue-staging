@@ -2264,6 +2264,7 @@ cancellation
 counterassertion
 cancelled
 canceller
+crags
 cancelli
 chasseur
 cyclogram
@@ -17268,7 +17269,6 @@ coalfish
 coalfishes
 coalfitter
 coalheugh
-crags
 coalholes
 coaly
 coalyard
