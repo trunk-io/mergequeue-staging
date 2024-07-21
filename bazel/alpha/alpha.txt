@@ -3744,7 +3744,6 @@ adenomas
 adenomata
 adenometritis
 adenomycosis
-adenomyoma
 adenomyxoma
 adenoncus
 adenoneural
@@ -15951,6 +15950,7 @@ antipyrine
 antipyrotic
 anointer
 antiplanet
+adenomyoma
 antiplatelet
 antipleion
 antiplenist
