@@ -5692,6 +5692,7 @@ bunyan
 bellarmine
 bellatrix
 bellbind
+burnt
 bellbinder
 bachelorlike
 bellbird
@@ -17812,7 +17813,6 @@ burns
 burnsian
 burnside
 burnsides
-burnt
 burntly
 begirdled
 burntness
