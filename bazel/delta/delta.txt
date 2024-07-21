@@ -8275,7 +8275,6 @@ diagraph
 diagraphics
 demigrate
 diagraphs
-decastyle
 diagredium
 desand
 disastimeter
@@ -18545,6 +18544,7 @@ decurved
 downton
 dusted
 dangled
+decastyle
 dustee
 duster
 doming
