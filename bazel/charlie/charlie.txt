@@ -8118,7 +8118,6 @@ chaetophoraceous
 chaetopod
 chaetopodan
 contemperate
-chaetopodous
 chaetopterus
 chaetosomatidae
 chaetosomidae
@@ -15282,6 +15281,7 @@ cladogenetically
 cladogenous
 cladonia
 cladoniaceous
+chaetopodous
 cladophyllum
 cladophora
 contrariwise
