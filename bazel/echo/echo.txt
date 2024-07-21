@@ -3580,7 +3580,6 @@ embower
 embowered
 embowering
 embowerment
-embowers
 embowing
 embowment
 embows
@@ -9185,6 +9184,7 @@ ebulliently
 erythrozyme
 encolor
 eritrean
+embowers
 eudaemonist
 extrascripturality
 erizo

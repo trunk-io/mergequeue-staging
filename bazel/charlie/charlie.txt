@@ -11153,6 +11153,7 @@ chiton
 chitons
 chitosamine
 chitosan
+chigoe
 chitose
 chitra
 cloaklet
@@ -21401,7 +21402,6 @@ conchyliated
 conchyliferous
 craglike
 conchinin
-chigoe
 conchinine
 conchiolin
 chromolithograph
