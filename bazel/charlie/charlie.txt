@@ -17360,7 +17360,6 @@ coassignee
 connivance
 coassist
 coassistant
-coassisted
 coassisting
 coassists
 coassume
@@ -28782,6 +28781,7 @@ crepitant
 crepitate
 crepitated
 crepitating
+coassisted
 crumblings
 county
 crepitation
