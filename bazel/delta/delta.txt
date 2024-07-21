@@ -3825,7 +3825,6 @@ delocalise
 deynt
 deintellectualization
 deintellectualize
-deionization
 deionize
 deionized
 deionizer
@@ -5983,6 +5982,7 @@ deprogrammers
 deprogramming
 deprograms
 deprostrate
+deionization
 dimensionless
 deprotestantize
 deducibleness
