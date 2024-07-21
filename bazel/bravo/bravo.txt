@@ -600,7 +600,6 @@ belibeling
 backswept
 backswimmer
 backswing
-backsword
 bettergates
 bestness
 backswordmen
@@ -9300,6 +9299,7 @@ biplanes
 baptistic
 biplicate
 biplicity
+backsword
 biplosion
 balibago
 biplosive
