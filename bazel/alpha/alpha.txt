@@ -5602,7 +5602,6 @@ africana
 africanist
 africanization
 aglint
-africanize
 africanoid
 africans
 africanthropus
@@ -23081,6 +23080,7 @@ antheridiophore
 attestator
 arkab
 attested
+africanize
 attesters
 adventuresomely
 artocarpaceae
