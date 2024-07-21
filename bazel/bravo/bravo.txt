@@ -3137,7 +3137,6 @@ baseballdom
 baseballer
 baseballs
 babbitt
-barebone
 beshackle
 basinlike
 blears
@@ -10004,6 +10003,7 @@ bizz
 bizzarro
 bk
 bkbndr
+barebone
 bkg
 bklr
 bkpr
