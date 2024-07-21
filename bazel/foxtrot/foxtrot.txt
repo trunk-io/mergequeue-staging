@@ -2830,6 +2830,7 @@ feudalization
 forelock
 feudalized
 footrace
+foraminulous
 fulmar
 feudatary
 feudatory
@@ -4159,7 +4160,6 @@ flyblow
 fortissimo
 faithful
 fetterless
-foraminulous
 fumant
 fealties
 fragmentize
