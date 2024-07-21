@@ -3659,7 +3659,6 @@ disagreement
 degummer
 damaging
 degumming
-degums
 degust
 degustate
 desyl
@@ -11349,6 +11348,7 @@ discerptive
 discession
 discharacter
 dischargeable
+degums
 discharged
 dischargee
 dischargers
