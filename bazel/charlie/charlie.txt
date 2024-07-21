@@ -2747,6 +2747,7 @@ cantador
 clucking
 cantala
 cantalas
+confidingness
 cantalever
 cantalite
 clipper
@@ -22037,7 +22038,6 @@ confider
 confiders
 confides
 clarion
-confidingness
 crossbarred
 configurable
 configural
