@@ -2885,6 +2885,7 @@ barothermogram
 bitis
 barothermograph
 barothermohygrogram
+basilard
 barothermohygrograph
 baroto
 barotrauma
@@ -3265,7 +3266,6 @@ bobstays
 basihyal
 buscarle
 bitume
-basilard
 basilary
 basilateral
 bianco
