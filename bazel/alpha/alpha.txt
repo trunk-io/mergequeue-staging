@@ -11007,7 +11007,6 @@ amorphophyte
 amorphotae
 amorphous
 amorphously
-amorphousness
 amorphozoa
 amorphus
 anhedral
@@ -14913,6 +14912,7 @@ anticathode
 autoptic
 anticausotic
 anticaustic
+amorphousness
 anticoagulator
 anticensorial
 anticensorious
