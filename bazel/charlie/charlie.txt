@@ -7987,7 +7987,6 @@ cetanes
 castrated
 cete
 cetene
-ceteosaur
 cetera
 ceterach
 cetes
@@ -17477,6 +17476,7 @@ cobaltite
 cobaltocyanic
 cobaltous
 cobalts
+ceteosaur
 cobang
 cobb
 cobbed
