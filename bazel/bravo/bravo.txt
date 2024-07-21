@@ -5388,7 +5388,6 @@ bacterioprotein
 bean
 bezzants
 baphomet
-behorror
 behoves
 behoving
 bedrivelled
@@ -14389,6 +14388,7 @@ braky
 brakie
 brakiest
 braking
+behorror
 braless
 brokership
 bedevils
