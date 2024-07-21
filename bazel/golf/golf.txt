@@ -3982,7 +3982,6 @@ gibraltar
 gibs
 graveled
 groupwise
-galli
 gibuses
 grayfish
 giddybrain
@@ -9303,6 +9302,7 @@ gelong
 groose
 grimp
 gorges
+galli
 grooved
 grovel
 germaneness
