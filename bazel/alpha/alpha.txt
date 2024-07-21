@@ -4935,7 +4935,6 @@ aery
 aerial
 adject
 aerialist
-aerialists
 aeriality
 aerialness
 aether
@@ -22477,6 +22476,7 @@ ataxinomic
 acrostics
 ataxophemia
 astronautic
+aerialists
 atazir
 abbadide
 atchison
