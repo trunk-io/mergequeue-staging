@@ -4044,7 +4044,6 @@ gigabytes
 gigacycle
 gigahertz
 gigameter
-gigantal
 gigantean
 gilled
 gigantesque
@@ -7390,6 +7389,7 @@ gaum
 gelilah
 gotos
 gonia
+gigantal
 gotraja
 gotten
 gottfried
