@@ -15089,6 +15089,7 @@ anticonfederationist
 anticonfederative
 anticonformist
 anticonformity
+atmospherics
 anticonformities
 anticonscriptive
 ancestrial
@@ -22744,7 +22745,6 @@ atmospheres
 atmospheric
 atmospherical
 atmospherically
-atmospherics
 auklet
 alchera
 atmospherology
