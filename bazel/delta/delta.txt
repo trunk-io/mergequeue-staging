@@ -8467,6 +8467,7 @@ decelerate
 daglocks
 distingu
 diamins
+droplet
 diammine
 diminished
 diamminobromide
@@ -12930,7 +12931,6 @@ dissue
 dispansive
 darneder
 duvetyns
-droplet
 disparadise
 disparageable
 diffusibleness
