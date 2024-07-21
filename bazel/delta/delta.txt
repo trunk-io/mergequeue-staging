@@ -1474,6 +1474,7 @@ dcor
 ddt
 divine
 dea
+dropper
 deaccession
 deacetylated
 dirl
@@ -17395,7 +17396,6 @@ dwining
 disinfectant
 droppage
 dropped
-dropper
 droppers
 dropping
 dorab
