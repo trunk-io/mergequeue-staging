@@ -5342,7 +5342,6 @@ denticete
 denticeti
 denticles
 denticular
-diachoresis
 denticulate
 delegare
 denticulated
@@ -13765,6 +13764,7 @@ disspread
 disspreading
 disstate
 disvertebrate
+diachoresis
 deathliness
 dissuade
 dispersion
