@@ -13479,6 +13479,7 @@ drused
 disrupture
 diss
 dissatisfaction
+dedanim
 dissatisfactions
 disserted
 dissatisfactory
@@ -15394,7 +15395,6 @@ decalomania
 dominic
 disliker
 dominica
-dedanim
 depoliticizing
 dominical
 doohickey
