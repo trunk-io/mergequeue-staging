@@ -9515,7 +9515,6 @@ dashnaktzutiun
 digestors
 digesture
 digged
-digger
 digging
 diggings
 dight
@@ -13460,6 +13459,7 @@ disruptability
 disrupter
 deserve
 disrupting
+digger
 depullulation
 disruption
 disruptions
