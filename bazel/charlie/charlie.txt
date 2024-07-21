@@ -9427,6 +9427,7 @@ chaussee
 chausseemeile
 chaussees
 chaussure
+cranesman
 chaussures
 chaute
 chauth
@@ -28128,7 +28129,6 @@ cranes
 cypselous
 compot
 cranesbill
-cranesman
 cranet
 craneway
 corpsbruder
