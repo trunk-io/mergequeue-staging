@@ -8222,7 +8222,6 @@ brahmi
 bearable
 bifluoride
 bifoil
-bifold
 bureaucrats
 bifolia
 bifoliate
@@ -11512,6 +11511,7 @@ bascology
 bm
 bn
 bland
+bifold
 bnf
 belemnites
 boa
