@@ -7086,7 +7086,6 @@ corporateness
 circumradii
 centgener
 centi
-cohesions
 centiar
 centiare
 crimeproof
@@ -21344,6 +21343,7 @@ concertini
 concertinist
 concertino
 concertinos
+cohesions
 concertion
 concertise
 concertised

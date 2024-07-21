@@ -2889,6 +2889,7 @@ barothermohygrograph
 baroto
 barotrauma
 barotraumas
+boneshave
 bacterious
 barotraumata
 barouche
@@ -5012,7 +5013,6 @@ befall
 benzomorpholine
 bedpad
 balanism
-boneshave
 befalls
 bearishly
 befinger
