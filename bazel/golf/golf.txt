@@ -2674,6 +2674,7 @@ generosities
 generous
 glial
 geneserin
+gerousia
 galant
 gabbarts
 geneserine
@@ -3537,7 +3538,6 @@ grainage
 germander
 geropiga
 grandsirs
-gerousia
 gerres
 graybeard
 gerridae
