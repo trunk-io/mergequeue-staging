@@ -2170,7 +2170,6 @@ craftsmanly
 canafistolo
 canafistulo
 canaglia
-chrysopoetics
 canaille
 canailles
 canajong
@@ -6200,6 +6199,7 @@ caulked
 caulker
 caulkers
 caulkings
+chrysopoetics
 caulks
 caulocarpic
 caulome
