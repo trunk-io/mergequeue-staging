@@ -6752,7 +6752,6 @@ cellager
 cellar
 contemned
 casaque
-coremium
 cellarage
 cellared
 cellarer
@@ -10065,6 +10064,7 @@ cheoplastic
 chepster
 cheque
 chequeen
+coremium
 chequer
 chequered
 chequering
