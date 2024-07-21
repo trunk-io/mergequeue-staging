@@ -1928,7 +1928,6 @@ germinated
 gentlemanize
 gaucie
 gaud
-gaudeamus
 gluiest
 gaudily
 gaudiness
@@ -5623,6 +5622,7 @@ grabble
 glis
 gospelize
 glisk
+gaudeamus
 glisky
 glissader
 gluttonish
