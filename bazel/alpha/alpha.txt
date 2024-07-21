@@ -7939,7 +7939,6 @@ alepot
 allantoic
 aleppine
 administered
-aleppo
 alerce
 alerion
 alerse
@@ -23860,6 +23859,7 @@ authorization
 authorizations
 antihemolytic
 authorize
+aleppo
 auxeses
 authorized
 aphorism
