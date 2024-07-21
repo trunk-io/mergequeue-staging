@@ -12630,7 +12630,6 @@ bookcases
 bookcraft
 bushmaster
 bookends
-booker
 bookery
 bookers
 bookfair
@@ -18388,6 +18387,7 @@ buzzes
 buzzies
 buzziest
 bromcamphor
+booker
 buzzing
 buzzingly
 balas
