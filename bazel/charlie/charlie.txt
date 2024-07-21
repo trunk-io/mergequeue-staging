@@ -15154,6 +15154,7 @@ civilisable
 civilisatory
 civilise
 civilised
+croquets
 civiliser
 civilises
 civilising
@@ -29824,7 +29825,6 @@ cropsickness
 caddoan
 croquet
 croqueted
-croquets
 croquette
 croquignole
 croquis
