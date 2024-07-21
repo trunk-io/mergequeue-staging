@@ -8074,7 +8074,6 @@ epiphytal
 epiphyte
 equidivision
 emerged
-embuia
 evalue
 emerize
 epiphytes
@@ -12664,6 +12663,7 @@ elastic
 exoculate
 epicoracohumeral
 exoculating
+embuia
 exoderm
 elephantoid
 exodermal
