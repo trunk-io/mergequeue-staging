@@ -4380,7 +4380,6 @@ endent
 enamelless
 enamellist
 esthesiology
-enamels
 enamelwork
 enamine
 epistolist
@@ -9215,6 +9214,7 @@ exceptionalness
 ermiline
 ermine
 ermined
+enamels
 extrafascicular
 extraliminal
 excellencies
