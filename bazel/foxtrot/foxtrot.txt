@@ -1461,6 +1461,7 @@ frees
 fattrels
 forehold
 fatuities
+feoffees
 foveiform
 fellatrix
 frenzy
@@ -2299,7 +2300,6 @@ forsakenness
 fauns
 feoffee
 fruiterers
-feoffees
 faits
 feoffer
 flies
