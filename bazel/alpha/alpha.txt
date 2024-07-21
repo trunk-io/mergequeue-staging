@@ -3046,6 +3046,7 @@ acrostolia
 asarh
 acrostolion
 acrostolium
+announced
 acrotarsial
 acrotarsium
 allumette
@@ -13683,7 +13684,6 @@ annotine
 annotinous
 annotto
 announce
-announced
 announcers
 announces
 afunction
