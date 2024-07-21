@@ -4266,7 +4266,6 @@ emulable
 emulates
 emulation
 etymological
-edplot
 emulative
 emulatively
 enthronements
@@ -9833,6 +9832,7 @@ essayism
 extragastric
 essayist
 essayistical
+edplot
 essays
 essancia
 essede
