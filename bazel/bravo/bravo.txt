@@ -6307,7 +6307,6 @@ benzanalgen
 beaconage
 bitreadle
 benzanthracene
-benzanthrone
 benzantialdoxime
 bellwort
 bowyer
@@ -7418,6 +7417,7 @@ betters
 betty
 betties
 bettina
+benzanthrone
 bettine
 bettor
 betula
