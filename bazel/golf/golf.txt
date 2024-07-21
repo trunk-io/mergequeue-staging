@@ -3456,7 +3456,6 @@ grids
 genically
 germans
 gonfalons
-gossipry
 guacho
 germen
 germens
@@ -4809,6 +4808,7 @@ gunj
 globule
 girlfully
 glycyl
+gossipry
 girlies
 goosegrass
 girliness
