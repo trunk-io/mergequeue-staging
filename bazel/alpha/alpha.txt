@@ -531,7 +531,6 @@ autocarp
 abjured
 abjurement
 abjurer
-aghastness
 abjurers
 abjures
 abjuring
@@ -18521,6 +18520,7 @@ arabinosic
 arbitrament
 arbitraments
 arbitrariness
+aghastness
 arbitrate
 arbitrated
 arbitrates
