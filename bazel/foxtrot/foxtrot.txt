@@ -183,6 +183,7 @@ factories
 factoring
 foujdarry
 foraminated
+formalised
 factorize
 factorized
 factors
@@ -7376,7 +7377,6 @@ forborne
 forbow
 forbruise
 forbs
-formalised
 forcat
 force
 fishwife
