@@ -2617,7 +2617,6 @@ barid
 bunolophodont
 brusquest
 breezily
-bargelike
 baryecoia
 biorhythmicities
 bristlelike
@@ -5816,6 +5815,7 @@ belomancy
 belone
 belonephobia
 belonging
+bargelike
 belongings
 belongs
 bannerer
