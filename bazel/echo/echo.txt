@@ -1657,7 +1657,6 @@ encoronet
 entier
 es
 egotisms
-encyclopedize
 egotistic
 egotistical
 egotistically
@@ -5377,6 +5376,7 @@ endothelial
 egling
 eyestones
 endotheliolytic
+encyclopedize
 endothelioma
 endotheliomas
 endotheliomyoma

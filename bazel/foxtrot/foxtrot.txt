@@ -4260,7 +4260,6 @@ firmisternial
 fezzy
 fingerstall
 firmity
-firmitude
 firmness
 firms
 firn
@@ -9391,6 +9390,7 @@ factitious
 frankfort
 falsidical
 frankfurt
+firmitude
 frankheartedly
 fouter
 frankincense
