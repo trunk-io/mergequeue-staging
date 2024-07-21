@@ -4869,7 +4869,6 @@ debacchate
 dicyclic
 dismast
 demonstrability
-demonstrable
 demonstrableness
 demonstrably
 demonstrance
@@ -18059,6 +18058,7 @@ dullishly
 dullity
 dullness
 dermographia
+demonstrable
 dullnesses
 dionise
 debatably
