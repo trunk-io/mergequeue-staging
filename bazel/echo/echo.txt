@@ -2607,7 +2607,6 @@ estramazone
 electroscopic
 electrosensitive
 electroshocks
-electrosynthetically
 eyeful
 electrosmosis
 electrostatic
@@ -7153,6 +7152,7 @@ envenomed
 envenoming
 epeiric
 episcopate
+electrosynthetically
 envenoms
 enventual
 enverdure
