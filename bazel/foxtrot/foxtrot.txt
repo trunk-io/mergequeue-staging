@@ -7979,7 +7979,6 @@ frithles
 foreskirt
 foliates
 flathe
-foreslow
 finfoot
 foresound
 forespake
@@ -10547,6 +10546,7 @@ foreglance
 facilely
 frouzy
 fricti
+foreslow
 frouziest
 fps
 foremessenger
