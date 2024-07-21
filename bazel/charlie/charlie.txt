@@ -12586,6 +12586,7 @@ chromogene
 chromogenesis
 chromogenetic
 chromoisomer
+clonisms
 chromoisomerism
 chromoleucite
 chromolipoid
@@ -17015,7 +17016,6 @@ canonicals
 clunker
 clunkers
 clunks
-clonisms
 clunter
 chimera
 clupea
