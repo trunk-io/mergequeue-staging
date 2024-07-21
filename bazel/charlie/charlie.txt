@@ -3826,6 +3826,7 @@ carburize
 carburized
 carburizes
 carburizing
+carse
 carburometer
 carcajou
 carcajous
@@ -4805,7 +4806,6 @@ carrozza
 carrs
 carrus
 cars
-carse
 carses
 carshop
 carshops
