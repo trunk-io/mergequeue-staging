@@ -11624,7 +11624,6 @@ cozies
 cholecystnephrostomy
 cholecystocolotomy
 cholecystogastrostomy
-cholecystogram
 cholecystography
 cholecystojejunostomy
 cholecystokinin
@@ -22879,6 +22878,7 @@ consenescence
 consensual
 consensually
 catnapped
+cholecystogram
 consensus
 crinid
 cultirostral
