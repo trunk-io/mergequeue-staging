@@ -6085,7 +6085,6 @@ enneahedron
 enneahedrons
 expire
 epididymal
-enneandrian
 enneandrous
 edgeling
 eurous
@@ -14009,6 +14008,7 @@ extravagances
 extravagancies
 economising
 extravagantes
+enneandrian
 extravagantly
 extravagantness
 ethnogenies
