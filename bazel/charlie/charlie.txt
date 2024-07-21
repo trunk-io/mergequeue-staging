@@ -13232,6 +13232,7 @@ cycad
 cycadaceae
 cymars
 cicadas
+corregimiento
 cocozelle
 catatonias
 colemanite
@@ -25730,7 +25731,6 @@ corregidor
 corregidores
 consolute
 corregidors
-corregimiento
 coordinates
 corregimientos
 correl
