@@ -979,6 +979,7 @@ gammation
 gangliglions
 ganoid
 gammed
+generalize
 genospecies
 gammelost
 gurl
@@ -2623,7 +2624,6 @@ generaliter
 generality
 generalities
 generalizations
-generalize
 girt
 generalizeable
 generalizer
