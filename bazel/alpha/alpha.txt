@@ -11948,7 +11948,6 @@ anaphroditic
 aglaozonia
 anaphroditous
 anaplasia
-anaplasis
 alembics
 agednesses
 antituberculotic
@@ -25116,6 +25115,7 @@ axle
 axled
 axles
 axlesmith
+anaplasis
 appendicectasis
 autophotometry
 axletrees
