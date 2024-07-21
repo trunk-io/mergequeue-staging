@@ -1259,7 +1259,6 @@ epitympanic
 eelware
 eelworm
 een
-eben
 electroanalysis
 eer
 eery
@@ -4480,6 +4479,7 @@ encapsule
 encapsuled
 eleutheromorph
 encapsules
+eben
 externalization
 epicurism
 encardion
