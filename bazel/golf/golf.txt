@@ -7314,7 +7314,6 @@ gyrectomy
 genys
 gynecocracies
 gospelmonger
-gospelwards
 geylies
 gagee
 graminaceous
@@ -10230,6 +10229,7 @@ guiler
 guilery
 guiles
 guilfat
+gospelwards
 guyline
 guiling
 guildsman
