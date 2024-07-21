@@ -4073,7 +4073,6 @@ cataloger
 capilaceous
 cardiagraphy
 cytoid
-cardiotherapies
 chlorophyllide
 cardiotonic
 cardiotoxic
@@ -11028,6 +11027,7 @@ chirologies
 chirologist
 cannelloni
 chiromance
+cardiotherapies
 chiromancy
 chiromancist
 chiromant
