@@ -2377,7 +2377,6 @@ cidaroida
 candleball
 candlebeam
 candleberry
-candleberries
 candled
 candlefishes
 candleholder
@@ -8816,6 +8815,7 @@ chaped
 chapel
 cobriform
 chapeled
+candleberries
 cineastes
 coolest
 chapeless
