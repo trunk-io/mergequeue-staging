@@ -3158,7 +3158,6 @@ dissipable
 defective
 defectiveness
 defectless
-defectlessness
 darg
 decorament
 defectology
@@ -4053,6 +4052,7 @@ desexualizing
 delicacies
 delicat
 delicately
+defectlessness
 dulce
 delicates
 daubs
