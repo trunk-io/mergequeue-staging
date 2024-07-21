@@ -428,7 +428,6 @@ entirely
 eosate
 ecartes
 escry
-ecaudata
 ecaudate
 erotica
 ecb
@@ -1465,6 +1464,7 @@ effused
 effusely
 effuses
 effusiometer
+ecaudata
 espiegle
 effusions
 effusively
