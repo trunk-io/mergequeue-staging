@@ -5274,7 +5274,6 @@ castelli
 castellum
 casten
 cloghaun
-caster
 casterless
 carcerate
 casters
@@ -27781,6 +27780,7 @@ coxcomically
 culex
 coxed
 cissing
+caster
 coxendix
 coxes
 coxy
