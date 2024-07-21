@@ -1388,6 +1388,7 @@ baldakin
 blithen
 bowlful
 baldaquin
+beseige
 baldberry
 baldcrown
 backpointers
@@ -6858,7 +6859,6 @@ browse
 beseemly
 beseems
 bailsman
-beseige
 besetment
 besets
 bummel
