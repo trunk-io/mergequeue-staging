@@ -5611,7 +5611,6 @@ glyptolith
 glyptology
 grayhair
 granum
-globeholder
 glires
 gliridae
 grains
@@ -9828,6 +9827,7 @@ gris
 guamachil
 gigmania
 guamuchil
+globeholder
 greith
 gleeked
 guanabano
