@@ -8116,7 +8116,6 @@ granulet
 gossamery
 gypsydom
 granulitis
-givens
 gossan
 granulitize
 granulization
@@ -8501,6 +8500,7 @@ geminis
 geomorphy
 gravimetrically
 getups
+givens
 gelid
 gingeli
 glutenous

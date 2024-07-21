@@ -14363,7 +14363,6 @@ annulation
 anterolaterally
 anteromedial
 abducting
-anteromedian
 apicula
 anteroom
 anterooms
@@ -19717,6 +19716,7 @@ ariettas
 ariette
 aerobated
 aright
+anteromedian
 arigue
 aquincubitalism
 arikara
