@@ -330,6 +330,7 @@ benzylic
 bogeyed
 backblocks
 backblow
+benzophenazine
 backboard
 backboards
 bandwagons
@@ -6399,7 +6400,6 @@ benzonitrile
 byssoid
 bluebuck
 benzoperoxide
-benzophenazine
 buffos
 benzophenone
 benzophenothiazine
