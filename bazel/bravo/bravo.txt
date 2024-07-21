@@ -3177,7 +3177,6 @@ bonnetmen
 baseplug
 basepoint
 bookstores
-bases
 bashaw
 bashawdom
 bashawism
@@ -12709,6 +12708,7 @@ booksellerism
 booksellers
 bookshelf
 bedsick
+bases
 bedcover
 bookstore
 bollixing
