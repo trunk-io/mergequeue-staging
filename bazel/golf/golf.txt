@@ -6261,6 +6261,7 @@ gadarene
 gulancha
 gushiest
 galvanopsychic
+gettable
 gnat
 gnatcatcher
 gnatflower
@@ -6512,7 +6513,6 @@ goblin
 ganders
 glycocholate
 ganged
-gettable
 gobline
 goblinry
 goblins
