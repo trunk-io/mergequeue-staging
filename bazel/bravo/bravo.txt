@@ -2647,6 +2647,7 @@ baryphonic
 baris
 barysilite
 barysphere
+blocklayer
 barit
 basoche
 baryta
@@ -10977,7 +10978,6 @@ blocky
 blockier
 blockiest
 blockishly
-blocklayer
 blocklike
 blockmaking
 borean
