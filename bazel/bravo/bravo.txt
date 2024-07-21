@@ -1488,6 +1488,7 @@ blurs
 bouffant
 biod
 beshaming
+bookrest
 brocks
 balker
 balkers
@@ -12694,7 +12695,6 @@ bookmonger
 bookplate
 blady
 bookpress
-bookrest
 blast
 bookrests
 bookroom
