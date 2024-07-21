@@ -6166,7 +6166,6 @@ flowerlessness
 flowerlike
 flowerpot
 flowerpots
-farsightedness
 flowerwork
 foreleech
 foreappoint
@@ -8204,6 +8203,7 @@ forgeability
 forgeable
 forged
 forger
+farsightedness
 forgery
 foeish
 forgers

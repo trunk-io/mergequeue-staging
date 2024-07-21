@@ -1774,7 +1774,6 @@ accountantship
 accounter
 accounts
 accouplement
-adipyl
 accourage
 accourt
 aspectant
@@ -4791,6 +4790,7 @@ aedicule
 aedile
 aediles
 aedileship
+adipyl
 aedilic
 antieducationist
 aedility
