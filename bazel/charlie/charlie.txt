@@ -12100,7 +12100,6 @@ chorographically
 choroid
 compert
 choroidea
-choroiditis
 choroidocyclitis
 choroidoiritis
 choroidoretinitis
@@ -27162,6 +27161,7 @@ countershock
 countershout
 counterside
 countersign
+choroiditis
 countersignal
 countersignatures
 countersigned
