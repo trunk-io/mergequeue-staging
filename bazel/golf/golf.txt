@@ -349,7 +349,6 @@ gilts
 galactose
 glairiest
 galactosemic
-galactosidase
 gamier
 gunge
 galactosyl
@@ -8503,6 +8502,7 @@ gravipause
 gravisphere
 gravispheric
 gravitate
+galactosidase
 gabies
 gaura
 gravitated
