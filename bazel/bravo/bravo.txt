@@ -5499,7 +5499,6 @@ belfather
 begrimed
 beknighted
 bps
-beknighting
 beknived
 bostal
 ballistite
@@ -12731,6 +12730,7 @@ boombox
 bahan
 boomdas
 barehanded
+beknighting
 boomy
 boomier
 brewst
