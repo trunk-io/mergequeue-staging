@@ -3992,7 +3992,6 @@ diatomales
 delegate
 delegated
 delegates
-delegateship
 diakonika
 delegati
 delegating
@@ -13581,6 +13580,7 @@ dissents
 dissepiment
 dresser
 dissepimental
+delegateship
 deacetylate
 dissertate
 dissertated
