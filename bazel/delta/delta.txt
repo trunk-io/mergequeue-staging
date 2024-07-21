@@ -6496,7 +6496,6 @@ descendant
 descendants
 descended
 descendence
-dani
 descendentalist
 descendents
 denumerant
@@ -14224,6 +14223,7 @@ desponsage
 dabuh
 dithyrambic
 dithyrambos
+dani
 dithyrambs
 dithyrambus
 diting
