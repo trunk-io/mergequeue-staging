@@ -5378,7 +5378,6 @@ flemish
 flenched
 famine
 frontispieces
-flensed
 frangulin
 flenser
 fielder
@@ -6862,6 +6861,7 @@ firebugs
 ferruginated
 feoffment
 fructiparous
+flensed
 firewood
 foliaceous
 foliaceousness
