@@ -12613,7 +12613,6 @@ baianism
 bookbinderies
 bookbinders
 bookboard
-bellyaches
 bookcases
 bookcraft
 bushmaster
@@ -13985,6 +13984,7 @@ boldhearted
 brachinus
 brachiocephalic
 bolometrically
+bellyaches
 brachiocyllosis
 boethusian
 brachiocrural
