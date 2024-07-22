@@ -6137,7 +6137,6 @@ caudal
 caudata
 capsulotome
 caudate
-caudated
 caudation
 caudatolenticular
 caudatory
@@ -7635,6 +7634,7 @@ cerebrifugal
 cholecystotomy
 colossians
 cerebrin
+caudated
 cerebritis
 cerebrize
 cerebrocardiac
