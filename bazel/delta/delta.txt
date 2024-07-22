@@ -3361,6 +3361,7 @@ deflators
 deflea
 defleaed
 defleaing
+distributiveness
 defleas
 deflect
 driftfishes
@@ -14050,7 +14051,6 @@ dispensable
 distributions
 distributival
 distributively
-distributiveness
 distributivity
 distributor
 dirtying
