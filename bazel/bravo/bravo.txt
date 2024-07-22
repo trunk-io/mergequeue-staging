@@ -9993,7 +9993,6 @@ bizarre
 bizarrerie
 bitterless
 bizarres
-bize
 bizen
 bizet
 biznaga
@@ -13385,6 +13384,7 @@ bottomry
 bottomried
 bottomries
 bottomrying
+bize
 bottstick
 bathyscaphe
 bandstring
