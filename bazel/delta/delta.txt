@@ -5568,7 +5568,6 @@ discovenant
 departement
 dismount
 departer
-departing
 departition
 department
 drily
@@ -18071,6 +18070,7 @@ dullness
 dermographia
 demonstrable
 dullnesses
+departing
 dionise
 dullpate
 dulls
