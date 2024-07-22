@@ -7706,7 +7706,6 @@ cerianthidae
 cerianthoid
 cerianthus
 cerias
-ceric
 crosswort
 ceriferous
 cerigerous
@@ -20751,6 +20750,7 @@ completers
 coprostasia
 cadet
 censureless
+ceric
 completing
 completions
 completive
