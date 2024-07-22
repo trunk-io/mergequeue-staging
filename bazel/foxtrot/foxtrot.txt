@@ -1099,6 +1099,7 @@ flighted
 farragos
 farcie
 farrand
+flapping
 flyaways
 fractureproof
 fo
@@ -3325,7 +3326,6 @@ fiercely
 fiercened
 fierceness
 flashlamps
-flapping
 fiercer
 frowstiness
 fieri
