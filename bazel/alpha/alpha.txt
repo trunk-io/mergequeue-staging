@@ -3731,7 +3731,6 @@ adenoidism
 adroitest
 ariste
 adenoiditis
-adenoids
 adenolymphoma
 adenoliomyofibroma
 adenolipoma
@@ -21061,6 +21060,7 @@ ascogonial
 ascogonidia
 adminstration
 anthropopathism
+adenoids
 abstinency
 ascogonidium
 ascogonium
