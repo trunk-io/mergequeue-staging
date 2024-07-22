@@ -2114,7 +2114,6 @@ errancies
 elasmobranchii
 elasmothere
 eelfish
-epigrammatist
 exstipulate
 elastance
 elastase
@@ -6931,6 +6930,7 @@ entourage
 entourages
 entozoal
 erythroclastic
+epigrammatist
 entozoans
 enjoyably
 entozoarian
