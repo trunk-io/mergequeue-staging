@@ -4718,7 +4718,6 @@ carryable
 carriage
 carriageful
 carriageless
-comportable
 caline
 catallactic
 carriages
@@ -7242,6 +7241,7 @@ centroplasm
 centropomidae
 centropomus
 centrosymmetry
+comportable
 centrosymmetric
 centrosymmetrical
 centrosoyus
