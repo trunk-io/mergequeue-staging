@@ -2496,7 +2496,6 @@ declimatize
 declinable
 declinal
 declinate
-declination
 deiparous
 dundreary
 dandruffs
@@ -10349,6 +10348,7 @@ dishonorableness
 dioecism
 dioecisms
 dioestrous
+declination
 dialogistically
 dioestrus
 diogenean
