@@ -9346,7 +9346,6 @@ diethylamine
 dokhma
 diethylaminoethanol
 diethylenediamine
-disemboweled
 diethylethanolamine
 dalton
 dysepulotic
@@ -14760,6 +14759,7 @@ docosane
 discophorous
 docosanoic
 disthrall
+disemboweled
 dermatoptic
 divulger
 docquet
