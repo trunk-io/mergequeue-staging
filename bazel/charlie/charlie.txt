@@ -3807,7 +3807,6 @@ correllation
 carburetter
 carburetting
 carburettor
-carburisation
 carburise
 carburised
 chrysolitic
@@ -25088,6 +25087,7 @@ chalcone
 cordlike
 chromatype
 cordoba
+carburisation
 cordoban
 cordobas
 celebrities
