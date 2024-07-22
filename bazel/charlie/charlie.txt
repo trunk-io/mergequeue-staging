@@ -27223,6 +27223,7 @@ counterterm
 counterterrorism
 counterterrorist
 countertheme
+crosshatch
 countertheory
 counterthought
 counterthwarting
@@ -29896,7 +29897,6 @@ crossflower
 crossgrainedness
 crosshackle
 crosshair
-crosshatch
 crosshatched
 crosshatcher
 crossopodia
