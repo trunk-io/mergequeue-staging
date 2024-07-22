@@ -6447,6 +6447,7 @@ gob
 goban
 guzzling
 gnocchi
+gravelling
 gobang
 gidyea
 girl
@@ -8431,7 +8432,6 @@ graveling
 gravelish
 groats
 gravelly
-gravelling
 gauffre
 guaymie
 gravelroot
