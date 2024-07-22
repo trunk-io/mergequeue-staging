@@ -5315,7 +5315,6 @@ flourishment
 ff
 forsay
 fledgling
-fledglings
 furl
 fleece
 fleeceflower
@@ -5650,6 +5649,7 @@ foragement
 flipperling
 flippest
 faveoli
+fledglings
 fermentive
 fissipalmate
 forthcomingness
