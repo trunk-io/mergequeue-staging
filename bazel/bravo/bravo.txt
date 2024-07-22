@@ -7402,7 +7402,6 @@ betroth
 blunts
 betrothals
 begalls
-betrothing
 berinse
 betroths
 betrough
@@ -14532,6 +14531,7 @@ branners
 brannier
 branniest
 brannigan
+betrothing
 branniness
 brans
 bransolder

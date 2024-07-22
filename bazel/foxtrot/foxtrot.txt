@@ -6616,6 +6616,7 @@ fluxive
 frumenties
 fluxroot
 frostweed
+fomites
 fn
 ferritungstite
 fervidor
@@ -7501,7 +7502,6 @@ forebooms
 forebowels
 feverish
 ferried
-fomites
 forebowline
 forebrace
 fyce
