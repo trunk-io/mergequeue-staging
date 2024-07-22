@@ -6315,7 +6315,6 @@ cauterizes
 cauterizing
 cautio
 caution
-cautionary
 cautionaries
 cautioned
 cautioners
@@ -14841,6 +14840,7 @@ charivariing
 classers
 cithern
 citherns
+cautionary
 cithers
 cithrens
 city
