@@ -6615,7 +6615,6 @@ ceinte
 ceinture
 ceintures
 ceyssatite
-ceyx
 ceja
 celadon
 copters
@@ -20784,6 +20783,7 @@ callosal
 chufas
 complexionless
 cahuapana
+ceyx
 cibols
 cutinises
 complexity
