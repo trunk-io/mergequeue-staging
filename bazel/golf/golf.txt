@@ -3292,7 +3292,6 @@ gearbox
 glamourousness
 geospiza
 geostatic
-graphitoidal
 glamoured
 gardebras
 getling
@@ -5279,6 +5278,7 @@ goralog
 glassworm
 glaswegian
 glathsheim
+graphitoidal
 glathsheimr
 glaucescent
 galactotherapy
