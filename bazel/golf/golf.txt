@@ -2661,7 +2661,6 @@ generater
 generates
 generational
 generations
-generative
 generatively
 generativeness
 generator
@@ -8398,6 +8397,7 @@ gratulated
 gratulating
 gratulation
 gratulatory
+generative
 gratulatorily
 graupel
 grudgers
