@@ -1456,7 +1456,6 @@ dazy
 dazzle
 dazzler
 dazzles
-dwindle
 dazzling
 dazzlingly
 dbl
@@ -12606,6 +12605,7 @@ decimus
 disject
 disjected
 debenzolize
+dwindle
 dedecorate
 disjection
 disjects
