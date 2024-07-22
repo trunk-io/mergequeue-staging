@@ -11037,7 +11037,6 @@ chiroptera
 chiropterygian
 constructed
 chiropterygious
-chiropterygium
 chiropterophilous
 chantage
 chiropterous
@@ -17616,6 +17615,7 @@ coccygotomy
 coccin
 chunkily
 coccinella
+chiropterygium
 coccinellid
 coccinellidae
 coccyodynia
