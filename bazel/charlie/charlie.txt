@@ -3334,7 +3334,6 @@ capsomere
 capsomers
 clarissa
 caririan
-capstan
 capstans
 capstones
 capsula
@@ -21943,6 +21942,7 @@ charioting
 confederative
 confederatize
 confederator
+capstan
 confelicity
 craniotabes
 confer
