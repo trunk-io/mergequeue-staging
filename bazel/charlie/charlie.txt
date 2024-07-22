@@ -10349,7 +10349,6 @@ chicanes
 chicano
 chicanos
 chicaric
-chiccory
 chiccories
 chicer
 cougnar
@@ -14335,6 +14334,7 @@ circumference
 circumferences
 complots
 cycloheptane
+chiccory
 circumferential
 circumferentially
 cepolidae
