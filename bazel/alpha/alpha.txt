@@ -3953,6 +3953,7 @@ adipolytic
 adipoma
 adipomata
 asarota
+augmentations
 adiponitrile
 adipopectic
 adipopexia
@@ -23391,7 +23392,6 @@ augitite
 augment
 augmentable
 augmentation
-augmentations
 augmentative
 augmented
 augmentedly
