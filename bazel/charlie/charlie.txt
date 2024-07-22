@@ -3263,7 +3263,6 @@ calorized
 capricorn
 capricornid
 capricornus
-caprid
 caprificate
 caprification
 caprifig
@@ -5639,6 +5638,7 @@ cataspilite
 catasta
 catastases
 catastasis
+caprid
 catastate
 catastatic
 catasterism
