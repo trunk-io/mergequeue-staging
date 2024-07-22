@@ -8994,7 +8994,6 @@ carniferrin
 copyfitting
 colzas
 chard
-chards
 chiliadal
 chare
 crystallophobia
@@ -13616,6 +13615,7 @@ cylindrocellular
 cylindrocephalic
 cylindrocylindric
 cylindroconoidal
+chards
 coloraturas
 cylindrodendrite
 cylindrograph
