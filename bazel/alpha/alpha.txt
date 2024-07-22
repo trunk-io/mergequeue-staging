@@ -5087,7 +5087,6 @@ amphophilic
 aerometer
 acardia
 anolytes
-aerometric
 aeromotor
 aeron
 arariba
@@ -18495,6 +18494,7 @@ arawa
 arawak
 athapaskan
 arawakian
+aerometric
 adversifoliate
 arb
 arba
