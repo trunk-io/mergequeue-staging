@@ -3426,6 +3426,7 @@ embitterer
 embitterments
 embitters
 electromotor
+esd
 emblanch
 exterminator
 emblazed
@@ -9610,7 +9611,6 @@ extremital
 escutcheons
 escutellate
 eugenesis
-esd
 effluve
 excogitated
 eccentrate
