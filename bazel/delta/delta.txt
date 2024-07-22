@@ -15360,6 +15360,7 @@ domicella
 domicil
 domicile
 domiciled
+depreciator
 domicilement
 domiciles
 domiciliar
@@ -18463,7 +18464,6 @@ durene
 durenol
 dureresque
 duress
-depreciator
 duresses
 deadline
 desmodynia
