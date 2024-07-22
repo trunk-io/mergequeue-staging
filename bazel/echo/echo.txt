@@ -3371,7 +3371,6 @@ epiclidal
 embelif
 eldritch
 embelin
-embellish
 extendlessness
 embellisher
 epigrammatise
@@ -11872,6 +11871,7 @@ exasperater
 exasperates
 entericoid
 exasperatingly
+embellish
 extort
 epharmony
 exaudi

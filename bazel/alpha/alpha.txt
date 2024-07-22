@@ -12523,7 +12523,6 @@ anthocephalous
 apostrophizing
 androscoggin
 alacran
-androsin
 androsphinges
 androsphinx
 androsphinxes
@@ -16062,6 +16061,7 @@ attributives
 antiquist
 antiquitarian
 antiquum
+androsin
 adularia
 antirabies
 antiracemate
