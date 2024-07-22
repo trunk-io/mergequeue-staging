@@ -881,7 +881,6 @@ gauby
 grimly
 gibbetwise
 gameful
-gamey
 guaiaretic
 gamekeeper
 gamekeepers
@@ -9426,6 +9425,7 @@ groundage
 goosishly
 groundbird
 grounded
+gamey
 groundenell
 grounder
 groundhog
