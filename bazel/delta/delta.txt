@@ -11219,7 +11219,6 @@ designators
 dult
 disbark
 doorframe
-disbarments
 disbarred
 decolourised
 dipolarize
@@ -18140,6 +18139,7 @@ dumortierite
 dumosity
 dump
 dumpage
+disbarments
 dactylopius
 dumpcart
 dumpcarts
