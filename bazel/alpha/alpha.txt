@@ -2712,7 +2712,6 @@ aceship
 acounter
 acouometer
 acouophonia
-acoup
 acoupa
 archmachine
 acoupe
@@ -11870,6 +11869,7 @@ anatoly
 anamneses
 albertinian
 anamnestic
+acoup
 anamniata
 antiboxing
 anamnionata
