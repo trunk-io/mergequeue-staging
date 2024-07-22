@@ -5798,7 +5798,6 @@ barat
 bellote
 bellovaci
 boxcar
-bellow
 bellowers
 bellowsful
 bellowslike
@@ -11051,6 +11050,7 @@ bloodlusting
 bannerlike
 bedazzles
 backfall
+bellow
 brawly
 busybody
 bertholletia
