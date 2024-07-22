@@ -7013,7 +7013,6 @@ centaurid
 centauridium
 centauries
 centaurium
-cnidophore
 centauromachy
 cuke
 centauromachia
@@ -13435,6 +13434,7 @@ cyclorrhaphous
 cycloscope
 cyclose
 cycloses
+cnidophore
 cyclosilicate
 cyclospermous
 cyclospondyli
