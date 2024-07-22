@@ -3813,7 +3813,6 @@ fundament
 focus
 finalities
 finalization
-finalized
 fez
 finalizes
 fraternized
@@ -4979,6 +4978,7 @@ flashbulb
 flashcube
 flashcubes
 fiascoes
+finalized
 flashed
 flasher
 ferritin
