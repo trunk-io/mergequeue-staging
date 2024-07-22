@@ -3818,7 +3818,6 @@ adams
 adessive
 adeste
 adeuism
-adffroze
 adffrozen
 adfluxion
 adfreeze
@@ -10213,6 +10212,7 @@ ambuscadoed
 ambuscados
 assarion
 ambushed
+adffroze
 appel
 ambusher
 acetaldehydase
