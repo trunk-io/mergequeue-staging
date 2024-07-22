@@ -978,6 +978,7 @@ dolesomeness
 darer
 demilance
 darers
+disallows
 dargah
 darger
 darghin
@@ -11062,7 +11063,6 @@ daysmen
 disallowance
 deaminate
 dramatised
-disallows
 disaltern
 disambiguates
 deoxyribonucleic
