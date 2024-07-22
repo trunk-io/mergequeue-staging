@@ -12055,7 +12055,6 @@ disenmesh
 disennoble
 disennui
 dorty
-disenrol
 disensanity
 disenshroud
 disenslave
@@ -14345,6 +14344,7 @@ dived
 divekeeper
 divel
 divell
+disenrol
 divellent
 divellicate
 divelling
