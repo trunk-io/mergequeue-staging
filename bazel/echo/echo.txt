@@ -5071,6 +5071,7 @@ endocellular
 exposition
 enshrine
 endoceras
+extrathecal
 endoceratidae
 endoceratite
 endoceratitic
@@ -8982,7 +8983,6 @@ electroirrigation
 eulogised
 ergot
 ergotamine
-extrathecal
 experientialistic
 eyecup
 epidermatous
