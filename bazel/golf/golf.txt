@@ -1136,7 +1136,6 @@ gangplanks
 gelatia
 gangplow
 gastrodisc
-gangrenate
 gangrene
 gangrenes
 gurt
@@ -9787,6 +9786,7 @@ glistening
 guaguanche
 guayabera
 glyoxaline
+gangrenate
 ginghamed
 guayabi
 guayabo
