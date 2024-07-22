@@ -5928,6 +5928,7 @@ albacore
 anhydroglocose
 agastric
 axil
+autodiagnostic
 aggregates
 afright
 adenyls
@@ -24029,7 +24030,6 @@ autodermic
 autodestruction
 analcimes
 autodetector
-autodiagnostic
 autodiagrammatic
 arrhythmically
 autodial
