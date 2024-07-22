@@ -15975,7 +15975,6 @@ cleidagra
 cleidarthritis
 cleidocranial
 cleidohyoid
-cleidoic
 cleidomancy
 cleidomastoid
 cleidorrhexis
@@ -29943,6 +29942,7 @@ crosstown
 crosstrack
 crosstree
 crossway
+cleidoic
 crossways
 crosswalk
 crosswalks
