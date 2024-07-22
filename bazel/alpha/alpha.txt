@@ -4318,6 +4318,7 @@ adoptee
 adoptees
 adopter
 adoptian
+ammonified
 adoptianist
 adopting
 adoption
@@ -13280,7 +13281,6 @@ axmaker
 animation
 animations
 animatist
-ammonified
 animatistic
 apagogical
 afterburners
