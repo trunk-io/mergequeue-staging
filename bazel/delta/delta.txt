@@ -365,7 +365,6 @@ daygoing
 dialkyl
 daijo
 daiker
-daikers
 daikon
 dail
 diaphony
@@ -4124,6 +4123,7 @@ delimitize
 doombook
 delimitizing
 delimits
+daikers
 delineament
 deblocked
 danelaw

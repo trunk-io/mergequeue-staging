@@ -8219,7 +8219,6 @@ epistatic
 eightsmen
 epistaxis
 episteme
-ekoi
 epistemic
 epistemically
 epistemolog
@@ -12042,6 +12041,7 @@ excited
 excitedly
 excitedness
 entogenous
+ekoi
 exciter
 exciters
 exciting
