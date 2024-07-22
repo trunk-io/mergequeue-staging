@@ -1158,7 +1158,6 @@ doggy
 distorters
 dashpots
 dasi
-dasya
 dasyatidae
 diable
 dryopteroid
@@ -8561,6 +8560,7 @@ diaphane
 dethrone
 diaphanometry
 diaphanometric
+dasya
 dirties
 diaphanotype
 denarcotize
