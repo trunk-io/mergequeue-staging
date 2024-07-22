@@ -1987,7 +1987,6 @@ dekalitre
 decay
 dispread
 decayedness
-duodecimfid
 decayers
 diarial
 decaying
@@ -4552,6 +4551,7 @@ demihagbut
 deairing
 demihague
 demihake
+duodecimfid
 danubian
 didinium
 danube
