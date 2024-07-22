@@ -4103,7 +4103,6 @@ cardroom
 cards
 clearwing
 cardsharp
-cardsharper
 cardsharping
 cardstock
 carduaceae
@@ -28648,6 +28647,7 @@ cremaster
 cremasterial
 cooperage
 cremasteric
+cardsharper
 cremate
 cremated
 cremates
