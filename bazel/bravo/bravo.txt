@@ -4138,7 +4138,6 @@ beastliest
 beastlike
 beastlily
 beastliness
-beastling
 beastlings
 beastman
 beasts
@@ -11711,6 +11710,7 @@ beewort
 batboys
 bockey
 bardiness
+beastling
 bkpt
 backwrap
 bocking
