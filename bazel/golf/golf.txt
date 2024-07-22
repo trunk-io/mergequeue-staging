@@ -2968,7 +2968,6 @@ gents
 genu
 genual
 genuflect
-gonophore
 genuflection
 genuflector
 genuflex
@@ -6326,6 +6325,7 @@ glacis
 gladnesses
 gneissy
 garau
+gonophore
 gneissose
 gnetaceae
 gnetaceous
