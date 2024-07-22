@@ -15298,6 +15298,7 @@ contreface
 claimed
 claiming
 claimless
+coronadite
 claymore
 cyanoplatinite
 claims
@@ -25555,7 +25556,6 @@ corona
 coronach
 coronachs
 coronad
-coronadite
 coronado
 coronados
 coronae
