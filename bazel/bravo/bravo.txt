@@ -17423,6 +17423,7 @@ bartramian
 bunking
 breathes
 boxtop
+bursa
 bunkload
 bunkmate
 bunkmates
@@ -17856,7 +17857,6 @@ biclinium
 burrstone
 berberine
 burs
-bursa
 bursar
 bursary
 bursaries
