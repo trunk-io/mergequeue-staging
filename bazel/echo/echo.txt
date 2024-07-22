@@ -6852,7 +6852,6 @@ entombs
 entomere
 entomic
 entomical
-enzymatic
 encarditis
 exasperation
 emrode
@@ -13489,6 +13488,7 @@ enomotarch
 exsiccate
 exsiccated
 exsiccating
+enzymatic
 eluvial
 erinnic
 exsiccative
