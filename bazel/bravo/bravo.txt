@@ -1410,6 +1410,7 @@ baldfaced
 bemire
 baldhead
 baldheaded
+brickel
 baldheads
 baldy
 baldish
@@ -15122,7 +15123,6 @@ brickbatted
 brickbatting
 bricked
 bootblacks
-brickel
 bricken
 brickfield
 bearwoods
