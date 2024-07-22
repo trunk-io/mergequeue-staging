@@ -21424,6 +21424,7 @@ cosignatories
 concyclically
 concierge
 concierges
+cryptonema
 concile
 conciliable
 centremost
@@ -29374,7 +29375,6 @@ crepehanger
 cryptomonad
 cryptomonadales
 cryptomonadina
-cryptonema
 chufa
 cryptoneurous
 cryptonymic

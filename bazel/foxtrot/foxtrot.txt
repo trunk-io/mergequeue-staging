@@ -5584,7 +5584,6 @@ factice
 flinchingly
 flindersia
 flinger
-furole
 flatcaps
 flingers
 featherworker
@@ -7667,6 +7666,7 @@ foredates
 foregone
 flaperon
 foreground
+furole
 foregrounds
 foreguess
 foregut
