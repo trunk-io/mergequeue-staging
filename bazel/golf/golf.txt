@@ -2203,6 +2203,7 @@ gears
 gearset
 gearshift
 gearshifts
+goaltenders
 genethliacally
 gastornithidae
 glaringness
@@ -6415,7 +6416,6 @@ gillyflower
 guitarists
 goalpost
 goals
-goaltenders
 goan
 gl
 gymnarchus
