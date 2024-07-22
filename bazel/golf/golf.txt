@@ -3717,7 +3717,6 @@ getmesost
 gumwood
 getmjlkost
 gummaker
-goshenite
 grottesco
 glossopalatinus
 grooveless
@@ -4053,6 +4052,7 @@ gigameter
 gigantal
 gigantean
 gilled
+goshenite
 gigantesque
 gluma
 galee
