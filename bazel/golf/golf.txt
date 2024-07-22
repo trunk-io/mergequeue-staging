@@ -1443,7 +1443,6 @@ garnetter
 glitter
 garniec
 garnierite
-garnishable
 garnished
 garnishee
 garnishees
@@ -8825,6 +8824,7 @@ gremlin
 gremlins
 gremmy
 gremmies
+garnishable
 guffy
 grenadier
 grapsoid
