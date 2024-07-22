@@ -1109,6 +1109,7 @@ edificial
 edificing
 edified
 exopt
+ephoric
 edictal
 edifiers
 edifying
@@ -7506,7 +7507,6 @@ ephoralty
 ephorate
 emandibulate
 ephori
-ephoric
 ephors
 ephphatha
 ephraim
