@@ -1462,7 +1462,6 @@ frees
 fattrels
 forehold
 fatuities
-feoffees
 foveiform
 fellatrix
 frenzy
@@ -10639,6 +10638,7 @@ floccular
 frugivora
 ferrimagnetic
 frugivorous
+feoffees
 frugs
 folletto
 flushermen
