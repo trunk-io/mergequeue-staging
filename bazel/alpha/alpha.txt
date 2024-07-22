@@ -9525,7 +9525,6 @@ alternisepalous
 alternity
 altesse
 alteza
-althaeas
 althaein
 altheas
 althein
@@ -14876,6 +14875,7 @@ antibubonic
 antiburgher
 antibusing
 antic
+althaeas
 apeek
 antica
 anticachectic
