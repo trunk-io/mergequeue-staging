@@ -2033,6 +2033,7 @@ fellable
 full
 felinity
 flocoon
+froggy
 fellowshipped
 fricandeaus
 fellah
@@ -10298,7 +10299,6 @@ featherbedding
 fancify
 forboded
 frogger
-froggy
 froggies
 froggiest
 furfuramide
