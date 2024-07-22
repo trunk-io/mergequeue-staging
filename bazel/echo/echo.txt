@@ -1024,7 +1024,6 @@ edaphon
 endoplastron
 edaphosaurus
 edda
-eddaic
 eddy
 eves
 eddied
@@ -13400,6 +13399,7 @@ expulsatory
 enrooting
 expulse
 expulser
+eddaic
 erected
 expulses
 expulsion
