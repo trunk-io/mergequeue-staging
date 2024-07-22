@@ -2558,6 +2558,7 @@ decoic
 decoyer
 dud
 decoyers
+daunder
 decoying
 decoyman
 decoll
@@ -16053,7 +16054,6 @@ doubleness
 declarations
 doubleprecision
 doubler
-daunder
 doublers
 doubles
 doublets
