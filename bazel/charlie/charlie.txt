@@ -10076,7 +10076,6 @@ cherimolla
 cherish
 cherishable
 cherished
-cherisher
 cherishes
 cherishingly
 cherishment
@@ -18601,6 +18600,7 @@ ceruloplasmin
 coilability
 contraindicates
 coyly
+cherisher
 coilyear
 coiling
 crump
