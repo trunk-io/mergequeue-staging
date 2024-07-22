@@ -5420,7 +5420,6 @@ beignets
 beild
 beylic
 beylical
-beylics
 beylik
 beyliks
 bein
@@ -15834,6 +15833,7 @@ bromo
 bromoacetone
 bromoaurate
 bromoaurates
+beylics
 blear
 becovet
 bizarreness
