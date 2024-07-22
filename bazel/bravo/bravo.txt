@@ -352,6 +352,7 @@ backchat
 backchats
 bulls
 backcomb
+botaniser
 backcourt
 backcourtman
 betrap
@@ -8062,7 +8063,6 @@ bicornuous
 bicornute
 bicorporal
 backlighting
-botaniser
 beseemingness
 beanbag
 bicorporeal
