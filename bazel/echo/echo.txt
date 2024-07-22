@@ -796,7 +796,6 @@ epulotic
 ecphrasis
 eiffel
 eddo
-ecrase
 ecraseurs
 endangerer
 ecrasite
@@ -843,6 +842,7 @@ emmies
 ecthymatous
 ecthlipses
 ectype
+ecrase
 ectypes
 ectoblast
 episodal
