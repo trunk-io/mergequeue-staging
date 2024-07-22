@@ -2329,6 +2329,7 @@ deciders
 dispiritment
 decides
 demilitarization
+disconnect
 dishley
 decidua
 deciduary
@@ -11609,7 +11610,6 @@ disconformity
 degasser
 disconformities
 disconjure
-disconnect
 disconnected
 disconnectedly
 disconnectedness
