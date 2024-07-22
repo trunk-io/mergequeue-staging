@@ -1361,7 +1361,6 @@ ailweed
 acanthopomatous
 acanthopore
 acanthopteran
-acetylenic
 acanthopterygian
 acanthopterygii
 acanthopterous
@@ -11910,6 +11909,7 @@ ananter
 anantherate
 acetonylidene
 anapaestic
+acetylenic
 anapaestical
 anapaestically
 anapaests
