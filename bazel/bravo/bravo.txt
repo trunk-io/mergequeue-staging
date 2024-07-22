@@ -6350,7 +6350,6 @@ benzyl
 benzylamine
 benzilic
 benzylidene
-benzylpenicillin
 benziminazole
 benzin
 benzinduline
@@ -10210,6 +10209,7 @@ bladewise
 bookbinding
 blading
 blae
+benzylpenicillin
 blaeberries
 bobeche
 blaewort
