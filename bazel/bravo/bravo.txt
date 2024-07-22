@@ -13564,6 +13564,7 @@ bourdis
 bourdon
 bourg
 bourgeois
+barrelfish
 bourgeoisie
 bobs
 brashness
@@ -15632,7 +15633,6 @@ broadsides
 broadspread
 bellyfish
 broadsword
-barrelfish
 ballyrags
 bluesman
 boolies
