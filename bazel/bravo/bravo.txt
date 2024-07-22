@@ -3713,7 +3713,6 @@ bilking
 behaviors
 batter
 batterdock
-bombard
 battered
 batterer
 battery
@@ -10245,6 +10244,7 @@ blamelessly
 blamer
 blamers
 blames
+bombard
 blameworthy
 blaming
 beode
