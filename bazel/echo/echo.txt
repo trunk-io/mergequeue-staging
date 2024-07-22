@@ -2087,6 +2087,7 @@ elaphodus
 elaphomycetaceae
 elaphrium
 elaphure
+exploitee
 encrinoidea
 echinorhynchus
 elaphurine
@@ -13236,7 +13237,6 @@ evasible
 exploitage
 exploitatively
 exploited
-exploitee
 emerited
 exploitive
 exploits
