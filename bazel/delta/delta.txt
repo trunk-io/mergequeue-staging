@@ -224,6 +224,7 @@ daemons
 dandle
 daeva
 daff
+directorates
 daffadilly
 daffadillies
 daffadowndilly
@@ -10873,7 +10874,6 @@ directorate
 della
 dioscuri
 dolphinlike
-directorates
 disfigurer
 directory
 dumbwaiter
