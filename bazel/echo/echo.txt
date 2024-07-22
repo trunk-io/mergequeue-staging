@@ -8712,7 +8712,6 @@ equipments
 equipoise
 equipoised
 equipoising
-equipollence
 equipollency
 edam
 enlaced
@@ -9823,6 +9822,7 @@ esrogim
 esrogs
 essay
 essayed
+equipollence
 endokaryogamy
 essayer
 essayers
