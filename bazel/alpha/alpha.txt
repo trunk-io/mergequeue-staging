@@ -22671,7 +22671,6 @@ athwart
 athwarthawse
 athwartship
 athwartships
-athwartwise
 arhar
 atikokania
 atilt
@@ -24503,6 +24502,7 @@ autovalet
 autovalve
 autovivisection
 autoxeny
+athwartwise
 autoxidation
 aberrometer
 autoxidator
