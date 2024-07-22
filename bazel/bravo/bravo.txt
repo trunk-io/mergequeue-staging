@@ -3888,7 +3888,6 @@ brevilingual
 bazigar
 boltrope
 bazoo
-bazooka
 bazookaman
 bazookamen
 bazzite
@@ -10102,6 +10101,7 @@ blackguards
 benedicts
 blackgums
 bayadeer
+bazooka
 boating
 blackheads
 blackheart
