@@ -1405,6 +1405,7 @@ fleme
 finickier
 fatiguable
 fatigue
+fallibleness
 fingerhook
 fario
 formicina
@@ -1487,7 +1488,6 @@ fauchards
 fluters
 frow
 festinated
-fallibleness
 foxie
 fauconnier
 faujasite

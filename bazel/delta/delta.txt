@@ -12431,7 +12431,6 @@ dishumour
 dishware
 debunk
 dishwares
-dishwash
 diplocephalous
 dishwasher
 dauts
@@ -15161,6 +15160,7 @@ dewatering
 dolerin
 drydenian
 dolerites
+dishwash
 dolerophanite
 delitescent
 derisions
