@@ -2810,7 +2810,6 @@ gaolers
 grisset
 grasps
 genitor
-genitory
 genitorial
 genitors
 genitourinary
@@ -10440,6 +10439,7 @@ garbing
 governorate
 goblinesque
 gismos
+genitory
 gummose
 gumbolike
 gassing
