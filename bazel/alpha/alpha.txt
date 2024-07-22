@@ -20548,7 +20548,6 @@ auroauric
 arterionecrosis
 arteriopathy
 arterioplania
-arterioplasty
 atrichic
 arteriopressor
 arteriorrhaphy
@@ -24432,6 +24431,7 @@ autospray
 autostability
 autostarter
 autostethoscope
+arterioplasty
 autostyly
 autostylic
 autostylism
