@@ -2684,7 +2684,6 @@ elegises
 epigraph
 electrepeter
 enlinkment
-elegist
 elegists
 elegit
 ethmoiditis
@@ -9472,6 +9471,7 @@ escapeful
 entireness
 escapeless
 electuaries
+elegist
 esophagoplication
 escapement
 ebenaceous
