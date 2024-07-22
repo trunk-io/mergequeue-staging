@@ -7488,6 +7488,7 @@ ceratodidae
 ceratodus
 ceratoduses
 ceratoglossal
+candied
 citharista
 claqueur
 ceratoglossus
@@ -30472,7 +30473,6 @@ cube
 cubebs
 cubed
 cubehead
-candied
 choultry
 cubelium
 cubers
