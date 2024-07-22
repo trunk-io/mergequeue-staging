@@ -4943,7 +4943,6 @@ flapless
 ferrite
 flapmouthed
 flappable
-flightworthy
 flapper
 flapperish
 foolery
@@ -6684,6 +6683,7 @@ fodgel
 fodient
 foe
 fustiest
+flightworthy
 frangibility
 firmarius
 fudder
