@@ -6321,6 +6321,7 @@ gnawing
 gelatinobromide
 gnawings
 gnaws
+graf
 glacis
 gladnesses
 gneissy
@@ -8411,7 +8412,6 @@ greyfish
 globs
 graustark
 grav
-graf
 galvanization
 gravamem
 ganodonta
