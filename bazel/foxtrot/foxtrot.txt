@@ -4165,7 +4165,6 @@ forfaulture
 fireplow
 fireplug
 faradizer
-fireproofed
 fireproofing
 fireroom
 firerooms
@@ -10748,6 +10747,7 @@ flashness
 frustulum
 frustum
 frustums
+fireproofed
 frutage
 frutescence
 fluviovolcanic
