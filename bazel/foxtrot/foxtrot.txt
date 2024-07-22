@@ -4910,7 +4910,6 @@ flanking
 flankwise
 flannelboard
 flannelbush
-flanneled
 flanneling
 flannelleaf
 fantasias
@@ -6479,6 +6478,7 @@ fico
 fluoroscopy
 feasant
 falconinae
+flanneled
 focuser
 flabellinerved
 fluoroscopic
