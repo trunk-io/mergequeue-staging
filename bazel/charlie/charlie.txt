@@ -4393,7 +4393,6 @@ carmot
 capitaling
 carn
 carnac
-carnacian
 carnage
 carnages
 carnal
@@ -6732,6 +6731,7 @@ celiotomies
 celite
 cell
 cella
+carnacian
 cellager
 cellar
 contemned
