@@ -4639,7 +4639,6 @@ eucleidae
 enchest
 enchilada
 enchylema
-enchylematous
 enlief
 eburneous
 extramedullary
@@ -10969,6 +10968,7 @@ edgerman
 euphemistically
 ennobles
 encephalomyelopathy
+enchylematous
 euphemized
 euphemizer
 euphemous
