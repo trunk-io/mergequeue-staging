@@ -1416,7 +1416,6 @@ callboys
 champion
 called
 caller
-callers
 callets
 calli
 callianassidae
@@ -14871,6 +14870,7 @@ citylike
 chiselers
 cityness
 cabbling
+callers
 citing
 cytinus
 corbels
