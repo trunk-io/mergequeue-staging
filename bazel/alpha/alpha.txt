@@ -5970,6 +5970,7 @@ arguers
 arkosic
 agaves
 admiralships
+autopepsia
 agaze
 agazed
 agba
@@ -24295,7 +24296,6 @@ autopathic
 avails
 autopathography
 autopelagic
-autopepsia
 autophagy
 autophagia
 autophagous
