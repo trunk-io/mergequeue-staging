@@ -507,7 +507,6 @@ abiston
 abit
 abjectedness
 abjection
-abjective
 abjectness
 abjoint
 abjudged
@@ -10848,6 +10847,7 @@ ammoniuria
 ammonization
 ammono
 ammonobasic
+abjective
 ammonocarbonic
 ammonocarbonous
 ammonoid
