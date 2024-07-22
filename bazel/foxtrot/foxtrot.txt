@@ -5674,7 +5674,6 @@ feeblish
 formulization
 flyswatter
 flitch
-flitched
 flitchen
 flitchplate
 francophile
@@ -10481,6 +10480,7 @@ flickers
 fordable
 fastest
 flamers
+flitched
 fadging
 frostier
 foamers
