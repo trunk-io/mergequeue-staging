@@ -3950,7 +3950,6 @@ adipofibroma
 adipogenic
 adipogenous
 adipoid
-adipolysis
 assistency
 adipolytic
 adipoma
@@ -8764,6 +8763,7 @@ ally
 arithmeticians
 alliable
 alliaceae
+adipolysis
 antiperistatically
 alliaceous
 alliage
