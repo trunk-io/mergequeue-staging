@@ -15988,7 +15988,6 @@ cephalalgy
 cleistotcia
 caused
 cleistothecium
-circumpolygon
 cleithral
 cleithrum
 clem
@@ -16306,6 +16305,7 @@ corone
 clinkering
 clinks
 clinkstone
+circumpolygon
 coffeepot
 clinkum
 clinocephaly
