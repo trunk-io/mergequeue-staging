@@ -1893,7 +1893,6 @@ banca
 blanchers
 bancha
 bancos
-bancus
 band
 bandaged
 baragouinish
@@ -4680,6 +4679,7 @@ brigantia
 ba
 bedims
 ballyhooing
+bancus
 bedip
 braggadocianism
 berther

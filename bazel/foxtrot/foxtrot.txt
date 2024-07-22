@@ -1307,6 +1307,7 @@ fat
 fatagaga
 fatale
 fatales
+flype
 felonous
 factorist
 flustrated
@@ -5622,7 +5623,6 @@ ferns
 fixedly
 flypasts
 flipe
-flype
 foredeep
 formidableness
 fconv
