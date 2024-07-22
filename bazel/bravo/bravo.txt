@@ -4122,6 +4122,7 @@ bellower
 bearnaise
 bearpaw
 bearskin
+bespeckled
 bearward
 bearwood
 brilliants
@@ -7074,7 +7075,6 @@ blague
 bespeaks
 bespecked
 brooklyn
-bespeckled
 bespectacled
 besped
 bespeech
