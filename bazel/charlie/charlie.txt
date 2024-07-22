@@ -10901,7 +10901,6 @@ chiot
 chiotilla
 chip
 commercialist
-chipboard
 chipchap
 chipchop
 chipewyan
@@ -12414,6 +12413,7 @@ christos
 christs
 christward
 chroma
+chipboard
 chromaffin
 chromaffinic
 chromamamin
