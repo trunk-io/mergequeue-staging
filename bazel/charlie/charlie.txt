@@ -3012,6 +3012,7 @@ capelin
 capeline
 capelins
 capella
+clouds
 capellane
 capelline
 claimsmen
@@ -16826,7 +16827,6 @@ cloudlike
 cloudling
 cloudology
 cupseed
-clouds
 cloudscape
 creates
 cloudship
