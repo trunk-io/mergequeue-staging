@@ -12015,7 +12015,6 @@ exciple
 epibole
 exciples
 excipulaceae
-excipule
 excipuliform
 exulceratory
 excircle
@@ -12629,6 +12628,7 @@ exobiology
 exobiologist
 exobiologists
 encephalon
+excipule
 encyclicals
 exocardia
 ejected
