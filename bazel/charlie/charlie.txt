@@ -2996,7 +2996,6 @@ capacities
 capanne
 cystolithectomy
 camelopards
-caparison
 callouses
 claught
 caparisoned
@@ -26419,6 +26418,7 @@ cothurnal
 cothurnate
 cothurned
 cothurni
+caparison
 cothurnian
 chopines
 cothurnni
