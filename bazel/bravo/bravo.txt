@@ -1924,6 +1924,7 @@ bandel
 bandelet
 bandelette
 beanies
+bardism
 bander
 banderilla
 banderilleros
@@ -2490,7 +2491,6 @@ bardiglio
 barding
 bardings
 bardish
-bardism
 bardlet
 bardlike
 bardling

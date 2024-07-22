@@ -5124,7 +5124,6 @@ electrolysis
 endocrinous
 endocritic
 endoderm
-escheat
 eudaemonistically
 encodement
 endodermal
@@ -11679,6 +11678,7 @@ evolutionistic
 evolutionists
 evolutionize
 extorted
+escheat
 eupepsy
 enjoinment
 evolutive
