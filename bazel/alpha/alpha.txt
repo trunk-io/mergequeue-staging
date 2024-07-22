@@ -10014,7 +10014,6 @@ ambidexterities
 ambidexterous
 antineutrons
 ambidextrous
-ambidextrously
 ambience
 ambiences
 ambiency
@@ -10386,6 +10385,7 @@ amess
 ametaboly
 adipopexis
 absis
+ambidextrously
 ametabolia
 ametabolic
 ametabolous
