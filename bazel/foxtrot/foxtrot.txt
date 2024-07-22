@@ -3180,7 +3180,6 @@ flags
 fiddlerfishes
 flirtish
 flauntily
-fiddlestick
 fiddlesticks
 foreallot
 fubbery
@@ -4543,6 +4542,7 @@ forbiddingness
 fivebar
 fivefold
 fiveling
+fiddlestick
 forwardation
 fierte
 fivepins
