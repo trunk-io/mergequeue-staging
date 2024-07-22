@@ -2007,6 +2007,7 @@ bandos
 badmouthed
 bandpass
 bandrol
+brisling
 brachyura
 bandsaw
 bandsawed
@@ -15497,7 +15498,6 @@ briskish
 beano
 briskly
 buzzer
-brisling
 brislings
 batophobia
 bismuthous
