@@ -7837,7 +7837,6 @@ casa
 ceruminiferous
 cerumniparous
 ceruse
-ceruses
 cerusite
 cerusites
 cervalet
@@ -23177,6 +23176,7 @@ cowgate
 constables
 constableship
 consecratedness
+ceruses
 constablewick
 constabular
 conchae
