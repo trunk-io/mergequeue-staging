@@ -9345,7 +9345,6 @@ cautivo
 chattelship
 chatter
 cerned
-chatterbag
 chatterbox
 chatterer
 chattering
@@ -30992,6 +30991,7 @@ cumulostratus
 cumulous
 cumulus
 cun
+chatterbag
 crockeryware
 churchified
 countersiege
