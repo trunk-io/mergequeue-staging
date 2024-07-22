@@ -4059,7 +4059,6 @@ fumbulator
 fiques
 firbolg
 frimaire
-firca
 fyrd
 fortyfold
 furazane
@@ -7646,6 +7645,7 @@ forefingers
 fuchsine
 fencepost
 feedsman
+firca
 foreflap
 finnish
 fangot
