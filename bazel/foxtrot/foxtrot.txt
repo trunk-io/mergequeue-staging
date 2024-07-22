@@ -4828,7 +4828,6 @@ farthest
 flameless
 flamelike
 fellowess
-foelike
 flamen
 formicidae
 flamenco
@@ -8429,6 +8428,7 @@ formicated
 fragments
 fishing
 fluffy
+foelike
 frithwork
 formicating
 forbiddingly
