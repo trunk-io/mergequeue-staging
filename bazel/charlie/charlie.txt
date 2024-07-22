@@ -7850,6 +7850,7 @@ cartful
 cerviciplex
 cervicispinal
 cervicoaxillary
+circumducing
 cervicobasilar
 cervicobregmatic
 cervicodorsal
@@ -14321,7 +14322,6 @@ circumdate
 circumdenudation
 circumdiction
 circumduce
-circumducing
 circumduct
 circumduction
 circumesophagal
