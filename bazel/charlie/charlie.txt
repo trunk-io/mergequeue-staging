@@ -2100,7 +2100,6 @@ cognitives
 campodean
 campodeid
 campodeidae
-campodeiform
 campodeoid
 chelatable
 counterstatant
@@ -4520,6 +4519,7 @@ costusroot
 caroon
 carosella
 carosse
+campodeiform
 carot
 caramelizing
 caroteel
