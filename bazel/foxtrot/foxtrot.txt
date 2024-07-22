@@ -1585,7 +1585,6 @@ fictionised
 foretopman
 flappet
 foretackle
-foretype
 fascists
 favillae
 fustle
@@ -5892,6 +5891,7 @@ flook
 floorages
 foveated
 fala
+foretype
 fluminous
 floorer
 facsimile
