@@ -3147,7 +3147,6 @@ endothorax
 eluent
 exhaling
 eluents
-excression
 enterological
 elusions
 effeteness
@@ -13798,6 +13797,7 @@ extracosmic
 embosture
 extracosmical
 extracostal
+excression
 explicating
 extract
 extractability
