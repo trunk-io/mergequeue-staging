@@ -6749,6 +6749,7 @@ aigialosaur
 aigialosauridae
 auditioned
 arboriculturist
+alphas
 aigialosaurus
 aiglet
 aiglets
@@ -9379,7 +9380,6 @@ anomalure
 alphanumerically
 alphanumerics
 alphard
-alphas
 alphatoluic
 alphean
 alphecca
