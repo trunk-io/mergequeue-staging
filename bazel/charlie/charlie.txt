@@ -15239,7 +15239,6 @@ clad
 cladanthous
 cladding
 cacoenthes
-cypridinoid
 conducta
 clade
 cladine
@@ -16543,6 +16542,7 @@ clobbered
 clobberer
 clobbers
 counterlocking
+cypridinoid
 cloche
 cabdriver
 clockbird

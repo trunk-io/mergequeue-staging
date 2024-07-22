@@ -2351,6 +2351,7 @@ bastilles
 bandanas
 barbastelle
 blackbrush
+basidiocarp
 bitterbur
 barbate
 barbated
@@ -17367,7 +17368,6 @@ beltane
 boned
 braggery
 breakless
-basidiocarp
 bunga
 bungaloid
 bungalow
