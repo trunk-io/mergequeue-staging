@@ -4044,6 +4044,7 @@ galline
 giga
 gigabyte
 gigabytes
+glycyrrhizin
 gigacycle
 gigahertz
 gigameter
@@ -5460,7 +5461,6 @@ glycinin
 glycins
 glycyrrhiza
 gipsyry
-glycyrrhizin
 groundman
 garvey
 gouging
