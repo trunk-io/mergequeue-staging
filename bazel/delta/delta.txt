@@ -9649,7 +9649,6 @@ dihedron
 dihely
 dihelios
 dihelium
-dihexahedral
 dihexahedron
 dolichuric
 dilater
@@ -17886,6 +17885,7 @@ duddy
 denotive
 duddie
 dudeens
+dihexahedral
 drogues
 dryers
 dudes
