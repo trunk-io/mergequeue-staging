@@ -2964,7 +2964,6 @@ barred
 brutification
 barrel
 barreled
-bowmaker
 barreleyes
 barreler
 barrelful
@@ -10512,6 +10511,7 @@ bestridden
 blattoid
 balneal
 blaubok
+bowmaker
 blaugas
 bedin
 beshlik
