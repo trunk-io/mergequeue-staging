@@ -997,7 +997,6 @@ consummation
 calcaneoastragalar
 calcaneoastragaloid
 calcaneocuboid
-calcaneonavicular
 calcaneoplantar
 countersale
 calcaneotibial
@@ -22357,6 +22356,7 @@ congos
 carceral
 congou
 congous
+calcaneonavicular
 congrats
 clubhaul
 corallinaceous
