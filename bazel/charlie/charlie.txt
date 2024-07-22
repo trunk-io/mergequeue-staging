@@ -10254,7 +10254,6 @@ chevrotain
 chevvy
 coolheadedness
 chew
-chewable
 chewbark
 calcareoargillaceous
 cobloaf
@@ -30337,6 +30336,7 @@ crustation
 crusted
 cruster
 crusty
+chewable
 crustier
 crustific
 crustification
