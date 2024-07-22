@@ -4054,7 +4054,6 @@ frameable
 fique
 fumbulator
 fiques
-fadeless
 firbolg
 frimaire
 firca
@@ -9072,6 +9071,7 @@ faitour
 fowent
 flashover
 fash
+fadeless
 frostbird
 fowled
 forrit
