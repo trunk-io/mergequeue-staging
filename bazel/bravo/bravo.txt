@@ -4550,6 +4550,7 @@ bedaubing
 bedaubs
 bedlike
 bedawee
+biostatic
 bockerel
 bridaler
 bernard
@@ -9160,7 +9161,6 @@ batzen
 barff
 biosphere
 babs
-biostatic
 biostatistics
 biosterin
 bletting
