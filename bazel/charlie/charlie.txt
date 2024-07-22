@@ -3727,6 +3727,7 @@ carbonyls
 carbonimeter
 construction
 carbonimide
+chronosemic
 carbonisable
 carbonisation
 carbonised
@@ -18541,7 +18542,6 @@ cohos
 cohosh
 consigner
 cohoshes
-chronosemic
 copartiment
 cohosted
 codecs
