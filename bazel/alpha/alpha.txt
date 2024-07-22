@@ -6982,7 +6982,6 @@ airlike
 airline
 acidophilus
 airliner
-airliners
 airlocks
 antitradition
 airmailed
@@ -21332,6 +21331,7 @@ askip
 askoi
 askos
 aslake
+airliners
 aslantwise
 aslaver
 aortectasis
