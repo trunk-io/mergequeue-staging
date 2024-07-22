@@ -6477,6 +6477,7 @@ glenoid
 gobelin
 gaut
 gooey
+geocentrical
 gobemouche
 gobet
 glow
@@ -9695,7 +9696,6 @@ grummet
 grumness
 grumose
 grumous
-geocentrical
 geopotential
 grump
 grumphy
