@@ -2843,7 +2843,6 @@ baronetise
 boyar
 benzpinacone
 bradytocia
-baronetised
 baronetising
 baronetized
 baronetizing
@@ -17108,6 +17107,7 @@ bullhoof
 bullhorns
 bullyable
 bullyboy
+baronetised
 bullyboys
 bullidae
 becrawls
