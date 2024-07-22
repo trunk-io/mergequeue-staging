@@ -1523,6 +1523,7 @@ deadener
 dotations
 deadening
 deadeningly
+deserter
 drillmaster
 deadest
 deadfall
@@ -6625,7 +6626,6 @@ desert
 desiccation
 deserted
 desertedly
-deserter
 deserters
 dishtowel
 desertful
