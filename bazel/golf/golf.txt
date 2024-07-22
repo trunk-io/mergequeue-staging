@@ -1909,6 +1909,7 @@ genethliac
 gather
 gatherable
 guyers
+gramoches
 gathered
 gatherer
 gatherers
@@ -7847,7 +7848,6 @@ grammatite
 graysbies
 grammatophyllum
 grammies
-gramoches
 geocentrically
 gramophonic
 grails
