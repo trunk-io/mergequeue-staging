@@ -5037,6 +5037,7 @@ dislikelihood
 denaturants
 denaturation
 denaturational
+deporte
 discure
 denature
 denatured
@@ -7727,7 +7728,6 @@ devisors
 devitalisation
 deductive
 diseases
-deporte
 dossals
 defoliators
 departmental
