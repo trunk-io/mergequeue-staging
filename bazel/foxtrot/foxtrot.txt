@@ -4360,7 +4360,6 @@ fishling
 fromage
 fishmeal
 fabliaux
-foliator
 fishnets
 florid
 fishpole
@@ -6404,6 +6403,7 @@ fluorescence
 fluorescent
 flusker
 fluoresces
+foliator
 fairgrounds
 fluorescigenic
 fluorescigenous
