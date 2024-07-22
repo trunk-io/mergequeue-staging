@@ -8735,7 +8735,6 @@ channelwards
 channer
 cestuy
 criticizable
-chanoyu
 chansonette
 chansonnette
 chansonnier
@@ -23116,6 +23115,7 @@ consorted
 consortia
 consortial
 catechised
+chanoyu
 consorting
 consortism
 consortitia
