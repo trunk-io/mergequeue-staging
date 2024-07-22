@@ -12908,7 +12908,6 @@ churchanity
 churchdom
 churched
 churchgo
-churchgoer
 churchgoers
 churchgoing
 churchgrith
@@ -31911,6 +31910,7 @@ cwrite
 cwt
 czar
 czardas
+churchgoer
 czardases
 czardoms
 commonplacer

@@ -5882,6 +5882,7 @@ fadedness
 flook
 floorages
 foveated
+finestiller
 fala
 foretype
 fluminous
@@ -9408,7 +9409,6 @@ franklinian
 furmeties
 franklinic
 fraser
-finestiller
 franklinite
 franklinization
 feuing
