@@ -4971,7 +4971,6 @@ given
 guarabu
 givers
 glutaminic
-gives
 gyves
 gandergoose
 glaver
@@ -5405,6 +5404,7 @@ gallied
 garotes
 gliadine
 gride
+gives
 glib
 glycerinated
 gruffer
