@@ -5507,6 +5507,7 @@ dibbles
 deoxidator
 depopulator
 disulfids
+decolorate
 deoxidise
 djellab
 diffide
@@ -12482,7 +12483,6 @@ disinclines
 disinclining
 dramatizer
 diachoretic
-decolorate
 demersal
 doghouse
 disincorporation
