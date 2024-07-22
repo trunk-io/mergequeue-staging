@@ -8245,7 +8245,6 @@ gryllotalpa
 grapple
 grappled
 gallooned
-grapples
 grizzled
 grappling
 gableboard
@@ -9243,6 +9242,7 @@ groenendael
 groenlandicus
 glazed
 gaslighting
+grapples
 grazeable
 gladdy
 groggery
