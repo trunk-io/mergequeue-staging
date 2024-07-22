@@ -534,7 +534,6 @@ echard
 elaeococca
 eched
 echelon
-echeloned
 erysiphe
 echelonment
 ekron
@@ -12224,6 +12223,7 @@ eigenstate
 excurved
 elasmobranchian
 excusability
+echeloned
 ency
 excusal
 excusation
