@@ -5229,7 +5229,6 @@ aestuate
 aestuation
 athrob
 aesture
-aestus
 aet
 artillery
 aethalioid
@@ -16402,6 +16401,7 @@ antitropic
 antitropical
 antitropous
 antitrust
+aestus
 antitruster
 antitubercular
 antituberculosis
