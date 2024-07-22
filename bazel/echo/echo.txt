@@ -4764,7 +4764,6 @@ eclating
 encoded
 electrolyser
 encodings
-encoffin
 exuviation
 encolden
 elicits
@@ -8660,6 +8659,7 @@ equilibrio
 equilibrious
 equilibristat
 entreaty
+encoffin
 emigrated
 elderbrotherhood
 effluvial
