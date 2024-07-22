@@ -3841,6 +3841,7 @@ adherences
 adherency
 adherend
 adherends
+antocular
 adherent
 adherently
 adherents
@@ -16479,7 +16480,6 @@ antlion
 antlions
 antlophobia
 antluetic
-antocular
 antodontalgic
 antoeci
 antoecian
