@@ -8475,7 +8475,6 @@ bilharziasis
 bilharzic
 bilianic
 biliary
-biliate
 biliation
 bilic
 bilifaction
@@ -13930,6 +13929,7 @@ brachiated
 brachiator
 brachyaxis
 brachycardia
+biliate
 bemixt
 bootstrap
 brachycephal
