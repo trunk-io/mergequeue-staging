@@ -13464,7 +13464,6 @@ deltal
 disrump
 disabler
 disruptability
-disrupter
 deserve
 disrupting
 depullulation
@@ -17306,6 +17305,7 @@ drome
 dromed
 dromedary
 declassification
+disrupter
 dromedaries
 drometer
 dromical
