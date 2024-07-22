@@ -10005,7 +10005,6 @@ chemotherapist
 chemotherapists
 chemotic
 chemotroph
-clinging
 canonicalize
 chemotropically
 chempaduk
@@ -14721,6 +14720,7 @@ cystocyte
 cystocolostomy
 cribrose
 cystodynia
+clinging
 cystoelytroplasty
 cystoepiplocele
 cystoepithelioma
