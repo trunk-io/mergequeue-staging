@@ -2406,6 +2406,7 @@ decipium
 decise
 decision
 decisionmake
+discontinuor
 decisis
 decisive
 decisively
@@ -11643,7 +11644,6 @@ dieselizing
 discontinues
 discontinuity
 discontinuities
-discontinuor
 dignify
 desugaring
 decoys
