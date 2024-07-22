@@ -13954,7 +13954,6 @@ anorogenic
 anorth
 anorthic
 anorthite
-anorthitic
 anorthitite
 anthelmintic
 anorthographical
@@ -20646,6 +20645,7 @@ arthrography
 arthrogryposis
 alkalinizing
 arthrolite
+anorthitic
 apparelling
 arthrolith
 artificially
