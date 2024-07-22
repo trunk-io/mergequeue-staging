@@ -10035,6 +10035,7 @@ estmark
 estoc
 estocada
 exude
+endothermically
 estolide
 estonia
 estonian
@@ -11663,7 +11664,6 @@ emendated
 evoe
 eleut
 evokers
-endothermically
 eldmother
 ergs
 ecumenics
