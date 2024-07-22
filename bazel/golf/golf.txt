@@ -2350,6 +2350,7 @@ gallinaceae
 gelatification
 gravestone
 gelatin
+garde
 grammel
 gelatinate
 gullies
@@ -9447,7 +9448,6 @@ groundsill
 greyflies
 galactolytic
 groundswell
-garde
 gorging
 groundwave
 genderer
