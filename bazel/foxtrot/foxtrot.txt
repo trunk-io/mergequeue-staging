@@ -2471,6 +2471,7 @@ ferriages
 ferryboats
 favela
 ferric
+ficoes
 fopperly
 familistery
 ferricyanic
@@ -3098,7 +3099,6 @@ folksier
 ficklewise
 fameworthy
 fasten
-ficoes
 ficoidaceae
 fontainea
 franchisers
