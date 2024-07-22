@@ -7432,7 +7432,6 @@ cephidae
 calycifloral
 cephus
 cepous
-cariousness
 ceps
 cequi
 cera
@@ -30702,6 +30701,7 @@ cuisinary
 cuisine
 cuisines
 cuisinier
+cariousness
 cuissart
 cuisse
 cajoling
