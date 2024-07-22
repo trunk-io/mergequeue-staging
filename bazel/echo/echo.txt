@@ -1078,7 +1078,6 @@ edges
 edgeshot
 edgestone
 edgeway
-erythropia
 edgewise
 edgy
 enteroplegia
@@ -2269,6 +2268,7 @@ electricians
 electricity
 electricize
 electrics
+erythropia
 electriferous
 editorialist
 electrified
