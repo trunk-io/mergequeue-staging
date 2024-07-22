@@ -318,7 +318,6 @@ abecedary
 abecedaria
 abecedarian
 abecedarians
-abecedaries
 abecedarium
 abecedarius
 ascolichenes
@@ -7569,6 +7568,7 @@ albumenoid
 albumens
 albumimeter
 aerophysical
+abecedaries
 albuminate
 azeotropic
 aposia
