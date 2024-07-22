@@ -3292,7 +3292,6 @@ falling
 fieldwort
 fiendful
 fiendfully
-fiendish
 foreprepare
 fiendishly
 fiendishness
@@ -7103,6 +7102,7 @@ fools
 freestyler
 fatherling
 foolscaps
+fiendish
 favilla
 fooner
 foosterer
