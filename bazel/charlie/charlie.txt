@@ -24758,7 +24758,6 @@ copperworks
 coppet
 colutea
 coppy
-coppiced
 caryatic
 coppices
 coppicing
@@ -26584,6 +26583,7 @@ couches
 couchy
 couching
 couchmaker
+coppiced
 couchmate
 coude
 characterist
