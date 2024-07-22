@@ -200,7 +200,6 @@ abbe
 abbey
 abbeys
 abbeystead
-abbeystede
 antifascism
 abbes
 abbess
@@ -3110,6 +3109,7 @@ actinians
 actiniarian
 actinias
 actinic
+abbeystede
 actinical
 actinically
 actinides
