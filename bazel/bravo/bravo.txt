@@ -4812,7 +4812,6 @@ bedstraw
 batwing
 beneighbored
 biliteral
-bedstring
 bedswerver
 bedticks
 bices
@@ -11137,6 +11136,7 @@ binomially
 blosmy
 blossom
 bowingly
+bedstring
 bechalk
 baresthesia
 breakfasting
