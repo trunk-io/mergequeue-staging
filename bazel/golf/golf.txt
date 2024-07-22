@@ -7326,7 +7326,6 @@ greenwoods
 gossamered
 good
 gomlah
-gunfights
 guano
 gossaniferous
 gossard
@@ -8997,6 +8996,7 @@ gambians
 grim
 grimacers
 grimacing
+gunfights
 grimacingly
 granulocytic
 gundeck
