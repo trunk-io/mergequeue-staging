@@ -489,6 +489,7 @@ cadenzas
 cader
 caderas
 cadere
+chromdiagnosis
 cades
 cadesse
 colorable
@@ -12492,7 +12493,6 @@ chromatosphere
 chromatospheric
 chromatrope
 chromazurine
-chromdiagnosis
 chrome
 chromed
 chromene
