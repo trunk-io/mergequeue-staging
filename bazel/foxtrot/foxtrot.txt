@@ -2525,7 +2525,6 @@ ferrochrome
 ferrocyanate
 fontes
 ferrocyanhydric
-ferroelectric
 flukeless
 flyblows
 ferroglass
@@ -8757,6 +8756,7 @@ forwelk
 forwent
 forwoden
 femicide
+ferroelectric
 forwork
 frailer
 ferrels
