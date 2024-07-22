@@ -127,6 +127,7 @@ earpiece
 earplug
 earplugs
 earreach
+exportation
 earring
 earringed
 eulima
@@ -13282,7 +13283,6 @@ enterosepsis
 exponents
 enation
 exportable
-exportation
 ecumenacy
 exported
 exporter

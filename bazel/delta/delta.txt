@@ -4252,7 +4252,6 @@ damozel
 deltaic
 deltaite
 durationless
-deltal
 deltalike
 deleerit
 deltas
@@ -13461,6 +13460,7 @@ disrout
 dustrag
 digraph
 disruly
+deltal
 disrump
 disabler
 disruptability
