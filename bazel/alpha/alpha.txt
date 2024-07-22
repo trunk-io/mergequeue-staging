@@ -7706,7 +7706,6 @@ arbitrages
 alcyonic
 alcyoniform
 alcyonium
-atebrin
 alcyonoid
 alcippe
 alcmene
@@ -9470,6 +9469,7 @@ altarwise
 altazimuth
 ahems
 alter
+atebrin
 affied
 alterability
 alterable
