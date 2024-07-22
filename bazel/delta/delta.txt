@@ -8722,7 +8722,6 @@ diastoles
 diastomatic
 diastrophic
 diastrophically
-diastrophism
 diatessaron
 diathermal
 diathermance
@@ -11485,6 +11484,7 @@ discolith
 discolor
 dyas
 deaspiration
+diastrophism
 discolorate
 discolorated
 decarburization
