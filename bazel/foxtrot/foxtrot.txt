@@ -4996,6 +4996,7 @@ flashiness
 faithless
 founderous
 flab
+fonts
 flashing
 fossilologist
 fz
@@ -11008,7 +11009,6 @@ fume
 flitches
 fumed
 fumelike
-fonts
 fusillades
 fumerel
 fumers
