@@ -231,7 +231,6 @@ glucolipid
 gelandesprung
 glaciers
 gramme
-getling
 gainer
 glumal
 gainers
@@ -3294,6 +3293,7 @@ geostatic
 graphitoidal
 glamoured
 gardebras
+getling
 garote
 geostationary
 gluttonism
