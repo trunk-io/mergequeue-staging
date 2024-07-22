@@ -25744,7 +25744,6 @@ consolute
 corregidors
 coordinates
 corregimientos
-correl
 ceilometer
 correlatable
 chaton
@@ -27170,6 +27169,7 @@ countersigning
 countersigns
 countersink
 countersinking
+correl
 countrywide
 countersinks
 consubstantiality
