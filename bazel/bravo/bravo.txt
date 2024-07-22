@@ -1905,6 +1905,7 @@ bauxitite
 bootleg
 bandaging
 brakes
+bigging
 bandagist
 boardmen
 bandaid
@@ -8322,7 +8323,6 @@ bisie
 biggy
 biggie
 biggin
-bigging
 barber
 biggings
 biggins
