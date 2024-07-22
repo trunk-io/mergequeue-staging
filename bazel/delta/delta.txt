@@ -9459,7 +9459,6 @@ dikamalli
 dacryocystalgia
 diffusimeter
 diffusing
-diffusional
 diffusionism
 dentil
 diclinies
@@ -15837,6 +15836,7 @@ dorsiflex
 dorsiflexion
 digressory
 dorsigrade
+diffusional
 dined
 dorsilateral
 dorsimeson
