@@ -713,7 +713,6 @@ botchier
 biotypes
 bacterioblast
 bacteriochlorophyll
-brachistocephalic
 bacteriocidal
 bacteriocyte
 bacteriofluorescin
@@ -11829,6 +11828,7 @@ boeotian
 boeotic
 boerdom
 boerhavia
+brachistocephalic
 boethian
 betimes
 bimbisara
