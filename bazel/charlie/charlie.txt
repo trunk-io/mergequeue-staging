@@ -12679,6 +12679,7 @@ chronique
 chronisotherm
 chronist
 chronobarometer
+corruptest
 cesurae
 chronobiology
 chronocyclegraph
@@ -25865,7 +25866,6 @@ corrupted
 corruptedly
 corruptedness
 corrupter
-corruptest
 corruptibilities
 corruptibleness
 corruptibly
