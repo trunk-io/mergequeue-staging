@@ -937,7 +937,6 @@ ermit
 eleve
 ectorganism
 ectorhinal
-ectosarc
 ectoskeleton
 ectosomal
 ectoplasy
@@ -12636,6 +12635,7 @@ exocardiac
 extracardial
 endurable
 epigonos
+ectosarc
 exhumating
 exocardial
 exocarps
