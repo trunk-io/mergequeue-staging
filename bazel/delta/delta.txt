@@ -8490,7 +8490,6 @@ droplet
 diammine
 diminished
 diamminobromide
-diamminonitrate
 diammonium
 diamond
 diamondback
@@ -9833,6 +9832,7 @@ dilo
 decantherous
 dilogarithm
 demanded
+diamminonitrate
 dilations
 demounts
 dotages
