@@ -850,7 +850,6 @@ abridge
 abridgeable
 antelopes
 abridged
-abridgedly
 anisotropical
 abridgement
 abridgements
@@ -8634,6 +8633,7 @@ allect
 anterofixation
 allectory
 apodeictical
+abridgedly
 allegata
 allegate
 allegation
