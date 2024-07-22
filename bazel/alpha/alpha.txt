@@ -2134,6 +2134,7 @@ acetite
 acetize
 acetmethylanilide
 acetnaphthalide
+article
 acetoacetanilide
 acetoacetic
 acetoarsenite
@@ -20711,7 +20712,6 @@ arthuriana
 artiad
 artichoke
 artichokes
-article
 aplodontiidae
 articled
 acidimetrical
