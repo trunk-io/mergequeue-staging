@@ -10905,7 +10905,6 @@ chiotilla
 chip
 commercialist
 chipboard
-chipchap
 chipchop
 chipewyan
 chipyard
@@ -11725,6 +11724,7 @@ cholos
 caup
 cholralosed
 choltry
+chipchap
 choluria
 choluteca
 chomp

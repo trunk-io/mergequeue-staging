@@ -951,6 +951,7 @@ expelled
 ectotherm
 elytrous
 ectotoxin
+exopterygotism
 ectotrophi
 epigenetic
 ectotrophic
@@ -12759,7 +12760,6 @@ emboweling
 exopod
 exopoditic
 exopterygote
-exopterygotism
 exhauster
 evocated
 exorable
