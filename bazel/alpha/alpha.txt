@@ -7864,7 +7864,6 @@ analphabetical
 alec
 armageddon
 alecithic
-alecize
 aleconner
 alecost
 anticoagulate
@@ -24719,6 +24718,7 @@ accented
 aviate
 aviated
 aviates
+alecize
 aviatic
 aviating
 anthinae
