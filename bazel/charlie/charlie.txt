@@ -4244,7 +4244,6 @@ carid
 caridean
 carideer
 caridomorpha
-carien
 cariform
 centrodesmus
 cariyo
@@ -16384,6 +16383,7 @@ clypeola
 contortively
 clypeolar
 clypeolate
+carien
 clypeole
 cohobate
 cachrys
