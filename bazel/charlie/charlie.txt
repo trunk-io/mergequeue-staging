@@ -15933,7 +15933,6 @@ cleating
 cleats
 cleavability
 cleavable
-cleavage
 cleavages
 cathodes
 cleave
@@ -21458,6 +21457,7 @@ concinnated
 concinnity
 concinnities
 concinnous
+cleavage
 concinnously
 cede
 concion
