@@ -2716,7 +2716,6 @@ geneva
 gibbsite
 gumshield
 genevan
-gassendist
 genevas
 genevese
 giddify
@@ -6969,6 +6968,7 @@ greasiest
 goodenia
 goodeniaceous
 garlicwort
+gassendist
 grandeur
 grip
 gooder
