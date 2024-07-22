@@ -4965,6 +4965,7 @@ ergothioneine
 endecha
 ended
 endeictic
+epistrophic
 endeign
 endemical
 endemically
@@ -10809,7 +10810,6 @@ excalate
 euglenidae
 evocations
 euglenoid
-epistrophic
 euglenoidina
 eugonic
 eugubine
