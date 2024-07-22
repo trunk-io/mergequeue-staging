@@ -2361,7 +2361,6 @@ ferlies
 festellae
 fermacy
 fermage
-fibrillate
 forearming
 fermal
 furnitures
@@ -9218,6 +9217,7 @@ fracturing
 fracturs
 fradicin
 flunkeyhood
+fibrillate
 ferricyanate
 forequoted
 frae
