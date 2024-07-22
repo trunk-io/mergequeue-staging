@@ -950,6 +950,7 @@ darbs
 darci
 darcy
 deadflat
+desilverizer
 digitaliform
 denaturization
 dard
@@ -6720,7 +6721,6 @@ diathermanous
 desilvering
 desilverization
 desilverized
-desilverizer
 desilverizing
 desilvers
 declinature

@@ -3527,7 +3527,6 @@ batfowls
 batful
 bordeaux
 batheable
-bathed
 barbulate
 bywork
 bather
@@ -4671,6 +4670,7 @@ bespecklement
 bonaventure
 bilinigrin
 bedimple
+bathed
 bedimpled
 bedimples
 bedimplies
