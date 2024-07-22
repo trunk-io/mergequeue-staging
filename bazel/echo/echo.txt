@@ -186,7 +186,6 @@ electronegative
 earthnut
 edifice
 euphausiidae
-earthpea
 earthpeas
 ean
 electrothermal
@@ -5186,6 +5185,7 @@ evolutionally
 endomycetaceae
 endomictic
 excorticate
+earthpea
 euornithic
 euthyroid
 eremology
