@@ -6374,7 +6374,6 @@ decapsulate
 drassid
 dermonosology
 dermoosseous
-dermoossification
 delete
 dermopathy
 dermopathic
@@ -15954,6 +15953,7 @@ dost
 dostoevsky
 dot
 dinosaurian
+dermoossification
 dotage
 doubleword
 dotal
