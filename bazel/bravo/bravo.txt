@@ -2358,6 +2358,7 @@ barbastelle
 blackbrush
 basidiocarp
 bitterbur
+byepath
 barbate
 barbated
 barbatimao
@@ -8171,7 +8172,6 @@ bientt
 bowwoman
 bienvenu
 bienvenue
-byepath
 banco
 bier
 bidri
