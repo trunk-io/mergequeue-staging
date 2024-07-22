@@ -7157,7 +7157,6 @@ fand
 footier
 footings
 fusus
-fiddlestring
 forechase
 footled
 footlers
@@ -7681,6 +7680,7 @@ forehanded
 forehandedly
 forehandedness
 frouncing
+fiddlestring
 forehands
 freeman
 futteret
