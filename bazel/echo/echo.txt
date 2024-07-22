@@ -4736,7 +4736,6 @@ enclaving
 enclitical
 enclitically
 encloak
-enclog
 eclipsis
 encloister
 enclosable
@@ -11307,6 +11306,7 @@ evanesced
 evanescence
 evanescency
 evanescenrly
+enclog
 euvrou
 evang
 effervesced
