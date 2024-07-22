@@ -5531,6 +5531,7 @@ fetology
 flight
 fanmaker
 flagelliform
+formel
 frigate
 flightful
 fineness
@@ -8394,7 +8395,6 @@ faradmeter
 fleay
 formed
 formee
-formel
 formelt
 fieldpiece
 formenic
