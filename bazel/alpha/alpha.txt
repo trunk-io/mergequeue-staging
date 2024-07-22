@@ -9339,7 +9339,6 @@ alpestral
 alpestrian
 alpestrine
 autotype
-alpha
 aurrescu
 alphabet
 alcazaba
@@ -25203,6 +25202,7 @@ azeotropy
 agriotype
 azerbaijanese
 azerbaijani
+alpha
 azerbaijanian
 arion
 azha
