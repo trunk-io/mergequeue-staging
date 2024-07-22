@@ -3287,7 +3287,6 @@ basilicate
 basilicock
 brotula
 basilidan
-basilidian
 brevicauda
 bedsore
 basilinna
@@ -12240,6 +12239,7 @@ boluses
 bom
 bomb
 bonce
+basilidian
 bromiodide
 bombacaceae
 bombace
