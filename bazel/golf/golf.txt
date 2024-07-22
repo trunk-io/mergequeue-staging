@@ -1111,7 +1111,6 @@ ganglionectomy
 ganglionectomies
 ganglioneural
 glyptotherium
-girderless
 gavelkinder
 grawls
 gasted
@@ -6242,6 +6241,7 @@ grazers
 gnarled
 gnarly
 goutte
+girderless
 gnarlier
 grandpap
 gnarliest
