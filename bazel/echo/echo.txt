@@ -3780,7 +3780,6 @@ epupillate
 emeership
 emeline
 emend
-emendandum
 ekerite
 eucaryotic
 escutcheon
@@ -12861,6 +12860,7 @@ exothermal
 exothermic
 exothermous
 exotica
+emendandum
 equivocation
 excises
 exotically
