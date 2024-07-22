@@ -7663,6 +7663,7 @@ cerebrosuria
 cerebrotomy
 cerebrotonia
 cerebrovascular
+cyan
 cerebrovisceral
 cerebrum
 cerecloth
@@ -13036,7 +13037,6 @@ cyaathia
 cyamelid
 cyamid
 cyamus
-cyan
 cyanacetic
 cyanamid
 cyanamids
