@@ -286,7 +286,6 @@ discoveries
 disbursement
 doek
 daghesh
-dagmar
 dissuitable
 dagoba
 dagobas
@@ -1279,6 +1278,7 @@ detruss
 dispetal
 daub
 daubed
+dagmar
 daubentonia
 duessa
 demystification
