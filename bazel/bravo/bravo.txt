@@ -9782,7 +9782,6 @@ bisubstituted
 bisulc
 bisulcate
 blowline
-brandywine
 bisulfid
 bisulfide
 bisulphate
@@ -10771,6 +10770,7 @@ blessings
 blest
 blet
 baumier
+brandywine
 blethe
 brins
 blether
