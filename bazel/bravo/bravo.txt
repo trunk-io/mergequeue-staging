@@ -10164,7 +10164,6 @@ blackpot
 blackprint
 blackrag
 blackroot
-blacks
 blackshirt
 blackshirted
 blacksmith
@@ -13143,6 +13142,7 @@ bosomer
 bosominess
 bosoms
 bosonic
+blacks
 bosporan
 bosporian
 bookstand
