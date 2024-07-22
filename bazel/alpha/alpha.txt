@@ -3711,7 +3711,6 @@ adenochondrosarcoma
 adenochrome
 aguamiel
 adenocyst
-antepectoral
 adenocystomatous
 appropriative
 adenodiastasis
@@ -18511,6 +18510,7 @@ arbalest
 arbalester
 antiresonance
 arbalestre
+antepectoral
 arbalestrier
 arbalests
 arbalist
