@@ -4307,7 +4307,6 @@ flatware
 flannel
 fishberries
 fishboat
-formful
 fusses
 fishbolts
 faultless
@@ -7775,6 +7774,7 @@ foremean
 forb
 foremeant
 frypans
+formful
 frilal
 foremelt
 foremen
