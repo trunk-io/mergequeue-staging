@@ -2688,6 +2688,7 @@ canonize
 canonized
 catapult
 canonizer
+copia
 canonizing
 canonlike
 canonry
@@ -24638,7 +24639,6 @@ cophosis
 circumstantially
 cophouse
 copy
-copia
 copiability
 copiable
 copiapite
