@@ -2478,7 +2478,6 @@ acids
 acidulant
 acidulate
 acidulated
-acidulates
 acidulating
 asymbolia
 acidulent
@@ -22926,6 +22925,7 @@ atropisms
 atropos
 atrorubent
 atrosanguineous
+acidulates
 angrite
 atroscine
 atrous
