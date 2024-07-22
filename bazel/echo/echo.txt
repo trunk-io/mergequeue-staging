@@ -4852,7 +4852,6 @@ encrisp
 ensorcerize
 encroach
 entrenchment
-encroached
 electrotactic
 erythraemia
 encroacher
@@ -8698,6 +8697,7 @@ ethrogs
 equip
 equipaga
 equipage
+encroached
 equipartisan
 equipartition
 equipede
