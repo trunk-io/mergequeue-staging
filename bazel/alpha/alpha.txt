@@ -1356,6 +1356,7 @@ acanthopanax
 acanthophis
 acanthophorous
 acanthopod
+ascochyta
 acanthopodous
 ailweed
 acanthopomatous
@@ -10603,7 +10604,6 @@ amylopectin
 amylophagia
 amylophosphate
 amyloplast
-ascochyta
 autobiology
 amyloplastic
 amyloplastid
