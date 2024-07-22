@@ -549,6 +549,7 @@ backspier
 backspierer
 backsplice
 bladed
+bygane
 backspliced
 backspringing
 backstab
@@ -8281,7 +8282,6 @@ bourrees
 bigamizing
 bigamous
 bigamously
-bygane
 bulker
 byganging
 bigarade
