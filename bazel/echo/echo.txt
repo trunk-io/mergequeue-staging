@@ -2637,7 +2637,6 @@ enschedule
 estuant
 electrothermotic
 electrotype
-exploitationist
 electrotyper
 electrotypes
 expressible
@@ -2960,6 +2959,7 @@ elytral
 elatrometer
 elytriferous
 elytriform
+exploitationist
 equates
 elytrin
 ephemerae
