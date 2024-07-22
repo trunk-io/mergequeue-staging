@@ -5222,7 +5222,6 @@ eurycerous
 endophyllous
 endophyllum
 electroless
-endophytal
 enrolled
 eternish
 endophyte
@@ -13101,6 +13100,7 @@ experimentation
 experimentations
 experimentative
 experimentator
+endophytal
 empressement
 experimenter
 ermani
