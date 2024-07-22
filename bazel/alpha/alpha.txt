@@ -10580,7 +10580,6 @@ astrolater
 amylocoagulase
 aerograph
 amylogen
-amylogenesis
 amylogenic
 amylogens
 amylohydrolysis
@@ -19879,6 +19878,7 @@ alphabetizes
 archaeus
 ark
 arkansan
+amylogenesis
 arkansans
 alkalized
 arkansas
