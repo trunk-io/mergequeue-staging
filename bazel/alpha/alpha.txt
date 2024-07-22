@@ -4153,7 +4153,6 @@ administrations
 administrative
 aptian
 administratively
-administrator
 alternamente
 ampangabeite
 alants
@@ -13010,6 +13009,7 @@ angouleme
 angoumian
 angraecum
 align
+administrator
 angry
 angrier
 angriest
