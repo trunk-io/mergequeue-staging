@@ -4085,7 +4085,6 @@ adjutancies
 adjutantship
 adjute
 attacco
-adjutory
 adjutorious
 anonymuncule
 arloup
@@ -24396,6 +24395,7 @@ autoscopic
 archsin
 autobahnen
 autosender
+adjutory
 autosensitization
 autosensitized
 autosepticemia
