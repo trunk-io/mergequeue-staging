@@ -15492,7 +15492,6 @@ clapboarding
 clapboards
 clapbread
 clapcake
-clapdish
 clape
 clapholt
 carrigeen
@@ -25377,6 +25376,7 @@ corneas
 cornein
 corneine
 corneitis
+clapdish
 chout
 cornel
 cornelia
