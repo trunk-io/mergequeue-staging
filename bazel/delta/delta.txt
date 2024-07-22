@@ -8265,7 +8265,6 @@ dumpfile
 diagnostication
 diagnostics
 dyscrasic
-diagonal
 derride
 damndest
 diagonalizable
@@ -18658,6 +18657,7 @@ dollop
 dwellers
 damaskeen
 dwelling
+diagonal
 dwellings
 demicircle
 dwells
