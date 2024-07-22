@@ -1985,6 +1985,7 @@ bandlimiting
 bandman
 bandmaster
 bandmasters
+bongs
 bandog
 bicarburetted
 bonfire
@@ -12481,7 +12482,6 @@ bongoist
 bowable
 bongrace
 bineweed
-bongs
 beeregar
 bonhomies
 bunder
