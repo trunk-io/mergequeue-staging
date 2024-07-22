@@ -3921,7 +3921,6 @@ emirates
 erecters
 emirs
 emirship
-equinovarus
 emissary
 eikon
 emissaries
@@ -7075,6 +7074,7 @@ entte
 entune
 entwine
 exuviates
+equinovarus
 elohistic
 entwisting
 enucleate
