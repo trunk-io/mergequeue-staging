@@ -11283,7 +11283,6 @@ chloremic
 chlorenchyma
 coassistance
 chlorhydrate
-chlorhydric
 chloriamb
 chloriambus
 chloric
@@ -11518,6 +11517,7 @@ choiceful
 choiceless
 choicelessness
 categoricalness
+chlorhydric
 choicely
 choiceness
 choicer
