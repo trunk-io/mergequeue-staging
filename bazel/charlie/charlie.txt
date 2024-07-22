@@ -6449,7 +6449,6 @@ cavin
 cavina
 cavings
 cavitate
-cavitated
 cavitating
 cavitations
 cavity
@@ -15026,6 +15025,7 @@ cytoreticulum
 cytoryctes
 cytosine
 cytosines
+cavitated
 cytospectrophotometry
 cytospora
 cytosporina
