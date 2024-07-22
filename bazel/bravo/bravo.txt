@@ -1889,7 +1889,6 @@ banba
 banbury
 banc
 banca
-bancal
 blanchers
 bancha
 bancos
@@ -9595,6 +9594,7 @@ barbal
 biscayner
 biscanism
 bischofite
+bancal
 bruchid
 biscuitlike
 biscuitmaker
