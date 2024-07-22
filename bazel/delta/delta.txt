@@ -12811,6 +12811,7 @@ daggerlike
 dismisses
 dismissible
 dismissing
+documentalist
 dismissingly
 dismission
 dodrantal
@@ -14816,7 +14817,6 @@ decussate
 documentable
 damas
 documental
-documentalist
 delimer
 decadenza
 drainpipe
