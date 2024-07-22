@@ -17518,7 +17518,6 @@ apothegms
 apothem
 apothems
 amoebian
-apotheose
 apotheoses
 apotheosis
 archaism
@@ -19180,6 +19179,7 @@ archtempter
 archthief
 antimicrobic
 archtraitor
+apotheose
 archtreasurer
 archtreasurership
 archurger
