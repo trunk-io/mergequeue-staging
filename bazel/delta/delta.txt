@@ -1979,7 +1979,6 @@ decahedrodra
 decahedrons
 dekalitre
 decay
-decayed
 dispread
 decayedness
 duodecimfid
@@ -6884,6 +6883,7 @@ dhoolies
 desoxyribonuclease
 desoxyribonucleoprotein
 desoxyribose
+decayed
 denigrations
 despair
 dottard
