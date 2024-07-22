@@ -6226,7 +6226,6 @@ gluttonise
 gluttonize
 gluttonized
 gluttonizing
-gluttons
 gm
 gmelina
 gmelinite
@@ -6334,6 +6333,7 @@ gnetum
 geisothermal
 gneu
 gallstones
+gluttons
 gnome
 gnomes
 gnomesque
