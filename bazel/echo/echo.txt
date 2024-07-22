@@ -3494,6 +3494,7 @@ embole
 electrorefine
 embolectomy
 embolectomies
+episcopality
 emboli
 embolic
 emboliform
@@ -8140,7 +8141,6 @@ exodermis
 electroencephalographic
 exordia
 episcopalism
-episcopality
 episcopally
 episcopant
 epicanthus
