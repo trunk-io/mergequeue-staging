@@ -6400,7 +6400,6 @@ discontents
 dermostenosis
 dermostosis
 dermotherm
-dermotropic
 dermovaccine
 derms
 ditheist
@@ -18127,6 +18126,7 @@ dormeuse
 dumminess
 damageable
 disusage
+dermotropic
 demirep
 donationes
 dummkopf
