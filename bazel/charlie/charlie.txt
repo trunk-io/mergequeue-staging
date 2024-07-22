@@ -3370,7 +3370,6 @@ cornuses
 captaincy
 captaincies
 captained
-captainess
 captaining
 chytra
 captainly
@@ -11668,6 +11667,7 @@ choleroid
 choleromania
 conservations
 cholerrhagia
+captainess
 cholestane
 cholestanol
 curial
