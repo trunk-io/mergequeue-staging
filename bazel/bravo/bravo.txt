@@ -14034,7 +14034,6 @@ brachysm
 brachystegia
 brachistocephali
 brachistocephaly
-brachistochrone
 biophotophone
 brachystomatous
 brachystomous
@@ -18393,6 +18392,7 @@ buzzingly
 balas
 bichromatic
 blossomtime
+brachistochrone
 buzzsaw
 buzzword
 buzzwords
