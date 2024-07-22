@@ -1361,6 +1361,7 @@ balatronic
 balatte
 balau
 balausta
+burnishes
 balaustine
 balawa
 balawu
@@ -17795,7 +17796,6 @@ burnishable
 burnished
 burnisher
 bookracks
-burnishes
 baneberries
 burnoose
 burnoosed
