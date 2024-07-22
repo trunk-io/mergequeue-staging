@@ -2344,7 +2344,6 @@ assertible
 achrodextrinase
 achroglobin
 alumen
-achroiocythaemia
 achroite
 anarchosocialist
 achroma
@@ -16444,6 +16443,7 @@ antivenene
 antivenin
 antivenine
 antitobacconal
+achroiocythaemia
 antivenom
 autopotent
 avodires
