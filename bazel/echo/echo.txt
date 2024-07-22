@@ -10382,7 +10382,6 @@ enlaces
 entincture
 enumerated
 erpetoichthys
-ethion
 evadible
 ethionine
 ethions
@@ -13186,6 +13185,7 @@ explanation
 explanative
 explanator
 eluates
+ethion
 explanatory
 essences
 euryalus
