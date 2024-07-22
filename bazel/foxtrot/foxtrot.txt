@@ -2472,7 +2472,6 @@ fibbing
 flatbread
 ferreting
 ferrets
-ferry
 ferriages
 ferryboats
 favela
@@ -6653,6 +6652,7 @@ foams
 fobbing
 foliary
 fertiliser
+ferry
 focal
 focalised
 focalization
