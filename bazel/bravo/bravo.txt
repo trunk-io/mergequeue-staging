@@ -603,6 +603,7 @@ bombarded
 backstromite
 belibeling
 backswept
+barbered
 backswimmer
 backswing
 bettergates
@@ -3534,7 +3535,6 @@ bathed
 barbulate
 bywork
 bather
-barbered
 bathers
 befretted
 buttock
