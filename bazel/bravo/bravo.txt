@@ -15143,7 +15143,6 @@ bricklayer
 bricklayers
 brickleness
 brickly
-bricklike
 berain
 bricklining
 brickmaker
@@ -16963,6 +16962,7 @@ bulgaric
 burgau
 booziest
 bulgarophil
+bricklike
 bismutite
 bulge
 bulged
