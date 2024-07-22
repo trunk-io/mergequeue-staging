@@ -5592,6 +5592,7 @@ enfork
 elapinae
 equilibrist
 extrazodiacal
+extensibleness
 epistolar
 enfort
 evilnesses
@@ -13573,7 +13574,6 @@ extends
 extense
 electrosynthesis
 extensible
-extensibleness
 extensile
 extensimeter
 ergate
