@@ -14725,7 +14725,6 @@ cystoelytroplasty
 cystoepiplocele
 cystoepithelioma
 cystoflagellata
-cystoflagellate
 cystogenesis
 cystogenous
 cystogram
@@ -29838,6 +29837,7 @@ crosiered
 crosiers
 croslet
 crosne
+cystoflagellate
 crosnes
 cross
 crossability
