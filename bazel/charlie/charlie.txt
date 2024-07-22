@@ -8326,7 +8326,6 @@ chalcomenite
 chalcon
 chalcophile
 chalcopyrite
-canelle
 chalcosine
 centralised
 chalcotrichite
@@ -20981,6 +20980,7 @@ compressible
 compressibleness
 compressing
 corporatively
+canelle
 compression
 compressional
 compressive
