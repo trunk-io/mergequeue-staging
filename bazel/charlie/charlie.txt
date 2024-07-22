@@ -2257,6 +2257,7 @@ commissariat
 capping
 cancelier
 canceling
+cloister
 cancellability
 cancellable
 cancellarius
@@ -16629,7 +16630,6 @@ cloison
 cloisonless
 cloisonne
 cloisonnism
-cloister
 cloistered
 cloisterer
 cloistering
