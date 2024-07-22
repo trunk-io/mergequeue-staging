@@ -4147,7 +4147,6 @@ beastman
 beasts
 beckelite
 bruiters
-beat
 beata
 beatable
 beatably
@@ -6029,6 +6028,7 @@ benchboard
 benched
 benchers
 benchership
+beat
 benches
 benchfellow
 benchful

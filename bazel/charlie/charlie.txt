@@ -14350,7 +14350,6 @@ crabbily
 clinorhombic
 circumgyratory
 circumincession
-circumjacence
 circumjacencies
 circumjacent
 circumlental
@@ -28009,6 +28008,7 @@ calciphilous
 craggy
 craggier
 cragginess
+circumjacence
 cragsman
 cragsmen
 cragwork
