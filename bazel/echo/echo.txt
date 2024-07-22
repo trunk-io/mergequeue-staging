@@ -933,7 +933,6 @@ eleve
 ectorganism
 ectorhinal
 ectosarc
-excavated
 ectoskeleton
 eggcupful
 ectosomal
@@ -7629,6 +7628,7 @@ epicoelian
 efoliolate
 exegetist
 epicoeloma
+excavated
 estate
 epicolic
 epicondyle
