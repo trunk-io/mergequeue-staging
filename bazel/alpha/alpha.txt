@@ -12371,7 +12371,6 @@ andamenta
 andamento
 andamentos
 andante
-andantes
 andantini
 andantino
 andantinos
@@ -13659,6 +13658,7 @@ annoyances
 altimetrically
 annoyers
 annoyful
+andantes
 alantol
 aquiparous
 annoying
