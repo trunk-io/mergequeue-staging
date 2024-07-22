@@ -1129,7 +1129,6 @@ gateway
 gorbal
 ganglionitis
 governance
-ganglioplexus
 glamourie
 grabs
 gangman
@@ -5026,6 +5025,7 @@ gastromenia
 glacialism
 glaucophane
 gurkha
+ganglioplexus
 goldstone
 gloomless
 glaciated
