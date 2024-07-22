@@ -782,6 +782,7 @@ euskera
 expectation
 ecphasis
 ecphonema
+edenic
 evenglome
 ecphorable
 emersed
@@ -8149,7 +8150,6 @@ epicanthus
 endothecial
 essenize
 episcoparian
-edenic
 episcopates
 epiphenomenalist
 episcopation
