@@ -1233,6 +1233,7 @@ destroy
 datchas
 datebook
 datedly
+deconvolution
 datedness
 dateless
 dateline
@@ -1906,7 +1907,6 @@ debugs
 dies
 discrimination
 dithiol
-deconvolution
 debunker
 debunkers
 durances
