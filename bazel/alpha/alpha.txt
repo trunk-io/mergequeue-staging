@@ -3456,7 +3456,6 @@ adangle
 adansonia
 adapt
 adaptability
-adaptableness
 adaptably
 adaptation
 adonic
@@ -24885,6 +24884,7 @@ awayness
 awaynesses
 aways
 appanagist
+adaptableness
 await
 awaited
 autocorrelate
