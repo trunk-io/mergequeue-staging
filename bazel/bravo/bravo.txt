@@ -10416,7 +10416,6 @@ bobfly
 blastoff
 blastoffs
 blastogenesis
-biordinal
 blastogeny
 blastogenic
 blastogranitic
@@ -17647,6 +17646,7 @@ burglarized
 bitolyl
 bibliotheca
 burglarizes
+biordinal
 burglarizing
 burglarproof
 burglarproofed
