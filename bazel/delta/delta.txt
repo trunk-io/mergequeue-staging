@@ -5051,7 +5051,6 @@ denaturized
 denaturizer
 denaturizing
 denazification
-denazifies
 denazifying
 dendra
 deliverability
@@ -7146,6 +7145,7 @@ desulphurization
 drawboring
 dedolency
 deerkill
+denazifies
 desulphurize
 desulphurized
 disinvest
