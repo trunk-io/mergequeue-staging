@@ -2496,6 +2496,7 @@ fastball
 forweep
 floorshow
 ferrites
+filmist
 focusable
 ferritins
 frolics
@@ -3679,7 +3680,6 @@ filmiest
 filminess
 filming
 filmish
-filmist
 filmize
 filmized
 filmland
