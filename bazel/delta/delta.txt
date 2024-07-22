@@ -13552,7 +13552,6 @@ decodon
 danda
 drawloom
 depr
-dissemblers
 dissembles
 dissembly
 distally
@@ -17248,6 +17247,7 @@ drizzled
 drizzly
 drizzlier
 dichromasy
+dissemblers
 drizzliest
 dialogized
 drizzling
