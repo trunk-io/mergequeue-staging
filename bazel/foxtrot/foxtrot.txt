@@ -1083,7 +1083,6 @@ farmplace
 finials
 farmstead
 fascine
-farmtown
 farnesol
 farness
 farnesses
@@ -9270,6 +9269,7 @@ ferd
 fragrance
 fermentations
 framboise
+farmtown
 fragrancies
 fragrantly
 fragrantness
