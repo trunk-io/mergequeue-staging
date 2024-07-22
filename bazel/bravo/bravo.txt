@@ -2470,7 +2470,6 @@ bishoplike
 barcolongo
 barcone
 barcoo
-befop
 bard
 bemuse
 bardane
@@ -12220,6 +12219,7 @@ benefic
 boltel
 burt
 bolter
+befop
 bolthead
 boltheader
 braggy
