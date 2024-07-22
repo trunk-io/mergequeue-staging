@@ -12270,7 +12270,6 @@ anchors
 anchorwise
 anchoveta
 anchovy
-anchovies
 anchtherium
 anchusa
 anchusas
@@ -21609,6 +21608,7 @@ appliances
 assais
 assays
 assalto
+anchovies
 assamar
 asphalts
 axinite
