@@ -9617,7 +9617,6 @@ checkweighmen
 checkwork
 checkwriter
 chedar
-cheddar
 cheddaring
 cheddars
 cadillac
@@ -10705,6 +10704,7 @@ chyme
 chimer
 curn
 chimeral
+cheddar
 chimeras
 complutensian
 chimerical
