@@ -10653,7 +10653,6 @@ blencorn
 blend
 blende
 blended
-blender
 bottleneck
 blenders
 blendes
@@ -11708,6 +11707,7 @@ boccie
 betutor
 boccies
 bocconia
+blender
 bocedization
 boche
 boches
