@@ -527,6 +527,7 @@ cadmium
 cadmiumize
 cadmiums
 cadmus
+cresylic
 cadouk
 cadrans
 coercer
@@ -28826,7 +28827,6 @@ cresegol
 cresyl
 cresylate
 cresylene
-cresylic
 cresylite
 cresyls
 cheerers
