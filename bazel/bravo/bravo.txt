@@ -1604,6 +1604,7 @@ ballhooter
 balli
 blennoma
 bullwhack
+boder
 bally
 balliage
 ballies
@@ -11751,7 +11752,6 @@ baluga
 babassus
 backflap
 bodenbenderite
-boder
 balanophora
 bascule
 boffo
