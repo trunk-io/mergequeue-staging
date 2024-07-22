@@ -6435,7 +6435,6 @@ benzoquinoline
 benzoquinone
 benzoquinoxaline
 byron
-benzosulfimide
 benzosulphimide
 blindstitch
 boardmanship
@@ -7463,6 +7462,7 @@ beuncled
 bevatron
 bevatrons
 bobbinets
+benzosulfimide
 beveil
 brither
 beveled
