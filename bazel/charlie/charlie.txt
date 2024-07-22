@@ -15823,7 +15823,6 @@ claviculate
 cromme
 chahars
 counterstand
-claviculus
 clavier
 clavierist
 clavieristic
@@ -15986,6 +15985,7 @@ cleistogene
 cleistogenous
 cephalalgy
 cleistotcia
+claviculus
 caused
 cleistothecium
 circumpolygon
