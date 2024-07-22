@@ -9369,7 +9369,6 @@ cyanopsia
 capitative
 chaudron
 chaufers
-chauffage
 chauffer
 chauffers
 chassepots
@@ -17864,6 +17863,7 @@ codeword
 codewords
 chiminage
 codfish
+chauffage
 codfishery
 codfisheries
 codfishes
