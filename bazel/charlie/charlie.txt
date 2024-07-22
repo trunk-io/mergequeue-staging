@@ -1725,6 +1725,7 @@ cambuscan
 camaldolite
 chilcat
 camaldule
+comparted
 crops
 camaldulian
 chebulinic
@@ -20527,7 +20528,6 @@ comparisons
 comparition
 comparsa
 compart
-comparted
 compartimenti
 creakiest
 constructorship
