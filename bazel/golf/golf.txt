@@ -1411,7 +1411,6 @@ gerrhosaurid
 galop
 garmented
 gunyang
-garmenting
 garmentless
 glutael
 glycollide
@@ -1760,6 +1759,7 @@ gastrohysteropexy
 groundswells
 gastrohysterotomy
 gastroid
+garmenting
 gonyaulax
 groow
 gazettes
