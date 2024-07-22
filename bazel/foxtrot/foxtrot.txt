@@ -5874,7 +5874,6 @@ floodways
 floodwall
 floodwater
 floodwood
-frigorify
 felinities
 flooey
 frument
@@ -6794,6 +6793,7 @@ foining
 fashionmonging
 foliageous
 farsightedly
+frigorify
 faden
 foys
 foison
