@@ -6340,6 +6340,7 @@ benzeneazobenzene
 benzenediazonium
 benzenes
 benzenyl
+bimotor
 bhagavata
 benzenoid
 billsticking
@@ -8735,7 +8736,6 @@ bimong
 bimorph
 bimorphemic
 bimorphs
-bimotor
 bimotored
 bimucronate
 bimuscular
