@@ -1602,7 +1602,6 @@ eglantine
 eglantines
 eglateres
 eudromias
-enchyma
 estriol
 exocolitis
 eglomerate
@@ -5885,6 +5884,7 @@ enhydros
 enhypostasia
 equitability
 enhypostasis
+enchyma
 enhypostatize
 enhorror
 enhort
