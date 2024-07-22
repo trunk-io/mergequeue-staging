@@ -7750,7 +7750,6 @@ blandfordia
 bestraught
 biarcuate
 bloc
-biarticular
 biarticulate
 bestudded
 biarticulated
@@ -16884,6 +16883,7 @@ builded
 branchiobdella
 builders
 building
+biarticular
 buildings
 buildress
 bastardly
