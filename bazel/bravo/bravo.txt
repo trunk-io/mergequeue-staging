@@ -7640,7 +7640,6 @@ bloodalley
 bhabar
 bhagat
 blackball
-bhagavat
 bhaiachara
 bhaiyachara
 bhakti
@@ -17612,6 +17611,7 @@ burghal
 burghalpenny
 broilery
 burghbote
+bhagavat
 burgher
 burgherage
 burgherdom
