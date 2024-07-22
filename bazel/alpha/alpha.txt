@@ -6680,7 +6680,6 @@ ahriman
 ahrimanian
 aggravates
 ahs
-autophyllogeny
 ahsan
 aht
 almacen
@@ -8669,6 +8668,7 @@ allegories
 allegorisation
 allegorise
 allegorised
+autophyllogeny
 allegorising
 allegorism
 adenomalacia
