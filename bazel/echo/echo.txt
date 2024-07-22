@@ -2190,7 +2190,6 @@ evzones
 elderliness
 elderling
 eh
-expect
 effeminate
 elderman
 enlink
@@ -4874,6 +4873,7 @@ epikleses
 encumber
 encumbered
 encumberer
+expect
 encumberingly
 extendedly
 encumberment
