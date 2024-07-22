@@ -5799,7 +5799,6 @@ afterthinker
 achromatium
 artistdom
 afterthought
-afterthoughts
 arain
 apastron
 aftertrial
@@ -7294,6 +7293,7 @@ atheling
 alacrify
 alacrious
 alacriously
+afterthoughts
 alacrity
 alacrities
 allottable
