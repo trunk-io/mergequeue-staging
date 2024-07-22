@@ -16608,7 +16608,6 @@ arbith
 aortomalacia
 aortomalaxis
 aortopathy
-aortoptosia
 aortoptosis
 anacreontically
 aortostenosis
@@ -19471,6 +19470,7 @@ argention
 argentol
 acrodonts
 argentometry
+aortoptosia
 argentometric
 argentometrically
 autacoidal
