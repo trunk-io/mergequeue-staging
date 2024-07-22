@@ -4998,7 +4998,6 @@ beetlestone
 burrower
 beetleweed
 beetlike
-beetling
 beetrave
 beetroot
 biospheres
@@ -12393,6 +12392,7 @@ bondar
 begirded
 bonded
 bonder
+beetling
 beechen
 boosies
 bonderize
