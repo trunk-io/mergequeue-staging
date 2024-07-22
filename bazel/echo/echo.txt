@@ -6893,7 +6893,6 @@ entone
 epitrchelia
 emblema
 entonement
-entonic
 entoparasite
 escarole
 eskimos
@@ -10671,6 +10670,7 @@ euchlaena
 educationalism
 euchlorhydria
 effectuation
+entonic
 euchloric
 entrechats
 embezzles
