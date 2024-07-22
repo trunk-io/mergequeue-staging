@@ -15757,7 +15757,6 @@ dormer
 dormered
 dormers
 dormette
-dormeuse
 description
 dormy
 dunlap
@@ -18123,6 +18122,7 @@ dummies
 diagrammatician
 disjunctively
 diphthonging
+dormeuse
 dumminess
 damageable
 disusage
