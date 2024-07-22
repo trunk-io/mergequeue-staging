@@ -5838,7 +5838,6 @@ fonly
 feats
 flon
 flong
-fimbriated
 flood
 flamingo
 floodable
@@ -9355,6 +9354,7 @@ flaunts
 frogmouths
 figurations
 francophobe
+fimbriated
 flatbrod
 francophone
 flummery
