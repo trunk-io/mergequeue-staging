@@ -1345,7 +1345,6 @@ balante
 balantidial
 blankite
 balantidiasis
-balantidic
 backsettler
 balantidium
 backstroked
@@ -13671,6 +13670,7 @@ bovld
 badgir
 bovovaccine
 bovver
+balantidic
 bow
 bowshot
 bowback
