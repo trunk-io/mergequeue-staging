@@ -12575,7 +12575,6 @@ chromomere
 chromomeric
 chromometer
 corollas
-chromonema
 chromonemal
 chromonemata
 chromonematic
@@ -19543,6 +19542,7 @@ colourize
 colourless
 colourlessness
 crookback
+chromonema
 cushewbird
 colourman
 colours

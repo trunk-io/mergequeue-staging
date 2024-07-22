@@ -5499,7 +5499,6 @@ affricates
 affrication
 agrimotor
 affricative
-aborting
 antrotome
 affright
 affrighted
@@ -16161,6 +16160,7 @@ antiscolic
 antiscorbutic
 anemophilous
 antiscorbutical
+aborting
 antiscriptural
 antiseismic
 antiselene
