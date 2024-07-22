@@ -2176,6 +2176,7 @@ craftsmanly
 canafistolo
 canafistulo
 canaglia
+clubbers
 canaille
 canailles
 canajong
@@ -16894,7 +16895,6 @@ clubable
 cuculi
 clubbability
 contrafagotto
-clubbers
 clubby
 cabecera
 clubbier
