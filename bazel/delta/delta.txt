@@ -3422,7 +3422,6 @@ dannock
 defluxion
 defoaming
 defoams
-defocusses
 defoedation
 defog
 disyllable
@@ -8104,6 +8103,7 @@ doltishness
 diabase
 defenders
 diabases
+defocusses
 diabaterial
 diabetes
 diabetical

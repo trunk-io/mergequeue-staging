@@ -10657,6 +10657,7 @@ blendes
 blends
 buffet
 buffaloed
+basketlike
 blendwater
 blenheim
 blenk
@@ -16865,7 +16866,6 @@ buhls
 buhlwork
 buhrmill
 buhrs
-basketlike
 buyable
 basils
 bushgoats
