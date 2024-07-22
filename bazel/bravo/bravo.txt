@@ -7977,7 +7977,6 @@ bichromic
 bicyanide
 bicycled
 bicycler
-bedusk
 bicyclers
 bicycles
 bicyclic
@@ -14810,6 +14809,7 @@ breakout
 breakouts
 bicuspids
 breakover
+bedusk
 belout
 breakpoints
 baya
