@@ -7022,7 +7022,6 @@ besodden
 besogne
 besognier
 besiren
-bardiness
 burundians
 blackcod
 besoil
@@ -11710,6 +11709,7 @@ boches
 beewort
 batboys
 bockey
+bardiness
 bkpt
 backwrap
 bocking

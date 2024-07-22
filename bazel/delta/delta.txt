@@ -3013,7 +3013,6 @@ deepsome
 deepwater
 deepwaterman
 deer
-deerberry
 deerdog
 deerflies
 deerflys
@@ -5984,6 +5983,7 @@ dextrad
 discussible
 deprogram
 deprogrammed
+deerberry
 deprogrammer
 deprogrammers
 deprogramming
