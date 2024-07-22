@@ -7812,7 +7812,6 @@ aldermanry
 aldermanries
 aldermanship
 aldermen
-amphichrom
 aldern
 alderney
 aldhafara
@@ -22448,6 +22447,7 @@ ataractic
 ataraxy
 alchem
 ataraxia
+amphichrom
 ataraxic
 ataraxies
 antighostism
