@@ -731,7 +731,6 @@ diobolons
 diplanetic
 dianetics
 danceable
-danced
 dancer
 danceress
 dancers
@@ -11995,6 +11994,7 @@ disemployed
 disemploying
 declass
 dorados
+danced
 disemployment
 devilship
 dispeace
