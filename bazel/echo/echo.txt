@@ -6319,7 +6319,6 @@ eupione
 ensepulchered
 ensepulchering
 enamoredness
-enserf
 exomphalos
 enserfment
 elaborators
@@ -8288,6 +8287,7 @@ expurgative
 excentral
 epitasis
 epitaxy
+enserf
 epitaxic
 epitaxies
 eucyclic
