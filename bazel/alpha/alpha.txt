@@ -8555,7 +8555,6 @@ alkylamine
 alkylamino
 alkylarylsulfonate
 alkylate
-alkylated
 alkylates
 adenoidectomies
 alkylation
@@ -22213,6 +22212,7 @@ astragalonavicular
 achaean
 astragalotibial
 astragals
+alkylated
 abrasiometer
 ammochaeta
 astragalus
