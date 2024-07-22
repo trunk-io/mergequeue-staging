@@ -5784,7 +5784,6 @@ anatomicochirurgical
 antidynamic
 abundance
 adversed
-autotherapeutic
 aikinite
 afterswarm
 afterswell
@@ -11655,6 +11654,7 @@ anaerobic
 anaerobically
 anaerobies
 anaerobiont
+autotherapeutic
 anaerobiosis
 amiably
 anaerobiotic
