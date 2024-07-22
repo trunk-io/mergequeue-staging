@@ -526,6 +526,7 @@ feasance
 flamed
 falerno
 faliscan
+fluidize
 falisci
 falk
 faut
@@ -6292,7 +6293,6 @@ finestill
 floored
 fluidities
 fluidization
-fluidize
 fluidized
 followup
 flotations
