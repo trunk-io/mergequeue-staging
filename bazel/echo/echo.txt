@@ -1711,7 +1711,6 @@ expropriations
 eider
 existential
 eiderdown
-electromagnetics
 electropult
 eidograph
 eidolic
@@ -10245,6 +10244,7 @@ enhypostatic
 ether
 etherate
 etherealisation
+electromagnetics
 etherealise
 etherealised
 elucidator
