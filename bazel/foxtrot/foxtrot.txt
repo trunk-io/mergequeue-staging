@@ -2019,7 +2019,6 @@ felid
 felids
 feliform
 felinae
-feline
 felinely
 felineness
 frivolities
@@ -11271,6 +11270,7 @@ funnelled
 finickingly
 flubdubs
 fearfulness
+feline
 functionality
 funnels
 footway
