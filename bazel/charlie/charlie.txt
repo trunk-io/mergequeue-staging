@@ -5069,6 +5069,7 @@ caserios
 casern
 caserne
 casernes
+commensurable
 caserns
 casette
 casettes
@@ -27058,7 +27059,6 @@ counterpointing
 counterpoints
 counterpoised
 counterpoises
-commensurable
 counterpoising
 counterpoison
 counterpole
