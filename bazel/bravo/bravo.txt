@@ -5980,6 +5980,7 @@ bemoisten
 bemol
 bemonster
 bemoon
+bluegills
 bemotto
 bemoult
 bemourn
@@ -11321,7 +11322,6 @@ bluefish
 biffy
 bluefishes
 bluegill
-bluegills
 bemingled
 bluegrass
 bluegum
