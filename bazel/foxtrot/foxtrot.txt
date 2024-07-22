@@ -49,7 +49,6 @@ fabulosity
 fabulous
 facade
 facaded
-faceable
 facebow
 facebread
 farms
@@ -6976,6 +6975,7 @@ fomenters
 fomenting
 fomes
 flatette
+faceable
 fon
 fripper
 frailest
