@@ -1690,6 +1690,7 @@ accompanier
 australorp
 accompanyist
 aphasiac
+anacusic
 aludra
 accompaniment
 accompanimental
@@ -11619,7 +11620,6 @@ anacrusis
 anacrustic
 anaculture
 arienzo
-anacusic
 albicore
 anadem
 admonitions
