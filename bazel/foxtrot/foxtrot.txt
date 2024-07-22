@@ -4993,6 +4993,7 @@ faithless
 founderous
 flab
 flashing
+fogged
 fossilologist
 fz
 fungilliform
@@ -6735,7 +6736,6 @@ favellae
 fogeater
 fogey
 fogfruit
-fogged
 fogger
 fruited
 foggy

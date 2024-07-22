@@ -16578,7 +16578,6 @@ clodhopper
 clodhoppers
 clodhopping
 clodlet
-clodlike
 clodpate
 clodpates
 chierete
@@ -23280,6 +23279,7 @@ construe
 construed
 construer
 construes
+clodlike
 chatillon
 constuprate
 constupration
