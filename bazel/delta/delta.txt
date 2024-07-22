@@ -2263,7 +2263,6 @@ deceptible
 deceptional
 deceptions
 deceptious
-discouraged
 deceptive
 dunnish
 deceptively
@@ -4114,6 +4113,7 @@ deliming
 dislocations
 delimitated
 deletory
+discouraged
 debarring
 deboise
 delimitation
