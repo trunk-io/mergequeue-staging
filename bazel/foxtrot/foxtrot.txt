@@ -2579,7 +2579,6 @@ faddisms
 fertile
 fluotantalate
 fertilely
-fertilisable
 fertilise
 fertilising
 fanfares
@@ -5970,6 +5969,7 @@ floreted
 fenestrated
 footworn
 faradisms
+fertilisable
 fundraise
 faunally
 frizette
