@@ -3131,6 +3131,7 @@ actinobranchia
 aguelike
 actinocarpic
 antigenically
+absorbs
 actinocarpous
 accessability
 annellata
@@ -5629,7 +5630,6 @@ afterattack
 angelon
 afterband
 antinegro
-absorbs
 afterbeat
 afterbirth
 afterblow
