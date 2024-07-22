@@ -22220,6 +22220,7 @@ confuse
 confused
 confusedly
 confuser
+cutwork
 conduced
 confuses
 confusing
@@ -31890,7 +31891,6 @@ cutup
 cutups
 cutwal
 cutwaters
-cutwork
 cutworks
 collow
 cutworm
