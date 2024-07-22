@@ -9114,7 +9114,6 @@ biosciences
 buffball
 bioscientist
 boccaccio
-bepaints
 bioscope
 branchiostegite
 bioscopes
@@ -11317,6 +11316,7 @@ bluecap
 bulak
 bluecaps
 bluecoat
+bepaints
 bluecoated
 bluecoats
 butea
