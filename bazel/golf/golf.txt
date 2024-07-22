@@ -1913,7 +1913,6 @@ gatherers
 gatherings
 gatherum
 gadget
-gathic
 gating
 gats
 gatsby
@@ -4523,6 +4522,7 @@ goidel
 ginglyform
 ginglymi
 ginglymoarthrodial
+gathic
 gemonies
 ginglymodi
 ginglymoid
