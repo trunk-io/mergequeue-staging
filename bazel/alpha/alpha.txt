@@ -15323,7 +15323,6 @@ amphimorulae
 antifire
 abjectly
 antiflash
-antiflattering
 antiflatulent
 antiflux
 antifoam
@@ -22340,6 +22339,7 @@ astromancer
 astromancy
 astromantic
 astrometeorological
+antiflattering
 astrometer
 astrometry
 astrometrical
