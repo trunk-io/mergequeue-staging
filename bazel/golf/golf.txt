@@ -5619,6 +5619,7 @@ gliriform
 gemeinschaften
 grabble
 glis
+guaiaconic
 gospelize
 glisk
 glisky
@@ -9361,7 +9362,6 @@ grossen
 gypsylike
 gingles
 grosser
-guaiaconic
 genette
 groundling
 grossest
