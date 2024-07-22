@@ -5582,7 +5582,6 @@ flinkite
 fator
 flint
 flinter
-forbreak
 flintier
 fadedly
 flintiest
@@ -8269,6 +8268,7 @@ forint
 forints
 forisfamiliation
 forjaskit
+forbreak
 forjesket
 forjudge
 featherlessness

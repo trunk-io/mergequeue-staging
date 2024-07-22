@@ -5053,7 +5053,6 @@ anodine
 aerolite
 aerolites
 aerolith
-aerolithology
 aeroliths
 aerolitic
 anole
@@ -5764,6 +5763,7 @@ aftershine
 aftership
 anthemy
 aftersong
+aerolithology
 afterspeech
 afterspring
 afterstain
