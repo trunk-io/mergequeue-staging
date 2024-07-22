@@ -5450,7 +5450,6 @@ fasc
 flexed
 flexes
 ferroboron
-flexibleness
 frumpiness
 flavic
 forgedly
@@ -7038,6 +7037,7 @@ fone
 frigoric
 fonnish
 fiars
+flexibleness
 franks
 fons
 fortemente
