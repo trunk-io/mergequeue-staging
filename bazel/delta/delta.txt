@@ -2979,7 +2979,6 @@ deepeners
 deepening
 deeper
 deepest
-daitya
 deepfreeze
 decretorian
 deepfreezed
@@ -5341,6 +5340,7 @@ denty
 docketing
 dentical
 denticate
+daitya
 deifiers
 donnees
 doornail
