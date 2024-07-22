@@ -6229,7 +6229,6 @@ coheaded
 caupones
 cauqui
 cimicoid
-caurale
 contraproposal
 cetiosauria
 caurus
@@ -17661,6 +17660,7 @@ coccosteid
 coccosteidae
 coccosteus
 coccothraustes
+caurale
 coccothrinax
 chromatodysopia
 coccule
