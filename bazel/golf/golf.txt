@@ -1702,6 +1702,7 @@ goldfish
 gastrochaenidae
 giltheads
 gastrocystic
+gibboseness
 gastrocnemii
 gastrocnemius
 gastrocoel
@@ -8831,7 +8832,6 @@ grenadines
 gleeted
 grenelle
 galleryite
-gibboseness
 grenier
 gynecide
 gruelingly

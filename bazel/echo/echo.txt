@@ -6027,7 +6027,6 @@ elisor
 entrept
 enliveningly
 embelia
-enlivens
 edifyingly
 embossed
 easels
@@ -6458,6 +6457,7 @@ enswathes
 engined
 ensweep
 ensweeten
+enlivens
 evenlight
 entablature
 emigrations
