@@ -4928,7 +4928,6 @@ echopraxia
 excite
 epiphyseolysis
 endarterectomy
-evenforth
 endarterial
 endarteritis
 endarterium
@@ -12720,6 +12719,7 @@ exonerate
 exhibited
 engravers
 exonerated
+evenforth
 extreat
 evangelion
 exoneration
