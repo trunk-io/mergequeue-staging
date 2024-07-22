@@ -865,7 +865,6 @@ abroach
 achlamydeae
 abroad
 abrocome
-abrogable
 abrogate
 abrogates
 accomplishable
@@ -14308,6 +14307,7 @@ anteporch
 anteportico
 anteporticoes
 anteporticos
+abrogable
 agglomeration
 anteposthumous
 anteprandial
