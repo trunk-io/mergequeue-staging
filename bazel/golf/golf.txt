@@ -1436,7 +1436,6 @@ garnetter
 glitter
 garniec
 garnierite
-garnished
 garnishee
 garnishees
 galleypot
@@ -4040,6 +4039,7 @@ gifts
 gneisses
 galleries
 granularity
+garnished
 giftwrapping
 galline
 giga
