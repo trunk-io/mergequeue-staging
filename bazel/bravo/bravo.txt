@@ -2737,7 +2737,6 @@ babesiasis
 barmcloth
 bulbilis
 biggonet
-barmecidal
 barmecide
 barmfel
 becoward
@@ -18268,6 +18267,7 @@ butternuts
 bracozzo
 butterroot
 butters
+barmecidal
 bulkheading
 butterscotch
 bearbush
