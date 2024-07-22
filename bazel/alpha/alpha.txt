@@ -3022,7 +3022,6 @@ addlebrain
 acrosarca
 acrosarcum
 acroscleriasis
-acroscopic
 acrosome
 acrosomes
 acrosphacelus
@@ -10455,6 +10454,7 @@ amical
 amice
 amicicide
 antiagglutinant
+acroscopic
 allogamies
 amicous
 agogic
