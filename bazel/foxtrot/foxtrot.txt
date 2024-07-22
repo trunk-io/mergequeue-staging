@@ -3267,7 +3267,6 @@ fiel
 filatures
 field
 feases
-fluoborate
 falsity
 fielden
 fanglike
@@ -4903,6 +4902,7 @@ flangeless
 flangers
 flangeway
 flankard
+fluoborate
 flanker
 flankers
 flanking
