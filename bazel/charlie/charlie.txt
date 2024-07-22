@@ -7629,6 +7629,7 @@ cerebric
 cerebriform
 cerebriformly
 cerebrifugal
+cholecystotomy
 cerebrin
 cerebritis
 cerebrize
@@ -11613,7 +11614,6 @@ cholecystonephrostomy
 cholecystopexy
 cholecystorrhaphy
 cholecystostomies
-cholecystotomy
 cholecystotomies
 choledoch
 choledochal
