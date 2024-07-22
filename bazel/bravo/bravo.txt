@@ -1815,7 +1815,6 @@ brittle
 barytone
 baluchitheria
 benty
-baluchitherium
 balun
 balunda
 balushai
@@ -9788,6 +9787,7 @@ bisulphate
 bisulphite
 bitable
 bitake
+baluchitherium
 bytalk
 bytalks
 bitangent
