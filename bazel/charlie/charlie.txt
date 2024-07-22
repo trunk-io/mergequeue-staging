@@ -3041,7 +3041,6 @@ capernutie
 capers
 capersome
 capersomeness
-caperwort
 capeskin
 capeskins
 capetian
@@ -19403,6 +19402,7 @@ colonnaded
 citoyenne
 colonnades
 crossroad
+caperwort
 colonnette
 colonopathy
 colonopexy
