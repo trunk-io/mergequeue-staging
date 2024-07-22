@@ -1354,7 +1354,6 @@ foreacquaint
 fatherlandish
 flookan
 ferriferous
-fatherlands
 feaked
 flinting
 flouriness
@@ -1672,6 +1671,7 @@ farcin
 fcp
 fdtype
 fdubs
+fatherlands
 fumblers
 feaberry
 flighter
