@@ -7248,6 +7248,7 @@ footstools
 footways
 forbids
 frequently
+feverish
 fascet
 footwall
 footwalls
@@ -7504,7 +7505,6 @@ forlornness
 foreboom
 forebooms
 forebowels
-feverish
 ferried
 forebowline
 forebrace
