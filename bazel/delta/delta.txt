@@ -1476,7 +1476,6 @@ dcor
 ddt
 divine
 dea
-dropper
 deaccession
 deacetylated
 dirl
@@ -13013,6 +13012,7 @@ dispendious
 dimin
 diageotropy
 dispenditure
+dropper
 disablement
 dispends
 desuetudes
