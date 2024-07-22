@@ -3171,7 +3171,6 @@ basename
 behove
 basenesses
 basenji
-basenjis
 bonnetmen
 baseplug
 basepoint
@@ -5597,6 +5596,7 @@ benzdioxazine
 belection
 beledgered
 belee
+basenjis
 besoin
 beleed
 belemnid

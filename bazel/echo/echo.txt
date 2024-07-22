@@ -2178,6 +2178,7 @@ erastian
 eyrie
 egesta
 elchee
+emendate
 eld
 elder
 entomostraca
@@ -12890,7 +12891,6 @@ expandingly
 enchannel
 explosible
 expansibility
-emendate
 expansibleness
 expansibly
 expansile
