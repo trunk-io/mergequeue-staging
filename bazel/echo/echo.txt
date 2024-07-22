@@ -6706,7 +6706,6 @@ entheasm
 ephod
 entheate
 enthelminthes
-enthelminthic
 enthetic
 enthuses
 enthymematic
@@ -10062,6 +10061,7 @@ estrado
 encase
 estragol
 estray
+enthelminthic
 endocline
 elytropolypus
 estrays

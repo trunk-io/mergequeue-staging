@@ -4842,6 +4842,7 @@ definitude
 demonism
 destituted
 demonisms
+donation
 demonize
 demonized
 demonizes
@@ -15457,7 +15458,6 @@ donates
 diversified
 donatiaceae
 donatio
-donation
 deface
 diaplasis
 digynous
