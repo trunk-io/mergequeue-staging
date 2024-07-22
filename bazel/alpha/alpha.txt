@@ -12561,7 +12561,6 @@ anecdotally
 anecdote
 anecdotes
 arcubos
-autocoid
 anecdotic
 anecdotically
 anecdotist
@@ -24523,6 +24522,7 @@ autumns
 antihygienically
 autunian
 adenotyphus
+autocoid
 auxanogram
 auxanometer
 auxesis
