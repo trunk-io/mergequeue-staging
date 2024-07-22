@@ -770,7 +770,6 @@ balsamize
 bactriticone
 blup
 bacula
-baculi
 backhoes
 baculites
 baculitic
@@ -6071,6 +6070,7 @@ blockman
 benedick
 benedicks
 benedict
+baculi
 benedictine
 benedictinism
 brimborium
