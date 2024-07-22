@@ -18639,7 +18639,6 @@ arcanist
 ald
 arcanite
 arcanum
-arcate
 ashcan
 arcature
 arcatures
@@ -20687,6 +20686,7 @@ anteprostatic
 algid
 arthrosteitis
 arthrosterigma
+arcate
 arthrostomy
 arthrostraca
 arthrotyphoid
