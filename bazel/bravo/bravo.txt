@@ -2906,6 +2906,7 @@ barques
 barquest
 bedust
 barquette
+bellicosities
 beerily
 bridebowl
 bala
@@ -5743,7 +5744,6 @@ bellical
 bellicosely
 benchmar
 bellicosity
-bellicosities
 bellied
 bellyer
 bared
