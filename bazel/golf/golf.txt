@@ -1263,7 +1263,6 @@ gapo
 gapped
 gapperi
 gappy
-groundable
 golosh
 geophytic
 garner
@@ -6435,6 +6434,7 @@ guanethidine
 goatly
 gravidness
 goatpox
+groundable
 goatroot
 goatsbane
 goatsfoot
