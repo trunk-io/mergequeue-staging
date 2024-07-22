@@ -4047,7 +4047,6 @@ cardiopulmonary
 cupules
 cardiopuncture
 cardiorenal
-cardiorespiratory
 catchland
 cardiorrheuma
 cardiorrhexis
@@ -8283,6 +8282,7 @@ chaksi
 chal
 chalaco
 counterretreat
+cardiorespiratory
 chalah
 chalahs
 chalana
