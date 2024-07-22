@@ -2711,7 +2711,6 @@ acoumetry
 aceship
 acounter
 acouometer
-acouophonia
 acoup
 acoupa
 archmachine
@@ -14356,6 +14355,7 @@ annulation
 anterolaterally
 anteromedial
 abducting
+acouophonia
 anteromedian
 apicula
 anteroom
