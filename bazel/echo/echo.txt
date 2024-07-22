@@ -6924,7 +6924,6 @@ entothorax
 entotic
 entotympanic
 entrenching
-equiaxial
 entotrophi
 entourage
 entourages
@@ -10472,6 +10471,7 @@ espace
 ebonites
 esophagus
 ethnogeographic
+equiaxial
 ethnographer
 exclaustration
 expectorator
