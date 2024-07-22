@@ -6475,7 +6475,6 @@ borinqueno
 blacksmithing
 blomstrandine
 bruskest
-barbermonger
 bepainted
 befoulier
 bepaper
@@ -10684,6 +10683,7 @@ bleaches
 blennogenous
 bandoliered
 blennophlogisma
+barbermonger
 blennophlogosis
 blennophobia
 blennophthalmia
