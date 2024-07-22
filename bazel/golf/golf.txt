@@ -7387,7 +7387,6 @@ girdled
 greyness
 gramma
 gallinula
-goths
 guttable
 gaum
 gelilah
@@ -9669,6 +9668,7 @@ gabeller
 gruiform
 grew
 gruiformes
+goths
 gruine
 gavia
 gameball
