@@ -5287,7 +5287,6 @@ begotten
 begray
 begrave
 begrim
-begrimer
 begrimes
 begrimmed
 begrimming
@@ -7352,6 +7351,7 @@ betis
 banewort
 betise
 betises
+begrimer
 brimfullness
 betitle
 betocsin
