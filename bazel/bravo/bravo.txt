@@ -10315,6 +10315,7 @@ blanker
 beemaster
 balmacaan
 blankest
+brushes
 blanket
 blanketed
 brail
@@ -16329,7 +16330,6 @@ brushed
 brusher
 brushers
 bromoiodid
-brushes
 brushet
 brushfire
 brushful
