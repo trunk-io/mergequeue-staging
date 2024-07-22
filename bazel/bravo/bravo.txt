@@ -10850,7 +10850,6 @@ blinks
 blintze
 barretors
 batete
-blype
 blipped
 barkeep
 bolthole
@@ -15034,6 +15033,7 @@ baseplate
 bushiness
 biers
 brevicomis
+blype
 breviconic
 balneographer
 breviloquence
