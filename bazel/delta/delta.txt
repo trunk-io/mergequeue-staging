@@ -7793,7 +7793,6 @@ devolve
 devolved
 devolvement
 devolvements
-devolves
 drossiest
 devolving
 devon
@@ -8286,6 +8285,7 @@ dozenth
 diagrammable
 diagrammatic
 diagrammatical
+devolves
 diagrammatically
 diagrammatize
 decodings
