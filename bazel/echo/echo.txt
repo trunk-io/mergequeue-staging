@@ -4476,7 +4476,6 @@ encapsuled
 eleutheromorph
 encapsules
 eben
-externalization
 epicurism
 encardion
 ethnobotany
@@ -8721,6 +8720,7 @@ equipoise
 equipoised
 equipoising
 equipollence
+externalization
 equipollency
 edam
 enlaced
