@@ -22,7 +22,6 @@ eaglets
 emenders
 eagling
 extradotal
-electrophoretic
 ebbet
 eagre
 eagres
@@ -2606,6 +2605,7 @@ electrosurgery
 electrosurgeries
 electrosurgical
 electrotautomerism
+electrophoretic
 electrotechnic
 electrophoresed
 end
