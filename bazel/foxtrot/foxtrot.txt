@@ -7799,6 +7799,7 @@ forenoted
 foreface
 forensic
 forensical
+figureless
 forensicality
 forensically
 forensics
@@ -9715,7 +9716,6 @@ freeward
 ferroconcretor
 foodlessness
 freewheelers
-figureless
 freewheeling
 freewheelingness
 freewill
