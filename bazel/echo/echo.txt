@@ -5455,6 +5455,7 @@ enemied
 excitements
 enemies
 estancieros
+evildoing
 eburnification
 enemying
 enemylike
@@ -11587,7 +11588,6 @@ evil
 emamelware
 evildoer
 evildoers
-evildoing
 eyebridled
 eviler
 epicedia
