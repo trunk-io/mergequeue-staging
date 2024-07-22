@@ -8189,7 +8189,6 @@ byerlite
 bierstube
 bierstuben
 bietle
-bemoaned
 byeworker
 byeworkman
 bifaces
@@ -11937,6 +11936,7 @@ bohemias
 betulites
 bohemium
 bufotalin
+bemoaned
 bohereen
 bursters
 bohireen
