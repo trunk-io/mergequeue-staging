@@ -6758,7 +6758,6 @@ belike
 berouged
 beround
 berreave
-berreaving
 berret
 berretta
 berrettas
@@ -15070,6 +15069,7 @@ brewhouses
 benedictionale
 bowellike
 brewing
+berreaving
 brewings
 brewis
 brewises
