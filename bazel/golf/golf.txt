@@ -1791,6 +1791,7 @@ gretel
 goodwives
 gaultheria
 glutton
+greaseproofness
 guebucu
 gormands
 gearman
@@ -5032,7 +5033,6 @@ glaciated
 genial
 glaciates
 glaciating
-greaseproofness
 gentlemanship
 glacier
 gook
