@@ -1864,6 +1864,7 @@ gastrotympanites
 gastrotome
 guinfo
 gastrotomy
+gierfalcon
 garcinia
 gastrotomies
 gardevin
@@ -4324,7 +4325,6 @@ genep
 gigolo
 gyppo
 gambas
-gierfalcon
 gopura
 gorget
 gnattiest
