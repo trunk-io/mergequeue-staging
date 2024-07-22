@@ -6689,7 +6689,6 @@ galeopithecus
 goldworker
 gunrack
 grimness
-golee
 golem
 golems
 golet
@@ -9542,6 +9541,7 @@ growing
 genetoid
 growlery
 graecizes
+golee
 grow
 growleries
 glb
