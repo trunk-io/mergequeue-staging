@@ -4313,6 +4313,7 @@ bacteriodiagnosis
 bebloods
 bebloom
 beblot
+bestowal
 beblotch
 bromatology
 beblubbered
@@ -7190,7 +7191,6 @@ benzidin
 bestove
 bestow
 bestowable
-bestowal
 broadener
 bestowals
 bestir
