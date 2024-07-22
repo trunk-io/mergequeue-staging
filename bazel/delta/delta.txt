@@ -7626,7 +7626,6 @@ dyadics
 deviance
 deviances
 dsnames
-dominions
 doggrelize
 deviancy
 defalcate
@@ -9620,6 +9619,7 @@ dangs
 discharger
 discriminatory
 digoxins
+dominions
 disgospelize
 digraphic
 digraphs
