@@ -2402,6 +2402,7 @@ backout
 barbershops
 benegro
 barbet
+beshawled
 barbets
 barbette
 barite
@@ -6899,7 +6900,6 @@ basilysis
 berberidaceous
 bladderwort
 beshames
-beshawled
 beshear
 beshell
 brontosauri

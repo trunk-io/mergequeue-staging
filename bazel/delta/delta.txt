@@ -2643,6 +2643,7 @@ duotone
 datos
 draconic
 decomposable
+daunii
 decompose
 decomposed
 decomposer
@@ -11179,7 +11180,6 @@ disassociated
 disassociates
 disassociation
 disaster
-daunii
 disastrous
 demethylation
 disastrously
