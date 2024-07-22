@@ -15306,7 +15306,6 @@ claimants
 clepe
 contreface
 claimed
-claimer
 claiming
 claimless
 claymore
@@ -15598,6 +15597,7 @@ chlorpikrin
 clarsach
 clarseach
 clarsech
+claimer
 conclavist
 clarseth
 clart
