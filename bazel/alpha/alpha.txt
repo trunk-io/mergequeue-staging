@@ -8280,7 +8280,6 @@ alienated
 alienates
 alcaics
 alienation
-alienator
 ailuromania
 aliency
 aliened
@@ -11397,6 +11396,7 @@ ampulla
 ampullaceous
 ampullar
 ampullary
+alienator
 anselmian
 ampullaria
 ampullariidae
