@@ -3275,7 +3275,6 @@ bractea
 basileus
 beambird
 basilian
-basilic
 basilica
 basilical
 brandish
@@ -12188,6 +12187,7 @@ bolson
 bolstered
 bolsterer
 blauwbok
+basilic
 bolsterers
 betuckered
 bash
