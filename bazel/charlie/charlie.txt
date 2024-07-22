@@ -15445,7 +15445,6 @@ clanging
 cattle
 clangor
 clangoring
-clangorous
 clangorously
 clangorousness
 clangors
@@ -21053,6 +21052,7 @@ chaptalize
 comptroller
 comptrollers
 compulsatively
+clangorous
 compulsatory
 cribbings
 caner
