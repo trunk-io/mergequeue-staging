@@ -13074,7 +13074,6 @@ dissembler
 dispersed
 dispersedelement
 dispersedye
-dermataneuria
 dispersedness
 dispersement
 disperser
@@ -17779,6 +17778,7 @@ duce
 dyings
 douanes
 disentangles
+dermataneuria
 dracontian
 diamagnetometer
 duces
