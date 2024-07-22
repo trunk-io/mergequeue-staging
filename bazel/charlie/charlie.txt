@@ -1584,7 +1584,6 @@ calorifier
 calorigenic
 calorimeter
 calorimeters
-calorimetry
 calorimetric
 carrioles
 calorimotor
@@ -30523,6 +30522,7 @@ cubocalcaneal
 cuboctahedron
 cubocube
 cubocuneiform
+calorimetry
 caterers
 chaenolobus
 cubododecahedral
