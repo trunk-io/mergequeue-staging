@@ -20023,7 +20023,6 @@ aquifer
 armlock
 armoires
 armomancy
-armoniac
 antineutrino
 armonica
 armor
@@ -20723,6 +20722,7 @@ astrogeologist
 articulable
 articulacy
 articulant
+armoniac
 antibody
 anesthesiologies
 attaintment
