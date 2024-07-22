@@ -15906,7 +15906,6 @@ cleanses
 certosina
 cleansing
 cleanskin
-cleanup
 cleanups
 clear
 counterswing
@@ -27200,6 +27199,7 @@ counterstroke
 counterstruggle
 countersubject
 countersuit
+cleanup
 countersun
 corynocarpaceous
 comics
