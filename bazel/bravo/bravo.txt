@@ -712,7 +712,6 @@ bacterioagglutinin
 botchier
 biotypes
 bacterioblast
-bacteriochlorophyll
 brachistocephalic
 bacteriocidal
 bacteriocyte
@@ -8330,6 +8329,7 @@ bigheaded
 brake
 bighearted
 bigheartedly
+bacteriochlorophyll
 bavenite
 bighorn
 baronnes

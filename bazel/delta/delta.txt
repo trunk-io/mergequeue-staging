@@ -9085,7 +9085,6 @@ dictaen
 dictagraph
 dub
 dictamen
-dictamina
 dictamnus
 dictaphone
 dictaphones
@@ -10539,6 +10538,7 @@ diphtheric
 doffed
 diphtheritic
 diphtheroid
+dictamina
 devadasi
 demifarthing
 diphtherotoxin
