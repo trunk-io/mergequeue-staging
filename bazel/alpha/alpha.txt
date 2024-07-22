@@ -2447,6 +2447,7 @@ acidity
 acidities
 acraein
 acidized
+anamorphism
 acidizing
 attroopment
 acidly
@@ -11881,7 +11882,6 @@ anamniote
 anamniotic
 anamorphic
 acutes
-anamorphism
 archostegnosis
 anamorphoscope
 anamorphose
