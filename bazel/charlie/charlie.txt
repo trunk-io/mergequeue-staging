@@ -3040,6 +3040,7 @@ cmd
 capernoity
 capernoitie
 capernutie
+completions
 capers
 capersome
 capersomeness
@@ -20751,7 +20752,6 @@ cadet
 censureless
 completest
 completing
-completions
 completive
 completively
 crannying
