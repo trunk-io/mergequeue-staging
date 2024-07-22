@@ -16483,7 +16483,6 @@ aregeneratory
 antonina
 antoninianus
 antonio
-antonomasy
 antonomasia
 antinormality
 antonomastic
@@ -22030,6 +22029,7 @@ araks
 asteria
 aglets
 ava
+antonomasy
 asterial
 articulates
 asteriated
