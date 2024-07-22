@@ -2938,7 +2938,6 @@ birdseye
 birthplace
 barbel
 bowle
-bedegar
 barramunda
 barramundi
 barranca
@@ -9648,6 +9647,7 @@ bangs
 bardy
 budapest
 bisexualism
+bedegar
 bisexuality
 bisexuous
 bisglyoxaline
