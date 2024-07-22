@@ -4662,7 +4662,6 @@ demising
 decem
 demisolde
 demisovereign
-desecate
 diabology
 demisphere
 demiss
@@ -9917,6 +9916,7 @@ dreadless
 duodecahedron
 dimensionality
 dimensionally
+desecate
 dimensioning
 dimensions
 dimensum
