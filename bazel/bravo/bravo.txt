@@ -1470,7 +1470,6 @@ backspeer
 bodeful
 balisaurs
 balister
-balistes
 balistid
 balistidae
 balanopreputial
@@ -18113,6 +18112,7 @@ bustlers
 bustles
 buyback
 basally
+balistes
 bustling
 braunite
 brickcroft
