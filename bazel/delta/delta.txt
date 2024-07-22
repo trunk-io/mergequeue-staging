@@ -9117,7 +9117,6 @@ dictionaries
 dictyonema
 dictions
 dictyophora
-dictyopteran
 dictyopteris
 dictyosiphonaceae
 dictyosome
@@ -11191,6 +11190,7 @@ disauthorize
 dysautonomia
 do
 disavouch
+dictyopteran
 disavowable
 disavowance
 disavowedly
