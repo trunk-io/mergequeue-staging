@@ -3739,7 +3739,6 @@ carboniser
 cleidocostal
 concussive
 carbonising
-carbonite
 cardiidae
 carbazin
 carbonitride
@@ -6624,6 +6623,7 @@ celandines
 celanese
 celarent
 celastraceae
+carbonite
 celastraceous
 celastrus
 celation
