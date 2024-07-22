@@ -5879,6 +5879,7 @@ floodways
 floodwall
 floodwater
 floodwood
+frigorify
 felinities
 flooey
 frument
@@ -10067,7 +10068,6 @@ fellnesses
 farde
 functionalities
 freshets
-frigorify
 footrest
 flacourtia
 fusinite
