@@ -9379,7 +9379,6 @@ chassepots
 chauffeured
 chauffeuring
 cannoning
-chauffeurs
 chauffeuse
 crotesco
 chauffeuses
@@ -22030,6 +22029,7 @@ confiders
 confides
 clarion
 crossbarred
+chauffeurs
 configurable
 configural
 configurate
