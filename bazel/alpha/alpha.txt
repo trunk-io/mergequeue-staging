@@ -10035,7 +10035,6 @@ ambigu
 aelodicon
 ambiguity
 ambiguities
-ambiguous
 adviceful
 ambiguously
 armenoid
@@ -25304,6 +25303,7 @@ azophenylene
 azophenine
 arabian
 azophenol
+ambiguous
 azophosphin
 azores
 acclaimer
