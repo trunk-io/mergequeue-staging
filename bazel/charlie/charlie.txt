@@ -5865,7 +5865,6 @@ catfoot
 corinthiac
 constatations
 clinty
-catfooted
 catgut
 cath
 catha
@@ -19561,6 +19560,7 @@ colpeo
 colpeurynter
 colpeurysis
 colpheg
+catfooted
 colpitis
 colpitises
 conically
