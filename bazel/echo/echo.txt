@@ -4268,7 +4268,6 @@ emulates
 emulation
 etymological
 emulative
-emulatively
 enthronements
 erythric
 emulator
@@ -8402,6 +8401,7 @@ etherify
 explicanda
 epitonic
 epitonion
+emulatively
 epitonium
 epitrachelia
 epitrachelion
