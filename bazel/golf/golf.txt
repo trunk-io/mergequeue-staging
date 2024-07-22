@@ -5649,7 +5649,6 @@ geologers
 generously
 gasholder
 glittered
-glutinant
 gringophobia
 glittery
 gulfweeds
@@ -8442,6 +8441,7 @@ graveside
 gravelweed
 glitnir
 graven
+glutinant
 graveness
 gravenstein
 gaping
