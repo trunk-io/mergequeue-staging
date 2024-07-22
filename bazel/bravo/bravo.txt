@@ -3123,7 +3123,6 @@ basad
 basale
 bewares
 basaltes
-basaltic
 basaltiform
 batetela
 basaltine
@@ -8199,6 +8198,7 @@ biferous
 biff
 biffies
 bifid
+basaltic
 benincasa
 bookend
 bifidate
