@@ -4159,7 +4159,6 @@ goadster
 grithbreach
 gildable
 gildedness
-gilden
 gilder
 geckotoid
 gilding
@@ -9535,6 +9534,7 @@ grower
 growers
 growing
 genetoid
+gilden
 growlery
 graecizes
 grow
