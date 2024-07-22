@@ -10451,7 +10451,6 @@ chiefless
 chiefling
 chiefry
 chiefs
-chiefship
 chieftain
 chieftaincy
 conure
@@ -15804,6 +15803,7 @@ clavicle
 cothy
 clavicles
 castellan
+chiefship
 clavicor
 convalesce
 clavicorn
