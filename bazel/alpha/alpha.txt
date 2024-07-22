@@ -6313,7 +6313,6 @@ agnatha
 agnathia
 agnathostomata
 archprotopope
-agnatic
 arrased
 agnatical
 agnation
@@ -11313,6 +11312,7 @@ amphitropal
 amphitropous
 amphiumidae
 amphivasal
+agnatic
 amphivorous
 amphodarch
 anthyllis
