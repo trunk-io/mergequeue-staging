@@ -1951,6 +1951,7 @@ camorrist
 camorrista
 camorristi
 camote
+cirmcumferential
 camoudie
 camouflage
 camouflageable
@@ -14529,7 +14530,6 @@ cheminee
 cyrillic
 cyriologic
 cyriological
-cirmcumferential
 cirque
 cirrate
 cirrated
