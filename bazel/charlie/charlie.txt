@@ -7323,6 +7323,7 @@ cephalemia
 cephaletron
 cephaleuros
 crouched
+characteriser
 carpogone
 cephalhematoma
 cephalic
@@ -8919,7 +8920,6 @@ cypruses
 characterisable
 crumblet
 characterised
-characteriser
 characterising
 characterism
 characteristic
