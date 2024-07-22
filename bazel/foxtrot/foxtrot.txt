@@ -3062,7 +3062,6 @@ fibroserous
 fibrosis
 fibrosities
 ferriprussic
-fibrotuberculosis
 fusarial
 fullterm
 fracture
@@ -10603,6 +10602,7 @@ fructidor
 fimbriating
 fructiferous
 fructiferously
+fibrotuberculosis
 fructificative
 fructifier
 flitted
