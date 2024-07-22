@@ -110,7 +110,6 @@ babylonic
 babylonish
 babylonism
 bauld
-backtrace
 babylonite
 babylonize
 begabled
@@ -17481,6 +17480,7 @@ batten
 buphaga
 buphthalmum
 bupleurol
+backtrace
 bupleurum
 buplever
 birdless
