@@ -1992,7 +1992,6 @@ ekasilicon
 eireannach
 electrokinematics
 endosporous
-extirp
 ekatantalum
 ethyne
 ekebergite
@@ -2822,6 +2821,7 @@ elevators
 entradas
 embrued
 elevatory
+extirp
 evaporize
 expoundable
 elevenfold
