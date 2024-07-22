@@ -3167,7 +3167,6 @@ defectless
 darg
 decorament
 defectology
-defector
 defectors
 defectoscope
 defects
@@ -8098,6 +8097,7 @@ doltishness
 diabase
 defenders
 diabases
+defector
 defocusses
 diabaterial
 diabetes
