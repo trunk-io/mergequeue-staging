@@ -3702,7 +3702,6 @@ battalion
 battalions
 battarism
 battarismus
-batteau
 batted
 battel
 bonnering
@@ -16546,6 +16545,7 @@ buchu
 buckayros
 buckaroo
 bellyfuls
+batteau
 buckaroos
 buckass
 buckberry
