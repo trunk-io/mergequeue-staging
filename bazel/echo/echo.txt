@@ -13911,7 +13911,6 @@ embroche
 euthermic
 extraparochially
 extrapatriarchal
-extrapelvic
 extraperineal
 extraperiodic
 extraperiosteal
@@ -14018,6 +14017,7 @@ extravagation
 extravasate
 extravasated
 edition
+extrapelvic
 exostotic
 extravasating
 elasmosaur
