@@ -2996,7 +2996,6 @@ besottingly
 boomable
 barrelsful
 brigantines
-barrelwise
 barren
 babyhoods
 barrenest
@@ -13944,6 +13943,7 @@ bagmaking
 bellerophon
 brachycera
 bludgeoned
+barrelwise
 brachyceric
 brachycerous
 brachycome
