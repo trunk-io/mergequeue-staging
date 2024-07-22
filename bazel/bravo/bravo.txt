@@ -3981,7 +3981,6 @@ bureaus
 biserially
 beadlet
 beadman
-beadroll
 beads
 beadsmen
 beadswoman
@@ -13642,6 +13641,7 @@ bouts
 bouvardia
 bouvier
 bouzouki
+beadroll
 bouzoukia
 bouzoukis
 bovarism
