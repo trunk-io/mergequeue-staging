@@ -5428,7 +5428,6 @@ afflicter
 afflicting
 afflictingly
 afflictions
-afflictively
 avadavats
 allied
 afflicts
@@ -12755,6 +12754,7 @@ angelicalness
 angelican
 angelicas
 angelicic
+afflictively
 amicronucleate
 angelicness
 acroaesthesia
