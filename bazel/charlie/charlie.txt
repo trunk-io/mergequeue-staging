@@ -13247,7 +13247,6 @@ cicatriser
 crackability
 catafalques
 cicatrising
-cicatrisive
 cicatrix
 cicatrixes
 cicatrizant
@@ -17421,6 +17420,7 @@ coaudience
 cobitidae
 coauthered
 coauthor
+cicatrisive
 coauthored
 coauthoring
 camera
