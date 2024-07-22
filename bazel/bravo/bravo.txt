@@ -8433,7 +8433,6 @@ bulgaria
 boomeranging
 bec
 bilateralities
-bilaterally
 bilati
 bylaw
 bylawman
@@ -14866,6 +14865,7 @@ breatheableness
 breathed
 breathful
 bradford
+bilaterally
 breathily
 breathiness
 breathing
