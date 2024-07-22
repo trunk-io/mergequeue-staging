@@ -1637,7 +1637,6 @@ empoisons
 egomania
 enrage
 engrailing
-egomaniac
 egomaniacal
 egomanias
 egophony
@@ -5723,6 +5722,7 @@ elecive
 eucharistical
 effeir
 englishwoman
+egomaniac
 englishwomen
 equirotal
 eleutherophyllous
