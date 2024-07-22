@@ -4694,7 +4694,6 @@ encinctured
 encinillo
 ergometer
 elkhorn
-extroverted
 emforth
 encipher
 enciphered
@@ -6359,6 +6358,7 @@ ensignry
 ensigns
 ensilaged
 expense
+extroverted
 evenworthy
 ensilages
 epicranius
