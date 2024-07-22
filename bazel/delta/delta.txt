@@ -2628,6 +2628,7 @@ digonoporous
 decompensations
 decoloured
 decompensatory
+distrain
 decompile
 dacitic
 decompiler
@@ -14021,7 +14022,6 @@ domineer
 drip
 distracts
 distrail
-distrain
 distrainable
 distrained
 distrainee
