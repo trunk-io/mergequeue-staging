@@ -5711,7 +5711,6 @@ afterimage
 afterimages
 adorner
 afterimpression
-afterings
 afterking
 afterlife
 ammonifier
@@ -13013,6 +13012,7 @@ angraecum
 align
 administrator
 angry
+afterings
 angrier
 angriest
 angriness
