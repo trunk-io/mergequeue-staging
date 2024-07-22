@@ -6662,6 +6662,7 @@ focoids
 flyflap
 fining
 focometry
+fartlek
 focsle
 focused
 focusless
@@ -8418,7 +8419,6 @@ formicarian
 flayflint
 formicaroid
 flexures
-fartlek
 fut
 formicate
 fertilize
