@@ -7292,7 +7292,6 @@ eopaleozoic
 eophyte
 excisemanship
 enrheum
-exsecant
 eosin
 eosinate
 eosine
@@ -12875,6 +12874,7 @@ exotoxins
 exotropia
 engross
 erosionally
+exsecant
 exotropism
 expand
 expandable
