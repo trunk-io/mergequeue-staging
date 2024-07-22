@@ -8402,7 +8402,6 @@ aliptic
 alypum
 atmosphereless
 aliquant
-aliquot
 alisanders
 alish
 alismaceae
@@ -23859,6 +23858,7 @@ authoritative
 aspidiotus
 azido
 authoritatively
+aliquot
 authority
 announceable
 authorities
