@@ -8473,7 +8473,6 @@ colloquist
 chambranle
 capitalise
 chambre
-chambrel
 chambul
 chamecephaly
 chamecephalic
@@ -20763,6 +20762,7 @@ crenellated
 canful
 completory
 completories
+chambrel
 complex
 corollary
 complexation
