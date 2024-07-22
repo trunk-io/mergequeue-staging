@@ -5774,7 +5774,6 @@ crucis
 catechus
 catechutannic
 cryptogamist
-categorem
 categorematic
 categorematical
 category
@@ -15677,6 +15676,7 @@ ctimo
 classificational
 classifications
 classificator
+categorem
 classificatory
 classified
 classifier
