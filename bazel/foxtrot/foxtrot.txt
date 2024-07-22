@@ -1688,7 +1688,6 @@ fusillade
 feared
 firy
 feelable
-firearmed
 fearer
 fishpotter
 fearers
@@ -4078,6 +4077,7 @@ fireblende
 fireboard
 fireboat
 fireboats
+firearmed
 fuzzball
 firebolted
 ferrated
