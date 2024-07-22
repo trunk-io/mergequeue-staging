@@ -5481,6 +5481,7 @@ ambassador
 aiseweed
 affreighter
 affreightment
+ambisyllabic
 allegorister
 atticism
 affret
@@ -10051,7 +10052,6 @@ ambiparous
 ambisexual
 ambisexuality
 agrologist
-ambisyllabic
 ambisinister
 ambisinistrous
 ambystoma
