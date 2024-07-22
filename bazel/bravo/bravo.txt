@@ -5351,6 +5351,7 @@ behen
 behenate
 behest
 behests
+binits
 behew
 bankside
 behight
@@ -8815,7 +8816,6 @@ butteriness
 binit
 binitarian
 binitarianism
-binits
 bink
 binman
 binmen
