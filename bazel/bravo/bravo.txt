@@ -8058,6 +8058,7 @@ biconnected
 bossily
 biconsonantal
 biconvex
+bipacks
 bajulate
 bicornate
 bicornes
@@ -9226,7 +9227,6 @@ byp
 benzalaniline
 biunique
 bipack
-bipacks
 bipaleolate
 burnup
 bipalmate
