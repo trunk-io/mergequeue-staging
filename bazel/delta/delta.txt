@@ -2360,7 +2360,6 @@ deis
 decillionth
 decima
 dunked
-decimalisation
 decimalise
 decimalised
 derivative
@@ -12115,6 +12114,7 @@ disenvelop
 despiteous
 disepalous
 disequality
+decimalisation
 disequalization
 disequalize
 draper
