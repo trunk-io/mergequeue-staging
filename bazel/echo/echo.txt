@@ -1741,7 +1741,6 @@ eyeball
 eyeballed
 eyeballing
 eyebalm
-epimeron
 explains
 eyeberry
 eyeblack
@@ -9383,6 +9382,7 @@ epigram
 erudition
 elementalist
 eruditionist
+epimeron
 enshrinements
 erugate
 enfin
