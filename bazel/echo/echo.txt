@@ -3924,6 +3924,7 @@ emirates
 erecters
 emirs
 emirship
+escheat
 equinovarus
 emissary
 eikon
@@ -5126,7 +5127,6 @@ electrolysis
 endocrinous
 endocritic
 endoderm
-escheat
 eudaemonistically
 encodement
 endodermal
