@@ -14431,7 +14431,6 @@ acrobatism
 adjutator
 anthocarp
 acerae
-anthocarpous
 anthoceros
 anthocerotaceae
 anthocerote
@@ -20340,6 +20339,7 @@ arrogated
 arrogates
 arrogating
 arrogatingly
+anthocarpous
 anhydrous
 arrogation
 arrogations
