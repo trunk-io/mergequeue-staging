@@ -5812,7 +5812,6 @@ afterword
 afterwork
 afterworld
 afterwrath
-aftmost
 aftonian
 aftosa
 aftosas
@@ -17822,6 +17821,7 @@ applicatory
 anthropopathia
 appliedly
 applier
+aftmost
 akroteria
 appliers
 applies
