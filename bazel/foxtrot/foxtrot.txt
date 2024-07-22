@@ -5464,7 +5464,6 @@ flexo
 flexographic
 flexuosely
 flexuoseness
-flexuosity
 flexura
 fumy
 flexure
@@ -7173,6 +7172,7 @@ forestless
 friending
 fireable
 fills
+flexuosity
 fisheyes
 farrier
 fenestra
