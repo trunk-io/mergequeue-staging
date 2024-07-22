@@ -13649,7 +13649,6 @@ bhokra
 bovidae
 brachyuran
 bovids
-boviform
 bovine
 balking
 bovinely
@@ -17554,6 +17553,7 @@ bure
 bureaucracy
 buckwheater
 bivalents
+boviform
 bureaucratically
 bureaucratist
 bureaucratize
