@@ -1727,6 +1727,7 @@ cambuscan
 camaldolite
 chilcat
 camaldule
+crops
 camaldulian
 chebulinic
 camalote
@@ -29819,7 +29820,6 @@ croppy
 croppies
 cropping
 cropplecrown
-crops
 cropshin
 cropsick
 cropsickness
