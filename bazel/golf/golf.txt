@@ -3289,6 +3289,7 @@ gearbox
 glamourousness
 geospiza
 geostatic
+glamoured
 gardebras
 garote
 geostationary
@@ -7626,7 +7627,6 @@ gugu
 gradeless
 gradely
 grademark
-glamoured
 gentilities
 glutei
 guillotinist
