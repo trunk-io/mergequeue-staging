@@ -938,7 +938,6 @@ ectorganism
 ectorhinal
 ectosarc
 ectoskeleton
-eggcupful
 ectosomal
 ectoplasy
 escamoteur
@@ -10392,6 +10391,7 @@ evadible
 ethionine
 ethions
 ergal
+eggcupful
 ethiopian
 ethiopians
 ethmyphitis
