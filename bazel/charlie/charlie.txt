@@ -2090,7 +2090,6 @@ campions
 cojudices
 calcspar
 convoking
-conclusively
 calcaneus
 chaetopoda
 caesura
@@ -23364,6 +23363,7 @@ consummatory
 consumpted
 consumptible
 consumption
+conclusively
 consumptional
 consumptions
 consumptive
