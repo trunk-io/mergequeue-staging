@@ -2497,7 +2497,6 @@ deiparous
 dundreary
 dandruffs
 declinational
-declinations
 doctordom
 declinator
 declinatory
@@ -2860,6 +2859,7 @@ dodos
 decurrent
 detenus
 decursively
+declinations
 decurt
 decurtate
 ducture
