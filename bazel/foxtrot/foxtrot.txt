@@ -6294,6 +6294,7 @@ fluidization
 fluidized
 followup
 flotations
+freewheel
 finitude
 fileted
 fiesta
@@ -6745,7 +6746,6 @@ foggiest
 foggish
 foghorn
 fervours
-freewheel
 fogy
 flaxdrop
 fogies

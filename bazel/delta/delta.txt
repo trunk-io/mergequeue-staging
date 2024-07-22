@@ -1695,7 +1695,6 @@ deathbeds
 daggar
 deathblows
 deathcup
-doublethink
 dulotic
 deathcups
 deathful
@@ -17757,6 +17756,7 @@ duboisia
 decyl
 desmidiaceae
 duboisine
+doublethink
 dubonnet
 dubonnets
 daman
