@@ -2285,7 +2285,6 @@ electrizing
 erotesis
 electroacoustic
 earnable
-electroacoustically
 electroamalgamation
 electroanalytic
 emersion
@@ -12001,6 +12000,7 @@ exchangeable
 epifauna
 epoptes
 evacuations
+electroacoustically
 explicates
 elbowing
 exchanges
