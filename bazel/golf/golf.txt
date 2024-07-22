@@ -6193,7 +6193,6 @@ geometricize
 guttulae
 glutamate
 glutamates
-glutamic
 genapped
 glutamine
 gamogony
@@ -8051,6 +8050,7 @@ grandnephew
 garbling
 geniuses
 granitite
+glutamic
 gendarme
 gyrocompasses
 granitized
