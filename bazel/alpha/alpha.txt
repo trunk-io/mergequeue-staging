@@ -10601,7 +10601,6 @@ amyloplastic
 amyloplastid
 amylopsase
 amylose
-amyloses
 amylosynthesis
 amylosis
 amiloun
@@ -19313,6 +19312,7 @@ area
 areach
 aread
 areae
+amyloses
 aspartic
 areal
 areality
