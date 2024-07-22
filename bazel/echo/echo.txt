@@ -1809,7 +1809,6 @@ eyeliners
 eyen
 eyeopener
 eyepiece
-exposable
 epotation
 eyepoint
 euonymin
@@ -12406,6 +12405,7 @@ exercitor
 exergual
 electricans
 exergue
+exposable
 exerted
 exertionless
 enstatitic
