@@ -5128,7 +5128,6 @@ flaunche
 floatstone
 flaunched
 flaunt
-flaunted
 foggage
 flaunter
 felicitously
@@ -9629,6 +9628,7 @@ freehearted
 footplate
 fidation
 fricandoes
+flaunted
 facedown
 freeheartedly
 farinhas
