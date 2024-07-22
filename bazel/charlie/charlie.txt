@@ -7404,7 +7404,6 @@ cephalospinal
 cephalosporin
 cephalosporium
 cephalostyle
-cephalotaceae
 cephalotaceous
 cephalotaxus
 cephalotheca
@@ -29668,6 +29667,7 @@ crocodilia
 crocodilian
 coemptio
 crocodilidae
+cephalotaceae
 cadmopone
 crocodiline
 crocodilite
