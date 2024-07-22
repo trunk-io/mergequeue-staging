@@ -17045,6 +17045,7 @@ catalecta
 cmdr
 crankness
 cml
+combativeness
 conjurement
 cnemic
 cnemides
@@ -19757,7 +19758,6 @@ combater
 combating
 combative
 combatively
-combativeness
 combats
 coniceine
 commeasured
