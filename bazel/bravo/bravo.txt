@@ -687,7 +687,6 @@ bacquet
 bunyah
 bact
 bacteraemia
-bacteremia
 bacteria
 bobbed
 bacteriaceae
@@ -15368,6 +15367,7 @@ brimstonewort
 beshrouded
 brince
 brindlish
+bacteremia
 butanolid
 brinehouse
 barbotte
