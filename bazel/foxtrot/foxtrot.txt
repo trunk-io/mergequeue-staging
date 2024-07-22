@@ -1004,6 +1004,7 @@ fluoroid
 floorway
 funicule
 farfetched
+frontalis
 fargite
 fill
 fargood
@@ -7045,7 +7046,6 @@ fontanel
 flapdock
 fraenums
 fontange
-frontalis
 fontanges
 fonted
 fabrication
