@@ -11559,7 +11559,6 @@ corymbose
 chokedamp
 chokey
 chokeys
-choker
 cava
 chaste
 cannibalized
@@ -20974,6 +20973,7 @@ compressed
 compresses
 compressibility
 compressibilities
+choker
 compressible
 compressibleness
 compressing
