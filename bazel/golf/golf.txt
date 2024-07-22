@@ -2839,6 +2839,7 @@ genome
 goatlike
 genomic
 genoms
+gonopodia
 genonema
 gph
 glimpses
@@ -10785,7 +10786,6 @@ guttulate
 guttule
 globetrotters
 gulpier
-gonopodia
 grand
 gateman
 guttulous
