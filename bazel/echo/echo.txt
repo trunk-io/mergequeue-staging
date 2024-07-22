@@ -6903,6 +6903,7 @@ els
 entophytal
 entoplasm
 entoplastron
+estuarial
 entopopliteal
 entoprocta
 exsectile
@@ -13434,7 +13435,6 @@ exradio
 exradius
 exrupeal
 expansum
-estuarial
 exrx
 exsanguinate
 exsanguinated
