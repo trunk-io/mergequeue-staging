@@ -2571,6 +2571,7 @@ apocodeine
 abattoir
 acknow
 acknowledgeable
+amperage
 acknowledgedly
 achloropsia
 acknowledger
@@ -11863,7 +11864,6 @@ administrate
 anam
 anama
 anamesite
-amperage
 anamite
 anammonid
 ancestral
