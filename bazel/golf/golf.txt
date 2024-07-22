@@ -909,7 +909,6 @@ grapy
 gamestress
 gashest
 gorbet
-gametal
 gametange
 gilds
 gametangium
@@ -9307,6 +9306,7 @@ grammatistical
 geomys
 guernsey
 glandulation
+gametal
 gnathostomatous
 gulps
 groovelike
