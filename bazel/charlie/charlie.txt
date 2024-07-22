@@ -9160,7 +9160,6 @@ charring
 charro
 countermachination
 charrs
-cysticolous
 charruan
 charruas
 chars
@@ -10505,6 +10504,7 @@ chilaria
 clerics
 chilarium
 ceder
+cysticolous
 chilblains
 child
 childage
