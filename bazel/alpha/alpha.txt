@@ -13252,7 +13252,6 @@ animalities
 animalivore
 animalivorous
 aphthous
-animalization
 animalize
 animalized
 animalizing
@@ -16186,6 +16185,7 @@ atheroscleroses
 arthroendoscopy
 academy
 antisensuousness
+animalization
 auctorizate
 antiseptic
 anthobian

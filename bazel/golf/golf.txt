@@ -4089,6 +4089,7 @@ gigatons
 guzzled
 gigawatt
 genetor
+general
 gigawatts
 gigeria
 gyges
@@ -10812,7 +10813,6 @@ gouramis
 gutturopalatal
 gutturopalatine
 gonitis
-general
 guttus
 gutwise
 gangplank
