@@ -7321,7 +7321,6 @@ epaenetic
 epagogic
 epagomenae
 epagomenic
-epicentrum
 eloise
 epanagoge
 elevens
@@ -12465,6 +12464,7 @@ engrossment
 exhaustibility
 ekistic
 exhaustion
+epicentrum
 eiry
 ethnize
 exhaustiveness
