@@ -7498,7 +7498,6 @@ ceratoglossal
 candied
 citharista
 claqueur
-ceratoglossus
 ceratohyal
 cacuminous
 ceratohyoid
@@ -23660,6 +23659,7 @@ continuities
 continuo
 continuos
 continuously
+ceratoglossus
 crazycat
 continuousness
 cresotinate
