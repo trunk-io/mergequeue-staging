@@ -14762,6 +14762,7 @@ aggrandized
 antiaircraft
 antialbumid
 antialbumin
+antistater
 antialbumose
 antialcoholic
 antialcoholist
@@ -22932,7 +22933,6 @@ attaboy
 attacapan
 affrighting
 attacca
-antistater
 attach
 attachable
 alberge

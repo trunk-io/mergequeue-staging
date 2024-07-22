@@ -2363,6 +2363,7 @@ ferlies
 festellae
 fermacy
 fermage
+fraken
 forearming
 fermal
 furnitures
@@ -2973,7 +2974,6 @@ fibred
 fibreless
 fibril
 fibrillae
-fraken
 fibrillar
 fictionist
 fibrillary
