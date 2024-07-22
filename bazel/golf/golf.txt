@@ -458,7 +458,6 @@ grantsmanship
 goodlihead
 galeus
 galewort
-gentoo
 galga
 galgal
 galgulidae
@@ -8825,6 +8824,7 @@ gremlins
 gremmy
 gremmies
 garnishable
+gentoo
 guffy
 grenadier
 grapsoid
