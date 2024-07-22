@@ -628,6 +628,7 @@ backus
 backveld
 backvelder
 babbit
+bembex
 backwall
 biriani
 backward
@@ -9837,7 +9838,6 @@ browpost
 bitingness
 bitless
 bitmapped
-bembex
 blennorhea
 bito
 bitonal
