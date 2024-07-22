@@ -3092,7 +3092,6 @@ elongations
 externalist
 enplanement
 elope
-elopement
 elopements
 eurithermophilic
 eloper
@@ -9710,6 +9709,7 @@ esophagorrhagia
 esophagoscope
 eglestonite
 esophagostomy
+elopement
 explida
 endorsor
 enteromycosis
