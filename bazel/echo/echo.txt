@@ -3743,7 +3743,6 @@ essancias
 estudy
 esculin
 echappe
-excerpt
 embrues
 embruing
 embruted
@@ -12362,6 +12361,7 @@ ectodynamomorphic
 exempted
 exemption
 exemptionist
+excerpt
 eduskunta
 euphonical
 endotheloid
