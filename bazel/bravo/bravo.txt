@@ -6337,6 +6337,7 @@ biolith
 belanda
 benzene
 benzeneazobenzene
+blarny
 benzenediazonium
 benzenes
 benzenyl
@@ -10365,7 +10366,6 @@ blarneyed
 blarneyer
 blarneying
 breadthless
-blarny
 blarnid
 blart
 blas
