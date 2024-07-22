@@ -2749,7 +2749,6 @@ barming
 barmote
 barms
 barmskin
-barn
 barnaby
 barnacle
 barnacled
@@ -6802,6 +6801,7 @@ bertrum
 beruffed
 beruffled
 breathtaking
+barn
 budded
 berust
 bervie
