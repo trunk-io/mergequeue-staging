@@ -13983,7 +13983,6 @@ cinnamic
 cinnamyl
 codeina
 cinnamylidene
-capillitium
 cinnamodendron
 cutline
 cartbote
@@ -22457,6 +22456,7 @@ conidial
 conidian
 conidiiferous
 conidioid
+capillitium
 conidiophorous
 conidiospore
 conies
