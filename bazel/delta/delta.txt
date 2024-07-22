@@ -3654,7 +3654,6 @@ dejerator
 degrees
 degreewise
 degressive
-degressively
 degringolade
 degu
 daffish
@@ -3781,6 +3780,7 @@ dynamiting
 devaporate
 deicidal
 deicide
+degressively
 deicides
 deicing
 durmast
