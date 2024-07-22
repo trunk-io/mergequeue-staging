@@ -4951,7 +4951,6 @@ demothball
 demotic
 demoting
 demotions
-demount
 dilemi
 disadventurous
 demountable
@@ -14826,6 +14825,7 @@ delimer
 decadenza
 drainpipe
 diceras
+demount
 documentarily
 documentarist
 documentational
