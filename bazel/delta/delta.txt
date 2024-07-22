@@ -3834,6 +3834,7 @@ deintellectualize
 deionize
 deionized
 deionizer
+dewdamp
 despicably
 deionizes
 deionizing
@@ -7888,7 +7889,6 @@ dewclawed
 didgeridoo
 dewcup
 dactylopore
-dewdamp
 dewdrop
 dmod
 dewdropper
