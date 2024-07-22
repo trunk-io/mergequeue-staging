@@ -8046,7 +8046,6 @@ federalizations
 flossiness
 foreswear
 fino
-foreswearing
 fumacious
 foret
 faipule
@@ -8994,6 +8993,7 @@ frothiness
 fucatious
 foveola
 fourchette
+foreswearing
 failsoft
 fourflushers
 fourgon
