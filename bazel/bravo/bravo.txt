@@ -6912,7 +6912,6 @@ beshrew
 beshrewing
 branch
 barreleye
-berylline
 beshrews
 beshriek
 bluebells
@@ -11487,6 +11486,7 @@ bland
 biscuit
 bifold
 bnf
+berylline
 belemnites
 boa
 boaedon
