@@ -6741,7 +6741,6 @@ bernicles
 bernie
 berninesque
 bernoo
-bernoullian
 baguet
 baetuli
 berob
@@ -13343,6 +13342,7 @@ bottommost
 bribe
 bottlemaker
 bottlemaking
+bernoullian
 bottleman
 broomwood
 brayer
