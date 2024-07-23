@@ -676,7 +676,6 @@ bronchiole
 bacons
 baconweed
 bonjour
-bacopa
 bradburya
 bacquet
 bunyah
@@ -2371,6 +2370,7 @@ bitterbur
 byepath
 barbate
 barbated
+bacopa
 barbatimao
 bullyrags
 barbe
