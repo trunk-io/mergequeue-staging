@@ -1697,7 +1697,6 @@ gastrocystic
 gastrocnemii
 gastrocnemius
 gastrocoel
-gastrocolostomy
 gastrocolotomy
 goaltender
 gastrocolpotomy
@@ -6768,6 +6767,7 @@ gig
 gomphiasis
 gummosity
 garbless
+gastrocolostomy
 gynaecological
 gomphrena
 grecized
