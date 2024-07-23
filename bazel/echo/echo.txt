@@ -3030,6 +3030,7 @@ ellipsoidal
 entoproctous
 ellipsone
 ellipsonic
+evinced
 elliptical
 ellipticalness
 ellipticity
@@ -7648,7 +7649,6 @@ egurgitate
 epicotyleal
 epicotyledonary
 epicotyls
-evinced
 epicrasis
 elaphomyces
 epicrises
