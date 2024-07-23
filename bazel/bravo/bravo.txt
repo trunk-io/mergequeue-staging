@@ -4013,7 +4013,6 @@ bulletproofed
 bealtared
 beam
 beamer
-beamful
 bechances
 beamhouse
 beamier
@@ -12755,6 +12754,7 @@ boose
 balcony
 buccinae
 boost
+beamful
 bioclimatology
 bariatrician
 booster
