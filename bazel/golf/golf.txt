@@ -597,7 +597,6 @@ graptolitic
 gynomonoecious
 gallicism
 gallicization
-gallicize
 gunong
 gallicizer
 gallicola
@@ -8414,6 +8413,7 @@ galvanization
 gravamem
 ganodonta
 gliffs
+gallicize
 girthed
 geodetician
 grave
