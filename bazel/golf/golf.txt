@@ -2114,7 +2114,6 @@ gawney
 ginglymoidal
 gapa
 gawp
-gtc
 glassmen
 growl
 gibbartas
@@ -9518,6 +9517,7 @@ grove
 gentrice
 gol
 groved
+gtc
 gravific
 gastrotaxis
 germina
