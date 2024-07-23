@@ -6885,7 +6885,6 @@ entomophobia
 endangers
 entomophthoraceous
 eschalot
-entomophthorous
 entomostracan
 entomotaxy
 entomotomy
@@ -9703,6 +9702,7 @@ entwist
 esophagoplegia
 eunuchry
 esophagoptosis
+entomophthorous
 esophagorrhagia
 esophagoscope
 eglestonite
