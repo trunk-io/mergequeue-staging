@@ -8384,7 +8384,6 @@ flingdust
 formats
 fogbows
 formatter
-fermentarian
 flappering
 formazan
 formazyl
@@ -11464,6 +11463,7 @@ factorability
 furomethyl
 fishmen
 furomonazole
+fermentarian
 fernando
 froze
 forgemen
