@@ -1586,6 +1586,7 @@ galeenies
 gasoliery
 gangland
 gnatproof
+gyms
 gasoliers
 garrisonism
 gasoline
@@ -4379,7 +4380,6 @@ grayness
 giddyish
 gimpier
 gimpiest
-gyms
 gaunted
 gin
 gyn
