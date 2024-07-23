@@ -5411,7 +5411,6 @@ groomy
 glenoidal
 glent
 glessite
-glew
 gallied
 garotes
 gliadine
@@ -6145,6 +6144,7 @@ gluelikeness
 ganta
 girns
 gluepot
+glew
 guldengroschen
 glug
 gloominess
