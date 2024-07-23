@@ -1352,6 +1352,7 @@ balantidiasis
 backsettler
 balantidium
 backstroked
+booklores
 balao
 balaos
 bevel
@@ -12650,7 +12651,6 @@ bosniac
 booklore
 butyne
 boatheader
-booklores
 booklover
 bookmaker
 biconcavity
