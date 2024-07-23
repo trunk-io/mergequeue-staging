@@ -1911,7 +1911,6 @@ bootleg
 bandaging
 brakes
 bigging
-bandagist
 boardmen
 bandaid
 bandaka
@@ -9712,6 +9711,7 @@ bisons
 bisontine
 bispinose
 bispinous
+bandagist
 bathybian
 bisporous
 bisques
