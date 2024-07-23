@@ -44,7 +44,6 @@ fabula
 frostings
 fermatas
 fabulate
-fabulize
 fideistic
 fabulosity
 fabulous
@@ -5716,6 +5715,7 @@ foxtails
 flitting
 flittingly
 fordwine
+fabulize
 flitwite
 flivvers
 fornices
