@@ -7627,6 +7627,7 @@ fungicide
 forefeet
 foiled
 forefence
+fie
 forefend
 fainty
 forefending
@@ -10667,7 +10668,6 @@ fruitlet
 fruitlike
 fruitling
 fruits
-fie
 fruitstalk
 fruittime
 fruitwoman
