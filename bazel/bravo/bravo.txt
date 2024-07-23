@@ -4868,6 +4868,7 @@ beedom
 beef
 beefalo
 beefaloes
+buddles
 bogyisms
 bijugate
 beefalos
@@ -16658,7 +16659,6 @@ buddle
 barramundas
 buddled
 buddler
-buddles
 buddling
 budge
 budgeree
