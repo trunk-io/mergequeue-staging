@@ -7693,7 +7693,6 @@ forehew
 forehock
 forehoof
 facsim
-forehoofs
 fibular
 foreyard
 foreyear
@@ -10985,6 +10984,7 @@ flagellar
 forbearances
 finally
 fumarases
+forehoofs
 fumaria
 formulatory
 fungivorous
