@@ -2014,7 +2014,6 @@ caudebeck
 cusso
 campanularidae
 campanulatae
-campanulate
 campanulated
 campanulous
 campaspe
@@ -2283,6 +2282,7 @@ cancels
 cancer
 cheekpiece
 chiral
+campanulate
 cancerated
 cancerating
 canceration
