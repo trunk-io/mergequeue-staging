@@ -2035,7 +2035,6 @@ gavages
 gave
 glaciologist
 geographer
-gavel
 gilia
 gaveler
 gosplan
@@ -10579,6 +10578,7 @@ gunshop
 grudged
 gunslingers
 gunsman
+gavel
 grandiloquence
 gazetteers
 geoscopic
