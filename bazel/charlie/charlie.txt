@@ -25654,6 +25654,7 @@ corporations
 cir
 corners
 corporatist
+cirques
 corporature
 corporeal
 companion
@@ -31512,7 +31513,6 @@ curtailedly
 curtailer
 curtailing
 curtailments
-cirques
 curtain
 curtained
 curtaining

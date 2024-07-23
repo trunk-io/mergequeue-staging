@@ -645,7 +645,6 @@ faltboat
 faltche
 faltere
 filarial
-faltered
 falterer
 fettlings
 falteringly
@@ -5619,6 +5618,7 @@ flypasts
 flipe
 foredeep
 formidableness
+faltered
 fconv
 filths
 first
