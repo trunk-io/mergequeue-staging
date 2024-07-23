@@ -3402,7 +3402,6 @@ deflorescence
 demiquaver
 dropforged
 donacidae
-deflower
 deflowered
 deflowerer
 disbelieved
@@ -9130,6 +9129,7 @@ dictyograptus
 dictyoid
 disparage
 dictionary
+deflower
 dictionarian
 dictionaries
 dictyonema
