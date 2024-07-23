@@ -4871,6 +4871,7 @@ flamless
 finesses
 flammable
 floorers
+forehands
 flammant
 flouncey
 flagroot
@@ -7682,7 +7683,6 @@ forehandedly
 forehandedness
 frouncing
 fiddlestring
-forehands
 freeman
 futteret
 forehatch
