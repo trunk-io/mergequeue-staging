@@ -12010,7 +12010,6 @@ antidiphtheritic
 anarthrous
 anarthrously
 anarthrousness
-abscess
 agronome
 achlorhydria
 amens
@@ -24420,6 +24419,7 @@ autosomatognosis
 autosomatognostic
 athort
 autosome
+abscess
 autosomes
 autosoteric
 amounted
