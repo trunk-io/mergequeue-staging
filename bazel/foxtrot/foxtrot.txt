@@ -2720,7 +2720,6 @@ fetcher
 fetchers
 fetches
 fetching
-fete
 feteless
 feterita
 fibrinolysis
@@ -10765,6 +10764,7 @@ fayalite
 fosterable
 frutices
 fruticeta
+fete
 fruticetum
 fruticose
 feedboard
