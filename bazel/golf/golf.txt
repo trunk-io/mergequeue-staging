@@ -9130,7 +9130,6 @@ gunnysack
 grumbled
 gripsacks
 gaunt
-geochronic
 gayyou
 griquaite
 griqualander
@@ -10699,6 +10698,7 @@ gloeosporium
 gunsel
 gussying
 gypsiologist
+geochronic
 gustable
 gustables
 gigunu
