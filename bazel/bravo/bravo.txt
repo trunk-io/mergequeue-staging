@@ -4183,6 +4183,7 @@ beatless
 backlit
 beatnik
 beatrix
+broom
 brattice
 boggard
 barkantine
@@ -4786,7 +4787,6 @@ bedrugs
 bipyridyl
 bedscrew
 bedsheet
-broom
 blackboards
 brookflower
 bedside
