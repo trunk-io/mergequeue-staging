@@ -1323,7 +1323,6 @@ daughterlike
 directitude
 daughterliness
 daughters
-daughtership
 dhundia
 dauk
 dauke
@@ -3989,6 +3988,7 @@ deerdrive
 delectations
 delectible
 dambose
+daughtership
 delectus
 delegable
 delegacy
