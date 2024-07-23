@@ -7885,7 +7885,6 @@ cardshark
 cervicoscapular
 cervicothoracic
 cervicovesical
-cervid
 cervidae
 cervinae
 cervine
@@ -27730,6 +27729,7 @@ cowper
 cowperian
 circumscribable
 comedians
+cervid
 confuted
 cowpock
 costal
