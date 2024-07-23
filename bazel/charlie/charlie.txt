@@ -2740,7 +2740,6 @@ catalufas
 cynomoriaceous
 canst
 canstick
-chargable
 cant
 cedrela
 cantabank
@@ -3290,6 +3289,7 @@ ceroma
 caprimulgiformes
 caprimulgine
 caprimulgus
+chargable
 caprin
 caprine
 caprinic
