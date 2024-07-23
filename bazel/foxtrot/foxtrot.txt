@@ -2808,7 +2808,6 @@ foreknowable
 feudalising
 fendy
 firedrake
-feudalism
 finagling
 foehns
 feudalistic
@@ -8639,6 +8638,7 @@ furcae
 fraxinus
 forthbring
 fantasmal
+feudalism
 forthfare
 fudge
 forthcomer
