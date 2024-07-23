@@ -1402,6 +1402,7 @@ grivets
 garlics
 galloner
 gibier
+gotos
 garlion
 goethites
 garment
@@ -7387,7 +7388,6 @@ gallinula
 guttable
 gaum
 gelilah
-gotos
 gonia
 gotraja
 gotten
