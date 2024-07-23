@@ -4017,7 +4017,6 @@ adjourn
 aubretia
 adjournal
 adjourned
-adjourning
 adjournments
 adjourns
 adjoust
@@ -7226,6 +7225,7 @@ akre
 akroasis
 anorchus
 alisier
+adjourning
 akroter
 arithmetization
 akroterion
