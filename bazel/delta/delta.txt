@@ -6377,7 +6377,6 @@ dikast
 discretionarily
 dermohemal
 dermohemia
-dermoid
 dermoidectomy
 desexed
 dipsy
@@ -16607,6 +16606,7 @@ dyspnoeic
 draftman
 debutants
 draftmanship
+dermoid
 draftproof
 drafts
 dendrodont
