@@ -7742,7 +7742,6 @@ biannually
 blandfordia
 bestraught
 biarcuate
-bloc
 biarticulate
 bestudded
 biarticulated
@@ -14801,6 +14800,7 @@ bearhug
 bumblingness
 breaking
 breakings
+bloc
 breaklist
 breakout
 breakouts
