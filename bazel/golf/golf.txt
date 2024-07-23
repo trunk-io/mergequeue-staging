@@ -3421,6 +3421,7 @@ gerkin
 gerland
 gonagra
 germ
+groomed
 germal
 german
 germane
@@ -10223,7 +10224,6 @@ guildship
 glycogen
 guileful
 gamogenesis
-groomed
 grouters
 gaeldom
 gripping
