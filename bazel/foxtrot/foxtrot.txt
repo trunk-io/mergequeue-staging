@@ -3678,6 +3678,7 @@ filmet
 filmgoers
 fop
 filmgoing
+fishable
 filmy
 filmic
 fawningness
@@ -4302,7 +4303,6 @@ fise
 fisetin
 fulgurous
 fishability
-fishable
 fishback
 forded
 floodgate
