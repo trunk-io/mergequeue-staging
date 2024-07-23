@@ -1679,7 +1679,6 @@ bereaving
 ballota
 ballotage
 balloter
-balloting
 ballotist
 ballottable
 ballottine
@@ -5284,6 +5283,7 @@ begrimes
 begrimmed
 begrimming
 begroan
+balloting
 befortune
 begroaned
 begrown
