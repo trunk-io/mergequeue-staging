@@ -6593,7 +6593,6 @@ deseam
 dished
 desecrate
 depositors
-desecrated
 desecrater
 desecrates
 desecration
@@ -15932,6 +15931,7 @@ dosing
 dosinia
 dosiology
 duller
+desecrated
 dositheans
 dosology
 devolatilized
