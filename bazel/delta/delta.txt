@@ -5051,6 +5051,7 @@ denaturants
 denaturation
 denaturational
 discure
+demur
 dehumanize
 denature
 denatured
@@ -14666,7 +14667,6 @@ doarium
 dubiocrystalline
 dromic
 doaty
-demur
 doating
 doatish
 doats
