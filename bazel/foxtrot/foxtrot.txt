@@ -4396,7 +4396,6 @@ fissidentaceae
 flagfish
 foreshorten
 fissile
-fissilingual
 flourescent
 fissilinguia
 facemark
@@ -8055,6 +8054,7 @@ feynesses
 floruits
 foreteach
 fogfruits
+fissilingual
 fathogram
 foretellers
 foretelling
