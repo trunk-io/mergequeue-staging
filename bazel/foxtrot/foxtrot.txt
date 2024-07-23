@@ -2554,7 +2554,6 @@ ferrotypes
 ferrotungsten
 ferrovanadium
 furore
-ferrozirconium
 forenotion
 fangled
 flashly
@@ -8150,6 +8149,7 @@ forfalt
 fielding
 flintlocks
 forfare
+ferrozirconium
 forfars
 fresnel
 feedstuffs
