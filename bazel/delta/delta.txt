@@ -14367,7 +14367,6 @@ downstage
 dolioform
 di
 diverberate
-diverge
 diverged
 ducked
 divergency
@@ -14525,6 +14524,7 @@ divisible
 division
 divisional
 divisionally
+diverge
 diachronicness
 divisionary
 drissel

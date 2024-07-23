@@ -2829,6 +2829,7 @@ extirp
 evaporize
 expoundable
 elevenfold
+escalations
 eliminates
 euphemism
 eleventhly
@@ -9440,7 +9441,6 @@ escalating
 externate
 escalation
 execrates
-escalations
 escalator
 escalin
 escalloniaceae
