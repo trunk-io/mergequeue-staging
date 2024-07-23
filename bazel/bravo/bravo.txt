@@ -3280,7 +3280,6 @@ bractea
 basileus
 beambird
 basilian
-basilica
 basilical
 brandish
 basilicalike
@@ -14866,6 +14865,7 @@ bilaterally
 breathily
 breathiness
 breathing
+basilica
 basions
 breathingly
 beche
