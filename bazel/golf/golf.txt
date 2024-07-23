@@ -7280,7 +7280,6 @@ gorry
 gliadins
 giles
 gorse
-givenness
 gorsebird
 gorsechat
 glistering
@@ -9787,6 +9786,7 @@ gonidiospore
 guachipilin
 gourounut
 guacimo
+givenness
 grantia
 gravidae
 guaco
