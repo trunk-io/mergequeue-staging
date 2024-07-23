@@ -4971,7 +4971,6 @@ edplot
 echovirus
 enskyed
 endemics
-endorsable
 endenize
 endostylar
 ender
@@ -5715,6 +5714,7 @@ english
 epithalamia
 englishable
 enfoil
+endorsable
 endochrome
 eadi
 englisher
