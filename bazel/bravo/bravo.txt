@@ -2955,7 +2955,6 @@ barranco
 barrancos
 barrandite
 barras
-barrat
 barrater
 backbreaker
 barraters
@@ -18015,6 +18014,7 @@ busybodies
 banally
 busybodyish
 busybodyism
+barrat
 bharti
 brachystochrone
 busybodyness
