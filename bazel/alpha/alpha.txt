@@ -19246,7 +19246,6 @@ arctoidea
 axin
 arctoidean
 arctomys
-arctosis
 arctostaphylos
 arcual
 arcuale
@@ -22774,6 +22773,7 @@ atomical
 atomically
 atomicism
 atomicity
+arctosis
 antiqueness
 atomises
 atomising
