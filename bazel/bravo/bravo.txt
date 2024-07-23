@@ -6778,7 +6778,6 @@ berrugate
 bersagliere
 berseem
 berserk
-berserker
 berserks
 bersiamite
 bersil
@@ -14396,6 +14395,7 @@ boguing
 brambliest
 brambrack
 bourgeoise
+berserker
 bramia
 bran
 bolivarite

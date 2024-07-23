@@ -10093,7 +10093,6 @@ cherimolla
 cherish
 cherishable
 cherished
-cherishes
 cherishingly
 cherishment
 cherkess
@@ -17426,6 +17425,7 @@ coauthered
 coauthor
 cicatrisive
 coauthored
+cherishes
 coauthoring
 camera
 connectedness
