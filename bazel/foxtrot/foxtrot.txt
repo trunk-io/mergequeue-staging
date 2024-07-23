@@ -136,6 +136,7 @@ fictile
 facticide
 factional
 furnacite
+foederal
 forfeit
 factionalism
 factionalist
@@ -11150,7 +11151,6 @@ fundulinae
 funduline
 fundulus
 firemanship
-foederal
 fauterer
 firebrands
 fluorindine
