@@ -3371,7 +3371,6 @@ capsulorrhaphy
 capsulotomy
 captacula
 captain
-cornuses
 captaincy
 captaincies
 captained
@@ -26770,6 +26769,7 @@ ceratocricoid
 caressant
 counterbond
 counterborder
+cornuses
 counterbore
 counterbored
 counterborer
