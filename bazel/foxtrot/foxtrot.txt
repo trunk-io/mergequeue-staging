@@ -6028,6 +6028,7 @@ floriscope
 fisherboat
 floristics
 formals
+fuscescent
 florivorous
 fimbriate
 florizine
@@ -11542,7 +11543,6 @@ fazendas
 fusarium
 farmerish
 fusate
-fuscescent
 fuscin
 fuscous
 fuse
