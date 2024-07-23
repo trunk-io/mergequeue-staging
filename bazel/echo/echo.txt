@@ -7538,7 +7538,6 @@ epibiotic
 epiblast
 epicheirema
 escharine
-excreation
 epiblastema
 epiblastic
 epiboly
@@ -11715,6 +11714,7 @@ ensigned
 ewder
 emacerated
 ewerer
+excreation
 ewery
 etchings
 ebonizes
