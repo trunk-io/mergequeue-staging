@@ -5187,7 +5187,6 @@ flavoriness
 farrow
 felsic
 forsworn
-flavorless
 flavors
 flavorsome
 formulators
@@ -11161,6 +11160,7 @@ funerally
 fanbearer
 funerals
 funerary
+flavorless
 frenchize
 funeration
 flense
