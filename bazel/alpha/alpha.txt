@@ -7938,7 +7938,6 @@ alerta
 alerted
 anomalotrophy
 alertedly
-alerter
 astragalocentral
 arrivederci
 alerters
@@ -21756,6 +21755,7 @@ assign
 assignability
 assignable
 assignably
+alerter
 assignations
 assignats
 assigned
