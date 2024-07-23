@@ -1154,7 +1154,6 @@ bairnie
 bairnish
 bairnishness
 bairnly
-bairnlier
 bairnliest
 bakongo
 bairnliness
@@ -2840,6 +2839,7 @@ baronet
 bejel
 baronetcy
 baroneted
+bairnlier
 baronetical
 baroneting
 baronetise
