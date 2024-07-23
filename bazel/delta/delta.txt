@@ -885,6 +885,7 @@ defenses
 diffusers
 dantophily
 diagnosis
+degradational
 dyspnoi
 dantophilist
 disagglomeration
@@ -3612,7 +3613,6 @@ degorder
 descriptory
 degradable
 degradation
-degradational
 degradative
 degrade
 dolesome
