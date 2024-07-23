@@ -3755,7 +3755,6 @@ dehumanisation
 dramatise
 dachshound
 dehumanise
-dehumanize
 dehumanized
 dehumanizing
 dehumidify
@@ -5048,6 +5047,7 @@ denaturants
 denaturation
 denaturational
 discure
+dehumanize
 denature
 denatured
 dissentism
