@@ -11605,7 +11605,6 @@ cholecystic
 cholecystis
 cholecystitis
 cozies
-cholecystnephrostomy
 cholecystocolotomy
 cholecystogastrostomy
 cholecystography
@@ -29004,6 +29003,7 @@ cricketlike
 caryatidic
 crickets
 cricking
+cholecystnephrostomy
 crickle
 counterinsurgent
 cricks
