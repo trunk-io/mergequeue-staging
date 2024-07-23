@@ -3164,7 +3164,6 @@ actinolite
 antihemagglutinin
 actinolitic
 actinology
-actinomere
 adenomyofibroma
 actinomeric
 axoplasm
@@ -9515,6 +9514,7 @@ althionic
 altho
 althorn
 althorns
+actinomere
 although
 altica
 alticamelus
