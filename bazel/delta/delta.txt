@@ -3399,6 +3399,7 @@ deflore
 deflorescence
 demiquaver
 dropforged
+dolomites
 donacidae
 deflowered
 deflowerer
@@ -6178,7 +6179,6 @@ deride
 draggled
 derided
 desoeuvre
-dolomites
 deriding
 deridingly
 dries
