@@ -2508,7 +2508,6 @@ djalmaite
 dialin
 declines
 declining
-declinograph
 declivate
 declive
 daer
@@ -14532,6 +14531,7 @@ division
 divisional
 divisionally
 diverge
+declinograph
 diachronicness
 divisionary
 drissel
