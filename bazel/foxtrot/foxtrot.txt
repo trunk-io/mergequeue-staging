@@ -7453,7 +7453,6 @@ foreadvertise
 foreadvice
 foreallege
 foreannounce
-finesser
 fluctuable
 foreannouncement
 flutidae
@@ -7946,6 +7945,7 @@ foreshow
 fevering
 foreshowed
 foreshower
+finesser
 foreshows
 furciferine
 foreside
