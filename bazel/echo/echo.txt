@@ -5563,6 +5563,7 @@ enfolden
 enfolder
 enfolding
 enfolds
+exonerated
 electrobrasser
 enfonce
 elbowboard
@@ -12722,7 +12723,6 @@ exoner
 exonerate
 exhibited
 engravers
-exonerated
 evenforth
 extreat
 evangelion

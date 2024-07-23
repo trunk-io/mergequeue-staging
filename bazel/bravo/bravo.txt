@@ -2027,6 +2027,7 @@ brachyura
 bandsaw
 bandsawed
 badness
+beguiled
 bandsawn
 breastmark
 bandsman
@@ -11280,7 +11281,6 @@ bluebead
 burglarise
 blob
 berycoid
-beguiled
 bluebeard
 bluebeardism
 bluebell
