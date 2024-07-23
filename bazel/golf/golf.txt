@@ -8426,7 +8426,6 @@ grave
 grattoirs
 grangerizing
 gadite
-graveclothes
 gravedigger
 gleba
 gunneress
@@ -8837,6 +8836,7 @@ gremmies
 garnishable
 gentoo
 guffy
+graveclothes
 grenadier
 grapsoid
 grenadierial
