@@ -482,6 +482,7 @@ fervors
 falces
 falchion
 featherers
+ferritic
 fanweed
 falcial
 falcidian
@@ -9420,7 +9421,6 @@ feuing
 foreloper
 flavins
 frankness
-ferritic
 flowerfly
 faitery
 furazan

@@ -1712,7 +1712,6 @@ bullterrier
 binocs
 ballup
 broadtail
-ballute
 barbecuer
 balm
 benacus
@@ -17935,6 +17934,7 @@ bushcraft
 benadryl
 bushed
 bushel
+ballute
 bushelbasket
 bradypodidae
 busheler
