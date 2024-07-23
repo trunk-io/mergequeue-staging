@@ -6746,7 +6746,6 @@ aiglette
 aigre
 aigremore
 affectivity
-arteriometer
 aigret
 aigrets
 aigrette
@@ -15426,6 +15425,7 @@ antiholiday
 antihormone
 antihuff
 aspergillales
+arteriometer
 antihum
 antihuman
 anesthetize
