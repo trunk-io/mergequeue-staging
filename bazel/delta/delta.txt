@@ -4719,7 +4719,6 @@ demivolts
 demivotary
 dihydronicotine
 demiwivern
-demiwolf
 despited
 decoction
 demnition
@@ -10889,6 +10888,7 @@ directors
 directorship
 directorships
 dizziness
+demiwolf
 directrix
 directs
 direful
