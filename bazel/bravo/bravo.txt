@@ -1063,6 +1063,7 @@ brutes
 baiginet
 birefracting
 blain
+breakweather
 baigneuse
 baigneuses
 blites
@@ -14821,7 +14822,6 @@ boussingaultia
 boneheaded
 breakup
 breakups
-breakweather
 bream
 breaming
 breards
