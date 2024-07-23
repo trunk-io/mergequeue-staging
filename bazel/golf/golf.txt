@@ -3132,6 +3132,7 @@ genitive
 geologian
 gletscher
 geological
+germinant
 geologician
 geologies
 geologised
@@ -5052,7 +5053,6 @@ glaciomarine
 garfish
 genoa
 glaciometer
-germinant
 gnomologic
 glacionatant
 gruffier
