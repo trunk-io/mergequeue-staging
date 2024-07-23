@@ -2128,6 +2128,7 @@ grothite
 gazabos
 gurdy
 gazangabin
+glidewort
 gazania
 gazebos
 gaffsman
@@ -5548,7 +5549,6 @@ glider
 gliders
 grando
 gatehouse
-glidewort
 germanely
 gliding
 glidingly
