@@ -8554,7 +8554,6 @@ alkylbenzenesulfonates
 alkylene
 alkylic
 alkylidene
-alkylize
 alkylogen
 angeyok
 alkylol
@@ -25251,6 +25250,7 @@ azobenzene
 azobenzil
 adolescency
 azobenzoic
+alkylize
 azoch
 azocyanide
 azocyclic
