@@ -2817,7 +2817,6 @@ elevation
 epitactic
 eyren
 endere
-etiolin
 elevations
 elevato
 emetophobia
@@ -11698,6 +11697,7 @@ evolvable
 empeoplement
 evolve
 electroretinogram
+etiolin
 evolvers
 evolving
 evomit
