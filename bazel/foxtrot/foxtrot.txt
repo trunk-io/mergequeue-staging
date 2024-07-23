@@ -2312,7 +2312,6 @@ feoffs
 fer
 fizziest
 feracities
-fieldstrip
 feramorz
 ferbams
 ferberite
@@ -5975,6 +5974,7 @@ floria
 floriage
 floriate
 florican
+fieldstrip
 fiddlers
 floricin
 floricomous
