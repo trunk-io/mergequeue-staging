@@ -506,7 +506,6 @@ falconiformes
 falconlike
 folium
 frizer
-falcons
 frontier
 fiercehearted
 fatigation
@@ -7202,6 +7201,7 @@ footrail
 ferrumination
 florimania
 fictitiously
+falcons
 furriered
 footropes
 frenchmen

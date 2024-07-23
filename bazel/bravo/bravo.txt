@@ -6929,7 +6929,6 @@ bathymeter
 besieges
 besieging
 bennies
-besiegingly
 braced
 backspread
 besigh
@@ -16333,6 +16332,7 @@ brushmaking
 buffets
 brushman
 bodyplate
+besiegingly
 brushmen
 bulbuls
 brushoff
