@@ -556,7 +556,6 @@ farragoes
 fallalishly
 fitchets
 fallals
-fallaway
 fallback
 formene
 fallbacks
@@ -6767,6 +6766,7 @@ fogman
 fogo
 fogou
 fairyhood
+fallaway
 floatiest
 fogramity
 fogrum
