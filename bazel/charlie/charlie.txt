@@ -9182,7 +9182,6 @@ chars
 charsingha
 charta
 collectable
-chartable
 chartaceous
 charter
 charterable
@@ -21193,6 +21192,7 @@ concavely
 counseled
 concaveness
 concaver
+chartable
 concaves
 concaving
 concavity
