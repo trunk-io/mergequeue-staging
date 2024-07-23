@@ -8832,6 +8832,7 @@ binocular
 binocularly
 bishops
 binoculate
+biome
 bracingness
 balkanizing
 binode
@@ -9000,7 +9001,6 @@ biomass
 biomasses
 biomaterial
 biomathematics
-biome
 biomechanical
 botanizer
 biomechanics
