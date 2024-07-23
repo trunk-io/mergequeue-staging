@@ -9928,7 +9928,6 @@ duodecahedron
 dimensionality
 dimensionally
 desecate
-dimensioning
 dimensions
 dimensum
 dissimulator
@@ -10069,6 +10068,7 @@ dimps
 diatesseron
 dimwit
 dimwitted
+dimensioning
 dimmock
 din
 dyn
