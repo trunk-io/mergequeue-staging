@@ -11216,7 +11216,6 @@ batteaux
 blowpipe
 breechclout
 blowpit
-bolster
 blows
 blowse
 botargo
@@ -15934,6 +15933,7 @@ bronchophthisis
 bronchoplasty
 bronchoplegia
 begoud
+bolster
 brawnier
 bronchopneumonic
 bronchopulmonary
