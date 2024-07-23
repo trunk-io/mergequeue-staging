@@ -10013,7 +10013,6 @@ ambigenous
 ambigu
 aelodicon
 ambiguity
-ambiguities
 ambiguous
 adviceful
 ambiguously
@@ -17861,6 +17860,7 @@ apposer
 apposers
 apposes
 apposing
+ambiguities
 apposiopestic
 awing
 appositeness
