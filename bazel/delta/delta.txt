@@ -2221,7 +2221,6 @@ decempunctate
 decemstriate
 decemvii
 decemvir
-decemviral
 decemvirate
 decemvirs
 decenaries
@@ -12740,6 +12739,7 @@ drabs
 duodiode
 disluster
 deasil
+decemviral
 dislustered
 diclinic
 dislustering
