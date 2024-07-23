@@ -3785,7 +3785,6 @@ ascesis
 adephagous
 australasian
 annihilates
-adeps
 adepter
 agrypnia
 amentiform
@@ -8138,6 +8137,7 @@ anargyros
 algidity
 algidness
 algieba
+adeps
 awaste
 algiers
 algific
