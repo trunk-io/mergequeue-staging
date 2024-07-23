@@ -7960,7 +7960,6 @@ bicentricity
 bicep
 bicephalic
 bicephalous
-biceps
 bicepses
 bipontine
 busting
@@ -16090,6 +16089,7 @@ brotel
 bebeast
 broth
 brothel
+biceps
 brotheler
 brothelry
 baldest
