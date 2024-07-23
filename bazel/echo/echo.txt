@@ -4692,7 +4692,6 @@ emforth
 encipher
 enciphered
 enciphering
-encipherment
 enciphers
 encircle
 endorsing
@@ -13473,6 +13472,7 @@ eisegesis
 embolomeri
 electrograving
 exserting
+encipherment
 exsertion
 engages
 exsheath
