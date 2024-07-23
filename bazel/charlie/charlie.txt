@@ -1177,6 +1177,7 @@ completable
 caledonite
 calef
 craunched
+castral
 calefaction
 calefactive
 calefactor
@@ -29758,7 +29759,6 @@ crook
 caulinary
 crookbacked
 crookbill
-castral
 crooked
 crotch
 crookedbacked
