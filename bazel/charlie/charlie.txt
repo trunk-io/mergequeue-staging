@@ -7032,7 +7032,6 @@ centavo
 centavos
 centena
 canadians
-centenar
 centenary
 centenarians
 cerviconasal
@@ -27778,6 +27777,7 @@ calceiform
 coxalgies
 coxankylometer
 coxcomb
+centenar
 coxcombess
 cinematheque
 coxcombhood
