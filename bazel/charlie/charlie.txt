@@ -18138,7 +18138,6 @@ censure
 coenobium
 coenoblastic
 coenocentrum
-coenocyte
 coenocytic
 coenodioecism
 cotehardie
@@ -28010,6 +28009,7 @@ craftsmanship
 craftsmen
 craftspeople
 craftsperson
+coenocyte
 craftswoman
 craftwork
 craftworker
