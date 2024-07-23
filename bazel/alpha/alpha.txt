@@ -2034,7 +2034,6 @@ alle
 acetabula
 acetabular
 amasthenic
-acetabularia
 acetabulous
 acetabulum
 acetabulums
@@ -6130,6 +6129,7 @@ amissness
 acclamation
 aphrosiderite
 aggregable
+acetabularia
 autoloading
 aggregant
 ardeidae
