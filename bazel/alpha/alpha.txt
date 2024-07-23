@@ -18376,7 +18376,6 @@ arachnopia
 abyssinian
 arad
 aradid
-aradidae
 arado
 araeometer
 araeotic
@@ -25007,6 +25006,7 @@ algums
 awning
 awninged
 awnings
+aradidae
 awnlike
 awns
 awoke
