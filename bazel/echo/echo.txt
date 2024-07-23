@@ -124,6 +124,7 @@ earpiece
 earplug
 earreach
 exportation
+endotys
 earring
 earringed
 eulima
@@ -5395,7 +5396,6 @@ endothia
 endothoracic
 endothrix
 ergodic
-endotys
 enzyms
 endotoxic
 eos
