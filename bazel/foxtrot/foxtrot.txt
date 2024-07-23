@@ -3975,7 +3975,6 @@ filiation
 fruitgrower
 finca
 finis
-finish
 figure
 finished
 flatterdock
@@ -5013,6 +5012,7 @@ forellenstein
 fable
 flashtubes
 ferricyanhydric
+finish
 fidia
 foxchop
 folky
