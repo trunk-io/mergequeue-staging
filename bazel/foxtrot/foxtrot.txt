@@ -462,6 +462,7 @@ fakiness
 fusain
 faking
 fakir
+fluidic
 falafel
 falange
 falasha
@@ -6260,7 +6261,6 @@ furtherest
 fluidally
 fluidextract
 fluidible
-fluidic
 flamberge
 fluidification
 fluidified
