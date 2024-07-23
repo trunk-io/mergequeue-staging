@@ -7222,7 +7222,6 @@ detected
 detecter
 detecters
 detectible
-detection
 depleteable
 dualities
 detective
@@ -15711,6 +15710,7 @@ diversiflorate
 dopperbird
 doppia
 dehydrogeniser
+detection
 doppio
 doppler
 dehumidifying
