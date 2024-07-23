@@ -356,7 +356,6 @@ daydreamers
 daydreaming
 daydreamlike
 daydreams
-digmeat
 daydrudge
 dayfly
 danite
@@ -4547,6 +4546,7 @@ doctoral
 demigardebras
 demigauntlet
 demigentleman
+digmeat
 dinornithoid
 demigorge
 diagnoses
