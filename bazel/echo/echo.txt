@@ -2953,7 +2953,6 @@ espousal
 eucrystalline
 epopee
 elitists
-elytral
 elatrometer
 elytriferous
 elytriform
@@ -11670,6 +11669,7 @@ ecumenics
 evoking
 evolate
 evolute
+elytral
 eruptional
 eloigns
 electrothermostat
