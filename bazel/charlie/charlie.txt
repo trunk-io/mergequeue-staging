@@ -6276,7 +6276,6 @@ causingness
 causon
 coachmaking
 causse
-caustic
 caustical
 caustically
 causticism
@@ -31533,6 +31532,7 @@ curtaxe
 curted
 curtein
 curarization
+caustic
 curteous
 curter
 curtesy
