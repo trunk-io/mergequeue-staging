@@ -1972,6 +1972,7 @@ bandicoots
 bandido
 bargello
 bonhomie
+bedtimes
 bandie
 bandying
 bandikai
@@ -9760,7 +9761,6 @@ bistouries
 bistournage
 bistratose
 bistre
-bedtimes
 brutalist
 bystreet
 bihamate

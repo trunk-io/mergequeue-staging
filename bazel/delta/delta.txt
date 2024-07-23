@@ -3782,7 +3782,6 @@ deicidal
 deicide
 degressively
 deicides
-deicing
 durmast
 deidesheimer
 deific
@@ -4977,6 +4976,7 @@ demultiplex
 demultiplexed
 demultiplexers
 disroot
+deicing
 diazepam
 demultiplexes
 demure
