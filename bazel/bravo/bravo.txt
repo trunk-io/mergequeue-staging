@@ -12875,7 +12875,6 @@ boulderhead
 breeziest
 boran
 borana
-borane
 boranes
 borani
 borate
@@ -15138,6 +15137,7 @@ brickmason
 brickred
 bricktimber
 bricktop
+borane
 brickwall
 brickwork
 brid
