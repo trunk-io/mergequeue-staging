@@ -2145,7 +2145,6 @@ acetins
 acetite
 acetize
 acetmethylanilide
-acetnaphthalide
 article
 acetoacetanilide
 acetoacetic
@@ -17046,6 +17045,7 @@ aplanogamete
 aplanospore
 acceleratingly
 aplasia
+acetnaphthalide
 aplasias
 aplastic
 analysing
