@@ -41,7 +41,6 @@ ecphonesis
 eardropper
 embrasure
 eardrum
-eardrums
 excitory
 egyptize
 eared
@@ -10585,6 +10584,7 @@ elinguated
 espigle
 exteriorised
 etiologist
+eardrums
 etiologue
 engrams
 etioporphyrin
