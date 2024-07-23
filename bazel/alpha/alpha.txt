@@ -15516,7 +15516,6 @@ allocatee
 antilogarithmic
 antilogarithms
 antilogy
-antilogic
 atropinize
 antilogies
 antilogism
@@ -18834,6 +18833,7 @@ archenteron
 archeocyte
 archeol
 archeology
+antilogic
 archeologian
 arguitively
 archeologically
