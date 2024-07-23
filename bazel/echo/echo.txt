@@ -2839,7 +2839,6 @@ elevons
 elf
 elfenfolk
 electrographite
-elfhood
 elocute
 endogeny
 epinard
@@ -10711,6 +10710,7 @@ eucrasy
 eucrasia
 efficaciousness
 epitheton
+elfhood
 eucrasite
 epibatholithic
 eucre
