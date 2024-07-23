@@ -6443,7 +6443,6 @@ emetology
 ensteep
 enstool
 enstranged
-ensuable
 ensuance
 ebcdic
 ensues
@@ -6851,6 +6850,7 @@ epeiridae
 elucidatory
 entom
 effet
+ensuable
 entomb
 entombed
 epanaphora
