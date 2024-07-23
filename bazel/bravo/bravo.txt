@@ -10080,7 +10080,6 @@ blacketeer
 blackface
 blackfeet
 blackfellow
-blackfellows
 blackfigured
 blackfins
 blackfish
@@ -11528,6 +11527,7 @@ boardlike
 boardman
 boardroom
 blubberers
+blackfellows
 balsamation
 boards
 blueprinting
