@@ -8879,7 +8879,6 @@ fraternisation
 fotched
 fother
 fothergilla
-fallible
 functionary
 fortravail
 fotmal
@@ -11190,6 +11189,7 @@ fillagreing
 flit
 fungify
 freshness
+fallible
 furacious
 fatcake
 fatted
