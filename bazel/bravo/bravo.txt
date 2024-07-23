@@ -603,7 +603,6 @@ backstrokes
 backstroking
 bu
 bombarded
-backstromite
 belibeling
 backswept
 barbered
@@ -11135,6 +11134,7 @@ bivinyl
 buttercup
 biprong
 blossomy
+backstromite
 bementite
 blossomless
 blossoms
