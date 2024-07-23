@@ -2059,7 +2059,6 @@ goldless
 groset
 guanin
 gaviiformes
-grotesquely
 gavot
 gape
 graminicolous
@@ -4827,6 +4826,7 @@ gneiss
 girned
 gripless
 gathering
+grotesquely
 gyro
 gyrocar
 glossopharyngeus
