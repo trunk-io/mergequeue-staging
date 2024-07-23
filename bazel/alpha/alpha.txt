@@ -11421,7 +11421,6 @@ amtrack
 awkwardness
 amtracs
 amarity
-amtrak
 amu
 aweather
 assemblage
@@ -21122,6 +21121,7 @@ asexual
 ablude
 asexualisation
 asexualised
+amtrak
 asexualising
 asexuality
 asexualization
