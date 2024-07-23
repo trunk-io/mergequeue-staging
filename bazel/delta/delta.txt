@@ -2470,7 +2470,6 @@ declaration
 declarative
 deprevation
 deutzias
-declarator
 declaratory
 declaratorily
 declare
@@ -4993,6 +4992,7 @@ demurest
 demurrage
 demurral
 defunctionalize
+declarator
 demurrals
 demurrant
 demurrer
