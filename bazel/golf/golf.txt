@@ -1342,7 +1342,6 @@ gamesmanship
 gare
 garefowl
 goldsmith
-garefowls
 garetta
 garewaite
 giveaway
@@ -4568,6 +4567,7 @@ ginnery
 gruffiness
 gonofs
 gorbellied
+garefowls
 guesdist
 gigging
 gingerroot
