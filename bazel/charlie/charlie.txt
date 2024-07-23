@@ -6975,6 +6975,7 @@ censive
 censor
 censorable
 censorate
+circumtropical
 censorial
 censorian
 chiarooscuros
@@ -16595,7 +16596,6 @@ crawlspace
 cloggily
 clogginess
 coresort
-circumtropical
 clogging
 cloglike
 clogmaker
