@@ -2726,7 +2726,6 @@ barkless
 barleybreak
 barleyhood
 barleymow
-barleys
 barleysick
 barly
 barling
@@ -15706,6 +15705,7 @@ broiden
 broider
 broidered
 broiderer
+barleys
 broidery
 broideries
 broiders

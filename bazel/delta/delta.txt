@@ -148,7 +148,6 @@ dactyls
 dermatobia
 dactylus
 dacus
-dad
 dada
 dryfist
 dustcoat
@@ -15972,6 +15971,7 @@ dot
 dinosaurian
 dermoossification
 dotage
+dad
 doubleword
 dotal
 dotard
