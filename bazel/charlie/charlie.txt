@@ -4222,6 +4222,7 @@ cladophyll
 cathine
 cementite
 caribes
+claymores
 caribi
 caribou
 caribous
@@ -5318,7 +5319,6 @@ castlelike
 consociating
 corkers
 coix
-claymores
 castlery
 castles
 carvers
