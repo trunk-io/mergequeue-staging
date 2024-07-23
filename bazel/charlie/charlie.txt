@@ -4675,7 +4675,6 @@ conchylium
 charrette
 carpophyll
 carpophyte
-carpophore
 carpopodite
 carpoptosia
 carfuffle
@@ -6549,6 +6548,7 @@ cecum
 camball
 cecums
 cecutiency
+carpophore
 collocation
 cedar
 cedared
