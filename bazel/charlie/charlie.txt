@@ -2006,7 +2006,6 @@ campanulaceous
 campanulales
 campanular
 campanularia
-campanulariae
 clayish
 cruth
 campanularian
@@ -25721,6 +25720,7 @@ carditis
 correctable
 corrected
 coatroom
+campanulariae
 correctedness
 correctest
 correctify
