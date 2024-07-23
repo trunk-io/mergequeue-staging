@@ -801,7 +801,6 @@ galvanosurgery
 garnetlike
 gelogenic
 galvanotherapy
-galvanotropism
 galvo
 gunfight
 giojoso
@@ -6328,6 +6327,7 @@ glycerizin
 gnawable
 gnawed
 gnawer
+galvanotropism
 gnawing
 gelatinobromide
 gnawings
