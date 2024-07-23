@@ -4076,7 +4076,6 @@ flattens
 fireblende
 frontomental
 fireboard
-fireboat
 fireboats
 firearmed
 fuzzball
@@ -10503,6 +10502,7 @@ fulls
 fabricational
 ferlied
 forescent
+fireboat
 frostproofing
 frostroot
 frostwork
