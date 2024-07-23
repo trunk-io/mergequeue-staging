@@ -3183,7 +3183,6 @@ defencelessly
 defences
 defencive
 defend
-defendable
 defendant
 defendants
 defended
@@ -6258,6 +6257,7 @@ dermatatrophia
 darii
 dermatauxe
 dermathemia
+defendable
 disburgeon
 dermatherm
 dermatine
