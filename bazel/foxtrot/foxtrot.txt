@@ -3338,6 +3338,7 @@ feoff
 familistical
 forego
 fiestas
+foothold
 ficus
 flighty
 fieulamort
@@ -10406,7 +10407,6 @@ forgivableness
 fausant
 figulines
 fleckered
-foothold
 fusk
 flowerfence
 fitche
