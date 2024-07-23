@@ -2615,7 +2615,6 @@ decolourized
 daggles
 decolourizing
 dreamlike
-decommission
 decommissioned
 decommissioning
 dicranum
@@ -16499,6 +16498,7 @@ doze
 dozed
 dozened
 disembarkment
+decommission
 derbylite
 distemperure
 desks
