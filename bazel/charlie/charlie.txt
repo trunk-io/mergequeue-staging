@@ -4050,6 +4050,7 @@ cardioplegia
 cacozealous
 cardiopneumatic
 cardiopneumograph
+crosier
 cardiopulmonary
 cupules
 cardiopuncture
@@ -28466,7 +28467,6 @@ concomitantly
 creasing
 creasol
 creasot
-crosier
 create
 created
 creatic
