@@ -7019,7 +7019,6 @@ centauries
 centaurium
 centauromachy
 cuke
-centauromachia
 centaurs
 corr
 cerulignol
@@ -22676,6 +22675,7 @@ colicines
 conny
 connies
 culmination
+centauromachia
 cabble
 calender
 conniptions
