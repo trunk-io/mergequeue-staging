@@ -9597,7 +9597,6 @@ esterlin
 escrowed
 escuage
 envisages
-escudero
 escudos
 escuela
 esculapian
@@ -11701,6 +11700,7 @@ electroretinogram
 etiolin
 evolvers
 evolving
+escudero
 evomit
 epitomizing
 elbow
