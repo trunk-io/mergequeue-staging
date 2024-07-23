@@ -3827,7 +3827,6 @@ besugar
 bavarian
 bands
 bavaroy
-bavarois
 bavette
 baviaantje
 baviere
@@ -15726,6 +15725,7 @@ brokeress
 brachistocephalous
 brokerly
 brokers
+bavarois
 broking
 beglic
 bewearies
