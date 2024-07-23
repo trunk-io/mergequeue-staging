@@ -3991,6 +3991,7 @@ crocky
 cardioaccelerator
 cardioblast
 cardiocarpum
+capitellum
 clodpole
 cardiocirrhosis
 cardioclasia
@@ -4136,7 +4137,6 @@ congestus
 careful
 comparts
 carefuller
-capitellum
 carefullest
 carefully
 carefulness
