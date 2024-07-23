@@ -3692,7 +3692,6 @@ batswing
 batt
 bammed
 blicky
-battable
 brakemen
 battailant
 battailous
@@ -7843,6 +7842,7 @@ bipyridine
 boutell
 bibliokleptomania
 bibliolater
+battable
 binominous
 bibliolatry
 bibliolatrist

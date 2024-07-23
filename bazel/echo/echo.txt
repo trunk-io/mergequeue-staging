@@ -1022,7 +1022,6 @@ egalites
 espanol
 edaphically
 edaphon
-endoplastron
 edaphosaurus
 edda
 eddy
@@ -5707,6 +5706,7 @@ eisegetic
 englanders
 englante
 engleim
+endoplastron
 engler
 englify
 english
