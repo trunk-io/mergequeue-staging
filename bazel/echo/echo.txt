@@ -1088,7 +1088,6 @@ edibleness
 edictally
 exalters
 edicule
-ediface
 edify
 echolalia
 edificate
@@ -9456,6 +9455,7 @@ eulogism
 escallop
 esseda
 escalloped
+ediface
 equiponderation
 escalope
 escaloping
