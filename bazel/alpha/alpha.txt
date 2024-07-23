@@ -1336,6 +1336,7 @@ allophytoid
 arch
 acanthocarpous
 acanthocephala
+anarthrously
 acanthocephalan
 acanthocephalous
 acanthocereus
@@ -12003,7 +12004,6 @@ armagnac
 anarthrosis
 antidiphtheritic
 anarthrous
-anarthrously
 anarthrousness
 agronome
 achlorhydria
