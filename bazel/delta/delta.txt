@@ -8310,7 +8310,6 @@ diagraphics
 demigrate
 duplication
 diagraphs
-decastyle
 divestitive
 diagredium
 desand
@@ -10827,6 +10826,7 @@ dipterology
 dropouts
 dipteros
 dipterous
+decastyle
 dorsopleural
 dipterus
 diptyca
