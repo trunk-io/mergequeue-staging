@@ -4552,6 +4552,7 @@ fixated
 foodservices
 fineleaf
 fixatifs
+flocs
 fixation
 footslogs
 fixative
@@ -5814,7 +5815,6 @@ flockowner
 frangent
 flockwise
 flewed
-flocs
 flutterboard
 fairyfolk
 floeberg
