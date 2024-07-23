@@ -8188,6 +8188,7 @@ forgave
 forge
 forinsec
 forgeability
+formism
 forgeable
 forged
 forger
@@ -8456,7 +8457,6 @@ fado
 foretellableness
 forming
 flicker
-formism
 formless
 flutework
 flaxweed
