@@ -9157,7 +9157,6 @@ bisync
 biotechnics
 biotechnology
 barrett
-bigothero
 biotechnological
 biotechnologicaly
 biotechnologically
@@ -15624,6 +15623,7 @@ broadspread
 bellyfish
 broadsword
 ballyrags
+bigothero
 bluesman
 boolies
 brute
