@@ -2705,6 +2705,7 @@ canonries
 canons
 canonship
 cafe
+cautions
 canoodle
 canoodler
 cogitativeness
@@ -6322,7 +6323,6 @@ cautioned
 cautioners
 cautiones
 cautioning
-cautions
 cindered
 cautiously
 cautiousness
