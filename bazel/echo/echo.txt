@@ -1599,6 +1599,7 @@ electrosensitive
 eglandulose
 eglantine
 eglantines
+epifaunal
 eglateres
 eudromias
 estriol
@@ -7777,7 +7778,6 @@ epifascial
 epifaunae
 equisurface
 eyebeam
-epifaunal
 epifaunas
 emulate
 escobilla
