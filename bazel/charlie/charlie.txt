@@ -15628,7 +15628,6 @@ claspt
 class
 classable
 classbook
-ceasmic
 classer
 chacra
 calenders
@@ -27568,6 +27567,7 @@ coverless
 coverlet
 coverlets
 coverlid
+ceasmic
 coverlids
 cachucho
 covers
