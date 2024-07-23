@@ -9323,7 +9323,6 @@ byproducts
 bipropellant
 bipunctate
 bipunctual
-bewet
 bipupillate
 boutel
 biquadrantal
@@ -13028,6 +13027,7 @@ boronatrocalcite
 boronia
 boronic
 borons
+bewet
 borophenylic
 bororo
 borosalicylate
