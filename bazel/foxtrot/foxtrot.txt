@@ -8397,6 +8397,7 @@ formeret
 formers
 formes
 formfeed
+fifers
 formfitting
 filemot
 farenheit
@@ -10457,7 +10458,6 @@ frictionally
 fcy
 fronts
 frontspieces
-fifers
 facete
 fronture
 froom
