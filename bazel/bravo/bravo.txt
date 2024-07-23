@@ -5252,7 +5252,6 @@ balourdise
 biogenetical
 beglide
 beglitter
-begloom
 begloomed
 berceau
 beglooming
@@ -18311,6 +18310,7 @@ buttoner
 buttoners
 buttonhold
 bumf
+begloom
 buttonholed
 buttonholer
 berried
