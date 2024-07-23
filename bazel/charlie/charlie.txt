@@ -9184,6 +9184,7 @@ charruas
 chars
 charsingha
 charta
+collectable
 chartable
 chartaceous
 charter
@@ -19015,7 +19016,6 @@ collarets
 crosa
 colleaguing
 comedically
-collectable
 collectables
 cubica
 collectanea
