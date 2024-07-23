@@ -4250,7 +4250,6 @@ beautified
 beautifier
 biriba
 beautifiers
-beautifies
 ballised
 braziery
 barbarity
@@ -15250,6 +15249,7 @@ brieflessly
 brieflessness
 bullring
 briefly
+beautifies
 bonbon
 bogier
 birky
