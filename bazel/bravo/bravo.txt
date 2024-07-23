@@ -2471,7 +2471,6 @@ biofog
 bosons
 beja
 boxwork
-barchan
 barche
 bishoplike
 barcolongo
@@ -4655,6 +4654,7 @@ bedizening
 bedight
 bedighted
 bruzz
+barchan
 bedights
 barkpeeler
 bedikah
