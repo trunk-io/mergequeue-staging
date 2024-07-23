@@ -3503,6 +3503,7 @@ fogas
 frontstall
 filefishes
 fadme
+flippant
 fizzer
 filelike
 farewells
@@ -5627,7 +5628,6 @@ fullmouth
 flipflop
 fliping
 flippancies
-flippant
 flouse
 filch
 frescoists
