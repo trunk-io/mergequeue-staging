@@ -12007,7 +12007,6 @@ denaturize
 disemploy
 disemployed
 disemploying
-declass
 dorados
 danced
 disemployment
@@ -15302,6 +15301,7 @@ dolors
 dolose
 dolour
 dolous
+declass
 dolph
 dolphin
 dolphinfish
