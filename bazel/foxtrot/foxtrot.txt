@@ -3586,7 +3586,6 @@ flanched
 filicornia
 fougade
 filiferous
-filiform
 faxing
 flaunching
 flammigerous
@@ -10907,6 +10906,7 @@ fullam
 fullbacks
 fulled
 fallen
+filiform
 fullery
 fulleries
 fullering
