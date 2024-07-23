@@ -7907,7 +7907,6 @@ dewdamp
 dewdrop
 dmod
 dewdropper
-dewdrops
 dewed
 dewey
 deweylite
@@ -11541,6 +11540,7 @@ discomfortable
 disload
 dithyrambically
 discomforter
+dewdrops
 discomfortingly
 discomforts
 dibutyl
