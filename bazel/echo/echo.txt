@@ -3921,6 +3921,7 @@ escheat
 equinovarus
 emissary
 eikon
+eremitical
 emissaries
 emissaryship
 emissarium
@@ -8880,7 +8881,6 @@ eremite
 eremites
 eremiteship
 eremitic
-eremitical
 embryotrophe
 eremitism
 eremochaetous
