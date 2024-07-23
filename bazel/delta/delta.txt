@@ -1578,7 +1578,6 @@ disenact
 deadwort
 determinability
 disappoint
-deaerates
 deaeration
 deaerator
 dados
@@ -14984,6 +14983,7 @@ desertism
 dogbolt
 dogbush
 dogcart
+deaerates
 dogcatcher
 dogcatchers
 dogdom
