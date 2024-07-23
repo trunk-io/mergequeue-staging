@@ -7284,7 +7284,6 @@ eggbeater
 engilds
 eomecon
 extols
-explorable
 epepophysis
 eon
 eurhodine
@@ -12639,6 +12638,7 @@ extracardial
 entwinement
 endurable
 epigonos
+explorable
 exhumating
 exocardial
 exocarps
