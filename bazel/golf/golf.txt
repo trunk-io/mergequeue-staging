@@ -2540,7 +2540,6 @@ gemmipara
 gemmiparous
 grillade
 gemmiparously
-guardhouses
 genistin
 gemmologist
 gemmologists
@@ -7595,6 +7594,7 @@ gracilaria
 gracilariidae
 graciles
 gracing
+guardhouses
 graciosity
 groveller
 galeoid
