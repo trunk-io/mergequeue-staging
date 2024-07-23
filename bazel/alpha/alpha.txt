@@ -2968,7 +2968,6 @@ areometer
 acromiohumeral
 acromion
 avg
-acromioscapular
 amphibalus
 acromiosternal
 acromiothoracic
@@ -23413,6 +23412,7 @@ augurs
 augurship
 appeasement
 august
+acromioscapular
 achiest
 astronomic
 augusta
