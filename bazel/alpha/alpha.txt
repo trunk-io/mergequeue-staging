@@ -10599,7 +10599,6 @@ abnormities
 amyls
 amylum
 amylums
-abdicator
 amyluria
 amimide
 amin
@@ -15139,6 +15138,7 @@ acceptancies
 adapid
 ancyrene
 avarian
+abdicator
 antidiabetic
 antidiastase
 antidicomarian
