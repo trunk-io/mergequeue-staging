@@ -4884,7 +4884,6 @@ demonomy
 demonomist
 demonophobia
 derogatory
-demonry
 defoamer
 divines
 demonship
@@ -15130,6 +15129,7 @@ disutility
 doit
 doited
 doitkin
+demonry
 decurvation
 doits
 dojigger
