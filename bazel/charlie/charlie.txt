@@ -14175,6 +14175,7 @@ cyrano
 circ
 circadian
 circaea
+cutworks
 closeable
 chingpaw
 carpocervical
@@ -31893,7 +31894,6 @@ cutup
 cutups
 cutwal
 cutwaters
-cutworks
 collow
 cutworm
 cutworms
