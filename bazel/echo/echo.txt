@@ -10309,7 +10309,6 @@ ettercap
 etherous
 ethers
 ethic
-ethical
 ethicalism
 ethicalities
 ethically
@@ -12151,6 +12150,7 @@ excresce
 excrescence
 excrescences
 evincement
+ethical
 excrescencies
 excrescent
 excrescential
