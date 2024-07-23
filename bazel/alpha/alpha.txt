@@ -13560,6 +13560,7 @@ annealers
 annealing
 anneals
 annectant
+antisolar
 annectent
 annection
 annelid
@@ -16234,7 +16235,6 @@ antisocialistic
 antisocialistically
 antisociality
 antisocially
-antisolar
 acceptive
 antisophism
 antisophistic
