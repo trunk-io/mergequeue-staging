@@ -4287,7 +4287,6 @@ ferryboat
 fertilizing
 frousty
 fallalery
-frizzle
 falbalas
 fischerite
 filibranch
@@ -7068,6 +7067,7 @@ fooder
 foody
 flagrantness
 fingallian
+frizzle
 foodless
 ferneries
 foods
