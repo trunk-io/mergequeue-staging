@@ -1674,7 +1674,6 @@ estadal
 egression
 explanatively
 eudiometer
-egressor
 exiler
 egret
 erysibe
@@ -6067,6 +6066,7 @@ enmities
 eyewashes
 enmove
 enmuffle
+egressor
 enneacontahedron
 ennead
 enneadic
