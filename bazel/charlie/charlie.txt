@@ -9958,6 +9958,7 @@ commandant
 chemoreceptivity
 chemoreceptivities
 chemoreceptor
+ciconia
 chemoresistance
 chemosensitive
 chemosensitivities
@@ -13487,7 +13488,6 @@ cy
 cyclovertebral
 cyclus
 cicone
-ciconia
 ciconiae
 ciconian
 ciconiform
