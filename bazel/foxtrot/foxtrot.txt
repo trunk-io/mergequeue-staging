@@ -7671,7 +7671,6 @@ furole
 foregrounds
 foreguess
 foregut
-forehalf
 forehall
 forehand
 forehanded
@@ -10384,6 +10383,7 @@ frankeniaceae
 flashers
 flypapers
 fille
+forehalf
 follicles
 flannelmouths
 frons
