@@ -158,7 +158,6 @@ earthian
 earthier
 earthiest
 earthily
-earthiness
 evangelicalness
 earthing
 exopterygotous
@@ -3491,6 +3490,7 @@ embogue
 emboite
 emboitement
 emboldener
+earthiness
 equatorially
 equilibrize
 emboldens
