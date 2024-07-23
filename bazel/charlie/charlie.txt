@@ -11691,6 +11691,7 @@ cholesterin
 cholesterinuria
 cholesterol
 cholesterolemia
+coxes
 cholesteroluria
 cholesterosis
 choletelin
@@ -27794,7 +27795,6 @@ culex
 coxed
 cissing
 coxendix
-coxes
 coxy
 coxiest
 coxite
