@@ -9592,7 +9592,6 @@ digladiated
 digladiating
 digladiator
 diglossia
-diglot
 diglottic
 disarrest
 demove
@@ -10255,6 +10254,7 @@ dinamode
 dingo
 dobbed
 dings
+diglot
 dingus
 dinic
 dinical
