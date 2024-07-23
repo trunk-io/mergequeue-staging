@@ -1877,7 +1877,6 @@ accumulatively
 anastatica
 accumulativeness
 accumulator
-accumulators
 accupy
 accuracy
 accurately
@@ -5367,6 +5366,7 @@ animize
 affiche
 affidation
 affidavy
+accumulators
 affidavit
 affies
 affying
