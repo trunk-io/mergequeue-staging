@@ -7025,7 +7025,6 @@ ecart
 epiglottides
 entrees
 excisor
-encomiendas
 eulogizing
 excepts
 entrefer
@@ -9760,6 +9759,7 @@ excitator
 esperance
 esperantidist
 excyst
+encomiendas
 esperanto
 espy
 earhead
