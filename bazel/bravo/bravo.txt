@@ -8498,7 +8498,6 @@ biliously
 biliprasin
 bilipurpurin
 bond
-bitwise
 bilirubinuria
 biliteralism
 bilithon
@@ -8647,6 +8646,7 @@ bilocellate
 biloculate
 biloculina
 biloculine
+bitwise
 bilophodont
 biloquist
 bilsh
