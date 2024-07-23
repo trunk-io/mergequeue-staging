@@ -3085,7 +3085,6 @@ geomance
 geoform
 gillnet
 glagolitsa
-geog
 geraniums
 geogenetic
 geogeny
@@ -8443,6 +8442,7 @@ glabellae
 gravelike
 glucidic
 graveling
+geog
 gravelish
 groats
 gravelly
