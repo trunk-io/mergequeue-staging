@@ -6881,7 +6881,6 @@ desorb
 desorbed
 dryster
 desorbs
-desorption
 desoxalic
 desoxyanisoin
 debars
@@ -16704,6 +16703,7 @@ drainage
 drainages
 donating
 dichroiscopic
+desorption
 drainboard
 delinter
 drainer
