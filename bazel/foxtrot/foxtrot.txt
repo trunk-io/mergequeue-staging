@@ -6021,7 +6021,6 @@ floriscope
 fisherboat
 floristics
 formals
-fuscescent
 farinaceous
 florivorous
 fimbriate
@@ -8509,6 +8508,7 @@ fumigating
 fifing
 flotage
 formulised
+fuscescent
 formulising
 flajolotite
 fanwise
