@@ -7292,6 +7292,7 @@ foramen
 filtrable
 foramens
 foramina
+fusels
 ferrivorous
 foraminal
 filago
@@ -11554,7 +11555,6 @@ fuselages
 fuseless
 fuselike
 flashforwards
-fusels
 fuseplug
 funariaceous
 fuses
