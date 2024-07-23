@@ -3894,6 +3894,7 @@ carcinopolypus
 carcinosarcomas
 carcinosarcomata
 carcinus
+chroococcus
 carcoon
 card
 cardaissin
@@ -12737,7 +12738,6 @@ chronotropic
 chroococcaceae
 chroococcales
 chroococcoid
-chroococcus
 chrosperma
 chrotta
 chteau
