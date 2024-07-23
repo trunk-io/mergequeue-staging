@@ -6146,6 +6146,7 @@ gloominess
 gravegarth
 gambeson
 gluier
+guile
 gluily
 gluiness
 globigerine
@@ -8786,7 +8787,6 @@ gentianaceous
 gonged
 grammaticism
 gutturally
-guile
 grego
 gregor
 gregorian
