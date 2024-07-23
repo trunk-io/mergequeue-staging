@@ -1248,7 +1248,6 @@ exody
 eellike
 eleme
 encephalin
-eternal
 expurgation
 eelpout
 eelpouts
@@ -6164,6 +6163,7 @@ enormious
 enormity
 egghot
 ejectable
+eternal
 encephalopathy
 enormousness
 enorn
