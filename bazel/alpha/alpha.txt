@@ -16624,7 +16624,6 @@ apadana
 apaesthetize
 angiokinetic
 analogy
-apaestically
 articulatory
 apagoge
 apagoges
@@ -24019,6 +24018,7 @@ autocue
 autodecomposition
 autodecrement
 autodecrements
+apaestically
 autodepolymerization
 autodermic
 autodestruction
