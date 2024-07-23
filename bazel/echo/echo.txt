@@ -5874,7 +5874,6 @@ elegy
 enhydrinae
 enhydrite
 enhydritic
-entosternal
 engnessang
 enhydros
 enhypostasia
@@ -7554,6 +7553,7 @@ epicarpal
 espiglerie
 epigrams
 epicede
+entosternal
 epicedial
 epicedian
 equitation
