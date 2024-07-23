@@ -3776,7 +3776,6 @@ batlike
 battues
 bowered
 battuta
-batholite
 battutos
 batukite
 braza
@@ -12830,6 +12829,7 @@ boozy
 boozier
 boozily
 booziness
+batholite
 boozing
 bop
 batture
