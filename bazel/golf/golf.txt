@@ -4235,7 +4235,6 @@ gamester
 gills
 gentes
 gillstoup
-guide
 gilo
 gilpy
 glaived
@@ -8536,6 +8535,7 @@ gravure
 groundwater
 gossameriness
 graze
+guide
 grazed
 gradus
 glucogene
