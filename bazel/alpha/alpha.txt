@@ -8816,7 +8816,6 @@ allocatable
 allocate
 apollo
 adglutinate
-allocates
 allocating
 allocation
 allocations
@@ -14308,6 +14307,7 @@ anteprostate
 antequalm
 antereformational
 anteresurrection
+allocates
 anterethic
 aphorist
 alaunian
