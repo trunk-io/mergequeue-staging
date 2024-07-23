@@ -7381,7 +7381,6 @@ forbode
 flagman
 forbore
 forborne
-forbow
 forbruise
 forbs
 formalised
@@ -11059,6 +11058,7 @@ faltboats
 fumitories
 fummel
 fustier
+forbow
 forsteal
 fumous
 fud
