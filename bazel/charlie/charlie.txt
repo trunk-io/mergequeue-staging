@@ -7257,6 +7257,7 @@ centronucleus
 centroplasm
 centropomidae
 centropomus
+cryptanalyst
 centrosymmetry
 comportable
 centrosymmetric
@@ -29277,7 +29278,6 @@ cryptal
 cryptamnesia
 cryptamnesic
 cryptanalysis
-cryptanalyst
 cryptanalytic
 cryptanalytically
 cryptanalytics

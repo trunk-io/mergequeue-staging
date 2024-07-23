@@ -5768,7 +5768,6 @@ anthemy
 aftersong
 aerolithology
 afterspeech
-afterspring
 afterstain
 ave
 afterstate
@@ -23405,6 +23404,7 @@ auguration
 amnioclepsis
 augure
 augured
+afterspring
 augurers
 auguries
 auguring
