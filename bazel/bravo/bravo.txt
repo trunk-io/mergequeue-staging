@@ -1683,6 +1683,7 @@ ballotist
 ballottable
 ballottine
 ballpark
+bicondylar
 ballparks
 ballplayer
 bise
@@ -5152,7 +5153,6 @@ bilgy
 blastomas
 blateration
 befurred
-bicondylar
 begalled
 baizes
 baptized
