@@ -3073,7 +3073,6 @@ bartending
 bartends
 brothers
 barter
-barterer
 barterers
 barters
 barth
@@ -10195,6 +10194,7 @@ blad
 bladder
 bladderless
 brin
+barterer
 birdmouthed
 bastardization
 bladdernut
