@@ -2829,7 +2829,6 @@ agglutinability
 acridyl
 acridines
 acridinic
-acridinium
 acridity
 aposaturnium
 acrydium
@@ -9854,6 +9853,7 @@ amaroidal
 annunciator
 amarthritis
 amarvel
+acridinium
 amasesis
 amassable
 amasser
