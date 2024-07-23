@@ -26939,7 +26939,6 @@ counterguerilla
 counterguerrilla
 counterhaft
 counterhammering
-counterhypothesis
 counteridea
 counterimagination
 counterimitation
@@ -30697,6 +30696,7 @@ concentrically
 cuinfo
 cuing
 cuirassed
+counterhypothesis
 corsak
 ciselure
 cuirasses
