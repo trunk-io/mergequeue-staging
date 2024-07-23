@@ -385,7 +385,6 @@ backet
 backfatter
 backfield
 backfilled
-backfilling
 backfills
 backfire
 backfires
@@ -5304,6 +5303,7 @@ begrutten
 begster
 beguard
 beguess
+backfilling
 beguilement
 beguilements
 beguiler
