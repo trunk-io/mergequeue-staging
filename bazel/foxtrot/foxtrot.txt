@@ -3119,7 +3119,6 @@ fleshless
 foveolet
 fict
 fictileness
-frostflower
 fictionalization
 fictional
 fictionalize
@@ -9944,6 +9943,7 @@ falanaka
 firefly
 fry
 friable
+frostflower
 friand
 forloin
 flagship
