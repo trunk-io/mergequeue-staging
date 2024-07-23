@@ -7466,7 +7466,6 @@ brither
 beveled
 beveler
 bevelers
-blastophore
 bevelment
 bevenom
 bullom
@@ -10841,6 +10840,7 @@ bespoused
 blinis
 blinkard
 blinkards
+blastophore
 blinked
 blinkering
 blinkers
