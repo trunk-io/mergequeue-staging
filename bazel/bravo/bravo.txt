@@ -1365,6 +1365,7 @@ balases
 bunton
 balat
 balata
+brelaw
 binocularity
 balatong
 balatron
@@ -14952,7 +14953,6 @@ brekky
 brekkle
 brelan
 barbaric
-brelaw
 buzzy
 breloque
 bergerette
