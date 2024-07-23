@@ -231,7 +231,6 @@ bacchants
 bacchar
 birders
 baccharis
-baccharoid
 brisks
 bacchiac
 boxiest
@@ -12754,6 +12753,7 @@ balcony
 buccinae
 boost
 beamful
+baccharoid
 bioclimatology
 bariatrician
 booster

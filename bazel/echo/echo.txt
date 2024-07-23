@@ -2593,7 +2593,6 @@ electrosmosis
 electrostatic
 etymons
 evanescible
-electrostatical
 euchymous
 electrosteel
 enclasping
@@ -11062,6 +11061,7 @@ enrive
 euglenaceae
 euploidies
 euplotid
+electrostatical
 eupneas
 extramarginal
 enlightener
