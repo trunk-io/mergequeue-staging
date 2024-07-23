@@ -8239,7 +8239,6 @@ faculae
 florification
 forgiver
 fouldre
-forgives
 filthifying
 ferrament
 fameflower
@@ -10315,6 +10314,7 @@ finkel
 froglike
 forsook
 frogling
+forgives
 frognose
 fruity
 fetishlike
