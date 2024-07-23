@@ -3354,7 +3354,6 @@ experimently
 embattle
 emphractic
 embden
-embeam
 extinction
 embed
 enlargeableness
@@ -13599,6 +13598,7 @@ ephemeralness
 eigenvalues
 extent
 epistropheus
+embeam
 extents
 encurtain
 extenuate
