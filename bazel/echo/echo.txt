@@ -1139,7 +1139,6 @@ editorial
 encorbellment
 erichtoid
 editorializations
-editorialize
 expertness
 embeddable
 editorialized
@@ -12652,6 +12651,7 @@ exocline
 empexa
 exocoelic
 exocoelum
+editorialize
 exocoetidae
 exocoetus
 emaciating
