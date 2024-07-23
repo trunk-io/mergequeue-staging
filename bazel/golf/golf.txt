@@ -850,7 +850,6 @@ gambirs
 gambits
 gambler
 gynobase
-gamblers
 gardon
 galapee
 gambles
@@ -8290,6 +8289,7 @@ groundly
 grassfire
 golilla
 grassflat
+gamblers
 goniometrically
 grumblers
 grasshopper
