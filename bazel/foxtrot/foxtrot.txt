@@ -3431,7 +3431,6 @@ figuredly
 figureheadless
 figureheads
 figurer
-figures
 figuresome
 figury
 footprints
@@ -9231,6 +9230,7 @@ flavours
 fallibilism
 frenal
 fragging
+figures
 fraggings
 fragile
 forwarder
