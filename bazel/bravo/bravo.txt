@@ -7823,6 +7823,7 @@ bibliofilm
 bibliogenesis
 bibliognost
 biskop
+birthmate
 bonsoir
 benzophenanthroline
 bibliogony
@@ -9542,7 +9543,6 @@ birthing
 birthland
 birthmark
 birthmarks
-birthmate
 birthnight
 banalness
 birthrate
