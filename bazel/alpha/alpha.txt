@@ -3210,7 +3210,6 @@ actinopterygious
 actinoscopy
 actinosome
 actinosphaerium
-actinost
 actinostereoscopy
 actinostome
 audits
@@ -14955,6 +14954,7 @@ antichthon
 antichthones
 anadrom
 ati
+actinost
 acuan
 antichurch
 arthrozoan
