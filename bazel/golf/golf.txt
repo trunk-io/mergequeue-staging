@@ -2195,7 +2195,6 @@ gearing
 gearings
 gasterotricha
 goladar
-garrote
 gears
 gearset
 gearshift
@@ -2489,6 +2488,7 @@ gingal
 galvanizations
 gemini
 geminid
+garrote
 gendering
 gaia
 gemitores
