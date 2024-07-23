@@ -851,6 +851,7 @@ abridgeable
 antelopes
 abridged
 anisotropical
+addressee
 abridgement
 abridgements
 abridger
@@ -3597,7 +3598,6 @@ allotheistic
 antienvironmentalist
 addressable
 addressed
-addressee
 addressees
 addresser
 addressers
