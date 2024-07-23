@@ -1989,7 +1989,6 @@ factorylike
 fleetly
 fizzed
 featherfew
-fulgurite
 felaheen
 factoryship
 felanders
@@ -3945,6 +3944,7 @@ fingersmith
 feuars
 fritting
 fabricated
+fulgurite
 formalising
 fingerspin
 fingerstone
