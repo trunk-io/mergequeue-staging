@@ -5280,7 +5280,6 @@ endoscopes
 endoscopy
 endoscopic
 endoscopically
-expectoration
 endoscopies
 emily
 endosiphon
@@ -12520,6 +12519,7 @@ exhorters
 exhorting
 encephalic
 etalon
+expectoration
 exhumations
 ethnogeographer
 episcopable
