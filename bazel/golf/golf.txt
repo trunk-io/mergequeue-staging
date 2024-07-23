@@ -6140,7 +6140,6 @@ gluelikeness
 ganta
 girns
 gluepot
-gluers
 guldengroschen
 glug
 gloominess
@@ -8471,6 +8470,7 @@ geotectonic
 graveship
 glottiscope
 gravestead
+gluers
 gravestones
 gonochoristic
 gravette
