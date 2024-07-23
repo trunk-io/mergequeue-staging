@@ -3581,6 +3581,7 @@ depaint
 dragomans
 degger
 degging
+divider
 deglaciation
 deglamorization
 driddle
@@ -14480,7 +14481,6 @@ dividend
 daedalidae
 decancellation
 divident
-divider
 dictums
 dromograph
 dividingly
