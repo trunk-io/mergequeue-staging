@@ -20517,7 +20517,6 @@ companionways
 comparability
 comparable
 comparableness
-comparably
 comparascope
 comparate
 craspedote
@@ -31640,6 +31639,7 @@ cuscohygrine
 cusconine
 cuscus
 cuscuta
+comparably
 cuscutaceae
 cuscutaceous
 cusecs

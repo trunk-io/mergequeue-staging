@@ -3010,6 +3010,7 @@ deeps
 dorsipinal
 deepsome
 deepwater
+drone
 deepwaterman
 deer
 deerdog
@@ -17330,7 +17331,6 @@ dromos
 dromotropic
 drona
 dronage
-drone
 droned
 densimetric
 dronel
