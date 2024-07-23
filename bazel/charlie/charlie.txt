@@ -6528,7 +6528,6 @@ cecidium
 cecidogenous
 cecidology
 cecidologist
-cecidomyian
 cecidomyiid
 cecidomyiidae
 coseiest
@@ -27383,6 +27382,7 @@ courier
 couriers
 classicalize
 courlan
+cecidomyian
 couronne
 course
 coursey
