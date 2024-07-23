@@ -957,7 +957,6 @@ ascocarp
 absenteeship
 absenter
 absenters
-absenting
 absently
 absentminded
 absentmindedly
@@ -5304,6 +5303,7 @@ affectability
 affectable
 affectate
 affectation
+absenting
 abluents
 affectationist
 affected
