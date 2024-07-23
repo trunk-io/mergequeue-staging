@@ -5881,7 +5881,6 @@ cathay
 cathayan
 cetacea
 cathar
-catharan
 catharina
 catharism
 catharist
@@ -16874,6 +16873,7 @@ centralization
 clownheal
 clowning
 clownish
+catharan
 clownishly
 clownishness
 clowns
