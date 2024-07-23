@@ -5715,7 +5715,6 @@ colorably
 catchlight
 cooper
 catchline
-catchment
 caputium
 congressmen
 catchpenny
@@ -14977,6 +14976,7 @@ cytopathology
 cytopathologic
 cytopathological
 championess
+catchment
 coenactor
 cytopathologically
 chalcophanite
