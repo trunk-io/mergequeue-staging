@@ -1292,6 +1292,7 @@ effect
 era
 effected
 effecter
+espacement
 enfief
 exopeptidase
 equalled
@@ -9737,7 +9738,6 @@ epilogues
 esotropic
 emcees
 esp
-espacement
 espadrille
 espadrilles
 espagnole
