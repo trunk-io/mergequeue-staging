@@ -23262,6 +23262,7 @@ creeler
 constringent
 construability
 construable
+countermand
 construal
 cartoon
 constructable
@@ -25737,7 +25738,6 @@ correctitude
 corrective
 coelospermous
 correctively
-countermand
 correctness
 countertaste
 corrector
