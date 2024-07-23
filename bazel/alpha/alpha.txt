@@ -8995,7 +8995,6 @@ allotypy
 admirator
 allotypies
 allotment
-allotransplant
 allotransplantation
 allotriodontia
 allotriognathi
@@ -22881,6 +22880,7 @@ atrypa
 atriplex
 atrypoid
 atrium
+allotransplant
 atroce
 atroceruleous
 atroceruleus
