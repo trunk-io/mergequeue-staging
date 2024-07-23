@@ -6525,7 +6525,6 @@ billed
 beprank
 bepranked
 bepreach
-bepretty
 bepride
 beprose
 bepun
@@ -17423,6 +17422,7 @@ bearess
 bunkload
 bunkmate
 bunkmates
+bepretty
 bunko
 bunkoed
 bunkoing
