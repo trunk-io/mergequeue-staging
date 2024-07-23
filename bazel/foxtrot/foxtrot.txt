@@ -4550,6 +4550,7 @@ fixt
 fixable
 fixate
 fixated
+foodservices
 fineleaf
 fixatifs
 fixation
@@ -7068,7 +7069,6 @@ fingallian
 foodless
 ferneries
 foods
-foodservices
 fountainous
 featheredged
 foodstuffs
