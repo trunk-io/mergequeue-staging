@@ -10670,7 +10670,6 @@ diploidize
 diploids
 dowf
 djelab
-diplois
 diplokaryon
 diplomacies
 diplomaing
@@ -14332,6 +14331,7 @@ divagated
 divagates
 disillude
 divagation
+diplois
 diphthongal
 divagationally
 divagations
