@@ -1963,7 +1963,6 @@ fissurella
 feign
 feigned
 feignedly
-fumose
 feigner
 feigners
 font
@@ -2248,6 +2247,7 @@ fencibles
 felahin
 fend
 fendable
+fumose
 following
 fendering
 faquir
