@@ -1271,7 +1271,6 @@ caliciform
 calycinal
 calycine
 calycled
-calicles
 calycli
 calico
 calicoback
@@ -7767,6 +7766,7 @@ consulates
 circumanal
 cobbler
 ceroid
+calicles
 ceroline
 ceromancy
 ceroon
