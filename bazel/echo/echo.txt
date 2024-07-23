@@ -9342,7 +9342,6 @@ errorist
 explicably
 ebriosity
 endocrinology
-errorless
 errors
 errs
 ersatz
@@ -11152,6 +11151,7 @@ exuviate
 extrait
 eurithermophile
 eurythermous
+errorless
 eurythmic
 eurythmical
 eurythmics
