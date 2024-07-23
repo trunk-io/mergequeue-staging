@@ -5709,6 +5709,7 @@ devicefully
 deplaceable
 deplaned
 dragonfish
+dryopithecine
 deplaning
 deplant
 deplantation
@@ -17186,7 +17187,6 @@ dryopes
 diagonality
 dryopithecid
 dryopithecinae
-dryopithecine
 deviator
 drypoints
 dripolator
