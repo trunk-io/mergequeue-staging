@@ -3108,7 +3108,6 @@ capitaled
 conferrer
 capitalisable
 capitalised
-citoyen
 capitaliser
 capitalist
 chagal
@@ -21188,6 +21187,7 @@ carols
 concause
 concavation
 concave
+citoyen
 concaved
 concavely
 counseled
