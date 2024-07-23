@@ -1936,7 +1936,6 @@ bandel
 bandelette
 beanies
 bander
-banderilla
 banderilleros
 banderlog
 blamability
@@ -16600,6 +16599,7 @@ bemocks
 buckpot
 buckraming
 bachelordom
+banderilla
 buckrams
 buckras
 bucksaw
