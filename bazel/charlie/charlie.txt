@@ -3995,6 +3995,7 @@ capitellum
 clodpole
 cardiocirrhosis
 cardioclasia
+chits
 corduroying
 cardiodilator
 cardiodynamics
@@ -7024,7 +7025,6 @@ centaurium
 centauromachy
 cuke
 centauromachia
-chits
 centaurs
 corr
 cerulignol

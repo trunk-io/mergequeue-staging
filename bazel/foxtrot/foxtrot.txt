@@ -1648,6 +1648,7 @@ famished
 fathead
 fawnlike
 fieldward
+fattest
 fawns
 fawnskin
 fax
@@ -5431,7 +5432,6 @@ fletches
 feelingness
 fletchings
 flatworm
-fattest
 fleur
 farted
 fleurette
