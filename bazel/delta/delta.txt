@@ -9141,7 +9141,6 @@ dictionaries
 dictyonema
 dictions
 dictyophora
-dictyopteris
 dictyosiphonaceae
 dictyosome
 dictyotaceae
@@ -18039,6 +18038,7 @@ denouncement
 deergrass
 dulcor
 dulcorate
+dictyopteris
 dulcose
 duler
 duly
