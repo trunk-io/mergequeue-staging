@@ -1724,7 +1724,6 @@ feaster
 flashflood
 feasters
 feastfully
-fortressed
 feastly
 feastraw
 foraminulous
@@ -11336,6 +11335,7 @@ furcilia
 fawning
 furcraea
 fluke
+fortressed
 furcula
 faulkland
 furdel
