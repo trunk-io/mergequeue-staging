@@ -10911,7 +10911,6 @@ blizzards
 blk
 blksize
 blo
-bloat
 bloated
 botling
 bobsledder
@@ -11559,6 +11558,7 @@ boatbills
 boatbuilder
 boatbuilding
 bohora
+bloat
 boated
 boatels
 boater
