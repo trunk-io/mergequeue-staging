@@ -13026,7 +13026,6 @@ chuvash
 carcaneted
 chuzwi
 chwana
-carburizer
 cia
 cyaathia
 cyamelid
@@ -18392,6 +18391,7 @@ corrodes
 cogman
 cogmen
 chenevixite
+carburizer
 cognac
 centime
 cognate
