@@ -2480,6 +2480,7 @@ ferrets
 ferriages
 ferryboats
 favela
+foredestine
 ferric
 fopperly
 familistery
@@ -7588,7 +7589,6 @@ foredesignment
 foreordained
 firebolt
 fairsome
-foredestine
 foredestined
 foredestiny
 foresentence
