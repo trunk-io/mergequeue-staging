@@ -842,6 +842,7 @@ badju
 badland
 badlands
 buba
+bowdlerised
 baalish
 badly
 badling
@@ -13668,7 +13669,6 @@ blathering
 blist
 bowdlerise
 birches
-bowdlerised
 bottlenecks
 bowdlerising
 bowdlerization
