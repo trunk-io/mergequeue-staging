@@ -6933,7 +6933,6 @@ bufflehorn
 beside
 bullfinch
 besides
-bosniac
 baritones
 besiege
 besieged
@@ -12652,6 +12651,7 @@ booklift
 booklike
 bookling
 booklists
+bosniac
 booklore
 butyne
 boatheader
