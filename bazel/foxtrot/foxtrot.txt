@@ -1312,7 +1312,6 @@ finishable
 fat
 fatagaga
 fatale
-fatales
 flype
 felonous
 factorist
@@ -4543,6 +4542,7 @@ forwardation
 fierte
 fivepins
 fives
+fatales
 fewness
 fix
 fixt
