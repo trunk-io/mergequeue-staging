@@ -2817,6 +2817,7 @@ acrestaff
 acrid
 acridane
 acrider
+alkanets
 acridest
 acridid
 agglutinability
@@ -8509,7 +8510,6 @@ alkane
 alkanes
 alkanet
 alkanethiol
-alkanets
 arbutase
 alkannin
 alkaphrah
