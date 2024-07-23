@@ -5639,7 +5639,6 @@ belialist
 boutefeu
 belibel
 belibeled
-belick
 belicoseness
 brassicaceous
 baulea
@@ -13411,6 +13410,7 @@ boudin
 boudoir
 boudoiresque
 bouet
+belick
 bouffage
 bouffancy
 biennale
