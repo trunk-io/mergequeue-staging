@@ -18155,7 +18155,6 @@ aquaemanalia
 aquafer
 aquafortis
 aquafortist
-aquage
 aquagreen
 aquake
 aqualung
@@ -19950,6 +19949,7 @@ armet
 armfuls
 armgaunt
 armguard
+aquage
 arbitrarily
 asidehand
 armhole
