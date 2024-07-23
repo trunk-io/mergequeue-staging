@@ -3020,7 +3020,6 @@ dukedoms
 deerhair
 dogboat
 drummers
-divestitive
 deerherd
 deerhorn
 deoperculate
@@ -8306,6 +8305,7 @@ demigrate
 duplication
 diagraphs
 decastyle
+divestitive
 diagredium
 desand
 disastimeter
