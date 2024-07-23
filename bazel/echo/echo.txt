@@ -2234,6 +2234,7 @@ electioneering
 electioneers
 elective
 electives
+extralinguistic
 electivism
 electo
 extracalendar
@@ -8259,7 +8260,6 @@ epistle
 estoppal
 ells
 embodiments
-extralinguistic
 epistolary
 epistolarian
 espinette
