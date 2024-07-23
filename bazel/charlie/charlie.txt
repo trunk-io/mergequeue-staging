@@ -16677,7 +16677,6 @@ clonorchis
 chapeaus
 clonos
 clons
-clonus
 clonuses
 cloop
 cystoid
@@ -29940,6 +29939,7 @@ cytasters
 crossties
 crosstoes
 crosstown
+clonus
 crosstrack
 crosstree
 crossway
