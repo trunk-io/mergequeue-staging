@@ -1510,6 +1510,7 @@ gallivorous
 gallerying
 garvie
 garaged
+glom
 gnapweed
 gas
 geometricians
@@ -8983,7 +8984,6 @@ goodmanship
 grillage
 guardians
 grillages
-glom
 gruelly
 gizmos
 grillee
