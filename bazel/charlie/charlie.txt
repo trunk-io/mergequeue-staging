@@ -28000,6 +28000,7 @@ craftsmen
 craftspeople
 craftsperson
 craftswoman
+crusta
 craftwork
 craftworker
 crag
@@ -30315,7 +30316,6 @@ crusie
 choeropsis
 crusilee
 crust
-crusta
 crustaceal
 crustacean
 crustaceans
