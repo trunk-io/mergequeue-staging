@@ -4009,7 +4009,6 @@ cacodorous
 cardiographs
 cardiohepatic
 chibouque
-cardioid
 cardioids
 cardiolysis
 capriole
@@ -8386,6 +8385,7 @@ chalinidae
 chalinine
 chalinitis
 chalk
+cardioid
 chinchona
 chalkboard
 chalkboards
