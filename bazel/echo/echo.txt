@@ -3926,7 +3926,6 @@ ectocuniform
 eikon
 eremitical
 emissaries
-emissaryship
 emissarium
 eels
 emissi
@@ -10215,6 +10214,7 @@ efferents
 ethanes
 ethanim
 ethanoyl
+emissaryship
 ethanol
 ethanolamine
 etymology
