@@ -13369,7 +13369,6 @@ cyclohexanol
 cyclohexanone
 cyclohexatriene
 cyclohexene
-cyclohexyl
 cyclohexylamine
 cycloheximide
 cycloidally
@@ -31849,6 +31848,7 @@ currycombed
 cutlines
 calcarea
 cutlings
+cyclohexyl
 cutlips
 cutocellulose
 conversely
