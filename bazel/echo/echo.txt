@@ -137,7 +137,6 @@ earsplitting
 earspool
 earstone
 eoan
-earstones
 enabled
 eartag
 eartagged
@@ -2102,6 +2101,7 @@ exteriorate
 exemplifying
 esophagal
 elapsing
+earstones
 elapsoidea
 exonerating
 elasmobranch
