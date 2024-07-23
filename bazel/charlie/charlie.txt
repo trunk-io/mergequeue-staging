@@ -26384,7 +26384,6 @@ calcispongiae
 coteau
 coteaux
 coted
-coteful
 cotele
 coteller
 cotemporane
@@ -30333,6 +30332,7 @@ crustalogical
 crustalogist
 crustated
 complaintful
+coteful
 cripes
 crustation
 crusted
