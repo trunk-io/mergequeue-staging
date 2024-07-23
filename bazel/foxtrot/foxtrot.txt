@@ -5840,6 +5840,7 @@ flokite
 ferter
 fondish
 fonly
+foredevote
 feats
 flon
 flong
@@ -10110,7 +10111,6 @@ flamberg
 frustrated
 frillings
 frimitts
-foredevote
 fringehead
 featherwing
 flexibilities

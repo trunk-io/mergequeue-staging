@@ -3556,6 +3556,7 @@ battler
 bookshop
 backwort
 bathygraphic
+beveled
 belatticed
 bosomy
 bathylimnetic
@@ -7463,7 +7464,6 @@ bobbinets
 benzosulfimide
 beveil
 brither
-beveled
 beveler
 bevelers
 bevelment
