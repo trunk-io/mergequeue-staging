@@ -4448,7 +4448,6 @@ carnied
 continuate
 carnies
 carnifex
-carnifexes
 carnify
 carnifying
 carniform
@@ -15587,6 +15586,7 @@ claromontane
 clarre
 chlorpikrin
 clarsach
+carnifexes
 clarseach
 clarsech
 claimer
