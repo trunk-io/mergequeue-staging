@@ -1915,7 +1915,6 @@ feedlots
 feeds
 feedstock
 feedstuff
-fewnes
 fourniture
 feedway
 feedwater
@@ -10075,6 +10074,7 @@ footrest
 flacourtia
 fusinite
 fashed
+fewnes
 freemen
 frigorifical
 frigostable

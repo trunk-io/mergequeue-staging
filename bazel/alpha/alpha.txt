@@ -8147,7 +8147,6 @@ awaste
 algiers
 algific
 algin
-alginate
 aldoses
 alginates
 alginic
@@ -16278,6 +16277,7 @@ antistatism
 antistatist
 antisteapsin
 antistimulant
+alginate
 acupuncturist
 antistimulation
 arthromere
