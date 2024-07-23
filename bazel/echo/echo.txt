@@ -2394,7 +2394,6 @@ electroendosmotic
 eudalene
 electroergometer
 electroetching
-emborders
 electroethereal
 electroextraction
 expos
@@ -7682,6 +7681,7 @@ enteradenographic
 epicurishly
 enneadianome
 epicuticle
+emborders
 endnote
 epicuticular
 entomotomist
