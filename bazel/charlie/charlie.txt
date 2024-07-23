@@ -1296,7 +1296,6 @@ columelliform
 caliculate
 calyculate
 calyculated
-cycloid
 calycule
 coercing
 congoes
@@ -27624,6 +27623,7 @@ covotary
 cow
 cowage
 cyanophose
+cycloid
 cowardy
 cowardice
 chrobat
