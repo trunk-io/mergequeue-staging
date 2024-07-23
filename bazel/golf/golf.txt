@@ -1510,6 +1510,7 @@ garum
 grocerdom
 garvance
 garvanzo
+gallivorous
 gallerying
 garvie
 garaged
@@ -2998,7 +2999,6 @@ geobotanically
 gurgulation
 gastful
 geocarpic
-gallivorous
 geocentric
 glycollic
 geissospermin
