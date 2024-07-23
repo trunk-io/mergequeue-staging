@@ -5803,7 +5803,6 @@ categorization
 categorize
 categorizer
 cyclecars
-categorizers
 childless
 categorizes
 categorizing
@@ -22856,6 +22855,7 @@ consderations
 consecrate
 consecrated
 consecrater
+categorizers
 consecrates
 consecrating
 consecration
