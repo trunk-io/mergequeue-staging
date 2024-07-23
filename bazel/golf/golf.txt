@@ -2922,7 +2922,6 @@ gentlefolk
 gentlefolks
 gentleheartedly
 gentleheartedness
-gaetulan
 gentleman
 gyrophora
 garnishes
@@ -10279,6 +10278,7 @@ gearless
 glossolysis
 guirlande
 gov
+gaetulan
 guisarme
 guise
 guiser
