@@ -7524,7 +7524,6 @@ bewield
 bewig
 bewigged
 brokery
-bewigging
 bioluminescent
 bewilder
 bevvy
@@ -11273,6 +11272,7 @@ bluebell
 bluebelled
 boatwise
 bluebill
+bewigging
 bloodmobile
 bluebottle
 bluebirds
