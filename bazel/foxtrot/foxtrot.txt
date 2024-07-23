@@ -4530,7 +4530,6 @@ featherman
 fitzclarence
 fitzroy
 ferial
-fitzroya
 fiuman
 funic
 fiumara
@@ -8386,6 +8385,7 @@ fogbows
 formatter
 flappering
 formazan
+fitzroya
 formazyl
 formboard
 faradmeter
