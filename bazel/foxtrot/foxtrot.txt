@@ -4844,6 +4844,7 @@ flamenship
 fingerprinting
 faburden
 fuzzle
+flagstaff
 flameout
 forcleave
 flameouts
@@ -11663,7 +11664,6 @@ fustinella
 footfarer
 filleted
 follicule
-flagstaff
 fulgid
 fuzziest
 fustoc
