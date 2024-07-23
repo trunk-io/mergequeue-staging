@@ -13503,7 +13503,6 @@ ciconiidae
 ciconiiform
 coaction
 ciconiiformes
-ciconine
 ciconioid
 coruscated
 cicurate
@@ -14673,6 +14672,7 @@ cysticarpium
 cysticerci
 cysticercoid
 cysticercoidal
+ciconine
 cysticercosis
 cysticerus
 cystid
