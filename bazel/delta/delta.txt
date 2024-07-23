@@ -8442,7 +8442,6 @@ defervescent
 dialogistical
 dialogite
 dedicate
-dialogize
 downsman
 doley
 decouple
@@ -12213,6 +12212,7 @@ degausser
 disfiguring
 disflesh
 disfoliage
+dialogize
 diplacanthidae
 disfoliaged
 disforest

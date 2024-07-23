@@ -4953,6 +4953,7 @@ galores
 gitter
 gunplay
 gittern
+geomyid
 groat
 gitterns
 guiled
@@ -10492,7 +10493,6 @@ gunda
 gundelet
 ghiblis
 gypsous
-geomyid
 gundi
 gundy
 graymill
