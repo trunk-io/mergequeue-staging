@@ -2475,7 +2475,6 @@ electromechanically
 electromer
 equivalenced
 empanada
-electromeric
 electromerism
 electrometer
 enage
@@ -12956,6 +12955,7 @@ engagedness
 expected
 expectedly
 expectedness
+electromeric
 expecter
 equiform
 endowed
