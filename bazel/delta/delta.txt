@@ -3243,6 +3243,7 @@ deferrize
 decastylos
 deferrized
 dynamize
+daint
 deferrizing
 defers
 defervesce
@@ -5811,7 +5812,6 @@ disinheritable
 deponents
 depones
 deponing
-daint
 dissavage
 depopularize
 depopulate
