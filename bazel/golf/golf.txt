@@ -2503,7 +2503,6 @@ gardener
 gemlich
 gladelike
 gemlike
-groomy
 gemman
 geldability
 gara
@@ -5398,6 +5397,7 @@ gunks
 goldilocks
 gluten
 gain
+groomy
 glenoidal
 glent
 glessite
