@@ -2380,7 +2380,6 @@ decimal
 decimation
 decimator
 dandiacal
-decimestrial
 decimeter
 daggly
 decimeters
@@ -7640,6 +7639,7 @@ deviance
 deviances
 dsnames
 doggrelize
+decimestrial
 deviancy
 defalcate
 deviant
