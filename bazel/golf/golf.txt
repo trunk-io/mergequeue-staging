@@ -2349,6 +2349,7 @@ gelatification
 gravestone
 gelatin
 garde
+gigabit
 grammel
 gelatinate
 gullies
@@ -4499,7 +4500,6 @@ gutturalising
 gingham
 gymnite
 ginghams
-gigabit
 gingili
 gingivae
 guardfully
