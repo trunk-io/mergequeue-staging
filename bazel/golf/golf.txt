@@ -5407,7 +5407,6 @@ glenoidal
 glent
 glessite
 gallied
-garotes
 gasteropoda
 gliadine
 gride
@@ -9958,6 +9957,7 @@ guardo
 guardrail
 guardrails
 gonogenesis
+garotes
 guards
 guardsman
 guarea
