@@ -3980,7 +3980,6 @@ forride
 finisher
 febrifacient
 finishes
-fortunetell
 finishing
 finitesimal
 frab
@@ -8491,6 +8490,7 @@ formulary
 frugal
 formularisation
 formularise
+fortunetell
 formularised
 formularistic
 formularization
