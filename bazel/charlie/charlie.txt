@@ -8696,7 +8696,6 @@ changar
 change
 changeability
 changeable
-changeably
 changeabout
 changed
 changedale
@@ -16838,6 +16837,7 @@ clour
 cloured
 clouring
 clours
+changeably
 clout
 clouted
 clouter
