@@ -13759,7 +13759,6 @@ dissolutions
 detersiveness
 dissolutive
 dissolvability
-dissolvable
 dissolvableness
 dissolve
 darnings
@@ -15783,6 +15782,7 @@ dormice
 duplation
 dogvane
 dormie
+dissolvable
 daneflower
 dormilona
 dormin
