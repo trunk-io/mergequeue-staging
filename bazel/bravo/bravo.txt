@@ -697,6 +697,7 @@ bactericide
 bactericides
 bajau
 bacterid
+bertholletia
 blowoff
 bacteriemia
 bacteriform
@@ -11036,7 +11037,6 @@ backfall
 bellow
 brawly
 busybody
-bertholletia
 bloodmobiles
 barbecue
 barragon
