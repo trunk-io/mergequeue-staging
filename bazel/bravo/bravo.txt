@@ -8037,7 +8037,6 @@ balatas
 bicompact
 bedragglement
 biconcave
-biconcavity
 bidder
 bimaxillary
 bicone
@@ -12658,6 +12657,7 @@ boatheader
 booklores
 booklover
 bookmaker
+biconcavity
 bookmakers
 bookmaking
 bookman
