@@ -5890,6 +5890,7 @@ falderals
 floorhead
 flooring
 floorless
+funli
 floormen
 floors
 folkways
@@ -11257,7 +11258,6 @@ familiarisation
 funks
 fabledom
 forbid
-funli
 funmaker
 funmaking
 funned
