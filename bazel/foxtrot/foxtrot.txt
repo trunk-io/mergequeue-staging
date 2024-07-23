@@ -490,7 +490,6 @@ falchion
 featherers
 ferritic
 fanweed
-falcial
 falcidian
 falciform
 fichu
@@ -7157,6 +7156,7 @@ footles
 footless
 footlights
 fanned
+falcial
 fraidycat
 footlock
 footlocker
