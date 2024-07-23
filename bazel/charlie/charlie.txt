@@ -9955,7 +9955,6 @@ chemoreceptor
 chemoresistance
 chemosensitive
 chemosensitivities
-chemoserotherapy
 chemoses
 chemosynthesis
 compatibility
@@ -16198,6 +16197,7 @@ climatical
 crimmers
 collarbones
 climatically
+chemoserotherapy
 climatius
 climatize
 criminalness
