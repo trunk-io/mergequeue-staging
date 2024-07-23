@@ -2581,6 +2581,7 @@ grizzles
 gulp
 genderless
 glides
+gastraeum
 genteelize
 gymnonoti
 genealogical
@@ -2750,7 +2751,6 @@ goupen
 globously
 groves
 genic
-gastraeum
 geniculated
 geniculately
 gastrostenosis
