@@ -2376,7 +2376,6 @@ achromatize
 achromatized
 achromatizing
 achromatocyte
-achromatolysis
 achromatope
 achromatophil
 achromatophile
@@ -5933,6 +5932,7 @@ agate
 agatelike
 agates
 apoquinine
+achromatolysis
 agatha
 agathaumas
 agathin
