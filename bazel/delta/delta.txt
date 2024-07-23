@@ -3512,6 +3512,7 @@ deftnesses
 defunct
 drillbit
 defunctionalization
+dialled
 defuse
 defuses
 defusing
@@ -5035,7 +5036,6 @@ denaturalized
 doohinkey
 dramatizations
 denaturalizing
-dialled
 diplospondylic
 denaturant
 dislikelihood
