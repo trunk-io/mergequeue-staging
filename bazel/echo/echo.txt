@@ -2359,6 +2359,7 @@ electrodepositor
 eelgrasses
 electrodes
 enweaved
+empirical
 effacer
 electrodesiccation
 ettling
@@ -4121,7 +4122,6 @@ empyreumatical
 empyreumatize
 empiric
 ellachick
-empirical
 empirically
 empiricalness
 etypically
