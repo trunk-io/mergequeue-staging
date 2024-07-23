@@ -3751,7 +3751,6 @@ esculin
 echappe
 embrues
 embruing
-embrutes
 exclaimed
 embruting
 embubble
@@ -13628,6 +13627,7 @@ exteriorising
 ensilaging
 exteriority
 exteriorize
+embrutes
 exteriorly
 exteriorness
 evilsayer
