@@ -3351,7 +3351,6 @@ breezing
 behusband
 basketfuls
 brooklike
-basketmaker
 bazars
 basketry
 basketware
@@ -11601,6 +11600,7 @@ boatswain
 boatswains
 boattail
 boatwoman
+basketmaker
 basidiolichen
 boatwright
 bob
