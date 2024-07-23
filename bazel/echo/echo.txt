@@ -60,7 +60,6 @@ earl
 earlap
 earldom
 earnful
-extrathoracic
 earldoms
 embolism
 earle
@@ -805,6 +804,7 @@ ecru
 ecrustaceous
 eyesalve
 exturb
+extrathoracic
 entice
 excusable
 extensively
