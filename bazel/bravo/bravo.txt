@@ -12962,6 +12962,7 @@ bores
 belfry
 branky
 bitternut
+belemnite
 boresight
 boresomely
 boreus
@@ -14685,7 +14686,6 @@ brawlys
 brawls
 bezzling
 brawn
-belemnite
 brawned
 branchiura
 brawner
