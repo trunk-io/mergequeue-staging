@@ -6650,7 +6650,6 @@ goldfields
 greengroceries
 goldfinch
 greillade
-goldfinny
 goldflower
 goldhead
 greaseless
@@ -9889,6 +9888,7 @@ guilty
 gibbier
 gumweed
 guapinol
+goldfinny
 glaucosis
 gruys
 gospodar
