@@ -1722,7 +1722,6 @@ gastroelytrotomy
 gastroenteric
 gastroenteritic
 graceless
-gunshot
 gastroenterocolitis
 gastroenterocolostomy
 gesneria
@@ -3956,6 +3955,7 @@ gibbetting
 gregge
 gibbi
 gibby
+gunshot
 grizzlyman
 goffers
 gaffkya
