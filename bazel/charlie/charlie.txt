@@ -3871,7 +3871,6 @@ carchariid
 carchariidae
 carcharioid
 catogene
-cablese
 carcharodon
 congredient
 carcharodont
@@ -11724,6 +11723,7 @@ choloid
 choloidinic
 chalky
 chololith
+cablese
 chololithic
 cholonan
 cholones
