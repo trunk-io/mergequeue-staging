@@ -6439,7 +6439,6 @@ groundable
 goatroot
 goatsbane
 goatsfoot
-goatskins
 goatstone
 granulitic
 goatsucker
@@ -9935,6 +9934,7 @@ guarauno
 guarapo
 gio
 guard
+goatskins
 guardable
 grisons
 guardage
