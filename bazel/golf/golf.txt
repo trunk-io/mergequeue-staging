@@ -137,7 +137,6 @@ gaed
 gaedelian
 gael
 grampus
-gaelicist
 gaelicization
 gundelow
 glump
@@ -3200,6 +3199,7 @@ gabbart
 gangrels
 geonegative
 gratefuller
+gaelicist
 ghostland
 geonic
 geonim
