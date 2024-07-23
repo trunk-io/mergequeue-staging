@@ -1405,6 +1405,7 @@ acaridae
 armoracia
 acaridan
 artophoria
+alt
 adventure
 acaridean
 angelical
@@ -9893,7 +9894,6 @@ amatorian
 amatorio
 adjacence
 amatorious
-alt
 amatungula
 amaurosis
 amaurotic
