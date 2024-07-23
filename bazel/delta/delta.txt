@@ -5364,7 +5364,6 @@ demicadence
 dentes
 dentex
 denty
-docketing
 dentical
 denticate
 daitya
@@ -14061,6 +14060,7 @@ distributable
 distributary
 distributaries
 distributee
+docketing
 diabolisation
 distributer
 distributes
