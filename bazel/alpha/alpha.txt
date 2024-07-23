@@ -5846,7 +5846,6 @@ agallop
 agalma
 agalmatolite
 arctically
-agalwood
 agalwoods
 agamas
 annona
@@ -14088,6 +14087,7 @@ antaimerina
 ablach
 antalgesic
 antalgics
+agalwood
 antalgol
 antalkali
 antalkalies
