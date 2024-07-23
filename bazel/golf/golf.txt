@@ -798,7 +798,6 @@ gustiness
 galvanosurgery
 garnetlike
 gelogenic
-galvanotaxis
 galvanotherapy
 galvanotropism
 galvo
@@ -4631,6 +4630,7 @@ gypaetus
 gripers
 gype
 gala
+galvanotaxis
 gipons
 gibbose
 geophyte
