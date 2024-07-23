@@ -644,6 +644,7 @@ bedrock
 backwashed
 backwashes
 backwashing
+bible
 backwatered
 backwaters
 brownprint
@@ -7794,7 +7795,6 @@ bibionid
 bibiri
 bibiru
 bibitory
-bible
 bibless
 biblic
 biblicality
