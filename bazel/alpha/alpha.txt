@@ -13499,7 +13499,6 @@ anklejack
 ankles
 anklet
 anklets
-anklong
 ankoli
 askoye
 ankus
@@ -17673,6 +17672,7 @@ appendicectomies
 appendices
 amphitheatered
 appendicial
+anklong
 appendicle
 appendicocaecostomy
 appendicostomy
