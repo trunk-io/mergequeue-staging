@@ -5826,6 +5826,7 @@ engulfed
 engulfing
 engulfment
 enhaemospore
+epaenetic
 enhaloes
 enhaloing
 explees
@@ -7316,7 +7317,6 @@ engird
 epacridaceae
 epacris
 epact
-epaenetic
 epagogic
 epagomenae
 epagomenic
