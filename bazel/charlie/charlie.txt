@@ -3895,6 +3895,7 @@ carcinus
 chroococcus
 carcoon
 card
+colate
 cardaissin
 cardamom
 cicatrise
@@ -8384,7 +8385,6 @@ chalicotherioid
 chalicotherium
 coliform
 chalina
-colate
 chalinidae
 chalinine
 chalinitis
