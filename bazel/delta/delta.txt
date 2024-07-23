@@ -5985,7 +5985,6 @@ discussible
 deprogram
 deprogrammed
 deerberry
-deprogrammer
 deprogrammers
 deprogramming
 deprograms
@@ -17596,6 +17595,7 @@ devitrifying
 drumler
 drumly
 dinosaurs
+deprogrammer
 discomposed
 drumliest
 dispersively
