@@ -6953,7 +6953,6 @@ entrail
 entrain
 entrained
 entraining
-enteropneust
 entrainment
 emulsive
 emprosthotonus
@@ -11550,6 +11549,7 @@ exfodiation
 everwho
 enfranch
 escurialize
+enteropneust
 enervous
 earthwall
 esperantist
