@@ -1265,7 +1265,6 @@ decemberish
 deuterotype
 dativogerundial
 datolitic
-doless
 deadly
 datsun
 datsw
@@ -10606,6 +10605,7 @@ diplegic
 dipleidoscope
 ditchdigger
 decitizenize
+doless
 dipleura
 dipleural
 dipleurogenesis
