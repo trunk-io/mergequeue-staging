@@ -1662,6 +1662,7 @@ ganglioneuroma
 gastraneuria
 grammates
 gastreas
+gyrometer
 ghostcraft
 gastrectasis
 gasfiring
@@ -10753,7 +10754,6 @@ gutted
 gestical
 gutterblood
 greenboard
-gyrometer
 gemeinde
 guttering
 gutterize
