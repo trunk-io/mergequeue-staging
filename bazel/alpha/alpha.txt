@@ -6328,7 +6328,6 @@ atmometry
 agnoetae
 agnoete
 agnoetism
-agnoiology
 agnoite
 agnoites
 agnomens
@@ -11686,6 +11685,7 @@ anaglyphical
 anaglyphics
 anaglyphs
 anaglypta
+agnoiology
 anaglyptic
 anaglyptical
 anaglyptography
