@@ -13397,7 +13397,6 @@ anisometrope
 anisometropic
 anisomyarian
 anisomyodi
-anisomyodian
 anisomyodous
 autostradas
 anisopetalous
@@ -16752,6 +16751,7 @@ apertum
 agrionid
 apertural
 aperture
+anisomyodian
 acritochromacy
 apertured
 apertures
