@@ -139,6 +139,7 @@ furnacite
 forfeit
 factionalism
 factionalist
+fono
 factionaries
 fivescore
 fulicine
@@ -11693,7 +11694,6 @@ foresail
 futtah
 ferretto
 futter
-fono
 flaith
 futural
 futureless
