@@ -4814,7 +4814,6 @@ deceivability
 demonesses
 decapitates
 demonetisation
-demonetise
 demonetised
 demonetize
 deductory
@@ -14468,6 +14467,7 @@ divests
 disentwine
 divi
 divid
+demonetise
 dayak
 dividableness
 dividant
