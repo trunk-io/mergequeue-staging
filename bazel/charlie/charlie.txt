@@ -3630,7 +3630,6 @@ carbene
 carberry
 carbethoxy
 coaita
-carbethoxyl
 chaetopterin
 carbide
 carbides
@@ -10017,6 +10016,7 @@ chemotherapeutical
 corporealist
 convent
 chemotherapeutically
+carbethoxyl
 chemotherapeutics
 chemotherapies
 chemotherapist
