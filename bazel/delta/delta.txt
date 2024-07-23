@@ -2712,7 +2712,6 @@ decorable
 diene
 decorated
 decorates
-decorating
 dont
 decorationist
 decorations
@@ -3307,6 +3306,7 @@ defines
 definienda
 definiendum
 definiens
+decorating
 desmology
 dolabre
 definientia
