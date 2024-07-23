@@ -19722,7 +19722,6 @@ aircraftswomen
 arilliform
 arillode
 arillodes
-arilloid
 autometamorphosis
 auric
 arils
@@ -22780,6 +22779,7 @@ atomistic
 atomistical
 atomists
 atomity
+arilloid
 abrocoma
 atomization
 apochromat
