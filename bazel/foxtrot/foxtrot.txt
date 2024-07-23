@@ -7974,7 +7974,6 @@ foliates
 flathe
 finfoot
 forespake
-forespeak
 forespecified
 forespencer
 forespoke
@@ -11574,6 +11573,7 @@ fusil
 fusiladed
 fusilades
 furbelow
+forespeak
 fusilading
 fusile
 fusileer
