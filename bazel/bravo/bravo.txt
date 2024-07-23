@@ -4078,7 +4078,6 @@ beriberi
 bearcoot
 biassing
 beard
-bearded
 bacteriological
 bringers
 blockhole
@@ -4410,6 +4409,7 @@ bigential
 bedimpling
 byname
 beckoner
+bearded
 bogeying
 beckoners
 beckoning
