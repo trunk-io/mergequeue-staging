@@ -9802,7 +9802,6 @@ cyclosporous
 cheiromegaly
 cheiropatagium
 cheiropod
-cheiropody
 cheiropodist
 cheiropompholyx
 cheiroptera
@@ -21365,6 +21364,7 @@ concessive
 concessively
 cabbalism
 concessor
+cheiropody
 coliplication
 concessory
 concetti
