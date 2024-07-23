@@ -7551,6 +7551,7 @@ fc
 foreconsider
 forecount
 forecourt
+feathery
 forecourts
 forecover
 fouling
@@ -11307,7 +11308,6 @@ furanoid
 furanose
 flavanthrone
 furanoses
-feathery
 flyable
 furazolidone
 ferratin
