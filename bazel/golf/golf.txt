@@ -8187,7 +8187,6 @@ graphites
 guanidins
 guberniya
 graphitic
-galaxian
 graphitize
 galerie
 graced
@@ -10505,6 +10504,7 @@ goaf
 gluemaker
 glut
 gundygut
+galaxian
 gundog
 gunebo
 gunfighting
