@@ -4993,6 +4993,7 @@ cascable
 cascables
 cascadable
 cascade
+centreboard
 cascaded
 cascades
 cascadia
@@ -7176,7 +7177,6 @@ centrarchoid
 centration
 centraxonia
 centraxonial
-centreboard
 centred
 centref
 centrefold
