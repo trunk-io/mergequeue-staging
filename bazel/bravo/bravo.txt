@@ -866,7 +866,6 @@ biosynthesis
 breasthook
 baste
 barbary
-baeria
 baetyl
 biscayan
 baetylus
@@ -1244,6 +1243,7 @@ blocking
 beslaver
 brachistochrone
 bakership
+baeria
 bakeshop
 bakeshops
 bakestone
