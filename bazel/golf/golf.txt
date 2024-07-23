@@ -1905,6 +1905,7 @@ genethliac
 gather
 gatherable
 guyers
+guttus
 gramoches
 gathered
 gatherer
@@ -10813,7 +10814,6 @@ gouramis
 gutturopalatal
 gutturopalatine
 gonitis
-guttus
 gutwise
 gangplank
 gutwort
