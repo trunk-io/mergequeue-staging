@@ -827,6 +827,7 @@ blackfoot
 bechic
 badiaga
 bribeworthy
+byblis
 badigeon
 badinage
 badinaged
@@ -12484,7 +12485,6 @@ blacklists
 bonhomously
 boni
 bony
-byblis
 brushlet
 boniest
 boniface
