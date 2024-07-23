@@ -1898,7 +1898,6 @@ feebless
 feeblest
 fontanelle
 frolicks
-feedbag
 feedbags
 feedbin
 flummox
@@ -4121,6 +4120,7 @@ firefang
 forsakes
 firefighting
 fireflies
+feedbag
 fireflirt
 fireflower
 fleshy
