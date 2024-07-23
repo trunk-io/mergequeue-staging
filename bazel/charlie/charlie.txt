@@ -11340,7 +11340,6 @@ cair
 conformism
 chloritize
 chlorize
-chlormethane
 chlormethylic
 chlornal
 chloroacetate
@@ -25557,6 +25556,7 @@ corolline
 conforbably
 consolable
 chakobu
+chlormethane
 corollitic
 coromandel
 coromell
