@@ -4603,7 +4603,6 @@ beady
 bumblebees
 bloodwood
 bedehouse
-bedehouses
 bootboy
 bedel
 bedell
@@ -16463,6 +16462,7 @@ beleaguerment
 bubo
 blinkered
 bongos
+bedehouses
 buboed
 bubonalgia
 bubonic
