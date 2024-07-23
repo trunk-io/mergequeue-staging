@@ -428,7 +428,6 @@ bebusy
 bushelful
 backhouses
 brindle
-blanketlike
 bristler
 backyards
 bawdyhouses
@@ -4537,6 +4536,7 @@ basecoat
 bedaggle
 beday
 billons
+blanketlike
 bedamning
 belches
 bedamp
