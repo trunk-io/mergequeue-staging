@@ -17595,7 +17595,6 @@ coccidioides
 coccidiomorpha
 coccidiosis
 cariogenic
-coccidium
 ctenocyst
 coccidology
 circumflexion
@@ -22461,6 +22460,7 @@ conidiospore
 conies
 conifer
 coniferin
+coccidium
 coeducationally
 coniferous
 coccydynia
