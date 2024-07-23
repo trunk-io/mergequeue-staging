@@ -5418,6 +5418,7 @@ disorganiser
 deputized
 dentolabial
 dentolingual
+deozonization
 dentololabial
 dentonasal
 dentosurgical
@@ -15301,7 +15302,6 @@ dolous
 dolph
 dolphin
 dolphinfish
-deozonization
 discohexaster
 dolphins
 dockers
