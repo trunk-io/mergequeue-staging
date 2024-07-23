@@ -4452,7 +4452,6 @@ gynecol
 geognosis
 gynecolatry
 gynecology
-gynecologic
 gynecologies
 gynecologist
 grues
@@ -10182,6 +10181,7 @@ geonavigation
 guiders
 gurneys
 glaucosuria
+gynecologic
 gonadial
 gedd
 guides
