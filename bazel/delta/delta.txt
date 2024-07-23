@@ -6041,7 +6041,6 @@ deputative
 deputatively
 denter
 deputator
-depute
 disincarnation
 domiciliate
 dihydroxy
@@ -10616,6 +10615,7 @@ dipleurule
 duogravure
 diplex
 disorderliness
+depute
 diplobacillus
 diplobacterium
 diploblastic
