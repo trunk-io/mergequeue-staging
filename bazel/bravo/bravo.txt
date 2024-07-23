@@ -11329,6 +11329,7 @@ bosnisch
 blueness
 bluenesses
 bluenose
+bogman
 bluenosed
 bradyphagia
 bluenoses
@@ -17060,7 +17061,6 @@ bulleted
 bullethead
 bulletheaded
 bulletheadedness
-bogman
 bullety
 bulletin
 bulletless
