@@ -2673,7 +2673,6 @@ barytones
 byres
 barytons
 barytophyllite
-barytosulphate
 botonn
 basalia
 barium
@@ -14498,6 +14497,7 @@ brandle
 brandling
 brandreth
 baltis
+barytosulphate
 brandrith
 bathofloric
 braye
