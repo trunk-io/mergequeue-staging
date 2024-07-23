@@ -226,6 +226,7 @@ gainbirth
 gaincall
 gregale
 glucolipid
+gallotannic
 gelandesprung
 glaciers
 gramme
@@ -698,7 +699,6 @@ geogonic
 gallophobe
 gallops
 geotherm
-gallotannic
 gasthauses
 grottoed
 griming
