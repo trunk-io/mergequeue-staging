@@ -14965,6 +14965,7 @@ cytomicrosome
 chol
 cytomorphological
 cyton
+curving
 cytone
 cytovirin
 cytons
@@ -31618,7 +31619,6 @@ coagulable
 curvinervate
 caschielawis
 curviness
-curving
 cryocautery
 curvirostral
 curvirostres
