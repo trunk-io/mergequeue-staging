@@ -1817,7 +1817,6 @@ balu
 baluba
 baluch
 brittle
-barytone
 baluchitheria
 benty
 balun
@@ -13511,6 +13510,7 @@ boundness
 boundure
 becloaked
 bounteously
+barytone
 bit
 blurter
 bounteousness
