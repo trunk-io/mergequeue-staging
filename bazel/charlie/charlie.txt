@@ -25932,7 +25932,6 @@ circumscribes
 corsie
 corsite
 corslet
-corslets
 corsned
 corso
 corsos
@@ -28324,6 +28323,7 @@ crataeva
 cratch
 circumambience
 cratchins
+corslets
 crate
 crated
 conicities
