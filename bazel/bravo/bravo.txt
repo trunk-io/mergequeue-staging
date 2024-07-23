@@ -548,6 +548,7 @@ becivet
 backspeir
 baluster
 backspier
+blvd
 backspierer
 backsplice
 bladed
@@ -6972,7 +6973,6 @@ baguio
 beslubber
 bal
 beslur
-blvd
 besmearer
 beryl
 besmearing
