@@ -1932,7 +1932,6 @@ bandcutter
 britishers
 banded
 bandel
-bandelet
 bandelette
 beanies
 bander
@@ -5543,6 +5542,7 @@ belait
 bastion
 biface
 belam
+bandelet
 belander
 blearier
 baser
