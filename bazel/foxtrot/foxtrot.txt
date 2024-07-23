@@ -2403,7 +2403,6 @@ fermion
 feased
 flexity
 fermions
-fermium
 forestudy
 fermorite
 fibra
@@ -7079,6 +7078,7 @@ forecastlehead
 fooler
 ferreters
 filth
+fermium
 fictitious
 ferventness
 fooleries
