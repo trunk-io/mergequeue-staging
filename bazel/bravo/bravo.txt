@@ -423,7 +423,6 @@ backhoe
 backhooker
 baubling
 backhouse
-biblioklept
 bebusy
 bushelful
 backhouses
@@ -18074,6 +18073,7 @@ breviloquent
 busmen
 bloaters
 bugbanes
+biblioklept
 buss
 benda
 bussed
