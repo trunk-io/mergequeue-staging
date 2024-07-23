@@ -4969,6 +4969,7 @@ bodier
 beermonger
 beerothite
 beerpull
+bowlder
 bees
 beest
 blacky
@@ -13729,7 +13730,6 @@ bowknot
 bowknots
 blinking
 bowla
-bowlder
 bearbaiting
 battleplane
 bowlderhead
