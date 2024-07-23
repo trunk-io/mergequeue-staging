@@ -5138,7 +5138,6 @@ befuddle
 befuddled
 blypes
 befuddlement
-befuddlements
 beaning
 befuddlers
 befuddles
@@ -17615,6 +17614,7 @@ burgherdom
 beguine
 bandobust
 burgherhood
+befuddlements
 blake
 besiegement
 blowtubes
