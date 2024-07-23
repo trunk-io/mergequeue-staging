@@ -1031,7 +1031,6 @@ farinas
 feretrum
 fellow
 farinha
-frenula
 farinometer
 farinose
 farinosel
@@ -4056,6 +4055,7 @@ firbolg
 frimaire
 fyrd
 fortyfold
+frenula
 furazane
 fowage
 fire
