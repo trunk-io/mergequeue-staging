@@ -1637,7 +1637,6 @@ deambulate
 deambulatories
 deamidase
 deamidate
-deamidization
 deamidize
 deaminase
 deaminating
@@ -7946,6 +7945,7 @@ dexiotropism
 dexter
 diplocephaly
 draggy
+deamidization
 dexterousness
 dextorsal
 desires
