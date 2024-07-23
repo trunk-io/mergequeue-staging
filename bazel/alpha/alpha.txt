@@ -6834,7 +6834,6 @@ archways
 ayne
 ainee
 anacharis
-ainhum
 ains
 ainsells
 approbative
@@ -10587,6 +10586,7 @@ amylophosphate
 amyloplast
 autobiology
 amyloplastic
+ainhum
 amyloplastid
 amylopsase
 amylose
