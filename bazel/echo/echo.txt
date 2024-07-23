@@ -5464,7 +5464,6 @@ energetical
 emyd
 euonymuses
 energeticalness
-energeticness
 energetics
 enantiobiosis
 exorcizes
@@ -10058,6 +10057,7 @@ externation
 electrovalency
 estrado
 encase
+energeticness
 estragol
 estray
 endocline
