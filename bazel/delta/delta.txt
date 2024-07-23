@@ -8281,7 +8281,6 @@ draghound
 diagonally
 diagonals
 diagonalwise
-dedans
 diagram
 diagramed
 dozenth
@@ -16930,6 +16929,7 @@ dreadnoughts
 ducktails
 dreads
 dream
+dedans
 designees
 dreamage
 dreamboat
