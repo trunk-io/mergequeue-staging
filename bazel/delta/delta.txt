@@ -9659,7 +9659,6 @@ digs
 diguanide
 digue
 dihalid
-dihalide
 dihalo
 dihalogen
 dihdroxycholecalciferol
@@ -15187,6 +15186,7 @@ depencil
 dolichocephali
 dolichocephalic
 dolichocephalism
+dihalide
 damnit
 demythologise
 dolichocephalous
