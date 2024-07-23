@@ -2140,7 +2140,6 @@ banking
 bankings
 bankman
 bucketfull
-budder
 bickered
 bankmen
 banknote
@@ -16450,6 +16449,7 @@ bubbletop
 bubbletops
 bubbly
 bubblier
+budder
 balaustre
 bubbliness
 bubbling
