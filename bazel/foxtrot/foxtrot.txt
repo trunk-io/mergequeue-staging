@@ -1495,7 +1495,6 @@ faujasite
 faultage
 favorless
 faulted
-filix
 faulter
 fragmentization
 faultfinder
@@ -5738,6 +5737,7 @@ fizzy
 forethoughtless
 floatage
 forwalk
+filix
 floatages
 floatboard
 forwarded
