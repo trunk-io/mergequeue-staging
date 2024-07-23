@@ -1967,6 +1967,7 @@ alkaliferous
 acephali
 acephalina
 acephaline
+appearing
 acephalism
 acephalite
 acephalocyst
@@ -17615,7 +17616,6 @@ appearances
 appeared
 agons
 appearers
-appearing
 appeasable
 appeasableness
 appeasably
