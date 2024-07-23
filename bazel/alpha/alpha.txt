@@ -240,7 +240,6 @@ abbreviation
 abbreviations
 abbreviator
 abbreviature
-abc
 alackaday
 ambonite
 anhydrating
@@ -24420,6 +24419,7 @@ athort
 autosome
 abscess
 autosomes
+abc
 autosoteric
 amounted
 autosporic
