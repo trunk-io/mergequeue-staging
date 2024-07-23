@@ -4662,7 +4662,6 @@ barkpeeler
 bedikah
 bedim
 boosterism
-bedimmed
 bespecklement
 bonaventure
 bilinigrin
@@ -10276,6 +10275,7 @@ barycentre
 blanda
 banes
 bloodier
+bedimmed
 blander
 blackbine
 bodings
