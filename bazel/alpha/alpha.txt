@@ -8717,7 +8717,6 @@ archdisturber
 allergenicity
 allergy
 accolent
-allergia
 allergies
 allergin
 allergins
@@ -8922,6 +8921,7 @@ arbitrable
 arybballi
 allonym
 allonymous
+allergia
 amiral
 allonymously
 allopalladium
