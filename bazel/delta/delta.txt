@@ -5695,6 +5695,7 @@ darling
 depictured
 depiedmontize
 depigment
+discarder
 depigmentation
 depigmentize
 disomaty
@@ -17505,7 +17506,6 @@ drowsed
 drowses
 drowsy
 drowsier
-discarder
 drowsihood
 drowsiness
 drowsing
