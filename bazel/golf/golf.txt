@@ -2003,7 +2003,6 @@ gauntleting
 gauntlets
 gauntness
 gaur
-gaurian
 gauric
 gaurs
 gauss
@@ -10584,6 +10583,7 @@ gavel
 grandiloquence
 gazetteers
 geoscopic
+gaurian
 gunsmithing
 gloomiest
 glacially
