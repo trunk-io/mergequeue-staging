@@ -8478,7 +8478,6 @@ alkalis
 asunder
 autolysis
 alkalisable
-alkalisation
 aneuploidy
 archswindler
 alkalised
@@ -17320,6 +17319,7 @@ assertiveness
 apoop
 apopemptic
 apopenptic
+alkalisation
 additiment
 apophantic
 ankyloproctia
