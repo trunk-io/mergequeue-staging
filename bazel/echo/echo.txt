@@ -4040,7 +4040,6 @@ empathy
 electrocauteries
 empathic
 elaborateness
-experimentalize
 exaggeratedly
 empathize
 empemata
@@ -10301,6 +10300,7 @@ etherizing
 eremic
 ethernet
 extratemporal
+experimentalize
 etherolate
 ettercap
 etherous
