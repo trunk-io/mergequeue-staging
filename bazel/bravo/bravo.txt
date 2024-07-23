@@ -6683,7 +6683,6 @@ beride
 berigora
 burghmote
 beryline
-beleaguer
 bendingly
 beryllia
 berylliosis
@@ -11540,6 +11539,7 @@ boarfish
 boarishness
 boars
 bout
+beleaguer
 boarship
 boarskin
 boarspear
