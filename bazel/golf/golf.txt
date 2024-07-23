@@ -3258,6 +3258,7 @@ georgette
 georgiadesite
 georgian
 glasshouse
+glyphographer
 georgiana
 guiding
 gaslock
@@ -5593,7 +5594,6 @@ glyoxime
 gummic
 glyph
 glyphic
-glyphographer
 gynaeocracy
 glyphographic
 gangwayman
