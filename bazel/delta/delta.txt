@@ -4273,7 +4273,6 @@ damozel
 deltaic
 deltaite
 durationless
-deltalike
 deleerit
 deltas
 deltation
@@ -6519,6 +6518,7 @@ dook
 descend
 dyarchical
 descendable
+deltalike
 descendance
 descendant
 descendants
