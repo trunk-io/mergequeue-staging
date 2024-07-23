@@ -5609,7 +5609,6 @@ flavorfully
 flip
 focalise
 findable
-forepaws
 frayn
 fluffing
 fumble
@@ -5732,6 +5731,7 @@ factrix
 flneuse
 furfuraldehyde
 flench
+forepaws
 fizzy
 forethoughtless
 floatage
