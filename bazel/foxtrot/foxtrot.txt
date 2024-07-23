@@ -1743,7 +1743,6 @@ featherbrain
 fitified
 feathercut
 feathered
-featherer
 featherfoil
 featherheaded
 figurante
@@ -7500,6 +7499,7 @@ foreboom
 forebooms
 forebowels
 ferried
+featherer
 forebowline
 forebrace
 fyce
