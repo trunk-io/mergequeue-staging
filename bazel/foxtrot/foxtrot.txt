@@ -1083,7 +1083,6 @@ fantasque
 fisc
 farmplace
 finials
-farmstead
 fascine
 farnesol
 farness
@@ -1471,6 +1470,7 @@ fatwa
 fairtime
 fatwood
 flavid
+farmstead
 forwhy
 footpath
 forbade
