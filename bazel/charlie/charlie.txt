@@ -5258,7 +5258,6 @@ cutlases
 castellanies
 castellano
 castellans
-castellanship
 castellar
 castellated
 castellation
@@ -30633,6 +30632,7 @@ cuddliest
 cuddling
 cudeigh
 cudgel
+castellanship
 cudgeled
 ceratophyllaceous
 cudgeler
