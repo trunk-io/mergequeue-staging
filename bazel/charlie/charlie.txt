@@ -9948,6 +9948,7 @@ chemolysis
 curlycue
 chemolyze
 chemonite
+chondrosarcomata
 chemopallidectomy
 calcipexy
 chemopallidectomies
@@ -11844,7 +11845,6 @@ chondrosarcoma
 chondrosarcomas
 coffeeman
 chryseis
-chondrosarcomata
 chondrosarcomatous
 chondrosin
 chondrosis
