@@ -15072,7 +15072,6 @@ anticonductor
 anticonfederationist
 anticonfederative
 anticonformist
-anticonformity
 atmospherics
 anticonscriptive
 ancestrial
@@ -19148,6 +19147,7 @@ acidulousness
 archrebel
 archrepresentative
 archrobber
+anticonformity
 archrogue
 archruler
 astrologer
