@@ -10711,7 +10711,6 @@ blepharolithiasis
 blepharomelasma
 bunsen
 blepharoncosis
-beset
 blepharoncus
 blepharophyma
 blepharoplast
@@ -14433,6 +14432,7 @@ branchiogenous
 branchiomere
 branchiomeric
 branchiomerism
+beset
 brazing
 boeotarch
 berrypicker
