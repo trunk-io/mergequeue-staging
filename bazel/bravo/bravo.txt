@@ -6480,6 +6480,7 @@ beparch
 beparody
 beparse
 breakstone
+butle
 bepaste
 bepastured
 bepat
@@ -18194,7 +18195,6 @@ beryllate
 butyrone
 bradypod
 butyrous
-butle
 butlerage
 butleries
 butlerism
