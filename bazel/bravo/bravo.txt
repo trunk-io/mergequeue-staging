@@ -795,7 +795,6 @@ birdshot
 badassed
 badasses
 badaud
-boyology
 badawi
 badaxe
 badchan
@@ -2888,6 +2887,7 @@ barotaxis
 barothermogram
 bitis
 barothermograph
+boyology
 barothermohygrogram
 basilard
 barothermohygrograph
