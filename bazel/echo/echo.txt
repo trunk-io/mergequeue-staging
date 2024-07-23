@@ -123,7 +123,6 @@ earpick
 evelong
 earpiece
 earplug
-earplugs
 earreach
 exportation
 earring
@@ -14058,6 +14057,7 @@ engroove
 extricably
 ensepulcher
 extricate
+earplugs
 extricated
 evaporate
 extrinsic
