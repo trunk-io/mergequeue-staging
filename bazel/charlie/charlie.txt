@@ -3868,7 +3868,6 @@ carcharhinus
 carchariid
 carchariidae
 carcharioid
-catogene
 carcharodon
 congredient
 carcharodont
@@ -31842,6 +31841,7 @@ cutleria
 cutleriales
 cutleries
 cutlers
+catogene
 consuetudinal
 cutlet
 cutlets
