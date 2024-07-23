@@ -2130,7 +2130,6 @@ bedraggling
 becurl
 bankbook
 bankcard
-bankcards
 bronchiogenic
 banker
 burghership
@@ -7627,6 +7626,7 @@ bezil
 bivoltine
 bezils
 bezique
+bankcards
 beziques
 bezoar
 brittles

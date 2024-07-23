@@ -15275,6 +15275,7 @@ confiscators
 clagging
 claggum
 complacencies
+corncribs
 clags
 clay
 claybank
@@ -25368,7 +25369,6 @@ corncobs
 corncracker
 corncrake
 corncrib
-corncribs
 corncrusher
 corncutter
 corelatively
