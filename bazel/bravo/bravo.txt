@@ -9671,7 +9671,6 @@ bontok
 bisilicate
 bisyllabic
 bisyllabism
-bisimine
 bisymmetry
 bisymmetric
 bisymmetrical
@@ -15120,6 +15119,7 @@ brickfielder
 brickhood
 buddhists
 bricky
+bisimine
 brickier
 blearing
 bricking
