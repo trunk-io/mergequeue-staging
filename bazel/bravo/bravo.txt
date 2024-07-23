@@ -10512,7 +10512,6 @@ barrier
 breastbone
 beaked
 blazon
-blazoned
 blazoner
 blazoning
 basically
@@ -11214,6 +11213,7 @@ blows
 blowse
 botargo
 blowsed
+blazoned
 blowsy
 blowsier
 blowspray
