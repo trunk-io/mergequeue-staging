@@ -5800,7 +5800,6 @@ categorizer
 cyclecars
 childless
 categorizes
-categorizing
 cateye
 catel
 catelectrode
@@ -6346,6 +6345,7 @@ cavaliered
 cavalieres
 chirotherium
 cavalieri
+categorizing
 cavalierish
 cavalierishness
 choraleon
