@@ -6106,6 +6106,7 @@ deranges
 derat
 dorsibranchiata
 demotion
+devitalized
 derate
 derated
 derater
@@ -7744,7 +7745,6 @@ devitalization
 devitalize
 dodded
 demographist
-devitalized
 devitalizes
 devitalizing
 devitaminize
