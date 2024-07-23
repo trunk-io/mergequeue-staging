@@ -1641,7 +1641,6 @@ egomania
 enrage
 engrailing
 egomaniacal
-egomanias
 egophony
 egos
 egosyntonic
@@ -9919,6 +9918,7 @@ estaminet
 estaminets
 estamp
 estampede
+egomanias
 estancia
 enarthroses
 estang
