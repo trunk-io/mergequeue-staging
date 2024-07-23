@@ -987,7 +987,6 @@ graminin
 gammoned
 glissette
 gulinula
-grundlov
 gammoners
 greenroom
 genthite
@@ -2644,6 +2643,7 @@ generalissimo
 generalissimos
 glandered
 generalists
+grundlov
 generaliter
 generality
 generalities
