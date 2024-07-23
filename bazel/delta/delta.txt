@@ -484,7 +484,6 @@ dakhini
 dakir
 dakoit
 dakoity
-dakoits
 dakotas
 daks
 daktylon
@@ -6134,6 +6133,7 @@ disaccord
 deshabille
 deregulate
 departmentization
+dakoits
 deregulated
 deregulates
 diptera

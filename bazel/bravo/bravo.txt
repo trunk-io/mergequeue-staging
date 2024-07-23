@@ -5846,7 +5846,6 @@ baseheartedness
 biharmonic
 belord
 belorussian
-belostoma
 biparty
 belostomatidae
 belostomidae
@@ -8821,6 +8820,7 @@ barracks
 binnacle
 binnacles
 binned
+belostoma
 binnite
 binnogue
 bino
