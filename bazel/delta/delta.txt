@@ -8427,6 +8427,7 @@ dialoger
 daedalist
 decentring
 dialogers
+decreement
 dialogged
 devitalised
 dialogging
@@ -14621,7 +14622,6 @@ dizzies
 dizziest
 decciare
 dizzying
-decreement
 dizzyingly
 dizzily
 dj
