@@ -2903,7 +2903,6 @@ bacterious
 barotraumata
 barouche
 blepharoplegia
-barouches
 barouchet
 barouchette
 barouni
@@ -12262,6 +12261,7 @@ bombaster
 bolometric
 bellacoola
 brasilins
+barouches
 bombastical
 behoovefully
 brancardier
