@@ -6063,7 +6063,6 @@ catso
 catsos
 catspaw
 catspaws
-catstane
 catstep
 catstick
 catstitch
@@ -17447,6 +17446,7 @@ coaxers
 coaxes
 coaxy
 coaxial
+catstane
 coaxing
 coazervate
 coazervation
