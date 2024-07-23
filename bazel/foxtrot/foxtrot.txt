@@ -1009,6 +1009,7 @@ fashion
 ferular
 fluoroid
 floorway
+fiddles
 funicule
 farfetched
 frontalis
@@ -6217,7 +6218,6 @@ fluency
 fluently
 felones
 fluentness
-fiddles
 fervour
 fluer
 flueric
