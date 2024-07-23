@@ -537,7 +537,6 @@ flamed
 falerno
 faliscan
 fluidize
-falisci
 falk
 faut
 foreshadows
@@ -961,6 +960,7 @@ filmmaker
 farcemeat
 farcer
 fictionalizes
+falisci
 farces
 foreturn
 farcetta
