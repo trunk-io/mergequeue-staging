@@ -8754,7 +8754,6 @@ greets
 greeve
 greffe
 greffier
-gashful
 greg
 gaussmeter
 gregaloid
@@ -9661,6 +9660,7 @@ guiltily
 gifblaar
 gruffiest
 gruffily
+gashful
 gruffish
 gruffly
 gruffness
