@@ -2473,7 +2473,6 @@ acidoses
 archeunuch
 afternoon
 antrustion
-acidosis
 adzooks
 acidosteophyte
 acidotic
@@ -15453,6 +15452,7 @@ antikamnia
 antikathode
 agatiferous
 antikenotoxin
+acidosis
 antiketogen
 antiketogenesis
 antiketogenic
