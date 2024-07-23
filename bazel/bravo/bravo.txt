@@ -2912,6 +2912,7 @@ barquest
 bedust
 barquette
 bellicosities
+brassards
 beerily
 bridebowl
 bala
@@ -14567,7 +14568,6 @@ biologists
 brassage
 burganet
 brassard
-brassards
 brassart
 brassate
 blooper
