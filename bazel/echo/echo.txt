@@ -3553,6 +3553,7 @@ embossman
 embossment
 embossments
 embost
+euler
 exembryonate
 embouchement
 embouchment
@@ -13418,7 +13419,6 @@ espriella
 extrados
 expurgator
 embillow
-euler
 expurgatory
 expurgators
 expurge
