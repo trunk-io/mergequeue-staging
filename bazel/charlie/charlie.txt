@@ -18280,7 +18280,6 @@ cofeature
 cofeatures
 cofeoffee
 coferment
-cofermentation
 coff
 coffea
 centrolineal
@@ -26925,6 +26924,7 @@ countergage
 countergager
 countergambit
 countergarrison
+cofermentation
 catjang
 countergauger
 countergift
