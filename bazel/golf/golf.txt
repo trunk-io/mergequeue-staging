@@ -1619,6 +1619,7 @@ gassit
 gast
 gossamer
 gastaldite
+gasometer
 graphology
 gutturals
 gasteria
@@ -10771,7 +10772,6 @@ gesticulant
 glazen
 gressible
 grecism
-gasometer
 guttiferal
 guttiferous
 guttiform
