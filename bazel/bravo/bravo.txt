@@ -9187,6 +9187,7 @@ buoys
 biotope
 biotopes
 biotoxins
+buckwheats
 biotransformation
 biotron
 byously
@@ -16624,7 +16625,6 @@ biggen
 buninahua
 buckwheatlike
 backside
-buckwheats
 bucolic
 brutalness
 bucolically
