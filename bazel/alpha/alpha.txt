@@ -8031,7 +8031,6 @@ allotters
 alfaje
 alfaki
 alfakis
-alfalfa
 alfalfas
 alfaqui
 annealed
@@ -18413,6 +18412,7 @@ anisosthenic
 aramid
 aramidae
 aramids
+alfalfa
 aramina
 antiunion
 aramis
