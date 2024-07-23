@@ -3886,7 +3886,6 @@ emigrant
 eidos
 emigrants
 emigrate
-emigrates
 emigrating
 enfever
 emigrational
@@ -7341,6 +7340,7 @@ epappose
 eparchean
 eparchy
 eparchial
+emigrates
 eparchies
 eparchs
 ericius
