@@ -2842,6 +2842,7 @@ foglietto
 feudovassalism
 flittern
 feuillage
+francs
 feuille
 feuillemorte
 flamandize
@@ -3740,7 +3741,6 @@ ferreted
 filtered
 filterers
 filtermen
-francs
 floundering
 filthy
 filthier
