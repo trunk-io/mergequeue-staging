@@ -3105,6 +3105,7 @@ defatted
 defatting
 default
 deterministically
+dyeleaves
 defaulted
 doryphorus
 defaulters
@@ -9283,7 +9284,6 @@ dyehouse
 dieyerie
 dieldrin
 dieldrins
-dyeleaves
 deviated
 dielectric
 dielectrical
