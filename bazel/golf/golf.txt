@@ -1782,7 +1782,6 @@ greaseproofness
 guebucu
 gormands
 gearman
-gastromancy
 gastromelus
 gaily
 gastromyces
@@ -10813,6 +10812,7 @@ gritten
 gutturonasal
 gouramis
 gutturopalatal
+gastromancy
 gutturopalatine
 gonitis
 gutwise
