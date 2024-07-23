@@ -10500,7 +10500,6 @@ arthrosporic
 amie
 apocarp
 amyelencephalia
-amyelencephalic
 amyelencephalous
 amyelic
 amyelinic
@@ -17222,6 +17221,7 @@ autolithographic
 aftertax
 apokatastasis
 apokatastatic
+amyelencephalic
 apolar
 apolarity
 aplectrum
