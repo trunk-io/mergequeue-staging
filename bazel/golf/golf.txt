@@ -2598,6 +2598,7 @@ genecologist
 grabhook
 grottos
 genecor
+giro
 geneki
 groupage
 genera
@@ -3741,7 +3742,6 @@ gewgawed
 grub
 gewgawy
 glycosides
-giro
 guemul
 gewgawry
 gewgaws
