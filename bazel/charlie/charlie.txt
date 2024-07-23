@@ -2684,7 +2684,6 @@ canonicity
 canonics
 canonise
 consumptiveness
-canonised
 canonises
 canonising
 canonist
@@ -28632,6 +28631,7 @@ creepmouse
 creepmousy
 creeps
 crees
+canonised
 catchments
 creese
 creesh
