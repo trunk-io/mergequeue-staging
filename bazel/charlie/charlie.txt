@@ -14253,7 +14253,6 @@ circulates
 cdr
 circulation
 circulative
-catatonia
 circulator
 circulatory
 circulatories
@@ -30523,6 +30522,7 @@ cubitometacarpal
 cubitoplantar
 cubitoradial
 cubitus
+catatonia
 cubla
 cubmaster
 cubocalcaneal
