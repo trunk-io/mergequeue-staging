@@ -12129,6 +12129,7 @@ choruslike
 chorusmaster
 chorussed
 calibers
+combinatorially
 chorusses
 chorussing
 curcuma
@@ -19789,7 +19790,6 @@ catholicising
 combinator
 combinatory
 combinatorial
-combinatorially
 combinatorics
 combinators
 combind
