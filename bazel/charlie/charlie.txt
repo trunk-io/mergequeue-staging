@@ -4178,6 +4178,7 @@ carf
 carfare
 carfax
 carfloat
+circumambulates
 comprizable
 carfour
 carfuffling
@@ -14278,7 +14279,6 @@ cinematography
 circumambiently
 circumambulate
 circumambulated
-circumambulates
 circumambulation
 circumambulations
 circumambulator

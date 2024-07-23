@@ -7975,7 +7975,6 @@ foreskirt
 foliates
 flathe
 finfoot
-foresound
 forespake
 forespeak
 forespecified
@@ -9507,6 +9506,7 @@ foretimed
 fraudulence
 fraudulency
 flexibility
+foresound
 fraughan
 flatus
 fraught
