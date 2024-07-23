@@ -5848,6 +5848,7 @@ flooded
 flooder
 fluids
 fishway
+furnace
 flooders
 faconne
 feltyfare
@@ -11423,7 +11424,6 @@ featherpated
 fourteenthly
 flatlet
 furmity
-furnace
 furnaces
 furnacing
 formol
