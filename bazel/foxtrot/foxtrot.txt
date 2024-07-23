@@ -2540,7 +2540,6 @@ ferrophosphorus
 fluctuous
 filicologist
 fungologist
-fording
 ferrotype
 fload
 ferrotyper
@@ -6770,6 +6769,7 @@ fairyhood
 floatiest
 fogramity
 fogrum
+fording
 forksmith
 fogscoffer
 fogus
