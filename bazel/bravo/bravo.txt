@@ -726,7 +726,6 @@ bacteriolytic
 bacteriolyze
 bacteriology
 bacteriologic
-bedlids
 bacteriologically
 bruet
 bacteriologies
@@ -18304,6 +18303,7 @@ balaphon
 banyans
 buttocker
 button
+bedlids
 buttonball
 blepharophryplasty
 buttonbush
