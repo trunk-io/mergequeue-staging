@@ -13407,7 +13407,6 @@ badgerweed
 boudin
 boudoir
 boudoiresque
-bouet
 belick
 bouffage
 bouffancy
@@ -16065,6 +16064,7 @@ beakers
 brooming
 broommaker
 broommaking
+bouet
 broomrape
 blues
 bulleting
