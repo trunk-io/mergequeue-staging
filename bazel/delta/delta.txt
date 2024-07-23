@@ -3734,7 +3734,6 @@ dantology
 dehypnotized
 dehypnotizing
 dehisce
-dehisced
 dehiscent
 dehisces
 dehiscing
@@ -10140,6 +10139,7 @@ dynamometers
 dynamometry
 dagoes
 dynamometric
+dehisced
 dynamometrical
 dynamomorphic
 dorosacral
