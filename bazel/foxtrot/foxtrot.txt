@@ -3666,7 +3666,6 @@ foreshoulder
 flagginess
 firebases
 filmed
-filmer
 fabulists
 fiftieths
 forepost
@@ -3797,6 +3796,7 @@ flosculous
 formated
 finagle
 finagler
+filmer
 finagles
 fecundating
 fortunella
