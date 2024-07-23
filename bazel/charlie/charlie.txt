@@ -4351,7 +4351,6 @@ carlins
 carlish
 coxswaining
 carlisle
-carlist
 carloading
 carloadings
 carloads
@@ -17989,6 +17988,7 @@ coelector
 coelectron
 coelelminth
 coelelminthes
+carlist
 coelelminthic
 coelentera
 coelenterata
