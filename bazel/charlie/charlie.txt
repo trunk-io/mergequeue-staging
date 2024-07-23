@@ -14312,6 +14312,7 @@ chordata
 circumdate
 circumdenudation
 circumdiction
+czardas
 circumduce
 circumducing
 circumduct
@@ -31910,7 +31911,6 @@ cwms
 cwrite
 cwt
 czar
-czardas
 czardases
 czardoms
 commonplacer
