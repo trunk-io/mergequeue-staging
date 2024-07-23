@@ -16510,7 +16510,6 @@ cloaked
 cochleare
 circularism
 cloakedly
-cloaking
 cloakmaker
 cloakmaking
 cloakrooms
@@ -31480,6 +31479,7 @@ curser
 cursers
 cholocyanine
 carposporangia
+cloaking
 curship
 cryptical
 cursillo
