@@ -2331,7 +2331,6 @@ emeus
 electrocratic
 electroculture
 electrocute
-embrute
 electrocuted
 electrocutes
 ectocuneiform
@@ -7982,6 +7981,7 @@ epinephelidae
 exhuming
 epinette
 epineural
+embrute
 enosises
 entocyst
 epineurial
