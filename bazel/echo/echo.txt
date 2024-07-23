@@ -6703,7 +6703,6 @@ empyrical
 exantlate
 enthalpy
 eluvies
-electrothanatosis
 electroacoustics
 epilogate
 enthalpies
@@ -9696,6 +9695,7 @@ entertainers
 endfile
 esophagometer
 esophagomycosis
+electrothanatosis
 elidible
 empeirema
 entwist
