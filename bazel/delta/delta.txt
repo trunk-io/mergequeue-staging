@@ -990,7 +990,6 @@ darghin
 dargo
 dennis
 darya
-diapausing
 daribah
 darics
 darien
@@ -17608,6 +17607,7 @@ drummed
 drummer
 drummy
 drummock
+diapausing
 drumread
 drumreads
 desoxalate
