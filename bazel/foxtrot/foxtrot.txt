@@ -9454,6 +9454,7 @@ ferfet
 frontoparietal
 files
 frasier
+fatal
 frass
 frasse
 fratcher
@@ -11059,7 +11060,6 @@ forsteal
 fumous
 fud
 focimetry
-fatal
 funambulant
 funambulate
 ferninst
