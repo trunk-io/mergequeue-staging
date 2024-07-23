@@ -3708,7 +3708,6 @@ batter
 batterdock
 battered
 batterer
-battery
 batterie
 bawties
 buckra
@@ -9589,6 +9588,7 @@ babbitter
 bisdimethylamino
 bisect
 bucko
+battery
 bisected
 bisecting
 bisectional
