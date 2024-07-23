@@ -7907,6 +7907,7 @@ foresees
 fistify
 foresend
 farmhand
+floret
 faience
 fdname
 foresense
@@ -10089,7 +10090,6 @@ floorman
 frijolillo
 frike
 freith
-floret
 fregatae
 frillback
 fumigants
