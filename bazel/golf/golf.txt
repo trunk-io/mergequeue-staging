@@ -5599,7 +5599,6 @@ glyphic
 gynaeocracy
 glyphographic
 gangwayman
-gabble
 glyptic
 gault
 glyptical
@@ -9585,6 +9584,7 @@ gaze
 grozet
 grr
 grs
+gabble
 grubbed
 grintern
 gingerwork
