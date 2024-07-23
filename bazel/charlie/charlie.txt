@@ -11647,7 +11647,6 @@ cholelithic
 crenellate
 cholelithotripsy
 cholelithotrity
-cholecystectomies
 cholemia
 carrousels
 cholent
@@ -21956,6 +21955,7 @@ conferees
 conference
 conferencing
 conferential
+cholecystectomies
 conferral
 conferrence
 cainogenesis
