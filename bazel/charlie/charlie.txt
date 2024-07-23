@@ -10951,7 +10951,6 @@ chips
 carpenter
 chipwood
 chiquero
-chiquest
 crosses
 chiquitan
 chiquito
@@ -19333,6 +19332,7 @@ colombo
 choroidal
 chorale
 colometrically
+chiquest
 colon
 colonaded
 cryptogrammic
