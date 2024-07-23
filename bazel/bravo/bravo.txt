@@ -6226,7 +6226,6 @@ benomyls
 benorth
 benote
 bens
-bureaucrat
 bensail
 bde
 bensall
@@ -8157,6 +8156,7 @@ byelorussia
 basketballs
 banishes
 byelorussian
+bureaucrat
 byelorussians
 byeman
 biennales
