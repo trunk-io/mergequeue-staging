@@ -1640,7 +1640,6 @@ empoisons
 egomania
 enrage
 engrailing
-egomaniacal
 egomanias
 egophony
 egos
@@ -12919,6 +12918,7 @@ expansively
 expansiveness
 expansivity
 expatiate
+egomaniacal
 exocoele
 expatiating
 excommunicant
