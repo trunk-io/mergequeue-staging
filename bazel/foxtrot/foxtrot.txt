@@ -5017,7 +5017,6 @@ fable
 flashtubes
 ferricyanhydric
 fidia
-flasker
 foxchop
 folky
 fanfish
@@ -10440,6 +10439,7 @@ frontonasal
 foliate
 fossilated
 frontons
+flasker
 fluoridations
 francium
 fellic
