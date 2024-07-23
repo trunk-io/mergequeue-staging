@@ -4430,7 +4430,6 @@ beclog
 beclogged
 beclose
 beclothe
-beclothed
 beclothes
 becloud
 box
@@ -18050,6 +18049,7 @@ bedstand
 braille
 bishoping
 busywork
+beclothed
 busyworks
 busk
 buriable
