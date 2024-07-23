@@ -1362,7 +1362,6 @@ gargets
 gimps
 gastrodialysis
 gargled
-gargler
 groinery
 gravemaker
 gargoyle
@@ -2135,6 +2134,7 @@ gaffsman
 gazee
 gazeful
 gazeless
+gargler
 gazella
 gazelles
 greyling
