@@ -2587,7 +2587,6 @@ barge
 bepaint
 bargeboard
 barged
-bargeer
 bargees
 bargehouse
 behoove
@@ -7222,6 +7221,7 @@ bittacle
 blockaderunning
 bathala
 broomsquire
+bargeer
 bestride
 brilliantly
 brawlingly

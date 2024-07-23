@@ -7532,7 +7532,6 @@ fishpound
 falsifiers
 forecatching
 fourflusher
-forbar
 foregame
 fordays
 forechoose
@@ -10984,6 +10983,7 @@ fuminess
 flagellar
 forbearances
 finally
+forbar
 fumarases
 forehoofs
 fumaria
