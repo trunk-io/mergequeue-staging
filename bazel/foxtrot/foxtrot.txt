@@ -53,6 +53,7 @@ facaded
 facebow
 facebread
 farms
+froglet
 facecloth
 freakpot
 faceless
@@ -7947,7 +7948,6 @@ fastens
 foresweat
 frockmaker
 fibrolipoma
-froglet
 foreshot
 fistulatous
 foreshow
