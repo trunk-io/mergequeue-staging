@@ -3228,7 +3228,6 @@ frontages
 faery
 flyboy
 foremastmen
-fingian
 facadal
 fourbagger
 flipjack
@@ -8911,6 +8910,7 @@ foulmart
 fibered
 foulness
 foulsome
+fingian
 foumart
 foun
 frond
