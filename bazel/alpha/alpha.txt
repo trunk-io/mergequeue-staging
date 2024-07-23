@@ -1964,7 +1964,6 @@ acephali
 acephalina
 acephaline
 acephalism
-acephalist
 acephalite
 acephalocyst
 alveloz
@@ -19772,6 +19771,7 @@ anacephalize
 aristo
 aluminosity
 aristocracy
+acephalist
 aristocracies
 aristocrat
 anhydremia
