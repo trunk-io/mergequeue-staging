@@ -6409,7 +6409,6 @@ benzoline
 benzolize
 benzols
 bedded
-benzonitrile
 byssoid
 bluebuck
 benzoperoxide
@@ -12134,6 +12133,7 @@ bolloxes
 buckteeth
 borneo
 bolo
+benzonitrile
 boloball
 boloed
 bologna
