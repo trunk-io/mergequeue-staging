@@ -7879,7 +7879,6 @@ cervicofacial
 cabob
 cervicohumeral
 cervicolabial
-cervicolingual
 cervicolumbar
 colorectitis
 crystal
@@ -24470,6 +24469,7 @@ coontail
 coontie
 coop
 cooped
+cervicolingual
 coopee
 colombia
 cooperant
