@@ -7835,7 +7835,6 @@ bibliograph
 bibliography
 blenniidae
 baggages
-burthenman
 bibliographic
 bibliographical
 blepharocera
@@ -12648,6 +12647,7 @@ bearhide
 bookland
 booklear
 blastocele
+burthenman
 booklets
 broomy
 booklift
