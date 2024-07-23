@@ -9567,6 +9567,7 @@ checkbook
 checkbooks
 checke
 checker
+circumscriptions
 checkerbelly
 checkerbellies
 checkerberry
@@ -14423,7 +14424,6 @@ circumscribe
 circumscribed
 circumscriber
 circumscript
-circumscriptions
 circumscriptive
 circumscriptively
 circumscriptly
