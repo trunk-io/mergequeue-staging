@@ -5666,6 +5666,7 @@ gymnodontes
 gloam
 glycosin
 gloaming
+gluemaker
 ginn
 gallian
 gloamings
@@ -10503,7 +10504,6 @@ graymill
 gettysburg
 goldmist
 goaf
-gluemaker
 glut
 gundygut
 gundog
