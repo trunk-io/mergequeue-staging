@@ -1728,6 +1728,7 @@ feasor
 forlana
 fiorite
 feasted
+flagger
 feaster
 flashflood
 feasters
@@ -7541,7 +7542,6 @@ freebies
 forebearing
 foreconceive
 foreconclude
-flagger
 friaries
 fc
 ferbams
