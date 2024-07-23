@@ -4658,7 +4658,6 @@ carpology
 crenelled
 carpological
 carpologist
-carpomania
 carpometacarpal
 carpometacarpi
 carpometacarpus
@@ -28295,6 +28294,7 @@ crashproof
 crashworthiness
 coltlike
 crasis
+carpomania
 craspedal
 craspedodromous
 cubitiere
