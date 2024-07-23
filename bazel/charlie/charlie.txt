@@ -4841,6 +4841,7 @@ carthame
 carthamic
 conicoid
 carthamus
+crankcase
 cavillers
 cellulin
 carthorse
@@ -9156,7 +9157,6 @@ charque
 charqued
 charqui
 charquid
-crankcase
 charquis
 charr
 charras
