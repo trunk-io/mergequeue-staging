@@ -5278,7 +5278,6 @@ afacing
 afaint
 afb
 afd
-afear
 auriculovertical
 arapahite
 afeard
@@ -15787,6 +15786,7 @@ antipapal
 antipapalist
 antipapism
 apaid
+afear
 alem
 antiparabemata
 antiparallel
