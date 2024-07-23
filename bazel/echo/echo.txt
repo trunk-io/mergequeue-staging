@@ -13222,7 +13222,6 @@ explicator
 explicatory
 explicit
 encoders
-explicitly
 explicitness
 epilemma
 enchantingly
@@ -13355,6 +13354,7 @@ expressionist
 expressionistic
 expressionistically
 expressionlessly
+explicitly
 expressionlessness
 ergasia
 expressions
