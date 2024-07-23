@@ -5529,6 +5529,7 @@ glycosemia
 glycosidase
 glycoside
 glutaraldehyde
+gatling
 greet
 girlchild
 gomeral
@@ -9257,7 +9258,6 @@ grapples
 grazeable
 gladdy
 groggery
-gatling
 groggily
 guttar
 glt
