@@ -9214,6 +9214,7 @@ charts
 chartula
 chartulae
 chartulary
+colourability
 chartularies
 chamma
 chartulas
@@ -19521,7 +19522,6 @@ colour
 cataphasia
 corditis
 consolamentum
-colourability
 colourable
 colourableness
 colouration
