@@ -141,7 +141,6 @@ earstones
 enabled
 eartag
 eartagged
-exudes
 earthboard
 expostulatively
 earthbound
@@ -10337,6 +10336,7 @@ electroplates
 ethylamide
 ethylamime
 ethylamin
+exudes
 endoconidium
 ethylate
 egoistically
