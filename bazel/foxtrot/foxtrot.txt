@@ -151,7 +151,6 @@ factioneer
 factionism
 factionist
 floor
-factionistism
 forgiveness
 factious
 fettle
@@ -11175,6 +11174,7 @@ funerealness
 flits
 fungaceous
 fungal
+factionistism
 flanked
 fungals
 fungi
