@@ -13408,7 +13408,6 @@ bouchon
 bisphenoid
 bouchons
 bothered
-boucle
 boucles
 bouderie
 boudeuse
@@ -13499,6 +13498,7 @@ bannerline
 boundless
 boundedly
 boundedness
+boucle
 bounden
 betrayers
 bounder
