@@ -12662,7 +12662,6 @@ casimiroa
 chrismons
 chronicle
 chronicled
-chronicler
 chroniclers
 chronicles
 chronicling
@@ -19897,6 +19896,7 @@ cometic
 cometlike
 cometographer
 cometography
+chronicler
 cometographical
 cometoid
 cometology
