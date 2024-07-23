@@ -5727,6 +5727,7 @@ brawlis
 basigamy
 bellhanging
 bellhop
+bookbinder
 bellhouse
 belly
 bellyache
@@ -12599,7 +12600,6 @@ book
 bookable
 bicycle
 bookbind
-bookbinder
 bookbindery
 baianism
 bookbinderies
