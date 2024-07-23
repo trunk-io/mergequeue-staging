@@ -8839,6 +8839,7 @@ chapelward
 chaperon
 chaperonage
 chaperone
+curney
 chaperoned
 chaperonless
 chaperons
@@ -18223,7 +18224,6 @@ coes
 coesite
 complicator
 coessential
-curney
 conf
 coessentiality
 coessentially
