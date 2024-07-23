@@ -4434,7 +4434,6 @@ adrenocorticosteroid
 adrenocorticotrophic
 ammonolysis
 aneurine
-adrenocorticotrophin
 adrenocorticotropic
 adrenomedullary
 adrenosterone
@@ -12841,6 +12840,7 @@ atheneum
 angiokeratoma
 angiokinesis
 anisogynous
+adrenocorticotrophin
 anthocerotales
 amen
 angioleucitis
