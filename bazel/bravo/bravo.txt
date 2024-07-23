@@ -11492,6 +11492,7 @@ bascology
 bm
 bn
 bland
+biscuit
 bifold
 bnf
 belemnites
@@ -15873,7 +15874,6 @@ bromoprotein
 branchless
 bromos
 bromouracil
-biscuit
 bromous
 bressomer
 brompicrin
