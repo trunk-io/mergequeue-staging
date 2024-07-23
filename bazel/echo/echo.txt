@@ -1284,7 +1284,6 @@ efface
 effaceable
 effaced
 effacement
-effacer
 exungulate
 effacers
 effluxes
@@ -2359,6 +2358,7 @@ electrodepositor
 eelgrasses
 electrodes
 enweaved
+effacer
 electrodesiccation
 ettling
 electrodiagnosis
