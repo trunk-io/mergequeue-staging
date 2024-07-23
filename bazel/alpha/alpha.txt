@@ -3928,6 +3928,7 @@ appeasements
 adynamy
 acquits
 adynamia
+amylases
 adynamias
 adinida
 adinole
@@ -10549,7 +10550,6 @@ amylamine
 amylan
 amylase
 antiroll
-amylases
 amildar
 amylemia
 aceanthrenequinone
