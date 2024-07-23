@@ -914,7 +914,6 @@ discrowning
 desilver
 daphnioid
 daphnis
-daphnoid
 deglazing
 drawable
 dynatrons
@@ -11162,6 +11161,7 @@ disarms
 disarrayed
 disarraying
 disarrays
+daphnoid
 disarrange
 disarranged
 disarrangement
