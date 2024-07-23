@@ -3538,7 +3538,6 @@ caranday
 clasmatocyte
 carane
 caranga
-carangid
 carangidae
 cytisine
 carangids
@@ -22989,6 +22988,7 @@ considerativeness
 considered
 considering
 consideringly
+carangid
 considers
 calyptra
 consign
