@@ -5890,6 +5890,7 @@ facsimile
 falderals
 floorhead
 flooring
+foremark
 floorless
 funli
 floormen
@@ -7764,7 +7765,6 @@ foulnesses
 forelouper
 foremade
 foremarch
-foremark
 foremartyr
 fleshlike
 fabled
