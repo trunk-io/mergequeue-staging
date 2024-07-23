@@ -3630,7 +3630,6 @@ garrya
 growler
 galactostasis
 gunfighters
-gestalten
 gladhearted
 gestalter
 glykopectic
@@ -7552,6 +7551,7 @@ gunfought
 glochines
 gawkily
 gp
+gestalten
 gastrophilism
 groupoids
 gapes
