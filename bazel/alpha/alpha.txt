@@ -279,7 +279,6 @@ abdominal
 abdominalia
 abdominalian
 abdominals
-anencephalotrophia
 abdominoanterior
 abdominocardiac
 abdominocentesis
@@ -20288,6 +20287,7 @@ arry
 arriage
 agabanee
 arriba
+anencephalotrophia
 arribadas
 arricci
 arricciati
