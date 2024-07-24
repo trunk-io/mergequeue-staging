@@ -14323,7 +14323,6 @@ anteriority
 anteriorness
 anteriors
 anterodorsal
-anteroexternal
 anteroflexion
 anterofrontal
 anterograde
@@ -15332,6 +15331,7 @@ adigei
 andranatomy
 antifrictional
 antifrost
+anteroexternal
 antifundamentalism
 allotter
 antifungal
