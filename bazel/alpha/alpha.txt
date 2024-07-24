@@ -7238,7 +7238,6 @@ aktistetae
 aktistete
 aku
 akuammin
-akuammine
 akund
 afrits
 attester
@@ -15941,6 +15940,7 @@ anointer
 antiplanet
 adenomyoma
 antiplatelet
+akuammine
 antipleion
 antiplenist
 antiplethoric
