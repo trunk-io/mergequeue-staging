@@ -5175,7 +5175,6 @@ aerotonometry
 abetment
 atrabilar
 aerotonometric
-aerotropic
 aerotropism
 aerugo
 aerugos
@@ -16826,6 +16825,7 @@ alebion
 aphid
 aphides
 aphidian
+aerotropic
 aphidians
 aphidid
 apophasis
