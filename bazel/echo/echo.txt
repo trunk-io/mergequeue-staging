@@ -1489,7 +1489,6 @@ eft
 efts
 eftsoon
 eftsoons
-eg
 extravertive
 egad
 expulsions
@@ -4376,6 +4375,7 @@ enamelwork
 enamine
 epistolist
 endosomes
+eg
 enamorado
 enamorate
 enigmatized
