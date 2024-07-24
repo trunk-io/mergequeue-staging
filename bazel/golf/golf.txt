@@ -4695,7 +4695,6 @@ glowworm
 giarre
 gypsine
 gipsiologist
-generability
 gutturalisation
 gipsire
 gypsyry
@@ -4898,6 +4897,7 @@ gyrostachys
 gulled
 gorilloid
 gyrostat
+generability
 giusto
 greystone
 gastroplenic
