@@ -8321,7 +8321,6 @@ alignment
 alignments
 aligns
 aligreek
-alii
 aliyah
 aliyahaliyahs
 aliyas
@@ -23640,6 +23639,7 @@ aurite
 aurited
 aurivorous
 aurobromide
+alii
 aurochloride
 aurochs
 aurochses
