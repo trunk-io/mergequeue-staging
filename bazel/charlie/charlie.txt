@@ -5733,6 +5733,7 @@ catchpolled
 catchpolling
 catchup
 catchups
+cosmologies
 catchwater
 catchweed
 catchweight
@@ -26170,7 +26171,6 @@ cosmology
 cosmologic
 cosmological
 cosmologically
-cosmologies
 cosmologygy
 cosmologist
 cosmologists
