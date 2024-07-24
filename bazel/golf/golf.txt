@@ -2392,7 +2392,6 @@ geldant
 gambit
 galvanographic
 genua
-galvanothermy
 gynandria
 globin
 gelders
@@ -8477,6 +8476,7 @@ grubstreet
 gravicembalos
 gid
 gravid
+galvanothermy
 gulfier
 grandnephews
 gliriform
