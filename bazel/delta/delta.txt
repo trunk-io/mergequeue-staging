@@ -6358,7 +6358,6 @@ devocalize
 dermatotherapy
 ductilized
 dermatotome
-dermatotomy
 demissory
 dermatotropic
 dermatozoon
@@ -16663,6 +16662,7 @@ device
 dictyoxylon
 dragonwort
 dragoon
+dermatotomy
 dragoonable
 dragoonade
 dragooner
