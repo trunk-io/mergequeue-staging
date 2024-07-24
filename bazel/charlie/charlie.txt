@@ -22045,6 +22045,7 @@ configure
 configured
 configures
 cymbate
+cretefaction
 coxcombry
 confinable
 confine
@@ -28887,7 +28888,6 @@ cretan
 ciceronic
 crete
 constellated
-cretefaction
 chambrays
 crankest
 callisection
