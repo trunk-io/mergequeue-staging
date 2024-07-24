@@ -19023,7 +19023,6 @@ collectarium
 correctives
 cytisus
 collected
-collectedness
 collectibility
 collectible
 cuneiform
@@ -22631,6 +22630,7 @@ connaraceous
 connarite
 captions
 connarus
+collectedness
 choragion
 connascency
 connascent
