@@ -1817,7 +1817,6 @@ deviants
 debellator
 defrayers
 debenture
-debentured
 debentures
 debi
 debye
@@ -5130,6 +5129,7 @@ dendrogaea
 dendrohyrax
 dendroica
 deleniate
+debentured
 dendroid
 dendroidea
 dendrolater
