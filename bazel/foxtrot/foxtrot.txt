@@ -1829,7 +1829,6 @@ fundamentalism
 feculency
 feculent
 fecundate
-fecundates
 fecundation
 fecundations
 fecundative
@@ -6180,6 +6179,7 @@ flowstone
 flu
 finalize
 fluavile
+fecundates
 feudalize
 flubbed
 flubdub
