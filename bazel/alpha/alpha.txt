@@ -2973,7 +2973,6 @@ arctium
 areometer
 acromiohumeral
 acromion
-avg
 amphibalus
 acromiosternal
 acromiothoracic
@@ -15545,6 +15544,7 @@ anaglyptographic
 antimask
 antimasker
 antimason
+avg
 antimasonic
 asylums
 amateurs
