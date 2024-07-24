@@ -1395,6 +1395,7 @@ farseer
 fatigable
 fatigableness
 freightliner
+fishpole
 flagrante
 fibrilliform
 fatigate
@@ -4348,7 +4349,6 @@ fromage
 fishmeal
 fabliaux
 fishnets
-fishpole
 foreproduct
 fishpoles
 fishponds
