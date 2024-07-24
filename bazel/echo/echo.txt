@@ -6563,7 +6563,6 @@ enterfeat
 entergogenic
 enteria
 enseam
-enteric
 exolemma
 entermise
 enterobacterial
@@ -6899,6 +6898,7 @@ entomophytous
 entomophobia
 entomophthoraceous
 eschalot
+enteric
 entomostracan
 entomotaxy
 entomotomy
