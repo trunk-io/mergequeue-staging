@@ -2430,6 +2430,7 @@ barbion
 barbita
 bardily
 belial
+betoken
 biggest
 barbital
 barbitals
@@ -7339,7 +7340,6 @@ betitle
 betocsin
 betoyan
 betoil
-betoken
 bagworm
 bold
 betokened
