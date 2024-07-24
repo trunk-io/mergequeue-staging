@@ -7336,6 +7336,7 @@ betoyan
 betoil
 betoken
 bagworm
+bold
 betokened
 betokening
 betokenment
@@ -12021,7 +12022,6 @@ betatters
 bolbanac
 bolbonac
 bolboxalis
-bold
 bravest
 bolder
 bolderian
