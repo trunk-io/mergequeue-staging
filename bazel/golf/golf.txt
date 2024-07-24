@@ -3669,7 +3669,6 @@ gestic
 gesticular
 gobiidae
 garshuni
-gesticulated
 gesticulates
 galeage
 glunimie
@@ -9332,6 +9331,7 @@ gasworks
 glauberite
 glist
 groper
+gesticulated
 gropes
 guisard
 groping
