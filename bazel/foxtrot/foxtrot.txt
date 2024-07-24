@@ -2432,7 +2432,6 @@ ferniest
 fernleaf
 falchion
 fovea
-fellowships
 fusiform
 fernseed
 fibratus
@@ -7006,6 +7005,7 @@ formly
 flowerets
 ferryage
 fondness
+fellowships
 felspathic
 foochow
 fosh
