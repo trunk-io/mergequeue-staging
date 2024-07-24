@@ -149,7 +149,6 @@ abastardize
 abastral
 abatable
 amoebid
-aftershock
 abatage
 ajatasatru
 abated
@@ -8267,6 +8266,7 @@ alien
 alienability
 anthryl
 alienabilities
+aftershock
 alienage
 alienages
 alienate
