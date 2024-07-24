@@ -358,6 +358,7 @@ gynobasic
 galangin
 gauntries
 galante
+gong
 gaure
 galanthus
 galantine
@@ -6851,7 +6852,6 @@ glagol
 gonfanon
 gonfanons
 goldeyes
-gong
 gelidity
 gonging
 glycerolate
