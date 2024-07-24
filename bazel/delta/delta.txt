@@ -468,6 +468,7 @@ daystar
 daystars
 daytale
 daytime
+defalk
 daytimes
 dayton
 daiva
@@ -3087,7 +3088,6 @@ diethyltryptamine
 defalcation
 defalcations
 defalcator
-defalk
 drepanididae
 defamation
 defamations
