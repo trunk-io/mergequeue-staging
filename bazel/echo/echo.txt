@@ -4289,7 +4289,6 @@ emulsify
 emulsifiability
 essayists
 ecrus
-emulsifications
 ethyldichloroarsine
 emulsified
 emulsifier
@@ -11058,6 +11057,7 @@ euploid
 enrive
 euglenaceae
 euploidies
+emulsifications
 euplotid
 electrostatical
 eupneas
