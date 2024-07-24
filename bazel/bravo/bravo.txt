@@ -918,6 +918,7 @@ bagels
 bagfuls
 boudoirs
 baggage
+bryophyte
 baggageman
 biarcuated
 baggagemaster
@@ -8855,7 +8856,6 @@ biocatalytic
 biocellate
 biocenosis
 biocentric
-bryophyte
 biochemic
 biochemically
 biochemics
