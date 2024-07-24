@@ -1916,6 +1916,7 @@ fourniture
 foreappointment
 feedway
 feedwater
+franchisor
 feeing
 feel
 feely
@@ -3996,7 +3997,6 @@ fossae
 foulard
 fifish
 finland
-franchisor
 finlandization
 forbye
 fastballs
