@@ -3326,7 +3326,6 @@ capsid
 capsidae
 capsids
 capsizable
-collatress
 capsizal
 capsize
 capsizes
@@ -8327,6 +8326,7 @@ cranely
 chalaziferous
 chalazogamic
 chalazoin
+collatress
 chalcanth
 chalcanthite
 chalcedonian
