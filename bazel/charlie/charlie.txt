@@ -9286,7 +9286,6 @@ chasteweed
 chasty
 coefficient
 chastiment
-chastisable
 chastise
 chaplanry
 creepers
@@ -11024,6 +11023,7 @@ chiromantis
 chiromegaly
 chirometer
 chiromyidae
+chastisable
 chiromys
 chiron
 chinpiece

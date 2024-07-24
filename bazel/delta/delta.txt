@@ -8255,7 +8255,6 @@ diadochic
 disshroud
 diadochokinesia
 diadochokinesis
-diadrom
 dopamelanin
 dialyzers
 diadromous
@@ -8461,6 +8460,7 @@ downsman
 doley
 decouple
 dialogs
+diadrom
 determinativeness
 dialogue
 dopes
