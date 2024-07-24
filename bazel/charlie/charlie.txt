@@ -13226,7 +13226,6 @@ cicadid
 cicadidae
 cycadiform
 cycadite
-cyanidrosis
 cycadofilices
 cycadophyta
 cycadophyte
@@ -19885,6 +19884,7 @@ comedowns
 clar
 comely
 comelier
+cyanidrosis
 corebel
 comelily
 civetone
