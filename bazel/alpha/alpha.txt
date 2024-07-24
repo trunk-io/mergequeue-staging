@@ -5168,6 +5168,7 @@ anthracomartian
 aerostatical
 aerostatics
 antisepticist
+accelerates
 aerostation
 aerostats
 aerosteam
@@ -5827,7 +5828,6 @@ ag
 agacante
 arylated
 agacella
-accelerates
 agaces
 agada
 apicial
