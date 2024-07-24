@@ -13844,6 +13844,7 @@ expiry
 exams
 eltime
 extraenteric
+extrasyllogistic
 extraequilibrium
 extraessential
 extrafine
@@ -13963,7 +13964,6 @@ extrasensible
 erato
 extrasensorial
 extrasensuous
-extrasyllogistic
 epineuneuria
 extrasyphilitic
 extrasocial
