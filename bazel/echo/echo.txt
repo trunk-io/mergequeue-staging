@@ -4543,7 +4543,6 @@ ennage
 emollients
 encephalitogenic
 encephalocele
-encephalocoele
 encephalodialysis
 encephalograph
 encephalographic
@@ -6030,6 +6029,7 @@ enlistment
 extremes
 eighths
 enlive
+encephalocoele
 environmental
 endogalvanism
 enliven
