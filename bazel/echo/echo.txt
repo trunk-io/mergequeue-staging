@@ -4565,7 +4565,6 @@ endive
 ejectors
 enmoss
 encephalopyosis
-endogenesis
 encolour
 encephalosclerosis
 encephaloscope
@@ -13617,6 +13616,7 @@ extenuatory
 efreet
 exter
 exterior
+endogenesis
 escrows
 exteriorise
 epicyesis

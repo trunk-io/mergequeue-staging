@@ -6497,7 +6497,6 @@ agreges
 aggravated
 agreing
 agremens
-agrement
 amygdalopathy
 agrements
 apologer
@@ -7798,6 +7797,7 @@ authorship
 alderman
 absey
 androgynia
+agrement
 aldermanate
 aldermancy
 austenitized
