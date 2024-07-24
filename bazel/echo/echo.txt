@@ -7980,7 +7980,6 @@ epimeritic
 elderly
 evidenced
 eigenvector
-epimerize
 endoenzyme
 epimerized
 epimerizing
@@ -8753,6 +8752,7 @@ equipping
 emolumentary
 equiprobable
 equiprobably
+epimerize
 equiproportional
 equiproportionality
 equips
