@@ -7441,7 +7441,6 @@ cephalotaxus
 cephalotheca
 cephalothecal
 cephalothoraces
-cephalothoracic
 cephalothoracopagus
 cardisophistical
 cephalothorax
@@ -15982,6 +15981,7 @@ cleidocranial
 cleidohyoid
 cleidoic
 cleidomancy
+cephalothoracic
 cleidomastoid
 cleidorrhexis
 cleidoscapular
