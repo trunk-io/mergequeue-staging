@@ -1246,7 +1246,6 @@ datelined
 datelines
 duckboat
 datelining
-datemark
 dater
 daterman
 daters
@@ -15658,6 +15657,7 @@ decomposure
 doorsills
 doorstead
 djebel
+datemark
 didactics
 dishwashing
 dextrosuria
