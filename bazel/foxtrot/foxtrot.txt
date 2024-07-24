@@ -1295,7 +1295,6 @@ fastings
 fenter
 fastish
 frape
-fastland
 fastly
 fastnacht
 fastnesses
@@ -4394,6 +4393,7 @@ frostbiting
 fissidactyl
 fakement
 fissidentaceae
+fastland
 flagfish
 foreshorten
 fissile
