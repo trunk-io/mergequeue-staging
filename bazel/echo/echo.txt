@@ -8351,7 +8351,6 @@ edelweiss
 epithecia
 epithecium
 enscale
-epithelia
 endexines
 erer
 endofaradism
@@ -9617,6 +9616,7 @@ esculent
 esculents
 esculetin
 extremital
+epithelia
 escutcheons
 escutellate
 eugenesis
