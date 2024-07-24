@@ -4786,7 +4786,6 @@ encolumn
 encolure
 encomendero
 encomy
-encomiast
 epicondylitis
 encomiastic
 encomiastical
@@ -14109,6 +14108,7 @@ extrudability
 extrudable
 excussion
 extrude
+encomiast
 extruder
 epigynum
 entrails
