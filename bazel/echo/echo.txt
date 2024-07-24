@@ -5291,7 +5291,6 @@ endosarcous
 endosarcs
 endosclerite
 exostema
-emulgens
 endoscopes
 endoscopy
 endoscopic
@@ -11696,6 +11695,7 @@ evermo
 enamelled
 evolutoid
 evolvable
+emulgens
 evolve
 electroretinogram
 etiolin
