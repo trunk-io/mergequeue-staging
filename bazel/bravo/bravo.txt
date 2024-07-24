@@ -8601,7 +8601,6 @@ billman
 bosun
 bedoctor
 basidiomycetes
-billon
 besague
 billot
 billow
@@ -13633,6 +13632,7 @@ bovidae
 brachyuran
 bovids
 bovine
+billon
 balking
 bovinely
 bovines
