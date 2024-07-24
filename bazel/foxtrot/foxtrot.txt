@@ -4843,7 +4843,6 @@ faburden
 fuzzle
 flagstaff
 flameout
-forcleave
 flameouts
 fackeltanz
 flameproof
@@ -7276,6 +7275,7 @@ flypast
 forage
 foraged
 fluttering
+forcleave
 flowerage
 forager
 fitchy
