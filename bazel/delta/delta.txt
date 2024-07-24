@@ -1264,6 +1264,7 @@ dativogerundial
 datolitic
 deadly
 datsun
+disanchor
 datsw
 datto
 dispensative
@@ -10872,7 +10873,6 @@ direction
 directional
 discarding
 deperdition
-disanchor
 dolichocranial
 drain
 directionalize
