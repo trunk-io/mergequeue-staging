@@ -136,7 +136,6 @@ cableways
 cabling
 cablish
 cabman
-cabmen
 cabobs
 caboceer
 caboche
@@ -6790,6 +6789,7 @@ cells
 cellucotton
 cellular
 cellularity
+cabmen
 cellularly
 cellulase
 crampfish
