@@ -11962,7 +11962,6 @@ chords
 chore
 caviare
 chapter
-choreal
 choreas
 choregy
 choregraphic
@@ -12823,6 +12822,7 @@ chukkar
 castes
 chukkars
 chukkas
+choreal
 crubeen
 chukker
 convive
