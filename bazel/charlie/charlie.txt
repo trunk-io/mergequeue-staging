@@ -3432,6 +3432,7 @@ catenoid
 caque
 caquet
 caqueterie
+corroboree
 caqueteuse
 caqueteuses
 caquetio
@@ -8038,7 +8039,6 @@ cezannesque
 cf
 cfd
 compagination
-corroboree
 cfi
 cfs
 chervonei
