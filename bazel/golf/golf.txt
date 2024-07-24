@@ -5464,6 +5464,7 @@ glycidic
 gharial
 greenwax
 glycin
+groupoid
 gigantoblast
 glycine
 gnathal
@@ -9469,7 +9470,6 @@ guana
 groupies
 gomarist
 groupment
-groupoid
 grantor
 groups
 groupthink

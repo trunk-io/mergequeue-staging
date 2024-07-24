@@ -5606,7 +5606,6 @@ forestick
 flavorfully
 flip
 focalise
-findable
 frayn
 fluffing
 fumble
@@ -9911,6 +9910,7 @@ frett
 faultiness
 frettation
 frette
+findable
 fretted
 flegm
 formularism
