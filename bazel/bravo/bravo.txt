@@ -6621,6 +6621,7 @@ beret
 berets
 baals
 beretta
+brickfield
 brocage
 bergamasche
 bheesty
@@ -15109,7 +15110,6 @@ brickbatted
 brickbatting
 bricked
 bricken
-brickfield
 bearwoods
 beuniformed
 brickfielder
