@@ -14899,7 +14899,6 @@ cytoanalyzer
 cytoarchitectural
 cytoarchitecturally
 cytoarchitecture
-cytoblast
 confidences
 cytoblastema
 cytoblastemal
@@ -23172,6 +23171,7 @@ cardioclasis
 conspirational
 condylarthrosis
 conspirative
+cytoblast
 conspirator
 conspiratory
 conspirators
