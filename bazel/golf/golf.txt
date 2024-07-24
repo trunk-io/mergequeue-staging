@@ -3517,6 +3517,7 @@ germling
 gelatigenous
 germproof
 germule
+geswarp
 greenslade
 gernative
 goodlike
@@ -4942,7 +4943,6 @@ gravamen
 gith
 guyed
 gitksan
-geswarp
 geobotanical
 gigantical
 gytling
