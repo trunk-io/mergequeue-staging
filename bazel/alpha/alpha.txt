@@ -23493,7 +23493,6 @@ aunty
 authentications
 aunties
 auntish
-auntly
 auntliest
 arrayers
 academie
@@ -23976,6 +23975,7 @@ aerobion
 autocytolytic
 autoclasis
 autoclave
+auntly
 autoclaves
 autoclaving
 autocoder
