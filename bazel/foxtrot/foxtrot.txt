@@ -486,7 +486,6 @@ frescoist
 funestal
 fervors
 falces
-falchion
 featherers
 ferritic
 fanweed
@@ -2431,6 +2430,7 @@ fernier
 frighted
 ferniest
 fernleaf
+falchion
 fovea
 fellowships
 fusiform
