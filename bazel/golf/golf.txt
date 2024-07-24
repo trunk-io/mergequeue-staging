@@ -1068,7 +1068,6 @@ gefilte
 ganglander
 gangly
 ganglia
-ganglial
 gybed
 globigerinidae
 glossodynia
@@ -7669,6 +7668,7 @@ geatas
 graduand
 glirine
 garden
+ganglial
 graduands
 graduated
 goloshes
