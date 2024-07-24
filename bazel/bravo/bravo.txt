@@ -12728,7 +12728,6 @@ boorishness
 boors
 beseeching
 benzins
-boort
 bushment
 boose
 balcony
@@ -17883,6 +17882,7 @@ berths
 bursitises
 bree
 booter
+boort
 bursitos
 burst
 burster
