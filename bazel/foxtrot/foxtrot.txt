@@ -2846,7 +2846,6 @@ feuillet
 feuilleton
 feuilletonism
 feuilletons
-figurate
 farfel
 floccilation
 fleches
@@ -10362,6 +10361,7 @@ fashionize
 frondescing
 frondeur
 factored
+figurate
 frondeurs
 framers
 frigoric
