@@ -2658,7 +2658,6 @@ elegiac
 elegiacs
 equus
 elegiambic
-extorter
 elysium
 eucryphia
 enterovirus
@@ -6123,6 +6122,7 @@ ennuye
 euchological
 episcias
 evviva
+extorter
 ennuied
 ennuyee
 ennuis
