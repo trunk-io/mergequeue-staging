@@ -1098,7 +1098,6 @@ grawls
 gasted
 ganglioneure
 goschens
-ganglioneuron
 gateway
 gorbal
 ganglionitis
@@ -4653,6 +4652,7 @@ gipser
 gypsy
 glossata
 gipsydom
+ganglioneuron
 gearboxes
 gutterlike
 gipsied
