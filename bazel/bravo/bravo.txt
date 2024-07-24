@@ -9141,7 +9141,6 @@ biotechnics
 biotechnology
 barrett
 biotechnological
-biotechnologicaly
 biotechnologically
 biotechs
 bracherer
@@ -16297,6 +16296,7 @@ bruno
 bloodstain
 brunoniaceae
 bewhisper
+biotechnologicaly
 bianchi
 beget
 brunonism
