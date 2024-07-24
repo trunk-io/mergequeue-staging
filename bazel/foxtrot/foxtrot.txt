@@ -218,7 +218,6 @@ faculty
 faculties
 facultize
 factitively
-facundity
 fadaise
 furfurous
 faddy
@@ -2265,6 +2264,7 @@ fibropapilloma
 furthermost
 ficaria
 fructifier
+facundity
 florilage
 farmyardy
 fenianism
