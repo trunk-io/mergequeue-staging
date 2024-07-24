@@ -6730,7 +6730,6 @@ cosmati
 celiectomy
 celiemia
 celiocyesis
-celiocolpotomy
 celiodynia
 celioelytrotomy
 celiogastrotomy
@@ -31791,6 +31790,7 @@ cuter
 cutes
 cutesy
 cutesiest
+celiocolpotomy
 cutest
 cutgrass
 colias
