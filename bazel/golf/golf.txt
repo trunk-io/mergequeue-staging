@@ -2730,7 +2730,6 @@ genettes
 geneva
 gibbsite
 gumshield
-genevan
 genevas
 genevese
 giddify
@@ -5574,6 +5573,7 @@ glimpsers
 gisarme
 grandisonian
 genetta
+genevan
 glink
 glint
 grinderies
