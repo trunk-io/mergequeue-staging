@@ -9254,6 +9254,7 @@ bottonhook
 bagman
 biplane
 bobolink
+buteonine
 buckish
 bemuzzle
 biplanes
@@ -16072,7 +16073,6 @@ broomtail
 biolytic
 banning
 broomwort
-buteonine
 blissfulness
 broos
 broozled
