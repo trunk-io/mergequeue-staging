@@ -4055,6 +4055,7 @@ catchland
 cardiorrheuma
 cardiorrhexis
 cardioschisis
+chattack
 cardiosclerosis
 cardioscope
 cardiosymphysis
@@ -9333,7 +9334,6 @@ chatoyancy
 chatoyant
 countesses
 chatons
-chattack
 cocao
 chattah
 chattanooga
