@@ -3695,7 +3695,6 @@ battalions
 battarism
 battarismus
 batted
-battel
 bonnering
 bronchotomist
 battened
@@ -6959,6 +6958,7 @@ besmirch
 butt
 brahmanhood
 basidium
+battel
 blastomyces
 besmircher
 backlashed
