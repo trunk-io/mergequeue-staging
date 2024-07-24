@@ -5268,7 +5268,6 @@ castellum
 casten
 carabin
 cloghaun
-caster
 casterless
 carcerate
 casters
@@ -19433,6 +19432,7 @@ coloradans
 colorado
 colorant
 colorate
+caster
 coloration
 colorational
 colorationally
