@@ -6811,7 +6811,6 @@ extraformal
 entitledness
 engrandize
 entitling
-entoblast
 entobronchium
 ebbman
 entocalcaneal
@@ -13996,6 +13995,7 @@ extratympanic
 extratorrid
 etchareottine
 extratribal
+entoblast
 elementoid
 epanorthoses
 extender
