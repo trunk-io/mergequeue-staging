@@ -6495,6 +6495,7 @@ flurn
 flaxbird
 flapped
 flurr
+founder
 flurried
 flurriedly
 flurries
@@ -9398,7 +9399,6 @@ frankish
 fumosity
 frankist
 franklin
-founder
 fendered
 flophouses
 franklinian
