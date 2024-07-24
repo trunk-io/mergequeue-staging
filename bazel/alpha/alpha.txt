@@ -8948,6 +8948,7 @@ allophone
 allophones
 antimystic
 allophonic
+armbone
 asklepios
 allophore
 alloplasm
@@ -19929,7 +19930,6 @@ armatured
 aerophysicist
 aristos
 armbands
-armbone
 armchair
 armchaired
 armed
