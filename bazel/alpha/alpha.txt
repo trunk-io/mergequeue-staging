@@ -8692,7 +8692,6 @@ agamobia
 allelism
 allelocatalytic
 allelomorphism
-allelotropic
 aggrege
 allelotropism
 alleluia
@@ -19909,6 +19908,7 @@ armamentary
 armamentaria
 armangite
 armary
+allelotropic
 adjusters
 arranging
 armaria
