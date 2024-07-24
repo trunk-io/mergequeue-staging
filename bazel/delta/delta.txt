@@ -10111,7 +10111,6 @@ dynametric
 dynamic
 dumas
 dynamical
-dynamically
 digest
 dynamicity
 dynamics
@@ -14383,6 +14382,7 @@ decaliters
 divers
 doormaking
 despiciency
+dynamically
 decciares
 dzerin
 diverse
