@@ -11828,7 +11828,6 @@ alogian
 analogon
 analogous
 analogously
-analogousness
 analogs
 analogue
 adjectitious
@@ -21857,6 +21856,7 @@ associatedness
 associates
 associateship
 associating
+analogousness
 association
 anientise
 associational
