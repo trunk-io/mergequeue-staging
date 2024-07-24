@@ -5026,6 +5026,7 @@ aerodromes
 alimentative
 aeroduct
 aeroducts
+antefact
 aeroelastic
 addeem
 antecedently
@@ -8078,7 +8079,6 @@ alfurese
 alfuro
 aghanee
 absorptivity
-antefact
 alga
 achaenodon
 asweve
