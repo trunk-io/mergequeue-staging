@@ -5540,7 +5540,6 @@ glycosemia
 glycosidase
 glycoside
 glutaraldehyde
-gatling
 greet
 girlchild
 gomeral
@@ -9161,6 +9160,7 @@ glaucomas
 gruf
 guaiac
 galanas
+gatling
 gingras
 gonococcus
 globulysis
