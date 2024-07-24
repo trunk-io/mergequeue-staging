@@ -11200,7 +11200,6 @@ amphioxidae
 amphioxides
 amphioxididae
 amphioxis
-amphioxus
 amphioxuses
 amphipeptone
 amphiphithyra
@@ -16890,6 +16889,7 @@ aphonics
 aphorise
 animosity
 aristarch
+amphioxus
 aphorised
 aphorises
 agitationist
