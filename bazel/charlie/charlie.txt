@@ -6197,7 +6197,6 @@ caulicolous
 cauliculi
 cauliculus
 cauliferous
-cauliflory
 cauliflorous
 cauliflower
 cankeredly
@@ -11914,6 +11913,7 @@ chopine
 choplogic
 choplogical
 chalcography
+cauliflory
 chinoidin
 chopper
 cuprums
