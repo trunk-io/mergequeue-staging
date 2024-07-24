@@ -5813,6 +5813,7 @@ floerkea
 flayed
 fumewort
 fermis
+forelaid
 floes
 flog
 flogging
@@ -10699,7 +10700,6 @@ footband
 frumperies
 fatherliness
 facetiation
-forelaid
 frumpy
 flyting
 frumpiest
