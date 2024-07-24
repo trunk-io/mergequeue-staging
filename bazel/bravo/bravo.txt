@@ -2657,7 +2657,6 @@ bushfighter
 baryphonic
 baris
 barysilite
-barysphere
 barit
 basoche
 baryta
@@ -6744,6 +6743,7 @@ belike
 berouged
 beround
 berreave
+barysphere
 berret
 berretta
 berrettas
