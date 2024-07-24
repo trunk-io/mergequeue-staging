@@ -20482,7 +20482,6 @@ anatomise
 artefacts
 anabolite
 artels
-artemas
 affidare
 artemis
 artemisia
@@ -21611,6 +21610,7 @@ assassinates
 assassinating
 assassinations
 assassinative
+artemas
 araneose
 assassinist
 assate
