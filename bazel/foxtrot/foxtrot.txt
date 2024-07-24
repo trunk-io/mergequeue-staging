@@ -6823,7 +6823,6 @@ fld
 fermail
 forehood
 folate
-folates
 folcgemot
 forestery
 founding
@@ -8390,6 +8389,7 @@ faradmeter
 fleay
 formed
 formee
+folates
 formelt
 fieldpiece
 formenic
