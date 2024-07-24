@@ -20226,7 +20226,6 @@ commission
 commissional
 commissionate
 commissionated
-commissioned
 commissioner
 craftly
 commissioners
@@ -24040,6 +24039,7 @@ causeuse
 captate
 cupful
 contumeliousness
+commissioned
 contund
 contune
 calvous
