@@ -4548,7 +4548,6 @@ gyniatry
 gyniatrics
 gyniatries
 gink
-gizmo
 galbanums
 garoted
 gametophobia
@@ -6105,6 +6104,7 @@ gymnasial
 granulate
 glucokinase
 glucokinin
+gizmo
 generalia
 golaseccan
 glucolipide
