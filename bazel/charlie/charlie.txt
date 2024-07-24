@@ -1977,7 +1977,6 @@ campagnol
 campagnols
 campagus
 campaign
-campaigned
 campaigning
 caballeros
 campal
@@ -31329,6 +31328,7 @@ curiality
 curiam
 curiara
 curiate
+campaigned
 counterbrace
 curiatii
 curiboca
