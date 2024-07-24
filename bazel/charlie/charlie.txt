@@ -3078,7 +3078,6 @@ capillarectasia
 capillarily
 capillarimeter
 cochins
-capillariomotor
 capillarity
 capillarities
 capillaritis
@@ -19549,6 +19548,7 @@ colourless
 colourlessness
 crookback
 chromonema
+capillariomotor
 cushewbird
 colourman
 colourtype
