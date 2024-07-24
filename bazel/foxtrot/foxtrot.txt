@@ -6689,7 +6689,6 @@ fudder
 foederati
 foehn
 foehnlike
-foeless
 forenotice
 foeman
 filial
@@ -10882,6 +10881,7 @@ fulgentness
 fulgidity
 fanciful
 fulgor
+foeless
 fulgorid
 fulgoridae
 fulgorous
