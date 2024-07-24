@@ -383,7 +383,6 @@ fucaceous
 fairfieldite
 fairgoing
 fleurettee
-flectional
 fastigated
 fairgrass
 fringeflower
@@ -8752,6 +8751,7 @@ forwearying
 forweend
 forwelk
 forwent
+flectional
 forwoden
 femicide
 ferroelectric
