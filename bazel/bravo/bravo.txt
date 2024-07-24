@@ -3291,7 +3291,6 @@ besmear
 bardulph
 basiliscus
 brawling
-basilosauridae
 bimotors
 basilweed
 basimesostasis
@@ -8388,6 +8387,7 @@ bikol
 bikukulla
 bilaan
 biogenous
+basilosauridae
 bilabe
 bilabial
 bias
