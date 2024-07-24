@@ -1602,6 +1602,7 @@ balletomanes
 battling
 breechcloths
 bicentenarnaries
+batheable
 blameful
 balletomania
 ballets
@@ -3530,7 +3531,6 @@ batfowler
 batfowls
 batful
 bordeaux
-batheable
 barbulate
 bywork
 bather
