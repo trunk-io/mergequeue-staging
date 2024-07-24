@@ -2986,7 +2986,6 @@ boldacious
 bourette
 broguing
 barrelhouse
-barrelhouses
 barreling
 beslash
 barrelled
@@ -12902,6 +12901,7 @@ borderlight
 borderline
 brilliantine
 bryndza
+barrelhouses
 bulletmaker
 bordermark
 backstitch
