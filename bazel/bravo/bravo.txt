@@ -2351,7 +2351,6 @@ barbarisms
 benniseed
 barbarities
 barbarization
-barbarize
 barbarous
 barbarously
 bedsheets
@@ -12470,6 +12469,7 @@ bonifaces
 bonify
 bonification
 boniness
+barbarize
 bacilluria
 boninite
 bonita
