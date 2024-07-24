@@ -3098,7 +3098,6 @@ bartletts
 burucha
 bartramia
 bartramiaceae
-balanoglossus
 baru
 barvel
 bartend
@@ -6524,6 +6523,7 @@ bequeathable
 bequeathal
 bequeathed
 bequeather
+balanoglossus
 bibulosity
 bemoan
 brawled
