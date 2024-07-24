@@ -8929,7 +8929,6 @@ disillusionising
 diceboard
 dicebox
 dicecup
-diced
 disguise
 dicellate
 didna
@@ -12303,6 +12302,7 @@ dazzlement
 disgrade
 disgenius
 debruised
+diced
 disgrading
 disgradulate
 disgregate
