@@ -8225,7 +8225,6 @@ diacritic
 dendrography
 diacritically
 diacritics
-diacromyodi
 diacromyodian
 diactin
 diactinal
@@ -17470,6 +17469,7 @@ droumy
 drouthiest
 dumpies
 drouthiness
+diacromyodi
 drove
 droved
 disembargoed
