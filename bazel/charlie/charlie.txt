@@ -7284,6 +7284,7 @@ cents
 centum
 centums
 centumvir
+confusedly
 centumviral
 centumvirate
 catechumenship
@@ -22232,7 +22233,6 @@ confusability
 confusably
 confuse
 confused
-confusedly
 confuser
 cutwork
 conduced
