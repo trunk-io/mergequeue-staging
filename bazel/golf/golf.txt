@@ -1506,7 +1506,6 @@ garvanzo
 gallivorous
 gallerying
 garvie
-garaged
 glom
 gnapweed
 gas
@@ -10212,6 +10211,7 @@ guilders
 graduating
 guildhall
 guildic
+garaged
 giboia
 guildship
 glycogen
