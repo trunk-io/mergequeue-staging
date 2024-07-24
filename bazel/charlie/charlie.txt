@@ -8243,6 +8243,7 @@ chairing
 chairlady
 cometarium
 chairladies
+choosy
 collectivum
 chairless
 chairlift
@@ -20466,7 +20467,6 @@ comous
 comox
 comp
 compaa
-choosy
 compact
 compactability
 compactable
