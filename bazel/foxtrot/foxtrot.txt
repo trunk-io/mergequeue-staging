@@ -848,6 +848,7 @@ fluxgraph
 foretellers
 fanos
 fenlander
+fettler
 findability
 fans
 fant
@@ -3093,7 +3094,6 @@ forefeelingly
 fluidmeter
 fichtean
 fichteanism
-fettler
 fichus
 fossage
 faubourg
