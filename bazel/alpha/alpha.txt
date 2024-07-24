@@ -9399,6 +9399,7 @@ appalment
 alps
 alpujarra
 alquier
+acker
 alquifou
 alreadiness
 alrighty
@@ -13648,7 +13649,6 @@ abscised
 annotate
 annotater
 annotates
-acker
 annotating
 annotation
 annotatively

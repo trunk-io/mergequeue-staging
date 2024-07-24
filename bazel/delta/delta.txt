@@ -1705,7 +1705,6 @@ deaspirate
 decostate
 deassimilation
 deathbeds
-daggar
 deathblows
 deathcup
 dulotic
@@ -14533,6 +14532,7 @@ divisural
 disbloom
 displeasure
 divorcement
+daggar
 dichotomal
 divorcer
 defiguration
