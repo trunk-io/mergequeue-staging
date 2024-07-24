@@ -10158,7 +10158,6 @@ blacktree
 befleaed
 burrow
 blackwasher
-blackwashing
 blackwater
 broaches
 braider
@@ -12433,6 +12432,7 @@ boners
 bones
 boneset
 bonesets
+blackwashing
 bonesetter
 bonesetting
 boneshaw
