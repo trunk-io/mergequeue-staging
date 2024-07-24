@@ -647,7 +647,6 @@ damner
 damners
 damnyankee
 damnificatus
-damnified
 damnifies
 dreich
 discomposes
@@ -1718,6 +1717,7 @@ dacryocystotomy
 dari
 deathlessly
 decorativeness
+damnified
 deathlessness
 disconcerting
 deathlikeness
