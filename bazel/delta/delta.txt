@@ -2337,7 +2337,6 @@ decalcifier
 daleman
 decolonized
 deciduitis
-deciduoma
 deciduously
 deciduousness
 desightment
@@ -11002,6 +11001,7 @@ disaccommodate
 disaccommodation
 disaccomodate
 dermatocele
+deciduoma
 disaccordance
 disaccordant
 decaedron
