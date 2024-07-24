@@ -6628,7 +6628,6 @@ foalhood
 foals
 forepoled
 fenchone
-foambow
 foamed
 foamer
 flavescence
@@ -8477,6 +8476,7 @@ formularised
 formularistic
 formularization
 formularizing
+foambow
 fingrigo
 fibrefill
 formulated
