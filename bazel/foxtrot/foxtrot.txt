@@ -543,7 +543,6 @@ fall
 fallace
 fibromyomatous
 fallacy
-fallacia
 fallacies
 forerunners
 fadlike
@@ -4826,6 +4825,7 @@ flamenco
 fooless
 foremastman
 flashier
+fallacia
 flamenship
 fingerprinting
 faburden
