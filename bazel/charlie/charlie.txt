@@ -4820,6 +4820,7 @@ chaunters
 carted
 clepes
 cartel
+chastiser
 cartelism
 cakemaker
 commonage
@@ -9294,7 +9295,6 @@ chastised
 clarissimo
 coxopodite
 cynosural
-chastiser
 chastisers
 cupulae
 caluptra
