@@ -2634,7 +2634,6 @@ electrotyping
 electrotitration
 etherean
 electrotonicity
-electrotropism
 excheat
 equiponderancy
 edgiest
@@ -9573,6 +9572,7 @@ escolar
 estuarian
 escolars
 escopet
+electrotropism
 exorcismal
 entrenchments
 escort
