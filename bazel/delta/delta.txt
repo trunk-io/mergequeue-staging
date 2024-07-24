@@ -1827,7 +1827,6 @@ debilitations
 dup
 deviations
 debilitative
-detonator
 dermapterous
 debility
 debind
@@ -4208,6 +4207,7 @@ delirifacient
 delirious
 deraignment
 deliriously
+detonator
 delirium
 deliriums
 delirous
