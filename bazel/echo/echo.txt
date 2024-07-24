@@ -3586,6 +3586,7 @@ embowelling
 embowelment
 endocarpoid
 embower
+encephalometer
 embowered
 embowering
 embowerment
@@ -4555,7 +4556,6 @@ encephalomalaxis
 eulogizers
 encephalomeningocele
 encephalomeric
-encephalometer
 endocardiac
 encephalomyelitic
 ethylamine
