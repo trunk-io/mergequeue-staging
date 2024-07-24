@@ -918,6 +918,7 @@ gametogenesis
 gametogeny
 gigge
 gametogonium
+gypsite
 geosynclines
 gametoid
 gonopodium
@@ -9083,7 +9084,6 @@ grins
 griot
 genoveva
 gobbles
-gypsite
 gripe
 genie
 gymnoblastea
