@@ -1556,7 +1556,6 @@ eggers
 eggfruit
 exterminatory
 egghead
-enseraph
 elytra
 eggheaded
 eggheadedness
@@ -9865,6 +9864,7 @@ essentialities
 essentialization
 embryogeny
 euphrosyne
+enseraph
 essentialized
 essentially
 essentialness
