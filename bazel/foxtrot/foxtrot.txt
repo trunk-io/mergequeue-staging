@@ -8650,6 +8650,7 @@ filate
 filter
 forthy
 forthink
+franz
 formicarium
 forthought
 forthputting
@@ -9426,7 +9427,6 @@ frantically
 fumelike
 freeloading
 flybook
-franz
 favourer
 franzy
 fumarine
