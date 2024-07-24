@@ -5042,7 +5042,6 @@ casein
 caseine
 caseinogen
 caseins
-casekeeper
 casel
 caseless
 countergauge
@@ -29314,6 +29313,7 @@ cryptoagnostic
 caldarium
 cryptoanalytic
 cryptoanalytically
+casekeeper
 cryptoanalytics
 cryptobatholithic
 chairmanning
