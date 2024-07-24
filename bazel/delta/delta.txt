@@ -15446,7 +15446,6 @@ desentimentalize
 domitic
 dryhouse
 domn
-domoid
 dompt
 dompteuse
 doms
@@ -17240,6 +17239,7 @@ drivers
 diparentum
 demonstratorship
 drivership
+domoid
 drives
 detacwable
 dredgings

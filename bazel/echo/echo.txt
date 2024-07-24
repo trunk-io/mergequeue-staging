@@ -7460,7 +7460,6 @@ euscaro
 ephemeran
 ephemeras
 editchar
-engluts
 ephemeric
 ephemerid
 enoint
@@ -11982,6 +11981,7 @@ excerebration
 excern
 excerp
 excerpta
+engluts
 excerpted
 ethal
 ectosarcous
