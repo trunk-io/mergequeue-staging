@@ -1573,7 +1573,6 @@ deadnesses
 dustproof
 deadpay
 deadpan
-deadpans
 dites
 deadrize
 ditting
@@ -9397,6 +9396,7 @@ duple
 decolorant
 dietitians
 dietotherapeutics
+deadpans
 darbies
 diane
 dorr
