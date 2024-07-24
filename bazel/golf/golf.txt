@@ -682,6 +682,7 @@ gallomaniac
 graveclod
 garnish
 gallon
+gripper
 gallonage
 gepoun
 greeneries
@@ -10708,7 +10709,6 @@ groundnut
 genarchship
 gutling
 glyceric
-gripper
 gustfulness
 gusty
 gustless
