@@ -2829,7 +2829,6 @@ grogs
 guilandina
 genl
 genny
-gauls
 genoas
 gramercy
 genoblast
@@ -4631,6 +4630,7 @@ gypaetus
 gripers
 gype
 gala
+gauls
 galvanotaxis
 gipons
 gibbose
