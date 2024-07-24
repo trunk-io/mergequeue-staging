@@ -429,7 +429,6 @@ gowdnie
 glottologies
 galeod
 galeodes
-galeodidae
 gareh
 gofferer
 galeorchis
@@ -636,6 +635,7 @@ gimmicks
 gypster
 ghorkhar
 grunions
+galeodidae
 galvanizer
 gallinule
 grateful
