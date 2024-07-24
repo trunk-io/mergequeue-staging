@@ -14418,6 +14418,7 @@ besort
 branchings
 boggy
 branchiogenous
+burets
 branchiomere
 branchiomeric
 branchiomerism
@@ -17562,7 +17563,6 @@ boltholes
 burelly
 buret
 barukhzy
-burets
 burette
 burettes
 burez
