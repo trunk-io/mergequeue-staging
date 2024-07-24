@@ -5159,7 +5159,6 @@ casque
 condylura
 casqued
 clanger
-casques
 casquet
 casquette
 cass
@@ -12095,6 +12094,7 @@ chorographer
 chorographical
 chorographically
 choroid
+casques
 compert
 choroidea
 choroidocyclitis
