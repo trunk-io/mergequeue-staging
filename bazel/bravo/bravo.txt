@@ -5941,7 +5941,6 @@ barricader
 buckstall
 blabber
 bemiring
-behave
 bemirror
 bemist
 barmen
@@ -17320,6 +17319,7 @@ bistred
 bund
 blepharosyndesmitis
 bleep
+behave
 bundahish
 bundestag
 burgomastership
