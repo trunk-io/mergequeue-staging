@@ -7616,7 +7616,6 @@ devastations
 devastative
 docimastic
 devastators
-devaster
 devata
 devaul
 devchar
@@ -10081,6 +10080,7 @@ dimorphous
 discovery
 dimorphs
 dimout
+devaster
 dimouts
 dimple
 dimplement
