@@ -5169,6 +5169,7 @@ farrow
 felsic
 forsworn
 flavors
+forequarters
 flavorsome
 formulators
 flacket
@@ -7845,7 +7846,6 @@ foreprovision
 forepurpose
 frontways
 forequarter
-forequarters
 fleet
 forerake
 foreran
