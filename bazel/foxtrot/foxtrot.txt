@@ -9792,7 +9792,6 @@ festival
 flatterable
 frenches
 frenchify
-flubbing
 flourless
 frenchness
 frenchwise
@@ -10100,6 +10099,7 @@ fumigants
 farine
 frillers
 ferngrower
+flubbing
 federalised
 fervence
 frilly
