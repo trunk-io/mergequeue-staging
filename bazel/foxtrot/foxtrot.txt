@@ -10475,7 +10475,6 @@ fulminuric
 foozle
 frostbitten
 flawful
-frostbound
 frosted
 flameflower
 flickers
@@ -11245,6 +11244,7 @@ forevouch
 funje
 frenchman
 freckling
+frostbound
 funk
 funked
 folding
