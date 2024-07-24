@@ -4655,6 +4655,7 @@ gypseian
 galban
 gipser
 gypsy
+glossata
 gipsydom
 gearboxes
 gutterlike
@@ -5900,7 +5901,6 @@ geums
 gifture
 glossas
 gloomily
-glossata
 glossator
 glucosone
 gadidae
