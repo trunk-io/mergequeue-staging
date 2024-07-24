@@ -10478,6 +10478,7 @@ chiefling
 chiefry
 chiefs
 chieftain
+citrate
 chieftaincy
 conure
 chieftaincies
@@ -11644,7 +11645,6 @@ choledochoduodenostomy
 choledocholithiasis
 counteropponent
 chera
-citrate
 choledocholithotripsy
 choledochoplasty
 choledochostomy

@@ -8836,7 +8836,6 @@ bioactivities
 bioassay
 bearbine
 bioassayed
-biglenoid
 bioassaying
 bioastronautical
 biobibliographer
@@ -12778,6 +12777,7 @@ bimbil
 bootleger
 bootlegged
 bootlegger
+biglenoid
 bootlegging
 bootless
 bootlessly
