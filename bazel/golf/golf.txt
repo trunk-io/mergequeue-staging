@@ -8795,7 +8795,6 @@ gonapod
 greycoat
 glottis
 gehenna
-gravity
 greyest
 glycocin
 glyoxilin
@@ -10531,6 +10530,7 @@ gunmaker
 gynopara
 gunmetals
 gunnage
+gravity
 glutathione
 gunnar
 gerbil
