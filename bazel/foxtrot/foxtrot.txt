@@ -2556,7 +2556,6 @@ figureheads
 furore
 forenotion
 fangled
-flashly
 ferrugineous
 ferruginous
 frontispiece
@@ -10461,6 +10460,7 @@ froom
 froppish
 fontlet
 fully
+flashly
 froren
 facebar
 flighting
