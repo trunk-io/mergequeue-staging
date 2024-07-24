@@ -10290,7 +10290,6 @@ calcareoargillaceous
 cobloaf
 contemplamen
 chewed
-curtate
 cheweler
 chewer
 chewers
@@ -16754,6 +16753,7 @@ closing
 closings
 closish
 closkey
+curtate
 clupeoid
 clostridia
 clostridial
