@@ -4609,7 +4609,6 @@ carpeting
 carpetlayer
 commodious
 carpetless
-carpetmaker
 carpetweed
 carpetwork
 carpetwoven
@@ -22795,6 +22794,7 @@ componentry
 conquians
 colyone
 conquinamine
+carpetmaker
 conquinine
 circlewise
 cachoeira
