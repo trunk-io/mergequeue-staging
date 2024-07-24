@@ -11640,7 +11640,6 @@ chera
 choledocholithotripsy
 choledochoplasty
 choledochostomy
-choledochostomies
 cristivomer
 choledochotomy
 choledochotomies
@@ -18712,6 +18711,7 @@ coyo
 coyol
 coyos
 coyote
+choledochostomies
 chamoix
 coyotero
 coyotillo
