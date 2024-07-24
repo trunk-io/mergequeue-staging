@@ -2553,6 +2553,7 @@ farls
 ferrotypes
 ferrotungsten
 ferrovanadium
+figureheads
 furore
 forenotion
 fangled
@@ -3437,7 +3438,6 @@ figuratively
 forby
 figuredly
 figureheadless
-figureheads
 figurer
 figuresome
 figury
