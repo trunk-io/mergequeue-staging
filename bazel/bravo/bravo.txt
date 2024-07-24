@@ -13317,7 +13317,6 @@ botte
 bibliopoly
 bepraisement
 botteghe
-bottekin
 botticelli
 bottier
 bottle
@@ -17208,6 +17207,7 @@ banausic
 bannerless
 bumbledom
 biorhythmic
+bottekin
 bumblekite
 bumblepuppy
 bothriums
