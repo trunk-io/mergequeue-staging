@@ -2087,7 +2087,6 @@ friszka
 forebear
 fellowred
 fellows
-fellowshiping
 fellowshipping
 fells
 finger
@@ -7897,6 +7896,7 @@ ferrotyping
 flirtational
 fructed
 foresees
+fellowshiping
 fistify
 foresend
 farmhand

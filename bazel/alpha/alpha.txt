@@ -8724,7 +8724,6 @@ albuminose
 australians
 allergist
 allergists
-allergology
 actinodielectric
 allethrin
 alleve
@@ -19194,6 +19193,7 @@ akha
 analogize
 arclike
 amahuaca
+allergology
 arco
 arcocentrum
 arcos
