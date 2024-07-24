@@ -3370,7 +3370,6 @@ embolies
 embedment
 embelic
 epiclidal
-eldritch
 embelin
 extendlessness
 embellisher
@@ -10592,6 +10591,7 @@ else
 edriasteroidea
 epilepsia
 etymologized
+eldritch
 enterpriser
 enfold
 equitableness

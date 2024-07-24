@@ -8923,7 +8923,6 @@ blendure
 biogenesist
 biogenetics
 bingo
-biogenic
 biogens
 biogeochemical
 biogeochemistry
@@ -14682,6 +14681,7 @@ brawler
 beveller
 bedown
 brawliest
+biogenic
 benzobis
 brawlys
 brawls
