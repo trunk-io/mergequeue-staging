@@ -5467,6 +5467,7 @@ gnathal
 glycines
 glycinin
 glycins
+glamourless
 glycyrrhiza
 gipsyry
 glycyrrhizin
@@ -9101,7 +9102,6 @@ goog
 gowned
 grievingly
 gamophagy
-glamourless
 gryposis
 grippe
 glandulous
