@@ -5741,6 +5741,7 @@ floatage
 forwalk
 filix
 floatages
+fallal
 floatboard
 forwarded
 firesides
@@ -6279,7 +6280,6 @@ fluidimeter
 frostbow
 fluidisation
 fluidised
-fallal
 fluidises
 fluidising
 furfurans
