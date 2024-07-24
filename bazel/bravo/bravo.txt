@@ -5100,7 +5100,6 @@ beforested
 braeside
 blemishes
 befoul
-befouled
 befouler
 befoulers
 befountained
@@ -11100,6 +11099,7 @@ blooping
 balachan
 blooth
 binomially
+befouled
 blosmy
 blossom
 bowingly
