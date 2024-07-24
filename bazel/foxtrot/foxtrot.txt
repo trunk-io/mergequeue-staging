@@ -4134,6 +4134,7 @@ firelit
 firelock
 fantaisie
 finishers
+formatting
 faciobrachial
 flyblow
 fortissimo
@@ -5048,7 +5049,6 @@ flatlings
 fluctuosity
 flammiferous
 flatlong
-formatting
 feigns
 friction
 flatmen
