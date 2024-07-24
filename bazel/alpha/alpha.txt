@@ -3740,7 +3740,6 @@ antiwedge
 adenolipomatosis
 adenologaditis
 adenology
-allalinite
 antagonists
 adenoma
 adenomas
@@ -14224,6 +14223,7 @@ antemask
 antemeridian
 antemetic
 antidyscratic
+allalinite
 antemingent
 asialia
 antemortal
