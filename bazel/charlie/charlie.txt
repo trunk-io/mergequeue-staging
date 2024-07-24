@@ -6073,6 +6073,7 @@ catpiece
 canonisation
 catrigged
 cats
+counterquartered
 catskin
 catskinner
 cuartino
@@ -27113,7 +27114,6 @@ chinaman
 capturer
 counterfleury
 counterpush
-counterquartered
 counterquery
 counterquestion
 counterquip
