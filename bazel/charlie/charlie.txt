@@ -12475,7 +12475,6 @@ chromatophilic
 chromatophilous
 chromatophore
 chromesthesia
-chromatophoric
 cyanohermidin
 cnidophobia
 chromatoplasm
@@ -19827,6 +19826,7 @@ comburivorous
 combust
 combusted
 counterdigged
+chromatophoric
 combustibility
 combustibilities
 combustible
