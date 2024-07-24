@@ -1667,7 +1667,6 @@ fractal
 fconvert
 farcin
 fcp
-fdtype
 fdubs
 fatherlands
 fumblers
@@ -6789,6 +6788,7 @@ foiling
 fauld
 foin
 fevery
+fdtype
 foined
 faugh
 foining
