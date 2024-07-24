@@ -3642,7 +3642,6 @@ carbineer
 carbineers
 carbines
 carbinyl
-carbinol
 corrugating
 countertail
 coroplasty
@@ -31149,6 +31148,7 @@ cuprein
 cupreine
 cuprene
 cupressineous
+carbinol
 corporalities
 cupressinoxylon
 cupressus
