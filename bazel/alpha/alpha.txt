@@ -3330,7 +3330,6 @@ alliterative
 ascents
 aerodromics
 acturience
-actus
 animates
 acuaesthesia
 acuate
@@ -17307,6 +17306,7 @@ ahypnia
 aponeuroses
 aponeurosis
 aponeurositis
+actus
 alliterations
 aponeurotome
 antivirus
