@@ -199,7 +199,6 @@ daedalean
 diamorphosis
 duckhouse
 daedalian
-daedalic
 dozen
 daedalous
 daedalus
@@ -3727,6 +3726,7 @@ dehydrogenising
 distater
 dehydrogenization
 disbench
+daedalic
 dehydrogenized
 dalar
 dehydrogenizer
