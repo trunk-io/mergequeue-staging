@@ -1713,7 +1713,6 @@ granophyric
 gastroduodenotomy
 gastroelytrotomy
 gastroenteric
-gastroenteritic
 graceless
 gastroenterocolitis
 gastroenterocolostomy
@@ -5485,6 +5484,7 @@ glycyrrhiza
 gipsyry
 glycyrrhizin
 groundman
+gastroenteritic
 garvey
 gouging
 geocoronium
