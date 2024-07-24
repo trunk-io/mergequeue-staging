@@ -11020,7 +11020,6 @@ chiromancy
 chiromancist
 chiromant
 chiromantic
-chiromantical
 chiromantis
 chiromegaly
 chirometer
@@ -20675,6 +20674,7 @@ compilator
 canadianism
 compilatory
 compileable
+chiromantical
 cacumination
 compiled
 cryptococci
