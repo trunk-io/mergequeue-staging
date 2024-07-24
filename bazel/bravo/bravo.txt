@@ -724,6 +724,7 @@ bacteriolysin
 boohooed
 bacteriolysis
 betaken
+branchiform
 bulllike
 bletherskate
 bacteriolytic
@@ -14405,7 +14406,6 @@ branchicolous
 branchier
 branchiest
 branchiferous
-branchiform
 branchihyal
 branchiness
 behedge
