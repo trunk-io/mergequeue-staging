@@ -2574,7 +2574,6 @@ ackeys
 ackman
 ackmen
 argentojarosite
-acknew
 apocodeine
 abattoir
 acknow
@@ -11682,6 +11681,7 @@ anaglyphy
 amazingly
 anaglyphical
 anaglyphics
+acknew
 anaglyphs
 anaglypta
 agnoiology
