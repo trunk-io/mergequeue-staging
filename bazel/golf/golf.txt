@@ -917,6 +917,7 @@ gametogenesis
 gametogeny
 gigge
 gametogonium
+geosynclines
 gametoid
 gonopodium
 gauster
@@ -3298,7 +3299,6 @@ gamobium
 gregal
 goa
 geosynclinal
-geosynclines
 goldanged
 guacharos
 ghostwrites
