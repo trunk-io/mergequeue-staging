@@ -10219,7 +10219,6 @@ blamefulness
 blameless
 blamelessly
 blamer
-blamers
 blames
 bombard
 blameworthy
@@ -17712,6 +17711,7 @@ burier
 buriers
 billeter
 buries
+blamers
 blurriest
 burin
 burk
