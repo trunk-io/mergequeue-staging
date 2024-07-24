@@ -1559,7 +1559,6 @@ gasless
 gaslight
 gaslighted
 glittersome
-geomorphology
 glaciaria
 gingerous
 gladdening
@@ -6462,6 +6461,7 @@ goban
 guzzling
 gnocchi
 gobang
+geomorphology
 gidyea
 girl
 gambone
