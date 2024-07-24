@@ -3423,7 +3423,6 @@ amitosis
 anticularia
 adalat
 adalid
-ardito
 argentous
 adam
 affixal
@@ -24482,6 +24481,7 @@ autotoxemia
 autotoxic
 autotoxication
 autotoxin
+ardito
 autotoxis
 autotractor
 autotransfusion
