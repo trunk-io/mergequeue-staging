@@ -874,7 +874,6 @@ ensky
 ectogenesis
 ectogenetic
 ectogenic
-erases
 ectoglia
 empedoclean
 ectognatha
@@ -11758,6 +11757,7 @@ exactor
 exactus
 exacuate
 exadverso
+erases
 exadversum
 exaestuate
 exaggerate
