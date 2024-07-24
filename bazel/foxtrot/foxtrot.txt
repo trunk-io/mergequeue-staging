@@ -5502,7 +5502,6 @@ fitchee
 fligger
 fullage
 fibrilations
-fendable
 fetology
 flight
 fanmaker
@@ -6855,6 +6854,7 @@ foleye
 feerie
 formulations
 flinty
+fendable
 firebugs
 ferruginated
 feoffment
