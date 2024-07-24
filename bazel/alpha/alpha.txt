@@ -14297,7 +14297,6 @@ antepenultima
 antepenultimate
 antepileptic
 antepyretic
-antepirrhema
 antepone
 anteporch
 anteportico
@@ -20317,6 +20316,7 @@ arrived
 arrivederla
 alluring
 arrivers
+antepirrhema
 abama
 ambergrease
 alectoromachy
