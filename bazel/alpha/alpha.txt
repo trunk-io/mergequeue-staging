@@ -8530,7 +8530,6 @@ asperugo
 aestuous
 alkekengi
 alkene
-alkenes
 alkenyl
 alkenna
 alkermes
@@ -20939,6 +20938,7 @@ ascarids
 ascaris
 anarchosyndicalist
 ascebc
+alkenes
 ascella
 ascelli
 ascence
