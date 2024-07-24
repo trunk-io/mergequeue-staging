@@ -457,7 +457,6 @@ galette
 grantsmanship
 goodlihead
 galeus
-galewort
 galga
 galgal
 galgulidae
@@ -10259,6 +10258,7 @@ gorsehatch
 guinean
 guineapig
 gup
+galewort
 guineas
 girondin
 gul
