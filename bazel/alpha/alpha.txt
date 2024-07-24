@@ -10484,6 +10484,7 @@ analogist
 amidrazone
 amidship
 amidships
+aligner
 amidstream
 aloneness
 accoy
@@ -22204,7 +22205,6 @@ antitypically
 astracism
 acromyodi
 astraea
-aligner
 alw
 astraeid
 astraeiform
