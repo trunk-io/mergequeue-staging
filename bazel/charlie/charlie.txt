@@ -2762,7 +2762,6 @@ cantaloupe
 cantaloupes
 cantando
 cantankerous
-cantankerously
 cantankerousness
 cantar
 cantara
@@ -17344,6 +17343,7 @@ coarctation
 cartooning
 coarcted
 coarcting
+cantankerously
 coardent
 cochlospermum
 coarrangement
