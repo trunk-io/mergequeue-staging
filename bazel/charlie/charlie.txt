@@ -7422,6 +7422,7 @@ cephalothecal
 cephalothoraces
 cephalothoracic
 cephalothoracopagus
+cardisophistical
 cephalothorax
 cephalothoraxes
 cephalotomy
@@ -15466,7 +15467,6 @@ clannishness
 clans
 cyclones
 condiments
-cardisophistical
 cursoria
 clanship
 cachemic
