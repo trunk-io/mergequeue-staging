@@ -2435,6 +2435,7 @@ electrolysed
 electrolyses
 electrolysing
 electrolyte
+epipsychidion
 electrolithotrity
 electrolytic
 electrolytical
@@ -12318,7 +12319,6 @@ extendibility
 exedent
 ecyphellate
 exedral
-epipsychidion
 ephererist
 ellice
 everliving
