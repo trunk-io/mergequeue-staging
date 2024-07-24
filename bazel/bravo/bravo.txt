@@ -8595,6 +8595,7 @@ bosun
 bedoctor
 basidiomycetes
 besague
+boletaceae
 billot
 billow
 bromizing
@@ -12067,7 +12068,6 @@ bolelia
 boilinglike
 bolelike
 bolero
-boletaceae
 batell
 bolete
 blepharitic
