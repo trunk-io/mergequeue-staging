@@ -3128,7 +3128,6 @@ bephilter
 bascinet
 basculation
 bascules
-base
 baseball
 boniform
 baggyrinkle
@@ -3670,6 +3669,7 @@ batrachidae
 bayard
 batrachite
 birostrated
+base
 batrachium
 barotropic
 batrachoididae
