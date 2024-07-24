@@ -17395,6 +17395,7 @@ dropline
 dropling
 dropmeal
 duotones
+duomos
 dewormed
 dropout
 dwining
@@ -18332,7 +18333,6 @@ duologs
 duologue
 duomachy
 duomi
-duomos
 duopod
 doyst
 duopoly
