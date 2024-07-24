@@ -16289,6 +16289,7 @@ dowitchers
 dowl
 decussatively
 dreamlit
+dtset
 dowlas
 dowless
 diphthongic
@@ -17686,7 +17687,6 @@ dsr
 dsri
 dt
 dtente
-dtset
 duadic
 duala
 diandria
