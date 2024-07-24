@@ -7328,7 +7328,6 @@ deterrers
 detest
 detestability
 detestableness
-dasein
 detestation
 detested
 dragonne
@@ -12712,6 +12711,7 @@ dislocatedly
 donuts
 dislocatedness
 dyer
+dasein
 dislocating
 drubly
 dislocation
