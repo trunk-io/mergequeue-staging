@@ -6419,7 +6419,6 @@ bellipotent
 benzothiazoline
 bien
 benzothiofuran
-benzothiophene
 balances
 beroll
 bukidnon
@@ -8598,6 +8597,7 @@ billowiness
 babasco
 billows
 basted
+benzothiophene
 billposter
 bills
 bureaucracies
