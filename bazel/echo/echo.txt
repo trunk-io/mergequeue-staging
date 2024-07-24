@@ -274,6 +274,7 @@ eddoes
 ectodermic
 easterliness
 easterling
+eigenvalue
 eastwards
 eastermost
 eastern
@@ -1857,7 +1858,6 @@ englishing
 eyewitness
 eyewitnesses
 exponentiate
-eigenvalue
 eightballs
 ethrogim
 eighteen
