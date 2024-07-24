@@ -7816,7 +7816,6 @@ certifier
 certifiers
 certifies
 certifying
-counterfeiters
 certiorate
 certiorating
 certis
@@ -27074,6 +27073,7 @@ counterpole
 counterpoles
 counterponderate
 counterpose
+counterfeiters
 counterposition
 counterposting
 coutille

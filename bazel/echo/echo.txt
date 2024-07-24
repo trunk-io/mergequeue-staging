@@ -2870,7 +2870,6 @@ elicitable
 eurodollars
 elicited
 eliciting
-endosepsis
 elaeagnaceae
 elicitor
 elicitors
@@ -8597,6 +8596,7 @@ equatorial
 equatorwards
 entreated
 equerries
+endosepsis
 escapers
 equestrial
 epacme
