@@ -9155,6 +9155,7 @@ fibrocartilaginous
 futtermassel
 footed
 fr
+fleyedness
 fra
 flche
 follow
@@ -10516,7 +10517,6 @@ frostwort
 fulvous
 froth
 frothed
-fleyedness
 frothi
 filariidae
 frothier
