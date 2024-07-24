@@ -4484,7 +4484,6 @@ adsorption
 adsorptive
 adsorptively
 artificialize
-antiradiating
 aedilian
 adspiration
 adstipulate
@@ -23628,6 +23627,7 @@ auripigment
 auripuncture
 auriscalp
 auriscalpia
+antiradiating
 auriscalpium
 auriscopy
 auriscopic
