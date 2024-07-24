@@ -7187,7 +7187,6 @@ bestraddle
 bestraddled
 bewelter
 bestraddling
-brigatry
 bezesteen
 bestraw
 bestream
@@ -17248,6 +17247,7 @@ bummle
 biomedicine
 bummler
 bummock
+brigatry
 bump
 bumped
 bumpered
