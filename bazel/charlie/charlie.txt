@@ -4929,6 +4929,7 @@ capes
 carus
 chapapote
 clupanodonic
+colours
 carvacryl
 catchfly
 competer
@@ -19542,7 +19543,6 @@ crookback
 chromonema
 cushewbird
 colourman
-colours
 colourtype
 colove
 colp
