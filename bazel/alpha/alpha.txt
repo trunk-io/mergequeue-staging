@@ -5082,7 +5082,6 @@ aeromaechanic
 aeromancer
 aeromancy
 aeromarine
-agitprops
 aeromechanic
 aeromechanical
 aeromechanics
@@ -7788,6 +7787,7 @@ aldehydrol
 ameliorator
 antiodontalgic
 aldehol
+agitprops
 alden
 alder
 autoluminescent
