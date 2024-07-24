@@ -5974,7 +5974,6 @@ bemourn
 bemouth
 bootjacks
 bemuck
-bemuddle
 bemuddled
 bemuddles
 bemuddling
@@ -8218,6 +8217,7 @@ bifollicular
 biforate
 biforin
 biforine
+bemuddle
 biforked
 birdnester
 biforking
