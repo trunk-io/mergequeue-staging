@@ -1866,7 +1866,6 @@ chamise
 cameralistics
 cameraman
 cephalorachidian
-compound
 cumhal
 camerata
 camerate
@@ -14429,6 +14428,7 @@ circumsession
 circumsinous
 circumsolar
 corporator
+compound
 circumspangle
 circumspatial
 circumspect
