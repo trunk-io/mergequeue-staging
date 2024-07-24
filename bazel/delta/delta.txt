@@ -3702,7 +3702,6 @@ dehydrators
 demorphism
 dehydroascorbic
 demonstrating
-dehydrochlorinase
 dehydrochlorinate
 dehydrochlorination
 dehydrocorydaline
@@ -6784,6 +6783,7 @@ desireless
 desirelessness
 displease
 desirers
+dehydrochlorinase
 desiring
 diocoel
 dihedrons
