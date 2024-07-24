@@ -7024,7 +7024,6 @@ airscapes
 anagrams
 augurer
 airscrews
-airshed
 airsheds
 airsick
 airsickness
@@ -12456,6 +12455,7 @@ androgynic
 androgynies
 androginous
 allotropy
+airshed
 adaptively
 amphicreatinine
 akinetic
