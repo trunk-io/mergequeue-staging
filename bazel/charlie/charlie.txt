@@ -5953,7 +5953,6 @@ cathetometer
 cathetometric
 cathetus
 cathexes
-cathexion
 ceptor
 cathin
 cathisma
@@ -19023,6 +19022,7 @@ colleaguing
 comedically
 collectables
 cubica
+cathexion
 collectanea
 collectarium
 correctives
