@@ -13218,7 +13218,6 @@ endothelioid
 explicatively
 explicator
 explicatory
-explicit
 encoders
 explicitness
 epilemma
@@ -14168,6 +14167,7 @@ exultet
 edginess
 editorialization
 exultingly
+explicit
 eskars
 exults
 exumbral
