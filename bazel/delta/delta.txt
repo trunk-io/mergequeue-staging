@@ -6737,7 +6737,6 @@ designable
 designado
 decennaries
 designate
-designates
 drouks
 designating
 designator
@@ -9951,6 +9950,7 @@ duodecahedron
 dimensionality
 dimensionally
 desecate
+designates
 dimensions
 dimensum
 dissimulator
