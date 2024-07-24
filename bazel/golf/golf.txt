@@ -2672,7 +2672,6 @@ generator
 generators
 generatrices
 glosser
-generic
 grad
 generically
 globosphaerite
@@ -4303,6 +4302,7 @@ geonyctinastic
 grimaced
 gymnastic
 gymnastically
+generic
 gumdrops
 gryllid
 grottolike
