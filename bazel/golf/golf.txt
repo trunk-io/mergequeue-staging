@@ -4079,7 +4079,6 @@ gemmiform
 gunnies
 gigantomachy
 gigantosaurus
-graticule
 guaranteer
 gigasecond
 gigaton
@@ -10589,6 +10588,7 @@ gunster
 gemologies
 glaciate
 guaycuruan
+graticule
 gunstick
 ghostliest
 gunstock
