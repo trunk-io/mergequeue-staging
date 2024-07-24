@@ -16772,7 +16772,6 @@ clothe
 clothed
 clothes
 clothesbag
-chaldean
 clothesbasket
 clothesbrush
 clotheshorses
@@ -17618,6 +17617,7 @@ circumflexion
 coccids
 cocciferous
 citrin
+chaldean
 countervairy
 cocciform
 coccygeal
