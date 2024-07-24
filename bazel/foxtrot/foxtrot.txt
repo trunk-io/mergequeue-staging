@@ -471,7 +471,6 @@ fusain
 faking
 fakir
 fluidic
-falafel
 falange
 falasha
 fatlings
@@ -2303,6 +2302,7 @@ freaks
 feodality
 foolify
 forehearth
+falafel
 feodaries
 feodatory
 forsakenness
