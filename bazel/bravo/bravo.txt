@@ -7576,7 +7576,6 @@ bewrayed
 bewrayers
 bewraying
 bewrayingly
-bewrays
 bewrapped
 bewrapping
 briggsian
@@ -13426,6 +13425,7 @@ boughed
 boughy
 burgware
 boughpot
+bewrays
 boughpots
 boughs
 bought
