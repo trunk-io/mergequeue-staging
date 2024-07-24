@@ -1120,6 +1120,7 @@ farrel
 farriery
 fucate
 farrieries
+fusels
 forereport
 farrisite
 farrowing
@@ -7291,7 +7292,6 @@ foramen
 filtrable
 foramens
 foramina
-fusels
 ferrivorous
 foraminal
 filago
