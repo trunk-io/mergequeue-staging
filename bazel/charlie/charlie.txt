@@ -6638,7 +6638,6 @@ ceinture
 ceintures
 ceyssatite
 ceja
-celadon
 copters
 celadons
 celaeno
@@ -23052,6 +23051,7 @@ consistent
 consistible
 consisting
 consistory
+celadon
 couloir
 consistorial
 camellus
