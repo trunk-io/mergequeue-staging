@@ -8714,7 +8714,6 @@ egotheism
 existents
 ethrogs
 equip
-equipaga
 equipage
 encroached
 equipartisan
@@ -9267,6 +9266,7 @@ encumbers
 electroresection
 encomiumia
 erotema
+equipaga
 earphones
 escaloped
 eroteme
