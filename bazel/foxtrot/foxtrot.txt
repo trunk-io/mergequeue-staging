@@ -2902,7 +2902,6 @@ fewnesses
 followings
 fewter
 fewterer
-fewtrils
 fezes
 fanterie
 fezzan
@@ -7357,6 +7356,7 @@ foolishness
 flusterated
 forbidding
 forbysen
+fewtrils
 flammulated
 forbit
 flimflams
