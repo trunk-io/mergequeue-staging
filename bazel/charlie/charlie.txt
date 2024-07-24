@@ -2845,7 +2845,6 @@ cruets
 cantilena
 cantilene
 cantilenes
-cantilever
 cantilevered
 cantilevering
 combfish
@@ -6795,6 +6794,7 @@ celliform
 cellipetal
 cellist
 cellists
+cantilever
 continua
 cello
 cace
