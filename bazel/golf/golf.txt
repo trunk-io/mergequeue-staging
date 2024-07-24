@@ -3589,7 +3589,6 @@ geminorum
 guilds
 grundyism
 gaullism
-gesan
 gyre
 geshurites
 gonophs
@@ -5640,6 +5639,7 @@ gauche
 gybe
 grapeless
 gebur
+gesan
 generosity
 glisten
 groundedness
