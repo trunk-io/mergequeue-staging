@@ -20043,6 +20043,7 @@ armoured
 armourer
 armourers
 antimissioner
+assais
 armoury
 armouries
 armouring
@@ -21592,7 +21593,6 @@ assailers
 assailing
 alpiste
 appliances
-assais
 assays
 assalto
 anchovies
