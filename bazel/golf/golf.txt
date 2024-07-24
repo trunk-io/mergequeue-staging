@@ -5002,7 +5002,6 @@ ghostlier
 givingness
 gizz
 glossanthrax
-gizzard
 gloeocapsoid
 gizzened
 galantuomo
@@ -8068,6 +8067,7 @@ govt
 granomerite
 geometries
 granose
+gizzard
 grantable
 granted
 galler
