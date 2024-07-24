@@ -3071,7 +3071,6 @@ defacer
 defaces
 defacingly
 diabolify
-digressiveness
 deliriate
 defade
 defaecate
@@ -5326,6 +5325,7 @@ damoclean
 dropperful
 dentalia
 dentalised
+digressiveness
 dentalising
 dentalism
 dimpled
