@@ -17807,7 +17807,6 @@ cocuswood
 centrifugalized
 cod
 coda
-codable
 codal
 codamin
 countercourant
@@ -28988,6 +28987,7 @@ cribrate
 cribrately
 cribriform
 changable
+codable
 cribriformity
 cribrosity
 chevrony
