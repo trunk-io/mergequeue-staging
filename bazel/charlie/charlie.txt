@@ -5241,6 +5241,7 @@ castalia
 castalides
 castalio
 creditless
+condensability
 castana
 cursedness
 castanea
@@ -21664,7 +21665,6 @@ coms
 condemnor
 connaisseur
 colleries
-condensability
 cantab
 condensable
 condensance
