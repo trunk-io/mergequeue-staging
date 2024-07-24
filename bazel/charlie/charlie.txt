@@ -11169,7 +11169,6 @@ chytridiales
 chytridiose
 chytridiosis
 chytridium
-cirsocele
 chytroi
 chittack
 chittak
@@ -27881,6 +27880,7 @@ cystopus
 crabbers
 chaetangium
 carnivaler
+cirsocele
 crabby
 chortlers
 crabbier
