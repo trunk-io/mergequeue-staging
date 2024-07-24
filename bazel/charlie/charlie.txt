@@ -3942,7 +3942,6 @@ cardialgia
 calla
 cardialgic
 cilioretinal
-cardiameter
 cardiamorphia
 cobaea
 cogway
@@ -12543,6 +12542,7 @@ chromitite
 chromium
 chromiums
 cristobalite
+cardiameter
 chromize
 chromized
 chromizes
