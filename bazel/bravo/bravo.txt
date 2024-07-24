@@ -1797,7 +1797,6 @@ balsamorrhiza
 bourgs
 balsamous
 balsamroot
-balsams
 balsamum
 brachydactyl
 balsamweed
@@ -10440,6 +10439,7 @@ blastulation
 blastule
 blat
 blatancy
+balsams
 blatancies
 blatant
 blatantly
