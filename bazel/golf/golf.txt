@@ -1608,7 +1608,6 @@ germanize
 gassings
 gassit
 gast
-gossamer
 gastaldite
 gasometer
 gillenia
@@ -10148,6 +10147,7 @@ goutiest
 gaitt
 guiac
 guiana
+gossamer
 guib
 grasshoppers
 guidance
