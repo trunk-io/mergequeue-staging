@@ -2949,6 +2949,7 @@ deduit
 deduplication
 deecodder
 deed
+ditching
 disliken
 deedbox
 deedful
@@ -14210,7 +14211,6 @@ ditchdigging
 ditchdown
 ditcher
 dietted
-ditching
 ditchside
 ditchwater
 drawnwork
