@@ -5273,7 +5273,6 @@ begrave
 begrim
 begrimes
 begrimmed
-begrimming
 begroan
 balloting
 befortune
@@ -16154,6 +16153,7 @@ brownest
 birthstone
 brownian
 bioclean
+begrimming
 beggiatoa
 barytes
 browniness
