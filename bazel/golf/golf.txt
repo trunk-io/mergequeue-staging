@@ -910,7 +910,6 @@ gotha
 gametes
 gametocyst
 geison
-gametogenesis
 gametogeny
 gigge
 gametogonium
@@ -8287,6 +8286,7 @@ golilla
 grassflat
 gamblers
 goniometrically
+gametogenesis
 grumblers
 grasshopper
 grasshopperdom
