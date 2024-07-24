@@ -7321,7 +7321,6 @@ alamire
 aphotaxis
 alamo
 alamodality
-alamode
 assaugement
 auslaut
 alamodes
@@ -13510,6 +13509,7 @@ archeion
 anlases
 anlaut
 anlaute
+alamode
 anlet
 anlia
 anna

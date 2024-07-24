@@ -8546,7 +8546,6 @@ billheads
 billhook
 baptisteries
 bimillenial
-boulevardiers
 becolor
 billiard
 billiardist
@@ -11569,6 +11568,7 @@ banstickle
 bodybuilder
 boatmaster
 boatmen
+boulevardiers
 boatowner
 boats
 boatsetter
