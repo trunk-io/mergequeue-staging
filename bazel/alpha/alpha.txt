@@ -14862,7 +14862,6 @@ antibromic
 airlifted
 antibubonic
 antiburgher
-antibusing
 antic
 althaeas
 apeek
@@ -24059,6 +24058,7 @@ antisplitting
 autodrainage
 autodrome
 autoecholalia
+antibusing
 autoecy
 autoecic
 aggregata
