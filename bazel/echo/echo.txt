@@ -9334,7 +9334,6 @@ eccentring
 estral
 erratuta
 erred
-eyepieces
 errhine
 elapses
 errhines
@@ -10390,6 +10389,7 @@ entincture
 enumerated
 erpetoichthys
 evadible
+eyepieces
 ethionine
 ethions
 ergal
