@@ -4885,6 +4885,7 @@ flanconnade
 flandowser
 flane
 fathoms
+formates
 flaneries
 flanes
 flaneurs
@@ -8361,7 +8362,6 @@ formants
 format
 firedogs
 foresey
-formates
 formations
 formativeness
 flingdust
