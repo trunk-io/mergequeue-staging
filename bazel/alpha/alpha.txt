@@ -18893,6 +18893,7 @@ archgomeral
 ausform
 archgovernor
 alphamerically
+array
 archgunner
 archhead
 archheart
@@ -21354,7 +21355,6 @@ asok
 averseness
 asoka
 asomatophyte
-array
 asomatous
 agrised
 acutely
