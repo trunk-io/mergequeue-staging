@@ -4388,7 +4388,6 @@ demands
 demantoid
 demarcate
 demarcates
-disposers
 demarcating
 dormancy
 demarcation
@@ -15035,6 +15034,7 @@ doggishly
 doggishness
 doggle
 doggo
+disposers
 doggonedest
 doggoner
 doggones
