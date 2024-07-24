@@ -4176,7 +4176,6 @@ enteromere
 ecclesiologically
 employe
 extracolumella
-employee
 euglenida
 employer
 employers
@@ -12234,6 +12233,7 @@ excusator
 excusatory
 excuse
 excused
+employee
 excuser
 exaltative
 excusing
