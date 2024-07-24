@@ -7391,7 +7391,6 @@ greyness
 gramma
 gallinula
 guttable
-gaum
 gelilah
 gonia
 gotraja
@@ -10818,6 +10817,7 @@ gutwise
 gangplank
 gutwort
 guv
+gaum
 guvacine
 grapnels
 guvacoline
