@@ -4853,6 +4853,7 @@ flameouts
 fackeltanz
 flameproof
 formolite
+funned
 finaglers
 flameproofer
 flames
@@ -11263,7 +11264,6 @@ fabledom
 forbid
 funmaker
 funmaking
-funned
 frameableness
 flambeing
 forefield
