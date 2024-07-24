@@ -5381,7 +5381,6 @@ dentex
 denty
 dentical
 denticate
-daitya
 deifiers
 donnees
 doornail
@@ -14741,6 +14740,7 @@ docket
 docketed
 dockhand
 dockhands
+daitya
 dockhouse
 dockyards
 docking
