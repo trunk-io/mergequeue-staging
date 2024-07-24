@@ -2386,7 +2386,6 @@ greaves
 gablewindowed
 gelations
 gestureless
-geldable
 geldant
 gambit
 galvanographic
@@ -3740,6 +3739,7 @@ guardianly
 gnawingly
 gettering
 gettings
+geldable
 getup
 gaffsail
 geullah
