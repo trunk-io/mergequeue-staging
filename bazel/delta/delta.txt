@@ -16644,6 +16644,7 @@ denotations
 dragonesque
 dragoness
 dragonet
+dactylopius
 drawling
 dragonfishes
 dragonfly
@@ -18137,7 +18138,6 @@ dumosity
 dump
 dumpage
 doorkeeper
-dactylopius
 dumpcart
 dumpcarts
 dumped
