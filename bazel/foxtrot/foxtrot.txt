@@ -847,6 +847,7 @@ fano
 fanon
 fanons
 fluxgraph
+foretellers
 fanos
 fenlander
 findability
@@ -8060,7 +8061,6 @@ foreteach
 fogfruits
 fissilingual
 fathogram
-foretellers
 foretelling
 foretells
 fineish
