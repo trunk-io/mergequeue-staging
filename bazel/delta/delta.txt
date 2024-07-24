@@ -5071,6 +5071,7 @@ dryops
 denaturiser
 denaturising
 denaturized
+disabled
 denaturizer
 denaturizing
 denazification
@@ -10970,7 +10971,6 @@ dys
 disability
 disabilities
 disable
-disabled
 disableness
 dyarchic
 demonstrativeness
