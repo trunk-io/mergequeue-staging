@@ -5495,7 +5495,6 @@ energizer
 emergents
 estall
 embroilment
-exploitation
 ecphorias
 energizers
 energizes
@@ -14017,6 +14016,7 @@ enterointestinal
 extravasate
 extravasated
 edition
+exploitation
 extrapelvic
 exostotic
 elasmosaur
