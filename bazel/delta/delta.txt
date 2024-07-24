@@ -3519,6 +3519,7 @@ deftnesses
 defunct
 drillbit
 defunctionalization
+dissect
 dialled
 defuse
 defuses
@@ -12953,7 +12954,6 @@ disowning
 disowns
 disoxidate
 dysoxidation
-dissect
 dysoxidizable
 disoxygenate
 discourt
