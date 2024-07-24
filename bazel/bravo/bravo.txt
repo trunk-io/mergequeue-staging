@@ -4261,6 +4261,7 @@ bipedal
 beaverize
 bangle
 beaverlike
+billowiness
 beaverpelt
 backplanes
 beaverroot
@@ -8594,7 +8595,6 @@ blindling
 bemusing
 billowiest
 bespreads
-billowiness
 babasco
 billows
 basted

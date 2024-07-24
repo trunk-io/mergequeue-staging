@@ -2391,7 +2391,6 @@ decimole
 decimosexto
 disquietedness
 decine
-decyne
 decinormal
 decipher
 decipherability
@@ -9617,6 +9616,7 @@ digits
 digitule
 digitus
 digladiated
+decyne
 digladiating
 digladiator
 diglossia
