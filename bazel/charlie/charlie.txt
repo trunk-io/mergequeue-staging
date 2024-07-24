@@ -11896,7 +11896,6 @@ choose
 chary
 chooseable
 choosey
-chooser
 chamises
 celiosalpingectomy
 chooses
@@ -27584,6 +27583,7 @@ coverside
 coversine
 coverslip
 covertical
+chooser
 covertly
 covertness
 coverts
