@@ -7140,7 +7140,6 @@ centipede
 centipedes
 cootie
 centiplume
-centistere
 centistoke
 centner
 centners
@@ -9678,6 +9677,7 @@ curettes
 cutty
 cheep
 cheeped
+centistere
 cheeper
 cheepers
 cheepy
