@@ -5334,7 +5334,6 @@ epigean
 endosteal
 estrangement
 emended
-endosteitis
 expatriations
 endosteomas
 endosteum
@@ -10057,6 +10056,7 @@ estrada
 estradas
 endotheliulia
 ester
+endosteitis
 estrade
 estradiol
 expositions
