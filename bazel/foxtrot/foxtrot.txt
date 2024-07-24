@@ -7546,7 +7546,6 @@ ferbams
 forecount
 feathery
 forecourts
-forecover
 fouling
 fers
 formation
@@ -7731,6 +7730,7 @@ foreknowingly
 fadges
 foreknowledge
 foreknown
+forecover
 foreknows
 festoons
 forelady
