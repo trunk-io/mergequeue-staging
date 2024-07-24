@@ -4078,7 +4078,6 @@ adjust
 adjustability
 adjustably
 accommodatingness
-antireflexive
 abdal
 adjusted
 adjustive
@@ -19724,6 +19723,7 @@ arilliform
 arillode
 arillodes
 autometamorphosis
+antireflexive
 auric
 arils
 ateuchi
