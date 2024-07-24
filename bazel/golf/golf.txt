@@ -3762,7 +3762,6 @@ glosses
 ghafir
 ghan
 gibbously
-ghanaian
 gastronomy
 gigas
 gharris
@@ -10067,6 +10066,7 @@ gittite
 gueridon
 gomlah
 gueridons
+ghanaian
 gerrhosauridae
 guerillas
 guerite
