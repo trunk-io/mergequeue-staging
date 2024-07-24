@@ -3112,7 +3112,6 @@ barwares
 barwin
 barwise
 barwood
-bas
 basad
 basale
 bewares
@@ -17968,6 +17967,7 @@ bushidos
 bushie
 bringed
 bushier
+bas
 blowup
 bacterioscopy
 bleb
