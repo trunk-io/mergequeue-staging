@@ -4170,7 +4170,6 @@ beatitudes
 beatles
 booksy
 burgle
-backlit
 beatnik
 beatrix
 broom
@@ -10823,6 +10822,7 @@ biddelian
 burnooses
 blindstorey
 busher
+backlit
 bobotie
 bubblingly
 basilicae
