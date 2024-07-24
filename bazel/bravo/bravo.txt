@@ -12199,7 +12199,6 @@ boltless
 boltlike
 boltmaker
 barandos
-boltonite
 boltropes
 boltsmith
 boltstrake
@@ -16937,6 +16936,7 @@ bulbospinal
 bulbotuber
 brahmanist
 budlike
+boltonite
 bulbourethral
 bulbously
 bulbs
