@@ -9417,7 +9417,6 @@ chaunter
 chauri
 cpi
 chausse
-chaussee
 chausseemeile
 chaussees
 chaussure
@@ -13767,6 +13766,7 @@ christabel
 cymose
 cristi
 confusional
+chaussee
 cymosely
 cymotrichy
 cymotrichous
