@@ -10297,7 +10297,6 @@ emboweled
 etherion
 etherish
 etherism
-etherization
 euphuisms
 etherize
 etherized
@@ -12532,6 +12531,7 @@ ethnogeographer
 episcopable
 exhumator
 exhumatory
+etherization
 epimerise
 exhumed
 epithelilia
