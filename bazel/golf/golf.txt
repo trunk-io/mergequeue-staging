@@ -4841,7 +4841,6 @@ gaskings
 gossypols
 gisant
 goodheartedness
-gonostyle
 golliwogg
 gyrodactylidae
 gyrodactylus
@@ -7351,6 +7350,7 @@ gravicembalo
 gatehouses
 gossipy
 gossypine
+gonostyle
 gossipiness
 gelfomino
 grama
