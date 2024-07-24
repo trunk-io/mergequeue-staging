@@ -6464,6 +6464,7 @@ guzzling
 gnocchi
 gobang
 geomorphology
+girthline
 gidyea
 girl
 gambone
@@ -7230,7 +7231,6 @@ gorglin
 gorgon
 geoduck
 gorgonaceous
-girthline
 gowdie
 gremio
 gorgoneia
