@@ -3316,7 +3316,6 @@ caponiser
 caps
 capsa
 capsaicin
-capsella
 chivarras
 catnapper
 capsian
@@ -28776,6 +28775,7 @@ cuboids
 crepeiest
 crepes
 cheeks
+capsella
 complimentalness
 coincides
 crepidoma
