@@ -6512,7 +6512,6 @@ careys
 carbonados
 cebell
 cebid
-cebidae
 chlorophyllan
 cebil
 cebine
@@ -8396,6 +8395,7 @@ chalinidae
 chalinine
 chalinitis
 chalk
+cebidae
 cardioid
 chinchona
 chalkboard
