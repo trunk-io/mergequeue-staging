@@ -4128,6 +4128,7 @@ beastlings
 beastman
 beckelite
 bruiters
+begats
 beata
 beatable
 beatably
@@ -5156,7 +5157,6 @@ begarnish
 begash
 begass
 begat
-begats
 begruntle
 begattal
 begaud
