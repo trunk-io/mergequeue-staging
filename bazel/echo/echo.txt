@@ -5745,6 +5745,7 @@ englobe
 englobement
 englobing
 evolutional
+extended
 engloom
 englory
 englue
@@ -13565,7 +13566,6 @@ extendability
 eosaurus
 erethitic
 extendable
-extended
 epidermic
 extenders
 epicleidian
