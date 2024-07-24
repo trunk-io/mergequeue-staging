@@ -984,6 +984,7 @@ genthite
 goosey
 gammons
 gypsuming
+golly
 gawain
 gratters
 gamin
@@ -6739,7 +6740,6 @@ golland
 gollar
 goller
 gessamine
-golly
 golliwog
 gobbets
 gollop
