@@ -8569,6 +8569,7 @@ farmout
 forsaking
 forsar
 fardh
+frequence
 forsee
 forseeable
 forseek
@@ -11063,7 +11064,6 @@ focimetry
 funambulant
 funambulate
 ferninst
-frequence
 floozy
 funambulation
 funambule
