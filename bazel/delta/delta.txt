@@ -292,6 +292,7 @@ dagobas
 dagomba
 dagos
 disimpark
+decapitalize
 dagswain
 daguerreotype
 daguerreotyper
@@ -670,7 +671,6 @@ damone
 damonico
 damosel
 damosels
-decapitalize
 damp
 dampcourse
 dampen
