@@ -2471,7 +2471,6 @@ electromassage
 electromechanical
 electromechanically
 electromer
-equivalenced
 empanada
 electromerism
 electrometer
@@ -11038,6 +11037,7 @@ euphotic
 ecological
 euphotide
 eudaemonic
+equivalenced
 euphrasia
 eluvium
 euphrasies
