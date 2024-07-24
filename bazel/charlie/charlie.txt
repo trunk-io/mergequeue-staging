@@ -9849,7 +9849,6 @@ chelydroid
 chelifer
 cheliferous
 couteau
-cheliform
 chelinga
 chelingas
 chelingo
@@ -17766,6 +17765,7 @@ coconuco
 cryptesthesia
 coconut
 cocoon
+cheliform
 crassulaceous
 canaled
 cocooneries
