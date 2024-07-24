@@ -3383,7 +3383,6 @@ captans
 captation
 caption
 captioned
-captioning
 captionless
 cornutus
 captious
@@ -15095,6 +15094,7 @@ citronwood
 citropsis
 citropten
 citrous
+captioning
 catawba
 citrullin
 citrulline
