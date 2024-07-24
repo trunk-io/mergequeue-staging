@@ -7782,7 +7782,6 @@ aldebaran
 aldebaranium
 aldehydase
 aldehydes
-anchorage
 aldehydine
 aldehydrol
 ameliorator
@@ -24543,6 +24542,7 @@ auxiliator
 auxilium
 addictive
 auxillary
+anchorage
 auximone
 auxinically
 auxoaction
