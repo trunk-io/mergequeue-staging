@@ -7303,7 +7303,6 @@ centupling
 chamicuro
 centure
 century
-centuria
 centurial
 counterseal
 counterdistinguish
@@ -19473,6 +19472,7 @@ colorimetric
 colorimetrical
 colorimetrically
 colorimetrics
+centuria
 colorimetrist
 coloring
 colorism
