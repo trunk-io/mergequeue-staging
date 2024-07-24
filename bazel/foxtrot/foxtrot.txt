@@ -2999,6 +2999,7 @@ forcement
 fulgour
 fullest
 fires
+feoffed
 fibrinoplastin
 fibrinosis
 fanlight
@@ -9108,7 +9109,6 @@ foregoing
 foisting
 foxglove
 foxgloves
-feoffed
 foxhole
 foxhound
 filigrane
