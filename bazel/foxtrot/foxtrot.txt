@@ -1450,6 +1450,7 @@ foreset
 fatter
 fatty
 fattiness
+foraging
 ferromagnetism
 fatting
 fattishness
@@ -11133,7 +11134,6 @@ fundi
 fundic
 fictionmonger
 fundiform
-foraging
 funding
 funditor
 funditores
