@@ -4228,6 +4228,7 @@ deliverance
 delivered
 dressmaker
 deliverer
+dirdums
 deliverers
 deliveress
 deliveryman
@@ -10854,7 +10855,6 @@ daturas
 discreation
 decalescence
 dirdum
-dirdums
 dogmatism
 direcly
 direct
