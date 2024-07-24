@@ -2445,6 +2445,7 @@ dehistoricize
 deckpipe
 diaplex
 deckswabber
+dialogues
 decl
 decigrams
 declaim
@@ -8477,7 +8478,6 @@ dialogue
 dopes
 devesting
 dialogued
-dialogues
 dialoguing
 dialonian
 dials
