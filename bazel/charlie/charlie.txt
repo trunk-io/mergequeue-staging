@@ -4222,6 +4222,7 @@ cladophyll
 cathine
 cementite
 caribes
+cholecystis
 claymores
 caribi
 caribou
@@ -11605,7 +11606,6 @@ cholecystenterorrhaphy
 cholecystenterostomy
 cholecystgastrostomy
 cholecystic
-cholecystis
 cholecystitis
 cozies
 cholecystocolotomy
