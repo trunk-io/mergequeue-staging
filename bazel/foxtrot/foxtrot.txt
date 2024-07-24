@@ -7314,7 +7314,6 @@ foreworld
 foraminiferal
 foraminiferan
 fumitory
-foraminose
 frugged
 frolic
 foraminulate
@@ -9995,6 +9994,7 @@ frictionproof
 frictions
 friday
 fridays
+foraminose
 fastuously
 fried
 friedcake

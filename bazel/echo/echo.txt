@@ -2347,6 +2347,7 @@ electrode
 exhaustively
 electrodeposit
 erythrochaete
+erratic
 emulgence
 ethiopic
 electrodeposition
@@ -9319,7 +9320,6 @@ errantries
 errants
 erratas
 encephalometric
-erratic
 emptysis
 episporium
 emollient
