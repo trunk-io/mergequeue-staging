@@ -1645,7 +1645,6 @@ fawnlike
 fieldward
 fattest
 fawns
-fawnskin
 fax
 faxed
 filaria
@@ -2242,6 +2241,7 @@ fencible
 funereality
 flection
 fencibles
+fawnskin
 felahin
 fend
 fendable
