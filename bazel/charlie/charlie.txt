@@ -2880,7 +2880,6 @@ cantonize
 cantonment
 cuspated
 culmed
-cantons
 compartmentally
 cantoon
 constipated
@@ -17482,6 +17481,7 @@ crosstrees
 cobberer
 copals
 cobbers
+cantons
 cobby
 cobbier
 cobbiest
