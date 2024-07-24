@@ -13447,6 +13447,7 @@ ambrosine
 anjan
 accentuation
 ankara
+autofluorescence
 ankaramite
 ankaratrite
 ankerhold
@@ -24086,7 +24087,6 @@ autoerotism
 autoette
 affirmed
 autofecundation
-autofluorescence
 autoformation
 autofrettage
 autogamy

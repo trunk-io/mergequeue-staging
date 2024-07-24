@@ -768,7 +768,6 @@ galvanist
 goosewinged
 gaulin
 graphophonic
-galvanizers
 galvanocautery
 galvanocauteries
 gedder
@@ -5918,6 +5917,7 @@ glossator
 glucosone
 gadidae
 glossectomy
+galvanizers
 glossed
 glossem
 glosseme
