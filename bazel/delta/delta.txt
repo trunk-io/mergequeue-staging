@@ -4502,7 +4502,6 @@ demetallize
 demethylate
 demethylchlortetracycline
 demetricize
-demi
 demy
 diode
 demiadult
@@ -7441,6 +7440,7 @@ donovan
 dorsel
 detribalization
 detribalize
+demi
 detribalized
 detriment
 dibranch
