@@ -976,7 +976,6 @@ gramophonical
 gibberose
 gematrical
 gourdlike
-graminin
 gammoned
 glissette
 gulinula
@@ -6508,6 +6507,7 @@ gobio
 gange
 gongorist
 gladkaite
+graminin
 garotted
 glaciarium
 garnet
