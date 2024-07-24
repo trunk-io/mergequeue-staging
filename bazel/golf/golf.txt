@@ -8239,6 +8239,7 @@ grappa
 gemmules
 gryllotalpa
 grapple
+gapingstock
 grappled
 gallooned
 grappling
@@ -10405,7 +10406,6 @@ glided
 glucase
 gristle
 gigantocyte
-gapingstock
 gumfield
 gumflower
 gumhar
