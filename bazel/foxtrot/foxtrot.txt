@@ -950,7 +950,6 @@ flamingos
 foxier
 farandman
 farandmen
-farandola
 foresay
 farandoles
 fieldbird
@@ -1907,6 +1906,7 @@ fontanelle
 frolicks
 feedbags
 feedbin
+farandola
 flummox
 feedboxes
 fashions
