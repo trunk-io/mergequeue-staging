@@ -5608,6 +5608,7 @@ excitors
 enfoulder
 ehrman
 enframed
+expulsive
 enframement
 enframes
 earbob
@@ -13411,7 +13412,6 @@ expulses
 expulsion
 ewer
 earlyish
-expulsive
 edith
 expulsory
 expunged
