@@ -12835,7 +12835,6 @@ crubeen
 chukker
 convive
 chukkers
-chukor
 chulan
 chulha
 chullo
@@ -23356,6 +23355,7 @@ consultations
 consultative
 consultatively
 consultee
+chukor
 consultive
 consulto
 contravene
