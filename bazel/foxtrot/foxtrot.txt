@@ -2241,7 +2241,6 @@ fencibles
 fawnskin
 felahin
 fend
-fendable
 fumose
 following
 fendering
@@ -5506,6 +5505,7 @@ fitchee
 fligger
 fullage
 fibrilations
+fendable
 fetology
 flight
 fanmaker
