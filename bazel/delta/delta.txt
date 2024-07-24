@@ -2199,7 +2199,6 @@ deceiving
 decelerated
 doorpiece
 decelerates
-decelerations
 decelerator
 decelerators
 deceleron
@@ -13469,6 +13468,7 @@ disroost
 disrooted
 diploplaculate
 didymous
+decelerations
 decolourizer
 diaxial
 disrooting
