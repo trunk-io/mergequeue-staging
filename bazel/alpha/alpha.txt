@@ -20193,7 +20193,6 @@ arraignability
 arraignable
 arraignableness
 arraigned
-arraigner
 artotyrite
 avives
 arbuscle
@@ -21955,6 +21954,7 @@ assurant
 attribution
 assurd
 aquaplane
+arraigner
 apteran
 assure
 assured
