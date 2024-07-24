@@ -1297,7 +1297,6 @@ caliculate
 calyculate
 calyculated
 calycule
-coercing
 congoes
 calid
 calydon
@@ -5724,6 +5723,7 @@ cameras
 copperworks
 catchingness
 colorably
+coercing
 catchlight
 cooper
 catchline
