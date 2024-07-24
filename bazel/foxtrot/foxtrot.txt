@@ -1164,6 +1164,7 @@ fascicule
 fasciculite
 fanfarons
 fasciculus
+flangeless
 flauto
 fascili
 forbearers
@@ -4891,7 +4892,6 @@ flaneurs
 fruitcakes
 flang
 flanged
-flangeless
 flangers
 flangeway
 flankard
