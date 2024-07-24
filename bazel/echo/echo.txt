@@ -4059,6 +4059,7 @@ emperors
 ezan
 evanesce
 empest
+exclusions
 eightyfold
 esculic
 emphase
@@ -10923,7 +10924,6 @@ eunuchise
 eunuchised
 eunuchized
 epigonousepigons
-exclusions
 euodic
 extrabold
 euomphalid
