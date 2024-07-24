@@ -8632,6 +8632,7 @@ chanceless
 chancelled
 chancelleries
 chancellor
+counterreconnaissance
 chancellorate
 centaury
 chancellory
@@ -27122,7 +27123,6 @@ conferred
 counterreason
 counterreckoning
 counterrecoil
-counterreconnaissance
 creatorrhea
 counterrefer
 counterreflected
