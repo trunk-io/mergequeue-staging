@@ -1983,6 +1983,7 @@ banditry
 bandits
 banditti
 bandle
+beslow
 bandleader
 bandless
 booked
@@ -7745,7 +7746,6 @@ biaural
 biauricular
 butyryls
 biauriculate
-beslow
 biaxial
 becrimes
 biaxiality
