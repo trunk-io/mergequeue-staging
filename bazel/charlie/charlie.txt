@@ -15026,6 +15026,7 @@ cytost
 cytostatic
 cytostatically
 cytostomal
+caryatidean
 cytostome
 canopying
 cytostroma
@@ -30407,7 +30408,6 @@ chapterhouse
 crochets
 ctenodont
 ctenodus
-caryatidean
 ctenoid
 ctenoidean
 climaxing
