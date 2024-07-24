@@ -7699,7 +7699,6 @@ forehoof
 facsim
 fibular
 foreyard
-foreyear
 forward
 fibres
 furuncle
@@ -9823,6 +9822,7 @@ frenzily
 fish
 foreheads
 foreseeable
+foreyear
 freon
 freq
 frequency
