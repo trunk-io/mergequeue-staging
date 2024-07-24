@@ -12466,6 +12466,7 @@ eiry
 ethnize
 exhaustiveness
 exhaustivity
+explicator
 ericoid
 exhaustless
 eyght
@@ -13217,7 +13218,6 @@ enthrallment
 exhilarated
 endothelioid
 explicatively
-explicator
 explicatory
 encoders
 explicitness
