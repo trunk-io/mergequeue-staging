@@ -12644,6 +12644,7 @@ bookmark
 bookmarker
 blips
 bifara
+boons
 bookmobile
 bookmobiles
 bookmonger
@@ -12716,7 +12717,6 @@ boongary
 boonies
 boonk
 boonless
-boons
 boopis
 boor
 boorga
