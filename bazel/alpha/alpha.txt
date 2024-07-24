@@ -4269,7 +4269,6 @@ adnoun
 adnouns
 adnumber
 archcity
-adobes
 adobo
 adobos
 adod
@@ -13346,6 +13345,7 @@ anisidino
 antrum
 anisil
 anisyl
+adobes
 adigranth
 aerographer
 anisobranchiate
