@@ -12827,7 +12827,6 @@ daggerlike
 dismisses
 dismissible
 dismissing
-documentalist
 dismissingly
 dismission
 dodrantal
@@ -15249,6 +15248,7 @@ dolliness
 droppy
 dolling
 dollish
+documentalist
 defeudalize
 dollishly
 decaisnea
