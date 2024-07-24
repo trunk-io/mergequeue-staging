@@ -3522,7 +3522,6 @@ defrosting
 defter
 defterdar
 deftly
-deftness
 deftnesses
 defunct
 drillbit
@@ -3943,6 +3942,7 @@ delabializing
 divisi
 desperadoes
 delace
+deftness
 delacerate
 delacrimation
 delay
