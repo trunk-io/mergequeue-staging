@@ -3115,7 +3115,6 @@ geohydrology
 geohydrologic
 gnashingly
 geoid
-geoidal
 glauber
 grammontine
 geoids
@@ -5824,6 +5823,7 @@ gloomful
 gloomy
 gloomier
 guastalline
+geoidal
 givens
 gloomingly
 gloomings
