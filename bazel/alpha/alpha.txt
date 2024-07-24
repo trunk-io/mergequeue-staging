@@ -532,6 +532,7 @@ abjuration
 abjurations
 abjuratory
 abjure
+anticarnivorous
 anoesis
 autocarp
 abjured
@@ -7486,7 +7487,6 @@ archeological
 albifying
 albiflorous
 antilapsarian
-anticarnivorous
 albigenses
 albigensian
 albigensianism
