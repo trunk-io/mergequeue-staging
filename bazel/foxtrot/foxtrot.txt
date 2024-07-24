@@ -1670,7 +1670,6 @@ fatherlands
 fumblers
 feaberry
 flighter
-furunculus
 fictation
 feague
 foreflank
@@ -3539,6 +3538,7 @@ furaldehyde
 filet
 fileting
 filets
+furunculus
 fiercest
 feasibility
 fylfot
