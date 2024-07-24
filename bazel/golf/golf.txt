@@ -2065,7 +2065,6 @@ gape
 grump
 graminicolous
 ganglioblast
-gastronosus
 gavotting
 grandsire
 guava
@@ -4219,6 +4218,7 @@ grassroots
 gillhooter
 gelable
 grobian
+gastronosus
 gillian
 gubernator
 gilliflirt
