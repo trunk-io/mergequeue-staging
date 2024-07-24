@@ -16320,7 +16320,6 @@ circumpolygon
 coffeepot
 clinkum
 clinocephaly
-cholecystalgia
 clinocephalic
 ceration
 clinocephalous
@@ -27772,6 +27771,7 @@ cowthwort
 cowtongue
 cowweed
 cowwheat
+cholecystalgia
 capataces
 concettist
 cooers
