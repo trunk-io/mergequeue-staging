@@ -8343,6 +8343,7 @@ dial
 dialcohol
 dialdehyde
 dialect
+deltahedra
 dignitarial
 dhooly
 dialectal
@@ -11152,7 +11153,6 @@ disappreciation
 disbenching
 disapprobatory
 disappropriate
-deltahedra
 doddering
 disapprovable
 disapproval
