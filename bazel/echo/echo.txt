@@ -3886,7 +3886,6 @@ emigated
 emigates
 ethid
 excitabilities
-emigr
 emigrant
 eidos
 emigrants
@@ -10745,6 +10744,7 @@ eudaemonize
 epicardial
 euphemize
 eudaimonia
+emigr
 eudaimonism
 eurasia
 eudemian
