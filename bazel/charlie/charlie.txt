@@ -1790,6 +1790,7 @@ cambisms
 cambist
 containers
 cambists
+curdwort
 cambium
 caliculus
 cambiums
@@ -13634,7 +13635,6 @@ cylindrometric
 codomain
 clavicithern
 cylindrophis
-curdwort
 cylindrosporium
 congenially
 cylindruria
