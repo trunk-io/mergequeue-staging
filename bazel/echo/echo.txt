@@ -8582,7 +8582,6 @@ exponency
 energesis
 equanimous
 equanimously
-equant
 equatability
 equatable
 equation
@@ -9675,6 +9674,7 @@ esocyclic
 esocidae
 elasticity
 externalism
+equant
 esociform
 esoenteritis
 expressing
