@@ -2007,7 +2007,6 @@ gauss
 gufought
 gaussage
 geniohyoglossus
-gaussian
 geometrical
 glaciological
 greedier
@@ -4252,6 +4251,7 @@ gym
 grammatite
 gimbal
 garua
+gaussian
 gimbaled
 gimbaling
 gurshes
