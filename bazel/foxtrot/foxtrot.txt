@@ -2680,7 +2680,6 @@ foredoomed
 fwd
 festively
 festiveness
-festivity
 folklike
 frogfishes
 festivous
@@ -8660,6 +8659,7 @@ forthputting
 forthrightly
 failsafe
 feinschmecker
+festivity
 forthrightness
 forthset
 foeticidal
