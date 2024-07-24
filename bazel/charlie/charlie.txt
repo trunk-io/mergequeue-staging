@@ -10133,7 +10133,6 @@ cherty
 chertiest
 cherts
 cherub
-cherubfish
 cherubic
 cherubical
 cherubically
@@ -19906,6 +19905,7 @@ cometographer
 cometography
 chronicler
 cometographical
+cherubfish
 cometoid
 cometology
 cometwise
