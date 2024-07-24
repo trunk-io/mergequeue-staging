@@ -1537,6 +1537,7 @@ grievants
 gashly
 gashouses
 groundskeeping
+grayer
 gasification
 greenkeeper
 gasifier
@@ -9989,7 +9990,6 @@ gubbings
 graphic
 guberla
 gametic
-grayer
 gubernative
 gubernatorial
 gucki
