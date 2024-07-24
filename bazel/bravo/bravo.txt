@@ -2956,7 +2956,6 @@ barbel
 bowle
 barramunda
 barramundi
-barranca
 barranco
 barrancos
 barrandite
@@ -5532,6 +5531,7 @@ bewailing
 belard
 barricos
 belat
+barranca
 belate
 belatedly
 belatedness
