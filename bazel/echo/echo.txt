@@ -2344,7 +2344,6 @@ epopees
 edacities
 eddic
 electrocutional
-electrocutioner
 epispastic
 electrocutions
 extraught
@@ -9370,6 +9369,7 @@ erucin
 encoffinment
 eruct
 eructance
+electrocutioner
 endeavor
 eructating
 eructation

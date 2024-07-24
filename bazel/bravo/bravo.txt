@@ -4570,7 +4570,6 @@ beanstalks
 bedchair
 bedchairs
 bedchamber
-bedclothing
 bedcord
 becrush
 byplays
@@ -14091,6 +14090,7 @@ bradbury
 bladish
 bradded
 blubbed
+bedclothing
 bradenhead
 bradyacousia
 bradyauxesis
