@@ -1962,6 +1962,7 @@ decades
 draggletailed
 decadi
 decadianome
+diminutive
 dauerlauf
 drysalter
 decadic
@@ -16649,7 +16650,6 @@ dragonflies
 dragonhead
 dragonhood
 dragonish
-diminutive
 dragonroot
 dragons
 deedeed
