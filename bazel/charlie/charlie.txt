@@ -4147,7 +4147,6 @@ carefully
 carefulness
 carey
 calculators
-careless
 carelessly
 carelessness
 careme
@@ -5825,6 +5824,7 @@ catena
 circumnavigation
 corncake
 catenane
+careless
 catenary
 catenas
 catenate
