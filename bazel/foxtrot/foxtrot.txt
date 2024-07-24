@@ -5286,7 +5286,6 @@ forjudger
 fledged
 fulminant
 fistlike
-fifthly
 fledgeless
 filterman
 fledgy
@@ -9770,6 +9769,7 @@ fluter
 fivepence
 fallout
 foreganger
+fifthly
 frictionize
 fremontia
 faeroe
