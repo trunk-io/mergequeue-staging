@@ -3735,6 +3735,7 @@ battlefronts
 battleful
 battleground
 battlegrounds
+blackband
 battlement
 battlemented
 battlepiece
@@ -10023,7 +10024,6 @@ bitterhead
 blackballs
 burthens
 bismer
-blackband
 branchiostomidae
 blackberry
 blackberries
