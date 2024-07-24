@@ -2193,7 +2193,6 @@ blume
 banns
 bannut
 banovina
-banque
 becard
 banquet
 blader
@@ -16672,6 +16671,7 @@ baptists
 budgereegah
 bronchia
 budgerigah
+banque
 budgerigar
 bombilation
 budgers
