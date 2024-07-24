@@ -8755,6 +8755,7 @@ chantant
 chantey
 chanteyman
 chanteys
+commissars
 chanter
 chanterelle
 chanters
@@ -20207,7 +20208,6 @@ commissaries
 commissaryship
 cnidosac
 centesimation
-commissars
 cassiopeian
 commission
 commissional
