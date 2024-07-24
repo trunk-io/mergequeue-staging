@@ -13572,7 +13572,6 @@ bourride
 bucayo
 bourrides
 bourse
-bourses
 bourtree
 befiddle
 bourtrees
@@ -16975,6 +16974,7 @@ bulimiac
 bulimias
 bulimic
 bulimiform
+bourses
 bulimoid
 bulimulidae
 bulimus
