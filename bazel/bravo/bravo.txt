@@ -1786,7 +1786,6 @@ bigotries
 balsamina
 balsaminaceae
 balsaminaceous
-basilicae
 biotic
 beldam
 balsaming
@@ -10811,6 +10810,7 @@ blindstorey
 busher
 bobotie
 bubblingly
+basilicae
 blindweed
 begulf
 blinger
