@@ -7428,7 +7428,6 @@ glossotype
 goujay
 gruffy
 gargle
-gluer
 goujon
 gesellschaften
 goularo
@@ -10300,6 +10299,7 @@ geese
 gulaman
 gelidities
 ghent
+gluer
 guttiferae
 gaoled
 grouseberry
