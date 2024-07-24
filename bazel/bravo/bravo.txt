@@ -11581,7 +11581,6 @@ blepharostat
 boatswain
 boatswains
 boattail
-boatwoman
 basketmaker
 basidiolichen
 boatwright
@@ -17766,6 +17765,7 @@ bradyphemia
 burling
 burlington
 britzska
+boatwoman
 burma
 burman
 backbites
