@@ -9301,7 +9301,6 @@ chasty
 coefficient
 chastiment
 chastise
-chaplanry
 creepers
 chastised
 clarissimo
@@ -15077,6 +15076,7 @@ citrines
 citrinin
 citrinins
 citrins
+chaplanry
 chalkworker
 citrometer
 cacomistle
