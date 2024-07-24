@@ -4176,7 +4176,6 @@ fmt
 faufel
 fireside
 firesider
-firesideship
 followup
 forestalled
 firespout
@@ -6932,6 +6931,7 @@ folksiest
 fierding
 ferroelectricity
 fathearted
+firesideship
 flyingly
 formalizer
 folktale
