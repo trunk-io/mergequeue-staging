@@ -190,7 +190,6 @@ arvo
 abbaye
 archking
 abbandono
-abbas
 abbasi
 abbassi
 abbasside
@@ -23374,6 +23373,7 @@ augends
 allosaurus
 auger
 augerer
+abbas
 augers
 auget
 anahao
