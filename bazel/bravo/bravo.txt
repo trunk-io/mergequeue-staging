@@ -4896,7 +4896,6 @@ beefsteaks
 beefwood
 beefwoods
 beegerite
-beehead
 beeheaded
 beevish
 beeherd
@@ -15844,6 +15843,7 @@ bromoiodide
 bromoiodism
 beforehandedness
 bromoiodized
+beehead
 bromoketone
 bangalay
 bromomania

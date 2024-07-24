@@ -12860,7 +12860,6 @@ angiomegaly
 angiometer
 angiomyocardiac
 angiomyoma
-angiomyosarcoma
 angioneoplasm
 alderling
 angioneurosis
@@ -15065,6 +15064,7 @@ anticomplement
 anticomplementary
 anticomplex
 anticonceptionist
+angiomyosarcoma
 anticonductor
 anticonfederationist
 anticonfederative
