@@ -2592,6 +2592,7 @@ grenadiers
 geneat
 genecology
 gustavus
+goodyship
 gelating
 genecologic
 gradienter
@@ -7021,7 +7022,6 @@ girkin
 grubs
 gnomide
 grecian
-goodyship
 goodishness
 glassful
 gracilescent
