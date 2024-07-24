@@ -3133,7 +3133,6 @@ capitation
 clangs
 capite
 capiteaux
-capitellar
 capitellate
 capitle
 capito
@@ -10552,6 +10551,7 @@ childminder
 childness
 codex
 childproof
+capitellar
 children
 childrenite
 childridden
