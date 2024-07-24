@@ -3852,7 +3852,6 @@ auxohormone
 anileness
 adherescence
 adherescent
-adhering
 adhesion
 adhesional
 adhesions
@@ -20230,6 +20229,7 @@ apishness
 arrastra
 arrastre
 arratel
+adhering
 arrau
 arrears
 arthroclisis
