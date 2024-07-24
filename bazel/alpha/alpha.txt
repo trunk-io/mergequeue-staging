@@ -13580,7 +13580,6 @@ annexations
 antizealot
 almohad
 annexe
-annexed
 annexion
 annexionist
 annoyed
@@ -24854,6 +24853,7 @@ avouter
 avoutry
 avow
 avowably
+annexed
 avowal
 avowance
 avowant
