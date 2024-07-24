@@ -2649,7 +2649,6 @@ divorcements
 duotone
 datos
 draconic
-decomposable
 daunii
 decompose
 decomposed
@@ -12680,6 +12679,7 @@ disleaf
 dagon
 disleafing
 destining
+decomposable
 dullest
 disleave
 despert
