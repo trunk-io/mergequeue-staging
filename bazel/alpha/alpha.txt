@@ -4718,7 +4718,6 @@ antimystically
 adviser
 anthotaxis
 advisers
-advises
 advising
 advisive
 advisiveness
@@ -14438,6 +14437,7 @@ anthocarp
 acerae
 anthoceros
 anthocerotaceae
+advises
 anthocerote
 anthochlor
 anthochlorine
