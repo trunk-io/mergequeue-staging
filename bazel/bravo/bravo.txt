@@ -9004,7 +9004,6 @@ bionic
 beele
 bionics
 bionomy
-bionomic
 bionomically
 backwoodsmen
 boysenberries
@@ -14120,6 +14119,7 @@ bound
 bradypepsia
 bradypeptic
 bearm
+bionomic
 buckhorn
 bradyphasia
 bradypnea
