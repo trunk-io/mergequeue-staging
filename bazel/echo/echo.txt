@@ -785,7 +785,6 @@ evenglome
 ecphorable
 emersed
 emigration
-ecphore
 earwigging
 ecphoria
 ecphoriae
@@ -6746,6 +6745,7 @@ everard
 eppy
 enthrong
 exogastritis
+ecphore
 enthroning
 enthronise
 exponentiating
