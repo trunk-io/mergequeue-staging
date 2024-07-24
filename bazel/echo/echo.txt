@@ -2353,6 +2353,7 @@ exhaustively
 electrodeposit
 erythrochaete
 emulgence
+ethiopic
 electrodeposition
 electrodepositor
 eelgrasses
@@ -9580,7 +9581,6 @@ escot
 escoted
 escoting
 endothecate
-ethiopic
 eaux
 escout
 enspell
