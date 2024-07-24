@@ -5077,7 +5077,6 @@ endocellular
 exposition
 enshrine
 endoceras
-extrathecal
 endoceratidae
 endoceratite
 endoceratitic
@@ -10633,6 +10632,7 @@ embassadress
 effusing
 emphasised
 eubranchipus
+extrathecal
 eubteria
 emendations
 eucaine
