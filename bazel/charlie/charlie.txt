@@ -2661,7 +2661,6 @@ canoes
 canoewood
 canoing
 canon
-canoncito
 canones
 cerebroganglion
 canoness
@@ -5525,6 +5524,7 @@ capsuligerous
 catallactics
 clangoured
 catallum
+canoncito
 catalo
 cataloes
 catalog
