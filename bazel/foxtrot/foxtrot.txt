@@ -982,7 +982,6 @@ fardage
 foliaging
 farded
 fardel
-falunian
 forgetfulness
 fiver
 fardelet
@@ -4679,6 +4678,7 @@ fantasticness
 furfuralcohol
 floatability
 flagellant
+falunian
 flagellantism
 flagellaria
 flagellariaceae
