@@ -5651,7 +5651,6 @@ afterburner
 afterburning
 aftercare
 aftercareer
-aftercast
 aftercataract
 afterchance
 afterchrome
@@ -13657,6 +13656,7 @@ acker
 annotating
 annotation
 annotatively
+aftercast
 annotativeness
 annotator
 annotators
