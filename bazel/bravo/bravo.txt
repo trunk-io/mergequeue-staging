@@ -2645,6 +2645,7 @@ baryons
 baryphony
 baryphonia
 boxholder
+bushfighter
 baryphonic
 baris
 barysilite
@@ -17953,7 +17954,6 @@ beerhouse
 bushers
 bushes
 bushet
-bushfighter
 bescourge
 bushfighting
 bushfires
