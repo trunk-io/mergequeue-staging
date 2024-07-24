@@ -852,7 +852,6 @@ foretellers
 fanos
 fenlander
 fettler
-findability
 fans
 fant
 frictionlessness
@@ -6215,6 +6214,7 @@ fluency
 fluently
 felones
 fluentness
+findability
 fiddles
 fervour
 fluer
