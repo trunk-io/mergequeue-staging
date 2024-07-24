@@ -193,7 +193,6 @@ fingerling
 folliculous
 factualistic
 factually
-fieldleft
 flavorous
 factualness
 factum
@@ -1594,6 +1593,7 @@ fustle
 favissa
 favn
 frison
+fieldleft
 flatfishes
 frabous
 forestays
