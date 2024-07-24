@@ -4701,7 +4701,6 @@ advisably
 advisal
 advise
 anonang
-advisedly
 advisedness
 advisee
 anisometropia
@@ -5346,6 +5345,7 @@ affectlessness
 affector
 affectual
 affectum
+advisedly
 affectuous
 affectus
 affeeble
