@@ -17,7 +17,6 @@ galanga
 gabber
 gabbers
 gabbier
-gabbiness
 gabbled
 gabblement
 gabbler
@@ -8511,6 +8510,7 @@ gravispheric
 gravitate
 galactosidase
 gabies
+gabbiness
 gaura
 gravitated
 gazebo
