@@ -6169,6 +6169,7 @@ dereism
 dereistically
 derek
 derelict
+destructor
 dereliction
 derelictions
 dregless
@@ -7113,7 +7114,6 @@ destructivism
 destructivity
 duumvir
 decomposite
-destructor
 destructory
 destructs
 destructuralize
