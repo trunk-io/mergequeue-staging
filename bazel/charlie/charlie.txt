@@ -3566,6 +3566,7 @@ coachable
 carapidae
 cathari
 carapo
+cicatrizant
 cestrum
 carapus
 carara
@@ -13257,7 +13258,6 @@ catalysts
 cicatrising
 cicatrix
 cicatrixes
-cicatrizant
 cardueline
 cicatrizate
 cicatrization
