@@ -8486,7 +8486,6 @@ diamant
 dogship
 diamante
 diamantiferous
-dripless
 ditrochee
 diamat
 diamb
@@ -11437,6 +11436,7 @@ disciplinant
 disciplinarian
 decaliter
 doroscentral
+dripless
 demesgnes
 disciform
 dripper
