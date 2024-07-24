@@ -11912,7 +11912,6 @@ anabiotic
 anaphylactin
 anaphylactogen
 anaphylactogenic
-anaphylactoid
 anaphylatoxin
 anaphylaxis
 anaphyte
@@ -13115,6 +13114,7 @@ anhydraemic
 anhydrate
 aircrewmen
 anhydration
+anaphylactoid
 alpargata
 autohypnotic
 anhydremic
