@@ -5634,7 +5634,6 @@ departure
 depas
 descries
 depass
-deodar
 delphinoid
 defigure
 disrepute
@@ -17377,6 +17376,7 @@ dequeuing
 droopt
 dropax
 dropberry
+deodar
 dropcloth
 dribblet
 docmac
