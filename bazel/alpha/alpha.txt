@@ -8500,7 +8500,6 @@ aucht
 antherless
 alkamine
 annexation
-alkanal
 alkane
 alkanes
 alkanet
@@ -14290,6 +14289,7 @@ antepenultima
 antepenultimate
 antepileptic
 antepyretic
+alkanal
 antepone
 anteporch
 anteportico
