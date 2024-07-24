@@ -1830,7 +1830,6 @@ gastroptosia
 gastropulmonary
 gastropulmonic
 gastrorrhagia
-gorling
 gastrorrhaphy
 gynura
 gastroscopic
@@ -4447,6 +4446,7 @@ gynecic
 gynecicgynecidal
 gladfulness
 gynecocentric
+gorling
 geir
 gustatorial
 gynecocracy

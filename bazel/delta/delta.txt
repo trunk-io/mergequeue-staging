@@ -8177,6 +8177,7 @@ diacetic
 defs
 diacetyl
 dichloroacetic
+doughy
 dipsetic
 diacetylene
 diacetylmorphine
@@ -16132,7 +16133,6 @@ doughfeet
 doughfoot
 dotant
 dispersoid
-doughy
 doughiness
 doughlike
 dimensive
