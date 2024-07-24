@@ -847,7 +847,6 @@ gardon
 galapee
 gambles
 gamblesome
-gamblesomeness
 gamboges
 goosefish
 gambogian
@@ -10753,6 +10752,7 @@ guttering
 gutterize
 gutterling
 gutterman
+gamblesomeness
 gutters
 guttersnipe
 gutterspout

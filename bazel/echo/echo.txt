@@ -1971,7 +1971,6 @@ ejectum
 exonship
 ejidal
 ejido
-ejidos
 ectocommensal
 electrotypist
 ejoo
@@ -11178,6 +11177,7 @@ epimers
 europasian
 europe
 european
+ejidos
 europeanization
 enlodge
 europeanize
