@@ -8391,7 +8391,6 @@ bilabe
 bilabial
 bias
 bookmen
-bilalo
 bilamellate
 biland
 byland
@@ -10263,6 +10262,7 @@ barycentre
 blanda
 banes
 bloodier
+bilalo
 bedimmed
 blander
 blackbine
