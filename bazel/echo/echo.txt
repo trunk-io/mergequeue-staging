@@ -2318,7 +2318,6 @@ electrocystoscope
 electrocolloidal
 electrocontractility
 electroconvulsive
-electroscope
 electrocorticogram
 elocutioner
 eclipsed
@@ -12139,6 +12138,7 @@ exaggerates
 enami
 excrementitious
 evzone
+electroscope
 epenla
 elytroposis
 equitriangular
