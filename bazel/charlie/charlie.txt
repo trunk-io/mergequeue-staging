@@ -14743,7 +14743,6 @@ cystomata
 cystomatous
 cystometer
 cystomyoma
-cystomyxoma
 cystomorphous
 cystonectous
 cystonephrosis
@@ -16406,6 +16405,7 @@ clippingly
 clippings
 creamfruit
 clips
+cystomyxoma
 clipse
 clipsheet
 clipsome
