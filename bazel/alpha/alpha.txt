@@ -19834,7 +19834,6 @@ arithmancy
 arithmetic
 arithmetically
 arithmetician
-arithmetics
 arithmetizations
 aphthartodocetic
 arithmetize
@@ -22096,6 +22095,7 @@ asthamatic
 astheny
 abjudge
 asthenia
+arithmetics
 asthenic
 asthenical
 app
