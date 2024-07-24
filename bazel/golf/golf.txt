@@ -452,6 +452,7 @@ governable
 galerus
 galesaur
 gallomania
+guerdon
 galette
 grantsmanship
 goodlihead
@@ -4948,7 +4949,6 @@ geobotanical
 gigantical
 gytling
 grifters
-guerdon
 gitonin
 gitoxigenin
 gitoxin
