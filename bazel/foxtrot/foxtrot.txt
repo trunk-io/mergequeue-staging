@@ -7943,7 +7943,6 @@ firs
 feodum
 frithbot
 foresighted
-forewarned
 furiosa
 feateous
 fishbones
@@ -10971,6 +10970,7 @@ fulsomeness
 follis
 fulup
 formate
+forewarned
 fulvid
 fulzie
 flub
