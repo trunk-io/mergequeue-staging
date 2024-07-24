@@ -6033,6 +6033,7 @@ depthless
 depths
 disfigures
 depthways
+draisine
 depthwise
 decolouring
 decidement
@@ -16708,7 +16709,6 @@ draintile
 drainway
 dialist
 draisene
-draisine
 drake
 drakelet
 drakestone
