@@ -1687,7 +1687,6 @@ gastrocatarrhal
 gastrocele
 goldfish
 gastrochaenidae
-giltheads
 gastrocystic
 gastrocnemii
 gastrocnemius
@@ -5185,6 +5184,7 @@ glanced
 gynecomazia
 glancer
 ghi
+giltheads
 glancing
 growled
 glandaceous
