@@ -4695,6 +4695,7 @@ corradial
 carr
 carracks
 carrageen
+copolymerized
 carrageenin
 carragheen
 carragheenin
@@ -17374,7 +17375,6 @@ coassumed
 coassumes
 countrifiedness
 coassuming
-copolymerized
 coast
 coastally
 coasted
