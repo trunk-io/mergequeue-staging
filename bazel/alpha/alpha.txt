@@ -3814,7 +3814,6 @@ adeste
 adeuism
 adffrozen
 adfluxion
-adfreeze
 antiangular
 anguille
 apozema
@@ -11780,6 +11779,7 @@ analytic
 amberlike
 adermine
 analytical
+adfreeze
 alamanni
 adulates
 analytically
