@@ -14326,7 +14326,6 @@ acropathy
 agglutogenic
 anterioyancer
 anteriority
-anteriorness
 anteriors
 anterodorsal
 anteroflexion
@@ -18470,6 +18469,7 @@ adeona
 arbacia
 arbacin
 adytum
+anteriorness
 arbalest
 arbalester
 antiresonance
