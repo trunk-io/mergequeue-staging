@@ -2700,7 +2700,6 @@ atria
 ancestorial
 acontius
 acool
-agricole
 acopic
 akra
 acopyrine
@@ -14508,6 +14507,7 @@ anthracoid
 anthracolithic
 anthracomancy
 anthracomarti
+agricole
 asaphic
 anthracomartus
 anthracometer
