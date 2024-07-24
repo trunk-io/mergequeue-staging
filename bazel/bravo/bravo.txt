@@ -3447,6 +3447,7 @@ bolyaian
 baster
 basters
 bangos
+biostrome
 basti
 bastian
 bastile
@@ -9130,7 +9131,6 @@ biosterin
 biosterol
 burdeners
 biostratigraphy
-biostrome
 biota
 biotas
 baryes
