@@ -1995,7 +1995,6 @@ feldsparphyre
 feldspath
 feldspathization
 feldspathoid
-flintlike
 feldspathose
 fecche
 filazer
@@ -10616,6 +10615,7 @@ familyish
 fructosan
 fructose
 fiches
+flintlike
 floralia
 frontwise
 flapperism
