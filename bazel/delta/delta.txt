@@ -13012,7 +13012,6 @@ dreeing
 dispel
 dispellable
 demarche
-dispelled
 dekagrams
 dorsimedian
 dispells
@@ -13064,6 +13063,7 @@ dyspeptics
 displacer
 duddle
 dugongs
+dispelled
 dirgler
 dispergate
 doubleleaf
