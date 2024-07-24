@@ -7353,6 +7353,7 @@ engrail
 epaulement
 epauleted
 epaulets
+exhauster
 emboldening
 epaulette
 exerting
@@ -12763,7 +12764,6 @@ exopod
 exopoditic
 exopterygote
 exopterygotism
-exhauster
 evocated
 exorable
 elytroptosis
