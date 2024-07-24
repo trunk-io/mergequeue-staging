@@ -521,7 +521,6 @@ finnicky
 flatland
 furrowlike
 falderols
-foutre
 faldfee
 falding
 fourling
@@ -5969,6 +5968,7 @@ flory
 floria
 floriage
 foundational
+foutre
 floriate
 florican
 fieldstrip
