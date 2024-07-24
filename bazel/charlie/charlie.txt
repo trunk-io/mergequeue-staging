@@ -3437,7 +3437,6 @@ caqueteuses
 caquetio
 caquetoire
 caquetoires
-car
 chisellike
 cara
 carabao
@@ -15296,6 +15295,7 @@ clayiest
 clayiness
 chromospheric
 claik
+car
 claylike
 claimable
 celemin
