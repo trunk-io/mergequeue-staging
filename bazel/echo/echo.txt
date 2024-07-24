@@ -1920,7 +1920,6 @@ eclogic
 efficiency
 eyot
 eyoty
-epidialogue
 effeminisation
 eyra
 ectad
@@ -3541,6 +3540,7 @@ emborder
 embordered
 endict
 embosked
+epidialogue
 elephantoidal
 educables
 embosking
