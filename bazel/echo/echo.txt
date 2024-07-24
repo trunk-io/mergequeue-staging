@@ -214,7 +214,6 @@ episcopalianize
 earwax
 encephalography
 ethoxycaffeine
-earwaxes
 earwig
 earwiggy
 earwigginess
@@ -12823,6 +12822,7 @@ etwees
 exortion
 euthytatic
 exosepsis
+earwaxes
 exoskeletal
 exoskeleton
 eventualize
