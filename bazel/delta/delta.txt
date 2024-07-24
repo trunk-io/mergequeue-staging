@@ -13384,7 +13384,6 @@ disquarter
 disquiet
 disquieted
 disquietedly
-disquieten
 disquieter
 disquietingness
 disquietly
@@ -14837,6 +14836,7 @@ document
 despumate
 decussate
 documentable
+disquieten
 damas
 documental
 delimer
