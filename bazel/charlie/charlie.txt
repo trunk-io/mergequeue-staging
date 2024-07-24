@@ -5082,7 +5082,6 @@ casettes
 caseum
 cystenchymatous
 casework
-chartroom
 caseworker
 caseworkers
 communes
@@ -14750,6 +14749,7 @@ cystophthisis
 cystopyelitis
 coenoecial
 centralest
+chartroom
 coannexed
 calligraphically
 cystopyelography
