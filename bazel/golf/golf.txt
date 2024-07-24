@@ -5482,7 +5482,6 @@ groundman
 garvey
 gouging
 geocoronium
-glycogenase
 gunbright
 gutta
 glycogenesis
@@ -10492,6 +10491,7 @@ gundy
 graymill
 gettysburg
 goldmist
+glycogenase
 goaf
 glut
 gundygut
