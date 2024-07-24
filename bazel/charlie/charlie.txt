@@ -11794,7 +11794,6 @@ chondrites
 chondritic
 chondritis
 chondroadenoma
-compacter
 chondroalbuminoid
 chondroangioma
 chondroarthritis
@@ -27161,6 +27160,7 @@ counterscarp
 counterscoff
 countersconce
 claddings
+compacter
 counterscrutiny
 countersecure
 coffined
