@@ -2224,7 +2224,6 @@ ach
 amatrice
 anthropophuism
 achaemenian
-achaemenidae
 adsheart
 achaemenidian
 achaenocarp
@@ -5956,6 +5955,7 @@ agathosma
 agaty
 agatiform
 aly
+achaemenidae
 adverb
 agatine
 aruspex
