@@ -2696,7 +2696,6 @@ elemental
 elementalism
 eridanid
 elementally
-elementaloid
 epithetize
 emigating
 escorting
@@ -9397,6 +9396,7 @@ erupt
 erupted
 eruptible
 erupting
+elementaloid
 eruption
 estruate
 eruptions
