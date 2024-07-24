@@ -5848,6 +5848,7 @@ furnace
 flooders
 faconne
 feltyfare
+forepass
 furred
 floody
 floodless
@@ -7807,7 +7808,6 @@ forepale
 forepaled
 foreparents
 forepart
-forepass
 forepaw
 freshen
 fragmentariness
