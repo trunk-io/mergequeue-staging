@@ -6982,7 +6982,6 @@ gonotocont
 gonotokont
 glomerule
 greenwood
-gympie
 gleety
 goodsire
 gunky
@@ -9668,6 +9667,7 @@ gabeller
 grew
 gruiformes
 goths
+gympie
 gruine
 gavia
 gameball
