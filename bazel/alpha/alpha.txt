@@ -8782,7 +8782,6 @@ absinthium
 alligation
 alligations
 alligator
-alligatored
 alligatorfish
 alligatorfishes
 alligatoring
@@ -15320,6 +15319,7 @@ altometer
 antiformin
 antifouler
 adulthood
+alligatored
 afterdrops
 androseme
 antiaggressionist
