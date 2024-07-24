@@ -2400,7 +2400,6 @@ electroforming
 electrofuse
 esterified
 electrofusion
-electrogalvanic
 electrogenesis
 electrogenic
 electrogild
@@ -8058,6 +8057,7 @@ enshrouding
 epiphyllospermous
 epiphyllous
 epiphyllum
+electrogalvanic
 epiphysary
 elaborator
 epiphyseal
