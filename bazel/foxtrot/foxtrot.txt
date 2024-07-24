@@ -761,7 +761,6 @@ fenchol
 fringefoot
 feudalise
 fanciable
-flammule
 factionally
 fancied
 fieldpieces
@@ -2043,6 +2042,7 @@ fellowshipped
 fricandeaus
 fellah
 fellahin
+flammule
 fellahs
 foreslack
 fellata
