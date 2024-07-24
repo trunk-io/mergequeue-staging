@@ -4167,7 +4167,6 @@ beatitudes
 beatles
 booksy
 burgle
-beatless
 backlit
 beatnik
 beatrix
@@ -9058,6 +9057,7 @@ bigger
 blameworthiness
 byordinary
 bioresearch
+beatless
 biorhythm
 bios
 bitanhol
