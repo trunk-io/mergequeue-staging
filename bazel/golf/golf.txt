@@ -6430,7 +6430,6 @@ goatherdess
 goasila
 geodetical
 goat
-goatbeard
 goatbrush
 guacacoa
 glynn
@@ -7448,6 +7447,7 @@ gnathostoma
 germain
 gourd
 gourde
+goatbeard
 gourded
 gourdes
 gristmiller
