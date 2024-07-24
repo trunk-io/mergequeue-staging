@@ -3453,6 +3453,7 @@ gossipee
 germanization
 goran
 graphotype
+goutify
 glumelike
 gralloch
 glendale
@@ -5313,7 +5314,6 @@ gambias
 gregorianizer
 gastrocolic
 glaucus
-goutify
 glaum
 glairiest
 grieced
