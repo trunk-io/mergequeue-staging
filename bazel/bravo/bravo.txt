@@ -4935,7 +4935,6 @@ beepers
 beflout
 beeping
 beeps
-beerage
 beerbachite
 beerbibber
 beerhouses
@@ -5929,6 +5928,7 @@ bromocyanogen
 bolivianos
 bhadon
 bibliotherapist
+beerage
 bemercy
 bemete
 bemingle
