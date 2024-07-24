@@ -17461,7 +17461,6 @@ coazervation
 cob
 cupbearer
 cobalamin
-cobalamine
 cobaltammine
 continuist
 cobaltic
@@ -26832,6 +26831,7 @@ countercurrent
 circulant
 countercurrently
 countercurrentwise
+cobalamine
 counterdance
 cochaired
 counterdecision
