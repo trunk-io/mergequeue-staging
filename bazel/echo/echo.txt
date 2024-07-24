@@ -4533,7 +4533,6 @@ englad
 encense
 encenter
 ensilage
-encephalartos
 encephalasthenia
 essayical
 edgebone
@@ -5281,6 +5280,7 @@ endorsee
 endorsees
 endorsers
 externalizes
+encephalartos
 electrodialyzer
 enlargement
 endorses
