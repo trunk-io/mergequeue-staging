@@ -1368,7 +1368,6 @@ den
 differen
 dissimuler
 drossless
-darkest
 dauting
 davach
 davallia
@@ -7062,6 +7061,7 @@ dessertspoonfuls
 dessiatine
 dessicate
 dessil
+darkest
 dessous
 dessus
 destabilize
