@@ -6892,7 +6892,6 @@ entomolegist
 ecoid
 entomology
 excellently
-entombing
 entomologies
 entomologise
 engorge
@@ -11588,6 +11587,7 @@ especial
 environal
 evident
 evidential
+entombing
 evidentially
 enhydra
 electropathology
