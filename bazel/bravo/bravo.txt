@@ -5228,7 +5228,6 @@ beglamour
 beglare
 barton
 betumbled
-beglerbeg
 beglerbeglic
 bounderishly
 beglerbeglik
@@ -6810,6 +6809,7 @@ bounded
 besayle
 besaint
 besan
+beglerbeg
 besanctify
 besand
 bescab
