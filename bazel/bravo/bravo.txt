@@ -3716,7 +3716,6 @@ batterer
 batterie
 bawties
 buckra
-batteried
 batterman
 batteuse
 battier
@@ -13803,6 +13802,7 @@ brockets
 broquineer
 boxful
 bombe
+batteried
 busulfan
 beliing
 bagge
