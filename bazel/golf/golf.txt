@@ -887,6 +887,7 @@ graphics
 gamely
 glyster
 gory
+gocart
 gamelike
 glossopodium
 gonfalonier
@@ -1834,7 +1835,6 @@ gynura
 gastroscopic
 gastroscopies
 giggly
-gocart
 gastrosoph
 gastrosopher
 granddad
