@@ -4317,7 +4317,6 @@ fragmentate
 fisherfolk
 flywire
 fanal
-fishery
 fisherman
 fishermen
 fisherpeople
@@ -10045,6 +10044,7 @@ frighty
 frighting
 frightless
 frightment
+fishery
 floriation
 frights
 frust
