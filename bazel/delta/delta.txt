@@ -8768,7 +8768,6 @@ diastoles
 diastomatic
 diastrophic
 diastrophically
-diatessaron
 diathermal
 diathermance
 diathermaneity
@@ -15322,6 +15321,7 @@ defaulter
 domage
 domain
 downing
+diatessaron
 domains
 domajigger
 deaness
