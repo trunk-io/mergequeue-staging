@@ -12097,7 +12097,6 @@ chorobates
 chorogi
 chorograph
 chorographer
-chorographic
 chorographical
 chorographically
 choroid
@@ -26935,6 +26934,7 @@ countergabble
 countergage
 countergager
 countergambit
+chorographic
 countergarrison
 cofermentation
 catjang
