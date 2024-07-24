@@ -6065,6 +6065,7 @@ catspaw
 catspaws
 catstep
 catstick
+clumpier
 catstitch
 catstitcher
 catsup
@@ -16963,7 +16964,6 @@ clump
 clumped
 clumper
 clumpy
-clumpier
 clumpiest
 cokers
 clumping
