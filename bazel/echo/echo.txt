@@ -1926,6 +1926,7 @@ eyra
 ectad
 ethmovomer
 entitle
+elric
 eyras
 eire
 epiphenomenon
@@ -12298,7 +12299,6 @@ export
 executions
 executively
 entangledly
-elric
 ellops
 executiveship
 earthfast
