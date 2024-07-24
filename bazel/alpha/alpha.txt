@@ -3219,7 +3219,6 @@ actinoscopy
 actinosome
 actinosphaerium
 actinostereoscopy
-actinostome
 audits
 actinotherapeutic
 actinotherapeutics
@@ -19028,6 +19027,7 @@ archmagician
 archmagirist
 assorters
 aphthartodocetae
+actinostome
 archmarshal
 archmediocrity
 archmessenger
