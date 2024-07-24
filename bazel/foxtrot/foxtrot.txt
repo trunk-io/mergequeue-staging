@@ -5589,6 +5589,7 @@ floe
 flintless
 fado
 flints
+forrel
 flintstone
 fervescence
 fluidly
@@ -8550,7 +8551,6 @@ forprise
 fumaryl
 forrad
 forrard
-forrel
 forril
 foresworn
 forritsome
