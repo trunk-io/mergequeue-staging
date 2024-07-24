@@ -677,7 +677,6 @@ epanadiplosis
 eclipsation
 eclipse
 echinuliform
-eclipsed
 enforceable
 eclipses
 erudite
@@ -2323,6 +2322,7 @@ electroconvulsive
 electroscope
 electrocorticogram
 elocutioner
+eclipsed
 emeus
 electrocratic
 electroculture
