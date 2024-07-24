@@ -16706,7 +16706,6 @@ carburate
 clopped
 clops
 cloque
-cloques
 cloragen
 coachwork
 cleanly
@@ -25133,6 +25132,7 @@ cordwood
 cordwoods
 core
 corecipient
+cloques
 coreciprocal
 corectomy
 corector
