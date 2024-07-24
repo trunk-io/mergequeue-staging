@@ -10135,7 +10135,6 @@ ambroid
 ambrosia
 ambrosiaceae
 azorite
-ambrosial
 archicytula
 ambrosially
 ambrosian
@@ -14926,6 +14925,7 @@ ambiens
 antichymosin
 anthrone
 antichlor
+ambrosial
 antichlorine
 antichloristic
 antichlorotic
