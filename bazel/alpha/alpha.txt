@@ -10005,7 +10005,6 @@ amberoid
 amberoids
 antimythical
 ambers
-ambiance
 ambiances
 ambicolorate
 ambicoloration
@@ -13152,6 +13151,7 @@ anhungered
 anhungry
 autochemical
 ani
+ambiance
 any
 advected
 anybody
