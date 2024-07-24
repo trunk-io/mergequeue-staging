@@ -25047,7 +25047,6 @@ cion
 corchat
 corchorus
 corcir
-corcyraean
 corcle
 cord
 cordage
@@ -25761,6 +25760,7 @@ consolute
 corregidors
 coordinates
 corregimientos
+corcyraean
 ceilometer
 correlatable
 chaton
