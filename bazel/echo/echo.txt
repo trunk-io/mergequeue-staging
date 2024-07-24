@@ -2857,7 +2857,6 @@ elfship
 elfwife
 emotionalize
 elhi
-evaluable
 elia
 elian
 elianic
@@ -4806,6 +4805,7 @@ eniac
 encomimiums
 encomium
 explicators
+evaluable
 elatives
 eggshell
 ectosteal
