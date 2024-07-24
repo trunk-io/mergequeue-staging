@@ -20722,7 +20722,6 @@ attestative
 articulary
 allocyanine
 allelomorph
-associate
 articularly
 articulars
 articulata
@@ -24027,6 +24026,7 @@ autocross
 autocue
 autodecomposition
 autodecrement
+associate
 autodecrements
 apaestically
 autodepolymerization
