@@ -1462,7 +1462,6 @@ fatuities
 foveiform
 fellatrix
 frenzy
-fatuitous
 fennel
 fatuoid
 fatuous
@@ -10260,6 +10259,7 @@ figured
 frenum
 frizziness
 fastigious
+fatuitous
 frostfish
 feudum
 fetisheer
