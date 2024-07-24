@@ -15132,7 +15132,6 @@ brickmaker
 brickmason
 brickred
 bricktimber
-bricktop
 borane
 brickwall
 brickwork
@@ -16943,6 +16942,7 @@ boltonite
 bulbourethral
 bulbously
 bulbs
+bricktop
 bulbul
 bulbule
 biltong
