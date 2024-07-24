@@ -6739,7 +6739,6 @@ agglomerative
 accompanies
 ayes
 aeroplaner
-aigialosaur
 aigialosauridae
 auditioned
 arboriculturist
@@ -17022,6 +17021,7 @@ apiosoma
 apiphobia
 apyrases
 apyrene
+aigialosaur
 apyretic
 apyrexy
 apyrexia
