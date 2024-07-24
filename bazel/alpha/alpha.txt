@@ -8948,6 +8948,7 @@ ausu
 allophane
 allophyle
 allophylian
+audings
 allophylic
 allophite
 allophone
@@ -23304,7 +23305,6 @@ auding
 acupuncturation
 adsorptiveness
 autocatalytic
-audings
 audiogram
 audiograms
 audiology
