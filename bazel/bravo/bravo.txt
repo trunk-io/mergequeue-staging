@@ -630,7 +630,6 @@ backtrick
 backus
 backveld
 backvelder
-babbit
 bembex
 backwall
 biriani
@@ -18307,6 +18306,7 @@ bedlids
 buttonball
 blepharophryplasty
 buttonbush
+babbit
 buttoner
 buttoners
 buttonhold
