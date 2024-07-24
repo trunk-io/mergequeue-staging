@@ -17456,7 +17456,6 @@ apostrophize
 apostrophized
 apostrophizes
 apotactic
-arc
 alarmisms
 apotactici
 araca
@@ -23297,6 +23296,7 @@ audiencier
 audient
 audients
 audile
+arc
 adagissimo
 audiles
 alembicated
