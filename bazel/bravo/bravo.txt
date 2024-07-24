@@ -3740,7 +3740,6 @@ battlefields
 battlefront
 battlefronts
 battleful
-battleground
 battlegrounds
 blackband
 battlement
@@ -10594,6 +10593,7 @@ bleekbok
 barretries
 bronchographic
 baboonish
+battleground
 brickyard
 bealing
 bleeping
