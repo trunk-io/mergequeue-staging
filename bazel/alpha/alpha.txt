@@ -3773,7 +3773,6 @@ adenous
 adenoviral
 adenovirus
 adenoviruses
-adeodatus
 adephaga
 adephagan
 assailment
@@ -11647,6 +11646,7 @@ avanti
 anaerophyte
 appetising
 anaeroplastic
+adeodatus
 anaesthesiant
 antenoon
 aglitter

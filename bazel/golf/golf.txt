@@ -238,7 +238,6 @@ gaingiving
 gainyield
 gripgrass
 gaining
-gainlessness
 ghoul
 gainlier
 gramashes
@@ -4956,6 +4955,7 @@ gitonin
 gitoxigenin
 gitoxin
 glia
+gainlessness
 grousing
 grovelers
 galores
