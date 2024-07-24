@@ -1755,7 +1755,6 @@ accordingly
 accordion
 accordionist
 abrased
-accordionists
 accordions
 acclamations
 accords
@@ -9846,6 +9845,7 @@ acridinium
 amasesis
 amassable
 amasser
+accordionists
 abyssal
 accreditation
 amassers
