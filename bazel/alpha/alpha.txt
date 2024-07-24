@@ -6308,6 +6308,7 @@ agname
 agnamed
 agnat
 agnate
+authorisation
 agnatha
 agnathia
 agnathostomata
@@ -23839,7 +23840,6 @@ authorisable
 annexer
 alveoliform
 alpist
-authorisation
 authoriser
 authoritarian
 authoritarianism
