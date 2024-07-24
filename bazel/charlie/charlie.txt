@@ -16785,6 +16785,7 @@ clothilda
 clothing
 clothlike
 clothmaking
+conine
 cloths
 clothworker
 clots
@@ -22488,7 +22489,6 @@ conilurus
 conima
 conimene
 cockal
-conine
 conines
 charases
 conynge
