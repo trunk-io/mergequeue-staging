@@ -5570,6 +5570,7 @@ enfolding
 enfolds
 exonerated
 electrobrasser
+evictions
 enfonce
 elbowboard
 enforce
@@ -11568,7 +11569,6 @@ evicted
 evictee
 evictees
 eviction
-evictions
 evictor
 echiniform
 equilucent
