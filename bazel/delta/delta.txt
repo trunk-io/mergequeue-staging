@@ -7508,7 +7508,6 @@ demiseason
 dealer
 deuterogelatose
 deuterogenesis
-deuterogenic
 deuteroglobulose
 deuteromycetes
 deuteromorphic
@@ -13596,6 +13595,7 @@ doggereler
 dissents
 dissepiment
 dresser
+deuterogenic
 dissepimental
 deacetylate
 dissertate
