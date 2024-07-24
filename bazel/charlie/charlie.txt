@@ -5622,6 +5622,7 @@ catapultier
 catapults
 cataract
 cataracted
+curries
 cataracteg
 cataractine
 cataracts
@@ -31456,7 +31457,6 @@ currier
 curriery
 currieries
 calcrete
-curries
 curryfavel
 curryfavour
 curriing
