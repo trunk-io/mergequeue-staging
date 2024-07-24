@@ -2151,7 +2151,6 @@ babylonia
 bankruptly
 bankruptlike
 bankrupts
-bankrupture
 banks
 banksia
 buzzgloak
@@ -12527,6 +12526,7 @@ bonos
 bons
 bonsela
 bebrine
+bankrupture
 brigantine
 bonser
 bonspell
