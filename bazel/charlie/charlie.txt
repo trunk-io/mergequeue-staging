@@ -23674,7 +23674,6 @@ chloralose
 continuity
 continuities
 continuos
-continuously
 ceratoglossus
 crazycat
 continuousness
@@ -29249,6 +29248,7 @@ criophore
 cryophoric
 criophoros
 cryophorus
+continuously
 cryoplankton
 cryoprotective
 crownband
