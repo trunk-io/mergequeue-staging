@@ -2354,7 +2354,6 @@ achordal
 achordata
 achras
 achroacyte
-achroanthes
 assertible
 achrodextrinase
 achroglobin
@@ -20664,6 +20663,7 @@ arthroplastic
 arthropleura
 arthropleure
 arthropod
+achroanthes
 arthropoda
 arthropodal
 alamos
