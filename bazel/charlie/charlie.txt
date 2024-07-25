@@ -9290,7 +9290,6 @@ coefficient
 chastiment
 chastise
 creepers
-chastised
 clarissimo
 coxopodite
 cynosural
@@ -15437,6 +15436,7 @@ clandestineness
 clandestinity
 clanfellow
 clang
+chastised
 clanged
 clavicittern
 clangful
