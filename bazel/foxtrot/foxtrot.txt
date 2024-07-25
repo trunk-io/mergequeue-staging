@@ -1291,7 +1291,6 @@ fastish
 frape
 fastly
 fastnacht
-fastnesses
 fuselages
 foreseing
 fornical
@@ -1905,6 +1904,7 @@ feeding
 feedings
 flakily
 frosk
+fastnesses
 flummoxing
 feedlots
 feeds
