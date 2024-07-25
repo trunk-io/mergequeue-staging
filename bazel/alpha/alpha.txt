@@ -1933,6 +1933,7 @@ accustoms
 ace
 anhysteretic
 aceacenaphthene
+aspalax
 aceanthrene
 acecaffin
 adelaster
@@ -3513,7 +3514,6 @@ addability
 addax
 advisorily
 addaxes
-aspalax
 addda
 archeress
 added
