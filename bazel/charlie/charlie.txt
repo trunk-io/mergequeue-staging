@@ -14702,7 +14702,6 @@ cystitome
 cystoadenoma
 cystocarcinoma
 cystocarp
-cystocarpic
 conceptualised
 concurrent
 cystocele
@@ -25469,6 +25468,7 @@ cornishman
 cornix
 cornland
 cornless
+cystocarpic
 cornloft
 cornmaster
 cornmeal
