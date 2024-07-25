@@ -707,7 +707,6 @@ bacteriform
 bacterioagglutinin
 battercake
 botchier
-biotypes
 bacterioblast
 brachistocephalic
 bacteriocidal
@@ -15826,6 +15825,7 @@ balsameaceae
 barish
 blackcurrant
 blepharochalasis
+biotypes
 bromocresol
 bromodeoxyuridine
 berhymed
