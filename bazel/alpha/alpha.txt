@@ -5168,7 +5168,6 @@ aerosteam
 aerotaxis
 aerotechnical
 aerotechnics
-aerotherapeutics
 aerotherapy
 aerothermodynamics
 aerotonometer
@@ -20041,6 +20040,7 @@ armories
 antherozooid
 armoring
 accusatorial
+aerotherapeutics
 armorplated
 armorproof
 approbativeness
