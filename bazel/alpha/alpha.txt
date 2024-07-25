@@ -1173,7 +1173,6 @@ absvolt
 archipresbyter
 abt
 abterminal
-abthainry
 affiant
 abthainrie
 abtruse
@@ -7827,6 +7826,7 @@ aldoside
 aldosterone
 aldosteronism
 aldrin
+abthainry
 arthritism
 aldrovanda
 aldus
