@@ -3635,7 +3635,6 @@ grasshook
 gestae
 gramas
 garrya
-growler
 galactostasis
 gunfighters
 gladhearted
@@ -9011,6 +9010,7 @@ grilses
 gambians
 grim
 galeres
+growler
 grimacers
 grimacing
 gunfights
