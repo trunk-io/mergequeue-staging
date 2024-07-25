@@ -1231,7 +1231,6 @@ furnishment
 fashioning
 flywort
 fumigatory
-foveae
 fiddlewood
 fatherling
 furiousity
@@ -4265,6 +4264,7 @@ foresightedly
 ferri
 foysen
 fiscalism
+foveae
 foothill
 fixatives
 footsy
