@@ -9322,7 +9322,6 @@ bavin
 birchbark
 brittlestem
 birched
-birchen
 bircher
 bacchical
 braggat
@@ -9355,6 +9354,7 @@ birde
 brokers
 blastogenetic
 beboss
+birchen
 blithely
 bealtine
 birdeen
