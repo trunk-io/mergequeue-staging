@@ -695,7 +695,6 @@ dampnesses
 dampproof
 destinezite
 dampproofer
-dampproofing
 damps
 damselfly
 diligently
@@ -17041,6 +17040,7 @@ demons
 dressier
 dressiest
 decil
+dampproofing
 davy
 donnybrook
 diatomine
