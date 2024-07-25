@@ -2903,7 +2903,6 @@ fewnesses
 followings
 fewter
 fezes
-fanterie
 fezzan
 fregata
 fezzed
@@ -2911,6 +2910,7 @@ facets
 fezziwig
 fgrid
 flunkeys
+fanterie
 fiacre
 flatbed
 fastback
