@@ -576,7 +576,6 @@ ges
 girly
 griddlecake
 galliardize
-galliardness
 galliards
 girning
 governing
@@ -4013,6 +4012,7 @@ graphanalysis
 giddyhead
 gladiest
 giddying
+galliardness
 grecing
 gidgea
 given
