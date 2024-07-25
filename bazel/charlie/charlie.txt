@@ -16767,6 +16767,7 @@ clothesman
 creaser
 clothesmen
 clothespin
+copps
 clothespins
 clothespress
 clothespresses
@@ -24780,7 +24781,6 @@ coppled
 coppling
 coppra
 coppras
-copps
 copr
 copra
 copraemia
