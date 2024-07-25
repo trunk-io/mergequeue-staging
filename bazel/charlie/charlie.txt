@@ -17645,7 +17645,6 @@ coccobaccilli
 coccochromatic
 coccogone
 coccogoneae
-coccogonium
 cubbyhouse
 coccoid
 coccoidal
@@ -18517,6 +18516,7 @@ cohibition
 cohibitive
 coattailed
 cohibitor
+coccogonium
 calculative
 cantata
 chemiotaxis
