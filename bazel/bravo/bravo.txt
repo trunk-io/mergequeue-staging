@@ -3293,7 +3293,6 @@ basins
 bandaite
 basioccipital
 bearability
-basion
 bepelt
 bromide
 biestings
@@ -5132,6 +5131,7 @@ bandied
 bilgy
 blastomas
 blateration
+basion
 befurred
 bounding
 begalled
