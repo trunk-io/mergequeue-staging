@@ -8770,7 +8770,6 @@ fossed
 fomentation
 fosses
 frappe
-frayn
 fosset
 fossette
 fossettes
@@ -9406,6 +9405,7 @@ flagitious
 frantic
 frantically
 fumelike
+frayn
 freeloading
 flybook
 favourer
