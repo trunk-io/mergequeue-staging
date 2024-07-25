@@ -4878,7 +4878,6 @@ fellsman
 farthermore
 flancard
 fourberie
-flanchard
 flanche
 flanconnade
 flandowser
@@ -10434,6 +10433,7 @@ frontons
 flasker
 flexuously
 fluoridations
+flanchard
 francium
 fellic
 frontoorbital
