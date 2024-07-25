@@ -578,7 +578,6 @@ echinoderidae
 echinoderma
 echinodermal
 echinodermata
-explorer
 ergotoxine
 echinodermatous
 echinodermic
@@ -2847,6 +2846,7 @@ electrographite
 elocute
 endogeny
 epinard
+explorer
 elfic
 educative
 ennew

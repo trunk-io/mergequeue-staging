@@ -8715,7 +8715,6 @@ diaskeuast
 dogmen
 diaspidinae
 demihaque
-dwarfism
 diaspinae
 diaspine
 diaspirin
@@ -18146,6 +18145,7 @@ dump
 dumpage
 doorkeeper
 dumpcart
+dwarfism
 dumpcarts
 dumped
 dumper
