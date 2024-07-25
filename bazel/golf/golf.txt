@@ -4954,6 +4954,7 @@ genteelish
 georgian
 gyte
 gravamen
+grapsidae
 gith
 guyed
 gitksan
@@ -8242,7 +8243,6 @@ grappled
 gallooned
 grappling
 gableboard
-grapsidae
 grapsus
 gorgeable
 glutimate
