@@ -2589,7 +2589,6 @@ decolorimeter
 decoloring
 decolorisation
 decolorise
-dipus
 dollbeer
 decoloriser
 decolorising
@@ -2687,6 +2686,7 @@ decoct
 deconsecration
 deconsider
 doffing
+dipus
 deconsideration
 decontaminated
 decontaminations
