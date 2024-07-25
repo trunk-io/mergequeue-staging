@@ -533,7 +533,6 @@ faliscan
 fluidize
 falk
 faut
-foreshadows
 florets
 falkland
 fall
@@ -7361,6 +7360,7 @@ flagman
 forbore
 forborne
 forbruise
+foreshadows
 forbs
 formalised
 forcat
