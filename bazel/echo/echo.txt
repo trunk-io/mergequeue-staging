@@ -3544,7 +3544,6 @@ embosked
 epidialogue
 elephantoidal
 educables
-embosking
 embosks
 emotionalised
 erythrophyll
@@ -5036,6 +5035,7 @@ endleaf
 endleaves
 endless
 endlessly
+embosking
 electroplating
 endlichite
 etherealize
