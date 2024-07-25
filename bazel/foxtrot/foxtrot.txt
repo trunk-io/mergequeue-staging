@@ -6479,6 +6479,7 @@ flurn
 flaxbird
 flapped
 flurr
+fluxation
 founder
 flurried
 flurriedly
@@ -6593,7 +6594,6 @@ formalization
 frenchy
 falla
 flux
-fluxation
 fluxed
 fluxes
 ferromagnetic
