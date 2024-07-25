@@ -2263,7 +2263,6 @@ effleurage
 eutaxite
 electrican
 electrician
-electricians
 electricity
 electricize
 eupotamic
@@ -6414,6 +6413,7 @@ enantiotropy
 ensisternum
 enskied
 enskies
+electricians
 enskying
 exterioration
 enslaved
