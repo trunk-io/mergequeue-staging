@@ -3360,7 +3360,6 @@ defix
 deflagrable
 duplicando
 deflagrated
-deflagrates
 deflagrating
 deflagration
 deflagrator
@@ -14557,6 +14556,7 @@ divulgator
 deambulatory
 divulge
 divulged
+deflagrates
 divulgence
 deltic
 divulgences
