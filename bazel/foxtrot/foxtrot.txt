@@ -6165,7 +6165,6 @@ flowerless
 frivolers
 frettage
 flowerlessness
-flowerlike
 flowerpot
 flowerpots
 flowerwork
@@ -8920,6 +8919,7 @@ foundationer
 ferdiad
 fussiest
 forestcraft
+flowerlike
 finewed
 foundationlessness
 foundations
