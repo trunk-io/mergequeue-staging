@@ -2539,7 +2539,6 @@ deprecable
 discoursively
 decoder
 decoders
-decodes
 dispiriting
 dominantly
 decoding
@@ -15158,6 +15157,7 @@ dolente
 dolentissimo
 dolently
 dewatering
+decodes
 dolerin
 drydenian
 dolerites
