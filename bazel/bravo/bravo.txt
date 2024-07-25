@@ -1163,6 +1163,7 @@ bairntime
 blastopore
 bairnwort
 baisemain
+bowable
 boardable
 baysmelt
 bait
@@ -12443,7 +12444,6 @@ bonfires
 bonging
 bongoes
 bongoist
-bowable
 bongrace
 bineweed
 beeregar
