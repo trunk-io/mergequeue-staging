@@ -8827,7 +8827,6 @@ greit
 greyware
 greking
 gremial
-gremials
 gnathostomata
 gremlin
 gremlins
@@ -10429,6 +10428,7 @@ gastrocoloptosis
 geographic
 galatic
 gunter
+gremials
 gramophonist
 garbing
 governorate
