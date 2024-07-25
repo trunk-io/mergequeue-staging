@@ -3036,6 +3036,7 @@ daker
 deerskin
 doggrel
 deerstalker
+dysnomy
 deerstalking
 deerstand
 deertongue
@@ -5664,7 +5665,6 @@ dependency
 dependencies
 dosimeters
 diatrymiformes
-dysnomy
 doketic
 depending
 dependingly
