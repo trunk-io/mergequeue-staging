@@ -2899,6 +2899,7 @@ cantraps
 cantred
 cantref
 chilopods
+conglutinative
 cantrip
 cantrips
 coveting
@@ -29712,7 +29713,6 @@ croyden
 croydon
 chiasmus
 croiik
-conglutinative
 croyl
 crois
 croisad
