@@ -4179,6 +4179,7 @@ boordly
 brattier
 beaujolais
 beaume
+balancement
 bevomits
 bedeguar
 beaumont
@@ -12609,7 +12610,6 @@ bismuth
 bolus
 batiste
 bookishness
-balancement
 blobbed
 bivious
 bulchin
