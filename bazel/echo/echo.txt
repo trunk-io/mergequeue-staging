@@ -6265,6 +6265,7 @@ eogaea
 enrichments
 ephebeum
 epsilon
+ephemerid
 exauthorate
 episynthetic
 enridged
@@ -7468,7 +7469,6 @@ ephemeras
 editchar
 engluts
 ephemeric
-ephemerid
 enoint
 emotiomuscular
 ephemerida
