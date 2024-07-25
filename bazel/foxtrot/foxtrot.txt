@@ -10450,6 +10450,7 @@ frictionally
 fcy
 fronts
 frontspieces
+futharc
 facete
 fronture
 froom
@@ -11676,7 +11677,6 @@ flying
 fute
 faithed
 forespeed
-futharc
 foreshowing
 fernwort
 futhark
