@@ -5281,6 +5281,7 @@ beguilement
 beguilements
 beguiler
 beguilers
+bankrupture
 burrio
 beadsman
 beguilingly
@@ -12531,7 +12532,6 @@ bonos
 bons
 bonsela
 bebrine
-bankrupture
 brigantine
 bonser
 bonspell
