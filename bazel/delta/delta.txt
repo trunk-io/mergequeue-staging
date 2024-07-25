@@ -2774,7 +2774,6 @@ dunkled
 decrements
 decrepit
 decrepitate
-decrepitating
 decrepitation
 decrepitness
 decreptitude
@@ -17902,6 +17901,7 @@ dudleyite
 dudler
 daybook
 dudman
+decrepitating
 duds
 dextromanual
 due
