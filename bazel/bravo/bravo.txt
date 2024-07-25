@@ -2898,7 +2898,6 @@ barquantine
 barque
 bogberry
 barques
-barquest
 bedust
 bellicosities
 brassards
@@ -14291,6 +14290,7 @@ balbuties
 brainily
 braininess
 bumming
+barquest
 brisement
 braining
 bikkurim
