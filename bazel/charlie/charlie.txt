@@ -6894,7 +6894,6 @@ caboclos
 celtophobe
 celtophobia
 celts
-celtuce
 celure
 cembali
 cembalon
@@ -20292,6 +20291,7 @@ commonefaction
 commoney
 commoner
 commoners
+celtuce
 curupira
 commonership
 columbus
