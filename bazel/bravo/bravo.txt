@@ -4082,7 +4082,6 @@ bearings
 buffeter
 bearish
 bookstall
-bankfull
 bearlet
 bellower
 bearnaise
@@ -5154,6 +5153,7 @@ bowedness
 begetters
 blowfish
 begetting
+bankfull
 bromobenzene
 bottu
 bromals
