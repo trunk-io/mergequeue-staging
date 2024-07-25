@@ -2649,6 +2649,7 @@ decomposer
 derog
 decomposers
 decomposes
+dinornis
 dehache
 decomposition
 decapod
@@ -10325,7 +10326,6 @@ dinoflagellida
 dinomic
 dinophyceae
 dinophilus
-dinornis
 dinornithes
 discontinuance
 dinornithiformes
