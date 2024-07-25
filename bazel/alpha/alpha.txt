@@ -15010,7 +15010,6 @@ autoagglutination
 anticlea
 anticlergy
 anticlerical
-anticly
 anticlimactic
 anticlimactically
 anticlimax
@@ -23290,6 +23289,7 @@ audaean
 audibertia
 audibility
 audible
+anticly
 audibly
 audience
 audiencer
