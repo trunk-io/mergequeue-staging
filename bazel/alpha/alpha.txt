@@ -5607,7 +5607,6 @@ abaters
 afrormosia
 alkine
 afros
-afrown
 afshah
 aftaba
 amberous
@@ -7558,6 +7557,7 @@ albuminiferous
 acyanoblepsia
 albuminiform
 albuminimeter
+afrown
 albuminiparous
 albuminised
 abed
