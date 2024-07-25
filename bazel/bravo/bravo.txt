@@ -6980,7 +6980,6 @@ besmirchers
 besmoked
 besmokes
 bath
-besmoking
 besmooth
 besmoothed
 besmoothing
@@ -14365,6 +14364,7 @@ brakesmen
 braky
 brakie
 brakiest
+besmoking
 braking
 brokership
 bedevils
