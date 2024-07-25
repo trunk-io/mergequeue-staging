@@ -6236,7 +6236,6 @@ benthic
 banchi
 benthon
 bridleman
-benthopelagic
 benthos
 brigandage
 biolyses
@@ -12808,6 +12807,7 @@ boozier
 boozily
 booziness
 batholite
+benthopelagic
 boozing
 bop
 batture
