@@ -8122,7 +8122,6 @@ besquib
 bidree
 bidry
 bidstand
-batikulin
 bye
 brinny
 bieberite
@@ -9924,6 +9923,7 @@ bertolonia
 bivalvian
 bivalvous
 backlog
+batikulin
 bivane
 bivariant
 bivariate
