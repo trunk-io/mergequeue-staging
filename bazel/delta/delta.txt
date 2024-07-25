@@ -7360,7 +7360,6 @@ detickers
 deticking
 deticks
 despotisms
-detin
 detinue
 detinuit
 detn
@@ -15333,6 +15332,7 @@ domesdays
 domesticate
 domesticated
 domesticates
+detin
 domesticating
 domesticative
 diagnostic
