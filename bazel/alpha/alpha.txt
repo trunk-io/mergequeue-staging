@@ -6801,7 +6801,6 @@ acatallactic
 albumean
 agreements
 ailurophilic
-ailurophobe
 ailurophobia
 aracana
 afric
@@ -10398,6 +10397,7 @@ arranger
 annonce
 argumentatory
 amiant
+ailurophobe
 amianth
 amianthiform
 amianthine
