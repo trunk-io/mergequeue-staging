@@ -2580,7 +2580,6 @@ electropuncturing
 embarrass
 electroreceptive
 electroreduction
-electragist
 electrorefining
 electroretinograph
 endorsation
@@ -13598,6 +13597,7 @@ eigenvalues
 exinanite
 extent
 epistropheus
+electragist
 embeam
 extents
 expiated
