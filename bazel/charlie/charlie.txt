@@ -3425,7 +3425,6 @@ caput
 costotomy
 catenoid
 caque
-caquet
 caqueterie
 corroboree
 caqueteuse
@@ -8352,6 +8351,7 @@ classroom
 chalcomenite
 chalcon
 chalcophile
+caquet
 chalcopyrite
 chalcosine
 centralised
