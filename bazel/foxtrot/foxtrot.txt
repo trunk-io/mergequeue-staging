@@ -2846,6 +2846,7 @@ feuilletonism
 feuilletons
 farfel
 floccilation
+fodient
 freckle
 fleches
 fiedlerite
@@ -6666,7 +6667,6 @@ foddering
 fodderless
 foder
 fodgel
-fodient
 foe
 fustiest
 frangibility
