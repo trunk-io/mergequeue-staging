@@ -4260,6 +4260,7 @@ density
 delobranchiata
 delocalisation
 delocalised
+dewater
 delocalising
 disputant
 delocalization
@@ -18017,7 +18018,6 @@ dulcets
 dropsical
 discide
 dulcify
-dewater
 dulcified
 dulcigenic
 dilutedly
