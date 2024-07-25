@@ -6862,7 +6862,6 @@ celoscope
 celosia
 celosias
 cobaltiferous
-celotomy
 celotomies
 celsia
 celsian
@@ -10628,6 +10627,7 @@ chilli
 catchplate
 crank
 chilly
+celotomy
 circination
 chillies
 chilliest
