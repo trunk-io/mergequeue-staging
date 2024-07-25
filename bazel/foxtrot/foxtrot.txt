@@ -2820,7 +2820,6 @@ feathering
 filarees
 fingerfishes
 feudalists
-feudality
 foredoing
 feudalities
 forelock
@@ -8608,6 +8607,7 @@ fanlike
 fortes
 fortescue
 flasket
+feudality
 fortescure
 furcae
 fraxinus
