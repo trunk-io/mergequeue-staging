@@ -5790,6 +5790,7 @@ ghylls
 gaviae
 gahrwali
 geoplagiotropism
+gradable
 globules
 globulet
 globulicide
@@ -7629,7 +7630,6 @@ gorer
 garboard
 grackles
 graculus
-gradable
 gradate
 gradating
 grisping
