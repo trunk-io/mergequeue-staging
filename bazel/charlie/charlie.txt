@@ -18462,7 +18462,6 @@ coguarantor
 coguardian
 cogue
 cogways
-cogweel
 cogweels
 cogwheels
 cogwood
@@ -25720,6 +25719,7 @@ corradiate
 corradiating
 corradiation
 corrading
+cogweel
 corral
 corralled
 corralling
