@@ -16445,7 +16445,6 @@ downweight
 downweighted
 downwind
 dogma
-dowp
 dowress
 dowries
 dows
@@ -17401,6 +17400,7 @@ dwining
 disinfectant
 droppage
 dropped
+dowp
 droppers
 dropping
 dorab
