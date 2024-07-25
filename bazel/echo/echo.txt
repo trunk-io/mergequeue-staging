@@ -1061,7 +1061,6 @@ ephorship
 edgeboned
 endovaccination
 edged
-edgemaker
 edgemaking
 edgeman
 edger
@@ -5624,6 +5623,7 @@ enfranchisements
 enfranchises
 echinoderm
 enfree
+edgemaker
 embosses
 estampedero
 enfrenzy
