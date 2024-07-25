@@ -4717,7 +4717,6 @@ encinctured
 encinillo
 elkhorn
 emforth
-encipher
 enciphered
 enciphering
 encipherment
@@ -13674,6 +13673,7 @@ externalness
 evolvements
 externals
 electrostereotype
+encipher
 epitrochoidal
 externes
 extenuatingly
