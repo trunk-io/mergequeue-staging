@@ -7743,7 +7743,6 @@ devisable
 devisal
 deviscerate
 devise
-devised
 dressership
 disparager
 dubitatingly
@@ -16883,6 +16882,7 @@ drawrod
 drawshave
 drawsheet
 drawspan
+devised
 drawspring
 drawstop
 dinoceratid
