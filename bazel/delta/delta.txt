@@ -5706,7 +5706,6 @@ dephlogisticated
 depickle
 depict
 dechloridizing
-depicted
 denuclearize
 depicters
 depicting
@@ -18424,6 +18423,7 @@ durably
 durain
 duramater
 delit
+depicted
 dollfish
 debatably
 duramens
