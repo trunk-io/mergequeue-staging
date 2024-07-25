@@ -1585,7 +1585,6 @@ gore
 gasolines
 gasolinic
 gasometry
-gasometric
 gasometrically
 gasp
 gingivalgia
@@ -8502,6 +8501,7 @@ gravimetrical
 grimmia
 geminis
 gravimetrically
+gasometric
 getups
 glozes
 gelid
