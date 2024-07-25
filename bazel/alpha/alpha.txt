@@ -6417,7 +6417,6 @@ agostadero
 agouara
 agouties
 agoutis
-agpaite
 agpaitic
 agr
 agra
@@ -12940,6 +12939,7 @@ anglist
 aneuria
 anglo
 anglogaean
+agpaite
 angloid
 anglomane
 anglomania
