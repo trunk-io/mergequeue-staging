@@ -6272,6 +6272,7 @@ fluidization
 fluidized
 flotations
 freewheel
+fustigator
 finitude
 fileted
 fiesta
@@ -11651,7 +11652,6 @@ footmarks
 fustigating
 flockbed
 fearedness
-fustigator
 fustilarian
 fustily
 fabricate
