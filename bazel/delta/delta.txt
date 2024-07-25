@@ -7263,7 +7263,6 @@ detector
 doxa
 detects
 deductions
-detenant
 detentes
 detention
 detentive
@@ -7921,6 +7920,7 @@ dewberry
 dewcap
 dewclawed
 didgeridoo
+detenant
 dewcup
 dewdamp
 dewdrop
