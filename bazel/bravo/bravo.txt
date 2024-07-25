@@ -1025,7 +1025,6 @@ bombycillidae
 beings
 bahuts
 bubalis
-bahutu
 belligerencies
 bahuvrihi
 bahuvrihis
@@ -17408,6 +17407,7 @@ bunkermen
 bunkhouse
 bunkie
 bini
+bahutu
 bartramian
 bunking
 breathes
