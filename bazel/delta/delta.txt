@@ -3726,6 +3726,7 @@ dehydrogenisation
 dodecahedra
 dehydrogenised
 dehydrogenising
+draughtboard
 distater
 dehydrogenization
 disbench
@@ -16785,7 +16786,6 @@ dissipates
 drats
 dratting
 diathermometer
-draughtboard
 draughted
 drooping
 draughty
