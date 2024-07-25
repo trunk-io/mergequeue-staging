@@ -5141,7 +5141,6 @@ aerosols
 acosmic
 aerosphere
 aerosporin
-aerostat
 aerostatic
 anthracomartian
 aerostatical
@@ -17469,6 +17468,7 @@ apothecaryship
 apothece
 apotheces
 apothecia
+aerostat
 apothecial
 apothecium
 amara
