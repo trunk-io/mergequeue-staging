@@ -5178,7 +5178,6 @@ glamorizing
 gutty
 geology
 genetic
-glamorous
 geothermometer
 glamorously
 glamorousness
@@ -8633,6 +8632,7 @@ group
 greekdom
 gallantry
 greenfish
+glamorous
 greekery
 greekess
 greekism
