@@ -8845,7 +8845,6 @@ biobibliographic
 bioblast
 bioblastic
 bilateralism
-biocatalytic
 biocellate
 biocenosis
 biocentric
@@ -14276,6 +14275,7 @@ brailling
 bargeese
 braillist
 brails
+biocatalytic
 brain
 brainache
 braids
