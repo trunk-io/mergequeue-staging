@@ -3938,6 +3938,7 @@ eels
 emissi
 eudialyte
 emission
+ejicient
 emissive
 echoic
 emissory
@@ -9344,7 +9345,6 @@ erroneously
 erroneousness
 error
 errordump
-ejicient
 errorful
 electrothermally
 errorist
