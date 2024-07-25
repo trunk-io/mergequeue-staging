@@ -7045,7 +7045,6 @@ centena
 canadians
 centenary
 centenarians
-cerviconasal
 centenaries
 centenionales
 cytaster
@@ -14881,6 +14880,7 @@ chasmy
 curn
 citywide
 connaturalize
+cerviconasal
 citizen
 citizendom
 citizeness
