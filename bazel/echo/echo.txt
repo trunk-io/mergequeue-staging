@@ -3905,6 +3905,7 @@ emigrate
 emigrating
 enfever
 emigrationist
+evocation
 emigrator
 emigre
 emigres
@@ -11657,7 +11658,6 @@ endgame
 extrasystolic
 emerized
 evenhanded
-evocation
 exauctorate
 evocatively
 endorsors
