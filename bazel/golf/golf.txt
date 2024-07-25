@@ -6648,7 +6648,6 @@ goodly
 goldang
 goldarn
 gideonite
-goldarned
 goldbeater
 goldbeating
 genoblastic
@@ -10642,6 +10641,7 @@ gimmick
 guama
 gurle
 gurmukhi
+goldarned
 gurnard
 gigabits
 gog
