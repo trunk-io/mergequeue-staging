@@ -7894,7 +7894,6 @@ fingery
 fiberfill
 flagging
 foreshaft
-forestaller
 foreshank
 fathering
 firewoods
@@ -8918,6 +8917,7 @@ foundering
 foremistress
 fizzwater
 foundership
+forestaller
 forechoir
 forel
 fusicladium
