@@ -3653,7 +3653,6 @@ fillock
 forewent
 fortieths
 filmable
-filmcard
 filmcards
 furoin
 fleeching
@@ -8247,6 +8246,7 @@ ferinely
 forjudged
 fluxmeter
 fileable
+filmcard
 frith
 forestick
 frey
