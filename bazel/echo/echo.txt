@@ -7797,7 +7797,6 @@ epidural
 epifascial
 epifaunae
 equisurface
-eyebeam
 epifaunas
 emulate
 escobilla
@@ -8230,6 +8229,7 @@ episkeletal
 episodes
 episodic
 episodical
+eyebeam
 episodically
 elaeosia
 enthrallingly
