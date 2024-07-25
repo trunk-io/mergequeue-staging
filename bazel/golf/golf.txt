@@ -775,7 +775,6 @@ galvanocautery
 galvanocauteries
 gedder
 galvanoglyph
-gatekeeper
 gentilish
 goldylocks
 gradations
@@ -1074,6 +1073,7 @@ gybed
 globigerinidae
 glossodynia
 gangliasthenia
+gatekeeper
 gangliate
 gangliectomy
 ganglier
