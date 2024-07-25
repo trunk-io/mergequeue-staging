@@ -3236,6 +3236,7 @@ actious
 actipylea
 actium
 activated
+anoxic
 activates
 activating
 antifreezing
@@ -13983,7 +13984,6 @@ achter
 anoxias
 anoxybiosis
 anoxybiotic
-anoxic
 anoxidative
 anre
 aviso
