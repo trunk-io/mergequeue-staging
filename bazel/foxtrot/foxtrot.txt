@@ -6965,7 +6965,6 @@ frailest
 fonctionnaire
 fleets
 fond
-fondaco
 fondant
 fondants
 fraena
@@ -11331,6 +11330,7 @@ fetwa
 flams
 furcellate
 figural
+fondaco
 furciferous
 furcilia
 fawning
