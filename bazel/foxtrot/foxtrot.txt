@@ -1365,7 +1365,6 @@ fathom
 foresaying
 frizing
 fluorophosphate
-fathomable
 fathomed
 fathomer
 fellani
@@ -4164,6 +4163,7 @@ fmt
 faufel
 fireside
 followup
+fathomable
 forestalled
 firespout
 firestone
