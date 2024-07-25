@@ -1483,7 +1483,6 @@ dea
 deaccession
 deacetylated
 dirl
-deacetylation
 daintith
 deacidify
 deacidification
@@ -14305,6 +14304,7 @@ diurne
 diurnule
 diuron
 dewatered
+deacetylation
 diurons
 dyscrasing
 diuturnity
