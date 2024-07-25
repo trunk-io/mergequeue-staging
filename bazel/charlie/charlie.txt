@@ -5778,6 +5778,7 @@ catechists
 catechization
 catechize
 catechized
+concetti
 catechizer
 catechizes
 cyclostomate
@@ -21363,7 +21364,6 @@ concessor
 cheiropody
 coliplication
 concessory
-concetti
 concettism
 concetto
 concha
