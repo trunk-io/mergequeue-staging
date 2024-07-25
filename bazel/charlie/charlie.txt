@@ -7078,7 +7078,6 @@ commendatary
 centerfold
 centerfolds
 centering
-centerline
 centermost
 centerpiece
 centerpieces
@@ -10493,6 +10492,7 @@ chiffchaff
 conversibility
 chiffer
 cynocephalus
+centerline
 chiffon
 chiffonade
 chifferobe
