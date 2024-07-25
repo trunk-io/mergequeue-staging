@@ -6621,7 +6621,6 @@ celestine
 ceiled
 ceilers
 ceilidh
-ceilingward
 chlorapatite
 certosa
 ceylon
@@ -16939,6 +16938,7 @@ clubmobile
 clubmonger
 chirpers
 clubroom
+ceilingward
 clubroot
 compar
 clubroots
