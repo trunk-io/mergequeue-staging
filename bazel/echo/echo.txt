@@ -6648,6 +6648,7 @@ ewelease
 eyeblink
 enterons
 enteroparalysis
+efflorescence
 enteroparesis
 enteropathy
 enteropathogenic
@@ -12556,7 +12557,6 @@ exigible
 exiguity
 exiguousness
 exilarch
-efflorescence
 endarchies
 exilarchate
 exile
