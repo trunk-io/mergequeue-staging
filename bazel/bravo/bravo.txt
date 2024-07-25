@@ -3822,7 +3822,6 @@ bawcock
 bawcocks
 bawd
 bawdier
-bawdies
 bagwoman
 bawdiest
 barkhan
@@ -5524,6 +5523,7 @@ belard
 barricos
 belat
 barranca
+bawdies
 belate
 belatedly
 belatedness
