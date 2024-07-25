@@ -4905,7 +4905,6 @@ gyroplane
 gastropneumatic
 gazers
 gyroscopes
-gyred
 gyroscopic
 glutetei
 guarded
@@ -5416,6 +5415,7 @@ guardful
 gribbles
 gleization
 glendover
+gyred
 glene
 gauntly
 glengarries

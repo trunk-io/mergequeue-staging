@@ -19447,7 +19447,6 @@ curiologics
 colored
 coloreds
 colorer
-colorers
 colorfastness
 colorful
 cryopathy
@@ -27172,6 +27171,7 @@ countershout
 counterside
 counterstream
 countersign
+colorers
 choroiditis
 countersignatures
 countersigned
