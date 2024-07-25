@@ -1191,6 +1191,7 @@ ganoses
 groundkeeper
 gawks
 globoseness
+getter
 guacos
 gansa
 glaceing
@@ -2933,7 +2934,6 @@ gyrophora
 garnishes
 grasped
 girderage
-getter
 galvanocontractility
 genos
 galeopsis
