@@ -3365,7 +3365,6 @@ fiftieth
 fiftyfold
 forebow
 fiftypenny
-figaro
 figeter
 figgery
 fee
@@ -3580,6 +3579,7 @@ flammigerous
 filigerous
 fordam
 fridstool
+figaro
 filigrain
 fanged
 filigreed
