@@ -17198,7 +17198,6 @@ cornmonger
 coagency
 coagent
 coagitate
-coagitator
 cury
 coagment
 cetin
@@ -29057,6 +29056,7 @@ crimes
 curlicue
 criminalese
 criminalism
+coagitator
 criminalistic
 criminalistician
 criminalistics
