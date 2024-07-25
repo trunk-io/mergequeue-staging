@@ -2922,7 +2922,6 @@ canulae
 canular
 canulas
 canulated
-chorioallantoic
 canulates
 canulating
 canun
@@ -7673,6 +7672,7 @@ cerebron
 cerebronic
 cerebroparietal
 cerebropedal
+chorioallantoic
 cerebrophysiology
 cerebropsychosis
 cerebrosclerosis
