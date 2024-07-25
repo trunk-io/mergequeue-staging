@@ -4641,7 +4641,6 @@ enchasten
 evolver
 emergently
 encheat
-encheck
 encheer
 encheiria
 endia
@@ -10721,6 +10720,7 @@ exacervation
 eucosmidae
 eucrasy
 eucrasia
+encheck
 efficaciousness
 epitheton
 elfhood
