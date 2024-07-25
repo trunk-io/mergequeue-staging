@@ -5652,7 +5652,6 @@ grabble
 glis
 guaiaconic
 gospelize
-glisk
 glisky
 glissader
 gluttonish
@@ -10451,6 +10450,7 @@ gumption
 gumptionless
 gasogene
 gibbon
+glisk
 gumptious
 gumpus
 gentler
