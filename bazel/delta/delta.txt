@@ -17921,7 +17921,6 @@ duelli
 duellist
 dinarchy
 duellize
-demobs
 duello
 dollier
 duellos
@@ -18400,6 +18399,7 @@ duplicitous
 duplicitously
 duplify
 duplification
+demobs
 duplified
 duplifying
 duplone
