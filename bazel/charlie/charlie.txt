@@ -7096,7 +7096,6 @@ centetid
 corporateness
 circumradii
 centgener
-centi
 centiar
 centiare
 crimeproof
@@ -25372,6 +25371,7 @@ cornbrash
 cornbread
 cyanize
 corncakes
+centi
 corncob
 corncobs
 corncracker
