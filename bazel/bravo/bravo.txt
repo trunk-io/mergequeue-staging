@@ -11287,7 +11287,6 @@ bluebush
 bluebutton
 bulak
 bluecaps
-bluecoat
 bluecoated
 bluecoats
 bluecup
@@ -15117,6 +15116,7 @@ bricklayer
 bricklayers
 brickleness
 brickly
+bluecoat
 berain
 bricklining
 brickmaker
