@@ -1108,6 +1108,7 @@ glamourie
 gez
 grabs
 gangman
+gooseweed
 garnets
 gyrocompass
 gangplanks
@@ -7162,7 +7163,6 @@ goosery
 gooserumped
 gooses
 gooseskin
-gooseweed
 goosewing
 glittering
 garoter

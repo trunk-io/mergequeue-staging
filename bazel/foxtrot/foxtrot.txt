@@ -1451,6 +1451,7 @@ foraging
 ferromagnetism
 fatting
 fattishness
+foamily
 flamboyantism
 frees
 fattrels
@@ -6482,7 +6483,6 @@ flurrying
 flurt
 flush
 flushable
-foamily
 fictionisation
 flushboard
 flushed
