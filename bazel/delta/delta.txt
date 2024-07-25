@@ -3524,7 +3524,6 @@ deftnesses
 defunct
 drillbit
 defunctionalization
-dissect
 dialled
 defuse
 defuses
@@ -14171,6 +14170,7 @@ disvaluing
 discographically
 disventure
 disvisor
+dissect
 disvoice
 disvouch
 disvulnerability
