@@ -4032,7 +4032,6 @@ flosculariidae
 flyball
 frameable
 fique
-fumbulator
 fiques
 firbolg
 frimaire
@@ -6424,6 +6423,7 @@ foresleeve
 fluorination
 favissae
 frabjous
+fumbulator
 fluorindin
 faunas
 funambulatory
