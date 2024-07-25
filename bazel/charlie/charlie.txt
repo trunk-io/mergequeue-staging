@@ -11891,6 +11891,7 @@ chopboat
 chopdar
 chopfallen
 chophouse
+coleopttera
 chophouses
 chopin
 cereus
@@ -18847,7 +18848,6 @@ chosing
 coleoptile
 counterindoctrination
 coleoptilum
-coleopttera
 coleorhiza
 coleorhizae
 coleosporiaceae
