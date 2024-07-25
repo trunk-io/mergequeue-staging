@@ -1387,7 +1387,6 @@ garliclike
 grivets
 garlics
 galloner
-gibier
 gotos
 grabbed
 garlion
@@ -8673,6 +8672,7 @@ galvanizing
 greengrocers
 gametogony
 gladiatorism
+gibier
 glucoside
 greybeard
 greenheaded
