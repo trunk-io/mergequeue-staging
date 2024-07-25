@@ -10760,6 +10760,7 @@ coxcombs
 chimneyhead
 chimneyless
 chimneylike
+caner
 chimneyman
 chimneypiece
 chimneypot
@@ -21044,7 +21045,6 @@ compulsatively
 clangorous
 compulsatory
 cribbings
-caner
 compulsatorily
 compulse
 compulsed
