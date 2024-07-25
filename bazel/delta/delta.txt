@@ -1370,6 +1370,7 @@ dauting
 davach
 davallia
 doyennes
+ditrochean
 dave
 davened
 davening
@@ -14249,7 +14250,6 @@ ditriglyphic
 ditrocha
 dachs
 defaultant
-ditrochean
 divertive
 ditrochous
 distelfink
