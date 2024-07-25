@@ -1161,7 +1161,6 @@ gannets
 gannister
 guillotining
 greyly
-ganoblast
 ganocephala
 gadbush
 gnotobiotics
@@ -1830,6 +1829,7 @@ giggly
 gastrosoph
 gastrosopher
 granddad
+ganoblast
 gastrosophy
 grateman
 gastrospasm
