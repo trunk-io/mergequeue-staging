@@ -6563,7 +6563,6 @@ descendentalist
 descendents
 denumerant
 descender
-descenders
 dungon
 descendibility
 descendible
@@ -11389,6 +11388,7 @@ discerptible
 discerptibleness
 discerption
 diacid
+descenders
 divisibleness
 disturbing
 discourser
