@@ -11824,7 +11824,6 @@ chondromas
 chondromata
 chondromyces
 chondromyoma
-chondromyxoma
 chondromyxosarcoma
 chondromucoid
 chondropharyngeal
@@ -27003,6 +27002,7 @@ countermen
 countermessage
 countermigration
 cotonier
+chondromyxoma
 countermined
 countermissile
 countermission

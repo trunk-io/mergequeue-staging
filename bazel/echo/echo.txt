@@ -6277,7 +6277,6 @@ enrobement
 enrober
 enrobers
 elfin
-enrobes
 enrol
 enroll
 errantness
@@ -12995,6 +12994,7 @@ expediate
 earth
 encanthis
 expedience
+enrobes
 expediences
 eophytic
 englifier
