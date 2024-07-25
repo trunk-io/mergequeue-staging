@@ -17,7 +17,6 @@ fibriform
 fold
 fableland
 fablemaker
-fungian
 fablemongering
 fabler
 fablers
@@ -2528,6 +2527,7 @@ ferrohydrocyanic
 farles
 framesmith
 frustula
+fungian
 ferromagnesian
 ferromagnet
 ferromagneticism
