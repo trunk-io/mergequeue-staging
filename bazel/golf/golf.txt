@@ -2858,6 +2858,7 @@ gunbuilder
 grizzling
 genotype
 granulose
+gradative
 genotypical
 genotypically
 gauffered
@@ -5833,7 +5834,6 @@ glomeli
 glomera
 game
 georgical
-gradative
 geneticist
 glomerular
 gigglish
