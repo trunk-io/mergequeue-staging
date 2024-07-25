@@ -905,7 +905,6 @@ fanzines
 faon
 fapesmo
 faq
-foreshots
 far
 frognose
 folksong
@@ -7242,6 +7241,7 @@ footworks
 febricide
 fungating
 finance
+foreshots
 filosofe
 foozlers
 fumiferous
