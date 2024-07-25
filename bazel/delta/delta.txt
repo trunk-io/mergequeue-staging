@@ -13288,7 +13288,6 @@ disproof
 disproperty
 disproportion
 disproportionableness
-disproportionably
 disconnections
 disproportionality
 driftpins
@@ -14833,6 +14832,7 @@ documentational
 documentations
 documented
 documenter
+disproportionably
 documenters
 documenting
 documentize
