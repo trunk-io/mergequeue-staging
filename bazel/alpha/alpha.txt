@@ -3490,7 +3490,6 @@ adaty
 adatis
 adatom
 adaunt
-adawe
 afflue
 adawlut
 adawn
@@ -24513,6 +24512,7 @@ autoxidation
 aberrometer
 autoxidator
 autoxidizability
+adawe
 autoxidize
 anesthetizes
 antebellum
