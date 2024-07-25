@@ -12122,7 +12122,6 @@ cycadaceous
 cneoraceous
 chanceries
 choruslike
-chorusmaster
 chorussed
 calibers
 combinatorially
@@ -28685,6 +28684,7 @@ cremor
 cremorne
 cremosin
 curby
+chorusmaster
 capricorns
 ctenodactyl
 chamoisette
