@@ -2580,6 +2580,7 @@ fertilise
 fertilising
 fanfares
 fertility
+filariae
 fertilizability
 fixgig
 ferroprussiate
@@ -3471,7 +3472,6 @@ filao
 filar
 fowells
 fezzes
-filariae
 fundmongering
 fattily
 filariasis
