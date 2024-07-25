@@ -7033,6 +7033,7 @@ despouse
 dismissed
 despraise
 damascene
+diacritical
 despumated
 despumation
 drch
@@ -14146,7 +14147,6 @@ disuniter
 disuniters
 disunites
 disunity
-diacritical
 disunities
 dysury
 deltarium
