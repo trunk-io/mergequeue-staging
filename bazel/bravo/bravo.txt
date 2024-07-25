@@ -533,7 +533,6 @@ barroom
 backslide
 bacharach
 backslided
-bishopship
 blaspheming
 brigantia
 backslides
@@ -3697,6 +3696,7 @@ buckra
 batterman
 batteuse
 battier
+bishopship
 batties
 bardash
 battiest
