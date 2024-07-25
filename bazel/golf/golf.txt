@@ -701,7 +701,6 @@ geogonic
 gallophobe
 gallops
 geotherm
-gasthauses
 grottoed
 griming
 gallotannin
@@ -1357,6 +1356,7 @@ gimps
 gastrodialysis
 gargled
 groinery
+gasthauses
 gravemaker
 gargoyle
 glycide
