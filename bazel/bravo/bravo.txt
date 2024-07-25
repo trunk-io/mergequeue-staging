@@ -2128,7 +2128,6 @@ becurl
 bankbook
 bankcard
 banker
-burghership
 botulisms
 bankera
 balmier
@@ -17530,6 +17529,7 @@ burdener
 boothose
 burdenless
 burdenous
+burghership
 burdens
 bobadilish
 burdensome
