@@ -2016,7 +2016,6 @@ bandos
 badmouthed
 bandpass
 bandrol
-brisling
 brachyura
 bandsaw
 bandsawed
@@ -5812,6 +5811,7 @@ belonid
 burdigalian
 belonidae
 belonite
+brisling
 belonoid
 breedling
 bartonia
