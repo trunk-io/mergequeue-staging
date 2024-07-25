@@ -1511,6 +1511,7 @@ balkiness
 balkis
 balkline
 baryton
+bravers
 balklines
 balks
 ball
@@ -14646,7 +14647,6 @@ braver
 bravery
 boschboks
 bourgade
-bravers
 braves
 bissabol
 brouille
