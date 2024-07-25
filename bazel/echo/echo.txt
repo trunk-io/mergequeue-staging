@@ -1201,7 +1201,6 @@ emprise
 entozoic
 educes
 equiperiodic
-educible
 educive
 educt
 elytrostenosis
@@ -13292,6 +13291,7 @@ exponentiates
 exponentiation
 enterosepsis
 exponents
+educible
 enation
 exportable
 ecumenacy
