@@ -14408,7 +14408,6 @@ circumrotation
 circumrotatory
 circumsail
 circumsaturnian
-circumsciss
 circumscissile
 circumscribe
 circumscribed
@@ -17899,6 +17898,7 @@ codification
 codifications
 codified
 codifier
+circumsciss
 codifiers
 codifies
 codifying
