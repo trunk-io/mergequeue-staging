@@ -1422,7 +1422,6 @@ brickel
 bullheadedly
 baldheads
 baldy
-baldish
 baldling
 baldnesses
 baldoquin
@@ -4068,6 +4067,7 @@ bromohydrate
 beardy
 bailsmen
 beardie
+baldish
 bearding
 bosporus
 balander
