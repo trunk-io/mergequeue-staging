@@ -1296,6 +1296,7 @@ frape
 fastly
 fastnacht
 fastnesses
+fuselages
 foreseing
 fornical
 filicin
@@ -11550,7 +11551,6 @@ fuseboard
 fusee
 fusees
 fuselage
-fuselages
 fuseless
 fylfots
 fuselike
