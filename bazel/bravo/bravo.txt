@@ -687,7 +687,6 @@ bacteria
 bobbed
 bacteriaceae
 bacteriaceous
-biblist
 bibracteate
 bacterial
 bacterially
@@ -5696,6 +5695,7 @@ belletrist
 buchanite
 belletrists
 breakfasting
+biblist
 bellevue
 boxers
 brawlis
