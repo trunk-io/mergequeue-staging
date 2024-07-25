@@ -9746,6 +9746,7 @@ amalgamates
 amalgamating
 antilia
 antimonarchical
+angiogenic
 amalgamationist
 amalgamations
 amylohydrolysis
@@ -12812,7 +12813,6 @@ angiofibroma
 angiogenesis
 angiogeny
 aview
-angiogenic
 angioglioma
 angiogram
 antidiphtheria
