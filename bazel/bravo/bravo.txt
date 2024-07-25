@@ -1606,7 +1606,6 @@ ballfield
 bummie
 browny
 breakfasts
-ballgown
 ballgowns
 ballhausplatz
 ballhawk
@@ -4428,6 +4427,7 @@ becluster
 becollier
 becolme
 biostatics
+ballgown
 becombed
 become
 brutifying
