@@ -1635,7 +1635,6 @@ braggite
 ballismus
 ballista
 bigoted
-ballistae
 begrims
 bijous
 ballistician
@@ -13143,6 +13142,7 @@ bossiness
 biassedly
 bossing
 bowler
+ballistae
 bosslet
 bossship
 badnesses
