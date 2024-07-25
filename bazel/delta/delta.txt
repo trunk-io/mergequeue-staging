@@ -5694,7 +5694,6 @@ dephasing
 diapedeses
 dovelet
 dephysicalization
-dephysicalize
 dephlegm
 dephlegmate
 diplodia
@@ -8106,6 +8105,7 @@ dhunchee
 disproportionates
 dekagramme
 dhurna
+dephysicalize
 dhurnas
 disapprove
 derbend
