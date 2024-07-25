@@ -3974,6 +3974,7 @@ beakier
 bandonion
 beakless
 bunchy
+balder
 biogasses
 beaklike
 blanketmaker
@@ -4818,7 +4819,6 @@ bareges
 bedwarf
 bedwarfed
 bedwarfing
-balder
 bedwarfs
 bedwell
 bulged
