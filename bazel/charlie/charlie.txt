@@ -8220,7 +8220,6 @@ conceptions
 chaine
 carcharias
 chained
-chainer
 chaines
 chainette
 chaining
@@ -24933,6 +24932,7 @@ coracine
 coracle
 cajole
 chariotway
+chainer
 coracler
 coracles
 coracoacromial
