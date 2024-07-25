@@ -5755,6 +5755,7 @@ afterspeech
 afterstain
 ave
 afterstate
+anisotropies
 appetisse
 afterstorm
 afterstrain
@@ -9962,7 +9963,6 @@ amberfish
 amberfishes
 anthotropism
 ambergris
-anisotropies
 allegorization
 ambery
 aggregational
