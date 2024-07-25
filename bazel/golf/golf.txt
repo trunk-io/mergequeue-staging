@@ -3079,7 +3079,6 @@ geodiferous
 geodynamic
 geodynamical
 gout
-geodynamics
 gelidium
 gombroon
 geoducks
@@ -5651,6 +5650,7 @@ glis
 guaiaconic
 gospelize
 glisky
+geodynamics
 glissader
 gluttonish
 gauche
