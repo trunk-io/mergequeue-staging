@@ -6082,6 +6082,7 @@ catspaws
 catstep
 catstick
 clumpier
+charabancs
 catstitch
 catstitcher
 cattabu
@@ -8902,7 +8903,6 @@ char
 colorants
 chara
 charabancer
-charabancs
 charac
 characeae
 characeous
