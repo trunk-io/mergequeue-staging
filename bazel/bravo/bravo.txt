@@ -3905,7 +3905,6 @@ beach
 beachcomb
 beachcomber
 beachdrops
-beached
 brasserie
 basiation
 beacher
@@ -6435,6 +6434,7 @@ budgy
 benzotriazole
 benzotrichloride
 benzotrifluoride
+beached
 benzotrifuran
 benzoxate
 benzoxy

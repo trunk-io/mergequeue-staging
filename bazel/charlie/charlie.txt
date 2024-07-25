@@ -2035,7 +2035,6 @@ campesinos
 campestral
 campestrian
 campfight
-campfire
 campfires
 campground
 campgrounds
@@ -28878,6 +28877,7 @@ creta
 cosmoramic
 commander
 cretaceously
+campfire
 cretacic
 cretan
 ciceronic
