@@ -3272,7 +3272,6 @@ fractional
 fiel
 filatures
 field
-feases
 falsity
 fielden
 fanglike
@@ -4560,6 +4559,7 @@ fixtureless
 fructuary
 fictively
 farming
+feases
 footslog
 fixup
 forwarding
