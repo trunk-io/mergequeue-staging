@@ -16190,7 +16190,6 @@ antisepticize
 antisepticized
 antisepticizing
 antiseption
-antiseptize
 antisera
 antiserum
 antiserums
@@ -22449,6 +22448,7 @@ atalaya
 abacination
 atalayas
 atamans
+antiseptize
 adipoceriform
 atamasco
 atamosco
