@@ -4900,7 +4900,6 @@ cartonnage
 cartonnier
 cartons
 cartooned
-cartoonist
 cartoonists
 cartopper
 cartouch
@@ -28229,6 +28228,7 @@ crankpins
 crankplate
 cranks
 crankshaft
+cartoonist
 catalpas
 crankshafts
 crannage
