@@ -3285,7 +3285,6 @@ geopositive
 geoscientist
 geoscientists
 glaiket
-golfers
 gyrostats
 guiltlessly
 geoscopy
@@ -5538,6 +5537,7 @@ graphoscope
 glycopexia
 glycopexis
 grizelin
+golfers
 glycoproteid
 glycosaemia
 glycosemia
