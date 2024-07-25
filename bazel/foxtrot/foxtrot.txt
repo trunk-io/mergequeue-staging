@@ -1048,6 +1048,7 @@ farm
 firstfruits
 firnismalerei
 farmage
+flytings
 finiteness
 florally
 farmer
@@ -5676,7 +5677,6 @@ faire
 fourble
 fliting
 fishnet
-flytings
 futharks
 flytrap
 flytraps
