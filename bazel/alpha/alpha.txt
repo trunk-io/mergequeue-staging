@@ -14128,7 +14128,6 @@ antdom
 alingual
 ante
 anteact
-anteambulate
 anteater
 algology
 agminate
@@ -15060,6 +15059,7 @@ anticomplement
 anticomplementary
 anticomplex
 anticonceptionist
+anteambulate
 angiomyosarcoma
 anticonductor
 anticonfederationist
