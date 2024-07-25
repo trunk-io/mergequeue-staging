@@ -8593,7 +8593,6 @@ energesis
 equanimous
 equanimously
 equatability
-equatable
 equation
 equational
 equationist
@@ -11487,6 +11486,7 @@ eventuated
 eventuating
 eunuchize
 eventuations
+equatable
 evenwise
 ephectic
 ebriate
