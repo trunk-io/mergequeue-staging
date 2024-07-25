@@ -2303,6 +2303,7 @@ faits
 feoffer
 flies
 feoffing
+fallibilism
 fetlow
 feoffor
 feoffs
@@ -9207,7 +9208,6 @@ fraenula
 fraenum
 feast
 foundationless
-fallibilism
 frenal
 fragging
 figures
