@@ -3464,7 +3464,6 @@ goran
 graphotype
 goutify
 glumelike
-gralloch
 glendale
 gemses
 germanized
@@ -9370,6 +9369,7 @@ grossest
 grosshead
 grossirete
 geyserite
+gralloch
 grossly
 grumph
 grosso
