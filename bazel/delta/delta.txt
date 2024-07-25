@@ -380,6 +380,7 @@ daylighting
 daylights
 daylily
 dailiness
+dupable
 daylit
 dayman
 dhunchi
@@ -18353,7 +18354,6 @@ dromaeognathous
 duringly
 dupability
 dismountable
-dupable
 decresc
 dupe
 duper
