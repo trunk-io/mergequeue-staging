@@ -25687,7 +25687,6 @@ corps
 corpselike
 corage
 corpselikeness
-corpses
 corpsman
 corpsmen
 corpulences
@@ -30540,6 +30539,7 @@ cuboctahedron
 cubocube
 cubocuneiform
 calorimetry
+corpses
 caterers
 chaenolobus
 cubododecahedral
