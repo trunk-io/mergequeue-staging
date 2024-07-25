@@ -13792,6 +13792,7 @@ encoding
 essenhout
 exploiting
 extracondensed
+extradictionary
 extraconstitutional
 extracorpuscular
 emphasis
@@ -13829,7 +13830,6 @@ encephalomata
 extradialectal
 extradict
 euchologies
-extradictionary
 extradites
 evenfalls
 entogastric
