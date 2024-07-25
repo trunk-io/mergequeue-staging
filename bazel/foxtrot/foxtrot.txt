@@ -8022,7 +8022,6 @@ fluoroscope
 foresummon
 federalizations
 flossiness
-foreswear
 fino
 foreswearing
 fumacious
@@ -10873,6 +10872,7 @@ furmety
 fulgentness
 fulgidity
 fanciful
+foreswear
 fulgor
 foeless
 fulgorid
