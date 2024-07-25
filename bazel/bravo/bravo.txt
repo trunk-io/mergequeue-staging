@@ -6597,7 +6597,6 @@ branchiopod
 bereavement
 biliferous
 bereavements
-bereaver
 bereaves
 bereft
 bubbybush
@@ -12793,6 +12792,7 @@ bootprint
 babuina
 bookmate
 boots
+bereaver
 bootstrapped
 bootstrapping
 bootstraps
