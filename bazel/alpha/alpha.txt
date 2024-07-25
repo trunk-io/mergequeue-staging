@@ -2804,7 +2804,6 @@ allergic
 acraspedote
 acratia
 anatomically
-acraturesis
 acre
 acreable
 acreage
@@ -25214,6 +25213,7 @@ azides
 aziethane
 azygobranchia
 abortively
+acraturesis
 azygomatous
 azygos
 azygosperm
