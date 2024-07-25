@@ -4717,7 +4717,6 @@ encipherment
 enciphers
 encircle
 endorsing
-encircled
 encirclements
 ectypal
 encircler
@@ -12110,6 +12109,7 @@ excoction
 excoecaria
 embosoming
 excogitates
+encircled
 excogitating
 excogitation
 englishness
