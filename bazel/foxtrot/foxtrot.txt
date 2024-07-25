@@ -2505,6 +2505,7 @@ floorshow
 ferrites
 filmist
 focusable
+fumigated
 ferritins
 ferritization
 ferments
@@ -7756,7 +7757,6 @@ farse
 foremother
 forenamed
 felicific
-fumigated
 fissiparously
 forenews
 forenight
