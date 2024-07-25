@@ -10818,6 +10818,7 @@ ammonolytic
 ammonolyze
 ammonolyzed
 ammonolyzing
+astrochemistry
 ammophilous
 ammoreslinol
 ammos
@@ -22280,7 +22281,6 @@ astroblast
 astrobotany
 astrocaryum
 astrochemist
-astrochemistry
 adamitical
 astrochronological
 astrocyte
