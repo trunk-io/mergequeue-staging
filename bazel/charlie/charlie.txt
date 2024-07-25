@@ -8116,7 +8116,6 @@ chaetochloa
 chaetodon
 chaetodont
 chaetodontid
-chaetodontidae
 chaetognath
 chaetognatha
 chaetognathan
@@ -13865,6 +13864,7 @@ cinderman
 cinderous
 cinders
 cindy
+chaetodontidae
 cindie
 cine
 centerless
