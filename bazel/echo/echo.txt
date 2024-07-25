@@ -906,7 +906,6 @@ ergatomorphism
 ectopatagium
 ectophytic
 ectophloic
-exclosure
 endothelioblastoma
 extrovertish
 envenoming
@@ -6497,6 +6496,7 @@ ensweeten
 evenlight
 entablature
 emigrations
+exclosure
 entablements
 entach
 enneasemic
