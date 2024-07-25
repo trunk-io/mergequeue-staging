@@ -8545,7 +8545,6 @@ beauish
 billheading
 billheads
 billhook
-baptisteries
 bimillenial
 becolor
 billiard
@@ -9628,6 +9627,7 @@ bishop
 bishopbird
 bishopdom
 bishoped
+baptisteries
 bishopful
 beseemliness
 bishophood
