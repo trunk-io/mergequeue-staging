@@ -7026,7 +7026,6 @@ combustor
 centals
 chock
 centares
-centaurdom
 centaurea
 centauress
 centauri
@@ -29822,6 +29821,7 @@ crooningly
 croons
 crop
 crophead
+centaurdom
 croplands
 cropless
 cropped
