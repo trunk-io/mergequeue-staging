@@ -2847,6 +2847,7 @@ feuilletonism
 feuilletons
 farfel
 floccilation
+freckle
 fleches
 fiedlerite
 feulamort
@@ -5774,7 +5775,6 @@ fur
 flocculi
 fullom
 fruitery
-freckle
 floccus
 fraus
 fantasy
