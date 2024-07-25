@@ -1700,7 +1700,6 @@ gingeley
 gamophagia
 gallons
 gastrodermis
-gastrodidymus
 gastrodynia
 gangliomata
 gastroduodenal
@@ -7201,6 +7200,7 @@ glazers
 glonoin
 gastromyxorrhea
 granularity
+gastrodidymus
 gordioidea
 gaul
 gordolobo
