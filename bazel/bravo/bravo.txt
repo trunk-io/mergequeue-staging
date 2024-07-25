@@ -1064,6 +1064,7 @@ baiginet
 birefracting
 blain
 breakweather
+bateman
 baigneuse
 baigneuses
 blites
@@ -8554,7 +8555,6 @@ billycans
 billycock
 bohmite
 billie
-bateman
 boatbill
 billyer
 bedcap

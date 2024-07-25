@@ -9585,7 +9585,6 @@ checkhook
 charge
 checky
 checklaton
-coeliorrhoea
 checkless
 checklist
 crackbrain
@@ -25640,6 +25639,7 @@ corotated
 corotates
 corotating
 corotation
+coeliorrhoea
 corotomy
 coroun
 coroutines
