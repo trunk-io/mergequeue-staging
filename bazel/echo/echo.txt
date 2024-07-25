@@ -2142,7 +2142,6 @@ encephalomas
 elated
 exploiters
 elatery
-elaterid
 ergatandry
 epipactis
 ejector
@@ -3688,6 +3687,7 @@ embryons
 embryopathology
 embryophagous
 embryophyta
+elaterid
 embryophyte
 embryophore
 embryos
