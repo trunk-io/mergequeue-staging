@@ -1276,7 +1276,6 @@ academic
 academical
 axone
 academician
-academicians
 academicianship
 academics
 academies
@@ -9587,6 +9586,7 @@ alumbloom
 austerity
 alumbrado
 appartement
+academicians
 alumetize
 alumian
 alumic
