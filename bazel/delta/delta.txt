@@ -16060,7 +16060,6 @@ doubles
 doublets
 doublespeak
 doublet
-disgustingness
 detestable
 doublethinking
 doublethought
@@ -17371,6 +17370,7 @@ drollery
 droopingness
 disphenoid
 duxes
+disgustingness
 droops
 dequeuing
 droopt
