@@ -3358,7 +3358,6 @@ capsulize
 coinsured
 capsulized
 capsulizing
-capsulociliary
 circumlocutional
 copaline
 capsulorrhaphy
@@ -31676,6 +31675,7 @@ cushite
 cushitic
 cusie
 civitas
+capsulociliary
 calciums
 cusinero
 cusk
