@@ -8388,7 +8388,6 @@ emulating
 enzymosis
 epitheme
 ethereal
-epithermally
 erethism
 epithesis
 epithet
@@ -14150,6 +14149,7 @@ exudations
 expectorants
 exuded
 exuding
+epithermally
 exul
 exulate
 exemplification
