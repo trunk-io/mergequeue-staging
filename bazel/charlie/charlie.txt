@@ -2315,7 +2315,6 @@ cancrisocial
 cancrivorous
 cancrizans
 cancroid
-connection
 cancrophagous
 cancrum
 cicoree
@@ -16988,6 +16987,7 @@ clumsier
 clumsily
 cassegrainian
 chillers
+connection
 clunch
 clung
 cluniac
