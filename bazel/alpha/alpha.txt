@@ -21615,7 +21615,6 @@ anaclete
 assassinated
 assassinates
 assassinating
-assassinations
 assassinative
 artemas
 araneose
@@ -21746,6 +21745,7 @@ assibilated
 assibilating
 assibilation
 aftercost
+assassinations
 assidaean
 alvia
 agatoid
