@@ -2075,6 +2075,7 @@ elamitish
 elan
 elands
 elans
+exscript
 eperlan
 elaphe
 estating
@@ -13463,7 +13464,6 @@ epiclastic
 exscinding
 ecphory
 exscribe
-exscript
 exsculptate
 exscutellate
 exsec
