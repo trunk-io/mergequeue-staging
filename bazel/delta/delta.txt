@@ -9208,6 +9208,7 @@ dodders
 didelphid
 didelphidae
 diastataxic
+drypoint
 didelphine
 didelphis
 doocot
@@ -11677,7 +11678,6 @@ discontinuously
 distill
 disconula
 denitrificator
-drypoint
 disordinate
 disconvenient
 dematerialised
