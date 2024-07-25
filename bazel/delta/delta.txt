@@ -7368,7 +7368,6 @@ detinue
 detinuit
 detn
 downs
-detonability
 detonable
 detonatable
 detonated
@@ -7899,6 +7898,7 @@ dofunny
 dewanny
 disaffirming
 disbelievingly
+detonability
 dermogastric
 dewans
 deliquescence
