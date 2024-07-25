@@ -530,6 +530,7 @@ blind
 backslash
 backslashes
 backslid
+barroom
 backslide
 bacharach
 backslided
@@ -3029,7 +3030,6 @@ barrios
 botts
 barristership
 barristress
-barroom
 basibregmatic
 barrooms
 barrow
