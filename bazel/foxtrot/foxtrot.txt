@@ -4854,7 +4854,6 @@ flaminical
 flamless
 finesses
 flammable
-floorers
 flammant
 flouncey
 flagroot
@@ -5107,6 +5106,7 @@ folkboat
 floods
 flautino
 flautists
+floorers
 flav
 fluidiser
 firebrick
