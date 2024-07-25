@@ -775,7 +775,6 @@ forkbeard
 fandangos
 flockmaster
 fandom
-fanega
 facsimilist
 feudalised
 frictionizing
@@ -10361,6 +10360,7 @@ framers
 frigoric
 flamingly
 fumarase
+fanega
 felspath
 florilegium
 frondiferous
