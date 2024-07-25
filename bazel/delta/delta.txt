@@ -3712,6 +3712,7 @@ dehydrocorydaline
 dehydrocorticosterone
 dehydroffrozen
 dehydrofreeze
+delis
 dehydrofreezing
 dehydrofroze
 dehydrofrozen
@@ -4218,7 +4219,6 @@ delirous
 dangerfully
 doorman
 disordeine
-delis
 delisk
 diaphanoscopy
 delist
