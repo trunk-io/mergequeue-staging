@@ -9695,7 +9695,6 @@ dogfennel
 dihybridism
 dihydrate
 deleaded
-dihydrated
 dihydrazone
 dool
 dihydric
@@ -15912,6 +15911,7 @@ disciplinary
 dosimetrician
 dosimetries
 dosimetrist
+dihydrated
 dosing
 dosinia
 dosiology
