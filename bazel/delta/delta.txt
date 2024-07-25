@@ -2443,6 +2443,7 @@ decigrams
 declaim
 disanimated
 declaimed
+dodders
 declaimer
 declaimers
 declamando
@@ -9201,7 +9202,6 @@ dart
 diddles
 didelph
 didelphia
-dodders
 didelphid
 didelphidae
 diastataxic
