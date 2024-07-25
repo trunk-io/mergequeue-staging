@@ -13939,7 +13939,6 @@ anorthoscope
 aland
 anorthosite
 akhissar
-anoscope
 anoscopy
 attracter
 anosia
@@ -20124,6 +20123,7 @@ aromatics
 aromatise
 adjectives
 atafter
+anoscope
 annalize
 aromatised
 aromatiser
