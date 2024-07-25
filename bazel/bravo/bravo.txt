@@ -2588,7 +2588,6 @@ bargepole
 booklice
 brigsail
 bricklaying
-barmkin
 barges
 boehmite
 bargestone
@@ -18391,6 +18390,7 @@ bromcamphor
 buzzing
 buzzingly
 balas
+barmkin
 bichromatic
 blossomtime
 buzzsaw
