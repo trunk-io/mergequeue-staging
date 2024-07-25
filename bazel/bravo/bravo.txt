@@ -4875,6 +4875,7 @@ bucketfull
 briarroot
 beefsteaks
 beefwood
+bannerlike
 beefwoods
 beegerite
 beeheaded
@@ -11028,7 +11029,6 @@ bloodletter
 bloodlettings
 bloodline
 bloodlusting
-bannerlike
 bedazzles
 backfall
 bellow
