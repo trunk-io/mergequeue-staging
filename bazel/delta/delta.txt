@@ -1243,7 +1243,6 @@ dateline
 datelined
 datelines
 duckboat
-datelining
 dater
 daterman
 daters
@@ -11814,6 +11813,7 @@ discredits
 dogeships
 decorator
 distrainer
+datelining
 damascened
 depopulate
 donations
