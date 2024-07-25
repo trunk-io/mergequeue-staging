@@ -12530,7 +12530,6 @@ brigantine
 bonser
 bonspell
 bonspells
-brike
 bonspiel
 buzzier
 breezeless
@@ -16571,6 +16570,7 @@ bolides
 bandyman
 buckishness
 benefices
+brike
 buckland
 buckled
 buckleya
