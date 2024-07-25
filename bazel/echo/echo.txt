@@ -7702,7 +7702,6 @@ emborders
 endnote
 epicuticular
 entomotomist
-epideictic
 epideictical
 epideistic
 entomological
@@ -12457,6 +12456,7 @@ exhalatory
 exhale
 educationally
 exeunt
+epideictic
 exhaled
 erythea
 exoterically
