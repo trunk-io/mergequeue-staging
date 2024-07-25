@@ -8137,7 +8137,6 @@ forfeitableness
 frisbees
 forfeiter
 forfeits
-forfeiture
 forfeitures
 fizz
 forfending
@@ -8766,6 +8765,7 @@ foss
 flapdragon
 flunks
 fratch
+forfeiture
 flaxes
 fossane
 fertilisation
