@@ -4061,7 +4061,6 @@ firearmed
 fuzzball
 foretokens
 firebolted
-ferrated
 fontal
 firebomb
 firebombed
@@ -5587,6 +5586,7 @@ flintstone
 fervescence
 fluidly
 frontspiece
+ferrated
 flyoff
 flavorfully
 flip
