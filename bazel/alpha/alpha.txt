@@ -3831,7 +3831,6 @@ adherent
 adherently
 adherents
 adherer
-adherers
 abnormality
 adheres
 auxohormone
@@ -24956,6 +24955,7 @@ aweary
 awearied
 actinomorphy
 aweband
+adherers
 awed
 anisodont
 awedly
