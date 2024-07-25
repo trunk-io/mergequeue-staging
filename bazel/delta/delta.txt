@@ -3621,7 +3621,6 @@ descriptory
 degradable
 degradation
 degradative
-degrade
 dolesome
 degraded
 deratization
@@ -13351,6 +13350,7 @@ disputeful
 disputeless
 deadeners
 disputer
+degrade
 disputers
 disputes
 disputing
