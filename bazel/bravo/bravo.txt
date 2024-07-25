@@ -6142,7 +6142,6 @@ besing
 beni
 benic
 benaming
-benight
 bipartient
 benighted
 benightedly
@@ -7440,6 +7439,7 @@ barbery
 betwixt
 booteries
 beuncled
+benight
 bevatron
 bevatrons
 bobbinets
