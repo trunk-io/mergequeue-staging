@@ -5235,7 +5235,6 @@ fleabanes
 flashproof
 fleabite
 fleabites
-fossilify
 fleabug
 foreshoe
 fleabugs
@@ -10849,6 +10848,7 @@ factionate
 fulfil
 faithfuls
 furtherances
+fossilify
 fulfilling
 fulfillment
 forlanas
