@@ -5533,6 +5533,7 @@ enfeebled
 enfeeblement
 enteromorpha
 enfeeblements
+expensed
 enfeebler
 enfeebles
 enfelon
@@ -13859,7 +13860,6 @@ embodiers
 extrajudicial
 extrajudicially
 extirpates
-expensed
 extracalicular
 extralegal
 estrapade
