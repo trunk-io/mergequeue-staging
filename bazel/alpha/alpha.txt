@@ -1127,6 +1127,7 @@ abstort
 amtrac
 abstr
 abstractable
+alumin
 abstractedly
 abstracter
 agitation
@@ -9580,7 +9581,6 @@ alumian
 alumic
 alumiferous
 annulations
-alumin
 alumina
 aluminate
 alumines
