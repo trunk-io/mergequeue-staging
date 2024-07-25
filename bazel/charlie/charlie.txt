@@ -19827,7 +19827,6 @@ comburivorous
 combust
 combusted
 counterdigged
-chromatophoric
 combustibility
 combustibilities
 combustible
@@ -21974,6 +21973,7 @@ confervoideae
 confess
 confessable
 confessant
+chromatophoric
 confessary
 confessarius
 confessedly
