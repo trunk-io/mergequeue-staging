@@ -2729,6 +2729,7 @@ gangplows
 groceteria
 genettes
 geneva
+girdlelike
 gibbsite
 gumshield
 genevas
@@ -4766,7 +4767,6 @@ gelatinizer
 goldy
 girdlecake
 gentianin
-girdlelike
 gloeocapsa
 gothicness
 germicide

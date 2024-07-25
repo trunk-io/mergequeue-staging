@@ -9759,7 +9759,6 @@ faeroe
 forcelet
 furculae
 flatbread
-fren
 formalizable
 frenate
 french
@@ -10994,6 +10993,7 @@ formulatory
 fungivorous
 fumariaceae
 fumariaceous
+fren
 fumarium
 forche
 fumarole
