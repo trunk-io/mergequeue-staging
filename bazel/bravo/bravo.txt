@@ -1906,7 +1906,6 @@ banc
 banca
 blanchers
 bancha
-bancos
 band
 bandaged
 baragouinish
@@ -13876,6 +13875,7 @@ braccio
 braceleted
 beautifications
 birdbanding
+bancos
 basophile
 bracelets
 bracero
