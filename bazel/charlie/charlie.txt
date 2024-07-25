@@ -14704,6 +14704,7 @@ contexts
 cystocarcinoma
 cystocarp
 conceptualised
+cervices
 concurrent
 cystocele
 cystocyte
@@ -19202,7 +19203,6 @@ collochemistry
 collochromate
 collock
 collocution
-cervices
 collocutory
 collodiochloride
 collodion
