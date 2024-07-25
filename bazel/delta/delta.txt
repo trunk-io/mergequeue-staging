@@ -5029,7 +5029,6 @@ disjoined
 dename
 denar
 durn
-disensure
 deriders
 denaries
 denarii
@@ -10092,6 +10091,7 @@ discovery
 dimorphs
 dimout
 devaster
+disensure
 dimouts
 dimple
 dimplement
