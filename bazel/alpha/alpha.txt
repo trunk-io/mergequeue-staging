@@ -3734,7 +3734,6 @@ adenoiditis
 adenolymphoma
 adenoliomyofibroma
 adenolipoma
-aetiologist
 antiwedge
 adenolipomatosis
 adenologaditis
@@ -22659,6 +22658,7 @@ athletes
 athletic
 athletical
 achromate
+aetiologist
 athletically
 awakings
 athletics

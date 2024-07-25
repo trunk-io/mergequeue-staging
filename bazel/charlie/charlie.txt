@@ -11616,7 +11616,6 @@ cholecystocolotomy
 cholecystogastrostomy
 cholecystography
 cholecystojejunostomy
-cholecystokinin
 coenogamete
 clacket
 cholecystonephrostomy
@@ -27874,6 +27873,7 @@ caribisi
 crabbery
 cystopus
 crabbers
+cholecystokinin
 chaetangium
 carnivaler
 cirsocele
