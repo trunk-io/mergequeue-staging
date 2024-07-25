@@ -8045,7 +8045,6 @@ geniuses
 giraffes
 granitite
 glutamic
-gendarme
 gyrocompasses
 guelphish
 gregarinidal
@@ -9939,6 +9938,7 @@ guardant
 guardants
 guardedness
 guarder
+gendarme
 groined
 guardhouse
 gastrotricha
