@@ -9947,6 +9947,7 @@ ambassadorships
 aurigraphy
 ambassadress
 ambassy
+armlock
 almochoden
 ambatch
 ambatoarinite
@@ -20008,7 +20009,6 @@ allayers
 armload
 armloads
 aquifer
-armlock
 armoires
 armomancy
 antineutrino
