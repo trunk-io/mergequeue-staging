@@ -5875,7 +5875,6 @@ agapeic
 agapemone
 agapemonian
 agapemonite
-author
 agapeti
 amyliferous
 agapetid
@@ -11241,6 +11240,7 @@ acrometer
 amphistomous
 asyllabic
 aeronomies
+author
 amphitheater
 amphitheaters
 amphitheatral
