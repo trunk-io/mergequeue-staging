@@ -8114,7 +8114,6 @@ brichette
 bretschneideraceae
 biedermeier
 bieennia
-byelaw
 byelaws
 beworship
 bielby
@@ -12977,6 +12976,7 @@ born
 belltail
 bornan
 bornane
+byelaw
 bornean
 brosot
 borneol
