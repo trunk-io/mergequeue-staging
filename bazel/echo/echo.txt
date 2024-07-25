@@ -5845,7 +5845,6 @@ engulfed
 engulfing
 engulfment
 enhaemospore
-enhaloes
 enhaloing
 explees
 enhalos
@@ -7246,6 +7245,7 @@ enervates
 embattled
 enwrapping
 enwraps
+enhaloes
 ensorceled
 enwreath
 enwreathed
