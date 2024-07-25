@@ -26173,7 +26173,6 @@ cosmographist
 cosmoline
 cosmolined
 cosmolining
-cosmology
 cosmologic
 cosmological
 cosmologically
@@ -31161,6 +31160,7 @@ cuprite
 chorine
 cuproammonium
 cuprobismutite
+cosmology
 cuprocyanide
 choribi
 cytherella
