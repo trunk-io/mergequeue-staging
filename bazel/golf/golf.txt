@@ -233,7 +233,6 @@ gainers
 garnetz
 gelling
 gainfulness
-gaingiving
 gainyield
 gripgrass
 gaining
@@ -6301,6 +6300,7 @@ gooiest
 grumbler
 gingerberry
 gravures
+gaingiving
 gillotype
 gnathobdellida
 gnathometer

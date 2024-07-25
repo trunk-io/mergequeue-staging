@@ -1411,7 +1411,6 @@ balden
 balderdash
 ballard
 blithebread
-baldfaced
 bemire
 baldhead
 baldheaded
@@ -13574,6 +13573,7 @@ bourride
 bucayo
 bourrides
 bourse
+baldfaced
 bourtree
 befiddle
 bourtrees
