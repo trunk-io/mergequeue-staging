@@ -1683,7 +1683,6 @@ goosecap
 gastroblennorrhea
 gastrocatarrhal
 gastrocele
-goldfish
 gastrochaenidae
 gastrocystic
 gastrocnemii
@@ -6095,6 +6094,7 @@ gazophylacium
 globefishes
 glucic
 glucid
+goldfish
 glucine
 gates
 glucinium
