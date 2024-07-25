@@ -2974,7 +2974,6 @@ capable
 capableness
 cobelligerent
 capablest
-capably
 capacify
 capacious
 capaciously
@@ -31359,6 +31358,7 @@ curite
 curites
 curitis
 curium
+capably
 curiums
 cholecystoileostomy
 curl
