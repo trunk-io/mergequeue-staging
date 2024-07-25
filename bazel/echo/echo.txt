@@ -2405,7 +2405,6 @@ esterified
 electrofusion
 electrogenesis
 electrogenic
-epicrasis
 electrogild
 erd
 electrogilding
@@ -11311,6 +11310,7 @@ evaluative
 eyebeams
 entailer
 electrocardiography
+epicrasis
 endothelia
 evanesced
 evanescence
