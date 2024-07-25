@@ -10812,6 +10812,7 @@ bine
 blindfold
 blindfolded
 blindfoldedly
+barostat
 blindfolder
 blindism
 balaenoptera
@@ -14361,7 +14362,6 @@ brakeman
 braker
 brakesman
 blam
-barostat
 baratheas
 brakesmen
 braky
