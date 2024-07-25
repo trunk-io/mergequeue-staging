@@ -194,7 +194,6 @@ fireboot
 flattener
 fingerling
 folliculous
-factualistic
 factually
 flavorous
 factualness
@@ -8266,6 +8265,7 @@ frey
 foiler
 fumeroot
 fork
+factualistic
 forkable
 forked
 forkedness

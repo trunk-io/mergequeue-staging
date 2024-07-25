@@ -1608,7 +1608,6 @@ epityphlitis
 egma
 electrophototherapy
 epistemologically
-ego
 egocentrically
 egocentricity
 egocentrism
@@ -5021,6 +5020,7 @@ eyer
 elided
 erasures
 epiparodos
+ego
 ending
 endings
 endysis
