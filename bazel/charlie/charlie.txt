@@ -15906,7 +15906,6 @@ cleanups
 clear
 clearable
 circummigrate
-clearage
 clearance
 clearances
 clearcole
@@ -22216,6 +22215,7 @@ crucifixions
 confronted
 confronter
 confronters
+clearage
 confrontment
 confucian
 confucianism
