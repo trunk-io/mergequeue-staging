@@ -2774,7 +2774,6 @@ care
 cantaro
 chunks
 cantatas
-cantate
 cantation
 carbolate
 chayote
@@ -13590,6 +13589,7 @@ cocytean
 ciliiferous
 ciliiform
 ciliium
+cantate
 cylinder
 cylinderer
 cylindering
