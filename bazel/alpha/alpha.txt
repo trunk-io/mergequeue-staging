@@ -12322,7 +12322,6 @@ andalusian
 avogadrite
 andalusite
 andaman
-andamenta
 andamento
 andamentos
 andante
@@ -21551,6 +21550,7 @@ avarice
 asport
 asprawl
 audian
+andamenta
 aspread
 aspredinidae
 akule
