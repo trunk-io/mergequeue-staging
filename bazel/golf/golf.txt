@@ -1658,7 +1658,6 @@ grammates
 gastreas
 genethlialogical
 gyrometer
-ghostcraft
 gastrectasis
 gasfiring
 gastrelcosis
@@ -10750,6 +10749,7 @@ greenboard
 gemeinde
 guttering
 gutterize
+ghostcraft
 gutterling
 gutterman
 gamblesomeness
