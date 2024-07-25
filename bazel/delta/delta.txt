@@ -7055,6 +7055,7 @@ deemphasis
 dippings
 desserts
 dykage
+drivel
 dessertspoon
 dressings
 dessertspoonful
@@ -15445,7 +15446,6 @@ doms
 domus
 discomycetes
 don
-drivel
 donable
 droughty
 donaciform
