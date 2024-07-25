@@ -7270,7 +7270,6 @@ deter
 deterge
 deterged
 detergence
-detergency
 detergent
 detergents
 dasypus
@@ -10849,6 +10848,7 @@ dropouts
 dipteros
 dipterous
 decastyle
+detergency
 dorsopleural
 dipterus
 diptyca
