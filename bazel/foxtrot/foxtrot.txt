@@ -4290,6 +4290,7 @@ faultless
 fishbone
 fishbowl
 fisherboy
+furnishable
 fingerwise
 fisheress
 forespeech
@@ -11435,7 +11436,6 @@ formulizing
 fibrinogenous
 flatway
 furnish
-furnishable
 foregather
 finitudes
 frondesced
