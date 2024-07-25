@@ -1146,7 +1146,6 @@ genteelest
 gastrostomy
 gangwayed
 gudemother
-gangways
 guelphic
 grassflower
 growls
@@ -3457,6 +3456,7 @@ gavelling
 gossipee
 germanization
 goran
+gangways
 graphotype
 goutify
 glumelike
