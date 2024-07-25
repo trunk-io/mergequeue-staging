@@ -1745,6 +1745,7 @@ deathtrap
 deathtraps
 dragonets
 deathwards
+diversifolious
 deathweed
 deathworm
 deaurate
@@ -14393,7 +14394,6 @@ diversifier
 dakota
 diversifies
 diversifying
-diversifolious
 diversiform
 divarication
 diversion
