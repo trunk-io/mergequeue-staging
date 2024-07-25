@@ -9271,7 +9271,6 @@ capelets
 chemisorptive
 cancerroot
 chastacosta
-chastelain
 chastely
 chastened
 chastener
@@ -17628,6 +17627,7 @@ coccin
 chunkily
 coccinella
 chiropterygium
+chastelain
 coccinellid
 coccinellidae
 coccyodynia
