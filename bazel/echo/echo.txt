@@ -2048,6 +2048,7 @@ equiangle
 estates
 elaic
 entrecotes
+electrotonize
 elaidate
 elaidic
 excludability
@@ -12488,7 +12489,6 @@ exhibit
 edict
 exhibitable
 exhibiter
-electrotonize
 exoperidium
 encephalology
 emda
