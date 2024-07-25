@@ -2950,7 +2950,6 @@ biflagelate
 barraging
 birdseye
 birthplace
-barbel
 bowle
 barramunda
 barramundi
@@ -9389,6 +9388,7 @@ birdlife
 bioreaction
 baphia
 birdlike
+barbel
 brusquely
 birdlimed
 birdlimes
