@@ -485,7 +485,6 @@ falces
 featherers
 ferritic
 fanweed
-falcidian
 falciform
 fichu
 fleta
@@ -10434,6 +10433,7 @@ flanchard
 francium
 fellic
 frontoorbital
+falcidian
 funded
 fanam
 foretellable
