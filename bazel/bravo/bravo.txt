@@ -13756,7 +13756,6 @@ barbicanage
 beladle
 bart
 bowpot
-bowpots
 butterbox
 blitheful
 bowralite
@@ -15095,6 +15094,7 @@ bribetaking
 bryce
 brick
 budgerigars
+bowpots
 brickbats
 blotted
 brickbatted
