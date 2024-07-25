@@ -227,6 +227,7 @@ asperated
 abbr
 abbrev
 aper
+airborne
 abbreviatable
 abbreviate
 anthropobiologist
@@ -24943,7 +24944,6 @@ awarding
 awardment
 aware
 awaredom
-airborne
 awareness
 awarn
 awaruite
