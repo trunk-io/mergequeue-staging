@@ -9757,7 +9757,6 @@ aircraftsmen
 amalgamatize
 amalgamator
 amalgamators
-acidanthera
 amphithyra
 amalgamist
 amalgamize
@@ -16673,6 +16672,7 @@ apartheid
 abulic
 apartment
 apartmental
+acidanthera
 anthophagous
 apartments
 anorganic
