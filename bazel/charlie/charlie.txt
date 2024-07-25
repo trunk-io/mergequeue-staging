@@ -4211,6 +4211,7 @@ causticizing
 caryatid
 caryatidal
 caryatides
+collative
 caryatids
 carib
 caribal
@@ -18992,7 +18993,6 @@ collations
 cesti
 compartimento
 collatitious
-collative
 curatial
 collator
 collators
