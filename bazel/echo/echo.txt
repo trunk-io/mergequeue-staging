@@ -2623,7 +2623,6 @@ expressionful
 electrotherapeutist
 electrotheraputical
 electrotheraputically
-expurgates
 encroachments
 electrothermancy
 electrothermic
@@ -11354,6 +11353,7 @@ evangelistarion
 enaction
 evangelistic
 evangelistics
+expurgates
 ethnos
 evangelization
 epithelial
