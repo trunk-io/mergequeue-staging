@@ -11569,6 +11569,7 @@ besiegers
 boatload
 becomes
 boatloader
+bottlenecks
 boatloading
 baske
 boatloads
@@ -13648,7 +13649,6 @@ blathering
 blist
 bowdlerise
 birches
-bottlenecks
 bowdlerising
 bowdlerization
 bonbonniere
