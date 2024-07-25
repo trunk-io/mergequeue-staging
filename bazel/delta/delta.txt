@@ -2328,7 +2328,6 @@ disconnect
 dishley
 decidua
 deciduary
-deciduas
 deciduata
 deciduate
 dogberries
@@ -14509,6 +14508,7 @@ divisionally
 diverge
 declinograph
 diachronicness
+deciduas
 divisionary
 drissel
 divisionistic
