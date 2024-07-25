@@ -7210,6 +7210,7 @@ bestrides
 bestriding
 bestripe
 bestrode
+bylaw
 bestrow
 bestrowed
 bestrown
@@ -8400,7 +8401,6 @@ bec
 bilateralities
 botchka
 bilati
-bylaw
 bylawman
 bylaws
 bilberry
