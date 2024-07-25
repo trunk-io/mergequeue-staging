@@ -873,6 +873,7 @@ entrer
 ectoenzym
 ensky
 ectogenesis
+escorted
 ectogenetic
 ectogenic
 ectoglia
@@ -11748,7 +11749,6 @@ exacta
 exactable
 exacted
 electrification
-escorted
 exacters
 exacting
 electrify
