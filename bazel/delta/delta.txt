@@ -3568,7 +3568,6 @@ degenerates
 degenerating
 degeneration
 degenerationist
-degenerations
 degenerative
 degeneratively
 dillis
@@ -4421,6 +4420,7 @@ demasted
 demasting
 dishfuls
 demasts
+degenerations
 dematerialisation
 dematerialise
 dematerialize
