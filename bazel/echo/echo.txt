@@ -7864,7 +7864,6 @@ electrizable
 entfaoilff
 economite
 evangelium
-exosmosis
 epiglottiditis
 epiglottis
 euterpe
@@ -10853,6 +10852,7 @@ eukaryote
 euktolite
 eulachan
 eulachans
+exosmosis
 eumorphous
 electrodynamics
 engraphically
