@@ -3756,7 +3756,6 @@ essancias
 esculin
 echappe
 embrues
-embruing
 exclaimed
 embruting
 enfief
@@ -10038,6 +10037,7 @@ encipherments
 epopees
 exterminations
 electronically
+embruing
 estivator
 estive
 edema
