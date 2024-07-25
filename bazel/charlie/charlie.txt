@@ -10552,7 +10552,6 @@ childly
 childlier
 childliest
 childlike
-childlikeness
 childminder
 childness
 codex
@@ -24631,6 +24630,7 @@ cecopexy
 copepodan
 copepodous
 copepods
+childlikeness
 coper
 coperiodic
 cropman
