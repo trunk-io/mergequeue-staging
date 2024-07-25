@@ -896,7 +896,6 @@ evangeliaries
 expirable
 ectoparasitica
 ectopatagia
-exceptioner
 evangeliser
 ergatomorphism
 ectopatagium
@@ -13285,6 +13284,7 @@ exponence
 exponential
 exponentially
 esparsette
+exceptioner
 ectocyst
 exponentiates
 exponentiation
