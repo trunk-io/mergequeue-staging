@@ -1037,7 +1037,6 @@ edemas
 ebriose
 edemata
 ephesian
-edematose
 engaol
 edemic
 eden
@@ -11482,6 +11481,7 @@ espece
 encyclopaedically
 erumpent
 eventuality
+edematose
 eventualities
 egrets
 eventually
