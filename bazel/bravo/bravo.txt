@@ -4220,7 +4220,6 @@ birthrates
 be
 bemirrorment
 beautified
-beautifier
 biriba
 beautifiers
 ballised
@@ -7141,6 +7140,7 @@ breakably
 bestialize
 bestialized
 beachheads
+beautifier
 bartizan
 blackcaps
 backdrops
