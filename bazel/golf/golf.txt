@@ -4054,7 +4054,6 @@ guanins
 gifts
 gneisses
 galleries
-granularity
 garnished
 galline
 giga
@@ -7208,6 +7207,7 @@ grossify
 glazers
 glonoin
 gastromyxorrhea
+granularity
 gordioidea
 gaul
 gordolobo
