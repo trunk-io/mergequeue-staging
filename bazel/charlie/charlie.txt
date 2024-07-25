@@ -23064,7 +23064,6 @@ consolator
 corticin
 consolatoriness
 consolatrix
-console
 crossfire
 cuneonavicular
 centeses
@@ -23422,6 +23421,7 @@ container
 containerboard
 containerization
 containerized
+console
 contraorbitally
 crewellery
 containerizes
