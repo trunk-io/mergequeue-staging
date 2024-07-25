@@ -8300,7 +8300,6 @@ bigha
 borasqueborate
 bettas
 bighead
-bigheaded
 bighearted
 bigheartedly
 bacteriochlorophyll
@@ -13825,6 +13824,7 @@ browden
 boxthorns
 boxty
 boxtops
+bigheaded
 boxtree
 boxwood
 boxwoods
