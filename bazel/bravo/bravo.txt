@@ -12367,7 +12367,6 @@ bonderize
 bonderman
 bonders
 bondfolk
-bondholder
 bondholders
 bondieuserie
 bonding
@@ -16682,6 +16681,7 @@ bitingly
 budgeter
 buttonlike
 byliner
+bondholder
 bridecup
 bacaba
 boophilus
