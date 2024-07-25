@@ -1094,6 +1094,7 @@ beauclerk
 backplate
 blindfoldly
 bailiery
+blastula
 bailieries
 brutalizes
 bailies
@@ -10436,7 +10437,6 @@ bluntness
 blastozooid
 blastplate
 blasts
-blastula
 blastulae
 blastular
 blastulation
