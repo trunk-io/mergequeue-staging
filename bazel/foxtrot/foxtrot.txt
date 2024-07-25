@@ -4576,7 +4576,6 @@ forra
 foozled
 feinted
 fane
-fixures
 fizelyite
 fizgigs
 forcipressure
@@ -11181,6 +11180,7 @@ freestones
 fasciculated
 fungibility
 fungibles
+fixures
 fungic
 fungicidal
 fungiferous
