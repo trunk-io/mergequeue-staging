@@ -4251,7 +4251,6 @@ backplanes
 beaverroot
 beavers
 beaverskin
-beaverteen
 blackbirds
 beinly
 beaverwood
@@ -6946,6 +6945,7 @@ bandsawing
 baguio
 beslubber
 bal
+beaverteen
 beslur
 besmearer
 beryl
