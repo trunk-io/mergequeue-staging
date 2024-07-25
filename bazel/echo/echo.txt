@@ -3938,7 +3938,6 @@ emirship
 escheat
 equinovarus
 emissary
-ectocuniform
 eikon
 eremitical
 emissaries
@@ -10436,6 +10435,7 @@ epizeuxis
 extranatural
 euphemiser
 extended
+ectocuniform
 ethmose
 ethmosphenoid
 ethmosphenoidal
