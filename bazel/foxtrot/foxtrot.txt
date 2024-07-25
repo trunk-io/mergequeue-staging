@@ -2124,7 +2124,6 @@ flawier
 fungoids
 flammulation
 fearnaught
-felspar
 fastidiously
 felspars
 friezy
@@ -10772,6 +10771,7 @@ feedboard
 fistuliform
 frwy
 formular
+felspar
 fdnames
 fs
 flirty
