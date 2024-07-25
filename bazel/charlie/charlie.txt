@@ -10167,6 +10167,7 @@ chesil
 cheskey
 cheskeys
 cheson
+curdled
 chesoun
 chessboard
 chessboards
@@ -23789,7 +23790,6 @@ contradictorily
 contradictoriness
 conceptism
 caproyl
-curdled
 contradicts
 capriccioso
 contradistinct
