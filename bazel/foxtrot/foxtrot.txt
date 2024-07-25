@@ -1765,6 +1765,7 @@ featishness
 featless
 featly
 featliest
+forbiddable
 flocculency
 featliness
 felucca
@@ -8669,7 +8670,6 @@ fortifyingly
 fortifys
 fortin
 firoloida
-forbiddable
 fortypenny
 fortis
 fortissimos
