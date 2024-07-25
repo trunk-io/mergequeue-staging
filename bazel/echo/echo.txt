@@ -1926,7 +1926,6 @@ ethmovomer
 entitle
 elric
 eyras
-eire
 epiphenomenon
 eyre
 ermanrich
@@ -11824,6 +11823,7 @@ erosional
 examinership
 examplar
 equestrians
+eire
 example
 exampled
 exampleless
