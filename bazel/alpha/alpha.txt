@@ -13707,6 +13707,7 @@ annuloida
 annulosa
 annulosan
 annuls
+astron
 annulus
 annuluses
 aphids
@@ -22347,7 +22348,6 @@ antiflattering
 astrometer
 astrometry
 astrometrical
-astron
 accepter
 acumen
 astronaut
