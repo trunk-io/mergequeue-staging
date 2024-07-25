@@ -4494,7 +4494,6 @@ demerse
 demersed
 demesgne
 demesman
-dialyse
 demesne
 demesnes
 demesnial
@@ -4997,6 +4996,7 @@ demultiplexed
 demultiplexers
 disroot
 deicing
+dialyse
 diazepam
 demultiplexes
 demure
