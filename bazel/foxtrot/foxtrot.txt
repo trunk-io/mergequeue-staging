@@ -4993,6 +4993,7 @@ ferricyanhydric
 finish
 fidia
 foxchop
+footsteps
 folky
 fanfish
 flaskets
@@ -7208,7 +7209,6 @@ fordwine
 fatties
 flagpoles
 footstep
-footsteps
 flashbulbs
 footstock
 functionating
