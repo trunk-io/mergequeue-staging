@@ -6620,7 +6620,6 @@ enterogastrone
 enterogenous
 enterogram
 enterography
-enterohelcosis
 enterohydrocele
 escarped
 emanative
@@ -8866,6 +8865,7 @@ eranthemum
 epauliere
 erase
 erased
+enterohelcosis
 eradiculose
 endosymbiosis
 extracorporeally
