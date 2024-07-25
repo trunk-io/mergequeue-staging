@@ -4840,7 +4840,6 @@ carter
 carterly
 carters
 cartes
-cartesian
 carthaginian
 carthame
 carthamic
@@ -10256,6 +10255,7 @@ chevin
 cheviot
 cheviots
 chevise
+cartesian
 chevon
 chevre
 chevres

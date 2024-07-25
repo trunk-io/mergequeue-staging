@@ -913,7 +913,6 @@ gilds
 gametangium
 gotha
 gametes
-gametocyst
 geison
 gametogeny
 gigge
@@ -5208,6 +5207,7 @@ gorgonacea
 gashing
 goatly
 goyim
+gametocyst
 glandlike
 gaberdines
 goodwills
