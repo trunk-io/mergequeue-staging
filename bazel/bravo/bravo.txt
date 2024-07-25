@@ -6392,7 +6392,6 @@ benzophenothiazine
 baysmelts
 benzophenoxazine
 benzophloroglucinol
-benzophosphinic
 benzophthalazine
 benzopinacone
 benzopyran
@@ -16871,6 +16870,7 @@ builders
 building
 biarticular
 buildings
+benzophosphinic
 buildress
 bastardly
 benzazide
