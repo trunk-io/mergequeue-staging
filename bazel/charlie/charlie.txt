@@ -128,6 +128,7 @@ cablegrams
 cablelaid
 cableless
 cablelike
+coronetted
 cableman
 cablemen
 cables
@@ -25599,7 +25600,6 @@ coronet
 coroneted
 contraflow
 coronets
-coronetted
 coronetty
 chevied
 coroniform
