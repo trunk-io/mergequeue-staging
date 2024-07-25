@@ -1813,6 +1813,7 @@ fecklessly
 fylker
 flytier
 feckulence
+fortis
 ferae
 floggable
 feculence
@@ -8664,7 +8665,6 @@ fortifys
 fortin
 firoloida
 fortypenny
-fortis
 fortissimos
 fortlet
 fenzelia
