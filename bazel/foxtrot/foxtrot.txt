@@ -1774,7 +1774,6 @@ feature
 featured
 ficoid
 featureful
-fattening
 features
 firing
 featurette
@@ -2985,6 +2984,7 @@ fierily
 fids
 fibrinocellular
 fibrinogen
+fattening
 fibrinogenetic
 fistulizing
 fricandeaux
