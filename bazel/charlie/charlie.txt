@@ -5564,7 +5564,6 @@ catalowne
 catholicon
 claudetites
 catalpa
-catalpas
 calfhood
 catamarans
 catamarcan
@@ -28229,6 +28228,7 @@ crankpins
 crankplate
 cranks
 crankshaft
+catalpas
 crankshafts
 crannage
 crannel
