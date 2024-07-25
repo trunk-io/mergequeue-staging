@@ -6569,7 +6569,6 @@ descender
 dungon
 descendibility
 descendible
-descending
 descendingly
 declericalize
 descends
@@ -16873,6 +16872,7 @@ dynamotor
 drawn
 drawnet
 drumbling
+descending
 deepeningly
 drawnly
 drawnness
