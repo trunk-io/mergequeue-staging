@@ -5866,7 +5866,6 @@ foretype
 fluminous
 floorer
 facsimile
-falderals
 floorhead
 flooring
 foremark
@@ -8429,6 +8428,7 @@ francois
 feedable
 formylated
 formylating
+falderals
 formin
 freeholds
 fixtures
