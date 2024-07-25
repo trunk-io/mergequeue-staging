@@ -12287,7 +12287,6 @@ ancoly
 aesculus
 ancome
 ancon
-anconad
 antirobin
 anconal
 amidosuccinamic
@@ -16819,6 +16818,7 @@ apheliotropism
 aphemic
 aphengescope
 aphengoscope
+anconad
 apheresis
 apheretic
 apheses
