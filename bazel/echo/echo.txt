@@ -4580,7 +4580,6 @@ encephalotome
 encephalotomy
 exothermicity
 earths
-endoplasma
 enchafe
 enchain
 esth
@@ -9877,6 +9876,7 @@ elfdom
 essera
 epipterous
 essexite
+endoplasma
 essoign
 essoin
 elpidite
