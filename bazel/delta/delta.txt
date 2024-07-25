@@ -3429,7 +3429,6 @@ defoedation
 defog
 disyllable
 defogger
-defoggers
 defogs
 defoil
 dawish
@@ -4200,6 +4199,7 @@ delirate
 dcbname
 dianthuses
 decorement
+defoggers
 dividedness
 deliration
 dependence
