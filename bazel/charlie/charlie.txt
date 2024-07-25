@@ -1144,7 +1144,6 @@ calculations
 craniostenosis
 calculator
 cochliodont
-calculatory
 calculer
 calculi
 calculiform
@@ -2674,6 +2673,7 @@ canonicalizes
 canonicalizing
 congealer
 canonically
+calculatory
 canonicalness
 canonicate
 canonici
