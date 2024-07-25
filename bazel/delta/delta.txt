@@ -3910,7 +3910,6 @@ dekadrachm
 distinctest
 dekagram
 daphnad
-dekaliters
 dekametre
 detracter
 dekaparsec
@@ -13425,6 +13424,7 @@ disrepair
 disreport
 dislocates
 dinero
+dekaliters
 disreputable
 disreputableness
 disreputably
