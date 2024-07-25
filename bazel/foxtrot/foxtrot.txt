@@ -8336,6 +8336,7 @@ formaliter
 forestair
 formalith
 formalities
+feoffors
 formalizations
 formalize
 formalizes
@@ -10241,7 +10242,6 @@ formerness
 frizzers
 finitary
 frizzes
-feoffors
 finning
 finjan
 flattish
