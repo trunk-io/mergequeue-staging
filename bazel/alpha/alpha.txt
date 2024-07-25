@@ -4673,7 +4673,6 @@ advertiser
 advertisers
 adenofibrosis
 advertizable
-advertized
 advertizement
 advertizer
 autocatharsis
@@ -8477,6 +8476,7 @@ acesodynous
 alkalizate
 acrasins
 alkalize
+advertized
 alkalizes
 alkaloid
 awd
