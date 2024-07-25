@@ -4650,7 +4650,6 @@ adversity
 adversities
 ampule
 absentia
-adversive
 adversus
 adverted
 advertence
@@ -17681,6 +17680,7 @@ apperceived
 afterfall
 apperceiving
 apperception
+adversive
 apperceptionism
 apperceptionist
 apperceptive
