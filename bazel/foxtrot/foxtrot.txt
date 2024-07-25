@@ -752,7 +752,6 @@ fenchol
 fringefoot
 feudalise
 fanciable
-factionally
 fancied
 fieldpieces
 fancier
@@ -8876,6 +8875,7 @@ fou
 foud
 floridity
 fouette
+factionally
 forewaters
 foolhardiness
 forgotten
