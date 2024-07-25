@@ -14414,7 +14414,6 @@ boggy
 branchiogenous
 burets
 branchiomere
-branchiomeric
 branchiomerism
 beset
 brazing
@@ -15012,6 +15011,7 @@ baseplate
 bushiness
 biers
 brevicomis
+branchiomeric
 blype
 breviconic
 balneographer
