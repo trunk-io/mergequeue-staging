@@ -19112,7 +19112,6 @@ colletidae
 colletin
 coccionella
 colleting
-colletotrichum
 collets
 colletside
 collibert
@@ -28243,6 +28242,7 @@ crannied
 crannies
 chymify
 compiler
+colletotrichum
 crannock
 cannonball
 corvktte
