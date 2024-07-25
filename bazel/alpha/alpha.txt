@@ -8597,7 +8597,6 @@ abridgedly
 allegata
 allegate
 allegation
-allegations
 allegator
 allegeable
 athold
@@ -17128,6 +17127,7 @@ apocyte
 apocopated
 apocopating
 apocopation
+allegations
 apocope
 apocrypha
 apocryphal
