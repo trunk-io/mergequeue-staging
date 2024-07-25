@@ -9356,7 +9356,6 @@ chattels
 canamary
 cautivo
 chattelship
-chatter
 cerned
 chatterbox
 chatterer
@@ -11348,6 +11347,7 @@ chlorize
 chlormethylic
 chlornal
 chloroacetate
+chatter
 chloroacetone
 chloroacetophenone
 chloroamide
