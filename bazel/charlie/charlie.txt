@@ -19020,7 +19020,6 @@ collectarium
 correctives
 cytisus
 collected
-collectibility
 collectible
 cuneiform
 collectibles
@@ -20821,6 +20820,7 @@ complies
 complying
 cryohydrate
 compliment
+collectibility
 complimentable
 complimental
 complimentally
