@@ -18048,7 +18048,6 @@ coachmen
 coelomes
 coelomic
 coelomocoela
-coelomopore
 coeloms
 coelonavigation
 ceraceous
@@ -29558,6 +29557,7 @@ crystolon
 cristopher
 crystosphene
 crit
+coelomopore
 critchfield
 criteria
 criteriia
