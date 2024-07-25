@@ -5663,7 +5663,6 @@ duckeries
 dependency
 dependencies
 dosimeters
-dependently
 diatrymiformes
 dysnomy
 doketic
@@ -10983,6 +10982,7 @@ disablers
 decahedron
 disabuse
 dysfunctions
+dependently
 diapir
 decliner
 disabusing
