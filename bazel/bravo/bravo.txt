@@ -6296,7 +6296,6 @@ benzanalgen
 beaconage
 bitreadle
 benzanthracene
-benzanthrone
 benzantialdoxime
 bellwort
 bowyer
@@ -9160,6 +9159,7 @@ blistery
 bromogelatin
 biotics
 bursty
+benzanthrone
 barleduc
 biotin
 biotype
