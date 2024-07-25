@@ -3743,6 +3743,7 @@ feeble
 fictil
 fumeuse
 flailing
+feinter
 filthiness
 fossors
 favi
@@ -5840,7 +5841,6 @@ floody
 floodless
 floodlet
 floodlight
-feinter
 francis
 frory
 floodlighted
