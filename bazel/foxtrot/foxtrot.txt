@@ -10363,7 +10363,6 @@ fumarase
 felspath
 florilegium
 frondiferous
-fagald
 frondigerous
 frondose
 frankeniaceae
@@ -11222,6 +11221,7 @@ fungological
 fritts
 fungose
 fungus
+fagald
 flaminica
 flightiest
 fungused
