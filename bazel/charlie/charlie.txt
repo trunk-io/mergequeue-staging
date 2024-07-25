@@ -2122,6 +2122,7 @@ campstools
 camptonite
 chefs
 campulitropal
+crescence
 complicant
 campus
 campuses
@@ -28805,7 +28806,6 @@ cres
 carpels
 cresc
 cicrumspections
-crescence
 crescendi
 crescendo
 crescendoed
