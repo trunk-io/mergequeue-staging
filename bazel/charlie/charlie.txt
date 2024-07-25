@@ -14178,7 +14178,6 @@ carpocervical
 circaetus
 circar
 coriandrol
-circassian
 circassic
 circe
 circean
@@ -29939,6 +29938,7 @@ crosslike
 carbosilicate
 crossline
 crossopterygii
+circassian
 crossosoma
 crossover
 concrete
