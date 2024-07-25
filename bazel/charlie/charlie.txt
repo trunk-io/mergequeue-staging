@@ -10729,7 +10729,6 @@ chime
 croaky
 chyme
 chimer
-curn
 chimeral
 cheddar
 chimeras
@@ -14870,6 +14869,7 @@ cityscapes
 cytitis
 cityward
 chasmy
+curn
 citywide
 connaturalize
 citizen
