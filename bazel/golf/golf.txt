@@ -1221,7 +1221,6 @@ gheraoed
 gantry
 gantryman
 gorebill
-gantsl
 goniotheca
 guy
 gaol
@@ -7237,6 +7236,7 @@ genesee
 gorgeted
 gorgio
 gorglin
+gantsl
 gorgon
 geoduck
 gorgonaceous
