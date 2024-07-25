@@ -4264,7 +4264,6 @@ gimbal
 garua
 gaussian
 gimbaled
-gimbaling
 gurshes
 giglot
 gimballing
@@ -5762,6 +5761,7 @@ ghanian
 globoid
 galacturia
 globose
+gimbaling
 genuflectory
 gladstonianism
 guazzo
