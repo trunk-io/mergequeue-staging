@@ -3708,7 +3708,6 @@ filopodia
 floorcloth
 fluoridated
 filopodium
-filosa
 fetis
 frankify
 foreview
@@ -6125,6 +6124,7 @@ flouts
 fiorded
 foredoor
 flowage
+filosa
 frounceless
 flowcharted
 flowcharting
