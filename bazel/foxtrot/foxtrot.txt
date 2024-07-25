@@ -3853,7 +3853,6 @@ finds
 furlough
 fixes
 fine
-fusty
 fineable
 fineableness
 finebent
@@ -4792,6 +4791,7 @@ flaking
 firefighter
 flam
 flamb
+fusty
 flambage
 flambant
 fungible
