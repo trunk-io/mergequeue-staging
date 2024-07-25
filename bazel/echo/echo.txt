@@ -4407,7 +4407,6 @@ epictetian
 endromis
 eggeater
 enantiomeric
-excels
 expropriated
 enantiomorph
 enantiomorphism
@@ -6664,6 +6663,7 @@ etatisms
 enteroscopy
 enterosyphilis
 electrophonic
+excels
 enterospasm
 enterostasis
 earthstar
