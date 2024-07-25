@@ -3900,6 +3900,7 @@ ghostwriters
 goes
 gazometer
 ghostwriting
+greenly
 gingerade
 ghostwritten
 guipure
@@ -8715,7 +8716,6 @@ greenleaf
 gamostelic
 greenless
 greenlets
-greenly
 greenness
 greenockite
 greenovite
