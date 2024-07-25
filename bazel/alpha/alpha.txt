@@ -14323,7 +14323,6 @@ anterodorsal
 anteroflexion
 anterofrontal
 anterograde
-anteroinferior
 avichi
 anterointerior
 anterointernal
@@ -15814,6 +15813,7 @@ antipart
 antiparticles
 antipasch
 asylum
+anteroinferior
 antipascha
 antipass
 antipasti
