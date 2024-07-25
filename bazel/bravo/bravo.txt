@@ -605,7 +605,6 @@ bu
 belibeling
 backswept
 barbered
-backswimmer
 backswing
 bettergates
 bestness
@@ -17772,6 +17771,7 @@ burmese
 burmite
 burnable
 burnbeat
+backswimmer
 bombshell
 burned
 burner
