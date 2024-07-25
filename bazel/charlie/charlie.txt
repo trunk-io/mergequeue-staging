@@ -7608,7 +7608,6 @@ cerebellar
 cerebellipetal
 cotwinned
 cerebellitis
-cerebellocortex
 choregraphy
 cerebellopontile
 coastlines
@@ -22450,6 +22449,7 @@ conidian
 conidiiferous
 conidioid
 capillitium
+cerebellocortex
 conidiophorous
 conidiospore
 conies
