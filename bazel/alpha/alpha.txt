@@ -2163,7 +2163,6 @@ accroachment
 acetometrically
 acetomorphine
 acetonaemia
-acetonaemic
 acetonaphthone
 amphipneust
 acetonation
@@ -15079,6 +15078,7 @@ anticonventionalist
 alienism
 anticonvulsant
 anticonvulsive
+acetonaemic
 anticorn
 anticorona
 anticorrosive
