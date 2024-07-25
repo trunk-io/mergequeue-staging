@@ -6634,7 +6634,6 @@ bathymetrically
 bergy
 berginize
 bergman
-bergmannite
 bergomask
 bergschrund
 bergsonian
@@ -14335,6 +14334,7 @@ brainworker
 brairded
 biasways
 booing
+bergmannite
 braireau
 brays
 braise
