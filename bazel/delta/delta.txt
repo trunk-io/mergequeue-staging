@@ -5691,7 +5691,6 @@ demodulator
 depersonalization
 depersonalized
 desensitized
-depersonalizes
 diplontic
 depertible
 depetalize
@@ -12784,6 +12783,7 @@ dismality
 dismalities
 dismalize
 dismally
+depersonalizes
 dismalness
 dismals
 dubbeltje
