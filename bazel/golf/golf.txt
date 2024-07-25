@@ -1744,7 +1744,6 @@ gnostic
 gastrohysteropexy
 groundswells
 gastrohysterotomy
-gastroid
 garmenting
 gonyaulax
 groow
@@ -1994,6 +1993,7 @@ gauss
 gufought
 gaussage
 geniohyoglossus
+gastroid
 geometrical
 glaciological
 greedier
