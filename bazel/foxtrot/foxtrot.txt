@@ -6693,7 +6693,6 @@ foes
 followable
 frankable
 foetalization
-foetation
 foetiparous
 foppishly
 farcically
@@ -8088,6 +8087,7 @@ foreward
 fiddlededee
 ferreiro
 forewarm
+foetation
 forewarn
 floit
 fibroblast
