@@ -19567,7 +19567,6 @@ argling
 argoan
 aerocolpos
 argol
-armenic
 azoblack
 argolet
 argoletier
@@ -22092,6 +22091,7 @@ archetypes
 asterophyllite
 asterospondyli
 asterospondylic
+armenic
 anisodactyli
 asterospondylous
 asteroxylaceae
