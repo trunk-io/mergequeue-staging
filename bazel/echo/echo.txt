@@ -4527,7 +4527,6 @@ enceinte
 enceintes
 encelia
 exoccipital
-exposed
 encell
 englad
 encense
@@ -4938,6 +4937,7 @@ epiphyseolysis
 endarterectomy
 endarterial
 endarteritis
+exposed
 endarterium
 enquiry
 endaspidean
