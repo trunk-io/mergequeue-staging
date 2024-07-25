@@ -5183,6 +5183,7 @@ aes
 aesc
 awfulness
 attendancy
+apoharmine
 aeschylean
 aeschylus
 astronauts
@@ -16909,7 +16910,6 @@ aphrite
 alaternus
 aphrizite
 aphrodesiac
-apoharmine
 aphrodisia
 aphrodisiac
 avoidless
