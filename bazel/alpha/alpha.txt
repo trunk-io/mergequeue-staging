@@ -1754,7 +1754,6 @@ accords
 axilemmata
 accorporation
 accost
-accostable
 antiscrofulous
 accosted
 accosting
@@ -8731,6 +8730,7 @@ arithmeticians
 alliable
 alliaceae
 adipolysis
+accostable
 antiperistatically
 alliaceous
 alliage
