@@ -5109,7 +5109,6 @@ gramenite
 globular
 gladioli
 galvanized
-grufted
 gemmery
 geeing
 glacieret
@@ -8978,6 +8977,7 @@ grike
 grill
 galoshes
 grilladed
+grufted
 grillades
 grizzlers
 greenthumbed
