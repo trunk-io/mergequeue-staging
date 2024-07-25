@@ -10488,7 +10488,6 @@ astigmism
 amigas
 amygdal
 amygdalaceous
-amygdalae
 amygdalase
 amygdalate
 amygdale
@@ -23129,6 +23128,7 @@ asperggilla
 attitudiniser
 attitudinising
 attitudinize
+amygdalae
 attitudinized
 attitudinizer
 attitudinizes
