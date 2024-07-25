@@ -8784,7 +8784,6 @@ chanticleers
 carcavelhos
 chantier
 curiousness
-chanties
 chantilly
 chanting
 cornflag
@@ -12626,6 +12625,7 @@ chromosomally
 chromosome
 chromosomic
 chromosphere
+chanties
 chromospheres
 clarigate
 calciphylactically
