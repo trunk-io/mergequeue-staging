@@ -4363,7 +4363,6 @@ carlisle
 carloading
 carloadings
 carloads
-carlock
 carlos
 crottels
 carlot
@@ -30510,6 +30509,7 @@ cubiculary
 cubiculo
 critch
 cubiform
+carlock
 cubing
 cubist
 casanovas
