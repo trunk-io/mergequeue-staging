@@ -1660,7 +1660,6 @@ ballonet
 ballonets
 basisphenoidal
 ballonette
-ballonne
 ballonnes
 balloon
 ballooned
@@ -4568,6 +4567,7 @@ believably
 bedeck
 buddleia
 balanoposthitis
+ballonne
 blintz
 bedecking
 beck
