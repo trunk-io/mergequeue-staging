@@ -3673,7 +3673,6 @@ exacinate
 embryomata
 endorser
 embryon
-embryonal
 embryonally
 embryonary
 exhortative
@@ -9732,6 +9731,7 @@ enteromycosis
 esophagotome
 esophoria
 esopus
+embryonal
 exendospermous
 erectilities
 elritch
