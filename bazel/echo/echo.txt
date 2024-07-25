@@ -5213,6 +5213,7 @@ extradicted
 expiratory
 endoparasitism
 endopathic
+epitaxis
 euplectella
 endopeptidase
 endoperidium
@@ -8324,7 +8325,6 @@ enserf
 epitaxic
 epitaxies
 eucyclic
-epitaxis
 epitendineum
 epitenon
 exceptiousness
