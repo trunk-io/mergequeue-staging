@@ -4583,6 +4583,7 @@ fizzier
 foxholes
 fizzled
 fizzles
+fadedness
 falsely
 formicarioid
 foxtail
@@ -5863,7 +5864,6 @@ floodwater
 floodwood
 felinities
 flooey
-fadedness
 flook
 floorages
 foveated
