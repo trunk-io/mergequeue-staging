@@ -5263,7 +5263,6 @@ denotative
 dratted
 denominate
 denotatum
-denote
 denotement
 disrupted
 denouements
@@ -16483,6 +16482,7 @@ dogtrick
 doze
 dozed
 dozened
+denote
 disembarkment
 derbylite
 distemperure
