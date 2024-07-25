@@ -3509,7 +3509,6 @@ flippant
 fizzer
 filelike
 farewells
-freespac
 fogie
 fanti
 filemark
@@ -11316,6 +11315,7 @@ furbearer
 franion
 furbelowing
 furbished
+freespac
 furbisher
 foamiest
 furbishes
