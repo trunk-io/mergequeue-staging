@@ -2032,6 +2032,7 @@ campesinos
 campestral
 campestrian
 campfight
+cowichan
 campfires
 campground
 campgrounds
@@ -27678,7 +27679,6 @@ cowhorn
 clockers
 cowyard
 cradleside
-cowichan
 cowier
 copilot
 cowing
