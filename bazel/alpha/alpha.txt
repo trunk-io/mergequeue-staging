@@ -3892,7 +3892,6 @@ adiaphorite
 adiaphoron
 adiaphorous
 adiate
-adiated
 adiathermal
 arridge
 anisostaminous
@@ -14483,6 +14482,7 @@ anthoxanthum
 anthozoa
 anthozoan
 anthozoic
+adiated
 allopathy
 anthozoon
 auscultatory
