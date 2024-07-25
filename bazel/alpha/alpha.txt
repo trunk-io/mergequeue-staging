@@ -2619,6 +2619,7 @@ acmes
 acmesthesia
 acmic
 acmite
+apod
 awatch
 amerind
 athetotic
@@ -17145,7 +17146,6 @@ aponeurotic
 apocryphalist
 argumentive
 apocrisiary
-apod
 areopagy
 apoda
 aerophotography
