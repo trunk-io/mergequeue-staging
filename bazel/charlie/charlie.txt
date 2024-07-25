@@ -4903,7 +4903,6 @@ cartouch
 cartouche
 cartouches
 cartridge
-cartridges
 carts
 commonwealth
 cubisms
@@ -26404,6 +26403,7 @@ coteries
 conquests
 coterminal
 coterminous
+cartridges
 chaoses
 coterminously
 coterminousness
