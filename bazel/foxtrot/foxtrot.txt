@@ -4819,7 +4819,6 @@ flamboyantize
 farcies
 forcefulness
 flamboyantly
-flamingly
 farthest
 flameless
 flamelike
@@ -10365,6 +10364,7 @@ figurate
 frondeurs
 framers
 frigoric
+flamingly
 fumarase
 felspath
 florilegium
