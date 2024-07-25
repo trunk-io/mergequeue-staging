@@ -1667,7 +1667,6 @@ amortised
 accoast
 archvillainy
 accoil
-accolade
 accoladed
 archantagonist
 asperser
@@ -17391,6 +17390,7 @@ aposporous
 apostacy
 apostacies
 apostasy
+accolade
 apostasies
 aberr
 apostasis
