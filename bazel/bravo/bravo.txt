@@ -12620,7 +12620,6 @@ basiliscan
 bookkeeps
 bearhide
 bookland
-booklear
 blastocele
 burthenman
 booklets
@@ -15606,6 +15605,7 @@ broadpiece
 broadshare
 broadsheet
 broadside
+booklear
 broadsided
 broadsider
 beaky
