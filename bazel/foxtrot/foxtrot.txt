@@ -2542,6 +2542,7 @@ fontanels
 frottages
 ferronatrite
 ferrophosphorus
+fireshine
 fluctuous
 filicologist
 fungologist
@@ -7978,7 +7979,6 @@ forestaffs
 flintify
 forestage
 futurisms
-fireshine
 forestall
 forbiddance
 foraneen
