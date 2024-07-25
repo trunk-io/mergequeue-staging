@@ -22418,7 +22418,6 @@ compoing
 congruences
 cogswellia
 chandlers
-congruency
 congruencies
 congruent
 congruential
@@ -31598,6 +31597,7 @@ curvets
 curvette
 curvetted
 curvy
+congruency
 curvicaudate
 curvicostate
 climatotherapeutics
