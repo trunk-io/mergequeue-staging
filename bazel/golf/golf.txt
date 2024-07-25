@@ -5492,7 +5492,6 @@ geocoronium
 gunbright
 gutta
 glycogenesis
-glycogenetic
 guha
 groan
 grilles
@@ -6894,6 +6893,7 @@ gonidiferous
 gonidiogenous
 ghaist
 gothites
+glycogenetic
 gonidioid
 gonidiose
 gonidium
