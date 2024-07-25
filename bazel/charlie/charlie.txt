@@ -22166,7 +22166,6 @@ conformationally
 conformations
 conformator
 conformer
-coiffeuse
 conformers
 counterview
 conforming
@@ -25283,6 +25282,7 @@ corinthianism
 corinthians
 coriolanus
 coryphaei
+coiffeuse
 coryphaena
 cushioncraft
 coryphaenid
