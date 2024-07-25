@@ -4619,7 +4619,6 @@ epicoelia
 epistolean
 enchantments
 enchants
-encharge
 encharging
 exopodite
 epirogenic
@@ -9372,6 +9371,7 @@ erubescite
 eruca
 eruct
 eructance
+encharge
 electrocutioner
 endeavor
 eructating
