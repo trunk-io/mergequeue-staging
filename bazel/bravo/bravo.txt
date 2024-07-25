@@ -12100,7 +12100,6 @@ bollards
 brahms
 bolled
 boller
-bicylindrical
 brickiest
 bolling
 bollito
@@ -13674,6 +13673,7 @@ bowery
 bastions
 botryose
 boweries
+bicylindrical
 boweryish
 bowering
 bowerlet
