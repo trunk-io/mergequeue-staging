@@ -1115,7 +1115,6 @@ byssin
 bailments
 bailo
 bailors
-bailouts
 bailpiece
 bails
 bailwood
@@ -3241,6 +3240,7 @@ basifying
 basifixed
 basifugal
 basigamous
+bailouts
 basigenous
 basigynium
 basiglandular
