@@ -6218,6 +6218,7 @@ existent
 enquarter
 enterobacterial
 exogonium
+enflagellate
 enqueue
 enqueued
 enlief
@@ -6439,7 +6440,6 @@ emitters
 ensorcelize
 ensorcell
 ensorcellment
-enflagellate
 estimate
 electromuscular
 elegancy
