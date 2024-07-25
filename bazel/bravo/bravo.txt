@@ -614,7 +614,6 @@ behav
 backtack
 backtender
 blumea
-backtenter
 bermudian
 blimps
 backtrack
@@ -4350,6 +4349,7 @@ bechalking
 binarium
 bechamel
 bechance
+backtenter
 bechanced
 becharmed
 backings
