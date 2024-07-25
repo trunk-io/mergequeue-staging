@@ -3589,6 +3589,7 @@ concelebrating
 caravanserial
 caravel
 caravelle
+chaulmoograte
 caravels
 caraway
 condignity
@@ -9406,7 +9407,6 @@ committer
 chauliodes
 chaulmaugra
 chaulmoogra
-chaulmoograte
 chaulmoogric
 clapper
 chaulmugra
