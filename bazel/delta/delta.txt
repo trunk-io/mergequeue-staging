@@ -3481,7 +3481,6 @@ diplomatic
 defray
 deficiently
 dartling
-defrayable
 defrayal
 defrayals
 dehydrogenate
@@ -6195,6 +6194,7 @@ derelinquendi
 dissensualize
 derelinquish
 derencephalus
+defrayable
 dunghill
 derepress
 drawtubes
