@@ -1310,7 +1310,6 @@ balaklava
 balalaika
 balalaikas
 balan
-balance
 balanceable
 balanced
 balancedness
@@ -8364,6 +8363,7 @@ balladwise
 byhand
 bihari
 buckishly
+balance
 bihydrazine
 beribbon
 bijasal
