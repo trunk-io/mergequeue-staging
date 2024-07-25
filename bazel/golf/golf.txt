@@ -642,7 +642,6 @@ ghorkhar
 grunions
 galeodidae
 galvanizer
-gallinule
 grateful
 gallinulelike
 guarani
@@ -6032,6 +6031,7 @@ gyrfalcon
 glottalized
 gestures
 gomphocarpus
+gallinule
 geography
 glottid
 gynerium
