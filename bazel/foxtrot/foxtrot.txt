@@ -4143,7 +4143,6 @@ frontate
 fireplace
 falsary
 fulmicotton
-fireplaces
 facultied
 forfaulture
 frixion
@@ -4172,6 +4171,7 @@ firestop
 firestorm
 figwort
 firebrats
+fireplaces
 forhaile
 foaled
 forewisdom
