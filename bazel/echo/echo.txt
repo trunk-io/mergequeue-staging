@@ -4935,7 +4935,6 @@ exudate
 echopraxia
 excite
 epiphyseolysis
-endarterectomy
 endarterial
 endarteritis
 exposed
@@ -5250,6 +5249,7 @@ endoplastule
 endopleura
 endopleural
 endopleurite
+endarterectomy
 epiblemata
 electrometry
 endopodite
