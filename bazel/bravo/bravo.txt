@@ -1668,7 +1668,6 @@ ballooned
 balloonery
 bushmanship
 ballooners
-balloonet
 balloonfishes
 balloonflower
 balloonful
@@ -6501,6 +6500,7 @@ bepraiser
 billed
 beprank
 bepranked
+balloonet
 bepreach
 bepride
 beprose
