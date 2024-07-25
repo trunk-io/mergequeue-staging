@@ -2708,7 +2708,6 @@ canonries
 canons
 canonship
 cafe
-cautions
 canoodle
 canoodler
 cogitativeness
@@ -12166,6 +12165,7 @@ chow
 colima
 chowanoc
 convalesces
+cautions
 chowchow
 crocetin
 chowchows
