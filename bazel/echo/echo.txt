@@ -4607,7 +4607,6 @@ enchanted
 enchanter
 extramission
 enchantery
-excavationist
 enchanters
 epineuria
 ejacula
@@ -12294,6 +12293,7 @@ executed
 exoarteritis
 executes
 executing
+excavationist
 execution
 executioner
 export
