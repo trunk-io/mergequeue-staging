@@ -2883,6 +2883,7 @@ barothermograph
 boyology
 barothermohygrogram
 basilard
+becrowd
 barothermohygrograph
 baroto
 barotrauma
@@ -4467,7 +4468,6 @@ becrinolined
 becrippled
 becrippling
 becroak
-becrowd
 becrowded
 battycake
 becrowding
