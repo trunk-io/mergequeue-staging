@@ -5000,7 +5000,6 @@ fanfish
 flaskets
 fasnacht
 forelook
-fozier
 flugelhorn
 flasklet
 flasque
@@ -8009,6 +8008,7 @@ froes
 forestside
 flue
 feckly
+fozier
 fedellini
 forestwards
 flashlights
