@@ -6908,7 +6908,6 @@ entomophily
 entomophilous
 epinephelus
 entomophytous
-entomophobia
 entomophthoraceous
 eschalot
 enteric
@@ -11647,6 +11646,7 @@ evirtuate
 eviscerated
 expy
 euphemious
+entomophobia
 entomofauna
 eviscerates
 eluviate
