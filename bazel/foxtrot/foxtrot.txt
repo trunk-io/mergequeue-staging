@@ -6583,7 +6583,6 @@ feldspars
 fluviatile
 fluvicoline
 ferahan
-fluvioglacial
 fireshaft
 fluvious
 flame
@@ -8419,6 +8418,7 @@ formicoidea
 forswore
 florissant
 formidability
+fluvioglacial
 fusionless
 fibrobronchitis
 flocculating
