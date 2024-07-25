@@ -1463,6 +1463,7 @@ grammars
 garrisons
 garrnishable
 garron
+grifters
 garrons
 garroo
 gastornithidae
@@ -4960,7 +4961,6 @@ gitksan
 geobotanical
 gigantical
 gytling
-grifters
 gitonin
 glandulousness
 gitoxigenin
