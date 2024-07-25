@@ -6679,7 +6679,6 @@ foederati
 foehn
 foehnlike
 forenotice
-foeman
 filial
 foretypified
 firker
@@ -7552,6 +7551,7 @@ fluxroot
 foredated
 foredecks
 foredeclare
+foeman
 fourpounder
 fallotomy
 forthby
