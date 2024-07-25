@@ -4279,7 +4279,6 @@ falbalas
 fischerite
 filibranch
 fise
-fisetin
 fulgurous
 fishability
 fishback
@@ -7968,6 +7967,7 @@ forestaff
 forestaffs
 flintify
 forestage
+fisetin
 futurisms
 forestall
 forbiddance
