@@ -167,7 +167,6 @@ cabre
 cabree
 chimaeroidei
 cabrerite
-committal
 cabrestas
 cabresto
 cabret
@@ -7476,6 +7475,7 @@ ceramics
 ceramidium
 ceramist
 ceramium
+committal
 ceramography
 cathodegraph
 ceramographic
