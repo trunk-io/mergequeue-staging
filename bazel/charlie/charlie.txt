@@ -2864,7 +2864,6 @@ cantles
 cantline
 cantling
 canto
-cortege
 carvel
 cantonal
 cup
@@ -11324,6 +11323,7 @@ cantoned
 chlorination
 chlorinator
 chlorines
+cortege
 credere
 chlorinity
 corantos
