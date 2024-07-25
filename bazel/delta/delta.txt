@@ -723,6 +723,7 @@ diffusiveness
 danakil
 danalite
 danaro
+dismiss
 danburite
 dancalite
 diplanetic
@@ -12819,7 +12820,6 @@ dismes
 dismettled
 disminion
 dozens
-dismiss
 dismissal
 dismissals
 dismisser
