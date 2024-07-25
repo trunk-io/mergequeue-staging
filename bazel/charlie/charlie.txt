@@ -7418,6 +7418,7 @@ cephalopathy
 cephalopharyngeal
 cephalophyma
 cephalophine
+campimeter
 cephalophus
 cephaloplegia
 cephaloplegic
@@ -10627,7 +10628,6 @@ chillagite
 conter
 chiller
 csects
-campimeter
 chilli
 catchplate
 crank
