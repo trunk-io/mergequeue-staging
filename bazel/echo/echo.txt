@@ -4453,6 +4453,7 @@ encadre
 etrurian
 encaenia
 encage
+exemplified
 excided
 everywhither
 encaged
@@ -12367,7 +12368,6 @@ exemplifications
 exemplificative
 exemplificator
 electroimpulse
-exemplified
 exemplifier
 exemplifiers
 emergency
