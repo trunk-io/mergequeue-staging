@@ -18801,7 +18801,6 @@ coldhearted
 coldheartedness
 coldish
 coldly
-coldness
 coldnesses
 coldong
 chuffiness
@@ -19351,6 +19350,7 @@ colony
 colonial
 curculionidae
 candidas
+coldness
 colonialise
 cinenchym
 colonialised
