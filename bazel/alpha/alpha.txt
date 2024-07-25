@@ -1329,7 +1329,6 @@ acanonical
 acanth
 acantha
 acanthaceous
-acanthad
 acantharia
 acanthia
 amoinder
@@ -22960,6 +22959,7 @@ aeroperitoneum
 autodiagnosis
 anthoecology
 attachments
+acanthad
 attack
 aerophilic
 advocated
