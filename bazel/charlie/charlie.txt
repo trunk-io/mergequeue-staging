@@ -8808,7 +8808,6 @@ choli
 choleriform
 chaoush
 chap
-chapacura
 chapacuran
 chapah
 chapanec
@@ -20843,6 +20842,7 @@ compliments
 complin
 compline
 complines
+chapacura
 complins
 complish
 complot
