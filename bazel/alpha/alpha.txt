@@ -2812,6 +2812,7 @@ acreage
 acreak
 acream
 acred
+allergens
 agavose
 acredula
 acremen
@@ -12624,7 +12625,6 @@ anesthesiologists
 anesthesiometer
 anesthesis
 antiprophet
-allergens
 anesthetic
 auxotonic
 anesthetics
