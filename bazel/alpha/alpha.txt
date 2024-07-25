@@ -4532,7 +4532,6 @@ adumbrative
 adumbrellar
 aduncate
 aduncated
-aduncity
 aduncous
 adure
 autos
@@ -7760,6 +7759,7 @@ aldazin
 aldazine
 aldea
 absinthe
+aduncity
 aldeament
 aldebaran
 aldebaranium
