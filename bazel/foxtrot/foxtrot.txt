@@ -2495,7 +2495,6 @@ footcloths
 ferryman
 ferring
 fault
-fidepromission
 ferris
 fastball
 forweep
@@ -10602,6 +10601,7 @@ fructificative
 flitted
 fructifies
 fructokinase
+fidepromission
 familyish
 fructosan
 fiches
