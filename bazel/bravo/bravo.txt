@@ -4580,7 +4580,6 @@ bedecking
 beck
 bedecks
 bulbilla
-bedecorate
 bedeen
 beady
 bumblebees
@@ -4611,6 +4610,7 @@ bedewed
 bewreck
 bedewer
 borborygm
+bedecorate
 bedewing
 bedewoman
 bedews
