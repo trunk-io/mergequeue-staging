@@ -7677,7 +7677,6 @@ epicotyl
 egurgitate
 epicotyleal
 epicotyledonary
-epicotyls
 elaphomyces
 epicrises
 epicrisis
@@ -8015,6 +8014,7 @@ exhuming
 epinette
 epineural
 embrute
+epicotyls
 enosises
 entocyst
 epineurial
