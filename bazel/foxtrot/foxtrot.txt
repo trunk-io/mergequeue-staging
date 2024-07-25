@@ -2817,7 +2817,6 @@ feudalists
 feudality
 foredoing
 feudalities
-feudalization
 forelock
 feudalized
 footrace
@@ -8503,6 +8502,7 @@ forncast
 fornicate
 fornicating
 fornication
+feudalization
 floter
 fornicator
 furies
