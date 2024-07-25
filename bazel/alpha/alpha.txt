@@ -21293,7 +21293,6 @@ abhorred
 asyzygetic
 ask
 askable
-askance
 aligners
 askant
 askapart
@@ -23912,6 +23911,7 @@ autobiographal
 autobiographer
 astrophotometry
 autobiographers
+askance
 autobiography
 autobiographic
 agnomical
