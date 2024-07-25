@@ -2878,6 +2878,7 @@ apophthegm
 acroatic
 acrobacy
 acrobacies
+ascenders
 acrobat
 acrobatic
 aesthesics
@@ -15144,7 +15145,6 @@ antidictionary
 antidynastic
 antidynastical
 antidinic
-ascenders
 antidiphtheric
 antidiphtherin
 aplomb
