@@ -141,6 +141,7 @@ earspool
 earstone
 eoan
 enabled
+ectoparasitic
 eartag
 eartagged
 earthboard
@@ -896,7 +897,6 @@ ectonephridium
 endenization
 ectoparasite
 environmentalism
-ectoparasitic
 evangeliaries
 expirable
 ectoparasitica
