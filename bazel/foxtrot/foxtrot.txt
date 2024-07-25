@@ -1300,7 +1300,6 @@ fasts
 faunus
 fatiguability
 fastuous
-fastuousness
 fastus
 foreking
 finishable
@@ -3735,6 +3734,7 @@ fides
 feinschmeckers
 filterableness
 ferreted
+fastuousness
 filtered
 filterers
 floundering
