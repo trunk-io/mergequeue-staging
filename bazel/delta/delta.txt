@@ -3159,7 +3159,6 @@ debasingly
 diplomacy
 defection
 defections
-dismarry
 dextroamphetamine
 dissipable
 defective
@@ -7788,6 +7787,7 @@ daypeep
 devocalising
 dissertations
 devocalization
+dismarry
 devocalizing
 devocate
 deadweight
