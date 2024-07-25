@@ -6286,7 +6286,6 @@ causeuses
 causeway
 causewayed
 causewaying
-causewayman
 choraguses
 chromotropy
 causeways
@@ -7623,6 +7622,7 @@ cerebellum
 cerebellums
 cerebra
 cerebral
+causewayman
 cerebralgia
 cerebralism
 caramelization
