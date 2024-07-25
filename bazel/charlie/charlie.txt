@@ -17346,7 +17346,6 @@ coprecipitated
 coarse
 coarsely
 coarsen
-coarsened
 coarseness
 coarsening
 cipollino
@@ -29923,6 +29922,7 @@ carpentership
 crossings
 caulicule
 crossjack
+coarsened
 cordewane
 controversial
 cryoprobe
