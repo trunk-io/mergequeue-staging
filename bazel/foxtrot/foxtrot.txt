@@ -2214,6 +2214,7 @@ fence
 fideicommissary
 fencelessness
 fencelet
+firelocks
 familial
 fencelike
 frolickly
@@ -4794,7 +4795,6 @@ fibrinous
 flambant
 fungible
 fluorids
-firelocks
 flambeaus
 frittering
 flambeaux
