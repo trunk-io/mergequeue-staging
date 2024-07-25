@@ -16763,6 +16763,7 @@ clothes
 clothesbag
 clothesbasket
 clothesbrush
+commenda
 clotheshorses
 clothesyard
 clothesless
@@ -20078,7 +20079,6 @@ commencements
 commencer
 commencing
 commend
-commenda
 commendable
 commendably
 compsoa
