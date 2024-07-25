@@ -706,6 +706,7 @@ ecoclimate
 exospheric
 evanescent
 epipodia
+encampments
 expungement
 ecodeme
 ecol
@@ -4467,7 +4468,6 @@ encalendar
 encamp
 encamped
 encampment
-encampments
 endosecretory
 endoparasite
 euthyneurous
