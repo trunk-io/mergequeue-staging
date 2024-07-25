@@ -4179,7 +4179,6 @@ caretta
 carettochelydidae
 carex
 cravening
-carf
 carfare
 carfax
 carfloat
@@ -28823,6 +28822,7 @@ crescograph
 crescographic
 chirapsia
 cresegol
+carf
 cresyl
 cresylate
 cresylene
