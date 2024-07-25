@@ -716,7 +716,6 @@ bara
 bacteriogenic
 bacteriogenous
 bacteriohemolysin
-bacterioid
 bacteriolysin
 boohooed
 bacteriolysis
@@ -5350,6 +5349,7 @@ bronchiolitis
 branchstand
 beggarhood
 beets
+bacterioid
 behoney
 boomed
 behoof
