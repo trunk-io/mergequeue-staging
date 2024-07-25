@@ -8855,7 +8855,6 @@ allogenically
 allograph
 allographic
 alloy
-alloyage
 actinide
 alloyed
 alloimmune
@@ -17463,6 +17462,7 @@ apotelesmatic
 apothec
 apothecal
 apothecarcaries
+alloyage
 apothecary
 apothecaryship
 apothece
