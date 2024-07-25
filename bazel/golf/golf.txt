@@ -3355,7 +3355,6 @@ gnathobasic
 gerahs
 gamasoidea
 gerald
-glyptographer
 gorkiesque
 geast
 geraldine
@@ -7183,6 +7182,7 @@ germanies
 gor
 galleylike
 gora
+glyptographer
 goracco
 gorals
 glazes
