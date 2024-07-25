@@ -2436,6 +2436,7 @@ deckman
 despicable
 dehistoricize
 deckpipe
+demiturned
 diaplex
 deckswabber
 dialogues
@@ -4724,7 +4725,6 @@ demitted
 duplicidentata
 demitting
 demitube
-demiturned
 diglyph
 demiurgic
 distributed
