@@ -12652,7 +12652,6 @@ bookpress
 blast
 bookrests
 bookroom
-booksellerish
 bys
 boce
 booksellerism
@@ -15414,6 +15413,7 @@ briony
 borborygmic
 bogles
 bryonia
+booksellerish
 brachistochronous
 bryonidin
 bilinite
