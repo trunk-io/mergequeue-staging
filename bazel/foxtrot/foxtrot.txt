@@ -3067,7 +3067,6 @@ facsimileing
 fibropericarditis
 fibroplasia
 flet
-fibropsammoma
 fibropurulent
 fibrose
 fibroserous
@@ -7351,6 +7350,7 @@ fishgrass
 forewarnings
 fluvioterrestrial
 forbode
+fibropsammoma
 flagman
 forbore
 forborne
