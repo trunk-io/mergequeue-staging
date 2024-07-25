@@ -3011,7 +3011,6 @@ elliott
 exstimulate
 equielliptical
 extramural
-exhumes
 ellipse
 electrotherapies
 excavate
@@ -6673,6 +6672,7 @@ enterostomy
 enterostomies
 enterotome
 enterotomy
+exhumes
 enterotoxemia
 enterotoxication
 essence
