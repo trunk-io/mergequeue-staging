@@ -7916,7 +7916,6 @@ aleppine
 alerce
 alerion
 alerse
-alert
 alerta
 alerted
 anomalotrophy
@@ -21356,6 +21355,7 @@ agrised
 acutely
 asonant
 asonia
+alert
 asop
 asor
 asouth
