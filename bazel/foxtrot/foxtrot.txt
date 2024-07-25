@@ -1618,7 +1618,6 @@ favositoid
 fpm
 fertilizer
 favour
-favourable
 favourableness
 fornicatrices
 favoured
@@ -6862,6 +6861,7 @@ flensed
 firewood
 foliaceous
 foliaceousness
+favourable
 foliage
 foliaged
 filleting
