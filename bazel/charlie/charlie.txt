@@ -15317,7 +15317,6 @@ clayoquot
 claypans
 clair
 clairaudience
-caducei
 clairce
 claire
 clairecole
@@ -26798,6 +26797,7 @@ countercheck
 countercheer
 counterclaim
 counterclaimant
+caducei
 counterclaiming
 calligraph
 counterclaims
