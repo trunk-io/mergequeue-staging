@@ -2822,6 +2822,7 @@ feudalization
 forelock
 feudalized
 footrace
+fortuitist
 fulmar
 feudatary
 feudatory
@@ -8691,7 +8692,6 @@ frizzling
 filed
 forts
 fortuitism
-fortuitist
 fortuitous
 fortuitously
 fortuitus
