@@ -4889,7 +4889,6 @@ beegerite
 beevish
 beeherd
 bouncing
-beehive
 bargander
 bellbine
 beeyard
@@ -7090,6 +7089,7 @@ billyo
 besprinkle
 bunkos
 besprinkler
+beehive
 besprinkles
 besprizorni
 bespurred
