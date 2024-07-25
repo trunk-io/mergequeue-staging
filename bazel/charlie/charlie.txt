@@ -2189,7 +2189,6 @@ canaler
 canales
 canalete
 canalicular
-canaliculate
 canaliculated
 canaliculation
 canaliculi
@@ -12220,6 +12219,7 @@ chrestomathies
 chry
 chria
 callout
+canaliculate
 chris
 chrysal
 chrysalida
