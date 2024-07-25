@@ -6656,6 +6656,7 @@ enteropathogenic
 enteropexy
 echinulate
 enteropexia
+epitaxy
 enteroplasty
 esthesiogenic
 enteropneusta
@@ -8327,7 +8328,6 @@ effeminising
 expurgative
 excentral
 epitasis
-epitaxy
 enserf
 epitaxic
 epitaxies
