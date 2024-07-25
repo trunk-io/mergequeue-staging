@@ -2412,6 +2412,7 @@ electrogild
 erd
 electrogilding
 electrogram
+eirene
 electrometrically
 endosarc
 electrography
@@ -7633,7 +7634,6 @@ epicist
 explement
 ethylated
 etymologicon
-eirene
 epicystotomy
 epicleidium
 epicleses
