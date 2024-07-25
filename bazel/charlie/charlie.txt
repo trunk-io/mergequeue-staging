@@ -5280,7 +5280,6 @@ cartwhip
 casteth
 cepter
 country
-castice
 castigate
 coincidency
 castigated
@@ -22641,6 +22640,7 @@ connecter
 connectibility
 collyria
 coreign
+castice
 connectible
 clerkdoms
 connectibly
