@@ -499,6 +499,7 @@ bigmitt
 bufonid
 backscratcher
 backscratching
+beaconed
 balanceman
 backseat
 backsets
@@ -4165,7 +4166,6 @@ beaucoup
 beaued
 bootle
 bumfs
-beaconed
 bucrania
 beaufet
 bedlar
