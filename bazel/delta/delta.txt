@@ -1317,6 +1317,7 @@ detonators
 daughterhood
 daughterkin
 daughterless
+disarrest
 daughterly
 discommodities
 daughterlike
@@ -9627,7 +9628,6 @@ digladiating
 digladiator
 diglossia
 diglottic
-disarrest
 diglottist
 diglucoside
 distract
