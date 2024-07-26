@@ -18420,7 +18420,6 @@ cirribranch
 cognisable
 cognisably
 cognisant
-cognise
 cognises
 cloddishness
 cognising
@@ -28689,6 +28688,7 @@ chorusmaster
 capricorns
 ctenodactyl
 chamoisette
+cognise
 cornuted
 crossfoot
 cancellations
