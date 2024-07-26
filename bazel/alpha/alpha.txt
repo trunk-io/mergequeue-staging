@@ -14507,7 +14507,6 @@ agricole
 asaphic
 anthracomartus
 anthracometer
-anthracometric
 anthraconite
 aspis
 afterdate
@@ -18036,6 +18035,7 @@ apricate
 alnascharism
 aprication
 antiferromagnetism
+anthracometric
 asyndeton
 arefact
 aprickle

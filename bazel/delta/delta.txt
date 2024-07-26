@@ -2946,6 +2946,7 @@ deduplication
 deecodder
 deed
 ditching
+doublewords
 disliken
 deedbox
 deedful
@@ -16078,7 +16079,6 @@ divides
 doubletone
 doublewidth
 diiodoform
-doublewords
 doubly
 doubling
 doubloon
