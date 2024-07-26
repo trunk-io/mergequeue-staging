@@ -3207,7 +3207,6 @@ ghostless
 guaranteers
 geophilidae
 gutturotetany
-geon
 gabbart
 gangrels
 guarding
@@ -3952,6 +3951,7 @@ giantry
 giants
 gonion
 giantship
+geon
 giantsize
 giaour
 giaours
