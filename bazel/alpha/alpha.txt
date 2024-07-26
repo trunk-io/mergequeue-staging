@@ -11737,6 +11737,7 @@ analgene
 analgesia
 analgesic
 analgesics
+aspirators
 analgesist
 apocalyptism
 analgia
@@ -21528,7 +21529,6 @@ aspiration
 almagests
 apidae
 aspiratory
-aspirators
 aspire
 aspired
 aspiree
