@@ -1549,7 +1549,6 @@ faust
 fauster
 faustian
 faute
-fluorenes
 fauteuil
 fluffily
 feldspathoidal
@@ -2961,6 +2960,7 @@ fiberize
 fernlike
 fiberized
 farce
+fluorenes
 formaldehyde
 fiberless
 fogyish
