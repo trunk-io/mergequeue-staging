@@ -9170,6 +9170,7 @@ biotypic
 beds
 biotypology
 biotite
+balsamea
 biotites
 biotitic
 bregmata
@@ -18159,7 +18160,6 @@ bicycloheptane
 butylate
 biarchy
 beatermen
-balsamea
 befeather
 birsle
 butylates
