@@ -7144,7 +7144,6 @@ desulfovibrio
 disquietudes
 desulfur
 desulfurate
-desulfurated
 desulfurating
 displeasance
 delicti
@@ -8248,6 +8247,7 @@ diadem
 damped
 dikaryophasic
 diadema
+desulfurated
 diademed
 diadems
 diaderm
