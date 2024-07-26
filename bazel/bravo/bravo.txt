@@ -4833,7 +4833,6 @@ beebreads
 baptistries
 bollard
 bedraggle
-beech
 breastsummer
 biffins
 beecher
@@ -12212,6 +12211,7 @@ ballaster
 bombay
 bombarde
 bombardelle
+beech
 byssine
 beltie
 baetylic
