@@ -5705,6 +5705,7 @@ concertizing
 catchall
 catchalls
 catchcry
+counterbrace
 colocates
 catched
 contentional
@@ -31322,7 +31323,6 @@ curiam
 curiara
 curiate
 campaigned
-counterbrace
 curiatii
 curiboca
 curie
