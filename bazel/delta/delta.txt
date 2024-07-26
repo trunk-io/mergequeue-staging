@@ -6352,6 +6352,7 @@ dop
 dermatoplast
 dermatoplastic
 dermatopsy
+dizygous
 dermatoptera
 downwardness
 dermatorrhagia
@@ -15789,7 +15790,6 @@ decidable
 dornicks
 dornocks
 dumky
-dizygous
 desize
 desiccating
 dorosternal
