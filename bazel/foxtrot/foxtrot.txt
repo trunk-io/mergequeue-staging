@@ -4318,6 +4318,7 @@ fishermen
 fisherpeople
 fishers
 fisherwoman
+facias
 fantastic
 factionary
 fishes
@@ -6149,7 +6150,6 @@ feeze
 fol
 flowerily
 foggers
-facias
 floweriness
 flowerist
 flowerless
