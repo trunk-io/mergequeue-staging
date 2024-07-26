@@ -7195,7 +7195,6 @@ detachably
 detache
 detached
 detachedly
-detacher
 detachers
 dispatcher
 dioecia
@@ -13543,6 +13542,7 @@ depopulations
 dunts
 disseized
 disseizee
+detacher
 deploringly
 disseizes
 disseizor
