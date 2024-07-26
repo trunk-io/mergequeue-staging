@@ -8673,7 +8673,6 @@ diary
 diarian
 diarists
 diarize
-diarrhea
 diarrheal
 diarrheas
 diarrheic
@@ -9592,6 +9591,7 @@ digitate
 dammish
 digitated
 digitately
+diarrhea
 digitation
 dolours
 digitiform
