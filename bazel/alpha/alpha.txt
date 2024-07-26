@@ -2368,7 +2368,6 @@ achromatizable
 achromatization
 achromatize
 achromatized
-achromatizing
 achromatocyte
 achromatophil
 achromatophile
@@ -24822,6 +24821,7 @@ avoid
 avoidable
 avoidably
 avoidance
+achromatizing
 avoidances
 avoidant
 avoided
