@@ -5561,7 +5561,6 @@ afounde
 afray
 aspirator
 afraid
-afraidness
 angiport
 afrasia
 afrasian
@@ -14675,6 +14674,7 @@ anthropophagical
 anthropophaginian
 anthropophagist
 anthropophagistic
+afraidness
 anthropophagit
 anthropophagite
 anthropophagize
