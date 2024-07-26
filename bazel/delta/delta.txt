@@ -6814,7 +6814,6 @@ desk
 deskbound
 deskill
 delimit
-desklike
 disposure
 denoted
 deskman
@@ -9035,6 +9034,7 @@ dichrooscopic
 dichroous
 dichroscope
 dichroscopic
+desklike
 disthrone
 dicht
 drumbled
