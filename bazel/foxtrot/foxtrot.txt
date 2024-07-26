@@ -4544,6 +4544,7 @@ fewness
 fix
 fixt
 fixable
+foederati
 fixate
 foodservices
 fineleaf
@@ -6678,7 +6679,6 @@ fustiest
 frangibility
 firmarius
 fudder
-foederati
 foehn
 foehnlike
 forenotice
