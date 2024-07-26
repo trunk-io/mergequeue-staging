@@ -5231,6 +5231,7 @@ cast
 castable
 castagnole
 castalia
+counterhammering
 castalides
 castalio
 creditless
@@ -26944,7 +26945,6 @@ counterglow
 counterguerilla
 counterguerrilla
 counterhaft
-counterhammering
 counteridea
 counterimagination
 counterimitation
