@@ -4298,7 +4298,6 @@ anklejack
 adoperate
 adoperation
 adoptability
-adoptable
 amphigouris
 adoptant
 adopted
@@ -18832,6 +18831,7 @@ anteport
 archer
 archerfish
 appassionatamente
+adoptable
 archerfishes
 archery
 atka
