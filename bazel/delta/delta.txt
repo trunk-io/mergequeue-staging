@@ -5550,6 +5550,7 @@ deoxidation
 deoxidative
 dibbles
 deoxidator
+destructor
 depopulator
 disulfids
 decolorate
@@ -6182,7 +6183,6 @@ dereism
 derek
 derelict
 dipygi
-destructor
 dereliction
 derelictions
 dregless
