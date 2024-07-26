@@ -2672,7 +2672,6 @@ generativeness
 generator
 gonfanons
 generators
-generatrices
 glosser
 grad
 generically
@@ -3051,6 +3050,7 @@ gnoff
 gillbird
 geodesy
 gaits
+generatrices
 geodesia
 geodesical
 goods
