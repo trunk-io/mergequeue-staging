@@ -3274,6 +3274,7 @@ fief
 fiefdom
 fractional
 fiel
+fractabling
 filatures
 field
 falsity
@@ -9161,7 +9162,6 @@ frack
 foxfinger
 footeite
 fairyology
-fractabling
 fraction
 flittering
 fractionalism
