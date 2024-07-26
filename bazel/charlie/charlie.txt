@@ -19848,7 +19848,6 @@ combustively
 combusts
 combwise
 catapulting
-combwright
 comd
 comdg
 comdia
@@ -28730,6 +28729,7 @@ crenulation
 creodont
 creodonta
 creodonts
+combwright
 creole
 creoleize
 counterwitness
