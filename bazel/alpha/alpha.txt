@@ -13399,7 +13399,6 @@ anisopodal
 anisopogonous
 alaunt
 anisoptera
-anisopteran
 anisopterous
 anisosepalous
 adaptable
@@ -23611,6 +23610,7 @@ aviaries
 anteroclusion
 aurifex
 aurific
+anisopteran
 aurification
 aurified
 aurifying
