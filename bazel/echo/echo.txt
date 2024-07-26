@@ -3452,6 +3452,7 @@ emblem
 emblematic
 escandalize
 elean
+extensor
 emblematically
 embiidina
 estanciero
@@ -13593,7 +13594,6 @@ extensiveness
 extensivity
 extensometer
 excess
-extensor
 ephemeralness
 eigenvalues
 exinanite
