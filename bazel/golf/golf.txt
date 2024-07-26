@@ -5429,6 +5429,7 @@ grassworm
 galbanum
 glenlike
 glenlivet
+guzzling
 gunks
 goldilocks
 gluten
@@ -6489,7 +6490,6 @@ gob
 grandfather
 goban
 guiba
-guzzling
 gnocchi
 gobang
 geomorphology
