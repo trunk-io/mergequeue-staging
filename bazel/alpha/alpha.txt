@@ -11073,7 +11073,6 @@ axometric
 amphibolies
 arylide
 amphiboliferous
-amphiboline
 amphibolite
 amphibolitic
 asportation
@@ -19347,6 +19346,7 @@ athonite
 aren
 antipatriarchy
 arena
+amphiboline
 arenaceous
 acaudate
 arenae
