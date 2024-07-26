@@ -16583,7 +16583,6 @@ clocks
 clocksmith
 clockwatcher
 clockwise
-clockwork
 cytotropism
 clockworked
 clockworks
@@ -20023,6 +20022,7 @@ claim
 commandable
 commandants
 commanded
+clockwork
 caught
 commandeer
 commandeered
