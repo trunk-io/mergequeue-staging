@@ -1630,7 +1630,6 @@ gasher
 germanize
 gassings
 gassit
-gast
 gastaldite
 gasometer
 gillenia
@@ -10360,6 +10359,7 @@ gullying
 graplines
 gulling
 gator
+gast
 geochronology
 gaw
 gawkers
