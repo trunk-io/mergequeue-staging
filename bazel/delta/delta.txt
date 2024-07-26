@@ -7912,7 +7912,6 @@ dewaxed
 dewaxes
 dewaxing
 dewberry
-dewcap
 dewclawed
 didgeridoo
 detenant
@@ -14985,6 +14984,7 @@ dogbush
 dogcart
 dogcatcher
 dogcatchers
+dewcap
 dogdom
 dogear
 dogeared
