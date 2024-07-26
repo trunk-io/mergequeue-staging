@@ -3583,7 +3583,6 @@ caravansaries
 caravanserai
 concelebrating
 caravanserial
-caravel
 caravelle
 chaulmoograte
 caravels
@@ -29773,6 +29772,7 @@ cronyisms
 cronkness
 cronstedtite
 chasselas
+caravel
 cronus
 cloudless
 croodle
