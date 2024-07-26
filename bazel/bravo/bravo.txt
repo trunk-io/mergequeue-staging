@@ -8426,7 +8426,6 @@ bilders
 bile
 bilection
 bilertinned
-bilestone
 bobtails
 bungmaker
 bileve
@@ -13004,6 +13003,7 @@ boronia
 boronic
 borons
 bewet
+bilestone
 borophenylic
 bororo
 borosilicic
