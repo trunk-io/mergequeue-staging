@@ -363,7 +363,6 @@ felon
 faintish
 faintishness
 forecastors
-frescoed
 faintly
 faintness
 flair
@@ -3061,6 +3060,7 @@ fibromucous
 fibromuscular
 fibronuclear
 fibronucleated
+frescoed
 facsimileing
 fibropericarditis
 fibroplasia
