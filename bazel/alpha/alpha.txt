@@ -2374,7 +2374,6 @@ achromatize
 achromatized
 achromatizing
 achromatocyte
-achromatope
 achromatophil
 achromatophile
 achromatophilic
@@ -12929,6 +12928,7 @@ anglist
 aneuria
 anglo
 anglogaean
+achromatope
 agpaite
 angloid
 anglomane
