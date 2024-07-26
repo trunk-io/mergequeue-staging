@@ -13364,6 +13364,7 @@ cyclitols
 cyclization
 cyclize
 cyclizes
+class
 cyclizing
 cyclo
 coulometric
@@ -15658,7 +15659,6 @@ claspers
 clasping
 confections
 claspt
-class
 classable
 classbook
 classer
