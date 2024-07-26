@@ -11906,7 +11906,6 @@ chopboat
 chopdar
 chopfallen
 chophouse
-coleopttera
 chophouses
 chopin
 cereus
@@ -11972,6 +11971,7 @@ chordotonal
 chords
 chore
 caviare
+coleopttera
 chapter
 choreas
 choregy
