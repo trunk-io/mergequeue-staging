@@ -4478,6 +4478,7 @@ fitch
 fitcher
 frillies
 fabrikoid
+flammed
 fairylike
 fitchet
 fruitgrowing
@@ -4871,7 +4872,6 @@ flammant
 flouncey
 flagroot
 foresee
-flammed
 flammeous
 flamming
 fishbolt
