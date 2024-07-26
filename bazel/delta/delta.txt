@@ -1567,7 +1567,6 @@ derider
 dechlog
 deadmelt
 deadness
-deadnesses
 dustproof
 deadpay
 deadpan
@@ -13596,6 +13595,7 @@ dissentingly
 dissentious
 dismeasurable
 dyvour
+deadnesses
 dioon
 dissentiously
 dingies
