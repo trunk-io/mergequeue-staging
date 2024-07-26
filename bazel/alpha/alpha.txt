@@ -3973,7 +3973,6 @@ astigmatometer
 adjection
 adjectional
 acrorhagus
-adjectival
 ayont
 availment
 adjective
@@ -4144,6 +4143,7 @@ athapascan
 admiral
 admirals
 azygobranchiate
+adjectival
 admiralty
 admiralties
 admirative
