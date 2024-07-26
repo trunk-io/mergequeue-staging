@@ -5979,7 +5979,6 @@ glossokinesthetic
 geulah
 glossolabial
 graptolitoidea
-glossolaly
 glossolalia
 geminous
 glossolaryngeal
@@ -10463,6 +10462,7 @@ garbles
 guestwise
 gumtrees
 graduate
+glossolaly
 gumweeds
 graphiter
 gumwoods
