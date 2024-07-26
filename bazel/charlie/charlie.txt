@@ -8694,7 +8694,6 @@ changa
 changar
 change
 changeability
-changeable
 changeabout
 changed
 changedale
@@ -25994,6 +25993,7 @@ cortisol
 cortisols
 calorify
 corved
+changeable
 cortisone
 cortlandtite
 cordies
