@@ -9539,7 +9539,6 @@ birthstones
 birthwort
 bysacki
 baroxyton
-bisacromial
 bisagre
 bisayan
 boatmanship
@@ -9772,6 +9771,7 @@ bytalks
 bitangent
 bitangential
 blatchang
+bisacromial
 bitartrate
 bitbrace
 bite
