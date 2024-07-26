@@ -1157,7 +1157,6 @@ fascicular
 fooyung
 fasciculate
 fascicule
-fasciculite
 foliolate
 fanfarons
 foredescribe
@@ -3122,6 +3121,7 @@ fixates
 fleshless
 foveolet
 fict
+fasciculite
 foreloper
 fictileness
 fending
