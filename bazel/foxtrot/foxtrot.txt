@@ -1859,7 +1859,6 @@ federally
 forfend
 federals
 foreigneering
-federate
 federated
 flashforward
 fellowly
@@ -9761,6 +9760,7 @@ fremdness
 featurelessness
 fremitus
 fluter
+federate
 fivepence
 fallout
 foreganger
