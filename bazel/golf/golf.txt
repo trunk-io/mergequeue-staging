@@ -4144,7 +4144,6 @@ gentlehood
 gigglier
 giggliest
 gith
-gesture
 golp
 gentlehearted
 graybearded
@@ -5686,6 +5685,7 @@ gaeltacht
 glisteningly
 glistens
 glister
+gesture
 glisteringly
 glisters
 glitch
