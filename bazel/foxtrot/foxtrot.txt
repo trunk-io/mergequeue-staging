@@ -10740,7 +10740,6 @@ flews
 fletchers
 fractiously
 frustule
-frustules
 flinthearted
 flashness
 frustulum
@@ -11308,6 +11307,7 @@ firstship
 finement
 furan
 forecasted
+frustules
 furane
 fulsamic
 fanit
