@@ -11526,7 +11526,6 @@ chucked
 chocolatier
 chocolatiere
 capacity
-communality
 calcomp
 choctaw
 choctaws
@@ -24252,6 +24251,7 @@ convertiplane
 convertise
 convertism
 contumax
+communality
 convertite
 convertive
 convertor
