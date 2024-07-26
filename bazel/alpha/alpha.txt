@@ -861,7 +861,6 @@ agoge
 ametrous
 abridges
 abridgment
-abridgments
 abrin
 abrine
 abris
@@ -14247,6 +14246,7 @@ antennulary
 antennule
 antiorthodoxy
 adelopod
+abridgments
 antenodal
 antipodist
 antivenereal
