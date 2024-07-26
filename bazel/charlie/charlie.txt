@@ -11638,6 +11638,7 @@ cholecystorrhaphy
 cholecystostomies
 cholecystotomies
 choledoch
+coaming
 choledochal
 choledochectomy
 caseconv
@@ -17326,7 +17327,6 @@ coambassador
 coambulant
 constrainers
 coamiable
-coaming
 coan
 cotangential
 coanimate
