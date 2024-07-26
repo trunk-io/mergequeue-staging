@@ -4067,7 +4067,6 @@ deliberandum
 deliberant
 deprecation
 deliberated
-deliberately
 denudement
 deliberateness
 deliberates
@@ -17543,6 +17542,7 @@ depurates
 druggier
 druggiest
 dui
+deliberately
 drugging
 dormitive
 diadrome
