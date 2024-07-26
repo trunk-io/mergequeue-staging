@@ -4938,6 +4938,7 @@ gownsman
 greeting
 gyrovagues
 gapeworms
+goudy
 gomorrean
 girr
 galericulate
@@ -7420,7 +7421,6 @@ gawsy
 gorgelet
 gaea
 gouaree
-goudy
 gemmative
 granjeno
 grudgeless
