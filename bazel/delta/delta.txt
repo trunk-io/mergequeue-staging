@@ -3184,7 +3184,6 @@ duracine
 defence
 defenceable
 disincarcerate
-defenceless
 defencelessly
 defences
 defencive
@@ -15193,6 +15192,7 @@ dolichoglossus
 detraque
 dolicholus
 denominationally
+defenceless
 disprizing
 dolichopellic
 discerner
