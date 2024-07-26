@@ -3622,7 +3622,6 @@ degradable
 degradation
 degradative
 dolesome
-degraded
 deratization
 detrimentalness
 debilitates
@@ -14562,6 +14561,7 @@ deambulatory
 divulge
 divulged
 deflagrates
+degraded
 divulgence
 deltic
 divulgences
