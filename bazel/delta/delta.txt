@@ -7247,7 +7247,6 @@ detected
 detecter
 detecters
 detectible
-depleteable
 dualities
 detective
 detector
@@ -17901,6 +17900,7 @@ dyne
 dudleyite
 dudler
 daybook
+depleteable
 dudman
 decrepitating
 duds
