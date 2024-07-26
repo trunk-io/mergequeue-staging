@@ -10910,6 +10910,7 @@ bloated
 bobsledder
 boatel
 bricksetter
+bondslave
 blobby
 bulrushlike
 blobbier
@@ -12378,7 +12379,6 @@ bondoc
 bondon
 brooders
 bondservant
-bondslave
 bondsman
 bondsmen
 bondstone
