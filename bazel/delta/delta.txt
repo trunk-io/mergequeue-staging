@@ -4110,7 +4110,6 @@ delictum
 discouraging
 delictus
 dharnas
-delieret
 delegations
 deligated
 durani
@@ -4398,6 +4397,7 @@ deflectional
 disponing
 demarcature
 demarch
+delieret
 darners
 demarches
 deckhand
