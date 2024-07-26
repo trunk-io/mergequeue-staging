@@ -1618,7 +1618,6 @@ acclaiming
 acclaims
 acclamator
 acclamatory
-acclimatable
 acclimatation
 aeriest
 akebia
@@ -22147,6 +22146,7 @@ astigmatometry
 astigmatoscopy
 astigmatoscopies
 abhorrence
+acclimatable
 astigmias
 astigmic
 argonaut
