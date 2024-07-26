@@ -6909,6 +6909,7 @@ branch
 barreleye
 beshrews
 beshriek
+boldface
 bluebells
 badian
 bawke
@@ -12033,7 +12034,6 @@ bravest
 brannier
 bolder
 bolderian
-boldface
 bostrychoid
 boldfaced
 boldfacedly
