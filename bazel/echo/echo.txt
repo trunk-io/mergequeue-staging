@@ -7483,7 +7483,6 @@ ephemerist
 enchondromatous
 ephemeromorph
 ectobatic
-ephemeron
 ephemeroptera
 earthlike
 energumen
@@ -9534,6 +9533,7 @@ eat
 escheatage
 electromotion
 escheated
+ephemeron
 escheating
 escheator
 escheatorship

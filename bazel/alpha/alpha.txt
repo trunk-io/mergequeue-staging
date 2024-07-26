@@ -10399,7 +10399,6 @@ amiantuses
 amias
 amyatonic
 amicability
-amicabilities
 amicableness
 amical
 amice
@@ -15946,6 +15945,7 @@ antipole
 antipolemist
 antipoles
 antipolygamy
+amicabilities
 antipolyneuritic
 antipolitical
 antipolitics
