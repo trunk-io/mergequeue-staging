@@ -13011,7 +13011,6 @@ borons
 bewet
 borophenylic
 bororo
-borosilicate
 borosilicic
 borotungstate
 borotungstic
@@ -18352,6 +18351,7 @@ biethnic
 buxaceae
 bldr
 brawlie
+borosilicate
 buxaceous
 buxbaumiaceae
 buxeous
