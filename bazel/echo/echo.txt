@@ -604,7 +604,6 @@ echinus
 echis
 echitamine
 echium
-echiurid
 engulfs
 echiurida
 echiurus
@@ -9686,6 +9685,7 @@ exodromic
 ers
 esophagitis
 eurythmy
+echiurid
 esophagocele
 embargoes
 esophagodynia
