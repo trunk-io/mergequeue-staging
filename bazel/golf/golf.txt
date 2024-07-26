@@ -5206,7 +5206,6 @@ gro
 glamourizer
 glamourous
 green
-glance
 glaireous
 genethliacon
 glancer
@@ -7004,6 +7003,7 @@ greenwood
 goodsire
 gunky
 gloomed
+glance
 grisliness
 galesaurus
 guaiacs
