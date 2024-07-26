@@ -8428,7 +8428,6 @@ epitrite
 ecraseur
 enthraller
 epitrope
-epitrophy
 emulsifiability
 evocable
 extradecretal
@@ -12471,6 +12470,7 @@ epicentrum
 eiry
 ethnize
 exhaustiveness
+epitrophy
 exhaustivity
 explicator
 ericoid

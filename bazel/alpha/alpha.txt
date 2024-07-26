@@ -5649,7 +5649,6 @@ asiphonogama
 afterdated
 afterdeath
 afterdeck
-astriction
 afterdecks
 afterdinner
 afterdischarge
@@ -6315,6 +6314,7 @@ anaesthetically
 atmometry
 agnoetae
 agnoete
+astriction
 agnoetism
 agnoite
 agnoites
