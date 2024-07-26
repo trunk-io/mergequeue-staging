@@ -2332,7 +2332,6 @@ electrocolloidal
 electrocontractility
 electroconvulsive
 electrocorticogram
-elocutioner
 eclipsed
 emeus
 electrocratic
@@ -9853,6 +9852,7 @@ eugenia
 essentiality
 essentialities
 essentialization
+elocutioner
 embryogeny
 euphrosyne
 enseraph
