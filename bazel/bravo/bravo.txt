@@ -1104,7 +1104,6 @@ ballweed
 bank
 bailieship
 bailiff
-bailiffs
 bailiffwick
 baylike
 bailing
@@ -18085,6 +18084,7 @@ bussing
 bussings
 bust
 bustard
+bailiffs
 butomaceae
 bathometry
 bustards

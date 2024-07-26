@@ -4006,6 +4006,7 @@ cardiodysneuria
 cardiogenesis
 cardiogenic
 cardiograms
+crannied
 cardiograph
 cardiographer
 cardiography
@@ -28231,7 +28232,6 @@ crannel
 crannequin
 cranny
 crannia
-crannied
 crannies
 chymify
 compiler
