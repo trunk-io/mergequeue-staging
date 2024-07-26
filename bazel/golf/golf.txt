@@ -1189,7 +1189,6 @@ ganodus
 genus
 ganoidal
 ganoidei
-griphosaurus
 gallanting
 goniunia
 ganoin
@@ -7310,6 +7309,7 @@ gliadins
 giles
 gorse
 gorsebird
+griphosaurus
 gorsechat
 glistering
 gorsedd
