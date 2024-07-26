@@ -8238,7 +8238,6 @@ anthryl
 alienabilities
 aftershock
 alienage
-alienages
 alienate
 alienated
 alienates
@@ -10745,6 +10744,7 @@ ammochaetae
 ammochryse
 ammocoete
 abridging
+alienages
 ammocoetes
 ajonjoli
 ammocoetid
