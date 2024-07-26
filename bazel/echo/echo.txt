@@ -5170,7 +5170,6 @@ endolaryngeal
 epitheliliums
 expiring
 endolemma
-electrolyzable
 etiotropic
 endolymphic
 endolysin
@@ -10290,6 +10289,7 @@ electroharmonic
 engrege
 etheriform
 etheriidae
+electrolyzable
 eatings
 emboweled
 etherion
