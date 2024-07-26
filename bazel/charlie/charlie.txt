@@ -9575,6 +9575,7 @@ checkered
 catboat
 checkerist
 checkers
+crimsonly
 checkerwork
 checkhook
 charge
@@ -23579,7 +23580,6 @@ conterminable
 callorhynchus
 conterminal
 conterminant
-crimsonly
 caste
 contermine
 coach

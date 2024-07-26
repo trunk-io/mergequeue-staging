@@ -5785,7 +5785,6 @@ bellota
 barat
 bellote
 bellovaci
-boxcar
 bellowers
 bellowsful
 bellowsmaking
@@ -14426,6 +14425,7 @@ beaverboard
 branchiopulmonate
 branchiosaur
 branchiosauria
+boxcar
 branchiosaurian
 branchiosaurus
 branchiostegal
