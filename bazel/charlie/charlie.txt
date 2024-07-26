@@ -2352,7 +2352,6 @@ codecree
 candidiasis
 candidly
 candidness
-candidnesses
 candids
 candier
 ciliated
@@ -10637,6 +10636,7 @@ circination
 chillies
 chilliest
 chillily
+candidnesses
 chilling
 chillingly
 chillis
