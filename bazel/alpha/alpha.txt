@@ -5289,6 +5289,7 @@ affectable
 affectate
 affectation
 absenting
+aftergame
 abluents
 affectationist
 affected
@@ -5663,7 +5664,6 @@ afterfermentation
 afterform
 afterfruits
 afterfuture
-aftergame
 aftergas
 agglutinoid
 affectingly
