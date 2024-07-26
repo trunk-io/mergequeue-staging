@@ -2472,7 +2472,6 @@ electromagnet
 esoterism
 entering
 electromagnetical
-evanescing
 electromagnetically
 electromagnetist
 electromagnets
@@ -7265,6 +7264,7 @@ enzymology
 encasing
 eleemosynary
 enzymologies
+evanescing
 enzymologist
 enzone
 ethnobotanic
