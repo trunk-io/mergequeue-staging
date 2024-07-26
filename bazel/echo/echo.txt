@@ -3658,7 +3658,6 @@ endamagement
 embryogenetic
 embryographer
 embryography
-embryographic
 everse
 embryoid
 embryoism
@@ -6493,6 +6492,7 @@ ensweeten
 evenlight
 entablature
 emigrations
+embryographic
 exclosure
 entablements
 entach
