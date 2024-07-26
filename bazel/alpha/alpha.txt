@@ -6011,7 +6011,6 @@ aftertastes
 agentives
 andiroba
 alcatras
-agentry
 agentries
 agents
 amphithurthura
@@ -6750,6 +6749,7 @@ aikane
 amaranthus
 assertors
 aikido
+agentry
 aikidos
 aikona
 appeased
