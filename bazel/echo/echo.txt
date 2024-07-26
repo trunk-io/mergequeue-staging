@@ -5646,7 +5646,6 @@ engager
 engagers
 encumbrances
 eviternal
-elastometer
 esplanades
 eggheads
 expellee
@@ -9748,6 +9747,7 @@ espadrille
 espadrilles
 espagnole
 espagnolette
+elastometer
 euryalida
 eupterotidae
 emigrative
