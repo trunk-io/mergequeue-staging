@@ -5434,7 +5434,6 @@ dentiscalp
 dentistic
 dentistical
 directdiscourse
-devulgarize
 dentistry
 daunter
 dentition
@@ -11741,6 +11740,7 @@ discourages
 discouragingly
 darren
 discourse
+devulgarize
 deposita
 discourseless
 discoursers
