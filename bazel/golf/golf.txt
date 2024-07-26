@@ -1637,7 +1637,6 @@ gasteria
 gasterolichenes
 gasteromycete
 guess
-gypsoplast
 geomorphologist
 goldcup
 gracioso
@@ -4934,6 +4933,7 @@ girth
 girthing
 girting
 guergal
+gypsoplast
 galatine
 girtonian
 girts
