@@ -4029,6 +4029,7 @@ empanelling
 empannel
 electrologic
 emparl
+electrometry
 empasm
 empassion
 empathetic
@@ -5237,7 +5238,6 @@ endoplastule
 endopleural
 endarterectomy
 epiblemata
-electrometry
 endopodite
 endopoditic
 endoproct
