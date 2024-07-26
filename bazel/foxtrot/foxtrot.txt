@@ -6625,6 +6625,7 @@ festooning
 fervidor
 flashet
 footcloth
+fullgrownness
 foalfoot
 fleing
 frontoauricular
@@ -10907,7 +10908,6 @@ fullfaces
 foredefine
 frowzled
 fullfil
-fullgrownness
 ferrosilicon
 fulling
 featish
