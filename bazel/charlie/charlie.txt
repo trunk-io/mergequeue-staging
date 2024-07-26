@@ -11949,7 +11949,6 @@ chordal
 chordamesoderm
 chordamesodermal
 chordamesodermic
-cabiri
 chordate
 coenoblast
 chordates
@@ -15824,6 +15823,7 @@ clavicles
 castellan
 clavicor
 convalesce
+cabiri
 clavicorn
 clavicornate
 clarifiable
