@@ -465,7 +465,6 @@ goodlihead
 galeus
 galga
 galgal
-galgulidae
 galyac
 galyaks
 galibi
@@ -7609,6 +7608,7 @@ gracilaria
 gottfried
 gracilariidae
 graciles
+galgulidae
 grouchiest
 gracing
 graciosity
