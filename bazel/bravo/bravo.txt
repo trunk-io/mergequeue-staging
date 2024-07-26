@@ -5949,7 +5949,6 @@ bemirement
 barricader
 buckstall
 blabber
-bemiring
 bemirror
 bemist
 barmen
@@ -14153,6 +14152,7 @@ bonefishes
 bradoons
 brads
 bradsot
+bemiring
 brae
 branchiocardiac
 braeface
