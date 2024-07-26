@@ -679,6 +679,7 @@ gallywasp
 gallnut
 gallnuts
 gizzen
+goatsbeard
 grooverhead
 ganowanian
 galloglass
@@ -2873,7 +2874,6 @@ genre
 genres
 genro
 gens
-goatsbeard
 genseng
 gensengs
 googols
