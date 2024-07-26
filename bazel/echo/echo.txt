@@ -4025,7 +4025,6 @@ explorers
 empall
 enteradenological
 empanel
-empaneled
 enkolpia
 exies
 excogitative
@@ -8896,6 +8895,7 @@ erelong
 engrossing
 eremital
 eremite
+empaneled
 eremites
 eremiteship
 embryotrophe
