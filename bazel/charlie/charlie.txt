@@ -3069,7 +3069,6 @@ carraways
 capias
 capiases
 capibara
-capybara
 capybaras
 croze
 cholesterinic
@@ -15751,6 +15750,7 @@ clattertrap
 clattertraps
 clatty
 claudent
+capybara
 claudetite
 claudia
 canard
