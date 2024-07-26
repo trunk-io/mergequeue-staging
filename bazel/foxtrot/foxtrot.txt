@@ -1062,7 +1062,6 @@ foresights
 five
 farmership
 foreorder
-farawayness
 forthinking
 farmyard
 fluffed
@@ -5799,6 +5798,7 @@ floeberg
 floey
 flavorers
 floerkea
+farawayness
 flayed
 fumewort
 fermis
