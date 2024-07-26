@@ -1582,7 +1582,6 @@ anthracitism
 accidentality
 accidentally
 accidentalness
-accidentals
 accidentary
 accidentarily
 accidented
@@ -1906,6 +1905,7 @@ accusatives
 accusatory
 accusatorially
 accusatrix
+accidentals
 accusatrixes
 accuse
 accused
