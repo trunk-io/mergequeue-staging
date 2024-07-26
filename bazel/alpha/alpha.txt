@@ -5420,7 +5420,6 @@ afflictively
 avadavats
 allied
 afflicts
-affloof
 affluence
 affluency
 affluent
@@ -12680,6 +12679,7 @@ angami
 axilla
 antistrumous
 anhydrize
+affloof
 angareeb
 angarep
 autumnal
