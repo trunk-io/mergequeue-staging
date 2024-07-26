@@ -9578,7 +9578,6 @@ fencing
 felsites
 frithborh
 fruitfuller
-ferrometer
 freebooter
 fastwalk
 forthward
@@ -11469,6 +11468,7 @@ factorability
 furomethyl
 fishmen
 furomonazole
+ferrometer
 fermentarian
 fernando
 froze
