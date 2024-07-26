@@ -874,6 +874,7 @@ ectodermal
 ectodermosis
 ectoentad
 entrer
+enheritage
 ectoenzym
 ensky
 ectogenesis
@@ -6425,7 +6426,6 @@ ensnarement
 examining
 empanels
 ensnarling
-enheritage
 ensnow
 eminence
 ensober

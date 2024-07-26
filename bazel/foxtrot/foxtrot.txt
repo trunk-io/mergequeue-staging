@@ -4887,7 +4887,6 @@ fellsman
 farthermore
 flancard
 fourberie
-flanche
 flanconnade
 flandowser
 flane
@@ -9967,6 +9966,7 @@ forthbringer
 frictional
 flowable
 frictionized
+flanche
 flageolets
 ferreling
 frictionproof
