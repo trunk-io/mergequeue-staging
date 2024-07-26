@@ -1710,7 +1710,6 @@ feasor
 forlana
 fiorite
 feasted
-flagger
 feaster
 flashflood
 feasters
@@ -4419,6 +4418,7 @@ fissura
 foliocellosis
 fuzzy
 fissured
+flagger
 fledglings
 fissureless
 fissurellidae
