@@ -3922,7 +3922,6 @@ adipocele
 adipocellulose
 anthropological
 adipocerite
-adipocerous
 adipocyte
 adipofibroma
 adipogenic
@@ -13762,6 +13761,7 @@ antistrophe
 anoestrous
 anoestrum
 anoetic
+adipocerous
 anogenic
 anogenital
 anogra
