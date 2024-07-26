@@ -6052,7 +6052,6 @@ fairer
 finite
 flot
 flota
-flotages
 flotant
 futurism
 favorability
@@ -11735,6 +11734,7 @@ freijo
 facingly
 ferfathmur
 fuzils
+flotages
 fuzing
 fuzz
 fayumic
