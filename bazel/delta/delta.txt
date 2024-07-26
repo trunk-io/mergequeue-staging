@@ -3624,7 +3624,6 @@ detrimentalness
 degradedly
 decontrolling
 degradement
-degrader
 degraders
 disrupt
 desensitization
@@ -4347,6 +4346,7 @@ delve
 delvers
 delves
 derricks
+degrader
 dodecamerous
 dem
 discredited
