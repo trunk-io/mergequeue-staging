@@ -8476,6 +8476,7 @@ governorships
 gravewards
 gravicembali
 grubstreet
+guayacan
 gravicembalos
 gid
 gravid
@@ -9811,7 +9812,6 @@ gulas
 glossophytia
 gair
 gigi
-guayacan
 guaiacol
 guaiacolize
 guaiacols
