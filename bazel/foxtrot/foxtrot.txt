@@ -571,7 +571,6 @@ falloff
 falloffs
 fibrilated
 funambulating
-formaliser
 fallopian
 feaking
 fallostomy
@@ -1453,6 +1452,7 @@ fatty
 fattiness
 foraging
 ferromagnetism
+formaliser
 fatting
 fattishness
 foamily
