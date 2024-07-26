@@ -3888,7 +3888,6 @@ emigate
 emigated
 emigates
 ethid
-excitabilities
 eidos
 emigrants
 emigrate
@@ -4019,6 +4018,7 @@ empalement
 empaler
 empalers
 evert
+excitabilities
 empaling
 explorers
 empall
