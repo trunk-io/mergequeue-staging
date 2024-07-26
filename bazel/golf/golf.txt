@@ -2942,7 +2942,6 @@ gent
 geroderma
 gentlefolk
 gentlefolks
-gentleheartedly
 gentleheartedness
 gentleman
 gyrophora
@@ -3719,6 +3718,7 @@ gestor
 gelatinated
 gashouse
 gotchy
+gentleheartedly
 gratinated
 gobioids
 gelofer
