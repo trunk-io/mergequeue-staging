@@ -92,7 +92,6 @@ aband
 abandon
 affairs
 abandonable
-abandoned
 abandonedly
 abandonee
 abandoner
@@ -8442,6 +8441,7 @@ alkalimeter
 aquatintist
 alkalimetry
 alkalimetric
+abandoned
 alkalimetrically
 apologizes
 alkalin
