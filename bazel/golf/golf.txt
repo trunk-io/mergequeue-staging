@@ -2499,7 +2499,6 @@ gemlich
 gladelike
 gemlike
 gemman
-geldability
 gara
 gemmate
 gemmated
@@ -5978,6 +5977,7 @@ gauderies
 gland
 glossoepiglottic
 glossographer
+geldability
 graywacke
 greatened
 getid
