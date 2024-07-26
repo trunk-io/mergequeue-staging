@@ -1803,7 +1803,6 @@ brachydactyl
 balsamweed
 balsawood
 balt
-baltei
 balter
 baltetei
 balteus
@@ -4706,6 +4705,7 @@ bedmakers
 bedmaking
 bedman
 bedmate
+baltei
 bedmates
 bednighted
 buildup
