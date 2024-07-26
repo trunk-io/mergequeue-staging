@@ -4846,6 +4846,7 @@ flameouts
 fackeltanz
 flameproof
 formolite
+flyable
 funned
 fictionally
 finaglers
@@ -11312,7 +11313,6 @@ funnymen
 furanoid
 furanose
 furanoses
-flyable
 furazolidone
 ferratin
 foreordainments
