@@ -9642,6 +9642,7 @@ bishopbird
 bishopdom
 bishoped
 baptisteries
+bookery
 beseemliness
 bishophood
 bishopless
@@ -12588,7 +12589,6 @@ be
 bushmaster
 bookends
 booker
-bookery
 bookers
 brisure
 bookfair
