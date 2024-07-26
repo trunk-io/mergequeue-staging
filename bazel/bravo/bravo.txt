@@ -2045,7 +2045,6 @@ belittled
 bandworm
 bane
 baneberry
-burgeons
 brachystomata
 balantidiosis
 batad
@@ -2124,6 +2123,7 @@ banjulele
 bankable
 bedraggling
 becurl
+burgeons
 bankbook
 bankcard
 bugologist
