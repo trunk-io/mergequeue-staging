@@ -1954,6 +1954,7 @@ fey
 feif
 fissurella
 feign
+ferulic
 feigned
 feignedly
 feigner
@@ -2590,7 +2591,6 @@ fainness
 funariaceae
 feruled
 freakery
-ferulic
 flunk
 ferv
 firefall
