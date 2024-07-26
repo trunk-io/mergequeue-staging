@@ -3805,6 +3805,7 @@ finality
 fundament
 focus
 finalities
+floccillation
 finalization
 fez
 finalizes
@@ -5745,7 +5746,6 @@ floatman
 flobby
 flocced
 flocci
-floccillation
 flexanimous
 floccose
 focusing

@@ -10651,6 +10651,7 @@ anopsia
 amyosthenia
 amyosthenic
 articulator
+anabata
 alternize
 amyotonia
 amyotrophy
@@ -11479,7 +11480,6 @@ anabasin
 anabasine
 assemblable
 anabasis
-anabata
 anabathmoi
 anabathmos
 anabathrum
