@@ -1406,7 +1406,6 @@ finickier
 fatiguable
 folliculina
 fatigue
-fallibleness
 felichthys
 fingerhook
 fario
@@ -8681,6 +8680,7 @@ flatterous
 fortnight
 frowst
 feus
+fallibleness
 fortnightly
 fortnightlies
 fortnights
