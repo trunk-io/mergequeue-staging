@@ -6865,7 +6865,6 @@ besets
 bummel
 beefheaded
 besetting
-beshade
 bestrowing
 beshadowed
 bewrayer
@@ -7800,6 +7799,7 @@ bibitory
 bibless
 biblic
 biblicality
+beshade
 biblically
 biblicism
 biblicist
