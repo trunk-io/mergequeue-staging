@@ -3628,6 +3628,7 @@ degraders
 disrupt
 desensitization
 degrades
+dishonorer
 degrading
 degradingly
 dehydrogenize
@@ -12423,7 +12424,6 @@ dishonesties
 dishonestly
 dishonor
 dishonorary
-dishonorer
 dishonoring
 dishonors
 dishonour
