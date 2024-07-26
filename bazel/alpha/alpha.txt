@@ -1430,7 +1430,6 @@ abolishable
 acarotoxic
 audrey
 acarpelous
-acarpous
 acatalectic
 acatalepsy
 acatalepsia
@@ -16414,6 +16413,7 @@ antivenin
 antivenine
 antitobacconal
 achroiocythaemia
+acarpous
 antivenom
 autopotent
 avodires
