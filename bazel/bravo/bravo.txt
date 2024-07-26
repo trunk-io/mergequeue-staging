@@ -2389,6 +2389,7 @@ belecture
 ballroom
 barbeque
 barbequed
+berust
 barbequing
 barbera
 barberess
@@ -6789,7 +6790,6 @@ benzomorpholine
 breathtaking
 barn
 budded
-berust
 bervie
 bullskin
 beslobber
