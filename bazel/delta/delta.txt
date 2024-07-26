@@ -9277,7 +9277,6 @@ dales
 desuete
 dryads
 diduction
-diductor
 didunculidae
 disparately
 didunculinae
@@ -15002,6 +15001,7 @@ dogfoot
 debateable
 dogged
 doggedly
+diductor
 doggedness
 diter
 disarrangements
