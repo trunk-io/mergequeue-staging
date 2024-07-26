@@ -1980,6 +1980,7 @@ decaffeinate
 disbuds
 decaffeinated
 decaffeinates
+declared
 decaffeinize
 decafid
 decagynous
@@ -15631,7 +15632,6 @@ doomwatcher
 doon
 dyscrased
 dooputty
-declared
 door
 doorbell
 disturbances
