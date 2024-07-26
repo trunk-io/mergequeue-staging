@@ -9571,6 +9571,7 @@ eaux
 escout
 enspell
 escribano
+electromagnetism
 escribiente
 escritoire
 escritorial
@@ -13639,7 +13640,6 @@ embrocate
 exterminated
 epionynychia
 extradite
-electromagnetism
 elixir
 extermination
 exterminators
