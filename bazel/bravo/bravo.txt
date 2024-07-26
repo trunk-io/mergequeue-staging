@@ -5539,7 +5539,6 @@ belat
 barranca
 bawdies
 belate
-belatedly
 belatedness
 belating
 belaud
@@ -17107,6 +17106,7 @@ banty
 bloodlessness
 barillas
 bisley
+belatedly
 bullyragged
 bullyragging
 boomers
