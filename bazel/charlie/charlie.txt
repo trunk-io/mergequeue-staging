@@ -21488,7 +21488,6 @@ conciseness
 conciser
 concisest
 concision
-concite
 concitizen
 chattable
 conclamant
@@ -31322,6 +31321,7 @@ curiam
 curiara
 curiate
 campaigned
+concite
 curiatii
 curiboca
 curie
