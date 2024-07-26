@@ -3832,7 +3832,6 @@ genericness
 gimbaling
 gaga
 groupie
-gherkin
 gubernacula
 ghetchoo
 gadaria
@@ -10696,6 +10695,7 @@ gigunu
 groundnut
 genarchship
 gutling
+gherkin
 glyceric
 gusty
 gustless
