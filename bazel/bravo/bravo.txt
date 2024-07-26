@@ -2816,7 +2816,6 @@ bulldog
 barometers
 benefactresses
 barometry
-barometric
 barometrical
 barometrically
 beelzebub
@@ -6812,6 +6811,7 @@ besagne
 bestiarian
 beeheaded
 besaiel
+barometric
 biggies
 bounded
 besayle
