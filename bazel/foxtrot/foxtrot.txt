@@ -2701,7 +2701,6 @@ fribbles
 fetations
 fetched
 filanders
-featherbed
 fetcher
 fetches
 fetching
@@ -7317,6 +7316,7 @@ fortuities
 forbearable
 forbearant
 forbearing
+featherbed
 foreyard
 figgle
 floorshifts

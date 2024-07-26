@@ -1435,7 +1435,6 @@ bloops
 baldric
 baldrick
 baldricks
-beseecher
 baldrics
 baldricwise
 beasts
@@ -4655,6 +4654,7 @@ bilinigrin
 bedimple
 bathed
 bedimpled
+beseecher
 bedimples
 bedimplies
 bakli
