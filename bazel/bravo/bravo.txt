@@ -2944,7 +2944,6 @@ birthplace
 bowle
 barramunda
 barramundi
-barranco
 barrancos
 barrandite
 barras
@@ -11933,6 +11932,7 @@ boyarisms
 boyars
 boyaus
 bootlicker
+barranco
 boyce
 bifocal
 boychick
