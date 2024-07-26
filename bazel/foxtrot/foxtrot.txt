@@ -368,7 +368,6 @@ frescoed
 faintly
 faintness
 flair
-faints
 fair
 fairbanks
 flunkeyize
@@ -2331,6 +2330,7 @@ frontes
 folkvang
 fregit
 friskiness
+faints
 fumagine
 fellows
 ferforth
