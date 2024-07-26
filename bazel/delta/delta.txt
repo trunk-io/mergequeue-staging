@@ -13087,6 +13087,7 @@ dispersedelement
 dispersedye
 dispersedness
 dispersement
+dogger
 disperser
 dispar
 daintrel
@@ -15003,7 +15004,6 @@ dogged
 doggedly
 doggedness
 diter
-dogger
 disarrangements
 doggerel
 dolorimetry
