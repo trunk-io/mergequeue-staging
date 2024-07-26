@@ -8830,7 +8830,6 @@ gurnards
 gunbarrel
 gymkhanas
 gongman
-gymnasiums
 grenadines
 gleeted
 grenelle
@@ -9555,6 +9554,7 @@ grown
 grappler
 grownup
 guardship
+gymnasiums
 gothicism
 goldenseal
 greenery
