@@ -2871,6 +2871,7 @@ acroatic
 acrobacy
 acrobacies
 ascenders
+anaptychus
 acrobat
 acrobatic
 aesthesics
@@ -11926,7 +11927,6 @@ anapterygota
 anapterygotism
 anapterygotous
 anaptychi
-anaptychus
 anaptyctic
 anaptyctical
 addressability
