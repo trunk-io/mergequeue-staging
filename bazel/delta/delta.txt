@@ -2386,7 +2386,6 @@ decimole
 decimosexto
 disquietedness
 decine
-decinormal
 decipher
 decipherability
 dulcamara
@@ -5178,6 +5177,7 @@ divisional
 demodulated
 denicotinize
 desynapsis
+decinormal
 denicotinizing
 denied
 dewing
