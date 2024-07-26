@@ -1518,7 +1518,6 @@ baryton
 bravers
 balklines
 balks
-ball
 brodder
 baddish
 bridgewater
@@ -6512,6 +6511,7 @@ balloonet
 bepreach
 bepride
 beprose
+ball
 bepun
 bepurple
 boid
