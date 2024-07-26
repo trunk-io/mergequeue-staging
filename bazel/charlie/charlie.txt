@@ -3113,7 +3113,6 @@ circuses
 capitalize
 crockets
 capitalized
-capitalizer
 capitalizers
 capitalizes
 capitalizing
@@ -26612,6 +26611,7 @@ cladrastis
 coughers
 coughing
 coughroot
+capitalizer
 cycloolefine
 concento
 coughs

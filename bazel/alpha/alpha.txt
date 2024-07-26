@@ -4893,6 +4893,7 @@ aequorins
 alimentiveness
 aloesol
 aer
+apostolic
 aerage
 alborak
 aeraria
@@ -7000,7 +7001,6 @@ airsheds
 airsick
 airspace
 adeptship
-apostolic
 airspeed
 axhead
 airstrips
