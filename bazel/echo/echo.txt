@@ -3889,7 +3889,6 @@ emigated
 emigates
 ethid
 excitabilities
-emigrant
 eidos
 emigrants
 emigrate
@@ -7835,6 +7834,7 @@ epigyny
 endosteomata
 epiglot
 eugenicists
+emigrant
 epiglottal
 emotiovascular
 earners
