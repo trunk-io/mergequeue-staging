@@ -4334,6 +4334,7 @@ fishlet
 fishline
 fishlines
 fluxionally
+feints
 feverless
 freedmen
 fragment
@@ -9110,7 +9111,6 @@ filterer
 foxily
 familiarizer
 farrowed
-feints
 foxiness
 fusobteria
 foxish
