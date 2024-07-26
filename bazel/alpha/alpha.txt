@@ -569,6 +569,7 @@ ablaut
 ablaze
 amphiaster
 able
+activating
 ablegate
 ablegation
 ableness
@@ -3234,7 +3235,6 @@ actium
 activated
 anoxic
 activates
-activating
 antifreezing
 activations
 activators
