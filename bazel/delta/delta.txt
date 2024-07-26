@@ -3244,7 +3244,6 @@ deferment
 deferral
 deferrals
 designedness
-deferred
 deferrer
 deferrers
 deferring
@@ -10430,6 +10429,7 @@ demihorse
 diopter
 diopters
 dioptograph
+deferred
 dandydom
 disappointingness
 dioptometer
