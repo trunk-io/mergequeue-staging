@@ -20049,7 +20049,6 @@ commark
 commas
 commassation
 commassee
-commata
 commaterial
 commation
 commeasurable
@@ -25414,6 +25413,7 @@ cornetist
 cornetists
 cornets
 cornett
+commata
 cornette
 cornetter
 cornetti
