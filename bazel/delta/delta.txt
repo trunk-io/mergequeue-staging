@@ -8235,7 +8235,6 @@ diacoustics
 diacranterian
 diacranteric
 diacrisis
-diacritic
 dendrography
 diacritically
 diacritics
@@ -11538,6 +11537,7 @@ disdainful
 discolorization
 discolors
 dure
+diacritic
 dummerer
 discolour
 diphysite
