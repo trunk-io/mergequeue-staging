@@ -6432,7 +6432,6 @@ emitters
 ensorcelize
 ensorcell
 ensorcellment
-estimate
 electromuscular
 elegancy
 eutony
@@ -13916,6 +13915,7 @@ epicoelar
 extraplanetary
 extrapolar
 extrapolate
+estimate
 extrapolated
 extrapolates
 extrapolating
