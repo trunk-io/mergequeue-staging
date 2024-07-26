@@ -3171,6 +3171,7 @@ fretty
 fyke
 fiddlebrained
 fack
+functor
 fiddled
 foliageous
 fiddlefaced
@@ -11095,7 +11096,6 @@ fluviomarine
 fersmite
 functions
 fervanite
-functor
 folksinging
 fistulization
 functus
