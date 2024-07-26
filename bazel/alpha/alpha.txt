@@ -14780,7 +14780,6 @@ antiarins
 antiaristocracy
 assistants
 antiaristocracies
-antiaristocrat
 antiaristocratic
 angelico
 allotriophagy
@@ -21518,6 +21517,7 @@ aspidomancy
 aspiquee
 audiologist
 aspirant
+antiaristocrat
 aspirants
 aspirata
 aspiratae
