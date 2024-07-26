@@ -2123,7 +2123,6 @@ gazebos
 gaffsman
 gazee
 gazeful
-gazeless
 gargler
 gazella
 gazelles
@@ -10280,6 +10279,7 @@ guitar
 guitarist
 gytrash
 ganching
+gazeless
 ghazies
 genitures
 geomagnetist
