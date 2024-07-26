@@ -1235,6 +1235,7 @@ gantry
 gantryman
 gorebill
 goniotheca
+glycolytic
 guy
 gaol
 genomes
@@ -6251,7 +6252,6 @@ glutting
 gluttoness
 girlery
 gluttonies
-glycolytic
 gluttonise
 gluttonize
 guzmania
