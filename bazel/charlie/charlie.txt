@@ -2898,6 +2898,7 @@ candidest
 cantraips
 cantrap
 cantraps
+cytochemistry
 cantred
 cantref
 chilopods
@@ -14926,7 +14927,6 @@ cytoblastemous
 chelonid
 cytocentrum
 cytochemical
-cytochemistry
 cytochylema
 cytochrome
 cytocide
