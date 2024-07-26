@@ -3862,7 +3862,6 @@ emeutes
 emf
 emhpasizing
 emic
-existed
 efik
 exemptile
 emication
@@ -8494,6 +8493,7 @@ eponymist
 eponymous
 eponyms
 eponymus
+existed
 epop
 epopoean
 epopoeia
