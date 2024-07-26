@@ -7637,7 +7637,6 @@ cerebrates
 cerebration
 cerebrations
 cerebratulus
-cerebri
 chuprassi
 cerebric
 cerebriform
@@ -26509,6 +26508,7 @@ cots
 cotset
 cotsetla
 cotsetland
+cerebri
 cotsetle
 cabuyas
 cott
