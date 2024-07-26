@@ -4104,7 +4104,6 @@ famulus
 firecracker
 fizzling
 fired
-firedamp
 firedog
 firedragon
 fumblingness
@@ -5200,6 +5199,7 @@ flawless
 featheredge
 filching
 fenced
+firedamp
 forex
 felicitated
 flawlessly
