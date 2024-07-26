@@ -9557,7 +9557,6 @@ digester
 digesters
 digestibility
 digestible
-digestibleness
 digestibly
 disrespectful
 desynonymization
@@ -10547,6 +10546,7 @@ dizzard
 dyphone
 decenters
 diphosgene
+digestibleness
 diphosphate
 diphosphid
 diphosphoric
