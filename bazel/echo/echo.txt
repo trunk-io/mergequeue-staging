@@ -2639,6 +2639,7 @@ electrotypes
 expressible
 ephemerons
 electrotypy
+explicate
 electrotyping
 electrotitration
 etherean
@@ -12387,7 +12388,6 @@ erythromania
 exenteritis
 exequatur
 egretta
-explicate
 exequial
 egre
 evg
