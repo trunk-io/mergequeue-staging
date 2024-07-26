@@ -1157,6 +1157,7 @@ growls
 ganymede
 gambade
 ganja
+gustless
 guid
 gallinae
 ganjas
@@ -10700,7 +10701,6 @@ gutling
 gherkin
 glyceric
 gusty
-gustless
 gustoes
 galvanometry
 greenishness
