@@ -2698,7 +2698,6 @@ fetched
 filanders
 featherbed
 fetcher
-fetchers
 fetches
 fetching
 fete
@@ -7970,6 +7969,7 @@ foraneen
 forestalling
 femalely
 floccing
+fetchers
 forestalls
 forestalment
 forestate
