@@ -8121,7 +8121,6 @@ forewrought
 forfairn
 forfalt
 fielding
-flintlocks
 forfare
 ferrozirconium
 forfars
@@ -9794,6 +9793,7 @@ frenulum
 featherbedded
 furmenty
 frown
+flintlocks
 frenums
 frenuna
 frenzic
