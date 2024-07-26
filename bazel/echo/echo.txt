@@ -5658,7 +5658,6 @@ eggheads
 expellee
 engagingness
 excommunion
-engallant
 epistles
 emetia
 engarb
@@ -13467,6 +13466,7 @@ exscind
 exscinded
 epiclastic
 exscinding
+engallant
 ecphory
 exscribe
 exsculptate
