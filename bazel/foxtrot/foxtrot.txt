@@ -3229,6 +3229,7 @@ flyboy
 foremastmen
 facadal
 fourbagger
+fling
 flipjack
 fidessa
 fidge
@@ -4544,7 +4545,6 @@ fixator
 fixedness
 fraktur
 fum
-fling
 fixer
 fleeciest
 fixidity
