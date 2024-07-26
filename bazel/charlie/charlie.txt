@@ -6631,7 +6631,6 @@ ceilers
 ceilidh
 chlorapatite
 certosa
-ceylon
 cassiopeid
 ceylonese
 ceylonite
@@ -9473,6 +9472,7 @@ calycozoic
 caliburno
 chazans
 chazanut
+ceylon
 chazy
 chazzan
 collectability
