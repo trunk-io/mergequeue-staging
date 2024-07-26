@@ -4756,7 +4756,6 @@ demobilize
 demobilized
 demobilizes
 defeasibility
-democracies
 democratian
 democratic
 democratical
@@ -9316,6 +9315,7 @@ dieldrins
 deviated
 dielectric
 dielectrical
+democracies
 dielectrics
 debarkation
 dilating
