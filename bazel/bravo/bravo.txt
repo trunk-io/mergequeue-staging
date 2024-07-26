@@ -2750,7 +2750,6 @@ barnacle
 barnacled
 benedictively
 babyish
-blindcat
 blastophthoria
 blanky
 buro
@@ -9656,6 +9655,7 @@ bisyllabism
 bisymmetry
 bisymmetric
 bisymmetrical
+blindcat
 bressummer
 bisinuate
 bisischiatic

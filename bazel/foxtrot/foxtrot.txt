@@ -2304,6 +2304,7 @@ fruiterers
 faits
 feoffer
 flies
+foederati
 feoffing
 fallibilism
 fetlow
@@ -4541,7 +4542,6 @@ fewness
 fix
 fixt
 fixable
-foederati
 fixate
 foodservices
 fineleaf
