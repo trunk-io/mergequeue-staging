@@ -5176,7 +5176,6 @@ foreboot
 forehinting
 foreshroud
 forayer
-flavoursome
 furoic
 frothiest
 flunking
@@ -7487,6 +7486,7 @@ fyce
 forebridge
 foreburton
 flavoured
+flavoursome
 festschrifts
 forebush
 forecar
