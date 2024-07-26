@@ -2818,7 +2818,6 @@ biting
 bespangled
 baronages
 baronduki
-brotherwort
 baroness
 baronesses
 baronet
@@ -13534,6 +13533,7 @@ bourgeoned
 babyhouse
 bepuddle
 backwinding
+brotherwort
 brills
 bourgeons
 bourguignonne
