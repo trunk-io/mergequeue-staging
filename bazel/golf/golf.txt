@@ -2352,7 +2352,6 @@ glareproof
 gammock
 gallinaceae
 gelatification
-gravestone
 gelatin
 gigabit
 gelatinate
@@ -2411,6 +2410,7 @@ geldings
 geleem
 gurgoyl
 geophila
+gravestone
 gelees
 gelidiaceae
 gachupin
