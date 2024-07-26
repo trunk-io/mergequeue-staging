@@ -4352,7 +4352,6 @@ externum
 enalite
 eleusinion
 enallachrome
-enallage
 eupomatia
 echinochloa
 enamber
@@ -10730,6 +10729,7 @@ elpasolite
 eudaemonical
 erosible
 etiologic
+enallage
 eudaemonics
 embrangle
 eudaemonistic
