@@ -8877,7 +8877,6 @@ bioclimatological
 biocoenose
 biocoenoses
 biocoenosis
-biocoenotic
 beatrice
 biocontrol
 bywords
@@ -17145,6 +17144,7 @@ bullrush
 bullshits
 bullshot
 bullsnake
+biocoenotic
 bullsticker
 bullswool
 brava
