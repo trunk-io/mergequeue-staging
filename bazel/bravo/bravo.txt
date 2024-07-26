@@ -59,7 +59,6 @@ babbitts
 bouchees
 birlie
 babbled
-babbler
 babbles
 babblesome
 babbly
@@ -6968,6 +6967,7 @@ breakdown
 besmell
 besmile
 besmiled
+babbler
 besmiles
 besmirch
 butt

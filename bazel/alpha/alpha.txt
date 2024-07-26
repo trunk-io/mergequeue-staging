@@ -1697,7 +1697,6 @@ accompanied
 accompanier
 australorp
 accompanyist
-aphasiac
 anacusic
 aludra
 accompaniment
@@ -5956,6 +5955,7 @@ agau
 argentarius
 agave
 arguers
+aphasiac
 arkosic
 agaves
 admiralships
