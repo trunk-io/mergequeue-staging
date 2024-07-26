@@ -4742,7 +4742,6 @@ flagleaf
 filesniff
 forechurch
 flaglike
-fallers
 flagmaker
 franchisement
 flagmen
@@ -9059,6 +9058,7 @@ fovilla
 frangibleness
 feminists
 faitour
+fallers
 fowent
 flashover
 fash
