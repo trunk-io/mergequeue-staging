@@ -4390,6 +4390,7 @@ bearded
 beckoners
 beckoning
 backstair
+blubbering
 bonairness
 beclamor
 bringer
@@ -6018,7 +6019,6 @@ beat
 benches
 benchfellow
 benchful
-blubbering
 bathysophical
 baleen
 benchy
