@@ -9884,7 +9884,6 @@ dotages
 dilogical
 dilos
 decoupling
-dilucid
 dilucidate
 diluendo
 diluent
@@ -16920,6 +16919,7 @@ dedans
 designees
 dreamboat
 duopsony
+dilucid
 dreamed
 dreamers
 dentation
