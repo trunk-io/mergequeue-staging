@@ -5356,7 +5356,6 @@ animize
 affiche
 affidation
 affidavy
-accumulators
 affidavit
 affies
 affying
@@ -10557,6 +10556,7 @@ amylopectin
 amylophagia
 amylophosphate
 amyloplast
+accumulators
 autobiology
 amyloplastic
 ainhum
