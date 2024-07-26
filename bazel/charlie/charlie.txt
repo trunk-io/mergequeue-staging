@@ -28804,7 +28804,6 @@ canzonets
 cres
 carpels
 cresc
-cicrumspections
 crescendi
 crescendo
 crescendoed
@@ -30236,6 +30235,7 @@ crumbles
 crumbly
 corroboratory
 crumblier
+cicrumspections
 crumbliest
 crumbliness
 crumbling
