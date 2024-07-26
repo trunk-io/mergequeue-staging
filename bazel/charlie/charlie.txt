@@ -104,6 +104,7 @@ commutableness
 cabildo
 cabildos
 cabilliau
+comp
 cabin
 cabinda
 cabinet
@@ -20479,7 +20480,6 @@ contributing
 comourn
 comous
 comox
-comp
 compaa
 compact
 compactability
