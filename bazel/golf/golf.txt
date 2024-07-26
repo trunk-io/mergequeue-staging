@@ -772,7 +772,6 @@ galvanically
 galvanisation
 galvanised
 galvanising
-galvanism
 galvanist
 goosewinged
 gaulin
@@ -9178,6 +9177,7 @@ gristmill
 grasper
 gristmilling
 grit
+galvanism
 grith
 gritless
 grits
