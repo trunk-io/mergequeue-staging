@@ -2503,7 +2503,6 @@ ferroaluminum
 foreact
 ferrocalcite
 ferrocene
-fluxibility
 factual
 ferrochrome
 ferrocyanate
@@ -6592,6 +6591,7 @@ flame
 fragilariaceae
 formalization
 frenchy
+fluxibility
 falla
 flux
 fluxed
