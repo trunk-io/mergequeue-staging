@@ -2962,7 +2962,6 @@ fernlike
 fiberized
 farce
 formaldehyde
-fiberizer
 fiberless
 fogyish
 fundamentality
@@ -10312,6 +10311,7 @@ fipples
 froisse
 frokin
 flicks
+fiberizer
 flakers
 frolicky
 fittier
