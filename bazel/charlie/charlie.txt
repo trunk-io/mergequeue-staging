@@ -2189,6 +2189,7 @@ canaler
 canales
 canalete
 canalicular
+charango
 canaliculated
 canaliculation
 canaliculi
@@ -8978,7 +8979,6 @@ claith
 caconychia
 charadrius
 charales
-charango
 charangos
 chararas
 chorioidal
