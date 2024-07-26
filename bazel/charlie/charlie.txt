@@ -13253,7 +13253,6 @@ cicatricial
 cicatricose
 cicatricula
 cicatriculae
-cicatricule
 cicatrisant
 cicatrisate
 cicatrised
@@ -26708,6 +26707,7 @@ counteraction
 counteractions
 counteractive
 counteractively
+cicatricule
 counteractivity
 counteractor
 counteracts
