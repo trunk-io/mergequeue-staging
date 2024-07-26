@@ -797,7 +797,6 @@ galvanoplastically
 gyrofrequencies
 gonna
 gumming
-goldfinches
 gibsons
 goatherd
 gyrostabilizer
@@ -5646,6 +5645,7 @@ grayhair
 granum
 globeholder
 grum
+goldfinches
 glires
 gliridae
 grains
