@@ -3630,6 +3630,7 @@ carbide
 carbides
 carbyl
 catchy
+coverage
 carbylamine
 carbimide
 courtin
@@ -27550,7 +27551,6 @@ covent
 consension
 coventrize
 coverable
-coverage
 coverages
 coverall
 coveralled
