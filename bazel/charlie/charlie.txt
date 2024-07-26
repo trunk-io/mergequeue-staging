@@ -9596,6 +9596,7 @@ checkoff
 checkout
 checkouts
 chiffony
+culmen
 checkpoint
 christly
 checkpointed
@@ -30802,7 +30803,6 @@ cullionry
 cullisance
 culls
 culm
-culmen
 culmy
 culmiferous
 culmigenous
