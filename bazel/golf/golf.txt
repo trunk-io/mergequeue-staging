@@ -1724,7 +1724,6 @@ gingelly
 gastroduodenostomies
 granophyric
 gastroduodenotomy
-gastroelytrotomy
 gastroenteric
 graceless
 gastroenterocolitis
@@ -10320,6 +10319,7 @@ gobans
 gnarling
 garnishment
 gutting
+gastroelytrotomy
 goma
 genesial
 galliass
