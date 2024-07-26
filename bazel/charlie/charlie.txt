@@ -26444,7 +26444,6 @@ coticular
 cotidal
 cotyla
 cotyle
-cotyledon
 cotyledonal
 cotyledonar
 cotyledonary
@@ -26648,6 +26647,7 @@ coumaran
 coumarane
 coumarate
 coumaric
+cotyledon
 coumarilic
 coumarin
 coumarins
