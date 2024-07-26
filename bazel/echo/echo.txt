@@ -3514,7 +3514,6 @@ embolectomy
 embolectomies
 episcopality
 emboli
-embolic
 emboliform
 engraphy
 expanding
@@ -6828,6 +6827,7 @@ entobronchium
 ebbman
 entocalcaneal
 equableness
+embolic
 entocarotid
 equiprobabilism
 entocele
