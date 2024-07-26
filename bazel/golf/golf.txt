@@ -7814,7 +7814,6 @@ granulitization
 growth
 grame
 ginglymodian
-gramicidin
 graminaceae
 gelada
 gnathopodous
@@ -10207,6 +10206,7 @@ gastrular
 guild
 guilders
 graduating
+gramicidin
 guildhall
 guildic
 garaged
