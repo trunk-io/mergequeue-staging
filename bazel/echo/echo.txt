@@ -855,7 +855,6 @@ ectoblastic
 ectobronchium
 ectocardia
 ectocarpaceae
-ectocarpaceous
 ectocarpic
 ectocarpous
 ectocarpus
@@ -6841,6 +6840,7 @@ electrums
 elegiast
 entoconid
 emblements
+ectocarpaceous
 entocranial
 enurny
 ethnopsychic

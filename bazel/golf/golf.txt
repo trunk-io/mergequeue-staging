@@ -3841,7 +3841,6 @@ gaucheness
 gherao
 germanesque
 galany
-genericness
 gimbaling
 gaga
 groupie
@@ -6601,6 +6600,7 @@ gogglers
 gogglier
 gere
 grisons
+genericness
 gingely
 goglets
 gipped
