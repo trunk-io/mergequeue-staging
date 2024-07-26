@@ -16746,6 +16746,7 @@ closers
 closes
 createdness
 closest
+cowrie
 closet
 calamint
 closeted
@@ -27736,7 +27737,6 @@ cowpunchers
 cowquake
 chute
 calibrated
-cowrie
 cowries
 cows
 cowshard

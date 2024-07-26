@@ -10565,7 +10565,6 @@ amyloplastid
 amylopsase
 amylose
 amylosynthesis
-amylosis
 amiloun
 abnormities
 amyls
@@ -19822,6 +19821,7 @@ aristotelianism
 azaleas
 anamirta
 aristotelic
+amylosis
 anticatalyzer
 aristotype
 aristotle
