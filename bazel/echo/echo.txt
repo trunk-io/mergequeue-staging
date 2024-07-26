@@ -4684,6 +4684,7 @@ encyclopedias
 encyclopediast
 escallonia
 encyclopedic
+englishable
 encyclopedical
 enteritidis
 escaping
@@ -5719,7 +5720,6 @@ engler
 englify
 english
 epithalamia
-englishable
 enfoil
 endorsable
 endochrome
