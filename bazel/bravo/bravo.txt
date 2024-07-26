@@ -4743,7 +4743,6 @@ bonav
 bedrenched
 bedrenches
 bedress
-bedribble
 bedrid
 bedridden
 bedrift
@@ -6210,6 +6209,7 @@ bde
 bensall
 bensel
 bensell
+bedribble
 buxomer
 bensh
 basural
