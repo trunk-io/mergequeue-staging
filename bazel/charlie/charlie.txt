@@ -5318,6 +5318,7 @@ coix
 castlery
 castles
 carvers
+correlates
 castlet
 castleward
 cowpony
@@ -25760,7 +25761,6 @@ chaton
 circumintestinal
 coastways
 correlated
-correlates
 correlating
 correlations
 correlative
