@@ -8850,6 +8850,7 @@ chaperoned
 chaperonless
 chaperons
 chapes
+cobaltite
 chapfallen
 conventicler
 chapfallenly
@@ -17497,7 +17498,6 @@ cobalticyanic
 creach
 cloys
 cobaltinitrite
-cobaltite
 cobaltocyanic
 cobaltous
 cobalts
