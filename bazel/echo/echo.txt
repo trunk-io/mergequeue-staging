@@ -2917,7 +2917,6 @@ eliminators
 elymus
 enantiomorphous
 evangelistary
-executiveness
 elinguate
 elinguating
 extraterrestrial
@@ -9300,6 +9299,7 @@ enterocoele
 excarnificate
 errant
 excursus
+executiveness
 errantries
 errants
 erratas
