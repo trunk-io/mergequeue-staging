@@ -3226,7 +3226,6 @@ faery
 flyboy
 foremastmen
 facadal
-fourbagger
 fling
 fidessa
 fidge
@@ -6414,6 +6413,7 @@ fluoryl
 fogy
 frowl
 fluorimeter
+fourbagger
 fluorimetry
 fishworker
 fermila
