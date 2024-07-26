@@ -4363,7 +4363,6 @@ gospellike
 guttera
 gymnodinium
 goatling
-ghostly
 gollywobbler
 gymnogenous
 gymnogynous
@@ -10611,6 +10610,7 @@ glood
 guppy
 gingernut
 gerbo
+ghostly
 grayishness
 guptavidya
 gurdle
