@@ -6455,7 +6455,6 @@ emetology
 ensteep
 exuviates
 enstool
-enstranged
 ebcdic
 ensues
 emancipated
@@ -9077,6 +9076,7 @@ erythemas
 erythematous
 erythemic
 euboic
+enstranged
 eutheria
 erythraea
 echeneidid
