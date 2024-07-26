@@ -4289,7 +4289,6 @@ emulsic
 encasement
 extypal
 emulsify
-emulsifiability
 essayists
 ecrus
 ethyldichloroarsine
@@ -8433,6 +8432,7 @@ ecraseur
 enthraller
 epitrope
 epitrophy
+emulsifiability
 evocable
 extradecretal
 epivalve
