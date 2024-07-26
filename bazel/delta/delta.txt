@@ -5407,7 +5407,6 @@ drouthier
 dentinal
 diaporthe
 duplicia
-dentinalgia
 dentinasal
 discomposing
 dorsal
@@ -10624,6 +10623,7 @@ diplegic
 dipleidoscope
 ditchdigger
 decitizenize
+dentinalgia
 doless
 dipleura
 dipleurogenesis
