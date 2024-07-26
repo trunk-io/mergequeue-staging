@@ -4468,7 +4468,6 @@ artificialize
 aedilian
 adspiration
 adstipulate
-adstipulating
 adstipulation
 adstipulator
 adulterately
@@ -8797,6 +8796,7 @@ allochezia
 allophylus
 allochiral
 allochiria
+adstipulating
 allochroic
 allochroite
 allochromatic

@@ -4158,7 +4158,6 @@ delimitizing
 delimits
 daikers
 delineament
-deblocked
 danelaw
 dualogue
 delineate
@@ -14336,6 +14335,7 @@ divalent
 divan
 disparted
 dukeship
+deblocked
 divaricatingly
 divast
 divata
