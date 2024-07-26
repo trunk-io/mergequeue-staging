@@ -15152,7 +15152,6 @@ croquets
 civiliser
 civilises
 civilising
-civilist
 civilite
 civility
 civilities
@@ -23957,6 +23956,7 @@ contributors
 contributorship
 contrist
 contritely
+civilist
 contriteness
 contrivable
 crusados
