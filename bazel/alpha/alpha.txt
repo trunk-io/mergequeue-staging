@@ -1234,7 +1234,6 @@ abutments
 abuts
 abuttal
 abuttals
-abutted
 archineuron
 abutter
 aggresses
@@ -7916,6 +7915,7 @@ arrivederci
 alerters
 alertest
 alertly
+abutted
 alerts
 antienergistic
 ales
