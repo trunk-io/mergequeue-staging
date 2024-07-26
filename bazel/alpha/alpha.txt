@@ -4497,6 +4497,7 @@ adulterant
 adulterate
 adulterates
 adulterating
+antiscion
 adulteration
 adulterator
 adulterators
@@ -16148,7 +16149,6 @@ antiscians
 antiscientific
 antiscii
 alisma
-antiscion
 antiscolic
 anemophilous
 antiscorbutical
