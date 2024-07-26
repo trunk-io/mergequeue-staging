@@ -3930,6 +3930,7 @@ delabialize
 delabialized
 delabializing
 divisi
+deblock
 desperadoes
 delace
 deftness
@@ -13851,7 +13852,6 @@ distended
 distendedness
 distending
 distends
-deblock
 distensibility
 distensibilities
 distensile
