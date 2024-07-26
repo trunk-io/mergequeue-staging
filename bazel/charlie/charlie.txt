@@ -7675,7 +7675,6 @@ cerebrosis
 cerebrospinal
 coralbells
 cerebrosuria
-cerebrotomy
 cerebrotonia
 cerebrovascular
 cyan
@@ -29231,6 +29230,7 @@ criollas
 criollo
 criollos
 cryology
+cerebrotomy
 cryological
 cryometry
 cryonic
