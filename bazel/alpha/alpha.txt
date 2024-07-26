@@ -11004,7 +11004,6 @@ agalactia
 armatures
 amove
 amoved
-amoving
 amowt
 adsorbate
 amp
@@ -19619,6 +19618,7 @@ argumentator
 argumentum
 airling
 argus
+amoving
 arguses
 attemperator
 argusfish
