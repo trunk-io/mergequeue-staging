@@ -3035,7 +3035,6 @@ euclid
 ellipsoidal
 entoproctous
 ellipsone
-ellipsonic
 evinced
 elliptical
 ellipticalness
@@ -5574,6 +5573,7 @@ enfolder
 enfolding
 enfolds
 exonerated
+ellipsonic
 electrobrasser
 evictions
 easterly
