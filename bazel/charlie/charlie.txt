@@ -2556,7 +2556,6 @@ canmaking
 canman
 cusparidine
 canna
-crystallomagnetic
 cannabic
 cannabidiol
 chromogenous
@@ -14187,6 +14186,7 @@ cypselidae
 cypseliform
 cypseline
 considerer
+crystallomagnetic
 cottagers
 colorist
 conumerary

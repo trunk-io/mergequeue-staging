@@ -4175,6 +4175,7 @@ employer
 employers
 embroglio
 epistyle
+exsected
 employes
 employment
 emmenia
@@ -13469,7 +13470,6 @@ exsculptate
 exscutellate
 exsec
 exsecants
-exsected
 encephalotomies
 exsecting
 exsector
