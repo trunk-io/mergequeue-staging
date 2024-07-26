@@ -1498,7 +1498,6 @@ fibroelastic
 faultfinders
 faultfinding
 floriferously
-faultful
 ferriprussic
 faultfully
 faulty
@@ -9315,6 +9314,7 @@ frances
 filthier
 franchise
 forced
+faultful
 flambeed
 franchised
 foeti
