@@ -4934,7 +4934,6 @@ flapper
 flapperish
 foolery
 ficklehearted
-framableness
 frostily
 flappers
 fordone
@@ -5835,6 +5834,7 @@ flooded
 flooder
 fluids
 fishway
+framableness
 furnace
 flooders
 faconne
