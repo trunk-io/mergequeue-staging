@@ -2673,6 +2673,7 @@ generations
 generatively
 generativeness
 generator
+gonfanons
 generators
 generatrices
 glosser
@@ -6862,7 +6863,6 @@ gammaridae
 gonfalonierate
 glagol
 gonfanon
-gonfanons
 goldeyes
 gelidity
 gonging
