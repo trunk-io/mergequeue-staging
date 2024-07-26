@@ -15093,7 +15093,6 @@ dehiscence
 deliberate
 dogskin
 dogsleds
-dogsleep
 dogstail
 dogstones
 defused
@@ -16995,6 +16994,7 @@ dreidls
 dreyfusism
 dreyfusist
 dreikanter
+dogsleep
 dreikanters
 dreiling
 duppy
