@@ -3189,7 +3189,6 @@ defence
 defenceable
 disincarcerate
 defenceless
-defencelessly
 defences
 defencive
 daguerreotyping
@@ -9160,6 +9159,7 @@ dictyograptus
 dictyoid
 disparage
 dictionary
+defencelessly
 deflower
 dictionarian
 dictionaries
