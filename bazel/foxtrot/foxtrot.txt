@@ -4892,7 +4892,6 @@ flanker
 flankers
 flanking
 flankwise
-flannelboard
 flannelbush
 flanneling
 flannelleaf
@@ -6629,6 +6628,7 @@ foalfoots
 foalhood
 foals
 forepoled
+flannelboard
 fenchone
 foamed
 foamer
