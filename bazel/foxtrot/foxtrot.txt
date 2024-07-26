@@ -1657,6 +1657,7 @@ furling
 foldure
 fractal
 fconvert
+flavouring
 farcin
 fcp
 fdubs
@@ -5170,7 +5171,6 @@ fustians
 flavourfully
 flavoury
 forearmed
-flavouring
 flavourless
 flavourous
 foreboot
