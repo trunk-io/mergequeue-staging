@@ -20681,7 +20681,6 @@ chiromantical
 cacumination
 compiled
 compilement
-compilers
 compiles
 compiling
 comping
@@ -21125,6 +21124,7 @@ comradeliness
 comradery
 comrades
 comradeship
+compilers
 comrado
 comrogue
 comsat
