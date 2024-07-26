@@ -927,6 +927,7 @@ geosynclines
 gametoid
 gonopodium
 gauster
+genapp
 gametophyte
 gametophytic
 gamgia
@@ -2567,7 +2568,6 @@ gastrology
 guilloche
 guardsmen
 genal
-genapp
 genarch
 genarcha
 gendarmery
