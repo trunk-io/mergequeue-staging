@@ -2032,6 +2032,7 @@ aceta
 acetable
 alle
 acetabula
+algum
 acetabular
 amasthenic
 acetabulous
@@ -8183,7 +8184,6 @@ algraphy
 alguacil
 alguazil
 alguifou
-algum
 alhagi
 alhambra
 alhambresque
