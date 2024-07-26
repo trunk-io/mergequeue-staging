@@ -21132,7 +21132,6 @@ computus
 comr
 comradely
 comradeliness
-comradery
 comrades
 comradeship
 compilers
@@ -27370,6 +27369,7 @@ courb
 courbache
 courbaril
 courbash
+comradery
 courbettes
 courche
 coonties
