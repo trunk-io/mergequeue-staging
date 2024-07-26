@@ -4372,6 +4372,7 @@ firmware
 fisnoga
 fissate
 frostbiting
+fruitester
 fissidactyl
 fakement
 fissidentaceae
@@ -7498,7 +7499,6 @@ forecar
 fairy
 forecarriage
 forecast
-fruitester
 forecaster
 foreinclined
 fisticuffs
