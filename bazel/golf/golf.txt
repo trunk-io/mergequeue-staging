@@ -7308,7 +7308,6 @@ gorst
 grayware
 golandause
 goschen
-gosh
 goshawk
 greaved
 goshawks
@@ -10716,6 +10715,7 @@ grinnellia
 gutlike
 gutnic
 geometriform
+gosh
 gutser
 glumpier
 gigadoid

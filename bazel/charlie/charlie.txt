@@ -11828,7 +11828,6 @@ chondrology
 chondroma
 chondromas
 chondromata
-chondromyces
 chondromyoma
 chondromyxosarcoma
 chondromucoid
@@ -18883,6 +18882,7 @@ colichemarde
 colicine
 colicystitis
 colicystopyelitis
+chondromyces
 colicker
 complexionist
 colicky
