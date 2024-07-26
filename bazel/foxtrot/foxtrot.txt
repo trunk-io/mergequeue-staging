@@ -4359,7 +4359,6 @@ fishspear
 flumes
 fasted
 foreseers
-fishtailed
 fitten
 forerunnership
 fishways
@@ -9174,6 +9173,7 @@ fingall
 fractionalize
 fractionalized
 friezes
+fishtailed
 fnese
 fractionally
 fractionary
