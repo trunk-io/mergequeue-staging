@@ -666,6 +666,7 @@ gallium
 galliums
 gallivant
 gallivanting
+gelasimus
 garotting
 gawkihood
 guaxima
@@ -4731,7 +4732,6 @@ gliadin
 glacialist
 glaciered
 gleamingly
-gelasimus
 gypsywise
 gipsywort
 gryphaea
