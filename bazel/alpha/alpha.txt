@@ -8856,6 +8856,7 @@ alloyed
 alloimmune
 alloiogenesis
 alloiometry
+animalcules
 alloiometric
 alloys
 amins
@@ -13196,7 +13197,6 @@ afterfeed
 ammoniaemia
 animalcula
 animalcule
-animalcules
 animalculine
 aneretic
 animalculism
