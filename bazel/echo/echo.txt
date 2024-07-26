@@ -8103,7 +8103,6 @@ epipleural
 exceeds
 epiploce
 entry
-emotionalized
 epiploic
 electrograph
 electrocardiographs
@@ -9419,6 +9418,7 @@ esuriency
 endarteteria
 epigraphs
 ectopic
+emotionalized
 exostoses
 esau
 esbay
