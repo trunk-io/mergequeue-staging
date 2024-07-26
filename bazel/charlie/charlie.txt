@@ -9558,7 +9558,6 @@ checkbite
 checkbits
 checkbook
 checkbooks
-checke
 checker
 circumscriptions
 checkerbelly
@@ -23936,6 +23935,7 @@ contravening
 codicology
 contravention
 contraversion
+checke
 chondroclasis
 contravindication
 contrawise
