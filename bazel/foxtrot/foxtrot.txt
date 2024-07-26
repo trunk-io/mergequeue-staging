@@ -2212,6 +2212,7 @@ fenberry
 fence
 fideicommissary
 fencelessness
+forshape
 fencelet
 firelocks
 familial
@@ -8570,7 +8571,6 @@ forseek
 fistuca
 factuality
 forseen
-forshape
 flay
 followership
 forsythia
