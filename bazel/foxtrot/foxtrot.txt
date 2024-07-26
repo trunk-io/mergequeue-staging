@@ -993,7 +993,6 @@ farfels
 fashion
 ferular
 fluoroid
-floorway
 funicule
 farfetched
 frontalis
@@ -7311,6 +7310,7 @@ foreyard
 forbearingly
 figgle
 floorshifts
+floorway
 fruitarianism
 forbecause
 fourteens
