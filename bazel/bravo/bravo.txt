@@ -1814,7 +1814,6 @@ baltimorite
 balu
 buxus
 baluba
-baluch
 brittle
 baluchitheria
 beths
@@ -9840,6 +9839,7 @@ bitter
 bitterbark
 bifurcates
 bitterbloom
+baluch
 breadth
 bitterbrush
 bitterbump
