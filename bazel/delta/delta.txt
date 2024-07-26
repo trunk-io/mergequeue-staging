@@ -15526,6 +15526,7 @@ donjon
 departements
 donjons
 dodecaphonic
+dreg
 donk
 dockage
 donkey
@@ -16983,7 +16984,6 @@ denitrificant
 dreepy
 dhauri
 dreepiness
-dreg
 dudgeon
 dadder
 dreggier
