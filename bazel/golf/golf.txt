@@ -2897,6 +2897,7 @@ globousness
 gryphite
 gentianella
 gemstone
+gt
 gentians
 gentianwort
 gristly
@@ -9758,7 +9759,6 @@ guildite
 grutten
 grx
 gs
-gt
 gentlemanlike
 gnathonical
 guipures
