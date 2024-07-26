@@ -4309,6 +4309,7 @@ deltohedron
 deltoid
 deltoidei
 deltoids
+diabolization
 delubra
 delubrubra
 deluce
@@ -13557,7 +13558,6 @@ dostoevsky
 didymium
 disseizoress
 dismissable
-diabolization
 disseizure
 dissemblance
 decodon
