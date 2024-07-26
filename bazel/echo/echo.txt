@@ -523,7 +523,6 @@ enfeoff
 exonarthex
 echafaudage
 equimolecular
-echappee
 echard
 elaeococca
 eched
@@ -7783,6 +7782,7 @@ epifaunas
 emulate
 enfonced
 escobilla
+echappee
 execrableness
 epifocal
 epifolliculitis
