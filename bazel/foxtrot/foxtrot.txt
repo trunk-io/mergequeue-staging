@@ -758,7 +758,6 @@ fancymonger
 finnac
 fancysick
 fancywork
-fandango
 forkbeard
 fandangos
 flockmaster
@@ -10400,6 +10399,7 @@ figulines
 fleckered
 fusk
 flowerfence
+fandango
 fitche
 forgrown
 forinsec
