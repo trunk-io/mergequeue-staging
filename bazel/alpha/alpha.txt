@@ -6900,7 +6900,6 @@ airedale
 airedales
 airers
 airest
-airfare
 airfares
 airfield
 airfields
@@ -19690,6 +19689,7 @@ aridly
 ariegite
 ariel
 airbill
+airfare
 ariels
 abp
 aryepiglottic
