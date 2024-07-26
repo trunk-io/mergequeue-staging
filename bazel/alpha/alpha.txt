@@ -5648,6 +5648,7 @@ asiphonogama
 afterdated
 afterdeath
 afterdeck
+astriction
 afterdecks
 afterdinner
 afterdischarge
@@ -22248,7 +22249,6 @@ astrer
 astrict
 apodeixis
 astricting
-astriction
 astrictive
 allround
 astrictively
