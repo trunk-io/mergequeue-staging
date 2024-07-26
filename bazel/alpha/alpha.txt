@@ -2035,7 +2035,6 @@ acetabula
 acetabular
 amasthenic
 acetabulous
-acetabulum
 acetabulums
 acetacetic
 acetal
@@ -16343,6 +16342,7 @@ antitypal
 antitype
 antitypes
 aspect
+acetabulum
 antityphoid
 antitypy
 antitypical
