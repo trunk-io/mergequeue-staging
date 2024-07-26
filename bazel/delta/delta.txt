@@ -6431,7 +6431,6 @@ dermophytic
 denominating
 dermoptera
 dermopteran
-dermopterous
 dermoreaction
 disarray
 dropworm
@@ -10854,6 +10853,7 @@ dipterus
 diptyca
 diptycas
 diptychon
+dermopterous
 diptychs
 dir
 diradiation
