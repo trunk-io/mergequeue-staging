@@ -2945,7 +2945,6 @@ fairyism
 fib
 fibbed
 fluorinating
-fibber
 fibbery
 fibbers
 falcones
@@ -6069,6 +6068,7 @@ flotillas
 flibbertigibbets
 fluidrachm
 flotsams
+fibber
 froust
 flotsan
 forpined
