@@ -3284,7 +3284,6 @@ georama
 georgiadesite
 glasshouse
 groundspeed
-glyphographer
 georgiana
 gaslock
 gazetteer
@@ -6152,6 +6151,7 @@ glue
 grisailles
 glued
 gangsman
+glyphographer
 gluelike
 ginger
 gyrosyn
