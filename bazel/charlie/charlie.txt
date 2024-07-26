@@ -3437,7 +3437,6 @@ chisellike
 cara
 carabao
 cioppino
-carabeen
 codefendant
 carabid
 carabidae
@@ -14780,6 +14779,7 @@ cystorrhaphy
 cultures
 cystorrhea
 cystosarcoma
+carabeen
 cystoschisis
 cystoscope
 cystoscopic
