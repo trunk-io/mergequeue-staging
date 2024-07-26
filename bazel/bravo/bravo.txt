@@ -4382,7 +4382,6 @@ bedimpling
 byname
 beckoner
 bearded
-bogeying
 beckoners
 beckoning
 backstair
@@ -16489,6 +16488,7 @@ buccheros
 banatite
 buccin
 buccinal
+bogeying
 buccinator
 buccinatory
 bucciniform
