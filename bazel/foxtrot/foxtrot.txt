@@ -1088,7 +1088,6 @@ farnesses
 faro
 fleyland
 flaccidly
-fantastry
 foremast
 faros
 filmgoer
@@ -11561,6 +11560,7 @@ foxing
 fusetron
 fusht
 fusibility
+fantastry
 fuzzing
 felling
 forestem
