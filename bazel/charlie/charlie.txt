@@ -5115,7 +5115,6 @@ cashiered
 cashierer
 courlans
 cashiering
-cashierment
 conceivability
 cashiers
 cashkeeper
@@ -11756,6 +11755,7 @@ cirterion
 commissionary
 chon
 chonchina
+cashierment
 craterless
 chondralgia
 chondre
