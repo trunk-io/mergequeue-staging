@@ -28136,7 +28136,6 @@ corpsbruder
 crany
 craniacromial
 cancerate
-craniad
 cystoscopy
 cranial
 cranially
@@ -30605,6 +30604,7 @@ charles
 cuculliform
 cucullus
 cuculoid
+craniad
 cuculus
 cucumaria
 cucumber
