@@ -7620,7 +7620,6 @@ epichoric
 epichoristic
 epicycles
 epicyclic
-epicycloid
 enchiriridia
 epicycloidal
 epicyemate
@@ -9351,6 +9350,7 @@ ersatz
 encoignure
 erse
 ersh
+epicycloid
 embracery
 erst
 epochally
