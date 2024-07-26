@@ -2640,6 +2640,7 @@ electrotype
 electrotyper
 electrotypes
 expressible
+ephemerons
 electrotypy
 electrotyping
 electrotitration
@@ -9242,7 +9243,6 @@ erodes
 eroding
 erogate
 erogeneity
-ephemerons
 enos
 erogenesis
 exchanged
