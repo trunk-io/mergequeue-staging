@@ -11639,7 +11639,6 @@ cholecystotomies
 choledoch
 choledochal
 choledochectomy
-choledochitis
 caseconv
 chakram
 choledochoduodenostomy
@@ -17416,6 +17415,7 @@ coasts
 coastside
 coastwaiter
 completion
+choledochitis
 coastward
 coastwards
 coastwise
