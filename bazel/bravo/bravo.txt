@@ -7269,7 +7269,6 @@ betanglement
 balisier
 barotaxy
 betatron
-betatrons
 bloodguiltless
 betattered
 boardsmanship
@@ -15580,6 +15579,7 @@ badgerly
 broadhead
 broadhorn
 beholder
+betatrons
 broadish
 broadleaf
 broadleaves

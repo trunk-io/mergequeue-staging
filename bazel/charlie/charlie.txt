@@ -4769,7 +4769,6 @@ carroches
 carrollite
 carromata
 clumber
-ceiling
 carromatas
 carromed
 carroming
@@ -10052,6 +10051,7 @@ cheniller
 chenopodiaceae
 crews
 connexive
+ceiling
 cephalochordate
 chenopodiaceous
 chenopodiales
