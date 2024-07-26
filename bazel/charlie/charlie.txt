@@ -20770,7 +20770,6 @@ completers
 coprostasia
 cadet
 censureless
-completing
 completions
 completive
 completively
@@ -29287,6 +29286,7 @@ cloacinal
 cryptal
 cryptamnesia
 cryptamnesic
+completing
 cryptanalysis
 countersun
 cryptanalytically
