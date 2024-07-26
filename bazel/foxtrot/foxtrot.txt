@@ -1173,7 +1173,6 @@ fluegelhorn
 figeaters
 fascinated
 fascinates
-famines
 froufrou
 focsle
 fibropolypus
@@ -4345,6 +4344,7 @@ fractionisation
 farers
 fishingly
 fishlet
+famines
 fishline
 fishlines
 fluxionally
