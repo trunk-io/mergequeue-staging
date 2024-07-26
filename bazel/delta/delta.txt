@@ -7052,7 +7052,6 @@ dessertspoonful
 dessertspoonfuls
 dessiatine
 dessicate
-dessil
 darkest
 dessous
 dessus
@@ -10650,6 +10649,7 @@ diplococcal
 decolourize
 dis
 diplococcemia
+dessil
 disincorporated
 diabrotic
 demos
