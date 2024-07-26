@@ -1641,7 +1641,6 @@ gluemaker
 gasteria
 gasterolichenes
 gasteromycete
-guess
 geomorphologist
 goldcup
 gracioso
@@ -8144,6 +8143,7 @@ grapeful
 goondie
 gerundially
 grapeys
+guess
 gumshoeing
 gilbertite
 grapelet
