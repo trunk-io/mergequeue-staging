@@ -660,7 +660,6 @@ alimentative
 actinidia
 aboideau
 aboideaux
-aftersound
 adoptianism
 aboil
 aboiteau
@@ -14012,6 +14011,7 @@ anserin
 anserine
 attractance
 anserines
+aftersound
 anserous
 adumbrate
 ansi
