@@ -11611,6 +11611,7 @@ choleate
 cholecalciferol
 cholecyanine
 chinky
+coombe
 cholecyst
 conylene
 cholecystectasia
@@ -25691,7 +25692,6 @@ corpulently
 cascabels
 corpulentness
 corpuscle
-coombe
 cleruchic
 condemnatory
 corpuscularian
