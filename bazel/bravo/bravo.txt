@@ -3267,7 +3267,6 @@ basilicate
 basilicock
 brotula
 basilidan
-basilidian
 brevicauda
 bedsore
 basilinna
@@ -3940,6 +3939,7 @@ beader
 beadflush
 beccaccia
 beadhouse
+basilidian
 beadier
 beadiest
 beading
