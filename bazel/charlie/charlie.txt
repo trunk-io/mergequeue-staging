@@ -3555,7 +3555,6 @@ carapato
 carapax
 cylindricule
 carapaxes
-coachable
 carapidae
 cathari
 carapo
@@ -9457,6 +9456,7 @@ chawers
 chawia
 chawing
 chawk
+coachable
 chawl
 camellia
 coloslossuses
