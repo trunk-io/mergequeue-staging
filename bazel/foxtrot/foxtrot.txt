@@ -3969,7 +3969,6 @@ fruitgrower
 finca
 finis
 figure
-finished
 flatterdock
 forride
 finisher
@@ -7319,6 +7318,7 @@ forbearing
 featherbed
 foreyard
 figgle
+finished
 floorshifts
 floorway
 fruitarianism
