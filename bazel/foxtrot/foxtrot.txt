@@ -1274,6 +1274,7 @@ fideicommissum
 filefish
 fadable
 fraunch
+flatlets
 forestology
 fumigate
 foreswore
@@ -5033,7 +5034,6 @@ furnaceman
 fruitfully
 flowery
 flatlanders
-flatlets
 flatling
 flatlings
 fluctuosity
