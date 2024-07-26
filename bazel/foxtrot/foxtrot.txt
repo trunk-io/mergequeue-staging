@@ -3384,7 +3384,6 @@ figgier
 figgum
 filagreed
 fighter
-fighteress
 friezing
 frontomalar
 fighters
@@ -11161,6 +11160,7 @@ funerals
 funerary
 flavorless
 frenchize
+fighteress
 funeration
 flense
 fertilitate
