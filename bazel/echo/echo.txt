@@ -6836,7 +6836,6 @@ entocoele
 entocoelic
 entocondylar
 epitrophic
-entocondyle
 electrums
 elegiast
 entoconid
@@ -8915,6 +8914,7 @@ erethic
 emendatory
 examiner
 elations
+entocondyle
 equiponderous
 epidermolysis
 elysiidae
