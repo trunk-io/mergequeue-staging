@@ -11612,7 +11612,6 @@ chinky
 cholecyst
 conylene
 cholecystectasia
-consulted
 cholecystectomy
 cholecystectomized
 cholecystenterorrhaphy
@@ -18753,6 +18752,7 @@ cojones
 cojudge
 cojuror
 carbachol
+consulted
 cojusticiar
 coke
 cokey
