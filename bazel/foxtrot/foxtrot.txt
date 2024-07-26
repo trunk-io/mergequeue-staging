@@ -1632,7 +1632,6 @@ fauteuils
 favourers
 foghorns
 favouress
-function
 favouringly
 favours
 favuses
@@ -7491,6 +7490,7 @@ folliculose
 forlornness
 foreboom
 favella
+function
 forebooms
 forebowels
 famular
