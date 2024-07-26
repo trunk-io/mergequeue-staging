@@ -2426,7 +2426,6 @@ belial
 betoken
 biggest
 barbital
-barbitals
 barbiton
 barbitos
 butylic
@@ -6642,6 +6641,7 @@ bergy
 berginize
 bergman
 bergomask
+barbitals
 bergschrund
 bergsonian
 bergsonism
