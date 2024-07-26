@@ -3022,6 +3022,7 @@ dolichocephaly
 dukedoms
 deerhair
 dogboat
+deerstand
 drummers
 deerherd
 deerhorn
@@ -3037,7 +3038,6 @@ doggrel
 deerstalker
 dysnomy
 deerstalking
-deerstand
 deertongue
 destructors
 deervetch
