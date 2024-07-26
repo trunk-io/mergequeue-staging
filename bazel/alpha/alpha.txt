@@ -14436,7 +14436,6 @@ anthologically
 anthologised
 anthologising
 anthologist
-anthologists
 anthologizer
 anthologizing
 anthomania
@@ -20856,6 +20855,7 @@ arumlike
 arums
 aruncus
 arundiferous
+anthologists
 arundinaceous
 arundinaria
 alexanders
