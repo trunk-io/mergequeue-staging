@@ -1054,6 +1054,7 @@ farmer
 farmeress
 fulmineous
 farmery
+flocculable
 foretimes
 farmeries
 farmerly
@@ -5764,7 +5765,6 @@ floccose
 focusing
 farsang
 freestyle
-flocculable
 fangas
 firecrest
 fibroid
