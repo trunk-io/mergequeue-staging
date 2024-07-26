@@ -4722,6 +4722,7 @@ beancod
 bedpost
 bedposts
 bedquilts
+bedraping
 bourree
 bluffing
 bedraggled
@@ -6512,7 +6513,6 @@ bepreach
 bepride
 beprose
 bepun
-bedraping
 bepurple
 boid
 busyness
