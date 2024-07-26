@@ -2345,7 +2345,6 @@ candidate
 candidated
 croucher
 candidateship
-candidating
 candidature
 candide
 churls
@@ -26675,6 +26674,7 @@ counseling
 counsellable
 counterpendent
 counselled
+candidating
 counselling
 counsellor
 counsellors
