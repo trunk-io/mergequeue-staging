@@ -6901,7 +6901,6 @@ airedale
 airedales
 airers
 airest
-airfare
 airfares
 airfield
 airfields
@@ -17853,6 +17852,7 @@ apposes
 apposing
 ambiguities
 apposiopestic
+airfare
 awing
 appositeness
 aperients
