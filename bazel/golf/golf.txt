@@ -7565,6 +7565,7 @@ gpcd
 gpm
 gra
 graafian
+galoot
 grabbable
 guitermanite
 gingerbread
@@ -10727,7 +10728,6 @@ gallup
 ganders
 gibber
 gutsiest
-galoot
 garapato
 gutsily
 gutsiness
