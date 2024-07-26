@@ -4655,7 +4655,6 @@ gripers
 gype
 gala
 gauls
-galvanotaxis
 gipons
 gibbose
 geophyte
@@ -7962,6 +7961,7 @@ grandmother
 gossipping
 gainsome
 grandmotherliness
+galvanotaxis
 gujar
 grainers
 gadinic
