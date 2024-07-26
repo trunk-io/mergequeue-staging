@@ -2240,6 +2240,7 @@ bap
 baphometic
 bapistery
 bapt
+bookworms
 baptanodon
 baptise
 baptised
@@ -12664,7 +12665,6 @@ bollixing
 bookward
 bookwards
 bookwork
-bookworms
 bool
 breathseller
 booley
