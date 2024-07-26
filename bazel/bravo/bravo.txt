@@ -407,7 +407,6 @@ bilge
 backgammon
 backgeared
 backgrounds
-backhand
 backhanded
 brucella
 bebrother
@@ -3453,6 +3452,7 @@ bastinading
 burbots
 bastinado
 bastinadoed
+backhand
 bastinadoes
 basting
 bastings
