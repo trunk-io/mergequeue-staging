@@ -2983,6 +2983,7 @@ capacitates
 capacitating
 capacitation
 conrector
+closeable
 capacitations
 childes
 capacitative
@@ -14201,7 +14202,6 @@ circ
 circadian
 circaea
 cutworks
-closeable
 chingpaw
 carpocervical
 circaetus
