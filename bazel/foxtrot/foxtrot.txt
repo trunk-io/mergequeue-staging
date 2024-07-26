@@ -102,7 +102,6 @@ faceplate
 facilitated
 facilitates
 frail
-facilitating
 filler
 flycaster
 faunule
@@ -3763,6 +3762,7 @@ favous
 fimbricate
 fimbricated
 fimbrilla
+facilitating
 fimbrillae
 fod
 feyest
