@@ -2900,6 +2900,7 @@ fanterie
 fiacre
 flatbed
 fastback
+feetfirst
 fiacres
 fatbird
 fossilated
@@ -10958,7 +10959,6 @@ fruiters
 flavous
 fulmined
 fulminic
-feetfirst
 fluffier
 fulness
 fulsome
