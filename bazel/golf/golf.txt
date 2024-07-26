@@ -3786,7 +3786,6 @@ glade
 ghaffir
 glosses
 greenback
-ghafir
 ghan
 gibbously
 gastronomy
@@ -5187,6 +5186,7 @@ granulite
 glam
 glamorized
 glamorizer
+ghafir
 glamorizes
 glamorizing
 gutty
