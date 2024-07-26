@@ -4885,7 +4885,6 @@ guato
 gaspingly
 gyroma
 gyromagnetic
-geologise
 gyromancy
 gunsmiths
 galleass
@@ -6187,6 +6186,7 @@ glug
 gloominess
 gravegarth
 gambeson
+geologise
 gluier
 guile
 gluily
