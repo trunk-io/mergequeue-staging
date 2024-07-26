@@ -1325,7 +1325,6 @@ acanth
 acantha
 acanthaceous
 acanthad
-acantharia
 acanthia
 amoinder
 acanthial
@@ -4448,6 +4447,7 @@ adscripts
 astigmatical
 actinobranch
 adsignification
+acantharia
 adsmith
 adsmithing
 adsorbability
