@@ -4884,7 +4884,6 @@ bucketfull
 briarroot
 beefsteaks
 beefwood
-bannerlike
 beefwoods
 beegerite
 beevish
@@ -11309,6 +11308,7 @@ brambly
 bluegrass
 broma
 bluegums
+bannerlike
 bluehead
 bluehearted
 bluehearts
