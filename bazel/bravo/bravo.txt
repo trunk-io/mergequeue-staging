@@ -7555,7 +7555,6 @@ bahiaite
 bewired
 bewit
 bewitch
-bewitched
 bewitchedness
 bewitcher
 buchite
@@ -8905,6 +8904,7 @@ bioengineering
 bioenvironmental
 bioenvironmentaly
 bioethic
+bewitched
 bioethics
 bozzetto
 bellybuttons
