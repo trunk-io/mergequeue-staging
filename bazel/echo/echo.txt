@@ -6070,7 +6070,6 @@ enmuffle
 egressor
 enneacontahedron
 ennead
-enneadic
 enneaeteric
 enneagonal
 enneagons
@@ -12784,6 +12783,7 @@ exorbitation
 exorcisation
 exorcise
 exorcised
+enneadic
 euthanatize
 endoplasm
 exorcisers
