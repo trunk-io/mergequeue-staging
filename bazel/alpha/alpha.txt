@@ -1583,7 +1583,6 @@ accident
 anthracitism
 accidentality
 accidentally
-accidentalness
 accidentary
 accidentarily
 accidented
@@ -13013,6 +13012,7 @@ ammoresinol
 angularity
 afflicted
 angularities
+accidentalness
 arctangent
 archdeaconries
 apprompt
