@@ -6892,7 +6892,6 @@ folkloristic
 folklorists
 footman
 flatmate
-farmhold
 folkmooter
 funguses
 furtherance
@@ -9610,6 +9609,7 @@ freehanded
 faviform
 fairness
 freehearted
+farmhold
 footplate
 fidation
 fricandoes
