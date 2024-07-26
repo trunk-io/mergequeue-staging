@@ -2761,6 +2761,7 @@ antares
 acquirement
 acquirements
 acquirer
+arcature
 acquires
 abreuvoir
 acquisible
@@ -18612,7 +18613,6 @@ ald
 arcanite
 arcanum
 ashcan
-arcature
 arcatures
 arccos
 ambulated
