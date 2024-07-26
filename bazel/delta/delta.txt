@@ -78,6 +78,7 @@ dacryocystorhinostomy
 drays
 dacryocystosyringotomy
 dacryocystotome
+duodenostomy
 dacryohelcosis
 dorsolateral
 dacryohemorrhea
@@ -18314,7 +18315,6 @@ duodenocystostomy
 duodenogram
 duodenojejunal
 duodenojejunostomies
-duodenostomy
 disavowals
 difda
 deteriorator
