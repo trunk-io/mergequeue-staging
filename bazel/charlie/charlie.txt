@@ -2757,7 +2757,6 @@ cantalever
 clipper
 cantaliver
 crimsoning
-cantaloup
 cantaloupe
 cantaloupes
 cantando
@@ -19853,6 +19852,7 @@ comburent
 comburimeter
 comburimetry
 comburivorous
+cantaloup
 combust
 combusted
 counterdigged
