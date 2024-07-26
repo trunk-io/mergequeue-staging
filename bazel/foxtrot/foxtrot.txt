@@ -152,7 +152,6 @@ fivescore
 fulicine
 fielded
 factioneer
-factionism
 factionist
 floor
 forgiveness
@@ -7422,6 +7421,7 @@ fordrive
 fad
 futtock
 fittywise
+factionism
 fords
 ficin
 fordull
