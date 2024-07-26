@@ -9314,7 +9314,6 @@ chateaus
 chateaux
 chatelain
 chatelaine
-chatelaines
 clerkships
 chatelainry
 chatelains
@@ -24969,6 +24968,7 @@ coral
 commercialistic
 coralene
 crood
+chatelaines
 cringle
 coralflower
 coralist
