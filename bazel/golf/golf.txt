@@ -4804,7 +4804,6 @@ gibers
 grouplet
 gallus
 gustatory
-gyrencephalous
 gallivat
 gyres
 guarache
@@ -4862,6 +4861,7 @@ gathering
 grotesquely
 gyro
 grandmotherly
+gyrencephalous
 gyrocar
 glossopharyngeus
 glomeration
