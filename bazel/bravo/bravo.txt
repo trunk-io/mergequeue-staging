@@ -9044,7 +9044,6 @@ brunellia
 biophotometer
 biopic
 biennially
-biangular
 bioplasm
 bunkering
 bioplasms
@@ -13865,6 +13864,7 @@ braccae
 braccate
 braccianite
 bewhisker
+biangular
 batrachophobia
 borecoles
 braccio
