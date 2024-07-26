@@ -2729,7 +2729,6 @@ barlow
 blabbering
 bedrug
 barmaid
-bartonella
 billionaire
 burgensic
 botany
@@ -6604,6 +6603,7 @@ biliferous
 bereavements
 bereaves
 bereft
+bartonella
 bubbybush
 borderside
 becapped
