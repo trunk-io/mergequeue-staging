@@ -81,6 +81,7 @@ forehatchway
 foziness
 facework
 facy
+flammation
 facial
 facially
 flambeau
@@ -4858,7 +4859,6 @@ flammable
 flammant
 flouncey
 flagroot
-flammation
 foresee
 flammed
 flammeous
