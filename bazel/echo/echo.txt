@@ -2761,7 +2761,6 @@ enerve
 enrank
 electorship
 eleostearic
-exitus
 elenchtic
 efficiencies
 eleotrid
@@ -12713,6 +12712,7 @@ exognathite
 exograph
 exolete
 exolution
+exitus
 exolve
 epigrammatising
 exomis
