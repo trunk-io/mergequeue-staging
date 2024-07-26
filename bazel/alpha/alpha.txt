@@ -155,7 +155,6 @@ abates
 abatic
 asclepiad
 abatis
-arteriophlebotomy
 abatised
 abatjour
 abatjours
@@ -23570,6 +23569,7 @@ aurichalcite
 aurichalcum
 aurichloride
 alternative
+arteriophlebotomy
 averin
 auricyanhydric
 auricyanic
