@@ -5244,7 +5244,6 @@ endoplastular
 endoplastule
 endopleura
 endopleural
-endopleurite
 endarterectomy
 epiblemata
 electrometry
@@ -11530,6 +11529,7 @@ evermore
 enanguish
 evernia
 eloigned
+endopleurite
 evernioid
 eversible
 eversion
