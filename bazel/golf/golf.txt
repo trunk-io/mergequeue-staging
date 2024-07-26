@@ -2896,6 +2896,7 @@ gentiana
 globousness
 gryphite
 gentianella
+gemstone
 gentians
 gentianwort
 gristly
@@ -4345,7 +4346,6 @@ gymnocidium
 gershom
 gymnoderinae
 gymnodiniaceae
-gemstone
 gospellike
 guttera
 gymnodinium
