@@ -11285,7 +11285,6 @@ ampholyte
 amphophil
 amphophile
 amphora
-amphorae
 aphthonite
 amphore
 antiscepticism
@@ -21620,6 +21619,7 @@ assassinating
 assassinative
 artemas
 araneose
+amphorae
 assassinist
 assate
 academically
