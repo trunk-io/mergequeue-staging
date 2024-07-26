@@ -8957,6 +8957,7 @@ biologistic
 bedstands
 biologize
 bioluminescence
+biotechnics
 biomagnetic
 bareca
 biomagnetism
@@ -9134,7 +9135,6 @@ biotech
 barotropy
 ballrooms
 bisync
-biotechnics
 biotechnology
 barrett
 biotechnological
