@@ -7510,7 +7510,6 @@ ceratobatrachinae
 comprisal
 ceratobranchial
 ceratodidae
-ceratodus
 ceratoduses
 ceratoglossal
 candied
@@ -9738,6 +9737,7 @@ cheeseflower
 cheeselep
 cheeselip
 cheesemaker
+ceratodus
 cheesemonger
 cheesemongerly
 cheeseparing
