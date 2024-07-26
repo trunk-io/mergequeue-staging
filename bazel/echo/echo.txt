@@ -8617,7 +8617,6 @@ evenfall
 equiangularity
 equiarticulate
 encincture
-equiatomic
 equiaxe
 equibalanced
 epapillate
@@ -13263,6 +13262,7 @@ explores
 explosibility
 elutor
 etherealness
+equiatomic
 enigmatization
 epitomatory
 explosimeter
