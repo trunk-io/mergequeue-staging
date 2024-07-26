@@ -5089,6 +5089,7 @@ cash
 cashable
 cashableness
 cashaw
+compositors
 colaphize
 cashaws
 cashboy
@@ -20899,7 +20900,6 @@ compositions
 compositive
 compositor
 compositorial
-compositors
 cashed
 compositous
 compositure
