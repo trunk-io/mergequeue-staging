@@ -1189,7 +1189,6 @@ genus
 ganoidal
 ganoidei
 griphosaurus
-greathead
 gallanting
 goniunia
 ganoin
@@ -3025,6 +3024,7 @@ gametogenous
 geochrony
 gravies
 ggr
+greathead
 geochronologic
 geochronological
 geochronologically
