@@ -12037,6 +12037,7 @@ brannier
 bolder
 bolderian
 bostrychoid
+bunkmate
 boldfaced
 boldfacedly
 bessel
@@ -17410,7 +17411,6 @@ boxtop
 bursa
 bearess
 bunkload
-bunkmate
 bunkmates
 bepretty
 booking
