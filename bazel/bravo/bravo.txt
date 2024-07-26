@@ -8600,6 +8600,7 @@ basidiomycetes
 besague
 boletaceae
 billot
+benzophosphinic
 billow
 bromizing
 balladeroyal
@@ -16865,7 +16866,6 @@ builders
 building
 biarticular
 buildings
-benzophosphinic
 buildress
 bastardly
 benzazide
