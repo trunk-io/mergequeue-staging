@@ -4872,7 +4872,6 @@ encrown
 encrownment
 embolden
 encrust
-encrustant
 encrusted
 etch
 encrusting
@@ -11246,6 +11245,7 @@ euthycomic
 euthytropic
 estudy
 eutychian
+encrustant
 eutychianism
 erotogenicity
 eutocia
