@@ -2346,7 +2346,6 @@ deciles
 decylic
 deciliter
 deciliters
-decilitre
 dynametrical
 decillion
 deis
@@ -11320,6 +11319,7 @@ discandy
 discanonization
 demirhumb
 discanonize
+decilitre
 discanted
 distraction
 discanter
