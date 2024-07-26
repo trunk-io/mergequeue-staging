@@ -5585,7 +5585,6 @@ deozonizer
 disheveling
 deregister
 depa
-depaganize
 doglegs
 depainted
 depainting
@@ -7194,6 +7193,7 @@ detach
 detachable
 detachably
 detache
+depaganize
 detached
 detachedly
 detachers
