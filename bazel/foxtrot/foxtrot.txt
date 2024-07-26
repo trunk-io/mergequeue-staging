@@ -1088,7 +1088,6 @@ fleyland
 flaccidly
 fantastry
 foremast
-faroese
 faros
 filmgoer
 flighted
@@ -2816,6 +2815,7 @@ forelock
 fino
 feudalized
 footrace
+faroese
 fortuitist
 fulmar
 feudatary
