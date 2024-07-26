@@ -5398,7 +5398,6 @@ gleeting
 gleewoman
 gleg
 gallantize
-glegness
 glegnesses
 grassers
 gley
@@ -6488,6 +6487,7 @@ geomorphology
 girthline
 gidyea
 girl
+glegness
 gambone
 gesnerian
 galvanometrical
