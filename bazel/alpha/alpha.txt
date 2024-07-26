@@ -3756,7 +3756,6 @@ adenoviral
 adenovirus
 adenoviruses
 adephaga
-adephagan
 assailment
 adephagia
 ascesis
@@ -24667,6 +24666,7 @@ avery
 averia
 achree
 averil
+adephagan
 averish
 apholate
 averments
