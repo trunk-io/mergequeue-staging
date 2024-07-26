@@ -2228,6 +2228,7 @@ furfures
 followers
 fluorspar
 frippery
+faba
 ferronickel
 firebricks
 forelaying
@@ -3061,7 +3062,6 @@ fibropurulent
 fibrose
 fibroserous
 fibrosis
-faba
 fibrosities
 fibrotuberculosis
 foreface
