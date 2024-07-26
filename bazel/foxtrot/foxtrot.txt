@@ -1065,6 +1065,7 @@ farmlands
 fractionised
 fustigation
 fanworts
+forbearingly
 fantasque
 fisc
 finials
@@ -7311,7 +7312,6 @@ forbearable
 forbearant
 forbearing
 foreyard
-forbearingly
 figgle
 floorshifts
 floorway
