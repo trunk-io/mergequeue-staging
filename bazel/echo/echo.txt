@@ -466,7 +466,6 @@ ecclesial
 ecclesiarch
 ecclesiarchy
 erective
-epodic
 ecclesiastes
 epibenthos
 exonerators
@@ -5247,6 +5246,7 @@ endopoditic
 endoproct
 endoprocta
 elytrorrhaphy
+epodic
 endoproctous
 endopterygota
 entosternal
