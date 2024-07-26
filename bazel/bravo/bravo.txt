@@ -2702,6 +2702,7 @@ bellows
 birlinn
 barklyite
 barkometer
+bulwand
 berthed
 bavius
 barkpeeling
@@ -17168,7 +17169,6 @@ bulten
 bulter
 bultong
 bultow
-bulwand
 bulwarked
 basotho
 bulwarking
