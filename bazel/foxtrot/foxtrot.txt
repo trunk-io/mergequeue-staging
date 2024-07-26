@@ -300,7 +300,6 @@ foists
 fagaceous
 fassalite
 fayalites
-fayence
 faiences
 faying
 faikes
@@ -4081,6 +4080,7 @@ fireburn
 floggers
 fireclay
 fimbriatum
+fayence
 fireclays
 filipino
 firecoat
