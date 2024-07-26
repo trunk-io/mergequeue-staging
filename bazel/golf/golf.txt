@@ -2851,6 +2851,7 @@ glimpses
 groot
 gunbuilder
 grizzling
+ganodonta
 genotype
 granulose
 gradative
@@ -8408,7 +8409,6 @@ grata
 grav
 galvanization
 gravamem
-ganodonta
 gliffs
 gallicize
 girthed
