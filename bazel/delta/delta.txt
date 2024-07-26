@@ -3040,7 +3040,6 @@ destructors
 deervetch
 deerweed
 deerweeds
-dimercuric
 deerwood
 deescalate
 dewaters
@@ -14726,6 +14725,7 @@ droiturel
 dock
 divinise
 dooms
+dimercuric
 docked
 docken
 docker
