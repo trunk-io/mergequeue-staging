@@ -2490,7 +2490,6 @@ declassing
 declension
 declensional
 declensionally
-declensions
 declimatize
 declinable
 declinal
@@ -11417,6 +11416,7 @@ dehumanization
 debugging
 dyschroa
 dyschroia
+declensions
 dyschromatopsia
 decourt
 dyschronous
