@@ -6086,7 +6086,6 @@ domesticities
 dungeonlike
 deputization
 deputizes
-dampener
 dequantitate
 distend
 dequeue
@@ -17558,6 +17557,7 @@ dyeings
 druidic
 despots
 domnei
+dampener
 dicranaceae
 druidisms
 druidry
