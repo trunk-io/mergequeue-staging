@@ -5860,6 +5860,7 @@ gaugers
 gloomth
 grippal
 gasper
+galvanothermy
 glopnen
 glops
 glor
@@ -8470,7 +8471,6 @@ gravicembalos
 gid
 gravid
 guidership
-galvanothermy
 gulfier
 grandnephews
 gliriform
