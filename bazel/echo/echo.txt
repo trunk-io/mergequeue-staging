@@ -1936,6 +1936,7 @@ ectad
 ethmovomer
 entitle
 elric
+electrocorticogram
 eyras
 epiphenomenon
 eyre
@@ -2339,7 +2340,6 @@ electrocystoscope
 electrocolloidal
 electrocontractility
 electroconvulsive
-electrocorticogram
 eclipsed
 emeus
 electrocratic
