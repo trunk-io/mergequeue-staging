@@ -6074,6 +6074,7 @@ catouse
 catpiece
 canonisation
 catrigged
+convoys
 cats
 counterquartered
 catskin
@@ -24321,7 +24322,6 @@ convoy
 conch
 convoyed
 convoying
-convoys
 convoke
 convoker
 convokes

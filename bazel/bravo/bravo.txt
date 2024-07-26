@@ -2553,6 +2553,7 @@ bareness
 baraka
 bouw
 barer
+blasthole
 bares
 baresark
 baresarks
@@ -10377,7 +10378,6 @@ blastematic
 blastemic
 blaster
 blastful
-blasthole
 balza
 blastid
 bewhore
