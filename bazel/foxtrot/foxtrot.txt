@@ -4897,6 +4897,7 @@ flankwise
 flannelbush
 flanneling
 flannelleaf
+flowcharted
 fantasias
 flannelleaves
 flannelled
@@ -6121,7 +6122,6 @@ foredoor
 flowage
 filosa
 frounceless
-flowcharted
 flowcharting
 fulicinae
 flisked
