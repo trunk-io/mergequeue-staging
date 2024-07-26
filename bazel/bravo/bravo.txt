@@ -2965,7 +2965,6 @@ barred
 brutification
 barrel
 barreled
-bowmaker
 barreleyes
 barreler
 bloodsuck
@@ -7884,6 +7883,7 @@ bibliothec
 bibliothecaire
 bibliothecal
 bibliothecary
+bowmaker
 bibliothecas
 bosom
 bibliotheke
