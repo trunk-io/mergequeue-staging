@@ -13383,7 +13383,6 @@ caesalpinia
 cycloganoidei
 chessart
 cyclogenesis
-cyclograph
 cyclographer
 chemosterilant
 cycloheptanone
@@ -30532,6 +30531,7 @@ cubitoplantar
 cubitoradial
 cubitus
 cubla
+cyclograph
 cubmaster
 cubocalcaneal
 cuboctahedron
