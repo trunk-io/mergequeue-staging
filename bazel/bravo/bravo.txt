@@ -3575,7 +3575,6 @@ bathman
 bathmats
 bathmic
 bathmism
-bathochromatic
 bathochromatism
 bathochrome
 bendayed
@@ -13660,6 +13659,7 @@ bowelled
 bowelless
 bowelling
 bowels
+bathochromatic
 berms
 beothuk
 bowenite
