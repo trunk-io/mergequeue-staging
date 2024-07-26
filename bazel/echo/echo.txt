@@ -1383,7 +1383,6 @@ effie
 effierce
 effigy
 effigiating
-effigiation
 effigies
 effiguration
 efflation
@@ -11071,6 +11070,7 @@ extramarginal
 eupnoeic
 eupomatiaceae
 exship
+effigiation
 elutions
 eupraxia
 englishize
