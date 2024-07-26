@@ -2482,6 +2482,7 @@ ferrihydrocyanic
 ferryhouse
 flumdiddle
 ferrimagnet
+flexible
 forewing
 footbath
 ferrimagnetism
@@ -6819,7 +6820,6 @@ folded
 fascistic
 foldedly
 feverishly
-flexible
 fulfillments
 folden
 fuliginous
