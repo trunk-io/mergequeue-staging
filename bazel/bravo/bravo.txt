@@ -3001,7 +3001,6 @@ bloodthirstily
 barretter
 barrettes
 barry
-barricade
 barricades
 barricadoed
 barricadoes
@@ -13942,6 +13941,7 @@ bulgarian
 bacteriophage
 brachydont
 bjorne
+barricade
 brachyglossal
 brachygnathia
 burlecue
