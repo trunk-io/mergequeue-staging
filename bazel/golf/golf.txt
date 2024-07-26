@@ -7483,6 +7483,7 @@ gourmets
 gournard
 grunerite
 gastrolysis
+gaussmeter
 grillwork
 gouge
 gynandry
@@ -8750,7 +8751,6 @@ greeve
 greffe
 greffier
 greg
-gaussmeter
 gregaloid
 graduals
 gregarian
