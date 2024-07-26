@@ -526,6 +526,7 @@ cadmus
 cresylic
 cadouk
 chutzpah
+comprehensibility
 cadrans
 coercer
 cadre
@@ -20971,7 +20972,6 @@ cleanout
 cyclonology
 comprehendingly
 comprehense
-comprehensibility
 comprehensibleness
 comprehensibly
 comprehensive
