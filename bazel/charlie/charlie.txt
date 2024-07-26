@@ -3253,7 +3253,6 @@ capric
 capriccetto
 capriccettos
 capricci
-capriccio
 capriccios
 ceorls
 caprices
@@ -20871,6 +20870,7 @@ componendo
 catalyzing
 component
 componented
+capriccio
 childre
 componential
 components
