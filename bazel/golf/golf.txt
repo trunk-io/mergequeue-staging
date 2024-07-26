@@ -419,7 +419,6 @@ galegine
 galei
 gumshoes
 galempong
-garmentworker
 grallatores
 gabelled
 garbel
@@ -3442,6 +3441,7 @@ gobiiform
 ghettoization
 germany
 glassier
+garmentworker
 glandule
 giver
 gravitative
