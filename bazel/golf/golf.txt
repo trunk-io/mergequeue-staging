@@ -6513,7 +6513,6 @@ gobbledegook
 gobbledygook
 gobbler
 gobbling
-glenoid
 gobelin
 gaut
 gooey
@@ -9219,6 +9218,7 @@ gatepost
 gaslights
 gemmary
 groaner
+glenoid
 glycerination
 groanful
 groaning
