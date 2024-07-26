@@ -2057,6 +2057,7 @@ gaviiformes
 gavot
 gape
 grump
+gumbolike
 graminicolous
 ganglioblast
 grandsire
@@ -10432,7 +10433,6 @@ goblinesque
 gismos
 genitory
 gummose
-gumbolike
 gassing
 gummoses
 glabrousness
