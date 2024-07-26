@@ -1551,6 +1551,7 @@ deadlatch
 disaffirmative
 deadlier
 deadliest
+diagnoseable
 deadlight
 deadlihead
 deadlines
@@ -8281,7 +8282,6 @@ diageotropism
 diaglyph
 diaglyptic
 diagnose
-diagnoseable
 dillydallies
 dragoonage
 debilitated
