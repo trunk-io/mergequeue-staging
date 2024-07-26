@@ -12468,7 +12468,6 @@ chromatist
 compares
 chromatium
 chromatize
-chromatocyte
 chromatogenous
 chromatogram
 chromatograph
@@ -16143,6 +16142,7 @@ clewgarnet
 cementin
 clews
 cli
+chromatocyte
 callionymus
 cly
 cliack
