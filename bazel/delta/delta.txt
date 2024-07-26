@@ -7412,7 +7412,6 @@ derivation
 detractions
 detractively
 detractiveness
-detractor
 detractory
 ductility
 detractors
@@ -11343,6 +11342,7 @@ discards
 dispensing
 discarnate
 discarnation
+detractor
 dears
 discase
 discased
