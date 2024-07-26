@@ -1689,7 +1689,6 @@ ballplayer
 bise
 ballplayers
 ballplatz
-bedrabbled
 ballpoint
 ballpoints
 bespoken
@@ -11071,6 +11070,7 @@ botulinal
 bloodthirstier
 bloodthirstiness
 bloodthirsting
+bedrabbled
 bloodweed
 bloodwit
 bloodworm
