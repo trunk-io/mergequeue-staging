@@ -4308,6 +4308,7 @@ fluctisonous
 fisherfolk
 flywire
 fanal
+formals
 fisherman
 fishermen
 fisherpeople
@@ -6006,7 +6007,6 @@ focal
 floriscope
 fisherboat
 floristics
-formals
 farinaceous
 florivorous
 fimbriate
