@@ -8630,7 +8630,6 @@ bitwise
 bilophodont
 biloquist
 bilsh
-bilskirnir
 bilsted
 bilsteds
 biltongs
@@ -13696,6 +13695,7 @@ bowie
 blamableness
 bitonalities
 bowyers
+bilskirnir
 bowing
 baggywrinkle
 bowings
