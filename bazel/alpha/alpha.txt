@@ -5589,7 +5589,6 @@ africanize
 anarchosocialist
 africanoid
 africans
-africanthropus
 afrikander
 afrikanderdom
 amphoral
@@ -24171,6 +24170,7 @@ autointoxication
 autoirrigation
 autoist
 astrographer
+africanthropus
 autojuggernaut
 autokinesis
 autokrator
