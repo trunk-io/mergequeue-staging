@@ -2570,6 +2570,7 @@ genarch
 genarcha
 gendarmery
 grizzles
+galvanizes
 gulp
 genderless
 glides
@@ -5676,7 +5677,6 @@ gemmer
 gaeltacht
 glisteningly
 glistens
-galvanizes
 glister
 glisteringly
 glisters
