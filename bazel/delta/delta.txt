@@ -2410,7 +2410,6 @@ decise
 decision
 decisionmake
 discontinuor
-decisis
 decisive
 decisively
 darkened
@@ -9446,6 +9445,7 @@ dasypaedic
 differentiates
 differentiating
 denudate
+decisis
 differentiation
 differentiative
 differentiator
