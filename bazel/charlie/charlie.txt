@@ -11522,6 +11522,7 @@ chocolates
 chucked
 chocolatier
 chocolatiere
+capacity
 communality
 calcomp
 choctaw
@@ -22826,7 +22827,6 @@ consarcinate
 consarn
 cattlehide
 conscienceless
-capacity
 consciencelessly
 convallamarin
 consciencelessness
