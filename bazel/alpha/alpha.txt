@@ -11730,7 +11730,6 @@ analcitite
 analecta
 abnormal
 analemma
-analemmas
 atrickle
 analepsy
 analepsis
@@ -24151,6 +24150,7 @@ autoimmunize
 alcuinian
 autoimmunizing
 autoincrement
+analemmas
 autoincremented
 autoincrements
 autoindex
