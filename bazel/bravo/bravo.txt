@@ -5527,7 +5527,6 @@ bacteriaemia
 belaying
 belays
 benzalethylamine
-boreas
 belait
 bastion
 biface
@@ -17115,6 +17114,7 @@ boomers
 buckramed
 bullyrock
 bullish
+boreas
 boneen
 bullishness
 bullism
