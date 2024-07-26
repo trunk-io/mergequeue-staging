@@ -2321,7 +2321,6 @@ cancrine
 cancrisocial
 cancrivorous
 cancrizans
-cancroid
 cancrophagous
 cancrum
 cicoree
@@ -23385,6 +23384,7 @@ consumables
 clinoid
 consumate
 consumated
+cancroid
 consumating
 consume
 consumed
