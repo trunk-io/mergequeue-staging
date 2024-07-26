@@ -436,7 +436,6 @@ eccaleobion
 ecce
 electrocardiographic
 eccentric
-eccentrically
 eccentricities
 eccentrics
 ecchymoma
@@ -2440,6 +2439,7 @@ euge
 elanet
 extensum
 eardrop
+eccentrically
 ethambutol
 everydeal
 electrolysed
