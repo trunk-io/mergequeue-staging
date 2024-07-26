@@ -3446,7 +3446,6 @@ bastillion
 bankbooks
 biggah
 batteners
-boras
 bastiment
 bastinaded
 bastinades
@@ -13812,6 +13811,7 @@ boodler
 boxhead
 bepuffed
 bluffable
+boras
 boxy
 boxier
 boxiness
