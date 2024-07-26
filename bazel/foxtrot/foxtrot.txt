@@ -2958,7 +2958,6 @@ fiberscope
 figpecker
 fiberware
 fibreboard
-fibred
 fibreless
 fibril
 fibrillae
@@ -11550,6 +11549,7 @@ fuscin
 fuscous
 fuse
 fuseau
+fibred
 fuseboard
 fusee
 fusees
