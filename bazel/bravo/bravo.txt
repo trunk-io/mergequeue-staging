@@ -3644,7 +3644,6 @@ batonne
 batonnier
 batons
 brazier
-batoon
 batrachian
 batrachians
 batrachiate
@@ -16107,6 +16106,7 @@ bithynian
 brotulidae
 bedad
 brouette
+batoon
 brough
 behaviours
 brought
