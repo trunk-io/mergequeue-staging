@@ -3199,7 +3199,6 @@ guans
 geometrize
 geometrized
 geometrizing
-geometroid
 geometroidea
 geomyidae
 genuflections
@@ -8263,6 +8262,7 @@ gleets
 graspless
 grass
 grassbird
+geometroid
 grasschat
 grasscut
 grasscutter
