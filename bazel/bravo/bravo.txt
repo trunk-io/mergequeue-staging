@@ -2187,7 +2187,6 @@ bannockburn
 bannocks
 blume
 banns
-bannut
 banovina
 becard
 banquet
@@ -9733,6 +9732,7 @@ bradshaw
 brocade
 bistipular
 bistipulate
+bannut
 bistipuled
 bistort
 bummery
