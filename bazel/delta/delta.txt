@@ -12519,7 +12519,6 @@ disinfections
 dipropellant
 disinfector
 dummied
-dimagnesic
 disinfestation
 disinfeudation
 disinflame
@@ -18553,6 +18552,7 @@ dusterman
 doraskean
 dusters
 dustheap
+dimagnesic
 dustheaps
 dustier
 demythologization
