@@ -5965,7 +5965,6 @@ cathetometer
 cathetometric
 cathetus
 cathexes
-ceptor
 cathin
 cathisma
 cathismata
@@ -20132,6 +20131,7 @@ commends
 chiels
 commensal
 commensalist
+ceptor
 commensalistic
 commensally
 commensals
