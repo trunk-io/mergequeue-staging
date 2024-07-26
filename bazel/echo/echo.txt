@@ -5452,7 +5452,6 @@ entails
 eneid
 enemas
 enemata
-emball
 enemied
 enemies
 estancieros
@@ -8424,6 +8423,7 @@ ecraseur
 enthraller
 epitrope
 emulsifiability
+emball
 evocable
 extradecretal
 epivalve
