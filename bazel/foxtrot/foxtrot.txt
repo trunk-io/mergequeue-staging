@@ -9750,7 +9750,6 @@ freeholders
 fritillaries
 freyr
 foins
-flagonless
 fremdly
 flake
 fremdness
@@ -10948,6 +10947,7 @@ fluorocarbon
 fulmina
 frillery
 fulminancy
+flagonless
 floridly
 functionless
 fly
