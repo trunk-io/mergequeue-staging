@@ -18158,7 +18158,6 @@ aquanauts
 abdicated
 aquaplaned
 aquaplaner
-antilactase
 apostleships
 alining
 aquaplanes
@@ -22358,6 +22357,7 @@ astronaut
 affination
 astronautically
 aerosolizing
+antilactase
 amblyaphia
 astronavigator
 astronomer
