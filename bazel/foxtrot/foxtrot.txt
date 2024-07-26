@@ -7632,7 +7632,6 @@ flimp
 faced
 forefingers
 fuchsine
-fencepost
 feedsman
 firca
 foreflap
@@ -11572,6 +11571,7 @@ fusil
 fusiladed
 fusilades
 forespeak
+fencepost
 fusilading
 farsi
 fusile
