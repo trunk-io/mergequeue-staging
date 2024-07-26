@@ -4585,7 +4585,6 @@ demihuman
 distincter
 dolefullest
 dorsibranchiate
-demijambe
 demijohn
 demiking
 dharmasmriti
@@ -9381,6 +9380,7 @@ diethylamide
 diethylamine
 dokhma
 diethylaminoethanol
+demijambe
 diethylenediamine
 disemboweled
 diethylethanolamine
