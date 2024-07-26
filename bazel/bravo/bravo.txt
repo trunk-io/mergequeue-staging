@@ -4009,7 +4009,6 @@ bonze
 bowpin
 beamlet
 beamroom
-beamsman
 beamster
 beanball
 brutalitarian
@@ -5237,6 +5236,7 @@ begloze
 begluc
 beelines
 byegaein
+beamsman
 brining
 breviers
 begnaw
