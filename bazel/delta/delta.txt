@@ -1205,7 +1205,6 @@ dastards
 dasturi
 daswen
 devolatilisation
-dat
 dogtrot
 dirtbird
 doozies
@@ -13322,6 +13321,7 @@ disproval
 disprovement
 disproven
 disprover
+dat
 disproves
 disblame
 disprovide
