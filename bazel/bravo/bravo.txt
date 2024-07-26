@@ -5612,7 +5612,6 @@ belfries
 belga
 belgae
 bided
-belgard
 belgas
 beneficing
 belgian
@@ -6398,6 +6397,7 @@ benzoperoxide
 benzophenazine
 buffos
 benzophenone
+belgard
 benzophenothiazine
 baysmelts
 benzophenoxazine
