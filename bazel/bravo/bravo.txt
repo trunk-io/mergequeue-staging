@@ -931,7 +931,6 @@ bagganet
 breadless
 bagged
 bagger
-baggers
 baggie
 baggier
 baggies
@@ -14679,6 +14678,7 @@ biogenic
 benzobis
 brawlys
 brawls
+baggers
 bezzling
 brawn
 brawned
