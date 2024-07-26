@@ -2437,7 +2437,6 @@ deckpipe
 demiturned
 diaplex
 deckswabber
-dialogues
 decl
 decigrams
 declaim
@@ -6432,6 +6431,7 @@ dermoreaction
 disarray
 dropworm
 daddled
+dialogues
 dinted
 dermorhynchi
 dermorhynchous
