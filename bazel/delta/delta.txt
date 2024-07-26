@@ -1779,7 +1779,6 @@ debasedness
 devast
 debaser
 debases
-dodecahedron
 dismantled
 dynamiters
 debatable
@@ -17175,6 +17174,7 @@ displayed
 drinkery
 drinkers
 drinky
+dodecahedron
 drinkless
 drinkproof
 drinks
