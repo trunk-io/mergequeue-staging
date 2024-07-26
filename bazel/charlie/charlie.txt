@@ -14280,7 +14280,6 @@ circularwise
 circulatable
 circulated
 circulates
-cdr
 circulation
 circulative
 catatonia
@@ -21088,6 +21087,7 @@ compulsives
 calesin
 compulsivity
 compunct
+cdr
 compunction
 consolidate
 compunctionary
