@@ -4238,6 +4238,7 @@ faithfulness
 firmisternia
 forebitt
 firmisternial
+floorward
 firmity
 firmitude
 foreproffer
@@ -5884,7 +5885,6 @@ folkways
 floorshift
 floorwalker
 floorwalkers
-floorward
 fistle
 furniment
 floorwise
