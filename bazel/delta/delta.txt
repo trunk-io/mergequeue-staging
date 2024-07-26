@@ -7367,7 +7367,6 @@ detn
 downs
 detonable
 detonatable
-diffusiveness
 detonated
 detonates
 definition
@@ -14055,6 +14054,7 @@ doh
 distributaries
 distributee
 docketing
+diffusiveness
 diabolisation
 distributer
 distributes
