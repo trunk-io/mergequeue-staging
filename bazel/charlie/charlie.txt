@@ -4840,7 +4840,6 @@ carters
 cartes
 carthaginian
 carthame
-carthamic
 conicoid
 carthamus
 crankcase
@@ -10052,6 +10051,7 @@ cephalochordate
 chenopodiaceous
 chenopodiales
 chenopodium
+carthamic
 chenopods
 cheongsam
 cheoplastic
