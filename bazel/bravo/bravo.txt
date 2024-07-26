@@ -1401,7 +1401,6 @@ baldachini
 babblative
 baldachino
 baldachins
-baldakin
 blithen
 bowlful
 baldaquin
@@ -11106,6 +11105,7 @@ blan
 bonagh
 byes
 blooping
+baldakin
 balachan
 blooth
 binomially
