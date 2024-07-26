@@ -4507,7 +4507,6 @@ encashment
 erpetologist
 eminency
 enniche
-encasing
 empark
 excluder
 encasserole
@@ -7262,6 +7261,7 @@ ectotropic
 enzymolysis
 enzymolytic
 enzymology
+encasing
 eleemosynary
 enzymologies
 enzymologist
