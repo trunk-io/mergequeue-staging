@@ -5723,7 +5723,6 @@ firesides
 formulas
 flockiest
 flashtester
-floated
 floater
 floaters
 felines
@@ -7020,6 +7019,7 @@ fontanel
 flapdock
 fraenums
 fontange
+floated
 fontanges
 fonted
 fabrication
