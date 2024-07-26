@@ -1486,6 +1486,7 @@ garrisons
 garrnishable
 garron
 grifters
+galeopithecus
 garrons
 garroo
 guao
@@ -6731,7 +6732,6 @@ gnathopod
 goldthread
 goldtit
 goldurn
-galeopithecus
 gunrack
 grimness
 golem
