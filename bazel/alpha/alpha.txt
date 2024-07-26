@@ -3037,7 +3037,6 @@ across
 acrostic
 acrostichal
 acrosticheae
-acrostichic
 amidocaffeine
 acrostichoid
 archaised
@@ -9573,6 +9572,7 @@ academicians
 alumetize
 alumian
 alumic
+acrostichic
 achoo
 alumiferous
 annulations
