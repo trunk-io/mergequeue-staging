@@ -4886,7 +4886,6 @@ gyromancy
 gunsmiths
 galleass
 gyromele
-gunnysacks
 gymnasisiums
 grandpapa
 gnawers
@@ -5246,6 +5245,7 @@ gumshoing
 gromatical
 glareolidae
 glareworm
+gunnysacks
 grazer
 garbages
 galactolipide
