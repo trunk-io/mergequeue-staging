@@ -6674,7 +6674,6 @@ celebratedly
 celebratedness
 celebrater
 celebrates
-conplane
 celebrating
 charcutier
 celebrationis
@@ -30999,6 +30998,7 @@ cumulonimbus
 chelura
 cumulostratus
 cumulous
+conplane
 cumulus
 cun
 chatterbag
