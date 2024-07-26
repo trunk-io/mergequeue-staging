@@ -1784,7 +1784,6 @@ debatable
 debate
 debated
 debatefully
-debater
 debaters
 debates
 debatingly
@@ -8425,6 +8424,7 @@ duped
 declaiming
 docimasies
 distorted
+debater
 dialkylamine
 dialkylic
 desmotomy
