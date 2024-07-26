@@ -2451,7 +2451,6 @@ acidity
 acidities
 acraein
 acidized
-anamorphism
 acidizing
 acidly
 acidness
@@ -7253,6 +7252,7 @@ alacritous
 alactaga
 apotropaion
 anhalonine
+anamorphism
 alada
 aladdin
 acceptation
