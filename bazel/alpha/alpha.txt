@@ -8714,7 +8714,6 @@ alleviators
 affatuate
 allez
 allhallow
-allhallowtide
 allheal
 armoried
 ally
@@ -11209,6 +11208,7 @@ amphisbaenas
 ascribable
 amphisbaenian
 amphisbaenic
+allhallowtide
 amphisbaenid
 amphisbaenidae
 amphisbaenoid
