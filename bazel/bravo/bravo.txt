@@ -9420,7 +9420,6 @@ birdshots
 braehead
 brutism
 birdstone
-birdwatch
 birdweed
 birdwise
 birdwitted
@@ -17780,6 +17779,7 @@ burnettize
 burnettizing
 boregat
 butcherliness
+birdwatch
 burnfire
 burny
 ballottement
