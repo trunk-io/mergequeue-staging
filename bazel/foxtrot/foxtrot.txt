@@ -2525,7 +2525,6 @@ ferrocyanhydric
 flukeless
 flyblows
 ferroglass
-ferrogoslarite
 ferriferous
 ferrates
 ferrohydrocyanic
@@ -11287,6 +11286,7 @@ funniness
 forebreast
 funt
 failing
+ferrogoslarite
 furaciousness
 furacity
 fluxile
