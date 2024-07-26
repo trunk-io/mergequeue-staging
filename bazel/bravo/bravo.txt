@@ -4943,6 +4943,7 @@ beerothite
 beerpull
 bowlder
 bees
+bementite
 beest
 blacky
 beestings
@@ -11128,7 +11129,6 @@ buttercup
 biprong
 blossomy
 backstromite
-bementite
 blossomless
 brulot
 blossoms
