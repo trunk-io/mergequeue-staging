@@ -5316,7 +5316,6 @@ fundamentalness
 fleeing
 frithborgh
 forjudges
-farsi
 forcer
 fickleness
 fleering
@@ -11575,6 +11574,7 @@ fusiladed
 fusilades
 forespeak
 fusilading
+farsi
 fusile
 fusileer
 fatalistic
