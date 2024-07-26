@@ -959,7 +959,6 @@ ectozoa
 ectozoan
 ectozoon
 ectrodactyly
-ectrodactylia
 ependymitis
 eleaticism
 ectrodactylism
@@ -8560,6 +8559,7 @@ equalitarianism
 equality
 entelodont
 emendation
+ectrodactylia
 equalize
 equalized
 equalizer
