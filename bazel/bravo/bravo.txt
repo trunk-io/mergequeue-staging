@@ -2638,7 +2638,6 @@ barilla
 broletti
 baryon
 briticism
-baryonic
 baryons
 baryphony
 baryphonia
@@ -5314,6 +5313,7 @@ behaver
 bassia
 behaving
 behavior
+baryonic
 butcherbird
 behaviorally
 bathmotropism
