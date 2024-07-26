@@ -1773,6 +1773,7 @@ feature
 featured
 ficoid
 featureful
+flighthead
 features
 firing
 featurette
@@ -5520,7 +5521,6 @@ frigate
 foreseeable
 flightful
 fineness
-flighthead
 franked
 forpit
 fluoarsenate
