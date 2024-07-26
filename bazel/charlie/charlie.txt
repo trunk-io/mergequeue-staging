@@ -4105,6 +4105,7 @@ cardophagus
 cardosanto
 cardplayer
 cardplaying
+chromochalcographic
 cardroom
 cards
 clearwing
@@ -12551,7 +12552,6 @@ contradictable
 chromoblast
 chromocenter
 chromochalcography
-chromochalcographic
 chromocyte
 chromocytometer
 chromocollograph
