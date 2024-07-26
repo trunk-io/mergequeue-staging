@@ -3004,7 +3004,6 @@ cape
 cunas
 caped
 capelan
-copperwing
 capelans
 capelet
 capelin
@@ -25721,6 +25720,7 @@ corral
 corralled
 corralling
 corrals
+copperwing
 corrasion
 correa
 correal
