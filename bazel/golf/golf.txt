@@ -7571,7 +7571,6 @@ gapes
 gpcd
 gpm
 gra
-glucogenic
 graafian
 grabbable
 guitermanite
@@ -8432,6 +8431,7 @@ gravelike
 glucidic
 graveling
 geog
+glucogenic
 gravelish
 groats
 gravelly
