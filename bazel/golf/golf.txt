@@ -1957,7 +1957,6 @@ gloveman
 gaulic
 gaulish
 gingerspice
-glints
 gargoylish
 gibbed
 genit
@@ -2992,6 +2991,7 @@ genuflection
 genuflector
 genuflex
 genuflexion
+glints
 goorals
 genuflexuous
 growan
