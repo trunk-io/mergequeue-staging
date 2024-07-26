@@ -3643,6 +3643,7 @@ burlesque
 batonne
 batonnier
 batons
+breadths
 brazier
 batrachian
 batrachians
@@ -14750,7 +14751,6 @@ burnet
 breadstuffs
 breadthen
 baccalaurean
-breadths
 blindedly
 bitting
 breadthways
