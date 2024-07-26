@@ -7831,6 +7831,7 @@ foreprovision
 forepurpose
 frontways
 forequarter
+fanbearer
 fleet
 foreran
 foreranks
@@ -11162,7 +11163,6 @@ finises
 funkier
 funeralize
 funerally
-fanbearer
 funerals
 funerary
 flavorless
