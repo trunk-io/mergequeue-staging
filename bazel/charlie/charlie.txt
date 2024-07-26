@@ -6623,7 +6623,6 @@ celestine
 ceiled
 ceilers
 ceilidh
-chlorapatite
 certosa
 ceylon
 cassiopeid
@@ -21359,6 +21358,7 @@ concertos
 concertstuck
 concessible
 concession
+chlorapatite
 concessionaires
 concessionary
 concessions
