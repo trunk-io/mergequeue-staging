@@ -7010,6 +7010,7 @@ gassendist
 grandeur
 grip
 gooder
+gordius
 goth
 guardroom
 gaps
@@ -9978,7 +9979,6 @@ gopherberry
 guativere
 governorship
 guatoan
-gordius
 graziers
 guatusan
 guauaenok
