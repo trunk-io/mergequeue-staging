@@ -2928,6 +2928,7 @@ barracking
 barraclade
 barracoon
 barracouta
+bulwarks
 barracoutas
 barracuda
 barracudas
@@ -17177,7 +17178,6 @@ bulwand
 bulwarked
 basotho
 bulwarking
-bulwarks
 bumaree
 bumbailiff
 bumbailiffship
