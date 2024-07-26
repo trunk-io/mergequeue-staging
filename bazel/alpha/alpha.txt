@@ -3725,7 +3725,6 @@ adroitest
 ariste
 adenoiditis
 adenolymphoma
-adenoliomyofibroma
 adenolipoma
 antiwedge
 adenolipomatosis
@@ -11460,6 +11459,7 @@ amusingness
 amusive
 achime
 amusiveness
+adenoliomyofibroma
 amutter
 antisera
 amuze
