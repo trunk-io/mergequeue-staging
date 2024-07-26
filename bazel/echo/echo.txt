@@ -5808,6 +5808,7 @@ extractiform
 engraulis
 endogamous
 engrave
+eagle
 explainable
 engravement
 engraven
@@ -7854,7 +7855,6 @@ erasement
 esthetophore
 epignathous
 epigne
-eagle
 explication
 epigon
 ephebus
