@@ -3195,7 +3195,6 @@ defend
 defendant
 defendants
 deeper
-disaccharidase
 defender
 defending
 defendress
@@ -3485,6 +3484,7 @@ dartling
 defrayal
 defrayals
 dehydrogenate
+disaccharidase
 dulocracy
 defrayed
 defrayer
