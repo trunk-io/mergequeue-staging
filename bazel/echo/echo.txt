@@ -4799,7 +4799,6 @@ eggshell
 ectosteal
 encommon
 encompassment
-encopreses
 enfeoffed
 encorbelment
 encore
@@ -8710,6 +8709,7 @@ equip
 equipage
 encroached
 equipartisan
+encopreses
 equipede
 estatesman
 equipendent
