@@ -6978,7 +6978,6 @@ cenospecific
 cenospecifically
 cenotaphy
 cenotaphies
-cenotaphs
 chatino
 cenote
 chloral
@@ -29575,6 +29574,7 @@ corrects
 critical
 criticality
 critically
+cenotaphs
 criticalness
 criticaster
 criticastry
