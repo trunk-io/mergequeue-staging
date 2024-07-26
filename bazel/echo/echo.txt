@@ -8448,7 +8448,6 @@ estreated
 enveloper
 eudaemonia
 epizoology
-epizoon
 epizooty
 erionite
 epizootic
@@ -10904,6 +10903,7 @@ eumoiriety
 eumoirous
 eumolpides
 engs
+epizoon
 ectoethmoid
 eumolpus
 executors
