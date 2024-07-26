@@ -970,6 +970,7 @@ fard
 fabes
 fardage
 foliaging
+flipping
 farded
 fardel
 forgetfulness
@@ -2008,7 +2009,6 @@ felicide
 felicify
 flounder
 felicitates
-flipping
 ferruginean
 felicitating
 felicitation
