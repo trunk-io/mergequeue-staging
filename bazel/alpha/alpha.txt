@@ -2791,7 +2791,6 @@ adaptive
 acrab
 acracy
 acraldehyde
-acrania
 acranial
 acraniate
 acrasia
@@ -20893,6 +20892,7 @@ asaphid
 asaphidae
 auxamylase
 acoustics
+acrania
 asaprol
 archangels
 asarabacca
