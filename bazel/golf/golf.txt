@@ -6484,6 +6484,7 @@ goaves
 gob
 grandfather
 goban
+guiba
 guzzling
 gnocchi
 gobang
@@ -9126,7 +9127,6 @@ geochronic
 genipaps
 griquaite
 griqualander
-guiba
 grisaille
 grisard
 government
