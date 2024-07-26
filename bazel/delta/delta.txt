@@ -2467,7 +2467,6 @@ declare
 declaredly
 declaredness
 declarer
-declarers
 declares
 declaring
 declassed
@@ -18136,6 +18135,7 @@ dumontite
 daschagga
 dispunct
 dumortierite
+declarers
 dumosity
 dump
 dumpage
