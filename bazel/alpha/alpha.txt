@@ -5318,7 +5318,6 @@ affective
 affectively
 anfractuous
 affectless
-affectlessness
 affector
 affectual
 affectum
@@ -18155,6 +18154,7 @@ aquamaniles
 aquamanilia
 aquamarine
 advantage
+affectlessness
 anematized
 algometer
 aquameter
