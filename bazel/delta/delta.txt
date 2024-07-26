@@ -743,7 +743,6 @@ detonations
 dandelions
 dander
 dandered
-dingthrift
 dandering
 danders
 dandiacally
@@ -16281,6 +16280,7 @@ dowitch
 dowitcher
 dowitchers
 dowl
+dingthrift
 dreamlit
 dtset
 dowlas
