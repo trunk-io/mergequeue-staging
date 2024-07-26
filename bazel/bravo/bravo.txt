@@ -3536,6 +3536,7 @@ bathygraphic
 beveled
 belatticed
 bosomy
+bladeless
 bathylimnetic
 bathylite
 beltwise
@@ -5756,7 +5757,6 @@ bitubercular
 bellypiece
 bellypinch
 bellis
-bladeless
 bellite
 beaverish
 blancs
