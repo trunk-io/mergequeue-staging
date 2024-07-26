@@ -4598,6 +4598,7 @@ crossarms
 conormal
 courageously
 carpetbeater
+chlorophaeite
 coagulator
 carpeted
 cfh
@@ -11430,7 +11431,6 @@ columbate
 chloronitrate
 chloropal
 chloropalladic
-chlorophaeite
 chlorophane
 chlorophenol
 chlorophyceae
