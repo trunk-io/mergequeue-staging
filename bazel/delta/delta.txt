@@ -776,7 +776,6 @@ dandler
 dandlers
 dandling
 dissava
-dandriff
 dandriffy
 deallocating
 dandriffs
@@ -3382,6 +3381,7 @@ deflecting
 deflectionization
 deuterostomatous
 deflections
+dandriff
 deflective
 deflector
 deflectors
