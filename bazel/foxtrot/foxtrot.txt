@@ -5823,6 +5823,7 @@ flood
 flamingo
 floodable
 fluoaluminate
+flavanthrone
 fondus
 floodboard
 floodcock
@@ -11313,7 +11314,6 @@ furanes
 funnymen
 furanoid
 furanose
-flavanthrone
 furanoses
 flyable
 furazolidone

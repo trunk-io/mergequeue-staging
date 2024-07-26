@@ -18557,7 +18557,6 @@ cohosh
 consigner
 cohoshes
 copartiment
-cohosted
 codecs
 chaenactis
 cohosting
@@ -21115,6 +21114,7 @@ czechs
 computerizing
 charbroils
 computerlike
+cohosted
 computernik
 computes
 computing
