@@ -8056,7 +8056,6 @@ chablis
 crannog
 chalkstony
 clergies
-chabot
 chabouk
 challoth
 cutify
@@ -10687,6 +10686,7 @@ chilostomatous
 cardiogram
 chilostome
 chiefdom
+chabot
 chylothorax
 chilotomy
 caveat
