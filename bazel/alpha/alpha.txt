@@ -1153,7 +1153,6 @@ abstrusest
 alumnal
 abstrusity
 abstrusities
-absume
 absumption
 absurd
 absurdest
@@ -1206,6 +1205,7 @@ accedes
 aburton
 approachableness
 abusage
+absume
 abuse
 abused
 abusedly

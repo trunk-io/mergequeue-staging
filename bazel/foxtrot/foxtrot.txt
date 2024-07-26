@@ -4225,6 +4225,7 @@ fruited
 firmisternal
 fanciless
 fruitlike
+fortifications
 faithfulness
 firmisternia
 forebitt
@@ -8659,7 +8660,6 @@ fortification
 fasola
 flesher
 facetiously
-fortifications
 fortifier
 fortifiers
 fortifying
