@@ -2514,7 +2514,6 @@ branchiostegan
 bardolphian
 bards
 bardship
-bactritoid
 backlands
 bullition
 bedtime
@@ -8989,6 +8988,7 @@ botanizer
 biomechanics
 bewitches
 biomes
+bactritoid
 biometeorology
 biometer
 biometric
