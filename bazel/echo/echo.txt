@@ -7537,7 +7537,6 @@ ensuance
 epiblastema
 epiblastic
 epiboly
-epibolic
 eident
 epibolism
 eusebian
@@ -10762,6 +10761,7 @@ eudiometry
 eudiometric
 eudiometrical
 eudiometrically
+epibolic
 eudipleural
 exoteric
 eudorina

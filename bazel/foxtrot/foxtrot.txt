@@ -10274,7 +10274,6 @@ ferrado
 formalized
 frogbit
 frogeyed
-frogeyes
 futhork
 frogfish
 fiendliness
@@ -11446,6 +11445,7 @@ furnished
 furnishes
 furnishing
 feebler
+frogeyes
 flatfish
 fenestellid
 furnishings
