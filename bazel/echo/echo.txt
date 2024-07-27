@@ -5251,7 +5251,6 @@ endoral
 evened
 elater
 equipedal
-excisable
 eructing
 effervescency
 emboil
@@ -11754,6 +11753,7 @@ endopolyploid
 exactly
 electrolysation
 exactness
+excisable
 elsewhither
 exactor
 exactus
