@@ -10483,7 +10483,6 @@ ethnol
 eurythmical
 emulant
 erubescent
-elamp
 electrometallurgy
 ethnolinguist
 easterling
@@ -12994,6 +12993,7 @@ expeded
 eucommia
 expediate
 earth
+elamp
 encanthis
 expedience
 enrobes

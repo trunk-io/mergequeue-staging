@@ -5045,7 +5045,6 @@ caseinogen
 caseins
 casel
 caseless
-countergauge
 caselessly
 caseload
 caseloads
@@ -9515,6 +9514,7 @@ cheatry
 chasten
 chemic
 calebite
+countergauge
 cheatrie
 cheats
 confract
