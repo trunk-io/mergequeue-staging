@@ -10818,7 +10818,6 @@ earflaps
 euhyostyly
 equisegmented
 euhyostylic
-excluding
 elides
 eukairite
 ectochondral
@@ -12397,6 +12396,7 @@ earthworm
 excised
 exerciser
 exercising
+excluding
 eoanthropus
 episome
 exercitant
