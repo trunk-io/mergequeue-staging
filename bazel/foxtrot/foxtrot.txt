@@ -1651,6 +1651,7 @@ fb
 frontierman
 fchar
 fipenny
+frizzles
 fcomp
 furling
 foldure
@@ -10252,7 +10253,6 @@ feudum
 fetisheer
 favoritism
 frizzled
-frizzles
 farmhouses
 frizzly
 flooders
