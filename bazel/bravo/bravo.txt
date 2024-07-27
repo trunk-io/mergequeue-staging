@@ -3961,7 +3961,6 @@ backset
 bluishness
 buhl
 beakerful
-beakerman
 beakful
 beakier
 bandonion
@@ -17112,6 +17111,7 @@ bullyragged
 bullyragging
 boomers
 buckramed
+beakerman
 bullyrock
 bullish
 boreas
