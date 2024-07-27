@@ -1667,7 +1667,6 @@ flighter
 fictation
 feague
 foreflank
-fogmen
 feal
 fearable
 fearbabe
@@ -7431,6 +7430,7 @@ fistulate
 fordy
 foolproofness
 flavius
+fogmen
 fordicidia
 fordid
 fordless
