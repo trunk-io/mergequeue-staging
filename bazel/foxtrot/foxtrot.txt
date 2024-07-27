@@ -3382,7 +3382,6 @@ forcibleness
 fightings
 fascio
 fetchingly
-figitidae
 figless
 figlike
 figmental
@@ -10820,6 +10819,7 @@ frogfoot
 fuddlement
 finlander
 fuddler
+figitidae
 fuddles
 fuddling
 fraenular
