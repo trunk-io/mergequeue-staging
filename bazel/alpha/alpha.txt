@@ -11930,7 +11930,6 @@ anapodeictic
 anapophyses
 archocystosyrinx
 anapophysial
-anapophysis
 anapsida
 anapsidan
 anapterygota
@@ -19459,6 +19458,7 @@ argentinidae
 argentinitrate
 argentinize
 argentino
+anapophysis
 argention
 argentol
 acrodonts
