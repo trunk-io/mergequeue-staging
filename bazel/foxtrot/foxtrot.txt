@@ -72,7 +72,6 @@ fragmenting
 faces
 facesaving
 facet
-faceted
 famelessly
 facetiae
 faceting
@@ -10566,6 +10565,7 @@ frowsty
 frowstier
 ferrules
 flatuous
+faceted
 frowstiest
 frowze
 fucus
