@@ -5560,6 +5560,7 @@ belcher
 brigadiers
 belchers
 backfiller
+bombarder
 blowpipes
 belching
 beld
@@ -12222,7 +12223,6 @@ bombarde
 bombardelle
 beltie
 baetylic
-bombarder
 bombardier
 blottesquely
 bombardiers
