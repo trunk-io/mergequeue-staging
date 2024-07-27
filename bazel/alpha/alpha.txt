@@ -6716,7 +6716,6 @@ aigialosauridae
 auditioned
 arboriculturist
 alphas
-aigialosaurus
 aiglet
 aiglets
 aiglette
@@ -15830,6 +15829,7 @@ antipasto
 antipastos
 antipatharia
 antitorpedo
+aigialosaurus
 antipatharian
 allurers
 antipathetical
