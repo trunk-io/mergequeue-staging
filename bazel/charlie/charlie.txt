@@ -15213,7 +15213,6 @@ chao
 cimaise
 clach
 clachan
-clachans
 caryopsis
 clachs
 clackama
@@ -18624,6 +18623,7 @@ cherisher
 coilyear
 coiling
 crump
+clachans
 coilsmith
 coimmense
 coimplicant
