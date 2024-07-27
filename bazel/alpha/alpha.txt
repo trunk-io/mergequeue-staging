@@ -3661,7 +3661,6 @@ antiscience
 adenase
 adenasthenia
 adendric
-adendritic
 adenectomy
 adenectomies
 adenectopia
@@ -6566,6 +6565,7 @@ antesignanus
 agrostographical
 algesthesis
 agrostographies
+adendritic
 agrostologic
 alloquialism
 agrostological
