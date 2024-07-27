@@ -4813,7 +4813,6 @@ countryfied
 carte
 chaunters
 carted
-clepes
 cartel
 chastiser
 cartelism
@@ -15912,6 +15911,7 @@ clearances
 clearcole
 cleared
 clearedness
+clepes
 clearer
 clearers
 clearest
