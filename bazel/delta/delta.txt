@@ -1708,7 +1708,6 @@ decostate
 deassimilation
 deathbeds
 deathblows
-deathcup
 dulotic
 deathcups
 deathful
@@ -8378,6 +8377,7 @@ dialiness
 dialing
 descensional
 dialoguer
+deathcup
 deadpanner
 dialings
 dorking
