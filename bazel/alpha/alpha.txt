@@ -4342,7 +4342,6 @@ attestations
 apiarist
 adorn
 adornation
-adorned
 algebraization
 adorners
 aureomycin
@@ -23986,6 +23985,7 @@ autocytolytic
 autoclasis
 autoclave
 auntly
+adorned
 autoclaves
 autoclaving
 autocoder
