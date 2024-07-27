@@ -2835,7 +2835,6 @@ francs
 feuille
 feuillemorte
 flamandize
-feuillet
 feuilleton
 feuilletonism
 feuilletons
@@ -8218,6 +8217,7 @@ faroff
 fimetic
 fenagle
 foxfires
+feuillet
 forgivenesses
 faculae
 florification
