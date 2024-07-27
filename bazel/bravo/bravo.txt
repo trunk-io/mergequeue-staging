@@ -8122,7 +8122,6 @@ bidirectionally
 brightened
 bidonville
 bibliophile
-bidpai
 besquib
 bidry
 bidstand
@@ -14798,6 +14797,7 @@ bicuspids
 breakover
 belout
 breakpoints
+bidpai
 baya
 breaks
 barcelona
