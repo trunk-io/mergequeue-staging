@@ -10273,7 +10273,6 @@ cobloaf
 contemplamen
 chewed
 cheweler
-chewer
 chewers
 chewet
 chewie
@@ -27425,6 +27424,7 @@ courty
 courtyard
 courtyards
 closter
+chewer
 crateman
 courtier
 courtiery
