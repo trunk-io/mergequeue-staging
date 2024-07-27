@@ -8120,7 +8120,6 @@ dekagramme
 dhurna
 dephysicalize
 dhurnas
-disapprove
 derbend
 dhurra
 deeding
@@ -9648,6 +9647,7 @@ dignified
 dreint
 dignifiedness
 desterilize
+disapprove
 dignifies
 dignifying
 dignitary
