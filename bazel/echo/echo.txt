@@ -8573,7 +8573,6 @@ equalness
 equals
 erotylidae
 exponency
-eversive
 energesis
 equanimous
 equanimously
@@ -11697,6 +11696,7 @@ evolvable
 emulgens
 evolve
 electroretinogram
+eversive
 etiolin
 evolvers
 evolving
