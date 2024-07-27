@@ -16842,7 +16842,6 @@ aphidivorous
 anatripsis
 aphidlion
 anapneic
-aphidolysin
 aphydrotropic
 aphydrotropism
 aquativeness
@@ -22400,6 +22399,7 @@ adversion
 astrospectroscopic
 albutannin
 astrospherecentrosomic
+aphidolysin
 astrotheology
 anaphases
 astructive
