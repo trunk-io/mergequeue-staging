@@ -676,7 +676,6 @@ gratins
 gubbo
 gallivants
 geoglyphic
-goosenecked
 gallywasp
 gallnut
 gallnuts
@@ -3260,6 +3259,7 @@ grieve
 geophysical
 gamboler
 glamoury
+goosenecked
 gangway
 grandfatherless
 geophone
