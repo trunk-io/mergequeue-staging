@@ -1241,7 +1241,6 @@ caliban
 caliber
 calibogus
 colunar
-calibrate
 calibrater
 calibrates
 calibrating
@@ -9822,6 +9821,7 @@ chelidonian
 chelidonin
 chelidosaurus
 chelydra
+calibrate
 chelydre
 coenamors
 chelydridae
