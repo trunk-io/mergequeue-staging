@@ -7036,6 +7036,7 @@ flatwise
 fontanel
 flapdock
 fraenums
+frogspawn
 fontange
 floated
 fontanges
@@ -10308,7 +10309,6 @@ frogs
 frogskin
 frogskins
 filched
-frogspawn
 forsloth
 frogwort
 fooldom
