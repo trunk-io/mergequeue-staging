@@ -4814,7 +4814,6 @@ flambant
 fungible
 fluorids
 flambeaus
-frittering
 flambeaux
 flambee
 finitive
@@ -6729,6 +6728,7 @@ froes
 fogey
 fogfruit
 fogged
+frittering
 fogger
 foggy
 farandole
