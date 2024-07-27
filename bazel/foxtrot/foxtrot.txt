@@ -7662,7 +7662,6 @@ flatteners
 fables
 foreclosures
 foredates
-foregone
 flaperon
 foreground
 furole
@@ -8286,6 +8285,7 @@ fayed
 fierte
 forklifts
 forkman
+foregone
 forks
 forksful
 forktail
