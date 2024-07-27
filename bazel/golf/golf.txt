@@ -5535,6 +5535,7 @@ guigne
 glycols
 glycoluric
 gloms
+givens
 glycoluril
 gnarl
 gashes
@@ -5863,7 +5864,6 @@ gloomy
 gloomier
 guastalline
 geoidal
-givens
 gloomingly
 gloomings
 grooper
