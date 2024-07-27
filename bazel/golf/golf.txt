@@ -900,7 +900,6 @@ gamelike
 glossopodium
 gonfalonier
 guiro
-gamelion
 gamelotte
 glomeroporphyritic
 guruship
@@ -8133,6 +8132,7 @@ granzita
 guelph
 glucosaemia
 glandules
+gamelion
 gammarid
 grossness
 grapeflower
