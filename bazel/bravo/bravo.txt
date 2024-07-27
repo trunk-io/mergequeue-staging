@@ -2481,6 +2481,7 @@ barche
 bishoplike
 barcolongo
 barcone
+bituminosis
 barcoo
 bard
 bemuse
@@ -9906,7 +9907,6 @@ bituminization
 bituminize
 bituminizing
 bituminoid
-bituminosis
 bituminous
 biune
 biunial
