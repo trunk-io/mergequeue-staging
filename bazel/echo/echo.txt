@@ -4726,7 +4726,6 @@ enclave
 eutexia
 enclaved
 entailing
-enclaves
 enclaving
 enclitical
 enclitically
@@ -7054,6 +7053,7 @@ elaterite
 entryman
 emmove
 entryways
+enclaves
 epidesmine
 enfoldings
 esophago
