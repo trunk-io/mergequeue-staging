@@ -6736,7 +6736,6 @@ enthymeme
 exterminist
 enmity
 enthral
-enthralldom
 eveners
 endolithic
 enthralled
@@ -13269,6 +13268,7 @@ etherealness
 equiatomic
 enigmatization
 epitomatory
+enthralldom
 explosimeter
 englishmen
 efforce
