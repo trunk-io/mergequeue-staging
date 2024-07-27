@@ -7154,7 +7154,6 @@ girosol
 grassless
 goosehouse
 geezer
-grouch
 glaucochroite
 gusle
 gooselike
@@ -9758,6 +9757,7 @@ granitiform
 grus
 grush
 gutter
+grouch
 griffith
 grutching
 guildite
