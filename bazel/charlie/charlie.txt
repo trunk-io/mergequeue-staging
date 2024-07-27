@@ -11233,7 +11233,6 @@ chlamyd
 chlamydate
 chlamydeous
 chlamydes
-cliftonia
 chlamydobacteriaceae
 chlamydobacteriales
 chlamydomonadidae
@@ -28774,6 +28773,7 @@ crepidomata
 crepidula
 crepiest
 crepine
+cliftonia
 crepiness
 creping
 colliquative
