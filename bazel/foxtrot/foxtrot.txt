@@ -7176,7 +7176,6 @@ fluidics
 fido
 footnoted
 footnotes
-footpace
 forefather
 footler
 film
@@ -9816,6 +9815,7 @@ feliform
 frequentable
 foresinger
 fubsy
+footpace
 fewmets
 frequentative
 farrierlike
