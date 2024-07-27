@@ -10155,7 +10155,6 @@ blackrag
 blackroot
 blackshirt
 blackshirted
-blacksmith
 blacksmiths
 blacksnake
 blackstick
@@ -11100,6 +11099,7 @@ bloomer
 begnawed
 bloomery
 bricks
+blacksmith
 blastomycin
 bloomerism
 bloomers
