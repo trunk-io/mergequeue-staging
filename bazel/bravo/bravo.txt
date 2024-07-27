@@ -1585,7 +1585,6 @@ battuto
 balldress
 bunter
 baller
-ballerina
 ballerinas
 benzal
 blissless
@@ -11178,6 +11177,7 @@ bloused
 blouselike
 blouses
 blousy
+ballerina
 breathy
 blousier
 blame
