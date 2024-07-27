@@ -4418,7 +4418,6 @@ finale
 fabricating
 flyted
 fissipedial
-fibrillous
 fissirostral
 foreimpression
 fissirostrate
@@ -5784,6 +5783,7 @@ fish
 floccules
 fur
 flocculi
+fibrillous
 fullom
 fruitery
 floccus
