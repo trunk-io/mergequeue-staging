@@ -7797,7 +7797,6 @@ bibelots
 buskin
 boogerman
 bahut
-bibenzyl
 bibio
 books
 bibionid
@@ -9399,6 +9398,7 @@ blindless
 bulbochaete
 begottenness
 beachboy
+bibenzyl
 birdland
 basseting
 beirut
