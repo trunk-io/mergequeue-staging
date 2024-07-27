@@ -13671,7 +13671,6 @@ demineralize
 dissymmetry
 dowelling
 doglegged
-dissymmettric
 dissympathize
 dissimulate
 dissimulates
@@ -16418,6 +16417,7 @@ downtake
 defensorship
 demonocracy
 downthrow
+dissymmettric
 downthrust
 downtowner
 downtowns
