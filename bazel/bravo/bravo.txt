@@ -12259,7 +12259,6 @@ bombazet
 bombazette
 bombazine
 basin
-bombed
 bomber
 backswordman
 bombernickel
@@ -14948,6 +14947,7 @@ brands
 brenda
 blinks
 buddhistic
+bombed
 brushmaker
 brennage
 blousons
