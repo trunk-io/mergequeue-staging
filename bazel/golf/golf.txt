@@ -2554,6 +2554,7 @@ gemsbucks
 gheg
 gemse
 gemuetlich
+granitic
 gemuti
 gemutlich
 gripple
@@ -8049,7 +8050,6 @@ granite
 gesticulate
 granitelike
 granites
-granitic
 galavants
 gynaeceum
 graniticoline
