@@ -7575,6 +7575,7 @@ dispensatorily
 devaluates
 devaluating
 devaluation
+decremeter
 devaluations
 devalued
 demurrages
@@ -13905,7 +13906,6 @@ democratising
 distillery
 distillers
 distilling
-decremeter
 distillment
 describe
 disembowelments
