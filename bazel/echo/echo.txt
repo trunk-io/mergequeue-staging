@@ -517,7 +517,6 @@ ecgonine
 espino
 eirack
 enfeoff
-exonarthex
 echafaudage
 equimolecular
 echard
@@ -7537,6 +7536,7 @@ embarment
 epibenthic
 expeditated
 epibiotic
+exonarthex
 epiblast
 epicheirema
 excitomotor
