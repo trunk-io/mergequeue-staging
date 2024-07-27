@@ -4660,6 +4660,7 @@ des
 demiracle
 demirelief
 dourahs
+dormition
 demirevetment
 demirobe
 discrowned
@@ -15788,7 +15789,6 @@ daneflower
 dormilona
 dormin
 dormins
-dormition
 dormouse
 dorn
 dorneck
