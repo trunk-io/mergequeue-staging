@@ -599,7 +599,6 @@ gonk
 graptolitic
 gynomonoecious
 gallicism
-gallicization
 gunong
 gallicizer
 gallicola
@@ -4722,6 +4721,7 @@ gunsmithery
 gastrostaxis
 gypsyish
 grot
+gallicization
 glucke
 geogony
 graveyards
