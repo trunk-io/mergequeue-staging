@@ -12944,7 +12944,6 @@ copist
 churchward
 churchwardenism
 churchwardenize
-churchwardens
 churchwardenship
 crouch
 churchwards
@@ -13071,6 +13070,7 @@ chainbreak
 cyanitic
 cyanized
 cyanizing
+churchwardens
 cyanmethemoglobin
 cyano
 cyanoacetic
