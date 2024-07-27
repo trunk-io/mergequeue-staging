@@ -6922,7 +6922,6 @@ airheads
 atopic
 assisi
 airy
-airier
 airiferous
 arsyversy
 airify
@@ -17482,6 +17481,7 @@ applot
 airship
 atmiatrics
 apothegmatic
+airier
 apothegmatical
 apothegmatically
 apothegmatist
