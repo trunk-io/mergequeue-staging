@@ -3742,7 +3742,6 @@ gesturer
 gelechiid
 gesturers
 grosso
-gesturing
 gil
 gassier
 glycogenolysis
@@ -4719,6 +4718,7 @@ gipsyhood
 gypsyhood
 gunsmithery
 gastrostaxis
+gesturing
 gypsyish
 grot
 gallicization
