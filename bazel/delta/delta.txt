@@ -6599,6 +6599,7 @@ driveway
 descriptionless
 descriptions
 descriptive
+disecondary
 descriptively
 descriptiveness
 decks
@@ -11943,7 +11944,6 @@ decrees
 diseasing
 dunger
 dyotheletism
-disecondary
 depolarize
 distaining
 diseconomy
