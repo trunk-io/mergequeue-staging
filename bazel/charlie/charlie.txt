@@ -997,6 +997,7 @@ calavance
 carrageenan
 calaverite
 calc
+cricothyroid
 calcanea
 calcaneal
 chimpanzee
@@ -29025,7 +29026,6 @@ cricopharyngeal
 cricothyreoid
 cricothyreotomy
 chaule
-cricothyroid
 cricotomy
 cricotracheotomy
 crossbowman
