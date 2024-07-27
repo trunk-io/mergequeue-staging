@@ -5398,7 +5398,6 @@ enclavement
 endovasculitis
 equinox
 enemy
-epitaph
 ecdemic
 endowing
 endoerythrocytic
@@ -11112,6 +11111,7 @@ euryphage
 ephemera
 euryphagous
 eurypharyngidae
+epitaph
 eurypharynx
 enaena
 euripi

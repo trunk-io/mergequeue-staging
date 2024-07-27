@@ -6697,7 +6697,6 @@ bering
 beringed
 beringite
 bondmaids
-braid
 berith
 besetter
 berytidae
@@ -17908,6 +17907,7 @@ burweed
 burweeds
 bus
 bushfire
+braid
 busaos
 busbar
 busbars
