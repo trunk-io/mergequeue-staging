@@ -7586,7 +7586,6 @@ bewreath
 behearse
 buntlines
 boomage
-bewwept
 burroweed
 bezaleel
 beatster
@@ -15984,6 +15983,7 @@ banquette
 brontoscopy
 brontotherium
 brei
+bewwept
 bronze
 bronzer
 backword
