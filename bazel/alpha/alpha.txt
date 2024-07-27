@@ -2261,7 +2261,6 @@ achen
 achene
 achenes
 achenia
-ashier
 achenium
 auris
 achernar
@@ -8641,6 +8640,7 @@ allegretto
 allegrettos
 allegros
 alley
+ashier
 alleyed
 alleyite
 assassinator
