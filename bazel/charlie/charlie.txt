@@ -24124,7 +24124,6 @@ convenience
 convenienced
 conveniency
 conveniencies
-conveniens
 convenient
 conveniently
 convenientness
@@ -25412,6 +25411,7 @@ commata
 cornette
 cornetter
 chamberlet
+conveniens
 cornetti
 cornettino
 caponized
