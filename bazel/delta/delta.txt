@@ -3357,7 +3357,6 @@ deflator
 deflators
 deflea
 defleaed
-defleaing
 distributiveness
 defleas
 deflect
@@ -7664,6 +7663,7 @@ disthroned
 druidesses
 disfortune
 devicefulness
+defleaing
 devices
 devide
 decuss
