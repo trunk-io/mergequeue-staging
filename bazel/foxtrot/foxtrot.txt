@@ -6064,7 +6064,6 @@ flot
 flota
 flotant
 futurism
-favorability
 florid
 filibusterer
 flotas
@@ -8484,6 +8483,7 @@ fanfaronading
 feedy
 falsehearted
 friend
+favorability
 forgainst
 fluigramme
 formulator
