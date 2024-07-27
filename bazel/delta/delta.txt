@@ -3098,7 +3098,6 @@ desirably
 defang
 defassa
 defat
-defatigable
 dischase
 danai
 defatigation
@@ -12086,6 +12085,7 @@ decretion
 domineers
 decrementless
 dysenteric
+defatigable
 distressingly
 dysenterical
 disenthral
