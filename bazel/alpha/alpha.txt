@@ -2769,7 +2769,6 @@ acquisitiveness
 acquisitor
 aphasia
 acquisitum
-acquist
 acquit
 autodialing
 acquital
@@ -6021,6 +6020,7 @@ amahs
 agers
 aget
 agete
+acquist
 ageusia
 ageusic
 antesternal
