@@ -2627,7 +2627,6 @@ electrotellurograph
 electrothanasia
 expressionful
 electrotherapeutist
-electrotheraputical
 electrotheraputically
 encroachments
 electrothermancy
@@ -11807,6 +11806,7 @@ examen
 examens
 examinability
 examinable
+electrotheraputical
 economical
 examinant
 examinate
