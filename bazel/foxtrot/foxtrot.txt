@@ -1624,6 +1624,7 @@ fawe
 fawn
 firebase
 ferricyanogen
+fixture
 forthrights
 fritz
 fivepenny
@@ -4562,7 +4563,6 @@ fixities
 fixive
 forpet
 fibrinolysin
-fixture
 frore
 fixtureless
 fructuary
