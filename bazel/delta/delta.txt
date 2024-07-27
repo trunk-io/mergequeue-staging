@@ -14736,7 +14736,6 @@ docketed
 dockhand
 dockhands
 daitya
-dockhouse
 dockyards
 docking
 dockization
@@ -17901,6 +17900,7 @@ daybook
 depleteable
 dudman
 decrepitating
+dockhouse
 duds
 dextromanual
 due
