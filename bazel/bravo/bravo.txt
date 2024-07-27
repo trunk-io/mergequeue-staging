@@ -6179,7 +6179,6 @@ benignness
 beniseed
 benison
 boninesses
-benisons
 bethumps
 batfish
 batteled
@@ -17475,6 +17474,7 @@ bupleurum
 buplever
 birdless
 buprestidan
+benisons
 buprestis
 buqsha
 bandboxy
