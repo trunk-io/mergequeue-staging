@@ -341,7 +341,6 @@ diacidic
 daidly
 daidlie
 daydream
-damselflies
 daydreamers
 daydreaming
 daydreamlike
@@ -4141,6 +4140,7 @@ delimitation
 delimitations
 dyotheletic
 delimited
+damselflies
 delimiter
 delimiting
 delimitize
