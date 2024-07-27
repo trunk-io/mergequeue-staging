@@ -7713,7 +7713,6 @@ falsifications
 foreiron
 forejudged
 foreteller
-forejudger
 forejudging
 fonded
 feminines
@@ -9587,6 +9586,7 @@ fastwalk
 forthward
 freebooters
 freebooty
+forejudger
 freebooting
 freeboots
 flenches
