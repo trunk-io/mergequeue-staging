@@ -102,7 +102,6 @@ eprosy
 earmark
 earmarked
 earmarkings
-epitheliosis
 epithelioblastoma
 enormously
 enaluron
@@ -2410,6 +2409,7 @@ esterified
 electrofusion
 electrogenesis
 electrogild
+epitheliosis
 erd
 electrogilding
 electrogram
