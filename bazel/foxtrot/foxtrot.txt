@@ -10002,6 +10002,7 @@ flavanone
 fromenty
 frig
 frigates
+fstore
 foilable
 frigatoon
 februarius
@@ -11601,7 +11602,6 @@ ferrying
 fussbudget
 fretting
 fussbudgety
-fstore
 fussbudgets
 funambulated
 farcers
