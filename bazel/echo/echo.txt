@@ -4937,7 +4937,6 @@ endarterium
 enquiry
 endaspidean
 endaze
-exhaustible
 endboard
 ewe
 ensilist
@@ -7708,6 +7707,7 @@ equidensity
 embroider
 edematous
 epidendral
+exhaustible
 erysipelothrix
 eumenorrhea
 enaunter
