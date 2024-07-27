@@ -1630,7 +1630,6 @@ deamidase
 deamidate
 deamidize
 deaminase
-deaminating
 dragooned
 debcle
 durango
@@ -18157,6 +18156,7 @@ dandyize
 dumpled
 dumpling
 dumplings
+deaminating
 dumpoke
 dumps
 dumpty
