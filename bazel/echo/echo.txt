@@ -4709,7 +4709,6 @@ encircles
 encircling
 encyrtid
 eriobotrya
-epode
 encyrtidae
 encist
 encyst
@@ -7949,6 +7948,7 @@ epilogist
 elocutionists
 evaginated
 epilogistic
+epode
 epilogizing
 epilogue
 eaglet
