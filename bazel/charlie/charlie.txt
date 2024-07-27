@@ -16318,6 +16318,7 @@ circumpolygon
 coffeepot
 clinkum
 clinocephaly
+consumed
 clinocephalic
 ceration
 clinocephalous
@@ -23371,7 +23372,6 @@ consumated
 cancroid
 consumating
 consume
-consumed
 consumedly
 courageousness
 crotching
