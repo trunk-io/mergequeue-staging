@@ -8321,6 +8321,7 @@ actinostomal
 alineation
 approximant
 alinement
+apposer
 aliner
 aliners
 alinit
@@ -17849,7 +17850,6 @@ apportions
 apposability
 appose
 apposed
-apposer
 apposers
 apposes
 apposing
