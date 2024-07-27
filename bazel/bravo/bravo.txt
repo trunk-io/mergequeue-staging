@@ -11590,7 +11590,6 @@ bottlenecks
 boatloading
 baske
 boatloads
-boatman
 banstickle
 bullfighting
 bodybuilder
@@ -15746,6 +15745,7 @@ bromelia
 bromeliaceae
 bromeliaceous
 bunnell
+boatman
 bromeliad
 bromelin
 blighty
