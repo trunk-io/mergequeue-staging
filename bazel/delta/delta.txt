@@ -2765,7 +2765,6 @@ dunkled
 decrements
 decrepit
 decrepitate
-decrepitation
 decrepitness
 decreptitude
 dictyota
@@ -9694,6 +9693,7 @@ diguanide
 digue
 dihalid
 dihalo
+decrepitation
 dihalogen
 dihdroxycholecalciferol
 dihedral
