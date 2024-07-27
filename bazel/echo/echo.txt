@@ -3923,7 +3923,6 @@ emirship
 escheat
 equinovarus
 emissary
-eikon
 eremitical
 emissaries
 emissarium
@@ -14159,6 +14158,7 @@ energizing
 exultance
 exultancy
 excandescence
+eikon
 exultant
 exultantly
 ectropion
