@@ -5174,7 +5174,6 @@ flavoriness
 farrow
 felsic
 forsworn
-flavors
 forequarters
 flavorsome
 fame
@@ -10677,6 +10676,7 @@ fount
 fracticipita
 frescoes
 frumpery
+flavors
 fitment
 fibulae
 footband
