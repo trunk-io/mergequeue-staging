@@ -2860,6 +2860,7 @@ gunbuilder
 grizzling
 ganodonta
 genotype
+gawkers
 granulose
 gradative
 genotypical
@@ -10358,7 +10359,6 @@ gator
 gast
 geochronology
 gaw
-gawkers
 gullish
 gerundial
 gulliver
