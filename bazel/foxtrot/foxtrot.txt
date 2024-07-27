@@ -140,7 +140,6 @@ firman
 facty
 fictile
 factional
-furnacite
 foederal
 forfeit
 factionalism
@@ -6671,6 +6670,7 @@ focused
 focusless
 filling
 floorings
+furnacite
 focussed
 fluminose
 focusses
