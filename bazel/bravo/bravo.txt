@@ -13369,7 +13369,6 @@ boubas
 boubous
 boucan
 bouch
-bouchaleen
 boucharde
 bouche
 bergylt
@@ -15005,6 +15004,7 @@ baronetship
 breviate
 blackhead
 breviature
+bouchaleen
 brevicaudate
 brevicipitid
 brevicipitidae
