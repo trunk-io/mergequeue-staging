@@ -5481,7 +5481,6 @@ agrimotor
 affricative
 antrotome
 affright
-affrighted
 affrightedly
 aegyrite
 antitragicus
@@ -11383,6 +11382,7 @@ addaxes
 ampuls
 amputate
 antinationalization
+affrighted
 adjusts
 aglaspis
 attendingly
