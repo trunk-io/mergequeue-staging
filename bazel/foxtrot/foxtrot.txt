@@ -6665,7 +6665,6 @@ flanken
 focoids
 flyflap
 fining
-focused
 focusless
 filling
 floorings
@@ -8576,6 +8575,7 @@ favourably
 forspeak
 forbesite
 forspent
+focused
 farstepped
 ferally
 footing
