@@ -1290,7 +1290,6 @@ exumbrellar
 effect
 era
 effected
-effecter
 espacement
 exopeptidase
 equalled
@@ -6653,6 +6652,7 @@ evacuant
 enterorrhexis
 etatisms
 enteroscopy
+effecter
 enterosyphilis
 electrophonic
 excels
