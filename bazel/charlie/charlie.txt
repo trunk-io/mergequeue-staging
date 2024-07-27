@@ -1925,6 +1925,7 @@ camisole
 camisoles
 camister
 camize
+curvilinear
 cosmolabe
 camla
 compliancy
@@ -27901,7 +27902,6 @@ conglomeration
 cracca
 chthonophagia
 craccus
-curvilinear
 crachoir
 cracinae
 crackback
