@@ -3692,7 +3692,6 @@ absquatulate
 adenochondrosarcoma
 adenochrome
 adenocyst
-adenocystomatous
 appropriative
 adenodiastasis
 adenofibroma
@@ -19720,6 +19719,7 @@ arillate
 arillated
 arilled
 acushla
+adenocystomatous
 affianced
 arilli
 aircraftswomen
