@@ -1856,7 +1856,6 @@ globosities
 gastrotomy
 gierfalcon
 garcinia
-gastrotomies
 gardevin
 gastrovascular
 gastrozooid
@@ -2310,6 +2309,7 @@ geissoloma
 gizzards
 geissolomataceae
 gettered
+gastrotomies
 guillem
 glissaded
 geissospermine
