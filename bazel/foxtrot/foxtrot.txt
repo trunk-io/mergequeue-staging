@@ -2491,7 +2491,6 @@ ferrihydrocyanic
 ferryhouse
 flumdiddle
 ferrimagnet
-flexible
 forewing
 footbath
 ferrimagnetism
@@ -5809,6 +5808,7 @@ flayed
 fumewort
 fermis
 floes
+flexible
 flog
 flogging
 foreman
