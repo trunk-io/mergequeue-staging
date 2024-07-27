@@ -2399,7 +2399,6 @@ banquetings
 backout
 barbershops
 barbet
-beshawled
 barbets
 barbette
 barite
@@ -6598,6 +6597,7 @@ bereave
 birse
 branchiopod
 bereavement
+beshawled
 biliferous
 bereavements
 bereaves
