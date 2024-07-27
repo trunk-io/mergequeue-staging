@@ -770,7 +770,6 @@ bacterize
 bacterized
 bacterizing
 bacteroid
-bacteroideae
 bacteroides
 bactetiophage
 bactrian
@@ -18381,6 +18380,7 @@ buzzerphone
 bleachers
 bothridium
 buzzers
+bacteroideae
 buzzes
 buzzies
 buzziest

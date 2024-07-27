@@ -3545,7 +3545,6 @@ fibrolipomatous
 fylgjur
 filiality
 flattercap
-filiate
 filiated
 filibegs
 feute
@@ -7836,6 +7835,7 @@ foreprize
 flyby
 fovent
 fibrositis
+filiate
 forepromise
 forepromised
 foreprovision
