@@ -5828,6 +5828,7 @@ foredevote
 feats
 flon
 flong
+fosslology
 flood
 flamingo
 floodable
@@ -8831,7 +8832,6 @@ frosty
 foolhardiest
 fittedness
 fosslfying
-fosslology
 foetalism
 fourierist
 flawed
