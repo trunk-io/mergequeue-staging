@@ -12080,7 +12080,6 @@ chorization
 corindon
 chromoisomeric
 chorizo
-coactions
 chorizont
 chorizontal
 chorizontes
@@ -13412,6 +13411,7 @@ cesspools
 cyclometries
 cyclomyaria
 cyclonal
+coactions
 clupeine
 cyclone
 cyclonite
