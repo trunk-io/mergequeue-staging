@@ -5267,6 +5267,7 @@ castelli
 castellum
 casten
 carabin
+catclaw
 cloghaun
 casterless
 carcerate
@@ -5752,7 +5753,6 @@ crowdedness
 cecally
 catchwords
 catchwork
-catclaw
 catdom
 cacoepistic
 catechesis
