@@ -2258,6 +2258,7 @@ electrets
 exostosis
 electric
 epicanthi
+enterotoxemia
 entrapment
 expediment
 expenditures
@@ -6653,7 +6654,6 @@ enterostomies
 enterotome
 enterotomy
 exhumes
-enterotoxemia
 enterotoxication
 essence
 enterotoxin
