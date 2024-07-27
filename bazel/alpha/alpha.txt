@@ -2368,7 +2368,6 @@ antituberculotic
 achromatizable
 achromatization
 achromatize
-achromatized
 achromatocyte
 achromatophil
 achromatophile
@@ -8580,6 +8579,7 @@ allegate
 allegation
 allegator
 allegeable
+achromatized
 anarchic
 athold
 alleged
