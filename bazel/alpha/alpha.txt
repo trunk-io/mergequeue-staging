@@ -6861,7 +6861,6 @@ acerbity
 anodize
 autogenies
 archons
-ambulators
 airbuses
 airbusses
 aircheck
@@ -10024,6 +10023,7 @@ ambitious
 ambitiously
 ambitiousness
 ambits
+ambulators
 ambitty
 ambitus
 ambivalence
