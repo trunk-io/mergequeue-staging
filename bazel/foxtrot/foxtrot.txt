@@ -1460,7 +1460,6 @@ frees
 fattrels
 foam
 forehold
-fatuities
 foveiform
 fellatrix
 frenzy
@@ -6087,6 +6086,7 @@ filletlike
 flounce
 feracity
 flouncy
+fatuities
 foreimpressed
 fetishmonger
 fordoes
