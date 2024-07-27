@@ -6432,7 +6432,6 @@ administrators
 agramed
 antihydrophobic
 agrammatica
-agamogenetic
 agrammatism
 agrammatologia
 agrania
@@ -8927,6 +8926,7 @@ allopolyploid
 allopolyploidy
 allopsychic
 avengers
+agamogenetic
 alloquy
 alloquial
 antihierarchist
