@@ -835,6 +835,7 @@ gambia
 gambiae
 garnetwork
 garamond
+glossitic
 glanderous
 gambiers
 gambir
@@ -8926,7 +8927,6 @@ gentled
 globulariaceae
 griecep
 gaucheries
-glossitic
 gneissoid
 gallery
 grief
