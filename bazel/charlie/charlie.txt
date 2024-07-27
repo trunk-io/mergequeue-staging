@@ -17071,6 +17071,7 @@ chela
 cml
 combativeness
 conjurement
+codec
 cnemic
 cnemides
 cnemidium
@@ -17845,7 +17846,6 @@ codebtor
 contraparallelogram
 codebtors
 catholicist
-codec
 codeclination
 coded
 codefendants
