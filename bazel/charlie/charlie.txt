@@ -10210,6 +10210,7 @@ chevalier
 chevaliers
 chevaline
 chevance
+clear
 chevaux
 cymbaline
 comer
@@ -15906,7 +15907,6 @@ certosina
 cleansing
 cleanskin
 cleanups
-clear
 clearable
 circummigrate
 clearance
