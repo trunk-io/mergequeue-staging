@@ -310,7 +310,6 @@ eastward
 eatableness
 eatables
 eatberry
-eatche
 eaten
 eparterial
 eater
@@ -3029,6 +3028,7 @@ ellipsis
 ellipsograph
 ellipsoid
 euclid
+eatche
 ellipsoidal
 entoproctous
 ellipsone
