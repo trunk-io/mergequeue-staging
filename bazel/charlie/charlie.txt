@@ -2101,7 +2101,6 @@ cojudices
 calcspar
 convoking
 calcaneus
-chaetopoda
 caesura
 campman
 campmaster
@@ -22697,6 +22696,7 @@ connivers
 connivingly
 connixation
 connochaetes
+chaetopoda
 campanularidae
 clerete
 cornmeals
