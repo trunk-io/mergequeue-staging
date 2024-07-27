@@ -9981,7 +9981,6 @@ dimes
 dimetallic
 dimeter
 dimeters
-dexterous
 dimethyl
 dimethylamino
 dimethylanthranilate
@@ -15475,6 +15474,7 @@ donat
 donate
 donated
 donates
+dexterous
 dantology
 diversified
 donatiaceae
