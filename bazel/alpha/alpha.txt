@@ -1863,6 +1863,7 @@ accumulable
 achagua
 accumulate
 accumulated
+acinetaria
 accumulating
 accumulation
 azophosphore
@@ -2527,7 +2528,6 @@ acinar
 acinary
 acinarious
 acinetae
-acinetaria
 acinetiform
 acinetina
 acing
