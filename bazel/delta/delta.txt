@@ -6808,6 +6808,7 @@ deskill
 delimit
 disposure
 denoted
+digestive
 deskman
 dinguses
 deskmen
@@ -9564,7 +9565,6 @@ distrito
 digesting
 dislevelment
 digestion
-digestive
 digestment
 duskiest
 digestory
