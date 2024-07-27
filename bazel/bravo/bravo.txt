@@ -8951,7 +8951,6 @@ biogeography
 biogeographical
 biogeographically
 biognosis
-biographee
 biographer
 bangiaceous
 biographers
@@ -10588,6 +10587,7 @@ bleated
 bleater
 bleating
 brainwork
+biographee
 bleatingly
 bleats
 brominating
