@@ -3164,7 +3164,6 @@ darg
 decorament
 defectology
 defectors
-defectoscope
 defects
 defectum
 defedation
@@ -14711,6 +14710,7 @@ disjuncture
 docibility
 docible
 duckling
+defectoscope
 didelphyidae
 dawtet
 decongesting
