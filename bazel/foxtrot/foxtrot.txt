@@ -4303,7 +4303,6 @@ fusses
 fishbolts
 faultless
 fishbone
-fishbowl
 fisherboy
 furnishable
 fingerwise
@@ -6046,6 +6045,7 @@ flosser
 formuliser
 flosses
 flossflower
+fishbowl
 flossy
 fanwright
 flossie
