@@ -8705,7 +8705,6 @@ equip
 equipage
 encroached
 equipartisan
-encopreses
 equipede
 estatesman
 equipendent
@@ -12330,6 +12329,7 @@ eupepsias
 ecyphellate
 exedral
 ephererist
+encopreses
 ellice
 epistolar
 everliving
