@@ -7607,7 +7607,6 @@ epexegetic
 epichoric
 epichoristic
 epicycles
-epicyclic
 enchiriridia
 epicycloidal
 epicyemate
@@ -9889,6 +9888,7 @@ exsiccating
 eigenvectors
 estab
 ecderonic
+epicyclic
 estable
 establish
 equestrian
