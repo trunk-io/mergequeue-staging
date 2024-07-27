@@ -5175,7 +5175,6 @@ felsic
 forsworn
 forequarters
 flavorsome
-fame
 formulators
 flacket
 flavour
@@ -9511,6 +9510,7 @@ feminizes
 fretworks
 friesic
 fenbank
+fame
 fibrilation
 frazing
 frazzle
