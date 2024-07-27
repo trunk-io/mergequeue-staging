@@ -6044,7 +6044,6 @@ flosh
 fungosities
 flossa
 flosser
-formuliser
 flosses
 flossflower
 fishbowl
@@ -7275,6 +7274,7 @@ foraged
 fluttering
 forcleave
 formulised
+formuliser
 flowerage
 fidejussor
 forager
