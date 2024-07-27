@@ -154,7 +154,6 @@ geoponics
 gude
 gaetulian
 grousewards
-gaff
 golkakra
 giggles
 gordiacean
@@ -2568,6 +2567,7 @@ genal
 genarch
 genarcha
 gendarmery
+gaff
 grizzles
 galvanizes
 gulp
