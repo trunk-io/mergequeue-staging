@@ -1490,7 +1490,6 @@ disform
 deaconing
 deaconries
 deacons
-deaconship
 deactivate
 deactivated
 discontinuing
@@ -7194,6 +7193,7 @@ detachedly
 detachers
 dispatcher
 dioecia
+deaconship
 detaching
 detachment
 detailed

@@ -1046,7 +1046,6 @@ absonous
 absorb
 adiathermanous
 absorbable
-absorbance
 ahir
 absorbant
 airlock
@@ -2328,6 +2327,7 @@ acholous
 acholuria
 antihypnotically
 acholuric
+absorbance
 achomawi
 azurites
 atar
