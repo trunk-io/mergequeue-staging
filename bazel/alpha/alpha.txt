@@ -5756,6 +5756,7 @@ anisotropies
 appetisse
 afterstorm
 afterstrain
+azoxime
 afterstretch
 aftersupper
 anatomicochirurgical
@@ -25363,7 +25364,6 @@ azoxazole
 azoxy
 antirebating
 azoxybenzoic
-azoxime
 azoxynaphthalene
 azoxine
 azoxyphenetole
