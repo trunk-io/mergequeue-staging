@@ -4098,7 +4098,6 @@ cardon
 cardona
 cardoncillo
 cardooer
-cardoon
 cardoons
 crystallitis
 cardophagus
@@ -27034,6 +27033,7 @@ configurational
 counterparadox
 counterparole
 counterparry
+cardoon
 counterpart
 counterparts
 cetus
