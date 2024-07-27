@@ -1713,7 +1713,6 @@ bullterrier
 binocs
 ballup
 broadtail
-barbecuer
 balm
 burgs
 benacus
@@ -4950,6 +4949,7 @@ beerothite
 beerpull
 bowlder
 bees
+barbecuer
 bementite
 beest
 blacky
