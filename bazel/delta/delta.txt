@@ -7603,6 +7603,7 @@ devastators
 devata
 devaul
 devchar
+dream
 degaussed
 devein
 deveined
@@ -16910,7 +16911,6 @@ dreadnoughts
 decasyllabon
 ducktails
 dreads
-dream
 dedans
 designees
 dreamboat
