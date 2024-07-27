@@ -7339,6 +7339,7 @@ amortized
 alarms
 acetum
 alarum
+anhimidae
 anaptomorphidae
 alarumed
 alaruming
@@ -13121,7 +13122,6 @@ anhydroxime
 aggerate
 anhima
 anhimae
-anhimidae
 anhinga
 anhistic
 anhistous
