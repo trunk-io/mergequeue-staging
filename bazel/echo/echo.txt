@@ -10572,6 +10572,7 @@ equalities
 etymonic
 etiogenic
 etiolated
+ethenyl
 etiolates
 etiolating
 etiolize
@@ -13983,7 +13984,6 @@ extraterritorials
 epistoler
 eidolons
 extratheistic
-ethenyl
 enveigle
 extrathermodynamic
 epistasies
