@@ -1956,7 +1956,6 @@ acenesthesia
 acensuada
 assorter
 acensuador
-acentric
 annexable
 acentrous
 aceology
@@ -24092,6 +24091,7 @@ autoformation
 autofrettage
 autogamy
 anallagmatis
+acentric
 autogamic
 aludel
 autogamies
