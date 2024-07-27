@@ -12544,7 +12544,6 @@ anematizing
 anematosis
 anemic
 acuteness
-anemious
 anemobiagraph
 anemochord
 anemochore
@@ -16835,6 +16834,7 @@ apheresis
 apheretic
 apheses
 abbreviators
+anemious
 antiphoner
 aphetically
 aphetize
