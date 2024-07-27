@@ -20489,7 +20489,6 @@ artcraft
 arte
 artefac
 artefact
-anatomise
 artefacts
 anabolite
 artels
@@ -23154,6 +23153,7 @@ attour
 arsenical
 audio
 attourne
+anatomise
 aortoclasis
 attractability
 attractancy
