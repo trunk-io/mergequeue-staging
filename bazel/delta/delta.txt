@@ -865,6 +865,7 @@ dansants
 divulgatory
 danseur
 danseurs
+denature
 danseuses
 danseusse
 deve
@@ -5069,7 +5070,6 @@ denaturation
 discure
 demur
 dehumanize
-denature
 denatured
 dissentism
 denaturing
