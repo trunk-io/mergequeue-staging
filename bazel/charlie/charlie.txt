@@ -16797,6 +16797,7 @@ clothing
 clothlike
 clothmaking
 conine
+cheesemaking
 cloths
 clothworker
 clots
@@ -23542,7 +23543,6 @@ contemptful
 contemptibility
 contemptible
 contemptibleness
-cheesemaking
 contemptibly
 cygnet
 currentwise
