@@ -4595,7 +4595,6 @@ cfh
 cannels
 chlamydospore
 carpeting
-carpetlayer
 commodious
 carpetless
 carpetweed
@@ -17372,6 +17371,7 @@ coassessor
 crystallite
 coassignee
 connivance
+carpetlayer
 coassist
 coassistant
 coassisted
