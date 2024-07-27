@@ -3161,7 +3161,6 @@ caplet
 crystalligerous
 capling
 caplins
-corruptibility
 caplock
 capmaker
 cordmaker
@@ -24479,6 +24478,7 @@ collaborator
 coons
 coonskin
 coonskins
+corruptibility
 coontah
 coontail
 coontie
