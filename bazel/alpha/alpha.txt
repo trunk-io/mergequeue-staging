@@ -5403,7 +5403,6 @@ affirms
 affixation
 anoperineal
 adenophoreus
-affixers
 affixes
 apodous
 affixial
@@ -12780,6 +12779,7 @@ angilo
 adaize
 anquera
 alumel
+affixers
 anginal
 angrily
 anginas
