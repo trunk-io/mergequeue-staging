@@ -2858,6 +2858,7 @@ fiedlerite
 feulamort
 feuter
 feverberry
+flashbulbs
 fjeld
 feverbush
 fevered
@@ -7219,7 +7220,6 @@ fordwine
 fatties
 flagpoles
 footstep
-flashbulbs
 footstock
 functionating
 footstone
