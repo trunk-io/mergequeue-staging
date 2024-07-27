@@ -14777,6 +14777,7 @@ brobdingnag
 breakaway
 brennschluss
 breakax
+buccheros
 breakaxe
 breakback
 burghermaster
@@ -16475,7 +16476,6 @@ buccaro
 boldfacing
 buccellarius
 bucchero
-buccheros
 banatite
 buccin
 buccinal
