@@ -8644,6 +8644,7 @@ bilophodont
 biloquist
 bilsh
 bilsted
+bateau
 bilsteds
 biltongs
 bim
@@ -17324,7 +17325,6 @@ bibi
 bundist
 bundled
 botonnee
-bateau
 bundler
 bona
 bundlers
