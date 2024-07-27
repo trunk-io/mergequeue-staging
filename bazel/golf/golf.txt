@@ -1505,7 +1505,6 @@ garrulinae
 garrulity
 garrulously
 gossypium
-garrulousness
 garrulus
 garrupa
 gars
@@ -2929,6 +2928,7 @@ gipseian
 ghostiest
 gentilization
 geomorphist
+garrulousness
 gentilize
 gentiobiose
 gunline
