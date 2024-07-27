@@ -5711,6 +5711,7 @@ fornices
 flagstone
 fittyways
 flyway
+foreperiod
 flyways
 fissicostate
 further
@@ -11251,7 +11252,6 @@ fossa
 funkias
 funkiness
 forgetness
-foreperiod
 familiarisation
 funks
 fabledom
