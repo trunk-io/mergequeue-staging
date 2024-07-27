@@ -5466,7 +5466,6 @@ affreight
 airiest
 ambassador
 aiseweed
-affreighter
 affreightment
 ambisyllabic
 atticism
@@ -12416,6 +12415,7 @@ agapemonist
 androecium
 after
 acetonic
+affreighter
 algometry
 androgametophore
 androgamone
