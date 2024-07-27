@@ -7886,7 +7886,6 @@ grondwet
 granadine
 granado
 granage
-granulator
 granam
 granary
 gapping
@@ -9427,6 +9426,7 @@ grounder
 groundhog
 gemsbok
 grounding
+granulator
 georgics
 grumpish
 guar
