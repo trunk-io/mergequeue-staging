@@ -2410,7 +2410,6 @@ electrofuse
 esterified
 electrofusion
 electrogenesis
-electrogenic
 electrogild
 erd
 electrogilding
@@ -12279,6 +12278,7 @@ exect
 executant
 exostome
 execute
+electrogenic
 executed
 exoarteritis
 executes
