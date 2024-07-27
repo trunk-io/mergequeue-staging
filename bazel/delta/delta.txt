@@ -6743,7 +6743,6 @@ desilvered
 diathermanous
 desilvering
 desilverization
-desilverized
 desilverizing
 disbarments
 declinature
@@ -14461,6 +14460,7 @@ divests
 disentwine
 divi
 divid
+desilverized
 demonetise
 dayak
 dividableness
