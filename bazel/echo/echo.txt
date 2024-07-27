@@ -4341,7 +4341,6 @@ enactor
 exalte
 egurgitated
 enactory
-enactors
 enacture
 enajim
 enalid
@@ -12401,6 +12400,7 @@ episome
 exercitant
 exercitation
 exercite
+enactors
 exercitor
 exergual
 electricans
