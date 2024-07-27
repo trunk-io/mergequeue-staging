@@ -778,7 +778,6 @@ ecotones
 emotive
 euaster
 endebt
-euskera
 expectation
 ecphasis
 ecphonema
@@ -6194,6 +6193,7 @@ eli
 elaterids
 enphytotic
 enpia
+euskera
 enplane
 enplaned
 egualmente
