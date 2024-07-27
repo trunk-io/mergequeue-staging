@@ -2053,6 +2053,7 @@ entrecotes
 electrotonize
 elaidate
 elaidic
+exfigure
 excludability
 epexegeses
 elaidin
@@ -12414,7 +12415,6 @@ exesion
 enlisters
 evulge
 exfiguration
-exfigure
 exfiltrate
 enukki
 exfiltration
