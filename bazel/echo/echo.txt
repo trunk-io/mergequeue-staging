@@ -124,7 +124,6 @@ ebauche
 earphone
 eighteenths
 earpick
-evelong
 earpiece
 earplug
 earreach
@@ -6372,6 +6371,7 @@ ensient
 epigrammatically
 ensiferi
 errsyn
+evelong
 electroplaque
 ensigncies
 ensignry
