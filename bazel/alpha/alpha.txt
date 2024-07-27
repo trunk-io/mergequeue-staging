@@ -6548,7 +6548,6 @@ agronomic
 agronomical
 agronomically
 agronomies
-agronomist
 agronomists
 agroof
 agrope
@@ -10027,6 +10026,7 @@ ambitions
 ambitious
 ambitiously
 ambitiousness
+agronomist
 ambits
 ambulators
 ambitty

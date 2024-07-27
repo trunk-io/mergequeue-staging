@@ -5577,7 +5577,6 @@ greet
 girlchild
 gomeral
 glees
-grant
 gunmetal
 glycosyl
 glycosyls
@@ -8699,6 +8698,7 @@ greenest
 gucks
 greenfishes
 galenites
+grant
 greengage
 greengill
 greengrocery
