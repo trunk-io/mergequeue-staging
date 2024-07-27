@@ -1994,7 +1994,6 @@ campanile
 campaniles
 campanili
 campaniliform
-commutant
 campanilla
 campanini
 campanist
@@ -25696,6 +25695,7 @@ corrade
 compassivity
 calmative
 corraded
+commutant
 cohobates
 corrades
 confirmee
