@@ -5070,7 +5070,6 @@ angiorrhaphy
 aeromancer
 aeromancy
 aeromarine
-aeromechanic
 aeromechanical
 aeromechanics
 aeromedical
@@ -11886,6 +11885,7 @@ anapaestical
 anapaestically
 anapaests
 anapaganize
+aeromechanic
 actinotherapy
 academization
 anapaite
