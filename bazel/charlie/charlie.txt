@@ -17369,7 +17369,6 @@ crystallite
 coassignee
 connivance
 carpetlayer
-coassist
 coassistant
 coassisted
 coassisting
@@ -23973,6 +23972,7 @@ contriteness
 contrivable
 crusados
 contrivancy
+coassist
 contrive
 contrived
 containerize
