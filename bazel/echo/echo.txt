@@ -3590,7 +3590,6 @@ embowered
 embowering
 embowerment
 embowing
-embowment
 embows
 ernes
 erythremomelalgia
@@ -12188,6 +12187,7 @@ enteroscope
 excubitorium
 etyma
 excudate
+embowment
 epiderm
 excuderunt
 excudit
