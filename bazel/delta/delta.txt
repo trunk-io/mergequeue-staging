@@ -1556,7 +1556,6 @@ deadlock
 deadlocked
 dissenters
 deadlocking
-demitasses
 deadlocks
 derider
 dechlog
@@ -3143,6 +3142,7 @@ defecating
 dyadically
 defecator
 defected
+demitasses
 defecters
 defectibility
 debasingly
