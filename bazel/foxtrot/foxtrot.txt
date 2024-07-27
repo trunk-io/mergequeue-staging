@@ -1891,6 +1891,7 @@ feeblest
 fontanelle
 frolicks
 feedbags
+fuzzy
 feedbin
 farandola
 flummox
@@ -4425,7 +4426,6 @@ funkers
 foulmart
 fissura
 foliocellosis
-fuzzy
 fissured
 flagger
 fledglings

@@ -3915,6 +3915,7 @@ cardholders
 cardia
 cardiac
 cardiacal
+coreopsis
 cardiacea
 cardiacean
 considerance
@@ -25175,7 +25176,6 @@ coremia
 coremiumia
 coremorphosis
 coreometer
-coreopsis
 cerium
 constrained
 coreplasty
