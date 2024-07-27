@@ -13407,7 +13407,6 @@ anisotropal
 anisotrope
 affiches
 apinage
-anisotropy
 anisotropically
 anisotropism
 anisuria
@@ -17022,6 +17021,7 @@ apyrexy
 apyrexia
 aroids
 apyrexial
+anisotropy
 aerophilia
 apyrotype
 autoasphyxiation
