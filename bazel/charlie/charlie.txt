@@ -4824,6 +4824,7 @@ cartelization
 cartelize
 cartelizing
 cartellist
+curchef
 cartels
 carter
 carterly
@@ -18930,7 +18931,6 @@ commatism
 colitis
 colitises
 colitoxemia
-curchef
 colyumist
 coliuria
 cyanuric
