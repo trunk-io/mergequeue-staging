@@ -1643,7 +1643,6 @@ deamination
 deaminization
 deaminize
 deaminized
-deaminizing
 deammonation
 despin
 dean
@@ -9190,6 +9189,7 @@ diddler
 doxasticon
 didactyl
 dupatta
+deaminizing
 duodecagon
 didactylous
 denay
