@@ -635,7 +635,6 @@ echoless
 echolocate
 extravagation
 endopleuritic
-echolocation
 echometer
 echos
 ectozoans
@@ -11368,6 +11367,7 @@ evans
 exanthine
 evap
 evaporated
+echolocation
 electroballistically
 evaporates
 evaporation
