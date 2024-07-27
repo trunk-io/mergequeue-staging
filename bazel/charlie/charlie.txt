@@ -16848,7 +16848,6 @@ centimeter
 cloudlessness
 chancel
 cloudlets
-cloudlike
 cloudling
 cloudology
 cupseed
@@ -24454,6 +24453,7 @@ coolly
 coolness
 coolnesses
 cools
+cloudlike
 coolth
 coolung
 coolweed
