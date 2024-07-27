@@ -14543,7 +14543,6 @@ defiguration
 divorcers
 divorces
 decemplex
-damourite
 divorcible
 divorcing
 divorcive
@@ -18364,6 +18363,7 @@ dishlike
 displuming
 dupla
 debutant
+damourite
 duplet
 duplexer
 disreason
