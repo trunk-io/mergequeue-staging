@@ -2523,6 +2523,7 @@ flukeless
 flyblows
 ferroglass
 ferriferous
+foreboot
 ferrates
 ferrohydrocyanic
 farles
@@ -5186,7 +5187,6 @@ forearmed
 flavouring
 flavourless
 flavourous
-foreboot
 forehinting
 foreshroud
 forayer
