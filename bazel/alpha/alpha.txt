@@ -2555,6 +2555,7 @@ acyrology
 ack
 ackees
 ackey
+autoluminescence
 aeriferous
 ackeys
 ackman
@@ -24209,7 +24210,6 @@ autologist
 archdeacons
 attrectation
 articulates
-autoluminescence
 automa
 automacy
 automaker
