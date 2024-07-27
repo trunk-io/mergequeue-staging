@@ -1084,7 +1084,6 @@ calcine
 calcined
 cirsectomy
 calciner
-calcines
 calcining
 calcinize
 calcino
@@ -4629,6 +4628,7 @@ claretian
 carpium
 carpocace
 cloghead
+calcines
 carpocarpal
 clementine
 carpocephalum
