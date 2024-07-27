@@ -2884,6 +2884,7 @@ barothermohygrogram
 basilard
 becrowd
 barothermohygrograph
+beslipper
 baroto
 barotrauma
 barotraumas
@@ -3852,7 +3853,6 @@ bawly
 bellum
 bakatan
 bawls
-beslipper
 bigeminal
 bawn
 bawneen
