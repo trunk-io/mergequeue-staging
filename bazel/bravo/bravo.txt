@@ -1312,6 +1312,7 @@ balayeuse
 boneheadedness
 balaklava
 balalaika
+burled
 balalaikas
 balan
 balanceable
@@ -17736,7 +17737,6 @@ burl
 burladero
 buttery
 burlaps
-burled
 bentwood
 burleys
 burlesk
