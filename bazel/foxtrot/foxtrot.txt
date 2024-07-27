@@ -5924,7 +5924,6 @@ flora
 florae
 floralize
 ferthumlungur
-floran
 footpad
 floras
 fitful
@@ -8459,6 +8458,7 @@ formolit
 formols
 formosan
 formous
+floran
 femorofibular
 formoxime
 forcepslike
