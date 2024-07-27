@@ -5111,7 +5111,6 @@ gramy
 gard
 gomphosis
 gladiator
-gelatinize
 gladiators
 ginhound
 gladiatorship
@@ -5943,6 +5942,7 @@ galvanizers
 glossed
 glossem
 glosseme
+gelatinize
 glossemic
 glossers
 galloway

@@ -6858,7 +6858,6 @@ beseech
 beseechingness
 beseechment
 beseek
-beseem
 beseemed
 beseeming
 beseemingly
@@ -11047,6 +11046,7 @@ brookiest
 bloodletter
 bloodlettings
 bloodline
+beseem
 bloodlusting
 bedazzles
 backfall
