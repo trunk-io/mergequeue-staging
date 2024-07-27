@@ -5911,7 +5911,6 @@ deprecations
 disconcert
 deprecatively
 deprecatory
-diploplacula
 deprecatorily
 deprecatoriness
 deprecators
@@ -14454,6 +14453,7 @@ dayak
 dividableness
 dissemination
 dividant
+diploplacula
 divide
 dividedly
 demulsification
