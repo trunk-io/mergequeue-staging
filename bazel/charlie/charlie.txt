@@ -15230,7 +15230,6 @@ clade
 cladine
 caingang
 cladistic
-cladocarpous
 cladocera
 cladode
 crania
@@ -19766,6 +19765,7 @@ comatulae
 comb
 cornwallis
 combaron
+cladocarpous
 comprehendible
 combasou
 combat
