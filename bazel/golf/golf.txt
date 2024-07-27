@@ -1561,7 +1561,6 @@ glimed
 gargety
 gypsyweed
 grasses
-gashes
 grievants
 gashly
 gashouses
@@ -5534,6 +5533,7 @@ glycoluric
 gloms
 glycoluril
 gnarl
+gashes
 glyconean
 glyconeogenesis
 glyconeogenetic
