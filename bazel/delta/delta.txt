@@ -2306,7 +2306,6 @@ dissociative
 decian
 deciare
 deciatine
-decibar
 decibels
 diglyceride
 defacers
@@ -10275,6 +10274,7 @@ dingo
 dobbed
 dings
 diglot
+decibar
 dingus
 dinic
 dinical

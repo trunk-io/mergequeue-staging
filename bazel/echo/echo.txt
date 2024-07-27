@@ -6658,6 +6658,7 @@ enterospasm
 enterostasis
 earthstar
 extravert
+equiform
 enterostomy
 enterostomies
 enterotome
@@ -12965,7 +12966,6 @@ expectedness
 electromeric
 expecter
 escout
-equiform
 endowed
 echinorhinidae
 expecters
