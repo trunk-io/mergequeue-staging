@@ -890,7 +890,6 @@ gamely
 glyster
 gory
 gocart
-gamelike
 glossopodium
 gonfalonier
 guiro
@@ -9198,6 +9197,7 @@ gos
 gauge
 gaucher
 gateaux
+gamelike
 glasgow
 gilthead
 gristliest
