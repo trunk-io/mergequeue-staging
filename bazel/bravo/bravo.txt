@@ -16754,6 +16754,7 @@ brierberry
 buffont
 blastoidea
 backhauled
+blattoidea
 breakwind
 bicostate
 buffoonery
@@ -17158,7 +17159,6 @@ bullweed
 bullwhacker
 bioscientific
 bullwhipping
-blattoidea
 bullwhips
 bullwort
 bulnbuln
