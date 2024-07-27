@@ -1277,6 +1277,7 @@ fideicommissum
 filefish
 fadable
 fraunch
+forayers
 flatlets
 forestology
 fumigate
@@ -2330,7 +2331,6 @@ ferguson
 fergusonite
 feria
 feriae
-forayers
 ferias
 frized
 fantods
