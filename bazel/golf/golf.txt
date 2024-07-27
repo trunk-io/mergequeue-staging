@@ -3406,7 +3406,6 @@ gerbils
 grummet
 gerefa
 gerenda
-gerendum
 gluts
 gerent
 gerenuks
@@ -6205,6 +6204,7 @@ glaucodote
 groundline
 gyrovagi
 glumose
+gerendum
 glumpiest
 glumpily
 goldfield
