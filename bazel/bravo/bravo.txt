@@ -9267,6 +9267,7 @@ biplanal
 bottonhook
 bagman
 biplane
+blabbermouth
 bobolink
 buteonine
 buckish
@@ -10018,7 +10019,6 @@ blabbed
 bepiece
 blabbered
 blabberer
-blabbermouth
 betelnuts
 bryonies
 barrator
