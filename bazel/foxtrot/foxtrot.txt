@@ -2362,6 +2362,7 @@ festellae
 fermacy
 fermage
 fraken
+foredoes
 forearming
 fermal
 furnitures
@@ -7598,7 +7599,6 @@ figments
 forecovert
 flacherie
 foredo
-foredoes
 foredone
 flowerful
 foredoom
