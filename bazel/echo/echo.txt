@@ -9538,7 +9538,6 @@ epalpebrate
 earns
 exocrinology
 eschewance
-eschewer
 emancipator
 eschewing
 eschews
@@ -13593,6 +13592,7 @@ extensiveness
 extensivity
 extensometer
 excess
+eschewer
 ephemeralness
 eigenvalues
 exinanite
