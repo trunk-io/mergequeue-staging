@@ -6829,7 +6829,6 @@ buybacks
 befringing
 bescorch
 bescorches
-bescorching
 bescorn
 bescoundrel
 buhlworks
@@ -14674,6 +14673,7 @@ butcher
 brawler
 beveller
 bedown
+bescorching
 brawliest
 biogenic
 benzobis
