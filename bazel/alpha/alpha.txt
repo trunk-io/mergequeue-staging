@@ -2424,7 +2424,6 @@ amizilis
 acid
 acidaemia
 acidaspis
-agnosis
 acider
 afifi
 acidhead
@@ -16349,6 +16348,7 @@ antitype
 antitypes
 aspect
 acetabulum
+agnosis
 antityphoid
 antitypy
 antitypical
