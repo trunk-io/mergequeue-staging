@@ -6250,6 +6250,7 @@ foster
 fluidacetextract
 fiduciaries
 fluidal
+flanch
 furtherest
 fluidextract
 fluidible
@@ -8275,7 +8276,6 @@ forked
 forkedness
 fret
 forkers
-flanch
 forkfuls
 forkhead
 flagon
