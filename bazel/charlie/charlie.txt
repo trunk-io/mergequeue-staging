@@ -24756,7 +24756,6 @@ christie
 chickaree
 copperleaf
 coppernosed
-copperplate
 copperplated
 copperproof
 coppersidesman
@@ -28205,6 +28204,7 @@ cranky
 crankiest
 crankily
 crankiness
+copperplate
 cranking
 crankish
 crankle
