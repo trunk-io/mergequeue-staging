@@ -4146,7 +4146,6 @@ fireplow
 fireplug
 fittily
 fatling
-faradizer
 fireproofing
 fireroom
 firerooms
@@ -10503,6 +10502,7 @@ frostwort
 fulvous
 froth
 frothed
+faradizer
 frothi
 filariidae
 frothier
