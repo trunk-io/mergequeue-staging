@@ -3281,7 +3281,6 @@ caprylone
 caprimulgi
 ceroma
 caprimulgiformes
-caprimulgine
 caprimulgus
 chargable
 caprin
@@ -23587,6 +23586,7 @@ cerographist
 contes
 contessa
 clerids
+caprimulgine
 contesseration
 contest
 contestableness
