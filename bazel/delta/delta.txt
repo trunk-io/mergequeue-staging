@@ -4748,7 +4748,6 @@ duply
 demobilisation
 demobilised
 demobilising
-demobilizations
 demobilize
 demobilized
 demobilizes
@@ -8965,6 +8964,7 @@ disportive
 dich
 doggery
 dysfunction
+demobilizations
 dichapetalum
 dichas
 disseminule
