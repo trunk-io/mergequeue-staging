@@ -7511,7 +7511,6 @@ bewash
 bewaste
 beweary
 bewearying
-beweep
 butein
 beweeper
 beweeping
@@ -16858,6 +16857,7 @@ building
 biarticular
 buildings
 buildress
+beweep
 bastardly
 benzazide
 balaenoidean
