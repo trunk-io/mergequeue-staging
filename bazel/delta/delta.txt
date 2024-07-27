@@ -13673,7 +13673,6 @@ dulcid
 dissimilitude
 demineralize
 dissymmetry
-dissymmetric
 dowelling
 doglegged
 dissymmettric
@@ -15201,6 +15200,7 @@ dolichosauria
 dolichotmema
 doliidae
 dolina
+dissymmetric
 doline
 dourness
 digitize
