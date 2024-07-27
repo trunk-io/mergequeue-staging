@@ -2444,6 +2444,7 @@ broggerite
 barbouillage
 bathic
 barbs
+barrelhouses
 barbu
 babushka
 barbudo
@@ -12895,7 +12896,6 @@ borderlight
 borderline
 brilliantine
 bryndza
-barrelhouses
 bulletmaker
 bordermark
 backstitch
