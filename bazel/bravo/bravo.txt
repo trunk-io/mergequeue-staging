@@ -4756,6 +4756,7 @@ bedrizzle
 bestowage
 bedrocks
 bedrolls
+bungfu
 bedrooms
 bridgemaker
 bedrown
@@ -14218,7 +14219,6 @@ brahmany
 brahmanic
 brahmanical
 brahmanism
-bungfu
 bleareye
 brahmans
 berberia
