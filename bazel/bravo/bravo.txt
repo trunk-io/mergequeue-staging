@@ -11054,6 +11054,7 @@ bellow
 brawly
 busybody
 bloodmobiles
+birretta
 barbecue
 barragon
 bloodmonger
@@ -11677,7 +11678,6 @@ bobwhite
 bobwood
 brassic
 boc
-birretta
 boggle
 brushoffs
 bocaccio
