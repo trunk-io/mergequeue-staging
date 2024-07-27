@@ -5972,7 +5972,6 @@ bucketman
 bemoat
 barm
 bemock
-bemocked
 bemocking
 bemoil
 bemoisten
@@ -9528,6 +9527,7 @@ birth
 birthbed
 birthdays
 birthed
+bemocked
 birthy
 birthing
 birthland
