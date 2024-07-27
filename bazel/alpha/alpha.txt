@@ -5037,7 +5037,6 @@ aerohydrodynamic
 aerohydropathy
 aerohydroplane
 apotheosise
-aquavalent
 armamentarium
 autological
 aerohydrous
@@ -10513,6 +10512,7 @@ amygdule
 amygdules
 amigos
 amiidae
+aquavalent
 amyl
 amylaceous
 amylamine
