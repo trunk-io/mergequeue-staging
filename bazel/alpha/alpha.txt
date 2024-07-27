@@ -1672,7 +1672,6 @@ accombination
 accommodable
 accommodableness
 accommodate
-accommodately
 accommodateness
 afterthrift
 accommodates
@@ -8294,6 +8293,7 @@ alima
 alimenation
 aliment
 alimental
+accommodately
 alimentally
 adenanthera
 arthropomata
