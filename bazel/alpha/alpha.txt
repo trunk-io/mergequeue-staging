@@ -4651,6 +4651,7 @@ absentia
 adversus
 adverted
 advertence
+aspergation
 alethopteis
 afoot
 advertent
@@ -21395,7 +21396,6 @@ asperate
 asperating
 apilary
 asperation
-aspergation
 asperge
 asperger
 achatinella
