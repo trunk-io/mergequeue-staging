@@ -1930,7 +1930,6 @@ bandel
 bandelette
 beanies
 bander
-banderilleros
 banderlog
 blamability
 bolsons
@@ -14667,6 +14666,7 @@ butcher
 brawler
 beveller
 bedown
+banderilleros
 bescorching
 brawliest
 biogenic
