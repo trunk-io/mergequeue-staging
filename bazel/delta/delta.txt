@@ -4623,7 +4623,6 @@ deminatured
 demineralization
 daincha
 demineralized
-demineralizer
 demineralizes
 demioctagonal
 demioctangular
@@ -13425,6 +13424,7 @@ disremember
 disrepair
 disreport
 dislocates
+demineralizer
 dinero
 dekaliters
 disreputable
