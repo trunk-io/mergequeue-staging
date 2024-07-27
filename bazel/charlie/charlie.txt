@@ -9336,6 +9336,7 @@ cerned
 chatterbox
 chatterer
 chattering
+contagious
 chatteringly
 chattermag
 chattermagging
@@ -23425,7 +23426,6 @@ computation
 cloamer
 contagions
 contagiosity
-contagious
 contagiousness
 cypresses
 contagium
