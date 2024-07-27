@@ -3218,7 +3218,6 @@ capparid
 capparidaceae
 capparidaceous
 capitatum
-capparis
 capped
 cappella
 capper
@@ -27098,6 +27097,7 @@ counterprophet
 counterproposition
 counterprotest
 cerambycid
+capparis
 counterprove
 comfortingly
 counterpull
