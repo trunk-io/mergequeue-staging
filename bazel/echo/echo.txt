@@ -2300,7 +2300,6 @@ ergosterol
 electroballistics
 electrobath
 economy
-electrobiological
 equestrienne
 electrobiologically
 electrobiologist
@@ -3802,6 +3801,7 @@ exedrae
 evirato
 emendicate
 excluded
+electrobiological
 embowl
 expansometer
 exurbia
