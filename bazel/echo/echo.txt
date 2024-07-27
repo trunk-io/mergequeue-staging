@@ -5023,7 +5023,6 @@ embosking
 electroplating
 endlichite
 etherealize
-endlong
 endmost
 ergostat
 exemplum
@@ -7613,6 +7612,7 @@ epichoric
 epichoristic
 epicycles
 enchiriridia
+endlong
 epicycloidal
 epicyemate
 epicier
