@@ -10039,7 +10039,6 @@ cephalochordate
 chenopodiaceous
 chenopodiales
 chenopodium
-carthamic
 chenopods
 cheongsam
 cheoplastic
@@ -25459,6 +25458,7 @@ courtesans
 corniform
 cornigeous
 cornigerous
+carthamic
 cornily
 cornin
 corniness
