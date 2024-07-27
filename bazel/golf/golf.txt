@@ -554,7 +554,6 @@ gamodemes
 guerickian
 glassite
 gelder
-galleyworm
 galleons
 gallera
 graybeards
@@ -8186,6 +8185,7 @@ graphicalness
 graphicly
 graphidiaceae
 gambeer
+galleyworm
 grasset
 goiterogenic
 graphis
