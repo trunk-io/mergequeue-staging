@@ -375,6 +375,7 @@ daylily
 dailiness
 dupable
 daylit
+dolesome
 dayman
 dhunchi
 daymare
@@ -3609,7 +3610,6 @@ descriptory
 degradable
 degradation
 degradative
-dolesome
 deratization
 detrimentalness
 degradedly
