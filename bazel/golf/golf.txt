@@ -5610,6 +5610,7 @@ glint
 grinderies
 gipsies
 guatuso
+gata
 grond
 goustie
 gliomatous
@@ -6364,7 +6365,6 @@ gnawed
 gnawer
 galvanotropism
 gnawing
-gata
 gelatinobromide
 gnawings
 gnaws
