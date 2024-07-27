@@ -7727,7 +7727,6 @@ alcor
 alcoran
 alcoranic
 alcoranist
-alcosol
 alcove
 antiminsia
 analyticities
@@ -18886,6 +18885,7 @@ alphamerically
 array
 archgunner
 archhead
+alcosol
 archheart
 archheresy
 archheretic
