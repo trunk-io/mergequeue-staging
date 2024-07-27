@@ -1414,7 +1414,6 @@ griffade
 grivets
 garlics
 galloner
-gotos
 grabbed
 garlion
 goethites
@@ -2532,6 +2531,7 @@ gemmiparous
 grillade
 gemmiparously
 genistin
+gotos
 gemmologist
 gemmologists
 goslet
