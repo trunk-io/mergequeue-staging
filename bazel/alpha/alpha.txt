@@ -12635,7 +12635,6 @@ anesthetics
 anesthetist
 aficionada
 aldolization
-anesthetists
 anesthetization
 acclimatising
 anesthetized
@@ -22622,6 +22621,7 @@ athermanous
 avicularimorphae
 athermous
 atherogenesis
+anesthetists
 atheroma
 atheromasia
 atheromata
