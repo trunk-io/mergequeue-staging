@@ -12554,7 +12554,6 @@ anemograph
 anthraquinol
 anemography
 anemographic
-avidious
 aphasiacs
 adventitiously
 anemological
@@ -16824,6 +16823,7 @@ aphemic
 aphengescope
 aphengoscope
 anconad
+avidious
 apheresis
 apheretic
 apheses
