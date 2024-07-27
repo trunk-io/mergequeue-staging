@@ -140,7 +140,6 @@ areological
 alkalization
 aricin
 abastard
-abastardize
 abastral
 abatable
 amoebid
@@ -4107,6 +4106,7 @@ andouillet
 admi
 adenomatous
 adminicle
+abastardize
 architypographer
 adminicula
 adminicular
