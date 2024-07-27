@@ -3458,7 +3458,6 @@ deformation
 deformational
 deformed
 deformedly
-deformedness
 deformer
 deformeter
 deforming
@@ -3596,6 +3595,7 @@ deglycerin
 demnition
 deglycerine
 deglory
+deformedness
 demonetising
 dialysable
 deglute
