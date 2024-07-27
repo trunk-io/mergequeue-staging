@@ -5026,6 +5026,7 @@ fulfill
 flatcars
 fatalism
 flatdom
+fairyfolk
 fordeal
 frizz
 fitchery
@@ -5800,7 +5801,6 @@ flockowner
 frangent
 flockwise
 flewed
-fairyfolk
 floeberg
 floey
 flavorers
