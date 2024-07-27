@@ -535,7 +535,6 @@ florets
 falkland
 fall
 fallace
-fallacy
 fallacies
 forerunners
 fadlike
@@ -645,6 +644,7 @@ faltche
 faltere
 filarial
 faltered
+fallacy
 falterer
 fettlings
 fatality
