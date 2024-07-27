@@ -7910,7 +7910,6 @@ fingery
 fiberfill
 flagging
 foreshaft
-foreshank
 fathering
 firewoods
 foresheet
@@ -11439,6 +11438,7 @@ flatway
 furnish
 foregather
 finitudes
+foreshank
 frondesced
 furnished
 furnishes
