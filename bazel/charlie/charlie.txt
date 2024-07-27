@@ -5463,7 +5463,6 @@ catafalco
 catafalque
 catagenesis
 coaggregation
-catagenetic
 catagmatic
 capacitive
 catakinetomer
@@ -26764,6 +26763,7 @@ counterblast
 counterblow
 counterboycott
 ceratocricoid
+catagenetic
 caressant
 counterbond
 counterborder
