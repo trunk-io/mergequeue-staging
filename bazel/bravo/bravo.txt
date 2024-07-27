@@ -10953,6 +10953,7 @@ bayou
 blocker
 blockhead
 blockheaded
+burr
 backfields
 blockheadedly
 blockheadedness
@@ -17808,7 +17809,6 @@ burntness
 burp
 burping
 blindfish
-burr
 bothlike
 burrah
 bedright
