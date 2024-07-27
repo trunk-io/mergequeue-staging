@@ -6490,7 +6490,6 @@ fempty
 flurn
 flaxbird
 flapped
-flurr
 fluxation
 founder
 flurried
@@ -11256,6 +11255,7 @@ forgetness
 familiarisation
 funks
 fabledom
+flurr
 forbid
 funmaker
 funmaking
