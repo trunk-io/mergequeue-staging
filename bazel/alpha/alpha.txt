@@ -12126,6 +12126,7 @@ anatomopathologic
 aumaga
 amblyocarpous
 apercus
+apposing
 anatopism
 almochoden
 anatosaurus
@@ -17852,7 +17853,6 @@ apposed
 apposer
 apposers
 apposes
-apposing
 ambiguities
 apposiopestic
 airfare
