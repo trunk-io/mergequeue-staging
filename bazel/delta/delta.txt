@@ -14250,7 +14250,6 @@ digenic
 ditremid
 despectant
 dhoty
-ditriglyphic
 ditrocha
 dachs
 defaultant
@@ -16731,6 +16730,7 @@ dissimilarity
 dramatize
 dialogistic
 dramatizes
+ditriglyphic
 dilatatory
 dramatizing
 derangements
