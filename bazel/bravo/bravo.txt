@@ -11693,7 +11693,6 @@ bocal
 bocardo
 bocasin
 boccale
-bursautee
 boccarella
 battings
 bocces
@@ -16264,6 +16263,7 @@ benchmarks
 brunching
 brunel
 brunella
+bursautee
 bibliomanism
 betas
 babylonism
