@@ -7581,7 +7581,6 @@ epicerastic
 epiceratodus
 empatron
 epicheiremata
-emusify
 epichile
 epichilia
 epibolies
@@ -9981,6 +9980,7 @@ esthesiogeny
 esthesiography
 educts
 esthesiometric
+emusify
 esthesioneurosis
 enstore
 enchytraeidae
