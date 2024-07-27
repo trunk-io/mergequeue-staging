@@ -1628,7 +1628,6 @@ calpack
 calpacked
 calpacks
 calpacs
-calpolli
 calpul
 calpulli
 calque
@@ -12294,6 +12293,7 @@ cibolan
 chrysobull
 chrysocarpous
 chrysochlore
+calpolli
 chrysochloris
 chrysochlorous
 corroborant
