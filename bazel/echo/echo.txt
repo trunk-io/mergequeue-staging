@@ -4737,6 +4737,7 @@ experimentalists
 extraretinal
 enclosed
 eryops
+ensphered
 encloser
 enclosers
 encloses
@@ -6441,7 +6442,6 @@ exploitatory
 exploiter
 exquisitely
 ensphere
-ensphered
 enspheres
 ensphering
 exteriorization

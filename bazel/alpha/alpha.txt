@@ -6999,7 +6999,6 @@ adeptship
 airspeed
 axhead
 airstrips
-amounts
 alienicola
 abruptness
 airt
@@ -11633,6 +11632,7 @@ anaerobism
 anaerobium
 alkaligenous
 avanti
+amounts
 anaerophyte
 appetising
 anaeroplastic
