@@ -903,7 +903,6 @@ ectophytic
 ectophloic
 endothelioblastoma
 extrovertish
-envenoming
 ellipsoids
 exstrophy
 ectopia
@@ -4862,6 +4861,7 @@ erythraemia
 encroacher
 encroaches
 ependytes
+envenoming
 eupion
 eophyton
 ecotopic
