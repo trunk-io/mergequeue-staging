@@ -8861,7 +8861,6 @@ erdvark
 embryogenetic
 erebus
 erechtheum
-emolument
 erechtheus
 erechtites
 erect
@@ -12770,6 +12769,7 @@ evocated
 exorable
 elytroptosis
 exorableness
+emolument
 exorate
 edenization
 exorbital
