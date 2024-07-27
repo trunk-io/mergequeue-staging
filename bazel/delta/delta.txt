@@ -8637,7 +8637,6 @@ diapiric
 diaplases
 descript
 disemboguing
-dropsonde
 dejecta
 diaplexal
 diaplexus
@@ -16402,6 +16401,7 @@ downside
 downsinking
 downsitting
 disgown
+dropsonde
 dysmeristic
 downsized
 downsizes
