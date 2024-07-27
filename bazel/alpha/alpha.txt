@@ -1378,7 +1378,6 @@ acanthuses
 acanthuthi
 antipatriotism
 acapnia
-acapnial
 appraisingly
 aganglionic
 aeroneurosis
@@ -12629,6 +12628,7 @@ anesthetic
 auxotonic
 anesthetics
 anesthetist
+acapnial
 aficionada
 aldolization
 anesthetization
