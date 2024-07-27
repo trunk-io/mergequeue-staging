@@ -8170,6 +8170,7 @@ bierstube
 bierstuben
 bietle
 byeworker
+benefaction
 byeworkman
 bifaces
 bifacial
@@ -17327,7 +17328,6 @@ bona
 bundlers
 bundlet
 ballons
-benefaction
 bemadden
 bundling
 beholders
