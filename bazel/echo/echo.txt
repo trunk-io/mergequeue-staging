@@ -2330,7 +2330,6 @@ electrochronograph
 electrochronometer
 enterochromaffin
 electrochronometric
-electrocystoscope
 electrocontractility
 electroconvulsive
 eclipsed
@@ -11688,6 +11687,7 @@ ethnographical
 eupepsy
 enjoinment
 evolutive
+electrocystoscope
 eluders
 evermo
 enamelled
