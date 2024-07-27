@@ -1846,6 +1846,7 @@ grapefruits
 gastroplasty
 gastrotheca
 gastrotympanites
+gambesons
 gastrotome
 guinfo
 gastrotomy
@@ -3189,7 +3190,6 @@ gladiola
 geomaly
 geomalism
 gau
-gambesons
 geratologous
 geomancer
 geomancy
