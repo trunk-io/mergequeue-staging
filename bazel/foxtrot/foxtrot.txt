@@ -217,7 +217,6 @@ fattened
 facultate
 facultatively
 faculty
-faculties
 facultize
 factitively
 fadaise
@@ -4643,6 +4642,7 @@ femorocele
 flaccid
 flaccidity
 fulfills
+faculties
 flaccidness
 frondescing
 flachery
