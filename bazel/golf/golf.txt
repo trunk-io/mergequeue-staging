@@ -2657,7 +2657,6 @@ generalizer
 generalizers
 gene
 gauffred
-generally
 generalness
 generals
 generalships
@@ -8136,6 +8135,7 @@ gallah
 granulitize
 gomari
 groans
+generally
 granuloadipose
 genappe
 granulocytopoiesis
