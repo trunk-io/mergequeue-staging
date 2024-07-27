@@ -3405,7 +3405,6 @@ frangi
 figshell
 fury
 ferocious
-faitours
 filoselle
 fossicking
 figulate
@@ -5625,6 +5624,7 @@ flouse
 filch
 frescoists
 flippantly
+faitours
 fornax
 formulable
 flerrying
