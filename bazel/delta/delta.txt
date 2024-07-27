@@ -332,7 +332,6 @@ dayanim
 daybeacon
 daybeam
 daybed
-doddle
 daybeds
 dilutions
 dollfaced
@@ -13448,6 +13447,7 @@ disrespectable
 dourer
 disenter
 disrespectfully
+doddle
 decemstriate
 disrespectfulness
 disrespective
