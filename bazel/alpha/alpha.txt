@@ -935,6 +935,7 @@ antimodel
 atame
 absconding
 absconds
+accentus
 absconsa
 abscound
 absee
@@ -1509,7 +1510,6 @@ arerola
 accentuated
 accentuator
 actinophrys
-accentus
 accept
 anteoccupation
 acceptability
