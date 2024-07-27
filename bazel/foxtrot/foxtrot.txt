@@ -21,7 +21,6 @@ fablemongering
 fabler
 fablers
 fabling
-fabric
 fabricable
 feeblemindedly
 fabricant
@@ -3310,6 +3309,7 @@ falchions
 flo
 flagellum
 frilliness
+fabric
 fierasferidae
 fierasferoid
 febricitation
