@@ -1284,6 +1284,7 @@ golandaas
 guilder
 garb
 garbage
+gimmick
 geomorphogeny
 glorying
 garbanzo
@@ -10641,7 +10642,6 @@ gnabble
 gurk
 gelatinise
 glyconin
-gimmick
 guama
 gurle
 gurmukhi
