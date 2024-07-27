@@ -578,7 +578,6 @@ doormat
 deluster
 damascus
 damask
-damasked
 demophobe
 damaskeening
 damaskin
@@ -5385,6 +5384,7 @@ dentiform
 dentigerous
 dentilabial
 dentilated
+damasked
 dentilation
 dissection
 dryophyllum
