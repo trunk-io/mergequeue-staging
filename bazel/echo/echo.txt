@@ -5671,7 +5671,6 @@ eucharists
 engendrure
 engerminate
 expalpate
-enghosted
 enterclose
 evaporable
 elsewise
@@ -8952,6 +8951,7 @@ ergodicity
 ergograph
 expulsing
 endolabyrinthitis
+enghosted
 embassade
 ergology
 electrotechnology
