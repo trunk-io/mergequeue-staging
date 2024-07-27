@@ -5149,6 +5149,7 @@ aerostatic
 anthracomartian
 aerostatical
 aerostatics
+aphototaxis
 antisepticist
 accelerates
 aerostation
@@ -16907,7 +16908,6 @@ aphorizing
 aphoruridae
 aphotic
 aphototactic
-aphototaxis
 aphototropic
 aphototropism
 aphrasia
