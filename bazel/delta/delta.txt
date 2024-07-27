@@ -5268,7 +5268,6 @@ denotative
 daisycutter
 dratted
 denominate
-denotatum
 denotement
 disrupted
 denouements
@@ -14068,6 +14067,7 @@ distributing
 distribution
 dispensable
 distributions
+denotatum
 distributival
 distributively
 distributivity
