@@ -514,7 +514,6 @@ fratricidal
 faraon
 finnicky
 flatland
-furrowlike
 falderols
 faldfee
 falding
@@ -3900,6 +3899,7 @@ flindosa
 felicitously
 fleuret
 forepad
+furrowlike
 foliiform
 formatters
 fuliguline
