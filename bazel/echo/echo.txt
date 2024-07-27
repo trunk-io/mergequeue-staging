@@ -2115,7 +2115,6 @@ elasmobranchii
 elasmothere
 eelfish
 exstipulate
-elastance
 elastase
 elastases
 exclusivism
@@ -10933,6 +10932,7 @@ eupad
 epigastral
 eupanorthidae
 eupanorthus
+elastance
 eupathy
 earfuls
 eupatory
