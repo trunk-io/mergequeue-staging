@@ -2621,7 +2621,6 @@ epigraphical
 epiblasts
 endplay
 electrotellurograph
-electrotest
 electrothanasia
 expressionful
 electrotherapeutist
@@ -5071,6 +5070,7 @@ endoceras
 endoceratidae
 endoceratite
 endoceratitic
+electrotest
 endocervical
 endocervicitis
 endochylous
