@@ -14148,7 +14148,6 @@ cyprid
 craniological
 cyprididae
 caponette
-cypridina
 cypridinidae
 cyprina
 cyprine
@@ -27539,6 +27538,7 @@ covenance
 covenant
 covenantal
 covenantally
+cypridina
 covenanted
 covenantee
 covenanter
