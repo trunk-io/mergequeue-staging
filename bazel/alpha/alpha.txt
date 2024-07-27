@@ -15428,6 +15428,7 @@ antihuff
 aspergillales
 arteriometer
 antihum
+autoserum
 antihuman
 anesthetize
 antihumanist
@@ -24407,7 +24408,6 @@ adjutory
 autosensitization
 autosepticemia
 autoserotherapy
-autoserum
 activation
 albuminuric
 adversant
