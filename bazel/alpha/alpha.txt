@@ -1911,7 +1911,6 @@ accused
 accuser
 accusers
 accuses
-accusing
 accusingly
 accusive
 accusor
@@ -5413,6 +5412,7 @@ algesireceptor
 assegaing
 afflicter
 afflicting
+accusing
 afflictingly
 afflictions
 afflictively
