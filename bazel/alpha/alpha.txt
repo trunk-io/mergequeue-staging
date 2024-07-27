@@ -10452,7 +10452,6 @@ amidohexose
 amidoketone
 amidol
 aslant
-amidomyelin
 amidon
 anaglyptographic
 amydon
@@ -16968,6 +16967,7 @@ apicad
 apically
 achronical
 apicifixed
+amidomyelin
 apicillary
 autoradiogram
 alkalinities
