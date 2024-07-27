@@ -4943,7 +4943,6 @@ carves
 complexly
 capercally
 carvestrene
-carvy
 carvyl
 carving
 carvings
@@ -20565,6 +20564,7 @@ compass
 compassability
 compassed
 compasses
+carvy
 compassing
 compassion
 catechu
