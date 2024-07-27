@@ -6733,6 +6733,7 @@ formicine
 fogdom
 favellae
 fogeater
+froes
 fogey
 fogfruit
 fogged
@@ -8020,7 +8021,6 @@ filecard
 forestlike
 foreordain
 forestral
-froes
 forestside
 flue
 feckly
