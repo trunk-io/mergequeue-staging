@@ -6800,7 +6800,6 @@ constative
 cells
 cellucotton
 cellular
-cellularity
 cabmen
 cellularly
 crampfish
@@ -11583,6 +11582,7 @@ cyclope
 chokiest
 choking
 chokingly
+cellularity
 choko
 crenelated
 chokra
