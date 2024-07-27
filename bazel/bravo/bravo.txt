@@ -5299,7 +5299,6 @@ bridesman
 beguines
 becarve
 begulfs
-begum
 begummed
 begums
 begun
@@ -8281,6 +8280,7 @@ berun
 bigarades
 bigaroon
 bronchioli
+begum
 briefless
 bigaroons
 boulders
