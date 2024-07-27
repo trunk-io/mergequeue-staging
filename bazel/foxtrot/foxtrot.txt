@@ -3855,7 +3855,6 @@ friese
 findon
 finds
 furlough
-fixes
 fine
 fineable
 fineableness
@@ -4215,6 +4214,7 @@ firlot
 firmament
 funereal
 fetichize
+fixes
 fidicinales
 firmaments
 foolhardier
