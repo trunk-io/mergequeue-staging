@@ -2502,6 +2502,7 @@ ferring
 fault
 ferris
 fastball
+forepass
 forweep
 floorshow
 ferrites
@@ -5845,7 +5846,6 @@ furnace
 flooders
 faconne
 feltyfare
-forepass
 furred
 floody
 floodless
