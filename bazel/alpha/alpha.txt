@@ -1735,6 +1735,7 @@ autocomplexes
 ailuropus
 accordature
 aeroperitonia
+annul
 accorded
 aseptolin
 accorder
@@ -13676,7 +13677,6 @@ annuitants
 annuity
 ambracan
 annuities
-annul
 annular
 aesthesodic
 annularia
