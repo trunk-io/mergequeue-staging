@@ -10166,7 +10166,6 @@ corbelling
 chesser
 chesset
 chessylite
-chessist
 chessman
 chessmen
 chessner
@@ -20481,6 +20480,7 @@ comox
 compaa
 compact
 compactability
+chessist
 compactable
 compacted
 compactedness
