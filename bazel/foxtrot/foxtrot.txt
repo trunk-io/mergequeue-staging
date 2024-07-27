@@ -4034,7 +4034,6 @@ fioriture
 flosculariidae
 flyball
 frameable
-fique
 fiques
 firbolg
 frimaire
@@ -5832,6 +5831,7 @@ flood
 flamingo
 floodable
 fluoaluminate
+fique
 flavanthrone
 fondus
 floodboard
