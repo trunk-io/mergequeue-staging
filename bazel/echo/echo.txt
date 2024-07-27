@@ -2631,7 +2631,6 @@ electrotypes
 expressible
 ephemerons
 electrotypy
-explicate
 electrotyping
 electrotitration
 etherean
@@ -9385,6 +9384,7 @@ estruate
 eruptive
 exomion
 escopette
+explicate
 estrous
 emusifies
 equipoises
