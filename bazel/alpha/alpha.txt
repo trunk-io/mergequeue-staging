@@ -22641,6 +22641,7 @@ athetoid
 athetosis
 apoplexies
 aveny
+automorphically
 athymia
 athymic
 athing
@@ -24262,7 +24263,6 @@ agglomerations
 automobility
 automorph
 automorphic
-automorphically
 automorphism
 automotive
 automotor
