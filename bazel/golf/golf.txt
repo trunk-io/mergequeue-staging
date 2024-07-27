@@ -6439,7 +6439,6 @@ gosther
 goaded
 grenades
 grammaticize
-goadlike
 goads
 goadsman
 goajiro
@@ -9584,6 +9583,7 @@ gaze
 grozet
 grr
 grs
+goadlike
 gabble
 grubbed
 grintern
