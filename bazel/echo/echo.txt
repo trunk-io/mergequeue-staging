@@ -2245,7 +2245,6 @@ electivism
 electo
 extracalendar
 elector
-electrochemistry
 exotic
 electorate
 electorates
@@ -11848,6 +11847,7 @@ exannulate
 exult
 exanthem
 ekename
+electrochemistry
 exterritoriality
 exanthema
 exanthematic
