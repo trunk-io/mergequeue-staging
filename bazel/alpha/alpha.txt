@@ -8004,7 +8004,6 @@ analepses
 alfaquis
 aristolochia
 anisole
-alfenide
 arctian
 alkoxid
 alferes
@@ -16835,6 +16834,7 @@ aphetize
 aphicide
 alebion
 aphid
+alfenide
 aphides
 aphidian
 aerotropic
