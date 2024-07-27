@@ -6409,7 +6409,6 @@ caveman
 cavemen
 concatenate
 caver
-cavernal
 caverned
 cavernicolous
 corridored
@@ -30718,6 +30717,7 @@ cuirassier
 cuirassing
 cuirie
 choledography
+cavernal
 cuish
 cuishes
 cuisinary
