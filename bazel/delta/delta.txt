@@ -3020,7 +3020,6 @@ deeryards
 deerlet
 deermeat
 daker
-deerskin
 doggrel
 deerstalker
 dysnomy
@@ -12238,6 +12237,7 @@ disfranchises
 disfrancnise
 dipentene
 disfriar
+deerskin
 disfrock
 disfrocked
 disfrocking

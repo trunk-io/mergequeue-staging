@@ -10875,7 +10875,6 @@ amniorrhea
 amnios
 amniota
 adda
-amniotes
 amniotin
 archregent
 arrah
@@ -21687,6 +21686,7 @@ asserters
 asserting
 assertingly
 assertion
+amniotes
 assertional
 assertions
 appreciating
