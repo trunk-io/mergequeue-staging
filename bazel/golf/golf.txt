@@ -418,7 +418,6 @@ grallatores
 gabelled
 garbel
 goter
-granat
 gaet
 gooseries
 galena
@@ -4899,6 +4898,7 @@ gyromagnetic
 gyromancy
 gunsmiths
 galleass
+granat
 gyromele
 gunnysacks
 gymnasisiums
