@@ -723,7 +723,6 @@ bacteriohemolysin
 bacteriolysin
 boohooed
 bacteriolysis
-betaken
 branchiform
 bacteriolytic
 bacteriolyze
@@ -15476,6 +15475,7 @@ biometrical
 batophobia
 bonairly
 bepill
+betaken
 botryolite
 bleeze
 brissotin
