@@ -11343,7 +11343,6 @@ chloritization
 cair
 conformism
 chloritize
-chlorize
 chlormethylic
 chlornal
 chloroacetate
@@ -19850,6 +19849,7 @@ combusted
 counterdigged
 combustibility
 combustibilities
+chlorize
 combustible
 combustibleness
 combustibles
