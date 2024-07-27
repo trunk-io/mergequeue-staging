@@ -523,6 +523,7 @@ glucagons
 giroflore
 gallamine
 gombo
+gamecraft
 gallants
 gallates
 gaudish
@@ -2087,7 +2088,6 @@ gawkhammer
 gawky
 grunters
 gawkier
-gamecraft
 galvanotonic
 gawkies
 gimbals
