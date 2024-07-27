@@ -4171,7 +4171,6 @@ firebrats
 fireplaces
 forhaile
 foaled
-forewisdom
 fatback
 fatless
 firetower
@@ -6616,6 +6615,7 @@ fluxibleness
 fowls
 fiddlerfish
 fluxing
+forewisdom
 forletting
 forfends
 forehent
