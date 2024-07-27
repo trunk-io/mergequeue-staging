@@ -8486,7 +8486,6 @@ chamberlain
 chamberlains
 chamberlainship
 caccia
-chamberlet
 chamberleted
 chamberletted
 chambermaid
@@ -25418,6 +25417,7 @@ cornett
 commata
 cornette
 cornetter
+chamberlet
 cornetti
 cornettino
 caponized
