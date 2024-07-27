@@ -3046,6 +3046,7 @@ geochronometry
 geochronometric
 geocyclic
 goal
+glycogenase
 geocline
 grandeeism
 genapper
@@ -10495,7 +10496,6 @@ gundy
 graymill
 gettysburg
 goldmist
-glycogenase
 goaf
 glut
 gundygut
