@@ -1814,7 +1814,6 @@ groundskeep
 grasswards
 gastropexy
 gastrophile
-gastrophilus
 gastrophrenic
 gastrophthisis
 griskin
@@ -10089,6 +10088,7 @@ grandparenthood
 germanomania
 guerrillaship
 greaseproof
+gastrophilus
 gamins
 guessable
 gyrodyne
