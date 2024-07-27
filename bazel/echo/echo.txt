@@ -3271,7 +3271,6 @@ effatum
 emasculate
 electrooculogram
 emasculated
-emasculates
 enteroischiocele
 emasculating
 eyry
@@ -4552,6 +4551,7 @@ endocardiac
 ethylamine
 encephalomyelitis
 escapements
+emasculates
 entrepreneurial
 encephalomyocarditis
 encephalopathia
