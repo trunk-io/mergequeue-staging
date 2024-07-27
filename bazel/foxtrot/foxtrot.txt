@@ -8658,7 +8658,6 @@ farweltered
 forthwith
 furcellaria
 floatable
-fortier
 fortify
 fortification
 fasola
@@ -9455,6 +9454,7 @@ fraternation
 flavours
 fraternised
 friendlessness
+fortier
 fraternity
 forbiddenness
 farmhands
