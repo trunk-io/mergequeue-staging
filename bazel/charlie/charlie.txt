@@ -2659,6 +2659,7 @@ canoeiro
 cointers
 canoeist
 canoeload
+cowherds
 curlier
 canoeman
 canoes
@@ -27670,7 +27671,6 @@ corrido
 cowherbs
 cowherd
 cumulates
-cowherds
 calamints
 cowhide
 cowhided
