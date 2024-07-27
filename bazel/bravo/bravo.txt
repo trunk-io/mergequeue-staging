@@ -15583,7 +15583,6 @@ badgerly
 broadhead
 broadhorn
 beholder
-betatrons
 broadish
 broadleaf
 broadleaves
@@ -18388,6 +18387,7 @@ bilbo
 bromcamphor
 buzzing
 buzzingly
+betatrons
 balas
 barmkin
 bichromatic
