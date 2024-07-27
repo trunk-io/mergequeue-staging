@@ -8583,7 +8583,6 @@ forspent
 farstepped
 ferally
 footing
-farriers
 forspoken
 fowk
 floccipend
@@ -11610,6 +11609,7 @@ flappy
 fractuosity
 farforthly
 fusser
+farriers
 fussy
 fussification
 fruitworm
