@@ -4581,6 +4581,7 @@ advects
 axillars
 advenae
 allelotropy
+adaptative
 advenient
 advent
 advential
@@ -10835,7 +10836,6 @@ amnestied
 amnia
 amniac
 ateleiosis
-adaptative
 amnic
 actinistia
 aluminothermy
