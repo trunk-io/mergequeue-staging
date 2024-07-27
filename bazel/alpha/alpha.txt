@@ -6632,7 +6632,6 @@ ahi
 ahimsas
 antecessor
 ahint
-ahistorical
 ahmadi
 arni
 aftercause
@@ -21840,6 +21839,7 @@ assistless
 antilogarithm
 austrianize
 assistor
+ahistorical
 assistors
 assists
 assith
