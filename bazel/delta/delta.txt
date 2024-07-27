@@ -1715,7 +1715,6 @@ decorativeness
 damnified
 deathlessness
 disconcerting
-deathlikeness
 deathrate
 deceivable
 deathrates
@@ -14645,6 +14644,7 @@ dnieper
 doa
 doability
 doable
+deathlikeness
 doand
 dephycercal
 doarium
