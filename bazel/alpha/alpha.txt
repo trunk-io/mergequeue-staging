@@ -5321,7 +5321,6 @@ affectless
 affector
 affectual
 affectum
-advisedly
 affectuous
 affectus
 affeeble
@@ -6236,6 +6235,7 @@ agitpropist
 agitpunkt
 apologias
 agkistrodon
+advisedly
 agla
 aglaia
 agouta
