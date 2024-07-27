@@ -5014,6 +5014,7 @@ flaskets
 fasnacht
 forelook
 flugelhorn
+fends
 flasklet
 flasque
 flat
@@ -8324,7 +8325,6 @@ feltwort
 foregoes
 fusel
 frush
-fends
 formaldehydesulphoxylic
 formaldoxime
 formalin
