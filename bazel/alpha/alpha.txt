@@ -20670,7 +20670,6 @@ arthropleura
 arthropleure
 achroanthes
 arthropoda
-arthropodal
 alamos
 arthropody
 atlantal
@@ -25239,6 +25238,7 @@ azimuth
 ampliation
 azimuthal
 antrectomy
+arthropodal
 azimuthally
 anhydrization
 aphetic
