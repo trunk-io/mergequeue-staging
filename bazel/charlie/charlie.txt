@@ -15474,7 +15474,6 @@ carnosities
 clannishness
 cyclones
 condiments
-cursoria
 clanship
 cachemic
 clansman
@@ -31152,6 +31151,7 @@ cupressus
 cupric
 chromaticism
 crenelate
+cursoria
 crowds
 cupride
 cuprite
