@@ -3178,7 +3178,6 @@ critteria
 coesites
 caponata
 caponier
-caponiere
 caponiers
 caponisation
 caponise
@@ -9024,6 +9023,7 @@ compliable
 chargeman
 cephalogenesis
 chargeship
+caponiere
 charybdian
 charybdis
 charicleia
