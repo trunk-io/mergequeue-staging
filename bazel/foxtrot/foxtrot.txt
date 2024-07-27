@@ -471,7 +471,6 @@ fireboy
 fosterling
 falcade
 falcata
-frivoler
 foliating
 falcate
 fracted
@@ -6818,6 +6817,7 @@ fevers
 fluorid
 foresettle
 foldaway
+frivoler
 flared
 foldboat
 fare
