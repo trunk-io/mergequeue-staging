@@ -3365,7 +3365,6 @@ defleas
 deflect
 dimethylsulphoxide
 driftfishes
-deflectable
 deflected
 deflecting
 deflectionization
@@ -5032,6 +5031,7 @@ denasalize
 denasalized
 denat
 denationalisation
+deflectable
 denationalise
 denationalised
 denationalising
