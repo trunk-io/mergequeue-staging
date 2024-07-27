@@ -3742,7 +3742,6 @@ glycolide
 getas
 gluttei
 gurged
-garths
 getatable
 giansar
 gausterer
@@ -6497,6 +6496,7 @@ gob
 grandfather
 goban
 guiba
+garths
 gnocchi
 gobang
 geomorphology
