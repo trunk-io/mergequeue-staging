@@ -18952,6 +18952,7 @@ collab
 csnet
 collabent
 collaborate
+configure
 collaborated
 collaborates
 crofting
@@ -22050,7 +22051,6 @@ configurationism
 configurationist
 configurations
 configurative
-configure
 configured
 configures
 cymbate
