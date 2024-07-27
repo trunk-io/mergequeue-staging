@@ -675,7 +675,6 @@ gratins
 gubbo
 gallivants
 geoglyphic
-gallywasp
 gallnut
 gallnuts
 gizzen
@@ -7552,6 +7551,7 @@ grunch
 gowks
 germanyl
 gowl
+gallywasp
 garrafa
 gestates
 galavanted

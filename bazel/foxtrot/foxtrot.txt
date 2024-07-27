@@ -3120,6 +3120,7 @@ foreloper
 fictileness
 fending
 fictionalization
+foister
 fictional
 fictionalize
 fictionalized
@@ -6803,7 +6804,6 @@ foist
 foxtongue
 fcs
 flex
-foister
 foisty
 foiter
 fetting
