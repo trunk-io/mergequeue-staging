@@ -3102,7 +3102,6 @@ barwin
 barwise
 basad
 basale
-bewares
 batetela
 basalts
 basaltware
@@ -4882,6 +4881,7 @@ bonorum
 battute
 beefily
 beefin
+bewares
 beefiness
 beefing
 beefish
