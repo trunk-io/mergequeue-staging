@@ -4039,7 +4039,6 @@ cardioncus
 crustiest
 cardionecrosis
 cardionephric
-cardioneural
 cardioneurosis
 cardionosus
 covellite
@@ -23648,6 +23647,7 @@ contingently
 contingentness
 collect
 contingents
+cardioneural
 continual
 citator
 conviviality
