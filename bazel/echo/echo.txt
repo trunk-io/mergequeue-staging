@@ -690,7 +690,6 @@ ecliptical
 empurpled
 ensaint
 eclogite
-eclogites
 eclogue
 eclogues
 eloigner
@@ -2757,6 +2756,7 @@ enrank
 electorship
 eleostearic
 elenchtic
+eclogites
 efficiencies
 eleotrid
 elepaio
