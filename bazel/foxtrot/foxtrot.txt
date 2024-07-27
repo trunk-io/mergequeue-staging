@@ -2213,6 +2213,7 @@ fencelet
 firelocks
 familial
 fencelike
+frisbee
 frolickly
 fenceplay
 filename
@@ -10131,7 +10132,6 @@ frippet
 fris
 frisado
 foreguidance
-frisbee
 fighting
 frisca
 friscal

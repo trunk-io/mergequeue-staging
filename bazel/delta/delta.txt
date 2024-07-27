@@ -2011,7 +2011,6 @@ dropforging
 decamp
 demitone
 dero
-decamped
 dialyzability
 decamping
 derth
@@ -2628,6 +2627,7 @@ divorcements
 duotone
 datos
 draconic
+decamped
 daunii
 decompose
 decomposed
