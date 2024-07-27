@@ -3728,7 +3728,6 @@ battlefront
 battlefronts
 battleful
 battlegrounds
-blackband
 battlement
 battlemented
 battlepiece
@@ -15639,6 +15638,7 @@ brochette
 bulbiest
 brochidodromous
 brocho
+blackband
 brochophony
 broid
 bush
