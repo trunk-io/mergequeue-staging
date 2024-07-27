@@ -7325,6 +7325,7 @@ bethrall
 bethreaten
 bethroot
 bethumb
+budworm
 bethump
 bethumped
 bethumping
@@ -16689,7 +16690,6 @@ billbug
 budtime
 buduma
 budwood
-budworm
 budzart
 baronets
 battologizing
