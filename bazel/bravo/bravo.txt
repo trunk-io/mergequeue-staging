@@ -10649,7 +10649,6 @@ blendes
 blends
 bicycular
 buffet
-buffaloed
 basketlike
 blendwater
 blenheim
@@ -16502,6 +16501,7 @@ bucentaur
 bucentur
 bucephalus
 briquet
+buffaloed
 blacking
 blastman
 buceros
