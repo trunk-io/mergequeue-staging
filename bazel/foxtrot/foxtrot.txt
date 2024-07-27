@@ -139,7 +139,6 @@ factfinder
 firman
 facty
 fictile
-facticide
 factional
 furnacite
 foederal
@@ -8590,6 +8589,7 @@ filicinean
 fussers
 factitial
 fleer
+facticide
 fraggings
 foretrysail
 forswat
