@@ -79,7 +79,6 @@ babelism
 babels
 babeship
 babesia
-beaconless
 boardinghouses
 babesias
 botheration
@@ -4034,6 +4033,7 @@ biconvexity
 beans
 battledoring
 beansetter
+beaconless
 beanstalk
 bacteroidal
 bibbs
