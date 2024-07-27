@@ -3267,6 +3267,7 @@ frillery
 forces
 fidos
 fiducial
+filamentoid
 fluvio
 futuro
 fiducially
@@ -3471,7 +3472,6 @@ filamentary
 felworts
 filamented
 filamentiferous
-filamentoid
 filamentose
 fulcrumage
 folletage
