@@ -1423,6 +1423,7 @@ callants
 callas
 checked
 callat
+coreless
 callate
 cucumiform
 callbacks
@@ -18265,7 +18266,6 @@ coexecutrix
 coexert
 coexerted
 coexertion
-coreless
 coexerts
 coexist
 cobleskill
