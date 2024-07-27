@@ -13807,7 +13807,6 @@ anomalocephalus
 anomaloflorous
 anomalogonatous
 anomalon
-anomalous
 anomalously
 angelot
 anomer
@@ -21848,6 +21847,7 @@ assize
 assized
 assizer
 assizing
+anomalous
 athyridae
 asslike
 assman
