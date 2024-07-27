@@ -5561,6 +5561,7 @@ experiences
 enfire
 eyases
 estimates
+expungers
 enflame
 enflamed
 enflames
@@ -13423,7 +13424,6 @@ earlyish
 edith
 expulsory
 expunged
-expungers
 expurgate
 expurgated
 eggnog
