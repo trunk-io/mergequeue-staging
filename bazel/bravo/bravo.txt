@@ -4325,6 +4325,7 @@ becarpeted
 becarpeting
 brine
 birthroot
+brekkle
 bugles
 bluestems
 becarpets
@@ -8974,7 +8975,6 @@ biologism
 biologist
 biologistic
 biologize
-brekkle
 bioluminescence
 biotechnics
 biomagnetic
