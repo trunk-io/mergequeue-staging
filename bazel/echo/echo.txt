@@ -4546,7 +4546,6 @@ eulogizers
 encephalomeningocele
 encephalomeric
 endocardiac
-encephalomyelitic
 ethylamine
 encephalomyelitis
 escapements
@@ -13153,6 +13152,7 @@ expiate
 erosivity
 expiational
 expiative
+encephalomyelitic
 expiator
 expirant
 emanatist
