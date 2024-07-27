@@ -4734,6 +4734,7 @@ grossing
 gemmoid
 gypsophila
 guardhouses
+gunrack
 gypsophilous
 gypsum
 gamelang
@@ -6731,7 +6732,6 @@ gnathopod
 goldthread
 goldtit
 goldurn
-gunrack
 grimness
 golem
 golems
