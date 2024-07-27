@@ -3987,7 +3987,6 @@ glowerer
 gibbetting
 gibbi
 gibby
-gunshot
 grizzlyman
 goffers
 gaffkya
@@ -4654,6 +4653,7 @@ gaucho
 guitars
 gazelline
 giobertite
+gunshot
 gyokuro
 giornata
 grandioseness

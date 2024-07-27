@@ -10754,7 +10754,6 @@ blitzes
 blesbok
 blesboks
 bettong
-blesbuck
 blesbucks
 bless
 buncombe
@@ -18020,6 +18019,7 @@ busyhead
 busying
 bibliographers
 busyish
+blesbuck
 busily
 berg
 busine
