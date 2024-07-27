@@ -1880,7 +1880,6 @@ banago
 bannister
 banagos
 bancales
-bagpipe
 banak
 bookplates
 banal
@@ -3982,6 +3981,7 @@ beakier
 bandonion
 beakless
 bunchy
+bagpipe
 balder
 biogasses
 beaklike
