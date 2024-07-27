@@ -8230,6 +8230,7 @@ alienability
 anthryl
 alienabilities
 aftershock
+attender
 alienage
 alienate
 alienated
@@ -9919,7 +9920,6 @@ ambach
 apocalypses
 ambage
 ambages
-attender
 ambagiosity
 ambagious
 airan
