@@ -6945,6 +6945,7 @@ entozoon
 embankments
 entr
 ecumenopolis
+epityphlon
 embars
 entracte
 entrail
@@ -8378,7 +8379,6 @@ epithumetic
 epitimesis
 epitympa
 epitympanum
-epityphlon
 experienceless
 excubittoria
 echopractic
