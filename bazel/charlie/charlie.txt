@@ -1568,7 +1568,6 @@ calomba
 calombo
 calomels
 copresent
-calomorphic
 calonectria
 comedones
 calool
@@ -11791,6 +11790,7 @@ chondroangioma
 chondroarthritis
 chondroblastoma
 chondrocarcinoma
+calomorphic
 charkha
 chondrocoracoid
 chondrocostal
