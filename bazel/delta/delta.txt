@@ -72,7 +72,6 @@ disaccustom
 dacryocystocele
 defailance
 dacryocystoptosis
-dacryocystorhinostomy
 drays
 dacryocystosyringotomy
 dacryocystotome
@@ -14953,6 +14952,7 @@ doeskin
 doeskins
 doesn
 dicotyledonous
+dacryocystorhinostomy
 dealation
 doesnt
 durdenite
