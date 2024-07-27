@@ -2326,7 +2326,6 @@ feasting
 feretory
 fingerers
 folks
-fluorinations
 fodders
 frontes
 folkvang
@@ -7666,6 +7665,7 @@ foreground
 furole
 foregrounds
 foregut
+fluorinations
 forehall
 forehand
 forehanded
