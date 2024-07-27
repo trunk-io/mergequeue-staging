@@ -5383,6 +5383,7 @@ denticulate
 denticulated
 durability
 denticule
+detectible
 dentiferous
 dentiform
 dentigerous
@@ -7237,7 +7238,6 @@ deferrable
 detected
 detecter
 detecters
-detectible
 dualities
 detective
 detector
