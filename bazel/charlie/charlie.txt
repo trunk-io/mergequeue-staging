@@ -5092,6 +5092,7 @@ cashew
 cashgirl
 cashier
 cashiered
+complimentable
 cashierer
 courlans
 cashiering
@@ -20840,7 +20841,6 @@ complying
 cryohydrate
 compliment
 collectibility
-complimentable
 complimental
 complimentally
 complimentary
