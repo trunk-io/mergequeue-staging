@@ -1235,7 +1235,6 @@ abutilon
 abutments
 abuts
 abuttal
-abuttals
 archineuron
 abutter
 aggresses
@@ -22485,6 +22484,7 @@ ataxia
 artolater
 ataxiagram
 ataxiagraph
+abuttals
 antievolution
 ataxiameter
 ataxias
