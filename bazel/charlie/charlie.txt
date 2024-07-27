@@ -7536,7 +7536,6 @@ ceratozamia
 ceraunics
 clergyman
 ceraunograph
-ceraunomancy
 costmary
 caimito
 ceraunophone
@@ -8953,6 +8952,7 @@ characterology
 characterological
 characterologically
 characters
+ceraunomancy
 characterstring
 colometric
 charades
