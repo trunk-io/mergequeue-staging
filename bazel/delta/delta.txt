@@ -1222,7 +1222,6 @@ doree
 dialyzable
 datcha
 destroy
-datchas
 datebook
 datedly
 didodecahedron
@@ -14941,6 +14940,7 @@ dodunk
 doe
 doebird
 doedicurus
+datchas
 doeg
 doeglic
 doegling
