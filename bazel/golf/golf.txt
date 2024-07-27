@@ -5441,7 +5441,6 @@ gallied
 gasteropoda
 gride
 gives
-glib
 glycerinated
 gruffer
 geests
@@ -9471,6 +9470,7 @@ grooms
 gnashing
 glycerizine
 grouser
+glib
 grousers
 gynic
 grouseward

@@ -10149,6 +10149,7 @@ ambulation
 ambulator
 ambulatory
 acetocinnamene
+aminopropionic
 aphanitism
 ambulatories
 ambulatorily
@@ -10646,7 +10647,6 @@ aminoplast
 ascendants
 aminoplastic
 aminopolypeptidase
-aminopropionic
 aminopurine
 aminoquin
 asteatosis
