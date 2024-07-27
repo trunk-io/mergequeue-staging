@@ -942,6 +942,7 @@ baggings
 boardwalk
 basseted
 bagh
+bookshelf
 bistratal
 balaamitical
 baghla
@@ -12652,7 +12653,6 @@ bookroom
 bys
 boce
 booksellers
-bookshelf
 bedsick
 bases
 bedcover
