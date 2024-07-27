@@ -5974,6 +5974,7 @@ agend
 agendaless
 agendum
 appealable
+anglist
 agene
 agenes
 ageneses
@@ -12929,7 +12930,6 @@ anglification
 autoreinfusion
 anglimaniac
 atheromas
-anglist
 aneuria
 anglo
 anglogaean
