@@ -839,7 +839,6 @@ fans
 fant
 frictionlessness
 fannell
-fantaddish
 funori
 fecit
 foredawn
@@ -10706,6 +10705,7 @@ frumpling
 folkvangr
 frumps
 fingerprint
+fantaddish
 foretopsail
 funnelling
 feretra
