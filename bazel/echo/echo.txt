@@ -12874,7 +12874,6 @@ exoticness
 edwardian
 endocrinotherapy
 exotics
-exotospore
 exotoxins
 euphyllopoda
 exotropia
@@ -13835,6 +13834,7 @@ extraduction
 extra
 extradural
 extraembryonal
+exotospore
 expiry
 exams
 eltime
