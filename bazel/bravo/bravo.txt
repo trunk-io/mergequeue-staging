@@ -581,6 +581,7 @@ backstitches
 bankrolls
 backstone
 balding
+bescorches
 backstop
 bringing
 bathoses
@@ -6823,7 +6824,6 @@ bandannas
 buybacks
 befringing
 bescorch
-bescorches
 bescorn
 bescoundrel
 buhlworks
