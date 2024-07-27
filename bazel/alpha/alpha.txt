@@ -357,7 +357,6 @@ aberrant
 aploperistomatous
 aberrants
 aberrate
-astrol
 aberrated
 aberrating
 aberration
@@ -1618,6 +1617,7 @@ acclamator
 acclamatory
 acclimatation
 aeriest
+astrol
 akebia
 acclimate
 absinthian
