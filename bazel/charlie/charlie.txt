@@ -21401,7 +21401,6 @@ concher
 conches
 conchfishes
 conchy
-conchies
 cyanomethemoglobin
 channellers
 conchifera
@@ -24919,6 +24918,7 @@ coracias
 coracii
 coraciidae
 coraciiform
+conchies
 crustal
 coraciiformes
 coracine
