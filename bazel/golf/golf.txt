@@ -7182,7 +7182,6 @@ gopherroot
 germanies
 gor
 galleylike
-gora
 glyptographer
 gorals
 glazes
@@ -10661,6 +10660,7 @@ grubbies
 gus
 guser
 guserid
+gora
 gush
 goniale
 gushed
