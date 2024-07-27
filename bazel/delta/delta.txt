@@ -2689,7 +2689,6 @@ decontrol
 dustoor
 dvornik
 doorstop
-dingdongs
 deflectometer
 depasture
 dermahemia
@@ -14754,6 +14753,7 @@ daggling
 dockman
 docks
 dockside
+dingdongs
 docksides
 defogging
 dures
