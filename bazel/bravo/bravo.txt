@@ -5826,7 +5826,6 @@ burdigalian
 belonidae
 belonite
 brisling
-belonoid
 breedling
 bartonia
 blotching
@@ -13116,6 +13115,7 @@ bosquet
 bosquets
 bossage
 bossboy
+belonoid
 baldachinos
 beacons
 biomicroscopy
