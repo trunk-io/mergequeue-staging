@@ -817,6 +817,7 @@ fanjet
 frugalities
 fanjets
 fanleaf
+filter
 fulminous
 foreseize
 feasts
@@ -8633,7 +8634,6 @@ fuchi
 forthgo
 forthgoing
 filate
-filter
 forthy
 forthink
 franz
