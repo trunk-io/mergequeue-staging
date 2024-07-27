@@ -9385,7 +9385,6 @@ elementaloid
 ekphore
 eruption
 estruate
-eruptions
 eruptive
 exomion
 escopette
@@ -10817,6 +10816,7 @@ einkorn
 euhemeristic
 euhemeristically
 expertise
+eruptions
 euhemerize
 euhemerized
 earflaps
