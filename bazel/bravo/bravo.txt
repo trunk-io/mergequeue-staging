@@ -2680,7 +2680,6 @@ barkbound
 bleacherite
 barkcutter
 boraxes
-balsameaceous
 barked
 barkeeper
 bereason
@@ -15100,6 +15099,7 @@ blotted
 brickbatted
 brickbatting
 bricked
+balsameaceous
 bricken
 bearwoods
 beuniformed
