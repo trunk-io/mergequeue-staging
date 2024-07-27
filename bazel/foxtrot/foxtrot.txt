@@ -3071,7 +3071,6 @@ flet
 fibropurulent
 fibrose
 fibroserous
-fibrosis
 fibrosities
 fibrotuberculosis
 foreface
@@ -10429,6 +10428,7 @@ formulate
 forborn
 frontolysis
 foveole
+fibrosis
 flopped
 fronton
 frontonasal
