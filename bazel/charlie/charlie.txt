@@ -8179,7 +8179,6 @@ chagoma
 cloes
 chagrined
 chagrining
-commune
 changeover
 colorcasted
 chagrinned
@@ -21529,6 +21528,7 @@ crackable
 concocted
 concocter
 concocting
+commune
 concoction
 concoctions
 concoctive
