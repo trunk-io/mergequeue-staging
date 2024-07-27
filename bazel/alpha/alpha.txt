@@ -6695,6 +6695,7 @@ appt
 aide
 aydendron
 aidenn
+anticomet
 aiders
 aides
 aidful
@@ -15048,7 +15049,6 @@ airfoil
 anticoincidence
 anticold
 akkad
-anticomet
 anticomment
 anticommercial
 anticommercialism
