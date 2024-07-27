@@ -4037,7 +4037,6 @@ furazane
 fowage
 facks
 fireback
-favourably
 fireball
 fireballs
 flanky
@@ -8577,6 +8576,7 @@ followership
 forsythia
 forsythias
 forslow
+favourably
 forspeak
 forbesite
 forspent
