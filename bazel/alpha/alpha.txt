@@ -1556,6 +1556,7 @@ accession
 accessional
 accessive
 accessively
+arter
 accessless
 accessor
 accessory
@@ -20508,7 +20509,6 @@ ascaron
 artemon
 arrases
 autoptical
-arter
 arteriac
 arteriae
 arterial
