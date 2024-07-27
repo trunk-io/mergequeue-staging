@@ -2563,7 +2563,6 @@ bosques
 barfed
 barfy
 breakshugh
-barflies
 barfs
 bargain
 bargainable
@@ -8515,6 +8514,7 @@ bremia
 buhr
 bellowsmaker
 billback
+barflies
 blushers
 billbeetle
 boffs
