@@ -4263,7 +4263,6 @@ carnaged
 carillonned
 crackerjack
 carillonneur
-clypei
 carillonneurs
 carillonning
 carillons
@@ -16766,6 +16765,7 @@ cloth
 cabrestos
 clothe
 clothed
+clypei
 clothes
 clothesbag
 clothesbasket
