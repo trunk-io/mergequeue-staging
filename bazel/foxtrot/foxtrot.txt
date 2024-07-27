@@ -5794,7 +5794,6 @@ fantasy
 flocker
 fathership
 flockings
-flockless
 flockman
 flutes
 florigraphy
@@ -9891,6 +9890,7 @@ fecula
 feeless
 frets
 fenceress
+flockless
 fretsome
 frett
 faultiness
