@@ -7365,7 +7365,6 @@ detonable
 detonatable
 detonated
 detonates
-definition
 detonating
 detonation
 detonative
@@ -7710,6 +7709,7 @@ dinoceratidae
 devils
 dytiscus
 dacoit
+definition
 deviltry
 dissociation
 dictated
