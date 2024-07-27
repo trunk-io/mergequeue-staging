@@ -4454,6 +4454,7 @@ encamp
 encamped
 encampment
 endosecretory
+equicostate
 endoparasite
 euthyneurous
 exameter
@@ -8626,7 +8627,6 @@ emulsible
 equicohesive
 equicontinuous
 equiconvex
-equicostate
 equicrural
 equid
 eupnoeas
