@@ -26815,7 +26815,6 @@ countercommand
 countercompany
 countercompetition
 countercomplaint
-countercondemnation
 counterconditioning
 counterconquest
 countercouchant
@@ -28633,6 +28632,7 @@ creepmouse
 creepmousy
 creeps
 crees
+countercondemnation
 canonised
 catchments
 creese
