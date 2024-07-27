@@ -12879,7 +12879,6 @@ bordered
 booklet
 borderer
 borderers
-borderies
 bordering
 borderings
 borderlander
@@ -14741,6 +14740,7 @@ breadness
 breadnut
 breadnuts
 breadseller
+borderies
 brusque
 breadstitch
 breadstuff
