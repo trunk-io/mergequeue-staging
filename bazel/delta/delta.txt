@@ -2757,7 +2757,6 @@ deplete
 disciplinable
 decreet
 destigmatizing
-decreing
 dunkled
 decrements
 decrepit
@@ -2991,6 +2990,7 @@ deepfreezed
 dactylopodite
 danaidean
 deepfreezing
+decreing
 deadeyes
 deepfroze
 delimitized
