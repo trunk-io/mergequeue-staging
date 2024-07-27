@@ -5401,6 +5401,7 @@ forecourt
 fletched
 fluoridised
 frontal
+functionated
 fletcherism
 flooding
 fletcherite
@@ -11442,7 +11443,6 @@ foreshank
 frondesced
 furnished
 furnishes
-functionated
 furnishing
 feebler
 flatfish
