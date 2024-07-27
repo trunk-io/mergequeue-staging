@@ -2115,7 +2115,6 @@ campos
 cornett
 campout
 camps
-campshedding
 campsheeting
 campshot
 campsite
@@ -26241,6 +26240,7 @@ cosponsorship
 cosponsorships
 coss
 chatteration
+campshedding
 cossack
 confabulatory
 cossacks
