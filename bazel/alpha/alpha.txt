@@ -1311,7 +1311,6 @@ appendicectomy
 alifs
 autocall
 acalypha
-acalypterae
 apheliotropic
 angakok
 acalyptrata
@@ -13393,6 +13392,7 @@ anisopleural
 anisopleurous
 anisopod
 anisopoda
+acalypterae
 administratress
 anisopodal
 anisopogonous
