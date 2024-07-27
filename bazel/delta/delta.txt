@@ -2289,7 +2289,6 @@ dechloridize
 duscle
 dechloridized
 deash
-dechlorinate
 dechlorinated
 dechlorinating
 dizain
@@ -3958,6 +3957,7 @@ demagnetizer
 dakotan
 delater
 delates
+dechlorinate
 delating
 delatinization
 delatinize
