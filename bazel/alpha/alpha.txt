@@ -14475,7 +14475,6 @@ anthotaxy
 anthotropic
 anthoxanthum
 anthozoa
-anthozoan
 anthozoic
 adiated
 allopathy
@@ -15356,6 +15355,7 @@ antiballooner
 antigod
 animalculous
 antigonon
+anthozoan
 antigonorrheic
 antigonus
 antigorite
