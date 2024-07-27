@@ -11061,7 +11061,6 @@ amphibion
 amphibiotic
 amphibiotica
 amphibiously
-amphibium
 aftertreatment
 amphiblestritis
 adenosis
@@ -25178,6 +25177,7 @@ axstone
 axtree
 axweed
 axwise
+amphibium
 axwort
 autoepilation
 alfarga
