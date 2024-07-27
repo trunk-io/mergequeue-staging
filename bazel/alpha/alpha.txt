@@ -5044,7 +5044,6 @@ aerohydrodynamic
 aerohydropathy
 aerohydroplane
 apotheosise
-armamentarium
 autological
 aerohydrous
 anodine
@@ -10203,6 +10202,7 @@ amebous
 amebula
 ameed
 ameen
+armamentarium
 ameer
 ameerate
 ameers
