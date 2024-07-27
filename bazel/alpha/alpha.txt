@@ -14527,6 +14527,7 @@ anthranil
 anthranyl
 alarge
 anthranilate
+autolyse
 anthranilic
 anthranoyl
 anthranol
@@ -24186,7 +24187,6 @@ autolavage
 autolesion
 autolimnetic
 autolysate
-autolyse
 aposiopeses
 autolith
 autolithograph
