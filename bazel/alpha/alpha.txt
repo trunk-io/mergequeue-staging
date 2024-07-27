@@ -9025,7 +9025,6 @@ allspice
 abrogating
 allspices
 allthing
-allthorn
 allude
 alludes
 alluding
@@ -14544,6 +14543,7 @@ anthrapyridine
 anthrapurpurin
 anthraquinone
 anthraquinonyl
+allthorn
 anthrarufin
 anthrasilicosis
 alarming
