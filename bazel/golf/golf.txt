@@ -743,7 +743,6 @@ geometer
 gillnetted
 greatness
 gallweed
-greasehorn
 grates
 goniatite
 galoch
@@ -4590,6 +4589,7 @@ ginney
 goldbricks
 grovelled
 grindstones
+greasehorn
 ginnel
 ginner
 ginnery
