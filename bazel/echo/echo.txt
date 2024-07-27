@@ -5126,7 +5126,6 @@ embosser
 endocrinopathy
 endocrinopathic
 electrolysis
-endocrinous
 endocritic
 endoderm
 eudaemonistically
@@ -11843,6 +11842,7 @@ exannulate
 exult
 exanthem
 ekename
+endocrinous
 electrochemistry
 exterritoriality
 exanthema
