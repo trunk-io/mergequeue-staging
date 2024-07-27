@@ -1839,6 +1839,7 @@ accruement
 accrues
 accruing
 accts
+aphasiology
 accubation
 accubita
 accubitum
@@ -17475,7 +17476,6 @@ apothecium
 amara
 autocriticism
 apothegm
-aphasiology
 arbitrement
 applot
 airship
