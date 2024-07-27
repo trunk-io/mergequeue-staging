@@ -509,7 +509,6 @@ enfeoff
 echafaudage
 equimolecular
 echard
-elaeococca
 eched
 echelon
 erysiphe
@@ -2112,6 +2111,7 @@ exstipulate
 elastase
 elastases
 exclusivism
+elaeococca
 ethnology
 elastically
 endable
