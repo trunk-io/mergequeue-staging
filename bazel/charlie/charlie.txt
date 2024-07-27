@@ -17779,6 +17779,7 @@ cocopan
 cocopans
 cocoroot
 comply
+chromolith
 cacanapa
 cocos
 cornberry
@@ -24667,7 +24668,6 @@ copies
 consentfully
 copygraph
 copygraphed
-chromolith
 copyhold
 copyholder
 copyholders
