@@ -4658,7 +4658,6 @@ enchodontidae
 enchondroma
 electrometallurgical
 enchondromas
-enchondromata
 eftest
 enchondrosis
 enchorial
@@ -11877,6 +11876,7 @@ exarticulation
 electroencephalography
 exasper
 exasperate
+enchondromata
 exasperatedly
 electrometric
 exasperater
