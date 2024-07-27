@@ -7504,6 +7504,7 @@ featherer
 forebowline
 forebrace
 fyce
+fortunes
 forebridge
 foreburton
 flavoured
@@ -9822,7 +9823,6 @@ foldout
 frequentness
 furanoside
 frolicked
-fortunes
 fluviose
 frere
 frescade

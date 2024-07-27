@@ -3172,7 +3172,6 @@ cordmaker
 capmaking
 capman
 capmint
-capnodium
 capnomancy
 cloke
 capnomor
@@ -18033,6 +18032,7 @@ coelevate
 coelho
 chinoline
 coeliac
+capnodium
 coelialgia
 coelian
 coelicolae
