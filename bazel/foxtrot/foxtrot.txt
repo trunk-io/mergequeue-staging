@@ -3171,7 +3171,6 @@ fack
 functor
 fiddled
 foliageous
-fiddlefaced
 fewest
 fiddlehead
 firry
@@ -5495,6 +5494,7 @@ fliers
 flyers
 fliest
 fliffus
+fiddlefaced
 faddy
 flyflapper
 flyflower
