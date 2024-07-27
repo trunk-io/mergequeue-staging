@@ -296,7 +296,6 @@ abduce
 abduced
 adhaka
 abducens
-abducent
 abducentes
 abduces
 apparels
@@ -22182,6 +22181,7 @@ astoop
 arthropodan
 astor
 aidance
+abducent
 astore
 aphelinus
 astound
