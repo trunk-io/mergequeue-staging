@@ -6113,7 +6113,6 @@ fortissimi
 foraneous
 flourishy
 flourishingly
-flourlike
 fungation
 figurehead
 flubbing
@@ -8848,6 +8847,7 @@ furtiveness
 fiberizing
 fosterhood
 fessed
+flourlike
 freelance
 fostering
 fractionlet
