@@ -4941,6 +4941,7 @@ carvestrene
 carvyl
 carving
 carvings
+chloroaurite
 carvoeira
 colmars
 canceled
@@ -11356,7 +11357,6 @@ chloroanaemia
 concorporate
 chloroaurate
 chloroauric
-chloroaurite
 chlorobenzene
 chlorobromide
 chlorocalcite
