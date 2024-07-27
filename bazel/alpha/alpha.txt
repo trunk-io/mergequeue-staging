@@ -959,7 +959,6 @@ absenters
 absently
 absentminded
 absentmindedly
-absentmindedness
 assonantly
 absentness
 absfarad
@@ -2714,6 +2713,7 @@ acoupe
 acousmata
 acousmatic
 artar
+absentmindedness
 acoustic
 acoustically
 antaean
