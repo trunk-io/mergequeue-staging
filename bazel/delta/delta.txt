@@ -14703,7 +14703,6 @@ docetize
 dochmiacal
 dochmii
 duhr
-dochmius
 dochter
 dockages
 disjuncture
@@ -15849,6 +15848,7 @@ decayable
 dorsicommissure
 dorsiferous
 dorsiflex
+dochmius
 dorsiflexion
 digressory
 dorsigrade
