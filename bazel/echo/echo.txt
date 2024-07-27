@@ -6877,7 +6877,6 @@ ecoid
 entomology
 excellently
 entomologies
-entomologise
 engorge
 entomologised
 entomologist
@@ -7066,6 +7065,7 @@ esophago
 electrodeless
 energises
 eyedrop
+entomologise
 entrochite
 enols
 entropion
