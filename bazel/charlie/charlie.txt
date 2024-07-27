@@ -9236,7 +9236,6 @@ chasm
 cesarians
 chasma
 cryptophyceae
-chasmal
 conidium
 chasmic
 chasmogamy
@@ -17076,6 +17075,7 @@ clutterment
 clutters
 cortices
 cm
+chasmal
 catalecta
 cmdr
 crankness
