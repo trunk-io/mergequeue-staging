@@ -11753,7 +11753,6 @@ exactiveness
 endopolyploid
 exactly
 electrolysation
-exactment
 exactness
 elsewhither
 exactor
@@ -14124,6 +14123,7 @@ extrusions
 equiaxed
 extrusive
 ectocelic
+exactment
 extubation
 equable
 energist
