@@ -74,6 +74,7 @@ faces
 facesaving
 facet
 famelessly
+fissionability
 facetiae
 faceting
 floridities
@@ -2341,7 +2342,6 @@ feridjee
 freemasonic
 feastful
 ferigee
-fissionability
 feringi
 ferio
 flexuose
