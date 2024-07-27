@@ -2702,7 +2702,6 @@ browsers
 bothroi
 barkingly
 bellows
-birlinn
 barklyite
 barkometer
 bulwand
@@ -15880,6 +15879,7 @@ bronchiolar
 bactris
 bronchiospasm
 bronchiostenosis
+birlinn
 bronchitic
 brevier
 bronchoaspergillosis

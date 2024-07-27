@@ -1444,7 +1444,6 @@ fattiness
 foraging
 ferromagnetism
 formaliser
-fatting
 fattishness
 foamily
 flamboyantism
@@ -6938,6 +6937,7 @@ flyingly
 formalizer
 folktale
 folktales
+fatting
 foll
 folles
 folly
