@@ -9285,7 +9285,6 @@ bipod
 bipods
 bipolarization
 bipont
-biporose
 binauricular
 broddle
 brachiofacial
@@ -17587,6 +17586,7 @@ burgess
 brigands
 bowstrung
 burgessdom
+biporose
 balak
 barrets
 burgesses
