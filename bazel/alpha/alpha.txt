@@ -10068,7 +10068,6 @@ amblypoda
 amblypodous
 awreak
 amblyrhynchus
-amblystegite
 amblosis
 amblotic
 anorthoclase
@@ -19147,6 +19146,7 @@ anticonformity
 archrogue
 archruler
 astrologer
+amblystegite
 archsacrificator
 archsacrificer
 archsaint
