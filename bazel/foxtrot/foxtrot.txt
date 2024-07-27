@@ -4034,7 +4034,6 @@ fyrd
 fortyfold
 furazane
 fowage
-facks
 fireback
 fireball
 fireballs
@@ -6175,6 +6174,7 @@ flowoff
 flu
 finalize
 foreladies
+facks
 fluavile
 fecundates
 flubbed
