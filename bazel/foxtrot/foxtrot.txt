@@ -6674,6 +6674,7 @@ focused
 focusless
 filling
 floorings
+fortier
 furnacite
 focussed
 fluminose
@@ -9457,7 +9458,6 @@ flavours
 frenetical
 fraternised
 friendlessness
-fortier
 fraternity
 forbiddenness
 farmhands
