@@ -2761,7 +2761,6 @@ arcature
 acquires
 abreuvoir
 acquisible
-acousmas
 acquisite
 acquisited
 auriculare
@@ -11088,6 +11087,7 @@ amphicarpaea
 agmatine
 amphicarpia
 amphicarpic
+acousmas
 amphicarpogenous
 amphicarpous
 amphicarpus
