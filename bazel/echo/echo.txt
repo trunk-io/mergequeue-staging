@@ -3632,7 +3632,6 @@ escribientes
 embreathe
 embrica
 embryectomy
-embryectomies
 embright
 embrighten
 elihu
@@ -6720,6 +6719,7 @@ enthetic
 eulogise
 emancipates
 enthuses
+embryectomies
 endorsors
 enthymematic
 exosporium
