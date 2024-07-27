@@ -3455,7 +3455,6 @@ defunction
 deformation
 deformational
 deformed
-deformedly
 deformer
 deformeter
 deforming
@@ -7103,6 +7102,7 @@ destroyer
 dyslexic
 deul
 destroys
+deformedly
 domesticable
 dissyllabized
 destruct
