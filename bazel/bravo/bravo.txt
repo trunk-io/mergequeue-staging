@@ -2180,7 +2180,6 @@ bannerole
 bannerols
 bannet
 bryozoan
-brusher
 bannets
 backdoor
 bannition
@@ -3748,6 +3747,7 @@ battological
 battologise
 battologising
 battologize
+brusher
 backie
 battologized
 batton
