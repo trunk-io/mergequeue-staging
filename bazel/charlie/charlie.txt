@@ -9047,7 +9047,6 @@ cougar
 chariot
 compotator
 charioted
-chariotee
 charioteer
 charioteers
 circovarian
@@ -16196,6 +16195,7 @@ cliffside
 cliffweed
 clift
 ceriph
+chariotee
 coaptation
 cornhouse
 clifty

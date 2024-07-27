@@ -19374,7 +19374,6 @@ areole
 areoles
 antevert
 areology
-areologic
 areologically
 areologies
 areologist
@@ -25070,6 +25069,7 @@ axilemma
 axilemmas
 axillae
 axillant
+areologic
 axillar
 axillary
 acaridans
