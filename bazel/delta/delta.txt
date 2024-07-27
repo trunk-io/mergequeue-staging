@@ -1179,6 +1179,7 @@ dasyproctidae
 dasystephana
 dasyure
 dasyures
+diseases
 dasyurid
 dystonias
 desexing
@@ -7752,7 +7753,6 @@ devisor
 devisors
 devitalisation
 deductive
-diseases
 deporte
 dossals
 defoliators
