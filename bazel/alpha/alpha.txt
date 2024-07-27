@@ -895,7 +895,6 @@ abruptest
 abruption
 abruptiones
 abruptly
-actionize
 abrus
 abstruse
 ambisextrous
@@ -9199,6 +9198,7 @@ alodies
 amphicarpium
 anteaters
 arenation
+actionize
 adjutants
 alodium
 almehs
