@@ -11537,7 +11537,6 @@ choiler
 choir
 choirboy
 choirboys
-choired
 choirgirl
 choirlike
 choirman
@@ -17632,6 +17631,7 @@ coccigenic
 contg
 coccyges
 coccygeus
+choired
 coenaculous
 cyclocoelic
 coccygine
