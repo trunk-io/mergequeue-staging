@@ -5682,6 +5682,7 @@ fourble
 fliting
 fishnet
 futharks
+folkfree
 flytrap
 flytraps
 fibrocyst
@@ -6888,7 +6889,6 @@ flowmanostat
 folious
 foliums
 folk
-folkfree
 fascistically
 folkishness
 folklores
