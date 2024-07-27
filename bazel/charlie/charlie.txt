@@ -4289,7 +4289,6 @@ caryocar
 caryocaraceae
 caryocaraceous
 cariocas
-cariole
 carioles
 carioling
 caryophyllaceous
@@ -23659,6 +23658,7 @@ continually
 continuance
 continuances
 continuancy
+cariole
 continuando
 continuantly
 continuately
