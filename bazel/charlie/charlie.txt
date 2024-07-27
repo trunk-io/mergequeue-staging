@@ -15012,7 +15012,6 @@ cytopyge
 cytoplasm
 cytoplasmic
 cytoplast
-cytoproct
 cytoryctes
 cytosine
 cytosines
@@ -19211,6 +19210,7 @@ collocating
 calorimetrical
 chlorinators
 collocationable
+cytoproct
 collocational
 collocations
 collocative

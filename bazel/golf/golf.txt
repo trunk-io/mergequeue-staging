@@ -2192,7 +2192,6 @@ geared
 gearing
 gearings
 gasterotricha
-goladar
 gears
 gearset
 gearshift
@@ -7441,6 +7440,7 @@ gargle
 goujon
 gesellschaften
 goularo
+goladar
 goulash
 goulashes
 gouldian
