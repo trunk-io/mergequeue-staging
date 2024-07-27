@@ -9964,7 +9964,6 @@ befetter
 biwa
 byways
 bywalk
-byward
 bespy
 beckie
 biweeklies
@@ -13881,6 +13880,7 @@ bracers
 bazoos
 brach
 bolters
+byward
 brachelytra
 brachering
 braches
