@@ -2820,6 +2820,7 @@ faroese
 fortuitist
 fulmar
 feudatary
+friend
 feudatory
 filtrating
 feudee
@@ -8483,7 +8484,6 @@ formulated
 fanfaronading
 feedy
 falsehearted
-friend
 forgainst
 fluigramme
 formulator
