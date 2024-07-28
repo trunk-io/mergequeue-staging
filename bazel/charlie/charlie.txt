@@ -11955,6 +11955,7 @@ chorda
 corporale
 cedrate
 cubby
+corresol
 chordacentrous
 chordacentrum
 chordaceous
@@ -29305,7 +29306,6 @@ completing
 cryptanalysis
 countersun
 cryptanalytically
-corresol
 cryptanalytics
 colorimetry
 cryptanalyzed
