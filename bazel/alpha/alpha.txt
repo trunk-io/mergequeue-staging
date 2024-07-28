@@ -4818,6 +4818,7 @@ affliction
 alkyds
 antiaesthetic
 autotoxicity
+automats
 aeluroid
 aeluroidea
 aelurophobe
@@ -24245,7 +24246,6 @@ automatonlike
 automatonta
 aviators
 automatous
-automats
 automechanism
 automelon
 autometry
