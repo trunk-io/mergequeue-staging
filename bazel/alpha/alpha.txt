@@ -5249,6 +5249,7 @@ anemometry
 algebraic
 aface
 afaced
+alevin
 afacing
 afaint
 afb
@@ -7949,7 +7950,6 @@ antiproductionist
 aleutians
 aleutic
 aleutite
-alevin
 agueproof
 alewife
 alewives
