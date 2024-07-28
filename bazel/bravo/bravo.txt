@@ -8153,6 +8153,7 @@ biennia
 biennial
 bests
 beerocracy
+bucklers
 biennials
 biennium
 bienniums
@@ -12859,7 +12860,6 @@ boldfaces
 borazons
 borboridae
 borborygmi
-bucklers
 borborygmies
 borborygmus
 blockaded
