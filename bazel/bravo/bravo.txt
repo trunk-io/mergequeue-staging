@@ -2910,7 +2910,6 @@ bletting
 butyrochloral
 barrack
 bluntie
-barracked
 barracker
 barracking
 barraclade
@@ -3194,6 +3193,7 @@ basic
 browner
 bercelet
 basicerite
+barracked
 biotrons
 basichromatinic
 basicity
