@@ -1391,6 +1391,7 @@ filterable
 fibrilliform
 frogmouth
 fieldstrip
+fireplow
 fatigate
 fructus
 fourteener
@@ -4143,7 +4144,6 @@ fulmicotton
 facultied
 forfaulture
 frixion
-fireplow
 funded
 fireplug
 fittily
