@@ -3714,7 +3714,6 @@ ariste
 adenoiditis
 adenolymphoma
 adenolipoma
-antiwedge
 attemperation
 adenolipomatosis
 adenologaditis
@@ -15516,6 +15515,7 @@ antilochus
 antiloemic
 antilog
 allocatee
+antiwedge
 antilogarithmic
 antilogarithms
 antilogy
