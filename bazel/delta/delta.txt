@@ -5808,7 +5808,6 @@ depolymerize
 depolymerized
 dethroned
 distributive
-depolish
 depiction
 dragomanate
 depolishing
@@ -12313,6 +12312,7 @@ disgrade
 disgenius
 debruised
 diced
+depolish
 disgrading
 disgradulate
 disgregate
