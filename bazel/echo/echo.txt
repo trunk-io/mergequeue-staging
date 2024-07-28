@@ -1585,7 +1585,6 @@ egis
 excruciation
 eglandular
 electrosensitive
-eglandulose
 eglantine
 eglantines
 epifaunal
@@ -10038,6 +10037,7 @@ estoc
 estocada
 exude
 endothermically
+eglandulose
 elevational
 estolide
 estonia
