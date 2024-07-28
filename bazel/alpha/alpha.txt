@@ -1074,7 +1074,6 @@ absorpt
 absorptance
 absorptiometer
 absorptiometric
-angiospasm
 absorption
 absorptions
 absorptive
@@ -11057,6 +11056,7 @@ amphibian
 amphiphloic
 azyme
 amphibichnite
+angiospasm
 amphibiety
 amphibiology
 amphibiological

@@ -12885,7 +12885,6 @@ bordereaux
 bordered
 booklet
 borderer
-borderers
 bordering
 borderings
 borderlander
@@ -16882,6 +16881,7 @@ bulb
 bulbaceous
 bulbar
 bulbed
+borderers
 bulbel
 bulbier
 behaviorism
