@@ -41,7 +41,6 @@ gabion
 goatbush
 ganister
 gruels
-gabionage
 gabioned
 gabions
 graecism
@@ -4921,6 +4920,7 @@ grumping
 gyrophoraceous
 gulleries
 gritting
+gabionage
 gastroparesis
 gyropigeon
 gyroplane
