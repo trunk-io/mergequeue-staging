@@ -2164,6 +2164,7 @@ ecardines
 elatine
 elating
 elation
+enable
 elative
 elator
 enmist
@@ -9083,7 +9084,6 @@ echeneidid
 erythraean
 erythraeidae
 energetic
-enable
 electro
 erythrean
 erythremia
