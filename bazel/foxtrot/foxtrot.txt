@@ -5673,7 +5673,6 @@ faire
 fourble
 fliting
 fishnet
-futharks
 folkfree
 flytrap
 flytraps
@@ -7350,6 +7349,7 @@ foolishness
 flusterated
 flagellums
 forbidding
+futharks
 forbysen
 fewtrils
 flammulated
