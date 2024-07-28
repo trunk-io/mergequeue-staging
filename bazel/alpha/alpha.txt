@@ -17329,7 +17329,6 @@ apophyllous
 apophysary
 apophysate
 apophyseal
-apophysis
 apophysitis
 apophlegm
 apophlegmatic
@@ -19588,6 +19587,7 @@ argosy
 archenemy
 argosies
 argosine
+apophysis
 associations
 argot
 anisophylly
