@@ -3534,7 +3534,6 @@ degasses
 degassing
 degaussing
 deemsters
-deluder
 dollardom
 degelatinize
 degender
@@ -15662,6 +15661,7 @@ disables
 degum
 doors
 decomposure
+deluder
 doorsills
 doorstead
 datemark
