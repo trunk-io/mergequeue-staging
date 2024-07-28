@@ -4748,7 +4748,6 @@ guardhouses
 gunrack
 gynostemiumia
 gypsophilous
-gypsum
 gamelang
 grilling
 gypsums
@@ -10071,6 +10070,7 @@ guerdonless
 gnathopodite
 ganef
 guereba
+gypsum
 gillies
 guidecraft
 gutlessness
