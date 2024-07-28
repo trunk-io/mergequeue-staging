@@ -2492,7 +2492,6 @@ ferric
 fopperly
 familistery
 ferricyanic
-ferricyanide
 folletage
 ferrier
 ferison
@@ -7300,6 +7299,7 @@ foraminule
 foraminulose
 forams
 flirtations
+ferricyanide
 flagellants
 filletster
 foraramens
