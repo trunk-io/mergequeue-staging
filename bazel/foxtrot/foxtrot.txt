@@ -6940,6 +6940,7 @@ formalizer
 fireproofed
 folktale
 folktales
+foothot
 fatting
 foll
 folles
@@ -7130,7 +7131,6 @@ faithing
 flatcap
 footholds
 festinating
-foothot
 fleshier
 fibrilla
 fissuration
