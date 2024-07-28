@@ -11540,7 +11540,6 @@ boarishness
 boars
 bout
 beleaguer
-boarship
 boarskin
 boarspear
 boarstaff
@@ -13594,6 +13593,7 @@ banqueteer
 bugre
 bouteloua
 blowby
+boarship
 baseliner
 bouteria
 bouteselle
