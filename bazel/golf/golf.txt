@@ -1699,7 +1699,6 @@ goosecap
 gastroblennorrhea
 gastrocele
 gastrochaenidae
-gastrocystic
 gastrocnemii
 glochis
 galany
@@ -6020,6 +6019,7 @@ geldability
 graywacke
 greatened
 getid
+gastrocystic
 gangliar
 glossohyal
 glossokinesthetic
