@@ -1836,7 +1836,6 @@ everywhere
 epileptology
 eyestrain
 eyestring
-empyreumata
 eyeteeth
 eyetooth
 elaphurus
@@ -9161,6 +9160,7 @@ enterocyst
 erythrosin
 eyess
 erythrosine
+empyreumata
 erythrosinophile
 elaeoblast
 eugenics
