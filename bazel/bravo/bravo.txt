@@ -5704,6 +5704,7 @@ bunyan
 bibliomancy
 bellarmine
 bellatrix
+briarean
 bellbind
 burnt
 bellbinder
@@ -15075,7 +15076,6 @@ briard
 backdrop
 briards
 bandeng
-briarean
 blemisher
 berreaving
 berengarianism
