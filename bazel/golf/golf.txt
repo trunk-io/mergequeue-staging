@@ -4597,7 +4597,6 @@ gambols
 grenado
 gibbar
 gallantness
-gentiopicrin
 garrotes
 ginmill
 gaonic
@@ -7221,6 +7220,7 @@ galleylike
 glyptographer
 gorals
 glazes
+gentiopicrin
 gemmiest
 governable
 glooming
