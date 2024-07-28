@@ -1065,6 +1065,7 @@ five
 farmership
 foreorder
 forthinking
+forestery
 farmyard
 fluffed
 factitive
@@ -6803,7 +6804,6 @@ fermail
 forehood
 folate
 folcgemot
-forestery
 farcist
 founding
 fevers
