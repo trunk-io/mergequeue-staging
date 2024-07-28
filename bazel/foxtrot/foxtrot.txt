@@ -1005,7 +1005,6 @@ farfetched
 frontalis
 fargite
 fill
-fargood
 farhand
 farhands
 frisker
@@ -11669,6 +11668,7 @@ fusulas
 fanout
 forerevelation
 fluohydric
+fargood
 founte
 flying
 filicologist
