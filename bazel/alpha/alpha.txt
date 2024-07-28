@@ -14514,7 +14514,6 @@ anthracnosis
 anthracocide
 amplifiable
 anthracoid
-anthracolithic
 anthracomancy
 anthracomarti
 agricole
@@ -24661,6 +24660,7 @@ average
 averaged
 averageness
 angle
+anthracolithic
 amole
 averages
 antiradical
