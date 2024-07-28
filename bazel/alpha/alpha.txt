@@ -7611,6 +7611,7 @@ alces
 alcestis
 alchemy
 alchemic
+aloft
 alchemical
 ameerates
 alchemies
@@ -14566,7 +14567,6 @@ anthrop
 anthrophore
 aloofness
 anthropical
-aloft
 anthropidae
 anthropobiology
 anthropocentric
