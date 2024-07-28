@@ -4298,6 +4298,7 @@ fulgurous
 fishability
 fishback
 forded
+forming
 floodgate
 flatware
 flannel
@@ -8448,7 +8449,6 @@ formin
 freeholds
 fixtures
 foretellableness
-forming
 flicker
 formless
 flutework
