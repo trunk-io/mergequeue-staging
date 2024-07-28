@@ -228,7 +228,6 @@ gainers
 garnetz
 gainfulness
 gainyield
-gripgrass
 gaining
 ghoul
 gainlier
@@ -3205,6 +3204,7 @@ guestless
 geomagnetism
 gurdwara
 gladiola
+gripgrass
 geomaly
 geomalism
 gau
