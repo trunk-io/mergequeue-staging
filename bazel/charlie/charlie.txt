@@ -930,7 +930,6 @@ calamines
 calamintha
 calamistral
 calamistrate
-colpus
 calamistrum
 calamite
 calamitean
@@ -17921,6 +17920,7 @@ codiaeum
 codical
 codices
 crumbum
+colpus
 codicil
 caramoussal
 codicilic
