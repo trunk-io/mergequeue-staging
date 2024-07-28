@@ -2368,7 +2368,6 @@ electrodepositor
 electrodes
 enweaved
 empirical
-effacer
 electrodesiccation
 ettling
 electrodiagnostic
@@ -6764,6 +6763,7 @@ enticeable
 enticed
 enticeful
 electrocardiogram
+effacer
 enticements
 envoyship
 enticer
