@@ -3908,7 +3908,6 @@ emirship
 escheat
 equinovarus
 emissary
-eremitical
 emissaries
 emissarium
 eels
@@ -5742,6 +5741,7 @@ engoue
 engouee
 electroamalgamation
 excrements
+eremitical
 epistroma
 embladder
 embargos
