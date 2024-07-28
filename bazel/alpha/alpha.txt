@@ -20137,7 +20137,6 @@ aesthesia
 angina
 aromatitae
 aromatite
-aromatites
 aromatize
 aromatized
 aromatizer
@@ -23872,6 +23871,7 @@ announceable
 authorization
 authorizations
 antihemolytic
+aromatites
 authorize
 aleppo
 auxeses
