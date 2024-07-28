@@ -10048,6 +10048,7 @@ chenet
 cylinderlike
 chenfish
 cheng
+claspt
 chengal
 chenica
 chenille
@@ -15657,7 +15658,6 @@ clasper
 claspers
 clasping
 confections
-claspt
 classable
 classbook
 classer
