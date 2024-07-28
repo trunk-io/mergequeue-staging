@@ -5670,7 +5670,6 @@ greenwing
 glyoxime
 gummic
 glyph
-glyphic
 gynaeocracy
 glyphographic
 gangwayman
@@ -7181,6 +7180,7 @@ gooseflower
 goosefoot
 gubernance
 goosefoots
+glyphic
 gynecidal
 gaincome
 gunlayer
