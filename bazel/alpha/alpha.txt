@@ -4666,6 +4666,7 @@ advertizable
 advertizement
 advertizer
 autocatharsis
+amchoor
 advertizes
 advisability
 advisableness
@@ -10176,7 +10177,6 @@ ambushers
 autotomize
 ambustion
 arcuate
-amchoor
 amdahl
 amdt
 aphra
