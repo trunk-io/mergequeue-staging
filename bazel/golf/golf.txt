@@ -3116,7 +3116,6 @@ geodiferous
 geodynamic
 geodynamical
 gout
-gelidium
 gombroon
 geoducks
 geoemtry
@@ -6743,6 +6742,7 @@ gingelis
 goldi
 gouvernantes
 gliadine
+gelidium
 grotesqueness
 gasolier
 grads
