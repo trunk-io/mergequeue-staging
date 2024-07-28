@@ -2181,6 +2181,7 @@ canalage
 canalatura
 canalboat
 commissionership
+characterstring
 canale
 canaler
 canales
@@ -8966,7 +8967,6 @@ characterological
 characterologically
 characters
 ceraunomancy
-characterstring
 colometric
 charades
 charadrii
