@@ -5239,7 +5239,6 @@ fleabugs
 fleahopper
 fleak
 frameless
-fleam
 falcated
 flear
 foments
@@ -11363,6 +11362,7 @@ fatbacks
 frankish
 forebode
 furfuryl
+fleam
 furfurylidene
 floppily
 fished
