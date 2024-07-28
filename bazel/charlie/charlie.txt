@@ -4466,7 +4466,6 @@ carnivore
 carnivores
 coagulase
 carnivority
-carnivorous
 cricothyroidean
 carnivorousness
 carnose
@@ -12166,6 +12165,7 @@ chosen
 corynebacteria
 choses
 chott
+carnivorous
 chotts
 chou
 chouan
