@@ -16407,6 +16407,7 @@ downsizes
 downslide
 downsliding
 downslip
+deteriorator
 downslope
 downsome
 downfold
@@ -18312,7 +18313,6 @@ duodenogram
 duodenojejunal
 duodenojejunostomies
 difda
-deteriorator
 dinnery
 duodenotomy
 duodenums
