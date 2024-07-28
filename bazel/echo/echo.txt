@@ -4932,6 +4932,7 @@ enddamaging
 endear
 effector
 emblazonments
+enwraps
 endearance
 endearedly
 endearing
@@ -7211,7 +7212,6 @@ enwrapment
 enwrapped
 embattled
 enwrapping
-enwraps
 enhaloes
 ensorceled
 enwreath
