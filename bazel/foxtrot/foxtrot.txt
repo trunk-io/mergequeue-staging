@@ -11443,6 +11443,7 @@ furnishes
 furnishing
 feebler
 frogeyes
+froggery
 flatfish
 fenestellid
 furnishings
@@ -11499,7 +11500,6 @@ furstone
 finableness
 flirt
 faunistic
-froggery
 flutings
 fibromata
 furthering
