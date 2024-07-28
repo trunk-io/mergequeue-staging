@@ -2103,7 +2103,6 @@ campodean
 campodeid
 campodeidae
 campodeoid
-chelatable
 counterstatant
 campongs
 camponotus
@@ -31029,6 +31028,7 @@ commentation
 cunctatury
 cunctipotent
 cund
+chelatable
 cundeamor
 cundy
 cundite
