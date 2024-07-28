@@ -2306,6 +2306,7 @@ flies
 foederati
 feoffing
 fallibilism
+flagworm
 fetlow
 feoffor
 feoffs
@@ -4865,7 +4866,6 @@ feticides
 fluent
 flamineous
 flamingoes
-flagworm
 firkin
 fantaseid
 fishy
