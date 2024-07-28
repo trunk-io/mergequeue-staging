@@ -2135,7 +2135,6 @@ coamings
 camshafts
 chloroid
 camstane
-camsteary
 camstone
 camstrary
 chucker
@@ -26315,6 +26314,7 @@ costicervical
 costiferous
 costiform
 collarets
+camsteary
 costious
 costipulator
 covassal
