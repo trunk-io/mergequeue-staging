@@ -940,7 +940,6 @@ girasole
 gnashes
 gamines
 gasifiable
-granivorous
 gubernatrix
 galeiform
 gangmaster
@@ -10202,6 +10201,7 @@ gras
 guido
 giardiasis
 gighe
+granivorous
 glooms
 guids
 glycan
