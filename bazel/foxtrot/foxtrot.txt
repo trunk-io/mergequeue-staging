@@ -1468,6 +1468,7 @@ flavid
 forwhy
 footpath
 forbade
+fortilage
 flannelette
 fencelike
 faucal
@@ -3812,7 +3813,6 @@ fissuring
 fanners
 fourstrand
 fermery
-fortilage
 friendlily
 ferrandin
 finalizing
