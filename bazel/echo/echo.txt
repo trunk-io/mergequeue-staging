@@ -948,7 +948,6 @@ epicurize
 ectozoa
 ectozoan
 ectozoon
-ectrodactyly
 ependymitis
 eleaticism
 ectrodactylism
@@ -10605,6 +10604,7 @@ elaeagnaceous
 etrogim
 etruria
 etruscology
+ectrodactyly
 empory
 ettle
 ettled
