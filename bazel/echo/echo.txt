@@ -2335,7 +2335,6 @@ enterochromaffin
 electrochronometric
 electrocontractility
 electroconvulsive
-eclipsed
 emeus
 electrocratic
 electroculture
@@ -5444,6 +5443,7 @@ enemas
 enemata
 enemied
 enemies
+eclipsed
 estancieros
 eburnification
 enemying

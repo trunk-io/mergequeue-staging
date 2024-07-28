@@ -4159,7 +4159,6 @@ gentlehearted
 graybearded
 glaucic
 glitzy
-greenhorn
 giglots
 gygis
 gecking
@@ -4758,6 +4757,7 @@ gamelang
 grilling
 gypsums
 genevois
+greenhorn
 gatchwork
 greatest
 giraffa
