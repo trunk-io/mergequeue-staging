@@ -42,7 +42,6 @@ gabion
 goatbush
 ganister
 gruels
-gabioned
 gabions
 graecism
 gable
@@ -4598,6 +4597,7 @@ gentiopicrin
 garrotes
 ginmill
 gaonic
+gabioned
 glinting
 gorce
 goldbricks
