@@ -2092,7 +2092,6 @@ acetylbenzoic
 alternariose
 acetylbiuret
 acetylcarbazole
-acetylcellulose
 acetylcholine
 acetylcholinesterase
 atmogenic
@@ -5338,6 +5337,7 @@ annotated
 affeir
 affenpinscher
 affenspalte
+acetylcellulose
 affere
 afferent
 affettuoso
