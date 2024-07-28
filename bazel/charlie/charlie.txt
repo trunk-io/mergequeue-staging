@@ -9990,6 +9990,7 @@ chemostat
 chemosterilants
 chemosurgery
 chemosurgical
+cubitus
 constantinople
 chemotactically
 chemotaxy
@@ -30532,7 +30533,6 @@ cytozoa
 cubitometacarpal
 cubitoplantar
 cubitoradial
-cubitus
 cubla
 cyclograph
 cubmaster
