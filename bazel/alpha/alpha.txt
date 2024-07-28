@@ -2237,7 +2237,6 @@ acharne
 achate
 achatina
 anthraceniferous
-aseismicity
 antitraditional
 achatinidae
 anaesthesia
@@ -14149,6 +14148,7 @@ anteceded
 antecedency
 antecedental
 antecedes
+aseismicity
 adrenalectomies
 antispermotoxin
 antecell
