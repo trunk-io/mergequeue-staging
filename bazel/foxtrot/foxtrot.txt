@@ -7799,6 +7799,7 @@ flippers
 forepart
 forepaw
 freshen
+fentanyl
 fragmentariness
 frailties
 fireworks
@@ -9516,7 +9517,6 @@ frog
 frazzled
 flatten
 freakdom
-fentanyl
 freaked
 forecastle
 forelay
