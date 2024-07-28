@@ -7997,7 +7997,6 @@ alkoxid
 alferes
 alfet
 aluminiferous
-alfilaria
 antholysis
 alcoholometer
 alfilerilla
@@ -18533,6 +18532,7 @@ arborescence
 arborescently
 arboret
 arboreta
+alfilaria
 arboretums
 auh
 arbory
