@@ -696,7 +696,6 @@ caginesses
 caging
 cagit
 cagmag
-cagn
 cyclicity
 cagot
 cagoule
@@ -14571,6 +14570,7 @@ cirrhus
 citrons
 cirri
 cirriferous
+cagn
 coacted
 cirriform
 cirrigerous
