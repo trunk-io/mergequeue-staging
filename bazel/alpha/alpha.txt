@@ -5980,7 +5980,6 @@ agend
 agendaless
 agendum
 appealable
-anglist
 agene
 agenes
 ageneses
@@ -20076,6 +20075,7 @@ actualistic
 armure
 accede
 arn
+anglist
 achromatinic
 arnatta
 arnattos
