@@ -8239,7 +8239,6 @@ chairladies
 curin
 choosy
 collectivum
-chairless
 chairlift
 chairmaking
 chairman
@@ -10156,6 +10155,7 @@ cherubin
 cherublike
 chervante
 chervil
+chairless
 chervonets
 chervonetz
 chervontsi
