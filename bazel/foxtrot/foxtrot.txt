@@ -1263,7 +1263,6 @@ fastener
 fastening
 fondest
 fishhouse
-fastgoing
 farnovian
 feudaries
 fastidiosity
@@ -7806,6 +7805,7 @@ fireworks
 forepeak
 forepeaks
 finales
+fastgoing
 foreplays
 foreplan
 flavanilin
