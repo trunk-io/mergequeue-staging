@@ -11230,7 +11230,6 @@ blowiron
 blowlamp
 blown
 bookrack
-begettal
 ballow
 berglet
 boychicks
@@ -17974,6 +17973,7 @@ bushlet
 bushmaker
 bushmaking
 bootlessness
+begettal
 bushman
 bushmen
 bekilted
