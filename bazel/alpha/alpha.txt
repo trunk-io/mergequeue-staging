@@ -2519,7 +2519,6 @@ acyloins
 acyloxymethane
 acyls
 acinaceous
-acinaces
 acinacifoliate
 acinacifolious
 acinaciform
@@ -7165,6 +7164,7 @@ akoasm
 akolouthia
 akonge
 akontae
+acinaces
 akoulalion
 aphetism
 akpek
