@@ -4356,7 +4356,6 @@ eg
 enamorado
 enamorate
 enigmatized
-enamorato
 enamoring
 embryonated
 expropriate
@@ -13331,6 +13330,7 @@ expostulate
 expostulates
 electroencephalographically
 expostulating
+enamorato
 electrobiology
 expostulation
 expostulations
