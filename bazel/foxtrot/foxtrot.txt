@@ -1545,7 +1545,6 @@ faured
 fause
 faussebraie
 faussebrayed
-faust
 fauster
 faustian
 faute
@@ -6949,6 +6948,7 @@ folles
 follicle
 follicular
 folliculate
+faust
 fedity
 fibrousness
 fundatrices
