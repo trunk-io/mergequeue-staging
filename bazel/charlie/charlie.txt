@@ -9168,6 +9168,7 @@ charquid
 charquis
 charr
 charras
+cassy
 charre
 cephalagra
 charred
@@ -20929,7 +20930,6 @@ comports
 compos
 connexity
 compose
-cassy
 composed
 cobras
 croupily
