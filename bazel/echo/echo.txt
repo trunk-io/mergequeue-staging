@@ -3438,7 +3438,6 @@ emery
 embolisms
 epiphegus
 electrotrephine
-emolumental
 emblazons
 emblem
 emblematic
@@ -12757,6 +12756,7 @@ exopod
 exopoditic
 exopterygote
 exopterygotism
+emolumental
 evocated
 exorable
 elytroptosis
