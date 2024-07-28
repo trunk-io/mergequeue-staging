@@ -6591,7 +6591,6 @@ escarped
 emanative
 episporangium
 etiotropically
-extractant
 echo
 espaliering
 erk
@@ -14157,6 +14156,7 @@ exhumated
 excalfaction
 exulcerative
 energizing
+extractant
 exultance
 exultancy
 excandescence
