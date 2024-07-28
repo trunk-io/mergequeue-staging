@@ -1074,6 +1074,7 @@ absorpt
 absorptance
 absorptiometer
 absorptiometric
+anopla
 angiospasm
 absorption
 absorptions
@@ -13875,7 +13876,6 @@ ataxiaphasia
 anopisthograph
 anthroponomical
 anopisthographic
-anopla
 acuation
 antiepicenter
 anoplonemertean
