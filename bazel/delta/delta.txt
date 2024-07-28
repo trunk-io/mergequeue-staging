@@ -5787,7 +5787,6 @@ deploredly
 deploredness
 deplorer
 dadoed
-deploring
 deplumate
 deplumation
 deplume
@@ -8819,6 +8818,7 @@ diau
 diauli
 diaulic
 dinkly
+deploring
 diaulos
 diavolo
 diaxon
