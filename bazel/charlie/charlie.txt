@@ -3157,7 +3157,6 @@ cucujid
 caplet
 crystalligerous
 capling
-caplins
 caplock
 capmaker
 cordmaker
@@ -15625,6 +15624,7 @@ carnifexes
 clarseach
 carson
 clarsech
+caplins
 claimer
 conclavist
 clarseth

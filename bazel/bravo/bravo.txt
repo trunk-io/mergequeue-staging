@@ -2797,7 +2797,6 @@ beelzebub
 baromotor
 baronage
 biting
-bespangled
 baronages
 baronduki
 baroness
@@ -14260,6 +14259,7 @@ bordrage
 braies
 broadacre
 brayette
+bespangled
 braying
 barcelonas
 brailed
