@@ -441,7 +441,6 @@ guts
 garbs
 galeorhinus
 galeproof
-gula
 garcons
 galere
 gobbled
@@ -2070,6 +2069,7 @@ gaviiformes
 gavot
 gape
 grump
+gula
 gumbolike
 ganglioblast
 grandsire
