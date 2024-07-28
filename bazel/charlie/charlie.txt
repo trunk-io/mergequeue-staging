@@ -5147,6 +5147,7 @@ casks
 caspar
 calantas
 caspian
+contorsive
 cromlech
 casque
 condylura
@@ -23721,7 +23722,6 @@ cees
 contorniates
 contuses
 contorno
-contorsive
 contort
 contorta
 cyclicality
