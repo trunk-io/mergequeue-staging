@@ -6577,7 +6577,6 @@ descrial
 describability
 describable
 describably
-described
 describers
 describes
 describing
@@ -13295,6 +13294,7 @@ disproportionate
 drudgery
 disorientates
 disproportionateness
+described
 dithionic
 detaches
 disproportionation
