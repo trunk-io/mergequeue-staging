@@ -12190,7 +12190,6 @@ drag
 disfavorer
 dixies
 disfavoring
-disfavors
 devoices
 disorganised
 disfavour
@@ -18045,6 +18044,7 @@ dullhead
 dullhearted
 dullify
 dullification
+disfavors
 difluoride
 dulling
 dousers
