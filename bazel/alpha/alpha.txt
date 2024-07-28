@@ -13498,7 +13498,6 @@ anlages
 archeion
 anlases
 anlaut
-anlaute
 alamode
 anlet
 anlia
@@ -13614,6 +13613,7 @@ annoy
 abscoulomb
 annoyance
 ammonifying
+anlaute
 alipin
 annoyancer
 attributal
