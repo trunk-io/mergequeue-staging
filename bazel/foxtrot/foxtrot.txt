@@ -2894,7 +2894,6 @@ feverwort
 few
 finings
 frontpiece
-fenouillette
 fogle
 frogland
 focalising
@@ -6365,6 +6364,7 @@ fluoborid
 fleamy
 firepot
 fob
+fenouillette
 fluocarbonate
 fluocerite
 farl
