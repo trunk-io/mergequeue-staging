@@ -5595,6 +5595,7 @@ glutaraldehyde
 greet
 girlchild
 gomeral
+generalizes
 glees
 gunmetal
 glycosyl
@@ -6473,7 +6474,6 @@ girnie
 gare
 gnotobiologies
 gnotobiosis
-generalizes
 ginep
 gnow
 gnu
