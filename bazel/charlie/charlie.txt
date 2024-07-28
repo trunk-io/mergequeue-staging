@@ -6973,7 +6973,6 @@ cenogenesis
 callant
 cenogenetic
 cenogenetically
-cenogonous
 chemotropic
 cenospecies
 custodiam
@@ -25118,6 +25117,7 @@ cordoban
 cordobas
 celebrities
 cordon
+cenogonous
 cordonazo
 cordoned
 cordons
