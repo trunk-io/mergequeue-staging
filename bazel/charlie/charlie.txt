@@ -10941,7 +10941,6 @@ crisscross
 chionodoxa
 chionophobia
 chiopin
-clavicornes
 chiot
 chiliahedron
 chiotilla
@@ -18199,6 +18198,7 @@ coenzymes
 coequal
 collotype
 coequality
+clavicornes
 coequalize
 coequalness
 coequated
