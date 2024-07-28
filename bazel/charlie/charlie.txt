@@ -23155,7 +23155,6 @@ consonances
 consonancy
 consonant
 consonantal
-consonantalize
 consonantalized
 consonantalizing
 consonantally
@@ -30082,6 +30081,7 @@ crower
 crowers
 crowfeet
 crowfoot
+consonantalize
 crowfoots
 crowhop
 crowhopper
