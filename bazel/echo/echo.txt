@@ -5795,6 +5795,7 @@ engraver
 engraves
 engreaten
 engregge
+enounced
 egremoigne
 embezzlements
 empiry
@@ -6171,7 +6172,6 @@ eyebolt
 enough
 erugatory
 enoughs
-enounced
 exchangeability
 estella
 enouncement
