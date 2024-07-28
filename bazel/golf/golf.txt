@@ -3514,7 +3514,6 @@ glacialize
 germanophile
 guardstone
 germanophobia
-germanophobic
 gigful
 grumblingly
 grids
@@ -5598,6 +5597,7 @@ glees
 gunmetal
 glycosyl
 glycosyls
+germanophobic
 galliot
 gullible
 glycosine
