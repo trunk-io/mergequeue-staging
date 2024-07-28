@@ -4493,7 +4493,6 @@ bimas
 bedabbles
 begrace
 bedabbling
-bedaff
 brended
 bedaggered
 basecoat
@@ -16585,6 +16584,7 @@ buckshee
 buckshot
 bannered
 buckshots
+bedaff
 budger
 buckskin
 buckskinned
