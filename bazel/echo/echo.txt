@@ -6243,6 +6243,7 @@ enregistry
 enrich
 eogaea
 enrichments
+embellisher
 ephebeum
 epsilon
 ephemerid
@@ -13844,7 +13845,6 @@ extraforaneous
 everyway
 ecumene
 extragalactic
-embellisher
 extrahazardous
 evertebral
 encystment
