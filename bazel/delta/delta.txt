@@ -2237,7 +2237,6 @@ decennoval
 decent
 decenter
 decentered
-decentering
 decentness
 decentralisation
 decentralise
@@ -5856,6 +5855,7 @@ deposal
 dezincifying
 depose
 deposed
+decentering
 dissolvative
 deposer
 derry
