@@ -4079,7 +4079,6 @@ floggers
 fireclay
 fimbriatum
 fayence
-fireclays
 filipino
 firecoat
 foresaw
@@ -11427,6 +11426,7 @@ formol
 furnariidae
 furnariides
 furnarius
+fireclays
 friborgh
 furner
 formulizing
