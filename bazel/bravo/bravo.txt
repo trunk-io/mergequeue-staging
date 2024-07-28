@@ -4446,7 +4446,6 @@ becrawled
 becrawling
 branchicolous
 becreep
-boomeranged
 boobyish
 becry
 bleery
@@ -17895,6 +17894,7 @@ benchwork
 burtons
 burtree
 burundi
+boomeranged
 bakersfield
 burushaski
 burut
