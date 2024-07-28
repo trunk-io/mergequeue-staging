@@ -5131,7 +5131,6 @@ casita
 casitas
 cask
 caskanet
-casked
 casket
 casketed
 casketlike
@@ -5937,6 +5936,7 @@ cutheal
 catherine
 cathern
 catamarenan
+casked
 cosigners
 catheterisation
 catheterised
