@@ -3426,6 +3426,7 @@ cara
 carabao
 cioppino
 codefendant
+celature
 carabid
 carabidae
 chirrup
@@ -6664,7 +6665,6 @@ coward
 cabler
 celative
 cathexis
-celature
 cele
 celeb
 celebe
