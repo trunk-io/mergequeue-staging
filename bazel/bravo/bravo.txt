@@ -4112,7 +4112,6 @@ bruiters
 begats
 beata
 beatable
-beatably
 bittersweets
 beltways
 beatee
@@ -5745,6 +5744,7 @@ bared
 bemba
 bossdom
 bellies
+beatably
 belliferous
 bellyflaught
 bellyful
