@@ -1451,7 +1451,6 @@ baobab
 baled
 balefire
 balefires
-baleful
 bronchopneumonia
 balefully
 balefulness
@@ -3646,6 +3645,7 @@ batons
 breadths
 brazier
 batrachian
+baleful
 batrachians
 batrachiate
 breton
