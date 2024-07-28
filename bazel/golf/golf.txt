@@ -1070,7 +1070,6 @@ gadaea
 guesthouses
 ganging
 gefilte
-ganglander
 gangly
 ganglia
 gybed
@@ -6640,6 +6639,7 @@ grimgribber
 glossoplegia
 gise
 greetings
+ganglander
 goggled
 goggler
 gogglers
