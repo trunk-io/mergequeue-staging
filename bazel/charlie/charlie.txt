@@ -27413,7 +27413,6 @@ courtcraft
 cetacean
 courteous
 circumnutation
-courteousness
 chertier
 chloro
 cuprene
@@ -28981,6 +28980,7 @@ cribbers
 cribbiter
 cribbiting
 cribble
+courteousness
 crusile
 cribbling
 cribellum
