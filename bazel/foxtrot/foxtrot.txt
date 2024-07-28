@@ -1840,7 +1840,6 @@ floodplain
 fundless
 fed
 fedayee
-fleme
 fedarie
 feddans
 federal
@@ -8775,6 +8774,7 @@ fratch
 forfeiture
 flaxes
 fossane
+fleme
 fertilisation
 falutin
 falconer
