@@ -15794,7 +15794,6 @@ bromise
 bromism
 bromisms
 bromization
-bromize
 bromized
 baronetize
 bastide
@@ -18219,6 +18218,7 @@ butterbump
 butterbur
 butterbush
 buttercups
+bromize
 bodegones
 butterer
 butterfat
