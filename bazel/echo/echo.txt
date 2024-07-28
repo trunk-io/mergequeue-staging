@@ -2701,7 +2701,6 @@ elemental
 elementalism
 eridanid
 elementally
-epithetize
 emigating
 escorting
 escript
@@ -7333,6 +7332,7 @@ emigrates
 eparchies
 eparchs
 ericius
+epithetize
 extemporalness
 enarbor
 evocators
