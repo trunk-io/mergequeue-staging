@@ -13463,6 +13463,7 @@ ankylophobia
 ankylos
 ankylosaur
 ankylosaurus
+askable
 ankylose
 ankylosing
 ankylostoma
@@ -21291,7 +21292,6 @@ angliae
 availabile
 abhorred
 asyzygetic
-askable
 aligners
 askant
 askapart
