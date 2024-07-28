@@ -3328,7 +3328,6 @@ clarissa
 caririan
 capstans
 capstones
-capsula
 cholangiographic
 capsulae
 capsular
@@ -22641,6 +22640,7 @@ conker
 conkers
 conky
 conking
+capsula
 conks
 conli
 coaevals
