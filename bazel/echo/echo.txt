@@ -12060,7 +12060,6 @@ esterization
 engraved
 empurple
 exclamational
-exclamations
 exclamative
 exclamatory
 exclave
@@ -13104,6 +13103,7 @@ essentia
 embroilments
 extradited
 experimentation
+exclamations
 engrafter
 exchangeably
 experimentations
