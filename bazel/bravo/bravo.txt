@@ -321,7 +321,6 @@ backband
 backbear
 balanorrhagia
 bellows
-backbearing
 bronzier
 backbencher
 backbenchers
@@ -16623,6 +16622,7 @@ bucrane
 backbit
 bucranium
 bud
+backbearing
 buddage
 buddhahood
 buddhaship
