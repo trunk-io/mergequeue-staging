@@ -1961,7 +1961,6 @@ genitives
 galenite
 glucoses
 getters
-gambist
 gainless
 gaulding
 grunting
@@ -4589,6 +4588,7 @@ gyniatry
 gyniatrics
 gyniatries
 gink
+gambist
 galbanums
 garoted
 gametophobia
