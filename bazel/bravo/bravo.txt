@@ -8130,7 +8130,6 @@ bieennia
 byelaws
 beworship
 bielby
-bielbrief
 bieldy
 bielding
 brunoniaceae
@@ -18321,6 +18320,7 @@ buttoning
 buttonless
 brachiotomy
 buttonmold
+bielbrief
 buttonmould
 buttons
 bronzen
