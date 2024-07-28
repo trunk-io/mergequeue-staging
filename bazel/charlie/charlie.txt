@@ -6798,7 +6798,6 @@ celli
 celliferous
 counteroffensive
 celliform
-cellipetal
 cellist
 cellists
 cantilever
@@ -29164,6 +29163,7 @@ cantonize
 cringers
 cringes
 columniferous
+cellipetal
 cringing
 cringingly
 cringles
