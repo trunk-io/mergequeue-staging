@@ -6291,7 +6291,6 @@ bronchographic
 belis
 benzalphthalide
 bahada
-benzamide
 benzamido
 benzamine
 benzaminic
@@ -8228,6 +8227,7 @@ biforked
 birdnester
 biforking
 biformed
+benzamide
 bidented
 berthage
 biformity
