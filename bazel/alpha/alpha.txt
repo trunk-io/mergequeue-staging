@@ -8772,7 +8772,6 @@ allocation
 allocations
 autorotation
 allocator
-allocators
 allocatur
 aoli
 allocheiria
@@ -11830,6 +11829,7 @@ analogous
 analogously
 analogs
 analogue
+allocators
 adjectitious
 aftermarriage
 anopubic
