@@ -10950,7 +10950,6 @@ chipchap
 chipchop
 chipewyan
 chipyard
-chiplet
 chipling
 chipmuck
 chipmunk
@@ -11935,6 +11934,7 @@ cuprums
 choppers
 choppy
 cichoriaceous
+chiplet
 choppier
 choppiest
 counterprogramming
