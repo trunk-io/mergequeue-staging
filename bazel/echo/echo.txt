@@ -2433,7 +2433,6 @@ electrokinetic
 electrokinetics
 electrogalvanization
 excitability
-epistolize
 euge
 elanet
 extensum
@@ -5921,6 +5920,7 @@ ericad
 enjail
 enjamb
 enjambed
+epistolize
 exsiccant
 enjambement
 enjambment
