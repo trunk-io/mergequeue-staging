@@ -1092,6 +1092,7 @@ foremast
 faros
 filmgoer
 flighted
+filament
 farragos
 farcie
 farrand
@@ -9474,7 +9475,6 @@ frau
 fraud
 frauder
 fraudlessness
-filament
 furcate
 fyces
 fauchards
