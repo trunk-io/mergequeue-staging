@@ -1116,6 +1116,7 @@ glamourie
 gez
 grabs
 gangman
+gateless
 gooseweed
 garnets
 gyrocompass
@@ -1887,7 +1888,6 @@ gigget
 gastrostomize
 griphus
 glutinously
-gateless
 gatelike
 gatemen
 graveman
