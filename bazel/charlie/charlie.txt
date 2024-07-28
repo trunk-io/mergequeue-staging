@@ -2915,7 +2915,6 @@ canula
 canulae
 canular
 canulas
-canulated
 canulates
 canulating
 canun
@@ -17009,6 +17008,7 @@ copyright
 carbonnieux
 clumper
 clumpy
+canulated
 clumpiest
 cokers
 clumping
