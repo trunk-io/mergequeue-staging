@@ -1300,6 +1300,7 @@ fuselages
 foreseing
 fornical
 filicin
+filmsetter
 fasts
 faunus
 fatiguability
@@ -3692,7 +3693,6 @@ films
 fascicularly
 filmset
 fluxion
-filmsetter
 filmsetting
 filmstrip
 filmstrips
