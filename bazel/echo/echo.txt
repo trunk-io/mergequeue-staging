@@ -5005,6 +5005,7 @@ electrosynthetic
 eichwaldite
 evens
 endleaf
+eventually
 endleaves
 endless
 endlessly
@@ -11474,7 +11475,6 @@ eventuality
 edematose
 eventualities
 egrets
-eventually
 eventuated
 eventuating
 eunuchize
