@@ -1157,7 +1157,6 @@ fascicule
 foliolate
 fanfarons
 foredescribe
-flattest
 fasciculus
 flangeless
 flauto
@@ -6559,6 +6558,7 @@ fairm
 fautorship
 frouzier
 flutist
+flattest
 floush
 flutists
 functionnaire

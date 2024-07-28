@@ -6547,7 +6547,6 @@ agrostis
 amorosa
 agrostographer
 agrostography
-avantgarde
 antesignanus
 agrostographical
 algesthesis
@@ -20758,6 +20757,7 @@ artifact
 artifactitious
 artifacts
 artifactually
+avantgarde
 artifex
 absampere
 aeschynomene
