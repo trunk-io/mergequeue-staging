@@ -5444,7 +5444,6 @@ flexographic
 flexuoseness
 flexura
 fumy
-flexure
 falsie
 flingy
 fanaticalness
@@ -11571,6 +11570,7 @@ fusilading
 farsi
 fusile
 fusileer
+flexure
 fusiliers
 fusilladed
 fusillading
