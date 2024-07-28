@@ -9091,6 +9091,7 @@ granule
 grind
 grindable
 gracelike
+gripier
 gumihan
 gaggery
 galeeny
@@ -9126,7 +9127,6 @@ gryphons
 gryphosaurus
 gripy
 gorgoneion
-gripier
 gripingly
 gridelin
 glycerolate
