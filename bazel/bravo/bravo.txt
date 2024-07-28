@@ -8806,6 +8806,7 @@ binman
 binmen
 barracks
 binnacle
+bourgeoned
 binnacles
 bitanhol
 binned
@@ -13531,7 +13532,6 @@ bourgeoisitic
 breadlessness
 boules
 bourgeon
-bourgeoned
 babyhouse
 bepuddle
 backwinding
