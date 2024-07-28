@@ -603,7 +603,6 @@ engineman
 echocardiogram
 echoey
 echoencephalography
-echoer
 encrustment
 englutted
 expresser
@@ -11519,6 +11518,7 @@ everyone
 everyplace
 everywhen
 everywhence
+echoer
 everywhereness
 egestion
 everywheres
