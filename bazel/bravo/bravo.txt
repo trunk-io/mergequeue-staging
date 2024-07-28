@@ -7499,7 +7499,6 @@ belt
 bewall
 beware
 bucketer
-bewared
 bemixed
 bosky
 bewash
@@ -17756,6 +17755,7 @@ burma
 burman
 backbites
 burmannia
+bewared
 burmanniaceae
 bedclothes
 burmanniaceous
