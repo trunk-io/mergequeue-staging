@@ -10202,6 +10202,7 @@ amebous
 amebula
 ameed
 ameen
+autogiros
 armamentarium
 ameer
 ameerate
@@ -12502,7 +12503,6 @@ androsphinxes
 androsporangium
 androspore
 aeroides
-autogiros
 alala
 androtomy
 apophorometer
