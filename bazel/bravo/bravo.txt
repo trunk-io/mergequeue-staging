@@ -3731,7 +3731,6 @@ battleships
 battlesome
 battlestead
 beadle
-battlewagon
 battleward
 battlewise
 balita
@@ -4446,6 +4445,7 @@ becrawled
 becrawling
 branchicolous
 becreep
+battlewagon
 boobyish
 becry
 bleery
