@@ -948,6 +948,7 @@ darapti
 deiseal
 darat
 darb
+disowned
 darbha
 darby
 darbs
@@ -12930,7 +12931,6 @@ disorients
 disour
 dismeasured
 disownable
-disowned
 disowning
 disowns
 disoxidate
