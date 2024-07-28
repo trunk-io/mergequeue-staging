@@ -2661,7 +2661,6 @@ amyclaean
 applenut
 araneidal
 aconital
-aconite
 aconites
 aconitia
 aconitin
@@ -23577,6 +23576,7 @@ arteriophlebotomy
 averin
 auricyanhydric
 auricyanic
+aconite
 atpoints
 auricyanide
 auricle
