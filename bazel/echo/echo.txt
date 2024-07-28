@@ -3419,7 +3419,6 @@ embitterer
 embitterments
 embitters
 electromotor
-esd
 exterminator
 emblazed
 elenchical
@@ -9356,6 +9355,7 @@ eruditical
 epigram
 erudition
 elementalist
+esd
 elapoid
 eruditionist
 epimeron
