@@ -1507,7 +1507,6 @@ dibstones
 dolores
 discoid
 dibutyrate
-deadbeat
 deadbeats
 deadborn
 deadcenter
@@ -10907,6 +10906,7 @@ dolphinlike
 directory
 deleting
 dumbwaiter
+deadbeat
 dodging
 directorial
 directorially
