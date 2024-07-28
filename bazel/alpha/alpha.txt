@@ -14930,6 +14930,7 @@ antichamber
 ancress
 anticheater
 att
+archchronicler
 ambiens
 antichymosin
 anthrone
@@ -18719,7 +18720,6 @@ astyllen
 archcheater
 archchemic
 archchief
-archchronicler
 antirennet
 archconfraternity
 archconfraternities
