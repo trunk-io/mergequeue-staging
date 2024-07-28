@@ -142,7 +142,6 @@ dactylozooid
 doubletree
 dermatobia
 dactylus
-dacus
 dada
 dryfist
 dustcoat
@@ -6242,6 +6241,7 @@ derivedly
 deformability
 derivedness
 decapodous
+dacus
 disarticulator
 deriver
 dispensatory
