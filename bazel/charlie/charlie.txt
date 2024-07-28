@@ -14770,7 +14770,6 @@ cystosarcoma
 carabeen
 cystoschisis
 cystoscope
-cystoscopic
 cystoscopies
 confection
 cystose
@@ -16315,6 +16314,7 @@ circumpolygon
 coffeepot
 clinkum
 clinocephaly
+cystoscopic
 consumed
 clinocephalic
 ceration
