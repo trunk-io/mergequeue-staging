@@ -9776,7 +9776,6 @@ cheilanthes
 cheilion
 carinae
 cheilodipteridae
-cheilodipterus
 cheiloplasties
 cheilostomata
 cheilostomatous
@@ -15443,6 +15442,7 @@ clamorsome
 clamour
 chrysochloridae
 clamoured
+cheilodipterus
 clamourer
 clamouring
 clamourous

@@ -3854,7 +3854,6 @@ fine
 fineable
 fineableness
 finebent
-famille
 finecomb
 finedrawing
 fineer
@@ -7345,6 +7344,7 @@ forbidder
 finback
 foolishness
 flusterated
+famille
 flagellums
 forbidding
 futharks
