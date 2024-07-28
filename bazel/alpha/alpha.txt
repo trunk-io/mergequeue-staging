@@ -784,6 +784,7 @@ asinegoes
 azans
 abow
 abox
+artilleries
 abracadabra
 abrachia
 abrachias
@@ -20769,7 +20770,6 @@ artificious
 artily
 artilize
 artiller
-artilleries
 artilleryman
 artillerymen
 agallochum
