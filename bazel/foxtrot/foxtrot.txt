@@ -3455,7 +3455,6 @@ feedlot
 feringhee
 fusilade
 fungicides
-filamentary
 felworts
 filamented
 filamentiferous
@@ -11591,6 +11590,7 @@ fusinist
 floodometer
 fiddlecome
 fusionism
+filamentary
 fluviolacustrine
 frivolity
 fatstocks
