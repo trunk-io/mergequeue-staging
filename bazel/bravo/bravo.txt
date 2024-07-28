@@ -9669,6 +9669,7 @@ bishopscap
 bishopstool
 bisiliac
 bontok
+borrower
 bisilicate
 bisyllabic
 bisyllabism
@@ -13031,7 +13032,6 @@ borrowable
 bulgingly
 batussi
 brodiaea
-borrower
 borrowers
 borrows
 borsch
