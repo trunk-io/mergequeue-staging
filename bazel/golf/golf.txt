@@ -597,7 +597,6 @@ graptolitic
 gynomonoecious
 gallicism
 gunong
-gallicizer
 gallicola
 glassrope
 gobletful
@@ -10113,6 +10112,7 @@ glanced
 giros
 guessers
 gossypin
+gallicizer
 guesses
 guessingly
 gadinine

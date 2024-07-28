@@ -5500,7 +5500,6 @@ cataleptiform
 cataleptoid
 craver
 catalexes
-catalexis
 conveneries
 camomile
 catalina
@@ -11744,6 +11743,7 @@ cholos
 caup
 cholralosed
 choltry
+catalexis
 choluria
 choluteca
 chomp
