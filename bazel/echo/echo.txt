@@ -5173,7 +5173,6 @@ entocuniform
 endopod
 ecliptics
 endometria
-endometriosis
 endometritis
 evolutionally
 elissa
@@ -9590,6 +9589,7 @@ eumoirous
 esculetin
 extremital
 epithelia
+endometriosis
 escutcheons
 escutellate
 eugenesis
