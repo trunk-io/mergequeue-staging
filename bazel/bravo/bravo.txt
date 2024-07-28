@@ -2652,7 +2652,6 @@ bytalks
 baryte
 baritenor
 beauetry
-barites
 barythymia
 barytic
 barytine
@@ -6138,6 +6137,7 @@ brollies
 benempt
 barbless
 boarishly
+barites
 bowstring
 brot
 beneplacity
