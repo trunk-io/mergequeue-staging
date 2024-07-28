@@ -6032,6 +6032,7 @@ embossed
 easels
 enlodgement
 ephorus
+extra
 enlure
 emasculation
 enlute
@@ -13826,7 +13827,6 @@ entogastric
 entomion
 extradoses
 extraduction
-extra
 extradural
 exotospore
 expiry
