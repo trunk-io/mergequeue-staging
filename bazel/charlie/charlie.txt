@@ -3358,7 +3358,6 @@ capsulorrhaphy
 capsulotomy
 captacula
 captain
-captaincy
 captaincies
 captained
 captaining
@@ -22989,6 +22988,7 @@ conservers
 cooeeing
 conserves
 conserving
+captaincy
 collated
 carli
 consy
