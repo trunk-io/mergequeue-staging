@@ -480,6 +480,7 @@ fervors
 falces
 flourisher
 featherers
+fossed
 ferritic
 fanweed
 falciform
@@ -8778,7 +8779,6 @@ fertilisation
 falutin
 falconer
 fossate
-fossed
 fomentation
 fosses
 frappe
