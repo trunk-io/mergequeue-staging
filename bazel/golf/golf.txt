@@ -5795,7 +5795,6 @@ given
 gastrea
 galusha
 glaucolite
-gilravager
 gurish
 grouses
 glaury
@@ -8568,6 +8567,7 @@ gitanemuck
 gravitationally
 ghetti
 globalist
+gilravager
 gossamers
 gastrostege
 gravitic
