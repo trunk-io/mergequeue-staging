@@ -5359,7 +5359,6 @@ epigoneion
 endothelial
 egling
 eyestones
-endotheliolytic
 endothelioma
 endotheliomas
 endotheliomyoma
@@ -12220,6 +12219,7 @@ excurved
 elasmobranchian
 epimorphosis
 excusability
+endotheliolytic
 echeloned
 ency
 excusal
