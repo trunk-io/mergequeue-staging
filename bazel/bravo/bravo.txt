@@ -2105,7 +2105,6 @@ banisher
 banishers
 bowsery
 banishment
-borated
 banister
 banisters
 bradyseismal
@@ -13210,6 +13209,7 @@ botchy
 blepharosynechia
 blurrer
 botchiest
+borated
 botchily
 botchiness
 bairnteem
