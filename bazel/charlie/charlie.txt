@@ -857,7 +857,6 @@ caker
 cakes
 cakette
 cakewalk
-cakewalked
 copulation
 cakewalker
 cakewalking
@@ -8542,6 +8541,7 @@ chamomilla
 chamorro
 chamos
 chamosite
+cakewalked
 chamotte
 champ
 coherence
