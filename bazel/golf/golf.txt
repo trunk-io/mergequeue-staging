@@ -1986,7 +1986,6 @@ gonapophysial
 gaunter
 gauntest
 grimaces
-gaunty
 gauntleted
 gauntleting
 gauntlets
@@ -3317,6 +3316,7 @@ glaiket
 gyrostats
 guiltlessly
 gallophilism
+gaunty
 geoscopy
 gowan
 gloriation
