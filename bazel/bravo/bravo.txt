@@ -2463,7 +2463,6 @@ beja
 boxwork
 barche
 bishoplike
-barcolongo
 barcone
 bituminosis
 barcoo
@@ -10951,6 +10950,7 @@ blockheaded
 burr
 backfields
 blockheadedly
+barcolongo
 blockheadedness
 bertillonage
 blockheadishness
