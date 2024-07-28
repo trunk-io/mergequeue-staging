@@ -2017,7 +2017,6 @@ brachyura
 bandsaw
 bandsawed
 badness
-beguiled
 bandsawn
 bandsman
 bandsmen
@@ -15545,6 +15544,7 @@ brittonic
 braccia
 britts
 britzka
+beguiled
 britzkas
 bryum
 boulimy
