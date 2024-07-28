@@ -9621,6 +9621,7 @@ checksum
 construct
 checksummed
 coffin
+cruisers
 checksumming
 checkup
 checkups
@@ -30210,7 +30211,6 @@ cruety
 cruise
 cocillana
 cruised
-cruisers
 cruiserweight
 cruises
 cruiseway
