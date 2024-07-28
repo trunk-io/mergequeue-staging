@@ -2962,6 +2962,7 @@ beslash
 barrelled
 barrelling
 belong
+bhoosa
 barrelmaking
 ballistics
 barrels
@@ -4450,7 +4451,6 @@ becrime
 bombycilla
 blunderings
 baconism
-bhoosa
 becrimed
 baroreceptor
 brasqued
