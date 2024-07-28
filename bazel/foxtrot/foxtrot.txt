@@ -6784,6 +6784,7 @@ fetterlock
 foyers
 foil
 fancy
+fabricational
 foiling
 fauld
 foin
@@ -7375,7 +7376,6 @@ fun
 forbruise
 foreshadows
 forbs
-fabricational
 formalised
 forcat
 force
