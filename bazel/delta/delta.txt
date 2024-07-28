@@ -8287,6 +8287,7 @@ diadumenus
 dr
 diaereses
 diaeresis
+dibase
 diaeretic
 diaetetae
 deindividuate
@@ -8875,7 +8876,6 @@ diazotizing
 dogmata
 devisees
 dib
-dibase
 dibasicity
 dibatis
 dibber
