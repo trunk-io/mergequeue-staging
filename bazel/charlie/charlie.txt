@@ -1921,6 +1921,7 @@ camises
 camisia
 camisias
 camisole
+convector
 camisoles
 camister
 camize
@@ -9745,7 +9746,6 @@ condensation
 cheesing
 cheet
 cheetah
-convector
 cheeter
 concur
 cheetie
