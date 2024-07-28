@@ -2683,6 +2683,7 @@ elegise
 elegised
 elutriated
 elegises
+expandable
 epigraph
 electrepeter
 enlinkment
@@ -12880,7 +12881,6 @@ erosionally
 exsecant
 exotropism
 expand
-expandable
 expanded
 ephemeromorphic
 encapsulating
