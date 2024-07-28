@@ -533,7 +533,6 @@ blind
 backslash
 backslashes
 backslid
-barroom
 backslide
 bacharach
 backslided
@@ -5359,6 +5358,7 @@ bluegum
 bengali
 beholdable
 beholden
+barroom
 beholdingness
 bronchiolitis
 branchstand
