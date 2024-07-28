@@ -7555,7 +7555,6 @@ equitation
 epicele
 epicenism
 embosks
-epicenity
 epicenter
 epicenters
 emissaria
@@ -11358,6 +11357,7 @@ evanishing
 evanishment
 ethnographies
 evans
+epicenity
 exanthine
 evap
 evaporated
