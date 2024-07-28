@@ -1390,6 +1390,7 @@ flagrante
 filterable
 fibrilliform
 frogmouth
+fieldstrip
 fatigate
 fructus
 fourteener
@@ -5963,7 +5964,6 @@ foundational
 foutre
 floriate
 florican
-fieldstrip
 floricin
 floricomous
 falern
