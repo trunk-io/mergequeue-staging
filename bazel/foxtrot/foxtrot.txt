@@ -6938,7 +6938,6 @@ folktales
 fatting
 foll
 folles
-folly
 follicle
 flattening
 follicular
@@ -7486,6 +7485,7 @@ feezes
 foreboded
 forebodement
 forebody
+folly
 frigage
 fescues
 femoropopliteal

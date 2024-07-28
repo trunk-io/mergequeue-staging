@@ -3435,7 +3435,6 @@ adamastor
 autocephality
 adamellite
 adamhood
-adamic
 adamical
 adamically
 adamine
@@ -22648,6 +22647,7 @@ athyrid
 athyris
 athyrium
 athyroid
+adamic
 athyroidism
 athyrosis
 acroterion
