@@ -8281,6 +8281,7 @@ dialyzers
 diadromous
 dyads
 diadumenus
+dr
 diaereses
 diaeresis
 diaeretic
@@ -16503,7 +16504,6 @@ disminister
 densimetrically
 dimpliest
 dp
-dr
 disboweled
 drabant
 drabbed
