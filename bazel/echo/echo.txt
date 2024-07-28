@@ -6353,6 +6353,7 @@ ecstatic
 enshroud
 ethnicize
 enshrouded
+exporter
 enshrouds
 ensient
 epigrammatically
@@ -13298,7 +13299,6 @@ enation
 exportable
 ecumenacy
 exported
-exporter
 exporters
 emigree
 entireties
