@@ -1574,7 +1574,6 @@ acciaccatura
 acciaccaturas
 archegoniophore
 antifelon
-acciaccature
 accidence
 accidency
 accidencies
@@ -21697,6 +21696,7 @@ assertorically
 asserts
 approvance
 assertum
+acciaccature
 azurous
 asserve
 apparencies
