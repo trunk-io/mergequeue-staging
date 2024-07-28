@@ -4159,7 +4159,6 @@ delimits
 daikers
 delineament
 danelaw
-dualogue
 delineate
 delineated
 delineates
@@ -13522,6 +13521,7 @@ demove
 dex
 dissected
 disseating
+dualogue
 draughthouse
 dissections
 dissector
