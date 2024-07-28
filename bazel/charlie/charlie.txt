@@ -963,7 +963,6 @@ coccolithophoridae
 calanid
 calanque
 calanthe
-calapite
 calappa
 calappidae
 candiru
@@ -12156,6 +12155,7 @@ choruslike
 chorussed
 calibers
 combinatorially
+calapite
 chorusses
 chorussing
 chorwat
