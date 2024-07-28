@@ -4597,7 +4597,6 @@ enchantery
 enchanters
 epineuria
 ejacula
-enchanting
 enchantment
 epicarp
 epicoelia
@@ -9005,6 +9004,7 @@ elaterium
 extensionalism
 ericophyte
 extraditions
+enchanting
 erigenia
 eradicates
 erigeron
