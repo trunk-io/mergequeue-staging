@@ -2543,7 +2543,6 @@ extund
 electrophoric
 ethynyl
 electrophorus
-epidermomycosis
 exes
 electrophotographic
 elaphoglossum
@@ -7943,6 +7942,7 @@ epimanikion
 epimedium
 epimer
 epimerase
+epidermomycosis
 epimeres
 epimeric
 epimeride
