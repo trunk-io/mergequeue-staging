@@ -5441,7 +5441,6 @@ flexura
 fumy
 falsie
 flingy
-fanaticalness
 flyaway
 feelers
 fruiting
@@ -7522,6 +7521,7 @@ forecaster
 foreinclined
 forecasting
 forenames
+fanaticalness
 faujdar
 forecastingly
 fishpound
