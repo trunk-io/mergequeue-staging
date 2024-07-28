@@ -3643,7 +3643,6 @@ adelite
 armenize
 adelocerous
 adelocodonic
-adelomorphous
 adelops
 abreaction
 antimeter
@@ -5405,6 +5404,7 @@ affixment
 acromania
 aspidium
 affixt
+adelomorphous
 affixture
 alymphia
 afflate
