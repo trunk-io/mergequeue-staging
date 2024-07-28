@@ -5061,7 +5061,6 @@ aeromancy
 aeromarine
 aeromechanical
 aeromechanics
-aeromedical
 aeromedicine
 antimasque
 aerometeorograph
@@ -12576,6 +12575,7 @@ anemometrographically
 anemonal
 anemones
 anemonin
+aeromedical
 anemonol
 anemopathy
 astroscopus
