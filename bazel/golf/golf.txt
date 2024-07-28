@@ -2208,7 +2208,6 @@ gearings
 gasterotricha
 gears
 gearset
-gearshift
 gearshifts
 goaltenders
 genethliacally
@@ -4357,6 +4356,7 @@ grimaced
 gliadines
 gymnastic
 gymnastically
+gearshift
 gumdrops
 gryllid
 grottolike
