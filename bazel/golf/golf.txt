@@ -8737,7 +8737,6 @@ giblet
 glossarist
 greenhouse
 greenhouses
-greeny
 greenings
 greenish
 grubbiest
@@ -10567,6 +10566,7 @@ galvanofaradization
 gascoyne
 gunpowderous
 girlie
+greeny
 gunpower
 gracile
 gunreach
