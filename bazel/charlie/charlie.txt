@@ -3792,7 +3792,6 @@ carbureter
 carburetest
 carbureting
 carburetion
-carburetor
 carburetors
 cervicovaginal
 cuffer
@@ -5766,6 +5765,7 @@ certy
 catechisable
 catechisation
 catechise
+carburetor
 catechiser
 catechising
 calipered
