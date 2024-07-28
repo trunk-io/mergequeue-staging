@@ -1970,7 +1970,6 @@ fei
 feif
 fissurella
 ferulic
-fungid
 feigned
 feignedly
 feigner
@@ -11038,6 +11037,7 @@ fumitories
 fummel
 fustier
 forbow
+fungid
 forsteal
 fumous
 forefended
