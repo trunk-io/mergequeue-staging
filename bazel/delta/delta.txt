@@ -4751,7 +4751,6 @@ demob
 dismaying
 demobbed
 demobilisation
-demobilised
 demobilising
 demobilize
 deprecate
@@ -12874,6 +12873,7 @@ disoccluded
 dominae
 deponer
 disoccluding
+demobilised
 drawlink
 disoccupation
 doughface
