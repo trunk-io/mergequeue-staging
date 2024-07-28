@@ -30994,7 +30994,6 @@ chugger
 cumulite
 cumulocirrus
 cumulonimbus
-chelura
 cumulostratus
 cumulous
 conplane
@@ -31122,6 +31121,7 @@ cupola
 cupolaed
 cupolaing
 cupolaman
+chelura
 cupolar
 cupolas
 cotman
