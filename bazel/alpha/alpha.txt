@@ -7086,7 +7086,6 @@ ajax
 ajee
 ajenjo
 ajhar
-ajitter
 ajiva
 ajivas
 ajog
@@ -19333,6 +19332,7 @@ areek
 arefaction
 arblast
 areg
+ajitter
 aregenerative
 areic
 areito
