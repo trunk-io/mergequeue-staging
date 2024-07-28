@@ -3257,7 +3257,6 @@ fungology
 fieldfare
 fidgets
 fidibus
-fidicinal
 fidicula
 finspot
 fidley
@@ -6689,6 +6688,7 @@ firmarius
 foehn
 foehnlike
 forenotice
+fidicinal
 filial
 foretypified
 firker
