@@ -19711,7 +19711,6 @@ aryl
 autodifferentiation
 arylamine
 arylamino
-arylate
 arylating
 ariled
 arillary
@@ -20142,6 +20141,7 @@ aromatous
 aronia
 aroph
 aroras
+arylate
 abash
 androidal
 arose
