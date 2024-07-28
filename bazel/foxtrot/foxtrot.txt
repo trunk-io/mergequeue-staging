@@ -2847,7 +2847,6 @@ flittern
 feuillage
 francs
 feuille
-feuillemorte
 flamandize
 feuilleton
 feuilletonism
@@ -7397,6 +7396,7 @@ forcibility
 fleuronee
 forlain
 flimsilyst
+feuillemorte
 frillier
 forcibly
 feuilletonist
