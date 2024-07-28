@@ -5436,7 +5436,6 @@ flexionless
 flexions
 flail
 flexitime
-flexive
 fevertwitch
 flexo
 flexographic
@@ -9717,6 +9716,7 @@ flumerin
 freezer
 freezy
 freezing
+flexive
 fawnier
 fortitude
 francas
