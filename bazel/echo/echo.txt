@@ -4553,7 +4553,6 @@ endive
 ejectors
 enmoss
 encephalopyosis
-encephalosclerosis
 encephaloscope
 establismentarian
 experting
@@ -7914,6 +7913,7 @@ epileptologist
 eonism
 entomeric
 epilimnetic
+encephalosclerosis
 epilimnia
 epilimnion
 epilithic
