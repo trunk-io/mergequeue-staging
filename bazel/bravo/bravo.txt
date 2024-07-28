@@ -2644,7 +2644,6 @@ baryphony
 baryphonia
 boxholder
 bushfighter
-baryphonic
 baris
 barysilite
 basoche
@@ -6794,6 +6793,7 @@ bertie
 bertin
 benzanilide
 bashibazouk
+baryphonic
 bertrand
 bertrum
 beruffled
