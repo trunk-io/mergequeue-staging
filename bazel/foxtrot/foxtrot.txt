@@ -2777,7 +2777,6 @@ fulwa
 foundership
 fluosilicate
 fribby
-flashed
 forgrown
 fetor
 fultz
@@ -5699,6 +5698,7 @@ fornices
 flagstone
 fittyways
 flyway
+flashed
 foreperiod
 flyways
 fissicostate
