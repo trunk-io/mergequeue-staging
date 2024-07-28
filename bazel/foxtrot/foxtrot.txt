@@ -3764,6 +3764,7 @@ fieldmouse
 ferrule
 favous
 fimbricate
+felspath
 fimbricated
 fimbrilla
 facilitating
@@ -9239,7 +9240,6 @@ fragmented
 forsaker
 fermentology
 fragmentisation
-felspath
 fragmentised
 formlessness
 flintworker
