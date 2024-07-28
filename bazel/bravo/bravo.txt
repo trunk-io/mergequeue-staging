@@ -3810,7 +3810,6 @@ bavarian
 bands
 bavaroy
 bavette
-baviaantje
 baviere
 bavoso
 baft
@@ -6716,6 +6715,7 @@ berlinite
 berlinize
 berloque
 berm
+baviaantje
 breeding
 bilharzial
 bermes
