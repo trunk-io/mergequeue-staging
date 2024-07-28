@@ -7628,7 +7628,6 @@ alchemize
 alchemized
 alchemizing
 alcheringa
-alchimy
 antihemolysin
 alkedavy
 alchymies
@@ -13037,6 +13036,7 @@ angule
 anguliferous
 alite
 anguloa
+alchimy
 angulodentate
 angulometer
 acarinosis

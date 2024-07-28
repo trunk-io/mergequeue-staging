@@ -2410,7 +2410,6 @@ batster
 barbicels
 barbierite
 barbing
-barbion
 barbita
 banshees
 bardily
@@ -3129,6 +3128,7 @@ bondship
 blackfisher
 bannerwise
 basella
+barbion
 basellaceae
 bourne
 baseman
