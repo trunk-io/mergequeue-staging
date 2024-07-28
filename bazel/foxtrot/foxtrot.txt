@@ -7686,7 +7686,6 @@ forehands
 freeman
 futteret
 forehatch
-foreheaded
 forehear
 fairest
 foollike
@@ -9518,6 +9517,7 @@ fretworks
 friesic
 fenbank
 fame
+foreheaded
 fibrilation
 frazing
 frazzle
