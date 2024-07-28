@@ -1375,7 +1375,6 @@ glareous
 gastrodialysis
 gargled
 groinery
-gasthauses
 gravemaker
 gargoyle
 glycide
@@ -10328,6 +10327,7 @@ gnarling
 garnishment
 gutting
 gastroelytrotomy
+gasthauses
 goma
 galliass
 gonopoietic
