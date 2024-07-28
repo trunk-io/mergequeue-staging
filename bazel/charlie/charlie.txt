@@ -5132,7 +5132,6 @@ casiri
 casita
 casitas
 cask
-caskanet
 casket
 casketed
 casketlike
@@ -27890,6 +27889,7 @@ crabfish
 crabgrass
 crabier
 comoedia
+caskanet
 crabit
 criticasterism
 crablet
