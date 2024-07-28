@@ -604,7 +604,6 @@ fossicks
 falsies
 fleetings
 fenster
-facilities
 falsify
 falsifiability
 falsificate
@@ -9755,6 +9754,7 @@ foins
 fremdly
 flake
 fremdness
+facilities
 featurelessness
 fluter
 federate
