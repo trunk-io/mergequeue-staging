@@ -6281,6 +6281,7 @@ agname
 agnamed
 agnat
 agnate
+adversifoliate
 agnatha
 agnathia
 agnathostomata
@@ -18459,7 +18460,6 @@ arawak
 athapaskan
 arawakian
 aerometric
-adversifoliate
 arb
 adeona
 arbacia
