@@ -1967,7 +1967,6 @@ functionalize
 fei
 feif
 fissurella
-feign
 ferulic
 fungid
 feigned
@@ -2478,6 +2477,7 @@ fluxure
 ferren
 ferreous
 ferrer
+feign
 fructified
 ferreter
 fretful
