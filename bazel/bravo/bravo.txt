@@ -10902,7 +10902,6 @@ basiophthalmous
 brewed
 blitz
 bul
-blitzed
 bobbie
 blitzkrieg
 blitzkrieged
@@ -12580,6 +12579,7 @@ bicycle
 bookbind
 bookbindery
 baianism
+blitzed
 backway
 bookbinderies
 bookbinders
