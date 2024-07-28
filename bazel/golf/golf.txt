@@ -927,7 +927,6 @@ genapp
 gametophyte
 gametophytic
 gamgia
-gnatter
 greenshank
 giglio
 grumble
@@ -8258,6 +8257,7 @@ gastrin
 groundberry
 geographized
 graphophone
+gnatter
 gulpin
 graphostatic
 griots
