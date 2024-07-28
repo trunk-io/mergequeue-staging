@@ -816,7 +816,6 @@ ectatic
 ectene
 ectental
 ectepicondylar
-equinumerally
 ecteron
 ectethmoid
 ectethmoidal
@@ -3262,6 +3261,7 @@ emanent
 entoperipheral
 emanium
 emarginate
+equinumerally
 euboean
 effatum
 emasculate
