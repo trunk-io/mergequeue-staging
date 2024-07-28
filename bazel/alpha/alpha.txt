@@ -5700,7 +5700,6 @@ apoturmeric
 aftermark
 aliptteria
 absalom
-aftermarriage
 aftermass
 aftermast
 aftermaths
@@ -11831,6 +11830,7 @@ analogously
 analogs
 analogue
 adjectitious
+aftermarriage
 anopubic
 analogues
 analphabetic
