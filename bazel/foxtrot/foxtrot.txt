@@ -816,7 +816,6 @@ fanions
 fourscorth
 footfalls
 fanjet
-frugalities
 fanjets
 fanleaf
 filter
@@ -10417,6 +10416,7 @@ frontoethmoid
 featheriest
 friar
 frontogenesis
+frugalities
 formulate
 forborn
 frontolysis
