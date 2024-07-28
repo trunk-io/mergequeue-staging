@@ -4876,7 +4876,6 @@ finesses
 flammable
 flammant
 flouncey
-foresee
 flammeous
 flamming
 fishbolt
@@ -8903,6 +8902,7 @@ fouled
 foulings
 fname
 foulish
+foresee
 foully
 fluidizes
 fibered
