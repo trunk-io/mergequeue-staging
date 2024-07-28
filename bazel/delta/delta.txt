@@ -5733,7 +5733,6 @@ deplaned
 dragonfish
 dryopithecine
 deplaning
-deplant
 deplantation
 desex
 deadpanned
@@ -12842,6 +12841,7 @@ dryope
 disnatural
 disnaturalization
 disnatured
+deplant
 disnest
 disnew
 disniche
