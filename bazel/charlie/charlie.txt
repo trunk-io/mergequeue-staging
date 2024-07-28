@@ -16539,7 +16539,6 @@ cawky
 cloakage
 cloaked
 cochleare
-circularism
 cloakedly
 cloakmaker
 cloakmaking
@@ -28331,6 +28330,7 @@ corslets
 crate
 crated
 conicities
+circularism
 cynopodous
 crateful
 cratemaker
