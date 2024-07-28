@@ -6191,7 +6191,6 @@ gambreled
 glucosine
 glucosulfone
 groaned
-glucuronide
 gudok
 garniec
 groused
@@ -7786,6 +7785,7 @@ gusting
 glirine
 gastly
 glossiest
+glucuronide
 gestural
 gastric
 goosy
