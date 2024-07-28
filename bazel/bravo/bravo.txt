@@ -1105,7 +1105,6 @@ ballweed
 bank
 bailieship
 bailiff
-bailiffwick
 baylike
 bailing
 bollworms
@@ -8022,6 +8021,7 @@ biclinia
 breathiest
 bycoket
 bicarbonate
+bailiffwick
 bicollateral
 baring
 bicollaterality
