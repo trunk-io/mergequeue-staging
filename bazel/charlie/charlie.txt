@@ -19625,7 +19625,6 @@ coltsfoots
 confabbed
 coltskin
 colubaria
-crier
 coluber
 colubrid
 collapsible
@@ -30435,6 +30434,7 @@ ctg
 chromaturia
 ctge
 ctn
+crier
 cto
 ctr
 cipherable
