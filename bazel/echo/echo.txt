@@ -479,7 +479,6 @@ eccrinology
 elephantiac
 eccrisis
 eccritic
-eccrine
 ecderon
 etude
 excerptible
@@ -5056,6 +5055,7 @@ endocellular
 exposition
 enshrine
 endoceras
+eccrine
 endoceratidae
 endoceratite
 endoceratitic
