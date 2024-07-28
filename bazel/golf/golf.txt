@@ -8754,7 +8754,6 @@ gage
 greenlander
 gramaryes
 globalizing
-gamari
 glissandi
 greenleaf
 gamostelic
@@ -10742,6 +10741,7 @@ gutsiness
 gymnogen
 guttae
 gurnetty
+gamari
 ganomalite
 glassworking
 guttate
