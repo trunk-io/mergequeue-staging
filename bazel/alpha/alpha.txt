@@ -4742,7 +4742,6 @@ aficionados
 aecidial
 arabesque
 aecidiomycetes
-aecidiospore
 aecidiostage
 aecidium
 aeciospore
@@ -11446,6 +11445,7 @@ amusee
 amusement
 amusements
 amuser
+aecidiospore
 aider
 aspirations
 amphimixis
