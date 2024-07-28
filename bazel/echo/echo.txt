@@ -1584,7 +1584,6 @@ eoside
 egyptologist
 egis
 excruciation
-eraser
 eglandular
 electrosensitive
 eglandulose
@@ -5311,6 +5310,7 @@ encrypt
 empight
 ecthyma
 endosporia
+eraser
 endosporium
 exocentric
 emptio
