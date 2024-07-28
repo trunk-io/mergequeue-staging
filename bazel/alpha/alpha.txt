@@ -3257,7 +3257,6 @@ actless
 anchisaurus
 actor
 actory
-atactic
 actorship
 actos
 axite
@@ -24448,6 +24447,7 @@ autostethoscope
 arterioplasty
 autostyly
 autostylic
+atactic
 autostylism
 autostoper
 autostrada
