@@ -2551,7 +2551,6 @@ exes
 electrophotographic
 elaphoglossum
 enlivens
-electrophotomicrography
 electrophrenic
 everglade
 electropyrometer
@@ -7109,6 +7108,7 @@ editable
 enunciatory
 enure
 enured
+electrophotomicrography
 enures
 enureses
 endball
