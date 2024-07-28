@@ -3135,7 +3135,6 @@ elucidative
 eluctation
 elucubrate
 eciton
-employed
 erses
 entrance
 elucubration
@@ -6712,6 +6711,7 @@ endorsors
 enthymematic
 exosporium
 enthymematical
+employed
 enthymeme
 exterminist
 enmity
