@@ -1559,7 +1559,6 @@ grasses
 grievants
 gashouses
 groundskeeping
-grayer
 greenkeeper
 gasifier
 gasifiers
@@ -5180,6 +5179,7 @@ gegenion
 glaiks
 guige
 glauconite
+grayer
 goonies
 glaymore
 grubbiness
