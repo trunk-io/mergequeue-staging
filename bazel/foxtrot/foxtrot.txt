@@ -5257,6 +5257,7 @@ fleaweed
 farfetchedness
 fleche
 foreknew
+flche
 flecken
 flecker
 filenames
@@ -9152,7 +9153,6 @@ footed
 fr
 fleyedness
 fra
-flche
 follow
 fameuse
 frabbit
