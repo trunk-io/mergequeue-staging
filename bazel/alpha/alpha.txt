@@ -1332,7 +1332,6 @@ acanthocarpous
 acanthocephala
 anarthrously
 acanthocephalan
-acanthocephalous
 acanthocereus
 acanthodea
 acanthodean
@@ -10145,6 +10144,7 @@ ambulatory
 acetocinnamene
 aminopropionic
 aphanitism
+acanthocephalous
 ambulatories
 ambulatorily
 ambulatorium
