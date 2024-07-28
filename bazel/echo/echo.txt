@@ -4687,6 +4687,7 @@ elkhorn
 emforth
 enciphered
 enciphering
+eusol
 encipherment
 enciphers
 encircle
@@ -11197,7 +11198,6 @@ endocranial
 electroretinography
 euskarian
 euskaric
-eusol
 euspongia
 eustace
 eustachian
