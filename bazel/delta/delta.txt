@@ -5885,6 +5885,7 @@ depositure
 derailleur
 depot
 defecter
+droukan
 despondence
 drillers
 depotentiate
@@ -17454,7 +17455,6 @@ did
 droughtiness
 demanders
 displeasingness
-droukan
 drouked
 drouket
 deacidifying
