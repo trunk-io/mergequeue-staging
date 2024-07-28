@@ -10303,7 +10303,6 @@ chez
 chg
 chhatri
 chi
-chia
 chiack
 chyack
 chiam
@@ -25365,6 +25364,7 @@ corn
 cornaceous
 chaunts
 chalazae
+chia
 cornage
 contrivance
 cornamute
