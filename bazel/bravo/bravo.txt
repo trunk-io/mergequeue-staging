@@ -10362,7 +10362,6 @@ brandished
 blason
 blaspheme
 blasphemed
-blasphemes
 blasphemy
 blasphemous
 blasphemously
@@ -16544,6 +16543,7 @@ bucketful
 buckety
 brunonia
 bucketing
+blasphemes
 bucketmaking
 basilisk
 bucketsful
