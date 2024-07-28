@@ -2272,6 +2272,7 @@ gametogenesis
 grounds
 glairy
 gaggles
+getatable
 geelbek
 grassfinch
 gastrectasia
@@ -3754,7 +3755,6 @@ getae
 glycolide
 gluttei
 gurged
-getatable
 giansar
 gads
 gausterer
