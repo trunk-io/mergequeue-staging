@@ -3393,7 +3393,6 @@ fightings
 fascio
 fetchingly
 figless
-figlike
 figmental
 feta
 fravashi
@@ -8658,6 +8657,7 @@ forethrift
 forthwith
 furcellaria
 floatable
+figlike
 fortify
 fortification
 fasola
