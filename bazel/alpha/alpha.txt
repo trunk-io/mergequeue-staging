@@ -15119,7 +15119,6 @@ anticreativity
 anticreep
 anticreeper
 anticreeping
-ascertainable
 anticryptic
 anticryptically
 anticrisis
@@ -24314,6 +24313,7 @@ autophytic
 autophytically
 antitabetic
 autophytograph
+ascertainable
 anacusia
 autophoby
 autophobia
