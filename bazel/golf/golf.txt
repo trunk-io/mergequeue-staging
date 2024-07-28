@@ -1449,7 +1449,6 @@ garnison
 garniture
 garon
 graybacks
-garoo
 goidelic
 garotte
 geogenesis
@@ -6939,6 +6938,7 @@ gonidiferous
 gonidiogenous
 gothites
 glycogenetic
+garoo
 gonidioid
 gonidiose
 gonidium
