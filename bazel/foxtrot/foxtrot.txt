@@ -9751,7 +9751,6 @@ freyr
 foins
 fremdly
 flake
-fremdness
 facilities
 featurelessness
 fluter
@@ -11018,6 +11017,7 @@ frondless
 fumiest
 fumify
 fumigations
+fremdness
 fumigator
 fumigatories
 fumigatorium
