@@ -1283,7 +1283,6 @@ effect
 era
 effected
 espacement
-exopeptidase
 equalled
 effecters
 effectful
@@ -2745,6 +2744,7 @@ eleoblast
 eleocharis
 eleolite
 entria
+exopeptidase
 earock
 epicerebral
 efl

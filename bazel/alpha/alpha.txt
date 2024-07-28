@@ -2540,6 +2540,7 @@ acinotubular
 acinous
 acinuni
 acinus
+asthenias
 acipenser
 acipenseres
 acipenserid
@@ -6600,7 +6601,6 @@ agura
 aguroth
 aerobic
 ah
-asthenias
 aha
 ahab
 auras
