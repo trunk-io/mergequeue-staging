@@ -759,6 +759,7 @@ fancymonger
 finnac
 fancysick
 fancywork
+flashy
 forkbeard
 fandangos
 flockmaster
@@ -10990,7 +10991,6 @@ fumatoriums
 fixature
 fumbled
 feceris
-flashy
 fougasse
 fumbles
 fichtelite
