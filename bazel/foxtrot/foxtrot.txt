@@ -1113,7 +1113,6 @@ farrows
 farruca
 fanfaron
 farseeing
-farseeingness
 farset
 filchers
 farsight
@@ -8025,6 +8024,7 @@ foresummon
 federalizations
 flossiness
 foreswearing
+farseeingness
 fumacious
 foret
 faipule
