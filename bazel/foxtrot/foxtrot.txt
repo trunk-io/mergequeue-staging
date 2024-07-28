@@ -7366,6 +7366,7 @@ foreland
 frenched
 fedayeen
 fishgrass
+foobar
 forewarnings
 forbode
 flagman
@@ -11062,7 +11063,6 @@ funambulist
 funambulo
 funambuloes
 funaria
-foobar
 factionate
 floyd
 functionalism
