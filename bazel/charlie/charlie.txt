@@ -16335,6 +16335,7 @@ cotswold
 counterleague
 corone
 clinkering
+countertierce
 clinks
 clinkstone
 circumpolygon
@@ -27240,7 +27241,6 @@ crosshatch
 countertheory
 counterthought
 counterthwarting
-countertierce
 countertime
 countertype
 countertouch
