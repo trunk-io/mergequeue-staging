@@ -6223,7 +6223,6 @@ fluffs
 flugel
 flugelman
 fluible
-fluid
 fabliau
 foster
 fluidacetextract
@@ -9708,6 +9707,7 @@ fannier
 freewoman
 fringed
 freewomen
+fluid
 fescennine
 fluorographic
 freeze
