@@ -1301,7 +1301,6 @@ columelliform
 caliculate
 calyculate
 calyculated
-calycule
 congoes
 calid
 calydon
@@ -4481,6 +4480,7 @@ caroba
 caroch
 coumarinic
 caroche
+calycule
 caroigne
 cliqueier
 cox
