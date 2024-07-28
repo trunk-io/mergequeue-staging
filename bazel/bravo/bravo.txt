@@ -11316,6 +11316,7 @@ ballist
 bluefish
 biffy
 bluefishes
+bullethead
 bluegill
 brambly
 bluegrass
@@ -17032,7 +17033,6 @@ bauchle
 bullescene
 bullet
 bulleted
-bullethead
 bulletheaded
 bulletheadedness
 bulletin
