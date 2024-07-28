@@ -2393,7 +2393,6 @@ fermentate
 fermentatively
 fermentativeness
 forechamber
-fermented
 fermenter
 fermentescible
 fermenting
@@ -5861,6 +5860,7 @@ floorages
 foveated
 fala
 foretype
+fermented
 fluminous
 floorer
 facsimile
