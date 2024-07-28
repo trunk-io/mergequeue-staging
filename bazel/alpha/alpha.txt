@@ -4376,7 +4376,6 @@ adpress
 alchornea
 adpromissor
 adrad
-adradial
 adradially
 adradius
 adramelech
@@ -7598,6 +7597,7 @@ alcantarines
 alcaptonuria
 apocalyptical
 anorthography
+adradial
 alcargen
 anisotonic
 alcavala
