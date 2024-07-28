@@ -8385,6 +8385,7 @@ caveators
 chalicotheriidae
 cacoepist
 chalicotherium
+consute
 coliform
 chalina
 chalinidae
@@ -23429,7 +23430,6 @@ consumptional
 consumptions
 consumptive
 consumptives
-consute
 contabescence
 contabescent
 carbonyls
