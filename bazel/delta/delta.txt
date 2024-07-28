@@ -10462,6 +10462,7 @@ diorites
 dioritic
 diorthoses
 diorthosis
+dups
 dioscoreaceae
 domicile
 dioscorein
@@ -18410,7 +18411,6 @@ dupondius
 deployments
 duppa
 dohickey
-dups
 dealers
 digitinervate
 dodecylene
