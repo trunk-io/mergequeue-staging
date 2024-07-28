@@ -6083,6 +6083,7 @@ dequeue
 dequeued
 declaratively
 dequeues
+despose
 detachments
 disgracia
 dropshots
@@ -7007,7 +7008,6 @@ desponder
 desponding
 dungari
 desponsate
-despose
 deuce
 dotriacontane
 despotat
