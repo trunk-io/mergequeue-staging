@@ -4121,7 +4121,6 @@ deceleration
 delighter
 delightful
 delightfulness
-delightingly
 delightless
 delights
 delightsome
@@ -14481,6 +14480,7 @@ divination
 divinator
 divinely
 diviner
+delightingly
 divinesse
 divinest
 divinify
