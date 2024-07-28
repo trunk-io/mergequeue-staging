@@ -5337,6 +5337,7 @@ blurb
 behead
 beheadal
 beheading
+besiege
 beheads
 behear
 bogyism
@@ -6932,7 +6933,6 @@ beside
 bullfinch
 besides
 baritones
-besiege
 besieged
 besieges
 besieging
