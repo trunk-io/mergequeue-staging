@@ -18186,7 +18186,6 @@ coequal
 collotype
 coequality
 coequalize
-coequally
 coequalness
 coequated
 coequates
@@ -26983,6 +26982,7 @@ cohabitations
 countermaid
 cliffsman
 carles
+coequally
 countermandable
 countermanding
 cullays
