@@ -4753,7 +4753,6 @@ decoction
 demob
 dismaying
 demobbed
-duply
 demobilisation
 demobilised
 demobilising
@@ -6699,6 +6698,7 @@ disabling
 desiatin
 desicate
 desiccate
+duply
 disprove
 dardanium
 desiccated
