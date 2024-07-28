@@ -2351,6 +2351,7 @@ edacities
 electrocutional
 epispastic
 electrocutions
+echelle
 electrotonus
 extraught
 eugenist
@@ -9536,7 +9537,6 @@ escoba
 escobadura
 enrichment
 escocheon
-echelle
 escolar
 estuarian
 escolars
