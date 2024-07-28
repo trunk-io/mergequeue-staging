@@ -9336,7 +9336,6 @@ ersatz
 encoignure
 erse
 ersh
-epicycloid
 embracery
 erst
 epochally
@@ -11329,6 +11328,7 @@ evangeliarium
 evangelic
 evangelical
 evangelically
+epicycloid
 exploder
 evangelicals
 evangelican
