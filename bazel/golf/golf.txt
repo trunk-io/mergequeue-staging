@@ -3798,7 +3798,6 @@ glosses
 greenback
 ghan
 gibbously
-gastronomy
 gigas
 gharris
 genitofemoral
@@ -6058,6 +6057,7 @@ gums
 glossoplasty
 grimnesses
 groggeries
+gastronomy
 greedygut
 gebang
 grandfatherish
