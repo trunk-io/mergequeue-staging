@@ -1104,7 +1104,6 @@ ganglionectomy
 ganglionectomies
 ganglioneural
 glyptotherium
-gavelkinder
 grawls
 gastroparietal
 gasted
@@ -3972,6 +3971,7 @@ giants
 gonion
 giantship
 geon
+gavelkinder
 giantsize
 giaour
 giaours
