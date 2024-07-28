@@ -7760,6 +7760,7 @@ aldermen
 aldern
 alderney
 aldhafara
+anoa
 aldhafera
 aldide
 adolescents
@@ -13731,7 +13732,6 @@ annunciations
 alecize
 azoxonium
 anbury
-anoa
 arundineous
 anoas
 apaesthesia
