@@ -3405,7 +3405,6 @@ figuline
 figurability
 forgat
 fieldsmen
-figurable
 figurae
 fylfots
 flotilla
@@ -7897,6 +7896,7 @@ farmhand
 floret
 faience
 fdname
+figurable
 fobbed
 feistiest
 filo
