@@ -6584,7 +6584,6 @@ describable
 describably
 describers
 describes
-describing
 descried
 descrier
 descriers
@@ -15937,6 +15936,7 @@ devolatilized
 didepside
 desolater
 doss
+describing
 dossennus
 dosser
 dioeciously
