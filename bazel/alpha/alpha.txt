@@ -3795,7 +3795,6 @@ adeste
 adeuism
 adffrozen
 adfluxion
-antiangular
 anguille
 apozema
 adfroze
@@ -19447,6 +19446,7 @@ argenteum
 albolite
 argentic
 argentiferous
+antiangular
 argentin
 argentina
 argentinean
