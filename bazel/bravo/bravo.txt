@@ -2707,7 +2707,6 @@ barleyhood
 barleymow
 barleysick
 barly
-barling
 barlock
 ballant
 barlow
@@ -6066,6 +6065,7 @@ blockman
 benedick
 benedicks
 benedict
+barling
 baculi
 benedictine
 benedictinism
