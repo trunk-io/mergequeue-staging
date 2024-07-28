@@ -3145,7 +3145,6 @@ cacomixl
 capitulate
 capitulated
 conclude
-capitulates
 capitulating
 capitulation
 capitulator
@@ -20888,6 +20887,7 @@ componential
 components
 compony
 comport
+capitulates
 comportance
 catelectrotonus
 cassavas
