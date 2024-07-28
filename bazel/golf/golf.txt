@@ -9160,7 +9160,6 @@ gripsacks
 gaunt
 geochronic
 genipaps
-griquaite
 griqualander
 grisaille
 grisard
@@ -10093,6 +10092,7 @@ guerites
 gasts
 gastrilegous
 guerrila
+griquaite
 grintern
 gestaltist
 guerrillaism
