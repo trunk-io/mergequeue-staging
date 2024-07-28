@@ -6942,7 +6942,6 @@ gothites
 glycogenetic
 garoo
 gonidioid
-gonidiose
 gonidium
 gonifs
 gerbilles
@@ -8712,6 +8711,7 @@ greenfishes
 galenites
 grant
 greengage
+gonidiose
 greengill
 greengrocery
 galvanizing
