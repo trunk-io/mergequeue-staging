@@ -2619,6 +2619,7 @@ decompile
 dacitic
 decompiler
 disworth
+deprogrammers
 decomplex
 dentists
 decomponent
@@ -5999,7 +6000,6 @@ daimyo
 discussible
 deprogrammed
 deerberry
-deprogrammers
 deprogramming
 deprograms
 deionization
