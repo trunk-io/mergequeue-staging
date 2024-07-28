@@ -1966,6 +1966,7 @@ fungid
 feigned
 feignedly
 feigner
+fineleaf
 feigners
 font
 fibrilliferous
@@ -4541,7 +4542,6 @@ fixt
 fixable
 fixate
 foodservices
-fineleaf
 fixatifs
 flocs
 fixation
