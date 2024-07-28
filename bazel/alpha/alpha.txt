@@ -5267,7 +5267,6 @@ afenil
 afer
 apposition
 afernan
-afetal
 aff
 affa
 affability
@@ -16568,6 +16567,7 @@ angetenar
 anutraminosa
 anvil
 anviled
+afetal
 anviling
 anvilled
 anvilling
