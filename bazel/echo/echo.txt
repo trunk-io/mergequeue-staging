@@ -6253,7 +6253,6 @@ enright
 enringed
 enripen
 enrobed
-enrobement
 enrober
 enrobers
 elfin
@@ -7708,6 +7707,7 @@ effront
 epidermically
 epidermidalization
 encaustically
+enrobement
 epidermis
 epidermization
 epidermoid
