@@ -1761,7 +1761,6 @@ featherwork
 featishly
 featishness
 featless
-featly
 featliest
 forbiddable
 flocculency
@@ -9970,6 +9969,7 @@ ferreling
 frictionproof
 frictions
 friday
+featly
 fridays
 foraminose
 fastuously
