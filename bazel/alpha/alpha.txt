@@ -10434,7 +10434,6 @@ amides
 amidid
 amidide
 antileft
-aristippus
 amidin
 amidine
 amidins
@@ -12024,6 +12023,7 @@ anastasis
 anastate
 anastatic
 anthemata
+aristippus
 anastatus
 anastigmatic
 aminoquinoline
