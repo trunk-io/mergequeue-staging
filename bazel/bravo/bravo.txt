@@ -2762,6 +2762,7 @@ barnmen
 barns
 barnstorm
 bothropic
+bombazette
 barnstormed
 bastiles
 barnstormer
@@ -12255,7 +12256,6 @@ boraces
 birdcalls
 bombax
 bombazet
-bombazette
 bombazine
 basin
 bomber
