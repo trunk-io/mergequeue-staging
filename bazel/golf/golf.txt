@@ -4600,7 +4600,6 @@ gaonic
 glinting
 gorce
 goldbricks
-grovelled
 grindstones
 greasehorn
 ginnel
@@ -4962,6 +4961,7 @@ girr
 galericulate
 girsle
 girted
+grovelled
 girth
 girthing
 girting
