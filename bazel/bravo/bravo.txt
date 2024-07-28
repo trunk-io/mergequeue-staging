@@ -7228,7 +7228,6 @@ bestrides
 bestriding
 bestripe
 bylaw
-bestrow
 bestrowed
 bestrown
 buckbush
@@ -10369,6 +10368,7 @@ blasphemes
 blasphemy
 blasphemous
 blasphemously
+bestrow
 blasphemousness
 barefacedly
 brachycerous
