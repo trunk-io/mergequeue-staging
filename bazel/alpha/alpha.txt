@@ -5143,7 +5143,6 @@ aerosporin
 aerostatic
 anthracomartian
 aerostatical
-aerostatics
 aphototaxis
 antisepticist
 accelerates
@@ -22828,6 +22827,7 @@ anvasser
 aljamado
 avo
 astringents
+aerostatics
 atonia
 atonic
 atonicity
