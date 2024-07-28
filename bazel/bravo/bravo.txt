@@ -2984,6 +2984,7 @@ barrens
 barrer
 barres
 barret
+bephrase
 barretor
 barretry
 boundaries
@@ -16546,7 +16547,6 @@ bucketing
 bucketmaking
 beneficence
 basilisk
-bephrase
 bucketsful
 bucketshop
 buckhounds
