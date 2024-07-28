@@ -11707,7 +11707,6 @@ ankylopodia
 autohemolytic
 anatreptic
 anagrammatising
-anagrammatization
 anagrammatize
 anagrammatized
 anagrammed
@@ -14397,6 +14396,7 @@ anthemis
 anthems
 antheral
 anthericum
+anagrammatization
 antherid
 antheridial
 antheridium
