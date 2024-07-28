@@ -1446,7 +1446,6 @@ fireproof
 filialness
 fattens
 foreset
-fatter
 fatty
 fattiness
 foraging
@@ -6370,6 +6369,7 @@ fogginess
 fettuccine
 fibromyomatous
 fluorenyl
+fatter
 facers
 fluoresced
 fluorescein
