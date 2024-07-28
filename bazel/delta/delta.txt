@@ -9498,6 +9498,7 @@ deniability
 diffractive
 diffractively
 degenerescent
+downed
 diffracts
 dupion
 draughtboard
@@ -16317,7 +16318,6 @@ downcurved
 datagram
 downdale
 downdraft
-downed
 downer
 downface
 dyeware
