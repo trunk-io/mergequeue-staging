@@ -1326,7 +1326,6 @@ balanidae
 balaniferous
 broderie
 batiker
-balanite
 balanites
 balanocele
 balanoid
@@ -14534,6 +14533,7 @@ brantails
 brantcorn
 brantle
 brantness
+balanite
 brants
 broose
 branular
