@@ -496,7 +496,6 @@ blintzes
 boldos
 backscattered
 backscattering
-backscraper
 bigmitt
 backscratcher
 backscratching
@@ -3186,6 +3185,7 @@ basibranchial
 basibranchiate
 basic
 browner
+backscraper
 bercelet
 basicerite
 barracked
