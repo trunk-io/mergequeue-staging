@@ -5149,7 +5149,6 @@ endoergic
 endogastrically
 endogastritis
 endogen
-endogenicity
 endogenies
 endogenously
 effodientia
@@ -8935,6 +8934,7 @@ enrollees
 euhemerizing
 equiprobability
 erysiphaceae
+endogenicity
 ergatomorphic
 ergo
 ergodicity
