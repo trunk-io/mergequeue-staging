@@ -11372,7 +11372,6 @@ bluestoner
 brougham
 bluet
 blueth
-bluethroat
 bluetit
 bluetongue
 bluetops
@@ -16307,6 +16306,7 @@ brushed
 brushers
 bromoiodid
 brushet
+bluethroat
 brushfire
 barcella
 brushy
