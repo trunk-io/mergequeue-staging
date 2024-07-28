@@ -4759,6 +4759,7 @@ demobilisation
 demobilised
 demobilising
 demobilize
+deprecate
 demobilized
 demobilizes
 defeasibility
@@ -5575,7 +5576,6 @@ deoxygenating
 dereistically
 domineer
 deoxygenation
-deprecate
 deoxygenization
 deoxygenize
 deoxyribose
