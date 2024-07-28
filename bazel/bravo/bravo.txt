@@ -440,7 +440,6 @@ bestad
 backing
 backjaw
 basaltoid
-bistoury
 benumb
 besaile
 brightwork
@@ -7794,6 +7793,7 @@ boogerman
 bahut
 bibio
 books
+bistoury
 bibionid
 bibiri
 bibiru
