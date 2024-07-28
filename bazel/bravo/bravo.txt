@@ -726,6 +726,7 @@ besought
 bruet
 bacteriologies
 bacteriologist
+biosensor
 blockmaker
 bacteriophages
 bluggy
@@ -10675,7 +10676,6 @@ blennophlogosis
 blennophobia
 blennophthalmia
 brightsome
-biosensor
 blennoptysis
 barkening
 blennorrhagia
