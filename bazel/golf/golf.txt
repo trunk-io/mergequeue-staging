@@ -6830,7 +6830,6 @@ gomavel
 gome
 gutturine
 garrooka
-grazable
 gapy
 gomeisa
 gomerec
@@ -10569,6 +10568,7 @@ greeny
 gunpower
 gracile
 gunreach
+grazable
 gunrooms
 gunrunner
 gunrunning
