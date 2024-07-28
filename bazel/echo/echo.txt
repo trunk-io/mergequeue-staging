@@ -2344,7 +2344,6 @@ ectocuneiform
 entrez
 electrocuting
 edacities
-electrocutional
 epispastic
 electrocutions
 echelle
@@ -11422,6 +11421,7 @@ evene
 eo
 extraversion
 errite
+electrocutional
 errands
 evenglow
 enfavor
