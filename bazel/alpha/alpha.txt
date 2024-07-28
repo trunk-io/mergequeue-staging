@@ -1487,7 +1487,6 @@ accelerometer
 accelerometers
 accend
 apartado
-accendible
 agelaius
 accension
 accent
@@ -1989,6 +1988,7 @@ acequiador
 acer
 aceraceous
 acerate
+accendible
 acerated
 antienthusiasm
 acerates
