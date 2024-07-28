@@ -18696,7 +18696,6 @@ coinherence
 coinhering
 comparisons
 coinheritance
-coinheritor
 coiny
 coynye
 ciceronize
@@ -26346,6 +26345,7 @@ costotransversal
 costotransverse
 costovertebral
 costoxiphoid
+coinheritor
 costraight
 costrels
 carrier
