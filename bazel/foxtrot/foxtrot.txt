@@ -4059,7 +4059,6 @@ frontomental
 fireboard
 fireboats
 firearmed
-fuzzball
 foretokens
 firebolted
 fontal
@@ -6521,6 +6520,7 @@ fondnesses
 filariids
 facades
 flusters
+fuzzball
 fumage
 foldskirt
 flustrate
