@@ -9538,7 +9538,6 @@ birthmark
 birthmarks
 birthnight
 banalness
-birthrate
 brink
 bedimming
 burely
@@ -11993,6 +11992,7 @@ barebones
 barbero
 boiloffs
 boils
+birthrate
 borley
 boing
 boyos
