@@ -2358,7 +2358,6 @@ gammock
 gallinaceae
 gelatification
 gelatin
-gigabit
 gelatinate
 gullies
 gramps
@@ -5561,6 +5560,7 @@ glycolyl
 glycolipid
 geod
 glycolipine
+gigabit
 glycolysis
 glycolytically
 glycollate
