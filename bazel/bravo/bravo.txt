@@ -9145,7 +9145,6 @@ biosterin
 biosterol
 burdeners
 biostratigraphy
-biota
 biotas
 baryes
 bewinter
@@ -11985,6 +11984,7 @@ balanoblennorrhea
 barogram
 boilerplate
 boilers
+biota
 boilersmith
 buettneria
 betain
