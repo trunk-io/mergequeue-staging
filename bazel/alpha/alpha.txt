@@ -3507,6 +3507,7 @@ addedly
 addenda
 addendums
 anatomicals
+avulsed
 adderbolt
 antiseismic
 adderfish
@@ -18083,7 +18084,6 @@ ardassine
 agnomen
 aptal
 aptate
-avulsed
 avogram
 aptenodytes
 affing

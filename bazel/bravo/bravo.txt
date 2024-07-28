@@ -2302,6 +2302,7 @@ barology
 bubby
 boilable
 ballistite
+biggety
 bailage
 barbaloin
 bottlenose
@@ -16616,7 +16617,6 @@ bucolics
 bhut
 bucorvinae
 basidiospore
-biggety
 bucorvus
 binning
 bucrane
