@@ -3096,7 +3096,6 @@ capital
 capitaled
 conferrer
 capitalisable
-capitalised
 capitaliser
 capitalist
 chagal
@@ -11207,6 +11206,7 @@ cultivatability
 chivalric
 chivalrous
 chivalrously
+capitalised
 chivaree
 corruptless
 ct
