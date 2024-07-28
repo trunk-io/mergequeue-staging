@@ -2070,7 +2070,6 @@ gumbolike
 ganglioblast
 grandsire
 guava
-gifblaar
 glottogonic
 goony
 gunport
@@ -6304,6 +6303,7 @@ gluttonise
 gluttonize
 guzmania
 gluttonized
+gifblaar
 gluttonizing
 gm
 gmelinite
