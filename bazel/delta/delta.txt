@@ -14053,7 +14053,6 @@ distributions
 denotatum
 distributival
 distributively
-distributivity
 distributor
 dezincation
 dirtying
@@ -15888,6 +15887,7 @@ dorsosacral
 dorsoscapular
 dorsosternal
 drowsily
+distributivity
 dorsothoracic
 diablotin
 dorsoventral
