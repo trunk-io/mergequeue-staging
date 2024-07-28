@@ -7292,7 +7292,6 @@ domification
 determinacy
 determinant
 determinants
-determinate
 determinated
 duckhood
 daying
@@ -17833,6 +17832,7 @@ duckweed
 demes
 duckweeds
 defervescing
+determinate
 duckwife
 diasystem
 duct
