@@ -1911,7 +1911,6 @@ accused
 accuser
 accusers
 accuses
-accusingly
 accusive
 accusor
 accustom
@@ -5615,6 +5614,7 @@ afterburner
 afterburning
 aftercare
 aftercareer
+accusingly
 aftercataract
 afterchance
 afterchrome
