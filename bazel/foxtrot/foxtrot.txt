@@ -397,6 +397,7 @@ fixers
 fivesome
 fairily
 fairing
+foxery
 fluencies
 fairings
 farfetch
@@ -9085,7 +9086,6 @@ foxbane
 foxberry
 foxberries
 foxer
-foxery
 foxes
 flysches
 foxfeet
