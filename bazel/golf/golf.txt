@@ -1375,7 +1375,6 @@ gravemaker
 gargoyle
 glycide
 gargoyley
-gypsydoms
 gobs
 generatrix
 gargol
@@ -6426,6 +6425,7 @@ gnome
 gnomes
 gnomesque
 gnomic
+gypsydoms
 gnomical
 greyhound
 gnomological
