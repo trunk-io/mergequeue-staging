@@ -193,6 +193,7 @@ baccalaureat
 beachmaster
 breather
 baccalaureate
+breathe
 baccalaureates
 beadily
 baccalaureus
@@ -8258,7 +8259,6 @@ banyan
 bested
 bigamists
 bigamize
-breathe
 betafite
 bigamized
 bourrees
