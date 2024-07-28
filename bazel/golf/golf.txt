@@ -1737,7 +1737,6 @@ gesneria
 gastroenterological
 gonfalcon
 gwen
-gastroenterostomy
 gastroenterostomies
 gastroepiploic
 guebre
@@ -10147,6 +10146,7 @@ gradates
 guetre
 galactoscope
 guffawing
+gastroenterostomy
 guffer
 guimpes
 guffin
