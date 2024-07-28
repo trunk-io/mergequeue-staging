@@ -3318,7 +3318,6 @@ gaunty
 geoscopy
 gowan
 gloriation
-geoselenic
 geodetic
 geoside
 geosynchronous
@@ -7146,6 +7145,7 @@ goolde
 guavaberry
 gyrofrequency
 goonch
+geoselenic
 gardant
 gooney
 gooneys
