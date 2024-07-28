@@ -4221,6 +4221,7 @@ gildable
 gildedness
 gilden
 gilder
+garbles
 geckotoid
 gilding
 glacon
@@ -10473,7 +10474,6 @@ goxes
 gumshoed
 goburra
 graftonite
-garbles
 gufa
 guestwise
 gumtrees
