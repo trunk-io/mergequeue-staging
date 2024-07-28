@@ -9357,7 +9357,6 @@ dieresis
 dieretic
 dieri
 dyes
-dieses
 diesinking
 dyester
 diesters
@@ -17652,6 +17651,7 @@ druse
 drusean
 drusedom
 dissimilatory
+dieses
 diaplasma
 duteousness
 divaricate
