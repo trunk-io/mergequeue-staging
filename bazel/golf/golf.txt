@@ -5046,7 +5046,6 @@ gantries
 gyve
 gammexane
 glaciologic
-guianan
 guarabu
 glutaminic
 gyves
@@ -9846,6 +9845,7 @@ guamachil
 gigmania
 guamuchil
 greith
+guianan
 grouting
 gotch
 gleeked
