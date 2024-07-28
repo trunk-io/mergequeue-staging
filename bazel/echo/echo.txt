@@ -5243,6 +5243,7 @@ epicoelous
 endorachis
 endoradiosonde
 endoral
+evolute
 evened
 elater
 equipedal
@@ -11663,7 +11664,6 @@ ecumenics
 evoking
 evolate
 expilator
-evolute
 elytral
 eruptional
 eloigns
