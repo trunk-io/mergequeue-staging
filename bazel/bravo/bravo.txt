@@ -1465,7 +1465,6 @@ browband
 battening
 balibuntal
 balibuntl
-bibl
 balija
 brassies
 balilla
@@ -18209,6 +18208,7 @@ buts
 butsu
 butsudan
 buttal
+bibl
 buttals
 benzbitriazole
 butterbill
