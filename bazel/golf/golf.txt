@@ -7617,7 +7617,6 @@ gra
 graafian
 galoot
 grabbable
-guitermanite
 gingerbread
 grabbots
 grabber
@@ -8442,6 +8441,7 @@ graupel
 grudgers
 gconv
 greyfish
+guitermanite
 gynecocracies
 globs
 graustark
