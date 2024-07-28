@@ -4753,7 +4753,6 @@ flagrance
 fulminurate
 flagrantly
 firepower
-fabricator
 fanback
 falcula
 flagstaves
@@ -7421,6 +7420,7 @@ forclose
 forconceit
 forcut
 fordableness
+fabricator
 faucial
 forleaving
 fawniest
