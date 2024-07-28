@@ -136,7 +136,6 @@ bosker
 babysit
 babysitter
 babysitting
-babism
 brontosauri
 benzimidazole
 babka
@@ -10764,6 +10763,7 @@ blessed
 blesseder
 blessedest
 blessedly
+babism
 blessedness
 bandwork
 brookable
