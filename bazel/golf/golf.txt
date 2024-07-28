@@ -2235,6 +2235,7 @@ graywall
 gecked
 guardfish
 gaseliers
+gonolobus
 gecko
 geckotid
 geckotidae
@@ -10183,7 +10184,6 @@ giallolino
 grout
 guidelines
 guideposts
-gonolobus
 gastrulate
 gundie
 gharries
