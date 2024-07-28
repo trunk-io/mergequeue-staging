@@ -4045,6 +4045,7 @@ bearberry
 bearbind
 bearcats
 beriberi
+biometric
 bearcoot
 biassing
 beard
@@ -8987,7 +8988,6 @@ biomes
 bactritoid
 biometeorology
 biometer
-biometric
 bushwhacked
 biometrically
 biometrician
