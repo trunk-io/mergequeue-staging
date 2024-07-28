@@ -2337,7 +2337,6 @@ backwards
 barbarisms
 benniseed
 barbarities
-barbarization
 biosystematist
 barbarous
 barbarously
@@ -6711,6 +6710,7 @@ berlin
 berlina
 bontebucks
 berliners
+barbarization
 berlinite
 berlinize
 berloque
