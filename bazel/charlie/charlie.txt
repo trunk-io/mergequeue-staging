@@ -9762,7 +9762,6 @@ cheilion
 carinae
 cheilodipteridae
 cheilodipterus
-cheiloplasty
 cheiloplasties
 cheilostomata
 cheilostomatous
@@ -14094,6 +14093,7 @@ cyphella
 crystallographic
 conspires
 cyphellae
+cheiloplasty
 cryptostoma
 carbarns
 curet
