@@ -2371,7 +2371,6 @@ empirical
 effacer
 electrodesiccation
 ettling
-electrodiagnosis
 electrodiagnostic
 extratarsal
 electrodialysis
@@ -8266,6 +8265,7 @@ electrohomeopathy
 earsh
 epistolizing
 epistolography
+electrodiagnosis
 epistolographist
 epistomata
 epistome

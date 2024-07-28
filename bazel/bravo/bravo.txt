@@ -9183,6 +9183,7 @@ biotin
 biotype
 biotypic
 beds
+bleachyard
 biotypology
 biotite
 balsamea
@@ -10545,7 +10546,6 @@ bleacheries
 bleacherman
 bepaid
 basilisks
-bleachyard
 bleachman
 bleachs
 bleachworks
