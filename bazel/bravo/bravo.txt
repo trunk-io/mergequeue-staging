@@ -12307,6 +12307,7 @@ bombsight
 bombsights
 bombus
 bomi
+bedeafens
 bon
 bonaci
 bubos
@@ -15397,7 +15398,6 @@ barmier
 blesser
 bivouacs
 brinsell
-bedeafens
 bactericidal
 brioches
 briolet
