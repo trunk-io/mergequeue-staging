@@ -607,7 +607,6 @@ fleetings
 fenster
 falsify
 falsifiability
-falsificate
 falsification
 fourchee
 fannon
@@ -1203,6 +1202,7 @@ fourgons
 fulcrate
 filaments
 flirtling
+falsificate
 fascista
 flurriment
 flouting
