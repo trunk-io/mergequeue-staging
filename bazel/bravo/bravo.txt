@@ -718,7 +718,6 @@ bara
 bacteriogenic
 bacteriogenous
 bacteriohemolysin
-bacteriolysin
 boohooed
 bacteriolysis
 branchiform
@@ -8194,6 +8193,7 @@ bifid
 basaltic
 benincasa
 bookend
+bacteriolysin
 bifidate
 bifidity
 besoothe
