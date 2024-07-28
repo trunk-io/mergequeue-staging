@@ -7440,7 +7440,6 @@ between
 betweenbrain
 betweenmaid
 betweens
-betweentimes
 betweenwhiles
 bleedings
 betwixen
@@ -17517,6 +17516,7 @@ bossship
 burdener
 boothose
 burdenless
+betweentimes
 burdenous
 burghership
 burdens

@@ -1084,7 +1084,6 @@ finials
 fascine
 farnesol
 farness
-farnesses
 faro
 fleyland
 flaccidly
@@ -1190,6 +1189,7 @@ fasciodesis
 featherbone
 fumaroid
 frenzies
+farnesses
 feldspathoid
 fobs
 fasciolariidae
