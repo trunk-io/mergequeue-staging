@@ -5876,7 +5876,6 @@ catesbeiana
 catface
 cavalcaded
 catfaced
-catfacing
 catfall
 catfight
 creeled
@@ -31731,6 +31730,7 @@ custodianship
 custodier
 custodies
 custom
+catfacing
 customable
 customableness
 customably
