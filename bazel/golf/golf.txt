@@ -3018,7 +3018,6 @@ gemmiparity
 geobiont
 geobios
 glossography
-geobotanic
 gloppy
 geobotanically
 gurgulation
@@ -4609,6 +4608,7 @@ ginner
 ginnery
 gushy
 gruffiness
+geobotanic
 gonofs
 gorbellied
 garefowls
