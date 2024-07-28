@@ -10059,7 +10059,6 @@ connexive
 ceiling
 cephalochordate
 chenopodiaceous
-chenopodiales
 chenopodium
 chenopods
 cheongsam
@@ -28797,6 +28796,7 @@ crepitant
 craziness
 crepitate
 conceptualism
+chenopodiales
 crepitated
 crepitating
 crumblings
