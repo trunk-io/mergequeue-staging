@@ -1948,7 +1948,6 @@ billets
 bandfile
 bandfiled
 bandfish
-bandgap
 beseen
 blanketry
 bandhava
@@ -5461,6 +5460,7 @@ bejesus
 busied
 bejewel
 braising
+bandgap
 bostons
 bhara
 bejeweled
