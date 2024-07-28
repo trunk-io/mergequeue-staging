@@ -4749,7 +4749,6 @@ firy
 furcule
 flagons
 fasciolaria
-fiord
 funnyman
 flagpole
 flagrance
@@ -7850,6 +7849,7 @@ foreran
 foreranks
 fluidally
 forereaching
+fiord
 fellest
 foreread
 farsakh
