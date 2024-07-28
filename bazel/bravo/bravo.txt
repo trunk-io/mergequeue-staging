@@ -708,7 +708,6 @@ bacteriform
 bacterioagglutinin
 botchier
 bacterioblast
-brachistocephalic
 bacteriocidal
 bacteriocyte
 bacteriofluorescin
@@ -18295,6 +18294,7 @@ buttle
 boiseries
 buttling
 buckling
+brachistocephalic
 bicolored
 bounced
 balaphon
