@@ -1932,7 +1932,6 @@ gaudiness
 gaudless
 groggiest
 gaufer
-gauffer
 glyphography
 glycogenic
 gaufrette
@@ -4148,6 +4147,7 @@ gigglesome
 gentlehood
 gigglier
 giggliest
+gauffer
 gith
 golp
 gentlehearted
