@@ -2074,7 +2074,6 @@ camphorwood
 corruptible
 campier
 campiest
-chlorguanide
 campignian
 campylite
 campylometer
@@ -16803,6 +16802,7 @@ clothworker
 clots
 clottage
 clotted
+chlorguanide
 clottedness
 clotter
 clotty
