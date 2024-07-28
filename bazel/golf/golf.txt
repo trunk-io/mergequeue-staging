@@ -6084,7 +6084,6 @@ gymnurinae
 groundbreaker
 glottalized
 gestures
-gomphocarpus
 gallinule
 geography
 glottid
@@ -10508,6 +10507,7 @@ goaf
 glut
 gundygut
 galaxian
+gomphocarpus
 gundog
 gunfighting
 gunfire
