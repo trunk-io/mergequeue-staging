@@ -1071,7 +1071,6 @@ guesthouses
 ganging
 gefilte
 gangly
-ganglia
 gybed
 globigerinidae
 glossodynia
@@ -6350,6 +6349,7 @@ gnathidium
 giustina
 goundou
 gladstonian
+ganglia
 gnathite
 garuda
 gnathitis
