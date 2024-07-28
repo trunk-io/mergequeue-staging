@@ -14287,7 +14287,6 @@ antependium
 ammonation
 antepenuit
 antepenultima
-antepenultimate
 antepileptic
 antepyretic
 alkanal
@@ -21457,6 +21456,7 @@ asphaltic
 aguilarite
 anthrachrysone
 asphalting
+antepenultimate
 asphaltite
 antiman
 asphaltlike
