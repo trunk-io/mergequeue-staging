@@ -3518,7 +3518,6 @@ filesave
 forebodies
 filespec
 fibro
-frication
 fossores
 filestatus
 float
@@ -6665,6 +6664,7 @@ fining
 focusless
 filling
 floorings
+frication
 fortier
 furnacite
 focussed
