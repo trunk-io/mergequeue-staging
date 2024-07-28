@@ -3100,6 +3100,7 @@ gendarmerie
 glossemes
 graying
 gelts
+gorger
 geomechanics
 geodetics
 geodiatropism
@@ -10449,7 +10450,6 @@ gassing
 gummoses
 glabrousness
 gummosis
-gorger
 galbulus
 greedyguts
 greenbacker
