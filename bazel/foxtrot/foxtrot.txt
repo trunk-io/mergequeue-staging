@@ -7138,7 +7138,6 @@ fusus
 forechase
 footled
 footlers
-footles
 footless
 footlights
 fanned
@@ -9333,6 +9332,7 @@ francolite
 fowlfoot
 francophil
 faunish
+footles
 frogmouths
 figurations
 francophobe
