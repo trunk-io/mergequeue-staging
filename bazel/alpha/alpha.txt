@@ -3252,7 +3252,6 @@ activities
 activize
 activized
 activizing
-actless
 anchisaurus
 actor
 actory
@@ -6058,6 +6057,7 @@ agglutinins
 agglutinize
 agglutinogen
 aphorismical
+actless
 arrearages
 agglutinogenic
 an
