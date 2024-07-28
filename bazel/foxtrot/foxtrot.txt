@@ -4107,7 +4107,6 @@ fireflirt
 fireflower
 fleshy
 firehall
-fanion
 firehouse
 flaunch
 fluff
@@ -6030,6 +6029,7 @@ florula
 florulae
 flinder
 floscular
+fanion
 fleeceable
 fitchered
 floscularia
