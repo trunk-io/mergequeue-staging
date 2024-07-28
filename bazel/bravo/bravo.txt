@@ -1431,7 +1431,6 @@ baldrib
 bloops
 baldric
 baldrick
-baldricks
 baldrics
 baldricwise
 beasts
@@ -10616,6 +10615,7 @@ bleezy
 babuma
 brewst
 bleinerite
+baldricks
 borne
 blellums
 brits
