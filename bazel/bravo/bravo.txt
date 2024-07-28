@@ -8873,7 +8873,6 @@ biochemists
 biochore
 biocycle
 biocycles
-botan
 biocidal
 biocide
 backstabbing
@@ -16568,6 +16567,7 @@ bucklering
 buckles
 barse
 balanta
+botan
 buckoes
 buckone
 backpacked
