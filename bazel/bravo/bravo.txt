@@ -2981,6 +2981,7 @@ bephrase
 barretor
 barretry
 boundaries
+bangup
 bloodthirstily
 barretter
 barrettes
@@ -15603,7 +15604,6 @@ broadsided
 beaky
 bletheration
 basis
-bangup
 broadsides
 broadspread
 bellyfish
