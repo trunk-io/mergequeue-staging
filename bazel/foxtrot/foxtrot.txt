@@ -819,7 +819,6 @@ frugalities
 fanjets
 fanleaf
 filter
-fulminous
 foreseize
 feasts
 fanlights
@@ -10644,6 +10643,7 @@ fearlessly
 fruitlet
 fruitling
 fruits
+fulminous
 fruitstalk
 fruittime
 fruitwoman
