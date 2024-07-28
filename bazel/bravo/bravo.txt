@@ -3966,7 +3966,6 @@ backset
 bluishness
 buhl
 beakerful
-beakful
 balled
 beakier
 bandonion
@@ -10585,6 +10584,7 @@ blearness
 bleat
 bleated
 bleater
+beakful
 bleating
 brainwork
 biographee
