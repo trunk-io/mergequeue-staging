@@ -920,7 +920,6 @@ fourer
 fossilizable
 fiddly
 faradises
-flipjack
 fisticuffery
 fleeciness
 factitude
@@ -6487,6 +6486,7 @@ flurrying
 flurt
 flush
 flushable
+flipjack
 fictionisation
 flushboard
 flushed
