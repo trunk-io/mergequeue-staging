@@ -1694,7 +1694,6 @@ fearfullest
 fearing
 feist
 fearless
-firmness
 fearnought
 frisket
 fearsome
@@ -6682,6 +6681,7 @@ foder
 fodgel
 frankheartedly
 foe
+firmness
 fustiest
 frangibility
 firmarius
