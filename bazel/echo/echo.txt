@@ -878,7 +878,6 @@ empedoclean
 ectognatha
 entempest
 ectolecithal
-ectomere
 ectomeres
 ectomeric
 escheatable
@@ -9762,6 +9761,7 @@ excyst
 encomiendas
 esperanto
 espy
+ectomere
 earhead
 espials
 eartab
