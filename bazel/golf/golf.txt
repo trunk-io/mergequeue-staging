@@ -435,6 +435,7 @@ galeodes
 gareh
 gofferer
 galeorchis
+goober
 goner
 galeorhinidae
 guts
@@ -8564,7 +8565,6 @@ gazebo
 gob
 gonimolobe
 gravitation
-goober
 gumbotils
 gitanemuck
 gravitationally
