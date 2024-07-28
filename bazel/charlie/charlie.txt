@@ -9960,7 +9960,6 @@ commandant
 chemoreceptivity
 chemoreceptivities
 chemoreceptor
-ciconia
 chemoresistance
 chemosensitive
 chemosensitivities
@@ -17238,6 +17237,7 @@ captaculum
 coagulated
 coagulating
 cacogenic
+ciconia
 coagulation
 coagulations
 chartering
