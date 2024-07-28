@@ -558,7 +558,6 @@ echinidea
 exor
 equilibrist
 echinite
-echinocactus
 echinocereus
 echinochrome
 echinococcosis
@@ -4017,6 +4016,7 @@ empanelled
 empanelling
 empannel
 electrologic
+echinocactus
 emparl
 electrometry
 empasm
