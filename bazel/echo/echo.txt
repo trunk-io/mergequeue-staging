@@ -566,7 +566,6 @@ echinococcus
 empiristic
 echinoderidae
 echinoderma
-echinodermal
 echinodermata
 ergotoxine
 echinodermatous
@@ -10532,6 +10531,7 @@ exophagous
 eugene
 ethonomics
 espinillo
+echinodermal
 ethopoeia
 enzooty
 ethopoetic

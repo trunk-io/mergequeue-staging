@@ -5319,6 +5319,7 @@ castlery
 castles
 carvers
 correlates
+cyanus
 castlet
 castleward
 cowpony
@@ -13172,7 +13173,6 @@ cyanurin
 carbonyl
 cyanurine
 comfortlessly
-cyanus
 ciao
 cyaphenine
 cyath
