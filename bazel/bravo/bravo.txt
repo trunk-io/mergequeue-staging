@@ -2457,7 +2457,6 @@ barcarole
 betatter
 barcaroles
 bekko
-barcarolle
 belonged
 barcas
 biofog
@@ -14471,6 +14470,7 @@ bimonthlies
 brandi
 bepale
 begani
+barcarolle
 bynames
 brandyball
 bocher
