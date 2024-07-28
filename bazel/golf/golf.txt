@@ -1568,6 +1568,7 @@ grasses
 grievants
 gashouses
 groundskeeping
+gibbosely
 greenkeeper
 gasifier
 gasifiers
@@ -4008,7 +4009,6 @@ guiltful
 gibblegable
 gibbol
 gibbons
-gibbosely
 glove
 generalizable
 gibe
