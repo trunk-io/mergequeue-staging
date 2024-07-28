@@ -2195,6 +2195,7 @@ gnomons
 gutterwise
 gambodic
 gearcase
+gonaduct
 geared
 gearing
 gearings
@@ -2343,7 +2344,6 @@ goldurns
 gelant
 gelasian
 gelastic
-gonaduct
 glossology
 gelate
 geoprumnon
