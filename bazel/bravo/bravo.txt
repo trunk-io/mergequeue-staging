@@ -9615,7 +9615,6 @@ battery
 bisected
 bisectional
 beflatter
-bisectionally
 bisector
 bisectors
 bisectrices
@@ -16226,6 +16225,7 @@ brujos
 blemmatrope
 bearhound
 beadlike
+bisectionally
 bruke
 brulyie
 brulyiement
