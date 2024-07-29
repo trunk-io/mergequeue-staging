@@ -4525,7 +4525,6 @@ glar
 gladded
 groceryman
 gingerbready
-gangflower
 gingered
 gingerin
 gingering
@@ -5244,6 +5243,7 @@ graininess
 glandaceous
 galactonic
 glomming
+gangflower
 gonorrheic
 generalistic
 glandarious
