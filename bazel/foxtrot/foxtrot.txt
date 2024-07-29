@@ -8640,7 +8640,6 @@ festivity
 forthrightness
 farmhold
 forthset
-foeticidal
 forthtell
 forthteller
 farmings
@@ -10287,6 +10286,7 @@ finkel
 froglike
 forsook
 frogling
+foeticidal
 flamingoes
 fellmongered
 foeffment
