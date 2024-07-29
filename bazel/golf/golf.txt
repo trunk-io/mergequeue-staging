@@ -7971,7 +7971,6 @@ gear
 glissades
 grandfathers
 grandfilial
-grandgore
 grithman
 grieshuckle
 gymnogyps
@@ -9921,6 +9920,7 @@ guaranine
 geniality
 gonimoblast
 glossosteresis
+grandgore
 gegg
 guaranis
 gossiping
