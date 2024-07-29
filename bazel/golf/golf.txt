@@ -3282,7 +3282,6 @@ gantlines
 grotty
 gallant
 gellant
-geopolitics
 gliomata
 gerberas
 geopolitist
@@ -7371,6 +7370,7 @@ gospelist
 gospeller
 galaxy
 gospelly
+geopolitics
 gutnish
 gyrectomy
 genys
