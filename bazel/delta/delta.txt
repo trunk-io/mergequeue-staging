@@ -11397,6 +11397,7 @@ dischargeable
 duramen
 discharged
 decolonized
+disabler
 discharges
 discharging
 discharity
@@ -13477,7 +13478,6 @@ digraph
 disruly
 deltal
 disrump
-disabler
 disruptability
 deserve
 disrupting
