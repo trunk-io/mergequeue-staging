@@ -3668,7 +3668,6 @@ degust
 degustate
 desyl
 degusted
-degusting
 dehair
 dehairer
 ditchless
@@ -16486,6 +16485,7 @@ decimestrial
 doxologize
 doz
 defectible
+degusting
 dogtrick
 doze
 dozed
