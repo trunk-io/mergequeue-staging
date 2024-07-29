@@ -958,7 +958,6 @@ absenter
 absenters
 absently
 absentminded
-absentmindedly
 assonantly
 absentness
 absfarad
@@ -15620,6 +15619,7 @@ alamannian
 antimicrobial
 antimilitary
 aerothermodynamic
+absentmindedly
 antimilitarism
 aridnesses
 aegophony
