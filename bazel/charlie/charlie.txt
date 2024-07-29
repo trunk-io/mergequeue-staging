@@ -170,7 +170,6 @@ cripplers
 cabrestas
 cabresto
 cabret
-cabretta
 cabrettas
 cabreuva
 counterwitness
@@ -31729,6 +31728,7 @@ custodian
 custodianship
 custodier
 custodies
+cabretta
 custom
 catfacing
 customable
