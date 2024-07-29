@@ -6513,6 +6513,7 @@ durbachite
 disallowances
 desalinizing
 desalted
+discoloured
 desalter
 desalters
 dacrya
@@ -7060,7 +7061,6 @@ diswood
 destain
 duologues
 deutoplasm
-discoloured
 destalinization
 destalinize
 destandardize
