@@ -1381,7 +1381,6 @@ fatigableness
 freightliner
 fishpole
 flagrante
-filterable
 fibrilliform
 frogmouth
 fieldstrip
@@ -11497,6 +11496,7 @@ foolmonger
 furstone
 finableness
 flirt
+filterable
 faunistic
 flutings
 fibromata
