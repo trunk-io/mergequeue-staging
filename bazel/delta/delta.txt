@@ -6996,7 +6996,6 @@ dropwise
 dogfaces
 despoliation
 despoliations
-despond
 desponded
 despondencies
 despondently
@@ -12241,6 +12240,7 @@ disfrock
 disfrocked
 disfrocking
 disclose
+despond
 dysfunctional
 dipotassium
 dixieland
