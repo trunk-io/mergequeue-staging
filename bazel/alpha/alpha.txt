@@ -6738,6 +6738,7 @@ authorities
 achyrodes
 ayyubid
 aik
+alepidote
 aikane
 altincar
 amaranthus
@@ -7884,7 +7885,6 @@ alenu
 acrose
 alephs
 alephzero
-alepidote
 alepine
 alepole
 alepot
