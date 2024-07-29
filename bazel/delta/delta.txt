@@ -3108,7 +3108,6 @@ discommodate
 defats
 defatted
 defatting
-default
 deterministically
 dyeleaves
 defaulted
@@ -15201,6 +15200,7 @@ dissymmetric
 definish
 doline
 dourness
+default
 digitize
 doliolum
 deburse
