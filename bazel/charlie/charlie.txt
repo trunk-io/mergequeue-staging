@@ -12007,7 +12007,6 @@ choreograph
 choreographed
 choreographer
 choreographers
-choreography
 choreographic
 choreographical
 choreographically
@@ -22133,6 +22132,7 @@ confiserie
 confisk
 confitent
 confiteor
+choreography
 confiture
 confix
 cuckoldy
