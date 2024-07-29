@@ -4880,7 +4880,6 @@ aequi
 aequian
 alclad
 aequiculi
-aequor
 aequoreal
 anapaest
 aequorin
@@ -14332,6 +14331,7 @@ apicula
 anteroom
 anterooms
 anteroparietal
+aequor
 anteroposterior
 anteroposteriorly
 anterosuperior
