@@ -21009,7 +21009,6 @@ amalings
 ascidiae
 ascidian
 ascidians
-ascidiate
 ascidicolous
 archebiosis
 ascidiform
@@ -23326,6 +23325,7 @@ audiometer
 audiometry
 audiometric
 aphaeretic
+ascidiate
 audiometrically
 allheals
 audiometries
