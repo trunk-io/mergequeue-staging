@@ -4583,7 +4583,6 @@ ejacula
 enchantment
 epicarp
 epicoelia
-enchantments
 enchants
 encharging
 exopodite
@@ -8436,6 +8435,7 @@ electrodialitically
 epizootiologically
 essentializing
 epoch
+enchantments
 epithelioid
 enswathe
 evangels
