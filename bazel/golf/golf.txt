@@ -6181,7 +6181,6 @@ gesning
 glucosazone
 glucose
 galvanomagnetism
-glucosemia
 glucosidal
 glucosidase
 gaudful
@@ -8478,6 +8477,7 @@ gravelly
 gravelling
 guaymie
 gravelroot
+glucosemia
 graveside
 gravelweed
 glitnir
