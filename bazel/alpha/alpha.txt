@@ -1491,6 +1491,7 @@ amentulum
 accentless
 anticnemion
 accentor
+archprimate
 accentors
 accents
 acceptee
@@ -19121,7 +19122,6 @@ axonemal
 axhammered
 archpretender
 archpriesthood
-archprimate
 archcritic
 archprince
 archprophet
