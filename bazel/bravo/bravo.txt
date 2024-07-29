@@ -16495,7 +16495,6 @@ briefcases
 buccinum
 bucco
 bakeapple
-berme
 buccocervical
 butte
 belve
@@ -16760,6 +16759,7 @@ buffont
 blastoidea
 blattoidea
 breakwind
+berme
 bicostate
 buffoonery
 buffoonesque
