@@ -8833,7 +8833,6 @@ anguimorpha
 alloeotic
 alloerotic
 allogamy
-allogamous
 allogene
 anhedron
 alcoranic
@@ -14816,6 +14815,7 @@ antibacteriolytic
 antiballistic
 androecial
 antibank
+allogamous
 adorer
 antibaryon
 asthenobiosis
