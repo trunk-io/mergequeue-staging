@@ -3919,7 +3919,6 @@ beaches
 beachfront
 barbwires
 boarder
-beachie
 bajocian
 bois
 beaching
@@ -6583,6 +6582,7 @@ berattle
 berbamine
 borickite
 burbles
+beachie
 berberi
 berbery
 berberian
