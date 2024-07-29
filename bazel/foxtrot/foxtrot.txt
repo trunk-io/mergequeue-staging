@@ -3907,7 +3907,6 @@ formatters
 fuliguline
 fingerlings
 fingernail
-firmly
 fingernails
 fingerpost
 fingerprints
@@ -6049,6 +6048,7 @@ fittest
 feuilletonistic
 fortyfives
 flotillas
+firmly
 flibbertigibbets
 flotsams
 fibber
