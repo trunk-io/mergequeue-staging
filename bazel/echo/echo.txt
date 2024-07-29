@@ -3795,7 +3795,6 @@ emendicate
 excluded
 electrobiological
 embowl
-expansometer
 exurbia
 electrowinning
 emending
@@ -11241,6 +11240,7 @@ eutychian
 encrustant
 eutychianism
 eutocia
+expansometer
 engrafts
 equilibrator
 eutrophy
