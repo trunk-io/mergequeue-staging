@@ -5467,7 +5467,6 @@ bostons
 bhara
 bejeweled
 bejeweling
-bejewelled
 barricading
 bantingism
 bejewelling
@@ -13340,6 +13339,7 @@ bee
 bottomed
 bottomer
 bepistoled
+bejewelled
 bottomers
 bottoming
 bottomland
