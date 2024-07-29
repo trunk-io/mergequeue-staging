@@ -1869,7 +1869,6 @@ germfree
 gastrulating
 geographically
 gm
-gasworker
 gat
 gateado
 gromatic
@@ -6265,6 +6264,7 @@ goosier
 guaniferous
 glusid
 gluside
+gasworker
 geometricize
 guttulae
 glutamate
