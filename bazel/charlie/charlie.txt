@@ -7955,7 +7955,6 @@ cessionee
 cessment
 cessor
 cesspit
-cesspits
 cesspool
 cest
 cesta
@@ -19197,6 +19196,7 @@ cottonize
 collinear
 collinearity
 collinearly
+cesspits
 collineate
 cocainise
 collingual
