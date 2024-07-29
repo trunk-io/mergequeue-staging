@@ -1060,7 +1060,6 @@ calcifugal
 calcigenous
 calcigerous
 calcimeter
-calcimine
 calcimined
 calciminer
 calcimines
@@ -25099,6 +25098,7 @@ cording
 choiring
 cordis
 cordite
+calcimine
 cordleaf
 cementwork
 cordlessly
