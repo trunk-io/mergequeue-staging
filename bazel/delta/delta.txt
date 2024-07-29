@@ -1721,7 +1721,6 @@ deathsman
 deathsmen
 disconcerts
 deathtime
-diallages
 daze
 drouk
 drumsticks
@@ -7291,6 +7290,7 @@ determinacy
 determinant
 determinants
 determinated
+diallages
 duckhood
 daying
 determinately
