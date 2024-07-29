@@ -15144,7 +15144,6 @@ brickmaker
 brickmason
 brickred
 bricktimber
-borane
 brickwall
 brickwork
 brid
@@ -15305,6 +15304,7 @@ bikers
 brigid
 befingers
 borasco
+borane
 basifiers
 bibelot
 balcone
