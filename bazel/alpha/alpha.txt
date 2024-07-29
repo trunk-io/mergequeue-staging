@@ -4406,7 +4406,6 @@ adrenergic
 adrenin
 adrenochrome
 adrenocorticosteroid
-adrenocorticotrophic
 ammonolysis
 aneurine
 adrenocorticotropic
@@ -15462,6 +15461,7 @@ actiniomorpha
 antilacrosse
 autoplagiarism
 antilacrosser
+adrenocorticotrophic
 antigalactic
 acervately
 agillawood
