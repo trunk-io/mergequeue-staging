@@ -6848,7 +6848,6 @@ entombment
 entombments
 entombs
 entomere
-entomic
 entomical
 encarditis
 emrode
@@ -14053,6 +14052,7 @@ extremities
 ectostosis
 extremum
 extricable
+entomic
 emigrational
 ensepulcher
 extricate
