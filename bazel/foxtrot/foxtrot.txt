@@ -2502,7 +2502,6 @@ ferrier
 ferison
 foulsome
 ferrihydrocyanic
-ferryhouse
 flumdiddle
 ferrimagnet
 forewing
@@ -3487,6 +3486,7 @@ filches
 fatidic
 faventine
 febris
+ferryhouse
 freethinking
 feminisms
 fields
