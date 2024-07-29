@@ -9471,7 +9471,6 @@ differential
 differentialize
 differentiate
 dasypaedic
-differentiates
 differentiating
 decisis
 differentiation
@@ -17291,6 +17290,7 @@ drome
 dromed
 dromedary
 declassification
+differentiates
 disrupter
 dromedaries
 drometer
