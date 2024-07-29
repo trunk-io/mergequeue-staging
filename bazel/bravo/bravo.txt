@@ -5534,7 +5534,6 @@ belaying
 belays
 buggery
 belait
-bastion
 biface
 belam
 bandelet
@@ -12219,6 +12218,7 @@ boltless
 boltlike
 boltmaker
 barandos
+bastion
 boltropes
 boltsmith
 boltstrake
