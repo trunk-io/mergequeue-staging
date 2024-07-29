@@ -17052,7 +17052,6 @@ clusia
 castellanus
 chizz
 clusiaceae
-cluster
 clusterberry
 clustered
 clusterfist
@@ -17143,6 +17142,7 @@ coachy
 coaching
 coachlet
 coachmaker
+cluster
 coachman
 cordially
 cogency
