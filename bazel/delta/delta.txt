@@ -3089,6 +3089,7 @@ defamation
 defamations
 defamatory
 defame
+disponed
 defamed
 doweries
 defamer
@@ -13212,7 +13213,6 @@ dyspnoic
 dethronement
 dispone
 dayspring
-disponed
 disclaimer
 disponge
 dispopularize
