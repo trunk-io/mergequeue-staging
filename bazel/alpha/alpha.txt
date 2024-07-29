@@ -2041,7 +2041,6 @@ acetabular
 amasthenic
 acetabulous
 acetabulums
-acetacetic
 acetal
 acetaldehyde
 acetaldehydrase
@@ -6507,6 +6506,7 @@ agrilus
 agrimonies
 agrin
 agriochoeridae
+acetacetic
 antlered
 agriochoerus
 agriology
