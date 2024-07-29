@@ -1060,7 +1060,6 @@ flocculable
 foretimes
 farmeries
 farmerly
-fermata
 frigotherapy
 foresights
 five
@@ -11538,6 +11537,7 @@ fusate
 fuscin
 fuscous
 fuse
+fermata
 fuseau
 fibred
 fuseboard
