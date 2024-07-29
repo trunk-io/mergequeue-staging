@@ -2106,7 +2106,6 @@ elasmobranchii
 elasmothere
 eelfish
 exstipulate
-enrollments
 elastase
 elastases
 exclusivism
@@ -6710,6 +6709,7 @@ epicondylian
 endorsors
 enthymematic
 exosporium
+enrollments
 enthymematical
 enthymeme
 exterminist
