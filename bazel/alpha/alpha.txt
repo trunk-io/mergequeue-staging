@@ -853,7 +853,6 @@ abridged
 anisotropical
 addressee
 abridgement
-abridgements
 abridger
 abstractionism
 aptitudinal
@@ -15540,6 +15539,7 @@ antimachinery
 antimagnetic
 antimalaria
 antimalarial
+abridgements
 attitudinal
 agathaea
 apodemas
