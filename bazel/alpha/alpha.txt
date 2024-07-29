@@ -8384,7 +8384,6 @@ aliveness
 acknown
 alives
 alivincular
-alix
 antidysenteric
 acuminulate
 alizari
@@ -17169,6 +17168,7 @@ apodemata
 apodematal
 anemia
 apodictic
+alix
 apodictical
 apodictive
 apodidae
