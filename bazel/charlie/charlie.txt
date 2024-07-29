@@ -4938,7 +4938,6 @@ colours
 carvacryl
 catchfly
 competer
-carvacrol
 convolvulinic
 carvage
 conjugating
@@ -11483,6 +11482,7 @@ chlorphenol
 chlorpicrin
 chlorpromazine
 chlorpropamide
+carvacrol
 chlorprophenpyridamine
 chlorsalol
 chlortetracycline
