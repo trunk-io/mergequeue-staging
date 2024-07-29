@@ -2499,6 +2499,7 @@ gaia
 groomling
 gegger
 gemitores
+gossipped
 gemitorial
 gateways
 grottowork
@@ -6321,7 +6322,6 @@ gnaphalioid
 gnaphalium
 georgette
 grazers
-gossipped
 gnarly
 goutte
 gnarlier
