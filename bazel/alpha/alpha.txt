@@ -13692,7 +13692,6 @@ annularia
 annularity
 annularly
 annulate
-annulated
 asklent
 annulately
 amidated
@@ -24700,6 +24699,7 @@ adults
 avertable
 averter
 avertible
+annulated
 automatons
 avertiment
 averting
