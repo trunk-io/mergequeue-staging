@@ -1873,6 +1873,7 @@ gastrozooid
 germfree
 gastrulating
 geographically
+gm
 gasworker
 gat
 gateado
@@ -6307,7 +6308,6 @@ guzmania
 gluttonized
 gifblaar
 gluttonizing
-gm
 gmelinite
 geonoma
 gnaphalioid
