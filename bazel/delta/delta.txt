@@ -1588,7 +1588,6 @@ deafens
 deafer
 deafest
 deafforest
-deafforestation
 deafish
 deafly
 defial
@@ -16777,6 +16776,7 @@ disaffiliated
 drastic
 drastically
 drat
+deafforestation
 dissipates
 drats
 diathermometer
