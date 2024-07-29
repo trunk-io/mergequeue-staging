@@ -2230,7 +2230,6 @@ decennials
 decadation
 decennium
 decenniums
-decennoval
 decent
 decenter
 decentered
@@ -5944,6 +5943,7 @@ depreciators
 depredable
 depredate
 diaphototropic
+decennoval
 depredated
 depredating
 depredation

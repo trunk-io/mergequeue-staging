@@ -2583,6 +2583,7 @@ galvanizes
 gulp
 genderless
 glides
+gdinfo
 gastraeum
 genteelize
 gymnonoti
@@ -3812,7 +3813,6 @@ gibbously
 gharris
 genitofemoral
 gerately
-gdinfo
 ghassanid
 ghast
 gummous
