@@ -322,7 +322,6 @@ elementalize
 entrench
 eavedrop
 estado
-eavedropper
 evenings
 enunciate
 eaver
@@ -12562,6 +12561,7 @@ exilarch
 endarchies
 exilarchate
 exile
+eavedropper
 excambion
 exheredate
 exequy
