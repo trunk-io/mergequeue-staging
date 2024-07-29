@@ -8675,7 +8675,6 @@ allergenicity
 allergy
 accolent
 allergies
-allergin
 allergins
 attractableness
 albuminose
@@ -11025,6 +11024,7 @@ ampelidaceae
 ampelidaceous
 acher
 agony
+allergin
 alcoholometric
 ampelidae
 ampelideous
