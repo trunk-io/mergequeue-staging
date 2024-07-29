@@ -426,7 +426,6 @@ gladstone
 galvanotactic
 galenic
 grassant
-galenobismutite
 gowdnie
 glottologies
 gr
@@ -5091,6 +5090,7 @@ genepi
 gregory
 gastromenia
 glacialism
+galenobismutite
 glaucophane
 gurkha
 ganglioplexus
