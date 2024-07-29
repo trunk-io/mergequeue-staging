@@ -527,7 +527,6 @@ abjuratory
 abjure
 anticarnivorous
 anoesis
-autocarp
 abjured
 abjurement
 abjurer
@@ -9771,6 +9770,7 @@ accessoriusorii
 armstrong
 amanitins
 amanitopsis
+autocarp
 amanori
 amanous
 amant
