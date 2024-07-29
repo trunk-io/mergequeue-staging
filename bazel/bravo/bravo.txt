@@ -8734,7 +8734,6 @@ bundocks
 bids
 birkenhead
 binaries
-binate
 binately
 bibber
 bummer
@@ -16769,6 +16768,7 @@ bloodnoun
 biopsychologist
 bufotoxin
 bug
+binate
 bugaboo
 bullionless
 bemeal
