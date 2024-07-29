@@ -10754,7 +10754,6 @@ fdnames
 fs
 flirty
 foreigner
-fthm
 fantails
 ftncmd
 frenetic
@@ -11138,6 +11137,7 @@ funduline
 fundulus
 firemanship
 fauterer
+fthm
 forthbringing
 firebrands
 fluorindine
