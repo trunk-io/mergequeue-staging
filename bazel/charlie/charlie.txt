@@ -19464,7 +19464,6 @@ coloptosis
 colopuncture
 coloquintid
 color
-colorability
 coloradans
 colorado
 colorant
@@ -26017,6 +26016,7 @@ corvets
 corvettes
 corvidae
 corviform
+colorability
 corvillosum
 corvina
 colback
