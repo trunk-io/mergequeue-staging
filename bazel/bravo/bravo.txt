@@ -4279,6 +4279,7 @@ beblear
 bebled
 bebleed
 beblister
+bisecting
 broadcasts
 beblooded
 beagling
@@ -9604,7 +9605,6 @@ bisect
 bucko
 battery
 bisected
-bisecting
 bisectional
 beflatter
 bisectionally
