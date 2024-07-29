@@ -1945,7 +1945,6 @@ banderole
 banderoled
 banderols
 banders
-bandersnatch
 billets
 bandfile
 bandfiled
@@ -17876,6 +17875,7 @@ bronchoalveolar
 boomorah
 burstiness
 bursting
+bandersnatch
 burstone
 burstones
 bursts
