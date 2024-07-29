@@ -10655,7 +10655,6 @@ ascendants
 aminoplastic
 aminopolypeptidase
 aminopurine
-aminoquin
 asteatosis
 accurtation
 adenophorous
@@ -21290,6 +21289,7 @@ angliae
 availabile
 abhorred
 asyzygetic
+aminoquin
 aligners
 askant
 askapart
