@@ -6646,7 +6646,6 @@ despoilment
 deoxidisation
 deselected
 deselecting
-deselects
 desemer
 dunderhead
 dichotomised
@@ -12379,6 +12378,7 @@ disharmonising
 disharmonized
 dishaunt
 daimioate
+deselects
 directionless
 dishcloths
 dishclout
