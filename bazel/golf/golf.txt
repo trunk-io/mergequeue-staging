@@ -2150,7 +2150,6 @@ gazes
 gruel
 gulden
 gazetteerage
-gazetteerish
 giustamente
 gazetteership
 glike
@@ -3330,6 +3329,7 @@ gloriation
 geodetic
 geoside
 geosynchronous
+gazetteerish
 gaminesses
 gipsyism
 goosetongue
