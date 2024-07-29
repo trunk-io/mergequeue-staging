@@ -32,7 +32,6 @@ craters
 caballine
 caballing
 caballo
-caballos
 caban
 cabanas
 cabane
@@ -4547,6 +4546,7 @@ carotins
 carotte
 carouba
 carousal
+caballos
 carousals
 carouse
 caroused
