@@ -2512,7 +2512,6 @@ flavorfully
 ferring
 fault
 ferris
-fastball
 forepass
 forweep
 floorshow
@@ -7388,6 +7387,7 @@ forchase
 forches
 four
 forcedly
+fastball
 forcy
 forcibility
 fleuronee
