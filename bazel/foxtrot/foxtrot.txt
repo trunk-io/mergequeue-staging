@@ -18,7 +18,6 @@ fablemaker
 fablemongering
 fabler
 fablers
-fabling
 fabricable
 feeblemindedly
 fruticous
@@ -6045,6 +6044,7 @@ feuilletonistic
 fortyfives
 flotillas
 firmly
+fabling
 flibbertigibbets
 flotsams
 fibber
