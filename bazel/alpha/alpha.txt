@@ -3195,7 +3195,6 @@ actinophorous
 actinophryan
 actinopoda
 actinopraxis
-actinopteri
 auxometer
 actinopterygian
 actinopterygii
@@ -11553,6 +11552,7 @@ anacathartic
 antimoniureted
 acclinal
 acidiferous
+actinopteri
 anaces
 anachoret
 anachorism

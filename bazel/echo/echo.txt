@@ -4916,6 +4916,7 @@ exudate
 echopraxia
 excite
 epiphyseolysis
+eikon
 endarterial
 endarteritis
 exposed
@@ -14160,7 +14161,6 @@ extractant
 exultance
 exultancy
 excandescence
-eikon
 exultant
 exultantly
 ectropion
