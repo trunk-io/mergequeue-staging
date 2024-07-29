@@ -4395,7 +4395,6 @@ bringer
 backhands
 biopsies
 beclamored
-beclamour
 beclang
 beclap
 beclart
@@ -6435,6 +6434,7 @@ bilgeway
 boardmanship
 batta
 benzotetrazine
+beclamour
 benzotetrazole
 benzothiazine
 bellipotent
