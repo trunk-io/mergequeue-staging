@@ -3335,7 +3335,6 @@ definitize
 delactation
 ductings
 definitized
-definitizing
 disrudder
 definitor
 decretum
@@ -5493,6 +5492,7 @@ denumeral
 denumerantive
 denumerative
 denunciable
+definitizing
 denunciate
 decapodiform
 denunciation
