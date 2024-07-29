@@ -13877,7 +13877,6 @@ anophthalmos
 anophthalmus
 anopia
 amyelia
-anopias
 ataxiaphasia
 anopisthograph
 anthroponomical
@@ -24783,6 +24782,7 @@ avigation
 avigators
 acinetan
 avignonese
+anopias
 avijja
 adoptions
 avikom
