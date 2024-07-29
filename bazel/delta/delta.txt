@@ -5460,6 +5460,7 @@ dentolingual
 deozonization
 dentololabial
 dentonasal
+discos
 dentosurgical
 disrate
 dentulous
@@ -11717,7 +11718,6 @@ discordous
 discorporate
 discorrespondency
 depreter
-discos
 discost
 dep
 dredger
