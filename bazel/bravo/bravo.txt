@@ -256,7 +256,6 @@ buttonholes
 baccillla
 baccillum
 bonspiels
-baccivorous
 boers
 bach
 brickliner
@@ -2495,6 +2494,7 @@ bardlet
 bardlike
 bardling
 bardo
+baccivorous
 bellyfulls
 bassette
 beeheaded
