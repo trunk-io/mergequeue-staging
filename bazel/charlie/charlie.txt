@@ -13573,7 +13573,6 @@ cig
 cigale
 cigar
 cigaresque
-cigarette
 cigarettes
 certioration
 cise
@@ -29516,6 +29515,7 @@ crystallites
 crystallizability
 cycadofilicinean
 crystallizable
+cigarette
 crystallization
 crystallize
 crystallized

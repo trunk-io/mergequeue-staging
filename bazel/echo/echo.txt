@@ -12073,7 +12073,6 @@ excludable
 exigently
 exclude
 exergonic
-excludes
 excommunicated
 evoker
 enantobiosis
@@ -12514,6 +12513,7 @@ entertainable
 exhibitory
 exhibitorial
 exhibitors
+excludes
 exhibits
 exhilarant
 exhilarates
