@@ -6221,6 +6221,7 @@ flanch
 furtherest
 fluidextract
 fluidible
+forescript
 flamberge
 fluidification
 fooyoung
@@ -7861,7 +7862,6 @@ fantastical
 foresays
 frogginess
 foreschool
-forescript
 fibulas
 furriner
 furrowy
