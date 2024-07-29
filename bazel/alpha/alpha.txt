@@ -13141,6 +13141,7 @@ ani
 ambiance
 any
 advected
+apotheces
 anybody
 anybodies
 anice
@@ -17468,7 +17469,6 @@ alloyage
 apothecary
 apothecaryship
 apothece
-apotheces
 apothecia
 aerostat
 apothecial
