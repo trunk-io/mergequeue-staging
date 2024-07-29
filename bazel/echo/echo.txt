@@ -1897,7 +1897,6 @@ eria
 examined
 exobasidiales
 eightvo
-eightvos
 eying
 eikons
 eyl
@@ -5092,6 +5091,7 @@ endocranium
 endocrin
 equilibrations
 ember
+eightvos
 ensembles
 eulogia
 endocrinal
