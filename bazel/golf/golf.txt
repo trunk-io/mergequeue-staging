@@ -5682,7 +5682,6 @@ gangwayman
 glyptic
 gault
 glyptician
-glyptics
 glyptodon
 glyptodont
 geniting
@@ -10790,6 +10789,7 @@ grand
 gateman
 guttur
 guttural
+glyptics
 graphologic
 gutturalise
 gourinae
