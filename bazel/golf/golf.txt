@@ -2581,7 +2581,6 @@ genal
 genarch
 genarcha
 gendarmery
-gaff
 grizzles
 galvanizes
 gulp
@@ -3828,6 +3827,7 @@ ghastly
 ghastlier
 garble
 grayfishes
+gaff
 ghastlily
 ghastliness
 ghats
