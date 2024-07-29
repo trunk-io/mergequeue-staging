@@ -2634,6 +2634,7 @@ electrothermotic
 electrotype
 electrotyper
 electrotypes
+eyebeam
 expressible
 ephemerons
 electrotypy
@@ -8194,7 +8195,6 @@ episiotomies
 episkeletal
 episodes
 episodic
-eyebeam
 episodically
 elaeosia
 enthrallingly
