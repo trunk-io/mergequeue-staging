@@ -2579,7 +2579,6 @@ decolorising
 dearomatize
 decolorization
 disidentify
-decolorized
 drape
 dispersonify
 decolorizer
@@ -18535,6 +18534,7 @@ dude
 dustblu
 dustbox
 dustcart
+decolorized
 dustcloth
 detectably
 dustcover

@@ -7104,7 +7104,6 @@ cannelon
 centiares
 centiday
 centifolious
-centigrade
 centigrado
 centigram
 centigramme
@@ -30994,6 +30993,7 @@ chugger
 covenance
 cumulite
 cumulocirrus
+centigrade
 cumulonimbus
 cumulostratus
 cumulous
