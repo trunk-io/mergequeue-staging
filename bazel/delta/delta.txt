@@ -1771,7 +1771,6 @@ debatable
 divided
 debate
 debated
-debatefully
 debaters
 demibarrel
 debates
@@ -18293,6 +18292,7 @@ desertress
 duodecimo
 duodecimos
 deva
+debatefully
 duodedena
 diamine
 duodedenums
