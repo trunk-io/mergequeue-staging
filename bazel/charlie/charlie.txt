@@ -5475,7 +5475,6 @@ catadupe
 catafalco
 catafalque
 catagenesis
-coaggregation
 catagmatic
 capacitive
 catakinetomer
@@ -7994,6 +7993,7 @@ cetane
 cetanes
 chillest
 cete
+coaggregation
 cetene
 cetera
 ceterach
