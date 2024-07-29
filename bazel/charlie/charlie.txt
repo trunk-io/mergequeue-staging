@@ -17717,7 +17717,6 @@ cochlearia
 cochleariform
 cteninidia
 cuminseed
-cochleas
 cochleate
 cochleiform
 cochleleas
@@ -28111,6 +28110,7 @@ coggie
 crampoon
 crampoons
 cramps
+cochleas
 clatchy
 crams
 cranage
