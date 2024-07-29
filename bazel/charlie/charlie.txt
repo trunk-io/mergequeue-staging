@@ -24736,7 +24736,6 @@ coplanarity
 crotchwood
 climatotherapies
 coplanarities
-coplanation
 coplot
 coplots
 coplotted
@@ -26485,6 +26484,7 @@ contraception
 cotland
 crossflow
 camerlingo
+coplanation
 cotoneaster
 cotorment
 cotoro
