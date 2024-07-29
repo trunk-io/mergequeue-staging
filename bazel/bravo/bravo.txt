@@ -5597,7 +5597,6 @@ beleed
 belemnid
 behavioral
 belemnitic
-belemnitidae
 belemnoid
 boer
 belemnoidea
@@ -9385,6 +9384,7 @@ birdcall
 birdclapper
 bowdlerisation
 bibbers
+belemnitidae
 babus
 birdcraft
 betrayment
