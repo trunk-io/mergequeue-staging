@@ -3932,6 +3932,7 @@ delacrimation
 delay
 delayable
 distantness
+devised
 darr
 delayage
 delayed
@@ -16876,7 +16877,6 @@ drawrod
 drawshave
 drawsheet
 drawspan
-devised
 drawspring
 drawstop
 dinoceratid
