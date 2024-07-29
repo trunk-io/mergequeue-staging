@@ -8111,6 +8111,7 @@ chaetites
 chaetitidae
 chaetochloa
 chaetodon
+congenerical
 chaetodont
 chaetodontid
 chaetognath
@@ -22309,7 +22310,6 @@ condylomas
 congener
 congeneracy
 congeneric
-congenerical
 catheterizes
 congenerous
 castings
