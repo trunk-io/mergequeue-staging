@@ -1777,7 +1777,6 @@ eyelash
 empathizes
 eyelashes
 eyelast
-eikones
 epicenes
 eyeless
 entalent
@@ -9361,6 +9360,7 @@ erudition
 elementalist
 esd
 elapoid
+eikones
 eruditionist
 epimeron
 enshrinements
