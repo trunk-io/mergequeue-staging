@@ -1124,6 +1124,7 @@ flioma
 fluellite
 farther
 feeler
+falcopern
 forst
 fiscus
 farthermost
@@ -3955,7 +3956,6 @@ finisher
 finishes
 finishing
 finitesimal
-falcopern
 finitism
 finked
 frigidities
