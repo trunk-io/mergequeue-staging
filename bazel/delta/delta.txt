@@ -2716,7 +2716,6 @@ decorations
 decorative
 dodecanal
 decoratory
-donatio
 decorators
 decapsulation
 decorist
@@ -3555,6 +3554,7 @@ degeneracies
 dillydallying
 degeneralize
 degenerated
+donatio
 degenerately
 decanate
 degenerateness
