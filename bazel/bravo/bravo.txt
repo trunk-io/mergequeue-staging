@@ -3500,7 +3500,6 @@ bater
 bates
 batfishes
 broader
-batfowl
 batfowler
 batfowls
 batful
@@ -11581,6 +11580,7 @@ boatful
 boathead
 boathook
 boathouses
+batfowl
 boatyard
 boatie
 boatings
