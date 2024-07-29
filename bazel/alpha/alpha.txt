@@ -6646,7 +6646,6 @@ aholds
 aholt
 ahorse
 ahrendahronon
-ahriman
 ahrimanian
 aggravates
 ahs
@@ -9160,6 +9159,7 @@ almsman
 almsmen
 auriscope
 almsmoney
+ahriman
 almswomen
 algebra
 aneurism
