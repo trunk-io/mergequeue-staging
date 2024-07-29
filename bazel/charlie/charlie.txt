@@ -4460,6 +4460,7 @@ carnitine
 castane
 carnival
 carnivaller
+cavekeeper
 carnivallike
 chinchilla
 carnivals
@@ -6421,7 +6422,6 @@ caveats
 captiving
 cavefish
 cavey
-cavekeeper
 caveman
 concatenate
 cellulous
