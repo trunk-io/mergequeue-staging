@@ -1558,7 +1558,6 @@ derider
 dechlog
 deadmelt
 deadness
-dustproof
 deadpay
 deadpan
 ductileness
@@ -1584,6 +1583,7 @@ deafens
 deafer
 deafest
 deafforest
+dustproof
 deafish
 deafly
 defial
