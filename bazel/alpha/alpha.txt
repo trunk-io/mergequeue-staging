@@ -7563,7 +7563,6 @@ alburnums
 albus
 alc
 alca
-alcaaba
 alcade
 alcades
 alcahest
@@ -24838,6 +24837,7 @@ avoir
 avoirdupois
 avolation
 avolitional
+alcaaba
 avondbloem
 avosets
 amphicyrtic
