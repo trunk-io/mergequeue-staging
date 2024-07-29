@@ -8828,7 +8828,6 @@ chapelgoer
 chapelgoing
 chapeling
 chapelize
-chapellage
 chapellany
 chapelled
 chapelling
@@ -28472,6 +28471,7 @@ creases
 counterimpulse
 creasy
 creasier
+chapellage
 concomitantly
 creasing
 creasol
