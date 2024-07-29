@@ -16392,7 +16392,6 @@ antitryptic
 acequia
 antitropal
 autographs
-antitrope
 antitropy
 auxiliation
 antitropic
@@ -19926,6 +19925,7 @@ armamentaria
 armangite
 armary
 allelotropic
+antitrope
 adjusters
 arranging
 armaria
