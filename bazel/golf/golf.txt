@@ -1816,7 +1816,6 @@ glycerols
 galimatias
 gastropathic
 guam
-gnomish
 gastroperiodynia
 groundskeep
 grasswards
@@ -2612,6 +2611,7 @@ genecor
 giro
 geneki
 groupage
+gnomish
 genera
 generable
 geisotherm
