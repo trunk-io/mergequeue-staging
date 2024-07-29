@@ -10538,7 +10538,6 @@ diphenylguanidine
 diphenylmethane
 diphenylquinomethane
 davyum
-diphenyls
 diphenylthiourea
 diphenoxylate
 diphycercal
@@ -16012,6 +16011,7 @@ drachms
 dotiest
 dotiness
 doting
+diphenyls
 digestiveness
 dotingness
 dotish
