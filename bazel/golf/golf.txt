@@ -967,7 +967,6 @@ ganoid
 gammed
 generalize
 genospecies
-gammelost
 gurl
 gammers
 gamelote
@@ -6737,6 +6736,7 @@ goldfields
 greengroceries
 girdlestead
 goldfinch
+gammelost
 greillade
 goldflower
 goldhead
