@@ -5364,7 +5364,6 @@ affiliations
 aggradation
 affinal
 affined
-affinely
 affines
 affinitative
 addititious
@@ -8100,6 +8099,7 @@ algesiometer
 acquittance
 algy
 algicides
+affinely
 anargyros
 algidity
 algidness
