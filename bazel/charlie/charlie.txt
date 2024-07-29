@@ -5181,7 +5181,6 @@ chesterfieldian
 cassava
 casse
 canalling
-cassegrain
 casselty
 cassena
 casserole
@@ -15473,6 +15472,7 @@ chastised
 clanged
 clavicittern
 clangful
+cassegrain
 clanging
 cattle
 clangor
