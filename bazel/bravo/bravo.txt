@@ -2142,7 +2142,6 @@ bankroll
 bureaucratese
 bankrupt
 bankruptcy
-bankruptcies
 bankrupting
 bashmuric
 bankruptism
@@ -4090,6 +4089,7 @@ bronchomotor
 bearfoot
 bearfoots
 bearhugs
+bankruptcies
 borscht
 bearing
 bearings
