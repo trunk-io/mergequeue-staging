@@ -2701,7 +2701,6 @@ acoupa
 archmachine
 acoupe
 acousmata
-acousmatic
 artar
 absentmindedness
 acoustic
@@ -22655,6 +22654,7 @@ athletes
 athletic
 athletical
 achromate
+acousmatic
 awakings
 athletics
 athletocracy
