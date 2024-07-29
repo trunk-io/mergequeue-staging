@@ -3295,6 +3295,7 @@ caproic
 capromys
 chemicoengineering
 carneyed
+coccolite
 chaffcutter
 capron
 caprone
@@ -17674,7 +17675,6 @@ cubbyhouse
 coccoid
 coccoidal
 coccoids
-coccolite
 coccolithophorid
 coccoloba
 camaldolesian

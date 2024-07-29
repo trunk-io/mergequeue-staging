@@ -3259,7 +3259,6 @@ bedsore
 basilinna
 basiliscine
 besmear
-bardulph
 boggard
 basiliscus
 brawling
@@ -3719,6 +3718,7 @@ becursing
 battledore
 battledores
 blazoners
+bardulph
 baldly
 ballyrag
 battlefields
