@@ -20598,7 +20598,6 @@ compartmentize
 compartments
 compartner
 cellmates
-compass
 compassability
 compassed
 compasses
@@ -23749,6 +23748,7 @@ contoured
 contouring
 contourne
 cuckoldize
+compass
 carucage
 choragium
 contr
