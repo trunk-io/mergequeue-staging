@@ -1230,7 +1230,6 @@ furnishment
 fashioning
 flywort
 fumigatory
-foveae
 fiddlewood
 fatherling
 furiousity
@@ -8585,6 +8584,7 @@ fussers
 fleer
 facticide
 faultfind
+foveae
 fraggings
 foretrysail
 forswat
