@@ -6943,7 +6943,6 @@ cemeteries
 cobwebbery
 cenacle
 cenacles
-cenaculum
 coadjutors
 cecily
 cenanthous
@@ -19165,6 +19164,7 @@ collided
 collides
 collidin
 collidine
+cenaculum
 colliding
 collie
 collied
