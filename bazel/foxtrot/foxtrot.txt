@@ -4919,7 +4919,6 @@ ferrite
 flapmouthed
 flappable
 flapper
-flapperish
 foolery
 ficklehearted
 forehard
@@ -10180,6 +10179,7 @@ favoredness
 fulvescent
 falernian
 frithy
+flapperish
 fallibilist
 frithstool
 fritillaria
