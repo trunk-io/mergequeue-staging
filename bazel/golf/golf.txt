@@ -5594,7 +5594,6 @@ gassendist
 glycosaemia
 glycosemia
 glycosidase
-glycoside
 glutaraldehyde
 greet
 girlchild
@@ -9953,6 +9952,7 @@ generalissima
 goggliest
 guardant
 gabs
+glycoside
 guardants
 guardedness
 gendarme
