@@ -6838,7 +6838,6 @@ gapy
 gomeisa
 gomerec
 gowkit
-gomerel
 glossograph
 gomerils
 gomorrah
@@ -7695,6 +7694,7 @@ gradgrindish
 grigs
 gempylid
 gonid
+gomerel
 gradgrindism
 gps
 gradient
