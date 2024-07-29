@@ -20382,7 +20382,6 @@ arrowheads
 arrowy
 arrowing
 arrowless
-arrowlet
 arrowlike
 arrowplate
 automolite
@@ -20875,6 +20874,7 @@ arviculture
 arvos
 arx
 aweary
+arrowlet
 arachidonic
 arzan
 adaptationally
