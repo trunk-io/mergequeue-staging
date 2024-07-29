@@ -1048,7 +1048,6 @@ calche
 calciclase
 calcicole
 cretaceous
-calcicolous
 calcydon
 convocating
 cinctures
@@ -2989,6 +2988,7 @@ childes
 capacitative
 capacitativly
 capacities
+calcicolous
 capanne
 cystolithectomy
 camelopards
