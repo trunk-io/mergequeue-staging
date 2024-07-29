@@ -5221,6 +5221,7 @@ capa
 charlatanish
 cassock
 cassocked
+chave
 cassocks
 cassolette
 casson
@@ -9436,7 +9437,6 @@ chauvinists
 chavante
 chavantean
 cataphrygianism
-chave
 capulet
 chavel
 chavender
