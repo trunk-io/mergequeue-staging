@@ -13815,7 +13815,6 @@ distant
 dimetry
 diverting
 distantly
-disincarnate
 distaste
 distasteful
 distastefully
@@ -17220,6 +17219,7 @@ desulfuration
 drivels
 desktop
 driven
+disincarnate
 driverless
 discircumspection
 drivers

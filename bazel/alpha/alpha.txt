@@ -5737,7 +5737,6 @@ afterroll
 afters
 aftershaft
 amoral
-aftershafted
 aftershave
 aftershaves
 anzac
@@ -23101,6 +23100,7 @@ attesters
 attractable
 adventuresomely
 artocarpaceae
+aftershafted
 attesting
 arna
 attestive
