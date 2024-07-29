@@ -4437,7 +4437,6 @@ actinobranch
 archpatron
 adsignification
 acantharia
-adsmith
 adsmithing
 adsorbability
 adsorbable
@@ -5931,6 +5930,7 @@ archology
 agatize
 academial
 agatized
+adsmith
 agatizes
 anticonstitutional
 aerodonetics
