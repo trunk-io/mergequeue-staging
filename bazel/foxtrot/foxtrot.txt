@@ -3690,6 +3690,7 @@ fraternise
 funders
 fils
 forcipal
+fruited
 fletching
 flakelet
 farmy
@@ -4209,7 +4210,6 @@ firmhearted
 flask
 flexor
 flamefish
-fruited
 firmisternal
 fanciless
 faithfulness
