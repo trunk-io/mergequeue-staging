@@ -1868,7 +1868,6 @@ guinfo
 globosities
 gastrotomy
 gierfalcon
-garcinia
 gardevin
 gastrovascular
 gastrozooid
@@ -2999,6 +2998,7 @@ gila
 gastriloquist
 gracefulness
 glossophytia
+garcinia
 gentries
 gentrification
 gents
