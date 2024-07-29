@@ -12087,7 +12087,6 @@ anatidae
 azodiphenyl
 algol
 anatifa
-anatifae
 accidents
 anatifer
 anatiferous
@@ -22311,6 +22310,7 @@ astroite
 arseno
 agyria
 astrolabe
+anatifae
 artful
 associable
 astrolabical
