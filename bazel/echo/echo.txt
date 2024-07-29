@@ -5993,7 +5993,6 @@ enlighteners
 enthrone
 enlightening
 excipular
-entresol
 empties
 enlightens
 entame
@@ -9397,6 +9396,7 @@ eruptivity
 erupts
 erupturient
 ervenholder
+entresol
 ervils
 elver
 ervipiame
