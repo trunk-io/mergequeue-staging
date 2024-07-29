@@ -1888,6 +1888,7 @@ graveman
 gateposts
 gatetender
 grandaddy
+gripped
 gateward
 gatewards
 guariba
@@ -6885,7 +6886,6 @@ gringo
 grammalogue
 goney
 gorgons
-gripped
 goneness
 glacon
 graspingness
