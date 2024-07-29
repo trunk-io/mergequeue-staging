@@ -4571,7 +4571,6 @@ ginglymodi
 ginglymoid
 guildsmen
 gravic
-gyroceras
 ginglymostoma
 guran
 grandmother
@@ -7414,6 +7413,7 @@ gossipries
 guaiol
 gossips
 gregarinina
+gyroceras
 gossoon
 guanidine
 givers
