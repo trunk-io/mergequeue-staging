@@ -366,7 +366,6 @@ ebons
 eboulement
 ebracteolate
 ebriated
-ebricty
 ebriety
 enwoven
 ebrious
@@ -1423,6 +1422,7 @@ equiparate
 espundia
 effranchise
 effrenate
+ebricty
 effrontery
 enterococci
 endogenic
