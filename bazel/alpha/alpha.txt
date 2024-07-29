@@ -1694,7 +1694,6 @@ accompanyist
 anacusic
 aludra
 accompaniment
-accompanimental
 accompaniments
 accompanist
 asarite
@@ -7789,6 +7788,7 @@ aldm
 anthozooid
 aldoheptose
 antatrophic
+accompanimental
 aldoketene
 aldol
 aldolase
