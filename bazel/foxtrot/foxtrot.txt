@@ -119,6 +119,7 @@ facit
 frankforter
 faconde
 fusils
+foments
 fluorane
 fettered
 filiformed
@@ -5242,7 +5243,6 @@ fleahopper
 frameless
 falcated
 flear
-foments
 fleas
 fleaweed
 farfetchedness
