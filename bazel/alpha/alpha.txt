@@ -2342,7 +2342,6 @@ atar
 achondritic
 achondroplasia
 angiography
-achor
 achordal
 assails
 achordata
@@ -11947,6 +11946,7 @@ anaptychi
 anaptyctic
 anaptyctical
 addressability
+achor
 analysation
 archaeogeology
 arachnology
