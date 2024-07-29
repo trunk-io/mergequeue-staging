@@ -6540,6 +6540,7 @@ gobang
 geomorphology
 girthline
 gidyea
+grypanian
 glegness
 groundy
 gesnerian
@@ -10030,7 +10031,6 @@ gudget
 glamberry
 geranomorphic
 glycogen
-grypanian
 globuloid
 gudrun
 ged
