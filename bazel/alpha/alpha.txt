@@ -463,7 +463,6 @@ antianopheline
 abiogeny
 abiogenist
 abiology
-ambulacriform
 abiologically
 abiotic
 arthrodirous
@@ -5045,6 +5044,7 @@ aerohydrodynamic
 aerohydropathy
 aerohydroplane
 apotheosise
+ambulacriform
 autological
 aerohydrous
 anodine
