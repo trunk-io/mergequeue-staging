@@ -2088,7 +2088,6 @@ bankalachi
 bangwaketsi
 banya
 banyai
-banians
 baniya
 banilad
 bankerdom
@@ -9158,6 +9157,7 @@ biotaxy
 biotech
 barotropy
 ballrooms
+banians
 bisync
 biotechnology
 barrett
