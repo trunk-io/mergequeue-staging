@@ -1730,7 +1730,6 @@ forwander
 fadings
 filtrate
 feat
-feather
 featherback
 featherbird
 flintiness
@@ -4006,6 +4005,7 @@ finnier
 finniest
 finnmark
 fundraising
+feather
 finnmarks
 finnoc
 finnochio
