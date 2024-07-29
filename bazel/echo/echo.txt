@@ -7954,7 +7954,6 @@ enjambement
 epidermomycosis
 epimeres
 epimeric
-epimeride
 epitomized
 endoneurial
 epimerite
@@ -10093,6 +10092,7 @@ euonym
 extraviolet
 eupatory
 eparchate
+epimeride
 estrif
 existimation
 even
