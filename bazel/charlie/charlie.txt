@@ -10182,7 +10182,6 @@ chesset
 chessylite
 chessman
 chessmen
-chessner
 chessom
 coxalgic
 chest
@@ -25759,6 +25758,7 @@ corregidor
 corregidores
 consolute
 corregidors
+chessner
 coordinates
 corregimientos
 corcyraean
