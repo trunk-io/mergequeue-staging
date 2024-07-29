@@ -2189,6 +2189,7 @@ blader
 bailieries
 banqueted
 bootlegs
+bloomers
 banqueting
 banquets
 ballote
@@ -11110,7 +11111,6 @@ bricks
 blacksmith
 blastomycin
 bloomerism
-bloomers
 borderlines
 bloomier
 bloomiest
