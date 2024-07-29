@@ -1906,7 +1906,6 @@ asssembler
 accusation
 abhorrible
 angularly
-accusatival
 accusative
 accusatively
 accusativeness
@@ -9203,6 +9202,7 @@ adonian
 alodiality
 alodially
 alodialty
+accusatival
 administratively
 alodies
 amphicarpium
