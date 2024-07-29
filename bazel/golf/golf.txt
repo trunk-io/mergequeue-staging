@@ -2546,7 +2546,6 @@ gained
 gemsboks
 gemsbucks
 gheg
-gemse
 gemuetlich
 granitic
 gemuti
@@ -8251,6 +8250,7 @@ gyrated
 graphometrical
 gowlan
 graphometrist
+gemse
 graphomotor
 glutination
 graphonomy
