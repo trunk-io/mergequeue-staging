@@ -14523,7 +14523,6 @@ anthracotheriidae
 anthracotic
 anthracoxen
 anthradiquinone
-anthragallol
 anthrahydroquinone
 anthralin
 anthramin
@@ -14818,6 +14817,7 @@ alphorns
 antibacchii
 antibacchius
 antibacterial
+anthragallol
 antibacteriolytic
 antiballistic
 androecial
