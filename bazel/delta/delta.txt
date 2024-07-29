@@ -4849,7 +4849,6 @@ distances
 demonian
 drum
 drawcansir
-demonianism
 demoniast
 demonically
 demonifuge
@@ -5989,6 +5988,7 @@ deputize
 deprivals
 deprivate
 dioptase
+demonianism
 democrat
 deprive
 deprived
