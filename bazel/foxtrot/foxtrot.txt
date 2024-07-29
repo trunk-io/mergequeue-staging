@@ -978,7 +978,6 @@ forbidal
 fardels
 fornent
 fourchite
-farding
 fards
 furrure
 fared
@@ -3921,6 +3920,7 @@ flabellation
 feuars
 fritting
 fabricated
+farding
 fulgurite
 formalising
 fingerspin
