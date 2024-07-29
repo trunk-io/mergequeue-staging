@@ -2663,6 +2663,7 @@ generalizer
 generalizers
 gene
 gauffred
+gluts
 generalness
 generals
 generalships
@@ -3429,7 +3430,6 @@ gerbils
 grummet
 gerefa
 gerenda
-gluts
 gerent
 gerenuks
 gyral
