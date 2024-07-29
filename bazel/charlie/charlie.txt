@@ -16051,7 +16051,6 @@ clergess
 clergy
 clergyable
 calcic
-clergymen
 clergion
 clergywoman
 cleric
@@ -31007,6 +31006,7 @@ churchified
 countersiege
 chabuks
 cuna
+clergymen
 cunabula
 cunabular
 cunan
