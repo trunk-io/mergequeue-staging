@@ -5062,7 +5062,6 @@ dismember
 denaturant
 dislikelihood
 denaturants
-denaturation
 discure
 demur
 dehumanize
@@ -10444,6 +10443,7 @@ dioptric
 drudgers
 dioptrically
 dioptrics
+denaturation
 dioptrometry
 dominos
 driftpiece
