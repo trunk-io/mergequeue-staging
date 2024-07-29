@@ -538,7 +538,6 @@ cads
 cadua
 caduac
 caducary
-caducean
 chloroprene
 caduceus
 catenated
@@ -3790,6 +3789,7 @@ carburator
 carbure
 carburet
 carburetant
+caducean
 carbureted
 carbureter
 carburetest
