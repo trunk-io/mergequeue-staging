@@ -17633,7 +17633,6 @@ coccidian
 cragged
 coccidiidea
 coccidioidal
-coccidioides
 coccidiosis
 cariogenic
 ctenocyst
@@ -28156,6 +28155,7 @@ cranic
 craniectomy
 craninia
 codiales
+coccidioides
 craftiest
 craniocele
 craniocerebral
