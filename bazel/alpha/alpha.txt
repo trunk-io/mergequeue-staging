@@ -1692,6 +1692,7 @@ accompaniment
 accompanimental
 accompaniments
 accompanist
+asarite
 agrestis
 accompanists
 accomplement
@@ -11851,7 +11852,6 @@ anamesite
 anamite
 anammonid
 ancestral
-asarite
 anatoly
 anamneses
 albertinian
