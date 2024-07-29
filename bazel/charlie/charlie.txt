@@ -13127,7 +13127,6 @@ cyanogenic
 cyanogens
 cyanohydrin
 cyanol
-cyanole
 cecomorphic
 cyanomaclurin
 cyanometer
@@ -28848,6 +28847,7 @@ cresoline
 cresorcin
 cresorcinol
 coconsecrator
+cyanole
 cumbent
 cresotate
 cresotic
