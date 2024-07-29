@@ -4436,7 +4436,6 @@ demasts
 degenerations
 dematerialisation
 dematerialise
-dematerialize
 dematerialized
 disbalance
 dematerializing
@@ -12018,6 +12017,7 @@ disemplane
 defalcating
 denaturize
 disemploy
+dematerialize
 disemployed
 disemploying
 dorados
