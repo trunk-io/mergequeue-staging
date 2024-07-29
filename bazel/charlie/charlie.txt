@@ -14251,6 +14251,7 @@ circuitry
 canalizations
 clochan
 cosmolatry
+camera
 circulable
 cinclis
 circularisation
@@ -17463,7 +17464,6 @@ coauthored
 crosshaul
 cherishes
 coauthoring
-camera
 connectedness
 creators
 coauthority
