@@ -1188,7 +1188,6 @@ gnatsnap
 ganoses
 gawks
 globoseness
-getter
 gansa
 glaceing
 gansey
@@ -3490,6 +3489,7 @@ glede
 germanium
 gavelling
 germanization
+getter
 goran
 glimmeringly
 gangways
