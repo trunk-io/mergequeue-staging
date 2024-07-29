@@ -2845,7 +2845,6 @@ francs
 feuille
 flamandize
 feuilleton
-feuilletonism
 feuilletons
 farfel
 floccilation
@@ -5787,6 +5786,7 @@ flogging
 foreman
 frustratingly
 flogmaster
+feuilletonism
 flogs
 faults
 feronia
