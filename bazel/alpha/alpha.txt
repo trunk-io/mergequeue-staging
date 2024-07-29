@@ -2450,6 +2450,7 @@ acidness
 acidnesses
 acidogenic
 ademption
+amovability
 acidoid
 acidolysis
 acidology
@@ -11010,7 +11011,6 @@ amour
 apoplex
 amouret
 amourist
-amovability
 amovable
 assuredly
 agalactia
