@@ -14344,7 +14344,6 @@ czardas
 circumduce
 circumduct
 circumduction
-circumesophagal
 circumesophageal
 circumfer
 checkline
@@ -17498,6 +17497,7 @@ creach
 cloys
 cobaltinitrite
 cobaltocyanic
+circumesophagal
 cobaltous
 cobalts
 ceteosaur

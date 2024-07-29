@@ -842,7 +842,6 @@ fanon
 feerie
 fanons
 fluxgraph
-foretellers
 fanos
 fettler
 fans
@@ -11736,6 +11735,7 @@ ferfathmur
 fuzils
 flotages
 fuzing
+foretellers
 fuzz
 fayumic
 ferrean
