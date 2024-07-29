@@ -8245,7 +8245,6 @@ cometarium
 chairladies
 curin
 choosy
-collectivum
 chairlift
 chairmaking
 chairman
@@ -8892,6 +8891,7 @@ chappies
 chappin
 chapping
 chappow
+collectivum
 chaprasi
 chaps
 commercia
