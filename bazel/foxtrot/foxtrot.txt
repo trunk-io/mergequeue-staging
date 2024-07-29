@@ -1884,7 +1884,6 @@ federator
 farmscape
 flee
 frostbite
-feeable
 forane
 fecundated
 flavin
@@ -3651,6 +3650,7 @@ furoin
 fleeching
 foreshoulder
 flagginess
+feeable
 filmed
 fabulists
 fiftieths

@@ -3812,7 +3812,6 @@ glosses
 greenback
 ghan
 gibbously
-gigas
 gharris
 genitofemoral
 gdinfo
@@ -5300,6 +5299,7 @@ garnel
 gwyniad
 glaring
 glarry
+gigas
 grainland
 glutael
 gramper
