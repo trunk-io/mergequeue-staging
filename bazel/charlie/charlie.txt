@@ -573,7 +573,6 @@ caecostomy
 caedmonian
 cochylis
 caelian
-caelometer
 caelus
 caenogaea
 caenogaean
@@ -9960,6 +9959,7 @@ chemonite
 chemopallidectomy
 calcipexy
 chemopallidectomies
+caelometer
 chemophysiology
 chemophysiological
 chemoprophyalctic
