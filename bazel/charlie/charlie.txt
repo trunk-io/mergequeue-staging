@@ -10478,7 +10478,6 @@ chiefless
 chiefling
 chiefry
 chiefs
-chieftain
 citrate
 conure
 chieftaincies
@@ -27632,6 +27631,7 @@ cowardice
 chrobat
 cowardish
 cowardly
+chieftain
 cowardliness
 cowardness
 cowards
