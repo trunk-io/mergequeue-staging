@@ -2589,7 +2589,6 @@ brevets
 bryogenin
 bargham
 barghest
-brachydomal
 bargir
 bugara
 boomer
@@ -14488,6 +14487,7 @@ brandify
 brandying
 brandyman
 branding
+brachydomal
 brandiron
 brandise
 blennoid
