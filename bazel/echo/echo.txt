@@ -12052,7 +12052,6 @@ excitons
 excitonutrient
 effectuates
 excitovascular
-excl
 erucic
 exclaimers
 encincturing
@@ -13402,6 +13401,7 @@ eggler
 enterozoan
 expropriator
 eolotropic
+excl
 exptl
 expugnable
 euryalean
