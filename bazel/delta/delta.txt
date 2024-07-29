@@ -3694,7 +3694,6 @@ dehydrocorticosterone
 dehydroffrozen
 dehydrofreeze
 delis
-dehydrofreezing
 dehydrofroze
 dehydrofrozen
 dehydrogenase
@@ -11911,6 +11910,7 @@ discussionist
 discussions
 discussive
 discustom
+dehydrofreezing
 discutable
 discute
 discutient
