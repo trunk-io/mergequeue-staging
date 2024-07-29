@@ -1337,7 +1337,6 @@ fathercraft
 fathered
 fatherkin
 fatherland
-frogged
 folkmoot
 fluoroscopically
 fender
@@ -6046,6 +6045,7 @@ fibber
 froust
 flotsan
 forpined
+frogged
 freckledness
 foaling
 flotson
