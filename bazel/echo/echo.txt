@@ -1590,7 +1590,6 @@ exocolitis
 eglomerate
 escargatoire
 erythropsia
-epitrchelia
 emaculate
 epityphlitis
 ergate
@@ -4584,6 +4583,7 @@ epiblema
 enchant
 enchanted
 enchanter
+epitrchelia
 extramission
 enchantery
 enchanters
