@@ -2601,6 +2601,7 @@ evaporator
 electrostenolysis
 emotes
 electrostenolytic
+ecarte
 euripi
 electrostriction
 electrosurgery
@@ -9096,7 +9097,6 @@ erythrinus
 erythrism
 edriophthalma
 englobed
-ecarte
 erythrite
 erythritol
 erythroblastic
