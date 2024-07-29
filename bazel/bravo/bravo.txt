@@ -8112,7 +8112,6 @@ bingy
 biddulphiaceae
 bide
 bidens
-bident
 bidental
 bubastite
 bidentate
@@ -8373,6 +8372,7 @@ biparentally
 becompass
 bigthatch
 biguanide
+bident
 bigwig
 bluenoser
 bivalencies
