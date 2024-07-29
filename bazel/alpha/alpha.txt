@@ -11424,7 +11424,6 @@ appendical
 amuyong
 anglaise
 alltud
-amula
 amulae
 amulas
 amulet
@@ -20026,6 +20025,7 @@ armomancy
 antineutrino
 armonica
 armor
+amula
 armorbearer
 armored
 armorer
