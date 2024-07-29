@@ -908,7 +908,6 @@ bafta
 baftah
 baga
 bemaim
-bitmap
 boistously
 bagani
 bagass
@@ -13077,6 +13076,7 @@ bose
 bosey
 boselaphus
 boser
+bitmap
 bosh
 baham
 boshas
