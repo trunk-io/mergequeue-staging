@@ -4918,6 +4918,7 @@ gyromele
 gunnysacks
 gymnasisiums
 grandpapa
+gercrow
 gnawers
 giron
 gyron
@@ -9216,7 +9217,6 @@ greyback
 gritty
 grapnel
 grittie
-gercrow
 gombay
 goninidia
 goldenness
