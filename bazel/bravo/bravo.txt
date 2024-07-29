@@ -3014,7 +3014,6 @@ botts
 barristership
 barristress
 basibregmatic
-barrooms
 barrow
 barrowist
 barrowman
@@ -13642,6 +13641,7 @@ bovovaccine
 bovver
 balantidic
 bow
+barrooms
 bowshot
 bowback
 bowbells
