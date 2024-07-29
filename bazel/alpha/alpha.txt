@@ -21663,7 +21663,6 @@ assemblymen
 actuaries
 assemblywoman
 assemblywomen
-assentaneous
 assentation
 assentatious
 assented
@@ -24917,6 +24916,7 @@ awakable
 awakeable
 anticathexis
 awaked
+assentaneous
 awakenable
 awakened
 awakener
