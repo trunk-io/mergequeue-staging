@@ -4162,7 +4162,6 @@ empasma
 eucephalous
 ecod
 effund
-enteromere
 expellant
 employe
 extracolumella
@@ -9358,6 +9357,7 @@ eructs
 eruditical
 epigram
 erudition
+enteromere
 elementalist
 esd
 elapoid
