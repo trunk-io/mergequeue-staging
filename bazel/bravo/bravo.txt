@@ -4558,7 +4558,6 @@ byplays
 brinston
 bedcovers
 bedder
-bedding
 beddingroll
 batwa
 beddings
@@ -13112,6 +13111,7 @@ bosomer
 bosominess
 bosoms
 blacks
+bedding
 birdcatching
 bosporan
 bosporian
