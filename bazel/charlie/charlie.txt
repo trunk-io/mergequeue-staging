@@ -17527,7 +17527,6 @@ cobblership
 cobbles
 cobblestone
 cheekfuls
-cobblestoned
 cobblestones
 cobbly
 cobbra
@@ -19341,6 +19340,7 @@ colocating
 colocentesis
 corbeil
 colocephali
+cobblestoned
 colocephalous
 coloclysis
 colocola
