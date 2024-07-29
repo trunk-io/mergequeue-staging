@@ -5791,7 +5791,6 @@ gamostele
 gorgonised
 globy
 globicephala
-globigerina
 gymnadeniopsis
 gurdfish
 gederite
@@ -6559,6 +6558,7 @@ gobbing
 gobbledegook
 gobbledygook
 gobbler
+globigerina
 gobbling
 gaut
 gooey
