@@ -4301,7 +4301,6 @@ deltiology
 deltohedron
 deltoid
 deltoidei
-diplotegia
 deltoids
 diabolization
 delubra
@@ -5103,6 +5102,7 @@ dendrochronologist
 dendrocygna
 dendroclastic
 dendrocoela
+diplotegia
 dieted
 dendrocoelan
 dendrocoelous
