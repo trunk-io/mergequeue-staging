@@ -2568,7 +2568,6 @@ ferrovanadium
 figureheads
 fangled
 ferrugineous
-ferruginous
 frontispiece
 flaskful
 foughten
@@ -7310,6 +7309,7 @@ fulvene
 foreplot
 financiere
 forebodingly
+ferruginous
 forbidals
 forbiddal
 faddiest
