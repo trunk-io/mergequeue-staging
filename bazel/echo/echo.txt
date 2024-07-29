@@ -2080,7 +2080,6 @@ eperlan
 elaphe
 estating
 elaphodus
-elaphomycetaceae
 extrema
 elaphrium
 elaphure
@@ -11494,6 +11493,7 @@ exculpating
 endogenae
 etherizer
 everbearer
+elaphomycetaceae
 ergogram
 everest
 everglades
