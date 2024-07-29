@@ -4730,7 +4730,6 @@ flagleaf
 filesniff
 forechurch
 flaglike
-flagmaker
 franchisement
 flagmen
 firy
@@ -6003,6 +6002,7 @@ functioned
 flosculet
 frowzier
 forebackwardly
+flagmaker
 flosh
 fungosities
 flossa
