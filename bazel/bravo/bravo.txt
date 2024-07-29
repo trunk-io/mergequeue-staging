@@ -3333,7 +3333,6 @@ basketwork
 bucconasal
 basketworm
 basking
-baskish
 brushbird
 braunite
 basks
@@ -11229,6 +11228,7 @@ blowhard
 blowhole
 barbarizing
 blowier
+baskish
 basqued
 bemixt
 blowiness
