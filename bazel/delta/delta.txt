@@ -2119,7 +2119,6 @@ depauperization
 dummyweed
 decasepalous
 duolog
-decasyllabic
 decasyllable
 decasyllables
 dang
@@ -16439,6 +16438,7 @@ downtrends
 deciphered
 downtrod
 downtrodden
+decasyllabic
 downturn
 deceasing
 downway
