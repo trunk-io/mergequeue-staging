@@ -6279,6 +6279,7 @@ bents
 bentwoods
 bovey
 bulletproof
+bankrolling
 benu
 benumbed
 benumbing
@@ -11288,7 +11289,6 @@ believers
 blueball
 boomerang
 blueballs
-bankrolling
 bluebead
 burglarise
 blob
