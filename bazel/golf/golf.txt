@@ -2570,6 +2570,7 @@ genarch
 genarcha
 gendarmery
 grizzles
+gonidiophore
 galvanizes
 gulp
 genderless
@@ -4073,7 +4074,6 @@ grison
 gift
 goffle
 gusain
-gonidiophore
 giftbook
 gifted
 germanic
