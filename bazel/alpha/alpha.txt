@@ -7082,7 +7082,6 @@ ajar
 ajari
 ajava
 ajax
-ajee
 ajenjo
 ajhar
 ajiva
@@ -10509,6 +10508,7 @@ amygdalic
 anticyclones
 amygdaliferous
 amygdalin
+ajee
 amygdaline
 amygdalinic
 anatases
