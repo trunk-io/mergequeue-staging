@@ -7439,6 +7439,7 @@ euscaro
 ephemeran
 ephemeras
 editchar
+ejected
 engluts
 egence
 ephemeric
@@ -12637,7 +12638,6 @@ encephalon
 excipule
 encyclicals
 exocardia
-ejected
 exocardiac
 extracardial
 entwinement
