@@ -1449,7 +1449,6 @@ gonomery
 getfd
 garnison
 garniture
-garon
 graybacks
 goidelic
 garotte
@@ -4744,6 +4743,7 @@ gleamingly
 gypsywise
 gipsywort
 gryphaea
+garon
 gypsology
 grossing
 gemmoid
