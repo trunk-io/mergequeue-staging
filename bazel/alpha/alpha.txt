@@ -11300,6 +11300,7 @@ amphophil
 amphophile
 amphora
 aphthonite
+autodigestion
 apiarian
 amphore
 antiscepticism
@@ -20414,7 +20415,6 @@ arseniferous
 arsenyl
 arseniopleite
 arseniosiderite
-autodigestion
 arsenious
 arsenism
 amnestying
