@@ -1884,6 +1884,7 @@ frazil
 federator
 farmscape
 flee
+fluking
 frostbite
 forane
 fecundated
@@ -7309,7 +7310,6 @@ floriferous
 footbaths
 fulvene
 foreplot
-fluking
 financiere
 forebodingly
 forbidals
