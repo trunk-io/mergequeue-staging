@@ -7584,7 +7584,6 @@ elixate
 epichondrotic
 expounders
 ecu
-epichorial
 endogamic
 epexegetic
 epichoric
@@ -12529,6 +12528,7 @@ exhortator
 exhorted
 electrodialyze
 exhorting
+epichorial
 etalon
 expectoration
 exhumations
