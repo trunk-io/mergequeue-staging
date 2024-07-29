@@ -4041,6 +4041,7 @@ aeroscopic
 antimetathesis
 adjured
 adjurer
+affirmative
 adjurers
 antiglobulin
 acerbated
@@ -5373,7 +5374,6 @@ affirmant
 affirmation
 affirmations
 anura
-affirmative
 affirmatively
 adpromission
 affirmatory
