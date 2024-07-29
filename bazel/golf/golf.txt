@@ -2368,7 +2368,6 @@ gullies
 gramps
 gelatination
 gaoloring
-gelatine
 gelatined
 gelatiniferous
 grogging
@@ -10660,6 +10659,7 @@ gurts
 gutierrez
 globalize
 guitarist
+gelatine
 grubbies
 gus
 guser
