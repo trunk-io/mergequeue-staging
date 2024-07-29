@@ -2132,6 +2132,7 @@ campus
 campuses
 campusses
 cooth
+cleats
 campward
 canephori
 canaliculus
@@ -15960,7 +15961,6 @@ cleat
 cleated
 capitalists
 cleating
-cleats
 cleavability
 cleavable
 cleavages
