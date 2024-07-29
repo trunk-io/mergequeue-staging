@@ -839,7 +839,6 @@ ectoblast
 episodal
 ectoblastic
 ectobronchium
-ectocardia
 ectocarpaceae
 ectocarpic
 ectocarpous
@@ -6851,6 +6850,7 @@ epanaphora
 eyelike
 entombment
 entombments
+ectocardia
 entombs
 entomere
 entomical
