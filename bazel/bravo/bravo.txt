@@ -2094,6 +2094,7 @@ bangtails
 bellyband
 bankalachi
 bangwaketsi
+belemnites
 banya
 banyai
 banians
@@ -11514,7 +11515,6 @@ biscuit
 bifold
 bnf
 berylline
-belemnites
 boa
 boaedon
 boagane
