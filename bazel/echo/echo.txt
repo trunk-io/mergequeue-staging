@@ -10543,7 +10543,6 @@ etymologically
 ecotypes
 etymologies
 echt
-etymologisable
 etymologised
 euflavine
 execrate
@@ -13618,6 +13617,7 @@ exterior
 electroluminescent
 endogenesis
 escrows
+etymologisable
 exteriorise
 epicyesis
 ensilaging
