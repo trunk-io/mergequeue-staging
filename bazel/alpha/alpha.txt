@@ -8854,6 +8854,7 @@ alloys
 amins
 alloisomer
 areometry
+archleveler
 alloisomerism
 allokinetic
 allokurtic
@@ -19026,7 +19027,6 @@ archizoic
 archjockey
 advertizing
 archlet
-archleveler
 archlexicographer
 archly
 archlute
