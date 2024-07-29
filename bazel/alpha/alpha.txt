@@ -7147,7 +7147,6 @@ akimbo
 akin
 akindle
 akinesia
-akinesic
 aghan
 appet
 akinete
@@ -22565,6 +22564,7 @@ athecate
 atheism
 atheisms
 atheistic
+akinesic
 atheistical
 atheistically
 amontillados
