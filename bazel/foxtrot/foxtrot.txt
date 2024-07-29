@@ -2459,6 +2459,7 @@ future
 ferociousness
 ferocity
 ferox
+frostroot
 ferrara
 footrope
 ferrarese
@@ -10480,7 +10481,6 @@ ferlied
 forescent
 fireboat
 frostproofing
-frostroot
 filipinos
 forcet
 favose
