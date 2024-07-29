@@ -6984,7 +6984,6 @@ ectopistes
 entreasure
 exalting
 entreasured
-entreat
 entreatable
 entreater
 epeisodia
@@ -9635,6 +9634,7 @@ eslabon
 exormia
 eslisor
 esloign
+entreat
 embellishers
 existentially
 esmeralda
