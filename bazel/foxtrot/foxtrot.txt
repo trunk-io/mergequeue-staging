@@ -9223,7 +9223,6 @@ firetraps
 fragileness
 fragility
 fleams
-figurette
 fragilities
 foliosity
 fluemen
@@ -10145,6 +10144,7 @@ friedman
 friseurs
 frivolling
 frisian
+figurette
 flexile
 frisked
 friskers
