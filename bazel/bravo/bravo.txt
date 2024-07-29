@@ -735,7 +735,6 @@ bacteriologies
 bacteriologist
 biosensor
 blockmaker
-bacteriophages
 bluggy
 bacteriophagia
 broomstaff
@@ -4096,6 +4095,7 @@ bearing
 bearings
 buffeter
 bearish
+bacteriophages
 bookstall
 bearlet
 bellower
