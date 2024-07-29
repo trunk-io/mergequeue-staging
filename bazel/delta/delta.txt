@@ -7230,7 +7230,6 @@ detains
 disseats
 detar
 detat
-detax
 detd
 detectability
 daishiki
@@ -8404,6 +8403,7 @@ dorking
 danzon
 dorbie
 dogtooth
+detax
 denaturise
 dialysability
 deplanes
