@@ -3422,7 +3422,6 @@ disyllable
 defogger
 defogs
 defoil
-dawish
 defoliage
 defoliant
 daisy
@@ -5384,6 +5383,7 @@ demicadence
 dustee
 dentes
 dentex
+dawish
 denty
 dentical
 denticate
