@@ -524,7 +524,6 @@ abjunctive
 abjuration
 abjurations
 abjuratory
-abjure
 anticarnivorous
 anoesis
 abjured
@@ -13331,6 +13330,7 @@ anisic
 autocatalyze
 aircrafts
 anisidine
+abjure
 anisidino
 antrum
 acclaiming
