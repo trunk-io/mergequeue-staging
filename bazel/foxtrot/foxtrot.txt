@@ -4057,7 +4057,6 @@ firebolted
 fontal
 firebomb
 firebombed
-funky
 firebombing
 firebombs
 firebote
@@ -4311,6 +4310,7 @@ fanal
 formals
 fisherman
 fishermen
+funky
 fisherpeople
 fishers
 fisherwoman
