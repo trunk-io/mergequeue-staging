@@ -11129,7 +11129,6 @@ chiseled
 chiseler
 cafuso
 chiseling
-chiselled
 chickweeds
 chiseller
 chisellers
@@ -16951,6 +16950,7 @@ curvimeter
 clubhands
 clubhauled
 cassation
+chiselled
 clubhouse
 cuirass
 capel
