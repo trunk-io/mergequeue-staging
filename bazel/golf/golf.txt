@@ -2540,7 +2540,6 @@ gemmologists
 goslet
 gemmule
 graniferous
-gemologist
 gemologists
 gemot
 gelds
@@ -5553,6 +5552,7 @@ guha
 grandma
 groan
 grilles
+gemologist
 gamete
 glomerulate
 glycogeny
