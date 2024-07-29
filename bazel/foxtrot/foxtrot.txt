@@ -8666,6 +8666,7 @@ fasola
 flesher
 farmstead
 facetiously
+foraying
 fortifications
 fortifier
 fortifiers
@@ -9444,7 +9445,6 @@ flaubertian
 frateries
 frottole
 fraternal
-foraying
 fraternalism
 fulhams
 fictionizing
