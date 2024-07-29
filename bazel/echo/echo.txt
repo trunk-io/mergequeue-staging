@@ -8382,7 +8382,6 @@ ebullition
 epitomical
 eurystheus
 epitomically
-epitomiser
 ethoses
 epitomising
 evanished
@@ -13536,6 +13535,7 @@ electrodialytic
 enchodus
 extancy
 extatic
+epitomiser
 equinoctially
 extbook
 enterobiasis
