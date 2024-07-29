@@ -6641,7 +6641,6 @@ baals
 beretta
 brickfield
 brocage
-bergamasche
 bheesty
 bluster
 bergamiol
@@ -16527,6 +16526,7 @@ buckass
 buckberry
 buckboards
 buckbrush
+bergamasche
 begowk
 bushless
 buckeens
