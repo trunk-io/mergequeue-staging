@@ -7497,6 +7497,7 @@ flavoursome
 festschrifts
 forebush
 forecar
+fended
 fairy
 forecarriage
 forecaster
@@ -11334,7 +11335,6 @@ fortressed
 furcula
 faulkland
 furdel
-fended
 flyblowing
 fateful
 furfooz
