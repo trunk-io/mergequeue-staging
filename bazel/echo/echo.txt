@@ -7259,7 +7259,6 @@ eogaean
 ethnographer
 eoghanacht
 eohippus
-eohippuses
 eoiths
 entamebae
 emotiometabolic
@@ -8223,6 +8222,7 @@ episteme
 epistemically
 epistemolog
 excitor
+eohippuses
 epistemologist
 excel
 equiprobabilist
