@@ -34,7 +34,6 @@ caballing
 caballo
 caban
 cabanas
-cabane
 cabaret
 cabaretier
 cabarets
@@ -30536,6 +30535,7 @@ chihuahuas
 cuboctahedron
 cubocube
 cubocuneiform
+cabane
 calorimetry
 corpses
 caterers
