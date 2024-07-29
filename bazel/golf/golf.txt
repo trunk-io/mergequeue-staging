@@ -968,7 +968,6 @@ gammed
 generalize
 genospecies
 gurl
-gammers
 gamelote
 gibblegabbler
 gipsology
@@ -8605,6 +8604,7 @@ grazings
 glucoside
 gullion
 grazioso
+gammers
 glasser
 greably
 gorgonlike
