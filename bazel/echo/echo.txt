@@ -2021,7 +2021,6 @@ elaboration
 explications
 endure
 elaborations
-elaborative
 elaboratively
 equiliria
 eaglehawk
@@ -8765,6 +8764,7 @@ equisonance
 equisonant
 equispaced
 espavel
+elaborative
 equisufficiency
 extradicting
 excamber
