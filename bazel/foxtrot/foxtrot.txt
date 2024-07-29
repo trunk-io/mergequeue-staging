@@ -4357,7 +4357,6 @@ fishweed
 forechoice
 foothils
 fishweir
-fiddlery
 fumbling
 fanaticism
 fishwoman
@@ -9435,6 +9434,7 @@ frater
 flaubertian
 frateries
 frottole
+fiddlery
 fraternal
 fraternalism
 fulhams
