@@ -3110,6 +3110,7 @@ capitalizing
 capitalness
 capitals
 capitana
+continent
 capitare
 capitate
 ciborium
@@ -7591,7 +7592,6 @@ cercomonadidae
 cercomonas
 cytoplasmically
 cercopid
-continent
 circumoesophagal
 cercopithecid
 cercopithecidae
