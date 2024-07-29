@@ -14399,6 +14399,7 @@ circummeridional
 cassoni
 cryospheric
 carretela
+cookable
 chider
 circummigration
 cyclometry
@@ -24402,7 +24403,6 @@ coof
 coofs
 cooing
 cooja
-cookable
 cookbook
 cookbooks
 classist
