@@ -568,7 +568,6 @@ backstaff
 berycoidea
 backstage
 backstay
-backstairs
 backstays
 bungs
 backstamp
@@ -6122,6 +6121,7 @@ beneficiaryship
 beneficiate
 beneficiated
 beneficiating
+backstairs
 beneficiation
 birr
 brined
