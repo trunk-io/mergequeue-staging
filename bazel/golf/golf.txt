@@ -924,7 +924,6 @@ gonopodium
 gauster
 genapp
 gametophyte
-gametophytic
 gamgia
 greenshank
 giglio
@@ -7872,6 +7871,7 @@ gloomfully
 goodbyes
 great
 girny
+gametophytic
 gymnasiarchy
 greffotome
 golden
