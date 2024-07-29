@@ -1617,6 +1617,7 @@ fungin
 favositidae
 favositoid
 fpm
+folio
 fertilizer
 favour
 fronture
@@ -5288,7 +5289,6 @@ fibrilled
 fleecer
 flatworm
 fleecers
-folio
 fleeches
 floristic
 fortieth

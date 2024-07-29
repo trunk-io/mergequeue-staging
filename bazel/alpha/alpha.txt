@@ -5219,7 +5219,6 @@ aetheling
 accouterment
 aetheogam
 aetheogamic
-applicability
 administerd
 airth
 aethereal
@@ -5632,6 +5631,7 @@ aftercataract
 afterchance
 afterchrome
 afterchurch
+applicability
 afterclap
 afterclause
 aftercomer
