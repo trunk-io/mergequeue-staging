@@ -5869,7 +5869,6 @@ flopover
 flopovers
 furnacelike
 fluorine
-flocculous
 fluorated
 flopper
 flickery
@@ -10120,6 +10119,7 @@ frypan
 friponerie
 fleshen
 featherlet
+flocculous
 frippet
 fris
 frisado
