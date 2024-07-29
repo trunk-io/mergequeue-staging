@@ -4823,7 +4823,6 @@ brees
 bannimus
 bogies
 bareges
-bedwarf
 bedwarfed
 bedwarfing
 bedwarfs
@@ -8371,6 +8370,7 @@ blackarm
 bihai
 botches
 bihalve
+bedwarf
 biham
 balladwise
 byhand
