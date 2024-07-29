@@ -7256,7 +7256,6 @@ barquette
 beswarms
 beswelter
 beswinge
-batteler
 beswitch
 beta
 betacaine
@@ -9940,6 +9939,7 @@ biunivocal
 biurate
 blackwood
 biuret
+batteler
 brownouts
 bivalent
 bivalve
