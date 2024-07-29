@@ -18061,7 +18061,6 @@ asquirm
 apronstring
 apropos
 aprosopia
-aprosopous
 aproterodont
 aprowl
 apselaphesis
@@ -19771,6 +19770,7 @@ aristeia
 afforestable
 aristida
 aristides
+aprosopous
 anacephalize
 aromatizing
 aristo
