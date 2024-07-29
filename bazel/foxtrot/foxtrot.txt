@@ -8199,7 +8199,6 @@ firecrackers
 firemen
 forging
 forgings
-forgivable
 forgive
 forevermore
 fusains
@@ -9567,6 +9566,7 @@ fixations
 fitfully
 freebie
 fleetful
+forgivable
 freeboot
 fencing
 felsites
