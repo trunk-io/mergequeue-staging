@@ -6965,7 +6965,6 @@ airparks
 appealingness
 alcotate
 airplane
-airplaner
 airplanes
 airplanist
 absorbancy
@@ -11076,6 +11075,7 @@ amphibiotic
 amphibiotica
 amphibiously
 aftertreatment
+airplaner
 amphiblestritis
 adenosis
 amphiboles
