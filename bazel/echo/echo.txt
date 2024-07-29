@@ -7572,7 +7572,6 @@ epiceratodus
 empatron
 epicheiremata
 epichile
-epichilia
 epibolies
 epichilium
 eluviated
@@ -10664,6 +10663,7 @@ eleutherodactylus
 elodeaceae
 euchlorophyceae
 euchorda
+epichilia
 euchred
 euchres
 elon
