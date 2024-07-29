@@ -7606,7 +7606,6 @@ bewrapt
 bewrathed
 bewreath
 behearse
-buntlines
 boomage
 burroweed
 bezaleel
@@ -11989,6 +11988,7 @@ barchans
 boilermakers
 balanoblennorrhea
 barogram
+buntlines
 boilerplate
 boilers
 biota
