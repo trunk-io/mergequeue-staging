@@ -632,7 +632,6 @@ abnormalise
 abnormalising
 archesporium
 allure
-anthologized
 abnormalize
 abnormalizing
 abnormally
@@ -24433,6 +24432,7 @@ autosome
 autosomes
 abc
 autosoteric
+anthologized
 amounted
 autosporic
 arabinic
