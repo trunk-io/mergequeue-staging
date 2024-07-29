@@ -14597,7 +14597,6 @@ crappers
 cirsoid
 cirsomphalos
 cirsophthalmia
-cirsotome
 cirsotomy
 catholicization
 cyrtandraceae
@@ -29134,6 +29133,7 @@ crimsoned
 crimsony
 crimsonness
 crimsons
+cirsotome
 crin
 cuff
 crinanite
