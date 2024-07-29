@@ -5471,7 +5471,6 @@ ebcd
 energiser
 energism
 energize
-energized
 energizer
 emergents
 estall
@@ -7384,6 +7383,7 @@ epenthesis
 engore
 epenthesize
 encores
+energized
 epenthetic
 epephragmal
 epepophysial
