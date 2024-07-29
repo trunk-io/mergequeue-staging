@@ -11267,6 +11267,7 @@ chlor
 chloracetate
 chloraemia
 chloragogen
+concurrency
 chloragogue
 chloralformamide
 campodea
@@ -21653,7 +21654,6 @@ concurbit
 concurrence
 collateralized
 concurrences
-concurrency
 cedent
 crashworthy
 concurrently
