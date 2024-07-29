@@ -5253,6 +5253,7 @@ algebraic
 aface
 afaced
 alevin
+arbustum
 afacing
 afaint
 afb
@@ -18570,7 +18571,6 @@ arbuscular
 arbuscule
 arbust
 anodendron
-arbustum
 anima
 arriero
 arbute
