@@ -1916,7 +1916,6 @@ geogeny
 gatherer
 gatherers
 grumbly
-gatherings
 gatherum
 gadget
 gating
@@ -5151,6 +5150,7 @@ gladiators
 gallature
 ginhound
 gladiatorship
+gatherings
 gladier
 graywether
 gazel

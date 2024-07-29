@@ -5903,6 +5903,7 @@ floras
 fitful
 florate
 floreal
+femaleness
 fleetwing
 floreat
 floreated
@@ -8861,7 +8862,6 @@ fostress
 fot
 fotch
 frat
-femaleness
 fustigating
 funerate
 folksiness
