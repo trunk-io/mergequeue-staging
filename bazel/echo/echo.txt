@@ -4893,7 +4893,6 @@ evolves
 ephemerality
 endamoebae
 erythrogonium
-endamoebas
 endamoebiasis
 endamoebic
 endanger
@@ -7039,6 +7038,7 @@ entries
 entrike
 elaterite
 entryman
+endamoebas
 emmove
 entryways
 enclaves
