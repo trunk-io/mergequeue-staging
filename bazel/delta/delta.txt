@@ -7665,7 +7665,6 @@ deviances
 defiber
 dsnames
 doggrelize
-deviancy
 defalcate
 deviant
 deviate
@@ -18396,6 +18395,7 @@ disincorporate
 duplicitous
 duplicitously
 deflexionize
+deviancy
 duplify
 duplification
 dared

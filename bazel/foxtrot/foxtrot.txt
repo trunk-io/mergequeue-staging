@@ -8595,6 +8595,7 @@ fraggings
 foretrysail
 forswat
 forswear
+forthcame
 forswearer
 forswearing
 falterers
@@ -8811,7 +8812,6 @@ fatimid
 feldspar
 flyspecks
 fossilism
-forthcame
 fossilization
 fullmouthedly
 facetted
