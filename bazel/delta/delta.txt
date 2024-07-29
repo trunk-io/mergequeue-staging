@@ -1414,7 +1414,6 @@ dawks
 dawn
 dopebook
 decorum
-debugged
 drumlike
 dawny
 disdiplomatize
@@ -17807,6 +17806,7 @@ diol
 ducky
 drepanaspis
 duckie
+debugged
 digoneutic
 decriminalize
 despoils
