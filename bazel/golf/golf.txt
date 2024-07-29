@@ -5142,7 +5142,6 @@ glades
 gonzo
 glady
 gramy
-gard
 gomphosis
 gladiator
 gladiators
@@ -9190,6 +9189,7 @@ grisounite
 gliomas
 grisoutine
 grissel
+gard
 gimmal
 gaspiness
 gaudery
