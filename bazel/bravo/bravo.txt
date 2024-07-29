@@ -5612,7 +5612,6 @@ bismarckian
 buna
 belfries
 belga
-belgae
 bided
 belgas
 beneficing
@@ -11806,6 +11805,7 @@ bewrite
 bods
 bodstick
 baalite
+belgae
 boe
 boedromion
 backsplicing
