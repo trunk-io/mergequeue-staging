@@ -1162,6 +1162,7 @@ absume
 absumption
 absurd
 absurdest
+ampersand
 anabaptistry
 advisements
 anemone
@@ -11059,7 +11060,6 @@ amperemeter
 adornos
 ampery
 amperian
-ampersand
 ampheclexis
 ampherotoky
 anotus
