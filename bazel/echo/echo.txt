@@ -9915,6 +9915,7 @@ estamene
 estamin
 estaminet
 estaminets
+edgeless
 estamp
 estampede
 estancia
@@ -11290,7 +11291,6 @@ evadingly
 evadne
 evagation
 evaginable
-edgeless
 evaginating
 evagination
 exomphalous
