@@ -1751,7 +1751,6 @@ firedamp
 fluoridations
 featherpate
 freshmanhood
-farthing
 feathers
 freshmanic
 frigorifico
@@ -10266,6 +10265,7 @@ frogfish
 fiendliness
 formnail
 flubs
+farthing
 featherbedding
 fancify
 forboded
