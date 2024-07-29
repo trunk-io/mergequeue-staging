@@ -4726,7 +4726,6 @@ debits
 demitint
 demitoilet
 demitrain
-demitranslucence
 darwinian
 decretive
 dolent
@@ -7269,6 +7268,7 @@ deteriorate
 deteriorated
 deteriorates
 deteriorating
+demitranslucence
 deterioration
 deerstalkers
 disconnectiveness
