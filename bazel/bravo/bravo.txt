@@ -153,6 +153,7 @@ boatyards
 baby
 baboonroot
 baboos
+boggin
 baboot
 babouche
 bedroll
@@ -13794,7 +13795,6 @@ boxberry
 bookcase
 bonism
 boxberries
-boggin
 boxboard
 bretons
 boxboards
