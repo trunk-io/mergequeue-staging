@@ -531,6 +531,7 @@ benzthiophen
 backslapping
 backslaps
 belinda
+benzin
 backchain
 blind
 backslash
@@ -6348,7 +6349,6 @@ benzylamine
 benzilic
 benzylidene
 benziminazole
-benzin
 benzinduline
 benzine
 benzines
