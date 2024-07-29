@@ -5581,6 +5581,7 @@ fluffing
 fumble
 flypaper
 facilitator
+fozy
 foolfish
 ferns
 flypasts
@@ -9120,7 +9121,6 @@ figuring
 foxtailed
 foxtrot
 foxwood
-fozy
 fundatorial
 faddier
 frithsoken
