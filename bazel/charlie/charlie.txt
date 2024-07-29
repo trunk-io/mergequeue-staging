@@ -5300,7 +5300,6 @@ cropland
 castile
 computers
 castilla
-chamois
 cystines
 castilleja
 colliquefaction
@@ -21348,6 +21347,7 @@ concernedly
 concernedness
 concerning
 concerningly
+chamois
 concerningness
 concerns
 chinbeak
