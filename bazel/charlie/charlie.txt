@@ -7623,7 +7623,6 @@ cerebellums
 cerebra
 cerebral
 causewayman
-cerebralgia
 cerebralism
 cerebralist
 comptrollership
@@ -7640,6 +7639,7 @@ cerebrate
 chalked
 cerebrated
 cerebrates
+cerebralgia
 cerebration
 cerebrations
 cerebratulus
