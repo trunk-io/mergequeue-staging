@@ -11979,6 +11979,7 @@ debouches
 disembark
 disembarkation
 disembarkations
+durational
 dysplasia
 disembarking
 disembarks
@@ -18439,7 +18440,6 @@ discreditability
 disclosed
 duraquara
 duration
-durational
 domesticality
 dulcifluous
 designation
