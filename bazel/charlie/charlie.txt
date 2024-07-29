@@ -10118,7 +10118,6 @@ cherogril
 cherokee
 cherokees
 curableness
-cheroot
 cheroots
 cherryblossom
 cherried
@@ -23339,6 +23338,7 @@ constructors
 constructs
 construe
 construer
+cheroot
 construes
 chatillon
 constuprate
