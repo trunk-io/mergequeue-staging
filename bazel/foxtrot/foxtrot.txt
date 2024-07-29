@@ -3212,6 +3212,7 @@ furnit
 firma
 fidejussory
 fidel
+forelimb
 fidelia
 fortunous
 fertilizable
@@ -8439,7 +8440,6 @@ flicker
 formless
 flutework
 flaxweed
-forelimb
 formolit
 formols
 formosan
