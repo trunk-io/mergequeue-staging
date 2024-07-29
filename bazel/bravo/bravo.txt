@@ -5150,6 +5150,7 @@ backsight
 begar
 boud
 baline
+bogusness
 begarie
 begarlanded
 begarnish
@@ -11910,7 +11911,6 @@ bogue
 bogued
 brothe
 bogum
-bogusness
 bogwood
 bogwoods
 bogwort
