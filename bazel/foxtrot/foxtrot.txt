@@ -5145,7 +5145,6 @@ falconet
 freeloader
 filmmaking
 flavor
-flavorer
 flavorful
 flavorfulness
 flavory
@@ -9097,6 +9096,7 @@ foggers
 forlornly
 franciscans
 foxfish
+flavorer
 fervorless
 foregoing
 foxglove
