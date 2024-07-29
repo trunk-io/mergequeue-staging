@@ -15923,6 +15923,7 @@ cleansing
 cleanskin
 cleanups
 clearable
+countermovement
 circummigrate
 clearance
 clearances
@@ -24163,7 +24164,6 @@ conventicles
 conventicular
 conventing
 convention
-countermovement
 conventional
 conventionalisation
 conventionalise
