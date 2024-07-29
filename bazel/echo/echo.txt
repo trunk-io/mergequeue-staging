@@ -862,7 +862,6 @@ ectodactylism
 ectoderm
 ectodermal
 ectodermosis
-ectoentad
 entrer
 enheritage
 ectoenzym
@@ -1373,6 +1372,7 @@ enocyte
 effloresced
 eupepticism
 equilibration
+ectoentad
 efflorescent
 eyestalks
 evangeliary
