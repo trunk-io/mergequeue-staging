@@ -2077,6 +2077,7 @@ exscript
 eperlan
 elaphe
 estating
+externalise
 elaphodus
 extrema
 exsibilation
@@ -13647,7 +13648,6 @@ externa
 external
 externalisation
 eavedropping
-externalise
 enviably
 extine
 externalised
