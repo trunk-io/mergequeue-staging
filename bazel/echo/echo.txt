@@ -6626,6 +6626,7 @@ epitaxy
 enteroplasty
 esthesiogenic
 enteropneustan
+equidensity
 enteroptotic
 evacuant
 enterorrhexis
@@ -7682,7 +7683,6 @@ engendure
 epicondylar
 epidemiologically
 esophagoplasty
-equidensity
 embroider
 edematous
 epidendral
