@@ -5970,7 +5970,6 @@ glossator
 glucosone
 gadidae
 galvanizers
-glossed
 glossem
 glosseme
 gelatinize
@@ -10197,6 +10196,7 @@ galahs
 gras
 guido
 giardiasis
+glossed
 gighe
 granivorous
 glooms
