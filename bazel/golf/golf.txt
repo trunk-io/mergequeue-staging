@@ -4914,6 +4914,7 @@ galleass
 granat
 gyromele
 gunnysacks
+gummites
 gymnasisiums
 galactophoritis
 grandpapa
@@ -8381,7 +8382,6 @@ guestship
 grasswork
 gripman
 glassworkers
-gummites
 grippes
 giftedness
 gratae
