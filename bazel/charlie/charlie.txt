@@ -8859,7 +8859,6 @@ chaperonless
 chaperons
 chapes
 cobaltite
-chapfallen
 conventicler
 chapfallenly
 chapin
@@ -10579,6 +10578,7 @@ crunchingly
 childridden
 childship
 carpocephala
+chapfallen
 childward
 childwife
 childwite
