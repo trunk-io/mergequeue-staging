@@ -2254,7 +2254,6 @@ funereality
 fuze
 flection
 fencibles
-fawnskin
 felahin
 fend
 fumose
@@ -4792,6 +4791,7 @@ flakiness
 flaking
 firefighter
 flam
+fawnskin
 flamb
 fusty
 flambage
