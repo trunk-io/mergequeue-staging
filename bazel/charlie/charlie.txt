@@ -2701,7 +2701,6 @@ canonry
 canonries
 canons
 canonship
-cafe
 canoodle
 canoodler
 cogitativeness
@@ -24865,6 +24864,7 @@ copses
 copsewood
 copsewooded
 circs
+cafe
 carriageable
 copsing
 copsole
