@@ -16899,7 +16899,6 @@ cloverroot
 clovers
 cloves
 clovewort
-clow
 clowder
 clowders
 clown
@@ -24670,6 +24669,7 @@ cophosis
 circumstantially
 cophouse
 copy
+clow
 copiability
 copiable
 copiapite
