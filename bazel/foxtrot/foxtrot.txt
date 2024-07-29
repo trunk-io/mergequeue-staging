@@ -5417,6 +5417,7 @@ flexitime
 fevertwitch
 flexo
 flexographic
+forswears
 flexuoseness
 flexura
 fumy
@@ -8591,7 +8592,6 @@ forswear
 forswearer
 forswearing
 falterers
-forswears
 farmable
 fasciate
 forswornness
