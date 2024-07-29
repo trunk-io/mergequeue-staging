@@ -4874,7 +4874,6 @@ demonisms
 demonize
 demonized
 demonizes
-demonizing
 demonland
 demonlike
 dentalise
@@ -5104,6 +5103,7 @@ dendrocygna
 dendroclastic
 dendrocoela
 dieted
+demonizing
 dendrocoelan
 dendrocoelous
 dendrocolaptidae
