@@ -1663,6 +1663,7 @@ fazenda
 fazendeiro
 fb
 frontierman
+forepayment
 fchar
 fipenny
 frizzles
@@ -7775,7 +7776,6 @@ foreordination
 fulgural
 foredate
 fundamentalist
-forepayment
 forepale
 forepaled
 foreparents
