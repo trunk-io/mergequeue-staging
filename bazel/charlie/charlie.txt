@@ -8388,7 +8388,6 @@ chalicosis
 chalicothere
 chaetophora
 caveators
-chalicotheriidae
 cacoepist
 chalicotherium
 consute
@@ -15661,6 +15660,7 @@ classable
 classbook
 classer
 chacra
+chalicotheriidae
 calenders
 classfellow
 classy
