@@ -6194,7 +6194,6 @@ evangelary
 enquire
 enquired
 enatant
-enquiries
 enrace
 enraged
 encourages
@@ -8378,6 +8377,7 @@ epitomic
 elkanah
 ebullition
 epitomical
+enquiries
 eurystheus
 epitomically
 epitomiser
