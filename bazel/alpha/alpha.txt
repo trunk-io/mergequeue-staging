@@ -1352,6 +1352,7 @@ aeronautically
 acantholimon
 acantholysis
 acanthology
+adnoun
 acanthological
 acanthoma
 acanthon
@@ -4235,7 +4236,6 @@ adnominal
 adnominally
 adnomination
 achalasia
-adnoun
 adnouns
 adnumber
 agalawood
