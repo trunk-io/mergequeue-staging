@@ -6044,7 +6044,6 @@ ghoster
 groundflower
 glossopetra
 generaliser
-glossophaga
 glossophagine
 glossopharyngeal
 gers
@@ -9364,6 +9363,7 @@ grosbeaks
 gre
 gamphrel
 grimmia
+glossophaga
 groser
 gravemaster
 glomerella
