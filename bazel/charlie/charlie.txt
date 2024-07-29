@@ -18311,6 +18311,7 @@ coffeehouse
 coffeehoused
 coffeehouses
 coffeeleaf
+cuddle
 coffeepots
 coffeeroom
 coffees
@@ -30632,7 +30633,6 @@ cuddie
 cerrial
 cuddies
 cuddyhole
-cuddle
 cuddled
 cuddles
 cuddlesome
