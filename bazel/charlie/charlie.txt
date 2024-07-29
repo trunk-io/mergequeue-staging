@@ -9918,7 +9918,6 @@ chemigraphically
 chemiloon
 chemiluminescence
 chemiluminescent
-chemin
 chicomecoatl
 chemins
 chemiotactic
@@ -21696,6 +21695,7 @@ condemnation
 condemnations
 condemner
 culicidae
+chemin
 chortles
 crenelations
 condemners

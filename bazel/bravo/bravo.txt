@@ -1242,7 +1242,6 @@ beslaver
 brachistochrone
 bakership
 baeria
-bakeshop
 bakeshops
 bakestone
 bakhtiari
@@ -2520,6 +2519,7 @@ bombacaceous
 barefacedness
 bedrugging
 brakemen
+bakeshop
 barefisted
 branchiopodan
 barefooted
