@@ -1585,7 +1585,6 @@ eglandular
 electrosensitive
 eglantine
 eglantines
-epifaunal
 eudromias
 exocolitis
 eglomerate
@@ -12480,6 +12479,7 @@ exhausts
 ethnomanic
 eupyrion
 exhedrae
+epifaunal
 electrotherapy
 exheredation
 extraorganismal
