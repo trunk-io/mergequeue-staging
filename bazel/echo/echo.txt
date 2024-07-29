@@ -3003,6 +3003,7 @@ expirers
 electropneumatically
 elle
 entrep
+exception
 ellenyard
 egressing
 ellerian
@@ -11959,7 +11960,6 @@ elemong
 exceptio
 erythrons
 enculturation
-exception
 exceptionability
 exceptional
 enlightener
