@@ -4467,7 +4467,6 @@ adterminal
 adtevac
 anacoluthia
 aduana
-adular
 amanita
 adularescent
 ambiversion
@@ -14060,6 +14059,7 @@ antagonisable
 antagonise
 antagonised
 antagonising
+adular
 antagonism
 antagonist
 antagonistic
