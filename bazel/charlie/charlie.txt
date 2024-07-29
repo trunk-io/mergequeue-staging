@@ -7877,7 +7877,6 @@ cervelliere
 cervical
 cervicapra
 cervicaprine
-cervicectomy
 cervicicardiac
 cervicide
 cartful
@@ -22675,6 +22674,7 @@ connectibility
 collyria
 coreign
 castice
+cervicectomy
 connectible
 clerkdoms
 connectibly
