@@ -5302,6 +5302,7 @@ fundamentalness
 fleeing
 frithborgh
 forcer
+forsloth
 fickleness
 fleering
 falbelo
@@ -10298,7 +10299,6 @@ frogs
 frogskin
 frogskins
 filched
-forsloth
 frogwort
 fooldom
 fipples
