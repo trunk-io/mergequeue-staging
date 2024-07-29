@@ -6585,7 +6585,6 @@ enterogastrone
 enterogenous
 enterogram
 enterography
-enterohydrocele
 escarped
 emanative
 episporangium
@@ -11456,6 +11455,7 @@ ependyma
 epanaleptic
 effuse
 eventime
+enterohydrocele
 entosternite
 eventlessly
 eberthella
