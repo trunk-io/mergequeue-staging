@@ -2349,6 +2349,7 @@ edacities
 epispastic
 electrocutions
 echelle
+explorational
 electrotonus
 extraught
 eugenist
@@ -13245,7 +13246,6 @@ exploited
 emerited
 exploitive
 exploits
-explorational
 evaporimeter
 exploratively
 exam
