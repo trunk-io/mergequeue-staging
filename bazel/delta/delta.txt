@@ -683,7 +683,6 @@ damper
 dampers
 dampy
 damping
-dampish
 debitumenize
 dampishness
 damply
@@ -13892,6 +13891,7 @@ desertless
 democratising
 dreggily
 distillery
+dampish
 distillers
 distilling
 distillment
