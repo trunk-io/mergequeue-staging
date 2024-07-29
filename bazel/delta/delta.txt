@@ -1940,6 +1940,7 @@ dragbar
 dishpanful
 dec
 daring
+debug
 dorsiventrality
 decadactylous
 decadal
@@ -11471,7 +11472,6 @@ disclander
 disclike
 discloak
 discloister
-debug
 dine
 discloser
 disclosing
