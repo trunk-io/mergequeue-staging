@@ -3462,7 +3462,6 @@ bougee
 bastonite
 basts
 basurale
-bat
 bataan
 belie
 batable
@@ -16025,6 +16024,7 @@ broodlet
 broodling
 bravura
 broodmare
+bat
 backtrail
 besmirchment
 blowproof
