@@ -9851,7 +9851,6 @@ chelinga
 chelingas
 chelingo
 chelingos
-cheliped
 chelys
 chellean
 crenae
@@ -27360,6 +27359,7 @@ coeffects
 courant
 courante
 courantes
+cheliped
 couranto
 coachers
 calcitrate
