@@ -3844,6 +3844,7 @@ bawds
 bawdship
 bawdstrot
 bawhorse
+birthroot
 bluisness
 bawler
 bawlers
@@ -4333,7 +4334,6 @@ bigamist
 becarpeted
 becarpeting
 brine
-birthroot
 brekkle
 bugles
 bluestems
