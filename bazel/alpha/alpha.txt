@@ -2115,7 +2115,6 @@ anticlimaxes
 acetylid
 acetylide
 acetyliodide
-acetylizable
 achenodium
 acetylize
 acetylizing
@@ -8760,6 +8759,7 @@ allium
 antioptimist
 alliums
 antiministerialist
+acetylizable
 allivalite
 allmouth
 allmouths
