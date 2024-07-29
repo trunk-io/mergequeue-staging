@@ -16732,7 +16732,6 @@ disvantage
 dramatist
 dramatizable
 dissimilarity
-dramatize
 dramatizes
 ditriglyphic
 dilatatory
@@ -17818,6 +17817,7 @@ drouthy
 ducklar
 ducklet
 ducklings
+dramatize
 ducklingship
 duckmeat
 duckpin
