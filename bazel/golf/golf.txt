@@ -811,7 +811,6 @@ gypsying
 gleam
 geebong
 galas
-gamasidae
 gamba
 greys
 garnice
@@ -4641,6 +4640,7 @@ gladify
 grubstaking
 gynogenesis
 gentium
+gamasidae
 gonococcocci
 gracelessly
 gynomonecious
