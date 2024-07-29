@@ -835,6 +835,7 @@ ecthlipses
 ectype
 ecrase
 ectypes
+enteropathogenic
 ectoblast
 episodal
 ectoblastic
@@ -6617,7 +6618,6 @@ enteroparalysis
 efflorescence
 enteroparesis
 enteropathy
-enteropathogenic
 enteropexy
 echinulate
 enteropexia
