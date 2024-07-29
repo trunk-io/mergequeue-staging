@@ -1087,6 +1087,7 @@ foremast
 faros
 filmgoer
 flighted
+foreshowed
 filament
 farragos
 farrand
@@ -7916,7 +7917,6 @@ fistulatous
 fingian
 foreshow
 fevering
-foreshowed
 foreshows
 furciferine
 foresight
