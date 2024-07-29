@@ -3001,6 +3001,7 @@ cape
 cunas
 caped
 capelan
+carload
 capelans
 capelet
 capelin
@@ -18757,7 +18758,6 @@ coitally
 coition
 coitional
 coitions
-carload
 coitophobia
 coiture
 coituses
