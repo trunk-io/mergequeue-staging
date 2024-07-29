@@ -5288,7 +5288,6 @@ fledgling
 furl
 fleece
 fleeceflower
-fleeceless
 factionalist
 fascinations
 fleecelike
@@ -5529,6 +5528,7 @@ fawned
 fantee
 fluor
 fattable
+fleeceless
 flymen
 fec
 flunkeyistic
