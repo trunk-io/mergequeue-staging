@@ -1183,7 +1183,6 @@ freyja
 fibularia
 filberts
 fascinatress
-fascintatingly
 fibroadenia
 fasciodesis
 featherbone
@@ -3509,6 +3508,7 @@ fasciated
 fibriform
 filemarks
 famous
+fascintatingly
 filers
 fireproofness
 filesave
