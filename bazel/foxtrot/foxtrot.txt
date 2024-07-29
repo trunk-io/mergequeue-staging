@@ -7219,6 +7219,7 @@ fascet
 footwall
 fantasmal
 fleawood
+ferrosilicon
 footwalls
 floridean
 flagitate
@@ -10894,7 +10895,6 @@ fullfaces
 foredefine
 frowzled
 fullfil
-ferrosilicon
 featish
 fullish
 fibration
