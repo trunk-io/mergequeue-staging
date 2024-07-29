@@ -10264,7 +10264,6 @@ futhork
 frogfish
 fiendliness
 formnail
-flubs
 farthing
 featherbedding
 fancify
@@ -11293,6 +11292,7 @@ fumigant
 firstship
 finement
 furan
+flubs
 forecasted
 frustules
 furane
