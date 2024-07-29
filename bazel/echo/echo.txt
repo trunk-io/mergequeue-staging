@@ -7495,6 +7495,7 @@ epa
 especialness
 echidna
 ephoral
+extendibility
 ephoralty
 ephorate
 emandibulate
@@ -12322,7 +12323,6 @@ echeneidae
 executrixes
 executrixship
 exede
-extendibility
 exedent
 eupepsias
 ecyphellate
