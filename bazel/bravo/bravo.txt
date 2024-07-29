@@ -2657,7 +2657,6 @@ byres
 barytons
 barytophyllite
 basalia
-barium
 barkan
 bagheli
 barkbound
@@ -18266,6 +18265,7 @@ butters
 bulkheading
 butterscotch
 bearbush
+barium
 bergamo
 barnier
 butterweed
