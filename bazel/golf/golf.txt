@@ -6399,7 +6399,6 @@ galvanotropism
 gnawing
 gelatinobromide
 gnawings
-gnaws
 graf
 glacis
 gladnesses
@@ -8246,6 +8245,7 @@ gowlan
 graphometrist
 gemse
 graphomotor
+gnaws
 glutination
 graphonomy
 gastrin
