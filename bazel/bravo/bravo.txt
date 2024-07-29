@@ -8488,7 +8488,6 @@ bodiless
 bilimbis
 biliment
 bilin
-bilinear
 bilineate
 bilineated
 bylined
@@ -12819,6 +12818,7 @@ bookmaking
 boppers
 buttstrapped
 bopping
+bilinear
 bopster
 bor
 bora
