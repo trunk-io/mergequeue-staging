@@ -1361,7 +1361,6 @@ booklores
 balao
 balaos
 bevel
-balarama
 browsage
 balarao
 boatward
@@ -3488,6 +3487,7 @@ batea
 bateaux
 bated
 bateful
+balarama
 batekes
 blamably
 bateleur
