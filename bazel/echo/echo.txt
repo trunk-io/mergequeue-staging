@@ -8926,7 +8926,6 @@ ensnarls
 ergane
 ergasterion
 ergastic
-ergastoplasmic
 eugeny
 encourager
 ergastulum
@@ -10574,6 +10573,7 @@ etiolates
 etiolating
 etiolize
 exogens
+ergastoplasmic
 etiology
 elinguated
 espigle
