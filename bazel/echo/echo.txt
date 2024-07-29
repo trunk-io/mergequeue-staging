@@ -2632,6 +2632,7 @@ electrothermic
 enschedule
 estuant
 electrothermotic
+ensheaths
 electrotype
 electrotyper
 electrotypes
@@ -6811,7 +6812,6 @@ equiprobabilism
 entocele
 epyllion
 enows
-ensheaths
 expurgating
 epileptogenous
 entocoel
