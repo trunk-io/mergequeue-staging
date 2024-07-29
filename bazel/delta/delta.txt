@@ -4259,6 +4259,7 @@ delouse
 decipolar
 deloused
 delouses
+depending
 deconsecrate
 delousing
 delphacidae
@@ -5661,7 +5662,6 @@ dependencies
 dosimeters
 diatrymiformes
 doketic
-depending
 dependingly
 depends
 depeopling
