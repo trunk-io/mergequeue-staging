@@ -2560,7 +2560,6 @@ barfed
 barfy
 breakshugh
 barfs
-bargain
 bargainable
 bargained
 brabantine
@@ -8180,6 +8179,7 @@ bienvenue
 banco
 bier
 bidri
+bargain
 byerite
 bierkeller
 byerlite
