@@ -11157,7 +11157,6 @@ fertilitate
 footsoldiers
 fieldball
 fumigation
-flintwork
 face
 flits
 fungaceous
@@ -11603,6 +11602,7 @@ ferrying
 fussbudget
 fretting
 fussbudgety
+flintwork
 fussbudgets
 funambulated
 farcers
