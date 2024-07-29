@@ -1149,7 +1149,6 @@ abstractness
 abstractor
 abstractors
 abstracts
-abstrahent
 abstrict
 abstricted
 abstricting
@@ -7140,6 +7139,7 @@ aker
 anteocular
 akerite
 appertise
+abstrahent
 aketon
 akhara
 akhyana
