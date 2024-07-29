@@ -2524,7 +2524,6 @@ flunkyistic
 ferroaluminum
 foreact
 ferrocalcite
-ferrocene
 factual
 ferrochrome
 ferrocyanate
@@ -7436,6 +7435,7 @@ fords
 ficin
 fordull
 foreadmonish
+ferrocene
 flashpan
 familiarizing
 fitly
