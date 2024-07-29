@@ -4564,7 +4564,6 @@ advectitious
 advective
 advects
 axillars
-advenae
 allelotropy
 adaptative
 advenient
@@ -8068,6 +8067,7 @@ algebras
 anodization
 algebrization
 algedi
+advenae
 algedo
 algedonic
 assident
