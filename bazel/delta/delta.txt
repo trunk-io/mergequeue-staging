@@ -1493,7 +1493,6 @@ disform
 deaconing
 deaconries
 deacons
-deactivate
 deactivated
 discontinuing
 deactivating
@@ -15587,6 +15586,7 @@ doodad
 dentale
 demising
 diaspora
+deactivate
 democracy
 donatistic
 disgruntled
