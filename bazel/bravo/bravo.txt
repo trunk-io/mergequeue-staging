@@ -7239,7 +7239,6 @@ bestripe
 bestrowed
 bestrown
 buckbush
-befriend
 basketries
 bestrut
 bestseller
@@ -12123,6 +12122,7 @@ bollards
 brahms
 bolled
 boller
+befriend
 brickiest
 bolling
 bollito
