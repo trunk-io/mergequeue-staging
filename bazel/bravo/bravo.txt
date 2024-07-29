@@ -3358,6 +3358,7 @@ bass
 bluest
 beers
 bima
+biocidal
 brasen
 bassalia
 brainwasher
@@ -8888,7 +8889,6 @@ biochemists
 biochore
 biocycle
 biocycles
-biocidal
 biocide
 backstabbing
 bioclimatic
