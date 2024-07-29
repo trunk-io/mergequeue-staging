@@ -4049,7 +4049,6 @@ cardiopneumograph
 cardiopulmonary
 cupules
 cardiopuncture
-cardiorenal
 catchland
 cardiorrheuma
 cardiorrhexis
@@ -18749,6 +18748,7 @@ counteroffensives
 coyotillos
 coypous
 coypus
+cardiorenal
 coir
 coirs
 coislander
