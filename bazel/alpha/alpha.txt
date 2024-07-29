@@ -20513,7 +20513,6 @@ arteriasis
 androgynism
 arteriectasis
 arteriectopia
-arteries
 arterin
 arterioarctia
 arteriocapillary
@@ -22518,6 +22517,7 @@ ascaridol
 ateliosis
 atellan
 atelo
+arteries
 actinocrinid
 atelocardia
 apocopes
