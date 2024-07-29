@@ -403,6 +403,7 @@ fairings
 farfetch
 foraminiferous
 felup
+filmsetting
 filariid
 focalisation
 fairyship
@@ -3679,7 +3680,6 @@ films
 fascicularly
 filmset
 fluxion
-filmsetting
 filmstrip
 filmstrips
 filoplume
