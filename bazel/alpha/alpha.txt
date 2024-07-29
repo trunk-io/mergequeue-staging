@@ -1833,7 +1833,6 @@ archaeolithic
 accrue
 acardia
 accrued
-accruement
 accrues
 accruing
 accts
@@ -5492,6 +5491,7 @@ affronter
 affronting
 affrontingly
 astrometeorology
+accruement
 anticholinergic
 affrontiveness
 affrontment
