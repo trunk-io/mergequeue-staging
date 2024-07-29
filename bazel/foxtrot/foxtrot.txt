@@ -5870,7 +5870,6 @@ floozie
 floperoo
 foreknow
 fatals
-fluidizer
 flopover
 flopovers
 furnacelike
@@ -10612,6 +10611,7 @@ frugivorous
 feoffees
 frugs
 folletto
+fluidizer
 freshes
 flushermen
 flutterless
