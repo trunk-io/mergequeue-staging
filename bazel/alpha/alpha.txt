@@ -4141,7 +4141,6 @@ admirability
 admirable
 athapascan
 admiral
-admirals
 azygobranchiate
 adjectival
 admiralty
@@ -15011,6 +15010,7 @@ arsenicated
 anticlimax
 anticlinal
 asphyxiant
+admirals
 anticlinoria
 amidocapric
 anticlnoria
