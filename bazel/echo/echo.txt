@@ -1455,6 +1455,7 @@ effusiometer
 espiegle
 effusions
 effusively
+electron
 eplot
 enage
 effuso
@@ -2495,7 +2496,6 @@ electromotive
 embue
 electromotivity
 electromotograph
-electron
 electronarcosis
 elevener
 electronervous
