@@ -6413,6 +6413,7 @@ fenter
 fluoroform
 frittata
 fibrinoalbuminous
+feculae
 falter
 flaminian
 fluoroformol
@@ -11696,7 +11697,6 @@ futter
 flaith
 futural
 futureless
-feculae
 foreboard
 futures
 foraminiferan
