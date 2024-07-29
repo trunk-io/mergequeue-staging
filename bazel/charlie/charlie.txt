@@ -6455,6 +6455,7 @@ cavies
 coralligerous
 corpse
 cavyyard
+crescents
 cavil
 caviled
 caviler
@@ -28830,7 +28831,6 @@ crescentlike
 crescentoid
 callionymidae
 catamounts
-crescents
 crescive
 crescively
 crescograph
