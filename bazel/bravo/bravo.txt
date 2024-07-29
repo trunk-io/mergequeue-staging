@@ -4852,7 +4852,6 @@ beeches
 bolograph
 beechnuts
 beechwood
-beechwoods
 beedged
 beedom
 beef
@@ -5083,6 +5082,7 @@ befooled
 befooling
 beneficiaire
 barberish
+beechwoods
 brickbat
 brookside
 befools
