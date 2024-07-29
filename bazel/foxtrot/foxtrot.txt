@@ -1545,7 +1545,6 @@ faurd
 forwean
 faured
 favonian
-fause
 faussebraie
 faussebrayed
 fauster
@@ -10111,6 +10110,7 @@ fascial
 fledges
 fringilliform
 falls
+fause
 fringilliformes
 fopship
 fleckier
