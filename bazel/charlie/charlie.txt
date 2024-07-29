@@ -18301,7 +18301,6 @@ centrolineal
 coffeeberry
 coffeeberries
 coffeecake
-coffeecup
 coffeegrower
 closestool
 coffeegrowing
@@ -22889,6 +22888,7 @@ caky
 consecrater
 cardinally
 categorizers
+coffeecup
 consecrates
 consecrating
 consecration
