@@ -376,7 +376,6 @@ abets
 abettal
 antepenults
 abetters
-abettor
 abettors
 attributiveness
 agacerie
@@ -13709,6 +13708,7 @@ annulism
 annullable
 annullate
 annulled
+abettor
 annuller
 annulli
 annulling
