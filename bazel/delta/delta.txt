@@ -7313,7 +7313,6 @@ daresay
 drearly
 determiner
 dandiprat
-determining
 determinism
 determinist
 deterministic
@@ -12808,6 +12807,7 @@ daguerreotypes
 diminue
 dermatophyte
 davidian
+determining
 dismembered
 dismemberer
 dismemberment
