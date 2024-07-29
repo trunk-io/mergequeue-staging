@@ -2100,6 +2100,7 @@ acetylcholinesterase
 atmogenic
 acetylcyanide
 acetylenation
+apagoge
 acetylene
 acetylenediurein
 acetylglycine
@@ -16643,7 +16644,6 @@ apaesthetize
 angiokinetic
 analogy
 articulatory
-apagoge
 apagoges
 apagogic
 appetizer
