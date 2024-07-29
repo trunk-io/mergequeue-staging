@@ -7257,7 +7257,6 @@ ethnodicy
 eogaean
 ethnographer
 eoghanacht
-expiration
 eohippus
 eohippuses
 eoiths
@@ -13289,6 +13288,7 @@ esparsette
 exceptioner
 ectocyst
 exponentiates
+expiration
 exponentiation
 enterosepsis
 educible
