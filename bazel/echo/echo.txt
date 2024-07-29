@@ -2598,6 +2598,7 @@ enclasping
 electrogilt
 evaporator
 electrostenolysis
+emotes
 electrostenolytic
 electrostriction
 electrosurgery
@@ -3970,7 +3971,6 @@ epithyme
 exstemporal
 eversions
 emoter
-emotes
 ese
 emoting
 eskers
