@@ -9222,6 +9222,7 @@ figures
 fragile
 forwarder
 firetraps
+frogbit
 fragileness
 fragility
 fleams
@@ -10262,7 +10263,6 @@ froebelist
 froeman
 ferrado
 formalized
-frogbit
 frogeyed
 futhork
 frogfish
