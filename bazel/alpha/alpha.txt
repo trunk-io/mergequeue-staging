@@ -5271,7 +5271,6 @@ aff
 affa
 affability
 antisepticism
-autopoint
 affable
 affableness
 alaria
@@ -16025,6 +16024,7 @@ acidimeter
 antipsychotic
 antiptosis
 antipudic
+autopoint
 acheiria
 antiputrefactive
 antiputrid
