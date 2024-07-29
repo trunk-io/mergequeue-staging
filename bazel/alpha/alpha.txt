@@ -11773,7 +11773,6 @@ analysed
 analyser
 analyses
 abigeat
-analysis
 analyst
 analysts
 aurei
@@ -20074,6 +20073,7 @@ armscye
 acuan
 armsful
 atestine
+analysis
 actualistic
 armure
 accede
