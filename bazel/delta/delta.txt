@@ -1156,6 +1156,7 @@ distorters
 djagatay
 dashpots
 dasi
+disembargoing
 dasyatidae
 dryopteroid
 dasyatis
@@ -11973,7 +11974,6 @@ disembalm
 disembargo
 deluges
 discriminatorily
-disembargoing
 debouches
 disembark
 disembarkation
