@@ -4254,7 +4254,6 @@ delocalised
 dewater
 delocalising
 draba
-disputant
 delocalization
 delocalize
 delomorphic
@@ -15982,6 +15981,7 @@ dispenser
 dadburned
 dollying
 disdeceive
+disputant
 detestably
 dama
 dote
