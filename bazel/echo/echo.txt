@@ -5907,7 +5907,6 @@ enjamb
 enjambed
 epistolize
 exsiccant
-enjambement
 enjambment
 enjambments
 enjelly
@@ -7945,6 +7944,7 @@ epimanikion
 epimedium
 epimer
 epimerase
+enjambement
 epidermomycosis
 epimeres
 epimeric
