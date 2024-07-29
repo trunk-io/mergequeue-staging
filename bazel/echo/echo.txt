@@ -7430,7 +7430,6 @@ ephemeral
 epigrapher
 enmesh
 ephemerally
-electrocardiograph
 euscaro
 ephemeran
 ephemeras
@@ -11792,6 +11791,7 @@ effervescingly
 easterner
 ecdysial
 excretolic
+electrocardiograph
 exalts
 emboweling
 examen
