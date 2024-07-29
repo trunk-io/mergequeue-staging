@@ -11169,7 +11169,6 @@ chitins
 chitlin
 chitling
 centromere
-chitlings
 cowpath
 chitlins
 chiton
@@ -19664,6 +19663,7 @@ corroboreed
 columba
 columbae
 columban
+chitlings
 columbanian
 columbaries
 columbarium
