@@ -3892,6 +3892,7 @@ dekadrachm
 distinctest
 dekagram
 daphnad
+disqualified
 dekametre
 detracter
 dekaparsec
@@ -13355,7 +13356,6 @@ disqualify
 disqualifiable
 dopper
 dogstone
-disqualified
 doublehorned
 dourade
 disyntheme
