@@ -884,7 +884,6 @@ fantoccini
 flunkey
 forecaddie
 flare
-fantod
 forecommend
 ferries
 firefangs
@@ -1496,6 +1495,7 @@ favorless
 faulted
 faulter
 fragmentization
+fantod
 faultfinder
 fretize
 flinted
