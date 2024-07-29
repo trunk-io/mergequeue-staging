@@ -6210,7 +6210,6 @@ girns
 gluepot
 glew
 glug
-gloominess
 gravegarth
 gambeson
 gluier
@@ -6946,6 +6945,7 @@ goniodoridae
 gluteoperineal
 golding
 glykopexic
+gloominess
 gynophagite
 gonionia
 gilling
