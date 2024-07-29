@@ -12738,7 +12738,6 @@ chronologists
 chloroacetic
 chronologize
 chronologizing
-chronomancy
 chronomantic
 chronomastix
 chronometer
@@ -26855,6 +26854,7 @@ counterdemonstrator
 counterdevelopment
 cochairman
 counterdifficulty
+chronomancy
 cerebroscopy
 cubes
 chiaroscurist
