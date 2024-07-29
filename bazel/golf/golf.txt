@@ -3203,6 +3203,7 @@ guestless
 geomagnetism
 gurdwara
 gladiola
+gummers
 gripgrass
 geomaly
 geomalism
@@ -10419,7 +10420,6 @@ garrisoning
 gurgles
 growthless
 gummed
-gummers
 gauily
 glaucine
 gregariously
