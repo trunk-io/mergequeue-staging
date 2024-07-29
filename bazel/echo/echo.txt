@@ -1780,6 +1780,7 @@ endungeon
 eyelash
 empathizes
 eyelashes
+endodynamomorphic
 eyelast
 eikones
 epicenes
@@ -5127,7 +5128,6 @@ europiums
 electrotherapeutical
 equipages
 endoderms
-endodynamomorphic
 enchiladas
 enhaulse
 ecchymoses
