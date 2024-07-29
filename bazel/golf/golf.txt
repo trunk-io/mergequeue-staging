@@ -5551,7 +5551,6 @@ groan
 grilles
 gamete
 glomerulate
-gigantism
 glycogeny
 glycogenolytic
 glycogenosis
@@ -6088,6 +6087,7 @@ gestures
 gallinule
 geography
 glottid
+gigantism
 gynerium
 glottises
 glottochronology
