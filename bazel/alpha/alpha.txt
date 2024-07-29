@@ -7607,7 +7607,6 @@ amidist
 assimilates
 alcazar
 alcazars
-alcazava
 alce
 astrophil
 alcedinidae
@@ -14528,6 +14527,7 @@ anthranilate
 autolyse
 anthranilic
 anthranoyl
+alcazava
 anthranol
 anthranone
 anthraphenone
