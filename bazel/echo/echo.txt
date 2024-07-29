@@ -6334,6 +6334,7 @@ elaborators
 enshadow
 enshawl
 ensheath
+etamins
 ensheathe
 ensheathed
 eelpot
@@ -10133,7 +10134,6 @@ etamines
 equilobed
 envies
 exarillate
-etamins
 etang
 equalizing
 everbloomer
