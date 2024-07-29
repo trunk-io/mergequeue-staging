@@ -4886,7 +4886,6 @@ gneiss
 girned
 gathering
 grotesquely
-gyro
 grandmotherly
 gyrencephalous
 gyrocar
@@ -10706,6 +10705,7 @@ groundnut
 genarchship
 gutling
 gherkin
+gyro
 glyceric
 gusty
 gustoes
