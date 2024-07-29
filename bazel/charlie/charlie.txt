@@ -13605,7 +13605,6 @@ cornichon
 coffle
 cilia
 clonothrix
-ciliary
 ciliata
 craped
 ciliate
@@ -20149,6 +20148,7 @@ chiels
 commensal
 commensalist
 ceptor
+ciliary
 commensalistic
 commensally
 commensals
