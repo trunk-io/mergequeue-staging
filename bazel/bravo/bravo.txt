@@ -5073,7 +5073,6 @@ boasting
 birma
 befoam
 baas
-befog
 befogged
 boolean
 befogging
@@ -11156,6 +11155,7 @@ blossoms
 blot
 beclogging
 borable
+befog
 blotched
 benzoglyoxaline
 blotches
