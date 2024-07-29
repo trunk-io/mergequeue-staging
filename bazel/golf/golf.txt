@@ -3561,7 +3561,6 @@ gelatigenous
 goosebeak
 germproof
 germule
-geswarp
 ghat
 greenslade
 gypsied
@@ -5539,6 +5538,7 @@ glycyrrhizin
 groundman
 gastroenteritic
 garvey
+geswarp
 gouging
 geocoronium
 gunbright
