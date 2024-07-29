@@ -2532,6 +2532,7 @@ gemmification
 graals
 glaucomys
 gemming
+gauche
 grainering
 gemmipara
 gemmiparous
@@ -5705,7 +5706,6 @@ glisky
 geodynamics
 glissader
 gluttonish
-gauche
 grapeless
 geologer
 gebur
