@@ -3217,7 +3217,6 @@ belesprit
 belauds
 basidorsal
 balneologic
-basify
 bakatan
 baccate
 blick
@@ -10502,6 +10501,7 @@ blackie
 bistorts
 blattid
 blattidae
+basify
 blattiform
 blatting
 blattodea
