@@ -9283,7 +9283,6 @@ bipinnatipartite
 basest
 bipinnatisect
 blinding
-bins
 blighties
 bipinnatisected
 bipyramid
@@ -13041,6 +13040,7 @@ borrelia
 borrelomycetaceae
 blacken
 borreria
+bins
 borromean
 bortz
 borrow
