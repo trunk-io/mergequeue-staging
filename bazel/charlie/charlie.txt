@@ -9893,6 +9893,7 @@ cravenette
 chemicoastrological
 chemicobiology
 chemicobiologic
+correctify
 chemicobiological
 chemicoluminescence
 chemicoluminescent
@@ -25737,7 +25738,6 @@ corrected
 coatroom
 campanulariae
 correctest
-correctify
 cubicly
 correction
 costoinferior
