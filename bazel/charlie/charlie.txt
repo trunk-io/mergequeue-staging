@@ -7880,7 +7880,6 @@ cartful
 cerviciplex
 cervicoaxillary
 cervicobasilar
-cervicobregmatic
 cervicodorsal
 cervicofacial
 cabob
@@ -13092,6 +13091,7 @@ chainbreak
 cyanitic
 cyanized
 cyanizing
+cervicobregmatic
 churchwardens
 cyanmethemoglobin
 cyano
