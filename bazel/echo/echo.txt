@@ -3924,6 +3924,7 @@ eudialyte
 emission
 ejicient
 emissive
+executiveness
 echoic
 emissory
 emittance
@@ -9296,7 +9297,6 @@ enterocoele
 excarnificate
 elf
 errant
-executiveness
 errants
 erratas
 encephalometric
