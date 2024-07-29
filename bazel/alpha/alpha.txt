@@ -14337,7 +14337,6 @@ anterooms
 anteroparietal
 anteroposterior
 anteroposteriorly
-anterospinal
 anterosuperior
 anteroventral
 antes
@@ -19798,6 +19797,7 @@ anesthesia
 aristodemocracy
 aristodemocracies
 aristodemocratical
+anterospinal
 aristogenic
 akhund
 armorially
