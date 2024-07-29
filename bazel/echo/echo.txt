@@ -9564,6 +9564,7 @@ enspell
 escribano
 electromagnetism
 escribiente
+evasive
 escritoire
 escritorial
 escrod
@@ -11387,7 +11388,6 @@ exasperation
 evasion
 evasional
 evasions
-evasive
 evasively
 evasiveness
 evechurr
