@@ -2603,6 +2603,7 @@ evaporator
 electrostenolysis
 emotes
 electrostenolytic
+euripi
 electrostriction
 electrosurgery
 electrosurgeries
@@ -11109,7 +11110,6 @@ eurypharyngidae
 epitaph
 eurypharynx
 enaena
-euripi
 efoliolate
 embruted
 euripidean
