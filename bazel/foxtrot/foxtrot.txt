@@ -1491,7 +1491,6 @@ fauconnier
 faujasite
 faultage
 favorless
-faulted
 faulter
 fragmentization
 fantod
@@ -2952,6 +2951,7 @@ fibbed
 fluorinating
 fibbery
 fibbers
+faulted
 falcones
 founds
 fiberboard
