@@ -3526,6 +3526,7 @@ filestatus
 float
 fabiform
 furaldehyde
+fantocine
 filet
 filets
 furunculus
@@ -10190,7 +10191,6 @@ fledging
 fritillaria
 foursomes
 fritniency
-fantocine
 fraising
 forgivably
 fritted
