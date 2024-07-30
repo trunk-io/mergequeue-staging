@@ -2535,7 +2535,6 @@ electrophore
 electrophorese
 euphemian
 electrophoretically
-extraoral
 electrophoretogram
 eave
 electrocatalytic
@@ -13194,6 +13193,7 @@ explanitory
 euphony
 eyemark
 explant
+extraoral
 explanted
 equiponderated
 elsa
