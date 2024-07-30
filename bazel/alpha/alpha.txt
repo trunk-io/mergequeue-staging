@@ -8027,7 +8027,6 @@ alfur
 alfurese
 alfuro
 aghanee
-absorptivity
 alga
 analogising
 asweve
@@ -11956,6 +11955,7 @@ archaeogeology
 arachnology
 anthosiderite
 anaptotic
+absorptivity
 avifaunal
 anarcestes
 albificative
