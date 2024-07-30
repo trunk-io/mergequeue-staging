@@ -7234,7 +7234,6 @@ disseats
 detar
 detat
 detd
-detectability
 daishiki
 dogshore
 detectable
@@ -15212,6 +15211,7 @@ desalt
 dolittle
 dolium
 doll
+detectability
 deepener
 dollardee
 dollarfish
