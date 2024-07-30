@@ -1148,7 +1148,6 @@ bairnie
 bairnish
 bairnishness
 bairnly
-bairnliest
 bakongo
 bairnliness
 bairns
@@ -13614,6 +13613,7 @@ bouvardia
 bouvier
 bouzouki
 beadroll
+bairnliest
 bouzoukia
 bouzoukis
 bovarism
