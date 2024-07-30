@@ -4410,7 +4410,6 @@ beclogged
 beclose
 beclothe
 beclothes
-becloud
 box
 beclouded
 beclouding
@@ -15578,6 +15577,7 @@ broadbill
 broadbrim
 burred
 broadcast
+becloud
 bufagin
 broadcasted
 broadcasters
