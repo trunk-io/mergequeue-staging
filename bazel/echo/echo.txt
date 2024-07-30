@@ -8767,7 +8767,6 @@ emolumentary
 equiprobable
 equiprobably
 epimerize
-equiproportional
 equiproportionality
 equips
 equipt
@@ -12810,6 +12809,7 @@ effigurate
 exodus
 exorcizing
 exordial
+equiproportional
 exordium
 een
 exordiums
