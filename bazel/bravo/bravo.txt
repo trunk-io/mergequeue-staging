@@ -2625,6 +2625,7 @@ blacklegging
 burlet
 barile
 barilla
+bepat
 broletti
 baryon
 briticism
@@ -6479,7 +6480,6 @@ beparse
 breakstone
 bepaste
 bepastured
-bepat
 brinksmanship
 bromometric
 bepatched
