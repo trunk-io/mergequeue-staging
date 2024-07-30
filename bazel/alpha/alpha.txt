@@ -5731,6 +5731,7 @@ afterrider
 afterroll
 afters
 aftershaft
+antaeus
 amoral
 aftershave
 aftershaves
@@ -14046,7 +14047,6 @@ announcement
 antacid
 antacrid
 antadiform
-antaeus
 accelerated
 antagony
 antagonisable
