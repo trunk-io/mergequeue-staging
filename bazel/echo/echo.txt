@@ -2445,7 +2445,6 @@ electrokinetics
 electrogalvanization
 excitability
 euge
-elanet
 extensum
 excusal
 eardrop
@@ -4137,6 +4136,7 @@ extirpations
 empyromancy
 emplace
 estriate
+elanet
 entwines
 externalist
 exothermically
