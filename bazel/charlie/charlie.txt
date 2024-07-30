@@ -10346,7 +10346,6 @@ chiasmatype
 chiasmatypy
 chiasmi
 chiasmodontid
-chiasms
 chiastic
 chiastoneural
 chiastoneury
@@ -31757,6 +31756,7 @@ customizing
 customly
 customs
 customshouse
+chiasms
 custos
 counterdeclaration
 custrel
