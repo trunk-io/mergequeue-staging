@@ -14660,7 +14660,6 @@ boltheads
 bandoliered
 braveness
 braver
-bravery
 boschboks
 bourgade
 bissabol
@@ -15325,6 +15324,7 @@ brilliantined
 brilliantwise
 bilos
 brilliolette
+bravery
 brillolette
 brim
 brimborion
