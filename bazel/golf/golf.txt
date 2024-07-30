@@ -2377,7 +2377,6 @@ gablewindowed
 gelations
 gestureless
 geldant
-gambit
 galvanographic
 gentianin
 gastral
@@ -6117,6 +6116,7 @@ gymnadenia
 glowering
 glowfly
 gossy
+gambit
 gynandromorph
 glows
 gnetums
