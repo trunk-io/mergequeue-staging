@@ -4049,7 +4049,6 @@ gift
 gleaned
 goffle
 gusain
-giftbook
 gifted
 germanic
 gifting
@@ -7343,6 +7342,7 @@ groundwards
 gravery
 gravamens
 garbanzos
+giftbook
 goslarite
 goslings
 gregorianizer
