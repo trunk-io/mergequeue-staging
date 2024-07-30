@@ -2592,6 +2592,7 @@ fertility
 filariae
 fertilizability
 fixgig
+foys
 ferroprussiate
 fertilizational
 failings
@@ -6769,7 +6770,6 @@ fertilities
 farsightedly
 frigorify
 faden
-foys
 foison
 foisonless
 foist
