@@ -6913,6 +6913,7 @@ foothot
 fatting
 foll
 folles
+fuzils
 follicle
 follicular
 firry
@@ -11731,7 +11732,6 @@ fanaloka
 fuzes
 freijo
 ferfathmur
-fuzils
 flotages
 fuzing
 foretellers

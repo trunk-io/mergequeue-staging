@@ -10836,7 +10836,6 @@ ammono
 ammonobasic
 ammonocarbonic
 ammonocarbonous
-ammonoid
 ammonoidea
 ammonolyses
 ammonolitic
@@ -14335,6 +14334,7 @@ anteroflexion
 anterofrontal
 avichi
 anterointerior
+ammonoid
 anterointernal
 anterolateral
 annulation
