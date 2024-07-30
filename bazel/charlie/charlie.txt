@@ -6154,7 +6154,6 @@ completedness
 catur
 corallite
 catvine
-catwalk
 catwalks
 crunching
 catwise
@@ -7927,6 +7926,7 @@ cesarean
 cesareans
 cesarevitch
 cesarian
+catwalk
 cesarolite
 coredeem
 cesious
