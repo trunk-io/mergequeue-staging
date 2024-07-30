@@ -2509,7 +2509,6 @@ daer
 dilli
 declivent
 declivity
-declivitous
 declivous
 defaisance
 decoagulate
@@ -6386,6 +6385,7 @@ dishelmed
 dermobranchiata
 decahydrated
 dermobranchiate
+declivitous
 dermococcus
 dewooled
 dermography
