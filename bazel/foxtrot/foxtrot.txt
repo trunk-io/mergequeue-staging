@@ -3744,7 +3744,6 @@ firebases
 fany
 feudalize
 fowlings
-flavorings
 fig
 forebespeak
 fimbriodentate
@@ -11415,6 +11414,7 @@ fica
 famuli
 factions
 foremasthand
+flavorings
 featherpated
 fourteenthly
 flatlet
