@@ -14322,6 +14322,7 @@ anterointernal
 anterolateral
 annulation
 anterolaterally
+anapophysis
 anteromedial
 abducting
 anteromedian
@@ -19446,7 +19447,6 @@ argentinidae
 argentinitrate
 argentinize
 argentino
-anapophysis
 argention
 argentol
 acrodonts
