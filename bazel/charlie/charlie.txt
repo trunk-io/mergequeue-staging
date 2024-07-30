@@ -9585,7 +9585,6 @@ centrosema
 checkerboarding
 checkerboards
 checkerbreast
-careworn
 checkered
 catboat
 checkerist
@@ -25765,6 +25764,7 @@ corcyraean
 ceilometer
 correlatable
 chaton
+careworn
 circumintestinal
 coastways
 correlated
