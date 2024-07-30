@@ -2904,6 +2904,7 @@ barracker
 barracking
 barraclade
 barracoon
+biphasic
 barracouta
 bulwarks
 barracoutas
@@ -9272,7 +9273,6 @@ bowdichia
 biperforate
 biphase
 backstair
-biphasic
 biphenylene
 biphenol
 bipinnaria
