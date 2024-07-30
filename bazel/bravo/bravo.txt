@@ -596,6 +596,7 @@ beamy
 backstops
 bethlehemite
 bubas
+beautifier
 booklouse
 backstreet
 backstretch
@@ -12171,7 +12172,6 @@ bibliographies
 bolson
 bolstered
 bolsterer
-beautifier
 blauwbok
 basilic
 bolsterers
