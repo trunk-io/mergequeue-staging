@@ -15859,6 +15859,7 @@ cestos
 claviers
 concelebrated
 claviform
+cortian
 claviger
 clavigerous
 claviharp
@@ -25945,7 +25946,6 @@ cortes
 cortex
 cortexes
 cortez
-cortian
 cortical
 corticate
 corticated
