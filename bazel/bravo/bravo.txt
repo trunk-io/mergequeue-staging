@@ -5922,7 +5922,6 @@ betta
 bemask
 bemaster
 bemat
-bronchotetany
 bembecidae
 bauble
 beveil
@@ -15689,6 +15688,7 @@ brog
 brogger
 bryologies
 broggle
+bronchotetany
 brogh
 brogue
 benty
