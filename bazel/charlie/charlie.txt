@@ -6499,7 +6499,6 @@ cavitate
 cavitating
 cavitations
 cavity
-cavitied
 cavities
 cavort
 cavorted
@@ -27166,6 +27165,7 @@ counterscarp
 countersconce
 claddings
 coalface
+cavitied
 compacter
 counterscrutiny
 countersecure
