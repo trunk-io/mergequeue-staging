@@ -7462,7 +7462,6 @@ cephalous
 cephas
 cepheid
 cepheids
-cepheus
 cephid
 cephidae
 calycifloral
@@ -10963,6 +10962,7 @@ chipmunk
 chipmunks
 chipolata
 chippable
+cepheus
 chamfering
 coequals
 chippage
