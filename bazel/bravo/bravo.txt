@@ -15435,7 +15435,6 @@ bryophyta
 bryophytes
 bryozoans
 bryozoon
-bywalker
 babongo
 bryozoum
 briquets
@@ -17878,6 +17877,7 @@ burst
 burster
 bronchoalveolar
 boomorah
+bywalker
 burstiness
 bursting
 bandersnatch
