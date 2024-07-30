@@ -647,7 +647,6 @@ beforetime
 backwash
 benzalacetophenone
 bakeware
-bedrock
 backwashed
 backwashes
 backwashing
@@ -13211,6 +13210,7 @@ benevolence
 botcher
 botchery
 botcheries
+bedrock
 botcherly
 bigamic
 botchy
