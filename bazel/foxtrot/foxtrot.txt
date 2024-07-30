@@ -463,6 +463,7 @@ faking
 fakir
 falange
 falasha
+falutin
 fatlings
 flaxman
 fireboy
@@ -2075,7 +2076,6 @@ feller
 fellers
 fellfare
 felly
-falutin
 fellifluous
 fummle
 fellingbird
