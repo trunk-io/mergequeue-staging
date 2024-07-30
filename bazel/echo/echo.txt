@@ -3520,7 +3520,6 @@ eurylaimoid
 empathized
 examination
 embolization
-embolize
 exploitations
 earclip
 embololalia
@@ -4092,6 +4091,7 @@ empiecement
 euphroe
 empyemas
 erodent
+embolize
 empyemata
 empyemic
 empierce
