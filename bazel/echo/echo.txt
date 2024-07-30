@@ -1562,7 +1562,6 @@ egghead
 elytra
 eggheaded
 eggheadedness
-exclusory
 enmarbled
 egglike
 eggment
@@ -7516,6 +7515,7 @@ echidna
 ephoral
 extendibility
 ephoralty
+exclusory
 ephorate
 emandibulate
 ephori
