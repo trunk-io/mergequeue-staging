@@ -1429,7 +1429,6 @@ baldoquin
 baldpate
 baldpated
 brutal
-baldpatedness
 baldpates
 baldrib
 bloops
@@ -17411,6 +17410,7 @@ bunkmates
 bering
 bepretty
 booking
+baldpatedness
 bunko
 bunkoed
 bunkoing
