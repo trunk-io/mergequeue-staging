@@ -10989,7 +10989,6 @@ chipproof
 chypre
 chips
 carpenter
-chipwood
 chiquero
 crosses
 chiquitan
@@ -19439,6 +19438,7 @@ colophan
 colophane
 colophany
 colophene
+chipwood
 cloudland
 colophon
 colophonate
