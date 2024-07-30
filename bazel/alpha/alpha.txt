@@ -12570,7 +12570,6 @@ adventitiously
 anemological
 abjudicator
 anemometer
-anemometers
 anemometrical
 anemometrically
 anemometrograph
@@ -25285,6 +25284,7 @@ azon
 abigeus
 azonal
 azonic
+anemometers
 azonium
 azons
 anemology
