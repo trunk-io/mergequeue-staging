@@ -4599,7 +4599,6 @@ ejacula
 enchantment
 epicarp
 epicoelia
-enchants
 encharging
 exopodite
 enchased
@@ -7125,6 +7124,7 @@ endover
 enveil
 envelop
 envelope
+enchants
 enveloping
 extemporized
 envenomation
