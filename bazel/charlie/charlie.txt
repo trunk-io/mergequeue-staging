@@ -23912,7 +23912,6 @@ contraregularity
 canonicalized
 contraremonstrance
 contrary
-caches
 contrariant
 contrariantly
 contraries
@@ -26274,6 +26273,7 @@ costage
 crenelle
 costalgia
 costally
+caches
 costander
 costanoan
 costar
