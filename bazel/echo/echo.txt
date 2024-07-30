@@ -3038,6 +3038,7 @@ ellipsograph
 ellipsoid
 euclid
 eatche
+elidible
 ellipsoidal
 entoproctous
 ellipsone
@@ -9709,7 +9710,6 @@ endfile
 esophagometer
 esophagomycosis
 electrothanatosis
-elidible
 empeirema
 entwist
 eunuchry
