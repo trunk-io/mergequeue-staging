@@ -7648,7 +7648,6 @@ dsnames
 doggrelize
 deviancy
 defalcate
-deviant
 deviate
 drollishness
 deviating
@@ -10654,6 +10653,7 @@ diplococcus
 diplocoria
 diplodocus
 diplodocuses
+deviant
 disaffirmance
 dago
 devotionalism
