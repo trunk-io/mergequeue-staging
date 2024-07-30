@@ -2370,7 +2370,6 @@ anodynic
 antituberculotic
 achromatizable
 achromatization
-achromatize
 achromatocyte
 achromatophil
 achromatophile
@@ -19373,6 +19372,7 @@ areometrical
 amphigastrium
 arraigning
 amylases
+achromatize
 areopagitic
 analphabet
 amazonite
