@@ -12628,7 +12628,6 @@ anesthesiologist
 allowableness
 anesthesiologists
 anesthesiometer
-anesthesis
 antiprophet
 anesthetic
 auxotonic
@@ -17654,6 +17653,7 @@ appendicocaecostomy
 appendicostomy
 appendicularia
 appendicularian
+anesthesis
 appendiculariidae
 aerocurve
 appendiculata
