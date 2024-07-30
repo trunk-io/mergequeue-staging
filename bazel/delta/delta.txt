@@ -2702,6 +2702,7 @@ decontaminators
 discerners
 decontrol
 dustoor
+disforestation
 dvornik
 deflectometer
 depasture
@@ -7627,7 +7628,6 @@ dashiest
 developing
 developist
 development
-disforestation
 developmentally
 developmentary
 developmentarian

@@ -3659,7 +3659,6 @@ embryoferous
 endamagement
 embryography
 everse
-embryoid
 embryoism
 exalate
 embryol
@@ -6834,6 +6833,7 @@ entocoel
 entocoelic
 entocondylar
 epitrophic
+embryoid
 electrums
 egestion
 elegiast
