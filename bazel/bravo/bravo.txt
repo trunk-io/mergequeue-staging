@@ -6295,7 +6295,6 @@ benzanalgen
 beaconage
 bitreadle
 benzanthracene
-benzantialdoxime
 bellwort
 bowyer
 benzazine
@@ -8600,6 +8599,7 @@ barotse
 billingsgate
 billion
 bravos
+benzantialdoxime
 bilabiate
 billionaires
 beglue
