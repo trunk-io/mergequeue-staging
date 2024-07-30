@@ -19334,7 +19334,6 @@ athonite
 aren
 arena
 azeotropism
-amphiboline
 arenaceous
 acaudate
 arenariae
@@ -22296,6 +22295,7 @@ alinasal
 articulative
 acetabuliform
 astroglia
+amphiboline
 astrognosy
 astrogonic
 astrograph
