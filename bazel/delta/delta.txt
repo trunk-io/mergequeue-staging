@@ -2337,6 +2337,7 @@ decigram
 decile
 decylene
 decylenic
+decaedron
 deciles
 decylic
 deciliter
@@ -10993,7 +10994,6 @@ disaccomodate
 dermatocele
 deciduoma
 disaccordant
-decaedron
 diswarren
 disaccustomedness
 disacidify
