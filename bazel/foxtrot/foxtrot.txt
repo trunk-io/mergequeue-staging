@@ -1709,7 +1709,6 @@ fearnought
 frisket
 fearsome
 fearsomely
-fortuity
 fearsomeness
 floristry
 feasances
@@ -11186,6 +11185,7 @@ fatted
 fallings
 frankmarriage
 fellside
+fortuity
 fungillus
 farer
 flasks
