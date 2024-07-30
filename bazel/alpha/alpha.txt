@@ -1784,6 +1784,7 @@ accouter
 accoutered
 acrotic
 acemetic
+antlid
 affluent
 accoutre
 abr
@@ -16475,7 +16476,6 @@ antlerless
 antlers
 antlia
 antliate
-antlid
 antling
 aethalia
 antlion
