@@ -355,7 +355,6 @@ dialkyl
 daijo
 daiker
 daikon
-dail
 diaphony
 dailamite
 daily
@@ -9407,6 +9406,7 @@ decard
 dissociant
 dungbred
 dietetist
+dail
 diethanolamine
 diethyl
 diethylacetal
