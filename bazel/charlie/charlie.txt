@@ -1062,7 +1062,6 @@ calcifies
 calcifying
 calciform
 calcifugal
-calcigenous
 calcigerous
 calcimeter
 calcimined
@@ -6095,6 +6094,7 @@ catouse
 catpiece
 canonisation
 catrigged
+calcigenous
 convoys
 cats
 counterquartered
