@@ -1168,7 +1168,6 @@ ganodont
 graphical
 garlopa
 ganodus
-genus
 ganoidal
 ganoidei
 gallanting
@@ -4684,6 +4683,7 @@ gipser
 gypsy
 glossata
 gipsydom
+genus
 ganglioneuron
 gearboxes
 gutterlike
