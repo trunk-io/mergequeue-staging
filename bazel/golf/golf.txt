@@ -4692,7 +4692,6 @@ gypsy
 glossata
 gipsydom
 genus
-ganglioneuron
 gearboxes
 gutterlike
 gypsies
@@ -5159,6 +5158,7 @@ gladius
 gumby
 gladly
 gastralgy
+ganglioneuron
 gibbets
 gallowses
 greenable
