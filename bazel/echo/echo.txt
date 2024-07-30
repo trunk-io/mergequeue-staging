@@ -12352,7 +12352,6 @@ etouffe
 electroencephalograms
 exemplarism
 exemplarity
-exemplars
 exempli
 exemplify
 educement
@@ -13385,6 +13384,7 @@ ecosystems
 exprimable
 exprobrate
 exprobration
+exemplars
 externat
 exprobratory
 expromission
