@@ -4061,7 +4061,6 @@ emperies
 emperil
 emperish
 elephantiasis
-enroot
 electroencephalographs
 emperors
 ezan
@@ -9462,6 +9461,7 @@ ennoble
 eulogism
 escallop
 esseda
+enroot
 eosinate
 escalloped
 ediface
