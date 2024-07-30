@@ -2043,7 +2043,6 @@ campground
 campgrounds
 cephalomenia
 congenite
-camphanic
 camphanone
 camphylene
 camphine
@@ -2369,6 +2368,7 @@ candymaker
 ciliotomy
 cubicone
 candymaking
+camphanic
 conterminousness
 congealing
 candys
