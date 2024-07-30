@@ -3739,7 +3739,6 @@ adenopharyngitis
 anthraconecrosis
 adenophyma
 adenophlegmon
-adenophora
 adenopodous
 adenosarcoma
 adenosarcomas
@@ -22339,6 +22338,7 @@ antiflattering
 astrometer
 astrometry
 accepter
+adenophora
 acumen
 astronaut
 affination
