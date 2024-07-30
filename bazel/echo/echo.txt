@@ -6354,6 +6354,7 @@ elaborators
 exampleless
 enshadow
 enshawl
+elocutioner
 ensheath
 etamins
 ensheathe
@@ -9855,7 +9856,6 @@ eugenia
 essentiality
 essentialities
 essentialization
-elocutioner
 embryogeny
 euphrosyne
 enseraph
