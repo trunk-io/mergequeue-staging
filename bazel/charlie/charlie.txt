@@ -11068,7 +11068,6 @@ chironomidae
 chironomus
 chiropatagium
 chiroplasty
-countersignature
 chiropodial
 caretaker
 chiropodic
@@ -11970,6 +11969,7 @@ corresol
 chordacentrous
 chordacentrum
 chordaceous
+countersignature
 chordal
 chordamesoderm
 chordamesodermal
