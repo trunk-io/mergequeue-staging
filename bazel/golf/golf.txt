@@ -3043,7 +3043,6 @@ geocyclic
 goal
 glycogenase
 graecized
-geocline
 grandeeism
 genapper
 goldwork
@@ -10683,6 +10682,7 @@ germinogony
 gingersnap
 galleon
 gainsay
+geocline
 goldfishes
 gymnorhininae
 gasometrical
