@@ -10837,7 +10837,6 @@ ammonolyzed
 ammonolyzing
 astrochemistry
 ammophilous
-amia
 ammoreslinol
 ammos
 affiance
@@ -18907,6 +18906,7 @@ archicantor
 archicarp
 archicerebrum
 archichlamydeae
+amia
 archichlamydeous
 archicyte
 acrotreta
