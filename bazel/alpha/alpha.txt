@@ -8441,6 +8441,7 @@ apologizes
 alkalin
 alkalinisation
 alkalinity
+antievolution
 alkalinization
 alkalis
 asunder
@@ -22475,7 +22476,6 @@ ataxia
 artolater
 ataxiagraph
 abuttals
-antievolution
 ataxiameter
 ataxias
 adequation
