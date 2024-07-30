@@ -5659,7 +5659,6 @@ flytraps
 fibrocyst
 flitterbat
 flours
-frigidness
 floatboard
 ferriprussiate
 flittermice
@@ -9279,6 +9278,7 @@ frayne
 frayproof
 friendliest
 fantasmagoria
+frigidness
 fraised
 fraiser
 familiarizingly
