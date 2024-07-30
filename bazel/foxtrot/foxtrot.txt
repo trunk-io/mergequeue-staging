@@ -614,6 +614,7 @@ formalist
 frumentum
 figeater
 fierasfer
+facing
 fiard
 falsifies
 footful
@@ -9390,7 +9391,6 @@ flavins
 frankness
 flowerfly
 faitery
-facing
 fizzy
 fratercula
 flagitious
