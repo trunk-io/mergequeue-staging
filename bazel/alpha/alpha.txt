@@ -7882,7 +7882,6 @@ alen
 alencons
 alenge
 alength
-ak
 alentours
 alenu
 acrose
@@ -19915,6 +19914,7 @@ armagnacs
 armament
 armamentary
 armamentaria
+ak
 armangite
 allelotropic
 antitrope
