@@ -19208,6 +19208,7 @@ andrenidae
 arcs
 arcsin
 apotypic
+autobusses
 arcsine
 arctalia
 arctalian
@@ -23930,7 +23931,6 @@ adios
 autobolide
 autobus
 autobuses
-autobusses
 autocab
 autocade
 autocamp
