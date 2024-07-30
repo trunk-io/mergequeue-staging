@@ -6118,7 +6118,6 @@ completest
 cattalo
 cattaloes
 cattalos
-catted
 catter
 cainish
 catteries
@@ -15323,6 +15322,7 @@ claik
 car
 claimable
 celemin
+catted
 clayman
 claimant
 claimants
