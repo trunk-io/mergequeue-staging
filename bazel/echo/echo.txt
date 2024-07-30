@@ -2400,7 +2400,6 @@ electroencephalograph
 electroendosmose
 electroendosmosis
 electroendosmotic
-eudalene
 electroergometer
 electroetching
 electroethereal
@@ -13976,6 +13975,7 @@ extraterritorial
 ecumenicism
 earthquaken
 extraterritorially
+eudalene
 extraterritorials
 epistoler
 eidolons
