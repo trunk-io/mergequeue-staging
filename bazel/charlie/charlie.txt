@@ -16965,6 +16965,7 @@ clubmobile
 clubmonger
 clubroom
 ceilingward
+crypts
 clubroot
 compar
 clubroots
@@ -22063,7 +22064,6 @@ configural
 configurate
 configurated
 configurating
-crypts
 configuration
 configurationally
 chromotherapist
