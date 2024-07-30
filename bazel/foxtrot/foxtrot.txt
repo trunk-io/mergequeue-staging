@@ -5261,7 +5261,6 @@ frigefact
 forjudger
 fledged
 fulminant
-fistlike
 fledgeless
 fledgy
 fistful
@@ -9536,6 +9535,7 @@ felliducous
 freckled
 forbearingness
 footbreadth
+fistlike
 flob
 frecklier
 freckliest
