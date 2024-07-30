@@ -841,7 +841,6 @@ fluxgraph
 fanos
 fettler
 fans
-fant
 frictionlessness
 fannell
 funori
@@ -5418,6 +5417,7 @@ flexitime
 fevertwitch
 flexo
 flexographic
+fant
 forswears
 flexuoseness
 flexura
