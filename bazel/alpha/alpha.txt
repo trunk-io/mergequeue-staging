@@ -20722,7 +20722,6 @@ adret
 articulated
 anthecology
 articulately
-anticize
 allopelagic
 articulateness
 anemogram
@@ -24156,6 +24155,7 @@ autoimmunize
 alcuinian
 autoimmunizing
 autoincrement
+anticize
 analemmas
 autoincremented
 autoincrements
