@@ -7624,7 +7624,6 @@ caprificator
 ceilidhe
 cerebellopontine
 cerebellorubral
-cerebellospinal
 cerebellum
 cuculliform
 cerebellums
@@ -16946,6 +16945,7 @@ clubfooted
 cutin
 clubhand
 curvimeter
+cerebellospinal
 clubhands
 clubhauled
 cassation
