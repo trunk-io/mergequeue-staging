@@ -4262,7 +4262,6 @@ delocalised
 dewater
 delocalising
 draba
-delocalization
 delocalize
 delomorphic
 deloo
@@ -5631,6 +5630,7 @@ diestrual
 departmentalizing
 departmentize
 duddies
+delocalization
 departure
 depas
 descries
