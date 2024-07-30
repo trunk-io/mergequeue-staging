@@ -5341,6 +5341,7 @@ affiancing
 affich
 animize
 affiche
+ascendable
 affidation
 affidavy
 affidavit
@@ -20938,7 +20939,6 @@ ascella
 ascelli
 ascence
 ascend
-ascendable
 ascendance
 ascendancy
 ascendant
