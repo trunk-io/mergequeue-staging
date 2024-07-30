@@ -8745,7 +8745,6 @@ allionia
 allioniaceae
 alphos
 allyou
-affixer
 aune
 allis
 alliteral
@@ -17650,6 +17649,7 @@ appendices
 amphitheatered
 appendicial
 anklong
+affixer
 appendicle
 appendicocaecostomy
 appendicostomy
