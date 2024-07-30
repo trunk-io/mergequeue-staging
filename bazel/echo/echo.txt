@@ -535,7 +535,6 @@ entopic
 evocate
 echimys
 emergent
-equatorward
 exoplasm
 echinacea
 echinate
@@ -1122,6 +1121,7 @@ editions
 electoral
 exilition
 editorial
+equatorward
 encorbellment
 erichtoid
 editorializations
