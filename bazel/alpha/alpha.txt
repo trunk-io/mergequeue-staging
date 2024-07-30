@@ -11630,7 +11630,6 @@ anaerobes
 anaerobia
 anaerobian
 antired
-amplexicaul
 anaerobic
 anaerobically
 anaerobies
@@ -23940,6 +23939,7 @@ autobusses
 autocab
 autocade
 autocamp
+amplexicaul
 armseye
 assembl
 antidecalogue
