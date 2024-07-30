@@ -2942,7 +2942,6 @@ garnishes
 grasped
 girderage
 galvanocontractility
-genos
 gentlemanly
 generalist
 gentlemanlikeness
@@ -10743,6 +10742,7 @@ gamari
 ganomalite
 glassworking
 gyrene
+genos
 guttate
 guttated
 glaciarium
