@@ -2345,7 +2345,6 @@ ferforth
 fremescent
 ferganite
 fergus
-faconde
 female
 ferguson
 fergusonite
@@ -5587,6 +5586,7 @@ fozy
 foolfish
 ferns
 flypasts
+faconde
 flipe
 flyoff
 foredeep
