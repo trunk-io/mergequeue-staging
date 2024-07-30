@@ -4723,6 +4723,7 @@ enclasp
 enneasyllabic
 extracathedral
 enclasps
+eodiscid
 enclave
 eutexia
 enclaved
@@ -10408,7 +10409,6 @@ enruin
 exareolate
 ethmoids
 ethmolith
-eodiscid
 eviscerations
 ethmonasal
 endopelvic
