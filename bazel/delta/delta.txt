@@ -4882,7 +4882,6 @@ demonism
 destituted
 demonisms
 demonize
-demonized
 demonizes
 demonland
 demonlike
@@ -7202,6 +7201,7 @@ deaconship
 detaching
 detachment
 detailed
+demonized
 droh
 dentagra
 datagrams
