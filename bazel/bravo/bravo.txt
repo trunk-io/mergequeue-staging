@@ -5754,7 +5754,6 @@ bitubercular
 bellypiece
 bellypinch
 bellis
-bellite
 beaverish
 blancs
 bellmaker
@@ -18202,6 +18201,7 @@ bunkering
 blacktop
 butomus
 butoxy
+bellite
 butoxyl
 buts
 butsu
