@@ -7342,7 +7342,6 @@ gliadins
 giles
 gorse
 gorsebird
-griphosaurus
 gorsechat
 glistering
 gorsedd
@@ -10192,6 +10191,7 @@ gurneys
 gynecologic
 gonadial
 gedd
+griphosaurus
 guideway
 goniopholis
 grasseye
