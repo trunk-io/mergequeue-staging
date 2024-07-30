@@ -1541,7 +1541,6 @@ eker
 eggberry
 eggcup
 epixylous
-eggcups
 egged
 eighteenfold
 eggers
@@ -8629,6 +8628,7 @@ equiconvex
 equicrural
 equid
 eupnoeas
+eggcups
 equidiagonal
 equidifferent
 equidimensional
