@@ -428,6 +428,7 @@ grassant
 gowdnie
 glottologies
 gr
+granulitis
 galeod
 galeodes
 gareh
@@ -8133,7 +8134,6 @@ granules
 granulet
 gossamery
 gypsydom
-granulitis
 gossan
 gallah
 granulitize
