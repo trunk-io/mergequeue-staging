@@ -169,7 +169,6 @@ golfer
 gaffes
 gaffing
 gauze
-gaffle
 gerodontology
 gaffs
 gag
@@ -4521,6 +4520,7 @@ guerdoned
 gorgeous
 gomphodont
 glar
+gaffle
 gladded
 groceryman
 gingerbready
