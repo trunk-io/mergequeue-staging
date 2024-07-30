@@ -7234,7 +7234,6 @@ enchisel
 equipotential
 enwrap
 enwrapped
-embattled
 enwrapping
 enwraps
 ectasia
@@ -9547,6 +9546,7 @@ escheatorship
 escheats
 eschele
 escheve
+embattled
 eschevin
 eschew
 eschewal
