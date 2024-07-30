@@ -4901,6 +4901,7 @@ gyromancy
 gnarl
 gunsmiths
 galleass
+gutser
 granat
 gyromele
 gunnysacks
@@ -10725,7 +10726,6 @@ gutlike
 gutnic
 geometriform
 gosh
-gutser
 glumpier
 gigadoid
 gutsy
