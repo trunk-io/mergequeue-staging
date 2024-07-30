@@ -17483,6 +17483,7 @@ applot
 airship
 atmiatrics
 apothegmatic
+arx
 airier
 apothegmatically
 apothegmatist
@@ -20861,7 +20862,6 @@ aller
 aahed
 arviculture
 arvos
-arx
 aweary
 arrowlet
 arachidonic
