@@ -80,6 +80,7 @@ cabbler
 cabda
 cabdriving
 cabecudo
+curbstone
 capellet
 cabeliau
 caber
@@ -31255,7 +31256,6 @@ curbs
 cheesecakes
 cermets
 commodity
-curbstone
 curbstoner
 curcas
 conspect
