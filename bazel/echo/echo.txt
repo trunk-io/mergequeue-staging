@@ -127,7 +127,6 @@ earpiece
 enigmatographer
 earplug
 earreach
-exportation
 endotys
 engross
 earring
@@ -6396,6 +6395,7 @@ ensigncies
 ensignry
 ensigns
 ensilaged
+exportation
 expense
 extroverted
 eucharistizing
