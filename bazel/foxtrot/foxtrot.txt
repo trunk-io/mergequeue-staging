@@ -3408,7 +3408,6 @@ figurately
 figuration
 figuratively
 forby
-figuredly
 figureheadless
 figurer
 figuresome
@@ -5250,6 +5249,7 @@ fleckiness
 fallowing
 fargoing
 fanciers
+figuredly
 flecking
 fimbriae
 ferrymen
