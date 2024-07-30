@@ -6909,7 +6909,6 @@ desonation
 desorb
 desorbed
 dryster
-desorbs
 desoxalic
 dilater
 desoxyanisoin
@@ -10451,6 +10450,7 @@ dioptrics
 denaturation
 dioptrometry
 dominos
+desorbs
 driftpiece
 dioramic
 dulciana
