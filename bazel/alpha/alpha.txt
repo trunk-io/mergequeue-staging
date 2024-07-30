@@ -5773,6 +5773,7 @@ aftertrial
 afterturn
 ammophila
 aftervision
+amuzzle
 afterwale
 afterward
 afterwhile
@@ -11481,7 +11482,6 @@ adenoliomyofibroma
 amutter
 antisera
 amuze
-amuzzle
 armpit
 amvis
 amzel
