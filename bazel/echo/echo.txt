@@ -4931,6 +4931,7 @@ endaspidean
 endaze
 effranchisement
 endboard
+entea
 ewe
 ensilist
 enddamage
@@ -6529,7 +6530,6 @@ entasis
 entassment
 expunger
 entastic
-entea
 erns
 entelam
 egress
