@@ -1475,7 +1475,6 @@ dcollet
 dysmetria
 digested
 dcolletage
-dcor
 ddt
 divine
 dea
@@ -14334,6 +14333,7 @@ dive
 depopulators
 discussable
 divebomb
+dcor
 dichotomistic
 dived
 dwindled
