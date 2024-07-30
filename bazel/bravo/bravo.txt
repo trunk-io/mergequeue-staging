@@ -10459,6 +10459,7 @@ blastostyle
 bluntness
 blastozooid
 blastplate
+brachypinacoidal
 blasts
 blastulae
 blastulation
@@ -14002,7 +14003,6 @@ bosuns
 brachiosaurus
 brachyphalangia
 brachyphyllum
-brachypinacoidal
 benin
 balanoglossida
 blastoporic
