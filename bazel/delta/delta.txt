@@ -11038,7 +11038,6 @@ drysaltery
 disadventure
 depair
 disadvise
-disadvised
 disadvising
 dysaesthetic
 disaffect
@@ -11192,6 +11191,7 @@ disassembles
 disassembly
 durwaun
 disassembling
+disadvised
 disassent
 disassiduity
 dharmakaya
