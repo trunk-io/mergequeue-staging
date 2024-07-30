@@ -6920,7 +6920,6 @@ enthelmintha
 endocrinological
 els
 entophytal
-entoplasm
 entoplastron
 erastianize
 estuarial
@@ -13941,6 +13940,7 @@ extrarhythmical
 europa
 extras
 extrasacerdotal
+entoplasm
 extrascholastic
 eavesdropped
 extraschool
