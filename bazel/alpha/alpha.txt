@@ -8041,7 +8041,6 @@ algaesthesia
 algaesthesis
 algal
 algalia
-arabic
 algarad
 algarde
 algarobas
@@ -16123,6 +16122,7 @@ achylia
 antirealistically
 atlantid
 antireduction
+arabic
 acetylator
 antireductive
 antireformer
