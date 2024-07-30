@@ -12610,7 +12610,6 @@ chromolithographic
 chromomere
 chromomeric
 chromometer
-corollas
 chromonemal
 chromonemata
 chromonematic
@@ -28233,6 +28232,7 @@ crannage
 crannel
 crannequin
 cranny
+corollas
 crannia
 crannies
 chymify
