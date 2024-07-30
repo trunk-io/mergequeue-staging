@@ -17856,7 +17856,6 @@ codeclination
 coded
 codefendants
 codeias
-codein
 codeinas
 codeine
 codeins
@@ -26303,6 +26302,7 @@ collarets
 camsteary
 costious
 costipulator
+codein
 covassal
 costispinal
 costively
