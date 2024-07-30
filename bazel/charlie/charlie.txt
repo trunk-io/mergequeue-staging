@@ -2343,7 +2343,6 @@ candid
 candida
 candidacy
 candidate
-candidated
 croucher
 candidateship
 candidature
@@ -9659,6 +9658,7 @@ cheechaco
 cheechako
 cheechakos
 cheeful
+candidated
 cheefuller
 caballed
 clubionid
