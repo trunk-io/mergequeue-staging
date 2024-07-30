@@ -2227,7 +2227,6 @@ geckotid
 geckotidae
 gecks
 gedackt
-gradientia
 gingerroot
 ganyie
 gulist
@@ -4584,6 +4583,7 @@ goldbricks
 grindstones
 greasehorn
 ginnel
+gradientia
 ginner
 gushy
 gruffiness
