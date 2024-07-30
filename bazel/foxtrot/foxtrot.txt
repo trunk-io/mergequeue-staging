@@ -1004,7 +1004,6 @@ frontalis
 fargite
 fill
 fargood
-farhand
 farhands
 frisker
 farinaceously
@@ -9711,6 +9710,7 @@ francophilism
 frammit
 fallency
 freya
+farhand
 flagfall
 freibergite
 freieslebenite
