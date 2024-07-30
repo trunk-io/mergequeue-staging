@@ -77,7 +77,6 @@ grimacier
 gamic
 grindal
 gyrfalcon
-gadabout
 gadabouts
 guideress
 gyneccia
@@ -10534,6 +10533,7 @@ gunnar
 gerbil
 gunnen
 gunner
+gadabout
 growthiness
 geoscopic
 galleting
