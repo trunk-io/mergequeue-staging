@@ -2358,6 +2358,7 @@ electrocutions
 echelle
 entamebas
 explorational
+envenom
 electrotonus
 extraught
 eugenist
@@ -11779,7 +11780,6 @@ effluence
 enragedly
 esophagospasm
 exaggeratingly
-envenom
 entomotaxy
 euphuists
 exaggeration

@@ -2338,7 +2338,6 @@ faints
 fumagine
 fellows
 ferforth
-fremescent
 ferganite
 fergus
 female
@@ -10918,6 +10917,7 @@ fullwords
 forking
 fourierism
 flecks
+fremescent
 firewarden
 fluphenazine
 fulmarus
