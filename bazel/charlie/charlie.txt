@@ -6960,7 +6960,6 @@ cenanthous
 cenation
 cenatory
 cencerros
-cenchrus
 cendre
 cene
 conductibility
@@ -27463,6 +27462,7 @@ courtney
 courtroll
 courtroom
 courts
+cenchrus
 courtship
 courtships
 caltraps
