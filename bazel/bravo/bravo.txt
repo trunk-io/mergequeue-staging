@@ -4562,7 +4562,6 @@ bede
 batrachoid
 bro
 bedeaf
-bedeafen
 bedeafened
 bowtell
 bedeafening
@@ -8956,6 +8955,7 @@ biogeographical
 biogeographically
 biognosis
 biographer
+bedeafen
 bangiaceous
 biographers
 biographical
