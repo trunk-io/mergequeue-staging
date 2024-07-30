@@ -5325,7 +5325,6 @@ gunpapers
 guider
 guaconize
 goralog
-gondoletta
 glassworm
 gustiest
 gizz
@@ -8677,6 +8676,7 @@ glockenspiel
 glucide
 goback
 gatha
+gondoletta
 greenbone
 greenbottle
 greenbrier
