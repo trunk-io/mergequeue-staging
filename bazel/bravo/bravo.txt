@@ -12870,7 +12870,6 @@ boldfaces
 borazons
 borboridae
 borborygmi
-borborygmies
 borborygmus
 blockaded
 bemingle
@@ -17391,6 +17390,7 @@ blessing
 betoya
 bunkermen
 brooklynite
+borborygmies
 bunkhouse
 biophagism
 bunkie
