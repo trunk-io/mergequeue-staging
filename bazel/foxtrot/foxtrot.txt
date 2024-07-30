@@ -5630,7 +5630,6 @@ flyswat
 feeblish
 formulization
 flyswatter
-flitch
 flitchen
 flitchplate
 feverfews
@@ -8190,6 +8189,7 @@ firemen
 forging
 forgings
 fabianism
+flitch
 forgive
 forevermore
 fusains
