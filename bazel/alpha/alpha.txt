@@ -223,6 +223,7 @@ asperated
 abbr
 abbrev
 aper
+amphitheatre
 airborne
 abbreviatable
 abbreviate
@@ -11263,7 +11264,6 @@ author
 amphitheater
 amphitheaters
 amphitheatral
-amphitheatre
 ane
 amphitheatrical
 amphitheatrically
