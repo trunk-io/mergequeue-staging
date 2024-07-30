@@ -6691,7 +6691,6 @@ fogdogs
 formicine
 fogdom
 favellae
-fogeater
 froes
 fogey
 fogfruit
@@ -11171,6 +11170,7 @@ freestones
 fasciculated
 fungibility
 fungibles
+fogeater
 fascinated
 fixures
 fungic
