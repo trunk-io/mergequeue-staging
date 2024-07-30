@@ -3969,7 +3969,6 @@ awkwardness
 adj
 apractic
 ankyloses
-adjacency
 adjacencies
 amberiferous
 adjacently
@@ -6800,6 +6799,7 @@ anselm
 ailuropoda
 ailurus
 aim
+adjacency
 aoudads
 aimak
 aymara
