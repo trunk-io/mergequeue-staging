@@ -953,7 +953,6 @@ deiseal
 darat
 darb
 disowned
-darbha
 darby
 darbs
 darcy
@@ -15732,6 +15731,7 @@ dorask
 decardinalize
 descantist
 dorbel
+darbha
 dorbugs
 dispute
 defeatist
