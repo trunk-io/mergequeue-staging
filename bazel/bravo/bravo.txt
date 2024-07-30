@@ -1806,7 +1806,6 @@ brachydactyl
 balsamweed
 balsawood
 balt
-balter
 baltetei
 balteus
 balthasar
@@ -4457,6 +4456,7 @@ bibliograph
 battlewagon
 boobyish
 becry
+balter
 bleery
 becrime
 bombycilla
