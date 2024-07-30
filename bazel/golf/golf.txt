@@ -2641,7 +2641,6 @@ generalizations
 girt
 generalizeable
 generalizer
-generalizers
 gene
 gauffred
 gluts
@@ -8334,6 +8333,7 @@ goniostat
 grassy
 gateau
 grassie
+generalizers
 grassiest
 grassiness
 gobos
