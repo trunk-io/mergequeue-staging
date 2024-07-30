@@ -3437,6 +3437,7 @@ bastiment
 bastinaded
 bastinades
 baroi
+brittlestem
 bastinading
 burbots
 bastinado
@@ -9359,7 +9360,6 @@ buonamano
 backouts
 bavin
 birchbark
-brittlestem
 birched
 bircher
 bacchical

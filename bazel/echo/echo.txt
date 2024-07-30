@@ -7213,7 +7213,6 @@ enwove
 enchisel
 equipotential
 enwrap
-enwrapment
 enwrapped
 embattled
 enwrapping
@@ -12179,6 +12178,7 @@ excriminate
 exacerbate
 ejusd
 edificial
+enwrapment
 epurate
 evitate
 ergon
