@@ -1924,6 +1924,7 @@ camises
 camisia
 camisias
 camisole
+chirotherian
 convector
 camisoles
 camister
@@ -27887,7 +27888,6 @@ crabbish
 crabbit
 crabcatcher
 copperize
-chirotherian
 crabeater
 crabeating
 craber
