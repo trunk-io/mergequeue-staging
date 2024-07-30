@@ -2314,7 +2314,6 @@ gallivanter
 gel
 gossans
 geladas
-gravelled
 gymnospore
 gelandelaufer
 goldurns
@@ -3897,6 +3896,7 @@ ganglionic
 guestimate
 geotaxes
 ghostlify
+gravelled
 ghostlike
 galactocele
 gompholobium

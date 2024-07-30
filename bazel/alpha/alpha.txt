@@ -2329,7 +2329,6 @@ actors
 achluophobia
 achmetha
 acholia
-acholias
 acholoe
 acholous
 acholuria
@@ -4979,6 +4978,7 @@ aerobium
 aeroboat
 aerobranchia
 aerobus
+acholias
 aerocamera
 aerocartograph
 aerocartography
