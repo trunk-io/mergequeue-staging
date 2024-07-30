@@ -6264,7 +6264,6 @@ guttulae
 glutamate
 glutamates
 genapped
-glutamine
 gamogony
 gestio
 gunstocks
@@ -9627,6 +9626,7 @@ gallowsness
 gif
 gisla
 grueler
+glutamine
 griddles
 gruelers
 gasterophilus
