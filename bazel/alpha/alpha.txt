@@ -6044,7 +6044,6 @@ athrocyte
 agglomerant
 agglomerate
 agglomerated
-agglomerates
 agglomeratic
 amphogeny
 armada
@@ -23366,6 +23365,7 @@ auftakt
 alang
 aug
 auganite
+agglomerates
 auge
 augean
 augelite
