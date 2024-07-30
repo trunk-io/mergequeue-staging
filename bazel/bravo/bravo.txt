@@ -9179,7 +9179,6 @@ biotechs
 bracherer
 barrette
 boart
-botanists
 biotelemetric
 biotelemetries
 biotherapy
@@ -9512,6 +9511,7 @@ byroniana
 byronic
 byronically
 byronics
+botanists
 biosatellites
 bioelectrical
 boneen
