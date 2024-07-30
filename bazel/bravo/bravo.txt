@@ -2878,7 +2878,6 @@ barouni
 bossdoms
 barquantine
 barque
-bogberry
 barques
 bedust
 bellicosities
@@ -7447,6 +7446,7 @@ bicyclist
 bitty
 blephariglottis
 betutored
+bogberry
 betwattled
 brod
 between
