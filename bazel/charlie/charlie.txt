@@ -2546,7 +2546,6 @@ cankering
 cankerous
 cankers
 cankerweed
-cankerworms
 cankerwort
 canli
 canmaker
@@ -14787,6 +14786,7 @@ cistori
 cystorrhagia
 cystorrhaphy
 cystorrhea
+cankerworms
 cystosarcoma
 carabeen
 cystoschisis
