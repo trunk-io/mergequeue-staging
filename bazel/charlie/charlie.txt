@@ -15251,7 +15251,6 @@ cladding
 conducta
 clade
 cladine
-caingang
 cladistic
 cladocera
 cladode
@@ -31859,6 +31858,7 @@ conversely
 cutoff
 cutoffs
 cutose
+caingang
 cutpurse
 conferrable
 cared
