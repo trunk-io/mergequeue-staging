@@ -319,7 +319,6 @@ edhs
 eats
 elementalize
 entrench
-eavedrop
 estado
 evenings
 enunciate
@@ -5179,6 +5178,7 @@ endolemma
 etiotropic
 endolymphic
 endolysin
+eavedrop
 endome
 echinostomiasis
 exits
