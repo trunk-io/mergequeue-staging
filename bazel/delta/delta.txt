@@ -8449,7 +8449,6 @@ diallists
 daedalist
 decentring
 dialogers
-decreement
 dialogged
 devitalised
 disastimeter
@@ -17024,6 +17023,7 @@ dalmania
 dressage
 dirtiness
 dressed
+decreement
 doorlike
 dresses
 dressy
