@@ -3651,7 +3651,6 @@ carbodynamite
 carbohemoglobin
 carbohydrase
 carbohydrate
-carbohydrates
 carbohydraturia
 carbohydrazide
 carbohydride
@@ -28976,6 +28975,7 @@ crusile
 cribbling
 choyaroot
 cribellum
+carbohydrates
 crible
 chrysomyia
 cribo
