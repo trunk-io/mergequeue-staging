@@ -12696,7 +12696,6 @@ banqueteering
 boominess
 besetters
 booming
-boomless
 boomlet
 boomlets
 boomslang
@@ -17498,6 +17497,7 @@ burbler
 burblers
 burbly
 bacitracin
+boomless
 baboo
 birdseed
 burbliest
