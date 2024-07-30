@@ -2513,6 +2513,7 @@ electrons
 epipubic
 electronvolt
 electrooptic
+encysts
 electrooptical
 electrooptically
 emotivity
@@ -4717,7 +4718,6 @@ enduement
 encystments
 ericaceous
 evanescenrly
-encysts
 encl
 etherol
 enclasp
