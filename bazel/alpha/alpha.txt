@@ -2387,7 +2387,6 @@ achromotrichia
 achromous
 achronychous
 achronism
-achroodextrin
 aptyalia
 astrakhan
 achroodextrinase
@@ -10607,6 +10606,7 @@ asporulate
 aminities
 aminization
 adulterateness
+achroodextrin
 aminoacetal
 aminoacetanilide
 aphenoscope
