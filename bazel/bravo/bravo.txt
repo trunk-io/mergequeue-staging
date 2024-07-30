@@ -6336,7 +6336,6 @@ benzenes
 benzenyl
 bimotor
 bhagavata
-benzenoid
 billsticking
 benzidine
 benzidino
@@ -14120,6 +14119,7 @@ brachylogy
 biunity
 bradylalia
 briar
+benzenoid
 bloodstones
 badgemen
 bound
