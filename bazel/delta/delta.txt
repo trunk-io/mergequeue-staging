@@ -6278,7 +6278,6 @@ disbarment
 dermamyiasis
 dashplate
 dermanaplasty
-dermapostasis
 dermaptera
 dermas
 downlinked
@@ -10081,6 +10080,7 @@ dimission
 dedifferentiated
 dimissory
 dimity
+dermapostasis
 dimities
 deltoideus
 dimitry
