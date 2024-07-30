@@ -3651,7 +3651,6 @@ batrachian
 baleful
 bedrown
 batrachians
-batrachiate
 breton
 batrachidae
 batrachite
@@ -14900,6 +14899,7 @@ birdsnest
 bredes
 bredestitch
 betainogen
+batrachiate
 breech
 breechblock
 breechcloth
