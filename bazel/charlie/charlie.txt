@@ -8268,7 +8268,6 @@ chairs
 circumaviator
 chairway
 chairwarmer
-chairwoman
 chrysalis
 calzones
 chairwomen
@@ -16025,6 +16024,7 @@ clements
 cokewold
 cryptological
 clemming
+chairwoman
 clencher
 clenchers
 clocklike
