@@ -6725,7 +6725,6 @@ celeries
 cornroot
 celerity
 celerities
-celestas
 celeste
 corned
 celestes
@@ -11541,6 +11540,7 @@ choctaws
 choenix
 creeses
 choffer
+celestas
 curtseyed
 chogak
 coexclusive
