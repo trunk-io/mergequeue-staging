@@ -5053,7 +5053,6 @@ aeroliths
 aerolitic
 anole
 astre
-aerology
 aerological
 antisemitic
 aerologies
@@ -5278,6 +5277,7 @@ affair
 affaire
 affaite
 affect
+aerology
 affectability
 affectable
 affectate
