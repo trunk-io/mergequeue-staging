@@ -11541,6 +11541,7 @@ boardlike
 boardman
 boardroom
 belibeling
+bordels
 blubberers
 blackfellows
 balsamation
@@ -12887,7 +12888,6 @@ bordel
 bordelaise
 bordello
 bordellos
-bordels
 border
 bo
 bordereau
