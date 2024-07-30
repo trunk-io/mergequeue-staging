@@ -2338,7 +2338,6 @@ electrochemical
 electrochemist
 electrochronograph
 electrochronometer
-enterochromaffin
 electrochronometric
 electrocontractility
 electroconvulsive
@@ -13023,6 +13022,7 @@ expediter
 expediters
 euxenite
 expedites
+enterochromaffin
 expediting
 expedition
 expeditionary
