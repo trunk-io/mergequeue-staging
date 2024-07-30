@@ -7118,7 +7118,6 @@ centigrade
 centigrado
 centigram
 centigramme
-confluences
 centigrams
 cajaput
 centile
@@ -18160,6 +18159,7 @@ coenoblastic
 coenocytic
 cotehardie
 cardigan
+confluences
 coenoecic
 cerealose
 coenogenesis
