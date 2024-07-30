@@ -5001,7 +5001,6 @@ bionomies
 befall
 bedpad
 balanism
-befalls
 befinger
 befame
 bruyere
@@ -5039,6 +5038,7 @@ befit
 befitted
 bing
 bodrage
+befalls
 befitting
 befittingly
 blooming
