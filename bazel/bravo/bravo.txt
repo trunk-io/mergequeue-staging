@@ -11509,7 +11509,6 @@ biscuit
 bifold
 bnf
 berylline
-boa
 boaedon
 boagane
 boanergean
@@ -16542,6 +16541,7 @@ buckaroos
 buckass
 buckberry
 buckboards
+boa
 buckbrush
 bergamasche
 bushless
