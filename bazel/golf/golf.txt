@@ -152,7 +152,6 @@ gundelow
 glump
 goatskin
 gibbosity
-gaels
 gaen
 gymnasisia
 gaertnerian
@@ -239,6 +238,7 @@ ghoul
 gainlier
 gramashes
 geysers
+gaels
 gainliest
 gainpain
 granolithic
