@@ -2335,7 +2335,6 @@ fingerers
 folks
 fodders
 frontes
-folkvang
 fregit
 faints
 fumagine
@@ -3026,6 +3025,7 @@ fibrocrystalline
 fibroferrite
 folates
 ferrous
+folkvang
 fibroglioma
 frying
 flustroid
