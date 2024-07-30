@@ -5489,7 +5489,6 @@ diggers
 denudatory
 denude
 disaffiliating
-denuder
 denudes
 denuding
 denumerability
@@ -18400,6 +18399,7 @@ duplicitously
 deflexionize
 duplify
 duplification
+denuder
 dared
 duplified
 duplifying
