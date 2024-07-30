@@ -6395,6 +6395,7 @@ evelong
 electroplaque
 ensigncies
 ensignry
+empyreumata
 ensigns
 ensilaged
 exportation
@@ -9189,7 +9190,6 @@ enterocyst
 erythrosin
 eyess
 erythrosine
-empyreumata
 erythrosinophile
 eugenics
 eparch
