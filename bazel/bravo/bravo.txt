@@ -198,7 +198,6 @@ behymn
 baccalaureat
 beachmaster
 baccalaureate
-breathe
 baccalaureates
 bobachee
 baccalaureus
@@ -14747,6 +14746,7 @@ breadness
 breadnut
 breadnuts
 breadseller
+breathe
 borderies
 brusque
 breadstitch

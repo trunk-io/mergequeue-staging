@@ -344,6 +344,7 @@ electrodesiccate
 endothelia
 exmeridian
 ebdomade
+exhumes
 eradiate
 elasmosaurus
 encrusts
@@ -6674,7 +6675,6 @@ enterostomies
 enterotome
 enterotomy
 emetics
-exhumes
 enterotoxication
 essence
 enterotoxin
