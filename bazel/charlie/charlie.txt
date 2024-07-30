@@ -5343,6 +5343,7 @@ castling
 castoff
 castoffs
 castor
+chapelize
 castores
 castoreum
 cookshack
@@ -8840,7 +8841,6 @@ chapelet
 chapelgoer
 chapelgoing
 chapeling
-chapelize
 chapellany
 chapelled
 chapelling
