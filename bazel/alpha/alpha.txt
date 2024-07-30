@@ -1212,7 +1212,6 @@ aburst
 aburton
 approachableness
 abusage
-abuse
 abused
 abusedly
 acrita
@@ -21258,6 +21257,7 @@ asymtotic
 asymtotically
 asynapsis
 async
+abuse
 acinose
 asynchronism
 asynchronisms
