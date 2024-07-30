@@ -4218,7 +4218,6 @@ admonitrix
 admortization
 anointers
 admov
-admrx
 absolutest
 adnascence
 adnascent
@@ -6276,6 +6275,7 @@ associative
 acrimonious
 anankastic
 aglycosuric
+admrx
 aglypha
 aristocratical
 ahousaht
