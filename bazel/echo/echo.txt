@@ -4322,7 +4322,6 @@ enactable
 enacted
 etatist
 epiphysitis
-epithelioglandular
 electrotaxis
 effectualize
 enactments
@@ -6908,6 +6907,7 @@ entoprocta
 exsectile
 entopterygoid
 entoptically
+epithelioglandular
 entoptics
 eschatology
 entoptoscope
