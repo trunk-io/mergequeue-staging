@@ -6592,7 +6592,6 @@ gobline
 goblinry
 glossotomies
 goblins
-gobmouthed
 gobo
 genitocrural
 gortonite
@@ -9322,6 +9321,7 @@ geomys
 guernsey
 glandulation
 gametal
+gobmouthed
 gnathostomatous
 gulps
 groovelike
