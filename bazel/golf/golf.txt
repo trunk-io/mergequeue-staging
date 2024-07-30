@@ -2033,6 +2033,7 @@ gave
 glaciologist
 geographer
 gilia
+grenade
 gluon
 gaveler
 glutinose
@@ -10251,7 +10252,6 @@ gestural
 gribble
 gardencraft
 geologic
-grenade
 gangrel
 gastroptosis
 giddap
