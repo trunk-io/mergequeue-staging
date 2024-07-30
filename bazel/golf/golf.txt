@@ -4766,7 +4766,6 @@ girasol
 girasoles
 gyrate
 gyrates
-gutturals
 gastroenteroptosis
 gyrating
 gyrational
@@ -7276,6 +7275,7 @@ gobelin
 gorgoniaceous
 gorgonian
 graniform
+gutturals
 gonyoncus
 gadgetries
 gorgonin
