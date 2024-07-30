@@ -7480,7 +7480,6 @@ favella
 function
 floatplane
 forebooms
-forebowels
 famular
 ferried
 featherer
@@ -10531,6 +10530,7 @@ frenchwomen
 frower
 fruitlets
 frowned
+forebowels
 fainaiguer
 footpads
 fissure
