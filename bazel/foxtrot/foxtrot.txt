@@ -466,7 +466,6 @@ fatlings
 flaxman
 fireboy
 fishlines
-fosterling
 falcade
 falcata
 foliating
@@ -7459,6 +7458,7 @@ fishwives
 folia
 feignedness
 fayal
+fosterling
 fullface
 feezes
 forebodement
