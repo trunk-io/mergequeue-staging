@@ -5700,7 +5700,6 @@ dephlegmate
 diplodia
 dephlegmatize
 dephlegmator
-dephlegmatory
 dephlogisticate
 dephlogisticated
 depickle
@@ -16828,6 +16827,7 @@ deoxygenated
 drawbores
 drawbridges
 drawcut
+dephlegmatory
 decence
 dolichostylous
 drawdowns
