@@ -4385,7 +4385,6 @@ byname
 beckoner
 beckoners
 beckoning
-backstair
 beclamor
 bringer
 bicyclical
@@ -9267,6 +9266,7 @@ bipenniform
 bowdichia
 biperforate
 biphase
+backstair
 biphasic
 biphenylene
 biphenol
