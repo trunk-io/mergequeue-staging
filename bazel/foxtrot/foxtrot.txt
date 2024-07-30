@@ -2381,6 +2381,7 @@ furnitures
 foreign
 featy
 fermate
+franchisement
 fictioner
 fleshed
 fermatian
@@ -4721,7 +4722,6 @@ flagleaf
 filesniff
 forechurch
 flaglike
-franchisement
 flagmen
 firy
 furcule
