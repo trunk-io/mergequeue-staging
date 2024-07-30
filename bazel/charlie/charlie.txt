@@ -18331,7 +18331,6 @@ coffinless
 consoled
 coffinmaker
 coffled
-coffles
 coffling
 coffret
 coffrets
@@ -19082,6 +19081,7 @@ collects
 colleens
 college
 colleger
+coffles
 congregationalists
 colleges
 ciruela
