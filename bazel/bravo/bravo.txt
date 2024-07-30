@@ -949,7 +949,6 @@ bedrenching
 bagirmi
 bagle
 baglike
-bagmaker
 bagne
 bagnet
 bestirred
@@ -1774,6 +1773,7 @@ balr
 bals
 bakalai
 batching
+bagmaker
 brachycephalism
 balsamaceous
 balloters
