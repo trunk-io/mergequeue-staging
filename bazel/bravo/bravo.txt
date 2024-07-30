@@ -2160,7 +2160,6 @@ battercake
 bankweed
 banlieue
 bannack
-bannat
 banned
 banner
 buckteeth
@@ -17738,6 +17737,7 @@ bolometer
 burlesks
 burlesquely
 burlesques
+bannat
 burlesquing
 bedsides
 brachypyramid
