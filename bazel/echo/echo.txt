@@ -7651,6 +7651,7 @@ epicotyl
 egurgitate
 epicotyleal
 epicotyledonary
+extractable
 elaphomyces
 epicrises
 epicrisis
@@ -12294,7 +12295,6 @@ executiveship
 earthfast
 enfect
 executor
-extractable
 executory
 evincingly
 effervescible
