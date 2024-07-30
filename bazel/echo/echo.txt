@@ -3897,6 +3897,7 @@ emigrationist
 evocation
 emigrator
 embryographer
+ephemeron
 emigre
 emigres
 emil
@@ -9535,7 +9536,6 @@ eat
 escheatage
 electromotion
 escheated
-ephemeron
 escheating
 escheator
 escheatorship
