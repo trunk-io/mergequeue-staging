@@ -4364,7 +4364,6 @@ fz
 fisk
 flamelet
 firmware
-fisnoga
 fissate
 frostbiting
 fruitester
@@ -5490,6 +5489,7 @@ fibrilations
 fetology
 frounced
 flight
+fisnoga
 frenching
 fanmaker
 felloes
