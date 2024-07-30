@@ -480,6 +480,7 @@ glossiest
 garterless
 galingale
 girderless
+globs
 gavyuti
 grumpiness
 galiongee
@@ -8428,7 +8429,6 @@ gconv
 greyfish
 guitermanite
 gynecocracies
-globs
 graustark
 grata
 grav
