@@ -5012,7 +5012,6 @@ colluvies
 cascades
 cascadian
 cascadite
-castable
 cascalote
 cruelhearted
 comatic
@@ -8971,6 +8970,7 @@ characterless
 characterlessness
 countlessness
 clyers
+castable
 characterology
 characterological
 characterologically
