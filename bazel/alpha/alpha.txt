@@ -9843,7 +9843,6 @@ armlock
 acridinium
 amasesis
 amassable
-amasser
 accordionists
 abyssal
 accreditation
@@ -18407,6 +18406,7 @@ araneids
 araneiformes
 alcarraza
 aranein
+amasser
 araneina
 araneology
 araneologist
