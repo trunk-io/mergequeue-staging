@@ -13046,6 +13046,7 @@ brodiaea
 borrowers
 borrows
 borsch
+beholder
 bussed
 borsches
 beshame
@@ -15594,7 +15595,6 @@ broadgage
 badgerly
 broadhead
 broadhorn
-beholder
 broadish
 broadleaf
 broadleaves
