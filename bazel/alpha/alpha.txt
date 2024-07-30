@@ -6425,7 +6425,6 @@ analemmatic
 anapests
 androphobia
 attractors
-abruptedly
 agral
 administrators
 agramed
@@ -10186,6 +10185,7 @@ appel
 ambusher
 acetaldehydase
 ambushers
+abruptedly
 autotomize
 arcuate
 amdahl
