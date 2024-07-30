@@ -1891,6 +1891,7 @@ banal
 banality
 basketmaking
 banalities
+burrer
 banana
 basuto
 barley
@@ -17813,7 +17814,6 @@ burrbark
 bribetaker
 burree
 burrel
-burrer
 burrgrailer
 biodegrade
 burrhead
