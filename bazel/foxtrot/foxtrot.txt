@@ -14,7 +14,6 @@ fabianist
 fold
 fableland
 fablemaker
-fablemongering
 fablers
 fabricable
 feeblemindedly
@@ -2445,6 +2444,7 @@ fusiform
 fernseed
 fibratus
 foundery
+fablemongering
 faucalize
 faded
 fernticle
