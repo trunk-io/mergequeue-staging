@@ -1113,7 +1113,6 @@ gateless
 gooseweed
 garnets
 gyrocompass
-gangplanks
 gulpier
 gelatia
 gangplow
@@ -8599,6 +8598,7 @@ gimbawawed
 grazings
 glucoside
 gullion
+gangplanks
 grazioso
 gammers
 glasser
