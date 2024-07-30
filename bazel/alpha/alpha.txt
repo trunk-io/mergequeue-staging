@@ -6065,7 +6065,6 @@ agglutinins
 agglutinize
 agglutinogen
 aphorismical
-actless
 arrearages
 agglutinogenic
 an
@@ -9107,6 +9106,7 @@ abranchiate
 amusers
 arsenium
 almes
+actless
 agade
 antiparallelogram
 azolla
