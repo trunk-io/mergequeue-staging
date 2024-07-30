@@ -6470,7 +6470,6 @@ desmotropism
 dovecot
 drumlier
 dixit
-derotremata
 derout
 derri
 derrick
@@ -11264,6 +11263,7 @@ disbelieve
 disbeliever
 disbelievers
 dazingly
+derotremata
 defectuous
 disbelieves
 disbenched
