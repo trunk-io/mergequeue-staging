@@ -3036,7 +3036,6 @@ capuchin
 capernaitic
 castilian
 capernaitically
-cmd
 capernoity
 capernoitie
 capernutie
@@ -22411,6 +22410,7 @@ cardings
 congregativeness
 congreso
 choledochorrhaphy
+cmd
 congress
 clearstory
 congressed
