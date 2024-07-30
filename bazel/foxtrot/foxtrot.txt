@@ -42,6 +42,7 @@ fabulosity
 fabulous
 facade
 facaded
+footlight
 facebow
 facebread
 farms
@@ -9059,7 +9060,6 @@ frostbird
 forrit
 fowlery
 foreplay
-footlight
 frogman
 fowlers
 forebless
