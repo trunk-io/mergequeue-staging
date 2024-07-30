@@ -4741,7 +4741,6 @@ carriers
 carries
 carrying
 carryings
-cardiometric
 carriole
 carrion
 carryon
@@ -24889,6 +24888,7 @@ copulates
 commandeers
 copulating
 copulative
+cardiometric
 copulatively
 conquian
 copunctal
