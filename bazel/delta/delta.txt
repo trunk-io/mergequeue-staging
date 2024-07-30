@@ -8488,7 +8488,6 @@ dialonian
 dials
 dialup
 dialuric
-dural
 diam
 diamagnet
 ddname
@@ -17964,6 +17963,7 @@ duffers
 duffy
 dammaret
 duffle
+dural
 divans
 dufoil
 dufter
