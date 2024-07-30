@@ -3042,7 +3042,6 @@ evinced
 elliptical
 ellipticalness
 ellipticity
-elliptograph
 elliptoid
 epicyte
 eutaxitic
@@ -7313,6 +7312,7 @@ engird
 evangelise
 epacridaceae
 epacris
+elliptograph
 epact
 epaenetic
 epagogic
