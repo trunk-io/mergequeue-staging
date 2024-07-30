@@ -1936,7 +1936,6 @@ banded
 bandel
 bandelette
 beanies
-bander
 banderlog
 blamability
 bolsons
@@ -16766,6 +16765,7 @@ brierberry
 buffont
 blastoidea
 blattoidea
+bander
 breakwind
 berme
 bicostate
