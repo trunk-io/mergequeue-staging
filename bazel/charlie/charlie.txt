@@ -3375,7 +3375,6 @@ captan
 captance
 captandum
 captans
-captation
 caption
 captioned
 captionless
@@ -10061,6 +10060,7 @@ chenet
 cylinderlike
 chenfish
 cheng
+captation
 claspt
 chengal
 chenica
