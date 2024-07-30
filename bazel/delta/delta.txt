@@ -7273,7 +7273,6 @@ deterging
 dalradian
 detering
 deteriorate
-deteriorated
 deteriorates
 deteriorating
 demitranslucence
@@ -8827,6 +8826,7 @@ deploring
 diaulos
 diavolo
 diaxon
+deteriorated
 diaxone
 demagnetise
 dendrograph
