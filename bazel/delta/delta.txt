@@ -5317,6 +5317,7 @@ densitometer
 densitometers
 droplight
 densitometric
+drownds
 densus
 dent
 dental
@@ -17478,7 +17479,6 @@ drownd
 diaboleptic
 drownding
 diagnosticians
-drownds
 drowner
 drowning
 demagog
