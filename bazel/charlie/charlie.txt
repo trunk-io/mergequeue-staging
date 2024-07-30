@@ -1168,6 +1168,7 @@ concordal
 courtnoll
 calden
 caldera
+corke
 calderas
 calderium
 caldron
@@ -25446,7 +25447,6 @@ cornfloor
 cornflour
 cornflower
 corngrower
-corke
 cornhole
 cornhusk
 cornhusker
