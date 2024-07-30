@@ -2246,6 +2246,7 @@ electary
 estraying
 enthraldom
 electioneer
+expectancy
 electioneered
 elucidated
 electioneerer
@@ -12943,7 +12944,6 @@ euryprosopic
 expectable
 extraphysiological
 expectably
-expectancy
 epiphragm
 expectancies
 enterprises
