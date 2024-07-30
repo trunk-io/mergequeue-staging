@@ -6543,6 +6543,7 @@ diabolarch
 desc
 descale
 descaling
+disulfiram
 descamisado
 deranged
 descanted
@@ -14115,7 +14116,6 @@ dillweed
 disorderedly
 disulfide
 disanimate
-disulfiram
 decolletage
 disulfoxid
 dames
