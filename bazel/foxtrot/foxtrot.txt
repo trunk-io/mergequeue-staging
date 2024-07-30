@@ -4242,6 +4242,7 @@ firstness
 firsts
 freezers
 flanched
+fanned
 fusilier
 firths
 fathomless
@@ -7119,7 +7120,6 @@ footless
 flacherie
 forewish
 footlights
-fanned
 falcial
 fraidycat
 footlock
