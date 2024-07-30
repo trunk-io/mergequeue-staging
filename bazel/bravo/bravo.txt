@@ -4385,7 +4385,6 @@ bigential
 bedimpling
 byname
 beckoner
-bearded
 beckoners
 beckoning
 backstair
@@ -11190,6 +11189,7 @@ bonesets
 blousier
 blame
 blousing
+bearded
 balistes
 bespread
 buckland
