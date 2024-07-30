@@ -7752,7 +7752,6 @@ foremention
 foremilk
 foremilks
 foremind
-farse
 foremother
 felicific
 fissiparously
@@ -8555,6 +8554,7 @@ forsar
 fardh
 frequence
 forsee
+farse
 forseeable
 fistuca
 forseen
