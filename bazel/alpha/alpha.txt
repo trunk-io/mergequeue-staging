@@ -5979,7 +5979,6 @@ agend
 agendaless
 agendum
 appealable
-agene
 agenes
 ageneses
 agenesia
@@ -16266,6 +16265,7 @@ antispadix
 antispasis
 antispastic
 antispectroscopic
+agene
 antispeculation
 antispiritual
 antispiritualistic
