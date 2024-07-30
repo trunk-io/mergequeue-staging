@@ -1852,6 +1852,7 @@ gambesons
 gastrotome
 guinfo
 globosities
+ghoulish
 gastrotomy
 gierfalcon
 gardevin
@@ -3931,7 +3932,6 @@ ghostwrote
 granitizing
 ghoulery
 gynecopathy
-ghoulish
 gins
 ghoulishly
 ghoulishness

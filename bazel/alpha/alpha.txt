@@ -20243,6 +20243,7 @@ arrentation
 asymmetrocarpous
 arreption
 arrest
+activable
 arrestable
 arrestant
 arval
@@ -23078,7 +23079,6 @@ attercop
 alstonine
 attery
 atterminal
-activable
 agency
 additivity
 attermined
