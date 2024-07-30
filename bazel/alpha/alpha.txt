@@ -5003,6 +5003,7 @@ aerodontia
 archinformer
 aerodrome
 aerodromes
+anesis
 albricias
 alimentative
 aeroduct
@@ -12615,7 +12616,6 @@ anthelminthic
 aneroidograph
 ansation
 anes
-anesis
 aceituna
 anesone
 anesthesiant
