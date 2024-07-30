@@ -3145,7 +3145,6 @@ genitive
 geologian
 gasification
 gletscher
-geological
 germinant
 googly
 geologician
@@ -8707,6 +8706,7 @@ greengrocery
 galvanizing
 greengrocers
 gametogony
+geological
 gladiatorism
 gibier
 greybeard
