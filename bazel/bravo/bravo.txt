@@ -2344,7 +2344,6 @@ barbarisms
 barbarities
 biosystematist
 barbarous
-barbarously
 bedsheets
 blondish
 barbascos
@@ -2496,6 +2495,7 @@ baccivorous
 bellyfulls
 bassette
 beeheaded
+barbarously
 bunns
 bazookas
 bardolater
