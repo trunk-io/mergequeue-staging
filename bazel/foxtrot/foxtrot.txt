@@ -7477,7 +7477,6 @@ function
 floatplane
 forebooms
 famular
-ferried
 featherer
 forebowline
 forebrace
@@ -10733,6 +10732,7 @@ fatalist
 ferules
 favorer
 fogram
+ferried
 frutex
 fingered
 fayalite
