@@ -4448,7 +4448,6 @@ adsorptive
 adsorptively
 artificialize
 aedilian
-adspiration
 adstipulate
 acquisita
 adstipulation
@@ -6917,6 +6916,7 @@ airframe
 airframes
 airfreight
 airglow
+adspiration
 acondylous
 airgraph
 airgraphics
