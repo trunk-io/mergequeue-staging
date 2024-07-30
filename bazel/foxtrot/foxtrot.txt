@@ -10714,7 +10714,6 @@ flews
 fletchers
 fractiously
 flinthearted
-frustulum
 frustum
 frondivorous
 frustums
@@ -10925,6 +10924,7 @@ fulmen
 fluorocarbon
 fulminancy
 flagonless
+frustulum
 featlier
 fipple
 floridly
