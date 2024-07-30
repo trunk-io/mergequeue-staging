@@ -6081,6 +6081,7 @@ enneahedrons
 encaustes
 expire
 enfranchisement
+estruate
 enneandrian
 enneandrous
 edgeling
@@ -9379,7 +9380,6 @@ erupting
 elementaloid
 ekphore
 eruption
-estruate
 eruptive
 exomion
 escopette
