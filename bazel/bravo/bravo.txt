@@ -6246,6 +6246,7 @@ brilliantness
 benthic
 banchi
 benthon
+brigandism
 bridleman
 benthos
 brigandage
@@ -17447,7 +17448,6 @@ balancing
 breakbones
 buoyantness
 bratticing
-brigandism
 bodybuilder
 buonamani
 brevifoliate
