@@ -1246,7 +1246,6 @@ abvolts
 anim
 abwatt
 anything
-abwatts
 ac
 acacatechin
 albuminimetry
@@ -17785,6 +17784,7 @@ appliedly
 applier
 akroteria
 appliers
+abwatts
 applies
 applying
 applyment
