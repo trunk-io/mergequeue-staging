@@ -17285,7 +17285,6 @@ coalescency
 coalescent
 coalesces
 coalescing
-coalface
 cooees
 coalfishes
 coalfitter
@@ -27163,6 +27162,7 @@ countersank
 counterscarp
 countersconce
 claddings
+coalface
 compacter
 counterscrutiny
 countersecure
