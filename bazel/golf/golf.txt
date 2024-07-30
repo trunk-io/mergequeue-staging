@@ -5649,7 +5649,6 @@ glint
 grinderies
 gipsies
 guatuso
-gata
 grond
 goustie
 gliomatous
@@ -9102,6 +9101,7 @@ griped
 grindery
 gaolering
 grinds
+gata
 goldie
 guiltlessness
 gradings
