@@ -6394,6 +6394,7 @@ evelong
 electroplaque
 ensigncies
 ensignry
+empyreumata
 ensigns
 ensilaged
 expense
@@ -9188,7 +9189,6 @@ enterocyst
 erythrosin
 eyess
 erythrosine
-empyreumata
 erythrosinophile
 eugenics
 eparch
