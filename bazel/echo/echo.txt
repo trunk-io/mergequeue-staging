@@ -3300,7 +3300,6 @@ embalmed
 embalmer
 embalmment
 embank
-embanked
 eozoon
 embanking
 embankment
@@ -3675,6 +3674,7 @@ escortage
 embryologically
 embryomas
 exacinate
+embanked
 endorser
 embryon
 embower
