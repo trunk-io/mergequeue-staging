@@ -2544,6 +2544,7 @@ gastrology
 guilloche
 guardsmen
 gederathite
+grograms
 genal
 genarch
 genarcha
@@ -2781,7 +2782,6 @@ goldbug
 goggan
 granitization
 galliformes
-grograms
 glossorrhaphy
 gobia
 gipsy
