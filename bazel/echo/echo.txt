@@ -4713,7 +4713,6 @@ eriobotrya
 encyrtidae
 encist
 encyst
-electralize
 encysting
 elect
 ephoi
@@ -10710,6 +10709,7 @@ eucosmid
 exacervation
 eucosmidae
 eucrasy
+electralize
 eucrasia
 encheck
 efficaciousness
