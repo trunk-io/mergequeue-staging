@@ -10231,7 +10231,6 @@ grackle
 gaeldom
 gripping
 glucosic
-gyrene
 guiler
 guilery
 guiles
@@ -10744,6 +10743,7 @@ gurnetty
 gamari
 ganomalite
 glassworking
+gyrene
 guttate
 guttated
 glaciarium
