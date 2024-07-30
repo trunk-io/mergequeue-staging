@@ -9985,6 +9985,7 @@ ambicolorate
 ambicoloration
 alodiaries
 ambidexterity
+atropins
 ambidexterities
 ambidexterous
 antineutrons
@@ -22934,7 +22935,6 @@ ashtray
 atropin
 atropines
 atropinization
-atropins
 atropisms
 atropos
 atrosanguineous
