@@ -5301,6 +5301,7 @@ endoskeleton
 endoskeletons
 evangelistarium
 endosmometric
+epimysium
 extraversive
 endosmos
 exsect
@@ -8617,7 +8618,6 @@ escapers
 equestrial
 epacme
 empyreal
-epimysium
 enters
 englishly
 euphonia
