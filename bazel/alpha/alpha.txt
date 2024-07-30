@@ -4757,7 +4757,6 @@ aedes
 aedicula
 aedicule
 aedile
-aediles
 aedileship
 adipyl
 aedilic
@@ -18673,6 +18672,7 @@ agonista
 archangelic
 asymptotically
 archangelica
+aediles
 archangelical
 araliophyllum
 allocinnamic
