@@ -22542,7 +22542,6 @@ conjective
 conjecturably
 conjectural
 conjecturalist
-conjecturality
 conjecturally
 conjectured
 conjecturer
@@ -26696,6 +26695,7 @@ counted
 countenance
 countenanced
 countenancer
+conjecturality
 counter
 counteracted
 counteracter
