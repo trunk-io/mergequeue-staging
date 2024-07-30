@@ -815,7 +815,6 @@ fisty
 footlike
 fraternate
 fablemonger
-fanions
 fourscorth
 footfalls
 fanjet
@@ -10127,6 +10126,7 @@ fighting
 frisca
 friscal
 firmer
+fanions
 fife
 frisch
 fiendlier
