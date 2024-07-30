@@ -1814,7 +1814,6 @@ eatage
 eyeliners
 emarcid
 eyen
-eyeopener
 eyepiece
 epotation
 eyepoint
@@ -3322,6 +3321,7 @@ embargoed
 elevations
 embargoist
 embarkations
+eyeopener
 embarked
 embarking
 embarkment
