@@ -2491,7 +2491,6 @@ declensional
 declensionally
 declensions
 declimatize
-declinable
 declinal
 declinate
 deiparous
@@ -14950,6 +14949,7 @@ datchas
 doeg
 doeglic
 doegling
+declinable
 doer
 doubleganger
 does
