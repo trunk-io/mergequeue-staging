@@ -5110,7 +5110,6 @@ galea
 glacierist
 goalkeepers
 glacify
-glacification
 glacioaqueous
 gangwaymen
 glaciology
@@ -6985,6 +6984,7 @@ gonocheme
 gonochorismal
 giesel
 gehlenite
+glacification
 gayway
 gonocyte
 gonococcal
