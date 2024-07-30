@@ -2158,7 +2158,6 @@ acetol
 anthophyta
 archicleistogamy
 acetometer
-acetometry
 axiomatized
 acetometric
 acetometrical
@@ -12198,6 +12197,7 @@ anchietin
 attitudinizing
 anchylose
 anchylosing
+acetometry
 amphigene
 anchylosis
 anchylotic
