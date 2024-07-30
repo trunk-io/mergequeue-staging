@@ -4685,7 +4685,6 @@ charrette
 carpophyll
 carpophyte
 carpopodite
-carpoptosia
 carfuffle
 carpoptosis
 carport
@@ -21119,6 +21118,7 @@ compulsively
 compulsiveness
 culiciform
 compulsives
+carpoptosia
 calesin
 compulsivity
 compunct
