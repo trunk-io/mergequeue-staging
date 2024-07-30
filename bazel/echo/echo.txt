@@ -2064,7 +2064,6 @@ exfigure
 excludability
 epexegeses
 elaidin
-elain
 epic
 eses
 erica
@@ -10010,6 +10009,7 @@ esthetology
 exaration
 euthymy
 esthiomene
+elain
 enarthrodia
 esthiomenus
 exposit
