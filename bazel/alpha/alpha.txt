@@ -3417,7 +3417,6 @@ affixal
 adamance
 adamances
 adamancies
-atrorubent
 antiprecipitin
 adamant
 adamantean
@@ -17714,6 +17713,7 @@ apalit
 appetency
 appetencies
 appetent
+atrorubent
 appetently
 anthophore
 appetiser
