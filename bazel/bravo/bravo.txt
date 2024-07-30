@@ -4076,7 +4076,6 @@ beardie
 bosporus
 balander
 beardless
-beardlessness
 bullwork
 beardlike
 barkeepers
@@ -8395,6 +8394,7 @@ booth
 bijection
 bijectively
 bijoux
+beardlessness
 bijugous
 bijugular
 brutalitarianism
