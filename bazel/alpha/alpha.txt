@@ -7105,7 +7105,6 @@ antikinase
 akali
 akalimba
 akamai
-akamnik
 arsenophenylglycin
 akanekunik
 anargyroi
@@ -10908,6 +10907,7 @@ aluminothermic
 audibly
 amoebicide
 amoebida
+akamnik
 antireality
 amoebidae
 amoebiform
