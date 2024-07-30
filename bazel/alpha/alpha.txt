@@ -24463,6 +24463,7 @@ autotetraploidy
 autothaumaturgist
 autotherapy
 autothermy
+athwartwise
 autotypes
 autotypy
 aldim
@@ -24508,7 +24509,6 @@ autovalet
 autovalve
 autovivisection
 autoxeny
-athwartwise
 autoxidation
 aberrometer
 autoxidator
