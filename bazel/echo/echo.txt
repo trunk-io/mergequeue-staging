@@ -6621,6 +6621,7 @@ enterons
 enteroparalysis
 efflorescence
 enteroparesis
+extrospect
 enteropathy
 enteropexy
 echinulate
@@ -14077,7 +14078,6 @@ extrorsal
 extrorse
 eryngium
 extrorsely
-extrospect
 extrospection
 extrospective
 exuperable
