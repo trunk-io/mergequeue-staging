@@ -392,7 +392,6 @@ fezzy
 fixers
 fivesome
 fairily
-fairing
 foxery
 fluencies
 fairings
@@ -5636,6 +5635,7 @@ flitchen
 flitchplate
 feverfews
 fashious
+fairing
 flite
 formating
 flyte
