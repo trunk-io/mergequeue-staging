@@ -5669,7 +5669,6 @@ duckeries
 dependency
 dipterological
 dosimeters
-diatrymiformes
 doketic
 dependingly
 depends
@@ -11811,6 +11810,7 @@ discredit
 discreditableness
 discredits
 dogeships
+diatrymiformes
 decorator
 distrainer
 datelining
