@@ -5791,7 +5791,6 @@ anticapital
 afterwitted
 arrondissement
 afterword
-afterwork
 afterworld
 afterwrath
 aftmost
@@ -23679,6 +23678,7 @@ asiaticism
 aurum
 aurums
 aurung
+afterwork
 aurure
 auscultascope
 auscultate
