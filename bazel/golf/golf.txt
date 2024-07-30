@@ -2400,7 +2400,6 @@ goliardeys
 glutei
 gellants
 gluer
-giddap
 gonoblastidium
 girl
 gelly
@@ -10256,6 +10255,7 @@ grenade
 guiltiness
 gangrel
 gastroptosis
+giddap
 goss
 guilts
 goniometer
