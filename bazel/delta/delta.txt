@@ -7381,7 +7381,6 @@ detonize
 detort
 deathtrap
 dextroses
-detour
 detoured
 dits
 detouring
@@ -11763,6 +11762,7 @@ discoach
 digoneutism
 deviators
 dosed
+detour
 drightin
 discourtesy
 disprize
