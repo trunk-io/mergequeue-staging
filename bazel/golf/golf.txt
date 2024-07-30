@@ -131,7 +131,6 @@ gastroscopies
 grenadine
 gastritic
 gaduin
-gadus
 gadwall
 gadwell
 galactohemia
@@ -8031,6 +8030,7 @@ genealogic
 galivanting
 grandstanding
 granduncles
+gadus
 gentlemen
 germanhood
 gravely
