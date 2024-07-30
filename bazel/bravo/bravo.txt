@@ -2532,7 +2532,6 @@ broadcaster
 backbeats
 bareheaded
 bareheadedness
-bareka
 bankrupture
 bareknuckle
 barelegged
@@ -11389,6 +11388,7 @@ blueweed
 blueweeds
 bennis
 bluewing
+bareka
 bluewood
 bookmarks
 bluff
