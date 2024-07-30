@@ -8309,7 +8309,6 @@ alimentation
 apprizer
 alimented
 adumbrate
-alimenter
 alimentic
 aleknight
 asystole
@@ -18606,6 +18605,7 @@ antemetallic
 audiviser
 arccosine
 arced
+alimenter
 arces
 arceuthobium
 anencephaly
