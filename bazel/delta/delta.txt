@@ -435,7 +435,6 @@ dairymaids
 dividends
 dairyman
 dairymen
-dairywoman
 dairywomen
 dayrooms
 dhal
@@ -13879,6 +13878,7 @@ debunking
 distilland
 distillate
 distillates
+dairywoman
 distillations
 draggly
 diachylon
