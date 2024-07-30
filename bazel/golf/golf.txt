@@ -1715,6 +1715,7 @@ gastroduodenostomies
 granophyric
 gastroduodenotomy
 gastroenteric
+glutin
 graceless
 gastroenterocolitis
 gastroenterocolostomy
@@ -8522,7 +8523,6 @@ gravigrada
 gravimeter
 gravimeters
 gravimetry
-glutin
 greesagh
 genesial
 gumtree
