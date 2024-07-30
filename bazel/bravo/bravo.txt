@@ -610,7 +610,6 @@ backstroking
 bu
 backswept
 barbered
-backswing
 bettergates
 bestness
 behav
@@ -815,6 +814,7 @@ badgered
 badgering
 baccarats
 blundersome
+backswing
 branchiata
 badgerlike
 bahisti
