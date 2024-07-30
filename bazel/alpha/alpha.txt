@@ -8784,7 +8784,6 @@ allocations
 autorotation
 allocator
 allocatur
-aoli
 allocheiria
 allochetia
 arrhizal
@@ -16001,6 +16000,7 @@ antiprism
 antiproductively
 antiproductivity
 antiprofiteering
+aoli
 antiprogressive
 antiprostatic
 antiproteolysis
