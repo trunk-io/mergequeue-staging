@@ -7719,7 +7719,6 @@ alcoholometry
 alcoholophilia
 alcohols
 alconde
-antedates
 alcoothionic
 antiproductive
 alcor
@@ -19118,6 +19117,7 @@ archpriesthood
 archcritic
 archprince
 archprophet
+antedates
 archpublican
 antiatoms
 archpuritan
