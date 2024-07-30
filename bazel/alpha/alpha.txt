@@ -7396,7 +7396,6 @@ albatros
 axlike
 abashedly
 albedo
-albedograph
 albedometer
 aviador
 albeit
@@ -20957,6 +20956,7 @@ abrosias
 ascenseur
 ascension
 aleut
+albedograph
 ascensional
 ascensionist
 ascogenous
