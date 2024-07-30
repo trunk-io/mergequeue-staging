@@ -467,7 +467,6 @@ abiogeny
 abiogenist
 abiology
 abiologically
-abiotic
 arthrodirous
 anaphrodisia
 abiotical
@@ -8954,6 +8953,7 @@ allosyndetic
 allosome
 allosteric
 allot
+abiotic
 allotee
 angiport
 allotelluric
