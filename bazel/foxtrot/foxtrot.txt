@@ -1165,7 +1165,6 @@ filix
 fluegelhorn
 frigger
 fascinates
-froufrou
 foreimagine
 focsle
 fibropolypus
@@ -7509,6 +7508,7 @@ fourflusher
 foregame
 fordays
 forechoose
+froufrou
 forepast
 foretooth
 foreclaw
