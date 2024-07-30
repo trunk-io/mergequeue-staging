@@ -2992,7 +2992,6 @@ barrigudos
 broadaxe
 backropes
 babungera
-barrikin
 barriness
 barring
 barrington
@@ -3232,6 +3231,7 @@ basileus
 beambird
 basilian
 basilical
+barrikin
 brandish
 basilicalike
 basilicas
