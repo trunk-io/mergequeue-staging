@@ -4596,7 +4596,6 @@ epiblema
 enchant
 enchanted
 enchanter
-epitrchelia
 extramission
 enchantery
 enchanters
@@ -6847,6 +6846,7 @@ entocoel
 entocoelic
 entocondylar
 epitrophic
+epitrchelia
 embryoid
 electrums
 egestion
