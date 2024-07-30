@@ -12675,7 +12675,6 @@ chromotrope
 chromotropic
 concepts
 chromotropism
-conflagrate
 chrysology
 chromous
 chromule
@@ -16630,6 +16629,7 @@ coresort
 clogging
 cloglike
 clogmaker
+conflagrate
 clogmaking
 clogs
 chroatol
