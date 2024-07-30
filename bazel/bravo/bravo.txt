@@ -3490,6 +3490,7 @@ bateleur
 bouchal
 babelic
 batement
+became
 bater
 bates
 batfishes
@@ -12163,7 +12164,6 @@ barbules
 bolshevikian
 baaskaap
 blurted
-became
 bolshevists
 bolshevize
 bolshevized
