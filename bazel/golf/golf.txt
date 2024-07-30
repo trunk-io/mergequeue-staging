@@ -6172,7 +6172,6 @@ gluconeogenetic
 graped
 grouchy
 goodwilly
-gluconeogenic
 gesning
 glucosazone
 glucose
@@ -6616,6 +6615,7 @@ gastrointestinal
 goff
 generation
 goffered
+gluconeogenic
 gnars
 gisler
 gogga
