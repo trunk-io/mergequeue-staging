@@ -2766,7 +2766,6 @@ encashed
 enerve
 enrank
 eleostearic
-elenchtic
 eclogites
 efficiencies
 eleotrid
@@ -7923,6 +7922,7 @@ epilimnion
 epilithic
 epicortical
 epyllia
+elenchtic
 embarcadero
 excipula
 epilobe
