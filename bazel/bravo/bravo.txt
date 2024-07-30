@@ -845,7 +845,6 @@ badlands
 buba
 bowdlerised
 baalish
-badly
 badling
 badman
 bason
@@ -16165,6 +16164,7 @@ barytes
 bribe
 browning
 browningesque
+badly
 brownish
 brownishness
 brownism
