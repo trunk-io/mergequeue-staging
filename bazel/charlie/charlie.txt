@@ -4306,6 +4306,7 @@ camphoid
 chingma
 caryophylleous
 caryophyllous
+contrafissura
 caryophyllus
 caryopilite
 caryopsides
@@ -23829,7 +23830,6 @@ coharmoniously
 camaka
 contradistinctly
 contradivide
-contrafissura
 contrafissure
 contrafocal
 contragredience
