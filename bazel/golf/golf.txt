@@ -1948,7 +1948,6 @@ garnishing
 gauged
 gauges
 gursh
-gaupus
 genitives
 galenite
 glucoses
@@ -3685,6 +3684,7 @@ gestic
 glistered
 gesticular
 galateas
+gaupus
 gobiidae
 garshuni
 gassiness
