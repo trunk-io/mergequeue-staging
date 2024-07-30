@@ -1106,6 +1106,7 @@ gossipee
 gateway
 gorbal
 governance
+gasps
 glamourie
 gez
 grabs
@@ -8688,7 +8689,6 @@ gleek
 greener
 greenbugs
 gingle
-gasps
 greenbul
 gullah
 gallop
