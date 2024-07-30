@@ -5684,6 +5684,7 @@ flagstone
 fittyways
 flyway
 flashed
+fructidor
 foreperiod
 flyways
 fissicostate
@@ -10567,7 +10568,6 @@ fructescence
 friended
 funicle
 femur
-fructidor
 fimbriating
 fructiferous
 fructiferously
