@@ -5873,7 +5873,6 @@ blackbutt
 beltings
 boblet
 beltir
-biparous
 beltlines
 beltmaker
 beltmaking
@@ -16382,6 +16381,7 @@ brutify
 bulldogged
 brutified
 basigenic
+biparous
 burners
 brutifies
 beggingwise
