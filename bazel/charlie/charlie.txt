@@ -10505,7 +10505,6 @@ centerline
 chiffon
 chiffonade
 chifferobe
-chiffonier
 chiffonnier
 chiffonnieres
 chiffonniers
@@ -26006,6 +26005,7 @@ cerealian
 corvet
 corvets
 corvettes
+chiffonier
 corvidae
 corviform
 colorability
