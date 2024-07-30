@@ -4738,6 +4738,7 @@ encloser
 enclosers
 encloses
 enclosing
+epauletted
 enclosure
 enclosures
 enstatite
@@ -6293,7 +6294,6 @@ eisteddfod
 entoconid
 eriophyes
 entertainer
-epauletted
 enrooted
 escars
 epanorthosis
