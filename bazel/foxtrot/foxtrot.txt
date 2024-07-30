@@ -2812,6 +2812,7 @@ firedrake
 foehns
 feudalistic
 fingerfishes
+flankard
 feudalists
 foredoing
 feudalities
@@ -4876,7 +4877,6 @@ flang
 flanged
 flangers
 flangeway
-flankard
 fluoborate
 flanker
 flankers
