@@ -1312,7 +1312,6 @@ daud
 discontiguous
 dauding
 dagbane
-daudit
 dauerschlaf
 deracinated
 daughter
@@ -12787,6 +12786,7 @@ dismantlement
 dismantles
 duncish
 dismarble
+daudit
 dismark
 dietical
 draggled
