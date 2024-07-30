@@ -19147,7 +19147,6 @@ coscinodiscaceae
 colliculus
 collide
 collided
-collides
 collidin
 collidine
 cenaculum
@@ -25835,6 +25834,7 @@ cancellated
 correctory
 corroborations
 caddish
+collides
 corroborative
 corroboratively
 chrism
