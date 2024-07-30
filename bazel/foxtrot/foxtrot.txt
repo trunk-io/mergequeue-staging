@@ -2301,7 +2301,6 @@ feodality
 foolify
 falafel
 feodaries
-feodatory
 forsakenness
 fauns
 feoffee
@@ -9248,6 +9247,7 @@ farmtown
 fragrancies
 fragrantly
 fragrantness
+feodatory
 fluorinates
 friendliwise
 fickle
