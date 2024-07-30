@@ -1969,7 +1969,6 @@ decades
 draggletailed
 decadi
 decadianome
-diminutive
 dauerlauf
 drysalter
 decadic
@@ -16607,6 +16606,7 @@ dujan
 draftsmen
 draftsperson
 draftswoman
+diminutive
 draftswomanship
 draftwoman
 downshare
