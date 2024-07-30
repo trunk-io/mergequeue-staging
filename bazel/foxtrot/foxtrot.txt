@@ -421,7 +421,6 @@ footslogged
 flagships
 faith
 funnel
-frontispiecing
 faring
 frist
 faithbreach
@@ -7352,6 +7351,7 @@ fishwife
 focussing
 filibeg
 forceful
+frontispiecing
 forcefully
 fetidness
 forceless
