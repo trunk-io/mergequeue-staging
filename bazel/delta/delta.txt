@@ -6215,7 +6215,6 @@ demoralizer
 derisible
 derision
 diaguite
-doghouse
 dockmaster
 derisive
 derisively
@@ -15929,6 +15928,7 @@ disciplinary
 dosimetrician
 dosimetries
 dosimetrist
+doghouse
 dihydrated
 dosing
 dosinia
