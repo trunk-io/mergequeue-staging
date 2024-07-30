@@ -525,7 +525,6 @@ abjurations
 abjuratory
 anticarnivorous
 anoesis
-abjured
 abjurement
 archisynagogue
 abjurer
@@ -5313,6 +5312,7 @@ affectious
 affective
 affectively
 anfractuous
+abjured
 affector
 affectual
 affectum
