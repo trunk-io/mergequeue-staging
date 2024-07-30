@@ -2135,6 +2135,7 @@ gazes
 gruel
 gulden
 gazetteerage
+governable
 giustamente
 gazetteership
 glike
@@ -7199,7 +7200,6 @@ gorals
 glazes
 gentiopicrin
 gemmiest
-governable
 glooming
 guacos
 gorbellies
