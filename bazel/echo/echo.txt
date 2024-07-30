@@ -9524,7 +9524,6 @@ endosmometer
 eschara
 embira
 extraovate
-escharoid
 escharotic
 electability
 eschars
@@ -13354,6 +13353,7 @@ expression
 epitomate
 expressionable
 expressional
+escharoid
 expressionist
 expressionistic
 expressionistically
