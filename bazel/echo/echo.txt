@@ -8200,7 +8200,6 @@ exanimate
 episiostenosis
 entoiling
 endark
-episiotomy
 episiotomies
 episkeletal
 episodes
@@ -11013,6 +11012,7 @@ embolemia
 excessmen
 euphonous
 euphorbiaceous
+episiotomy
 escalating
 euphorbial
 euphorbine
