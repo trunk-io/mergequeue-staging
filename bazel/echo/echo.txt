@@ -1723,7 +1723,6 @@ eidolon
 echelons
 ethnomusicologically
 eidoptometry
-envelopments
 eidouranion
 eye
 eleventh
@@ -11213,6 +11212,7 @@ epidendric
 ethologist
 eusuchian
 eutaenia
+envelopments
 eutannin
 eutaxy
 exocannibalism
