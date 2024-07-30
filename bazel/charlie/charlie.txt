@@ -6115,7 +6115,6 @@ charabancs
 caducous
 catstitch
 catstitcher
-cattabu
 cattail
 cattails
 completest
@@ -22578,6 +22577,7 @@ conjugality
 conjugant
 coevolving
 conjugata
+cattabu
 conjugatae
 conjugate
 conjugated
