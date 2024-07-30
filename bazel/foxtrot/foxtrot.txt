@@ -4349,6 +4349,7 @@ fishspear
 flumes
 fasted
 foreseers
+fulmars
 fitten
 forerunnership
 fishways
@@ -10916,7 +10917,6 @@ fullwords
 forking
 fourierism
 flecks
-fulmars
 firewarden
 fluphenazine
 fulmarus
