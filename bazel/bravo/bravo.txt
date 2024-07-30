@@ -3425,7 +3425,6 @@ bankbooks
 biggah
 batteners
 bastiment
-bastinaded
 bastinades
 baroi
 brittlestem
@@ -8388,6 +8387,7 @@ booth
 bijection
 bijectively
 bijoux
+bastinaded
 beardlessness
 bijugous
 bijugular
