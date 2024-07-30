@@ -2562,7 +2562,6 @@ brabantine
 billbugs
 bargainer
 bargaining
-beraked
 beeswings
 bargains
 bargainwise
@@ -8461,6 +8460,7 @@ bileve
 bilewhit
 bathtubful
 bilged
+beraked
 bootjack
 boshboks
 bilgier
