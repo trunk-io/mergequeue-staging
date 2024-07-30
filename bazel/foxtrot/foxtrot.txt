@@ -4817,7 +4817,6 @@ flamboyantize
 farcies
 farthest
 flameless
-flamelike
 fellowess
 foelike
 formicidae
@@ -9564,6 +9563,7 @@ fleetful
 forgivable
 freeboot
 fencing
+flamelike
 felsites
 frithborh
 fruitfuller
