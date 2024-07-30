@@ -2637,6 +2637,7 @@ distrain
 decompile
 dacitic
 decompiler
+deblock
 disworth
 deprogrammers
 decomplex
@@ -3934,7 +3935,6 @@ delabialize
 delabialized
 delabializing
 divisi
-deblock
 desperadoes
 delace
 deftness
