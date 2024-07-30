@@ -11048,6 +11048,7 @@ cannelloni
 chiromance
 chiromancy
 chiromancist
+costopulmonary
 chiromant
 chiromantic
 chiromantis
@@ -25624,7 +25625,6 @@ coronofrontal
 coronograph
 coronographic
 coronoid
-costopulmonary
 coronopus
 cassidoine
 coronule
