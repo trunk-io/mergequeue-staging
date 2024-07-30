@@ -2311,6 +2311,7 @@ dependencies
 dechlorination
 disincentive
 dechristianize
+dekarch
 dissociative
 decian
 deciare
@@ -18260,7 +18261,6 @@ dunner
 dunness
 disfrequent
 dunnesses
-dekarch
 dunnest
 diverseness
 docimastical

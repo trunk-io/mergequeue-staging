@@ -5431,7 +5431,6 @@ fruiting
 flybane
 flibbertigibbet
 flibbertigibbety
-flybelt
 furcation
 fissioned
 flybelts
@@ -7930,6 +7929,7 @@ foresightless
 flaglet
 flotorial
 foresign
+flybelt
 foresignify
 flossiest
 foresing
