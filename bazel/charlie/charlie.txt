@@ -11270,7 +11270,6 @@ chlamys
 chlamyses
 chleuh
 chloanthite
-chloasma
 chlor
 chloracetate
 chloraemia
@@ -24273,6 +24272,7 @@ convexed
 convexedly
 convexedness
 convexes
+chloasma
 convexity
 convexities
 convexness
