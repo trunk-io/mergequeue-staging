@@ -5151,6 +5151,7 @@ casitas
 cask
 casket
 casketed
+cenchrus
 casketlike
 clepsine
 casking
@@ -27460,7 +27461,6 @@ courtney
 courtroll
 courtroom
 courts
-cenchrus
 courtship
 courtships
 caltraps
