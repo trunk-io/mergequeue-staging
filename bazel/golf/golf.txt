@@ -233,7 +233,6 @@ glumal
 gainers
 garnetz
 gainfulness
-gainyield
 gaining
 ghoul
 gainlier
@@ -9409,6 +9408,7 @@ gasteralgia
 grotesque
 graftdom
 grotesques
+gainyield
 grotto
 gonangial
 galapago
