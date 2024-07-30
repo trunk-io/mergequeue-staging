@@ -11130,7 +11130,6 @@ chirurgeonly
 chirurgery
 chirurgy
 chirurgic
-chirurgical
 chis
 chisedec
 chiseled
@@ -12889,6 +12888,7 @@ conjuncts
 chumships
 chumulu
 chun
+chirurgical
 chaouia
 carnaptious
 chunam
