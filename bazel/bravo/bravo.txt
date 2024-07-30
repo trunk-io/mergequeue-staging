@@ -8996,7 +8996,6 @@ biomechanics
 bewitches
 biomes
 bactritoid
-biometeorology
 biometer
 bushwhacked
 biometrically
@@ -12986,6 +12985,7 @@ beachmen
 biometries
 borneols
 buccolabial
+biometeorology
 bornyl
 borning
 blennostatic
