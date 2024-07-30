@@ -2046,7 +2046,6 @@ folklorist
 filagrees
 finagling
 fella
-fellable
 full
 felinity
 fiscs
@@ -10111,6 +10110,7 @@ fringilliformes
 fopship
 fleckier
 fringilloid
+fellable
 frypan
 friponerie
 fleshen
