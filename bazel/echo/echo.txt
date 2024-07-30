@@ -346,6 +346,7 @@ ebbs
 ebcasc
 endpoints
 electrodesiccate
+endothelia
 exmeridian
 ebdomade
 eradiate
@@ -11311,7 +11312,6 @@ eyebeams
 entailer
 electrocardiography
 epicrasis
-endothelia
 evanesced
 evanescence
 enclog
