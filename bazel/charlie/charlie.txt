@@ -18001,7 +18001,6 @@ coelar
 coelarium
 coelastraceae
 coelastraceous
-coelastrum
 coelata
 coelder
 coeldership
@@ -19121,6 +19120,7 @@ colleted
 colleter
 colleterial
 colleterium
+coelastrum
 colletes
 colletic
 colletidae
