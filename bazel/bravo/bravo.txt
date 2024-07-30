@@ -2921,7 +2921,6 @@ biflagelate
 barraging
 birdseye
 birthplace
-bowle
 barramunda
 barramundi
 barranco
@@ -6339,6 +6338,7 @@ billsticking
 benzidine
 benzidino
 badgerer
+bowle
 benzidins
 benzil
 benzyl
