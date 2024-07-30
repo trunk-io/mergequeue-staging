@@ -2130,7 +2130,6 @@ banky
 bankings
 bankman
 bickered
-bankmen
 banknote
 bankrider
 bumpier
@@ -3088,6 +3087,7 @@ baseballs
 beshackle
 bore
 backplane
+bankmen
 basinlike
 boodledom
 baseboards
