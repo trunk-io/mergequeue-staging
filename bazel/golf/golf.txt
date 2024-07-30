@@ -320,7 +320,6 @@ galactoid
 gametophyll
 glebes
 galactolipin
-gnomide
 galactometry
 grovellings
 granters
@@ -716,6 +715,7 @@ gibbered
 gar
 gallowsward
 galls
+gnomide
 gallican
 gallstone
 gnatsnapper
