@@ -2189,7 +2189,6 @@ canalatura
 canalboat
 commissionership
 characterstring
-canale
 canaler
 canales
 canalete
@@ -14617,6 +14616,7 @@ coction
 cisalpine
 cisalpinism
 cisandine
+canale
 confidentiary
 cisatlantic
 cisco
