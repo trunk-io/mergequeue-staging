@@ -4799,6 +4799,7 @@ events
 encoronate
 encounterable
 encountered
+eructing
 encouraged
 emoters
 egotism
@@ -5255,7 +5256,6 @@ evolute
 evened
 elater
 equipedal
-eructing
 effervescency
 emboil
 eyeshades
