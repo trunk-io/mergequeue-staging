@@ -3814,7 +3814,6 @@ banteng
 bauxitic
 bavardage
 bavary
-bavarian
 bands
 bavaroy
 bavette
@@ -14910,6 +14909,7 @@ breedy
 boarfish
 betake
 breediness
+bavarian
 buncher
 biquarterly
 breedings
