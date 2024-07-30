@@ -10652,6 +10652,7 @@ blender
 bottleneck
 blenders
 blendes
+buffets
 blends
 buffet
 basketlike
@@ -16324,7 +16325,6 @@ behaviour
 brushlike
 bises
 brushmaking
-buffets
 brushman
 bodyplate
 besiegingly
