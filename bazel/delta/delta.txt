@@ -6813,7 +6813,6 @@ desk
 deskbound
 deskill
 delimit
-disposure
 denoted
 digestive
 deskman
@@ -17827,6 +17826,7 @@ ducklings
 dramatize
 ducklingship
 duckmeat
+disposure
 duckpin
 duckpins
 divelled

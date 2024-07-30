@@ -13322,7 +13322,6 @@ aniselike
 anemoscope
 acrotomous
 abasers
-aniseroot
 anises
 anisette
 anisettes
@@ -21998,6 +21997,7 @@ astakiwi
 astalk
 astare
 acieration
+aniseroot
 astart
 astarte
 astartian
