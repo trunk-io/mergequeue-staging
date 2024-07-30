@@ -12593,7 +12593,6 @@ anality
 anencephalic
 anencephalous
 anencephalus
-anend
 anenergia
 anenst
 ashed
@@ -13956,6 +13955,7 @@ anosognosia
 anosphrasia
 anorak
 apterial
+anend
 anosphresia
 anospinal
 anacephalaeosis
