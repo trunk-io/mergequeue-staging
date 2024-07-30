@@ -6629,7 +6629,6 @@ foaminess
 foamlike
 feods
 foams
-fobbing
 foliary
 ferry
 focalised
@@ -7691,6 +7690,7 @@ flagellator
 fruticant
 fleetness
 fraudulent
+fobbing
 foreinstruct
 flaw
 fac
