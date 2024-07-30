@@ -11775,6 +11775,7 @@ atypy
 analyse
 analysed
 analyser
+armary
 analyses
 abigeat
 analyst
@@ -19915,7 +19916,6 @@ armament
 armamentary
 armamentaria
 armangite
-armary
 allelotropic
 antitrope
 adjusters

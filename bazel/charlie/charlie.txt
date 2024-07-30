@@ -19178,6 +19178,7 @@ collimation
 collimator
 cantilevers
 collimators
+cretinization
 collin
 collinal
 colline
@@ -28907,7 +28908,6 @@ commendation
 cretinic
 cretinism
 cretinistic
-cretinization
 cretinized
 cretinizing
 cretinoid
