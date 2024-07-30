@@ -5143,7 +5143,6 @@ aerostatic
 anthracomartian
 aerostatical
 aphototaxis
-antisepticist
 accelerates
 aerostation
 aerostats
@@ -24041,6 +24040,7 @@ apaestically
 autodepolymerization
 autodermic
 autodestruction
+antisepticist
 axletrees
 analcimes
 autodetector
