@@ -1478,7 +1478,6 @@ bodeful
 balisaurs
 balister
 balistid
-balistidae
 balanopreputial
 balistraria
 baliti
@@ -6658,6 +6657,7 @@ bluffers
 beri
 beribanded
 beriber
+balistidae
 beriberic
 bajochi
 begets
