@@ -399,7 +399,6 @@ egested
 epiperipheral
 endopleura
 excitoglandular
-epididymis
 ecardine
 ecarinate
 entirely
@@ -1206,6 +1205,7 @@ elytrostenosis
 eductions
 eductor
 estuosity
+epididymis
 enterocinetic
 eductors
 epigeous
