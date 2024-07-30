@@ -3172,7 +3172,6 @@ darg
 decorament
 defectology
 defectors
-defects
 defectum
 defeise
 defeit
@@ -15198,6 +15197,7 @@ digitize
 doliolum
 deburse
 desalt
+defects
 dolittle
 dolium
 doll
