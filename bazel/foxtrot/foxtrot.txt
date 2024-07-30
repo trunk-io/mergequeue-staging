@@ -6600,6 +6600,7 @@ flashet
 footcloth
 fullgrownness
 foalfoot
+foresin
 fleing
 frontoauricular
 fought
@@ -7980,7 +7981,6 @@ forestful
 foresty
 forestial
 factorization
-foresin
 feedhead
 fedelini
 foresting
