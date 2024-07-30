@@ -6233,7 +6233,6 @@ cankeredly
 cauliflowers
 cauliform
 cauligenous
-caulinar
 cauline
 caulivorous
 caulk
@@ -6752,6 +6751,7 @@ celibate
 celibates
 celibatic
 celibatist
+caulinar
 celidographer
 celidography
 celiectasia

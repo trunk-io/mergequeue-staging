@@ -5273,6 +5273,7 @@ denotement
 disrupted
 denouements
 diphosphide
+discrete
 downcast
 demipronation
 dyaus
@@ -11838,7 +11839,6 @@ discrepating
 designer
 discrepation
 discrested
-discrete
 discretely
 discreteness
 disharmonizing
