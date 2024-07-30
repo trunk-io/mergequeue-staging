@@ -707,7 +707,6 @@ bajau
 bacterid
 bertholletia
 blowoff
-bacteriemia
 bacteriform
 bacterioagglutinin
 botchier
@@ -15172,6 +15171,7 @@ bangy
 brachydomatic
 bridelope
 bobwhites
+bacteriemia
 bridemaid
 burnettized
 burnut
