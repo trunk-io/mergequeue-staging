@@ -6645,7 +6645,6 @@ efflorescence
 enteroparesis
 extrospect
 enteropathy
-enteropexy
 echinulate
 enteropexia
 epitaxy
@@ -12955,6 +12954,7 @@ endowed
 echinorhinidae
 expecters
 expecting
+enteropexy
 expectingly
 edaphodont
 entamoebiasis
