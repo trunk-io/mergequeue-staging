@@ -3723,7 +3723,6 @@ disbench
 daedalic
 dehydrogenized
 dalar
-dehydrogenizer
 dehydromucic
 dieb
 dehydroretinol
@@ -4300,6 +4299,7 @@ delsartean
 delta
 deltafication
 damozel
+dehydrogenizer
 deltaic
 deltaite
 durationless
