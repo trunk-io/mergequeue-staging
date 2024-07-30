@@ -4453,7 +4453,6 @@ artificialize
 aedilian
 adstipulate
 acquisita
-adstipulation
 adstipulator
 adulterately
 adstrict
@@ -8323,6 +8322,7 @@ alimentum
 alimony
 alimonied
 aglimmer
+adstipulation
 alimonies
 abbate
 alin
