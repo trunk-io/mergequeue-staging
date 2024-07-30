@@ -1215,6 +1215,7 @@ gantlopes
 gruffing
 garoting
 gheraoed
+goatskins
 gantry
 gantryman
 gorebill
@@ -9942,7 +9943,6 @@ gammerel
 guarapo
 gio
 guard
-goatskins
 grande
 guardable
 guardage
