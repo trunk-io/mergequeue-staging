@@ -8103,7 +8103,6 @@ gizzard
 grantable
 granted
 gummaking
-geogenous
 gareth
 grantee
 grantees
@@ -10170,6 +10169,7 @@ gaitt
 guiac
 guiana
 gossamer
+geogenous
 guib
 grasshoppers
 guidance
