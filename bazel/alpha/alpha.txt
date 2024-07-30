@@ -5336,7 +5336,6 @@ affenpinscher
 affenspalte
 acetylcellulose
 affere
-afferent
 affettuoso
 affettuosos
 affy
@@ -8371,6 +8370,7 @@ aliso
 alison
 alisonite
 alisp
+afferent
 amaranth
 anchietea
 alisphenoidal
