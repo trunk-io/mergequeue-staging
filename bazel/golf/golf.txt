@@ -18,7 +18,6 @@ guanin
 galvanolysis
 galanga
 gabber
-gabbers
 gabbier
 gabbled
 gabblement
@@ -5859,6 +5858,7 @@ glockenspiels
 guaranteeship
 gloeosporiose
 gazogene
+gabbers
 getaways
 gladdon
 glogg

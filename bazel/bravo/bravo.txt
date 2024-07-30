@@ -1640,7 +1640,6 @@ ballistocardiogram
 beguiler
 ballistocardiograph
 ballistocardiographic
-bead
 beardedness
 ballium
 ballywack
@@ -8785,6 +8784,7 @@ biparietal
 bindweb
 basirostral
 bindweed
+bead
 bindwith
 bromol
 bioassays
