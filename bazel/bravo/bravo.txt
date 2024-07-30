@@ -1685,7 +1685,6 @@ ballotage
 balloter
 ballotist
 ballottable
-ballottine
 ballpark
 bicondylar
 ballparks
@@ -18147,6 +18146,7 @@ butcheries
 butcherless
 butchers
 biogas
+ballottine
 butenyl
 bebeerus
 battements
