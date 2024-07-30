@@ -899,7 +899,6 @@ cloisters
 caladiums
 calahan
 calais
-calamanco
 cordate
 calamancos
 crum
@@ -22131,6 +22130,7 @@ confirms
 confiscable
 confiscatable
 confiscate
+calamanco
 confiscated
 confiscating
 culverts
