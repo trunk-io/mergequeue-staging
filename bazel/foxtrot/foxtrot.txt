@@ -7008,7 +7008,6 @@ frogspawn
 fontange
 floated
 fontanges
-fonted
 fabrication
 fontful
 fonticulus
@@ -8513,6 +8512,7 @@ fornicatory
 fizzle
 facily
 fornicators
+fonted
 fornicatress
 foxings
 fornicatrix
