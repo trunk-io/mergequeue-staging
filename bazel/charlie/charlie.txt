@@ -3515,7 +3515,6 @@ caramelised
 caramelising
 casual
 caramelize
-clavicymbal
 caramelizes
 caramels
 carancha
@@ -29643,6 +29642,7 @@ croatian
 croc
 cythera
 croceic
+clavicymbal
 crocein
 croceins
 croceous
