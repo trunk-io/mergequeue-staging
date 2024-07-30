@@ -5337,6 +5337,7 @@ cyanus
 castlet
 castleward
 cowpony
+crocodylus
 castlewise
 castration
 castling
@@ -29692,7 +29693,6 @@ coriin
 crocodilus
 capreol
 coadore
-crocodylus
 crocoisite
 crocoite
 crocoites
