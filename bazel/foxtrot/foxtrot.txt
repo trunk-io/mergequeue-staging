@@ -7691,6 +7691,7 @@ fac
 falsifications
 foreiron
 forejudged
+feyness
 foreteller
 forejudging
 fonded
@@ -9444,7 +9445,6 @@ flatiron
 fraticelli
 falloff
 fraticellian
-feyness
 fratry
 fratriage
 fratricelli
