@@ -2695,7 +2695,6 @@ epigraph
 electrepeter
 enlinkment
 elegists
-elegit
 eleidin
 exantlate
 elektra
@@ -6920,6 +6919,7 @@ enjoyableness
 entosphenoid
 entosphere
 ecdysone
+elegit
 excursively
 entosthoblast
 entothorax
