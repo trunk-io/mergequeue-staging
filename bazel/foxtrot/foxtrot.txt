@@ -2810,7 +2810,6 @@ fendy
 firedrake
 foehns
 feudalistic
-feathering
 fingerfishes
 feudalists
 foredoing
@@ -10148,6 +10147,7 @@ friskful
 foo
 forehood
 footstalk
+feathering
 fulgurator
 friskier
 flabbiest
