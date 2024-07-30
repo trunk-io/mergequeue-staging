@@ -673,6 +673,7 @@ gallnuts
 gizzen
 goatsbeard
 grooverhead
+granularity
 galloglass
 greekish
 galloman
@@ -7214,7 +7215,6 @@ grammel
 glazers
 geostrategist
 glonoin
-granularity
 gastrodidymus
 gordioidea
 gaul
