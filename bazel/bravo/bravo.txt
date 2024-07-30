@@ -435,7 +435,6 @@ bebusy
 bushelful
 backhouses
 brindle
-bristler
 bothersomely
 backyards
 bawdyhouses
@@ -13232,6 +13231,7 @@ boteler
 botella
 botels
 boterol
+bristler
 botete
 both
 bother

@@ -1654,7 +1654,6 @@ gargoylism
 gorling
 gastradenitis
 gastraea
-gastral
 gastralgia
 grouselike
 ganglioneuroma
@@ -2374,6 +2373,7 @@ geldant
 gambit
 galvanographic
 gentianin
+gastral
 gamekeeper
 genua
 gynandria
