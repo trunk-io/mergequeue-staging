@@ -4528,7 +4528,6 @@ fierte
 fivepins
 fives
 fatales
-fewness
 fix
 fixt
 fixable
@@ -6006,6 +6005,7 @@ flagmaker
 flosh
 fungosities
 flossa
+fewness
 flosser
 flosses
 flossflower
