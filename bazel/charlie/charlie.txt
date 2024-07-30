@@ -8262,7 +8262,6 @@ chairmans
 conchobor
 chairmanship
 chairmanships
-chairmen
 chairmender
 curricle
 chayroot
@@ -30863,6 +30862,7 @@ cultivates
 cultivating
 cultivation
 cultivations
+chairmen
 cultivative
 cultivator
 cultivators
