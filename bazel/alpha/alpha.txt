@@ -11627,7 +11627,6 @@ adapa
 anaemic
 anaemotropy
 anaerobation
-anaerobe
 anaerobes
 anaerobia
 anaerobian
@@ -13650,6 +13649,7 @@ annot
 abscised
 annotate
 annotater
+anaerobe
 annotates
 annotating
 annotation
