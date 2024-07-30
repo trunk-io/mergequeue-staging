@@ -1825,7 +1825,6 @@ gastropneumonic
 gastropod
 gastropodan
 gastropore
-gondoliers
 gastroptosia
 gastropulmonary
 gastropulmonic
@@ -4490,6 +4489,7 @@ getspace
 gobiesox
 gingiva
 gryllotalpa
+gondoliers
 gilour
 guzmania
 gyneconitis
