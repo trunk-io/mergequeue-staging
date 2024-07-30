@@ -3591,6 +3591,7 @@ embowelment
 endocarpoid
 encephalometer
 embowered
+eosine
 embowering
 embowerment
 embowing
@@ -7287,7 +7288,6 @@ eophyte
 ecorticate
 excisemanship
 eosin
-eosine
 eosines
 elbower
 elusion
