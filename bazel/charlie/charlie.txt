@@ -1977,7 +1977,6 @@ coquettes
 campagna
 campagne
 campagnol
-campagnols
 campagus
 campaign
 campaigning
@@ -17139,6 +17138,7 @@ coachlet
 coachmaker
 cluster
 coachman
+campagnols
 cordially
 cogency
 coachmaster
