@@ -5810,7 +5810,6 @@ floodable
 fluoaluminate
 fique
 flavanthrone
-fondus
 floodboard
 floodcock
 flooded
@@ -6122,6 +6121,7 @@ formalise
 flowe
 flower
 flowerbed
+fondus
 flowerers
 floweret
 filesmith
