@@ -7437,7 +7437,6 @@ ephelcystic
 extraclaustral
 ephemeral
 epigrapher
-enmesh
 ephemerally
 euscaro
 ephemeran
@@ -8959,6 +8958,7 @@ equiprobability
 erysiphaceae
 endogenicity
 ergatomorphic
+enmesh
 ergo
 ergodicity
 ergograph
