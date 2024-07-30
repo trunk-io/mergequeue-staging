@@ -4830,6 +4830,7 @@ behaviourist
 beebees
 buildingless
 beebread
+broadaxes
 beebreads
 baptistries
 bollard
@@ -15564,7 +15565,6 @@ blackballed
 broachers
 broaching
 broadax
-broadaxes
 broadbill
 broadbrim
 burred
