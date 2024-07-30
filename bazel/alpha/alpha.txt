@@ -291,7 +291,6 @@ abdominoposterior
 abdominoscope
 abdominoscopy
 abdominothoracic
-abdominovaginal
 abdominovesical
 abduce
 abduced
@@ -15496,6 +15495,7 @@ antilysin
 anaseismic
 antilysis
 aquilid
+abdominovaginal
 antilytic
 antilitter
 antiliturgy
