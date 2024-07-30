@@ -14336,6 +14336,7 @@ circumconic
 clientage
 circumcrescence
 chordata
+counterround
 circumdate
 circumdenudation
 circumdiction
@@ -27155,7 +27156,6 @@ counterrevolutions
 counterroll
 counterrotating
 calefacient
-counterround
 counterruin
 counters
 countersalient
