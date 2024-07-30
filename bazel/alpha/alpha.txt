@@ -14540,7 +14540,6 @@ anthranyl
 alarge
 anthranilate
 autolyse
-anthranilic
 anthranoyl
 alcazava
 anthranol
@@ -23157,6 +23156,7 @@ attraction
 attractionally
 ancipitous
 attractive
+anthranilic
 attractively
 attractiveness
 abetter
