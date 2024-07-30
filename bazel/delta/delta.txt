@@ -5567,7 +5567,6 @@ dominative
 deoxidise
 djellab
 diffide
-deoxidised
 duotriacontane
 deoxidiser
 deoxidize
@@ -12825,6 +12824,7 @@ dismisser
 daggerlike
 dismisses
 dismissible
+deoxidised
 dismissing
 dismissingly
 dismission
