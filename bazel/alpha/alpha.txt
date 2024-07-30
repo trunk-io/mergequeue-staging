@@ -7067,6 +7067,7 @@ aivers
 aivr
 amphithalmi
 aiwain
+autostethoscope
 aiwan
 aywhere
 aizle
@@ -24438,7 +24439,6 @@ arabinic
 autospray
 autostability
 autostarter
-autostethoscope
 arterioplasty
 autostyly
 autostylic
