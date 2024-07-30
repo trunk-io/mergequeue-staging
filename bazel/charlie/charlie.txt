@@ -20425,7 +20425,6 @@ communicants
 communicate
 communicated
 compliably
-communicating
 conquedle
 communicational
 centaur
@@ -23335,6 +23334,7 @@ constructor
 constructors
 constructs
 construe
+communicating
 construer
 construes
 chatillon
