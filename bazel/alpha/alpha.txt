@@ -14691,7 +14691,6 @@ amniomancy
 anthroposomatology
 autosauria
 anthroposophy
-asgd
 alcyonacea
 anthroposophic
 anthroposophical
@@ -14785,6 +14784,7 @@ antiars
 antiarthritic
 antemingent
 antiascetic
+asgd
 antiasthmatic
 accentuate
 antres
