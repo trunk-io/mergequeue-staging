@@ -7924,7 +7924,6 @@ alethoscope
 animosities
 aletris
 alette
-aleucaemic
 augmentive
 aleucemic
 africa
@@ -20252,6 +20251,7 @@ arrestant
 arval
 arrestation
 arrested
+aleucaemic
 arrestee
 alphonso
 arrestees
