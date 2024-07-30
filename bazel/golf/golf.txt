@@ -908,7 +908,6 @@ gamestress
 gashest
 gametange
 gilds
-gametangium
 gotha
 gametes
 gnotobiotically
@@ -5305,6 +5304,7 @@ gonakie
 gyrencephalate
 glassblower
 global
+gametangium
 guillotined
 glassblowers
 glycyls
