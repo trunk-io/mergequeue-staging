@@ -3445,7 +3445,6 @@ endurer
 emblazer
 elvers
 effervesces
-edifices
 elytrorhagia
 emblazers
 euphoria
@@ -4403,6 +4402,7 @@ endromis
 eggeater
 enantiomeric
 expropriated
+edifices
 enantiomorph
 enantiomorphism
 encopresis
