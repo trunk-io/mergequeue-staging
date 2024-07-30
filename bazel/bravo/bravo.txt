@@ -10022,6 +10022,7 @@ bkbndr
 bkg
 bklr
 bkpr
+bocardo
 backsey
 beheira
 boundlessly
@@ -11688,7 +11689,6 @@ brushoffs
 bocaccio
 bocage
 bocal
-bocardo
 bocasin
 boccale
 boccarella
