@@ -5547,7 +5547,6 @@ expensed
 enfeebler
 enfeebles
 enfelon
-emissivity
 enolize
 experimentarian
 enfeoffment
@@ -9785,6 +9784,7 @@ epitheliolytic
 espieglerie
 exactions
 euryon
+emissivity
 espinal
 espinel
 enrobe
