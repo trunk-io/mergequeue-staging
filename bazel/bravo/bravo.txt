@@ -4394,7 +4394,6 @@ beclasped
 beclatter
 beclaw
 breakables
-brassarts
 becloak
 becloaking
 becloaks
@@ -6893,6 +6892,7 @@ beluchi
 beshivers
 brassed
 bikini
+brassarts
 beshod
 basibracteolate
 bdelloura
