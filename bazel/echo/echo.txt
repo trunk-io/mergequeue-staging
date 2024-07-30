@@ -1787,7 +1787,6 @@ endodynamomorphic
 eyelast
 eikones
 epicenes
-eyeless
 entalent
 epistylis
 equivocate
@@ -5201,6 +5200,7 @@ exorcista
 endoperidium
 etoffe
 endoperitonitis
+eyeless
 exculpative
 epiural
 evendown
