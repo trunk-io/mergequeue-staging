@@ -4755,6 +4755,7 @@ aedeagus
 aedes
 aedicula
 aedicule
+afterdamp
 aedile
 aediles
 aedileship
@@ -5638,7 +5639,6 @@ anana
 arightly
 acrorrheuma
 albuminiform
-afterdamp
 asiphonogama
 afterdated
 afterdeath
