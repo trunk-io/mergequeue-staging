@@ -4137,7 +4137,6 @@ entwines
 externalist
 exothermically
 emplaced
-exacum
 emplacement
 emceed
 electrovalent
@@ -11388,6 +11387,7 @@ evapotranspiration
 evase
 exasperation
 evasion
+exacum
 evasional
 evasions
 evasively
