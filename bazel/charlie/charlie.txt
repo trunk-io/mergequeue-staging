@@ -7149,6 +7149,7 @@ centistoke
 centner
 centners
 cento
+compartmental
 centones
 carbomethoxyl
 centonical
@@ -21264,7 +21265,6 @@ cururo
 cupboards
 contumeliously
 conceiting
-compartmental
 conceitless
 conceits
 conceivableness
