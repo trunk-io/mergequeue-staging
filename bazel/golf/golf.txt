@@ -3545,7 +3545,6 @@ germling
 gelatigenous
 goosebeak
 germproof
-germule
 ghat
 greenslade
 gypsied
@@ -4814,6 +4813,7 @@ grandad
 groundward
 geodesist
 guinness
+germule
 greatheart
 gibers
 grouplet
