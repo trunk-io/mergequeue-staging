@@ -7155,7 +7155,6 @@ displeasance
 damages
 delicti
 desulfuring
-desulfurisation
 driest
 disputation
 desulfuriser
@@ -15795,6 +15794,7 @@ daneflower
 dormilona
 dormin
 dormins
+desulfurisation
 dormouse
 dorn
 dorneck
