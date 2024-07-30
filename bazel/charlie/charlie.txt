@@ -6773,7 +6773,6 @@ celiohysterotomy
 celiolymph
 celiomyalgia
 celiomyomectomy
-celiomyositis
 celioparacentesis
 celiopyosis
 celiorrhea
@@ -12765,6 +12764,7 @@ chronoscopically
 chronoscopv
 chronostichon
 chronothermal
+celiomyositis
 chronothermometer
 chronotropic
 chroococcaceae
