@@ -19954,7 +19954,6 @@ cyclostrophic
 comestibles
 coppersmithing
 comestion
-comet
 cometary
 cometh
 comether
@@ -23116,6 +23115,7 @@ consociative
 cage
 cavern
 consocies
+comet
 consol
 consolableness
 consolably
