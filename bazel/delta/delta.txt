@@ -371,7 +371,6 @@ daylily
 dailiness
 djibbah
 dupable
-daylit
 dolesome
 dayman
 dhunchi
@@ -15592,6 +15591,7 @@ doodad
 dentale
 demising
 diaspora
+daylit
 deactivate
 democracy
 donatistic
