@@ -5288,7 +5288,6 @@ affectibility
 affectible
 affecting
 antigen
-affection
 affectional
 antihemophilic
 adreno
@@ -14315,6 +14314,7 @@ agglutogenic
 anterioyancer
 anteriority
 anterodorsal
+affection
 anteroflexion
 anterofrontal
 avichi
