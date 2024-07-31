@@ -809,6 +809,7 @@ fablemonger
 fourscorth
 footfalls
 fanjet
+flute
 fanjets
 fanleaf
 filter
@@ -11510,7 +11511,6 @@ furthers
 furtive
 formability
 fimbrillose
-flute
 furuncles
 furuncular
 furunculoid
