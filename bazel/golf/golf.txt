@@ -1305,7 +1305,6 @@ gardenhood
 gender
 grenadierly
 gardenia
-graff
 gardenin
 galenist
 gangliest
@@ -6081,6 +6080,7 @@ gallinule
 geography
 glottid
 gigantism
+graff
 glottises
 glottochronology
 gymnemic
