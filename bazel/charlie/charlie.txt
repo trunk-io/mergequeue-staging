@@ -1961,7 +1961,6 @@ camote
 cirmcumferential
 camoudie
 camouflage
-camouflageable
 camouflaged
 camouflager
 camouflagers
@@ -6494,6 +6493,7 @@ cavu
 cavus
 cawed
 coenjoy
+camouflageable
 cawing
 cymes
 cawker
