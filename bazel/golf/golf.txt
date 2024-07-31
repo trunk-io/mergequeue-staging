@@ -2330,6 +2330,7 @@ glucosid
 greekize
 gallivanter
 gel
+grenadin
 gossans
 geladas
 gymnospore
@@ -9872,7 +9873,6 @@ guanidin
 garo
 ghazis
 gyal
-grenadin
 guanylic
 gonothecae
 guanines
