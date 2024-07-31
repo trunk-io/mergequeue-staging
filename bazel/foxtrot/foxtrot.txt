@@ -367,7 +367,6 @@ flares
 finedraw
 fillets
 fucaceous
-fairfieldite
 fairgoing
 fleurettee
 fastigated
@@ -1764,6 +1763,7 @@ featless
 featliest
 forbiddable
 flocculency
+fairfieldite
 fogbow
 featliness
 felucca
