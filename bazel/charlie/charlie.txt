@@ -9774,7 +9774,6 @@ cheiloplasties
 cheilostomata
 cheilostomatous
 chloritic
-cheilotomies
 cheimaphobia
 culturine
 cheimatophobia
@@ -29641,6 +29640,7 @@ cythera
 croceic
 crocein
 cobalticyanides
+cheilotomies
 croceins
 croceous
 croceus
