@@ -4589,7 +4589,6 @@ carpenters
 carpenterworm
 carpentry
 carper
-carpers
 carpet
 carpetbag
 covariables
@@ -7457,6 +7456,7 @@ cephalotomy
 contrate
 cephalotractor
 condemn
+carpers
 cephalotribe
 cephalotus
 cephalous
