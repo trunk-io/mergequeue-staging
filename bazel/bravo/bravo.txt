@@ -1995,7 +1995,6 @@ basaltiform
 bonfire
 borrel
 bandoleer
-bandoleered
 bandolero
 bandolier
 behoved
@@ -10694,6 +10693,7 @@ bleo
 blanchingly
 blephara
 blepharelcosis
+bandoleered
 blepharydatis
 banally
 blepharism
