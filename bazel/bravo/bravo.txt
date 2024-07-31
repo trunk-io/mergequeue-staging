@@ -2532,6 +2532,7 @@ bouw
 barer
 blasthole
 breastheight
+burnies
 bares
 baresark
 baresarks
@@ -16890,7 +16891,6 @@ bulbed
 bulbel
 bulbier
 behaviorism
-burnies
 bulbiferous
 bulbiform
 bulbil
