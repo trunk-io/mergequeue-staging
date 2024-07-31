@@ -3365,6 +3365,7 @@ begroans
 bassetting
 bassi
 bassy
+birdhouses
 bescatter
 backstrap
 blowtorch
@@ -9394,7 +9395,6 @@ birder
 birdfarm
 birdglue
 birdhood
-birdhouses
 birdyback
 birdie
 birdied
