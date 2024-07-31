@@ -503,7 +503,6 @@ dispurvey
 dalis
 dogblow
 dallack
-disalike
 divined
 dallan
 dallas
@@ -4417,6 +4416,7 @@ demarks
 demasculinisation
 demasculinise
 demasculinised
+disalike
 demasculinising
 dermatoma
 demasculinized
