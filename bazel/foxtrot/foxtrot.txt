@@ -812,7 +812,6 @@ fanjet
 flute
 fanjets
 fanleaf
-filter
 foreseize
 feasts
 fanlights
@@ -3111,6 +3110,7 @@ fleshless
 foveolet
 fict
 fasciculite
+filter
 foreloper
 fictileness
 fending
