@@ -3180,6 +3180,7 @@ elusiveness
 elizabeth
 etrogs
 energising
+evang
 electrize
 elute
 estimative
@@ -11332,7 +11333,6 @@ epicrasis
 evanesced
 evanescence
 enclog
-evang
 effervesced
 evangel
 ethnologists
