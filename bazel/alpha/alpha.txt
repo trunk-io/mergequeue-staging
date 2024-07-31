@@ -9656,7 +9656,6 @@ antiwhite
 alveolariform
 alveolate
 agio
-alveolated
 alveolation
 archdolt
 alveole
@@ -11485,6 +11484,7 @@ alyssum
 antisera
 amuze
 armpit
+alveolated
 amvis
 amzel
 attorneys
