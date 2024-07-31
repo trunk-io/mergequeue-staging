@@ -1209,7 +1209,6 @@ fumarates
 floored
 fashioner
 festooned
-flagellosis
 fissiped
 furodiazole
 fashioners
@@ -5406,6 +5405,7 @@ flexitime
 fevertwitch
 flexo
 flexographic
+flagellosis
 forswears
 flexuoseness
 flexura
