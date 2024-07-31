@@ -2465,6 +2465,7 @@ electrolyzed
 elderberries
 electrolyzer
 elbowpiece
+enchaining
 electrology
 electrological
 electrologist
@@ -4581,7 +4582,6 @@ esth
 exhumation
 enchained
 enchainements
-enchaining
 eluvia
 enchainments
 encrinus
