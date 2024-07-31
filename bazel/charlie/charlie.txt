@@ -107,7 +107,6 @@ cabinet
 cabineted
 cabinetmake
 cabinetmaker
-cabinetmakers
 cabinetmaking
 cabinetry
 cabinets
@@ -17136,6 +17135,7 @@ coachbuilder
 coachbuilding
 coachee
 coacher
+cabinetmakers
 coaches
 coachfellow
 coachful
