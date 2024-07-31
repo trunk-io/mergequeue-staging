@@ -2990,7 +2990,6 @@ capacities
 calcicolous
 capanne
 cystolithectomy
-camelopards
 callouses
 claught
 caparisoned
@@ -4770,6 +4769,7 @@ carronade
 civile
 carroon
 carrosserie
+camelopards
 carrot
 carrotage
 carroter
