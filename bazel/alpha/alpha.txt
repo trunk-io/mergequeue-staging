@@ -9137,7 +9137,6 @@ almon
 almonage
 almond
 almondlike
-aposaturn
 arosaguntacook
 allituric
 almonds
@@ -13659,6 +13658,7 @@ annotator
 annotators
 annotine
 annotinous
+aposaturn
 annotto
 announce
 announcers
