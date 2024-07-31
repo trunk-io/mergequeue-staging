@@ -1261,7 +1261,6 @@ antifriction
 acacin
 agena
 acad
-academe
 autographic
 academes
 academia
@@ -13230,6 +13229,7 @@ animals
 appl
 animando
 animastic
+academe
 animastical
 animate
 animated
