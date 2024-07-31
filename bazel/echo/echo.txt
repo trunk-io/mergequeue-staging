@@ -11329,6 +11329,7 @@ enterogram
 entailer
 electrocardiography
 epicrasis
+excitosecretory
 evanesced
 evanescence
 enclog
@@ -12595,7 +12596,6 @@ electrocoating
 enteropneustal
 eupepticism
 europasian
-excitosecretory
 existentialists
 existentialize
 existently
