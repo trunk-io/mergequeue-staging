@@ -8008,7 +8008,6 @@ epineural
 embrute
 epicotyls
 enosises
-entocyst
 epineurial
 epineurium
 ezba
@@ -13126,6 +13125,7 @@ expert
 electively
 expertised
 excretion
+entocyst
 evections
 expertize
 expertized
