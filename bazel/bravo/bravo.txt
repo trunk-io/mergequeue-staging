@@ -4279,7 +4279,6 @@ beblister
 bisecting
 broadcasts
 beagling
-bacteriodiagnosis
 bebloods
 bebloom
 beblot
@@ -8573,6 +8572,7 @@ bimillenial
 becolor
 billiard
 billiardist
+bacteriodiagnosis
 baldicoot
 billiards
 billyboy
