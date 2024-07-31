@@ -2647,6 +2647,7 @@ electrotype
 electrotyper
 electrotypes
 eyebeam
+expositoriness
 expressible
 ephemerons
 electrotypy
@@ -10642,7 +10643,6 @@ encolour
 exciple
 eucaine
 eclaircissement
-expositoriness
 eucalyn
 eucalypteol
 emporia
