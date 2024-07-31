@@ -5605,6 +5605,7 @@ dismount
 departer
 departing
 departition
+drumroll
 department
 drily
 dupedom
@@ -18090,7 +18091,6 @@ dumbhead
 dumbheaded
 defenestrate
 dumby
-drumroll
 dumble
 dumbly
 dumbnesses
