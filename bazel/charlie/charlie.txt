@@ -3440,7 +3440,6 @@ carabiner
 carabineros
 carabines
 carabini
-carabiniere
 ceratophrys
 carabinieri
 carabins
@@ -27982,6 +27981,7 @@ cradlemen
 cradler
 cradles
 chrysarobin
+carabiniere
 cradlesong
 cradlesongs
 cradletime
