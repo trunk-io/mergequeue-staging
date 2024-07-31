@@ -4588,7 +4588,6 @@ bbls
 bipectinate
 bedew
 beturbaned
-badge
 beggarweed
 bewreck
 bedewer
@@ -13737,6 +13736,7 @@ baroclinity
 bowless
 bifrost
 bezzo
+badge
 beatuti
 bowly
 barbotine
