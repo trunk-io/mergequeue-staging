@@ -9875,6 +9875,7 @@ guanidin
 garo
 ghazis
 gyal
+guids
 guanylic
 gonothecae
 guanines
@@ -10202,7 +10203,6 @@ glossed
 gighe
 granivorous
 glooms
-guids
 glycan
 guyer
 gasterozooid
