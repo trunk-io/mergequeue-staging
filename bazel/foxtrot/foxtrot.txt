@@ -4414,7 +4414,6 @@ fissury
 featherbrained
 furs
 festivities
-focimeter
 fermentor
 fist
 fister
@@ -5344,6 +5343,7 @@ flerried
 fleshbrush
 fogydom
 fleshers
+focimeter
 fibrillose
 fleshes
 fleshful

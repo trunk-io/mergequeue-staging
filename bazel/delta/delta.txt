@@ -3685,7 +3685,6 @@ dehydrochlorinate
 dehydrochlorination
 dehydrocorydaline
 dehydrocorticosterone
-dehydroffrozen
 dehydrofreeze
 delis
 dehydrofroze
@@ -6692,6 +6691,7 @@ desiderated
 desiderative
 decultivate
 desiderium
+dehydroffrozen
 desiderta
 desidiose
 desidious
