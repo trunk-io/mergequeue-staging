@@ -5544,7 +5544,6 @@ deossification
 deoxycorticosterone
 dividable
 deoxidate
-deoxidation
 deoxidative
 dibbles
 deoxidator
@@ -15477,6 +15476,7 @@ donat
 donate
 donated
 donates
+deoxidation
 dexterous
 dantology
 diversified
