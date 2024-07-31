@@ -13461,7 +13461,6 @@ cyclops
 cyclopteridae
 cyclopteroid
 cyclorama
-cycloramas
 cyclorrhaphous
 cycloscope
 cyclose
@@ -27531,6 +27530,7 @@ covariant
 contributive
 covariates
 covariation
+cycloramas
 cove
 coved
 covey
