@@ -4529,6 +4529,7 @@ fixate
 foodservices
 fixatifs
 flocs
+forwake
 fixation
 footslogs
 fixative
@@ -8719,7 +8720,6 @@ forvay
 fortunately
 fossils
 fuder
-forwake
 faction
 forbite
 fains
