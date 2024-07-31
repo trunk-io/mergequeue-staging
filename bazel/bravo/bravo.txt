@@ -654,6 +654,7 @@ backwoodsiness
 bequirtle
 background
 backwraps
+boltlike
 burntness
 borofluoride
 blueblaw
@@ -12203,7 +12204,6 @@ bombardman
 beamiest
 bolting
 boltless
-boltlike
 boltmaker
 barandos
 bastion
