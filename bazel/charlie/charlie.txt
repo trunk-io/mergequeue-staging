@@ -4595,7 +4595,6 @@ carpetbeater
 chlorophaeite
 coagulator
 carpeted
-cfh
 cannels
 chlamydospore
 carpeting
@@ -12930,6 +12929,7 @@ churchgoing
 churchgrith
 churchy
 chagga
+cfh
 churchianity
 churchyards
 churchier
