@@ -3087,6 +3087,7 @@ gendarmerie
 glossemes
 graying
 gelts
+glowbird
 gorger
 geomechanics
 geodetics
@@ -6115,7 +6116,6 @@ glouting
 genistein
 gammoner
 glowbard
-glowbird
 glowed
 glower
 glowered
