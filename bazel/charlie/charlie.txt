@@ -4592,7 +4592,6 @@ courageously
 carpetbeater
 chlorophaeite
 coagulator
-carpeted
 cannels
 chlamydospore
 carpeting
@@ -7064,6 +7063,7 @@ center
 centerable
 centerboards
 cevenole
+carpeted
 centered
 centeredly
 centeredness
