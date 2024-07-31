@@ -7353,6 +7353,7 @@ forcepses
 forceput
 fenerate
 forcers
+forecover
 filite
 frimitts
 forchase
@@ -7698,7 +7699,6 @@ fadges
 foreknowledge
 fresne
 foreknown
-forecover
 foreknows
 festoons
 flavescence
