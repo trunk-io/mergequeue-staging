@@ -716,7 +716,6 @@ gastraeas
 gallows
 gibbered
 gar
-gallowsward
 galls
 gnomide
 gallican
@@ -6195,6 +6194,7 @@ glucosine
 gudok
 garniec
 groused
+gallowsward
 gemmological
 galvanometric
 geomagnetist
