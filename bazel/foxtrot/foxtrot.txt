@@ -788,7 +788,6 @@ fangy
 fanging
 fricative
 fangle
-fangless
 fingerparted
 footwalk
 fanglet
@@ -7577,6 +7576,7 @@ foredo
 foredone
 festin
 fidgetiness
+fangless
 flowerful
 foredoom
 finlet
