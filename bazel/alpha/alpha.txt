@@ -23634,7 +23634,6 @@ auripigment
 auripuncture
 auriscalp
 auriscalpia
-antiradiating
 auriscalpium
 auriscopy
 auriscopic
@@ -23958,6 +23957,7 @@ agouti
 autocephalous
 autoceptive
 amorphous
+antiradiating
 autochanger
 autocholecystectomy
 autochrome
