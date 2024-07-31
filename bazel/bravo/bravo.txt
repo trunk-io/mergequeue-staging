@@ -11532,6 +11532,7 @@ boardlike
 boardman
 boardroom
 belibeling
+baseplate
 bordels
 blubberers
 blackfellows
@@ -15014,7 +15015,6 @@ bouchaleen
 brevicaudate
 brevicipitid
 brevicipitidae
-baseplate
 bushiness
 biers
 brevicomis
