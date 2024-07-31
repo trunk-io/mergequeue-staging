@@ -20058,7 +20058,6 @@ commaes
 commaing
 camphorweed
 claim
-commandable
 commandants
 commanded
 clockwork
@@ -27783,6 +27782,7 @@ coxcomby
 coxcombic
 coxcombical
 coxcombicality
+commandable
 coxcombically
 coxcombity
 coxcombries
