@@ -23753,7 +23753,6 @@ compass
 carucage
 choragium
 contr
-contraband
 contrabandage
 contrabandery
 causticiser
@@ -30827,6 +30826,7 @@ culottic
 culpa
 chlamydomonadaceae
 cyanopathic
+contraband
 culpabilis
 culpable
 culpably
