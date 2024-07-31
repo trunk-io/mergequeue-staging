@@ -103,7 +103,6 @@ comp
 cabin
 cabinda
 cabinet
-cabineted
 cabinetmake
 cabinetmaker
 cabinetmaking
@@ -1882,6 +1881,7 @@ camerine
 camerinidae
 colchian
 camerist
+cabineted
 camerlengo
 camerlengos
 camerlingos
