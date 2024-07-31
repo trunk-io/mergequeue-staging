@@ -1940,6 +1940,7 @@ banderole
 banderoled
 banderols
 banders
+begottenness
 billets
 bandfile
 bandfiled
@@ -9393,7 +9394,6 @@ birding
 bracky
 blindless
 bulbochaete
-begottenness
 beachboy
 bibenzyl
 birdland
