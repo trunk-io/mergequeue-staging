@@ -2161,7 +2161,6 @@ glamour
 gazi
 gauzes
 grippelike
-galvanise
 goodlier
 gazing
 gazingstock
@@ -2191,6 +2190,7 @@ granting
 globulitic
 goading
 geometric
+galvanise
 greasebush
 guineas
 gnomons
