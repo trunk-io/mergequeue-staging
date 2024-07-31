@@ -4192,6 +4192,7 @@ cargoose
 cargos
 cargued
 carhop
+counterdemonstrate
 carhops
 carhouse
 cary
@@ -26844,7 +26845,6 @@ counterdecree
 counterdefender
 ceramicite
 counterdemand
-counterdemonstrate
 counterdemonstration
 counterdemonstrator
 counterdevelopment
