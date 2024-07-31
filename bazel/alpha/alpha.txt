@@ -6024,6 +6024,7 @@ agers
 aget
 agete
 acquist
+anchored
 autisms
 ageusia
 ageusic
@@ -12211,7 +12212,6 @@ anchorable
 acroasphyxia
 anchorages
 anchorate
-anchored
 alouatta
 anchorer
 anchoress
