@@ -7402,7 +7402,6 @@ giterne
 gawker
 gossipmonger
 gossypose
-gossipred
 goffer
 gossipries
 guaiol
@@ -8311,6 +8310,7 @@ grassed
 glod
 gonimic
 ginglmi
+gossipred
 gurus
 gordian
 graplins
