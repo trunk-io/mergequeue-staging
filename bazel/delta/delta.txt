@@ -2352,6 +2352,7 @@ dundee
 decimalist
 decimalization
 decimalize
+doublette
 decimalized
 decimalizes
 decimally
@@ -4479,7 +4480,6 @@ dorsigerous
 developmentist
 dwarfish
 dementing
-doublette
 dements
 demeore
 demerara
