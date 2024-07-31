@@ -8809,7 +8809,6 @@ expensiveness
 equites
 exopterygota
 equity
-equiv
 equivale
 electrootiatrics
 etherate
@@ -9208,6 +9207,7 @@ expiscation
 erythroxylum
 ebulliently
 erythrozyme
+equiv
 eupolyzoan
 encolor
 eritrean
