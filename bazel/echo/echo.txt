@@ -4648,6 +4648,7 @@ esophagopathy
 enchymatous
 enchiridia
 emulated
+eobiont
 enchiridions
 exterous
 enlists
@@ -7275,7 +7276,6 @@ enzootics
 exotropic
 electropercussive
 excitomotion
-eobiont
 encyclic
 eosinlike
 eobionts
