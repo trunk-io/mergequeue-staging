@@ -7322,6 +7322,7 @@ alarmable
 appendice
 alarmclock
 alarmed
+ankyroid
 alarmedly
 alarmingly
 alarmingness
@@ -13476,7 +13477,6 @@ atremble
 ankylotomy
 antimedicine
 ankylurethria
-ankyroid
 ankle
 anklebones
 ankles
