@@ -8106,7 +8106,6 @@ blurping
 benton
 bidialectal
 bidialectalism
-bidimensional
 biding
 bidirectional
 bowed
@@ -13139,6 +13138,7 @@ beacons
 biomicroscopy
 bosseyed
 bosselated
+bidimensional
 bosselation
 bronchiectatic
 bosses
