@@ -3931,7 +3931,6 @@ emirates
 erecters
 emirs
 emirship
-escheat
 equinovarus
 emissary
 emissaries
@@ -14059,6 +14058,7 @@ entomic
 emigrational
 ensepulcher
 extricate
+escheat
 earplugs
 extricated
 extrinsic
