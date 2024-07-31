@@ -8192,7 +8192,6 @@ allotypic
 alibility
 alibis
 alible
-alicant
 ahistoric
 alice
 alichel
@@ -11703,6 +11702,7 @@ ankylopodia
 autohemolytic
 anatreptic
 anagrammatising
+alicant
 anagrammatize
 anagrammatized
 anagraph
