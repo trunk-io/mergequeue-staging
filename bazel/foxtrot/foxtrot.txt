@@ -207,7 +207,6 @@ femerell
 fattened
 facultate
 facultatively
-faculty
 facultize
 factitively
 fadaise
@@ -10330,6 +10329,7 @@ foundry
 fragmentise
 fedia
 farolito
+faculty
 faultier
 foofaraw
 fluoridising

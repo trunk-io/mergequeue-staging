@@ -625,7 +625,6 @@ backtracks
 botryoidal
 backtrick
 brackebuschite
-backus
 backveld
 backvelder
 bembex
@@ -5854,6 +5853,7 @@ broodsac
 belter
 burletta
 beltine
+backus
 belting
 bibliophobia
 blackbutt
