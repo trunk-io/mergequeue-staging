@@ -7943,7 +7943,6 @@ aleurometer
 auxotrophy
 aleuron
 abundantia
-aliene
 araneid
 aleurone
 amphioxi
@@ -8462,6 +8461,7 @@ alkalous
 alkamin
 aucht
 antherless
+aliene
 alkamine
 annexation
 alkane
