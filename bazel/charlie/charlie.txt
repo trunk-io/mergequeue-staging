@@ -16801,7 +16801,6 @@ clotheshorses
 clothesyard
 clothesless
 chakari
-clothesman
 creaser
 clothesmen
 clothespin
@@ -23496,6 +23495,7 @@ contaminating
 contamination
 contaminations
 chelicere
+clothesman
 contaminative
 contaminator
 contaminous
