@@ -1762,6 +1762,7 @@ featless
 featliest
 forbiddable
 flocculency
+fogbow
 featliness
 felucca
 feature
@@ -8387,7 +8388,6 @@ fragments
 favor
 fishing
 fluffy
-fogbow
 frithwork
 formicating
 farandman
