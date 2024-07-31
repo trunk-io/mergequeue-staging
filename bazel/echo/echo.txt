@@ -4055,7 +4055,6 @@ elaborateness
 empathize
 empemata
 eleutherios
-embrangled
 expanse
 empennage
 empennages
@@ -9382,6 +9381,7 @@ eruditical
 epigram
 erudition
 elementalist
+embrangled
 esd
 elapoid
 eruditionist
