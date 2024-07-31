@@ -11086,6 +11086,7 @@ bloodsucker
 bloodsuckers
 beakermen
 bloodsucking
+batcher
 bloodtest
 bloodthirster
 bharata
@@ -15762,7 +15763,6 @@ brasque
 bromes
 bromethyl
 bowshots
-batcher
 bago
 bromhydrate
 bloomsburian
