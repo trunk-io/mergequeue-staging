@@ -7745,6 +7745,7 @@ biasness
 botuliform
 bushbeater
 biasnesses
+bkg
 boletic
 biasses
 biasteric
@@ -10015,7 +10016,6 @@ bizzarro
 bariums
 bk
 bkbndr
-bkg
 bklr
 bkpr
 bocardo
