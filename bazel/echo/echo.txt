@@ -11461,7 +11461,6 @@ evennesses
 evensong
 evensongs
 expiation
-eventail
 examinee
 eventful
 expansion
@@ -12762,6 +12761,7 @@ exopoditic
 exopterygote
 exopterygotism
 emolumental
+eventail
 evocated
 exorable
 elytroptosis
