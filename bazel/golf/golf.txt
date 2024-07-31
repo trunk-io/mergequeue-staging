@@ -5138,7 +5138,6 @@ gomphosis
 gladiator
 gladiators
 gallature
-ginhound
 gladiatorship
 gatherings
 gladier
@@ -6568,6 +6567,7 @@ gobiid
 gobylike
 gobio
 gibbert
+ginhound
 grammaticism
 gange
 gongorist
