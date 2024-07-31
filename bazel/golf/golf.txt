@@ -296,6 +296,7 @@ gorcock
 glycogens
 gimbaled
 galactic
+gyrostabilizer
 galactically
 gavotte
 guls
@@ -783,7 +784,6 @@ gyrofrequencies
 gonna
 gumming
 goatherd
-gyrostabilizer
 galvanoscopy
 gustiness
 galvanosurgery
