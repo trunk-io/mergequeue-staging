@@ -3375,6 +3375,7 @@ bassirilievi
 bassist
 bassists
 bassly
+bleacher
 bassness
 basson
 bedash
@@ -10537,7 +10538,6 @@ bleachability
 bestick
 bleachable
 bleached
-bleacher
 bleachery
 bleacheries
 bleacherman
