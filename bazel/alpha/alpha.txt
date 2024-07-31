@@ -10270,6 +10270,7 @@ autocremation
 amenite
 amenity
 amenorrhea
+auxosubstance
 amenorrheal
 amenorrheic
 amenorrhoea
@@ -24566,7 +24567,6 @@ auxographic
 alloo
 auxology
 auxospore
-auxosubstance
 auxotroph
 auxotrophic
 avadana
