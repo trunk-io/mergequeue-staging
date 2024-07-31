@@ -2667,7 +2667,6 @@ generatively
 generativeness
 generator
 gonfanons
-generators
 glosser
 guatemaltecan
 grad
@@ -8394,6 +8393,7 @@ grather
 gangerel
 geophysicist
 glory
+generators
 gordiid
 glinse
 ginglyni
