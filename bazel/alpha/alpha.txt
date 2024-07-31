@@ -873,7 +873,6 @@ abroach
 abroad
 abrocome
 abrogate
-abrogates
 accomplishable
 anoestrus
 acrogynous
@@ -17882,6 +17881,7 @@ appraising
 antenna
 amusia
 arbitrating
+abrogates
 appraisive
 apprecate
 appreciate
