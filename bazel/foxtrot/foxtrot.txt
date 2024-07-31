@@ -4247,7 +4247,6 @@ firstling
 fibrolite
 fearlessness
 firstlings
-fossick
 firstness
 firsts
 freezers
@@ -7089,6 +7088,7 @@ footfolk
 financer
 footgear
 frustule
+fossick
 footglove
 foothalt
 faithing
