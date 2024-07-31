@@ -1457,7 +1457,6 @@ geogenesis
 gawish
 garotter
 gravest
-gambe
 gamboller
 garous
 garpikes
@@ -5516,6 +5515,7 @@ glamourless
 glycyrrhiza
 gnomelike
 gipsyry
+gambe
 glycyrrhizin
 groundman
 gastroenteritic
