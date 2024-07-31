@@ -3948,7 +3948,6 @@ cardiazol
 cardicentesis
 cardiectasis
 climacter
-cardiectomy
 cardiectomize
 cardielcosis
 cardiemphraxia
@@ -12643,6 +12642,7 @@ chromoplastid
 chromoprotein
 chinas
 chromopsia
+cardiectomy
 chromoptometer
 chromoptometrical
 chromos
