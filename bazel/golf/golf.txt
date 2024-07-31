@@ -1479,6 +1479,7 @@ garrisons
 garrnishable
 garron
 grifters
+gyrational
 galeopithecus
 garroo
 gloriana
@@ -4754,7 +4755,6 @@ gyrate
 gyrates
 gastroenteroptosis
 gyrating
-gyrational
 gyrator
 gamotropic
 germanite
