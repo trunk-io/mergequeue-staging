@@ -6624,7 +6624,6 @@ crystalliform
 cedrine
 cedriret
 cedrol
-cedron
 centibar
 cedrus
 cedula
@@ -20154,6 +20153,7 @@ crystallizes
 compartmented
 capacitors
 commendator
+cedron
 commendatory
 coniophora
 commendatories
