@@ -10261,6 +10261,7 @@ guineapig
 gup
 galewort
 girondin
+gustoes
 gul
 germarium
 greensick
@@ -10703,7 +10704,6 @@ gherkin
 gyro
 glyceric
 gusty
-gustoes
 galvanometry
 gourmetism
 gustoish
