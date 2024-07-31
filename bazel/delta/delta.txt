@@ -8614,6 +8614,7 @@ diaphones
 datism
 diaphonic
 dehydrogenating
+declinograph
 diaphonical
 diaphonies
 diaphorase
@@ -14483,7 +14484,6 @@ division
 divisionally
 diverge
 dg
-declinograph
 diachronicness
 deciduas
 divisionary
