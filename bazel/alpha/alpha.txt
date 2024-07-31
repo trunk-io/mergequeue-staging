@@ -4824,7 +4824,6 @@ automats
 aeluroid
 aeluroidea
 aelurophobe
-acanthus
 aelurophobia
 aeluropodous
 alienship
@@ -13019,6 +13018,7 @@ angular
 angulare
 ammoresinol
 angularity
+acanthus
 afflicted
 angularities
 accidentalness
