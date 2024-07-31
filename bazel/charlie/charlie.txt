@@ -5944,6 +5944,7 @@ cathected
 cathectic
 cathecting
 cathection
+cpm
 cathedra
 cathedrae
 coiffe
@@ -27840,7 +27841,6 @@ crosshatching
 cpd
 cuttoe
 cpl
-cpm
 cpo
 cps
 cpt
