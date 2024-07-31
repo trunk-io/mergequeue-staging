@@ -659,6 +659,7 @@ citizenize
 caffoline
 caffre
 cafh
+combattants
 cafila
 cafiz
 cafoy
@@ -14787,7 +14788,6 @@ chartroom
 coannexed
 calligraphically
 cystopyelography
-combattants
 cystoproctostomy
 cystopteris
 cystoradiography
