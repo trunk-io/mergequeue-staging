@@ -12003,6 +12003,7 @@ disenchain
 disenchant
 decenniad
 disjuncts
+deflagrability
 disenchanter
 disenchanting
 doylt
@@ -18633,7 +18634,6 @@ drepanidae
 dendrolene
 duxelles
 demurring
-deflagrability
 dvigu
 dvorak
 dwayberry
