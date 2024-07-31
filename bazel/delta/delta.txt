@@ -2875,6 +2875,7 @@ dodos
 decurrent
 detenus
 decursively
+deletion
 declinations
 decurt
 decurtate
@@ -4042,7 +4043,6 @@ deleteriousness
 duende
 deletes
 dripping
-deletion
 derm
 deletive
 delf
