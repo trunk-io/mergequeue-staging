@@ -11171,7 +11171,6 @@ adverts
 amphigony
 amylate
 amphibolostylous
-amphigonic
 amphigonium
 amphigonous
 achroiocythemia
@@ -13465,6 +13464,7 @@ askable
 ankylose
 ankylosing
 arrowworm
+amphigonic
 ankylostoma
 ankylotia
 ankylotic
