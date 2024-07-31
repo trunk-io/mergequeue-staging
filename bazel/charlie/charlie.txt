@@ -1922,6 +1922,7 @@ camisias
 camisole
 chirotherian
 convector
+cruiseway
 camisoles
 camister
 camize
@@ -30191,7 +30192,6 @@ cocillana
 cruised
 cruiserweight
 cruises
-cruiseway
 caliperer
 cruising
 cruisingly
