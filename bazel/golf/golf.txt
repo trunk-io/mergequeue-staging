@@ -4885,6 +4885,7 @@ gunsmiths
 galleass
 gutser
 granat
+glottalized
 gyromele
 gamed
 gunnysacks
@@ -6068,7 +6069,6 @@ glottalize
 grizzled
 gymnurinae
 groundbreaker
-glottalized
 gestures
 gallinule
 geography
