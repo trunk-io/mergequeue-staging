@@ -7634,7 +7634,6 @@ alchemical
 ameerates
 alchemies
 alchemised
-affusedaffusing
 actinozoal
 alchemising
 alutaceous
@@ -8982,6 +8981,7 @@ allotrope
 allotropes
 allotropic
 allotropical
+affusedaffusing
 archosyrinx
 anthicidae
 autosoterism
