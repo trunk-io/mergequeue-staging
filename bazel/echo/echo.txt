@@ -8747,7 +8747,6 @@ equipollence
 externalization
 equipollency
 edam
-enlaced
 equipollently
 engild
 exogenae
@@ -10380,6 +10379,7 @@ electronographic
 ensheathing
 ethynes
 ethinyl
+enlaced
 extraperitoneal
 ethynylation
 ethiodide
