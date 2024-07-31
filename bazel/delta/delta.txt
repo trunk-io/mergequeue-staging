@@ -2077,7 +2077,6 @@ decarbonator
 decarbonylate
 decarbonylating
 decarbonylation
-decarbonisation
 decarbonise
 decarbonised
 decarbonising
@@ -5056,6 +5055,7 @@ dehumanize
 denatured
 dysgonic
 dissentism
+decarbonisation
 denaturing
 denaturisation
 doughnut
