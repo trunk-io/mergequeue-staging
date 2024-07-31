@@ -2483,7 +2483,6 @@ electrometrical
 electromyogram
 electromyograph
 ectoenzyme
-electromyography
 electromyographic
 electromyographical
 eunuchoid
@@ -13844,6 +13843,7 @@ extrasyllogistic
 extraequilibrium
 extrafine
 extrafocal
+electromyography
 eschel
 everyway
 ecumene
