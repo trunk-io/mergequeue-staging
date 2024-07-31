@@ -12532,6 +12532,7 @@ chromed
 chromene
 chromeplated
 chromeplating
+coresort
 chromes
 concionary
 chromhidrosis
@@ -16630,7 +16631,6 @@ crawlspace
 cloggily
 containable
 clogginess
-coresort
 clogging
 cloglike
 clogmaker
