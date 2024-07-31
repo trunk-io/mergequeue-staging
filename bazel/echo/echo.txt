@@ -3526,6 +3526,7 @@ embole
 electrorefine
 embolectomy
 embolectomies
+ego
 episcopality
 emboliform
 engraphy
@@ -5010,7 +5011,6 @@ eyer
 elided
 erasures
 epiparodos
-ego
 ending
 endings
 endysis
