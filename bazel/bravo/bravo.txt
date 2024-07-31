@@ -5859,7 +5859,6 @@ burials
 balloonfish
 broodsac
 belter
-ballistic
 burletta
 beltine
 belting
@@ -10720,6 +10719,7 @@ blepharocarcinoma
 bobberies
 blepharoceridae
 blepharochromidrosis
+ballistic
 blepharocoloboma
 bamboo
 blepharoconjunctivitis
