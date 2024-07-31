@@ -3383,7 +3383,6 @@ deflects
 deflesh
 deflex
 deflexed
-demonstratively
 deflexibility
 diabolus
 damascenine
@@ -16886,6 +16885,7 @@ drawspring
 drawstop
 dinoceratid
 drawstring
+demonstratively
 drawstrings
 drawtube
 drazel
