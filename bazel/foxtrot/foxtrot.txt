@@ -9588,6 +9588,7 @@ freefd
 freehanded
 faviform
 flooey
+fulup
 fairness
 freehearted
 footplate
@@ -10950,7 +10951,6 @@ fainting
 fulsomely
 fulsomeness
 follis
-fulup
 flurries
 forewarned
 fulvid
