@@ -4012,7 +4012,6 @@ adjudging
 anelace
 adjudgment
 adjudicate
-adjudicates
 antisplenetic
 adjudication
 archturncoat
@@ -9043,6 +9042,7 @@ allusion
 allusions
 allusive
 acacatechol
+adjudicates
 allusiveness
 allusory
 archicontinent
