@@ -7520,6 +7520,7 @@ forecourts
 fouling
 fuci
 fannia
+flamer
 formation
 fuzzier
 florilage
@@ -9595,7 +9596,6 @@ falconry
 freelances
 fatuitousness
 freeloaded
-flamer
 freeloaders
 freelovism
 freemartin
