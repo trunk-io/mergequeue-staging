@@ -2374,6 +2374,7 @@ ethiopic
 electrodeposition
 electrodepositor
 electrodes
+ergastoplasmic
 enweaved
 empirical
 electrodesiccation
@@ -10590,7 +10591,6 @@ etiolates
 etiolating
 etiolize
 exogens
-ergastoplasmic
 etiology
 elinguated
 espigle
