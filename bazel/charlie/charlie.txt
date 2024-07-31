@@ -11241,7 +11241,6 @@ chlamyd
 chlamydate
 chlamydeous
 chlamydes
-chlamydobacteriaceae
 chlamydobacteriales
 chlamydomonadidae
 cornflakes
@@ -26005,6 +26004,7 @@ canton
 corundums
 clayen
 coruscant
+chlamydobacteriaceae
 coruscating
 coruscation
 coruscative
