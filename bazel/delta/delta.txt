@@ -3040,6 +3040,7 @@ deeryard
 deeryards
 deerlet
 deermeat
+dullify
 daker
 doggrel
 deerstalker
@@ -18046,7 +18047,6 @@ drugshop
 dullery
 drabble
 dullhead
-dullify
 disfavors
 difluoride
 dulling
