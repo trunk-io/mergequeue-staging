@@ -270,7 +270,6 @@ faenus
 foreboder
 faerie
 faeryland
-freedstool
 faeroese
 falco
 favellilidia
@@ -9113,6 +9112,7 @@ fra
 fameuse
 frabbit
 frabjously
+freedstool
 fracas
 ferrotitanium
 fracases
