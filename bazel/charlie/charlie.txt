@@ -22116,7 +22116,6 @@ confirmability
 chivying
 catheptic
 cladoceran
-confirmable
 confirmand
 confirmation
 confirmational
@@ -30821,6 +30820,7 @@ consulated
 culot
 culotte
 conquerors
+confirmable
 culottic
 culpa
 chlamydomonadaceae
