@@ -1707,7 +1707,6 @@ eider
 existential
 eiderdown
 electromagnetics
-electropult
 eidograph
 eidolic
 eyn
@@ -5743,6 +5742,7 @@ englisher
 epicycle
 exemplifiable
 electrocutes
+electropult
 enhalo
 endoplasmic
 englishes
