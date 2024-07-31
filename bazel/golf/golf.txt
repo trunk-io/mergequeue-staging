@@ -2069,7 +2069,6 @@ gape
 grump
 gula
 gumbolike
-ganglioblast
 grandsire
 glottogonic
 goony
@@ -5693,6 +5692,7 @@ goldfinches
 glires
 gliridae
 grains
+ganglioblast
 gemeinschaften
 grabble
 gymnopaedic
