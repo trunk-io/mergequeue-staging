@@ -10765,7 +10765,6 @@ ammocoete
 alienages
 ammocoetes
 ajonjoli
-ammocoetid
 ammocoetidae
 asa
 ammocoetoid
@@ -24500,6 +24499,7 @@ autotropic
 apostolate
 autotropism
 autotuberculin
+ammocoetid
 als
 autoturning
 autourine
