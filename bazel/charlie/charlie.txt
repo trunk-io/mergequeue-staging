@@ -4019,6 +4019,7 @@ chibouque
 cardioids
 cardiolysis
 capriole
+conelrad
 cardiolith
 cardiology
 chondroclast
@@ -21919,7 +21920,6 @@ conehead
 coneys
 culturologist
 conelike
-conelrad
 conemaker
 conemaking
 conemaugh
