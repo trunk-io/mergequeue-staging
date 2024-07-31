@@ -9209,7 +9209,6 @@ gingeleys
 gristmill
 grasper
 gristmilling
-gritless
 gritted
 gritter
 greyback
@@ -10734,6 +10733,7 @@ gibber
 gutsiest
 garapato
 gutsily
+gritless
 gutsiness
 gymnogen
 guttae
