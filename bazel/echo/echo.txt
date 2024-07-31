@@ -3562,7 +3562,6 @@ embosomed
 emboss
 embossage
 eunuch
-exponentiations
 eire
 embossers
 eruc
@@ -7739,6 +7738,7 @@ epidermoid
 echiuroidea
 eremitism
 epidermoidal
+exponentiations
 espial
 epilogs
 epidermophyton
