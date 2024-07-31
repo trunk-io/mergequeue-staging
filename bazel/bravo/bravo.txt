@@ -1798,7 +1798,6 @@ balsamum
 brachydactyl
 balsamweed
 balsawood
-balt
 baltetei
 balteus
 balthasar
@@ -3475,6 +3474,7 @@ bedur
 blackroot
 batched
 batchers
+balt
 bargemen
 batea
 bateaux
