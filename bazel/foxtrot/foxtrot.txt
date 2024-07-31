@@ -7685,7 +7685,6 @@ flaw
 fac
 falsifications
 foreiron
-forejudged
 feyness
 foreteller
 forejudging
@@ -11058,6 +11057,7 @@ funambuloes
 funaria
 factionate
 floyd
+forejudged
 functionalism
 formosity
 freshens
