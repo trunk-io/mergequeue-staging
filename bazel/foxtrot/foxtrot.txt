@@ -5250,7 +5250,6 @@ florette
 frigefact
 forjudger
 fledged
-fulminant
 fistlike
 fledgeless
 fledgy
@@ -9365,6 +9364,7 @@ flagitious
 frantic
 frantically
 frayn
+fulminant
 freeloading
 flybook
 favourer
