@@ -2265,7 +2265,6 @@ auris
 achernar
 acheron
 acheronian
-antipapistic
 acherontic
 aches
 achesoun
@@ -10326,6 +10325,7 @@ americanum
 ascry
 americanumancestors
 armorless
+antipapistic
 americas
 americaward
 ascidiozooid
