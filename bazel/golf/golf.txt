@@ -883,6 +883,7 @@ gamekeeping
 gamelans
 gedecktwork
 girnel
+gentes
 gerents
 genesitic
 gameless
@@ -4249,7 +4250,6 @@ gabbiness
 gillotage
 gamester
 gills
-gentes
 gillstoup
 gilo
 gilpy
