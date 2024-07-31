@@ -3456,7 +3456,6 @@ adonic
 adaptational
 avoyer
 adaptedness
-adapter
 adapters
 adapting
 adaption
@@ -10777,6 +10776,7 @@ ammocoetidae
 asa
 ammocoetoid
 antihierarchist
+adapter
 ammodyte
 aglipayano
 ammodytes
