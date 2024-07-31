@@ -2338,6 +2338,7 @@ electrochemical
 electrochemist
 electrochronograph
 electrochronometer
+est
 electrochronometric
 electrocontractility
 electroconvulsive
@@ -9904,7 +9905,6 @@ exophthalmus
 electropism
 essonite
 explorate
-est
 exsiccating
 estab
 ecderonic

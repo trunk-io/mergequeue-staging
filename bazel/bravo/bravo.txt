@@ -5607,7 +5607,6 @@ bely
 belialic
 belialist
 boutefeu
-belibel
 belibeled
 belicoseness
 brassicaceous
@@ -13214,6 +13213,7 @@ botcher
 botchery
 botcheries
 bedrock
+belibel
 botcherly
 bigamic
 botchy
