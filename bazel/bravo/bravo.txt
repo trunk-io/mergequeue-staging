@@ -2959,7 +2959,6 @@ brigantines
 barren
 babyhoods
 barrenest
-barrenly
 barrages
 barrenness
 barrens
@@ -17068,6 +17067,7 @@ bullhead
 basil
 beggar
 bullheaded
+barrenly
 balanophoraceae
 benzoid
 bulbotuber
