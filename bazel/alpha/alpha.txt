@@ -2775,6 +2775,7 @@ acquitted
 acquitter
 acquitting
 adaptive
+alevin
 acrab
 acracy
 acraldehyde
@@ -5248,7 +5249,6 @@ algebraic
 aface
 afaced
 assentaneous
-alevin
 arbustum
 afacing
 afaint
