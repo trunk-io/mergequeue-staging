@@ -6801,7 +6801,6 @@ bestiarian
 besaiel
 barometric
 biggies
-bounded
 besayle
 besaint
 besan
@@ -12714,6 +12713,7 @@ bagsful
 boongary
 boonies
 boonk
+bounded
 boonless
 boopis
 boor
