@@ -9060,6 +9060,7 @@ circovarian
 crescentwise
 chariotlike
 chariotman
+coatrooms
 chariotry
 chariots
 chromophane
@@ -17455,7 +17456,6 @@ coation
 coatis
 coatless
 calumnia
-coatrooms
 coats
 contends
 coattails
