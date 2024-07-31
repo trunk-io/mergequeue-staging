@@ -1296,6 +1296,7 @@ balaklava
 balalaika
 burled
 balalaikas
+beslime
 balan
 balanceable
 balanced
@@ -6937,7 +6938,6 @@ bikie
 beslap
 beslave
 besleeve
-beslime
 beslimer
 buffoon
 backtalk
