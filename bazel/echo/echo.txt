@@ -5929,7 +5929,6 @@ effetely
 enif
 enigmas
 electrophori
-electrosurgically
 enigmata
 enigmatic
 evicted
@@ -12303,6 +12302,7 @@ erodable
 encounterer
 extracted
 executorial
+electrosurgically
 eugregarinida
 endarch
 evenmete
