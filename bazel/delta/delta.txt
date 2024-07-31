@@ -3224,7 +3224,6 @@ duckboard
 dismantler
 defensemen
 defenser
-defensibility
 defensibly
 defensing
 discomfiture
@@ -16773,6 +16772,7 @@ dialyphyllous
 draperess
 dzeron
 dichlorodifluoromethane
+defensibility
 drapers
 dendrophagous
 drapet
