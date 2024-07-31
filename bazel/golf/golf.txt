@@ -2128,6 +2128,7 @@ geochronology
 grifts
 garlanding
 gazabo
+griffins
 gazabos
 gurdy
 gazangabin
@@ -7819,7 +7820,6 @@ gouda
 grainways
 gimmerpet
 gremiale
-griffins
 girding
 gesticulator
 gibbier

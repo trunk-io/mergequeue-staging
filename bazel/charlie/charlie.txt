@@ -11166,6 +11166,7 @@ checksums
 chitin
 chorioiditis
 coappears
+cerilla
 chitinized
 chitinocalcareous
 chitinogenous
@@ -21736,7 +21737,6 @@ condensity
 conder
 condescended
 condescendence
-cerilla
 condescender
 condescending
 condescendingly
