@@ -9490,7 +9490,6 @@ diffractive
 diffractively
 degenerescent
 downed
-diffracts
 dupion
 draughtboard
 diffident
@@ -18388,6 +18387,7 @@ decating
 disclimax
 daidle
 duplicatus
+diffracts
 dispersity
 duplicident
 duplicious
