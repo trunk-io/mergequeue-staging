@@ -12115,7 +12115,6 @@ choroidocyclitis
 choroidoiritis
 choroidoretinitis
 choroids
-chorology
 chorological
 choromania
 commissural
@@ -22265,6 +22264,7 @@ confrication
 confrontation
 chemicked
 clipped
+chorology
 confrontations
 crucifixions
 confronted
