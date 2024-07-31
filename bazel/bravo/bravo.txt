@@ -6054,7 +6054,6 @@ brassish
 benedictory
 benedight
 benefact
-benefactions
 benefactive
 badgers
 benefactors
@@ -9528,6 +9527,7 @@ birthbed
 birthdays
 birthed
 bemocked
+benefactions
 birthy
 birthing
 birthland
