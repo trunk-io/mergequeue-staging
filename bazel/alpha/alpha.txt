@@ -12628,7 +12628,6 @@ anesthesiometer
 antiprophet
 anesthetic
 auxotonic
-anesthetics
 anesthetist
 acapnial
 aficionada
@@ -18247,6 +18246,7 @@ aquiline
 aquilino
 aquinas
 aquincubital
+anesthetics
 antimorality
 augen
 aquinist
