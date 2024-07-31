@@ -234,6 +234,7 @@ fadeaways
 fathership
 funest
 fadednyess
+forswornness
 feuillants
 fader
 faders
@@ -8578,7 +8579,6 @@ forswearing
 falterers
 farmable
 fasciate
-forswornness
 fort
 fortake
 fortalice
