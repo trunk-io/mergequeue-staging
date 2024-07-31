@@ -1089,7 +1089,6 @@ empiricism
 edificed
 expeditiously
 edified
-exopt
 ephoric
 edictal
 embuskin
@@ -11689,6 +11688,7 @@ eruptional
 eloigns
 electrothermostat
 enrapturer
+exopt
 evolutionary
 evolutionism
 evolutionist
