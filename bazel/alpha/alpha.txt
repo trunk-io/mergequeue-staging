@@ -11630,7 +11630,6 @@ anaerobes
 anaerobia
 anaerobian
 antired
-anaerobic
 anaerobically
 anaerobies
 anaerobiont
@@ -23435,6 +23434,7 @@ augustine
 airmail
 augustinian
 augustinism
+anaerobic
 afterend
 augustly
 augustus
