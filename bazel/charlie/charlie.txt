@@ -2570,6 +2570,7 @@ chimbs
 cannaled
 cannalling
 cannas
+cella
 canned
 cannel
 cannelated
@@ -6775,7 +6776,6 @@ celite
 christianomastix
 criniferous
 cell
-cella
 carnacian
 cellager
 cellar
