@@ -17747,6 +17747,7 @@ concords
 cocinera
 cocineras
 cocinero
+cohering
 cocircular
 cocircularity
 canham
@@ -18532,7 +18533,6 @@ cronk
 coherers
 coheres
 coheretic
-cohering
 coheritor
 cohesibility
 cohesible
