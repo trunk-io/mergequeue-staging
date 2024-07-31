@@ -13383,7 +13383,6 @@ asyllabical
 anisomelia
 anisomelus
 anisometric
-afterbrain
 anisometrope
 anisomyarian
 anisomyodi
@@ -22144,6 +22143,7 @@ astigmatoscopy
 astigmatoscopies
 abhorrence
 acclimatable
+afterbrain
 astigmias
 argonaut
 astigmometer
