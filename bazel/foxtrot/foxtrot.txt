@@ -3226,7 +3226,6 @@ flitching
 fidgeting
 fidgetingly
 fungology
-fieldfare
 fidgets
 fidibus
 fidicula
@@ -7715,6 +7714,7 @@ forb
 foremeant
 frypans
 fragaria
+fieldfare
 flinch
 foremelt
 foremen
