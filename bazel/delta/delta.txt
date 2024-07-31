@@ -12372,7 +12372,6 @@ dibenzopyrrole
 disherent
 disherison
 disherit
-disherited
 disheriting
 disheritment
 disherits
@@ -15553,6 +15552,7 @@ donne
 donned
 drunkensome
 donnee
+disherited
 donnerd
 donnered
 disillusionizer
