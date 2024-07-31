@@ -4937,7 +4937,6 @@ aeries
 aerifaction
 aerify
 atrocity
-aerification
 aerified
 aerily
 aero
@@ -19643,6 +19642,7 @@ asfast
 archiplasmic
 arguslike
 argutation
+aerification
 almous
 argute
 arguteness
