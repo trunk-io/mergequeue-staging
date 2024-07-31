@@ -10833,7 +10833,6 @@ ammoniuria
 ammonization
 ammono
 ammonobasic
-ammonocarbonic
 ammonocarbonous
 ammonoidea
 ammonolyses
@@ -16659,6 +16658,7 @@ apa
 archontic
 apabhramsa
 apace
+ammonocarbonic
 apache
 attractingly
 acrologue
