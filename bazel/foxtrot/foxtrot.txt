@@ -1138,7 +1138,6 @@ fens
 fieldstone
 filterer
 fasciation
-floreate
 furloughed
 flicking
 fascicles
@@ -11021,6 +11020,7 @@ funster
 fuming
 fledging
 fumingly
+floreate
 fumish
 fasti
 fluoroscopist
