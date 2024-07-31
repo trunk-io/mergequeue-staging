@@ -2199,7 +2199,6 @@ gearcase
 gonaduct
 geared
 gearing
-gearings
 gasterotricha
 gears
 gearset
@@ -10128,6 +10127,7 @@ guesstimating
 gastropods
 gabling
 guestchamber
+gearings
 guesten
 glycerolysis
 glucuronic
