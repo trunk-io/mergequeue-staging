@@ -739,7 +739,6 @@ basaltine
 brangle
 bacteriosis
 bacteriosolvent
-bacteriostatically
 bacteriotherapeutic
 bacteriotoxin
 bacteriotropic
@@ -15100,6 +15099,7 @@ bribetaking
 brick
 budgerigars
 bowpots
+bacteriostatically
 brickbats
 blotted
 brickbatted
