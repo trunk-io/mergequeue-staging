@@ -5367,7 +5367,6 @@ embolo
 euproctis
 endotheca
 endothecal
-enam
 endothecia
 episterna
 empoisoner
@@ -10698,6 +10697,7 @@ euphemization
 euclea
 eyeish
 eucleid
+enam
 euclideanism
 elance
 eucnemidae
