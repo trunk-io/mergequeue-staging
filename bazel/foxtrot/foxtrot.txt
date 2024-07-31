@@ -3584,6 +3584,7 @@ forebrain
 filius
 friesish
 fillable
+fissicostate
 flyspecking
 fourfold
 forespeech
@@ -5684,7 +5685,6 @@ flashed
 fructidor
 foreperiod
 flyways
-fissicostate
 further
 forthon
 flywheel
