@@ -8852,6 +8852,7 @@ chapiters
 chapitle
 chaplain
 chaplaincy
+confessors
 chaplainship
 chapless
 chaplet
@@ -10766,7 +10767,6 @@ chiming
 chymist
 charros
 chymistry
-confessors
 chymists
 chimlas
 chimley
