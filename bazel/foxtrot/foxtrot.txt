@@ -8566,6 +8566,7 @@ forspent
 focused
 farstepped
 footing
+favosite
 forspoken
 fowk
 floccipend
@@ -10502,7 +10503,6 @@ froths
 frottage
 fragrant
 factitial
-favosite
 filles
 fenceless
 frotteur
