@@ -1825,7 +1825,6 @@ fecundify
 fourrag
 fatiguable
 fetlock
-fecundities
 finalizations
 fecundize
 floodplain
@@ -4051,6 +4050,7 @@ forgot
 fireburn
 fireclay
 fimbriatum
+fecundities
 fayence
 fireclays
 filipino
