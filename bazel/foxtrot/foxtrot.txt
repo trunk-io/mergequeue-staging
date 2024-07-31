@@ -6697,7 +6697,6 @@ fogger
 foggy
 farandole
 fibrine
-foggier
 flitters
 farls
 festivals
@@ -11168,6 +11167,7 @@ fungals
 fungi
 fungia
 freestones
+foggier
 fasciculated
 fungibility
 fungibles
