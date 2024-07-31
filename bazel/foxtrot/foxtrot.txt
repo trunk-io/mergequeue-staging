@@ -661,7 +661,6 @@ forthgaze
 fallow
 foppish
 foregirth
-famelessness
 famelic
 family
 frize
@@ -7469,6 +7468,7 @@ foreboom
 favella
 function
 floatplane
+famelessness
 forebooms
 famular
 featherer
