@@ -5156,7 +5156,6 @@ bankfull
 balebos
 bromobenzene
 bacach
-beggardom
 beggared
 bastarda
 blowbys
@@ -9369,6 +9368,7 @@ bassa
 birdcages
 birdcall
 birdclapper
+beggardom
 bowdlerisation
 bibbers
 belemnitidae
