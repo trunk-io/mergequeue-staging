@@ -6271,7 +6271,6 @@ defaceable
 dermatine
 dimaris
 droving
-dermatitis
 dacryocyst
 dermatoconiosis
 dobzhansky
@@ -17706,6 +17705,7 @@ dualizing
 dressages
 developable
 duals
+dermatitis
 drachmae
 duan
 dipterocecidium
