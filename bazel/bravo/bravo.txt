@@ -9028,7 +9028,6 @@ bionts
 biophagy
 biophagous
 begartered
-biophilous
 ballutes
 bamboozlers
 biophysic
@@ -11649,6 +11648,7 @@ bobeches
 bobet
 bumkins
 bobflies
+biophilous
 bobfloat
 bobierrite
 blowholes
