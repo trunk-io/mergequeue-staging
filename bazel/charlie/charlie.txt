@@ -3896,7 +3896,6 @@ cardamon
 cardamons
 cardamum
 cheeseparer
-cardanic
 cardanol
 cercle
 cyathophylloid
@@ -30252,6 +30251,7 @@ crumpy
 crumping
 crumple
 crumpled
+cardanic
 crambo
 crumpler
 capitelliform
