@@ -2496,6 +2496,7 @@ acyl
 acylal
 acylamido
 acylamidobenzene
+adenosarcomata
 ancylostomum
 acylamino
 acylase
@@ -3740,7 +3741,6 @@ adenopodous
 adenosarcoma
 adenosarcomas
 artal
-adenosarcomata
 apostlehood
 adenose
 arrant

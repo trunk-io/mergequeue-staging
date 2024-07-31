@@ -1514,7 +1514,6 @@ garum
 grocerdom
 garvance
 garvanzo
-gallivorous
 gallerying
 guarantied
 gnapweed
@@ -7856,6 +7855,7 @@ gallophile
 graminiferous
 ghostwrites
 gurries
+gallivorous
 goodbyes
 great
 girny
