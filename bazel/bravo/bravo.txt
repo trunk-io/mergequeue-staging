@@ -3939,7 +3939,6 @@ beadman
 beads
 bondhold
 beadswoman
-beadswomen
 beadwork
 beadworks
 boca
@@ -10868,6 +10867,7 @@ blubberingly
 buroo
 blister
 blistered
+beadswomen
 blistering
 blisterweed
 begrudging
