@@ -7833,7 +7833,6 @@ alecost
 anticoagulate
 adsorbed
 alecs
-alectoria
 abristle
 alectoridine
 alectorioid
@@ -20878,6 +20877,7 @@ arachidonic
 arzan
 adaptationally
 arzawa
+alectoria
 acetylsalicylate
 arzun
 asaddle
