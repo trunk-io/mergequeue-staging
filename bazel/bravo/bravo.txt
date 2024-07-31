@@ -1737,6 +1737,7 @@ balneum
 bravehearted
 balnibarbi
 barbels
+belt
 baloghia
 balolo
 bethels
@@ -7487,7 +7488,6 @@ busheled
 bewailment
 boni
 bewake
-belt
 bewall
 beware
 bucketer
