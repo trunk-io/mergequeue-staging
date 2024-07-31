@@ -6811,7 +6811,6 @@ entify
 epirot
 enterobiliary
 entifical
-entyloma
 epigrammatized
 entire
 entires
@@ -9702,6 +9701,7 @@ explicans
 emerges
 esophagi
 esophagism
+entyloma
 ers
 esophagitis
 echiurid
