@@ -7694,7 +7694,6 @@ epicuticular
 entomotomist
 epideictical
 epideistic
-entomological
 epidemy
 essenced
 empale
@@ -10504,6 +10503,7 @@ elsewhen
 extrascientific
 exsiccate
 enamorate
+entomological
 epalpate
 evansite
 ethnologist
