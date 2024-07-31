@@ -6993,7 +6993,6 @@ bows
 besmudge
 besmudges
 besmudging
-besweeten
 besmut
 besmutch
 bescribbling
@@ -13930,6 +13929,7 @@ brachycephaly
 beadmen
 brachycephalization
 bagmaking
+besweeten
 bellerophon
 brachycera
 bludgeoned
