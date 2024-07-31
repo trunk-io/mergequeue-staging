@@ -4277,7 +4277,6 @@ flatware
 flagellate
 fishberries
 fishboat
-fusses
 fishbolts
 faultless
 fishbone
@@ -10802,6 +10801,7 @@ fucinita
 fripperer
 flirtable
 fucuses
+fusses
 fuddle
 fuddlebrained
 ferrimagnetic
