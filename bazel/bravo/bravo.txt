@@ -4099,7 +4099,6 @@ bartlemy
 beastliest
 beastlike
 beastlily
-beastliness
 beastlings
 beastman
 beckelite
@@ -6654,6 +6653,7 @@ berycidae
 beryciform
 berrettino
 berycine
+beastliness
 berycoidean
 berycoidei
 beride
