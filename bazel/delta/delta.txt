@@ -4009,6 +4009,7 @@ dividers
 delegacies
 delegalize
 delegalized
+deviation
 dependants
 diatomales
 delegate
@@ -5525,7 +5526,6 @@ deodorization
 deodorize
 deodorized
 deodorizer
-deviation
 deodorizes
 deodorizing
 depletion
