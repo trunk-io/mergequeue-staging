@@ -6519,7 +6519,6 @@ bequeathal
 bequeathed
 bequeather
 balanoglossus
-bibulosity
 bemoan
 brawled
 bequeaths
@@ -18389,6 +18388,7 @@ bachichi
 buzzingly
 betatrons
 balas
+bibulosity
 barmkin
 bichromatic
 blossomtime
