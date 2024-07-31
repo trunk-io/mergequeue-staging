@@ -7906,7 +7906,6 @@ drawfiling
 desmocyte
 dewaxed
 dewaxes
-dewaxing
 dewberry
 dewclawed
 didgeridoo
@@ -14763,6 +14762,7 @@ duffer
 demipectinate
 doctors
 dredgers
+dewaxing
 dido
 disfranchise
 disoriented
