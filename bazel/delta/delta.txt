@@ -604,7 +604,6 @@ dromoi
 damier
 damine
 drek
-damkjernite
 doorstep
 dorsicornu
 damlike
@@ -9572,6 +9571,7 @@ desynonymization
 digestif
 distrito
 digesting
+damkjernite
 dislevelment
 digestion
 digestment
