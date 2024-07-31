@@ -2558,7 +2558,6 @@ ferruled
 ferrum
 ferruminate
 fruz
-fibroareolar
 ferruminating
 ferrums
 fibrinolytic
@@ -9735,6 +9734,7 @@ french
 flatterable
 frenches
 flourless
+fibroareolar
 frenchwise
 fenianism
 foreguts

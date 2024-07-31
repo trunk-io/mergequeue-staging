@@ -19031,7 +19031,6 @@ collateralizing
 candor
 collaterally
 collateralness
-collaterals
 collates
 collation
 collationer
@@ -23160,6 +23159,7 @@ consonancy
 consonant
 consonantal
 consonantalized
+collaterals
 consonantalizing
 consonantally
 consonantic
