@@ -29,7 +29,6 @@ backplate
 blindness
 baar
 bethinking
-baaskaaps
 banderoles
 bearding
 brontides
@@ -753,6 +752,7 @@ bacterize
 bacterized
 bacterizing
 bacteroid
+baaskaaps
 bacteroides
 bactetiophage
 bactrian
