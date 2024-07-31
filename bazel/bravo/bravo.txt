@@ -546,7 +546,6 @@ backspaces
 backspacing
 becivet
 backspeir
-baluster
 backspier
 berberia
 blvd
@@ -1408,6 +1407,7 @@ ballard
 bemire
 baldhead
 baldheaded
+baluster
 brickel
 bullheadedly
 baldheads
