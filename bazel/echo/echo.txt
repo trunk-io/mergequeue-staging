@@ -2247,7 +2247,6 @@ electives
 extralinguistic
 electivism
 electo
-extracalendar
 elector
 exotic
 electorate
@@ -3364,6 +3363,7 @@ embastardize
 embastioned
 entrust
 encharge
+extracalendar
 embarring
 embatholithic
 experimently
