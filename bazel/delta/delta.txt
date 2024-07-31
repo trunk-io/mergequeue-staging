@@ -8855,7 +8855,6 @@ diazotizability
 diazotizable
 diathermaneity
 diazotization
-diazotize
 denotable
 diazotized
 diazotizing
@@ -9850,6 +9849,7 @@ diligency
 diligentness
 debited
 dilis
+diazotize
 degentilize
 dilker
 dillenia
