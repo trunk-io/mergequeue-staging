@@ -5990,7 +5990,6 @@ fissility
 fertilisability
 floroun
 florula
-florulae
 flinder
 floscular
 fanion
@@ -6922,6 +6921,7 @@ follyer
 follying
 fritters
 fostered
+florulae
 follily
 followed
 friezer
