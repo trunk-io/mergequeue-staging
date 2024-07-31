@@ -5771,7 +5771,6 @@ aftertask
 aftertaste
 afterthinker
 achromatium
-artistdom
 afterthought
 arain
 apastron
@@ -8931,6 +8930,7 @@ automatizing
 alloplasmic
 alloplast
 aluminise
+artistdom
 alloplasty
 alloplastic
 afflation
