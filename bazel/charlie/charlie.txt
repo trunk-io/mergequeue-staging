@@ -15431,7 +15431,6 @@ clamor
 clamored
 clamorer
 clamorers
-clamorous
 clamorously
 clamorousness
 clamorsome
@@ -29653,6 +29652,7 @@ configuring
 cordials
 crocheting
 croci
+clamorous
 crociary
 crociate
 crocidolite
