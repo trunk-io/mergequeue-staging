@@ -2874,6 +2874,7 @@ feverwort
 few
 fany
 finings
+figureheadless
 frontpiece
 fogle
 frogland
@@ -3400,7 +3401,6 @@ figurately
 figuration
 figuratively
 forby
-figureheadless
 figurer
 figuresome
 flowerlet
