@@ -883,7 +883,6 @@ girnel
 gentes
 gerents
 genesitic
-gameless
 gathers
 guberla
 graphics
@@ -10409,6 +10408,7 @@ gumfield
 gumflower
 gumhar
 gumi
+gameless
 graduale
 gulpiest
 gummage
