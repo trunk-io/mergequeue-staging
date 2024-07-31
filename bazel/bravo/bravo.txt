@@ -2380,7 +2380,6 @@ barite
 barbettes
 bispore
 bryanthus
-barbican
 barbicel
 bedevilling
 bloodworthy
@@ -16724,6 +16723,7 @@ buffer
 buffering
 brankier
 bufferrer
+barbican
 bufferrers
 buffers
 breva
