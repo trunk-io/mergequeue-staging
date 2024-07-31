@@ -15752,7 +15752,6 @@ bromelia
 bromeliaceae
 bromeliaceous
 bunnell
-boatman
 bromeliad
 bromelin
 bromelins
@@ -18016,6 +18015,7 @@ busyish
 blesbuck
 busily
 berg
+boatman
 busine
 barging
 backworm
