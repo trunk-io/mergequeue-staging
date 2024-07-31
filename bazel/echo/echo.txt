@@ -5346,7 +5346,6 @@ epigean
 endosteal
 estrangement
 emended
-entelechy
 endosteomas
 endosteum
 endopolyploidy
@@ -12582,6 +12581,7 @@ endotheliotoxin
 emasculatory
 exine
 epidermical
+entelechy
 ejectable
 enid
 exing
