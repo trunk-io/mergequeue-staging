@@ -4282,7 +4282,6 @@ bicycular
 bebops
 bebotch
 bebothered
-brachygrapher
 bebouldered
 boltings
 bebrave
@@ -10183,6 +10182,7 @@ boomerangs
 blad
 bladder
 brin
+brachygrapher
 barterer
 birdmouthed
 bastardization
