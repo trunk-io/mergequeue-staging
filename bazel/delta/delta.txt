@@ -3622,7 +3622,6 @@ degradingly
 dehydrogenize
 dalibarda
 damnously
-detruncating
 degradingness
 degraduation
 degrain
@@ -3799,6 +3798,7 @@ deiform
 deiformity
 deign
 deigned
+detruncating
 deigning
 deignous
 deathwatch
