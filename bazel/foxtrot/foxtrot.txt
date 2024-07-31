@@ -1680,6 +1680,7 @@ filleul
 fusillade
 feared
 feelable
+fungivorous
 fearer
 fishpotter
 flavopurpurin
@@ -10970,7 +10971,6 @@ fatalistic
 forehoofs
 fumaria
 formulatory
-fungivorous
 fumariaceae
 fumariaceous
 fumarium
