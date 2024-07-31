@@ -4742,6 +4742,7 @@ gypsums
 genevois
 greenhorn
 gatchwork
+goll
 geometrizing
 greatest
 giraffa
@@ -6783,7 +6784,6 @@ goliard
 goliardery
 goliardic
 gastricism
-goll
 glaikitness
 golland
 gollar
