@@ -59,6 +59,7 @@ earl
 emperize
 earlap
 etherify
+enqueue
 earldom
 earwigs
 earnful
@@ -6225,7 +6226,6 @@ enquarter
 entrechats
 enterobacterial
 exogonium
-enqueue
 experimentee
 enqueued
 enlief
