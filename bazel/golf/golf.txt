@@ -1119,7 +1119,6 @@ garnets
 gyrocompass
 gulpier
 gelatia
-gangplow
 gastrodisc
 gangrene
 gangrenes
@@ -8378,6 +8377,7 @@ gloiopeltis
 gamosepalous
 gratelike
 grater
+gangplow
 grillades
 ganda
 grizzliest
