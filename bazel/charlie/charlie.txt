@@ -7115,7 +7115,6 @@ centigrade
 centigrado
 centigram
 centigramme
-centigrams
 cajaput
 centile
 centiles
@@ -18778,6 +18777,7 @@ cojudge
 cojuror
 carbachol
 consulted
+centigrams
 cojusticiar
 coke
 cokey
