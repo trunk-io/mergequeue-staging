@@ -8758,7 +8758,6 @@ catoptrite
 chantant
 copywise
 chantey
-chanteyman
 chanteys
 commissars
 chanter
@@ -12430,6 +12429,7 @@ christocentric
 chrisma
 cocodette
 congenital
+chanteyman
 chrystocrene
 contactually
 christogram
