@@ -5844,6 +5844,7 @@ corncake
 catenane
 careless
 catenary
+concentrators
 catenas
 catenate
 catenates
@@ -21320,7 +21321,6 @@ concentration
 concentrations
 concentrativeness
 concentrator
-concentrators
 concentre
 concentred
 concentric
