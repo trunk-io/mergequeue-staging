@@ -4634,7 +4634,6 @@ bilinigrin
 bathed
 bedimpled
 beseecher
-bedimplies
 bedims
 ballyhooing
 bancus
@@ -17262,6 +17261,7 @@ bumpology
 bumps
 boilerworks
 bumptiously
+bedimplies
 belimousined
 bumptiousness
 birl
