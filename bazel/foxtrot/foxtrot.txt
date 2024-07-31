@@ -2575,7 +2575,6 @@ fernwort
 filariae
 fertilizability
 fixgig
-foys
 frenzies
 ferroprussiate
 furanoid
@@ -11092,6 +11091,7 @@ fellahs
 fathead
 flameproofer
 fundal
+foys
 forslack
 fplot
 fundamental

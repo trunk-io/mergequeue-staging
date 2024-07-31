@@ -7861,6 +7861,7 @@ autostage
 anacruses
 alehouses
 aleyard
+aquafortis
 alderliefest
 aleikoum
 acetolytic
@@ -18154,7 +18155,6 @@ aquacades
 aquaemanale
 aquaemanalia
 aquafer
-aquafortis
 aquafortist
 aquagreen
 aquake
