@@ -8747,7 +8747,6 @@ chansonnette
 chansonnier
 chansonniers
 chansons
-chanst
 chant
 celandine
 chuckawalla
@@ -13190,6 +13189,7 @@ cyathophyllum
 cyathos
 cyathozooid
 cyathus
+chanst
 cibaria
 cann
 combinative
