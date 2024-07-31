@@ -7520,7 +7520,6 @@ claqueur
 ceratohyal
 ceratohyoid
 changeless
-ceratoid
 charcoaly
 ceratomandibular
 ceratomania
@@ -31592,6 +31591,7 @@ curvature
 curve
 curved
 caramelized
+ceratoid
 curvedly
 curver
 cerebrospinant
