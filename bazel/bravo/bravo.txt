@@ -2087,7 +2087,6 @@ bevue
 bangtails
 bellyband
 bankalachi
-bangwaketsi
 belemnites
 banya
 banyai
@@ -10472,6 +10471,7 @@ blather
 bikh
 blatherer
 birles
+bangwaketsi
 bewater
 blathery
 basilosaurus
