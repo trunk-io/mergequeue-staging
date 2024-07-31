@@ -2117,6 +2117,7 @@ apoapsis
 acetylmethylcarbinol
 acetylperoxide
 acetylphenylhydrazine
+alkalescent
 acetylphenol
 aporose
 acetyls
@@ -8410,7 +8411,6 @@ appendency
 alkalescence
 asleep
 alkalescency
-alkalescent
 alkali
 anadenia
 atamascos
