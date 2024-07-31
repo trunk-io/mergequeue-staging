@@ -4246,6 +4246,7 @@ firstness
 freezers
 flanched
 fanned
+fetchers
 fusilier
 firths
 fathomless
@@ -7930,7 +7931,6 @@ foraneen
 forestalling
 femalely
 floccing
-fetchers
 forestalls
 forestalment
 forestate
