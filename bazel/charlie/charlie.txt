@@ -12739,6 +12739,7 @@ chronometers
 chronometry
 corin
 chronometric
+critize
 chronometrical
 chronometrically
 circled
@@ -29601,7 +29602,6 @@ critique
 calcivorous
 critiqued
 critiquing
-critize
 convergence
 critling
 critter
