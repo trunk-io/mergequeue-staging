@@ -22815,7 +22815,6 @@ conquer
 chlorastrolite
 cryophyte
 conquerable
-chetrums
 conquerableness
 conquerer
 conquerers
@@ -25724,6 +25723,7 @@ corradiation
 corrading
 cogweel
 corral
+chetrums
 cuddy
 corralled
 corralling
