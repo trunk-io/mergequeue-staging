@@ -5332,7 +5332,6 @@ behinder
 behindhand
 behinds
 behindsight
-behint
 blossomed
 bemolt
 behypocrite
@@ -13836,6 +13835,7 @@ boxty
 boxtops
 bigheaded
 boxtree
+behint
 boxwood
 boxwoods
 bolsters
