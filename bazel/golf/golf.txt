@@ -3027,7 +3027,6 @@ gravies
 ggr
 greathead
 geochronologic
-geochronological
 grizzler
 geochronologically
 gainings
@@ -9517,6 +9516,7 @@ gush
 germina
 gilts
 gulosities
+geochronological
 gamogenetically
 groveler
 gelechia
