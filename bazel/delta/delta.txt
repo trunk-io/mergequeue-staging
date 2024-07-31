@@ -9893,7 +9893,6 @@ diluents
 dilutant
 dilute
 defeatists
-diptote
 dilutee
 danke
 dilutely
@@ -17435,6 +17434,7 @@ data
 drosograph
 decocting
 drosophila
+diptote
 drosophilae
 drosophilas
 diduced
