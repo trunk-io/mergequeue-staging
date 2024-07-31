@@ -3323,6 +3323,7 @@ embargo
 embargoed
 elevations
 embargoist
+epigonic
 embarkations
 eyeopener
 embarked
@@ -7874,7 +7875,6 @@ epigone
 emendately
 erasability
 epigoni
-epigonic
 egriot
 epigonichthys
 epigonism
