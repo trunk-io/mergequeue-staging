@@ -7613,7 +7613,6 @@ expounders
 ecu
 endogamic
 epexegetic
-epichoric
 epichoristic
 epicycles
 enchiriridia
@@ -9118,6 +9117,7 @@ erythraeidae
 energetic
 electro
 erythrean
+epichoric
 erythremia
 erythrina
 erythrinidae
