@@ -9043,7 +9043,6 @@ allusion
 allusions
 allusive
 acacatechol
-allusively
 allusiveness
 allusory
 archicontinent
@@ -14526,6 +14525,7 @@ anthracotic
 anthradiquinone
 anthrahydroquinone
 asclepidin
+allusively
 anthralin
 anthramin
 adipinic
