@@ -1098,7 +1098,6 @@ glyptotherium
 grawls
 gastroparietal
 gasted
-ganglioneure
 gossipee
 gateway
 gorbal
@@ -10441,6 +10440,7 @@ gummoses
 glabrousness
 gerontoxon
 gummosis
+ganglioneure
 galbulus
 greedyguts
 greenbacker
