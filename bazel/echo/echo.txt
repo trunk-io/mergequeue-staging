@@ -1060,7 +1060,6 @@ edgemaking
 editor
 edgeman
 edger
-eradicant
 edges
 edgeshot
 edgestone
@@ -2075,6 +2074,7 @@ eightball
 elaioplast
 elephantous
 elamite
+eradicant
 elamitish
 elan
 elands
