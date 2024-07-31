@@ -9405,7 +9405,6 @@ eruptible
 erupting
 elementaloid
 ekphore
-eruption
 eruptive
 exomion
 escopette
@@ -10083,6 +10082,7 @@ ester
 estradiol
 expositions
 epichristian
+eruption
 externation
 electrovalency
 estrado
