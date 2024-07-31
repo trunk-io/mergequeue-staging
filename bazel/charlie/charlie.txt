@@ -2624,7 +2624,6 @@ cannonade
 columbiad
 cannonades
 cannonarchy
-cannonballed
 cannonballing
 cannonballs
 cannoned
@@ -28180,6 +28179,7 @@ craniopathy
 craniopathic
 craniopharyngeal
 craniophore
+cannonballed
 colorableness
 cranioplasty
 craniopuncture
