@@ -672,6 +672,7 @@ geoglyphic
 gallnut
 gallnuts
 gizzen
+greggle
 goatsbeard
 grooverhead
 granularity
@@ -5062,7 +5063,6 @@ gjetost
 galega
 graphitized
 gomorrhean
-greggle
 glabella
 galloflavine
 gelatinousness
