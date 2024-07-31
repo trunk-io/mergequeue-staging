@@ -2637,6 +2637,7 @@ barytones
 byres
 barytons
 barytophyllite
+bowsprit
 basalia
 barkan
 bagheli
@@ -17025,7 +17026,6 @@ bulldogism
 bulldozers
 bulldozes
 borasque
-bowsprit
 bulldust
 buller
 bullescene
