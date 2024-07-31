@@ -8210,6 +8210,7 @@ battle
 biflecnode
 bandspreading
 broil
+brachyglossal
 braze
 biflected
 biflex
@@ -13955,7 +13956,6 @@ bacteriophage
 brachydont
 bjorne
 barricade
-brachyglossal
 brachygnathia
 bainite
 bianchite
