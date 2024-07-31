@@ -4971,6 +4971,7 @@ fdub
 flashlamp
 flashlight
 flusteration
+fierte
 frontwards
 figurines
 forellenstein
@@ -8245,7 +8246,6 @@ flashtube
 forkiest
 forkiness
 forkless
-fierte
 forklifts
 forkman
 foregone
