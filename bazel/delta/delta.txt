@@ -1792,7 +1792,6 @@ denyer
 down
 darklings
 dowsers
-debeak
 doit
 deviancies
 defrosts
@@ -8926,6 +8925,7 @@ dicasteries
 diadochite
 dicasts
 diccon
+debeak
 dice
 decolor
 disillusionising
