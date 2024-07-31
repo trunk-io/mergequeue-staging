@@ -3029,6 +3029,7 @@ archaised
 acrostichum
 acrosticism
 acrostolia
+agranulocyte
 asarh
 acrostolion
 acrostolium
@@ -6431,7 +6432,6 @@ agrammatica
 agrammatism
 agrammatologia
 agrania
-agranulocyte
 agranulocytosis
 agranuloplastic
 agrapha
