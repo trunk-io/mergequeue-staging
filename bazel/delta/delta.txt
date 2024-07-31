@@ -1309,7 +1309,6 @@ depicts
 detonators
 daughterhood
 daughterkin
-daughterless
 disarrest
 daughterly
 discommodities
@@ -14781,6 +14780,7 @@ delime
 demobilise
 diamondizing
 desulfurise
+daughterless
 dollishness
 desolates
 doctrinalism
