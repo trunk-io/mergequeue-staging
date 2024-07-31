@@ -7626,7 +7626,6 @@ diglyphic
 devex
 diaphanie
 devexity
-deathify
 devi
 dilluer
 deviability
@@ -16674,6 +16673,7 @@ doodia
 drags
 dragsaw
 dragsmen
+deathify
 dragster
 drahthaar
 danger
