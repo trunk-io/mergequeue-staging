@@ -7994,7 +7994,6 @@ alf
 alfa
 allotters
 alfaje
-alfaki
 alfakis
 alfalfas
 alfaqui
@@ -15683,6 +15682,7 @@ antimonite
 antimonium
 aus
 antimoniuretted
+alfaki
 antimonopoly
 antimonopolist
 apiculation
