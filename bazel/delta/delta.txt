@@ -5909,7 +5909,6 @@ diphonia
 depravities
 deprecated
 digressional
-dm
 deprecates
 deprecations
 disconcert
@@ -15728,6 +15727,7 @@ dorad
 doradidae
 dorado
 doralium
+dm
 dorask
 decardinalize
 descantist
