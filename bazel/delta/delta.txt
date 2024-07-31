@@ -5524,6 +5524,7 @@ deodorization
 deodorize
 deodorized
 deodorizer
+deviation
 deodorizes
 deodorizing
 depletion
@@ -7639,7 +7640,6 @@ defalcate
 deviate
 drollishness
 deviating
-deviation
 deviatory
 docimasia
 deys
