@@ -16604,7 +16604,6 @@ corozo
 chetif
 coincidental
 clodhead
-calcspars
 clodhopper
 clodhoppers
 clodhopping
@@ -28220,6 +28219,7 @@ copperplate
 cranking
 cupless
 crankish
+calcspars
 crankle
 crankled
 crankles
