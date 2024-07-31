@@ -8516,7 +8516,6 @@ appointed
 acone
 alkylene
 aggros
-alkylic
 alkylidene
 alkylogen
 angeyok
@@ -21098,6 +21097,7 @@ ascriptitious
 amgarn
 ascula
 ascupart
+alkylic
 animadverting
 autolysin
 ascus
