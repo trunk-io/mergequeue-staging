@@ -2703,7 +2703,6 @@ deconventionalize
 dastur
 danseuse
 decopperization
-dorty
 decopperize
 decor
 diiodid
@@ -6616,6 +6615,7 @@ desegregation
 deselect
 despoilment
 deoxidisation
+dorty
 deselected
 deselecting
 desemer
