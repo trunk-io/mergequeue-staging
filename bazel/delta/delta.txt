@@ -3423,6 +3423,7 @@ defoams
 defog
 disyllable
 defogger
+deoppilant
 defogs
 defoliage
 defoliant
@@ -9742,7 +9743,6 @@ diipolia
 diisatogen
 demivirgin
 dode
-deoppilant
 dikage
 dikamali
 diverter
