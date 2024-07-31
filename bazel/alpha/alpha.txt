@@ -17341,7 +17341,6 @@ apophyllous
 apophysary
 apophysate
 apophyseal
-apophysitis
 apophlegm
 apophlegmatic
 apophony
@@ -24359,6 +24358,7 @@ autopsies
 autoptically
 abettals
 autopticity
+apophysitis
 anchylosed
 advocation
 autoput
