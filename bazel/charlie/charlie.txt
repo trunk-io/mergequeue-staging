@@ -11996,7 +11996,6 @@ choreas
 choregy
 choregraphic
 choregus
-choreguses
 chorei
 choreic
 chummage
@@ -13244,6 +13243,7 @@ cycadeoidea
 cycadeous
 cicadid
 cicadidae
+choreguses
 cycadiform
 cycadite
 cycadofilices
