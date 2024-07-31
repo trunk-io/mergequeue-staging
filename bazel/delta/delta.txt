@@ -4600,7 +4600,6 @@ demilitarisation
 demilitarise
 demilitarised
 demilitarising
-demilitarized
 demilitarizes
 demilitarizing
 devastated
@@ -4860,6 +4859,7 @@ discountenances
 demonises
 damnatory
 demonish
+demilitarized
 deprecating
 dons
 daughterling
