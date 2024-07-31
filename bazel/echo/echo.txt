@@ -5681,7 +5681,6 @@ emblazonment
 engendering
 engendrure
 engerminate
-enterclose
 evaporable
 elsewise
 engilded
@@ -9650,6 +9649,7 @@ eslabon
 exormia
 eslisor
 esloign
+enterclose
 entreat
 embellishers
 existentially
