@@ -7511,7 +7511,6 @@ forechoose
 froufrou
 forepast
 foretooth
-foreclaw
 foreclosable
 foreclose
 felonsetter
@@ -11680,6 +11679,7 @@ flying
 frenziedness
 filicologist
 fute
+foreclaw
 faithed
 forespeed
 foreshowing
