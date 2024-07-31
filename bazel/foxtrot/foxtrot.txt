@@ -4837,7 +4837,6 @@ firkin
 fantaseid
 flamless
 fascism
-flammable
 flammant
 flouncey
 flammeous
@@ -8705,6 +8704,7 @@ fluidizing
 fetishes
 futurists
 furriner
+flammable
 flamingant
 fictions
 forwardsearch
