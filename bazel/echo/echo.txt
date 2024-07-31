@@ -4632,7 +4632,6 @@ enchest
 enchilada
 enchylema
 eburneous
-extramedullary
 embroiling
 epicyclic
 endogens
@@ -13038,6 +13037,7 @@ ephemeralities
 expellees
 expeller
 evicting
+extramedullary
 efficacious
 expelling
 eoliths
