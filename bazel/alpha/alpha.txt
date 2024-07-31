@@ -9748,7 +9748,6 @@ amalgamators
 amphithyra
 amalgamist
 aristotelism
-amalgamize
 amalgams
 amalic
 angia
@@ -24615,6 +24614,7 @@ albumenizer
 ariled
 avatar
 avatars
+amalgamize
 avaunt
 avdp
 avellan
