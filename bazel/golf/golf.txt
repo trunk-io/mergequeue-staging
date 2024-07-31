@@ -1993,7 +1993,6 @@ gaunter
 gauntest
 grimaces
 gauntleted
-gauntleting
 gauntlets
 gauntness
 gaur
@@ -4867,6 +4866,7 @@ girned
 gathering
 grotesquely
 grandmotherly
+gauntleting
 gyrencephalous
 gyrocar
 grips
