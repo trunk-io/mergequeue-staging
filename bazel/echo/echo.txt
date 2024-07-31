@@ -7130,7 +7130,6 @@ electrophotomicrography
 enureses
 endball
 enuresises
-env
 envaye
 envapor
 envassal
@@ -10361,6 +10360,7 @@ eclogues
 ethylenation
 epistolographer
 ethylenimine
+env
 earshots
 ethylenoid
 extrication
