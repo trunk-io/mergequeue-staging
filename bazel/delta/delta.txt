@@ -5066,7 +5066,6 @@ denaturiser
 denaturising
 denaturized
 disabled
-denaturizer
 denaturizing
 denazification
 denazifying
@@ -11942,6 +11941,7 @@ dischargers
 diselenid
 dihybrids
 diselenide
+denaturizer
 diluvialist
 dustrags
 desensitize
