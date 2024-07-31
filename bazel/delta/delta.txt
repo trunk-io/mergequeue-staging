@@ -3197,7 +3197,6 @@ defences
 defencive
 daguerreotyping
 defend
-defendant
 defendants
 deeper
 defender
@@ -11756,6 +11755,7 @@ dicephalus
 discovered
 discoverer
 discoverers
+defendant
 dravida
 discovers
 dispose
