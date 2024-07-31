@@ -2375,7 +2375,6 @@ cruelize
 candite
 candytuft
 candyweed
-candle
 conventionary
 coehorn
 convertend
@@ -14751,6 +14750,7 @@ cystocolostomy
 cribrose
 cystodynia
 clinging
+candle
 cystoelytroplasty
 cystoepiplocele
 cystoepithelioma
