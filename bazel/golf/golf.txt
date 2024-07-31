@@ -8168,6 +8168,7 @@ guess
 gumshoeing
 gilbertite
 grapeline
+gripsacks
 grapery
 graperies
 grintern
@@ -9151,7 +9152,6 @@ glycans
 gunnysack
 ging
 grumbled
-gripsacks
 gaunt
 geochronic
 genipaps
