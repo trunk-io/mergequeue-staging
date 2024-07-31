@@ -2031,7 +2031,6 @@ gavages
 gave
 glaciologist
 geographer
-gilia
 grenade
 gluon
 glucosin
@@ -3258,6 +3257,7 @@ gangway
 grandfatherless
 geophone
 groundskeeping
+gilia
 gantlet
 geophones
 geoplana
