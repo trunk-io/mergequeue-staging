@@ -11501,7 +11501,6 @@ buccinae
 bn
 bland
 biscuit
-bifold
 bnf
 berylline
 boaedon
@@ -12129,6 +12128,7 @@ boloed
 bologna
 bolognas
 bolognese
+bifold
 bolography
 becrusts
 bolographic
