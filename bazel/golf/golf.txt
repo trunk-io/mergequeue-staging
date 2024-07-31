@@ -3338,6 +3338,7 @@ goatweed
 ganglands
 geotactic
 goons
+gemotes
 geotactically
 geotaxy
 gulches
@@ -7857,7 +7858,6 @@ ghostism
 gallophile
 graminiferous
 ghostwrites
-gemotes
 gurries
 goodbyes
 great
