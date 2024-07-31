@@ -5505,7 +5505,6 @@ belaying
 belays
 buggery
 belait
-biface
 belam
 bandelet
 belander
@@ -12018,6 +12017,7 @@ bks
 bedesmen
 boithrin
 bojite
+biface
 bojo
 brigantia
 bromaurate
