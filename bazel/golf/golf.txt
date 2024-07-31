@@ -2145,7 +2145,6 @@ gauzewing
 gyring
 gazer
 gormaw
-gazes
 gruel
 gulden
 gazetteerage
@@ -5615,6 +5614,7 @@ grandaunt
 gullishness
 greenbug
 grabouche
+gazes
 geocentricism
 gentlemanship
 gabionage
