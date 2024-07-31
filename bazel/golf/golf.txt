@@ -3183,7 +3183,6 @@ gau
 geratologous
 geomancer
 geomancy
-grandmotherhood
 geomancies
 geomant
 geomantically
@@ -4661,6 +4660,7 @@ gip
 gyp
 gypaetus
 gripers
+grandmotherhood
 gype
 gala
 gauls
