@@ -6554,6 +6554,7 @@ cebine
 ceboid
 ceboids
 cebollite
+conductimeter
 cebur
 comprador
 chitosans
@@ -31715,7 +31716,6 @@ custerite
 custode
 custodee
 custodes
-conductimeter
 cumidin
 custody
 custodia
