@@ -235,7 +235,6 @@ fathership
 funest
 fadednyess
 forswornness
-feuillants
 fader
 faders
 febrific
@@ -11417,6 +11416,7 @@ folksay
 fica
 famuli
 factions
+feuillants
 foremasthand
 flavorings
 featherpated
