@@ -8497,7 +8497,6 @@ chambul
 chamecephaly
 chamecephalic
 chamecephalous
-chamecephalus
 chameleon
 chameleonic
 conifers
@@ -22997,6 +22996,7 @@ characterical
 cryptozygy
 cuscuses
 cardcastle
+chamecephalus
 conservatist
 conservative
 cardel
