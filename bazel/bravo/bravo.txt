@@ -644,7 +644,6 @@ backwashes
 backwashing
 bible
 backwatered
-backwaters
 brownprint
 backwind
 backwinded
@@ -12342,6 +12341,7 @@ buisson
 bonasus
 bonaught
 bonaveria
+backwaters
 bonity
 bismuthate
 bonavist
