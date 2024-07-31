@@ -5376,6 +5376,7 @@ donnees
 doornail
 denticete
 denticeti
+decolorised
 denticles
 denticulate
 denticulated
@@ -6809,7 +6810,6 @@ desmatippus
 desmectasia
 desmepithelium
 declarant
-decolorised
 depurition
 draperied
 dauw
