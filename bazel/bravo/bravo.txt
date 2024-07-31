@@ -1366,7 +1366,6 @@ balau
 barographic
 balausta
 burnishes
-balaustine
 balawa
 balawu
 balboa
@@ -8617,6 +8616,7 @@ bedoctor
 basidiomycetes
 besague
 boletaceae
+balaustine
 benzophosphinic
 billow
 bromizing
