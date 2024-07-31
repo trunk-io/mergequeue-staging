@@ -5384,6 +5384,7 @@ denticles
 denticulate
 denticulated
 durability
+diacritic
 denticule
 detectible
 dentiferous
@@ -11508,7 +11509,6 @@ disdainful
 discolorization
 discolors
 dure
-diacritic
 dummerer
 discolour
 dudler
