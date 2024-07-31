@@ -837,6 +837,7 @@ ectype
 ecrase
 ectypes
 enteropathogenic
+exobasidiales
 ectoblast
 episodal
 ectoblastic
@@ -1905,7 +1906,6 @@ eightsman
 emma
 eria
 examined
-exobasidiales
 evertor
 eightvo
 eying
