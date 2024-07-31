@@ -8163,6 +8163,7 @@ bierkeller
 byerlite
 bierstube
 bierstuben
+bungo
 bietle
 byeworker
 benefaction
@@ -14198,7 +14199,6 @@ bacteriophagous
 bedraggled
 bunn
 braggle
-bungo
 bragi
 bragite
 bragless
