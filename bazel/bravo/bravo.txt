@@ -6082,7 +6082,6 @@ beneficiary
 beneficiaries
 beneficiaryship
 beneficiate
-beneficiated
 beneficiating
 backstairs
 beneficiation
@@ -18128,6 +18127,7 @@ boma
 briscola
 butanols
 butanone
+beneficiated
 boycotting
 butcha
 birodo

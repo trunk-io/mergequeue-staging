@@ -965,6 +965,7 @@ etruscan
 exodromy
 ectromelus
 equisided
+electrolytic
 enforcement
 ectropionize
 ectropium
@@ -2453,7 +2454,6 @@ electrolysing
 electrolyte
 epipsychidion
 electrolithotrity
-electrolytic
 electrolytical
 electrolytically
 electrolyzability
