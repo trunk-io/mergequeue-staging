@@ -12282,7 +12282,6 @@ exect
 exocrinology
 executant
 execute
-electrogenic
 executed
 executing
 excavationist
@@ -12646,6 +12645,7 @@ exocardiac
 extracardial
 entwinement
 endurable
+electrogenic
 epigonos
 explorable
 exhumating
