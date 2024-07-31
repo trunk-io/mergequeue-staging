@@ -9626,6 +9626,7 @@ construct
 checksummed
 coffin
 cruisers
+cosmical
 checksumming
 checkup
 checkups
@@ -11772,7 +11773,6 @@ chondri
 copiopsia
 chondria
 chondric
-cosmical
 chondrification
 cinematographers
 chondrified
