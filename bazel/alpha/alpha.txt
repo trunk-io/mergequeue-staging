@@ -4725,7 +4725,6 @@ adzer
 adzes
 aerophone
 ae
-aeacides
 aeacus
 aeaean
 aechmophorus
@@ -21895,6 +21894,7 @@ audiovisual
 assoilzie
 assoin
 assonanced
+aeacides
 assonances
 assonant
 assonantal
