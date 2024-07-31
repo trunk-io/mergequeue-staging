@@ -1827,7 +1827,6 @@ balustrades
 balwarra
 blockheads
 balzacian
-balzarine
 bam
 bodrag
 beckett
@@ -4233,6 +4232,7 @@ beaux
 beaver
 beaverette
 bandeaux
+balzarine
 beaverite
 bigeyes
 bipedal
