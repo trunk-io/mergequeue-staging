@@ -6012,7 +6012,6 @@ dimensionless
 deprotestantize
 deducibleness
 depsid
-duckfooted
 depside
 depsides
 depth
@@ -10281,6 +10280,7 @@ dings
 diglot
 decibar
 downthrown
+duckfooted
 dingus
 dinic
 dinical
