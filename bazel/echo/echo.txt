@@ -4372,7 +4372,6 @@ epistolist
 endosomes
 eg
 enamorado
-enamorate
 enigmatized
 enamoring
 embryonated
@@ -10511,6 +10510,7 @@ ethnologer
 elsewhen
 extrascientific
 exsiccate
+enamorate
 epalpate
 evansite
 ethnologist
