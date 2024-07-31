@@ -7643,6 +7643,7 @@ foreground
 furole
 foregrounds
 flammule
+fimetic
 foregut
 fluorinations
 forehall
@@ -8195,7 +8196,6 @@ forgive
 forevermore
 fusains
 faroff
-fimetic
 foxfires
 forgivenesses
 faculae
