@@ -11148,7 +11148,6 @@ disard
 disarm
 disarmature
 disarmer
-disarmers
 disarming
 disarmingly
 discothque
@@ -18511,6 +18510,7 @@ deputizing
 dusenwind
 dush
 dusio
+disarmers
 dusk
 dusken
 determining
