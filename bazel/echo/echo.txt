@@ -1785,7 +1785,6 @@ endodynamomorphic
 eyelast
 eikones
 epicenes
-entalent
 epistylis
 equivocate
 ethane
@@ -6261,6 +6260,7 @@ enrange
 enrapt
 enrapted
 enrapting
+entalent
 entertainingly
 embossmen
 enrapturedly
