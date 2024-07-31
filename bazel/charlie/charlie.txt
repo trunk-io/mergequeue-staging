@@ -5799,7 +5799,6 @@ catechumenically
 catechumenism
 consubsist
 chaetiferous
-cochleated
 crucis
 catechus
 catechutannic
@@ -31215,6 +31214,7 @@ curacoa
 curacoas
 curage
 curagh
+cochleated
 curaghs
 curara
 curaras
