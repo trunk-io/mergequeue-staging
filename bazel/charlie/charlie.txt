@@ -4755,7 +4755,6 @@ carryons
 caricaturist
 cypre
 carryout
-carryouts
 canadianisms
 carryover
 cloverleaves
@@ -18324,6 +18323,7 @@ coffeetime
 coffeewood
 cheeser
 charted
+carryouts
 cofferdam
 cofferdams
 coffered
