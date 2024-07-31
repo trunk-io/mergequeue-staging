@@ -678,7 +678,6 @@ empurpled
 ensaint
 eclogite
 eclogue
-eclogues
 entomoid
 evaluating
 ecmnesia
@@ -10359,6 +10358,7 @@ emmetrope
 endopleurite
 eating
 ethylbenzene
+eclogues
 ethylenation
 epistolographer
 ethylenimine
