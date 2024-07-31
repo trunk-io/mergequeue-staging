@@ -496,6 +496,7 @@ backsaws
 backscatter
 blintzes
 boldos
+blots
 backscattered
 butylene
 backscattering
@@ -11160,7 +11161,6 @@ blote
 brancard
 butadiene
 blotless
-blots
 blotters
 blottesque
 blotty
