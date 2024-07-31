@@ -4822,6 +4822,7 @@ alkyds
 antiaesthetic
 autotoxicity
 automats
+alkyloxy
 aeluroid
 aeluroidea
 aelurophobe
@@ -8522,7 +8523,6 @@ alkylidene
 alkylogen
 angeyok
 alkylol
-alkyloxy
 amianthium
 alkin
 alkitran
