@@ -16927,7 +16927,6 @@ aphorizes
 aphorizing
 aphoruridae
 aphotic
-aphototactic
 aphototropic
 aphototropism
 aphrasia
@@ -17790,6 +17789,7 @@ appliance
 accommodation
 aphyllose
 alcaydes
+aphototactic
 applicabilities
 applicable
 arboricultural
