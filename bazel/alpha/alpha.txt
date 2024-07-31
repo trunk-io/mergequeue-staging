@@ -1338,7 +1338,6 @@ acanthocereus
 acanthodea
 acanthodean
 acct
-acanthodes
 acanthodian
 acanthodidae
 acanthodini
@@ -19161,6 +19160,7 @@ archseducer
 archsewer
 archshepherd
 archsynagogue
+acanthodes
 archspy
 archikaryon
 archspirit
