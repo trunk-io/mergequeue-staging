@@ -2899,6 +2899,7 @@ cantrips
 coveting
 combre
 clacking
+crandallite
 cantus
 cantut
 cantuta
@@ -28119,7 +28120,6 @@ cranched
 cranches
 cinematize
 crandall
-crandallite
 cranebill
 craned
 craney
