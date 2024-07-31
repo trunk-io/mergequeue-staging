@@ -4945,7 +4945,6 @@ carvings
 chloroaurite
 carvoeira
 colmars
-canceled
 carvoepra
 chinhwan
 carvone
@@ -30765,6 +30764,7 @@ classifiable
 culicids
 culicifugal
 czarian
+canceled
 culicinae
 culicine
 culicines
