@@ -22164,7 +22164,6 @@ conflagrations
 cosmosphere
 conflagrator
 conflagratory
-conflate
 conflates
 conflating
 chevisance
@@ -29884,6 +29883,7 @@ crossbolted
 crossbones
 crossbow
 crossbows
+conflate
 crossbreds
 crossbreed
 crossbreeding
