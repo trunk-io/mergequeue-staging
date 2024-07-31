@@ -5800,7 +5800,6 @@ depolarizes
 depolymerization
 displeasurably
 depolymerize
-depolymerized
 dethroned
 distributive
 depiction
@@ -12906,6 +12905,7 @@ dysoxidizable
 disoxygenate
 disoxygenation
 disozonize
+depolymerized
 dissue
 dispansive
 darneder
