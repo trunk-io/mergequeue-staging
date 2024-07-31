@@ -2152,7 +2152,6 @@ camuses
 camwood
 can
 canaan
-cycadlike
 chub
 canaanites
 convolve
@@ -17302,6 +17301,7 @@ coalescent
 coalesces
 coalescing
 cooees
+cycadlike
 coalfishes
 coalfitter
 coalheugh

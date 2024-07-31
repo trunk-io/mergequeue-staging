@@ -931,7 +931,6 @@ ectoretina
 ermit
 eleve
 ectorganism
-ectorhinal
 ectosarc
 ectoskeleton
 ectosomal
@@ -12860,6 +12859,7 @@ epidia
 edgeweed
 equilibrated
 endocrania
+ectorhinal
 exothermal
 exothermic
 exothermous
