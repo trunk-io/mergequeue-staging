@@ -8842,7 +8842,6 @@ chaperonage
 chaperone
 curney
 chaperoned
-chaperonless
 chaperons
 chapes
 cobaltite
@@ -29858,6 +29857,7 @@ crosiers
 camata
 croslet
 crosne
+chaperonless
 confirmedly
 calcar
 cystoflagellate
