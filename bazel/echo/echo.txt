@@ -2041,7 +2041,6 @@ elabrate
 elachistaceae
 encodes
 elaeis
-elaeoblastic
 effluvias
 exotery
 elaeocarpaceae
@@ -2216,6 +2215,7 @@ ensurer
 elderwomen
 expenditrix
 elderwood
+elaeoblastic
 enginemen
 elderwort
 eldfather
