@@ -2829,7 +2829,6 @@ foglietto
 funambulator
 feudovassalism
 flittern
-feuillage
 francs
 feuille
 flamandize
@@ -8292,6 +8291,7 @@ fishbowls
 forma
 formalazine
 frankheartness
+feuillage
 froufrous
 fifth
 feltwort
