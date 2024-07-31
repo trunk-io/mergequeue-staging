@@ -6618,7 +6618,6 @@ eudaemonism
 enterogastritis
 enterogastrone
 enterogenous
-enterogram
 enterography
 escarped
 emanative
@@ -11320,6 +11319,7 @@ expiators
 enormous
 evaluative
 eyebeams
+enterogram
 entailer
 electrocardiography
 epicrasis
