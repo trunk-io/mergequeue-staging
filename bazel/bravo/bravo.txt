@@ -6240,6 +6240,7 @@ bloodroot
 bentiness
 benting
 bentlet
+braziers
 bentonite
 bumpoff
 bentonitic
@@ -8641,7 +8642,6 @@ bilobed
 bilobiate
 boltmaking
 bransle
-braziers
 banneret
 bilocation
 biennales
