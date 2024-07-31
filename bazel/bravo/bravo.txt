@@ -6452,6 +6452,7 @@ bounden
 birler
 benzpyrene
 borinqueno
+blowguns
 blacksmithing
 blomstrandine
 bruskest
@@ -11221,7 +11222,6 @@ blowfly
 blowflies
 blowgun
 brunette
-blowguns
 brombenzene
 bodiced
 blowhard
