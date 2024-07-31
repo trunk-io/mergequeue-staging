@@ -5623,7 +5623,6 @@ delocalization
 departure
 depas
 descries
-depass
 delphinoid
 defigure
 disrepute
@@ -6847,6 +6846,7 @@ desmopathology
 devot
 departisanize
 desmopelmous
+depass
 desmopexia
 desmopyknosis
 desmoscolex
