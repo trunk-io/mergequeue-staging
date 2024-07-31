@@ -4557,7 +4557,6 @@ bede
 batrachoid
 bro
 bedeaf
-bedeafened
 bowtell
 bedeafening
 believably
@@ -15848,6 +15847,7 @@ beehead
 bromoketone
 bangalay
 bromomania
+bedeafened
 backhandedness
 bromomethane
 bromometry
