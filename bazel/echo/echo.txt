@@ -557,6 +557,7 @@ echinocereus
 echinochrome
 echinococcosis
 echinococcus
+ephemerides
 empiristic
 echinoderidae
 echinoderma
@@ -7474,7 +7475,6 @@ etrier
 epoptist
 earnings
 ephemeridae
-ephemerides
 ephemeris
 endshake
 ephemerist
