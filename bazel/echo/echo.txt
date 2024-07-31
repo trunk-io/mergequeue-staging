@@ -8788,7 +8788,6 @@ encharm
 equisetaceae
 episode
 equisetales
-equisetic
 echinital
 equisignal
 equisized
@@ -9358,6 +9357,7 @@ exophoria
 errordump
 errorful
 electrothermally
+equisetic
 ebriosity
 endocrinology
 errors
