@@ -1456,6 +1456,7 @@ balestra
 balete
 balewort
 browband
+benzoperoxide
 battening
 balibuntal
 balibuntl
@@ -6388,7 +6389,6 @@ bedded
 benzonitrile
 byssoid
 bluebuck
-benzoperoxide
 benzophenazine
 buffos
 benzophenone
