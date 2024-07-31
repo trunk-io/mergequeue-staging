@@ -5674,7 +5674,6 @@ daunders
 deperms
 depersonalise
 depersonalising
-demodulator
 depersonalization
 depersonalized
 desensitized
@@ -7196,6 +7195,7 @@ detainable
 detainal
 dumbledore
 docudramas
+demodulator
 dipsomaniac
 disequalizer
 detained
