@@ -9430,7 +9430,6 @@ affied
 alterability
 alterable
 abruptio
-annunciation
 amblygon
 alterably
 alterant
@@ -16658,6 +16657,7 @@ acrologue
 apachite
 arist
 apardon
+annunciation
 achterveld
 apadana
 apaesthetize
