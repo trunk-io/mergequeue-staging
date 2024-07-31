@@ -15166,7 +15166,6 @@ cathine
 convalescency
 civiler
 civilest
-coopts
 civilianization
 civilianize
 civilians
@@ -30390,6 +30389,7 @@ csect
 csk
 comicotragedy
 csmp
+coopts
 congees
 cst
 csw
