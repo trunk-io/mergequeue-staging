@@ -11307,6 +11307,7 @@ enfranchise
 evaluate
 evaluates
 edgrow
+euryscope
 evaluation
 evaluations
 expiators
@@ -13424,7 +13425,6 @@ expurgated
 eggnog
 ethylenediamine
 expurgational
-euryscope
 espriella
 edeomania
 expurgator
