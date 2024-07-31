@@ -2109,7 +2109,6 @@ facette
 fates
 floribunda
 felonies
-finmark
 felonious
 feloniously
 feloniousness
@@ -6181,6 +6180,7 @@ fluer
 fideists
 flueric
 fissileness
+finmark
 flowers
 febrifuges
 fluerics
