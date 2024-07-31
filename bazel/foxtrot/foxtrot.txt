@@ -2872,6 +2872,7 @@ fratority
 feverweed
 feverwort
 few
+fany
 finings
 frontpiece
 fogle
@@ -3743,7 +3744,6 @@ feyest
 forspoke
 ferash
 firebases
-fany
 feudalize
 fowlings
 fig
