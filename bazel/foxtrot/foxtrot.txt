@@ -1607,7 +1607,6 @@ favosites
 fenberry
 fungin
 favositidae
-favositoid
 fpm
 folio
 fertilizer
@@ -2228,6 +2227,7 @@ filename
 flavored
 fencer
 forehill
+favositoid
 furfures
 followers
 fluorspar
