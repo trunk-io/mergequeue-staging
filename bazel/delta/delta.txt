@@ -5246,7 +5246,6 @@ dhows
 denominationalist
 deutomala
 denominative
-denominators
 dipolarization
 denormalized
 denotate
@@ -8166,6 +8165,7 @@ diabolo
 deaconess
 diabological
 diabolology
+denominators
 diabolonian
 diabolos
 deadrize
