@@ -4208,6 +4208,7 @@ admonishments
 admonition
 antibody
 atomizers
+allographic
 admonitioner
 admonitionist
 admonitive
@@ -8853,7 +8854,6 @@ allogeneous
 allogenic
 allogenically
 allograph
-allographic
 alloy
 actinide
 alloyed
