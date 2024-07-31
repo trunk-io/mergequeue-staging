@@ -4027,6 +4027,7 @@ empanel
 enkolpia
 exies
 empaneling
+erugo
 empanelled
 empanelling
 empannel
@@ -9387,7 +9388,6 @@ enfin
 erugation
 eruginous
 extricably
-erugo
 erugos
 erupt
 erupted
