@@ -6454,6 +6454,7 @@ blowguns
 blacksmithing
 blomstrandine
 bruskest
+broomtail
 barbermonger
 bepainted
 befoulier
@@ -16073,7 +16074,6 @@ brooms
 broomshank
 broomsticks
 broomstraw
-broomtail
 biolytic
 banning
 blissfulness
