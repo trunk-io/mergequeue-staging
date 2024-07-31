@@ -3713,7 +3713,6 @@ baldly
 ballyrag
 battlefields
 battlefront
-battlefronts
 battleful
 battlegrounds
 battlement
@@ -10384,6 +10383,7 @@ blastemal
 blastemas
 barnyards
 blastemata
+battlefronts
 blastematic
 blithely
 blastemic
