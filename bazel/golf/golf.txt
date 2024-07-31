@@ -882,6 +882,7 @@ gamekeeping
 gamelans
 gedecktwork
 girnel
+gerents
 genesitic
 gameless
 gathers
@@ -9704,7 +9705,6 @@ grun
 grundy
 gpd
 grundified
-gerents
 gentilism
 gnomed
 gynandrian
