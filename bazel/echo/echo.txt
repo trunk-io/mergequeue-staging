@@ -4596,6 +4596,7 @@ enchanter
 extramission
 enchantery
 enchanters
+engrapple
 epineuria
 ejacula
 enchantment
@@ -5803,7 +5804,6 @@ engraphia
 ectrosyndactyly
 engraphic
 exacerbates
-engrapple
 elaterin
 engrasp
 educ
