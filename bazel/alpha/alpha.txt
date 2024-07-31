@@ -250,7 +250,6 @@ abcissa
 anamnesis
 antonymous
 aspersory
-anemochorous
 abd
 abdali
 abdaria
@@ -19540,6 +19539,7 @@ argiopidae
 argiopoidea
 audibleness
 adventureful
+anemochorous
 argyraspides
 amounting
 allophonically
