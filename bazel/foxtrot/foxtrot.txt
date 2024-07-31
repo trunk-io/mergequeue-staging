@@ -375,7 +375,6 @@ foiled
 fairhead
 fizzes
 fairydom
-fairies
 fairyfloss
 fairyish
 fasciolidae
@@ -3618,6 +3617,7 @@ fioretti
 fillister
 fillmass
 fating
+fairies
 flow
 frothy
 fillock
