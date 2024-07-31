@@ -11707,7 +11707,6 @@ evolutoid
 evolvable
 emulgens
 evolve
-electroretinogram
 extraforaneous
 eversive
 etiolin
@@ -13328,6 +13327,7 @@ expostulations
 extemporizing
 expostulator
 erumpent
+electroretinogram
 emotional
 expostulatory
 erythroderma
