@@ -8159,7 +8159,6 @@ bouffancy
 bienseance
 bientt
 bowwoman
-bienvenu
 bienvenue
 banco
 bier
@@ -12701,6 +12700,7 @@ boondocker
 brokerly
 bergamasca
 boondoggle
+bienvenu
 boondoggled
 boondoggler
 bradykinesia
