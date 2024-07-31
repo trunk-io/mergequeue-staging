@@ -2231,7 +2231,6 @@ gecarcinus
 graywall
 gecked
 guardfish
-gaseliers
 gonolobus
 gecko
 geckotid
@@ -8591,6 +8590,7 @@ gangplanks
 grazioso
 gammers
 glasser
+gaseliers
 greably
 gorgonlike
 glomerulose
