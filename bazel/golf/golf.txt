@@ -895,7 +895,6 @@ glyster
 gory
 gocart
 glossopodium
-gonfalonier
 guiro
 gamelotte
 glomeroporphyritic
@@ -1585,6 +1584,7 @@ glaciaria
 gingerous
 garde
 goitrogenic
+gonfalonier
 gantlets
 gutteral
 glyoxim
