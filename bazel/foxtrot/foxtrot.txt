@@ -1269,7 +1269,6 @@ filefish
 fadable
 fraunch
 forayers
-flatlets
 forestology
 fumigate
 foreswore
@@ -2678,6 +2677,7 @@ frogfishes
 festivous
 festology
 famulli
+flatlets
 flowerer
 furloughs
 flatulence
