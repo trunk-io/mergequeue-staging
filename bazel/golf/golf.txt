@@ -200,7 +200,6 @@ grammar
 galling
 gnetales
 gayest
-gaiety
 graspable
 galactolysis
 gayeties
@@ -7995,6 +7994,7 @@ gujar
 grouser
 grainers
 geometridae
+gaiety
 grandmothers
 grandness
 gazement
