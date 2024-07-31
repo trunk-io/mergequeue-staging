@@ -7449,7 +7449,6 @@ cephalotaxus
 cephalotheca
 cephalothecal
 cephalothoraces
-cephalothoracopagus
 cardisophistical
 cephalothorax
 cephalothoraxes
@@ -10842,6 +10841,7 @@ chinchy
 chinchier
 conjugable
 courge
+cephalothoracopagus
 chinchillette
 chinchiness
 chincloth
