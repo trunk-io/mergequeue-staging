@@ -5366,7 +5366,6 @@ dentelle
 dentelliere
 dentello
 delaw
-dentelure
 diplomaed
 demotic
 demicadence
@@ -10073,6 +10072,7 @@ dimmed
 dimmest
 dimmet
 dimmy
+dentelure
 dimmit
 drostden
 dimna

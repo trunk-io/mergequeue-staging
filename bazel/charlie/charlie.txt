@@ -11961,7 +11961,6 @@ chorasmian
 chorda
 corporale
 cedrate
-cubby
 corresol
 chordacentrous
 chordacentrum
@@ -28071,6 +28070,7 @@ crambid
 crambinae
 cramble
 crambly
+cubby
 condottiere
 crambo
 crambos
