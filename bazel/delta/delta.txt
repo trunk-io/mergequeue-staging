@@ -7172,7 +7172,6 @@ detachment
 detailed
 demonized
 droh
-dentagra
 datagrams
 detailedly
 detailedness
@@ -14290,6 +14289,7 @@ divagated
 divagates
 disillude
 divagation
+dentagra
 diplois
 divagationally
 divagations
