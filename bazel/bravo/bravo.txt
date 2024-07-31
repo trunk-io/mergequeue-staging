@@ -3019,7 +3019,6 @@ bartending
 bartends
 brothers
 barter
-barterers
 barters
 barth
 barthite
@@ -7504,6 +7503,7 @@ beweeps
 bastardize
 babblers
 brahmana
+barterers
 brisker
 bewend
 bedstraws
