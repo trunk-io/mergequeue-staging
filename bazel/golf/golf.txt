@@ -1725,6 +1725,7 @@ gingelly
 gastroduodenostomies
 granophyric
 gastroduodenotomy
+gluconeogenesis
 gastroenteric
 glutin
 graceless
@@ -7539,7 +7540,6 @@ goutiness
 girgasite
 goutweed
 galactia
-gluconeogenesis
 griffs
 gallwort
 glomus
