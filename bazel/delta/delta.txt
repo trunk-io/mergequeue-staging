@@ -3366,6 +3366,7 @@ deflations
 deflator
 deflators
 deflea
+deflorations
 defleaed
 distributiveness
 defleas
@@ -3402,7 +3403,6 @@ deflocculator
 deflocculent
 deflorate
 dormantly
-deflorations
 desmarestia
 deflore
 deflorescence
