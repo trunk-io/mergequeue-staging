@@ -1490,6 +1490,7 @@ demurrable
 deaconhood
 disform
 deaconing
+diavolo
 deaconries
 deacons
 deactivated
@@ -8792,7 +8793,6 @@ diaulic
 dinkly
 deploring
 diaulos
-diavolo
 diaxon
 deteriorated
 diaxone
