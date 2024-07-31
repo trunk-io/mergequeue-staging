@@ -2478,6 +2478,7 @@ ferrihydrocyanic
 flumdiddle
 ferrimagnet
 forewing
+flipperling
 footbath
 ferrimagnetism
 ferryman
@@ -5600,7 +5601,6 @@ flipped
 flipper
 flippery
 foragement
-flipperling
 faveoli
 fermentive
 fissipalmate
