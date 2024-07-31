@@ -4469,7 +4469,6 @@ carnivority
 cricothyroidean
 carnivorousness
 carnose
-carnosin
 carnosine
 carnosity
 cheers
@@ -17231,6 +17230,7 @@ crankier
 crass
 chapteral
 chiefery
+carnosin
 coadventuring
 coaffirmation
 coafforest
