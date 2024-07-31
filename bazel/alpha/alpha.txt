@@ -8094,7 +8094,6 @@ aglyphodont
 algesimeter
 algesiometer
 acquittance
-algy
 algicides
 affinely
 anargyros
@@ -13685,6 +13684,7 @@ annuitants
 annuity
 ambracan
 annuities
+algy
 annular
 aesthesodic
 arteriolar
