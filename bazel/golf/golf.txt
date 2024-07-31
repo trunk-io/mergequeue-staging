@@ -1962,7 +1962,6 @@ grunting
 geobotany
 gyniolatry
 gloveman
-gaulic
 gaulish
 gingerspice
 gargoylish
@@ -10553,6 +10552,7 @@ gunplays
 gisel
 gluteal
 gunpoint
+gaulic
 gunpoints
 glyptodontidae
 gunpowder
