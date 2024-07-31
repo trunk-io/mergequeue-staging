@@ -17088,7 +17088,6 @@ clutters
 cortices
 cm
 catalecta
-cmdr
 crankness
 chela
 combativeness
@@ -17869,6 +17868,7 @@ coded
 codefendants
 codeias
 codeinas
+cmdr
 codeine
 codeins
 chancres
