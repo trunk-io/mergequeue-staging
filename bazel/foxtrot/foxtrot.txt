@@ -5819,7 +5819,6 @@ fanam
 floodlit
 facioplegia
 footlessness
-feudary
 fortifiable
 floodways
 fluorinated
@@ -8565,6 +8564,7 @@ fissioning
 flounces
 forswat
 forswear
+feudary
 forswearer
 forswearing
 falterers
