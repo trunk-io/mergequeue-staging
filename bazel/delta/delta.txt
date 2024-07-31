@@ -3884,6 +3884,7 @@ dejectile
 dejecting
 disobeyer
 decider
+derivers
 dejectly
 dejectory
 dejects
@@ -6239,7 +6240,6 @@ disarticulator
 deriver
 dispensatory
 drawcard
-derivers
 deriving
 discoglossid
 derk
