@@ -3575,6 +3575,7 @@ caravanned
 caravanner
 caravanning
 caravans
+case
 caravansary
 caravansaries
 caravanserai
@@ -5019,7 +5020,6 @@ caschrom
 casco
 cascrom
 cascrome
-case
 casearia
 criminals
 casease
