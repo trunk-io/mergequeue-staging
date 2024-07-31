@@ -11619,7 +11619,6 @@ conylene
 cholecystectasia
 cholecystectomy
 cholecystectomized
-cholecystenterorrhaphy
 cholecystenterostomy
 cholecystgastrostomy
 cholecystic
@@ -22945,6 +22944,7 @@ civory
 consentaneousness
 cuvette
 consented
+cholecystenterorrhaphy
 consenter
 cerasin
 cadinene
