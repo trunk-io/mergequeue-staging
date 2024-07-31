@@ -3736,6 +3736,7 @@ glycogenolysis
 gesturist
 gitim
 get
+groundplot
 getable
 getae
 glycolide
@@ -9444,7 +9445,6 @@ glorious
 groundlings
 gervao
 groundneedle
-groundplot
 getah
 givey
 geomorphological
