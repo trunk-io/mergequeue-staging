@@ -42,6 +42,7 @@ fabulous
 facade
 facaded
 footlight
+fattiness
 facebow
 facebread
 farms
@@ -1429,7 +1430,6 @@ filialness
 fattens
 foreset
 fatty
-fattiness
 foraging
 ferromagnetism
 formaliser
