@@ -1471,7 +1471,6 @@ gulfed
 garrigue
 gerated
 garrisoned
-garrisonian
 gunners
 grided
 gleeman
@@ -5858,6 +5857,7 @@ gibblegabble
 glochidian
 greiges
 glochids
+garrisonian
 glockenspiels
 guaranteeship
 gloeosporiose

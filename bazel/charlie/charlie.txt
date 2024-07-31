@@ -8132,7 +8132,6 @@ chaetopod
 chaetopodan
 contemperate
 chaetopterus
-chaetosomatidae
 chaetosomidae
 chaetotactic
 chaetotaxy
@@ -27758,6 +27757,7 @@ cowson
 cowsucker
 cowthwort
 cowtongue
+chaetosomatidae
 cowweed
 cowwheat
 cholecystalgia
