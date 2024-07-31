@@ -12480,7 +12480,6 @@ chemitypies
 chromatioideae
 chromatism
 chromatist
-compares
 chromatium
 chromatize
 chromatogenous
@@ -19121,6 +19120,7 @@ collenchyma
 catsup
 collenchymatic
 collenchymatous
+compares
 caricology
 copular
 cotangent
