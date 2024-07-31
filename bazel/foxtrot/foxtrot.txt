@@ -2574,6 +2574,7 @@ fertilise
 fertilising
 fanfares
 fertility
+fernwort
 filariae
 fertilizability
 fixgig
@@ -11681,7 +11682,6 @@ fute
 faithed
 forespeed
 foreshowing
-fernwort
 futhark
 futhorc
 fluoresage

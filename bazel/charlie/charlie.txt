@@ -5869,7 +5869,6 @@ caterbrawl
 catercap
 catercorner
 catercornered
-catercornerways
 catercousin
 constitutiveness
 catered
@@ -30178,6 +30177,7 @@ cruellest
 cruelly
 cruelness
 cruels
+catercornerways
 cruelty
 copemates
 cruelties
