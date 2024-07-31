@@ -9309,7 +9309,6 @@ biprism
 byproduct
 babelize
 bipropellant
-bipunctate
 bipunctual
 bipupillate
 branles
@@ -9741,6 +9740,7 @@ bijouterie
 bisso
 byssolite
 bisson
+bipunctate
 bissonata
 byssus
 bist
