@@ -11565,7 +11565,6 @@ brunonian
 boatfalls
 boatful
 boathead
-boathook
 boathouses
 batfowl
 boatyard
@@ -12342,6 +12341,7 @@ bonasus
 bonaught
 bonaveria
 backwaters
+boathook
 bonity
 bismuthate
 bonavist
