@@ -5677,7 +5677,6 @@ emblazonment
 engendering
 engendrure
 engerminate
-expalpate
 enterclose
 evaporable
 elsewise
@@ -13299,6 +13298,7 @@ exported
 exporters
 emigree
 entireties
+expalpate
 exports
 ethonomic
 exposer
