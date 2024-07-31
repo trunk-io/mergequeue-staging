@@ -916,7 +916,6 @@ baggageman
 biarcuated
 baggagemaster
 baggala
-bagganet
 breadless
 bagged
 bagger
@@ -13824,6 +13823,7 @@ bluffable
 boras
 boxy
 boxier
+bagganet
 boxiness
 boxing
 boxings
