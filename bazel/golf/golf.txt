@@ -1445,7 +1445,6 @@ garnierite
 gladatorial
 garnishee
 garnishees
-galleypot
 garnisheing
 gastight
 grogshops
@@ -10762,6 +10761,7 @@ gutterspout
 gutti
 guideline
 garroters
+galleypot
 guttide
 goniatitoid
 gesticulant
