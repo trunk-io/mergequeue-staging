@@ -2663,7 +2663,6 @@ canones
 cerebroganglion
 canoness
 canonic
-coling
 canonical
 canonicalization
 canonicalizes
@@ -25641,6 +25640,7 @@ coroplastae
 cosaque
 coroplastic
 coropo
+coling
 coroscopy
 calvinistical
 corosif

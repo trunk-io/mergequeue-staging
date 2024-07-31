@@ -4743,7 +4743,6 @@ eryops
 ensphered
 encloser
 enclosers
-encloses
 enclosing
 epauletted
 enclosure
@@ -11943,6 +11942,7 @@ enleague
 embargoing
 eristically
 excelling
+encloses
 estop
 excelsior
 earnie
