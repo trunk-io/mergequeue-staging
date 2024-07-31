@@ -1532,7 +1532,6 @@ faunula
 faurd
 forwean
 faured
-favonian
 faussebraie
 faussebrayed
 fauster
@@ -10089,6 +10088,7 @@ featherwing
 flexibilities
 fringeless
 fringelet
+favonian
 fringelike
 fringent
 fringepod
