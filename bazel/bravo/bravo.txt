@@ -4373,6 +4373,7 @@ beckoners
 beckoning
 beclamor
 bringer
+boarspear
 bicyclical
 backhands
 biopsies
@@ -11550,7 +11551,6 @@ boars
 bout
 beleaguer
 boarskin
-boarspear
 boarstaff
 boarwood
 benzoxycamphor
