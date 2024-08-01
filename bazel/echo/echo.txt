@@ -3359,7 +3359,6 @@ eskimoic
 embarricado
 effluvial
 endospore
-embase
 endointoxication
 extensors
 enouncing
@@ -12035,6 +12034,7 @@ excitancy
 excitate
 excitatory
 excitedly
+embase
 entogenous
 excrementitious
 ekoi
