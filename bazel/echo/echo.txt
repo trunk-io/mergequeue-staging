@@ -5640,6 +5640,7 @@ echinoderm
 enfree
 edgemaker
 embosses
+expulsing
 estampedero
 enfrenzy
 enfroward
@@ -8974,7 +8975,6 @@ enmesh
 ergo
 ergodicity
 ergograph
-expulsing
 endolabyrinthitis
 enghosted
 embassade
