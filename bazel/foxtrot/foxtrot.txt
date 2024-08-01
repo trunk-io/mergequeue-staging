@@ -2575,7 +2575,6 @@ ferulae
 flocculation
 fenestrated
 feticide
-fuchsite
 frotted
 ferulas
 falsifiable
@@ -11548,6 +11547,7 @@ fibred
 fuseboard
 fusee
 fusees
+fuchsite
 fuselage
 fuseless
 fuselike
