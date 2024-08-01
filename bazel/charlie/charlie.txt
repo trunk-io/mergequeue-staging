@@ -19273,7 +19273,6 @@ colloidality
 colloider
 colloidize
 colloidochemical
-circum
 collomia
 choregrapher
 collop
@@ -30586,6 +30585,7 @@ cuckoomaid
 cuckoomaiden
 cuckoopintle
 corallum
+circum
 cordwainery
 confoundment
 cuckstool
