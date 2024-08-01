@@ -6261,7 +6261,6 @@ benzalacetone
 benzalazine
 batlet
 benzalcohol
-bakupari
 brachiolaria
 benzaldehyde
 benzaldiphenyl
@@ -9305,6 +9304,7 @@ banditism
 blackmailer
 biprism
 byproduct
+bakupari
 babelize
 bipropellant
 bipunctual
