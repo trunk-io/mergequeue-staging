@@ -528,6 +528,7 @@ abjuration
 abjurations
 abjuratory
 anticarnivorous
+attestor
 anoesis
 abjurement
 archisynagogue
@@ -23105,7 +23106,6 @@ artocarpaceae
 aftershafted
 attesting
 arna
-attestor
 aberia
 akhrot
 attestors
