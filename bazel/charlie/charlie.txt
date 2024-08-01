@@ -9146,7 +9146,6 @@ charmlessly
 charms
 charmwise
 charneco
-charnel
 charnockite
 curbings
 charnockites
@@ -17005,6 +17004,7 @@ clubwood
 coelogyne
 consequent
 cluck
+charnel
 clucked
 clucky
 cludder
