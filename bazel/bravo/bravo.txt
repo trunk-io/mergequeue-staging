@@ -4393,6 +4393,7 @@ beclang
 beclap
 beclart
 beclasp
+bisulfid
 beclasped
 beclatter
 beclaw
@@ -9790,7 +9791,6 @@ bisubstituted
 bisulc
 bisulcate
 blowline
-bisulfid
 bisulfide
 bisulphate
 bisulphite
