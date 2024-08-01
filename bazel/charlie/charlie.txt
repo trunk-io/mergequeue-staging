@@ -1639,7 +1639,6 @@ caltha
 creen
 calthrop
 calthrops
-caltrop
 cineradiography
 cucumbers
 caltrops
@@ -8351,6 +8350,7 @@ chalcolite
 chalcomancy
 classroom
 chalcomenite
+caltrop
 chalcon
 chalcophile
 caquet
