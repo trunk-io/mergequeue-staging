@@ -19425,6 +19425,7 @@ cloudward
 colonies
 colonisability
 colonisable
+cosmologygy
 colonisation
 colonisationist
 colonise
@@ -26169,7 +26170,6 @@ cosmolined
 cosmologic
 cosmological
 cosmologically
-cosmologygy
 cosmologist
 cosmologists
 cosmometry
