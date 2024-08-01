@@ -2559,7 +2559,6 @@ fanfares
 fertility
 fernwort
 filariae
-fertilizability
 fixgig
 frenzies
 ferroprussiate
@@ -5685,6 +5684,7 @@ filecard
 flnerie
 factrix
 flneuse
+fertilizability
 furfuraldehyde
 flench
 forepaws
