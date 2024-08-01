@@ -5527,6 +5527,7 @@ drubbers
 deoppilate
 darkroom
 deoppilation
+defoliations
 deorganization
 deorientalize
 deorsum
@@ -8381,7 +8382,6 @@ doughs
 docibleness
 dialysation
 dialysed
-defoliations
 dialysers
 dialysing
 dialysis
