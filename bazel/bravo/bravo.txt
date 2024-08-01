@@ -5094,7 +5094,6 @@ befringe
 befringed
 befringes
 bate
-befrocked
 befrounce
 befuddle
 befuddled
@@ -11141,6 +11140,7 @@ borable
 befog
 blotched
 benzoglyoxaline
+befrocked
 blotches
 banishments
 blotchy
