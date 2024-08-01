@@ -4874,7 +4874,6 @@ encrusting
 enculturate
 enculturative
 epikleses
-encumber
 encumbered
 encumberer
 eloquent
@@ -11539,6 +11538,7 @@ eversion
 eversporting
 evertebrata
 erector
+encumber
 exegete
 evertebrate
 everted
