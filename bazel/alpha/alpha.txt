@@ -4810,7 +4810,6 @@ aegir
 arains
 aegirine
 aegirinolite
-aegirite
 aegises
 antinuke
 aegisthus
@@ -9088,6 +9087,7 @@ almacenista
 almach
 almaciga
 almacigo
+aegirite
 averroist
 almadie
 almagest
