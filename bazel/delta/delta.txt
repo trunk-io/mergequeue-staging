@@ -6033,7 +6033,6 @@ depurator
 depure
 depurge
 diffinity
-depurging
 depursement
 dogless
 deputations
@@ -11447,6 +11446,7 @@ drinn
 directiveness
 distensions
 darwinism
+depurging
 delphinius
 discoactine
 documentation
