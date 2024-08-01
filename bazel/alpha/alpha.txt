@@ -11978,7 +11978,6 @@ anaryan
 anarithia
 anarithmia
 anarthria
-ascii
 anarthric
 anarthropod
 adjutor
@@ -21847,6 +21846,7 @@ antrum
 antilogarithm
 austrianize
 assistor
+ascii
 ahistorical
 assistors
 assists
