@@ -3298,6 +3298,7 @@ bookishly
 basivertebral
 basker
 baskerville
+barotropic
 basket
 breezing
 behusband
@@ -3644,7 +3645,6 @@ breton
 batrachidae
 batrachite
 batrachium
-barotropic
 batrachoididae
 blackwash
 batrachophagous
