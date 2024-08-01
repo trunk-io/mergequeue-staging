@@ -3006,7 +3006,6 @@ fairwater
 formant
 fibrocyte
 fibrocytic
-frizado
 fibrocrystalline
 fibroferrite
 folates
@@ -10801,6 +10800,7 @@ finlander
 fuddler
 figitidae
 fuddles
+frizado
 framework
 fuddling
 foal
