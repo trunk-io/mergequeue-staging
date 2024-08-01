@@ -14147,6 +14147,7 @@ antechoirs
 antechurch
 afterknowledge
 ancon
+automate
 anteclassical
 antecloset
 alkarsine
@@ -24221,7 +24222,6 @@ automania
 automanipulation
 automanual
 automatable
-automate
 appendectomy
 animous
 automates
