@@ -806,6 +806,7 @@ filarian
 fevercup
 fangs
 faniente
+flatterable
 farcie
 flamencos
 forfeiting
@@ -9722,7 +9723,6 @@ frenate
 finises
 femic
 french
-flatterable
 frenches
 flourless
 fibroareolar
