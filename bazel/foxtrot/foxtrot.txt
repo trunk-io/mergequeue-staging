@@ -1761,6 +1761,7 @@ features
 firing
 featurette
 featurish
+feathermonger
 feaze
 fastnacht
 frizing
@@ -5338,7 +5339,6 @@ fumaroidal
 flinching
 flensing
 filtering
-feathermonger
 flerry
 fearlessly
 flerried
