@@ -1506,7 +1506,6 @@ externs
 evelyn
 empestic
 embottle
-exiledom
 egality
 embryomata
 exogenously
@@ -2167,6 +2166,7 @@ enmist
 excess
 estriol
 elbert
+exiledom
 exonerating
 etaerio
 elbowed
