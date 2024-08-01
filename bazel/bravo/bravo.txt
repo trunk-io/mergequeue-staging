@@ -1184,7 +1184,6 @@ bern
 bucrania
 bajan
 boondocks
-baseband
 backslappers
 bajonado
 beehives
@@ -9144,6 +9143,7 @@ brazilians
 biosocial
 biosociology
 biosociological
+baseband
 biosome
 biospeleology
 batzen
