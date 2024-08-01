@@ -1153,6 +1153,7 @@ fascicule
 foliolate
 fanfarons
 foredescribe
+fatelike
 fasciculus
 flangeless
 flauto
@@ -11705,7 +11706,6 @@ forfeitable
 futuric
 fessewise
 fenagling
-fatelike
 fledge
 futurity
 famished
