@@ -4037,7 +4037,6 @@ biconvexity
 bookkeeping
 beans
 battledoring
-beansetter
 beaconless
 beanstalk
 bacteroidal
@@ -11496,6 +11495,7 @@ blending
 belleek
 blusters
 blutwurst
+beansetter
 bascology
 bm
 buccinae
