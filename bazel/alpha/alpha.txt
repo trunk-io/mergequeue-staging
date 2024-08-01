@@ -3310,7 +3310,6 @@ actuating
 actuation
 asthenope
 antigraft
-actuator
 amarth
 actuose
 acture
@@ -7309,6 +7308,7 @@ alanyl
 alanyls
 alanin
 alanine
+actuator
 alanines
 alanins
 axogamy
