@@ -2848,7 +2848,6 @@ entradas
 embrued
 elevatory
 extirp
-everduring
 evaporize
 expoundable
 elevenfold
@@ -6253,6 +6252,7 @@ enrail
 enrange
 enrapt
 enrapted
+everduring
 enrapting
 entalent
 entertainingly
