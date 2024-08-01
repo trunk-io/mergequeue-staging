@@ -4329,6 +4329,7 @@ freedmen
 fragment
 freebootery
 fishling
+forehanded
 fromage
 fishmeal
 fabliaux
@@ -7623,7 +7624,6 @@ foregut
 fluorinations
 forehall
 forehand
-forehanded
 forehandedly
 forehandedness
 frouncing
