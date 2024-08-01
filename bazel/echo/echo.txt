@@ -2699,7 +2699,6 @@ elegises
 expandable
 epigraph
 electrepeter
-enlinkment
 elegists
 eleidin
 exantlate
@@ -6515,6 +6514,7 @@ embryographic
 exclosure
 entablements
 entach
+enlinkment
 enneasemic
 ectromelic
 expendability
