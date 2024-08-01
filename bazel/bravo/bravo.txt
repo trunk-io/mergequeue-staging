@@ -4712,7 +4712,6 @@ barbigerous
 bedpost
 bedposts
 bedquilts
-bourree
 bluffing
 bedraggles
 bureaucratism
@@ -9075,6 +9074,7 @@ betrothed
 bioplast
 bioplastic
 biopoiesis
+bourree
 biopotential
 bioprecipitation
 biopsy
