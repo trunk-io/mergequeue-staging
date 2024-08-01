@@ -2795,7 +2795,6 @@ baroness
 baronesses
 baronet
 bejel
-baronetcy
 baroneted
 bairnlier
 baronetical
@@ -18108,6 +18107,7 @@ braystone
 busulfans
 busuuti
 befoolable
+baronetcy
 but
 benzhydrol
 bekick
