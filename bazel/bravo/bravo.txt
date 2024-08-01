@@ -3879,6 +3879,7 @@ bch
 bd
 bdellatomy
 bdellid
+beholders
 bdellidae
 bdellium
 beflum
@@ -17312,7 +17313,6 @@ bones
 ballons
 bemadden
 bundling
-beholders
 bipersonal
 bundoc
 bunds
