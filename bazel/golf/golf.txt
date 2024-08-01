@@ -2565,7 +2565,6 @@ genderless
 glides
 gdinfo
 gastraeum
-genteelize
 gymnonoti
 genealogical
 glibber
@@ -8150,6 +8149,7 @@ generally
 glynn
 granuloadipose
 genappe
+genteelize
 granulocytopoiesis
 graminifolious
 granuloma
