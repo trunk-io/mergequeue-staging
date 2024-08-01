@@ -5174,7 +5174,6 @@ expiring
 endolemma
 etiotropic
 endolymphic
-endolysin
 eavedrop
 endome
 exits
@@ -5762,6 +5761,7 @@ evolutional
 englory
 englue
 englut
+endolysin
 exencephalic
 englutting
 engobe
