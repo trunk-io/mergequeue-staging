@@ -5377,6 +5377,7 @@ denticulated
 durability
 diacritic
 denticule
+diminute
 detectible
 dentiferous
 dentiform
@@ -10015,7 +10016,6 @@ denticulation
 diminuent
 devonian
 diminutal
-diminute
 dukes
 diminuted
 deprecatingly

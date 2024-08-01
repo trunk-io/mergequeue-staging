@@ -1405,7 +1405,6 @@ balden
 balderdash
 ballard
 bemire
-baldhead
 baldheaded
 baluster
 brickel
@@ -8003,6 +8002,7 @@ baronnes
 brackish
 bicircular
 boatsmanship
+baldhead
 bandlimits
 bombous
 bustiest
