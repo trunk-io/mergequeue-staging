@@ -1853,7 +1853,6 @@ glucosan
 gastrostomus
 grapefruits
 gastroplasty
-gastrotheca
 gastrotympanites
 gambesons
 gastrotome
@@ -4611,6 +4610,7 @@ gigging
 gloriam
 gadflies
 genear
+gastrotheca
 groceries
 ganglionary
 ginnier
