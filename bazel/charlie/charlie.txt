@@ -21188,7 +21188,6 @@ contraposaune
 computus
 comr
 comradely
-comradeliness
 comrades
 comradeship
 compilers
@@ -25749,6 +25748,7 @@ cashbooks
 correctioner
 corrections
 correctitude
+comradeliness
 corrective
 coelospermous
 correctively
