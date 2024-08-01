@@ -2383,7 +2383,6 @@ fern
 fernandinite
 furcating
 fernbrake
-fascist
 funebrous
 felwort
 fellowship
@@ -6213,6 +6212,7 @@ fluidisation
 fluidises
 fluidising
 furfurans
+fascist
 fluidism
 flittered
 fragmentitious
