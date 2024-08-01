@@ -10504,6 +10504,7 @@ chiffonnier
 chiffonnieres
 chiffonniers
 chifforobe
+coastways
 chifforobes
 cornetcy
 chigetai
@@ -25769,7 +25770,6 @@ correlatable
 chaton
 careworn
 circumintestinal
-coastways
 correlated
 correlating
 correlative
