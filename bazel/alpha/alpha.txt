@@ -1914,7 +1914,6 @@ accusatrixes
 accuse
 accused
 accuser
-accusers
 accuses
 accusive
 accusor
@@ -14518,6 +14517,7 @@ anthracosaurus
 anthracothere
 adjiga
 anthracotheriidae
+accusers
 anthracotic
 anthradiquinone
 anthrahydroquinone
