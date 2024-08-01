@@ -1283,6 +1283,7 @@ fastings
 fastish
 frape
 fastly
+flower
 fuselages
 foreseing
 fornical
@@ -6103,7 +6104,6 @@ fresnels
 flowcontrol
 formalise
 flowe
-flower
 flowerbed
 fondus
 flowerers
