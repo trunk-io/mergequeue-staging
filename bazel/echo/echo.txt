@@ -3715,7 +3715,6 @@ eucosia
 espouser
 embryulci
 embryulcia
-embryulcus
 excursionists
 etagre
 euchromatin
@@ -6550,6 +6549,7 @@ entanglement
 eyestrings
 exfoliation
 entanglements
+embryulcus
 explantation
 entanglers
 entangles
