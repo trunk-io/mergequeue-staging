@@ -616,7 +616,6 @@ doorstep
 dorsicornu
 damlike
 dammar
-dammars
 draping
 dawing
 diapery
@@ -13995,6 +13994,7 @@ disasters
 distressedness
 distresses
 distrest
+dammars
 disbalancement
 distributable
 distributary
