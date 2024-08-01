@@ -1752,7 +1752,6 @@ forbiddable
 flocculency
 fairfieldite
 fogbow
-featliness
 felucca
 feature
 featured
@@ -7014,6 +7013,7 @@ featheredged
 foodstuffs
 fool
 foolable
+featliness
 fooler
 filth
 fermium
