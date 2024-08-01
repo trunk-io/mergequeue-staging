@@ -9155,7 +9155,6 @@ enological
 episematic
 erythroglucin
 erythrolysis
-erythrolytic
 erythrolitmin
 erythromelalgia
 erythron
@@ -12118,6 +12117,7 @@ egocentrism
 exolemma
 exconjugant
 excoriate
+erythrolytic
 excoriating
 excoriation
 enterectomies
