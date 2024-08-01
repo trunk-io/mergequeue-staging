@@ -21920,7 +21920,6 @@ cleanskins
 conduplicate
 crumped
 condurango
-coned
 coneflower
 conehead
 coneys
@@ -25606,6 +25605,7 @@ coronet
 coroneted
 contraflow
 coronets
+coned
 coronetty
 chevied
 coroniform
