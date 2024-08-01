@@ -2291,7 +2291,6 @@ foederati
 feoffing
 flagworm
 fetlow
-feoffor
 feoffs
 fer
 fizziest
@@ -6407,6 +6406,7 @@ formicivorous
 fluorogenic
 flaser
 flosculous
+feoffor
 fluoroscopes
 filiety
 futurama

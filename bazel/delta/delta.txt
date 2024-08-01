@@ -9966,7 +9966,6 @@ dimes
 dimetallic
 dimeter
 dimeters
-dimethyl
 dimethylamino
 dimethylcarbinol
 dimethyldiketone
@@ -15121,6 +15120,7 @@ doko
 dol
 dola
 daintiest
+dimethyl
 disulphonate
 deirdre
 dolcan
