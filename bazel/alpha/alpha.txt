@@ -1908,7 +1908,6 @@ accusatory
 accusatorially
 accusatrix
 accidentals
-accusatrixes
 accuse
 accused
 accuser
@@ -10881,6 +10880,7 @@ amniota
 adda
 amniotin
 archregent
+accusatrixes
 arrah
 amniotitis
 acetylfluoride
