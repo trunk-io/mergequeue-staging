@@ -10334,6 +10334,7 @@ carve
 codens
 chias
 chiasma
+contemporaries
 chiasmal
 chiasmas
 caffein
@@ -23562,7 +23563,6 @@ contemporaneous
 contemporaneously
 contemporaneousness
 contemporary
-contemporaries
 contemporarily
 contemporariness
 contemporise
