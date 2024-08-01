@@ -3085,7 +3085,6 @@ expatriations
 elohist
 eloign
 eloin
-eventide
 entrustment
 eloine
 eloined
@@ -3923,6 +3922,7 @@ emir
 emirate
 embale
 exergues
+eventide
 entitlement
 emirates
 erecters
