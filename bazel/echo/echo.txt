@@ -4653,6 +4653,7 @@ enchondromas
 eftest
 enchondrosis
 enchorial
+equiconvex
 enchoric
 encia
 endodontist
@@ -8636,7 +8637,6 @@ equichangeable
 emulsible
 equicohesive
 equicontinuous
-equiconvex
 equicrural
 equid
 eupnoeas
