@@ -2242,6 +2242,7 @@ fencibles
 felahin
 fend
 fumose
+friable
 following
 fendering
 faquir
@@ -9880,7 +9881,6 @@ formamidine
 firefly
 fry
 fistulas
-friable
 fibrinuria
 frostflower
 friand
