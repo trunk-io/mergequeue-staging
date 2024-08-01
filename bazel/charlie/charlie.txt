@@ -2471,7 +2471,6 @@ chemotactic
 coarsest
 canezou
 chuckle
-competitive
 canfield
 canfieldite
 calyciform
@@ -31207,6 +31206,7 @@ curably
 curacao
 classification
 covariate
+competitive
 curace
 curacy
 curacies
