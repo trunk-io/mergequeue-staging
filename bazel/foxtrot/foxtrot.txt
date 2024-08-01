@@ -1121,6 +1121,7 @@ farthermost
 fleabitten
 fleabiting
 farads
+firers
 farthingdeal
 farthingless
 filiates
@@ -4113,7 +4114,6 @@ fatling
 frizzled
 fireroom
 firerooms
-firers
 firesafe
 firesafeness
 follow
