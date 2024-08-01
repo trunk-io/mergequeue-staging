@@ -11439,7 +11439,6 @@ elopers
 evenlong
 evenminded
 ewers
-evenmindedness
 earlike
 evenness
 evennesses
@@ -12716,6 +12715,7 @@ exomologesis
 exomorphic
 exomorphism
 electrocauterization
+evenmindedness
 electrowin
 exon
 exonerate
