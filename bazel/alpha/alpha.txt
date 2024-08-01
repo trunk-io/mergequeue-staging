@@ -4777,6 +4777,7 @@ aumil
 aefaldy
 ampholytic
 aefauld
+applot
 aegagri
 aegagropila
 autonephrotoxin
@@ -17485,7 +17486,6 @@ apothecium
 amara
 apothegm
 arbitrement
-applot
 airship
 atmiatrics
 apothegmatic
