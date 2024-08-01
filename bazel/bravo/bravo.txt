@@ -1788,7 +1788,6 @@ beaufin
 balsamiticness
 banzai
 balsamodendron
-bifid
 balsamorrhiza
 bourgs
 balsamous
@@ -11405,6 +11404,7 @@ blunderbuss
 blunderbusses
 blunderer
 blunderers
+bifid
 blunderhead
 blunderheaded
 blunderheadedness
