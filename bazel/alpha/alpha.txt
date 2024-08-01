@@ -16576,7 +16576,6 @@ autotoxaemia
 anuresis
 anuretic
 anury
-anuria
 anuric
 antiradicals
 autogamous
@@ -18232,6 +18231,7 @@ aquerne
 aquiculture
 aquiculturist
 aquiferous
+anuria
 actifier
 anticonscription
 aquifers
