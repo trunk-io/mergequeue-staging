@@ -17142,7 +17142,6 @@ apocentre
 apocentric
 apocentricity
 apochae
-adumbrating
 apochromatic
 apochromatism
 apocynaceae
@@ -19449,6 +19448,7 @@ argentamid
 argentamide
 argentamine
 argentan
+adumbrating
 anguilla
 argenter
 adrogate
