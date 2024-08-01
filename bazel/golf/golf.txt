@@ -4893,7 +4893,6 @@ gaspingly
 gyroma
 gyromagnetic
 gyromancy
-gnarl
 gunsmiths
 galleass
 gutser
@@ -9973,6 +9972,7 @@ gravida
 gaylies
 gonogenesis
 garotes
+gnarl
 guards
 guardsman
 guarea

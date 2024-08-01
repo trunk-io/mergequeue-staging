@@ -1195,6 +1195,7 @@ dextral
 disport
 dasyuroid
 dasyurus
+declinations
 dismissers
 dasyus
 dassent
@@ -2881,7 +2882,6 @@ decurrent
 detenus
 decursively
 deletion
-declinations
 decurt
 decurtate
 ducture
