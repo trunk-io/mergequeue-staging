@@ -6538,6 +6538,7 @@ garths
 gnocchi
 gobang
 geomorphology
+grizard
 girthline
 gidyea
 geet
@@ -9243,7 +9244,6 @@ grivet
 gaskets
 gynomonoecism
 goozle
-grizard
 glaziery
 gynostegigia
 grizzly
