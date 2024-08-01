@@ -7064,6 +7064,7 @@ bespend
 bowlin
 bulled
 bespete
+butanol
 brushfires
 butterlike
 bespin
@@ -18121,7 +18122,6 @@ brager
 blastoid
 butanes
 bindable
-butanol
 butanolide
 boma
 briscola
