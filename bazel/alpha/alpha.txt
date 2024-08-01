@@ -17237,7 +17237,6 @@ autolithographic
 aftertax
 apokatastasis
 amyelencephalic
-apolar
 apolarity
 aplectrum
 apolaustic
@@ -24740,6 +24739,7 @@ aviatory
 aviatoriality
 aviatress
 aviatrice
+apolar
 aviatrices
 avicennia
 avicenniaceae
