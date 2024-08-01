@@ -10755,7 +10755,6 @@ ammites
 ammo
 ammobium
 ammocetes
-abelian
 anakinetomer
 ammochaetae
 atocia
@@ -18989,6 +18988,7 @@ apophysial
 archipelago
 atropous
 archipelagoes
+abelian
 aures
 amtmen
 agadic
