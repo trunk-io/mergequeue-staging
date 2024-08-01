@@ -7559,7 +7559,6 @@ bidigitate
 bakeout
 belton
 blastular
-bewormed
 buckjump
 beworming
 bindweeds
@@ -14280,6 +14279,7 @@ brails
 biocatalytic
 brain
 bunodont
+bewormed
 brainache
 braids
 bibbed
