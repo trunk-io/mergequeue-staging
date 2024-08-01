@@ -2750,7 +2750,6 @@ downtimes
 decreases
 drivepipe
 decreasing
-decreasingly
 decreation
 decreative
 decreed
@@ -12545,6 +12544,7 @@ dorbeetle
 disinterred
 docimasy
 disinterring
+decreasingly
 disinters
 disintertwine
 disinthrall
