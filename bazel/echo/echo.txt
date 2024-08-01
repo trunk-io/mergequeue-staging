@@ -5830,7 +5830,6 @@ explainable
 engravement
 engraven
 engraver
-engraves
 engreaten
 engregge
 enounced
@@ -12717,6 +12716,7 @@ exograph
 exolution
 exitus
 epigrammatising
+engraves
 exomis
 exomologesis
 exomorphism
