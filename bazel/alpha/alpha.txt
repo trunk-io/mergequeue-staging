@@ -1052,7 +1052,6 @@ absorbant
 airlock
 absorbed
 aerobian
-absorbedly
 allocatable
 absorbedness
 afterhold
@@ -21259,6 +21258,7 @@ accompletive
 asymptotes
 asymptotic
 asymptotical
+absorbedly
 asymtote
 asymtotes
 alloclasite
