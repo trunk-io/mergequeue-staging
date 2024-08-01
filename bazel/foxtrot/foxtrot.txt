@@ -8069,7 +8069,6 @@ forewings
 fasciolet
 fructify
 fetid
-frondent
 forewit
 forewoman
 faecalith
@@ -11229,6 +11228,7 @@ fractionator
 forevouch
 funje
 frenchman
+frondent
 freckling
 frostbound
 funk
