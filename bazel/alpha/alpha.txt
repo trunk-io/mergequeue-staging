@@ -1360,6 +1360,7 @@ asseverations
 acanthopod
 ascochyta
 acanthopodous
+acubens
 ailweed
 acanthopomatous
 acanthopore
@@ -3326,7 +3327,6 @@ animates
 acuaesthesia
 acuate
 acuating
-acubens
 acuchi
 acuerdo
 acuesthesia
