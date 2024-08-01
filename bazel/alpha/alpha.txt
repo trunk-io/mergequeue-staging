@@ -4702,6 +4702,7 @@ advisor
 advisory
 advisories
 advisors
+avulse
 advitant
 advocacy
 advocacies
@@ -24879,7 +24880,6 @@ avowries
 astronavigation
 avows
 avshar
-avulse
 avulses
 adeption
 acrocyanosis
