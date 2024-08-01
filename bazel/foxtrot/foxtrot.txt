@@ -4009,6 +4009,7 @@ fireback
 fabrics
 fireball
 faxing
+fanions
 fireballs
 flanky
 firebird
@@ -10101,7 +10102,6 @@ fighting
 frisca
 friscal
 firmer
-fanions
 fife
 frisch
 fiendlier
