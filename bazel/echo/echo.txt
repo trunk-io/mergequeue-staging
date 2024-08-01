@@ -273,7 +273,6 @@ exogeny
 eigenvalue
 eastwards
 eastermost
-eastern
 easternism
 entangledness
 easternized
@@ -5607,6 +5606,7 @@ ensculpture
 embolium
 endamoebidae
 enforcibility
+eastern
 enscrolling
 epiphyll
 enforcing
