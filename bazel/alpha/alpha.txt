@@ -2548,6 +2548,7 @@ asthenias
 acipenser
 acipenseres
 acipenserid
+analgesia
 acipenseridae
 acipenserine
 acipenseroidei
@@ -4120,7 +4121,6 @@ adminicular
 adminiculate
 adminiculation
 administerial
-analgesia
 administering
 administerings
 administers
