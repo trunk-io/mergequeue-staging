@@ -25861,7 +25861,6 @@ corrodier
 corroding
 corrosibleness
 corypha
-corrosional
 corrosionproof
 corrosive
 corrosively
@@ -26020,6 +26019,7 @@ corvets
 corvettes
 chiffonier
 corvidae
+corrosional
 corviform
 colorability
 corvillosum
