@@ -3685,7 +3685,6 @@ batterdock
 bullyrag
 battered
 batterie
-bawties
 buckra
 batterman
 batteuse
@@ -13204,6 +13203,7 @@ botch
 botched
 benevolence
 botcher
+bawties
 botchery
 botcheries
 bedrock
