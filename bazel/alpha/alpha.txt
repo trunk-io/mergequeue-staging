@@ -2722,6 +2722,7 @@ acquaintances
 acquaintanceship
 acquaintanceships
 acquaintancy
+afferently
 acquaintant
 acquainted
 acquaintedness
@@ -3614,7 +3615,6 @@ aberuncator
 allosterically
 adduceable
 atef
-afferently
 aahs
 adduced
 adducer
