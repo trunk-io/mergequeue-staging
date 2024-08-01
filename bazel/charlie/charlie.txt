@@ -6302,6 +6302,7 @@ causeless
 causelessness
 causerie
 causers
+chaunt
 causeur
 causeuses
 causeway
@@ -9410,7 +9411,6 @@ clapper
 chaumer
 corticifugally
 chauna
-chaunt
 chaunted
 comptonia
 cohenite
