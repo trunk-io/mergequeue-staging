@@ -6916,6 +6916,7 @@ enteric
 entomostracan
 entomotomy
 entone
+epifauna
 emblema
 entonement
 ecclesiolater
@@ -11990,7 +11991,6 @@ eternisation
 exch
 exchange
 exchangeable
-epifauna
 ethonone
 evacuations
 electroacoustically
