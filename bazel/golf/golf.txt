@@ -2125,6 +2125,7 @@ grifts
 garlanding
 gazabo
 griffins
+gondoliere
 gazabos
 gurdy
 glidewort
@@ -3020,7 +3021,6 @@ glycollic
 geissospermin
 golundauze
 guenons
-gondoliere
 geocerite
 gypsyisms
 geochemical
