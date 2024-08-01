@@ -7328,7 +7328,6 @@ forcepses
 forceput
 fenerate
 forcers
-forecover
 filite
 frimitts
 forchase
@@ -8891,6 +8890,7 @@ flutey
 foundationer
 fussiest
 flunker
+forecover
 flowerlike
 finewed
 foundationlessness
