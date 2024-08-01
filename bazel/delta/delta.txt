@@ -5594,6 +5594,7 @@ discovenant
 departement
 diletant
 dismount
+datchas
 departer
 departing
 departition
@@ -14915,7 +14916,6 @@ dodunk
 dietrichite
 doe
 doebird
-datchas
 doeg
 doeglic
 doegling
