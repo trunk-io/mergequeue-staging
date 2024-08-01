@@ -71,7 +71,6 @@ cabbed
 cabber
 cabby
 cabbie
-cabbies
 cabbing
 cabbled
 cabbler
@@ -30545,6 +30544,7 @@ caterers
 chaenolobus
 cubododecahedral
 cuboid
+cabbies
 cuboidal
 cuboides
 cubomancy
