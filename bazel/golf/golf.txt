@@ -4280,7 +4280,6 @@ glaived
 ginkgoes
 guss
 gilse
-garlicwort
 gilsonite
 gilten
 grandeeship
@@ -4312,6 +4311,7 @@ gimbri
 gymnosporangium
 gametogenic
 gunpaper
+garlicwort
 gimcrackery
 gimcracky
 gimel
