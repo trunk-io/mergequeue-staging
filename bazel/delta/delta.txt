@@ -7077,7 +7077,6 @@ dysmnesia
 destroyable
 dustermen
 destroyed
-destroyer
 dyslexic
 deul
 destroys
@@ -13442,6 +13441,7 @@ disrupting
 depullulation
 disruption
 disruptions
+destroyer
 duettino
 disruptiveness
 disruptment
