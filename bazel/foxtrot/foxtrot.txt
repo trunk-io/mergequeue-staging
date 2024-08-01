@@ -2325,7 +2325,6 @@ feria
 feriae
 ferias
 frized
-fantods
 feridgi
 feridjee
 freemasonic
@@ -3669,6 +3668,7 @@ filmstrip
 filmstrips
 filoplume
 forejudge
+fantods
 fenceful
 filopodia
 floorcloth
