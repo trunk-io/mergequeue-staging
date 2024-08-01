@@ -5311,7 +5311,6 @@ exscriptural
 enteromycosis
 endosmotically
 endosome
-endosperm
 endospermic
 eserines
 embryologic
@@ -12821,6 +12820,7 @@ embryo
 exornation
 etwees
 elected
+endosperm
 exortion
 explicanda
 euthytatic
