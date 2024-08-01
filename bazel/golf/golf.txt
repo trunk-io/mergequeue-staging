@@ -2196,7 +2196,6 @@ gambodic
 gearcase
 gonaduct
 geared
-gearing
 gasterotricha
 gears
 gearshifts
@@ -8517,6 +8516,7 @@ goosishness
 guidership
 grandnephews
 gliriform
+gearing
 gladys
 gastropancreatic
 gadgety
