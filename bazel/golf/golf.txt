@@ -2113,6 +2113,7 @@ gawney
 goldy
 geelhout
 gapa
+gabble
 gawp
 glassmen
 gelded
@@ -9593,7 +9594,6 @@ grozet
 grr
 grs
 goadlike
-gabble
 grubbed
 grubby
 gater
