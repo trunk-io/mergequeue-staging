@@ -6890,7 +6890,6 @@ debars
 duendes
 dhoolies
 desoxyribonuclease
-desoxyribonucleoprotein
 desoxyribose
 decayed
 denigrations
@@ -14397,6 +14396,7 @@ dawdler
 debordment
 didrachmal
 diverts
+desoxyribonucleoprotein
 dossiere
 discorder
 digitizing
