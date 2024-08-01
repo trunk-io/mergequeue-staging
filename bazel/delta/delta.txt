@@ -7771,7 +7771,6 @@ devoicing
 dorsifixed
 devoid
 devoir
-dissymmetrically
 devolatilise
 devolatilised
 devolatilization
@@ -14853,6 +14852,7 @@ dodecahedral
 delivery
 dodecahedric
 dodecahedrons
+dissymmetrically
 dodecahydrate
 dodecanoic
 demiplate
