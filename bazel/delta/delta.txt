@@ -1504,7 +1504,6 @@ deaconries
 deacons
 dermopathic
 deactivated
-discontinuing
 deactivating
 downbend
 deactivation
@@ -11854,6 +11853,7 @@ discusser
 derogatively
 deflection
 discussing
+discontinuing
 discussional
 dyotheism
 discussions
