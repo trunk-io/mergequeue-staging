@@ -12387,6 +12387,7 @@ brooders
 bondservant
 bondsman
 bondsmen
+bulletproofing
 bondstone
 beslimed
 bondswoman
@@ -17042,7 +17043,6 @@ bulletmaking
 bis
 britishhood
 bromargyrite
-bulletproofing
 bodleian
 besnare
 bullets
