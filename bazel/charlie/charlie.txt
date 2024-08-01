@@ -11062,6 +11062,7 @@ chiromyidae
 chastisable
 chiromys
 chiron
+conches
 chinpiece
 chironym
 chironomy
@@ -21463,7 +21464,6 @@ catchword
 conche
 conched
 concher
-conches
 conchfishes
 conchy
 cyanomethemoglobin
