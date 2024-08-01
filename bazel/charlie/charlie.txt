@@ -14610,6 +14610,7 @@ cirsium
 crappers
 chemic
 cirsoid
+conductible
 cirsomphalos
 cirsophthalmia
 cirsotomy
@@ -21904,7 +21905,6 @@ curiosa
 categoric
 chowtime
 conductance
-conductible
 conductimetric
 conducting
 conduction
