@@ -194,6 +194,7 @@ factum
 fullbodied
 facture
 factures
+flagman
 facula
 facular
 faculative
@@ -7306,7 +7307,6 @@ fishgrass
 foobar
 forewarnings
 forbode
-flagman
 funariaceous
 forbore
 forborne
