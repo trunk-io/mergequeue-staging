@@ -6926,7 +6926,6 @@ erastianize
 estuarial
 entopopliteal
 embryoism
-entoprocta
 exsectile
 entopterygoid
 entoptically
@@ -12674,6 +12673,7 @@ elastic
 enchequer
 exoculate
 exoculating
+entoprocta
 exoderm
 exodermal
 ethereous
