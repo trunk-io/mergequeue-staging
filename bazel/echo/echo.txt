@@ -3582,7 +3582,6 @@ embouchment
 eccl
 exchangee
 embound
-ecclesiasticus
 eloining
 eubteria
 essive
@@ -10333,6 +10332,7 @@ exportations
 ectal
 extortionateness
 ethicopolitical
+ecclesiasticus
 echoist
 ethicosocial
 ethide
