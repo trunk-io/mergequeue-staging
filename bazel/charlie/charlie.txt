@@ -4659,7 +4659,6 @@ crenelled
 carpological
 carpologist
 carpometacarpal
-carpometacarpi
 carpometacarpus
 carpompi
 carpools
@@ -24188,6 +24187,7 @@ conventionist
 conventionize
 conventions
 convento
+carpometacarpi
 conventually
 converge
 coexchangeable
