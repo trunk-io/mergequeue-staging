@@ -16311,7 +16311,6 @@ clingstones
 clinia
 clinic
 climata
-clinical
 cameraman
 clinically
 clinician
@@ -17461,6 +17460,7 @@ coattestator
 coattested
 coattesting
 coattests
+clinical
 coaudience
 cobitidae
 coauthered
