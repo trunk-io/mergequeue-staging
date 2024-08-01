@@ -5900,7 +5900,6 @@ agaricin
 agaricinic
 agaricoid
 agarics
-agaricus
 alnuin
 agaristidae
 agarose
@@ -19464,6 +19463,7 @@ argentinean
 adance
 anilidic
 argentinidae
+agaricus
 argentinitrate
 argentinize
 argentino
