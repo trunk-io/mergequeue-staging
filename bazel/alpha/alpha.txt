@@ -4857,7 +4857,6 @@ aeolid
 abaddon
 aeolidae
 aeolididae
-aeoline
 aeolipile
 aeolis
 acetylurea
@@ -11594,6 +11593,7 @@ anaculture
 arienzo
 ahmed
 albicore
+aeoline
 anadem
 admonitions
 anthoxanthin
