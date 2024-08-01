@@ -5989,6 +5989,7 @@ exequies
 enlargedly
 enki
 enkidu
+equips
 enkindler
 eastre
 enkindles
@@ -8771,7 +8772,6 @@ equiprobable
 equiprobably
 epimerize
 epilogize
-equips
 equipt
 equiradial
 egoists
