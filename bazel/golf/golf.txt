@@ -4900,7 +4900,6 @@ galleass
 gutser
 granat
 glottalized
-gyromele
 gamed
 gunnysacks
 gummites
@@ -10003,6 +10002,7 @@ guatusan
 guauaenok
 gaillardia
 goodwilled
+gyromele
 gambrel
 guavas
 gastroenteritis
