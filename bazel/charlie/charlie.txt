@@ -11160,7 +11160,6 @@ chital
 chitarra
 chitarrino
 chitarrone
-claiver
 chitarroni
 chitchats
 chitchatted
@@ -17573,6 +17572,7 @@ cubatures
 cobourg
 cobra
 cobreathe
+claiver
 cobs
 cobstone
 coburg
