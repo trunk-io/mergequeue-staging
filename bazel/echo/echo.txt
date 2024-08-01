@@ -8752,7 +8752,6 @@ equipoising
 equipollence
 externalization
 equipollency
-edam
 equipollently
 engild
 exogenae
@@ -9055,6 +9054,7 @@ exhumate
 erik
 esotropia
 erika
+edam
 erin
 eringos
 eryngos
