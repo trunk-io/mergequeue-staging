@@ -11399,7 +11399,6 @@ crossbowmen
 captivating
 chloroethylene
 chlorofluorocarbon
-cyptozoic
 chlorofluoromethane
 chloroform
 chloroformate
@@ -29924,6 +29923,7 @@ coarsened
 cordewane
 controversial
 cryoprobe
+cyptozoic
 crossley
 crossleted
 crossly
