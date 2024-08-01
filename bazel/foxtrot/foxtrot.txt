@@ -2345,6 +2345,7 @@ fermage
 foredoes
 forearming
 fermal
+foin
 furnitures
 foreign
 featy
@@ -6726,7 +6727,6 @@ fancy
 fabricational
 foiling
 fauld
-foin
 fevery
 fdtype
 foined
