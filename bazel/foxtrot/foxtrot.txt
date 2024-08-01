@@ -1287,7 +1287,6 @@ filicin
 filmsetter
 fasts
 flowmanostat
-faunus
 fatiguability
 fastuous
 fastus
@@ -10952,6 +10951,7 @@ frontotemporal
 flaccidities
 fumago
 flavones
+faunus
 fluorate
 fuminess
 febrifugal
