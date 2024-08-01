@@ -10459,7 +10459,6 @@ chicote
 chicqued
 chicquer
 chicquest
-chicquing
 chics
 chid
 cairba
@@ -19324,6 +19323,7 @@ collun
 collunaria
 collunarium
 collusive
+chicquing
 collusiveness
 collusory
 collocalia
