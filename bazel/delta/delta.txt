@@ -2655,6 +2655,7 @@ duotone
 datos
 draconic
 decamped
+denaturising
 daunii
 decompose
 decomposed
@@ -5057,7 +5058,6 @@ denaturisation
 doughnut
 dryops
 denaturiser
-denaturising
 denaturized
 disabled
 denaturizing
