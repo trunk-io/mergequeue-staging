@@ -781,7 +781,6 @@ cairny
 colonialize
 championlike
 cairns
-chambered
 cutweed
 corseleting
 cays
@@ -12084,6 +12083,7 @@ candles
 cembalist
 curarized
 convection
+chambered
 chorism
 chorist
 choristate
