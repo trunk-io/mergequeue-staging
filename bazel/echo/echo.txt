@@ -3497,7 +3497,6 @@ electret
 eosinic
 eringoes
 embodied
-embodier
 empeoplement
 elzevirian
 embodies
@@ -11375,6 +11374,7 @@ eagrass
 evaporated
 echolocation
 electroballistically
+embodier
 evaporates
 evaporation
 evenoo
