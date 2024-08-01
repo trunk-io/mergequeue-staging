@@ -1632,7 +1632,6 @@ forcite
 faze
 fazed
 fazenda
-fazendeiro
 fb
 formulised
 frontierman
@@ -9206,6 +9205,7 @@ fragmentist
 fragmentizer
 fragmentizing
 furled
+fazendeiro
 fragor
 ferd
 facilitating
