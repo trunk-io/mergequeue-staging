@@ -8762,7 +8762,6 @@ emolumentary
 equiprobable
 equiprobably
 epimerize
-equiproportionality
 epilogize
 equips
 equipt
@@ -10115,6 +10114,7 @@ existimation
 even
 estrogen
 epicondylic
+equiproportionality
 eyeglasses
 eucalyptol
 estrogenic
