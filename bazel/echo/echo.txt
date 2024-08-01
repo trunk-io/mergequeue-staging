@@ -5349,6 +5349,7 @@ endopolyploidy
 emarginula
 ewing
 eikonogen
+epifascial
 endostyle
 extractor
 emotionalising
@@ -7781,7 +7782,6 @@ epiproct
 epidotic
 epidotiferous
 epidural
-epifascial
 epifaunae
 esther
 equisurface
