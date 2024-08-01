@@ -1705,6 +1705,7 @@ deaspirate
 decostate
 deassimilation
 deathblows
+diapositive
 dulotic
 deathcups
 deathful
@@ -8628,7 +8629,6 @@ delusiveness
 diapophyses
 diapophysial
 diapophysis
-diapositive
 diapsid
 diapsida
 dewinesses
