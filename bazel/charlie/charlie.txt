@@ -3356,7 +3356,6 @@ capsulitis
 capsulize
 coinsured
 capsulized
-capsulizing
 circumlocutional
 copulates
 copaline
@@ -14721,6 +14720,7 @@ capshore
 cystignathine
 cystin
 cystine
+capsulizing
 cyetic
 cystirrhea
 criminology
