@@ -2957,6 +2957,7 @@ ballistics
 barrels
 besottingly
 boomable
+beatee
 barrelsful
 brigantines
 barren
@@ -4128,7 +4129,6 @@ beata
 bittersweets
 bufotoxin
 beltways
-beatee
 bisexually
 beaten
 buzuki
