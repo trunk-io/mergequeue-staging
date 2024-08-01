@@ -2777,6 +2777,7 @@ caustics
 cantatrici
 chromocentral
 cantboard
+ceilers
 cantdog
 cantdogs
 canted
@@ -6649,7 +6650,6 @@ ceil
 ceile
 celestine
 ceiled
-ceilers
 ceilidh
 chlorapatite
 certosa
