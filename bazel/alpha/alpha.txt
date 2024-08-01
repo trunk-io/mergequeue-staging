@@ -11634,7 +11634,6 @@ amounts
 anaerophyte
 appetising
 anaeroplastic
-adeodatus
 anaesthesiant
 antenoon
 aglitter
@@ -13538,6 +13537,7 @@ annectent
 annection
 annelid
 amphiblastic
+adeodatus
 annelida
 annelidan
 agrammatical
