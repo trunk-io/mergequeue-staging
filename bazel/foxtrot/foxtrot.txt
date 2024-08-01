@@ -2415,6 +2415,7 @@ fulfulde
 fernleaf
 falchion
 fovea
+fermentative
 fusiform
 fernseed
 fibratus
@@ -4162,7 +4163,6 @@ faquirs
 factors
 foundlings
 fubsier
-fermentative
 firewall
 fraughtage
 fireward
