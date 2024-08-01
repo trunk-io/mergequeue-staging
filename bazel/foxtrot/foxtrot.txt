@@ -964,7 +964,6 @@ forbidal
 fardels
 fornent
 fourchite
-fards
 furrure
 fared
 fellon
@@ -6854,6 +6853,7 @@ frisk
 forehook
 fence
 fricti
+fards
 freekirker
 forwearied
 frisolee
