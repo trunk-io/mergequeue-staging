@@ -5051,7 +5051,6 @@ aerohydropathy
 aerohydroplane
 apotheosise
 ambulacriform
-autological
 aerohydrous
 anodine
 aerolite
@@ -12982,6 +12981,7 @@ angstrom
 angsts
 anguid
 anguidae
+autological
 anguillaria
 abey
 anguilliform
