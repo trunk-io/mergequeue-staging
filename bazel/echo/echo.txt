@@ -4584,6 +4584,7 @@ exhumation
 enchained
 enchainements
 eluvia
+elytron
 enchainments
 encrinus
 ellagate
@@ -13723,7 +13724,6 @@ extirpatory
 ensign
 extispicy
 excisor
-elytron
 ecstatics
 extogenous
 endocrine
