@@ -5635,7 +5635,6 @@ belion
 bussock
 barbas
 beliquor
-beliquors
 belite
 bet
 barrigudo
@@ -18131,6 +18130,7 @@ beento
 bypasser
 butchery
 butcheries
+beliquors
 butcherless
 butchers
 biogas
