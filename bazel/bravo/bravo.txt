@@ -4381,7 +4381,6 @@ beclap
 beclart
 beclasp
 bisulfid
-beclasped
 beclatter
 beclaw
 breakables
@@ -7541,6 +7540,7 @@ bewitchedness
 bewitcher
 buchite
 bewitchful
+beclasped
 baubo
 bandages
 butterflied
