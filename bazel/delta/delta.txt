@@ -6232,7 +6232,6 @@ derma
 diazole
 dermacentor
 dermad
-dermal
 dermalith
 dermamycosis
 disbarment
@@ -16555,6 +16554,7 @@ dasyprocta
 dephlegmated
 dracocephalum
 dracone
+dermal
 doctrinate
 degauss
 draconianism
