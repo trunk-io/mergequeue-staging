@@ -1632,7 +1632,6 @@ goblinish
 gasher
 germanize
 gynarchies
-gassit
 guitermanite
 gastaldite
 gasometer
@@ -10823,6 +10822,7 @@ gaum
 grapnels
 guvacoline
 guz
+gassit
 guze
 guzerat
 guzul
