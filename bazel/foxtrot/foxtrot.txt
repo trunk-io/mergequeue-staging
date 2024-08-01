@@ -4510,7 +4510,6 @@ featest
 funic
 foge
 forbiddingness
-fivebar
 fivefold
 fiveling
 fiddlestick
@@ -5926,6 +5925,7 @@ fribblers
 floriage
 foundational
 foutre
+fivebar
 floriate
 florican
 floricin
