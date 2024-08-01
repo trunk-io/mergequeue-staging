@@ -7293,7 +7293,6 @@ bethesda
 bethesdas
 bethylid
 barquentine
-bethlehem
 barpost
 bethorn
 bethorned
@@ -11851,6 +11850,7 @@ bogged
 boggier
 bubukle
 bogginess
+bethlehem
 bogging
 boggish
 bogglebo
