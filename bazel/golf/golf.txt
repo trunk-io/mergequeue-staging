@@ -830,6 +830,7 @@ garamond
 glossitic
 glanderous
 gambiers
+gulfs
 gambir
 gristles
 gait
@@ -3175,7 +3176,6 @@ geologists
 geologizing
 geom
 garblings
-gulfs
 geomagnetic
 genitourinary
 gadwalls
