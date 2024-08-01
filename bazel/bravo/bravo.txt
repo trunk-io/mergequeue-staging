@@ -12189,7 +12189,6 @@ bania
 braggy
 brava
 bolti
-bolty
 boyarism
 boltin
 bombardman
@@ -15627,6 +15626,7 @@ broadpiece
 broadshare
 broadside
 booklear
+bolty
 broadsided
 beaky
 basis
