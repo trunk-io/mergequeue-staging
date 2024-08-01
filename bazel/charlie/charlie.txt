@@ -14209,7 +14209,6 @@ cutworks
 chingpaw
 carpocervical
 circaetus
-circar
 coriandrol
 circassic
 circean
@@ -25951,6 +25950,7 @@ corticate
 corticated
 corticating
 collagenous
+circar
 cortication
 chiasmodon
 corticifugal
