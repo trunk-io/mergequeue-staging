@@ -2446,7 +2446,6 @@ babylonians
 bemuse
 bardane
 bardcraft
-baruch
 beribboned
 barded
 brasilin
@@ -13716,6 +13715,7 @@ bilskirnir
 bowing
 baggywrinkle
 bowings
+baruch
 bowk
 bowker
 bowknot
