@@ -5596,7 +5596,6 @@ evictions
 easterly
 enfonce
 elbowboard
-enforce
 enforceability
 enforced
 enforcedly
@@ -8954,6 +8953,7 @@ ensnarls
 ergane
 exploitive
 ergasterion
+enforce
 ergastic
 eugeny
 encourager
