@@ -1179,7 +1179,6 @@ fasciole
 fenite
 fourgons
 fulcrate
-filaments
 firesider
 flirtling
 falsificate
@@ -9184,6 +9183,7 @@ fragility
 fleams
 fragilities
 foliosity
+filaments
 fluemen
 fragmentary
 fragmentarily
