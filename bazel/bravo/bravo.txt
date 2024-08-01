@@ -2318,7 +2318,6 @@ barbarisation
 barbarise
 barbarising
 barbarism
-backwards
 barbarisms
 barbarities
 biosystematist
@@ -13699,6 +13698,7 @@ bowerlet
 bowerly
 boyau
 bowerlike
+backwards
 bowermaiden
 bipetalous
 bowers
