@@ -2420,7 +2420,6 @@ feroce
 ferociously
 flections
 fanes
-flatboat
 future
 ferociousness
 ferocity
@@ -4853,6 +4852,7 @@ fluoborate
 flanker
 flankers
 flanking
+flatboat
 flankwise
 flannelbush
 flanneling
