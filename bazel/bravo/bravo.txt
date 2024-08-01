@@ -5290,6 +5290,7 @@ behaver
 bassia
 behaving
 behavior
+beletter
 baryonic
 butcherbird
 bathmotropism
@@ -5582,7 +5583,6 @@ boer
 belemnoidea
 bagasses
 beleper
-beletter
 belfast
 bilio
 bismarckian
