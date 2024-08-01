@@ -2196,7 +2196,6 @@ doorpiece
 decelerates
 decelerator
 decelerators
-deceleron
 december
 decemcostate
 decemdentate
@@ -16968,6 +16967,7 @@ dragline
 drearisome
 dictyosiphon
 dreche
+deceleron
 dreck
 droich
 drecks
