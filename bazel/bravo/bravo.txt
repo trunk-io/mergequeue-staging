@@ -1916,7 +1916,6 @@ bandalore
 bandanaed
 bandar
 bronzed
-bandbox
 braces
 bandboxes
 bandcase
@@ -2502,6 +2501,7 @@ branchiopodan
 barefooted
 bullaria
 barehead
+bandbox
 baboodom
 broadcaster
 backbeats
