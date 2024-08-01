@@ -2657,6 +2657,7 @@ beknights
 barkentine
 barker
 barkery
+benzinduline
 bangos
 barkers
 barkevikite
@@ -6325,7 +6326,6 @@ benzylamine
 benzilic
 benzylidene
 benziminazole
-benzinduline
 benzine
 benzines
 bridie
