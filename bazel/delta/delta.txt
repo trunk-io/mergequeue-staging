@@ -11206,7 +11206,6 @@ disbarred
 decolourised
 dipolarize
 dirhem
-disbars
 disbase
 disbecome
 disbelief
@@ -17904,6 +17903,7 @@ dextromanual
 due
 dotchin
 duecentist
+disbars
 deforester
 duecento
 disematism
