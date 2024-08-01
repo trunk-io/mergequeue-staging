@@ -1310,7 +1310,6 @@ gardenize
 gardenless
 gardenly
 gardenlike
-gamodesmic
 gardenmaker
 gipsyish
 gaudete
@@ -8062,6 +8061,7 @@ gold
 grangers
 granite
 granitelike
+gamodesmic
 granites
 galavants
 gynaeceum
