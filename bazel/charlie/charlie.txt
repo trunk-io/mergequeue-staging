@@ -2657,6 +2657,7 @@ canoeload
 cowherds
 curlier
 canoeman
+collutorium
 canoes
 canoewood
 canoing
@@ -19331,7 +19332,6 @@ choule
 collutory
 collutoria
 collutories
-collutorium
 colluvia
 colluvial
 countlessly
