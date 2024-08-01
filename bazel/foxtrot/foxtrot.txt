@@ -6412,7 +6412,6 @@ fluoroscopes
 filiety
 futurama
 fico
-fluoroscopy
 focuser
 flabellinerved
 fluoroscopies
@@ -10003,6 +10002,7 @@ foregleam
 frigidaria
 fontinalis
 futilize
+fluoroscopy
 foolfishes
 frigidity
 ficoidaceae
