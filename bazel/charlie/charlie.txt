@@ -1997,7 +1997,6 @@ campanile
 campaniles
 campanili
 campaniliform
-campanilla
 campanini
 campanist
 campanistic
@@ -23781,6 +23780,7 @@ contractant
 contractation
 contracted
 contractedly
+campanilla
 contractedness
 contractibility
 cabals
