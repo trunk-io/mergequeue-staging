@@ -4516,7 +4516,6 @@ carolus
 caroluses
 carom
 carombolette
-caromel
 caroming
 caroms
 carone
@@ -5262,6 +5261,7 @@ castellano
 castellans
 castellar
 castellated
+caromel
 castellation
 castellatus
 castellet
