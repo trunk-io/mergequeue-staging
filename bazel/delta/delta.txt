@@ -3352,7 +3352,6 @@ defix
 deflagrable
 deflagrated
 deflagrating
-deflagration
 deflagrator
 deinodontidae
 doumas
@@ -18081,6 +18080,7 @@ dumbcow
 diapalma
 dumbed
 dumbest
+deflagration
 dumbfish
 downheartedly
 dumbfounder
