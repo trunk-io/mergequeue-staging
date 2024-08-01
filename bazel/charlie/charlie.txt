@@ -7859,7 +7859,6 @@ ceruminal
 ceric
 casa
 ceruminiferous
-cerumniparous
 ceruse
 cerusite
 conditorium
@@ -31154,6 +31153,7 @@ cupressinoxylon
 cupressus
 cupric
 chromaticism
+cerumniparous
 crenelate
 cursoria
 crowds
