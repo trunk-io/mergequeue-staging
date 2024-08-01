@@ -2243,7 +2243,6 @@ fenderless
 fenders
 fendillation
 fenestellae
-fenestration
 formatted
 fenestrule
 fibropapilloma
@@ -11700,6 +11699,7 @@ futureless
 foreboard
 futures
 foraminiferan
+fenestration
 freehand
 forfeitable
 futuric
