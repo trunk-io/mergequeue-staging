@@ -9159,7 +9159,6 @@ biosterol
 burdeners
 biostratigraphy
 biotas
-baryes
 bewinter
 bladderless
 biotaxy
@@ -12854,6 +12853,7 @@ boranes
 borani
 borate
 borates
+baryes
 borating
 borax
 borazon
