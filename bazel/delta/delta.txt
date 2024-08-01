@@ -2408,7 +2408,6 @@ decius
 deck
 decke
 disadvantageousness
-decked
 deckedout
 dogget
 deckel
@@ -4429,6 +4428,7 @@ dematerialize
 dematerialized
 disbalance
 dematerializing
+decked
 dateable
 dematiaceous
 deme
