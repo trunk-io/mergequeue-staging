@@ -8948,7 +8948,6 @@ characterizes
 computerese
 chemical
 conscientiously
-characterless
 characterlessness
 countlessness
 clyers
@@ -21654,6 +21653,7 @@ concretist
 concretive
 concretively
 concretization
+characterless
 cero
 concretized
 concretizing
