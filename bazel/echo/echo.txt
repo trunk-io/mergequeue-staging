@@ -8627,6 +8627,7 @@ equiangularity
 equiarticulate
 encincture
 equiaxe
+exolve
 equibalanced
 epapillate
 eelblenny
@@ -12709,7 +12710,6 @@ exognathite
 exograph
 exolution
 exitus
-exolve
 epigrammatising
 exomis
 exomologesis
