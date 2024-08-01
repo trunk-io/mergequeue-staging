@@ -53,7 +53,6 @@ gymnetrous
 gabled
 gallophobia
 gipon
-gableended
 gablelike
 gabler
 greable
@@ -3934,6 +3933,7 @@ glorified
 growingupness
 ghuz
 gi
+gableended
 glaciered
 geoffroyine
 gane
