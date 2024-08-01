@@ -2198,7 +2198,6 @@ geared
 gearing
 gasterotricha
 gears
-gearset
 gearshifts
 goaltenders
 genethliacally
@@ -6939,6 +6938,7 @@ gerbilles
 ghyll
 gropers
 glassworker
+gearset
 gastroenterologic
 glowers
 grivna
