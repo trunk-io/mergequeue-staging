@@ -1498,6 +1498,7 @@ deaconing
 diavolo
 deaconries
 deacons
+dermopathic
 deactivated
 discontinuing
 deactivating
@@ -6374,7 +6375,6 @@ dermonosology
 dermoosseous
 delete
 dermopathy
-dermopathic
 deresinize
 ductilimeter
 dermophyte
