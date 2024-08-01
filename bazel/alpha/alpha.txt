@@ -14738,7 +14738,6 @@ aum
 antiager
 antiagglutinating
 antiagglutination
-antiagglutinative
 antiagglutinin
 analogical
 antiaggression
@@ -18292,6 +18291,7 @@ arabesk
 arabesks
 arabesquerie
 arabesques
+antiagglutinative
 araby
 abnormalized
 arabia
