@@ -24427,7 +24427,6 @@ autoslip
 avar
 academized
 autosomatognosis
-autosomatognostic
 athort
 autosome
 autosomes
@@ -24762,6 +24761,7 @@ alviducous
 avid
 avidin
 avidiously
+autosomatognostic
 avidities
 avidly
 avidness
