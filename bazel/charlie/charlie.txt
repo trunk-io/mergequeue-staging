@@ -5330,6 +5330,7 @@ castlet
 castleward
 cowpony
 crocodylus
+cranet
 castlewise
 castration
 castling
@@ -28139,7 +28140,6 @@ cranes
 cypselous
 cranesbill
 cranesman
-cranet
 craneway
 corpsbruder
 crany
