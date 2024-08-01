@@ -3458,7 +3458,6 @@ glassier
 garmentworker
 glandule
 giver
-gentiin
 gravitative
 gongs
 ginorite
@@ -6147,6 +6146,7 @@ glozer
 gyros
 gluhwein
 gombeenism
+gentiin
 grummels
 glozing
 glub
