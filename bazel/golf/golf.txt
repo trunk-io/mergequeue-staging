@@ -3141,7 +3141,6 @@ geadephagous
 geohydrology
 geohydrologic
 geoid
-glauber
 grammontine
 geoids
 glutted
@@ -7481,6 +7480,7 @@ goulashes
 gouldian
 goumi
 goumier
+glauber
 goup
 goupin
 gour
