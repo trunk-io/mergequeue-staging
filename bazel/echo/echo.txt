@@ -8107,7 +8107,6 @@ electrocardiographs
 epiploitis
 epiploon
 epiplopexy
-epipodial
 einstein
 epigonous
 epipoditic
@@ -11760,6 +11759,7 @@ exactiveness
 equielliptical
 exactly
 electrolysation
+epipodial
 exactness
 elsewhither
 exactus
