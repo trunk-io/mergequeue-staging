@@ -16813,7 +16813,6 @@ clothespins
 clothespress
 clothespresses
 clothy
-clothier
 clothiers
 clothify
 chirk
@@ -31418,6 +31417,7 @@ cornaceae
 curpin
 curple
 currachs
+clothier
 currack
 curragh
 curraghs
