@@ -5386,7 +5386,6 @@ apoquinamine
 affirmer
 affirmers
 adoring
-affirming
 affirmingly
 affirms
 affixation
@@ -16835,6 +16834,7 @@ aphelenchus
 aphelian
 australene
 acridities
+affirming
 aphelion
 apheliotropism
 aphemic
