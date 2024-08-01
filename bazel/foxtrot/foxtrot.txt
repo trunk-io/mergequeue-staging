@@ -5091,7 +5091,6 @@ floorers
 fluidiser
 fictionalizing
 firebrick
-firecoat
 fogon
 forth
 fellas
@@ -8739,6 +8738,7 @@ fortranh
 feudalist
 forzato
 fastenings
+firecoat
 fosie
 fosite
 flagitiously
