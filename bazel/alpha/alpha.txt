@@ -20566,7 +20566,6 @@ antifelony
 arteriostosis
 adient
 arteriostrepsis
-arteriotome
 arteriotomy
 algerita
 arteriotomies
@@ -23049,6 +23048,7 @@ agnomina
 attenders
 attending
 attendment
+arteriotome
 attendress
 attends
 attensity
