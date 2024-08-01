@@ -5337,7 +5337,6 @@ espousage
 endoss
 ersar
 epigean
-endosteal
 estrangement
 emended
 endosteomas
@@ -11258,6 +11257,7 @@ eutrophication
 egohood
 ectoderms
 entoptical
+endosteal
 entocyemate
 echogram
 euxanthate
