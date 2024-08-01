@@ -26811,7 +26811,6 @@ countercheer
 counterclaim
 counterclaimant
 caducei
-counterclaiming
 calligraph
 counterclaims
 conduits
@@ -30458,6 +30457,7 @@ cuartilla
 colessee
 cuartillo
 collapsable
+counterclaiming
 cuarto
 cub
 cuba
