@@ -3659,7 +3659,6 @@ batrachoplasty
 batsman
 batsmanship
 broncs
-biograph
 bedlamic
 batswing
 batt
@@ -16644,6 +16643,7 @@ bedizened
 buddie
 beflower
 bedridden
+biograph
 buddled
 buddler
 buddling
