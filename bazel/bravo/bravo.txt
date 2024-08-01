@@ -578,6 +578,7 @@ bescorches
 backstop
 bringing
 bathoses
+burnbeat
 backstopped
 batardeau
 backstopping
@@ -17751,7 +17752,6 @@ burmese
 burmite
 burnable
 bergamot
-burnbeat
 backswimmer
 bombshell
 burned
