@@ -6737,7 +6737,6 @@ getatability
 goldfields
 girdlestead
 goldfinch
-gammelost
 greillade
 goldflower
 goldhead
@@ -7857,6 +7856,7 @@ growth
 grame
 ginglymodian
 graminaceae
+gammelost
 gelada
 gnathopodous
 gramineae
