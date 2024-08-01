@@ -1347,7 +1347,6 @@ acantholysis
 acanthology
 acanthological
 astragal
-acanthoma
 acanthon
 apocryph
 adherescent
@@ -15331,6 +15330,7 @@ abortive
 adigei
 abortin
 andranatomy
+acanthoma
 arcosolium
 antifrictional
 astrometric
