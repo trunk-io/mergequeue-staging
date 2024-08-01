@@ -1979,7 +1979,6 @@ entailers
 ejecting
 ejection
 ejections
-ejective
 ejectively
 ejectum
 exonship
@@ -11913,6 +11912,7 @@ excavation
 excavational
 excavations
 eliminators
+ejective
 excavator
 extraditable
 excavatorial
