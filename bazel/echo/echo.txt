@@ -6903,7 +6903,6 @@ exempting
 entomophaga
 entomophagous
 entomophila
-entomophily
 entomophilous
 epinephelus
 entomophytous
@@ -13343,6 +13342,7 @@ embryotomy
 expounder
 episcenium
 exagitate
+entomophily
 expounding
 expounds
 euosmite
