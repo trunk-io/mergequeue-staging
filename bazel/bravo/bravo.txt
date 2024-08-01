@@ -80,6 +80,7 @@ babeldom
 babelet
 babelish
 babelism
+blenk
 babels
 babeship
 babesia
@@ -10641,7 +10642,6 @@ basketlike
 blendwater
 blenheim
 biserially
-blenk
 blennadenitis
 bilby
 bemuddlement
