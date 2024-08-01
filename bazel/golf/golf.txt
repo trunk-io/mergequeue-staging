@@ -2502,6 +2502,7 @@ greenland
 gurr
 gemmification
 graals
+grapewise
 gemming
 gunline
 gauche
@@ -8181,7 +8182,6 @@ grapestone
 glossic
 grapevine
 grapevines
-grapewise
 graftages
 graphalloy
 glucoprotein
