@@ -1349,6 +1349,7 @@ astragal
 acanthoma
 acanthon
 apocryph
+adherescent
 aristologist
 acanthopanax
 acanthophis
@@ -3830,7 +3831,6 @@ adheres
 auxohormone
 anileness
 adherescence
-adherescent
 adhesion
 adhesional
 adhesions
