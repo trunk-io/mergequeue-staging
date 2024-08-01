@@ -3222,6 +3222,7 @@ definitude
 defenseman
 duckboard
 dismantler
+desilicified
 defensemen
 defenser
 defensibly
@@ -3303,7 +3304,6 @@ dryopteris
 defiling
 defilingly
 dunt
-desilicified
 dolichosaurus
 diplacanthus
 deflationary
