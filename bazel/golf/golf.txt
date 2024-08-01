@@ -22,7 +22,6 @@ grippit
 gabbler
 gristlier
 gabblers
-gabbles
 griping
 gayal
 gliffing
@@ -3540,6 +3539,7 @@ germination
 germinative
 germinator
 germing
+gabbles
 gilgai
 germiniparous
 goldsinny
