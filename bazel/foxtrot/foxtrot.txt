@@ -824,7 +824,6 @@ fanjets
 fanleaf
 foreseize
 feasts
-fanlights
 fanmaking
 fannel
 fanner
@@ -6769,6 +6768,7 @@ fluorid
 foldaway
 frivoler
 flared
+fanlights
 foldboat
 fare
 felting
