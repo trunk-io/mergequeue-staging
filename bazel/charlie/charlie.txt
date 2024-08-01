@@ -8946,6 +8946,7 @@ characterized
 characterizer
 characterizes
 computerese
+chemical
 conscientiously
 characterless
 characterlessness
@@ -9874,7 +9875,6 @@ chemiatry
 chemiatric
 cattycornered
 chemiatrist
-chemical
 chemicalization
 crocin
 chemicalize
