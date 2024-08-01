@@ -11537,7 +11537,6 @@ chocolatiere
 capacity
 calcomp
 contubernial
-choctaw
 choctaws
 choenix
 creeses
@@ -31835,6 +31834,7 @@ cutiterebra
 calcarium
 cutitis
 cutization
+choctaw
 cutlas
 cutlass
 cadish
