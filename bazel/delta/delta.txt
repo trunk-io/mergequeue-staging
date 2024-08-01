@@ -12740,7 +12740,6 @@ dismal
 dismalest
 dismality
 dismalities
-dismalize
 dismally
 depersonalizes
 dismalness
@@ -16745,6 +16744,7 @@ dramatis
 dramatising
 dramatism
 disvantage
+dismalize
 dramatist
 dissimilarity
 dramatizes
