@@ -7303,7 +7303,6 @@ bethought
 bethrall
 bethreaten
 bethroot
-bethumb
 beleft
 budworm
 bethump
@@ -9163,6 +9162,7 @@ biotechnologically
 biotechs
 bracherer
 barrette
+bethumb
 boart
 biotelemetric
 biotelemetries
