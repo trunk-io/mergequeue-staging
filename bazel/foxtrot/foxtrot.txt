@@ -9718,7 +9718,6 @@ faeroe
 forcelet
 flatbread
 fingerboards
-formalizable
 frenate
 finises
 femic
@@ -10220,6 +10219,7 @@ forepaling
 figured
 frenum
 frizziness
+formalizable
 farraginous
 fastigious
 fatuitous
