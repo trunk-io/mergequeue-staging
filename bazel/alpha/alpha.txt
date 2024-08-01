@@ -8964,7 +8964,6 @@ amakosa
 allothigenous
 acologic
 allothimorph
-allothimorphic
 allothogenous
 anthropodus
 allotype
@@ -24405,6 +24404,7 @@ autobahnen
 autosender
 adjutory
 autosensitization
+allothimorphic
 autosepticemia
 autoserotherapy
 activation
