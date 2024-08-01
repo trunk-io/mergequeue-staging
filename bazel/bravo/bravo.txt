@@ -2572,7 +2572,6 @@ bargir
 bugara
 boomer
 bassetite
-bargoose
 barguest
 barguests
 buzylene
@@ -14911,6 +14910,7 @@ bletonism
 breechloading
 breed
 benedicta
+bargoose
 breedable
 breedbate
 breeders
