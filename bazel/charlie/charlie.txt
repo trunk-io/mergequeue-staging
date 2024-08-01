@@ -105,7 +105,6 @@ cabinet
 cabinetmake
 cabinetmaker
 cabinetmaking
-cabinetry
 cabinets
 cabinetted
 cabinetwork
@@ -5169,6 +5168,7 @@ cassapanca
 coagulatory
 cassare
 cassareep
+cabinetry
 cassata
 chesterfieldian
 cassava
