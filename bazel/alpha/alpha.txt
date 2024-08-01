@@ -2784,7 +2784,6 @@ acrab
 acracy
 acraldehyde
 acranial
-acraniate
 acrasia
 acrasiales
 acrasida
@@ -8707,6 +8706,7 @@ alleviates
 alleviating
 alleviatingly
 alleviation
+acraniate
 alienees
 alleviator
 alleviators
