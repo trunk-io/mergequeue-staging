@@ -7672,6 +7672,7 @@ cerebrophysiology
 cerebropsychosis
 cerebrosclerosis
 cerebrosensorial
+crossable
 cerebrosis
 cerebrospinal
 coralbells
@@ -30073,7 +30074,6 @@ crowfoots
 crowhop
 crowhopper
 crowing
-crossable
 circa
 coetanean
 crowingly
