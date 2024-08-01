@@ -9325,7 +9325,6 @@ gametal
 gobmouthed
 gnathostomatous
 gulps
-groovelike
 groose
 grimp
 gorges
@@ -10217,6 +10216,7 @@ glycoprotein
 guignol
 grippingly
 gelatinotype
+groovelike
 gastrular
 gamboge
 guild
