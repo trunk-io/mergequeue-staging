@@ -588,6 +588,7 @@ caeoma
 caeomas
 circumparallelogram
 campanologer
+customizes
 caesardom
 caesarean
 caesareanize
@@ -31755,7 +31756,6 @@ customizations
 cenobe
 customizer
 customizers
-customizes
 customizing
 customly
 customs
