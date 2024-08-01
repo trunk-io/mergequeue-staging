@@ -173,6 +173,7 @@ factorially
 falk
 factorials
 frangipanis
+frogspawn
 factories
 factoring
 foraminated
@@ -6986,7 +6987,6 @@ flatwise
 fontanel
 flapdock
 fraenums
-frogspawn
 fontange
 floated
 fontanges

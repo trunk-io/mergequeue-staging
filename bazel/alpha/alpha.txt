@@ -1624,7 +1624,6 @@ acclimate
 absinthian
 autochemical
 acclimated
-acclimates
 acclimating
 acclimation
 acclimatisable
@@ -13831,6 +13830,7 @@ antiliturgically
 abrico
 anomite
 anomodont
+acclimates
 anomodontia
 aphesis
 autacoid
