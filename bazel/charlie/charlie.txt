@@ -7975,6 +7975,7 @@ coronize
 chiver
 cestoidean
 cestoids
+crawler
 ceston
 cestraciont
 cestraciontes
@@ -28390,7 +28391,6 @@ crawled
 crawley
 canapes
 crawleyroot
-crawler
 crawlerize
 crawly
 crawlie
