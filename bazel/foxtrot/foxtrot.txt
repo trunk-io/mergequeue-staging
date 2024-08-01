@@ -7779,7 +7779,6 @@ fractals
 franchiser
 foreprise
 foreprize
-flyby
 fovent
 fibrositis
 filiate
@@ -9390,6 +9389,7 @@ frate
 femcee
 frater
 flab
+flyby
 flaubertian
 frateries
 frottole
