@@ -37,6 +37,7 @@ dace
 dacelo
 decken
 daceloninae
+determinantal
 deformers
 deplorers
 dacha
@@ -10509,7 +10510,6 @@ diphosgene
 digestibleness
 diphosphate
 diphosphoric
-determinantal
 deeded
 diphosphothiamine
 damans
