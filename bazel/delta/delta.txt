@@ -1964,7 +1964,6 @@ decadents
 decades
 draggletailed
 decadi
-decadianome
 dauerlauf
 drysalter
 decadic
@@ -9018,6 +9017,7 @@ declivities
 decelerate
 dichromic
 dichromism
+decadianome
 dichronous
 dichrooscope
 dichrooscopic
