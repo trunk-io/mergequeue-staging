@@ -1064,7 +1064,6 @@ enteroplegia
 edgily
 emmetropia
 envine
-equipper
 edibility
 eassel
 edible
@@ -2301,6 +2300,7 @@ electroballistics
 electrobath
 economy
 equestrienne
+equipper
 electrobiologically
 electrobiologist
 electroblasting
