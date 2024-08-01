@@ -2144,7 +2144,6 @@ babylonia
 bankruptly
 bankruptlike
 baillie
-bankrupts
 banks
 banksia
 buzzgloak
@@ -5486,6 +5485,7 @@ beknotted
 balling
 beknottedness
 blase
+bankrupts
 baronetcies
 briareus
 beknown
