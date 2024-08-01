@@ -17814,6 +17814,7 @@ appliques
 applosion
 applosive
 applotment
+atomizing
 appmt
 appoggiatura
 appoggiaturas
@@ -22806,7 +22807,6 @@ atlases
 assahy
 atomized
 antiheterolysin
-atomizing
 atomology
 atoms
 atonalism
