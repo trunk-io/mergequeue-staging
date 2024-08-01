@@ -6475,7 +6475,6 @@ filariids
 facades
 flusters
 fuzzball
-fumage
 foldskirt
 flustrate
 flurry
@@ -9872,6 +9871,7 @@ fretwise
 freud
 fretwork
 futuristically
+fumage
 furlers
 freudian
 freudians
