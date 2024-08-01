@@ -2442,7 +2442,6 @@ acidimetric
 angularize
 acidite
 acidity
-acidities
 acraein
 acidized
 acidizing
@@ -20807,6 +20806,7 @@ asthenic
 anisogeny
 assortedness
 artistically
+acidities
 artistry
 assurate
 artize
