@@ -1113,7 +1113,6 @@ flioma
 fluellite
 farther
 feeler
-falcopern
 figeaters
 forst
 fiscus
@@ -10409,6 +10408,7 @@ frontonasal
 foliate
 frontons
 flasker
+falcopern
 flexuously
 freelovism
 flanchard
