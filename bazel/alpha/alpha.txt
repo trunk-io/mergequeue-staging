@@ -11321,7 +11321,6 @@ ampyxes
 ample
 amplectant
 ampleness
-antiannexation
 amplexation
 aldopentose
 awestruck
@@ -16842,6 +16841,7 @@ aphemic
 aphengescope
 aphengoscope
 amoret
+antiannexation
 anconad
 avidious
 apheresis
