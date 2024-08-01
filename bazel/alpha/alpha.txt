@@ -4488,7 +4488,6 @@ adulators
 adulce
 agendas
 adullam
-adullamite
 abrotin
 adulterant
 adulterates
@@ -14158,6 +14157,7 @@ antecloset
 alkarsine
 antecolic
 antecommunion
+adullamite
 antecoxal
 achates
 antecubital
