@@ -3377,7 +3377,6 @@ accompanying
 acusector
 atresy
 acutance
-acutances
 acutangular
 acutate
 acute
@@ -7796,6 +7795,7 @@ aldern
 alderney
 aldhafara
 anoa
+acutances
 aldhafera
 aldide
 adolescents
