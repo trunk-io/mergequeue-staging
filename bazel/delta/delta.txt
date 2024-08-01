@@ -10980,7 +10980,6 @@ dysacousis
 defense
 denouncements
 dysacousma
-disacquaint
 dandler
 disacquaintance
 disacryl
@@ -17707,6 +17706,7 @@ dressages
 developable
 duals
 dermatitis
+disacquaint
 drachmae
 duan
 dipterocecidium
