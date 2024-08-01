@@ -4305,7 +4305,6 @@ adopted
 archmock
 adoptedly
 adoptee
-adoptees
 adopter
 adoptian
 ammonified
@@ -16433,6 +16432,7 @@ armful
 antiurease
 anthrax
 antiusurious
+adoptees
 antivaccinationist
 antivaccinator
 atolls

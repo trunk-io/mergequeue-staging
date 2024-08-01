@@ -4788,7 +4788,6 @@ flambes
 filatures
 fabroniaceae
 flamboyance
-flamboyancy
 fisheries
 fatherhood
 fryers
@@ -6680,6 +6679,7 @@ fogger
 foggy
 farandole
 fibrine
+flamboyancy
 flitters
 farls
 festivals
