@@ -593,7 +593,6 @@ enucleate
 engulfs
 echiurida
 echiurus
-enalyron
 engineman
 echocardiogram
 echoey
@@ -11869,6 +11868,7 @@ electroreceptive
 exarteritis
 eliminate
 exarticulate
+enalyron
 exceptant
 exarticulation
 electroencephalography
