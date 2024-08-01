@@ -2371,7 +2371,6 @@ barberry
 barberries
 bluestone
 barbers
-banquetings
 backout
 barbershops
 barbet
@@ -5272,6 +5271,7 @@ bignoniad
 begummed
 begun
 binukau
+banquetings
 begunk
 begut
 behale
