@@ -2248,6 +2248,7 @@ electioneering
 electioneers
 elective
 electives
+enter
 extralinguistic
 electivism
 electo
@@ -2394,7 +2395,6 @@ economiser
 electrodynamic
 ened
 eutopia
-enter
 electrodynamism
 elses
 epithecicia
