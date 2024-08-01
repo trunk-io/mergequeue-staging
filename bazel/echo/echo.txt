@@ -7924,7 +7924,6 @@ enfollow
 enlimn
 epileny
 epilepsy
-epileptics
 epileptiform
 epileptogenic
 epileptoid
@@ -11587,6 +11586,7 @@ eviction
 echiniform
 equilucent
 evidences
+epileptics
 evidencing
 evidencive
 especial
