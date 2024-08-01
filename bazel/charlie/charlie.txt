@@ -15518,6 +15518,7 @@ clapboarding
 clapboards
 clapbread
 clapcake
+cuirass
 clape
 clapholt
 carrigeen
@@ -16959,7 +16960,6 @@ clubhauled
 cassation
 chiselled
 clubhouse
-cuirass
 capel
 clubhouses
 companionship
