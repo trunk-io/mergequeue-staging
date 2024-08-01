@@ -14376,7 +14376,6 @@ clinorhombic
 circumgyratory
 circumincession
 circumjacencies
-circumjacent
 circumlental
 circumlittoral
 circumlocution
@@ -31733,6 +31732,7 @@ custodianship
 custodier
 custodies
 cabretta
+circumjacent
 custom
 catfacing
 customable
