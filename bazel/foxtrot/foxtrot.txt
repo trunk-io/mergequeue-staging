@@ -524,6 +524,7 @@ fall
 fallace
 fallacies
 forerunners
+foxly
 fadlike
 feltlike
 flounced
@@ -8037,7 +8038,6 @@ foreuse
 foreutter
 forevalue
 fittable
-foxly
 fieldman
 forever
 friendlike
