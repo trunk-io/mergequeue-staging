@@ -3308,7 +3308,6 @@ definably
 dephase
 defined
 definedly
-definers
 dissuasive
 defines
 dabba
@@ -15786,6 +15785,7 @@ description
 dormy
 dunlap
 dormice
+definers
 dumpishness
 duplation
 decarchies
