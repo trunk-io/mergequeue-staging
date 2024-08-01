@@ -164,6 +164,7 @@ factive
 fleshling
 fondlings
 fecks
+ferrotype
 friths
 factorable
 fruitcakey
@@ -10764,7 +10765,6 @@ flaming
 fucales
 fussify
 formularies
-ferrotype
 flocculate
 ferntickle
 furbelows

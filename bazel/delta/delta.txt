@@ -2366,6 +2366,7 @@ decimalizes
 decimally
 decimals
 decimate
+dovekey
 decimated
 decimates
 decimating
@@ -17122,7 +17123,6 @@ driftfish
 divestiture
 driftier
 drifting
-dovekey
 driftingly
 driftland
 driftless
