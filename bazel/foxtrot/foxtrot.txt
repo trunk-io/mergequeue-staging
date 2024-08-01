@@ -5460,7 +5460,6 @@ foreigners
 flicky
 fraulein
 flidge
-flyeater
 flied
 foetiferous
 flyer
@@ -11126,6 +11125,7 @@ fringillidae
 funduck
 fundulinae
 fundulus
+flyeater
 firemanship
 fthm
 forthbringing
