@@ -4183,7 +4183,6 @@ ecod
 effund
 expellant
 employe
-extracolumella
 exegesis
 euglenida
 employer
@@ -11494,6 +11493,7 @@ egrets
 eventuated
 eventuating
 eunuchize
+extracolumella
 eventuations
 evenwise
 ephectic

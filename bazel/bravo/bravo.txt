@@ -3721,7 +3721,6 @@ battleships
 battlesome
 battlestead
 beadle
-battleward
 battlewise
 balita
 bayamos
@@ -5873,6 +5872,7 @@ brushier
 blunger
 biquintile
 bema
+battleward
 batfowled
 bemad
 badan
