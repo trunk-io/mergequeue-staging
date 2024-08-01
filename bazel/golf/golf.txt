@@ -4565,7 +4565,6 @@ grandmother
 ginglymostomoid
 galleria
 gyniatry
-gyniatrics
 gyniatries
 gink
 gambist
@@ -6413,6 +6412,7 @@ gnomists
 geoagronomic
 gnetum
 gordiaceous
+gyniatrics
 guiltiness
 geisothermal
 gneu
