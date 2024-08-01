@@ -5947,6 +5947,7 @@ flycatcher
 fined
 fissipes
 florigenic
+foldboater
 florigens
 foliages
 floriken
@@ -6766,7 +6767,6 @@ frivoler
 flared
 foldboat
 fare
-foldboater
 felting
 fluxility
 fordoing
