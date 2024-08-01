@@ -4421,7 +4421,6 @@ biostatics
 ballgown
 become
 brutifying
-becomed
 becometh
 becoming
 becomingly
@@ -9316,6 +9315,7 @@ babelize
 bipropellant
 bipunctual
 bipupillate
+becomed
 branles
 biquadrantal
 benzacridine
