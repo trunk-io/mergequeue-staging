@@ -10414,7 +10414,6 @@ disassimilate
 denaturate
 diorite
 designedly
-diorites
 dioritic
 diorthoses
 diorthosis
@@ -14956,6 +14955,7 @@ dog
 drearisomely
 dogal
 dogaressa
+diorites
 dogate
 dysteleological
 downlinking
