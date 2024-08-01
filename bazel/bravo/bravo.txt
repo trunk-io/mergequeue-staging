@@ -1345,7 +1345,6 @@ balaos
 bevel
 browsage
 balarao
-boatward
 bunton
 balat
 balata
@@ -2845,6 +2844,7 @@ barotraumas
 bluebottles
 boneshave
 bacterious
+boatward
 barotraumata
 barouche
 blepharoplegia
