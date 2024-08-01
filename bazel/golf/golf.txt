@@ -4874,7 +4874,6 @@ gauntleting
 gyrencephalous
 gyrocar
 grips
-glossopharyngeus
 glomeration
 guidage
 gaskings
@@ -5082,6 +5081,7 @@ gripier
 garishly
 glabrous
 gastrula
+glossopharyngeus
 gentianaceae
 gconv
 glueman
