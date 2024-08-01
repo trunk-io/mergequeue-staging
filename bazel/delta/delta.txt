@@ -6452,7 +6452,6 @@ dertrum
 daintier
 derust
 dactyls
-derv
 descendentalism
 derve
 dervishism
@@ -18651,6 +18650,7 @@ dwarfest
 dialytic
 dwarfy
 dwarfing
+derv
 deperming
 dwarfishly
 dwarfs
