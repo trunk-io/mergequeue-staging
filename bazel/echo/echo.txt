@@ -3937,6 +3937,7 @@ emirs
 emirship
 equinovarus
 emissary
+enlay
 emissaries
 emissarium
 eels
@@ -6417,7 +6418,6 @@ epicranius
 encyc
 educators
 ensilate
-enlay
 engraced
 ensile
 estivage
