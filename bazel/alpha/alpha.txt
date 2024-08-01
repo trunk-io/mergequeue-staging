@@ -312,7 +312,6 @@ athymy
 abeam
 abear
 analemmata
-annexing
 abearance
 abecedaire
 abecedary
@@ -12819,6 +12818,7 @@ angiohypotonia
 angioid
 arbalister
 atheneum
+annexing
 angiokeratoma
 angiokinesis
 anisogynous
