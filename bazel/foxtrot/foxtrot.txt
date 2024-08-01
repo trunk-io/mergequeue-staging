@@ -5264,7 +5264,6 @@ fleecelike
 fibrilled
 fluoresce
 fleecer
-flatworm
 fleecers
 fleeches
 floristic
@@ -6651,6 +6650,7 @@ fetalism
 flysch
 foes
 frankable
+flatworm
 foetalization
 foppishly
 farcically
