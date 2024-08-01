@@ -678,7 +678,6 @@ damper
 dampers
 dampy
 damping
-debitumenize
 dibbuks
 dampishness
 damply
@@ -15746,6 +15745,7 @@ duodecimals
 diecase
 dorey
 dorestane
+debitumenize
 doyleys
 detent
 desegregated
