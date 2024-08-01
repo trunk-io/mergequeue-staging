@@ -4591,7 +4591,6 @@ gabioned
 glinting
 gorce
 goldbricks
-grindstones
 greasehorn
 ginnel
 gradientia
@@ -5658,6 +5657,7 @@ genevan
 glink
 glint
 grinderies
+grindstones
 gipsies
 grond
 gliomatous
