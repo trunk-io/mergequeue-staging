@@ -2255,7 +2255,6 @@ diomedea
 deviascope
 drogh
 decentres
-decephalization
 decephalize
 deceptibility
 deceptible
@@ -11932,6 +11931,7 @@ duskish
 disegno
 diselectrification
 dischargers
+decephalization
 diselenid
 dihybrids
 diselenide
