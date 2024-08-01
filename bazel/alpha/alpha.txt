@@ -4943,6 +4943,7 @@ aero
 aerobacter
 aftergood
 ablaqueate
+afterhelp
 aerobacteriology
 avatara
 aerobacteriologically
@@ -15216,7 +15217,6 @@ antiempirically
 antiempiricism
 antiempiricist
 antiendotoxin
-afterhelp
 alexandrian
 antilipoid
 antienthusiast
