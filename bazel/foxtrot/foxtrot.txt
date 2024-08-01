@@ -1041,7 +1041,6 @@ flocculable
 foretimes
 farmeries
 farmerly
-frigotherapy
 foresights
 five
 farmership
@@ -7214,6 +7213,7 @@ forcleave
 furacana
 formuliser
 flowerage
+frigotherapy
 fidejussor
 forager
 fitchy
