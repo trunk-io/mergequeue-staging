@@ -5794,7 +5794,6 @@ fondish
 fonly
 foredevote
 feats
-flon
 fosslology
 flood
 flamingo
@@ -9530,6 +9529,7 @@ freebie
 fleetful
 forgivable
 freeboot
+flon
 fencing
 flamelike
 felsites
