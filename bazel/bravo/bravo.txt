@@ -10148,7 +10148,6 @@ blackneck
 blackout
 bivalvular
 blackpatch
-bushrope
 blackpoll
 buxine
 blackpot
@@ -15295,6 +15294,7 @@ brightest
 brightish
 brightness
 brights
+bushrope
 brightsmith
 brightsomeness
 bixa
