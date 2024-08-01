@@ -581,6 +581,7 @@ damascening
 dipleurogenesis
 doormat
 deluster
+diagnosticate
 damascus
 demophobe
 damaskeening
@@ -8269,7 +8270,6 @@ diagnose
 dillydallies
 dragoonage
 diagnostically
-diagnosticate
 diagnosticated
 diagnosticating
 dumpfile
