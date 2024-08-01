@@ -12150,6 +12150,7 @@ bibliographies
 bolstered
 bolsterer
 blauwbok
+branchiostoma
 basilic
 bolsterers
 bitterns
@@ -14441,7 +14442,6 @@ begulfs
 branchiostegal
 bumpsy
 branchiostege
-branchiostoma
 branchiostomid
 branchiostomous
 branchipodidae
