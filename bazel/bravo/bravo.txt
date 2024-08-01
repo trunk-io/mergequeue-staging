@@ -9543,7 +9543,6 @@ births
 bouviers
 balloonist
 bisque
-birthwort
 bysacki
 baroxyton
 blackguardry
@@ -17200,6 +17199,7 @@ bodyguards
 blackfin
 bumblings
 bumbo
+birthwort
 bumboat
 bryozoa
 bumboatman
