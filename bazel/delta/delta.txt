@@ -885,6 +885,7 @@ defenses
 diffusers
 dantophily
 dichord
+disentrain
 dantophilist
 disagglomeration
 dakerhen
@@ -15748,7 +15749,6 @@ dorey
 dorestane
 doyleys
 detent
-disentrain
 desegregated
 dandies
 doria
