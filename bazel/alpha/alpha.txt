@@ -5824,7 +5824,6 @@ amphidromia
 arecolin
 againward
 agal
-agalactic
 agalaxy
 anecdotalism
 agalaxia
@@ -13297,6 +13296,7 @@ anyplace
 aniridia
 anisado
 artamus
+agalactic
 anisal
 anisaldehyde
 anisaldoxime
