@@ -959,7 +959,6 @@ fabes
 fardage
 foliaging
 flipping
-farded
 fardel
 forgetfulness
 fardelet
@@ -1121,6 +1120,7 @@ figeaters
 forst
 fiscus
 farthermost
+farded
 fleabitten
 fleabiting
 farads
