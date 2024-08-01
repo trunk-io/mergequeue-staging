@@ -9797,7 +9797,6 @@ guacimo
 givenness
 grantia
 gravidae
-guaco
 granodiorite
 gambone
 gynogenetic
@@ -10442,6 +10441,7 @@ governorate
 goblinesque
 gallet
 gismos
+guaco
 genitory
 groupthink
 gummose
