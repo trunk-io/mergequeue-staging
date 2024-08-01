@@ -2791,7 +2791,6 @@ canterburies
 coulthard
 canterelle
 canterer
-cantering
 canters
 canthal
 connecters
@@ -6228,6 +6227,7 @@ cankeredly
 cauliflowers
 cauliform
 cauligenous
+cantering
 caulinar
 cauline
 caulivorous
