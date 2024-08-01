@@ -4350,7 +4350,6 @@ enamdar
 enamel
 enamelers
 euclases
-enamelist
 equiped
 egocentristic
 enameller
@@ -10106,6 +10105,7 @@ euonym
 extraviolet
 eupatory
 eparchate
+enamelist
 epimeride
 existimation
 even
