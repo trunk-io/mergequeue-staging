@@ -5850,6 +5850,7 @@ gagroot
 grivois
 glaive
 gallize
+glosseme
 groundwall
 globulimeter
 globulins
@@ -5980,7 +5981,6 @@ gadidae
 galvanizers
 gibbergunyah
 glossem
-glosseme
 gelatinize
 ginzoes
 glossemic
