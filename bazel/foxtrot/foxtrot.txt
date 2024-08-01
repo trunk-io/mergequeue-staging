@@ -4975,7 +4975,6 @@ fable
 flashtubes
 ferricyanhydric
 finish
-fidia
 foxchop
 footsteps
 folky
@@ -8655,6 +8654,7 @@ fortypenny
 fruiteries
 fortissimos
 fortlet
+fidia
 fenzelia
 flatterous
 fortnight
