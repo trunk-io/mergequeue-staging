@@ -4084,7 +4084,6 @@ giga
 gigabyte
 gigabytes
 gigacycle
-gigahertz
 gigameter
 gigantal
 gilled
@@ -8869,6 +8868,7 @@ gingerwork
 guffy
 grenadier
 grapsoid
+gigahertz
 grenadierial
 guggled
 glyptologist
