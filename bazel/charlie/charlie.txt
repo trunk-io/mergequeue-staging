@@ -4720,7 +4720,6 @@ carriable
 carryable
 carriage
 carriageful
-carriageless
 caline
 catallactic
 carriages
@@ -9189,6 +9188,7 @@ charterable
 charterers
 charterhouse
 charterism
+carriageless
 charterless
 charthouse
 charting
