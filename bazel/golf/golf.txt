@@ -2326,7 +2326,6 @@ glucosid
 gallivanter
 gel
 grenadin
-gossans
 geladas
 gymnospore
 gelandelaufer
@@ -3238,6 +3237,7 @@ geophagia
 gaffers
 geophagism
 garabato
+gossans
 geophagist
 geophagous
 gelsemium
