@@ -1010,6 +1010,7 @@ egalites
 espanol
 edaphically
 edaphon
+electroplax
 edaphosaurus
 edda
 eddy
@@ -2567,7 +2568,6 @@ executers
 ethnogeographical
 evincive
 electroplater
-electroplax
 euciliate
 ephestian
 electropneumatic
