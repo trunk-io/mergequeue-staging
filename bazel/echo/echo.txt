@@ -5358,7 +5358,6 @@ educations
 exsiccation
 endostosis
 eunuchism
-endostracum
 embolo
 euproctis
 endotheca
@@ -12199,6 +12198,7 @@ excudit
 extrusory
 exulcerated
 exculpable
+endostracum
 exculpate
 enaliosaurian
 eclosions
