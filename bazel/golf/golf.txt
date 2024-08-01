@@ -2956,6 +2956,7 @@ griffon
 gentlemanlikeness
 gnathion
 gentlemanliness
+goosebone
 grayout
 griotte
 goodtemperedness
@@ -7144,7 +7145,6 @@ guardroom
 goosebill
 gooseboy
 galvanisation
-goosebone
 gallantly
 gaz
 goosed
