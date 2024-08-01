@@ -5404,6 +5404,7 @@ affixt
 adelomorphous
 affixture
 alymphia
+accommodation
 afflate
 afflated
 afflatuses
@@ -17781,7 +17782,6 @@ apply
 appliable
 appliableness
 appliance
-accommodation
 alcaydes
 aphototactic
 applicabilities
