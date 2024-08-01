@@ -12753,7 +12753,6 @@ ecorche
 edificable
 ensorcel
 exophoric
-exophthalmic
 exophthalmos
 emotionalism
 exopod
@@ -13614,6 +13613,7 @@ erythrine
 enamored
 erosions
 eatanswill
+exophthalmic
 enables
 eventuate
 extenuative
