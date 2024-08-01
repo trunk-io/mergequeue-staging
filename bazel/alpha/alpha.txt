@@ -23051,6 +23051,7 @@ agnomina
 attenders
 attending
 attendment
+automorphism
 arteriotome
 attendress
 attends
@@ -24263,7 +24264,6 @@ agglomerations
 automobility
 automorph
 automorphic
-automorphism
 automotive
 automotor
 automower
