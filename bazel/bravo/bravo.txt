@@ -790,7 +790,6 @@ badaxe
 badchan
 beggarliness
 birdikin
-baddest
 baddy
 baddie
 bewry
@@ -2584,6 +2583,7 @@ baric
 bundt
 barycenter
 bulgiest
+baddest
 barycentric
 biped
 basinful
