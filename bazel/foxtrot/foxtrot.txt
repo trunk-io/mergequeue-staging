@@ -5636,6 +5636,7 @@ faire
 fourble
 fliting
 fishnet
+frisian
 folkfree
 flytrap
 flytraps
@@ -10116,7 +10117,6 @@ form
 friedman
 friseurs
 frivolling
-frisian
 finnicky
 flexile
 frisked
