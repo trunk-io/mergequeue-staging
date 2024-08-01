@@ -3285,6 +3285,7 @@ falchions
 flo
 frilliness
 fabric
+fiascoes
 fierasferidae
 fierasferoid
 febricitation
@@ -4916,7 +4917,6 @@ flashbulb
 flashcube
 feminization
 flashcubes
-fiascoes
 finalized
 flasher
 ferritin
