@@ -3400,7 +3400,6 @@ deflore
 deflorescence
 demiquaver
 dropforged
-dolomites
 donacidae
 disbelieved
 deflowering
@@ -17100,6 +17099,7 @@ drier
 dryer
 disframe
 dryerman
+dolomites
 driers
 defeated
 drivage
