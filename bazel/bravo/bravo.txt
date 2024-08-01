@@ -1027,7 +1027,6 @@ baybolt
 baycuru
 baraca
 baidar
-barbascoes
 baidarka
 baidarkas
 basophil
@@ -15078,6 +15077,7 @@ begrime
 bryan
 bryanism
 bryanite
+barbascoes
 briarberry
 briard
 backdrop
