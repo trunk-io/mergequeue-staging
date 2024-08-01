@@ -5894,7 +5894,6 @@ bemaddening
 blennoemesis
 bemaddens
 bemajesty
-bemantle
 bemar
 bemas
 betta
@@ -12878,6 +12877,7 @@ bordage
 baisemain
 boxfish
 blaring
+bemantle
 bordar
 bunches
 beleve
