@@ -2599,7 +2599,6 @@ engyscope
 expensive
 estramazone
 electroscopic
-electroshocks
 eyeful
 electrosmosis
 electrostatic
@@ -10414,6 +10413,7 @@ elutriator
 ethmopresphenoidal
 empiriological
 earthiest
+electroshocks
 epizeuxis
 extranatural
 euphemiser
