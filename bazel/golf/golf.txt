@@ -5978,7 +5978,6 @@ gweducs
 geums
 gifture
 glossas
-gloomily
 glossator
 glucosone
 gadidae
@@ -9456,6 +9455,7 @@ gnomologist
 greyflies
 galactolytic
 groundswell
+gloomily
 gorging
 groundwave
 genderer
