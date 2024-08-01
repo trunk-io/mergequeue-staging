@@ -6237,7 +6237,6 @@ guile
 gluily
 genesiacal
 geniculation
-gluiness
 globigerine
 grangerized
 geopolitik
@@ -10257,6 +10256,7 @@ geologic
 gangrel
 gastroptosis
 giddap
+gluiness
 goss
 guilts
 goniometer
