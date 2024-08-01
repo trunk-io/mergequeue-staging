@@ -4949,7 +4949,6 @@ endboard
 entea
 ewe
 ensilist
-enddamage
 enddamaging
 endear
 effector
@@ -14047,6 +14046,7 @@ ejects
 eurypylous
 emanationist
 extremer
+enddamage
 eelworms
 ectoprocta
 extremistic
