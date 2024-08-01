@@ -511,6 +511,7 @@ esthetically
 espino
 evaluators
 eirack
+emptores
 enfeoff
 echafaudage
 equimolecular
@@ -12158,7 +12159,6 @@ excrescencies
 excrescential
 emphasising
 excreta
-emptores
 excretal
 excreter
 excretes
