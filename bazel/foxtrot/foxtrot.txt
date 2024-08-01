@@ -2385,7 +2385,6 @@ fermorite
 fibra
 fern
 fernandinite
-flexured
 furcating
 fernbrake
 fascist
@@ -8878,6 +8877,7 @@ foumart
 fomented
 frond
 faulds
+flexured
 floury
 filliped
 fertilizations
