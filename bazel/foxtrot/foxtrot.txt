@@ -1890,7 +1890,6 @@ fuzzy
 feedbin
 farandola
 flummox
-feedboxes
 floodway
 fashions
 feeding
@@ -2203,6 +2202,7 @@ fencelessness
 forshape
 fencelet
 firelocks
+feedboxes
 familial
 frisbee
 frolickly
