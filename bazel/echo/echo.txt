@@ -2025,7 +2025,6 @@ elaborated
 elaborately
 elaborates
 elaboration
-explications
 endure
 elaborations
 elaboratively
@@ -3379,6 +3378,7 @@ embden
 embed
 enlargeableness
 esprits
+explications
 embedded
 embedder
 euthyneura
