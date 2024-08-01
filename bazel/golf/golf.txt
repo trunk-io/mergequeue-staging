@@ -4015,7 +4015,6 @@ gibingly
 gruesome
 gymnostomina
 gypsophily
-geostrophic
 gyrous
 gibs
 graveled
@@ -4733,6 +4732,7 @@ gipsire
 gypsyry
 garfishes
 globose
+geostrophic
 gliadin
 glacialist
 glaucium
