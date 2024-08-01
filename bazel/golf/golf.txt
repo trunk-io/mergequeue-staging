@@ -6130,7 +6130,6 @@ genistein
 gammoner
 glowbard
 glowed
-glower
 glowered
 gymnadenia
 glowering
@@ -8414,6 +8413,7 @@ gradatim
 grating
 gratingly
 gratings
+glower
 galactodensimeter
 gephyrocercy
 gratuity
