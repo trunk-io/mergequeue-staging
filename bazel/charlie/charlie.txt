@@ -15264,6 +15264,7 @@ crania
 cladodium
 cerographies
 cladodontid
+crebricostate
 cladodontidae
 cobitis
 centerboard
@@ -28528,7 +28529,6 @@ creatureship
 creaturize
 contredanse
 creaze
-crebricostate
 crebrisulcate
 crebrity
 crebrous
