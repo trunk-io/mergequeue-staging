@@ -1553,7 +1553,6 @@ deadlight
 deadlihead
 deadlines
 duns
-deadliness
 doctrinally
 deadlock
 deadlocked
@@ -12834,6 +12833,7 @@ disobliging
 deaccessions
 disciplinatory
 disobstruct
+deadliness
 dithers
 dapicho
 dulses
