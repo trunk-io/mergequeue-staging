@@ -4003,6 +4003,7 @@ fiques
 firbolg
 frimaire
 fyrd
+frater
 fortyfold
 furazane
 fowage
@@ -9394,7 +9395,6 @@ fratcher
 fratchety
 frate
 femcee
-frater
 flab
 flyby
 flaubertian
