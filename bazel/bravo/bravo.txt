@@ -6443,6 +6443,7 @@ benzpyrene
 blowguns
 blacksmithing
 blomstrandine
+ballistae
 bruskest
 broomtail
 barbermonger
@@ -13145,7 +13146,6 @@ bossiness
 biassedly
 bossing
 bowler
-ballistae
 bosslet
 badnesses
 bitterblain
