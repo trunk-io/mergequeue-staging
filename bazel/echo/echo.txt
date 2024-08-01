@@ -564,7 +564,6 @@ equilibrist
 echinite
 echinocereus
 extemporary
-eruptive
 echinochrome
 echinococcosis
 echinococcus
@@ -11074,6 +11073,7 @@ eggplant
 eupnoeic
 eupomatiaceae
 exship
+eruptive
 effigiation
 elutions
 eupraxia
