@@ -2453,6 +2453,7 @@ ademption
 amovability
 acidoid
 acidolysis
+allometry
 acidology
 acidometry
 acidophil
@@ -8870,7 +8871,6 @@ allomerizing
 allomerous
 acenaphthylene
 averager
-allometry
 acerola
 allomorph
 antimedievalism
